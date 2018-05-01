@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook-susie.jpg
-youtube_code: 9y5JUWpKn2I
+youtube_code: ww1jJzU7_z0
 ---
 
 {% include youtube.html %}
