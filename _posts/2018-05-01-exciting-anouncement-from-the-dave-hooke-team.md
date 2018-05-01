@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exciting Anouncement From the Dave Hooke Team
-date:
+date: 2018-05-01 20:40:06
 tags:
 excerpt: >-
   Our team has an exciting announcement to share with you all: We’re joining
