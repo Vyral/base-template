@@ -22,9 +22,9 @@ youtube_code: 6WjRUOx9-ss
 
 Today, I have some thought-provoking points for you to consider regarding the employee shortage.
 
-**There are 10,000 baby boomers retiring each day and here are many millennials that are joining the workforce.** However, coaching and teaching this new generation takes time, so they aren’t a direct replacement for those who are rapidly retiring. Because of this, there is an employee shortage, and experts say that the shortage is only going to get worse before it gets better.
+**Each day, 10,000 baby boomers retire from their careers, and many millennials are starting to join the workforce.** However, coaching and teaching this new generation takes time, so they aren’t a direct replacement for those who are rapidly retiring. Because of this, there is an employee shortage, and experts say that the shortage is only going to get worse before it gets better.
 
-Some people may not realize that **there are additional changes happening which also impact the workforce.** We engage in thousands of conversations, and we’ve been hearing about many trends that people are looking for in their next opportunity. They’re looking for professional growth, competitive compensation and benefits, the opportunity to be an integral part of an organization. They’re also looking for companies to them find a work-life balance, meaning they might be looking for telecommuting or a compressed work week.
+Some people may not realize that **there are additional changes happening which also impact the workforce.** We engage in thousands of conversations, and we’ve been hearing about many trends that people are looking for in their next opportunity. They’re looking for professional growth, competitive compensation and benefits, and the opportunity to be an integral part of an organization. They’re also looking for companies to help them find a work-life balance, meaning they might be looking for telecommuting or a compressed work week.
 
 Additionally, individuals are looking for organizations that are engaging with them from the first point of contact, through the interview process, and into hiring.
 
@@ -40,6 +40,6 @@ If you are engaged with recruiting firms to help you find talent, make sure that
 
 While finding top talent isn’t easy, I hope these talking points offer a little bit of insight to you about your hiring process.
 
-If you have any questions about this, feel free to reach out to us.
+If you have any questions about this, feel free to reach out to us. We'd be happy to help you.
 
 &nbsp;
