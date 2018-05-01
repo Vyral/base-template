@@ -12,13 +12,14 @@ excerpt: >-
   over year. Sellers in the lower price points will likely have multiple bids
   for their homes, while buyers in the higher price points will have much more
   to choose from. For more on the market stats, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Market+Update+%257C+Whats+Going+on+in+the+Palm+Beach+County+Market%253F.mp4
 pullquote: Real estate today is very local; there’s no one-size-fits-all approach.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: SwSq6--U1SY
 ---
 
 {% include youtube.html %}
