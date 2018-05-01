@@ -22,39 +22,32 @@ youtube_code: wjlDyu7nAv4
 
 {% include youtube.html %}
 
-<center><em>Our team has an exciting announcement to share with you all: We’re joining Keller Williams! Let’s take a look at what this change will mean moving forward.</em></center>
+<center><em>Our team has an exciting announcement to share with you all: We&rsquo;re joining Keller Williams! Let&rsquo;s take a look at what this change will mean moving forward.</em></center>
 
 <center>&nbsp;</center>
 
 The Dave Hooke Team has had an exciting few weeks. Right now we’re in the middle of a long-awaited transition, so I’m excited to share the news about this change with you today.
 
-We’re proud to say that we’ve recently expanded our presence to include a Keller Williams office in Camp Hill. This development is great news for our team and our clients alike.
+**We’re proud to say that we’ve recently expanded our presence to include a Keller Williams office in Camp Hill.** This development is great news for our team and our clients alike.
 
 Before I move on to talking about what these changes mean for you, I’d like to discuss what’s not changing. Our people and the HH&E leadership will remain exactly the same. We will have the same agent and team structure, the same mission, and the commitment to serving our clients. My main focus as a leader will be to continue to support my agents and my business partner Matt Madden.
 
-Now let’s take a look at what will be changing:
+**Now let’s take a look at what will be changing:**
 
-There will be better training for our team.
-
-We will build leverage by implementing better technology.
-
-We will be joining a network within the world’s largest real estate company.
-
-We will be replacing our signs.
+1. There will be better training for our team.
+2. We will build leverage by implementing better technology.
+3. We will be joining a network within the world’s largest real estate company.
+4. We will be replacing our signs.
 
 Finally, the last change I want to highlight is that we’ll be changing our name to KW of Central PA. Keller Williams is one of the most powerful brands in real estate, so we are very much looking forward to what lies ahead.
 
-If you aren’t already familiar with Keller Williams, allow me to share five key facts about the brand:
+**If you aren’t already familiar with Keller Williams, allow me to share five key facts about the brand:**
 
-Keller Williams is the largest real estate company in the United States in terms of both total number of transactions as well as sales volume.
-
-Keller Williams is known as the best real estate training company in the world.
-
-Keller Williams has added technology to its vision statement.
-
-Keller Williams is an agent-centered company.
-
-Keller Williams has a strong emphasis on culture and giving back to the community.
+1. Keller Williams is the largest real estate company in the United States in terms of both total number of transactions as well as sales volume.
+2. Keller Williams is known as the best real estate training company in the world.
+3. Keller Williams has added technology to its vision statement.
+4. Keller Williams is an agent-centered company.
+5. Keller Williams has a strong emphasis on culture and giving back to the community.
 
 In summary, there is a lot our team has in common with the Keller Williams brand. Joining Keller Williams will give us a chance to make an even bigger impact on the communities we serve.
 
