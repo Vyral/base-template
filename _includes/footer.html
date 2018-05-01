@@ -4,7 +4,7 @@
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
-	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}<br>Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
@@ -14,7 +14,7 @@
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}<br>Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 							{% endif %}
@@ -27,7 +27,7 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
-	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}<br>Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
@@ -40,7 +40,7 @@
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
-	          <span itemprop="founder">{{site.data.settings.client.name}}, Broker</span>
+	          <span itemprop="founder">{{site.data.settings.client.name}}<br>Broker</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
