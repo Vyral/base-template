@@ -1,15 +1,14 @@
 ---
 layout: post
 title: 'Investors: Have You Considered Purchasing a Foreclosure Property?'
-date: 2018-05-01 21:40:33
+date: 2018-05-01 21:40:00
 tags:
   - Real Estate
   - Market Update
-  - >-
-    nvestors: Don’t underestimate the opportunities presented by foreclosure
-    properties. Bank-owned distress properties are a great resource for those
-    with the skills and resources to extract their true value.
-excerpt:
+excerpt: >-
+  Investors: Don’t underestimate the opportunities presented by foreclosure
+  properties. Bank-owned distress properties are a great resource for those with
+  the skills and resources to extract their true value.
 enclosure:
 pullquote: >-
   Foreclosure properties represent some of the best investment opportunities for
@@ -44,5 +43,3 @@ Before bidding can begin, the commissioner will ask all bidders to verify that t
 Once the sale has been confirmed, you will open escrow. You’ll then have 30 days to consummate the sale. If everything is on track you will at last be issued a fully insured title deed called a “commissioner's deed.”
 
 Of course, I would be happy to further explain this process. So if you have any other questions, would like more information, or are interested in purchasing a foreclosure property, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
