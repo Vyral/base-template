@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Why Did Susie Schultz Choose Jeff Cook Real Estate?
+title: Why Did Susie Shultz Choose Jeff Cook Real Estate?
 date: 2018-04-25 16:28:00
 tags:
   - Real Estate
-excerpt: 'By being a part of our team, Susie Schultz was able to triple her income.'
+excerpt: 'By being a part of our team, Susie Shultz was able to triple her income.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Why+Did+Susie+Schultz+Choose+Jeff+Cook+Real+Estate%253F.mp4
 pullquote: 'I just did what Jeff told me to do, and it worked for me.'
@@ -17,7 +17,7 @@ youtube_code: 9y5JUWpKn2I
 
 {% include youtube.html %}
 
-For our latest testimonial, we’re joined by Susie Schultz. Here’s her story.
+For our latest testimonial, we’re joined by Susie Shultz. Here’s her story.
 
 Susie has been with us since October 2014, when she moved here from Tennessee. She has a real estate marketing and property management background and has been working in that field for the last 12 years. Since joining us, she’s been able to triple her income.
 
