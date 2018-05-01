@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Exciting News From the Dave Hooke Team
+title: Exciting Anouncement From the Dave Hooke Team
 date:
 tags:
-  - Announcements
 excerpt: >-
   Our team has an exciting announcement to share with you all: We’re joining
   Keller Williams! Let’s take a look at what this change will mean moving
