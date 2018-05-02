@@ -21,7 +21,7 @@ youtube_code: 19VbOg9_ty8
 
 How is the real estate market in Northern Virginia? Let’s answer this question today with our latest market update.
 
-To begin, home purchase activity in our area has changed a little from what we saw at this time last year. New pending contacts are down 5.7% year over year. The number of closed sales has also decreased since this time last year, but not very much. This statistic has dropped just .3% since March of 2017.
+To begin, home purchase activity in our area has changed a little from what we saw at this time last year. New pending contacts are down 5.7% year over year. The number of closed sales has also decreased since this time last year, but not very much. This statistic has dropped just 0.3% since March of 2017.
 
 {% include pullquote.html %}
 
