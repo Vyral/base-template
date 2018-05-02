@@ -36,10 +36,12 @@ When it comes to courthouse auctions, a professional such as myself may bid on y
 
 {% include pullquote.html %}
 
-Before bidding can begin, the commissioner will ask all bidders to verify that they possess a cashier's check.
+Foreclosure, the process through which a bank reclaims a property where the homeowner is in default, is handled differently in many states. **I****n Hawaii, the process is known as judicial foreclosure. **
 
-**While there is not typically a minimum bid, the bank will often put forward a “reserve price”** bid to ensure that the baseline is set at either the remaining loan balance or the market value. The lower figure between these two will usually be the one the foreclosing bank will bid. After this point, the auction will proceed as normal. If you win, know that 10% of the sales price will be owed immediately.
+Once the court has granted the plaintiff (the bank) its motion for summary judgement, the judge then appoints a commissioner, usually an attorney. The attorney must file three notices in the paper announcing the court sale date and hold two open houses at the property. **This process usually takes 6 -10 weeks. **
 
-Once the sale has been confirmed, you will open escrow. You’ll then have 30 days to consummate the sale. If everything is on track, you will, at last, be issued a fully insured title deed called a “commissioner's deed.”
+Eventually, the foreclosure auction sale will occur on the courthouse steps at noon on the announced date. The winner of the highest bid gets the property, but the process doesn't end there. The commissioner**&nbsp;**then files documents to schedule a confirmation hearing which usually occurs 6-8 weeks later. **At the confirmation, the bidding is reopened**. At that time if a buyer wants to bid, the minimum bid must be at least 5% higher than the price at the courthouse. So, if a home were auctioned off on the courthouse steps for $700,000, when the bidding is reopened at the confirmation hearing, the minimum bid would be $735,000.
+
+There may be multiple bidders at the confirmation hearing and the price will go up until the auction is completed. Then, there are more legal documents to be processed and filed and, ultimately, **the buyer receives a commissioner’s deed.**
 
 Of course, I would be happy to further explain this process. So if you have any other questions, would like more information, or are interested in purchasing a foreclosure property, feel free to give me a call or send me an email. I look forward to hearing from you soon.
