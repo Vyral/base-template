@@ -24,7 +24,7 @@ youtube_code: g6Qy4q2X5cs
 
 <center>&nbsp;</center>
 
-<center><p>Looking for a home?&nbsp;<a target="_blank" href="http://www.thestarygroup.com/searches/new">Search our homes</a><br />Selling Your home?&nbsp;<a target="_blank" href="http://www.thestarygroup.com/sellersguide">View the Home Seller's Guide</a></p></center>
+<center><p>Looking for a home?&nbsp;<strong><a target="_blank" href="http://www.thestarygroup.com/searches/new">Search our homes</a></strong><br />Selling Your home?&nbsp;<strong><a target="_blank" href="http://www.thestarygroup.com/sellersguide">View the Home Seller's Guide</a></strong></p></center>
 
 Right now there’s low inventory in our marketplace, and because of this, we’re seeing a lot of multiple offer situations happening with listed homes.
 
