@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}
+&nbsp;
 {: .present-before-paste}
 
 Today, I’d like to share with you seven highlights from our no-hassle home marketing system. The document these highlights come from is simply an overview of how we sell properties differently than our competition.
