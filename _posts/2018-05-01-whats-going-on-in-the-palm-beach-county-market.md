@@ -5,7 +5,7 @@ date: 2018-05-01 15:15:00
 tags:
   - Real Estate Market Info
 excerpt: >-
-  If you don’t follow market numbers everyday, keeping up with what’s going on
+  If you don’t follow market numbers every day, keeping up with what’s going on
   in the Palm Beach real estate market can be confusing. That’s why I’m going to
   break down the numbers for you in today’s market update. Overall, there is
   some really good news for our sellers. The median price point rose by 6% year
@@ -32,7 +32,7 @@ Even more important than that is what’s going on in your price point and neigh
 
 {% include pullquote.html %}
 
-* Between $300,000 and $400,000: There is only 3.18 months of inventory
+* Between $300,000 and $400,000: There are only 3.18 months of inventory
 * Between $400,000 and $600,000: We’ve returned to a seller’s market with 4.78 months of inventory.
 * Between $600,000 and $1 million: We have 6.9 months of inventory, which is a huge improvement. Depending on your community, this could be a super hot market or a cooler one.
 * More than $1 million: There are a lot of opportunities and deals in this price range, where there is almost 13 months of inventory available.
