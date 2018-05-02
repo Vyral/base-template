@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prepare Your House for This Year’s Snowmelt
+title: Preparing Your House for Snowmelt
 date: 2018-05-01 18:12:00
 tags:
   - Expert Advice
@@ -29,7 +29,7 @@ Spring is finally here in Alaska and it came with the melting of the snow. Today
 
 **3. Double check your GFCI.** Check your Ground Fault Circuit Interrupter, GFCI, to ensure it hasn’t been tripped. If it has been turned off, get it turned back on as soon as possible to avoid water backup.
 
-**4. Check and change your air filters**. &nbsp;Running heaters all winter long could have ruined your current air filter. Now is a great time to put in a new air filter.
+**4. Check and change your air filters**.  Running heaters all winter long could have ruined your current air filter. Now is a great time to put in a new air filter.
 
 **5. Check your batteries.** Make sure your batteries in your smoke and carbon monoxide (CO) detectors are properly charged.
 
