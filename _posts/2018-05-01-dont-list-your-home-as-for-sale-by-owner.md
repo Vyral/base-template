@@ -12,7 +12,7 @@ excerpt: >-
   Why would a buyer ignore 95% of all other listings to look at a property that
   isn’t represented by an agent? To find out, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+FSBO.mp4
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Dont+List+Your+Home+as+For+Sale+By+Owner.mp4
 pullquote: >-
   Negotiating on your own property is like a doctor operating on a family
   member; there’s a reason why they don’t do that.
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GbgSqjS77zc
+youtube_code: dcP9xatUTo4
 ---
 
 {% include youtube.html %}
