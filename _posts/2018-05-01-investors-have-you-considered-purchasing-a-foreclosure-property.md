@@ -36,9 +36,9 @@ When it comes to courthouse auctions, a professional such as myself may bid on y
 
 {% include pullquote.html %}
 
-Foreclosure, the process through which a bank reclaims a property where the homeowner is in default, is handled differently in many states. **I****n Hawaii, the process is known as judicial foreclosure. **
+Foreclosure, the process through which a bank reclaims a property where the homeowner is in default, is handled differently in many states. **In Hawaii, the process is known as judicial foreclosure.&nbsp;**
 
-Once the court has granted the plaintiff (the bank) its motion for summary judgement, the judge then appoints a commissioner, usually an attorney. The attorney must file three notices in the paper announcing the court sale date and hold two open houses at the property. **This process usually takes 6 -10 weeks. **
+Once the court has granted the plaintiff (the bank) its motion for summary judgement, the judge then appoints a commissioner, usually an attorney. The attorney must file three notices in the paper announcing the court sale date and hold two open houses at the property. **This process usually takes 6 -10 weeks.**
 
 Eventually, the foreclosure auction sale will occur on the courthouse steps at noon on the announced date. The winner of the highest bid gets the property, but the process doesn't end there. The commissioner**&nbsp;**then files documents to schedule a confirmation hearing which usually occurs 6-8 weeks later. **At the confirmation, the bidding is reopened**. At that time if a buyer wants to bid, the minimum bid must be at least 5% higher than the price at the courthouse. So, if a home were auctioned off on the courthouse steps for $700,000, when the bidding is reopened at the confirmation hearing, the minimum bid would be $735,000.
 
