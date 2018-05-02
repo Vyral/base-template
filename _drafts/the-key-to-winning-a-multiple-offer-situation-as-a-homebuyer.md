@@ -20,7 +20,9 @@ youtube_code: g6Qy4q2X5cs
 
 {% include youtube.html %}
 
-If you’re a buyer, the key to winning a multiple offer situation is working with an agent who can structure your contract in a way that beats out all the other buyers.
+<center><em>If you’re a buyer, the key to winning a multiple offer situation is working with an agent who can structure your contract in a way that beats out all the other buyers.</em></center>
+
+<center>&nbsp;</center>
 
 Right now there’s low inventory in our marketplace, and because of this, we’re seeing a lot of multiple offer situations happening with listed homes.
 
