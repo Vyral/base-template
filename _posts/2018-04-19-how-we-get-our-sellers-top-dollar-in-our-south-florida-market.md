@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/Right_Agent_P.jpg
+youtube_alternate_image: /uploads/Right_Agent_NP.jpg
 youtube_code: dOz2vhw0Cfo
 ---
 
