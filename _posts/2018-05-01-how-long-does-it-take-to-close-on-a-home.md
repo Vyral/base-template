@@ -27,6 +27,6 @@ Basically, there is no one-size-fits-all answer. The length of time between cont
 
 {% include pullquote.html %}
 
-**It’s buyers who plan to make their purchase using a loan who should plan for a longer period of time between contract and closing.&nbsp;**
+**Buyers who plan to make their purchase using a loan should plan for a longer period of time between contract and closing.&nbsp;**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
