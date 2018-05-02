@@ -20,9 +20,11 @@ youtube_code: g6Qy4q2X5cs
 
 {% include youtube.html %}
 
-<center><em>If you’re a buyer, the key to winning a multiple offer situation is working with an agent who can structure your contract in a way that beats out all the other buyers.</em></center>
+<center><em>If you&rsquo;re a buyer, the key to winning a multiple offer situation is working with an agent who can structure your contract in a way that beats out all the other buyers.</em></center>
 
 <center>&nbsp;</center>
+
+<center><p>Looking for a home?&nbsp;<a target="_blank" href="http://www.thestarygroup.com/searches/new">Search our homes</a><br />Selling Your home?&nbsp;<a target="_blank" href="http://www.thestarygroup.com/sellersguide">View the Home Seller's Guide</a></p></center>
 
 Right now there’s low inventory in our marketplace, and because of this, we’re seeing a lot of multiple offer situations happening with listed homes.
 
