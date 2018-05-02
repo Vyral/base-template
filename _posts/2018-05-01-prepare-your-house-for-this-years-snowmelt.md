@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Prepare Your House for This Year’s Snowmelt
-date: 2018-05-01 18:12:41
+date: 2018-05-01 18:12:00
 tags:
   - Expert Advice
-excerpt: >-
-  The snowmelt season has officially begun. Prepare yourself by checking these 6
-  things to keep your house safe.
+excerpt: "Spring is officially here. Protect yourself from future snowmelt issues\_by checking these six things to keep your house safe."
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate+%257C+Dar+Walden-+Prepare+your+home+for+snowmelt+now.mp4
 pullquote: Bad shingles can cause leaks to form and can wreak havoc come next winter.
@@ -19,11 +17,11 @@ youtube_code: CQEA_vcH2Bo
 
 {% include youtube.html %}
 
-<center><em>The snowmelt season has officially begun. Prepare yourself by checking these six things to keep your house safe.</em></center>
+<center><em>Spring is officially here. Protect yourself from future snowmelt issues by checking these six things to keep your house safe.</em></center>
 
 <center>&nbsp;</center>
 
-Spring is finally here in Alaska and with it comes the melting of the snow. Today I will be talking about how to better prepare your house for the snowmelt this spring to avoid future issues.
+Spring is finally here in Alaska and it came with the melting of the snow. Today I will be talking about how to better prepare your house for the water issues that come with typical snowmelt to avoid future issues.
 
 **1. Check crawl spaces**. All the water from the melted snow has to go somewhere. Make sure you check your crawl spaces about once a week until the snow is completely melted.
 
