@@ -1,5 +1,21 @@
-show_testimonials_section: false
+show_testimonials_section: true
 testimonial:
-  - quote:
-    name:
-    audio:
+  - quote: Oh the results were phenomenal, I think everyone handled everything just perfectly. Did a great job, getting us listed, the young lady that did all the pictures [did] a phenomenal job. Everybody just handled everything very professionally, very quickly, I’ve already referred you to somebody else. I was very please. My husband and I both were extremely pleased.
+    name: Elizabeth
+    audio: /uploads/audio/elizabeth.mp3
+
+  - quote: We recently closed, two weeks ago in fact, on a house with you guys, buying a house. And I’d just like to talk a little bit about the experience with The Burks Team and how smoothly and how well everything went. My wife and me started off, back in the beginning I moved to Tyler back in ’09 and have been paying rent ever since. What we’d been doing on our own and that we figured it was time that we needed some help with this process. And I gotta say from the first day that we walked in, you guys really made it easy. We left the office that day saying, wow, we should have done this three months ago. Anyway, to wrap it up here, shortly after we signed up with you guys, sure enough we found a house in The Azalea District, and we found a really nice house that fit our life style, that’s really updated. You guys had two trucks that were available and if we needed some help moving we were welcome to use one of your trucks for 24 hours. Everything just went extremely smooth.
+    name: Don
+    audio: /uploads/audio/don.mp3
+
+  - quote: I thought it was fantastic. They sold my house quickly and we got the house that we wanted through the realtor and it was a very smooth process compared to when we bought our other house that we sold. Well I really think everything that they did was above and beyond because when we bought our first house our realtor was no good. So we had a really bad experience the first time but this time they were always in contact with us, anytime I had a question they were more than happy to answer it or to look into things that I needed. They definitely were great.
+    name: Lauri
+    audio: /uploads/audio/lauri.mp3
+
+  - quote: They met our needs, exceeded expectations. I think we only looked at about five or six houses before we found the one we loved. Our realtor, she really went out of her way to help us out, she really put forward the effort and found houses for us to look at. She was the one that definitely helped us out more than anybody.
+    name: Jared
+    audio: /uploads/audio/jared.mp3
+
+  - quote: I just can’t say enough good things. Absolutely nothing negative or even on the fence to say. It was our first time home buying experience and just from the initial meeting when we you know stopped in to ask about buying a home they were just very informative and made us feel comfortable with the whole process. Our realtor our realtor was just fantastic. Yeah, he’s very dedicated to his job and just wish there were more like him in the field. The day before we closed on the home there was a misunderstanding and the misunderstanding was actually on our end, that we would have the final walk through at the home the day before. But they really meant it would be the hour before closing. I took off work, went out to the house, they never showed up. So I called the realtor and he said well it’s actually supposed to be tomorrow but he understood and realized that I took time off work so he dropped what he was doing and ran out to the house for me. It made a big impression on me.
+    name: Cole
+    audio: /uploads/audio/cole.mp3

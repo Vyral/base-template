@@ -1,47 +1,53 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Tyler Real Estate Video Blog with Danny and Rebecca Burks
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
-  - title:
-    url:
+  - title: Raving Fans
+    url: http://www.tylerhousehunters.com/raving-fans/
+  - title: Our Agents
+    url: http://www.tylerhousehunters.com/agents/
+  - title: Testimonials
+    url: http://www.tylerhousehunters.tv/p/testimonials.html
+  - title: Vendors
+    url: http://www.tylerhousehunters.com/burks-team-alliance-membersburks-team-alliance-members/
 
 client:
-  name:
+  name: Danny and Rebecca Burks
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Are you looking for a fantastic real estate team? Whether you're looking to buy or sell your home, we have qualified professionals to assist you every step of the way. On average, listing agents in this area sold seven homes last year, but our agents each sold 45 homes on average! We have the knowledge and the experience to meet and exceed your expectations at the Burks Team.
+  market: Tyler
+  brand: The Burks Team
+  brokerage: RE/MAX Professionals
+  address: 1698 West Grande Blvd<br>Tyler, TX 75703
+  phone: 903-561-2600
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: info@TylerHouseHunters.com
+  url: http://TylerHouseHunters.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.topproducer.com/pages/index.html?pageid=b1e6193a-5472-4b63-adcb-5630ffbc0101
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.tylerhousehunters.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.topproducer.com/pages/index.html?pageid=b1e6193a-5472-4b63-adcb-5630ffbc0101
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.tylerhousehunters.com/
 
 lender:
   show_section: false
@@ -57,17 +63,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/TheBurksTeam?fref=ts
+  linkedin_url: https://www.linkedin.com/in/dannyburks
+  gplus_url: https://plus.google.com/108174998316566498142/about
+  youtube_url: https://www.youtube.com/user/TheBurksTeam
+  twitter_url: https://twitter.com/theburksteam
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/The-Burks-Team/
+  trulia_url: http://www.trulia.com/profile/the-burks-team-broker-tyler-tx-181413/overview
+  yelp_url: http://www.yelp.com/biz/the-burks-team-re-max-professionals-tyler-2
+  podcast_url: https://itunes.apple.com/us/podcast/tyler-longview-real-estate/id979213863?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -87,8 +93,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#bd1f2d'
+  theme_color: '#272262'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -100,7 +106,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: rgba(0, 0, 0, .75)
 
 buttons:
   button_radius_number: 0
