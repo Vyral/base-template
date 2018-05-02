@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/inside-process-of-flipping-home.html</loc>
+<lastmod>2018-02-05T15:55:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/singing-some-old-and-new-holiday.html</loc>
+<lastmod>2017-12-15T15:22:00-06:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/what-can-you-do-to-make-your-move-as.html</loc>
+<lastmod>2017-09-29T10:13:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/do-you-know-what-kind-of-equity-you-have.html</loc>
+<lastmod>2017-09-18T15:37:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/you-dont-need-down-payment.html</loc>
+<lastmod>2017-07-20T12:08:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/3-things-every-first-time-homebuyer.html</loc>
+<lastmod>2017-06-27T11:21:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/how-to-prepare-your-home-for-sale-with.html</loc>
+<lastmod>2017-06-05T15:08:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/404.html</loc>
 </url>
 <url>
@@ -29,5 +57,11 @@
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
+</url>
+<url>
+<loc>localhost:4000/work-with-us/</loc>
+</url>
+<url>
+<loc>localhost:4000/page2/</loc>
 </url>
 </urlset>
