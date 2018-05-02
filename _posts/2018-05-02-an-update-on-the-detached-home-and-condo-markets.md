@@ -21,9 +21,9 @@ youtube_code: nigQ2DZatWA
 
 There’s a 44% reduction in detached home sales in Vancouver. Is this becoming a trend?
 
-You have probably seen headlines like ***“Big Slowdowns in detached Housing Market Activity Across the Lower Mainland” or “What Sound Does the Real Estate Market Make When It Hits Bottom? THUD.”*** The month of March saw the fewest number of sales that we’ve seen in the detached housing market in quite some time. This isn’t just a small blip—it’s the lowest number of sales we’ve seen in the last 27 years.
+You have probably seen headlines like ***“Big Slowdowns in Detached Housing Market Activity Across the Lower Mainland” or “What Sound Does the Real Estate Market Make When It Hits Bottom? THUD.”*** The month of March saw the fewest number of sales that we’ve seen in the detached housing market in quite some time. This isn’t just a small blip—it’s the lowest number of sales we’ve seen in the last 27 years.
 
-**Our sales ratio is right around 14% for detached homes.** This puts us in buyer’s market territory. The reason for this slowdown can be linked to the global pullback of capital from overseas. Combine that with a 20% foreign buyers tax, a 5% property transfer tax, and an annual 2% property speculation tax, you can see things are getting pricey for investors.
+**Our sales ratio is right around 14% for detached homes.** This puts us in buyer’s market territory. The reason for this slowdown can be linked to the global pullback of capital from overseas. Combine that with a 20% foreign buyers tax, a 5% property transfer tax, and an annual 2% property speculation tax, and you can see things are getting pricey for investors.
 
 {% include pullquote.html %}
 
