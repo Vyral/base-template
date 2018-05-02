@@ -3,6 +3,7 @@ layout: post
 title: How We Get Our Sellers Top Dollar in Our South Florida Market
 date: 2018-04-19 19:37:00
 tags:
+  - Home Seller Tips
 excerpt: >-
   To give you an idea of what kind of skills your listing agent should have, we
   want to tell you how we work with our sellers to get top dollar for their
