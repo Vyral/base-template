@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Merging with eXp Realty—Here’s What That Means
-date: 2018-05-02 21:52:40
+date: 2018-05-02 21:51:22
 tags:
   - Real Estate
 excerpt: We have joined forces with eXp Realty of North Dakota. Here’s what that means.
