@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare Yourself to Buy a House in 10 Steps
-date: 2018-05-01 17:06:18
+date: 2018-05-01 17:06:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -10,8 +10,8 @@ excerpt: >-
   steps to help you prepare.
 enclosure:
 pullquote: >-
-  You have to create a personal budget to decide how much you will be able spend
-  on your mortgage payment.
+  You have to create a personal budget to decide how much you will be able to
+  spend on your mortgage payment.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -19,7 +19,7 @@ youtube_alternate_image: /uploads/travis-chatwin-10-must-do-steps-to-buy-a-home-
 youtube_code: 'https://youtu.be/qP3brC7MmMI'
 ---
 
-{% include youtube.html %}Are you ready to buy a home? If you think this is the year to put your rental days behind you and move into a home of your own, &nbsp;now is time to prepare. Even if you don’t be ready to buy in the next six months to a year, you should still take steps to get ready for that eventuality.<br>&nbsp;<br>Today we’ll go over 10 must-do steps to prepare you to buy a home. Crossing these items off the list will make it easier for you to find and finance the home of your dreams.<br>&nbsp;<br>**1) Check your credit score.** A good credit score is essential to buy a home because it proves your track record of paying off debts such as credit cards and college loans. A higher credit score makes it easier to qualify for a low interest rate, making your purchase more affordable.<br>&nbsp;<br>**2) Start saving.** This is easier said than done, but you will need cash reserves to buy a home. This may not be as much as you think. You will have to prove to a lender that you can afford housing payments that may be higher than your current rent. Anything you can do to start saving is of utmost importance.<br>&nbsp;<br>**3) Earn extra cash.** Many first-time homebuyers are low on cash. Consider taking drastic steps to cut spending or increase your income. You could sell some of your stuff or take a part-time job for extra cash flow.<br>&nbsp;<br>**4) Consult a lender.** The sooner you visit a lender, the faster you will know where you stand as far as getting a mortgage and how to improve your credit if it’s not ideal. Having a pre-qualification or pre-approval letter will give sellers peace of mind.
+{% include youtube.html %}Are you ready to buy a home? If you think this is the year to put your rental days behind you and move into a home of your own, &nbsp;now is time to prepare. Even if you won’t be ready to buy in the next six months to a year, you should still take steps to get ready for that eventuality.<br>&nbsp;<br>Today we’ll go over 10 must-do steps to prepare you to buy a home. Crossing these items off the list will make it easier for you to find and finance the home of your dreams.<br>&nbsp;<br>**1) Check your credit score.** A good credit score is essential to buying a home because it proves your track record of paying off debts such as credit cards and college loans. A higher credit score makes it easier to qualify for a low interest rate, making your purchase more affordable.<br>&nbsp;<br>**2) Start saving.** This is easier said than done, but you will need cash reserves to buy a home. This may not be as much as you think. You will have to prove to a lender that you can afford housing payments that may be higher than your current rent. Anything you can do to start saving is of utmost importance.<br>&nbsp;<br>**3) Earn extra cash.** Many first-time homebuyers are low on cash. Consider taking drastic steps to cut spending or increase your income. You could sell some of your stuff or take a part-time job for extra cash flow.<br>&nbsp;<br>**4) Consult a lender.** The sooner you visit a lender, the faster you will know where you stand as far as getting a mortgage and how to improve your credit if it’s not ideal. Having a pre-qualification or pre-approval letter will give sellers peace of mind.
 
 {% include pullquote.html %}
 
