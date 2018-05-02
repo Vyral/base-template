@@ -20,11 +20,11 @@ youtube_code: 'https://youtu.be/DR6AInYkRHE'
 
 {% include youtube.html %}
 
-Our clients often tell us that they’re interested in purchasing a property for investment. So today we’re going to introduce you to a fantastic opportunity to purchase a short-term vacation rental property.
+Our clients often tell us that they’re interested in purchasing a property for investment. So today we’re going to introduce you to a fantastic opportunity to purchase an actual short-term vacation rental property.
 
-**If you’ve seen our earlier videos, you know that the No. 1 key to purchasing a short-term rental property or vacation home is location.** This means considering not only where it’s located in the city, but also whether the city it’s located in is short-term rental friendly or not.&nbsp;
+**If you’ve seen our earlier videos, you know that the No. 1 key to purchasing a short-term rental property or vacation home is location.** This means considering not only where it’s located in the city, but also whether that city is friendly to short-term rentals or not.&nbsp;
 
-Many of you have probably heard that the city of Anaheim does not permit short-term rentals. That’s partially true. No new short-term rental permits are being issued, but those with current licenses are allowed to operate. **Three things make this home a unique investment opportunity that you should consider:**
+Many of you have probably heard that the city of Anaheim does not permit short-term rentals. That’s partially true. No new short-term rental permits are being issued, but those with current licenses are allowed to operate.<br><br>**Three things make this home a unique investment opportunity that you should consider:**
 
 {% include pullquote.html %}
 
