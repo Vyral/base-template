@@ -8,7 +8,7 @@ excerpt: >-
   To prepare buyers for our low-inventory market, you must first meet with them
   and discuss their needs and objectives for buying.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2018/May/Park+City+Real+Estate+Careers-+Preparing+Buyers+for+Our+Low-Inventory+Market-+Part+1+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Nancy+Seraphin/+Videos/2018/May/Park+City+Real+Estate+Careers-+Preparing+Buyers+for+Our+Low-Inventory+Market-+Part+1.mp4
 pullquote: >-
   Buyers need to know that they might have to compete with other buyers for the
   home they want.
