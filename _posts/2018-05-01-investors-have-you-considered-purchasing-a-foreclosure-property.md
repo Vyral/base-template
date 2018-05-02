@@ -7,8 +7,8 @@ tags:
   - Market Update
 excerpt: >-
   Investors: Don’t underestimate the opportunities presented by foreclosure
-  properties. Bank-owned distress properties are a great resource for those with
-  the skills and resources to extract their true value.
+  properties. Bank-owned distressed properties are a great resource for those
+  with the skills and resources to extract their true value.
 enclosure:
 pullquote: >-
   Foreclosure properties represent some of the best investment opportunities for
@@ -26,9 +26,9 @@ Before I venture into today’s topic, I’d like to first discuss the recent st
 
 The people of Kauai are incredibly strong and there has been an incredible response from those who have given their time, energy, and monetary donations toward relief efforts. Seeing the island come together like this truly demonstrates the aloha spirit.
 
-With all of that being said, I’d like to move on to today’s subject: foreclosure properties. **Investors are always searching for opportunities, and many of these opportunities come in the form of distress properties.**
+With all of that being said, I’d like to move on to today’s subject: foreclosure properties. **Investors are always searching for opportunities, and many of these opportunities come in the form of distressed properties.**
 
-The dominant type of distress property in our market today is bank-owned properties. It may be hard to believe, but some of the properties I see coming to auction at the courthouse steps have been in foreclosure for nearly 10 years. These properties represent some of the best investment opportunities for those with the skills and resources to handle them.
+The dominant type of distressed property in our market today is bank-owned properties. It may be hard to believe, but some of the properties I see coming to auction at the courthouse steps have been in foreclosure for nearly 10 years. These properties represent some of the best investment opportunities for those with the skills and resources to handle them.
 
 **However, it’s important to note buying a bank-owned property is a different kind of transaction than a typical real estate purchase.** The bank offers no guarantees or warranties. Another way this kind of purchase differs from typical transactions is that while the properties are sometimes placed on the MLS, they are also often sold through the courthouse or through an online auction.
 
