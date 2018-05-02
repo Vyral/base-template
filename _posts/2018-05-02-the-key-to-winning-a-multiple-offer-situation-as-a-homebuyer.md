@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Winning a Multiple Offer Situation as a Homebuyer
-date:
+date: 2018-05-02 20:20:16
 tags:
   - Home Buyer Tips
 excerpt: >-
