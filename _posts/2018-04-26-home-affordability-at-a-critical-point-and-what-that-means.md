@@ -9,7 +9,7 @@ excerpt: >-
   Home affordability is low and our market is competitive, so whether you’re a
   buyer or a seller, you need to plan your strategy early and be meticulous.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Why+Is+Affordability+So+Low+in+Our+Market%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Home+Affordability+at+a+Critical+Point+and+What+That+Means.mp4
 pullquote: 'Whether you’re a buyer or a seller, plan your strategy early.'
 enclosure_type: video/mp4
 enclosure_time:
