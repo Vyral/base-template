@@ -12,7 +12,7 @@ pullquote: >-
   properties being sold as-is.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: '-3hyIaNMoEI'
 ---
@@ -38,5 +38,3 @@ On the seller’s side, you have the right to decline this request and cancel th
 Right now we’re in a seller’s market and we’re seeing a fair amount of properties being sold as-is, so it’s important to keep these things in mind.
 
 If you have any other questions about this topic or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
-
-&nbsp;
