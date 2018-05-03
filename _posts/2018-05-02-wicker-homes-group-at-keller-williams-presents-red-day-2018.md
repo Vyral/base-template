@@ -27,7 +27,7 @@ Did you know that&nbsp;<u>over 14,000 students in Loudoun County don&rsquo;t hav
 
 On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
 
-This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
+This is part of an annual event at Keller Williams called,&nbsp;<span class="text-color">**RED Day****</span>,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span class="text-color">**\*\*Here’s how you can help\*\***</span>
 
