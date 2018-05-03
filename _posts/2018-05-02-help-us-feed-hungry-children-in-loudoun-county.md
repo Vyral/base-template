@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tad-wicker--red-day-2018-youtube.jpg
+youtube_alternate_image: /uploads/new-youtube.jpg
 youtube_code: 'https://youtu.be/NvvLZ141CwA'
 ---
 
@@ -19,11 +19,11 @@ youtube_code: 'https://youtu.be/NvvLZ141CwA'
 
 Dear Clients & Friends,
 
-Did you know that&nbsp;<u>over 14,000 students in Loudoun County don&rsquo;t have enough to eat?</u>&nbsp;They receive food assistance at school during the week, but not on weekends or during school breaks.
+Did you know that <u>over 14,000 students in Loudoun County don&rsquo;t have enough to eat?</u> They receive food assistance at school during the week, but not on weekends or during school breaks.
 
-On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
+On May 10th, we will be partnering with a local charity called, <u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
 
-This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
+This is part of an annual event at Keller Williams called, **RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
 #### **Here’s how you can help**
 
@@ -37,7 +37,7 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 * Canned ravioli/beefaroni/spaghetti (ChefBoyardee)
 * Canned Chicken
 * Juice boxes
-* Shelf-stable milk (Horizon, Organic Valley, etc.) &nbsp;
+* Shelf-stable milk (Horizon, Organic Valley, etc.)  
 
 **2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
 
