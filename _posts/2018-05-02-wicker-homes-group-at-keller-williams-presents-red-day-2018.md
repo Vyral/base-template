@@ -15,8 +15,6 @@ youtube_code:
 
 {% include youtube.html %}<br>&nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Wicker Homes Group at Keller Williams presents RED Day 2018!**
 
 #### **<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
@@ -47,4 +45,4 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 
 **2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Thanks so much for helping us feed children in need!**
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Thanks so much for helping us feed children in need!**
