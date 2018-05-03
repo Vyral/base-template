@@ -56,6 +56,6 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are trulywell protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
-![](/uploads/bigstock-home-insurance-form-house-ca-139794638.jpg)![](/uploads/bigstock-home-insurance-form-house-ca-139794638-560x315.jpg)
+![](/uploads/bigstock-home-insurance-form-house-ca-139794638-560x315.jpg)
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
