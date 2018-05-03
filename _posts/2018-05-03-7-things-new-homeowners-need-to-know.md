@@ -1,10 +1,9 @@
 ---
 layout: post
 title: 7 Things New Homeowners Need to Know
-date:
+date: 2018-05-03 16:37:16
 tags:
   - Real Estate
-  - Home Owner Tips
 excerpt: >-
   Becoming a homeowner is a very exciting time. However, there are a few
   important things that new homeowners may not know about. I’ll go over seven of
@@ -46,5 +45,3 @@ Today I want to talk about a few important things that new homeowners may not kn
 **7. Beef up your insurance.** Take a look at your homeowners insurance policy and look for relevant gaps. Two important areas of coverage to consider are flood protection and fire protection. Those are not usually included in standard policies.
 
 I hope you found this information helpful. If you have any other real estate questions, just give me a call or send me an email. I would be happy to help you!
-
-&nbsp;
