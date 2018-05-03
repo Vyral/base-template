@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/new-youtube.jpg
 youtube_code: 'https://youtu.be/NvvLZ141CwA'
 ---
 
-{% include youtube.html %}<br><span class="text-color">**<br>R**</span>- Renew<br><span class="text-color">**E**</span>- Energize<br><span class="text-color">**D**</span>- Donate
+{% include youtube.html %}<br>
 
 #### <span class="text-color">**Help us feed children in need in Loudoun County!**</span>
 
