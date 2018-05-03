@@ -21,7 +21,7 @@ youtube_code:
 
 #### **<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **\*\*Help us feed children in need in Loudoun County!\*\***
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**\*\*Help us feed children in need in Loudoun County!\*\***
 
 Dear Clients & Friends,
 
