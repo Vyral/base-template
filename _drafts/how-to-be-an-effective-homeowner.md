@@ -34,9 +34,11 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
 
-&nbsp;
+![](/uploads/bigstock-real-estate-home-inspection-re-20778977-1.jpg)
 
 **3. Take care of expensive appliances.** Don’t defer maintenance on major home appliances. Make sure to regularly replace your air filter, for example. Consistent maintenance will help to extend the lifespan of your appliances.
+
+![](/uploads/bigstock--207321556-1.jpg)
 
 {% include pullquote.html %}
 
