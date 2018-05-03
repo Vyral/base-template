@@ -15,7 +15,7 @@ youtube_code:
 
 {% include youtube.html %}<br>&nbsp;
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Wicker Homes Group at Keller Williams presents RED Day 2018!**
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="color-text">**Wicker Homes Group at Keller Williams presents RED Day 2018!**</span>
 
 #### **<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
 
