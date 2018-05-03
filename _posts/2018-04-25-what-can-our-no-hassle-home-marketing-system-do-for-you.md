@@ -3,9 +3,7 @@ layout: post
 title: What Can Our No-Hassle Home Marketing System Do for You?
 date: 2018-04-25 15:41:00
 tags:
-excerpt: >-
-  When it comes to marketing your home, we’ve got no-hassle systems in place to
-  help maximize your experience.
+excerpt:
 enclosure:
 pullquote: 'We’re not about being reactive, we’re about being proactive.'
 enclosure_type: video/mp4
