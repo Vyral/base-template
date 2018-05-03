@@ -31,7 +31,7 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span class="text-color">**\*\*Here’s how you can help\*\***</span>
 
-<br>**1. <span class="text-color">PURCHASE**</span> any of the following non-perishable items.
+<br>**1.** <span class="text-color">PURCHASE**</span> any of the following non-perishable items.
 
 * Instant oatmeal
 * Granola bars
