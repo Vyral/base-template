@@ -30,7 +30,7 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **1. Safeguard your investment and get a home warranty.** You can’t control when issues may arise. Whether the dishwasher stops working or something worse goes wrong, you will want to be prepared. A home warranty will help give you peace of mind in case the unexpected happens. Make sure you also set aside savings for necessary repairs. Spending a little on a home warranty policy can save you a lot down the line.<br>&nbsp;
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](blob:https://app.cloudcannon.com/e565af57-b515-4ec3-b802-74297d1402c0)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/bigstock-guarantee-warranty-assurance-q-147245384-1-560x315-1.jpg)&nbsp; &nbsp;&nbsp;
 
 **2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
 
