@@ -30,7 +30,11 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **1. Safeguard your investment and get a home warranty.** You can’t control when issues may arise. Whether the dishwasher stops working or something worse goes wrong, you will want to be prepared. A home warranty will help give you peace of mind in case the unexpected happens. Make sure you also set aside savings for necessary repairs. Spending a little on a home warranty policy can save you a lot down the line.<br>&nbsp;
 
+![](/uploads/bigstock-guarantee-warranty-assurance-q-147245384-1.jpg)
+
 **2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
+
+&nbsp;
 
 **3. Take care of expensive appliances.** Don’t defer maintenance on major home appliances. Make sure to regularly replace your air filter, for example. Consistent maintenance will help to extend the lifespan of your appliances.
 
@@ -42,6 +46,6 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **6. Keep your records.** I highly recommend you keep a folder with all documents related to home improvement or repair projects. This way when you’re ready to move, you’ll be able to verify everything you’ve done to the home.<br>&nbsp;
 
-7. Beef up your insurance. **Don’t just get a basic policy. Make sure that you are truly** well protected. The advantage this can bring you will be well worth the cost of the additional coverage.
+**7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are trulywell protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
