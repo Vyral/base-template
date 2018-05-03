@@ -26,7 +26,7 @@ Second, **banks are coming out with some amazing financing options** which offer
 
 {% include pullquote.html %}
 
-Third, **mortgage interest rates are on the rise and are predicted to keep rising** until the end of the year. Since January 2018, interest rates have risen about 0.75%, and that kind of jump has a big effect on buying power. However, rates are still historically low. Conventional wisdom states that by the end of 2018, we’ll be looking at about a 5% rate for a 30-year fixed mortgage. Buy now while you can still get a great payment at a historically low rate.
+Third, **mortgage interest rates are on the rise and are predicted to keep rising** until the end of the year. Since January 2018, interest rates have risen about 0.75%, and that kind of jump has a big effect on buying power. However, rates are still historically low. Conventional wisdom states that by the end of 2018, we’ll be looking at about a 5% rate for a 30-year fixed mortgage. Buy now while you can still get a great payment at a historic low rate.
 
 As always, if you have any further questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
 
