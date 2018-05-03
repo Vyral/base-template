@@ -1,7 +1,7 @@
 ---
 layout: post
-title: We Are Merging with eXp Realty—Here’s What That Means
-date: 2018-05-02 21:51:22
+title: We Are Merging With eXp Realty—Here’s What That Means
+date: 2018-05-02 21:51:00
 tags:
   - Real Estate
 excerpt: We have joined forces with eXp Realty of North Dakota. Here’s what that means.
@@ -23,7 +23,7 @@ Over the past nine years in my career with SK Realty, my family, colleagues, and
 
 Through that time, we have strived to boost our marketing and technology and create lasting relationships with our clients.
 
-This is why I’m excited to share a big announcement with you: **we have decided to join forces with eXp Realty of North Dakota.** This will help us expand our marketing and assist you with all your real estate dreams.
+This is why I’m excited to share a big announcement with you: **W****e have decided to join forces with eXp Realty of North Dakota.** This will help us expand our marketing and assist you with all your real estate dreams.
 
 {% include pullquote.html %}
 
