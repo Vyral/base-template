@@ -28,13 +28,13 @@ youtube_code: vNpu8rL9iu0
 
 It’s officially springtime, and business is picking up.
 
-We had a financial planner come to our office meeting this week, and they talked about the effects of rising interest rates. **The prediction is that the interest rates could rise up to almost 5.5% by midsummer.** This is really important because just a 1% increase in rates means about a 13% increase in your monthly payment, which affects many people’s ability to afford homes.
+We had a financial planner come to our office meeting this week, and they talked about the effects of rising interest rates. **The prediction is that interest rates could rise up to almost 5.5% by midsummer.** This is really important because just a 1% increase in rates means about a 13% increase in your monthly payment, which affects many people’s ability to afford homes.
 
 Many buyers in the market have been waiting for the right time, wondering if the market will mellow out. **The market may settle down in some areas, but affordability is going to impact buyers in a big way.**
 
 {% include pullquote.html %}
 
-To those who are sitting on the fence: Now is a good time to purchase. We’re seeing good inventory levels now and homes are selling quickly. Buyers with a sense of urgency will be able to navigate the market. We’ve noticed some **fairly aggressive showdowns where multiple offers are placed on homes that are priced correctly.**
+To those who are sitting on the fence: Now is a good time to purchase. We’re seeing good inventory levels and homes are selling quickly. Buyers with a sense of urgency will be able to navigate the market. We’ve noticed some **fairly aggressive showdowns where multiple offers are placed on homes that are priced correctly.**
 
 It will be interesting to track how rising interest rates will affect buyers’ ability to remain competitive enough to beat out multiple offers so their offer is accepted.
 
