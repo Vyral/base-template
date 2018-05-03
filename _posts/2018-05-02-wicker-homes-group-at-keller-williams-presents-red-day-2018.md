@@ -17,7 +17,7 @@ youtube_code:
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Wicker Homes Group at Keller Williams presents RED Day 2018!**
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Wicker Homes Group at Keller Williams presents RED Day 2018!**
 
 #### **<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
 
@@ -31,7 +31,7 @@ On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack
 
 This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
-##### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\*\*Here’s how you can help\*\*
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \*\*Here’s how you can help\*\*
 
 <br>**1. PURCHASE** any of the following non-perishable items.
 
@@ -47,4 +47,4 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 
 **2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Thanks so much for helping us feed children in need!**
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;**Thanks so much for helping us feed children in need!**
