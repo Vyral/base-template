@@ -28,11 +28,9 @@ Owning a home is a great thing. You get to say goodbye to the struggles of renta
 
 Therefore, today I’d like to recommend seven things all new homeowners should do.
 
-**1. Safeguard your investment and get a home warranty.** You can’t control when issues may arise. Whether the dishwasher stops working or something worse goes wrong, you will want to be prepared. A home warranty will help give you peace of mind in case the unexpected happens. Make sure you also set aside savings for necessary repairs. Spending a little on a home warranty policy can save you a lot down the line.<br>&nbsp;
+**1. Safeguard your investment and get a home warranty.** You can’t control when issues may arise. Whether the dishwasher stops working or something worse goes wrong, you will want to be prepared. A home warranty will help give you peace of mind in case the unexpected happens. Make sure you also set aside savings for necessary repairs. Spending a little on a home warranty policy can save you a lot down the line.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/bigstock-guarantee-warranty-assurance-q-147245384-1-560x315-1.jpg)&nbsp; &nbsp;&nbsp;
-
-**2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![](/uploads/bigstock-guarantee-warranty-assurance-q-147245384-1-560x315-1.jpg)**2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;![](/uploads/bigstock-real-estate-home-inspection-re-20778977-560x315.jpg)
 
