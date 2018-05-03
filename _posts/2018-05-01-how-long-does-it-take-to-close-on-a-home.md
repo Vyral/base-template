@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How Long Does It Take to Close on a Home?
-date: 2018-05-01 16:35:01
+date: 2018-05-01 16:35:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   How long does it take to go from contract to close in a real estate
   transaction? The answer isn’t cut-and-dry, but let’s take a look at what you
   can generally expect.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+How+Long+Will+You+Be+Under+Contract%253F.mp4
 pullquote: >-
   The length of time between contract and close is negotiable like everything
   else in the transaction.
@@ -27,6 +28,6 @@ Basically, there is no one-size-fits-all answer. The length of time between cont
 
 {% include pullquote.html %}
 
-**Buyers who plan to make their purchase using a loan should plan for a longer period of time between contract and closing.&nbsp;**
+**Buyers who plan to make their purchase using a loan should plan for a longer period of time between contract and closing. **
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
