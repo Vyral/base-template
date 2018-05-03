@@ -34,7 +34,7 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **2. Get into an inspection habit.** Over time, new issues may arise and old issues may become exacerbated. It’s important to keep in-tune with your property’s condition, so I highly recommend getting an inspection done once every year or so. This will hopefully help you to uncover problems before they become serious.<br>&nbsp;
 
-![](/uploads/bigstock-real-estate-home-inspection-re-20778977-1.jpg)
+![](/uploads/bigstock-real-estate-home-inspection-re-20778977-560x315.jpg)
 
 **3. Take care of expensive appliances.** Don’t defer maintenance on major home appliances. Make sure to regularly replace your air filter, for example. Consistent maintenance will help to extend the lifespan of your appliances.
 
@@ -56,6 +56,6 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are trulywell protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
-![](/uploads/bigstock-home-insurance-form-house-ca-139794638.jpg)
+![](/uploads/bigstock-home-insurance-form-house-ca-139794638.jpg)![](/uploads/bigstock-home-insurance-form-house-ca-139794638-560x315.jpg)
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
