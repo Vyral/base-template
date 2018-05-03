@@ -11,7 +11,7 @@ pullquote: 'We’re not about being reactive, we’re about being proactive.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/salas-youtube-8.jpg
+youtube_alternate_image: /img/cover.jpg
 youtube_code:
 ---
 
