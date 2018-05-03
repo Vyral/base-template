@@ -33,4 +33,4 @@ A conventional loan allows a down payment as low as 3%, but as with an FHA loan,
 
 Remember, these loans aren’t one-size-fits-all. If you have any more questions about which one is best for you, give us a call so we can determine where you stand and what you need to do to qualify for either.
 
-As always, if you have any other mortgage questions, don’t hesitate to reach out to us. I’d be happy to help you.
+As always, if you have any other mortgage questions, don’t hesitate to reach out. I’d be happy to help you.
