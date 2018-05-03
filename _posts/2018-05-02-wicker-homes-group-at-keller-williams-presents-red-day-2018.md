@@ -43,6 +43,6 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 * Juice boxes
 * Shelf-stable milk (Horizon, Organic Valley, etc.) &nbsp;
 
-**2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
+**2.** **CALL** (571-338-3880) or <span class="text-color">**EMAIL**</span> us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="text-color">**Thanks so much for helping us feed children in need!**</span>
