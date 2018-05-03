@@ -21,7 +21,7 @@ Dear Clients & Friends,
 
 Did you know that&nbsp;<u>over 14,000 students in Loudoun County don&rsquo;t have enough to eat?</u>&nbsp;They receive food assistance at school during the week, but not on weekends or during school breaks.
 
-On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
+On **May 10th**, we will be partnering with a local charity called,&nbsp;<u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
 
 This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
@@ -39,6 +39,6 @@ This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,**
 * Juice boxes
 * Shelf-stable milk (Horizon, Organic Valley, etc.) &nbsp;
 
-**2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
+**2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME **between now and May 10th** to pick up these items and deliver them to Backpack Buddies.
 
 #### **Thanks so much for helping us feed children in need!**
