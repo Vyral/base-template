@@ -3,7 +3,7 @@ layout: post
 title: Help Us Feed Hungry Children in Loudoun County
 date: 2018-05-02 16:40:00
 tags:
-excerpt:
+excerpt: "Did you know that\_over 14,000 students in Loudoun County don’t have enough to eat?"
 enclosure:
 pullquote:
 enclosure_type: video/mp4
