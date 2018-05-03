@@ -31,7 +31,7 @@ On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack
 
 This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; \*\*Here’s how you can help\*\*
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **\*\*Here’s how you can help\*\***
 
 <br>**1. PURCHASE** any of the following non-perishable items.
 
