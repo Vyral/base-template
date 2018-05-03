@@ -9,7 +9,8 @@ excerpt: >-
   worthy of note. Sales increased 6% over last year, going from 6,100 homes last
   year to 6,500 this year. Additionally, we have a tale of two markets, so to
   speak. To find out what I mean by that, watch my latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+How+Has+the+Market+Been+Doing+This+Year%253F.mp4
 pullquote: >-
   The market is kind of a trickle-up market; first-time buyers give the rest of
   the market the ability to move on.
@@ -17,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: Fo7AZve5slc
 ---
 
 {% include youtube.html %}
