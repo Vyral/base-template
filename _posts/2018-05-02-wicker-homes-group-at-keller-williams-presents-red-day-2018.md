@@ -19,7 +19,7 @@ youtube_code:
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Wicker Homes Group at Keller Williams presents RED Day 2018!**
 
-### **R**- Renew<br>**E**- Energize<br>**D**- Donate
+**<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **\*\*Help us feed children in need in Loudoun County!\*\***
 
