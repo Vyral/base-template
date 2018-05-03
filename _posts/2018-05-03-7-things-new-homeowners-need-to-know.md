@@ -24,8 +24,6 @@ youtube_code: zfxL7gtUw18
 
 {% include youtube.html %}
 
-Being a homeowner comes with a lot of responsibilities. I’ll go over seven important things that new homeowners should know today.
-
 Today I want to talk about a few important things that new homeowners may not know they need to do.
 
 **1. Save for unexpected problems.** You can’t stop the dishwasher from breaking, but you can set some cash aside to pay for unexpected replacements.
