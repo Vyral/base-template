@@ -17,7 +17,7 @@ youtube_code:
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="text-color">**Wicker Homes Group at Keller Williams presents RED Day 2018!**</span>
 
-#### <span class="text-color">**<br>R**</span>- Renew<br><span class="text-color">**E**</span>- Energize<br><span class="text-color">**D**</span>- Donate
+#### **<br>R**- Renew<br>**E**- Energize<br>**D**- Donate
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span class="text-color">**\*\*Help us feed children in need in Loudoun County!\*\***</span>
 
@@ -27,11 +27,11 @@ Did you know that&nbsp;<u>over 14,000 students in Loudoun County don&rsquo;t hav
 
 On May 10th, we will be partnering with a local charity called,&nbsp;<u>Backpack Buddies</u>, to provide meal packs for weekends and holidays for these children who need our help.
 
-This is part of an annual event at Keller Williams called,&nbsp;<span class="text-color">**RED Day****</span>,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
+This is part of an annual event at Keller Williams called,&nbsp;**RED Day****,** where 170,000 Keller Williams associates volunteer in their local communities to give back. Making a difference in the lives of others and bettering the communities that we serve is at the very heart of the Keller Williams culture, and YOU CAN HELP!
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;**\*\*Here’s how you can help\*\***
 
-<br><span class="text-color">**1. PURCHASE**</span> any of the following non-perishable items.
+<br>**1. PURCHASE** any of the following non-perishable items.
 
 * Instant oatmeal
 * Granola bars
@@ -43,6 +43,6 @@ This is part of an annual event at Keller Williams called,&nbsp;<span class="tex
 * Juice boxes
 * Shelf-stable milk (Horizon, Organic Valley, etc.) &nbsp;
 
-<span class="text-color">**2.**</span> **CALL** (571-338-3880) or <span class="text-color">**EMAIL**</span> us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
+**2.** **CALL** (571-338-3880) or **EMAIL** us at DebbieWicker@WickerHomes.com. Our team WILL COME TO YOUR HOME between now and May 10th to pick up these items and deliver them to Backpack Buddies.
 
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span class="text-color">**Thanks so much for helping us feed children in need!**</span>
