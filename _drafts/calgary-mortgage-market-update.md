@@ -3,32 +3,39 @@ layout: post
 title: Calgary Mortgage Market Update
 date:
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+  - Mortgages
+excerpt: >-
+  I was recently joined by mortgage broker Bob Reader to discuss the latest with
+  interest rates. Here’s what we learned.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Calgary+Mortgage+Market+Update.mp4
+pullquote: >-
+  The variable mortgage probably offers the best chance of saving money right
+  now.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/eric-mortimer-ss-april-no-play.jpg
+youtube_code: Tq9-aLws7AU
 ---
 
 {% include youtube.html %}
 
-Why do people choose to work with Eric Mortimer as their Realtor? Just ask Kimmy, a client who worked with Eric to get her home sold. Here’s what she had to say:
+I was recently joined by mortgage broker Bob Reader to discuss the latest with interest rates. Here’s what we learned.
 
-"Eric was different from other agents. He was calm and centered about everything. What matched him with me is our shared spiritual beliefs in the way that we approach life, the belief that everything is connected and that are things that you can do to help set up the intention and have it just work out right for the house. He was very positive about how we were going to set the price and about how the process was going to come along.
+There have been some big changes in the real estate and mortgage market this year, which is causing confusing, myths, and information that may be affecting homeowners and home buyers. Today Bob Reader joins me to help explain this problem and how to solve it.
 
-Eric helped me get the most I could from my home sale. Certainly, the house that I was selling was very unique in that we had renovated it and put a lot of extra, special items in it. Eric was actually the last of the Realtors that I had interviewed. A lot of them had brought the same data that he had concerning the pricing for the house, but because this was such a unique house, we actually went with getting an appraisal, per his recommendation.&nbsp;
+Bob is a mortgage broker, which means he works for the buyer instead of the bank. He helps his clients shop the entire market, look at every option, and act as an agent for the consumer. When you have someone that’s working for you instead of working for the bank, you’re going to see a much better shopping experience.
 
-We set the price based on that. I knew that I wasn’t going to get the full cost of the renovation out of the house, but it was certainly a much higher price than what any of the other Realtors had come up with. They were strictly basing it on market analysis instead of looking at the unique features the house had. The statistics didn’t really speak to the value that was in this house. Eric knew that once he got people in to see the house, they would definitely see the value at the dollar amount we were asking for.
+With these new changes, everyone who is applying for a mortgage now has to qualify for the stress test rate, which is 2% higher than the best rate that is being offered. Right now, that rate is at 5.14%. This has dropped affordability for buyers anywhere from 16% to 20%. In Calgary, we haven’t seen a dramatic affect on home affordability, but other markets like Vancouver and Toronto have been affected quite dramatically.
+
+If you already have a mortgage, lending institutions generally don’t require any qualification for renewing a mortgage after the end of the term. However, if you want to take some of your equity out to pay off some debt, you will have to re-qualify with the stress test, but a simple mortgage renewal shouldn't require any of this.
 
 {% include pullquote.html %}
 
-His negotiation skills definitely showed up when we had an offer on that Saturday night. We basically had it pretty much all signed except for the final signature from the buyer, who waited until Sunday, so the offer was still pending. Just before the open house that Sunday, we had another offer come in. Eric had been speaking with the Realtor of that second offer, letting them know that we did already have another offer on the table. The second offer came out to be for full listing price.
+We have been hearing a lot from buyers about some first-time home buyer programs disappearing. However, anyone who wants to buy a home in Canada only needs to put 5% down, whether it’s their third or their first home. There’s really no restriction on down payment requirements, and we’re pretty much in the same ballpark as we were before.
 
-Eric and his team went above and beyond just the home sale process. My initial intent was to sell the house and then go on to rent. When I wasn’t finding anything to rent, I asked Eric if he would help me look at a couple properties I could possibly buy. He arranged the showings, and even though one of the properties had a conditional sale on it, we were able to just go in and look through it. That gave me a little more sense of what I wanted to do; as it turned out, I didn’t want to buy in Calgary. I ended up finding a place on Cooper Island. He went over and beyond what any other Realtor would do.&nbsp;
+Finally, let’s discuss interest rates. With them creeping up, should buyers go for a variable or a fixed-term? According to Bob, it depends on the buyer. However, the variable rate mortgage probably holds the best chance of saving money right now. Over the last 12 years, rates have remained very stable and there’s no reason to expect them changing dramatically anytime soon.
 
-Living in the electronic age made this process amazing. I could be on my computer in a coffee shop when an offer came in, and I could just electronically sign in acceptance of the offer or counteroffer. Other Realtors don’t even use the DocuSign system yet. It’s really great for getting work done quickly and efficiently anywhere you are in the world."
-
-As you can see, you don’t just get the standard amount of service when you work with Eric Mortimer & Associates. We go above and beyond to help you with all your real estate needs. If you have any questions or if you need a resource to help you buy or sell a home, please don’t hesitate to reach out to us. We'd be happy to help you.
+Thanks to Bob for joining us. If you have any questions for him, don’t hesitate to give him a call at 403-819-0500 or send him an email to Bob@canadianmortgagepro.com. If you have any other questions for us about the market or real estate in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
