@@ -22,7 +22,7 @@ youtube_code: wgFozoFjBP4
 
 {% include youtube.html %}
 
-Dalton Davis, our lead buyer’s agent, breaks down what you need to know as a buyer in our competitive Phoenix market.
+<center>Dalton Davis, our lead buyer’s agent, breaks down what you need to know as a buyer in our competitive Phoenix market.</center>
 
 Today I’d like to discuss what it’s like to be a homebuyer in the Phoenix real estate market. I’m here with Dalton Davis, our lead buyer's agent, who’s going to share with us some of the things that are critical for a buyer to take into consideration.
 
