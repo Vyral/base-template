@@ -48,13 +48,13 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **5.&nbsp;****Take advantage of tax benefits.** With homeownership comes a number of tax benefits, like deductions. But there are also other credits that may be available to you. So speak to your CPA or reach out to us about your options.
 
-&nbsp;![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)<br>
+&nbsp;![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)
 
 **6. Keep your records.** I highly recommend you keep a folder with all documents related to home improvement or repair projects. This way when you’re ready to move, you’ll be able to verify everything you’ve done to the home.
 
-&nbsp;![](/uploads/bigstock--211102822-560x315.jpg)<br>
+&nbsp;![](/uploads/bigstock--211102822-560x315.jpg)
 
-**7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are trulywell protected. The advantage this can bring you will be well worth the cost of the additional coverage.
+**7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are truly well protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
 ![](/uploads/bigstock-home-insurance-form-house-ca-139794638-560x315.jpg)
 
