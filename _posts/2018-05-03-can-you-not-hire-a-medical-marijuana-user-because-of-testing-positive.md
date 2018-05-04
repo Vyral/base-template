@@ -8,8 +8,8 @@ excerpt: >-
   pre-employment drug screening if they carry a medical marijuana card?
 enclosure:
 pullquote: >-
-  Federally, it is not protected to have a medical marijuana card because there
-  is not a federal law.
+  Federally, it is not protected to have a medical marijuana card because
+  marijuana is still prohibited under federal law.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,11 +19,11 @@ youtube_code: yY4Ytxq8RjY
 
 {% include youtube.html %}
 
-Today I am going to answer the question about whether or not you can discriminate against somebody that holds a miracle medical marijuana card and tests positive for cannabis in their system.
+Today I am going to answer the question about whether or not you can discriminate against somebody that holds a medical marijuana card and tests positive for cannabis in their system.
 
-Federally, it is not protected to have a medical marijuana card because there is not a federal law.
+Federally, it is not protected to have a medical marijuana card because marijuana is still prohibited under federal law.
 
-There are some states across the country, however, which have passed marijuana laws within their states. This means that if you are in a state where marijuana is legalized, from a medicinal perspective, **you cannot discriminate against them if they test positive on their drug test prior to employment.** You cannot not hire them for those reasons.
+There are some states across the country, however, which have passed marijuana laws within their states. This means that if you are in a state where marijuana is legalized, from a medicinal perspective, **you cannot discriminate against them if they test positive on their drug test prior to employment.**&nbsp;
 
 {% include pullquote.html %}
 
