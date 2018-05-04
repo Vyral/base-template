@@ -19,7 +19,9 @@ youtube_code: ws5zmkADlI0
 
 {% include youtube.html %}
 
-<center>Here are a few things to know about the real estate market as we head into spring. It should be a great season.</center>
+<center><em>Here are a few things to know about the real estate market as we head into spring. It should be a great season.</em></center>
+
+&nbsp;
 
 Each year, spring is the hottest season for real estate. However, spring 2018 looks to be an especially important time for anyone looking to sell a home. **Here are a few facts to get you thinking:**<br><br>**1. Demand continues to outstrip supply.** The number of homes on the market is near an all-time low, and listings of existing homes have plunged 8.1% over the past year. While this means that the total number of sold homes has actually decreased, demand continues to be strong.<br><br>**2. Home prices are still surging.** Home prices are up 6.3% year over year in the last quarter for which we have data. It's not just Mansfield that's doing well—areas around the country keep posting record highs for home values.<br><br>**3. Mortgage rates are finally rising.** The Fed increased its benchmark rate several times over the past year, but this did not translate to an immediate increase in mortgage rates. However, mortgage rates do seem to be finally responding, and the 30-year fixed rate is now hovering around 4.5.%. While this is a four-year high, it is still near historic lows and makes mortgages affordable to would-be buyers.
 
