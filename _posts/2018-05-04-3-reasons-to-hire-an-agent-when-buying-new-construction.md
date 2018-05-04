@@ -20,7 +20,7 @@ youtube_code: A-4E0ncRA9A
 
 {% include youtube.html %}
 
-Are you thinking about buying a brand new home? Here are some ways hiring an agent can make your life easier.
+<center>Are you thinking about buying a brand new home? Here are some ways hiring an agent can make your life easier.</center>
 
 Why does it make sense to hire a real estate agent when you’re buying a new construction home? There is a lot of information to cover on this topic, so I’ll just give you a few things to consider.
 
