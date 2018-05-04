@@ -23,7 +23,7 @@ youtube_code: '-qNW62GgzPw'
 
 Today, I want to talk about the top myths of real estate in a hot seller’s market.
 
-**1. All agents are the same.** Some of you may have seen me discussing this myth on **[Good Things Utah](http://www.good4utah.com/good-things-utah/gtu-sponsor/why-should-someone-use-a-realtor-in-todays-seller-market/1069597291){: target="_blank"}**. Imagine that you had $500,000 to invest in the stock market. Would you go and hire a stockbroker just because you knew them, or would you get out there, investigate, and find the absolute best stockbroker who will protect and increase your money?
+**1. All agents are the same.** Some of you may have seen me discussing this myth on "**[Good Things Utah](http://www.good4utah.com/good-things-utah/gtu-sponsor/why-should-someone-use-a-realtor-in-todays-seller-market/1069597291){: target="_blank"}"**. Imagine that you had $500,000 to invest in the stock market. Would you go and hire a stockbroker just because you knew them, or would you get out there, investigate, and find the absolute best stockbroker who will protect and increase your money?
 
 Hiring a real estate is just like that. You need to hire the best real estate agent. On average, I get 3% to 4% more on the sale of a home than most other real estate agents, and there are a lot of great agents out there that you’ll want to interview.
 
