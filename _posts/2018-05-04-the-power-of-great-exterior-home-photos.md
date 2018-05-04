@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Great Exterior Home Photos
-date:
+date: 2018-05-04 16:28:30
 tags:
   - Home Seller Tips
 excerpt: >-
