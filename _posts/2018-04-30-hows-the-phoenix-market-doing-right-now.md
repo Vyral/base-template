@@ -8,7 +8,7 @@ excerpt: >-
   Phoenix real estate is doing extremely well right now. Here’s what the latest
   numbers are telling us.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+market+update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+Latest+Phoenix+Real+Estate+Numbers.mp4
 pullquote: >-
   People who bought at the peak are seeing values rise back to where they were
   before.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: skKX32CrfNw
+youtube_code: tbLkGzoYvfs
 ---
 
 {% include youtube.html %}
