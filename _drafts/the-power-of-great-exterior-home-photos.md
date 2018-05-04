@@ -21,7 +21,9 @@ youtube_code: ABTRzDaZU44
 
 {% include youtube.html %}
 
-Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.
+<center><em>Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.</em></center>
+
+<center>&nbsp;</center> 
 
 Spring is here, and that means if you’re selling your home soon or in the near future, it’s important that you get outside and take pictures of it.
 
