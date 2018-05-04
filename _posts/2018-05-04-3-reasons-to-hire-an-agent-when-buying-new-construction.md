@@ -26,7 +26,7 @@ Why does it make sense to hire a real estate agent when you’re buying a new co
 
 **1****.** The on-site agent can write a contract for you. However, **they represent the builder and developer, not you or your best interests**.
 
-**2.******There** are questions to ask that you may or may not know about**. For example, if you like a lot that is lined with trees in the back, do the trees go on your land?
+**2.****There are questions to ask that you may or may not know about.** For example, if you like a lot that is lined with trees in the back, do the trees go on your land?
 
 Also, mirror-image floor plans are important to know about. You may see a floor plan that you love on paper, but because of the rules with the HOA or with the utility company, your home can be built as a mirror image from what you actually saw on the paper floor plan. You’ll want to know this up front.
 
