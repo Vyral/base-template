@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calgary Mortgage Market Update
-date: 2018-05-04 15:04:29
+date: 2018-05-04 15:04:00
 tags:
   - Real Estate
   - Mortgages
