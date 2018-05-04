@@ -24,6 +24,8 @@ youtube_code: A-4E0ncRA9A
 
 &nbsp;
 
+&nbsp;
+
 Why does it make sense to hire a real estate agent when you’re buying a new construction home? There is a lot of information to cover on this topic, so I’ll just give you a few things to consider.
 
 **1.** The on-site agent can write a contract for you. However, **they represent the builder and developer, not you or your best interests**.
