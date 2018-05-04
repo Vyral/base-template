@@ -22,7 +22,7 @@ When you interview an agent, you want to make sure that you are getting somebody
 
 Experience in an important factor to consider. &nbsp;
 
-For sellers looking at an agent, you should find an agent willing to help with:
+If you're looking for an agent, you need someone who is willing to help with:
 
 1) Appropriate pricing
 
