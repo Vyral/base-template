@@ -30,11 +30,7 @@ Why does it make sense to hire a real estate agent when you’re buying a new co
 
 Also, mirror-image floor plans are important to know about. You may see a floor plan that you love on paper, but because of the rules with the HOA or with the utility company, your home can be built as a mirror image from what you actually saw on the paper floor plan. You’ll want to know this up front.
 
-&nbsp;
-
 {% include pullquote.html %}
-
-&nbsp;
 
 Consider the fees in the contract. Are their contribution fees for the HOA? A fee in the contract for a survey? All of this stuff is important to you and we go over it all upfront to make sure there are no surprises.
 
