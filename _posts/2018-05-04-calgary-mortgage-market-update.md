@@ -26,7 +26,7 @@ youtube_code: Tq9-aLws7AU
 
 &nbsp;
 
-There have been some big changes in the real estate and mortgage market this year, which is causing confusing, myths, and information that may be affecting homeowners and home buyers. **Today Bob Reader joins me to help explain this problem and how to solve it**.
+There have been some big changes in the real estate and mortgage market this year, which is causing confusion, myths, and misinformation that may be affecting homeowners and home buyers. **Today Bob Reader joins me to help explain this problem and how to solve it**.
 
 Bob is a mortgage broker, which means he works for the buyer instead of the bank. He helps his clients shop the entire market, look at every option, and act as an agent for the consumer. **When you have someone that’s working for you instead of working for the bank, you’re going to see a much better shopping experience**.
 
@@ -40,4 +40,4 @@ We have been hearing a lot from buyers about some first-time home buyer programs
 
 Finally, let’s discuss interest rates. With them creeping up, should buyers go for a variable or a fixed-term? According to Bob, it depends on the buyer. However, the variable rate mortgage probably holds the best chance of saving money right now. **Over the last 12 years, rates have remained very stable and there’s no reason to expect them changing dramatically anytime soon**.
 
-Thanks to Bob for joining us. If you have any questions for him, don’t hesitate to give him a call at 403-819-0500 or send him an email to Bob@canadianmortgagepro.com. If you have any other questions for us about the market or real estate in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+Thanks to Bob for joining us. If you have any questions for him, don’t hesitate to give him a call at 403-819-0500 or send him an email to [Bob@canadianmortgagepro.com](Bob@canadianmortgagepro.com). If you have any other questions for us about the market or real estate in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
