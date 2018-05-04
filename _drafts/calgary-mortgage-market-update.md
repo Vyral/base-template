@@ -22,7 +22,7 @@ youtube_code: Tq9-aLws7AU
 
 {% include youtube.html %}
 
-I was recently joined by mortgage broker Bob Reader to discuss the latest with interest rates. Here’s what we learned.
+<center>*I was recently joined by mortgage broker Bob Reader to discuss the latest with interest rates. Here’s what we learned.*</center>
 
 There have been some big changes in the real estate and mortgage market this year, which is causing confusing, myths, and information that may be affecting homeowners and home buyers. **Today Bob Reader joins me to help explain this problem and how to solve it**.
 
