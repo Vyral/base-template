@@ -5,6 +5,10 @@ show_custom_links: true
 custom_links:
   - title: About Us
     url: /about/
+  - title: Video Tutorials
+    url: /video-tutorials/
+  - title: How it Works
+    url: /how-it-works/
   - title: Results
     url: /results/
 
