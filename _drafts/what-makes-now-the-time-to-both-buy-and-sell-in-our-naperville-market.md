@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The next 90 days will be a great time to both buy and sell in our market.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/Naperville+Real+Estate+%257C+The+Stary+Group-+Your+Latest+Naperville+Numbers.mp4
 pullquote: 'If you’re planning on buying or selling, now is the time to call me.'
 enclosure_type: video/mp4
 enclosure_time:
