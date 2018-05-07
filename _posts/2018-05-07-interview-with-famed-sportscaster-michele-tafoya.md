@@ -8,7 +8,8 @@ excerpt: >-
   sportscaster Michele Tayofa, who will be taking time to answer a few fun
   questions about her life and career. To hear what she has to say, watch my
   latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+Schuster/Videos+/2018/John+Schuster+Group-+Michele+Tafoya+Podcast.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
