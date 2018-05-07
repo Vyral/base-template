@@ -11,14 +11,13 @@ excerpt: >-
   from making the same mistakes. Our market right now is very competitive, so
   making lowball offers simply won’t cut it. To learn more about how to win in
   today’s hot market, watch this short video.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Manny+Gomes/Videos/2018/Manny+Gomes%2527s+Mortgage+Video+Blog+%257C+Negotiation.mp4
+enclosure:
 pullquote: 'If you’re serious about purchasing a home, put your best offer in first.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qgx1gWvyuek
+youtube_code:
 ---
 
 {% include youtube.html %}
