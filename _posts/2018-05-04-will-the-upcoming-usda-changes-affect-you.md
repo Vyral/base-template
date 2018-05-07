@@ -22,7 +22,7 @@ youtube_code: T_GB2tgWgD0
 
 June 4, 2018 will be a big day in the mortgage world. It’s the day that the new maps from the USDA come into effect for the 2018 fiscal year.
 
-As you may already know, the three main qualifications for a USDA loan are:<br>&nbsp;
+As you may already know, the three main qualifications for a USDA loan are:
 
 * You must have at least a 620 credit score
 * You must be purchasing in a USDA-eligible area
