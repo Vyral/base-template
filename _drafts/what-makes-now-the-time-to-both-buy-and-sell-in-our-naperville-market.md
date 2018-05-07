@@ -18,7 +18,9 @@ youtube_code: my8oH0lI6gs
 
 {% include youtube.html %}
 
-Spring is here, and it’s bringing out the buyers and sellers in our marketplace.
+<center><em>Spring is here, and it’s bringing out the buyers and sellers in our marketplace.</em></center>
+
+<center>&nbsp;</center>
 
 Just last week, we listed four homes and put five under contract. This means **now is the time to both buy and sell.** Over the next 90 days, we anticipate that we’ll see many more homes come onto the market, as well as more buyers enter the marketplace.
 
