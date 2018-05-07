@@ -19,20 +19,44 @@ youtube_code: xx0VViZq3Wo
 
 {% include youtube.html %}
 
-Today let’s talk about two great resources that can help you earn rewards for paying your bills.
+If you're like most people who pay their mortgage or rent by using a direct deposit, Automated Clearing House (ACH), or writing a check, this tactic could be a great way to help build your credit, pay your major bills like rent and mortgages, all while earning cash back in the process. Let's dive in to how this works!
 
-How do the high-earning investors I work with pay their mortgages and bills while simultaneously earning cash back and travel points?
+Firstly, there is a company called Plastiq. This company allows people to use a credit card to pay major bills like a mortgage company, individual, insurance company, etc. Now, they do charge a fee to process your credit card and make the payments. Plastiq charges your credit card 2.5% for every transaction. Now that may make using Plastiq not so appealing to people without knowing the second half of our tactic - using a cash back credit that at least covers the 2.5% fee. Along comes (drumroll please) the Alliant 3% Cash Back Credit Card from VISA.
 
-I’ve got good news: The techniques they use are something you can apply within your own life. So today I’d like to discuss two helpful resources for how you can replicate these earnings.
+**The Alliant 3% Cash Back Credit Card**
 
-First of all, you can actually use certain credit cards to earn cash back. One example of this kind of card is the Alliant Visa Signature 3% cash back credit card. I’ve seen a lot of cards that only earn you 1% or 1.5% cash back, so the 3% you can earn from this card is quite a big deal. **You can find more information about this card here**.
+To apply for the Alliant VISA card to earn the 3% cash back, there are a few steps to their application process. Firstly, you'll notice that Alliant is a Credit Union. If you're unfamiliar with credit unions that's ok - just note that they are unlike most bigger banks like Wells Fargo, Bank of America, Chase, etc. in that they are a cooperative of members who pool their money together. Essentially, Credit unions are not-for-profit organizations that exist to serve their members. To apply for the Alliant credit card, you have to first be a member of their Alliant Credit Union. If you are like me located here in GA, or another state other than IL (Alliant being based out of Chicago, IL), there is a little step to complete to become an Alliant member. Take a look at their website to see which one you want to pursue, but I personally did the option of paying $10 to donate to the Orphan Foundation of America to start the membership process.
 
-The second resource I’d like to highlight is a service called Plastiq. **Plastiq provides a one-stop solution to paying bills, as the service writes and sends checks for you**. Plastiq is also an easy way to accelerate the rewards you earn from credit cards, so using it in tandem with the Alliant Visa Signature 3% cash back card could greatly increase the benefits you reap as you pay down bills.
+Once you are a member of the Alliant Credit Union, you are now able to complete the credit card application process. I did mine online, and it was straightforward just like most credit card applications. Once completed, you'll get contacted afterwards and voila, you now have a 3% cash back credit card to cover any Plastiq bills you want to pay and make a small 0.5% in cash back.
+
+Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out&nbsp;[Plastiq's ](https://www.plastiq.com/)website for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
+
+![](/uploads/unnamed.png)
 
 {% include pullquote.html %}
 
-Using Plastiq along with the Alliant card allows you to build your credit score while earning a little bit of cash back. Best of all, the earnings you gain from the Alliant card will most likely cover Plastiq’s transaction fees, which are currently 2.5% plus $0.30 per transaction. That said, though, you can **save some money when signing up with Plastiq by using this referral link**.
+A great way to earn even more cash back, or potentially cut back on the cost of using Plastiq's service could be:
 
-Using these two resources together is a great way to maximize your earnings. I highly recommend giving it a try.
+* **+.75% Business Tax Deduction**
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+The Plastiq fee can be classified as a business expense on tax returns.
+
+* **+2% Early Pay Discount**
+
+You can now pay earlier and earn better payment terms.
+
+* **4.75% Potential Value Back**
+
+Gain additional value with extra cash on hand and Plastiq referrals
+
+So if you're a business owner and using Plastiq to run business expenses through your company with this tactic then you can take advantage of the 2.5% fee Plastiq charges as a business write off (Thanks Uncle Sam!).
+
+And the last item on their website to alleviate their fees are using the referral codes once you sign up and create your own Plastiq account. Please feel free to use my code to get started, which obviously benefits me, but also adds 500 points to your account on signup. The points equate to how many dollars you can waive the their 2.5% fee on (with their website showing up to a total 4.75% value back).
+
+**USE REFERRAL CODE:&nbsp; &nbsp;888120**
+
+Now that you are armed with a tactic to build up your credit, pay people and vendors without needing cash in your account, and all of which goes a long way to just make you that much more financially savvy! ;)
+
+I hope you found value in this article, and stay tuned for many more nuggets of financial, real estate, and business gold that I'll be sharing along your journey.&nbsp;
+
+Cheers to loving where you live!
