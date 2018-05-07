@@ -20,7 +20,7 @@ youtube_code: my8oH0lI6gs
 
 Spring is here, and it’s bringing out the buyers and sellers in our marketplace.
 
-Just last week, we listed four homes and put five under contract. This means now is the time to both buy and sell. Over the next 90 days, we anticipate that we’ll see many more homes come onto the market, as well as more buyers enter the marketplace.
+Just last week, we listed four homes and put five under contract. This means **now is the time to both buy and sell.** Over the next 90 days, we anticipate that we’ll see many more homes come onto the market, as well as more buyers enter the marketplace.
 
 As of right now, inventory is still low across the board. Depending on the price range, it’s down anywhere from 13% to 23% compared to where it was at this time last year.
 
