@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Advice for Retirement: When to Start Taking Social Security Benefits'
-date: 2018-05-04 14:58:54
+date: 2018-05-04 14:58:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -16,16 +16,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4i5J9OSNFH8
+youtube_code: lS9TUnIyCIs
 ---
 
 {% include youtube.html %}
 
-Today, I want to provide some key insight into optimizing your Social Security benefits. This information may help you plan for your future as you approach or enter your retirement years.
+Today I want to provide some key insight into optimizing your Social Security benefits. This information may help you plan for your future as you approach or enter your retirement years.
 
 In 2015, the Obama administration carried out a major overhaul of the Social Security system. This overhaul eliminated some things but did make it easier to calculate benefits.
 
-As you probably know, you can start taking your earliest benefit at the age of 62. However, if you continue working after this you will have a reduction of your benefits depending on your income threshold. **You can find more details about this by visiting[ www.ssa.gov.]( www.ssa.gov){: target="_blank"}**
+As you probably know, you can start taking your earliest benefit at the age of 62. However, if you continue working after this you will have a reduction of your benefits depending on your income threshold. **You can find more details about this by visiting[ www.ssa.gov.](www.ssa.gov){: target="_blank"}**
 
 Normal retirement age is 66, at which point you can get your full benefit without any reduction if you continue to work. At age 70, you can fully maximize your benefits.
 
