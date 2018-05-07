@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Avoid These 6 Mistakes'
-date: 2018-03-30 19:56:00
+date: 2018-05-07 19:56:00
 tags:
   - Home Seller Tips
 excerpt: >-
