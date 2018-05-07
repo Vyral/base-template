@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Have Some Exciting Announcements to Make!
-date:
+date: 2018-05-07 21:02:04
 tags:
   - Real Estate
 excerpt: >-
