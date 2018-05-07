@@ -22,7 +22,9 @@ youtube_code: ItYpwh_RnVw
 
 Today I’m here at the 92 KQRS radio station to do a podcast with the famous sportscaster Michele Tayofa, who will be taking time to answer a few fun questions. **Refer to the timestamps below to peruse the interview at your leisure.**
 
-0:51—What has Michele been doing since the Superbowl?<br>1:47—The craziest, most embarrassing sideline interviews Michele has ever done in any sport
+0:51—What has Michele been doing since the Superbowl?
+
+1:47—The craziest, most embarrassing sideline interviews Michele has ever done in any sport
 
 2:48—Ten rapid-fire questions about Michele’s favorite things
 
