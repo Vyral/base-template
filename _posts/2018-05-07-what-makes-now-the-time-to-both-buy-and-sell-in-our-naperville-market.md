@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes Now the Time to Both Buy and Sell in Our Naperville Market?
-date:
+date: 2018-05-07 19:48:04
 tags:
   - Market Update
 excerpt: >-
