@@ -2,8 +2,8 @@
 layout: post
 title: How to Earn Money From Paying Your Bills
 tags:
-  - Real Estate
-  - Investment
+  - Home Owner Tips
+  - Mortgages
 excerpt: >-
   Today let’s talk about two great resources that can help you earn rewards for
   paying your bills.
@@ -29,7 +29,7 @@ To apply for the Alliant VISA card to earn the 3% cash back, there are a few ste
 
 Once you are a member of the Alliant Credit Union, you are now able to complete the credit card application process. I did mine online, and it was straightforward just like most credit card applications. Once completed, you'll get contacted afterwards and voila, you now have a 3% cash back credit card to cover any Plastiq bills you want to pay and make a small 0.5% in cash back.
 
-Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out&nbsp;[Plastiq's ](https://www.plastiq.com/)website for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
+Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out [Plastiq's ](https://www.plastiq.com/)website for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
 
 ![](/uploads/unnamed.png)
 
@@ -53,10 +53,10 @@ So if you're a business owner and using Plastiq to run business expenses through
 
 And the last item on their website to alleviate their fees are using the referral codes once you sign up and create your own Plastiq account. Please feel free to use my code to get started, which obviously benefits me, but also adds 500 points to your account on signup. The points equate to how many dollars you can waive the their 2.5% fee on (with their website showing up to a total 4.75% value back).
 
-**USE REFERRAL CODE:&nbsp; &nbsp;888120**
+**USE REFERRAL CODE:   888120**
 
 Now that you are armed with a tactic to build up your credit, pay people and vendors without needing cash in your account, and all of which goes a long way to just make you that much more financially savvy! ;)
 
-I hope you found value in this article, and stay tuned for many more nuggets of financial, real estate, and business gold that I'll be sharing along your journey.&nbsp;
+I hope you found value in this article, and stay tuned for many more nuggets of financial, real estate, and business gold that I'll be sharing along your journey. 
 
 Cheers to loving where you live!
