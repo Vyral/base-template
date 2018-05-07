@@ -36,6 +36,10 @@
 .apply-button
 	margin: 3rem 0 0 0
 
+.mobile-break
+	button
+		width: 100%
+
 #apply
 	text-transform: capitalize
 	font-size: 20px
@@ -60,9 +64,11 @@
 	.site-title
 		font-size: 5rem
 	.broker-logo
-	display: none
+		display: none
 	#apply
-		font-size: 16px
+		font-size: 12px !important
+		letter-spacing: 1px
+
 
 @media (max-width: 600px)
 	#hero
@@ -79,9 +85,12 @@
 		// height: 25rem
 	.cta
 		padding: 0.5rem
-	#apply
-		font-size: 16px
-		margin-left: -10px
+	.apply-button
+		button
+			a
+				font-size: 12px
+				letter-spacing: 1px
+				padding: 10px 20px
 
 .container-fluid
 	padding: 0
