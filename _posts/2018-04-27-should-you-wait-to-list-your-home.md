@@ -26,7 +26,7 @@ I’m coming to you today from New York City’s Time Square to answer a questio
 
 **My answer to that is no—put it on the market now.** There are a lot of buyers out there and we’re in a very competitive seller’s market. Interest rates are going up, so **the longer you wait, the less buying power people will have,** and therefore, the fewer potential buyers you’ll see.
 
-If you have photos that you personally own and have taken of your home from last summer or fall, then you can use them in your marketing. You don’t need to worry about the grass being green; just rake up fallen leaves and branches and get your yard looking nice
+If you have photos that you personally own and have taken of your home from last summer or fall, then you can use them in your marketing. You don’t need to worry about the grass being green; just rake up fallen leaves and branches and get your yard looking nice.
 
 {% include pullquote.html %}
 
