@@ -18,7 +18,9 @@ youtube_code: hPWWhO7jkhw
 
 {% include youtube.html %}
 
-We want to invite you to our upcoming summer barbecue bash and introduce you to the newest member of our team.&nbsp;
+<center><em>We want to invite you to our upcoming summer barbecue bash and introduce you to the newest member of our team.</em></center>
+
+<center>&nbsp;</center>
 
 We have a couple exciting announcements from our team to make as our spring market moves along.&nbsp;
 
