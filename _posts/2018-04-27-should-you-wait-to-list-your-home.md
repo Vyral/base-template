@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The market is hot right now, but is it a good idea to wait until this summer
   to list your home?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Capital+District+Real+Estate-+Should+you+wait+to+list%253F+(1).mp4
 pullquote: Take advantage of the fact that we’re in a sellers market. Don’t wait to list.
 enclosure_type: video/mp4
 enclosure_time:
