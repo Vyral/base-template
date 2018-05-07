@@ -8,13 +8,13 @@ excerpt: >-
   What does the future hold for the Phoenix real estate market? Here are some
   numbers that will give you a better idea.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2018/April/Valley+of+the+Sun+Real+Estate+Agent-+Latest+numbers+for+Phoenix+real+estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2018/May/Valley+of+the+Sun+Real+Estate+Agent-+Latest+numbers+for+Phoenix+real+estate.mp4
 pullquote: We’ve made a significant rebound since bottoming out in 2009.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YQ_fwpnwhCo
+youtube_code: 2X7Q96wuMLE
 ---
 
 {% include youtube.html %}
