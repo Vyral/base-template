@@ -1618,7 +1618,9 @@ label.tree-toggle {
   .site-title {
     font-size: 5rem; }
 
-  display: none; }
+  display: none;
+  #apply {
+    font-size: 16px; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 15rem;
@@ -1631,7 +1633,11 @@ label.tree-toggle {
     padding: 1rem; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  #apply {
+    font-size: 16px;
+    margin-left: -10px; } }
 .container-fluid {
   padding: 0; }
 
