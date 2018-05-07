@@ -29,7 +29,7 @@ To apply for the Alliant VISA card to earn the 3% cash back, there are a few ste
 
 Once you are a member of the Alliant Credit Union, you are now able to complete the credit card application process. I did mine online, and it was straightforward just like most credit card applications. Once completed, you'll get contacted afterwards and voila, you now have a 3% cash back credit card to cover any Plastiq bills you want to pay and make a small 0.5% in cash back.
 
-Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out&nbsp;[Plastiq's ](https://www.plastiq.com/)website for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
+Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out&nbsp;[Plastiq's website](https://www.plastiq.com/){: target="_blank"} for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
 
 ![](/uploads/unnamed.png)
 
