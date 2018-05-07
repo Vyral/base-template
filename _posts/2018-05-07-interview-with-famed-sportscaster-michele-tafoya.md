@@ -28,6 +28,4 @@ Today I’m here at the 92 KQRS radio station to do a podcast with the famous sp
 
 6:23—Michele’s glowing praise for the John Schuster Group
 
-{% include pullquote.html %}
-
 I’d like to thank Michele for being such a rockstar and advocate for our team. I appreciate everything she does for us, and I’m sure some of our clients and KQRS listeners will enjoy getting to know her a little better.<br><br>If you ever need assistance with buying, selling, or investing in real estate, you are invited to reach out to us any time. We’d love to help you out.
