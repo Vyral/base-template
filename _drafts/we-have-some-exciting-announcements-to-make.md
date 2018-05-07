@@ -30,7 +30,7 @@ First, we want to thank you if you joined us at the Malibu Cafe for our Earth Da
 
 {% include pullquote.html %}
 
-In addition to this announcement, we’d like to introduce you to the newest member of our team, Ruth Cavanah. Ruth will be our showing agent while Heather is away on maternity leave, and her addition is great news for both us and our clients. Ruth will be out every day previewing and showing properties for us, which will enable us to see homes the minute they hit the market and meet with you so you can get the first look at them.&nbsp;
+In addition to this announcement, we’d like to introduce you to the newest member of our team, Ruth Cavanah. **Ruth will be our showing agent while Heather is away on maternity leave,** and her addition is great news for both us and our clients. Ruth will be out every day previewing and showing properties for us, which will enable us to see homes the minute they hit the market and meet with you so you can get the first look at them.&nbsp;
 
 We’re excited to have Ruth on board. You can reach her by calling 805-990-8900 or emailing ruth@radkeagency.com.
 
