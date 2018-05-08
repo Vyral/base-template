@@ -9,22 +9,22 @@ excerpt: >-
   I was recently joined by mortgage broker Bob Reader to discuss the latest with
   interest rates. Here’s what we learned.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Calgary+Mortgage+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Calgary+Mortgage+Market+Update+(1).mp4
 pullquote: >-
   The variable mortgage probably offers the best chance of saving money right
   now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/eric-mortimer-ss-april-no-play.jpg
-youtube_code: Tq9-aLws7AU
+youtube_alternate_image: /uploads/eric-mortimer-ss-april-no-play-1.jpg
+youtube_code: CvvOuol5lWE
 ---
 
 {% include youtube.html %}
 
 <center><em>I was recently joined by mortgage broker Bob Reader to discuss the latest with interest rates. Here&rsquo;s what we learned.</em></center>
 
-&nbsp;
+ 
 
 There have been some big changes in the real estate and mortgage market this year, which is causing confusion, myths, and misinformation that may be affecting homeowners and home buyers. **Today Bob Reader joins me to help explain this problem and how to solve it**.
 
