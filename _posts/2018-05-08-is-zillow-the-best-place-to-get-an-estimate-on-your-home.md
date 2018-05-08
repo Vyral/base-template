@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Zillow the Best Place to Get an Estimate on Your Home?
-date: 2018-05-08 17:50:11
+date: 2018-05-08 17:50:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: dZoMr3H0m0o
 ---
 
 {% include youtube.html %}
 
-Many people love to use Zillow to evaluate their home when they are thinking about selling, However, how accurate are their estimates, or Zestimates as they call them? **We wanted to share some information with you about how Zillow works and why their estimates should be taken with a grain of salt.&nbsp;**
+Many people love to use Zillow to evaluate their home when they are thinking about selling, However, how accurate are their estimates, or Zestimates as they call them? **We wanted to share some information with you about how Zillow works and why their estimates should be taken with a grain of salt. **
 
-To explain how Zestimates work fully, we have to get a little technical. Zillow uses an algorithm to determine values, much like the algorithms used to assess the value of a large pool of mortgages bought and sold in the market.&nbsp;
+To explain how Zestimates work fully, we have to get a little technical. Zillow uses an algorithm to determine values, much like the algorithms used to assess the value of a large pool of mortgages bought and sold in the market. 
 
 **According to market research (and even Zillow’s own website), Zestimates can be anywhere from 4% to 25% off.** If your home is worth $200,000, but its Zestimate says it’s worth $220,000, it will sound exciting. However, buyers will know the home is really worth $200,000. You only get one chance at a first impression with buyers, and you don’t want to ruin it by pricing your home too high because of false information from an algorithm.
 
