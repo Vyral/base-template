@@ -66,10 +66,7 @@ client:
     love to be outside with friends/family walking, talking, hiking, camping,
     eating, rolling down hills in all seasons, sledding, snowboarding, and the
     list goes on….”
-emma_form: >-
-  <script
-  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808596';</script><script
-  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808596';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://boisesellers.com'
