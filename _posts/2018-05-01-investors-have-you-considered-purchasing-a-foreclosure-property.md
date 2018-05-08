@@ -15,8 +15,8 @@ pullquote: >-
   those with the skills and resources to handle them.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/04-27-18youtube.jpg
 youtube_code: GeLNgwfai3M
 ---
 
@@ -36,11 +36,11 @@ When it comes to courthouse auctions, a professional such as myself may bid on y
 
 {% include pullquote.html %}
 
-Foreclosure, the process through which a bank reclaims a property where the homeowner is in default, is handled differently in many states. **In Hawaii, the process is known as judicial foreclosure.&nbsp;**
+Foreclosure, the process through which a bank reclaims a property where the homeowner is in default, is handled differently in many states. **In Hawaii, the process is known as judicial foreclosure. **
 
 Once the court has granted the plaintiff (the bank) its motion for summary judgement, the judge then appoints a commissioner, usually an attorney. The attorney must file three notices in the paper announcing the court sale date and hold two open houses at the property. **This process usually takes 6 -10 weeks.**
 
-Eventually, the foreclosure auction sale will occur on the courthouse steps at noon on the announced date. The winner of the highest bid gets the property, but the process doesn't end there. The commissioner**&nbsp;**then files documents to schedule a confirmation hearing which usually occurs 6-8 weeks later. **At the confirmation, the bidding is reopened**. At that time if a buyer wants to bid, the minimum bid must be at least 5% higher than the price at the courthouse. So, if a home were auctioned off on the courthouse steps for $700,000, when the bidding is reopened at the confirmation hearing, the minimum bid would be $735,000.
+Eventually, the foreclosure auction sale will occur on the courthouse steps at noon on the announced date. The winner of the highest bid gets the property, but the process doesn't end there. The commissionerthen files documents to schedule a confirmation hearing which usually occurs 6-8 weeks later. **At the confirmation, the bidding is reopened**. At that time if a buyer wants to bid, the minimum bid must be at least 5% higher than the price at the courthouse. So, if a home were auctioned off on the courthouse steps for $700,000, when the bidding is reopened at the confirmation hearing, the minimum bid would be $735,000.
 
 There may be multiple bidders at the confirmation hearing and the price will go up until the auction is completed. Then, there are more legal documents to be processed and filed and, ultimately, **the buyer receives a commissioner’s deed.**
 
