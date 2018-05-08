@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact
-permalink: /contact/
+permalink: /Career Opportunities/
 ---
 
 <div class="whitespace"><h2>Career Opportunities</h2><p>Do you love homes, working with people, and the ability to determine your own income?&nbsp; Are you curious about a career in real estate?&nbsp;</p><p>I encourage you to consider a real estate career with us!&nbsp;</p><p>You get to work with successful people in the community, and the nature of the position allows you to work for your own bottom line instead of someone else&rsquo;s. We have great advantages over a traditional real estate company with our innovative approach&mdash;reach out today to find out more!</p><p>&nbsp;</p></div>
