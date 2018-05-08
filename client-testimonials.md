@@ -6,6 +6,15 @@ layout: default
 
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/441178866&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">
+"We were able to find a home to move into that we liked. It was a good experience. Our realtor did make sure that he got us a good deal. When the sellers we being kind of persnickety. He stuck up for us and got a good deal."
+</p>
+<p class="testimonial-author">
+Susan D.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346737342&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 <p class="testimonial-text">
 "We had an offer on our home within four days and we closed in about six weeks. I enjoyed getting the once a week follow-up. I don't know if that's above and beyond but I appreciated that where they were letting me know what had been going on during the week seeing if I had any questions."
