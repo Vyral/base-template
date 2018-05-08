@@ -13,9 +13,8 @@ enclosure: >-
 pullquote: This workbook and planner are a great way to stay on top of your goals
 enclosure_type:
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: >-
-  /uploads/davefriedman-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: 6rEdoTBM0pY
 ---
 
