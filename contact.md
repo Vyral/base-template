@@ -3,7 +3,7 @@ layout: default
 title: Contact
 permalink: /contact/
 ---
-
+<div class="whitespace"></div>
 <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>
