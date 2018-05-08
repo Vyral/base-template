@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/04-27-18youtube.jpg
+youtube_alternate_image: /uploads/margolis-youtube.jpg
 youtube_code: GeLNgwfai3M
 ---
 
