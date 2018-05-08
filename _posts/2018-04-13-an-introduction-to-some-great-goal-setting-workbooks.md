@@ -3,7 +3,6 @@ layout: post
 title: An Introduction to Some Great Goal-Setting Workbooks
 date: 2018-04-13 15:27:00
 tags:
-  - Real Estate
 excerpt: >-
   In today’s discussion, I’ll go over the latest news from our market and share
   a couple workbooks from Lars Hedenborg that can help you reach the goals
