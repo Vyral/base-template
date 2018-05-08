@@ -19,11 +19,11 @@ youtube_code: Y-G7ymuw8co
 
 {% include youtube.html %}
 
-As my daughter is currently looking at colleges, my family recently took a trip to the midwest. During this trip we made a stop at my alma mater: Indiana University.
+As my daughter is currently looking at colleges, my family recently took a trip to the Midwest. During this trip, we made a stop at my alma mater: Indiana University.
 
-Strolling the grounds, I reflected of course on my daughter’s future—but **I also thought back 35 years into my past and considered my own experiences at the school.**
+Strolling the grounds, I reflected on my daughter’s future—but **I also thought back 35 years into my past and considered my own experiences at the school.**
 
-In those days retirement was some ways away, but now, given the industry I work in today, retirement is a subject I deal with all the time. While we often lament the passage of time, it’s important to remember that time can be our friend as well.
+In those days, retirement was some ways away, but now, given the industry I work in today, retirement is a subject I deal with all the time. While we often lament the passage of time, it’s important to remember that time can be our friend as well.
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ When I left Bloomington in 1983, the 30 components of the Dow Jones Industrial A
 
 This is just one example that comes to mind when I consider how time can sometimes work to our advantage.
 
-If you have any other questions, would like more information, or want to learn more about how time can work to your advantage when it comes to you or your employees’ retirement savings,  feel free to give me a call or send me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, would like more information, or want to learn more about how time can work to your advantage when it comes to you or your employees’ retirement savings, &nbsp;feel free to give me a call or send me an email. I look forward to hearing from you soon.
