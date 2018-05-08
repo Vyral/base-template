@@ -1,5 +1,5 @@
 audit_header: false
-title: J. Qualley & Associates Video Blog
+title: Qualley & Associates Video Blog
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from Jeremy Qualley - your professional --
@@ -26,8 +26,8 @@ client:
     downsize are very modernized and effective in this fast paced ever changing
     Real Estate market.
   market: Fargo
-  brand: J. Qualley & Associates
-  brokerage: eXp Realty
+  brand: Qualley & Associates
+  brokerage: powered by eXp Realty
   address: '219 W Main Ave West Fargo, ND 58078'
   phone: 701.306.1823
   phone_type:
@@ -132,7 +132,7 @@ header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'black'
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
