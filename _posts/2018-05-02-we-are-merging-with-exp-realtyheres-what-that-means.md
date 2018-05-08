@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/exp-realty-youtube-1.jpg
-youtube_code: qQGUUtgKPu4
+youtube_code: U719M22x8Yo
 ---
 
 {% include youtube.html %}
