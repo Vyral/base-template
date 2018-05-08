@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Negotiate Better by Putting Some Sugar With It
-date:
+date: 2018-05-08 15:19:08
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -31,18 +31,16 @@ You can go to negotiation classes that last for days and cost thousands of dolla
 
 Some agents have the attitude that the cooperating agent is their adversary and even the client on the other side of the deal is somebody to be defeated in battle. I have taken an entirely different approach and it served me and my clients very well for many years.
 
-I always look for the win-win relationship with the cooperating agent and their client. In all of our communications via email and phone, I emphasize our shared goal of getting to the closing. &nbsp;
+I always look for the win-win relationship with the cooperating agent and their client. In all of our communications via email and phone, I emphasize our shared goal of getting to the closing.  
 
 It is what the agents want. It is what the buyer wants. And, it is what the seller wants.
 
 {% include pullquote.html %}
 
-When I am scheduling the appointment, I try to be accommodating of the seller’s schedule and not be demanding about when we want to be there. When I present an offer, I very carefully detail the terms of the offer. I describe the buyer to the listing agent and I am always careful to say that we are looking forward to a positive reply. &nbsp;
+When I am scheduling the appointment, I try to be accommodating of the seller’s schedule and not be demanding about when we want to be there. When I present an offer, I very carefully detail the terms of the offer. I describe the buyer to the listing agent and I am always careful to say that we are looking forward to a positive reply.  
 
 If we get under contract, we know it's not the end. There may be negotiations over the appraisal, repairs, or even over the closing date. In all those communications, I try to be lavish in my praise of the other agent. I express appreciation to them for their cooperation and professionalism because, if it does get sticky between the buyer and the seller, I want great communication with that other agent.
 
 Our clients ultimately take their attitude cues from us, so if we can be positive, we're more likely to get the deal done.
 
 If you would like to know more about my negotiation practices or are interested in me negotiating for your next home, please don’t hesitate to ask. I look forward to helping you in any way that I can.
-
-&nbsp;
