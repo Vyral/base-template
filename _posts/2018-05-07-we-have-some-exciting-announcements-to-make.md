@@ -24,9 +24,9 @@ youtube_code: hPWWhO7jkhw
 
 We have a couple exciting announcements from our team to make as our spring market moves along.&nbsp;
 
-First, we want to thank you if you joined us at the Malibu Cafe for our Earth Day event last April. We had such a blast meeting all of the clients who joined us, and with that in mind, we want to remind you to mark your calendars for our next upcoming event—**our summer barbecue bash on July 28.** We plan on having lots of fun, and you’re officially invited.
+First, we want to thank you if you joined us at the Malibu Cafe for our Earth Day event last April. We had such a blast meeting all of the clients who joined us, and with that in mind, we want to remind you to mark your calendars for our next upcoming event—**our Summer BBQ Bash on July 28 from 11 a.m. until 2 p.m..** We plan on having lots of fun, and you’re officially invited.
 
-**BBQ Bash:** July 28th, 11-2pm, be on the lookout for more information in the coming weeks.
+We'll release more information about the event in coming weeks, so be on the lookout for updates.
 
 {% include pullquote.html %}
 
