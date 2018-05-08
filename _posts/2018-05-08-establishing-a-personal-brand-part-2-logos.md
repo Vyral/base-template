@@ -19,7 +19,7 @@ youtube_code: zyCS9coVbAo
 
 {% include youtube.html %}
 
-Today I’m back with the second installment in my series on establishing your personal brand. As agents, developing a personal brand is incredibly important. **If you haven’t already seen the first part, you can check it out here.**
+Today I’m back with the second installment in my series on establishing your personal brand. As agents, developing a personal brand is incredibly important. **If you haven’t already seen the first part, you can [check it out here.](http://swvirginiarealestatecareers.com/welcome-to-my-series-on-building-your-brand.html){: target="_blank"}**
 
 This time I’d like to talk about creating a logo. To truly build your business into a career, you’re going to need a logo. A logo will make your brand and business more identifiable. This logo will show up on signs, flyers, mail, etc.
 
