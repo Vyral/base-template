@@ -1,5 +1,5 @@
 ---
-layout: freebies
+layout: post
 title: An Introduction to Some Great Goal-Setting Workbooks
 date: 2018-05-08 15:27:00
 tags:
