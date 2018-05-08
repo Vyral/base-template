@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Be Better DSM: Where We Share the Secrets to Our Success'
-date: 2018-05-08 21:03:09
+date: 2018-05-08 21:03:00
 tags:
+  - Home Buyer Tips
 excerpt: >-
   Our new coaching page Be Better DSM can help you learn the same tips and tools
   that made our team successful.
