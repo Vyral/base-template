@@ -53,7 +53,7 @@ So if you're a business owner and using Plastiq to run business expenses through
 
 And the last item on their website to alleviate their fees are using the referral codes once you sign up and create your own Plastiq account. Please feel free to use my code to get started, which obviously benefits me, but also adds 500 points to your account on signup. The points equate to how many dollars you can waive the 2.5% fee on (with their website showing up to a total 4.75% value back).
 
-**USE REFERRAL CODE:&nbsp; &nbsp;888120**
+**USE REFERRAL CODE: 888120**
 
 Now that you are armed with a tactic to build up your credit, pay people and vendors without needing cash in your account, and all of which goes a long way to just make you that much more financially savvy! ;)
 
