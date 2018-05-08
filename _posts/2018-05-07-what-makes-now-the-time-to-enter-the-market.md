@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Makes Now the Time to Enter the Naperville Market?
+title: What Makes Now the Time to Enter the Market?
 date: 2018-05-07 19:48:00
 tags:
   - Market Update
