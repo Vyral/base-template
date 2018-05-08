@@ -19,7 +19,8 @@ youtube_code: pCigM-xPV5k
 
 If you plan on buying a home but you’re not sure whether your credit score is high enough to qualify for a loan, don’t worry. Here are a few tips that can help you still become a homeowner.
 
-* **First, try utilizing these credit repair strategies:**
+First, try utilizing these credit repair strategies:
+
 * **Lower your credit utilization rate**
 * **Request a credit limit increase**
 * **Become an authorized user for someone with good credit history**
