@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is a "Coming Soon" Listing?
-date:
+date: 2018-05-08 19:58:24
 tags:
   - Home Seller Tips
 excerpt: >-
