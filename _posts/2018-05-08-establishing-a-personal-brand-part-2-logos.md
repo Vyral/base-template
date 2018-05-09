@@ -27,7 +27,7 @@ I delayed getting my own logo until I was six or seven years into the business, 
 
 {% include pullquote.html %}
 
-Fortunately, getting a logo made doesn’t have to be expensive. **If you want something quick and low-cost, check out a company called Fiverr.** Fiverr is a platform for freelancers to sell their products and services for, you guessed it, just $5. Of course you can pay extra for rush jobs or “extras,” but the most I’ve paid for any logo using Fiverr was $15.
+Fortunately, getting a logo made doesn’t have to be expensive. **If you want something quick and low-cost, check out a company called Fiverr.** Fiverr is a platform for freelancers to sell their products and services for, you guessed it, just $5. Of course, you can pay extra for rush jobs or “extras,” but the most I’ve paid for any logo using Fiverr was $15.
 
 But don’t let the prices fool you. The artists working for Fiverr are truly skilled in what they do. For such a low cost, they definitely provide high-quality results.
 
