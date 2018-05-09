@@ -19,7 +19,9 @@ youtube_code: UmOrCaL-MkI
 
 {% include youtube.html %}
 
-*If you’re interviewing an agent, here are seven questions you should ask before hiring them. *
+<center><em>If you’re interviewing an agent, here are seven questions you should ask before hiring them. *</em></center>
+
+<center>&nbsp;</center>
 
 Whether you’re a buyer or a seller, there are certain things you should know about an agent before you hire them. Here are seven questions you should consider asking an agent before hiring them so you know you’re making the right decision:
 
