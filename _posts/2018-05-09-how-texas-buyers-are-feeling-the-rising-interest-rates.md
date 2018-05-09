@@ -22,7 +22,9 @@ youtube_code: SgRTc_U8o4w
 
 {% include youtube.html %}
 
-<center>If you are looking at buying a home, rising interest rates may affect your ability to afford a home. Today I have examples of what can happen when they rise during your home search.</center>
+<center><em>If you are looking at buying a home, rising interest rates may affect your ability to afford a home. Today I have examples of what can happen when they rise during your home search.</em></center>
+
+&nbsp;
 
 Today I want to talk to you about how interest rates are affecting the real estate market.
 
