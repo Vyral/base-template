@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview With Famed Sportscaster Michele Tafoya
+title: John Schuster Talks with KQRS Morning Show Co-Host Michele Tafoya
 date: 2018-05-07 15:55:00
 tags:
 excerpt: >-
