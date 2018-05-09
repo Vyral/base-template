@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Tips About Gifting Funds to Purchase a Home
-date:
+title: Tips about gifting funds to purchase a home
+date: 2018-05-09 15:28:04
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -20,9 +20,9 @@ youtube_code: nKYU5JIp1_I
 
 Today I’d like to discuss how you can buy a home using gift funds.
 
-Some consumers who to come to us for help are short of funds to close on their homes. Some of them are lucky enough to have a family member who offers to help by gifting them money.
+Some consumers who to come to us for help are short of funds to close on their homes. Some of them are lucky enough to have a family member who offers help by gifting them money.
 
-**Gift funds are a great way to bridge that gap**. The alternative is a pretty expensive down payment assistance program which has some restrivitice qualification standards.
+**Gift funds are a great way to bridge that gap**. The alternative is a pretty expensive down payment assistance program which has some restrictive qualification standards.
 
 {% include pullquote.html %}
 
