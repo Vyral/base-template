@@ -29,4 +29,4 @@ The real estate industry experts are predicting one of the busiest spring market
 
 With so many first-time homebuyers entering the market, it can only mean increased competition, which is going to drive some prices up this spring.
 
-**It’s an exciting time for you to capitalize on this market so if you’re thinking about selling your home at any point in the near future**, so don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you soon.
+**It’s an exciting time for you to capitalize on this market.** If you’re thinking about selling your home at any point in the near future, so don’t hesitate to reach out and give us a call or send us an email. We would love to hear from you soon.
