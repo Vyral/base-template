@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gerald-durham-may-1-email.jpg
-youtube_code: SgRTc_U8o4w
+youtube_code:
 ---
 
 {% include youtube.html %}
 
 <center><em>If you are looking at buying a home, rising interest rates may affect your ability to afford a home. Today I have examples of what can happen when they rise during your home search.</em></center>
 
-&nbsp;
+ 
 
 Today I want to talk to you about how interest rates are affecting the real estate market.
 
@@ -36,7 +36,7 @@ We have had to scale back on the price, which means we had to downsize. Now, ins
 
 {% include pullquote.html %}
 
-**If you are looking to buy a house this year, contact me as soon as possible**. We can form a game plan and beat it before interest rates go up any more so that you can buy the house you are looking for in the right area. &nbsp;
+**If you are looking to buy a house this year, contact me as soon as possible**. We can form a game plan and beat it before interest rates go up any more so that you can buy the house you are looking for in the right area.  
 
 **If you are looking to sell a house, you should know that buyers may be a little scarce**. With the interest rate rising, most buyers are going to want to hold off before they buy because they know they will have to pay more than before.
 
