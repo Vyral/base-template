@@ -19,7 +19,7 @@ youtube_code: UmOrCaL-MkI
 
 {% include youtube.html %}
 
-<center><em>If you’re interviewing an agent, here are seven questions you should ask before hiring them. *</em></center>
+<center><em>If you&rsquo;re interviewing an agent, here are seven questions you should ask before hiring them.&nbsp;</em></center>
 
 <center>&nbsp;</center>
 
