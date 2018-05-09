@@ -22,7 +22,7 @@ youtube_code: UFv9NeD2GSA
 
 {% include youtube.html %}
 
-We just sold this lovely home on Texas Court in southwest Portland, and I just wanted to say that **it was a real pleasure to help good clients&nbsp;**in this transaction.
+We just sold this lovely home on Texas Court in southwest Portland, and I just wanted to say that **it was a real pleasure to help good clients** in this transaction.
 
 Think this was our seventh transaction in which we’ve helped them buy or sell. We were so pleased to get multiple offers on this home and to be able to sell it in just four days. This home has the highest price per square foot in the neighborhood.
 
@@ -30,4 +30,4 @@ Think this was our seventh transaction in which we’ve helped them buy or sell.
 
 A lot of credit goes to the sellers, who maintained this home beautifully and put in some lovely additions. They’re also great to work with because they followed our advice and guidance, which **resulted in an offer close to $20,000 over the list price.** We wish them the best in their new home.
 
-If you or anyone you know needs professional representation or advice on getting top value for your home, please feel free to reach out to us. We’d be glad to help you.&nbsp;
+If you or anyone you know needs professional representation or advice on getting top value for your home, please feel free to reach out to us. We’d be glad to help you.
