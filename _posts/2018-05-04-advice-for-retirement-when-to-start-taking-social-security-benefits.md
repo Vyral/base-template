@@ -25,7 +25,7 @@ Today I want to provide some key insight into optimizing your Social Security be
 
 In 2015, the Obama administration carried out a major overhaul of the Social Security system. This overhaul eliminated some things but did make it easier to calculate benefits.
 
-As you probably know, you can start taking your earliest benefit at the age of 62. However, if you continue working after this you will have a reduction of your benefits depending on your income threshold. **You can find more details about this by visiting[ www.ssa.gov.](www.ssa.gov){: target="_blank"}**
+As you probably know, you can start taking your earliest benefit at the age of 62. However, if you continue working after this you will have a reduction of your benefits depending on your income threshold. **You can find more details about this by visiting [www.ssa.gov](https://www.ssa.gov/){: target="_blank"}.**
 
 Normal retirement age is 66, at which point you can get your full benefit without any reduction if you continue to work. At age 70, you can fully maximize your benefits.
 
@@ -39,6 +39,6 @@ Your investment philosophy is another key point to think about. What my team ult
 
 If you’re interested in learning more on the subject, please note that my team and I do conduct Social Security webinars and seminars. To learn more about these learning opportunities, please contact Sandra Brinez at (781) 876-4138.
 
-**And, as always, you can also find more information by visiting my website: [www.retirementcfo.com.](www.retirementcfo.com.)**
+**And, as always, you can also find more information by visiting my website: [www.retirementcfo.com](http://www.retirementcfo.com){: target="_blank"}.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
