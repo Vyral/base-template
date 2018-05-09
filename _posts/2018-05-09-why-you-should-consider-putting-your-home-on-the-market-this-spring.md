@@ -22,9 +22,9 @@ It’s an exciting time to be selling your home, especially if you have waited i
 
 The real estate industry experts are predicting one of the busiest spring markets in years. **Here are just a few of the most recent projections we’ve seen for the market in 2018:**
 
-* Home prices are projected to hit their highest levels in 11 years
+* Home prices are projected to hit their highest levels in 11 years.
 * New housing starts are projected to hit their highest levels in 8 years.
-* Purchase volume is expected to increase by $80 Billion.
+* Purchase volume is expected to increase by $80 billion.
 * First-time homebuyers are projected to make up 40% of the market.
 
 With so many first-time homebuyers entering the market, it can only mean increased competition, which is going to drive some prices up this spring.
