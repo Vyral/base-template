@@ -20,7 +20,7 @@ youtube_code: d8kF_Hfk48k
 
 {% include youtube.html %}
 
-Today I’m here at the 92 KQRS radio station to do a podcast with the famous sportscaster Michele Tayofa, who will be taking time to answer a few fun questions. **Refer to the timestamps below to peruse the interview at your leisure.**
+Today I’m here at the 92 KQRS radio station to do a podcast with the famous sportscaster Michele Tafoya, who will be taking time to answer a few fun questions. **Refer to the timestamps below to peruse the interview at your leisure.**
 
 0:51—What has Michele been doing since the Superbowl?
 
