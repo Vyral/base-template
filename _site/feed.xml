@@ -1,41 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at Sofia Ellis of Keller Williams Preferred Properties is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Sofia Ellis of Keller Williams Preferred Properties, your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Feb 2018 13:51:54 -0600</pubDate>
-    <lastBuildDate>Tue, 13 Feb 2018 13:51:54 -0600</lastBuildDate>
+    <title>Sofia Ellis Real Estate Video Blog</title>
+    <description>Our mission at Sofia Ellis of Keller Williams Preferred Properties is to be your best resource for Washington D.C. and the surrounding Maryland areas real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Sofia Ellis of Keller Williams Preferred Properties, your professional  Real Estate Agents.</description>
+    <link>http://metrodc-md.com/</link>
+    <atom:link href="http://metrodc-md.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 09 May 2018 14:21:55 -0500</pubDate>
+    <lastBuildDate>Wed, 09 May 2018 14:21:55 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test post</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Should Sellers Get a Pre-Listing Inspection?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/U_0XXett4xY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;}&lt;/p&gt;
+&lt;p&gt;Is it advisable to get a pre-listing inspection before putting your property on the market?&lt;/p&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;p&gt;It’s easy to grow attached to your home and overlook some of the wear-and-tear, but buyers may not see these flaws the same way you do. &lt;strong&gt;A home purchase is a large investment, so most buyers want to ensure they’re making a good choice before they proceed.&lt;/strong&gt; &lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt;Getting a pre-listing inspection can save you money and time as a seller. This process can allow you to find out exactly the condition of your home, and gives you the opportunity to make any necessary repairs or updates before listing.&lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Getting a pre-listing inspection can save you money and time as a seller.%20http://metrodc-md.com/should-sellers-get-a-pre-listing-inspection.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Getting a pre-listing inspection can save you money and time as a seller.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;When issues are discovered during the buyer’s home inspection, the buyer and seller will enter into a negotiation period. This will determine who covers the cost of repairs, but buyers tend to significantly overestimate the price of repairs. Having a pre-listing inspection can prevent this situation from arising. &lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;But is there a downside? Well, it’s important to realize that &lt;strong&gt;if you don’t take on the repairs outlined in the inspection report, you may be legally required to disclose all issues you found.&lt;/strong&gt; Whether disclosure laws put you at a disadvantage really depends on your circumstances.  &lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 04 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
-        
-        <category>Market Update</category>
-        
-        <category>Real Estate</category>
+        <pubDate>Wed, 09 May 2018 11:44:09 -0500</pubDate>
+        <link>http://metrodc-md.com/should-sellers-get-a-pre-listing-inspection.html</link>
+        <guid isPermaLink="true">http://metrodc-md.com/should-sellers-get-a-pre-listing-inspection.html</guid>
         
         <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>5 Important Terms That First-Time Homebuyers Should Know</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mz_AjoFQLn0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, I would like to go over a few terms that all first-time homebuyers should know. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Fixed-rate mortgage.&lt;/strong&gt; This is a mortgage with an interest rate that is fixed for the life of the loan. This means that the rate will not change for the entire life of the loan. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Adjustable-rate mortgage.&lt;/strong&gt; This is the opposite of the fixed-rate mortgage. You will start out with a lower rate for a certain period of time, say two to five years. After that, your rate will adjust annually based on the current interest rate. With this type of loan, you start out with a lower monthly payment. However, over the life of the loan, you will end up spending more money because the rate will be higher. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Pre-qualification.&lt;/strong&gt; This is basically the beginning of getting qualified for a loan. This means you will contact the lender, give him your information about your assets, income, and debts, and the lender will come up with how much you are able to qualify for. They will give you a pre-qualification letter that allows you to go out, search for a property, and feel comfortable submitting an offer. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you get a fixed-rate mortgage, your interest rate will not change for the life of the loan.%20http://metrodc-md.com/5-important-terms-that-first-time-homebuyers-should-know.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you get a fixed-rate mortgage, your interest rate will not change for the life of the loan.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. Conventional loan.&lt;/strong&gt; This is a mortgage that is not insured by any governmental agencies. The guidelines usually cap your debt-to-income ratio at 48%. You can get this loan with a down payment as low as 3% or as high as 20%. Generally, if you take out a loan and put less than 20% down, you will have mortgage insurance. The good news is that with a conventional loan, the mortgage insurance will disappear after your home reaches 80% of its value. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5. FHA loan.&lt;/strong&gt; This is backed by a governmental agency and can be a very good loan for first-time homebuyers. The FHA loan allows you to get into a home with only 3.5% down, and you can qualify for this loan with a credit score as low as 580. It’s very popular for first-time homebuyers, but it does come with mortgage insurance. Unlike the conventional loan, the mortgage insurance will remain with the FHA loan for the life of the loan.&lt;/p&gt;
+
+&lt;p&gt;I hope you found this information helpful. If you have any other questions about buying a home or about real estate in general, just give me a call or send me an email. I would be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 19:00:00 -0500</pubDate>
+        <link>http://metrodc-md.com/5-important-terms-that-first-time-homebuyers-should-know.html</link>
+        <guid isPermaLink="true">http://metrodc-md.com/5-important-terms-that-first-time-homebuyers-should-know.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Year Over Year Look at Our D.C. Area Market</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/f44811BY1VM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, I’d like to share a few recent statistics from our local MLS regarding the current real estate market. Let’s get started.&lt;/p&gt;
+
+&lt;p&gt;For the month of February, the median sales price in Washington D.C. and the surrounding Maryland areas was around $410,000. This constitutes a 2.6% increase year over year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The number of closed sales, however, has gone down since last February, decreasing 1.8% to 3,044 homes.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Year over year, the number of homes that went under contract has also gone down. This February, 4,449 homes went under contract. This is a 4.4% decrease from this time last year.&lt;/p&gt;
+
+&lt;p&gt;The number of active listings also decreased year-over-year, dropping 13.4% for a total of 6,494 active listings this February.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=In today’s hot market, buyers must be ready to put forward their best and highest offer from the start.%20http://metrodc-md.com/a-year-over-year-look-at-our-d-c-area-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“In today’s hot market, buyers must be ready to put forward their best and highest offer from the start.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;So, what do all of these figures mean to today’s buyers and sellers?&lt;/strong&gt; Well, with inventory at a shortage, homes that are available on the market are moving fast. Multiple offer situations have become more common, so buyers must be ready to put forward their best and highest offer from the start.&lt;/p&gt;
+
+&lt;p&gt;Everyone wants a nice home in a good area, so buyers tend to compete over the same few properties. For sellers, this presents a great opportunity. Homes that are priced correctly and are in good condition are selling quickly and for top dollar. However, make sure not to overprice your listing. Homes that are overpriced tend to sit on the market longer and earn less money than those that were priced correctly from the start.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Apr 2018 19:00:00 -0500</pubDate>
+        <link>http://metrodc-md.com/a-year-over-year-look-at-our-d-c-area-market.html</link>
+        <guid isPermaLink="true">http://metrodc-md.com/a-year-over-year-look-at-our-d-c-area-market.html</guid>
         
         
       </item>
