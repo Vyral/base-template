@@ -8,14 +8,13 @@ excerpt: >-
   sportscaster Michele Tayofa. She will be taking time to answer a few fun
   questions about her life and career. To hear what she has to say, watch my
   latest video.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+Schuster/Videos+/2018/John+Schuster+Group-+Interview+With+Famed+Sportscaster+Michele+Tafoya.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: eMsblSLPaFM
+youtube_code: d8kF_Hfk48k
 ---
 
 {% include youtube.html %}
