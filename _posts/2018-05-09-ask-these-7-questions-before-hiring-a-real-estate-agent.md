@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ask These 7 Questions Before Hiring a Real Estate Agent
-date:
+date: 2018-05-09 20:44:22
 tags:
   - Real Estate
 excerpt: >-
