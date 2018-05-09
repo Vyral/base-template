@@ -26,6 +26,6 @@ Here are a few different ways that you can stay competitive as a homebuyer in th
 
 {% include pullquote.html %}
 
-**3. Be creative.** Sometimes offering above asking price isn’t an option, or on the other hand, isn’t enough. To make your offer really stand out, consider structuring it with a short inspection period. Most sellers will appreciate you getting these done as quickly as possible so they can concentrate on closing and moving. Talk with your lender about shortening your appraisal and financing contingencies to get the extra edge. You could also pay for the seller’s closing fees or write a heartfelt letter to the sellers letting them know why you like the home and why you’d love to have it.
+**3. Be creative.** Sometimes offering above asking price either isn’t an option or isn’t enough. To make your offer really stand out, consider structuring it with a short inspection period. Most sellers will appreciate you getting these done as quickly as possible so they can concentrate on closing and moving. Talk with your lender about shortening your appraisal and financing contingencies to get the extra edge. You could also pay for the seller’s closing fees or write a heartfelt letter to the sellers letting them know why you like the home and why you’d love to have it.
 
 If you’re a homebuyer and you want to get more expert advice or need our help making your next purchase or sale, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
