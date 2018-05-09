@@ -19,7 +19,9 @@ youtube_code: '-fHBtdn304Q'
 
 {% include youtube.html %}
 
-You may have some questions about the latest developments from our market, but now is still a great time to be a buyer or a seller.
+<center><em>You may have some questions about the latest developments from our market, but now is still a great time to be a buyer or a seller.</em></center>
+
+<center>&nbsp;</center>
 
 You may have questions about the state of our current market, but have no fear—the latest news is good.
 
