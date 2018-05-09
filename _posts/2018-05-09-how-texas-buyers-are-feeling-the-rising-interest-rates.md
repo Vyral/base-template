@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gerald-durham-may-1-email.jpg
-youtube_code: SgRTc_U8o4w
+youtube_code: bm8XfjMspog
 ---
 
 {% include youtube.html %}
