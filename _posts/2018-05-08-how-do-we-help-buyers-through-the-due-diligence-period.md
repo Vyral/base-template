@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Rob+Ellis/Videos/2018/What+Happens+When+Your+Offer+Is+Accepted+-+Central+Ohio+Real+Estate+Agent.mp4
 pullquote: >-
-  My team and I are very hands on when we work with our clients, because we
+  My team and I are very hands-on when we work with our clients, because we
   believe that communication is key.
 enclosure_type: video/mp4
 enclosure_time:
@@ -52,5 +52,5 @@ At this point, assuming everything else is in order, we can finally proceed to c
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
