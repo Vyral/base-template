@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lS9TUnIyCIs
+youtube_code: t6A4cBT55Ik
 ---
 
 {% include youtube.html %}
@@ -42,5 +42,3 @@ If you’re interested in learning more on the subject, please note that my team
 **And, as always, you can also find more information by visiting my website: [www.retirementcfo.com.](www.retirementcfo.com.)**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
