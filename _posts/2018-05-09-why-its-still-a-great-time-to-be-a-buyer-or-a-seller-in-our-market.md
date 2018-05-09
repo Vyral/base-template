@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why It’s Still a Great Time to Be a Buyer or a Seller in Our Market
-date:
+date: 2018-05-09 18:20:44
 tags:
   - Market Update
 excerpt: >-
