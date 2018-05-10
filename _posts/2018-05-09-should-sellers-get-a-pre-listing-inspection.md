@@ -21,7 +21,7 @@ youtube_code: U_0XXett4xY
 
 Is it advisable to get a pre-listing inspection before putting your property on the market?
 
-It’s easy to grow attached to your home and overlook some of the wear-and-tear, but buyers may not see these flaws the same way you do. **A home purchase is a large investment, so most buyers want to ensure they’re making a good choice before they proceed.**&nbsp;
+It’s easy to grow attached to your home and overlook some of the wear and tear, but buyers may not see these flaws the same way you do. **A home purchase is a large investment, so most buyers want to ensure they’re making a good choice before they proceed.**&nbsp;
 
 Getting a pre-listing inspection can save you money and time as a seller. This process can allow you to find out exactly the condition of your home, and gives you the opportunity to make any necessary repairs or updates before listing.
 
