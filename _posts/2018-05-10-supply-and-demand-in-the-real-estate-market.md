@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supply and Demand in the Real Estate Market
-date:
+date: 2018-05-10 16:07:08
 tags:
   - Real Estate
 excerpt: >-
