@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Are You Guilty of These Common Listing Mistakes?'
-date: 2018-05-08 19:43:09
+date: 2018-05-08 19:43:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,7 +20,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PEypsng3avE
+youtube_code: wrcEq8jZlNk
 ---
 
 {% include youtube.html %}
