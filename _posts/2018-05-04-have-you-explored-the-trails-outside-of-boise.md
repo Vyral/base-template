@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qVjuow-WuYo
+youtube_code: Ot4kpZC6Nuw
 ---
 
 {% include youtube.html %}
@@ -36,7 +36,7 @@ If that kind of thing is on your mind, here’s what I have to say: Don’t worr
 
 {% include pullquote.html %}
 
-**2. &nbsp;Do I really need trail shoes?**
+**2.  Do I really need trail shoes?**
 
 While trail shoes aren’t required, the more you get into trail running, the more you might appreciate them. Trail running shoes have a stiffer sole that can better protect your feet from rocks. They’re also a bit more waterproof, which can come in handy if you have to cross a stream or you’re out in the snow. If you don’t have a pair of trail running shoes, I recommend you give Holly a visit at her shop in Meridian.
 
