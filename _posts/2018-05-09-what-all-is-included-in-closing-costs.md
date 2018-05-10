@@ -18,17 +18,17 @@ youtube_code: 55fuPPEv_no
 
 {% include youtube.html %}
 
-Today we are answering your questions about closing costs. **What are closing costs?**
+Today we are answering your questions about closing costs. **First, w****hat are closing costs?**
 
-I consider closing costs to include: the down payment, closing costs, and prepaid items.
+At the closing table, the three kinds of expenses buyers can expect are the down payment, one-time closing fees, and pre-paid items.&nbsp;
 
-A down payment is a percentage or specific dollar amount which goes directly toward the purchase price.
+Let's begin by talking about down payments. A down payment is a deposit made toward the cost of the home, and usually amounts to a specific percentage of the total list price.
 
 {% include pullquote.html %}
 
-**Closing costs are one-time fees associated to you getting the mortgage or purchasing the property**. This includes the fees from the appraisal, the survey, the lender costs, and the title insurance.
+**Next, closing costs are one-time fees associated****with the home purchase.** This includes the appraisal fees, the survey fees, the lender costs, and the cost of title insurance.
 
-Finally, prepaid items are those recurring charges. These are things which you will pay continually as a homeowner such as homeowners insurance, property taxes, or mortgage insurance.
+Finally, prepaid items are recurring charges. These are things which you will pay continually as a homeowner, such as homeowners insurance, property taxes, or mortgage insurance.
 
 The amount of money that you bring to closing will vary based on the price of the house, your down payment, and your creditworthiness.
 
