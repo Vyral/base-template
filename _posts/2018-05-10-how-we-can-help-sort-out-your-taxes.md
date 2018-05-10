@@ -20,7 +20,7 @@ youtube_code: Sv9LnBdZM0s
 
 {% include youtube.html %}
 
-Today’s topic isn’t the most popular, but it’s an important one. Let’s talk about how taxes and real estate can work together.
+<center>Today’s topic isn’t the most popular, but it’s an important one. Let’s talk about how taxes and real estate can work together.</center>
 
 Today’s topic is a tough one--taxes. We just got back from our accountant and it wasn’t fun, but it’s always important to keep in mind that you have options.
 
