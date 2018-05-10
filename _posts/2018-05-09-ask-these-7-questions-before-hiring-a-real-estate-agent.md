@@ -37,9 +37,9 @@ The first number to keep in mind is the list-to-sale ratio, or how many properti
 
 If you’re a buyer, how will they help you look for properties? If you’re a seller, what will they do for your house besides stick a For Sale sign in the front yard and list it on the MLS? Ask specific questions regarding your needs. All agents are different, so ask something that’s related to what you’re looking for. You should also ask for references here—try to find out who that agent has worked with recently and what their experience was like.
 
-**4. What are your cancelation guarantees?**
+**4. What are your cancellation guarantees?**
 
-If you’re under contract but things aren’t going well and you want to get out of that contract, how easy would it be for that agent to release you? Make sure you know the difference between a cancelation guarantee and a termination guarantee, as these are two different terms that will affect your bottom line tremendously.
+If you’re under contract but things aren’t going well and you want to get out of that contract, how easy would it be for that agent to release you? Make sure you know the difference between a cancellation guarantee and a termination guarantee, as these are two different terms that will affect your bottom line tremendously.
 
 **5. How much do you charge?**
 
