@@ -1,18 +1,14 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Orange County Real Estate Video Blog with Alex Yu
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
 
-emma:
-  lightbox:
-  form:
-
 client:
   name: Alex Yu
-  title: 
+  title:
   license_number: Broker Associate, CIPS<br>BRE 01492674
   about_markdown: |
     Alexander Yu graduated Magna Cum Laude from Chapman University in Business with an emphasis in real estate. His previous careers involved working with high net worth investment advisory clients and a real estate advisory role with JPMorgan Chase. During his tenure working alongside the wealthy and representing the interests of the Fortune 500 bank, he realized that homeowner’s deserved the same quality of service and insight into the changing real estate market. In his free time, he volunteers and donates his resources to causes including youth services, animal care and homelessness.
