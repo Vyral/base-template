@@ -7,13 +7,14 @@ tags:
 excerpt: >-
   The seasonal market is closing, but home sellers still have time to maximize
   their sale.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+Episode+2.mp4
 pullquote: Now’s the time to put your home on the market in the Phoenix/Scottsdale area.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: suHxHezYNzA
+youtube_code: KhfqwqVvOUQ
 ---
 
 {% include youtube.html %}
