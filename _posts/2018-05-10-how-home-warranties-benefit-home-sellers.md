@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Warranties Benefit Home Sellers
-date: 2018-05-10 20:37:51
+date: 2018-05-10 20:37:00
 tags:
 excerpt: >-
   A home warranty is a great way to help your home stand out on the market. Here
@@ -11,7 +11,7 @@ pullquote: A home warranty is a big help to homebuyers in their transitional per
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/payne-youtube-6.jpg
 youtube_code: fzvm7VXhMpI
 ---
 
