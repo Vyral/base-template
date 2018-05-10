@@ -6,6 +6,15 @@ layout: default
 
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442199106&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">
+"Our agent Dane Hill, he's one of the best. I've known Dane for a long time. He was really helpful. He searched out homes that would fit kind of what we were looking for. He just made everything really easy. We looked for a few months kind off and on and then we got pretty serious about it and we were looking at homes probably a couple times a week. Just when we put down an offer on the house that we got he made sure that all the paperwork was right that all the wording and everything was right to put us in a place to have success and get the house. He was just really diligent and creative in the paperwork and things like that to get us all set so he did awesome."
+</p>
+<p class="testimonial-author">
+-Kyler S.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/441178866&color=%23ff5500&auto_play=falsehide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">
 "We were able to find a home to move into that we liked. It was a good experience. Our realtor did make sure that he got us a good deal. When the sellers we being kind of persnickety. He stuck up for us and got a good deal."
