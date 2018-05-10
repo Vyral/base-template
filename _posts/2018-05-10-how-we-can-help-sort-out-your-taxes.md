@@ -20,9 +20,11 @@ youtube_code: Sv9LnBdZM0s
 
 {% include youtube.html %}
 
-<center>Today’s topic isn’t the most popular, but it’s an important one. Let’s talk about how taxes and real estate can work together.</center>
+<center><em>Today&rsquo;s topic isn&rsquo;t the most popular, but it&rsquo;s an important one. Let&rsquo;s talk about how taxes and real estate can work together.</em></center>
 
-Today’s topic is a tough one--taxes. We just got back from our accountant and it wasn’t fun, but it’s always important to keep in mind that you have options.
+&nbsp;
+
+Today’s topic is a tough one–taxes. We just got back from our accountant and it wasn’t fun, but it’s always important to keep in mind that you have options.
 
 **What kind of options do people have after they’ve seen their tax accountant on tax day?** You may need to sell a home, buy a home, or pay off a mortgage sooner.
 
