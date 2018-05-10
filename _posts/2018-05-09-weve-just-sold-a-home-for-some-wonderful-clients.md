@@ -8,8 +8,8 @@ excerpt: >-
   We have just closed on a home sale in southwest Portland and we wanted to
   share the story with you. The clients who were selling the home were a real
   pleasure to work with. Their friendly demeanor and receptiveness to my advice
-  helped them to get an offer that was well over the list price. To hear more
-  about these clients’ success stories, watch my latest video.
+  helped them get an offer that was well over the list price. To hear more about
+  these clients’ success stories, watch my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2018/Portland+Real+Estate+Agent-+Just+Sold.mp4
 pullquote: We wish them the best in their new home.
@@ -22,9 +22,9 @@ youtube_code: UFv9NeD2GSA
 
 {% include youtube.html %}
 
-We just sold this lovely home on Texas Court in southwest Portland, and I just wanted to say that **it was a real pleasure to help good clients** in this transaction.
+We just sold this lovely home on Texas Court in southwest Portland, and I just wanted to say that **it was a real pleasure to help these good clients**&nbsp;in this transaction.
 
-Think this was our seventh transaction in which we’ve helped them buy or sell. We were so pleased to get multiple offers on this home and to be able to sell it in just four days. This home has the highest price per square foot in the neighborhood.
+I think this was our seventh transaction in which we’ve helped them buy or sell. We were so pleased to get multiple offers on this home and to be able to sell it in just four days. This home has the highest price per square foot in the neighborhood.
 
 {% include pullquote.html %}
 
