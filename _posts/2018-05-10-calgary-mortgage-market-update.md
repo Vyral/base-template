@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Calgary Mortgage Market Update
-date: 2018-05-04 15:04:00
+date: 2018-05-10 15:04:00
 tags:
   - Real Estate
-  - Mortgages
 excerpt: >-
   I was recently joined by mortgage broker Bob Reader to discuss the latest with
   interest rates. Here’s what we learned.
