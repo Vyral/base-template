@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What Is the Cost of Waiting?
-date: 2018-05-09 19:44:32
+date: 2018-05-09 19:44:00
 tags:
   - Real Estate
 excerpt: >-
   Waiting to buy a home could hurt you, especially if interest rates are on the
   rise. Here’s what you can expect to happen in our market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tony+Verdi/Tony+Verdi+Sells+Houses-+The+Cost+of+Waiting+to+Buy+a+Home.mp4
 pullquote: 'If you’re financially ready to make a move now, do it.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,4 +27,4 @@ When I work with buyers who are on the fence and not sure if they’re going to 
 
 This means that if you were to wait until 2019 and rates went up to 4.9%, you’d have to get a mortgage for $312,600 and your monthly payment would be $1,659.05. **That’s an extra $226.90 that you have to pay each month for the next 15 or 30 years.**
 
-The bottom line is that if you’re financially ready to make a move and buy a home, do it now and save money. If you have any questions or need some guidance on this important financial decision, give me a call or send me an email. I would love to hear from you soon.<br>&nbsp;
+The bottom line is that if you’re financially ready to make a move and buy a home, do it now and save money. If you have any questions or need some guidance on this important financial decision, give me a call or send me an email. I would love to hear from you soon.<br>
