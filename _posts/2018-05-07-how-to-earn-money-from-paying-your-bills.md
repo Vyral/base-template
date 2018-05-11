@@ -80,7 +80,12 @@ I hope you found value in this article, and stay tuned for many more nuggets of 
 Cheers to loving where you live!
 {: .present-before-paste}
 
-Joe Riggs
-{: .present-before-paste}
-
-<table><tbody><tr><td><strong>Joe Riggs</strong><br />Mortgage Banker<br />678.226.7846 &nbsp;Office<br />678.226.7867 &nbsp;Fax<br />770.335.7705 &nbsp;Cell<br />jriggs@brandmortgage.com<br />Visit my website: <a href="http://brandmortgage.com/mortgage-bankers/joe-riggs/">jriggs.brandmortgage.com</a><br />50 Chastain Center Blvd</td><td><p class="present-before-paste">Kennesaw, GA &nbsp;30144<br />NMLS# 75615</p><p class="present-before-paste">966672</p></td><td>966672</td></tr></tbody></table>
+**Joe Riggs**
+Mortgage Banker
+678.226.7846  Office
+678.226.7867  Fax
+770.335.7705  Cell
+jriggs@brandmortgage.com
+Visit my website: jriggs.brandmortgage.com 
+50 Chastain Center Blvd | Kennesaw, GA  30144
+NMLS# 75615 | 966672
