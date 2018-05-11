@@ -66,19 +66,19 @@ I hope you found value in this article, and stay tuned for many more nuggets of 
 Cheers to loving where you live!
 
 **Joe Riggs**
-
+<br>
 Mortgage Banker
-
-678.226.7846 &nbsp;Office
-
-678.226.7867 &nbsp;Fax
-
-770.335.7705 &nbsp;Cell
-
+<br>
+678.226.7846 Office
+<br>
+678.226.7867 Fax
+<br>
+770.335.7705 Cell
+<br>
 jriggs@brandmortgage.com
-
-Visit my website: jriggs.brandmortgage.com&nbsp;
-
-50 Chastain Center Blvd | Kennesaw, GA &nbsp;30144
-
+<br>
+jriggs.brandmortgage.com
+<br>
+50 Chastain Center Blvd | Kennesaw, GA 30144
+<br>
 NMLS# 75615 | 966672
