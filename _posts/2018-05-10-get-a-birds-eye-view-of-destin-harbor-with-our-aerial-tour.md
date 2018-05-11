@@ -20,6 +20,4 @@ youtube_code: XqQCYv4RCj4
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 Today I have a special treat for you—an aerial tour of Destin Harbor. Growing up in Destin made it my favorite place along the coastline. Boating Magazine recently voted Destin as the No. 1 place in the country to both live and boat, and for good reason. In addition to the harbor itself, there are some great beaches to explore, several wonderful restaurants you can float to by boat, and many other sights and activities to enjoy. To see the full aerial tour of Destin Harbor, watch this video.
