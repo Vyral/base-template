@@ -8,7 +8,7 @@ excerpt: We have joined forces with eXp Realty of North Dakota. Here’s what th
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeremy+Qualley/2018/West+Fargo+Real+Estate-+We+Are+Merging+with+eXp+RealtyHeres+What+That+Means.mp4
 pullquote: >-
-  Moving forward, we will be known as J. Qualley & Associates Powered by eXp
+  Moving forward, we will be known as Qualley & Associates Powered by eXp
   Realty.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,7 +27,7 @@ This is why I’m excited to share a big announcement with you: **W****e have de
 
 {% include pullquote.html %}
 
-Moving forward, we will be known as J. Qualley & Associates Powered by eXp Realty.
+Moving forward, we will be known as Qualley & Associates Powered by eXp Realty.
 
 To all our past and current clients, **we thank you for your continued loyalty and support.** Just know that you’ll continue to get the great and personable service you always have. This change just means we’ll be able to better help you in your real estate ventures.
 
