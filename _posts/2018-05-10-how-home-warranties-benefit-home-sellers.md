@@ -17,11 +17,11 @@ youtube_code: fzvm7VXhMpI
 
 {% include youtube.html %}
 
-Today I’m with Dianna Silver of Home Warranty of America to talk about how a home warranty coverage can benefit a home seller.
+Today I’m with Dianna Silver of Home Warranty of America to talk about how home warranty coverage can benefit a home seller.
 
-**A home warranty actually adds a ton of value to your home when you go to sell it.** It helps buyers realize that you care about what is inside the home. They protect the appliances and systems within the house including your fridge, furnace, washer, and dryer with a cap of $1500.
+**A home warranty actually adds a ton of value to your home when you go to sell it.** It helps buyers realize that you care about what is inside the home. It also protects the appliances and systems within the house, including your fridge, furnace, washer and dryer, etc. All of these items are covered under Home Warranty of America's seller's listing coverage at a cap of $1,500.
 
-What is this going to cost sellers? Nothing. It’s complimentary for everyone that lists their home with us. There is also an optional $50 fee to cover your heating, cooling, and duct work. If a person decides not to move forward with the warranty or convert it to the buyer, no money is due even if a claim is made.
+What is this going to cost sellers? Nothing. It’s complimentary for everyone that lists their home with us. There is also an optional $50 fee to cover your heating, cooling, and ductwork. If a person decides not to move forward with the warranty or convert it to the buyer, no money is due even if a claim is made.
 
 {% include pullquote.html %}
 
@@ -29,4 +29,4 @@ What is this going to cost sellers? Nothing. It’s complimentary for everyone t
 
 A home warranty can really assist a seller in that transitional period. It helps relieve some of that stress.
 
-Thanks so much to Dianna for joining us and answering our questions. If you have any other questions for her, you can give her a call at (614) 286-6159 or email her at **[Dianna.Silver@HWAHomeWarranty.com](mailto:Dianna.Silver@HWAHomeWarranty.com)**. If you have any real estate related questions in the meantime, we’re just a phone call or email away and we’re always here to answer them.
+Thanks so much to Dianna for joining us and answering our questions. If you have any other questions for her, you can give her a call at (614) 286-6159 or email her at **[Dianna.Silver@HWAHomeWarranty.com](mailto:Dianna.Silver@HWAHomeWarranty.com)**. If you have any real estate-related questions in the meantime, we’re just a phone call or email away and we’re always here to answer them.
