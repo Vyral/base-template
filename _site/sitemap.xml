@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>localhost:4000/episode31.html</loc>
-<lastmod>2017-12-29T04:38:35-06:00</lastmod>
+<loc>localhost:4000/how-to-fix-americas-savings-crisis.html</loc>
+<lastmod>2018-02-19T10:42:00-06:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/episode29.html</loc>
-<lastmod>2017-12-29T04:35:00-06:00</lastmod>
-</url>
-<url>
-<loc>localhost:4000/episode30.html</loc>
-<lastmod>2017-12-29T04:31:32-06:00</lastmod>
-</url>
-<url>
-<loc>localhost:4000/this-is-a-test-post-copy-2.html</loc>
-<lastmod>2016-10-04T00:00:00-05:00</lastmod>
-</url>
-<url>
-<loc>localhost:4000/a-fox-in-space.html</loc>
-<lastmod>2016-09-28T00:00:00-05:00</lastmod>
+<loc>localhost:4000/know-the-secrets-of-a-successful-retirement-plan.html</loc>
+<lastmod>2018-02-14T13:45:00-06:00</lastmod>
 </url>
 <url>
 <loc>localhost:4000/404.html</loc>
@@ -43,6 +31,9 @@
 </url>
 <url>
 <loc>localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>localhost:4000/sign-up/</loc>
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
