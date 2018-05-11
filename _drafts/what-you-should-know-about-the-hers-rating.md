@@ -20,7 +20,7 @@ youtube_code: _AvNAbPc9XA
 
 {% include youtube.html %}
 
-Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.
+<center>Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.</center>
 
 We are joined by Steve Beck, sales manager for Creekstone Homes, today to discuss the HERS rating.
 
