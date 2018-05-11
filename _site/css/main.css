@@ -2626,6 +2626,17 @@ form select {
 .text-20 {
   font-size: 20px; }
 
+.question {
+  font-size: 20px;
+  color: #f47820;
+  font-weight: bold; }
+
+.faq {
+  font-size: 20px; }
+
+.faq-list {
+  list-style: none; }
+
 .recruiting {
   text-align: center; }
 

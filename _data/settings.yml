@@ -11,6 +11,8 @@ custom_links:
     url: /how-it-works/
   - title: Results
     url: /results/
+  - title: FAQ's
+    url: /faq/
 
 client:
   name: Jessica Sanders

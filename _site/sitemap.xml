@@ -61,6 +61,9 @@
 <loc>localhost:4000/contact/</loc>
 </url>
 <url>
+<loc>localhost:4000/faq/</loc>
+</url>
+<url>
 <loc>localhost:4000/homesearch/</loc>
 </url>
 <url>
