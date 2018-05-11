@@ -3,7 +3,7 @@ layout: post
 title: How to Earn Money From Paying Your Bills
 tags:
   - Real Estate
-  - Bills
+  - Mortgages
 excerpt: >-
   Today let’s talk about two great resources that can help you earn rewards for
   paying your bills.
@@ -61,4 +61,4 @@ I hope you found value in this article, and stay tuned for many more nuggets of 
 
 Cheers to loving where you live!
 
-| **Joe Riggs**<br>Mortgage Banker<br>678.226.7846 &nbsp;Office<br>678.226.7867 &nbsp;Fax<br>770.335.7705 &nbsp;Cell<br>jriggs@brandmortgage.com<br>Visit my website: jriggs.brandmortgage.com<br>50 Chastain Center Blvd | Kennesaw, GA &nbsp;30144<br>NMLS# 75615 | 966672 |
+| **Joe Riggs**<br>Mortgage Banker<br>678.226.7846 &nbsp;Office<br>678.226.7867 &nbsp;Fax<br>770.335.7705 &nbsp;Cell<br>jriggs@brandmortgage.com<br>Visit my website: [jriggs.brandmortgage.com](http://brandmortgage.com/mortgage-bankers/joe-riggs/)<br>50 Chastain Center Blvd | Kennesaw, GA &nbsp;30144<br>NMLS# 75615 | 966672 |
