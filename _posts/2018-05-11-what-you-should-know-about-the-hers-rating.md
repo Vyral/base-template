@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-march-2-ss-no-play.jpg
-youtube_code: _AvNAbPc9XA
+youtube_code: ragWpMW-Rs4
 ---
 
 {% include youtube.html %}
