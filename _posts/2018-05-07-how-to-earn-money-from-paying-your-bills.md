@@ -19,6 +19,8 @@ youtube_code: CGFZsIsCFjY
 
 {% include youtube.html %}
 
+Today let’s talk about two great resources that can help you earn rewards for paying your bills.
+
 If you're like most people who pay their mortgage or rent by using a direct deposit, Automated Clearing House (ACH), or writing a check, this tactic could be a great way to help build your credit, pay your major bills like rent and mortgages, all while earning cash back in the process. Let's dive into how this works!
 
 Firstly, there is a company called Plastiq. This company allows people to use a credit card to pay major bills like a mortgage company, individual, insurance company, etc. Now, they do charge a fee to process your credit card and make the payments. Plastiq charges your credit card 2.5% for every transaction. Now that may make using Plastiq not so appealing to people without knowing the second half of our tactic - using a cash back credit that at least covers the 2.5% fee. Along comes (drumroll please) the Alliant 3% Cash Back Credit Card from VISA.
