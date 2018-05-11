@@ -61,7 +61,7 @@ I hope you found value in this article, and stay tuned for many more nuggets of 
 
 Cheers to loving where you live!
 
-<p>**Joe Riggs**
+**Joe Riggs**
 
 Mortgage Banker
 
@@ -77,4 +77,4 @@ Visit my website: jriggs.brandmortgage.com
 
 50 Chastain Center Blvd | Kennesaw, GA  30144
 
-NMLS# 75615 | 966672</p>
+NMLS# 75615 | 966672
