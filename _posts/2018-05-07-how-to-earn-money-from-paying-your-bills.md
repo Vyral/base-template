@@ -19,7 +19,9 @@ youtube_code: CGFZsIsCFjY
 
 {% include youtube.html %}
 
-<center>Today let’s talk about two great resources that can help you earn rewards for paying your bills.</center>
+<center><em>Today let&rsquo;s talk about two great resources that can help you earn rewards for paying your bills.</em></center>
+
+&nbsp;
 
 If you're like most people who pay their mortgage or rent by using a direct deposit, Automated Clearing House (ACH), or writing a check, this tactic could be a great way to help build your credit, pay your major bills like rent and mortgages, all while earning cash back in the process. Let's dive into how this works!
 
@@ -63,4 +65,4 @@ I hope you found value in this article, and stay tuned for many more nuggets of 
 
 Cheers to loving where you live!
 
-**Joe Riggs**<br>Mortgage Banker<br>678.226.7846 &nbsp;Office<br>678.226.7867 &nbsp;Fax<br>770.335.7705 &nbsp;Cell<br>jriggs@brandmortgage.com<br>[jriggs.brandmortgage.com](http://brandmortgage.com/mortgage-bankers/joe-riggs/)&nbsp;<br>50 Chastain Center Blvd | Kennesaw, GA &nbsp;30144<br>NMLS# 75615 | 966672
+| **Joe Riggs**<br>Mortgage Banker<br>678.226.7846 &nbsp;Office<br>678.226.7867 &nbsp;Fax<br>770.335.7705 &nbsp;Cell<br>jriggs@brandmortgage.com<br>[jriggs.brandmortgage.com](http://brandmortgage.com/mortgage-bankers/joe-riggs/)&nbsp;<br>50 Chastain Center Blvd | Kennesaw, GA &nbsp;30144<br>NMLS# 75615 | 966672 |
