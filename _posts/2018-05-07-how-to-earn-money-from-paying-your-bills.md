@@ -19,7 +19,7 @@ youtube_code: CGFZsIsCFjY
 
 {% include youtube.html %}
 
-Today let’s talk about two great resources that can help you earn rewards for paying your bills.
+<center>Today let’s talk about two great resources that can help you earn rewards for paying your bills.</center>
 
 If you're like most people who pay their mortgage or rent by using a direct deposit, Automated Clearing House (ACH), or writing a check, this tactic could be a great way to help build your credit, pay your major bills like rent and mortgages, all while earning cash back in the process. Let's dive into how this works!
 
