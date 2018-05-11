@@ -73,7 +73,7 @@ Mortgage Banker
 
 jriggs@brandmortgage.com
 
-Visit my website: jriggs.brandmortgage.com 
+Visit my website: jriggs.brandmortgage.com
 
 50 Chastain Center Blvd | Kennesaw, GA  30144
 
