@@ -28,6 +28,6 @@ It’s the agent’s obligation to provide you as the seller with enough informa
 
 **Most importantly, it’s about marketing.** Your real estate agent is a marketer, not a salesperson. You don’t ever sell a house, but rather you market a property to convince a buyer that they want to purchase it.&nbsp;
 
-So, how do I stack up? **Right now we’re averaging about 37 days on the market.** Some homes are on the market for only a few days, and others for much longer. I recently listed a home that went for full price on the first day it was on the market. Some homes, such as the homes in the luxury market and are priced over $750,000, can be expected to stay on the market for longer due to there being less buyers.
+So, how do I stack up? **Right now we’re averaging about 37 days on the market.** Some homes are on the market for only a few days, and others for much longer. I recently listed a home that went for full price on the first day it was on the market. Some homes, such as the homes in the luxury market and are priced over $750,000, can be expected to stay on the market for longer due to there being fewer buyers.
 
 If you have any other questions about this topic or you’re looking to buy or sell a home, please give me a call or send me an email. I look forward to speaking with you.<br>&nbsp;
