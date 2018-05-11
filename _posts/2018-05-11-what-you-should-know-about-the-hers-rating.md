@@ -4,7 +4,6 @@ title: What You Should Know About the HERS Rating
 date: 2018-05-11 00:00:00
 tags:
   - Real Estate
-  - Home Owner Tips
 excerpt: >-
   Have you heard of the HERS Rating? Steve Beck explains what it is and why it
   is important.
@@ -15,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-march-2-ss-no-play.jpg
-youtube_code:
+youtube_code: _AvNAbPc9XA
 ---
 
 {% include youtube.html %}
