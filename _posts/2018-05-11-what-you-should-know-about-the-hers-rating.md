@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-march-2-ss-no-play.jpg
-youtube_code: _AvNAbPc9XA
+youtube_code:
 ---
 
 {% include youtube.html %}
 
 <center><em>Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.</em></center>
 
-&nbsp;
+ 
 
 We are joined by Steve Beck, sales manager for Creekstone Homes, today to discuss the HERS rating.
 
