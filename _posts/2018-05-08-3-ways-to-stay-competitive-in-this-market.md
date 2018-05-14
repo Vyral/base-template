@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Ways to Stay Competitive in This Market
-date: 2018-05-08 21:22:33
+date: 2018-05-08 21:22:00
 tags:
   - Real Estate
 excerpt: >-
   We’ve got some expert advice to share with homebuyers today. Here’s how you
   can stay competitive in our market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Troy+Davis/Butte+County+Real+Estate-+Stay+Competitive+in+Our+Market.mp4
 pullquote: You may have to make an offer over asking price.
 enclosure_type: video/mp4
 enclosure_time:
@@ -28,4 +29,4 @@ Here are a few different ways that you can stay competitive as a homebuyer in th
 
 **3. Be creative.** Sometimes offering above asking price either isn’t an option or isn’t enough. To make your offer really stand out, consider structuring it with a short inspection period. Most sellers will appreciate you getting these done as quickly as possible so they can concentrate on closing and moving. Talk with your lender about shortening your appraisal and financing contingencies to get the extra edge. You could also pay for the seller’s closing fees or write a heartfelt letter to the sellers letting them know why you like the home and why you’d love to have it.
 
-If you’re a homebuyer and you want to get more expert advice or need our help making your next purchase or sale, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you’re a homebuyer and you want to get more expert advice or need our help making your next purchase or sale, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
