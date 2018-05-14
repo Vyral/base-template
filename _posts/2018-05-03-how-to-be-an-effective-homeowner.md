@@ -26,7 +26,7 @@ So you’ve recently become a homeowner. Congratulations! Excitement aside, you�
 
 Owning a home is a great thing. You get to say goodbye to the struggles of rental life. As a homeowner, you’ve embarked on a new chapter in life that comes with as many responsibilities as it does benefits.
 
-Therefore, today I’d like to recommend seven things all new homeowners should do.
+Therefore, today I’d like to recommend seven things all new homeowners should do. For a summarized list please [click here.](https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/Email+Stuff/7_things_homeowners_need_to_do.jpg)
 
 **1. Safeguard your investment and get a home warranty.** You can’t control when issues may arise. Whether the dishwasher stops working or something worse goes wrong, you will want to be prepared. A home warranty will help give you peace of mind in case the unexpected happens. Make sure you also set aside savings for necessary repairs. Spending a little on a home warranty policy can save you a lot down the line.
 
@@ -38,21 +38,21 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **3. Take care of expensive appliances.** Don’t defer maintenance on major home appliances. Make sure to regularly replace your air filter, for example. Consistent maintenance will help to extend the lifespan of your appliances.
 
- ![](/uploads/bigstock--207321556-560x315.jpg)
+&nbsp;![](/uploads/bigstock--207321556-560x315.jpg)
 
 {% include pullquote.html %}
 
 **4. Get to know your appliances.** When you move into your home, familiarize yourself with its features and appliances so that you will know how to properly care for them.
 
- ![](/uploads/bigstock-kitchen-with-close-up-near-cen-19288994-560x315.jpg)
+&nbsp;![](/uploads/bigstock-kitchen-with-close-up-near-cen-19288994-560x315.jpg)
 
 **5.****Take advantage of tax benefits.** With homeownership comes a number of tax benefits, like deductions. But there are also other credits that may be available to you. So speak to your CPA or reach out to us about your options.
 
- ![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)
+&nbsp;![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)
 
 **6. Keep your records.** I highly recommend you keep a folder with all documents related to home improvement or repair projects. This way when you’re ready to move, you’ll be able to verify everything you’ve done to the home.
 
- ![](/uploads/bigstock--211102822-560x315.jpg)
+&nbsp;![](/uploads/bigstock--211102822-560x315.jpg)
 
 **7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are truly well protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
