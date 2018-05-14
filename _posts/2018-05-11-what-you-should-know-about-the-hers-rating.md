@@ -21,7 +21,7 @@ youtube_code: ragWpMW-Rs4
 
 <center><em>Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.</em></center>
 
- 
+&nbsp;
 
 We are joined by Steve Beck, sales manager for Creekstone Homes, today to discuss the HERS rating.
 
@@ -33,6 +33,6 @@ For a consumer, it takes away some of the flash from buying a home and helps you
 
 Let’s say my home is ten years old and has a poor HERS rating. **Is this a test I can do after the fact, or do I need to be doing this upfront?**
 
-A home is inspected several times during the building process. They inspect during the foundation, mechanicals, and then also at the very end. The HERS test would need be done from the very beginning of the building process.
+A home is inspected several times during the building process. They inspect during the foundation, mechanicals, and then also at the very end. The HERS test would need to be done from the very beginning of the building process.
 
-I would like to thank Steve of Creekstone Homes for joining me and telling us about the HERS rating. If you have any questions, please feel free to comment below or contact us. We look forward to speaking you soon.
+I would like to thank Steve of Creekstone Homes for joining me and telling us about the HERS rating. If you have any questions, please feel free to comment below or contact us. We look forward to speaking to you soon.
