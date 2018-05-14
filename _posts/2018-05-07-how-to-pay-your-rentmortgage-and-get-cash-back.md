@@ -1,9 +1,8 @@
 ---
 layout: post
-title: How to Earn Money From Paying Your Bills
+title: How to Pay Your Rent/Mortgage and Get Cash Back
 tags:
   - Real Estate
-  - Mortgages
 excerpt: >-
   Today let’s talk about two great resources that can help you earn rewards for
   paying your bills.
@@ -21,7 +20,7 @@ youtube_code: CGFZsIsCFjY
 
 <center><em>Today let&rsquo;s talk about two great resources that can help you earn rewards for paying your bills.</em></center>
 
-&nbsp;
+ 
 
 If you're like most people who pay their mortgage or rent by using a direct deposit, Automated Clearing House (ACH), or writing a check, this tactic could be a great way to help build your credit, pay your major bills like rent and mortgages, all while earning cash back in the process. Let's dive into how this works!
 
@@ -29,11 +28,11 @@ Firstly, there is a company called Plastiq. This company allows people to use a 
 
 **The Alliant 3% Cash Back Credit Card**
 
-To apply for the Alliant VISA card to earn the 3% cash back, there are a few steps to their application process. Firstly, you'll notice that Alliant is a credit union. If you're unfamiliar with credit unions that's ok - just note that they are unlike most bigger banks like Wells Fargo, Bank of America, Chase, etc., in that they are a cooperative of members who pool their money together. Essentially, credit unions are not-for-profit organizations that exist to serve their members. To apply for the Alliant credit card, you have to first be a member of their Alliant Credit Union. If you are like me located here in GA, or another state other than IL (Alliant being based out of Chicago, IL), there is a little step to complete to become an Alliant member. Take a look at their [website](http://www.alliantcreditunion.org/){: target="_blank"}&nbsp;to see which one you want to pursue, but I personally did the option of paying $10 to donate to the Orphan Foundation of America to start the membership process.
+To apply for the Alliant VISA card to earn the 3% cash back, there are a few steps to their application process. Firstly, you'll notice that Alliant is a credit union. If you're unfamiliar with credit unions that's ok - just note that they are unlike most bigger banks like Wells Fargo, Bank of America, Chase, etc., in that they are a cooperative of members who pool their money together. Essentially, credit unions are not-for-profit organizations that exist to serve their members. To apply for the Alliant credit card, you have to first be a member of their Alliant Credit Union. If you are like me located here in GA, or another state other than IL (Alliant being based out of Chicago, IL), there is a little step to complete to become an Alliant member. Take a look at their [website](http://www.alliantcreditunion.org/){: target="_blank"} to see which one you want to pursue, but I personally did the option of paying $10 to donate to the Orphan Foundation of America to start the membership process.
 
 Once you are a member of the Alliant Credit Union, you are now able to complete the credit card application process. I did mine online, and it was straightforward just like most credit card applications. Once completed, you'll get contacted afterward and voila, you now have a 3% cash back credit card to cover any Plastiq bills you want to pay and make a small 0.5% in cash back.
 
-Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out&nbsp;[Plastiq's website](https://www.plastiq.com/){: target="_blank"} for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
+Going back to Plastiq, it is an awesome service. It's also important to note that this tactic of using a credit card to pay companies or individuals applies to many other transactions that are a part of our daily lives. Check out [Plastiq's website](https://www.plastiq.com/){: target="_blank"} for further information about all the services, and here is an example of just a handful of other ways to utilize this tactic to pay:
 
 ![](/uploads/unnamed.png)
 
@@ -61,24 +60,8 @@ And the last item on their website to alleviate their fees are using the referra
 
 Now that you are armed with a tactic to build up your credit, pay people and vendors without needing cash in your account, and all of which goes a long way to just make you that much more financially savvy! ;)
 
-I hope you found value in this article, and stay tuned for many more nuggets of financial, real estate, and business gold that I'll be sharing along your journey.&nbsp;
+I hope you found value in this article, and stay tuned for many more nuggets of financial, real estate, and business gold that I'll be sharing along your journey. 
 
 Cheers to loving where you live!
 
-**Joe Riggs**
-<br>
-Mortgage Banker
-<br>
-678.226.7846 Office
-<br>
-678.226.7867 Fax
-<br>
-770.335.7705 Cell
-<br>
-jriggs@brandmortgage.com
-<br>
-[jriggs.brandmortgage.com](http://brandmortgage.com/mortgage-bankers/joe-riggs/)
-<br>
-50 Chastain Center Blvd | Kennesaw, GA 30144
-<br>
-NMLS# 75615 | 966672
+**Joe Riggs**<br>Mortgage Banker<br>678.226.7846 Office<br>678.226.7867 Fax<br>770.335.7705 Cell<br>jriggs@brandmortgage.com<br>[jriggs.brandmortgage.com](http://brandmortgage.com/mortgage-bankers/joe-riggs/)<br>50 Chastain Center Blvd | Kennesaw, GA 30144<br>NMLS# 75615 | 966672
