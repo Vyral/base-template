@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Join Me on a Virtual Tour of This Luxury Patio Home
-date: 2018-05-11 18:55:01
+date: 2018-05-11 18:55:00
 tags:
   - Real Estate
 excerpt: >-
   Welcome to Royal Oaks Courtyard Villas. Allow me to guide you on a virtual
   tour through one of these luxury patio homes, today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Are+You+in+the+Market+for+Resort-Style+Living%253F+(1).mp4
 pullquote: We hope you’ve enjoyed this glimpse into resort-style living.
 enclosure_type: video/mp4
 enclosure_time:
