@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pwVx1d-3CT8
+youtube_code: fFwwHjiiggs
 ---
 
 {% include youtube.html %}
@@ -38,21 +38,21 @@ Therefore, today I’d like to recommend seven things all new homeowners should 
 
 **3. Take care of expensive appliances.** Don’t defer maintenance on major home appliances. Make sure to regularly replace your air filter, for example. Consistent maintenance will help to extend the lifespan of your appliances.
 
-&nbsp;![](/uploads/bigstock--207321556-560x315.jpg)
+ ![](/uploads/bigstock--207321556-560x315.jpg)
 
 {% include pullquote.html %}
 
 **4. Get to know your appliances.** When you move into your home, familiarize yourself with its features and appliances so that you will know how to properly care for them.
 
-&nbsp;![](/uploads/bigstock-kitchen-with-close-up-near-cen-19288994-560x315.jpg)
+ ![](/uploads/bigstock-kitchen-with-close-up-near-cen-19288994-560x315.jpg)
 
-**5.&nbsp;****Take advantage of tax benefits.** With homeownership comes a number of tax benefits, like deductions. But there are also other credits that may be available to you. So speak to your CPA or reach out to us about your options.
+**5.****Take advantage of tax benefits.** With homeownership comes a number of tax benefits, like deductions. But there are also other credits that may be available to you. So speak to your CPA or reach out to us about your options.
 
-&nbsp;![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)
+ ![](/uploads/bigstock-businessman-holding-tax-benefi-175187230-560x315.jpg)
 
 **6. Keep your records.** I highly recommend you keep a folder with all documents related to home improvement or repair projects. This way when you’re ready to move, you’ll be able to verify everything you’ve done to the home.
 
-&nbsp;![](/uploads/bigstock--211102822-560x315.jpg)
+ ![](/uploads/bigstock--211102822-560x315.jpg)
 
 **7. Beef up your insurance.** Don’t just get a basic policy. Make sure that you are truly well protected. The advantage this can bring you will be well worth the cost of the additional coverage.
 
