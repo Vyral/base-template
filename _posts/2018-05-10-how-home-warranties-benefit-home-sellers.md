@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/payne-youtube-6.jpg
-youtube_code: fzvm7VXhMpI
+youtube_code: KYNhvVY52r4
 ---
 
 {% include youtube.html %}
