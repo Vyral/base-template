@@ -24,7 +24,7 @@ youtube_code: tEbvcF9OGY8
 
 {% include youtube.html %}
 
-Homes cost a lot of money to maintain, but are you spending unnecessary money? **Here are the ten most expensive mistakes sellers make and how to solve them:**
+Homes cost a lot of money to maintain, but are you spending unnecessary money? **Here are the 10 most expensive mistakes sellers make and how to solve them:**
 
 **1. Using traditional light bulbs.** If you still have incandescent light bulbs in your home, you’re throwing away money every month on your electric bill. Even though the initial cost is lower, the total cost is certainly not. Over its lifespan, an incandescent light bulb can use up to $180 in electricity. In comparison, an LED light bulb only uses $30 in electricity in the same lifetime. Think about how this could change your home’s bottom line.
 
@@ -38,7 +38,7 @@ Homes cost a lot of money to maintain, but are you spending unnecessary money? *
 
 **5. Not adjusting your air vents properly.** Is one room hot while the others are cold? A lot of times, homeowners will crank up the A/C to combat the hot temperatures in one area. Instead, keep all your vents open to all the air to flow evenly throughout the home. Don’t put furniture in front of or on top of your vents. Have at least a foot of space so the air can circulate properly.
 
-**6. Overwatering your lawn.** Everybody loves green grass, but you don’t need as much water as you think. Watering about every 4 days is enough. Avoid watering more often because it can kill your grass.
+**6. Overwatering your lawn.** Everybody loves green grass, but you don’t need as much water as you think. Watering about every four days is enough. Avoid watering more often because it can kill your grass.
 
 **7. Water temperature is set too high.** Home inspectors tell you to keep the temperature on medium especially if you have young children to avoid them getting hurt from the heat. Keeping it too high makes your bills higher because the water heater continues to run.
 
