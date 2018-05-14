@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Write a Strong Offer on a Home
-date: 2018-05-11 19:57:28
+date: 2018-05-11 19:57:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/writing-an-offer-youtube.jpg
-youtube_code: R4VkWh5my0Q
+youtube_code: Xq1ln9I5MB8
 ---
 
 {% include youtube.html %}
