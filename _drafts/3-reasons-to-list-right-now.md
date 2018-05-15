@@ -23,8 +23,7 @@ youtube_code: jrj71p2zWGE
 <p style="text-align: center;"><em>The market is currently rife with opportunity for sellers. Here’s why you should consider selling now instead of waiting until the summer.</em></p>
 
 
-<p style="text-align: center;">&nbsp;</p>
-
+<center>&nbsp;</center>
 The spring market is in full swing, and I’ve heard from people and agents that many are just on the verge of listing their homes on the market, possibly this summer. If you’re thinking about selling your home, I have some reasons that you should sell now rather than waiting.
 
 **1. Inventory.** We are very, very short on inventory in almost all areas of our local Savannah market, including Chatham, Brian, and Effingham Counties. We have buyers who are qualified and ready to go who simply can’t find the home that they're looking for.
