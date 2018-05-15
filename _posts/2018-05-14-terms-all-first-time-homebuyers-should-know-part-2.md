@@ -26,7 +26,7 @@ Today I’m back with the final installment in my two-part series on terms that 
 
 Now let’s move on to today’s terms.&nbsp;
 
-**6. Appraisal.** This is a process that allows the lender to ensure the buyer isn’t taking out a loan for more than the value of the property. During this process, a licensed appraisal will give their opinion on the property’s value based on components of the home and data from recent comparable sales. Every loan must have an appraisal.
+**6. Appraisal.** This is a process that allows the lender to ensure the buyer isn’t taking out a loan for more than the value of the property. During this process, a licensed appraiser will give their opinion on the property’s value based on components of the home and data from recent comparable sales. Every loan must have an appraisal.
 
 **7. Mortgage insurance.** If you put down less than 20% when purchasing a property, you’ll need to take out mortgage insurance. This is true for both conventional and FHA loans. However, mortgage insurance on an FHA loan will last for the life of the loan while mortgage insurance on a conventional loan can be removed once your property value reaches 80%. This coverage is designed to protect your lender.
 
