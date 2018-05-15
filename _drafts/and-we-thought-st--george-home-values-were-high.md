@@ -3,14 +3,18 @@ layout: post
 title: And We Thought St. George Home Values Were High!?
 date:
 tags:
-excerpt:
-enclosure:
+  - Market Update
+excerpt: >-
+  Think St. George home values are high? Wait until you see what it costs to
+  live in Manhattan.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/St.+George+Real+Estate+Agent-+And+we+thought+St.+George+home+values+were+high%253F%2521.mp4
 pullquote: We have it pretty darn good in Utah’s Dixie.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: KinkMFaeU7k
 ---
 
 {% include youtube.html %}
