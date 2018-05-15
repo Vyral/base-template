@@ -17,7 +17,7 @@ youtube_code: 0T0YibSXIKI
 
 {% include youtube.html %}
 
-Many homeowners are tapping into their home’s equity. Here’s why.
+<center>*Many homeowners are tapping into their home’s equity. Here’s why.*</center>
 
 Do you notice that pile of cash you're sitting on right now?<br><br>**I'm not joking. 42 million homeowners with mortgages have equity in their homes right now**.<br><br>When added up, tappable home equity recently reached $5.5 trillion. That's about $3 trillion more than when the housing market bottomed out in 2012. "Tappable equity" here is defined as the amount a homeowner could borrow before they hit 80% of debt to value.<br><br>Not surprisingly, many homeowners are looking to tap into these hidden reserves. As just one sign of this, mortgage applications are up 4.1% this January over last year. That's mostly been driven by mortgage refinances, as homeowners are looking to take advantage of low (but increasing) rates to take out some of that equity as cash.<br><br>**Another option to a mortgage refinance is a home equity line of credit (HELOC), a kind of checking account on your home**. While HELOCs have been growing in popularity, they've hit a slight snag recently because the new tax bill eliminates the deductions for interest paid on such lines of credit.
 
