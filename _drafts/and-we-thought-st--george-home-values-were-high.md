@@ -19,7 +19,10 @@ youtube_code: KinkMFaeU7k
 
 {% include youtube.html %}
 
-*Think St. George home values are high? Wait until you see what it costs to live in Manhattan.*
+<center>*Think St. George home values are high? Wait until you see what it costs to live in Manhattan.*</center>
+
+
+<p style="text-align: center;">&bsp;</p>
 
 As you can see in the video above, I am halfway up the citizenM hotel in the heart of Times Square in Manhattan, and this is the perfect spot to talk a little bit about real estate prices back in St. George.
 
