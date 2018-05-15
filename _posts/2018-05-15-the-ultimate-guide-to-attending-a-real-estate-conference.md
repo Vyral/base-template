@@ -1,10 +1,11 @@
 ---
 layout: post
 title: The Ultimate Guide to Attending a Real Estate Conference
-date: 05/15/2018
+date: 2018-05-15 11:00:00
 tags:
-excerpt: Today, I have three key takeaways to make your next real estate conference successful.
-
+excerpt: >-
+  Today, I have three key takeaways to make your next real estate conference
+  successful.
 enclosure:
 pullquote: Go to the conference with one thing in mind.
 enclosure_type: video/mp4
