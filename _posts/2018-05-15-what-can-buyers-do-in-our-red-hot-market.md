@@ -37,7 +37,7 @@ Now, however, **we are transitioning into an extreme seller’s market.** The da
 
 {% include pullquote.html %}
 
-Buyers who are actively participating in the market are facing a learning curve. They go in the first time and bid lower on the property and, not surprisingly, they get outbid. The second time they go in, they lead with a stronger offer. **When they offer something closer to the asking price, they’ll tend to be more successful.**
+Buyers who are actively participating in the market are facing a learning curve. They go in the first time and bid lower on the property and, not surprisingly, they get outbid. The second time they go in, they lead with a stronger offer. **When they offer something closer to the asking price, they tend to be more successful.**
 
 Here’s my advice when you’re making an offer on a property: **Listen to your agent**. Your agent knows the market and is talking with other agents; they have a better grasp on what is working and what is not working for a property, given the comparable sales. Don’t be nervous about taking an agent’s advice—the difference in the commission earnings an agent makes between going below asking price and above asking price is pretty insignificant. At the end of the day, they truly want to put you in a position to win your offer.
 
