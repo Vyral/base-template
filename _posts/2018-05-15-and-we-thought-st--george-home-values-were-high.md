@@ -1,7 +1,7 @@
 ---
 layout: post
 title: And We Thought St. George Home Values Were High!?
-date:
+date: 2018-05-15 16:46:12
 tags:
   - Market Update
 excerpt: >-
@@ -21,8 +21,7 @@ youtube_code: KinkMFaeU7k
 
 <center><em>Think St. George home values are high? Wait until you see what it costs to live in Manhattan.</em></center>
 
-
-<p style="text-align: center;">&nbsp;</p>
+&nbsp;
 
 As you can see in the video above, I am halfway up the citizenM hotel in the heart of Times Square in Manhattan, and this is the perfect spot to talk a little bit about real estate prices back in St. George.
 
