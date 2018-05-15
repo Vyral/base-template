@@ -19,7 +19,7 @@ youtube_code: KinkMFaeU7k
 
 {% include youtube.html %}
 
-<center>*Think St. George home values are high? Wait until you see what it costs to live in Manhattan.*</center>
+<center><em>Think St. George home values are high? Wait until you see what it costs to live in Manhattan.</em></center>
 
 
 <p style="text-align: center;">&nbsp;</p>
