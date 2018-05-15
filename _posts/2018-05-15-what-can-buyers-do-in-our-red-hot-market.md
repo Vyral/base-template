@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can Buyers Do in Our Red-Hot Market?
-date:
+date: 2018-05-15 13:52:35
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -51,5 +51,3 @@ In order to maximize your ability to win with your offer, we are:
 Sellers and their agents are looking for a stable and attractive offer, using the terminology “highest and best” when vetting different offers. They want to know that the lender has a great track record and that they’ve ensured the loan on the offer they’ve accepted is viable.
 
 If you have any questions or are in need of advice about how to win in a multiple bid situation, please feel free to reach out. We’d be glad to help you.
-
-&nbsp;
