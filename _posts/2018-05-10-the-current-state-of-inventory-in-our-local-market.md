@@ -25,7 +25,7 @@ Looking at Vanderburgh County, one area of the market seeing particularly strong
 
 {% include pullquote.html %}
 
-Inventory levels are very similar in these same price points for Warren County. For both counties, the market favors sellers up to the price points at and above $500,000, as there is much less demand for homes in this range.
+Inventory levels are very similar in these same price points for Warrick County. For both counties, the market favors sellers up to the price points at and above $500,000, as there is much less demand for homes in this range.
 
 As for other area markets, Spencer County has a four-month supply while Posey County has a three-month supply. Looking at these figures, **it’s clear that most of our local markets are currently favoring sellers.**
 
