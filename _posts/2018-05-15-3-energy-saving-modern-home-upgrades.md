@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 3 Energy-Saving Modern Home Upgrades
-date: 2018-05-16 12:00:00
+date: 2018-05-15 12:00:00
 tags:
   - Home Seller Tips
 excerpt: 3 high-tech home upgrades to consider
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tina+Caul/Greater+Raleigh+Real+Estate-+The+Key+Steps+of+a+Mortgage+Pre-Approval.mp4
+enclosure:
 pullquote: >-
   Apart from increasing your property’s sustainability, solar panels also
   promote energy efficiency.
@@ -14,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XasDRFk64osgvFkKkQCBdY
+youtube_code: sgvFkKkQCBdY
 ---
 
 {% include youtube.html %}
