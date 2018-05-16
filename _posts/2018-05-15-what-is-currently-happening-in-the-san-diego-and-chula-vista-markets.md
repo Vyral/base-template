@@ -31,7 +31,7 @@ Median prices continue to grow, and they’re up about 8% from this time last ye
 
 On another note, let’s talk about interest rates. Interest rates continue to rise in our area. However, they are still historically low. **Now is definitely the time to break into the market if you are thinking about it.&nbsp;**
 
-If you are a buyer, make sure you talk to a lender to get all your financing ready so you can start submitting offers. You need to know your finances and purchasing power. You then have to interview to get the right agent who can help you submit competitive offers.
+If you are a buyer, make sure you talk to a lender to get all your financing ready so you can start submitting offers. You need to know your finances and purchasing power. You then have to interview to get the right agent who can help you submit competitive offer.
 
 If you are a seller who is still on the fence about selling, now is the time. We are still getting multiple offer situations, and you should take advantage of this situation before the rates really spike up.
 
