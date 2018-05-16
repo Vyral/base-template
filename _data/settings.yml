@@ -32,9 +32,10 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.bradkorb.com/form-cma.php
+  first_CTA_URL: http://www.bradkorb.com/whats-my-home-worth
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.bradkorb.com/buyers.php
+  second_CTA_URL: http://www.bradkorb.com/whats-my-home-worth
+
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
