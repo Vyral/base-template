@@ -15,11 +15,11 @@ custom_links:
     url: /faq/
 
 client:
-  name: Jessica Sanders
+  name: 1000 Calls A Day
   title:
   license_number:
   about_markdown: |
-    Welcome to our new 1000CallsADay.com website! My name is Jessica Sanders, a stay at home mom in Texas. I've worked virtually for the past few years following up with leads - and generating them - for a small marketing firm based in Nebraska. I worked primarily calling real estate agents to offer marketing services, and you know what the #1 problem was of our clients and prospects? Not enough time to follow up with all the leads generated in the first place, or following up with all the people in your database to ask for referrals BEFORE spending money on lead-generation! So, I left on great terms and started this new company - 1000CallsADay.com - to solve this problem.
+    Welcome to our new 1000CallsADay.com website! 
   market:
   brand: 1000 Calls A Day
   brokerage:
@@ -58,7 +58,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/1000CallsADay/
-  linkedin_url: https://www.linkedin.com/in/jessica-sanders-350648a/
+  linkedin_url: 
   gplus_url: https://plus.google.com/+1000callsaday1000
   youtube_url: https://www.youtube.com/channel/UCC8yU33MnZ0ECDahlMKI3hA
   twitter_url: http://www.1000callsaday.com/#
