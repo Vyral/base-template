@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Our Market Doing?
-date: 2018-05-08 16:03:46
+date: 2018-05-08 16:03:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mindy-and-jay-robbins--may-market-update-youtube.jpg
-youtube_code: 'https://youtu.be/Ne9_vYfqWuU'
+youtube_code: 'https://youtu.be/Zy_0RhhLAu8'
 ---
 
 {% include youtube.html %}
