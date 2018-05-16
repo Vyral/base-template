@@ -21,7 +21,9 @@ youtube_code: Q5qUDVexPrM
 
 {% include youtube.html %}
 
-With the melting snow comes the thoughts of renovating your home. Today I’ll what you should and shouldn’t renovate.
+<center><em>With the melting snow comes the thoughts of renovating your home. Today I’ll what you should and shouldn’t renovate.</em></center>
+
+<center>&nbsp;</center>
 
 Spring is the time for home renovations. With the Alaskan snow melting in the valley area, many people have started doing their own renovations. So today, I am going to talk about cost recovery for those springtime renovations.
 
