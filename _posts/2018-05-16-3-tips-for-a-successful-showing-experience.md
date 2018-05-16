@@ -27,7 +27,7 @@ Today I would like to guide you through a few tips that will help you stage for 
 
 **Next, make the home smell nice.** You can easily achieve this by using plug-in air fresheners. Vanilla is a popular scent. As an alternative to air fresheners, you can also rub a small amount of vanilla extract directly onto light bulbs throughout your home.
 
-Baking some fresh cookies is another way to improve your home’s atmosphere during showings. Baked goods not only smell good, they can also serve as a gift for your potential buyers. I recommend leaving cookies on a plate with a welcoming note.
+Baking some fresh cookies is another way to improve your home’s atmosphere during showings. Baked goods not only smell good, but they can also serve as a gift for your potential buyers. I recommend leaving cookies on a plate with a welcoming note.
 
 **Finally, make sure you clear off and wipe down all countertops.** Little touches will go a long way in making your home more appealing.
 
