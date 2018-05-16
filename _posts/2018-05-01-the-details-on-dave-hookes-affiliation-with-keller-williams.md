@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The details on Dave Hooke's Affiliation with Keller Williams!
+title: The Details on Dave Hooke's Affiliation with Keller Williams!
 date: 2018-05-01 20:40:00
 tags:
 excerpt: >-
