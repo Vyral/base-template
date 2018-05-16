@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: mI_KEorglg4
 ---
 
-{% include youtube.html %}\\
+{% include youtube.html %}
 
 Having been in the real estate business since 1999, I’m frequently approached by people who are fascinated by the idea of joining this industry but have no idea where to begin.
 
