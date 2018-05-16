@@ -9,7 +9,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/Nathan+Abbott+Team-+Aerial+Reel+v2.mp4
 pullquote: >-
-  Boating Magazine recently voted Destin as the No. 1 place in the country to
+  Boating Magazine voted Destin as the No. 1 place in the country to
   both live and boat, and for good reason.
 enclosure_type: video/mp4
 enclosure_time:
