@@ -39,4 +39,4 @@ Of course, sellers should realize that marketing your home this way will only re
 
 **Listing your home as Coming Soon can be a good strategy, but it isn’t the best option for getting ideal terms and netting top dollar.** The likelihood of striking a better deal is much more likely when you reach a broader portion of the market.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&nbsp;
