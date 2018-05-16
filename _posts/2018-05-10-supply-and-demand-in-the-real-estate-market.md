@@ -30,7 +30,7 @@ Meanwhile, **demand is how much buyers need or want to purchase** those homes th
 
 {% include pullquote.html %}
 
-Despite rumors of a big boom in the market, we actually have very little inventory. There aren’t enough homes available for sale to match buyers’ demand. This can cause home prices to increase; since there is a lack of inventory, the homes that are listed tend to see heightened activity, which prompts buyers to pay more for them and for sellers to get more.
+Despite rumors of a big boom in the market, we actually have very little inventory. There aren’t enough homes available for sale to match buyers’ demand. This can cause home prices to increase. Since there is a lack of inventory, the homes that are listed tend to see heightened activity, which prompts buyers to pay more for them and for sellers to get more.
 
 At some point, we reached a bit of a peak. Now **we are seeing a very slight decrease in prices from last month’s data.** We are closely watching the market to see if that decrease will slow down, but don’t think that our prices are going to drop too significantly, because they are not.
 
