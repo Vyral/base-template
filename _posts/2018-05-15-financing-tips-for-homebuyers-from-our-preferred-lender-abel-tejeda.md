@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Financing Tips for Homebuyers From Our Preferred Lender, Abel Tejeda'
-date: 2018-05-15 17:48:30
+date: 2018-05-15 17:48:00
 tags:
 excerpt: >-
   Today I am joined by our preferred lender to talk about which financing
   options are available to homebuyers and offer a few financing tips.
 enclosure:
 pullquote: >-
-  Just because you have bad credit or have any collections or judgements does
-  not mean you can’t buy a home.
+  Just because you have bad credit or have any collections or judgments does not
+  mean you can’t buy a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,7 +21,7 @@ youtube_code: owek82veM6s
 
 One topic homebuyers ask me about a lot is their financing options. With that in mind, I have brought in Abel Tejeda, our preferred lender from American Mortgage Group, to shed some light on which loan programs are available to you and offer a few financing tips.
 
-Whichever loan program is right for you depends on your personal circumstances, but **the most popular loans for first-time homebuyers, Abel says, are conventional loans and FHA loans.** Though these loan programs are completely different, your ability to qualify for either depends on your income, you credit, and how much money you have for a down payment.
+Whichever loan program is right for you depends on your personal circumstances, but **the most popular loans for first-time homebuyers, Abel says, are conventional loans and FHA loans.** Though these loan programs are completely different, your ability to qualify for either depends on your income, your credit, and how much money you have for a down payment.
 
 One question I get a lot in particular is whether you can buy a property after a short sale or a foreclosure. According to Abel, you absolutely can, but you have to wait at least three years to do so. To buy a home after filing for bankruptcy, the waiting period is at least two years. If you file for chapter 13 bankruptcy, you only have to wait one year.
 
@@ -39,7 +39,7 @@ The first step to buying a home is getting pre-qualified, so i**f you are ready 
 
 The minimum credit score you need to qualify for a VA or FHA loan is 580. For a conventional loan, the minimum qualifying score is generally 620. If your credit isn’t where it needs to be, Abel and his team can also counsel you on how to improve it or refer you to one of the credit repair companies.
 
-Remember, just because you have bad credit or any collections or judgements does not mean you can’t buy a home.
+Remember, just because you have bad credit or any collections or judgments does not mean you can’t buy a home.
 
 If you have any other financing questions for Abel, the best way to reach him is by giving him a call at (619) 948-2996.
 
