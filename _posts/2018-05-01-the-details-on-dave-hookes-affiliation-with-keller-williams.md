@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Exciting Anouncement From the Dave Hooke Team
+title: The details on Dave Hooke's Affiliation with Keller Williams!
 date: 2018-05-01 20:40:00
 tags:
 excerpt: >-
