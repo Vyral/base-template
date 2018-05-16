@@ -21,7 +21,7 @@ Agents looking to take your business to the next level: I’m really excited to 
 
 Oftentimes in our business, we look at metrics like how many units we sell, sales volume, and GCI. The issue with these metrics is that they are lagging indicators. If you realize that you are not meeting the goals that you set for yourself, it is already too late to correct the activity. Instead, let’s move that process to the fore and think about what we need to do on a daily, weekly, monthly, and yearly basis in order to meet the goals.
 
-The tool that the salas team uses is our **weekly activity log tracker, which allows us to track key numbers to make sure that we’re engaged in the proper activities.** To see what that looks like, refer to 1:20 in the video above.
+The tool that the Salas Team uses is our **weekly activity log tracker, which allows us to track key numbers to make sure that we’re engaged in the proper activities.** To see what that looks like, refer to 1:20 in the video above.
 
 At the top of the sheet, you’ll see the section labeled “Dials.” The number of dials you log are factors that you as an agent can control. These dials can be how many calls you make, door-knocking, networking with people at events, and similar. You need to have those conversations because dials are huge lead indicators. With Mojo and other automatic dialers like it, we can get up to 300 dials a day; however, depending on your goals and circumstances, you may not need to get that high.
 
