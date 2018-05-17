@@ -1260,6 +1260,10 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+.fb-page {
+  width: 70%;
+  margin-left: 15%; }
+
 @media (max-width: 1350px) {
   .cta-button {
     font-size: 16px;
@@ -1491,6 +1495,9 @@ html[xmlns] .flexslider .slides {
 .navbar-left {
   padding-top: 1.5rem; }
 
+.navbar-right {
+  padding-top: 1.5rem; }
+
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1504,14 +1511,14 @@ html[xmlns] .flexslider .slides {
   .dropbtn {
     padding: 6px 16px;
     width: 100%; } }
+.navbar-collapse.in {
+  overflow: visible; }
+
 .nav-logo {
   float: left !important;
   max-width: 250px;
   margin: 5px;
   padding: 10px; }
-
-.navbar-collapse.in {
-  overflow: visible; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -1600,12 +1607,10 @@ label.tree-toggle {
   filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.5)); }
 
 .site-title {
-  color: #363636;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.5);
-  text-transform: uppercase;
-  font-size: 4.5rem;
+  color: #008C9B;
+  text-align: center;
   font-weight: 400;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
