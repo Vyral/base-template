@@ -8,9 +8,7 @@ excerpt: >-
   Before you choose an agent, there are three important questions you should ask
   them to ensure you make the right choice.
 enclosure:
-pullquote: >-
-  With the summer market approaching quickly, it’s important to find out how an
-  agent plans to set you up for success.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
