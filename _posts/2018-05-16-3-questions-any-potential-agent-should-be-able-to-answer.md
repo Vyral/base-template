@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Questions Any Potential Agent Should Be Able to Answer
-date: 2018-05-17 15:47:00
+date: 2018-05-16 15:47:00
 tags:
   - Real Estate
 excerpt: >-
