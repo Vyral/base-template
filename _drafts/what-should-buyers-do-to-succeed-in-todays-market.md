@@ -25,7 +25,7 @@ youtube_code: xf6G0sEllHE
 
 {% include youtube.html %}
 
-The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.
+<center>The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.</center>
 
 Back in January, we predicted that our market was about to heat up. Well, now that we are further into the year, it has become clear that these projections have come true.
 
