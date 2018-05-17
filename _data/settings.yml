@@ -1,12 +1,16 @@
 audit_header: false
-title: Real Estate Grit | Chicago's Best Real Estate Training and Coaching Team
-description: Kati Spaniak, a top Real Estate Agent in Chicago, shares her own internal agent training for free. Her Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
+title: Chicago's Best Real Estate Training
+description: Kati Spaniak, a top Real Estate Agent in Chicago, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: https://www.eventbrite.com/e/real-estate-grit-business-planning-workshop-for-real-estate-agents-tickets-44346637988
   - title: Join Our Team
     url: /join-our-team
+  - title: Free Strategy Call
+    url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 
 emma_form:
 

@@ -1260,6 +1260,10 @@ html[xmlns] .flexslider .slides {
     .cta-button:hover a {
       color: #fff; }
 
+.fb-page {
+  width: 70%;
+  margin-left: 15%; }
+
 @media (max-width: 1350px) {
   .cta-button {
     font-size: 16px;
@@ -1616,20 +1620,11 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat; }
 
-.site-logo {
-  width: 90%;
-  max-width: 10rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.75));
-  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.75));
-  margin-left: 5%; }
-
 .site-title {
-  color: #232020;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.75);
-  text-transform: uppercase;
-  font-size: 5rem;
-  font-weight: bold;
-  padding-bottom: 4rem;
+  color: #f05159;
+  text-align: center;
+  font-weight: 400;
+  padding-bottom: 2rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
