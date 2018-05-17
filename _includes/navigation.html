@@ -17,10 +17,13 @@
       		<li><a href="{{ item.url}}">{{ item.title}}</a></li>
     		{% endfor %}
 			{% endif %}
-			{% if site.data.settings.CTAs.first_CTA_URL != '#contact' and site.data.settings.CTAs.second_CTA_URL != '#contact' %}
-		<li><a href="contact" id="contact">Contact</a></li>
-		{% endif %}
-
 		</ul>
+
+		<ul class="nav navbar-nav navbar-right">
+			<li><button type="button" class="navbar-toggle phone">
+				<a href="tel:{{site.data.settings.client.phone}}"><i class="fa fa-phone fa-2x" aria-hidden="true"></i></a>
+			</button></li>
+		</ul>
+
     </div>
 </nav>

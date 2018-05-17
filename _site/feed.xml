@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Michael Kaim Team | Cleveland's Best Real Estate Training and Coaching Team</title>
-    <description>Michael Kaim, a top Real Estate Agent in Cleveland, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.</description>
+    <title>Cleveland's Best Real Estate Training</title>
+    <description>Michael Kaim, a top Real Estate Agent in Cleveland, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Apr 2018 14:56:50 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Apr 2018 14:56:50 -0500</lastBuildDate>
+    <pubDate>Thu, 17 May 2018 12:37:33 -0500</pubDate>
+    <lastBuildDate>Thu, 17 May 2018 12:37:33 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
