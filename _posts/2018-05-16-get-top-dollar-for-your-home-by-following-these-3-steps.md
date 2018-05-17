@@ -27,7 +27,7 @@ Today I’d like to share three best ways to obtain top dollar for your listing 
 
 {% include pullquote.html %}
 
-**2. Remove clutter.** Any unnecessary items that are sitting out run the risk of making your home appear untidy. Put away anything that distracts from your home’s potential. Doing so can not only make your home look better, but it can also help give you a head start on packing.&nbsp;
+**2. Remove clutter.** Any unnecessary items that are sitting out could make your home appear untidy. Put away anything that distracts from your home’s potential. Doing so can not only make your home look better, but it can also help give you a head start on packing.&nbsp;
 
 **1. Price your home correctly.** Overpricing your home will only cause your property to sit on the market for longer than need be. When, or if, it eventually does sell, you’ll earn a much lower figure than what you would have achieved from pricing it properly from the start.&nbsp;
 
