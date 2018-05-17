@@ -1,12 +1,16 @@
 audit_header: false
-title: Cap CORE Real Estate | Phoenix's Best Real Estate Training and Coaching Team
-description: Patrick O'Sullivan, a top Real Estate Agent in Phoenix, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
+title: Phoenix's Best Real Estate Training
+description: Patrick O'Sullivan, a top Real Estate Agent in Phoenix, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
     url: /
   - title: Join Our Team
     url: /join-our-team
+  - title: Free Strategy Call
+    url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 
 
 emma:
