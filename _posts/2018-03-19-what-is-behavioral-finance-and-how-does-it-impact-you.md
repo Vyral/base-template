@@ -3,7 +3,6 @@ layout: post
 title: What Is Behavioral Finance and How Does It Impact You?
 date: 2018-03-19 00:00:00
 tags:
-  - Real Estate
 excerpt: >-
   Today, I want to talk about behavioral economics. I’ll explain what it is and
   why it matters to you as a plan sponsor or participant.
