@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Which Is Better: Being Pre-Qualified or Being Pre-Approved?'
-date: 2018-05-17 15:47:48
+date: 2018-05-17 15:47:00
 tags:
   - Home Buyer Tips
-excerpt:
+excerpt: What makes a pre-approval letter so important?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4
 pullquote: >-
