@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Currently Happening in the San Diego and Chula Vista Markets?
-date: 2018-05-15 17:56:56
+date: 2018-05-15 17:56:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iDQcPZ1bPIw
+youtube_code: RNb7Bzk9or0
 ---
 
 {% include youtube.html %}
@@ -25,11 +25,11 @@ What does that mean, and what is the difference between a seller’s market and 
 
 So how does the current inventory affect the home values in our area?
 
-Median prices continue to grow, and they’re up about 8% from this time last year. &nbsp;But why do median prices continue to rise? This is simply because supply is low. Meanwhile, there are many buyers who want to get into this desirable area and get more bang for their buck.
+Median prices continue to grow, and they’re up about 8% from this time last year.  But why do median prices continue to rise? This is simply because supply is low. Meanwhile, there are many buyers who want to get into this desirable area and get more bang for their buck.
 
 {% include pullquote.html %}
 
-On another note, let’s talk about interest rates. Interest rates continue to rise in our area. However, they are still historically low. **Now is definitely the time to break into the market if you are thinking about it.&nbsp;**
+On another note, let’s talk about interest rates. Interest rates continue to rise in our area. However, they are still historically low. **Now is definitely the time to break into the market if you are thinking about it. **
 
 If you are a buyer, make sure you talk to a lender to get all your financing ready so you can start submitting offers. You need to know your finances and purchasing power. You then have to interview to get the right agent who can help you submit competitive offer.
 
