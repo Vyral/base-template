@@ -5,8 +5,8 @@
     <description>Michael Kaim, a top Real Estate Agent in Cleveland, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 May 2018 13:10:46 -0500</pubDate>
-    <lastBuildDate>Thu, 17 May 2018 13:10:46 -0500</lastBuildDate>
+    <pubDate>Thu, 17 May 2018 13:21:05 -0500</pubDate>
+    <lastBuildDate>Thu, 17 May 2018 13:21:05 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>

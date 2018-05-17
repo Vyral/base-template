@@ -1507,6 +1507,9 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-right {
+  margin-top: 2rem; }
+
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
