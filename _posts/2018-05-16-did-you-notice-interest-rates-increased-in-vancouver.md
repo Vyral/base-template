@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Did You Notice Interest Rates Increase in Vancouver?
-date: 2018-05-16 16:57:10
+title: Did You Notice Interest Rates Increased in Vancouver?
+date: 2018-05-16 16:57:00
 tags:
   - Real Estate
 excerpt: >-
@@ -35,7 +35,7 @@ For single-family homes, the inventory has increased over 17% with an active-to-
 
 For the condo market, the active-to-sales ratio is at 45% with a year-over-year price increase of 23.7% and an increase in inventory of 21%. The active-to-sales ratio for this month has dropped 33% from last year. This is because the increase in inventory is meeting some of the overall demand, which is decreasing. The price for condos are still increasing, but not as quickly as past years.
 
-In the Fraser Valley condo prices have risen 36.2% compared to last year. This is because Fraser Valley offers better prices compared to Metro Vancouver.
+In the Fraser Valley, condo prices have risen 36.2% compared to last year. This is because Fraser Valley offers better prices compared to Metro Vancouver.
 
 In conclusion, **if you are a buyer in today’s market, we recommend you speak with either Scotia or BMO** to see what type of mortgage product they can offer. You may be able to save more money and buy a bigger home.
 
