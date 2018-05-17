@@ -3,7 +3,8 @@ layout: post
 title: What Should Buyers Do to Succeed in Today's Market?
 tags:
   - Real Estate
-  - recruiting
+  - Home Buyer Tips
+  - Home Buying
   - Salt Lake City
   - Utah
 excerpt: >-
@@ -17,3 +18,4 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-and-scott-colemere-march-1-screen-shot-no-play.jpg
 youtube_code: tA-yjjwIRzY
 ---
+
