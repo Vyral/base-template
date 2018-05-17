@@ -8,7 +8,8 @@ excerpt: >-
   If you are building a new home or adding on to your current home, new
   ordinances for the City of Houston that are taking effect September 1 may
   affect you.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+Do+You+Know+About+Houstons+New+Ordinance%253F.mp4
 pullquote: >-
   The new ordinance will apply to not only new construction but also additions
   to current homes.
