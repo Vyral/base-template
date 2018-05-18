@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Before you choose an agent, there are three important questions you should ask
   them to ensure you make the right choice.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joe+DeSane/Palm+Beach+County+Real+Estate-+What+to+Ask+Agents+Before+Hiring+Them.mp4
 pullquote: >-
   With the summer market approaching quickly, it’s important to find out how an
   agent plans to set you up for success.
