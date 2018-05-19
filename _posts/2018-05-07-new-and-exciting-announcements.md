@@ -19,7 +19,7 @@ youtube_code: hPWWhO7jkhw
 
 {% include youtube.html %}
 
-<center><em>We want to invite you to our upcoming summer barbecue bash and introduce you to the newest member of our team.</em></center>
+<em style="text-align: center;">We want to invite you to our upcoming summer barbecue bash and introduce you to the newest member of our team.</em>
 
 <center>&nbsp;</center>
 
