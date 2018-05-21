@@ -20,7 +20,7 @@ youtube_code: QEZEjxc591s
 
 **1. How long have you been in the business?** If they’ve only been in the business for a few years, they may not have the experience necessary to get your home sold for the most money.
 
-**2. What is your average list-to-sale price ratio.** In other words, what’s the average of how much their homes sell above or below the initial asking price.
+**2. What is your average list-to-sale price ratio?**&nbsp;In other words, what’s the average of how much their homes sell above or below the initial asking price?
 
 **3. What is your marketing plan or strategy to maximize the home’s sale price?**
 
@@ -34,7 +34,7 @@ youtube_code: QEZEjxc591s
 
 **7. How will you help me find other professionals?** You might need to get in contact with a plumber, a painter, a roofer, or a general handyman during the course of your transaction. Do they have a list of vetted professionals that can help serve your needs?
 
-**8. How much do you charge? Don’t be afraid to ask this question.** You’ll want to know what you’re getting for your money.
+**8. How much do you charge?** Don’t be afraid to ask this question. You’ll want to know what you’re getting for your money.
 
 **9. What kind of cancellation policy do they offer?** Do they allow you to cancel the agreement at any time for any reason? We do.
 
