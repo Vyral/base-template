@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Want to Know How to Build a Successful Real Estate Business?
-date: 2018-05-21 19:28:51
+date: 2018-05-21 19:28:00
 tags:
   - Home Seller Tips
 excerpt: Our workshop can help you transform your business
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: xC1DKv_qaV0
 ---
 
 {% include youtube.html %}
