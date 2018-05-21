@@ -5,13 +5,14 @@ date: 2018-05-03 19:07:00
 tags:
   - Home Seller Tips
 excerpt: What is an access letter?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Credit+Explanation+Letter+(1).mp4
 pullquote: The account owner must give the other person access to those funds.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kBvyFomZ1BE
+youtube_code: xsYYDbLOWg
 ---
 
 {% include youtube.html %}
@@ -27,5 +28,3 @@ Consider this example: A husband and wife have a joint account, but the wife is 
 When we don't have both account owners on the loan, however, the account owner must give the other person access to those funds. **We will need an access letter to do this.**
 
 If you have any other questions, please contact us. We look forward to speaking with you.
-
-&nbsp;
