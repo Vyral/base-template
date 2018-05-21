@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why People are Choosing Abby Realty
-date: 2018-05-21 16:32:22
+title: Why Are so Many Agents Choosing Abby Realty?
+date: 2018-05-21 16:32:00
 tags:
   - Real Estate
 excerpt: >-
