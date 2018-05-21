@@ -14,16 +14,16 @@ excerpt: >-
   rules you’ll need to implement to make sure it works. To find out more, watch
   my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+One+Page+Business+Plan.mp4
 pullquote: >-
   If you really want to put the 1-3-5 business plan on steroids, you can create
   a separate page for each strategy, outlining five more strategy to accomplish
   each main one.
 enclosure_type: video/mp4
-enclosure_time: '10:39 am'
+enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: cTWFV_A3QGA
 ---
 
 {% include youtube.html %}
@@ -40,7 +40,7 @@ Is this going to take care of your big dreams? That’s the question you should 
 
 * One goal
 * Three priorities necessary to achieve your one goal
-* Five strategies under each priority to help &nbsp;you reach the goal
+* Five strategies under each priority to help  you reach the goal
 
 That’s the basic format—**here are the rules:**
 
