@@ -12,9 +12,9 @@ pullquote: >-
   areas of town that you’re interested in.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/don-vallee--may2018-1.jpg
+youtube_code: URRom66sqRo
 ---
 
 {{ include youtube.html }}
