@@ -17,6 +17,8 @@ youtube_code: 13OW019f_Uk
 
 {% include youtube.html %}
 
+&nbsp;
+
 If you’re selling your home in Central Florida and don’t know which agent to hire, you have a lot of choices.
 
 {% include pullquote.html %}According to Barbara Corcoran though, the choice is simple. Barbara is one of the most respected names in real estate, which is why today we are proud to share her endorsement of our team with you.&nbsp;
