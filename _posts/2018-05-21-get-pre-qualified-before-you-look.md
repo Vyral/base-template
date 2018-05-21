@@ -22,7 +22,9 @@ youtube_code: laWSWr8gFIc
 
 {% include youtube.html %}
 
-<center>You should get pre-qualified before you start looking at buying a new house. If you don’t, you may find your dream home and lose it to someone else.</center>
+<center><em>You should get pre-qualified before you start looking at buying a new house. If you don&rsquo;t, you may find your dream home and lose it to someone else.</em></center>
+
+&nbsp;
 
 Why is it important to have a strong pre-qualification prior to getting out there and really looking for a new home?
 
