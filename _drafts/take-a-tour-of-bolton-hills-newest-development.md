@@ -22,7 +22,7 @@ youtube_code: i97rpHjY9eQ
 
 &nbsp;
 
-Today we are touring a model of the Palermo unit in Bolton Hill. More commonly known as Meadow Creek, the development sits between route 97 and 140. The community’s 34 lots range in size from a quarter of an acre to three quarters of an acre. All of them back up to either open spaces or woods in cul-de-sacs.
+Today we are touring a model of the Palermo unit in Bolton Hill. More commonly known as Meadow Creek, the development sits between Route 97 and 140. The community’s 34 lots range in size from a quarter of an acre to three quarters of an acre. All of them back up to either open spaces or woods in cul-de-sacs.
 
 The open floorplan coupled with subtle colors make the home airy and welcoming. Large bedrooms and closets as well as an incredible kitchen, meanwhile, make the place feel like your future home. The best feature, though, is the master bedroom with its luxurious size and beautiful tiling in the bathroom.
 
