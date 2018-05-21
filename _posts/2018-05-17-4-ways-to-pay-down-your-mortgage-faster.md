@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Ways to Pay Down Your Mortgage Faster
-date: 2018-05-17 18:09:55
+date: 2018-05-17 18:09:00
 tags:
 excerpt: >-
   Your 30-year mortgage can be paid off much more quickly by utilizing one of
@@ -11,7 +11,7 @@ pullquote: The best strategy is whichever one fits your lifestyle and budget.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/abel-youtube-2-8.jpg
 youtube_code: Nk94u-_LDEA
 ---
 
@@ -21,7 +21,7 @@ If you are like most people, you have a 30-year mortgage on your home to pay off
 
 **What most people are unaware of is that when you do get a mortgage, most of your interest is charged upfront.** Banks are in the business of making money, so they want to make sure they get their money upfront.
 
-For the first 18.5 years of that 30-year term, you’ll be paying more in interest than on the principal loan amount. When the average homeowner sells after 7 years, they don’t even get to the portion where they’re actually knocking down the principle. Here are a few ways to pay off your 30-year mortgage a little sooner without a ton of extra effort:
+For the first 18.5 years of that 30-year term, you’ll be paying more in interest than on the principal loan amount. When the average homeowner sells after seven years, they don’t even get to the portion where they’re actually knocking down the principle. Here are a few ways to pay off your 30-year mortgage a little sooner without a ton of extra effort:
 
 **1. Get a 15-year mortgage and a lower interest rate.** When you get a 15-year loan as opposed to a 30-year loan, you tend to get a lower rate. You also have less to pay in interest on the loan. At the end of the day, you end up saving thousands in the process.
 
