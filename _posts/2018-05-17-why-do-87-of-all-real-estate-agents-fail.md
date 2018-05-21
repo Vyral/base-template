@@ -25,7 +25,7 @@ Did you know that 87% of all agents in the real estate business fail? Whether th
 
 All of the steps we go over today will contribute to helping you develop a business plan. You must have a clear idea of what you do in your business, when you do it, and, perhaps most importantly, why you do it. This will be your first step in the path to success. You must ask yourself, “What is my why?” **There’s got to be a reason you got into the business in the first place, and it’s up to you to reflect on what that reason is.** You didn’t spend your time and money getting a real estate license for nothing.
 
-Once you’ve established your “why,” the next step is to figure out your cost to live. In other words, how much do you need to make to get by. This refers to your necessities, not your wants. I recommend first calculating your total cost to live per month, and then multiplying that figure by 12 to get an idea of what you need to make in a year.
+Once you’ve established your “why,” the next step is to figure out your cost to live. In other words, how much do you need to make to get by? This refers to your necessities, not your wants. I recommend first calculating your total cost to live per month, and then multiplying that figure by 12 to get an idea of what you need to make in a year.
 
 Chances are, though, that you want to make more than just enough to get by. Many people get into real estate because they’re looking to replace their previous income. Whatever your past job might have been, you probably want to either match or exceed what you earned up until now. Calculating this supplementary money, which you can spend on “wants” instead of “needs,” is the third step. **Setting a target for yourself will hold you accountable to your goals.**
 
