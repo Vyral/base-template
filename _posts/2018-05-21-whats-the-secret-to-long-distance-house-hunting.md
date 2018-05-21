@@ -21,9 +21,9 @@ youtube_code: zzD4bev3DtE
 
 Long-distance house hunting has a lot of similarities with long-distance relationships. It may seem scary at first, but it can be very rewarding in the end. Today I’d like to share a few tips on how you can purchase your forever home, even if you’re still living out of town.
 
-**1. Do your homework.** You need to figure out what you’re looking for in a home. Things like price range and amenities are important, but the top factor you must determine is location, location, location. Our team would be happy to help you determine what kind of home you can afford, and then locate relevant properties based on the list of your top 10 wants and needs.<br>&nbsp;
+**1. Do your homework.** You need to figure out what you’re looking for in a home. Things like price range and amenities are important, but the top factor you must determine is location, location, location. Our team would be happy to help you determine what kind of home you can afford, and then locate relevant properties based on the list of your top 10 wants and needs.<br> 
 
-**2. Find an experienced agent.** It’s critically important for you to have professionals working on your behalf throughout the process. Jeff Cook Real Estate is more than qualified to meet this need.<br>&nbsp;
+**2. Find an experienced agent.** It’s critically important for you to have professionals working on your behalf throughout the process. Jeff Cook Real Estate is more than qualified to meet this need.<br> 
 
 **3. Have a travel budget.** Sure, we can facetime or skype you to bring you on virtual tours of homes, but chances are that you’ll want to check out your dream home in person. We can go ahead and write a contract before you arrive and make it contingent upon you viewing the home, or contingent upon you getting a home inspection. This ensures that you are protected and can back out of the deal if need be.
 
