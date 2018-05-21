@@ -23,7 +23,7 @@ youtube_code: MrajC6QFC84
 
 {% include youtube.html %}
 
-center><em>Determining your home’s value accurately may seem difficult when all reports have shown the values have increased across the market, but it may be as simple as speaking with a Realtor.</em></center>
+<center><em>Determining your home’s value accurately may seem difficult when all reports have shown the values have increased across the market, but it may be as simple as speaking with a Realtor.</em></center>
 
 <center>&nbsp;</center>
 
