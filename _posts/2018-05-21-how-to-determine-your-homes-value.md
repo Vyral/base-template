@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine Your Home’s Value
-date:
+date: 2018-05-21 22:50:35
 tags:
   - Home Seller Tips
 excerpt: >-
