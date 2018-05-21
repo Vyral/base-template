@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Stage Without Breaking the Bank
-date: 2018-05-17 19:56:24
+date: 2018-05-17 19:56:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: >-
   The difference between having potential buyers walking in to see work versus
   being able to live there right away was simply paint, cleaning, dressing up
-  the kitchen cabinets, furniture and different carpeting.
+  the kitchen cabinets, furniture, and different carpeting.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -28,7 +28,7 @@ This week I want to talk to you about staging. Specifically, I want to talk abou
 
 Last week I met with the owners of a new listing for a condo who were concerned with the expenses of staging. **We discussed how staging the space to look like a hotel room could result in $40,000 to $50,000 more.**
 
-The quote from the contractor and stager came back as $8,700 to complete my changes. I wanted to change the look of the place to make it less colorful and old to more current. The difference between having potential buyers walking in to see work versus being able to live there right away was simply paint, cleaning, dressing up the kitchen cabinets, furniture and different carpeting.
+The quote from the contractor and stager came back as $8,700 to complete my changes. I wanted to change the look of the place to make it less colorful and old to more current. The difference between having potential buyers walking in to see work versus being able to live there right away was simply paint, cleaning, dressing up the kitchen cabinets, furniture, and different carpeting.
 
 {% include pullquote.html %}
 
