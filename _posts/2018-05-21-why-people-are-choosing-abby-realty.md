@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why People are Choosing Abby Realty
-date:
+date: 2018-05-21 16:32:22
 tags:
   - Real Estate
 excerpt: >-
@@ -42,5 +42,3 @@ Those ideas can be summed up as productivity, comradery, and low fees. **Those a
 You put these three things together and you have a winning combination to attract agents. They recognize that in this environment, they’ll have the support they need to build the career that they’ve always dreamed of.
 
 That’s what I shared with my friend Jim and I’m happy to share it with you as well. If you have any questions for me or want to know more about our team, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
