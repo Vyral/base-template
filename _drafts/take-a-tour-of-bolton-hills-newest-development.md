@@ -18,7 +18,7 @@ youtube_code: i97rpHjY9eQ
 
 {% include youtube.html %}
 
-Take a virtual tour of Bolton Hill’s Palermo model.
+<center>Take a virtual tour of Bolton Hill’s Palermo model.</center>
 
 Today we are touring a model of the Palermo unit in Bolton Hill. More commonly known as Meadow Creek, the development sits between route 97 and 140. The community’s 34 lots range in size from a quarter of an acre to three quarters of an acre. All of them back up to either open spaces or woods in cul-de-sacs.
 
