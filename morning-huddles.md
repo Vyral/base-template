@@ -6,6 +6,14 @@ permalink: /morning-huddles/
 
 ## Morning Huddles
 
+**A Guide to a Successful Grand Open House**
+
+<div class="morning-huddles"><iframe allowfullscreen="" frameborder="0" height="315" src="https://youtube.com/embed/zNfPQn9DEeU" width="560"></iframe></div>
+
+**5 Fixes to Get Your Team to Act Like Owners**
+
+<div class="morning-huddles"><iframe allowfullscreen="" frameborder="0" height="315" src="https://youtube.com/embed/_d1cGH-C-gI" width="560"></iframe></div>
+
 **If It's Not On Your Schedule - It Does Not Exist**
 
 <div class="morning-huddles"><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/DcEqrNtvC9w" width="560"></iframe></div>
