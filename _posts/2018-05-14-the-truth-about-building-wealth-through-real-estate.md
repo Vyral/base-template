@@ -3,12 +3,12 @@ layout: post
 title: The Truth About Building Wealth Through Real Estate
 date: 2018-05-14 15:36:00
 tags:
-  - Real Estate
 excerpt: >-
   You’ve probably seen plenty of advertisements that promise you’ll make $50,000
   a month in real estate. Here’s what it actually looks like to build wealth in
   this business.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Can+You+Really+Get+Rich+Quick+in+Real+Estate%253F.mp4
 pullquote: >-
   There is a lot of behind-the-scenes training and knowledge that goes into a
   profitable transaction.
@@ -35,4 +35,4 @@ I think what a lot of these people fail to teach you is that there is a lot of b
 
 Can you make money by investing in real estate? Yes you can. Can you get rich quick by doing it? Probably not as quick as you think.
 
-If you’re interested in buying or investing in a property anytime in the near future, give me a call or send me an email. I would be happy to answer any questions you might have.<br>&nbsp;
+If you’re interested in buying or investing in a property anytime in the near future, give me a call or send me an email. I would be happy to answer any questions you might have.<br>
