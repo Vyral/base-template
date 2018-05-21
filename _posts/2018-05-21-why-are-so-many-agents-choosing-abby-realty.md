@@ -23,7 +23,7 @@ youtube_code: f0pSBL172k4
 
 {% include youtube.html %}
 
-Today I’m going to solve the great mystery that so many are wondering about; Why are so many agents joining Abby Realty?
+Today I’m going to solve the great mystery that so many are wondering about. Why are so many agents joining Abby Realty?
 
 I was out to lunch with my friend Jim yesterday and he said this to me: “OK, Frank. Give it up. I know you’re a nice guy and all, but you’re company is five months old and you’ve already attracted 60 agents. What in the world is going on over there?”
 
