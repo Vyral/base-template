@@ -25,9 +25,7 @@ Our current inventory in Tucson is at a 22-year low. It is the lowest recorded l
 
 This low inventory is causing an upward pressure on pricing. We have seen home prices increase around 10% in the last 12 months and about 35% to 40% in the last 5 years.
 
-{% include pullquote.html %}
-
-These are the general numbers, but we can also look at the specific stats in your neighborhood or area of town and provide statistical data on a monthly basis. If you would like one of these reports, please reach out to us and we will get one sent out to you.
+{% include pullquote.html %}These are the general numbers, but we can also look at the specific stats in your neighborhood or area of town and provide statistical data on a monthly basis. If you would like one of these reports, please reach out to us and we will get one sent out to you.
 
 If you have any other questions for us about the market or real estate in general, please reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
