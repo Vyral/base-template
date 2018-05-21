@@ -23,7 +23,9 @@ youtube_code: MrajC6QFC84
 
 {% include youtube.html %}
 
-*Determining your home’s value accurately may seem difficult when all reports have shown the values have increased across the market, but it may be as simple as speaking with a Realtor.*
+center><em>Determining your home’s value accurately may seem difficult when all reports have shown the values have increased across the market, but it may be as simple as speaking with a Realtor.</em></center>
+
+<center>&nbsp;</center>
 
 Over last year or so, many of my videos, print advertisements, newsletters, and market reports have shown that the Phoenix area has gone up in value. So, this week I want to answer the question, **“How do you determine value on a house today when houses have been going up?”**
 
