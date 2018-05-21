@@ -22,15 +22,15 @@ youtube_code: cCZiYyKazU4
 
 {% include youtube.html %}
 
-Many people love to use Zillow to evaluate their home when they are thinking about selling, However, how accurate are their estimates, or Zestimates as they call them? **We wanted to share some information with you about how Zillow works and why their estimates should be taken with a grain of salt. **
+Many people love to use Zillow to evaluate their home when they are thinking about selling, However, how accurate are their estimates, or Zestimates as they call them? **We wanted to share some information with you about how Zillow works and why their estimates should be taken with a grain of salt.&nbsp;**
 
-To explain how Zestimates work fully, we have to get a little technical. Zillow uses an algorithm to determine values, much like the algorithms used to assess the value of a large pool of mortgages bought and sold in the market. 
+To explain how Zestimates work fully, we have to get a little technical. Zillow uses an algorithm to determine values, much like the algorithms used to assess the value of a large pool of mortgages bought and sold in the market.&nbsp;
 
-**According to market research (and even Zillow’s own website), Zestimates can be off by anywhere from 4% to 25%.** If your home is worth $200,000, but its Zestimate says it’s worth $220,000, it will sound exciting. However, buyers will know the home is really worth $200,000. You only get one chance at a first impression with buyers, and you don’t want to ruin it by pricing your home too high because of false information from an algorithm.
+**According to market research (and even Zillow’s own website), Zestimates can be off by anywhere from 5% to 25%.** If your home is worth $200,000, but its Zestimate says it’s worth $220,000, it will sound exciting. However, buyers will know the home is really worth $200,000. You only get one chance at a first impression with buyers, and you don’t want to ruin it by pricing your home too high because of false information from an algorithm.
 
 {% include pullquote.html %}
 
-**Zillow even states the following on their website:** *“Please know that we, Zillow, do not intend for the Zestimate to replace a comparative market analysis, as they can take into account market intricacies that the Zillow Zestimate can not.”*
+**Zillow even states the following on their website:** *“Please know that we, Zillow, do not intend for the Zestimate to replace a comparative market analysis, as they can take into account market intricacies that the Zillow Zestimate cannot.”*
 
 A Zestimate simply cannot replace the expertise of real estate professionals like the ones on our team who are studying the market every day. If your home is in a subdivision with similar homes and you haven’t made any major improvements, your Zestimate might be pretty close. However, if you’re in an area that’s in a transition, has a variety of home types and sizes, or is very urban or rural, Zillow will likely be way off. Zillow can’t see inside your home or distinguish between your improvements versus somebody else’s.
 
