@@ -4,7 +4,6 @@ title: Take a Tour of Bolton Hill’s Newest Development
 date: 2018-05-21 00:00:00
 tags:
   - Real Estate
-  - Homes for Sale
 excerpt: Take a virtual tour of Bolton Hill’s Palermo model.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Take+a+Tour+of+Bolton+Hills+Newest+Development.mp4
@@ -12,7 +11,7 @@ pullquote: All of the available lots backup to either an open space or woods.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/nick-kellar-may-1-screen-shot-no-play.jpg
 youtube_code: i97rpHjY9eQ
 ---
 
