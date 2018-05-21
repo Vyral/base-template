@@ -8,7 +8,7 @@ excerpt: >-
   Many people believe that selling your home is an easy, no-nothing process.
   While it’s true that, with the right help, selling your home can be easy and
   stress-free, it isn’t a do-nothing job, and not being prepared for it can add
-  undue amounts of stress. What can be done to reduce that stress? Today, I’ll
+  undue amounts of stress. What can be done to reduce that stress? Today I’ll
   give you some tips. To hear my stress-free selling tips, watch my latest
   video.
 enclosure: >-
@@ -25,7 +25,7 @@ youtube_code: owUu9uGvd7o
 
 {% include youtube.html %}
 
-So you’ve decided to sell your home. Most sellers think that after that, all the work is done, and then are rudely awakened by what seems to them to be a stressful process. What can you do to reduce seller stress?
+So you’ve decided to sell your home. Most sellers think that the work is done at this point, but many are rudely awakened by a more stressful experience than they expected.What can you do to reduce seller stress?
 
 With any luck, you’ve recruited a great Realtor. A truly great Realtor has the responsibility of carrying the stress for their sellers; **we’re the ones with the background, experience, and training to navigate most circumstances you’ll come across.**
 
