@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What 4 Fees Should Sellers Keep in Mind?
+title: What 3 Fees Should Sellers Keep in Mind?
 date: 2018-05-17 12:10:00
 tags:
   - Home Seller Tips
@@ -8,10 +8,10 @@ excerpt: >-
   When it comes time to sell your home, you’re probably more focused on what
   you’re going to make than what you’ll have to pay. However, there are fees
   that sellers specifically need to pay for their part in the transaction. Today
-  I’ll discuss four of the main types of fees a seller should expect to pay. The
-  first type is the broker fee, which is what they’ll pay the agent(s) for their
-  commission. To learn more about this and the other types of fees, watch my
-  latest video.
+  I’ll discuss three of the main types of fees a seller should expect to pay.
+  The first type is the broker fee, which is what they’ll pay the agent(s) for
+  their commission. To learn more about this and the other types of fees, watch
+  my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Fees.mp4
 pullquote: >-
@@ -26,7 +26,7 @@ youtube_code: YQWNXpLPb4c
 
 {% include youtube.html %}
 
-Today, let’s talk about closing costs. What should the seller expect to pay when selling their property?
+Today let’s talk about closing costs. What should the seller expect to pay when selling their property?
 
 There are three major costs that apply to sellers:
 
@@ -36,8 +36,6 @@ There are three major costs that apply to sellers:
 
 {% include pullquote.html %}
 
-**3. HOA fees.** These could be HOA disclosure fees, transfer fees, or capital improvement fees. The disclosure fee is the fee that the seller pays the property management company to prepare the documents. The transfer fee is what the HOA charges to create a new profile for the new buyer and transfer from the old account to the new one. As far as who pays it, this fee is negotiable.
-
-**4. Capital improvement fees.** This rare fee could be a flat fee or a percentage of the sale that goes toward the HOA as an additional capital improvement fee.
+**3. HOA fees.** These could be HOA disclosure fees, transfer fees, or capital improvement fees. The disclosure fee is the fee that the seller pays the property management company to prepare the documents. The transfer fee is what the HOA charges to create a new profile for the new buyer and transfer from the old account to the new one. As far as who pays it, this fee is negotiable.&nbsp;The final, rare HOA fees are capital improvement fees which can be a flat fee or a percentage of the sale.
 
 If you have any questions or you would like a niche sheet specific to your property, please don’t hesitate to reach out to us. We’d love to help you.
