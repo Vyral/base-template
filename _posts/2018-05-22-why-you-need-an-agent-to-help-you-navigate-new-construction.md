@@ -26,7 +26,7 @@ If you’re thinking about new construction, the builder is always going to have
 
 The job of the builder’s agent is to get that builder the most money in their pocket as they can. Your agent’s job is to get you the best value for your money with the least amount of hassle and frustration during the entire transaction.
 
-**Your agent should already have relationships with various builders and price ranges** so that they can steer your in the right direction with a reputable builder. Believe it or not, there’s a big difference between builders as far as quality of work, even in the same price ranges. Getting things done according to a timeline and keeping the customer happy is not a universal skill.
+**Your agent should already have relationships with various builders and price ranges** so that they can steer you in the right direction with a reputable builder. Believe it or not, there’s a big difference between builders as far as quality of work, even in the same price ranges. Getting things done according to a timeline and keeping the customer happy is not a universal skill.
 
 {% include pullquote.html %}
 
