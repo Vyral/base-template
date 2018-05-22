@@ -8,8 +8,8 @@ tags:
   - Salt Lake City
   - Utah
 excerpt: >-
-  We’re looking to expand our team with highly motivated agents. Are you
-  interested?
+  The spring selling season is well underway, but where does this leave buyers
+  in our market? Let’s discuss this important question today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4
 pullquote: >-
@@ -27,7 +27,7 @@ youtube_code: xf6G0sEllHE
 
 <center><em>The spring selling season is well underway, but where does this leave buyers in our market? Let&rsquo;s discuss this important question today.</em></center>
 
-&nbsp;
+ 
 
 Back in January, we predicted that our market was about to heat up. Well, now that we are further into the year, it has become clear that these projections have come true.
 
