@@ -1,10 +1,14 @@
 ---
 layout: post
 title: What Does Reduced Home Affordability Mean for You?
-date: 2018-05-22 16:27:25
+date: 2018-05-22 16:27:00
 tags:
   - Helpful Hints for Homeowners
-excerpt:
+excerpt: >-
+  According to recent reports, home affordability is dropping fast. An increase
+  in rates during the first quarter caused us to see a 5% drop. We’re expecting
+  an additional 15% to 20% drop by the end of the year. Whether you’re looking
+  to buy or sell a home, your window of opportunity is shrinking.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
