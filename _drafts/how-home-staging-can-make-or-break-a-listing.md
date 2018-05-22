@@ -20,7 +20,7 @@ youtube_code: 9_JNVznuZSA
 
 {% include youtube.html %}
 
-How do home stagers help sellers save, and earn, money? Special guest Rachel Borrelli of Diversa Designs joins us today to explain.
+<center>How do home stagers help sellers save, and earn, money? Special guest Rachel Borrelli of Diversa Designs joins us today to explain.</center>
 
 Today I am joined by special Guest Rachel Borrelli of Diversa Designs to cover some inside tips on effective home staging. These helpful hints are absolute musts in our current market. But before we move on to these tips, let’s go over a question many ask when the subject of home staging arises: **How do stagers help people save and make money with their home?**
 
