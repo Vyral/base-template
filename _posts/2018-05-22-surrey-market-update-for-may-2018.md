@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Surrey Market Update for May 2018
-date:
+date: 2018-05-22 15:44:56
 tags:
   - Market Update
 excerpt: >-
