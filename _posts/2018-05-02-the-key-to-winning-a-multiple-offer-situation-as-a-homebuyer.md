@@ -26,9 +26,9 @@ youtube_code: g6Qy4q2X5cs
 
 <center><p>Looking for a home?&nbsp;<strong><a target="_blank" href="http://www.thestarygroup.com/searches/new">Search our homes</a></strong><br />Selling Your home?&nbsp;<strong><a target="_blank" href="http://www.thestarygroup.com/sellersguide">View the Home Seller's Guide</a></strong></p></center>
 
-Right now there’s low inventory in our marketplace, and because of this, we’re seeing a lot of multiple offer situations happening with listed homes.
+Right now there’s low inventory in our marketplace, and because of this, we’re seeing a lot of multiple offer situations happening with listed homes
 
-If you’re a buyer and you find yourself in a multiple offer situation, it’s important that you work with an agent who can structure your contract in a way that allows you to beat out the other buyers and their offers.
+If you’re a buyer and you find yourself in a multiple offer situation, it’s important that you work with an agent like me who can structure your contract in a way that allows you to beat out the other buyers and their offers.
 
 Some of the tactics our team has used in the past when negotiating on behalf of a buyer in a multiple offer situation include:
 
@@ -37,7 +37,5 @@ Some of the tactics our team has used in the past when negotiating on behalf of 
 * Writing an as-is contract
 
 {% include pullquote.html %}
-
-These are all options that can be assessed based on how the situation progresses. Ultimately though, when you make an offer on a property that has two, four, six, or even 10 other offers (which isn’t uncommon in today’s market), these are tools you and your agent can use to get the home of your dreams.
 
 If you have any further questions about multiple offer situations or you have any other real estate needs, don’t hesitate to give me a call or send me an email. I’d be glad to help you.
