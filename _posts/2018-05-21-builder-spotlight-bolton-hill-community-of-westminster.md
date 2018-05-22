@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a Tour of Bolton Hill’s Newest Development
+title: 'Builder Spotlight: Bolton Hill Community of Westminster'
 date: 2018-05-21 00:00:00
 tags:
   - Real Estate
