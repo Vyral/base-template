@@ -21,7 +21,9 @@ youtube_code: KCwZ165Z8dc
 
 {% include youtube.html %}
 
-What does Zillow’s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.
+<center><em>What does Zillow’s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.</em></center>
+
+<center>&nbsp;</center>
 
 Zillow has undergone some changes recently, so today I would like to talk about what is new with the site. If you visit Zillow’s website right now, you’ll probably notice that Realtors have been removed from every listing on the site. Now, instead of the name of an agent, the site is advertising their new Instant Offer program.
 
