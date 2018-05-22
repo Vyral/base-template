@@ -27,11 +27,11 @@ The months’ supply of inventory in our market is at the lowest point today sin
 
 New listings of existing homes are just not keeping pace with demand.
 
-**2. And home prices are moving upwards.**
+**2. Home prices are moving upwards.**
 
 In our market, home prices were up 7% in 2017 and we expect that trend to continue. It's not just our Crystal Coast that's doing well—areas around the country keep posting record highs for home values.
 
-**3. Mortgage rates are finally rising**
+**3. Mortgage rates are finally rising.**
 
 The Fed increased rate several times over the past year, and mortgage rates finally do seem to be responding. and the 30-year fixed rate is now hovering around 4.5%. While this is a four-year high, it’s still near historic lows and continues for now to make mortgages affordable to would-be buyers.
 
@@ -45,7 +45,7 @@ In other words, if you were to put your home on the market right now, you could 
 
 **Second, it's not clear how long this favorable situation will last.**
 
-I mentioned mortgage rates are on the rise and if rates continue to rise, it can drive buyers out of the market and eventually push price down
+I mentioned mortgage rates are on the rise and if rates continue to rise, it can drive buyers out of the market and eventually push price down.
 
 Another thing to consider is the effects of the new tax plan.
 
