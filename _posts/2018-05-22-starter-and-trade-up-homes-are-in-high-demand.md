@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Starter and Trade-Up Homes are in High Demand
-date:
+date: 2018-05-22 16:52:41
 tags:
   - Helpful Hints for Homeowners
 excerpt: >-
