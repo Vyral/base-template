@@ -35,4 +35,4 @@ In other words, demand and supply are more evenly matched at the top of the mark
 
 **If you've been thinking about trading up to a luxury home, now might be the perfect time to do so.** The red-hot demand for starter and trade-up homes means you could sell your home for top dollar and at record speed. The limited price growth and greater inventory at the luxury end means **you could have your pick, and find a special, unique, and customized home** that perfectly suits your preferences.
 
-If you have any questions about the current (area) real estate market, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions about the current Palm Beach real estate market, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
