@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/staging-youtube.jpg
+youtube_alternate_image: /uploads/staging-youtube-1.jpg
 youtube_code: iw7SkEa62xk
 ---
 
@@ -76,7 +76,7 @@ Once I knew the budget…
 
 Only painted one room and changed some materials…
 
-And still achieved the look we needed…&nbsp;
+And still achieved the look we needed… 
 
 To get an extra $40,000 to $50,000…
 
