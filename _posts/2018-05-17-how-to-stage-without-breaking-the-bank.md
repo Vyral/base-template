@@ -76,7 +76,7 @@ Once I knew the budget…
 
 Only painted one room and changed some materials…
 
-And still achieved the look we needed… 
+And still achieved the look we needed…&nbsp;
 
 To get an extra $40,000 to $50,000…
 
@@ -90,4 +90,4 @@ Just give me a call at [**240-731-8079**](tel:240-731-8079){: target="_blank"} o
 
 [**Marjorie@MarjorieDickStuart.com**](mailto:Marjorie@MarjorieDickStuart.com)
 
-P.S. If you would like to be invited to my next decluttering workshop, please visit **[DCHomeBlog.com/declutter](DCHomeBlog.com/declutter){: target="_blank"}**
+P.S. If you would like to be invited to my next decluttering workshop, please visit **[http://dchomeblog.com/declutter](http://dchomeblog.com/declutter){: target="_blank"}**
