@@ -19,7 +19,9 @@ youtube_code: E_zNT9DNHks
 
 {% include youtube.html %}
 
-We recently took a look at the latest real estate numbers and compared them to what we saw at this time last year. Here are some of the trends we noticed.
+<center><em>We recently took a look at the latest real estate numbers and compared them to what we saw at this time last year. Here are some of the trends we noticed.</em></center>
+
+<center>&nbsp;</center>
 
 I have a great market update to share with you today. **We took a look at the numbers in Surrey for April 2018 and compared them to the numbers from April 2017 to see how things have changed.**
 
