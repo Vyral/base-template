@@ -1,9 +1,8 @@
 ---
 layout: post
 title: What Realtors Must Know About Zillow’s Instant Offer Program
-date:
+date: 2018-05-22 13:53:02
 tags:
-  - Expert Advice
 excerpt: >-
   What does Zillow’s new Instant Offer program mean for Realtors? Today I will
   discuss how this change may impact you.
