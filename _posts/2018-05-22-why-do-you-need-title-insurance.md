@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do You Need Title Insurance?
-date:
+date: 2018-05-22 14:56:18
 tags:
   - Home Buyer Tips
 excerpt: >-
