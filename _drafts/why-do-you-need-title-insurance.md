@@ -19,7 +19,9 @@ youtube_code: szKM5Mua6bk
 
 {% include youtube.html %}
 
-What is title insurance and why do you need it when buying a home? We’re answering both of those questions today.
+<center><em>What is title insurance and why do you need it when buying a home? We’re answering both of those questions today.</em></center>
+
+<center>&nbsp;</center>
 
 Today I’m excited to be joined by Jim Hughes, senior shareholder of Salzmann & Hughes and PA Real Estate Settlement Services, to answer the question: **“What is title insurance and why do we need it?”**
 
