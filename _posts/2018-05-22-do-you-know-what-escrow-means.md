@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Know What ‘Escrow’ Means?
-date: 2018-05-22 20:46:07
+date: 2018-05-22 08:46:00
 tags:
   - Real Estate
 excerpt: >-
