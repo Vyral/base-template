@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Hottest Months in Real Estate?
-date:
+date: 2018-05-22 14:35:31
 tags:
   - Real Estate
 excerpt: >-
