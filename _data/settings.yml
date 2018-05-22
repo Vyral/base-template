@@ -27,7 +27,6 @@ CTAs:
   first_CTA_URL: https://www.thestarygroup.com/sellersguide
   second_CTA_text: Home Search
   second_CTA_URL: https://www.thestarygroup.com/searches/new
-  VR_form:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
