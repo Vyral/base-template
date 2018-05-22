@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does Reduced Home Affordability Mean for You?
-date:
+date: 2018-05-22 16:27:25
 tags:
   - Helpful Hints for Homeowners
 excerpt:
