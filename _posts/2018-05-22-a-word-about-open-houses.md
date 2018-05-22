@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Word About Open Houses
-date: 2018-05-22 20:18:56
+date: 2018-05-22 08:18:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,6 +24,6 @@ A lot of our sellers ask us if we like to do open houses and why. We absolutely 
 
 {% include pullquote.html %}
 
-**Finally, we have a system to make sure you get buyer feedback.** We hand out comment cards and we want buyers to tell us what they think about the house. They’ll let us know what they think about the house, its condition, and its price. Then based on that feedback, we can make adjustments to help sell your house faster.&nbsp;
+**Finally, we have a system to make sure you get buyer feedback.** We hand out comment cards and we want buyers to tell us what they think about the house. They’ll let us know what they think about the house, its condition, and its price. Then based on that feedback, we can make adjustments to help sell your house faster. 
 
-This is just one of the ways we serve our clients and help them sell their homes faster and for more money. If you have any questions or need any help buying or selling a home in the Dallas-Fort Worth area, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+This is just one of the ways we serve our clients and help them sell their homes faster and for more money. If you have any questions or need any help buying or selling a home in the Dallas-Fort Worth area, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>
