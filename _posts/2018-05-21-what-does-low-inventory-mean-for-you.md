@@ -23,7 +23,7 @@ Today I will talk to you about real estate market statistics and why they may be
 
 Our current inventory in Tucson is at a 22-year low. It is the lowest recorded level of inventory that we have seen since our local MLS has been tracking data. There is virtually no inventory available in a lot of price points and a lot of areas of town.
 
-This low inventory is causing an upward pressure on pricing. We have seen home prices increase around 10% in the last 12 months and about 35% to 40% in the last 5 years.
+This low inventory is causing an upward pressure on pricing. We have seen home prices increase around 10% in the last 12 months and about 35% to 40% in the last five years.
 
 {% include pullquote.html %}
 
