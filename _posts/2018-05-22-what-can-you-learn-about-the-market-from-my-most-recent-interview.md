@@ -1,14 +1,14 @@
 ---
 layout: post
 title: What Can You Learn About the Market From My Most Recent Interview?
-date: 2018-05-22 20:00:34
+date: 2018-05-22 20:00:00
 tags:
   - Market Update
 excerpt: >-
   What is going on in today’s market? This is just one of the questions I
   covered during a recent interview, which I will share with you today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jonathan+Carbutti/New+Haven+and+Fairfield+County+Real+Estate-+An+Informative+Real+Estate+Q%2526A+You+Won%2527t+Want+to+Miss.mp4
+  https://s3.amazonaws.com/vyralmarketing/Jonathan+Carbutti/New+Haven+and+Fairfield+County+Real+Estate+An+Informative+Real+Estate+Q%2526A+You+Won%2527t+Want+to+Miss.mp4
 pullquote: >-
   What is going on in today’s market? This is just one of the questions I
   covered during a recent interview, which I will share with you today.
