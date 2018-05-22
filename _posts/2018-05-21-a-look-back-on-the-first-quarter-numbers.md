@@ -19,7 +19,7 @@ youtube_code: MnbJFtE40jY
 
 {% include youtube.html %}
 
-Today I want to give you a market recap on how the first quarter of 2018 did compared to 2017 and discuss what that means moving forward in the market this year.
+Today I want to give you a market recap on how the first quarter of 2018 did compared to 2017's first quarter's first quarter and discuss what that means moving forward in the market this year.
 
 For the first quarter of this year, 387 home sold in the Buda-Kyle area, compared to the 350 we saw in Q1 2017. That is a little more than a **10% increase from this time last year**. We also saw our sales price go from $242,000 in 2017 to $252,000 in 2018.
 
