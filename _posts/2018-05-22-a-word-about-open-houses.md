@@ -7,8 +7,8 @@ tags:
 excerpt: >-
   Some agents think open houses are a waste of time. We disagree, and here is
   why.
-enclosure: We use feedback to make key adjustments that lead to a quicker sale.
-pullquote:
+enclosure:
+pullquote: We use feedback to make key adjustments that lead to a quicker sale.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
