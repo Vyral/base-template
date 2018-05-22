@@ -34,6 +34,6 @@ Also, **pre-qualification is important because you want to make sure you are bei
 
 {% include pullquote.html %}
 
-**The biggest reason you want to be pre-qualified is that you are instilling confidence in the seller**. This can be as simple as having your local mortgage and finance expert reach out and introduce themselves and talking about you as a buyer and a person.
+**The biggest reason you want to be pre-qualified is that you are instilling confidence in the seller**. This can be as simple as having your local mortgage and finance expert reach out and introduce themselves and talk about you as a buyer and a person.
 
 If you have any further questions about this or any other real estate questions, please contact me by phone or email. I would be happy to speak with you soon.
