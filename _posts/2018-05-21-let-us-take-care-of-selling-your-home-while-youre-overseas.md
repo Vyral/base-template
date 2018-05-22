@@ -23,7 +23,7 @@ youtube_code: JdYv8SOYTC8
 
 We’re currently in seller’s market, so if you are thinking about selling, you should get off the fence. We have found that buyers are very picky in this market. **Homes need to be priced right and show well for them to sell quickly.**
 
-You can sell faster by hiring a real estate agent. How do you go about interviewing a real estate agent who is going to fit your needs and helps you get you home sold in this market with you away? You need to ask the right questions.
+You can sell faster by hiring a real estate agent. How do you go about interviewing a real estate agent who is going to fit your needs and helps you get your home sold in this market with you away? You need to ask the right questions.
 
 **How long have they been in the business?** It’s important to determine how much experience they have. I have been in the business almost 29 years and I have seen many things that allow me to advise what you should be looking for in a market.
 
@@ -33,7 +33,7 @@ You can sell faster by hiring a real estate agent. How do you go about interview
 
 Our team has many homes where the seller is not local and for those, we utilize a team of people to help get all of it done. We are used to being able to provide those services to you.
 
-**How do I sign paperwork if I am in Japan or Korea?** For the men and women who are overseas, we are able to use technology to get electronic signatures on paperwork. We can set documents up where are sellers don’t have to physically be there for closing.
+**How do I sign paperwork if I am in Japan or Korea?** For the men and women who are overseas, we are able to use technology to get electronic signatures on paperwork. We can set documents up where our sellers don’t have to physically be there for closing.
 
 **What price do you charge?** Price is negotiable. There are multiple ways that commission can be done.
 
