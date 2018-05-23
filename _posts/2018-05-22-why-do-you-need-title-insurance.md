@@ -19,13 +19,13 @@ youtube_code: szKM5Mua6bk
 
 {% include youtube.html %}
 
-<center><em>What is title insurance and why do you need it when buying a home? We’re answering both of those questions today.</em></center>
+<center><em>What is title insurance and why do you need it when buying a home? We&rsquo;re answering both of those questions today.</em></center>
 
 <center>&nbsp;</center>
 
 Today I’m excited to be joined by Jim Hughes, senior shareholder of Salzmann & Hughes and PA Real Estate Settlement Services, to answer the question: **“What is title insurance and why do we need it?”**
 
-The main reason that you need title insurance according to John, is because the bank requires it. Any time you have financing, you need to make sure that you give the bank first lien on the property. The state-regulated rates are set by the commonwealth of Pennsylvania.
+The main reason that you need title insurance, according to John, is because the bank requires it. Any time you have financing, you need to make sure that you give the bank first lien on the property. The state-regulated rates are set by the Commonwealth of Pennsylvania.
 
 What if you’re paying cash? It’s certainly an option not to carry title insurance if you are, but you’re also putting yourself at risk. **Jim has seen instances where the wrong property was sold and the buyer had to scramble around and find the real property that they thought they purchased.** There could be tax issues from years ago that could be collected on as well.
 
