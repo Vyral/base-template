@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Top 10 Expensive Mistakes That You’re Making With Your Home
-date: 2018-05-23 14:27:59
+date: 2018-05-23 14:27:00
 tags:
   - Real Estate
 excerpt: >-
   Homeownership isn’t cheap, but it can be a little less expensive if you avoid
   making these 10 common mistakes.
 enclosure:
-pullquote: We don’t need that much water to mow our lawns.
+pullquote: We don’t need that much water to sustain our lawns.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -36,7 +36,7 @@ Homes cost a lot of money to maintain, but are you spending unnecessary money? *
 
 **7. Water temperature is set too high.** Unless you have a tankless heater, the water in your water heater is keeping things hot 24/7. If you don't keep an eye on the temperature as seasons change, you might be paying too much for the hot water. Decrease the temperature in the summer, and bump it back up in the winter.
 
-**8. Leaky windows and doors.** Many homeowners simply ignore this by cranking up their heaters. Caulk leaky windows and put rubber seals around the doors to keep the winter winds out and the warm air in.&nbsp;
+**8. Leaky windows and doors.** Many homeowners simply ignore this by cranking up their heaters. Caulk leaky windows and put rubber seals around the doors to keep the winter winds out and the warm air in. 
 
 **9. Paying a handyman.** Don’t pay a handyman for a job that’s simple enough to do yourself. The information is out there. If you’re unsure how to do something, watch tutorials on YouTube. Doing these simple tasks on your own could save you time and money and also give you some useful real-world knowledge.
 
