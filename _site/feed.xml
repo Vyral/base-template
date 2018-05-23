@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The AskSarita Team | Portland's Best Real Estate Training and Coaching Team</title>
-    <description>Sarita Dua, a top Real Estate Agent in Portland, shares her own internal agent training for free. Her Real Estate Coaching, Tips and Advice will help you sell more homes in less time.</description>
+    <title>Portland's Best Real Estate Training</title>
+    <description>Sarita Dua, a top Real Estate Agent in Portland, shares her own internal Real Estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Apr 2018 14:16:46 -0500</pubDate>
-    <lastBuildDate>Fri, 20 Apr 2018 14:16:46 -0500</lastBuildDate>
+    <pubDate>Wed, 23 May 2018 16:10:07 -0500</pubDate>
+    <lastBuildDate>Wed, 23 May 2018 16:10:07 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>

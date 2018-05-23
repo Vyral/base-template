@@ -4,6 +4,14 @@
 {% include head.html %}
 
 	<body>
+		<div id="fb-root"></div>
+		<script>(function(d, s, id) {
+		  var js, fjs = d.getElementsByTagName(s)[0];
+		  if (d.getElementById(id)) return;
+		  js = d.createElement(s); js.id = id;
+		  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0';
+		  fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
@@ -23,6 +31,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
+					<h3 class="site-title">Our Mission on this site is to educate Real Estate Agents on how to sell more homes.</h3>
 					{{ content }}
 				</div>
 

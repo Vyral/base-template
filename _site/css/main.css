@@ -1624,12 +1624,10 @@ label.tree-toggle {
   filter: drop-shadow(0px 2px 7px #033867); }
 
 .site-title {
-  color: white;
-  text-shadow: 0px 2px 7px #033867;
-  text-transform: uppercase;
-  font-size: 3rem;
-  font-weight: bold;
-  padding-bottom: 4rem;
+  color: #003868;
+  text-align: center;
+  font-weight: 400;
+  padding-bottom: 2rem;
   margin-bottom: 0; }
 
 @media (max-width: 1100px) {
@@ -2870,6 +2868,10 @@ form select {
 
 .navbar-left li a {
   color: #fff; }
+
+.fb-page {
+  width: 70%;
+  margin-left: 15%; }
 
 .fa-bars {
   color: #fff; }
