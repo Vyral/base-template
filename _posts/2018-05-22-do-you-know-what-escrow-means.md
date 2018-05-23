@@ -26,6 +26,8 @@ What is escrow? Today I’ll discuss what it is and how it correlates with a rea
 
 {% include pullquote.html %}
 
-The account is managed by a third party who is independent of the transaction. The most common form of escrow accounts are the ones used for real estate transactions. Real estate escrow accounts, also called pre-closing escrow accounts, are held by third-party entities that are separate from both the buyer and seller.These accounts hold all funds, instructions, and paperwork necessary for the impending sale, including funds for the down payment and the deed to the home.
+The account is managed by a third party who is independent of the transaction. The most common form of escrow accounts are the ones used for real estate transactions. Real estate escrow accounts, also called pre-closing escrow accounts, are held by third-party entities that are separate from both the buyer and seller. These accounts hold all funds, instructions, and paperwork necessary for the impending sale, including funds for the down payment and the deed to the home.
 
-**They are designed to protect the interest of both parties during what will probably be the largest and most complex transaction in their lives.**
+**They are designed to protect the interests of both parties during what will probably be the largest and most complex transaction in their lives.**
+
+If you have any questions about escrow or about anything else related to real estate, don't hesitate to give me a call or send me an email. I am happy to help.
