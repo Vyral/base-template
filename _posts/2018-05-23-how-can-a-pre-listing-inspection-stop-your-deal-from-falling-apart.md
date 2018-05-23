@@ -31,7 +31,7 @@ When I asked Chris to answer whether pre-listing inspections are a good idea, he
 
 When Chris performs pre-listing inspections, he offers the option of either abbreviated or full-blown inspections. The abbreviated inspection is designed specifically to pinpoint any and all major issues without focusing on minor problems. Chris checks over homes from roof to foundation and everything in between, for a rate starting at $250. This is a great value, because even an abbreviated inspection will be incredibly thorough.
 
-<br>Chris also performs a free mold inspection as part of this process. I can speak personally to the importance of this service, especially after the experience I recently had with a transaction I was working on. Everything was going smoothly until the buyer’s inspector found a little bit of mold in the attic. Then, everything fell apart. **If the seller could have found and addressed this issue before hand, the deal may very well have moved on to successfully close.**
+Chris also performs a free mold inspection as part of this process. I can speak personally to the importance of this service, especially after the experience I recently had with a transaction I was working on. Everything was going smoothly until the buyer’s inspector found a little bit of mold in the attic. Then, everything fell apart. **If the seller could have found and addressed this issue before hand, the deal may very well have moved on to successfully close.**
 
 {% include pullquote.html %}
 
@@ -39,6 +39,6 @@ However, not all issues are so easily detected. Radon, for example, is invisible
 
 With all this in mind, **it isn’t hard to see why having a pre-listing inspection is such an important step in the selling process.**
 
-<br>To get in touch with Chris, you can give him a call at (518) 928-4172 or visit his website[ www.christhehomeinspector.com.](www.christhehomeinspector.com.){: target="_blank"}
+To get in touch with Chris, you can give him a call at (518) 928-4172 or visit his website[ www.christhehomeinspector.com.](www.christhehomeinspector.com){: target="_blank"}
 
 And, as always, if you have any other questions, would like more information, or are interested in buying or selling a home in the Capital District, feel free to give me a call or send me an email. I look forward to hearing from you soon.
