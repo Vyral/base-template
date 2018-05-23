@@ -20,7 +20,7 @@ youtube_code: KCwZ165Z8dc
 
 {% include youtube.html %}
 
-<center><em>What does Zillow’s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.</em></center>
+<center><em>What does Zillow&rsquo;s new Instant Offer program mean for Realtors? Today I will discuss how this change may impact you.</em></center>
 
 <center>&nbsp;</center>
 
@@ -30,7 +30,7 @@ This program shows what Zillow will pay a homeowner for their property. Before, 
 
 So, how is this affecting today’s Realtors? For one thing, it means that people who advertise heavily through Zillow, myself included, will no longer have the option to do so.
 
-However, I believe, it is actually investors who will be most affected by this change. This is because Zillow will be getting the first crack at properties investors may have previously been the first to capture.
+However, it is actually investors who will be most affected by this change. This is because Zillow will be getting the first crack at properties investors may have previously been the first to capture.
 
 I also believe that this change will place Zillow in more direct competition with other platforms like Opendoor and OfferPad.
 
