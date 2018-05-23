@@ -19,7 +19,9 @@ youtube_code: 5zdkba-V1Kc
 
 {% include youtube.html %}
 
-What are the tax benefits of starting an s corp? Let’s discuss this point today.
+<center><em>What are the tax benefits of starting an s corp? Let’s discuss this point today.</em></center>
+
+<center>&nbsp;</center>
 
 Today I want to talk to you about one advantage of starting an “s corp” and what doing so will save you on taxes.
 
