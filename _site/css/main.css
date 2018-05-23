@@ -2183,7 +2183,8 @@ table tr, table td {
 .post-cta {
   font-size: 18px;
   text-align: center;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  font-weight: bold; }
 
 .socials {
   padding: 0.7rem;
