@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Causes Homes Not to Sell?
-date:
+date: 2018-05-23 16:33:14
 tags:
   - Home Seller Tips
 excerpt: >-
