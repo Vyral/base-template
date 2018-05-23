@@ -21,7 +21,9 @@ youtube_code: bWVJDZtPgb0
 
 {% include youtube.html %}
 
-The numbers are in, so let’s take a look at how the market has been doing and where we can expect it to go.
+<center><em>The numbers are in, so let’s take a look at how the market has been doing and where we can expect it to go.</em></center>
+
+<center>&nbsp;</center>
 
 I am back with your hot-off-the-press market report! Summer is around the corner and buyers are out shopping for their next home. Let’s take a look at the real estate market in your area to see where it is going this year.
 
