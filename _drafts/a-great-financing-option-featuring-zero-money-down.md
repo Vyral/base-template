@@ -19,7 +19,9 @@ youtube_code: '-WpGE0Y-aUc'
 
 {% include youtube.html %}
 
-Rural development financing is a great loan option for buyers who are highly qualified for financing but don’t have much in the way of savings.
+<center><em>Rural development financing is a great loan option for buyers who are highly qualified for financing but don’t have much in the way of savings.</em></center>
+
+<center>&nbsp;</center>
 
 Recently, we’ve had a number of young buyers enter our market who are short on cash. They have great jobs, good incomes, and they’re highly qualified for financing, but they don’t have much in the way of savings.
 
