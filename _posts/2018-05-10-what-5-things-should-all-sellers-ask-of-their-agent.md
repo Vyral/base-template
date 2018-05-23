@@ -25,6 +25,6 @@ Many first-time sellers are unsure of what standards and expectations they shoul
 4. **Demand as few obstacles and challenges as possible**. An experienced agent will know how to predict and avoid potential pitfalls throughout the transaction. For example, while pet owners may not notice an odor in their home, a buyer certainly may. A quality Realtor will understand how to adjust their approach to your listing in accordance with these kinds of circumstances.<br>&nbsp;
 5. **Demand a smooth transaction**. Selling a home is often very stressful, so a major aspect of your agent’s role should be to alleviate some of this for you. Going above and beyond on your behalf is the mark of a quality Realtor.
 
-These demands are a good start, but there are many more things you should expect from your agent through the listing process. To see the full list, click here.
+These demands are a good start, but there are many more things you should expect from your agent through the listing process. To see the full list, [click here.](https://s3.amazonaws.com/vyralmarketing/Casey+Cooke/10+Things+to+Demand+of+your+Listing+Agent.pdf){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
