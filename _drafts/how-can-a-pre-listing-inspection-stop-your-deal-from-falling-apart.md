@@ -19,7 +19,9 @@ youtube_code: fl68-Khe_vs
 
 {% include youtube.html %}
 
-Is having a pre-listing inspection a good idea? Today I have an expert to discuss this key question.
+<center><em>Is having a pre-listing inspection a good idea? Today I have an expert to discuss this key question.</em></center>
+
+<center>&nbsp;</center>
 
 Recently I had a great discussion with home inspector Chris Iula to talk about the benefits of pre-listing home inspections. This conversation was actually sparked by an email I received from a client: Allan Blake. Allan wrote, **“As a seller, should I have a home inspection done on my home prior to putting it on the market?”**
 
