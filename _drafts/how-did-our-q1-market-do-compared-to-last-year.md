@@ -19,6 +19,8 @@ youtube_code: VLrXYMV2nLI
 
 {% include youtube.html %}
 
+According to the latest numbers, we had a great first quarter up and down the Wasatch Front.&nbsp;
+
 We’re well past the first quarter of our 2018 market, and things are looking good numbers-wise. Here are the latest year-to-date statistics and how they compare on a year-over-year basis.
 
 Our average days on market is 18 days, which is unchanged compared to this time last year. This means homes are still selling quickly.
