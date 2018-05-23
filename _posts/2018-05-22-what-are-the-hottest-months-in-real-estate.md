@@ -19,7 +19,7 @@ youtube_code: NVRfCqeQk4Q
 
 {% include youtube.html %}
 
-<center><em>The hottest months in real estate in terms of activity occur during the spring market, followed by the fall market, the summer market, and the winter market.</em></center>
+<center><em>The hottest months for real estate activity may rank in the order you'd think.</em></center>
 
 <center>&nbsp;</center>
 
