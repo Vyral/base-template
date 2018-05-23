@@ -23,7 +23,9 @@ youtube_code: jJB429tThfs
 
 {% include youtube.html %}
 
-<center>Selling a new home is a major undertaking with many things that can go wrong. Luckily, we are here to help with removing inspection and appraisal surprises before they happen.</center>
+<center><em>Selling a new home is a major undertaking with many things that can go wrong. Luckily, we are here to help with removing inspection and appraisal surprises before they happen.</em></center>
+
+&nbsp;
 
 Congratulations, you listed your home for sale and you accepted a contract. Now you are in a contingency period for the buyer when they get to have their inspections and appraisals completed.
 
