@@ -27,9 +27,9 @@ I have a great market update to share with you today. **We took a look at the nu
 
 Province-wide, our sales volume is down around 16% in the past year. If you are thinking about selling your home, take notice. You do not want to miss buyers who are out in the market right now.
 
-The two biggest boards in the province that are going to affect these numbers are the Vancouver Board and the Fraser Valley Board. **The Fraser Valley Board is up about 22% in the number of listings, and the Vancouver market has seen around a 24% increase.** The sales numbers in the Fraser Valley Board is down 24% in sales. The Vancouver market is also down 27% in terms of sales.
+The two biggest boards in the province that are going to affect these numbers are the Vancouver Board and the Fraser Valley Board. **The Fraser Valley Board is up about 22% in the number of listings, and the Vancouver market has seen around a 24% increase.** The sales numbers in the Fraser Valley Board is down 24%. The Vancouver market is also down 27% in terms of sales.
 
-<br>How does this affect you in your area? For example, **if you are a home seller in Cloverdale, we are seeing avery strong seller's market.** We recently sold a townhouse there about a month ago that got 15 offers.
+<br>How does this affect you in your area? **If****&nbsp;you are a home seller in Cloverdale, we are seeing a very strong seller's market.** We recently sold a townhouse there about a month ago that got 15 offers.
 
 {% include pullquote.html %}
 
