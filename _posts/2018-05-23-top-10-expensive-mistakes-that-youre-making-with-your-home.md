@@ -26,7 +26,7 @@ Homes cost a lot of money to maintain, but are you spending unnecessary money? *
 
 **3. Using the wrong air filter size.** Using the wrong filter (or a dirty one) can increase your power bill and cause expensive problems for your furnace down the road. Use the correct filters for your system and set up a reminder to change them after the recommended amount of time.
 
-**4. Customizing your thermostat temperature.** This is a big one. A lot of people like to leave the heat or the a/c on all day, even when they aren’t home. If you invest in a customizable thermostat, you can program your systems to conserve energy. Then when you get home, you can program it to your ideal temperature.
+**4. Not customizing your thermostat temperature.** This is a big one. A lot of people like to leave the heat or the a/c on all day, even when they aren’t home. If you invest in a customizable thermostat, you can program your systems to conserve energy. Then when you get home, you can program it to your ideal temperature.
 
 **5. Not adjusting your air vents properly.** Is one room hot while the others are cold? A lot of times, homeowners will crank up the A/C to combat the hot temperatures in one area. Instead, you can just adjust the vents to direct the flow of air evenly throughout the home.
 
