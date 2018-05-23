@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/james-duffer-what-is-escrow-youtube-1.jpg
-youtube_code:
+youtube_code: 'https://youtu.be/4PVsR78EZso'
 ---
 
 {% include youtube.html %}
