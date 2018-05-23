@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Save Money on Your Taxes by Starting an S Corp
-date:
+date: 2018-05-23 17:01:43
 tags:
-  - Coaching
 excerpt: >-
   What are the tax benefits of starting an s corp? Let’s discuss this point
   today.
