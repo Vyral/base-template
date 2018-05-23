@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Critical Is It to Host an Open House?
-date:
+date: 2018-05-23 21:02:12
 tags:
 excerpt: >-
   Today I want to explain why open houses are so important to today’s real
