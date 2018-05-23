@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great Financing Option Featuring Zero Money Down
-date:
+date: 2018-05-23 16:01:41
 tags:
   - Home Buyer Tips
 excerpt: >-
