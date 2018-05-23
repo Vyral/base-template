@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take a Look at the Latest Market Report
-date:
+date: 2018-05-23 21:20:01
 tags:
   - Market Update
 excerpt: >-
