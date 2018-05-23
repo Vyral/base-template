@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of ISAs to Buyers and Sellers
-date:
+date: 2018-05-23 14:35:00
 tags:
   - Real Estate
 excerpt: >-
@@ -34,6 +34,6 @@ It seems like nowadays, everyone is impatient with their communication—they wa
 
 {% include pullquote.html %}
 
-If you’re a buyer, ISAs are also important, especially in today’s competitive market. **You need a resource on your side to find inventory that isn’t actively available on the market.** Inventory has come down by a third from where it was last year, and many buyers are losing homes in bidding wars. People who choose to work with us on the buy side will benefit from our ability to identify neighborhoods and communities they’ll want to live in. Our ISAs will call out to every home in that neighborhood in the attempt to find inventory that’s not yet available.&nbsp;
+If you’re a buyer, ISAs are also important, especially in today’s competitive market. **You need a resource on your side to find inventory that isn’t actively available on the market.** Inventory has come down by a third from where it was last year, and many buyers are losing homes in bidding wars. People who choose to work with us on the buy side will benefit from our ability to identify neighborhoods and communities they’ll want to live in. Our ISAs will call out to every home in that neighborhood in the attempt to find inventory that’s not yet available. 
 
-If you have any questions or are thinking about buying or selling a home, please feel free to reach out to us. We would love to work with you and explain more about why our ISA program might be a benefit to you.<br>&nbsp;
+If you have any questions or are thinking about buying or selling a home, please feel free to reach out to us. We would love to work with you and explain more about why our ISA program might be a benefit to you.<br>
