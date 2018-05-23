@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/IqPFuOSUUyA'
 
 {% include youtube.html %}
 
-Homes cost a lot of money to maintain, but are you spending unnecessary money? **Here are the ten most expensive mistakes sellers make and how to solve them:**
+Homes cost a lot of money to maintain, but are you spending unnecessary money? **Here are the 10 most expensive mistakes sellers make and how to solve them:**
 
 **1. Using traditional light bulbs.** If you still have incandescent light bulbs in your home, you’re throwing away money every month on your electric bill. Over its lifespan, an incandescent light bulb can use up to $180 in electricity. In comparison, an LED light bulb only uses $30 in electricity in the same lifetime. Think about how this could change your home’s bottom line.
 
@@ -26,7 +26,7 @@ Homes cost a lot of money to maintain, but are you spending unnecessary money? *
 
 **3. Using the wrong air filter size.** Using the wrong filter (or a dirty one) can increase your power bill and cause expensive problems for your furnace down the road. Use the correct filters for your system and set up a reminder to change them after the recommended amount of time.
 
-**4. Customizing your thermostat temperature.** This is a big one. A lot of people like to leave the heat or the a/c on all day, even when they aren’t home. If you invest in a customizable thermostat, you can program your systems to conserve energy. Then when you get home, you can program it to you rideal temperature.
+**4. Customizing your thermostat temperature.** This is a big one. A lot of people like to leave the heat or the a/c on all day, even when they aren’t home. If you invest in a customizable thermostat, you can program your systems to conserve energy. Then when you get home, you can program it to your ideal temperature.
 
 **5. Not adjusting your air vents properly.** Is one room hot while the others are cold? A lot of times, homeowners will crank up the A/C to combat the hot temperatures in one area. Instead, you can just adjust the vents to direct the flow of air evenly throughout the home.
 
@@ -36,7 +36,7 @@ Homes cost a lot of money to maintain, but are you spending unnecessary money? *
 
 **7. Water temperature is set too high.** Unless you have a tankless heater, the water in your water heater is keeping things hot 24/7. If you don't keep an eye on the temperature as seasons change, you might be paying too much for the hot water. Decrease the temperature in the summer, and bump it back up in the winter.
 
-**8. Leaky windows and doors.** Many homeowners simply ignore this by cranking up their heaters. Caulk leaky windows and put rubber seals around the doors to keep the winter winds out and the warm air in. 
+**8. Leaky windows and doors.** Many homeowners simply ignore this by cranking up their heaters. Caulk leaky windows and put rubber seals around the doors to keep the winter winds out and the warm air in.&nbsp;
 
 **9. Paying a handyman.** Don’t pay a handyman for a job that’s simple enough to do yourself. The information is out there. If you’re unsure how to do something, watch tutorials on YouTube. Doing these simple tasks on your own could save you time and money and also give you some useful real-world knowledge.
 
