@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Great Deals on Commercial Real Estate
-date:
+date: 2018-05-23 20:27:17
 tags:
   - Home Buyer Tips
 excerpt: >-
