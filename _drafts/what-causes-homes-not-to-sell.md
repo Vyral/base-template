@@ -21,7 +21,9 @@ youtube_code: P6JH3aYzfcA
 
 {% include youtube.html %}
 
-A lot of homeowners like to hire the agent that values their home at the highest price. Here is an example of why that is not such a great idea.
+<center><em>A lot of homeowners like to hire the agent that values their home at the highest price. Here is an example of why that is not such a great idea.</em></center>
+
+<center>&nbsp;</center>
 
 What are the biggest reasons that homes fail to sell in Charlotte? We are going to look at the biggest culprits today.
 
