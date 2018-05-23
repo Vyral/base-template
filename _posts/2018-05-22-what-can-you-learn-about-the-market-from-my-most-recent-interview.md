@@ -21,7 +21,7 @@ youtube_code: 7A0dv_kacyk
 
 {% include youtube.html %}
 
-Recently, I was interviewed by Scott Silari of Vyral Marketing regarding my take on today’s real estate market. Scott asked a lot of great questions, so I wanted to share this interview with you all today.
+Recently, I sat down for an interview to give my take on today’s real estate market, and I wanted to share this interview with you all today. I was asked a lot of great questions, so I wanted to share this interview with you all today.
 
 {% include pullquote.html %}
 
