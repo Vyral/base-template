@@ -21,7 +21,7 @@ youtube_code: bWVJDZtPgb0
 
 {% include youtube.html %}
 
-<center><em>The numbers are in, so let’s take a look at how the market has been doing and where we can expect it to go.</em></center>
+<center><em>The numbers are in, so let&rsquo;s take a look at how the market has been doing and where we can expect it to go.</em></center>
 
 <center>&nbsp;</center>
 
@@ -45,4 +45,4 @@ Even though rates and prices are increasing, so are our incomes. Rental prices a
 
 This month’s price index comes with great news for homeowners who are thinking about selling their homes and providing much-needed inventory for buyers, including those who are looking to make their first-ever home purchase.
 
-<br>If you have any questions or would like to sell your home, please feel free to reach out to me. You can also attend one of my next **free home seller seminars on June 12 at the Hilton Garden Inn, where I will give you great strategic information on how to make more money while selling your home stress-free.**
+If you have any questions or would like to sell your home, please feel free to reach out to me. You can also attend one of my next **free home seller seminars on June 12 at the Hilton Garden Inn, where I will give you great strategic information on how to make more money while selling your home stress-free.**
