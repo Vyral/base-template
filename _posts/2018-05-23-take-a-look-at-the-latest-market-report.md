@@ -37,7 +37,7 @@ We can see that the market is still very strong, notwithstanding the lack of inv
 
 In terms of the year-over-year change in price (according to price range), homes in the low to middle price ranges are up 8.5%; middle to moderately priced homes are up 7%; and higher-priced homes are up 5.4%.
 
-<br>According to the NAR’s Housing Affordability index, **affordability today is higher than it was between 1985 and 2007.** The only reason affordability is down in relation to the last eight years is the bust and recovery periods; we were selling distressed and short sale homes that were selling 50% to 80% on the dollar. Overall, the country’s affordability is still in really great shape.
+According to the NAR’s Housing Affordability index, **affordability today is higher than it was between 1985 and 2007.** The only reason affordability is down in relation to the last eight years is the bust and recovery periods; we were selling distressed and short sale homes that were selling 50% to 80% on the dollar. Overall, the country’s affordability is still in really great shape.
 
 {% include pullquote.html %}
 
