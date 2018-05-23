@@ -31,7 +31,7 @@ When I asked Chris to answer whether pre-listing inspections are a good idea, he
 
 When Chris performs pre-listing inspections, he offers the option of either abbreviated or full-blown inspections. The abbreviated inspection is designed specifically to pinpoint any and all major issues without focusing on minor problems. Chris checks over homes from roof to foundation and everything in between, for a rate starting at $250. This is a great value, because even an abbreviated inspection will be incredibly thorough.
 
-Chris also performs a free mold inspection as part of this process. I can speak personally to the importance of this service, especially after the experience I recently had with a transaction I was working on. Everything was going smoothly until the buyer’s inspector found a little bit of mold in the attic. Then, everything fell apart. **If the seller could have found and addressed this issue before hand, the deal may very well have moved on to successfully close.**
+Chris also performs a free mold inspection as part of this process. I can speak personally to the importance of this service, especially after the experience I recently had with a transaction I was working on. Everything was going smoothly until the buyer’s inspector found a little bit of mold in the attic. Then, everything fell apart. **If the seller could have found and addressed this issue beforehand, the deal may very well have successfully closed.**
 
 {% include pullquote.html %}
 
