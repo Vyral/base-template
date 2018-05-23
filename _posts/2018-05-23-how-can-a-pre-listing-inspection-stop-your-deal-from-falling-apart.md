@@ -39,6 +39,6 @@ However, not all issues are so easily detected. Radon, for example, is invisible
 
 With all this in mind, **it isn’t hard to see why having a pre-listing inspection is such an important step in the selling process.**
 
-To get in touch with Chris, you can give him a call at (518) 928-4172 or visit his website[ www.christhehomeinspector.com.](www.christhehomeinspector.com){: target="_blank"}
+To get in touch with Chris, you can give him a call at (518) 928-4172 or visit his website [www.christhehomeinspector.com](www.christhehomeinspector.com){: target="_blank"}.
 
 And, as always, if you have any other questions, would like more information, or are interested in buying or selling a home in the Capital District, feel free to give me a call or send me an email. I look forward to hearing from you soon.
