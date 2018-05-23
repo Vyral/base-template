@@ -20,7 +20,9 @@ youtube_code:
 
 {% include youtube.html %}
 
-Today I want to explain why open houses are so important to today’s real estate process.
+<center><em>Today I want to explain why open houses are so important to today’s real estate process.</em></center>
+
+<center>&nbsp;</center>
 
 If you are selling your home, hosting an open house will be very important step in achieving listing success.
 
