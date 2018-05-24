@@ -28,7 +28,7 @@ You must also have a mission statement, which is an element of building your bra
 
 {% include pullquote.html %}
 
-**Ask yourself: What is your mission in doing real estate?** All of us want to make an income. But who are you, what do you represent, and what do you want be?
+**Ask yourself: What is your mission in doing real estate?** All of us want to make an income. But who are you, what do you represent, and what do you want to be?
 
 If you want to be good at this, or great at this, you need to be defined, you need to have core values, and you need to have a mission statement. All of these things will allow you to convey your brand to clients in a way they can understand.
 
