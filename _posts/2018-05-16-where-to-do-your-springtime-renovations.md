@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Where to Do Your Springtime Renovations
-date: 2018-05-16 18:17:11
+date: 2018-05-16 18:17:00
 tags:
   - Expert Advice
-excerpt: >-
-  With the melting snow comes the thoughts of renovating your home. Today I’ll
-  what you should and shouldn’t renovate.
+excerpt: "Today\_I am going to talk about cost recovery for your springtime renovations."
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dar+Walden/Alaska+Real+Estate+%257C+Dar+Walden-+renovations.mp4
 pullquote: >-
@@ -25,7 +23,7 @@ youtube_code: Q5qUDVexPrM
 
 <center>&nbsp;</center>
 
-Across the board, <strong>you&rsquo;re typically going to get back about 64% of what you invest into renovations.</strong> This means that for every dollar you spend, you are going to average about 64 cents per dollar back in your pocket for all renovations.
+Across the board, **you’re typically going to get back about 64% of what you invest into renovations.** This means that for every dollar you spend, you are going to average about 64 cents per dollar back in your pocket for all renovations.
 
 **Renovating your kitchen, master bedroom, and bathroom are three areas which can add a lot of value to your home.** When you decide to do a renovation, you will need to make sure that you have looked at the values in your neighborhood. You also want to do renovations which are appealing and that do not outgrow your neighborhood. Otherwise, you will price yourself out and never get the money back.
 
