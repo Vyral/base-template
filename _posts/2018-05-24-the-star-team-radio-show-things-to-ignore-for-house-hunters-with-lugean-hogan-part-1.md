@@ -3,7 +3,7 @@ layout: post
 title: >-
   The Star Team Radio Show: Things to Ignore for House Hunters with Lugean
   Hogan, Part 1
-date:
+date: 2018-05-24 14:03:16
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -18,7 +18,5 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/podcast.png
 youtube_code:
 ---
-
-&nbsp;
 
 Check out the Star Team Radio Show! On This Episode, we discuss the things to ignore while house hunting.
