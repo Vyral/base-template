@@ -12,7 +12,7 @@ enclosure: >-
 pullquote: The two most common ways to hold title is as a family trust or an LLC.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: BDBBm5T1Uu0
 ---
