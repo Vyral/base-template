@@ -21,7 +21,7 @@ youtube_code: xtsP9DacZpM
 
 {% include youtube.html %}
 
-Security is a critical aspect of homeo wnership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.
+<center>Security is a critical aspect of homeo wnership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.</center>
 
 Do you have a plan for keeping your family safe in 2018? Today we are joined by Ryan with WatchPoint Surveillance to discuss a couple of security options for you to consider.
 
