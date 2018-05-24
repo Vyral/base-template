@@ -21,7 +21,7 @@ youtube_code: Q5qUDVexPrM
 
 {% include youtube.html %}
 
-<center><em><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">Today I am going to talk about cost recovery for those springtime renovations.</span></em></center>
+<center><em><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">Today I am going to talk about cost recovery for your springtime renovations.</span></em></center>
 
 <center>&nbsp;</center>
 
