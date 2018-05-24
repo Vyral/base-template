@@ -32,7 +32,7 @@ A lot of these properties may also end up going to auction rather than being for
 
 In my personal experience, I was able to sell a property through an online auction within 30 days of listing it.
 
-Another option my team and I recommend for pursuing great deals on commercial real estate is by having us set you up on a search that will alert you of available commercial properties below a specific price point. For example, let’s imagine that there are some local apartments that sell for around $100 per square foot. My team and I can set you up to receive alerts when similar listings become available for $50 per square foot or less. This search would include foreclosures, as well.
+Another option my team and I recommend for pursuing great deals on commercial real estate is to have us set you up to receive alerts for available commercial properties below a specific price point. For example, let’s imagine that there are some local apartments that sell for around $100 per square foot. My team and I can set you up to receive alerts when similar listings become available for $50 per square foot or less. This search would include foreclosures, as well.
 
 {% include pullquote.html %}
 
