@@ -22,7 +22,7 @@ youtube_code: 9_JNVznuZSA
 
 <center><em>How do home stagers help sellers save, and earn, money? Special guest Rachel Borrelli of Diversa Designs joins us today to explain.</em></center>
 
- 
+&nbsp;
 
 Today I am joined by special Guest Rachel Borrelli of Diversa Designs to cover some inside tips on effective home staging. These helpful hints are absolute musts in our current market. But before we move on to these tips, let’s go over a question many ask when the subject of home staging arises: **How do stagers help people save and make money with their home?**
 
@@ -36,7 +36,7 @@ Moving on, let’s talk about what stagers are looking for when they step into a
 
 {% include pullquote.html %}
 
-**Professional stagers stay on top of current trends, because what appealed to buyers 10 years ago is not necessarily effective today**. Of course, not all buyers will have the same interests and tastes. Professional stagers have an extensive knowledge of what is attractive to various demographics. With that being said, it is no wonder why having the help of a professional stager is so important. Nevertheless, some still question whether hiring a stager is worth it.
+**Professional stagers stay on top of current trends because what appealed to buyers 10 years ago is not necessarily effective today**. Of course, not all buyers will have the same interests and tastes. Professional stagers have an extensive knowledge of what is attractive to various demographics. With that being said, it is no wonder why having the help of a professional stager is so important. Nevertheless, some still question whether hiring a stager is worth it.
 
 If you are still unsure, consider the following statistic: 77% of agents believe it is easier for potential buyers to see how a given room can, or should, be used. Vacant rooms look smaller and make it more difficult for buyers to see past flaws. A staged home, on the other hand, could entice buyers to spend eight times longer during showings. This gives buyers the opportunity to really fall in love with the home.
 
