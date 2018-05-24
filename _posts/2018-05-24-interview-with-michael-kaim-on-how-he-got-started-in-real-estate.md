@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We Got Started In Real Estate
+title: Interview with Michael Kaim on How He Got Started in Real Estate
 tags:
 excerpt:
 enclosure:
