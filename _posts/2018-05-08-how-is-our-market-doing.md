@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What is going on in the Dallas-Fort Worth real estate market? Today I’ll be
   answering common questions about what’s going on in the market today
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Dallas+-+Fort+Worth+Real+Estate+Agent-+May+2018+Market+Update.mp4
 pullquote: >-
   We’re seeing inventory begin to level out, and there are more options for
   buyers.
