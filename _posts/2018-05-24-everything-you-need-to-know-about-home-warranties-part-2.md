@@ -19,7 +19,7 @@ youtube_code: _LEdKIxVWj0
 
 Today I’m back again with Dianna Silver from Home Warranty of America, to continue our series on home warranties and how they benefit homebuyers.
 
-**When you think of a home warranty, PEACH is a helpful acronym to keep in mind to remember what a home warranty like this covers.** It stands for Plumbing, Electric, Appliances, Cooling, and Heating. A home warranty will help you as a new homebuyer with normal wear and tear breakdowns of any of these systems. Things like your fridge, washing and dryer, and all the major systems in your house.
+**When you think of a home warranty, PEACH is a helpful acronym to keep in mind to remember what a home warranty like this covers.** It stands for Plumbing, Electric, Appliances, Cooling, and Heating. A home warranty will help you as a new homebuyer with normal wear and tear breakdowns of any of these systems. Things like your fridge, washer and dryer, and all the major systems in your house.
 
 **How long does a home warranty last?** For Dianna and HWA, they provide 13 months of coverage. They have a huge vendor base that can help with claims and get them serviced quickly.
 
@@ -29,6 +29,6 @@ If a buyer has an issue after closing, here’s what they would do. File a claim
 
 How much does a warranty&nbsp; cost? It depends on your plan. They offer Diamond coverage for $575, a Platinum plan for $525, and a Gold plan for $450. They can add on or subtract from these plans to make it work specifically for your home.
 
-95% of the time the seller pays for the home warranty at closing and gets the coverage on the buyer’s behalf, and its effective right at closing.
+95% of the time the seller pays for the home warranty at closing and gets the coverage on the buyer’s behalf, and it's effective right at closing.
 
 If you want to get in touch with Dianna, give her a call at (614) 286-6159 or send her an email at **[Dianna.Silver@HWAHomeWarranty.com](mailto:Dianna.Silver@HWAHomeWarranty.com)**. If you have any other questions about buying or selling a home, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
