@@ -22,7 +22,9 @@ youtube_code: 4ETjPzmyJtM
 
 {% include youtube.html %}
 
-<center>Condo conversion is a great tool for real estate investors to use to build wealth. Here’s how the process works and why it can benefit you greatly.</center>
+<center><em>Condo conversion is a great tool for real estate investors to use to build wealth. Here&rsquo;s how the process works and why it can benefit you greatly.</em></center>
+
+&nbsp;
 
 Can cutting your home in half increase its value by 40%? Here’s an interesting concept you may not know about that can dramatically increase your return on investment as an owner, investor, or potential buyer of real estate.
 
