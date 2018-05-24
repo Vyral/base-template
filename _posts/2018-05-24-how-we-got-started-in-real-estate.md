@@ -14,4 +14,4 @@ youtube_code: REjtx-3rvO4
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
