@@ -21,7 +21,7 @@ youtube_code: bWVJDZtPgb0
 
 {% include youtube.html %}
 
-<center><em>The numbers are in, so let&rsquo;s take a look at how the market has been doing and where we can expect it to go.</em></center>
+<p style="text-align: center;"><em>The numbers are in, so let&rsquo;s take a look at how the market has been doing and where we can expect it to go.</em></p>
 
 <center>&nbsp;</center>
 
