@@ -86,7 +86,7 @@ images:
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#022917'
-  theme_color: '#298C53'
+  theme_color: '#263272'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
