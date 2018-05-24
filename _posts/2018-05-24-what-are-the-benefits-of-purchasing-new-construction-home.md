@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What are the benefits that come with purchasing a new construction home as
   opposed to a resale home?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2018/Central+Pennsylvania+Real+Estate+Agent-+May2018-2+Mike+and+Chris.mp4
 pullquote: >-
   When you buy a new construction home, you’re buying a home you know is going
   to be safe and will last you for years.
