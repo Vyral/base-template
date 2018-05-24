@@ -37,8 +37,6 @@ Mortgage rates rose from 4.05% to 4.47%. This should put pressure on buyers in t
 
 All in all, we had an amazing start to 2018. Our team had an amazing start as well, and we appreciate all your referrals and your business.
 
-Remember, if you’re curious what your home is worth or you’d like to browse all the latest homes in our market, visit our website [www.canovogroup.com.](www.canovogroup.com.){: target="_blank"}
-
-{% include pullquote.html %}
+Remember, if you’re curious what your home is worth or you’d like to browse all the latest homes in our market, visit our website [www.canovogroup.com.](www.canovogroup.com.){: target="_blank"}<br>{% include pullquote.html %}
 
 If you have any other questions or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me or someone on our team. We’d love to help you.
