@@ -41,7 +41,7 @@ According to the NAR’s Housing Affordability index, **affordability today is h
 
 {% include pullquote.html %}
 
-Even though rates and prices are increasing, so are our incomes. Rental prices are also going up. According to Zillow, **median rent countrywide rose 2.8% over the past year,** the fast pace of appreciation in two years. Many families in the U.S. are spending more than 50% of their income on their rent. Rising rent is a trigger for renters to transition to homeownership—overall, two out of three renters under the age of 50 say that they want to own a home.
+Even though rates and prices are increasing, so are our incomes. Rental prices are also going up. According to Zillow, **the median rent countrywide rose 2.8% over the past year,** the fastest pace of appreciation in two years. Many families in the U.S. are spending more than 50% of their income on their rent. Rising rent is a trigger for renters to transition to homeownership—overall, two out of three renters under the age of 50 say that they want to own a home.
 
 This month’s price index comes with great news for homeowners who are thinking about selling their homes and providing much-needed inventory for buyers, including those who are looking to make their first-ever home purchase.
 
