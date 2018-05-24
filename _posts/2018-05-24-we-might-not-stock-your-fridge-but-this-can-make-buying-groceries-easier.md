@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'We Might Not Stock Your Fridge, But This Can Make Buying Groceries Easier'
-date:
+date: 2018-05-24 20:24:15
 tags:
-  - Expert Advice
 excerpt: >-
   Buying groceries on vacation just got easier for people coming to the Bigfork
   area.
@@ -27,7 +26,7 @@ youtube_code: y1psEzN9JNg
 
 This time a year many people come to the area from out of town for extended trips and family get togethers. And, many of them want to know one thing, “Can we get our refrigerator stocked?”
 
-Of course, the answer is still no, but technology is changing things. Many grocery stores now participate in online ordering including Super 1 and Smith’s in Kalispell, Safeway, Albertson’s, and Rosauers. **You choose what you want and then schedule the date and time to pick it up.** In Bigfork, Harvest Foods now has online shopping which you can do this exact thing. You can explore their Click-N-Pick website, here, after signing up. &nbsp;
+Of course, the answer is still no, but technology is changing things. Many grocery stores now participate in online ordering including Super 1 and Smith’s in Kalispell, Safeway, Albertson’s, and Rosauers. **You choose what you want and then schedule the date and time to pick it up.** In Bigfork, Harvest Foods now has online shopping which you can do this exact thing. You can explore their Click-N-Pick website, here, after signing up.  
 
 It is a major time saver. **You can choose what you want in your fridge and cupboards over several hours or days,** so you can plan it out before you even travel and then not have to worry about going while on vacation. All you have to do it order, arrive at the scheduled time with your confirmation number, and pick it up without even leaving your car.
 
