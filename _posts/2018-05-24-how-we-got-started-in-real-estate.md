@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft
+title: How We Got Started In Real Estate
 tags:
 excerpt:
 enclosure:
@@ -9,8 +9,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: REjtx-3rvO4
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
