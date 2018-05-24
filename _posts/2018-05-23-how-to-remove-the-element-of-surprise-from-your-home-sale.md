@@ -33,7 +33,7 @@ How do you remove the element of surprise from this situation? We work really ha
 
 With our listings, **we like to have our inspections done up front**. We remedy the situations, if there are any, before we list the property, or let you know about them so you know what to expect when something does come up in an inspection.
 
-<br>Sometimes we run across some challenges with the appraisal. **We like to meet with the appraiser to see if we can get ahead of problems if we can**. These are things that can hold up deals, or even kill deals, if you are not well aware of them.
+<br>Sometimes we run across some challenges with the appraisal. **We like to meet with the appraiser to see if we can get ahead of problems if we can**. These are things that can hold up or kill deals if you are not well aware of them.
 
 {% include pullquote.html %}
 
