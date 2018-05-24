@@ -1,12 +1,16 @@
 audit_header: false
-title: Becky Ivins | Oklahoma City's Best Real Estate Training and Coaching Team
-description: Becky Ivins, a top Real Estate Agent in Oklahoma City, shares her own internal agent training for free. Her Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
+title: Oklahoma City's Best Real Estate Training
+description: Becky Ivins, a top Real Estate Agent in Oklahoma City, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
-    url: /
+    url: https://www.eventbrite.com/o/becky-ivins-coaching-and-consulting-17347387600
   - title: Join Our Team
     url: /join-our-team
+  - title: Free Strategy Call
+    url: /strategy-call/
+  - title: Free Newsletter
+    url: /subscribe/
 client:
   name: Becky Ivins
   title:
@@ -89,7 +93,7 @@ welcome_box:
     receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
-  facebook_url: 'https://www.facebook.com/MoversRealEstate/'
+  facebook_url: 'https://www.facebook.com/OKC-Real-Estate-Mastermind-177505632973969/'
   linkedin_url: 'https://www.linkedin.com/in/beckyivins/'
   gplus_url: 'https://plus.google.com/110340869662115073058'
   youtube_url: 'https://www.youtube.com/channel/UCY9aF6TdC_o3gcnEduqFRmA'
@@ -113,7 +117,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo2.png
   logo_width_number: 20
-  hero_text: Becky Ivins Real Estate Training and Coaching
+  # hero_text: Becky Ivins Real Estate Training and Coaching
   hero_background_hex: '#FFD53F'
   hero_image_path: /img/background2.jpg
   post_cover: /img/cover.jpg
