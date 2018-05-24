@@ -21,7 +21,9 @@ youtube_code: y1psEzN9JNg
 
 {% include youtube.html %}
 
-Buying groceries on vacation just got easier for people coming to the Bigfork area.
+<center><em>Buying groceries on vacation just got easier for people coming to the Bigfork area.</em></center>
+
+<center>&nbsp;</center>
 
 This time a year many people come to the area from out of town for extended trips and family get togethers. And, many of them want to know one thing, “Can we get our refrigerator stocked?”
 
