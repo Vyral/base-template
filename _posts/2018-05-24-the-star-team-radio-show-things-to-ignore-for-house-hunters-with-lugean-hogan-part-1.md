@@ -20,3 +20,5 @@ youtube_code:
 ---
 
 Check out the Star Team Radio Show! On This Episode, we discuss the things to ignore while house hunting.
+
+Check it out here: https://s3.amazonaws.com/vyralmarketing/OK+Hogan+(Star+Team)/Star1%2BStar+Team+Pre+recorded+show%2BSeg+1%2Bs.mp3
