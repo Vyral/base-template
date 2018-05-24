@@ -11,18 +11,18 @@ pullquote: >-
   in whether you’re able to strike a deal.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: UIe75jH8sGE
 ---
 
 {% include youtube.html %}
 
-Our market on the Emerald Coast has been extremely active lately. Time and time again, we’ve seen that procrastinating on submitting an offer could cost you. Doing this can compromise your position as a buyer.&nbsp;
+Our market on the Emerald Coast has been extremely active lately. Time and time again, we’ve seen that procrastinating on submitting an offer could cost you. Doing this can compromise your position as a buyer. 
 
-In multiple offer situations, **the first person to put an offer on the table will have much better chances of securing the property.&nbsp;**
+In multiple offer situations, **the first person to put an offer on the table will have much better chances of securing the property. **
 
-Waiting even just a day or two to submit an offer could make all the difference in whether you’re able to strike a deal. Allow me to share a perfect example of this. My team and I recently drafted an offer on a Saturday, but our buyer waited until Monday to execute it. The listing agent told us that if our offer had been submitted on Saturday, the seller would have accepted it. **Procrastination was the sole reason our buyer lost out.**&nbsp;
+Waiting even just a day or two to submit an offer could make all the difference in whether you’re able to strike a deal. Allow me to share a perfect example of this. My team and I recently drafted an offer on a Saturday, but our buyer waited until Monday to execute it. The listing agent told us that if our offer had been submitted on Saturday, the seller would have accepted it. **Procrastination was the sole reason our buyer lost out.** 
 
 {% include pullquote.html %}
 
@@ -30,4 +30,4 @@ Making your offer quickly is one of the best ways to ensure you secure a home. B
 
 **With as active as our market is right now, you’ve got to be proactive.** You will also need to be flexible. If a seller submits a counteroffer, you may want to consider accepting it if it’s within reason. In the long run, losing out on a deal over a few thousand dollars isn’t worth it.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
