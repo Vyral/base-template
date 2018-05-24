@@ -21,13 +21,11 @@ youtube_code: Q5qUDVexPrM
 
 {% include youtube.html %}
 
-<center><em>With the melting snow comes the thoughts of renovating your home. Today I&rsquo;ll what you should and shouldn&rsquo;t renovate.</em></center>
+<center><em><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">Today I am going to talk about cost recovery for those springtime renovations.</span></em></center>
 
 <center>&nbsp;</center>
 
-Spring is the time for home renovations. With the Alaskan snow melting in the valley area, many people have started doing their own renovations. So today, I am going to talk about cost recovery for those springtime renovations.
-
-Across the board, **you’re typically going to get back about 64% of what you invest into renovations.** This means that for every dollar you spend, you are going to average about 64 cents per dollar back in your pocket for all renovations.
+<center>Across the board, <strong>you&rsquo;re typically going to get back about 64% of what you invest into renovations.</strong> This means that for every dollar you spend, you are going to average about 64 cents per dollar back in your pocket for all renovations.</center>
 
 **Renovating your kitchen, master bedroom, and bathroom are three areas which can add a lot of value to your home.** When you decide to do a renovation, you will need to make sure that you have looked at the values in your neighborhood. You also want to do renovations which are appealing and that do not outgrow your neighborhood. Otherwise, you will price yourself out and never get the money back.
 
