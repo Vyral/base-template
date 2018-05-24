@@ -1,10 +1,9 @@
 ---
 layout: post
-title: What Is a Condo Conversion and Why Is It Such a Good Investment Tool?
+title: What is a Condo Conversion and Why is it Such a Good Investment Tool?
 date: 2018-05-24 00:00:00
 tags:
   - Real Estate
-  - Investing
 excerpt: >-
   Condo conversion is a great tool for real estate investors to use to build
   wealth. Here’s how the process works and why it can benefit you greatly.
@@ -24,7 +23,7 @@ youtube_code: 4ETjPzmyJtM
 
 <center><em>Condo conversion is a great tool for real estate investors to use to build wealth. Here&rsquo;s how the process works and why it can benefit you greatly.</em></center>
 
-&nbsp;
+ 
 
 Can cutting your home in half increase its value by 40%? Here’s an interesting concept you may not know about that can dramatically increase your return on investment as an owner, investor, or potential buyer of real estate.
 
