@@ -20,7 +20,7 @@ youtube_code: 6_nKxh6NPBQ
 
 {% include youtube.html %}
 
-Today we want to talk a little bit about our team, our process, and how everything works when we are helping a homebuyer or seller with their transaction. Dana is a new member to our team and has really brought a unique touch. Recently, we discussed this topic and &nbsp;now we want to share our conversation with you.
+Today we want to talk a little bit about our team, our process, and how everything works when we are helping a homebuyer or seller with their transaction. Dana is a new member to our team and has really brought a unique touch. Recently, we discussed this topic and now we want to share our conversation with you.
 
 **I started the Elite Home Team around two years ago because I believed that a team concept would bring much better service to my clients.**
 
