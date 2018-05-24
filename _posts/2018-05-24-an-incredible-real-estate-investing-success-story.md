@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Incredible Real Estate Investing Success Story
-date: 2018-05-24 17:13:12
+date: 2018-05-24 17:13:00
 tags:
 excerpt: >-
   I have got an incredible story to share with you today. Let’s take a look at
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/dildine-youtube-9.jpg
 youtube_code: XtM8-VW28YE
 ---
 
@@ -37,5 +37,3 @@ Fast forward to today, his success story has only continued. He owns rental prop
 **You can make your own real estate dreams come true, too.** If you have been renting for some time and are thinking of making the transition into homeownership, please reach out to me. I would be happy to help you start your own success story.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
