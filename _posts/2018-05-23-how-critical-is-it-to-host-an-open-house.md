@@ -20,11 +20,11 @@ youtube_code: tOuCbYM0aYg
 
 {% include youtube.html %}
 
-<center><em>Today I want to explain why open houses are so important to today’s real estate process.</em></center>
+<center><em>Today I want to explain why open houses are so important to today&rsquo;s real estate process.</em></center>
 
 <center>&nbsp;</center>
 
-If you are selling your home, hosting an open house will be very important step in achieving listing success.
+If you are selling your home, hosting an open house will be a very important step in achieving listing success.
 
 Why is this the case? Well, three of the last four listings my team dealt with sold as a direct result of having an open house. **There are a lot of misconceptions out there about open houses, but they are much more valuable than many make them out to be.**
 
@@ -32,7 +32,7 @@ Before I get into why open houses are so effective, I would like to address the 
 
 In fact, having an open house is critical. Almost 87% of my team’s listings in the past 24 months have sold through an open house. This is because 98% of buyers today will begin their search online through various internet portals.
 
-<br>After doing all this looking around on the internet, these same buyers tend to want the opportunity to visit the home and view it in-person. And due to having busy schedules, most buyers prefer visiting through open houses rather than having to make a specific appointment to see the property. **For the most part, my team hosts open houses on Sundays from between 1 p.m. to 5 p.m.** This large window of time allows buyers to drop by at their leisure.
+After doing all this looking around on the internet, these same buyers tend to want the opportunity to visit the home and view it in-person. And due to having busy schedules, most buyers prefer visiting through open houses rather than having to make a specific appointment to see the property. **For the most part, my team hosts open houses on Sundays from between 1 p.m. to 5 p.m.** This large window of time allows buyers to drop by at their leisure.
 
 {% include pullquote.html %}
 
