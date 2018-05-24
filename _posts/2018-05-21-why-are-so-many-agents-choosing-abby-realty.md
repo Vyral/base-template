@@ -35,7 +35,7 @@ Those ideas can be summed up as productivity, comradery, and low fees. **Those a
 
 {% include pullquote.html %}
 
-**Comradery:** We know that real estate can be a lonely business, so we structured Abby Realty to create the support that agents need. As a quick example, we have an optional Monday morning meeting where almost half of them show up at every one. It’s absolutely crazy and wonderful. After we do some training, sharing, and getting to know one another, we head out to lunch together. We don’t talk business, we just get to know each other. With such great relationships, we know that if we’re on vacation and need somebody to take care of our clients, there is always someone there for them and for us.
+**Camaraderie:** We know that real estate can be a lonely business, so we structured Abby Realty to create the support that agents need. As a quick example, we have an optional Monday morning meeting where almost half of them show up at every one. It’s absolutely crazy and wonderful. After we do some training, sharing, and getting to know one another, we head out to lunch together. We don’t talk business, we just get to know each other. With such great relationships, we know that if we’re on vacation and need somebody to take care of our clients, there is always someone there for them and for us.
 
 **Low fees:** How’s this for an agent-centric compensation plan? **A 90/10 split capped at $10,000 and just a $100 transaction fee, with no other fees of any kind.** I want agents to keep the bulk of the money that they earn to support their families, fund their aspirations, and have the funds available to invest back into their business.
 
