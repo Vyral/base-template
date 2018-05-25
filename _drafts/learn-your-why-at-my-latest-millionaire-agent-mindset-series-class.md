@@ -2,33 +2,39 @@
 layout: post
 title: Learn Your “Why” at My Latest Millionaire Agent Mindset Series Class
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  As you may already know, I am the founder and instructor of the Millionaire
+  Agent Mindset Series. As such, I seek to help others tap into their potential
+  for greatness. Today I want to invite you to attend my latest Millionaire
+  Agent Mindset Series class happening on June 19. This month’s class will focus
+  on why the millionaire agent mindset produces massive success and how you can
+  do the same. To learn more details about this upcoming class and what you can
+  learn from it, watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+MAM+June+Tickler.mp4
+pullquote: >-
+  I would love for you to attend my latest Millionaire Agent Mindset Series
+  class.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: pWDU24YLXs8
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
+As the founder and instructor of the Millionaire Agent Mindset Series, I always seek to help others tap into their potential for greatness.
+
+With that in mind, **I want to invite you to another live Millionaire Agent Mindset Series class I will be teaching on June 19 from 4 p.m. to 5 p.m.** There are no costs involved and no strings attached. The class will be held at 2121 South McClelland Street, Suite 201, Salt Lake City, Utah.
+
+This month’s class will focus on the “why.” In other words, why the millionaire agent mindset produces massive success and how you can do the same with your personal mission (or your own “why”), which is the rocket fuel for life.
 
 {% include pullquote.html %}
 
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
+No one sets out to be average, yet why do so few agents make it past their first license renewal? It’s because they lack a “why.” They lack a vision or a clear purpose that causes them to get out of bed each morning with enthusiasm.
 
-To hear the full radio endorsement, listen to the clip above.
+**In this class, you will complete a mission statement that outlines your vision, values, beliefs, and perspectives.** These factors will equal your “why.”
+
+If you have any questions about this upcoming class, please feel free to give me a call or shoot me an email. I would be happy to speak with you. In the meantime, I hope to see you there!
