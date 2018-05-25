@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Why Do You Need Title Insurance?
-date: 2018-05-22 14:56:18
+date: 2018-05-22 14:56:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   What is title insurance and why do you need it when buying a home? We’re
   answering both of those questions today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/May/Central+PA+Real+Estate+Agent-+title+insurance.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/May/Central+PA+Real+Estate+Agent-+Title+Insurance+(1).mp4
 pullquote: Every homebuyer should have title insurance.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: szKM5Mua6bk
+youtube_code: ex_iOUPMB_U
 ---
 
 {% include youtube.html %}
