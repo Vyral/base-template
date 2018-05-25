@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/eric-mortimer-ss-may-1-no-play.jpg
-youtube_code: 9_JNVznuZSA
+youtube_code: PwNCPhqA8JU
 ---
 
 {% include youtube.html %}
 
 <center><em>How do home stagers help sellers save, and earn, money? Special guest Rachel Borrelli of Diversa Designs joins us today to explain.</em></center>
 
-&nbsp;
+ 
 
 Today I am joined by special Guest Rachel Borrelli of Diversa Designs to cover some inside tips on effective home staging. These helpful hints are absolute musts in our current market. But before we move on to these tips, let’s go over a question many ask when the subject of home staging arises: **How do stagers help people save and make money with their home?**
 
