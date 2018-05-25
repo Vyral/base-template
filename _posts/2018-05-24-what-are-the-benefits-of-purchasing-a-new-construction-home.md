@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are the Benefits of Purchasing New Construction Home?
+title: What Are the Benefits of Purchasing a New Construction Home?
 date: 2018-05-24 00:00:00
 tags:
   - Home Buyer Tips
