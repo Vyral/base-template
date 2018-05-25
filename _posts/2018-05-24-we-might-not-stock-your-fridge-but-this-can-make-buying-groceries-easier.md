@@ -24,7 +24,7 @@ youtube_code: y1psEzN9JNg
 
 <center>&nbsp;</center>
 
-This time of year many people come to the area from out of town for extended trips and family get-togethers. And, many of them want to know one thing; “Can we get our refrigerator stocked?”
+This time of year many people come to the area from out of town for extended trips and family get-togethers. And, many of them want to know one thing: “Can we get our refrigerator stocked?”
 
 Of course, the answer is still no, but technology is changing things. Many grocery stores now participate in online ordering, including Super 1 and Smith’s in Kalispell, Safeway, Albertson’s, and Rosauers. **You choose what you want and then schedule the date and time to pick it up.** In Bigfork, Harvest Foods now has online shopping which allows you to do this exact thing. You can explore their Click-N-Pick website&nbsp;[here](https://www.harvestfoodsnw.com/weekly-ad/){: target="_blank"}&nbsp;after signing up. &nbsp;
 
