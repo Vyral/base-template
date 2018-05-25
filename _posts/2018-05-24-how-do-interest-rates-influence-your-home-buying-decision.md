@@ -21,7 +21,7 @@ youtube_code: QSSd8xWgPME
 
 Now that spring is here and we are moving closer to summer, which market trends do you need to keep an eye on moving forward as a buyer in 2018?
 
-One of the most important trends is **how interest rates are moving.** One of the biggest questions buyers are asking right now is how much they can afford for their monthly mortgage payment. Interest rates play a big part in answering this question, and though rates have started to increase lately, they are still historically low.
+**The movement of interest rates is an especially important trend right now.** One of the biggest questions buyers are asking right now is how much they can afford for their monthly mortgage payment. Interest rates play a big part in answering this question, and though rates have started to increase lately, they are still at historic lows.
 
 {% include pullquote.html %}
 
