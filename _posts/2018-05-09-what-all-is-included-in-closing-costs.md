@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What All Is Included in Closing Costs?
-date: 2018-23-05 14:17:00
+date: 2018-05-23 14:17:00
 tags:
   - Home Buyer Tips
 excerpt: What do you need to know about closing costs?
