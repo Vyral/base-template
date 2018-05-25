@@ -1,10 +1,12 @@
 audit_header: false
 title: Standard Mortgage Company with Adam Cohn
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Mortgage Rates
+    url: http://standardmortgagecompany.com/MortgageRates.aspx
+  - title: Free Consultation
+    url: https://1084182701.mortgage-application.net/FreeConsult.aspx   
 
 client:
   name: Adam R. Cohn
