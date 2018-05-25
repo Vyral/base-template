@@ -27,6 +27,8 @@ Many people moved into apartments with a six-month lease after the flood, and mo
 
 As a Realtor, I have received a lot of calls from people who have received their insurance money and simply want to sell their home to an investor instead of rebuilding it. They just do not want to deal with the headache, and that is understandable.
 
+{% include pullquote.html %}
+
 **Most of the people we are working with moved to nearby areas from where they already lived.** However, they are buying in the areas that did not flood. If you are ready to move forward, we can help you too.
 
 **If your home was flooded and you did not have insurance, there are still options for you**. A 203(k) loan can help you update your home and move forward. It may take a little while to get a return on your investment, but leaving the house with no updates will not help you at all.
@@ -36,5 +38,3 @@ If you are upside down and need to do a short sale, we can help with that too.
 **My advice is to look at this situation as an opportunity.** If you have lived in the home for the past however many years and have not updated at all, now is a great time to do so. You can update the home with modern amenities, the latest design, and make it a home you love. Buyers will love it down the road, too.
 
 If you need help selling your flooded home, updating it, or finding a new home to buy entirely, I can help you out. Just give me a call or send me an email today. I look forward to assisting you in any way possible.
-
-{% include pullquote.html %}
