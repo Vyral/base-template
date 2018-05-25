@@ -23,7 +23,7 @@ As a seller, there is a way to be smart about handling a multiple offer situatio
 
 When you start the process of selling your home, **you have to shift your perception to “this is business.”** You are selling a product in a large real estate market that will dictate many of your decisions.
 
-You can choose to ignore the market. However, this is can be risky and result in regret when you price your home too high and end up selling it for far less. Your home’s time on the market affects its value, the longer it is listed, the less value because people think that there is something wrong with the home.
+You can choose to ignore the market. However, this can be risky and result in regret when you price your home too high and end up selling it for far less. Your home’s time; on the market affects its value, the longer it is listed, the less valuable it because people think that there is something wrong with the home.
 
 {% include pullquote.html %}
 
@@ -33,6 +33,6 @@ So, **how can you create multiple offer situations for your home and choose the 
 
 A lower asking price can result in buyers being willing to pay more, but the buyers want it to be their decision based on the other bids. **Most buyers will run away from bidding wars if they think that you are already overpricing the property**.
 
-Once you have the multiple offers, now it is your decision time**. All offers are not equal.** Even though someone may offer more money, that does not mean their offer is better because other factors should play into your decision. Loan type could impact which offer is best, stipulations on if the buyer has to sell their home first before buying a new one, etc. all impact which offer is best. There are many aspects of a contract that can be either good or bad, and you have to dive through all of them to make sure you are selecting the right offer.
+Once you have the multiple offers, now it is your decision time**. All offers are not equal.** Even though someone may offer more money, that does not mean their offer is better because other factors should play into your decision. &nbsp;Which loan type each buyer has and whether any of them have to sell their current home before buying a new one are also factors that determine which offer is best. There are many aspects of a contract that can be either good or bad, and you have to dive through all of them to make sure you are selecting the right offer.
 
 If you have any other questions about multiple offer situations or about buying or selling, please feel free to contact me. I look forward to speaking with you soon.
