@@ -42,9 +42,9 @@ client:
   url: 'http://andrew.hhande.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://andrew.hhande.com/whats-my-home-worth.php'
+  first_CTA_URL: 'https://akronenberg.kw.com/selling/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://andrew.hhande.com/idx/'
+  second_CTA_URL: 'https://akronenberg.kw.com/search-homes/#/-1515276642'
   VR_form: 'http://oi.vresp.com?fid=9f6f3d7b4d'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
