@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Everything You Need to Know About Home Warranties: Part 2'
-date: 2018-05-24 17:36:20
+date: 2018-05-24 17:36:00
 tags:
 excerpt: >-
   We’re back again with Dianna Silver to talk about home warranties and how they
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/payne-youtube-1-2.jpg
-youtube_code: _LEdKIxVWj0
+youtube_code: wJuoB54v5CQ
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ Today I’m back again with Dianna Silver from Home Warranty of America, to cont
 
 If a buyer has an issue after closing, here’s what they would do. File a claim online at **[www.hwahomewarranty.com](https://www.hwahomewarranty.com/)**. **It’s very-user friendly, and by the time you press submit, a vendor will take the claim and schedule an appointment to come out and see what the issues are.**
 
-How much does a warranty&nbsp; cost? It depends on your plan. They offer Diamond coverage for $575, a Platinum plan for $525, and a Gold plan for $450. They can add on or subtract from these plans to make it work specifically for your home.
+How much does a warranty  cost? It depends on your plan. They offer Diamond coverage for $575, a Platinum plan for $525, and a Gold plan for $450. They can add on or subtract from these plans to make it work specifically for your home.
 
 95% of the time the seller pays for the home warranty at closing and gets the coverage on the buyer’s behalf, and it's effective right at closing.
 
