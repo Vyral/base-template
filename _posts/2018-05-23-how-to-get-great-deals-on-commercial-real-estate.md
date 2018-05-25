@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Great Deals on Commercial Real Estate
-date: 2018-05-23 20:27:17
+date: 2018-05-23 20:27:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jNVE6Xp387M
+youtube_code: nO8ktqCTAeM
 ---
 
 {% include youtube.html %}
