@@ -20,7 +20,7 @@ youtube_code: tOuCbYM0aYg
 
 {% include youtube.html %}
 
-<center><em>Today I want to explain why open houses are so important to today&rsquo;s real estate process.</em></center>
+<p style="text-align: center;"><em>Today I want to explain why open houses are so important to today&rsquo;s real estate process.</em></p>
 
 <center>&nbsp;</center>
 
