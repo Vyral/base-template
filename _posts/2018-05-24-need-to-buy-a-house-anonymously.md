@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt: How can you buy a house anonymously?
+excerpt: How Can You Buy a House Anonymously in Our Area?
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Dave+Knight+Real+Estate-+Need+to+Buy+a+House+Anonymously%253F.mp4
 pullquote: The two most common ways to hold title is as a family trust or an LLC.
