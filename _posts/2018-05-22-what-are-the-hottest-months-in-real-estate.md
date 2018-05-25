@@ -1,20 +1,20 @@
 ---
 layout: post
 title: What Are the Hottest Months in Real Estate?
-date: 2018-05-22 14:35:31
+date: 2018-05-22 14:35:00
 tags:
   - Real Estate
 excerpt: >-
   The hottest months in real estate in terms of activity occur during the spring
   market, followed by the fall market, the summer market, and the winter market.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/May/Central+PA+Real+Estate+Agent-+hottest+months+in+real+estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/May/Central+PA+Real+Estate+Agent-+The+hottest+months+in+real+estate.mp4
 pullquote: The hottest market typically happens during the spring months.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NVRfCqeQk4Q
+youtube_code: Qzb9DiDdafM
 ---
 
 {% include youtube.html %}
