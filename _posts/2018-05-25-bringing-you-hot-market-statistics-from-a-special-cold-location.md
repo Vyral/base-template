@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bringing You Hot Market Statistics From a Special, Cold Location'
-date: 2018-05-25 16:56:38
+date: 2018-05-25 16:56:00
 tags:
   - Home Seller Tips
 excerpt: Is fear holding you back from your real estate goals?
@@ -9,7 +9,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bob+Sokoler/Louisville+Real+Estate-+Bringing+You+Hot+Market+Statistics+From+a+Special%252C+Cold+Location.mp4
 pullquote: >-
   While the snowy landscape in Canada may be cold, some areas of our market back
-  home in Louisville and Southern Indiana has been rather hot.
+  home in Louisville and Southern Indiana have been rather hot.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,7 +19,7 @@ youtube_code: XQ1XpHaijIk
 
 {% include youtube.html %}
 
-Today’s real estate market update comes to you from Whistler, Canada, where Sandie and I recently ventured to conquer our fears on the ski slopes. But while the snowy landscape in Canada may be cold, some areas of our market back home in Louisville and Southern Indiana has been rather hot. **So before telling you more about our trip to Canada, let’s start off with a look at the latest market statistics.**
+Today’s real estate market update comes to you from Whistler, Canada, where Sandie and I recently ventured to conquer our fears on the ski slopes. But while the snowy landscape in Canada may be cold, some areas of our market back home in Louisville and Southern Indiana have been rather hot. **So before telling you more about our trip to Canada, let’s start off with a look at the latest market statistics.**
 
 As you may remember, one of the ways we track our market is by examining what’s called the “absorption rate.” This rate measures the number of months it would take for our market to run out of listings, assuming no homes were listed during that time.
 
