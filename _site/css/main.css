@@ -2637,6 +2637,24 @@ form select {
 .faq-list {
   list-style: none; }
 
+.pricing-table {
+  margin: 0 auto;
+  font-size: 18px; }
+
+.content {
+  background: #eeeeee;
+  width: 40%;
+  display: block;
+  margin-left: 5%;
+  float: left;
+  padding: 30px; }
+
+.heading {
+  background: #000;
+  color: #fff;
+  text-align: center;
+  padding: 5px; }
+
 .recruiting {
   text-align: center; }
 

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with Jessica Sanders</title>
+    <title> Real Estate Podcast with 1000 Calls A Day</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 1000 Calls A Day - your professional  Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Jessica Sanders</managingEditor>
-    <lastBuildDate>2018-05-11 13:43:29 -0500</lastBuildDate>
-    <media:copyright>Jessica Sanders</media:copyright>
+    <managingEditor>1000 Calls A Day</managingEditor>
+    <lastBuildDate>2018-05-29 13:45:41 -0500</lastBuildDate>
+    <media:copyright>1000 Calls A Day</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>info@1000callsaday.com</itunes:email>
-      <itunes:name>Jessica Sanders</itunes:name>
+      <itunes:name>1000 Calls A Day</itunes:name>
     </itunes:owner>
-    <itunes:author>Jessica Sanders</itunes:author>
+    <itunes:author>1000 Calls A Day</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -30,7 +30,7 @@
         
           <category>Prospecting calls</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2018-05-01 13:11:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+2+Ways+To+Improve+Your+Campaign.mp4</guid>
         <description>
@@ -58,7 +58,7 @@ If you’re curious about what a great nurture campaign looks like, we have one 
 What gives our clients the best results? Here are a few of the common denominators.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 What gives our clients the best results? Here are a few of the common denominators.
@@ -73,7 +73,7 @@ What gives our clients the best results? Here are a few of the common denominato
         
           <category>1000CallsADay</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2018-04-10 13:12:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+hire+VA+assistants.mp4</guid>
         <description>
@@ -111,7 +111,7 @@ If you have any questions for us or want to learn a little more about what we do
 Our startup and hiring processes are detailed for a few reasons. Here they are.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 Our startup and hiring processes are detailed for a few reasons. Here they are.
@@ -126,7 +126,7 @@ Our startup and hiring processes are detailed for a few reasons. Here they are.
         
           <category>1000CallsADay</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2018-03-21 15:30:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+The+advantages+of+hiring+us.mp4</guid>
         <description>
@@ -160,7 +160,7 @@ If you have any further questions about how we can put an outbound prospecting c
 All of the advantages you get from hiring us instead of a VA caller add up to you having more time to call leads and grow your business.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 All of the advantages you get from hiring us instead of a VA caller add up to you having more time to call leads and grow your business.
@@ -177,7 +177,7 @@ All of the advantages you get from hiring us instead of a VA caller add up to yo
         
           <category>Lead Follow Up</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-10-30 14:55:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -209,7 +209,7 @@ If you have any other questions or would like more information, feel free to giv
 A common question clients ask me is: Where do we get our list to call? There are actually two options I want to talk about.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 A common question clients ask me is: Where do we get our list to call? There are actually two options I want to talk about.
@@ -224,7 +224,7 @@ A common question clients ask me is: Where do we get our list to call? There are
         
           <category>1000CallsADay</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-10-12 16:08:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Keeping+remote+employees+accountable.mp4</guid>
         <description>
@@ -256,7 +256,7 @@ That’s how we keep everyone accountable at 1000 Calls A Day. If you have any o
 Here at 1000 Calls A Day, how do we keep our remote employees accountable?
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 Here at 1000 Calls A Day, how do we keep our remote employees accountable?
@@ -273,7 +273,7 @@ Here at 1000 Calls A Day, how do we keep our remote employees accountable?
         
           <category>Predictable Revenue Model</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-08-14 14:25:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Creating+predictable+revenue.mp4</guid>
         <description>
@@ -311,7 +311,7 @@ If you have any questions or would like to learn more about 1000 Calls A Day, gi
 What is the best way to build predictable revenue? According to one of my favorite books, it all boils down to systematizing your sales process.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 What is the best way to build predictable revenue? According to one of my favorite books, it all boils down to systematizing your sales process.
@@ -326,7 +326,7 @@ What is the best way to build predictable revenue? According to one of my favori
         
           <category>Virtual Assistants vs. ISAs</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-07-27 13:43:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -364,7 +364,7 @@ If you have any other questions or would like to learn more about 1000 Calls A D
 What’s the difference between a VA and an ISA? Can’t one person handle both duties?
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 What’s the difference between a VA and an ISA? Can’t one person handle both duties?
@@ -379,7 +379,7 @@ What’s the difference between a VA and an ISA? Can’t one person handle both 
         
           <category>1000CallsADay</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-06-26 09:57:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+choose+the+best+for+you.mp4</guid>
         <description>
@@ -411,7 +411,7 @@ To learn more about how to grow your business, or if you have any questions, fee
 We put our virtual assistants through rigorous screening to ensure that we only provide the best help to our clients. Out of every 60 applicants, only about five will pass our test.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 We put our virtual assistants through rigorous screening to ensure that we only provide the best help to our clients. Out of every 60 applicants, only about five will pass our test.
@@ -426,7 +426,7 @@ We put our virtual assistants through rigorous screening to ensure that we only 
         
           <category>Defining Success</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-04-03 10:26:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Measuring+success+at+1000+CAD.mp4</guid>
         <description>
@@ -452,7 +452,7 @@ We also make sure we keep our VAs extremely happy, but we’ll go into more deta
 How do we measure success at 1000 Calls A Day?
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 How do we measure success at 1000 Calls A Day?
@@ -467,7 +467,7 @@ How do we measure success at 1000 Calls A Day?
         
           <category>1000CallsADay</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-03-20 15:10:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+What+happens+after+your+VA+finds+a+lead.mp4</guid>
         <description>
@@ -497,7 +497,7 @@ If you have any other questions about this process or if you would like to learn
 What happens when your virtual assistant identifies an opportunity or a lead for your sales pipeline?
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 What happens when your virtual assistant identifies an opportunity or a lead for your sales pipeline?
@@ -512,7 +512,7 @@ What happens when your virtual assistant identifies an opportunity or a lead for
         
           <category>Quality Data</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-03-06 14:12:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Fast-track+your+short-term+business+results.mp4</guid>
         <description>
@@ -546,7 +546,7 @@ If you have any questions about where to get quality data, just give me a call o
 Are you investing in quality data? I cannot encourage you to do this enough.
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 Are you investing in quality data? I cannot encourage you to do this enough.
@@ -561,7 +561,7 @@ Are you investing in quality data? I cannot encourage you to do this enough.
         
           <category>Time Management</category>
         
-        <author>Jessica Sanders</author>
+        <author>1000 Calls A Day</author>
         <pubDate>2017-01-20 14:11:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -589,7 +589,7 @@ If you have any questions or would like to learn more about 1000CAD, register he
 Friends and clients,
 
 </itunes:subtitle>
-        <itunes:author>Jessica Sanders</itunes:author>
+        <itunes:author>1000 Calls A Day</itunes:author>
         <itunes:summary>
 
 Friends and clients,
@@ -598,8 +598,8 @@ Friends and clients,
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Jessica Sanders</copyright>
-    <media:credit role="author">Jessica Sanders</media:credit>
+    <copyright>1000 Calls A Day</copyright>
+    <media:credit role="author">1000 Calls A Day</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 1000 Calls A Day - your professional  Real Estate Agents.</media:description>
   </channel>

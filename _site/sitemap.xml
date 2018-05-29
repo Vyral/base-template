@@ -76,6 +76,9 @@
 <loc>localhost:4000/</loc>
 </url>
 <url>
+<loc>localhost:4000/pricing/</loc>
+</url>
+<url>
 <loc>localhost:4000/results/</loc>
 </url>
 <url>

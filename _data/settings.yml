@@ -11,6 +11,8 @@ custom_links:
     url: /how-it-works/
   - title: Results
     url: /results/
+  - title: Pricing
+    url: /pricing/
   - title: FAQ's
     url: /faq/
 
@@ -19,7 +21,7 @@ client:
   title:
   license_number:
   about_markdown: |
-    Welcome to our new 1000CallsADay.com website! 
+    Welcome to our new 1000CallsADay.com website!
   market:
   brand: 1000 Calls A Day
   brokerage:
@@ -58,7 +60,7 @@ lender:
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/1000CallsADay/
-  linkedin_url: 
+  linkedin_url:
   gplus_url: https://plus.google.com/+1000callsaday1000
   youtube_url: https://www.youtube.com/channel/UCC8yU33MnZ0ECDahlMKI3hA
   twitter_url: http://www.1000callsaday.com/#
