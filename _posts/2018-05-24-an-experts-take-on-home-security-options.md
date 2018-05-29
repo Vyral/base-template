@@ -21,7 +21,7 @@ youtube_code: xtsP9DacZpM
 
 {% include youtube.html %}
 
-<center><em>Security is a critical aspect of homeo wnership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.</em></center>
+<center><em>Security is a critical aspect of home ownership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.</em></center>
 
 &nbsp;
 
@@ -29,9 +29,9 @@ Do you have a plan for keeping your family safe in 2018? Today we are joined by 
 
 For one thing, you may want to pursue the use of a home security camera, like the exterior-rated, four-megapixel high definition camera featured in the video.
 
-Ryan recommends HD cameras like this one because the increased resolution will give you a more clear view of anything it captures. Also, **this particular camera is small and unobtrusive, making it easy to hide under the eaves of your home**.
+Ryan recommends HD cameras like this one because the increased resolution will give you a clearer view of anything it captures. Also, **this particular camera is small and unobtrusive, making it easy to hide under the eaves of your home**.
 
-In terms of data, footage can be stored on an SD card or the camera can be hooked up to a NVR cable.
+In terms of data, footage can be stored on an SD card or the camera can be hooked up to an NVR cable.
 
 {% include pullquote.html %}
 
