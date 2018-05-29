@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Jacksonville Real Estate Careers and Training Podcast with Shawn O'Neill and Dan Stephenson</title>
+    <title>Jacksonville Real Estate Careers and Training Podcast with Shawn O'Neill</title>
     <link>http://expertadvisornetwork.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://expertadvisornetwork.com"/>
     <description>A Podcast about Jacksonville Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor>Shawn O'Neill and Dan Stephenson</managingEditor>
-    <lastBuildDate>2018-05-22 12:30:30 -0500</lastBuildDate>
-    <media:copyright>Shawn O'Neill and Dan Stephenson</media:copyright>
+    <managingEditor>Shawn O'Neill</managingEditor>
+    <lastBuildDate>2018-05-29 09:32:24 -0500</lastBuildDate>
+    <media:copyright>Shawn O'Neill</media:copyright>
     <media:thumbnail url="http://expertadvisornetwork.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Jacksonville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Careers@ExpertHomeAdvisors.com</itunes:email>
-      <itunes:name>Shawn O'Neill and Dan Stephenson</itunes:name>
+      <itunes:name>Shawn O'Neill</itunes:name>
     </itunes:owner>
-    <itunes:author>Shawn O'Neill and Dan Stephenson</itunes:author>
+    <itunes:author>Shawn O'Neill</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://expertadvisornetwork.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Jacksonville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Boost your Career with Veteran Real Estate Agents Shawn O'Neill and Dan Stephenson</itunes:subtitle>
+    <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Shawn O'Neill</itunes:subtitle>
     <itunes:summary>A Podcast about Jacksonville Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
@@ -30,7 +30,7 @@
         
           <category>Real Estate</category>
         
-        <author>Shawn O'Neill and Dan Stephenson</author>
+        <author>Shawn O'Neill</author>
         <pubDate>2018-05-17 13:26:36 -0500</pubDate>
         <guid></guid>
         <description>
@@ -66,13 +66,13 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Unfortunately, most agents never find success in real estate. If you’ve the drive to be among the few who prevail, though, I’ve got some important tips to share with you today.</itunes:subtitle>
-        <itunes:author>Shawn O'Neill and Dan Stephenson</itunes:author>
+        <itunes:author>Shawn O'Neill</itunes:author>
         <itunes:summary>Unfortunately, most agents never find success in real estate. If you’ve the drive to be among the few who prevail, though, I’ve got some important tips to share with you today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Jacksonville, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Shawn O'Neill and Dan Stephenson</copyright>
-    <media:credit role="author">Shawn O'Neill and Dan Stephenson</media:credit>
+    <copyright>Shawn O'Neill</copyright>
+    <media:credit role="author">Shawn O'Neill</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">A Podcast about Jacksonville Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>

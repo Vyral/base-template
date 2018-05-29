@@ -1,6 +1,6 @@
 audit_header: false
 title: Jacksonville's Best Real Estate Training
-description: Shawn O'Neill and Dan Stephenson, top Real Estate Agents in Jacksonville, share their own internal real estate agent training for free. Their Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: Shawn O'Neill, a top Real Estate Agent in Jacksonville, share his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
@@ -16,7 +16,7 @@ custom_links:
 
 
 client:
-  name: Shawn O'Neill & Dan Stephenson
+  name: Shawn O'Neill
   license_number:
   about_markdown: |
     Expert Home Advisors is a dedicated team of Experts. We believe that there is a better way by working together to help you achieve your real estate goals. Why work with 1 average agent that only sells a handful of homes a year? When you work with an Expert Home Advisors? You get a dedicated team of 13+, that is selling hundreds of homes a year.
@@ -95,13 +95,13 @@ socials:
   podcast_url:
 
 podcast:
-  title: Jacksonville Real Estate Careers and Training Podcast with Shawn O'Neill and Dan Stephenson
+  title: Jacksonville Real Estate Careers and Training Podcast with Shawn O'Neill
   categories: Education
   image: /img/podcast.jpg
-  subtitle: Boost your Career with Veteran Real Estate Agents Shawn O'Neill and Dan Stephenson
+  subtitle: Boost your Career with Veteran Real Estate Agent Shawn O'Neill
   description: A Podcast about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
   keywords: Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer
-  author: Shawn O'Neill and Dan Stephenson
+  author: Shawn O'Neill
 
 images:
   client_headshot_path: /img/headshot.jpg
