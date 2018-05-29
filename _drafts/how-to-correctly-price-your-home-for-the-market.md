@@ -21,7 +21,7 @@ youtube_code: i1alL2dofOA
 
 <p style="text-align: center;"><em>If your home is for sale, it needs to be priced correctly, not at an oddball number like $399,999. It all boils down to price bracketing.</em></p>
 
-<center>&nbsp;<center>
+<center>&nbsp;</center>
 
 Today, I want to talk about price bracketing.
 
