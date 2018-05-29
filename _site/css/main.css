@@ -1595,13 +1595,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 55rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  max-width: 75rem;
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .site-title {
   color: #003EA5;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -2044,7 +2044,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 2px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2059,7 +2059,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2070,7 +2070,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2777,6 +2777,9 @@ form select {
   color: #b40101;
   margin-top: -20px; }
 
+.events {
+  font-size: 20px; }
+
 .recruiting {
   text-align: center; }
 
@@ -2825,12 +2828,62 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 55rem;
+  max-width: 75rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_asterix {
+  color: #003fa6 !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #003fa6;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #003fa6;
+  Border: 1px solid #003fa6; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
