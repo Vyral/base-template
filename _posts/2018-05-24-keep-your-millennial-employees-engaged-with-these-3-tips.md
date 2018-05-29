@@ -2,11 +2,7 @@
 layout: post
 title: Keep Your Millennial Employees Engaged With These 3 Tips
 tags:
-  - Bio Pharma
-  - Building Products
   - Careers
-  - Futurity
-  - Health Care
 excerpt: >-
   How do you keep millennial employees engaged in the workplace? There are three
   key strategies I recommend
