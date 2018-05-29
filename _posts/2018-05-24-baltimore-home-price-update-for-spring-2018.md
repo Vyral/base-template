@@ -17,7 +17,7 @@ youtube_code: yOzClCH0h9c
 
 {% include youtube.html %}
 
-Each year, spring is the hottest season for real estate. However, right now looks to be an especially important time for anyone looking to sell a home. Here are a few facts to get you thinking:
+The real estate market is hot! Right now looks to be an especially important time for anyone looking to sell a home. Here are a few facts to get you thinking:
 
 1. **Demand continues to outstrip supply.** The number of homes on the market is near an all-time low, and listings of existing homes have plunged 8.1% just over the past year.
 2. **Home prices are still surging.** Home prices are up 6.3% year over year in the last quarter for which we have data. It's not just Baltimore that's doing well—areas around the country keep posting record highs for home values.
