@@ -17,15 +17,15 @@ youtube_code: kcmHSkAYSmU
 
 {% include youtube.html %}
 
-As Bob Dylan once wrote, “The times they are a changin’.” That’s a good way to summarize what’s happening in our market right now.
+As Bob Dylan once wrote, “The times they are a-changin’.” That’s a good way to summarize what’s happening in our market right now.
 
-As we’ve mentioned before, **we’re starting to consistently see more inventory enter the Hoboken and downtown Jersey City market.** Here are a few quick statistics from these areas from the first quarter.
+As we’ve mentioned before, **we’re starting to consistently see more inventory enter the Hoboken and Downtown Jersey City market.** Here are a few quick statistics from these areas from the first quarter.
 
 In Hoboken, the year-over-year median sale price of one-bedroom properties dropped 5.7%. Inventory is at a 2.7-month supply, which is the highest it’s been since 2014. The number of unsold inventory has jumped to 250 units—there were only 160 units available at this time last year. The number of pending sales has stayed at near near historic lows, which has been the case since 2014.
 
 {% include pullquote.html %}
 
-In downtown Jersey City, the numbers are showing the same consistency. Year over year, the absorption rate jumped from 2.3% to 5.3%. The number of unsold inventory is at 290 units, whereas last year there were only 119 units available.
+In Downtown Jersey City, the numbers are showing the same consistency. Year over year, the absorption rate jumped from 2.3% to 5.3%. The number of unsold inventory is at 290 units, whereas last year there were only 119 units available.
 
 What do these numbers mean for you? **Whether you’re looking to buy or sell, who you work with is very important.** You need an agent who knows what’s happening in our marketplace and can guide you through your home sale or home purchase.
 
