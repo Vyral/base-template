@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Thank You for Attending Our Client Appreciation Event
-date: 2018-05-25 16:26:12
+date: 2018-05-25 16:26:00
 tags:
 excerpt: A quick thank you for attending our recent client appreciation event.
 enclosure:
-pullquote: Without you guys we would not be here.
+pullquote: 'Without you guys, we would not be here.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -15,7 +15,7 @@ youtube_code: Pz9Ce3p8dJc
 
 {% include youtube.html %}
 
-Thank you!<br>&nbsp;<br>Last week we had an amazing client and homeowner appreciation event and I want to say thank you. Without you guys, we would not be here. **Thank you for giving us the opportunity to serve you.**<br>&nbsp;<br>We had a great time hosting the families who came out to visit and hang out with us. We played some cornhole, ate some hot dogs, and enjoyed some ice cream sundaes.
+Last week we had an amazing client and homeowner appreciation event and I want to say thank you. Without you guys, we would not be here. **Thank you for giving us the opportunity to serve you.**<br>&nbsp;<br>We had a great time hosting the families who came out to visit and hang out with us. We played some cornhole, ate some hot dogs, and enjoyed some ice cream sundaes.
 
 {% include pullquote.html %}
 
