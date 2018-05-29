@@ -27,7 +27,7 @@ I am delighted to show you your dream home. 3451 Cascade Terrace in West Linn, O
 
 Located in the beautiful neighborhood Cascade Summit which has some of the best schools in Oregon, this property is close to Oregon Golf Club, Willamette Village, and many other great parks and facilities.
 
-Luxury living awaits the purchaser of this property. **The home boasts an incredible six bedrooms and seven bathrooms** to go along with an updated kitchen, open floor plan, and vaulted ceilings. Additionally, everyone can enjoy the home’s exercise space, billiard room, and stage for your children to perform for you. &nbsp;
+Luxury living awaits the purchaser of this property. **The home boasts an incredible six bedrooms and seven bathrooms** to go along with an updated kitchen, open floor plan, and vaulted ceilings. Additionally, everyone can enjoy the home’s exercise space, billiard room, and stage for your children to perform for you.  
 
 {% include pullquote.html %}
 
