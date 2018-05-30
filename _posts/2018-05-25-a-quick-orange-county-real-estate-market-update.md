@@ -2,7 +2,7 @@
 layout: post
 title: A Quick Orange County Real Estate Market Update
 date: 2018-05-25 19:43:41
-tags: Market Update
+tags: MarketUpdate
 excerpt: >-
   The latest news and information is in for the Orange County real estate
   market. Here’s what you need to know.
