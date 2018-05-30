@@ -5,7 +5,7 @@ date: 2018-05-29 12:00:00
 tags:
   - Real Estate
 excerpt: >-
-  I am ready to sell you your dream home. 3451 Cascade Terrace in West Linn,
+  I am ready to sell you your dream home: 3451 Cascade Terrace in West Linn,
   Oregon is waiting for you to visit. This beautiful home in a great
   neighborhood is sure to please the entire family. To find out more about this
   home, watch my short video.
@@ -25,9 +25,9 @@ youtube_code: iBMAw4mxiow
 
 I am delighted to show you your dream home. 3451 Cascade Terrace in West Linn, Oregon is sure to instantly feel like home to the whole family.
 
-Located in the beautiful neighborhood Cascade Summit which has some of the best schools in Oregon, this property is close to Oregon Golf Club, Willamette Village, and many other great parks and facilities.
+Located in the beautiful neighborhood of Cascade Summit, which has some of the best schools in Oregon, this property is close to Oregon Golf Club, Willamette Village, and many other great parks and facilities.
 
-Luxury living awaits the purchaser of this property. **The home boasts an incredible six bedrooms and seven bathrooms** to go along with an updated kitchen, open floor plan, and vaulted ceilings. Additionally, everyone can enjoy the home’s exercise space, billiard room, and stage for your children to perform for you.  
+Luxury living awaits the purchaser of this property. **The home boasts an incredible six bedrooms and seven bathrooms** to go along with an updated kitchen, open floor plan, and vaulted ceilings. Additionally, everyone can enjoy the home’s exercise space, billiard room, and stage for your children to perform for you. &nbsp;
 
 {% include pullquote.html %}
 
