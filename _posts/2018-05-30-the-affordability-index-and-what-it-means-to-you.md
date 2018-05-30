@@ -18,7 +18,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bryan-and-scott-colemere-may-2-screen-shot.jpg
+youtube_alternate_image: /uploads/bryan-and-scott-colemere-may-2-screen-shot-no-play.jpg
 youtube_code: pjinsilX75s
 ---
 
@@ -26,7 +26,7 @@ youtube_code: pjinsilX75s
 
 <center><em>News reports have said that the affordability index is dropping, but what does this mean to you?</em></center>
 
-&nbsp;
+ 
 
 There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have.
 
