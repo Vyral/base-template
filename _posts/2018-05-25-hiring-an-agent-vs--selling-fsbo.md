@@ -25,7 +25,7 @@ Yesterday I reached out to a property owner who had listed theirs as “For Sale
 
 It is not the first time I have been asked this question, so I thought I would give you **a list of some of the people you will encounter while selling your home:**
 
-**1. The buyer’s agent.** This agent solely represents the interests of the buyer. As a seller, you will need a professional in your own corner to represent your best interest.**<br>2. The buyer’s attorney or title company.** In most cases, you have to make sure they have the documents needed to close a transaction on time.**<br>3. Home inspection companies.** These work for the buyer and will almost always find some problems with the house.**<br>4. The buyer’s lender.** You will need to check whether or not the buyer’s finances are credible if they are using financing to purchase your home.**<br>5. An appraiser.**
+**1. The buyer’s agent.** This agent solely represents the interests of the buyer. As a seller, you will need a professional in your own corner to represent your best interest.<br>**<br>2. The buyer’s attorney or title company.** In most cases, you have to make sure they have the documents needed to close a transaction on time.<br>**<br>3. Home inspection companies.** These work for the buyer and will almost always find some problems with the house.<br>**<br>4. The buyer’s lender.** You will need to check whether or not the buyer’s finances are credible if they are using financing to purchase your home.<br>**<br>5. An appraiser.**
 
 {% include pullquote.html %}
 
