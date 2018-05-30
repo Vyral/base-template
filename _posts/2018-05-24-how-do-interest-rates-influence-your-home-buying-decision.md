@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Interest Rates Influence Your Home Buying Decision?
-date: 2018-05-24 19:31:21
+date: 2018-05-24 19:31:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/sprng-market-trends-youtube.jpg
-youtube_code: QSSd8xWgPME
+youtube_code: MHmRKveOoos
 ---
 
 {% include youtube.html %}
