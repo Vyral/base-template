@@ -1,13 +1,14 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	padding-top: $nav-height + 5rem
+	height: 400px
 #hero
 	background-position: center
 	background-size: cover
 	background-attachment: fixed
 	background-repeat: no-repeat
 	text-align: center
+	padding-top: $nav-height + 2.5rem
 
 .site-logo
 	width: 90%
@@ -15,12 +16,12 @@
 	@include filter(drop-shadow($header-shadow))
 
 .site-title
-	color: $header-font-color
-	text-shadow: $header-shadow
-	text-transform: uppercase
-	font-size: 6.5rem
-	padding-bottom: 4rem
+	color: $brand
+	text-align: center
+	font-weight: 400
+	padding-bottom: 2rem
 	margin-bottom: 0
+
 
 @media (max-width: 1100px)
 	.site-title
