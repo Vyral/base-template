@@ -2,9 +2,9 @@
 <div class="cta-sidebar-container">
 	<div class="cta-img-container">
 		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
-	<a href="{{cta.first_CTA_URL}}" target="_blank">
+	<a href="{{cta.first_CTA_URL}}" >
 		{% else %}
-		<a href="{{cta.CTA_url}}" target="_blank">
+		<a href="{{cta.CTA_url}}" >
 		{%endif%}
 		<img src="{{cta.CTA_image_path}}" alt="" />
 	</a>
@@ -15,11 +15,11 @@
 	</p>
 	<div class="ctacontainer">
 		{% if cta.CTA_link_text == null or cta.CTA_url == null%}
-		<a class="ctalink" href="{{site.data.settings.CTAs.first_CTA_URL}}" target="_blank">
+		<a class="ctalink" href="{{site.data.settings.CTAs.first_CTA_URL}}" >
 			{{site.data.settings.CTAs.first_CTA_text}}
 		</a>
 		{% else %}
-		<a class="ctalink" href="{{cta.CTA_url}}" target="_blank">
+		<a class="ctalink" href="{{cta.CTA_url}}" >
 			{{cta.CTA_link_text | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}
@@ -30,9 +30,9 @@
 <div class="cta-sidebar-container">
 	<div class="cta-img-container">
 		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
-	<a href="{{cta.second_CTA_URL}}" target="_blank">
+	<a href="{{cta.second_CTA_URL}}" >
 		{% else %}
-		<a href="{{cta.CTA_url2}}" target="_blank">
+		<a href="{{cta.CTA_url2}}" >
 		{%endif%}
 		<img src="{{cta.CTA_image_path2}}" alt="" />
 	</a>
@@ -43,11 +43,11 @@
 	</p>
 	<div class="ctacontainer">
 		{% if cta.CTA_link_text2 == null or cta.CTA_url2 == null%}
-		<a class="ctalink" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
+		<a class="ctalink" href="{{site.data.settings.CTAs.second_CTA_URL}}" >
 			{{site.data.settings.CTAs.second_CTA_text}}
 		</a>
 		{% else %}
-		<a class="ctalink" href="{{cta.CTA_url2}}" target="_blank">
+		<a class="ctalink" href="{{cta.CTA_url2}}" >
 			{{cta.CTA_link_text2 | replace: '-- MARKET --', site.data.settings.client.market}}
 		</a>
 		{% endif %}

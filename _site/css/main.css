@@ -2780,8 +2780,7 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem;
-  border-radius: 5px; }
+  padding: 0.5rem; }
 form select {
   border: 1px solid #046997;
   padding: 0.5rem;
@@ -2794,8 +2793,7 @@ form select {
     width: 100%;
     border: 1px solid #046997; }
   .home-value fieldset {
-    padding: 1.5rem;
-    border-radius: 5px; }
+    padding: 1.5rem; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
@@ -2804,13 +2802,11 @@ form select {
       border: 3px solid #09adf8; }
 
 .contact-form {
-  width: 100%;
-  margin-bottom: 0; }
+  width: 75%;
+  margin-left: 13%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
+    border: 1px solid gray; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2818,21 +2814,17 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #046997;
-    border-radius: 5px; }
+    border: 3px solid #046997; }
     .contact-form input[type="submit"]:hover {
-      background: white;
-      color: #09adf8;
-      box-shadow: 4px 4px 0 #09adf8;
-      border: 2px solid #09adf8;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #046997;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      background: #fff;
+      color: #046997;
+      border: 1px solid #046997; }
+
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
 
 .newsletter {
   background: #046997;

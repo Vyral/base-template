@@ -29,7 +29,7 @@ client:
 
 CTAs:
   first_CTA_text: Reach Out To Us
-  first_CTA_URL: /contact-us
+  first_CTA_URL: /contact
   # second_CTA_text: Home Search
   # second_CTA_URL: /homesearch/
 
