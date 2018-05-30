@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Homeownership isn’t cheap, but it can be a little less expensive if you avoid
   making these 10 common mistakes.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Unnecessary+Homeownership+Costs.mp4
 pullquote: We don’t need that much water to sustain our lawns.
 enclosure_type: video/mp4
 enclosure_time:
