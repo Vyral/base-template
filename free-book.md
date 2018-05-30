@@ -8,7 +8,8 @@ permalink: /free-book/
 <form class="contact-form" method="post" action="http://formspree.io/{{site.data.settings.client.email}}">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>
-  <!-- <input type="text" name="book" placeholder="Send Me My Free Book!"> -->
+   <input type="text" name="phone" placeholder="Cell Number" required> 
+   <input type="text" name="address" placeholder="Address" required> 
   <!-- Cloud cannon settings field -->
   <div class="hidden">
     <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
