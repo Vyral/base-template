@@ -31,8 +31,6 @@ One major hurdle of getting buyers through closing is guiding them through the d
 
 {% include pullquote.html %}
 
-In our current market, the due diligence period is moreso a period of understanding than of renegotiating price.
-
 Another critical aspect of the closing process that your clients must understand is the importance of getting their finances in order. If their lender reaches out requesting further documentation, your client must respond expediently to make sure the transaction proceeds without any issues. **A lot of paperwork goes into buying or selling a home.**
 
 If your client happens to be someone with a lot to do and a lot of things to manage within their financial portfolio, you may offer to communicate directly with their accountant. Getting their permission to make this contact can facilitate a much more streamlined process overall. Assisting a buyer with the logistics of their purchase is sometimes necessary to achieve a smooth close. Hopefully, all of the tips we’ve shared will help you and your client more successfully work through the buying process.
