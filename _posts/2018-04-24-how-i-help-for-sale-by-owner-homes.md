@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Help For Sale by Owner Homes
-date: 2018-05-30 19:47:00
+date: 2018-05-29 19:47:00
 tags:
   - Home Seller Tips
 excerpt: >-
