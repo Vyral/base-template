@@ -10,7 +10,8 @@ excerpt: >-
   updates for your home which you should consider this year. Starting in the
   kitchen, we tell you what you should and should not change to make your home
   more appealing. To learn more, watch our latest video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Home+Improvements.mp4
 pullquote: >-
   Updates can be done inexpensively if you are able to complete the task without
   paying someone else.
@@ -18,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: VUCCNEaezVc
 ---
 
 {% include youtube.html %}
@@ -39,4 +40,4 @@ You should also consider updating is one that often gets neglected unintentional
 
 The driveway and the sidewalk are great places to improve if you are thinking about selling. **Adding a seal coat to your driveway or sidewalk will make it pop photography.** Or, you could add a new blacktop to make it look very appealing to potential buyers.
 
-If you have any questions or are interested in buying or selling, please feel free to contact us. We would be happy to help in any way that we can.&nbsp;
+If you have any questions or are interested in buying or selling, please feel free to contact us. We would be happy to help in any way that we can.
