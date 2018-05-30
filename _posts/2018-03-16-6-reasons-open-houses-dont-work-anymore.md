@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Reasons Open Houses Don’t Work Anymore
-date: 2018-03-16 16:00:14
+date: 2018-05-29 14:00:14
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike1.jpg
-youtube_code: rhSyKhlQBxc
+youtube_code: us9OzeJXZsM
 ---
 
 {% include youtube.html %}
