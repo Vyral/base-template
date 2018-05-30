@@ -11,8 +11,8 @@ custom_links:
 client:
   name: Scott Fuller
   license_number:
-  about_markdown: >
-    I'm a full time real estate broker with over 13 years experience in the
+  about_markdown: >-
+    I'm a full time real estate broker with over 17 years experience in the
     industry. Consistently ranked in the top 1% for closed sales in the East
     Bay, we specialize in helping homeowners sell their home for the most money
     and in the shortest time. My full service team includes dedicated buyers
@@ -23,8 +23,8 @@ client:
   market:
   brand: The Scott Fuller Team
   brokerage: Keller Williams Realty
-  address: '760 Camino Ramon, Ste. 200 Danville, CA 94526'
-  phone: 925-855-3432
+  address: '2551 San Ramon Valley Blvd. Ste. 220 San Ramon, CA 94583'
+  phone: 925-567-6720
   phone_type:
   phone2:
   phone2_type:
