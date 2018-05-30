@@ -26,7 +26,7 @@ client:
   address: '2551 San Ramon Valley Blvd. Ste. 220 San Ramon, CA 94583'
   phone: 925-567-6720
   phone_type:
-  phone2: 'BRE#01334119'
+  phone2:
   phone2_type:
   email: Scott@TheScottFullerTeam.com
   url: 'http://TheScottFullerTeam.com'
