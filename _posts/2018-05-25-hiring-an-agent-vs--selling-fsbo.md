@@ -31,8 +31,8 @@ It is not the first time I have been asked this question, so I thought I would g
 4. **The buyer’s lender.** You will need to check whether or not the buyer’s finances are credible if they are using financing to purchase your home.
 5. **An appraiser.**
 
-Real estate agents like me are trained and experienced in negotiation, and, in most cases, sellers aren’t. Sellers must realize that their ability to negotiate will determine whether or not they get the best deal for themselves and their families.
-
 {% include pullquote.html %}
+
+Real estate agents like me are trained and experienced in negotiation, and, in most cases, sellers aren’t. Sellers must realize that their ability to negotiate will determine whether or not they get the best deal for themselves and their families.
 
 If you are thinking about selling your home or if you have any questions, feel free to reach out to me. We can get together and discuss all that I can do to make the process easier for you.
