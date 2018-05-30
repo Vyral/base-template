@@ -18,7 +18,7 @@ youtube_code: 5oFjzWidIXs
 
 {% include youtube.html %}
 
-What kind of opportunities can a top real estate team and a top designer/home stager working in tandem offer buyer and sellers? Our head stager, Shanie Weiss joins us today at one of our new listings at 24 Lincoln Street in Demarest, New Jersey to answer that question.
+What kind of opportunities can a top real estate team and a top designer/home stager working in tandem offer buyer and sellers? Our head stager, Shani Weiss joins us today at one of our new listings at 24 Lincoln Street in Demarest, New Jersey to answer that question.
 
 When we work with sellers, we often talk about the benefits of staging a home. More specifically, we talk about how we can take the home back to what made them fall in love with it in the first place. Sometimes this process can be difficult because we have to explain to them what might not work in terms of how to stage and sell their home.
 
@@ -26,7 +26,7 @@ When we work with sellers, we often talk about the benefits of staging a home. M
 
 Once they tell us what they loved about the home when they first bought it, though, we tell them to take a second look around. What they usually see is 20 years’ worth of stuff.
 
-That’s when Shanie steps in. **After our listing appointment, she comes to the house and gives the seller room-by-room consultation**, asking the same question for each room that we asked about the house in general.
+That’s when Shani steps in. **After our listing appointment, she comes to the house and gives the seller room-by-room consultation**, asking the same question for each room that we asked about the house in general.
 
 After that, she offers the seller her advice in terms of how they should declutter, which can be tricky. According to her, this is why it’s much harder to stage a resale home than a new construction home. She always makes sure to reassure the seller that her job isn’t to get rid of their memories. Rather, **it’s to give prospective buyers a visual roadmap about what makes the home beautiful**.
 
