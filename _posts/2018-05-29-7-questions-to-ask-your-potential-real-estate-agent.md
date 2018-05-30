@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Questions to Ask Your Potential Real Estate Agent
-date: 2018-05-29 18:29:54
+date: 2018-05-29 18:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-questions-youtube.jpg
-youtube_code: QSvhHOB9Fy8
+youtube_code: UHDG9HXYyuQ
 ---
 
 {% include youtube.html %}
 
-A popular question for us here at Expert Home Advisors is, “How do I pick the best real estate agent to sell my home?” Today we will give you seven questions you should ask when interviewing a real estate agent to help you answer this question. &nbsp;
+A popular question for us here at Expert Home Advisors is, “How do I pick the best real estate agent to sell my home?” Today we will give you seven questions you should ask when interviewing a real estate agent to help you answer this question.  
 
 **Did you know that 20% of real estate professionals in Jacksonville sell approximately 90% of the homes on the market?** This fact brings up many of the questions you should be asking.
 
@@ -29,7 +29,7 @@ A popular question for us here at Expert Home Advisors is, “How do I pick the 
 
 **2) What is your average list-to-sale price ratio and what is your average days on market?** In Jacksonville, many agents only sell about six homes per year. If an agent is only selling one or two homes a quarter, how can you trust the agent’s judgment of what it's going to take to sell your home? We find many homes sell for about 90% of asking price to offer price. Our ratio, meanwhile, is as high as 105%. It is very important that you pick the right agency to get you the most amount of money.
 
-**3) What is your best marketing plan or strategy to get my home sold?** &nbsp;Not all agents are the same, so you want to find out what their marketing strategy is to get your home sold for the fastest, most amount of money in your pocket.
+**3) What is your best marketing plan or strategy to get my home sold?**  Not all agents are the same, so you want to find out what their marketing strategy is to get your home sold for the fastest, most amount of money in your pocket.
 
 **4) What are the top three things that separate you from the other real estate agents?** We have a direct response team that outbound markets and makes 900 to 1,200 phone calls a day. We work a database of over 25,000 buyers to try to get your home sold. We have fully staffed support services for staging photography, 3-D tour, and any other services that you need. We also have a full-time transaction manager including vendors that we can pull from for anything that your home needs.
 
