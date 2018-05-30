@@ -21,7 +21,7 @@ youtube_code: FlXDXZkh8Uo
 
 {% include youtube.html %}
 
-Should sellers always accept the highest and best when faced with a multiple offer situation?
+Should sellers always accept the highest and best offer when faced with a multiple offer situation?
 
 Not necessarily. There are a few additional factors sellers should consider when choosing an offer.
 
