@@ -24,7 +24,7 @@ youtube_code: pjinsilX75s
 
 {% include youtube.html %}
 
-News reports have said that the affordability index is dropping, but what does this mean to you?
+<center>News reports have said that the affordability index is dropping, but what does this mean to you?</center>
 
 There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have. &nbsp;
 
