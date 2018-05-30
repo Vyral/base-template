@@ -24,9 +24,11 @@ youtube_code: pjinsilX75s
 
 {% include youtube.html %}
 
-<center>News reports have said that the affordability index is dropping, but what does this mean to you?</center>
+<center><em>News reports have said that the affordability index is dropping, but what does this mean to you?</em></center>
 
-There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have. &nbsp;
+&nbsp;
+
+There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have.
 
 You may have heard that the affordability index is dropping. The affordability index is a number which is measured by mortgage rates, interest rates, and pricing. **The news has reported that this index has dropped by about 5%**.
 
