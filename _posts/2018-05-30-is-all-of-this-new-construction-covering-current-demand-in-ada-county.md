@@ -27,15 +27,15 @@ Currently, **the average new construction price in Ada County is an impressive $
 
 Under $150,000, there were three homes sold in Ada County in the last 12 months.
 
-Under the $200,000 range, there is only one active listing, which has most likely not even been built yet. Looking at supply, there is less than half a months’ supply available. We are in a firm seller’s market. In fact, for new construction, that seller’s market goes all the way to the $800,000 price range.
+Under the $200,000 range, there is only one active listing, which has most likely not even been built yet. Looking at supply, there is less than half a month's supply available. We are in a firm seller’s market. In fact, for new construction, that seller’s market goes all the way to the $800,000 price range.
 
-**Builders are controlling things**. But, they also have a lot of pressure from landowners, developers, contractors, suppliers, etc. which is driving up prices. Also, with the low inventory, they can afford to do that, which you can see from the numbers.
+**Builders are controlling things**. But, they also have a lot of pressure from landowners, developers, contractors, suppliers, etc, which is driving up prices. Also, with the low inventory, they can afford to do that, which you can see from the numbers.
 
 {% include pullquote.html %}
 
 From $300,00 to $350,000 there were 488 homes sold while at the $350,000 to $400,00 range there were 451 homes sold in the last 12 months. Over 600 homes were sold in the $400,000 to $500,000 price range.
 
-And, they still cannot keep up with demand. If they were, the inventory numbers would be showing four to six months’ inventory. Builders want to build more home and buyers would benefit greatly from it because it would take the pressure of the pricing.
+And, they still cannot keep up with demand. If they were, the inventory numbers would be showing four to six month's inventory. Builders want to build more homes and buyers would benefit greatly from it because it would take the pressure of the pricing.
 
 Where it gets really interesting with new construction is the original price versus sold price. The ratios are continually over 100% which means that the original price that the builders are asking is less than what the property ends up being sold for because of buyers adding in upgrades. They are adding granite and hardwood floors instead of laminate and linoleum. They may also be adding in closing costs. This is very common because the advertised price for a new construction home is typically not what you end up paying. The buyers are adding the costs to their mortgage since they can get a mortgage at a still historically low rate.
 
