@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What does ‘escrow’ mean? Today I will define it and discuss how it is used in
   real estate.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/James+Duffer/Hill+Harbor+Group+with+James+Duffer+-+What+Is+Escrow%253F.mp4
 pullquote: >-
   Escrow accounts are held by third-party entities that are separate from both
   the buyer and seller.
