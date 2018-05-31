@@ -24,21 +24,21 @@ youtube_code: zwHLmGTKkLo
 
 How can you use technology to automate retirement saving for your employees? **Allow me to introduce you to “Auto to the 5th Power.”** This fiduciary tool is bound to make your life, and your employees’ lives, easier.
 
-Auto to the 5th Power refers to five automatic plan features that can be used to improve plan health. A healthy plan is one that has high employee participation rates, high savings rates, and has good investment allocations—all while providing protection to you as a plan sponsor.
+Auto to the 5th Power refers to five automatic plan features that can be used to improve retirement plan health. A healthy plan is one that has high employee participation rates, high savings rates, and has good investment allocations—all while providing protection to you as a plan sponsor.
 
 Today I would like to introduce you to two of these plan features, explain why they are so beneficial, and discuss how you can put them to use.
 
-**The first feature is automatic enrollment.** If you are not using automatic enrollment, you are missing out on one of the easiest ways to improve your plan help. Rather than chasing after your employees, handing out enrollment booklets or forms, and crossing your fingers in hopes they will sign up, this feature allows you another option.
+**The first feature is automatic enrollment.** If you are not using automatic enrollment, you are missing out on one of the easiest ways to improve your plan help. Rather than chasing after your employees, handing out enrollment booklets or forms, and crossing your fingers in the hope that they will sign up, this feature allows you another option.
 
 With automatic enrollment, all you need to do is send out a 30-day notice to your employees letting them know that they will be automatically enrolled in the plan at a chosen rate. If your employer match right now is 50% on-the-dollar up to 6% of pay, you might want to set your contribution rate at 6%. However, the government will allow you to set the rate as low as 3% if you are concerned about your employees’ reaction. But, truthfully, **my team always encourages plan sponsors to set the rate at whatever their match is**, since the goal is to eventually get your employees saving around 10% of their income each year.
 
-The key to automatic enrollment is the 30-day notice period. This period will ensure that you are covered under the Pension Protection Act (the PPA), because employees due have the ability to opt out during these 30 days.
+The key to automatic enrollment is the 30-day notice period. This period will ensure that you are covered under the Pension Protection Act (the PPA), because employees do have the ability to opt out during these 30 days.
 
-There have been many different studies done that prove the effectiveness of automatic enrollment. In fact, a recent study conducted by Vanguard showing that companies are averaging over 91% employee participation rates when they utilize automatic enrollment.
+There have been many different studies done that prove the effectiveness of automatic enrollment. In fact, a recent study conducted by Vanguard shows that companies are averaging over 91% employee participation rates when they utilize automatic enrollment.
 
 {% include pullquote.html %}
 
-**The second automatic feature I want to discuss today is automatic QDIA.** QDIA stands for qualified default investment alternative, and this feature helps employees avoid getting overwhelmed from trying to make investment decisions on their own. Under the PPA, you can automatically enroll people into this option. A QDIA will typically be a risk-based or target-date fund that based on the employees’ age. It provides them with professional management and also gives them greater diversification on their investments.
+**The second automatic feature I want to discuss today is automatic QDIA.** QDIA stands for qualified default investment alternative, and this feature helps employees avoid getting overwhelmed from trying to make investment decisions on their own. Under the PPA, you can automatically enroll people into this option. A QDIA will typically be a risk-based or target-date fund that's based on the employees’ age. It provides them with professional management and also gives them greater diversification on their investments.
 
 Like the first feature we discussed, the key to the QDIA is giving employees notice. You must let your participants know that if they do not make an investment election, you are going to make it for them. Providing you’ve done your due diligence in monitoring and selecting the investment option, you will be protected under the PPA.
 
