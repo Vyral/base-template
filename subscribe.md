@@ -61,7 +61,7 @@ permalink: /subscribe/
 
 <p>You are also welcome to subscribe to our Agent Training Podcast on iTunes and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 
-<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:careers@spaniakteam.com">careers@spaniakteam.com</a> </p>
+<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:Kati@SpaniakTeam.com">Kati@SpaniakTeam.com</a> </p>
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
