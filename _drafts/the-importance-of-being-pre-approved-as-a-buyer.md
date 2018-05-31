@@ -23,7 +23,7 @@ youtube_code: 42zJLQ1IMU0
 
 {% include youtube.html %}
 
-When it comes to approaching today’s competitive market with confidence, having a pre-approval in hand is a home buying must.
+<center>When it comes to approaching today’s competitive market with confidence, having a pre-approval in hand is a home buying must.</center>
 
 There is no doubt about it:
 
