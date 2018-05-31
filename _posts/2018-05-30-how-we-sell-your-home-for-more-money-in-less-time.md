@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How We Sell Your Home For More Money in Less Time
-date: 2018-05-30 16:41:23
+title: How We Sell Your Home for More Money in Less Time
+date: 2018-05-30 16:41:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -28,4 +28,4 @@ Today I want to highlight the process that we use to list your home in order to 
 
 **4. We’ll price your home.** All the previous points do contribute to the identification of the market sweet spot, or the price where you are most likely to sell your home for the most money in the shortest amount of time.<br><br>**5. We’ll market your home.** One of the biggest and most effective tools we have for marketing is the MLS, which alerts all the agents in the area that your home is on the market, and also feeds into hundreds of websites that people access when looking for homes. We also have customized tools that allow us to find the best targets to market your home to in terms of mailers, Facebook ads, and other assorted media.<br><br>**6. We’re there for the negotiation.** We will review the offers that you receive and look at the terms, who is doing the financing for each one, and show you the pros and cons that each has. That way, you can make an educated decision about which one to accept.
 
-If you have any questions for me, please feel free to reach out. I would love to go into more detail about how we can get the most money for your home in the shortest amount of time.<br>&nbsp;
+If you have any questions for me, please feel free to reach out. I would love to go into more detail about how we can get the most money for your home in the shortest amount of time.<br>
