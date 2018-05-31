@@ -1,19 +1,21 @@
 ---
 layout: post
 title: How We Help Our Customers Sell Their Home by Knowing the Market
-date:
+date: 2018-05-31 00:00:00
 tags:
-excerpt:
+  - Real Estate
+  - Testimonials
+excerpt: I feel like the guidelines and strategy he gave us were really helpful.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/eric-mortimer-logo.png
 youtube_code:
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451917354&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451917354&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
 "How do you feel now that your house is sold?<br>Relieved. We have a new place to move into and we can pay for it.
 
