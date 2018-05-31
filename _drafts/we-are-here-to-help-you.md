@@ -21,7 +21,7 @@ youtube_code: 7h2RS9k4lo0
 
 {% include youtube.html %}
 
-We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.
+<p style="text-align: center;"><em>We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.</em></p>
 
 Today we’re branching out from our usual content. We think it’s important to reach out to small business owners and some of the people we’ve worked with over the years.
 
