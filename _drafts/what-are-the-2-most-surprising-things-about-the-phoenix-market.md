@@ -20,7 +20,7 @@ youtube_code: 8Jv6W5mNWS0
 
 {% include youtube.html %}
 
-I’ve taken a look at the latest real estate numbers. Here are two of the most surprising things I uncovered about our market.
+<center>I’ve taken a look at the latest real estate numbers. Here are two of the most surprising things I uncovered about our market.</center>
 
 I’ve been keeping tabs on the Phoenix real estate market, and today I wanted to let you know about a few surprising facts I’ve come to learn.
 
