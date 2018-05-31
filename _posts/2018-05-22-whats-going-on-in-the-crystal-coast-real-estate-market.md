@@ -19,6 +19,8 @@ youtube_code: xCPJkTrSFHk
 
 {% include youtube.html %}
 
+> **You can see the complete Crystal Coast 2018 1st Quarter Real Estate Market Results and our Charts by clicking this link:[ StarTeamRealEstateReport.com](StarTeamRealEstateReport.com)**
+
 Here on the Crystal Coast, spring is one of the hottest seasons in real estate to list your home to sell. And spring 2018 is shaping up to be important for someone looking to sell. Here are a few points I’d like you to consider:
 
 **1. Demand continues to outstrip our supply here in the Crystal Coast.**
@@ -53,4 +55,10 @@ I**t's not entirely clear how it will affect the real estate market, but odds ar
 
 To sum up, if you have been thinking about selling your home, consider selling now. The current market is very favorable, but it won’t last forever.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+Here's how to get started. You can get a quick estimate of the current value of your home, based on recent&nbsp; sales:
+
+[Enter your address here to find out what your home is worth](https://info.searchhomesonthecarolinacoast.com/homevalue/crystalcoastbluewater)
+
+And if you want a more detailed estimate, or you want to get the ball rolling on selling your home while this boom lasts, give me a call at 252-422-2205. I'm here to help.
+
+**You can see the complete Crystal Coast 2018 1st Quarter Real Estate Market Results and our Charts by clicking this link:[ StarTeamRealEstateReport.com](StarTeamRealEstateReport.com)**
