@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/don-may2018-2.jpg
-youtube_code:
+youtube_code: gUP0FBN9WnY
 ---
 
 {{ include youtube.html }}
