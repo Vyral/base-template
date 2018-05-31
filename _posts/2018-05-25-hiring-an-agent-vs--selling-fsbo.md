@@ -8,7 +8,8 @@ excerpt: >-
   If you are thinking of selling your home without an agent’s help, you might
   want to reconsider. Success is determined by negotiation skills, which agents
   have.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tony+Verdi/Tony+Verdi+Sells+Houses-+Hiring+an+Agent+vs.+Selling+FSBO.mp4
 pullquote: >-
   Sellers must realize that their ability to negotiate will determine whether or
   not they get the best deal for themselves and their families.
