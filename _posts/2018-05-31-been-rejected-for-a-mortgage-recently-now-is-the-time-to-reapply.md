@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Been Rejected for a Mortgage Recently? Now Is the Time to Reapply
-date: 2018-05-31 14:53:06
+date: 2018-05-31 14:53:00
 tags:
+  - Market Update
 excerpt: >-
   Have you been rejected for a mortgage in the recent past? It might be a good
   idea to reapply—here is why.
@@ -31,5 +32,3 @@ This will make your qualification rate 4.4% or 4.5% versus a five-year benchmark
 For example, Scotiabank is really good for qualifying non-resident and new immigrant programs, while National Bank is good if you already own a home and are thinking about upgrading.
 
 If you have any other mortgage questions, I know several experts I would be glad to refer you to. If you have any other real estate needs, please feel free to reach out to me. I would be glad to help you.
-
-&nbsp;
