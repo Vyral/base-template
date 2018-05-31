@@ -4,8 +4,7 @@ title: How We Help Our Customers Sell Their Home by Knowing the Market
 date: 2018-05-31 00:00:00
 tags:
   - Real Estate
-  - Testimonials
-excerpt: I feel like the guidelines and strategy he gave us were really helpful.
+excerpt: '"I feel like the guidelines and strategy he gave us were really helpful."'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
