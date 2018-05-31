@@ -16,10 +16,12 @@ youtube_code:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451917354&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-"How do you feel now that your house is sold?<br>Relieved. We have a new place to move into and we can pay for it.
+&nbsp;
 
-How did Eric get the most our of your home sale?<br>He had a strategy and knew what the market was. It was priced just right.
+"**How do you feel now that your house is sold?**<br>Relieved. We have a new place to move into and we can pay for it.
 
-How did Eric's team go above and beyond the home sale process?<br>He was in constant contact with us and gave us lots and lots of feedback.
+**How did Eric get the most our of your home sale?**<br>He had a strategy and knew what the market was. It was priced just right.
 
-Do you have any additional comments you'd like to share?<br>I feel like the guidelines and strategy he gave us were really helpful."
+**How did Eric's team go above and beyond the home sale process?**<br>He was in constant contact with us and gave us lots and lots of feedback.
+
+**Do you have any additional comments you'd like to share?**<br>I feel like the guidelines and strategy he gave us were really helpful."
