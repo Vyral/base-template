@@ -6,6 +6,15 @@ layout: default
 
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451823292&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">
+"They were really friendly, worked fast and helped me out with everything. I was a first-time homebuyer and it worked out really well. He worked around my weird work schedule multiple times. I had a very bizarre work schedule at the time. He was very accommodating to that whenever we wanted to look at a place."
+</p>
+<p class="testimonial-author">
+-Skyler F.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/442199106&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">
 "Our agent Dane Hill, he's one of the best. I've known Dane for a long time. He was really helpful. He searched out homes that would fit kind of what we were looking for. He just made everything really easy. We looked for a few months kind off and on and then we got pretty serious about it and we were looking at homes probably a couple times a week. Just when we put down an offer on the house that we got he made sure that all the paperwork was right that all the wording and everything was right to put us in a place to have success and get the house. He was just really diligent and creative in the paperwork and things like that to get us all set so he did awesome."
