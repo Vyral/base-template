@@ -83,10 +83,10 @@ Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.setting
 
 <h2 class="recruiting">Request a Free Business Planning Call</h2>
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="http://formspree.io/kati@spaniakteam.com" onsubmit="return setReturn()">
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
 						<!--base32-64rg-base32--><label for="city">City </label> <input type="text" name="city" /> <label for="state">State </label> <input type="text" name="state" /> <label for="employer">Current Employer </label> <input type="text" name="employer" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
 						<!--base32-41tqarkdd5u2280-base32--><input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
 					<!--base32-411prvvncgg66rbedtqpw83kcnu78ubecxtj0tk9cnp6880-base32-->
-					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
+					<div class="hidden"><input type="hidden" value="kati@spaniakteam.com" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
