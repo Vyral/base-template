@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Times They Are A-Changin’ in Our Market
-date: 2018-05-25 19:28:03
+date: 2018-05-25 19:28:00
 tags:
 excerpt: >-
   We’re starting to see more and more inventory in Hoboken and downtown Jersey
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/riolo-youtube-3-1.jpg
-youtube_code: kcmHSkAYSmU
+youtube_code: 0mTLZ46E0j4
 ---
 
 {% include youtube.html %}
