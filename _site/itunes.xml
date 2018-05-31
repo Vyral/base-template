@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with 1000 Calls A Day</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://1000callsaday.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://1000callsaday.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 1000 Calls A Day - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>1000 Calls A Day</managingEditor>
-    <lastBuildDate>2018-05-29 13:45:41 -0500</lastBuildDate>
+    <lastBuildDate>2018-05-31 16:15:12 -0500</lastBuildDate>
     <media:copyright>1000 Calls A Day</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://1000callsaday.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,50 @@
     </itunes:owner>
     <itunes:author>1000 Calls A Day</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://1000callsaday.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from 1000 Calls A Day - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Want to Maximize Your ROI With Us? You Must Have These 5 Things</title>
+        <link>http://1000callsaday.com/want-to-maximize-your-roi-with-us-you-must-have-these-5-things.html</link>
+        
+        <author>1000 Calls A Day</author>
+        <pubDate>2018-05-31 13:53:11 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+5+Things+You+Must+Have.mp4</guid>
+        <description>
+
+There are five things you must have in place before you hire 1000 Calls A Day in order to maximize your return on interest (or ROI). So, without further ado, let’s take a look at these important prerequisites. 
+
+1. You must have a team of people. It will be very difficult for a single agent, a single salesperson, or a small business owner to achieve a high level of ROI with us. This is because we are going to bombard you with leads. The average Realtor we work with gets about 40 to 50 pre-qualified leads per month. On top of all the other things you are responsible for as a professional, handling these leads would be very difficult to do alone. If you do not have a strong team of people to help you handle the resources we provide you with, you may become overwhelmed by the high volume of leads. 
+
+2. You must have a designated lead follow-up person. Allocating someone within your team to this role can make the process of dealing with leads much more efficient. It is important to task someone with handling leads as they come in, correctly placing them into your CRM, setting appointments on behalf of you and your team members, and putting leads within the appropriate nurture sequence if they aren’t ready to do business right away.
+
+“Those willing to invest in us long-term will see amazing results as time goes on.”
+
+3. You must have a CRM. Tracking the leads we send you will be critical. You must be able to organize them in a system that will tell you when to follow up, where the lead is in the sales cycle, and more. 
+
+4. You must have automation. CRMs are great, but to maximize your ROI when working with us you will also need to be sending out automated forms of contact. Things like automated email and automated texts present an opportunity to share something of value with your leads. This helps you connect with your leads. Additionally, it shows them that you are knowledgeable and worth working with. Mailers are another method of automated lead follow-up you may employ. Though, not everyone pursues this option these days and should be done less frequently than other forms of contact.
+
+5. You must have (at least) a 12-month marketing budget. We have clients who are fortunate enough to make great deals in their first couple months of working with us that result in sufficient funds to pay outbound prospecting expenses for the rest of the year. Most people, however, should expect to break even for the first six month to 12 months. It is important to realize, though, that those willing to invest in us long-term will see amazing results as time goes on. 
+
+If you have any other questions, would like more information, or are interested in working with us, feel free to give us a call, send us an email, or visit our website: www.1000CallsADay.com. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+5+Things+You+Must+Have.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+5+Things+You+Must+Have.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What five things should people have before working with us if they hope to maximize their ROI? Today we will discuss these critical prerequisites.</itunes:subtitle>
+        <itunes:author>1000 Calls A Day</itunes:author>
+        <itunes:summary>What five things should people have before working with us if they hope to maximize their ROI? Today we will discuss these critical prerequisites.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>2 Ways To Improve Your Campaign</title>
-        <link>localhost:4000/2-ways-to-improve-your-campaign.html</link>
+        <link>http://1000callsaday.com/2-ways-to-improve-your-campaign.html</link>
         
           <category>Prospecting calls</category>
         
@@ -50,7 +85,7 @@ The second thing you need to know is that a nurture campaign is essential. Once 
 If you’re curious about what a great nurture campaign looks like, we have one that we can send on over to you. If you want a copy or if you have any other questions for us, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+2+Ways+To+Improve+Your+Campaign.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+2+Ways+To+Improve+Your+Campaign.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -69,7 +104,7 @@ What gives our clients the best results? Here are a few of the common denominato
       
       <item>
         <title>What Does Our Startup Process Look Like?</title>
-        <link>localhost:4000/how-we-hire-va-assistants.html</link>
+        <link>http://1000callsaday.com/how-we-hire-va-assistants.html</link>
         
           <category>1000CallsADay</category>
         
@@ -103,7 +138,7 @@ The reason our process is so detail-oriented is that we want to hire the right t
 If you have any questions for us or want to learn a little more about what we do, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+hire+VA+assistants.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+hire+VA+assistants.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -122,7 +157,7 @@ Our startup and hiring processes are detailed for a few reasons. Here they are.
       
       <item>
         <title>Why Hire 1000 Calls a Day Instead of a VA Caller?</title>
-        <link>localhost:4000/the-advantages-of-hiring-us.html</link>
+        <link>http://1000callsaday.com/the-advantages-of-hiring-us.html</link>
         
           <category>1000CallsADay</category>
         
@@ -152,7 +187,7 @@ Our goal is to get you 40 to 50 pre-qualified leads on a monthly basis so you ca
 If you have any further questions about how we can put an outbound prospecting campaign in place an help you grow your business, don’t hesitate to reach out to us. We’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+The+advantages+of+hiring+us.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+The+advantages+of+hiring+us.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -171,7 +206,7 @@ All of the advantages you get from hiring us instead of a VA caller add up to yo
       
       <item>
         <title>Where Do We Get Our List to Call?</title>
-        <link>localhost:4000/where-do-we-get-our-list-to-call.html</link>
+        <link>http://1000callsaday.com/where-do-we-get-our-list-to-call.html</link>
         
           <category>1000CallsADay</category>
         
@@ -201,7 +236,7 @@ We want to pick up calling where other agents have stopped. After that point we�
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -220,7 +255,7 @@ A common question clients ask me is: Where do we get our list to call? There are
       
       <item>
         <title>How We Keep Remote Employees Accountable </title>
-        <link>localhost:4000/how-we-keep-remote-employees-accountable.html</link>
+        <link>http://1000callsaday.com/how-we-keep-remote-employees-accountable.html</link>
         
           <category>1000CallsADay</category>
         
@@ -248,7 +283,7 @@ Sometimes, a large-scale event like a typhoon or earthquake can make VAs unavail
 That’s how we keep everyone accountable at 1000 Calls A Day. If you have any other questions or would like to learn more about 1000 Calls A Day, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Keeping+remote+employees+accountable.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Keeping+remote+employees+accountable.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -267,7 +302,7 @@ Here at 1000 Calls A Day, how do we keep our remote employees accountable?
       
       <item>
         <title>The Best Ways to Create Predictable Revenue</title>
-        <link>localhost:4000/the-best-ways-to-create-predictable.html</link>
+        <link>http://1000callsaday.com/the-best-ways-to-create-predictable.html</link>
         
           <category>1000CallsADay</category>
         
@@ -303,7 +338,7 @@ Ultimately, systematizing your sales process will give you more time to do what 
 If you have any questions or would like to learn more about 1000 Calls A Day, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Creating+predictable+revenue.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Creating+predictable+revenue.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -322,7 +357,7 @@ What is the best way to build predictable revenue? According to one of my favori
       
       <item>
         <title>Whats the Difference Between a VA and an ISA?</title>
-        <link>localhost:4000/whats-difference-between-va-and-isa.html</link>
+        <link>http://1000callsaday.com/whats-difference-between-va-and-isa.html</link>
         
           <category>Virtual Assistants vs. ISAs</category>
         
@@ -356,7 +391,7 @@ The ISA’s job is to build rapport. They spend more time with your leads than a
 If you have any other questions or would like to learn more about 1000 Calls A Day, just give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -375,7 +410,7 @@ What’s the difference between a VA and an ISA? Can’t one person handle both 
       
       <item>
         <title>Only the Best Virtual Assistants Work With Our Clients</title>
-        <link>localhost:4000/only-best-virtual-assistants-work-with.html</link>
+        <link>http://1000callsaday.com/only-best-virtual-assistants-work-with.html</link>
         
           <category>1000CallsADay</category>
         
@@ -403,7 +438,7 @@ We truly only take the best applicants to work for our clients.
 To learn more about how to grow your business, or if you have any questions, feel free to give us a call or email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+choose+the+best+for+you.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+How+we+choose+the+best+for+you.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -422,7 +457,7 @@ We put our virtual assistants through rigorous screening to ensure that we only 
       
       <item>
         <title>How Do We Define Success at 1000 Calls A Day?</title>
-        <link>localhost:4000/how-do-we-define-success-at-1000-calls.html</link>
+        <link>http://1000callsaday.com/how-do-we-define-success-at-1000-calls.html</link>
         
           <category>Defining Success</category>
         
@@ -444,7 +479,7 @@ One of the surest ways our clients can see ROI is to add additional VAs to your 
 We also make sure we keep our VAs extremely happy, but we’ll go into more detail on that later. In the meantime, if you have any questions, please don’t hesitate to reach out to me. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Measuring+success+at+1000+CAD.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Measuring+success+at+1000+CAD.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -463,7 +498,7 @@ How do we measure success at 1000 Calls A Day?
       
       <item>
         <title>What Happens After Your VA Identifies a Lead?</title>
-        <link>localhost:4000/what-happens-after-your-va-identifies.html</link>
+        <link>http://1000callsaday.com/what-happens-after-your-va-identifies.html</link>
         
           <category>1000CallsADay</category>
         
@@ -489,7 +524,7 @@ So, after your VA identifies a lead, you will get an immediate notification, the
 If you have any other questions about this process or if you would like to learn more about 1000 Calls A Day, please don’t hesitate to reach out to me. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+What+happens+after+your+VA+finds+a+lead.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+What+happens+after+your+VA+finds+a+lead.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -508,7 +543,7 @@ What happens when your virtual assistant identifies an opportunity or a lead for
       
       <item>
         <title>Are You Investing in Quality Data?</title>
-        <link>localhost:4000/are-you-investing-in-quality-data.html</link>
+        <link>http://1000callsaday.com/are-you-investing-in-quality-data.html</link>
         
           <category>Quality Data</category>
         
@@ -538,7 +573,7 @@ Ultimately, circle prospecting and cold calling are great techniques to build yo
 If you have any questions about where to get quality data, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Fast-track+your+short-term+business+results.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Fast-track+your+short-term+business+results.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -557,7 +592,7 @@ Are you investing in quality data? I cannot encourage you to do this enough.
       
       <item>
         <title>How We Track Time Management at 1000CAD</title>
-        <link>localhost:4000/how-we-track-time-management-at-1000cad.html</link>
+        <link>http://1000callsaday.com/how-we-track-time-management-at-1000cad.html</link>
         
           <category>Time Management</category>
         
@@ -581,7 +616,7 @@ Of course, sometimes VAs are simply MIA. If we cannot get ahold of them once, th
 If you have any questions or would like to learn more about 1000CAD, register here or reach out to me with any questions you may have. I look forward to hearing from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://1000callsaday.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
