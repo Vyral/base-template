@@ -22,7 +22,7 @@ youtube_code: Wae6YeOyaQk
 
 **People always ask me, “Should I wait to buy real estate?”**
 
-There are a number of variations of this question that I hear all the time, including: &nbsp;“Should I wait until the market improves?” and “Should I wait until interest rates get better?”
+There are a number of variations of this question that I hear all the time, including:  “Should I wait until the market improves?” and “Should I wait until interest rates get better?”
 
 I most often get these questions when I’m out showing properties to buyers. And the same thing happens time and time again. Buyers are struck with analysis paralysis. They find a home they love only to become nervous about how market conditions may impact their purchase.
 
