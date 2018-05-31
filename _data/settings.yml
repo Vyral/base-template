@@ -29,12 +29,12 @@ client:
   market: Chicago
   brand: Real Estate Grit
   brokerage: Keller Williams Chicago O'Hare
-  address: '8750 W. Bryn Mawr,<br>Chicago, IL 60631'
+  address: '8750 W. Bryn Mawr Ave.<br>Chicago, IL 60631'
   phone: 847-379-8813
   phone_type:
   phone2:
   phone2_type:
-  email: careers@spaniakteam.com
+  email: Kati@SpaniakTeam.com
   url: 'https://www.SpaniakTeam.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/006.jpg
