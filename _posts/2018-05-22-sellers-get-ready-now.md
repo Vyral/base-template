@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What's Going on in the Crystal Coast Real Estate Market?
-date: 2018-05-22 16:19:21
+title: 'Sellers, Get Ready Now!'
+date: 2018-05-22 16:19:00
 tags:
   - Market Update
 excerpt: Spring 2018 Crystal Coast market update
