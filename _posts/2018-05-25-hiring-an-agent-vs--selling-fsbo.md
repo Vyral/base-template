@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tony-verdi-fsbo-why-use-an-agent-youtube.jpg
+youtube_alternate_image: /uploads/tony-verdi-hiring-an-agent-youtube.jpg
 youtube_code: 'https://youtu.be/2Ld_fUDABI0'
 ---
 
