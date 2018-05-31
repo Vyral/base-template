@@ -22,7 +22,7 @@ Dear Real Estate Agent:
 
 I understand that you may be working at a brokerage or are a newer agent just recently getting started. **Perhaps you’ve been in the industry for a couple of years and have been successful thus far, but you find yourself lacking the kind of consistency, income, and support you desire.**
 
-For some people, this can be painful. In fact, a lack of sufficient training, education, and business leads to many agents leaving the industry altogether. **Studies show that nine out of &nbsp;every 10 agents leaves real estate within the first five years of getting their license.**
+For some people, this can be painful. In fact, a lack of sufficient training, education, and business leads to many agents leaving the industry altogether. **Studies show that nine out of every 10 agents leaves real estate within the first five years of getting their license.**
 
 Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support.
 
@@ -45,7 +45,7 @@ No other team on the North Shore is able to provide for their agents at the leve
 * Consistent income
 * Opportunities for personal and career growth
 
-Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. **We are available to prospects and clients 7 days a week,
+Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. **We are available to prospects and clients 7 days a week
 because we are truly a full-time business.**
 
 We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. The buyer agent number that is found on all our signage sends calls directly to all the agents in our office. And this is just one of the many ways we generate leads. **We also utilize, pay-per-click advertising, Zillow and social media, and we have a high-quality CRM.**
@@ -54,7 +54,7 @@ On top of access to our systems, agents also gain immediate credibility when the
 
 In short, you could continue at your current pace — making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. **You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun.** Or, you could take the first step on the road to success and join my team.
 
-From day one, you’ll get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues.
+From day one, you’ll get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week, you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues.
 
 The onboarding process will include:
 
@@ -77,7 +77,7 @@ Now is the time to turn around your life and career. If you are a motivated indi
 
 I look forward to talking with you soon.
 
-Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[careers@spaniakteam.com](mailto:careers@spaniakteam.com)<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
+Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[Kati@SpaniakTeam.com](mailto:Kati@SpaniakTeam.com)<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
 
 </div>
 
