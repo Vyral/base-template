@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Here to Help You
-date:
+date: 2018-05-31 16:29:41
 tags:
   - Real Estate
 excerpt: >-
@@ -21,14 +21,14 @@ youtube_code: 7h2RS9k4lo0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.</em></p>
+*We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.*
 
 Today we’re branching out from our usual content. We think it’s important to reach out to small business owners and some of the people we’ve worked with over the years.
 
-Here at the office, we’ve worked hard to compile a list of past clients and trusted vendors we’ve worked with who we know will do a great job for our clients to come. We’re constantly connecting people, whether it be for landscaping, home improvement, plumbing, electricians, and more.<br>&nbsp;
+Here at the office, we’ve worked hard to compile a list of past clients and trusted vendors we’ve worked with who we know will do a great job for our clients to come. We’re constantly connecting people, whether it be for landscaping, home improvement, plumbing, electricians, and more.<br> 
 
 {% include pullquote.html %}
 
 **We wanted to make sure that you knew that we have resources that you can trust** if you or anyone you know needs a local referral. They’ll take care of you the same way I would if you were selling your home with us.
 
-If you need anything or have any questions, feel free to reach out. I’m here for you.<br>&nbsp;
+If you need anything or have any questions, feel free to reach out. I’m here for you.<br>
