@@ -21,7 +21,7 @@ youtube_code: v8RQo0Y2nd4
 
 {% include youtube.html %}
 
-How can you best position your home to generate multiple offers in our hot seller’s market? Over the past year, I have sold around 65 homes, and here are a few tips I use with the home sellers I work with that are proven to attract multiple offers.
+How can you best position your home to generate multiple offers in our hot seller’s market? I have sold around 65 homes over the past year using a few key tips. These tips have been proven to attract multiple offers, so allow me to share them with you today.
 
 First, **take your time getting your home ready for the market.** Don’t be in a rush to list your home—make sure everything about it that needs to be touched up is touched up before photos are taken and before any buyers walk into the house.
 
