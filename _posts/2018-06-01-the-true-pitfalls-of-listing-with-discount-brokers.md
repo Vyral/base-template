@@ -5,7 +5,6 @@ date: 2018-06-01 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-  - Home Selling
 excerpt: >-
   What does working with a discount broker truly cost sellers? Today let’s take
   an in-depth look at this listing mistake.
@@ -19,14 +18,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-june-2-ss-no-play.jpg
-youtube_code:
+youtube_code: bb2nLhSnCos
 ---
 
 {% include youtube.html %}
 
 <center><em>What does working with a discount broker truly cost sellers? Today let&rsquo;s take an in-depth look at this listing mistake.</em></center>
 
-&nbsp;
+ 
 
 When it comes time to list, some sellers may be tempted to work with companies or agents offering discounted services. Paying less may sound attractive, but working with these companies (or agents) can cost sellers far more than it saves them.
 
