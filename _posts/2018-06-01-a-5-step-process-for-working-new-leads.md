@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/patrick-o-sullivan-5steps.jpg
-youtube_code:
+youtube_code: 'https://youtu.be/eRpzs3-bJoQ'
 ---
 
 {% include youtube.html %}
