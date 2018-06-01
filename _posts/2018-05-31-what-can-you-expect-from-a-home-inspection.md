@@ -34,7 +34,7 @@ Beyond that, they also look for general maintenance issues in a home. Certain de
 
 After you receive their official report, you will have the chance to order further inspections and talk with your Realtor to decide which repairs you want to request from the seller or whether you want to request a credit from them. This report also gives you a good idea of what you’re about to invest in. Think of it as a timestamp of a record of your future property.
 
-On the flip side, inspections can be useful to sellers too. **Ordering one for your home before you put it on the market will give you an idea of what the buyer’s inspection will uncover.**
+On the flip side, inspections can be useful to sellers, too. **Ordering one for your home before you put it on the market will give you an idea of what the buyer’s inspection will uncover.**
 
 If you have any more home inspection questions or would like to get in touch with Advanced Group Property Inspections, you can visit their website **[here](http://www.agpic.com/)**.&nbsp;
 
