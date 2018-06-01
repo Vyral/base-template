@@ -19,6 +19,8 @@ youtube_code: 0pcVdltAjB4
 
 {% include youtube.html %}
 
+Things are changing in our real estate market. And, thanks to the kind people at Pacific Appraisals who provide us with a monthly market snapshot, we’ll be examining the most recent developments today.
+
 So how was our real estate market this April?
 
 First of all, there were 92 total sales. **This is a 14% increase compared to what we saw in April of 2017. However, this increase is a little skewed.**
