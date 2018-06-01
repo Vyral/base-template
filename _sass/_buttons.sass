@@ -14,3 +14,24 @@
 	&:focus
 		text-decoration: none
 		color: $brand
+
+
+.page-button
+	justify-content: center
+	background: $brand
+	border: 1px solid $brand
+	padding: 10px 20px
+	text-decoration: none
+	font-size: 18px
+	color: #ffffff
+	margin-left: 1rem
+	+transition
+	p
+		text-align: center
+	&:hover
+		background: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:active
+		// box-shadow: 0 0 0 $brand
+		@include transform(translateY(0rem))

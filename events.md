@@ -15,4 +15,7 @@ permalink: /events/
 </p><p>
 Brought to you by: The Vera Group and 2 additional sponsors
 </p>
+<a href="https://www.eventbrite.com/e/annual-otay-ranch-family-ice-cream-social-tickets-46080223188?aff=eac2" target="_blank" class="page-button">
+	RSVP
+</a>
 </div>

@@ -2751,6 +2751,29 @@ form select {
     text-decoration: none;
     color: #003fa6; }
 
+.page-button {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  background: #003fa6;
+  border: 1px solid #003fa6;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #ffffff;
+  margin-left: 1rem;
+  -webkit-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s; }
+  .page-button p {
+    text-align: center; }
+  .page-button:hover {
+    background: #fff;
+    color: #003fa6;
+    border: 1px solid #003fa6; }
+  .page-button:active {
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem); }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
