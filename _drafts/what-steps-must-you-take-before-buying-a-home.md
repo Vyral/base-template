@@ -19,7 +19,7 @@ youtube_code: noJBXke2rpA
 
 {% include youtube.html %}
 
-<p style="text-align: center"><em>There are certain steps homebuyers must take before they buy a home in order to have a successful purchase.*</em></p>
+*There are certain steps homebuyers must take before they buy a home in order to have a successful purchase.*
 
 <center>&nbsp;</center>
 
