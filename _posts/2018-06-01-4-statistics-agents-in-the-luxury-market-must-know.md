@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Statistics Agents in the Luxury Market Must Know
-date: 2018-05-31 16:26:00
+date: 2018-06-01 10:26:00
 tags:
 excerpt: >-
   If you want to work in the luxury market, there are four key statistics you
