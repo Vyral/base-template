@@ -26,11 +26,11 @@ youtube_code: pjinsilX75s
 
 <center><em>News reports have said that the affordability index is dropping, but what does this mean to you?</em></center>
 
- 
+&nbsp;
 
 There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have.
 
-You may have heard that the affordability index is dropping. The affordability index is a number which is measured by mortgage rates, interest rates, and pricing. **The news has reported that this index has dropped by about 5%**.
+You may have heard that the affordability index is dropping. The affordability index is a number that is measured by mortgage rates, interest rates, and pricing. **The news has reported that this index has dropped by about 5%**.
 
 As a consequence, buyers in the market are now worried that their budgets will be stretched. But **there is no reason to be overly concerned**. We are nowhere near historic lows in terms of affordability, though we will continue to see the affordability rate drop from about 15% to 20% by year's end.
 
@@ -38,7 +38,7 @@ So, what does this mean to you? **If you are a seller, now is the time to prepar
 
 {% include pullquote.html %}
 
-**If you are a buyer who is ready to buy, meanwhile, why wait any longer?** There should not be any excuse because waiting until next year hoping that prices come down will be a disappointment. Prices will not come down because of the market. Now is the best time.
+**If you are a buyer who is ready to buy, why wait any longer?** There should not be any excuse because waiting until next year hoping that prices come down will be a disappointment. Prices will not come down because of the market. Now is the best time.
 
 The key is to reach out to us right away if you would like to discuss your buying and selling plans. We would love to help you succeed.
 
