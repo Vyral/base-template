@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What does the process of working a new lead look like? Today I’ve broken it
   down into five key steps.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Patrick+O'Sullivan/2018/Cap+Core+Real+Estate-A+5-Step+Process+for+Working+New+Leads.mp4
 pullquote: >-
   It’s important to show every lead that you’re willing and able to be a
   resource for them.
