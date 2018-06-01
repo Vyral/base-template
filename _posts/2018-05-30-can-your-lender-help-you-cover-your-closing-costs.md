@@ -22,7 +22,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: M0XiUOFqrQw
+youtube_code: eH7kbKQDF_8
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ Today I want to discuss the lender-paid closing cost. What is it? What does it r
 
 **Lender-paid closing costs are a percentage of your loan amount that is given to you as a lender credit.** We form that percentage based on the interest rate you choose. When you’re looking at your loan estimate and trying to figure out the cash you’ll need to close, you can pay for your closing cost completely out of pocket or, even better, the seller can pay for it.
 
-If you hear an advertisement saying that a company will pay your closing costs, **the benefit will depend on how long you’re going to be in the home.** In the short-term, lender-paid closing costs make sense because you’ll choose a higher interest rate and get an up-front benefit, rather than having a lower interest rate and paying those fees and getting a long-term benefit.
+If you hear an advertisement saying that a company will pay your closing costs, **the benefit will depend on how long you’re going to be in the home.** In the short term, lender-paid closing costs make sense because you’ll choose a higher interest rate and get an upfront benefit, rather than having a lower interest rate and paying those fees and getting a long-term benefit.
 
 In other words, you’ll get the most benefit if you’re going to be in a house for three to five years. If you’re going to stay in the house long-term, you’ll want a lower interest rate since the cost-benefit of having that lender credit will be diminished.
 
