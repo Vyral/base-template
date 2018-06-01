@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are the 2 Most Surprising Things About the Phoenix Market?
+title: What Are the Two Most Surprising Things About the Phoenix Market?
 date: 2018-05-31 00:00:00
 tags:
   - Real Estate
@@ -38,6 +38,6 @@ There are two pieces to this puzzle. The first is that because of our severe sho
 
 As a home seller, you always have to keep your competition in mind. **As I mentioned, there are a lot of updated and remodeled homes out there**. It’s important to know exactly what is going to allow your home to sell for the highest price possible.
 
-Obviously we are in a seller’s market right now. **With that in mind, it’s important to know that you don't have to update your entire home in order to sell it**. All that matters is that your home is prepared properly an listed at a price point in line with what the market is willing to pay.
+Obviously, we are in a seller’s market right now. **With that in mind, it’s important to know that you don't have to update your entire home in order to sell it**. All that matters is that your home is prepared properly an listed at a price point in line with what the market is willing to pay.
 
 If you have any questions for me about the real estate market or are interested in buying or selling a home, don’t hesitate to give me a call or send me an email. I would love to hear from you soon.
