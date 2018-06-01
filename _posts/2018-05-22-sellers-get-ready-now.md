@@ -19,7 +19,7 @@ youtube_code: xCPJkTrSFHk
 
 {% include youtube.html %}
 
-> **You can see the complete Crystal Coast 2018 1st Quarter Real Estate Market Results and our Charts by clicking this link:[ StarTeamRealEstateReport.com](StarTeamRealEstateReport.com)**
+> **You can see the complete Crystal Coast 2018 1st Quarter Real Estate Market Results and our Charts by clicking this link:[ StarTeamRealEstateReport.com](https://files.acrobat.com/a/preview/74792482-9336-426e-97cb-8e29ce829f92)**
 
 Here on the Crystal Coast, spring is one of the hottest seasons in real estate to list your home to sell. And spring 2018 is shaping up to be important for someone looking to sell. Here are a few points I’d like you to consider:
 
