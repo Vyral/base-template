@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Steps Must You Take Before Buying a Home?
-date:
+date: 2018-06-01 15:44:31
 tags:
   - Home Buyer Tips
 excerpt: >-
