@@ -5,6 +5,8 @@ show_custom_links: true
 custom_links:
   - title: Our Services
     url: https://ptdrv.linkedin.com/kv3k5oe
+  - title: Testimonials
+    url: /testimonials/
 
 emma:
   lightbox:
@@ -41,11 +43,18 @@ sidebar_CTA:
     CTA_url: /contact/
 
 second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
+  - CTA_image_path2: /img/cta-images/004.jpg
     CTA_title2: Download your Luxury Listing Blueprint Today!
     CTA_text2: Discover the Secrets to Becoming a Certified Luxury Listing Specialist.
     CTA_link_text2: Luxury Listing Blueprint
     CTA_url2: http://luxurylistingblueprint.com/
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/005.jpg
+    CTA_title3: Dominate Luxury Listings in your Market
+    CTA_text3: This book is dedicated to all those luxury agents and brokers who are fed up with the “traditional” way of marketing luxury homes. (Or, I should say, traditional way of not marketing luxury houses.)
+    CTA_link_text3: Order Michael's Book
+    CTA_url3: https://www.amazon.com/Luxury-Listing-Specialist-Book-Dominate/dp/1974582604/ref=sr_1_1
 
 lender:
   show_section: false
@@ -68,8 +77,8 @@ socials:
   twitter_url: https://twitter.com/lafido
   instagram_url: http://instagram.com/marketingluxurygroup
   pinterest_url:
-  zillow_url: 
-  trulia_url: 
+  zillow_url:
+  trulia_url:
   yelp_url:
   podcast_url:
 

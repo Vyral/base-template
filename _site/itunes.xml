@@ -2,23 +2,23 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Marketing Luxury Real Estate Podcast Video Blog with Michael LaFido</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://luxeredefined.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://luxeredefined.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marketing Luxury Group - your professional Marketing Luxury Listings Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Michael LaFido</managingEditor>
-    <lastBuildDate>2018-05-11 15:35:45 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-01 13:05:27 -0500</lastBuildDate>
     <media:copyright>Michael LaFido</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://luxeredefined.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>Mike@TheLaFidoTeam.com</itunes:email>
+      <itunes:email>michael@marketingluxurygroup.com</itunes:email>
       <itunes:name>Michael LaFido</itunes:name>
     </itunes:owner>
     <itunes:author>Michael LaFido</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://luxeredefined.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Marketing Luxury Listings Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marketing Luxury Group - your professional Marketing Luxury Listings Real Estate Agents.</itunes:summary>
@@ -26,10 +26,10 @@
     
       <item>
         <title>4 Statistics Agents in the Luxury Market Must Know</title>
-        <link>localhost:4000/4-statistics-agents-in-the-luxury-market-must-know.html</link>
+        <link>http://luxeredefined.com/4-statistics-agents-in-the-luxury-market-must-know.html</link>
         
         <author>Michael LaFido</author>
-        <pubDate>2018-03-29 11:26:00 -0500</pubDate>
+        <pubDate>2018-06-01 05:26:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/4+Statistics+Every+Agent+Needs+To+Know+-+Chicagoland+Luxury+Real+Estate+Agent.mp4</guid>
         <description>
 
@@ -49,12 +49,39 @@ These tips will all be vital to your success with working in the luxury market. 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/4+Statistics+Every+Agent+Needs+To+Know+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/4+Statistics+Every+Agent+Needs+To+Know+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to work in the luxury market, there are four key statistics you absolutely must know.</itunes:subtitle>
         <itunes:author>Michael LaFido</itunes:author>
         <itunes:summary>If you want to work in the luxury market, there are four key statistics you absolutely must know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>All Your Real Estate Photography Needs Are About to Be Met</title>
+        <link>http://luxeredefined.com/all-your-real-estate-photography-needs-are-about-to-be-met.html</link>
+        
+          <category>Increase Business</category>
+        
+        <author>Michael LaFido</author>
+        <pubDate>2018-05-14 10:41:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/How+To+Get+The+Best+Professional+Photography-+Chicagoland+Luxury+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Professional photography is an incredibly important element in any real estate transaction, but especially when it comes to the luxury market. And today’s special guest is an absolute rockstar in the realm of real estate photography. Allow me to introduce my good friend Brad Filliponi, who is joining us all the way from Australia, where he’s been in business with his company, Boxbrownie.com, for 15 years.If you’re anything like me, Brad’s company name may have struck you as a little out there. The story behind it, though, is actually very interesting. Back in 1903, Kodak introduced the first mass-produced camera. It was called the “brownie camera.” So, this product name, combined with a reference to the product’s boxy shape, is what would come to inspire Brad’s own company name. As you might expect, Brad’s creativity extends well beyond his company name. His work is carried out with quality in mind. And Brad knows full well that when photographing homes, the quality of the photos is as important as what the photographer takes in the photo.This is why Brad recommends people look at his pre-photography checklist and prepare their homes accordingly before he comes in with his camera. Following this pre-photography checklist not only helps get homes into photo-ready shape, it also helps people improve how their property may perform during an inspection.A few simple preparations are all it takes for Brad to extract a home’s full potential from behind his camera lens. Once it’s time to take photos, Brad does so knowing that there is one major rule of thumb to keep in mind regarding real estate photography. That rule? Get people’s attention.But taking great photos isn’t all Brad and his company are capable of—they also do photo enhancement. They can make a picture taken on a cloudy day look like it was captured during blue skies, for example. They can also green up grass, remove cars from driveways, and even digitally stage a home. You can find out more about Brad’s company and enjoy any of the services they offer by visiting www.boxbrownie.com. 
+
+“The little touches Boxbrownie.com makes to enhance home photos really add up.”
+
+Amazing results aren’t the only thing you can expect when working with Brad and his company. The prices you pay for these services are also very reasonable. Some services, like adding blue skies to a photo, cost as low as $2. And their No.1-selling enhancement, digitally staging, costs just $32. Boxbrownie.com is truly the go-to place for all of your real estate photography needs.The little touches Boxbrownie.com makes to enhance home photos really add up. “You get one chance at a first impression,” says Brad. “You might as well make it last.”Finally, as I always say: It’s not the marketing, it’s the market. While Brad handles the photography end of things, my group and I are experts on all things luxury real estate. And you could be too. When you sign up for our certification class, you too can set yourself on the path to becoming a certified luxury listing specialist. To learn more about this, go to www.luxurylistingspecialist.com.If you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/How+To+Get+The+Best+Professional+Photography-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/How+To+Get+The+Best+Professional+Photography-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m joined by a very special guest, real estate photography rockstar Brad Filliponi of Boxbrownie.com, to talk about the role he and his company play in this industry.</itunes:subtitle>
+        <itunes:author>Michael LaFido</itunes:author>
+        <itunes:summary>Today I’m joined by a very special guest, real estate photography rockstar Brad Filliponi of Boxbrownie.com, to talk about the role he and his company play in this industry.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
