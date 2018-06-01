@@ -24,7 +24,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-What does working with a discount broker truly cost sellers? Today let’s take an in-depth look at this listing mistake.
+<center>What does working with a discount broker truly cost sellers? Today let’s take an in-depth look at this listing mistake.</center>
 
 When it comes time to list, some sellers may be tempted to work with companies or agents offering discounted services. Paying less may sound attractive, but working with these companies (or agents) can cost sellers far more than it saves them.
 
