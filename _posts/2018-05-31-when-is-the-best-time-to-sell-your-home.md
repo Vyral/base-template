@@ -24,11 +24,11 @@ Today we’re going to talk about the best time to sell your house.
 
 Well, I’ve got an answer for that. It’s always the best time to sell your house in the world of a real estate agent.
 
-In general, **I’d say that the best time to sell your house is probably mid-February,** before everybody else puts their house on the market. This is what I’d tell my daughter if she called me to ask when she should sell. She lives in a neighborhood that is school-driven; people buy there for the school system, as well as for the gated neighborhood.
+In general though, **I’d say that the best time to sell your house is probably mid-February,** before everybody else puts their house on the market. This is what I’d tell my daughter if she called me to ask when she should sell. She lives in a neighborhood that is school-driven; people buy there for the school system, as well as for the gated neighborhood.
 
 There, you’d want to get your house sold by the end of July, because school starts in August. In that case, that would be the best time to sell their house.
 
-If you’ve got an acreage, **you do not want to put your house on the market in September** because everything will have started getting drab, dull, and cold. You don’t want to try to sell an acreage in the depths of winter.
+If you’ve got an acreage, **you do not want to put your house on the market in September** because everything will have started getting drab, dull, and cold. You don’t want to try to sell an acreage in the depths of winter, either.
 
 {% include pullquote.html %}
 
