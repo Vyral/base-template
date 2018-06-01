@@ -21,7 +21,7 @@ youtube_code: dLutuNyVfiE
 
 {% include youtube.html %}
 
-Most real estate experts can agree that the best time to sell a home is in the spring months. Now we have the data to prove why.
+<center>Most real estate experts can agree that the best time to sell a home is in the spring months. Now we have the data to prove why.</center>
 
 “What is the best month to sell your home?” is today’s topic and with it comes a bit of controversy. **Real estate experts across the country agree that spring is the best time to sell your home**. However, do the facts support this view?
 
