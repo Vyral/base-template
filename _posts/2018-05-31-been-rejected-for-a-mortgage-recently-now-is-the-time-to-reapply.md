@@ -27,7 +27,7 @@ This will make your qualification rate 4.4% or 4.5% versus a five-year benchmark
 
 {% include pullquote.html %}
 
-**If you can’t qualify for a mortgage with just income, keep shopping and do not give up.** Banks want your business, and they will bend over backward to get something done for you. I have spoken to a few mortgage brokers, and they have mentioned that some mortgage products are available for certain banks, while other are not.
+**If you can’t qualify for a mortgage with just income, keep shopping and do not give up.** Banks want your business, and they will bend over backwards to get something done for you. I have spoken to a few mortgage brokers, and they have mentioned that some mortgage products are available for certain banks, while others are not.
 
 For example, Scotiabank is really good for qualifying non-resident and new immigrant programs, while National Bank is good if you already own a home and are thinking about upgrading.
 
