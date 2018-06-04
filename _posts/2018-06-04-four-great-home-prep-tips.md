@@ -23,7 +23,9 @@ youtube_code: BD4McOr3Ozs
 
 {% include youtube.html %}
 
-<center>Thinking about selling your home? Here are a few things you’ll need to do in order to have a successful sale.</center>
+<center><em>Thinking about selling your home? Here are a few things you&rsquo;ll need to do in order to have a successful sale.</em></center>
+
+&nbsp;
 
 Today I am going to give you a few tips if you have been thinking about putting your home on the market for sale. Here are four of the best things you can do as a home seller:
 
