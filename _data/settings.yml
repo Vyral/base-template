@@ -1,5 +1,5 @@
 audit_header: false
-title: North Central Washington Real Estate Video Blog with Nick Mclean
+title: Real Estate Video Blog with Nick Mclean
 description: 'Our mission at The Nick Mclean Real Estate Group is to be your best resource for North Central Washington real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Nick Mclean Real Estate Group, your professional North Central Washington Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -7,13 +7,11 @@ custom_links:
     url:
 
 client:
-  name: Nick Mclean
+  name: Nick McLean
   license_number:
   about_markdown: |
-    Our team operates one of the most advanced websites for our cilents use at www.sellingncw.com. The listing team leaders (Nick McLean & Angie Coleman) focus 100% on marketing our client's homes on every available marketing outlet, including Internet, Radio and TV. The buyer's teams handle the buyer clients and are elite coached, local and full-time professionals who are selling up to 5 times as many homes annually compared to an average Realtor. Our concierge team has full-time staff to handle internet inquiries and phone calls along with our chat service on our website. That way we're not losing any buyers interested in our Seller's homes.
-
-    Our real estate team can be heard on 560 AM KPQ every Monday at 2 PM on our very own radio show called Real Estate Now with the Nick McLean Real Estate Group.
-  market: North Central Washington
+    The Nick McLean Real Estate Group's mission is to consistently provide the highest quality real estate service and to change the way real estate is sold in North Central WA. They have certainly done that becoming the fastest growing real estate firm in North Central WA and the #1 Real Estate Team in Wenatchee, Leavenworth & Lake Chelan area.
+  market:
   brand: Nick Mclean Real Estate Group
   brokerage:
   address: 29 S Wenatchee Ave<br>Wenatchee, WA 98801
@@ -33,7 +31,7 @@ CTAs:
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
+    CTA_title: "What’s Your Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
     CTA_url: http://ncwhomevalues.com/
