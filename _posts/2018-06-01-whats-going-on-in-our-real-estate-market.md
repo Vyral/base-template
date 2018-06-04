@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Did This April's Market Compare Last Year’s?
-date: 2018-06-01 16:15:17
+title: What's Going on in Our Real Estate Market?
+date: 2018-06-01 16:15:00
 tags:
 excerpt: >-
   How has our real estate market changed since last year? Today I’d like to
@@ -21,7 +21,7 @@ youtube_code: 0pcVdltAjB4
 
 Things are changing in our real estate market. And, thanks to the kind people at Pacific Appraisals who provide us with a monthly market snapshot, we’ll be examining the most recent developments today.
 
-So how was our real estate market this April?
+So, how was our real estate market this April?
 
 First of all, there were 92 total sales. **This is a 14% increase compared to what we saw in April of 2017. However, this increase is a little skewed.**
 
@@ -35,7 +35,7 @@ Also in April, 297 homes sold year-to-date, constituting a 23% year-over-year in
 
 With all these new sales, inventory has dropped, while demand has remained high and prices have increased. Now, **median sales prices are sitting at $313,000, which is a year-to-date increase of 15% and a year-over-year increase of 19%.**
 
-This significant increase has left some sellers wondering whether now is the time to make their move and list at a premium. After all, recent growth is not sustainable. So, while we expect to see a bull market for the remainder of the year, I would advise people against waiting too long to sell. &nbsp;
+This significant increase has left some sellers wondering whether now is the time to make their move and list at a premium. After all, the recent growth we’ve seen is not sustainable. So, while we expect to see a bull market for the remainder of the year, I would advise people against waiting too long to sell. &nbsp;
 
 As a final note, I’d like to inform you that **while the majority of price ranges are within a seller’s market, some price ranges do favor buyers.** Homes in the $450,000 to $500,000 price range are one example of this. Within this range, there’s actually eight months of available inventory. And as you may remember, anything below six months of inventory is a seller’s market while anything above that constitutes a buyer’s market.
 
