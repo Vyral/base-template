@@ -23,7 +23,7 @@ youtube_code: Oordk8CSAXI
 
 {% include youtube.html %}
 
-There are three different types of value which can be assigned to your home. Which one is the most important?
+<center>There are three different types of value which can be assigned to your home. Which one is the most important?</center>
 
 Something that comes up to us a lot is the three different types of value. Assessed value, appraised value, and market value with different values. Although they may be close on occasion, they also could be way different.
 
