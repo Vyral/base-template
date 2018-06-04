@@ -28,23 +28,23 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.kauairealestatesearch.com/cma/property-valuation/
+  first_CTA_URL: https://search.kauairealestatesearch.com/estimate
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.kauairealestatesearch.com/search/advanced_search/
+  second_CTA_URL: https://www.kauairealestatesearch.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.kauairealestatesearch.com/cma/property-valuation/
+    CTA_url: https://search.kauairealestatesearch.com/estimate
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.kauairealestatesearch.com/search/advanced_search/
+    CTA_url2: https://www.kauairealestatesearch.com/
 
 lender:
   show_section: false
