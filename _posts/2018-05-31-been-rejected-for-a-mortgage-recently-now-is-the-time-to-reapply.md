@@ -23,7 +23,7 @@ Are you a homebuyer who got rejected for a mortgage in the recent past because t
 
 BMO and other banks have recently introduced an ultra-low, variable-rate mortgage product of 2.45% while increasing rates on fixed products. The current mortgage stress test requires you to qualify for a mortgage with a contract rate plus 2%, **so I suggest you reapply for a mortgage with a variable mortgage rate in mind.**
 
-This will make your qualification rate 4.4% or 4.5% versus a five-year benchmark rate of 5.34%. In real terms, this is a mortgage approval difference of between $35,000 and $50,000, depending on your expenses and income.
+This will make your qualification rate 4.45% versus a five-year benchmark rate of 5.34%. In real terms, this is a mortgage approval difference of between $35,000 and $50,000, depending on your expenses and income.
 
 {% include pullquote.html %}
 
