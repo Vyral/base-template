@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   When it comes to selling homes, we want you to get the most money you can as
   quickly as you can. Here’s how we do that.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sandy+Gabrielli/Reno+Area+Real+Estate+Agent-+Well+Get+More+for+Your+Home+FAST.mp4
 pullquote: >-
   One of our primary concerns is to eliminate as much of the stress on you as we
   possibly can.
