@@ -29,8 +29,8 @@ First, **full account ownership of the donor must be documented and the donor’
 
 There are a variety of ways the donor can transfer you the funds in this scenario, but if the money is being transferred to you directly, then we need to document your receipt of that money with an updated transaction history.
 
+{% include pullquote.html %}
+
 Lastly, **if the donor has large deposits on the monthly statement that they provide, they have to document where that money came from**, as stated in the Patriot Act.
 
 If you have any other questions about the requirements of gift funds for non-conventional loans or you have any other questions, please feel free to reach out to us. We would be more than happy to help you.
-
-{% include pullquote.html %}
