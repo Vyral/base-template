@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do Open Houses Still Work?
-date:
+date: 2018-06-05 15:45:34
 tags:
   - Home Seller Tips
 excerpt: How do open houses work in today’s market? We’re taking a closer look today.
@@ -37,9 +37,9 @@ Another con of an open house is security issues. When we’re trying to get as m
 
 I have no issue with open houses as long as everyone is on board to reach the same goals. Here are some of the pros you may see by hosting one.
 
-**First, it gives your home additional exposure to the market.** We want to get people to see your home as many times as possible so that we have a greater chance to see success. This exposure extends to social media and yard signs.&nbsp;
+**First, it gives your home additional exposure to the market.** We want to get people to see your home as many times as possible so that we have a greater chance to see success. This exposure extends to social media and yard signs. 
 
-The convenience of browsing is another reason open houses work. It’s a low-pressure environment for buyers to look at homes they might be interested in.&nbsp;
+The convenience of browsing is another reason open houses work. It’s a low-pressure environment for buyers to look at homes they might be interested in. 
 
 If an agent you’re talking to is telling you that an open house is necessary, take a step back and evaluate things. As long as the pros and cons are discussed, you can make the right decision in your best interest.
 
