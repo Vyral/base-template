@@ -17,7 +17,9 @@ youtube_code: CY6Xee3Ogvw
 
 {% include youtube.html %}
 
-How do open houses work in today’s market? We’re taking a closer look today.
+<center><em>How do open houses work in today’s market? We’re taking a closer look today.</em></center>
+
+<center>&nbsp;</center>
 
 Today we’re going to be talking about the pros and cons of running a real estate open house.
 
