@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens If Your Buyer Is Unable to Make Your Set Closing Date?
-date:
+date: 2018-06-05 15:59:34
 tags:
   - Real Estate
 excerpt: >-
