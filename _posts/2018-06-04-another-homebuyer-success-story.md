@@ -29,9 +29,9 @@ She let me know the place was going on the market next week. I asked her if I co
 
 {% include pullquote.html %}
 
-I brought the buyers down, we saw the property, and they fell in love with it. After we left the building, we decided to go ahead and write an offer on it anyway. I know the agent told us not to, but I also knew that everybody has a price. **I told the buyer that we could make an offer, but it had to wow the seller and their agent.**
+I brought the buyers down, we saw the property, and they fell in love with it. After we left the building, we decided to go ahead and write an offer on it anyway. I know the agent told us not to, but I also knew that everybody has a price. **I told the buyer that we could make an offer, but it would have to wow the seller and their agent.**
 
-We went back to the office and wrote a big, fat offer. The price was well above what they were asking and although **I apologized to the agent in advance, they ended up calling the owner and we ended up ratifying the contract shortly thereafter.** All in all, it was a great success and we found the buyers their perfect home.
+We went back to the office and wrote a big, fat offer. The price was well above what they were asking and, although **I apologized to the agent in advance, they ended up calling the owner and we ratified the contract shortly thereafter.** All in all, it was a great success and we found the buyers their perfect home.
 
 Stay tuned for our next video, which will give you the three keys to my buyer’s success in this situation.
 
