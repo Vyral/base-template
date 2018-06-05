@@ -1,13 +1,13 @@
 ---
 layout: post
 title: What Realtors Must Know About Zillow’s Instant Offer Program
-date: 2018-05-22 13:53:02
+date: 2018-05-22 13:53:00
 tags:
 excerpt: >-
   What does Zillow’s new Instant Offer program mean for Realtors? Today I will
   discuss how this change may impact you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/Valley+of+the+Sun+Real+Estate+Agent-+Zillow.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+Zillow+(1).mp4
 pullquote: >-
   Zillow will be getting the first crack at properties investors may have
   previously been the first to capture.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KCwZ165Z8dc
+youtube_code: Y2p-2ft8Sm0
 ---
 
 {% include youtube.html %}
