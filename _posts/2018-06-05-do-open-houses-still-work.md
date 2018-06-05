@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do Open Houses Still Work?
-date: 2018-06-05 15:45:34
+date: 2018-06-05 15:45:00
 tags:
   - Home Seller Tips
 excerpt: How do open houses work in today’s market? We’re taking a closer look today.
@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: Security issues can arise if anyone can just walk in.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: CY6Xee3Ogvw
 ---
