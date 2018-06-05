@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Montgomery County Real Estate Podcast with Diane Cardano</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://dianesvideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://dianesvideoblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Cardano Realtors - your professional Montgomery County Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Diane Cardano</managingEditor>
-    <lastBuildDate>2017-12-13 15:11:49 -0600</lastBuildDate>
+    <lastBuildDate>2018-06-05 10:08:44 -0500</lastBuildDate>
     <media:copyright>Diane Cardano</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://dianesvideoblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,559 @@
     </itunes:owner>
     <itunes:author>Diane Cardano</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://dianesvideoblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Montgomery County Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Cardano Realtors - your professional Montgomery County Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Take a Look at the Latest Market Report</title>
+        <link>http://dianesvideoblog.com/take-a-look-at-the-latest-market-report.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-05-23 16:20:01 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2018/Suburbs+of+Philadelphia+Real+Estate-+Market+Update.mp4</guid>
+        <description>
+
+The numbers are in, so let&rsquo;s take a look at how the market has been doing and where we can expect it to go.
+
+&nbsp;
+
+I am back with your hot-off-the-press market report! Summer is around the corner and buyers are out shopping for their next home. Let’s take a look at the real estate market in your area to see where it is going this year.
+
+Everyone said that the tax reform was going to kill people’s desires to purchase homes. But according to the numbers, the first few months of the year were overall equal to where they were last year. There is been no major dip, and the only reason they are not well above last year’s mark has nothing to do with the tax situation. It has to do with the fact that there is not enough inventory.
+
+Looking at buyer traffic from January, February, and March of 2018, we can see that it increased in each month compared to 2017. Interestingly enough, Gallup just released a poll showing that the American people see real estate as the best long-term investment, better even than stocks, bonds, gold, and savings accounts.
+
+For the first time in eight years, home ownership went up. People want to buy houses. Arch Mortgage Insurance indicated that even recent interest rate increases and higher taxes on some upper-income earners did not shift the market like they had feared.
+
+We can see that the market is still very strong, notwithstanding the lack of inventory. It is a matter of supply and demand; if you are in a market where supply is decreasing at the same time that demand is increasing, the price of that item is going to go up. That is what we have noticed over the past 12 months: home prices continue to rise across the country, with expectations of continued economic growth and future employment gains. The current run of rising prices is likely to continue.
+
+In terms of the year-over-year change in price (according to price range), homes in the low to middle price ranges are up 8.5%; middle to moderately priced homes are up 7%; and higher-priced homes are up 5.4%.
+
+According to the NAR’s Housing Affordability index, affordability today is higher than it was between 1985 and 2007. The only reason affordability is down in relation to the last eight years is the bust and recovery periods; we were selling distressed and short sale homes that were selling 50% to 80% on the dollar. Overall, the country’s affordability is still in really great shape.
+
+“We can see that the market is still very strong, notwithstanding the lack of inventory.”
+
+Even though rates and prices are increasing, so are our incomes. Rental prices are also going up. According to Zillow, the median rent countrywide rose 2.8% over the past year, the fastest pace of appreciation in two years. Many families in the U.S. are spending more than 50% of their income on their rent. Rising rent is a trigger for renters to transition to homeownership—overall, two out of three renters under the age of 50 say that they want to own a home.
+
+This month’s price index comes with great news for homeowners who are thinking about selling their homes and providing much-needed inventory for buyers, including those who are looking to make their first-ever home purchase.
+
+If you have any questions or would like to sell your home, please feel free to reach out to me. You can also attend one of my next free home seller seminars on June 12 at the Hilton Garden Inn, where I will give you great strategic information on how to make more money while selling your home stress-free.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2018/Suburbs+of+Philadelphia+Real+Estate-+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2018/Suburbs+of+Philadelphia+Real+Estate-+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The numbers are in, so let’s take a look at how the market has been doing and where we can expect it to go.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>The numbers are in, so let’s take a look at how the market has been doing and where we can expect it to go.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Power of Great Exterior Home Photos</title>
+        <link>http://dianesvideoblog.com/the-power-of-great-exterior-home-photos.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-05-04 11:28:30 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate-+Taking+good+photos.mp4</guid>
+        <description>
+
+Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.
+
+&nbsp;
+
+Spring is here, and that means if you’re selling your home soon or in the near future, it’s important that you get outside and take pictures of it.
+
+You need to have good pictures of your home no matter when you put it on the market, and the only way to guarantee that you always have good photos is to have some stored away. Exterior photos of your home are the first thing buyers see when searching online, and good photos will encourage your target market to see your home in person.
+
+Remember, your home’s first showing happens online—not at the house, itself. If you can’t keep a buyer’s interest past four or five pictures, you’ll never get them to come visit and look inside. AndiIf you can’t get a buyer inside your house, I can’t sell it for you.
+
+In the video above, I’ve provided a photo showcase to show you exactly what I mean.
+
+Starting at 0:58, you’ll see a slide of an exterior photo of a home that was taken last June. I sold this same home in January 2018 in just three days because it was the only listing that showcased beautiful outdoor pictures.
+
+In the next slide at 1:23, you’ll see an exterior photo of another home. This time, we included the property’s backyard and all its foliage in the photo. We took that photo a full two years before we put that home on the market, and when we did, we sold it in three days for $10,000 over asking price.  
+
+“Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.”
+
+In the next slide at 2:04, you’ll see an outside photo of a home taken three years before we listed it. This home sold after just two days on the market, and it did so during a snowstorm for $23,000 over asking price. This particular seller attended one of my seminars first to learn about the importance of a photo showcase, and it paid off for them. In fact, my sellers who attend my seminars sell their homes four times faster than my sellers who don’t.
+
+In the next slide at 2:43, you’ll see a home whose exterior photo captured a tree in full bloom in its front yard. This picture was taken a year before the home was listed, and we sold it in nine days to a relocation buyer. That buyer was from Minnesota, and I doubt they would’ve been interested in seeing that house without that specific picture.
+
+In the next slide at 3:23, you’ll see some examples of how we incorporate drone photography into our listings. You’ll also see a couple of our drone videos. I only see drone photography used for about 1% of all the homes on the market, and usually only for high-priced listings. My team and I use it for all of our listings, no matter what price, and we do it because it captures everything. Most importantly, it gets buyers to click on those photos four times. After four clicks, you’ve got their attention.
+
+Those two drone videos were able to interest two relocation buyers for homes listed in very high-priced neighborhoods. One of those homes sold in just two weeks. The other sold before it even hit the market.
+
+You can learn more about taking good photos and other tips to sell your home at my next Home Selling Sharks Seminar on June 12 at the Hilton Garden Inn in Fort Washington, Pennsylvania. For more information, check out www.homesharkseminar.com.
+
+As always, if you have any other questions or real estate needs, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate-+Taking+good+photos.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate-+Taking+good+photos.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>Having good exterior photos of your home stored away can help you sell it quickly and for top dollar any time of the year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Hot-Off-The-Press Market Report for April 2018 Is Here</title>
+        <link>http://dianesvideoblog.com/your-hot-off-the-press-market-report-for-april-2018-is-here.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-04-18 10:58:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Are+we+headed+for+another+bubble.mp4</guid>
+        <description>
+
+The latest numbers from our real estate market are in. Today I&rsquo;d like to go over what trends we&rsquo;re seeing and how they might impact your real estate goals this year.
+
+&nbsp;
+
+Spring has finally sprung. Let’s celebrate the end of winter by taking a look at the April edition of our hot-off-the-press market report. 
+
+Many people right now are wondering, “What’s going to happen to home prices?” They want to know whether this ongoing rise in prices is truly sustainable. They’re also wondering whether we’re headed toward another bubble. 
+
+Let’s take a look at some recent market statistics. You can follow along in the video to see charts and additional information pertaining to today’s topic. 
+
+Housing inventory is very low right now. As of February, inventory has decreased just over 8% year over year. This low level of supply has been driving buyer demand up so significantly that we currently have more buyer traffic than what we saw in May of last year.
+
+“Whether you’ve been thinking of buying or listing, now is a great time to make your move.”
+
+In the words of Rick Palacios Jr. (the director of research from John Burns Real Estate Consulting): “Buyers thought they could wait forever because rates were going to stay low forever. They’re starting to realize that if they’re going to buy, they should probably buy now.” 
+
+With all of this in mind, it’s important to realize that market statistics will vary by location. While average home prices have risen 6.6% year over year on a national level, the year-over-year change in price does vary between individual states. 
+
+As the numbers show, the reason behind the upward pressure on prices is as simple as supply and demand. Demand goes up as supply goes down. But does this mean we’re on the verge of a bubble? This is unlikely as rates are slowing. Currently, most experts predict that we will see an appreciation rate between 4.5% and 5.9% in 2018.
+
+Not all market trends this year have been this consistent, though. After rising steadily for the first few weeks of 2018, interest rates have been bouncing around lately. Therefore, I don’t recommend waiting around for a better time to buy. Whether you’ve been thinking of buying or listing, now is a great time to make your move. 
+
+If you would like to learn more about the listing process, you cansign up today for our next Home Selling Sharks Seminar. This seminar will take place on June 12, 2018, at the Hilton Garden Inn in Fort Washington. To learn more about the event, visit http://www.homesellingsharks.com/. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Are+we+headed+for+another+bubble.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Are+we+headed+for+another+bubble.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The latest numbers from our real estate market are in. Today I’d like to go over what trends we’re seeing and how they might impact your real estate goals this year.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>The latest numbers from our real estate market are in. Today I’d like to go over what trends we’re seeing and how they might impact your real estate goals this year.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Hot-Off-The-Press April Market Update Is Here</title>
+        <link>http://dianesvideoblog.com/our-hot-off-the-press-april-market-update-is-here.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-04-06 09:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+The+future+of+our+market+revealed.mp4</guid>
+        <description>
+
+Changes are coming to our market. Today, I&rsquo;d like to review a few expert predictions on what we can expect.
+
+&nbsp;
+
+It’s time for the April edition of our hot-off-the-press market report.
+
+Spring is here and the market is on fire! If you’ve been thinking recently about the value of your home, I’ve got some great news to report. CoreLogic’s chief economist Dr. Frank Nothaft recently said that “[…] the net result of rising demand and limited for-sale inventory is a continued appreciation in home prices.”
+
+Also, according to the most recent Case Shiller report, appreciation was steady between June and November of last year. While there was a small slowdown in December, this doesn’t mean prices went down. All it means is that we went from an appreciation rate of 6.4% in November to 6.3% in December.
+
+This slowdown is very normal for the last month of the year. Sellers whose properties didn’t move off the market sooner are simply ready at that point to have their transaction over and done with. This translates to lower prices.
+
+Next, I’d like to give you a look at the average annual appreciation rates we saw in the past, including rates from during the housing bubble between 2000 and 2007. To give you some historical context, we can see that the pre-bubble appreciation rate for the 12 years between 1987 and 1999 was 3.6% per year.
+
+During the bubble, the appreciation rate was at more than 7% per year. Then during the bust period between May 2007 and December 2011, values depreciated by 5.5% per year. Since then, appreciation rates during the recovery period to date have been at 5.3% per year.
+
+“If recent predictions are true, we will soon be back to normal appreciation rates.”
+
+Now that we know what has led us to where we are today, let’s look at what is being projected as we move forward into the next five years. A survey conducted by a panel of over 100  economists, real estate experts, and market strategists found that most experts believe we will finish 2018 with an appreciation rate around 5%.In 2019, the rate is projected to slow down to around 4%. Then, appreciation is expected to level off at 3% per year from 2020 until 2022.
+
+Personally, I believe that anything past 2019 is too far off to accurately predict. However, if these predictions are true, we will soon be back to normal appreciation rates.
+
+So, what about cumulative house appreciation by 2022. The Bulls are at 27.4% and the Bears are at 8.3%, with the average projection being 18.2%.
+
+With all of that being said, is it a good time to sell? Well, according to Daren Blomquist, senior VP at ATTOM Data Solutions, “It is the most profitable time to sell a home in more than 10 years.” However, he also said that homeowners are staying put much longer than we’ve ever seen.
+
+So, if you are thinking of putting your home on the market, I’d like to invite you to join us for our next Home Selling Sharks Seminar on April 7. The event will be at Hilton Garden Inn in Fort Washington, beginning with a breakfast at 8:15 a.m. with the seminar starting at 9:15 a.m. To sign up, visit http://www.homesharkseminar.com.
+
+If you have any other questions or would like more information, feel free to give me a call or send me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+The+future+of+our+market+revealed.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+The+future+of+our+market+revealed.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Changes are coming to our market. Today, I’d like to review a few expert predictions on what we can expect.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>Changes are coming to our market. Today, I’d like to review a few expert predictions on what we can expect.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Benefits of Choosing a Team to Sell Your Home</title>
+        <link>http://dianesvideoblog.com/the-benefits-of-choosing-a-team-to-sell-your-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-03-22 12:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+A+team+vs.+a+traditional+Realtor.mp4</guid>
+        <description>
+
+If you&rsquo;re selling your home, don&rsquo;t hire a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.
+
+&nbsp;
+
+When hiring a Realtor to sell your home, you need to understand what you’re looking for and you need to know what goes on behind the scenes in a real estate office.
+
+If you want to sell your home for top dollar, you need a marketing and negotiating expert instead of just a Realtor with a license. An expert will have a team of specialists around them to take care of the different parts of a real estate transaction. Big money gets put into your pocket as a result of marketing and negotiating, so you need to hire a company that does that day in, day out for their clients.
+
+You don’t want to look for a traditional real estate company. What does a traditional Realtor know about marketing? Do they have a marketing degree or any negotiating skills? There are hundreds of traditional companies out there, and traditional franchises are being bought out by real estate tycoons. They spend thousands of dollars marketing their company to get as many signs in the lawn as possible in the hope that some of them sell so they can get paid.
+
+A traditional company pays anywhere from 70% to 100% of the commission to the agent, which is paid by you—the seller. They’re not making money selling your house, so they’re not going to spend money either. They make money by charging the Realtor’s fees—monthly fees, copy fees, internet fees, etc. It’s a profitable gambit, but it’s one that ignores the customer experience.
+
+When I sell houses, as an expert negotiator with an MBA in marketing, I come out every day fighting the home selling sharks. Traditional companies, on the other hand, try to get as many people working at their companies as possible so they can pay them their good commissions and make money off the other side.
+
+So, would you rather work with a Realtor who has a lot of signs on the lawn or one who actually does something to earn their fee?
+
+Buyers aren’t calling on signs anymore. They see properties on the internet and then email or text. Signs don’t bring buyers. As I discussed in a previous video, there are three majors mistakes people make when hiring a Realtor: they hire them because they have lots of signs in the lawn, they hire them because they’re local, or they hire them because they’re someone they know.
+
+“Big money gets put into your pocket as a result of marketing and negotiating.”
+
+If you want to hire the right Realtor, your first step is to start earlier than you think. If you start earlier than you think, you’ll have more time to make a plan and dot your i’s and cross your t’s. One mistake can cost you thousands, so you don’t want to start today if you plan on going on the market a week from now. You want to start closer to a year in advance. Once you go on the market, you want to crush the competition by differentiating yourself, and that’s what a marketing expert does. Traditional companies don’t do that.
+
+In the video above at the 3:58 mark, you’ll see a slide I’ve provided that shows a cartoon explaining how a traditional, single Realtor at a traditional office works. Basically, they’re trying to juggle too many different balls at once, and they don’t know how to market to buyers online. As a result, their customer service drops.
+
+The next slide after that illustrates how a team approach works. In this picture, everyone is working to their expertise as a team under one roof, thereby providing a solid foundation from which to sell your home. There is no “I” in team, and when you hire a team, you want to hire a good one.
+
+So, the next time you hire a Realtor, get started early and do your homework. Don’t hire a traditional company or a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.
+
+If you’d like to learn more about this topic, you’re invited to attend our next home selling seminar on April 7. To get all the details, visit www.homesellingsharks.com. In the meantime, stay tuned for my next market report.
+
+If you have any other questions or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+A+team+vs.+a+traditional+Realtor.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+A+team+vs.+a+traditional+Realtor.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re selling your home, don’t hire a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>If you’re selling your home, don’t hire a traditional Realtor just because they have signs on the lawn. Hire a team with an expert negotiator and marketer on staff.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Seller Seminar</title>
+        <link>http://dianesvideoblog.com/home-seller-seminar.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-03-07 12:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Home+Seller+Seminar.mp4</guid>
+        <description>
+
+SEMINAR DETAILS
+
+Thinking of selling your home because it’s either too big, too expensive or too difficult to maintain with climbing property taxes? Or is your home too small and you need a larger home for your family?
+
+Come learn how to keep up to 10% more equity in your pocket where it belongs. Diane will show you her 8 Secret Strategies and how you sell your home 4 TIMES Faster than using the methods of a Traditional Realtor.
+
+Also, learn about the following and how you can get your  “26 Day Home Sold GUARANTEE”:
+
+
+  Eliminate All Unnecessary Expenses! Avoid unnecessary costs when preparing your home for sale and defend yourself against unwarranted inspection repair demands from Buyers.
+  Avoid the 3 Top Mistakes! Home Sellers make 3 common mistakes when choosing a Realtor: Hiring a Realtor because the company has lots of signs on the lawn, Hiring a Neighborhood or Family Realtor, and Hiring a Realtor because of a price they give you.
+  Stop Home Selling Shark #1! Hire a Marketing and Negotiating Expert with a Real Estate Broker’s License, stop looking for a Realtor.
+  Avoid Lifestyle Disruptions! Sell your home quickly for top dollar and keep showing hassles to a minimum.
+  Reduce Stress! Learn how easy selling your home can be with the right tools, real estate agent and preparation.
+  Have peace of mind! Know that you hired an EXPERT real estate team to market and sell your home.
+
+
+This seminar specifically caters to home sellers who understand they need to start preparing from 1 month to 2 years in advance in order to get top dollar when selling their home.
+
+Thousands of people have attended our seminars. Whether you need tips on Staging, Pricing, Marketing, Negotiating or Overseeing Transactional Details, you will leave our seminar much more savvy than when you walked in!
+
+#
+
+RESERVE YOUR SEATS TODAY!
+
+Today’s real estate market requires home sellers to employ countless marketing strategies to help protect their asset from the Home Selling Sharks.  Learn why it is so important that your real estate consultant spends $, has an extensive marketing background and has creative marketing systems already in place.
+
+All attendees will receive a 40 page Home Seller Handbook, a Seminar Graduate Certificate and a tee shirt that says “You Have Survived The Home Selling Shark Seminar. You’ll also have the opportunity to ask questions pertaining to your specific needs.
+
+Also, all attendees will get a Home Shark Seminar Diploma upon completion of the Seminar. A new secret tip will be mailed to every graduate on a monthly basis to continuously educate you through the home selling process!
+
+We are looking forward to sharing everything that we know about the home selling process in this New World of Real Estate.
+
+2018 Dates
+
+Saturday, January 27th, 2018 @ Hilton Garden Inn Fort Washington 9:30amSaturday, April 7th, 2018 @ Hilton Garden Inn Fort Washington 9:30amTuesday, June 12th, 2018 @ Hilton Garden Inn Fort Washington 6:00pmSaturday, October 13th, 2018 @ Hilton Garden Inn Fort Washington 9:30am
+
+The Breakfast Seminars, in January,March and October are on Saturdays and will begin at 9:30am and you are invited to join us for a fabulous Breakfast prior to the seminar beginning at 8:30am. Dom Giordano, Talk Show Host from WHPT 1210am will be the at 8:30am for a Private Meet and Greet.
+
+The Evening Seminar in June will begin at 6:00pm. At 5pm, please be our guest at the Meet and Greet with Dom Giordano, serving fabulous Hors d’oeuvres.
+
+Please join us the hour before the Seminar so you can get a good seat, enjoy some delicious food,  and be ready to learn about creating your personal Home Selling Strategy!
+
+RESERVE YOUR SEATS TODAY!
+
+#
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Home+Seller+Seminar.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Home+Seller+Seminar.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Sign up for the next Home Seller Seminar!</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>Sign up for the next Home Seller Seminar!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Hot-Off-the-Press Market Report</title>
+        <link>http://dianesvideoblog.com/your-hot-off-the-press-market-report.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-03-07 11:12:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+March+market+update.mp4</guid>
+        <description>
+
+I&rsquo;m back with a hot-off-the-press market. Here&rsquo;s what you need to know.
+
+&nbsp;
+
+Our old friend Punxsutawney Phil has predicted six more weeks of winter. Phil doesn’t exactly have the best track record for predictions, and recently, we’ve experienced unusually warm weather. Just in case our four-legged, state-appointed meteorologist is wrong, you might want to consider getting started on spring cleaning early.
+
+Spring is fast approaching. We know this is the time of year that people want to start the home selling and buying process.
+
+“The pool of interested buyers at the end of the year significantly outweighed what was available for sale,” said Lawrence Yun about inventory last year. The biggest challenge we have is a lack of inventory at a time when we’ve had tremendous demand.
+
+There has been talk over the last couple of years that maybe Americans don’t believe in homeownership the way that they used to. New stats suggest that this isn’t true. As a matter of fact, The Wall Street Journal published an article this past week that said:
+
+
+  “The US homeownership rate rose in 2017 for the first time in 13 years….The annual increase marks a crucial turning point because it comes after the federal government reined in bubble-era policies that encouraged banks to ease lending standards to boost homeownership. This time, what’s driving the market is a shift in favor of owning rather than renting.”
+
+
+“The number of homes for sale nationwide has declined on an annual basis for the past 35 months straight.”
+
+Homeownership was dropping, and, from what we’ve seen, there were economic reasons behind that. Last year, we can see that in each quarter, homeownership was on the increase. It seems that owning a home is still a part of the American Dream.
+
+Again, the biggest challenge we have is the low inventory. We don’t expect that much will relieve this current shortage. The number of homes for sale nationwide has declined on an annual basis for the past 35 months straight.
+
+If you’re thinking about selling or buying a home, according to Bill Banfield, vice president of capital markets at Quicken Loans:
+
+
+  “Homeowners received the gift of added equity this holiday season. With several years of growth, owners may have more equity than they realize. Many consumers use the tax season at the beginning of the year to reevaluate their entire financial life. It also provides a good opportunity for them to consider how best to take advantage of their equity while mortgage interest rates and borrowing costs are still near record lows.”
+
+
+There you have it. If you’re selling this year, get on my “coming soon” listings website and have buyers waiting to pay you listing price or more.
+
+If you’re planning to sell, but just not this year, you’re invited to our next home seller seminar on April 17 at the Hilton Garden Inn. Here, I’ll give you great and strategic information on how to make more money and sell your home fast. To sign up for the seminar, visit http://www.homesellingsharks.com/.
+
+For any other questions, feel free to reach out to me. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+March+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+March+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m back with a hot-off-the-press market. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>I’m back with a hot-off-the-press market. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Couple Saved $10k by Doing This Before Selling Their Home</title>
+        <link>http://dianesvideoblog.com/couple-saved-10k-by-doing-this-before-selling-their-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-02-22 17:36:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?
+
+&nbsp;
+
+When you go to a doctor, you don’t know what’s wrong with you until you get a prognosis. Finding the value of a home is quite similar – you can’t know the price until a lot of research has been done!
+
+Anyone that walks into your home and tells you a price is doing that simply to get your business; they aren’t acting in your interest. You don’t want to hire someone who isn’t going to work on your behalf to competitively price your home. Before you hire anyone, give them a call and ask them if they’re going to put a price on your home when they get there. If they answer affirmatively, you probably shouldn’t hire them!
+
+“YOU DON’T WANT TO HIRE SOMEONE WHO ISN’T GOING TO WORK ON YOUR BEHALF.”
+
+When you work with us, we’re going to ask you the hard questions. In order to design a custom home selling strategy for you, we’ll start by asking why you’re selling. Then we’ll ask: What past experiences have you had with real estate? What are you expecting from the process? What are your financial goals? The answers to these questions will help us set expectations for you and start working to accomplish your selling goals.
+
+There are a lot of factors that go into correctly pricing a home, and a good Realtor will let you in on how they come to a certain number. If they don’t, you may be working with an agent who will fail to get your home sold. Be sure to ask them what the absorption rate in the area is, and what comparable homes are selling for: these are just a few of the many important factors that should be looked at in the pricing process!
+
+If you want more selling tips, or if you want to work with a team that has mastered the art of real estate, please don’t hesitate to reach out to us. We would love to hear from you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>Did you know that our clients saved over $300k last year by only spending $400 on a pre-home inspection before listing their home?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Hot Off the Press Market Update: February 2018</title>
+        <link>http://dianesvideoblog.com/hot-off-the-press-market-update-february-2018.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-02-09 06:34:11 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+crucial%2C+avoidable+mistakes.mp4</guid>
+        <description>
+
+How can you avoid putting your home sale in jeopardy? Start by hiring the right Realtor for the right reasons.
+
+&nbsp;
+
+I’m back once again with the February edition of the Hot off the Press Market Report. Today I will reveal the three major mistakes that end up costing home sellers thousands.
+
+
+  Hiring a Realtor whose company has lots of signs on the lawn. The traditional real estate company markets itself on TV and radio to attract consumers. This also attracts Realtors to work at their company by luring them in with large commission splits so the consumer thinks the company sells lots of home because they see all the signs on the lawns. They think signs bring buyers. However, buyers are not calling into the office from a sign—they see the property online, hit a button and it calls the Realtor. Signs do not bring buyers to your home and the consumer does not know the difference. These big real estate corporations are buying out the smaller offices to get as many realtors in the office to sell, sell, sell, and they are not making money on the commission so they do not spend money marketing your home. They make money by charging the Realtors a monthly management fee, per sale admin fee, copy fee, internet fee, etc. They also capitalize on the title mortgages and other components. With every transaction, they are making an additional $5,000 to $10,000 or more off of a gambit that completely ignores the consumer’s experience and the money left in your pocket at the end. The consumer can see the prices drop on the internet—that is the last sign you want on your lawn, and that is what you see on all these traditional signs.
+  Hiring the “Neighborhood Realtor.” Do you really think the neighborhood Realtor will net home sellers more money and have a more stress-free sale? What does locality or neighborhood have to do with how qualified the person is to sell a home? Since having a marketing and negotiating expert on your side when selling your home nets you the most money, does this local Realtor have an MBA in marketing and are they a certified negotiator? I can sell homes on the moon. Just because someone is local does not mean they have the unique ability to market and negotiate the sale of your home that leaves more money in your pocket.
+  Hiring a Realtor because of the price they give you. Realtors will do that to get you to sign with them and they hold you hostage for six months and have to keep putting reduced price signs on the lawn. It’s better to price the home at market value and let them fight over it. That keeps lots of money in your pocket.
+
+
+“Inventory is low and it’s a great time to figure out what you need to do to sell.”
+
+There you have it! The three deadliest mistakes when hiring your Realtor. If you have any questions, please call me or email me at dianecardano@cardanohomservices.com.
+
+Inventory is low, and now is a great time to figure out what you need to do to sell your home in just one day for over the listed price. If you are thinking of selling a home in the next three months to three years, come to our next home seller seminar on April 7 at the Fort Washington Hilton Garden Inn. I will give you great and strategic information on how to make more money and sell your home fast and stress-free. Go to www.homesharkseminar.com to sign up or just call us at (215) 576-8666. See you in two weeks!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+crucial%2C+avoidable+mistakes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+crucial%2C+avoidable+mistakes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can you avoid putting your home sale in jeopardy? Start by hiring the right Realtor for the right reasons.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>How can you avoid putting your home sale in jeopardy? Start by hiring the right Realtor for the right reasons.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Things You Need to Know About the New Tax Bill</title>
+        <link>http://dianesvideoblog.com/3-things-you-need-to-know-about-the-new-tax-bill.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2018-01-24 05:47:35 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+the+new+tax+bill+will+impact+our+market.mp4</guid>
+        <description>
+
+There has been a lot of confusion recently about changes to our tax system. Today, I’d like to clarify how the new laws will actually impact our market.
+
+Winter is here! Our weather hasn’t been consistent, but the good news is that our housing market is still hot.
+
+That being said, I know many of you are likely wondering how the new tax code will impact residential real estate. Originally, there were three major proposed changes being examined by the House and the Senate.
+
+The first was the change of requirements for the exclusion of gain on the sale of a principal residence, the second was a reduction on the limit of the mortgage interest deduction (MID), and the third was the elimination of the state and local tax deduction (SALT)—which would include property taxes.
+
+However, the tax code has now evolved from this original proposal. Let’s take a look at what impact experts believe it will have on the housing market.
+
+Starting with the capital gains tax exclusion, the proposal stated that owners would have had to have lived in their primary residence for five of the last eight years to qualify. But this change did not come into being for the final version of the new tax code.
+
+In fact, this portion of the tax code is unchanged from its former framework. Homeowners still only need to have lived in their primary residence for two of the last five years to be exempt from capital gains tax.
+
+“People purchase homes for many reasons other than the tax advantages.”
+
+Moving on, many people were concerned that the MID would be eliminated. This did not happen, but the bill has made some changes. The new bill reduces the limit on deductible mortgage debt to $750,000 for new loans taken out after December 14, 2017. Current loans up to $1 million are grandfathered in, however.
+
+Additionally, homeowners may refinance debts of up to $1 million existing on December 14, 2017, and still deduct interest, so long as the new loan does not exceed the amount refinanced. The new tax law also repeals deductions for interest paid on home equity debt through December 31, 2025.
+
+When it comes to home equity loans, interest is still deductible if proceeds are used to make improvements to the residence. On second homes, interest remains deductible but is subject to limitations.
+
+The last changes we need to examine are those made to SALT deductions. Despite the concern of many, these deductions were not eliminated. The final bill allows an itemized deduction of up to $10,000. Higher-taxed regions and homeowners who now have a cap on these deductions are likely to be impacted by this change.
+
+As for the impact these changes will have on you, personally, I recommend that you sit down with an accountant or financial planner.
+
+Of course, it’s important to remember people purchase homes for many reasons other than the tax advantages. These personal reasons, such as needing room to raise a family, will never change.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+the+new+tax+bill+will+impact+our+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+the+new+tax+bill+will+impact+our+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There has been a lot of confusion recently about changes to our tax system. Today, I’d like to clarify how the new laws will actually impact our market.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>There has been a lot of confusion recently about changes to our tax system. Today, I’d like to clarify how the new laws will actually impact our market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Latest Hot off the Press Market Report</title>
+        <link>http://dianesvideoblog.com/the-latest-hot-off-the-press-market-report.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Diane Cardano</author>
+        <pubDate>2017-12-27 06:38:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Hot+off+the+presses+December+2017.mp4</guid>
+        <description>
+
+The latest numbers are in for our real estate market. Here’s what you need to know.
+
+I’m back with the December edition of the Hot off the Press Market Report. Winter is coming and so is another tax season. The GOP tax plan looks promising, but we need to pay attention to this more as we go into 2018. As the legislation is passed, we’ll know exactly what the ramifications are. If it’s passed as it looks, some upper-end buyers and other people who use a lot of itemized deductions, they’re going to be hit pretty hard. The vast majority of the country is going to probably get a little bit more of a tax break, and that might mean that they’ll be more ready to go ahead and purchase.
+
+Now let’s take a look at our housing inventory. Inventory is very low right now and prices are rising. So, let’s take a look at the impact of monthly housing inventory on home prices.
+
+If we have less than six months’ inventory, that’s a seller’s market where home prices will appreciate. If we have between six and seven months’ inventory, historically, that’s a neutral market, home prices will only appreciate with inflation. If we have greater than seven months’ inventory, that’s a buyer’s market where home prices will depreciate.
+
+We only have to go back to 2010 and 2011 to know that we had nine months’ inventory overall and in some places more than nine months’ inventory. Prices were sliding then, but right now we’re below the six-month level of inventory.  As a matter of fact, Lawrence Yun, the Chief Economist at the NAR, said in the latest report:
+
+ “Existing inventory has decreased every month on an annual basis for 29 consecutive months. Until new home construction climbs even higher and more investors and homeowners put their home on the market, sales will continue to severely trail underlying demand.”
+
+“Demand is getting stronger and stronger.”
+
+Demand is getting stronger and stronger as inventory is shrinking. As a matter of fact, if we take a look at inventory, and we take a look at October (which is the last month with available statistics for this year) I compared it to the Octobers of 2014, 2015 and 2016. The month’s supply of inventory each and every year has actually decreased, which you can see in the video above.
+
+As more and more buyers are coming to the market there are fewer and fewer houses ready for sale. That’s the reason prices are going up. But we have to also understand, according to Bill Banfield, Vice President of Capital Markets at Quicken Loans:
+
+“Compared to the previous year our economy continues to improve and attract homebuyers who may have been on the sidelines during the past few years. This will add additional demand to the equation.”
+
+Well, there it is, ladies and gentlemen, it’s pretty simple. Every single month we have more and more buyers, and less and less inventory to sell. Even with limited inventory, there are more and more buyers out there. We have more buyers looking at houses even though we have a lot less houses to look at. Just this month I sold six homes for an average of $10k over the listed price. These were homes that were not selling just 30 days ago.
+
+And if you are thinking of selling in the next three months to three years, come to our next Seller Seminar on January 20th at the Hilton Garden Inn in Fort Washington. Here I will give you great and strategic information on how to make more money and sell your home fast, stress-free, for top dollar. Imagine that. Make sure you come to it. Go to http://www.homesellingsharks.com/ to sign up or just give us a call. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Hot+off+the+presses+December+2017.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Hot+off+the+presses+December+2017.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The latest numbers are in for our real estate market. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Diane Cardano</itunes:author>
+        <itunes:summary>The latest numbers are in for our real estate market. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Montgomery County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Our Room by Room Review Can Tap Into Any Home's Potential</title>
-        <link>localhost:4000/want-to-polish-your-homes-potential.html</link>
+        <link>http://dianesvideoblog.com/want-to-polish-your-homes-potential.html</link>
         
           <category>RoombyRoom Reviews</category>
         
@@ -62,7 +606,7 @@ To see just how well this service can work for you, go to www.FreeRoomByRoom.com
 If you have any other questions or would like more information, feel free to give me a call or send me an email.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Home+selling+tips+will+keep+thousands+of+dollars+in+your+pocket.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Home+selling+tips+will+keep+thousands+of+dollars+in+your+pocket.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -81,7 +625,7 @@ These tips will keep money in your pocket, just watch this short video! Save tho
       
       <item>
         <title>This Market Report Is Hot off the Press</title>
-        <link>localhost:4000/homeownership-rates-are-increasing.html</link>
+        <link>http://dianesvideoblog.com/homeownership-rates-are-increasing.html</link>
         
           <category>Market Update</category>
         
@@ -127,7 +671,7 @@ These next statistics always make me chuckle. The difference between what a home
 If you’re thinking of selling in the next three months or three years, come to one of my home selling seminars—the next one is January 20th at the Hilton Garden Inn in Fort Washington. It’s a great way to get information and tips on how to sell your home, and I’ll give you my eight secret strategies guaranteed to save you thousands on buying a home. Visit HomeSharkSeminar.com or give us a call.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Homeownership+rates+are+increasing.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Homeownership+rates+are+increasing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -146,7 +690,7 @@ This market report is hot off the press! Learn about what the increase in homeow
       
       <item>
         <title>Unlock Your Success With 3 Tips for Getting Top Dollar</title>
-        <link>localhost:4000/3-tips-youll-learn-at-my-upcoming.html</link>
+        <link>http://dianesvideoblog.com/3-tips-youll-learn-at-my-upcoming.html</link>
         
           <category>Home Selling Tips</category>
         
@@ -178,7 +722,7 @@ You can learn all of these things at my upcoming Home Selling Sharks Seminar on 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+tips+you'll+learn+at+my+upcoming+seminar.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+3+tips+you'll+learn+at+my+upcoming+seminar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -197,7 +741,7 @@ Today I’ve got three great tips on getting top dollar for your home. But if yo
       
       <item>
         <title>What's Going On in Our Local Market?</title>
-        <link>localhost:4000/watch-this-exclusive-market-update.html</link>
+        <link>http://dianesvideoblog.com/watch-this-exclusive-market-update.html</link>
         
           <category>Market Update</category>
         
@@ -235,7 +779,7 @@ Whether you’re thinking of selling now or later, we hope you’ll join us at o
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -254,7 +798,7 @@ What is going on in our local market? Today, I’m bringing you an update of the
       
       <item>
         <title>Prices to RISE in 2018 - GET PREPARED!</title>
-        <link>localhost:4000/1-secret-trick-before-you-list.html</link>
+        <link>http://dianesvideoblog.com/1-secret-trick-before-you-list.html</link>
         
           <category>Home Selling Tips</category>
         
@@ -292,7 +836,7 @@ So make sure that when you’re listing your home, you choose an expert advisor 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+1+secret+trick+before+you+list.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+1+secret+trick+before+you+list.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -311,7 +855,7 @@ Using this one strategy, sellers can feel confident that they are getting the mo
       
       <item>
         <title>What Do Rising Home Prices Mean for You? </title>
-        <link>localhost:4000/prices-are-on-rise.html</link>
+        <link>http://dianesvideoblog.com/prices-are-on-rise.html</link>
         
           <category>Market Update</category>
         
@@ -345,7 +889,7 @@ We offer a free room-by-room consultation online at FreeRoomByRoom.com, and if y
 If you have any other questions or you’re looking to buy or sell your home, give us a call. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Prices+are+on+the+rise.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Prices+are+on+the+rise.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -364,7 +908,7 @@ Home prices are continuing to rise. What does that mean for you?
       
       <item>
         <title>Home Values Up in 2nd Quarter 2017</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate-tax.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate-tax.html</link>
         
           <category>Market Update</category>
         
@@ -406,7 +950,7 @@ Homeowners: if you have any thoughts about moving, you need to get started now. 
 If you have any questions or you’re looking to buy or sell a home, give me a call. I’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Tax+advantages+of+homeownership.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Tax+advantages+of+homeownership.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -425,7 +969,7 @@ Our spring season was crazy—but why? Homeowners are realizing the tax advantag
       
       <item>
         <title>Why You Should Avoid the Traditional Real Estate Process</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate-why.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate-why.html</link>
         
           <category>Buyer and Seller Tips</category>
         
@@ -455,7 +999,7 @@ In my next video, I’ll take you through the four steps in what I like to call 
 If you have any questions about real estate or you would like to know more on this topic, please don’t hesitate to reach out to me. I’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Why+you+should+avoid+the+traditional+real+estate+process.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Why+you+should+avoid+the+traditional+real+estate+process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -474,7 +1018,7 @@ The traditional real estate process is no longer a method that works for sellers
       
       <item>
         <title>Professional Pictures Can Land $10k More When Selling Your Home</title>
-        <link>localhost:4000/professional-pictures.html</link>
+        <link>http://dianesvideoblog.com/professional-pictures.html</link>
         
           <category>Home Selling Tips</category>
         
@@ -504,7 +1048,7 @@ If you aren’t planning on selling your home quite yet, we can post your listin
 These are just a few of the top tips that I like to share at our Home Selling Sharks Seminars. Visit HomeSellingSharks.com to sign up for our next monthly seminar. In the meantime, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Professional+pictures+can+land+%2410k+more+when+selling+your+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Professional+pictures+can+land+%2410k+more+when+selling+your+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -523,7 +1067,7 @@ When is the best time to take exterior photos of your home? How should you stage
       
       <item>
         <title>Real Estate Wave is Building - Jump In</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate.html</link>
         
           <category>Market Update</category>
         
@@ -563,7 +1107,7 @@ Are you, or someone you know, going to be selling their home within the next 2 y
 Stay tuned for my next video where I’ll address the topic of home staging. If you have any other questions in the meantime, feel free to contact me any way you can. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Real+Estate+Market+is+Exploding.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Real+Estate+Market+is+Exploding.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -582,7 +1126,7 @@ Home prices and interest rates are both going up in our market; however, as you�
       
       <item>
         <title>Booming Spring Market Is Upon Us</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate.html</link>
         
           <category>Market Update</category>
         
@@ -626,7 +1170,7 @@ We are also having Homebuyer Workshop on March 23rd at 6 p.m. at the Abington To
 If you have any questions about our market or are thinking about buying or selling a home, please don’t hesitate to reach out to me. In the meantime, be on the lookout for my next video where I’ll discuss different parts of the staging process in the home sale.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Your+March+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Your+March+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -645,7 +1189,7 @@ We’re creeping up on the second quarter of 2017, which means that interest rat
       
       <item>
         <title>Do Buyers or Sellers Hold the Edge in Our Market?</title>
-        <link>localhost:4000/do-buyers-or-sellers-hold-edge-in-our.html</link>
+        <link>http://dianesvideoblog.com/do-buyers-or-sellers-hold-edge-in-our.html</link>
         
           <category>Market Update</category>
         
@@ -689,7 +1233,7 @@ If you or anyone you know is thinking about buying or selling a home, be sure to
 In the meantime, if you have any questions, please feel free to give me a call. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate-+Your+February+market+report.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate-+Your+February+market+report.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -708,7 +1252,7 @@ Going forward in 2017, there are plenty of reasons both buyers and sellers shoul
       
       <item>
         <title>Where Is Our Real Estate Market Headed?</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate.html</link>
         
           <category>Market Update</category>
         
@@ -752,7 +1296,7 @@ If you have any questions about what’s happening in the market, please feel fr
 Also, stay tuned for my next video where I will share some awesome staging techniques to help your home sell quickly and for top dollar. Talk to you soon!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Your+monthly+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Your+monthly+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -771,7 +1315,7 @@ Many important developments are taking place in our market as we head into 2017.
       
       <item>
         <title>Looking Back at Important Stats From the 2016 Market</title>
-        <link>localhost:4000/athens-real-estate-agent-looking-back.html</link>
+        <link>http://dianesvideoblog.com/athens-real-estate-agent-looking-back.html</link>
         
           <category>Athens Real Estate Agent</category>
         
@@ -802,7 +1346,7 @@ If you’ve thought about selling, this time is the best time in nearly the last
 If you’ve been thinking about making a move in the Athens area, the time is now. Give us a call or send us an email today. We’d be glad to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Looking+Back+at+2016+to+Predict+2017.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Looking+Back+at+2016+to+Predict+2017.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -821,7 +1365,7 @@ Today we’re taking a look back at the Athens area market statistics from 2016 
       
       <item>
         <title>Secret Job Opportunity You Wont Find on Any Job Boards</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate.html</link>
         
           <category>Cardano Realtors</category>
         
@@ -863,7 +1407,7 @@ We will teach you everything we know, and we know a lot.
 Thanks again for being a loyal blog listener. If you have any questions about the job opportunities or other real estate needs, please feel free to give me a call or send me an email. I can’t wait to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Secret+Job+Opportunity+You+Won%E2%80%99t+Find+on+Any+Job+Boards.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+Secret+Job+Opportunity+You+Won%E2%80%99t+Find+on+Any+Job+Boards.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -882,7 +1426,7 @@ We have some exciting opportunities for you to join our team. Find out how we ca
       
       <item>
         <title>Market is Hot for Home Sellers</title>
-        <link>localhost:4000/whats-happening-in-our-winter-real.html</link>
+        <link>http://dianesvideoblog.com/whats-happening-in-our-winter-real.html</link>
         
           <category>Market Update</category>
         
@@ -918,7 +1462,7 @@ That’s it for our winter market update. Keep an eye out for our next Home Sell
 In the meantime, reach out to me with any real estate questions you might have. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+-+What%E2%80%99s+Happening+in+Our+Winter+Real+Estate+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+-+What%E2%80%99s+Happening+in+Our+Winter+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -937,7 +1481,7 @@ It’s winter, but the real estate market is not slowing down! Today, I’ll go 
       
       <item>
         <title>Secret Strategies to Making Your Real Estate Great Again</title>
-        <link>localhost:4000/suburbs-of-philadelphia-real-estate-how.html</link>
+        <link>http://dianesvideoblog.com/suburbs-of-philadelphia-real-estate-how.html</link>
         
           <category>Buyer and Seller Tips</category>
         
@@ -967,7 +1511,7 @@ Why am I telling you this? Because houses today are selling quickly–for those 
 If you have any questions about how to make your real estate great again, please don’t hesitate to give me a call or shoot me an email. Remember, we’re having our next Home Selling Sharks seminar on January 21st at the Hilton Garden Inn. To register, all you have to do is visit homesharksseminar.com. In the meantime, I hope to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+to+make+your+real+estate+great+again.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://dianesvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/Suburbs+of+Philadelphia+Real+Estate+How+to+make+your+real+estate+great+again.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
