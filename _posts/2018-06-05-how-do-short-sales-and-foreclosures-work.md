@@ -21,7 +21,9 @@ youtube_code: AXqX56na5cw
 
 {% include youtube.html %}
 
-<center>Short sales and foreclosures might sound like good deals for home buyers, but they can be nightmares for homeowners. Here’s how the process actually works.</center>
+<center><em>Short sales and foreclosures might sound like good deals for home buyers, but they can be nightmares for homeowners. Here&rsquo;s how the process actually works.</em></center>
+
+&nbsp;
 
 Today I’m talking about the difference between a short sale and a foreclosure. Most people believe that these types of properties are good deals and pretty straightforward, but we’re going to debunk that myth today.
 
