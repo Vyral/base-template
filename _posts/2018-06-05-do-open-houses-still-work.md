@@ -17,7 +17,7 @@ youtube_code: CY6Xee3Ogvw
 
 {% include youtube.html %}
 
-<center><em>How do open houses work in today’s market? We’re taking a closer look today.</em></center>
+<p style="text-align: center;"><em>How do open houses work in today’s market? We’re taking a closer look today.</em></p>
 
 <center>&nbsp;</center>
 
