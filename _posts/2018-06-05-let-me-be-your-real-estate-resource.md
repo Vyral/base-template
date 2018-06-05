@@ -12,7 +12,7 @@ pullquote: 'Whatever your real estate needs are, we can assist with them.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1.jpg
+youtube_alternate_image: /uploads/tia-how-we-can-help-youtube.jpg
 youtube_code: 'https://youtu.be/JXc7Hcd4MYg'
 ---
 
