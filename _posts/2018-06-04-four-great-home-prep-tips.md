@@ -35,8 +35,8 @@ Today I am going to give you a few tips if you have been thinking about putting 
 
 {% include pullquote.html %}
 
-**3. Approve as many showing request as possible**. If too many are declined, agents and buyers start to think that you’re not serious about selling the property.
+**3. Approve as many showing requests as possible**. If too many are declined, agents and buyers start to think that you’re not serious about selling the property.
 
-**4. Try not to be there for the showings**. As nice and helpful that most sellers can be, it is still awkward for the buyer to have them there. A lot of times, it can actually deter the seale.
+**4. Try not to be there for the showings**. As nice and helpful as most sellers can be, it is still awkward for the buyer to have them there. A lot of times, it can actually deter the sale.
 
 If you have any questions about selling your home or you are ready to list now, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
