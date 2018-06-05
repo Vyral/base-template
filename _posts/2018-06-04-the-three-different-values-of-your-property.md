@@ -27,11 +27,11 @@ youtube_code: Oordk8CSAXI
 
 &nbsp;
 
-Something that comes up to us a lot is the three different types of value. Assessed value, appraised value, and market value with different values. Although they may be close on occasion, they also could be way different.
+A topic that gets brought up to us a lot throughout the year while working with our clients is the three different types of home value: assessed value, appraised value, and market value. Although they may be close on occasion, they also could be way different.
 
 Let’s start with assessed value. **Assessed value is the amount set by the assessor in your jurisdiction**. The figure an assessor gives you is usually a percentage of what they perceive the value to be. Since property taxes are based upon assessed value, you want this figure to be lower. It should be close to your actual market value, but it oftentimes is not.
 
-**Appraised value is when someone is hired to determine the value of your house when you are refinancing or purchasing**. They are doing the same process that we do as real estate professionals to determine the market value. They do a walk through and compare it to other homes with similar amenities and improvements in the area that have sold. In most appraisals they include a construction or replacement cost that is used for insurance purposes.
+**Appraised value is when someone is hired to determine the value of your house when you are refinancing or purchasing**. They are doing the same process that we do as real estate professionals to determine the market value. They do a walk-through and compare it to other homes with similar amenities and improvements in the area that have sold. In most appraisals, they include a construction or replacement cost that is used for insurance purposes.
 
 Finally, **market value is where you are actually trying to determine where you are positioned based on the current market climate**. Is it a buyer’s market or a seller’s market? What we call the absorption rate shows us how much inventory we have and how the market is swaying to set where your home should be positioned. It is very much like an appraisal where we look at other homes’ similar features to help position your home based on the current market climate.
 
