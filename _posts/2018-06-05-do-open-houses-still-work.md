@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: Security issues can arise if anyone can just walk in.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: CY6Xee3Ogvw
 ---
