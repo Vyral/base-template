@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Can Help You Buy or Sell Anywhere in the World
-date: 2018-02-28 18:12:26
+date: 2018-06-01 18:12:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mindy-and-jay-robbins--global-referral-network-youtube-.jpg
-youtube_code: 'https://youtu.be/EyezM3Wt1nU'
+youtube_code: 'https://youtu.be/Dgk0cEr3Vtk'
 ---
 
 {% include youtube.html %}
