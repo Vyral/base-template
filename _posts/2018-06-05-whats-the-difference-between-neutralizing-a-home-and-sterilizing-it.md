@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What’s the Difference Between Neutralizing a Home and Sterilizing It?
-date: 2018-06-05 18:02:19
+date: 2018-06-05 18:02:00
 tags:
   - Real Estate
 excerpt: What is the difference between sterilizing and neutralizing a home?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+the+Difference+Between+Neutralizing+a+Home+and+Sterilizing+It%253F.mp4
 pullquote: >-
   We always try to stay on trend and add color to rooms to help them visually
   pop.
@@ -13,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mOCD6yDoc
+youtube_code: _mOCD6yDoc
 ---
 
 {% include youtube.html %}
