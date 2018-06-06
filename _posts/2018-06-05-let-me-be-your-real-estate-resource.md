@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Thinking about buying or selling a home in Houston? Here’s how my team can
   help.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Facebook+Ad.mp4
 pullquote: 'Whatever your real estate needs are, we can assist with them.'
 enclosure_type: video/mp4
 enclosure_time:
