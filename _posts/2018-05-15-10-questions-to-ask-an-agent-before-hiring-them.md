@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Questions to Ask an Agent Before Hiring Them
-date: 2018-05-15 21:15:12
+date: 2018-06-06 12:15:12
 tags:
   - Home Seller Tips
 excerpt: Questions to ask before hiring an agent
