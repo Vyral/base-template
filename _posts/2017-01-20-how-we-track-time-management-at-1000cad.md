@@ -18,7 +18,7 @@ thumbnail: https://2.bp.blogspot.com/-ETEouV-KSyA/WIJtEIJ7jPI/AAAAAAAAtek/J8NEnp
 blogger_id: tag:blogger.com,1999:blog-257818543515876919.post-5639090906490335237
 blogger_orig_url: http://www.1000callsaday.com/2017/01/how-we-track-time-management-at-1000cad.html
 ---
-{% include youtube.html %}
+
 Friends and clients,
 
 What does time management look like at 1000 Calls A Day? How do we keep our employees accountable?
@@ -31,4 +31,4 @@ There is a management chat thread that keeps track of whether or not people have
 
 Of course, sometimes VAs are simply MIA. If we cannot get ahold of them once, they get a verbal warning; if it happens again, they are fired. Time management is especially important when you have remote employees, and we have honed our system to keep our VAs accountable.
 
-If you have any questions or would like to learn more about 1000CAD, <a href="" target="_blank">register here</a> or reach out to me with any questions you may have. I look forward to hearing from you!
+If you have any questions or would like to learn more about 1000CAD, [register here](){: .cc-active target="_blank"} or reach out to me with any questions you may have. I look forward to hearing from you!
