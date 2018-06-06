@@ -1,38 +1,38 @@
 ---
 layout: post
-title: Is a Perfect Credit Score Necessary to Qualify for a Loan?
+title: 'Insurance: Telltale Signs That it''s a Scam'
 date:
 tags:
   - Real Estate
-excerpt: Do you have a poor credit score?
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/DFW+Mortgage+Lender-+Is+a+Perfect+Credit+Score+Necessary+to+Qualify+for+a+Loan%253F.mp4
+excerpt: How to tell if your insurance company is legit
+enclosure:
 pullquote: >-
-  If you have a less-than-perfect credit score, you should consider improving it
-  with the help of a credit repair specialist.
+  If you are questioning the legitimacy of your insurance company, there are a
+  few key things to look at in order to determine whether or not they're worth
+  your time.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code: gFz254NAg0M
 ---
 
-{% include youtube.html %}
+I recently read an article regarding the difference between a good insurance company and a great one. &nbsp;
 
-Do you need perfect credit to qualify for a loan? Today I am debunking this myth for you.
+While getting the right amount of coverage is really critical, it’s also important that you know that you are doing business with the right carrier. &nbsp;
 
-After the last recession, a lot of lending guidelines were tightened up and the perception was that you needed a perfect credit score in order to qualify for a loan. While this was true then, things have really loosened up over the last few years.
+**Check to make sure the company is licensed in the state.** &nbsp;While insurance companies have different entity names, do business with companies that are licensed to do business in the state. &nbsp;You can check the state’s insurance licensing website, which will have a list of all the companies. If they are licensed and in good standing, this allows you to get help from the state insurance department if you are having problems. &nbsp;
 
-As long as you have a 620 credit score or higher, you will qualify for most loan programs. The exception to this rule will be for most jumbo loans. With a conventional loan, however, 620 is going to be the cutoff.
+**Check to make sure they are financially healthy.** &nbsp;A company that is in poor financial shape may not have enough money to pay your claim…or they might try to negotiate lesser coverage when it comes time to cut a check. &nbsp;Here are several websites you can visit to check on their financial health. It is suggested that you check at two of them.
 
-**This is not to say that you will not qualify for other programs if you do not have a 620 credit score.** For example, a VA loan is an option if you are a veteran. There is no standard minimum score to qualify for it, although certain lenders do have their own internal minimum score requirements.
+* **A.M. Best Ratings** – &nbsp; [www.ambest.com](www.ambest.com)
+* **Fitch Ratings** –&nbsp; [www.fitchratings.com](www.fitchratings.com)
+* **Moody’s** – &nbsp; [www.Moodys.com](www.Moodys.com){: target="_blank"}
 
-**The FHA loan is another option for someone with a lower credit score**. This is a great loan program that lends to people with very low credit scores. Any score lower than a 620 will result in some difficulty with getting approved, while anything below 580 will make it very difficult for you to get approved.
+&nbsp;
 
-If you have a less-than-perfect credit score, you should consider speaking with a credit repair specialist. If you need an introduction to a credit repair specialist, I will be more than happy to assist you with that. They will take great care of you, as will my own team throughout the process.
+**Check the number of complaints.** &nbsp;Again, the state’s insurance department should provide you with the number of justified (keyword: justified) complaints from consumers. &nbsp;The report gives you a “complaint ratio”, meaning it compares the number of justified complaints to the total number of insurance complaints in the state. &nbsp;You can also find that ratio at [www.NAIC.org](www.NAIC.org), The National Association of Insurance Commissioners website. &nbsp;Look for a low complaint ratio.
 
-And, **if you are one of the people who is not monitoring your credit score on your own, you should definitely start.** There are numerous consumer sites where you can pull up your credit report. Keep in mind that the report you see and the version that a lender sees are not going to be the same.
+**Check their response time.** &nbsp;If you find yourself holding on the phone for a long period of time. &nbsp;If you don’t receive timely call backs. Or if the explanations of coverage are confusing to you, it’s a good indication that you will have similar problems when it’s time to file a claim.&nbsp;
 
-The higher your credit score, the easier it will be to reach your home buying goals. If there is anything that I can do to help you on your path to buying, please feel free to reach out. I would be happy to assist you in any way that I can.
-
-{% include pullquote.html %}
+If you are looking to buy insurance or change insurance companies, please contact me because I know many great insurance agents for you to check out.
