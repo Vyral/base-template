@@ -11,7 +11,9 @@ excerpt: >-
   commitment?” To learn more, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+Title+Insurance.mp4
-pullquote: We are proud of our guaranteed sale program.
+pullquote: >-
+  Obtaining a policy with a title company essentially means obtaining access to
+  their legal team.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
