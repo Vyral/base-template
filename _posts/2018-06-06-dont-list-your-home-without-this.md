@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t List Your Home Without This!
-date:
+date: 2018-06-06 15:29:09
 tags:
   - Home Seller Tips
 excerpt: >-
