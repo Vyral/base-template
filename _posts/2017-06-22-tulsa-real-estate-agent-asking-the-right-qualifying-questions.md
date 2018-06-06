@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-34810047693109945
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/06/tulsa-real-estate-agent-asking-the-right-qualifying-questions.html
 ---
 {% include youtube.html %}
-
 Have you ever shown up for an appointment with a seller and they weren’t ready, willing, or able to sell their home?
 
 I have, and I don’t want you to make the same mistakes that I did. I have a lead sheet that’s a checklist to remind myself to ask the right questions of my sellers over the phone that I want to go over with you. **Following this lead sheet, collecting the right information, and asking the right questions as you’re on the phone with your sellers will save you both time and energy.**

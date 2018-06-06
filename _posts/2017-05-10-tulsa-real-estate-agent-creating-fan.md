@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-52173509024915163
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/05/tulsa-real-estate-agent-creating-fan.html
 ---
 {% include youtube.html %}
-
 Creating a fan club is one of the best things you can do for your business. I’ll explain why today.
 
 I wanted to take a minute to talk to you about something that I’ve noticed and has been on my mind.

@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-75757826729853850
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/04/tulsa-real-estate-agent-do-you-know-where-your-business-comes-from.html
 ---
 {% include youtube.html %}
-
 If you keep track of relationship patterns, you’ll see that making one contact can lead to a windfall of transactions down the road.
 
 If you look in the video above, you’ll see I’m holding a piece of paper I’m really proud of that I want to share with you. It’s a flowchart of a relationship pattern my team and me have been tracking.

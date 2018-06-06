@@ -30,7 +30,7 @@
 	// @include transition(0.3s)
 	&:hover
 		background: #eeeeee
-		color: $brand-dark
+		color: $brand
 		// border-top: 3px solid $brand
 		// @include transform(scale(1.05))
 		// @include transform(translateY(-0.2rem))
@@ -43,22 +43,33 @@
 		text-decoration: none
 		color: $brand
 
-.cta
+.navbar-right>li>a
 	background: transparent
-	color: $button-text
-	// padding: 1.3rem 2rem
-	text-transform: capitalize
+	color: $theme
+	margin-top: 2rem
 	font-size: 2rem
-	font-weight: 300
+	font-weight: bold
 	&:hover
 		background: #eeeeee
-		color: $brand-dark
-	&:active
-		text-decoration: none
+		color: $theme
+
+.cta
+	a
+		background: transparent
 		color: $brand
-	&:focus
-		text-decoration: none
-		color: $brand
+		// padding: 1.3rem 2rem
+		text-transform: capitalize
+		font-size: 2rem
+		font-weight: bold
+		&:hover
+			background: #eeeeee
+			color: $brand
+		&:active
+			text-decoration: none
+			color: $brand
+		&:focus
+			text-decoration: none
+			color: $brand
 
 .fa-bars
 	color: $brand

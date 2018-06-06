@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-68410568991302294
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/01/tulsa-real-estate-agent-the-benefits-of-being-a-learning-based-agent.html
 ---
 {% include youtube.html %}
-
 There’s always more to learn as a real estate agent. Here are just a few examples.
 
 I’m excited to be joined today by my amazing friend, Jessica Starr, a Keller Williams agent out of Connecticut and Lower Massachusetts. I talked to her a little bit about why being learning-based is so important as an agent, as well as about some of the different trainings and learning opportunities that KW offers.

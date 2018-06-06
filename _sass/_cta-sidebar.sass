@@ -1,47 +1,37 @@
-.cta-sidebar-container
-	width: 100%
-	border: 1px solid #cfcfcf
-	border-radius: $button-radius
-	display: flex
-	flex-wrap: wrap
-	margin-bottom: 20px
-	margin-top: 20px
-	overflow: hidden
-	.cta-img-container
-		a
-			img
-				max-width: 100%
-				width: 1000px
-	h5
-		// position: relative
-		// top: 0
-		// left: 0
-		// z-index: 1
-		padding-left: 10px
-	p
-		font-size: 18px
-		padding: 10px
-		color: #555
-.ctacontainer
-	// padding: 20px
-	margin: 0px auto 30px
+.photo-cta
+  width: 100%
+  line-height: 20px
+  display: block
+  margin: 0 auto
+  position: relative
+  margin-bottom: 20px
 
-.ctalink
-	justify-content: center
-	background: $brand
-	border: 1px solid $brand
-	border-radius: $button-radius
-	padding: 10px 20px
-	text-decoration: none
-	font-size: 18px
-	color: $light-text
-	+transition
-	a
-		text-align: center
-	&:hover
-		background: #fff
-		color: $brand
-		border: 1px solid $brand
-	&:active
-		box-shadow: 0 0 0 $brand
-		@include transform(translateY(0rem))
+.photo-cta-container
+  width: 70%
+  margin-left: 15%
+
+.cta-button
+  position: absolute
+  bottom: 20px
+  justify-content: center
+  display: block
+  color: $brand
+  background-color: #fff
+  border: 2px solid $brand
+  text-decoration: none
+  padding: 10px 20px
+  font-size: 20px
+  font-weight: bold
+  margin-left: auto
+  margin-right: auto
+  left: 100px
+  right: 100px
+  text-align: center
+  a
+    color: $brand
+  &:hover
+    border: 2px solid #fff
+    color: #fff
+    background-color: $brand
+    a
+      color: #fff

@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-43566957539848881
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/09/tulsa-real-estate-agent-are-you-feeling-unmotivated.html
 ---
 {% include youtube.html %}
-
 Recently, I’ve been feeling a little unfocused. Today I want to share a few tips on how you can overcome these same, common feelings in order to meet your goals.
 
 Right now, I’m feeling a little “blah.”

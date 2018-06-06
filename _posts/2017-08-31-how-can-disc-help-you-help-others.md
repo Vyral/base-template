@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-19715212242575212
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/08/how-can-disc-help-you-help-others.html
 ---
 {% include youtube.html %}
-
 We use the DISC personality profile to help us in our business and personal lives.
 Here’s what DISC stands for.
 

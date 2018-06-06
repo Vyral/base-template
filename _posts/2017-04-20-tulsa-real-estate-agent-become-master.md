@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-52125430187903939
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/04/tulsa-real-estate-agent-become-master.html
 ---
 {% include youtube.html %}
-
 Deciding to start my day earlier than usual was a great decision. It has allowed me to take back my mornings and be more productive throughout the day.
 
 Although it can be a difficult challenge, being able to master your morning will start to change your life. I know from experience. Years ago, I figured out that I needed to take control of my mornings back.

@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-20907075567644365
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/02/tulsa-real-estate-agent-how-to-hold-yourself-accountable.html
 ---
 {% include youtube.html %}
-
 Accountability is an essential quality for any successful real estate agent.
 Take it from my friend, Ricky Cain.
 

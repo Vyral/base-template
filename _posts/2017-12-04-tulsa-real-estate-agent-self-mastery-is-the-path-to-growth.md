@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-28084714762600546
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/12/tulsa-real-estate-agent-self-mastery-is-the-path-to-growth.html
 ---
 {% include youtube.html %}
-
 Are your schedule and general thought-process adding value to your life?
 If not, switch things up so that they do.
 

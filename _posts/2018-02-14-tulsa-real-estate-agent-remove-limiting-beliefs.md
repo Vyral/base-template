@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-41786035524988657
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/02/tulsa-real-estate-agent-remove-limiting-beliefs.html
 ---
 {% include youtube.html %}
-
 By removing limiting beliefs, just like I did, you can live your life more productively and more fiercely.
 
 Every single day, we make choices about what we’ll allow into our brains, what we absorb, and how we’ll react to life. When it comes to these choices, it’s important that we remove limiting beliefs.

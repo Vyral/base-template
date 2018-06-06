@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-52672642934370848
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/05/how-our-team-remembers-right-qualifying.html
 ---
 {% include youtube.html %}
-
 In order to remember which questions to ask when qualifying a buyer, we use the LPMAMA system. Here's how it works.
 
 When qualifying a potential client, the phrase LPMAMA is a great way to remember all the right questions to ask.

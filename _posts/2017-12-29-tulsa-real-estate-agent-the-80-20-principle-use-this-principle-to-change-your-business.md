@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-63865247510448341
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/12/tulsa-real-estate-agent-the-80-20-principle-use-this-principle-to-change-your-business.html
 ---
 {% include youtube.html %}
-
 Using the 80/20 principle, we can ensure that we’re prioritizing our time to be sure that our money-producing activities are handled before everything else, which sets us up for success.
 
 Today I want to continue my discussion of the six personal perspectives by focusing on another of them: the 80/20 principle. It shows up time and time again in our lives and in our businesses, and I really believe that there’s so much truth behind it.

@@ -20,7 +20,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-32147634554823091
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/07/tulsa-real-estate-agent-successful-tips-with-kelly-henderson.html
 ---
 {% include youtube.html %}
-
 According to fellow agent Kelly Henderson, time-blocking and lead-generation are two great tips to achieving success in our industry.
 
 I have some invaluable tips about how to achieve success in our industry from someone who’s been there, done that—fellow KW agent Kelly Henderson.

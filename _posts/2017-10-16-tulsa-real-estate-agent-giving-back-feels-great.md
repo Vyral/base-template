@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-12854056056070042
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/10/tulsa-real-estate-agent-giving-back-feels-great.html
 ---
 {% include youtube.html %}
-
 Put it in your business plan for 2018 to give back to your community. We have some ideas about how you can do that.
 
 Today I wanted to talk with you about giving—giving back to your community.

@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-85312944210775417
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/04/tulsa-real-estate-agent-tour-of-my.html
 ---
 {% include youtube.html %}
-
 When I moved into my office, I made sure it was a great place for me to shoot my videos. Here’s how I did that.
 
 I’m taking you on a tour of my office today to show you what’s going on behind the scenes in my videos. I’m excited to show you guys what I’m working with. All of the items I talk about in this video will be linked at the bottom of this blog post.

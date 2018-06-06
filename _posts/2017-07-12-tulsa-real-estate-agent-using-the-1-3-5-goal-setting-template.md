@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-27989174038039317
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/07/tulsa-real-estate-agent-using-the-1-3-5-goal-setting-template.html
 ---
 {% include youtube.html %}
-
 If you haven’t been using the 1-3-5 tool to get things accomplished in your business, I highly recommend you give it a try.
 
 Are you using the 1-3-5 (or GPS) tool to accomplish your goals?

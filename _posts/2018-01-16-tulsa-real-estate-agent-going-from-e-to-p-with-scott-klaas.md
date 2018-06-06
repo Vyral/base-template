@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-63991797204502173
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/01/tulsa-real-estate-agent-going-from-e-to-p-with-scott-klaas.html
 ---
 {% include youtube.html %}
-
 Going from E to P changed Scott Klaas’ life for the better, and it can do the same for you.
 Here’s how.
 

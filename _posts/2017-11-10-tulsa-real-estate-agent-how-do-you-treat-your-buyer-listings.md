@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-19473296040093848
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2017/11/tulsa-real-estate-agent-how-do-you-treat-your-buyer-listings.html
 ---
 {% include youtube.html %}
-
 We’ve been able to do a much better job of handling our buyers
 by adding one simple tool to our business.
 

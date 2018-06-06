@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-52775104691777999
 blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/03/tulsa-real-estate-agent-teaching-others-how-to-refer-your-business.html
 ---
 {% include youtube.html %}
-
 Make sure that your family, friends, and clients all know the best way to refer you to a potential client. Here are a few tips to help them.
 
 How can you make sure that when people refer you, they’re doing it correctly?
