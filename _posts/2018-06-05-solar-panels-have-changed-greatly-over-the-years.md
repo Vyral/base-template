@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Solar Panels Have Changed Greatly Over the Years
-date: 2018-06-05 17:47:02
+date: 2018-06-05 17:47:00
 tags:
   - Real Estate
 excerpt: >-
   Solar panels have changed greatly over the last few years. To explain how much
   they have improved, I have Bruce Wilson of SunPower with me today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Buda%252C+Texas+Real+Estate-+What+You+Should+Know+About+the+Solar+Panels+of+Today.mp4
+  https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Buda%252C+Texas+Real+Estate-+What+You+Should+Know+About+the+Solar+Panels+of+Today+(1).mp4
 pullquote: I just added a listing where the highest electric bill was $1.26 last year!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: clTZDfM5FLI
+youtube_code: CbJM2z4U4kE
 ---
 
 {% include youtube.html %}
@@ -31,6 +31,6 @@ Another improvement to solar is that **there are now “solar loans” to help p
 
 Of course, you can prepay as well, which makes your electricity free instantly.
 
-If you choose to take out a loan, **your loan payment could be approximately what your electricity bill already is, so there will be no changes in your monthly expenses**. Some incentives in the Austin area may even drive the price lower, so you are saving immediately. And, when you make the last payment your electricity really is free. &nbsp;
+If you choose to take out a loan, **your loan payment could be approximately what your electricity bill already is, so there will be no changes in your monthly expenses**. Some incentives in the Austin area may even drive the price lower, so you are saving immediately. And, when you make the last payment your electricity really is free.  
 
 If you have any questions about solar panels or would like more information, please feel free to reach out to Bruce by phone or email. Also, if you have any buying or selling questions for me, I would be happy to help you in any way that I can by phone or email.
