@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Home Sellers: Don’t Hire an Agent Before Asking Them These 5 Questions'
-date:
+date: 2018-06-06 15:01:11
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -26,7 +26,7 @@ youtube_code: uvuUcgeMB3w
 
 {% include youtube.html %}
 
-If you’re selling your home and you need to hire an agent, here are five questions you should ask them in order to find out if they’ll be able to sell your home quickly and for top dollar:
+If you’re selling your home and you need to hire an agent, **here are five questions you should ask them in order to find out if they’ll be able to sell your home quickly and for top dollar:**
 
 1. How long have you been selling homes? This will give you an idea of their experience level.
 
