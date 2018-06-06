@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Put Too Much Emphasis on a Zestimate
-date:
+date: 2018-06-06 18:20:28
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,8 +31,8 @@ If you are talking about custom homes, though, you will typically see a big diff
 
 {% include pullquote.html %}
 
-So, be careful how much emphasis you put on a Zestimate, because the truth is it could be way off. In fact, studies show that Zestimates can be off by 15% to 25%.&nbsp;
+So, be careful how much emphasis you put on a Zestimate, because the truth is it could be way off. In fact, studies show that Zestimates can be off by 15% to 25%. 
 
-**If you are thinking of putting your home on the market, you need to call a professional such as myself** so we can fill you in on the latest market trends and highlight all of your home’s features so you’re not leaving money on the table when you list it.&nbsp;
+**If you are thinking of putting your home on the market, you need to call a professional such as myself** so we can fill you in on the latest market trends and highlight all of your home’s features so you’re not leaving money on the table when you list it. 
 
-If you have any other questions about determining your home’s value or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be glad to help you.&nbsp;<br>&nbsp;
+If you have any other questions about determining your home’s value or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be glad to help you. <br>
