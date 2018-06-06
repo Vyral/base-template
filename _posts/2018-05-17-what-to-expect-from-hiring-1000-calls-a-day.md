@@ -3,7 +3,10 @@ layout: post
 title: What To Expect From Hiring 1000 Calls A Day
 date: 2018-05-17 00:00:00
 tags:
-excerpt:
+  - 1000 Calls A Day
+excerpt: >-
+  One of our clients, John Sibley, joined me recently for an interview about his
+  experience with 1000 Calls A Day.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+A+Day-+Interview+with+John+Sibley.mp4
 pullquote:
