@@ -18,14 +18,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-june-2-ss-no-play.jpg
-youtube_code: bb2nLhSnCos
+youtube_code: FVdFJL4_5Hg
 ---
 
 {% include youtube.html %}
 
 <center><em>What does working with a discount broker truly cost sellers? Today let&rsquo;s take an in-depth look at this listing mistake.</em></center>
 
- 
+&nbsp;
 
 When it comes time to list, some sellers may be tempted to work with companies or agents offering discounted services. Paying less may sound attractive, but working with these companies (or agents) can cost sellers far more than it saves them.
 
@@ -33,13 +33,13 @@ For example, we recently met with a seller who had been bombarded with cost-cutt
 
 Sometimes, the leads that come through these discount real estate companies are sent to other agents. This means sellers seeking a good deal may wind up paying the same commission fee as anyone else. In other words, the Realtor-client relationship set up in these situations is based on lies. And, because real estate transactions constitute such major life decisions, this deception could have serious financial consequences.
 
-<br>At the end of the day, **sellers who believe they’ll be paying a 1% commission fee are actually setting themselves up for minimal service and additional expenses later on** in the transaction. To truly make the most of a transaction, sellers need access to the kind of resources, service, and support that these discount brokers simply can’t (or won’t) provide.
-
-{% include pullquote.html %}
+At the end of the day, **sellers who believe they’ll be paying a 1% commission fee are actually setting themselves up for minimal service and additional expenses later on** in the transaction. To truly make the most of a transaction, sellers need access to the kind of resources, service, and support that these discount brokers simply can’t (or won’t) provide.
 
 One major resource these discount brokers cut back on is marketing. And without marketing, getting top dollar simply isn’t possible. Sellers need as many buyers as possible to see their listing in order to achieve a successful sale.
 
-So choosing an agent based on a discounted commission fee alone is actually a major mistake. You may save money up front, but you’ll certainly lose money in the long run.
+So, choosing an agent based on a discounted commission fee alone is actually a major mistake. You may save money up front, but you’ll certainly lose money in the long run.
+
+{% include pullquote.html %}
 
 When you work with high-quality agents like us, though, you can expect to earn well above list price on the sale of your home. In fact, our team recently helped a seller earn $21,000 over asking price. **These results more than make up for the amount sellers “save” when working with discount brokers**.
 
