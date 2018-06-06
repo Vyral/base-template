@@ -25,11 +25,11 @@ youtube_code: AXqX56na5cw
 
 &nbsp;
 
-Today I’m talking about the difference between a short sale and a foreclosure. Most people believe that these types of properties are good deals and pretty straightforward, but we’re going to debunk that myth today.
+Today I’m talking about the difference between a short sale and a foreclosure. Most people believe that these types of properties are good deals and pretty straightforward, but we’re going to debunk that myth.
 
 **First, let’s look at the differences between a short sale and a foreclosure**. A short sale typically happens when a homeowner owes more on a home than it’s worth and they have a window of time to sell it before the bank seizes the property. During the short sale process, the homeowner can remedy their debt and get caught up to make sure they don’t go into the foreclosure process.
 
-**For a valid short sale, there will need to be a significant distress in your life**. For example, a spouse passing away, a job loss, or a medical issue. You have to prove that something caused you to be unable to make your payments. If you can prove that you have a hardship and that you’re in distress, you should be able to initiate the short sale process. The bank will then “short” the loan and take a loss on it to get it off the books. Then the seller can initiate the process of selling their home. It’s a good spot for a seller to be in, but it does open up good opportunities for homebuyers who are looking for a deal.
+**For a valid short sale, there will need to be a significant distress in your life**. For example, a spouse passing away, a job loss, or a medical issue. You have to prove that something caused you to be unable to make your payments. If you can prove that you have a hardship and that you’re in distress, you should be able to initiate the short sale process. The bank will then “short” the loan and take a loss on it to get it off the books. Then the seller can initiate the process of selling their home. It’s a tough spot for a seller to be in, but it does open up good opportunities for home buyers who are looking for a deal.
 
 If you’re working with an agent who knows what they’re doing, I can refer you to someone who is and can really navigate the process. If you know someone who is going through a short sale, we can help them out.
 
