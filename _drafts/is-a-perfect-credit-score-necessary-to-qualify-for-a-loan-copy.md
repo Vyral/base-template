@@ -27,13 +27,13 @@ While getting the right amount of coverage is really critical, it’s also impor
 
 **Check to make sure they are financially healthy.** &nbsp;A company that is in poor financial shape may not have enough money to pay your claim…or they might try to negotiate lesser coverage when it comes time to cut a check. &nbsp;Here are several websites you can visit to check on their financial health. It is suggested that you check at two of them.
 
-- A.M. Best Ratings – &nbsp; [www.ambest.com](www.ambest.com)
+* A.M. Best Ratings – &nbsp; [www.ambest.com](www.ambest.com)
 
-- Fitch Ratings –&nbsp; [www.fitchratings.com](www.fitchratings.com)
+* Fitch Ratings –&nbsp; [www.fitchratings.com](www.fitchratings.com)
 
-- Moody’s – &nbsp; [www.Moodys.com](www.Moodys.com)
+* Moody’s – &nbsp; [www.Moodys.com](www.Moodys.com)
 
-**Check the number of complaints.** &nbsp;Again, the state’s insurance department should provide you with the number of justified (keyword: justified) complaints from consumers. &nbsp;The report gives you a “complaint ratio”, meaning it compares the number of justified complaints to the total number of insurance complaints in the state. &nbsp;You can also find that ratio at www.NAIC.org, The National Association of Insurance Commissioners website. &nbsp;Look for a low complaint ratio.
+**Check the number of complaints.** &nbsp;Again, the state’s insurance department should provide you with the number of justified (keyword: justified) complaints from consumers. &nbsp;The report gives you a “complaint ratio”, meaning it compares the number of justified complaints to the total number of insurance complaints in the state. &nbsp;You can also find that ratio at [www.NAIC.org](www.NAIC.org), The National Association of Insurance Commissioners website. &nbsp;Look for a low complaint ratio.
 
 **Check their response time.** &nbsp;If you find yourself holding on the phone for a long period of time. &nbsp;If you don’t receive timely call backs. Or if the explanations of coverage are confusing to you, it’s a good indication that you will have similar problems when it’s time to file a claim.&nbsp;
 
