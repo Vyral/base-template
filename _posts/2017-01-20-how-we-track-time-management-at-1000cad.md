@@ -5,18 +5,19 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How We Track Time Management at 1000CAD
-date: '2017-01-20T12:11:00.000-08:00'
+date: 2017-01-20 20:11:00
 author: Vyral Admin
 tags:
-- Time Management
-modified_time: '2017-01-24T14:06:54.942-08:00'
-thumbnail: https://2.bp.blogspot.com/-ETEouV-KSyA/WIJtEIJ7jPI/AAAAAAAAtek/J8NEnpwWEv08NWCuqBFQmxdUJyeEm1OUQCLcB/s72-c/Sanders_Headshot-1.jpg
-blogger_id: tag:blogger.com,1999:blog-257818543515876919.post-5639090906490335237
-blogger_orig_url: http://www.1000callsaday.com/2017/01/how-we-track-time-management-at-1000cad.html
+modified_time:
+thumbnail: >-
+  https://2.bp.blogspot.com/-ETEouV-KSyA/WIJtEIJ7jPI/AAAAAAAAtek/J8NEnpwWEv08NWCuqBFQmxdUJyeEm1OUQCLcB/s72-c/Sanders_Headshot-1.jpg
+blogger_id: 'tag:blogger.com,1999:blog-257818543515876919.post-5639090906490335237'
+blogger_orig_url: >-
+  http://www.1000callsaday.com/2017/01/how-we-track-time-management-at-1000cad.html
 ---
 
 Friends and clients,
