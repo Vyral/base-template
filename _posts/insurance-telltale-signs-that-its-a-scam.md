@@ -1,10 +1,12 @@
 ---
 layout: post
 title: 'Insurance: Telltale Signs That it''s a Scam'
-date: 2018-06-06 23:11:01
+date: 2018-06-06 23:11:00
 tags:
   - Real Estate
-excerpt: How to tell if your insurance company is legit
+excerpt: >-
+  If you are questioning the legitimacy of your insurance company, there are a
+  few key things to look at before you give them your business
 enclosure:
 pullquote: >-
   If you are questioning the legitimacy of your insurance company, there are a
@@ -13,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/fsdafdsafdsa.jpg
 youtube_code: gFz254NAg0M
 ---
 
