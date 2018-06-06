@@ -17,11 +17,11 @@ youtube_code: VH3ND0mgZ9I
 
 {% include youtube.html %}
 
-The 30-year fixed rate on a mortgage has risen about a half percent in the last six to eight months. But, how could these rising interest rates affect you as a property owner or property buyer looking to purchase a property in Central Texas?
+The 30-year fixed rate on a mortgage has risen about a half percent in the last six to eight months. But, how could these rising interest rates affect you as a property owner or property buyer looking to in Central Texas?
 
-**As the potential buyer, if you have stagnant prices and rising interest rates, the $300,000 home you are considering now has about $80 to $90 more per month to pay**. As the seller, meanwhile, it limits the number of buyers that potentially can afford your home because of the increased monthly payment.
+**As the potential buyer, if you have stagnant prices and rising interest rates, the $300,000 home you are considering now has a mortgage payment of $80 to $90 more per month to pay**. As the seller, meanwhile, it limits the number of buyers that potentially can afford your home because of the increased monthly payment.
 
-Taking appreciation rates into account, have varied over the last eight years. They were sometimes as high as 10% to 15% year over year. And, they have been at 0% to 5% year over year depending on where you are talking about.
+Taking appreciation rates into account, they have varied over the last eight years. They were sometimes as high as 10% to 15% year over year. And, they have been at 0% to 5% year over year depending on where you are talking about.
 
 {% include pullquote.html %}
 
