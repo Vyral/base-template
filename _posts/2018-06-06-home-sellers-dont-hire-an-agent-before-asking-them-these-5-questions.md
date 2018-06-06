@@ -32,13 +32,13 @@ If you’re selling your home and you need to hire an agent, **here are five que
 
 2. Do you have a written marketing plan? Agents who have a more detailed marketing plan for their clients are typically more successful in selling homes consistently.
 
-{% include pullquote.html %}
-
 3. Do you work with a team or as an individual?
 
 4. What is your list-to-sale price ratio? This number will tell you how good of a negotiator they are.
 
 5. Do you have a written marketing analysis? Asking to see a written marketing analysis will allow you to actually see what the market is doing instead of listening to someone tell you where it’s at.
+
+{% include pullquote.html %}
 
 If you have any other questions about what you should ask your agent before hiring them or you have any other real estate needs, don’t hesitate to call or email us anytime. We’d love to speak with you.
 
