@@ -27,7 +27,7 @@ A few recent events just occurred here in Charleston, including the James Beard 
 
 Additionally, FIG won the award for the best wine program in the country and The Charleston School of Business won an award for their MBA program. They were voted the top MBA program for post-graduates in the country as it related to post-graduation job placement.
 
-As far as some other things that are coming up, there is the **13th annual Sweetgrass Festival, 2nd Sunday on King is back in town, and the Charleston Rum Fest and Charleston Beer Mile are also coming up soon.** You can learn more about these and all the other events going on in the area by checking out this document.
+As far as some other things that are coming up, there is the **13th annual Sweetgrass Festival, 2nd Sunday on King is back in town, and the Charleston Rum Fest and Charleston Beer Mile are also coming up soon.** You can learn more about these and all the other events going on in the area by checking out [this document.](http://https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/June.pdf)
 
 {% include pullquote.html %}
 
