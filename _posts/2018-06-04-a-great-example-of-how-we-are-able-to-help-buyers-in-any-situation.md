@@ -8,7 +8,7 @@ excerpt: >-
   I have a great story to share with you today. Here’s how we were able to help
   these buyers get the perfect property.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2018/Cleveland+Park+Real+Estate-+Another+Homebuyer+Success+Story.mp4
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2018/Cleveland+Park+Real+Estate-+A+Great+Example+of+How+We+Are+Able+to+Help+Buyers+in+Any+Situation.mp4
 pullquote: >-
   Even though the agent said we couldn’t make an offer on the property, we made
   one anyway and it got accepted.
@@ -25,7 +25,7 @@ I recently met a buyer who wanted to look at a co-op apartment with a friend of 
 
 Once I got to the building, I picked up the keys to the apartment we were going to look at and took a peek at the eighth floor on our way up. I ran down, knocked on the door, and saw an agent that I knew.
 
-She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure, &nbsp;but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
+She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure,  but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
 
 {% include pullquote.html %}
 
@@ -35,9 +35,9 @@ We went back to the office and wrote a big, fat offer. The price was well above 
 
 Stay tuned for our next video, which will give you the three keys to my buyer’s success in this situation.
 
-If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me.&nbsp;
+If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me. 
 
-Just give me a call at&nbsp;[240-731-8079](tel:240-731-8079){: target="_blank"}&nbsp;or write to…
+Just give me a call at [240-731-8079](tel:240-731-8079){: target="_blank"} or write to…
 
 [Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)
 
