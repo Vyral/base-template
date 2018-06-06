@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Another Homebuyer Success Story
-date: 2018-06-04 21:12:50
+title: A Great Example of How We Are Able to Help Buyers in Any Situation
+date: 2018-06-04 21:12:00
 tags:
   - Home Buyer Tips
 excerpt: >-
