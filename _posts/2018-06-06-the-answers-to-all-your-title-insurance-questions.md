@@ -5,7 +5,7 @@ tags:
   - Josh Stern Video Blog
 excerpt: >-
   If you’re like most, you’ve probably got some questions about the subject of
-  title insurance. Well you’re in luck. Today I’m joined by special guest and
+  title insurance. Well, you’re in luck. Today I’m joined by special guest and
   title expert Kyle Cain of Old Republic Title. Kyle is going to help me answer
   these key questions, such as “What should you look for when reviewing a title
   commitment?” To learn more, watch this short video.
