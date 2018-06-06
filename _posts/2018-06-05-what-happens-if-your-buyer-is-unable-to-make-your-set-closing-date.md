@@ -23,7 +23,7 @@ youtube_code: ztmKYSXT5ac
 
 You are a seller. Your house is on the market. You get an offer and the buyer says they will close in 30 days. But, just before the expected date your house should close, you find out they are unable to close on time. What happens now?
 
-You have a couple options. **You could walk away from the contract and put the house back on the market.**
+You have a couple of options. **You could walk away from the contract and put the house back on the market.**
 
 Or, you could continue to wait. To know if this is a possibility, **you will need to know why the buyer is asking for a longer closing time.**
 
@@ -37,6 +37,6 @@ I can put your house on the market and hope that somebody makes an offer and clo
 
 If you stay with this buyer, **you need to protect yourself.** I would advise you to ask for extra earnest money in case the same thing happens again and they say they still can’t buy your home. This extra earnest money will cover any expenses, such as the taxes, mortgage, and insurance. This will even out your risk, help you protect yourself, and still allow them the additional time.
 
-It does always come down to the situation. I will look at the situation and make a decision based upon why they are asking. Maybe their own home’s closing is delayed, they did not get an offer like they expected, or they need to provide extra paperwork to their lender and resubmit. It is not always black and white but that is where your Realtor will be able to help you make the best decision.
+It does always come down to the situation. I will look at the situation and make a decision based on why they are asking. Maybe their own home’s closing is delayed, they did not get an offer like they expected, or they need to provide extra paperwork to their lender and resubmit. It is not always black and white but that is where your Realtor will be able to help you make the best decision.
 
 If you have any questions, are in a similar situation, or are interested in buying or selling, please feel free to contact me. I would be happy to help you.
