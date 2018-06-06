@@ -21,7 +21,9 @@ youtube_code: vbo_9GNJdLo
 
 {% include youtube.html %}
 
-If you are curious what your home is worth, do not rely exclusively on a Zestimate. Here is why.
+<p style="text-align: center;"><em>If you are curious what your home is worth, do not rely exclusively on a Zestimate. Here is why.</em></p>
+
+<center>&nbsp;</center>
 
 If you are a home seller or are just curious what your home is worth, you need to be wary of relying on Zillow’s Zestimates. Why?
 
