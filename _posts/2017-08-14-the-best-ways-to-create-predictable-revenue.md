@@ -1,26 +1,25 @@
 ---
 youtube_code: F6YsC-rPy4E
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Creating+predictable+revenue.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day+Creating+predictable+revenue.mp4
 pullquote: We’ll handle outbound prospecting so you can focus on growing your business.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/sddefault.jpg
 layout: post
 title: The Best Ways to Create Predictable Revenue
-date: '2017-08-14T12:25:00.002-07:00'
+date: 2017-08-14 19:25:00
 author: Vyral Admin
 tags:
-- 1000CallsADay
-- Predictable Revenue Model
-modified_time: '2017-08-14T12:25:51.242-07:00'
-thumbnail: https://i.ytimg.com/vi/F6YsC-rPy4E/default.jpg
-blogger_id: tag:blogger.com,1999:blog-257818543515876919.post-6131078597487357389
-blogger_orig_url: http://www.1000callsaday.com/2017/08/the-best-ways-to-create-predictable.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/F6YsC-rPy4E/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-257818543515876919.post-6131078597487357389'
+blogger_orig_url: 'http://www.1000callsaday.com/2017/08/the-best-ways-to-create-predictable.html'
 ---
-{% include youtube.html %}
-What is the best way to build predictable revenue? According to one of my favorite books, it all boils down to systematizing your sales process.
+
+{% include youtube.html %}What is the best way to build predictable revenue? According to one of my favorite books, it all boils down to systematizing your sales process.
 
 “Predictable Revenue” is a fantastic book by Aaron Ross and Marylou Tyler. I recommend it to all of my clients. One of the main lessons I’ve learned from this book is **how to systematize your sales process.**
 
