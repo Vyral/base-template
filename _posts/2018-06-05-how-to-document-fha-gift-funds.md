@@ -1,9 +1,7 @@
 ---
 layout: post
-title: >-
-  What Kind of Documentation Is Required for Gift Funds for Non-Conventional
-  Loans?
-date: 2018-06-05 15:35:23
+title: How to document FHA gift funds
+date: 2018-06-05 15:35:00
 tags:
   - Real Estate
 excerpt: >-
