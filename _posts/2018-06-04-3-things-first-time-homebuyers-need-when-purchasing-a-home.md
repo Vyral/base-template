@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things First-Time Homebuyers Need When Purchasing a Home
-date: 2018-06-04 17:37:47
+date: 2018-06-04 17:37:00
 tags:
 excerpt: >-
   When purchasing a home with a loan, three things are required of you: your
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/abel-youtube-3-1.jpg
-youtube_code: ZBIWJbR52ak
+youtube_code: q9ug-W5jxY0
 ---
 
 {% include youtube.html %}
@@ -33,7 +33,7 @@ With a conventional loan, you can go anywhere from 3% down to 30% down. Many peo
 
 {% include pullquote.html %}
 
-The third and final requirement is your **income.** When it comes to this factor, you need to be employed within the same industry over at least the last two years. This doesn’t mean you have to be with the same employer, though. This comes into play once we start talking about your debt-to-income ratio. Again, there’s a big difference here between a conventional loan and an FHA loan, and you need to know your DTI to determine which route to take.
+The third and final requirement is your **income.** When it comes to this factor, you need to be employed within the same industry over at least the last two years. This doesn’t mean you have to be with the same employer, though. This comes into play once we start talking about your debt-to-income ratio (DTI). Again, there’s a big difference here between a conventional loan and an FHA loan, and you need to know your DTI to determine which route to take.
 
 **The situation is slightly different if you’re self-employed.** If you have a lot of compensating factors, we can potentially take only one year’s worth of taxes. There are several loan programs for self-employed individuals that don’t require two years’ worth of taxes. Your loan can also be done with only bank statements, and that’s important because it means you don’t have to declare huge amounts to be able to qualify, and you only need one month’s worth of bank statements to determine where your income is.
 
