@@ -22,7 +22,7 @@ youtube_code: Scyjub8QlTo
 
 {% include youtube.html %}
 
-By signing an MLS Waiver form, you give your Realtor the chance to market your home before it gets listed and give yourself a chance to properly prepare your home for the market.
+<p style="Text-align: center;"><em>By signing an MLS Waiver form, you give your Realtor the chance to market your home before it gets listed and give yourself a chance to properly prepare your home for the market.</em></p>
 
 If you are ready to put your home on the market, do not sign a listing contract with a Realtor without also signing an MLS Waiver form. Doing this will help your home sale tremendously, and there are a couple reasons why.
 
