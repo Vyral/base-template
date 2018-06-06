@@ -27,13 +27,13 @@ Hosting an open house is a tried and true marketing method when it comes to sell
 
 At their core, open houses have always been a great tool for prospecting. From an agent’s point of view, open houses are a fantastic way to find people who are interested in buying a home. They are also great opportunities for branding and finding double-end clients (those looking to buy and sell a home at the same time.)
 
-**What are the cons of open houses?** For starters, three is a low probability of selling the home directly from the open house. Any buyer who wants to buy the home will make a phone call or email to the listing agent. I’ve never heard of a situation where a buyer passed on a home because there wasn’t an open house.
+**What are the cons of open houses?** For starters, there is a low probability of selling the home directly from the open house. Any buyer who wants to buy the home will make a phone call or email to the listing agent. I’ve never heard of a situation where a buyer passed on a home because there wasn’t an open house.
 
 Another con of an open house is security issues. When we’re trying to get as many people through the home as possible, things can get tricky. An agent is only going to be able to monitor a few groups at a time, and if there is more than that it’s a concern that people will walk through your house with bad intentions.
 
 {% include pullquote.html %}
 
-**Finally, nosy neighbors can get in the way.** They might just want to come in and take a look, but they’re not going to buy the home. Your competition might be there too and if someone is selling a home, they’re not going to turn around and buy yours most likely.
+**Finally, nosy neighbours can get in the way.** They might just want to come in and take a look, but they’re not going to buy the home. Your competition might be there too and if someone is selling a home, they’re not going to turn around and buy yours most likely.
 
 I have no issue with open houses as long as everyone is on board to reach the same goals. Here are some of the pros you may see by hosting one.
 
