@@ -21,7 +21,9 @@ youtube_code: 4OeltsEQUyk
 
 {% include youtube.html %}
 
-There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.
+<p style="text-align: center;"><em>There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.</em></center> 
+
+<center>&nbsp;</center>
 
 I’ve received comments from a lot of concerned buyers over the past few months regarding increasing interest rates. So today Jeff Miller of Sunmark Federal Credit Union has joined me to answer questions about what is going on in the market.
 
