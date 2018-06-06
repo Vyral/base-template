@@ -19,7 +19,9 @@ youtube_code:
 
 {% include youtube.html %}
 
-The Market is steadily growing in the St. George area, and today I'm going to talk about what this means for you.
+<p style="text-align: center;"><em>The Market is steadily growing in the St. George area, and today I'm going to talk about what this means for you.</em></p>
+
+<center>&nbsp;</center>
 
 Friends, clients, and colleagues –
 
