@@ -1585,7 +1585,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 90px;
+  height: 400px; }
 
 #hero {
   background-position: center;
