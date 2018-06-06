@@ -1,6 +1,8 @@
 ---
 youtube_code:
-excerpt:
+excerpt: >-
+  What does time management look like at 1000 Calls A Day? How do we keep our
+  employees accountable?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
