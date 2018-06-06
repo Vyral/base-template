@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you have real estate needs outside of the Dallas area, you can count on us.
   We can help connect you to real estate professionals around the globe.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Dallas+-+Fort+Worth+Real+Estate+Agent-+What+Is+Our+Global+Referral+Network%253F+(1).mp4
 pullquote: >-
   We know Realtors and teams around the country and around the world who have
   the same high standards as us.
