@@ -1,6 +1,8 @@
 ---
 layout: post
-title: A Great Example of How We Are Able to Help Buyers in Any Situation
+title: >-
+  How Did My Buyer Beat the Competition to the Punch? HINT: Be First & Be the
+  Fastest!
 date: 2018-06-04 21:12:00
 tags:
   - Home Buyer Tips
@@ -37,8 +39,6 @@ Stay tuned for our next video, which will give you the three keys to my buyer’
 
 If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to call me at&nbsp;**[240-731-8079](tel:240-731-8079){: target="_blank"}**&nbsp;or write to&nbsp;**[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
 
-<div class="post-cta">We have the hottest new video strategy on the planet for buyers and sellers!</div>
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest new video strategy on the planet...</span><p>Buyers &amp; sellers love it!</p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
-<div class="post-button">
-  <a class="ctalink" href="http://dchomeblog.com/videos" target="_blank">Watch Now</a>
-</div>
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
