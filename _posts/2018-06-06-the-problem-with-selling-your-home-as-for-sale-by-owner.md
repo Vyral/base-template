@@ -23,7 +23,7 @@ youtube_code: IwTYrtvPvs4
 
 What is the difference between selling your home as “For Sale By Owner” (FSBO) and hiring a real estate agent to help with the transaction?
 
-**1. Legal contracts.** Owning real estate is one of the biggest investments that one makes. Agents have taken extensive training on contracts, real estate law, escrow, appraisals, and other continuing education courses to ensure client protection. One error on these contracts can be very costly to the buyer or selling. Having a knowledgeable, experienced real estate agent can prevent this from happening.
+**1. Legal contracts.** Owning real estate is one of the biggest investments that one makes. Agents have taken extensive training on contracts, real estate law, escrow, appraisals, and other continuing education courses to ensure client protection. One error on these contracts can be very costly to the buyer or seller. Having a knowledgeable, experienced real estate agent can prevent this from happening.
 
 If you decide to do a FSBO listing, you’ll want to hire a real estate attorney to review your contract, which can be very costly, since most attorneys charge on an hourly basis, and the fee is usually non-negotiable.
 
