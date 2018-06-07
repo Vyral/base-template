@@ -33,8 +33,8 @@ The real risk of waiting is that the market is very strong and home prices will 
 
 {% include pullquote.html %}
 
-Jeff recently helped us with a buyer that was in an approved contract with everything ready to go and then had issues with financing at the last minute. Jeff had a great 100% financing program which he was able to streamline that into for the buyer who was having problems with the appraisal. The client was using a different lender and the appraisal came in and their down payment was not going to be enough to handle the transaction.
+Jeff recently helped us with a buyer that was in an approved contract with everything ready to go and then had issues with financing at the last minute. Jeff had a great 100% financing program which he was able to streamline for the buyer, who was having problems with the appraisal. The client was using a different lender and the appraisal came in and their down payment was not going to be enough to handle the transaction.
 
 They decided to work with Jeff for a 100% financing option which allowed the client to get a higher loan amount than any other lender could offer. **Jeff helped get the deal finished for them.**
 
-If you need more information about this, you can contact Jeff at [www.sunmarkfcu.org](www.sunmarkfcu.org){: target="_blank"} or 1-866-SUNMARK. And, if you are looking to buy or sell, please feel free to call or email me. I look forward to speaking with you soon.
+If you need more information about this, you can contact Jeff at [www.sunmarkfcu.org](www.sunmarkfcu.org){: target="_blank"} or 1-866-SUNMARK. And, if you are looking to buy or sell, please feel free to call me at 518-376-1073 or email me at [wmiranda@mrgteam.com](wmiranda@mrgteam.com){: target="_blank"}. I look forward to speaking with you soon.
