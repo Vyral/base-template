@@ -35,8 +35,6 @@ We went back to the office and wrote a big, fat offer. The price was well above 
 
 Stay tuned for our next video, which will give you the three keys to my buyer’s success in this situation.
 
-If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me. Just give me a call at&nbsp;[240-731-8079](tel:240-731-8079){: target="_blank"}&nbsp;or write to&nbsp;[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com). I look forward to hearing from you soon.
+If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me by phone at&nbsp;**[240-731-8079](tel:240-731-8079){: target="_blank"}**&nbsp;or write to&nbsp;**[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
 
-If you'd like to watch the hottest new video strategy on the planet for buyers and sellers,&nbsp; go to: [DCHomeBlog.com/videos](http://dchomeblog.com/videos){: target="_blank"}
-
-&nbsp;
+**We have the hottest new video strategy on the planet for buyers and sellers!**
