@@ -8,7 +8,7 @@ excerpt: >-
   There may not be any benefits to waiting to buy. In fact, you could still have
   the same monthly mortgage payment even if the interest rates fall.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/2018/Capital+District+Real+Estate-+Interest+Rates.mp4
+  https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/2018/Capital+District+Real+Estate-+Interest+Rates+(1).mp4
 pullquote: >-
   The real risk of waiting is that home prices may continue to go up even if the
   interest rates decrease.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4OeltsEQUyk
+youtube_code: UvCnmmkT25I
 ---
 
 {% include youtube.html %}
