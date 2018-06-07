@@ -37,6 +37,6 @@ Stay tuned for our next video, which will give you the three keys to my buyer’
 
 If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to call me at&nbsp;**[240-731-8079](tel:240-731-8079){: target="_blank"}**&nbsp;or write to&nbsp;**[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
 
-<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p>&nbsp;</p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
 <div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
