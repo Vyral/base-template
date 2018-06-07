@@ -1,7 +1,8 @@
 audit_header: false
 title: Dallas Mortgage Lender – The Betz Team
 description: >-
-  The Betz Team are your local Dallas mortgage lenders. There’s more to a mortgage than the close. Request your consultation today.
+  The Betz Team are your local Dallas mortgage lenders. There’s more to a
+  mortgage than the close. Request your consultation today.
 show_custom_links: true
 custom_links:
   - title: Agent Training
@@ -27,9 +28,9 @@ client:
     than the close. Wade, like his Guardian counterparts, understands that a job
     well done is a job that lasts the duration of the home loan. Counsel,
     support and personal service are paramount to becoming a trusted mortgage
-    advisor for Guardian’s clients.
-    <br><br>
-    <strong>Your local Dallas mortgage lender. Call us at <a href="tel:214-361-5626">214-361-5626</a> to learn more.</strong>
+    advisor for Guardian’s clients. <br><br> <strong>Your local Dallas mortgage
+    lender. Call us at <a href="tel:214-361-5626">214-361-5626</a> to learn
+    more.</strong>
   market:
   brand: 'The Betz Team | NMLS # 280613'
   brokerage: 'Guardian Mortgage,<br>a Division of Sunflower Bank, N.A.'
@@ -58,6 +59,9 @@ emma_form: >-
 
     gtag('config', 'UA-114707034-1');
   </script>
+
+  <meta name="google-site-verification"
+  content="10Updqmbxa5nms4mimcnIpp5WVNbwbs2CnwMYgI6L7M" />
 CTAs:
   first_CTA_text: Apply Online
   first_CTA_URL: >-
@@ -116,7 +120,8 @@ podcast:
     Get all the information and and the latest updates, tips, and tricks of
     Personal Finance and Mortgages from The Betz Team
   keywords: >-
-    Dallas mortgage lender, home loans Dallas, Dallas mortgage, mortgage broker Dallas, mortgage lender Dallas
+    Dallas mortgage lender, home loans Dallas, Dallas mortgage, mortgage broker
+    Dallas, mortgage lender Dallas
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
