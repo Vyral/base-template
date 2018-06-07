@@ -4,7 +4,7 @@ title: FAQ's | 1000 Calls a Day
 permalink: /faq/
 ---
 
-<h1>Frequently Asked Questions</h1>
+<h1><b>Frequently Asked Questions</h1>
 <h3>What does 1000 Calls A Day do?</h3>
 
 <div class="faq">
