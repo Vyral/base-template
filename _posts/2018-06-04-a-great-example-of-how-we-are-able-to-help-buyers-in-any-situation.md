@@ -25,7 +25,7 @@ I recently met a buyer who wanted to look at a co-op apartment with a friend of 
 
 Once I got to the building, I picked up the keys to the apartment we were going to look at and took a peek at the eighth floor on our way up. I ran down, knocked on the door, and saw an agent that I knew.
 
-She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure,  but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
+She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure, &nbsp;but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
 
 {% include pullquote.html %}
 
@@ -35,10 +35,8 @@ We went back to the office and wrote a big, fat offer. The price was well above 
 
 Stay tuned for our next video, which will give you the three keys to my buyer’s success in this situation.
 
-If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me. 
+If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me. Just give me a call at&nbsp;[240-731-8079](tel:240-731-8079){: target="_blank"}&nbsp;or write to&nbsp;[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com). I look forward to hearing from you soon.
 
-Just give me a call at [240-731-8079](tel:240-731-8079){: target="_blank"} or write to…
+If you'd like to watch the hottest new video strategy on the planet for buyers and sellers,&nbsp; go to: [DCHomeBlog.com/videos](http://dchomeblog.com/videos){: target="_blank"}
 
-[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)
-
-I look forward to hearing from you soon.
+&nbsp;
