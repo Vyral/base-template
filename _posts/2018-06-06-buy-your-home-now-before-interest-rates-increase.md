@@ -21,7 +21,7 @@ youtube_code: UvCnmmkT25I
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.</em></p>
+*There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.*
 
 <center>&nbsp;</center>
 
@@ -37,4 +37,4 @@ Jeff recently helped us with a buyer that was in an approved contract with every
 
 They decided to work with Jeff for a 100% financing option which allowed the client to get a higher loan amount than any other lender could offer. **Jeff helped get the deal finished for them.**
 
-If you need more information about this, you can contact Jeff at [www.sunmarkfcu.org](www.sunmarkfcu.org){: target="_blank"} or 1-866-SUNMARK. And, if you are looking to buy or sell, please feel free to call me at 518-376-1073 or email me at [wmiranda@mrgteam.com](mailto:wmiranda@mrgteam.com){: target="_blank"}. I look forward to speaking with you soon.
+If you need more information about this, you can contact Jeff at [www.sunmarkfcu.org](www.sunmarkfcu.org){: target="_blank"} or 1-866-SUNMARK. And, if you are looking to buy or sell, please feel free to call me at 518-376-1073 or email me at [wmiranda@mrgteam.com](mailto:wmiranda@mrgteam.com). I look forward to speaking with you soon.
