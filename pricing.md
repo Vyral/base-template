@@ -9,13 +9,20 @@ permalink: /pricing/
 <div class="content">
 <h3 class="heading">The Set-Up Fee Includes ($1,495.00):</h3>
 <p>
-There is a $1,495.00 set-up fee and the total monthly costs are approximately $1,850.00. In addition to these fees, you are also responsible to provide your own data (contacts or prospects) for us to call on your behalf. We do not sell or provide data, so there will be some additional fees for data purchases.
-</p>
+Our full time recruiting staff sorts through over 200 VA caller applicants per day
+We hire great callers using our proven selection and testing criteria 
+We extensively test all candidates before we invite them into our training program
+We take each VA caller through our intense two week training bootcamp 
+We then place each VA caller live on the phone for two weeks and track every call
+We hire your VA caller once they meet all criteria and pass our training requirements
+You will be set-up on Five9 profesional call center software
+We write for you and advise you on all calling scripts for each one of your campaigns
+We advise you on your data purchase to find the best prospect lists
+We input all data and contacts into your Five9 call center software 
+Deliver a full time caller who has been tested, trained, and is ready to call exclusively for you
+We insure your caller and will replace them free of charge if they do not perform
 
-<h3 class="heading">What is included for the set-up fee?</h3>
-<p>Our process is extremely front loaded and we spend a significant amount of time and money to recruit, test, train, and hire high quality VA callers with 3-5 years of calling experience. This fee pays for our extremely detailed recruiting and hiring process and allows us to deliver you an experienced and trained VA caller that is ready to work for you full-time. Please see the next question for more details on this exact process.
 </p>
-</div>
 
 
 <div class="content">
