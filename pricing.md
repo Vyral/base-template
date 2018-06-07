@@ -21,7 +21,6 @@ permalink: /pricing/
 <li>We input all data and contacts into your Five9 call center software 
 <li>Deliver a full time caller who has been tested, trained, and is ready to call exclusively for you
 <li>We insure your caller and will replace them free of charge if they do not perform
-<div class="whitespace"></div>
 
 <div class="content">
 <h3 class="heading">Ongoing Monthly Outbound Prospecting is $1,850.00 Per Month:</h3>
