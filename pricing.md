@@ -24,7 +24,7 @@ permalink: /pricing/
 
 
 <div class="content">
-<h3 class="heading">Ongoing Monthly Outbound Prospecting is $1,850.00 Per Month</h3>
+<h3 class="heading">Ongoing Monthly Outbound Prospecting is $1,850.00 Per Month:</h3>
 <p>
 <li>An entire team of outbound calling experts to oversee and manage all of your calling campaigns 
 <li>A full-time VA caller, for 40 hours per week, who is exclusively for your business
