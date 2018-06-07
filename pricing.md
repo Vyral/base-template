@@ -9,18 +9,18 @@ permalink: /pricing/
 <div class="content">
 <h3 class="heading">The Set-Up Fee Includes ($1,495.00):</h3>
 <p>
-Our full time recruiting staff sorts through over 200 VA caller applicants per day
-We hire great callers using our proven selection and testing criteria 
-We extensively test all candidates before we invite them into our training program
-We take each VA caller through our intense two week training bootcamp 
-We then place each VA caller live on the phone for two weeks and track every call
-We hire your VA caller once they meet all criteria and pass our training requirements
-You will be set-up on Five9 profesional call center software
-We write for you and advise you on all calling scripts for each one of your campaigns
-We advise you on your data purchase to find the best prospect lists
-We input all data and contacts into your Five9 call center software 
-Deliver a full time caller who has been tested, trained, and is ready to call exclusively for you
-We insure your caller and will replace them free of charge if they do not perform
+<li>Our full time recruiting staff sorts through over 200 VA caller applicants per day
+<li>We hire great callers using our proven selection and testing criteria 
+<li>We extensively test all candidates before we invite them into our training program
+<li>We take each VA caller through our intense two week training bootcamp 
+<li>We then place each VA caller live on the phone for two weeks and track every call
+<li>We hire your VA caller once they meet all criteria and pass our training requirements
+<li>You will be set-up on Five9 profesional call center software
+<li>We write for you and advise you on all calling scripts for each one of your campaigns
+<li>We advise you on your data purchase to find the best prospect lists
+<li>We input all data and contacts into your Five9 call center software 
+<li>Deliver a full time caller who has been tested, trained, and is ready to call exclusively for you
+<li>We insure your caller and will replace them free of charge if they do not perform
 
 </p>
 
