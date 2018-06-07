@@ -37,8 +37,8 @@ In terms of data, footage can be stored on an SD card or the camera can be hooke
 
 Cameras like this tend to cost between $90 to $100, but Ryan advises having more than one camera when setting up a surveillance system for your home. For a four-camera system, the total cost would amount to about $1,000, including installation. Then, **once the system is installed, there are no future fees**. The mobile app to view footage captured by the camera is also free.
 
-To contact Ryan or his team at WatchPoint Security, you can reach out by phone at (719) 579-6540 or by visiting [watchpointdata.com](www.watchpointdata.com).
+To contact Ryan or his team at WatchPoint Security, you can reach out by phone at (719) 579-6540 or by visiting [watchpointdata.com](https://www.watchpointdata.com/).
 
 And, as always, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 
-**Ryan Byes**<br>WatchPoint Security<br>(719) 579-6540<br>[watchpointdata.com](www.watchpointdata.com)
+**Ryan Byes**<br>WatchPoint Security<br>(719) 579-6540<br>[watchpointdata.com](https://www.watchpointdata.com/)
