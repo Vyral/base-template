@@ -19,7 +19,7 @@ youtube_code: __mOCD6yDoc
 
 {% include youtube.html %}
 
-Our team’s head stager Shani Weiss and I are back at our beautiful listing at 24 Lincoln Street in Demarest, New Jersey to show you the difference between sterilizing a home and neutralizing it before it’s on the market.
+Our team’s head stager, Shani Weiss, and I are back at our beautiful listing at 24 Lincoln Street in Demarest, New Jersey to show you the difference between sterilizing a home and neutralizing it before it’s on the market.
 
 To demonstrate how we approach every room, we will focus on this home’s living room. When we did our initial consultation, the room had beautiful red damask wallpaper. That wallpaper, though, was too specific, so we painted the room in a nice, neutral color. Once we decluttered the room, we also found some gorgeous furnishings that were owned by the homeowner.
 
