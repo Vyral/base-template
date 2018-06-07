@@ -26,17 +26,17 @@ youtube_code: uvuUcgeMB3w
 
 {% include youtube.html %}
 
-If you’re selling your home and you need to hire an agent, here are five questions you should ask them in order to find out if they’ll be able to sell your home quickly and for top dollar:
+If you’re selling your home and you need to hire an agent, **here are five questions you should ask them in order to find out if they’ll be able to sell your home quickly and for top dollar:**
 
-**1.** How long have you been selling homes? This will give you an idea of their experience level.
+**1.** **"How long have you been selling homes?"** This will give you an idea of their experience level.
 
-**2.** Do you have a written marketing plan? Agents who have a more detailed marketing plan for their clients are typically more successful in selling homes consistently.
+**2.** **"Do you have a written marketing plan?"** Agents who have a more detailed marketing plan for their clients are typically more successful in selling homes consistently.
 
-**3.** Do you work with a team or as an individual?
+**3.** **"Do you work with a team or as an individual?"**
 
-**4.** What is your list-to-sale price ratio? This number will tell you how good of a negotiator they are.
+**4.** **"What is your list-to-sale price ratio?"** This number will tell you how good of a negotiator they are.
 
-**5.** Do you have a written marketing analysis? Asking to see a written marketing analysis will allow you to actually see what the market is doing instead of listening to someone tell you where it’s at.
+**5.** **"Do you have a written marketing analysis?"** Asking to see a written marketing analysis will allow you to actually see what the market is doing instead of listening to someone tell you where it’s at.
 
 {% include pullquote.html %}
 
