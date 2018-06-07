@@ -5,7 +5,6 @@ date: 2018-06-05 12:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Owner Tips
 excerpt: >-
   Short sales and foreclosures might sound like good deals for home buyers, but
   they can be nightmares for homeowners. Here’s how the process actually works.
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jim-casbarro-may-1-ss-no-play.jpg
-youtube_code: AXqX56na5cw
+youtube_code: XaVb1qeXnFM
 ---
 
 {% include youtube.html %}
@@ -31,12 +30,12 @@ Today I’m talking about the difference between a short sale and a foreclosure.
 
 **For a valid short sale, there will need to be a significant distress in your life**. For example, a spouse passing away, a job loss, or a medical issue. You have to prove that something caused you to be unable to make your payments. If you can prove that you have a hardship and that you’re in distress, you should be able to initiate the short sale process. The bank will then “short” the loan and take a loss on it to get it off the books. Then the seller can initiate the process of selling their home. It’s a tough spot for a seller to be in, but it does open up good opportunities for home buyers who are looking for a deal.
 
-If you’re working with an agent who knows what they’re doing, I can refer you to someone who is and can really navigate the process. If you know someone who is going through a short sale, we can help them out.
+If you know someone who is going through a short sale, we can help them out.
 
 {% include pullquote.html %}
 
 A short sale is not an easy process. You have to jump through the hoops that the bank will provide. Negotiations and paperwork can be frustrating. **However, the short sale will have much less of an impact on your credit than a foreclosure**.
 
-Foreclosures are much tougher for homeowners. **They will ruin your credit and you won’t be allowed to buy another home for at least seven years**. With a foreclosure, the seller is no longer involved. The bank is the party that initiates this sale. As soon as house payments stop, the home becomes a liability for them, and they'll take a bit of a loss to dump that property. Legal fees can get pricey during this process for the bank.
+Foreclosures are much tougher for homeowners. **They will ruin your credit**. With a foreclosure, the seller is no longer involved. The bank is the party that initiates this sale. As soon as house payments stop, the home becomes a liability for them, and they'll take a bit of a loss to dump that property. Legal fees can get pricey during this process for the bank.
 
 I really hope this helped shed some light on the differences between a short sale and a foreclosure. If you have any other questions, don’t hesitate to give us a call or send us an email. I look forward to hearing from you soon.
