@@ -28,7 +28,6 @@ CTAs:
   first_CTA_URL: http://www.trianglerealestatehub.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: http://realestate.caulgroup.com/search
-  VR_form: http://oi.vresp.com?fid=720f273a30
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
