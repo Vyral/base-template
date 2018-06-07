@@ -2985,6 +2985,9 @@ form select {
 .author {
   color: #439639; }
 
+.indent {
+  margin-left: 5rem; }
+
 .dropbtn {
   color: black;
   background-color: #ffffff;
