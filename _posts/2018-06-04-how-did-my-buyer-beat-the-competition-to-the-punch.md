@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/success-story-1-2-youtube.jpg
+youtube_alternate_image: /uploads/success-story-1-2-youtube-1.jpg
 youtube_code: pf_NVocO14A
 ---
 
@@ -25,7 +25,7 @@ I recently met a buyer who wanted to look at a co-op apartment with a friend of 
 
 Once I got to the building, I picked up the keys to the apartment we were going to look at and took a peek at the eighth floor on our way up. I ran down, knocked on the door, and saw an agent that I knew.
 
-She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure, &nbsp;but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
+She let me know the place was going on the market next week. I asked her if I could bring my buyers up to take a peek at it. She said sure,  but she also said that we couldn’t write an offer on it right now because it wasn’t going on the market until the next week.
 
 {% include pullquote.html %}
 
@@ -35,7 +35,7 @@ We went back to the office and wrote a big, fat offer. The price was well above 
 
 Stay tuned for our next video, which will give you the three keys to my buyer’s success in this situation.
 
-If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to call me at&nbsp;**[240-731-8079](tel:240-731-8079){: target="_blank"}**&nbsp;or write to&nbsp;**[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
+If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to call me at **[240-731-8079](tel:240-731-8079){: target="_blank"}** or write to **[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
 
 <div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p></p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
