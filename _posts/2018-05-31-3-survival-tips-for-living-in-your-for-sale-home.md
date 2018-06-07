@@ -8,7 +8,8 @@ excerpt: >-
   What three tips can sellers follow to make living in their home while it’s
   listed on the market easier? Let’s discuss this critical real estate quandary
   today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+A+Survival+Guide+for+Living+in+Your+Listing.mp4
 pullquote: >-
   Keeping your house in a generally clean and organized state will save you
   significant hassle while it’s listed on the market.
