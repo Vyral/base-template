@@ -43,9 +43,5 @@ permalink: /pricing/
 <li>Weekly personal coaching calls to help you convert the leads that we send you
 <li>Dropbox access to call recordings so you can hear how your callers perform
 
-</ul>
-</p>
-</div>
-
 </div>
 <div class="whitespace"></div>
