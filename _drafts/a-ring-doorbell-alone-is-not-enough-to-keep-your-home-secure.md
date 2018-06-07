@@ -22,7 +22,7 @@ youtube_code: oQ1O5_zHGw0
 
 {% include youtube.html %}
 
-Do you have a Ring doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.
+<center> Do you have a Ring doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</center>
 
 We are joined by Ryan Byes of WatchPoint Surveillance to teach you the difference between a standard Ring doorbell and a true security system.
 
