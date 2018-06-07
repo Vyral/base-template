@@ -1,13 +1,14 @@
 ---
 layout: post
 title: When Is the Best Time to Sell Your Home?
-date: 2018-05-31 18:34:39
+date: 2018-05-31 18:34:00
 tags:
   - Home Seller Tips
 excerpt: >-
   When is the best time to sell your house? It depends on your home and your
   situation.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+The+Best+Time+to+List+Is.mp4
 pullquote: >-
   Keep in mind that during the spring and summer, there are always more buyers
   looking, but you also have more competition.
