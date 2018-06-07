@@ -37,4 +37,8 @@ Stay tuned for our next video, which will give you the three keys to my buyer’
 
 If you have any other questions in the meantime about buying a home, selling a home, or the real estate market in general, don’t hesitate to contact me by phone at&nbsp;**[240-731-8079](tel:240-731-8079){: target="_blank"}**&nbsp;or write to&nbsp;**[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I look forward to hearing from you soon.
 
-**We have the hottest new video strategy on the planet for buyers and sellers!**
+<div class="post-cta">We have the hottest new video strategy on the planet for buyers and sellers!</div>
+
+<div class="post-button">
+  <a class="ctalink" href="http://dchomeblog.com/videos" target="_blank">Watch Now</a>
+</div>
