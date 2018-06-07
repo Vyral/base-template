@@ -21,7 +21,7 @@ youtube_code: UvCnmmkT25I
 
 {% include youtube.html %}
 
-*There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.*
+<p style="text-align: center;"><em>There may not be any benefits to waiting to buy. In fact, you could still have the same monthly mortgage payment even if the interest rates fall.</em></p>
 
 <center>&nbsp;</center>
 
