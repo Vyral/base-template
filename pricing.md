@@ -7,7 +7,7 @@ permalink: /pricing/
 <div class="pricing-table">
 
 <div class="content">
-<h3 class="heading">What does it cost to hire 1000 Calls A Day?</h3>
+<h3 class="heading">The Set-Up Fee Includes ($1,495.00):</h3>
 <p>
 There is a $1,495.00 set-up fee and the total monthly costs are approximately $1,850.00. In addition to these fees, you are also responsible to provide your own data (contacts or prospects) for us to call on your behalf. We do not sell or provide data, so there will be some additional fees for data purchases.
 </p>
