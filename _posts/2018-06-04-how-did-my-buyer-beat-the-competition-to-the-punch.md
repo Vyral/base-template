@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  How Did My Buyer Beat the Competition to the Punch? HINT: Be First & Be the
-  Fastest!
+title: How Did My Buyer Beat the Competition to the Punch?
 date: 2018-06-04 21:12:00
 tags:
   - Home Buyer Tips
