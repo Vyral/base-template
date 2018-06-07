@@ -5,7 +5,7 @@ permalink: /faq/
 ---
 
 <h1><b>Frequently Asked Questions
-<h3>What does 1000 Calls A Day do?</h3>
+<p class="question">What does 1000 Calls A Day do?</p>
 
 <div class="faq">
 <p>We are your full service outbound calling resource! We take this tedious, time consuming, and frustrating process completely off your plate and handle 100% of the details to execute a successful outbound calling campaign to grow your business.</p>
