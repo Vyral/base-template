@@ -24,23 +24,23 @@ client:
 
 CTAs:
   first_CTA_text: Home seller's Guide
-  first_CTA_URL: https://www.thestarygroup.com/sellersguide
+  first_CTA_URL: http://adamstary.johngreenerealtor.com/contact-me
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.thestarygroup.com/searches/new
+  second_CTA_URL: http://adamstary.johngreenerealtor.com/search/#!/defaultsearch:true
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Home Seller's Guide"
     CTA_text: "Fill out the form and recieve a complimentary copy of our informational Home Seller's Guide via email"
     CTA_link_text: "Request a Seller's Guide"
-    CTA_url: https://www.thestarygroup.com/sellersguide
+    CTA_url: http://adamstary.johngreenerealtor.com/contact-me
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.thestarygroup.com/searches/new
+    CTA_url2: http://adamstary.johngreenerealtor.com/search/#!/defaultsearch:true
 
 lender:
   show_section: false
