@@ -29,7 +29,7 @@ permalink: /pricing/
 <ul>
 <li>An entire team of outbound calling experts to oversee and manage all of your calling campaigns</li>
 <li>A full-time VA caller, for 40 hours per week, who is exclusively for your business</li>
-450 to 750 daily outbound calls made to your prospects</li>
+</li>450 to 750 daily outbound calls made to your prospects</li>
 <li>Ongoing weekly training for your VA caller</li>
 <li>Daily supervision and management of your VA caller</li>
 <li>Daily analytics tracking of every call that is made</li>
