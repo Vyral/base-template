@@ -34,7 +34,7 @@ When we discovered that this was the root of our problem, we changed our approac
 
 {% include pullquote.html %}
 
-From there we had about 80 more showings, but were surprised to receive basically the same feedback. **The now-empty home wasn’t having any more success than it was when it was full of clutter.** People still didn’t like the floor plan.&nbsp;
+From there, we had about 80 more showings but were surprised to receive basically the same feedback. **The now-empty home wasn’t having any more success than it was when it was full of clutter.** People still didn’t like the floor plan.&nbsp;
 
 We knew at this point it was time for yet another change. Our client, who was a bit of an amateur designer herself, had some furniture shipped in for us to place. We staged the house, took new photos, and by that weekend had four offers. Best of all, there was no price reduction whatsoever.&nbsp;
 
