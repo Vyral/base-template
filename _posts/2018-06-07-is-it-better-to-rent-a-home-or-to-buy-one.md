@@ -33,7 +33,7 @@ The next question you should consider is whether you’re financially able to pu
 
 {% include pullquote.html %}
 
-Making a monthly mortgage payment is an investment into your own personal wealth, rather than your landlord’s. There are also many tax benefits associated with purchasing a home. Also, your net worth will likely increase when you make the transition from renter to homeowner.&nbsp;
+Making a monthly mortgage payment is an investment into your own personal wealth, rather than your landlord’s. There are also many tax benefits associated with purchasing a home. Your net worth will likely increase when you make the transition from renter to homeowner, too.&nbsp;
 
 And with interest rates still at historic lows, now is a great time to purchase a home. Rental rates will continue to rise over the years as a result of inflation, **while a locked-in mortgage rate will ensure that your payments remain static.**&nbsp;
 
