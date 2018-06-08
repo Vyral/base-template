@@ -22,13 +22,13 @@ youtube_code: Scyjub8QlTo
 
 {% include youtube.html %}
 
-<p style="Text-align: center;"><em>By signing an MLS Waiver form, you give your Realtor the chance to market your home before it gets listed and give yourself a chance to properly prepare your home for the market.</em></p>
+*By signing an MLS Waiver form, you give your Realtor the chance to market your home before it gets listed and give yourself a chance to properly prepare your home for the market.*
 
 If you are ready to put your home on the market, do not sign a listing contract with a Realtor without also signing an MLS Waiver form. Doing this will help your home sale tremendously, and there are a couple reasons why.
 
 First, **it allows your Realtor to market your home before it hits the market.** If this waiver is signed, that means your home does not have to go into the MLS right away. If you sign a listing contract without this waiver, your home is automatically listed in three days. I can tell you that 100% of the seller clients I work with never have homes that are ready to go onto the market in three days.
 
-<br>**This form also gives you the freedom to prepare your home for the market without worrying about it going on the market right away.** I have a website for “coming soon” listings called [www.comingsoonlistings.com](www.comingsoonlistings.com){: target="_blank"} that is specifically designed for this situation and notifies the public of homes that will be listed in the near future. This creates demand and excitement among your target market, and that’s exactly what you need when starting the listing process.
+<br>**This form also gives you the freedom to prepare your home for the market without worrying about it going on the market right away.** I have a website for “coming soon” listings called [www.comingsoonlistings.com](http://www.thedianecardanoteam.com/supplemental-listing/){: target="_blank"} that is specifically designed for this situation and notifies the public of homes that will be listed in the near future. This creates demand and excitement among your target market, and that’s exactly what you need when starting the listing process.
 
 {% include pullquote.html %}
 
