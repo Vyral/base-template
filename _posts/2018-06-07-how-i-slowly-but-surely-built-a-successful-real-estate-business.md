@@ -29,7 +29,7 @@ Ultimately, though, I did come back. I got a new license in 2012 and started up 
 
 And, actually, being in the business prior to founding my current team proved to be a great benefit as I re-entered the industry. It gave me time to really focus on my business plan, as well as my plan for daily activities. Immediately after re-entering real estate, I was very committed to dedicating certain days and times to being in the office working on my business plan. From the very beginning, my goal was to be the No.1 agent in Northbrook. I wanted people in this community to think of me as their go-to real estate professional.
 
-So, once I had developed a plan, I began reaching out to people. I started sending out emails, I took out a little bit of advertising space, and I began providing market evaluations for community members. And I did this because whether people or moving or not, everyone loves real estate.
+So, once I had developed a plan, I began reaching out to people. I started sending out emails, I took out a little bit of advertising space, and I began providing market evaluations for community members. And I did this because whether people are moving or not, everyone loves real estate.
 
 {% include pullquote.html %}
 
