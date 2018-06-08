@@ -27,7 +27,7 @@ $1,495.00/One Time
 </div>
 
 <div class="content">
-<h3 class="heading">Monthly Outbound Prospecting $1,850.00 Per Month:</h3>
+<h3 class="heading">Monthly Outbound Prospecting</h3>
 <ul>
 $1,850.00 Per Month
 <li>Access to our entire staff of outbound calling experts </li>
