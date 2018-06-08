@@ -19,7 +19,7 @@ youtube_code: z_XXSFF5xGM
 
 {% include youtube.html %}
 
-Today, I’m back with the fourth part in my buyer agency and exclusivity series. For this installment, I’ll be talking about what happens when you work without an agency.
+Today I’m back with the fourth part of my buyer agency and exclusivity series. For this installment, I’ll be talking about what happens when you work without an agency.
 
 **The good news is that you aren’t obligated to work with any particular agent, but the bad news is that this means no one is obligated to work with you.**
 
