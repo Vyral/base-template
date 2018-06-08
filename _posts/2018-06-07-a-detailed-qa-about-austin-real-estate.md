@@ -17,7 +17,7 @@ youtube_code: kRXxevIpMCo
 
 {% include youtube.html %}
 
-Today I want to take some time to answer a range of real estate questions that people continually ask me. My guest for this is discussion is Laura, who had a bunch of great questions I’d like to address. I’ll be answering these questions in detail, so for convenience’s sake, I’ll be provided timestamps below so you can skip around to the sections that most interest you.
+Today I want to take some time to answer a range of real estate questions that people continually ask me. I recently sat down for a Q&A session where I addressed some important, commonly asked real estate quandaries. I’ll be answering these questions in detail, so for convenience’s sake, I’ve provided timestamps below. This way you can skip around to the sections that most interest you.
 
 * 0:45—“Which homes in the Austin market are the hottest?”
 * 5:45—“Which homes are not hot in the Austin market?”
