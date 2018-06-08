@@ -26,7 +26,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.thedianecardanoteam.com/your-homes-value/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.thedianecardanoteam.com/supplemental-listing/
+  second_CTA_URL: http://www.thedianecardanoteam.com/email-alerts/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -40,7 +40,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.thedianecardanoteam.com/supplemental-listing/
+    CTA_url2: http://www.thedianecardanoteam.com/email-alerts/
 
 lender:
   show_section: false
