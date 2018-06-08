@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A Ring Doorbell Alone is Not Enough to Keep Your Home Secure
+title: A Ring™ Doorbell Alone is Not Enough to Keep Your Home Secure
 date: 2018-06-07 00:00:00
 tags:
   - Real Estate
-  - Security
+  - Home Security
 excerpt: >-
   Do you have a Ring doorbell? You should know that the video from the system is
   not usable in a court of law in the State of Colorado.
@@ -22,25 +22,25 @@ youtube_code: oQ1O5_zHGw0
 
 {% include youtube.html %}
 
-<center><em>Do you have a Ring doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</em></center>
+<center><em>Do you have a Ring&trade; doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</em></center>
 
 &nbsp;
 
-We are joined by Ryan Byes of WatchPoint Surveillance to teach you the difference between a standard Ring doorbell and a true security system.
+We are joined by Ryan Byes of WatchPoint Surveillance to teach you the difference between a standard Ring™ doorbell and a true security system.
 
-To start this conversation, is there a difference between the cheap Ring doorbell that I have and love versus a true security system?
+To start this conversation, is there a difference between the cheap Ring™ doorbell that I have and love versus a true security system?
 
-Ryan says there is one really marked difference. While the Rings are great for some applications, **the video footage is not court admissible in the State of Colorado**. This means that if someone steals something from your front porch, you cannot use the footage in court.
+Ryan says there is one really marked difference. While the Ring™ doorbells are great for some applications, **the video footage is not court admissible in the State of Colorado**. This means that if someone steals something from your front porch, you cannot use the footage in court.
 
 Why?
 
-According to Ryan, Ring doorbells do not meet two requirements of Colorado state law to be used in court. The first is a time and date stamp. And the second is a watermark. The watermark proves that the video has not been tampered with.
+According to Ryan, Ring™ doorbells do not meet two requirements of Colorado state law to be used in court. The first is a time and date stamp. And the second is a watermark. The watermark proves that the video has not been tampered with.
 
 {% include pullquote.html %}
 
 Which would you rather have? Brian thinks that the court admissible option is better.
 
-Also, **the Ring system is a monthly service and therefore requires a monthly fee for storage**.
+Also, **the Ring™ system is a monthly service and therefore requires a monthly fee for storage**.
 
 Meanwhile, Ryan tells us **that an actual security system will not require a monthly fee** and will record high-quality, HD images which can be viewed through an app.
 
