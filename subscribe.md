@@ -30,5 +30,5 @@ The next step, after subscribing to our newsletter, is to attend one of our many
 <p>Email me at <a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a> with any questions I can answer for you in my videos. If I pick your question and answer it in the newsletter, I’ll send you a $5 Amazon gift card!</p>
 <p>Let’s help you grow your business.</p>
 <p>{{site.data.settings.client.name}}</p>
-</div>
 {% include subscribe.html %}
+</div>

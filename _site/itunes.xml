@@ -7,7 +7,7 @@
     <description>A Podcast about Phoenix Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
     <managingEditor>Patrick O'Sullivan</managingEditor>
-    <lastBuildDate>2018-05-17 16:06:38 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-08 10:32:52 -0500</lastBuildDate>
     <media:copyright>Patrick O'Sullivan</media:copyright>
     <media:thumbnail url="http://www.capcorerealestatecoaching.com/img/podcast.jpg"/>
     <media:keywords>Phoenix Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</media:keywords>
@@ -24,6 +24,45 @@
     <itunes:summary>A Podcast about Phoenix Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>A 5-Step Process for Working New Leads</title>
+        <link>http://www.capcorerealestatecoaching.com/a-5-step-process-for-working-new-leads.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Patrick O'Sullivan</author>
+        <pubDate>2018-05-31 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Patrick+O'Sullivan/2018/Cap+Core+Real+Estate-A+5-Step+Process+for+Working+New+Leads.mp4</guid>
+        <description>
+
+Once you’ve entered a new lead into your CRM, what comes next?
+
+There are actually just five steps to working a new lead in your CRM. So, allow me to share each of these with you today.
+
+1. Orient yourself on the new lead. Check out the source of the lead, review their activity history, find out their name and contact information, and make note of any other important details you discover.
+
+2. Call them. Start by introducing yourself and explaining your intentions. Let them know what you can do for them.
+
+3. Add notes to your CRM about the call. Write down whether you reached them, what their real estate goals are, what their timeline looks like, and anything else you found to be important about the call.
+
+“It’s important to show every lead that you’re willing and able to be a resource for them.”
+
+4. If it’s a buyer lead, create a custom property search. If it’s a seller lead, create a custom market report. Both of these things prove to the lead that you’re willing and able to be a resource for them. The custom property search you create for buyers allows them to receive a daily list of homes that match their wants and needs. The market report you send to seller leads will provide them with a  monthly snapshot of local statistics.
+
+5. Establish a time to follow up. After you make your initial call, determine a time in the future when you can reach out again to further discuss their needs. Always have a plan for following up with every lead you put in your database.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Patrick+O'Sullivan/2018/Cap+Core+Real+Estate-A+5-Step+Process+for+Working+New+Leads.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://www.capcorerealestatecoaching.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Patrick+O'Sullivan/2018/Cap+Core+Real+Estate-A+5-Step+Process+for+Working+New+Leads.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What does the process of working a new lead look like? Today I’ve broken it down into five key steps.</itunes:subtitle>
+        <itunes:author>Patrick O'Sullivan</itunes:author>
+        <itunes:summary>What does the process of working a new lead look like? Today I’ve broken it down into five key steps.</itunes:summary>
+        <itunes:keywords>Phoenix Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make</itunes:keywords>
+      </item>
+      
     <copyright>Patrick O'Sullivan</copyright>
     <media:credit role="author">Patrick O'Sullivan</media:credit>
     <media:rating>nonadult</media:rating>
