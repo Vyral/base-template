@@ -21,7 +21,9 @@ youtube_code: pEIbq7GaAcY
 
 {% include youtube.html %}
 
-In order to set three new listing appointments and buyer appointments each week, you need to talk to a lot of new people every single day.
+<p style="text-align: center;"><em>In order to set three new listing appointments and buyer appointments each week, you need to talk to a lot of new people every single day.</em></p>
+
+<center>&nbsp;</center>
 
 How do you set three new listing appointments and three new buyer appointments every single week?
 
