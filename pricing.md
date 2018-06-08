@@ -7,42 +7,43 @@ permalink: /pricing/
 <div class="pricing-table">
 
 <div class="content">
-<h3 class="heading">The Set-Up Fee Includes ($1,495.00):</h3>
+<h3 class="heading">New Client Onboarding $1,495.00 One Time:</h3>
 <ul>
-<li>Our full time recruiting staff sorts through over 200 VA caller applicants per day</li>
-<li>We hire great callers using our proven selection and testing criteria</li>
-<li>We extensively test all candidates before we invite them into our training program</li>
-<li>We take each VA caller through our intense two week training bootcamp</li>
-<li>We then place each VA caller live on the phone for two weeks and track every call</li>
-<li>We hire your VA caller once they meet all criteria and pass our training requirements</li>
-<li>You will be set-up on Five9 profesional call center software</li>
-<li>We write for you and advise you on all calling scripts for each one of your campaigns</li>
-<li>We advise you on your data purchase to find the best prospect lists</li>
-<li>We input all data and contacts into your Five9 call center software</li>
-<li>Deliver a full time caller who has been tested, trained, and is ready to call exclusively for you</li>
-<li>We insure your caller and will replace them free of charge if they do not perform</li>
+<li>We recruit top calling talent</li>
+<li>All applicants are rigorously tested</li>
+<li>Passing applicants are interviewed</li>
+<li>Passing interview applicants enter into our live two week boot-camp</li>
+<li>Final applicants are then tested live on the phone for two weeks</li>
+<li>We track their performance and they must meet our minimum standards</li>
+<li>We hire your VA caller once they meet all criteria and pass all training requirements</li>
+<li>Set-up on Five9 profesional call center software</li>
+<li>Script creation for all of your campaigns</li>
+<li>Coaching on your data purchase to ensure the best prospect lists</li>
+<li>Load all contacts into your Five9 profesional call center software</li>
+<li>Deliver a full-time VA caller fully trained</li>
+<li>We insure your caller’s performance and will replace them, if they do not perform</li>
 </ul>
 </div>
 
 <div class="content">
-<h3 class="heading">Ongoing Monthly Outbound Prospecting is $1,850.00 Per Month:</h3>
+<h3 class="heading">Monthly Outbound Prospecting $1,850.00 Per Month:</h3>
 <ul>
-<li>An entire team of outbound calling experts to oversee and manage all of your calling campaigns</li>
-<li>A full-time VA caller, for 40 hours per week, who is exclusively for your business</li>
-</li>450 to 750 daily outbound calls made to your prospects</li>
-<li>Ongoing weekly training for your VA caller</li>
-<li>Daily supervision and management of your VA caller</li>
-<li>Daily analytics tracking of every call that is made</li>
-<li>We will run and manage 3-5 different outbound calling campaigns for you</li>
-<li>Weekly reporting on the exact performance and analytics of all of your campaigns</li>
-<li>Management, scripting, and performance based adjustments to your campaigns</li>
-<li>Remove previous DNC/TCPA litigants and cell numbers to prevent legal hassles</li>
-<li>Enterprise grade Five9 professional dialer seat for more contacts in less time</li>
+<li>Access to our entire staff of outbound calling experts </li>
+<li>Management of all your calling campaigns</li>
+<li>Supervision & quality assurance of your VA caller </li>
+<li>A full-time VA caller- 40 hours per week</li>
+<li>Average of 450 to 750 outbound calls daily</li>
+<li>Ongoing weekly training for your VA caller </li>
+<li>Daily analytics and metrics tracking on every call</li>
+<li>Weekly reporting and performance tracking on all campaigns</li>
+<li>Weekly adjustments based on performance of all campaigns</li>
+<li>Removal of previous DNC/TCPA litigants from your lists</li>
+<li>Ongoing management of your Five9 professional call center software</li>
 <li>Set-Up Internal Do-Not-Call Policy so you’re protected</li>
-<li>Start and end of day report so you know what was accomplished every day</li>
+<li>Start and end of day reporting every day</li>
 <li>Daily huddles with your caller so they stay motivated and on task</li>
-<li>Weekly personal coaching calls to help you convert the leads that we send you</li>
-<li>Dropbox access to call recordings so you can hear how your callers perform</li>
+<li>Weekly coaching calls to help you convert the leads that we send you</li>
+<li>Your calls are recorded so you can hear your VA caller’s performance</li>
 </ul>
 </div>
 </div>
