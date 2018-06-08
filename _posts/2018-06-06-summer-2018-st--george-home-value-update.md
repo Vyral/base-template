@@ -41,7 +41,7 @@ In particular, Investor Landlords are making a killing selling their rentals rig
 
 If you’ve been thinking about selling your home, I purchased access to an up-to-date St. George home sale estimator tool that tells you what price your home will sell based on neighborhood sales data.
 
-Here’s a link to that tool: [http://www.dixiehomevalue.com/&nbsp;](http://www.dixiehomevalue.com/){: target="_blank"}<br>This is a paid service I provide my clients complimentary, which I’m offering free to you, too.
+Here’s a link to that tool: **[http://www.dixiehomevalue.com/&nbsp;](http://www.dixiehomevalue.com/){: target="_blank"}**<br>This is a paid service I provide my clients complimentary, which I’m offering free to you, too.
 
 Enter your home address and you’ll get your estimated home selling price based on comparable neighborhood sales.
 
@@ -53,7 +53,7 @@ We’ll give you a more accurate price estimate since we know the area and talk 
 
 I can also send an email to our home buyer and client database, which is now over 8000 consumers strong, and promote it in advance of hitting the market.
 
-<br>Again, the link to the home value estimator is [http://www.dixiehomevalue.com/](http://www.dixiehomevalue.com/){: target="_blank"} . You should get the estimate in 60 seconds or less.
+<br>Again, the link to the home value estimator is **[http://www.dixiehomevalue.com/](http://www.dixiehomevalue.com/){: target="_blank"}**. You should get the estimate in 60 seconds or less.
 
 <br>Summary? I’m happy to say we have a strong St. George real estate market this summer with MUCH BETTER fundamentals supporting it than existed during the “bubble” of a decade ago.&nbsp;
 
