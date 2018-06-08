@@ -2834,7 +2834,7 @@ form select {
 
 .recruiting-page {
   Font-size: 18px;
-  width: 65%;
+  width: 75%;
   margin: 0 auto;
   color: #000; }
 
@@ -2911,4 +2911,5 @@ form select {
   color: #008C9B; }
 
 .indent {
-  margin-left: 4rem; }
+  margin-left: 4rem;
+  margin-right: 4rem; }

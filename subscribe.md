@@ -43,7 +43,7 @@ permalink: /subscribe/
 <li>Win more listing presentations at full commission</li>
 <li>Systematize your administrative processes</li>
 <li>Earn more referrals and reviews for repeat business</li>
-</oL></p>
+</ol></p>
 
 <p>…I invite you to subscribe to our free newsletter below.</p>
 
@@ -73,15 +73,16 @@ permalink: /subscribe/
 
 <p class="testimonial-text indent">The amount of value I have received from 30 minute phone calls with Shawn is invaluable and has forever changed the trajectory of my life. If it wasn’t for the fact that I am all the way up in Wisconsin I would be working with Shawn down in Jacksonville and I wouldn’t hesitate to close my Business down and work with him if that was the case. My personal experiences with Shawn were great as it related to Real Estate and making sure I’m doing the right things in the right order but it was more his heart and the conversations we had about thinking bigger and reaching for more in all areas of my life. He just provided and gave more than I can ever repay him for and I will forever be grateful for the time he spent with me and still does to this day! More than anything I’m grateful to call him my Friend!<br>
 <span class="testimonial-author">
-- <strong>TJ Vitense </strong>
+- <strong>TJ Vitense </strong></span></p>
 
 <p class="testimonial-text indent">Shawn is a dynamic and strategic leader who is dedicated in getting the best out of those around him! His systems, ideology and culture create an environment that you can prosper with... Quite simply Shawn is the real deal!<br>
 <span class="testimonial-author">
 - <strong>Gil Ramos</strong></span></p>
 
+</div>
 <hr>
 
-<p>You are also welcome to subscribe to our Agent Training Podcast on iTunes and we also publish our free training content on our agent training Facebook page if you prefer to stay touch</p> that way, too.
+<p>You are also welcome to subscribe to our Agent Training Podcast on iTunes and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 
 <p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at shawn@experthomeadvisors.com </p>
 
