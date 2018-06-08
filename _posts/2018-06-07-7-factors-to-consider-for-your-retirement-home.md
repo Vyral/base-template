@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tony-verdi-important-factors-of-retirement-living-youtube.jpg
-youtube_code: 'https://youtu.be/aMbfpph5rYk'
+youtube_code: 'https://youtu.be/seMc-MdWqW8'
 ---
 
 {% include youtube.html %}
