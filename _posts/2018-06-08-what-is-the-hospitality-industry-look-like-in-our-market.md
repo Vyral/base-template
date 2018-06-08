@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Hospitality Industry Look Like in Our Market?
-date: 2018-06-08 15:49:39
+date: 2018-06-08 15:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XqUNUHyHNk
+youtube_code: '-XqUNUHyHNk'
 ---
 
 {% include youtube.html %}
@@ -36,5 +36,3 @@ In any case, the majority of owners who own less than two hotels have no plans t
 **Overall, the hotel market is very mixed.** In certain areas of Columbus—downtown, in particular—this industry is flourishing. In other areas, many hotels are being converted into housing complexes, storage units, or some kind of other commercial asset because the demand isn’t there anymore.
 
 If you have any other questions about the hotel industry in our market or you yourself are a hotel owner and you’d like to chat with us, please feel free to call or email us anytime. We would love to speak with you.
-
-&nbsp;
