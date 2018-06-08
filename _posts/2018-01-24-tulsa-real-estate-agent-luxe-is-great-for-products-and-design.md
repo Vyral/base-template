@@ -13,14 +13,13 @@ title: What Does Luxe Furniture and Design Have to Offer?
 date: '2018-01-24T09:36:00.000-08:00'
 author: Vyral Admin
 tags:
-- tulsa ok real estate
+- Tulsa Real Estate
 modified_time: '2018-01-25T13:18:13.969-08:00'
 thumbnail: https://i.ytimg.com/vi/pLgQqROEbLI/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-926421145441454132
 blogger_orig_url: http://thewolekgroup.blogspot.com/2018/01/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html
 ---
 {% include youtube.html %}
-
 Today I’m here with Tamara Noel, owner of Luxe Furniture and Design, to discuss the products and services her company provides.
 
 <div class="post-cta">
@@ -29,7 +28,7 @@ Looking to buy a Tulsa area home? <a href="http://www.thewolekgroup.com/search-f
 
 Today I’m here with Tamara Noel, owner of Luxe Furniture and Design, and I’m so excited for her to share with you all the great things they have here at Luxe.
 
-Along with beautiful furniture and decor, **Luxe also offers a great design service** that’s complimentary with purchase. When you shop there, you get to work with a qualified, educated, and talented interior designer to help you every step of the way. 
+Along with beautiful furniture and decor, **Luxe also offers a great design service** that’s complimentary with purchase. When you shop there, you get to work with a qualified, educated, and talented interior designer to help you every step of the way.
 
 They’re not just salespeople who are knowledgeable about all the products Luxe offers; they are honestly legitimate design experts. The designers went to school to learn the skill and have spent their entire career honing the craft. They love what they do, and they’re very good at it.
 

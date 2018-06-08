@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-40145218357974765
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/07/tulsa-real-estate-agent-are-you-tired-of-moving-related-stress.html
 ---
 {% include youtube.html %}
-
 The moving and real estate industries have a lot in common. I recently spoke with Julie Woolslayer about some tips and tricks of the moving process.
 
 <div class="post-cta">

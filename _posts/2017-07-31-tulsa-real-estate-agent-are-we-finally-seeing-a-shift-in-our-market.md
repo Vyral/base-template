@@ -12,14 +12,13 @@ title: Why You Shouldn't Fear the Shift in Our Market
 date: '2017-07-31T13:29:00.001-07:00'
 author: Vyral Admin
 tags:
-- market update
+- Market Update
 modified_time: '2017-08-02T14:17:30.426-07:00'
 thumbnail: https://i.ytimg.com/vi/kvk0AY37FY4/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-7045702836739247808
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/07/tulsa-real-estate-agent-are-we-finally-seeing-a-shift-in-our-market.html
 ---
 {% include youtube.html %}
-
 As we start to see our local market trend away from the seller’s market we’ve been enjoying, it’s more important than ever to stay educated about what’s going on locally.
 
 <div class="post-cta">

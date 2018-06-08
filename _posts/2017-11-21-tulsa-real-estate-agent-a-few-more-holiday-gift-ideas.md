@@ -12,14 +12,13 @@ title: Holiday Gift Ideas and More with Candra at Saks
 date: '2017-11-21T07:26:00.000-08:00'
 author: Vyral Admin
 tags:
-- Tulsa Real Estate Agent Other
+- Tulsa Real Estate Agents
 modified_time: '2017-11-21T14:37:14.148-08:00'
 thumbnail: https://i.ytimg.com/vi/ZN98Wr_6gDM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-1770626009952538755
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/11/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html
 ---
 {% include youtube.html %}
-
 Looking for some great holiday gift ideas? Look no further than Saks Fifth Avenue Tulsa.
 
 <div class="post-cta">

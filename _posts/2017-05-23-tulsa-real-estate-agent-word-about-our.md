@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-37764641323183718
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/05/tulsa-real-estate-agent-word-about-our.html
 ---
 {% include youtube.html %}
-
 Our Homekeepr app is a must-have for homeowners. These are just a few of the features it has.
 
 <div class="post-cta">

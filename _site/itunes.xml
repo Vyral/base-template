@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with Jennie Wolek</title>
+    <title>Tulsa Real Estate Podcast with Jennie Wolek</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional  Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jennie Wolek</managingEditor>
-    <lastBuildDate>2018-04-09 12:28:19 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-08 10:56:07 -0500</lastBuildDate>
     <media:copyright>Jennie Wolek</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Jennie@TheWolekGroup.com</itunes:email>
@@ -19,9 +19,9 @@
     <itunes:author>Jennie Wolek</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="localhost:4000/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tulsa Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
@@ -73,19 +73,21 @@ If you have any real estate questions or know another local nonprofit you think 
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Maryann Donahue from Global Gardens is here today to share how this wonderful organization helps empower children in high-poverty areas of Tulsa.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Maryann Donahue from Global Gardens is here today to share how this wonderful organization helps empower children in high-poverty areas of Tulsa.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Can Cleansing Rain Help You Clean and Organize Your Home?</title>
         <link>localhost:4000/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html</link>
-        
-          <category>Jennie Wolek</category>
         
           <category>Tulsa Real Estate</category>
         
@@ -126,21 +128,23 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Today, I want to talk about Cleansing Rain, which is an incredible home cleaning business here in our town.To learn more about the business and how it began, I spoke with the owner, Lacie Partney.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Today, I want to talk about Cleansing Rain, which is an incredible home cleaning business here in our town.To learn more about the business and how it began, I spoke with the owner, Lacie Partney.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How John Carter Bathrooms Can Help You </title>
         <link>localhost:4000/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html</link>
         
-          <category>tulsa ok real estate</category>
-        
-          <category>Tulsa Real Estate Other</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2018-02-22 13:03:00 -0600</pubDate>
@@ -185,19 +189,23 @@ Thank you to John for answering my questions. As always, if you have any real es
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+John Carter from John Carter Bathrooms is here today to answer a few questions about his business and some of the latest trends in bathroom remodels.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+John Carter from John Carter Bathrooms is here today to answer a few questions about his business and some of the latest trends in bathroom remodels.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>What Does Luxe Furniture and Design Have to Offer?</title>
         <link>localhost:4000/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html</link>
         
-          <category>tulsa ok real estate</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2018-01-24 11:36:00 -0600</pubDate>
@@ -242,19 +250,23 @@ As always, if you need anything in terms of real estate from the Wolek Group, pl
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Today I’m here with Tamara Noel, owner of Luxe Furniture and Design, to discuss the products and services her company provides.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Today I’m here with Tamara Noel, owner of Luxe Furniture and Design, to discuss the products and services her company provides.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Will I See You at the Toyland Ball in January?</title>
         <link>localhost:4000/will-i-see-you-at-toyland-ball-in.html</link>
         
-          <category>tulsa ok real estate</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-12-19 12:10:00 -0600</pubDate>
@@ -289,19 +301,23 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+The mission of The Parent Child Center of Tulsa is to prevent child abuse and neglect through education, treatment, and advocacy.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+The mission of The Parent Child Center of Tulsa is to prevent child abuse and neglect through education, treatment, and advocacy.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>This Time, Im the One Whos Buying</title>
         <link>localhost:4000/tulsa-real-estate-agent-im-looking-for-an-investment-property.html</link>
         
-          <category>real estate tulsa</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-12-05 09:51:00 -0600</pubDate>
@@ -334,19 +350,23 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+I’m on the hunt for an investment property in the TU/Midtown area. These kinds of properties are hard to find, so I’d love your help.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+I’m on the hunt for an investment property in the TU/Midtown area. These kinds of properties are hard to find, so I’d love your help.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Holiday Gift Ideas and More with Candra at Saks</title>
         <link>localhost:4000/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html</link>
         
-          <category>Tulsa Real Estate Agent Other</category>
+          <category>Tulsa Real Estate Agents</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-11-21 09:26:00 -0600</pubDate>
@@ -383,12 +403,16 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Looking for some great holiday gift ideas? Look no further than Saks Fifth Avenue Tulsa.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Looking for some great holiday gift ideas? Look no further than Saks Fifth Avenue Tulsa.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -432,19 +456,23 @@ If you have any other questions or would like more information, feel free to giv
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+If you’ve struggled to find your dream home by searching on your own, we have a proactive solution that may be the answer you need: buyer listings.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+If you’ve struggled to find your dream home by searching on your own, we have a proactive solution that may be the answer you need: buyer listings.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Groggs Green Barn Is Unique to Tulsa</title>
         <link>localhost:4000/tulsa-real-estate-agent-groggs-green-barn.html</link>
         
-          <category>Jennie Wolek</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-09-25 11:26:00 -0500</pubDate>
@@ -477,12 +505,16 @@ If you have any real estate questions or needs, don’t hesitate to reach out to
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+We’re out at Grogg’s Green Barn today with owner Carla Grogg. She’s going to talk to us a bit about what they do.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+We’re out at Grogg’s Green Barn today with owner Carla Grogg. She’s going to talk to us a bit about what they do.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -535,21 +567,25 @@ Let me know if this was helpful to you, and if you have any questions, give me c
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+When you encounter an offer that is lower than asking price, it’s common to negotiate.
+Do not take the low offer personally.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+When you encounter an offer that is lower than asking price, it’s common to negotiate.
+Do not take the low offer personally.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Can DISC Help You Help Others?</title>
         <link>localhost:4000/tulsa-real-estate-agent-how-disc-can-help-you-succeed.html</link>
         
-          <category>tulsa ok real estate</category>
-        
-          <category>personality types</category>
+          <category>Tulsa Real Estate</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-08-28 10:22:00 -0500</pubDate>
@@ -588,21 +624,25 @@ If you have any questions about DISC or how you can use behavioral assessments t
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>How Can You Take Advantage of Our Shifting Market?</title>
         <link>localhost:4000/tulsa-real-estate-agent-what-do-shifting-markets-mean-for-you.html</link>
         
-          <category>tulsa ok real estate</category>
+          <category>Tulsa Real Estate</category>
         
-          <category>market update</category>
+          <category>Market Update</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-08-25 16:31:00 -0500</pubDate>
@@ -637,19 +677,23 @@ Whether you’re thinking about selling or buying a house in our market, we’d 
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Our market is shifting, but if you’re a home seller, it’s still an ideal time to put your home on the market as long as you price it correctly.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Our market is shifting, but if you’re a home seller, it’s still an ideal time to put your home on the market as long as you price it correctly.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Why You Shouldn't Fear the Shift in Our Market</title>
         <link>localhost:4000/tulsa-real-estate-agent-are-we-finally-seeing-a-shift-in-our-market.html</link>
         
-          <category>market update</category>
+          <category>Market Update</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-07-31 15:29:00 -0500</pubDate>
@@ -684,12 +728,16 @@ If you have any questions or need anything at all, give me a call. I’m happy t
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+As we start to see our local market trend away from the seller’s market we’ve been enjoying, it’s more important than ever to stay educated about what’s going on locally.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+As we start to see our local market trend away from the seller’s market we’ve been enjoying, it’s more important than ever to stay educated about what’s going on locally.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -743,19 +791,23 @@ If I can answer any other questions or you’d like more information, feel free 
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+The moving and real estate industries have a lot in common. I recently spoke with Julie Woolslayer about some tips and tricks of the moving process.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+The moving and real estate industries have a lot in common. I recently spoke with Julie Woolslayer about some tips and tricks of the moving process.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
         <title>Interested in a Career in Real Estate?</title>
         <link>localhost:4000/interested-in-career-in-real-estate.html</link>
         
-          <category>tulsa real estate agents</category>
+          <category>Tulsa Real Estate Agents</category>
         
         <author>Jennie Wolek</author>
         <pubDate>2017-06-15 10:41:00 -0500</pubDate>
@@ -786,12 +838,16 @@ Just give us a call or send us an email soon. I look forward to hearing from you
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
@@ -831,17 +887,21 @@ If you have any other questions for us or you’re looking to buy or sell in Tul
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
 
+Our Homekeepr app is a must-have for homeowners. These are just a few of the features it has.
+
 </itunes:subtitle>
         <itunes:author>Jennie Wolek</itunes:author>
         <itunes:summary>
 
+Our Homekeepr app is a must-have for homeowners. These are just a few of the features it has.
+
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Jennie Wolek</copyright>
     <media:credit role="author">Jennie Wolek</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</media:description>
   </channel>
 </rss>

@@ -12,14 +12,13 @@ title: Will I See You at the Toyland Ball in January?
 date: '2017-12-19T10:10:00.000-08:00'
 author: Vyral Admin
 tags:
-- tulsa ok real estate
+- Tulsa Real Estate
 modified_time: '2017-12-19T14:57:39.158-08:00'
 thumbnail: https://i.ytimg.com/vi/DoB7fHiNPEA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-8262141431816149950
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/12/will-i-see-you-at-toyland-ball-in.html
 ---
 {% include youtube.html %}
-
 The mission of The Parent Child Center of Tulsa is to prevent child abuse and neglect through education, treatment, and advocacy.
 
 <div class="post-cta">

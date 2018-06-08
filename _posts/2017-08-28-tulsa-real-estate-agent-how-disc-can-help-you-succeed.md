@@ -12,15 +12,13 @@ title: How Can DISC Help You Help Others?
 date: '2017-08-28T08:22:00.000-07:00'
 author: Vyral Admin
 tags:
-- tulsa ok real estate
-- personality types
+- Tulsa Real Estate
 modified_time: '2017-08-31T13:44:43.113-07:00'
 thumbnail: https://i.ytimg.com/vi/y4DstcQ5GQ0/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-4617059062573088482
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/08/tulsa-real-estate-agent-how-disc-can-help-you-succeed.html
 ---
 {% include youtube.html %}
-
 We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
 
 <div class="post-cta">

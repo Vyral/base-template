@@ -12,14 +12,13 @@ title: This Time, Im the One Whos Buying
 date: '2017-12-05T07:51:00.000-08:00'
 author: Vyral Admin
 tags:
-- real estate tulsa
+- Tulsa Real Estate
 modified_time: '2018-01-10T08:18:01.454-08:00'
 thumbnail: https://i.ytimg.com/vi/Wdnm-6NqnLA/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-4399904460927195438
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/12/tulsa-real-estate-agent-im-looking-for-an-investment-property.html
 ---
 {% include youtube.html %}
-
 I’m on the hunt for an investment property in the TU/Midtown area. These kinds of properties are hard to find, so I’d love your help.
 
 <div class="post-cta">

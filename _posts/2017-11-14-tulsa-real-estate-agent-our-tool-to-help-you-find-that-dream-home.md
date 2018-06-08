@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-58056169224347881
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/11/tulsa-real-estate-agent-our-tool-to-help-you-find-that-dream-home.html
 ---
 {% include youtube.html %}
-
 If you’ve struggled to find your dream home by searching on your own, we have a proactive solution that may be the answer you need: buyer listings.
 
 <div class="post-cta">

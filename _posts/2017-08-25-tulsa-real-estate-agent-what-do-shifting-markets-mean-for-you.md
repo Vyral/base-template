@@ -12,15 +12,14 @@ title: How Can You Take Advantage of Our Shifting Market?
 date: '2017-08-25T14:31:00.000-07:00'
 author: Vyral Admin
 tags:
-- tulsa ok real estate
-- market update
+- Tulsa Real Estate
+- Market Update
 modified_time: '2017-08-31T14:00:43.111-07:00'
 thumbnail: https://i.ytimg.com/vi/S-GWWUzhSbE/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-4817192347107565984
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/08/tulsa-real-estate-agent-what-do-shifting-markets-mean-for-you.html
 ---
 {% include youtube.html %}
-
 Our market is shifting, but if you’re a home seller, it’s still an ideal time to put your home on the market as long as you price it correctly.
 
 <div class="post-cta">

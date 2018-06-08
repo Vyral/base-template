@@ -12,14 +12,13 @@ title: Groggs Green Barn Is Unique to Tulsa
 date: '2017-09-25T09:26:00.000-07:00'
 author: Vyral Admin
 tags:
-- Jennie Wolek
+- Tulsa Real Estate
 modified_time: '2017-09-25T14:38:04.750-07:00'
 thumbnail: https://i.ytimg.com/vi/F57cwdqYovQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-2547017162530187066
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/09/tulsa-real-estate-agent-groggs-green-barn.html
 ---
 {% include youtube.html %}
-
 We’re out at Grogg’s Green Barn today with owner Carla Grogg. She’s going to talk to us a bit about what they do.
 
 <div class="post-cta">

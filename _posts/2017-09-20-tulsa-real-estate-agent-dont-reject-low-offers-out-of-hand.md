@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-58694391758168431
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/09/tulsa-real-estate-agent-dont-reject-low-offers-out-of-hand.html
 ---
 {% include youtube.html %}
-
 When you encounter an offer that is lower than asking price, it’s common to negotiate.
 Do not take the low offer personally.
 

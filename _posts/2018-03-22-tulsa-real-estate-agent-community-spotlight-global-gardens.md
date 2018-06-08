@@ -19,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-40697887503094005
 blogger_orig_url: http://thewolekgroup.blogspot.com/2018/03/tulsa-real-estate-agent-community-spotlight-global-gardens.html
 ---
 {% include youtube.html %}
-
 Maryann Donahue from Global Gardens is here today to share how this wonderful organization helps empower children in high-poverty areas of Tulsa.
 
 <div class="post-cta">

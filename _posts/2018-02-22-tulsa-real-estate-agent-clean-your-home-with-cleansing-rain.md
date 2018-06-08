@@ -12,7 +12,6 @@ title: How Can Cleansing Rain Help You Clean and Organize Your Home?
 date: '2018-02-22T11:19:00.000-08:00'
 author: Vyral Admin
 tags:
-- Jennie Wolek
 - Tulsa Real Estate
 modified_time: '2018-03-12T14:34:23.191-07:00'
 thumbnail: https://i.ytimg.com/vi/lDahCYGy7HE/default.jpg
@@ -20,7 +19,6 @@ blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-46913062545426768
 blogger_orig_url: http://thewolekgroup.blogspot.com/2018/02/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html
 ---
 {% include youtube.html %}
-
 Today, I want to talk about Cleansing Rain, which is an incredible home cleaning business here in our town.To learn more about the business and how it began, I spoke with the owner, Lacie Partney.
 
 <div class="post-cta">

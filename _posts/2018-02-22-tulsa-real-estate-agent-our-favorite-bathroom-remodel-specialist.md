@@ -12,15 +12,13 @@ title: 'How John Carter Bathrooms Can Help You '
 date: '2018-02-22T11:03:00.001-08:00'
 author: Vyral Admin
 tags:
-- tulsa ok real estate
-- Tulsa Real Estate Other
+- Tulsa Real Estate
 modified_time: '2018-02-22T13:51:01.424-08:00'
 thumbnail: https://i.ytimg.com/vi/LodG7j_AEbg/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-6918694338608059013
 blogger_orig_url: http://thewolekgroup.blogspot.com/2018/02/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html
 ---
 {% include youtube.html %}
-
 John Carter from John Carter Bathrooms is here today to answer a few questions about his business and some of the latest trends in bathroom remodels.
 
 <div class="post-cta">

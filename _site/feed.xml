@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
-    <description>Our mission at The Wolek Group is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Wolek Group, your professional  Real Estate Agents.</description>
+    <title>Tulsa Real Estate Video Blog with Jennie Wolek</title>
+    <description>Our mission at The Wolek Group is to be your best resource for Tulsa real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Wolek Group, your professional Tulsa Real Estate Agents.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Apr 2018 12:28:19 -0500</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 12:28:19 -0500</lastBuildDate>
+    <pubDate>Fri, 08 Jun 2018 10:56:07 -0500</pubDate>
+    <lastBuildDate>Fri, 08 Jun 2018 10:56:07 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -88,8 +88,6 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html</guid>
         
-        <category>Jennie Wolek</category>
-        
         <category>Tulsa Real Estate</category>
         
         
@@ -135,9 +133,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html</guid>
         
-        <category>tulsa ok real estate</category>
-        
-        <category>Tulsa Real Estate Other</category>
+        <category>Tulsa Real Estate</category>
         
         
       </item>
@@ -182,7 +178,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html</guid>
         
-        <category>tulsa ok real estate</category>
+        <category>Tulsa Real Estate</category>
         
         
       </item>
@@ -217,7 +213,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/will-i-see-you-at-toyland-ball-in.html</link>
         <guid isPermaLink="true">localhost:4000/will-i-see-you-at-toyland-ball-in.html</guid>
         
-        <category>tulsa ok real estate</category>
+        <category>Tulsa Real Estate</category>
         
         
       </item>
@@ -250,7 +246,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-im-looking-for-an-investment-property.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-im-looking-for-an-investment-property.html</guid>
         
-        <category>real estate tulsa</category>
+        <category>Tulsa Real Estate</category>
         
         
       </item>
@@ -287,7 +283,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html</guid>
         
-        <category>Tulsa Real Estate Agent Other</category>
+        <category>Tulsa Real Estate Agents</category>
         
         
       </item>
@@ -357,7 +353,7 @@ Looking to buy a Tulsa area home? &lt;a href=&quot;http://www.thewolekgroup.com/
         <link>localhost:4000/tulsa-real-estate-agent-groggs-green-barn.html</link>
         <guid isPermaLink="true">localhost:4000/tulsa-real-estate-agent-groggs-green-barn.html</guid>
         
-        <category>Jennie Wolek</category>
+        <category>Tulsa Real Estate</category>
         
         
       </item>

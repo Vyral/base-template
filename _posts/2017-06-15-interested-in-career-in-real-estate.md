@@ -12,14 +12,13 @@ title: Interested in a Career in Real Estate?
 date: '2017-06-15T08:41:00.001-07:00'
 author: Vyral Admin
 tags:
-- tulsa real estate agents
+- Tulsa Real Estate Agents
 modified_time: '2017-06-22T07:40:30.323-07:00'
 thumbnail: https://i.ytimg.com/vi/lj486RNRlWQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-7445894922355707251.post-3586815819753982855
 blogger_orig_url: http://thewolekgroup.blogspot.com/2017/06/interested-in-career-in-real-estate.html
 ---
 {% include youtube.html %}
-
 Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
 
 <div class="post-cta">
