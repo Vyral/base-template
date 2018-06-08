@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should You Get Pre-Approved?
-date:
+date: 2018-06-08 15:56:09
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: Q-ERnldwKXk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>In this competitive market with low inventory and growing numbers of buyers, it’s important to enter the market with a leg up, so make sure you are pre-approved.</em></p>
+*In this competitive market with low inventory and growing numbers of buyers, it’s important to enter the market with a leg up, so make sure you are pre-approved.*
 
 <center>&nbsp;</center>
 
