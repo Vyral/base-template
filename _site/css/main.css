@@ -2606,6 +2606,18 @@ form select {
 .newsletter {
   background: black; }
 
+.price {
+  text-align: center;
+  font-weight: bold;
+  color: #f47820;
+  font-size: 28px;
+  display: block;
+  margin: 0 auto; }
+
+.price-list li {
+  list-style-position: outside;
+  list-style-type: disc; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }

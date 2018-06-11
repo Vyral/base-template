@@ -8,8 +8,8 @@ permalink: /pricing/
 
 <div class="content">
 <h3 class="heading">New Client Onboarding</h3>
-<ul>
-$1,495.00/One Time
+<span class="price">$1,495.00/One Time</span>
+<ul class="price-list">
 <li>We recruit top calling talent</li>
 <li>All applicants are rigorously tested</li>
 <li>Passing applicants are interviewed</li>
@@ -28,8 +28,8 @@ $1,495.00/One Time
 
 <div class="content">
 <h3 class="heading">Monthly Outbound Prospecting</h3>
-<ul>
-$1,850.00 Per Month
+<span class="price">$1,850.00/Per Month</span>
+<ul class="price-list">
 <li>Access to our entire staff of outbound calling experts </li>
 <li>Management of all your calling campaigns</li>
 <li>Supervision & quality assurance of your VA caller </li>
