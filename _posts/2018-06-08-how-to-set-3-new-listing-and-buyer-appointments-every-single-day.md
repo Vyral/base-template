@@ -27,7 +27,7 @@ youtube_code: pEIbq7GaAcY
 
 How do you set three new listing appointments and three new buyer appointments every single week?
 
-On our team, we believe in the fundamentals. We’re running a sales business, and one of the fundamental standards we ask of our agents is that the listing agents set a minimum of three new listing appointments each week, and the buyer agents set two new buyer appointments each week in their first year and three new buyer appointments each week in their second year. 
+On our team, we believe in the fundamentals. We’re running a sales business, so we set standards for both listing and buying agents. Listing agents must set a minimum of three new listing appointments each week. Meanwhile, buyer agents must set two new buyer appointments each week their first week and three each week in their second year. 
 
 How do we do it? It’s not that complicated, but it does take a good bit of hard work. 
 
