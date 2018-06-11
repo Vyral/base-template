@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why My Team Uses Trello and We Recommend That You Do Too
-date: 2018-06-11 18:05:09
+date: 2018-06-11 18:05:00
 tags:
 excerpt: >-
   On our team, we manage all of our transactions through a web-based tool called
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: T21ehL7jlG0
 ---
 
 {% include youtube.html %}
@@ -35,5 +35,3 @@ Once the client goes under contract, their card gets moved from the active listi
 And it all happens through this amazing operations tool. **I highly recommend you check out Trello.** If you need more examples of how we use Trello to facilitate or home buying and home purchasing processes, don’t hesitate to reach out to me. I’d be happy to share them with you.
 
 As always, just call or email me anytime if you have any questions. I look forward to speaking with you.
-
-&nbsp;
