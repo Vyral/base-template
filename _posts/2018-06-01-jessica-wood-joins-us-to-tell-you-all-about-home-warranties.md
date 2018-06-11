@@ -21,7 +21,9 @@ youtube_code: n2loXPZgqdU
 
 {% include youtube.html %}
 
-*Purchasing a home protection plan can help cover many of the items in your home if something happens.*
+<p style="text-align: center;"><em>Purchasing a home protection plan can help cover many of the items in your home if something happens.</em></p>
+
+<center>&nbsp;</center>
 
 I am joined today by Jessica Wood from Old Republic Home Protection to talk to you about home protection plans and the process of getting one. Jessica helps us purchase home protection plans for our clients at the Radke Agency.<br>&nbsp;<br>A home protection plan, or **a home warranty, is an annually renewable limited service contract which covers major systems and appliances in the home** due to normal wear and tear. This includes your water heater, kitchen appliances, plumbing, electrical, air conditioner, etc.<br>&nbsp;<br>According to Jessica, many people do not realize that you can purchase a home protection plan at any time. It does not need to be when you purchase a new home. There does not need to be a purchase.<br>&nbsp;<br>In fact, you can even **buy a home warranty for the home you are selling.** You may wonder why you would do this. Well, by offering a home warranty when selling, you can get top dollar for your house. In addition, there are three major benefits to offering a home warranty:<br>&nbsp;<br>**1. They separate you from your competition.** If there is a house for sale down the street from yours that does not offer a home warranty, the buyer will be uneasy about purchasing that house. When buyers look at your house, the home warranty will give them peace of mind.<br>&nbsp;<br>**2. They cover all major mechanical issues.** Buyers will be covered if any issues arise during the listing period and one year after closing.<br>&nbsp;<br>**3. They give you a competitive edge over new construction homes.** All new home builders offer at least a one-year home warranty. If you want to compete with new construction homes, you need to offer a home warranty.
 
