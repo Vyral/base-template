@@ -28,6 +28,6 @@ Not long after we got in touch, she was able to get pre-approved. And to make a 
 
 As a homeowner, she’ll start building equity in her home right away. On top of that, she’ll also benefit from appreciation and tax write-offs.
 
-So if you’re in a scenario like this yourself, now is the time to start considering homeownership. Homeownership is easier than most think. And **there are many different programs than can make it even simpler, as well as more affordable.** You don’t need to be afraid of homeownership.
+So if you’re in a scenario like this yourself, now is the time to start considering homeownership. Homeownership is easier than most think. And **there are many different programs that can make it even simpler, as well as more affordable.** You don’t need to be afraid of homeownership.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
