@@ -1389,9 +1389,10 @@ html[xmlns] .flexslider .slides {
 
 .hiring-navbar {
   text-align: center;
-  padding: 2rem 0; }
+  padding: 2rem 0;
+  font-size: 26px; }
   .hiring-navbar a {
-    font-size: 20px; }
+    font-size: 26px; }
 
 .navbar-left {
   margin-left: 15px; }
