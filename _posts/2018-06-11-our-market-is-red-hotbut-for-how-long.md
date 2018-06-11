@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Market Is Red Hot—But For How Long?
-date:
+date: 2018-06-11 14:15:36
 tags:
   - Market Update
 excerpt: 'The market is currently going strong, but how long can we expect that to last?'
@@ -33,4 +33,4 @@ With the exception of mid-range properties, which have begun to plateau a little
 
 In summary, I do not see this red-hot market slowing down. Even if interest rates are creeping up, they are still extremely low compared to historical averages of the past 30 to 40 years.
 
-If you have any questions, please feel free to reach out to me. I would be happy to help you however I can.<br>&nbsp;
+If you have any questions, please feel free to reach out to me. I would be happy to help you however I can.<br>
