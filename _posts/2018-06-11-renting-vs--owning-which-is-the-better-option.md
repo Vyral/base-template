@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Renting vs. Owning: Which Is the Better Option?'
-date: 2018-06-11 15:06:19
+date: 2018-06-11 15:06:00
 tags:
 excerpt: >-
   Today let’s discuss whether it’s time for you to make the transition from
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dildine-youtube-1-1.jpg
-youtube_code: AT9sxcakLOM
+youtube_code: cZT4OrQLUsQ
 ---
 
 {% include youtube.html %}
