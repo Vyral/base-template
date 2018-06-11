@@ -30,6 +30,6 @@ So, **what is the role of a title company when you're buying or selling a proper
 
 Some people may be more comfortable using an attorney because that is what they are used to doing. **Nona Title has an attorney on staff** specifically for those individuals. There is an additional fee, but the attorney can review the policy for them.
 
-If you have any additional questions for Michael, you can contact him at (407) 556-3798 or visit his website at [www.nonatitle.com](http://www.nonatitle.com/).
+If you have any additional questions for Michael, you can contact him at (407) 556-3798 or visit his website at [www.nonatitle.com](http://www.nonatitle.com/){: target="_blank"}.
 
 If you have any additional questions for me or are interested in buying or selling, please feel free to call or email me. I look forward to speaking with you soon.
