@@ -8,7 +8,8 @@ excerpt: >-
   As you near retirement age, considering the features of your home is more
   important than ever. Here are seven factors to think about when it comes to
   selecting a home to retire in.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tony+Verdi/Tony+Verdi+Sells+Houses-+7+Important+Factors+About+Retirement+Living.mp4
 pullquote: >-
   When it comes to your favorite forever home, evaluating your current house for
   its ability to adapt with you as you age can be the first step to guaranteeing
