@@ -32,9 +32,13 @@ There’s no doubt about it: **the real estate market is as competitive now as i
 
 The reality is that a lot of homebuyers aren’t starting with a pre-approval. They’re getting emotionally invested in the home search process and when they are ready to put an offer on the perfect home, they find that another, more prepared buyer has already made an offer — and that buyer has been pre-approved.
 
-Instead of starting your home search a an open house, **one of the wisest things you can do is start your search at a mortgage office.** In general, there are a few things that a lender will ask you for:
+Instead of starting your home search at an open house, **one of the wisest things you can do is start your search at a mortgage office.** In general, there are a few things that a lender will ask you for:
 
-**1. Proof of income.** Have your tax returns and pay stubs from the last 30 days ready, and be prepared to show them your year-to-date income and possibly some bank statements.<br>**2. Proof of assets.** This is where your bank statements will also come in useful.<br>**3. Good credit.** You’ll need to be able to give them your social security number, date of birth, and some other personal information so they can check your credit scores.
+**1. Proof of income.** Have your tax returns and pay stubs from the last 30 days ready, and be prepared to show them your year-to-date income and possibly some bank statements.
+
+**2. Proof of assets.** This is where your bank statements will also come in handy.
+
+**3. Good credit.** You’ll need to be able to give them your social security number, date of birth, and some other personal information so they can check your credit scores.
 
 {% include pullquote.html %}
 
