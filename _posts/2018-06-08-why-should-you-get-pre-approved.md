@@ -22,9 +22,9 @@ youtube_code: Q-ERnldwKXk
 
 {% include youtube.html %}
 
-*Looking for a home? [Click here to search available homes.](http://www.viewcentralpahomes.com/){: target="_blank"}*
+<p style="text-align: center;"><em>Looking for a home? [Click here to search available homes.](http://www.viewcentralpahomes.com/){: target="_blank"}</em></p>
 
-*In this competitive market with low inventory and growing numbers of buyers, it’s important to enter the market with a leg up, so make sure you are pre-approved.*
+<p style:"text-align: center;"><em>In this competitive market with low inventory and growing numbers of buyers, it’s important to enter the market with a leg up, so make sure you are pre-approved.</em></p>
 
 <center>&nbsp;</center>
 
