@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Save for Your Down Payment
-date:
+date: 2018-06-11 20:44:47
 tags:
   - Real Estate
 excerpt: >-
