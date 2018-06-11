@@ -17,7 +17,9 @@ youtube_code: bzuXMA8OjjM
 
 {% include youtube.html %}
 
-The market is currently going strong, but how long can we expect that to last?
+<p style="text-align: center;"><em>The market is currently going strong, but how long can we expect that to last?</em></p>
+
+<center>&nbsp;</center>
 
 The market right now is on fire—but how long will the market remain hot?
 
