@@ -35,9 +35,9 @@ Sometimes, the leads that come through these discount real estate companies are 
 
 At the end of the day, **sellers who believe they’ll be paying a 1% commission fee are actually setting themselves up for minimal service and additional expenses later on** in the transaction. To truly make the most of a transaction, sellers need access to the kind of resources, service, and support that these discount brokers simply can’t (or won’t) provide.
 
-{% include pullquote.html %}
-
 One major resource these discount brokers cut back on is marketing. And without marketing, getting top dollar simply isn’t possible. Sellers need as many buyers as possible to see their listing in order to achieve a successful sale.
+
+{% include pullquote.html %}
 
 So, choosing an agent based on a discounted commission fee alone is actually a major mistake. You may save money up front, but you’ll certainly lose money in the long run.
 
