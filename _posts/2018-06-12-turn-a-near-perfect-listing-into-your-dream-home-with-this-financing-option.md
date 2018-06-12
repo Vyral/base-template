@@ -21,7 +21,9 @@ youtube_code: iwprOuPwzvw
 
 {% include youtube.html %}
 
-Can your financing program help you make home improvements when you purchase property? Actually, some may. Let’s discuss this option today.
+<p style="text-align: center;"><em>Can your financing program help you make home improvements when you purchase property? Actually, some may. Let’s discuss this option today.</em></p>
+
+<center>&nbsp;</center>
 
 Imagine you’ve found a near-perfect home. **It fits most of your qualifications, but there are still a few changes you’d like to make. What should you do?**
 
