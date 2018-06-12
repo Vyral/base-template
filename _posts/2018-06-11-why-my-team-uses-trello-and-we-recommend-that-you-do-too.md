@@ -20,9 +20,7 @@ youtube_code: T21ehL7jlG0
 
 What is Trello? Why do we at the Dave Friedman Team swear by it?
 
-**Trello is a web-based operations tool, and we use it to manage all of our transactions.** It’s a very simple software, and anyone can access it.
-
-How does it work? I’ll give you an example of how we use it.
+**Trello is a simple and accessible web-based operations tool we use to manage all of our transactions. But how does it work?**
 
 Every time one of our agents sets an appointment (or an ISA sets an appointment for them), our operations team creates a card on Trello that details important information about the client the appointment is for. They also attach to the card whichever agent or ISA set the appointment. Once the agent meets with the client and they sign a buyer agency or listing agency agreement, they can then move that card from “set” to “met” to “signed.”
 
