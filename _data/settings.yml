@@ -1,6 +1,9 @@
 audit_header: false
 title: The Andrey Bustamante Team
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -19,15 +22,15 @@ client:
   phone2_type:
   email: info@andreybustamante.com
   url: 'http://www.andreybustamante.com'
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808366';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808366';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.andreybustamante.com/custompages_reports/b1979.htm'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.andreybustamante.com/custompages_reports/b1977.htm'
-
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
@@ -37,8 +40,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -52,20 +55,33 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/AndreyBustamante/'
-  trulia_url: 'https://www.trulia.com/profile/andrey-bustamante-agent-orlando-fl-zg0m9s1f/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/andrey-bustamante-agent-orlando-fl-zg0m9s1f/overview
   yelp_url: 'https://www.yelp.com/biz/bustamante-real-estate-orlando'
   podcast_url: 'http://oi.vresp.com?fid=3d624b00fa'
 podcast:
   title: Andrey Bustamante Team Real Estate Podcast
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: https://s3.amazonaws.com/vyralmarketing/Andrey+Bustamante/Email+Assets/bustamante_header.png
+  hero_logo_path: /uploads/bustamante-header1.png
   logo_width_number: 70
   hero_text:
   hero_background_hex: '#3b6ea2'
