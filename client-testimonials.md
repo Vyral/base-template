@@ -6,6 +6,15 @@ layout: default
 
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457329423&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">
+"They treated me like they were definitely interested in what we needed. I didn't feel like I was just a client. It did feel like they were actually interested in our success. Too many times I think too many of these people just get into the idea that they're there to make the dollar and however they make it is all that matters. The better the attitude is and the better that they care about their clients I think that's the way they're going to end up maintaining business and increasing their business."
+</p>
+<p class="testimonial-author">
+-Ben L.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/451823292&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">
 "They were really friendly, worked fast and helped me out with everything. I was a first-time homebuyer and it worked out really well. He worked around my weird work schedule multiple times. I had a very bizarre work schedule at the time. He was very accommodating to that whenever we wanted to look at a place."
