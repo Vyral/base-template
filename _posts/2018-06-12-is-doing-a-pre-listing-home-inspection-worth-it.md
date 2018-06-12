@@ -19,7 +19,9 @@ youtube_code: gH2n2yhFybM
 
 {% include youtube.html %}
 
-If you are planning on doing a home inspection before you list your home, you should know that it may not be worth the time and money.
+<p style="text-align: center;"><em>If you are planning on doing a home inspection before you list your home, you should know that it may not be worth the time and money.</em></p>
+
+<center>&nbsp;</center>
 
 One of my recent home sellers asked about getting a pre-listing home inspection before they put their home on the market. Is it a good idea? The answer is: not necessarily.<br> <br>When you have a home inspected and they make notes of all the repairs that the inspector finds, a buyer will also have an inspection after the home is listed. This will cost another $500 to $1,200 depending on the inspections that they complete.<br> <br>When they hire their own person, they want to get their money’s worth so be assured that they will find many other problems with the home. No two humans are going to find the same exact issues. While you think that you will be prepared by getting a pre-listing inspection, you could still be facing many other issues that you have no idea about.<br> <br>Ultimately, **the decision to get a pre-listing inspection is up to you as the seller.** If you are the type of person who prefers to have a little peace of mind that is afforded to you by a pre-inspection, then by all means get one. You may find some issues you were unaware your home had.<br> <br>If you are the kind of person who really wants perfection, though, then there is no such thing. A buyer is still going to inspect the home on their own with their own inspector and find their own set of issues.
 
