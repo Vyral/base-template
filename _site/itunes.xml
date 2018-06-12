@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title> Real Estate Podcast with Kristin Jamieson</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title> Mortgage and Loan Podcast with Kristin Jamieson</title>
+    <link>http://kristinjamiesonfl.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://kristinjamiesonfl.com"/>
     <description>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</description>
     <language>en</language>
     <managingEditor>Kristin Jamieson</managingEditor>
-    <lastBuildDate>2017-10-20 10:33:42 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-12 09:47:17 -0500</lastBuildDate>
     <media:copyright>Kristin Jamieson</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://kristinjamiesonfl.com/img/podcast.jpg"/>
     <media:keywords>finance, financial planning, retirement, retirement planning, 401K</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,558 @@
     </itunes:owner>
     <itunes:author>Kristin Jamieson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://kristinjamiesonfl.com/img/podcast.jpg"/>
     <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
     <itunes:summary>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>How Does the Appraisal Process Work When Buying?</title>
+        <link>http://kristinjamiesonfl.com/how-does-the-appraisal-process-work-when-buying.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-05-29 15:47:40 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4</guid>
+        <description>
+
+Today I want to talk with you about how the appraisal process and the mortgage loan application process work.
+
+When the purchase contract comes in, all initial loan disclosures have been signed, and we have the intent to proceed as a lender, we will order an appraisal on the property.
+
+Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company. We will place our order through the appraisal management company and then they will contract with the appraiser.
+
+“Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company.”
+
+As the lender, we will not know who the appraiser is on the property until we actually get the report. This ensures that there is no coercion of value. Also, it guarantees nobody has reached out to the appraiser and provided any information that could sway their opinion of value. This makes it so the lender can be sure that they are getting the most accurate depiction of the value of the property.
+
+This process also protects the buyer as well from any coercion of value from either side of the transaction.
+
+Once the appraisal comes back, it is reviewed and then it can be released to all parties in the transaction for review.
+
+If you have any other questions about the appraisal process or the cost of an appraisal in the home buying process, please feel free to reach out to me by phone or email. I would be happy to speak with you about it.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When do you get appraised?</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>When do you get appraised?</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Which Is Better: Being Pre-Qualified or Being Pre-Approved?</title>
+        <link>http://kristinjamiesonfl.com/which-is-better-being-pre-qualified-or-being-pre-approved.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-05-17 10:47:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4</guid>
+        <description>
+
+Despite being commonly confused, pre-qualification letters and pre-approval letters are two distinct documents. Today I’d like to talk about the difference between them and, also, which is better for buyers to have.
+
+First, what is a pre-qualification letter?
+
+A pre-qualification letter is a document containing information from a mortgage loan application. However, little of the information listed on this document has been verified. This means pre-qualification letters are not reliable evidence in the eyes of a seller, since only the buyer’s credit score has been confirmed.
+
+Pre-approval letters, on the other hand, contain verified information about the buyer. All documentation has been collected, and the underwriter has reviewed and approved the loan file. For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.
+
+As long as the property appraises and nothing pertaining to the buyers’ financial situation changes drastically during escrow, the approval process should go quickly for buyers with a pre-approval letter. Having a pre-approval letter is very important in the mortgage lending process.
+
+“For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.”
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What makes a pre-approval letter so important?</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>What makes a pre-approval letter so important?</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Will the Upcoming USDA Changes Affect You?</title>
+        <link>http://kristinjamiesonfl.com/will-the-upcoming-usda-changes-affect-you.html</link>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-05-04 13:21:03 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+June 4, 2018 will be a big day in the mortgage world. It’s the day that the new maps from the USDA come into effect for the 2018 fiscal year.
+
+As you may already know, the three main qualifications for a USDA loan are:
+
+
+  You must have at least a 620 credit score
+  You must be purchasing in a USDA-eligible area
+  You must meet annual household income requirements
+
+
+Until June 4, we’ll be working based on the old maps. In Lake County, the entire county is still eligible. However, this change means that you have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.
+
+“You have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.”
+
+Anything that comes in on June 4 or after would be subject to the new USDA property maps.If you or anyone you know has any questions regarding this change, please don’t hesitate to reach out to us. We’d be glad to sort out any confusion.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Major changes are coming to how the USDA will approve loans. Here’s what you should know.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Major changes are coming to how the USDA will approve loans. Here’s what you should know.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are the New Loan Limits for 2018?</title>
+        <link>http://kristinjamiesonfl.com/what-are-the-new-loan-limits-for-2018.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-04-26 10:47:26 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits.mp</guid>
+        <description>
+
+Each year, the Housing and Recovery Act requires that the baseline conforming loan limit be adjusted to reflect the sales price of the previous year. 
+
+This year, the conforming loan limit rose to $453,100. The VA and USDA limits also rose to this amount. For our local area, the base FHA loan limit rose to $294,515. 
+
+“These loan limit increases help programs to stay up-to-date.”
+
+These loan limit increases help programs to stay up-to-date in relation to current sales prices in our market. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits.mp" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits.mp" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’d like to discuss the new loan limits for 2018.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Today I’d like to discuss the new loan limits for 2018.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Be Careful About Pulling Your Credit</title>
+        <link>http://kristinjamiesonfl.com/be-careful-about-pulling-your-credit.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-04-12 15:32:39 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Pull+Credit.mp4</guid>
+        <description>
+
+Today we’re here to answer a few questions about why it’s never a good idea to let anybody pull your credit during the mortgage loan process without consulting with your mortgage loan officer first. Let’s get right to it.
+
+How do credit inquiries affect your credit score?When you apply for credit, it’s considered a “hard inquiry.” All hard inquiries result in a reduction of your credit score. However, inquiries are weighted. Mortgage and car loans will reduce your credit score by fewer points than a store or airline credit card. Each credit union will give you a different score, but hard inquiries result in a reduction in each case.
+
+We are switching utilities. What if they pull our credit?Utilities are a little bit different than a credit card or car loan. It’s considered a soft pull. They will pull your payment history and they may pull a credit score on their site, but it’s not an actual hard inquiry. We won’t see a reduction or anything on our side from the utility companies. So, getting your credit pulled from the utility company won’t affect your mortgage loan application.
+
+“You should avoid hard inquiries as much as possible.”
+
+What services and companies should you give permission to pull credit?It’s going to come down to the things you need to have in place when you moved into your new home. Your utilities, cable, phone, internet, etc. You never want to have any hard inquiries unless they are absolutely necessary. That’s why it’s important to have a great one-on-one relationship with your loan officer so you can talk these situations out and find a solution.
+
+Do lenders run a second credit check before closing?Some loan programs do require a soft pull or a second credit check prior to closing. It isn’t a hard inquiry, so you won’t see a reduction in your score. You always want to err on the side of caution. If you’re planning on buying a home, pay extra attention to your security, because even little mistakes could cause you to lose out on a loan.
+
+If you have any questions for me or anyone on my team, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Pull+Credit.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Pull+Credit.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re buying a home soon, we have some advice about your credit. Here’s what you should know.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>If you’re buying a home soon, we have some advice about your credit. Here’s what you should know.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why New Furniture Could Cost You Your Home Loan</title>
+        <link>http://kristinjamiesonfl.com/why-new-furniture-could-cost-you-your-home-loan.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-03-29 12:09:26 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Major+Purchases.mp4</guid>
+        <description>
+
+Sometimes, families going through the loan process are so excited about the prospect of purchasing a home and how that home will look that they jump the gun and either make a major purchase with their credit card or open a new credit card to make some major purchases. 
+
+As we’ve discussed in previous videos, this can have a detrimental impact on your credit. There are some loan programs that require us to do a soft credit pull prior to closing, so we’ll see any credit inquiries for large purchases. Depending on the purchase amount and what it does to your credit score, this could affect your qualification and eventual closing. 
+
+Even though furniture stores can offer you 0% financing for 60 months, what they’re essentially doing is providing you a credit card, which is a revolving credit line that will report to all three major credit bureaus. When you apply for the store’s financing, that will show up on your credit history and, in turn, drop your credit score because a computer doesn’t understand the circumstances involved. It doesn’t know whether you’re credit-seeking or you’ve perhaps fallen on hard times and you’re trying to take out a card and max it out. 
+
+If you’re given $1,000 worth of credit and you spend all of it, not only will that inquiry drop your credit score, but you will have also maxed out another account. Even though that $1,000 sum requires 0% interest or doesn’t require any payments for the first six months, it will still show up on your credit report, which could affect your debt-to-income ratio. 
+
+“Wait until after you’ve closed on your home to start buying furniture for it.”
+
+Buying furniture for your new home is something that needs to be done, but you don’t want the furniture truck to show up in the driveway the day of your closing because that means your furniture store account would’ve had to have been opened and financed prior to that closing. 
+
+Paying for new furniture with cash before you close on your home, on the other hand, won’t hurt anything unless you use the money you set aside for your down payment and closing costs. It’s your money and you can do what you want with it, just be cognizant of what you’ll need at the closing table.
+
+The best time to purchase new furniture for your home is anytime after you close. Us lenders won’t verify what happened after the day of your closing, so if you need to sign up for a line of credit from a furniture store, make sure you do it after you close. That way, you actually have a home to put your furniture in. 
+
+If you have any other questions about this topic or anything else about the mortgage loan process, don’t hesitate to reach out to me and my team. We’d love to help you. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Major+Purchases.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Major+Purchases.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Making a major purchase with your credit card, such as buying furniture, before closing on your home can potentially harm your mortgage qualification.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Making a major purchase with your credit card, such as buying furniture, before closing on your home can potentially harm your mortgage qualification.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Buying a Car Can Affect Your Pre-Approval</title>
+        <link>http://kristinjamiesonfl.com/how-buying-a-car-can-affect-your-pre-approval.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-03-12 10:03:55 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Buying+a+Car+Can+Affect+Your+Pre-Approval.mp4</guid>
+        <description>
+
+Will purchasing a car affect your ability to buy a home? Yes, and there are a few different ways a car purchase can impact your chances of being approved for a mortgage or closing on a new home. 
+
+It doesn’t matter if you buy a $20,000 car or a $100,000 car. In the grand scheme of things, the amount of debt is not as important as the monthly debt that goes along with purchasing a car. Your car payment will get calculated into your debt-to-income ratio, and some loan programs have higher debt-to-income ratio qualifications than others. 
+
+If you are pre-approved and already looking at homes at the top of your budget without that monthly car payment, buying a car could affect your ability to qualify. We will not close on a loan that does not meet the debt-to-income ratio requirements.  
+
+Buying a car can also impact your funds for closing. Sometimes when you buy a car, they require some sort of down payment to get into the vehicle. You might end up using funds that you had set aside for a down payment or closing costs. If you don’t have those funds available, you may not be able to close on the home that you are looking to buy.  
+
+Let’s say that you need to buy a car. What can you do so that you don’t hurt your chances of buying a home? 
+
+One thing we can do is look at the numbers and see what you could qualify for, what you’re looking for in a home, and what you need in a car. From there, we can see what that payment equates to in your debt-to-income ratio. 
+
+Every $50 in a monthly car payment can affect your buying power by about $10,000. If you get a $200 monthly car payment, you may have limited your mortgage by $40,000, and that’s a lot of house. It really depends on what you need and what works for you and your family. We can kind of reverse those numbers to make it work. 
+
+“You don’t want to buy a car, truck, or van during the mortgage loan process—unless you want to end up living in it.”
+
+Another thing to consider when you go to buy a car is that the dealership will pull your credit. Some dealerships pull your credit 10 or 12 different times in order to get you the best rate or payment, and those are hard inquiries. If you come to us after you purchase a car, your credit score could be substantially lower. We also pull your credit during the mortgage process; interest rates are calculated largely based on your credit score. You may end up paying a higher interest rate because buying a car has lowered your credit score. 
+
+What if you pay cash for the vehicle? 
+
+If you pay cash, it’s not going to affect your mortgage loan whatsoever. We’re not going to see that on the credit report. Just make sure that you have set aside enough funds or assets for the down payment and closing costs for your home. Don’t deplete those to pay cash for a new vehicle. 
+
+Is there a difference between buying, leasing, or financing a vehicle? 
+
+There really isn’t a difference as far as qualifying for a new home. We’ll look at a monthly lease payment or car payment and calculate that in your debt-to-income ratio. 
+
+Let’s say you’ve had a lease for four years and the lease is about to be up. Even if you weren’t going to get a new lease, as your mortgage lender, we would still have to count that lease against you. Even if you only have a couple of payments left, you will have to get a new car somehow in order to get back and forth from work. The only way that would work would be if we could prove that you were paying cash for a new car. 
+
+As you can see, it may benefit you to wait until you close on your new home before you start looking for a new car. 
+
+If you have any other questions about what you can and can’t do during the mortgage loan process, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Buying+a+Car+Can+Affect+Your+Pre-Approval.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Buying+a+Car+Can+Affect+Your+Pre-Approval.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a number of things you shouldn’t do during the mortgage loan process if you want to be able to close on a home. Buying a car is one of them.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>There are a number of things you shouldn’t do during the mortgage loan process if you want to be able to close on a home. Buying a car is one of them.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Managing Your Money and Accounts During the Loan Process</title>
+        <link>http://kristinjamiesonfl.com/managing-your-money-and-accounts-during-the-loan-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-02-16 10:35:02 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Managing+Your+Money+and+Accounts+During+the+Loan+Process.mp4</guid>
+        <description>
+
+Today we’re going to be talking about large deposits and why you shouldn’t make any large deposits into your bank account, switch banks, or transfer money between accounts during the mortgage loan process.
+
+What constitutes a large deposit?
+
+Every loan program has their own guidance on what constitutes a large deposit. For example, in a conventional loan, a large deposit would be considered anything over 50% of the monthly qualifying income. For government loan programs, it would be 1% or more of the purchase price.
+
+Ultimately, the underwriters have the final say. Even though we have some guidance from the secondary market investors and government agencies about what they expect, underwriters can always question or require explanations for any deposits that seem out of the ordinary in the mortgage loan process.
+
+What if you were given a financial gift?
+
+Gift funds are always acceptable if they’re from a first-generation relative and as long as they’re verified properly. By that, I mean that each loan program will have its own verification requirements. According to Fannie Mae, Freddie Mac, FHA, VA, and USDA, to document the gifts, we have to have a signed gift letter that we provide at application, which states that the funds are gifts and that no repayment is expected. This is signed by the one who gave the gift and yourself. We also need to see the donor’s most recent bank statements with no blackouts or altered account numbers, proving that they have the funds to give.
+
+Additionally, the underwriters will look through the donor’s bank statements for any unusually large deposits that might be constituted as suspicious. It’s their job to look for and report any signs of money laundering. After that, you’ll need a copy of the canceled check or the wire confirmation of the donor wiring the funds to your account so that we can see the funds coming from their account and going into yours.
+
+“Everything requires a paper trail in the mortgage loan process.”
+
+Will switching banks hurt your chances of closing?
+
+Switching banks isn’t necessarily as bad as having unsourced cash deposits. The important thing about switching banks is being able to demonstrate that the exact same amount of money from your old bank is transferred to your new one.
+
+Everything requires a paper trail in the mortgage loan process. There are a lot of bad things that people try to use mortgage transactions for, like terrorism and laundering, so if you’re changing banks, just make sure that you’re saving all your paperwork from the closure of your previous account and the opening of the new one. It might be a good idea to start your new account with a cashier’s check from the old account instead of a cash deposit, just so that we can document and source it.
+
+Will an overdrawn checking account hurt your chances of closing?In the mortgage loan process, we are looking for non-sufficient funds and overdrafts, as well as anything that will reflect on your ability to make your mortgage payment timely every month. Explainable overdrafts won’t necessarily be bad, but underwriters will look for numerous overdraft fees. If you’re consistently overdrawing your account, they may question your ability to make that payment.
+
+It’s always best to manage your money and watch your bank account through the loan process. Your full financial history over the last couple years is being assessed, so you’ll need to have your best foot forward.
+
+If you have any questions about the mortgage loan process or your financial account history, don’t hesitate to reach out to us. We’d be glad to help and advise you however we can.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Managing+Your+Money+and+Accounts+During+the+Loan+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Managing+Your+Money+and+Accounts+During+the+Loan+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’ll be answering questions about how to manage your money during the mortgage loan process.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Today, I’ll be answering questions about how to manage your money during the mortgage loan process.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Jump the Gun Before You Close on Your Home</title>
+        <link>http://kristinjamiesonfl.com/dont-jump-the-gun-before-you-close-on-your-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-01-29 04:23:31 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Dont+Jump+the+Gun+before+You+Close+on+Your+Home.mp4</guid>
+        <description>
+
+Before you close on the home you’re in the process of buying, you should avoid making large purchases such as furniture and charging them to your credit card. But why is that?
+
+Buying a home is an exciting experience. Clients have envisioned exactly how they want to lay out their home and how they’ll feel once they’ve finished the transaction and moved in. However, sometimes they get a little too excited and jump the gun by not paying enough attention to the loan process. They’ll go shopping for furniture or other expensive purchases and charge those things to their credit cards.
+
+As lenders, there are some loan programs that require us to do a soft credit hold prior to closing so we are able to see the inquiries on your credit. Depending on how large your purchase was, it could really affect your credit score, potentially disqualifying you from being able to close on the home.
+
+Does that mean financing is a better option than using a credit card?
+
+More or less, those options are the same. Even though a furniture store will give you 0% financing for 60 months, what they’re actually doing is providing you with a credit card. This is a revolving credit line which will report to all three of the major credit bureaus. When you apply for a store card or financing plan, that information will come onto your credit report and drop your credit score.
+
+Say you were given $1,000 in a credit line and you spend all of that money. Well, even though it’s at 0% interest or doesn’t require a payment for six months, it will still show that you’ve maxed out your balance and also that you haven’t made any payments. This could affect your debt-to-income ratio, which is a factor considered when you apply for a loan.
+
+“If you want to buy furniture for your new home, you don’t need to jump the gun and purchase those things before you close.”
+
+If you want to buy furniture for your new home, you don’t need to jump the gun and purchase those things before you close. You can have everything you want all picked out, but just don’t have the furniture truck in your driveway on the day of closing, since you would have had to have opened the account prior to closing.
+
+Will paying for things with cash hurt?
+
+Cash will never hurt anything. The only way that paying with cash might hurt you is if you’re using funds that you had set aside for your down payment and closing costs or other important expenditures. You can always use your money however you want, just always be cognizant of what exactly you’ll need at the closing table moving forward.
+
+If you have any questions about the home buying process or about the mortgage loan process, please don’t hesitate to reach out to me.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Dont+Jump+the+Gun+before+You+Close+on+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Dont+Jump+the+Gun+before+You+Close+on+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Don’t make any large purchases on your credit card before you close. Find out why that can hurt you right here.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Don’t make any large purchases on your credit card before you close. Find out why that can hurt you right here.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Does Your Employment Status Affect Your Mortgage Application?</title>
+        <link>http://kristinjamiesonfl.com/how-does-your-employment-status-affect-your-mortgage-application.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-01-02 05:39:35 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Does+Your+Employment+Status+Affect+Your+Mortgage+Application%253F.mp4</guid>
+        <description>
+
+There are many moving parts to your mortgage loan application. Today, I’ll answer a few common questions when it comes to your employment status.
+
+How will your employment status affect the mortgage loan application?
+
+Your employment status can affect your loan application in a couple of different ways. We are looking to see if you have part-time or full-time employment, as part-time has different guidelines. We will also look to see if it’s seasonal employment. You need to prove that you have a regular, steady, stable income that will continue.
+
+“As your lender, we check to make sure that your income is steady, stable, and increasing.”
+
+We do see some families that work in union states. They may have a full-time job but only work 10 months out of the year with two months off in the winter. They spend those two months on unemployment income because that is how their union works. That income would be acceptable as long as we have a two-year history of such employment.
+
+Again, we are really looking to see if you have income that is steady, stable, and increasing. We are also looking at the likelihood of its continuance.
+
+Is employment verified or claimed on the day of closing or in advance?
+
+Employment has to be verified at least 10 days prior to closing. It’s usually done when we send the file back for our clear to close as soon as the underwriter reviews the loan. If we don’t have that verbal verification of employment in the file, they can’t push that to the closing department.  
+
+In a perfect world, that’s done a few days before closing. In a 30-day contract, an average of 21 people touch the loan file from beginning to end, so sometimes the verbal verification of employment is not done until the day before closing or the day of closing. As a client, you need to stay at your job and stay in good standing all throughout the loan process.
+
+What if I get promoted or find a higher paying job?
+
+If you get promoted within the same company, take the promotion and keep going. We can verify the new terms of employment with HR. As long as we are able to show that the income is steady, stable, and increasing, then we are good to move forward.
+
+If you find a higher paying job, there are a couple of different things to consider.
+
+Employment contracts often have contingencies, such as drug screenings or background checks. You usually don’t get an offer letter and then start the next day. Most of the time, the hiring process takes at least a couple of weeks.
+
+Once those contingencies are met, we do require 30 days of pay stubs in order to close. If it takes two weeks to start the job and then you need 30 days of pay stubs, that can delay closing. If the pay period is biweekly, you might not get your first paycheck for a month, which could delay things further. Starting a job at a new company could potentially delay your closing for 45 to 60 days.
+
+Different loan programs, such as FHAs, will have their own guidelines. Unfortunately, one of my clients and I are dealing with this right now.
+
+My client is a cancer survivor. Two years ago, she had a gap of employment for six months while she got her chemo and radiation treatment. Since then, she has been employed for 19 months. She spent 13 months at one job and switched employment to another job. FHA requires that if you have a gap in employment over the last two years, then you have to be at your current job for six months.
+
+We have to adhere to those guidelines, so her closing has been delayed. I’m happy to say that she will be closing in a couple of weeks now, so we did make it through.
+
+Can I leave my job after the closing?
+
+As lenders, we always want to make sure that your loan can perform. We never want to put you into a home that you may not be able to afford.
+
+Now, we won’t verify employmfent after closing. Once we close, it’s your life. No one can predict the future. You can change jobs or quit, but I advise that you proceed with caution. Make sure that you are making the right decision. After all, when you buy a home, you are making a 15-, 20-, or 30-year investment, so make sure that you set yourself up for success.
+
+As you can see, your employment status plays a major role in the mortgage loan application process. If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Does+Your+Employment+Status+Affect+Your+Mortgage+Application%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Does+Your+Employment+Status+Affect+Your+Mortgage+Application%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why does your employment status play such an important role in your mortgage loan application? I’ll explain today.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Why does your employment status play such an important role in your mortgage loan application? I’ll explain today.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Credit Advice for Prospective Mortgage Purchasers</title>
+        <link>http://kristinjamiesonfl.com/credit-advice-for-prospective-mortgage-purchasers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-12-11 04:34:50 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Credit+Advice+for+Prospective+Mortgage+Purchasers.mp4</guid>
+        <description>
+
+Today I’ve got some valuable credit advice for anybody who is thinking about getting a mortgage or refinancing their current mortgage in the near future.
+
+All of the major credit cards report to the three major bureaus: Transunion, Equifax, and Experian. Credit cards have different limits, but whatever the limit is, the rule of thumb is to keep your balances below 30%. If your debt is any higher, it will affect your debt-to-income ratio, which will affect your credit score and your monthly payment.
+
+“Keep your credit balance under 30%”
+
+Even if you have a 0% interest card, it’s important to keep the total balance of all your credit cards under 30%. If you have multiple cards and are considering consolidating them into one, I would discuss it with a loan officer in advance of qualification.
+
+If you want to use part of your loan approval to pay off debt on a card, we can do what’s called a credit supplement. We have a partner that can call the creditor with the data to verify that the payment has been made and the resulting balance is $0.
+
+Your loan approval is based on the picture of your credit at the time of qualification. Keep in mind that if you make any credit purchases or open any new cards after qualification, it’s vitally important to keep your loan officer in the loop. Some lenders do a soft credit score pull prior to closing as a final check on your eligibility. Taking on new debt so soon after qualifying could put your entire mortgage in jeopardy.
+
+If you have any questions about credit in the mortgage qualifying process or anything else about mortgage loans, don’t hesitate to give me a call or send me an email. I’d love to hear from you.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Credit+Advice+for+Prospective+Mortgage+Purchasers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Credit+Advice+for+Prospective+Mortgage+Purchasers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You should treat your credit carefully, especially if you’re going to be getting a mortgage. Here are a few things you should know.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>You should treat your credit carefully, especially if you’re going to be getting a mortgage. Here are a few things you should know.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is It a Bad Idea to Cosign on a Loan During the Mortgage Process?</title>
+        <link>http://kristinjamiesonfl.com/why-is-it-a-bad-idea-to-cosign-on-a-loan-during-the-mortgage-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-11-20 06:26:53 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Why+Is+It+a+Bad+Idea+to+Cosign+on+a+Loan+During+the+Mortgage+Process%253F.mp4</guid>
+        <description>
+
+From an underwriting perspective, cosigning for a loan in the mortgage process is a bad idea. It can not only affect your credit score, but it can also hurt your purchasing power as a homebuyer.
+
+Say you’re cosigning for a car loan for a $6,000 car that has a $150 payment. To get the car loan, your credit has to be pulled, and that can affect your credit score. That $150 payment also has to be counted against you in your debt-to-income ratio, which can impact what you can qualify for.
+
+Even if the other cosigner will be making that payment, there is no way that payment can be excluded until they’ve consistently and consecutively made 12 months’ worth of payments to the lien holder. You’re stuck with that payment for at least 12 months.
+
+Additionally, if that person misses one of their payments or they’re 30 days late on one of them, that would also show up on your credit report and potentially affect your qualification status. There are some loan programs out there that don’t allow you to have any 30-day late payments in the last 12 months.
+
+From a mortgage standpoint, there really is no difference between a cosigner and a co-borrower. Lenders look at what’s on your credit report, and it doesn’t matter whether you cosigned or co-borrowed—the account will more than likely show up on your credit report, and they’ll see the payment.
+
+“It’s not a good idea to cosign for anybody, especially if you’re thinking about buying a home.”
+
+The total amount of the cosigned loan doesn’t detract from your mortgage eligibility because it’s the monthly payment that lenders calculate into your debt-to-income ratio. It doesn’t matter if it’s a $10,000 loan or a $200,000 loan; it’s the monthly payment that we care about. Keep in mind that every $50 in a monthly payment equals $10,000 in a purchase price.
+
+If you have any more questions about this or any topic related to the mortgage loan process, don’t hesitate to give me a call or shoot me an email. I’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Why+Is+It+a+Bad+Idea+to+Cosign+on+a+Loan+During+the+Mortgage+Process%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Why+Is+It+a+Bad+Idea+to+Cosign+on+a+Loan+During+the+Mortgage+Process%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Cosigning for a loan in which lenders don’t have 12 months’ worth of proof that the other person is paying that account can decrease your credit score and affect your buying power.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Cosigning for a loan in which lenders don’t have 12 months’ worth of proof that the other person is paying that account can decrease your credit score and affect your buying power.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Much Money Down Is Too Much?</title>
+        <link>http://kristinjamiesonfl.com/how-much-money-down-is-too-much.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2017-10-26 06:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4</guid>
+        <description>
+
+Should you clean out your savings to purchase a home?
+
+Actually, this is one of the biggest mistakes people can make. Putting too much money down on the transaction is unnecessary and can dramatically deplete your reserves. Having these extra funds is very important since you never know what unforeseen expenses might arise after closing.
+
+“Putting too much money down on the transaction is unnecessary and can dramatically deplete your reserves.”
+
+Personally, I recommend having two to six months of reserves ready at all times in the event that something unexpected occurs.
+
+It is possible to have this kind of money ready even after your home purchase. There are down payment assistance programs that allow you to put 3.5% or even 0% down on a property. Something most people don’t realize is that every $10,000 you put down on a home only saves you $50 per month.
+
+The true way to save money in the mortgage process is by making one extra payment per year, which will ultimately cut seven to eight years off the lifespan of your mortgage. So, how much should you really spend on a down payment? This is actually something you should discuss more fully with your loan officer. However, if you do qualify for the USDA loan I definitely recommend this option.
+
+The USDA loan requires no down payment, has the lowest interest rates, the lowest mortgage insurance, and therefore has the lowest monthly payment. Not everyone qualifies for this specific option, but there are many other routes out there.
+
+Another thing I advise against is frivolously spending money in savings prior to closing. Even if you don’t plan to spend all of it on closing, you should be careful about touching the money in the savings account you’ve set aside for your mortgage and closing costs.
+
+Having a good idea of what your closing costs will be is also important. Once you’re under contract, your initial loan disclosure will be sent out within three days. There will also be an estimated cash-to-close worksheet that I like to call your “mortgage bible.” This worksheet will detail all expenses that will be associated with closing and with your mortgage.
+
+You will also need to pay your first year of insurance up front. Also, this disclosure package will have a loan estimate. This will discuss all of the terms of the loan.
+
+So what happens if you do come up short at the closing table? Well, gifts are always acceptable. In the event that this happens, you may consider having a family member help out. You can also pull from certain investment accounts. From the lending side, we could also adjust the interest rate and give you a credit to offset the difference.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Despite what some may think, putting more money down than is necessary isn’t always the best way to save money on a new home.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Despite what some may think, putting more money down than is necessary isn’t always the best way to save money on a new home.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
         <title>What Is Sandy Tolen's Role on Our Team?</title>
-        <link>localhost:4000/orlando-mortgages-meet-our-team-member-sandy.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-meet-our-team-member-sandy.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -57,7 +600,7 @@ The most rewarding part about her work on our team, though, is being able to get
 If you have any other questions or would like more information, feel free to give us a call or send us an email, we look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -76,7 +619,7 @@ Sandy Tolen, a loan processor on our team, is here today to give you a look at w
       
       <item>
         <title>Meet Another Important Member of Our Team</title>
-        <link>localhost:4000/orlando-mortgages-have-you-met-nadia.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-have-you-met-nadia.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -103,7 +646,7 @@ One thing that Nadia wants people to know is that the mortgage process isn’t a
 If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. Any time. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -122,7 +665,7 @@ Nadia Lokhnauth has been with us for about two years now. Here’s why she is su
       
       <item>
         <title>From Application to Close: How Justin Guides You Through the Lending Process</title>
-        <link>localhost:4000/orlando-mortgages-meet-justin-tolen.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-meet-justin-tolen.html</link>
         
           <category>Mortgage Process</category>
         
@@ -153,7 +696,7 @@ One thing people tend not to think about when it comes to mortgages is the numbe
 If you have any other questions for Justin about the loan process, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -172,7 +715,7 @@ Today one of our loan partners, Justin Tolen, will go over a little bit more abo
       
       <item>
         <title>Getting to Know Another Great Team Member: Amie Sharpe</title>
-        <link>localhost:4000/getting-to-know-another-great-team.html</link>
+        <link>http://kristinjamiesonfl.com/getting-to-know-another-great-team.html</link>
         
           <category>Mortgage Process</category>
         
@@ -201,7 +744,7 @@ If there’s one thing she would like you to know about the mortgage process, it
 If you have any questions or are thinking about purchasing a home and starting the pre-approval process, give us a call or send us an email. We’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -220,7 +763,7 @@ Amie Sharpe joins us today to talk more about the loan process.
       
       <item>
         <title>What Does the Mortgage Application Process Look Like?</title>
-        <link>localhost:4000/what-does-mortgage-application-process.html</link>
+        <link>http://kristinjamiesonfl.com/what-does-mortgage-application-process.html</link>
         
           <category>Mortgage Process</category>
         
@@ -249,7 +792,7 @@ Most people don’t know what the application process is going to be like and th
 If you are interested in getting a loan application started or if you just have any questions, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -268,7 +811,7 @@ Crystal Harris is here today to talk a little more about the loan application pr
       
       <item>
         <title>Meet the Success Mortgage Partners Team: Introducing Evelyn </title>
-        <link>localhost:4000/orlando-mortgages-introducing-evelyn.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-introducing-evelyn.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -295,7 +838,7 @@ One thing Evelyn thinks that everyone should know about the mortgage process is 
 If you have any other questions for our team, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -314,7 +857,7 @@ Today we’d like to introduce Evelyn, the receptionist (and your first point of
       
       <item>
         <title>Answering Your Questions About FHA Loan Limits</title>
-        <link>localhost:4000/orlando-mortgages-learning-about-fha.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-learning-about-fha.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -345,7 +888,7 @@ To answer her second question, the FHA doesn’t allow interested party contribu
 If you or your buyers have any other questions in regard to FHA loans or their requirements, please don’t hesitate to give us a call. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -364,7 +907,7 @@ How can you have a loan amount that’s higher than the FHA limit in Lake County
       
       <item>
         <title>What Credit Scores Are Needed for Loans?</title>
-        <link>localhost:4000/orlando-mortgages-credit-scores-needed.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-credit-scores-needed.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -396,7 +939,7 @@ If someone is way out of the realm of qualifying, we don’t just turn our backs
 If someone you know has a score that’s below our requirements, don’t hesitate to reach out to us to start a conversation. If you have any other questions about lending guidelines or how we can help, give me a call or send us an email. We’d love to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -415,7 +958,7 @@ Today we’re answering a question about credit score requirements for different
       
       <item>
         <title>Key Differences Between Home Renovation Loans</title>
-        <link>localhost:4000/orlando-mortgages-key-differences-in.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-key-differences-in.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -444,7 +987,7 @@ With these two loan packages, some people get confused about the involvement of 
 Now, this is just a general breakdown of Fannie Mae HomeStyle Renovation loans in a nutshell. Feel free to share this information with your clients or anyone you know who is interested in a home renovation loan! A lot of different factors come into play with this type of loan, so if you have any questions at all about them, give me a call or send me an email. I would be more than happy to help you out.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -463,7 +1006,7 @@ FHA 203K loans and conventional renovation loans actually have a lot in common. 
       
       <item>
         <title>How Do You Qualify for a USDA Loan?</title>
-        <link>localhost:4000/orlando-mortgages-3-requirements-for.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-3-requirements-for.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -496,7 +1039,7 @@ Other than that, a USDA loan is just a conventional loan with FHA appraisal requ
 If you have any more questions about USDA loans or the guidelines surrounding them, please don’t hesitate to call or email me. I’d be glad to answer any questions you have!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -515,7 +1058,7 @@ Qualifying for a USDA loan is different than qualifying for other loan packages 
       
       <item>
         <title>What Mortgage Programs Are Out There for First-Time Buyers?</title>
-        <link>localhost:4000/orlando-mortgages-programs-for-first.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-programs-for-first.html</link>
         
           <category>Mortgage Process</category>
         
@@ -544,7 +1087,7 @@ One reason this tool is beneficial to our buyers is because, from an underwritin
 I hope this answers your question, Ron. If you have any other questions, don’t hesitate to reach out to us via phone or email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -563,7 +1106,7 @@ There are plenty of special loan programs out there for first-time buyers. We ar
       
       <item>
         <title>What Happens to Your Loan After You Close?</title>
-        <link>localhost:4000/orlando-mortgages-loans-after-closing.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-loans-after-closing.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -590,7 +1133,7 @@ Do you sell my loan to a bank of my choosing? Unfortunately, no. When we sell th
 We understand that the post-closing process can sometimes be a little confusing, so if you ever have any questions about it, don’t hesitate to reach out. It is our goal to be your mortgage lender for life, whether it be for your next home purchase or a refinancing of the home you own now. Just call or send us an email and we can talk about it.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -609,7 +1152,7 @@ What happens to your loan after you close? It gets sent to our post-closing depa
       
       <item>
         <title>How Exactly Does Closing Day Work?</title>
-        <link>localhost:4000/orlando-mortgages-finally-last-step.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-finally-last-step.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -636,7 +1179,7 @@ If you’ve been issued funding authorization and the buyer and seller documents
 Congratulations, this is a huge accomplishment. You have achieved the dream of homeownership. If you have any questions for us or know anyone looking to buy a home, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -655,7 +1198,7 @@ By the time you’ve made it to the closing table in your transaction, the hard 
       
       <item>
         <title>Meet Jamie Lowe Our Business Development Representative</title>
-        <link>localhost:4000/orlando-mortgages-introducing-our.html</link>
+        <link>http://kristinjamiesonfl.com/orlando-mortgages-introducing-our.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -678,7 +1221,7 @@ Jamie will be coming by your office in the near future to introduce herself and 
 In the meantime, if you have any questions about mortgages or the loan process, you can always call me at 352.242.1535 or you can email me at Kristin@KristinJamiesonFL.com.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
