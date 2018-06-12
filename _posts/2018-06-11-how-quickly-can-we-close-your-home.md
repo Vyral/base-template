@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Quickly Can We Close Your Home?
-date: 2018-06-11 15:45:50
+date: 2018-06-11 11:45:00
 tags:
   - Home Buyer Tips
 excerpt: How fast can we close your home?
