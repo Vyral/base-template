@@ -38,6 +38,6 @@ Today I’m going to talk about five different ways that we can sell your home f
 
 **4. Sell to a cash investor.** If your home needs some repairs or a lot of work in general, this is a great option. We can connect you directly with an investor who will pay cash for your home and they will cover our fees, leaving you with having to pay no commission.
 
-**5. VIP Buyer Program.** Anytime you buy a property with us and you aren’t happy with it in the first two years for some reason, we will sell it for you for free.&nbsp;
+**5. VIP Buyer Program.** Anytime you buy a property with us and you aren’t happy with it in the first two years for some reason, we will sell it for you for free. 
 
-These are five ways we can sell your property for free. If you have any questions or want to learn more about any of these programs we offer, don’t hesitate to give me call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+These are five ways we can sell your property for free. If you have any questions or want to learn more about any of these programs we offer, don’t hesitate to give me call or send me an email. I look forward to hearing from you soon.<br>
