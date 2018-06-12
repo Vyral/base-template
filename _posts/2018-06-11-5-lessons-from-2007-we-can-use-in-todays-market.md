@@ -23,7 +23,7 @@ youtube_code: SUT2ItuW-MI
 
 What lessons did we learn from 2007? There are five big ones which I am going to go over with you.
 
-**1. Do not buy a home that you cannot afford.** Many people felt the pressure of a brisk market from 2006 to 2008 and decided to buy in fear of being locked out. However, if they would have waited a few years, there would have been an opportunity for them.
+**1. Do not buy a home that you cannot afford.** Many people felt the pressure of a brisk market from 2006 to 2008 and decided to buy for fear of being locked out. However, if they would have waited a few years, there would have been an opportunity for them.
 
 Since many people buy homes on Kauai as second homes or vacation rentals, they have multiple mortgages which affected them greatly when the economy slowed. Once that happened, there were fewer people vacationing and those travelers were not renting their homes. Keep that in mind if you are planning on buying a home and relying on the vacation rental income, as economic slowing can occur again.
 
@@ -35,7 +35,7 @@ Since many people buy homes on Kauai as second homes or vacation rentals, they h
 
 **4. Make as large of a down payment as you possibly can.** While there are a lot of options for low down payments, if the market drops 10% down the road and you have only paid 3.5%, you may find yourself in a tricky situation if you need to sell.
 
-**5. Buy low and sell high if you can.** If you’re holding out for the long term or fixing and flipping a home, though, those may be good strategies too. If you have had your home for a few years, it may be a good time to sell if your investment in your home is discretionary. Currently the market is very strong, and you could sell your home for much more than you paid for it years ago.
+**5. Buy low and sell high if you can.** If you’re holding out for the long term or fixing and flipping a home, though, those may be good strategies too. If you have had your home for a few years, it may be a good time to sell if your investment in your home is discretionary. Currently, the market is very strong, and you could sell your home for much more than you paid for it years ago.
 
 I hope that you can reflect on what happened in 2007 so that you can make the right choice for you now. If you have any questions about this, would like help interpreting the current market, or are interested in buying or selling, please feel free to contact me by phone or email. I look forward to speaking with you about your realty needs.
 
