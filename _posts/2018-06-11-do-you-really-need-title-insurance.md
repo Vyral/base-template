@@ -24,7 +24,7 @@ youtube_code: ROxo3R0JHVQ
 
 When you buy a home and get to the closing table, an attorney is going to look at you and ask, “Would you like owner’s title insurance?”
 
-Nine times out of ten, **buyers in this circumstance will look at their Realtor thinking, “What should I do?”** Obviously, the choice is ultimately in your hands. But there are a few points to consider before making a decision.
+Nine times out of 10, **buyers in this circumstance will look at their Realtor thinking, “What should I do?”** Obviously, the choice is ultimately in your hands. But there are a few points to consider before making a decision.
 
 First, it is important to know what title insurance is. Title insurance essentially insures the property’s title against defects. In other words, if someone has a claim against the title of your property, title insurance will protect your interest and equity in the property.
 
