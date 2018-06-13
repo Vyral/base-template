@@ -171,6 +171,7 @@ GEM
     octopress-autoprefixer (2.0.0)
       autoprefixer-rails
       jekyll (~> 3.0)
+    open_uri_redirections (0.2.1)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     pkg-config (1.1.7)
@@ -235,8 +236,9 @@ DEPENDENCIES
   jekyll-picture-tag
   jekyll-sitemap
   octopress-autoprefixer
+  open_uri_redirections
   public_suffix
   wdm
 
 BUNDLED WITH
-   1.13.6
+   1.16.2
