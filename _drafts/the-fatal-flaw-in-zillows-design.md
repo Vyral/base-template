@@ -26,7 +26,7 @@ youtube_code: 4bpVEKrSb7w
 
 {% include youtube.html %}
 
-Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.
+<center>Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.</center>
 
 Why shouldn’t you trust Zillow to help you find your next home?
 
