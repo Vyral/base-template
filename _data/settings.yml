@@ -39,12 +39,12 @@ client:
   phone2: 717-609-8265
   phone2_type: direct
   email: Andrew@KronenbergREG.com
-  url: 'https://akronenberg.kw.com/'
+  url: 'https://AKronenberg.KW.com/'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://akronenberg.kw.com/selling/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://akronenberg.kw.com/search-homes/#/-1515276642'
+  second_CTA_URL: 'https://akronenberg.kw.com/search-homes/'
   VR_form: 'http://oi.vresp.com?fid=9f6f3d7b4d'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
@@ -53,17 +53,17 @@ sidebar_CTA:
     Are you thinking of selling your home or interested in learning about home
     prices in your neighborhood? We can help you.
   CTA_link_text: Free Home Value Report
-  CTA_url: 'http://andrew.hhande.com/whats-my-home-worth.php'
+  CTA_url: 'https://akronenberg.kw.com/selling/'
 sidebar_CTA2:
   CTA_image_path2: /img/cta-images/005.jpg
   CTA_title2: Looking for a Home?
   CTA_text2: Search the entire MLS for your home.
   CTA_link_text2: Search the MLS
-  CTA_url2: 'http://andrew.hhande.com/idx/'
+  CTA_url2: 'https://akronenberg.kw.com/search-homes/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
-    Our mission at Hooke, Hooke & Eckman Realtors, LLC is to be your best
+    Our mission at Keller Williams of Central PA is to be your best
     resource for real estate advice. Whether you are a buyer, seller, or
     investor, our team of professionals can answer any questions you might have
     about real estate. Subscribe to this blog to get the latest news on local
@@ -98,8 +98,7 @@ podcast:
     Agents.'
   keywords: >-
     Central Pennsylvania Real Estate agents, top real estate agents, Central
-    Pennsylvania homes for sale, Andrew Kronenberg, Hooke Hooke and Eckman
-    Realtors LLC, Central Pennsylvania Real Estate Tips
+    Pennsylvania homes for sale, Andrew Kronenberg, Central Pennsylvania Real Estate Tips
   author: Andrew Kronenberg
 images:
   client_headshot_path: /img/headshot.jpg
