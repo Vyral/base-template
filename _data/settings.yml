@@ -57,7 +57,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://nest.me/tony.verdi'
+    CTA_url2: 'http://tony.hillharbor.com'
 lender:
   show_section: false
   header_text: Preferred Lender
