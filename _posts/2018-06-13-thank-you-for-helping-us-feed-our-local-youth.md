@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/tad-wicker--thank-you-youtube.jpg
 youtube_code: 'https://youtu.be/r6RAp3ndEaU'
 ---
 
-{% include youtube.html %}Today I want to give you an update about the recent Red Day activity our team participated in, alongside our other office associates and agents in the effort to provide good for hungry youth<br>&nbsp;<br>In short, it was a complete success. Our team alone collected over 25 banker boxes full of food for kids in need in Loudoun County. &nbsp;Between our office and our team, **we collected over 16,000 meals.** This is enough to feed over 400 children for at least four months!
+{% include youtube.html %}Today I want to give you an update about the recent Red Day activity our team participated in, alongside our other office associates and agents in the effort to provide food for hungry youth.<br>&nbsp;<br>In short, it was a complete success. Our team alone collected over 25 banker boxes full of food for kids in need in Loudoun County. &nbsp;Between our office and our team, **we collected over 16,000 meals.** This is enough to feed over 400 children for at least four months!
 
 {% include pullquote.html %}
 
