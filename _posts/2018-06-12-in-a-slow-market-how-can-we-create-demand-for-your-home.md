@@ -38,4 +38,4 @@ Hopefully, fantastic condition and price will cause everyone to want to come see
 
 Since everyone submitting offers is likely serious about getting your home, they will keep bidding over each other, raising the price you will eventually sell the home for.
 
-That is my secret to quickly selling home over asking price with multiple offers even in a buyer’s market. If you are interested in selling your home and are curious about what your home can sell for, please feel free to give me a call. Together, we will get you multiple offers on your home.
+That is my secret to quickly selling your home over asking price with multiple offers even in a buyer’s market. If you are interested in selling your home and are curious about what your home can sell for, please feel free to give me a call. Together, we will get you multiple offers on your home.
