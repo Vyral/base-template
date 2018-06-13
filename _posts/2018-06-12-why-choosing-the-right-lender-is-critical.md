@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Why Choosing the Right Lender Is Critical
-date: 2018-06-12 18:54:15
+date: 2018-06-12 18:54:00
 tags:
   - Finance Advice
 excerpt: How should you go about choosing a lender? Let’s address this question today.
 enclosure:
 pullquote: >-
-  Make sure you work with a lender who has skills and reputation to help you
+  Make sure you work with a lender who has the skills and reputation to help you
   succeed.
 enclosure_type: video/mp4
 enclosure_time:
@@ -33,6 +33,6 @@ When we reach out to listing agents and vouch for our clients, they truly value 
 
 So when choosing a lender, make sure you work with someone who has the skills and reputation to help you succeed.
 
-If you have any other questions, would like more information, or are curious how I could serve you as a lender, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, would like more information, or are curious about how I could serve you as a lender, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
 &nbsp;
