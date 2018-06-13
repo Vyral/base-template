@@ -15,7 +15,7 @@ enclosure: >-
 pullquote: You have to disclose what you know.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: TC4jGr6aL7o
 ---
