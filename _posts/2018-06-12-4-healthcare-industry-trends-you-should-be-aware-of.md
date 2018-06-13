@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Healthcare Industry Trends You Must Be Aware Of
+title: 4 Healthcare Industry Trends You Should Be Aware Of
 tags:
   - Healthcare
 excerpt: >-
@@ -33,5 +33,3 @@ There have been a few industry trends we have noticed in the marketplace lately,
 {% include pullquote.html %}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
