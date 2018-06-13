@@ -26,7 +26,7 @@ You’ve probably run into a transaction that, for whatever reason, wasn’t abl
 
 Today I’d like to tell you the brief story of how my team and I were able to able to save a deal, on behalf of one of our clients, using our unique portfolio program.
 
-In this client’s case, financing issues had made it seemingly impossible for the deal to continue. But when we implemented our portfolio program, we were able to to turn things around. Less than two weeks later, our client was at the closing table.
+In this client’s case, financing issues had made it seemingly impossible for the deal to continue. But when we implemented our portfolio program, we were able to turn things around. Less than two weeks later, our client was at the closing table.
 
 {% include pullquote.html %}
 
