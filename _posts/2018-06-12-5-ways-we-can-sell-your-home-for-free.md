@@ -34,7 +34,7 @@ Today I’m going to talk about five different ways that we can sell your home f
 
 {% include pullquote.html %}
 
-**3. Auction Marketing Program.** With this program, we will sell your property auction-style. It’s a five-day online auction that will get your home multiple offers. With this program, the buyer ends up paying all of these commissions for you. To find out more about this specific program, go to [**www.ArizonaRealtyAuction.com.**](http://www.arizonarelatyauction.com/){: target="_blank"}
+**3. Auction Marketing Program.** With this program, we will sell your property auction-style. It’s a five-day online auction that will get your home multiple offers. With this program, the buyer ends up paying all of these commissions for you. To find out more about this specific program, go to [**www.ArizonaRealtyAuction.com.**](https://www.arizonarealtyauction.com/){: target="_blank"}
 
 **4. Sell to a cash investor.** If your home needs some repairs or a lot of work in general, this is a great option. We can connect you directly with an investor who will pay cash for your home and they will cover our fees, leaving you to pay no commission fees.
 
