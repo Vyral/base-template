@@ -39,7 +39,7 @@ client:
   phone2: 717-609-8265
   phone2_type: direct
   email: Andrew@KronenbergREG.com
-  url: 'https://AKronenberg.KW.com/'
+  url: 'https://AKronenberg.KW.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://akronenberg.kw.com/selling/'
