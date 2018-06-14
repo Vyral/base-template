@@ -50,7 +50,7 @@ lender:
   show_section: true
   header_text: Preferred Lender
   headshot_path: /img/lender.jpg
-  logo_path: /img/logo.png
+  logo_path: /img/.png
   logo_path_2:
   name: Alejandro Juarez
   brand: AMEC Home Loans
