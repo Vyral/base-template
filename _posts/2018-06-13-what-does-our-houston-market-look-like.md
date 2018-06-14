@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray--june-market-update-email.jpg
-youtube_code: 'https://youtu.be/J8SwGUq8AVA'
+youtube_code: 'https://youtu.be/GtsJANopB2g'
 ---
 
 {% include youtube.html %}
