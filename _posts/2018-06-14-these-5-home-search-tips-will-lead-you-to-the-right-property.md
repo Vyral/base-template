@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 5 Home Search Tips Will Lead You to the Right Property
-date: 2018-06-14 16:53:19
+date: 2018-06-14 16:53:00
 tags:
 excerpt: >-
   There are five things all buyers should do when preparing to purchase a home.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/dauby-youtube-8.jpg
 youtube_code: G449tODJZHQ
 ---
 
