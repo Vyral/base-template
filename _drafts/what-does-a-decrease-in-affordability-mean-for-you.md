@@ -21,7 +21,7 @@ youtube_code: hFUhRjOGe5k
 
 {% include youtube.html %}
 
-Affordability has dropped since the beginning of the year. What does that mean if you are buying or selling in the Phoenix area?
+<center>Affordability has dropped since the beginning of the year. What does that mean if you are buying or selling in the Phoenix area?</center>
 
 Today I am going to talk what the recent decrease in affordability means for you and your real estate goals.
 
