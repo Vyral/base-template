@@ -32,7 +32,7 @@ youtube_code: 4bpVEKrSb7w
 
 Why shouldn’t you trust Zillow to help you find your next home?
 
-Utah is a non-disclosure state, meaning we’re one of the very few states that disclose private sales of real estate. As such, **Zillow has a hard time identifying the true value of a property**; there are many things to consider when it comes to valuing a home, only some of which are accessible to the website.
+Utah is a non-disclosure state, meaning we’re one of the very few states that disclose private sales of real estate. As such, **Zillow has a hard time identifying the true value of a property.** Also, &nbsp;there are many things to consider when it comes to valuing a home, and only some of which are...
 
 **Zillow also doesn’t show 100% of what is available on the MLS**; oftentimes, they’ll show homes that aren’t even on the market anymore. Many brokerages opt out of the Zillow feed, so you’re not getting the full scope of what’s actually on the market.
 
