@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Save Now While Interest Rates Are Still High
+title: Save Now While Values Are Still High
 date: 2018-06-12 18:45:00
 tags:
   - Interest Rates
