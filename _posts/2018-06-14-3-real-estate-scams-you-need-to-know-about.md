@@ -20,7 +20,9 @@ youtube_code: H5CjMExi_Jw
 
 {% include youtube.html %}
 
-<center>There are three real estate scams I’ve become aware of recently that you need to know how to protect yourself against.</center>
+<center><em>There are three real estate scams I&rsquo;ve become aware of recently that you need to know how to protect yourself against.</em></center>
+
+&nbsp;
 
 It can be a scary world out there. While the majority of people are good and honest, a few bad apples always try to take advantage of others.
 
