@@ -29,4 +29,4 @@ And when they do so, they’re definitely finding success. I recently saved a cl
 
 If you, like him, have a high-interest loan or credit card, now may be the time to pay those off. Now is a great time to access your equity while still getting a tax-deductible mortgage as a result.
 
-If you have any other questions, would like more information, or want to discuss the possibility of earning similar savings, yourself, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, would like more information, or want to discuss the possibility of earning similar savings feel free to give me a call or send me an email. I look forward to hearing from you soon.
