@@ -49,7 +49,7 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: /img/lender.jpg
   logo_path: /img/logo.png
   logo_path_2:
   name: Alejandro Juarez
