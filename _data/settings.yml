@@ -52,11 +52,11 @@ lender:
   headshot_path: /img/lender.jpg
   logo_path: 
   logo_path_2:
-  name: Alejandro Juarez
+  name: Alejandro Juarez <br> NMLS 1540814
   brand: AMEC Home Loans <br> Loan Officer
   phone: 512-710-9456
   email: alejandro.juarez@amecinc.com
-  url: http://alejandrojuarez.myhomehq.biz
+  url: http://alejandrojuarez.myhomehq.biz/
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
