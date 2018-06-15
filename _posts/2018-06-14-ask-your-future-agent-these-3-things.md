@@ -25,15 +25,15 @@ youtube_code: V7xliNiTBf0
 
 What should you ask your agent before you hire them? There are three critical questions that you should ask agents to make sure that they will be a good fit.
 
-**1. How many transactions have they done in the past 12 months?** The National Association of Realtors says that, on average, an agent sells four to five homes a year. Since we have exceeded that so greatly, we can bring experience, processes, and a great reputation to the table for you.
+**1. How many transactions have they done in the past 12 months?** The National Association of Realtors says that, on average, an agent sells four to five homes a year. Since we have exceeded those averages by such a wide margin, we can bring experience, processes, and a great reputation to the table for you.
 
 **2. Can you provide a list of the last three clients that you helped?** I have to be honest, this can be scary to us because you don’t know what someone will say, but I hope that I am asked it. I recommend you reach out to the clients to see what they think. While it may be a scary thing for me, I am confident with the services I provide that you will also be confident with me after speaking with them.
 
 {% include pullquote.html %}
 
-**3. What strategy are they going to use to sell your home?** It will depend on where shopping, schools, and traffic flow all are. I think it is important to have a strategy, not to just put up a sign or list in multiple places, and hope that something comes along. I strongly suggest that you push that agent for more than just a canned response.
+**3. What strategy are they going to use to sell your home?** It will depend on where shopping, schools, and traffic flow all are. I think it is important to have a strategy, not to just put up a sign or list in multiple places and hope that something comes along. I strongly suggest that you push that agent for more than just a canned response.
 
-I know that it is a big process, and that it is a huge decision to decide you want to hire.
+I know that it is a big process and that it is a huge decision to decide who you want to hire.
 
 So, do not be afraid to ask those questions and take notes, no matter how uncomfortable, because you are selling the largest investment you have.
 
