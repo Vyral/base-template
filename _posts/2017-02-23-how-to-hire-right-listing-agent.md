@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: 'How to Hire the Right Listing Agent '
-date: '2017-02-23T09:51:00.003-08:00'
+date: '2018-06-15T09:51:00.003-08:00'
 author: Vyral Admin
 tags:
 - Las Vegas Real Estate Home Seller Tips
