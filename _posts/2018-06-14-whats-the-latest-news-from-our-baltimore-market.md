@@ -25,14 +25,14 @@ A lot has been happening in our Baltimore market lately, but what does it all me
 
 I recently sat down for an interview to answer this question and give my advice to buyers and sellers moving forward in our market. **Listed below are the timestamped portions of the discussion above so you can skip to whichever topic applies to you:**
 
-0:39 - What price points are seeing the most action right now…
+0:39 - What price points are seeing the most action right now
 
-1:25 - What the latest market conditions mean for buyers in the $200,000 to $300,000 range...
+1:25 - What the latest market conditions mean for buyers in the $200,000 to $300,000 range
 
-2:00 - What the latest market conditions mean for buyers in the $300,000 to $600,000 range…
+2:00 - What the latest market conditions mean for buyers in the $300,000 to $600,000 range
 
-3:45 - Where sellers need to go to accurately gauge what their home is worth…
+3:45 - Where sellers need to go to accurately gauge what their home is worth
 
-5:24 - Final advice for sellers in our market…
+5:24 - Final advice for sellers in our marke
 
 If you have any other questions about our market, feel free to give me a call or send me an email. I’d be happy to speak with you.
