@@ -1,123 +1,140 @@
 audit_header: false
 title: Carolina Forest Real Estate Video Blog with Brittany Foy
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810442';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810442';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 client:
   name: Brittany Foy
   license_number:
-  about_markdown: |
-    Brittany specializes in all aspects of real estate, both on the listing and buying side. Her extensive knowledge and experience covers short sales, foreclosures, first-time home buyers, investors, and relocation, among many others. She is also a strategic and aggressive marketer, a thorough and consistent communicator, and a negotiator dedicated to your best interests. Her impressive business, awards, client list, and reviews/testimonials will prove that Brittany is the Myrtle Beach area agent for you!
+  about_markdown: >
+    Brittany specializes in all aspects of real estate, both on the listing and
+    buying side. Her extensive knowledge and experience covers short sales,
+    foreclosures, first-time home buyers, investors, and relocation, among many
+    others. She is also a strategic and aggressive marketer, a thorough and
+    consistent communicator, and a negotiator dedicated to your best interests.
+    Her impressive business, awards, client list, and reviews/testimonials will
+    prove that Brittany is the Myrtle Beach area agent for you!
   market: Myrtle Beach
   brand: Coldwell Banker
   brokerage:
-  address: 3888 Renee Dr. Myrtle Beach, SC 29579
+  address: '3888 Renee Dr. Myrtle Beach, SC 29579'
   phone: 843-685-3969
   phone_type:
   phone2:
   phone2_type:
   email: Brittany@BrittanyFoyAndAssociates.com
-  url: http://wesellmyrtlebeachrealestate.com
-
+  url: 'http://wesellmyrtlebeachrealestate.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://rgtemplate.realgeeks.com/cma/property-valuation/
+  first_CTA_URL: 'https://www.wesellmyrtlebeachrealestate.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.wesellmyrtlebeachrealestate.com/search/advanced_search/
-
+  second_CTA_URL: 'https://www.wesellmyrtlebeachrealestate.com/search/advanced_search/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://rgtemplate.realgeeks.com/cma/property-valuation/
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'https://rgtemplate.realgeeks.com/cma/property-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.wesellmyrtlebeachrealestate.com/search/advanced_search/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'https://www.wesellmyrtlebeachrealestate.com/search/advanced_search/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/MyrtleBeachSCRealEstateAgent
-  linkedin_url: https://www.linkedin.com/in/brittanybrewer/
-  gplus_url: https://plus.google.com/u/0/b/101823039890479816935
-  youtube_url: https://www.youtube.com/user/brittanybrewerfoy
-  twitter_url: https://twitter.com/brittanyfoymb
+  facebook_url: 'https://www.facebook.com/MyrtleBeachSCRealEstateAgent'
+  linkedin_url: 'https://www.linkedin.com/in/brittanybrewer/'
+  gplus_url: 'https://plus.google.com/u/0/b/101823039890479816935'
+  youtube_url: 'https://www.youtube.com/user/brittanybrewerfoy'
+  twitter_url: 'https://twitter.com/brittanyfoymb'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/profile/Myrtle-Beach-Agent/
+  zillow_url: 'https://www.zillow.com/profile/Myrtle-Beach-Agent/'
   trulia_url:
-  yelp_url: https://www.yelp.com/biz/brittany-brewer-foy-coldwell-banker-chicora-real-estate-myrtle-beach
+  yelp_url: >-
+    https://www.yelp.com/biz/brittany-brewer-foy-coldwell-banker-chicora-real-estate-myrtle-beach
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 50
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#71C9D5'
+  brand_color: '#71c9d5'
   theme_color: '#434343'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 4px
-  shadow_color: F1EBB7
-
+  shadow_color: '#f1ebb7'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
