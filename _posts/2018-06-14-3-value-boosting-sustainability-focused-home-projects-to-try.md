@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3 Value-Boosting, Sustainability-Focused Home Projects to Try'
-date: 2018-06-14 19:53:29
+date: 2018-06-14 19:53:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/james-duffer-sustainability-youtube.jpg
-youtube_code: 'https://youtu.be/LyHcHpTwmm4'
+youtube_code: 'https://youtu.be/I33o6HAO6PE'
 ---
 
 {% include youtube.html %}
 
 Today I want to provide you with three ways you can use energy sustainability to boost your home’s value.
 
-If you are thinking of selling your home, think sustainability. A new survey by the National Association of Realtors was just released, and it made some remarkable points.
+If you are thinking of selling your home, think about sustainability. A new survey by the National Association of Realtors was just released, and it made some remarkable points.
 
 **For example, 61% of Realtors said clients are interested in sustainability. A whopping 71% said energy efficiency is valuable for selling a home.**
 
