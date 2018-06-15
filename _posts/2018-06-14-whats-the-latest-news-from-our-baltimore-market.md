@@ -33,6 +33,6 @@ I recently sat down for an interview to answer this question and give my advice 
 
 3:45 - Where sellers need to go to accurately gauge what their home is worth
 
-5:24 - Final advice for sellers in our marke
+5:24 - Final advice for sellers in our market
 
 If you have any other questions about our market, feel free to give me a call or send me an email. I’d be happy to speak with you.
