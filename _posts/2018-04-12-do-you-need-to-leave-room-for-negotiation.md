@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need to Leave Room for Negotiation?
-date: 2018-04-12 15:50:00
+date: 2018-06-14 15:50:00
 tags:
   - Home Seller Tips
 excerpt: >-
