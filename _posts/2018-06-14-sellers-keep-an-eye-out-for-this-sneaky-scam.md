@@ -19,9 +19,9 @@ youtube_code: NcT2z7NJi8s
 
 {% include youtube.html %}
 
-Every seller wants to get top dollar for their home, but it is important not to let this aspiration get in the way of your better judgement. **Today I would like to go over a common appraisal scam that certain unscrupulous buyers have been employing lately.** To explain this scam, let me paint an example scenario for you.
+Every seller wants to get top dollar for their home, but it is important not to let this aspiration get in the way of your better judgment. **Today I would like to go over a common appraisal scam that certain unscrupulous buyers have been employing lately.** To explain this scam, let me paint an example scenario for you.
 
-Imagine you have a home with a market value between $780,000 and $820,000. You place this home on the market for a list price of $800,000, when a frustrated buyer comes along and makes an offer far above this figure—let’s say $900,000. Should you take this offer?
+Imagine you have a home with a market value between $780,000 and $820,000. You place this home on the market for a list price of $800,000, then a frustrated buyer comes along and makes an offer far above this figure—let’s say $900,000. Should you take this offer?
 
 {% include pullquote.html %}
 
