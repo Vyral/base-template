@@ -1,6 +1,9 @@
 audit_header: false
 title: Casey Cooke Real Estate at Coldwell Banker Vista Village
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -8,7 +11,11 @@ custom_links:
 client:
   name: Casey Cooke
   license_number:
-  about_markdown: 'Casey Cooke is a top-producing North San Diego County Realtor. As an expert on real estate markets in Vista and the surrounding areas, Casey brings a wealth of knowledge and expertise when it comes to buying or selling your home.'
+  about_markdown: >-
+    Casey Cooke is a top-producing North San Diego County Realtor. As an expert
+    on real estate markets in Vista and the surrounding areas, Casey brings a
+    wealth of knowledge and expertise when it comes to buying or selling your
+    home.
   market: North San Diego County
   brand: Coldwell Banker Vista Village
   brokerage:
@@ -21,13 +28,14 @@ client:
   url: 'http://www.ServingNorthCounty.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.caseycooke.boldleads.com/'
+  first_CTA_URL: 'https://caseycooke.boldleads.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.servingnorthcounty.com/search.aspx#Page:2'
+  second_CTA_URL: 'http://servingnorthcounty.com/property-search/'
   phone_CTA: true
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808374';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808374';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
@@ -37,8 +45,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -52,22 +60,36 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Casey-Cooke/'
-  trulia_url: 'https://www.trulia.com/profile/casey-cooke-agent-san-diego-ca-zgdr6x5l/overview'
-  yelp_url: 'https://www.yelp.com/biz/casey-cooke-coldwell-banker-residential-brokerage-vista-2'
-  podcast_url: 'https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2'
+  trulia_url: >-
+    https://www.trulia.com/profile/casey-cooke-agent-san-diego-ca-zgdr6x5l/overview
+  yelp_url: >-
+    https://www.yelp.com/biz/casey-cooke-coldwell-banker-residential-brokerage-vista-2
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2
 podcast:
-  title: "Pacific Sotheby's International Realty Podcast"
+  title: Pacific Sotheby's International Realty Podcast
   categories:
   image: /img/podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path:
   logo_width_number:
-  hero_text: "Casey Cooke's<br>Real Estate Video Blog"
+  hero_text: Casey Cooke's<br>Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 site_colors:
