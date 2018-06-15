@@ -26,7 +26,7 @@ This is why when we meet with clients, we dress to instill confidence in them. D
 
 {% include pullquote.html %}
 
-Therefore, our team keeps a simple, effective dress code in place. Men are to wear collared, dress pants, and dress shoes. For women, it’s about balance. Professional attire, rather than clothes you might wear to social events, is best.&nbsp;
+Therefore, our team keeps a simple, effective dress code in place. Men are to wear collared shirts, dress pants, and dress shoes. For women, it’s about balance. Professional attire, rather than clothes you might wear to social events, is best.&nbsp;
 
 So make that one-tenth of a second count by dressing to impress. A little wardrobe tune-up could dramatically improve your business.&nbsp;
 
