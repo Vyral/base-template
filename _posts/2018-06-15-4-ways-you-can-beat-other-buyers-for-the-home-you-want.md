@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Ways You Can Beat Other Buyers for the Home You Want
-date:
+date: 2018-06-15 19:46:06
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -22,7 +22,9 @@ youtube_code: mysvfnU2URA
 
 {% include youtube.html %}
 
-<center>If you’re a buyer and you’re worried about the level of competition in our market, here are four tips that will help you close on a home you want.</center>
+<center><em>If you&rsquo;re a buyer and you&rsquo;re worried about the level of competition in our market, here are four tips that will help you close on a home you want.</em></center>
+
+&nbsp;
 
 If you’re a buyer in our market, there are four things you can do to beat the competition and win the home you want.
 
