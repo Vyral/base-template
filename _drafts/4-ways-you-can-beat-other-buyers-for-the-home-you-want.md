@@ -22,7 +22,7 @@ youtube_code: mysvfnU2URA
 
 {% include youtube.html %}
 
-If you’re a buyer and you’re worried about the level of competition in our market, here are four tips that will help you close on a home you want.
+<center>If you’re a buyer and you’re worried about the level of competition in our market, here are four tips that will help you close on a home you want.</center>
 
 If you’re a buyer in our market, there are four things you can do to beat the competition and win the home you want.
 
