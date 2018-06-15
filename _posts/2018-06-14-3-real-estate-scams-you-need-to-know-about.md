@@ -4,7 +4,6 @@ title: 3 Real Estate Scams You Need to Know About
 date: 2018-06-14 00:00:00
 tags:
   - Real Estate
-  - Real Estate Tips
 excerpt: >-
   There are three real estate scams I’ve become aware of recently that you need
   to know how to protect yourself against.
@@ -15,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gerald-durham-june-1-no-play.jpg
-youtube_code: H5CjMExi_Jw
+youtube_code: E8znLQfBIIo
 ---
 
 {% include youtube.html %}
 
 <center><em>There are three real estate scams I&rsquo;ve become aware of recently that you need to know how to protect yourself against.</em></center>
 
-&nbsp;
+ 
 
 It can be a scary world out there. While the majority of people are good and honest, a few bad apples always try to take advantage of others.
 
