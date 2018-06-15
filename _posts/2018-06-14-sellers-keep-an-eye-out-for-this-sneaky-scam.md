@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-ss-youtube.jpg
-youtube_code: oxVLVlJ9TQY
+youtube_code: 7WTIQ_Ybk3k
 ---
 
 {% include youtube.html %}
