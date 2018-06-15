@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Keep an Eye out for This Sneaky Scam'
-date: 2018-06-14 18:42:24
+date: 2018-06-14 18:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-ss-youtube.jpg
-youtube_code: NcT2z7NJi8s
+youtube_code: oxVLVlJ9TQY
 ---
 
 {% include youtube.html %}
