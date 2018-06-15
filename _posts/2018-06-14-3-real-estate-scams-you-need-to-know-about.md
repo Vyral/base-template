@@ -28,13 +28,13 @@ It can be a scary world out there. While the majority of people are good and hon
 
 Unfortunately, the real estate market is no different. Today I wanted to let you know about some real estate scams I've become aware of recently:
 
-**1. The mortgage closing scam**. This scam is spreading across the country. It has become so prevalent that the FBI estimates it has led to over $1 billion in stolen or diverted funds in 2017 alone. It starts when hackers gain access to a real estate agent's email account. Then, when it's time to close a deal, the hackers, posing as the real estate agent, send instructions to the home buyer on where to wire the money.
+**1. The mortgage closing scam**. This scam is spreading across the country. It has become so prevalent that the FBI estimates it has led to over $1 billion in stolen or diverted funds in 2017 alone. It starts when hackers gain access to a real estate agent's email account. Then, when it's time to close a deal, the hackers, posing as the real estate agent, send instructions to the homebuyer on where to wire the money.
 
 Of course, it is only after the buyer has sent thousands of dollars to an unknown bank account that the truth comes out—the real estate agent wasn't actually the one reaching out, and the buyer has been scammed.
 
 **2. Fake real estate lawyers**. This scam is similar to the first one, in that the scammers will impersonate somebody legitimately involved with a deal. In this case, the hackers will impersonate a real estate lawyer who is associated with a particular home sale.
 
-Then, at the time of closing, they will contact the buyer, either by email or over the phone, and tell them the wire destination has been changed. If this scam works, the home buyer could again be out thousands of dollars.
+Then, at the time of closing, they will contact the buyer, either by email or over the phone, and tell them the wire destination has been changed. If this scam works, the homebuyer could again be out thousands of dollars.
 
 {% include pullquote.html %}
 
