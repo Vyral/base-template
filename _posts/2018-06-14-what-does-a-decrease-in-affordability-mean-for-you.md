@@ -25,11 +25,11 @@ youtube_code: hFUhRjOGe5k
 
 &nbsp;
 
-Today I am going to talk what the recent decrease in affordability means for you and your real estate goals.
+Today I am going to talk about what the recent decrease in affordability means for you and your real estate goals.
 
 In the first quarter of 2018, affordability dropped about 5%. This is mainly due to rising mortgage interest rates. We have seen many people take on a higher percentage of debt relative to their income in order to buy a home, and some buyers are being pushed out of the marketplace altogether.
 
-Also, **another drop in affordability drop, this time by 15% to 20%, is forecasted for later in the year**. Again this change will be due to a shortage of inventory, higher price points, and rising interest rates.
+**Another another drop in affordability, this time by 15% to 20%, is forecasted for later in the year**. Again this change will be due to a shortage of inventory, higher price points, and rising interest rates.
 
 What does this mean for you?
 
