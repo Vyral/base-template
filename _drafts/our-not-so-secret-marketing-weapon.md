@@ -23,7 +23,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-How does our “Coming Soon” program work? We’re going to go over that in detail for you today.
+<center>How does our “Coming Soon” program work? We’re going to go over that in detail for you today.</center>
 
 What is our secret weapon for marketing? Our “Coming Soon” program, of course.
 
