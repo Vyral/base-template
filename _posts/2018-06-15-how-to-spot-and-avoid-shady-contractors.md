@@ -14,7 +14,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/Videos+/2018/The+Peterson+Team-+Is+your+contractor+shady.mp4
 pullquote: >-
   Contractors who are unable or unwilling to listen to your wants and needs may
-  be difficult best and downright unreputable at worst.
+  be difficult at best and downright unreputable at worst.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
