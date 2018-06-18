@@ -21,7 +21,9 @@ youtube_code: sSZj6E8Ly7I
 
 {% include youtube.html %}
 
-Staying on top of home repair tasks is critical, so today I’d like to share some insight into how small fixes, if delayed, can turn into major headaches.&nbsp;
+<p style="text-align: center;"><em>Staying on top of home repair tasks is critical, so today I’d like to share some insight into how small fixes, if delayed, can turn into major headaches.</em></p>
+
+<center>&nbsp;</center>
 
 Today I’d like to go over a few easy fixes and expensive mistakes that homeowners should be aware of. **There are many small things you can do right now that will help you save a huge amount of money down the line.&nbsp;**
 
