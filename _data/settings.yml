@@ -29,7 +29,7 @@ client:
   url: 'http://www.BeachAndSunHomes.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.homeinsight.com/Widget/default.asp?FZ56FBKVPUI2'
+  first_CTA_URL: 'https://www.beachandsunhomes.com/sell/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
   VR_form: 'http://oi.vresp.com?fid=2aa61a049f'
