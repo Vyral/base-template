@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listen Up, Homebuyers: This Seminar Is for You'
-date: 2018-06-15 18:14:53
+date: 2018-06-15 18:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1aZevmaMsjU
+youtube_code: ZMM9W8ht-Gs
 ---
 
 {% include youtube.html %}
