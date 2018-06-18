@@ -48,6 +48,8 @@ There are several laws that were implemented by the Rental Fairness Act, but one
 
 First, you have to give the tenant occupying the property the equivalent of one month’s rent or find them a new property yourself. Then, you have to file an N12 form and attend a tribunal in order to prove that you’re actually moving back in. **If you don’t move back into the property and the tenant that you asked to leave finds out, you can get fined up to $25,000.** My team and I work closely with our landlords, so if one of them is in this kind of situation, we offer to help them represent themselves during the tribunal process.
 
+If you would like to watch my full presentation [click here. ](https://www.youtube.com/watch?v=7FMq-lMhy-c)
+
 If you have any further questions about property management or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d be happy to help you.
 
 &nbsp;
