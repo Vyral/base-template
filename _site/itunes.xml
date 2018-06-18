@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Tulsa Real Estate Podcast with Jennie Wolek</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://yourjourneywithjennie.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://yourjourneywithjennie.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Jennie Wolek</managingEditor>
-    <lastBuildDate>2018-06-06 12:21:19 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-18 13:47:58 -0500</lastBuildDate>
     <media:copyright>Jennie Wolek</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://yourjourneywithjennie.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Jennie Wolek</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://yourjourneywithjennie.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tulsa Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>How Relationship Patterns Influence Our Business</title>
-        <link>localhost:4000/tulsa-real-estate-agent-do-you-know-where-your-business-comes-from.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-do-you-know-where-your-business-comes-from.html</link>
         
           <category>#JustJennie</category>
         
@@ -52,7 +52,7 @@ That sign in the yard led to another listing across the street, which led to an 
 As always, if you have any questions or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Do+You+Know+Where+Your+Business+Comes+From%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Do+You+Know+Where+Your+Business+Comes+From%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -71,7 +71,7 @@ If you keep track of relationship patterns, you’ll see that making one contact
       
       <item>
         <title>How to Train Your Referral Partners</title>
-        <link>localhost:4000/tulsa-real-estate-agent-teaching-others-how-to-refer-your-business.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-teaching-others-how-to-refer-your-business.html</link>
         
           <category>#JustJennie</category>
         
@@ -101,7 +101,7 @@ Sharing referrals is a great way to build our business. It’s what we do—we h
 If you have any questions, feel free to reach out to me. I’m happy to give you advice on how to improve your practices.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Teaching+Others+How+to+Refer+Your+Business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Teaching+Others+How+to+Refer+Your+Business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -120,7 +120,7 @@ Make sure that your family, friends, and clients all know the best way to refer 
       
       <item>
         <title>Being Accountable is the Key to Success</title>
-        <link>localhost:4000/tulsa-real-estate-agent-how-to-hold-yourself-accountable.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-how-to-hold-yourself-accountable.html</link>
         
           <category>#JustJennie</category>
         
@@ -147,7 +147,7 @@ This information all comes from “The One Thing” by Gary Keller. If you haven
 Thanks to Rick for joining us today. If you need any help in Austin, send him an email to Ricky@TheCainTeam.com. If you need anything else, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/March+18%22/Tulsa+Real+Estate+Agent-+How+to+Hold+Yourself+Accountable.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/March+18%22/Tulsa+Real+Estate+Agent-+How+to+Hold+Yourself+Accountable.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -168,7 +168,7 @@ Take it from my friend, Ricky Cain.
       
       <item>
         <title>How Removing Limiting Beliefs Can Change Your Life</title>
-        <link>localhost:4000/tulsa-real-estate-agent-remove-limiting-beliefs.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-remove-limiting-beliefs.html</link>
         
           <category>#JustJennie</category>
         
@@ -198,7 +198,7 @@ Do whatever you have to do on a daily basis to remove your limiting beliefs, whe
 If you have any questions about limiting beliefs our you’d like to talk with me about any “drunk monkeys” that get in your way, feel free to give me a call or shoot me an email. I’d love to hear from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -217,7 +217,7 @@ By removing limiting beliefs, just like I did, you can live your life more produ
       
       <item>
         <title>Why Are All Successful Agents Learning-Based?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-the-benefits-of-being-a-learning-based-agent.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-the-benefits-of-being-a-learning-based-agent.html</link>
         
           <category>#JustJennie</category>
         
@@ -241,7 +241,7 @@ The bottom line is that all successful people are learning-based. Jessica and I 
 If you have any other questions for me about your real estate career, give me a call or send me an email. I would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/FEBRUARY+18'/Tulsa+Real+Estate+Agent-+The+Benefits+of+Being+a+Learning-Based+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/FEBRUARY+18'/Tulsa+Real+Estate+Agent-+The+Benefits+of+Being+a+Learning-Based+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -260,7 +260,7 @@ There’s always more to learn as a real estate agent. Here are just a few examp
       
       <item>
         <title>How Going From E to P Can Help You Burst Through Your Ceiling of Achievement</title>
-        <link>localhost:4000/tulsa-real-estate-agent-going-from-e-to-p-with-scott-klaas.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-going-from-e-to-p-with-scott-klaas.html</link>
         
           <category>#JustJennie</category>
         
@@ -293,7 +293,7 @@ If you’d like to get in touch with Scott or you’d like to send a referral hi
 If you have any questions for me, don’t hesitate to give me a call or send me an email. I’d be happy to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Jan+18/Tulsa+Real+Estate+Agent-+Going+from+E+to+P+with+Scott+Klaas.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Jan+18/Tulsa+Real+Estate+Agent-+Going+from+E+to+P+with+Scott+Klaas.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -314,7 +314,7 @@ Here’s how.
       
       <item>
         <title>Prioritizing Your Time to Maximize Your Outcomes</title>
-        <link>localhost:4000/tulsa-real-estate-agent-the-80-20-principle-use-this-principle-to-change-your-business.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-the-80-20-principle-use-this-principle-to-change-your-business.html</link>
         
           <category>#JustJennie</category>
         
@@ -355,7 +355,7 @@ Think about what you are spending your time on all day long. If you’re still a
 Let me know how you focus on your 20%; I’d love to hear about it. For any other questions, feel free to contact me by phone or email. Have a great day!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+The+80-20+Principle+--+Use+This+Principle+to+Change+Your+Business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+The+80-20+Principle+--+Use+This+Principle+to+Change+Your+Business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -374,7 +374,7 @@ Using the 80/20 principle, we can ensure that we’re prioritizing our time to b
       
       <item>
         <title>Are You Adding Value to Your Own Life?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-self-mastery-is-the-path-to-growth.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-self-mastery-is-the-path-to-growth.html</link>
         
           <category>#JustJennie</category>
         
@@ -411,7 +411,7 @@ Let me know how you work on your self-mastery, and I can in return share some mo
 If you have any questions about this or other topics, please feel free to reach out to us. Make it a great day!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/December+/Tulsa+Real+Estate+Agent-+Self-Mastery+Is+the+Path+to+Growth.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/December+/Tulsa+Real+Estate+Agent-+Self-Mastery+Is+the+Path+to+Growth.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -432,7 +432,7 @@ If not, switch things up so that they do.
       
       <item>
         <title>A Better Way to Handle Your Buyer Listings</title>
-        <link>localhost:4000/tulsa-real-estate-agent-how-do-you-treat-your-buyer-listings.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-how-do-you-treat-your-buyer-listings.html</link>
         
           <category>#JustJennie</category>
         
@@ -453,7 +453,7 @@ All of us post seller listings all the time and share them with our networks. Wh
 I just wanted to share this tool with you to help you get in front of more buyers. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/November/Tulsa+Real+Estate+Agent-+How+Do+You+Treat+Your+Buyer+Listings%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/November/Tulsa+Real+Estate+Agent-+How+Do+You+Treat+Your+Buyer+Listings%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -474,7 +474,7 @@ by adding one simple tool to our business.
       
       <item>
         <title>The Gift of Giving</title>
-        <link>localhost:4000/tulsa-real-estate-agent-giving-back-feels-great.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-giving-back-feels-great.html</link>
         
           <category>#JustJennie</category>
         
@@ -506,7 +506,7 @@ Let me know what ideas you come up with! I’d love to hear other ways that you�
 I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/OCt/Tulsa+Real+Estate+Agent-+Giving+Back+Feels+Great+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/OCt/Tulsa+Real+Estate+Agent-+Giving+Back+Feels+Great+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -525,7 +525,7 @@ Put it in your business plan for 2018 to give back to your community. We have so
       
       <item>
         <title>What Can You Do When You Feel Unmotivated?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-are-you-feeling-unmotivated.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-are-you-feeling-unmotivated.html</link>
         
           <category>#JustJennie</category>
         
@@ -561,7 +561,7 @@ If you’re interested, I can share my 411 with you so that you, too, can build 
 If you’d like me to provide you with that, have any other questions, or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Are+You+Feeling+Unmotivated%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Are+You+Feeling+Unmotivated%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -580,7 +580,7 @@ Recently, I’ve been feeling a little unfocused. Today I want to share a few ti
       
       <item>
         <title>How Can DISC Help You Help Others?</title>
-        <link>localhost:4000/how-can-disc-help-you-help-others.html</link>
+        <link>http://yourjourneywithjennie.com/how-can-disc-help-you-help-others.html</link>
         
           <category>Tips from MAPS Coaches</category>
         
@@ -613,7 +613,7 @@ All of us have each of these different behaviors inside of us—they just show u
 If you have any questions about DISC or how you can use behavioral assessments to better your life and the lives of those around you, feel free to get in touch with me. I’d be happy to talk with you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -634,7 +634,7 @@ Here’s what DISC stands for.
       
       <item>
         <title>Tips for Success From a Rockstar Agent </title>
-        <link>localhost:4000/tulsa-real-estate-agent-successful-tips-with-kelly-henderson.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-successful-tips-with-kelly-henderson.html</link>
         
           <category>Business Tools</category>
         
@@ -666,7 +666,7 @@ If you have any questions for Kelly or referrals for her team, you can email her
 If you have any questions for me, feel free to give me a call or send me an email. I’d be glad to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Successful+tips+with+Kelly+Henderson.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Successful+tips+with+Kelly+Henderson.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -685,7 +685,7 @@ According to fellow agent Kelly Henderson, time-blocking and lead-generation are
       
       <item>
         <title>How the 1-3-5 Tool Can Help You Accomplish All Your Goals</title>
-        <link>localhost:4000/tulsa-real-estate-agent-using-the-1-3-5-goal-setting-template.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-using-the-1-3-5-goal-setting-template.html</link>
         
           <category>Tips from MAPS Coaches</category>
         
@@ -716,7 +716,7 @@ I have a great 1-3-5 template document I’d like to share with you, so if you h
 If you have any questions about this tool or how it can help you in your own business, feel free to give me a call or send me an email. I’d be happy to assist you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Asking+the+Right+Qualifying+Questions.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Asking+the+Right+Qualifying+Questions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -735,7 +735,7 @@ If you haven’t been using the 1-3-5 tool to get things accomplished in your bu
       
       <item>
         <title>How to Prequalify a Seller Before You Go to the Listing Appointment</title>
-        <link>localhost:4000/tulsa-real-estate-agent-asking-the-right-qualifying-questions.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-asking-the-right-qualifying-questions.html</link>
         
           <category>Tips from MAPS Coaches</category>
         
@@ -781,7 +781,7 @@ Don’t talk yourself out of the business, ask them questions and make them feel
 If you have any questions, please don’t hesitate to give me a call or shoot me an email. I look forward to speaking with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Asking+the+Right+Qualifying+Questions.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Asking+the+Right+Qualifying+Questions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -800,7 +800,7 @@ Have you ever shown up for an appointment with a seller and they weren’t ready
       
       <item>
         <title>How Our Team Remembers the Right Qualifying Questions to Ask</title>
-        <link>localhost:4000/how-our-team-remembers-right-qualifying.html</link>
+        <link>http://yourjourneywithjennie.com/how-our-team-remembers-right-qualifying.html</link>
         
           <category>Tips from MAPS Coaches</category>
         
@@ -830,7 +830,7 @@ A for appointment: This comes after we’ve vetted them to be sure they’re a s
 If you have any other questions about this topic or you’d just like to discuss your real estate career, you can always give me a call or send me an email. I’m here to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/May+17/Tulsa+Real+Estate+Agent-+Qualifying+clients+with+LPMAMA.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/May+17/Tulsa+Real+Estate+Agent-+Qualifying+clients+with+LPMAMA.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -849,7 +849,7 @@ In order to remember which questions to ask when qualifying a buyer, we use the 
       
       <item>
         <title>How Does Creating a Fan Club Benefit Your Business?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-creating-fan.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-creating-fan.html</link>
         
           <category>#JustJennie</category>
         
@@ -877,7 +877,7 @@ Treat your Realtor friends like a database. It’s a contact sport, so get out t
 If you have any questions about creating a fan club, feel free to give me a call or send me an email. I’m here to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Creating+a+Fan+Club+to+Grow+Your+Business.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Creating+a+Fan+Club+to+Grow+Your+Business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -896,7 +896,7 @@ Creating a fan club is one of the best things you can do for your business. I’
       
       <item>
         <title>How to Master Your Morning </title>
-        <link>localhost:4000/tulsa-real-estate-agent-become-master.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-become-master.html</link>
         
           <category>#JustJennie</category>
         
@@ -924,7 +924,7 @@ If you’re able to get all of that accomplished in the morning, you can free yo
 I hope these tips are helpful to you. I promise that if you implement them, you will have an awesome morning, a great day, a big business, and a wonderful life. If you have any questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Become+a+Master+of+the+Morning.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Become+a+Master+of+the+Morning.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -943,7 +943,7 @@ Deciding to start my day earlier than usual was a great decision. It has allowed
       
       <item>
         <title>Simple Ways to Improve Video Production</title>
-        <link>localhost:4000/tulsa-real-estate-agent-tour-of-my.html</link>
+        <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-tour-of-my.html</link>
         
           <category>#JustJennie</category>
         
@@ -982,7 +982,7 @@ Items mentioned
 -iPhone Lapel Mic
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Tips+for+Higher+Quality+Videos.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Tips+for+Higher+Quality+Videos.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
