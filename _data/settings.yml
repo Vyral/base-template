@@ -9,8 +9,8 @@ custom_links:
   - title:
     url:
 client:
-  name: Travis Chatwin , Realtor®/Owner
-  license_number: CA BRE Lic# 01331747
+  name: Travis Chatwin
+  license_number:
   about_markdown: >-
     Travis Chatwin Real Estate is comprised of a team of local real estate
     professionals committed to selling some of the most desired homes in Greater
@@ -18,8 +18,8 @@ client:
     helpful tools on this website, including our exclusive Greater San Diego
     Real Estate search, but also feel free to contact us personally.
   market: San Diego
-  brand: Beach and Sun Homes powered by EXP Realty
-  brokerage: 
+  brand: Beach and Sun Homes
+  brokerage: EXP Realty
   address: '312 S Cedros Suite 150<br>Solana Beach, California 92075'
   phone: (619) 752-4663
   phone_type:
