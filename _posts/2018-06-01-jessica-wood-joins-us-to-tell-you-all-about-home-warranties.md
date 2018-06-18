@@ -8,7 +8,7 @@ excerpt: >-
   Purchasing a home protection plan can help cover many of the items in your
   home if something happens.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Barbara+Radke/2018/Southern+California+Real+Estate-+home+warranty+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Barbara+Radke/2018/Southern+California+Real+Estate-+Protecting+your+home+with+a+warranty.mp4
 pullquote: >-
   Many people do not realize that you can purchase a home protection plan at any
   time.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: l_2jAdNJpQQ
+youtube_code: b04KuFveRwo
 ---
 
 {% include youtube.html %}
