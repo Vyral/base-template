@@ -16,14 +16,16 @@ pullquote: >-
   market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ron-cedillo-july-1-ss-no-play.jpg
+youtube_code: VA_6aip4qx0
 ---
 
 {% include youtube.html %}
 
-<center>How does our “Coming Soon” program work? We’re going to go over that in detail for you today.</center>
+<center><em>How does our &ldquo;Coming Soon&rdquo; program work? We&rsquo;re going to go over that in detail for you today.</em></center>
+
+&nbsp;
 
 What is our secret weapon for marketing? Our “Coming Soon” program, of course.
 
