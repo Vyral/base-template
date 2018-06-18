@@ -3,7 +3,6 @@ layout: post
 title: The In’s and Out’s of the Counteroffer & Renegotiation Period
 date: 2018-06-18 16:00:00
 tags:
-  - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   During the counteroffer and renegotiation period, the key is to establish a
