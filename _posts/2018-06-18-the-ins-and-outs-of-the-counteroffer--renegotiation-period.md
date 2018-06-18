@@ -22,7 +22,9 @@ youtube_code: pm0tca5tkvc
 
 {% include youtube.html %}
 
-During the counteroffer and renegotiation period, the key is to establish a baseline of what you’re looking for.
+<p style="text-align: center;"><em>During the counteroffer and renegotiation period, the key is to establish a baseline of what you’re looking for.</em></p>
+
+<center>&nbsp;></center>
 
 So, you put your house up for sale, a few buyers came and took a look at it, and you received an offer.&nbsp;
 
