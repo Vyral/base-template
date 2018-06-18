@@ -21,4 +21,4 @@ youtube_code: ytWzGeSZawY
 
 ![](/uploads/fthb-kohler-social-media-60.png)
 
-On Wednesday, June 20, The Kohler Group is hosting a home buying seminar. We are partnering with our friends at Wintrust Mortgage for this event, where we will cover many important topics such as demystifying the mortgage process, the current real estate market conditions, and renting with an option to buy. We have some great insights to share about buying a home in 2018 and we will wrap up the seminar with a tour of our office. If you have any questions or want to learn more about the event, watch this short video.
+On Wednesday, June 20, The Kohler Group is hosting a home buying seminar. We are partnering with our friends at Compass Mortgage for this event, where we will cover many important topics such as demystifying the mortgage process, the current real estate market conditions, and renting with an option to buy. We have some great insights to share about buying a home in 2018 and we will wrap up the seminar with a tour of our office. If you have any questions or want to learn more about the event, watch this short video.
