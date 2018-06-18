@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Do You Have to Disclose When Selling “As-Is?”
+title: Can I sell my home as-is - Part 2
 tags:
   - Market Update
   - Real Estate
