@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Need to Know to Master Property Management?
-date:
+date: 2018-06-18 17:11:40
 tags:
   - Real Estate
 excerpt: >-
