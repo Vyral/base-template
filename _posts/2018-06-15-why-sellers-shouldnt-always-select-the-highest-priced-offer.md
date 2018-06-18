@@ -21,7 +21,7 @@ youtube_code: umXXw4sBTMc
 
 {% include youtube.html %}
 
-As a seller, if you list your home and receive multiple offers for it, do you have go with the highest-priced offer?
+As a seller, if you list your home and receive multiple offers for it, do you have to go with the highest-priced offer?
 
 I recently had a seller client who found himself in a multiple offer situation and was faced with this same question. Multiple offer situations aren’t uncommon in our current market. Our market is hot right now, and there isn’t a lot of inventory out there. **Any property that’s priced well and shows well will be in high demand.** In my seller’s case, he had three offers in total.
 
@@ -37,4 +37,4 @@ So, when my seller asked me whether he had to accept the highest offer, I told h
 
 The terms and conditions of an offer specify whether the buyer needs financing, whether they’re asking for closing costs to be paid, how short their due diligence period is, etc.&nbsp;
 
-In our case, we ended up going with the second offer. It’s price wasn’t as high as the first offer, but the seller didn’t have any contingencies and was able to close on the house in 30 days. In the end, both parties left the table happy.
+In our case, we ended up going with the second offer. Its price wasn’t as high as the first offer, but the seller didn’t have any contingencies and was able to close on the house in 30 days. In the end, both parties left the table happy.
