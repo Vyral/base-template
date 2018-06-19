@@ -44,11 +44,11 @@ There are several potential reasons to evict a tenant, including nonpayment of r
 
 What are your obligations as a landlord? You must provide a safe property that’s in accordance with fire regulations. For houses, this means providing a smoke alarm and carbon monoxide detector on every floor. For condos, you don’t need to provide a carbon monoxide detector, but you do need to provide a smoke alarm. The heating, plumbing, and electrical systems also must be functional in your property, and the structure of the building must be maintained. Additionally, the refrigerator and stove must be operational at all times, and all common areas of the property must be clean.
 
-There are several laws that were implemented by the Rental Fairness Act, but one in particular I want to mention involves landlords who want to move back into their investment property. If you want to move back into your property, there are certain regulations you have to follow,
+There are several laws that were implemented by the Rental Fairness Act, but one in particular I want to mention involves landlords who want to move back into their investment property. If you want to move back into your property, there are certain regulations you have to follow.
 
 First, you have to give the tenant occupying the property the equivalent of one month’s rent or find them a new property yourself. Then, you have to file an N12 form and attend a tribunal in order to prove that you’re actually moving back in. **If you don’t move back into the property and the tenant that you asked to leave finds out, you can get fined up to $25,000.** My team and I work closely with our landlords, so if one of them is in this kind of situation, we offer to help them represent themselves during the tribunal process.
 
-If you would like to watch my full presentation [click here. ](https://www.youtube.com/watch?v=7FMq-lMhy-c)
+If you would like to watch my full presentation, [click here. ](https://www.youtube.com/watch?v=7FMq-lMhy-c)
 
 If you have any further questions about property management or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d be happy to help you.
 
