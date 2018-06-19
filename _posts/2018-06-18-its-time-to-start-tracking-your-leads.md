@@ -8,7 +8,7 @@ excerpt: >-
   What’s the best way to track leads, and why is tracking leads so important in
   the first place? Let’s answer these questions, today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/2018/Orlando+Real+Estate+Agent-+Listing+Lead+Generation+Strategies.mp4
+  https://s3.amazonaws.com/vyralmarketing/Tom+Nickley/2018/Orlando+Real+Estate+Agent-+Track+your+leads.mp4
 pullquote: Tracking leads will greatly improve your success as an agent.
 enclosure_type: video/mp4
 enclosure_time:
