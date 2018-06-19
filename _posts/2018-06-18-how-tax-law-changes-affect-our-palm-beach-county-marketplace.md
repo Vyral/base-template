@@ -5,12 +5,12 @@ date: 2018-06-18 16:15:00
 tags:
   - Real Estate Market Info
 excerpt: >-
-  Today I want to address what’s probably your least favorite (but still
-  important) topic: taxes. The changes in our tax laws that were put in place at
-  the end of last year have caused many people to consider moving to a more
-  affordable state. How does that impact us here in South Florida? Both buyers
-  and sellers can take advantage of this situation, but they need to act now. To
-  find out why, watch my latest video.
+  Today I want to address a very important, but very unpopular, topic: taxes.
+  The changes in our tax laws that were put in place at the end of last year
+  have caused many people to consider moving to a more affordable state. How
+  does that impact us here in South Florida? Both buyers and sellers can take
+  advantage of this situation, but they need to act now. To find out why, watch
+  my latest video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Florida+Taxes+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: 'If you’re a business owner, you’ll love bringing your employees down here.'
