@@ -6,6 +6,15 @@ layout: default
 
 
 <div class="client-testimonial">
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457331946&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<p class="testimonial-text">
+"It was excellent. In full disclosure, my realtor is my sister. So I used her more than I would a normal realtor. The whole team was great. It really worked out we got a great house for us. We went through a lot of houses. I had a lot of questions so I would go to her first even if it wasn't her part of the team like she wasn't the person handling the mortgage or any of that. There were a couple times where I was trying to switch mortgage lenders. She was very patient with me and she knew that I was making a mistake. I did end up coming back to one who we had. He was out of town which is the only reason why I left because he wasn't there and I was worried we were going to lose the house. But as soon as Austin got back in town everything went swimmingly."
+</p>
+<p class="testimonial-author">
+-Madison S.
+</p>
+<hr>
+<div class="client-testimonial">
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/457329423&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 <p class="testimonial-text">
 "They treated me like they were definitely interested in what we needed. I didn't feel like I was just a client. It did feel like they were actually interested in our success. Too many times I think too many of these people just get into the idea that they're there to make the dollar and however they make it is all that matters. The better the attitude is and the better that they care about their clients I think that's the way they're going to end up maintaining business and increasing their business."
