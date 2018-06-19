@@ -19,7 +19,9 @@ youtube_code: K06aJZuKt60
 
 {% include youtube.html %}
 
-Interest rates are rising, but that hasn’t hampered buyer demand. This means prices are rising and should continue to rise.
+<p style="text-align: center"><em>Interest rates are rising, but that hasn’t hampered buyer demand. This means prices are rising and should continue to rise.</em></p>
+
+<center>&nbsp;</center>
 
 Now that we’re into June, what do the latest statistics say about our market and what we can expect throughout the rest of 2018?
 
