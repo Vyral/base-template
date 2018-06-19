@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be a Competitive Buyer and Win Your Dream Home
-date: 2018-05-08 16:30:13
+date: 2018-06-18 16:30:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/james-duffer-competitive-buyer-youtube.jpg
-youtube_code: 'https://youtu.be/oJtzcwEC6oo'
+youtube_code: 'https://youtu.be/HI4Z7AFd0pU'
 ---
 
 {% include youtube.html %}
@@ -34,9 +34,9 @@ There are a few different ways we can structure an offer to make it more appeali
 
 If you enter a multiple offer situation and aren’t pre-approved, you're likely going to lose. Sellers typically view pre-approved buyers the same as cash buyers
 
-**Make your offer appealing to the seller’s timeline.** Structuring the timeline of the offer to fit the seller's needs is crucial in making your offer competitive. &nbsp;
+**Make your offer appealing to the seller’s timeline.** Structuring the timeline of the offer to fit the seller's needs is crucial in making your offer competitive.  
 
-Another way to prove your commitment as a buyer is to offer a high down payment and waive the typical seller credits. You may also want to consider covering the closing costs. All of these things will speak volumes in your favor.&nbsp;<br>It can also be helpful to appeal to the seller’s emotional side. Consider sending a handwritten letter explaining your personal situation, the names of your kids, and your plans for the property.&nbsp;
+Another way to prove your commitment as a buyer is to offer a high down payment and waive the typical seller credits. You may also want to consider covering the closing costs. All of these things will speak volumes in your favor. <br>It can also be helpful to appeal to the seller’s emotional side. Consider sending a handwritten letter explaining your personal situation, the names of your kids, and your plans for the property. 
 
 On a more practical level, you could have a mortgage broker contact the listing agent to give them peace of mind about your financial situation.
 
