@@ -29,7 +29,7 @@ I’m back again to highlight another great business here in town. We’re getti
 
 **First, let’s take a look at some great holiday gift ideas, all of which are available in the store:**
 
-• Artis makeup brushes. Not only is this set of brushes gorgeous, they are light and easy to use as well.
+• Artist makeup brushes. Not only is this set of brushes gorgeous, they are light and easy to use as well.
 • Dyson hairdryer. This is a brand new product from Dyson. They have taken their air circulation and noise-canceling technology to the hairdryer market.
 • Chanel skin regeneration set.
 

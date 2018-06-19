@@ -1595,13 +1595,13 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 30rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  max-width: 60rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-size: 5rem;
   font-weight: bold;
@@ -2044,7 +2044,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 0px 2px 7px black; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2059,7 +2059,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2070,7 +2070,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2422,6 +2422,12 @@ table tr, table td {
   overflow: hidden;
   display: inline-block;
   margin: auto; }
+
+.about-list {
+  list-style-type: none;
+  list-style-position: outside; }
+  .about-list li {
+    margin-left: 3rem; }
 
 .client-image {
   max-width: 200px; }
@@ -2825,11 +2831,11 @@ form select {
 
 .page-logo {
   width: 90%;
-  max-width: 30rem;
+  max-width: 60rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
 
 .page-hero-img {
   background-position: center;

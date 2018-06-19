@@ -7,22 +7,30 @@ custom_links:
     url:
 
 client:
-  name: Jennie Wolek
+  name: The Wolek Group
   title:
   license_number:
   about_markdown: |
-    The Wolek Group is a full-service organization dedicated to helping you with all aspects of real estate – from buying to selling, we focus on you and your needs. We promise to provide you with the highest in personalized customer service and continually strive to stay on top of current trends in real estate, the technology involved, and making the selling and buying process as efficient and hands-free as possible for our clients.
+    Our mission is to deliver on our Promise and provide the highest quality client experience with a sense of warmth and friendliness. We have a learning-based culture that is dedicated to giving back to our clients and the community.  We commit to support our local business partners and empower our youth through education and personal growth.
 
-    We truly operate as a team, with each of us being a specialist in our role. This allows us to service our clients at a high level, since we are not distracted by the many things that may pop up in a day. We have a focused approach to helping our clients achieve their real estate goals. And more than anything, we love to help people realize their dreams, and work tirelessly to get you where you want to be.
+    Our Promise:
+      <ul class="about-list">
+      <li>• To work as a team to ensure a smooth and seamless transaction from start to finish.</li>
+      <li>• To exceed expectations by being solution-based.</li>
+      <li>• To make every effort to be proactive and limit surprises.</li>
+      <li>• To provide exceptional service by being honest, loyal, understanding and attentive.</li>
+      <li>• To guarantee each client receives such an outstanding experience that they always think of and recommend The Wolek Group to friends and family for any real estate needs.</li>
+      </ul>
+
   market: Tulsa
-  brand: The Wolek Group
-  brokerage: Keller Williams Realty Advantage
+  brand: Keller Williams Realty Advantage
+  brokerage:
   address: 2651 E. 21st Street, Ste 100 Tulsa, OK, 74114
   phone: 918-550-9243
-  phone_type: Office
-  phone2: 918-712-2252
+  phone_type:
+  phone2:
   phone2_type:
-  email: Jennie@TheWolekGroup.com
+  email: info@TheWolekGroup.com
   url: https://www.thewolekgroup.com
 
 CTAs:
@@ -82,11 +90,11 @@ podcast:
 
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
-  logo_width_number: 30
+  hero_logo_path: /img/logo1.png
+  logo_width_number: 60
   hero_text:
   hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background1.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#15355B'
@@ -102,7 +110,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: black
 
 buttons:
   button_radius_number: 0
