@@ -27,7 +27,7 @@ Well, the agent helping you under this arrangement can share your information wi
 
 {% include pullquote.html %}
 
-If you purchased real estate as an unrepresented party, you may not have much legal recourse if things don’t work out the way you hoped them to.
+If you purchased real estate as an unrepresented party, you may not have much legal recourse if things don’t work out the way you hoped.
 
 **For these reasons, you should take the time to get to know a few agents so you can hire one as your designated agent before you begin your home search.** If your current buyer’s agent is also your listing agent for the property you love, then you should write an offer with the second agent that you found so that you aren’t an unrepresented buyer.
 
