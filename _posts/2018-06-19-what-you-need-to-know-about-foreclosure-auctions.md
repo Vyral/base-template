@@ -10,9 +10,9 @@ excerpt: >-
   presents an opportunity for you to help out those in need in your community.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jim+Casbarro/Videos/What+You+Need+to+Know+About+Foreclosure+Auctions.mp4
-pullquote: |-
-  Sometimes the bank will buy back the delinquent loan instead of opening
-  the bidding up to the public.
+pullquote: >-
+  Sometimes the bank will buy back the delinquent loan instead of opening the
+  bidding up to the public.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
