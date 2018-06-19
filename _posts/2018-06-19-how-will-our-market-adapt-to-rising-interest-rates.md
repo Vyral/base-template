@@ -41,7 +41,7 @@ A good indicator of both buyer demand and future sales is buyer foot traffic, or
 
 {% include pullquote.html %}
 
-This means **people are more positive about the housing market going into the summer home buying season,** which is great news because buyer activity is usually much slower during this time. Interestingly enough, in the starter-home and trade-up home markets, we’re in a seller’s market. Nationally, median home values rose about 8% in March compared to the previous year. Here are the total year-over-year price changes by price range:<br>overall
+This means **people are more positive about the housing market going into the summer home buying season,** which is great news because buyer activity is usually much slower during this time. Interestingly enough, in the starter-home and trade-up home markets, we’re in a seller’s market. Nationally, median home values rose about 8% in March compared to the previous year. Here are the total year-over-year price changes by price range overall:
 
 * Low price: 9.6%
 * Low to middle: 8.6%
