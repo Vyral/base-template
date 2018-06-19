@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In our competitive market, it can be difficult to win your dream home against
   other buyers. Here is what you need to do to be competitive.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/James+Duffer/Hill+Harbor+Group+with+James+Duffer+-+Are+You+a+Competitive+Buyer%253F+(1).mp4
 pullquote: >-
   Working with a mortgage broker is important because they're going to pick the
   best financing option for your circumstances.
