@@ -7,8 +7,7 @@ tags:
 excerpt: >-
   Today I am applying the lessons of our 2007 housing market to our current one
   to show you what you should keep in mind in our second home industry.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Ron+Margolis/Videos/2018/What+Lessons+Did+We+Learn+From+2007%253F-+Kauai+Real+Estate.mp4
+enclosure:
 pullquote: >-
   Financial experts tell us that we should always have six months of savings as
   liquid funds.
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UBW5siFSAOc
+youtube_code: Zp0UF4g-4L0
 ---
 
 {% include youtube.html %}
