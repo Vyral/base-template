@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Increase Participation and Decrease Stress With Auto to the 5th Power
-date: 2018-05-29 19:56:25
+date: 2018-06-18 19:56:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zwHLmGTKkLo
+youtube_code: IonC1lSNh6w
 ---
 
 {% include youtube.html %}
@@ -49,5 +49,3 @@ The bottom line is: They work! They are a convenient way to use technology to im
 If you want to learn more about implementing automatic features into your retirement plan, **check out [www.selectretirementplans.com](http://www.selectretirementplans.com){: target="_blank"} to see how easily this can be done**. Also, if you are interested in meeting with me to go over an analysis if your plan, please reach out.
 
 And, as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
