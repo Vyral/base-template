@@ -19,7 +19,6 @@ youtube_code: d1TSny1RUFA
 
 
 {% include youtube.html %}
-
 Today, I have a brief recap of our referral party!&nbsp;
 
 We had a lot of fun. We had poker, blackjack, mouse races, prizes, and some great food and drinks!&nbsp;
