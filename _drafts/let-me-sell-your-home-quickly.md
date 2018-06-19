@@ -21,7 +21,7 @@ youtube_code: fDSBxV4uoqM
 
 {% include youtube.html %}
 
-Have you heard the ads on the television and radio from companies offering to buy your property without listing it?
+<center>Have you heard the ads on the television and radio from companies offering to buy your property without listing it?</center>
 
 Have you ever heard television and radio commercials from companies offering to buy your property without ever listing?
 
