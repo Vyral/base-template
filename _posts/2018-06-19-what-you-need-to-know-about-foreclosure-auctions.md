@@ -22,7 +22,9 @@ youtube_code: 9iHr1LdLATk
 
 {% include youtube.html %}
 
-<center>How do foreclosure auctions work? The process is actually interesting, and it presents an opportunity for you to help out those in need in your community.</center>
+<center><em>How do foreclosure auctions work? The process is actually interesting, and it presents an opportunity for you to help out those in need in your community.</em></center>
+
+&nbsp;
 
 Today I’d like to share some of my real estate knowledge with you regarding how foreclosures—specifically, foreclosure auctions—work in your local community.
 
