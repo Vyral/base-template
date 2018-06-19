@@ -24,7 +24,7 @@ Today we’re going to go into the details of the costs of selling your home. If
 
 **2. Commissions.** You can anticipate an average commision rate of 6% to 8% depending on the type of service you opt for.
 
-**3. Closing costs.** These amounts vary depending on the state you’re in. In Pennsylvania, these costs are split 50/50 with the buyer. That would include a transfer tax, a mortgage and deed recording tax, etc. If you're in New Jersey, the seller typically pays that transfer tax on their own.
+**3. Closing costs.** Depending on the state you're in, closing costs may vary. In Pennsylvania, these costs are split 50/50 with the buyer. That would include a transfer tax, a mortgage and deed recording tax, etc. If you're in New Jersey, the seller typically pays that transfer tax on their own.
 
 {% include pullquote.html %}
 
