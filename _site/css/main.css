@@ -1232,9 +1232,11 @@ html[xmlns] .flexslider .slides {
   margin-bottom: 20px;
   margin-top: 20px;
   overflow: hidden; }
-  .cta-sidebar-container .cta-img-container a img {
-    max-width: 100%;
-    width: 1000px; }
+  .cta-sidebar-container .cta-img-container {
+    margin-bottom: 2rem; }
+    .cta-sidebar-container .cta-img-container a img {
+      max-width: 100%;
+      width: 1000px; }
   .cta-sidebar-container h5 {
     padding-left: 10px; }
   .cta-sidebar-container p {

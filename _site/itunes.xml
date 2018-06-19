@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Clarity - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Ulises Vera</managingEditor>
-    <lastBuildDate>2018-06-01 15:33:51 -0500</lastBuildDate>
+    <lastBuildDate>2018-06-19 14:39:25 -0500</lastBuildDate>
     <media:copyright>Ulises Vera</media:copyright>
     <media:thumbnail url="http://theveragroupblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,47 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from RE/MAX Clarity - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Not Even Zillow Trusts Their Zestimate Feature</title>
+        <link>http://theveragroupblog.com/not-even-zillow-trusts-their-zestimate-feature.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Ulises Vera</author>
+        <pubDate>2018-06-04 11:21:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Ulises+Vera/2018/San+Diego+Real+Estate-+Zestimates.mp4</guid>
+        <description>
+
+You have probably heard of Zillow’s Zestimate tool, but today I am here to tell you the truth about this well-known online feature. In actuality, you shouldn’t trust Zestimates. And there are a few key reasons why.
+
+If you have not heard of Zestimates already, I will break that down for you before moving onto our main discussion. Zillow’s Zestimate tool is a web-based algorithm that draws on limited data to generate a home value estimate. 
+
+Unfortunately, Zestimates are not very accurate. Zillow freely admits that this tool is just a starting point in determining home value. It is not an appraisal. If it were, it would be called a “Zappraisal.” 
+
+But what exactly is it that makes Zestimates so unreliable? 
+
+Well, the algorithm relies on user-submitted data. This means anyone with access to the website could skew what is displayed. Sellers know that today’s home buyers spend a lot of time online and that many people will see their home (and its supposed value) on Zillow. 
+
+As a result of this, sellers may submit information that falsely inflates their Zestimate. Ultimately, Zestimates are very easily manipulated. 
+
+“You would not trust serious health issues to WebMD, so why would you trust pricing your home to Zillow?”
+
+In fact, Zillow is well aware of the fact that 75% of San Diego County homes have Zestimates that are off by 10% or more. A home worth $700,000, for example, could have a Zestimate that lists its value $70,000 too high, or too low.  
+
+It is for this reason that even Zillow themselves encourage homeowners to get an appraisal or a comparative market analysis when pricing their home. The truth is that Zestimates should be used similarly to WebMD. You would not trust serious health issues to WebMD, so why would you trust pricing your home to Zillow?
+
+If you have any other questions, would like more information, or are curious about your home’s true value, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ulises+Vera/2018/San+Diego+Real+Estate-+Zestimates.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://theveragroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Ulises+Vera/2018/San+Diego+Real+Estate-+Zestimates.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Zestimates are a popular tool for determining home value, but are they trustworthy? Today we will discuss this important question.</itunes:subtitle>
+        <itunes:author>Ulises Vera</itunes:author>
+        <itunes:summary>Zestimates are a popular tool for determining home value, but are they trustworthy? Today we will discuss this important question.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What Is Currently Happening in the San Diego and Chula Vista Markets?</title>
         <link>http://theveragroupblog.com/what-is-currently-happening-in-the-san-diego-and-chula-vista-markets.html</link>
