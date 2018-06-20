@@ -7,7 +7,7 @@ excerpt: >-
   What does Zillow’s new Instant Offer program mean for Realtors? Today I will
   discuss how this change may impact you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2018/June/Valley+of+the+Sun+Real+Estate+Agent-+Zillow.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/Recruiting/2018/Valley+of+the+Sun+Real+Estate+Agent-+zillow+(2).mp4
 pullquote: >-
   Zillow will be getting the first crack at properties investors may have
   previously been the first to capture.
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: RXTtwlTOkJs
+youtube_code: gvKlD23K2BM
 ---
 
 {% include youtube.html %}
