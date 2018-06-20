@@ -3,12 +3,12 @@ title: Mississippi Gulf Coast Real Estate Video Blog with Bryan David
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: true
 custom_links:
-  - title: Contact
-    url: http://www.coasthomesales.com/member/contact/
   - title: Home Valuation
     url: https://www.coasthomesales.com/cma/property-valuation/
   - title: Home Search
     url: https://www.coasthomesales.com/
+  - title: Contact
+    url: http://www.coasthomesales.com/member/contact/
 client:
   name: Bryan David
   title: Broker Associate
