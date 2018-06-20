@@ -5,8 +5,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  Have you heard the ads on the television and radio from companies offering to
-  buy your property without listing it?
+  Have you heard the television and radio ads from real estate companies
+  offering to buy your property without listing it? I offer this same service.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Chris+Myers/Videos/Let+Me+Sell+Your+Home+Quickly.mp4
 pullquote: >-
