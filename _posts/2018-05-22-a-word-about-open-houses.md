@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Some agents think open houses are a waste of time. We disagree, and here is
   why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Dallas+-+Fort+Worth+Real+Estate+Agent-+Our+Open+House+Philosophy.mp4
 pullquote: We use feedback to make key adjustments that lead to a quicker sale.
 enclosure_type: video/mp4
 enclosure_time:
