@@ -21,7 +21,9 @@ youtube_code: pkXsc0G6Q5U
 
 {% include youtube.html %}
 
-How have recent changes in our market impacted affordability, and how will current market conditions influence your ability to buy or sell? Let’s discuss these critical questions today.
+<p style="text-align: center;"><em>How have recent changes in our market impacted affordability, and how will current market conditions influence your ability to buy or sell? Let’s discuss these critical questions today.</em></p>
+
+<center>&nbsp;</center>
 
 Welcome back to the Phoenix & Scottsdale Real Estate Show. On today’s episode, we’ll discuss a critical question: **“What does the current drop in home affordability mean for you?”**
 
