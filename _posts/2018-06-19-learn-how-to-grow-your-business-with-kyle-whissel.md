@@ -21,6 +21,6 @@ youtube_code: v_euf3rhqLg
 
 Are you a new entrepreneur who is wishing to grow your business but unsure how? I recently hosted a Facebook Live video where I interviewed my friend Kyle Whissel from San Diego. We spoke about the reasons he decided to start working with a broker after years of independent success, the significance of video marketing, and the importance of balancing your work life and home life.
 
-Kyle told us that the biggest reason for the change was his desire to get off the hamster wheel where you have to continually run or you do not earn income. With the brokerage, he was able to get more support and tools as well as revenue shares for not only him but his entire team. His clients even benefited from the transparency his new brokerage, eXp Realty, offers.
+Kyle told us that the biggest reason for the change was his desire to get off the hamster wheel where you have to continually run or you do not earn income. With a brokerage, he was able to get more support and tools as well as revenue shares for not only him but his entire team. His clients even benefited from the transparency his new brokerage, eXp Realty, offers.
 
-To learn more about Kyle and why he thinks video marketing &nbsp;and balance are so crucial, watch my latest video.
+To learn more about Kyle and why he thinks video marketing and balance are so crucial, watch my latest video.
