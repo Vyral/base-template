@@ -35,7 +35,7 @@ Of course, it is only after the buyer has sent thousands of dollars to an unknow
 
 **2. Fake real estate lawyers.** This scam is similar to the first one, in that the scammers will impersonate somebody legitimately involved with a deal. In this case, the hackers will impersonate a real estate lawyer who is associated with a particular home sale.
 
-Then, at the time of closing, they will contact the buyer, either by email or over the phone, and tell them the wire destination has been changed. If this scam works, the homebuyer could again be out thousands of dollars.&nbsp;
+Then, at the time of closing, they will contact the buyer, either by email or over the phone, and tell them the wire destination has been changed. If this scam works, the homebuyer could again be out thousands of dollars. 
 
 {% include pullquote.html %}
 
@@ -45,6 +45,6 @@ But then, the buyer starts procrastinating, making excuses, and dragging out the
 
 So, how can you protect yourself against these and other scams?
 
-For one thing, avoid sending account information over email. Confirm everything over a phone call (to a number that you already know to be valid)—or even better, in person. And ultimately, **find a real estate agent you trust to represent your best interests.&nbsp;**
+For one thing, avoid sending account information over email. Confirm everything over a phone call (to a number that you already know to be valid)—or even better, in person. And ultimately, **find a real estate agent you trust to represent your best interests. **
 
-If you are ever in need of a trustworthy real estate agent, my doors are always open. If you have any other questions or you are interested in buying or selling a home, don’t hesitate to give me a call or send me an email. I would be happy to help you.&nbsp;
+If you are ever in need of a trustworthy real estate agent, my doors are always open. If you have any other questions or you are interested in buying or selling a home, don’t hesitate to give me a call or send me an email. I would be happy to help you.
