@@ -19,7 +19,7 @@ youtube_code: XDI48LifUvk
 
 {% include youtube.html %}
 
-To make sure your home sale is a success, there are nine silly little errors you must avoid.
+<center>To make sure your home sale is a success, there are nine silly little errors you must avoid.</center>
 
 If you plan to list your home, there are nine silly little things that can jeopardize your sale. Avoiding these simple, but critical, errors could make all the difference in your success as a seller:
 
