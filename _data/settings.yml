@@ -5,6 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Contact
     url: http://www.coasthomesales.com/member/contact/
+  - title: Home Valuation
+    url: https://www.coasthomesales.com/cma/property-valuation/
+  - title: Home Search
+    url: https://www.coasthomesales.com/
 client:
   name: Bryan David
   title: Broker Associate
@@ -32,6 +36,12 @@ sidebar_CTA:
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
   CTA_url: 'http://www.coasthomesales.com/'
+second_sidebar_CTA:
+  CTA_image_path2: /img/cta-images/004.jpg
+  CTA_title2: "What’s Your -- MARKET -- Home Worth?"
+  CTA_text2: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+  CTA_link_text2: "Free Home Value Report"
+  CTA_url2: https://www.coasthomesales.com/cma/property-valuation/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -64,14 +74,14 @@ podcast:
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/bdglogo.png
+  hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 site_colors:
-  brand_color: '#192f5b'
-  theme_color: '#4b4d4e'
+  brand_color: '#b40101'
+  theme_color: '#999'
   theme_text_color: '#ffffff'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
@@ -79,14 +89,14 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 0px
   shadow_spread: 0px
-  shadow_color: '#ffffff'
+  shadow_color: transparent
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: '#ffffff'
-  button_text_color: '#123456'
+  button_text_color: '#000'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'

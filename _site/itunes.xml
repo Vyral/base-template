@@ -2,125 +2,609 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Mississippi Gulf Coast Real Estate Podcast with Bryan David</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brian David Group - your professional Mississippi Gulf Coast Real Estate Agents.</description>
+    <link>http://bryandavidgroup.tv</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://bryandavidgroup.tv"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Bryan David Group - your professional Mississippi Gulf Coast Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Bryan David</managingEditor>
-    <lastBuildDate>2017-02-10 14:30:19 -0600</lastBuildDate>
+    <lastBuildDate>2018-06-20 13:10:28 -0500</lastBuildDate>
     <media:copyright>Bryan David</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://bryandavidgroup.tv/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>Bryan@bdgrealestate.com</itunes:email>
+      <itunes:email>Bryan@BDGRealEstate.com</itunes:email>
       <itunes:name>Bryan David</itunes:name>
     </itunes:owner>
     <itunes:author>Bryan David</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://bryandavidgroup.tv/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mississippi Gulf Coast Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brian David Group - your professional Mississippi Gulf Coast Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Bryan David Group - your professional Mississippi Gulf Coast Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>Is 2018 the Year to Step Into Homeownership?</title>
+        <link>http://bryandavidgroup.tv/is-2018-the-year-to-step-into-homeownership.html</link>
         
           <category>Market Update</category>
         
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
         <author>Bryan David</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2018-01-25 06:04:16 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What can you expect from our market in 2018? To answer that, we must look at three key factors.The first is inventory. For the past several years, we’ve seen an all-time low level of inventory. It’s a seller’s market across most of the Gulf Coast. There are a lot of buyers out there looking for housing and a lot of sellers that have been sitting on the sidelines waiting for spring to list their homes.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+“If you’re considering becoming a homeowner, 2018 is a great year to do it.”
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Second, mortgage interest rates remain low. We’re still in the low 4% range, and we expect that to continue through at least the first part of 2018. A lot of buyers are entering the market to take advantage of this. This means that we’ll have a lot of both sellers and buyers entering the market this spring, which makes now a great time to list your house before everyone else does.
 
-“This is an example of a pull quote”
+Finally, homeownership is still a quality investment. The next tax reform bill kept many things unchanged in our market, so if you’re considering becoming a homeowner, 2018 is a great year to do it.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you or anyone you know are looking to buy, sell, or invest in real estate, give us a call or send us an email. We’d be glad to help.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mississippi Gulf Coast Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Inventory, mortgage rates, and the fact that homeownership is still a quality investment all make 2018 a great time to buy or sell a home.</itunes:subtitle>
         <itunes:author>Bryan David</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Inventory, mortgage rates, and the fact that homeownership is still a quality investment all make 2018 a great time to buy or sell a home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
+        <title>Is a New Construction Home Right for You?</title>
+        <link>http://bryandavidgroup.tv/is-a-new-construction-home-right-for-you.html</link>
         
           <category>Real Estate</category>
         
-          <category>Buyer Tips</category>
+        <author>Bryan David</author>
+        <pubDate>2018-01-02 09:02:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Jan+18/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Real+Pros+and+Cons+of+New+Construction.mp4</guid>
+        <description>
+
+If you’ve been thinking of buying a new construction home, there are a few pros and cons to consider.
+
+One of the best things about purchasing a new construction property is all of the amenities that come with it. Because new construction homes are highly customizable, you don’t have to worry about what any previous owner might have liked or wanted in their home.
+
+It’s all up to you to choose the things you want included. This includes everything from the faucets to the flooring. Everything is new and it’s all yours.
+
+“Everything is new and it’s all yours.”
+
+Also, new constructions have another key benefit: being new. This factor will save you a lot of money on things like home maintenance. Additionally, you will have warranties on all of the major systems. You won’t need to worry about any systems going down in the first few years you’re living there.
+
+However, there is a downside. You must consider the amount of time a home will take to be built. This can be a few months. But, if all of the things fall into place properly, you should be done. Still, it can be very frustrating to plan a move when delays come up.
+
+If you want a new construction home without the wait, there’s always the option of buying a spec (or speculative) home. These homes are usually already built and ready to go.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Jan+18/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Real+Pros+and+Cons+of+New+Construction.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Jan+18/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Real+Pros+and+Cons+of+New+Construction.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What are some of the bonuses and pitfalls of a new construction home?</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>What are some of the bonuses and pitfalls of a new construction home?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Benefits Associated With VA Loans</title>
+        <link>http://bryandavidgroup.tv/4-benefits-associated-with-va-loans.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-12-22 04:31:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/December/Mississippi+Gulf+Coast+Real+Estate+Agent-+Veterans+Should+Be+Excited.mp4</guid>
+        <description>
+
+Today I’d like to cover four points about VA loans and the benefits associated with them.
+
+
+  VA loans don’t require a down payment. Military service people and veterans can go to the closing table with zero down, which is a great benefit.
+  They don’t require mortgage insurance. Both FHA and USDA loans require mortgage insurance for the life of the loan. As a member of the military, you won’t have that requirement with a VA loan.“Veterans can go to the closing table with no money down”
+  VA loans aren’t restricted to single-family residences. Essentially, you could buy a duplex, triplex, or quadruplex, live in one of the units and rent the others out. This allows you to have your unit paid for by someone else.
+  If you’re a disabled veteran, you don’t have to pay the funding fee. This could save you anywhere from 1% to 3% on the cost of the loan.
+
+
+If you or anyone you know is in the market to buy, sell, or invest in real estate, definitely give us a call or send an email. I’d be glad to sit down and speak to you, your friends, or your family and help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/December/Mississippi+Gulf+Coast+Real+Estate+Agent-+Veterans+Should+Be+Excited.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/December/Mississippi+Gulf+Coast+Real+Estate+Agent-+Veterans+Should+Be+Excited.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are four points highlighting the benefits of VA loans for those who qualify.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Here are four points highlighting the benefits of VA loans for those who qualify.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Military Relocation Professionals Help Active Service Members</title>
+        <link>http://bryandavidgroup.tv/how-military-relocation-professionals-help-active-service-members.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-11-28 04:02:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+To help educate you about military relocation professionals, I’m going to answer a few common questions relating to them.
+
+What is the difference between a Realtor that’s certified as a MRP and one that is not?
+
+A military relocation professional has certified knowledge of what a service member does and what they have to go through when they move. There are a lot of things that have to be done and certain timelines they have to meet.
+
+Are there any other benefits to using a military relocation professional?
+
+“Being part of the military relocation program keeps you up to date on any new regulations or other changes.”
+
+Being part of the military relocation program keeps you up to date on any new regulations or other changes. When I was in the military, I went through a lot of moves, but that was many years ago. Being an MRP, though, allows me to stay updated.
+
+What are some of the nice things about relocating to the Gulf Coast?
+
+Keesler Air Force Base is a wonderful base that’s only a block away from the beach, and the Seabee base isn’t very far from the beach either. There are lots of activities and plenty of quality housing nearby.
+
+We will release a military relocation guide this month on our website. In the meantime, if you have any other questions about MRPs or any other real estate topics, don’t hesitate to give us a call. We’d love to speak with you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a couple important ways a military relocation professional differs from a regular Realtor and how they can help active service members.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>There are a couple important ways a military relocation professional differs from a regular Realtor and how they can help active service members.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have You Heard of 203(k) Loans?</title>
+        <link>http://bryandavidgroup.tv/have-you-heard-of-203k-loans.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-11-15 07:02:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/November+/Mississippi+Gulf+Coast+Real+Estate+Agent-+Lending+for+Renovations.mp4</guid>
+        <description>
+
+As a broker associate with Keller Williams here on the Mississippi Gulf Coast, I’d like to talk to you a little bit about the 203(k) loan.
+
+What is a 203(k) loan? This type of loan is a renovation loan that works in tandem with your regular lending and allows you to make renovations to the house during the purchase.
+
+Under the terms of the loan, you have about six months to make those renovations, and you’ll be required to use an approved contractor. It’s a little bit of extra paperwork, but it’s definitely worth doing.
+
+“This type of loan is a renovation loan that works in tandem with your regular lending and allows you to make renovations to the house during the purchase.”
+
+There are two versions of the 203(k) loan: a full version and a streamlined version.
+
+If you go into a house and you love everything about it except that maybe the kitchen is just not right, ask your agent about a 203(k) loan. You can have the entire kitchen renovated to be just the way you want it so that you can own the perfect house.
+
+If you or someone you know is interested in buying, selling, or investing in real estate, please give us a call. We’d love to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/November+/Mississippi+Gulf+Coast+Real+Estate+Agent-+Lending+for+Renovations.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/November+/Mississippi+Gulf+Coast+Real+Estate+Agent-+Lending+for+Renovations.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re purchasing a home and love almost everything about it except one thing that seems off, ask your agent about a 203(k) loan.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>If you’re purchasing a home and love almost everything about it except one thing that seems off, ask your agent about a 203(k) loan.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Things to Avoid When Buying Your First Home</title>
+        <link>http://bryandavidgroup.tv/things-to-avoid-when-buying-your-first-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-10-16 07:59:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+3+Critical+Home+Search+Mistakes+(1).mp4</guid>
+        <description>
+
+When I asked the buyer’s agents on my team what they found most gratifying about their jobs, they told me how much they love working with first-time homebuyers.
+
+Most of all, my agents enjoy helping these buyers understand and navigate the home buying process for the first time, and then watching them succeed in doing so.
+
+Part of the reason this is so gratifying is because these agents realize just how much goes into the process of searching for and purchasing a home. There are a lot of steps, which means a lot of room for error. For that reason, today I wanted to go over some of the most common mistakes first-time homebuyers make, so that you don’t repeat these mistakes yourself.
+
+
+  Not considering the cost of the home, beyond just the mortgage payment.There’s a lot more to the cost than principal and interest. You also need to consider insurance and taxes. Also, the maintenance of owning the house over the years is going to add up. It’s important to consider these kinds of costs that will come down the line, including any upgrades you may do. These upgrades may add value to the house, but remember that you might not see that money back when you sell.“Make sure you understand your price range and that you are pre-approved ahead of time.”
+  Shopping for a home without being pre-approved. Imagine finding your dream home only to watch someone else buy it out from under you while you’re at the lender trying to get pre-approved. Make sure you understand your price range and that you are pre-approved ahead of time. This will prevent any unpleasant surprises.
+  Changing your debt-to-income ratio, causing your lender to deny you the loan.Watching your new house go down the drain is a terrible feeling. You may not realize it, but going out and making expensive purchases on credit can have a huge impact on your ability to receive your loan. Wait until after closing before you do anything that could change your credit.
+
+
+If you have any other questions, would like more information, or are interested in having a buyer consultation with us, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+3+Critical+Home+Search+Mistakes+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+3+Critical+Home+Search+Mistakes+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Buying a home for the first time is a big task to undertake. Today, I want to go over some of the most common first-time buyer mistakes, so you can hopefully avoid them.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Buying a home for the first time is a big task to undertake. Today, I want to go over some of the most common first-time buyer mistakes, so you can hopefully avoid them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Inspection Tips for Sellers</title>
+        <link>http://bryandavidgroup.tv/home-inspection-tips-for-sellers.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Bryan David</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2017-10-05 04:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+Why+Order+an+Inspection+Before+Listing%253F.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+It’s time for part two of our video series on home inspections. Last time, I talked to homebuyers but today, I have a few inspection tips for sellers.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+If you plan on selling your house, why should you consider getting a home inspection before you put your house on the market?
 
+The No. 1 reason to get an inspection before listing your home is that you can take care of all necessary repairs before your home hits the market. An inspection costs about $300, and you will be able to know exactly what condition your home is in and take care of about 90% of those repairs.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Every home inspector is a little different. One may find something that another one doesn’t, but you can get most of those repairs taken care of. If there are any major repairs, you can get most of that done on your own time prior to getting an offer.
 
+Now, if you get a great offer on your house without taking care of the inspections and repairs, then the buyer will order their own inspection. On occasion, we see buyers get scared off by an inspection report because they cannot deal with the number of repairs.
 
+“Take care of all necessary repairs before your home hits the market.”
 
-  list item
-  list item
-  list item
-  list item
-  list item
+If the buyer backs out of the contract after the inspection, you will have to put your house back on the market. Your next offer will probably not be as good as the first offer you had, so you could end up selling your house for thousands of dollars less than the original sale price.
 
+You should also consider the time involved in this process. When you have to put your house on the market, you lose weeks or even months due to those repairs.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Ultimately, you will have to do the repairs anyway to get the house sold. Instead of going back on the market and making two or three additional mortgage payments, order that $300 home inspection before your home is on the market. Doing so will save you a lot of time, money, stress, and heartache.
 
-“This is an example of a pull quote”
+When buyers see that you have already ordered an inspection on the home, they may accept your inspection report. From there, the contract just flies through.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about home inspections or preparing your house for the market, just give me a call or send me an email. I would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+Why+Order+an+Inspection+Before+Listing%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Oct/Mississippi+Gulf+Coast+Real+Estate+Agent-+Why+Order+an+Inspection+Before+Listing%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Mississippi Gulf Coast Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Home inspections aren’t just for buyers. There are a few reasons why you should order an inspection before your home hits the market.</itunes:subtitle>
         <itunes:author>Bryan David</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Home inspections aren’t just for buyers. There are a few reasons why you should order an inspection before your home hits the market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What to Expect During a Home Inspection</title>
+        <link>http://bryandavidgroup.tv/what-to-expect-during-a-home-inspection.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-08-10 11:49:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Aug-Sept+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Key+Points+About+Home+Inspections.mp4</guid>
+        <description>
+
+Lately, I’ve gotten a lot of questions about home inspections, so I decided to start a video series to cover everything you need to know. Today, I’ll go over a few key points for homebuyers.
+
+1.  When? As soon as we get a contract on your house, one of the very first things we’ll do is order a home inspection. The contract generally has a short period to get your inspection done and request repairs from the seller.
+
+2.  Who? There are a lot of home inspectors out there. You can do a search on the Internet or we can recommend a few inspectors who have helped our clients in the past. That said, you need to make sure that the home inspector has an active license. Check out this website to make sure your home inspector’s license is active.
+
+“Make sure that your inspector has an active license.”
+
+3.  How much does it cost? Home inspections tend to start around $250. The majority of home inspections cost about $300 to $350, and very large homes will cost $400 or more.
+
+4.  What do you get for your money? You will receive a lengthy report detailing any issues with the home, including major concerns, minor concerns, safety hazards, and maintenance items.
+
+You should also determine what will happen if the inspector misses a major problem in the home. Is the inspector insured, what is the procedure, and how is the inspector covered?
+
+If you have any more questions about home inspections or are interested in buying a home, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Aug-Sept+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Key+Points+About+Home+Inspections.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Aug-Sept+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Key+Points+About+Home+Inspections.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’ve been getting a lot of questions about home inspections, so I’d like to go over four key points homebuyers should know.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>I’ve been getting a lot of questions about home inspections, so I’d like to go over four key points homebuyers should know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Key Tips for Buying or Investing in Waterfront Properties</title>
+        <link>http://bryandavidgroup.tv/4-key-tips-for-buying-or-investing-in-waterfront-properties.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-08-07 08:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Tips+for+Getting+a+Waterfront+Property.mp4</guid>
+        <description>
+
+Down here on the Mississippi Gulf Coast, we have plenty of waterfront property for you to choose from, be it river, bay, bayou, or beachfront.
+
+There is a lot of interest these days in waterfront property. However, there are four things you should consider before buying or investing in a waterfront property:
+
+1. What is your intention or expectation for the property? If your plan is to sit on the deck and sip your coffee while the sun rises over the bayou, that’s fine. There are a number of properties out there that fit that bill. If you intend to fish off the pier and catch trophy trout, or if you have a boat, that requires further discussion.
+
+2. If you do have a boat, what is the draft of the boat? How big is the boat? We need to determine if you require a property with deep water access so that you can utilize the property the way you want.
+
+“What is your intention for the property?”
+
+3. Inspect any existing bulkheads or piers on the property. We don’t want you to buy something that’s been eaten up by worms or is starting to cave in. It can be costly to get those torn out or replaced.  Also, if you require a new bulkhead or pier we want to make sure it is planned into your budget. It can cost anywhere from $150 to $250 per linear foot to replace, depending on how deep the water and how extensive the job is.
+
+4. What is the build elevation on the lot that you intend to purchase? You need to get down to the planning department to find out. You should also look for other restrictions that may come with building on a waterfront property, as that can wind up being extensive and costly as well.
+
+If you have any other questions about waterfront property or would like some help in finding the right one for you, give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Tips+for+Getting+a+Waterfront+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Tips+for+Getting+a+Waterfront+Property.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Before you purchase a waterfront property, there are four things that you should consider.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Before you purchase a waterfront property, there are four things that you should consider.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Going on in the Gulf Coast Real Estate Market?</title>
+        <link>http://bryandavidgroup.tv/whats-going-on-in-the-gulf-coast-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-07-25 05:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Gulf+Coast+Summer+Market+Update.mp4</guid>
+        <description>
+The last time we gave you an update on how the Gulf Coast market was in the spring, but now we are in the dead of summer. Here’s what we’ve been seeing over the last few months.
+
+Inventory is still down. We only have about six months on average across the coast. Some areas, like Ocean Springs, have only four months. That signifies a seller’s market. In a seller’s market, we see increased prices.
+
+Case in point, the average price for a home along the coast is $150,000. That number jumps up near $190,000 in Ocean Springs. Those are just the average prices, though. There are certainly options for every budget.
+“Homes in Biloxi are selling in just 70 days, on average.”
+Homes are spending an average of 104 days on the market along the coast, but there are pockets where they are selling much faster. Ocean Springs, of course, has an average around 80 days. Biloxi has dropped from 90 to 70 days. On the other end of the spectrum, Gulfport’s average rose to 135 days.
+
+Overall, we’ve had a really good run with housing lately. If you have been thinking about buying or selling, now is a great time to get in the market while there is high demand for your home and you can buy a new home with a low interest rate.
+
+If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Gulf+Coast+Summer+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Gulf+Coast+Summer+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you been keeping tabs on the Gulf Coast market lately? If not, no worries. We have.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Have you been keeping tabs on the Gulf Coast market lately? If not, no worries. We have.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Much Do You Need for a Down Payment?</title>
+        <link>http://bryandavidgroup.tv/how-much-do-you-need-for-a-down-payment.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-07-11 06:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+You+Don%2527t+Need+20%2525+Down.mp4</guid>
+        <description>
+I recently sat down with some buyer specialists and they said that one of the biggest problems buyers are facing today is misinformation. One of the biggest pieces of misinformation that has spread around is that you need a 20% down payment to purchase a home.
+
+This simply isn’t true. There are a number of options you can choose where you won’t have to save up a fortune to buy a home. Fannie Mae and Freddie Mac both offer 3% down programs. FHA financing offers a 3.5% down payment and USDA and VA loans offer 0% down programs. USDA loans are for rural properties, and many homes here on the Gulf Coast qualify for it. VA loans are for active duty members and veterans of the armed forces.
+“There are even 0% down loan options.”
+A lot of these programs are for “first-time buyers,” but that doesn’t just limit them to people who are buying their first home. Technically, a “first-time buyer” is someone who hasn’t bought a home in the last three years. That’s it. If you’ve been sitting on the sidelines waiting to make a move, this may be your opportunity.
+
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+You+Don%2527t+Need+20%2525+Down.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+You+Don%2527t+Need+20%2525+Down.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Many buyers think they need to save up 20% to buy a home. In reality, that’s not true at all.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Many buyers think they need to save up 20% to buy a home. In reality, that’s not true at all.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tips & Tricks for Preparing Your Home for the Market</title>
+        <link>http://bryandavidgroup.tv/tips-tricks-for-preparing-your-home-for-the-market.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-06-29 05:48:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4</guid>
+        <description>
+If you’re a home seller, here are a few tips you can use to get your home ready for the market.
+
+First, clean up the landscaping, especially in front of the house. Buyers like to do drive-bys of houses to see what they look like in person. If the shrubbery in front of your house is overgrown or dark and drab, it will definitely turn buyers away.
+
+A lot of times shrubbery starts out small but grows over the years to completely cover things like your home’s windows, which can make your home look small. Cut away the shrubbery and pressure-wash the newly exposed areas to move buyers from the outside to the inside.
+
+Second, apply a fresh coat of paint to your home’s interior. It can be a bit of a pain to get done, but it’s relatively inexpensive and can go a long way.
+“A fresh coat of paint can go a long way.”
+Third, get all of the carpets and floors professionally cleaned.
+
+Fourth, change out all of the old hardware, especially if you have all that old 90s brass hardware. Maybe take a look at some of the fixtures too and consider changing them out.
+
+Bonus tip: Look at your air conditioner vents. If they’re dirty, clean them. If they’re rusted, replace them.
+
+We have many more tips to help you get your home ready for sale, and we’d be happy to do a walkthrough of your house if you’re getting it ready for the market. If you have any other questions or you know anyone looking to buy, sell, or invest in real estate, give me a call. I’m here to help.
+
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/Mississippi+Gulf+Coast+Real+Estate+Agent-+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you need to get your home ready to sell, there are a few tips you can use to get it looking its best in no time.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>If you need to get your home ready to sell, there are a few tips you can use to get it looking its best in no time.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Cut These Home Selling Mistakes Out</title>
+        <link>http://bryandavidgroup.tv/cut-these-home-selling-mistakes-out.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-05-22 05:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/May+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Home+Selling+Mistakes+You+Shouldn%2527t+Do.mp4</guid>
+        <description>
+If you plan on selling your home, there are a few mistakes that you should avoid:
+
+
+  Trying to sell it by yourself as “For Sale By Owner.” There are quite a few disadvantages to selling your home by yourself without an agent.  A huge one is not being able to ensure that the paperwork is done correctly. Just last year, the state of Mississippi changed their paperwork from a four-page to an eight-page document. An agent will help you with these forms and make sure they’re filed correctly.
+
+When selling your home by yourself, it can also be hard to determine if the people coming to look at your house are trustworthy individuals who aren’t there for other reasons. An agent can help vet potential buyers and ensure the security of your home during showings.
+
+If you sell your home without an agent, it can be hard to land on a price that is just right. Relying on Zillow or similar websites isn’t a solid strategy when pricing your home. Because Mississippi is a non-disclosure state, it is difficult to find comparable appraisals that help you accurately price your home through Zillow, as it relies on the same type of inaccessible data.
+
+If you sell your home with an agent, you’ll have access to a wide variety of marketing tools and strategies that you wouldn’t have access to if you put your house on the market yourself. Working with an agent means your home is seen by more people and you’ll have the chance to get a better deal from those buyer leads generated by solid advertising.
+
+  Incorrectly or overpricing your home. Many homes on the market are overpriced. When they are overpriced, they sit on the market for weeks without selling. Then they go through a series of price reductions until they actually get to the market price. However, by that time they’ve been on the market too long and buyers begin to wonder what’s wrong with the house. As a result, buyers will come in with even lower offers.
+
+
+“Agents have a wide variety of marketing tools and strategies to help sell your home.”
+
+
+  Photo quality can make or break a home sale. In the age of the Internet, buyers are looking at your home before they even know where it’s at. They want to see many high quality photos of every portion of the house. They don’t want to see grainy photos. They won’t look at listings that don’t have any photos at all. When looking for an agent, check out their past listings and make sure they use professional photography when selling your home.
+
+  Limiting access to buyers.Buyers are usually on a tight schedule with many houses they need to see in a day. Sometimes, buyers fly in from out of town to see many homes and may not have the time to fit a specific showing time into their schedule. By making your home more accessible and allowing an open schedule of showings, you’ll expose your home to as many buyers as possible and increase your chances of selling quickly and for a great price.
+
+
+If you’re thinking about buying or selling your home, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/May+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Home+Selling+Mistakes+You+Shouldn%2527t+Do.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Videos/May+17/Mississippi+Gulf+Coast+Real+Estate+Agent-+4+Home+Selling+Mistakes+You+Shouldn%2527t+Do.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Avoid these four home selling mistakes if you want to sell your home quickly and for a great price.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Avoid these four home selling mistakes if you want to sell your home quickly and for a great price.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>When's the Last Time You Reviewed Your Homeowners Insurance?</title>
+        <link>http://bryandavidgroup.tv/whens-the-last-time-you-reviewed-your-homeowners-insurance.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-04-20 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+Have+You+Reviewed+Your+Policy+This+Year%253F.mp4</guid>
+        <description>
+If you haven’t received fresh quotes for your homeowners insurance or reviewed your policy with your provider in the last year, you need to do it right away.
+
+After Katrina, rates skyrocketed on the Mississippi Gulf Coast and most homeowners were forced into the state wind pool. However, vendors have moved back into the market in recent years, driving competition up and rates down. We’ve even seen cases of rates getting cut in half as people come out of the wind pool and back into private coverage.
+
+“Too often I see homeowners paying insurance that’s way over what they need to pay.”
+
+Too often though, I see homeowners paying insurance that’s way over what they need to pay. I even recently met with someone paying $3,400 dollars with a big provider, but after they got some quotes from local providers, they were shocked to see most of the estimates come in below $1,800.
+
+If your vendor hasn’t contacted your for more than a year and your policy is simply on autopilot, that might be another reason to seek another vendor. They’re not working for you; they’re just taking your money.
+
+If you have any questions or you’re thinking of buying or selling a home in the area, don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+Have+You+Reviewed+Your+Policy+This+Year%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+Have+You+Reviewed+Your+Policy+This+Year%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you reviewed your homeowners insurance policy in the last year? You might be surprised by what you hear now that rates are being driven down again.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Have you reviewed your homeowners insurance policy in the last year? You might be surprised by what you hear now that rates are being driven down again.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Does Zillow Know Your Home’s True Value?</title>
+        <link>http://bryandavidgroup.tv/does-zillow-know-your-homes-true-value.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-04-02 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Key+to+an+Accurate+Home+Value.mp4</guid>
+        <description>
+
+One of the most common questions I’m asked is, “What’s the deal with Zillow’s Zestimate and is it an accurate representation of my home’s value?”
+
+A Zestimate is a statistical model that Zillow runs on basically every home in America. The number of bedrooms, number of bathrooms, special features like pools, and location all go into their model. The one thing it can’t look at is condition, which is an important part of your home’s value.That’s an important part of your home’s value.
+
+The main ingredient for a Zestimate is the data they pull from public records. That data includes tax assessments, as well as any mortgages that may be tied to the property. It also includes past sale history. However, Mississippi is a non-disclosure state. That means when you sell a home, the information from the sale, specifically the sale price, is not entered into public record. Therefore, Zillow does not have access to the data from our state.Zillow rates their Zestimates’ reliability on a scale of one to five stars. Here in the Jackson, Harrison, and Hancock County areas, Zillow gives their Zestimates a one-star rating.
+
+“Zestimates don’t take condition into account.”
+
+What can you do to actually come up with a good pricing strategy for your home? Give me a call. I’ll take a look at all the data that Zillow does not have access to and compile a comparative market analysis for you. Then I’ll come out to your home to assess its condition and offer staging tips. Then we can sit down, go over all the data together, and come up with a price that makes sense.
+
+If you have any questions for me or are interested in buying or selling a home, give me a call or send me an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Key+to+an+Accurate+Home+Value.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+The+Key+to+an+Accurate+Home+Value.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Zestimates aren’t as accurate as you probably think they are. In fact, they are especially inaccurate in Mississippi.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>Zestimates aren’t as accurate as you probably think they are. In fact, they are especially inaccurate in Mississippi.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What's Going on in the Mississippi Gulf Coast Market?</title>
+        <link>http://bryandavidgroup.tv/whats-going-on-in-the-mississippi-gulf-coast-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan David</author>
+        <pubDate>2017-03-14 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+What%2527s+Happening+in+the+Mississippi+Gulf+Coast+Market%253F.mp4</guid>
+        <description>
+
+What’s going on in the Mississippi gulf coast real estate market right now? How might it affect you as a homebuyer or seller moving forward this year?
+
+On average, our market has six months worth of inventory, which technically puts us in a buyer’s market. We’ve had a drastic decline in the last year going from 12 months to six months of inventory, however, and we’re definitely trending toward a seller’s market across the coast.
+
+Different areas and neighborhoods are in seller’s markets, though. For example, Ocean Springs has four months of inventory and Biloxi has five, putting them in seller’s markets. The city of Gulfport had 10 months of inventory a year ago and is now down to six. Long Beach is experiencing the same thing.
+
+As you can see, we’re trending toward a seller’s market.
+
+We must also consider interest rates when looking ahead in our market. The current rate is about 4.25% for a mortgage. These are great rates, but before the election, rates were even lower at about 3.375%, which were even more phenomenal. They’re definitely trending upward. Experts predict that rates will be at about 5% by the end of the year.
+
+“We’re trending toward a seller’s market.”
+
+What does this all mean if you plan on buying or selling a home? If you’re buying a home, you’ll have a lot less to choose from. Lower inventory means selection will be down, but it also means prices will go up. When you couple that with rising interest rates, you see why a lot of buyers are entering the market to lock in the lower rates while they still can.
+
+This is further decreasing supply and lowering demand. Additionally, higher interest rates mean lower affordability. You’ll pay more toward mortgage interest and less toward the principal payment.
+
+When you see a great home come to market and you think it’s the one you really want, other people are probably thinking the same thing. You’ll probably find yourself up against multiple offers, so you want to come out strong.
+
+If you’re thinking about selling your house, you know that last year didn’t look good. Homes were on the market longer, prices were lower, and sellers had to make multiple price cuts to sell. Today, however, we’re seeing fewer days on market and sellers getting top dollar for their house.
+
+If you have any questions about our market or you’re thinking about buying or selling a home, give me a call or send me an email. I’d be glad to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+What%2527s+Happening+in+the+Mississippi+Gulf+Coast+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://bryandavidgroup.tv" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+David/Mississippi+Gulf+Coast+Real+Estate+Agent-+What%2527s+Happening+in+the+Mississippi+Gulf+Coast+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What's going on in the Mississippi gulf coast market? I've got a full breakdown of what you can expect this year whether you're buying or selling a home.</itunes:subtitle>
+        <itunes:author>Bryan David</itunes:author>
+        <itunes:summary>What's going on in the Mississippi gulf coast market? I've got a full breakdown of what you can expect this year whether you're buying or selling a home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Mississippi Gulf Coast, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Bryan David</copyright>
     <media:credit role="author">Bryan David</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Brian David Group - your professional Mississippi Gulf Coast Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Bryan David Group - your professional Mississippi Gulf Coast Real Estate Agents.</media:description>
   </channel>
 </rss>
