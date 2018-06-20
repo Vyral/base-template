@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bucks County Market Update for June 2018
-date: 2018-06-19 18:27:39
+date: 2018-06-19 18:27:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: aI58iY0Dg6c
+youtube_code: jhX8GZEz2T4
 ---
 
 {% include youtube.html %}
