@@ -3,6 +3,7 @@ layout: post
 title: 9 Silly Things That Could Make or Break Your Listing Success
 date:
 tags:
+  - Home Seller Tips
 excerpt: >-
   To make sure your home sale is a success, there are nine silly little errors
   you must avoid.
