@@ -18,10 +18,10 @@ client:
   brand: Bryan David Group
   brokerage: Keller Williams Realty
   address: '6819 Washington Ave, Suite F<br>Ocean Springs, MS 39564'
-  phone: (228) 215-1861
-  phone_type:
-  phone2:
-  phone2_type:
+  phone: 228-215-1861
+  phone_type: Direct
+  phone2: 228-275-7500
+  phone2_type: Office
   email: Bryan@BDGRealEstate.com
   url: 'http://coasthomesearch.com'
 CTAs:
