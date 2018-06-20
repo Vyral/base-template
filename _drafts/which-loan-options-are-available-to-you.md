@@ -17,7 +17,7 @@ youtube_code: NPq_fyDFfs4
 
 {% include youtube.html %}
 
-During the pre-qualification phase of the home buying process, there are four mortgage loan types that you can qualify for.
+<center>During the pre-qualification phase of the home buying process, there are four mortgage loan types that you can qualify for.</center>
 
 As a homebuyer, the first step you need to take in the home buying process is to talk to a lender so you can get pre-qualified. During this step, you’ll determine which type of mortgage loan you’re going to get, and there are four loans you can potentially qualify for.&nbsp;
 
