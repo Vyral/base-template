@@ -20,8 +20,6 @@ youtube_code: Zp0UF4g-4L0
 
 {% include youtube.html %}
 
-*\*This video contains a couple of statistical graphs to illustrate points about market value and number of visitor to the island which effects the vacation rental market. If those stats interest you, you might want to pause the video to look at the graphic.\**
-
 What lessons did we learn from 2007? There are five big ones which I am going to go over with you.
 
 **1. Do not buy a home that you cannot afford.** Many people felt the pressure of a brisk market from 2006 to 2008 and decided to buy for fear of being locked out. However, if they would have waited a few years, there would have been an opportunity for them.
