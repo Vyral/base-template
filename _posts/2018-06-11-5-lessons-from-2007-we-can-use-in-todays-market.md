@@ -20,7 +20,7 @@ youtube_code: Zp0UF4g-4L0
 
 {% include youtube.html %}
 
-*\*\*This video contains a couple of statistical graphs to illustrate points about market value and number of visitor to the island which effects the vacation rental market. If those stats interest you, you might want to pause the video to look at the graphic.\*\**
+*\*This video contains a couple of statistical graphs to illustrate points about market value and number of visitor to the island which effects the vacation rental market. If those stats interest you, you might want to pause the video to look at the graphic.\**
 
 What lessons did we learn from 2007? There are five big ones which I am going to go over with you.
 
