@@ -20,6 +20,8 @@ youtube_code: Zp0UF4g-4L0
 
 {% include youtube.html %}
 
+*\*\*This video contains a couple of statistical graphs to illustrate points about market value and number of visitor to the island which effects the vacation rental market. If those stats interest you, you might want to pause the video to look at the graphic.\*\**
+
 What lessons did we learn from 2007? There are five big ones which I am going to go over with you.
 
 **1. Do not buy a home that you cannot afford.** Many people felt the pressure of a brisk market from 2006 to 2008 and decided to buy for fear of being locked out. However, if they would have waited a few years, there would have been an opportunity for them.
@@ -28,7 +30,7 @@ Since many people buy homes on Kauai as second homes or vacation rentals, they h
 
 **2. Do not always believe that your home will go up in value.** Real estate markets are cyclical. If you look at the graph at 1:54, you will see that while the market has averaged an annual appreciation rate of over 5% in the last couple decades, you will see that that increase is not a straight line. Instead, the graph fluctuates. This trend is especially true of second home destination marketplaces.
 
-**3. Ensure that you have adequate reserves.** Financial experts tell us that we should always have six months of savings as liquid funds in case something happens economically to you specifically or globally. Here on the island, when the economy slows, so does the travel industry. This could cause a lot of problems for you if you are relying on vacation rental income to pay your mortgage.  
+**3. Ensure that you have adequate reserves.** Financial experts tell us that we should always have six months of savings as liquid funds in case something happens economically to you specifically or globally. Here on the island, when the economy slows, so does the travel industry. This could cause a lot of problems for you if you are relying on vacation rental income to pay your mortgage. &nbsp;
 
 {% include pullquote.html %}
 
