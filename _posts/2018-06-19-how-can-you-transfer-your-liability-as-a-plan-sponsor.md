@@ -29,7 +29,7 @@ The article is called “Making Sense of the Numbers” and it’s a simple arti
 
 **As a fiduciary, you are obligated to a duty of loyalty and a duty of prudence.** The article I mentioned above talks about your ability to transfer your liability.
 
-If you’re an individual fiduciary or as part of a committee, you do have the ability to transfer your liability in three specific ways. The (3) 16, a plan administrator transfer of fiduciary liability, the (3) 21 and the (3) 38. The (3) 38 is the Cadillac of fiduciaries, but each of these represents different things.
+If you’re an individual fiduciary or as part of a committee, you do have the ability to transfer your liability in three specific ways: the (3)16, a plan administrator transfer of fiduciary liability, the (3)21 and the (3)38. The (3)38 is the Cadillac of fiduciaries, but each of these represents different things.
 
 If you have any questions about any of these ways to transfer your liability or anything else related to being a plan sponsor or fiduciary, don’t hesitate to reach out and give me a call or send me an email.
 
