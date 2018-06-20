@@ -4,6 +4,7 @@ title: How it Works
 permalink: /how-it-works/
 ---
 <div class="text-20">
+<p class="orange">
 <h1>We'll Make Up to 1,000 Calls a Day to Generate Leads For You</h1>
 
 <h3>Done-For-You Outbound Teleprospecting</h3>
@@ -14,7 +15,7 @@ permalink: /how-it-works/
 
 <p>We make 100% DNC compliant phone calls. All client provided phone numbers are scrubbed against national and state DNC lists. Cell numbers are also called on a regular phone line (not using automated dialer technology) to comply with new national laws.</p>
 
-<p>Why hire 1000 Calls A Day vs. Hiring your own in-house VA directly?<p> 
+</p>Why hire 1000 Calls A Day vs. Hiring your own in-house VA directly?</p> 
 
 <p>Many of our clients have tried to hire in-house ISA’s or directly hire VA’s that are virtual.  This is an extremely time consuming, frustrating, and tedious process that is not the best use of your time.  Let us take this off of your plate once and for all!<p>
 
