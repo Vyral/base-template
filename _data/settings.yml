@@ -5,7 +5,8 @@ show_custom_links: true
 custom_links:
   - title: "Oggie's Direct Line: 602-362-8828"
     url: tel:602-362-8828
-
+  - title: Montly Raffle
+    url: /raffle/
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810160';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 client:

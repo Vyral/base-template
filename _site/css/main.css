@@ -2762,6 +2762,19 @@ form select {
 .newsletter {
   background: #211b22; }
 
+.raffle {
+  font-size: 20px; }
+
+.raffle-list {
+  list-style: none; }
+  .raffle-list li {
+    margin-left: 2rem;
+    font-size: 20px; }
+
+.subtitle {
+  font-weight: bold;
+  color: #EE7108; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
