@@ -19,13 +19,13 @@ permalink: /how-it-works/
 
 <p>Many of our clients have tried to hire in-house ISA’s or directly hire VA’s that are virtual.  This is an extremely time consuming, frustrating, and tedious process that is not the best use of your time.  Let us take this off of your plate once and for all!<p>
 
-<p>Is 1000 Calls A Day the right company for you?<p> 
+<p class="orange">Is 1000 Calls A Day the right company for you?</p> 
 
 <p>We are a great solution for experienced real estate teams, investors, and several other types of businesses.  We offer a great solution to the business owner who has hired ISA’s and OSA’s in the past and is sick and tired of managing this process.  If this is you, we can offer you a great solution that saves you time and money.<p>  
 
 <p>However, our program is usually not a great fit for single agents and smaller businesses who have never hired ISA’s and OSA’s. Here is a video that explains who we can help and how you can achieve a great ROI with our service!<p> 
 
-<p>We have the most comprehensive recruiting, testing, hiring, and training process in the industry and we can save you and your staff well over 200 hours! 
+<p class="orange">We have the most comprehensive recruiting, testing, hiring, and training process in the industry and we can save you and your staff well over 200 hours!</p>
 
 <p>As a business owner, we understand that there is nothing more frustrating than trying to find talent, investing hours of your valuable time into training them, and then seeing that talent not perform, or quit.  We take this entire risk completely off of your shoulders and we insure the callers performance!<p>
 
