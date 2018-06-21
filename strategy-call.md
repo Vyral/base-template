@@ -20,9 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>We are KW Sacramento and we sold over 1400 homes in 2017.</p>
+<p>We are The Dan Ellison Team and we sold 57 homes in 2017.</p>
 
 <p>We want to help you sell more homes.</p>
 
@@ -46,14 +44,13 @@ permalink: /strategy-call/
 
 <p>We also figure we’ll do business together someday and we would like to get to know you. We enjoy seeing real estate agents succeed. It’s fulfilling, and we love it.</p>
 
-<p><strong>We invite you to request a free one-on-one business strategy meeting with us.</strong> We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too.
-We have a questionnaire we would like you fill out so that when we meet so we're prepared to offer you specific advice. When you request a call, we’ll email it to you to complete before the meeting.</p>
+<p><strong>We invite you to request a free one-on-one business strategy meeting with us.</strong>​ We can meet for coffee, or even if it’s more convenient, a phone call or a video conference works, too. We have a questionnaire we would like you fill out so that when we meet so we're prepared to offer you specific advice. When you request a call, we’ll email it to you to complete before the meeting.</p>
 
 <p>Look forward to meeting with you. Let’s grow your business.</p>
 
 <p>Sincerely,</p>
 
-<p>KW Sacramento</p>
+<p>Dan Ellison</p>
 
 
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>

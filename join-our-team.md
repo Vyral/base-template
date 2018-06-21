@@ -16,37 +16,31 @@ permalink: /join-our-team/
 
 <p>Dear Frustrated Real Estate Agent,</p>
 
-<p>We understand that you may be frustrated right now with your current brokerage. Perhaps you feel as if you can’t figure out how to get a consistent flow of leads and listings in your business.  <strong>You may even feel as if you have no room to grow in your current situation, or as if you simply aren’t being paid up to your worth or getting the support you need.</strong></p>
+<p>We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you can’t figure out how to get a consistent flow of leads and listings in your business. <strong>You may even feel as if you have no room to grow in your current situation, or as if you simply aren’t being paid up to your worth or getting the support you need.</strong></p>
 
 <p>There’s a good chance you are already taking steps to solve your problems. Maybe you’re watching YouTube videos, looking for coaching and training, and trying to get a plan for the future put into place.</p>
 
-<p>If any of this sounds like you, you aren’t alone Still, staying on top of all of this can feel overwhelming. One of the biggest worries people have is about the money to pay for the classes, webinars, and masterminds that will be essential to your success as an agent.</p>
+<p>If any of this sounds like you, you aren’t alone. <strong>In fact, 87% of real estate agents fail within their first two years in the business.​</strong> They either run out of money or don’t have the support or structure needed to be successful in this business long term. An agent needs many things in order to be successful, including training, support, coaching with accountability, structure, and leads.</p>
 
-<p><strong>Going into real estate can feel either like the best or the worst career move you’ve ever made.</strong> So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent. Here’s our solution.</p>
+<p><strong>Going into real estate can feel either like the best or the worst career move you’ve ever made.</strong>​ So, how can you be sure that your real estate career won’t end in disaster? You join a quality team—one with the right resources, training, and culture to help you grow as an agent.</p>
 
-<p>A career with Keller Williams, the country's fastest growing real estate brokerage, can help you achieve this. We are looking for passionate, motivated individuals looking to begin a career with us. We have the coaching, training, and business-tracking programs to help you generate consistent business. We have successful, proven business plans and models that many other agents have followed on the path to great success. <strong>In fact, both of our offices are the #1 office in their respective markets.</strong></p>
+<p>With the proper tools, your real estate career can go from barely surviving to absolutely thriving. We have those tools here at The Dan Ellison Team. <strong>Over the last 5 years, we’ve consistently helped new agents sell over 24 homes their first year in the business.</strong></p>
 
-<p>Nobody has consistent training programs like ours. Nobody else has a support staff and a team culture like us either. We’ve got everything you need to start and/or strengthen a long and successful career.</p>
-
-<p><strong>Whether you are a new agent, an experienced one, or are just thinking of entering the world of real estate, we can help you. Keller Williams can give you access to a number of helpful tools and resources. These include:</strong>
-<ol class="numbered-list">
-<li>  Access to free and affordable training programs. These programs are designed to help agents at every level of skill and experience.</li>
-<li>  A launch coaching program (and a launch coach) to take you through your first five transactions from A to Z.</li>
-<li>  Productivity coaching for agents doing 5 to 10 deals per year in order to help them get to the next level of their career.</li>
-<li>  A turnkey database and CRM system, complete with marketing drips and business tracking software.</li>
-<li>  Coaching and leadership from some of the best and most productive real estate agents in the area at our market center.</li>
-<li>  The opportunity to be a part of our Keller Williams culture—helping agents grow even in times of need through Keller Williams Cares.</li>
+<p><strong>Whether you are a new agent, an experienced one, or are just thinking of entering the world of real estate, we can help you. The Dan Ellison Team can give you access to a number of helpful tools and resources. These include:</strong>
+<ol class="indent">
+<li>Support and training on all of our systems and tools</li>
+<li>Accountability Coach</li>
+<li>Established scripts and dialogs that work</li>
+<li>Buyer leads (Zillow, Google, Yelp, Sign Calls, etc.)</li>
+<li>Seller leads (Vulcan, Google)</li>
+<li>MOJO dialer</li>
 </ol></p>
 
-<p>You could also always try staying with your current brokerage and applying our Keller Williams concepts from scratch. But, why risk trying to replicate our success when you could simply join us? </p>
+<p>You could also always try staying in your current situation and applying our concepts from scratch. But, why risk trying to replicate our success when you could simply join us?</p>
 
-<p><strong>Here’s a little preview of what joining our team looks like:</strong></p>
+<p><strong>But, don’t just take my word for it.</strong> ​Here is what Ashley had to say: “​Joining the Dan Ellison Team was the catalyst in launching my career . The teamwork, training and processes in place set me up for success from the start. I learned how to set goals, track numbers and work with intention in every part of my business. Having the support system of the team made me feel confident in being able to go out and learn. Although it's never easy, the team made it simple and because of that I have been able to excel at a rapid pace.”</p>
 
-<p>First, we’ll set up a time to meet with you and interview, consult you on your specific business needs, and create an action plan to help you overcome those challenges. Then, we’ll match you up with a coach who will guide you to the next level and help you create a 1-year business plan and roadmap for you to refer to throughout your first year. </p>
-
-<p>If you respond right now, we will show you our 7-step system to closing 17 deals in your first year from open houses alone.</p>
-
-<p><strong>There is no better place than Keller Williams to grow as a business person and a leader.</strong> That’s a guarantee. We want you to see great personal and financial success with our team so that you won’t be back to bussing tables or working another dead-end job. </p>
+<p><strong>There is no better place than The Dan Ellison Team to grow as a business person and a leader.​</strong> That’s a guarantee. We want you to see great personal and financial success with our team so that you won’t be back to bussing tables or working another dead-end job.</p>
 
 <p>To take the first step in the right direction, give us a call or send us an email today.</p>
 
