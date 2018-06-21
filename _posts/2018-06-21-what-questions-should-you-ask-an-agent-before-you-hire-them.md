@@ -19,7 +19,9 @@ youtube_code: BsIWHOok-cs
 
 {% include youtube.html %}
 
-What should you ask an agent before hiring them to list and sell your home? Today let’s go over 10 crucial questions.
+<p style="text-align: center;"><em>What should you ask an agent before hiring them to list and sell your home? Today let’s go over 10 crucial questions.</em></p>
+
+<center>&nbsp;</center>
 
 Before you hire an agent to help you sell your home, **there are 10 critical questions you must ask them.**
 
