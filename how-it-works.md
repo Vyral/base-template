@@ -27,6 +27,7 @@ permalink: /how-it-works/
 <p>However, our program is usually not a great fit for single agents and smaller businesses who have never hired ISA’s and OSA’s. Here is a video that explains who we can help and how you can achieve a great ROI with our service!<p> 
 
 <p class="orange">We have the most comprehensive recruiting, testing, hiring, and training process in the industry and we can save you and your staff well over 200 hours!</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1AqWospwA8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p>As a business owner, we understand that there is nothing more frustrating than trying to find talent, investing hours of your valuable time into training them, and then seeing that talent not perform, or quit.  We take this entire risk completely off of your shoulders and we insure the callers performance!<p>
 
