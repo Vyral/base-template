@@ -17,7 +17,6 @@ youtube_alternate_image:
 youtube_code: OK4Wqsu1-bE
 ---
 
-
 {% include youtube.html %}
 
 Recently, I asked you to send me your questions about buying and selling real estate. Ale asked about the pros and cons of selling your current house before buying the next one. He also asked about doing a rent-back.
