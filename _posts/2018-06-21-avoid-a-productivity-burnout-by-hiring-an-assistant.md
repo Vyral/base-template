@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid a Productivity Burnout by Hiring an Assistant
-date:
+date: 2018-06-21 18:15:58
 tags:
   - Real Estate
 excerpt: What’s the secret to avoiding a productivity burnout? Hire an assistant.
@@ -19,7 +19,7 @@ youtube_code: kAUzVz8pP9A
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What’s the secret to avoiding a productivity burnout? Hire an assistant.</em></p>
+*What’s the secret to avoiding a productivity burnout? Hire an assistant.*
 
 <center>&nbsp;</center>
 
