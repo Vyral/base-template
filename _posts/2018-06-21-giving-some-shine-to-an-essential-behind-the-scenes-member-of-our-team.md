@@ -19,7 +19,9 @@ youtube_code: cd7I69VqkAw
 
 {% include youtube.html %}
 
-There are many people working behind-the-scenes on our team to ensure our clients are happy. We’re excited to introduce you to one of them today.
+<p style="text-align: center;"><em>There are many people working behind-the-scenes on our team to ensure our clients are happy. We’re excited to introduce you to one of them today.</em></p>
+
+<center>&nbsp;</center>
 
 Today I’d like to introduce you to an important member of our team that doesn’t always get the shine she deserves. Many of my clients have never met Brittany Perez, but at one point or another they've definitely worked with her &nbsp;**Brittany is our transaction coordinator, and she’s been with us for five years now.&nbsp;**
 
