@@ -29,6 +29,6 @@ Bill Kosche gives his testimonial today about Carbutti Real Estate. As a repeat 
 
 There were about 30 showings on his home in the first day and there were five offers. Bill's home ended up selling for $15,000 over his asking price. He says it was a good feeling to have a reward for the work that he put into preparing the home for sale.
 
-His advice for a first-time home seller is to go with a team that can get the job done. And, since houses sell quick in the area, make sure that you have someone that can handle the local area and help you prepare so you can get a better result.
+His advice for any first-time home seller is to go with a team that can get the job done. And, since houses sell quickly in the area, make sure that you have someone that can handle the local area and help you prepare so you can get a better result.
 
 If you are interested in speaking with me to help you have a success story like Bill's, please feel free to call or email me any time. I look forward to speaking with you soon.
