@@ -1481,7 +1481,7 @@ html[xmlns] .flexslider .slides {
 
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }
@@ -1520,6 +1520,11 @@ html[xmlns] .flexslider .slides {
 
 .navbar-left {
   margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
+  .navbar-right a {
+    font-weight: bold; }
 
 .nav-logo {
   float: left !important;
@@ -2763,7 +2768,7 @@ form select {
     width: 90%; } }
 .cta {
   background: transparent;
-  color: #123456;
+  color: #b40101;
   text-transform: capitalize;
   font-size: 2rem;
   font-weight: 300; }

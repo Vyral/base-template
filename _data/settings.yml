@@ -7,7 +7,10 @@ custom_links:
     url: /
   - title: Join Our Team
     url: /join-our-team/
-
+  - title: Free Strategy Call
+    url: /strategy-call/
+  - title: Newsletter
+    url: /subscribe/
 emma:
   lightbox:
   form: <iframe src="https://signup.e2ma.net/signup/1866282/1810059/" width="510" height="500" frameborder="0"></iframe>
@@ -20,7 +23,7 @@ client:
 
     With me by your side you can expect to get a skilled negotiator who is available when you have questions and who is resourceful with market knowledge and connections in the industry.
   market:
-  brand: The Dan Ellison Group
+  brand: The Dan Ellison Team
   brokerage: Keller Williams
   address: 2277 Fair Oaks Blvd. Ste 195<br>Sacramento, CA 95825
   phone: 916-252-6976
@@ -106,7 +109,7 @@ buttons:
   button_padding_height_number: 15
   button_border_color: '#ffffff'
   button_background_color: transparent
-  button_text_color: '#123456'
+  button_text_color: $brand
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
