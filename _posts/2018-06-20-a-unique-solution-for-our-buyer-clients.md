@@ -22,7 +22,7 @@ youtube_code: LPKvk2ZBenU
 
 Welcome back to another edition of “What’s Working Now.” Today I am going to conclude the story I began on the last episode about a couple of buyers who I was able to help find the perfect property for.
 
-**If you remember, I was originally showing my buyers a different property, but we wandered into another that we heard was coming on the market for sale.** I knew the agent and she was fine with us seeing it and showing it, but did absolutely not want us to write a contract because it was not on the market yet.
+**If you remember, I was originally showing my buyers a different property, but we wandered into another that we heard was coming on the market for sale.** I knew the agent and she was fine with us seeing it and showing it, but did absolutely not want us to write an offer because it was not on the market yet.
 
 {% include pullquote.html %}
 
