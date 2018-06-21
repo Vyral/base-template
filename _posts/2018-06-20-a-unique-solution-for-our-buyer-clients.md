@@ -38,6 +38,6 @@ Welcome back to another edition of “What’s Working Now.” Today I am going 
 
 If you have any questions for me about this success story or about how I can help you buy or sell a home if you are in a time crunch, please feel free to give me a call at [240-731-8079](tel:240-731-8079){: target="_blank"} or send me an email at [Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com). I look forward to hearing from you soon.
 
-<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p>&nbsp;</p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p></p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
 <div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
