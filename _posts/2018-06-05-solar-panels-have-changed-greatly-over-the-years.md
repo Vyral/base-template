@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Solar Panels Have Changed Greatly Over the Years
-date: 2018-06-05 17:47:00
+date: 2018-06-20 17:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -29,8 +29,8 @@ I just added a listing where the highest electric bill was $1.26 last year!
 
 Another improvement to solar is that **there are now “solar loans” to help pay for your panels.** Since Sunpower stands behind their panels for 25 years, you can get a loan for up to 20 years with nothing down. There are options for 10-, 15-, or 20-year loans to help you pay for your new solar panels.
 
-Of course, you can prepay as well, which makes your electricity free instantly.
+Of course, you can prepay as well, which makes your electricity practically instantly.
 
-If you choose to take out a loan, **your loan payment could be approximately what your electricity bill already is, so there will be no changes in your monthly expenses**. Some incentives in the Austin area may even drive the price lower, so you are saving immediately. And, when you make the last payment your electricity really is free.  
+If you choose to take out a loan, **your loan payment could be approximately what your electricity bill already is, so there will be no changes in your monthly expenses**. Some incentives in the Austin area may even drive the price lower, so you are saving immediately. And, when you make the last payment your electricity really is practically free.  
 
 If you have any questions about solar panels or would like more information, please feel free to reach out to Bruce by phone or email. Also, if you have any buying or selling questions for me, I would be happy to help you in any way that I can by phone or email.
