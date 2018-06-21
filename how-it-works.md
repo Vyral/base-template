@@ -31,6 +31,7 @@ permalink: /how-it-works/
 
 
 <p>As a business owner, we understand that there is nothing more frustrating than trying to find talent, investing hours of your valuable time into training them, and then seeing that talent not perform, or quit.  We take this entire risk completely off of your shoulders and we insure the callers performance!<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KgQ6uvDkOOg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">We advise you on how and where to purchase the best data, in order to get more leads and a better ROI!</p>
 
