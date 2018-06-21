@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/competing-with-cash-offers-youtube.jpg
+youtube_alternate_image: /uploads/competing-with-cash-offers-youtube-1.jpg
 youtube_code: zm_qJ3B9SmU
 ---
 
