@@ -33,7 +33,7 @@ Unfortunately, hitting this ceiling can turn into a productivity burnout. **Hiri
 </p></ul>
 <ul><p style="text-align: left;">2. Showing assistant. Having someone attend showings on your behalf gives you more time to prospect and focus on client-conversion activities.
 </p></ul>
-<br>I highly recommend you think about hiring one of these kinds of assistants, so that **you can keep your business and life in control as you grow as an agent.**
+I highly recommend you think about hiring one of these kinds of assistants, so that **you can keep your business and life in control as you grow as an agent.**
 
 {% include pullquote.html %}
 
