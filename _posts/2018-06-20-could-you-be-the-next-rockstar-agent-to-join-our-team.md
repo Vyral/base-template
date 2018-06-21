@@ -20,14 +20,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KPqgCUzkf78
+youtube_code: wXoHPa6wSik
 ---
 
 {% include youtube.html %}
 
-I recently sat down for an interview with one of our team’s rockstar agents, Jessica Wolleat, and I’d like to share some of what we spoke about with you today.&nbsp;
+I recently sat down for an interview with one of our team’s rockstar agents, Jessica Wolleat, and I’d like to share some of what we spoke about with you today. 
 
-Jessica was born and raised in Minnesota and has actually dreamed of a real estate career since she was a child. She was fascinated by homes and even grew up to get a degree in architecture from the University of Minnesota. All of this solidified her desire to get into the world of real estate. **Now she’s been working with our team for about two years and has absolutely loved it. &nbsp; &nbsp;**
+Jessica was born and raised in Minnesota and has actually dreamed of a real estate career since she was a child. She was fascinated by homes and even grew up to get a degree in architecture from the University of Minnesota. All of this solidified her desire to get into the world of real estate. **Now she’s been working with our team for about two years and has absolutely loved it.    **
 
 In particular, she loves the fast-paced environment. “Everything can change in the blink of an eye,” says Jessica. But it’s the clients, Jessica adds, that she really loves about this industry.
 
