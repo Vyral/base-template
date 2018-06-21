@@ -19,7 +19,7 @@ youtube_code: kAUzVz8pP9A
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What’s the secret to avoiding a productivity burnout? Hire an assistant.</em></p>
+*What’s the secret to avoiding a productivity burnout? Hire an assistant.*
 
 <center>&nbsp;</center>
 
