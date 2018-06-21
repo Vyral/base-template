@@ -22,7 +22,9 @@ youtube_code: qPrrIPrso7c
 
 {% include youtube.html %}
 
-If you are planning an open house, you should reconsider. Today I will explain the risks.
+<p style="text-align: center;"><em>If you are planning an open house, you should reconsider. Today I will explain the risks.</em></p>
+
+<center>&nbsp;</center>
 
 Today I want to talk to you about open houses. There are a lot of people who think open houses are the best thing ever. They think that they will get a lot of qualified people walking through their house on a Saturday and end up with offers on Sunday morning.&nbsp;
 
