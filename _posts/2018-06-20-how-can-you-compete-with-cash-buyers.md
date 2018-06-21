@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Compete With Cash Buyers?
-date: 2018-06-20 20:36:07
+date: 2018-06-20 20:36:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Valerie+Hunter-Kelly/+Videos/2018/June/Clarksville%252C+Tennessee+Real+Estate+Agent-+How+Can+You+Compete+With+Cash+Buyers%253F.mp4
 pullquote: >-
   When you are getting a mortgage, there are lots of things you can do to make
-  your offers just as attractive as that of a cash buyer.
+  your offer just as attractive as that of a cash buyer.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -41,6 +41,6 @@ A lot of agents crumble at the prospect of competing against cash buyers. Well, 
 
 **6. Your earnest money and terms**
 
-When you are getting a mortgage, there are lots of things you can do to make your offers just as attractive as that of a cash buyer. As long as you are proactive about getting your finances in order and have better terms (with fewer contingencies), we can write a better offer!
+When you are getting a mortgage, there are lots of things you can do to make your offer just as attractive as that of a cash buyer. As long as you are proactive about getting your finances in order and have better terms (with fewer contingencies), we can write a better offer!
 
-If you have questions about how to accomplish this, feel free to reach out to us. We have many agents you can help give you the competitive edge against other buyers, regardless of whether they are cash buyers or not.
+If you have questions about how to accomplish this, feel free to reach out to us. We have many agents who can help give you the competitive edge against other buyers, regardless of whether they are cash buyers or not.
