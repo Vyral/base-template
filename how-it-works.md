@@ -18,6 +18,7 @@ permalink: /how-it-works/
 <p class="orange">Why hire 1000 Calls A Day vs. Hiring your own in-house VA directly?</p> 
 
 <p>Many of our clients have tried to hire in-house ISA’s or directly hire VA’s that are virtual.  This is an extremely time consuming, frustrating, and tedious process that is not the best use of your time.  Let us take this off of your plate once and for all!<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RmA4dw_nOdU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">Is 1000 Calls A Day the right company for you?</p> 
 
