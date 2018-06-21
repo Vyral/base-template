@@ -22,9 +22,9 @@ youtube_code: 7YuTOi7sZ9k
 
 Today I want to address multiple offer situations and how you can handle them in a simple, direct, and ethical manner.
 
-**I feel a little bit of responsibility to address an issue that so many of us have found ourselves in this year as the market has picked up and listing agents are very frequently getting multiple offers on the same property.** How do you handle them in a way that is fair and ethical to all parties, while also representing the best interests of your sellers?
+**I feel it necessary to address an issue so many of us have found ourselves in this year. As the market has picked up, listing agents frequently get multiple offers on the same property.** How do you handle them in a way that is fair and ethical to all parties, while also representing the best interests of your sellers?
 
-The approach I recommend is very simple. When the first offer comes in, I coach sellers to treat that offer like it’s the only one they’ll ever get. Even if think you’re expecting another offer right away, it may never come. If you string along the initial buyer too long, you can lose them. Especially if they find out through their agent that you’re hoping to get another offer to play against them.
+The approach I recommend is very simple. When the first offer comes in, I coach sellers to treat that offer like it’s the only one they’ll ever get. Even if you think you’re expecting another offer right away, it may never come. If you string along the initial buyer too long, you can lose them. Especially if they find out through their agent that you’re hoping to get another offer to play against them.
 
 {% include pullquote.html %}
 
