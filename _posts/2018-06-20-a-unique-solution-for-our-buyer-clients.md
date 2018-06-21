@@ -34,4 +34,4 @@ Welcome back to another edition of “What’s Working Now.” Today I am going 
 
 **3. The ability to get our buyer’s house on the market quickly.** It was contingent on the sale of a house that was not actually ready to sell, so we got the stager, painter, cleaner, and movers together to prepare the home. Within three days, the house went on the market with an open house.
 
-If you have any questions for me about this success story or about how I can help you buy or sell a home if you are in a time crunch, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me about this success story or about how I can help you buy or sell a home if you are in a time crunch, please feel free to give me a call at [240-731-8079](tel:240-731-8079){: target="_blank"} or send me an email at [Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com). I look forward to hearing from you soon.
