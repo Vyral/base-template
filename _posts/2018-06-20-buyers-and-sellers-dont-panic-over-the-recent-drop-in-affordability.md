@@ -25,7 +25,7 @@ youtube_code: pkXsc0G6Q5U
 
 <center>&nbsp;</center>
 
-Welcome back to the Phoenix & Scottsdale Real Estate Show. On today’s episode, we’ll discuss a critical question: <strong>“What does the current drop in home affordability mean for you?"</strong>"
+Welcome back to the Phoenix & Scottsdale Real Estate Show. On today’s episode, we’ll discuss a critical question: <strong>“What does the current drop in home affordability mean for you?"</strong>
 
 First, it’s important to know that home affordability is defined by the size of the monthly mortgage payment needed to buy a home.&nbsp;
 
