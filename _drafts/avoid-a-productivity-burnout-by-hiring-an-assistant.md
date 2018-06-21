@@ -19,7 +19,9 @@ youtube_code: kAUzVz8pP9A
 
 {% include youtube.html %}
 
-What’s the secret to avoiding a productivity burnout? Hire an assistant.
+<p style="text-align: center;"><em>What’s the secret to avoiding a productivity burnout? Hire an assistant.</em></p>
+
+<center>&nbsp;</center>
 
 What’s the fastest way to go from 25 to 75 transactions and still have a life outside of your career as an agent?
 
@@ -27,9 +29,9 @@ The answer is: Hire an assistant. In South/Central Pennsylvania, agents tend to 
 
 Unfortunately, hitting this ceiling can turn into a productivity burnout. **Hiring an assistant can help you avoid this.** Doing so will free up your schedule so that you can produce more business and also enjoy more time off. There are two types of assistants you can hire:
 
-Administrative assistant. This is someone you can hire part-time or full-time to take administrative tasks off your plate.
+1. Administrative assistant. This is someone you can hire part-time or full-time to take administrative tasks off your plate.
 
-Showing assistant. Having someone attend showings on your behalf gives you more time to prospect and focus on client-conversion activities.
+2. Showing assistant. Having someone attend showings on your behalf gives you more time to prospect and focus on client-conversion activities.
 
 <br>I highly recommend you think about hiring one of these kinds of assistants, so that **you can keep your business and life in control as you grow as an agent.**
 
