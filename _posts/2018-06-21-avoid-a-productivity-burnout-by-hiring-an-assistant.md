@@ -29,10 +29,10 @@ The answer is: Hire an assistant. In South/Central Pennsylvania, agents tend to 
 
 Unfortunately, hitting this ceiling can turn into a productivity burnout. **Hiring an assistant can help you avoid this.** Doing so will free up your schedule so that you can produce more business and also enjoy more time off. There are two types of assistants you can hire:
 
-<ul>1. Administrative assistant. This is someone you can hire part-time or full-time to take administrative tasks off your plate.
-</ul>
-<ul>2. Showing assistant. Having someone attend showings on your behalf gives you more time to prospect and focus on client-conversion activities.
-</ul>
+<ul><p style="text-align: left;">1. Administrative assistant. This is someone you can hire part-time or full-time to take administrative tasks off your plate.
+</p></ul>
+<ul><p style="text-align: left;">2. Showing assistant. Having someone attend showings on your behalf gives you more time to prospect and focus on client-conversion activities.
+</p></ul>
 <br>I highly recommend you think about hiring one of these kinds of assistants, so that **you can keep your business and life in control as you grow as an agent.**
 
 {% include pullquote.html %}
