@@ -21,7 +21,7 @@ youtube_code: xnNEdc6dHAI
 
 For this second part of my series on the seven components of a good business plan, I want to discuss the SWOT analysis.
 
-There are many downloads online for a SWOT analysis. They are fun to do and provide you with the ability to break down your internal and external positives and negatives.
+There are many online SWOT analysis forms that you can download. They are fun to do and provide you with the ability to break down your internal and external positives and negatives.
 
 Internally in your company, there are strengths (S) and weaknesses (W). Meanwhile, external aspects are your opportunities (O) and threats (T).
 
