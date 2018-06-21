@@ -8,10 +8,10 @@ excerpt: >-
   Today I am joined by Michael Lwin of Nona Title to discuss FIRPTA and how it
   affects foreign buyers and sellers in our Orlando market. First, what is
   FIRPTA? FIRPTA stands for the Foreign Investment in Real Property Tax Act.
-  What it is, essentially, is a withholding amount that is applied to a
-  transaction when a foreign investor wants to sell a property that they have
-  purchased here in the U.S. to learn more about FIRPTA and how it affects you,
-  watch my latest video.
+  Essentially, FIRPTA stipulates that when a foreign investor sells a property
+  they've previously purchased within the United States, a portion of realized
+  gains from the transaction is to be withheld and sent to the IRS. To learn
+  more about FIRPTA and how it may affect you, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/Videos/2018/The+Dee+Team-+FIRPTA.mp4
 pullquote: >-
@@ -38,7 +38,7 @@ For example, if you sell a property for $100,000, the IRS will withhold $15,000 
 
 Most title companies bring in a third-party company to handle FIRPTA because the money has to be withheld from the closing and sent to the IRS within 20 days. If the property the foreign investor is selling is being used as a primary residence, then the FIRPTA regulations can be bypassed.&nbsp;
 
-**If you would like to know more about the rules and regulations of FIRPTA, click on [this link](https://www.irs.gov/individuals/international-taxpayers/firpta-withholding){: target="_blank"} and it will take you to the IRS’ own website.**
+**If you would like to know more about the rules and regulations of FIRPTA, click on [this link](https://www.irs.gov/individuals/international-taxpayers/firpta-withholding){: target="_blank"}.**
 
 If you have any title questions for Mike, you can give him a call at (407) 556-3798 or visit **[www.nonatitle.com](http://www.nonatitle.com){: target="_blank"}**.&nbsp;
 
