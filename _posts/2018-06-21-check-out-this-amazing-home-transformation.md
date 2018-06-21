@@ -21,7 +21,7 @@ youtube_code: i6ZYNd8gkAU
 
 {% include youtube.html %}
 
-You may remember the fixer-upper home we showed you just a few months back. Well, today, we’re back to show you an updated look at this property.&nbsp;
+You may remember the fixer-upper home we showed you just a few months back. Well, today, we’re back to show you an updated look at this property. **[Click here](https://my.matterport.com/show/?m=AmHRGsaxxWp&amp;brand=0)** to take a 3-D tour of the house.
 
 We ran into a few unexpected hurdles along the way while fixing up this home, but a few months and $135,000 in renovation costs later, the property is virtually unrecognizable.&nbsp;
 
