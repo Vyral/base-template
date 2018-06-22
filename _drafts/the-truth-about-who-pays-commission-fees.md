@@ -3,19 +3,20 @@ layout: post
 title: The Truth About Who Pays Commission Fees
 date: 2018-05-31 12:00:00
 tags:
-  - Home Buyer Tips
+  - Real Estate
 excerpt: >-
-  Many of today’s homebuyers have been struck by a common affliction: analysis
-  paralysis. I’ve worked with many buyers who, after finding a great home,
-  become nervous about proceeding with the transaction. So today I’d like to get
-  to the bottom of an important question: Should you wait? Should you hesitate
-  when making your home purchase? To find out, watch this short video.
+  Who is responsible for paying the listing agent’s commission fees in a real
+  estate transaction? What about the buyer agent’s? The answer might surprise
+  you. The truth is that both of these commission fees are paid by one party. So
+  does this responsible fall on the buyer or the seller? To find out, watch this
+  short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Shawneequa+Badger/Videos/The+Badger+Real+Estate+Group-+Should+You+Wait+to+Make+Your+Home+Purchase%253F.mp4
-pullquote: Hesitation could mean losing out on your dream home.
+  https://s3.amazonaws.com/vyralmarketing/Shawneequa+Badger/Videos/The+Badger+Real+Estate+Group-+Commission.mp4
+pullquote: Agents aren’t paid until the deal is closed and the buyer has their keys.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Wae6YeOyaQk
+youtube_code: dbOXjSQoODs
 ---
+
