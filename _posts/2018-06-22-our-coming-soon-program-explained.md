@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Coming Soon Program Explained
-date: 2018-06-22 15:57:49
+date: 2018-06-22 15:57:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,8 +14,9 @@ pullquote: >-
   showings which results in multiple offers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/davefriedman-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
 youtube_code: Yu8Kg8kdxEc
 ---
 
@@ -38,5 +39,3 @@ Our client development team also helps by making phone calls. They call up and d
 Finally, **we advertise for a mega open house.** For the very first few days that you are on the market, we will do this and drive a ton of attention to it. Once it is on the market and people interested see others looking at it, there is a sense of urgency and excitement. As a result of this, you will get multiple offers, and we will be able to get you under contract within seven days with 100% of the asking price.
 
 If you have any additional questions about our coming coon program or are interested in buying or selling, please feel free to contact me. I look forward to hearing from you soon.
-
-&nbsp;
