@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What 4 Tips Will Help You Sell Your Home for More Than Its Asking Price?
-date: 2018-06-06 17:23:57
+date: 2018-06-21 17:23:57
 tags:
   - Real Estate
 excerpt: >-
