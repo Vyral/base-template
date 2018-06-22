@@ -30,4 +30,4 @@ You may think that your house is ready to go on the market as-is, but little thi
 
 **3. Cords hanging from a mounted TV.** Do not be surprised if a potential buyer’s eyes go straight to the dangling cords as they walk in. At that point, they’re going to wonder why you did not take the extra steps to hide those cords.
 
-If you have any additional questions, please feel free to contact me. And, if you are thinking of selling your home, please call or email anytime. I would be happy to start help.
+If you have any additional questions, please feel free to contact me. And, if you are thinking of selling your home, please call or email anytime. I would be happy to help.
