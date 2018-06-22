@@ -32,6 +32,6 @@ One thing in particular I love to share about EIS is anyone is welcome there. **
 
 EIS relies on the generosity of donors and the Tulsa community at large, so if you’d like to help them in their mission, they always welcome financial donations. They also accept diapers, wipes, car seats, strollers, and anything else a family with a young child might need.&nbsp;
 
-**If you’d like to get in touch with EIS or you’d like more information on how to donate, you can visit their website at www.EISTulsa.org.&nbsp;**
+**If you’d like to get in touch with EIS or you’d like more information on how to donate, you can visit their website at [www.EISTulsa.org.](https://www.eistulsa.org/){: target="_blank"}&nbsp;**
 
 As always, if you have any questions for me or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
