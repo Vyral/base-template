@@ -19,7 +19,9 @@ youtube_code: sIxMbYGm6Uk
 
 {% include youtube.html %}
 
-Our instant offer program is not a joke. Here’s how it works and how it could benefit plenty of homeowners.
+<p style="Text-align: center;"><em>Our instant offer program is not a joke. Here’s how it works and how it could benefit plenty of homeowners.</em></p>
+
+<center>&nbsp;</center>
 
 Today we’re answering a question about our instant offers program. Over the last several years, I’m sure you’ve heard about this program on the radio over the last few years. A lot of people wonder if it’s real. It definitely is.
 
