@@ -19,20 +19,22 @@ youtube_code: XsuZSruLMo0
 
 {% include youtube.html %}
 
-One of the things most real estate investors ask when they come to us about financing is, “Can I put the property in some kind of entity, like an LLC, before or after closing?” 
+Recently, Fannie Mae enacted a few changes in regards to transferring the ownership of investment properties into entities such as an LLC. You may remember the recent video I filmed on this topic, but, of course, things have changed again. This time, there are essentially three points you need to know.
 
-Unfortunately, most residential lenders follow Fannie Mae or Freddie Mac underwriting and servicing guidelines. One of the things Fannie Mae has clarified as recently as November of 2014 is that **no borrower can transfer part or all of the ownership interest of a property into an entity post-closing without violating the dual sales clause**.
+The loan must have been securitized[1]&nbsp; by June 1, 2016. This means you must have closed on or after this date in order to carry out this kind of transfer in ownership.
 
-So the answer to this question is, unfortunately, no.
+The LLC must be in good standing with the state.
 
-If you want to purchase a property in the name of an LLC or in an individual’s name and transfer it into an LLC, that is actually a commercial loan. That is not something that a traditional residential lender can assist with.
+You must be the majority owner of the LLC.
+
+This recent change is actually very positive. A lot of my investor clients have taken advantage of it already.
+
+I would've assumed the correct word would be "secured" but apparently not. google says this is a real word in the lending industry. you learn something new every day.
 
 {% include pullquote.html %}
 
-**We do have an outlet that can help you with a commercial loan**. We will just need to ask you some questions ahead of time to determine your real estate goals so that we can properly tailor this for you.
+If you or someone you know is thinking of investing in real estate, please think of us at Guardian Mortgage. We have a lot of experience and offer several loan programs. We would love to help guide you.&nbsp;
 
-To learn more, visit: [http://www.fanniemae.com](http://www.fanniemae.com)
+To learn more, visit:&nbsp;[http://www.fanniemae.com](http://www.fanniemae.com)
 
-If you know of anyone looking to add to their investment portfolio this year, introduce us to them. We are happy to chat with them about what the requirements are so that they are in the best possible position to make that offer on the investment property.
-
-As always, if you have any other questions, just give us a call or send us an email. We look forward to talking with you.
+And, of course, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
