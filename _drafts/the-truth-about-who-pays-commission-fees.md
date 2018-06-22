@@ -20,3 +20,14 @@ youtube_alternate_image:
 youtube_code: dbOXjSQoODs
 ---
 
+{% include youtube.html %}
+
+Who pays a real estate agent’s commission fee? Let’s take a moment to explore this commonly asked question today.
+
+Actually, the seller is responsible for paying commission fees for both agents involved in a transaction. At the close of escrow, buyers are not responsible for any expenses associated with agent commission. **This is one excellent reason buyers should always bring an agent to the table.**
+
+{% include pullquote.html %}
+
+It doesn’t cost you anything out-of-pocket to have an agent on your side, as your agent’s fee will be paid from the seller’s net proceeds. So **why not make sure that you have a professional working on your behalf?** Agents aren’t paid until the deal is closed and the buyer has their keys.&nbsp;
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
