@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About Investment Properties and LLCs
-date: 2018-06-20 17:02:00
+date: 2018-06-21 17:02:00
 tags:
   - Real Estate
 excerpt: >-
