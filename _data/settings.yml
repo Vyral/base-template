@@ -1,18 +1,18 @@
 audit_header: false
-title: Elite Home Team
+title: The Jarnagin Team
 description: >-
   If you are looking to buy or sell a home, get all the information and the
-  latest updates, tips, and tricks from Elite Home Team - your professional Real
+  latest updates, tips, and tricks from The Jarnagin Team - your professional Real
   Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
 client:
-  name: Elite Home Team
+  name: The Jarnagin Team
   license_number:
   about_markdown: >
-    The Elite Home Team is a powerhouse team made up of top agents and an
+    The The Jarnagin Team is a powerhouse team made up of top agents and an
     excellent office staff. The team was put together to offer clients a real
     estate experience that exceed expectations backed by a guarantee. With
     individualized buyers' agents and sellers’ agents we can offer additional
@@ -24,14 +24,14 @@ client:
     results. We're always here to answer any questions you may have about buying
     a new home or selling your current one!
   market: Denver
-  brand:
-  brokerage: Your Castle Real Estate
+  brand: Your Castle Real Estate
+  brokerage:
   address: 9090 S Ridgeline Blvd 110 Highlands Ranch CO 80129
   phone: 720-515-1738
   phone_type:
   phone2:
   phone2_type:
-  email: elitehometeam@outlook.com
+  email: JarnaginTeam@live.com
   url: 'http://www.letsgohousehunting.com'
 CTAs:
   first_CTA_text: Home Valuation
@@ -67,7 +67,7 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
-    Our mission at Elite Home Team is to be your best resource for real estate
+    Our mission at The Jarnagin Team is to be your best resource for real estate
     advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
@@ -110,7 +110,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
+  logo_width_number: 40
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#2f1747'
   hero_image_path: /img/background.jpg
