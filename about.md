@@ -3,7 +3,13 @@ layout: default
 title: About
 permalink: /about/
 ---
+<div class="about-page">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse fermentum tellus eget nisl rutrum, ac lobortis sapien bibendum. Vestibulum et purus magna. Cras imperdiet eros massa, eu volutpat ante tempus in. Vivamus congue facilisis venenatis. Donec eros augue, dignissim in ante sit amet, lobortis vestibulum diam. Donec dictum lorem facilisis tincidunt cursus. Phasellus vel eros nibh. Nullam blandit nunc tincidunt est gravida faucibus. Donec ut semper diam, non lacinia libero. Aliquam in massa quam. Nullam vitae quam arcu. Proin tincidunt consectetur nunc vel sagittis. Nulla non feugiat nibh, sed laoreet justo.
 
-Vivamus porttitor dolor ut augue condimentum ultricies. Etiam vel orci pretium, tempus nunc eget, suscipit tellus. Phasellus nibh nunc, suscipit vitae sem in, tincidunt vulputate enim. Vestibulum consectetur nulla at ligula malesuada condimentum. Vestibulum sed dui vulputate, aliquet ipsum posuere, consequat est. Sed at nisl tempor, dictum tellus ac, placerat velit. Donec in malesuada nisi. Nam tincidunt nunc mollis dolor ultricies, ut ultricies leo porttitor.
+<p>Throughout her 17 year real estate career, Jennie Wolek has learned the importance of creating leverage with people, systems and tools.  By discovering her mission—to empower others to live a focused, purposeful life—Jennie has a new found enthusiasm for building relationships, both in her community and with real estate agents. She enjoys expanding her team to help more families and give back to her local community by supporting small businesses, promoting and donating to non-profits.  Jennie also loves adding value to other agents through her Your Journey with Jennie blog and by traveling to fun destinations for in-person training! </p>
+
+<p>Last year Jennie and The Wolek Group helped 109 families, generated and shared over 100 referrals and donated more than $20,000 to deserving local and national charities. She created a class and trained Magnify Your Mission across the country, launched TWG Rock Stars program, and established the non-profit, Keys to the City. With even bigger goals this year, Jennie and The Wolek Group will Help More, Give Back, Live Large, and Have Fun!</p>
+</div>
+<div>
+<img src="/img/011.jpg" class="post-image">
+</div>

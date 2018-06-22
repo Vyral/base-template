@@ -1459,7 +1459,7 @@ html[xmlns] .flexslider .slides {
   background: transparent;
   color: black;
   text-transform: capitalize;
-  font-size: 2rem;
+  font-size: 18px;
   font-weight: 300; }
   .navbar-left > li > a:hover {
     background: #eeeeee;
@@ -1472,6 +1472,9 @@ html[xmlns] .flexslider .slides {
   .navbar-left > li > a:focus {
     text-decoration: none;
     color: #15355B; }
+
+.nav > li > a {
+  padding: 10px; }
 
 .navbar-right > li > a {
   background: transparent;
@@ -1516,15 +1519,8 @@ html[xmlns] .flexslider .slides {
 
   .navbar-header a.navbar-brand {
     width: 0;
-    overflow: hidden;
     display: none;
     opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #B01F25;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
-
 .navbar-andross-bottom {
   background: #B01F25;
   color: #fff;
@@ -2439,6 +2435,9 @@ table tr, table td {
     display: -ms-flexbox;
     display: flex; }
 
+.about-page {
+  font-size: 20px; }
+
 .about-text {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -2771,13 +2770,11 @@ form select {
   margin: 0 auto; }
 
 .client-testimonial {
-  margin-top: 10px; }
-
-.testimonial-text {
-  font-style: italic; }
+  margin-top: 10px;
+  font-size: 20px; }
 
 .testimonial-author {
-  color: #b40101;
+  color: #B01F25;
   margin-top: -20px; }
 
 .recruiting {

@@ -6,13 +6,15 @@ custom_links:
   - title: Apply Here!
     url: /apply/
   - title: About
-    url: https://www.thewolekgroup.com/meet-the-team/
+    url: /about/
   - title: Events
     url: https://www.eventbrite.com/o/jennie-wolek-the-wolek-group-keller-williams-realty-advantage-17487334418
-  - title: Join Our Team
-    url: /join-our-team/
   - title: Sign Up Now
     url: /subscribe/
+  - title: Join My Facebook Group!
+    url: https://www.facebook.com/groups/yourjourneywithJennie/
+  - title: testimonials
+    url: /testimonials/
 emma:
   lightbox:
   form:

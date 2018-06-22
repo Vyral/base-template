@@ -86,9 +86,6 @@
 <loc>http://yourjourneywithjennie.com/apply/</loc>
 </url>
 <url>
-<loc>http://yourjourneywithjennie.com/client-testimonials/</loc>
-</url>
-<url>
 <loc>http://yourjourneywithjennie.com/contact/</loc>
 </url>
 <url>
@@ -105,6 +102,12 @@
 </url>
 <url>
 <loc>http://yourjourneywithjennie.com/sign-up/</loc>
+</url>
+<url>
+<loc>http://yourjourneywithjennie.com/subscribe/</loc>
+</url>
+<url>
+<loc>http://yourjourneywithjennie.com/testimonials/</loc>
 </url>
 <url>
 <loc>http://yourjourneywithjennie.com/thankyou/</loc>
