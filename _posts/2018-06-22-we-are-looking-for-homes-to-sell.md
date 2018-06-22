@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Looking for Homes to Sell
-date: 2018-06-22 16:13:26
+date: 2018-06-22 16:13:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-low-inventory-youtube.jpg
-youtube_code: 'https://www.youtube.com/embed/ayzba1I0UvQ'
+youtube_code: ayzba1I0UvQ
 ---
 
 {% include youtube.html %}
