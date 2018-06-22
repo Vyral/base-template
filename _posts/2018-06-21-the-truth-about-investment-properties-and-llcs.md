@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: 'If you want to put the property in an LLC, you will need a commercial loan.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/no-11.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: XsuZSruLMo0
 ---
 
