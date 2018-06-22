@@ -31,8 +31,6 @@ Recently, Fannie Mae enacted a few changes in regards to transferring the owners
 
 This recent change is actually very positive. A lot of my investor clients have taken advantage of it already.
 
-I would've assumed the correct word would be "secured" but apparently not. google says this is a real word in the lending industry. you learn something new every day.
-
 {% include pullquote.html %}
 
 If you or someone you know is thinking of investing in real estate, please think of us at Guardian Mortgage. We have a lot of experience and offer several loan programs. We would love to help guide you.&nbsp;
