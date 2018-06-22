@@ -25,7 +25,7 @@ youtube_code: kAUzVz8pP9A
 
 What’s the fastest way to go from 25 to 75 transactions and still have a life outside of your career as an agent?
 
-The answer is: Hire an assistant. In South/Central Pennsylvania, agents tend to hit a productivity ceiling when they reach about 25 transactions. Even if they have systems and technology in place to make their work easier, they may still become overwhelmed at this point.
+The answer is: Hire an assistant. In South/Central Pennsylvania, agents tend to hit a productivity ceiling when they reach about 25 transactions. Even if they have the systems and technology in place to make their work easier, they may still become overwhelmed at this point.
 
 Unfortunately, hitting this ceiling can turn into a productivity burnout. **Hiring an assistant can help you avoid this.** Doing so will free up your schedule so that you can produce more business and also enjoy more time off. There are two types of assistants you can hire:
 
