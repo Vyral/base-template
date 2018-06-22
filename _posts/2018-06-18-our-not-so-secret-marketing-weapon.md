@@ -31,7 +31,7 @@ What is our secret weapon for marketing? Our “Coming Soon” program, of cours
 
 Although it is not really a secret, this program helps us make sure that your house gets maximum exposure before it even goes on the market.
 
-An example of this is a property we recently had in Tracy. The seller was not quite ready to list, but since we knew that the house was at a prominent price point, **we wanted to create a momentum build up**. That is why we listed it as “Coming Soon” and marketed it as such.
+An example of this is a property we recently had in Tracy. The seller was not quite ready to list, but since we knew that the house was at a prominent price point, **we wanted to create a momentum buildup**. That is why we listed it as “Coming Soon” and marketed it as such.
 
 By the time we put the open house sign out two weeks later, we had people lined up at the door to get into the house. We ended up getting seven offers on the property with a maximum dollar amount. The seller was thrilled with the end result.
 
