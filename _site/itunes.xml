@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Vallee Real Estate Group Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Colemere Realty and Associates Real Estate Podcast</title>
+    <link>http://colemererealtyvideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://colemererealtyvideoblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Bryan Colemere</managingEditor>
-    <lastBuildDate>2016-11-07 11:41:08 -0600</lastBuildDate>
+    <lastBuildDate>2018-06-22 11:45:28 -0500</lastBuildDate>
     <media:copyright>Bryan Colemere</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <media:thumbnail url="http://colemererealtyvideoblog.com/img/colemere_podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,1260 @@
     </itunes:owner>
     <itunes:author>Bryan Colemere</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="http://colemererealtyvideoblog.com/img/colemere_podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/what-is-the-current-state-of-the-portland-market.html</link>
+        <title>The Fatal Flaw in Zillow’s Design</title>
+        <link>http://colemererealtyvideoblog.com/the-fatal-flaw-in-zillows-design.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Buying</category>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Home Selling</category>
+        
+          <category>Zillow</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-06-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Fatal+Flaw+in+Zillows+Design.mp4</guid>
+        <description>
+
+Zillow is one of the most popular real estate websites online today, but that doesn&rsquo;t mean that it can replace the knowledge and experience of an agent. Here&rsquo;s what you should know.
+
+ 
+
+Why shouldn’t you trust Zillow to help you find your next home?
+
+Utah is a non-disclosure state, meaning we’re one of the very few states that disclose private sales of real estate. As such, Zillow has a hard time identifying the true value of a property. Also,  there are many things to consider when it comes to valuing a home, and only some of which are…
+
+Zillow also doesn’t show 100% of what is available on the MLS; oftentimes, they’ll show homes that aren’t even on the market anymore. Many brokerages opt out of the Zillow feed, so you’re not getting the full scope of what’s actually on the market.
+
+“You wouldn’t go on WebMD to diagnose your illness, would you? Of course not; you’d go to the doctor.”
+
+Furthermore, Zillow cannot replace the range of services that actual agents can provide. As Realtors, we can give you an accurate view of your home not only in terms of value, but we can also give you a full diagnosis, including how to best position your home to maximize its value in the market. You wouldn’t go on WebMD to diagnose your illness, would you? Of course not; you’d go to the doctor.
+
+So many times over the years a client has come to me saying that Zillow has valued their home a particular way. We’ve actually been able to increase home values because we have the complete picture—full data and professional experience—to back that up.
+
+If you have any questions or would like additional information, please reach out to us. We’d be glad to help you with any of your real estate needs.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Fatal+Flaw+in+Zillows+Design.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Fatal+Flaw+in+Zillows+Design.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Affordability Index and What It Means to You</title>
+        <link>http://colemererealtyvideoblog.com/the-affordability-index-and-what-it-means-to-you.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Buying</category>
+        
+          <category>Salt Lake City</category>
+        
+          <category>Utah</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-05-30 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Affordability+Index+and+What+It+Means+to+You.mp4</guid>
+        <description>
+
+News reports have said that the affordability index is dropping, but what does this mean to you?
+
+ 
+
+There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have.
+
+You may have heard that the affordability index is dropping. The affordability index is a number that is measured by mortgage rates, interest rates, and pricing. The news has reported that this index has dropped by about 5%.
+
+As a consequence, buyers in the market are now worried that their budgets will be stretched. But there is no reason to be overly concerned. We are nowhere near historic lows in terms of affordability, though we will continue to see the affordability rate drop from about 15% to 20% by year’s end.
+
+So, what does this mean to you? If you are a seller, now is the time to prepare your home and get it on the market.
+
+“The affordability index is a number which is measured by mortgage interest rates and pricing.”
+
+If you are a buyer who is ready to buy, why wait any longer? There should not be any excuse because waiting until next year hoping that prices come down will be a disappointment. Prices will not come down because of the market. Now is the best time.
+
+The key is to reach out to us right away if you would like to discuss your buying and selling plans. We would love to help you succeed.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Affordability+Index+and+What+It+Means+to+You.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Affordability+Index+and+What+It+Means+to+You.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>News reports have said that the affordability index is dropping, but what does this mean to you?</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>News reports have said that the affordability index is dropping, but what does this mean to you?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should Buyers Do to Succeed in Today's Market?</title>
+        <link>http://colemererealtyvideoblog.com/what-should-buyers-do-to-succeed-in-todays-market.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Buying</category>
+        
+          <category>Salt Lake City</category>
+        
+          <category>Utah</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-05-17 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4</guid>
+        <description>
+
+The spring selling season is well underway, but where does this leave buyers in our market? Let&rsquo;s discuss this important question today.
+
+ 
+
+Back in January, we predicted that our market was about to heat up. Well, now that we are further into the year, it has become clear that these projections have come true.
+
+We are well into the thick of the spring selling season, with homes today spending an average of just 11 days on the market.
+
+So, what does this mean for buyers? The first thing we would like to say is, do not panic. There are plenty of available resources out there to help you achieve your real estate goals and find the right home for your wants and needs.
+
+“In today’s market, where prices are rising, demand is high, and inventory remains at historic lows, so it is critical to have a great agent working on your side.”
+
+One of your most valuable resources will be professional help. And we would be happy to serve that function for you. During our 65 years of business, our team has worked hard to build a strong reputation in the industry.
+
+In today’s market, where prices are rising, demand is high, and inventory remains at historic lows, so it is critical to have a great agent working on your side. So, please reach out and allow us to show you how we can assist you.
+
+If you have any other questions, would like more information, or are interested in working with us to achieve your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Colemere Realty Is Hiring Agents</title>
+        <link>http://colemererealtyvideoblog.com/colemere-realty-is-hiring-agents.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>recruiting</category>
+        
+          <category>Salt Lake City</category>
+        
+          <category>Utah</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-04-17 00:00:00 -0500</pubDate>
+        <guid>https://goo.gl/pd3uSL</guid>
+        <description>
+
+Looking to Buy a Home? Search All Homes
+
+Looking to Sell a Home? Get a Home Value Report
+
+&nbsp;
+
+A lot of you may not have heard about who we are, but Colemere Realty is the oldest real estate company in the Salt Lake Valley.
+
+Both Bryan and I are third-generation Realtors. Our grandfather started Colemere Realty back in 1953, so we’re excited to share our story of who we are and what exciting things we have to bring to the real estate industry.
+
+Even though we’re the oldest brokerage in the state, you may not have heard of us because we were heads-down, highly effective agents, working hard to produce for ourselves. Back in 2015, Bryan and I purchased the business from our parents, who retired, and we realized that we had a great system and we wanted to bring that to other agents. We also wanted to shift and have a team focus so that not only could Realtors produce at a super high level, but they could also have a life.
+
+“We want to build an awesome team of highly motivated agents.”
+
+We want to build an awesome team of highly motivated agents who are productive and have a team to back them up. We’re looking for great agents who want to be a part of a great culture with solid ethics founded in high levels of production, but who also want to build their own lives.
+
+If you want to get something more out of your business and still have a life, please feel free to reach out to us. We look forward to hearing from you.
+</description>
+        <enclosure url="https://goo.gl/pd3uSL" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://goo.gl/pd3uSL" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re looking to expand our team with highly motivated agents. Are you interested?</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>We’re looking to expand our team with highly motivated agents. Are you interested?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Pros and Cons of Buying and Renting</title>
+        <link>http://colemererealtyvideoblog.com/the-pros-and-cons-of-buying-and-renting-copy.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-03-30 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4</guid>
+        <description>
+
+Today we wanted to have a talk about whether you should rent or buy your next home. No matter what you choose, you’re paying a mortgage.
+
+Some people are scared of the word “mortgage” because of the commitment. Even if you don’t technically have one, you’re paying for one if you’re renting. You’re actually paying more than a mortgage would cost and making your landlord money in the process.
+
+Renting does have some benefits, but only as a temporary solution. The goal should be to own the roof over your own head. If you don’t, you’re just paying for somebody else to own the roof over your head.
+
+“Renting has benefits, but it’s only a temporary solution.”
+
+Those that own homes tend to have a much higher net worth than those who don’t. A mortgage also gives you a fixed rate that you can use to predict what your payments will be now and in the future. The price and payment stay fixed in this case. If you’re renting, you’re at the mercy of the market and the landlord’s decision. Rental rates have gone up much higher than home prices in the last few years.
+
+If you have any questions for us about this topic or anything else related to real estate, give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Should you rent or buy your next home? Here’s what you should know.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Should you rent or buy your next home? Here’s what you should know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>When to Stop Saving and Start Your Home Search</title>
+        <link>http://colemererealtyvideoblog.com/when-to-stop-saving-and-start-your-home-search.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-03-12 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Buy+or+Save.mp4</guid>
+        <description>
+
+Should you keep saving to purchase a home, or should you buy a home now? 
+
+This is a great question, and it all comes down to how much you are saving and whether your savings are outpacing the rate at which the market is appreciating. For example, if you’re saving $1,000 a month and the market is appreciating at $500 a month, it makes sense to save your money to buy a house. 
+
+Unfortunately, our market is growing at a faster rate than most people are able to save right now. 
+
+In our last video, we mentioned that appreciation is going to be anywhere from 6% to 8% in 2018, so keep that in mind. 
+
+If we’re at a pace of 6% appreciation and you’re not able to keep up with your savings, it’s probably wise to buy a home sooner rather than later. That way, you’ll end up ahead. 
+
+You should also keep an eye on interest rates. We’re in an environment where they have been talking about raising interest rates for a long time, and they are starting to do that now. As rates go up, a buyer’s purchasing power is going to be greatly limited. 
+
+“Interest rates are the single greatest factor that can influence your monthly payment.”
+
+For every 1% increase in interest rates, your mortgage payment goes up about $200. Interest rates are the single greatest factor that can influence a monthly payment. 
+
+The good news is that there are some really favorable loan programs right now with low down payments or no down payment at all. In a market that’s appreciating like ours, it’s a good idea to take advantage of some of these programs to buy a home. There are also some grant programs that provide money for down payments. So, there are some favorable options out there if you don’t quite have the money you think you need. 
+
+If you have any questions, please don’t hesitate to reach out to us. We are well-versed in what’s going on in the market, and we’d love to help you.  
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Buy+or+Save.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Buy+or+Save.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Is it better to keep saving for your down payment, or should you go ahead and buy a house now? We’ll explain today.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Is it better to keep saving for your down payment, or should you go ahead and buy a house now? We’ll explain today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Dealing With Low Appraisals: Part 1</title>
+        <link>http://colemererealtyvideoblog.com/dealing-with-low-appraisals-part-1.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-02-20 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Low+Appraisal+Buyers.mp4</guid>
+        <description>
+
+Today we’re excited to bring you the first installment of a two-part series on what you should do when your appraisal comes in low. 
+
+We’re in a strong seller’s market right now. Certain price ranges are generating multiple offers for the listings that are out there, so sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract.  
+
+From a buyer’s perspective, the first thing to remember is that you always have the right to cancel the contract if the appraisal comes in low. This is the easy solution, but it doesn’t get you the house.
+
+Typically when an appraisal comes in low, most people will try to renegotiate. This may mean that the buyer will have to come up with some extra funds or get rid of some closing costs that have been previously negotiated with the seller. 
+
+Usually, there is an attempt by both parties to make it work out for everyone. 
+
+“Sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract.”
+
+If it was an FHA appraisal, then the appraisal stays with the property whether the deal works out or not. 
+
+During the process of renegotiating, it’s important that everyone pays attention to the contract deadline. Buyers especially need to realize that you must negotiate within this deadline if you want to get your earnest money back in the event the deal falls through. If you negotiate outside of the deadlines, the earnest money can be lost. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Low+Appraisal+Buyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Low+Appraisal+Buyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What comes next after an appraisal comes back low? Let’s take a look at things from the buyer’s perspective.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>What comes next after an appraisal comes back low? Let’s take a look at things from the buyer’s perspective.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why It’s Never too Early to Start Preparing to Sell</title>
+        <link>http://colemererealtyvideoblog.com/why-its-never-too-early-to-start-preparing-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-02-02 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Prepping+for+Sale.mp4</guid>
+        <description>
+
+If you’re planning to sell your home this spring, it’s never too early to start preparing it for sale now. 
+
+Most sellers typically take between one and two months to prepare the home. They’ve got to make repairs, declutter, stage the home, and more. If you need help with any of this stuff, we’d be glad to help. We want to help get your home as beautiful as possible for the market so that you’ll get the most bang for your buck when you decide to sell. 
+
+Aside from preparing your home, which is important, you should also make sure your finances are in order. We have some great lenders that we can refer you to that can help you out and make sure you’re comfortable with your budget. 
+
+“You also need to make sure your finances are in order.”
+
+We also have the tools to help set you up with an automated home search so that you can get a better feel for the market you are buying and/or selling in.
+
+If you have any questions for us about the current state of the market or if you have any other questions about real estate, give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Prepping+for+Sale.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Prepping+for+Sale.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Is it ever too early to start planning your home sale? No way.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Is it ever too early to start planning your home sale? No way.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Can You Expect From the 2018 Real Estate Market in Utah?</title>
+        <link>http://colemererealtyvideoblog.com/what-can-you-expect-from-the-2018-real-estate-market-in-utah.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-01-16 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Forecast.mp4</guid>
+        <description>
+
+What can you expect from the 2018 real estate market? We want to share our forecast with you today. 
+
+Since the real estate market was strong in  2017 and we expect it to continue to be strong in 2018, interest rates should go up. The Fed will probably raise interest rates two or three times in 2018. 
+
+According to what we saw in 2017, you can expect more low inventory in 2018. We will continue in a strong seller’s market because of strong buyer demand. 
+
+As we continue to add more people to the Wasatch Front through job growth or people having children, we are going to continue to see strong demand going forward, which will also cause prices to continue to go up.  
+
+If you plan on selling your home, you want to make sure that you justify your pricing, even if you are in a strong seller’s market. Reach out to a real estate professional like us. We can definitely help you with pricing. 
+
+“Strong demand will cause prices to go up in 2018.”
+
+When you sell your home, chances are your buyer will use financing to purchase the house. That means you are selling your house twice, once to the buyer and once to the appraiser. The home has to appraise, or else nobody wins. 
+
+If you are a first-time buyer in the $200,000 to $300,000 price range, it’s especially important that you are prepared to be very competitive with your offer. You need to be able to move fast. We have a number of different tips that you can help you succeed in this market. 
+
+This is a general forecast for our local real estate market. If you would like more specific information for your neighborhood, or if you have any other questions, just give us a call or send us an email. We would be happy to help you! 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Forecast.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Forecast.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What can you expect from the 2018 real estate market as a Utah homebuyer or seller? We will share our forecast with you today.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>What can you expect from the 2018 real estate market as a Utah homebuyer or seller? We will share our forecast with you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Did the Market Do in 2017?</title>
+        <link>http://colemererealtyvideoblog.com/how-did-the-market-do-in-2017.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2018-01-04 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Recap.mp4</guid>
+        <description>
+
+Since we’re fresh into the new year, we thought it would be a good idea in planning for the future to give you all a recap about what happened in the market in 2017.
+
+In terms of the volume of sales in 2017, there were about 20,000 units sold over the past year in Salt Lake County, which, compared to 2016, was about the same.
+
+One thing to note, however, is that the price per square foot increased from about $126 to $137. This shows that prices are going up. It is important to keep in mind that price per square foot isn’t the best way to measure value, but it is an indicator of where values are going. 
+
+We are also seeing what you’d expect when prices per square foot go up—the median sales price is also up from $268,000 to $299,000.
+
+“The rising price per square foot indicates that home values are on the rise.”
+
+Inventory remains low, especially in lower price ranges. We see inventories of two months or fewer across the board. When you have lower inventory like we’ve seen, it will also reduce the days on market. On average in 2017, the days on market was 20 days. This will vary a bit based on the price point of the home or where it’s located.
+
+This is just a snapshot of what we observed over the past year. As always, if you have any questions about the market or real estate in general, please feel free to contact your Colemere Realty team member. We are looking forward to the new year ahead and wish you all the best moving forward.  
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Recap.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Recap.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What happened in the 2017 real estate market, and what can that tell us about 2018? Let’s take a quick look.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>What happened in the 2017 real estate market, and what can that tell us about 2018? Let’s take a quick look.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays from Colemere Realty</title>
+        <link>http://colemererealtyvideoblog.com/happy-holidays-from-colemere-realty.html</link>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-12-19 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4</guid>
+        <description>
+
+We want to wish you all happy holidays, merry Christmas, and a happy new year.
+
+We’re super excited because this month actually marks our second year since we took over here at Colemere Realty. We’ve had a lot of changes and excitement, so we wanted to thank everyone—our clients, friends, and family—because we could not have come this far without you. 
+
+“We could not have come this far without you.”
+
+We appreciate and love our clients and everyone we work with. We’re really blessed and super grateful for what we’re doing here and how we’re able to help all of you.
+
+So thank you all from the bottom of our hearts. We look forward to an awesome 2018. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Thank you all so much for your love and support.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Thank you all so much for your love and support.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Bring Your Kids to See Santa With Us This Year</title>
+        <link>http://colemererealtyvideoblog.com/bring-your-kids-to-see-santa-with-us-this-year.html</link>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-12-01 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Santa's+Coming+with+Map.mp4</guid>
+        <description>
+
+One of the frustrations our families have encountered the last couple of years during the holiday season is waiting in long lines to see Santa at the mall and paying a lot for pictures once we got the chance. 
+
+That’s why we’ve decided to have Santa come to us this year, and you’re invited to join us when he does. On December 11 from 5 p.m. to 8 p.m., bring your kids to see Santa with us at the Gateway Condominiums at 5 S. 500 West 5th Floor here in Salt Lake City. 
+
+We’ll be serving hot chocolate and treats, and you’ll also have the chance to snap a few photos before checking out the lights downtown. We’ll have our own camera as well, so if you don’t have one, we can take pictures for you and email them to you.
+
+Click Here to View a Map With DirectionsClick Here to View Our Save-the-Date!
+
+“Skip the long lines and expensive photos this year.”
+
+We’re very excited to have all of our friends and family join us, and we’d love it if you came too. If you have any questions, don’t hesitate to reach out to us. Until then, happy holidays!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Santa's+Coming+with+Map.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Santa's+Coming+with+Map.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Seeing Santa at the mall can take a long time and cost a pretty penny for a few photos. That’s why we’re having Santa come to us this year, and you’re invited to come see him.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Seeing Santa at the mall can take a long time and cost a pretty penny for a few photos. That’s why we’re having Santa come to us this year, and you’re invited to come see him.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Listing Mistakes You Should Always Avoid</title>
+        <link>http://colemererealtyvideoblog.com/listing-mistakes-you-should-always-avoid.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-11-21 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate-+Are+you+guilty+of+making+these+listing+mistakes%253F.mp4</guid>
+        <description>
+
+A lot goes into the process of selling your home. That being said, there are a lot of things you should avoid. Today, we want to go over some of the biggest mistakes people can make when selling their homes.
+
+First off is asking too much money for your property. Even in a seller’s market, this can be a mistake people make.
+
+Our market is experiencing a slight shift, so overpricing can become very frustrating for everyone involved in the transaction. Listing your home too high will only lead to price reduction after price reduction.
+
+The next mistake sellers commonly make is advertising too little. There tends to be an assumption that just because you’ve hired a Realtor, you’re in the clear.
+
+“Putting your home on the market and waiting isn’t enough to successfully sell.”
+
+The truth is that merely putting your home on the market and waiting isn’t enough. You will need a detailed marketing strategy to expose your home to the most buyers possible.
+
+The last mistake we’d like to talk about is not preparing your home adequately for sale. Once a home is on the market, it is no longer just a place to live in. A home that’s listed on the market needs to be ready at a moment’s notice for buyers to view it. More than just the home you once lived in, your property is a showcase for what buyers can expect.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate-+Are+you+guilty+of+making+these+listing+mistakes%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate-+Are+you+guilty+of+making+these+listing+mistakes%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A lot goes into the process of selling your home. That being said, there are a lot of things you should avoid. Today, we want to go over some of the biggest mistakes people can make when selling their homes.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>A lot goes into the process of selling your home. That being said, there are a lot of things you should avoid. Today, we want to go over some of the biggest mistakes people can make when selling their homes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>8 Things You Must Not Overlook When Buying a Home</title>
+        <link>http://colemererealtyvideoblog.com/8-things-you-must-not-overlook-when-buying-a-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-11-03 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+8+Things+to+Not+Overlook.mp4</guid>
+        <description>
+
+When buying a home, there are certain things you mustn’t overlook. Here are the eight most important ones:
+
+1. See the neighborhood at all times of the day. Don’t just observe it when you visit the home. Check out what traffic is like during rush hour or after school.
+
+2. Pay attention to your daily commute.
+
+3. Know your neighborhood codes and restrictions. This is especially important in neighborhoods that have HOAs (homeowners associations).
+
+4. Don’t overlook the bedroom/bathroom count. If you are looking at a 4-bedroom home, for example, make sure it doesn’t have just one bathroom.
+
+5. Make note of any specialty inspections. We always recommend a general home inspection but depending on the home you’re looking at, you might want to order a radon inspection, a termite inspection, or a number of other specialty inspections.
+
+6. Pay attention to the things that can’t be changed about the home. This includes the lot size, the location, and the floor layout. 
+
+7. Make note of the home’s resale value. Sometimes buyers can get too excited and forget to pay attention to any barriers that would make the home harder to sell than normal.
+
+8. Is there room to grow into the home? This depends on your individual circumstances, obviously, but should be considered no matter what those circumstances are.
+
+“Don’t buy a 4-bedroom home with one bathroom.”
+
+We hope this list is helpful to you. If you have any questions in the meantime or need any real estate assistance, give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+8+Things+to+Not+Overlook.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+8+Things+to+Not+Overlook.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are certain things that can be overlooked when buying a home. This list doesn’t include any of them.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>There are certain things that can be overlooked when buying a home. This list doesn’t include any of them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>9 Home Repairs That Will Save You Thousands</title>
+        <link>http://colemererealtyvideoblog.com/9-home-repairs-that-will-save-you-thousands.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-09-26 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4</guid>
+        <description>
+
+Whether you are thinking of selling your home in the near future or not, it never hurts to have it looking its best. If your home needs any of the repairs below, they need to be addressed sooner rather than later. Doing so will save you thousands.
+
+1. Caulk your cracks. If there is a joint in the settling that has moved or a crack in the floor, make sure to caulk it.
+
+2. Clean out your dryer vent. Lint buildup is a fire hazard. Use a shop vac to clean it out.
+
+3. Roof repairs. Anytime there is a bad storm and you have roof damage, you want it to be taken care of as soon as possible.
+
+4. Chimney sweeping. Do this once a year to make sure your chimney is free of creosote, bird nests, and other flammables.
+
+5. Change your HVAC filters. If they get too dirty, they can shut your system down.
+
+6. Pest problems. Bugs or rodents of any kind should be eradicated as soon as possible.
+
+7. Plumbing leaks. Even if it’s just a small drip, attacking any plumbing issues head-on and proactively is the best move.
+
+8. Peeling paint. We see this a lot on the exterior of homes. It’s so easy to take care of and it can be such an eyesore to buyers.
+
+9. Drainage problems. You don’t want to have a clogged rain gutter or a negative slope grade on your home. Over time, that can cause big problems in terms of water penetration and foundation cracking.
+
+“Bugs or rodents of any kind need to be eradicated immediately.”
+
+If you have any questions for us or are looking to buy or sell a home, don’t hesitate to reach out. Give us a call or send us an email today.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>You don’t need to make every home repair. However, you need to make these 9 repairs every time.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>You don’t need to make every home repair. However, you need to make these 9 repairs every time.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Need to Know About the Late Summer Market</title>
+        <link>http://colemererealtyvideoblog.com/what-you-need-to-know-about-the-late-summer-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-09-13 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Late+Summer+Market+Update.mp4</guid>
+        <description>
+
+As we move from summer into fall, let’s pause for a quick market update. 
+
+First of all, is the market still hot? It depends on the inventory. If you are a buyer or seller in the $300,000 and under price range, inventory is still very tight—with only two weeks of inventory available. 
+
+If you are buying or selling in the $400,000 to $700,000 price range, there are some interesting things happening. Sellers are getting a little aggressive and price reductions are becoming more common. 
+
+Interest rates continue to hover in the fours or just below, so there is still strong incentive for buyers to get out there and make a move.
+
+“In the $300,000 and under price range, there are only two weeks of inventory available!”
+
+What does all of this mean to you? 
+
+If you’re a buyer in the $300,000 and under range, the competition is stiff. Multiple offers are common, so be prepared for that. 
+
+If you are a buyer or seller above $400,000, price reductions are more common. If you are a seller, make sure that you are priced a bit more aggressively than the competition. If you are a buyer, there could be some room for negotiation, so be ready. 
+
+If you have any other questions about our current market or would like to know more about your specific neighborhood, give us a call or send us an email. We would be happy to help you! 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Late+Summer+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Late+Summer+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is happening in the real estate market as summer draws to a close? The market is still hot, but it depends on what price point you’re in.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>What is happening in the real estate market as summer draws to a close? The market is still hot, but it depends on what price point you’re in.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the Surest Way to Get Out of the Agent Rat Race?</title>
+        <link>http://colemererealtyvideoblog.com/whats-the-surest-way-to-get-out-of-the-agent-rat-race.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-08-30 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Agent+Rat+Race.mp4</guid>
+        <description>
+
+Do you ever feel like you’re running the agent rat race? 
+
+The market is good right now, so it’s easy for single agents to run themselves ragged doing business. We totally understand that—we spent a lot of time in our careers as single agents, and we believe that a team is a valuable way to get out of the agent rat race. 
+
+One of the myths it’s easy to talk yourself into if you’re a single agent is that you can do everything and skip paying for things like transaction coordination, communicating with title companies, and other services. 
+
+When it comes to this myth and agent activities, single agents like to believe their time isn’t worth what it should be worth. What they end up doing when they meet with a client who tries to beat them up over their commission is offer a discount—they discount themselves, their service, and their fees. They then stay in the rat race by convincing themselves they only need to work harder and put more time in. 
+
+“We all only have 24 hours in a day.”
+
+The reality is, we all only have 24 hours in a day. As much as some of us want to think we’re Superman, there is not enough time in the day to increase business volume to what we think we’re capable of doing. This philosophy leads to agent burnout. 
+
+You can spend your time scurrying around, putting up signs, and hanging lock boxes if you want. On a team, though, you have someone else doing those jobs so you can focus on writing purchase agreements, getting contracts signed, and prospecting. 
+
+You can work hard and be effective as a single agent, but you will cap out at a certain volume because you don’t have enough time in the day to do it all. 
+
+If you have any questions about our team or are interested in attending some of our training sessions, don’t hesitate to contact us. We’d be happy to speak with you. 
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Agent+Rat+Race.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Agent+Rat+Race.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to escape from under the agent rat race, stop trying to do everything yourself and join a team.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>If you want to escape from under the agent rat race, stop trying to do everything yourself and join a team.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Help Can Make a Big Difference</title>
+        <link>http://colemererealtyvideoblog.com/your-help-can-make-a-big-difference.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-08-14 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4</guid>
+        <description>
+
+Recently, Scott and I were joined by Aaron Morgan from Academy Mortgage. 
+
+On a recent trip to Africa that Scott and I took with our family members, we gathered donations for an underprivileged school. Aaron and Academy Mortgage will soon be doing similar work, but on a much larger scale.
+
+The Academy Mortgage Foundation is what Aaron describes as an opportunity to give back. 
+
+From the end of August until the first part of September, he and members of his team will be in Africa doing just that: giving back.
+
+Aaron wants to spread the word about what he’s doing and how you can help. If you’d like to donate, you can click here to do so. Anything helps.
+
+“We appreciate your willingness to give.”
+
+As a partner to Academy Mortgage, Colemere Realty is happy for the opportunity to promote this opportunity to make a difference. 
+
+We also accept drop-off donations at our office. We accept anything from clothing to shoes to books, and a number of other necessary items.
+
+Ultimately, we have seen how charitable our friends, clients, and colleagues have been in the past and continue to be today. We appreciate your willingness to give.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Giving back is important to us. That’s why we’re partnering with Academy Mortgage to bring you some information on how you can help us do just that.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Giving back is important to us. That’s why we’re partnering with Academy Mortgage to bring you some information on how you can help us do just that.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Items to Consider Before Investing in an Airbnb Property</title>
+        <link>http://colemererealtyvideoblog.com/3-items-to-consider-before-investing-in-an-airbnb-property.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-07-18 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Air+BnB.mp4</guid>
+        <description>
+
+With Airbnb, you have the opportunity to generate huge cash flow by buying property specifically for short-term, nightly rentals. There are, however, three items you must take into consideration first. 
+
+
+  The location and zoning of the property: Some cities are disallowing short-term rentals, so you want to make sure the city you’re considering purchasing your Airbnb rental in will support that. 
+  Hiring a management company to manage the property: With nightly rentals, there will be a lot of turnover with people going in and out, and many potential issues could arise from day to day. We recommend hiring a third-party management company to handle the essential maintenance tasks so that doesn’t become a full-time job for you.
+  Having an exit strategy in place: Specifically, there are two strategies we want to mention. First, make sure that if short-term rentals become unavailable, the property can still generate cash flow in a long-term rental scenario. Second, if the property doesn’t work out and you need to sell quickly, make sure you buy into an area with enough appreciation that you won’t lose money during that quick sale. 
+
+
+“Hire a management company so maintaining your Airbnb property doesn’t become a full-time job.”
+
+If you have any questions about investing in real estate, please don’t hesitate to give us a call. We’d be happy to assist you. 
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Air+BnB.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Air+BnB.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about investing in an Airbnb property, there are three items you must take into consideration first.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>If you’re thinking about investing in an Airbnb property, there are three items you must take into consideration first.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Staying Represented While Building a New Home</title>
+        <link>http://colemererealtyvideoblog.com/staying-represented-while-building-a-new-home.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-07-06 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4</guid>
+        <description>
+
+Inventory has been shrinking recently and a lot of buyers are turning to building new homes instead.
+
+When buyers do this, though, they need to ensure they are being well-represented. 
+
+Today, we’d like to share three reasons why that is. 
+
+First of all, when a buyer enters a model home the agent they are greeted by is actually representing the builder. This agent is focused on the builder’s money and best interest as opposed to the buyer’s.  
+
+While they are usually very friendly and don’t mean ill will toward the buyer, it is important to be represented nonetheless. 
+
+Next, buyers should remember that many builders use their own purchase agreement. We’ve personally seen these contracts and know that they can be upwards of 30 to 40 pages long. 
+
+“It’s nice to have someone around who is familiar with the ins and outs of the process.”
+
+So having someone who is representing you available to read and interpret these kinds of documents will be very important to the process and your understanding of it.
+
+Finally, the purchase of a home is an emotional decision. All else aside, a home is somewhere you are going to put down roots, make memories, and spend time with your family. It can be hard to separate yourself from this emotion, so having someone who will be able to help you do so is greatly helpful. 
+
+Ultimately it’s nice to have someone around who is familiar with the ins and outs of the process and can help you make the many decisions associated with homeownership.
+
+If you’d like more information or have any other questions feel free to get in touch by giving us a call or sending an email. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Buyers that are thinking of building a home or buying a home directly from a builder need to seriously consider how well they are being represented in the process.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Buyers that are thinking of building a home or buying a home directly from a builder need to seriously consider how well they are being represented in the process.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Multiple Offer Cheat Codes</title>
+        <link>http://colemererealtyvideoblog.com/multiple-offer-cheat-codes.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-06-20 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4</guid>
+        <description>
+
+We’ve had to deal with quite a few multiple offer situations recently. These can get tricky, but we have been able to find consistent success in getting buyers the home they want while competing against other buyers who want the same home. We are here to share some of our best tips with you today.
+ 
+The first important thing is to make sure your agent tells the sellers your story. Striking an emotional chord with a seller will go a long way when it comes time for them to accept an offer. A lot of sellers are interested in the buyer who will live in their home next. You want your agent to present your case to the sellers as strongly as possible.
+
+ 
+
+“Make sure the seller knows your story.”
+ 
+We recently had a buyer who was a nurse at a local hospital and ended up getting her offer accepted because of the seller’s connection to the nurses at that hospital. Making sure the deadlines on the offer are nice and tight is another good strategy.
+ 
+Finally, you need to have a solid pre-qualification letter from a lender that your agent has a relationship with. If they have closed many transactions with that lender, you can rest assured that you won’t be led astray. 
+ 
+If you have any questions for us about real estate or you know anyone who is interested in buying or selling a home, feel free to give us a call or send us an email anytime. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Multiple offer situations are a common occurrence in our market. Here’s how we are helping our buyers stand out and win.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Multiple offer situations are a common occurrence in our market. Here’s how we are helping our buyers stand out and win.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Bonus Tip for Investing in Real Estate</title>
+        <link>http://colemererealtyvideoblog.com/a-bonus-tip-for-investing-in-real-estate.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-06-08 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bonus+Video.mp4</guid>
+        <description>
+
+We recently did a three-part series on investing, but we’re back with a bonus round to talk about the 1031 exchange and how it can benefit you when buying an investment property. 
+
+Click here for part 1.
+
+Click here for part 2.
+
+Click here for part 3.
+ 
+1031 is an IRS code that allows an individual to move the gains from the sale of one asset to the purchase of a like-kind asset without paying taxes on it. The 1031 can be a little tricky, but there are some basic rules to follow: 
+ 
+First of all, once you close on the property that you’re using the 1031 on, you have 45 days to identify three properties of interest. From there, you have 180 days to close one one of those properties. You can also close on multiple properties. 
+ 
+In the meantime, you can’t have any boot. That means you cannot take any money from the sale and put it in your pocket or else you will be taxed on that.
+
+“Remember, third parties are necessary.” 
+
+The last thing to keep in mind is that third parties are necessary. You need to use a third-party intermediary to handle the exchange on your behalf. Remember, you cannot touch the money from the sale of the property going into the exchanged property. That has to be handled by a third-party intermediary. 
+ 
+We have great resources to help you find that third-party and we can answer any other questions you might have about the 1031 exchange. Please don’t hesitate to give us a call or send us an email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bonus+Video.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bonus+Video.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re back with a bonus round for our real estate investment series! Today, we’ll discuss the 1031 exchange.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>We’re back with a bonus round for our real estate investment series! Today, we’ll discuss the 1031 exchange.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Considering an Investment Property: Part 3</title>
+        <link>http://colemererealtyvideoblog.com/considering-an-investment-property-part-3.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-05-18 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+3.mp4</guid>
+        <description>
+
+Welcome back to the third and final part of our series on real estate investing.
+
+You can read part one here and part two here.
+
+After you’ve determined what kind of investment you’re going to make, it’s time to figure out your financing. These three options work best:
+
+1. Traditional financing. Most lenders will require anywhere from 10% to 25% down. You need to be able to qualify for the loan based on your credit. You also need to have cash reserves in the bank.
+
+2. Cash financing. If you don’t have all the cash in your bank account, you can use a 1030 exchange in order to get cash as well. Ask us more about this option if you’re curious.
+
+3. Seller financing. This is where you get a little creative. All the terms can be negotiable, from how much you want to put down on the property to how long the seller will finance the property. With this method, you really take the seller’s existing financing and wrap around that.
+
+“You have a few different options.”
+
+Hopefully you’re all real estate investing experts by now. If you still have any questions, we’re always here to answer them. Just give us a call or send us an email today. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+3.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+3.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Part three of our series on real estate investing is here. This time, we’re discussing financing options.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Part three of our series on real estate investing is here. This time, we’re discussing financing options.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Considering an Investment Property: Part 2</title>
+        <link>http://colemererealtyvideoblog.com/considering-an-investment-property-part-2.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-04-18 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4</guid>
+        <description>
+
+Welcome to the second part of our three-part series on how to invest in real estate. If you missed our first entry, you can see it here. Click here to view a .pdf of investment formulas to help you out!
+
+Now that you’ve found a property you like, what happens next? Next, you have to evaluate that property, and there are three important factors to take into consideration.
+
+The first is location. We’ve all heard the saying “location, location, location,” and it certainly applies to real estate investment as well. For example, a busy road can be a positive thing when it comes to real estate investment. Whether the property in question is located in an affluent area or one with a high crime rate is an example of the risk versus reward issue you must deal with when considering the location of your investment property.
+
+This leads us to the second thing you must factor in: the age and condition of the property. We always advise people in this situation to order a home inspection. From that report, you’ll be able to determine what repairs are needed. This can also be a huge negotiating point for driving the price of the property down. You also need to consider the long-term objective of the property. Will the roof need to be replaced in five years? How are the water heater and the furnace?
+
+“The numbers in investment real estate are critical.”
+
+The last thing you want to factor in is how to run the numbers. The numbers in investment real estate are critical. This means things like the analysis of cash on cash, your return on investment, and the cap rate analysis. In the video above, we have a link attached providing examples of these forms and information on how to calculate them.
+
+Stay tuned for the last part in our series about investment properties. In the meantime, if you have any questions about this topic or are interested in buying an investment property, don’t hesitate to reach out to us. We would love to talk to you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>After you’ve found an investment property you like, it’s time to evaluate that property. Here are three keys to evaluating an investment property.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>After you’ve found an investment property you like, it’s time to evaluate that property. Here are three keys to evaluating an investment property.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Considering an Investment Property: Part 1</title>
+        <link>http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html</link>
+        
+          <category>Buyer Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-03-30 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4</guid>
+        <description>
+
+Investing in real estate is a great way to build long-term wealth for you and future generations. If you’re thinking about buying an investment property, there are three points you need to consider before following through.
+
+First, what’s your overall objective in buying an investment property? Most people buy them for one of four different reasons:
+
+
+  They want an additional monthly cash flow.
+  They want to buy a property in a very strong area that’s appreciating in value.
+  They need a tax shelter for their income.
+  They need something to do with their time and want one as a hobby.
+
+
+Second, remember that becoming a landlord is a business, not a charity.Make sure you’re using the proper contracts and you’re following them. Tenants will definitely try to take every advantage they can if they see that you’re not running your investment property as a business. We have the proper contracts and forms and we’d be happy to supply them to you if you like.
+
+“Becoming a landlord is a business, not a charity.”
+
+Lastly, begin with the end in mind. What’s your overall purpose? Do you want to fix and flip and make a quick dollar on the sale or are you in a long-term, buy-and-hold strategy to create a cash flow for yourself? Worst case scenario, if something happened and you had to sell the property, how would you sell it and how would you dispose of it?
+
+Stay tuned for part two in our series about investment properties. In the meantime, if you have any questions or are interested in buying an investment property, don’t hesitate to reach out to us. We’d love to help you get started!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking about buying an investment property, consider these three things before making the jump.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>If you’re thinking about buying an investment property, consider these three things before making the jump.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Paths Forward After a Bad Appraisal</title>
+        <link>http://colemererealtyvideoblog.com/3-paths-forward-after-a-bad-appraisal.html</link>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-03-20 00:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4</guid>
+        <description>
+
+One of the worst things that can happen during a real estate transaction is a bad appraisal. You are already under contract, things are rolling along, and suddenly, everything stops because the appraisal didn’t meet the purchase price. 
+
+If the home does not appraise, the home will not be able to be sold for the agreed upon purchase price. This is bad news for both the buyer and the seller. However, there are a few things you can do to make it to the closing table: 
+
+First, the buyer can come up with the money to meet the appraisal price. Most buyers don’t want to do that. However, we are in a hot seller’s market right now, and many homes are drawing multiple offers. As a buyer, you might just have to bite the bullet and come up with the money. 
+
+“We are in a seller’s market, so buyers may just have to come up with the extra cash.”
+
+The other option is for the seller to come down a bit on the asking price. Again, in this market, that is unlikely. 
+
+The third option is to renegotiate the terms of the contract. As a buyer, go to the lender and see if there is any room for adjustment in the interest rate. If the seller is paying for the closing costs, offer to cover them yourself. Ultimately, you can renegotiate to try and make the deal go through in a way that works out for everyone. 
+
+If you have any other questions about how to handle a bad appraisal or if you want to know more about our current real estate market, give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If a property does not appraise, there are three things that you can do as a buyer or seller to try and make it to the closing table.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>If a property does not appraise, there are three things that you can do as a buyer or seller to try and make it to the closing table.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Brian Reviews The Colemere Team!</title>
+        <link>http://colemererealtyvideoblog.com/brian-reviews-the-colemere-team.html</link>
+        
+          <category>Testimonials</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-03-17 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>“Bryan was a referral from a friend of mine. I was a little apprehensive because I’ve worked with realtors in the past but, I liked the way that he thought. It wasn’t all just go big or go home. He actually tried to find the best fit for us. I called him several times in the evenings and on weekends and he always took my calls. If he didn’t answer he made sure to call me right back, even on a weekend. He was always able to answer any questions I had and help me think through the whole process.”
+
+-Brian White, Home Buyer
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How We Helped Brian By Answering All Of His Questions!</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>How We Helped Brian By Answering All Of His Questions!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Economists Are Saying About Real Estate in 2017</title>
+        <link>http://colemererealtyvideoblog.com/what-economists-are-saying-about-real-estate-in-2017.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-02-27 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4</guid>
+        <description>
+
+We recently attended a conference with local and national economists, and we got some great information about the real estate market in 2017. We wanted to share some of the key points that stuck out to us today.
+
+The first thing we talked about was mortgage interest rates. We expect them to rise slightly this year with a strengthening economy. Once they go up, we will see a slight decrease in affordability, although home values will continue to rise.
+
+Another thing to note about the 2017 market is that we will see a lot more millennials in the market. Utah actually leads the nation in the number of millennials. We love millennials and love working with millennials. It will be great to see even more millennials buying homes this year. This will contribute to the overall health of our market.
+
+Scarcity of listings was a big theme in 2016. We expect the supply to improve this year, but don’t expect it to go too high, as demand for homes is still very strong.
+
+Finally, we expect to see a moderate increase in home prices. We won’t see double digit increases, but we will see a nice, healthy appreciation of home values.
+
+“We love working with millennials.”
+
+There is some uncertainty about the housing market on a national level. Nobody’s quite sure what the Trump administration will do to the Dodd-Frank Act, ditto for Fannie Mae and Freddie Mac. However, we know that Utah is very strong in housing overall and we expect to have another great year in 2017.
+
+Click here for the full 2017 Housing Forecast.
+
+If you have any questions about the market or are looking to buy or sell a home, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We recently attended a conference that gave us some great insight into the real estate market. Here’s what we learned.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>We recently attended a conference that gave us some great insight into the real estate market. Here’s what we learned.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Marilyn Black Reviews the Colemere Team!</title>
+        <link>http://colemererealtyvideoblog.com/marilyn-black-reviews-the-colemere-team.html</link>
+        
+          <category>Testimonials</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-02-15 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Marilyn_Black_-_Colemeres.mp3</guid>
+        <description>
+
+“We knew them as friends and they referred us to their sons, who sold our home. A year and a half later, we were ready to purchase. So, we went back to them. We explained our situation and they were there immediately. They were able to get us a buyer in a very short time. They were just on the spot when we needed help getting our home sold and then when we needed to purchase, they ran into problems and we felt like they went above and beyond because the selling agent wasn’t doing her job.”
+
+- Marilyn Black
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Marilyn_Black_-_Colemeres.mp3" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Marilyn_Black_-_Colemeres.mp3" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How We Helped Marilyn by Going Above and Beyond</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>How We Helped Marilyn by Going Above and Beyond</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Combatting the Top 4 Reasons Homes Fail to Sell</title>
+        <link>http://colemererealtyvideoblog.com/combatting-the-top-4-reasons-homes-fail-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-02-08 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4</guid>
+        <description>
+
+If you listed your home and it didn’t sell, do you know why? It’s unfortunate that your home didn’t sell, but the good news is that it can be done.
+
+There are four reasons why a home typically doesn’t sell:
+
+
+   Location. If, for example, your home is on a busy road and wasn’t priced appropriately for the location, it might not sell.
+  Condition. If your home doesn’t show well in pictures or when buyers come to tour your home, they will probably be turned off by it.
+  Price. It’s an easy factor for people to point to, but there’s more to it than you might think. Your home must be priced according to the condition and the location. If it is, it’ll sell. If it’s not priced properly, buyers won’t want it.
+  Marketing. This is a big piece that many people don’t understand as well. There’s more to selling your home than putting it on the multiple listing service. You need to have a strong agent marketing the home for you. 
+
+
+“If your home isn’t priced right, it simply will not sell.”
+
+The good news is that we’ve got solutions to all these problems. We have an interior designer who can help stage your home, we have a comprehensive marketing plan that we can go over with you, and we can help price your home aggressively. The solution isn’t always just about lowering your price.
+
+If you have any questions for us or you’re thinking of buying or selling in the Utah market, give us a call or send us an email. We’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are four reasons why homes typically fail to sell. We've got a list of the top four reasons homes fail to sell, as well as solutions for all of them.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>There are four reasons why homes typically fail to sell. We've got a list of the top four reasons homes fail to sell, as well as solutions for all of them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Ways to Handle a Multiple Offer Situation</title>
+        <link>http://colemererealtyvideoblog.com/3-ways-to-handle-a-multiple-offer-situation.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-01-25 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4</guid>
+        <description>
+
+In today’s market, low inventory is creating a lot of competition for homes. Multiple offer situations are becoming more commonplace because of this, so we wanted to give you some tips on how to figure out which offer to go with.
+
+As a seller, multiple offer situations can be a little tricky, but there are three ways to handle them.
+
+The first is to just pick one offer and stick with it. You don’t have to entertain the other offers if you don’t want to.
+
+The second way is to call for the highest and best offers. Whether you get two offers or five offers, you can send out a notification to those buyers and tell them they are in a multiple offer situation and need to submit their highest and best final offer.
+
+“Multiple offer situations can be sticky for a seller, but there are ways to handle them.”
+
+The last option, which puts a little bit more control in the seller’s hands in terms of what they want, is to counter each of the offers with a clause that says the seller has the final decision. So, if two buyers come back and accept that clause, the seller decides which offer to move forward with.
+
+If you have any questions or would like us to cover a topic in one of our videos, please don’t hesitate to give us a call or send us an email. We would love to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we wanted to go over the three ways sellers can approach multiple offer situations.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Today we wanted to go over the three ways sellers can approach multiple offer situations.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Buy or Sell in Our Current Market?</title>
+        <link>http://colemererealtyvideoblog.com/should-you-buy-or-sell-in-our-current-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2017-01-11 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4</guid>
+        <description>
+
+Today we’re standing outside one of our great listings to give you a quick market update.
+
+Inventory is still really low in our marketplace. As a matter of fact, if you’re a buyer or seller looking to make a move below the $300,000 price range, the inventory level is a little bit over a half a month. If you’re above the $300,000 price range, it’s just below two months. The market overall has about a one-month level of inventory. This means that if all listing activity were to stop today, it would take that amount of time to sell every last house that’s listed.
+
+“It’s still a great time to buy real estate.”
+
+This means that if you plan on selling your home under the $300,000 price range, you should act quickly. Have all the necessary steps laid out and be prepared in advance to find your next home. If you plan on to selling it above the $300,000 price range, you may be on the market a little bit longer. Be patient, though, because the offers will still come, only at a slower pace.
+
+Not too long ago, interest rates spiked a little bit, but they’ve since come back down. All in all, it’s still a really great time to buy real estate.
+
+If you have any real estate questions or topics you’d like to see us discuss in a future video, please don’t hesitate to contact us or a member of our team. We’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Inventory is low in our market and interest rates have settled down after a slight uptick. What does this mean for you going forward?</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Inventory is low in our market and interest rates have settled down after a slight uptick. What does this mean for you going forward?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Home Renovation Projects to Avoid</title>
+        <link>http://colemererealtyvideoblog.com/home-renovation-projects-to-avoid.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2016-12-28 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Home+Renos+to+Avoid.mp4</guid>
+        <description>
+
+If you’re getting ready to put your home on the market, we’ve got some tips for you. These are seven things that home buyers do not want to see in a potential home:
+
+
+  Too much wallpaper. It’s hard for buyers to get excited about wallpaper because they will most likely tear it down anyway.
+  Stay away from lavish lighting fixtures. If you have an elaborate chandelier made of glass or deer antlers, replace it with something neutral while you’re in the process of selling.
+  Textured surfaces. Whether it’s your walls, ceilings, or other surfaces, buyers don’t tend to care much for them.
+  Using the wrong flooring. Replacing your flooring with the cheapest option might actually hurt your value more than it will help it. 
+  Too much carpet. Carpeted bedrooms and living areas are normal- carpeted bathrooms and kitchens are not. Most buyers want hardwood or tile floors in those areas.
+  Bold wall colors may turn buyers off. When in doubt, go neutral with your wall colors.
+  Pools and hot tubs don’t add much value. While they may add value to you while you are living there, most buyers don’t necessarily want to take on the cost of owning and maintaining these items and continuing to pay for them.​
+
+
+Follow this advice, and your home will be much more attractive to potential buyers. If you have any questions for us in the meantime, give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Home+Renos+to+Avoid.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Home+Renos+to+Avoid.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Not every improvement is a good one when it comes to adding resale value in your home. Here are seven things that buyers do not want to see.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Not every improvement is a good one when it comes to adding resale value in your home. Here are seven things that buyers do not want to see.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Sell Your Home in the Winter?</title>
+        <link>http://colemererealtyvideoblog.com/how-can-you-sell-your-home-in-the-winter.html</link>
         
           <category>Market Update</category>
         
@@ -37,29 +1282,60 @@
           <category>Home Seller Tips</category>
         
         <author>Bryan Colemere</author>
-        <pubDate>2016-10-31 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2016-12-16 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+What are some tips for selling a home in the wintertime? This is a question we get a lot, especially when it gets cold, and we are happy to tell you there are some great ones.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The first thing you need to know is that homes will definitely sell in the winter, and there are some things you can do that will make your home more appealing in the winter market.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+It’s really nice to see a wreath and some Christmas lights hanging up when you first pull up to a listing. This makes your home seem warm and inviting, and a buyer will see how that adds a special charm to your home.
 
-“This is an example of a pull quote”
+“An inviting atmosphere is key to selling in the winter market.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+You also need to make sure to keep your heat up. It’s very important that your home is warm as this will make it inviting. If the home is vacant, it is even more important to make sure the heat is on, as there is nothing more unattractive than walking into a cold, empty home.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Finally, make sure that your sidewalks and driveways are cleared. You want to make sure that there won’t be a potential hazard or risk of someone slipping and falling.
+
+If you have any other questions, please reach out with a phone call or a quick email. We are happy to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
+        <itunes:subtitle>Don’t let the colder months scare you away from listing your home. Here are a few tips to help you take advantage of the winter market.</itunes:subtitle>
         <itunes:author>Bryan Colemere</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Don’t let the colder months scare you away from listing your home. Here are a few tips to help you take advantage of the winter market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Check Out Our New YouTube Channel</title>
+        <link>http://colemererealtyvideoblog.com/check-out-our-new-youtube-channel.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+          <category>Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2016-11-14 00:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you.</guid>
+        <description>
+
+Welcome to the new YouTube channel for Colemere Realty Associates! We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area. We really want this page to be a resource for all of your real estate needs, so take a look around and discover topics that interest you. If there are topics that you’d like to learn more about, reach out to us and we just might answer your question with a video. We’re happy to make our channel a great resource for you! To learn more about our new channel, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you." length="" type="video/mp4"/>
+        <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you." type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

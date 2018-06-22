@@ -3,39 +3,338 @@
   <channel>
     <title>Colemere Realty and Associates</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Nov 2016 11:41:08 -0600</pubDate>
-    <lastBuildDate>Mon, 07 Nov 2016 11:41:08 -0600</lastBuildDate>
+    <link>http://colemererealtyvideoblog.com/</link>
+    <atom:link href="http://colemererealtyvideoblog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 22 Jun 2018 11:45:28 -0500</pubDate>
+    <lastBuildDate>Fri, 22 Jun 2018 11:45:28 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>this is a test</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>The Fatal Flaw in Zillow’s Design</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4bpVEKrSb7w&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;gastropub marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+&lt;center&gt;&lt;em&gt;Zillow is one of the most popular real estate websites online today, but that doesn&amp;rsquo;t mean that it can replace the knowledge and experience of an agent. Here&amp;rsquo;s what you should know.&lt;/em&gt;&lt;/center&gt;
 
-&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
 
-&lt;p&gt;Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.&lt;/p&gt;
+&lt;p&gt;Why shouldn’t you trust Zillow to help you find your next home?&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20localhost:4000/what-is-the-current-state-of-the-portland-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Utah is a non-disclosure state, meaning we’re one of the very few states that disclose private sales of real estate. As such, &lt;strong&gt;Zillow has a hard time identifying the true value of a property.&lt;/strong&gt; Also,  there are many things to consider when it comes to valuing a home, and only some of which are…&lt;/p&gt;
 
-&lt;p&gt;Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Zillow also doesn’t show 100% of what is available on the MLS&lt;/strong&gt;; oftentimes, they’ll show homes that aren’t even on the market anymore. Many brokerages opt out of the Zillow feed, so you’re not getting the full scope of what’s actually on the market.&lt;/p&gt;
 
-&lt;p&gt;Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You wouldn’t go on WebMD to diagnose your illness, would you? Of course not; you’d go to the doctor.%20http://colemererealtyvideoblog.com/the-fatal-flaw-in-zillows-design.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You wouldn’t go on WebMD to diagnose your illness, would you? Of course not; you’d go to the doctor.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Furthermore, &lt;strong&gt;Zillow cannot replace the range of services that actual agents can provide&lt;/strong&gt;. As Realtors, we can give you an accurate view of your home not only in terms of value, but we can also give you a full diagnosis, including how to best position your home to maximize its value in the market. You wouldn’t go on WebMD to diagnose your illness, would you? Of course not; you’d go to the doctor.&lt;/p&gt;
+
+&lt;p&gt;So many times over the years a client has come to me saying that Zillow has valued their home a particular way. &lt;strong&gt;We’ve actually been able to increase home values because we have the complete picture—full data and professional experience—to back that up&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions or would like additional information, please reach out to us. We’d be glad to help you with any of your real estate needs.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 31 Oct 2016 00:00:00 -0500</pubDate>
-        <link>localhost:4000/what-is-the-current-state-of-the-portland-market.html</link>
-        <guid isPermaLink="true">localhost:4000/what-is-the-current-state-of-the-portland-market.html</guid>
-        
-        <category>Market Update</category>
+        <pubDate>Wed, 13 Jun 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/the-fatal-flaw-in-zillows-design.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/the-fatal-flaw-in-zillows-design.html</guid>
         
         <category>Real Estate</category>
         
-        <category>Buyer Tips</category>
+        <category>Home Buyer Tips</category>
+        
+        <category>Home Buying</category>
         
         <category>Home Seller Tips</category>
+        
+        <category>Home Selling</category>
+        
+        <category>Zillow</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Affordability Index and What It Means to You</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pjinsilX75s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;&lt;em&gt;News reports have said that the affordability index is dropping, but what does this mean to you?&lt;/em&gt;&lt;/center&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;There has been talk in the news recently about affordability. So, we decided we would explain what affordability means and address how it may impact you. We hope doing so will assuage any worries you may have.&lt;/p&gt;
+
+&lt;p&gt;You may have heard that the affordability index is dropping. The affordability index is a number that is measured by mortgage rates, interest rates, and pricing. &lt;strong&gt;The news has reported that this index has dropped by about 5%&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a consequence, buyers in the market are now worried that their budgets will be stretched. But &lt;strong&gt;there is no reason to be overly concerned&lt;/strong&gt;. We are nowhere near historic lows in terms of affordability, though we will continue to see the affordability rate drop from about 15% to 20% by year’s end.&lt;/p&gt;
+
+&lt;p&gt;So, what does this mean to you? &lt;strong&gt;If you are a seller, now is the time to prepare your home&lt;/strong&gt; and get it on the market.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The affordability index is a number which is measured by mortgage interest rates and pricing.%20http://colemererealtyvideoblog.com/the-affordability-index-and-what-it-means-to-you.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The affordability index is a number which is measured by mortgage interest rates and pricing.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you are a buyer who is ready to buy, why wait any longer?&lt;/strong&gt; There should not be any excuse because waiting until next year hoping that prices come down will be a disappointment. Prices will not come down because of the market. Now is the best time.&lt;/p&gt;
+
+&lt;p&gt;The key is to reach out to us right away if you would like to discuss your buying and selling plans. We would love to help you succeed.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 May 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/the-affordability-index-and-what-it-means-to-you.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/the-affordability-index-and-what-it-means-to-you.html</guid>
+        
+        <category>Real Estate</category>
+        
+        <category>Home Buyer Tips</category>
+        
+        <category>Home Buying</category>
+        
+        <category>Salt Lake City</category>
+        
+        <category>Utah</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Should Buyers Do to Succeed in Today's Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xf6G0sEllHE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;&lt;em&gt;The spring selling season is well underway, but where does this leave buyers in our market? Let&amp;rsquo;s discuss this important question today.&lt;/em&gt;&lt;/center&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;Back in January, we predicted that our market was about to heat up. Well, now that we are further into the year, it has become clear that these projections have come true.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We are well into the thick of the spring selling season&lt;/strong&gt;, with homes today spending an average of just 11 days on the market.&lt;/p&gt;
+
+&lt;p&gt;So, what does this mean for buyers? The first thing we would like to say is, do not panic. There are plenty of available resources out there to help you achieve your real estate goals and find the right home for your wants and needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=In today’s market, where prices are rising, demand is high, and inventory remains at historic lows, so it is critical to have a great agent working on your side.%20http://colemererealtyvideoblog.com/what-should-buyers-do-to-succeed-in-todays-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“In today’s market, where prices are rising, demand is high, and inventory remains at historic lows, so it is critical to have a great agent working on your side.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One of your most valuable resources will be professional help. And we would be happy to serve that function for you. &lt;strong&gt;During our 65 years of business, our team has worked hard to build a strong reputation in the industry&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In today’s market, where prices are rising, demand is high, and inventory remains at historic lows, so it is critical to have a great agent working on your side. So, &lt;strong&gt;please reach out and allow us to show you how we can assist you&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions, would like more information, or are interested in working with us to achieve your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 17 May 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/what-should-buyers-do-to-succeed-in-todays-market.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/what-should-buyers-do-to-succeed-in-todays-market.html</guid>
+        
+        <category>Real Estate</category>
+        
+        <category>Home Buyer Tips</category>
+        
+        <category>Home Buying</category>
+        
+        <category>Salt Lake City</category>
+        
+        <category>Utah</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Colemere Realty Is Hiring Agents</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tA-yjjwIRzY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;center&gt;&lt;strong&gt;Looking to Buy a Home?&lt;/strong&gt; &lt;a href=&quot;http://www.colemererealty.com/fine/real/estate/newsearch&quot;&gt;Search All Homes&lt;/a&gt;&lt;/center&gt;
+
+&lt;center&gt;&lt;strong&gt;Looking to Sell a Home?&lt;/strong&gt; &lt;a href=&quot;http://www.colemererealty.com/fine/real/estate/marketeval&quot;&gt;Get a Home Value Report&lt;/a&gt;&lt;/center&gt;
+
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+
+&lt;p&gt;A lot of you may not have heard about who we are, but &lt;strong&gt;Colemere Realty is the oldest real estate company in the Salt Lake Valley&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Both Bryan and I are third-generation Realtors. Our grandfather started Colemere Realty back in 1953, so &lt;strong&gt;we’re excited to share our story of who we are and what exciting things we have to bring to the real estate industry&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even though we’re the oldest brokerage in the state, you may not have heard of us because we were heads-down, highly effective agents, working hard to produce for ourselves. Back in 2015, Bryan and I purchased the business from our parents, who retired, and we realized that we had a great system and we wanted to bring that to other agents. We also wanted to shift and have a team focus &lt;strong&gt;so that not only could Realtors produce at a super high level, but they could also have a life&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We want to build an awesome team of highly motivated agents.%20http://colemererealtyvideoblog.com/colemere-realty-is-hiring-agents.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We want to build an awesome team of highly motivated agents.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We want to build an awesome team of highly motivated agents who are productive and have a team to back them up. &lt;strong&gt;We’re looking for great agents&lt;/strong&gt; who want to be a part of a great culture with solid ethics founded in high levels of production, but who also want to build their own lives.&lt;/p&gt;
+
+&lt;p&gt;If you want to get something more out of your business and still have a life, please feel free to reach out to us. We look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 17 Apr 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/colemere-realty-is-hiring-agents.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/colemere-realty-is-hiring-agents.html</guid>
+        
+        <category>Real Estate</category>
+        
+        <category>recruiting</category>
+        
+        <category>Salt Lake City</category>
+        
+        <category>Utah</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>The Pros and Cons of Buying and Renting</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/N-85V-IaHvs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today we wanted to have a talk about whether you should rent or buy your next home. &lt;strong&gt;No matter what you choose, you’re paying a mortgage&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Some people are scared of the word “mortgage” because of the commitment. Even if you don’t technically have one, you’re paying for one if you’re renting. &lt;strong&gt;You’re actually paying more than a mortgage would cost and making your landlord money in the process.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Renting does have some benefits, but only as a temporary solution. The goal should be to own the roof over your own head. If you don’t, you’re just paying for somebody else to own the roof over your head.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Renting has benefits, but it’s only a temporary solution.%20http://colemererealtyvideoblog.com/the-pros-and-cons-of-buying-and-renting-copy.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Renting has benefits, but it’s only a temporary solution.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Those that own homes tend to have a much higher net worth than those who don’t&lt;/strong&gt;. A mortgage also gives you a fixed rate that you can use to predict what your payments will be now and in the future. The price and payment stay fixed in this case. If you’re renting, you’re at the mercy of the market and the landlord’s decision. Rental rates have gone up much higher than home prices in the last few years.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for us about this topic or anything else related to real estate, give us a call or send us an email. We would love to hear from you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/the-pros-and-cons-of-buying-and-renting-copy.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/the-pros-and-cons-of-buying-and-renting-copy.html</guid>
+        
+        <category>Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>When to Stop Saving and Start Your Home Search</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/qON83BAuiwY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Should you keep saving to purchase a home, or should you buy a home now? &lt;/p&gt;
+
+&lt;p&gt;This is a great question, and it all comes down to how much you are saving and whether your savings are outpacing the rate at which the market is appreciating. For example, if you’re saving $1,000 a month and the market is appreciating at $500 a month, it makes sense to save your money to buy a house. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unfortunately, our market is growing at a faster rate than most people are able to save right now. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In our last video, we mentioned that appreciation is going to be anywhere from 6% to 8% in 2018, so keep that in mind. &lt;/p&gt;
+
+&lt;p&gt;If we’re at a pace of 6% appreciation and you’re not able to keep up with your savings, it’s probably wise to buy a home sooner rather than later. That way, you’ll end up ahead. &lt;/p&gt;
+
+&lt;p&gt;You should also keep an eye on interest rates. We’re in an environment where they have been talking about raising interest rates for a long time, and they are starting to do that now. As rates go up, a buyer’s purchasing power is going to be greatly limited. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Interest rates are the single greatest factor that can influence your monthly payment.%20http://colemererealtyvideoblog.com/when-to-stop-saving-and-start-your-home-search.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Interest rates are the single greatest factor that can influence your monthly payment.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For every 1% increase in interest rates, your mortgage payment goes up about $200.&lt;/strong&gt; Interest rates are the single greatest factor that can influence a monthly payment. &lt;/p&gt;
+
+&lt;p&gt;The good news is that there are some really favorable loan programs right now with low down payments or no down payment at all. In a market that’s appreciating like ours, it’s a good idea to take advantage of some of these programs to buy a home. There are also some grant programs that provide money for down payments. So, there are some favorable options out there if you don’t quite have the money you think you need. &lt;/p&gt;
+
+&lt;p&gt;If you have any questions, please don’t hesitate to reach out to us. We are well-versed in what’s going on in the market, and we’d love to help you. &lt;br /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://colemererealtyvideoblog.com/when-to-stop-saving-and-start-your-home-search.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/when-to-stop-saving-and-start-your-home-search.html</guid>
+        
+        <category>Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Dealing With Low Appraisals: Part 1</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nSmTVzLrVy4&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today we’re excited to bring you the first installment of a two-part series on what you should do when your appraisal comes in low. &lt;/p&gt;
+
+&lt;p&gt;We’re in a strong seller’s market right now. Certain price ranges are generating multiple offers for the listings that are out there, so sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract.  &lt;/p&gt;
+
+&lt;p&gt;From a buyer’s perspective, &lt;strong&gt;the first thing to remember is that you always have the right to cancel the contract if the appraisal comes in low&lt;/strong&gt;. This is the easy solution, but it doesn’t get you the house.&lt;/p&gt;
+
+&lt;p&gt;Typically when an appraisal comes in low, most people will try to renegotiate. This may mean that the buyer will have to come up with some extra funds or get rid of some closing costs that have been previously negotiated with the seller. &lt;/p&gt;
+
+&lt;p&gt;Usually, there is an attempt by both parties to make it work out for everyone. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract.%20http://colemererealtyvideoblog.com/dealing-with-low-appraisals-part-1.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Sometimes an appraiser will enter the picture and disagree with the price that is listed on the contract.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If it was an FHA appraisal, then the appraisal stays with the property whether the deal works out or not&lt;/strong&gt;&lt;strong&gt;. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;During the process of renegotiating, it’s important that everyone pays attention to the contract deadline. Buyers especially need to realize that you must negotiate within this deadline if you want to get your earnest money back in the event the deal falls through. &lt;strong&gt;If you negotiate outside of the deadlines, the earnest money can be lost. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 20 Feb 2018 00:00:00 -0600</pubDate>
+        <link>http://colemererealtyvideoblog.com/dealing-with-low-appraisals-part-1.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/dealing-with-low-appraisals-part-1.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why It’s Never too Early to Start Preparing to Sell</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/m2CEgIFTQBg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you’re planning to sell your home this spring, it’s never too early to start preparing it for sale now. &lt;/p&gt;
+
+&lt;p&gt;Most sellers typically take between one and two months to prepare the home. They’ve got to make repairs, declutter, stage the home, and more. If you need help with any of this stuff, we’d be glad to help. &lt;strong&gt;We want to help get your home as beautiful as possible for the market so that you’ll get the most bang for your buck when you decide to sell.&lt;/strong&gt; &lt;/p&gt;
+
+&lt;p&gt;Aside from preparing your home, which is important, you should also make sure your finances are in order. We have some great lenders that we can refer you to that can help you out and make sure you’re comfortable with your budget. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You also need to make sure your finances are in order.%20http://colemererealtyvideoblog.com/why-its-never-too-early-to-start-preparing-to-sell.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You also need to make sure your finances are in order.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We also have the tools to help set you up with an automated home search so that you can get a better feel for the market you are buying and/or selling in.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for us about the current state of the market or if you have any other questions about real estate, give us a call or send us an email. We look forward to hearing from you.&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Feb 2018 00:00:00 -0600</pubDate>
+        <link>http://colemererealtyvideoblog.com/why-its-never-too-early-to-start-preparing-to-sell.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/why-its-never-too-early-to-start-preparing-to-sell.html</guid>
+        
+        <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What Can You Expect From the 2018 Real Estate Market in Utah?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mCTKc4JqhVU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What can you expect from the 2018 real estate market? We want to share our forecast with you today. &lt;/p&gt;
+
+&lt;p&gt;Since the real estate market was strong in  2017 and we expect it to continue to be strong in 2018, interest rates should go up. &lt;strong&gt;The Fed will probably raise interest rates two or three times in 2018. &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;According to what we saw in 2017, you can expect more low inventory in 2018. We will continue in a strong seller’s market because of strong buyer demand. &lt;/p&gt;
+
+&lt;p&gt;As we continue to add more people to the Wasatch Front through job growth or people having children, we are going to continue to see strong demand going forward, which will also cause prices to continue to go up.  &lt;/p&gt;
+
+&lt;p&gt;If you plan on selling your home, you want to make sure that you justify your pricing, even if you are in a strong seller’s market. Reach out to a real estate professional like us. We can definitely help you with pricing. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Strong demand will cause prices to go up in 2018.%20http://colemererealtyvideoblog.com/what-can-you-expect-from-the-2018-real-estate-market-in-utah.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Strong demand will cause prices to go up in 2018.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When you sell your home, chances are your buyer will use financing to purchase the house. That means you are selling your house twice, once to the buyer and once to the appraiser. The home has to appraise, or else nobody wins. &lt;/p&gt;
+
+&lt;p&gt;If you are a first-time buyer in the $200,000 to $300,000 price range, it’s especially important that you are prepared to be very competitive with your offer. &lt;strong&gt;You need to be able to move fast.&lt;/strong&gt; We have a number of different tips that you can help you succeed in this market. &lt;/p&gt;
+
+&lt;p&gt;This is a general forecast for our local real estate market. If you would like more specific information for your neighborhood, or if you have any other questions, just give us a call or send us an email. We would be happy to help you!&lt;br /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Tue, 16 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://colemererealtyvideoblog.com/what-can-you-expect-from-the-2018-real-estate-market-in-utah.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/what-can-you-expect-from-the-2018-real-estate-market-in-utah.html</guid>
+        
+        <category>Market Update</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Did the Market Do in 2017?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/2nepHLg7bjA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Since we’re fresh into the new year, we thought it would be a good idea in planning for the future to give you all a recap about what happened in the market in 2017.&lt;/p&gt;
+
+&lt;p&gt;In terms of the volume of sales in 2017, there were about &lt;strong&gt;20,000 units sold over the past year in Salt Lake County, which, compared to 2016, was about the same.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing to note, however, is that the price per square foot increased from about $126 to $137. &lt;strong&gt;This shows that prices are going up.&lt;/strong&gt; It is important to keep in mind that price per square foot isn’t the best way to measure value, but it is an indicator of where values are going. &lt;/p&gt;
+
+&lt;p&gt;We are also seeing what you’d expect when prices per square foot go up—the median sales price is also up from $268,000 to $299,000.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The rising price per square foot indicates that home values are on the rise.%20http://colemererealtyvideoblog.com/how-did-the-market-do-in-2017.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The rising price per square foot indicates that home values are on the rise.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Inventory remains low&lt;/strong&gt;, especially in lower price ranges. We see inventories of two months or fewer across the board. When you have lower inventory like we’ve seen, it will also reduce the days on market. On average in 2017, the days on market was 20 days. This will vary a bit based on the price point of the home or where it’s located.&lt;/p&gt;
+
+&lt;p&gt;This is just a snapshot of what we observed over the past year. As always, if you have any questions about the market or real estate in general, please feel free to contact your Colemere Realty team member. We are looking forward to the new year ahead and wish you all the best moving forward. &lt;br /&gt; &lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Jan 2018 00:00:00 -0600</pubDate>
+        <link>http://colemererealtyvideoblog.com/how-did-the-market-do-in-2017.html</link>
+        <guid isPermaLink="true">http://colemererealtyvideoblog.com/how-did-the-market-do-in-2017.html</guid>
+        
+        <category>Market Update</category>
         
         
       </item>
