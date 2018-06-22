@@ -23,7 +23,7 @@ youtube_code: cd7I69VqkAw
 
 <center>&nbsp;</center>
 
-Today I’d like to introduce you to an important member of our team that doesn’t always get the shine she deserves. Many of my clients have never met Brittany Perez, but at one point or another they've definitely worked with her &nbsp;**Brittany is our transaction coordinator, and she’s been with us for five years now.&nbsp;**
+Today I’d like to introduce you to an important member of our team that doesn’t always get the shine she deserves. Many of my clients have never met Brittany Perez, but at one point or another they've definitely worked with her. &nbsp;**Brittany is our transaction coordinator, and she’s been with us for five years now.&nbsp;**
 
 She was trained by me and probably knows a little bit more than me about the business by now. I just wanted to put a face to the name, and give you an idea of all the behind-the-scenes things she does for us.&nbsp;
 
