@@ -39,4 +39,4 @@ While spring is best for selling your home, there are a lot of details that need
 
 For example, while there are fewer homebuyers in the fall and winter, they tend to be more serious and eager to find a place before the holidays. In the summer there may be added pressure because of school returning to session. In short, **it’s not as simple as saying that spring is the best time to sell** for everyone.
 
-If you have any other questions about when to list your home, please feel free to contact me any time. I look forward to speaking with you soon.
+If you have any other questions about when to list your home, please feel free to contact me anytime. I look forward to speaking with you soon.
