@@ -25,11 +25,11 @@ youtube_code: dLutuNyVfiE
 
 &nbsp;
 
-“What is the best month to sell your home?” is today’s topic and with it comes a bit of controversy. **Real estate experts across the country agree that spring is the best time to sell your home**. However, do the facts support this view?
+Which month is the best time to sell one's home? We'll be discussing the answer to this question, and the controversy around it, today. **Real estate experts across the country agree that spring is the best time to sell your home**. However, do the facts support this view?
 
-Real estate web platform Homelight wanted to find the actual answer, so they looked at different markets to see when the best time was to sell a home. &nbsp;**What they found was that spring did come out on top in many situations, however, not all of them**.
+Real estate web platform Homelight wanted to find the definitive answer, so they looked at different markets to see when the best time was to sell a home. &nbsp;**What they found was that spring did come out on top in many situations, however, not all of them**.
 
-For example, Greenville, South Carolina’s best month was July, which beat out the average sales price by 150%. &nbsp;Meanwhile, Breckenridge, Colorado’s February was the winner with a 106% increase over the average. And, Tomball, Texas homes sold in October for 133% more than the average for the year.
+For example, the best month to sell in Greenville, South Carolina tends to be July, when the area's average sales price has been shown to increase by 150%. In Breckenridge, Colorado, February was the winner with a 106% increase over the average. And homes in Tomball, Texas sold in October for 133% more than the average for the year.
 
 So, what does all this mean for you? If you want a broad recommendation for when to sell your home, list your home right now at the very start of spring. It is a recommendation that can't be beat.
 
