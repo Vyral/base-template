@@ -29,16 +29,16 @@ youtube_code: y2WzIILWNS0
 At some point, your agent is going to ask you to commit to the professional relationship you have with them. Keep in mind that when they ask this, they are also promising to make a commitment to you. **So why is this in your, and the agent’s, best interest?**
 {: .present-before-paste}
 
-It is long been said that you get what you pay for, and this is true in real estate. If you are partnering with a laundry list of agents on the sale of your home, how hard is any one professional really going to work for you?&nbsp;
+It is long been said that you get what you pay for, and this is true in real estate. If you are partnering with a laundry list of agents on the sale of your home, how hard is any one professional really going to work for you? 
 {: .present-before-paste}
 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-When our team members sign an agent agreement, we take our service to the next level. We will get out there and find properties for our clients that are not even on the market yet. **This is not something we would do for someone we are not working with exclusively.&nbsp;**
+When our team members sign an agent agreement, we take our service to the next level. We will get out there and find properties for our clients that are not even on the market yet. **This is not something we would do for someone we are not working with exclusively. **
 {: .present-before-paste}
 
-This is exactly what makes exclusivity so important in the realm of real estate, especially as it relates to buyers.&nbsp;
+This is exactly what makes exclusivity so important in the realm of real estate, especially as it relates to buyers. 
 {: .present-before-paste}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
