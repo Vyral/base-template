@@ -21,15 +21,15 @@ youtube_code: 'https://youtu.be/WtPW99CxhsQ'
 
 Academy Mortgage has helped hundreds of families in the Houston area buy homes, so **I’m here today with Damon Sorrell to talk about all the great products they have for homebuyers and current homeowners.**
 
-If a seller is thinking about refinancing their home, how should they begin the process? At Academy Mortgage, their goal is to help all of their clients by building prosperity through all of the different loan products they offer. For homeowners who are thinking of refinancing, there are plenty of options. **One of these is a rate-term refinance where they can lower their current interest rate, as well as a cash-out refinance loan where you can pull some equity out in your home as cash to use for whatever you want.**
+If a seller is thinking about refinancing their home, how should they begin the process? At Academy Mortgage, their goal is to help all of their clients by building prosperity through all of the different loan products they offer. For homeowners who are thinking of refinancing, there are plenty of options. **One of these is a rate-term refinance where they can lower their current interest rate. There is also a cash-out refinance loan where you can pull out some of the equity from your home as cash to use for whatever you want.**
 
-In Texas, you are able to pull out 20% of the equity in your home if it’s completely paid off. For example, if your home is worth $100,000, you can pull up to $80,000 out of the equity and use it as needed.
+In Texas, you are able to pull out 80% of the equity in your home if it’s completely paid off. For example, if your home is worth $100,000, you can pull up to $80,000 out of the equity and use it as needed.
 
 {% include pullquote.html %}
 
 Academy Mortgage also has some great loans for veterans. **With a VA loan, you won’t have to make a down payment nor will you have to pay mortgage insurance.**
 
-For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as little as 3.5%.&nbsp;
+For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%.&nbsp;
 
 If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 403-3192 or visit [**his website**](https://academymortgage.com/lo/damonsorrell){: target="_blank"} today.
 
