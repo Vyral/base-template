@@ -38,7 +38,7 @@ permalink: /how-it-works/
 <p>Purchasing great data is very confusing and it is one of the most overlooked pieces of creating a successful outbound calling campaign.  We have tested the data from many of the top data providers and we can save you a significant amount of time and money!<p>
 
 <p>Here is a Google Doc with some of our best practices.<p>
-<p><a href="https://docs.google.com/document/d/1LwqdoTvnYNcELIwui_SXSK_H19UDUZz7IcO25GXvtxE/edit?usp=sharing"><p>
+<a href="https://docs.google.com/document/d/1LwqdoTvnYNcELIwui_SXSK_H19UDUZz7IcO25GXvtxE/edit?usp=sharing"></a> 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wx-JInZV4Kc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p>
