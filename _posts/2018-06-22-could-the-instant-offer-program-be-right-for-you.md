@@ -23,11 +23,11 @@ youtube_code: sIxMbYGm6Uk
 
 <center>&nbsp;</center>
 
-Today we’re answering a question about our instant offers program. Over the last several years, I’m sure you’ve heard about this program on the radio over the last few years. A lot of people wonder if it’s real. It definitely is.
+Today we’re answering a question about our instant offers program. Over the last several years, I’m sure you’ve heard about this program on the radio over the last few years. A lot of people wonder if it’s real. Well it definitely is.
 
 **This program was borne out of a need that we saw in the community last year.** We went and met with a sweet elderly woman who wanted to sell her home with us. She mentioned to us that she was under a lot of stress about showing the house and keeping her cats out of the way. I happened to be making a move at the time and said, “What if I bought it?” Her eyes immediately lit up, and Toni sold the home to me and I live in it now.
 
-<br>There’s a segment of the population like this. **They don’t have the time, the money, or the energy to prepare and show their homes.** Many are under a time crunch and need to sell quickly. That’s why we created this program.
+There’s a segment of the population like this. **They don’t have the time, the money, or the energy to prepare and show their homes.** Many are under a time crunch and need to sell quickly. That’s why we created this program.
 
 {% include pullquote.html %}
 
