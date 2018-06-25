@@ -38,7 +38,10 @@ permalink: /how-it-works/
 <p>Purchasing great data is very confusing and it is one of the most overlooked pieces of creating a successful outbound calling campaign.  We have tested the data from many of the top data providers and we can save you a significant amount of time and money!<p>
 
 <p>Here is a Google Doc with some of our best practices.<p>
+<p>https://docs.google.com/document/d/1LwqdoTvnYNcELIwui_SXSK_H19UDUZz7IcO25GXvtxE/edit?usp=sharing<p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wx-JInZV4Kc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kS7u9NsnXgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">We set your caller up on Five9, a professional call center software, in order to get the best results and have access to advanced tracking and reporting.</p> 
 
@@ -55,12 +58,13 @@ permalink: /how-it-works/
 <p class="orange">You immediately call the lead to set-up the listing or acquisition appointment, and put them into the proper nurture campaign in order to convert them into a customer.</p> 
 
 <p>Before you hire us, it is very important that you have a great lead follow-up system in place.  You must immediately call every lead that we send you, put them into an automated drip sequence, and have systems and processes in place to stay “top of mind” and continue to nurture these leads until they become customers.<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-3ZDPga1gk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">We run and interpret extremely detailed analytic reports that allow us to make adjustments and improvements to each one of your individual campaigns.</p>  
 
 <p>We track, monitor, and manage all of your campaigns on a daily basis.  We are able to keep detailed analytics on your callers performance, the quality of your data, and exactly where your leads are coming from. We present these reports to you, every week, on a video conference call.  We then go and execute all of the necessary adjustments in order to improve your campaign performance and get more leads.<p>
 
-
+<p>https://docs.google.com/spreadsheets/d/1aS4_Atl2I7Q0v5xgPqwDeBS36mU0pKQyz9woEO-Y2MI/edit?usp=sharing<p>
 
 
 
