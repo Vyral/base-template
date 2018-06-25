@@ -65,9 +65,8 @@ permalink: /how-it-works/
 <p class="orange">We run and interpret extremely detailed analytic reports that allow us to make adjustments and improvements to each one of your individual campaigns.</p>  
 
 <p>We track, monitor, and manage all of your campaigns on a daily basis.  We are able to keep detailed analytics on your callers performance, the quality of your data, and exactly where your leads are coming from. We present these reports to you, every week, on a video conference call.  We then go and execute all of the necessary adjustments in order to improve your campaign performance and get more leads.<p>
-
 <a href="https://docs.google.com/spreadsheets/d/1aS4_Atl2I7Q0v5xgPqwDeBS36mU0pKQyz9woEO-Y2MI/edit?usp=sharing">Click Here For An Example Performance Sheet</a> 
-<p>
+
 
 
 
