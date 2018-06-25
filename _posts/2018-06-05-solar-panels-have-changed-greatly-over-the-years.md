@@ -9,7 +9,7 @@ excerpt: >-
   they have improved, I have Bruce Wilson of SunPower with me today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Karlyn+Ellis/Buda%252C+Texas+Real+Estate-+What+You+Should+Know+About+the+Solar+Panels+of+Today+(1).mp4
-pullquote: I just added a listing where the highest electric bill was $1.26 last year!
+pullquote: This is possible because of the increase in efficiency of the panels themselves.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
