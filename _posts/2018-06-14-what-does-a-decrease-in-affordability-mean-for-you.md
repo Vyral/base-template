@@ -4,8 +4,7 @@ title: What Does a Decrease in Affordability Mean for You?
 date: 2018-06-14 00:00:00
 tags:
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Market Update
 excerpt: >-
   Affordability has dropped since the beginning of the year. What does that mean
   if you are buying or selling in the Phoenix area?
