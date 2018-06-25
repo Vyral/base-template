@@ -11,7 +11,7 @@ enclosure:
 pullquote: Knowing if and when it is time to move can be confusing.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/6-15_Jeff_Cook_yt_2.jpg
 youtube_code: 'https://youtu.be/jkrcp4J3hNc'
 ---
