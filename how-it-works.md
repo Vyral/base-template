@@ -39,6 +39,7 @@ permalink: /how-it-works/
 
 <p>Here is a Google Doc with some of our best practices.<p>
 <a href="https://docs.google.com/document/d/1LwqdoTvnYNcELIwui_SXSK_H19UDUZz7IcO25GXvtxE/edit?usp=sharing">Click Here For Best Practices</a> 
+<p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wx-JInZV4Kc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p>
