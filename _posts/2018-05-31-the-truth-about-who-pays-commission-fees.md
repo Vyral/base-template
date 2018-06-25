@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: dbOXjSQoODs
+youtube_code: FBKUCzFG-7E
 ---
 
 {% include youtube.html %}
@@ -28,6 +28,6 @@ Actually, the seller is responsible for paying commission fees for both agents i
 
 {% include pullquote.html %}
 
-It doesn’t cost you anything out-of-pocket to have an agent on your side, as your agent’s fee will be paid from the seller’s net proceeds. So **why not make sure that you have a professional working on your behalf?** Agents aren’t paid until the deal is closed and the buyer has their keys.&nbsp;
+It doesn’t cost you anything out-of-pocket to have an agent on your side, as your agent’s fee will be paid from the seller’s net proceeds. So **why not make sure that you have a professional working on your behalf?** Agents aren’t paid until the deal is closed and the buyer has their keys. 
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
