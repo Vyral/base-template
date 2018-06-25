@@ -24,6 +24,16 @@ youtube_code: 5xWMM2tiaoA
 
 {% include youtube.html %}
 
-&nbsp;
+I have a four ideas for preparing to sell your home and put it on the market that I would like to share with you today. With these tips, your home will be market ready and sold quickly.
+
+**1. Clean up the outside of your home.** Since the outside of your house is the first place your potential buyers are going to see, you should clean up your landscaping to make a good first impression. Buyers do not want to see unkempt yards and dirty, dingy front doors when they first see your home.
+
+**2. Utilize your space.** When buyers walk into your home, they are going to see your furniture arrangement first. You can open up the floor plan by organizing the furniture accordingly. To help buyers imagine themselves living in the home, take down family pictures, remove personal items, and declutter the home's countertops, cabinets, and junk drawers.
 
 {% include pullquote.html %}
+
+**3. Pay attention to your pantry.** Many people cram a pantry with as much as possible. However, if it is full, a buyer is not going to see how much storage is really available. Clean out the space and keep what you need so that buyers can see all that there is to offer.
+
+**4. Clean the overlooked places.** Knock down cobwebs, dust above the fan, clean the corners and baseboards, and anywhere else that you do not typically clean on a regular basis.
+
+If you have any questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
