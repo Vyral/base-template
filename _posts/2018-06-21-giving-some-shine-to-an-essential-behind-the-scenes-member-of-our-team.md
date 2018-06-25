@@ -23,12 +23,12 @@ youtube_code: cd7I69VqkAw
 
 <center>&nbsp;</center>
 
-Today I’d like to introduce you to an important member of our team that doesn’t always get the shine she deserves. Many of my clients have never met Brittany Perez, but at one point or another they've definitely worked with her. &nbsp;**Brittany is our transaction coordinator, and she’s been with us for five years now.&nbsp;**
+Today I’d like to introduce you to an important member of our team that doesn’t always get the shine she deserves. Many of my clients have never met Brittany Perez, but at one point or another they’ve definitely worked with her. &nbsp;**Brittany is our transaction coordinator, and she’s been with us for five years now.&nbsp;**
 
 She was trained by me and probably knows a little bit more than me about the business by now. I just wanted to put a face to the name, and give you an idea of all the behind-the-scenes things she does for us.&nbsp;
 
 {% include pullquote.html %}
 
-**Once a home is ready to be listed, Brittany is the one making sure everything is handled properly.** Once the home goes under contract, she handles the inspection, appraisals, and stays in constant communication with all of our clients. She ensures all the deadlines are hit so that everything flows seamlessly.&nbsp;
+**Once a home is ready to be listed, Brittany is the one making sure everything is handled properly.** Then when the home goes under contract, she handles the inspection, appraisals, and stays in constant communication with all of our clients.&nbsp;
 
-If you need any help buying or selling real estate or if you just have any questions, don't hesitate to reach out and give us a call or send us an email today. We look forward to hearing from you soon.
+If you need any help buying or selling real estate or if you just have any questions, don’t hesitate to reach out and give us a call or send us an email today. We look forward to hearing from you soon.
