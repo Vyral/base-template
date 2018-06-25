@@ -23,7 +23,7 @@ youtube_code: XsuZSruLMo0
 
 Recently, Fannie Mae enacted a few changes in regards to transferring the ownership of investment properties into entities such as an LLC. You may remember the recent video I filmed on this topic, but, of course, things have changed again. This time, there are essentially three points you need to know.
 
-**1. The loan must have been securitized by June 1, 2016.** This means you must have closed on or after this date in order to carry out this kind of transfer in ownership.
+**1. The loan must have been securitized by June 1, 2016 or later.** This means you must have closed on or after this date in order to carry out this kind of transfer in ownership.
 
 **2. The LLC must be in good standing with the state.**
 
