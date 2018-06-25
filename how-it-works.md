@@ -58,7 +58,7 @@ permalink: /how-it-works/
 <p class="orange">You immediately call the lead to set-up the listing or acquisition appointment, and put them into the proper nurture campaign in order to convert them into a customer.</p> 
 
 <p>Before you hire us, it is very important that you have a great lead follow-up system in place.  You must immediately call every lead that we send you, put them into an automated drip sequence, and have systems and processes in place to stay “top of mind” and continue to nurture these leads until they become customers.<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/A-3ZDPga1gk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="400" height="215" src="https://www.youtube.com/embed/A-3ZDPga1gk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">We run and interpret extremely detailed analytic reports that allow us to make adjustments and improvements to each one of your individual campaigns.</p>  
 
