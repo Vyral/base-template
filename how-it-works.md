@@ -41,7 +41,7 @@ permalink: /how-it-works/
 <p>https://docs.google.com/document/d/1LwqdoTvnYNcELIwui_SXSK_H19UDUZz7IcO25GXvtxE/edit?usp=sharing<p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wx-JInZV4Kc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<div>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kS7u9NsnXgw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p class="orange">We set your caller up on Five9, a professional call center software, in order to get the best results and have access to advanced tracking and reporting.</p> 
