@@ -2618,6 +2618,9 @@ form select {
   list-style-position: outside;
   list-style-type: disc; }
 
+.orange {
+  color: #f47820; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
