@@ -22,7 +22,9 @@ youtube_code: x8mRHTHahII
 
 {% include youtube.html %}
 
-Are you unsure which type of property you should purchase? Today I have some advantages and disadvantages of living in a condo or a townhome.
+<p style="text-align: cetnter;"><em>Are you unsure which type of property you should purchase? Today I have some advantages and disadvantages of living in a condo or a townhome.</em></p>
+
+<center>&nbsp;</center>
 
 Many people ask me about whether they should consider a condo or a townhome. Well, at the end of the day, it is really a personal preference as to whether you should consider one of those types of properties instead of a single-family home. If you do consider them, you should know that there are many advantages and disadvantages associated with these types of property.
 
