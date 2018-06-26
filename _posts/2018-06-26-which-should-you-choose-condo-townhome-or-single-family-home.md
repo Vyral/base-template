@@ -34,7 +34,7 @@ Another advantage is that moving to this kind property provides an easier transi
 
 {% include pullquote.html %}
 
-However, **it is important to remember that there is a price to pay for having the convenience of living in a townhome or a condo.** Monthly homeowners association (or HOA) fees can range from several hundred dollars to over a thousand dollars depending on the complex here in Southern California. And you will want to verify what amenities you are getting for that amount.&nbsp;
+However, **it is important to remember that there is a price to pay for having the convenience of living in a townhome or a condo.** Monthly homeowner's association (or HOA) fees can range from several hundred dollars to over a thousand dollars depending on the complex here in Southern California. And you will want to verify what amenities you are getting for that amount.&nbsp;
 
 Depending on the price of the HOA fees, you may be better off applying that money toward a monthly mortgage payment and purchasing a single-family home instead.&nbsp;
 
