@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Secret to Our Open House Success
-date: 2018-06-26 14:00:03
+date: 2018-06-26 14:00:00
 tags:
+  - Real Estate
 excerpt: >-
   Why do we have such great success with our open houses? Here are a few reasons
   why.
@@ -28,10 +29,8 @@ On the day of the open houses, the most critical thing is that we put out a lot 
 
 {% include pullquote.html %}
 
-**Even if nobody buys the home or makes an offer, &nbsp;you’ll still have the opportunity to work with some new buyers.** We actually average about one new buyer per open houses that actually ends up doing business and closing on a purchase with us.
+**Even if nobody buys the home or makes an offer,  you’ll still have the opportunity to work with some new buyers.** We actually average about one new buyer per open houses that actually ends up doing business and closing on a purchase with us.
 
 Once the open houses is done, the couriers take down the signs, and you can follow up with all of the great contacts you made at the open house. **I****’ve had over 85 people register with us at one of these open houses before.**
 
 Open houses are still useful in today’s market and can really help you take your business to the next level. If you want to learn more about our strategy or if you just have any questions, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
-
-&nbsp;
