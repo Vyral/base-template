@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Buyers and Sellers: Don''t Panic Over the Recent Drop in Affordability'
+title: 'Buyers and Sellers:  What Should be Your Perspective on the Current Drop in Affordability?'
 date: 2018-06-20 14:51:52
 tags:
 excerpt: >-
