@@ -8,7 +8,7 @@ excerpt: >-
   Happy Fourth of July! On this day in our nation’s history, the founding
   fathers took some of the first steps toward what would become the American
   independence we enjoy today. And the rights they proclaimed on that day still
-  ring true in this moment. So I hope that as you enjoy this holiday with loved
+  ring true in this moment. So I hope that you enjoy this holiday with loved
   ones. To see my full message, watch this short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Schuster/Videos+/2018/John+Schuster+Group-+4th+of+July.mp4
@@ -24,9 +24,9 @@ youtube_code: PXG6FSMj1WA
 
 {% include youtube.html %}
 
-242 years ago this July 4, our founding fathers took the first steps in creating American independence. 
+242 years ago this July 4, our Founding Fathers took the first steps in creating American independence.&nbsp;
 
-It is during times such as these that we should reflect on the famed, familiar words of Thomas Jefferson: **“We hold these truths to be self-evident: That all men are created equal;** that they are endowed by their creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.” 
+It is during times such as these that we should reflect on the famed, familiar words of Thomas Jefferson: **“We hold these truths to be self-evident: That all men are created equal;** that they are endowed by their creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.”&nbsp;
 
 {% include pullquote.html %}
 
