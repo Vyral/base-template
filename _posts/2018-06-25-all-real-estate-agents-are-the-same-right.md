@@ -20,7 +20,7 @@ youtube_code: i0_Zv5ZJMbs
 
 {% include youtube.html %}
 
-I have been asked many questions over the years all pertaining to the same theme, which is “Aren't all real estate agents the same?” You put a sign in the yard, post the property on the MLS, and wait for someone to sell the property, right?
+Over the years, I've been asked several variations of the same question. That question is: "Aren't all agents the same?" You put a sign in the yard, post the property on the MLS, and wait for someone to sell the property, right?
 
 Not exactly.
 
@@ -32,8 +32,8 @@ This is why I am part of a full-service brokerage. **I sit down with you and we 
 
 {% include pullquote.html %}
 
-When you call a real estate agent, should you expect them all to do the same thing? No. Should you expect them to charge the same thing? No. Should you be wary if an agent says their commission without ever looking at you home? Yes. If they never looked at your home, they do not know what they are marketing.
+When you call a real estate agent, should you expect them all to do the same thing? No. Should you expect them to charge the same thing? No. Should you be wary if an agent says their commission without ever looking at your home? Yes. If they never looked at your home, they do not know what they are marketing.
 
-So if you are serious about selling your home, give me a call. I will not rake you over the coals, but I will instead provide you a quality service at a reasonable price. I look forward to speaking with you soon about how I can help you net the most money for your property.
+So if you are serious about selling your home, give me a call. I will not rake you over the coals, but I will instead provide you with quality service at a reasonable price. I look forward to speaking with you soon about how I can help you net the most money for your property.
 
 &nbsp;
