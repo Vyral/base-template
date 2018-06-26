@@ -22,13 +22,13 @@ youtube_code: _TNL44gIx8o
 
 A client of mine recently asked me to clarify a few important points on the subject of homeowners associations (or HOAs), so I wanted to share some of this information with all of you today.
 
-One of the main things to keep in mind when purchasing property within an HOA is that **your home’s square footage will determine the percentage you pay in HOA fees.**
+One of the main things to keep in mind when purchasing property in an HOA is that **your home’s square footage will determine the percentage you pay in HOA fees.**
 
 The type of building you live in will also play a role in how much you can expect to pay. A luxury building will be much different than a row house, for example. But **even properties of the same type may have different items and amenities included in the HOA fee,** so it’s important to carefully review what you’re paying for before making your move.
 
 {% include pullquote.html %}
 
-Specifically, you should look into what is included in your utility bill, and also whether you’re paying any insurances on the building.
+Specifically, you should look into what is included in your utility bill, and also whether you’re paying any insurance on the building.
 
 And beyond what’s included in your fees, **you should also find out whether the building has plans for assessments or if there are any updates in the works.**
 
