@@ -3,7 +3,7 @@ layout: default
 title: Suggest a Video Topic/Question
 permalink: /question/
 ---
-<h2>Request a Free Strategy Session</h2>
+<h2>Suggest a Video Topic/Question</h2>
 <p>Have a question you'd like us to answer? Send it to us and we'll answer it with a video.</p>
 <form class="contact-form" method="post" action="http://formspree.io/Nancy@KWParkCity.com">
   <input type="text" name="name" placeholder="Name" required>
