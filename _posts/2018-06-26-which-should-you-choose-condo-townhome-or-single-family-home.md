@@ -22,7 +22,7 @@ youtube_code: x8mRHTHahII
 
 {% include youtube.html %}
 
-<p style="text-align: cetnter;"><em>Are you unsure which type of property you should purchase? Today I have some advantages and disadvantages of living in a condo or a townhome.</em></p>
+<p style="text-align: center;"><em>Are you unsure which type of property you should purchase? Today I have some advantages and disadvantages of living in a condo or a townhome.</em></p>
 
 <center>&nbsp;</center>
 
