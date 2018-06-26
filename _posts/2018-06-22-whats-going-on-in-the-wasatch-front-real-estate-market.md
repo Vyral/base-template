@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Wasatch Front Real Estate Market?
-date: 2018-06-22 14:59:09
+date: 2018-06-22 14:59:00
 tags:
   - Market Update
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-youtube.jpg
-youtube_code: ZL8DxKmk0cM
+youtube_code: UwHyjeOGjK4
 ---
 
 {% include youtube.html %}
