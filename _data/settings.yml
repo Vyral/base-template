@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND -- Career and Training Video Blog
+title: Keller Williams Park City Career and Training Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -42,6 +42,13 @@ second_sidebar_CTA:
     CTA_text2: "Sell more homes by joining forces with the most dynamic real estate company in the world."
     CTA_link_text2: "Career Information"
     CTA_url2: http://kwpc.yourkwoffice.com/mcj/user/whyKW.html?pageId=45186
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/002.jpg
+    CTA_title3: "Suggest a Video Topic/Question"
+    CTA_text3: "Have a question you'd like us to answer? Send it to us and we'll answer it with a video."
+    CTA_link_text3: "Suggest a Topic"
+    CTA_url3: /question/
 
 lender:
   show_section: false
