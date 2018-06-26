@@ -6,10 +6,10 @@ tags:
   - Home Seller Tips
 excerpt: >-
   How do you prepare your home to sell it on the market? Well, there are many
-  things that you can do. Today I have a list of four of those including
-  cleaning up the outside of your home. Potential buyers see this area first and
-  do not want to see unkempt yards and dingy front doors. To find out more,
-  watch my short video.
+  things that you can do. Today I would like to list four such strategies, one
+  of which being to clean up your home's exterior. Potential buyers see this
+  area first and do not want to see unkempt yards and dingy front doors. To find
+  out more, watch my short video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Tara+Limbird/Videos/2018/Limbird+Real+Estate+Group-+get+your+home+ready+for+market.mp4
 pullquote: >-
