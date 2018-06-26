@@ -8,7 +8,7 @@ excerpt: >-
   current market conditions influence your ability to buy or sell? Let’s discuss
   these critical questions today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+Episode+3-+What+does+the+drop+in+affordability+mean+for+you%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+Episode+3-+What+does+the+drop+in+affordability+mean+for+you%253F+(1).mp4
 pullquote: >-
   Even though affordability is lower than in the recent past, it is still
   significantly higher than it was between 1987 and 2004.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pkXsc0G6Q5U
+youtube_code: C3KSjQBIsYk
 ---
 
 {% include youtube.html %}
