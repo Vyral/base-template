@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Latest News From Our Baltimore Market?
-date: 2018-06-14 15:49:29
+date: 2018-06-20 15:49:29
 tags:
   - Real Estate
 excerpt: >-
