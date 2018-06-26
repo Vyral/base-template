@@ -13,7 +13,7 @@ client:
   license_number:
   about_markdown: |
     Chip Hodgkins was born into business - his family has been doing business in central New York since the late 1800's. Because his roots run deep here, Chip is passionate about helping the community develop and grow through real estate. He works tirelessly to improve his knowledge of the industry so he can service his clients at the highest possible level. When he's not coming up with new marketing strategies, he's traveling across the country attending conferences and events so he can learn from the best and contribute his own ideas to national real estate business systems.
-  market:
+  market: 
   brand: Chip Hodgkins Team of Hunt Real Estate
   brokerage:
   address: 6849 E. Genesee Street<br>Fayetteville, NY 13066
@@ -26,23 +26,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.hodgkinshomes.com/s/Find%20Out%20How%20Much%20Your%20Syracuse%20Home%20Is%20Worth
+  first_CTA_URL: https://www.hodgkinshomes.com/home-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.hodgkinshomes.com/search.aspx
+  second_CTA_URL: https://www.hodgkinshomes.com/results/?status=A
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.hodgkinshomes.com/s/Find%20Out%20How%20Much%20Your%20Syracuse%20Home%20Is%20Worth
+    CTA_url: https://www.hodgkinshomes.com/home-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.hodgkinshomes.com/search.aspx
+    CTA_url2: https://www.hodgkinshomes.com/results/?status=A
 
 lender:
   show_section: false
