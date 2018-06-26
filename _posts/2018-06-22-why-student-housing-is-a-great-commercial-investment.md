@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Student Housing Is a Great Commercial Investment
-date: 2018-06-22 17:59:30
+date: 2018-06-22 17:59:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZvTl28u8apw
+youtube_code: M_-6XOStBNY
 ---
 
 {% include youtube.html %}
@@ -34,5 +34,3 @@ Another benefit of investing in student housing properties is the ability to max
 **Overall, student housing should definitely be part of your commercial real estate business plan.** A lot of our investors love investing in this kind of property in this area. There are some things you’ll have to deal with including the high turnover rate each year, but the enrollment of the university isn’t slowing down any time soon so you won’t have to look hard to find new tenants.
 
 If you have any questions for me about this topic or anything else related to commercial real estate in Columbus, don’t hesitate to give me a call or send an email. I look forward to hearing from you soon.
-
-&nbsp;
