@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Who is responsible for paying the listing agent’s commission fees in a real
-  estate transaction? What about the buyer agent’s? The answer might surprise
+  estate transaction? What about the buyer's agent? The answer might surprise
   you. The truth is that both of these commission fees are paid by one party. So
   does this responsibility fall on the buyer or the seller? To find out, watch
   this short video.
