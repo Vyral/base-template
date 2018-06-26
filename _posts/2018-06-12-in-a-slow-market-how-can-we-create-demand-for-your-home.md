@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'In a Slow Market, How Can We Create Demand For Your Home?'
-date: 2018-06-12 15:17:56
+date: 2018-06-25 15:17:56
 tags:
   - Real Estate
 excerpt: >-
