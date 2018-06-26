@@ -24,7 +24,7 @@ youtube_code: 5xWMM2tiaoA
 
 {% include youtube.html %}
 
-I have a four ideas for preparing to sell your home and put it on the market that I would like to share with you today. With these tips, your home will be market ready and sold quickly.
+I have a four ideas for preparing to sell your home and put it on the market that I would like to share with you today. Following these tips will leave your home primed for the market and ready to sell in no time.
 
 **1. Clean up the outside of your home.** Since the outside of your house is the first place your potential buyers are going to see, you should clean up your landscaping to make a good first impression. Buyers do not want to see unkempt yards and dirty, dingy front doors when they first see your home.
 
