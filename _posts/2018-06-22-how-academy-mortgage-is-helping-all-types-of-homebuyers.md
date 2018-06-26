@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How Academy Mortgage Is Helping All Types of Homebuyers
-date: 2018-06-22 20:03:54
+date: 2018-06-22 20:03:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Our friends at Academy Mortgage do a great job of assisting many of our
   clients. Damon Sorrell joined me recently to discuss exactly how they’ve been
   able to do this.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Mortgage+Advice+for+You.mp4
 pullquote: A VA loan allows you to buy a home without having to make a down payment.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,7 +30,7 @@ In Texas, you are able to pull out 80% of the equity in your home if it’s comp
 
 Academy Mortgage also has some great loans for veterans. **With a VA loan, you won’t have to make a down payment nor will you have to pay mortgage insurance.**
 
-For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%.&nbsp;
+For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%. 
 
 If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 403-3192 or visit [**his website**](https://academymortgage.com/lo/damonsorrell){: target="_blank"} today.
 
