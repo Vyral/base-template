@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does the Appraisal Process Work When Buying?
-date: 2018-05-29 20:47:40
+date: 2018-06-25 20:47:40
 tags:
   - Real Estate
 excerpt: When do you get appraised?
