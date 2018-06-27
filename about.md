@@ -11,5 +11,5 @@ permalink: /about/
 <p>Last year Jennie and The Wolek Group helped 109 families, generated and shared over 100 referrals and donated more than $20,000 to deserving local and national charities. She created a class and trained Magnify Your Mission across the country, launched TWG Rock Stars program, and established the non-profit, Keys to the City. With even bigger goals this year, Jennie and The Wolek Group will Help More, Give Back, Live Large, and Have Fun!</p>
 </div>
 <div>
-<img src="/img/011.jpg" class="post-image">
+<img src="/img/jennie-and-team.jpg" class="post-image">
 </div>
