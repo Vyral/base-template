@@ -28,7 +28,7 @@ As far as what this message contains, make it generic since you’ll be copying 
 
 {% include pullquote.html %}
 
-“Hey, it’s Jenny. How have you been? I’m updating my real estate database and I’d like to send real estate info from time to time. My real estate business was amazing last year.” Or, as an alternative to that line, “I’m new to real estate and I need to be better about staying in touch with people I know. Would you mind replying with your home address, phone number, and email to help me out?”
+“Hey, it’s Jennie. How have you been? I’m updating my real estate database and I’d like to send real estate info from time to time. My real estate business was amazing last year.” Or, as an alternative to that line, “I’m new to real estate and I need to be better about staying in touch with people I know. Would you mind replying with your home address, phone number, and email to help me out?”
 
 Keep your message short and sweet. It’s amazing; **people actually respond,** and these are your Facebook friends, so it’s likely that they know you and want to support you.
 
