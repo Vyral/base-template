@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Can an Escrow Repair Holdback Help Homebuyers and Sellers?
-date:
+date: 2018-06-27 15:04:23
 tags:
   - Real Estate
 excerpt: >-
   Have you ever heard of an escrow repair holdback? Here’s how it works and how
   it can help you out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Can+an+Escrow+Repair+Holdback+Help+Homebuyers+and+Sellers%253F.mp4
 pullquote: >-
   This option allows us to avoid a renovation loan, which usually has a higher
   interest rate.
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: X0aseIbfSWI
 ---
 
 {% include youtube.html %}
