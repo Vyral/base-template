@@ -6,8 +6,7 @@ tags:
 excerpt: >-
   Chicagoland Real Estate Expert discusses how current real estate trends are
   doing in the local area.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Chicagoland+Real+Estate+Agent-+The+new+age+of+real+estate+marketing.mp4
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
