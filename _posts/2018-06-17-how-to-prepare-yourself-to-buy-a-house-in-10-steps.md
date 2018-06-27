@@ -8,7 +8,8 @@ excerpt: >-
   If you think you will be ready to buy a house in the next year, it could be
   time for you to begin preparing for that major purchase now. Today I have 10
   steps to help you prepare.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Prepare+to+Buy+a+Home+in+10+Steps.mp4
 pullquote: >-
   You have to create a personal budget to decide how much you will be able to
   spend on your mortgage payment.
