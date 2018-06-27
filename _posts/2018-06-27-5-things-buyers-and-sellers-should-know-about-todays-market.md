@@ -1,18 +1,20 @@
 ---
 layout: post
 title: 5 Things Buyers and Sellers Should Know About Today's Market
-date:
+date: 2018-06-27 14:22:29
 tags:
+  - Real Estate
 excerpt: >-
   What’s going on in our Greater Milwaukee area market right now? Let’s take a
   look at five key factors.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Roth/Greater+Milwaukee+Real+Estate-+5+Things+Buyers+and+Sellers+Should+Know+About+Today%2527s+Market.mp4
 pullquote: 'Whether you’re thinking of buying or selling, now is a great time to do so.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Q88A-ptjNYg
 ---
 
 {% include youtube.html %}
