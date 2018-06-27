@@ -8,7 +8,8 @@ excerpt: >-
   A recent survey shows that sustainability and energy-efficiency are big
   sellers in the real estate market. Here are some ideas for projects that you
   can use to boost your home’s value.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/James+Duffer/Hill+Harbor+Group+with+James+Duffer+-+Boost+Your+Homes+Value+with+Sustainability.mp4
 pullquote: >-
   With a range of state and federal incentives still in place, solar can be a
   great way to make your home greener and more attractive.
