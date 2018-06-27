@@ -19,14 +19,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PXG6FSMj1WA
+youtube_code: 7MId4xyOelM
 ---
 
 {% include youtube.html %}
 
-242 years ago this July 4, our Founding Fathers took the first steps in creating American independence.&nbsp;
+242 years ago this July 4, our Founding Fathers took the first steps in creating American independence. 
 
-It is during times such as these that we should reflect on the famed, familiar words of Thomas Jefferson: **“We hold these truths to be self-evident: That all men are created equal;** that they are endowed by their creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.”&nbsp;
+It is during times such as these that we should reflect on the famed, familiar words of Thomas Jefferson: **“We hold these truths to be self-evident: That all men are created equal;** that they are endowed by their creator with certain unalienable rights; that among these are life, liberty, and the pursuit of happiness.” 
 
 {% include pullquote.html %}
 
