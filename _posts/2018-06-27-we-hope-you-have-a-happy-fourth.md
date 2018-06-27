@@ -18,7 +18,9 @@ youtube_code: 7VmhzRs9RRI
 
 {% include youtube.html %}
 
-We hope you have a happy Fourth of July. Enjoy the time spent with friends and family.
+<p style="text-align: center;"><em>We hope you have a happy Fourth of July. Enjoy the time spent with friends and family.</em></p>
+
+<center>&nbsp;</center>
 
 {% include pullquote.html %}
 
