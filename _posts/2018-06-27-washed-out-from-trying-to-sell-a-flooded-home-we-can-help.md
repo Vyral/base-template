@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Washed Out From Trying to Sell a Flooded Home? We Can Help
-date:
+date: 2018-06-27 15:49:29
 tags:
   - Real Estate
 excerpt: >-
   Are you interested in selling your flooded home but haven’t received
   attractive offers from local investors? A national or international investor
   may be a better option.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+Washed+Out+From+Trying+to+Sell+a+Flooded+Home%253F+We+Can+Help.mp4
 pullquote: >-
   When we send one property at a time and they have multiple investors wanting
   the property, we create a bidding war.
@@ -16,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: mAeciloU5kY
 ---
 
 {% include youtube.html %}
