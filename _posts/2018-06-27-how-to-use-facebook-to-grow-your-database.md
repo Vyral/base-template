@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Use Facebook to Grow Your Database
-date: 2018-06-27 17:27:52
+date: 2018-06-27 17:27:00
 tags:
   - Lead Generation
 excerpt: >-
   Whether you’re seasoned or new to the industry, utilizing your Facebook
   friends can be a great way to grow your database.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Grow+Your+Database+with+Facebook.mp4
 pullquote: Keep your message short and sweet.
 enclosure_type: video/mp4
 enclosure_time:
