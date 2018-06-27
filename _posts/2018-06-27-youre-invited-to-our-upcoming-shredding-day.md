@@ -1,19 +1,20 @@
 ---
 layout: post
 title: You're Invited to Our Upcoming Shredding Day
-date:
+date: 2018-06-27 15:21:29
 tags:
   - Real Estate
 excerpt: >-
   Do you have any documents or paperwork you need to get rid of? If so, come on
   down to our shredding day on July 14.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tim+Majka/Long+Beach+Real+Estate+Agent-+You%2527re+Invited+to+Our+Upcoming+Shredding+Day.mp4
 pullquote: You’re invited to our upcoming shredding day on July 14.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: PAkpdM6B1qA
 ---
 
 {% include youtube.html %}
