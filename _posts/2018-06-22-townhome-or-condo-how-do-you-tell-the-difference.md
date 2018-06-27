@@ -27,7 +27,7 @@ There is a lot of confusion out there regarding these two types of property. Peo
 
 Similarly, most think of townhomes as being two-story homes with rentable upstairs and downstairs units. This is not necessarily the case.
 
-And it isn’t just prospective buyers who are confused about the how properties are classified. I recently speak with a woman **who owned a property she believed to be a townhome for years, only to eventually discover that her home is technically classified as a condo.**
+And it isn’t just prospective buyers who are confused about the how properties are classified. I recently spoke with a woman **who owned a property she believed to be a townhome for years, only to eventually discover that her home is technically classified as a condo.**
 
 {% include pullquote.html %}
 
