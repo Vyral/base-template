@@ -6,13 +6,14 @@ tags:
 excerpt: >-
   Do you know the difference between condos and townhomes? We’re answering that
   question (and more) today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Dave+Knight+Reality-+How+Do+Townhomes+and+Condos+Differ%253F.mp4
 pullquote: Condos in this area are generally fine with pets.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image:
-youtube_code:
+youtube_code: tfzRdW2aI2c
 ---
 
 {% include youtube.html %}
