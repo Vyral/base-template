@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Townhome or Condo: How Do You Tell the Difference?'
-date: 2018-06-22 18:02:50
+date: 2018-06-22 18:02:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/townhome-vs-condos-youtube.jpg
-youtube_code: EBq9y0ZcYMg
+youtube_code: H199zOz7zmU
 ---
 
 {% include youtube.html %}
