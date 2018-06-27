@@ -1,12 +1,14 @@
 ---
 layout: post
 title: How Much Does the Agent You Work With Matter?
-date:
+date: 2018-06-27 13:45:34
 tags:
+  - Real Estate
 excerpt: >-
   Summer is an ideal time to partner with an agent and begin working toward
   fulfilling your real estate goals.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+How+Much+Does+the+Agent+You+Work+With+Matter%253F.mp4
 pullquote: >-
   From the smallest details to the most significant aspects of the transaction,
   I would be happy to fulfill any and all of your real estate needs.
@@ -14,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: IXOEVqm_MAU
 ---
 
 {% include youtube.html %}
