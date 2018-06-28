@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is a New Construction Home Right for You?
-date: 2018-05-25 18:08:49
+date: 2018-06-27 18:08:49
 tags:
   - Home Buyer Tips
 excerpt: The true benefits of new construction purchases
