@@ -23,7 +23,9 @@ youtube_code: FVpXNi-X-6E
 
 {% include youtube.html %}
 
-<center>There are many things that you can do wrong when you are applying for a mortgage.</center>
+<center><em>There are many things that you can do wrong when you are applying for a mortgage.</em></center>
+
+&nbsp;
 
 Did you know that there are 12 things that you should not do while getting a mortgage? Yes, 12. We have prepared the list so you know what not to do.
 
