@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does a Real Estate Professional's Education Ever End?
-date: 2018-06-27 19:21:01
+date: 2018-06-27 19:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZaRA0aZQM6o
+youtube_code: C0xl8GS0dTM
 ---
 
 {% include youtube.html %}
 
 As a real estate professional, your education doesn’t end with getting your license. This step is just the beginning.&nbsp;
 
-**I strongly believe that as real estate professionals and business owners, we should be on a constant journey toward furthering our skills and knowledge.** We should be consistently focused on the habits, ideas, and tactics that will take our careers to the next level.&nbsp;
+**I strongly believe that as real estate professionals and business owners, we should be on a constant journey of furthering our skills and knowledge.** We should be consistently focused on the habits, ideas, and tactics that will take our careers to the next level.&nbsp;
 
 This not only benefits our clients, but will also help us create the kind of business that will be sufficient in supporting our families, ourselves, and our goals.
 
@@ -32,11 +32,11 @@ I think it’s extremely important for real estate professionals to always be on
 
 Also, **not every class or training opportunity will provide enough content, or be clear enough to help you truly grow.** Many just scratch the surface on what you need to know.
 
-So something I personally did to combat this was to take my learning into my own hands. I got involved in online circles like Facebook and YouTube, where I sought out information for myself. I searched for agents, groups, and people who were already at the level I had set my sights on.&nbsp;
+Something I personally did to combat this was to take my learning into my own hands. I got involved in online circles like Facebook and YouTube, where I sought out information for myself. I searched for agents, groups, and people who were already at the level I had set my sights on.&nbsp;
 
 Part of your daily routine should be to spend an hour each morning educating yourself. This will make a massive difference in your career.&nbsp;
 
-**Here at the Nickley Group, our culture is centered around growth.** One of our core values is to learn like there’s no tomorrow. We believe agents should be students for life. From the first day someone starts on our team, we set them on a 30-day intensive training course. We have a full video library on over 30 training topics specific to our team, we have twice weekly training sessions for our team, and we roleplay every single day.&nbsp;
+**Here at the Nickley Group, our culture is centered around growth.** One of our core values is to learn like there’s no tomorrow. We believe agents should be students for life. From the first day someone starts on our team, we set them on a 30-day intensive training course. We have a full video library of over 30 training topics specific to our team, we have twice-weekly training sessions for our team, and we roleplay every single day.&nbsp;
 
 I encourage you to get involved in these same kinds of activities. By continuously honing your skills, you will become wildly successful.&nbsp;
 
