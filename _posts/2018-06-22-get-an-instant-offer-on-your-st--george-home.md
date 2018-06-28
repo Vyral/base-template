@@ -49,7 +49,7 @@ After our lead Listing Specialist Robert Macfarlane met with Tonie to price and 
 
 {% include pullquote.html %}
 
-If you’re interested in the program, here’s what we’ll do.
+If you’re interested in the program, here’s what we’ll do:
 
 1. **We'll schedule a very simple 30-minute walk-through of your property.**
 2. **We’ll do a side-by-side comparison of what your home would sell for** by us preparing it for top dollar, "open market" (MLS) marketing, versus a cash "instant offer" that can close as soon as seven days.
