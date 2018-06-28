@@ -41,7 +41,7 @@ These are real concerns that we see more often than you might imagine working wi
 
 It's all fun and games watching folks sell their home on HGTV...it's entirely different when it comes time to actually do the work required to sell <em>yours!</em>
 
-After our lead Listing Specialist Robert Macfarlane met with Tonie to price and list the home he shared her concerns with me. I thought, "what if I/we bought it?" I presented the idea to Tonie 24 hours later. Her eyes lit up like it was Christmas morning!
+After our lead Listing Specialist Robert Macfarlane met with Tonie to price and list the home he shared her concerns with me. I thought, "What if I/we bought it?" I presented the idea to Tonie 24 hours later. Her eyes lit up like it was Christmas morning!
 
 30 days later I purchased the home in its as-is condition, they never had to show it a single time to other buyers, nor make a single repair. She was off to Colorado, just like that!
 
