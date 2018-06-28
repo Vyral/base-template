@@ -20,11 +20,11 @@ youtube_code: 'https://youtu.be/hNH1vANa9_M'
 
 Why is home affordability declining in our area? What does this mean for buyers and sellers?&nbsp;
 
-Real estate is a commodity, and like everything else in our economy, it’s driven by supply and demand. As everybody knows, between 2006 and 2008, we suffered a market crash. When that crash happened, the builders in our area decided to either shut down their operation or leave.&nbsp;
+Real estate is a commodity, and like everything else in our economy, it’s driven by supply and demand. And as everybody knows, between 2006 and 2008, we suffered a market crash. When that crash happened, the builders in our area decided to either shut down their operation or leave.&nbsp;
 
-After this, there weren’t many homes being built in our area, and this has led to our current supply issue. **Inventory is low because there weren’t enough homes being built to keep up with the people moving into our area.** People were driven to move into our area because of the number of big businesses we’ve been able to attract.&nbsp;
+After this, there weren’t many homes being built in our area, and this has led to our current supply issue. **Inventory is low because there weren’t enough homes being built to keep up with the people moving into our area.** People have been driven to move here because of the number of big businesses we’ve been able to attract.&nbsp;
 
-The good news is, our builders are back and they’re building again. It will be several years before our supply catches up with our demand, though.
+The good news is that our builders are back and they’re building again. It will be several years before our supply catches up with our demand, though.
 
 {% include pullquote.html %}
 
