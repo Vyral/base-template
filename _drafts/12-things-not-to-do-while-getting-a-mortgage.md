@@ -23,3 +23,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-and-scott-colemere-june-1-screen-shot-no-play.jpg
 youtube_code: 4bpVEKrSb7w
 ---
+
+{% include youtube.html %}
+
+{% include pullquote.html %}
