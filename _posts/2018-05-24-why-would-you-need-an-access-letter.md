@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Would You Need an Access Letter?
-date: 2018-05-03 19:07:00
+date: 2018-06-27 19:07:00
 tags:
   - Home Seller Tips
 excerpt: What is an access letter?
