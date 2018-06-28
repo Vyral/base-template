@@ -39,7 +39,7 @@ These are real concerns that we see more often than you might imagine working wi
 
 ***"I'm feeling pressured to get out of town, AND I'm short on cash. How am I going to make needed repairs to show and sell the properly?"***
 
-It's all fun and games watching folks sell their home on HGTV; it's entirely different when it comes time to actually do the work required to sell yours!
+It's all fun and games watching folks sell their home on HGTV...it's entirely different when it comes time to actually do the work required to sell yours!
 
 After our lead Listing Specialist Robert Macfarlane met with Tonie to price and list the home he shared her concerns with me. I thought, "what if I/we bought it?" I presented the idea to Tonie 24 hours later. Her eyes lit up like it was Christmas morning!
 
