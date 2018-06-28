@@ -57,6 +57,6 @@ If you’re interested in the program, here’s what we’ll do.
 
 The market value of your property and any instant offer will of course be subject to the condition of the home.
 
-Submit a request for an instant offer evaluation <u>[here.]</u>(http://www.soldinstgeorge.com/instant-offer/){: target="_blank"}
+Submit a request for an instant offer evaluation [<u>here.</u>](http://www.soldinstgeorge.com/instant-offer/){: target="_blank"}
 
 If you have other questions about buying, selling, or investing in St. George real estate, don’t hesitate to give us a call or send us an email anytime! We look forward to hearing from you soon.
