@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'To Effectively Capture Clients, You''ve Got to Use Seeds, Nets, and Spears'
-date: 2018-06-06 19:45:29
+date: 2018-06-27 19:45:29
 tags:
   - Real Estate
 excerpt: >-
