@@ -37,7 +37,7 @@ These are real concerns that we see more often than you might imagine working wi
 
 ***"I have expensive heirlooms. Do you think someone will steal them while in the home?"***
 
-***"I'm feeling pressured to get out of town, and I'm short on cash. How am I going to make needed repairs to show and sell the properly?"***
+***"I'm feeling pressured to get out of town, AND I'm short on cash. How am I going to make needed repairs to show and sell the properly?"***
 
 It's all fun and games watching folk sell their home on HGTV; it's entirely different when it comes time to actually do the work required to sell yours!
 
