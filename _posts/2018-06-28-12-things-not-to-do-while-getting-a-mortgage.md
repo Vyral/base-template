@@ -29,31 +29,31 @@ youtube_code: FVpXNi-X-6E
 
 Did you know that there are 12 things that you should not do while getting a mortgage? Yes, 12. We have prepared the list so you know what not to do.
 
-1. Don’t quit your job.
+Don’t quit your job.
 
-2. Don’t buy a car.
+Don’t buy a car.
 
-3. Don’t max out your credit cards.
+Don’t max out your credit cards.
 
-4. Don’t get a new line of credit.
+Don’t get a new line of credit.
 
-5. Don’t let your bills go to collections.
+Don’t let your bills go to collections.
 
-6. Don’t spend the money you have set aside for closing costs.
+Don’t spend the money you have set aside for closing costs.
 
-7. Don’t omit liabilities on your loan application.
+Don’t omit liabilities on your loan application.
 
 {% include pullquote.html %}
 
-8. Don’t make large cash deposits without verifying.
+Don’t make large cash deposits without verifying.
 
-9. Don’t move money from one account to the next.
+Don’t move money from one account to the next.
 
-10. Don’t transfer money from one bank to another.
+Don’t transfer money from one bank to another.
 
-11. Don’t switch banks.
+Don’t switch banks.
 
-12. Don’t cosign a loan for anybody else.
+Don’t cosign a loan for anybody else.
 
 While some of these may sound silly or obvious, you would be surprised by what can and does happen. **We hope that you can learn from other people’s mistakes**.
 
