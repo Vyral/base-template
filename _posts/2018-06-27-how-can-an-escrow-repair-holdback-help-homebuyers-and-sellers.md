@@ -21,7 +21,7 @@ youtube_code: X0aseIbfSWI
 
 {% include youtube.html %}
 
-Today we’re going to be talking about escrow repair holdbacks, what they are, and how they work.
+Today we’re going to talk about escrow repair holdbacks, what they are, and how they work.
 
 Sometimes in a mortgage transaction, a buyer will find something that will need to be fixed before closing. If a buyer or seller doesn’t have the funds, they might switch over to a renovation loan. **However, a renovation loan usually brings a higher interest rate and higher fees.**
 
@@ -29,7 +29,7 @@ Sometimes in a mortgage transaction, a buyer will find something that will need 
 
 **If it’s just one or two repairs that need to be made, we can do what’s called an escrow repair holdback.** For example, let’s say the roof needs to be repaired. We would require two quotes from different roofing companies to get an estimate of the repair. Then, we would require that 150% of the highest quote would be held in escrow at closing to pay for repairs.
 
-After the repairs are finished and the final invoice is provided, we would send the appraiser back out for a final inspection and pay out the final invoice after we confirm that the repairs are made within 60 days after closing.
+After the repairs are finished and the final invoice is provided, we would send the appraiser back out for a final inspection. We also pay out the final invoice after we confirm that the repairs are made within 60 days after closing.
 
 **After the roofer has been paid, we release the rest of the funds out to whoever provided them originally and no additional fees have to be collected.**
 
