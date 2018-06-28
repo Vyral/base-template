@@ -21,11 +21,11 @@ youtube_code: G06sUYZrRDo
 
 {% include youtube.html %}
 
-<br>People have approached me with a number of great questions about VA loan eligibility, so today I would like to highlight and addressed some of the things I’m most frequently asked.
+<br>People have approached me with a number of great questions about VA loan eligibility, so today I would like to highlight and address some of the things I’m most frequently asked.
 
 **“How do you get a VA loan?”**
 
-&nbsp;As simple as this question sounds, many people don’t know where to start with this process. To get a VA loan, you’ll need to visit a financial institution, like a bank, or a direct lender that is qualified to handle VA loans. We at American Mortgage Group would be happy to assist you in this pursuit.
+&nbsp;As simple as this question sounds, many people don’t know where to start this process. To get a VA loan, you’ll need to visit a financial institution, like a bank, or a direct lender that is qualified to handle VA loans. We at American Mortgage Group would be happy to assist you in this pursuit.
 
 **“What determines how much you can borrow from the VA?”**
 
@@ -37,7 +37,7 @@ The answer to this question will actually vary depending on whether you are a ve
 
 **“Can you still obtain a VA loan if you are unable to present a Statement of Service or DD 214?”**
 
-Actually, yes. Another way to obtain a COE (and a VA loan) is to fill out a VA 1880 form. This will allow your lender to gather military records and determine how much you qualify for.
+Actually, yes. Another way to obtain a COE (and a VA loan) is to fill out a VA Form 26-1880. This will allow your lender to gather military records and determine how much you qualify for.
 
 **“Can you have a cosigner on a home purchase you’re financing with a VA loan?**
 
