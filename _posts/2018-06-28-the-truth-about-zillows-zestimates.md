@@ -32,5 +32,3 @@ Also, Zestimates use an algorithm for your property tax amount and weighs the la
 If you would like a more exact value of your home, you should hire a licensed Realtor. That person can go to your home and give you a full market report on it.
 
 If you have any additional questions or are interested in buying or selling in the Tucson area, please feel free to contact me. I look forward to speaking with you soon.
-
-{% include pullquote.html %}
