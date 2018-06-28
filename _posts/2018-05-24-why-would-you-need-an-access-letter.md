@@ -25,6 +25,6 @@ Consider this example: A husband and wife have a joint account, but the wife is 
 
 {% include pullquote.html %}
 
-When we don't have both account owners on the loan, however, the account owner must give the other person access to those funds. **We will need an access letter to do this.**
+When we do not have both account owners on the loan, however, the account owner must give the other person access to those funds. **We will need an access letter to do this.**
 
 If you have any other questions, please contact us. We look forward to speaking with you.
