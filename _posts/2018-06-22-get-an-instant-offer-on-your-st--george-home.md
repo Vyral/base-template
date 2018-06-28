@@ -23,7 +23,7 @@ youtube_code: sIxMbYGm6Uk
 
 <center>&nbsp;</center>
 
-Today we’re answering a question about our Instant Offers program. Over the last several years, I’m sure you’ve heard about this program on the radio. A lot of people wonder if it’s real. It definitely is!
+Today we’re answering a question about our instant offers program. Over the last several years, I’m sure you’ve heard about this program on the radio. A lot of people wonder if it’s real. It definitely is!
 
 **This program was born out of a need that we saw in the community last year.**
 
@@ -52,7 +52,7 @@ After our lead Listing Specialist Robert Macfarlane met with Tonie to price and 
 If you’re interested in the program, here’s what we’ll do.
 
 1. **We'll schedule a very simple 30-minute walk-through of your property.**
-2. **We’ll do a side-by-side comparison of what your home would sell for** by us preparing it for top dollar, "open market" (MLS) marketing, versus a cash "instant" offer that can close as soon as seven days.
+2. **We’ll do a side-by-side comparison of what your home would sell for** by us preparing it for top dollar, "open market" (MLS) marketing, versus a cash "nstant offer" that can close as soon as seven days.
 3. **We'll give you all the time you need** to consider both options, ask questions, make a decision to sell, or do nothing. Both are okay with us!
 
 The market value of your property and any instant offer will of course be subject to the condition of the home.
