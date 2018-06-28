@@ -23,13 +23,13 @@ youtube_code: sIxMbYGm6Uk
 
 <center>&nbsp;</center>
 
-Today we’re answering a question about our instant offers program. Over the last several years, I’m sure you’ve heard about this program on the radio. A lot of people wonder if it’s real. It definitely is!
+Today we’re answering a question about our Instant Offers program. Over the last several years, I’m sure you’ve heard about this program on the radio. A lot of people wonder if it’s real. It definitely is!
 
 **This program was born out of a need that we saw in the community last year.**
 
 We recently met with Tonie, and elderly woman who had heard about our services on 99.9 KONY Country radio. Her goal was to move East to Colorado within 60 days but expressed great concern about hassling with repairs, cleaning up, and showing the house with three cats. She was not only worried that the cats might affect the sale, but that she'd actually lose one of them during a showing!
 
-These are real concerns that we see more often than you might imagine working with St. George area home sellers. Every seller has their reasons for moving, and they may be not only emotionally compelling, but and actual need based on health, divorce, finances, or other life stress. Initially quite motivated at the decision to sell, sellers suddenly face questions like:
+These are real concerns that we see more often than you might imagine working with St. George area home sellers. Every seller has their reasons for moving, and they may be not only emotionally compelling, but in actual need based on health, divorce, finances, or other life stress. Initially quite motivated at the decision to sell, sellers suddenly face questions like:
 
 ***"Where am I going to move all of my stuff in the garage?"***
 
