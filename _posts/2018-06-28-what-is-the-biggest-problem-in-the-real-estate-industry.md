@@ -21,7 +21,9 @@ youtube_code: CO9JI1GLMWg
 
 {% include youtube.html %}
 
-Today I want to talk about the biggest problem in the real estate industry: the ease of getting a license.
+<p style="text-align: center;"><em>Today I want to talk about the biggest problem in the real estate industry: the ease of getting a license.</em></p>
+
+<center>&nbsp;</center>
 
 Today I want to address a subject that will probably get me in trouble with my peers: the biggest problem in the real estate industry.
 
