@@ -53,7 +53,7 @@ If you’re interested in the program, here’s what we’ll do:
 
 1. We'll schedule a very simple 30-minute walk-through of your property.
 2. We’ll do a side-by-side comparison of what your home would sell for by us preparing it for top dollar, "open market" (MLS) marketing, versus a cash "instant offer" that can close as soon as seven days.
-3. We'll give you all the time you need to consider both options, ask questions, make a decision to sell, or do nothing. Both are okay with us!
+3. We'll give you all the time you need to consider your options, ask questions, make a decision to sell, or do nothing. Both are okay with us!
 
 The market value of your property and any instant offer will of course be subject to the condition of the home.
 
