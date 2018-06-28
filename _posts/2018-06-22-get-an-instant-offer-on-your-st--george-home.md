@@ -19,7 +19,7 @@ youtube_code: sIxMbYGm6Uk
 
 {% include youtube.html %}
 
-*Our instant offer program is not a joke. Here’s how it works and how it could benefit plenty of homeowners.*
+<p style="text-align: center;"><em>Our instant offer program is not a joke. Here’s how it works and how it could benefit plenty of homeowners.</em></p>
 
 <center>&nbsp;</center>
 
