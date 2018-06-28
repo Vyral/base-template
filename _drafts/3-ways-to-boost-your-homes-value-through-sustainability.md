@@ -27,7 +27,7 @@ youtube_code: xXmnaYYMJtQ
 
 If you are thinking of selling your home, think sustainability.
 
-A new survey by the National Association of Realtors just came out, and it made some remarkable points. For example, 61% of Realtors said clients are interested in sustainability. Also, a whopping 71% of Realtors said energy efficiency is valuable in helping sell a home.
+A new survey by the National Association of Realtors just came out, and it made some remarkable points. For example, 61% of realtors said clients are interested in sustainability. Also, a whopping 71% of realtors said energy efficiency is valuable in helping sell a home.
 
 So, if you are interested in sustainability and you want to sell your home for a higher price, here are three projects to consider:
 
@@ -37,7 +37,7 @@ Other gadgets throughout your house might also warrant an update. For example, i
 
 {% include pullquote.html %}
 
-**2. Solar panels**. Speaking of solar, homes with solar panels sell 20% faster, according to the National Renewable Energy Laboratory. Even more impressive, they sell for a whopping 17% more than comparable homes without solar. And with a range of state and federal incentives still in place, solar can be a great way to make your home more green and attractive at the same time.
+**2. Solar panels**. Speaking of solar, homes with solar panels sell 20% faster according to the National Renewable Energy Laboratory. Even more impressive, they sell for a whopping 17% more than comparable homes without solar. And with a range of state and federal incentives still in place, solar can be a great way to make your home more green and attractive at the same time.
 
 **3. Windows, doors, and siding**. Renovated windows, doors, and siding typically recoup about 80% of their cost in terms of higher home value. However, a full suite of energy-efficient windows, doors, and siding might be worth even more in the current sustainability-minded market. Plus, these projects increase your home’s curb appeal, making it more likely your home will get more interest from potential buyers.
 
