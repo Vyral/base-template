@@ -25,11 +25,11 @@ Well, statistically speaking, open houses do not generally work. But this may be
 
 **Open houses are an easy, non-formal way of bringing buyers in to look at your home.** But this arrangement also presents the concern of security issues.
 
-To reduce the risk of security problems, it’s a good idea to have all potential buyers coming through the door fill out a sign-in sheet. This will let you know who was in your home and what time they were there.
+To reduce the risk of security problems, it’s a good idea to have all potential buyers coming through the door fill out a sign-in sheet. This will let you know who was in your home and at what time they were there.
 
 {% include pullquote.html %}
 
-Another way to host an open house more effectively is to prepare. **Make sure you’ve advertised the event properly.** This can be done by putting up signs throughout the week and putting up even more signs the day of. The more signs you have up, the more traffic your open house is likely to see. And more traffic means more potential buyers.
+Another way to host an open house more effectively is to prepare. **Make sure you’ve advertised the event properly.** This can be done by putting up signs throughout the week and putting up even more signs the day of the open house. The more signs you have up, the more traffic your open house is likely to see. And more traffic means more potential buyers.
 
 Also, don’t hesitate to let the neighbors know you’re selling. Even if they aren’t looking themselves, they may know someone who is.
 
