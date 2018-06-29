@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/RcRBHXUNDyI'
 
 {% include youtube.html %}
 
-If you are a homebuyer in our market and are curious about down payment assistance, here are a few common questions we get asked about this topic that Damon Sorrell of Academy Mortgage was gracious enough to stop by and answer for us.&nbsp;
+If you are a homebuyer in our market and are curious about down payment assistance, we've got you covered. Damon Sorrell of Academy Mortgage was gracious enough to stop by and answer a few common questions on this subject for us, so we'd like to share his responses with you today.&nbsp;
 
 **What down payment assistance programs does Academy Mortgage offer?**
 
