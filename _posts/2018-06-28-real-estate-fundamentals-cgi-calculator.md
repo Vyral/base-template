@@ -1,16 +1,16 @@
 ---
 layout: post
 title: 'Real Estate Fundamentals: CGI Calculator'
-date: 2018-06-28 19:36:54
+date: 2018-06-28 19:36:00
 tags:
 excerpt: >-
-  Have you heard of the GCI calculator? If not, it’s something you need to add
+  Have you heard of the CGI calculator? If not, it’s something you need to add
   to your business today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2018/June/Northern+Utah+Real+Estate+Coaching-+Real+Estate+Fundamentals-+CGI+Calculator.mp4
 pullquote: >-
   One of the fundamental tools you should be working with in your real estate
-  business is the GCI calculator. Here’s how it works.
+  business is the CGI calculator. Here’s how it works.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -34,7 +34,7 @@ I recently hosted a coaching webinar series titled “Real Estate Fundamentals.�
 
 26:00- How my team tracks these four conversations and uses them to our advantage.
 
-27:30- My challenge for you today that should take no longer than 30 minutes
+27:30- My challenge for you today that should take no longer than 30 minutes.
 
 29:20- The main takeaways you should have after watching this video.
 
