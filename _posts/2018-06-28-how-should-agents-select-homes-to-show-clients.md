@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should Agents Select Homes to Show Clients?
-date: 2018-06-28 18:51:08
+date: 2018-06-28 18:51:00
 tags:
   - Listing Presentation
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-right-kind-youtube.jpg
-youtube_code: 'https://youtu.be/kmo0Fw8Qt5w'
+youtube_code: 'https://youtu.be/rxVQO8bWVP0'
 ---
 
 {% include youtube.html %}
