@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Things You Should Not Compromise on as a Buyer
-date: 2018-06-29 16:06:00
+date: 2018-06-29 16:15:39
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -23,7 +23,7 @@ Today I wanted to talk about five things that you should never compromise on as 
 
 **1. The floor plan.** Make sure that it fits your needs now and in the future.
 
-**2. The school district.** Even if your kids are out of the house, this matters for resale value.  You can find out about the different municipalities online to see what school system the home you are looking at is in.
+**2. The school district.** Even if your kids are out of the house, this matters for resale value. &nbsp;You can find out about the different municipalities online to see what school system the home you are looking at is in.
 
 **3. The neighbors.** If you are interested in a house in a neighborhood you are unfamiliar with, drive around during different times during the day to make sure you will be happy and comfortable there.
 
@@ -33,4 +33,4 @@ Today I wanted to talk about five things that you should never compromise on as 
 
 {% include pullquote.html %}
 
-If you have any questions for me or you are interested in buying or selling a home here in Memphis, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me or you are interested in buying or selling a home here in Memphis, please feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
