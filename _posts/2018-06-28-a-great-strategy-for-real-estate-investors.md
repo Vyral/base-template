@@ -31,6 +31,6 @@ Today I’m joined by special guest Kim Drury from Angel Properties to talk abou
 
 In Park City, there are a lot of nightly rentals, but people may not know that if someone is staying in a property for more than 30 days, they gain tenancy rights to the property and the owner can’t just ask that person to leave even if there isn’t a lease in place. A state-standardized lease goes into effect after 30 days. **As a leasing agent, we want to protect the owner and mitigate some of those potential problems prior to placing someone in the property.**
 
-If you have any questions for Kim about this topic, feel free to give her a call at (435) 640-6025. Stay tuned for part 2 of our series that is coming in a few weeks.
+If you have any questions for Kim about this topic, feel free to give her a call at (435) 640-6025. Stay tuned for part two of our series that is coming in a few weeks.
 
 In the meantime, if you have any questions for me or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
