@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great Strategy for Real Estate Investors
-date: 2018-06-28 19:05:43
+date: 2018-06-28 19:05:00
 tags:
 excerpt: >-
   We recently sat down with Kim Drury of Angel Properties to answer a couple of
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/kim-drury-part-1-youtube.jpg
-youtube_code: hd2p5QDfeTA
+youtube_code: lP5aGIplW4U
 ---
 
 {% include youtube.html %}
