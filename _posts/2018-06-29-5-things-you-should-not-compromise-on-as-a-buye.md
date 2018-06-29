@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 5 Things You Should Not Compromise on as a Buyer
-date: 2018-06-29 16:06:31
+title: 5 Things You Should Not Compromise on as a Buye
+date: 2018-06-29 16:06:00
 tags:
   - Home Buyer Tips
 excerpt: >-
