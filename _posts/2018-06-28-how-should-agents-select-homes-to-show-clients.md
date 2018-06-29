@@ -30,7 +30,7 @@ As agents, we know what is available. **Our clients shouldn’t have to tour 50 
 
 {% include pullquote.html %}
 
-For example, if a client says they have a non-negotiable budget of $500,000 or less, but they also demand to see homes of a specific size and in a specific location, you must be honest with them about their prospects. And as you explain their options, make sure you continually check in with whether they are comfortable with the choices you are laying out for them. Clients should understand that you are not going to show them homes that do not fit their criteria.&nbsp;
+For example, if a client says they have a non-negotiable budget of $500,000 or less, but they also demand to see homes of a specific size and in a specific location, you must be honest with them about their prospects. And as you explain their options, make sure you continually check whether they are comfortable with the choices you are laying out for them. Clients should understand that you are not going to show them homes that do not fit their criteria.&nbsp;
 
 Yet this does not mean clients will not ask you to show them homes that do not make sense. This is why you, as their agent, should do your research before taking them to any property they suggest. **If the property they are pushing you toward truly is not a good fit, I would advise you to steer them away from it.**&nbsp;
 
