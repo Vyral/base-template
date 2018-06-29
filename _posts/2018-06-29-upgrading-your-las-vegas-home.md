@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upgrading Your Las Vegas Home
-date: 2018-06-29 19:03:46
+date: 2018-06-29 19:03:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: u_Q5JH48R2Y
+youtube_code: lv1tyVqPLu8
 ---
 
 {% include youtube.html %}
