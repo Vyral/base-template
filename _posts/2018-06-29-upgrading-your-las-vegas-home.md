@@ -27,8 +27,8 @@ As we discussed before, the resale market inventory is very low. Therefore, thos
 
 {% include pullquote.html %}
 
-An option for homeowners in this situation is to purchase a brand new home. Around town there are many new homes from different builders that are available. They offer different prices, different floor plans, and different areas to live.
+An option for homeowners in this situation is to purchase a brand new home. Around town there are many new homes from different builders that are available. They offer different prices, different floor plans, and different areas to live in.
 
-If you have any questions about selling your home and how you can make the transition to a new home construction, give me a call. Builders are offering me special incentives as a real estate broker, and I can pass on those savings to you as a buyer. You can even use those incentives toward upgrades or closing costs.
+If you have any questions about selling your home and how you can make the transition to a new construction home, give me a call. Builders are offering me special incentives as a real estate broker, and I can pass on those savings to you as a buyer. You can even use those incentives toward upgrades or closing costs.
 
 I hope that you all have a happy Fourth of July and, for the Canadians, have a great Canada Day. Talk to you soon!
