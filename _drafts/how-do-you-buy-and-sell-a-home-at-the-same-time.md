@@ -24,7 +24,7 @@ youtube_code: zAePU40K71s
 
 {% include youtube.html %}
 
-When you’re trying to sell your current home and buy a new one, the process can be overwhelming. However, we have tips and advice for you that will allow you to carry out both transactions smoothly.
+<center>When you’re trying to sell your current home and buy a new one, the process can be overwhelming. However, we have tips and advice for you that will allow you to carry out both transactions smoothly.</center>
 
 Today I want to go into detail about how to buy and sell a home at the same time in today’s current market.
 
