@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate Fundamentals: CGI Calculator'
+title: 'Real Estate Fundamentals: #1 Know Your Numbers'
 date: 2018-06-28 19:36:00
 tags:
 excerpt: >-
