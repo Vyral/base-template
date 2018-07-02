@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 7 Questions to Ask a Potential Real Estate Agent
-date: 2018-07-02 16:45:57
+title: 7 Questions to Ask Your Potential Real Estate Agent
+date: 2018-07-02 16:45:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/interviewing-an-agent-youtube.jpg
-youtube_code: 9SToWDJDolw
+youtube_code: v2rs2MDTb5E
 ---
 
 {% include youtube.html %}
 
-Today I am going to tackle a question that I get asked quite frequently, “What should the process of hiring an agent look like?”
+I'm frequently asked, “What should the process of hiring an agent look like?”
 
 Hiring a real estate agent to help you buy or sell your home is an important decision and you should take it seriously. Hiring a family member or friend may be a good idea, but it also may not be. Take the time to find out whether they are a great agent or not, and do not just take them at their word because you feel obligated. You should be hiring the most qualified person for the job.
 
