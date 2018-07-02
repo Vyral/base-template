@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/fyhHB0jNMy0'
 
 Today I am talking about Zillow’s Zestimates. Many people have some knowledge about these home estimates and usually have an opinion about them. In fact, when I go to a listing appointment, sellers typically already have a Zestimate of their house.
 
-The Zestimate is a good estimate of your home’s value. However, it’s created by an algorithm that uses comparable properties in the area and isn’t weighted by certain factors, such as if you’ve made any improvements to your home. In other words, it does not know that you had an $80,000 kitchen put in your house and another house did not. Obviously, since these factors are overlooked by the Zestimate, there is some margin for error.
+The Zestimate is a good estimate of your home’s value. However, it’s created by an algorithm that uses comparable properties in the area and isn’t weighted by certain factors, such as if you’ve made any improvements to your home. In other words, a Zestimate cannot distinguish between a home with $80,000 worth of kitchen upgrades and a similar home without any such renovations. Obviously, since these factors are overlooked by the Zestimate, there is some margin for error in the value it assigns to your property.
 
 {% include pullquote.html %}
 
