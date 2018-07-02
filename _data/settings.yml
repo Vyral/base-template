@@ -57,8 +57,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: >-
-      http://www.skrealtyinc.com/idx/search/?OrderBy=-ListPrice&SavedSearch=20111019152906787970000000
+    CTA_url2: 'http://jeremyqualley.fma.exprealty.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
