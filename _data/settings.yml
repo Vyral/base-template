@@ -119,7 +119,7 @@ images:
   logo_width_number: 20
   # hero_text: Becky Ivins Real Estate Training and Coaching
   hero_background_hex: '#FFD53F'
-  hero_image_path: /img/background2.jpg
+  hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#a91c2d'
