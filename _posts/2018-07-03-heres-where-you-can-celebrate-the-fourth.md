@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Happy 4th of July
-date: 2018-07-03 19:20:05
+title: Here's Where You Can Celebrate the Fourth
+date: 2018-07-03 19:20:00
 tags:
 excerpt:
 enclosure: >-
