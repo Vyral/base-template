@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Key to Gaining Leads from an Open House
+title: The Key to Gaining Leads From an Open House
 date: 2018-05-29 17:21:00
 tags:
   - Lead Generation
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-open-house-youtube.jpg
-youtube_code: 'https://youtu.be/JN76BOkXeBc'
+youtube_code: 'https://youtu.be/6YvlB0fQvnc'
 ---
 
 {% include youtube.html %}
