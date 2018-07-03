@@ -16,6 +16,6 @@ youtube_code: 'https://youtu.be/dCdEXGIpWvI'
 
 {% include youtube.html %}
 
-Today I simply wanted to take a moment and wish all of you a happy fourth of July. I hope all of you have the chance to celebrate the birth of our country with loved ones. Now and always, our team is so grateful for your support. We consider ourselves lucky to have had the chance to serve you, and look forward to meeting your real estate needs in the future, as well. Happy Fourth of July! To hear my full message, watch this short video.
+Today I simply wanted to take a moment and wish all of you a happy Fourth of July. I hope all of you have the chance to celebrate the birth of our country with loved ones. Now and always, our team is so grateful for your support. We consider ourselves lucky to have had the chance to serve you, and look forward to meeting your real estate needs in the future, as well. Happy Fourth of July! To hear my full message, watch this short video.
 
 &nbsp;
