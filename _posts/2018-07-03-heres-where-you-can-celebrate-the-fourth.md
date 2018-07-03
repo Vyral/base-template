@@ -6,7 +6,6 @@ tags:
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2018/The+Stary+Group-+4th+of+july.mp4
-pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
