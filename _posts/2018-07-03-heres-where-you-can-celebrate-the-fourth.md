@@ -17,4 +17,3 @@ youtube_code: 1qxczZGdhD0
 
 Today I just wanted to stop by and wish everybody a happy Fourth of July. We have had a great start to the year and are looking forward to the rest of 2018. We hope you enjoy the day with family and friends. There are several fireworks shows to be seen all around the area. Stay tuned for future events coming over the next few days. If you have any real estate-related questions for us in the meantime or you have any real estate needs that we can assist with, please feel free to reach out via phone or email. Until then, enjoy the holiday!
 
-{% include pullquote.html %}
