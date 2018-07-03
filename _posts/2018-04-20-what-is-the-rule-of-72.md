@@ -10,12 +10,11 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Cunha/2018/The+Rule+Of
 pullquote: The magic number to save for retirement is 10% of your income.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 0qNqKYQqQo8
+screenshot: /uploads/rule72.jpg
+video_file: /uploads/The_Rule_Of_72.mp4
 ---
 
-{% include youtube.html %}
+{% include post-video.html %}
 
 Today we are going to answer the following questions: **How much do your employees need to save for retirement and how can we use The Rule of 72 to explain some important financial concepts to them?**
 

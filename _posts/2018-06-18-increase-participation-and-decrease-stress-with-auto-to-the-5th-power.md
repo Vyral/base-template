@@ -15,12 +15,11 @@ pullquote: >-
   retirement income for life.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: IonC1lSNh6w
+screenshot: /uploads/auto-ss.jpg
+video_file: /uploads/Auto_To_The_5th_Power.mp4
 ---
 
-{% include youtube.html %}
+{% include post-video.html %}
 
 How can you use technology to automate retirement saving for your employees? **Allow me to introduce you to “Auto to the 5th Power.”** This fiduciary tool is bound to make your life, and your employees’ lives, easier.
 

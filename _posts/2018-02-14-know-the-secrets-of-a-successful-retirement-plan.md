@@ -10,12 +10,11 @@ enclosure:
 pullquote: I will share with you everything I know.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: rxCbWYiTaqA
+screenshot: /uploads/retirement-planning.jpg
+video_file: /uploads/Social_Security_Optimization_Strategies.mp4
 ---
 
-{% include youtube.html %}
+{% include post-video.html %}
 
 Imagine that you’re getting ready to go on a great vacation, you’re standing at the gate at Logan Airport, and you’re ready to board. Then, all of a sudden, the gate agent announces over the PA, “Ladies and gentlemen, the captain would like me to make the following announcement: He’d like me to share with you that there’s an 85% chance that this flight will not make it to your destination safely and on time. Have a nice flight.”
 

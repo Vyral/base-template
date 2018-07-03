@@ -13,12 +13,10 @@ pullquote: >-
   can help more of them succeed in reaching that 10% savings goal.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: E5CwnAU0Qro
+screenshot: /uploads/10-1-ss.jpg
+video_file: /uploads/The_10-1_Now_Rule.mp4
 ---
-
-{% include youtube.html %}
+{% include post-video.html %}
 
 If you’ve been following my content, you’re probably already aware of what “Auto to the 5th Power” is. As a quick reminder, Auto to the 5th Power is a set of five automatic retirement planning tools.
 

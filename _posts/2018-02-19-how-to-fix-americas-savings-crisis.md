@@ -12,12 +12,11 @@ enclosure:
 pullquote: Now is not the time to sit back with a “business as usual” attitude.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: DGfRJiSfLMU
+screenshot: /uploads/savings-crisis.jpg
+video_file: /uploads/America_27s_Savings_Crisis.mp4
 ---
 
-{% include youtube.html %}
+{% include post-video.html %}
 
 How do we fix America’s savings crisis?
 

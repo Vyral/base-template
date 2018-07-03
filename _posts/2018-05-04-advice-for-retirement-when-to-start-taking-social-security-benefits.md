@@ -14,12 +14,11 @@ pullquote: >-
   increase.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: t6A4cBT55Ik
+screenshot: /uploads/social-security-ss.jpg
+video_file: /uploads/Retirement_Planning.mp4
 ---
 
-{% include youtube.html %}
+{% include post-video.html %}
 
 Today I want to provide some key insight into optimizing your Social Security benefits. This information may help you plan for your future as you approach or enter your retirement years.
 

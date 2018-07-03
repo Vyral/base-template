@@ -5,11 +5,7 @@ layout: default
       {% for post in paginator.posts %}
         <div class="post-block">
 					<a href="{{post.url}}">
-					{% if post.use_youtube_image == true %}
-					<img src="http://img.youtube.com/vi/{{post.youtube_code}}/maxresdefault.jpg" alt="{{post.title}}" class="post-image" />
-					{% else %}
-					<img src="{{post.youtube_alternate_image}}" alt="{{site.title}}" class="post-image"/>
-					{% endif %}
+					<img src="{{post.screenshot}}" alt="{{site.title}}" class="post-image"/>
 				</a>
 					<h3 class="post-overview-title"><a class="post-link" href="{{ post.url }}">{{ post.title | truncate: 70 }}</a></h3>
 					<span class="post-meta">
