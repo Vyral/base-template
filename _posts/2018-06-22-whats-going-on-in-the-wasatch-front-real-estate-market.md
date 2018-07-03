@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-update-youtube.jpg
-youtube_code: UwHyjeOGjK4
+youtube_code: jOLzws2yKAM
 ---
 
 {% include youtube.html %}
