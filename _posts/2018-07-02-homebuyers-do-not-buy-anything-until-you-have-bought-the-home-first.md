@@ -20,7 +20,7 @@ youtube_code: XGDPWH8DSDo
 
 {% include youtube.html %}
 
-I have seen many buyers over the years who are under contract get so excited about furnishing their new house that they go out and buy new furniture and appliances on credit for that house before they have officially bought it and closed on their mortgage loan. I have even seen some buy a new car!
+Over the years, I've seen many buyers get so excited while under contract that they go out furniture shopping on credit before officially closing on the home. I have even seen some buy a new car!
 
 What is the result? They end up with a new couch (and in some cases, a new car), but no new house.
 
