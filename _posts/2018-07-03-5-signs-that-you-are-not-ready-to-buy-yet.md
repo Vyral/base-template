@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Signs That You Are Not Ready To Buy Yet
-date:
+date: 2018-07-03 15:59:48
 tags:
   - Home Buyer Tips
   - Real Estate
