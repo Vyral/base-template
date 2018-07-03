@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fourth of July Message From Our Team to You
-date: 2018-06-27 14:54:24
+date: 2018-06-27 14:54:00
 tags:
   - Real Estate
 excerpt: Happy Fourth of July to all of our friends and clients.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/dCdEXGIpWvI'
+youtube_code: 'https://youtu.be/EbaglnM_bas'
 ---
 
 {% include youtube.html %}
