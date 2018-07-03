@@ -30,7 +30,7 @@ And, if we do not have the inventory, we have the tools and technologies and dat
 
 **2. We have the negotiation skills.** As a homebuyer, you may be hesitant to speak your mind on certain points, for fear of offending the seller.
 
-With an agent on your side, you will get the best deal and terms, you will know what is normal, and you will know what to expect. We will keep you up-to-date on timelines to make sure that you do not miss out on an opportunity for inspections or appraisals.
+With an agent on your side, you will get the best deal and terms, you will know what is normal, and you will know what to expect. We will keep you up to date on timelines to make sure that you do not miss out on an opportunity for inspections or appraisals.
 
 **3. A buyer agent is free.** When a seller lists their home on the market, they have already agreed to pay the buyer agent’s compensation. There is no reason for you to do all of the work when you can use us. We can help you negotiate your best terms, hold the deal together to get you to closing on time, and provide you with all of our years of experience for free!
 
