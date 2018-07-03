@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/Zi6xcyn_-v0'
 
 We all know that it’s important for a homebuyer to use a licensed real estate agent when buying a home. But do you know why? Today I will share three of the top reasons.&nbsp;
 
-**1. We have the inventory.** As real estate professionals we have access to the multiple listing service (MLS) which is a database for Realtors. Of course, there are other websites out there that exist that have houses for sale on them, and we all know that the MLS is the most up-to-date database for listings. Buyers will find homes on other websites only to be disappointed to find they are not available.
+**1. We have the inventory.** As real estate professionals, we have access to the multiple listing service (MLS), which is a database for Realtors. Of course, there are other websites out there that list houses for sale, but we all know that the MLS is the most up-to-date database for listings. Buyers who look for homes on other websites will only to be disappointed to find out they're not available.
 
 And, if we do not have the inventory, we have the tools and technologies and databases to help find you a home that fits all of your needs.
 
