@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/week-of-062518.html</loc>
+<lastmod>2018-06-25T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-061818.html</loc>
+<lastmod>2018-06-18T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-061118.html</loc>
+<lastmod>2018-06-11T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-060418.html</loc>
+<lastmod>2018-06-04T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/week-of-052818.html</loc>
 <lastmod>2018-05-28T00:00:00-05:00</lastmod>
 </url>
@@ -191,5 +207,8 @@
 </url>
 <url>
 <loc>localhost:4000/page5/</loc>
+</url>
+<url>
+<loc>localhost:4000/page6/</loc>
 </url>
 </urlset>
