@@ -23,11 +23,11 @@ youtube_code: xXmnaYYMJtQ
 
 <center><em>If you want to increase your home&rsquo;s value before listing it, there are three projects you can do that will improve its sustainability and make it more attractive to buyers.</em></center>
 
- 
+&nbsp;
 
-If you are thinking of selling your home, think sustainability.
+If you are thinking of selling your home, think about sustainability.
 
-A new survey by the National Association of Realtors just came out, and it made some remarkable points. For example, 61% of realtors said clients are interested in sustainability. Also, a whopping 71% of realtors said energy efficiency is valuable in helping sell a home.
+A new survey by the National Association of Realtors just came out, and it made some remarkable points. For example, 61% of Realtors said clients are interested in sustainability. Also, a whopping 71% of Realtors said energy efficiency is valuable in helping sell a home.
 
 So, if you are interested in sustainability and you want to sell your home for a higher price, here are three projects to consider:
 
