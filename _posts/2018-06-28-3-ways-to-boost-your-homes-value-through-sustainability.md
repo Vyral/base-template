@@ -23,7 +23,7 @@ youtube_code: xXmnaYYMJtQ
 
 <center><em>If you want to increase your home&rsquo;s value before listing it, there are three projects you can do that will improve its sustainability and make it more attractive to buyers.</em></center>
 
-&nbsp;
+ 
 
 If you are thinking of selling your home, think sustainability.
 
