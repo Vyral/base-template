@@ -22,7 +22,9 @@ youtube_code: pYMiRBxEK1s
 
 {% include youtube.html %}
 
-Some new changes have been implemented in the real estate industry in British Columbia to increase transparency during a transaction between buyers and sellers and their agents.
+<p style="text-align: center;"><em>Some new changes have been implemented in the real estate industry in British Columbia to increase transparency during a transaction between buyers and sellers and their agents.</em></p>
+
+<center>&nbsp;</center>
 
 On June 15, the Office of the Superintendent of Real Estate of British Columbia made some changes and implemented several new forms designed to increase transparency between consumers and real estate professionals.
 
