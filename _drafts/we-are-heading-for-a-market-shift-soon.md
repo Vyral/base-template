@@ -22,7 +22,7 @@ youtube_code: yUrrvNDVwzw
 
 {% include youtube.html %}
 
-Our market is shifting toward a buyer’s market? Why is that? How will that affect buyers and sellers? Here’s what you need to know.
+<center>Our market is shifting toward a buyer’s market? Why is that? How will that affect buyers and sellers? Here’s what you need to know.</center>
 
 **Hudson County is officially becoming a buyer’s market**. We’ve been in such a strong seller’s market for such a long time that it might seem crazy that a buyer could have any leverage in our market, but the reality is that they absolutely do.
 
