@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Did you think you were ready to buy but are just not sure? Today I have five
   signs that you may not be ready.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Heather+Neidlinger/2018/Central+Pennsylvania+Real+Estate+Agent-+5+Signs+That+You+Are+Not+Ready+To+Buy+Yet.mp4
 pullquote: >-
   If you do not have money ready for your down payment, you may not be ready to
   purchase.
