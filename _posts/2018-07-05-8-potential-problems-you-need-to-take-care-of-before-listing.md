@@ -32,12 +32,10 @@ If you are planning on putting your home on the market soon, you want it to sell
 
 {% include pullquote.html %}
 
-6. Poor furniture arrangement. You do not want buyers to walk into your home and think that it is crowded because of the way your furniture is placed. To make your furniture arrangement more functional for showings, have your home professionally staged.
+1. Poor furniture arrangement. You do not want buyers to walk into your home and think that it is crowded because of the way your furniture is placed. To make your furniture arrangement more functional for showings, have your home professionally staged.
 
-7. An overstuffed closet. If you have too much stuff crammed into your closets, that will make them appear smaller than they are. Take out any clothes that will not be worn in the near future and put them in storage while your home’s on the market. You will need to do this to prepare for moving anyway.
+2. An overstuffed closet. If you have too much stuff crammed into your closets, that will make them appear smaller than they are. Take out any clothes that will not be worn in the near future and put them in storage while your home’s on the market. You will need to do this to prepare for moving anyway.
 
-8. An overfilled countertop. Like your furniture, you want your countertop to be staged and look neat. There should not be too much stuff on top of it, so remove and items from it that you do not use regularly.
+3. An overfilled countertop. Like your furniture, you want your countertop to be staged and look neat. There should not be too much stuff on top of it, so remove and items from it that you do not use regularly.
 
 If you have any other questions about preparing your home for sale or you have any other real estate needs I can help you with, please feel free to call or email me anytime. I would be happy to speak with you.
-
-&nbsp;
