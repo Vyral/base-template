@@ -21,7 +21,7 @@ youtube_code: bPpKgzVAyoQ
 
 {% include youtube.html %}
 
-What’s happening in our market right now in terms of interest rates? Well, one thing we can safely predict is that they’ll rise again sooner rather than later.
+<center>What’s happening in our market right now in terms of interest rates? Well, one thing we can safely predict is that they’ll rise again sooner rather than later.</center>
 
 Interest rates have been a hot topic lately in our market. So what should today’s buyers know about what’s going on?
 
