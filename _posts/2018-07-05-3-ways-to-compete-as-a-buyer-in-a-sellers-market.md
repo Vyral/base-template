@@ -22,7 +22,7 @@ Today’s topic is very near and dear to me. We are in a very hot seller’s mar
 
 When sellers are getting multiple offers, buyers need to play it smart to win. If you’re a prospective homebuyer who has made several offers that haven’t been accepted, it’s time to up your game.
 
-Once you have found the right home and you’re ready to get serious, it’s time to put your game &nbsp;face on and beat out the competition. Here are three strategies to help you make an offer that sellers will have no choice but to accept.
+Once you have found the right home and you’re ready to get serious, it’s time to put your game  face on and beat out the competition. Here are three strategies to help you make an offer that sellers will have no choice but to accept.
 
 1. Find out what the seller wants and deliver it. You want what the seller has, do they want what your offering? Your agent can ask the seller’s agent some questions help you find out certain things about the seller’s motivation. Why do they want to sell? What are their plans for their new home? What matters to them most in an offer? If you find out that they are already under contract for their new home, you can remove contingencies and submit a clean offer that will close on time. If they need to find a new place to live, but need to sell first, offer them a rent-back after closing. This allows them to stay in their home and avoid moving twice.
 
@@ -30,10 +30,8 @@ Once you have found the right home and you’re ready to get serious, it’s tim
 
 {% include pullquote.html %}
 
-3. Make your highest offer. If you’ve never bought a home in a hot market, this sounds like bad advice. However, most buyers in a market like this have to offer top dollar in order to get the home. Work closely with your agent to determine the right price to offer in order to win the deal. Once the appraisal is done, you'll have another opportunity to renegotiate the deal. In the end, the lender won’t give you a loan for more than the property is worth.
+1. Make your highest offer. If you’ve never bought a home in a hot market, this sounds like bad advice. However, most buyers in a market like this have to offer top dollar in order to get the home. Work closely with your agent to determine the right price to offer in order to win the deal. Once the appraisal is done, you'll have another opportunity to renegotiate the deal. In the end, the lender won’t give you a loan for more than the property is worth.
 
 While you can never predict what's going to happen in a hot market like this, if you’re in it for the long haul (a 30-year term), you'll be happy in the end that you put in the effort to win the deal.
 
 I hope this has been helpful and informative for you. If you have any questions for me or you’re looking to buy or sell a home in the Greater D.C. Metro Area, don’t hesitate to give me a call or send me an email today.
-
-&nbsp;
