@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Real Estate Grit - your professional Chicago Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kati Spaniak</managingEditor>
-    <lastBuildDate>2018-06-25 13:22:55 -0500</lastBuildDate>
+    <lastBuildDate>2018-07-09 11:25:57 -0500</lastBuildDate>
     <media:copyright>Kati Spaniak</media:copyright>
     <media:thumbnail url="http://realestategrit.net/img/podcast.jpg"/>
     <media:keywords>North Shore real estate agent, North Shore real estate career, Northwest Suburban real estate agent, Northwest Suburban real estate career, Lake County real estate agent, Lake County real estate career, Chicago real estate agent, Chicago real estate career, Chicago real estate job, real estate careers, real estate jobs, real estate training</media:keywords>
@@ -24,6 +24,45 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Real Estate Grit - your professional Chicago Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How Should Agents Select Homes to Show Clients?</title>
+        <link>http://realestategrit.net/how-should-agents-select-homes-to-show-clients.html</link>
+        
+          <category>Listing Presentation</category>
+        
+        <author>Kati Spaniak</author>
+        <pubDate>2018-06-28 13:51:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+When you are working with a buyer, you should really only show them a maximum of eight to 10 homes. If you are providing services like a buyer consultation up front, you should not have to show them more properties than this. Buyers these days are very busy, so it is important not to waste their time.
+
+Personally, I like to streamline the process by having a conversation with my clients about what non-negotiable features their future home must have. It is essential that you find out what a client needs and wants in a home. Knowing what is important to them will guide you to selecting viable properties. 
+
+That said, it is also important to be honest with your clients. If their list of wants and needs isn’t feasible, you have to tell them that. Your buyers should have a realistic expectation of the kinds of homes that are available. 
+
+As agents, we know what is available. Our clients shouldn’t have to tour 50 different homes to learn something we already know.
+
+“Knowing what is important to your clients will guide you to selecting viable properties.”
+
+For example, if a client says they have a non-negotiable budget of $500,000 or less, but they also demand to see homes of a specific size and in a specific location, you must be honest with them about their prospects. And as you explain their options, make sure you continually check whether they are comfortable with the choices you are laying out for them. Clients should understand that you are not going to show them homes that do not fit their criteria. 
+
+Yet this does not mean clients will not ask you to show them homes that do not make sense. This is why you, as their agent, should do your research before taking them to any property they suggest. If the property they are pushing you toward truly is not a good fit, I would advise you to steer them away from it. 
+
+Sometimes, you may have to reevaluate their preferences and needs later on in the process. If you have toured dozens of homes with no results, something is wrong. At this point, it is time to go back to basics and get to the bottom of what your clients are looking for in a home.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://realestategrit.net" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is the secret to selecting homes to show your clients? Let’s take a look at what process you should follow.</itunes:subtitle>
+        <itunes:author>Kati Spaniak</itunes:author>
+        <itunes:summary>What is the secret to selecting homes to show your clients? Let’s take a look at what process you should follow.</itunes:summary>
+        <itunes:keywords>North Shore real estate agent, North Shore real estate career, Northwest Suburban real estate agent, Northwest Suburban real estate career, Lake County real estate agent, Lake County real estate career, Chicago real estate agent, Chicago real estate career, Chicago real estate job, real estate careers, real estate jobs, real estate training</itunes:keywords>
+      </item>
+      
       <item>
         <title>How to Build Relationships With Potential Clients</title>
         <link>http://realestategrit.net/how-to-build-relationships-with-potential-clients.html</link>
@@ -96,7 +135,7 @@ If you have any other questions or would like more information, feel free to giv
       </item>
       
       <item>
-        <title>The Key to Gaining Leads from an Open House</title>
+        <title>The Key to Gaining Leads From an Open House</title>
         <link>http://realestategrit.net/the-key-to-gaining-leads-from-an-open-house.html</link>
         
           <category>Lead Generation</category>
