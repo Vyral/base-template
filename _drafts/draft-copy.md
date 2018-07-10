@@ -19,8 +19,6 @@ youtube_alternate_image: /uploads/List.png
 youtube_code:
 ---
 
-Small Steps Now Can Amount to Big Savings Later
-
 Most of us are looking for ways to decrease our debt, increase our savings, and find ways to make our money go further. These goals can be achieved over time, if you take a few steps now that can save you money later.
 
 Contact your credit card companies to see if you are getting the best rate, based on your credit score.&nbsp; If not, ask what it takes to get a better interest rate.&nbsp; You’ll save a bunch of money just by asking for a lower rate.
