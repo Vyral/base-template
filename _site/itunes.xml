@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Tulsa Real Estate Podcast with Jennie Wolek</title>
+    <title>Your Journey with Jennie Podcast</title>
     <link>http://yourjourneywithjennie.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://yourjourneywithjennie.com"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</description>
+    <description>Jennie Wolek, a top Real Estate Agent in Tulsa, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <language>en</language>
     <managingEditor>Jennie Wolek</managingEditor>
-    <lastBuildDate>2018-06-25 14:56:18 -0500</lastBuildDate>
+    <lastBuildDate>2018-07-10 15:19:36 -0500</lastBuildDate>
     <media:copyright>Jennie Wolek</media:copyright>
     <media:thumbnail url="http://yourjourneywithjennie.com/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Jennie@TheWolekGroup.com</itunes:email>
@@ -19,11 +19,50 @@
     <itunes:author>Jennie Wolek</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://yourjourneywithjennie.com/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tulsa Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</itunes:summary>
+    <itunes:summary>Jennie Wolek, a top Real Estate Agent in Tulsa, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>How to Use Facebook to Grow Your Database</title>
+        <link>http://yourjourneywithjennie.com/how-to-use-facebook-to-grow-your-database.html</link>
+        
+          <category>Lead Generation</category>
+        
+        <author>Jennie Wolek</author>
+        <pubDate>2018-06-27 12:27:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Grow+Your+Database+with+Facebook.mp4</guid>
+        <description>
+
+Are you looking to build up your database? I recently got a great idea of how to do just that from my friend, business coach, and trainer: Brian Eisenhower.
+
+As a team, he taught us a fun trick and tool to build your database by simply using Facebook. More than likely, you’re already on there, so why not make it purposeful?
+
+Get on your smartphone and go into your Facebook mobile app. From there, go to your profile page and you’ll find your friends list in ascending order. Eventually, you’ll create a private message to send out to your friends list, but remember Facebook’s regulations—you’ll get into trouble if you send a message to too many people. The way around this barrier is to send your message out to 20 people a day, just to avoid “Facebook jail.”
+
+As far as what this message contains, make it generic since you’ll be copying and pasting it. Here’s the script that I use:
+
+“Keep your message short and sweet.”
+
+“Hey, it’s Jennie. How have you been? I’m updating my real estate database and I’d like to send real estate info from time to time. My real estate business was amazing last year.” Or, as an alternative to that line, “I’m new to real estate and I need to be better about staying in touch with people I know. Would you mind replying with your home address, phone number, and email to help me out?”
+
+Keep your message short and sweet. It’s amazing; people actually respond, and these are your Facebook friends, so it’s likely that they know you and want to support you.
+
+Use this tip to build your database. I’ve found that even though you might be an agent who’s been in business for a while, you might be missing out if you’re not utilizing Facebook to expand your reach.
+
+If you have any questions or thoughts about this approach, please reach out to me. If you give it a try, I’d love to hear your results as well!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Grow+Your+Database+with+Facebook.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://yourjourneywithjennie.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Grow+Your+Database+with+Facebook.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Whether you’re seasoned or new to the industry, utilizing your Facebook friends can be a great way to grow your database.</itunes:subtitle>
+        <itunes:author>Jennie Wolek</itunes:author>
+        <itunes:summary>Whether you’re seasoned or new to the industry, utilizing your Facebook friends can be a great way to grow your database.</itunes:summary>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
+      </item>
+      
       <item>
         <title>How Relationship Patterns Influence Our Business</title>
         <link>http://yourjourneywithjennie.com/tulsa-real-estate-agent-do-you-know-where-your-business-comes-from.html</link>
@@ -66,7 +105,7 @@ If you keep track of relationship patterns, you’ll see that making one contact
 If you keep track of relationship patterns, you’ll see that making one contact can lead to a windfall of transactions down the road.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -115,7 +154,7 @@ Make sure that your family, friends, and clients all know the best way to refer 
 Make sure that your family, friends, and clients all know the best way to refer you to a potential client. Here are a few tips to help them.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -163,7 +202,7 @@ Accountability is an essential quality for any successful real estate agent.
 Take it from my friend, Ricky Cain.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -212,7 +251,7 @@ By removing limiting beliefs, just like I did, you can live your life more produ
 By removing limiting beliefs, just like I did, you can live your life more productively and more fiercely.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -255,7 +294,7 @@ There’s always more to learn as a real estate agent. Here are just a few examp
 There’s always more to learn as a real estate agent. Here are just a few examples.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -309,7 +348,7 @@ Going from E to P changed Scott Klaas’ life for the better, and it can do the 
 Here’s how.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -369,7 +408,7 @@ Using the 80/20 principle, we can ensure that we’re prioritizing our time to b
 Using the 80/20 principle, we can ensure that we’re prioritizing our time to be sure that our money-producing activities are handled before everything else, which sets us up for success.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -427,7 +466,7 @@ Are your schedule and general thought-process adding value to your life?
 If not, switch things up so that they do.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -469,7 +508,7 @@ We’ve been able to do a much better job of handling our buyers
 by adding one simple tool to our business.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -520,7 +559,7 @@ Put it in your business plan for 2018 to give back to your community. We have so
 Put it in your business plan for 2018 to give back to your community. We have some ideas about how you can do that.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -575,7 +614,7 @@ Recently, I’ve been feeling a little unfocused. Today I want to share a few ti
 Recently, I’ve been feeling a little unfocused. Today I want to share a few tips on how you can overcome these same, common feelings in order to meet your goals.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -629,7 +668,7 @@ We use the DISC personality profile to help us in our business and personal live
 Here’s what DISC stands for.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -680,7 +719,7 @@ According to fellow agent Kelly Henderson, time-blocking and lead-generation are
 According to fellow agent Kelly Henderson, time-blocking and lead-generation are two great tips to achieving success in our industry.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -730,7 +769,7 @@ If you haven’t been using the 1-3-5 tool to get things accomplished in your bu
 If you haven’t been using the 1-3-5 tool to get things accomplished in your business, I highly recommend you give it a try.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -795,7 +834,7 @@ Have you ever shown up for an appointment with a seller and they weren’t ready
 Have you ever shown up for an appointment with a seller and they weren’t ready, willing, or able to sell their home?
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -844,7 +883,7 @@ In order to remember which questions to ask when qualifying a buyer, we use the 
 In order to remember which questions to ask when qualifying a buyer, we use the LPMAMA system. Here’s how it works.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -891,7 +930,7 @@ Creating a fan club is one of the best things you can do for your business. I’
 Creating a fan club is one of the best things you can do for your business. I’ll explain why today.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -938,7 +977,7 @@ Deciding to start my day earlier than usual was a great decision. It has allowed
 Deciding to start my day earlier than usual was a great decision. It has allowed me to take back my mornings and be more productive throughout the day.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
       <item>
@@ -996,12 +1035,12 @@ When I moved into my office, I made sure it was a great place for me to shoot my
 When I moved into my office, I made sure it was a great place for me to shoot my videos. Here’s how I did that.
 
 </itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate agents, top real estate agents, local real estate agents, Real Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real Estate Training, home selling tips, home buying, home buying process, estate agent, realestate, real estate listings, The Wolek Group, Tulsa Real Estate, Tulsa Real Estate Agents, Tulsa Real Estate Market</itunes:keywords>
       </item>
       
     <copyright>Jennie Wolek</copyright>
     <media:credit role="author">Jennie Wolek</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Wolek Group - your professional Tulsa Real Estate Agents.</media:description>
+    <media:description type="plain">Jennie Wolek, a top Real Estate Agent in Tulsa, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.</media:description>
   </channel>
 </rss>
