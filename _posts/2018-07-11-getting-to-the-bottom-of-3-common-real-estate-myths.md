@@ -21,7 +21,9 @@ youtube_code: 4jsH3qhtdhg
 
 {% include youtube.html %}
 
-There are a lot of misconceptions about the real estate industry out there. Today I’ll be tackling three common myths, in particular.
+<p style="text-align: center;"><em>There are a lot of misconceptions about the real estate industry out there. Today I’ll be tackling three common myths, in particular.</em></p>
+
+<center>&nbsp;</center>
 
 There’s a lot of confusion about what’s true and false about the real estate industry, so today I wanted to address and debunk three common myths people believe about this business.&nbsp;
 
