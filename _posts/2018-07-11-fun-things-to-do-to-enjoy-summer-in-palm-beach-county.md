@@ -71,6 +71,6 @@ For now, check out this great list of things to do and places to go this summer.
 * Game nights/ other activities
   * [https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater](https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater){: target="_blank"}
 * Greenacres Food Truck
-  * [https://greenacresfl.gov/leisure/page/food-truck-wednesdays](https://greenacresfl.gov/leisure/page/food-truck-wednesdays){: target="_blank"}
+  * [https://greenacresfl.gov/administration/page/food-truck-wednesdays](https://greenacresfl.gov/administration/page/food-truck-wednesdays){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
