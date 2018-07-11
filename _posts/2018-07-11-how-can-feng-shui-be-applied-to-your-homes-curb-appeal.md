@@ -21,7 +21,9 @@ youtube_code: xZpxBXzwLWM
 
 {% include youtube.html %}
 
-<center>You may have heard of the ancient art of feng shui, but do you know what it can do for your life and your home? Today I’ve brought on an expert to explain.</center>
+<center><em>You may have heard of the ancient art of feng shui, but do you know what it can do for your life and your home? Today I&rsquo;ve brought on an expert to explain.</em></center>
+
+&nbsp;
 
 How can your home’s exterior improve your health, wealth, and relationships? Feng shui expert Myrna Brown joins us today to explain.
 
