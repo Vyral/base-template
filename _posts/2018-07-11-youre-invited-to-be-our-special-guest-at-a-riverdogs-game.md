@@ -18,4 +18,4 @@ youtube_code: R3AIBJ5fBGA
 
 {% include youtube.html %}
 
-Hey there! We wanted to thank you for choosing us for your real estate needs by inviting you to our complementary Jeff Cook Client Appreciation Night at the Charleston RiverDogs game!&nbsp;**[Please click to RSVP](https://www.jeffcookevents.com/#/riverdogs/){: target="_blank"}**&nbsp;for the Charleston RiverDogs game against the Greenville Drive on Saturday, July 28th at 7:05pm. To learn more, watch this short video.
+Hey there! We wanted to thank you for choosing us for your real estate needs by inviting you to our complementary Jeff Cook Client Appreciation Night at the Charleston RiverDogs game!&nbsp;**[Please click to RSVP](https://www.jeffcookevents.com/#/riverdogs/){: target="_blank"}**&nbsp;for the Charleston RiverDogs game against the Greenville Drive on Saturday, July 28th at 6:05pm. To learn more, watch this short video.
