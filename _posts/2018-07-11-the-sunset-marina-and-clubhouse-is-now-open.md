@@ -16,6 +16,6 @@ youtube_code: AmhbUYa9Oxs
 
 {% include youtube.html %}
 
-Summer has arrived in full swing, and the Sunset Marina and Clubhouse is now open! Property owners have access to the bar and lounge, the outdoor fire and deck areas, and more. The Clubhouse is 4,000 square feet of awesome, with areas for grilling and lounging and complete with a fully featured game room. With access to Chelan’s only deep water marina and with slips selling fast, you will want to check it out before it is too late! To see what you could stand to gain with a premium waterfront vacation property, watch this short video.
+Summer has arrived in full swing, and the Sunset Marina and Clubhouse is now open! Property owners have access to the bar and lounge, the outdoor fire and deck areas, and more. The Clubhouse is 4,000 square feet with areas for grilling and lounging. There is even a game room. With access to Chelan’s only deep water marina and with slips selling fast, you will want to check it out before it is too late! To see what you could stand to gain with a premium waterfront vacation property, watch this short video.
 
 &nbsp;
