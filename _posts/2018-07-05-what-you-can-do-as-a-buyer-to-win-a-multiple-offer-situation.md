@@ -8,7 +8,8 @@ excerpt: >-
   Are you a buyer who’s worried about competing in multiple offer situations in
   our strong market? Here are a few tips to make your offer stronger than the
   others.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Don+Vallee/2018/Tucson+Real+Estate+Agent-+What+You+Can+Do+as+a+Buyer+to+Win+a+Multiple+Offer+Situation.mp4
 pullquote: >-
   If you find the right house in our current market and then visit the lender,
   more than likely there will be other offers on that house.
