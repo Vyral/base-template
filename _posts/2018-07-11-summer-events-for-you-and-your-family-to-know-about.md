@@ -19,7 +19,9 @@ youtube_code: 7sEnbARrOZQ
 
 {% include youtube.html %}
 
-Looking for fun, summer events that the whole family can enjoy? Look no further.
+<p style="text-align: center;"><em>Looking for fun, summer events that the whole family can enjoy? Look no further.</em></p>
+
+<center>&nbsp;</center>
 
 Today I just want to give you a quick update on some of the upcoming events here in our community for you and your whole family to enjoy.&nbsp;
 
