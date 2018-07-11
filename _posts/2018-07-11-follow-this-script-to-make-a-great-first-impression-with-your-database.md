@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/HgWRcP0EgmY'
 
 Every one of us has a database. Whether it’s Facebook friends or the contacts on our phone, all of us have people we can reach out to.
 
-We know the value of establishing a great foundation in your business based on your database, so we have a script you can use to introduce yourself to your database. **This is the follow-up script my team uses to call people after we’ve done the Facebook exercise that I mentioned in a [p<u>revious </u><u>video</u>](https://yourjourneywithjennie.com/how-to-use-facebook-to-grow-your-database.html):**
+We know the value of establishing a great foundation in your business based on your database, so we have a script you can use to introduce yourself to your database. **This is the follow-up script my team uses to call people after we’ve done the Facebook exercise that I mentioned in a [<u>previous video:</u>](https://yourjourneywithjennie.com/how-to-use-facebook-to-grow-your-database.html){: target="_blank"}&nbsp;**
 
 *“Hey, it’s (name) with the Wolek Group! How are things going? I’m so excited—I started my new job and I’m just calling all my friends and family to let them know it’s official. I am now in real estate with the Wolek Group.”*
 
