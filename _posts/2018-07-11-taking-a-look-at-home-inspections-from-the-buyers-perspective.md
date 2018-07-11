@@ -23,7 +23,7 @@ youtube_code: zL0cVMWRpT8
 
 <p style="text-align: center;"><em>Today I will take a look at home inspections and what they provide to you as a buyer.</em></p>
 
-<center><&nbsp;</center>
+<center>&nbsp;</center>
 
 When a buyer purchases a home, they tend to get excited. But when the inspection report comes in, detailing everything wrong with the property in a 53-page document, it can quickly become a different story.&nbsp;
 
