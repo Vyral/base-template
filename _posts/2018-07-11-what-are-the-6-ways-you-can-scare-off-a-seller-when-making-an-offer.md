@@ -33,10 +33,10 @@ As a buyer, there are six ways you can scare off a seller when making your offer
 
 {% include pullquote.html %}
 
-4. You’re working with a shady or unknown lender.&nbsp;
+1. You’re working with a shady or unknown lender.&nbsp;
 
-5. There are too many red flags about your financial situation.
+2. There are too many red flags about your financial situation.
 
-6. You ask for personal items within the home.&nbsp;
+3. You ask for personal items within the home.&nbsp;
 
 To hear my full message about this topic, watch my latest video.&nbsp;<br>&nbsp;
