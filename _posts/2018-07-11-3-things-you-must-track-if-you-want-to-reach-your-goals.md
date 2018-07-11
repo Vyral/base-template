@@ -23,7 +23,9 @@ youtube_code: 9Uwq7BDZrkU
 
 {% include youtube.html %}
 
-Keeping track of certain things in your business will make it much easier to meet your goals. Today I’d like to highlight three specific things you should be recording.
+<p style="text-align: center;"><em>Keeping track of certain things in your business will make it much easier to meet your goals. Today I’d like to highlight three specific things you should be recording.</em></p>
+
+<center>&nbsp;</center>
 
 There are three critical things you should track in the sales process to make sure you hit your goals.
 
