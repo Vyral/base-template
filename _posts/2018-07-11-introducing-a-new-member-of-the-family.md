@@ -19,7 +19,9 @@ youtube_code: zwIwV9kcqHg
 
 {% include youtube.html %}
 
-Heather Case, a member of the Radke Agency team, recently had a new addition to her family. Today want to introduce you to baby Isabel.
+<p style="text-align: center;"><em>Heather Case, a member of the Radke Agency team, recently had a new addition to her family. Today want to introduce you to baby Isabel.</em></p>
+
+<center>&nbsp;</center>
 
 I’m here at Fox Field Park in Westlake Village with Heather Case, a member of the Radke Agency who is very near and dear to me. Heather has been really busy these past two months, and now she has a new addition to her family! Today I wanted to let Heather introduce her new bundle of joy to you all.
 
