@@ -1579,7 +1579,7 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 60rem;
+  max-width: 40rem;
   -webkit-filter: drop-shadow(0px 2px 7px black);
   filter: drop-shadow(0px 2px 7px black); }
 
@@ -2473,6 +2473,9 @@ table tr, table td {
 
 .footer-pad {
   padding-top: 20px; }
+
+.remax {
+  width: 200px; }
 
 .item-container {
   margin: 3rem 5rem;

@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Philadelphia Real Estate Podcast with Danielle Py-Salas & Guillermo Salas</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://salasteamcareers.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://salasteamcareers.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Salas Team - your professional Philadelphia Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Danielle Py-Salas & Guillermo Salas</managingEditor>
-    <lastBuildDate>2017-11-06 13:07:31 -0600</lastBuildDate>
+    <lastBuildDate>2018-07-11 13:21:06 -0500</lastBuildDate>
     <media:copyright>Danielle Py-Salas & Guillermo Salas</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://salasteamcareers.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,161 @@
     </itunes:owner>
     <itunes:author>Danielle Py-Salas & Guillermo Salas</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://salasteamcareers.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Philadelphia Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Salas Team - your professional Philadelphia Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>The Secret to Being a Successful Agent</title>
+        <link>http://salasteamcareers.com/the-secret-to-being-a-successful-agent.html</link>
         
         <author>Danielle Py-Salas & Guillermo Salas</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
+        <pubDate>2018-05-16 09:39:09 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+Agents looking to take your business to the next level: I’m really excited to share a tool that we at the Salas Team use to help our agents track their success.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Oftentimes in our business, we look at metrics like how many units we sell, sales volume, and GCI. The issue with these metrics is that they are lagging indicators. If you realize that you are not meeting the goals that you set for yourself, it is already too late to correct the activity. Instead, let’s move that process to the fore and think about what we need to do on a daily, weekly, monthly, and yearly basis in order to meet the goals.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The tool that the Salas Team uses is our weekly activity log tracker, which allows us to track key numbers to make sure that we’re engaged in the proper activities. To see what that looks like, refer to 1:20 in the video above.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+At the top of the sheet, you’ll see the section labeled “Dials.” The number of dials you log are factors that you as an agent can control. These dials can be how many calls you make, door-knocking, networking with people at events, and similar. You need to have those conversations because dials are huge lead indicators. With Mojo and other automatic dialers like it, we can get up to 300 dials a day; however, depending on your goals and circumstances, you may not need to get that high.
 
-“This is an example of a pull quote”
+“By tracking these metrics, you can tell whether you’re on the right course.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Next, you need to maintain your contacts properly. Contacts are two-way conversations; don’t fool yourself into thinking that calls and emails which don’t get responses are indicators of good activity. You need to be sure that you’re having an actual conversation with your leads. Even if you call someone to discuss their expired listing and they hang up on you, that’s a contact. Track that activity. This is especially critical for newer agents, who need to have somewhere between 80 and 100 contacts per week in order to set one appointment. More seasoned agents can afford to have only 20 to 60 contacts a week in order to get an appointment.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Another part of the weekly log tracker is called “Set, Met, and Signed.” ‘Set’ refers to how many appointments you set on a weekly basis; ‘met’ is how many of those appointments actually came through; and ‘signed’ refers to how many of those appointments ended in a client signing a listing or a buyer agency contract. In my experience, those who want to make $100,000 or more in this business have to track at a 4-3-2 SMS rate: they’ll need to set at least four appointments a week, meet with at least three of those, and sign with two of them. If you follow that rhythm over a 48-week period, you can’t help but be successful.
+
+The final part of the log tracker I’ll address is at the very bottom: Write down the names of your appointments and lead sources. The latter is critical—you need to know where your leads are coming from, whether it’s from an open house, an expired listing, a For Sale By Owner (FSBO) listing, your sphere of influence, or a referral. Focus your efforts on which ones are producing leads for you.
+
+If you’d like a hard copy of our weekly activity log tracker or if you have any questions, feel free to reach out to me. I’d be happy to send you a copy so that you can better track and guide your habits toward success.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://salasteamcareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Are you struggling to meet your goals in your real estate career? My team has a solution that may help you turn that around.</itunes:subtitle>
         <itunes:author>Danielle Py-Salas & Guillermo Salas</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Are you struggling to meet your goals in your real estate career? My team has a solution that may help you turn that around.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+        <title>A Better Way to Understand Buyer Conversations</title>
+        <link>http://salasteamcareers.com/a-better-way-to-understand-buyer-conversations.html</link>
         
         <author>Danielle Py-Salas & Guillermo Salas</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2018-04-24 16:18:09 -0500</pubDate>
         <guid></guid>
         <description>
 
-}
+If you’re like I was earlier in my career, you’re probably asking yourself what questions you should be asking prospects in order to make the most effective use of your time. Have you ever been in a situation where somebody calls you to see a home, but they aren’t ready to buy yet? Wouldn’t that be better to know up front? Wouldn’t it also be better to know exactly what they’re looking for before you start showing houses?
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+If you have these types of conversations upfront, you’ll have a much more effective relationship with your clients and you’ll use your time most effectively with buyers who are serious. When I was struggling with this, I created a tool for our agents to memorize and keep so that they can get to the “good stuff” quickly when it comes to prospecting with buyers.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+It’s an acronym that’s easy to remember: LPMAMA. I’ll go through each letter and explain how it fits the bigger picture:
 
+Location. That’s an easy one. Ask them where they want to live and understand why they want to live there. This shows tremendous value to a prospect.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Price. You want to know what price range they’re looking in so they stay on track. The reality is that there’s no point in looking at a million dollar house when their budget is $500,000. As an expert, you already know that and can relay that to the buyer.
 
+“The flow of your conversation should end with an appointment.”
 
+Motivation. You want to know how quickly the buyer needs to get into the next home. An “A” client is looking to buy in the next 30 days, a “B” client is someone who has a time frame of 30 to 60 days, and a “C” client is any buyer who is 90 days or more out from buying a home. Knowing the buyer’s time frame will help you put the right plan and strategy into place so there are minimal hiccups.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Agent. Make sure you know whether or not a buyer is already working with an agent or has already signed a buyer agency contract. Having this conversation upfront will save you a lot of time and heartache.
 
+Mortgage. You and the buyer both need to know exactly what they are approved for and what their spending power is. In this day and age, if a buyer doesn’t have a preapproval upfront, it could cost them the home they really want. A pre-approval will absolutely be to their benefit.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Appointment. This is an easy one but people often forget it. The flow of your conversation with each potential buyer should end with setting an appointment.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+This is a great way to dictate the flow of the conversations you’re already having. I encourage you to do the same thing. If you have any other questions about this subject or anything else related to the real estate business, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://salasteamcareers.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>How can you better steer conversations with buyers so that you get all the facts up front? Follow this simple acronym.</itunes:subtitle>
         <itunes:author>Danielle Py-Salas & Guillermo Salas</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>How can you better steer conversations with buyers so that you get all the facts up front? Follow this simple acronym.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tips on How to Effectively Manage Your Activities</title>
+        <link>http://salasteamcareers.com/tips-on-how-to-effectively-manage-your-activities.html</link>
+        
+        <author>Danielle Py-Salas & Guillermo Salas</author>
+        <pubDate>2018-03-15 12:24:23 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Today, I’d like to talk about activities management, otherwise known as “time blocking.” The term “time blocking,” however, has a negative connotation. People try to jam too much into their time blocking, and that’s just a recipe for failure.
+
+It’s likely to lead to more success if you just focus on a few things, master them, ingrain them into your habits, and then add more things in. Today, I’m going to talk to you about the three things that you should focus on during activities management in order to really be successful.
+
+1. New business development. This constitutes actually reaching out to people you haven’t worked with before. It’s important to focus on the ‘new’ aspect—many agents have fallen into the trap where we go after the same person. Following up with people who aren’t ready doesn’t generate new business.
+
+“People try to jam too much into their time blocking, and that’s just a recipe for failure.”
+
+2. Maintain contact with those who want to buy or sell but aren’t ready. This way, when they do enter the buying or selling window, you don’t miss the opportunity. I break my database down to the categories “hot,” “warm,” and “cold.” “Hot” people are those who are looking to buy or sell in the next 30 days, and I contact them once a week; “warm” people are those who want to buy within 30 to 90 days, and I stay in touch with them every two weeks; “cold” people are those who may buy in 90 days or more, who I contact once a month.
+
+3. Do everything else needed to close a transaction. That includes showings, negotiating offers and inspects, and so on.
+
+There’s a lot more to unpack on this subject, so if you’d like to continue this conversation or if you have any questions, please feel free to reach out to me. Also, don’t hesitate to send me ideas for topics that you would like to see covered on my channel!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://salasteamcareers.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When it comes to activities management, there are three things you need to focus on in order to achieve success.</itunes:subtitle>
+        <itunes:author>Danielle Py-Salas & Guillermo Salas</itunes:author>
+        <itunes:summary>When it comes to activities management, there are three things you need to focus on in order to achieve success.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We’ve Cracked the Code and We Want to Share It With You</title>
+        <link>http://salasteamcareers.com/weve-cracked-the-code-and-we-want-to-share-it-with-you.html</link>
+        
+        <author>Danielle Py-Salas & Guillermo Salas</author>
+        <pubDate>2018-02-12 12:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+I wanted to reach out to all of you who are either interested in starting a career in real estate or furthering the career you already have.
+
+Our team has cracked the code for what it takes to be a successful agent in this business. We’ve found that the hardest obstacle for most people to get over is consistency. The great thing about the agents who join The Salas Team is that we’ve invested a lot of time and energy and money into creating systems and providing tools around a support system that ensures you are consistent and can actually achieve your goals. Here are the seven tools that we offer to the agents who join our team:
+
+1. Brand recognition. We spend a lot of time and energy on marketing and have been regionally and nationally ranked as a team with RE/MAX. All of this will benefit you as an agent by providing instant credibility with consumers in the area.
+
+2. Offices. We have offices all throughout the greater Philadelphia Metro Area. We’ve got two offices in Center City, one in the Main Line, and two in South Jersey as well. You can diversify your sale practices on our team by being able to sell in all of these different markets.
+
+3. Leads. We have a ton of leads. We have people who are making 300 to 400 calls a day so that our agents don’t ever have to wonder where your next lead is coming from.
+
+“We want our agents to use their time most effectively.”
+
+4. Technology and systems. We invest a lot of money in cutting-edge technology because time is our most valuable asset. We want to make sure our agents are able to use their time effectively throughout the day so that they have long, enjoyable, and successful careers.
+
+5. Training and accountability. We are learning-based here and focus on our education and the education or our agents.
+
+6. Administrative support and systems. Not everybody is meant to do everything really really well. Some of us have a few natural gifts and want to stay in that zone because it’s where we’re happy and productive. As a result, we align ourselves with the people who are good at the things we aren’t. Maybe administrative tasks aren’t your thing. Maybe you’d just rather focus on selling. We have a listing manager, a marketing coordinator, a transaction manager, and other support systems in place to make sure our clients get the best service possible.
+
+7. Leadership. Both my wife and I are former practicing attorneys at some of the largest and most powerful companies in the region. Those companies invested in our leadership over the years. Now we’re investing our leadership skills in people like you. Our unique background helps agents be successful in their careers.
+
+If you or someone you know is interested in utilizing our systems, tools, and experience to take your career to the next level, don’t hesitate to reach out and give us a call or send us an email today. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://salasteamcareers.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve cracked the code on the real estate business. Here’s how we’re sharing our secret with agents like you.</itunes:subtitle>
+        <itunes:author>Danielle Py-Salas & Guillermo Salas</itunes:author>
+        <itunes:summary>We’ve cracked the code on the real estate business. Here’s how we’re sharing our secret with agents like you.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Philadelphia, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
