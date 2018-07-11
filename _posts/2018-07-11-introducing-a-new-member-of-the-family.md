@@ -19,7 +19,7 @@ youtube_code: zwIwV9kcqHg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Heather Case, a member of the Radke Agency team, recently had a new addition to her family. Today want to introduce you to baby Isabel.</em></p>
+<p style="text-align: center;"><em>Heather Case, a member of the Radke Agency team, recently had a new addition to her family. Today I want to introduce you to baby Isabel.</em></p>
 
 <center>&nbsp;</center>
 
