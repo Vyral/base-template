@@ -21,7 +21,7 @@ youtube_code: Pwh0yk3QkMo
 
 Today we are going to talk about some market statistics for Clarksville real estate. We look at these statistics every week and want to make sure that you are updated on the very latest news and numbers.
 
-One thing we have been keeping an eye on for the last month or so is inventory. **Although our inventory levels are short and still lower than what we had at this time last year, but I have noticed that this inventory is starting to come back up.** Now, onto the numbers.
+One thing we have been keeping an eye on for the last month or so is inventory. **Although our inventory levels are still lower than what we had at this time last year, but I have noticed that this inventory is starting to come back up.** Now, onto the numbers.
 
 {% include pullquote.html %}
 
