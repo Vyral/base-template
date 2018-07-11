@@ -19,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-july-1-screen-shot-no-play.jpg
-youtube_code: sLsOE26Z6WM
+youtube_code: tZI1qalGFvo
 ---
 
 {% include youtube.html %}
