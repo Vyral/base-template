@@ -18,4 +18,4 @@ youtube_code: WAJdRU4WXlQ
 
 {% include youtube.html %}
 
-Today I’m taking a break from real estate to introduce you to an amazing new coffee shop here in Draper: The Clever Bean. Located at 656 East 11400 South, Suite J, this coffee shop reminds me of the coffee shops back home in Portland. As a former barista and coffee shop owner myself, I really appreciate the quality of coffee they brew here (their cold brew is unbelievable). As of now, i’m a regular at The Clever Bean, and I highly recommend you check them out. To learn more about this place and meet the owners, watch my latest video.
+Today I’m taking a break from real estate to introduce you to an amazing new coffee shop here in Draper: The Clever Bean. Located at 656 East 11400 South, Suite J, this coffee shop reminds me of the coffee shops back home in Portland. As a former barista and coffee shop owner myself, I really appreciate the quality of coffee they brew here (their cold brew is unbelievable). As of now, I’m a regular at The Clever Bean, and I highly recommend you check them out. To learn more about this place and meet the owners, watch my latest video.
