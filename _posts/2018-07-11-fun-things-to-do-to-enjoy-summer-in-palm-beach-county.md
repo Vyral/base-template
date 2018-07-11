@@ -53,7 +53,7 @@ For now, check out this great list of things to do and places to go this summer.
 * Antique Row Art and Design District
   * [http://westpalmbeachantiques.com/](http://westpalmbeachantiques.com/){: target="_blank"}
 * Rapids Water Park
-  * https://www.rapidswaterpark.com/
+  * [https://www.rapidswaterpark.com/](https://www.rapidswaterpark.com/){: target="_blank"}
 * Delray Beach (The Ave)
 * Mizner Park
   * [https://www.misnerpark.com/en/events.html](https://www.misnerpark.com/en/events.html){: target="_blank"}
@@ -72,9 +72,5 @@ For now, check out this great list of things to do and places to go this summer.
   * [https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater](https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater){: target="_blank"}
 * Greenacres Food Truck
   * [https://greenacresfl.gov/leisure/page/food-truck-wednesdays](https://greenacresfl.gov/leisure/page/food-truck-wednesdays){: target="_blank"}
-
-&nbsp;
-
-&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
