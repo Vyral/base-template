@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Third Component of a Business Model
-date: 2018-07-05 17:44:46
+date: 2018-07-05 17:44:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/business-plan-3-7-youtube.jpg
-youtube_code: oNRj5TcaWu4
+youtube_code: Ud_KvCkkIrs
 ---
 
 {% include youtube.html %}
