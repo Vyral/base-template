@@ -25,18 +25,18 @@ youtube_code: G7_P7EwJGXk
 
 As a buyer, there are six ways you can scare off a seller when making your offer:
 
-1. You’re not pre-approved for your mortgage.&nbsp;
+You’re not pre-approved for your mortgage.&nbsp;
 
-2. You ask for too many contingencies.&nbsp;
+You ask for too many contingencies.&nbsp;
 
-3. You request a long list of home repairs.&nbsp;
+You request a long list of home repairs.&nbsp;
 
 {% include pullquote.html %}
 
-1. You’re working with a shady or unknown lender.&nbsp;
+You’re working with a shady or unknown lender.&nbsp;
 
-2. There are too many red flags about your financial situation.
+There are too many red flags about your financial situation.
 
-3. You ask for personal items within the home.&nbsp;
+You ask for personal items within the home.&nbsp;
 
 To hear my full message about this topic, watch my latest video.&nbsp;<br>&nbsp;
