@@ -67,7 +67,7 @@ Even once onboarding is complete, I meet with my agents on an ongoing basis to e
 
 When you apply with us right now, you have the benefit of getting in on the ground floor. We award the most leads to agents who have been with us for the longest periods of time, so this is a key opportunity. On top of that, we are also looking to expand to other areas of the Chicagoland area and the country in the future. **This means that top agents have the opportunities to form their own teams within our larger team structure.**
 
-Our commission split is 40%, but because we work with a higher price point, agents on our team who follow our systems and training will make at least $150,000 per year. **I can guarantee that if you stick to your goals and our plan, you will be taking home real income within your fourth month on our team.**
+Our commission split is 60%, but because we work with a higher price point, agents on our team who follow our systems and training will make at least $150,000 per year. **I can guarantee that if you stick to your goals and our plan, you will be taking home real income within your fourth month on our team.**
 
 Don’t just take my word for it. An agent on our team right now closed a deal and earned $8,500 in her first four months. This agent has also received a $2.5 million buyer lead from our inbound system. This is just one example of our many success stories.
 
