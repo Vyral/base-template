@@ -19,14 +19,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/nick-kellar-july-1-screen-shot-no-play.jpg
-youtube_code: zAePU40K71s
+youtube_code: sLsOE26Z6WM
 ---
 
 {% include youtube.html %}
 
 <center><em>When you&rsquo;re trying to sell your current home and buy a new one, the process can be overwhelming. However, we have tips and advice for you that will allow you to carry out both transactions smoothly.</em></center>
 
-&nbsp;
+ 
 
 Today I want to go into detail about how to buy and sell a home at the same time in today’s current market.
 
