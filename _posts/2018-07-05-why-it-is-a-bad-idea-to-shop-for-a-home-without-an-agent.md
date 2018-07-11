@@ -27,8 +27,8 @@ The first thing you should never do when buying a home is **shop without an agen
 
 {% include pullquote.html %}
 
-Some people think that they can save on commission costs by buying without an agent, but that is untrue. The commission is an agreement between the seller and the listing firm. If you buy a home yourself, you do not automatically get a reduction on the commission. In fact, in this case the listing agent would get more commission.
+Some people think that they can save on commission costs by buying without an agent, but that is untrue. The commission is an agreement between the seller and the listing firm. If you buy a home yourself, you do not automatically get a reduction on the commission. In fact, in this case, the listing agent would get more commission.
 
-**When you have an working for you, they will know the market, know how to negotiate on your behalf, and be able to represent your best interests.** You’ll also want an agent who works in real estate full-time.
+**When you have an agent working for you, they will know the market, know how to negotiate on your behalf, and be able to represent your best interests.** You’ll also want an agent who works in real estate full-time.
 
 As always, if you have any other questions or you are thinking about buying or selling a house, please feel free to reach out to me. I would be happy to help you.
