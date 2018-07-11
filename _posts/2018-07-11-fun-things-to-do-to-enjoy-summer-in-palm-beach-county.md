@@ -28,7 +28,7 @@ youtube_code: sy2MhhBFrmQ
 
 Whether you are in need of a staycation or are simply looking to enjoy some summer fun with your family, **there are several things you can do this season right here in Palm Beach County.**
 
-Summer is one of my favorite times of year, because there is so much out there to do. We know it is hot out there, but hopefully the events and activities we will be sharing with you today can help take your mind off the heat.&nbsp;
+Summer is one of my favorite times of the year, because there is so much out there to do. We know it is hot out there, but hopefully the events and activities we will be sharing with you today can help take your mind off the heat.&nbsp;
 
 And if you are not already a Palm Beach County resident, our great beaches, amazing golf courses, fine dining opportunities, and other entertainment options are sure to serve as a major draw. If the Palm Beach lifestyle sounds like it is right for you, we would love to help you match you with the perfect neighborhood.&nbsp;
 
@@ -43,7 +43,7 @@ For now, check out this great list of things to do and places to go this summer.
   * [https://www.mounts.org/](https://www.mounts.org/){: target="_blank"}
 * McCarthy’s Wildlife Sanctuary
   * [http://www.mccarthyswildlife.com/](http://www.mccarthyswildlife.com/){: target="_blank"}
-* Kravis Center for Performing Arts
+* Kravis Center for the Performing Arts
   * [https://www.kravis.org/&nbsp;](https://www.kravis.org/){: target="_blank"}
 * South Florida Science Center and Aquarium
   * [https://www.sfsciencecenter.org/](https://www.sfsciencecenter.org/){: target="_blank"}
@@ -64,7 +64,7 @@ For now, check out this great list of things to do and places to go this summer.
   * [http://paddleboardingpalmbeach.com/](http://paddleboardingpalmbeach.com/){: target="_blank"}
 * Wellington Food Trucks
   * [http://wellingtonfoodtrucks.com/](http://wellingtonfoodtrucks.com/){: target="_blank"}
-* Paragon Movies (Wellington)&nbsp;
+* Paragon Theaters (Wellington)&nbsp;
   * [https://paragontheaters.com/promotions](https://paragontheaters.com/promotions){: target="_blank"}
 * Delray Marketplace&nbsp;
   * [http://www.delraymarket.com/](http://www.delraymarket.com/){: target="_blank"}
