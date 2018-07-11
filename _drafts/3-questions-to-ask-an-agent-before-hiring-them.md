@@ -2,7 +2,6 @@
 layout: post
 title: 3 Questions to Ask an Agent Before Hiring Them
 tags:
-  - Market Updates
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
