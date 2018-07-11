@@ -56,10 +56,10 @@ For now, check out this great list of things to do and places to go this summer.
   * [https://www.rapidswaterpark.com/](https://www.rapidswaterpark.com/){: target="_blank"}
 * Delray Beach (The Ave)
 * Mizner Park
-  * [https://www.misnerpark.com/en/events.html](https://www.misnerpark.com/en/events.html){: target="_blank"}
+  * [https://www.miznerpark.com/en/events.html](https://www.miznerpark.com/en/events.html){: target="_blank"}
 * Adventure Golf (Jupiter and Delray)
 * Putt’n Around Mini Golf
-  * [http://puttnarround.net/photo-gallery/](http://puttnarround.net/photo-gallery/){: target="_blank"}
+  * [http://puttnaround.net/miniature-golf/](http://puttnaround.net/miniature-golf/){: target="_blank"}
 * Paddle Boarding
   * [http://paddleboardingpalmbeach.com/](http://paddleboardingpalmbeach.com/){: target="_blank"}
 * Wellington Food Trucks
