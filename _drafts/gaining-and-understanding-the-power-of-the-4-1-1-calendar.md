@@ -2,33 +2,26 @@
 layout: post
 title: Gaining and Understanding the Power of the 4-1-1 Calendar
 tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
+  - Transaction Management
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  Today’s millionaire mindset tip is for gaining and understanding the power of
+  using the 4-1-1 calendar. When you combine the GPS plan that we discussed in
+  our previous video with the 4-1-1 calendar, you will be able to create the
+  success you deserve. This simple template for weekly, monthly, and annual
+  planning turns your “one thing” intentions into actions. To find out how,
+  watch my latest video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/2018/The+Stern+Team-+411+Calendar.mp4
+pullquote: >-
+  The 1-3-5 plan combined with the 4-1-1 calendar will create the success you
+  deserve.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: C7z3rgPl4l8
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
-
 {% include pullquote.html %}
-
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
-
-To hear the full radio endorsement, listen to the clip above.
