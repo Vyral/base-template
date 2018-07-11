@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/tRfYyx9iTqU'
 
 {% include youtube.html %}
 
-How do you approach buying a home and selling your own at the same time.
+How do you approach buying a home and selling your own at the same time?
 
 Well, if you have the financial capacity to do so, the easiest option is to purchase your next home before starting the process of selling your current one. This way you can focus on one transaction at a time.
 
@@ -33,9 +33,9 @@ Most of the time, you would close both sales on the same day. This involves putt
 
 {% include pullquote.html %}
 
-**Including this contingency protects you against ending up with two houses.** It will allow you to back out of your home purchase if your home sale falls through.&nbsp;
+**Including this contingency protects you from ending up with two houses.** It will allow you to back out of your home purchase if your home sale falls through.&nbsp;
 
-Yet, switching homes in a single day can present some logistical complications related to the move itself. Most clients my team works with will resolve this by storing items prior to their moving date, so that they can easily be transferred to the new home.
+Yet, switching homes in a single day can present some logistical complications related to the move itself. Most clients my team works with will resolve this by storing items prior to their moving date so that they can easily be transferred to the new home.
 
 However, another way you can resolve complications with the moving process is by negotiating for possession of the home you are purchasing prior to closing, or for possession of the home you’re selling after closing. This will give you a buffer period to make your move.
 
