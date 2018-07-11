@@ -27,4 +27,14 @@ youtube_code: mh8ZtOz9J3U
 
 {% include youtube.html %}
 
+What can you do to get your property in top condition when it comes time to sell? Today I have three effective tips to share that will help you sell your home for top dollar.
+
+**1. Prepare a checklist.** Walk around (inside and outside) your home and make a checklist of everything you can see that needs repaired—landscaping, kitchen, bathrooms, and the rest. Make whatever changes or upgrades you need to and check them off your list as you go.
+
+**2. Stage the property.** You can do this in one of two ways: hire a professional, or use virtual staging if the property is already vacant. A professional will tour your home and draw up a report to tell you how to move the furniture, what to declutter, and however else you can really make your home shine. VIrtual stagers can use Photoshop or other editing software to digitally add furniture and other features to your home, which will boost the efficiency of your online marketing.
+
 {% include pullquote.html %}
+
+**3. Get a home inspection before listing your property.** A preemptive inspection will highlight any problems that might have been unsurfaced during escrow, allowing you to fix whatever issues are found before the can hinder your sale. Having the report on hand will also allow you to communicate with buyers who perceive something to be an issue; we can show them the report and assure them that it’s been taken care of.
+
+If you find this to be a stressful process or don’t know how to hire an inspector or stager, please don’t hesitate to reach out to me.
