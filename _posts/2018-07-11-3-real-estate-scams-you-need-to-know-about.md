@@ -60,7 +60,7 @@ So, how can you protect yourself against these and other scams?
 
 First and foremost, <u><strong>don't send account information over email.</strong></u>
 
-Confirm everything over a phone call to a number that you already know to be valid...or even better, in person.
+Confirm everything over a phone call to a number that you already know to be valid…or even better, in person.
 
 Finally, finding a real estate agent that you can trust to represent your best interests is critical. I'd be honored to serve in that role, so please give me a call at (717) 226-0819.&nbsp;
 
@@ -72,4 +72,4 @@ If you're only just considering selling your home, you might be interested in fi
 
 On the other hand, if you're looking to buy, take a look at all the great homes that have recently come on the market in Central Pennsylvania:
 
-**[Click here for all available Central Pennsylvania homes for sale](https://akronenberg.kw.com/search-homes/){: target="_blank"}**<br><br>Have a great day.
+**[Click here for all available Central Pennsylvania homes for sale](https://akronenberg.kw.com/search-homes/){: target="_blank"}**<br><br>Have a great day!
