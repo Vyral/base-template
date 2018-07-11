@@ -17,5 +17,3 @@ youtube_code: 6GkSiDrL_OE
 {% include youtube.html %}
 
 Today we’d like to extend our sincerest thanks to all of you who have supported us this year, as well as in years passed. Already so far in 2018 we’ve completed more transactions than what we did for the entirety of 2017. This is absolutely amazing, and we couldn’t have done it without our amazing staff, and, of course, our incredible clients. Thank you so much for trusting us with your buying and selling needs. To see our full message of gratitude, watch this short video.
-
-{% include pullquote.html %}
