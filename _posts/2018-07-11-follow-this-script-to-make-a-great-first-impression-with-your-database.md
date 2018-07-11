@@ -32,7 +32,7 @@ Depending on who you’re talking to, there are three different ways you can con
 
 Don’t be afraid to ask for a piece of contact information—they will always give it to you:<br><br>*“I just want to make sure I have the best contact info for you. Obviously I would love to be your new resource for all things real estate. Also, if you hear of someone moving out of the area, we have a huge database of agents all over the world, so I can help them get in touch with an excellent agent anywhere. Either way, please keep me in mind. Since real estate is referral-based business, I really appreciate your support. As soon as my cards come in, I’ll get you one. Thank you so much! Well, I’ll let you get back to work—I’m sure you are super busy. Great talking with you, and tell Mary (or whoever) I said hi.”*
 
-*The point of this script is to follow it so you don’t get off track. It’s really easy to get distracted, so **stay in line with the words.** There is a purpose behind this script, and it keeps you focused.&nbsp;*
+The point of this script is to follow it so you don’t get off track. It’s really easy to get distracted, so **stay in line with the words.** There is a purpose behind this script, and it keeps you focused.&nbsp;
 
 Also, you really need to share your enthusiasm. The people you’re calling already know, like, and trust you, and they want to support you. Be comfortable asking for contact information and don’t get sidetracked by wondering if you’re bugging them or not, or if they think you’re too pushy or sales-ey.&nbsp;
 
