@@ -3,11 +3,38 @@
   <channel>
     <title>Success Mortgage Partners Inc. Video Blog with Kristin Jamieson</title>
     <description>Our mission at Success Mortgage Partners is to be your best resource for  Mortgage and Loan advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Success Mortgage Partners, your professional  Real Estate Agents.</description>
-    <link>http://kristinjamiesonfl.com/</link>
-    <atom:link href="http://kristinjamiesonfl.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Jun 2018 09:47:17 -0500</pubDate>
-    <lastBuildDate>Tue, 12 Jun 2018 09:47:17 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 11 Jul 2018 13:35:35 -0500</pubDate>
+    <lastBuildDate>Wed, 11 Jul 2018 13:35:35 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>How Can an Escrow Repair Holdback Help Homebuyers and Sellers?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/X0aseIbfSWI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today we’re going to talk about escrow repair holdbacks, what they are, and how they work.&lt;/p&gt;
+
+&lt;p&gt;Sometimes in a mortgage transaction, a buyer will find something that will need to be fixed before closing. If a buyer or seller doesn’t have the funds, they might switch over to a renovation loan. &lt;strong&gt;However, a renovation loan usually brings a higher interest rate and higher fees.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This option allows us to avoid a renovation loan, which usually has a higher interest rate.%20http://localhost:4000/how-can-an-escrow-repair-holdback-help-homebuyers-and-sellers.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This option allows us to avoid a renovation loan, which usually has a higher interest rate.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If it’s just one or two repairs that need to be made, we can do what’s called an escrow repair holdback.&lt;/strong&gt; For example, let’s say the roof needs to be repaired. We would require two quotes from different roofing companies to get an estimate of the repair. Then, we would require that 150% of the highest quote would be held in escrow at closing to pay for repairs.&lt;/p&gt;
+
+&lt;p&gt;After the repairs are finished and the final invoice is provided, we would send the appraiser back out for a final inspection. We also pay out the final invoice after we confirm that the repairs are made within 60 days after closing.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;After the roofer has been paid, we release the rest of the funds out to whoever provided them originally and no additional fees have to be collected.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any questions for me about escrow repairs holdbacks or anything else relating to your mortgage, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 10:04:23 -0500</pubDate>
+        <link>http://localhost:4000/how-can-an-escrow-repair-holdback-help-homebuyers-and-sellers.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-can-an-escrow-repair-holdback-help-homebuyers-and-sellers.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
     
       <item>
         <title>How Does the Appraisal Process Work When Buying?</title>
@@ -19,7 +46,7 @@
 
 &lt;p&gt;Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company. We will place our order through the appraisal management company and then they will contract with the appraiser.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company.%20http://kristinjamiesonfl.com/how-does-the-appraisal-process-work-when-buying.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company.%20http://localhost:4000/how-does-the-appraisal-process-work-when-buying.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Since Dodd-Frank and mortgage reform, all mortgage lenders have to go through an appraisal management company.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;As the lender, we will not know who the appraiser is on the property until we actually get the report. This ensures that there is no coercion of value. Also, it guarantees nobody has reached out to the appraiser and provided any information that could sway their opinion of value. This makes it so the lender can be sure that they are getting the most accurate depiction of the value of the property.&lt;/p&gt;
 
@@ -29,9 +56,30 @@
 
 &lt;p&gt;If you have any other questions about the appraisal process or the cost of an appraisal in the home buying process, please feel free to reach out to me by phone or email. I would be happy to speak with you about it.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 29 May 2018 15:47:40 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/how-does-the-appraisal-process-work-when-buying.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/how-does-the-appraisal-process-work-when-buying.html</guid>
+        <pubDate>Mon, 25 Jun 2018 15:47:40 -0500</pubDate>
+        <link>http://localhost:4000/how-does-the-appraisal-process-work-when-buying.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-does-the-appraisal-process-work-when-buying.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Do You Finance Home Renovations?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/OvSL98Zv2yc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What can you do to finance renovations in your current home or in the home you’ve just purchased?&lt;/p&gt;
+
+&lt;p&gt;Ultimately, there are two loan programs that we look at when someone is looking to do a renovation loan: &lt;strong&gt;the 203(k) loan&lt;/strong&gt;, which is the FHA’s version of the loan, or the conventional version of a renovation loan, which is also called &lt;strong&gt;Fannie Mae’s homestyle renovation loan.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We take the purchase price of the home, plus the estimated cost of repairs, plus whatever down payment is required by the program to determine what we will lend.%20http://localhost:4000/how-do-you-finance-home-renovations.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We take the purchase price of the home, plus the estimated cost of repairs, plus whatever down payment is required by the program to determine what we will lend.”&lt;/a&gt;&lt;br /&gt;As lenders, we would take the purchase price of the home plus the estimated cost of repairs, which is done via a home inspection, as well as whatever down payment is required by the program to determine what we will lend.&lt;br /&gt;&lt;br /&gt;Let’s say the purchase price of a home is $100,000. We would take the purchase price plus the cost of repairs (say, $20,000) and lend, for an FHA loan, 96.5% of that $120,000.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;There are many benefits provided by a renovation loan&lt;/strong&gt;, especially as purchase prices and interest rates continue to climb. A lot of first-time homebuyers are being priced out of the market, so having a renovation option allows them to look at cheaper homes that may need some work. They wouldn’t qualify for traditional financing, so &lt;strong&gt;they would need a renovation loan to make the home livable&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you or anyone you know have questions regarding renovation loans or how to finance them, please don’t hesitate to reach out to me. I’d be glad to discuss the subject in more detail with you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 14 Jun 2018 11:12:00 -0500</pubDate>
+        <link>http://localhost:4000/how-do-you-finance-home-renovations.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-do-you-finance-home-renovations.html</guid>
         
         <category>Real Estate</category>
         
@@ -52,13 +100,13 @@
 
 &lt;p&gt;As long as the property appraises and nothing pertaining to the buyers’ financial situation changes drastically during escrow, the approval process should go quickly for buyers with a pre-approval letter. &lt;strong&gt;Having a pre-approval letter is very important in the mortgage lending process.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.%20http://kristinjamiesonfl.com/which-is-better-being-pre-qualified-or-being-pre-approved.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.%20http://localhost:4000/which-is-better-being-pre-qualified-or-being-pre-approved.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“For this reason, buyers with a pre-approval letter should be viewed as cash buyers when it comes to multiple offer situations.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Thu, 17 May 2018 10:47:00 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/which-is-better-being-pre-qualified-or-being-pre-approved.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/which-is-better-being-pre-qualified-or-being-pre-approved.html</guid>
+        <link>http://localhost:4000/which-is-better-being-pre-qualified-or-being-pre-approved.html</link>
+        <guid isPermaLink="true">http://localhost:4000/which-is-better-being-pre-qualified-or-being-pre-approved.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -81,13 +129,13 @@
 
 &lt;p&gt;&lt;strong&gt;Until June 4, we’ll be working based on the old maps&lt;/strong&gt;. In Lake County, the entire county is still eligible. However, this change means that you have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.%20http://kristinjamiesonfl.com/will-the-upcoming-usda-changes-affect-you.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.%20http://localhost:4000/will-the-upcoming-usda-changes-affect-you.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You have until June 3 to get your purchase contracts in under the old eligibility maps to guarantee that we can close your client’s new home under those parameters.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;br /&gt;Anything that comes in on June 4 or after would be subject to the new USDA property maps.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;If you or anyone you know has any questions regarding this change, please don’t hesitate to reach out to us. We’d be glad to sort out any confusion.&lt;/p&gt;
 </description>
         <pubDate>Fri, 04 May 2018 13:21:03 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/will-the-upcoming-usda-changes-affect-you.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/will-the-upcoming-usda-changes-affect-you.html</guid>
+        <link>http://localhost:4000/will-the-upcoming-usda-changes-affect-you.html</link>
+        <guid isPermaLink="true">http://localhost:4000/will-the-upcoming-usda-changes-affect-you.html</guid>
         
         
       </item>
@@ -100,15 +148,15 @@
 
 &lt;p&gt;This year, &lt;strong&gt;the conforming loan limit rose to $453,100. The VA and USDA limits also rose to this amount.&lt;/strong&gt; For our local area, the base FHA loan limit rose to $294,515. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=These loan limit increases help programs to stay up-to-date.%20http://kristinjamiesonfl.com/what-are-the-new-loan-limits-for-2018.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“These loan limit increases help programs to stay up-to-date.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=These loan limit increases help programs to stay up-to-date.%20http://localhost:4000/what-are-the-new-loan-limits-for-2018.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“These loan limit increases help programs to stay up-to-date.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;These loan limit increases help programs to stay up-to-date in relation to current sales prices in our market. &lt;/p&gt;
 
 &lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;br /&gt; &lt;/p&gt;
 </description>
         <pubDate>Thu, 26 Apr 2018 10:47:26 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/what-are-the-new-loan-limits-for-2018.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/what-are-the-new-loan-limits-for-2018.html</guid>
+        <link>http://localhost:4000/what-are-the-new-loan-limits-for-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-are-the-new-loan-limits-for-2018.html</guid>
         
         <category>Real Estate</category>
         
@@ -127,7 +175,7 @@
 
 &lt;p&gt;&lt;strong&gt;We are switching utilities. What if they pull our credit?&lt;/strong&gt;&lt;br /&gt;Utilities are a little bit different than a credit card or car loan. It’s considered a soft pull. They will pull your payment history and they may pull a credit score on their site, but it’s not an actual hard inquiry. We won’t see a reduction or anything on our side from the utility companies. So, getting your credit pulled from the utility company won’t affect your mortgage loan application.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You should avoid hard inquiries as much as possible.%20http://kristinjamiesonfl.com/be-careful-about-pulling-your-credit.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You should avoid hard inquiries as much as possible.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You should avoid hard inquiries as much as possible.%20http://localhost:4000/be-careful-about-pulling-your-credit.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You should avoid hard inquiries as much as possible.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;What services and companies should you give permission to pull credit?&lt;/strong&gt;&lt;br /&gt;It’s going to come down to the things you need to have in place when you moved into your new home. Your utilities, cable, phone, internet, etc. You never want to have any hard inquiries unless they are absolutely necessary. That’s why it’s important to have a great one-on-one relationship with your loan officer so you can talk these situations out and find a solution.&lt;/p&gt;
 
@@ -136,8 +184,8 @@
 &lt;p&gt;If you have any questions for me or anyone on my team, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Thu, 12 Apr 2018 15:32:39 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/be-careful-about-pulling-your-credit.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/be-careful-about-pulling-your-credit.html</guid>
+        <link>http://localhost:4000/be-careful-about-pulling-your-credit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/be-careful-about-pulling-your-credit.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -156,7 +204,7 @@
 
 &lt;p&gt;If you’re given $1,000 worth of credit and you spend all of it, not only will that inquiry drop your credit score, but you will have also maxed out another account. Even though that $1,000 sum requires 0% interest or doesn’t require any payments for the first six months, it will still show up on your credit report, which could affect your debt-to-income ratio. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Wait until after you’ve closed on your home to start buying furniture for it.%20http://kristinjamiesonfl.com/why-new-furniture-could-cost-you-your-home-loan.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Wait until after you’ve closed on your home to start buying furniture for it.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Wait until after you’ve closed on your home to start buying furniture for it.%20http://localhost:4000/why-new-furniture-could-cost-you-your-home-loan.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Wait until after you’ve closed on your home to start buying furniture for it.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Buying furniture for your new home is something that needs to be done, but you don’t want the furniture truck to show up in the driveway the day of your closing because that means your furniture store account would’ve had to have been opened and financed prior to that closing. &lt;/p&gt;
 
@@ -167,8 +215,8 @@
 &lt;p&gt;If you have any other questions about this topic or anything else about the mortgage loan process, don’t hesitate to reach out to me and my team. We’d love to help you. &lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Mar 2018 12:09:26 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/why-new-furniture-could-cost-you-your-home-loan.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/why-new-furniture-could-cost-you-your-home-loan.html</guid>
+        <link>http://localhost:4000/why-new-furniture-could-cost-you-your-home-loan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/why-new-furniture-could-cost-you-your-home-loan.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -193,7 +241,7 @@
 
 &lt;p&gt;&lt;strong&gt;Every $50 in a monthly car payment can affect your buying power by about $10,000.&lt;/strong&gt; If you get a $200 monthly car payment, you may have limited your mortgage by $40,000, and that’s a lot of house. It really depends on what you need and what works for you and your family. We can kind of reverse those numbers to make it work. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You don’t want to buy a car, truck, or van during the mortgage loan process—unless you want to end up living in it.%20http://kristinjamiesonfl.com/how-buying-a-car-can-affect-your-pre-approval.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You don’t want to buy a car, truck, or van during the mortgage loan process—unless you want to end up living in it.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You don’t want to buy a car, truck, or van during the mortgage loan process—unless you want to end up living in it.%20http://localhost:4000/how-buying-a-car-can-affect-your-pre-approval.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You don’t want to buy a car, truck, or van during the mortgage loan process—unless you want to end up living in it.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Another thing to consider when you go to buy a car is that the dealership will pull your credit. Some dealerships pull your credit 10 or 12 different times in order to get you the best rate or payment, and those are hard inquiries. If you come to us after you purchase a car, your credit score could be substantially lower. We also pull your credit during the mortgage process; interest rates are calculated largely based on your credit score. You may end up paying a higher interest rate because buying a car has lowered your credit score. &lt;/p&gt;
 
@@ -212,8 +260,8 @@
 &lt;p&gt;If you have any other questions about what you can and can’t do during the mortgage loan process, just give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
 </description>
         <pubDate>Mon, 12 Mar 2018 10:03:55 -0500</pubDate>
-        <link>http://kristinjamiesonfl.com/how-buying-a-car-can-affect-your-pre-approval.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/how-buying-a-car-can-affect-your-pre-approval.html</guid>
+        <link>http://localhost:4000/how-buying-a-car-can-affect-your-pre-approval.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-buying-a-car-can-affect-your-pre-approval.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -240,7 +288,7 @@
 
 &lt;p&gt;Additionally, the underwriters will look through the donor’s bank statements for any unusually large deposits that might be constituted as suspicious. It’s their job to look for and report any signs of money laundering. After that, you’ll need a copy of the canceled check or the wire confirmation of the donor wiring the funds to your account so that we can see the funds coming from their account and going into yours.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Everything requires a paper trail in the mortgage loan process.%20http://kristinjamiesonfl.com/managing-your-money-and-accounts-during-the-loan-process.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Everything requires a paper trail in the mortgage loan process.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Everything requires a paper trail in the mortgage loan process.%20http://localhost:4000/managing-your-money-and-accounts-during-the-loan-process.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Everything requires a paper trail in the mortgage loan process.”&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;strong&gt;Will switching banks hurt your chances of closing?&lt;/strong&gt;&lt;/p&gt;
 
@@ -255,98 +303,8 @@
 &lt;p&gt;If you have any questions about the mortgage loan process or your financial account history, don’t hesitate to reach out to us. We’d be glad to help and advise you however we can.&lt;/p&gt;
 </description>
         <pubDate>Fri, 16 Feb 2018 10:35:02 -0600</pubDate>
-        <link>http://kristinjamiesonfl.com/managing-your-money-and-accounts-during-the-loan-process.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/managing-your-money-and-accounts-during-the-loan-process.html</guid>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Don’t Jump the Gun Before You Close on Your Home</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WFlsMDi3YlU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Before you close on the home you’re in the process of buying, you should avoid making large purchases such as furniture and charging them to your credit card. But why is that?&lt;/p&gt;
-
-&lt;p&gt;Buying a home is an exciting experience. Clients have envisioned exactly how they want to lay out their home and how they’ll feel once they’ve finished the transaction and moved in. However, sometimes they get a little too excited and jump the gun by not paying enough attention to the loan process. They’ll go shopping for furniture or other expensive purchases and charge those things to their credit cards.&lt;/p&gt;
-
-&lt;p&gt;As lenders, there are some loan programs that require us to do a soft credit hold prior to closing so we are able to see the inquiries on your credit. &lt;strong&gt;Depending on how large your purchase was, it could really affect your credit score, potentially disqualifying you from being able to close on the home.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Does that mean financing is a better option than using a credit card?&lt;/p&gt;
-
-&lt;p&gt;More or less, those options are the same. Even though a furniture store will give you 0% financing for 60 months, what they’re actually doing is providing you with a credit card. This is a revolving credit line which will report to all three of the major credit bureaus. When you apply for a store card or financing plan, that &lt;strong&gt;information will come onto your credit report and drop your credit score.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Say you were given $1,000 in a credit line and you spend all of that money. Well, even though it’s at 0% interest or doesn’t require a payment for six months, it will still show that you’ve maxed out your balance and also that you haven’t made any payments. This could affect your debt-to-income ratio, which is a factor considered when you apply for a loan.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you want to buy furniture for your new home, you don’t need to jump the gun and purchase those things before you close.%20http://kristinjamiesonfl.com/dont-jump-the-gun-before-you-close-on-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you want to buy furniture for your new home, you don’t need to jump the gun and purchase those things before you close.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you want to buy furniture for your new home, you don’t need to jump the gun and purchase those things before you close. You can have everything you want all picked out, but just don’t have the furniture truck in your driveway on the day of closing, since you would have had to have opened the account prior to closing.&lt;/p&gt;
-
-&lt;p&gt;Will paying for things with cash hurt?&lt;/p&gt;
-
-&lt;p&gt;Cash will never hurt anything. The only way that paying with cash might hurt you is if you’re using funds that you had set aside for your down payment and closing costs or other important expenditures. You can always use your money however you want, &lt;strong&gt;just always be cognizant of what exactly you’ll need at the closing table moving forward.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about the home buying process or about the mortgage loan process, please don’t hesitate to reach out to me.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 Jan 2018 04:23:31 -0600</pubDate>
-        <link>http://kristinjamiesonfl.com/dont-jump-the-gun-before-you-close-on-your-home.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/dont-jump-the-gun-before-you-close-on-your-home.html</guid>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How Does Your Employment Status Affect Your Mortgage Application?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/8mqaIc321cw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;There are many moving parts to your mortgage loan application. Today, I’ll answer a few common questions when it comes to your employment status.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;How will your employment status affect the mortgage loan application?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Your employment status can affect your loan application in a couple of different ways. We are looking to see if you have part-time or full-time employment, as part-time has different guidelines. We will also look to see if it’s seasonal employment. You need to prove that you have a regular, steady, stable income that will continue.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=As your lender, we check to make sure that your income is steady, stable, and increasing.%20http://kristinjamiesonfl.com/how-does-your-employment-status-affect-your-mortgage-application.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“As your lender, we check to make sure that your income is steady, stable, and increasing.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We do see some families that work in union states. They may have a full-time job but only work 10 months out of the year with two months off in the winter. They spend those two months on unemployment income because that is how their union works. That income would be acceptable as long as we have a two-year history of such employment.&lt;/p&gt;
-
-&lt;p&gt;Again, we are really looking to see if you have income that is steady, stable, and increasing. We are also looking at the likelihood of its continuance.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Is employment verified or claimed on the day of closing or in advance?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Employment has to be verified at least 10 days prior to closing. It’s usually done when we send the file back for our clear to close as soon as the underwriter reviews the loan. If we don’t have that verbal verification of employment in the file, they can’t push that to the closing department.  &lt;/p&gt;
-
-&lt;p&gt;In a perfect world, that’s done a few days before closing. In a 30-day contract, an average of 21 people touch the loan file from beginning to end, so sometimes the verbal verification of employment is not done until the day before closing or the day of closing. As a client, you need to stay at your job and stay in good standing all throughout the loan process.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What if I get promoted or find a higher paying job?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you get promoted within the same company, take the promotion and keep going. We can verify the new terms of employment with HR. As long as we are able to show that the income is steady, stable, and increasing, then we are good to move forward.&lt;/p&gt;
-
-&lt;p&gt;If you find a higher paying job, there are a couple of different things to consider.&lt;/p&gt;
-
-&lt;p&gt;Employment contracts often have contingencies, such as drug screenings or background checks. You usually don’t get an offer letter and then start the next day. Most of the time, the hiring process takes at least a couple of weeks.&lt;/p&gt;
-
-&lt;p&gt;Once those contingencies are met, we do require 30 days of pay stubs in order to close. If it takes two weeks to start the job and then you need 30 days of pay stubs, that can delay closing. If the pay period is biweekly, you might not get your first paycheck for a month, which could delay things further. Starting a job at a new company could potentially delay your closing for 45 to 60 days.&lt;/p&gt;
-
-&lt;p&gt;Different loan programs, such as FHAs, will have their own guidelines. Unfortunately, one of my clients and I are dealing with this right now.&lt;/p&gt;
-
-&lt;p&gt;My client is a cancer survivor. Two years ago, she had a gap of employment for six months while she got her chemo and radiation treatment. Since then, she has been employed for 19 months. She spent 13 months at one job and switched employment to another job. FHA requires that if you have a gap in employment over the last two years, then you have to be at your current job for six months.&lt;/p&gt;
-
-&lt;p&gt;We have to adhere to those guidelines, so her closing has been delayed. I’m happy to say that she will be closing in a couple of weeks now, so we did make it through.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Can I leave my job after the closing?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As lenders, we always want to make sure that your loan can perform. We never want to put you into a home that you may not be able to afford.&lt;/p&gt;
-
-&lt;p&gt;Now, we won’t verify employmfent after closing. Once we close, it’s your life. No one can predict the future. You can change jobs or quit, but I advise that you proceed with caution. Make sure that you are making the right decision. After all, when you buy a home, you are making a 15-, 20-, or 30-year investment, so make sure that you set yourself up for success.&lt;/p&gt;
-
-&lt;p&gt;As you can see, your employment status plays a major role in the mortgage loan application process. If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 02 Jan 2018 05:39:35 -0600</pubDate>
-        <link>http://kristinjamiesonfl.com/how-does-your-employment-status-affect-your-mortgage-application.html</link>
-        <guid isPermaLink="true">http://kristinjamiesonfl.com/how-does-your-employment-status-affect-your-mortgage-application.html</guid>
+        <link>http://localhost:4000/managing-your-money-and-accounts-during-the-loan-process.html</link>
+        <guid isPermaLink="true">http://localhost:4000/managing-your-money-and-accounts-during-the-loan-process.html</guid>
         
         <category>Home Buyer Tips</category>
         

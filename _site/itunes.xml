@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Mortgage and Loan Podcast with Kristin Jamieson</title>
-    <link>http://kristinjamiesonfl.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://kristinjamiesonfl.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</description>
     <language>en</language>
     <managingEditor>Kristin Jamieson</managingEditor>
-    <lastBuildDate>2018-06-12 09:47:17 -0500</lastBuildDate>
+    <lastBuildDate>2018-07-11 13:35:35 -0500</lastBuildDate>
     <media:copyright>Kristin Jamieson</media:copyright>
-    <media:thumbnail url="http://kristinjamiesonfl.com/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>finance, financial planning, retirement, retirement planning, 401K</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,20 +18,55 @@
     </itunes:owner>
     <itunes:author>Kristin Jamieson</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://kristinjamiesonfl.com/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more to better prepare yourself for the future.</itunes:subtitle>
     <itunes:summary>Our mission at Success Mortgage Partners is to be your best resource for financial advice. Our team of professionals can answer any questions you might have about finance. Subscribe to this blog to get the latest news on finance and receive expert tips for preparing yourself for your financial future.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>How Does the Appraisal Process Work When Buying?</title>
-        <link>http://kristinjamiesonfl.com/how-does-the-appraisal-process-work-when-buying.html</link>
+        <title>How Can an Escrow Repair Holdback Help Homebuyers and Sellers?</title>
+        <link>http://localhost:4000/how-can-an-escrow-repair-holdback-help-homebuyers-and-sellers.html</link>
         
           <category>Real Estate</category>
         
         <author>Kristin Jamieson</author>
-        <pubDate>2018-05-29 15:47:40 -0500</pubDate>
+        <pubDate>2018-06-27 10:04:23 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Can+an+Escrow+Repair+Holdback+Help+Homebuyers+and+Sellers%253F.mp4</guid>
+        <description>
+
+Today we’re going to talk about escrow repair holdbacks, what they are, and how they work.
+
+Sometimes in a mortgage transaction, a buyer will find something that will need to be fixed before closing. If a buyer or seller doesn’t have the funds, they might switch over to a renovation loan. However, a renovation loan usually brings a higher interest rate and higher fees.
+
+“This option allows us to avoid a renovation loan, which usually has a higher interest rate.”
+
+If it’s just one or two repairs that need to be made, we can do what’s called an escrow repair holdback. For example, let’s say the roof needs to be repaired. We would require two quotes from different roofing companies to get an estimate of the repair. Then, we would require that 150% of the highest quote would be held in escrow at closing to pay for repairs.
+
+After the repairs are finished and the final invoice is provided, we would send the appraiser back out for a final inspection. We also pay out the final invoice after we confirm that the repairs are made within 60 days after closing.
+
+After the roofer has been paid, we release the rest of the funds out to whoever provided them originally and no additional fees have to be collected.
+
+If you have any questions for me about escrow repairs holdbacks or anything else relating to your mortgage, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Can+an+Escrow+Repair+Holdback+Help+Homebuyers+and+Sellers%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Can+an+Escrow+Repair+Holdback+Help+Homebuyers+and+Sellers%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you ever heard of an escrow repair holdback? Here’s how it works and how it can help you out.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>Have you ever heard of an escrow repair holdback? Here’s how it works and how it can help you out.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Does the Appraisal Process Work When Buying?</title>
+        <link>http://localhost:4000/how-does-the-appraisal-process-work-when-buying.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-06-25 15:47:40 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4</guid>
         <description>
 
@@ -52,7 +87,7 @@ Once the appraisal comes back, it is reviewed and then it can be released to all
 If you have any other questions about the appraisal process or the cost of an appraisal in the home buying process, please feel free to reach out to me by phone or email. I would be happy to speak with you about it.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Does+the+Appraisal+Process+Work+When+Buying%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When do you get appraised?</itunes:subtitle>
@@ -62,8 +97,37 @@ If you have any other questions about the appraisal process or the cost of an ap
       </item>
       
       <item>
+        <title>How Do You Finance Home Renovations?</title>
+        <link>http://localhost:4000/how-do-you-finance-home-renovations.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kristin Jamieson</author>
+        <pubDate>2018-06-14 11:12:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Do+You+Finance+Home+Renovations%253F.mp4</guid>
+        <description>
+
+What can you do to finance renovations in your current home or in the home you’ve just purchased?
+
+Ultimately, there are two loan programs that we look at when someone is looking to do a renovation loan: the 203(k) loan, which is the FHA’s version of the loan, or the conventional version of a renovation loan, which is also called Fannie Mae’s homestyle renovation loan.
+
+“We take the purchase price of the home, plus the estimated cost of repairs, plus whatever down payment is required by the program to determine what we will lend.”As lenders, we would take the purchase price of the home plus the estimated cost of repairs, which is done via a home inspection, as well as whatever down payment is required by the program to determine what we will lend.Let’s say the purchase price of a home is $100,000. We would take the purchase price plus the cost of repairs (say, $20,000) and lend, for an FHA loan, 96.5% of that $120,000.There are many benefits provided by a renovation loan, especially as purchase prices and interest rates continue to climb. A lot of first-time homebuyers are being priced out of the market, so having a renovation option allows them to look at cheaper homes that may need some work. They wouldn’t qualify for traditional financing, so they would need a renovation loan to make the home livable.
+
+If you or anyone you know have questions regarding renovation loans or how to finance them, please don’t hesitate to reach out to me. I’d be glad to discuss the subject in more detail with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Do+You+Finance+Home+Renovations%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Do+You+Finance+Home+Renovations%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If your home is in need of renovation, there are loan programs designed to make that process possible for you.</itunes:subtitle>
+        <itunes:author>Kristin Jamieson</itunes:author>
+        <itunes:summary>If your home is in need of renovation, there are loan programs designed to make that process possible for you.</itunes:summary>
+        <itunes:keywords>finance, financial planning, retirement, retirement planning, 401K</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Which Is Better: Being Pre-Qualified or Being Pre-Approved?</title>
-        <link>http://kristinjamiesonfl.com/which-is-better-being-pre-qualified-or-being-pre-approved.html</link>
+        <link>http://localhost:4000/which-is-better-being-pre-qualified-or-being-pre-approved.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -87,7 +151,7 @@ As long as the property appraises and nothing pertaining to the buyers’ financ
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Which+Is+Better-+Being+Pre-Qualified+or+Being+Pre-Approved%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What makes a pre-approval letter so important?</itunes:subtitle>
@@ -98,7 +162,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Will the Upcoming USDA Changes Affect You?</title>
-        <link>http://kristinjamiesonfl.com/will-the-upcoming-usda-changes-affect-you.html</link>
+        <link>http://localhost:4000/will-the-upcoming-usda-changes-affect-you.html</link>
         
         <author>Kristin Jamieson</author>
         <pubDate>2018-05-04 13:21:03 -0500</pubDate>
@@ -122,7 +186,7 @@ Until June 4, we’ll be working based on the old maps. In Lake County, the enti
 Anything that comes in on June 4 or after would be subject to the new USDA property maps.If you or anyone you know has any questions regarding this change, please don’t hesitate to reach out to us. We’d be glad to sort out any confusion.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Major changes are coming to how the USDA will approve loans. Here’s what you should know.</itunes:subtitle>
@@ -133,7 +197,7 @@ Anything that comes in on June 4 or after would be subject to the new USDA prope
       
       <item>
         <title>What Are the New Loan Limits for 2018?</title>
-        <link>http://kristinjamiesonfl.com/what-are-the-new-loan-limits-for-2018.html</link>
+        <link>http://localhost:4000/what-are-the-new-loan-limits-for-2018.html</link>
         
           <category>Real Estate</category>
         
@@ -155,7 +219,7 @@ These loan limit increases help programs to stay up-to-date in relation to curre
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. 
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits.mp" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits.mp" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I’d like to discuss the new loan limits for 2018.</itunes:subtitle>
@@ -166,7 +230,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Be Careful About Pulling Your Credit</title>
-        <link>http://kristinjamiesonfl.com/be-careful-about-pulling-your-credit.html</link>
+        <link>http://localhost:4000/be-careful-about-pulling-your-credit.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -190,7 +254,7 @@ Do lenders run a second credit check before closing?Some loan programs do requir
 If you have any questions for me or anyone on my team, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Pull+Credit.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Pull+Credit.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re buying a home soon, we have some advice about your credit. Here’s what you should know.</itunes:subtitle>
@@ -201,7 +265,7 @@ If you have any questions for me or anyone on my team, don’t hesitate to give 
       
       <item>
         <title>Why New Furniture Could Cost You Your Home Loan</title>
-        <link>http://kristinjamiesonfl.com/why-new-furniture-could-cost-you-your-home-loan.html</link>
+        <link>http://localhost:4000/why-new-furniture-could-cost-you-your-home-loan.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -229,7 +293,7 @@ The best time to purchase new furniture for your home is anytime after you close
 If you have any other questions about this topic or anything else about the mortgage loan process, don’t hesitate to reach out to me and my team. We’d love to help you. 
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Major+Purchases.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Major+Purchases.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Making a major purchase with your credit card, such as buying furniture, before closing on your home can potentially harm your mortgage qualification.</itunes:subtitle>
@@ -240,7 +304,7 @@ If you have any other questions about this topic or anything else about the mort
       
       <item>
         <title>How Buying a Car Can Affect Your Pre-Approval</title>
-        <link>http://kristinjamiesonfl.com/how-buying-a-car-can-affect-your-pre-approval.html</link>
+        <link>http://localhost:4000/how-buying-a-car-can-affect-your-pre-approval.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -284,7 +348,7 @@ As you can see, it may benefit you to wait until you close on your new home befo
 If you have any other questions about what you can and can’t do during the mortgage loan process, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Buying+a+Car+Can+Affect+Your+Pre-Approval.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Buying+a+Car+Can+Affect+Your+Pre-Approval.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are a number of things you shouldn’t do during the mortgage loan process if you want to be able to close on a home. Buying a car is one of them.</itunes:subtitle>
@@ -295,7 +359,7 @@ If you have any other questions about what you can and can’t do during the mor
       
       <item>
         <title>Managing Your Money and Accounts During the Loan Process</title>
-        <link>http://kristinjamiesonfl.com/managing-your-money-and-accounts-during-the-loan-process.html</link>
+        <link>http://localhost:4000/managing-your-money-and-accounts-during-the-loan-process.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -333,7 +397,7 @@ It’s always best to manage your money and watch your bank account through the 
 If you have any questions about the mortgage loan process or your financial account history, don’t hesitate to reach out to us. We’d be glad to help and advise you however we can.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Managing+Your+Money+and+Accounts+During+the+Loan+Process.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Managing+Your+Money+and+Accounts+During+the+Loan+Process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today, I’ll be answering questions about how to manage your money during the mortgage loan process.</itunes:subtitle>
@@ -344,7 +408,7 @@ If you have any questions about the mortgage loan process or your financial acco
       
       <item>
         <title>Don’t Jump the Gun Before You Close on Your Home</title>
-        <link>http://kristinjamiesonfl.com/dont-jump-the-gun-before-you-close-on-your-home.html</link>
+        <link>http://localhost:4000/dont-jump-the-gun-before-you-close-on-your-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -376,7 +440,7 @@ Cash will never hurt anything. The only way that paying with cash might hurt you
 If you have any questions about the home buying process or about the mortgage loan process, please don’t hesitate to reach out to me.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Dont+Jump+the+Gun+before+You+Close+on+Your+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Dont+Jump+the+Gun+before+You+Close+on+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Don’t make any large purchases on your credit card before you close. Find out why that can hurt you right here.</itunes:subtitle>
@@ -387,7 +451,7 @@ If you have any questions about the home buying process or about the mortgage lo
       
       <item>
         <title>How Does Your Employment Status Affect Your Mortgage Application?</title>
-        <link>http://kristinjamiesonfl.com/how-does-your-employment-status-affect-your-mortgage-application.html</link>
+        <link>http://localhost:4000/how-does-your-employment-status-affect-your-mortgage-application.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -439,7 +503,7 @@ Now, we won’t verify employmfent after closing. Once we close, it’s your lif
 As you can see, your employment status plays a major role in the mortgage loan application process. If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Does+Your+Employment+Status+Affect+Your+Mortgage+Application%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Does+Your+Employment+Status+Affect+Your+Mortgage+Application%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Why does your employment status play such an important role in your mortgage loan application? I’ll explain today.</itunes:subtitle>
@@ -450,7 +514,7 @@ As you can see, your employment status plays a major role in the mortgage loan a
       
       <item>
         <title>Credit Advice for Prospective Mortgage Purchasers</title>
-        <link>http://kristinjamiesonfl.com/credit-advice-for-prospective-mortgage-purchasers.html</link>
+        <link>http://localhost:4000/credit-advice-for-prospective-mortgage-purchasers.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -476,7 +540,7 @@ If you have any questions about credit in the mortgage qualifying process or any
  
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Credit+Advice+for+Prospective+Mortgage+Purchasers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Credit+Advice+for+Prospective+Mortgage+Purchasers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You should treat your credit carefully, especially if you’re going to be getting a mortgage. Here are a few things you should know.</itunes:subtitle>
@@ -487,7 +551,7 @@ If you have any questions about credit in the mortgage qualifying process or any
       
       <item>
         <title>Why Is It a Bad Idea to Cosign on a Loan During the Mortgage Process?</title>
-        <link>http://kristinjamiesonfl.com/why-is-it-a-bad-idea-to-cosign-on-a-loan-during-the-mortgage-process.html</link>
+        <link>http://localhost:4000/why-is-it-a-bad-idea-to-cosign-on-a-loan-during-the-mortgage-process.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -513,7 +577,7 @@ The total amount of the cosigned loan doesn’t detract from your mortgage eligi
 If you have any more questions about this or any topic related to the mortgage loan process, don’t hesitate to give me a call or shoot me an email. I’d be glad to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Why+Is+It+a+Bad+Idea+to+Cosign+on+a+Loan+During+the+Mortgage+Process%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Why+Is+It+a+Bad+Idea+to+Cosign+on+a+Loan+During+the+Mortgage+Process%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Cosigning for a loan in which lenders don’t have 12 months’ worth of proof that the other person is paying that account can decrease your credit score and affect your buying power.</itunes:subtitle>
@@ -524,7 +588,7 @@ If you have any more questions about this or any topic related to the mortgage l
       
       <item>
         <title>How Much Money Down Is Too Much?</title>
-        <link>http://kristinjamiesonfl.com/how-much-money-down-is-too-much.html</link>
+        <link>http://localhost:4000/how-much-money-down-is-too-much.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -558,7 +622,7 @@ So what happens if you do come up short at the closing table? Well, gifts are al
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+How+Much+Money+Down+Is+Too+Much%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Despite what some may think, putting more money down than is necessary isn’t always the best way to save money on a new home.</itunes:subtitle>
@@ -569,7 +633,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>What Is Sandy Tolen's Role on Our Team?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-meet-our-team-member-sandy.html</link>
+        <link>http://localhost:4000/orlando-mortgages-meet-our-team-member-sandy.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -600,7 +664,7 @@ The most rewarding part about her work on our team, though, is being able to get
 If you have any other questions or would like more information, feel free to give us a call or send us an email, we look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -619,7 +683,7 @@ Sandy Tolen, a loan processor on our team, is here today to give you a look at w
       
       <item>
         <title>Meet Another Important Member of Our Team</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-have-you-met-nadia.html</link>
+        <link>http://localhost:4000/orlando-mortgages-have-you-met-nadia.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -646,7 +710,7 @@ One thing that Nadia wants people to know is that the mortgage process isn’t a
 If you have any questions for us, don’t hesitate to reach out and give us a call or send us an email. Any time. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+Meet+Nadia+Lokhnauth.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -665,7 +729,7 @@ Nadia Lokhnauth has been with us for about two years now. Here’s why she is su
       
       <item>
         <title>From Application to Close: How Justin Guides You Through the Lending Process</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-meet-justin-tolen.html</link>
+        <link>http://localhost:4000/orlando-mortgages-meet-justin-tolen.html</link>
         
           <category>Mortgage Process</category>
         
@@ -696,7 +760,7 @@ One thing people tend not to think about when it comes to mortgages is the numbe
 If you have any other questions for Justin about the loan process, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -715,7 +779,7 @@ Today one of our loan partners, Justin Tolen, will go over a little bit more abo
       
       <item>
         <title>Getting to Know Another Great Team Member: Amie Sharpe</title>
-        <link>http://kristinjamiesonfl.com/getting-to-know-another-great-team.html</link>
+        <link>http://localhost:4000/getting-to-know-another-great-team.html</link>
         
           <category>Mortgage Process</category>
         
@@ -744,7 +808,7 @@ If there’s one thing she would like you to know about the mortgage process, it
 If you have any questions or are thinking about purchasing a home and starting the pre-approval process, give us a call or send us an email. We’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -763,7 +827,7 @@ Amie Sharpe joins us today to talk more about the loan process.
       
       <item>
         <title>What Does the Mortgage Application Process Look Like?</title>
-        <link>http://kristinjamiesonfl.com/what-does-mortgage-application-process.html</link>
+        <link>http://localhost:4000/what-does-mortgage-application-process.html</link>
         
           <category>Mortgage Process</category>
         
@@ -792,7 +856,7 @@ Most people don’t know what the application process is going to be like and th
 If you are interested in getting a loan application started or if you just have any questions, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Videos/Orlando+Mortgages-+A+Little+More+About+Mortgage+Applications.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -811,7 +875,7 @@ Crystal Harris is here today to talk a little more about the loan application pr
       
       <item>
         <title>Meet the Success Mortgage Partners Team: Introducing Evelyn </title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-introducing-evelyn.html</link>
+        <link>http://localhost:4000/orlando-mortgages-introducing-evelyn.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -838,7 +902,7 @@ One thing Evelyn thinks that everyone should know about the mortgage process is 
 If you have any other questions for our team, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Evelyn.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -857,7 +921,7 @@ Today we’d like to introduce Evelyn, the receptionist (and your first point of
       
       <item>
         <title>Answering Your Questions About FHA Loan Limits</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-learning-about-fha.html</link>
+        <link>http://localhost:4000/orlando-mortgages-learning-about-fha.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -888,7 +952,7 @@ To answer her second question, the FHA doesn’t allow interested party contribu
 If you or your buyers have any other questions in regard to FHA loans or their requirements, please don’t hesitate to give us a call. We’d be happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Learning+About+FHA+Loan+Limits.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -907,7 +971,7 @@ How can you have a loan amount that’s higher than the FHA limit in Lake County
       
       <item>
         <title>What Credit Scores Are Needed for Loans?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-credit-scores-needed.html</link>
+        <link>http://localhost:4000/orlando-mortgages-credit-scores-needed.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -939,7 +1003,7 @@ If someone is way out of the realm of qualifying, we don’t just turn our backs
 If someone you know has a score that’s below our requirements, don’t hesitate to reach out to us to start a conversation. If you have any other questions about lending guidelines or how we can help, give me a call or send us an email. We’d love to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Credit+Scores+Needed+for+All+Loan+Types.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -958,7 +1022,7 @@ Today we’re answering a question about credit score requirements for different
       
       <item>
         <title>Key Differences Between Home Renovation Loans</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-key-differences-in.html</link>
+        <link>http://localhost:4000/orlando-mortgages-key-differences-in.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -987,7 +1051,7 @@ With these two loan packages, some people get confused about the involvement of 
 Now, this is just a general breakdown of Fannie Mae HomeStyle Renovation loans in a nutshell. Feel free to share this information with your clients or anyone you know who is interested in a home renovation loan! A lot of different factors come into play with this type of loan, so if you have any questions at all about them, give me a call or send me an email. I would be more than happy to help you out.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Key+Differences+in+Renovation+Loans.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1006,7 +1070,7 @@ FHA 203K loans and conventional renovation loans actually have a lot in common. 
       
       <item>
         <title>How Do You Qualify for a USDA Loan?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-3-requirements-for.html</link>
+        <link>http://localhost:4000/orlando-mortgages-3-requirements-for.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -1039,7 +1103,7 @@ Other than that, a USDA loan is just a conventional loan with FHA appraisal requ
 If you have any more questions about USDA loans or the guidelines surrounding them, please don’t hesitate to call or email me. I’d be glad to answer any questions you have!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+The+3+Requirements+for+a+USDA+Loan.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1058,7 +1122,7 @@ Qualifying for a USDA loan is different than qualifying for other loan packages 
       
       <item>
         <title>What Mortgage Programs Are Out There for First-Time Buyers?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-programs-for-first.html</link>
+        <link>http://localhost:4000/orlando-mortgages-programs-for-first.html</link>
         
           <category>Mortgage Process</category>
         
@@ -1087,7 +1151,7 @@ One reason this tool is beneficial to our buyers is because, from an underwritin
 I hope this answers your question, Ron. If you have any other questions, don’t hesitate to reach out to us via phone or email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Programs+for+First-Time+Home+Buyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1106,7 +1170,7 @@ There are plenty of special loan programs out there for first-time buyers. We ar
       
       <item>
         <title>What Happens to Your Loan After You Close?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-loans-after-closing.html</link>
+        <link>http://localhost:4000/orlando-mortgages-loans-after-closing.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -1133,7 +1197,7 @@ Do you sell my loan to a bank of my choosing? Unfortunately, no. When we sell th
 We understand that the post-closing process can sometimes be a little confusing, so if you ever have any questions about it, don’t hesitate to reach out. It is our goal to be your mortgage lender for life, whether it be for your next home purchase or a refinancing of the home you own now. Just call or send us an email and we can talk about it.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loans+After+Closing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1152,7 +1216,7 @@ What happens to your loan after you close? It gets sent to our post-closing depa
       
       <item>
         <title>How Exactly Does Closing Day Work?</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-finally-last-step.html</link>
+        <link>http://localhost:4000/orlando-mortgages-finally-last-step.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -1179,7 +1243,7 @@ If you’ve been issued funding authorization and the buyer and seller documents
 Congratulations, this is a huge accomplishment. You have achieved the dream of homeownership. If you have any questions for us or know anyone looking to buy a home, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Finally%252C+the+Last+Step.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1198,7 +1262,7 @@ By the time you’ve made it to the closing table in your transaction, the hard 
       
       <item>
         <title>Meet Jamie Lowe Our Business Development Representative</title>
-        <link>http://kristinjamiesonfl.com/orlando-mortgages-introducing-our.html</link>
+        <link>http://localhost:4000/orlando-mortgages-introducing-our.html</link>
         
           <category>Orlando Mortgages</category>
         
@@ -1221,7 +1285,7 @@ Jamie will be coming by your office in the near future to introduce herself and 
 In the meantime, if you have any questions about mortgages or the loan process, you can always call me at 352.242.1535 or you can email me at Kristin@KristinJamiesonFL.com.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://kristinjamiesonfl.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Introducing+Our+Newest+Team+Member.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
