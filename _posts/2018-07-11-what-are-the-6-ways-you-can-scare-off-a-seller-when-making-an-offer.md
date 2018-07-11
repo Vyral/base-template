@@ -39,4 +39,4 @@ As a buyer, there are six ways you can scare off a seller when making your offer
 
 6. You ask for personal items within the home.&nbsp;
 
-To hear my full message about this topic, watch my latest video.&nbsp;
+To hear my full message about this topic, watch my latest video.&nbsp;<br>&nbsp;
