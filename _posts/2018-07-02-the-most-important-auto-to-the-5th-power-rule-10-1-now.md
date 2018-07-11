@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Most Important Auto to the 5th Power Tool: 10-1 Now'
-date: 2018-07-02 15:09:41
+title: 'The Most Important Auto to the 5th Power Rule: 10-1 Now'
+date: 2018-07-02 15:09:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -16,17 +16,18 @@ enclosure_time:
 screenshot: /uploads/10-1-ss.jpg
 video_file: /uploads/The_10-1_Now_Rule.mp4
 ---
+
 {% include post-video.html %}
 
 If you’ve been following my content, you’re probably already aware of what “Auto to the 5th Power” is. As a quick reminder, Auto to the 5th Power is a set of five automatic retirement planning tools.
 
-Today we’ll be discussing the third feature in this collection of fiduciary tools: 10-1 Now. T**his concept is actually the one I believe to be most important among all of features in Auto to the 5th. So what does 10-1 Now mean?**
+Today we’ll be discussing the third feature in this collection of fiduciary tools: 10-1 Now. **T****his concept is actually the one I believe to be most important among all of the features in Auto to the 5th. So what does 10-1 Now mean?**
 
 On average, most people would agree that you should save 10% of your annual income to build up adequate retirement savings. But when I stand in front of your employees, how many of them will realistically be willing and able to put away that amount? Probably not as many as you’d like.
 
 Yet a lot of people, your employees included, likely don’t realize that there’s more than one way to reach this 10% savings goal. To illustrate this, I’d like to share the examples of three hypothetical employees: Susan, George, and Morgan.
 
-In this scenario, Susan is able to begin saving 10% of her annual income right away. She continues to do this for each of the 35 years before her retirement. Based on some very reasonable projects of asset growth, **Susan is likely to end up with about $445,000 in retirement assets.**
+In this scenario, Susan is able to begin saving 10% of her annual income right away. She continues to do this for each of the 35 years before her retirement. Based on some very reasonable projections of asset growth, **Susan is likely to end up with about $445,000 in retirement assets.**
 
 Susan’s friend George realizes he should be saving 10% each year as well, but just isn’t in the position to do so. So George decides to put aside 5% in the first year he begins his retirement savings, and then increase that amount by 1% each year for the next five years. This is the 10-1 Now method, and eventually this strategy will allow George to start saving 10% on an annual basis. And by 65, the same age at which Susan retired, he will have about $405,000.
 
