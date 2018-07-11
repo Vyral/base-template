@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: This is one of my favorite spots along the coast.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: THDW7YxkgYQ
 ---
