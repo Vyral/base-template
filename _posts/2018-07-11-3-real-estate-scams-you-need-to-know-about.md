@@ -16,9 +16,7 @@ youtube_alternate_image: /uploads/hhe-and-kw-logo-reveal-white-version--crop-2.j
 youtube_code:
 ---
 
-{% include youtube.html %}
-
-Buying or selling a home can be an intimidating experience and trusting real estate "professionals" may be daunting.&nbsp;<br><br>Unfortunately, like any industry, there are some bad actors. Don't become a victim! &nbsp;
+![](/uploads/hhe-and-kw-logo-reveal-white-version--crop-2.jpg)Buying or selling a home can be an intimidating experience and trusting real estate "professionals" may be daunting.&nbsp;<br><br>Unfortunately, like any industry, there are some bad actors. Don't become a victim! &nbsp;
 
 Here are some real estate scams that we've seen recently. If you know what to look out for, you can protect yourself with that knowledge.
 
