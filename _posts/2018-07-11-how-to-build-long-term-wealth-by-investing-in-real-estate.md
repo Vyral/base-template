@@ -21,7 +21,9 @@ youtube_code: fQVdDBRcQsc
 
 {% include youtube.html %}
 
-If you plan on investing in real estate, should you focus on flipping houses or on long-term property ownership? The answer actually depends on your goals.
+<p style="text-align: center;"><em>If you plan on investing in real estate, should you focus on flipping houses or on long-term property ownership? The answer actually depends on your goals.</em></p>
+
+<center>&nbsp;</center>
 
 Where can you make more money when investing in real estate: flipping houses or long-term ownership?
 
