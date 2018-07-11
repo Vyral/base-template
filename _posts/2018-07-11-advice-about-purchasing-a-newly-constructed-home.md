@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advice About Purchasing a Newly Constructed Home
-date: 2018-07-11 20:28:38
+date: 2018-07-11 20:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uPSTvOrhIwQ
+youtube_code: aDF2IYCudbs
 ---
 
 {% include youtube.html %}
@@ -29,7 +29,7 @@ If you are looking to purchase a newly built home, the following tips I am provi
 
 {% include pullquote.html %}
 
-**3. Stay involved with the building process.** You should keep in regular contact with your contractor so that you know of any issues that might come up. Ask for regular meetings and discuss the progress that has been man.&nbsp;
+**3. Stay involved with the building process.** You should keep in regular contact with your contractor so that you know of any issues that might come up. Ask for regular meetings and discuss the progress that has been man. 
 
 **4. Learn the neighborhood.** Partner with an agent who knows the area, and get to know your neighbors.
 
