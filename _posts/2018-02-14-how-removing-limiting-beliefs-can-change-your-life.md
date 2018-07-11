@@ -1,7 +1,8 @@
 ---
 youtube_code: zdNeHzYB6Mw
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Remove+Limiting+Beliefs+(1).mp4
 pullquote: DO WHATEVER YOU HAVE TO DO DAILY TO REMOVE YOUR LIMITING BELIEFS.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,17 +10,17 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Removing Limiting Beliefs Can Change Your Life
-date: '2018-02-14T10:59:00.001-08:00'
+date: 2018-02-14 18:59:00
 author: Vyral Admin
 tags:
-- "#JustJennie"
-modified_time: '2018-02-15T07:36:38.840-08:00'
-thumbnail: https://i.ytimg.com/vi/zdNeHzYB6Mw/default.jpg
-blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-4178603552498865737
-blogger_orig_url: http://yourjourneywithjennie.blogspot.com/2018/02/tulsa-real-estate-agent-remove-limiting-beliefs.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/zdNeHzYB6Mw/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-8069599583664600397.post-4178603552498865737'
+blogger_orig_url: >-
+  http://yourjourneywithjennie.blogspot.com/2018/02/tulsa-real-estate-agent-remove-limiting-beliefs.html
 ---
-{% include youtube.html %}
-By removing limiting beliefs, just like I did, you can live your life more productively and more fiercely.
+
+{% include youtube.html %}By removing limiting beliefs, just like I did, you can live your life more productively and more fiercely.
 
 Every single day, we make choices about what we’ll allow into our brains, what we absorb, and how we’ll react to life. When it comes to these choices, it’s important that we remove limiting beliefs.
 
