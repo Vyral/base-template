@@ -25,9 +25,9 @@ youtube_code: zO1FGKgtaFs
 
 In the last 60 days, the Michael Kaim Team sold 131 properties. How do we get so many listings? How can you build your inventory so you can sell that many properties too?
 
-To answer the first question, **we train our agents to constantly be doing lead generation activities.** In our world, that usually means prospecting, but there are lots of ways to get leads. For example, you can do what some agents do and buy their leads. You can also sit and wait for leads to come to you—someone from your SOI might call you, or you could sit at an open house.
+To answer the first question, **we train our agents to constantly be doing lead generation activities.** In our world, that usually means prospecting, but there are lots of ways to get leads. For example, you can do what some agents do and buy their leads. You can also sit and wait for leads to come to you—someone from your Sphere of Influence (SOI) might call you, or you could sit at an open house.
 
-In our world, though, **we teach our agents how to prospect.** This method is repeatable, reliable, and it’s how we sell 131 listings in two months. When we prospect, there are many different sources we call, including: expired listings, FSBOs, just-listeds and just-solds, open-house neighborhoods, and our past clients and SOI.&nbsp;
+In our world, though, **we teach our agents how to prospect.** This method is repeatable, reliable, and it’s how we sell 131 listings in two months. When we prospect, there are many different sources we call, including expired listings, FSBOs, just-listeds and just-solds, open-house neighborhoods, and our past clients and SOI.&nbsp;
 
 What do we say once we have a lead on the phone? All of our agents are professionally scripted—we train them on what to say and how to say it.&nbsp;
 
@@ -35,7 +35,7 @@ For example, if we’re on the phone with an expired listing or a withdrawn list
 
 *“Hi, this is Michael Kaim with Berkshire Hathaway HomeServices Professional Realty. I’m sure you’ve figured out your house came off the market as an expired listing, and I was calling to see when you plan on interviewing the right agent for the job of selling your home.”*
 
-If we’re calling a FSBO, the script changes slightly:
+If we’re calling a FSBO seller, the script changes slightly:
 
 *“Hi, this is Michael Kaim with Berkshire Hathaway HomeServices Professional Realty. I’m calling about the home for sale. Is this the owner? Hi, Mr. Smith, I’m doing a survey of all the for sale by owners in the area and I was calling to see if you sold this home, where would you go to next?”*
 
