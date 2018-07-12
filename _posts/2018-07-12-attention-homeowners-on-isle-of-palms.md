@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Attention: Homeowners on Isle of Palms'
-date: 2018-07-12 18:42:41
+date: 2018-01-26 18:42:41
 tags:
   - Home Seller Tips
 excerpt: >-
