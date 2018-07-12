@@ -1492,6 +1492,28 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.navbar-left {
+  margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
+
+.nav-logo {
+  float: left !important;
+  max-width: 125px;
+  margin: 5px;
+  padding: 10px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 250px;
+    margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1502,12 +1524,6 @@ html[xmlns] .flexslider .slides {
     overflow: hidden;
     display: none;
     opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #000000;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
-
 .navbar-andross-bottom {
   background: #000000;
   color: #fff;
@@ -1568,7 +1584,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 10rem;
+  height: 400px; }
 
 #hero {
   background-position: center;
