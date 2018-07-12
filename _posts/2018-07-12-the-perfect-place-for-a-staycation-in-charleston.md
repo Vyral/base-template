@@ -17,7 +17,7 @@ youtube_code: SYXHa2OStCw
 ---
 
 {% include youtube.html %}
-p style="text-align: center;"><em>Looking to take a staycation in Charleston? I have the perfect place for your family to check out.</em></p>
+<p style="text-align: center;"><em>Looking to take a staycation in Charleston? I have the perfect place for your family to check out.</em></p>
 <p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em><br />
 <em>Want to buy a home? <b><a href="https://healthy-realty.com/homes-for-sale-search/" target="_blank" rel="noopener">Search all homes for sale</a></b></em></p>
 Today I want to give you a few tips about where to have a great staycation here in Charleston. <strong>I am actually on a staycation right now at the Wild Dunes Resort on the Isle of Palms.</strong>
