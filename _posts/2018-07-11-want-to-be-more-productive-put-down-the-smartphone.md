@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to Be More Productive? Put Down the Smartphone
-date: 2018-07-11 15:08:54
+date: 2018-07-11 15:08:00
 tags:
   - Increase Business
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Ps9-69-kbUA
+youtube_code: _Agy6nFBSqE
 ---
 
 {% include youtube.html %}
@@ -43,5 +43,3 @@ I recently attended a Keller Williams Luxury conference where author Amy Blankso
 Many times, broker-owners and team leaders are also more productive when they close their office door because people are not always asking them about things they can probably figure out themselves. In fact, someone once told me that they put a sign up on their door that read “Stop, think about it, and go away.”
 
 If you want to talk more about how you can be more productive or, if you have another topic in mind you would like to see me cover, feel free to give me a call or send me an email. I would be happy to speak with you.
-
-&nbsp;
