@@ -22,7 +22,7 @@ youtube_code: m9FCFvyqivE
 
 We are growing!
 
-**...And, we are looking for a few great team members to join our rockstar sales team!**
+**…And, we are looking for a few great team members to join our rockstar sales team!**
 
 If you, or someone you know, is looking for the right career opportunity in sales and/or real estate, **we want to talk to you.** We are actively building a team of *INSIDE SALES AGENTS* to help us generate new business for our agents.
 
@@ -37,7 +37,7 @@ Watch the video above to learn how you can make 6-figures in your first year! In
 
 No prior experience or real estate license required!
 
-Apply today at [www.davefriedmancoaching.com](www.davefriedmancoaching.com){: target="_blank"}.
+Apply today at [davefriedmancoaching.com](https://davefriedmancoaching.com/){: target="_blank"}.
 
 &nbsp;
 
