@@ -32,7 +32,7 @@ Today we have a summer market update for you. One of the biggest things we are n
 
 **Once we get above $425,000, the inventory really shifts upward.** There are 151 active listings in the Prior Lake School District in this price range. Much like the $375,000 price range, these listings are equally divided between resale homes and new construction.
 
-We are also seeing some unique homebuyer trends in this market that we do not see most of the time. The first is multiple showings by the same buyer. **Buyers are looking at properties three or four times before buying instead of just once or twice.** This could mean a few different things. There may be some uncertainty among buyers about purchasing a home in this competitive market and not wanting to overpay or, some may want to make sure they are making the right decision.
+We are also seeing some unique homebuyer trends in this market that we do not see most of the time. The first is multiple showings by the same buyer. **Buyers are looking at properties three or four times before buying instead of just once or twice.** This could mean a few different things. This could mean a few different things. Buyers could feel uncertain about whether they're making the right decision, or feel nervous about the prospect of overpaying.&nbsp;
 
 {% include pullquote.html %}
 
