@@ -19,15 +19,15 @@ youtube_code: zwIwV9kcqHg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Heather Case, a member of the Radke Agency team, recently had a new addition to her family. Today I want to introduce you to baby Isabel.</em></p>
+<p style="text-align: center;"><em>Heather Case, the Radke Agency's Buyers Agent, recently had a new addition to her family. Today I want to introduce you to baby Isabelle.</em></p>
 
 <center>&nbsp;</center>
 
-I’m here at Fox Field Park in Westlake Village with Heather Case, a member of the Radke Agency who is very near and dear to me. Heather has been really busy these past two months, and now she has a new addition to her family! Today I wanted to let Heather introduce her new bundle of joy to you all.
+I’m here at Foxfield Park in Westlake Village with Heather Case, the Radke Agency's Buyers Agent who is very near and dear to me. Heather has been really busy these past two months, and now she has a new addition to her family! Today I wanted to let Heather introduce her new bundle of joy to you all.
 
-**Isabel Michaela Case was born on May 1, and she is doing really well.** Her big sisters are with us as well—Violet and Caroline are being the best big sisters to baby Isabel! Caroline especially loves to give Isabel kisses and hugs.
+**Isabelle Michaela Case was born on May 1, and she is doing really well.** Her big sisters are with us as well—Violet and Caroline are being the best big sisters to baby Isabelle! Caroline especially loves to give Isabelle kisses and hugs.
 
-We are so excited for Heather and her growing family, and **we can’t wait to watch baby Isabel grow into a beautiful person.**
+We are so excited for Heather and her growing family, and **we can’t wait to watch baby Isabelle grow into a beautiful person.**
 
 {% include pullquote.html %}
 
