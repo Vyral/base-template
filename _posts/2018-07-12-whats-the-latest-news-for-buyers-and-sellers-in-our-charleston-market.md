@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s the Latest News for Buyers and Sellers in Our Charleston Market?
-date: 2018-07-12 16:46:18
+date: 2018-07-12 16:46:00
 tags:
   - Market Update
 excerpt: >-
   So far, 2017 has been a great year for sales in our Charleston market. This
   means different things for buyers and sellers moving forward.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/Charleston+Real+Estate++The+Mikki+Ramey+Team+Your+latest+Charleston+market+update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
