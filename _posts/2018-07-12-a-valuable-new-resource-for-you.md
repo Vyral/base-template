@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Valuable New Resource For You
-date: 2018-07-12 16:43:24
+date: 2017-11-28 16:43:24
 tags:
   - Real Estate
 excerpt:
