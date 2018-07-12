@@ -36,41 +36,25 @@ And if you are not already a Palm Beach County resident, our great beaches, amaz
 
 For now, check out this great list of things to do and places to go this summer. **Visitors and locals alike are sure to find something they love on this list:**
 
-* Norton Museum of Art
-  * [https://www.norton.org/](https://www.norton.org/){: target="_blank"}
-* Downtown West Palm Beach (Clematis)&nbsp;
-* Mounts Botanical Garden
-  * [https://www.mounts.org/](https://www.mounts.org/){: target="_blank"}
-* McCarthy’s Wildlife Sanctuary
-  * [http://www.mccarthyswildlife.com/](http://www.mccarthyswildlife.com/){: target="_blank"}
-* Kravis Center for the Performing Arts
-  * [https://www.kravis.org/&nbsp;](https://www.kravis.org/){: target="_blank"}
-* South Florida Science Center and Aquarium
-  * [https://www.sfsciencecenter.org/](https://www.sfsciencecenter.org/){: target="_blank"}
-* Palm Beach Zoo
-  * [https://www.palmbeachzoo.org/](https://www.palmbeachzoo.org/){: target="_blank"}
-* West Palm Beach Green Market
-* Antique Row Art and Design District
-  * [http://westpalmbeachantiques.com/](http://westpalmbeachantiques.com/){: target="_blank"}
-* Rapids Water Park
-  * [https://www.rapidswaterpark.com/](https://www.rapidswaterpark.com/){: target="_blank"}
-* Delray Beach (The Ave)
-* Mizner Park
-  * [https://www.miznerpark.com/en/events.html](https://www.miznerpark.com/en/events.html){: target="_blank"}
-* Adventure Golf (Jupiter and Delray)
-* Putt’n Around Mini Golf
-  * [http://puttnaround.net/miniature-golf/](http://puttnaround.net/miniature-golf/){: target="_blank"}
-* Paddle Boarding
-  * [http://paddleboardingpalmbeach.com/](http://paddleboardingpalmbeach.com/){: target="_blank"}
-* Wellington Food Trucks
-  * [http://wellingtonfoodtrucks.com/](http://wellingtonfoodtrucks.com/){: target="_blank"}
-* Paragon Theaters (Wellington)&nbsp;
-  * [https://paragontheaters.com/promotions](https://paragontheaters.com/promotions){: target="_blank"}
-* Delray Marketplace&nbsp;
-  * [http://www.delraymarket.com/](http://www.delraymarket.com/){: target="_blank"}
-* Game nights/ other activities
-  * [https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater](https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater){: target="_blank"}
-* Greenacres Food Truck
-  * [https://greenacresfl.gov/administration/page/food-truck-wednesdays](https://greenacresfl.gov/administration/page/food-truck-wednesdays){: target="_blank"}
+* [Norton Museum of Art](https://www.norton.org/){: target="_blank"}
+* [Downtown West Palm Beach (Clematis)](http://www.westpalmbeach.com/clematis/){: target="_blank"}&nbsp;
+* [Mounts Botanical Garden](https://www.mounts.org/){: target="_blank"}
+* [McCarthy’s Wildlife Sanctuary](http://www.mccarthyswildlife.com/){: target="_blank"}
+* [Kravis Center for the Performing Arts](https://www.kravis.org/ ){: target="_blank"}
+* [South Florida Science Center and Aquarium](https://www.sfsciencecenter.org/){: target="_blank"}
+* [Palm Beach Zoo](https://www.palmbeachzoo.org/){: target="_blank"}
+* [West Palm Beach Green Market](https://www.visitwpb.com/west-palm-beach-greenmarket/){: target="_blank"}
+* [Antique Row Art and Design District](http://westpalmbeachantiques.com/){: target="_blank"}
+* [Rapids Water Park](https://www.rapidswaterpark.com/){: target="_blank"}
+* [Delray Beach (The Ave)](https://www.downtowndelraybeach.com/){: target="_blank"}
+* [Mizner Park](https://www.miznerpark.com/en/events.html){: target="_blank"}
+* [Lighthouse Cove Adventure Golf](http://lighthousecoveminigolf.com/jupiter/){: target="_blank"}
+* [Putt’n Around Mini Golf](http://puttnaround.net/miniature-golf/){: target="_blank"}
+* [Paddle Boarding](http://paddleboardingpalmbeach.com/){: target="_blank"}
+* [Wellington Food Trucks](http://wellingtonfoodtrucks.com/){: target="_blank"}
+* [Paragon Theaters (Wellington)&nbsp;](https://paragontheaters.com/promotions){: target="_blank"}
+* [Delray Marketplace&nbsp;](http://www.delraymarket.com/){: target="_blank"}
+* [Game nights/ other activities](https://wellingtonfl.gov/government/departments/parks-recreation/events/amphitheater){: target="_blank"}
+* [Greenacres Food Truck](https://greenacresfl.gov/administration/page/food-truck-wednesdays){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
