@@ -21,7 +21,7 @@ youtube_code: igVlqT3NSoY
 
 {% include youtube.html %}
 <p style="text-align: center;"><em>Which Charleston area markets are moving the fastest right now? Today let’s discuss this crucial question.</em></p>
-<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em>
+<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em><br />
 <em>Want to buy a home? <b><a href="https://healthy-realty.com/homes-for-sale-search/" target="_blank" rel="noopener">Search all homes for sale</a></b></em></p>
 Usually, it takes an average of 60 to 90 days to sell a home in the Charleston area, but some local markets are an exception to this statistic. So, <strong>what are the fastest-selling markets in the Charleston area?</strong>
 
