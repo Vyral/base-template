@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Latest News for Buyers and Sellers in Our Charleston Market?
-date: 2018-07-12 16:46:00
+date: 2017-12-01 16:46:00
 tags:
   - Market Update
 excerpt: >-
