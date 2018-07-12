@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 9 Silly Things That Could be Sabotaging Your Home Sale
-date: 2018-07-11 14:51:48
+date: 2018-07-11 14:51:00
 tags:
 excerpt: >-
   There are many things that can affect your home sale. Today I have a list of
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/salas-youtube-8-1.jpg
-youtube_code: Dlwpmo5T514
+youtube_code: AFjdum6AmCA
 ---
 
 {% include youtube.html %}
@@ -32,7 +32,7 @@ If you are preparing to list your house for sale or already have it on the marke
 
 {% include pullquote.html %}
 
-**5. Cobwebs.** I know that it is silly to think about, but if your house has a bunch of cobwebs or dust lying around, someone may think you are not there which puts you at a disadvantage. Some people may think that they can negotiate because you are a desperate seller. Have someone come through your home occasionally to remove the cobwebs.
+**5. Cobwebs.** I know that it is silly to think about, but if your house has a bunch of cobwebs or dust lying around, someone may think you are not there, which puts you at a disadvantage. Some people may think that they can negotiate because you are a desperate seller. Have someone come through your home occasionally to remove the cobwebs.
 
 **6****. Poor furniture arrangement.** Buyers want to imagine where they are going to put their furniture. If you have bigger pieces, consider minimizing the furniture in the room to make that room look bigger. Also, if your furniture is arranged strangely, you may want to rearrange to make the rooms look more organized. We can help with doing this and staging so that your home looks nice.
 
@@ -40,6 +40,6 @@ If you are preparing to list your house for sale or already have it on the marke
 
 **8. Overfilled closets.** In the wintertime, I know that we have tons of coats and shows, but in the summertime, we do not need them. Anything that is out of season can be put away so that the closet is not as stuffed. Remove any excess hangers and clear the bottom of the shelves and cabinets because buyers always look at the bottom. They want to make sure they have enough room for their shoes and other items they put on the bottom.
 
-**9. Cluttered countertops.** If you are a big coffee drinker and you want to keep your coffee pot out, I think that is acceptable. However, having your coffee pot, toaster oven, espresso machine, and knives set, your buyer will not be able to see how much space they are going to have when they buy the house.
+**9. Cluttered countertops.** If you are a big coffee drinker and you want to keep your coffee pot out, I think that is acceptable. However, if you have your coffee pot, toaster oven, espresso machine, and knife set out, your buyer will not be able to see how much space they are going to have when they buy the house.
 
 If you have any additional questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
