@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Consider Beach Investment Property in 2018
+youtube_code: WhO7Qgv6U2A
 ---
 
 {% include youtube.html %}
