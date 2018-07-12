@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consider Beach Investment Property in 2018
-date: 2018-07-12 00:00:00
+date: 2018-01-15 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
