@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Perfect Place for a Staycation in Charleston
-date: 2018-07-12 20:57:30
+date: 2018-06-26 20:57:30
 tags:
 excerpt: >-
   Looking to take a staycation in Charleston? I have the perfect place for your
