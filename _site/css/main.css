@@ -1602,8 +1602,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem;
-  height: 300px; }
+  margin-top: 9rem;
+  height: 400px; }
 
 #hero {
   background-position: center;
@@ -1638,7 +1638,10 @@ label.tree-toggle {
     margin-top: 3rem; }
 
   .site-title {
-    font-size: 3rem; } }
+    font-size: 3rem; }
+
+  .hero-img {
+    margin-top: 5rem; } }
 @media (max-width: 600px) {
   .site-logo {
     max-width: 30rem;
