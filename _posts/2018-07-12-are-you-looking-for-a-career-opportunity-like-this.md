@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Looking for a Career Opportunity Like This?
-date: 2018-07-12 15:10:24
+date: 2018-07-12 15:10:00
 tags:
   - Real Estate
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
   by joining us.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Friedman/Videos/2018/We+Are+Hiring%2521+-+Charleston+%2526+Mt.+Pleasant+Real+Estate+Agent.mp4
-pullquote: We are looking to hire six new ISAs immediately.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,16 +20,25 @@ youtube_code: m9FCFvyqivE
 
 {% include youtube.html %}
 
-Today I’m very excited to introduce our newest team member and director of lead generation, Andie Cummings, who is going to help our team members and organizations reach new levels that we haven’t been to before. She is striving to build the best client care team in the industry.
+We are growing!
 
-**Because of that, we are actively recruiting and looking for six inside sales agents** who want to help us generate new business so that our outside sales agents can go out there and have the best customer experience for our clients.
+**...And, we are looking for a few great team members to join our rockstar sales team!**
 
-If you’re interested in getting into sales or into real estate, this is a great opportunity to be part of a growing team like ours. **If you want to be part of this new client care center, visit us at [davefriedmancoaching.com](https://davefriedmancoaching.com/){: target="_blank"}.** You can also learn more about our team, our team members, and our vision here.
+If you, or someone you know, is looking for the right career opportunity in sales and/or real estate, **we want to talk to you.** We are actively building a team of *INSIDE SALES AGENTS* to help us generate new business for our agents.
 
-{% include pullquote.html %}
+Watch the video above to learn how you can make 6-figures in your first year! In fact, we are so confident in your ability to achieve these goals, that we will even GUARANTEE you will make $90k in twelve months after you complete our paid 90-day training.
 
-This is an immediate need so we are looking for people right away. **We are also willing to guarantee $90,000 of income in your first year.** You don’t need any prior real estate or sales experience, you just have to have the right attitude and be willing to learn.
+**Who are we looking to hire?**
 
-If you have any other questions for us in the meantime, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
+* Highly-motivated individuals with a passion to grow their career
+* Team players who are willing to work in our Mount Pleasant call center to find new business (Monday-Friday shifts available + occasional Saturday shift)
+* Sales or service professionals who are excited to help our clients find their dream home or market their existing house
+* Fun, energetic individuals who want join Charleston’s favorite real estate team (as voted by the readers of *The Post* & *Courier*)
+
+No prior experience or real estate license required!
+
+Apply today at [www.davefriedmancoaching.com](www.davefriedmancoaching.com){: target="_blank"}.
+
+&nbsp;
 
 &nbsp;
