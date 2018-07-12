@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Healthy Investment Habits to Have in Real Estate
-date: 2018-07-12 16:54:24
+date: 2017-12-29 16:54:24
 tags:
   - Home Buyer Tips
 excerpt: >-
