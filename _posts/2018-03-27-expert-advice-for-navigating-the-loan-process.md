@@ -19,8 +19,8 @@ youtube_code: _vqVIzg1V2Y
 
 {% include youtube.html %}
 <p style="text-align: center;"><em>Our friend Holly Wagner joined us recently to answer some questions about the mortgage loan process. Here are some tips.</em></p>
-<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em></p>
-<p style="text-align: center;"><em>Want to buy a home? <b><a href="https://healthy-realty.com/homes-for-sale-search/" target="_blank" rel="noopener">Search all homes for sale</a></b></em></p>
+<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em><br />
+<em>Want to buy a home? <b><a href="https://healthy-realty.com/homes-for-sale-search/" target="_blank" rel="noopener">Search all homes for sale</a></b></em></p>
 Today we’re here with Holly Wagner from Fairway Mortgage, one of the best lenders in Charleston. She’s here to offer up some great tips on navigating the loan process and answer some common questions we’ve been getting.
 
 <strong>What documents do I need to bring in order to get pre-approved?</strong>
