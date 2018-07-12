@@ -19,7 +19,7 @@ youtube_code: 2Snbv289MVw
 
 {% include youtube.html %}
 <p style="text-align: center;"><em>Healthy Realty has been serving Charleston for 10 years now! Today, I’d like to tell you a little about our success story.</em></p>
-<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em>
+<p style="text-align: center;"><em>Want to sell your home? <b><a href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua" target="_blank" rel="noopener">Get a FREE home value report</a></b></em><br />
 <em>Want to buy a home? <b><a href="https://healthy-realty.com/homes-for-sale-search/" target="_blank" rel="noopener">Search all homes for sale</a></b></em></p>
 Healthy Realty is celebrating in selling real estate in Charleston! The secret to our success is focusing on health care professionals and helping our clients get their listings sold to this specific community.
 
