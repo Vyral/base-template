@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Q&A With 2 Nationally Recognized Lenders
-date: 2018-07-12 17:01:52
+date: 2018-01-09 17:01:52
 tags:
   - Home Buyer Tips
 excerpt: >-
