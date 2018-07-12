@@ -29,7 +29,7 @@ If you are looking to purchase a newly built home, the following tips I am provi
 
 {% include pullquote.html %}
 
-**3. Stay involved with the building process.** You should keep in regular contact with your contractor so that you know of any issues that might come up. Ask for regular meetings and discuss the progress that has been man. 
+**3. Stay involved with the building process.** You should keep in regular contact with your contractor so that you know of any issues that might come up. Ask for regular meetings and discuss the progress that has been made.&nbsp;
 
 **4. Learn the neighborhood.** Partner with an agent who knows the area, and get to know your neighbors.
 
@@ -37,4 +37,4 @@ If you are looking to purchase a newly built home, the following tips I am provi
 
 **6. Plan a walkthrough.** Do not feel that you are being a pest; you are spending your money on their home and want to make sure that everything is going well. Ask your agent for tips on what to check for, progress-wise. Look into new home warranties and ask your agent for referrals for insurance, etc.
 
-We are a wealth of knowledge and we want the process to go smoothly for you. If you have any questions about buying a home or another real estate topic, please feel free to reach out to us. We look forward to hearing from you.
+We possess a wealth of knowledge and we want the process to go smoothly for you. If you have any questions about buying a home or another real estate topic, please feel free to reach out to us. We look forward to hearing from you.
