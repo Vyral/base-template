@@ -21,7 +21,7 @@ youtube_code: jtbbUwfsgPY
 
 {% include youtube.html %}
 
-While there a hundred reasons why you should hire the Robbins Real Estate Group, I have three great ones for you today.
+<center>While there a hundred reasons why you should hire the Robbins Real Estate Group, I have three great ones for you today.</center>
 
 Today I have three reasons why you should hire the Robbins Real Estate Group. While I could give you a hundred reasons, I would like to keep it short.
 
