@@ -24,7 +24,7 @@ Today I’m very excited to introduce our newest team member and Director of Lea
 
 **Because of that, we are actively recruiting and looking for six inside sales agents** who want to help us generate new business so that our outside sales agents can go out there and have the best customer experience for our clients.
 
-If you’re interested in getting into sales or into real estate, this is a great opportunity to be part of a hyper-growth team like ours. **If you want to be part of this new client care center, visit us at [www.davefriedmancoaching.com](www.davefriedmancoaching.com){: target="_blank"}.** You can also learn more about our team, our team members, and our vision here.
+If you’re interested in getting into sales or into real estate, this is a great opportunity to be part of a hyper-growth team like ours. **If you want to be part of this new client care center, visit us at [davefriedmancoaching.com](https://davefriedmancoaching.com/){: target="_blank"}.** You can also learn more about our team, our team members, and our vision here.
 
 {% include pullquote.html %}
 
