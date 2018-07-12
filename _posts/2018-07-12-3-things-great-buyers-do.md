@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Things Great Buyers Do
-date: 2018-07-12 16:51:00
+date: 2017-12-18 16:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
