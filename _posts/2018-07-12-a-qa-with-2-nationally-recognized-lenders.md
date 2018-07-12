@@ -29,7 +29,7 @@ I recently spoke with Josh Feldman and Jules Day, two fantastic mortgage lenders
 
 While it’s true that a lot of the available products are based on standard regulations, including conventional loans backed by Fannie Mae or Freddie Mae and government loans like FHA and VA, there are a few unique programs out there. There are a number of profession-driven loans for people such as doctors, dentists, lawyers, teachers, police officers, and more.
 
-<p style="text-align: left; font-weight: bold; font-style: italic;">There is a large medical community here in the Southeast. How might those programs differ from the standard programs?</p>
+<p style="text-align: left; font-weight: bold;">There is a large medical community here in the Southeast. How might those programs differ from the standard programs?</p>
 
 {% include pullquote.html %}
 
