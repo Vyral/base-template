@@ -36,6 +36,6 @@ In particular, she loves the fast-paced environment. “Everything can change in
 
 **“To see clients happy is a really good feeling,” Jessica concluded.**
 
-Our team is so happy to have Jessica on board with us. We absolutely love her positive attitude. In fact, this is just the kind of outlook we’re looking for in new team members. Right now, our team is seeking talented and passionate individuals, so **if you or anyone you knows is interested in pursuing a career with us, we’d love to hear from you.**
+Our team is so happy to have Jessica on board with us. We absolutely love her positive attitude. In fact, this is just the kind of outlook we’re looking for in new team members. Right now, our team is seeking talented and passionate individuals, so **if you or anyone you know is interested in pursuing a career with us, we’d love to hear from you.**
 
 And if you have any other questions, would like more information, or would like our help realizing your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
