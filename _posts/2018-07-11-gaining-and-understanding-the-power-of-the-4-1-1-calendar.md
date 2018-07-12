@@ -24,7 +24,7 @@ youtube_code: C7z3rgPl4l8
 
 {% include youtube.html %}
 
-For our next millionaire mindset tip, I will talk about how to use the 4-1-1 calendar.
+Today's next millionaire mindset tip, I will talk about how to use the 4-1-1 calendar.
 
 For our last millionaire mindset coaching tip, we talked about the GPS plan, also known as the 1-3-5 plan. As you may remember, this is a simple one-page business plan to help you achieve your goals. If you do not have your plan in place, you can rewatch the video <u><strong><a data-cms-editor-link-style="undefined" target="_blank" href="https://realestatecareersinutah.com/a-one-page-business-plan-to-achieve-your-goals.html">here</a></strong></u>.&nbsp;
 
