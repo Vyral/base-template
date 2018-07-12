@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few of the Great Benefits Charleston Schools Have to Offer
-date: 2018-07-12 20:54:54
+date: 2018-05-31 20:54:54
 tags:
 excerpt: >-
   Instead of talking about real estate today, we’re switching courses. I want to
