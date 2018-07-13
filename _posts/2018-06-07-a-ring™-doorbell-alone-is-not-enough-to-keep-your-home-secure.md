@@ -4,7 +4,6 @@ title: A Ring™ Doorbell Alone is Not Enough to Keep Your Home Secure
 date: 2018-06-07 00:00:00
 tags:
   - Real Estate
-  - Home Security
 excerpt: >-
   Do you have a Ring doorbell? You should know that the video from the system is
   not usable in a court of law in the State of Colorado.
@@ -17,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-april-2-ss-no-play.jpg
-youtube_code: oQ1O5_zHGw0
+youtube_code: x3dTALefv4c
 ---
 
 {% include youtube.html %}
 
 <center><em>Do you have a Ring&trade; doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</em></center>
 
-&nbsp;
+ 
 
 We are joined by Ryan Byes of WatchPoint Surveillance to teach you the difference between a standard Ring™ doorbell and a true security system.
 
