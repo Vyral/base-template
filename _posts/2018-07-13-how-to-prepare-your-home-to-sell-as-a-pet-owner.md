@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare Your Home to Sell as a Pet Owner
-date:
+date: 2018-07-13 14:19:39
 tags:
   - Home Seller Tips
 excerpt: >-
