@@ -29,9 +29,9 @@ Where can you make more money when investing in real estate: flipping houses or 
 
 Now that that market is beginning to sway in favor of sellers, this is a question I’m hearing all the time. **The answer actually depends on your goals.**
 
-People who flip houses generally do so on the side. It isn’t typically a primary income source. By the time they pay tax on their returns, they’re left with a net profit that probably doesn’t resemble what you’d see on HGTV.
+People who flip houses generally do so on the side. It isn’t typically a primary income source. By the time they pay taxes on their returns, they’re left with a net profit that probably doesn’t resemble what you’d see on HGTV.
 
-However, if you’re willing to quit everything else you do, you can make flipping houses a full-time career. To be successful, though, **you will need to develop a lead generation strategy, a marketing plan, and have a number of other systems and resources in place.** Yet, like in any other industry, only the top percent of those who follow this career path will a high level of success.
+However, if you’re willing to quit everything else you do, you can make flipping houses a full-time career. To be successful, though, **you will need to develop a lead generation strategy, a marketing plan, and have a number of other systems and resources in place.** Yet, like in any other industry, only the top percent of those who follow this career path will reach a high level of success.
 
 {% include pullquote.html %}
 
