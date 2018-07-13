@@ -24,9 +24,7 @@ Are you a pet owner? If so, you should know that there are four main things to c
 
 **1. Stains.** Have your little friends left any stains around your home? You want to make sure you steam clean your carpets or even replace them if so.
 
-**2. Damage.** Fix any damages done by your pet including chewed window sills or back doors.
-
-<br>**3. Smells.** We want to make sure that when potential buyers come in to your home, it is fresh and does not have odors. Many people have pet allergies, so your home needs to be prepared to a way that nothing distracts potential buyers from moving forward with purchasing your home.
+**2. Damage.** Fix any damages done by your pet including chewed window sills or back doors.<br><br>**3. Smells.** We want to make sure that when potential buyers come in to your home, it is fresh and does not have odors. Many people have pet allergies, so your home needs to be prepared to a way that nothing distracts potential buyers from moving forward with purchasing your home.
 
 {% include pullquote.html %}
 
