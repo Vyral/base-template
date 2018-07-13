@@ -26,7 +26,7 @@ youtube_code: ePLMrmS747c
 
 Today we are talking about how long it takes to close a loan and what you should and should not do in order to speed up the process.
 
-First, let’s talk about the things you should not do. **Poor communication is definitely high on the list**. Poor communication with your agent, or loan officer, or the buyer will slow the process down. Having too many contingencies with the appraisal, the inspection, or anything else will do the same thing.
+First, let’s talk about the things you should not do. **Poor communication is high on the list**. Poor communication with your agent, or loan officer, or the seller will slow the process down. Having too many contingencies with the appraisal, the inspection, or anything else will do the same thing.
 
 What can speed up the process? Well, **making sure you get the title early and fast is key**, Your agent needs to quickly ensure that there are no liens or claims against it. Negotiating a repair credit as opposed to negotiating the repairs on their own will help speed things up too. Finally, having excellent communication with your lender and agent will certainly help and lead to quicker turnaround times.
 
