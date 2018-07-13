@@ -25,9 +25,9 @@ We’re back again with part two of our conversation with Kim Drury of Angel Pro
 
 At Angel Properties, Kim and her team like to sit down with the owners first and hash out their goals. They work specifically to fit those needs, whether they want to lease the property out full-time or part-time. They really focus on how they can maximize their net profit and how they can reduce the costs associated with the property’s maintenance. Then they write a lease specific to those needs.
 
-Secondly, they are always present at every showing in order to vet the tenant and show the property as its intended to be shown. From there, it’s all about facilitating the lease and securing a strong tenant for the property owner. A lot of their property owners don’t live in Park City, so they’re experienced in how to help them be successful, even from afar.
-
 {% include pullquote.html %}
+
+Secondly, they are always present at every showing in order to vet the tenant and show the property as its intended to be shown. From there, it’s all about facilitating the lease and securing a strong tenant for the property owner. A lot of their property owners don’t live in Park City, so they’re experienced in how to help them be successful, even from afar.
 
 *“What are the benefits of working with an agent who has a good marketing strategy?”*
 
