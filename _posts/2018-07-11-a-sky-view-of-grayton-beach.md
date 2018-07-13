@@ -22,4 +22,4 @@ Today I will show you an amazing aerial tour of Grayton Beach, which is one of m
 
 {% include pullquote.html %}
 
-It is located along the Gulf of Mexico between Pensacola and Panama City, and it is perfect for swimming, sunbathing, surf fishing, and anything else you and your family have in mind for a fun day under the sun. To see the full tour of everything this spot has to offer, watch this short video.
+It is located along the Gulf of Mexico between Pensacola and Panama City off of Scenic Hwy 30A in Santa Rosa Beach, just west of Seaside, and it is perfect for swimming, sunbathing, surf fishing, paddle boarding, and anything else you and your family have in mind for a fun day under the sun. It is also within walking distance to dining and entertainment. To see the full tour of everything this spot has to offer, watch this short video.
