@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Insight Into the Best Long-Term Leasing Strategies
-date: 2018-07-12 14:51:54
+date: 2018-07-12 14:51:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kim-drury-part-2-youtube.jpg
-youtube_code: PJ-VuE8gUUQ
+youtube_code: UOCaNMGfxNk
 ---
 
 {% include youtube.html %}
