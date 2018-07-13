@@ -20,7 +20,9 @@ youtube_code: 01nHtLoqAiA
 
 {% include youtube.html %}
 
-<center>This summer might be the last opportunity for you to take advantage of rising home prices and high demand. Here’s why.</center>
+<center><em>This summer might be the last opportunity for you to take advantage of rising home prices and high demand. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 Summer is here, which means the high season for real estate. If you've been thinking of selling your home, **you might be in for a golden moment**.
 
