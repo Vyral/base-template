@@ -20,7 +20,7 @@ youtube_code: ePLMrmS747c
 
 {% include youtube.html %}
 
-The home closing process can happen quickly, or it can drag on. Here’s how to ensure that it goes quickly and smoothly.
+<center>The home closing process can happen quickly, or it can drag on. Here’s how to ensure that it goes quickly and smoothly.</center>
 
 Today we are talking about how long it takes to close a loan and what you should and should not do in order to speed up the process.
 
