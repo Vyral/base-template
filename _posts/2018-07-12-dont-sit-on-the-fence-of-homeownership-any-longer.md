@@ -24,7 +24,7 @@ hide_index_page: false
 
 What’s been going on with our market lately?
 
-Many homebuyers are tired and frustrated because, as they think about buying a home, prices continue to rise. And now, rates are increasing as well, which means **they’re being priced out of the market.** If you had bought that same home last year, by now you would have made about 10% on your expenditure. If you continue to sit on the sidelines and wait another year to buy, you may lose another 3% to 10%.
+Many homebuyers are tired and frustrated because as they think about buying a home, prices continue to rise. And now, rates are increasing as well, which means **they’re being priced out of the market.** If you had bought that same home last year, by now you would have made about 10% on your expenditure. If you continue to sit on the sidelines and wait another year to buy, you may lose another 3% to 10%.
 
 {% include pullquote.html %}
 
