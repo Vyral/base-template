@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Should You Use the Equity on Your Home for a New One?
-date: 2018-07-12 16:22:05
+title: Should You Use the Equity in Your Home for a New One?
+date: 2018-07-12 16:22:00
 tags:
   - Finance Advice
 excerpt: >-
@@ -23,7 +23,7 @@ hide_index_page: false
 
 {% include youtube.html %}
 
-Did you know that home values are at an all-time high? And that during this time, if you want, you can use the equity on your current home to purchase a new home?
+Did you know that home values are at an all-time high? And that during this time, if you want, you can use the equity in your current home to purchase a new home?
 
 Recently I have seen some of my clients accessing their equity to move up and buy the home of their dreams. If you want to do this, **you should know that you have a finite amount of time to access that equity** while values remain high.
 
