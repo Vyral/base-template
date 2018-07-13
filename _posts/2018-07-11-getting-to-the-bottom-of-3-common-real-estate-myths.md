@@ -22,7 +22,7 @@ youtube_code: 4jsH3qhtdhg
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>There are a lot of misconceptions about the real estate industry out there. Today I’ll be tackling three common myths, in particular.</em></p>
-<br>&nbsp;
+
 There’s a lot of confusion about what’s true and false about the real estate industry, so today I wanted to address and debunk three common myths people believe about this business.
 
 **1. Real estate agents are paid a salary.** The truth is that real estate agents unfortunately don’t earn a salary. If we do, then something is seriously wrong with my payroll. We actually work on commission.
