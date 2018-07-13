@@ -20,26 +20,26 @@ youtube_code: AFjdum6AmCA
 
 {% include youtube.html %}
 
-If you are preparing to list your house for sale or already have it on the market, you should know about the things that may sabotage the home sale. There are nine silly things that I am going to share with you today.
+<br>If you are preparing to list your home for sale or already have it on the market, you should know about the things that may be sabotaging your home sale. These are the nine silly things that I am going to share with you today.
 
-**1.&nbsp; Cords hanging from your mounted television.** When a buyer comes into a house and there are cords hanging behind your television, buyers think that you are lazy and did not want to put them behind the wall. If you did not do that, then buyers wonder where else you could have been lazy and how you did with other do-it-yourself projects in the house.
+**1.&nbsp; Cords hanging from your mounted television.** Putting the cords behind the wall is a small expense but it makes a room look cleaner and brighter. Buyers want the ideal home and if they see cords along the wall it breaks the fantasy in their minds.
 
-**2. Unkempt yard.** Believe it or not, first impressions are lasting impressions. The first thing someone sees when they drive up to your house is your yard, so you want to make sure it has cut grass and no trash. Make the yard look presentable and beautiful because people will think that if you do not care about your lawn, you will not care about the interior of your home.
+**2. Unkempt yard**. First impressions are lasting impressions. The first thing someone sees when they drive up to your home is your yard, so you want to make sure it looks tidy and maintained to make the best impression.
 
-**3. Dingy front door.** Your home could be totally renovated inside but if your front door has chipped paint or missing trim, buyers will think you do not take good care of your home. Make sure that you take care of the outside of the house.
+**3. Dingy front door.** On the same note as before, painting or power washing your front door can make all the difference to a buyer’s first impressions.
 
-**4. Animals.** Many people have pets that they love, but someone coming in from the outside might have a very sensitive nose. They may smell or see the dog and not want to come into the house. I recommend sellers get rid of or hide pet toys and beds. Sellers must also be very cautious of pet smells because although we may be unable to smell it, other people can. You can eliminate pet odors with plug-in filters, just make sure you do not make it too overpowering or buyers will think you are trying to hide something.
+**4. Animals.** Many people have pets that they love, but a buyer might have a sensitive nose. They may smell a dog and not want to come into the house. Sellers must also be very cautious of pet odors because although we may be unable to smell it, other people can. You can eliminate pet odors with plug-in filters, just make sure you do not make it too overpowering for the same reasons. I recommend storing all pet toys and beds while showing a home, as well.
 
 {% include pullquote.html %}
 
-**5. Cobwebs.** I know that it is silly to think about, but if your house has a bunch of cobwebs or dust lying around, someone may think you are not there, which puts you at a disadvantage. Some people may think that they can negotiate because you are a desperate seller. Have someone come through your home occasionally to remove the cobwebs.
+**5. Cobwebs.** I know that it’s silly to think about, but if your house has a bunch of cobwebs or dust lying around, someone may think you are not there often, which puts you at a disadvantage. Some people may think that they can negotiate because you are a desperate seller. Have someone come through your home occasionally to remove the cobwebs and give you the best chance of a full-priced sale.
 
-**6****. Poor furniture arrangement.** Buyers want to imagine where they are going to put their furniture. If you have bigger pieces, consider minimizing the furniture in the room to make that room look bigger. Also, if your furniture is arranged strangely, you may want to rearrange to make the rooms look more organized. We can help with doing this and staging so that your home looks nice.
+**6. Poor furniture arrangement.** Buyers want to imagine where they are going to put their furniture. If you have bigger pieces, consider minimizing the furniture in the room to make that room appear bigger and streamlined. Don’t be afraid to rearrange a room to look more organized. The new arrangement may not be functional for your family but if it’s a standard arrangement, buyers will be open to imagining their own arrangements. We can also help with staging if you prefer to use staged pieces rather than your own.
 
-**7. Junk drawers and crammed cabinets.** I know we think they are snooping, but they are really just looking to see what kind of space they have. If they want to buy the house, they are going to put their stuff in those drawers and cabinets. I think it acceptable to have one junk drawer, but any more and people will wonder if the house is going to be big enough for them. Cleaning them out and making them tidy is important.
+**7. Junk drawers and crammed cabinets.** I feel it’s acceptable to have one junk drawer, but any more and people will wonder if the house is going to be big enough for them. Cleaning out clutter and keeping drawers and cabinets tidy opens space in your home, making it spacious for buyers.
 
-**8. Overfilled closets.** In the wintertime, I know that we have tons of coats and shows, but in the summertime, we do not need them. Anything that is out of season can be put away so that the closet is not as stuffed. Remove any excess hangers and clear the bottom of the shelves and cabinets because buyers always look at the bottom. They want to make sure they have enough room for their shoes and other items they put on the bottom.
+**8. Overfilled closets.** Anything that is out of season can be stored away so that the closet is not as stuffed. Remove any excess hangers and clear the bottom of the shelves because buyers always look in the closets. They want to make sure they have enough room for their shoes and other items and having a tidy space for them that is functioning but not over-filled is the perfect way to grab their attention.
 
-**9. Cluttered countertops.** If you are a big coffee drinker and you want to keep your coffee pot out, I think that is acceptable. However, if you have your coffee pot, toaster oven, espresso machine, and knife set out, your buyer will not be able to see how much space they are going to have when they buy the house.
+**9. Cluttered countertops.** We all love our coffee or tea in the morning, so keeping out a kettle or a coffee pot is okay but storing away any extra appliances and knick-knacks creates extra space. The buyer can see how much counter space they can potentially have to prepare food and entertain. It’s all about playing into the buyer’s fantasy home.
 
 If you have any additional questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
