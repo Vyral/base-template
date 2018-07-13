@@ -29,7 +29,7 @@ Today I have three reasons why you should hire the Robbins Real Estate Group. Wh
 
 The first reason you should hire us also happens to be the most important: **You are looking for an agent or Realtor who is going to take care of you and put your interests first**. We promise that we will never put our needs above yours and will always make sure that you are doing what is right for you.
 
-The next reason you should hire us is that we have a great track record. **We have closed well over a thousand transactions and 700 of those were in the last 10 years**. In fact, during that time, our sellers on average have gotten at least 100% of the sales price. In a market where 25% to 30% of the listings oftentimes fail to sell, almost all of our listings close with a successful sale.
+The next reason you should hire us is that we have a great track record. **We have closed well over a thousand transactions and 700 of those were in the last 10 years**. In fact, during that time, our sellers on average have gotten at least 100% of the list price. In a market where 25% to 30% of the listings oftentimes fail to sell, almost all of our listings close with a successful sale.
 
 {% include pullquote.html %}
 
