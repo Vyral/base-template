@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How Do You Buy and Sell a Home at the Same Time?
-date: 2018-07-11 14:08:33
+date: 2018-07-11 14:08:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   What is the best way to navigate buying and selling at the same time? Today I
   will discuss a couple of options you have in this scenario.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Whats+the+Secret+to+Juggling+2+Transactions+at+Once%253F+(1).mp4
 pullquote: >-
   Sellers who can see that you have a buyer lined up will be more likely to
   accept an offer that is contingent upon the sale of your home.
@@ -25,7 +26,7 @@ How do you approach buying a home and selling your own at the same time?
 
 Well, if you have the financial capacity to do so, the easiest option is to purchase your next home before starting the process of selling your current one. This way you can focus on one transaction at a time.
 
-However, **if this is not something that is feasible for you, no need to worry. You still have options.**&nbsp;
+However, **if this is not something that is feasible for you, no need to worry. You still have options.** 
 
 So, what can you do if you need to use the proceeds from selling your current home to fund the purchase of your next? Today I will outline how to approach this scenario.
 
@@ -33,7 +34,7 @@ Most of the time, you would close both sales on the same day. This involves putt
 
 {% include pullquote.html %}
 
-**Including this contingency protects you from ending up with two houses.** It will allow you to back out of your home purchase if your home sale falls through.&nbsp;
+**Including this contingency protects you from ending up with two houses.** It will allow you to back out of your home purchase if your home sale falls through. 
 
 Yet, switching homes in a single day can present some logistical complications related to the move itself. Most clients my team works with will resolve this by storing items prior to their moving date so that they can easily be transferred to the new home.
 
