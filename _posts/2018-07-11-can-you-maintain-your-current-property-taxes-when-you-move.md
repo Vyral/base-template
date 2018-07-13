@@ -34,6 +34,6 @@ As I mentioned before, though, there are some requirements a homeowner must meet
 
 Now, it is important to keep in mind that this is a one-time use policy. But there is an exception. If you were to become seriously disabled after taking advantage of this opportunity, you may be eligible to utilize it a second time.
 
-**To learn more about this opportunity, visit [www.boe.ca.gov.](www.boe.ca.gov.)**
+**To learn more about this opportunity, visit [http://www.boe.ca.gov/](http://www.boe.ca.gov/)**
 
 As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
