@@ -24,7 +24,7 @@ youtube_code: V0FLBfQIcy8
 
 **I entered the real estate industry back in 2006 while I was still on active duty in the military**; I had just been stationed at Fort Hood. I knew a good Realtor who explained the whole home buying process to me, and that piqued my curiosity. After I bought my house, I stayed in contact with that Realtor.
 
-Eventually, I became a licensed real estate agent. I discovered that I enjoy the old army NCO in me—**I like helping people.** I enjoy sitting that first consultation with people, explaining to them the homebuying process, and taking them under my wing and offering guided protection for their first large purchase.
+Eventually, I became a licensed real estate agent. I discovered that I enjoy the old army NCO in me—**I like helping people.** I enjoy sitting down at that first consultation with people, explaining to them the homebuying process, and taking them under my wing and offering guided protection for their first large purchase.
 
 {% include pullquote.html %}
 
