@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Home Improvements Will Give You the Best ROI?
-date: 2018-07-12 16:40:36
+date: 2018-07-12 16:40:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray--renovations-best-and-worst-youtube.jpg
-youtube_code: 'https://youtu.be/KXjL89U8pNg'
+youtube_code: 'https://youtu.be/cdb1Uxc2wcQ'
 ---
 
 {% include youtube.html %}
@@ -24,7 +24,7 @@ Lately, I’ve had a lot of homeowners asking about what projects and renovation
 
 The reality is that there aren’t a lot of projects that will give you 100% of the money that’s invested back to you. **However, here are three of the projects that will give you the highest return and help you sell faster when the time comes:**
 
-**1. Garage door replacement.** This will get you a 98% return on average. The garage door is really the face of your house and if it's old or dirty, it will give buyers a bad first impression.&nbsp;
+**1. Garage door replacement.** This will get you a 98% return on average. The garage door is really the face of your house and if it's old or dirty, it will give buyers a bad first impression. 
 
 **2. Entry door replacement.** This will get you a 92% return on average. This is one of the first things buyers notice in a home and can also make a bad impression if it isn’t taken care of properly.
 
@@ -34,7 +34,7 @@ The reality is that there aren’t a lot of projects that will give you 100% of 
 
 Now, here are some renovations you should avoid if you’re trying to make them right before you sell:
 
-**1. Patio addition.** This is only going to get you a 43% return on average.&nbsp;
+**1. Patio addition.** This is only going to get you a 43% return on average. 
 
 **2. Master bedroom additions.** This is only going to get you around a 50% return on your investment.
 
