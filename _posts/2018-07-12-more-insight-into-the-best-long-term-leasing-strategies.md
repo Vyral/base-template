@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kim-drury-part-2-youtube.jpg
-youtube_code: UOCaNMGfxNk
+youtube_code: BsBxP9hHVPY
 ---
 
 {% include youtube.html %}
