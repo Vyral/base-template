@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to document FHA gift funds
-date: 2018-06-05 15:35:00
+title: How to Document FHA Gift Funds
+date: 2018-07-13 15:35:00
 tags:
   - Real Estate
 excerpt: >-
