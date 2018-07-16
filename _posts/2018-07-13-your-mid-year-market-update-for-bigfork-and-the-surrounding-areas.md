@@ -21,7 +21,7 @@ youtube_code: LkLoZbEsjIE
 
 {% include youtube.html %}
 
-<p style="text-align: center;">Your current market conditions for Bigfork and the surrounding lakeside communities are ready for you.</p>
+<p style="text-align: center;"><em>Your current market conditions for Bigfork and the surrounding lakeside communities are ready for you.</em></p>
 
 I recently sat down and looked at the current market conditions around Bigfork during a Facebook Live event. Our mid-year waterfront market report revealed some interesting things that I wanted to share with those of you that may have missed it.
 
