@@ -1,7 +1,10 @@
 ---
-youtube_code: 'https://youtu.be/wMgm-2v6tCs'
-excerpt: Interest rates have been on the rise and are expected to increase three more times in 2017. How has this impacted our market?
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Interest+Rates+Have+Impacted+Our+Market.mp4'
+youtube_code: wMgm-2v6tCs
+excerpt: >-
+  Interest rates have been on the rise and are expected to increase three more
+  times in 2017. How has this impacted our market?
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Interest+Rates+Have+Impacted+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,9 +18,9 @@ tags:
 modified_time:
 thumbnail: 'https://img.youtube.com/vi/wMgm-2v6tCs/default.jpg'
 blogger_id: 'tag:blogger.com,1999:blog-1172076802032175464.post-4502915747537871481'
-blogger_orig_url: 'http://bradkorb.blogspot.com/2017/01/la-real-estate-agent-how-interest-rates.html'
+blogger_orig_url: >-
+  http://bradkorb.blogspot.com/2017/01/la-real-estate-agent-how-interest-rates.html
 ---
-
 
 What’s going on in the market now that interest rates have gone up?
 
