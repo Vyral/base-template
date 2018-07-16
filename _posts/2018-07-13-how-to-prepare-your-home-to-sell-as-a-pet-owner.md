@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I want to talk about what you need to do if you plan to sell your home
   that has had pets inside of it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/Texas+Real+Estate+Pro-+How+to+Prepare+Your+Home+to+Sell+as+a+Pet+Owner.mp4
 pullquote: >-
   We want to make sure that when potential buyers come into your home, it is
   fresh and does not have odors.
