@@ -29,6 +29,6 @@ According to Damon, Academy Mortgage offers loan products for investors of all e
 
 All you’ll need to provide to apply for a mortgage is a passport or valid ID, your tax returns, proof of income, and bank statements. These documents can be faxed, submitted online, or delivered in person.&nbsp;
 
-**To apply or get in touch with Damon, you can call him at (832) 956-6000 or visit**[www.damonsorrel.com.](https://academymortgage.com/lo/damonsorrell){: target="_blank"}&nbsp;
+**To apply or get in touch with Damon, you can call him at (832) 956-6000 or visit&nbsp;**[www.damonsorrel.com.](https://academymortgage.com/lo/damonsorrell){: target="_blank"}&nbsp;
 
 As always, if you have any other questions or would like more information from me, feel free to reach out. I look forward to hearing from you soon.
