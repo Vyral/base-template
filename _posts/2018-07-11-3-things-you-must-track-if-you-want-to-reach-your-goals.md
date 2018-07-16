@@ -9,7 +9,7 @@ excerpt: >-
   meet your goals. Today I’d like to highlight three specific things you should
   be recording.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/July/Central+PA+Real+Estate+Agent-+3+Things+to+Track+in+the+Sales+Process.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/July/Central+PA+Real+Estate+Agent-+3+Things+to+Track+in+the+Sales+Process+(1).mp4
 pullquote: >-
   If you’re able to show potential clients how you can meet their needs and add
   value to the process, they will be more likely to seek a working relationship
