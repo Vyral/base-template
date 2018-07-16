@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do You Plan to Move Forward After Harvey?
-date: 2018-05-22 21:14:50
+date: 2018-07-16 09:15:00
 tags:
   - Market Update
 excerpt: How we can help you pick up the pieces
