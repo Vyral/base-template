@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Potential Pitfalls of Selling Your Home by Yourself
-date: 2018-06-05 16:18:11
+date: 2018-07-13 16:18:00
 tags:
   - Real Estate
 excerpt: >-
