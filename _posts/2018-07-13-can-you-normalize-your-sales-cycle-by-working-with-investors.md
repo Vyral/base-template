@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Normalize Your Sales Cycle by Working With Investors?
-date: 2018-07-13 16:37:05
+date: 2018-07-13 16:37:00
 tags:
 excerpt: >-
   How can working with investors even out your sales cycle? Allow me to explain
@@ -13,14 +13,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/salas-youtube-9.jpg
-youtube_code: XBJTBuzt9S0
+youtube_code: YzJbP8joR50
 ---
 
 {% include youtube.html %}
 
 A lot of Realtors experience a lot of business during the spring and summer, but find that activity diminishes at the beginning and end of the year. So what’s the secret to normalizing your sales cycle?
 
-Actually, **a great way to even out your activity over the year is by working with investors.** Doing this will help you compensate for times when the market is less active. And our team specifically likes to focus on working with first-time investors who buy multi-family units. We devote the most attention to this demographic because these investors really value our expertise. They appreciate the resources we bring to the table.
+Actually, **a great way to even out your activity over the year is by working with investors.** Doing this will help you compensate for times when the market is less active. Our team specifically likes to focus on working with first-time investors who buy multi-family units. We devote the most attention to this demographic because these investors really value our expertise. They appreciate the resources we bring to the table.
 
 The book “Rich Dad Poor Dad” by Robert Kiyosaki is what first got me thinking about how to discern which properties are viable options for my investor clients. And I’ve since created a spreadsheet based on the book that details how to value these multi-family properties. **You can see this spreadsheet at the 2:00 mark in the video above.**
 
