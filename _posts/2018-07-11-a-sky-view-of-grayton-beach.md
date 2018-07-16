@@ -20,6 +20,6 @@ youtube_code: THDW7YxkgYQ
 
 Today I will show you an amazing aerial tour of Grayton Beach, which is one of my favorite spots along the coast. This village was one of the first communities established in South Walton, and its beach is consistently ranked as one of the best in the country.
 
-{% include pullquote.html %}
+&nbsp;{% include pullquote.html %}
 
 It is located along the Gulf of Mexico between Pensacola and Panama City off of Scenic Hwy 30A in Santa Rosa Beach, just west of Seaside, and it is perfect for swimming, sunbathing, surf fishing, paddle boarding, and anything else you and your family have in mind for a fun day under the sun. It is also within walking distance to dining and entertainment. To see the full tour of everything this spot has to offer, watch this short video.
