@@ -39,7 +39,7 @@ Recently, I gave a webinar about the importance of time blocking. Although it ma
 
 12:40 – How to schedule your lead generation time.
 
-15:20 – Why actual appointments need to be be scheduled so you can hit your goals.
+15:20 – Why actual appointments need to be scheduled so you can hit your goals.
 
 17:25 – Don't miss an appointment or you will get behind.
 
