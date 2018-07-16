@@ -19,7 +19,7 @@ youtube_code: YDnKaG_HgGQ
 
 {% include youtube.html %}
 
-Today I have a quick update about the last six months of our market.
+<p style="text-align: center;"><em>Today I have a quick update about the last six months of our market.</em></p>
 
 Today I want to do a quick market update since we have had a few calls recently wondering how the first half of the year went.&nbsp;
 
