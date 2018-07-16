@@ -28,9 +28,10 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.andreybustamante.com/custompages_reports/b1979.htm'
+  first_CTA_URL: 'http://instanthomevalue.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://instanthomevalue.com//'
+  second_CTA_URL: >-
+    https://www.bestorlandomlssearch.com/results-gallery/?sort=importdate&amp;status=A
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
