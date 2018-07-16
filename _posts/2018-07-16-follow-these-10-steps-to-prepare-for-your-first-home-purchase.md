@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Follow These 10 Steps to Prepare for Your First Home Purchase
-date: 2018-07-16 16:29:42
+date: 2018-07-16 16:29:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you are preparing to purchase a home for the first time, there are 10
   crucial steps you must follow.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Sherif+Nathoo/Videos/2018/Sherif+Nathoo+Team-+Follow+These+10+Steps+to+Prepare+for+Your+First+Home+Purchase.mp4
+enclosure:
 pullquote: You do not have to purchase a home for the highest amount you are approved.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-16---sherif-nathoo---yt.jpg
-youtube_code: FWE10LVxD1I
+youtube_code: AkPoc73giqs
 ---
 
 {% include youtube.html %}
