@@ -23,7 +23,7 @@ With the Houston real estate market heating up, many investors are looking to ex
 
 According to Damon, Academy Mortgage offers loan products for investors of all experience levels. This includes those who are investing for the very first time, as well as those who have been investing for years.&nbsp;
 
-**And with Academy Mortgage, investors can qualify for a loan with a credit score as low as 620, and can submit a down payment of just 20%.** Investors can also take out as many as 10 loans at a time.
+**And with Academy Mortgage, investors can qualify for a loan with a credit score as low as 620 and can submit a down payment of just 20%.** Investors can also take out as many as 10 loans at a time.
 
 {% include pullquote.html %}
 
