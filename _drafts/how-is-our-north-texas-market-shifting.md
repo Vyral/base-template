@@ -20,7 +20,7 @@ youtube_code: KCnlw911iKI
 
 {% include youtube.html %}
 
-We’ve been in a seller’s market for some time in North Texas, but the latest numbers suggest that’s starting to change.
+<center>We’ve been in a seller’s market for some time in North Texas, but the latest numbers suggest that’s starting to change.</center>
 
 For years we’ve been hearing about what a great market ours is for sellers and what a tough market it is for buyers, but **the most recent numbers suggest things are leveling off in North Texas**.
 
