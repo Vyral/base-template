@@ -21,7 +21,7 @@ youtube_code: xHoDLT64pZo
 
 {% include youtube.html %}
 
-Today I want to share with you a few tips for dealing with your home through major life changes. Try as you might, you can’t plan your life out fully. Sometimes, things just happen. Here are some scenarios where life makes a decision for you and how you should respond;
+Today I want to share with you a few tips for dealing with your home through major life changes. Try as you might, you can’t plan your life out fully. Sometimes things just happen, which is why I have a few scenarios where life makes a decision for you and how you should respond.
 
 **1. Losing your job.** If you find yourself in this position and can no longer afford to pay your mortgage, there are some options. The first is finding another job quickly. Even if you don’t, there are multiple avenues that you can pursue. Don’t just list right away or walk away from your home.
 
