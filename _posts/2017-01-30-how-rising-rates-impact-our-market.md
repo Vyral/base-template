@@ -22,6 +22,9 @@ blogger_orig_url: >-
   http://bradkorb.blogspot.com/2017/01/la-real-estate-agent-how-interest-rates.html
 ---
 
+
+{% include youtube.html %}
+
 What’s going on in the market now that interest rates have gone up?
 
 Since the election ended, rates have jumped up. The Fed is talking about raising rates three more times throughout 2017.
