@@ -24,7 +24,7 @@ Is it really better to find the home you plan on buying first, or should you sel
 
 This is the main question I get from clients who are looking to buy and sell at the same time. Most clients want to find the home they are going to purchase before they even list their current property. They don’t want to sell their current home and then get left high and dry; they want to make the transition from the sale of their current home to the new one as smooth as possible by only moving once.
 
-**When a client waits to list their home until they find the home they want to purchase, it can become a very frustrating experience. Here is what happens: **
+**When a client waits to list their home until they find the home they want to purchase, it can become a very frustrating experience. Here is what happens:**
 
 You decided to wait to list your home but start searching the market. Our buyer specialist then finds you the perfect home for your family. You want to write an offer but, since your current home isn’t even on the market yet, that offer is subject to the sale of your existing home.
 
