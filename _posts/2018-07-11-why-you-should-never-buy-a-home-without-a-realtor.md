@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mauro-youtube-1.jpg
-youtube_code: 6A_adxKUFpA
+youtube_code: A4CC7nz6qpw
 ---
 
 {% include youtube.html %}
 
-What are the disadvantages of buying a home without a Realtor? Today We’ll answer that question by explaining what a great Realtor can do for you during a home purchase.
+What are the disadvantages of buying a home without a Realtor? Today we’ll answer that question by explaining what a great Realtor can do for you during a home purchase.
 
 Anything can happen during a real estate transaction. You’re dealing with real estate and you’re dealing with people, so there are a lot of emotions involved and many things can happen. A great Realtor will make sure you have a much smoother road to closing.
 
