@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Is Our North Texas Market Shifting?
+title: How is Our North Texas Market Shifting?
 date: 2018-07-17 00:00:00
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: KCnlw911iKI
 
 <center><em>We&rsquo;ve been in a seller&rsquo;s market for some time in North Texas, but the latest numbers suggest that&rsquo;s starting to change.</em></center>
 
-&nbsp;
+ 
 
 For years we’ve been hearing about what a great market ours is for sellers and what a tough market it is for buyers, but **the most recent numbers suggest things are leveling off in North Texas**.
 
