@@ -25,7 +25,7 @@ Today I want to do a quick market update since we have had a few calls recently 
 
 Our sales have been really strong this year. **There were 1,263 closed transactions in the last six months.** Currently, we have about 440 pending sales that are waiting for the bank to finalize the financing. That is down from last year, but they’re still very good numbers.&nbsp;
 
-**Our inventory is currently at 753 homes on the market, which is also down from last year.** It is, however, up quite a bit from the spring market. This means that there is a good selection, but at the same time the homes are moving quickly. You have a good choice of properties to choose from.
+**Our inventory is currently at 753 homes on the market, which is also down from last year.** It is, however, up quite a bit from the spring market. This means that there is a good selection, but at the same time, the homes are moving quickly. You have a good selection of properties to choose from.
 
 {% include pullquote.html %}
 
