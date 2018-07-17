@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What home renovations will bring you the best return on your investment? Here
   are our recommendations.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+Best+and+Worst+Projects+for+ROI.mp4
 pullquote: 'A patio addition won’t bring a great return, but a new garage door will.'
 enclosure_type: video/mp4
 enclosure_time:
