@@ -21,7 +21,7 @@ client:
     business with their friends and family. We are your one stop shop for ALL
     THINGS REAL ESTATE.
   market: Colorado Springs Real Estate
-  brand: All Things Real Estate
+  brand: The Homebound Team
   brokerage: Premier Real Estate Group
   address: '605 South Tejon Street <br> Colorado Springs, Colorado 80903'
   phone: 719-999-5789
@@ -31,15 +31,15 @@ client:
   email: brian@briancanady.com
   email2: tiffany@buysprings.com
   url: 'http://www.buysprings.com'
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808172';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808172';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.buysprings.com/cma/property-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.buysprings.com/'
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
@@ -67,9 +67,9 @@ lender:
   url: '108 E St. Vrain <br> Colorado Springs, CO 80903'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
