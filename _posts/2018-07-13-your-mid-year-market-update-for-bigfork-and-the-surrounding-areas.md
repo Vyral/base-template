@@ -29,6 +29,6 @@ Since I deal with so many areas, **I have timestamped the different places so th
 
 {% include pullquote.html %}
 
-1:00 - The total transactions on our MLS<br>2:05 - Our largest market, Flathead Lake, looks similar to last year.&nbsp;<br>4:20 - Swan Lake has more homes for sale compared to years past.&nbsp;<br>6:05 - Echo Lake and Blaine Lake have more activity than last year.&nbsp;<br>7:00 - West of Bigfork’s Ashley Lake, Bitterroot Lake, and McGregor Lake’s current statistics.<br>9:00 - What you need to know if you are selling.
+1:00 - The total transactions in our MLS<br>2:05 - Our largest market, Flathead Lake, looks similar to last year.&nbsp;<br>4:20 - Swan Lake has more homes for sale compared to years past.&nbsp;<br>6:05 - Echo Lake and Blaine Lake have more activity than last year.&nbsp;<br>7:00 - West of Bigfork’s Ashley Lake, Bitterroot Lake, and McGregor Lake’s current statistics.<br>9:00 - What you need to know if you are selling.
 
 If you have any additional questions about your current market or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.&nbsp;
