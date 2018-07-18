@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robbins-july-1-ss-no-play.jpg
-youtube_code: KCnlw911iKI
+youtube_code: qYjSfmcWaww
 ---
 
 {% include youtube.html %}
