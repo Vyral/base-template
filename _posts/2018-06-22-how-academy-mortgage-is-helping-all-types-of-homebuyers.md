@@ -30,8 +30,8 @@ In Texas, you are able to pull out 80% of the equity in your home if it’s comp
 
 Academy Mortgage also has some great loans for veterans. **With a VA loan, you won’t have to make a down payment nor will you have to pay mortgage insurance.**
 
-For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%. 
+For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%.&nbsp;
 
-If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 403-3192 or visit [**his website**](https://academymortgage.com/lo/damonsorrell){: target="_blank"} today.
+If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 956-6000 or visit [**his website**](https://academymortgage.com/lo/damonsorrell){: target="_blank"} today.
 
 If you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
