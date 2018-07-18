@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tia-expert-mortgage-advice-youtube.jpg
-youtube_code: 'https://youtu.be/WtPW99CxhsQ'
+youtube_code: 'https://youtu.be/Veaq5cxzc2M'
 ---
 
 {% include youtube.html %}
