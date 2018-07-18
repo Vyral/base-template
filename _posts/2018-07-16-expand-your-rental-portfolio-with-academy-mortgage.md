@@ -8,7 +8,8 @@ excerpt: >-
   How can investors expand their rental portfolio with the help of Academy
   Mortgage? Today I’ve brought on special guest Damon Sorrell to discuss this
   critical question.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+simple+way+for+investors+to+expand+their+portfolio.mp4
 pullquote: Academy Mortgage offers loan products for investors of all experience levels.
 enclosure_type: video/mp4
 enclosure_time:
