@@ -15,18 +15,18 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: l0PMztfh-08
+youtube_code: 5wkC35DWiCQ
 ---
 
 {% include youtube.html %}
 
 At 1000 Calls A Day, we have an entire team of people who can help you with your outbound calls. **We have experience running outbound campaigns and looking at the numbers to help you understand how to get better results.**
 
-There is so much more than just making calls that goes into a successful outbound calling campaign. We recruit, test, train, and hire outbound callers for you. &nbsp;We do all of the work! However, we also handle all of the daily execution and tracking of of your outbound calling campaigns. &nbsp;We have a team of experts who track all of the analytics very carefully. We use this data to constantly make adjustments and improve the performance of your campaigns.&nbsp;
+There is so much more than just making calls that goes into a successful outbound calling campaign. We recruit, test, train, and hire outbound callers for you.  We do all of the work! However, we also handle all of the daily execution and tracking of of your outbound calling campaigns.  We have a team of experts who track all of the analytics very carefully. We use this data to constantly make adjustments and improve the performance of your campaigns. 
 
-We can monitor the quality of the data that you purchase, the performance of the person making the calls, the calling scripts, and all other potential variables. This requires advanced technology and a team of people. We handle all of this for you, and it would be nearly impossible for you to do this on your own. In this video we walk you through some of the detailed analytics that we track for you on a daily basis.&nbsp;
+We can monitor the quality of the data that you purchase, the performance of the person making the calls, the calling scripts, and all other potential variables. This requires advanced technology and a team of people. We handle all of this for you, and it would be nearly impossible for you to do this on your own. In this video we walk you through some of the detailed analytics that we track for you on a daily basis. 
 
-Many people do not understand how this works, though, so I thought that I would show you with the help of my colleague, Amber. I have included timestamps to make it easier for you to jump around to the parts of the&nbsp; you are most curious about.
+Many people do not understand how this works, though, so I thought that I would show you with the help of my colleague, Amber. I have included timestamps to make it easier for you to jump around to the parts of the  you are most curious about.
 
 {% include pullquote.html %}
 
