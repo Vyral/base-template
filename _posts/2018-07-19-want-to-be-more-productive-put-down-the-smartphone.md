@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to Be More Productive? Put Down the Smartphone
-date: 2018-07-11 15:08:00
+date: 2018-07-19 15:08:00
 tags:
   - Increase Business
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7Pmvt0oKsjk
+youtube_code: 34ii0CluMMw
 ---
 
 {% include youtube.html %}
