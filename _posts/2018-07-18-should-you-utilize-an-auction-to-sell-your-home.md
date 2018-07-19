@@ -26,9 +26,9 @@ Today I want to talk to you about real estate auctions. Is it an option that you
 
 {% include pullquote.html %}
 
-If you list your home with a professional agent who can give it great exposure and market it effectively, you are getting a much larger buyer pool than just the people who show up on buyer days. I generally do not see auctions (or auction sites) sell homes for top dollar.&nbsp;
+If you list your home with a professional agent who can give it great exposure and market it effectively, you are getting a much larger buyer pool than just the people who show up on buyer days. **I generally do not see auctions (or auction sites) sell homes for top dollar.&nbsp;**
 
-Over the last few years, we have seen a low inventory market and more multiple offer situations. With multiple offers, you can create an auction-like effect, but the price you get will generally be much higher.&nbsp;
+Over the last few years, we have seen a low inventory market and more multiple offer situations. With multiple offers, you can create an auction-like effect, **but the price you get will generally be much higher.&nbsp;**
 
 To get top dollar for your home, exposure is key and an auction is not the way to do that.
 
