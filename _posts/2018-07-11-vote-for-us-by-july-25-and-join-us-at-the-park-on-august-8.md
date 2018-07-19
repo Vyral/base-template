@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vote for Us by July 25 and Join Us at the Park on August 8
-date: 2018-07-11 19:17:43
+date: 2018-07-11 19:17:00
 tags:
 excerpt: >-
   We’d love your vote for the Post & Courier “Best of” competition. We’d also
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: V5CP_DHaXZo
+youtube_code: 8hAp-OUb-cw
 ---
 
 {% include youtube.html %}
@@ -28,5 +28,3 @@ We’ll have your tickets out in front at the game, and **f****or every ticket t
 With that, I look forward to seeing you on August 8, and I look forward to our team winning the Post & Courier “Best of” competition.
 
 If you have any questions for me in the meantime about the real estate market or about anything else, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
-
-&nbsp;
