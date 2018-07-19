@@ -36,7 +36,6 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: >-
     https://www.teamrobbins.com/results-gallery/?sort=importdate&status=A&custom=41826&area=2935,2922&hood=93950,5382593,594913,96694&city=6261&minprice=250000&proptype=SF,C,VT&photo=1
-  VR_form:
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
@@ -54,14 +53,6 @@ lender:
   phone: 555-555-5555
   email: bill@murray.com
   url: 'http://eyegoop.com'
-welcome_box:
-  welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
 socials:
   review_sm_icons: false
   facebook_url: 'http://facebook.com/RobbinsRealEstateGroup'
