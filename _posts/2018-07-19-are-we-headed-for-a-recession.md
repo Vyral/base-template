@@ -22,7 +22,7 @@ youtube_code: cS7rDQcUyIo
 
 {% include youtube.html %}
 
-Economists have forecasted a recession in our future, but what does that mean for us in the market? Here’s what you need to know.
+<p style="text-align: center;"><em>Economists have forecasted a recession in our future, but what does that mean for us in the market? Here’s what you need to know.</em></p>
 
 While summer is in full swing and many of you are probably visiting the shore to enjoy a swim in the calm ocean, it seems that our market is headed into a little bit of rough water due to projections of an upcoming recession. But when will this happen, and what will be the impact?
 
