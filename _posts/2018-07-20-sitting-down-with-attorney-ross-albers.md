@@ -37,6 +37,6 @@ Growing up in Northern Virginia, Ross was brought to Westminster by his wife, wh
 
 He has also helped coach lacrosse with Westminster Area Lacrosse (WAX), gotten involved with McDaniel College, and volunteers with the city for planning and zoning. He has developed roots and we think that Westminster is lucky to have him.
 
-To get in touch with Ross, you can visit his website [rossalbers.com](https://www.rossalbers.com/) or give him a phone call at (443) 457-3890. He says that he is also available through Facebook and other social media.
+To get in touch with Ross, you can visit his website [rossalbers.com](https://www.rossalbers.com/) or give him a phone call at (443) 457-3890. He is also available through Facebook and other social media.
 
 If you have any other questions for us, please feel free to contact us. We look forward to speaking with you soon.
