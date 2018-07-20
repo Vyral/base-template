@@ -22,7 +22,7 @@ youtube_code: cS7rDQcUyIo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Economists have forecasted a recession in our future, but what does that mean for us in the market? Here’s what you need to know.</em></p>
+*Economists have forecasted a recession in our future, but what does that mean for us in the market? Here’s what you need to know.*
 
 While summer is in full swing and many of you are probably visiting the shore to enjoy a swim in the calm ocean, it seems that our market is headed into a little bit of rough water due to projections of an upcoming recession. But when will this happen, and what will be the impact?
 
@@ -48,4 +48,4 @@ What’s interesting about this is that many homeowners who would ordinarily wan
 
 The economy works in cycles, and it looks like we’re headed to rough waters, so be sure that you’re making the right decisions to get the equity you have in your home out.
 
-If you’re thinking of putting your property on the market in the next three months to three years, come to our next free home seller seminar on Saturday, October 13, at the Port Washington Hilton Garden. Visit [www.homesharkseminar.com](www.homesharkseminar.com){: target="_blank"} for more information.
+If you’re thinking of putting your property on the market in the next three months to three years, come to our next free home seller seminar on Saturday, October 13, at the Port Washington Hilton Garden. Visit [www.homesharkseminar.com]( www.homesharkseminar.com){: target="_blank"} for more information.
