@@ -26,7 +26,7 @@ Second, remember that **knowledge is power when negotiating.** Whoever can capit
 
 {% include pullquote.html %}
 
-In either case, make sure you work with a good Realtor, because they will be able to understand what is going on behind the scenes and they will be able to gather the data you need to put yourself in the best possible position.
+In either case, make sure you work with a good Realtor because they will be able to understand what is going on behind the scenes and they will be able to gather the data you need to put yourself in the best possible position.
 
 Third, **know what your response will be.** If you are a buyer, are you putting yourself in a position where you will be working every day to pay your mortgage or do you have enough financial leeway to live your life and make updates as needed? As a seller, have you figured out your bottom line and do you know where you can sell your home at? Ideally, you will talk about these things with your Realtor before you enter into negotiations, but they are still crucial to the overall process.
 
