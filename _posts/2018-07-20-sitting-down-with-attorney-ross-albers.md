@@ -21,7 +21,9 @@ youtube_code: bMKQXvrxg8I
 
 {% include youtube.html %}
 
-<center>We had the opportunity to sit down and learn more about Ross Albers, a local attorney who is active in the community.</center>
+<center><em>We had the opportunity to sit down and learn more about Ross Albers, a local attorney who is active in the community.</em></center>
+
+&nbsp;
 
 As a local attorney, he handles a little bit of everything, including criminal cases, DUIs, traffic cases, personal injury cases, and even estate planning. There are five other attorneys on his team who help him handle most areas of law that people will come in contact with.
 
