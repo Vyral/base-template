@@ -22,7 +22,9 @@ youtube_code: 1LrCJzhYQ20
 
 {% include youtube.html %}
 
-<center>If there’s an abandoned house in your neighborhood that is pulling property prices down, we can help provide options for how to improve the situation.</center>
+<center><em>If there&rsquo;s an abandoned house in your neighborhood that is pulling property prices down, we can help provide options for how to improve the situation.</em></center>
+
+&nbsp;
 
 Imagine you’re driving through a neighborhood and you see a house that’s obviously not being taken care of—the grass is dead, cobwebs have taken over, and it appears to be abandoned. It’s interesting to know the backstory behind the house’s condition.
 
