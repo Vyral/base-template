@@ -23,7 +23,7 @@ youtube_code: dHpHq_gI910
 
 {% include youtube.html %}
 
-What should buyers and sellers expect from the inspection process? Today I will highlight three points to think about.
+<center>What should buyers and sellers expect from the inspection process? Today I will highlight three points to think about.</center>
 
 When scheduling a home inspection, there are a few things you should keep in mind. To give you a better idea of these considerations, I would like to share a brief list of what you should know before proceeding with the inspection process.
 
