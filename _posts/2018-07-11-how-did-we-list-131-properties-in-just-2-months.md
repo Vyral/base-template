@@ -23,35 +23,35 @@ youtube_code: zrOZbBELQ6U
 
 {% include youtube.html %}
 
-In the last 60 days, the Michael Kaim Team sold 131 properties. How do we get so many listings? How can you build your inventory so you can sell that many properties too?
+In the last 60 days, the Michael Kaim Team listed 131 properties. How do we get so many listings? How can you build your inventory so you can sell that many properties, too?
 
 To answer the first question, **we train our agents to constantly be doing lead generation activities.** In our world, that usually means prospecting, but there are lots of ways to get leads. For example, you can do what some agents do and buy their leads. You can also sit and wait for leads to come to you—someone from your Sphere of Influence (SOI) might call you, or you could sit at an open house.
 
-In our world, though, **we teach our agents how to prospect.** This method is repeatable, reliable, and it’s how we sell 131 listings in two months. When we prospect, there are many different sources we call, including expired listings, FSBOs, just-listeds and just-solds, open-house neighborhoods, and our past clients and SOI. 
+In our world, though, **we teach our agents how to prospect.** This method is repeatable, reliable, and it’s how we listed 131 properties in two months. When we prospect, there are many different sources we call, including expired listings, FSBOs, just-listeds and just-solds, open-house neighborhoods, and our past clients and SOI.&nbsp;
 
-What do we say once we have a lead on the phone? All of our agents are professionally scripted—we train them on what to say and how to say it. 
+What do we say once we have a lead on the phone? All of our agents are professionally scripted—we train them on what to say and how to say it.&nbsp;
 
 For example, if we’re on the phone with an expired listing or a withdrawn listing with releases, we’d say:
 
 *“Hi, this is Michael Kaim with Berkshire Hathaway HomeServices Professional Realty. I’m sure you’ve figured out your house came off the market as an expired listing, and I was calling to see when you plan on interviewing the right agent for the job of selling your home.”*
 
-If we’re calling a FSBO seller, the script changes slightly:
+If we’re calling a FSBO, the script changes slightly:
 
 *“Hi, this is Michael Kaim with Berkshire Hathaway HomeServices Professional Realty. I’m calling about the home for sale. Is this the owner? Hi, Mr. Smith, I’m doing a survey of all the for sale by owners in the area and I was calling to see if you sold this home, where would you go to next?”*
 
-Because we have so many buyers and a shortage of inventory, many times when we call FBSOs, we also say something along the lines of: 
+Because we have so many buyers and a shortage of inventory, many times when we call FSBOs, we also say something along the lines of:&nbsp;
 
 *“We need help. We have buyers. We’re looking for homes to sell. I service the area your home is in, and as an expert in the field, it’s my job to know all the inventory that’s available for sale. How much are you asking for the property?”*
 
 {% include pullquote.html %}
 
-Sometimes, those FSBOs will tell us that they don’t know any Realtors and that they’re interested in having us determine their home’s value. Boom—there’s a listing appointment. 
+Sometimes, those FSBOs will tell us that they don’t know any Realtors and that they’re interested in having us determine their home’s value. Boom—there’s a listing appointment.&nbsp;
 
 For just-listeds, the script is simple:
 
 *“Hi, this is Michael Kaim with Berkshire Hathaway HomeServices Professional Realty. I just listed a house over on Prospect Street. The address is 235 Prospect Street. It’s listed for $139,500 and I was wondering who you know who might be interested in buying in our neighborhood?”*
 
-For just-solds, we use the same script, but instead ask who they know who might be interested in selling. 
+For just-solds, we use the same script, but instead ask who they know who might be interested in selling.&nbsp;
 
 The script is easiest when it comes to our past clients and SOI:
 
@@ -59,6 +59,6 @@ The script is easiest when it comes to our past clients and SOI:
 
 Where do we get the phone numbers for all of our leads? **There’s a variety of different lead sources that’ll give you phone numbers,** though there might be a fee attached. REDX, for example, is a service you can use that will send you the numbers for expired listings, withdrawn listings, and the FSBOs. Forsalebyowner.com and Zillow are also great sources for numbers.
 
-It’s helpful to try expanding your territory to prospect and find leads. It’s not inappropriate to learn about other cities or communities in your area and start working them. You can also try revisiting the prospect at a later time—just because someone’s not an active FSBO now doesn’t mean they aren’t interested in selling sometime in the near future. Markets change, values change, and situations change. 
+It’s helpful to try expanding your territory to prospect and find leads. It’s not inappropriate to learn about other cities or communities in your area and start working them. You can also try revisiting the prospect at a later time—just because someone’s not an active FSBO now doesn’t mean they aren’t interested in selling sometime in the near future. Markets change, values change, and situations change.&nbsp;
 
-If you need any more tips on prospecting, lead generating, building your inventory, or you have any other questions for us, don’t hesitate to give us a call. We’d love to speak with you.
+If you need any more tips on prospecting, lead generating, building your inventory, or you have any other questions for us, set up a free strategy call **[here](https://neohiorealestatecareer.com/strategy-call/){: target="_blank"}**. We’d love to speak with you.
