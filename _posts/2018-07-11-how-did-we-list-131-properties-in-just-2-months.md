@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How Did We Sell 131 Properties in Just 2 Months?
+title: How Did We List 131 Properties in Just 2 Months?
 date: 2018-07-11 11:00:00
 tags:
   - Lead Generation
 excerpt: >-
-  Today I’m joined my sister and the COO of the Michael Kaim Team, Tina Havor,
+  Today I’m joined my sister and the COO of the Michael Kaim Team, Tina Hivnor,
   to answer an important question: How do we get so many leads? We get them by
   training our agents to constantly be doing lead generation activities. There
   are many ways to get leads, but in our world, we teach our agents how to
