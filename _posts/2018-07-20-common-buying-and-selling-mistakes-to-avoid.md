@@ -19,7 +19,7 @@ youtube_code: trerH1-E318
 
 {% include youtube.html %}
 
-Homebuyers and home sellers continue to make the same silly mistakes. Here’s a quick rundown of what they are and how you can avoid them.
+<p style="text-align: center;"><em>Homebuyers and home sellers continue to make the same silly mistakes. Here’s a quick rundown of what they are and how you can avoid them.</em></p>
 
 Today I want to talk about some common mistakes that I see homebuyers and sellers continue to make.&nbsp;
 
