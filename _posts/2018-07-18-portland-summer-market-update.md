@@ -17,7 +17,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Hatch/+Videos/2018/Portland+Real+Estate+Agent-+Market+Update.mp4
 pullquote: >-
   A study from the MLS discovered that on average within a five-year period,
-  homeowners increased their equity by a $121,000.
+  homeowners increased their equity by $121,000.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
