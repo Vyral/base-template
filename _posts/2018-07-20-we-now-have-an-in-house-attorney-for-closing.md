@@ -20,7 +20,9 @@ youtube_code: 9dhDv-tjOmU
 
 {% include youtube.html %}
 
-<center>Today I have some exciting news that I want to share with you.</center>
+<center><em>Today I have some exciting news that I want to share with you.</em></center>
+
+&nbsp;
 
 Today I want to share some exciting news about a new resource we are offering our clients. We now have an in-house, preferred attorney.
 
