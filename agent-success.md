@@ -6,9 +6,7 @@ permalink: /agent-success/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLccsjnDvchgYD9xu4bv6Xi7VH8Vz8Ygbx" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
-# Jennie Wolek
-
-https://youtu.be/3vIXlvQCFGM&nbsp;
+# &nbsp;
 
 &nbsp;
 
