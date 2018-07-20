@@ -7,13 +7,16 @@ tags:
 excerpt: >-
   We had the opportunity to sit down and learn more about Ross Albers, a local
   attorney who is active in the community.
-enclosure:
-pullquote:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Sitting+Down+With+Attorney+Ross+Albers.mp4
+pullquote: >-
+  Ross is very active in the community being involved with the Boys & Girls Club
+  as well as WAX.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/nick-kellar-july-2-screen-shot-no-play.jpg
+youtube_code: bMKQXvrxg8I
 ---
 
 {% include youtube.html %}
@@ -30,7 +33,7 @@ Growing up in Northern Virginia, Ross was brought to Westminster by his wife, wh
 
 {% include pullquote.html %}
 
-He has also helped coach lacrosse with WAX, gotten involved with McDaniel College, and volunteers with the city for planning and zoning. He has developed roots and we think that Westminster is lucky to have him.
+He has also helped coach lacrosse with Westminster Area Lacrosse (WAX), gotten involved with McDaniel College, and volunteers with the city for planning and zoning. He has developed roots and we think that Westminster is lucky to have him.
 
 To get in touch with Ross, you can visit his website [rossalbers.com](https://www.rossalbers.com/) or give him a phone call at (443) 457-3890. He says that he is also available through Facebook and other social media.
 
