@@ -312,5 +312,4 @@ permalink: /agent-success/
 &nbsp;
 
 &nbsp;
-Agent Success Secrets with Jennie Wolek- Haro Setian, Greenville, SC- Keller Williams Realty
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KqgiuownMFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
