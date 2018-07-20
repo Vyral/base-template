@@ -48,4 +48,4 @@ What’s interesting about this is that many homeowners who would ordinarily wan
 
 The economy works in cycles, and it looks like we’re headed to rough waters, so be sure that you’re making the right decisions to get the equity you have in your home out.
 
-If you’re thinking of putting your property on the market in the next three months to three years, come to our next free home seller seminar on Saturday, October 13, at the Port Washington Hilton Garden. Visit <a href="http://www.homesharkseminar.com//?" target="_blank">{: target="_blank"}>www.homesharkseminar.com<a/> for more information.
+If you’re thinking of putting your property on the market in the next three months to three years, come to our next free home seller seminar on Saturday, October 13, at the Port Washington Hilton Garden. Visit <a href="http://www.homesharkseminar.com//?" target="_blank">www.homesharkseminar.com<a/> for more information.
