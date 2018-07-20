@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/kevin-langan-july-1-ss-no-play.jpg
 youtube_code: dHpHq_gI910
 ---
 
