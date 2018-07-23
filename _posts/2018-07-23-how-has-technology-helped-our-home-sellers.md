@@ -21,6 +21,8 @@ youtube_code: MiWi3Cb_9GY
 
 {% include youtube.html %}
 
+Technology has changed the real estate market for better, especially for home sellers. Here’s how.
+
 As many of you know, I come from a production background and photography is one of my hobbies. Photography, and technology in general, has really made a huge difference in the real estate industry in the last decade or so. **Today I want to talk about how this technology has really helped our sellers sell their homes.**
 
 For all of our seller’s listings, we have a professional photographer who comes out to take pictures. We also utilize a full video tour that incorporates drone photography to give buyers a really good idea of what a property actually looks like.
