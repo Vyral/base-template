@@ -19,11 +19,11 @@ youtube_code: 'https://youtu.be/O_trLlhIaGI'
 
 {% include youtube.html %}
 
-The rules say that you have to hit people at least three times before you get a positive return from neighborhood farming, but every single time I hit my neighborhood, I end up with at least one listing.&nbsp;
+The rules say that you have to hit people at least three times before you get a positive return from neighborhood farming. However every single time I hit my neighborhood, I end up with at least one listing.&nbsp;
 
 How?&nbsp;
 
-You have to be consistent with your touches and remember that **the meaningful touches are what make the difference.** It’s not how many postcards or emails you can send someone—it’s what value you can provide them whenever you touch that particular farm. If you send someone a postcard that talks only about yourself, how good you are, and how much you need their listing, nobody will care. What they care about is the value proposition you offer them.
+You have to be consistent with your touches and remember that **meaningful touches are what make the difference.** It’s not how many postcards or emails you can send someone—it’s what value you can provide them whenever you touch that particular farm. If you send someone a postcard that talks only about yourself, how good you are, and how much you need their listing, nobody will care. What they care about is the value proposition you offer them.
 
 {% include pullquote.html %}
 
