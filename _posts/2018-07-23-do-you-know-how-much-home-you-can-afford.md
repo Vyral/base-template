@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Know How Much Home You Can Afford?
-date:
+date: 2018-07-23 20:24:14
 tags:
   - Real Estate
 excerpt: >-
