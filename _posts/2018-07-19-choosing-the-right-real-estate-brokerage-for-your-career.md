@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing the Right Real Estate Brokerage for Your Career
-date: 2018-07-19 16:48:40
+date: 2018-07-19 16:48:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/frank-gray-ss-july-1-no-play.jpg
-youtube_code: ASddRdv4RkM
+youtube_code: _xIIYKOSMDY
 ---
 
 {% include youtube.html %}
