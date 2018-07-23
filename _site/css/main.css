@@ -1192,9 +1192,9 @@ html[xmlns] .flexslider .slides {
   .lender .lender-headshot img {
     width: 100%; }
   .lender .lender-logo {
-    margin-left: 25%; }
+    margin-left: 13%; }
     .lender .lender-logo img {
-      width: 200px; }
+      width: 75%; }
   .lender .lender-info {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -1276,108 +1276,6 @@ html[xmlns] .flexslider .slides {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
-#welcome-box form {
-  padding-left: 30px; }
-
-.welcome-0-height {
-  max-height: 0; }
-
-.welcome-box {
-  background: #701400;
-  padding: 20px 0px;
-  color: white;
-  margin-top: -21px;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  margin-bottom: 20px;
-  max-height: 0px;
-  overflow: hidden;
-  font-size: 18px; }
-
-.welcome-box-seen-before {
-  max-height: 1000px;
-  opacity: 1;
-  -webkit-transform: translateX(0);
-          transform: translateX(0);
-  background: #701400;
-  padding: 20px 0px;
-  color: white;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  padding: 20px 0px; }
-
-.add-welcome-box {
-  -webkit-transform: translateY(-1000px);
-          transform: translateY(-1000px);
-  -webkit-animation: 1s drop-down ease-in-out forwards;
-          animation: 1s drop-down ease-in-out forwards;
-  -webkit-animation-delay: 1s;
-          animation-delay: 1s;
-  -webkit-animation-iteration-count: 1;
-          animation-iteration-count: 1; }
-
-.remove-welcome-box {
-  -webkit-animation: 1s pull-up ease-in-out forwards;
-          animation: 1s pull-up ease-in-out forwards; }
-
-@-webkit-keyframes drop-down {
-  0% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; } }
-
-@keyframes drop-down {
-  0% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; }
-  100% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; } }
-@-webkit-keyframes pull-up {
-  0% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; }
-  100% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; } }
-@keyframes pull-up {
-  0% {
-    -webkit-transform: translateX(0);
-            transform: translateX(0);
-    max-height: 1000px; }
-  100% {
-    -webkit-transform: translateY(-1000px);
-            transform: translateY(-1000px);
-    max-height: 0; } }
-.welcome-exit {
-  position: absolute;
-  right: 1rem;
-  top: 1rem;
-  color: white;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s;
-  cursor: pointer; }
-  .welcome-exit:hover {
-    color: #d62600; }
-  .welcome-exit:focus {
-    outline: 0;
-    border: 0; }
-
-.welcome-hidden-margin {
-  margin-bottom: 20px; }
-
-#welcome::before {
-  display: table; }
-@-moz-document url-prefix() {
-  #welcome::before {
-    display: inline-block; } }
 .jp-audio {
   border: 0;
   color: #701400;
@@ -1550,12 +1448,12 @@ html[xmlns] .flexslider .slides {
     box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #999;
+  background: #999999;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #999;
+  background: #999999;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -2811,84 +2709,56 @@ form select {
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
-.newsletter {
-  background: #701400;
-  color: white;
-  text-align: center;
-  padding: 1rem; }
-  .newsletter p {
-    margin-bottom: 1.5rem; }
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
 
-.newsletter_optin {
-  max-width: 50rem;
-  margin: 3rem auto;
-  margin-bottom: 0rem;
-  margin-top: 4.5rem; }
-  .newsletter_optin input {
-    vertical-align: middle; }
-  .newsletter_optin input[type='email'] {
-    border-radius: 0px;
-    background: rgba(255, 255, 255, 0.3);
-    border: 1px solid white;
-    color: #701400;
-    font-size: 2rem;
-    padding: 1.3rem;
-    height: auto;
-    width: 70%;
-    display: inline-block;
-    margin-right: 1rem;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
-    .newsletter_optin input[type='email']::-webkit-input-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']::-moz-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:-moz-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:-ms-input-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:focus {
-      background: white;
-      color: #701400;
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-      .newsletter_optin input[type='email']:focus::-webkit-input-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus::-moz-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus:-moz-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
-        color: transparent; }
-  .newsletter_optin input[type="submit"] {
-    background: transparent;
-    color: white;
-    padding: 1.3rem 2rem;
-    text-transform: capitalize;
-    font-size: 2rem;
-    border-radius: 0px;
-    font-weight: 300;
-    border: 1px solid white;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
-    .newsletter_optin input[type="submit"]:hover {
-      background: transparent;
-      color: white;
-      box-shadow: 4px 4px 0 #d62600;
-      border: 1px solid #d62600;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #701400;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
 
-@media (max-width: 1113px) {
-  .newsletter_optin input[type="submit"], .newsletter_optin input[type="email"] {
-    margin: 10px auto;
-    width: 90%; } }
+.e2ma_signup_form_required_asterix {
+  color: #701400 !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #701400;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #701400;
+  Border: 1px solid #701400; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
+
 .cta {
   background: #ffffff;
   color: #123456;
