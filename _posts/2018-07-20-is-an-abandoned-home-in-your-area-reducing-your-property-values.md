@@ -26,7 +26,7 @@ youtube_code: 1LrCJzhYQ20
 
 &nbsp;
 
-Imagine you’re driving through a neighborhood and you see a house that’s obviously not being taken care of—the grass is dead, cobwebs have taken over, and it appears to be abandoned. It’s interesting to know the backstory behind the house’s condition.
+Imagine you’re driving through a neighborhood and you see a house that’s obviously not being taken care of—the grass is dead, cobwebs have taken over, and it appears to be abandoned. A home like this can provide an interesting backstory, and more importantly, provide you as a buyer a great opportunity.
 
 Truthfully, these sort of homes may present an opportunity for you as a buyer. One of the things we pride ourselves on is doing that research for you. **We just need the address, and then we’ll go into detective-mode, doing anything from pull tax records to doing property profiles to even contacting the city**.
 
