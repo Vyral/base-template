@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/3-reasons-to-hire-a-real-estate-professional-when-buying.html</loc>
+<lastmod>2018-06-28T16:34:29-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/what-1-organization-is-doing-to-address-childhood-hunger.html</loc>
+<lastmod>2018-06-22T11:36:27-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/should-you-get-a-raised-garden-bed-this-season.html</loc>
+<lastmod>2018-06-22T11:31:14-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/emergency-infant-services-where-struggling-tulsa-families-can-find-help.html</loc>
+<lastmod>2018-06-22T11:25:23-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/7-tips-for-decluttering-your-home.html</loc>
+<lastmod>2018-06-22T11:20:02-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/we-are-looking-for-homes-to-sell.html</loc>
+<lastmod>2018-06-22T11:13:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/tulsa-real-estate-agent-community-spotlight-global-gardens.html</loc>
 <lastmod>2018-03-22T11:20:00-05:00</lastmod>
 </url>
@@ -99,5 +123,8 @@
 </url>
 <url>
 <loc>localhost:4000/page3/</loc>
+</url>
+<url>
+<loc>localhost:4000/page4/</loc>
 </url>
 </urlset>
