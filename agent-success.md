@@ -102,13 +102,6 @@ permalink: /agent-success/
 &nbsp;
 
 &nbsp;
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U2xSbJ6lSQE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-# &nbsp;
-
-&nbsp;
-
-&nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zk14pVsA27Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # &nbsp;
