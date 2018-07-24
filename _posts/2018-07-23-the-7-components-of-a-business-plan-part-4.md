@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Seven Components of a Business Plan: Part 4'
-date: 2018-07-23 17:02:47
+title: 'The 7 Components of a Business Plan: Part 4'
+date: 2018-07-23 17:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,11 +19,11 @@ youtube_code: QwIhMp2p8ac
 
 {% include youtube.html %}
 
-Today we are continuing our series on the seven components of a business plan. This time we’ll be &nbsp;discussing strategic goals.
+Today we are continuing our series on the seven components of a business plan. This time we’ll be discussing strategic goals.
 
-We talked previously about how you need to break everything down in terms of how many sales you have to make. Of course, it is going to come down to how you are making your sales, how you are getting your leads to get your sales, and how many contacts you have to get that.
+We talked previously about how you need to break everything down in terms of how many sales you have to make. Of course, it is going to come down to how you are making your sales, how you are getting your leads to get your sales, and how many contacts you need to get those sales.
 
-However, if you have to have three open houses to get one buyer, and you want to do 24 sales this year, then you are going go have to about 75 open houses.
+However, if you have to have three open houses to get one buyer, and you want to do 24 sales this year, then you are going to have about 75 open houses.
 
 {% include pullquote.html %}
 
