@@ -22,7 +22,7 @@ youtube_code: t8E8CFbXVP0
 
 Today’s topic is the first of my six-part series about tips sellers can use to make the most money possible in the shortest amount of time when selling their home.
 
-**To begin—staging.** First, I recommend **declutter your home.** If you have not used an item you own in the last year, or if you don’t plan to use it in the next year, throw it away or donate it. Anything that is trash can be discarded, and everything else can be stored in your garage or basement. Buy totes and labels so that, when you’ve finished packing, everything is organized and clearly marked.
+**My first tip is to stage your home, and the first step to staging is decluttering.** If you have not used an item you own in the last year, or if you don’t plan to use it in the next year, throw it away or donate it. Anything that is trash can be discarded, and everything else can be stored in your garage or basement. Buy totes and labels so that, when you’ve finished packing, everything is organized and clearly marked.
 
 If your home looks too cluttered for you, then a potential buyer will probably feel the same way.
 
@@ -30,7 +30,7 @@ If your home looks too cluttered for you, then a potential buyer will probably f
 
 In the event you are separated from your partner or getting a divorce, you should still want the home to look loving; the MLS shows both owners’ names and it will reflect on the both of you. Further still, when potential buyers walk into a home and see empty closets or pictures of a family that no longer entirely lives there, they might feel that the home is cold and distant. Sometimes, your home is even referred to as a “divorce” home. Even though it might not be your favorite thing to do, **keep the home as warm and inviting as possible.**
 
-Many staging companies recommend you take out such personal items such as family photos, however I highly disagree with this recommendation. When I have walked potential buyers around a home, they look at the photos to see that the family is happy. They notice if a room belonged to a little girl or boy; features like this help the home sell. Nobody likes a sterile home where it feels as if someone may have recently passed away there.
+Many staging companies recommend that you remove personal items from the home, such as family photos. However, I highly disagree with this recommendation. When I have walked potential buyers around a home, they look at the photos to see that the family is happy. They notice if a room belonged to a little girl or boy; features like this help the home sell. Nobody likes a sterile home where it feels as if someone may have recently passed away there.
 
 Finally, you should hire someone to clean and detail your house like you would with a car you were selling. Having them clean your baseboards, carpets, windows, etc., is **a cheap way to help you make the most money from your home sale.**
 
