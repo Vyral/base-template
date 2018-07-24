@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Best Way to Buy and Sell at the Same Time?
-date: 2018-07-24 19:53:45
+date: 2018-07-24 19:53:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/buying-and-selling-youtube.jpg
 youtube_code: 4X6YylXOr5s
 ---
 
