@@ -29,7 +29,7 @@ youtube_code: 4zQvihQ1--s
 
 Why is it important to use an experienced, local agent in your next home sale?
 
-Truthfully, all agents use the MLS for comparable data. It’s a really great source; however, there are a number of other factors that you should consider, as a homeowner, when pricing your home for the market.
+Truthfully, all agents use the MLS for comparable data. It’s a really great source; however, there are a number of other factors that homeowners should consider when pricing their home for the market.
 
 One of these factors includes the homes that sold which weren’t actually on the market. To find out that information, **you’d need to use an agent who knows the local market,** who’s moving in and out, and what those homes were sold for. That data won’t be found on the MLS.
 
