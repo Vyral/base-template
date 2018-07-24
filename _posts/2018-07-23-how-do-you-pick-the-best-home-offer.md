@@ -20,15 +20,15 @@ youtube_code: 'https://youtu.be/ZYBHh4fZgf0'
 
 If you’re a seller in Tucson, you should know that our market is very hot right now.
 
-I’m sure those who keep up with the market trends know that by now, and also that it’s not uncommon to receive multiple offers on a property.
+I’m sure those who keep up with the market trends know that by now, and also that it’s common to receive multiple offers on a property.
 
-Today, I’d like to point out the fact that the highest offer isn’t necessarily the best offer. **Price is only one of the many variables of a purchase contract.**
+Today I’d like to point out the fact that the highest offer isn’t necessarily the best offer. **Price is only one of the many variables of a purchase contract.**
 
 {% include pullquote.html %}
 
 A cash offer may be for less than a mortgaged offer, and a mortgaged offer might be more desirable to some sellers. A **cash buyer has fewer contingencies, therefore, fewer outs to the contract.**
 
-My suggestion to sellers is to **rely on your licensed, professional real estate agent to help you sort out which of those contracts is the one that should accept.**
+My suggestion to sellers is to **rely on your licensed, professional real estate agent to help you sort out which of those contracts is the one that you should accept.**
 
 If you have any questions or are in need of professional help to guide you through your next transaction, please reach out to me. I’d be glad to assist you.
 
