@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Are Rising Interest Rates Scaring You Back on to the Fence?
-date: 2018-07-23 22:02:30
+title: Are Rising Interest Rates Scaring You Back onto the Fence?
+date: 2018-07-23 22:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,11 +24,11 @@ youtube_code: QTuTuZk6sa0
 
 It is July and the heat of the summer is upon us. This is why I wanted to take a quick look at the current market and what we are seeing in Louisville and Southern Indiana.
 
-We are seeing something now that we have not seen in the past couple of month; **there is a slowdown in our market**. We have analyzed the market data to discover that increasing interest rates are causing buyers to go back onto the fence about if it is a good idea or not.
+We are seeing something now that we have not seen in the past couple of months; **there is a slowdown in our market**. We have analyzed the market data and discovered that increasing interest rates are causing buyers to go back onto the fence about if it is a good idea or not.
 
 If you are among those unsure people, you may be thinking that interest rates will go down again. However, Randy Raque of Swan Financial says the following:
 
-“If you look at what has happened historically we are still very low on interest rates and I do not see them dropping at all. In fact, I only see them ticking up over the next year, if I had to guess, between a half a point to a point.”
+“If you look at what has happened historically, we are still very low on interest rates and I do not see them dropping at all. In fact, I only see them ticking up over the next year, if I had to guess, between a half a point to a point.”
 
 {% include pullquote.html %}
 
@@ -38,6 +38,6 @@ So, if you are on the fence thinking that you will wait until interest rates dec
 
 If you are a seller and your home has not had any showings in the past month, that means according to the national statistics, that you are at least 10% overpriced. No matter who you are listed with, you want to talk to your agent about reducing your price. If you have had 10 showings in the past month but no offers, nationally the numbers show that you still may be 5% to 7% overpriced.
 
-As a seller you need to take in that information and understand that although we are still in a seller's market, it is not as hot as it was just a month ago. Since we do not have crystal balls to show us the future, my suggestion is to get ahead of the market by bringing down the price a little.
+As a seller you need to take in that information and understand that although we are still in a seller's market, it is not as hot as it was just a month ago. Since we do not have crystal ball to show us the future, my suggestion is to get ahead of the market by bringing down the price a little.
 
 If you have any questions about this or are interested in buying or selling, please feel free to call or email me. I look forward to speaking with you soon.
