@@ -27,7 +27,7 @@ youtube_code: 4zQvihQ1--s
 
 {% include youtube.html %}
 
-Why is it important to use an experienced, local agent in your next home sale
+Why is it important to use an experienced, local agent in your next home sale?
 
 Truthfully, all agents use the MLS for comparable data. It’s a really great source; however, there are a number of other factors that you should consider, as a homeowner, when pricing your home for the market.
 
