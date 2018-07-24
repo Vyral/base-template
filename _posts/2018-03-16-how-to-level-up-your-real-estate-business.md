@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/recruiting-class-youtube.jpg
-youtube_code: wWIQCvbOS_8
+youtube_code:ukd-NMGTiJE
 ---
 
 {% include youtube.html %}
 
-Today I’m joined by Sarah Michelle Bliss, who has been by my side for the last 20 years of my real estate career. She's a great success coach, author, and real estate trainer. **We’ve put together a great class on Tuesday, April 10 from 5:00 p.m. to 8:00 p.m. that we want to tell you about.**
+Today I’m joined by Sarah Michelle Bliss, who has been by my side for the last 20 years of my real estate career. She's a great success coach, author, and real estate trainer. **We’ve put together a great class on Thursday, July 26th from 3:00 p.m. to 6:00 p.m. that we want to tell you about.**
 
 It’s called [**“10 Ways to Level Up Your Real Estate Business”**](http://www.joinrmxprofessionals.com/Registration){: target="_blank"} and **we will be walking you through a ton of information to help you become more proficient and get the most out of the hours that you are working.**
 
