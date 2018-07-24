@@ -25,6 +25,8 @@ youtube_code: bMKQXvrxg8I
 
 &nbsp;
 
+Ross Albers joins us today for another business spotlight to tell us about what he does in his law office.
+
 As a local attorney, he handles a little bit of everything, including criminal cases, DUIs, traffic cases, personal injury cases, and even estate planning. There are five other attorneys on his team who help him handle most areas of law that people will come in contact with.
 
 Recently, Ross has been growing his practice. **He hopes to continue that growth by acquiring and merging with law firms operated by older attorneys who may want to retire**. Instead of having the other attorneys that work under those professionals also leave the firm, Ross hopes to keep their practices alive by having those attorneys work for him. This allows him to add other practice areas as well as more value to his clients.
