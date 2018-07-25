@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buying-and-selling-youtube.jpg
-youtube_code: 4X6YylXOr5s
+youtube_code: m83PA2MdJVw
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ The first thing you will want to do is look at your finances and get pre-qualifi
 
 If you qualify to buy a new home before you sell your current home, you should know that after you purchase your new home, **you will have to carry two mortgages.** You need to make sure that you feel comfortable doing this. Also, you will now know exactly how much equity you are going to get out of your current home.
 
-Meanwhile, **an advantage of selling first is that you do not have to worry about a home sale contingency.** This puts you in much stronger negotiating position as a buyer because it is one less contingency the seller has to worry about.
+Meanwhile, **an advantage of selling first is that you do not have to worry about a home sale contingency.** This puts you in a much stronger negotiating position as a buyer because it gives the seller one less contingency to worry about.
 
 {% include pullquote.html %}
 
