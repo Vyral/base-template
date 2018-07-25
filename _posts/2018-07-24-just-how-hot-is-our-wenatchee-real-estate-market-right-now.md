@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Just How Hot Is Our Wenatchee Real Estate Market Right Now?
-date: 2018-07-24 21:11:19
+date: 2018-07-24 21:11:00
 tags:
 excerpt: >-
   What’s going on in our real estate market right now? Today I would like to
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mclean-youtube-5.jpg
-youtube_code: LWBcZ0SALkI
+youtube_code: zSobq2iVFXw
 ---
 
 {% include youtube.html %}
