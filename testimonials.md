@@ -33,7 +33,17 @@ We want on your calendar Jennie Wolek! Norman, OK fills the rooms to see Jennie 
 Jennie Wolek came to our market center in Littleton, CO a month ago and knocked it out of the park! Not only is she as sweet as can be with an infectious smile, she's super successful and smart! She shared so much stuff during our class. Sphere contact ideas, goal setting, leveraging, and video! She is worth every minute you get to spend with her and more!
 </p>
 <p class="testimonial-author">
-- Kathy Hanson, Denver, CO, Agent</p><hr /></div>
+- Kathy Hanson, Denver, CO, Agent
+</p>
+<hr>
+
+<p class="testimonial-text">
+One day I was on Facebook and somehow managed to click on one of Jennie’s ads or links floating around; that link led me to Jennie’s Facebook page which I gave a “like”. Since then, I’ve been receiving value and useful tools for my business. I have been a realtor for over 2 years now with Keller Williams Arlington and I love it. I watch and listen to all the “Your Journey with Jennie” videos. The videos are great insight for someone who is new and to see what my business can be now and in 3-5 years.
+</p>
+<p class="testimonial-author">
+- Cooper Williams, Arlington, TX, Realtor 
+</p>
+<hr>
 
 &nbsp;
 {: .testimonial-text.present-before-paste}
