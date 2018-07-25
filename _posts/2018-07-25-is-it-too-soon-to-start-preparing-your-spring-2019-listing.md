@@ -26,16 +26,16 @@ youtube_code: fhZRlqW4Rdo
 
 {% include youtube.html %}
 
-Spring is one of the best times to sell your home quickly and for top dollar. If you’re thinking of listing next spring, it isn’t too soon to start getting ready. The season may seem far off, but now is actually the perfect time to prepare.&nbsp;
+Spring is one of the best times to sell your home quickly and for top dollar. If you’re thinking of listing next spring, it isn’t too soon to start getting ready. The season may seem far off, but now is actually the perfect time to prepare. 
 
-Why? Well, consider this: **Frost and snow from the winter and early spring months don’t do a lot of favors for your curb appeal.** If you wait to take pictures of your listing until right before you sell in the spring, you could be stuck with drab, grey photos.&nbsp;
+Why? Well, consider this: **Frost and snow from the winter and early spring months don’t do a lot of favors for your curb appeal.** If you wait to take pictures of your listing until right before you sell in the spring, you could be stuck with drab, grey photos. 
 
-This is exactly why now is the time to prepare for your spring sale. Right now, our team is offering free photography and staging services to anyone looking to list this coming spring. And for sellers who live on an acreage or lake, we also offer drone filming services. **This way, you can capture photos and videos of your property while the landscape is still green** and the skies are still blue.&nbsp;
+This is exactly why now is the time to prepare for your spring sale. Right now, our team is offering free photography and staging services to anyone looking to list this coming spring. And for sellers who live on an acreage or lake, we also offer drone filming services. **This way, you can capture photos and videos of your property while the landscape is still green** and the skies are still blue. 
 
 {% include pullquote.html %}
 
 We would love to meet with you to sit down and discuss the ways you should prepare your home over the next five to six months. Our team has all the processes in place necessary to help you maximize the equity in your home when it comes time to sell.
 
-**If you’re thinking of selling your home in 2019, please reach out to us today.** We want to help you get your home in the best condition.&nbsp;
+**If you’re thinking of selling your home in 2019, please reach out to us today.** We want to help you get your home in the best condition. 
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. I look forward to hearing from you soon.
