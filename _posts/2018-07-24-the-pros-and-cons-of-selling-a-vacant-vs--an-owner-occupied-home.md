@@ -5,11 +5,7 @@ date: 2018-07-24 14:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
-  Which type of listing is better: owner-occupied or vacant? Today I will
-  highlight the advantages and disadvantages of both. For one thing, vacant
-  homes may be easier to show, but they can also attract criminal activity. An
-  owner-occupied home, on the other hand, may be safer, but could also be more
-  inconvenient. To learn more, watch my latest video.
+  Today I am discussing the advantages and disadvantages of selling your home vacant versus selling your home while you occupy it.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+Realty+Solution-+Selling+a+Vacant+Property+vs+Occupied+Property.mp4
 pullquote: >-
@@ -24,6 +20,7 @@ youtube_code: fvwN7rWzp4E
 
 {% include youtube.html %}
 {: .present-before-paste}
+<p style="text-align: center;"><em>Today I am discussing the advantages and disadvantages of selling your home vacant versus selling your home while you occupy it.</em></p>
 
 Today I want to talk about the advantages and disadvantages of selling a vacant property versus selling an owner-occupied property. I will start by discussing the pros and cons of selling a vacant property.
 {: .present-before-paste}
@@ -34,13 +31,13 @@ The **first advantage of showing a vacant property is that it is easier to show.
 **Vacant homes also do not need to be kept in great shape.** The buyer knows when we open the door that it will look like nobody lives there, so it shows perfectly every time. Even better, we will not have to interrupt you since you do not live there.
 {: .present-before-paste}
 
-Finally, **some buyers have an easier time visualizing a vacant property.** They can go into the home and say what they want to use the room for and how the property will look for them.
+Finally, **some buyers have an easier time visualizing a vacant property.** They can go into the home and decide what they want to use each room for and how the property will look for them.
 {: .present-before-paste}
 
-The cons of showing a vacant property, meanwhile, are that it may be a little distracting to hear everything. **Photos of a vacant home may attract criminals.** People know that nobody’s watching over the property, so they may take advantage of the opportunity.
+One of the cons of showing a vacant property, meanwhile, is that it may be a little distracting to hear everything. **Photos of a vacant home may also attract criminals.** People know that nobody’s watching over the property, so they may take advantage of the opportunity.
 {: .present-before-paste}
 
-**A big downside to selling a vacant home is that it can signal urgency.** If the buyer goes through the home, they may think that seller has two mortgages, two sets of property taxes, etc. and that they may be open to taking a lower offer.
+**Another big downside to selling a vacant home is that it can signal urgency.** If the buyer goes through the home, they may think that seller has two mortgages, two sets of property taxes, etc. and that they may be open to taking a lower offer.
 {: .present-before-paste}
 
 {% include pullquote.html %}
