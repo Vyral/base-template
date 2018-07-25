@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Hot Is the Leavenworth Market Right Now?
-date: 2018-07-24 21:17:14
+date: 2018-07-24 21:17:00
 tags:
 excerpt: >-
   What’s going on in our Cashmere and Leavenworth real estate markets? Allow me
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/mclean-youtube-6.jpg
-youtube_code: AF55eIQj5yc
+youtube_code: VCP6JFGwhn4
 ---
 
 {% include youtube.html %}
