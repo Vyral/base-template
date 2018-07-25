@@ -26,11 +26,11 @@ What does the selling process look like, and how does my team’s approach diffe
 
 **Most Realtors use what’s called the “3 P Method” when helping clients sell their home.** As the name implies, this involves three steps:
 
-- Putting a sign in the yard.
+Putting a sign in the yard.
 
-- Putting the home on the multiple listing service.
+Putting the home on the multiple listing service.
 
-- Praying that it sells.
+Praying that it sells.
 
 These things are a good start, and our team follows all the same main steps as most other agents, but we also do so much more. Today I’d like to give you a brief overview of how my team and I approach the selling process.
 
