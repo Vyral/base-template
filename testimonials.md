@@ -37,3 +37,10 @@ Jennie Wolek came to our market center in Littleton, CO a month ago and knocked 
 </p>
 <hr>
 </div>
+<p class ="testimonial-text">
+Jennie Wolek came to our market center in Littleton, CO a month ago and knocked it out of the park!  Not only is she as sweet as can be with an infectious smile, she's super successful and smart!  She shared so much stuff during our class.  Sphere contact ideas, goal setting, leveraging, and video!  She is worth every minute you get to spend with her and more!
+</p>
+<p class="testimonial-author">
+- Kathy Hanson, Denver, CO, Agent
+</p>
+<hr>
