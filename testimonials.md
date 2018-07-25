@@ -45,7 +45,3 @@ One day I was on Facebook and somehow managed to click on one of Jennie’s ads 
 </p>
 <hr>
 
-&nbsp;
-{: .testimonial-text.present-before-paste}
-
----
