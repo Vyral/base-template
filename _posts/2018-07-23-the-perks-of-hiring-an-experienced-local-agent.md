@@ -37,7 +37,7 @@ You should also keep in mind that an agent who is familiar with the area has an 
 
 {% include pullquote.html %}
 
-This intimate market knowledge also applies to those buying a home. A buyer might want to know what is around the home they’re looking to buy, what features in the neighborhood might make that home more appealing. They might also want to know why a similar home just a few doors down sold six months ago for much more than this home. **A local agent who has looked into those properties would be able to give a much clearer answer than an agent who lives significantly far out of the market area.**
+This intimate market knowledge also applies to those buying a home. A buyer might want to know what is around the home they’re looking to buy, and what features in the neighborhood might make that home more appealing. They might also want to know why a similar home just a few doors down sold six months ago for much more than this home. **A local agent who has looked into those properties would be able to give a much clearer answer than an agent who lives significantly far out of the market area.**
 
 Additionally, a local agent will tend to have many more connections in terms of homes that are coming onto the market soon, which would help someone living in a low-inventory market find something that is upcoming or not on the market at all.
 
