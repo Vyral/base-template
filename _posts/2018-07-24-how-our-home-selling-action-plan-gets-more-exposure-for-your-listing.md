@@ -24,7 +24,7 @@ youtube_code: OpZs_GLkAw0
 
 What does the selling process look like, and how does my team’s approach differ from that of the average agent?
 
-**Most Realtors use what’s called the “3 P Method” when helping clients sell their home.** As the name implies, this involves three steps:<br>&nbsp;
+**Most Realtors use what’s called the “3 P Method” when helping clients sell their home.** As the name implies, this involves three steps:
 
 1. Putting a sign in the yard.
 
