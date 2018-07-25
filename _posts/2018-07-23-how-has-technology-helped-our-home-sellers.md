@@ -8,7 +8,7 @@ excerpt: >-
   Technology has changed the real estate market for better, especially for home
   sellers. Here’s how.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+Ranch+Real+Estate-+How+Technology+Has+Really+Helped+Our+Sellers.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+Ranch+Real+Estate-+technology.mp4
 pullquote: >-
   Technology has made things easier for home sellers, but you still need the
   experience and guidance of an agent.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MiWi3Cb_9GY
+youtube_code: f9uHGAvfVqc
 ---
 
 {% include youtube.html %}
