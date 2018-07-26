@@ -52,3 +52,11 @@ I Love the transparency in Jennie’s classes. She is very real, and genuinely w
 - Brittany Whinery, Tulsa, OK, Agent
 </p>
 <hr>
+
+<p class="testimonial-text">
+FAIL FORWARD! I love how Jennie is open and courageous about sharing some of her failures and how she is getting through them. It's easy to get the impression that successful people/agents no longer fail. Hearing her talk about the failures she is working through gives me the the best perspective on my failures and reinforces that failures are really just great stepping stones on the way to success, and that every failure I get through just makes me a better person and agent.
+</p>
+<p class="testimonial-author">
+- Chandra Hall, Tulsa, OK, Agent
+</p>
+<hr>
