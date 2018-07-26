@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 DIY Projects to Avoid Making on Your Own
-date: 2018-07-23 20:34:33
+date: 2018-07-23 20:34:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yui49qu_P5A
+youtube_code: 4-LeZ3tpKSQ
 ---
 
 {% include youtube.html %}
