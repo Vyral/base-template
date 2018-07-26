@@ -23,12 +23,17 @@ youtube_code: C8SP_PZBuOw
 
 *Your current market conditions for Bigfork and the surrounding lakeside communities are ready for you.*
 
-I recently sat down and looked at the current market conditions around Bigfork during a Facebook Live event. Our mid-year waterfront market report revealed some interesting things that I wanted to share with those of you that may have missed it.
+I recently sat down and looked at the current market conditions around Bigfork. Our mid-year waterfront market report revealed some interesting things that I wanted to share with those of you that may have missed it.
 
-Since I deal with so many areas, **I have timestamped the different places so that you can know more about the market you are most interested. **
+Below is an overview of the areas I cover during my video.
 
 {% include pullquote.html %}
 
-1:00 - The total transactions in our MLS<br>2:05 - Our largest market, Flathead Lake, looks similar to last year. <br>4:20 - Swan Lake has more homes for sale compared to years past. <br>6:05 - Echo Lake and Blaine Lake have more activity than last year. <br>7:00 - West of Bigfork’s Ashley Lake, Bitterroot Lake, and McGregor Lake’s current statistics.<br>9:00 - What you need to know if you are selling.
+* The total transactions in our MLS
+* Our largest market, Flathead Lake, looks similar to last year.&nbsp;
+* Swan Lake has more homes for sale compared to years past.&nbsp;
+* Echo Lake and Blaine Lake have more activity than last year.&nbsp;
+* West of Bigfork’s Ashley Lake, Bitterroot Lake, and McGregor Lake’s current statistics.
+* What you need to know if you are selling.
 
 If you have any additional questions about your current market or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
