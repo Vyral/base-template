@@ -8,7 +8,7 @@ excerpt: >-
   Your current market conditions for Bigfork and the surrounding lakeside
   communities is ready for you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2018/Montana+Real+Estate+%257C+The+Hollinger+Team-+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2018/Your+Mid-Year+Market+Update+for+Bigfork+and+the+Surrounding+Areas+%257C+Montana+Real+Estate+Agent.mp4
 pullquote: >-
   Our mid-year waterfront market report revealed some interesting things that I
   wanted to share with you.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: C8SP_PZBuOw
+youtube_code: xZVsBZURmik
 ---
 
 {% include youtube.html %}
