@@ -34,7 +34,7 @@ Now that we’ve discussed a few ways to prepare for the open house, let’s mov
 
 **It’s also important to have a sign-in sheet prepared and readily available to everyone who passes through.** You can use anything from an iPad to pen and paper. All that matters is that you’re capturing the contact information of the people who attend. This includes their names, phone numbers, and email addresses. They should also provide the name of their agent. However, people who aren’t willing to fill out the sign in sheet shouldn’t be allowed to view the home.
 
-The goal of the open house is to connect with people on a personal level. Do not be overbearing as people tour the home. You want people to feel at ease. You are not there to sell them on you. &nbsp;If a neighbor comes over, make sure to welcome them as you would anyone else, this is a great way to make a connection.&nbsp;&nbsp;
+The goal of the open house is to connect with people on a personal level. Do not be overbearing as people tour the home. You want people to feel at ease. You are not there to sell them on you. If a neighbor comes over, make sure to welcome them as you would anyone else, this is a great way to make a connection.&nbsp;&nbsp;
 
 Once the open house is over, it’s good to take notes about the connections you made. And don’t forget to enter these people into your database. Of course, you should always keep in mind that you’re also there with the goal of helping to sell the home. If anyone visiting the home comes along with their agent, be sure to let the listing agent know. This creates a great opportunity to get some feedback about the house.&nbsp;
 
