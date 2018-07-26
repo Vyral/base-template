@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What It's Really Like to Work in Real Estate
-date: 2018-05-15 20:53:32
+date: 2018-07-25 20:53:00
 tags:
   - Real Estate
 excerpt: What’s it really like to work in real estate?
