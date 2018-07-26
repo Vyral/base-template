@@ -24,7 +24,7 @@ Today I would like to talk to you about what to do if an appraisal gets cut or c
 
 In today's market, there are more buyers looking for homes than there are properties available. Because of this, there are a lot of competing bids for homes, with many of them reaching above asking price. Unfortunately in this situation, sometimes the appraisal for the home comes back and doesn’t meet its valuation.
 
-One of the things you can do in this scenario is **contest the appraisal.** You can have a conversation with the lender and talk to the appraiser, but you have to get data to support why you are contesting the appraisal. For this you can utilize additional comparable properties that the appraiser may have missed. You can also use non-MLS comps and sales, especially if there is an absence of supporting data.
+One of the things you can do in this scenario is **contest the appraisal.** You can have a conversation with the lender and talk to the appraiser, but you have to get data to support why you are contesting the appraisal. For this, you can utilize additional comparable properties that the appraiser may have missed. You can also use non-MLS comps and sales, especially if there is an absence of supporting data.
 
 {% include pullquote.html %}
 
