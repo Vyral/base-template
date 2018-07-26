@@ -60,3 +60,11 @@ FAIL FORWARD! I love how Jennie is open and courageous about sharing some of her
 - Chandra Hall, Tulsa, OK, Agent
 </p>
 <hr>
+
+<p class="testimonial-text">
+You made me laugh out loud over your “I hate people” phase. Oh my god girl, you and I could write a whole book on that topic alone! The truth is, I don’t hate anyone, I truly want to help people and my heart is always in the right place. But people can be difficult and unreasonable, and they can push a person into a state of wondering why they keep showing up day after day for the abuse! Some folks just can’t see all the hoops you’ve jumped through to accommodate them and appreciate nothing. I loved that you mentioned all this and made me realize I am not alone in feeling this way sometimes! All I can do is control my reactions to them and keep on being the best me. If they don’t get me, then their loss! Ha! Love you Jennie— keep on being positive and Just Jennie.
+</p>
+<p class="testimonial-author">
+- Randi Wright, Tulsa, OK, Loan Officer
+</p>
+<hr>
