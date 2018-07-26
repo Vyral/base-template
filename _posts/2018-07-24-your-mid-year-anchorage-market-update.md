@@ -20,7 +20,7 @@ youtube_code: mbFa4VqqVlo
 
 {% include youtube.html %}
 
-<p style"text-align: center;"><em>How is the Anchorage market doing thus far in the year? It’s actually doing quite well.</em></p>
+<p style=text-align: center;"><em>How is the Anchorage market doing thus far in the year? It’s actually doing quite well.</em></p>
 
 Overall, the Anchorage market is in good condition.
 
