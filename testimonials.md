@@ -45,3 +45,10 @@ One day I was on Facebook and somehow managed to click on one of Jennie’s ads 
 </p>
 <hr>
 
+<p class="testimonial-text">
+I Love the transparency in Jennie’s classes. She is very real, and genuinely wants everyone attending to learn from her mistakes and fail forward.
+</p>
+<p class="testimonial-author">
+- Brittany Whinery, Tulsa, OK, Agent
+</p>
+<hr>
