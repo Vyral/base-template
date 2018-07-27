@@ -26,8 +26,8 @@ Each home sale is unique, but **the most common way to settle a low-appraisal si
 
 The seller typically loses some concessions during this process. If they’re paying the buyer’s closing costs, then they’ll remove those from the contract and/or drop the home warranty or other repairs they’d previously negotiated. In return, they’ll drop the price so the buyer can get the loan and close on the property.
 
+{% include pullquote.html %}
+
 If both parties can’t find some common ground to make the sale work, the buyer will usually cancel their offer and the seller will relist their property for another buyer who perhaps has more cash or is in a better financial situation.
 
 I want to give special thanks to Dane for joining me today to discuss this topic. There are other potential solutions to this problem that we didn’t get into, so if you have any questions about this topic or you’re thinking of buying or selling a home, don’t hesitate to reach out to us. We’d be glad to help.
-
-{% include pullquote.html %}
