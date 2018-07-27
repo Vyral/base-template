@@ -2,7 +2,7 @@
 youtube_code: eFfRd8isnpc
 excerpt: 'Today it’s my pleasure to introduce you to one of the new agents on our team, Daniel Pust. Daniel is happily married with a young son in 1st grade. He grew up in the Santaquin/Payson area and still lives there because he loves it. He worked in law enforcement for seven years and eventually became a detective before transitioning into real estate.'
 enclosure:
-pullquote: DANIEL ALWAYS HAS HIS CLIENTS’ BEST INTERESTS AT HEART.
+pullquote: Daniel always has his clients' best interests at heart.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
