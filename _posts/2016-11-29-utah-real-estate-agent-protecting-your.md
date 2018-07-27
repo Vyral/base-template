@@ -28,7 +28,7 @@ The holidays are just around the corner, which means you may have a fun family v
 
 {% include pullquote.html %}
 
-<ul><strong>3. Let a trusted neighbor know that you’ll be gone.</strong> Tell them when you’re leaving and when you’re coming back so they can keep an eye on things.
+<ul><strong>3. Let a trusted neighbor know that you’ll be gone.</strong> Tell them when you’re leaving and when you’re coming back so they can keep an eye on things.</ul>
 
 4. **Adjust delivery of your mail and newspapers.** If you’re still one of those people that receives a newspaper, you want to make sure those aren’t accumulating atop your driveway. That’s a surefire indicator to any watchful intruder that nobody’s home. Ditto for mail overflowing out of your mailbox or packages piling up on your front steps.
 
