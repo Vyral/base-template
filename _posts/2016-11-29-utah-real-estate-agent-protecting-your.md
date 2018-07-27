@@ -30,8 +30,8 @@ The holidays are just around the corner, which means you may have a fun family v
 
 <ul><strong>3. Let a trusted neighbor know that you’ll be gone.</strong> Tell them when you’re leaving and when you’re coming back so they can keep an eye on things.</ul>
 
-4. **Adjust delivery of your mail and newspapers.** If you’re still one of those people that receives a newspaper, you want to make sure those aren’t accumulating atop your driveway. That’s a surefire indicator to any watchful intruder that nobody’s home. Ditto for mail overflowing out of your mailbox or packages piling up on your front steps.
+<strong>4. Adjust delivery of your mail and newspapers.</strong> If you’re still one of those people that receives a newspaper, you want to make sure those aren’t accumulating atop your driveway. That’s a surefire indicator to any watchful intruder that nobody’s home. Ditto for mail overflowing out of your mailbox or packages piling up on your front steps.
 
-5. **Double-check that all doors and windows are locked.** According to Safewise.com, 30% of all home invasions happen through an unforced entry. This means almost a full third of every home invasion occurs because someone forgot to lock a window or door. Before you leave, check one last time that everything is locked.
+<strong>5. Double-check that all doors and windows are locked.</strong> According to Safewise.com, 30% of all home invasions happen through an unforced entry. This means almost a full third of every home invasion occurs because someone forgot to lock a window or door. Before you leave, check one last time that everything is locked.
 
 If you have any questions about what’s going on in the market or you’re curious about your home’s value, don’t hesitate to give us a call or send us an email. We hope to talk to you soon!
