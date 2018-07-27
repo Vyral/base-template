@@ -25,7 +25,7 @@ Whether you’re a buyer or seller, today’s update will let you know what chan
 
 The market is still active, but it’s still a hot seller’s market. Inventory may be filling up a little bit, but it’s still a great time to sell.
 
-If there aren’t “For Sale” signs in a yard, that means that the seller isn’t quite ready to put it on the market. **We’ve begun putting “Coming Soon” signs in those yards, and we’ve found that those homes are selling before they even hit the market.** We sold one of these listings just last night, in fact. Just last Friday, we had a Coming Soon listing that sold for $5,000 over the list price.
+If there aren’t “For Sale” signs in a yard, that means that the seller isn’t quite ready to put it on the market. **We’ve begun putting “Coming Soon” signs in those yards, and we’ve found that those homes are selling before they even hit the market.** We sold one of these listings just last night, in fact. Last Friday, we had a Coming Soon listing that sold for $5,000 over the list price.
 
 {% include pullquote.html %}
 
