@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Do Not Hurt Your Home Trying to Help Your Sale
-date: 2018-07-19 20:18:43
+title: Are Your Hurting the Sale of Your Home?
+date: 2018-07-19 20:18:00
 tags:
   - Real Estate
 excerpt: >-
