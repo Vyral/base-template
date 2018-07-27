@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A First-Hand Account of Getting to Retirement
-date: 2018-07-27 16:13:42
+date: 2018-07-27 16:13:00
 tags:
   - Retirement
 excerpt: >-
@@ -61,5 +61,5 @@ To start off, **I have invited my friend and former running group coach, Frank H
 If you would like to talk to me about planning out your retirement, please feel free to contact me by phone or email. I would love to speak with you.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
