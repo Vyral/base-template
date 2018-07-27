@@ -2,7 +2,7 @@
 youtube_code: 92i7N5Ko0Wg
 excerpt: The first quarter of the year has nearly come and gone, so I wanted to show you some of the most recent numbers from the Utah market and compare them to what we saw in the first quarter of 2016. The average days on market for homes listed for sale stayed pretty steady. We went from an average of 33 days in 2016 to an average of 34 days in 2017. Homes are still selling really fast. Home sales have gone down from 6,300 at this point last year to just 6,000 this year. However, inventory is down by around 10% too.
 enclosure: https://s3.amazonaws.com/vyralmarketing/David+Robinson/Utah+Real+Estate+Agent+Has+the+Utah+real+estate+market+improved+over+last+year.mp4
-pullquote: AS LONG AS RATES STAY LOW, OUR MARKET WILL CONTINUE ITS RISE.
+pullquote: As long as rates stay low, our market will continue its rise.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
