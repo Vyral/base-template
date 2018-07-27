@@ -14,11 +14,11 @@ client:
   market: Savannah
   brand: The McIntosh Team
   brokerage:
-  address: 329 Commercial Drive, Ste. 100<br>Savannah, GA 31406
+  address: '100 Blue Fin Circle #4 Savannah GA 31410'
   phone: 912-436-6551
-  phone_type: Office
-  phone2: 912-272-3463
-  phone2_type: Mobile
+  phone_type:
+  phone2:
+  phone2_type:
   email: themcintoshteam@gmail.com
   url: http://www.mcintoshrealtyteam.com
 
@@ -28,7 +28,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.mcintoshrealtyteam.smarthomeprice.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.mcintoshrealtyteam.com/buy/
+  second_CTA_URL: https://www.guaranteedsalesavannah.com/home_value
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
