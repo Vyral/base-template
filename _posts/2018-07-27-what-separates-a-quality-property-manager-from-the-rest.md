@@ -28,13 +28,13 @@ Today we’re joined by a special guest, Peter Lohmann from RL Property Manageme
 **As a property manager himself, Peter’s perspective is particularly valuable, especially given that his company manages about 320 residential units here in Columbus.** It all began five years ago, when he saw an opportunity in our community to, in his words, “do property management right.”
 {: .present-before-paste}
 
-His company is 100% focused on residential management, so, suffice it to say, he is extremely qualified to identify what separates top property managers from the rest. And in order for someone to make this same distinction themselves when selecting a property manager, Peter believes there are a few important considerations and questions people should keep in mind.
+His company is 100% focused on residential management, so, suffice to say, he is extremely qualified to identify what separates top property managers from the rest. And in order for someone to make this same distinction themselves when selecting a property manager, Peter believes there are a few important considerations and questions people should keep in mind.
 {: .present-before-paste}
 
 First, he says that **people should ask property managers or property management companies about their structure and about the total cost they charge.** Having this knowledge will help you budget accordingly.
 {: .present-before-paste}
 
-Yet this first question is also the most obvious. Peter says that it’s important to dig a little deeper when selecting a property manager. One way to do that is by considering whether a given property manager will be a good personal fit. Their style must be conducive to your needs, desires, and goals.
+Peter says that it’s important to dig a little deeper when selecting a property manager. One way to do that is by considering whether a given property manager will be a good personal fit. Their style must be conducive to your needs, desires, and goals.
 {: .present-before-paste}
 
 {% include pullquote.html %}
