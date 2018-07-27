@@ -22,13 +22,13 @@ blogger_orig_url: http://www.canovogroup.tv/2016/12/utah-real-estate-agent-shoul
 
 Every year around this time, we’re asked the same thing by sellers: “Should I sell my home now or wait until spring?” Many of our clients are thinking of hunkering down, waiting out the winter, and selling in the spring. I want to give you four reasons why you might want to consider selling now versus waiting until spring to do so.
 
-1. **More competition during the spring.** That means less competition right now. While many people have the same thought process as most of our clients and are waiting until spring, you can get a jump on the competition by selling now and taking advantage of the low inventory.
+<strong>1. More competition during the spring.</strong> That means less competition right now. While many people have the same thought process as most of our clients and are waiting until spring, you can get a jump on the competition by selling now and taking advantage of the low inventory.
 
-2. **Interest rates may be higher in the spring.** Right now, rates are near all-time lows. With the election passing and the Federal Reserve saying they won’t be making any adjustments in the near future, that’s good news for buyers right now. If rates do tick up a bit this spring, it will eliminate a lot of buyers in the market and diminish the purchasing power of many others.
+<strong>2. Interest rates may be higher in the spring.</strong> Right now, rates are near all-time lows. With the election passing and the Federal Reserve saying they won’t be making any adjustments in the near future, that’s good news for buyers right now. If rates do tick up a bit this spring, it will eliminate a lot of buyers in the market and diminish the purchasing power of many others.
 
-3. **A lot of job transfers happen at the beginning of the year.** A lot of these people are looking for homes as we speak. This is just another segment of buyers you won’t be able to capture in the spring and summer.
+<strong>3. A lot of job transfers happen at the beginning of the year.</strong> A lot of these people are looking for homes as we speak. This is just another segment of buyers you won’t be able to capture in the spring and summer.
 
-4. **More serious buyers.** If you’re a buyer out looking for homes during the cold, snowy winter months, there is a good reason for doing so. These buyers are likely motivated to get into a home as soon as possible.
+<strong>4. More serious buyers.</strong> If you’re a buyer out looking for homes during the cold, snowy winter months, there is a good reason for doing so. These buyers are likely motivated to get into a home as soon as possible.
 
 {% include pullquote.html %}
 
