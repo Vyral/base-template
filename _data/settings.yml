@@ -26,9 +26,9 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.mcintoshrealtyteam.smarthomeprice.com/
+  first_CTA_URL: https://www.guaranteedsalesavannah.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.guaranteedsalesavannah.com/home_value
+  second_CTA_URL: http://www.mcintoshrealtyteam.com/buy/
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
