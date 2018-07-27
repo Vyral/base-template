@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did We Build a Successful Real Estate Business?
-date: 2018-07-18 18:29:40
+date: 2018-07-18 18:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/inside-youtube.jpg
-youtube_code: KKfpiPeb2uo
+youtube_code: Tf5xLSLtUbM
 ---
 
 {% include youtube.html %}
