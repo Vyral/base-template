@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need a 20% Down Payment to Buy a Home?
-date: 2018-06-20 22:24:30
+date: 2018-07-26 22:24:00
 tags:
   - Home Buyer Tips
 excerpt: What type of down payment do you need?
