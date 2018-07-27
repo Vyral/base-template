@@ -22,9 +22,6 @@ youtube_code: ZpwYn8RWSGQ
 {% include youtube.html %}
 {: .present-before-paste}
 
-<br>
-{: .present-before-paste}
-
 Today we’re joined by a special guest, Peter Lohmann from RL Property Management, to discuss what people should look for in a property manager.
 {: .present-before-paste}
 
