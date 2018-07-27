@@ -21,11 +21,11 @@ youtube_code: lDpC1D54b8U
 
 Our team is growing, and so today I’m excited to introduce you to our newest agent: Cynthia Matheny.
 
-Before coming to our team, Cynthia worked for nine years as an agent in Charlotte, North Carolina. She was selling over $18 million in real estate there, had a small team, but decided it was time to make a change.&nbsp;
+Before coming to our team, Cynthia worked for nine years as an agent in Charlotte, North Carolina. She was selling over $18 million in real estate there, had a small team, but decided it was time to make a change. 
 
-And Cynthia has much more to offer than just her expertise as an agent. **She also works as a business coach and runs a couple of amazing classes,** like The Art of Asking Powerful Questions.&nbsp;
+And Cynthia has much more to offer than just her expertise as an agent. **She also works as a business coach and runs a couple of amazing classes,** like The Art of Asking Powerful Questions. 
 
-Cynthia has also become our resident expert on the DISC assessment—a test which analyzes personality based on four aspects: dominance, influence, steadiness, and conscientiousness. The class she teaches on this assessment, called Selling With Style, helps people understand who they are and why they act the way they do. She highly recommends taking this class in order to better understand and navigate the relationships in your life, both business-related and personal.&nbsp;
+Cynthia has also become our resident expert on the DISC assessment—a test which analyzes personality based on four aspects: dominance, influence, steadiness, and conscientiousness. The class she teaches on this assessment, called Selling With Style, helps people understand who they are and why they act the way they do. She highly recommends taking this class in order to better understand and navigate the relationships in your life, both business-related and personal. 
 
 {% include pullquote.html %}
 
