@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is It Too Soon to Start Preparing Your Spring 2019 Listing?
+title: Tips From Dave Lee on Preparing Your Spring 2019 Listing
 date: 2018-07-25 12:30:00
 tags:
   - Home Seller Tips
