@@ -22,7 +22,7 @@ blogger_orig_url: http://www.canovogroup.tv/2016/11/utah-real-estate-agent-prote
 
 The holidays are just around the corner, which means you may have a fun family vacation in the works. Here are five tips to keep your home safe while you’re away:
 
-<strong><ul>1. Get a Wi-Fi doorbell.</ul></strong> If you don’t already have an alarm system installed in your home, you might want to consider this. How does it work? The doorbell is connected to your smartphone, so anytime someone rings the doorbell, you will be able to see who it is and respond accordingly.
+<strong>1. Get a Wi-Fi doorbell.</strong> If you don’t already have an alarm system installed in your home, you might want to consider this. How does it work? The doorbell is connected to your smartphone, so anytime someone rings the doorbell, you will be able to see who it is and respond accordingly.
 
 <ul><strong>2. Add some exterior lighting.</strong> If you have areas around your property that are dark, you may want to consider installing new lighting fixtures or just double-check that the bulbs in the existing light fixtures work. To go a step further, you may want to also consider installing a motion sensor light.</ul>
 
