@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Should You Sell Now or Wait?
-date: '2017-08-14T11:49:00.000-07:00'
+date: '2018-07-26T11:49:00.000-07:00'
 author: Vyral Admin
 tags:
 - Las Vegas Real Estate Home Seller Tips
