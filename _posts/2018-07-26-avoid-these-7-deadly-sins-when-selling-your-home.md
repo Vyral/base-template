@@ -23,13 +23,13 @@ youtube_code: UbOg-f7lu6g
 
 Do you know about the seven deadly sins of selling a home? Today I am going to share them with you, so that you can avoid them and sell your property for top dollar, instead.&nbsp;
 
-**1. An unkempt yard.** Many people think that it’s on the inside that matters. But if your home looks like a tornado blew through the yard, potential buyers may never actually get inside.
+**1. An unkempt yard.** Many people think that it’s what's on the inside that matters. But if your home looks like a tornado blew through the yard, potential buyers may never actually get inside.
 
 **2. Keys that do not work.** If the potential buyer and their agent cannot get in, they may become frustrated by the experience.
 
 {% include pullquote.html %}
 
-**3. Dingy or faded front door.** The front door will serve as a buyer’s first impression, so make sure its in great shape before they arrive.&nbsp;
+**3. Dingy or faded front door.** The front door will serve as a buyer’s first impression, so make sure it's in great shape before they arrive.&nbsp;
 
 **4. Animals.** I love animals, and I think that most people do, too. However, it’s important to clean up after them by eliminating messes, hair, and odor before buyers enter your home.
 
