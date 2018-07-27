@@ -39,8 +39,8 @@ CTAs:
   second_CTA_URL: 'http://www.rellisgroup.com/search/criteria/xms_392,393,394/gp_1/ipt_1,8/pm_200000/s_2'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
-  CTA_title: Looking to Buy a Home?
-  CTA_text: Search the entire MLS for homes located in -- MARKET --.
+  CTA_title: Looking to Buy a Property?
+  CTA_text: Search the entire MLS for properties located in -- MARKET --.
   CTA_link_text: Property Search Tool
   CTA_url: 'http://www.rellisgroup.com/search/criteria/xms_392,393,394/gp_1/ipt_1,8/pm_200000/s_2'
 welcome_box:
