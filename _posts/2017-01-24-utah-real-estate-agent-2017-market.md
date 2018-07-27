@@ -24,9 +24,9 @@ How did our market do in 2016? What can you expect from the 2017 market?
 
 To get a sense of how the market did overall last year, I wanted to compare some key statistics from the year before. Here’s what happened between 2015 and 2016:
 
-• The average days on market dropped 45% from 53 days to 29 days.
-• The number of homes sold rose by 1.7% from 8,400 to 8,550.
-• The median sale price increased by 6.9%.  
+• The average days on market dropped 45% from 53 days to 29 days.<br />
+• The number of homes sold rose by 1.7% from 8,400 to 8,550.<br />
+• The median sale price increased by 6.9%.<br />  
 
 {% include pullquote.html %}
 
