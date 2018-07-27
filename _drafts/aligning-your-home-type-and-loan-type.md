@@ -21,7 +21,7 @@ youtube_code: ia6IaRpAHSc
 
 {% include youtube.html %}
 
-Home types and loan types—what do you need to know about them?
+<center>Home types and loan types—what do you need to know about them?</center>
 
 If you have a VA or FHA loan, there are certain requirements that you need to fulfill in order to get the money, such as the condition of the home. As agents, when walking through a home when using a VA or FHA loan, we take note of the condition of the home, looking for things such as peeling paint, torn carpets, broken handrails, or problems with windows.
 
