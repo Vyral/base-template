@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take Advantage of “Coming Soon” Listings
-date: 2018-07-27 14:45:28
+date: 2018-07-27 14:45:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/changes-in-the-market-youtube.jpg
-youtube_code: MpjaIBpp80s
+youtube_code: _umryBlHvWI
 ---
 
 {% include youtube.html %}
