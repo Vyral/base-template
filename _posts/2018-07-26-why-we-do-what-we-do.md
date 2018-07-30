@@ -22,7 +22,7 @@ youtube_code: Pri435NI5Sk
 
 <p style="text-align: center;"><em>Instead of talking about real estate today, I wanted to introduce you to our newest team member: My 6-month-old daughter, Charlotte.</em></p>
 
-I just wanted to show you one of the biggest reasons why we’re in business. My daughter, Charlotte, is only 6 months old, but she is going to be with us for a very long time. Hopefully, she’ll be answering some of our phone calls in the near future.
+I just wanted to show you one of the biggest reasons why we're in business: my 6-month-old daughter. She may have many things to learn from us, but hopefully she will be answering some of our phone calls in the near future.
 
 {% include pullquote.html %}
 
