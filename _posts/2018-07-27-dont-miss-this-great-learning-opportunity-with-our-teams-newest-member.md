@@ -8,7 +8,7 @@ excerpt: 'Meet our team’s newest member: Cynthia Matheny.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Graham+MacKenzie/Videos/2018/MacKenzie+Realty+%257C+New+Agent.mp4
 pullquote: >-
-  Cynthia’s upcoming Selling with Style class can help you better connect and
+  Cynthia’s upcoming Selling With Style class can help you better connect and
   communicate within any relationship in your life.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,11 +21,11 @@ youtube_code: PLeIfUmSzZU
 
 Our team is growing, and so today I’m excited to introduce you to our newest agent: Cynthia Matheny.
 
-Before coming to our team, Cynthia worked for nine years as an agent in Charlotte, North Carolina. She was selling over $18 million in real estate there, had a small team, but decided it was time to make a change. 
+Before coming to our team, Cynthia worked for nine years as an agent in Charlotte, North Carolina. She was selling over $18 million in real estate there and had a small team, but decided it was time to make a change.&nbsp;
 
-And Cynthia has much more to offer than just her expertise as an agent. **She also works as a business coach and runs a couple of amazing classes,** like The Art of Asking Powerful Questions. 
+Cynthia has much more to offer than just her expertise as an agent. **She also works as a business coach and runs a couple of amazing classes,** like The Art of Asking Powerful Questions.&nbsp;
 
-Cynthia has also become our resident expert on the DISC assessment—a test which analyzes personality based on four aspects: dominance, influence, steadiness, and conscientiousness. The class she teaches on this assessment, called Selling With Style, helps people understand who they are and why they act the way they do. She highly recommends taking this class in order to better understand and navigate the relationships in your life, both business-related and personal. 
+Cynthia has also become our resident expert on the DISC assessment—a test which analyzes personality based on four aspects: dominance, influence, steadiness, and conscientiousness. The class she teaches on this assessment, called Selling With Style, helps people understand who they are and why they act the way they do. She highly recommends taking this class in order to better understand and navigate the relationships in your life, both business-related and personal.&nbsp;
 
 {% include pullquote.html %}
 
