@@ -33,7 +33,7 @@ If your taxes are too high, you can petition the county to bring them down. A co
 
 Our assessors know that they’re not perfect and never will claim to be. However, they have given us a way to appeal our property taxes if you believe your property is overvalued.
 
-**The first thing they say to do is contact a Realtor,** like myself, who is willing to help. I’d be happy to do a market analysis on your property to determine what it’s actually worth. I’ll write up the letter, you’ll submit it to the county assessor’s office, and that’s it. Most of the clients we do this for get the reduction on their taxes they are looking for.
+**The first thing they say to do is contact a Realtor,** like myself, who is willing to help. I’d be happy to do a market analysis on your property to determine what it’s actually worth. I’ll write up the letter, you’ll submit it to the county assessor’s office, and that’s it. Most of the clients get the reduction on their taxes they are looking for.
 
 The best part is that I do this for free, with one small stipulation. If you, your friends, or family are looking to buy, sell, or invest in real estate down the road, I ask that you keep me in mind.
 
