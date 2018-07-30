@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Fall for These 2 Common Contractor Scams
-date: 2018-07-29 18:02:00
+date: 2018-07-30 12:00:00
 tags:
   - Real Estate
 excerpt: >-
