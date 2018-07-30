@@ -18,7 +18,7 @@ youtube_code: ZxpWK80AFzM
 
 {% include youtube.html %}
 
-*The Wild Dunes section of the Isle of Palms is a great place to buy a beach investment property.*
+<p style="text-align: center;"><em>The Wild Dunes section of the Isle of Palms is a great place to buy a beach investment property.</em></p>
 
 <div style="text-align: center;"><em>Want to sell your home?&nbsp;<b><a target="_blank" rel="noopener" href="http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&amp;source_url=ua">Get a FREE home value report</a></b></em></div>
 
