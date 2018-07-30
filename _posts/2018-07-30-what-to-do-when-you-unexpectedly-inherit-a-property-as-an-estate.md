@@ -22,7 +22,7 @@ youtube_code: _csiEWDAHJI
 
 {% include youtube.html %}
 
-There are five challenging questions people who have unexpectedly come into owning a property tend to face, and today we would like to offer you a solution to each.
+<p style="text-align: center;"><em>There are five challenging questions people who have unexpectedly come into owning a property tend to face, and today we would like to offer you a solution to each.</em></p>
 
 If you find yourself as a personal representative or an heir of a property as an estate, we want to help you. One of the things our team finds is that there are five challenging questions most people face while in this position. We’re here to help, and want to make this scenario easier for you to navigate. Here are those five questions:
 
