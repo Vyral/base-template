@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Protest Your Property Taxes?
-date: 2018-07-27 19:19:27
+date: 2018-07-27 19:19:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/property-taxes-youtube.jpg
-youtube_code: zf9GEdSv9V8
+youtube_alternate_image: /uploads/property-taxes-youtube-1.jpg
+youtube_code: aUZGZvrCV6M
 ---
 
 {% include youtube.html %}
