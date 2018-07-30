@@ -19,7 +19,7 @@ youtube_code: PLeIfUmSzZU
 
 {% include youtube.html %}
 
-Our team is growing, and so today I’m excited to introduce you to our newest agent: Cynthia Matheny.
+Our team is growing, so today I’m excited to introduce you to our newest agent: Cynthia Matheny.
 
 Before coming to our team, Cynthia worked for nine years as an agent in Charlotte, North Carolina. She was selling over $18 million in real estate there and had a small team, but decided it was time to make a change.&nbsp;
 
