@@ -20,7 +20,7 @@ youtube_code: UVJ1liC-Gd4
 
 {% include youtube.html %}
 
-It’s important to have good credit as a homebuyer. Here’s why you need it and how it can help or hurt you.
+<center>It’s important to have good credit as a homebuyer. Here’s why you need it and how it can help or hurt you.</center>
 
 Today I want to talk to you about saving money and maintaining good credit. When you buy a home and have a 20 or 30-year mortgage, having bad credit will cost you a lot more money in interest than if you had a high credit score. Here are some tips to help you raise that credit score and keep it up:
 
