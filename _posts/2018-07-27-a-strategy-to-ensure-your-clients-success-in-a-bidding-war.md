@@ -29,7 +29,7 @@ An escalation clause is a means to give your client a competitive edge during th
 
 {% include pullquote.html %}
 
-Suppose a home is listed for $179,000 and you offer $182,000. If there’s a lot of competition and you suspect you might have to offer up to $187,000 to win, you can set up an escalation clause to automatically surpass a competing offer by, say, $1,000 up until that mark is reached.
+Suppose a home is listed for $179,000 and you offer $182,000. If there’s a lot of competition and you suspect you might have to offer up to $187,000 to win, you can set up an escalation clause to automatically surpass a competing offer by, for example, $1,000 up until that mark is reached.
 
 **You do need to make sure that the listing agent understands how these clauses work**, however. We’ve had some suggest that it was illegal, when they’re not.
 
