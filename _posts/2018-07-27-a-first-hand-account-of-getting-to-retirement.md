@@ -25,7 +25,7 @@ youtube_code: PTviPvlqC0I
 Up until now, I have been focusing on materials from the Department of Labor as well as looking at information from experts like Richard Thaler about savings. Now, I would like to switch gears and give you real stories of those people who have already retired and what they have done to get to where they are now.
 {: .present-before-paste}
 
-To start off, **I have invited my friend and former running group coach, Frank Hunt to tell us about his decisions with investments through the years and how his retirement looks today.** To make it easier for you, I have timestamped each section so that you can jump to the questions that most interest you.
+To start off, **I have invited my friend and former running group coach, Frank Hunt, to tell us about his decisions with investments through the years and how his retirement looks today.** To make it easier for you, I have timestamped each section so that you can jump to the questions that most interest you.
 {: .present-before-paste}
 
 {% include pullquote.html %}
@@ -37,7 +37,7 @@ To start off, **I have invited my friend and former running group coach, Frank H
 2:40 – When Frank started thinking about retirement
 {: .present-before-paste}
 
-3:35 – How a pension worked in the private sector.
+3:35 – How a pension worked in the private sector
 {: .present-before-paste}
 
 4:30 – The importance of diversification in your 401(k)
@@ -49,7 +49,7 @@ To start off, **I have invited my friend and former running group coach, Frank H
 6:35 – The benefits of continuing to work and coaching for Frank
 {: .present-before-paste}
 
-8:20 – Advice Frank would give to his 40-year-old self.
+8:20 – Advice Frank would give to his 40-year-old self
 {: .present-before-paste}
 
 9:40 – The surprises of retirement
@@ -61,5 +61,5 @@ To start off, **I have invited my friend and former running group coach, Frank H
 If you would like to talk to me about planning out your retirement, please feel free to contact me by phone or email. I would love to speak with you.
 {: .present-before-paste}
 
- 
+&nbsp;
 {: .present-before-paste}
