@@ -67,7 +67,7 @@ permalink: /join-our-team/
 
 <h2 class="recruiting">Request a Free Business Planning Call</h2>
 <!-- <h4 class="recruiting">Request a phone call - it does not cost a dime to talk.</h4> -->
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
 <label for="firstname">First Name*</label>
