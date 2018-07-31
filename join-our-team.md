@@ -148,7 +148,7 @@ permalink: /join-our-team/
 
 <h2 class="recruiting">Let's Make You More Money</h2>
 <h4 class="recruiting">We look forward to helping you achieve your real estate dreams.</h4>
-<form method="post" class="home-value cta-forms" action="http://formspree.io/frank@frankgray.net" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/frank@frankgray.net" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
 <label for="firstname">First Name*</label>
