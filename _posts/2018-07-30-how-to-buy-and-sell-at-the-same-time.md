@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell at the Same Time
-date: 2018-07-30 16:11:33
+date: 2018-07-30 16:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: izQg8hA3DhY
+youtube_code: KJ-0IvxL1M8
 ---
 
 {% include youtube.html %}
 
-Today we are going to talk about how to buy and sell a home at the same time. **There are a few different ways you can go about doing this.**&nbsp;
+Today we are going to talk about how to buy and sell a home at the same time. **There are a few different ways you can go about doing this.** 
 
 You can buy your new home first, then sell your current one. Or you could sell your current home, then buy a new one. A third option is a simultaneous sale and purchase. Before you attempt any of these strategies, however, there are a few things you should do.
 
@@ -31,7 +31,7 @@ You can buy your new home first, then sell your current one. Or you could sell y
 
 **If you choose to buy first, you can enjoy the search without the pressure of having to sell your home.** You will not need interim housing, and you can move without the rush. However, this might result in you having to pay two mortgages at once. It also means not knowing your exact equity until you sell.
 
-**If you choose to sell first, you will know exactly how much equity you have to buy your new home and you will not have to pay for two mortgages at once.** However, you may need to look through interim housing through a family member, friend, or a lease-back agreement.&nbsp;
+**If you choose to sell first, you will know exactly how much equity you have to buy your new home and you will not have to pay for two mortgages at once.** However, you may need to look through interim housing through a family member, friend, or a lease-back agreement. 
 
 Buying and selling at the same time is certainly doable, but it will take some pre-planning and flexibility. We have been able to do this successful for a ton of clients, but it always requires some planning. We want home inspections and repairs to be done early so we can get the ball rolling on your sale.
 
