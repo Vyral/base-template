@@ -21,7 +21,7 @@ youtube_code: jtbbUwfsgPY
 
 {% include youtube.html %}
 
-<center>While there a hundred reasons why you should hire the Robbins Real Estate Group, I have three great ones for you today.</center>
+<center><em>While there a hundred reasons why you should hire the Robbins Real Estate Group, I have three great ones for you today.</em></center>
 
 &nbsp;
 
