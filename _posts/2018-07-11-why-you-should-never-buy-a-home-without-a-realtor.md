@@ -12,8 +12,8 @@ pullquote: A great agent will make your home purchase as smooth as possible.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mauro-youtube-1.jpg
-youtube_code: A4CC7nz6qpw
+youtube_alternate_image: /uploads/mauro-youtube-1-1.jpg
+youtube_code: VLXwnXjLXRU
 ---
 
 {% include youtube.html %}
