@@ -31,11 +31,12 @@ client:
   email2:
   url: 'http://www.TeamRobbins.com'
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.teamrobbins.com/sell/'
-  second_CTA_text: Home Search
+  first_CTA_text: Home Search
+  first_CTA_URL: >-
+    https://www.teamrobbins.com/results/?utm_source=VYRAL&utm_campaign=Vyral+Home+Search+Link&mdv=2&mpv=2&utm_medium=referral
+  second_CTA_text: Home Evaluation
   second_CTA_URL: >-
-    https://www.teamrobbins.com/results-gallery/?sort=importdate&status=A&custom=41826&area=2935,2922&hood=93950,5382593,594913,96694&city=6261&minprice=250000&proptype=SF,C,VT&photo=1
+    https://www.teamrobbins.com/sell/?utm_source=VYRAL&utm_campaign=Vyral+Home+Value+Link&mdv=2&mpv=2&utm_medium=referral
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
