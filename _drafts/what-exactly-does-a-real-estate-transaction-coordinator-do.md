@@ -19,7 +19,7 @@ youtube_code: e-jWoi4gccA
 
 {% include youtube.html %}
 
-Today we want to introduce Rhett Roberts, our transaction coordinator, who works behind the scenes to help your real estate transaction go smoothly.
+<center>Today we want to introduce Rhett Roberts, our transaction coordinator, who works behind the scenes to help your real estate transaction go smoothly.</center>
 
 On our team, everyone has a specific role to play. This allows us to make sure all the fine details of our clients’ transactions are handled thoroughly and efficiently. Today we’d like to introduce just one of the amazing professionals on our team: our transaction coordinator, Rhett Roberts.
 
