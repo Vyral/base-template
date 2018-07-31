@@ -39,10 +39,11 @@ CTAs:
     https://www.teamrobbins.com/sell/?utm_source=VYRAL&utm_campaign=Vyral+Home+Value+Link&mdv=2&mpv=2&utm_medium=referral
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
-    CTA_title: Looking to Buy a Home?
+    CTA_title: Want to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'https://www.teamrobbins.com/results-gallery/'
+    CTA_url: >-
+      https://www.teamrobbins.com/results/?utm_source=VYRAL&utm_campaign=Vyral+Home+Search+Link&mdv=2&mpv=2&utm_medium=referral
 lender:
   show_section: false
   header_text: Preferred Lender
