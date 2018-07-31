@@ -38,7 +38,7 @@ Some employers may have concerns about moving their employees’ money out of an
 
 **This auto feature is not for every employer, but in the right situation, it may have a positive impact on your employees’ retirement plan health.**
 
-If you’re interested in reducing your company’s fiduciary liability while dramatically reducing your administrative headaches, so you can get back to running your business, visit www.selectretirementplans.com.
+If you’re interested in reducing your company’s fiduciary liability while dramatically reducing your administrative headaches, so you can get back to running your business, visit [www.selectretirementplans.com](http://www.selectretirementplans.com){: target="_blank"}.
 
 And if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 
