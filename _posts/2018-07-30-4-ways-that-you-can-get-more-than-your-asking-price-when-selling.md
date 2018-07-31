@@ -19,7 +19,7 @@ youtube_code: Rq3o6-xHt5Q
 
 {% include youtube.html %}
 
-There are four ways that you can get more than your asking price when you sell your home. Today I want to go over how a real estate agent can help you with this.
+There are four ways that you can get more than your asking price when you sell your home.
 
 **1. Price your home a little bit lower.** By pricing your home a little lower, you create a buyer frenzy. A lot more buyers will come and see your home during an open house. And with multiple buyers interested in your home, you will probably get one or two bidding against each other. This will help you earn a higher price.
 
@@ -27,7 +27,7 @@ There are four ways that you can get more than your asking price when you sell y
 
 {% include pullquote.html %}
 
-**3. Sell in the springtime.** A lot of buyers are active in the market during spring. This is also when banks have the most promotions for the lowest and best rates. For example, the Bank of Canada typically reduces their rates during this season&nbsp; to initiate more of a buyer frenzy
+**3. Sell in the springtime.** A lot of buyers are active in the market during spring. This is also when banks have the most promotions for the lowest and best rates. For example, the Bank of Canada typically reduces their rates during this season to initiate more of a buyer frenzy.
 
 **4. Make it unique.** Not all homes have to be the same. If you have recently made some renovations or upgrades, make sure that you outline that in your listing agreement. Make sure to advertise these features during open houses, in brochures, and in all other advertising materials your agent puts out. &nbsp;
 
