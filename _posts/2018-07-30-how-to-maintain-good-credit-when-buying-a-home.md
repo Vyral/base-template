@@ -20,11 +20,11 @@ youtube_code: UVJ1liC-Gd4
 
 {% include youtube.html %}
 
-<center><em>It&rsquo;s important to have good credit as a homebuyer. Here&rsquo;s why you need it and how it can help or hurt you.</em></center>
+<center><em>It&rsquo;s important to have a higher credit as a homebuyer. Here&rsquo;s why you need it and how it can help or hurt you.</em></center>
 
 &nbsp;
 
-Today I want to talk to you about saving money and maintaining good credit. When you buy a home and have a 20 or 30-year mortgage, having bad credit will cost you a lot more money in interest than if you had a high credit score. Here are some tips to help you raise that credit score and keep it up:
+Today I want to talk to you about saving money and maintaining good credit. When you buy a home and have a 20- or 30-year mortgage, having bad credit will cost you a lot more money in interest than if you had a high credit score. Here are some tips to help you raise that credit score and keep it up:
 
 **1. Maintain a low balance on your credit card or revolving line of credit**. Make sure you pay that credit card balance off every month. You may have some emergencies to pay for and you may not be able to pay those off right away. That’s fine, but make sure you pay it down as soon as possible. If you have multiple cards or lines of credit, pay off the credit with the highest interest rate first before anything else.
 
