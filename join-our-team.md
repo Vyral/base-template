@@ -55,7 +55,7 @@ Patrick O’Sullivan<br>Cap Core Real Estate
 
 <h2 class="recruiting">Request a Free Business Planning Call</h2>
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
 						<p id="thanks">&nbsp;</p>
 						<label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label>
