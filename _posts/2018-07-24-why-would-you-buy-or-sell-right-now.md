@@ -19,13 +19,13 @@ youtube_code: hTLWgNEr5S4
 
 Why would you buy or sell real estate right now?&nbsp;
 
-We are in one of the greatest real estate markets we have seen in quite some time. What defines “great?”&nbsp;
+**We are in one of the greatest real estate markets we have seen in quite some time.** What defines “great?”&nbsp;
 
 For starters, Washington County home values are up by an average of $110,000 since 2013. $110k!!!&nbsp;
 
 No, it’s not sustainable, but it’s real and the market is supporting these prices.&nbsp;
 
-Second, very different from the real estate bubble of 2007, Buyers are actually qualifying for the homes they’re purchasing…go figure! All kidding aside, the market of a decade ago saw home buyers “stating” their income to falsely qualify for homes they simply couldn’t afford. At least they couldn’t afford them for long.&nbsp;
+Second, very different from the real estate bubble of 2007, buyers are actually qualifying for the homes they’re purchasing…go figure! 😊 All kidding aside, the market of a decade ago saw home buyers “stating” their income to falsely qualify for homes they simply couldn’t afford. At least they couldn’t afford them for long.&nbsp;
 
 There is an analogy I like to use with my clients that pertains to our current market situation.&nbsp;
 
