@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Cleveland Careers
 permalink: /join-our-team/
 ---
 
@@ -66,7 +66,7 @@ Michael Kaim<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.setting
 
 </div>
 
-<h2 class="recruiting">Request a Free Business Strategy Call</h2>
+<h2 class="recruiting">Apply Now to Join Our Team</h2>
 
 <form method="post" class="home-value cta-forms" action="https://formspree.io/careers@kaimteam.com" onsubmit="return setReturn()">
 					<fieldset>
