@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Oklahoma City Careers
 permalink: /join-our-team/
 ---
 <div class="recruiting-page">
