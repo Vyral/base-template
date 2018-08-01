@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Central Iowa Careers
 permalink: /join-our-team/
 ---
 
@@ -74,7 +74,7 @@ So, if working with a company that has a unique culture and vision, all the tool
 
 </div>
 
-<h2 class="recruiting">Request a Free Business Planning Call</h2>
+<h2 class="recruiting">Apply Now to Join Our Team</h2>
 
 <form class="home-value cta-forms" action="https://formspree.io/Misty@mistysold.com" method="post" onsubmit="return setReturn()">
 						<fieldset><label for="firstname">First Name*</label> <input name="firstname" required="" type="text" /> <label for="lastname">Last Name*</label> <input name="lastname" required="" type="text" /> <label for="email">Email*</label> <input name="name" type="text" /> <label for="phone">Phone Number </label> <input name="phone" type="tel" />
