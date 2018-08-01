@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Albany Careers
 permalink: /join-our-team/
 ---
 
@@ -67,7 +67,7 @@ Broker/Owner Cadwell Realty Group<br>
 <a href="tel:541-619-4303">541-619-4303</a><br>
 <a href="mailto:Jason@cadwellrealtygroup.com">Jason@cadwellrealtygroup.com</a></p>
 
-<h2 class="recruiting">Request a Free Business Strategy Call</h2>
+<h2 class="recruiting">Apply Now to Join Our Team</h2>
 
 <form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
