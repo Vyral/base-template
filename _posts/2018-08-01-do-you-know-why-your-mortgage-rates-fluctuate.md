@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Do You Know Why Your Mortgage Rates Fluctuate Up and Down?
-date: 2018-08-01 15:08:30
+title: Do You Know Why Your Mortgage Rates Fluctuate?
+date: 2018-08-01 15:08:00
 tags:
   - Real Estate
 excerpt: >-
