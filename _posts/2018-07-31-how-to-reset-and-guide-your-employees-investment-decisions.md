@@ -30,7 +30,7 @@ Using auto re-enrollment, another facet of Auto to the 5th Power, it is possible
 
 Once a year, you will send a notice to all of your enrolled employees informing them that there will be an open enrollment period extending 30 days from the receipt of that letter. If an employee does not respond to the letter by opting out of the investment change within that time frame, 100% of their 401(k) balance will be transferred into the plan’s QDIA—in this case, the target-date fund based on the employee’s age.
 
-**Studies by Fidelity, Vanguard, T. Rowe Price (to name a few) indicate that about 60% of your participants will default into the plan’s QDIA**, and they’re generally better off as a result. As a plan fiduciary, you will receive fiduciary protection for all of the automatic features included in Auto to the 5th.
+**Studies by Fidelity, Vanguard and T. Rowe Price (to name a few) indicate that about 60% of your participants will default into the plan’s QDIA**, and they’re generally better off as a result. As a plan fiduciary, you will receive fiduciary protection for all of the automatic features included in Auto to the 5th.
 
 {% include pullquote.html %}
 
