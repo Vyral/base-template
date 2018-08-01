@@ -8,7 +8,8 @@ excerpt: >-
   There are two common contractor scams that you need to be aware of and know
   how to protect yourself against if you don’t want to potentially lose a lot of
   money upgrading your home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/James+Duffer/Hill+Harbor+Group+with+James+Duffer-+2+Contractor+Scams+You+Need+to+Avoid+(1).mp4
 pullquote: >-
   Make sure everything you agree on with your contractor is written in the
   project description in the agreement.
