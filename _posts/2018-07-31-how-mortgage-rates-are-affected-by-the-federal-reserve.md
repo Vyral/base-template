@@ -19,11 +19,9 @@ youtube_code: 1SZso0GnSyA
 
 {% include youtube.html %}
 
-Today we are talking about the fed funds rate and what you need to know about it.&nbsp;
-
 **I hear this questions all the time:** “I heard rates went up with the Federal Reserve. Does that mean mortgage rates have gone up too?”
 
-**Quite simply, the answer is no.** What the Fed controls is the fed funds rate. This is the borrowing cost of capital that banks borrow against the Federal Government. When the fed funds rate increases, short term loans (home equity lines of credit, auto loans, credit card loans) tend to increase automatically.
+**Quite simply, the answer is no.** What the Fed controls is the fed funds rate. This is the borrowing cost of capital that banks borrow against the federal government. When the fed funds rate increases, short-term loans (home equity lines of credit, auto loans, credit card loans) tend to increase automatically.
 
 {% include pullquote.html %}
 
