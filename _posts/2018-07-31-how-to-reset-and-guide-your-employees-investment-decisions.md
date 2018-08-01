@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Reset and Guide Your Employees’ Investment Decisions
-date: 2018-07-31 18:33:49
+date: 2018-07-31 18:33:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 screenshot: uploads/Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01.jpg
-video_file: /uploads/Auto%20Re-Enrollment.mp4
+video_file: Auto%20Re-Enrollment%20(1).mp4
 ---
 
 {% include post-video.html %}
@@ -41,5 +41,3 @@ Some employers may have concerns about moving their employees’ money out of an
 If you’re interested in reducing your company’s fiduciary liability while dramatically reducing your administrative headaches, so you can get back to running your business, visit [www.selectretirementplans.com](http://www.selectretirementplans.com){: target="_blank"}.
 
 And if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
