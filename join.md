@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Portland Careers
 permalink: /join/
 ---
 
@@ -62,7 +62,7 @@ Sarita Dua<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.
 
 </div>
 
-<h2 class="recruiting">Request a Free Business Planning Call</h2>
+<h2 class="recruiting">Apply Now to Join Our Team</h2>
 
 <form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
