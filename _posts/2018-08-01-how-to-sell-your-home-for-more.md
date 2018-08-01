@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re selling your home, you need to get it ready to sell for as much as
   possible. Here are a few pro tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/How+to+Sell+Your+Home+For+More+%257C+Texas+Real+Estate+Agent.mp4
 pullquote: >-
   We have actually spoiled our society with HGTV; they expect your home to look
   pristine
@@ -31,5 +32,3 @@ Today I’ve got a few pro tips for you that you can use to prepare your home to
 **3. Decor.** Try to take out the things that are older or aren’t up to date and just leave your rooms staged enough to show what the rooms are used for. You can even up a blow-up bed on top of some boxes in a spare bedroom and cover it with a pretty quilt and pillows. Even if that is the only thing in the room, it will show the buyer what the room’s purpose is.
 
 If you’re interested in buying or selling a home or if you have any questions about prepping your home for sale, please feel free to reach out to me. I’d be glad to be your resource.
-
-&nbsp;
