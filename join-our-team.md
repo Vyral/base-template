@@ -1,6 +1,6 @@
 ---
 layout: recruiting
-title: Join Our Team
+title: Chicago Careers
 permalink: /join-our-team/
 ---
 <div class="whitespace"></div>
@@ -81,7 +81,7 @@ Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.setting
 
 </div>
 
-<h2 class="recruiting">Request a Free Business Planning Call</h2>
+<h2 class="recruiting">Apply Now to Join Our Team</h2>
 
 <form method="post" class="home-value cta-forms" action="https://formspree.io/kati@spaniakteam.com" onsubmit="return setReturn()">
 					<fieldset><label for="firstname">First Name*</label> <input type="text" required="" name="firstname" /> <label for="lastname">Last Name*</label> <input type="text" required="" name="lastname" /> <label for="email">Email*</label> <input type="text" name="name" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" />
