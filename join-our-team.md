@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Our Team
+title: Houston Metro Area Careers
 permalink: /join-our-team/
 ---
 <div class="recruiting-page">
