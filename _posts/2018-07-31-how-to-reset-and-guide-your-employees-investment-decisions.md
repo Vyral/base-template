@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 screenshot: uploads/Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01.jpg
-video_file: Auto%20Re-Enrollment%20(1).mp4
+video_file: uploads/Auto%20Re-Enrollment%20(1).mp4
 ---
 
 {% include post-video.html %}
