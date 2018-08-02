@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About Working With 1000 Calls A Day
-date: 2018-08-02 18:23:49
+date: 2018-08-02 18:23:00
 tags:
 excerpt: >-
   What kind of service and results you can expect when you allow us to go to
@@ -11,8 +11,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/logo.png
 youtube_code:
 ---
 
