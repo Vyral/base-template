@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   What kind of service and results you can expect when you allow us to go to
   work for you? Allow us to explain.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/2018/1000+Calls+a+Day+Sales+Presentation.wav
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,7 +15,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479375814&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479375814&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 What kind of service and results you can expect when you allow us to go to work for you? Allow us to explain.
 
