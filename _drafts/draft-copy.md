@@ -1,16 +1,68 @@
 ---
 layout: post
-title: Draft
+title: 18 Questions to Ask when Shopping for a Real Estate Agent
 tags:
-excerpt:
+  - Home Buyer Tips
+  - Real Estate
+  - Dallas Mortgage
+excerpt: >-
+  If you are looking to buy or sell a home, you’ll probably want to not only
+  find the best agent for our needs, but one with integrity and one that knows
+  the ropes.
 enclosure:
-pullquote:
+pullquote: >-
+  If you are looking to buy or sell a home, you’ll probably want to not only
+  find the best agent for our needs, but one with integrity and one that knows
+  the ropes.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/18 Questions to Ask when Shopping for a Real Estate Agent.png
 youtube_code:
 ---
-{% include youtube.html %}
 
-{% include pullquote.html %}
+If you are looking to buy or sell a home, you’ll probably want to not only find the best agent for our needs, but one with integrity and one that knows the ropes.&nbsp; They don’t have to be your best friend, but they should be someone that you genuinely like—because you’ll be spending a lot of time with them.&nbsp;
+
+Start with recommendations from family and friends.&nbsp; Ask what they liked about them.&nbsp; What they didn’t like.&nbsp; And then take it one step further— spend about 30-45 minutes and ask them these questions!
+
+1. How long have you been selling residential real estate?&nbsp;
+
+2. Is it your full-time job?
+
+3. What are your credentials?
+
+4. What other type of real estate training courses have you had?
+
+5. How many homes did you sell last year?
+
+6. How many buyers did you represent?
+
+7. What’s the average time to sell a home? (if listing your home for sale)
+
+8. How do you plan to market my home for sale?
+
+9. What’s the average time it took you to sell your listings?
+
+10. What’s the average time you spend with someone buying a home (if buying)
+
+11. How close to the asking price, versus the sales price are you able to negotiate (both for buyers and sellers)
+
+12. Will you represent me exclusively (if you are a buyer)
+
+13. How many lenders do you work with?&nbsp; (if you need a mortgage)
+
+14. Why do you like working with these lenders?&nbsp;
+
+15. What other service providers do you work with?&nbsp;
+
+16. Do you get any compensation when you refer them to me?
+
+17. How will you communicate with me?&nbsp;
+
+18. How often should I expect to hear from you?
+
+Just a couple of things to keep in mind!
+
+Experience is not a guarantee that the person is successful.&nbsp; Ask additional questions if you don’t understand the answers.&nbsp; Ask for references.&nbsp; Make the telephone calls. &nbsp; And before you buy or sell your home, by all means get pre-approved ahead of time.
+
+&nbsp;
