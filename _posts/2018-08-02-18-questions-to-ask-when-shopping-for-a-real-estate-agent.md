@@ -21,11 +21,11 @@ youtube_alternate_image: /uploads/18 Questions to Ask when Shopping for a Real E
 youtube_code:
 ---
 
-If you are looking to buy or sell a home, you’ll probably want to not only find the best agent for our needs, but one with integrity and one that knows the ropes.&nbsp; They don’t have to be your best friend, but they should be someone that you genuinely like—because you’ll be spending a lot of time with them.&nbsp;
+If you are looking to buy or sell a home, you’ll probably want to not only find the best agent for our needs, but one with integrity and one that knows the ropes.  They don’t have to be your best friend, but they should be someone that you genuinely like—because you’ll be spending a lot of time with them. 
 
-Start with recommendations from family and friends.&nbsp; Ask what they liked about them.&nbsp; What they didn’t like.&nbsp; And then take it one step further— spend about 30-45 minutes and ask them these questions!
+Start with recommendations from family and friends.  Ask what they liked about them.  What they didn’t like.  And then take it one step further— spend about 30-45 minutes and ask them these questions!
 
-1. How long have you been selling residential real estate?&nbsp;
+1. How long have you been selling residential real estate? 
 
 2. Is it your full-time job?
 
@@ -49,20 +49,18 @@ Start with recommendations from family and friends.&nbsp; Ask what they liked ab
 
 12. Will you represent me exclusively (if you are a buyer)
 
-13. How many lenders do you work with?&nbsp; (if you need a mortgage)
+13. How many lenders do you work with?  (if you need a mortgage)
 
-14. Why do you like working with these lenders?&nbsp;
+14. Why do you like working with these lenders? 
 
-15. What other service providers do you work with?&nbsp;
+15. What other service providers do you work with? 
 
 16. Do you get any compensation when you refer them to me?
 
-17. How will you communicate with me?&nbsp;
+17. How will you communicate with me? 
 
 18. How often should I expect to hear from you?
 
 Just a couple of things to keep in mind!
 
-Experience is not a guarantee that the person is successful.&nbsp; Ask additional questions if you don’t understand the answers.&nbsp; Ask for references.&nbsp; Make the telephone calls. &nbsp; And before you buy or sell your home, by all means get pre-approved ahead of time.
-
-&nbsp;
+Experience is not a guarantee that the person is successful.  Ask additional questions if you don’t understand the answers.  Ask for references.  Make the telephone calls.   And before you buy or sell your home, by all means get pre-approved ahead of time.
