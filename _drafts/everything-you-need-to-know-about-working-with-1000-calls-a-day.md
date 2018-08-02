@@ -12,8 +12,9 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://soundcloud.com/jessica-sanders-7/1000-calls-a-day'
+youtube_code:
 ---
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/479375814&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 What kind of service and results you can expect when you allow us to go to work for you? Allow us to explain.
 
