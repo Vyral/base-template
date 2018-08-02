@@ -32,13 +32,13 @@ If you find yourself as a personal representative or an heir of a property as an
 
 **3. What if you’re not local?**
 
-**4. What if you need repairs?**
+**4. What if you need repairs done?**
 
 **5. Who can you trust to help?**
 
 {% include pullquote.html %}
 
-Answering these questions can feel overwhelming, but you should be relieved to know that you can trust the Treu Group to handle the details of these challenges for you. We want to offer you the results and solutions needed to simplify your life, so you can deal what’s important: the emotions and personal issues that arise during this difficult time.
+Answering these questions can feel overwhelming, but you should be relieved to know that you can trust the Treu Group to handle the details of these challenges for you. We want to offer you the results and solutions needed to simplify your life, so you can deal with what’s important: the emotions and personal issues that arise during this difficult time.
 
 **You can hear more about working with us through such a transition by those who already have by clicking [here.](https://www.treugroup.com/sellers/probate-and-inheritance/){: target="_blank"}**
 
