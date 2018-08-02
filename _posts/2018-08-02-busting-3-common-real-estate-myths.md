@@ -20,7 +20,9 @@ youtube_code: kGnY2uzHDYg
 
 {% include youtube.html %}
 
-<center>Not everything you hear about the real estate market is factual. Here is the truth behind these three common real estate myths.</center>
+<center><em>Not everything you hear about the real estate market is factual. Here is the truth behind these three common real estate myths.</em></center>
+
+&nbsp;
 
 Today we’re going to talk about three common myths in real estate and what the actual truths behind them are:
 
