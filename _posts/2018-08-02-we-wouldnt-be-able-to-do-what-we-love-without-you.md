@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why We Wouldn’t Be Able to Do What We Love Without You
-date: 2018-08-02 16:03:15
+title: We Wouldn’t Be Able to Do What We Love Without You
+date: 2018-08-02 16:03:00
 tags:
   - Real Estate
 excerpt: >-
