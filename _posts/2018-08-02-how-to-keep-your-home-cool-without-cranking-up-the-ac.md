@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Keep Your Home Cool Without Cranking Up the A/C
-date: 2018-08-02 16:26:54
+date: 2018-08-02 16:26:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: B_XB6mHb5E
+youtube_code: '-B_XB6mHb5E'
 ---
 
 {% include youtube.html %}
