@@ -28,6 +28,6 @@ We’ve been able to help over 100 families buy or sell a home this year so far.
 
 For example, we’ve donated $500 to Global Gardens, Emergency Infant Services, and the Community Food Bank of Eastern Oklahoma.&nbsp;
 
-We also put together an event where we collected donations for Dressers for Success. Every time we host one of these events to raise money for a local nonprofit, we have so much fun, so **if you have a favorite local nonprofit, don’t hesitate to mention them to us.** We’d be happy to include them in this initiative.&nbsp;
+We also put together an event where we collected donations for Dress for Success. Every time we host one of these events to raise money for a local nonprofit, we have so much fun, so **if you have a favorite local nonprofit, don’t hesitate to mention them to us.** We’d be happy to include them in this initiative.&nbsp;
 
 We appreciate you very much, so if there’s anything you need from us or we can assist you in any way, give us a call or send us an email anytime. We’d love to speak with you.
