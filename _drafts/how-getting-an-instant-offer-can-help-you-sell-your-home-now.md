@@ -20,7 +20,7 @@ youtube_code: Q_7o1K0Ur4A
 
 {% include youtube.html %}
 
-Do you need to sell your home quickly? Getting an instant offer from us may be the solution you were looking for.
+<center>Do you need to sell your home quickly? Getting an instant offer from us may be the solution you were looking for.</center>
 
 Today we are going to talk about HBRinstantoffers.com. **This program is typically for people that are unable to wait 30, 60, or 90 days to receive an offer on their house**. It is usually used by someone who is in a distressed situation, needs help, or needs to cash out right now.
 
