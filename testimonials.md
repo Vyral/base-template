@@ -70,4 +70,4 @@ You made me laugh out loud over your “I hate people” phase. Oh my god girl, 
 <hr>
 
 <p class="testimonial-author">
-- Randi Wright, Tulsa, OK, Loan Officer
+- To share your aha’s or testimonial from following Jennie or attending one of her classes, click here.
