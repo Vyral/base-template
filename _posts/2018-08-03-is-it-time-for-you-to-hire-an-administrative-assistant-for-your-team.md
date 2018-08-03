@@ -21,7 +21,7 @@ youtube_code: wrtlWanFTzo
 
 {% include youtube.html %}
 
-Before you let yourself get burnt out on real estate transactions, maybe you should consider hiring an administrative assistant.
+<p style="text-align: center;"><em>Before you let yourself get burnt out on real estate transactions, maybe you should consider hiring an administrative assistant.</em></p>
 
 We all know that you can easily lose balance between your work and private life in real estate and become exhausted when you reach a certain transaction count. A solution to help this is to hire an administrative assistant. Today I want to go over the steps and guidelines that we use to hire an assistant.
 
