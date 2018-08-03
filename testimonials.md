@@ -3,9 +3,10 @@ layout: default
 title: Testimonials
 permalink: /testimonials/
 ---
-<div class="client-testimonial">
 <p class="testimonial-author">
 - To share your aha&rsquo;s or testimonial from following Jennie or attending one of her classes, <a data-cms-editor-link-style="undefined" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfwT_ABo6jxcSiVy5KTTsfUtPmS_KGNOHxurV6VSVh9hztfVA/viewform?c=0&amp;w=1"><strong>click here.</strong></a></p></div>
+<div class="client-testimonial">
+
 <p class="testimonial-text">
 My biggest a-ha is from using Jennie's guidance in class to discover my why and form my own personal mission statement. It was sooo revealing and I have come back to it many times since class. It gives me more clarity and is like a rudder in my business decisions. The scripts and other tips and tricks were amazing, too.
 </p>
