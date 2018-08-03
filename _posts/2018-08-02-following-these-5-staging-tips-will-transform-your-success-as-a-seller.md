@@ -23,7 +23,7 @@ youtube_code: t8_5eGzfTGQ
 
 Strategically staging your home can help you achieve a faster sale and a higher price, and there are a few key tips our team recommends when taking on this task.&nbsp;
 
-**1. Boost your property’s curb appeal.** Changing out hardware, sprucing up your yard, and painting the exterior of your home can go a long way in making your property stand out. Each of these changes will make your home appear more clean, and clean sells.&nbsp;
+**1. Boost your property’s curb appeal.** Changing out hardware, sprucing up your yard, and painting the exterior of your home can go a long way in making your property stand out. Each of these changes will make your home appear cleaner, and clean sells.&nbsp;
 
 **2. Create ambiance.** Your home should appeal to all five of a buyer’s senses. So make sure your home has lots of light, subtle fragrances, and quiet music playing in the background. To play on buyers’ sense of touch, incorporate textured objects that evoke warmth, such as blankets, throughout the home. Also, it never hurts to have a plate of candy or fresh-baked cookies ready for buyers to enjoy when they tour your listing.
 
