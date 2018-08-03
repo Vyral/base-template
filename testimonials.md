@@ -6,14 +6,6 @@ permalink: /testimonials/
 <div class="client-testimonial">
 
 <p class="testimonial-text">
-To share your aha’s or testimonial from following Jennie or attending one of her classes, click here.
-</p>
-<p class="testimonial-author">
-- Missy Webb, Norman, OK Agent
-</p>
-<hr>
-
-<p class="testimonial-text">
 My biggest a-ha is from using Jennie's guidance in class to discover my why and form my own personal mission statement. It was sooo revealing and I have come back to it many times since class. It gives me more clarity and is like a rudder in my business decisions. The scripts and other tips and tricks were amazing, too.
 </p>
 <p class="testimonial-author">
