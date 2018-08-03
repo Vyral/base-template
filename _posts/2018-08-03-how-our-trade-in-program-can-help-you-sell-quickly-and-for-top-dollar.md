@@ -35,10 +35,10 @@ The first part of this program is the **Buyer Rebate offer**. With this rebate, 
 {% include pullquote.html %}
 {: .present-before-paste}
 
-The second part is the **Buy and Sell for Free****offer**. If a buyer wants to buy your home but they have a property they need to sell first, we offer to sell that property for free—no listing commission charges at all. This will save them as much as 3% of their home sale costs.
+The second part is the **Buy and Sell for Free&nbsp;****offer**. If a buyer wants to buy your home but they have a property they need to sell first, we offer to sell that property for free—no listing commission charges at all. This will save them as much as 3% of their home sale costs.
 {: .present-before-paste}
 
-The third part is the **Rental Lease Buyout****program**. If the buyer is a tenant and still has several months left on their lease and can’t afford to make two payments, we have them cancel their rental agreement and then pay for their cancelation fee. This saves you the extra monthly expenses of holding your property for that buyer.
+The third part is the **Rental Lease Buyout&nbsp;****program**. If the buyer is a tenant and still has several months left on their lease and can’t afford to make two payments, we have them cancel their rental agreement and then pay for their cancelation fee. This saves you the extra monthly expenses of holding your property for that buyer.
 {: .present-before-paste}
 
 The fourth part is **Relocation Assistance**. If your buyer is from out of state, we offer to pay for their moving expenses. Again, this comes out of our commission and is no extra cost to you.
