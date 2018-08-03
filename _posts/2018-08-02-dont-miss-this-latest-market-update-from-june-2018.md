@@ -21,7 +21,7 @@ The numbers from the June market are in, so I want to take some time to update y
 
 You’ve probably read or seen that inventory is still very low, but believe it or not, **our sales are really high.** That seems like a disconnect, but we’ve noticed that a lot of things that haven’t sold in the past are now being plucked off the market.
 
-The average sales price is now up to $192,000. Compared to this time last year, that’s an 8% gain. In the memphis market, we usually ride around 5%; our ebbs and flows aren’t typically too big, but we’ve been relatively steady since the 2007-2008 market crash.
+The average sales price is now up to $192,000. Compared to this time last year, that’s an 8% gain. In the Memphis market, we usually ride around 5%; our ebbs and flows aren’t typically too big, but we’ve been relatively steady since the 2007-2008 market crash.
 
 {% include pullquote.html %}
 
