@@ -21,7 +21,7 @@ youtube_code: X1Wuo3EJPS8
 
 {% include youtube.html %}
 
-Millennials are entering the market in droves. Here’s how a 20-something should prepare to buy a home.
+<p style="text-align: center;"><em>Millennials are entering the market in droves. Here’s how a 20-something should prepare to buy a home.</em></p>
 
 We’ve really got to hand it to the millennial generation—they’re an educated, tech-savvy bunch who really know what they want. Lately we’ve been finding that many 20-somethings are deciding that they want to buy their first home and leaving renting behind. Today I’m here to explain just **how a millennial first-time homebuyer can purchase a home with as little stress as possible.**
 
