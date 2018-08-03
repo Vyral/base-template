@@ -31,7 +31,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://whatsmypalmbeachcountyhomevalue.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.treugroup.com/
+  second_CTA_URL: https://www.treugroup.com/property-search/search-form/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -45,7 +45,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.treugroup.com/
+    CTA_url2: https://www.treugroup.com/property-search/search-form/
 
 lender:
   show_section: false
@@ -75,7 +75,7 @@ socials:
   gplus_url: https://plus.google.com/+LisaTreu
   youtube_url: https://www.youtube.com/channel/UCZ113PqNjQbuegjfueaTvmA
   twitter_url: https://twitter.com/LisaTreu
-  instagram_url:
+  instagram_url: https://www.instagram.com/treugrouprealestate/
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Treu-Group/
   trulia_url: http://www.trulia.com/profile/treugroup/
