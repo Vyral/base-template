@@ -30,6 +30,6 @@ We decided to provide this opportunity for you after consulting with many of our
 
 {% include pullquote.html %}
 
-We created the program specifically with you in mind. We come out to your home, meet with you, listen to your story, and make an instant offer within 24 hours. The can benefit from the program by getting to choose the closing date, not having to complete repairs, and you get your money as soon as possible.
+We created the program specifically with you in mind. We come out to your home, meet with you, listen to your story, and make an instant offer within 24 hours. You get to choose the closing date, not have to worry about making any repairs, and get your money as soon as possible.
 
-If you have any questions, feel free to reach out to us or go to hbrinstantoffers.com. We look forward to working with you.
+If you have any questions, feel free to reach out to us or go to HBRinstantoffers.com. We look forward to working with you.
