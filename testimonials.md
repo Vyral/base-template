@@ -68,3 +68,6 @@ You made me laugh out loud over your “I hate people” phase. Oh my god girl, 
 - Randi Wright, Tulsa, OK, Loan Officer
 </p>
 <hr>
+
+<p class="testimonial-author">
+- Randi Wright, Tulsa, OK, Loan Officer
