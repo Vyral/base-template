@@ -6,7 +6,7 @@ permalink: /testimonials/
 <div class="client-testimonial">
 
 <p class="testimonial-author">
-- To share your aha&rsquo;s or testimonial from following Jennie or attending one of her classes, <a data-cms-editor-link-style="undefined" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfwT_ABo6jxcSiVy5KTTsfUtPmS_KGNOHxurV6VSVh9hztfVA/viewform?c=0&amp;w=1"><strong>click here.</strong></a></p></div>
+To share your aha&rsquo;s or testimonial from following Jennie or attending one of her classes, <a data-cms-editor-link-style="undefined" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfwT_ABo6jxcSiVy5KTTsfUtPmS_KGNOHxurV6VSVh9hztfVA/viewform?c=0&amp;w=1"><strong>click here.</strong></a></p></div>
 </p>
 <hr>
 
