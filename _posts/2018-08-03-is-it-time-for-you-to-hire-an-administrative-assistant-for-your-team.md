@@ -5,7 +5,7 @@ date: 2018-08-03 18:08:57
 tags:
   - Real Estate
 excerpt: >-
-  Before you let yourself get burnt out on real estate transactions, maybe you
+  Before you let yourself get burnt out in your career, maybe you
   should consider hiring an administrative assistant.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/August/Central+PA+Real+Estate+Agent-+How+Do+You+Hire+Your+First+Administrative+Assistant%253F.mp4
@@ -23,9 +23,9 @@ youtube_code: wrtlWanFTzo
 
 <p style="text-align: center;"><em>Before you let yourself get burnt out on real estate transactions, maybe you should consider hiring an administrative assistant.</em></p>
 
-We all know that you can easily lose balance between your work and private life in real estate and become exhausted when you reach a certain transaction count. A solution to help this is to hire an administrative assistant. Today I want to go over the steps and guidelines that we use to hire an assistant.
+We all know that you can easily lose balance between your work and private life in real estate and become exhausted when you reach a certain transaction count. A solution to this is to hire an administrative assistant. Today I want to go over the steps and guidelines that we use to hire an assistant.
 
-**1. Write your position agreement.** You should generally outline the administrative tasks, roles, and responsibilities that this person is going to be responsible for. Some things that we typically recommend are things like miscellaneous marketing tasks, listing appointment preparation, getting the listing on the market, servicing the listing that is administrative in nature, and all the things related to the contract to close portion of all buyer and seller transactions.
+**1. Write your position agreement.** You should generally outline the administrative tasks this person will be responsible for. This may include miscellaneous marketing tasks, listing appointment preparation, and other tasks that will be necessary for taking a transaction from contract to close.
 
 **2. Write your job ad and post it.** Short and sweet is always best. Just remember to include things like the hours worked per week, a general description, and the pay range that you are going to offer. Then, make sure you also include contact information. We encourage you to post on Indeed as well as circulate it among your sphere of influence via social media and email.
 
@@ -33,7 +33,7 @@ We all know that you can easily lose balance between your work and private life 
 
 {% include pullquote.html %}
 
-**4. Follow up with the interview process.** We recommend going a phone screen or zoom meeting on your computer. Then do an in-person meeting for the second interview. You will obviously want to review their resume and skill set, as well as potentially do a behavioral profile, to make sure they are the right fit for the job.
+**4. Follow up with the interview process.** We recommend doing a phone screen or zoom meeting on your computer for your first interview. Then do an in-person meeting for the second interview. You will obviously want to review their resume and skill set, as well as potentially do a behavioral profile, to make sure they are the right fit for the job.
 
 **5. Make the job offer.** Make sure you keep it simple. We recommend a one-page document that is a written offer outlining hours, pay, and any applicable benefits. Since I am not an HR specialist or attorney, I contact someone who is an authority to make sure I follow appropriate legal guidelines.
 
