@@ -22,7 +22,7 @@ youtube_code: Wb25tbHUFsU
 
 {% include youtube.html %}
 
-Today I am explaining the differences between the three types of values that your home is assigned.
+<center>Today I am explaining the differences between the three types of values that your home is assigned.</center>
 
 What is the difference between assessed value, appraised value, and market value?
 
