@@ -18,6 +18,6 @@ youtube_code: DZPsXWPe84I
 
 {% include youtube.html %}
 
-Vote for EXIT Lakes Realty Premier
+<center>Vote for EXIT Lakes Realty Premier</center>
 
 The EXIT Lakes Realty Premier team and I were nominated by the Brainerd Dispatch as a candidate in their “Best of” contest. I just wanted to take a minute to encourage you to vote for us as the best real estate company in the Brainerd Lakes area. We have been working hard to bring you quality service for a long time and would appreciate your vote. You can [follow this link](http://www.brainerddispatch.com/bestofbrainerdlakes#/gallery/?group=282341) to vote daily until August 21.
