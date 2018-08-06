@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Long Term Leasing Conversation: Part 3'
-date: 2018-08-03 19:37:06
+title: 'Long-Term Leasing Conversation: Part 3'
+date: 2018-08-03 19:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,13 +23,13 @@ Welcome back to the third and final part of our conversation with Kim Drury of A
 
 ***What are the benefits of long-term leasing from a property tax perspective?***
 
-That’s a great question. Park City is part of Summit County, where primary ownership of a property is recognized through a discounted rate. If someone has a long-term tenant in their property who is using the property as a primary residence, it qualifies for the primary residence tax rate as well. This is about a 45% savings on taxes. There is no limit on the number of properties an owner can own to claim that tax benefit.
+Park City is part of Summit County, where primary ownership of a property is recognized through a discounted rate. If someone has a long-term tenant in their property who is using the property as a primary residence, it qualifies for the primary residence tax rate as well. This is about a 45% savings on taxes. There is no limit on the number of properties an owner can own to claim that tax benefit.
 
 {% include pullquote.html %}
 
 ***Why would an owner consider long-term leasing in a community where short-term rentals are so popular?***
 
-As a property investor, you want to maximize your investment in a property. There are a few different ways to do that. One is by caring for the property. We have found that, generally, having a long-term renter equates to better maintenance of the property. Secondly, long-term leasing minimizes vacancy costs. Finally, some of the costs that go into nightly property management, including turnover costs and extra taxes, are not incurred with a long-term lease. A lot of property owners end up making more money on their investment by utilizing a long term lease.
+As a property investor, you want to maximize your investment in a property. There are a few different ways to do that. One is by caring for the property. We have found that, generally, having a long-term renter equates to better maintenance of the property. Secondly, long-term leasing minimizes vacancy costs. Finally, some of the costs that go into nightly property management, including turnover costs and extra taxes, are not incurred with a long-term lease. A lot of property owners end up making more money on their investment by utilizing a long-term lease.
 
 ***What achievement are you most proud of in regards to Angel Properties and their contribution to the community?***
 
