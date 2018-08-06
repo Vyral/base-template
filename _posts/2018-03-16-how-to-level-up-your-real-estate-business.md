@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/recruiting-class-youtube.jpg
-youtube_code:ukd-NMGTiJE
+youtube_code: ukd-NMGTiJE
 ---
 
 {% include youtube.html %}
