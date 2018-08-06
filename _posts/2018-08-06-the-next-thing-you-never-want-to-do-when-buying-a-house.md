@@ -25,7 +25,7 @@ youtube_code: e15Ww2TpF14
 
 In continuing our series about the six things you never want to do when buying a house, we are talking today about choosing a mortgage lender.
 
-In order to find a mortgage lender, **I highly suggest that you collaborate with a Realtor that you trust, who is full-time, and who has experience selling houses.** They need to have sold more than one or two houses and be actively engaged in the industry.
+In order to find a mortgage lender, **I highly suggest that you collaborate with a full-time, experienced Realtor you trust.** They need to have sold more than one or two houses and be actively engaged in the industry.
 
 Agents like this can provide you with a lot of value. With as many connections as they have to local professionals, they should know a great mortgage lender who will treat you fairly and do a good job.
 
@@ -33,6 +33,6 @@ Agents like this can provide you with a lot of value. With as many connections a
 
 All lenders get money from the same place and they all have to make a profit. So be wary of any lender offering significantly cheaper services. You will either pay in upfront fees or in your rate. The mortgage lender is going to make their money no matter what.
 
-**I also highly recommend that you choose the lender who is local.** While there are lots of online lenders, working with them would be a poor decision. They have no vested interest in whether or not you get the house. A local lender, meanwhile, will care about protecting their reputation. And, as such, will provide you with a higher level of service.
+**I also highly recommend that you choose a local lender.** While there are lots of online lenders, working with them would be a poor decision. They have no vested interest in whether or not you get the house. A local lender, meanwhile, will care about protecting their reputation. And, as such, will provide you with a higher level of service.
 
 If you have any additional questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
