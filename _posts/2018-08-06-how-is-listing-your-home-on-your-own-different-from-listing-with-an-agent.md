@@ -20,7 +20,7 @@ youtube_code: hpBZF40aIag
 
 {% include youtube.html %}
 
-Selling your home as FSBO means you will have to do what we Realtors do. However, this might require some extra work on your part, and you might encounter some difficulties.
+<p style="text-align: center;"><em>Selling your home as FSBO means you will have to do what we Realtors do. However, this might require some extra work on your part, and you might encounter some difficulties.</em></p>
 
 If you’re thinking of selling your home by yourself, what should you expect from the home sale process? What do you do when selling a home as FSBO?
 
