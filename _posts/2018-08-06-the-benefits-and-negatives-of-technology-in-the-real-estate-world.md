@@ -21,7 +21,9 @@ youtube_code: pNf1tB7RLcM
 
 {% include youtube.html %}
 
-<center>Is technology changing the way that the real estate industry works?</center>
+<center><em>Is technology changing the way that the real estate industry works?</em></center>
+
+&nbsp;
 
 Is real estate technology making the market more confusing than ever?
 
