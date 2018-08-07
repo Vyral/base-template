@@ -63,7 +63,7 @@ However, if you decide to wait, things might go south quickly.
 
 If you are considering selling your home, you can get started with an estimate of what your home is worth in the current market. Simply use this calculator, which takes into account recent Central Pennsylvania sales:
 
-**[Enter your street address here to find out what your home is worth](https://akronenberg.kw.com/selling/){: target="_blank"}**
+<u><strong><a target="_blank" href="https://akronenberg.kw.com/selling/">Enter your street address here to find out what your home is worth</a></strong></u>
 
 And if you want an even more accurate estimate, then give me a call at (717) 609-8265. I have my finger on the pulse of the Central Pennsylvania real estate market, and I can tell you how quickly — and for how much — you could sell your home.
 
