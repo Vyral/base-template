@@ -19,7 +19,7 @@ youtube_code: 7D8FQkb_0P4
 
 {% include youtube.html %}
 
-<p style="text-algin: center;"><em>Accessory dwelling units can be a great addition to your property, but there are a few things you need to keep in mind before you start building.</em></p>
+<p style="text-align: center;"><em>Accessory dwelling units can be a great addition to your property, but there are a few things you need to keep in mind before you start building.</em></p>
 
 If you’re thinking of building an accessory dwelling unit (ADU) on your property, there are a few requirements you need to keep in mind and points to consider before moving forward.&nbsp;
 
