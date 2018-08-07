@@ -20,7 +20,7 @@ youtube_code: DIzOsbeChUU
 
 {% include youtube.html %}
 
-It is time for an update on your North Texas market.
+<center>It is time for an update on your North Texas market.</center>
 
 Today we want to give you the latest on what the real estate market is doing in North Texas.
 
