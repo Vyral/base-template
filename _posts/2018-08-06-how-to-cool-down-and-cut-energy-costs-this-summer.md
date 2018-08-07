@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Cool Down and Cut Energy Costs This Summer
-date: 2017-08-09 14:56:00
+date: 2018-08-06 14:56:00
 tags:
   - Real Estate
 excerpt: >-
