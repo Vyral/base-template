@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What can you do to stay cool this summer and save on energy bills? I have nine
   tips for you today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+9+Ways+to+Keep+Cool+and+Cut+Costs.mp4
 pullquote: These are simple things you can do to save money and stay cool.
 enclosure_type: video/mp4
 enclosure_time:
