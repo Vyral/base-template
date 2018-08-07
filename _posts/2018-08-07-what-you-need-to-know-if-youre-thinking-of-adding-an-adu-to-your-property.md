@@ -35,4 +35,6 @@ We’ve also found that many homes with ADUs end up being bought out by investor
 
 Lastly, by adding an ADU onto your property, you’ll be subject to the rules of rent control, especially if the property was built before 1978.&nbsp;
 
-There’s a lot more that goes into building and owning an ADU, so if you have any additional questions or would like further information on this subject, don’t hesitate to reach out to me. I’d be happy to help you.
+If you'd like to do further research on the matter, feel free to check out this more detailed article featured in <a href="https://la.curbed.com/2018/5/29/17381808/adu-los-angeles-meaning-requirements-california" target="_blank"><em>Curbed</em></a>
+
+There’s still a lot more that goes into building and owning an ADU, so if you have any additional questions or would like further information on this subject, don’t hesitate to reach out to me. I’d be happy to help you.
