@@ -16,8 +16,82 @@
 .newsletter
 	background: darken($theme, 3%)
 
+.whitespace
+	margin-top: 3rem
 
+.homepage-bio
+	background: $brand
+	width: 100%
 
+.team-bio
+	display: block
+	margin: 3rem auto
+	color: #fff
+	padding: 4rem
+	text-align: center
+	font-size: 22px
+	font-weight: 300
+	line-height: 30px
+
+.simple-cta-container
+	width: 90%
+	background: rgba(238,238,238,.9)
+	margin: 0 auto
+	margin: 2rem
+	padding-bottom: 2.5rem
+	text-align: center
+	border-bottom: 5px solid $brand
+	&:hover
+		background: #fff
+
+.simple-cta-photo
+	width: 100%
+
+.secondary-cta-title
+	font-weight: 700
+	font-size: 23px
+	text-transform: uppercase
+	color: $brand
+	padding: 1rem
+	margin-bottom: 0
+
+@media (max-width: 400px)
+	.secondary-cta-title
+		font-size: 20px
+
+.secondary-subtitle
+	font-size: 20px
+	color: #000
+	padding: 1rem
+	margin-bottom: 0
+
+.simple-cta
+	display: block
+	margin: 0 auto
+	font-size: 20px
+	text-align: left
+	padding-left: 1rem
+
+.simple-cta-link
+	justify-content: center
+	background: $brand
+	border: 1px solid $brand
+	border-radius: $button-radius
+	padding: 10px 20px
+	text-decoration: none
+	font-size: 18px
+	color: #ffffff
+	margin-left: 1rem
+	+transition
+	p
+		text-align: center
+	&:hover
+		background: #fff
+		color: $brand
+		border: 1px solid $brand
+	&:active
+		box-shadow: 0 0 0 $brand
+		@include transform(translateY(0rem))
 
 #side-logo
 	width: 90%

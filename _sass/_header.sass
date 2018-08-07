@@ -1,31 +1,83 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	padding-top: $nav-height + 5rem
-#hero
+	height: 350px
+.hero
 	background-position: center
 	background-size: cover
 	background-attachment: fixed
 	background-repeat: no-repeat
 	text-align: center
+	padding-top: 5rem
+
+.hero-home
+	background-position: center
+	background-size: cover
+	background-attachment: fixed
 
 .site-logo
 	width: 90%
 	max-width: $logo-width
+	margin: 0 auto
+	padding-top: 9rem
+	display: block
+	@include filter(drop-shadow($header-shadow))
+
+.header-logo
+	width: 90%
+	max-width: $logo-width
+	margin: 0 auto
+	padding-top: $nav-height + 5rem
+	display: block
 	@include filter(drop-shadow($header-shadow))
 
 .site-title
-	color: black
-	text-shadow: $header-shadow
-	text-transform: uppercase
-	font-size: 5rem
-	padding-bottom: 4rem
-	margin-bottom: 0
+	color: $brand
+	text-align: center
 	font-weight: 400
+	padding-bottom: 2rem
+	margin-bottom: 0
+
+.hero-cta
+	padding-top: 2rem
+	text-align: center
+
+.apply-button
+	margin: 3rem 0 0 0
+
+.mobile-break
+	button
+		width: 100%
+
+.hero-cta
+	text-align: center
+	width: 75%
+	display: block
+	margin: 0 auto
+
+.cta-title
+	font-weight: 700
+	font-size: 60px
+	line-height: 70px
+	padding-top: 2rem
+	color: $theme
+	@include filter(drop-shadow($header-shadow))
+
+.hero-cta-text
+	font-weight: bold
+	font-size: 24px
+	color: $theme
+	@include filter(drop-shadow($header-shadow))
+
+#apply
+	text-transform: capitalize
+	font-size: 20px
 
 @media (max-width: 1100px)
 	.site-title
 		font-size: 5rem
+	.hero-cta
+		width: 75%
 
 @media (max-width: 1000px)
 	.site-logo
@@ -39,6 +91,9 @@
 		margin-top: 4rem
 	.site-title
 		font-size: 5rem
+	.cta-title
+		font-size: 45px
+		line-height: 50px
 
 @media (max-width: 600px)
 	#hero

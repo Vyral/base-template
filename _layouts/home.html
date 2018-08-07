@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+{% include head.html %}
+
+	<body>
+		{% if site.data.settings.audit_header == true %}
+			{% include audit.html %}
+		{% endif %}
+		{% include home-header.html %}
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-sm-12">
+
+					{% include navigation.html %}
+				</div>
+			</div>
+			<div class="row ">
+				<div class="col-sm-12 visible-xs visible-sm sidebar">
+					{% include socials.html %}
+					{% include search-box.html %}
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-7 col-md-7 col-lg-offset-1">
+					<h3 class="site-title">Our Mission on this site is to educate Real Estate Agents on how to sell more homes.</h3>
+					{{ content }}
+				</div>
+
+				<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
+					{% include cta-sidebar.html %}
+				</div>
+
+
+			{% include pagination.html %}
+			{% include about.html %}
+			{% include testimonials.html %}
+			{% include bottom-navigation.html %}
+			{% include footer.html %}
+		</div>
+		</div>
+  </body>
+</html>
