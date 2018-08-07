@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What You need to Know if You’re Thinking of Adding an ADU to Your Property
+title: What You Need to Know if You’re Thinking of Adding an ADU to Your Property
 date: 2018-08-07 16:43:34
 tags:
   - Real Estate
@@ -23,9 +23,9 @@ youtube_code: 7D8FQkb_0P4
 
 If you’re thinking of building an accessory dwelling unit (ADU) on your property, there are a few requirements you need to keep in mind and points to consider before moving forward.&nbsp;
 
-First, y**ou don’t need a detached structure on your property to build an ADU.** You can add to your existing house or use your garage, although it should be at least a two-car garage if the latter is your preferred option. The maximum amount of space you can add is 1,200 square feet, and you can’t build more than 50% of your house’s square footage. For example, if your house is 1,000 square feet, you can’t add more than 1,000 square feet for your ADU.
+First, **you don’t need a detached structure on your property to build an ADU.** You can add to your existing house or use your garage, although it should be at least a two-car garage if the latter is your preferred option. The maximum amount of space you can add is 1,200 square feet, and you can’t build more than 50% of your house’s square footage. For example, if your house is 1,000 square feet, you can’t add more than 1,000 square feet for your ADU.
 
-Second, y**ou might be in for a bit of a wait to obtain your building permit.** Before you start building, you have to submit your plans to the Department of Building and Safety. In the past, you’d only have to wait a couple hours for your plans to be approved. Now that building ADUs is becoming so popular among investors, this waiting period has stretched to two to three weeks.&nbsp;
+Second, **you might be in for a bit of a wait to obtain your building permit.** Before you start building, you have to submit your plans to the Department of Building and Safety. In the past, you’d only have to wait a couple hours for your plans to be approved. Now that building ADUs is becoming so popular among investors, this waiting period has stretched to two to three weeks.&nbsp;
 
 Don’t assume you’ll be able to just convert your garage for $20,000, either. Depending on what you’re trying to build, **ADUs can also be cost prohibitive** due to the construction regulations you must follow.&nbsp;
 
