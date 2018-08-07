@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Benefits and Negatives of Technology in the Real Estate World
+title: The Negatives of Technology in the Real Estate World
 date: 2018-08-06 00:00:00
 tags:
   - Real Estate
@@ -35,6 +35,6 @@ For example, I randomly picked a home that has been on the market for more than 
 
 **As a seller, if you are relying on these websites for your information, I don't blame you for listing your home at the price that they are recommending**. At the same time, their estimates can be way off, as was the case here. I believe that the property was overpriced by about 6% to 8%.
 
-**As a buyer, it is just as confusing because nobody wants to overpay**. This is where a good agent can come in handy— to help you assess the proper current value, give you insight into the future market, and also help you arrive at an offer that you can feel confident in.
+**As a buyer, it is just as confusing because nobody wants to overpay**. This is where a good agent can come in handy— to help you assess the property's current value, give you insight into the future market, and also help you arrive at an offer that you can feel confident in.
 
 If you would like to know what I do differently to get you a more accurate market price, if you have any other questions, or if you’re interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
