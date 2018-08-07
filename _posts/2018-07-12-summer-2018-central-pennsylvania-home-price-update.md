@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer 2018 Central Pennsylvania home price update
-date: 2018-07-11 17:23:00
+date: 2018-07-12 17:23:00
 tags:
   - Home Buyer Tips
 excerpt: >-
