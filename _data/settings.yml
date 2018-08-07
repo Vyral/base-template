@@ -40,10 +40,10 @@ client:
   market: Northern Nevada
   brand:
   brokerage: Keller Williams Group One Inc.
-  address: '10539 Professional Circle<br>Ste 100, Reno, NV 89521'
-  phone: 775-301-1312
+  address: '10539 Professional Circle, Ste 100<br>Reno, NV 89521'
+  phone: (775) 301-1312
   phone_type: Direct
-  phone2: 775-823-8787
+  phone2: (775) 823-8787
   phone2_type: Office
   email: Rick@NorthernNevadaHouseHunters.com
   url: 'https://www.northernnevadahousehunters.com'
