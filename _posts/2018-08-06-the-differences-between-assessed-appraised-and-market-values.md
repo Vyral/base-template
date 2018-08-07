@@ -28,9 +28,9 @@ youtube_code: Wb25tbHUFsU
 
 What is the difference between assessed value, appraised value, and market value?
 
-**The City of Calgary assesses homes using an algorithm**. When a property sells, they use this to help calculate what the nearby properties are worth. By looking at the most recent sales, they can extrapolate what you'll be paying in taxes based on those other properties. Your property may not have sold, so they do not know the true market value and therefore go by similar properties.
+First, let's talk about assessed value. **The City of Calgary assesses homes using an algorithm**. When a property sells, they use this to help calculate what the nearby properties are worth. By looking at the most recent sales, they can extrapolate what you'll be paying in taxes based on those other properties. Your property may not have sold, so they do not know the true market value and therefore go by similar properties.
 
-**An appraiser will have more recent sales, so they will look at a property that sold recently as a comparable for another**. By doing this, they can know whether you paid too much or if you got a great deal. An appraiser also takes things like view and other factors and adjusts for it.
+Now, let's look at appraised value. **An appraiser will have more recent sales, so they will look at a property that sold recently as a comparable for another**. By doing this, they can know whether you paid too much or if you got a great deal. An appraiser also takes things like view and other factors and adjusts for it.
 
 What an appraiser does not take into account is what is currently happening inside of the market. They only look at what happened in the past. If a market is going up, a property may be worth more than another within a month. Meanwhile, if a market is going down, the property may be worth less.
 
