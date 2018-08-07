@@ -22,7 +22,9 @@ youtube_code: Xt-6bMzaht0
 
 {% include youtube.html %}
 
-<center>If you want to get an accurate valuation of your home, don’t rely on Zillow. Instead, you should call a professional Realtor.</center>
+<center><em>If you want to get an accurate valuation of your home, don&rsquo;t rely on Zillow. Instead, you should call a professional Realtor.</em></center>
+
+&nbsp;
 
 If you’re thinking about selling your home, whether it’s to downsize, upsize, or relocate, it’s important to know how to get top dollar for it.
 
