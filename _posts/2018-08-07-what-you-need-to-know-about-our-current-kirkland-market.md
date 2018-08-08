@@ -27,6 +27,6 @@ Right now, **we are finding that the real estate market has more inventory but f
 
 The big deal is that the homes that were listed on the market this summer have been on the market for 30 days or more. You can get a big deal by making them an offer and hiring me to negotiate your best deal for you. **You can now finally sell your home, still get enough equity, find a home for a good deal, and get moved.&nbsp;**
 
-As a seller, if you are considering selling, you should know that the market is flattening out. This means that now is a much better time to buy and sell than maybe next year. As your top broker at Century 21 Northwest, you can trust me to tell you the truth and help you buy and negotiate your best deal.&nbsp;
+If you are considering selling, you should know that the market is flattening out. This means that now is a much better time to buy and sell than maybe next year. As your top broker at Century 21 Northwest, you can trust me to tell you the truth and help you buy and negotiate your best deal.&nbsp;
 
 If you have any questions or are interested in buying or selling a home, please feel free to contact me by phone or email. I look forward to speaking with you soon.
