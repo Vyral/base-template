@@ -21,7 +21,7 @@ youtube_code: 8J42Yu4dq6E
 
 What is the big deal in real estate now? Well, I am here to talk about it and give you a quick market update in the process.&nbsp;
 
-Right now, **we are finding that the real estate market has more inventory but fewer homes are selling.** In June and July, the market finally had more homes available for buyers. With increasing rates, buyers being tired of overpaying, and the new construction market yet to catch up, massive multiple offer situations aren’t happening like they were in the spring.&nbsp;
+Right now, **we are finding that the real estate market has more inventory but fewer homes are selling.** In June and July, the market finally had more homes available for buyers. With increasing rates, buyers being tired of overpaying, and the new construction market yet to catch up, massive multiple offer situations aren’t happening like they were in the Spring.&nbsp;
 
 {% include pullquote.html %}
 
