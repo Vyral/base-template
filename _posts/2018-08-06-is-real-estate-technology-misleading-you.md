@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Negatives of Technology in the Real Estate World
+title: Is Real Estate Technology Misleading You?
 date: 2018-08-06 00:00:00
 tags:
   - Real Estate
@@ -23,7 +23,7 @@ youtube_code: pNf1tB7RLcM
 
 <center><em>Is technology changing the way that the real estate industry works?</em></center>
 
-&nbsp;
+ 
 
 Is real estate technology making the market more confusing than ever?
 
