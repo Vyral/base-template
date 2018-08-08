@@ -19,7 +19,7 @@ youtube_code: rscvGfLQScM
 
 {% include youtube.html %}
 
-If you’ve put your home on the market and it is not selling, there are a couple key factors you need to examine and steps you need to take to rectify the situation.
+If you’ve put your home on the market and it is not selling, there are a couple of key factors you need to examine and steps you need to take to rectify the situation.
 
 The first factor you need to look at is **timing.** What is the average days on market for listed homes in your area right now and where does your home fall within that average? This can vary depending on what price point your home’s in.
 
