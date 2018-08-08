@@ -32,12 +32,12 @@ If you’re like most home sellers, you’ll educate yourself by going online to
 
 When getting an online home value estimate, most people visit Zillow and use their Zestimate thinking that they’re getting accurate information. However, **you should beware of the Zestimate, because it’s not accurate**.
 
-You don’t have to take my word for it. Back in 2016, the CEO of Zillow himself sold a Seattle home for $1.05 million—about 40% less than what that home’s Zestimate claimed it was worth. Not only is the Zestimate inaccurate, but Zillow themselves readily admit it’s inaccurate. Unfortunately, though, there are still people out there who take it at face value.
+You don’t have to take my word for it. Back in 2016, the CEO of Zillow himself sold a Seattle home for $1.05 million—about 40% less than what that home’s Zestimate claimed it was worth. Not only are Zestimates inaccurate, but the website itself readily admits that fact. Unfortunately, though, there are still people out there who take it at face value.
 
 {% include pullquote.html %}
 
 I understand wanting to start your home sale research online. If I have a health question, I might go on WebMD and research it. If I really need help with that issue, though, I’ll see a doctor. The same holds true for real estate—you don’t want to risk one of the largest investments of your life to an inaccurate valuation from Zillow. **You should instead seek the services of a professional Realtor like myself**.
 
-If you’re serious about wanting yo know your home’s true value, don’t hesitate to give me a call or visit my website. I’d be happy to provide you with a free valuation so you can make an informed decision.
+If you’re serious about wanting to know your home’s true value, don’t hesitate to give me a call or visit my website. I’d be happy to provide you with a free valuation so you can make an informed decision.
 
 If you have any other real estate needs, feel free to reach out to me as well. I look forward to speaking with you.
