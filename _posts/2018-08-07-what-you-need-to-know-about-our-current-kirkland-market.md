@@ -21,7 +21,7 @@ youtube_code: 8J42Yu4dq6E
 
 What is the big deal in real estate now? Well, I am here to talk about it and give you a quick market update in the process.&nbsp;
 
-Right now, **we are finding that the real estate market has more inventory but less are selling.** In June and July, the market finally had more homes available for buyers. With increasing rates, buyers being tired of overpaying, and the new construction market yet to catch up, massive multiple offer situations aren’t happening like they were in the spring.&nbsp;
+Right now, **we are finding that the real estate market has more inventory but fewer homes are selling.** In June and July, the market finally had more homes available for buyers. With increasing rates, buyers being tired of overpaying, and the new construction market yet to catch up, massive multiple offer situations aren’t happening like they were in the spring.&nbsp;
 
 {% include pullquote.html %}
 
@@ -29,4 +29,4 @@ The big deal is that the homes that were listed on the market this summer have b
 
 As a seller, if you are considering selling, you should know that the market is flattening out. This means that now is a much better time to buy and sell than maybe next year. As your top broker at Century 21 Northwest, you can trust me to tell you the truth and help you buy and negotiate your best deal.&nbsp;
 
-If you have any questions or are interested in having me help you buy and sell, please feel free to contact me by phone or email. I look forward to speaking with you soon.
+If you have any questions or are interested in buying or selling a home, please feel free to contact me by phone or email. I look forward to speaking with you soon.
