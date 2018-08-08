@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Negatives of Technology in the Real Estate World
+title: Is Real Estate Technology Misleading You?
 date: 2018-08-06 00:00:00
 tags:
   - Real Estate
