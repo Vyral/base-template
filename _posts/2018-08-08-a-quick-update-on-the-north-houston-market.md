@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Quick Update on the North Houston Market
-date: 2018-08-08 20:18:55
+date: 2018-08-08 20:18:00
 tags:
   - Real Estate
 excerpt: >-
   Are you caught up on all the latest news from the North Houston real estate
   market? We’re here today to make sure you are.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+A+Quick+Update+on+the+North+Houston+Market.mp4
 pullquote: 'If you’re downsizing, it might be a good idea to wait until 2019.'
 enclosure_type: video/mp4
 enclosure_time:
