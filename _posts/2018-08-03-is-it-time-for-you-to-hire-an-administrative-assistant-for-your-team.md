@@ -8,7 +8,7 @@ excerpt: >-
   Before you let yourself get burnt out in your career, maybe you
   should consider hiring an administrative assistant.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/August/Central+PA+Real+Estate+Agent-+How+Do+You+Hire+Your+First+Administrative+Assistant%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/August/Central+PA+Real+Estate+Agent-+August+1+MG+Fixed.mp4
 pullquote: >-
   We encourage you to post on Indeed as well as circulate it among your sphere
   of influence via social media and email.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wrtlWanFTzo
+youtube_code: QzecMdpmpjw
 ---
 
 {% include youtube.html %}
