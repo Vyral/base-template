@@ -10,8 +10,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/How+to+Sell+Your+Home+For+More+%257C+Texas+Real+Estate+Agent.mp4
 pullquote: >-
-  We have actually spoiled our society with HGTV; they expect your home to look
-  pristine
+  Our society's been spoiled by HGTV—buyers expect your home to look like an
+  HGTV house.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
