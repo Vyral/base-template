@@ -9,13 +9,13 @@ excerpt: >-
   However, this might require some extra work on your part, and you might
   encounter some difficulties.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+Realty+Solution-+FSBO+vs+Agent.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+Realty+Solution-+August+1+Fixed.mp4
 pullquote: Do you have the time and energy to sell your home by yourself?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hpBZF40aIag
+youtube_code: o0Pwzced5pU
 ---
 
 {% include youtube.html %}
