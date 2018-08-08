@@ -24,7 +24,7 @@ There are two major mistakes home sellers sometimes make before listing. So if y
 
 The first is **making the wrong repairs**. Sellers often assume they need to make repairs to their home before listing it, which is mostly true, but I always advise consulting with a professional before deciding what to repair.
 
-A couple of times, I’ve walked into kitchens of home sellers who proudly told me that they just refinished their cabinets. Unfortunately, just by looking at those cabinets I could tell that they refinished them themselves instead of hiring a professional to do it. This kind of thing will hurt your home’s value rather than help it. All that time, energy, and money they spent was wasted.
+A couple of times, I’ve walked into kitchens of home sellers who proudly told me that they just refinished their cabinets. Unfortunately, just by looking at those cabinets, I could tell that they refinished them themselves instead of hiring a professional to do it. This kind of thing will hurt your home’s value rather than help it. All that time, energy, and money they spent was wasted.
 
 {% include pullquote.html %}
 
