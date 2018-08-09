@@ -36,4 +36,4 @@ RSVP [HERE!](https://bit.ly/2MgAnLm){: target="_blank"}
 
 Thanks to our amazing sponsors!
 
-![](/uploads/bay-equity-2.jpg)![](/uploads/elevate-logo-final-3.jpg)
+<a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-2.jpg)</a>![](/uploads/elevate-logo-final-3.jpg)
