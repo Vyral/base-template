@@ -17,7 +17,7 @@ youtube_code: gmtoF2pGPeg
 
 {% include youtube.html %}
 
-Today I am at the Las Vegas Raiders Preview Center, where you can celebrate the Raiders’ greatest moments in history and learn about the brand-new Las Vegas Stadium. Before that, though, I want to talk to you about season tickets.
+Today's video is the first part of a two-part series. I am at the Las Vegas Raiders Preview Center, where you can celebrate the Raiders’ greatest moments in history and learn about the brand-new Las Vegas Stadium. Before that, though, I want to talk to you about season tickets.
 
 **You can reserve your tickets now for the Las Vegas Raiders for a deposit of only $100**. For the personal seat license (PSL) plus the season tickets, you could pay anywhere between $6,000 to $18,000.
 
