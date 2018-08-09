@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The New Approach to Selling Your Luxury Listings
-date: 2018-08-07 00:00:00
+date: 2018-08-09 00:00:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
