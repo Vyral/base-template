@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Should You Do It Yourself or Hire a Professional?
-date: 2018-08-09 14:46:50
+title: 3 Reasons You May Want to Reconsider Doing That Project by Yourself
+date: 2018-08-09 14:46:00
 tags:
   - Real Estate
 excerpt: >-
