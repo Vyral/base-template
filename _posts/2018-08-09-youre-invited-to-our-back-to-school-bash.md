@@ -36,4 +36,4 @@ THANK YOU again for choosing The Larkin Group for your real estate adventures! W
 
 Thanks to our amazing sponsors!
 
-<a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-2.jpg)</a>![](/uploads/elevate-logo-final-3.jpg)
+<a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-2.jpg)</a><a href="https://www.elevatehw.com/" target="_blank">![](/uploads/elevate-logo-final-3.jpg)</a>
