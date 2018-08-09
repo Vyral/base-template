@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/6spz7Svet6Q'
 
 Over the course of the last month in the Triangle area real estate market, a few important changes have taken place. First, closed sales are down 3.5% and listings are down 4.2%, but the median price is up by about 6%.&nbsp;
 
-These statistics reflect the basic principle of supply and demand. Inventory has dipped, so demand (and therefore price) has risen. Currently, there’s just 2.5 months’ worth of supply in our area, which means that if no new properties were listed in that time, we would run out of available homes.&nbsp;
+These statistics reflect the basic principle of supply and demand. Inventory has dipped, so demand (and therefore price) has risen. Currently, there are just 2.5 months’ worth of supply in our area, which means that if no new properties were listed in that time, we would run out of available homes.&nbsp;
 
 Still, these statistics reflect our area as a whole. **When you examine market trends, you should always do so with the understanding that overall figures may not apply to your specific market.** In Wake Forest, for example, the median sales price is $350,000. This is much higher than the $275,000 median sales price recorded across the larger Triangle Area MLS.&nbsp;
 
