@@ -21,7 +21,7 @@ youtube_code: 9eUcZFtZY_Y
 
 {% include youtube.html %}
 
-What makes our team different than the rest? Here are five advantages that we offer to our clients.
+<p style="text-align: center;"><em>What makes our team different than the rest? Here are five advantages that we offer to our clients.</em></p>
 
 There are a lot of real estate agents out there, so potential clients always want to know what makes us different. **Here are five reasons why our team stands out:**
 
