@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Do It Yourself or Hire a Pro?
+title: Should You Do It Yourself or Hire a Professional?
 date:
 tags:
   - Real Estate
@@ -33,8 +33,4 @@ You just finished watching a show on HGTV or a video on YouTube and now you want
 
 The final thing you need to remember is that your time is valuable. So, although you may save your money on a contractor, you may spend more overall.
 
-If you have any questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon. &nbsp;
-
-&nbsp;
-
-&nbsp;
+If you have any questions or are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
