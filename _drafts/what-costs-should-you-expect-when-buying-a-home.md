@@ -21,7 +21,7 @@ youtube_code: lHbqYscJnsE
 
 {% include youtube.html %}
 
-There are many costs involved with buying a house, some of which may be confusing. Today I want to go through some of them so that you better understand the process.
+<center>There are many costs involved with buying a house, some of which may be confusing. Today I want to go through some of them so that you better understand the process.</center>
 
 There are a range of costs associated with buying a home, but not everyone knows what they are. Today I’ll walk through the various expenses you should expect when you decide to purchase a home of your own and answer common questions we get from buyers.
 
