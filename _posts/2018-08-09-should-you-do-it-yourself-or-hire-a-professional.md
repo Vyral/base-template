@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Do It Yourself or Hire a Professional?
-date:
+date: 2018-08-09 14:46:50
 tags:
   - Real Estate
 excerpt: >-
