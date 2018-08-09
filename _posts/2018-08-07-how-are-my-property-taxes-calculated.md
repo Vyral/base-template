@@ -25,6 +25,6 @@ The county you live in assesses the value of your property every year, typically
 
 {% include pullquote.html %}
 
-To determine which entity taxes your property or a property you want to buy, you can go to your county’s county assessor’s website (ex. Dcad.org or dentoncad.com). This will help you figure out what the taxes will be on your current property or on the property you are thinking of buying.
+To determine which entity taxes your property or a property you want to buy, you can go to your county’s assessor’s website (ex. [Dcad.org](Dcad.org) or [dentoncad.com](dentoncad.com)). This will help you figure out what the taxes will be on your current property or on the property you are thinking of buying.
 
 If you have any other questions about this topic or anything else related to the real estate or mortgage worlds, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
