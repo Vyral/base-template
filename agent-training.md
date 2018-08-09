@@ -3,7 +3,7 @@ layout: default
 title: Agent Training
 permalink: /agent-training/
 ---
-<img alt="agent mastermind" src="http://agentmastermind.com/wp-content/themes/agentmastermind/images/amm-logo-new.jpg" width="100%" />
+<img alt="agent mastermind" src="/img/amm.jpg" width="100%" />
 
 <br />
 <h3>
