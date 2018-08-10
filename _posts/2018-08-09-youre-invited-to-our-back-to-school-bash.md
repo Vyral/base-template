@@ -32,10 +32,10 @@ Did you hear the collective cheers of parents across the land as school started 
 
 THANK YOU again for choosing The Larkin Group for your real estate adventures! We’re honored and hope to see you Friday!
 
-<img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="40" height="40" alt="Pizza"> ![](/uploads/pizza-emoji.png) <p style="text-align: center; font-size: 24px;"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #4986E7"><strong>RSVP HERE!</strong></a></p>
+<img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="40" height="40" alt="Pizza"><p style="text-align: center; font-size: 24px;"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #4986E7"><strong>RSVP HERE!</strong></a></p>
 
 Thanks to our amazing sponsors!
 
-<img src"www.stgeorgerelalestatevideo.com/uploads/bay-equity-home-loans-nmls--white-background.jpg" width="400" height="100"></img>
+<img src"https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/b448815bd10bb2515848820d3c3cd1d0.jpg" width="765" height="236"></img>
 
 <a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-home-loans-nmls--white-background.jpg)</a><a href="https://www.elevatehw.com/" target="_blank">![](/uploads/elevate-logo-final-4.jpg)</a>
