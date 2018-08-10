@@ -15,12 +15,12 @@ custom_links:
     url: http://images.kw.com/kw/user_uploads/US-profit%20share%20and%20growth%20share%20white%20paper.pdf
 
 client:
-  name: Jerimiah Taylor
-  license_number:
+  name: Sean Patrick Murphy
+  license_number: DRE#01447855
   about_markdown: |
     If you're looking for a career in San Diego real estate, we will provide you with the systems, training, and tools to make sure you're successful so you earn the income necessary to reach your goals. With over 250 associates in our local Carmel Valley / Del Mar Keller Williams you'll be at home with friends as we work together to grow your San Diego real estate career.
 
-    Contact Team Leader Jerimiah Taylor for a private real estate career consultation to learn what you can earn with Keller Williams award-winning education, training, and coaching.
+    Contact Team Leader Sean Patrick Murphy for a private real estate career consultation to learn what you can earn with Keller Williams award-winning education, training, and coaching.
   market: San Diego
   brand: Keller Williams Realty
   brokerage:
@@ -29,8 +29,8 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: JTaylor@kw.com
-  url: http://www.kw.com
+  email: SeanPMurphy@KW.com
+  url: http://www.sandiegohomespro.com
 
 CTAs:
   first_CTA_text: Home Valuation
