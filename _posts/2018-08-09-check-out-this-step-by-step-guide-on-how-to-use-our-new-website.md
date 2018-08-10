@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check out This Step-By-Step Guide on How to Use Our New Website
-date: 2018-08-10 16:37:00
+date: 2018-08-09 16:37:00
 tags:
   - Real Estate
 excerpt: >-
