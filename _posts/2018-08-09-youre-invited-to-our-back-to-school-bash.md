@@ -32,7 +32,7 @@ Did you hear the collective cheers of parents across the land as school started 
 
 THANK YOU again for choosing The Larkin Group for your real estate adventures! We’re honored and hope to see you Friday!
 
-<img src="www.stgeorgerealestatevideos.com/uploads/pizza-emoji.png" width="40" height="40" alt="Pizza"> ![](/uploads/pizza-emoji.png) <p style="text-align: center; font-size: 24px;"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #4986E7"><strong>RSVP HERE!</strong></a></p>
+<img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="40" height="40" alt="Pizza"> ![](/uploads/pizza-emoji.png) <p style="text-align: center; font-size: 24px;"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #4986E7"><strong>RSVP HERE!</strong></a></p>
 
 Thanks to our amazing sponsors!
 
