@@ -22,11 +22,11 @@ youtube_code: Cd9Gp4_oy1Q
 
 Welcome to another episode of “What’s Working Now!” Today I’m here to give you three easy tips to make sure your house is priced right when it comes time to sell:
 
-1. Coming soon
+1) Coming soon
 
-2. Sneak peek
+2) Sneak peek
 
-3. Listing on the MLS
+3) Listing on the MLS
 
 Here’s how this strategy works in action. We recently listed a property that we thought should be priced somewhere between $1.75 and $1.95 million. I liked the lower number and the owner liked the higher number (surprise), so here’s what we did.
 
@@ -42,6 +42,6 @@ There you have it—three easy steps to find the right price for your house. If 
 
 If you have any questions for me about what we did or what you can do to make sure your home sells for a great price, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
 
-<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p></p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</span><p>&nbsp;</p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
 <div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
