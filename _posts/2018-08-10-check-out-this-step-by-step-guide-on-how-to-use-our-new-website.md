@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check out This Step-By-Step Guide on How to Use Our New Website
-date: 2018-08-02 16:37:35
+date: 2018-08-10 16:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: d1oIYwZDOZ4
+youtube_code: V9jQdZUY12w
 ---
 
 {% include youtube.html %}
@@ -40,5 +40,3 @@ When you use this feature, you will be given a very accurate value range that re
 Finally, **buyers, sellers, and homeowners alike will be interested in the last feature of our website we’re going to highlight today: our blog.** Clicking on the blog link will lead you to all our past posts, which include videos and articles just like this one. There are new entries twice a month, so be on the lookout for updates. We love bringing you valuable information so that you can stay on top of your real estate goals.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
