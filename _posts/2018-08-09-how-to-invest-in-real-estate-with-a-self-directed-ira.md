@@ -22,9 +22,9 @@ youtube_code: 6riTJHBQ7W8
 
 Did you know that you can use self-directed IRAs to purchase investment property? It’s true. The IRS permits retirement accounts like IRAs to invest in real estate, among other options. There are a lot of advantages to using a self-directed IRA, or a solo 401(k) plan, to buy real estate. **The first advantage is tax deferral (or tax-free growth).**
 
-If you were to purchase a $250,000 property with retirement funds, and later sell that property for $450,000, the $200,000 profit you earned would, generally, be tax deferred.&nbsp;
+If you were to purchase a $250,000 property with retirement funds, and later sell that property for $450,000, the $200,000 profit you earned would, generally, be tax-deferred.&nbsp;
 
-Alternatively, gains earned from an investment property purchased with personal funds would be subject to federal, and state, income tax.&nbsp;
+Alternatively, gains earned from an investment property purchased with personal funds would be subject to federal and state income tax.&nbsp;
 
 **The second advantage is that a self-directed IRA can allow you to invest in hard assets you know and understand,** such as rental property.&nbsp;
 
@@ -38,7 +38,7 @@ But before buying real estate in Utah with a self-directed IRA, there are three 
 
 **2. Price.** Unlike stocks or mutual funds, which typically don’t have ongoing costs, real estate investments will carry expenses like property taxes, maintenance costs, and insurance fees. Keeping a three-month reserve of funds for each investment property is advisable, as this will help you cover vacancies and repairs.&nbsp;
 
-**3. RIA custodian options.** Most traditional finance roll institutions and banks don’t allow IRA holders to buy real estate with their investment account, since it doesn’t generate a profit for the institution. However, there are a number of self-directed IRA custodians throughout Utah, and the United States as a whole, that allow clients to make alternative investments like real estate. There are essentially two options you have if you plan to purchase investment property with your IRA. Your first option is a custodian-controlled self-directed IRA, and your second is a checkbook-controlled self-directed IRA.&nbsp;
+**3. IRA custodian options.** Most traditional financial institutions and banks don’t allow IRA holders to buy real estate with their investment account, since it doesn’t generate a profit for the institution. However, there are a number of self-directed IRA custodians throughout Utah, and the United States as a whole, that allow clients to make alternative investments like real estate. There are essentially two options you have if you plan to purchase investment property with your IRA. Your first option is a custodian-controlled self-directed IRA, and your second is a checkbook-controlled self-directed IRA.&nbsp;
 
 In a custodian-controlled IRA, the holder will direct the custodian to invest in traditional and alternative assets. A checkbook-controlled IRA, meanwhile, requires that a special-purpose LLC is established. This LLC would be wholly owned and managed through a local bank account by the IRA holder. The use of the LLC allows the holder to act quickly and cost-effectively when the right investment opportunity presents itself.&nbsp;
 
