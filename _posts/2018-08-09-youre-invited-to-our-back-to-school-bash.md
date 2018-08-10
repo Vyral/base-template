@@ -36,4 +36,6 @@ THANK YOU again for choosing The Larkin Group for your real estate adventures! W
 
 Thanks to our amazing sponsors!
 
-<a href="https://www.bayequityhomeloans.com/" target="_blank"><img src"www.stgeorgerelalestatevideo.com/uploads/bay-equity-home-loans-nmls--white-background.jpg" width="400" height="100"> ![](/uploads/bay-equity-home-loans-nmls--white-background.jpg)</a><a href="https://www.elevatehw.com/" target="_blank">![](/uploads/elevate-logo-final-4.jpg)</a>
+<img src"www.stgeorgerelalestatevideo.com/uploads/bay-equity-home-loans-nmls--white-background.jpg" width="400" height="100">
+
+<a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-home-loans-nmls--white-background.jpg)</a><a href="https://www.elevatehw.com/" target="_blank">![](/uploads/elevate-logo-final-4.jpg)</a>
