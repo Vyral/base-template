@@ -10,8 +10,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brian+Riolo+/Brian+Riolo-+Should+You+Do+it+Yourself+or+Hire+a+Professional%253F.mp4
 pullquote: >-
-  You may be thinking that you can save time and money, but it could end up
-  spending more.
+  You may be thinking that you can save time and money, but it usually costs you
+  more of each.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
