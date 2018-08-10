@@ -13,8 +13,8 @@ pullquote: >-
   liquid funds.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ron-margolis-redo1.jpg
 youtube_code: Zp0UF4g-4L0
 ---
 
@@ -28,7 +28,7 @@ Since many people buy homes on Kauai as second homes or vacation rentals, they h
 
 **2. Do not always believe that your home will go up in value.** Real estate markets are cyclical. If you look at the graph at 1:54, you will see that while the market has averaged an annual appreciation rate of over 5% in the last couple decades, you will see that that increase is not a straight line. Instead, the graph fluctuates. This trend is especially true of second home destination marketplaces.
 
-**3. Ensure that you have adequate reserves.** Financial experts tell us that we should always have six months of savings as liquid funds in case something happens economically to you specifically or globally. Here on the island, when the economy slows, so does the travel industry. This could cause a lot of problems for you if you are relying on vacation rental income to pay your mortgage. &nbsp;
+**3. Ensure that you have adequate reserves.** Financial experts tell us that we should always have six months of savings as liquid funds in case something happens economically to you specifically or globally. Here on the island, when the economy slows, so does the travel industry. This could cause a lot of problems for you if you are relying on vacation rental income to pay your mortgage.  
 
 {% include pullquote.html %}
 
