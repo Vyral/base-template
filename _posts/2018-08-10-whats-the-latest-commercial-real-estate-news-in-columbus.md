@@ -18,7 +18,7 @@ youtube_alternate_image:
 youtube_code: q71kITtKDsk
 ---
 
-{% include youtube.html %}<br>&nbsp;
+{% include youtube.html %}
 
 What’s the latest news from the commercial real estate market in Columbus? Today I’ve brought in Jonathan Wiggit, one of our lead commercial real estate agents, to discuss this topic with me.
 
