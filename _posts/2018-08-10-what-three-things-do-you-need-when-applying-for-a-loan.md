@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Three Things Do You Need When Applying For a Loan?
-date:
+date: 2018-08-10 16:38:56
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -36,5 +36,3 @@ I can help you navigate through the homebuying process and can connect you with 
 {% include pullquote.html %}
 
 If you have any questions, all you have to do is reach out to me, and we can discuss this in further detail. Hope to speak with you soon!
-
-&nbsp;
