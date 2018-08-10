@@ -24,7 +24,7 @@ youtube_code: QARfnu0SKW8
 
 &nbsp;
 
-What’s the latest news from our Monterey County market? From August 2017 to July 2018, the market stayed pretty consistent, which was pleasantly surprising. When I looked at the statistics, I expected to see big fluctuations with the list-to-sales price ratio, but it is actually stayed in the 92% to 97% range. Not only is the Monterey County market consistent, but it’s also robust, which means that it is a great time for buyers and sellers to make their move.
+What’s the latest news from our Monterey County market? From August 2017 to July 2018, the market stayed pretty consistent, which was pleasantly surprising. When I looked at the statistics, I expected to see big fluctuations with the list-to-sales price ratio, but it has actually stayed in the 92% to 97% range. Not only is the Monterey County market consistent, but it’s also robust, which means that it is a great time for buyers and sellers to make their move.
 
 {% include pullquote.html %}
 
