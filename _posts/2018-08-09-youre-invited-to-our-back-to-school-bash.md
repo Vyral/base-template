@@ -32,7 +32,7 @@ Did you hear the collective cheers of parents across the land as school started 
 
 THANK YOU again for choosing The Larkin Group for your real estate adventures! We’re honored and hope to see you Friday!
 
-<p style="text-align: center;">RSVP <a href="https://bit.ly/2MgAnLm" target="_blank">HERE!</a></p>
+<p style="text-align: center; font-family: arial; size: 18px; color: #4986E7;">RSVP <a href="https://bit.ly/2MgAnLm" target="_blank">HERE!</a></p>
 
 <p style="text-align: center;">Thanks to our amazing sponsors!</p>
 
