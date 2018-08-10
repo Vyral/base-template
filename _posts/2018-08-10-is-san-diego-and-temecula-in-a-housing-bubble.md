@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is San Diego and Temecula in a Housing Bubble?
-date:
+date: 2018-08-10 15:46:47
 tags:
   - Home Purchase
   - Interest Rates
@@ -37,5 +37,3 @@ If you are a seller and you are trying to time the market so you sell at the pea
 So, to answer the original question about whether we’re in a housing bubble in San Diego and Temecula, no. We are not even close to a housing bubble. Especially since we still have the huge problem of a lack of inventory.
 
 If you have any additional questions, please feel free to reach out to me. I look forward to speaking with you soon.
-
-&nbsp;
