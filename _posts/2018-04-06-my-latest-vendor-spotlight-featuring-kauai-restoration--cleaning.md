@@ -14,7 +14,7 @@ pullquote: 'Every one to two years, your open-beam ceilings need to be treated f
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/ron-margolis-5-15-18youtube.jpg
+youtube_alternate_image: /uploads/ron-margolis-redo2.jpg
 youtube_code: rTe5oBk0ySs
 ---
 
