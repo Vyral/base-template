@@ -20,11 +20,11 @@ youtube_code: t26LlAt1lPM
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 Today we are going to talk about why we prefer using Five9 as a professional dialer over Mojo and other products. Mojo is great and a lot of our clients use it, as do many people who are successful in real estate, but we use Five9 instead. **Here are a few reasons why.**
 
 **Five9 ensures that we are fully compliant for our clients.** It is illegal to call cell phones through a three-line dialer, like Mojo, which can be a problem when a lot of our leads are cell phone numbers. Five9 allows us to switch to a single-line setting so that we are compliant when calling cell phone numbers.
+
+{% include pullquote.html %}
 
 Additionally, Five9 has a lot more tracking features. When managing hundreds of callers on a monthly basis, we want to have data that shows that our callers are getting our clients the results that they deserve. We can track how much they are on a call, how long they are taking notes between calls, and more. **This helps us get the most out of our callers, which will allow us to get the best results for you.**
 
