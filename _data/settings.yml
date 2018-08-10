@@ -12,7 +12,7 @@ client:
   about_markdown: |
     Ron & Gwen Margolis have been serving families in their home buying and selling on the island of Kauai for eleven years now. Listening to their clients and understanding their needs and priorities is a key to our success.
     As an Accredited Buyers Representative, and a veteran listing agent on Kauai, Ron bring together many years of sales experience, marketing, and strong negotiating skills for Buyer and Seller Clients. Ron sits on the Board of Directors of the Kauai Board of Realtors and serves on the Government Affairs Committee, an active voice in supporting property owners rights on the island.
-    Gwen uses her artistic skills to help with staging of homes, writing on blogs and MLS listings, photography, and a deep caring for the satisfaction of each family and client.  With the ongoing inspiration and continuing of the Keller Williams culture, Ron & Gwen are constantly striving to enhance their standard care and expertise in their practice of real estate.
+    Gwen uses her artistic skills to help with staging of homes, writing on blogs and MLS listings, photography, and a deep caring for the satisfaction of each family and client.  With the ongoing inspiration and continuing of the eXp culture, Ron & Gwen are constantly striving to enhance their standard care and expertise in their practice of real estate.
   market:
   brand: Margolis Team
   brokerage: eXp Realty
@@ -95,7 +95,7 @@ images:
   client_headshot_path2: /img/headshot2.jpg
   client_headshot_path3: /img/headshot3.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 40ke
   hero_text: Kauai Real Estate Video Blog
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
