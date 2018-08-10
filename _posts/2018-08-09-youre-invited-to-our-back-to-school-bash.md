@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/Yeyav05Jx1E'
 
 {% include youtube.html %}
 
-*Regardless of whether you have 10 kids or NO kids at home, come celebrate back to school time with The Larkin Group.*
+<p style="text-align: center;">Regardless of whether you have 10 kids or NO kids at home, come celebrate back to school time with The Larkin Group.</p>
 
 Did you hear the collective cheers of parents across the land as school started this week? We did, and we were some of them! And to celebrate “back to school” time you’re invited to our **“Back to School Bash” this Friday, August 18th!**
 
@@ -32,8 +32,8 @@ Did you hear the collective cheers of parents across the land as school started 
 
 THANK YOU again for choosing The Larkin Group for your real estate adventures! We’re honored and hope to see you Friday!
 
-**[RSVP HERE!](https://bit.ly/2MgAnLm){: target="_blank"}**
+<p style="text-align: center; font-size: 24px;"><a href="https://bit.ly/2MgAnLm" target="_blank" "color: #4986E7"><strong>RSVP HERE!</strong></a></p>
 
 Thanks to our amazing sponsors!
 
-[![](/uploads/bay-equity-home-loans-nmls--white-background.jpg)](https://www.bayequityhomeloans.com/){: target="_blank"}[![](/uploads/elevate-logo-final-4.jpg)](https://www.elevatehw.com/){: target="_blank"}
+<a href="https://www.bayequityhomeloans.com/" target="_blank">![](/uploads/bay-equity-home-loans-nmls--white-background.jpg)</a><a href="https://www.elevatehw.com/" target="_blank">![](/uploads/elevate-logo-final-4.jpg)</a>
