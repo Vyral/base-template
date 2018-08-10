@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/week-of-073018.html</loc>
+<lastmod>2018-07-30T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-072318.html</loc>
+<lastmod>2018-07-23T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-071618.html</loc>
+<lastmod>2018-07-16T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-070918.html</loc>
+<lastmod>2018-07-09T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/week-of-070218.html</loc>
+<lastmod>2018-07-02T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/week-of-062518.html</loc>
 <lastmod>2018-06-25T00:00:00-05:00</lastmod>
 </url>
