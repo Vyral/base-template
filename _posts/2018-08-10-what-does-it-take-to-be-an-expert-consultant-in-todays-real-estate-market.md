@@ -19,7 +19,7 @@ youtube_code: AISt_7rVlFk
 
 {% include youtube.html %}
 
-As expert real estate consultants, our goal is to give you the best home buying or selling experience possible.
+<p style="text-align: center;"><em>As expert real estate consultants, our goal is to give you the best home buying or selling experience possible.</em></p>
 
 What does it mean to us to be an expert real estate consultant in today’s market? Today’s message will answer that question for you.&nbsp;
 
