@@ -19,7 +19,7 @@ youtube_code: axkBci2aze0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re thinking of buying a home or investing in real estate, I have five apps to tell you about that will help you set your budget.&nbsp;</em></p>
+<p style="text-align: center;"><em>If you’re thinking of buying a home or investing in real estate, I have five apps to tell you about that will help you set your budget.</em></p>
 
 Whether you’re looking to buy a home or invest in real estate and build your nest egg, you need to budget your finances. Here are five great apps that will help you develop the a budgeting strategy:
 
