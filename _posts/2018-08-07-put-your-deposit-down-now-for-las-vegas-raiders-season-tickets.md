@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Put Your Deposit Down Now for Las Vegas Raiders Season Tickets
-date: 2018-08-07 21:42:35
+date: 2018-08-07 21:42:00
 tags:
   - Real Estate
 excerpt: 'If you want to buy season tickets to the Las Vegas Raiders, you can do so now.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gmtoF2pGPeg
+youtube_code: k6SM6uYTm0U
 ---
 
 {% include youtube.html %}
