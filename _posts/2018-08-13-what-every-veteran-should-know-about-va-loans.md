@@ -22,7 +22,9 @@ youtube_code: Gt2UHuuxMKU
 
 {% include youtube.html %}
 
-<center>What three things must buyers know before purchasing property with a VA loan? Today we’ll explain.</center>
+<center><em>What three things must buyers know before purchasing property with a VA loan? Today we&rsquo;ll explain.</em></center>
+
+&nbsp;
 
 If you plan on buying a home using a VA loan, there are three things you must know.
 
