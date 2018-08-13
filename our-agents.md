@@ -11,18 +11,6 @@ permalink: /our-agents/
 <br />
 <hr />
 <br />
-<a href="https://www.teamlally.com/agents/michelle-helmsderfer/" target="_blank"><strong>Michelle Helmsderfer</strong></a><br />
-<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eF-kEQk1u08" width="560"></iframe>
-<br />
-<hr />
-<br />
-<a href="https://www.teamlally.com/agents/michael-ablan/" target="_blank"><strong>Michael Ablan</strong></a><br />
-<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/5IydtRfWpno" width="560"></iframe>
-<br />
-<hr />
-<br />
 <a href="https://www.teamlally.com/agents/brooks-bowman/" target="_blank"><strong>Brooks Bowman</strong></a><br />
 <br />
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/s_ivUTTm0dM" width="560"></iframe>
