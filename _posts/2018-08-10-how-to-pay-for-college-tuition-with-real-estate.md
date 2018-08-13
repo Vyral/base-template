@@ -22,7 +22,7 @@ youtube_code: uyE1WMlBb10
 
 {% include youtube.html %}
 
-Are you worried about being able to pay your child’s college tuition one day? If so, today we’ll discuss one way you can pay for it using real estate.
+Are you worried about not being able to pay your child’s college tuition one day? If so, today we’ll discuss one way you can pay for it using real estate.
 
 **The average college tuition is $100,000 for a four-year degree.** It’s estimated that in 15 years, this number will rise to over $207,000.
 
@@ -30,11 +30,11 @@ Further to that, studies show that the average college graduate earns 89% more t
 
 {% include pullquote.html %}
 
-**With this information in mind, there are four typical ways that parents pay for college:**
+**With this information in mind, there are four ways people typically pay for college:**
 
 **1. Parents pay for it with their regular income.** Parents are taxed on their income, so the average degree will end up costing more like $130,000.
 
-**2. The student works through college to pay for it.** This typically extends how long the student is in college, and increases the likelihood of them dropping out.
+**2. The student works through college to pay for it.** This typically extends how long the student is in college and increases the likelihood of them dropping out.
 
 **3. Student loans.** Students today are burdened with incredible amounts of debt.
 
