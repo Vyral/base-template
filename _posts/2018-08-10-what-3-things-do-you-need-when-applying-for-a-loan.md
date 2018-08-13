@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Three Things Do You Need When Applying For a Loan?
-date: 2018-08-10 16:38:56
+title: What 3 Things Do You Need When Applying For a Loan?
+date: 2018-08-10 16:38:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -12,7 +12,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Tony+Verdi/Tony+Verdi+Sells+Houses-+The+3+Things+You%2527ll+Need+to+Get+a+Home+Loan.mp4
 pullquote: >-
-  I can help you navigate through the homebuying process and can connect you
+  I can help you navigate through the home buying process and can connect you
   with some great mortgage lenders.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,11 +27,11 @@ I work with homebuyers every day. Some of them are experienced, while others are
 
 **There are three things you’ll need in order to get a home loan:**
 
-1. **Down payment**. In some cases, your down payment can be as low as 3%
+1. **Down payment**. In some cases, your down payment can be as low as 3%.
 2. **Income.** In order to verify your income, you’ll need to provide your W-2 forms, tax returns, and pay stubs.
 3. **Credit.** Even if you don’t have perfect credit, you may already qualify for a loan.
 
-I can help you navigate through the homebuying process and can connect you with some great lenders who can help you through the mortgage application and underwriting processes, giving you advice tailored just for you. You may be surprised to find out just what you qualify for, so let’s get started today!
+I can help you navigate through the home buying process and can connect you with some great lenders who can help you through the mortgage application and underwriting processes, giving you advice tailored just for you. You may be surprised to find out just what you qualify for, so let’s get started today!
 
 {% include pullquote.html %}
 
