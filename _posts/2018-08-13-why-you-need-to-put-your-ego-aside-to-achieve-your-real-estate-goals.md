@@ -19,7 +19,7 @@ youtube_code: F9G73-aaYks
 
 {% include youtube.html %}
 
-Whether you’re a buyer or a seller, you shouldn’t worry about “winning” the transaction. Instead, you should focus on your overall goal.
+<p style="text-align: center;"><em>Whether you’re a buyer or a seller, you shouldn’t worry about “winning” the transaction. Instead, you should focus on your overall goal.</em></p>
 
 Does your personality get in the way of achieving your goal?
 
