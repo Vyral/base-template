@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Reasons That You Want to Stage Your Home
+title: 3 Reasons Why You Should Stage Your Home
 date: 2018-08-10 17:31:00
 tags:
   - Home Seller Tips
