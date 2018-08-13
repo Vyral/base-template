@@ -3,7 +3,7 @@ layout: post
 title: Not All Home Improvement Projects Are Worth the Cost
 date: 2018-08-13 15:11:04
 tags:
-  - Expert Advice
+  - Home Seller Tips
 excerpt: >-
   Many homeowners believe that the home improvements they make will boost the
   value of their home—in some ways, this mentality could cost them a lot of
