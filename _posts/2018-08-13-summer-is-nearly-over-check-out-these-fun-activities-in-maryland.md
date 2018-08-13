@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Summer Is Nearly Over: Check Out These Fun Activities in Maryland'
-date: 2018-08-13 21:32:08
+date: 2018-08-13 21:32:00
 tags:
   - Real Estate
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+End+the+Summer+on+a+High+Note+With+These+Fun+Family+Activities.mp4
-enclosure: >-
   In need of ideas for ways to make the best of the summer’s end? Here are a few
   great opportunities to squeeze in some last-minute fun before summer is
   officially over.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+End+the+Summer+on+a+High+Note+With+These+Fun+Family+Activities.mp4
 pullquote: >-
   The first weekend in September is the perfect opportunity to make even more
   summer memories in Maryland.
