@@ -22,7 +22,7 @@ youtube_code: T22lHnv1FnA
 
 {% include youtube.html %}
 
-Many homeowners believe that the home improvements they make will boost the value of their home—in some ways, this mentality could cost them a lot of money.
+<p style="text-align: center;"><em>Many homeowners believe that the home improvements they make will boost the value of their home—in some ways, this mentality could cost them a lot of money.</em></p>
 
 There are five major mistakes that home sellers often make when remodeling their homes. By avoiding these mistakes, you can save yourself time, money, and several headaches.
 
