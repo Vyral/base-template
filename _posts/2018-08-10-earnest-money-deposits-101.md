@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Earnest Money Deposits 101
-date: 2018-08-10 16:43:15
+date: 2018-08-10 16:43:00
 tags:
-  - Real Estate
 excerpt: >-
   What is earnest money and how does it work? Today I’ll teach you what you need
   to know about this kind of deposit.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+What+Is+an+Earnest+Money+Deposit%253F.mp4
 pullquote: >-
   If you get cold feet and back out at the last minute, then typically the
   earnest money goes to the seller as liquidated damages for your breaching the
