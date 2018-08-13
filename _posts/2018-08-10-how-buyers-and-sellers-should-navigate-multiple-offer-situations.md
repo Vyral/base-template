@@ -45,8 +45,8 @@ That depends on what type of offers you get. Most of the time, sellers will exte
 
 **What kind of circumstances would make it a good idea not to take the highest offer?**
 
-If the highest offer in question has a lot of contingencies or isn’t as “clean” as other offers. In a multiple offer situation, buyers should try to make their offers as lean as possible in terms of contingencies, so if your highest offer has a lot of contingencies, you might be better off going with another.
+If the highest offer in question has a lot of contingencies or isn’t as “clean” as other offers, you may not want to accept the highest offer. In a multiple offer situation, buyers should try to make their offers as lean as possible in terms of contingencies, so if your highest offer has a lot of contingencies, you might be better off going with another.
 
-If you have any other questions about dealing with multiple offer situations or our market in general, feel free to call, email, or message me at my website. I’d be happy to help you.
+If you have any other questions about dealing with multiple offer situations or our market in general, feel free to call, email, or message me on my website. I’d be happy to help you.
 
 &nbsp;
