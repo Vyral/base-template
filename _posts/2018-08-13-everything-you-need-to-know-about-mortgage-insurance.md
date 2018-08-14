@@ -31,7 +31,7 @@ History has shown that people who put down less than 20% for their down payment 
 
 In the last year or so, with so many home prices stabilizing and in some areas home prices going up, mortgage rates at the private level have started decreasing. In fact, **just last month, rates were slashed again.**
 
-The rates for extremely high credit score individuals have been super low. I just priced out a $400,000 loan and the mortgage insurance was less than $80 per month. In that case it made a lot more sense for that client to not put down 20% and instead hold the money to reinvest into the property.
+The rates for extremely high credit score individuals have been super low. I just priced out a $400,000 loan and the mortgage insurance was less than $80 per month. In that case, it made a lot more sense for that client to not put down 20% and instead hold the money to reinvest into the property.
 
 I believe a lot of people have a fear of mortgage insurance. However, it is really not that bad anymore.
 
