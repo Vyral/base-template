@@ -2595,6 +2595,16 @@ table tr, table td {
 .prev {
   right: 50px; }
 
+.testimonial-submit {
+  text-decoration: underline;
+  color: #B01F25; }
+
+.testimonial-submit-text {
+  font-size: 26px;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 3rem; }
+
 @media (max-width: 1100px) {
   .testimonial-container {
     padding: 2rem; }

@@ -3,6 +3,8 @@ layout: default
 title: Testimonials
 permalink: /testimonials/
 ---
+<p class="testimonial-submit-text">To share your aha’s or testimonial from following Jennie or attending one of her classes, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwT_ABo6jxcSiVy5KTTsfUtPmS_KGNOHxurV6VSVh9hztfVA/viewform?c=0&w=1" target="_blank" class="testimonial-submit">click here.</a></p>
+
 <div class="client-testimonial">
 
 <p class="testimonial-text">
@@ -41,7 +43,7 @@ Jennie Wolek came to our market center in Littleton, CO a month ago and knocked 
 One day I was on Facebook and somehow managed to click on one of Jennie’s ads or links floating around; that link led me to Jennie’s Facebook page which I gave a “like”. Since then, I’ve been receiving value and useful tools for my business. I have been a realtor for over 2 years now with Keller Williams Arlington and I love it! I watch and listen to all the “Your Journey with Jennie” videos. The videos are great insight for someone who is new, and to see what my business can be now and in 3-5 years.
 </p>
 <p class="testimonial-author">
-- Cooper Williams, Arlington, TX, Realtor 
+- Cooper Williams, Arlington, TX, Realtor
 </p>
 <hr>
 
