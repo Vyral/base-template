@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Each Time You Work With Us, a Portion of Proceeds Is Donated to Veterans'
-date: 2018-08-14 18:30:54
+date: 2018-08-13 18:30:00
 tags:
 excerpt: >-
   Have you heard of Homes for Troops? Well, every time you or someone you refer
@@ -30,5 +30,3 @@ These homes can be designed to include specialized features like lower counterto
 **Next time you, a friend, a family member, or anyone else you know needs professional mortgage services, we hope you’ll think of us.** When you work with our team, you not only receive great service, you also get to help us give back to our nation’s service members.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
