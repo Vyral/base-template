@@ -25,7 +25,7 @@ Whether you’re looking to buy a home or invest in real estate and build your n
 
 **1. Mint.com.** This app takes all your financial accounts and expenses and categorizes them to ensure that you don’t overspend.
 
-**2. Pocketguard.** This is another app that prevents you from overspending.&nbsp;
+**2. PocketGuard.** This is another app that prevents you from overspending.&nbsp;
 
 **3. YNAB (You Need a Budget).** This app allows you to assign every dollar to a specific job so you can zero-base the account through which your money comes in and goes out every single month.&nbsp;
 
@@ -37,6 +37,6 @@ Whether you’re looking to buy a home or invest in real estate and build your n
 
 Bonus app: Personal Capital. This app is specifically for investors. It’s great for general budgeting, but it also allows you to underwrite deals for particular properties.&nbsp;
 
-In addition to these apps, we have a great proforma you can use if you want to underwrite rental properties with a “hold” or “flip” strategy. With this pro forma, you’ll get cap rates, rates of returns, ROIs, etc. If you’re interested in getting it, get in touch with me and I’d be happy to send it to you.&nbsp;
+In addition to these apps, we have a great pro forma you can use if you want to underwrite rental properties with a “hold” or “flip” strategy. With this pro forma, you’ll get cap rates, rates of returns, ROIs, etc. If you’re interested in getting it, get in touch with me and I’d be happy to send it to you.&nbsp;
 
 Budgeting is one of my favorite topics, so if you have any more questions about these apps or you want to set a budget for a future home purchase, don’t hesitate to call or email me. I look forward to speaking with you.
