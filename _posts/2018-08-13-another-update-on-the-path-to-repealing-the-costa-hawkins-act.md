@@ -29,4 +29,4 @@ If you’ve been following our blog, you’re already aware of the efforts under
 
 **2. Backers of a rent control ordinance in the city of Long Beach have suspended their plans** and are refocusing on a ballot initiative in 2020. It doesn't look like rent control will be on the ballot in Long Beach this year.
 
-If you own an investment property and would like to know how Propistivion 10 may impact you, don’t hesitate to give me a call or send me an email. I would love to hear from you soon.
+If you own an investment property and would like to know how Proposition 10 may impact you, don’t hesitate to give me a call or send me an email. I would love to hear from you soon.
