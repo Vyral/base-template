@@ -18,7 +18,7 @@ youtube_code: YseD5aDaw5k
 
 {% include youtube.html %}
 
-This is a special month for our team. Here’s how we’re giving back to those in need through the Children’s Miracle Network.
+<p style="text-align: center;"><em>This is a special month for our team. Here’s how we’re giving back to those in need through the Children’s Miracle Network.</em></p>
 
 August is the Month of Miracles on our team. You may have seen the “Miracle Home” banners on some RE/MAX properties, and it’s basically how we raise money for the Phoenix Children’s Hospital and the Children’s Miracle Network.
 
