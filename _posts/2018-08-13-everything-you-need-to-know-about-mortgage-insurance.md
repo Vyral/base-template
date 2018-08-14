@@ -23,7 +23,7 @@ I have been doing this job for a long time and the one thing I have realized is 
 
 But, **what exactly is mortgage insurance?** It is an insurance policy that protects lenders against early default.
 
-History has shown that people with less than 20% for a down payment on a property have a higher risk of defaulting on the loan. In order for lenders to actually write these loans and take an additional risk, they purchase insurance that is then passed through to the borrower. This insurance is doing nothing but protecting the lender.
+History has shown that people who put down less than 20% for their down payment have a higher risk of defaulting on the loan. In order for lenders to actually write these loans and take an additional risk, they purchase insurance that is then passed through to the borrower. This insurance is doing nothing but protecting the lender.
 
 **You don't have to keep mortgage insurance forever.** Once you reach a point where you have a significant portion of equity, normally 22%, your home mortgage insurance does drop.
 
