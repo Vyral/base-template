@@ -30,7 +30,7 @@ In other words, PMI is not a permanent expense. The cost of it will vary dependi
 
 According to the National Association of Realtors, the average down payment for all buyers last year was 10%. But the figure varies when examining first-time homebuyers, who had an average down payment of 5%, and repeat buyers, who had an average down payment of 14%. This higher down payment observed across repeat buyers was no doubt aided by the sale of their previous home. This just goes to show that PMI does not generally act as a deterrent for those looking to purchase a home.
 
-Yet, putting 20% can save you a lot of time and money. Imagine that you’re purchasing a $200,000 home with a 5% down payment. In this case, your monthly mortgage payment with PMI would likely be around $1,022. However, purchasing this same home with a 20% down payment &nbsp;would leave your monthly mortgage payment at just $773. This is a huge savings. **The larger the down payment that you can make, the lower your monthly payment will be.**
+Yet, putting 20% down can save you a lot of time and money. Imagine that you’re purchasing a $200,000 home with a 5% down payment. In this case, your monthly mortgage payment with PMI would likely be around $1,022. However, purchasing this same home with a 20% down payment &nbsp;would leave your monthly mortgage payment at just $773. This is a huge savings. **The larger the down payment that you can make, the lower your monthly payment will be.**
 
 Nevertheless, the added cost of PMI enables many to purchase property now and begin building equity rather than waiting years to save enough for a 20% down payment.
 
