@@ -34,4 +34,4 @@ Most people I’ve talked to know somebody who’s been treated or had someone t
 
 If you have any questions for us in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 
-![](/uploads/nate-martinez-pdf.PNG)
+<p style="text-align: center;"><img src="//d1qmdf3vop2l07.cloudfront.net/gifted-kingfisher.cloudvent.net/compressed/3fdf94189cfe7c30165d28a2f2a4a225.PNG" alt="" data-cms-original-src="/uploads/nate-martinez-pdf.PNG"></p>
