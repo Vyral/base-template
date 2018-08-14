@@ -31,7 +31,7 @@ Still, buyers and sellers can sometimes lose sight of their goals, and, instead,
 
 {% include pullquote.html %}
 
-My wife and I bought our current house 17 years ago for $3,000 over its list price. At the time, everyone told me I was nuts. Now, that home’s doubled in value. Does that $3,000 still matter? Not to me.&nbsp;
+My wife and I bought our current house 17 years ago for $3,000 over its list price. At the time, everyone told me I was nuts. Now, that home has doubled in value. Does that $3,000 still matter? Not to me.&nbsp;
 
 **Whether you’re buying or selling, focus on the reason you’re doing so.** Put your ego aside and don’t worry about “crushing” the other party. I’ve seen so many people put their lives on hold because they want to beat the buyer or seller and save an extra $1,000.&nbsp;
 
