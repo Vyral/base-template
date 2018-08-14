@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Why Is Having the Right Realtor a Necessity for Homebuyers?
-date: 2018-08-14 18:22:32
+date: 2018-08-14 18:22:00
 tags:
+  - Home Purchase
 excerpt: >-
   You want to hire the right lender when you’re getting ready to buy a home.
   Hiring the right Realtor is just as important and here’s why.
@@ -32,5 +33,3 @@ You can vet Realtors in a few different ways. **Ask them to send you their top c
 I don’t want to scare you, because home buying is an exciting journey, but dealing with an inexperienced Realtor when buying a home may end up costing you thousands of dollars.
 
 If you have any questions or would like help getting in touch with some tremendous, trustworthy Realtors, please feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
