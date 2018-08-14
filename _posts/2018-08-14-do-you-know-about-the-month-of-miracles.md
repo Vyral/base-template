@@ -24,7 +24,7 @@ August is the Month of Miracles on our team. You may have seen the “Miracle Ho
 
 During the Month of Miracles, we get together as a company with the goal to raise $1 million pennies (around $10,000). Our team’s goal for this year is actually around $2 million pennies ($20,000).
 
-**We’ve got some great events coming up that we’d love to see you at.** This Friday, we’re doing a salsa challenge at our office, and the following Friday we’re having an ice cream social. On August 24, we’ll be touring the Children’s Hospital with all of our agents.
+**We’ve got some great events coming up that we’d love to see you at.** We recently did a salsa challenge at our office, and this upcoming Friday we’re having an ice cream social. On August 24, we’ll be touring the Children’s Hospital with all of our agents.
 
 {% include pullquote.html %}
 
