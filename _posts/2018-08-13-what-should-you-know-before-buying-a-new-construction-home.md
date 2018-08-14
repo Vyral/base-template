@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Should You Know Before Buying a New Construction Home
+title: What Should You Know Before Buying a New Construction Home?
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -26,7 +26,7 @@ New construction is very popular right now in the Savannah area. Many homebuyers
 
 **2. Customization.** Oftentimes, you’ll get to pick certain finishes, flooring, countertops, and more when buying your brand new home. Builders give you plenty of options and you can customize the home as you see fit.&nbsp;
 
-**3. Equity.** This is one that not a lot of people think about. If you’re able to get in on the front end of a new subdivision, the price you pay for will often be a lot less than the price that other homeowners play once the subdivision starts to grow. If prices go up due to demand, then you have built-in equity to take advantage of.
+**3. Equity.** This is one that not a lot of people think about. If you’re able to get in on the front end of a new subdivision, the price you pay for will often be a lot less than the price that other homeowners pay once the subdivision starts to grow. If prices go up due to demand, then you have built-in equity to take advantage of.
 
 {% include pullquote.html %}
 
