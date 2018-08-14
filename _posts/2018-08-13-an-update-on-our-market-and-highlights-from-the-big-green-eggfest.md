@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update on Our Market and Highlights from the Big Green EGGFest
-date: 2018-08-13 21:26:45
+date: 2018-08-13 21:26:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Y1vWnRmIUVw
+youtube_code: zxBnqBfatE0
 ---
 
 {% include youtube.html %}
