@@ -50,7 +50,7 @@
 	// border: 2px solid $button-border
 	// @include transition(0.3s)
 	&:hover
-		font-weight: bold
+		// font-weight: bold
 		background: transparent
 		// border-top: 3px solid $brand
 		// @include transform(scale(1.05))
@@ -94,6 +94,59 @@
 	padding-right: 15px
 	padding-left: 15px
 	// height: 52px
+
+// Dropdown Button
+.dropbtn
+	background-color: $brand
+	color: white
+	padding-top: 3.5rem
+	font-size: 18px
+	text-transform: uppercase
+	border: none
+
+
+// The container <div> - needed to position the dropdown content
+.dropdown
+	position: relative
+	display: inline-block
+	margin-top: 3rem
+	a
+		padding: 35px 15px 15px 15px
+		&:hover
+			color: #fff
+
+
+// Dropdown Content (Hidden by Default)
+.dropdown-content
+	display: none
+	position: absolute
+	background-color: #f1f1f1
+	min-width: 160px
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
+	z-index: 1
+	a:hover
+		color: $brand
+
+
+// Links inside the dropdown
+.dropdown-content
+	a
+		color: black
+		padding: 12px 16px
+		text-decoration: none
+		display: block
+
+// Change color of dropdown links on hover
+.dropdown-content a:hover
+	background-color: #ddd
+
+// Show the dropdown menu on hover
+.dropdown:hover .dropdown-content
+	display: block
+
+// Change the background color of the dropdown button when the dropdown content is shown
+.dropdown:hover .dropbtn
+	background-color: $brand
 
 
 @media(max-width: 347px)
