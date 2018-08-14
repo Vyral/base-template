@@ -34,7 +34,7 @@ There are five major mistakes that home sellers often make when remodeling their
 
 **3. Swimming pools and hot tubs.** Though swimming pools are often an issue in Alaska, many people feel as though hot tubs bring an extra value to the buyer. While it might encourage the buyer to write an offer, it’s not really going to add much value in the eyes of an appraiser.
 
-**4. Roof and windows.** If these are damaged, you’ll obviously want to fix them, but make sure you’re not spending too much on upgrading them; it will cost you a lot of money, but the buyer won’t like assign as much value to it as what it cost.
+**4. Roof and windows.** If these are damaged, you’ll obviously want to fix them, but make sure you’re not spending too much on upgrading them; it will cost you a lot of money, but the buyer won’t likely assign as much value to it as what it cost.
 
 **5. Specialized areas.** These are areas such as home theaters, wine cellars, and playrooms. These are for you to enjoy, but don’t leave them on the way out of the home. Again, these might be features that could draw a buyer in, but they might not make you any more money for the cost they took to put in.
 
