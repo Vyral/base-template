@@ -25,7 +25,7 @@ Does your personality get in the way of achieving your goal?
 
 I have noticed a trend lately of people wanting to “win” their transaction instead of achieving their ultimate goal.&nbsp;
 
-And this fact is true in transactions outside of real estate, as well. The other day while reading a book about stock investing, I came across an interesting point on this subject. The author stated that because there are two sides to every transaction (a buyer and a seller), someone will always come out on top. Yet this assessment fails to take into account that the buyer and seller each have individual motivations. 
+And this fact is true in transactions outside of real estate, as well. The other day while reading a book about stock investing, I came across an interesting point on this subject. The author stated that because **there are two sides to every transaction (a buyer and a seller), someone will always come out on top.** Yet this assessment fails to take into account that the buyer and seller each have individual motivations. 
 
 Still, buyers and sellers can sometimes lose sight of their goals, and, instead, begin focusing on the idea of "winning." For example, I've worked with seller clients who want to downsize, but become too wrapped up in earning the best price and coming out on top to reach their original goal.
 
