@@ -22,7 +22,7 @@ youtube_code: epEFRQSIyMU
 
 {% include youtube.html %}
 
-With Maryland schools starting right after Labor Day this year, the first weekend in September is the perfect opportunity to make even more summer memories in Maryland. I’ve compiled a list of some of our favorite local ideas to get you inspired for the season.
+With Maryland schools starting right after Labor Day this year, the first weekend in September is the perfect opportunity to make even more summer memories. I’ve compiled a list of some of our favorite local ideas to get you inspired for the season.
 
 **1. Maryland State Fair (August 23-September 3).** No other event provides so much food, fun, and family entertainment for so little. There are both tame and thrilling rides, classic and local foods, livestock, garden and home exhibits, thoroughbred racing, and even live national concerts featuring star entertainers like Smash Mouth, Chris Lane, and Jefferson Starship. Hit up this event through September 3 at the State Fairgrounds in Timonium.
 
