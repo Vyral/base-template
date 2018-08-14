@@ -36,7 +36,7 @@ With that said, let’s take a look at the three things you should know when pur
 
 **2. VA loans do require a funding fee**. You will have to pay 2.15% of the loan amount to the VA program. If you use a VA loan a second time, this funding fee will be 3.3%. Keep in mind, though, that this fee will be waived for veterans with disabilities recognized by the VA.
 
-**3. VA loans are assumable**. This is awesome, because with interest rates and home values on the rise, your home may be more appealing to buyers if you choose to sell in the future.
+**3. VA loans are assumable**. This is awesome, because, with interest rates and home values on the rise, your home may be more appealing to buyers if you choose to sell in the future.
 
 {% include pullquote.html %}
 
