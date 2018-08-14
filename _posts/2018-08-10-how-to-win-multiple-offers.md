@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Should You Handle Multiple Offers?
+title: How to Win Multiple Offers
 date: 2018-08-10 14:00:00
 tags:
   - Home Buyer Tips
@@ -19,7 +19,7 @@ youtube_code: DyppZY4UaO0
 
 {% include youtube.html %}
 
-Today’s topic is multiple offers and how you can win against other buyers. **Here are the three steps that you need to take:&nbsp;**
+Today’s topic is multiple offers and how you can win against other buyers. **Here are the three steps that you need to take: **
 
 **1. Find an experienced professional** who is willing to spend the time and resources to find “not-yet for sale” homes where you want to buy.
 
