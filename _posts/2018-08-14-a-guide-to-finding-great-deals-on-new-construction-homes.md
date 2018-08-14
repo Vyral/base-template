@@ -19,7 +19,7 @@ youtube_code: F-zUr6MvEqU
 
 {% include youtube.html %}
 
-If you’re looking for great deals on new homes in the Charleston area, I have a secret to share with you.
+<p style="text-align: center"><em>If you’re looking for great deals on new homes in the Charleston area, I have a secret to share with you.</em></p>
 
 Are there any great deals left in the Charleston area? Yes, there are, and I’ll fill you in on how to find them today.
 
