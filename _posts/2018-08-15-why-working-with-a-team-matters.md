@@ -20,7 +20,9 @@ youtube_code: 1gDBsNzT0HA
 
 {% include youtube.html %}
 
-<center>Working with a specialized team of agents is much more efficient than working with a solo agent. Here’s why.</center>
+<center><em>Working with a specialized team of agents is much more efficient than working with a solo agent. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 Why do teams even matter in the real estate industry? Today we’ll discuss why exactly teams matter in our business.
 
