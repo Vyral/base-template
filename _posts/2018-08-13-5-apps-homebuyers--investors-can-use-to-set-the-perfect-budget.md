@@ -8,13 +8,13 @@ excerpt: >-
   If you’re thinking of buying a home or investing in real estate, I have five
   apps to tell you about that will help you set your budget.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+Episode+4-+Budgeting.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+5+Apps+Homebuyers+%2526+Investors+Can+Use+to+Set+the+Perfect+Budget.mp4
 pullquote: These apps will help you develop a budgeting strategy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: axkBci2aze0
+youtube_code: 6BzgZRBTozU
 ---
 
 {% include youtube.html %}
