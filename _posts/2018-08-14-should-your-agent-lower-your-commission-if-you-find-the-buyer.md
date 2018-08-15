@@ -28,7 +28,7 @@ Of course, the goal of selling a home is finding someone to buy it. However, the
 
 {% include pullquote.html %}
 
-Real estate agents do a lot to earn their keep to home sellers. Finding a buyer is only one of their many responsibilities. After an offer is accepted, the agent has a lot of work to do behind the scenes, including working with the buyer’s agent and/or lawyer. All of this effort takes time.&nbsp;
+Real estate agents do a lot to earn their keep from home sellers. Finding a buyer is only one of their many responsibilities. After an offer is accepted, the agent has a lot of work to do behind the scenes, including working with the buyer’s agent and/or lawyer. All of this effort takes time.&nbsp;
 
 Before signing an agreement with an agent, you do have the opportunity to discuss the finer points of the agreement with them. If you're set on paying a lower commission if you find your own buyer, make sure it’s outlined in your listing agreement.&nbsp;
 
