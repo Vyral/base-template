@@ -27,6 +27,6 @@ These homes can be designed to include specialized features like lower counterto
 
 {% include pullquote.html %}
 
-**Next time you, a friend, a family member, or anyone else you know needs professional mortgage services, we hope you’ll think of us.** When you work with our team, you not only receive great service, you also get to help us give back to our nation’s service members.
+**Next time you, a friend, a family member, or anyone else you know needs professional mortgage services, we hope you’ll think of us.** When you work with our team, you not only receive great service, but you also get to help us give back to our nation’s service members.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
