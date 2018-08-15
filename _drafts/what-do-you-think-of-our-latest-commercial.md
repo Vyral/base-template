@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Think of Our Latest Commercial?
-date:
+date: 2018-08-15 12:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,6 +19,6 @@ youtube_code: lWesT-FrLf8
 
 {% include youtube.html %}
 
-Our new commercial is about to hit the air, so we wanted to give you a sneak peek. While this commercial may be great exposure for our team, the message it contains is far more important to us. We value your success, which is why we spend hundreds of thousands each year in marketing, so that our seller clients are sure to earn top dollar. We’ve helped thousands of families, and yours could be next. To see our full message, watch our latest video.&nbsp;
+Our new commercial is about to hit the air, so we wanted to give you a sneak peek. While this commercial may be great exposure for our team, the message it contains is far more important to us. We value your success, which is why we spend hundreds of thousands each year in marketing, so that our seller clients are sure to earn top dollar. We’ve helped thousands of families, and yours could be next. To see our full message, watch our latest video. 
 
 {% include pullquote.html %}
