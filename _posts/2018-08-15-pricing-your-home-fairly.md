@@ -23,7 +23,9 @@ youtube_code: tT3DWXSz8hs
 
 {% include youtube.html %}
 
-<center>If you want your home to sell quickly and for top dollar in our market, you have to price it fairly. To price it fairly, there are a few considerations you need to make first.</center>
+<center><em>If you want your home to sell quickly and for top dollar in our market, you have to price it fairly. To price it fairly, there are a few considerations you need to make first.</em></center>
+
+&nbsp;
 
 As a seller, there are a few things to take into consideration to price your home fairly in today’s market.
 
