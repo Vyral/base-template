@@ -20,7 +20,7 @@ hide_index_page: false
 
 {% include youtube.html %}
 
-Choosing the right Realtor is an absolutely critical step in the transaction when buying a home. Let me tell you about a recent client of mine who decided midway through the home search to hire a family member to help them.
+Choosing the right Realtor is an absolutely critical step when buying a home. Let me tell you about a recent client of mine who decided midway through the home search to hire a family member to help them.
 
 **Long story short, their cousin ended up butchering the transaction and they ended up purchasing a property with a ton of issues.** The agent didn’t negotiate very strongly at all on their behalf. They had to re-invest a ton of money into the property to fix these issues.
 
