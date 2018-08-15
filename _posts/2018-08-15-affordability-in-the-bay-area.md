@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/blind-app-youtube-1.jpg
-youtube_code: rPuLyIvXzrY
+youtube_code: yakVgWp8s_I
 ---
 
 {% include youtube.html %}
