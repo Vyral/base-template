@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Options for Homeowners Who Need to Buy and Sell
-date:
+date: 2018-08-15 16:19:55
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -32,5 +32,3 @@ Third, **you can do a back-to-back close.** This is where you close both transac
 If {% include pullquote.html %}
 
 you have any questions about any of these options or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be happy to help you.
-
-&nbsp;
