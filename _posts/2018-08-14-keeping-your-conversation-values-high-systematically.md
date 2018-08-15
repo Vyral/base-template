@@ -21,7 +21,7 @@ youtube_code: WmUAQOHmT4M
 
 {% include youtube.html %}
 
-Today is part four of the real estate fundamentals series. This really is a sequential process where you need to stack these pieces up to build up to the more advanced topics later. &nbsp;Previously I spoke about the significance of clarity of goals, the importance of time blocking, and finally I debunked the myths about lead generation. For this segment, **I am talking about how to systematically keep the value of our conversations we have with clients high.**
+Today is part four of the real estate fundamentals series. This really is a sequential process where you need to stack these pieces up to build up to the more advanced topics later. &nbsp;Previously I spoke about the significance of clarity of goals, the importance of time blocking, and finally I debunked the myths about lead generation. For this segment, **I am talking about how to systematically keep the value of the conversations we have with clients high.**
 
 I have timestamped the different sections of the video so that you can jump to the sections that are most interesting to you.
 
