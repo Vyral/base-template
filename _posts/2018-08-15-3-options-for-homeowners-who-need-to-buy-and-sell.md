@@ -29,6 +29,6 @@ Second, **you can sell your current home before buying the new one.** This optio
 
 Third, **you can do a back-to-back close.** This is where you close both transactions on the same day, within the same hour. There are a lot of variables involved with this option, though, so you should discuss it with your agent before deciding to try it.
 
-If {% include pullquote.html %}
+{% include pullquote.html %}
 
-you have any questions about any of these options or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be happy to help you.
+If you have any questions about any of these options or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be happy to help you.
