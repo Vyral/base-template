@@ -20,7 +20,9 @@ youtube_code: NT63kwUN_VY
 
 {% include youtube.html %}
 
-<center>Want to keep your home cool this summer without having to pay an arm and a leg in utility costs? Here are three alternative ways to cool your home.</center>
+<center><em>Want to keep your home cool this summer without having to pay an arm and a leg in utility costs? Here are three alternative ways to cool your home.</em></center>
+
+&nbsp;
 
 Temperatures are rising and so are your utility bills, courtesy of that big power hog: your air conditioner. If you want to cut down your cooling costs without having to crank up the A/C, here are three tricks you can try instead:
 
