@@ -9,7 +9,7 @@ excerpt: >-
   little bit more than it was. Here’s how we met them in the middle and still
   got the home sold quickly.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2018/Cleveland+Park+Real+Estate-+How+Did+We+Help+Our+Buyer.mp4
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2018/Cleveland+Park+Real+Estate-+Three+Steps+to+Guarantee+the+%E2%80%9CPrice+Is+Right%E2%80%9D.mp4
 pullquote: We got an offer on the home within the first day.
 enclosure_type: video/mp4
 enclosure_time:
