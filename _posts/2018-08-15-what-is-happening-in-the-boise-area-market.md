@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Happening in the Boise Area Market?
-date:
+date: 2018-08-15 17:26:38
 tags:
   - Market Update
   - Real Estate
@@ -35,5 +35,3 @@ I get asked a lot, â€œHave I missed the opportunity to do well in this market?â€
 {% include pullquote.html %}
 
 If you are thinking about buying or selling, please feel free to call or email me. I look forward to sitting down and speaking with you soon.
-
-&nbsp;
