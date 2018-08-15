@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways We Help Our Sellers
+title: Three Steps to Guarantee the “Price Is Right”
 date: 2018-08-10 17:00:00
 tags:
   - Home Seller Tips
