@@ -4,7 +4,6 @@ title: 3 Ways to Cool Your Home Down Without A/C
 date: 2018-08-15 00:00:00
 tags:
   - Real Estate
-  - Miscellaneous
 excerpt: >-
   Want to keep your home cool this summer without having to pay an arm and a leg
   in utility costs? Here are three alternative ways to cool your home.
@@ -15,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/gerald-durham-july-2-no-play.jpg
-youtube_code: NT63kwUN_VY
+youtube_code: RHamkBDofc0
 ---
 
 {% include youtube.html %}
 
 <center><em>Want to keep your home cool this summer without having to pay an arm and a leg in utility costs? Here are three alternative ways to cool your home.</em></center>
 
-&nbsp;
+ 
 
 Temperatures are rising and so are your utility bills, courtesy of that big power hog: your air conditioner. If you want to cut down your cooling costs without having to crank up the A/C, here are three tricks you can try instead:
 
