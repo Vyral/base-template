@@ -30,7 +30,7 @@ To start, it is a super-hot market. It has been all year. In fact, it has been f
 
 I’ll share an example of this trend. About three and a half years ago, I was involved with a sale that went for $270,000. The same family that bought that $270,000 house took a job out of state recently and needed to sell. We sold the home in the last couple of weeks and they walked out of the title company with a check for $95,000. The appreciation has been so strong in this market that in only three and a half years, they were able to take nearly $100,000 worth of equity with them to purchase their new home.
 
-I get asked a lot, “Have I missed the opportunity to do well in this market?” No, not at all. **This market is still strong.** There is no slowdown in sight and it's an excellent time to put your home on the market and sell for top dollar.
+I'm often asked, “Have I missed the opportunity to do well in this market?” No, not at all. **This market is still strong.** There is no slowdown in sight and it's an excellent time to put your home on the market and sell for top dollar.
 
 {% include pullquote.html %}
 
