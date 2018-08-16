@@ -11,7 +11,7 @@ pullquote: Over 50 breweries and 50 restaurants will be in attendance.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/jennie-wolek-wild-brew-youtube.jpg
 youtube_code: 'https://youtu.be/XtqLARNhK7U'
 ---
 
@@ -21,7 +21,7 @@ Today I’m back to talk about a fantastic event that’s coming up here in a fe
 
 They don’t call it the greatest party ever hatched for nothing. **WildBrew is a fundraiser for the Sutton Avian Research Center located in Bartlesville.** This is the 20th year for this festival, making it the oldest craft beer festival in Oklahoma!
 
-**The event is on Saturday, August 25th at the Cox Business Center downtown.&nbsp;**
+**The event is on Saturday, August 25th at the Cox Business Center downtown. **
 
 Over 50 local and non-local breweries and 50 amazing restaurants will be in attendance for this wonderful indoor festival. **Here’s what a ticket to this festival will get you:**
 
