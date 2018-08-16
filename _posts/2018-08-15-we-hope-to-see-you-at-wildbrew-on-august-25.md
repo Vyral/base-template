@@ -19,9 +19,9 @@ youtube_code: 'https://youtu.be/XtqLARNhK7U'
 
 Today I’m back to talk about a fantastic event that’s coming up here in a few weeks. Angela Evans, who works in the marketing department for WildBrew, joined me recently to talk about the event and what you need to know about it.
 
-They don’t call it the greatest party ever hatched for nothing. **WildBrew is a fundraiser for the Sutton Avian Research Center located in Bartlesville.** This is the 20th year for this festival, making it the oldest craft beer festival in Oklahoma!
+They don’t call it the greatest party ever hatched for nothing. [**WildBrew is a fundraiser for the Sutton Avian Research Center located in Bartlesville.**](https://wildbrew.org/){: target="_blank"} This is the 20th year for this festival, making it the oldest craft beer festival in Oklahoma!
 
-**The event is on Saturday, August 25th at the Cox Business Center downtown. **
+**The event is on Saturday, August 25th at the Cox Business Center downtown.&nbsp;**
 
 Over 50 local and non-local breweries and 50 amazing restaurants will be in attendance for this wonderful indoor festival. **Here’s what a ticket to this festival will get you:**
 
