@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Options for Homeowners Who Need to Buy and Sell
-date: 2018-08-15 16:19:55
+date: 2018-08-15 16:19:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: F4OG0oDez4E
+youtube_code: UBFJGN0y2ck
 ---
 
 {% include youtube.html %}
 
 If you’re looking to buy a new home but you also have a home you need to sell, you have three options in which to proceed.
 
-First, **you can buy a new home before selling your current one.** This option requires the most out-of-pocket cash since you are owning two homes at once, but it is the most convenient. You also get the chance to lock down the perfect home.
+First, **you can buy a new home before selling your current one.** This option requires the most out-of-pocket cash since you are owning two homes at once, but it is also the most convenient. You also get the chance to lock down the perfect home.
 
 Second, **you can sell your current home before buying the new one.** This option is less risky, but it’s also less convenient. With this option, you will have an accelerated timeline to find and close on your next home, but it could result in you losing out on your dream home.
 
