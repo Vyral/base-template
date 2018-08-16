@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great News for St. Charles Home Sellers
-date: 2018-08-14 17:53:28
+date: 2018-08-14 17:53:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Rf9ljXZXsk8
+youtube_code: bshAiGWhRno
 ---
 
 {% include youtube.html %}
