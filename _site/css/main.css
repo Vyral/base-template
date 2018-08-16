@@ -1512,6 +1512,22 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
+.nav-logo {
+  float: left !important;
+  max-width: 250px;
+  margin: 5px;
+  padding: 10px; }
+
+@media (max-width: 760px) {
+  .nav-logo {
+    display: none; }
+
+  .hero-img {
+    height: 300px; }
+
+  .nav-logo-small {
+    max-width: 250px;
+    margin-top: -10px; } }
 @media(max-width: 347px) {
   .navbar {
     padding-right: 5px;
@@ -1602,7 +1618,8 @@ label.tree-toggle {
   text-align: center;
   font-weight: 400;
   padding-bottom: 2rem;
-  margin-bottom: 0; }
+  margin-bottom: 0;
+  font-size: 20px; }
 
 @media (max-width: 1100px) {
   .site-title {
@@ -2627,7 +2644,8 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem; }
+  padding: 0.5rem;
+  border-radius: 5px; }
 form select {
   border: 1px solid #15355B;
   padding: 0.5rem;
@@ -2635,25 +2653,38 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #15355B;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #15355B; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #15355B; }
+    border: 3px solid #fff;
+    color: #15355B;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #2865ae; }
+      border: 3px solid #2865ae;
+      background-color: #2865ae;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 100%;
+  margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray; }
+    border: 1px solid gray;
+    -webkit-transition: 0.3s;
+    transition: 0.3s; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2661,17 +2692,16 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #15355B; }
+    border: 3px solid #15355B;
+    border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #15355B;
       border: 1px solid #15355B; }
-
-.contact {
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 13%;
-  margin-top: 20px; }
+    .contact-form input[type="submit"]:active {
+      box-shadow: 0 0 0 #15355B;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
 
 .newsletter {
   background: #15355B;
@@ -2831,7 +2861,10 @@ form select {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 85%;
+  margin: 0 auto;
+  color: #000; }
 
 .page-logo {
   width: 90%;
@@ -2845,22 +2878,69 @@ form select {
   background-position: center;
   background-size: cover; }
 
-.navbar-left {
-  margin-top: 2rem; }
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
 
-.nav-logo {
-  float: left !important;
-  max-width: 250px;
-  margin: 5px;
-  padding: 10px; }
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
 
-@media (max-width: 760px) {
-  .nav-logo {
-    display: none; }
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
 
-  .hero-img {
-    height: 300px; }
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
 
-  .nav-logo-small {
-    max-width: 250px;
-    margin-top: -10px; } }
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #15355B;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #15355B;
+    border: 1px solid #15355B; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #15355B;
+    border: 1px solid #15355B; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #15355B;
+  font-weight: bold; }
+
+.author {
+  color: #15355B; }
+
+.indent {
+  margin-left: 4rem; }
+
+.fb-page {
+  width: 70%;
+  margin-left: 15%; }
