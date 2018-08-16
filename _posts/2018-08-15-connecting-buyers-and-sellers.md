@@ -19,7 +19,7 @@ youtube_code: Oa0mNWJFIAE
 
 {% include youtube.html %}
 
-Today I want to talk about something kind of unique. Obviously we are in the business of helping buyers find homes and homeowners find buyers. However, what we don't often talk about is how expert agents connect the two. It's not Facebook or Zillow that connects buyers and sellers. Instead, it often comes down to making those hard calls.
+Today I want to talk about something kind of unique. Obviously, we are in the business of helping buyers find homes and homeowners find buyers. However, what we don't often talk about is how expert agents connect the two. It's not Facebook or Zillow that connects buyers and sellers. Instead, it often comes down to making those hard calls.
 
 It drives buyers up the wall to make an offer on a home only to find out that it is already off the market.
 
