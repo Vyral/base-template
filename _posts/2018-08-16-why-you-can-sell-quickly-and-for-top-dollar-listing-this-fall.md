@@ -21,7 +21,7 @@ youtube_code: 6av2xCtcCTM
 
 {% include youtube.html %}
 
-Putting your home on the market this fall is a great idea, and there are two reasons why.
+<p style="text-align: center;"><em>Putting your home on the market this fall is a great idea, and there are two reasons why.</em></p>
 
 If you’re a home seller, putting your home on the market this fall can lead to selling quickly and for top dollar.
 
