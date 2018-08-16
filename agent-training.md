@@ -18,4 +18,4 @@ Register now &amp; don't miss our next class!!
 <br />
 For the current replay password email <a href="mailto:TheSpringMortgageTeam@gmail.com?subject=Replay%20Password">TheSpringMortgageTeam@gmail.com</a> with “Replay Password” in the subject line.<br />
 <!--<iframe allowfullscreen="" frameborder="0" height="440" src="http://agentmastermind.com/replay/" width="100%"></iframe>-->
-<h3><a href="http://agentmastermind.com/replay/" target="_blank">Click Here for Class Replays</a></h3>
+<a href="http://agentmastermind.com/replay/" target="_blank"><img src="/img/training.png" class="training-image"></a>

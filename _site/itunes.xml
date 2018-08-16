@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Rob Spring</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>https://thespringmortgageteam.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://thespringmortgageteam.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Spring Mortgage Team - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Rob Spring</managingEditor>
-    <lastBuildDate>2017-09-20 13:32:58 -0500</lastBuildDate>
+    <lastBuildDate>2018-08-16 16:35:17 -0500</lastBuildDate>
     <media:copyright>Rob Spring</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="https://thespringmortgageteam.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,537 @@
     </itunes:owner>
     <itunes:author>Rob Spring</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="https://thespringmortgageteam.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Spring Mortgage Team - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>How Are My Property Taxes Calculated?</title>
+        <link>https://thespringmortgageteam.com/how-are-my-property-taxes-calculated.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-08-07 17:18:29 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Are+My+Property+Taxes+Calculated%253F.mp4</guid>
+        <description>
+
+Today we’re going to talk a little bit about property taxes. The big question people have is, “How are they calculated?” We’re going to answer that for you right now.
+
+The county you live in assesses the value of your property every year, typically in late spring/early summer. There are also taxing entities that are associated with your property, such as the school district, community hospital, community college, and sometimes a water district. Each of these entities taxes at its own rate.
+
+“The county assesses your property’s value each year.”
+
+To determine which entity taxes your property or a property you want to buy, you can go to your county’s assessor’s website (ex. Dcad.org or dentoncad.com). This will help you figure out what the taxes will be on your current property or on the property you are thinking of buying.
+
+If you have any other questions about this topic or anything else related to the real estate or mortgage worlds, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Are+My+Property+Taxes+Calculated%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Are+My+Property+Taxes+Calculated%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Do you know how your property taxes are calculated? We’re taking a closer look at that today.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Do you know how your property taxes are calculated? We’re taking a closer look at that today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do You Know Why Your Mortgage Rates Fluctuate?</title>
+        <link>https://thespringmortgageteam.com/do-you-know-why-your-mortgage-rates-fluctuate.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-08-01 10:08:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Know+Why+Your+Mortgage+Rates+Fluctuate+Up+and+Down%253F.mp4</guid>
+        <description>
+
+Today I want to talk about mortgage rates. What makes them go up? What makes them go down?
+
+First, I want to start with who owns mortgages. Fannie Mae, Freddie Mac, and Ginnie Mae fund virtually all of the traditional mortgage loans in the United States.
+
+They sell securities to investors such as private investors, corporate investors, insurance funds, and even foreign governments to fund loans that we write. These places buy these securities because they are backed by the full faith and credit of the U.S. Department of the Treasury. What causes the rates to go up and down is the demand for those securities.
+
+If investors are buying the securities, then the yields that they pay are going down. This would mean that your interest rates decrease.
+
+“Fannie Mae, Freddie Mac, and Ginnie Mae fund virtually all of the traditional mortgage loans in the United States.”
+
+Meanwhile, if the demand for those securities decreases, then they raise the yield to encourage them to buy more. This, then, would increase the interest rates.
+
+Thinking about it in terms of the stock market, if your 401(k) is going well, then interest rates are probably going up. If your 401(k) is not doing well, interest rates are probably going down.
+
+If you have any additional questions about this or anything else that is mortgage related, please feel free to give us a call. We would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Know+Why+Your+Mortgage+Rates+Fluctuate+Up+and+Down%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Know+Why+Your+Mortgage+Rates+Fluctuate+Up+and+Down%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Mortgage rates can fluctuate, but do you know why? Today I want to take a few minutes to explain.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Mortgage rates can fluctuate, but do you know why? Today I want to take a few minutes to explain.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do You Know How Much Home You Can Afford?</title>
+        <link>https://thespringmortgageteam.com/do-you-know-how-much-home-you-can-afford.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-07-23 15:24:14 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Much+Can+You+Afford.mp4</guid>
+        <description>
+
+Do you know how much home you can afford? Depending on the loan type you’re using, whether it’s FHA, VA, or a conventional loan, 43% to 50% of your gross monthly income can be used to cover the cost of the home purchase and any associated credit liabilities. The home purchase itself will be comprised of expenses such as taxes, insurance, and, potentially, homeowners association dues. To hear my full message on this subject, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Much+Can+You+Afford.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Much+Can+You+Afford.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How much home can you afford? Today I’d like to share how you can determine the answer to this crucial question.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>How much home can you afford? Today I’d like to share how you can determine the answer to this crucial question.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Document FHA Gift Funds</title>
+        <link>https://thespringmortgageteam.com/how-to-document-fha-gift-funds.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-07-13 10:35:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+You+Need+to+Know+About+Gift+Funds+for+Non-Conventional+Loans.mp4</guid>
+        <description>
+
+When it comes to receiving gift funds for non-conventional loans, there are certain requirements you need to be aware of and restrictions that are placed on the donor.
+
+First, full account ownership of the donor must be documented and the donor’s ability to gift the money must be verified. A full bank statement from your donor must be provided, showing their name, address, account number, and their account balances before and after the gifts funds are taken out.
+
+There are a variety of ways the donor can transfer you the funds in this scenario, but if the money is being transferred to you directly, then we need to document your receipt of that money with an updated transaction history.
+
+“There are a variety of ways the donor can transfer you the funds in this scenario.”
+
+Lastly, if the donor has large deposits on the monthly statement that they provide, they have to document where that money came from, as stated in the Patriot Act.
+
+If you have any other questions about the requirements of gift funds for non-conventional loans or you have any other questions, please feel free to reach out to us. We would be more than happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+You+Need+to+Know+About+Gift+Funds+for+Non-Conventional+Loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+You+Need+to+Know+About+Gift+Funds+for+Non-Conventional+Loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There is a certain documentation procedure that comes with receiving gift funds for non-conventional loans.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>There is a certain documentation procedure that comes with receiving gift funds for non-conventional loans.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Escrow Accounts: What They Are and How they Work</title>
+        <link>https://thespringmortgageteam.com/escrow-accounts-what-they-are-and-how-they-work.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-07-11 10:23:33 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Escrow+Accounts-+What+They+Are+and+How+they+Work.mp4</guid>
+        <description>
+
+What is an escrow account? How does it work?
+
+In short, an escrow account is put in place during a home purchase to keep the recurring costs associated with homeownership.
+
+When you use a mortgage loan to buy a home and you put down less than 20%, federal law requires that there be an escrow account involved in the transaction. Escrow accounts are also required whenever you use an FHA or VA loan to purchase a home.
+
+“When you use a mortgage loan to buy a home and you put down less than 20%, federal law requires that there be an escrow account involved in the transaction.”
+
+Essentially, you “escrow” the future tax and insurance payments of that home. One-twelfth of your tax bill is added to your monthly mortgage payment and held in the escrow account so that when your tax bill is due, the mortgage company has enough funds to pay it. The same goes for your insurance bill.
+
+The due dates for each payment don’t always align—your insurance payment is typically due on the anniversary of your mortgage, and your property tax payment is typically due in December.
+
+If you have any other questions about escrow accounts and how they function, don’t hesitate to get in touch with me. I’d be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Escrow+Accounts-+What+They+Are+and+How+they+Work.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Escrow+Accounts-+What+They+Are+and+How+they+Work.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s an escrow account? It’s something that’s put in place during a home purchase to keep the recurring costs associated with homeownership.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>What’s an escrow account? It’s something that’s put in place during a home purchase to keep the recurring costs associated with homeownership.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Would You Need an Access Letter?</title>
+        <link>https://thespringmortgageteam.com/why-would-you-need-an-access-letter.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-06-27 14:07:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Credit+Explanation+Letter+(1).mp4</guid>
+        <description>
+
+You’ve got questions; we’ve got answers.
+
+Why would we need a letter from someone who’s not on the loan documenting access to an account?
+
+Consider this example: A husband and wife have a joint account, but the wife is the only person on the mortgage. There can be a lot of reasons why this may happen—maybe only she has an income, he has bad credit, etc.
+
+“The account owner must give the other person access to those funds.”
+
+When we do not have both account owners on the loan, however, the account owner must give the other person access to those funds. We will need an access letter to do this.
+
+If you have any other questions, please contact us. We look forward to speaking with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Credit+Explanation+Letter+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Credit+Explanation+Letter+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is an access letter?</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>What is an access letter?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Look at How to Start the Mortgage Process</title>
+        <link>https://thespringmortgageteam.com/a-quick-look-at-how-to-start-the-mortgage-process.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-06-20 10:45:14 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Look+at+How+to+Start+the+Mortgage+Process.mp4</guid>
+        <description>
+
+Today I want to take a quick look at how to get started with the mortgage approval process.
+
+We start by collecting your name, social security number, address, residence history, and employment history. This information helps complete the base of the application.
+
+“However you prefer to submit your information, I would be happy to assist you.”
+
+There are three different ways you can provide this information.
+
+1. Face-to-face. You are more than welcome to come into my office. I would love to see you.
+
+2. Over the phone.
+
+3. Online.
+
+Whichever you prefer, I would be happy to assist you.
+
+If you have any questions, please feel free to let me know by phone or email. I look forward to speaking with you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Look+at+How+to+Start+the+Mortgage+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Look+at+How+to+Start+the+Mortgage+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll explain the process of starting your mortgage approval process in under 60 seconds.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Today I’ll explain the process of starting your mortgage approval process in under 60 seconds.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Quickly Can We Close Your Home?</title>
+        <link>https://thespringmortgageteam.com/how-quickly-can-we-close-your-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-06-11 06:45:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Quickly+Can+We+Close+Your+Home%253F.mp4</guid>
+        <description>
+
+How quickly can we close your home?
+
+“Closing speed largely depends on you, the appraiser, and the terms of the loan.”
+
+There are some federal regulations that require waiting periods from the date of the application to the first eligible closing date. There is also a waiting period for the appraisal, as well as for when you receive the initial closing disclosure. We’ve closed loans in eight days, but most between 20 and 25 days.
+
+Ultimately, it’s up to you. If you have further questions about this or anything else real estate related, please give me a call. I would be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Quickly+Can+We+Close+Your+Home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Quickly+Can+We+Close+Your+Home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How fast can we close your home?</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>How fast can we close your home?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What All Is Included in Closing Costs?</title>
+        <link>https://thespringmortgageteam.com/what-all-is-included-in-closing-costs.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-05-23 09:17:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+All+Is+Included+in+Closing+Costs%253F.mp4</guid>
+        <description>
+
+Today we are answering your questions about closing costs. First, what are closing costs?
+
+At the closing table, the three kinds of expenses buyers can expect are the down payment, one-time closing fees, and pre-paid items. 
+
+Let’s begin by talking about down payments. A down payment is a deposit made toward the cost of the home, and usually amounts to a specific percentage of the total list price.
+
+“The amount of money that you bring to closing will vary based on several factors.”
+
+Next, closing costs are one-time fees associatedwith the home purchase. This includes the appraisal fees, the survey fees, the lender costs, and the cost of title insurance.
+
+Finally, prepaid items are recurring charges. These are things which you will pay continually as a homeowner, such as homeowners insurance, property taxes, or mortgage insurance.
+
+The amount of money that you bring to closing will vary based on the price of the house, your down payment, and your creditworthiness.
+
+If you have further questions about this or anything else real estate related, please give me a call. I would be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+All+Is+Included+in+Closing+Costs%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+All+Is+Included+in+Closing+Costs%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What do you need to know about closing costs?</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>What do you need to know about closing costs?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Rapid Rescoring Your Credit Report</title>
+        <link>https://thespringmortgageteam.com/rapid-rescoring-your-credit-report.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-04-18 10:06:40 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Rapid+ReScoring.mp4</guid>
+        <description>
+
+What is rapid rescoring and what does it do for your credit report? 
+
+There are certain circumstances where people have high-revolving credit balances, but are on 0% interest so they don’t feel like it’s a problem to have a high limits-to-balance ratio. They may also have a furniture account that they’re paying monthly installments on, but it’s being reported as a revolving account. 
+
+These kinds of situations can have a negative impact on your credit score, but if you have the ability to pay those account balances, we can help you print off a new statement that shows what your updated balance is and “force-report” those account balances through rapid rescoring.
+
+“We can do these rapid rescores in usually four or five days.”
+
+Typically, creditors only report to the credit scoring models only once a month, and if you have a 25- or 30-day timeline for your mortgage approval or closing, you need the ability to do these rapid rescores to get your score up and save money. We can do these rapid rescores in usually four or five days, depending on which creditor you’re paying off. 
+
+If you have any more questions about how rapid rescoring works or you’re in need of a rapid rescore, don’t hesitate to reach out to me. If you have any other questions, I’d be happy to answer those too. I look forward to hearing from you. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Rapid+ReScoring.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Rapid+ReScoring.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Doing a rapid rescore of your credit report can help you save money if you have an upcoming mortgage approval or closing.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Doing a rapid rescore of your credit report can help you save money if you have an upcoming mortgage approval or closing.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Overview of the Appraisal Process</title>
+        <link>https://thespringmortgageteam.com/a-quick-overview-of-the-appraisal-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-03-19 14:59:22 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Overview+of+the+Appraisal+Process.mp4</guid>
+        <description>
+
+If you’re a buyer, what really goes on in the appraisal process?
+
+On our team, we order appraisals through our panel of appraisers to see the house that’s being bought. The appraiser measures the house’s dimensions, takes some pictures, verifies some condition items, and then goes back to their office to compare the house to other houses that have recently sold.
+
+“The appraiser’s primary objective is to determine the home’s worth.”
+
+The appraiser’s job is to find the most comparable properties—ones that are similar in size, age, proximity, etc. Their primary objective is to determine what the house would be worth if, for whatever reason, you couldn’t pay for it and the mortgage lender had to resell it.
+
+If you have any other questions about the appraisal process or you’re thinking of buying or selling a home in our market soon, don’t hesitate to reach out to us. I’d be glad to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Overview+of+the+Appraisal+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+A+Quick+Overview+of+the+Appraisal+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The purpose of an appraisal is to determine the home’s worth in the event that the buyer can’t pay for it and the mortgage lender has to resell it.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>The purpose of an appraisal is to determine the home’s worth in the event that the buyer can’t pay for it and the mortgage lender has to resell it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Instructions for Conventional Loan Gift Funds</title>
+        <link>https://thespringmortgageteam.com/our-instructions-for-conventional-loan-gift-funds.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-02-14 15:10:03 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Our+Instructions+for+Conventional+Loan+Gift+Funds.mp4</guid>
+        <description>
+
+How do gift funds work for conventional loans? Well, when it comes to gift funds for conventional loans, my team and I are much less intrusive on the donor in terms of documenting account ownership.
+
+If you follow the set of specific instructions we will lay out for you, then we won’t need to see bank statements from the donor. Here’s what you need to do.
+
+“If you follow the set of specific instructions we will lay out for you, then we won’t need to see bank statements from the donor.”
+
+First, have your donor write you a check. Next, deposit that check into the account we’re verifying for your funds to close. Then, send us an updated transaction history from your account to show that those funds are now available.
+
+After that, you will need to call your donor to have them send us a copy of the front and back of the processed check from their bank. Once you’ve followed these instructions, you should be good to go.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Our+Instructions+for+Conventional+Loan+Gift+Funds.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Our+Instructions+for+Conventional+Loan+Gift+Funds.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Using gift funds for a conventional loan can be simple if you follow our specific instructions.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Using gift funds for a conventional loan can be simple if you follow our specific instructions.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is It Better to Buy a Home Now or Wait?</title>
+        <link>https://thespringmortgageteam.com/is-it-better-to-buy-a-home-now-or-wait.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2018-01-19 09:51:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Is+It+Better+to+Buy+a+Home+Now+or+Wait%253F.mp4</guid>
+        <description>
+
+Are you better off waiting to buy a home or buying now?
+
+Every market is different, just like everyone’s financial situation is different.
+
+“Waiting to buy may cost you, but it’s more important that you buy when the time is right for you.”
+
+Two things we can’t control are the rise and fall of home prices and the rise and fall of interest rates. That’s why the best time to buy a house is whenever is best for you, your family, and your financial situation.
+
+Waiting to buy may cost you, but it’s more important that you buy when the time is right for you. I know I’m not worried about the cost of waiting.
+
+If you have any more questions about the right time to buy a home or you’re thinking about selling a home, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Is+It+Better+to+Buy+a+Home+Now+or+Wait%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Is+It+Better+to+Buy+a+Home+Now+or+Wait%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Every market is different, just like every person’s financial situation is different. That’s why the best time to buy a house is whenever is best for you and your family and your financial situation.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>Every market is different, just like every person’s financial situation is different. That’s why the best time to buy a house is whenever is best for you and your family and your financial situation.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do You Have Questions About Down Payments? We’ve Got Answers</title>
+        <link>https://thespringmortgageteam.com/do-you-have-questions-about-down-payments-weve-got-answers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2017-12-19 09:42:51 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Have+Questions+About+Down+Payments%253F+Weve+Got+Answers.mp4</guid>
+        <description>
+
+You’ve got questions, and we’ve got answers—today, we’re going to talk about down payments.
+
+How much should your down payment be? Well, that’s totally up to you. Can we meet your financial budget? Can we meet your monthly payment requirements? Can we buy the house that we want to buy with the certain down payment that you have in mind? We’ll help you decipher those questions.
+
+“How much your down payment should be is totally up to you”
+
+Most of our clients put down between 3% and 10%; some put more down and some put less. We even have programs that require zero down payment.
+
+Give us a call! We’ll walk you through the process. If you have any questions, feel free to contact us via phone or email. We’d love to help you out.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Have+Questions+About+Down+Payments%253F+Weve+Got+Answers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+Do+You+Have+Questions+About+Down+Payments%253F+Weve+Got+Answers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve got any questions about down payments, we’ve got answers for you.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>If you’ve got any questions about down payments, we’ve got answers for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Improve Your Credit Score?</title>
+        <link>https://thespringmortgageteam.com/how-can-you-improve-your-credit-score.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2017-11-27 07:01:01 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Can+You+Improve+Your+Credit+Score%253F.mp4</guid>
+        <description>
+
+What can you do to improve your credit before applying for a mortgage?
+
+First of all, you need to have a basic understanding of what your current accounts look like. To do this, my team and I can perform a soft pull that won’t affect your credit score.
+
+“The most important thing on your credit score is your revolving balances.”
+
+The most important thing on your credit score is your revolving balances, specifically in relation to your limits. If we can get these below 50%, this will help to improve your score. Your score will be even better still if we can get them below 10%.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Can+You+Improve+Your+Credit+Score%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+How+Can+You+Improve+Your+Credit+Score%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to improve your credit score before applying for a mortgage, there are a few steps you can take.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>If you want to improve your credit score before applying for a mortgage, there are a few steps you can take.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Income Is Considered When Qualifying for a Mortgage?</title>
+        <link>https://thespringmortgageteam.com/what-income-is-considered-when-qualifying-for-a-mortgage.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Rob Spring</author>
+        <pubDate>2017-11-02 09:25:21 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+Income+Is+Considered+When+Qualifying+for+a+Mortgage%253F.mp4</guid>
+        <description>
+
+What income is considered when qualifying for a mortgage?
+
+These days, everything has to be verified through W2s, paystubs, or tax returns. Certain types of income are verified in different ways.
+
+For example, a self-employed person would need tax returns to verify their income. A self-employed person is someone who owns 25% or more of a company or is a contract employee whose employer doesn’t take out taxes so they have to file their own.
+
+For a W2 employee who has a commission or a bonus, if that bonus or commission is greater than 25% of their annual income, they also need tax returns.
+
+“Understanding how incomes are verified for mortgages isn’t as difficult as you might think.”
+
+Understanding how incomes are verified for mortgages isn’t as difficult as you might think. If you have any questions, just give us a call or shoot us an email and we’d be more than happy to walk you through the process and explain exactly what the underwriter will be looking for. We look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+Income+Is+Considered+When+Qualifying+for+a+Mortgage%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Rob+Spring/The+Spring+Mortgage+Team+Presents-+What+Income+Is+Considered+When+Qualifying+for+a+Mortgage%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When it comes to what income is considered when qualifying for a mortgage, certain types of income are verified in different ways.</itunes:subtitle>
+        <itunes:author>Rob Spring</itunes:author>
+        <itunes:summary>When it comes to what income is considered when qualifying for a mortgage, certain types of income are verified in different ways.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>How Much Do You Really Need for a Down Payment?</title>
-        <link>localhost:4000/how-much-do-you-really-need-for-down.html</link>
+        <link>https://thespringmortgageteam.com/how-much-do-you-really-need-for-down.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -54,7 +576,7 @@ Ultimately, we’d love to walk you through the process and determine what route
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20Much%20Do%20You%20Really%20Need%20for%20a%20Down%20Payment%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20Much%20Do%20You%20Really%20Need%20for%20a%20Down%20Payment%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -73,7 +595,7 @@ A lot of people have questions about down payments. Today, I’m bringing you so
       
       <item>
         <title>5 Remodeling Projects With the Best Return</title>
-        <link>localhost:4000/5-remodeling-projects-with-best-return.html</link>
+        <link>https://thespringmortgageteam.com/5-remodeling-projects-with-best-return.html</link>
         
           <category>Homeowner Tips</category>
         
@@ -107,7 +629,7 @@ Clearly, some of them will make more sense for your home than others. If you’r
 If you have any questions or want additional advice about which remodeling projects make sense for you, give me a call or send me an email. We can discuss all the details and I can give you an accurate estimate of what these projects could cost, and how to go about financing them. I look forward to hearing from you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%205%20Remodeling%20Projects%20With%20the%20Best%20Return.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%205%20Remodeling%20Projects%20With%20the%20Best%20Return.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -126,7 +648,7 @@ Home remodeling is as hot as it’s ever been. Here are five projects that bring
       
       <item>
         <title>How the Feds Recent Rate Hike Impacts Our Market</title>
-        <link>localhost:4000/how-feds-recent-rate-hike-impacts-our.html</link>
+        <link>https://thespringmortgageteam.com/how-feds-recent-rate-hike-impacts-our.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -156,7 +678,7 @@ In conclusion, while any move by the Fed is likely to lead to a lot of hand-wrin
 If you have any questions about our market or you’re thinking of buying or selling a home, give me a call or send me an email. I’d love to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20will%20rising%20rates%20affect%20our%20market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20will%20rising%20rates%20affect%20our%20market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -175,7 +697,7 @@ The Fed’s recent rate hike shouldn’t have any significant impact on our mark
       
       <item>
         <title>How Do Fannie Maes Recent Changes Affect Those With Student Debt?</title>
-        <link>localhost:4000/how-do-fannie-maes-recent-changes.html</link>
+        <link>https://thespringmortgageteam.com/how-do-fannie-maes-recent-changes.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -213,7 +735,7 @@ If you need help understanding these new guidelines to see whether they’re rig
 I hope to hear from you soon!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team-%20How%20Do%20Fannie%20Maes%20Recent%20Changes%20Affect%20Those%20With%20Student%20Debt%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team-%20How%20Do%20Fannie%20Maes%20Recent%20Changes%20Affect%20Those%20With%20Student%20Debt%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -232,7 +754,7 @@ Today I want to inform you about how Fannie Mae, the nation’s largest underwri
       
       <item>
         <title>You Dont Need a Down Payment</title>
-        <link>localhost:4000/you-dont-need-down-payment.html</link>
+        <link>https://thespringmortgageteam.com/you-dont-need-down-payment.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -288,7 +810,7 @@ Buying a McKinney Home? Click here to complete your loan application.
 And if you need more advice on getting a no-money-down loan, give us a call at 214-929-5810.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20You%20Dont%20Need%20a%20Down%20Payment.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20You%20Dont%20Need%20a%20Down%20Payment.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -307,7 +829,7 @@ Today, I want to share with you all the options you have for an affordable down 
       
       <item>
         <title>How Can You Make Your Offer Stand Out?</title>
-        <link>localhost:4000/how-can-you-make-your-offer-stand-out.html</link>
+        <link>https://thespringmortgageteam.com/how-can-you-make-your-offer-stand-out.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -331,7 +853,7 @@ When competing for a home in a seller’s market, you need to do everything you 
 If you have any questions for us about any of these topics or you’d like to get pre-approved for a mortgage today, give us a call or send us an email. We would be happy to help out.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20Can%20You%20Make%20Your%20Offer%20Stand%20Out%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20How%20Can%20You%20Make%20Your%20Offer%20Stand%20Out%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -350,7 +872,7 @@ Standing out as a buyer can be tough in a seller’s market. Here are three ways
       
       <item>
         <title>Have You Heard of Our New Down Payment Assistance Program?</title>
-        <link>localhost:4000/have-you-heard-of-our-new-down-payment.html</link>
+        <link>https://thespringmortgageteam.com/have-you-heard-of-our-new-down-payment.html</link>
         
           <category>New Program</category>
         
@@ -368,7 +890,7 @@ In the past, we’ve had clients that didn’t quite have enough money saved for
 We’d love to help you achieve the path toward homeownership, so if you have any questions about this new program, please don’t hesitate to reach out to us. We look forward to helping you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20Feb%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20Feb%201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -387,7 +909,7 @@ We’ve developed an in-house down payment assistance program that can help clie
       
       <item>
         <title>Why Is It Important to Choose the Right Lender?</title>
-        <link>localhost:4000/why-is-it-important-to-choose-right.html</link>
+        <link>https://thespringmortgageteam.com/why-is-it-important-to-choose-right.html</link>
         
           <category>Lender Tips</category>
         
@@ -417,7 +939,7 @@ If you’re a seller, do what you can to verify the pre-approval. Check out thin
 If you or anyone you know has questions about the mortgage process or about real estate in general, please don’t hesitate to call us or visit our website. We look forward to hearing from you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20Nov%201.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Rob%20Spring/The%20Spring%20Mortgage%20Team%20Presents-%20Nov%201.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -436,7 +958,7 @@ Choosing the wrong lender can lead to a home sale not closing on time and other 
       
       <item>
         <title>The Role of a Home Loan Processor</title>
-        <link>localhost:4000/the-role-of-home-loan-processor.html</link>
+        <link>https://thespringmortgageteam.com/the-role-of-home-loan-processor.html</link>
         
           <category>Mortgage Broker</category>
         
@@ -458,7 +980,7 @@ The next step is to send it to underwriting, which only takes a couple of days. 
 I’m always here to help! If you have any questions, please don’t hesitate to give us a call or send us an email.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Shawn+Culhane/The+Spring+Mortgage+Team+Presents-+The+Role+of+a+Home+Loan+Processor.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Shawn+Culhane/The+Spring+Mortgage+Team+Presents-+The+Role+of+a+Home+Loan+Processor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -477,7 +999,7 @@ As your processor, my job is to package your loan for the underwriting. I’ll r
       
       <item>
         <title>This Loan Is Ideal for Fixer-Upper Buyers</title>
-        <link>localhost:4000/this-loan-is-ideal-for-fixer-upper.html</link>
+        <link>https://thespringmortgageteam.com/this-loan-is-ideal-for-fixer-upper.html</link>
         
           <category>Homeowner Tips</category>
         
@@ -501,7 +1023,7 @@ This program allows for all kinds of renovations. The only requirement is that t
 If you have questions about this program, please feel free to give me a call or send me an email today. I’d love to hear from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -520,7 +1042,7 @@ Today and I wanted to talk about the home renovation program, which helps homeow
       
       <item>
         <title>Save Money on Your Home Without Refinancing </title>
-        <link>localhost:4000/save-money-on-your-mckinney-home.html</link>
+        <link>https://thespringmortgageteam.com/save-money-on-your-mckinney-home.html</link>
         
           <category>Homeowner Tips</category>
         
@@ -544,7 +1066,7 @@ Finally, file that homestead exemption to save 15% to 20% on your property taxes
 As you can see, refinancing is not the only way you can save money on your house. If you have any questions for me, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -563,7 +1085,7 @@ As a homeowner, there are many ways you can save money without refinancing.
       
       <item>
         <title>How You Can Protect Your Transaction When Buying in McKinney</title>
-        <link>localhost:4000/how-you-can-protect-your-transaction.html</link>
+        <link>https://thespringmortgageteam.com/how-you-can-protect-your-transaction.html</link>
         
           <category>Mortgage</category>
         
@@ -577,7 +1099,7 @@ Protect Your Transaction (PYT) is a $10,000 closing assurance program. We’re s
 If you have any questions about this program, or any real estate topic, please don’t hesitate to reach out to us. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -596,7 +1118,7 @@ Protect Your Transaction (PYT) is a $10,000 closing assurance program. We’re s
       
       <item>
         <title>Our Dedication Sets Us Apart</title>
-        <link>localhost:4000/our-dedication-sets-us-apart.html</link>
+        <link>https://thespringmortgageteam.com/our-dedication-sets-us-apart.html</link>
         
           <category>Mortgage Broker</category>
         
@@ -630,7 +1152,7 @@ Finally, we have our $10,000 closing insurance program. We are so proud of our p
 If you have any questions for us, please give us a call or send us an email. We would love to hear from you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -649,7 +1171,7 @@ Our team here at Spring Mortgage is different in a lot of ways. Most of the work
       
       <item>
         <title>Be Prepared When Applying for a Mortgage</title>
-        <link>localhost:4000/are-you-ready-to-apply-if-youve-ever.html</link>
+        <link>https://thespringmortgageteam.com/are-you-ready-to-apply-if-youve-ever.html</link>
         
           <category>Mortgage Broker</category>
         
@@ -677,7 +1199,7 @@ For those who are self-employed or a contractor (taxes aren’t taken out of you
 Everyone will also need to provide a year-to-date profit-loss, to show that your income is in line with the tax returns from an income and expense standpoint. We’ll help you with that.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://thespringmortgageteam.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>

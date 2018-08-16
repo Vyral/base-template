@@ -3,37 +3,202 @@
   <channel>
     <title>-- CLIENT BRAND --</title>
     <description>Our mission at The Spring Mortgage Team is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Spring Mortgage Team, your professional  Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Sep 2017 13:32:58 -0500</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2017 13:32:58 -0500</lastBuildDate>
+    <link>https://thespringmortgageteam.com/</link>
+    <atom:link href="https://thespringmortgageteam.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Aug 2018 16:35:17 -0500</pubDate>
+    <lastBuildDate>Thu, 16 Aug 2018 16:35:17 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>How Much Do You Really Need for a Down Payment?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0fVGF0EYtII?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>How Are My Property Taxes Calculated?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nhKSxaNUNv8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;A lot of people have questions about down payments. Today, I’m bringing you some answers.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Today we’re going to talk a little bit about property taxes. The big question people have is, “How are they calculated?” We’re going to answer that for you right now.&lt;/p&gt;
 
-&lt;p&gt;Today, we’re going to be talking about down payments. This is a topic that raises a lot of confusion, which is why I’m here to clear up the subject.&lt;/p&gt;
+&lt;p&gt;The county you live in assesses the value of your property every year, typically in late spring/early summer. There are also taxing entities that are associated with your property, such as the school district, community hospital, community college, and sometimes a water district. Each of these entities taxes at its own rate.&lt;/p&gt;
 
-&lt;p&gt;One of the main things people ask is, “How much do I need to put down?”&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The county assesses your property’s value each year.%20https://thespringmortgageteam.com/how-are-my-property-taxes-calculated.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The county assesses your property’s value each year.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The truth is that it all depends. We need to ask ourselves if we can meet your financial budget, if we can meet your monthly payment requirements, and if we can buy the house you have in mind with the funds you have on hand.&lt;/p&gt;
+&lt;p&gt;To determine which entity taxes your property or a property you want to buy, you can go to your county’s assessor’s website (ex. &lt;a href=&quot;Dcad.org&quot;&gt;Dcad.org&lt;/a&gt; or &lt;a href=&quot;dentoncad.com&quot;&gt;dentoncad.com&lt;/a&gt;). This will help you figure out what the taxes will be on your current property or on the property you are thinking of buying.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The amount people put down varies a lot more than some might tend to believe.%20localhost:4000/how-much-do-you-really-need-for-down.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The amount people put down varies a lot more than some might tend to believe.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Most of our clients put down between 3% and 10%, but some put down more and others put down less. The amount people put down varies a lot more than some might tend to believe.&lt;/p&gt;
-
-&lt;p&gt;We even have programs available that allow you to buy a home for nothing down at all.&lt;/p&gt;
-
-&lt;p&gt;Ultimately, we’d love to walk you through the process and determine what route is best for you.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+&lt;p&gt;If you have any other questions about this topic or anything else related to the real estate or mortgage worlds, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Sep 2017 13:55:00 -0500</pubDate>
-        <link>localhost:4000/how-much-do-you-really-need-for-down.html</link>
-        <guid isPermaLink="true">localhost:4000/how-much-do-you-really-need-for-down.html</guid>
+        <pubDate>Tue, 07 Aug 2018 17:18:29 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/how-are-my-property-taxes-calculated.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/how-are-my-property-taxes-calculated.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do You Know Why Your Mortgage Rates Fluctuate?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/i7Sx2rCdWAI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I want to talk about mortgage rates. What makes them go up? What makes them go down?&lt;/p&gt;
+
+&lt;p&gt;First, I want to start with who owns mortgages. Fannie Mae, Freddie Mac, and Ginnie Mae fund virtually all of the traditional mortgage loans in the United States.&lt;/p&gt;
+
+&lt;p&gt;They sell securities to investors such as private investors, corporate investors, insurance funds, and even foreign governments to fund loans that we write. These places buy these securities because they are backed by the full faith and credit of the U.S. Department of the Treasury. &lt;strong&gt;What causes the rates to go up and down is the demand for those securities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If investors are buying the securities, then the yields that they pay are going down. This would mean that your interest rates decrease.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Fannie Mae, Freddie Mac, and Ginnie Mae fund virtually all of the traditional mortgage loans in the United States.%20https://thespringmortgageteam.com/do-you-know-why-your-mortgage-rates-fluctuate.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Fannie Mae, Freddie Mac, and Ginnie Mae fund virtually all of the traditional mortgage loans in the United States.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, if the demand for those securities decreases, then they raise the yield to encourage them to buy more. This, then, would increase the interest rates.&lt;/p&gt;
+
+&lt;p&gt;Thinking about it in terms of the stock market, if your 401(k) is going well, then interest rates are probably going up. If your 401(k) is not doing well, interest rates are probably going down.&lt;/p&gt;
+
+&lt;p&gt;If you have any additional questions about this or anything else that is mortgage related, please feel free to give us a call. We would be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Aug 2018 10:08:00 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/do-you-know-why-your-mortgage-rates-fluctuate.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/do-you-know-why-your-mortgage-rates-fluctuate.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do You Know How Much Home You Can Afford?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/B5pFXVc7Ru0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Do you know how much home you can afford? Depending on the loan type you’re using, whether it’s FHA, VA, or a conventional loan, 43% to 50% of your gross monthly income can be used to cover the cost of the home purchase and any associated credit liabilities. The home purchase itself will be comprised of expenses such as taxes, insurance, and, potentially, homeowners association dues. To hear my full message on this subject, watch this short video.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 15:24:14 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/do-you-know-how-much-home-you-can-afford.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/do-you-know-how-much-home-you-can-afford.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Document FHA Gift Funds</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pGtm046IFCQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;When it comes to receiving gift funds for non-conventional loans, there are certain requirements you need to be aware of and restrictions that are placed on the donor.&lt;/p&gt;
+
+&lt;p&gt;First, &lt;strong&gt;full account ownership of the donor must be documented and the donor’s ability to gift the money must be verified.&lt;/strong&gt; A full bank statement from your donor must be provided, showing their name, address, account number, and their account balances before and after the gifts funds are taken out.&lt;/p&gt;
+
+&lt;p&gt;There are a variety of ways the donor can transfer you the funds in this scenario, but if the money is being transferred to you directly, then we need to document your receipt of that money with an updated transaction history.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=There are a variety of ways the donor can transfer you the funds in this scenario.%20https://thespringmortgageteam.com/how-to-document-fha-gift-funds.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“There are a variety of ways the donor can transfer you the funds in this scenario.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lastly, &lt;strong&gt;if the donor has large deposits on the monthly statement that they provide, they have to document where that money came from&lt;/strong&gt;, as stated in the Patriot Act.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about the requirements of gift funds for non-conventional loans or you have any other questions, please feel free to reach out to us. We would be more than happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 Jul 2018 10:35:00 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/how-to-document-fha-gift-funds.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/how-to-document-fha-gift-funds.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Escrow Accounts: What They Are and How they Work</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MBw39jdntaY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;What is an escrow account? How does it work?&lt;/p&gt;
+
+&lt;p&gt;In short, &lt;strong&gt;an escrow account is put in place during a home purchase to keep the recurring costs associated with homeownership.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When you use a mortgage loan to buy a home and you put down less than 20%, federal law requires that there be an escrow account involved in the transaction. Escrow accounts are also required whenever you use an FHA or VA loan to purchase a home.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=When you use a mortgage loan to buy a home and you put down less than 20%, federal law requires that there be an escrow account involved in the transaction.%20https://thespringmortgageteam.com/escrow-accounts-what-they-are-and-how-they-work.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“When you use a mortgage loan to buy a home and you put down less than 20%, federal law requires that there be an escrow account involved in the transaction.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Essentially, you “escrow” the future tax and insurance payments of that home.&lt;/strong&gt; One-twelfth of your tax bill is added to your monthly mortgage payment and held in the escrow account so that when your tax bill is due, the mortgage company has enough funds to pay it. The same goes for your insurance bill.&lt;/p&gt;
+
+&lt;p&gt;The due dates for each payment don’t always align—your insurance payment is typically due on the anniversary of your mortgage, and your property tax payment is typically due in December.&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions about escrow accounts and how they function, don’t hesitate to get in touch with me. I’d be happy to speak with you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 Jul 2018 10:23:33 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/escrow-accounts-what-they-are-and-how-they-work.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/escrow-accounts-what-they-are-and-how-they-work.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Why Would You Need an Access Letter?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/kBvyFomZ1BE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;You’ve got questions; we’ve got answers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Why would we need a letter from someone who’s not on the loan documenting access to an account?&lt;/p&gt;
+
+&lt;p&gt;Consider this example: A husband and wife have a joint account, but the wife is the only person on the mortgage. There can be a lot of reasons why this may happen—maybe only she has an income, he has bad credit, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The account owner must give the other person access to those funds.%20https://thespringmortgageteam.com/why-would-you-need-an-access-letter.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The account owner must give the other person access to those funds.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When we do not have both account owners on the loan, however, the account owner must give the other person access to those funds. &lt;strong&gt;We will need an access letter to do this.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any other questions, please contact us. We look forward to speaking with you.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 27 Jun 2018 14:07:00 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/why-would-you-need-an-access-letter.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/why-would-you-need-an-access-letter.html</guid>
+        
+        <category>Home Seller Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>A Quick Look at How to Start the Mortgage Process</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sAI-Vx02N-E?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I want to take a quick look at how to get started with the mortgage approval process.&lt;/p&gt;
+
+&lt;p&gt;We start by collecting your name, social security number, address, residence history, and employment history. This information helps complete the base of the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=However you prefer to submit your information, I would be happy to assist you.%20https://thespringmortgageteam.com/a-quick-look-at-how-to-start-the-mortgage-process.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“However you prefer to submit your information, I would be happy to assist you.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are three different ways you can provide this information.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Face-to-face.&lt;/strong&gt; You are more than welcome to come into my office. I would love to see you.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Over the phone.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Online.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Whichever you prefer, I would be happy to assist you.&lt;/p&gt;
+
+&lt;p&gt;If you have any questions, please feel free to let me know by phone or email. I look forward to speaking with you soon.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Jun 2018 10:45:14 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/a-quick-look-at-how-to-start-the-mortgage-process.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/a-quick-look-at-how-to-start-the-mortgage-process.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Quickly Can We Close Your Home?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Oz56nemxYkQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How quickly can we close your home?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Closing speed largely depends on you, the appraiser, and the terms of the loan.%20https://thespringmortgageteam.com/how-quickly-can-we-close-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Closing speed largely depends on you, the appraiser, and the terms of the loan.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are some federal regulations that require waiting periods from the date of the application to the first eligible closing date. There is also a waiting period for the appraisal, as well as for when you receive the initial closing disclosure. We’ve closed loans in eight days, but most between 20 and 25 days.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;Ultimately, it’s up to you. If you have further questions about this or anything else real estate related, please give me a call. I would be happy to speak with you.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jun 2018 06:45:00 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/how-quickly-can-we-close-your-home.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/how-quickly-can-we-close-your-home.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -41,69 +206,28 @@
       </item>
     
       <item>
-        <title>5 Remodeling Projects With the Best Return</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QjBgFQ7xSkU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What All Is Included in Closing Costs?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/-eo3nvfwyVo?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Home remodeling is as hot as it’s ever been. Here are five projects that bring the best return on investment.&lt;/p&gt;
+&lt;p&gt;Today we are answering your questions about closing costs. &lt;strong&gt;First, w&lt;/strong&gt;&lt;strong&gt;hat are closing costs?&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Home remodeling is hotter than ever.&lt;/p&gt;
+&lt;p&gt;At the closing table, the three kinds of expenses buyers can expect are the down payment, one-time closing fees, and pre-paid items. &lt;/p&gt;
 
-&lt;p&gt;According to researchers at Harvard University, remodeling investment is up 6% over last year and now makes up a $324 billion market.&lt;/p&gt;
+&lt;p&gt;Let’s begin by talking about down payments. A down payment is a deposit made toward the cost of the home, and usually amounts to a specific percentage of the total list price.&lt;/p&gt;
 
-&lt;p&gt;According to a survey of remodelers and real estate professionals, there are five remodeling projects that offer the best returns:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The amount of money that you bring to closing will vary based on several factors.%20https://thespringmortgageteam.com/what-all-is-included-in-closing-costs.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The amount of money that you bring to closing will vary based on several factors.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Your kitchen.&lt;/strong&gt; Kitchen remodeling can be as simple or as elaborate as you like. However, to maximize your return, keep your investment to under 20% of the value of your home—as is recommended by surveyed real estate professionals. The outcome? &lt;strong&gt;A whopping 85% return on your investment.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Next, closing costs are one-time fees associated&lt;/strong&gt;&lt;strong&gt;with the home purchase.&lt;/strong&gt; This includes the appraisal fees, the survey fees, the lender costs, and the cost of title insurance.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2. Your bathroom.&lt;/strong&gt; A thorough bath remodeling project can cost up to $20,000. However, not only will it pay for itself, it should &lt;strong&gt;give you an added 80% return.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Finally, prepaid items are recurring charges. These are things which you will pay continually as a homeowner, such as homeowners insurance, property taxes, or mortgage insurance.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3. Your deck.&lt;/strong&gt; Replacing your deck can cost you anywhere from a few thousand dollars to tens of thousands of dollars, depending on the size. The expected benefit will be similar to a bathroom remodeling project—&lt;strong&gt;around an 80% return for a fresh, new deck.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The amount of money that you bring to closing will vary based on the price of the house, your down payment, and your creditworthiness.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;4. Your siding.&lt;/strong&gt; Fading or worn-out siding can turn off potential buyers before they even step foot in your home. Replacing old siding will make it much easier to sell your home, and in addition, it should give you &lt;strong&gt;an 80% return on an investment of around $10,000.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Your windows.&lt;/strong&gt; New windows can mean greater energy efficiency, increased thermal and acoustic comfort, and a more modern look. Homebuyers are well aware of this, and they are willing to pay accordingly. That’s why &lt;strong&gt;a typical window replacement should yield at least a 70% return&lt;/strong&gt; on your investment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Some will make more sense for your home than others.%20localhost:4000/5-remodeling-projects-with-best-return.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Some will make more sense for your home than others.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Clearly, some of them will make more sense for your home than others. If you’re considering selling your home, then just one of these projects could add tens of thousands of dollars to the price you’ll be able to get.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions or want additional advice about which remodeling projects make sense for you, give me a call or send me an email. We can discuss all the details and I can give you an accurate estimate of what these projects could cost, and how to go about financing them. I look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;If you have further questions about this or anything else real estate related, please give me a call. I would be happy to speak with you.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 22 Aug 2017 15:14:00 -0500</pubDate>
-        <link>localhost:4000/5-remodeling-projects-with-best-return.html</link>
-        <guid isPermaLink="true">localhost:4000/5-remodeling-projects-with-best-return.html</guid>
-        
-        <category>Homeowner Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How the Feds Recent Rate Hike Impacts Our Market</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rRvlfWgbiqc?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;The Fed’s recent rate hike shouldn’t have any significant impact on our market. In fact, it might actually stimulate it.&lt;/p&gt;
-
-&lt;p&gt;On June 14th, the Federal Reserve increased its federal funds interest rate by 0.25%. They’re also widely expected to raise rates once or twice more over the course of 2017. What does this mean for the real estate market?&lt;/p&gt;
-
-&lt;p&gt;While any action by the Fed always garners a lot of attention, I believe these increases will not have any significant impact on our market.&lt;/p&gt;
-
-&lt;p&gt;First of all, &lt;strong&gt;mortgage rates have actually trended lower in the wake of the Fed’s recent announcement.&lt;/strong&gt; The 30-year mortgage rate recently hit 3.9%, the lowest level in 2017. In fact, it’s a common pattern for the mortgage rate and the Fed rate to move in opposite directions, and the same thing has happened the last two times the Fed raised rates.&lt;/p&gt;
-
-&lt;p&gt;Second, the economy continues to do well. The Fed decided to increase its rate because unemployment and inflation are low, household spending is picking up, and we’ve seen steady growth for the past nine years. This is good news for the real estate market. As expected, we continue to see strong demand and a corresponding increase in home prices.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=These increases will not have any significant impact on our market.%20localhost:4000/how-feds-recent-rate-hike-impacts-our.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“These increases will not have any significant impact on our market.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Third, while the Fed’s rate increase is normally meant to cool off the economy, it might actually stimulate it in this case. Because interest rates were so low for such a long period of time, &lt;strong&gt;experts believe the recent increases might ease pressure on the financial system and encourage lending.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Case in point: since the Fed started raising its rate in December 2016, total mortgages are up 2.5% year over year.&lt;/p&gt;
-
-&lt;p&gt;In conclusion, while any move by the Fed is likely to lead to a lot of hand-wringing, I believe the real estate market will not be affected and will continue on its own healthy course. Nonetheless, it’s clear that right now is a uniquely good moment for everyone in the real estate market. Today’s low mortgage rates are good for homebuyers because they make homes more affordable.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about our market or you’re thinking of buying or selling a home, give me a call or send me an email. I’d love to help.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 31 Jul 2017 14:05:00 -0500</pubDate>
-        <link>localhost:4000/how-feds-recent-rate-hike-impacts-our.html</link>
-        <guid isPermaLink="true">localhost:4000/how-feds-recent-rate-hike-impacts-our.html</guid>
+        <pubDate>Wed, 23 May 2018 09:17:00 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/what-all-is-included-in-closing-costs.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/what-all-is-included-in-closing-costs.html</guid>
         
         <category>Home Buyer Tips</category>
         
@@ -111,234 +235,26 @@
       </item>
     
       <item>
-        <title>How Do Fannie Maes Recent Changes Affect Those With Student Debt?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Kqf3Cih3aek?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Rapid Rescoring Your Credit Report</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bj82E8Q9-Mk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Today I want to inform you about how Fannie Mae, the nation’s largest underwriter of mortgages, recently introduced three new rules that will affect those with student debt.&lt;/p&gt;
+&lt;p&gt;What is rapid rescoring and what does it do for your credit report? &lt;/p&gt;
 
-&lt;p&gt;If you have a student loan or you are a cosigner on one, I have some good new for you.&lt;/p&gt;
+&lt;p&gt;There are certain circumstances where people have high-revolving credit balances, but are on 0% interest so they don’t feel like it’s a problem to have a high limits-to-balance ratio. They may also have a furniture account that they’re paying monthly installments on, but it’s being reported as a revolving account. &lt;/p&gt;
 
-&lt;p&gt;Fannie Mae, the nation’s largest underwriter of mortgages, recently introduced three new rules that will affect those with student debt.&lt;/p&gt;
+&lt;p&gt;These kinds of situations can have a negative impact on your credit score, but if you have the ability to pay those account balances, &lt;strong&gt;we can help you print off a new statement that shows what your updated balance is and “force-report” those account balances through rapid rescoring.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;These new rules can make it easier to get a mortgage, and they can make it easier to pay off your (or your kids’) student loans.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We can do these rapid rescores in usually four or five days.%20https://thespringmortgageteam.com/rapid-rescoring-your-credit-report.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We can do these rapid rescores in usually four or five days.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The first change is for those on &lt;strong&gt;income-based repayment plans&lt;/strong&gt;, where having a high debt-to-income ratio is the No. 1 reason for not being approved for a mortgage.&lt;/p&gt;
+&lt;p&gt;Typically, creditors only report to the credit scoring models only once a month, and if you have a 25- or 30-day timeline for your mortgage approval or closing, you need the ability to do these rapid rescores to get your score up and save money. We can do these rapid rescores in usually four or five days, depending on which creditor you’re paying off. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Fannie Mae previously used a very conservative 1% of the total loan instead of the actual monthly payment.&lt;/strong&gt; This can drastically lower your debt-to-income ratio and give you a much better chance of qualifying for a mortgage.&lt;/p&gt;
-
-&lt;p&gt;Some folks are lucky enough to have their student debt paid by their parents or even by their employer. The thing is, &lt;strong&gt;Fannie Mae didn’t take this into account when calculating the debt-to-income ratio. That’s the second new change.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If your employer or your parents have been paying off your student debt and you can show evidence of this for the past 12 months, then this debt won’t be counted in your debt-to-income ratio. This makes it more likely you will qualify for a mortgage.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=If you can qualify for a mortgage right now, you definitely should.%20localhost:4000/how-do-fannie-maes-recent-changes.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“If you can qualify for a mortgage right now, you definitely should.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you can qualify for a mortgage right now, you definitely should. Rates are still at a historical low, and lots of great houses have recently come on the McKinney market.&lt;/p&gt;
-
-&lt;p&gt;Fannie Mae also makes it possible to refinance your mortgage for more than the value of your home. &lt;strong&gt;Normally, there is a 0.25% fee that applies to any cash you take out in this way.The third big change is that Fannie Mae will now waive that fee when you use this cash to pay off a student loan.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This applies whether the loan is yours, or you’re a cosigner. If the mortgage rate is significantly lower than the student loan rate, it can make sense to refinance in this way, and the new rule makes it cheaper to do so.&lt;/p&gt;
-
-&lt;p&gt;If you need help understanding these new guidelines to see whether they’re right for you, or you have questions about putting them into practice, get in touch with me. I’ll be glad to help.&lt;/p&gt;
-
-&lt;p&gt;I hope to hear from you soon!&lt;/p&gt;
+&lt;p&gt;If you have any more questions about how rapid rescoring works or you’re in need of a rapid rescore, don’t hesitate to reach out to me. If you have any other questions, I’d be happy to answer those too. I look forward to hearing from you.&lt;br /&gt; &lt;/p&gt;
 </description>
-        <pubDate>Fri, 16 Jun 2017 15:52:00 -0500</pubDate>
-        <link>localhost:4000/how-do-fannie-maes-recent-changes.html</link>
-        <guid isPermaLink="true">localhost:4000/how-do-fannie-maes-recent-changes.html</guid>
+        <pubDate>Wed, 18 Apr 2018 10:06:40 -0500</pubDate>
+        <link>https://thespringmortgageteam.com/rapid-rescoring-your-credit-report.html</link>
+        <guid isPermaLink="true">https://thespringmortgageteam.com/rapid-rescoring-your-credit-report.html</guid>
         
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>You Dont Need a Down Payment</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KZf7oPD8yNE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Today, I want to share with you all the options you have for an affordable down payment as a homebuyer.&lt;/p&gt;
-
-&lt;p&gt;What’s the biggest obstacle to homeownership?&lt;/p&gt;
-
-&lt;p&gt;According to a recent survey, “saving enough for a down payment” comes at the top of the list. A whopping 55% of prospective homebuyers cited this as their main stumbling block.&lt;/p&gt;
-
-&lt;p&gt;And with the continuing growth of home prices, things aren’t getting any easier. &lt;strong&gt;In fact, homeownership rates reached a 20-year low last November.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It wasn’t always like this.&lt;/p&gt;
-
-&lt;p&gt;A decade ago, many lenders were offering easy, no-money-down mortgages.&lt;/p&gt;
-
-&lt;p&gt;However, after the financial crisis, mortgage standards have become more restrictive. A typical mortgage now requires a 20% down payment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=55% cited the lack of a down payment as their main stumbling block.%20localhost:4000/you-dont-need-down-payment.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“55% cited the lack of a down payment as their main stumbling block.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Here’s the good news.&lt;/p&gt;
-
-&lt;p&gt;If you have decent credit and a steady income, you might be qualified for a number of specialized programs that require no or very little down payment. Here are a few of the top options.&lt;/p&gt;
-
-&lt;p&gt;First, there’s the &lt;strong&gt;USDA loan, which is valid for homes in certain regions, such as rural and suburban areas.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;With zero money down and lenient credit requirements, the USDA loan can be a great choice for many homeowners.&lt;/p&gt;
-
-&lt;p&gt;Second, there’s the &lt;strong&gt;VA loan, which you can apply for if you or your spouse served in a branch of the military.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;It’s possibly the most generous zero-money-down mortgage because of low interest rates and low closing costs.&lt;/p&gt;
-
-&lt;p&gt;Third, there’s the FHA loan. It does require a 3.5% down payment — &lt;strong&gt;still drastically more achievable than the 20% required for a conventional mortgage.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, there are a number of credit unions and first-time homebuyer programs that might apply to your particular situation.&lt;/p&gt;
-
-&lt;p&gt;There’s one important thing you should know.&lt;/p&gt;
-
-&lt;p&gt;If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, &lt;strong&gt;private mortgage insurance will disappear after your mortgage balance is under 80%.&lt;/strong&gt; Also, the money you do pay will be tax deductible in most cases.&lt;/p&gt;
-
-&lt;p&gt;In short, there are lots of options to make owning a home a reality for you, even if you haven’t saved up tens of thousands of dollars.&lt;/p&gt;
-
-&lt;p&gt;If you’re considering buying a home, give me a call and we can discuss your options.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Buying a McKinney Home? Click here to complete your loan application.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;And if you need more advice on getting a no-money-down loan, give us a call at 214-929-5810.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 31 May 2017 11:48:00 -0500</pubDate>
-        <link>localhost:4000/you-dont-need-down-payment.html</link>
-        <guid isPermaLink="true">localhost:4000/you-dont-need-down-payment.html</guid>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How Can You Make Your Offer Stand Out?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EbBa7WsZMmw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Standing out as a buyer can be tough in a seller’s market. Here are three ways to make it easier.&lt;/p&gt;
-
-&lt;p&gt;When competing for a home in a seller’s market, you need to do everything you can to help your offer stand out. Here are three surefire ways to make your offer more attractive to sellers in this type of market:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. A professionally written offer.&lt;/strong&gt; This means no mistakes and no questions left for the listing agent to ask. The No. 1 pet peeve of listing agents is a sloppy offer.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Listing agents hate sloppy offers.%20localhost:4000/how-can-you-make-your-offer-stand-out.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Listing agents hate sloppy offers.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. A heartfelt, handwritten letter to the seller.&lt;/strong&gt; Explain why you want to buy their house and what it means to you and your family.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. A fully underwritten approval.&lt;/strong&gt; That’s where we come in.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions for us about any of these topics or you’d like to get pre-approved for a mortgage today, give us a call or send us an email. We would be happy to help out.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 Mar 2017 16:54:00 -0500</pubDate>
-        <link>localhost:4000/how-can-you-make-your-offer-stand-out.html</link>
-        <guid isPermaLink="true">localhost:4000/how-can-you-make-your-offer-stand-out.html</guid>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Have You Heard of Our New Down Payment Assistance Program?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xyKQObD3XxA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;We’ve developed an in-house down payment assistance program that can help clients who previously wouldn’t have been able to afford a down payment.&lt;/p&gt;
-
-&lt;p&gt;Today I want to share some exciting news regarding down payment assistance.&lt;/p&gt;
-
-&lt;p&gt;In the past, we’ve had clients that didn’t quite have enough money saved for a down payment. In response to this, &lt;strong&gt;we’ve developed an in-house down payment assistance program for up to 3.5% of the sales price.&lt;/strong&gt; The credit qualifications are minimal and the income caps are much higher than the state-funded DPA programs or bond programs.&lt;/p&gt;
-
-&lt;p&gt;We’d love to help you achieve the path toward homeownership, so if you have any questions about this new program, please don’t hesitate to reach out to us. We look forward to helping you!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 08 Feb 2017 14:09:00 -0600</pubDate>
-        <link>localhost:4000/have-you-heard-of-our-new-down-payment.html</link>
-        <guid isPermaLink="true">localhost:4000/have-you-heard-of-our-new-down-payment.html</guid>
-        
-        <category>New Program</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Why Is It Important to Choose the Right Lender?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jwp_PNZxc7U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;Choosing the wrong lender can lead to a home sale not closing on time and other unwanted scenarios. Luckily, whether you’re a buyer or a seller, there are steps you can take to ensure this doesn’t happen.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Why is choosing the right lender critical if you want to close on time?&lt;/p&gt;
-
-&lt;p&gt;For one thing, statistics show that not choosing the right lender can be disastrous. Every month, mortgage services provider Ellie Mae produces a report they call the “Origination Insight Report.” In this report, they track and pull all kinds of data from all the lenders who use their software to process loans. We’re talking millions of loans.&lt;/p&gt;
-
-&lt;p&gt;What does the data from the latest report tell us?&lt;/p&gt;
-
-&lt;p&gt;Firstly, it tells us that the average numbers of days it takes to close a loan from the application to the closing is 46 days. That’s way too many! Secondly, it tells us that only 74% of purchase loans that are submitted end up closing. That means that one out of every four deals falls through, or 25% of the people end up having to put down earnest money, lose their inspection costs, and possibly lose their appraisal fee.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Don’t end up as a cautionary statistic.%20localhost:4000/why-is-it-important-to-choose-right.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Don’t end up as a cautionary statistic.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;What can you do to make sure you don’t end up becoming one of these statistics?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you’re a home buyer, start the pre-qualification process as early as possible.&lt;/strong&gt; Get your documentation in order and choose a lender that has a track record of success.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you’re a seller, do what you can to verify the pre-approval.&lt;/strong&gt; Check out things like what kind of lender the buyer is using, how much they’re putting down, and how many days they need for the financing contingency.&lt;/p&gt;
-
-&lt;p&gt;If you or anyone you know has questions about the mortgage process or about real estate in general, please don’t hesitate to call us or visit our website. We look forward to hearing from you!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Nov 2016 11:17:00 -0600</pubDate>
-        <link>localhost:4000/why-is-it-important-to-choose-right.html</link>
-        <guid isPermaLink="true">localhost:4000/why-is-it-important-to-choose-right.html</guid>
-        
-        <category>Lender Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The Role of a Home Loan Processor</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6PM62JCXWso?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;strong&gt;As your processor, my job is to package your loan for the underwriting.&lt;/strong&gt; I’ll reveal all the documents you’ve already sent to your loan officer and I’ll request anything else we might be missing so we can be sure we have all necessary documents.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=It's very important to know who your insurance agent is.%20localhost:4000/the-role-of-home-loan-processor.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“It’s very important to know who your insurance agent is.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, I’ll order all of our third party things like verification of employment, tax transcripts, title, appraisal, and insurance. It’s very important that you know who your insurance agent is early on! We can help with that if you need some referrals.&lt;/p&gt;
-
-&lt;p&gt;The next step is to send it to underwriting, which only takes a couple of days. Sometimes that review goes perfectly and we don’t need anything else, but there may be follow-up questions or more documents that we need.&lt;/p&gt;
-
-&lt;p&gt;I’m always here to help! If you have any questions, please don’t hesitate to give us a call or send us an email.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 23 Sep 2016 12:57:00 -0500</pubDate>
-        <link>localhost:4000/the-role-of-home-loan-processor.html</link>
-        <guid isPermaLink="true">localhost:4000/the-role-of-home-loan-processor.html</guid>
-        
-        <category>Mortgage Broker</category>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>This Loan Is Ideal for Fixer-Upper Buyers</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wLYoRpfwzec?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Today and I wanted to talk about the home renovation program, which helps homeowners finance improvements, repairs, and upgrades into their mortgage so they don’t have to pay for these things out of pocket.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;For this loan, you can finance up to 95% of the cost of the house and the improvements,&lt;/strong&gt; or the total improved value (whichever is less). This can also apply to refinance customers, who can refinance their current mortgage plus the cost of the improvements for up to 95% of the improved value.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Start with your ideal location and use this loan to create your ideal home.%20localhost:4000/this-loan-is-ideal-for-fixer-upper.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Start with your ideal location and use this loan to create your ideal home.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’re in the market to buy but you just can’t seem to find the perfect house in the perfect location, this loan program is perfect. Start with the perfect location, and you can use this program to buy a fixer-upper to turn into your perfect home.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;If you already own a home and are dreaming of repairs, you can still take advantage of this program, depending on the equity you have in your home.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;This program allows for all kinds of renovations. The only requirement is that the upgrades are affixed to the home and that they increase its value. This could mean a kitchen remodel, new fixtures, or even a pool.&lt;/p&gt;
-
-&lt;p&gt;If you have questions about this program, please feel free to give me a call or send me an email today. I’d love to hear from you.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 25 Aug 2016 12:26:00 -0500</pubDate>
-        <link>localhost:4000/this-loan-is-ideal-for-fixer-upper.html</link>
-        <guid isPermaLink="true">localhost:4000/this-loan-is-ideal-for-fixer-upper.html</guid>
-        
-        <category>Homeowner Tips</category>
+        <category>Real Estate</category>
         
         
       </item>
