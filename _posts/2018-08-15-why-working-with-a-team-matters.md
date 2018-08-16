@@ -24,7 +24,7 @@ youtube_code: 1gDBsNzT0HA
 
 &nbsp;
 
-Why do teams even matter in the real estate industry? Today we’ll discuss why exactly teams matter in our business.
+Why do teams even matter in the real estate industry? Today we’ll discuss exactly why teams matter in our business.
 
 In this age, everyone wants an answer to their questions right away—social media and texting have spoiled us on that front. So agents need to be on point, but they can’t be everywhere at once.
 
