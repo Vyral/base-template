@@ -31,6 +31,6 @@ Cynthia has also become our resident expert on the DISC assessment—a test whic
 
 **The next Selling With Style class will be on Thursday, August 30, so be sure to mark your calendars.** You don’t have to be in sales or real estate to join. This class can help you better connect and communicate within any relationship in your life, whether it’s with a spouse, friend, a coworker, or otherwise.
 
-If you have any other questions or would like more information, feel free to reach out to either Cynthia or myself. You can get in touch with Cynthia by email at <u><strong>cynthia@cynthiamatheny.com</strong></u>&nbsp;or by phone at **[(208) 724-7148](tel:208-724-7148){: target="_blank"}**.
+If you have any other questions or would like more information, feel free to reach out to either Cynthia or myself. You can get in touch with Cynthia by email at [<u><strong>cynthia@cynthiamatheny.com</strong></u>](cynthia@cynthiamatheny.com){: target="_blank"}&nbsp;or by phone at **[(208) 724-7148](tel:208-724-7148){: target="_blank"}**.
 
 And, as always, if you have any other questions or would like more information from me, please reach out. I look forward to hearing from you soon.
