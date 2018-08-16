@@ -21,7 +21,7 @@ youtube_code: RBGrjSr7Gs4
 
 Today I am joined by Tim Weber, one of our preferred lenders, to talk about how he does business and what makes him different from other lenders in the industry.
 
-As one of the hardest-working lenders I know, I find myself working with Tim a lot because he’s unique, ambitious, and thinks outside of the box. Recently he has stepped up and taken a lot of loans that couldn't get closed by other lenders and finished them.
+Tim is one of the hardest-working lenders I know, so I find myself working with him a lot. He's unique, ambitious, and thinks outside of the box. Recently he has stepped up and taken a lot of loans that couldn't get closed by other lenders and finished them.
 
 Buyers who bring their own lenders to our listings tend to have deals that fall apart a lot. Tim then picks it up and closes those deals.
 
