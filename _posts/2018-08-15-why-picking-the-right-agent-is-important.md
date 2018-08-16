@@ -21,12 +21,12 @@ youtube_code: dSKn-m0OCUg
 
 I’ve recently had a lot of clients who had really bad experiences with their previous agents. Today I want to give you a few tips to help you avoid this type of situation and pick the right agent from the start. **Here are a few different types of agents you should avoid, and one type of agent that you should seek out:**
 
-**1. The “Yes” agent.** These are usually new agents, family members, or friends. They’ll tell you anything you want to hear in order to get your business. It’s great at first, but down the road you’ll find out that everything they said was unrealistic and you’ll have to start the process all over again.
+**1. The Yes agent.** These are usually new agents, family members, or friends. They’ll tell you anything you want to hear in order to get your business. It’s great at first, but down the road, you’ll find out that everything they said was unrealistic and you’ll have to start the process all over again.
 
 {% include pullquote.html %}
 
-**2. The “Expert” agent.** This is the agent who pretends they are an expert in life and in everything they do. They mean well, but they don’t really take the time to find out what it is that you really want.
+**2. The Expert agent.** This is the agent who pretends they are an expert in life and in everything they do. They mean well, but they don’t really take the time to find out what it is that you really want.
 
-**3. The “Guide” agent.** This agent will sit down with you and take the time to ask you the right questions to find out what you really want and why you want it. This agent will observe, come up with ideas, and won’t hard-sell you. They will let you make your own decisions. This is the type of agent you want when selling your home.
+**3. The Guide agent.** This agent will sit down with you and take the time to ask you the right questions to find out what you really want and why you want it. This agent will observe, come up with ideas, and won’t hard-sell you. They will let you make your own decisions. This is the type of agent you want when selling your home.
 
 To learn more about what you should look out for when deciding which agent to hire, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
