@@ -23,4 +23,4 @@ Our new commercial is about to hit the air, so we wanted to give you a sneak pee
 
 {% include pullquote.html %}
 
-We value your success, which is why we spend hundreds of thousands each year in marketing, so that our seller clients are sure to earn top dollar. We’ve helped thousands of families, and yours could be next. To see our full message, watch our latest video.
+We value your success, which is why we spend hundreds of thousands each year on marketing – so that our seller clients are sure to earn top dollar. We’ve helped thousands of families, and yours could be next. To see our full message, watch our latest video.
