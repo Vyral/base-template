@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The 20th annual WildBrew is happening on August 25. We sat down with Angela
   Evans to discuss the event and why it’s always a great time for attendees.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Wildbrew+Will+Be+a+Fantastic+Time+for+All.mp4
 pullquote: Over 50 breweries and 50 restaurants will be in attendance.
 enclosure_type: video/mp4
 enclosure_time:
