@@ -9,7 +9,7 @@ excerpt: >-
   of the most common.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+Why+Picking+the+Right+Agent+Is+Important.mp4
-pullquote: The “Yes” agent will end up hurting you in the end.
+pullquote: The Yes agent will end up hurting you in the end.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
