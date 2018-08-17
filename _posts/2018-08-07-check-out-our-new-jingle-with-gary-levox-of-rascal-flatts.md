@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check out Our New Jingle With Gary LeVox of Rascal Flatts
-date: 2018-08-07 18:56:53
+date: 2018-08-07 18:56:00
 tags:
   - Real Estate
 excerpt: I have an exciting announcement for you involving Rascal Flatts' Gary LeVox
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: p_PTE-WraFU
+youtube_code: YZutDi95Z4w
 ---
 
 {% include youtube.html %}
@@ -28,5 +28,3 @@ The clip starts at 1:05 above. **Let us know what you think!**
 {% include pullquote.html %}
 
 As always if you are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
-
-&nbsp;
