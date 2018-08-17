@@ -20,7 +20,9 @@ youtube_code: AY6Wqux_k3s
 
 {% include youtube.html %}
 
-<center>Home inspections are a very important part of the home buying process, and here are the different types of inspections you can order.</center>
+<center><em>Home inspections are a very important part of the home buying process, and here are the different types of inspections you can order.</em></center>
+
+&nbsp;
 
 If you’re thinking of buying a home, home inspections are something you absolutely must do.
 
