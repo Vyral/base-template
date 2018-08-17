@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Generate More Leads For Your Business
-date: 2018-08-16 18:21:51
+date: 2018-08-16 18:21:00
 tags:
 excerpt: >-
   How can an agent generate more business for themselves? Today I’ll discuss the
@@ -13,10 +13,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/BKDH1cvSecQ'
+youtube_code: 1OaEHqAHXoc
 ---
 
-{% include youtube.html %}<br>&nbsp;
+{% include youtube.html %}<br> 
 
 Recently in our market center, we’ve been discussing lead generation, specifically buyer lead generation. Many real estate agents know how to do real estate, they just don’t know how to get the real estate business. Today I want to review the five primary sources of leads to help you as an agent evaluate your current practices and find more business in the future:
 
@@ -31,5 +31,3 @@ Recently in our market center, we’ve been discussing lead generation, specific
 Below these are two types that aren’t really even considered lead generation: direct mail and print advertisement. Direct mail has less than a 1% return on investment and print advertising constitutes less than 1% of all lead generation methods. These last two are predominantly used for brand reinforcement. Now, if you’ve already established a rapport with the client, these last two may keep your name at the top of their mind when they’re deciding to buy or sell a house through another agent.
 
 If you have any questions or would like to discuss your real estate career, reach out to me. I’d be happy to talk with you.
-
-&nbsp;
