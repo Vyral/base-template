@@ -21,9 +21,9 @@ youtube_code: IqyFMxKQtQM
 
 Today we’ve got three tips to share that will help out homebuyers in today's market:
 
-**1. Make sure you’re set up for instant property alerts.** Not all websites are created equally and not all websites have direct access to the information on the MLS. It’s important for you to work with an agent that has the information from what we call an IDX feed. This will allow you to get instantaneous information about homes that are on the market.
+**1. Make sure you’re set up for instant property alerts.** Not all websites are created equal because not all websites have direct access to the information on the MLS. It’s important for you to work with an agent that has the information from what we call an IDX feed. This will allow you to get instantaneous information about homes that are on the market.
 
-**2. Hire a fast-acting agent.** You need an agent who is working in the business full-time and one who is tech-savvy. This will help you as you’re moving through today’s market to give you the best opportunity to find the right home for you.
+**2. Hire a fast-acting agent.** You need an agent who is working in the business full-time and one who is tech-savvy. This will help you as you’re moving through today’s market to give you the best opportunity to find the right home.
 
 {% include pullquote.html %}
 
