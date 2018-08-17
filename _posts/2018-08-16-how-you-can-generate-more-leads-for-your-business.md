@@ -16,9 +16,7 @@ youtube_alternate_image:
 youtube_code: 1OaEHqAHXoc
 ---
 
-{% include youtube.html %}<br> 
-
-Recently in our market center, we’ve been discussing lead generation, specifically buyer lead generation. Many real estate agents know how to do real estate, they just don’t know how to get the real estate business. Today I want to review the five primary sources of leads to help you as an agent evaluate your current practices and find more business in the future:
+{% include youtube.html %}<br><br>Recently in our market center, we’ve been discussing lead generation, specifically buyer lead generation. Many real estate agents know how to do real estate, they just don’t know how to get the real estate business. Today I want to review the five primary sources of leads to help you as an agent evaluate your current practices and find more business in the future:
 
 1. **57% of leads come from clients, sphere of influence, and contacts.** In your phone right now, you likely have one or two deals hiding out and just waiting for you to call. Sphere and contacts are the most lucrative methods of lead generation, and they’re the byproduct of almost every other type of lead generation. When you meet a person, put them into your contact relationship manager, and you’re likely to contact them again and again over the years, possibly becoming repeat business.
 2. **12% of leads come from open houses.** These are a great opportunity to meet face-to-face with potential clients, where they can learn to trust and like you.
