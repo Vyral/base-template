@@ -13,7 +13,7 @@ pullquote: Tim says that he wants each every customer to be a lifelong customer.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tim-lender-youtube.jpg
+youtube_alternate_image: /uploads/tim-lender-youtube-1.jpg
 youtube_code: RBGrjSr7Gs4
 ---
 
