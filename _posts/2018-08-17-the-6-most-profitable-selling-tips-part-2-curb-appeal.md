@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'The 6 Most Profitable Selling Tips Part 2: Curb Appeal'
-date: 2018-08-17 19:06:16
+date: 2018-08-17 19:06:00
 tags:
+  - Home Seller Tips
 excerpt: >-
   If you want buyers to fall in love with your home, you have to use curb appeal
   to leave a strong first impression.
