@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Getting to Know Our Lender: Tim Weber'
-date: 2018-08-15 20:28:08
+title: 'Getting to Know a Trusted Lender: Tim Weber'
+date: 2018-08-15 20:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
-  One of our hard-working lenders joins me today to talk about what he does to
-  help customers get a loan.
+  A hard-working lender joins me today to talk about what he does to help
+  customers get a loan.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Videos/2018/August/Elite+Home+Team-+Getting+to+Know+Our+Lender-+Tim+Weber.mp4
 pullquote: Tim says that he wants each every customer to be a lifelong customer.
@@ -19,7 +19,7 @@ youtube_code: RBGrjSr7Gs4
 
 {% include youtube.html %}
 
-Today I am joined by Tim Weber, one of our preferred lenders, to talk about how he does business and what makes him different from other lenders in the industry.
+Today I am joined by Tim Weber, one of the best lenders in town, to talk about how he does business and what makes him different from other lenders in the industry.
 
 Tim is one of the hardest-working lenders I know, so I find myself working with him a lot. He's unique, ambitious, and thinks outside of the box. Recently he has stepped up and taken a lot of loans that couldn't get closed by other lenders and finished them.
 
