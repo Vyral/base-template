@@ -21,12 +21,12 @@ youtube_code: FoTj_IZCUD0
 
 {% include youtube.html %}
 
-Since not everyone is aware, today I want to explain how your mortgage payments are applied to your principal.
+Since not everyone is aware, today I want to explain how your mortgage payments are applied to your most homeowners know that their payment is due the first of the month, but it generally is not late until the 15th..
 
 Most homeowners know that their payment is due on the 1st of the month, but it is not late until the 15th.
 
 {% include pullquote.html %}
 
-One thing you might not realize, however, **is that interest is paid in arrears**.  That means your July payment would cover July’s principal, but would cover June’s interest. This is the reason you typically skip a payment when you close on a new loan, and also why you might have a little bit extra due over your principal balance when you go to pay off your loan. Your payoff amount will always be larger than your principal because it includes the interest that you have yet to pay, since interest is collected in arrears.
+One thing you might not realize, however, **is that interest is paid in arrears**. &nbsp;That means your July payment would cover July’s principal, but would cover June’s interest. This is the reason you typically skip a payment when you close on a new loan, and also why you might have a little bit extra due over your principal balance when you go to pay off your loan. Your payoff amount will always be larger than your principal because it includes the interest that you have yet to pay, since interest is collected in arrears.
 
 If you have any questions about this or would like to walk through how that works for you specifically, please feel free to reach out to me. It would mean the world to us.
