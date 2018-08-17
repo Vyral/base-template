@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Picking the Right Agent Is Important
-date: 2018-08-15 18:27:32
+date: 2018-08-15 18:27:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: The “Yes” agent will end up hurting you in the end.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/8-15---oggie-penev---yt.jpg
+youtube_alternate_image: /uploads/8-17---oggine-penev---yt.jpg
 youtube_code: dSKn-m0OCUg
 ---
 
