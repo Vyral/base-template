@@ -26,7 +26,7 @@ client:
   url: 'http://troycopeland.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.friscoarearealestate.com/cma/property-valuation/'
+  first_CTA_URL: 'https://troycopeland.exprealty.com/sell.php'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://troycopeland.exprealty.com/'
   VR_form:
