@@ -21,7 +21,7 @@ youtube_code: DQKl1cAg4dE
 
 {% include youtube.html %}
 
-Should you hire a showing agent? Today I am going to talk about the benefits of doing so and why it may be a great option for you.
+<p style="text-align: center;"><em>Should you hire a showing agent? Today I am going to talk about the benefits of doing so and why it may be a great option for you.</em></p>
 
 How do you get your life back with the help of a showing agent?&nbsp;
 
