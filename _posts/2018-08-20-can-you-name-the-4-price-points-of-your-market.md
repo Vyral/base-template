@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Can You name the 4 Price Points of Your Market?
-date: 2018-08-20 16:58:26
+title: Can You Name the 4 Price Points of Your Market?
+date: 2018-08-20 16:58:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -38,5 +38,3 @@ If you’re an agent and you specialize in entry-level and average price point h
 If you have any more questions about knowing your price points or want to learn more about diversifying your portfolio, don’t hesitate to call or email me anytime.
 
 Also, don’t forget to check out our “Luxury Listing Specialist” podcast on [iTunes ](https://itunes.apple.com/us/podcast/luxury-listing-specialist-dominate-high-end-listings/id1203325371?mt=2){: target="_blank"}or [Stitcher](https://www.stitcher.com/podcast/michael-lafido/luxury-listing-specialist-wmichael-lafido){: target="_blank"}. If you’d like more information or want a shot at winning some free prizes, text “LUXE” to 72000.
-
-&nbsp;
