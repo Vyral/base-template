@@ -38,6 +38,6 @@ Your next option is **the four-point inspection**, which is required by insuranc
 
 Lastly, **you can get a wind mitigation inspection, which can help lower your insurance costs**. Essentially, wind mitigation inspections check how hurricane-friendly a home is. Since we’re in a state that’s vulnerable to hurricanes, Jim says that there’s been a lot of code-changing in the way homes are constructed. If your home has certain characteristics that protect against hurricane damage (e.g., an 8-penny nail connecting your roof to your truss), you can get your insurance costs reduced. In fact, Jim has had clients whose homes were so hurricane-friendly that they received a 40% discount.
 
-If you have any more questions for Jim about home inspections or you’d like to order an inspection from Assured Home Inspections, you can give their office a call at (813) 419-2661 or visit their website at [homeassuredinspections.com](http://www.homeassuredinspections.com/). First-time customers can earn a $50 coupon if they work with The Dee Team.
+If you have any more questions for Jim about home inspections or you’d like to order an inspection from Home Assured Property Inspection Services, you can give their office a call at (813) 419-2661 or visit their website at [homeassuredinspections.com](http://www.homeassuredinspections.com/). First-time customers can earn a $50 coupon if they work with The Dee Team.
 
 As always, if you have any other real estate questions or you’re thinking of buying or selling a home, don’t hesitate to call or email me. I’d be happy to help you.
