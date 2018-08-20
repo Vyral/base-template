@@ -19,7 +19,7 @@ youtube_code: 3RIP_3xh3LE
 
 {% include youtube.html %}
 
-*Join me for my discussion of the current market conditions, the changes we’ve noticed, and the effects they will have on buyers and sellers.*
+<p style="text-align: center;"><em>Join me for my discussion of the current market conditions, the changes we’ve noticed, and the effects they will have on buyers and sellers.</em></p>
 
 In today’s discussion, I’m joined by my friend Mark for a back-and-forth about how the real estate industry in Greater Vancouver is undergoing certain changes.
 
@@ -49,4 +49,4 @@ The last trend that we watch to understand the market’s activity is the sales-
 
 These are important numbers, and if you miss the market, you’ll end up chasing it as it does change. We’re not seeing too much of a decrease in price at this point, but when you don’t have many sales, it’s hard to track pricing changes. We’ll see what happens in the fall; we’ll have three months of slower activity to understand if the buyers are going to dictate the market, or if it’s just a cooldown period.
 
-If you’re thinking of buying or selling in these current conditions and would like to know more about your specific situation, I encourage you to reach out to me by phone or find us online at www.2percentsolution.ca. I’d be happy to arm you with the correct information so that you can make the best decisions moving forward.
+If you’re thinking of buying or selling in these current conditions and would like to know more about your specific situation, I encourage you to reach out to me by phone or find us online at <a href="www.2percentsolution.ca" target="_blank">www.2percentsolution.ca.</a> I’d be happy to arm you with the correct information so that you can make the best decisions moving forward.
