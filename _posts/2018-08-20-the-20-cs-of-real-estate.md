@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 20 C's of Real Estate
-date: 2018-08-20 20:18:08
+date: 2018-08-20 20:18:00
 tags:
 excerpt: >-
   The 20 C’s of Real Estate are twenty qualities that great agents possess, all
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/option-2.jpg
 youtube_code: 'https://youtu.be/i_DqSWWc690'
 ---
 
@@ -30,4 +30,4 @@ For example, **the first C is ‘coachable.’** You have to be coachable and wi
 
 If you fail, or if you lose a listing or listing appointment, you **need to find out why so that you can learn how to improve;** if you're not taking that in an accepting responsibility for yourself, you're not really learning what it takes to be a great agent.
 
-I started this class because I love coaching and teaching and I want to build a better real estate industry. It’s free and open to anyone from any brokerage, and it’s also a nice way to network in a casual setting. We typically hold them every month typically, so if you’re interested in attending, you can sign up here.<br><br>If you have any questions, please feel free to contact me. I would be happy to discuss this event with you.<br>&nbsp;
+I started this class because I love coaching and teaching and I want to build a better real estate industry. It’s free and open to anyone from any brokerage, and it’s also a nice way to network in a casual setting. We typically hold them every month typically, so if you’re interested in attending, you can sign up here.<br><br>If you have any questions, please feel free to contact me. I would be happy to discuss this event with you.<br>
