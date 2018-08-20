@@ -25,7 +25,7 @@ First impressions matter, and real estate is no exception. This is why today as 
 
 {% include pullquote.html %}
 
-Some of these things have nothing to do with your property itself. If a buyer touring your home finds themselves trying to tune out your neighbor’s barking dog, for example, the showing is unlikely to go well. It is important to try to get this sort of thing under control before buyers set foot in your property. **If your neighbors dog cannot seem to keep quiet, consider politely asking your neighbors to put their pet inside during showings.**
+Some of these things have nothing to do with your property itself. If a buyer touring your home finds themselves trying to tune out your neighbor’s barking dog, for example, the showing is unlikely to go well. It is important to try to get this sort of thing under control before buyers set foot in your property. **If your neighbor's dog cannot seem to keep quiet, consider politely asking your neighbors to put their pet inside during showings.**
 
 Taking steps to go above and beyond like this will set you up for selling success. Another way to ramp up your curb appeal is to stripe your yard when you mow. When it comes to curb appeal, small touches will make a big difference.
 
