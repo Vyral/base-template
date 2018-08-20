@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What’s the Latest Commercial Real Estate News in Columbus?
-date: 2018-08-10 18:52:10
+date: 2018-08-10 18:52:00
 tags:
   - Real Estate
 excerpt: >-
-  Jonathan Wiggit, one of our lead commercial real estate agents, joins me today
+  Jonathan Wigan, one of our lead commercial real estate agents, joins me today
   to introduce himself and discuss the latest commercial real estate trends in
   Columbus.
 enclosure: >-
@@ -20,7 +20,7 @@ youtube_code: q71kITtKDsk
 
 {% include youtube.html %}
 
-What’s the latest news from the commercial real estate market in Columbus? Today I’ve brought in Jonathan Wiggit, one of our lead commercial real estate agents, to discuss this topic with me.
+What’s the latest news from the commercial real estate market in Columbus? Today I’ve brought in Jonathan Wigan, one of our lead commercial real estate agents, to discuss this topic with me.
 
 Jonathan is our most experienced commercial real estate agent, and he holds real estate licenses in both Ohio and California. When he first became an agent, he worked primarily in residential real estate. He worked in many multiple asset classes, but his background mainly centered on industrial offices and flex spaces. After joining the Rellis Group, he shifted his focus toward commercial real estate and transferred his skill set to working more with multi-family investment properties.
 
