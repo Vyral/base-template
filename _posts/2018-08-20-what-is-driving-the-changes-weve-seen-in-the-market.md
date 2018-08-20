@@ -19,7 +19,7 @@ youtube_code: 3RIP_3xh3LE
 
 {% include youtube.html %}
 
-Join me for my discussion of the current market conditions, the changes we’ve noticed, and the effects they will have on buyers and sellers.
+<p style="text-align: center;"><em>Join me for my discussion of the current market conditions, the changes we’ve noticed, and the effects they will have on buyers and sellers.</em></p>
 
 In today’s discussion, I’m joined by my friend Mark for a back-and-forth about how the real estate industry in Greater Vancouver is undergoing certain changes.
 
