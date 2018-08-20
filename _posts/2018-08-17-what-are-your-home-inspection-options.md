@@ -26,7 +26,7 @@ youtube_code: AY6Wqux_k3s
 
 If you’re thinking of buying a home, home inspections are something you absolutely must do.
 
-With that in mind, I’m joined today by Jim Nelson of Assured Home Inspections to discuss the different inspections they offer and how each may benefit you. This way, you can get an idea of what your options are.
+With that in mind, I’m joined today by Jim Nelson of Home Assured Property Inspection Services to discuss the different inspections they offer and how each may benefit you. This way, you can get an idea of what your options are.
 
 The first type of inspection they offer is **the 200-point inspection**, which covers the entire house. If you only want to know the home’s general condition before you buy it, this is the inspection you want.
 
