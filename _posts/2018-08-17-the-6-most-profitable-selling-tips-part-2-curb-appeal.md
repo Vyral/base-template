@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/make-the-most-money-2of6-youtube.jpg
-youtube_code: nzVcuuSNR40
+youtube_code: 6m2BD14cOgQ
 ---
 
 {% include youtube.html %}
