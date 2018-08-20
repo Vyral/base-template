@@ -22,7 +22,7 @@ youtube_code: v4L8EM-YHjM
 
 {% include youtube.html %}
 
-We are joined by Matt Nader of First Home Mortgage to learn all about him and what he does to make your mortgage lending go smoothly.
+<center>We are joined by Matt Nader of First Home Mortgage to learn all about him and what he does to make your mortgage lending go smoothly.</center>
 
 Matt Nader of First Home Mortgage, the title sponsor of our grand opening, joins us today to talk about what he does, why he does it, and what makes him different.
 
