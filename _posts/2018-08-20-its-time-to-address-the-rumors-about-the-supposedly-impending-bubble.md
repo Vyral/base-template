@@ -21,7 +21,7 @@ youtube_code: K3iGB_qOmK4
 
 {% include youtube.html %}
 
-To determine whether we’re headed for another bubble, it’s important to recognize how today’s market differs from what we saw between 2008 and 2013.
+<p style="text-align: center;"><em>To determine whether we’re headed for another bubble, it’s important to recognize how today’s market differs from what we saw between 2008 and 2013.</em></p>
 
 Recently, you’ve probably heard talk of a housing bubble on the horizon. But is this true?&nbsp;
 
