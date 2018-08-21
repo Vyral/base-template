@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/i_DqSWWc690'
 
 {% include youtube.html %}
 
-The “20 C’s of Real Estate” is a real estate course I created with the purpose of getting to the bottom of what makes a real estate agent great.
+The “20 C’s of Real Estate” is a real estate course I created to explain what makes a real estate agent great.
 
-I sat down one day to think about what distinguishes great agents from good agents, and both from people that don't make it in the industry. I created a list of 20 qualities of great agents, and all begin with the letter “C.”
+The idea for this course came to me one day while I was reflecting on what distinguishes great agents from good agents, and both from people that don't make it in the industry. I created a list of 20 qualities of great agents, and all begin with the letter “C.”
 
 For example, **the first C is ‘coachable.’** You have to be coachable and willing to listen to other people, and you also have to be willing to do your research. Whether it be practicing scripts, roleplaying, or hiring a coach, you need to listen to the people who are providing you with constructive criticism.
 
