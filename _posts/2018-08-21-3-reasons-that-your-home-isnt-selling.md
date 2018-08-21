@@ -21,7 +21,7 @@ youtube_code: 6GQXbJDww64
 
 {% include youtube.html %}
 
-Today I have three reasons that your home may not be selling in our hot market.
+<p style="text-align: center;"><em>Today I have three reasons that your home may not be selling in our hot market.</em></p>
 
 Why isn't my home selling? This is a crazy question only because we are in probably the best real estate market the Washington County has ever seen.
 
