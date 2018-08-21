@@ -24,10 +24,10 @@ The “20 C’s of Real Estate” is a real estate course I created to explain w
 
 The idea for this course came to me one day while I was reflecting on what distinguishes great agents from good agents, and both from people that don't make it in the industry. I created a list of 20 qualities of great agents, and all begin with the letter “C.”
 
-For example, **the first C is ‘coachable.’** You have to be coachable and willing to listen to other people, and you also have to be willing to do your research. Whether it be practicing scripts, roleplaying, or hiring a coach, you need to listen to the people who are providing you with constructive criticism.
+For example, **the first C is "coachable."**&nbsp;You have to be coachable and willing to listen to other people, and you also have to be willing to do your research. Whether it be practicing scripts, roleplaying, or hiring a coach, you need to listen to the people who are providing you with constructive criticism.
 
 {% include pullquote.html %}
 
 If you fail, or if you lose a listing or listing appointment, you **need to find out why so that you can learn how to improve;** if you're not taking that in an accepting responsibility for yourself, you're not really learning what it takes to be a great agent.
 
-I started this class because I love coaching and teaching and I want to build a better real estate industry. It’s free and open to anyone from any brokerage, and it’s also a nice way to network in a casual setting. We typically hold them every month typically, so if you’re interested in attending, you can [sign up **<u>here.</u>**](https://www.eventbrite.com/e/how-to-sell-more-homes-than-you-ever-believed-the-20cs-of-real-estate-presented-by-kati-spaniak-tickets-48565488684?aff=ebapi){: target="_blank"}<br><br>If you have any questions, please feel free to contact me. I would be happy to discuss this event with you.
+I started this class because I love coaching and teaching and I want to build a better real estate industry. It’s free and open to anyone from any brokerage, and it’s also a nice way to network in a casual setting. We typically hold them every month, so if you’re interested in attending, you can[**sign up****<u>here.</u>**](https://www.eventbrite.com/e/how-to-sell-more-homes-than-you-ever-believed-the-20cs-of-real-estate-presented-by-kati-spaniak-tickets-48565488684?aff=ebapi){: target="_blank"}<br><br>If you have any questions, please feel free to contact me. I would be happy to discuss this event with you.
