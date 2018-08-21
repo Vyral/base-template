@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   We’ve implemented a new program into our team, and it’s called Peer Pay.
   Here’s how it works.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Have+You+Heard+of+Peer+Pay+Yet%253F.mp4
 pullquote: I think this program fits great with our team culture.
 enclosure_type: video/mp4
 enclosure_time:
