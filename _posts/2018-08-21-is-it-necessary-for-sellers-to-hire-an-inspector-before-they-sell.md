@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Are sellers required to do an inspection on their own home before selling?
   Find out here.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Dave+Knight+Reality-+Is+It+Necessary+for+Sellers+to+Hire+an+Inspector+Before+They+Sell%253F.mp4
 pullquote: >-
   Generally speaking, sellers aren’t required to do inspections on their own
   homes when they sell, though some cities have those requirements.
