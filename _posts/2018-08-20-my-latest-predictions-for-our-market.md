@@ -31,8 +31,8 @@ Because these two conditions vary by price point, some buyers may choose to repo
 
 {% include pullquote.html %}
 
-With as long as prices have been trending upward, it only makes sense that they’ll soon have to come back down. If you’re putting off listing in an attempt to ride out rising prices a little longer, you may want to reconsider. There’s no telling how much longer this upward trend can continue.
+For as long as prices have been trending upward, it only makes sense that they’ll soon have to come back down. If you’re putting off listing in an attempt to ride out rising prices a little longer, you may want to reconsider. There’s no telling how much longer this upward trend can continue.
 
-Pressure is being put on our market, and buyers are no longer paying as much over asking as was once the case. In other words, **now may be the time to sell your home and take advantage of current conditions while they last.** Buyers are getting tired of multiple offer situations, so don’t delay if you hope to earn top dollar.
+Pressure is being put on our market, and buyers are no longer paying as much over asking price as was once the case. In other words, **now may be the time to sell your home and take advantage of current conditions while they last.** Buyers are getting tired of multiple offer situations, so don’t delay if you hope to earn top dollar.
 
 If you have any other questions, would like more information, or would like help realizing your real estate goals, feel free to give me a call or send me an email. I look forward to hearing from you soon.
