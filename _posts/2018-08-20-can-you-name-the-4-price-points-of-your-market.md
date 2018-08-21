@@ -9,7 +9,7 @@ excerpt: >-
   point homes, high-end homes, and luxury homes.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+4+Price+Points+Of+Real+Estate+%257C+Luxury+Listing+Specialist.mp4
-pullquote: There are four price point in any market.
+pullquote: There are four price points in any market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
