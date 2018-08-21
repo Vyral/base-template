@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Key Differences Between 2 Homebuyer Deposits
+title: A Few Key Differences Between Two Homebuyer Deposits
 date: 2018-08-14 20:34:00
 tags:
   - Home Buyer Tips
