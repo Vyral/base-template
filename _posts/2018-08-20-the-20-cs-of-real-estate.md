@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-2.jpg
+youtube_alternate_image: /uploads/kati-spaniak-20cs-that-make-a-great-agent-youtube-.jpg
 youtube_code: 'https://youtu.be/i_DqSWWc690'
 ---
 
