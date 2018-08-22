@@ -19,7 +19,7 @@ youtube_code: TwKMMCR80PY
 
 {% include youtube.html %}
 
-<div style="text-align; center;"><em>I’m back with your hot-off-the-press August market update. This month, I’ve got some great news to share with you.</em></div>
+<p style="text-align: center;"><em>I’m back with your hot-off-the-press August market update. This month, I’ve got some great news to share with you.</em></p>
 
 For the first time in three years, the year-over-year inventory numbers are positive. That means there have been more listings this past month than there were at the same time last year. Check out the graph at 0:29 in the video above for a visual representation of what I mean.&nbsp;
 
