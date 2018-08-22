@@ -8,7 +8,8 @@ date: 2018-08-20 21:32:00
 excerpt: >-
   Prices have been continually rising for some time now, but I’ve got some
   predictions to share today about where this trend might lead our market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Where+Is+Our+Market+Headed%253F.mp4
 pullquote: >-
   With as long as prices have been trending upward, it only makes sense that
   they’ll soon have to come back down.
