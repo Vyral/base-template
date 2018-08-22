@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create a List of Qualified Vendors for Your Clients
-date: 2018-08-21 16:33:09
+date: 2018-08-21 16:33:00
 tags:
   - Real Estate
 excerpt: How can you build up your bench of preferred vendors? Here’s some advice.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/build-your-bench-youtube.jpg
+youtube_alternate_image: /uploads/2.jpg
 youtube_code: SysUyWnXhmU
 ---
 
