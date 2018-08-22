@@ -17,4 +17,6 @@ youtube_code: SMkRlltFpQI
 
 {% include youtube.html %}
 
+Will you consider donating?
+
 Vogel Alcove is a local charity supporting homeless children. Today we are excited to donate $2,500 to their cause, and hope that you will consider donating to them as well by clicking **[here](https://www.classy.org/give/135667/#!/donation/checkout){: target="_blank"}**. To find out more about Vogel Alcove, you can visit their website at [https://vogelalcove.org/about/](https://vogelalcove.org/about/){: target="_blank"}. For our full message, watch our short video.
