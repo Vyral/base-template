@@ -4,6 +4,7 @@ title: An Exciting Announcement for Vogel Alcove
 date: 2018-08-22 16:00:00
 tags:
   - Real Estate
+  - Miscellaneous
 excerpt: Vogel Alcove is a local charity supporting homeless children.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mindy+Robbins/Videos/Dallas+-+Fort+Worth+Real+Estate+Agent-+Vogel+Alcove+Video.mp4
