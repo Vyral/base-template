@@ -1,6 +1,6 @@
 ---
 layout: post
-title: It’s Time to Address the Rumors About the Supposedly Impending Bubble
+title: It’s Time to Address the Rumors About the Impending Bubble
 date: 2018-08-20 18:29:49
 tags:
   - Market Update
