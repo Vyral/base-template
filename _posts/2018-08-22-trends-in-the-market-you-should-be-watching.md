@@ -21,6 +21,8 @@ youtube_code: TwKMMCR80PY
 
 <p style="text-align: center;"><em>I’m back with your hot-off-the-press August market update. This month, I’ve got some great news to share with you.</em></p>
 
+<p style="text-align: center;"><em>I’m back with your hot-off-the-press August market update. This month, I’ve got some great news to share with you.</em></p>
+
 For the first time in three years, the year-over-year inventory numbers are positive. That means there have been more listings this past month than there were at the same time last year. Check out the graph at 0:29 in the video above for a visual representation of what I mean.&nbsp;
 
 Our currently inventory levels are far from what’s needed to satisfy demand. Though more interested buyers are coming into the market and the new home construction is failing to keep up, the **number of buyers has fallen over the last couple of months.** Inventory has followed suit, which can be seen on the chart at 1:05 in the video.&nbsp;
