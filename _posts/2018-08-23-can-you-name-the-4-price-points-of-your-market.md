@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Name the 4 Price Points of Your Market?
-date: 2018-08-20 16:58:00
+date: 2018-08-23 04:58:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uJcpqZgn5J4
+youtube_code: _h7zOdo-Hn0
 ---
 
 {% include youtube.html %}
