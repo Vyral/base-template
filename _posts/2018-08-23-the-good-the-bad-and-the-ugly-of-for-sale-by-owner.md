@@ -21,7 +21,7 @@ youtube_code: _IFEwOuykC0
 
 {% include youtube.html %}
 
-Today I want to discuss some of the risks of selling your home as for sale by owner.
+<p style="text-align: center;"><em>Today I want to discuss some of the risks of selling your home as for sale by owner.</em></p>
 
 **FSBO sellers are probably having more success now than ever.** In fact, The National Association of Realtors says that a little over 5% of FSBO properties are successful. Although they are selling successfully, most of them are selling for 5% to 10% less than they would have if they were sold by an agent who could’ve marketed the home and generated foot traffic.&nbsp;
 
