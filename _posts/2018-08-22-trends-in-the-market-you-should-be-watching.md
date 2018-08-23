@@ -41,7 +41,7 @@ Since 1991, buying power has increased over time. Median home prices rose alongs
 
 Between 1985 and 2000, 21% of one’s income was dedicated to a mortgage payment on average. In 2006, that number jumped to 25.4%. Right now, that number is at 17.1%. According to Zillow, even if interest rates do go up to 5%, a mortgage payment will only account for 19% of one’s income. At a 6% rate, the percentage will increase slightly to 21.2%. **So it will only be between a 5% and 6% rate that people will find that homes are truly less affordable.**
 
-As far as down payments are concern, there is a huge misconception in the market: Studies have shown that people believe they need to put 20% down on a home, and that’s simply not true. According to Down Payment Resource, millennials put down about 11%, buyers with FHA loans put down just 4%, conventional loan buyers put down 19%, and people with VA loans put down an average of 2% (even though that program often requires 0% down). So we can see that **there are lots of opportunities in which buyers aren’t pressed to put 20% down on a home and start building equity.**
+As far as down payments are concerned, there is a huge misconception in the market: Studies have shown that people believe they need to put 20% down on a home, and that’s simply not true. According to Down Payment Resource, millennials put down about 11%, buyers with FHA loans put down just 4%, conventional loan buyers put down 19%, and people with VA loans put down an average of 2% (even though that program often requires 0% down). So we can see that **there are lots of opportunities in which buyers aren’t pressed to put 20% down on a home and start building equity.**
 
 I don’t want to bring you this update without letting you know that we’re in for an economic slowdown in the future. Data from The Wall Street Journal’s survey of economists, investment strategists, and real estate market analysts shows us that at the end of 2019 through 2020 and possibly into 2021, **the market will experience a slowdown.**
 
@@ -49,6 +49,6 @@ What does that mean for you?&nbsp;
 
 **For sellers, it means you should consider putting your home on the market very soon.** It’s never too early to get started, so don’t wait for the slowdown to begin, since it might then be too late to get the best price for your home.&nbsp;
 
-If you’re thinking of putting your home on the market in the next three months or even three years, I invite you to join me at our next free home seller seminar on Saturday, October 13, at the Fort Washington Hilton Garden Inn. There, I’ll give you great strategic information on how to keep more money in your pocket while still selling your home fast. Go to www.homesharkseminar.com to sign up.
+If you’re thinking of putting your home on the market in the next three months or even three years, I invite you to join me at our next free Home Seller Seminar on Saturday, October 13, at the Fort Washington Hilton Garden Inn. There, I’ll give you great strategic information on how to keep more money in your pocket while still selling your home fast. Go to <a href="https://www.homesharkseminar.com" target="_blank">www.homesharkseminar.com</a> to sign up.
 
 For any other questions, you’re always encouraged to reach out to me.
