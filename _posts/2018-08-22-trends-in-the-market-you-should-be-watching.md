@@ -49,6 +49,6 @@ What does that mean for you?&nbsp;
 
 **For sellers, it means you should consider putting your home on the market very soon.** It’s never too early to get started, so don’t wait for the slowdown to begin, since it might then be too late to get the best price for your home.&nbsp;
 
-If you’re thinking of putting your home on the market in the next three months or even three years, I invite you to join me at our next free Home Seller Seminar on Saturday, October 13, at the Fort Washington Hilton Garden Inn. There, I’ll give you great strategic information on how to keep more money in your pocket while still selling your home fast. Go to <a href="http://www.homesharkseminar.com" target="_blank">www.homesharkseminar.com</a> to sign up.
+If you’re thinking of putting your home on the market in the next three months or even three years, I invite you to join me at our next free Home Seller Seminar on Saturday, October 13, at the Fort Washington Hilton Garden Inn. There, I’ll give you great strategic information on how to keep more money in your pocket while still selling your home fast. Go to <a href="www.homesharkseminar.com" target="_blank">www.homesharkseminar.com</a> to sign up.
 
 For any other questions, you’re always encouraged to reach out to me.
