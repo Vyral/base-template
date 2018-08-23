@@ -22,7 +22,7 @@ youtube_code: yiwhgTtT-Jw
 
 {% include youtube.html %}
 
-I am at Sherwin Williams to talk with assistant manager Alex about how to choose the right paint for your home and have it look its best.
+<center>I am at Sherwin Williams to talk with assistant manager Alex about how to choose the right paint for your home and have it look its best.</center>
 
 You have sent us a lot of questions lately, so today I’ll the answer one of the most commonly asked: “What should I do to prepare my home for sale?”
 
