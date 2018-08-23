@@ -28,8 +28,8 @@ client:
 Emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809816';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
 CTAs:
-  first_CTA_text: Request A Consultation
-  first_CTA_URL: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
+  first_CTA_text: Schedule a Webinar
+  first_CTA_URL: https://meetme.so/SelectRetirementPlans 
   second_CTA_text: Request a Select Plan Proposal Today
   second_CTA_URL: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
 sidebar_CTA:
