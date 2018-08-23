@@ -8,7 +8,7 @@ excerpt: >-
   Should you hire a showing agent? Today I am going to talk about the benefits
   of doing so and why it may be a great option for you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/August/Central+PA+Real+Estate+Agent-+Showing+Agent.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/August/Central+PA+Real+Estate+Agent-+showing+agent+(1).mp4
 pullquote: >-
   A showing agent is a licensed real estate agent that oversees the search and
   service portion of the sales process.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: DQKl1cAg4dE
+youtube_code: 29fVU6bbl_Y
 ---
 
 {% include youtube.html %}
