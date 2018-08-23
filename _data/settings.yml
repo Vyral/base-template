@@ -36,15 +36,15 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Let’s Talk"
     CTA_text: "Are you ready to take control of your financial future? If you have any questions about retirement or financial planning, I’m here to help."
-    CTA_link_text: "Request a Consultation"
-    CTA_url: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
+    CTA_link_text: "Schedule a Webinar"
+    CTA_url: https://meetme.so/SelectRetirementPlans 
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/006.jpg
     CTA_title2: "Retirement Plan Management"
     CTA_text2: "We protect employers and help employees create retirement income for life with a one-step process."
-    CTA_link_text2: "Schedule a Webinar"
-    CTA_url2: https://meetme.so/SelectRetirementPlans 
+    CTA_link_text2: "Request a Select Plan Proposal Today"
+    CTA_url2: http://www.retirementcfo.com/request-a-preferred-plan-proposal-today
 
 lender:
   show_section: false
