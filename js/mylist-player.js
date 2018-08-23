@@ -89,7 +89,7 @@ function doAjaxCallStuff(n) {
 		        var feedTitle = val.snippet.title;
 		        var feedDesc = val.snippet.description;
 		        var videoID = val.snippet.resourceId.videoId;
-		        var thumb = "http://img.youtube.com/vi/"+ videoID +"/default.jpg";
+		        var thumb = "https://img.youtube.com/vi/"+ videoID +"/default.jpg";
 
 		        // BUILD THE PLAYLIST(S)
 		        if(i === 0) { // so we can set first vid as current
