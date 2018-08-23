@@ -1,13 +1,14 @@
 ---
 layout: post
 title: These 4 Reasons Make Fall a Great Time to Sell Your Home
-date: 2018-08-23 20:25:15
+date: 2018-08-23 20:25:00
 tags:
   - Real Estate
 excerpt: >-
   If you’re thinking of listing your home this fall, I have four reasons why
   you’re likely to sell quickly and for top dollar.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rosie+Hayer/The+Hayer+Group-+These+4+Reasons+Make+Fall+a+Great+Time+to+Sell+Your+Home.mp4
 pullquote: 'If everything’s well-maintained, your home will be ready when the buyers are.'
 enclosure_type: video/mp4
 enclosure_time:
