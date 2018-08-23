@@ -62,7 +62,7 @@ var numPlaylists = playListID.length;
 for (var n=0;n<numPlaylists;n++) {
 	//console.log(n);
 	vidIDs[n] = [];
-	videosURL[n] = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId="+playListID[n]+"&key="+apiKey+"&fields=items&part=snippet&maxResults=50";
+	videosURL[n] = "https://www.googleapis.com/youtube/v3/playlistItems?playlistId="+playListID[n]+"&key="+apiKey+"&fields=items&part=snippet&maxResults=100";
 }
 
 function onYouTubeIframeAPIReady() {
