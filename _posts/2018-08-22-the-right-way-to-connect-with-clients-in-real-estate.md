@@ -28,6 +28,6 @@ Actually, it very much depends on what your relationship is with any given indiv
 
 {% include pullquote.html %}
 
-**We consider ourselves a service company—not a sales company.** It really comes down to the fact that we listen. Every client is the hero of their own real estate story, and, we Realtors are their guides. Serving individuals within a sphere of influence means realizing that every single person will have different needs which must be met in a different way.&nbsp;
+**We consider ourselves a service company—not a sales company.** It really comes down to the fact that we listen. Every client is the hero of their own real estate story, and Realtors are their guides. Serving individuals within a sphere of influence means realizing that every single person will have different needs which must be met in a different way.&nbsp;
 
 If you have any other question or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
