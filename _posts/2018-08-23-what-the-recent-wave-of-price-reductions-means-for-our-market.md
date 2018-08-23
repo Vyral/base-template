@@ -21,7 +21,7 @@ youtube_code: 4QBerdxkUoA
 
 {% include youtube.html %}
 
-On both a national and local level, more and more homes have undergone price reductions lately.
+<p style="text-align: center;"><em>On both a national and local level, more and more homes have undergone price reductions lately.</em></p>
 
 A couple days ago, I read a Zillow report titled “Price Cuts Becoming More Common, Especially at the High End” that I want to share with you today because of how it pertains to our marketplace.&nbsp;
 
