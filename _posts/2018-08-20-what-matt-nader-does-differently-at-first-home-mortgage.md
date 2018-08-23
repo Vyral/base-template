@@ -26,6 +26,8 @@ youtube_code: v4L8EM-YHjM
 
 &nbsp;
 
+Watch for the outtakes at the end!
+
 Matt Nader of First Home Mortgage, the title sponsor of our grand opening, joins us today to talk about what he does, why he does it, and what makes him different.
 
 Matt tells us that he is a loan originator for First Home Mortgage and has been there for four months. He is a branch manager, which means that he manages 10 other originators and watches them grow.
