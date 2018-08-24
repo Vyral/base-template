@@ -21,7 +21,7 @@ youtube_code: Lo8znFY2Xi4
 
 {% include youtube.html %}
 
-What’s going on right now in our Phoenix area real estate market? Let’s examine the latest numbers and find out.
+<p style="text-align: center;"><em>What’s going on right now in our Phoenix area real estate market? Let’s examine the latest numbers and find out.</em></p>
 
 The latest numbers for our Phoenix metro real estate market are in, so let’s review them today.
 
