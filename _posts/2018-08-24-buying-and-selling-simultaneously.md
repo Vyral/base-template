@@ -41,3 +41,7 @@ Although buying is an option for some, many are unable to because of the potenti
 If you do find yourself wondering if you should buy or sell first, the best first step is always to get in contact with an agent who knows how to put it together for you. I’d be happy to help with that.
 
 If you have any questions about this, or if you are interested in buying or selling, please feel free to contact me. I look forward to speaking with you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p></p><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
