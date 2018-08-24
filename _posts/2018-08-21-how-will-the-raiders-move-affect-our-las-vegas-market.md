@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Raiders’ Move Affect Our Las Vegas Market?
-date: 2018-08-21 20:12:56
+date: 2018-08-21 20:12:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,14 +13,14 @@ pullquote: >-
   means small business will benefit greatly.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /Mike_Chobanian_Effect_of_the_Raiders_w_logo_Email.jpg
 youtube_code: 8a7rsj6C7ao
 ---
 
 {% include youtube.html %}
 
-Today I am at the Las Vegas Raiders Preview Center at Town Square once again to talk about some very exciting things that are happening in Las Vegas. Many homeowners have been asking me how the Raiders’ move from Oakland will impact Las Vegas both in terms of city growth and real estate prices.
+[Today's video is the second part of a two part series.](https://myvegasrealestateinfo.com/put-your-deposit-down-now-for-las-vegas-raiders-season-tickets.html)&nbsp;I am at the Las Vegas Raiders Preview Center at Town Square once again to talk about some very exciting things that are happening in Las Vegas. Many homeowners have been asking me how the Raiders’ move from Oakland will impact Las Vegas both in terms of city growth and real estate prices.
 
 It is very exciting that Las Vegas will have a football team here. The stadium, which will be ready in 2020, will have its first ever game played on July 31, 2020. It will be a great entertainment venue.
 
