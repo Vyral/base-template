@@ -9,7 +9,8 @@ excerpt: >-
   At Movers Realty, we treat our relationship with our clients very seriously.
   Today let’s discuss how our individually focused approach makes all the
   difference for us and the individuals we serve.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+How+Does+Our+Team+Connect+with+Clients%253F.mp4
 pullquote: Every client is the hero of their own real estate story.
 enclosure_type: video/mp4
 enclosure_time:
