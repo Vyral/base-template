@@ -19,7 +19,7 @@ youtube_code: d3QsxvdBl7M
 
 {% include youtube.html %}
 
-There are five sure signs you need to watch out for as a homebuyer that indicate you’re about to purchase something you can’t afford.
+<p style="text-align: center;"><em>There are five sure signs you need to watch out for as a homebuyer that indicate you’re about to purchase something you can’t afford.</em></p>
 
 If you’re about to purchase a home, here are the five signs you need to watch out for that indicate you might be buying something you can’t afford:&nbsp;
 
