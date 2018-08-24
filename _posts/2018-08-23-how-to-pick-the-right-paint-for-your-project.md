@@ -11,7 +11,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%2526+Associates+-+How+to+Pick+the+Right+Paint+for+Your+Project.mp4
 pullquote: >-
-  For kitchens and bathrooms that are prone to moisture, Alex says they can can
+  For kitchens and bathrooms that are prone to moisture, Alex says they can
   recommend paint that is more resistant to mildew and moisture.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,7 +30,7 @@ You have sent us a lot of questions lately, so today I’ll the answer one of th
 
 The answer to this is paint, which is why I have Alex, the assistant manager of Sherwin Williams in Avenida Village, here with me today to share some do's and don'ts of preparing to paint your home. These apply whether you’re selling or you’re painting because you simply want to enjoy your home a little more.
 
-**Alex says that when customers come into her store to purchase paint, she starts by asking if you have a certain color in mind, as well as if it will be for the interior or exterior**. From there, it’s all about finding out specifics such as tones and how you feel about popular trends. She tells us that the grays, off-white,s and creams are currently the most popular colors. Beige is also popular because it mixes both gray and warmth together.
+**Alex says that when customers come into her store to purchase paint, she starts by asking if you have a certain color in mind, as well as if it will be for the interior or exterior**. From there, it’s all about finding out specifics such as tones and how you feel about popular trends. She tells us that the grays, off-whites, and creams are currently the most popular colors. Beige is also popular because it mixes both gray and warmth together.
 
 After you pick out your colors, Alex says you need to choose your sheen level. Typically this is an eggshell or satin for walls or a semi-gloss for trim. For ceilings, most people go with flat. If you bring in a sample for them to match, both color and sheen level will have to be matched.
 
@@ -40,7 +40,7 @@ For kitchens and bathrooms that are prone to moisture, Alex says they can recomm
 
 Harmony, she tells us, is zero VOC, or volatile organic compound. Having zero VOC is important to her clients because they are more concerned than ever about the environment and their own personal health. Volatile organic compounds can make people sick, so painting companies have moved away from it using oils and instead creating waterborne paints.
 
-For all the do-it-youselfers, Alex says that **the biggest mistake is not completing prep work properly**. People tend to want to skip to the fun part of painting so they don't sand, wash the walls, or tape things off and, unfortunately, that's when things don't work out. To avoid having your painting look bad, you will need to prepare accordingly. If you do this and also follow her directions, Alex tells me that you'll be really happy with your beautiful end-product.
+For all the do-it-yourselfers, Alex says that **the biggest mistake is not completing prep work properly**. People tend to want to skip to the fun part of painting so they don't sand, wash the walls, or tape things off and, unfortunately, that's when things don't work out. To avoid having your painting look bad, you will need to prepare accordingly. If you do this and also follow her directions, Alex tells me that you'll be really happy with your beautiful end-product.
 
 To end, I have a surprise: Alex is more than just the assistant manager. She is also my stepdaughter and she has arranged a special account for us and our clients and friends! **You can visit any Sherwin Williams in the country and mention our phone number, (403) 827-8081), so it will bring up our contractor discount**. Alex does suggest that you include your name and address so that if you ever need more of the same color, you can easily match it through their system.
 
