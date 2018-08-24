@@ -43,7 +43,7 @@ second_sidebar_CTA:
     CTA_title2: Want to learn more?
     CTA_text2: Attend One Of Our Training Classes At Our Offices
     CTA_link_text2: Training Classes
-    CTA_url2: 'http://savvyagent.biz/calendar/'
+    CTA_url2: 'https://s3.amazonaws.com/vyralmarketing/Marcus+Green/Sept+2018.pdf'
 lender:
   show_section: false
   header_text: Preferred Lender
