@@ -34,4 +34,4 @@ Homes have been selling at an increased rate over the past few years. In June 20
 
 #### Contact Us
 
-For more information on home loans in Dallas or the current residential market, please contact The Betz Team at 214-361-5626.&nbsp;
+For more information on home loans in Dallas or the current residential market, please contact The Betz Team at 214-361-5626.
