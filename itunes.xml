@@ -1,55 +1,522 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>{{site.data.settings.podcast.title | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</title>
-    <link>{{site.url}}</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="{{site.url}}"/>
-    <description>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</description>
+    <title>Houston Real Estate Podcast with Thurayah McBride</title>
+    <link>http://buyingsellinghoustonvlog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://buyingsellinghoustonvlog.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from <strong>Buying Selling Houston</strong> - your professional Houston Real Estate Agent.</description>
     <language>en</language>
-    <managingEditor>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</managingEditor>
-    <lastBuildDate>{{site.time}}</lastBuildDate>
-    <media:copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:copyright>
-    <media:thumbnail url="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    <media:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">{{site.data.settings.podcast.categories}}</media:category>
+    <managingEditor>Thurayah McBride</managingEditor>
+    <lastBuildDate>2018-08-23 16:24:29 +0000</lastBuildDate>
+    <media:copyright>Thurayah McBride</media:copyright>
+    <media:thumbnail url="http://buyingsellinghoustonvlog.com/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>{{site.data.settings.client.email}}</itunes:email>
-      <itunes:name>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:name>
+      <itunes:email><strong>buyingsellinghouston@gmail.com</strong></itunes:email>
+      <itunes:name>Thurayah McBride</itunes:name>
     </itunes:owner>
-    <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
+    <itunes:author>Thurayah McBride</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
-    <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:subtitle>
-    <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</itunes:summary>
-      <itunes:category text="{{site.data.settings.podcast.categories}}"/>
-    {% for post in site.posts %}
+    <itunes:image href="http://buyingsellinghoustonvlog.com/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Houston Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from <strong>Buying Selling Houston</strong> - your professional Houston Real Estate Agent.</itunes:summary>
+      <itunes:category text="Education"/>
+    
       <item>
-        <title>{{post.title}}</title>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        {% for tag in post.tags %}
-          <category>{{tag}}</category>
-        {% endfor %}
-        <author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</author>
-        <pubDate>{{post.date}}</pubDate>
-        <guid>{{post.enclosure}}</guid>
-        <description>{{post.content | strip_html}}</description>
-        <enclosure url="{{post.enclosure}}" length="{{post.enclosure_time}}" type="{{post.enclosure_type}}"/>
-        <media:thumbnail url="{{post.image | prepend: site.url}}" height="72" width="72"/>
-        <media:content url="{{post.enclosure}}" type="{{post.enclosure_type}}"/>
+        <title>Why Is Texas Premium Inspections Your Best Choice?</title>
+        <link>http://buyingsellinghoustonvlog.com/why-is-texas-premium-inspections-your-best-choice.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-08-23 16:10:19 +0000</pubDate>
+        <guid></guid>
+        <description>
+
+Today I’m here with Kelly Oldenkamp of Texas Premium Inspections to talk to us about the home inspection process and exactly what a home inspector does. 
+
+A home inspector goes out on the behalf of a buyer or seller to inspect a home and find defects and safety issues. Kelly started out as a home builder and general contractor and can spot those defects quickly.
+
+How long does the home inspection take? As a general rule of thumb, the inspection itself will take about an hour per 1,000 square foot.
+
+“Kelly’s background in home building helps him spot issues quickly.”
+
+Kelly encourages homebuyers to attend their inspection. You’re able to ask questions, see what the process is, and go through the report with them step-by-step. It’s a detailed report that is very reader-friendly.
+
+If you have questions about home inspections or about how Kelly and his team work, don’t hesitate to give him a call at (972) 251-3014. You can also contact them and schedule an inspection through their website.&nbsp;
+
+If you have any other real estate-related questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
-        <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
-        <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
-        <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
+        <itunes:subtitle>Do you know what home inspectors do? Our friend Kelly Oldenkamp joined us recently to talk about the ins and outs of his job.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Do you know what home inspectors do? Our friend Kelly Oldenkamp joined us recently to talk about the ins and outs of his job.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
-      {% endfor %}
-    <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</copyright>
-    <media:credit role="author">{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:credit>
+      
+      <item>
+        <title>Expand Your Rental Portfolio With Academy Mortgage</title>
+        <link>http://buyingsellinghoustonvlog.com/expand-your-rental-portfolio-with-academy-mortgage.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-07-16 20:08:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+simple+way+for+investors+to+expand+their+portfolio.mp4</guid>
+        <description>
+
+With the Houston real estate market heating up, many investors are looking to expand their rental portfolios. So I recently met with Damon Sorrell of Academy Mortgage to gain some insight into the investment loan products he and his company offer. 
+
+According to Damon, Academy Mortgage offers loan products for investors of all experience levels. This includes those who are investing for the very first time, as well as those who have been investing for years. 
+
+And with Academy Mortgage, investors can qualify for a loan with a credit score as low as 620 and can submit a down payment of just 20%. Investors can also take out as many as 10 loans at a time.
+
+“Academy Mortgage offers loan products for investors of all experience levels.”
+
+All you’ll need to provide to apply for a mortgage is a passport or valid ID, your tax returns, proof of income, and bank statements. These documents can be faxed, submitted online, or delivered in person. 
+
+To apply or get in touch with Damon, you can call him at (832) 956-6000 or visit www.damonsorrel.com. 
+
+As always, if you have any other questions or would like more information from me, feel free to reach out. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+simple+way+for+investors+to+expand+their+portfolio.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+simple+way+for+investors+to+expand+their+portfolio.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can investors expand their rental portfolio with the help of Academy Mortgage? Today I’ve brought on special guest Damon Sorrell to discuss this critical question.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>How can investors expand their rental portfolio with the help of Academy Mortgage? Today I’ve brought on special guest Damon Sorrell to discuss this critical question.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have Questions About Down Payment Assistance? We Have Answers</title>
+        <link>http://buyingsellinghoustonvlog.com/have-questions-about-down-payment-assistance-we-have-answers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-06-28 20:50:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+You+Need+to+Know+About+down+Payment+Assistance+(1).mp4</guid>
+        <description>
+
+If you are a homebuyer in our market and are curious about down payment assistance, we’ve got you covered. Damon Sorrell of Academy Mortgage was gracious enough to stop by and answer a few common questions on this subject for us, so we’d like to share his responses with you today. 
+
+What down payment assistance programs does Academy Mortgage offer?
+
+They offer both local programs, like the Homebuyer Assistance Program (HAP) that is available in Houston and greater Harris County, as well as statewide programs, which apply to residents in Houston and the surrounding areas.
+
+“Academy Mortgage offers both local and statewide programs for down payment assistance.”
+
+What are the income and credit requirements for qualifying for these programs?
+
+For the local programs, your credit score must be at least 580, and your income cap depends on how many people are in your household. For statewide programs, your income cap is $86,000 if you have three or four people in your household. There is also a conventional down payment assistance program that allows you to make as much as $114,000 per year and still qualify. 
+
+How do you apply for a down payment assistance program?
+
+That is easy—just give Damon a call at (832) 956-6000. You can also visit his website, www.damonsorell.com, to apply. 
+
+If you have any other lending questions or real estate needs, please feel free to call or email me anytime. I will be happy to assist you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+You+Need+to+Know+About+down+Payment+Assistance+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+You+Need+to+Know+About+down+Payment+Assistance+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Damon Sorrell of Academy Mortgage is here to answer some commonly asked questions regarding down payment assistance.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Damon Sorrell of Academy Mortgage is here to answer some commonly asked questions regarding down payment assistance.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Academy Mortgage Is Helping All Types of Homebuyers</title>
+        <link>http://buyingsellinghoustonvlog.com/how-academy-mortgage-is-helping-all-types-of-homebuyers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-06-22 20:03:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Mortgage+Advice+for+You.mp4</guid>
+        <description>
+
+Academy Mortgage has helped hundreds of families in the Houston area buy homes, so I’m here today with Damon Sorrell to talk about all the great products they have for homebuyers and current homeowners.
+
+If a seller is thinking about refinancing their home, how should they begin the process? At Academy Mortgage, their goal is to help all of their clients by building prosperity through all of the different loan products they offer. For homeowners who are thinking of refinancing, there are plenty of options. One of these is a rate-term refinance where they can lower their current interest rate. There is also a cash-out refinance loan where you can pull out some of the equity from your home as cash to use for whatever you want.
+
+In Texas, you are able to pull out 80% of the equity in your home if it’s completely paid off. For example, if your home is worth $100,000, you can pull up to $80,000 out of the equity and use it as needed.
+
+“A VA loan allows you to buy a home without having to make a down payment.”
+
+Academy Mortgage also has some great loans for veterans. With a VA loan, you won’t have to make a down payment nor will you have to pay mortgage insurance.
+
+For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%. 
+
+If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 956-6000 or visit his website today.
+
+If you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Mortgage+Advice+for+You.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Mortgage+Advice+for+You.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our friends at Academy Mortgage do a great job of assisting many of our clients. Damon Sorrell joined me recently to discuss exactly how they’ve been able to do this.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Our friends at Academy Mortgage do a great job of assisting many of our clients. Damon Sorrell joined me recently to discuss exactly how they’ve been able to do this.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Let Me Be Your Real Estate Resource</title>
+        <link>http://buyingsellinghoustonvlog.com/let-me-be-your-real-estate-resource.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-06-05 14:48:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Facebook+Ad.mp4</guid>
+        <description>
+
+My name is Thurayah McBride and I am an agent with Keller WIlliams Realty here in Houston, Texas. If you are thinking about buying a new home or selling your current one, we can help. 
+
+We will help you find the right home, get you in for showings, and negotiate the best price for you. We know quite a bit about the area so we can help you find the perfect property in the perfect location.
+
+“Whatever your real estate needs are, we can assist with them.”If you want to see a property that is already on the market or you want to know what your home would potentially sell for in the current market, just give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Facebook+Ad.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Facebook+Ad.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Thinking about buying or selling a home in Houston? Here’s how my team can help.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Thinking about buying or selling a home in Houston? Here’s how my team can help.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Join Me on a Virtual Tour of This Luxury Patio Home</title>
+        <link>http://buyingsellinghoustonvlog.com/join-me-on-a-virtual-tour-of-this-luxury-patio-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-05-11 18:55:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Are+You+in+the+Market+for+Resort-Style+Living%253F+(1).mp4</guid>
+        <description>
+
+Today I’m excited to be coming to you from the Royal Oaks Villa Courtyard located just minutes from the Galleria in the Westchase District. These fabulous patio homes, built by McVaugh Custom Homes, are absolutely gorgeous. You can see what I mean for yourselves in the video above. 
+
+When building one of these custom homes, you can choose between an open concept floor plan with two, three, or four bedrooms. Also, each property offers the option of including your own pool where you can relax and enjoy a private courtyard. 
+
+Upon entering the home itself, you’ll find yourself in a kitchen that blends style and utility. Its custom cabinetry and appliances are all imported from Germany. 
+
+Further into the property, you may notice that you can still enjoy poolside views—even while indoors—as you lounge in the master suite.
+
+“We hope you’ve enjoyed this glimpse into resort-style living.”
+
+Next, his-and-hers sinks, a large closet, and spacious jacuzzi-style tub make for a comfortable and luxurious bathroom experience.  
+
+Moving upstairs, the second level of the property we’re touring in today’s video sports two additional bedrooms, as well as an office. Of these bedrooms, one features two master closets with built-in shelves and cabinetry. 
+
+Finally, the entire home is wired with high-tech innovation in mind. Guests approaching your home will be captured by the security camera at your door, and security and entertainment systems can be controlled through your television. We hope you’ve enjoyed this glimpse into resort-style living. 
+
+If you have any other questions, would like more information, or are interested in scheduling a tour, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Are+You+in+the+Market+for+Resort-Style+Living%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Are+You+in+the+Market+for+Resort-Style+Living%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Welcome to Royal Oaks Courtyard Villas. Allow me to guide you on a virtual tour through one of these luxury patio homes, today.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Welcome to Royal Oaks Courtyard Villas. Allow me to guide you on a virtual tour through one of these luxury patio homes, today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>See the Power of Interior Design With Missy Stewart Designs</title>
+        <link>http://buyingsellinghoustonvlog.com/see-the-power-of-interior-design-with-missy-stewart-designs.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-04-25 17:05:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+Look+at+Missy+Stewart+Designs.mp4</guid>
+        <description>
+
+Today I’m joined by special guest Missy Stewart, of Missy Stewart Design, whose portfolio is so impressive that I just had to bring her on for a discussion. 
+
+Missy is an interior designer who works primarily with luxury residential properties. You can see a few examples of Missy’s work in the video above. 
+
+According to Missy, one critical consideration when hiring an interior designer is to make sure they are someone with whom you can communicate. Missy says that a quality interior designer must be able to really listen to their clients.
+
+“Missy always stays in-tune with the latest trends.”
+
+This is especially important for someone like Missy, who works with clients in a number of circumstances. Her work is “very customizable,” she says. Of course, this requires her to stay in-tune with the latest trends. 
+
+For 2018, Missy told me that beige is out while greys are in. This is something Missy definitely incorporates in her own work. She told me that she prefers to keep homes in a mostly monochromatic palette with just a few pops of color throughout. 
+
+If you’re interested in seeing more of Missy’s work or booking a consultation, you can find her on Instagram and Facebook at “MissyStewartDesigns.” You can also contact Missy through her website: www.missystewartdesigns.com.
+
+And, as always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+Look+at+Missy+Stewart+Designs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+A+Look+at+Missy+Stewart+Designs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I want to highlight a fantastic local interior designer: Missy Stewart of Missy Stewart Designs.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Today I want to highlight a fantastic local interior designer: Missy Stewart of Missy Stewart Designs.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How JNoS Public Relations Helps Doctors Brand Themselves</title>
+        <link>http://buyingsellinghoustonvlog.com/how-jnos-public-relations-helps-doctors-brand-themselves.html</link>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-04-03 21:32:00 +0000</pubDate>
+        <guid></guid>
+        <description>
+
+Today, I’m casting the business spotlight on the owner of JNoS Public Relations, Jennifer Simpson, who is going to tell us about how she helps doctors build their business through branding.
+
+Tell us, Jennifer, what is branding?Branding is a personal message that is tied to your personal attributes; it’s the authentic message that you give to the world.
+
+How do you help doctors build their business through branding?
+
+Doctors spend a lot of time in the office, but before that, they spend a lot of time in their educational pursuit. We like to help them find stories within that journey. Most doctors were never taught how to build their business outside of medical school.
+
+Social media is so new to our generation. Prior to attending medical school, they never dreamed of having to know about using such a platform. Using branding and my experience in public relations, I help them identify a message or a tone that they want to convey on their social media platforms, combined with nice, crisp imagery.
+
+How have you helped doctors implement branding in their business?
+
+Oftentimes, as consumers and as patients, we don’t get to talk to our doctors outside of the office, so with social media, they can be present and available. Through it, they’re able to engage with patients and regular people who may have questions about health or other things. It makes them reachable.
+
+“Social media makes doctors reachable outside of the office.”
+
+You’re working with Dr. KaNisha Hall, an anesthesiologist; what have you been working on together?
+
+Dr. KaNisha Hall is not only an anesthesiologist, but an author, sexual health expert, and entrepreneur. Her alma mater, Howard University, recently had a homecoming event, and I was able to help her manage the full schedule of a book tour, a few honorary award ceremonies, and a few class sessions where she went back to speak to students. When you have these types of occasions, it’s good to be able to convey this to the media so that they know what’s going on with you. This way, when people Google her, they can find more stories about her personal life, rather than just medical news.
+
+How would you advise me to brand myself if I were a doctor?
+
+I would take some time to get to know you and help you uncover potential that you may not even know you have. Through that, we would develop a few objectives and create a press-kit based around those objectives that you’d be able to offer outside of the operating room. There are speaking opportunities and other professional presentations that I can help you navigate. I can help with authoring, publishing, and marketing books as well. In the end, I can take the guesswork out of the branding process.
+
+If a doctor wants to get in contact with you so you can help them brand their business, publish a book, or manage their speaking engagements, how would they do that?
+
+I’m reachable through social media with the name @JNOSPR, and my website can be found at www.jnospr.com. 
+
+I would like to thank Jennifer for joining us today. If you have any questions about real estate, feel free to reach out to Buying Selling Houston. We’d be glad to answer any of your questions or offer help as we can.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, Jennifer Simpson, owner of JNoS Public Relations, is here today to talk about how she helps doctors brand themselves and create a social media presence.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Today, Jennifer Simpson, owner of JNoS Public Relations, is here today to talk about how she helps doctors brand themselves and create a social media presence.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>One of These Beautiful Villas Could Be Yours</title>
+        <link>http://buyingsellinghoustonvlog.com/one-of-these-beautiful-villas-could-be-yours.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-03-05 19:05:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Have+You+Seen+These+Beautiful+Villas%253F.mp4</guid>
+        <description>
+The Royal Oaks Courtyard Villas have a number of fantastic amenities its residents can enjoy. Properties come complete with lush landscaping, a private pool, custom cabinetry, a beautiful open-concept floor plan, and much more. This maintenance-free living in the heart of Houston is just minutes from the Galleria. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. To see my full message, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Have+You+Seen+These+Beautiful+Villas%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Have+You+Seen+These+Beautiful+Villas%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you seen the Royal Oaks Courtyard Villas? I’ve got some key information to share about them today, but these beautiful properties are something you’ll definitely want to visit yourself.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Have you seen the Royal Oaks Courtyard Villas? I’ve got some key information to share about them today, but these beautiful properties are something you’ll definitely want to visit yourself.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Hurricane Harvey May Be Over, but the Damage Remains</title>
+        <link>http://buyingsellinghoustonvlog.com/hurricane-harvey-may-be-over-but-the-damage-remains.html</link>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-02-21 00:00:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Hurricane+Harvey+May+Be+Over%252C+but+the+Damage+Remains.mp4</guid>
+        <description>
+
+It has been months since Hurricane Harvey made landfall in Houston. However, while the storm may be over, its impact has remained.I am a local realtor in the Houston and surrounding counties. Due to my career I’ve been all over the city promoting its beauty and benefits, so seeing the devastation was heartbreaking. The city has experienced storms and flooding in the past, but we have never witnessed anything like this before. Harvey is one of the worst hurricanes in recorded history.
+
+“The storm is over, but the crisis is not.”
+
+I wanted to know that my donated funds would go directly to the families that so desperately need them, so I set up a GoFundMe for others who feel the same way. Many of my neighbors lost everything they own from pets to vehicles, homes, and even lives. You can donate here.
+
+I also attended an event called A Heart 4 Houston where NFL players and celebrities came together to give back to the community. I spoke with volunteers, nonprofit organizers, and a Harvey victim whose story is just one of many in our city. To check out the highlights from the event click here.
+
+Many homeowners and renters did not have flood insurance because it is not required in most parts of Houston since we normally do not flood this horribly.
+
+Many areas that were under water have never flooded in my lifetime. I am raising money for my community. I am asking for donations in any amount. These funds will go directly to the hurricane victims, and I will have video and pictures online of our efforts so any donor can keep track of how their funds are used.
+
+You may email me or give me a call for more information. Feel free to keep up on with me on facebook as I share pictures and stories of families putting their lives back together piece by piece. Thank you for your contribution.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Hurricane+Harvey+May+Be+Over%252C+but+the+Damage+Remains.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+Hurricane+Harvey+May+Be+Over%252C+but+the+Damage+Remains.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It has been months since Hurricane Harvey made landfall in Houston. However, while the storm may be over, its impact has remained. Learn how you can help.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>It has been months since Hurricane Harvey made landfall in Houston. However, while the storm may be over, its impact has remained. Learn how you can help.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>NFL Players & Celebrities Come Out to Give Back</title>
+        <link>http://buyingsellinghoustonvlog.com/nfl-players-celebrities-come-out-to-give-back.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-02-20 21:11:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+NFL+Players+%2526+Celebrities+Come+Out+to+Give+Back.mp4</guid>
+        <description>
+
+Though Hurricane Harvey is months behind us now, its lasting impact has been a continuing presence in the lives of Houston families.
+
+Today I’m bringing you highlights from a recent event I attended called “A Heart 4 Houston”—a partnership with Porsha Williams and Tackles4Cancer, a 501(c)(3) nonprofit based out of Houston. It was an amazing experience to see so many people band together at this event.
+
+Singer, songwriter, and actress Támar Davis joined in on the show of support. “There’s so much love in this city,” she remarked during our conversation together.
+
+If you want to get involved, yourself, there are several ways you can do so. One of the ways is by donating to the GoFundMe page that I’ve created, which you can find here. All the funds raised there will go toward Harvey relief efforts.
+
+I also had the opportunity to speak with Dominic Austin of Tackles4Cancer. Tackles4Cancer primarily focuses on transportation for cancer patients. In the wake of Hurricane Harvey, the organization is providing financial grants, meals, and other essentials to people in need. If you would like to learn more or donate, you can visit www.Tackles4Cancer.org.
+
+Along with those from the community who attended as a show of support, others in attendance were victims, themselves—this includes one woman I spoke to, in particular: Tequila Phillips.
+
+“It was clear to see at this event that the community really is “Houston Strong.””
+
+Tequila, a mother of five, told me that many of the items of her home were lost or damaged in the storm. However, what made things most difficult, she says, was that her property had already sustained damage from another flood the year prior to Hurricane Harvey.
+
+Another major difficulty was the impact this has had on her children, two of whom have sickle cell anemia. After Harvey, Tequila’s other three children also became ill. Due to the damage to their home, Tequila and her children sought shelter in a facility which was over-capacity as a result of the hurricane. Tequila’s story is just one of many, which is exactly why relief efforts are so important.
+
+Finally, I would like to highlight one last attendee: NFL wife and Houston native Tammara McDonald, who is also known as “The Game Changer.” This nickname is one she also bestowed onto her 501(c)(3) nonprofit: The Game Changers. She also sits on the board for the Off The Field Players’ Wives Association, an organization of NFL wives.
+
+Tammara told me that she has teamed up with Porsha Williams along with some former and current athletes and entertainers to raise funds and support for the relief efforts. Tammara tells me that she truly wants to highlight the importance of community support.
+
+Toya Jones, former NFL player for the 49ers, Broncos, and Texans, also spoke with me about the work he, Tammara, and others in their circle are doing.
+
+It has been amazing to see how the city has pulled together. It was clear to see at this event that the community really is “Houston Strong.”
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+NFL+Players+%2526+Celebrities+Come+Out+to+Give+Back.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/March+18%22/Houston+Area+Real+Estate-+NFL+Players+%2526+Celebrities+Come+Out+to+Give+Back.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently attended “A Heart 4 Houston,” which was an event put on by local partnering nonprofits as a show of support for those impacted by Hurricane Harvey. Today, I would like to highlight a few of the organizations and people I heard from.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>I recently attended “A Heart 4 Houston,” which was an event put on by local partnering nonprofits as a show of support for those impacted by Hurricane Harvey. Today, I would like to highlight a few of the organizations and people I heard from.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Expert’s Take on Repairing Your Credit</title>
+        <link>http://buyingsellinghoustonvlog.com/an-experts-take-on-repairing-your-credit.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-02-01 10:16:44 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Tips+on+Credit+Repair.mp4</guid>
+        <description>
+
+Today’s topic is credit repair. I’ve brought in Joe Chavarria, owner of The Credit Agents, to answer some questions you may have about this subject and talk about how his company may be able to help you.
+
+The Credit Agents helps many first-time homebuyers who have plans to purchase a home in the near future but are being held back by their credit scores. Joe started his company back in March 2012, and some of his very first clients were able to buy a home within just a couple months after going through their program. When he saw this happen, Joe knew he’d found his calling.
+
+According to Joe, the credit repair process itself is very unique. There are a many consumer protection laws that exist, but oftentimes, there are accounts on people’s credit reports that aren’t reporting with 100% accuracy, verifiability, and/or timeliness.Some of these items may be older and past the statute of limitations date, but whether these items are positive or negative, they must be 100% accurate, verifiable, and timely.
+
+The Credit Agents has a behind-the-scenes team specifically tasked to go through their clients’ credit reports and review which negative accounts appear to be questionable, inaccurate, or incorrect. The details of those accounts are then taken through a very aggressive process of disputes and challenges.
+
+Disputes are used primarily when dealing with collections accounts. Joe and his team will ask the collection agency to verify that the account is accurate and they have proof to collect the debt. The collection agency has 30 days to do this. In most cases, collection agencies don’t have these kinds of records. They’re just collecting on behalf of other creditors, so they’re not given proper materials to verify if a consumer’s account is accurate or verifiable.
+
+“The Credit Agents strives to remove negative information from their clients’ credit reports and educate them at the same time.”
+
+A lot of these collection accounts, then, will come off throughout their process. If they don’t come off in the first month, they’ll come off in the following months as they demand more information. Challenges are used with harder items. In these cases, they ask the credit bureaus themselves to supply proof that everything is accurate.
+
+“Every item on someone’s credit report has to follow strict standards to be able to continue to report,” Joe says. “But oftentimes, these negative accounts, collections, late payments, charge-offs, and even public records don’t play by the rules. We essentially do our part to get them to play by the rules or get off the credit report.”
+
+Asthey work to remove negative information from credit reports, they’re also simultaneously educating their clients about hot to establish new credit, what credit to avoid, what kind of balance to maintain, etc. Someone who tries to repair their own credit without having any previous knowledge about it can get into trouble because they don’t know where to begin or where to go. An expert, on the other hand, can condense 10 years’ worth of knowledge and education and segment it so clients can understand their program and see its results.
+
+“We work toward removing negative information while teaching them how to establish positive information. The combined efforts are what gets someone to a higher credit score.”
+
+This is the reason why I tell my clients to sign up for credit repair - so they can have a professional on their side who understands credit repair laws. There’s nothing wrong with trying to repair your credit on your own, but the credit repair process involves handling sensitive financial information, and if you aren’t an expert in credit repair law or you don’t have a professional financial background, you might end up doing more harm than good.
+
+If you have any more questions about credit repair, you can reach Joe by phone at (281) 756-7060 or visit www.thecreditagents.com.
+
+If you have any real estate needs, don’t hesitate to give me a call or send me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Tips+on+Credit+Repair.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+Expert+Tips+on+Credit+Repair.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Credit repair is a unique process, which is why it’s usually better to work with a company like The Credit Agents if you want to establish a higher credit score to buy a home.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>Credit repair is a unique process, which is why it’s usually better to work with a company like The Credit Agents if you want to establish a higher credit score to buy a home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Home Buying Questions, Answered</title>
+        <link>http://buyingsellinghoustonvlog.com/your-home-buying-questions-answered.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Thurayah McBride</author>
+        <pubDate>2018-01-22 15:24:00 +0000</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+Does+It+Take+to+Get+a+New+Home%253F.mp4</guid>
+        <description>
+
+Today’s special guest, Chad from Hancock Mortgage, has done a phenomenal job helping my clients to obtain mortgages. Because of this, I wanted to bring Chad on to answer some questions about the home buying process
+
+The first question we went over was, “How long does it take, from start to finish, to purchase a home?”
+
+“Typically what we tell people is 30 days or less. As long as someone gets us the information we need in a timely manner, 30 days is more than enough time for you to submit a contractto the close date,” said Chad.
+
+Next, I asked him about the subject of credit scores.As far as credit scores go, Chad explained that the higher your rate is, the better. This is because credit scores help to determine the rates you’ll receive when buying a home. However, there are many different programs available for any kind of credit score.
+
+“Don’t let misinformation prevent you from getting your next home.”
+
+The third question I often hear people ask is, “How much do I need for my down payment?”
+
+According to Chad, it no longer takes 20% down to buy a home. In fact, certain down payment assistance programs allow buyers to get into a home with zero down. However, this doesn’t mean you can buy a home for free. “Zero down doesn’t mean zero closing costs,” says Chad.
+
+Nevertheless, a high-quality agent will be able to negotiate on your behalf for the best deal possible. Don’t let misinformation prevent you from getting your next home.
+
+If you have any more questions about the home buying process, you can contact Chad at (281) 932-857.
+
+And as always, if you’ve got any other real estate questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+Does+It+Take+to+Get+a+New+Home%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://buyingsellinghoustonvlog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Tia+McBribe/Houston+Area+Real+Estate-+What+Does+It+Take+to+Get+a+New+Home%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’ve been hearing a lot of questions about the home buying process lately. That’s why today, I’m bringing on a special guest to address a few of them.</itunes:subtitle>
+        <itunes:author>Thurayah McBride</itunes:author>
+        <itunes:summary>I’ve been hearing a lot of questions about the home buying process lately. That’s why today, I’m bringing on a special guest to address a few of them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Houston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Thurayah McBride</copyright>
+    <media:credit role="author">Thurayah McBride</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from <strong>Buying Selling Houston</strong> - your professional Houston Real Estate Agent.</media:description>
   </channel>
 </rss>

@@ -1,30 +1,286 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.data.settings.title | xml_escape }}</title>
-    <description>{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
+    <description>Our mission at &lt;strong&gt;Buying Selling Houston&lt;/strong&gt; is to be your best resource for Houston real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The &lt;strong&gt;Buying Selling Houston&lt;/strong&gt;, your professional Houston Real Estate Agents.</description>
+    <link>http://buyingsellinghoustonvlog.com/</link>
+    <atom:link href="http://buyingsellinghoustonvlog.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 23 Aug 2018 16:24:29 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Aug 2018 16:24:29 +0000</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Why Is Texas Premium Inspections Your Best Choice?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_GJ-94-2OW4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’m here with Kelly Oldenkamp of Texas Premium Inspections to talk to us about the home inspection process and exactly what a home inspector does. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A home inspector goes out on the behalf of a buyer or seller to inspect a home and find defects and safety issues.&lt;/strong&gt; Kelly started out as a home builder and general contractor and can spot those defects quickly.&lt;/p&gt;
+
+&lt;p&gt;How long does the home inspection take? As a general rule of thumb, the inspection itself will take about an hour per 1,000 square foot.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Kelly’s background in home building helps him spot issues quickly.%20http://buyingsellinghoustonvlog.com/why-is-texas-premium-inspections-your-best-choice.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Kelly’s background in home building helps him spot issues quickly.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kelly encourages homebuyers to attend their inspection.&lt;/strong&gt; You’re able to ask questions, see what the process is, and go through the report with them step-by-step. It’s a detailed report that is very reader-friendly.&lt;/p&gt;
+
+&lt;p&gt;If you have questions about home inspections or about how Kelly and his team work, don’t hesitate to give him a call at (972) 251-3014. You can also contact them and schedule an inspection through their &lt;u&gt;&lt;a data-cms-editor-link-style=&quot;undefined&quot; target=&quot;_blank&quot; href=&quot;https://www.texaspremiuminspections.com/&quot;&gt;&lt;strong&gt;website.&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/u&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have any other real estate-related questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Aug 2018 16:10:19 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/why-is-texas-premium-inspections-your-best-choice.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/why-is-texas-premium-inspections-your-best-choice.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Expand Your Rental Portfolio With Academy Mortgage</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HrcBauTanrw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;With the Houston real estate market heating up, many investors are looking to expand their rental portfolios. So I recently met with Damon Sorrell of Academy Mortgage to gain some insight into the investment loan products he and his company offer. &lt;/p&gt;
+
+&lt;p&gt;According to Damon, Academy Mortgage offers loan products for investors of all experience levels. This includes those who are investing for the very first time, as well as those who have been investing for years. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;And with Academy Mortgage, investors can qualify for a loan with a credit score as low as 620 and can submit a down payment of just 20%.&lt;/strong&gt; Investors can also take out as many as 10 loans at a time.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Academy Mortgage offers loan products for investors of all experience levels.%20http://buyingsellinghoustonvlog.com/expand-your-rental-portfolio-with-academy-mortgage.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Academy Mortgage offers loan products for investors of all experience levels.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All you’ll need to provide to apply for a mortgage is a passport or valid ID, your tax returns, proof of income, and bank statements. These documents can be faxed, submitted online, or delivered in person. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To apply or get in touch with Damon, you can call him at (832) 956-6000 or visit &lt;/strong&gt;&lt;a href=&quot;https://academymortgage.com/lo/damonsorrell&quot; target=&quot;_blank&quot;&gt;www.damonsorrel.com.&lt;/a&gt; &lt;/p&gt;
+
+&lt;p&gt;As always, if you have any other questions or would like more information from me, feel free to reach out. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Jul 2018 20:08:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/expand-your-rental-portfolio-with-academy-mortgage.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/expand-your-rental-portfolio-with-academy-mortgage.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Have Questions About Down Payment Assistance? We Have Answers</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/RcRBHXUNDyI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you are a homebuyer in our market and are curious about down payment assistance, we’ve got you covered. Damon Sorrell of Academy Mortgage was gracious enough to stop by and answer a few common questions on this subject for us, so we’d like to share his responses with you today. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What down payment assistance programs does Academy Mortgage offer?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;They offer both local programs, like the Homebuyer Assistance Program (HAP) that is available in Houston and greater Harris County, as well as statewide programs, which apply to residents in Houston and the surrounding areas.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Academy Mortgage offers both local and statewide programs for down payment assistance.%20http://buyingsellinghoustonvlog.com/have-questions-about-down-payment-assistance-we-have-answers.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Academy Mortgage offers both local and statewide programs for down payment assistance.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What are the income and credit requirements for qualifying for these programs?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For the local programs, your credit score must be at least 580, and your income cap depends on how many people are in your household. For statewide programs, your income cap is $86,000 if you have three or four people in your household. There is also a conventional down payment assistance program that allows you to make as much as $114,000 per year and still qualify. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you apply for a down payment assistance program?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;That is easy—just give Damon a call at (832) 956-6000. You can also visit his website, &lt;strong&gt;&lt;a href=&quot;https://academymortgage.com/lo/damonsorrell&quot; target=&quot;_blank&quot;&gt;www.damonsorell.com&lt;/a&gt;&lt;/strong&gt;, to apply. &lt;/p&gt;
+
+&lt;p&gt;If you have any other lending questions or real estate needs, please feel free to call or email me anytime. I will be happy to assist you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Jun 2018 20:50:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/have-questions-about-down-payment-assistance-we-have-answers.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/have-questions-about-down-payment-assistance-we-have-answers.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How Academy Mortgage Is Helping All Types of Homebuyers</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Veaq5cxzc2M?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Academy Mortgage has helped hundreds of families in the Houston area buy homes, so &lt;strong&gt;I’m here today with Damon Sorrell to talk about all the great products they have for homebuyers and current homeowners.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If a seller is thinking about refinancing their home, how should they begin the process? At Academy Mortgage, their goal is to help all of their clients by building prosperity through all of the different loan products they offer. For homeowners who are thinking of refinancing, there are plenty of options. &lt;strong&gt;One of these is a rate-term refinance where they can lower their current interest rate. There is also a cash-out refinance loan where you can pull out some of the equity from your home as cash to use for whatever you want.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In Texas, you are able to pull out 80% of the equity in your home if it’s completely paid off. For example, if your home is worth $100,000, you can pull up to $80,000 out of the equity and use it as needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A VA loan allows you to buy a home without having to make a down payment.%20http://buyingsellinghoustonvlog.com/how-academy-mortgage-is-helping-all-types-of-homebuyers.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A VA loan allows you to buy a home without having to make a down payment.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Academy Mortgage also has some great loans for veterans. &lt;strong&gt;With a VA loan, you won’t have to make a down payment nor will you have to pay mortgage insurance.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For first-time homebuyers, you can buy a home with various conventional and FHA loans, some with down payment options as low as 3.5%. &lt;/p&gt;
+
+&lt;p&gt;If you’re thinking about buying a home or refinancing your current one, don’t hesitate to give Damon a call at (832) 956-6000 or visit &lt;a href=&quot;https://academymortgage.com/lo/damonsorrell&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;his website&lt;/strong&gt;&lt;/a&gt; today.&lt;/p&gt;
+
+&lt;p&gt;If you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Jun 2018 20:03:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/how-academy-mortgage-is-helping-all-types-of-homebuyers.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/how-academy-mortgage-is-helping-all-types-of-homebuyers.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Let Me Be Your Real Estate Resource</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JXc7Hcd4MYg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;My name is Thurayah McBride and I am an agent with Keller WIlliams Realty here in Houston, Texas. If you are thinking about buying a new home or selling your current one, we can help. &lt;/p&gt;
+
+&lt;p&gt;We will help you find the right home, get you in for showings, and negotiate the best price for you. &lt;strong&gt;We know quite a bit about the area so we can help you find the perfect property in the perfect location.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Whatever your real estate needs are, we can assist with them.%20http://buyingsellinghoustonvlog.com/let-me-be-your-real-estate-resource.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Whatever your real estate needs are, we can assist with them.”&lt;/a&gt;If you want to see a property that is already on the market or you want to know what your home would potentially sell for in the current market, just give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 05 Jun 2018 14:48:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/let-me-be-your-real-estate-resource.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/let-me-be-your-real-estate-resource.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Join Me on a Virtual Tour of This Luxury Patio Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3lFKyiVd84Y?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’m excited to be coming to you from the Royal Oaks Villa Courtyard located just minutes from the Galleria in the Westchase District. &lt;strong&gt;These fabulous patio homes, built by McVaugh Custom Homes, are absolutely gorgeous.&lt;/strong&gt; You can see what I mean for yourselves in the video above. &lt;/p&gt;
+
+&lt;p&gt;When building one of these custom homes, you can choose between an open concept floor plan with two, three, or four bedrooms. Also, each property offers the option of including your own pool where you can relax and enjoy a private courtyard. &lt;/p&gt;
+
+&lt;p&gt;Upon entering the home itself, you’ll find yourself in a kitchen that blends style and utility. Its custom cabinetry and appliances are all imported from Germany. &lt;/p&gt;
+
+&lt;p&gt;Further into the property, you may notice that &lt;strong&gt;you can still enjoy poolside views—even while indoors—as you lounge in the master suite.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We hope you’ve enjoyed this glimpse into resort-style living.%20http://buyingsellinghoustonvlog.com/join-me-on-a-virtual-tour-of-this-luxury-patio-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We hope you’ve enjoyed this glimpse into resort-style living.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, his-and-hers sinks, a large closet, and spacious jacuzzi-style tub make for a comfortable and luxurious bathroom experience.  &lt;/p&gt;
+
+&lt;p&gt;Moving upstairs, the second level of the property we’re touring in today’s video sports two additional bedrooms, as well as an office. Of these bedrooms, one features two master closets with built-in shelves and cabinetry. &lt;/p&gt;
+
+&lt;p&gt;Finally, &lt;strong&gt;the entire home is wired with high-tech innovation in mind.&lt;/strong&gt; Guests approaching your home will be captured by the security camera at your door, and security and entertainment systems can be controlled through your television. We hope you’ve enjoyed this glimpse into resort-style living. &lt;/p&gt;
+
+&lt;p&gt;If you have any other questions, would like more information, or are interested in scheduling a tour, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 May 2018 18:55:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/join-me-on-a-virtual-tour-of-this-luxury-patio-home.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/join-me-on-a-virtual-tour-of-this-luxury-patio-home.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>See the Power of Interior Design With Missy Stewart Designs</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0nA9T5pYxnI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I’m joined by special guest Missy Stewart, of Missy Stewart Design, whose portfolio is so impressive that I just had to bring her on for a discussion. &lt;/p&gt;
+
+&lt;p&gt;Missy is an interior designer who works primarily with luxury residential properties. You can see a few examples of Missy’s work in the video above. &lt;/p&gt;
+
+&lt;p&gt;According to Missy, one critical consideration when hiring an interior designer is to make sure they are someone with whom you can communicate. &lt;strong&gt;Missy says that a quality interior designer must be able to really listen to their clients.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Missy always stays in-tune with the latest trends.%20http://buyingsellinghoustonvlog.com/see-the-power-of-interior-design-with-missy-stewart-designs.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Missy always stays in-tune with the latest trends.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is especially important for someone like Missy, who works with clients in a number of circumstances. Her work is “very customizable,” she says. Of course, this requires her to stay in-tune with the latest trends. &lt;/p&gt;
+
+&lt;p&gt;For 2018, Missy told me that beige is out while greys are in. This is something Missy definitely incorporates in her own work. She told me that she prefers to keep homes in a mostly monochromatic palette with just a few pops of color throughout. &lt;/p&gt;
+
+&lt;p&gt;If you’re interested in seeing more of Missy’s work or booking a consultation, you can find her on Instagram and Facebook at “MissyStewartDesigns.” &lt;strong&gt;You can also contact Missy through her website:&lt;/strong&gt; &lt;strong&gt;&lt;a href=&quot;http://www.missystewartdesigns.com&quot;&gt;www.missystewartdesigns.com.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;And, as always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 17:05:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/see-the-power-of-interior-design-with-missy-stewart-designs.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/see-the-power-of-interior-design-with-missy-stewart-designs.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>How JNoS Public Relations Helps Doctors Brand Themselves</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/hsVD1kK4n2s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today, I’m casting the business spotlight on the owner of JNoS Public Relations, Jennifer Simpson, who is going to tell us about how she helps doctors build their business through branding.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tell us, Jennifer, what is branding?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Branding is a personal message that is tied to your personal attributes; it’s the authentic message that you give to the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you help doctors build their business through branding?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Doctors spend a lot of time in the office, but before that, they spend a lot of time in their educational pursuit. We like to help them find stories within that journey. Most doctors were never taught how to build their business outside of medical school.&lt;/p&gt;
+
+&lt;p&gt;Social media is so new to our generation. Prior to attending medical school, they never dreamed of having to know about using such a platform. Using branding and my experience in public relations, I help them identify a message or a tone that they want to convey on their social media platforms, combined with nice, crisp imagery.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How have you helped doctors implement branding in their business?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oftentimes, as consumers and as patients, we don’t get to talk to our doctors outside of the office, so with social media, they can be present and available. Through it, they’re able to engage with patients and regular people who may have questions about health or other things. It makes them reachable.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Social media makes doctors reachable outside of the office.%20http://buyingsellinghoustonvlog.com/how-jnos-public-relations-helps-doctors-brand-themselves.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Social media makes doctors reachable outside of the office.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You’re working with Dr. KaNisha Hall, an anesthesiologist; what have you been working on together?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. KaNisha Hall is not only an anesthesiologist, but an author, sexual health expert, and entrepreneur. Her alma mater, Howard University, recently had a homecoming event, and I was able to help her manage the full schedule of a book tour, a few honorary award ceremonies, and a few class sessions where she went back to speak to students. When you have these types of occasions, it’s good to be able to convey this to the media so that they know what’s going on with you. This way, when people Google her, they can find more stories about her personal life, rather than just medical news.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How would you advise me to brand myself if I were a doctor?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I would take some time to get to know you and help you uncover potential that you may not even know you have. Through that, we would develop a few objectives and create a press-kit based around those objectives that you’d be able to offer outside of the operating room. There are speaking opportunities and other professional presentations that I can help you navigate. I can help with authoring, publishing, and marketing books as well. In the end, I can take the guesswork out of the branding process.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If a doctor wants to get in contact with you so you can help them brand their business, publish a book, or manage their speaking engagements, how would they do that?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m reachable through social media with the name @JNOSPR, and my website can be found at &lt;a href=&quot;https://www.jnospr.com/&quot;&gt;&lt;strong&gt;www.jnospr.com&lt;/strong&gt;&lt;/a&gt;. &lt;/p&gt;
+
+&lt;p&gt;I would like to thank Jennifer for joining us today. If you have any questions about real estate, feel free to reach out to Buying Selling Houston. We’d be glad to answer any of your questions or offer help as we can.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 03 Apr 2018 21:32:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/how-jnos-public-relations-helps-doctors-brand-themselves.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/how-jnos-public-relations-helps-doctors-brand-themselves.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>One of These Beautiful Villas Could Be Yours</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rg1d1JwdOR8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;The Royal Oaks Courtyard Villas have a number of fantastic amenities its residents can enjoy. Properties come complete with lush landscaping, a private pool, custom cabinetry, a beautiful open-concept floor plan, and much more. This maintenance-free living in the heart of Houston is just minutes from the Galleria. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. To see my full message, watch this short video.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 19:05:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/one-of-these-beautiful-villas-could-be-yours.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/one-of-these-beautiful-villas-could-be-yours.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Hurricane Harvey May Be Over, but the Damage Remains</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/h-55HySuJbU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It has been months since Hurricane Harvey made landfall in Houston. However, &lt;strong&gt;while the storm may be over, its impact has remained.&lt;/strong&gt;I am a local realtor in the Houston and surrounding counties. Due to my career I’ve been all over the city promoting its beauty and benefits, so seeing the devastation was heartbreaking. The city has experienced storms and flooding in the past, but we have never witnessed anything like this before. Harvey is one of the worst hurricanes in recorded history.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The storm is over, but the crisis is not.%20http://buyingsellinghoustonvlog.com/hurricane-harvey-may-be-over-but-the-damage-remains.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The storm is over, but the crisis is not.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I wanted to know that my donated funds would go directly to the families that so desperately need them, so I set up a GoFundMe for others who feel the same way.&lt;/strong&gt; Many of my neighbors lost everything they own from pets to vehicles, homes, and even lives. You can donate &lt;a href=&quot;https://www.gofundme.com/5kj5jz-houston-hurricane-harvey-relief&quot;&gt;&lt;strong&gt;here.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I also attended an event called A Heart 4 Houston where NFL players and celebrities came together to give back to the community. I spoke with volunteers, nonprofit organizers, and a Harvey victim whose story is just one of many in our city. &lt;strong&gt;To check out the highlights from the event &lt;a href=&quot;http://buyingsellinghoustonvlog.com/nfl-players-celebrities-come-out-to-give-back.html&quot;&gt;click here.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Many homeowners and renters did not have flood insurance because it is not required in most parts of Houston since we normally do not flood this horribly.&lt;/p&gt;
+
+&lt;p&gt;Many areas that were under water have never flooded in my lifetime. &lt;strong&gt;I am raising money for my community. I am asking for donations in any amount.&lt;/strong&gt; These funds will go directly to the hurricane victims, and I will have video and pictures online of our efforts so any donor can keep track of how their funds are used.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You may email me or give me a call for more information.&lt;/strong&gt; Feel free to keep up on with me on facebook as I share pictures and stories of families putting their lives back together piece by piece. Thank you for your contribution.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://buyingsellinghoustonvlog.com/hurricane-harvey-may-be-over-but-the-damage-remains.html</link>
+        <guid isPermaLink="true">http://buyingsellinghoustonvlog.com/hurricane-harvey-may-be-over-but-the-damage-remains.html</guid>
+        
+        
+      </item>
+    
   </channel>
 </rss>
