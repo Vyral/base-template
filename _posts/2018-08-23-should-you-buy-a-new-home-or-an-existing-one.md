@@ -24,7 +24,7 @@ Which is the best investment: a new home or an existing home? If you’ve been t
 
 First of all, the answer may vary depending on where you plan on buying. When buying in a newer neighborhood, existing homes can sometimes be a better buy.&nbsp;
 
-These homes are still current, but tend to be cheaper than a new home. New homes do provide you with the option to pick and choose items you like, but this can cause you to go over budget if you aren’t careful.&nbsp;
+These homes are still current but tend to be cheaper than a new home. New homes do provide you with the option to pick and choose items you like, but this can cause you to go over budget if you aren’t careful.&nbsp;
 
 **If you are planning on buying a new home, be very cautious when choosing between your options.**
 
