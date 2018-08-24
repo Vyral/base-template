@@ -19,7 +19,7 @@ youtube_code: 7AP5CczGJPI
 
 {% include youtube.html %}
 
-What does the recent lull in our market mean for your real estate goals? There are actually a few important points to consider.
+<p style="text-align: center;"><em>What does the recent lull in our market mean for your real estate goals? There are actually a few important points to consider.</em></p>
 
 Now that we’ve reached the summer doldrums, our market has begun to slow down. This begs an important question: What do current conditions mean for buyers and sellers?
 
