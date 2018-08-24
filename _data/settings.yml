@@ -1,18 +1,19 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+title: '-- CLIENT BRAND --'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title: KW Legacy
-    url: http://darlenecarter.kwrealty.com/
+    url: 'http://darlenecarter.kwrealty.com/'
   - title: KW Utah Realtors
-    url: http://kathymoore.myhomehq.biz/
-
+    url: 'http://kathymoore.myhomehq.biz/'
 client:
   name: Marcus Green
   license_number:
-  about_markdown: |
-
+  about_markdown:
   market:
   brand: Savvy Agent
   brokerage:
@@ -22,52 +23,51 @@ client:
   phone2:
   phone2_type:
   email: Marcus@KWUtah.com
-  url: http://SavvyAgent.biz
-
+  url: 'http://SavvyAgent.biz'
 CTAs:
   first_CTA_text: Request a Consultation
-  first_CTA_URL: http://savvyagent.biz/
+  first_CTA_URL: 'http://savvyagent.biz/'
   second_CTA_text: Training Classes
-  second_CTA_URL: http://savvyagent.biz/calendar/
-  VR_form: http://oi.vresp.com?fid=4c7f249ffd
-
+  second_CTA_URL: 'https://s3.amazonaws.com/vyralmarketing/Marcus+Green/Sept+2018.pdf'
+  VR_form: 'http://oi.vresp.com?fid=4c7f249ffd'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Looking to Build Your Real Estate Career?"
-    CTA_text: "Speak With Us About A Career At KW: Request A Consultation To Work In One Of Our Offices."
-    CTA_link_text: "Request a Consultation"
-    CTA_url: http://savvyagent.biz/
-
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: >-
+      Speak With Us About A Career At KW: Request A Consultation To Work In One
+      Of Our Offices.
+    CTA_link_text: Request a Consultation
+    CTA_url: 'http://savvyagent.biz/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Want to learn more?"
-    CTA_text2: "Attend One Of Our Training Classes At Our Offices"
-    CTA_link_text2: "Training Classes"
-    CTA_url2: http://savvyagent.biz/calendar/
-
+    CTA_title2: Want to learn more?
+    CTA_text2: Attend One Of Our Training Classes At Our Offices
+    CTA_link_text2: Training Classes
+    CTA_url2: 'http://savvyagent.biz/calendar/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/kw-logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    When you choose to join Keller Williams, you join forces with the most dynamic real estate company in the world! I educate Real Estate Agents on how to build a better buiness and sell more homes, while sharing the benefits of what it's like to have a career with Keller Williams.
-
+    When you choose to join Keller Williams, you join forces with the most
+    dynamic real estate company in the world! I educate Real Estate Agents on
+    how to build a better buiness and sell more homes, while sharing the
+    benefits of what it's like to have a career with Keller Williams.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/savvyagentbiz/
+  facebook_url: 'https://www.facebook.com/savvyagentbiz/'
   linkedin_url:
-  gplus_url: https://plus.google.com/b/110726765764972327361
-  youtube_url: https://www.youtube.com/channel/UC_sgXod_eppF2WRfLlWZ1YA
+  gplus_url: 'https://plus.google.com/b/110726765764972327361'
+  youtube_url: 'https://www.youtube.com/channel/UC_sgXod_eppF2WRfLlWZ1YA'
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -75,16 +75,26 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: Savvy Agent Real Estate Video Blog with Marcus Green
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   client_headshot_path2: /img/headshot2.jpg
@@ -102,13 +112,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(238, 238, 238, .4)
-
+  shadow_color: 'rgba(238, 238, 238, 0.4)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
