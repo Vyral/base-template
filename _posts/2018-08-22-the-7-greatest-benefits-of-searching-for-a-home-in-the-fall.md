@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 7 Greatest Benefits of Searching for a Home in the Fall
-date: 2018-08-22 19:14:41
+date: 2018-08-22 19:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/PYTBwRc1xcY'
+youtube_code: 'https://youtu.be/fwFz1V0erQk'
 ---
 
 {% include youtube.html %}
