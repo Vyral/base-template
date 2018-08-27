@@ -23,7 +23,7 @@ youtube_code: maFcy0qK6eI
 
 Today I am joined by Lorna Davis, an agent here at Colemere Realty Team, to do a summer market recap.
 
-**This summer, we saw interest rates creep up and &nbsp;they are continuing to do so**. If you are thinking about applying for a loan, you should keep this in mind.
+**This summer, we saw interest rates creep up and they are continuing to do so**. If you are thinking about applying for a loan, you should keep this in mind.
 
 As far as market segmentation goes, the market is seeing some slowdown in the $600,000 and above price range. Buyers and sellers are seeing listings in this price range stay on the market longer and it is causing the inventory to increase.
 
