@@ -35,7 +35,7 @@ First, **give your children a sense of control by allowing them to assist in cer
 
 That said, **do not try to erase your children’s feelings altogether.** Allow them to work through their grief in healthy ways, like writing goodbye letters or reminiscing together over memories you made in your old home.&nbsp;
 
-As their parent, it’s important for you to strike a balance between respecting your children’s &nbsp;feelings and taking proactive steps to frame your new home in a positive light. Start creating positive experiences from the start. The sooner they become familiar with the area, the sooner they will adjust to the idea of their new life there. **If your child has a particular hobby, consider researching outlets for it in your new neighborhood.**
+As their parent, it’s important for you to strike a balance between respecting your children’s feelings and taking proactive steps to frame your new home in a positive light. Start creating positive experiences from the start. The sooner they become familiar with the area, the sooner they will adjust to the idea of their new life there. **If your child has a particular hobby, consider researching outlets for it in your new neighborhood.**
 
 Getting your child involved in an extracurricular activity, therefore allowing them to bond with other kids their age, can really help them warm up to their new home.&nbsp;
 
