@@ -3,7 +3,7 @@ layout: post
 title: Why Homeownership Is Still Part of the American Dream
 date: 2018-08-27 13:30:00
 tags:
-  - Mortgage
+  - Real Estate
 excerpt: >-
   Is homeownership still a part of the American Dream? Let’s discuss this
   critical question today.
