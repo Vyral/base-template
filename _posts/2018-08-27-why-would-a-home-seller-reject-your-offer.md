@@ -25,9 +25,9 @@ I want to introduce you to one of our fantastic associate agents who is going to
 
 **2. A higher offer is not always better.** Since lenders will only loan a buyer as much as a home is appraised for, make sure that you’re willing to come up with the difference out of your own pocket if the home doesn’t appraise to where you made your offer.
 
-{% include pullquote.html %}
-
 **3. Your lender was unfamiliar to the sellers.** Often, a real estate agent or seller feels more comfortable with a local lender they know. Do your research, but consider giving preference to a well-regarded local mortgage lender or a major bank.
+
+{% include pullquote.html %}
 
 **4. You demanded a family heirloom.** If there is an item in the house that you would absolutely love to have, make sure you include it in the deal. However, if it’s something that the seller won’t part ways with, don’t make a fuss about it. Don’t lose the entire house over a pretty chandelier.
 
