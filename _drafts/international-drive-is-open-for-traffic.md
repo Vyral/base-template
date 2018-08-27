@@ -20,6 +20,6 @@ youtube_code: JMhPyzzTcSk
 
 {% include youtube.html %}
 
-International Drive has been opened up for traffic, which means great things for real estate in the area.
+<center>International Drive has been opened up for traffic, which means great things for real estate in the area.</center>
 
 Did you rule out Conway on your housing search because of the location? You may want to rethink that decision. With the opening of International Drive last month, you can now get from from Conway to the heart of Myrtle Beach in 15 minutes or less. If you are selling in the Conway area, this of course is great news for your property’s value.
