@@ -22,15 +22,15 @@ youtube_code: MhzNvVmXFDY
 
 There is a lot of misinformation out there about the real estate market and the home selling process. Here are six home selling myths that you need to stop believing:
 
-**1. You can sell your home on your own.** We know you’re cringing at the idea of paying an agent’s commission, but there’s more to the process than putting a sign on the door and an ad on Craigslist. If you try to sell your home on your own, you have to market the home on your own, which requires a lot of hustle. A Realtor does all the heavy lifting to attract the right buyer and negotiate the best offer.
+**1. You can sell your home on your own.** We know you’re cringing at the idea of paying an agent’s commission, but there’s more to the process than putting a sign in the yard and an ad on Craigslist. If you try to sell your home on your own, you have to market the home on your own, which requires a lot of hustle. A Realtor does all the heavy lifting to attract the right buyer and negotiate the best offer.
 
-**2. You know what your home is really worth.** Who understands your home better than you, right? Wrong. Home valuations are best left to the pros. Sellers aren’t always the best judges of value. Homeowners tend to overprice their home because of the emotional factor. A good agent will know the neighborhood and have access to the numbers that prove its true value to potential buyers.
+**2. You know what your home is really worth.** Who understands your home better than you, right? Wrong. Home valuations are best left to the pros. Sellers aren’t always the best judges of value. Homeowners tend to overprice their home because of the emotional factor. Good agents will be able to leverage their knowledge of local real estate in order to help you earn a great price for your home
 
-**3. It’s fine to sell your home as-is.** You might think your home is in great shape to sell, but you’re probably overlooking some necessary changes that could boost your profits. Improving things like your walls, floors, and kitchen will get you the best ROI.
+**3. It’s fine to sell your home as-is.** You might think your home is in great shape, but you’re probably overlooking some necessary changes that could boost your profits. Improving things like your walls, floors, and kitchen will get you the best ROI.
 
 {% include pullquote.html %}
 
-**4. You need to do a gut renovation in order to sell**. Maybe you need to freshen up the kitchen a bit instead of getting a whole new one. Simple things make a big difference to homebuyers. Removing personal items is a great way to improve your home without spending a cent.
+**4. You need to do a gut renovation in order to sell**. Simple things make a big difference to homebuyers. Removing personal items is a great way to improve your home without spending a cent.
 
 **5. Spring is the best time to sell a home.** The truth is that any season can be the best time to sell, depending on the market. In San Diego, homes sell pretty well all year long. We’re still seeing plenty of buyers, even without a lot of inventory.
 
