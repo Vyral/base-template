@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Believe These Home Selling Myths
-date:
+date: 2018-08-27 17:41:29
 tags:
   - Home Seller Tips
   - Real Estate
@@ -37,5 +37,3 @@ There is a lot of misinformation out there about the real estate market and the 
 **6. You can rely on an online home estimate.** Although online home value estimates give you a good starting point for value, there is no substitute for the expertise of a Realtor. You can’t plug in a standard formula and expect it to give you an accurate result. There are all kinds of variables to consider that online home estimates don’t. Most real estate professionals won’t have a problem giving you a CMA to find your home’s true value.
 
 If you have any questions about the real estate market, your home’s value, or anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
