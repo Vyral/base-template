@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Pick the Right Paint for Your Project
+title: Important Painting Do’s & Don’ts From An Expert
 date: 2018-08-23 00:00:00
 tags:
   - Real Estate
@@ -28,7 +28,7 @@ youtube_code: yiwhgTtT-Jw
 
 You have sent us a lot of questions lately, so today I’ll the answer one of the most commonly asked: “What should I do to prepare my home for sale?”
 
-The answer to this is paint, which is why I have Alex, the assistant manager of Sherwin Williams in Avenida Village, here with me today to share some do's and don'ts of preparing to paint your home. These apply whether you’re selling or you’re painting because you simply want to enjoy your home a little more.
+One of the answers is often to paint, which is why I have Alex, the assistant manager of Sherwin Williams in Avenida Village, here with me today to share some do's and don'ts of preparing to paint your home. These apply whether you’re selling or you’re painting because you simply want to enjoy your home a little more.
 
 **Alex says that when customers come into her store to purchase paint, she starts by asking if you have a certain color in mind, as well as if it will be for the interior or exterior**. From there, it’s all about finding out specifics such as tones and how you feel about popular trends. She tells us that the grays, off-whites, and creams are currently the most popular colors. Beige is also popular because it mixes both gray and warmth together.
 
