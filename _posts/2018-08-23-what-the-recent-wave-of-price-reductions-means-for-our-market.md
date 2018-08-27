@@ -25,9 +25,9 @@ youtube_code: 4QBerdxkUoA
 
 A couple days ago, I read a Zillow report titled “Price Cuts Becoming More Common, Especially at the High End” that I want to share with you today because of how it pertains to our marketplace.&nbsp;
 
-The report found that in June of this year, 14% of all listings across the U.S. underwent a price reduction. San Diego, in particular, had a high number of properties reduce their price—roughly 20%. According to the report, **this doesn’t mean that market isn’t shifting—it’s simply slowing down.&nbsp;**
+The report found that in June of this year, 14% of all listings across the U.S. underwent a price reduction. San Diego, in particular, had a high number of properties reduce their price—roughly 20%. According to the report, **this doesn’t mean that the market isn’t shifting—it’s simply slowing down.&nbsp;**
 
-At the 1:59 mark in the video above, I’ve included a graph from the same report that shows how price cuts have fluctuated among bottom-tier, middle-tier, and top-tier homes during the month of June from 2011 to 2018. In June 2018, 16% of all top-tier homes reduced their price, which was the highest mark of the entire five-year period
+At the 1:59 mark in the video above, I’ve included a graph from the same report that shows how price cuts have fluctuated among bottom-tier, middle-tier, and top-tier homes during the month of June from 2011 to 2018. In June 2018, 16% of all top-tier homes reduced their price, which was the highest mark of the entire five-year period.
 
 {% include pullquote.html %}
 
