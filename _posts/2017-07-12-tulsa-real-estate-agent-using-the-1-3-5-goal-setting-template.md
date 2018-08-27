@@ -12,7 +12,6 @@ title: How the 1-3-5 Tool Can Help You Accomplish All Your Goals
 date: '2017-07-12T13:55:00.000-07:00'
 author: Vyral Admin
 tags:
-- Tips from MAPS Coaches
 modified_time: '2017-07-13T14:15:17.107-07:00'
 thumbnail: https://i.ytimg.com/vi/x0TpIHSYlvQ/default.jpg
 blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-2798917403803931746

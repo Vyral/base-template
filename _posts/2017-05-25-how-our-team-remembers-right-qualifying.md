@@ -12,7 +12,6 @@ title: How Our Team Remembers the Right Qualifying Questions to Ask
 date: '2017-05-25T11:22:00.000-07:00'
 author: Vyral Admin
 tags:
-- Tips from MAPS Coaches
 modified_time: '2017-06-02T14:43:50.713-07:00'
 thumbnail: https://i.ytimg.com/vi/s7Yopym85Ok/default.jpg
 blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-5267264293437084870

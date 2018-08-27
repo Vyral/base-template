@@ -12,7 +12,6 @@ title: How to Prequalify a Seller Before You Go to the Listing Appointment
 date: '2017-06-22T09:10:00.001-07:00'
 author: Vyral Admin
 tags:
-- Tips from MAPS Coaches
 modified_time: '2017-06-29T13:41:05.019-07:00'
 thumbnail: https://i.ytimg.com/vi/T4fsj3P_Duc/default.jpg
 blogger_id: tag:blogger.com,1999:blog-8069599583664600397.post-3481004769310994561
