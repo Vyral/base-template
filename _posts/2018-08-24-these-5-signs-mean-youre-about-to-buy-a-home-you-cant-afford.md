@@ -37,4 +37,4 @@ If you’re about to purchase a home, here are the five signs you need to watch 
 
 Remember, the key to a good transaction is a good lender and a good Realtor. If you give us a call, we can put you in touch with one of our trusted lenders who can offer some great advice.
 
-If you have any other questions, don’t hesitate to reach out to us. I’d be happy to help you.
+If you have any other questions, don’t hesitate to reach out to us. I’d be happy to help&#151;you.
