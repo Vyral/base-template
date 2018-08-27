@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/eric-mortimer-ss-august-2-no-play.jpg
+youtube_alternate_image: /uploads/eric-mortimer-ss-august-2-no-play-1.jpg
 youtube_code: yiwhgTtT-Jw
 ---
 
@@ -24,7 +24,7 @@ youtube_code: yiwhgTtT-Jw
 
 <center><em>I am at Sherwin Williams to talk with assistant manager Alex about how to choose the right paint for your home and have it look its best.</em></center>
 
-&nbsp;
+ 
 
 You have sent us a lot of questions lately, so today I’ll the answer one of the most commonly asked: “What should I do to prepare my home for sale?”
 
