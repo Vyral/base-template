@@ -20,16 +20,18 @@ youtube_code: iZCsHMHd-E0
 
 {% include youtube.html %}
 
-Sometimes, two people who’re looking to buy a home together just can’t agree on which one to buy because they have different opinions about what features their future home should have.
+Sometimes, two people who are looking to buy a home together have difficulties choosing one option because they can’t agree on certain features or amenities.
 
-When one of our clients is facing this situation, we resolve it by having them use a tool we call ”the triangle.” The triangle is simply a list of the top three essential features you can both agree that your new home should have.
+When one of our clients is facing this situation, we resolve it by having them use a tool called “the triangle.” The triangle is simply a list of the top three essential features the clients can both agree are needed in their future home.
 
-The reality is, no home is perfect. Whether it’s a new construction home or one that’s recently been rehabbed, certain features won’t look exactly how you want them to. After you’ve found a home that has the three most important things you both agree on, put on your investor’s hat and fix up any problem areas in that house. If there’s a bathroom in the house that needs to be updated, fix it up yourself so you can build equity in that home. That way, when the time comes to sell it, you’re reaping the benefits of that equity instead of buying someone else’s premium.
+Focus on the three most important things you want in your new house. Not five, not six—just three. Everything else is an opportunity to increase the value of that house.
+
+The reality is, no home is perfect—whether it’s a new construction or recently rehabbed. After you’ve found a home within your triangle, put your investor’s hat on. You can fix up any other problem areas in the house that aren’t a part of your triangle. For instance, if a bathroom in the house needs updating, you now have the opportunity to build equity in your new home by fixing it up yourself. When the time comes to sell it, you’re reaping the benefits of that equity instead of buying someone else’s premium.
 
 {% include pullquote.html %}
 
-So, focus on the three most important things you want in your new house. Not five, not six—just three. Everything else is an opportunity to increase the value of that house.
-
 Since today’s topic was suggested to us by one of our subscribers, we want to take a moment to remind you that if you send us a question that we choose to answer in a future video, you’ll be rewarded with a $25 gift card.
 
-As always, if you have any real estate needs or you’re thinking of buying or selling a home, please feel free to reach out to us. We’d be glad to help you.
+As always, if you have any real estate needs or if you’re thinking of buying or selling a home, please feel free to reach out to us. We’d be glad to help you.
+
+&nbsp;
