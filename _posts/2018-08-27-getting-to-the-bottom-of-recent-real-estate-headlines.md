@@ -23,7 +23,7 @@ youtube_code: qGI7JVHii9k
 
 {% include youtube.html %}
 
-<center>How much of the bad news you see and read about our market is true? Let&rsquo;s get to the bottom of this today.</center>
+<center><em>How much of the bad news you see and read about our market is true? Let&rsquo;s get to the bottom of this today.</em></center>
 
 &nbsp;
 
