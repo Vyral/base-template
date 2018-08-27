@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: CZp7feb719E
+youtube_code: QB_8rwyWw08
 ---
 
 {% include youtube.html %}
@@ -30,6 +30,6 @@ So you’ve decided to sell your house, and you can’t wait to buy a new place.
 4. **Set the table if people are coming over.** Staging paints a picture for potential buyers, allowing them to imagine living in your home. If they can see that a family lives here and can have company over, then they’ll see that for their own family, too. Nothing represents family and company life quite like a nicely prepared dinner table, so break out the nice flatware and add some seasonal flair with a dash of bold colors. Set two to four places at the table and arrange a decorative centerpiece on top of a neutral table runner. Check out websites like Pinterest for more ideas.
 5. **Bring the outside in.** Make your house feel like a home by taking advantage of what’s in full bloom right outside your door. Fresh flowers are very inviting; they warm up a room and send a message that yours is a really nice space to be in. If plucking decorations from your yard isn’t an option, stop by your local flower shop or grocery store. If you do have a few bucks to spare, you may want to consider spending it on paint and mulching in the front yard. Buyers give you about three seconds to make the sale. Mulch and fresh paint will go a very long way.
 
-Of course, every home is different, so before you spend one red cent freshening up your casa, ask a real estate agent you trust for advice. You see, a true pro knows what buyers in your area want and can help you maximize your home’s appeal without breaking the bank.&nbsp;
+Of course, every home is different, so before you spend one red cent freshening up your casa, ask a real estate agent you trust for advice. You see, a true pro knows what buyers in your area want and can help you maximize your home’s appeal without breaking the bank. 
 
 As always, feel free to give us a call if you have any questions or have a topic you’d like us to discuss. I’d love to help you out.
