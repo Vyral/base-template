@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quick Tips to Upgrade Your Home
-date:
+date: 2018-08-27 20:46:32
 tags:
   - Home Seller Tips
 excerpt: Today I have even more tips to upgrade your home.
