@@ -45,6 +45,6 @@ How did this happen? Well, certain sellers during that time understood what it t
 
 And, **fortunately for you, our team also knows what being successful in the market entails**. We know how to help you navigate today’s market conditions to achieve your buying and selling goals. We’ve set multiple real estate records in the past, and we have a proven track record of helping sellers earn top dollar regardless of market conditions. In addition to that, we’ve also got plenty of experience in helping buyers find the perfect home and earn a great deal.
 
-Also, if you would like to see the graphs and charts we drew our market data from today, click here.
+Also, if you would like to see the articles we drew our market data from today, [click here](https://i.imgsafe.org/44/44fd86f2f2.jpeg) and [here](https://i.imgsafe.org/44/44fd87cb92.jpeg).
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
