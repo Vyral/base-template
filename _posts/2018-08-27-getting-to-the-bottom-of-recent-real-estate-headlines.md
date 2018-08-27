@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/mindy-robbins-sept-1-ss-no-play-1.jpg
 youtube_code: qGI7JVHii9k
 ---
 
