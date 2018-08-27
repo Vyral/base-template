@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Need to Know About the Market?
-date:
+date: 2018-08-27 20:25:09
 tags:
   - Market Update
   - Real Estate
@@ -28,7 +28,7 @@ Right now, homes that are priced under $300,000 are pretty hot, as well as homes
 
 **What types of homes are not hot right now and why is that?**
 
-The upscale homes are moving, but with spending an average of 100 days on the market, they’re not moving quite as fast as the rest of the market.<br>&nbsp;
+The upscale homes are moving, but with spending an average of 100 days on the market, they’re not moving quite as fast as the rest of the market.<br> 
 
 {% include pullquote.html %}
 
@@ -41,5 +41,3 @@ Right now, it’s around $212,000. We’ve gone up about 8% so far this year, ag
 I think the first thing that you need to do is get with a good Realtor. Then you need to make sure you’re pre-approved with a reputable lender. If you see a property you like, make a move on it immediately because tomorrow will be too late.
 
 If you have any questions for me about the market, your home’s value, or anything else relating to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
