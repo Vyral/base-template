@@ -17,7 +17,9 @@ youtube_code: maFcy0qK6eI
 
 {% include youtube.html %}
 
-<center>Lorna Davis joins me today to give you a quick summer market recap.</center>
+<center><em>Lorna Davis joins me today to give you a quick summer market recap.</em></center>
+
+&nbsp;
 
 Today I am joined by Lorna Davis, an agent here at Colemere Realty Team, to do a summer market recap.
 
