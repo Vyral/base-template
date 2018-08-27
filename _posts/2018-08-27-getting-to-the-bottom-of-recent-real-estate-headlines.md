@@ -23,7 +23,9 @@ youtube_code: qGI7JVHii9k
 
 {% include youtube.html %}
 
-<center>How much of the bad news you see and read about our market is true? Let’s get to the bottom of this today.</center>
+<center>How much of the bad news you see and read about our market is true? Let&rsquo;s get to the bottom of this today.</center>
+
+&nbsp;
 
 There’s been some bad news reported on our real estate market recently.
 
