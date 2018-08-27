@@ -24,7 +24,7 @@ youtube_code: 8g_rS0o8oow
 
 Welcome to our property of the week: 407 Caddy Avenue in Moorhead.
 
-**Located within a 55-and-older condo association, this beautiful home backs up to hole 10 on the Moorhead Country Club, and comes complete with many gorgeous features.**
+**Located within a 55-and-older condo association, this beautiful home backs up to hole 10 on the Moorhead Country Club and comes complete with many gorgeous features.**
 
 Sitting just before the great room, the foyer serves as a perfect introduction to the rest of this great property. Both of these rooms have recently been upgraded with gorgeous laminate plank floors, giving the entire space a cohesive and polished look.
 
@@ -34,7 +34,7 @@ Within the great room, you’ll find yourself before a large stone fireplace set
 
 Moving on, the dry bar located in the hall between the kitchen and great room is the perfect feature to marry these spaces. Its custom maple cabinetry is the same as that found elsewhere throughout the home, such as in the kitchen—where you’ll also find a huge two-tier center island and plenty of storage solutions. &nbsp;
 
-With heated floors throughout, a main-floor master bath in the master suite, solid oak doors, and custom upgrades throughout, this home has essentially everything you could ever need.
+With heated floors throughout, this home has everything you need including a main-floor master with en suite, solid oak doors, and custom upgrades.
 
 Of course, this is just a glimpse into its features. **To see everything we’ve mentioned yourself, feel free to watch our full tour in the video above.** You can also check out the listing for this property **[here.](https://www.zillow.com/homedetails/407-Caddy-Ave-Moorhead-MN-56560/89288293_zpid/){: target="_blank"}**
 
