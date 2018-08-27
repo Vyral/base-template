@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Our Utah Market Is Shifting
-date: 2018-08-24 17:56:18
+date: 2018-08-24 17:56:00
 tags:
   - Market Update
 excerpt: 'Our Utah market is shifting, but what does it mean to you? Let''s have a look.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Doug+Cary/Videos/2018/August/Wasatch+Front+Real+Estate+Agent-+Our+Utah+Market+Is+Shifting.mp4
 pullquote: >-
-  The fact that we saw a 15% increase of the number of homes on the market in
+  The fact that we saw a 15% increase in the number of homes on the market in
   just 45 days is pretty significant.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,13 +19,13 @@ youtube_code: dNn89T6B6Jk
 
 {% include youtube.html %}
 
-The market here in Utah is already starting to shift. Today I am going to talk with you about how this affects you as a homeowner, buyer, seller, or investor. You may even want to share this with those that you love, especially those looking to make real estate decisions soon.
+The market here in Utah is already starting to shift. Today I am going to talk with you about how this affects you as a homeowner, buyer, seller, or investor. You may want to share this with those that you love, especially those looking to make real estate decisions soon.
 
-**Nationwide, markets are shifting.** In Utah, we are already seeing our inventory increase. We haven't seen this happen in over five years, so the fact that we saw a 15% increase of the number of homes on the market in just 45 days is pretty significant.
+**Nationwide, markets are shifting.** In Utah, we are already seeing our inventory increase. We haven't seen this happen in over five years, so the fact that we saw a 15% increase in the number of homes on the market in just 45 days is pretty significant.
 
 So, what does this mean for you as a homeowner? If you're happy in your home, absolutely nothing.
 
-However, if you are thinking about selling, now is absolutely the best time to sell.
+However, if you are thinking about selling, now is absolutely the best time to do so.
 
 {% include pullquote.html %}
 
