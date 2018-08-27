@@ -19,7 +19,7 @@ youtube_code: BIHF5iEf6kI
 
 {% include youtube.html %}
 
-The three key aspects you need to focus on in order to get your listing sold are marketing, condition, and price.
+<p style="text-align: center;"><em>The three key aspects you need to focus on in order to get your listing sold are marketing, condition, and price.</em></p>
 
 There are three key aspects of the home selling process you must focus on in order to sell your home quickly and for top dollar.&nbsp;
 
