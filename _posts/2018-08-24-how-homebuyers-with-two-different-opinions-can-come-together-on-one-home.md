@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Homebuyers With 2 Different Opinions Can Come Together on 1 Home
-date: 2018-08-24 17:30:31
+title: How Homebuyers With Two Different Opinions Can Come Together on One Home
+date: 2018-08-24 17:30:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -33,5 +33,3 @@ The reality is, no home is perfect—whether it’s a new construction or recent
 Since today’s topic was suggested to us by one of our subscribers, we want to take a moment to remind you that if you send us a question that we choose to answer in a future video, you’ll be rewarded with a $25 gift card.
 
 As always, if you have any real estate needs or if you’re thinking of buying or selling a home, please feel free to reach out to us. We’d be glad to help you.
-
-&nbsp;
