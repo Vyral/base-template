@@ -23,7 +23,7 @@ Today we are going to be talking about the state of the multiple offer market. W
 
 **As a seller, when you’re evaluating multiple offers, the highest offer isn’t always the best.** There are plenty of terms to consider as well, including earnest money, closing date, and inspection contingencies.&nbsp;
 
-Some buyers are removing the inspection contingency altogether, which really sweetens the pot for the seller. It’s really not advisable to most buyers, but it is an option that will set you apart from others in a competitive situation.
+Some buyers are removing the inspection contingency altogether, which really sweetens the pot for the seller. It’s really not advisable for most buyers, but it is an option that will set you apart from others in a competitive situation.
 
 We’re also seeing buyers write offers on properties that they haven’t seen in person. This has already happened three times this summer. There’s a sense of urgency for buyers to get into the property.
 
