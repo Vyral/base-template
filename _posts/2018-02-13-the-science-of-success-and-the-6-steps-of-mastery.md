@@ -2,10 +2,7 @@
 layout: post
 title: The Science of Success and the 6 Steps of Mastery
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   Recently, I had the privilege of making an appearance as a guest speaker on
   the Salt Lake Community College program “Bruin Voices.” During my appearance,
