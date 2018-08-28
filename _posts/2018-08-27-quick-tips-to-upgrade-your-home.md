@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Quick Tips to Upgrade Your Home
-date: 2018-08-27 20:46:32
+date: 2018-08-27 20:46:00
 tags:
   - Home Seller Tips
 excerpt: Today I have even more tips to upgrade your home.
 enclosure:
 pullquote: >-
-  Simple changes like updating door knobs or kitchen cabinet hardware can also
-  improve the overall look if your listing.
+  Simple changes like updating doorknobs or kitchen cabinet hardware can also
+  improve the overall look of your listing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,8 +26,8 @@ One of the things that you can do to make your home look more updated is to **ch
 
 {% include pullquote.html %}
 
-Simple changes like updating door knobs or kitchen cabinet hardware can also improve the overall look if your listing.
+Simple changes like updating doorknobs or kitchen cabinet hardware can also improve the overall look of your listing.
 
-Finally, **changing out old decor is another easy trick to try.** You can take old furniture and move it into storage or to a friend's place. If you were already planning on buying new furniture, you could also go ahead and to it and put it into the home to make your home feel more staged and updated.
+Finally, **changing out old decor is another easy trick to try.** You can take old furniture and move it into storage or to a friend's place. If you were already planning on buying furniture for your new home, you could also go ahead and purchase those items and place them inside your current home to make it feel more staged and updated.
 
 If you have any additional questions about this or are interested in buying or selling, please feel free to contact me. I would be happy to provide you with even more options to update your home for the least amount of money.
