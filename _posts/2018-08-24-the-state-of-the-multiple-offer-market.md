@@ -1,14 +1,15 @@
 ---
 layout: post
 title: The State of the Multiple Offer Market
-date: 2018-08-24 20:59:22
+date: 2018-08-24 20:59:00
 tags:
   - Real Estate
   - Market Update
 excerpt: >-
   Multiple offers are still commonplace in our market. Here are a few
   interesting things that we’ve seen lately surrounding them.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+the+State+of+the+Multiple+Offer+Market%253F.mp4
 pullquote: You have to take all the terms into mind when evaluating multiple offers.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ youtube_code: 'https://youtu.be/clFrMlVOJME'
 
 Today we are going to be talking about the state of the multiple offer market. We seem to be seeing a lot of them this summer, especially in the under $350,000 market.
 
-**As a seller, when you’re evaluating multiple offers, the highest offer isn’t always the best.** There are plenty of terms to consider as well, including earnest money, closing date, and inspection contingencies.&nbsp;
+**As a seller, when you’re evaluating multiple offers, the highest offer isn’t always the best.** There are plenty of terms to consider as well, including earnest money, closing date, and inspection contingencies. 
 
 Some buyers are removing the inspection contingency altogether, which really sweetens the pot for the seller. It’s really not advisable for most buyers, but it is an option that will set you apart from others in a competitive situation.
 
