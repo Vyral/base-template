@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Different Ways to Tap Into Your Home’s Equity
-date:
+date: 2018-08-28 18:35:12
 tags:
   - Home Equity
   - Finance Advice
@@ -33,5 +33,3 @@ There are a lot of things you can do with an FHA loan. Once you start to build e
 Finally, our bonus tip. How can you tap into the equity of your home and cash out without refinancing? The answer is simple. Take a home equity line of credit, or HELOC, out on your property. If you have a really good rate, you don’t even have to touch that loan. **You can get a HELOC for whatever amount you need while keeping your loan payment.**
 
 The decision of whether to refinance or get a second mortgage depends on a number of factors, including your rate and your credit, but the best thing for you to do to start the process is message me. If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
