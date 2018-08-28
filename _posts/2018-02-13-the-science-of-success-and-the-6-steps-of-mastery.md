@@ -28,22 +28,22 @@ Recently, I had the opportunity to act as a guest speaker on the Salt Lake Commu
 
 Cited below for your convenience are timestamps which will direct you to various subjects I go over in the video above. Feel free to watch my full message or use these timestamps to browse specific topics at your leisure:
 
-00:13 - Introduction
+00:13 - Introduction.
 
-00:51 - Creating a personal mission
+00:51 - Creating a personal mission.
 
-4:39 - The science of success and the six paths to mastery: Self-mastery
+4:39 - The science of success and the six paths to mastery: Self-mastery.
 
-5:44 - The science of success and the six paths to mastery: Implementation of 80/20 rule
+5:44 - The science of success and the six paths to mastery: Implementation of 80/20 rule.
 
-7:30 - The science of success and the six paths to mastery: Moving from “E” to “P”
+7:30 - The science of success and the six paths to mastery: Moving from “E” to “P”.
 
-9:12 - The science of success and the six paths to mastery: Having a learning-based mindset
+9:12 - The science of success and the six paths to mastery: Having a learning-based mindset.
 
-10:34 - The science of success and the six paths to mastery: Remove limiting beliefs
+10:34 - The science of success and the six paths to mastery: Remove limiting beliefs.
 
-12:59 - The science of success and the six paths to mastery: Accountability
+12:59 - The science of success and the six paths to mastery: Accountability.
 
-14:49 - Review and demonstration of the science of success
+14:49 - Review and demonstration of the science of success.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
