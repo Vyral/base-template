@@ -9,7 +9,7 @@ excerpt: >-
   are actually a few important points to consider.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/SOI/2018/Albany+Real+Estate+Agent-+SOI-+Seller%2527s+or+Buyer%2527s+Market.mp4
-pullquote: September and October will likely be a great time for real estate
+pullquote: September and October will likely be a great time for real estate.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
