@@ -26,13 +26,13 @@ To give you all a better idea of what makes Juniper great, and how it got its st
 
 Opened six years ago by first-time restaurateur Justin Thompson, Juniper has been a local favorite ever since. Juniper offers standout entrees such as seared duck, fried chicken curry, and a refreshing seared ahi salad.&nbsp;
 
-Of course, Juniper’s menu is always changing. **New dishes are released each week to fit the restaurants ever-shifting themes, as well as the seasons.** It’s no wonder why Juniper’s growth comes from its kitchen, where head chef Neil Trumpy works his culinary magic.&nbsp;
+Of course, Juniper’s menu is always changing. **New dishes are released each week to fit the restaurant's ever-shifting themes, as well as the seasons.** It’s no wonder why Juniper’s growth comes from its kitchen, where head chef Neil Trumpy works his culinary magic.&nbsp;
 
 {% include pullquote.html %}
 
-Chef Trumpy received his education from the Oregon Culinary Institute, where he developed a skill set based around to sustainability and the use of local ingredients. As you’ll see in today’s episode, watching him work is an amazing sight to behold.&nbsp;
+Chef Trumpy received his education from the Oregon Culinary Institute, where he developed a skill set based around sustainability and the use of local ingredients. As you’ll see in today’s episode, watching him work is an amazing sight to behold.&nbsp;
 
-But delectible dishes aren’t the only thing there is to enjoy at Juniper. **Diners can also enjoy any of the many refreshing signature cocktails they offer.** So whether you’re in the mood for a savory meal or a sweet, tasty drink, you can find what you’re craving at Juniper.&nbsp;
+But delectable dishes aren’t the only thing there is to enjoy at Juniper. **Diners can also enjoy any of the many refreshing signature cocktails they offer.** So whether you’re in the mood for a savory meal or a sweet, tasty drink, you can find what you’re craving at Juniper.&nbsp;
 
 Dining at Juniper is an amazing experience, so be sure to come check it out yourself.&nbsp;
 
