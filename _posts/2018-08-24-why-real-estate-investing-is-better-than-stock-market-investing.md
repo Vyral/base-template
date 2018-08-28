@@ -23,7 +23,7 @@ Today I want to talk about the differences between investing in real estate and 
 
 There are a few reasons that I like real estate better than the stock market:
 
-**1. When you invest in a rental property, you receive income monthly.** A tenant is going to pay their rent every month, which means that you get will receive income every month from it.
+**1. When you invest in a rental property, you receive income monthly.** A tenant is going to pay their rent every month, which means that you'll receive that income every month.
 
 **2. There is appreciation with real estate.** Most people who invest in stocks invest for appreciation. While we have seen some down times with real estate over the last few years, over a long period, real estate appreciates in the same way.
 
@@ -31,7 +31,7 @@ There are a few reasons that I like real estate better than the stock market:
 
 {% include pullquote.html %}
 
-For example, if you bought a $100,000 home, you would only submit $20,000 as a down payment.. Then, you will earn cash flow from whatever is left after your tenants make their monthly payments to the bank. And beyond cash flow, your investment will also grow based on appreciation. If that same $100,000 home were to appreciate by 10% over the next few years, you would essentially have turned your $20,000 investment into a $110,000 payoff.&nbsp;
+For example, if you bought a $100,000 home, you would only submit $20,000 as a down payment. Then, you will earn cash flow from whatever is left after your tenants make their monthly payments to the bank. And beyond cash flow, your investment will also grow based on appreciation. If that same $100,000 home were to appreciate by 10% over the next few years, you would essentially have turned your $20,000 investment into a $110,000 payoff.&nbsp;
 
 Unless you are getting that much in returns through the stock market, real estate may be a better option if you leverage through the bank. However, I do understand that many people have an aversion to debt, don't want to take the risk, or would rather pay cash, and this is okay. When you pay cash for the rental home, you receive the whole rent check. This means that your dividend is higher and you still get the 10% appreciation.
 
