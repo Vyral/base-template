@@ -8,7 +8,7 @@ excerpt: >-
   What’s going on right now in our Phoenix area real estate market? Let’s
   examine the latest numbers and find out.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2018/August/Valley+of+the+Sun+Real+Estate+Agent-+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2018/August/Valley+of+the+Sun+Real+Estate+Agent-+market+update+new+graphics+8.28.mp4
 pullquote: >-
   The market right now is very strong here in our Phoenix area, and it will
   likely continue to be so.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Lo8znFY2Xi4
+youtube_code: pk0L-gmOVdo
 ---
 
 {% include youtube.html %}
