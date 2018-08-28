@@ -12,9 +12,9 @@ enclosure: >-
 pullquote: There are four price points in any market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: EmgU5u4kITA
+use_youtube_image: false
+youtube_alternate_image: /uploads/max-res.jpg
+youtube_code: ExUME-xnY_E
 ---
 
 {% include youtube.html %}
