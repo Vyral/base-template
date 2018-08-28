@@ -19,7 +19,7 @@ youtube_code: Xa_1ftTWUr0
 
 {% include youtube.html %}
 
-&lt;p style="text-align: center;"&gt;&lt;em&gt;There are three specific reasons why so many people love calling Florida home that I’ll share with you today.&lt;/em&gt;&lt;/p&gt;
+<p style="text-align: center;"><em>There are three specific reasons why so many people love calling Florida home that I’ll share with you today.</em></p>
 
 Whether you want to make Florida your permanent home or you just want to visit for the winter, there are three reasons you’ll end up falling in love with it:
 
