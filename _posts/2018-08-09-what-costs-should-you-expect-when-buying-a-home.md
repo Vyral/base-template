@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deepak-gupta-august-1-ss-no-play.jpg
-youtube_code: lHbqYscJnsE
+youtube_code: e4P7ZKG_Qho
 ---
 
 {% include youtube.html %}
@@ -60,7 +60,5 @@ You don’t want to be what is called “house poor.” This means you can’t a
 * Be aware of what sort of lifestyle you prefer to have, and what it costs to maintain it.
 
 Also keep in mind that some of the costs of principle and interest are tax deductible. For more information about that, you should consult a tax professional.
-
-If you would like a PDF of a simple formula that can show you, based on what down payment you’d like to pay, how much you can afford in a home, click here.
 
 For any questions you may have, please don’t hesitate to reach out to us. We are always here to help and guide you through the process, and we look forward to connecting with you.
