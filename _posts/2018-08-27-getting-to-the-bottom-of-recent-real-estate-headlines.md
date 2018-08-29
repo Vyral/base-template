@@ -18,14 +18,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mindy-robbins-sept-1-ss-no-play-1.jpg
-youtube_code: qGI7JVHii9k
+youtube_code: Id4Zd_b2K5E
 ---
 
 {% include youtube.html %}
 
 <center><em>How much of the bad news you see and read about our market is true? Let&rsquo;s get to the bottom of this today.</em></center>
 
-&nbsp;
+ 
 
 There’s been some bad news reported on our real estate market recently.
 
