@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PT-BOJPRt3Y
+youtube_code: M80NcGxoYig
 ---
 
 {% include youtube.html %}
@@ -40,5 +40,3 @@ My prediction is that we’ll see pricing stay flat. Interest rates may dip down
 It’s also important to note that traditionally, **November and December have been some of my best months for business.** That’s because people who move and sell during those months are extra motivated to complete their transactions so they can settle into their new home or job if they’re relocating.
 
 If you have any questions from me regarding real estate or you have a topic you’d like me to address for you, I would be glad to help. Feel free to reach out to me and we can discuss your situation and make a plan.
-
-&nbsp;
