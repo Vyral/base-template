@@ -21,10 +21,10 @@ youtube_code: sMosEcqjbo8
 
 What do our VAs actually sound like on the phone? That’s one of the most common questions that we hear from prospective clients. They want to know if our callers sound professional, if they have a thick accent, etc.&nbsp;
 
-As you’ll see, our callers speak English very well. **Anybody we hire has to have at least three to five years of experience in an English call center.** We hire all of our callers out of the Philippines, the No. 1 market in the world for English speaking call centers outside of the U.S.
+As you’ll see, our callers speak English very well. **Anybody we hire has to have at least three to five years of experience in an English call center.** We hire all of our callers out of the Philippines, the No. 1 market in the world for English-speaking call centers outside of the U.S.
 
 {% include pullquote.html %}
 
-**Starting at :56 in the video above, you can see for yourself just how fantastic and professional our Virtual Assistants sound on the phone.** I hope you enjoy this sneak peek into the outbound calls that we are making on a daily basis.&nbsp;
+**Starting at 0:56 in the video above, you can see for yourself just how fantastic and professional our Virtual Assistants sound on the phone.** I hope you enjoy this sneak peek into the outbound calls that we are making on a daily basis.&nbsp;
 
-If you like what you see and you’re interested in working with us, head on over to our **[website](http://1000callsaday.com/){: target="_blank"}**, fill out the form, and we’d love to set up some time to talk with you to see if it would be a fit for us to work with you, help you scale your outbound prospecting, and grow your business. We hope to hear from you soon.
+If you like what you see and you’re interested in working with us, fill out **[this form](https://1000callsaday.com/contact){: target="_blank"}** so we can set up some time to talk with you about our services, including how we can help you scale your outbound prospecting and grow your business. We hope to hear from you soon.
