@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Things Buyers and Sellers Should Know About Today's Market
-date: 2018-06-27 14:22:29
+date: 2018-08-29 14:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: Q88A-ptjNYg
 
 {% include youtube.html %}
 
-Now that we’ve reached the middle of the year, it’s time for a market update. I was looking at some statistics from our MLS recently and discovered five things I think you should all be aware of:
+Now that we’ve reached the end of summer, it’s time for a market update. I was looking at some statistics from our MLS recently and discovered five things I think you should all be aware of:
 
 **1. The number of listings is down.** This is true for all the various counties in our local market. Milwaukee County is down about 8%, Waukesha County is down about 7%, Ozaukee County is down 8.6%, Washington County is down 11.1%, Walworth County is down 11.5%, and Racine County is down 8.3%. So, as you can see, there are fewer options available these days for buyers.
 
