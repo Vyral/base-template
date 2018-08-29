@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Welcome to Our Property of the Week: 407 Caddy Avenue'
-date: 2018-08-23 20:44:14
+date: 2018-08-23 20:44:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -10,9 +10,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeremy+Qualley/2018/West+Fargo+Real+Estate-+Welcome+to+Our+Property+of+the+Week-+407+Caddy+Avenue.mp4
 pullquote: >-
-  With heated floors throughout, a main-floor master bath in the master suite,
-  solid oak doors, and custom upgrades throughout, this home has essentially
-  everything you could ever need.
+  With heated floors throughout, this home has everything you need including a
+  main-floor master with en suite,  solid oak doors, and custom upgrades.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -32,7 +31,7 @@ Within the great room, you’ll find yourself before a large stone fireplace set
 
 {% include pullquote.html %}
 
-Moving on, the dry bar located in the hall between the kitchen and great room is the perfect feature to marry these spaces. Its custom maple cabinetry is the same as that found elsewhere throughout the home, such as in the kitchen—where you’ll also find a huge two-tier center island and plenty of storage solutions. &nbsp;
+Moving on, the dry bar located in the hall between the kitchen and great room is the perfect feature to marry these spaces. Its custom maple cabinetry is the same as that found elsewhere throughout the home, such as in the kitchen—where you’ll also find a huge two-tier center island and plenty of storage solutions.  
 
 With heated floors throughout, this home has everything you need including a main-floor master with en suite, solid oak doors, and custom upgrades.
 
