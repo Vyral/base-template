@@ -24,7 +24,7 @@ There are many different ways to tap into the equity of your home. We’re going
 
 First, let’s talk about cashing out with a VA loan. A huge advantage of having a VA loan is that you are able to cash out up to 100% of your equity without having to pay taxes on it.
 
-If you’re self-employed, it doesn’t matter what type of loan you had in the past. With the new loans we have available, we can use your bank statements to qualify instead of having to use your tax returns. This lets you tap into that equity. **You used to have to wait to cash out that equity until you sell, but today we can help you cash out up to 90% loan-to-value.**
+If you’re self-employed, it doesn’t matter what type of loan you had in the past. With the new loans we have available, we can use your bank statements to qualify instead of having to use your tax returns. This lets you tap into that equity. **You used to have to wait to cash out on that equity until you sell, but today we can help you cash out up to 90% loan-to-value.**
 
 {% include pullquote.html %}
 
