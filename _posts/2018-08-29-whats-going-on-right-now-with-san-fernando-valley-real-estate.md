@@ -19,7 +19,7 @@ youtube_code: zc_6zALO724
 
 {% include youtube.html %}
 
-What’s actually going on in the San Fernando Valley right now? We’re going to look at that in detail today.
+<p style="text-align: cneter;"><em>What’s actually going on in the San Fernando Valley right now? We’re going to look at that in detail today.</em></p>
 
 There have been a lot of changes in the marketplace lately, so I wanted to give you an update on what’s actually going on right now. My friend Mark joined me to ask some questions about the current real estate market and what buyers and sellers can expect from the current shift that we’re seeing. **Here is an outline of what we discussed, with timestamps so you can skip ahead to the section(s) that interest you most:**
 
