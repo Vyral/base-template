@@ -31,10 +31,14 @@ Within the great room, you’ll find yourself before a large stone fireplace set
 
 {% include pullquote.html %}
 
-Moving on, the dry bar located in the hall between the kitchen and great room is the perfect feature to marry these spaces. Its custom maple cabinetry is the same as that found elsewhere throughout the home, such as in the kitchen—where you’ll also find a huge two-tier center island and plenty of storage solutions.  
+Moving on, the dry bar located in the hall between the kitchen and great room is the perfect feature to marry these spaces. Its custom maple cabinetry is the same as that found elsewhere throughout the home, such as in the kitchen—where you’ll also find a huge two-tier center island and plenty of storage solutions. &nbsp;
 
 With heated floors throughout, this home has everything you need including a main-floor master with en suite, solid oak doors, and custom upgrades.
 
-Of course, this is just a glimpse into its features. **To see everything we’ve mentioned yourself, feel free to watch our full tour in the video above.** You can also check out the listing for this property **[here.](https://www.zillow.com/homedetails/407-Caddy-Ave-Moorhead-MN-56560/89288293_zpid/){: target="_blank"}**
+**To see everything we’ve mentioned yourself, feel free to watch our full tour in the video above.** You can also check out the listing for this property **[here.](https://www.zillow.com/homedetails/407-Caddy-Ave-Moorhead-MN-56560/89288293_zpid/){: target="_blank"}**
+
+**Full Home Features:**
+
+- Oak Doors & Trim throughout<br>- Heated Floors throughout the main floor except for additional sunroom<br>- Vinyl Windows throughout<br>- Central Vac<br>- New Marathon Water Heater<br>- Brand New Upgrade Laminate Flooring<br>- Hardwired Back-Up Generator<br>- Fully Finished Heated Garage with Hot & Cold Water, Floor Drain & Heated Floors<br>- Curb Edging, Patio, Sprinkler System & Gas Hookup for the Grill<br>- Backs up to Hole 10 at the Moorhead Country Club<br>- HOA of $100 a month, paid quarterly. &nbsp;Covers Lawn Care, Snow Removal & Exterior Building Insurance
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
