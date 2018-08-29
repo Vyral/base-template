@@ -39,6 +39,16 @@ With heated floors throughout, this home has everything you need including a mai
 
 **Full Home Features:**
 
-- Oak Doors & Trim throughout<br>- Heated Floors throughout the main floor except for additional sunroom<br>- Vinyl Windows throughout<br>- Central Vac<br>- New Marathon Water Heater<br>- Brand New Upgrade Laminate Flooring<br>- Hardwired Back-Up Generator<br>- Fully Finished Heated Garage with Hot & Cold Water, Floor Drain & Heated Floors<br>- Curb Edging, Patio, Sprinkler System & Gas Hookup for the Grill<br>- Backs up to Hole 10 at the Moorhead Country Club<br>- HOA of $100 a month, paid quarterly. &nbsp;Covers Lawn Care, Snow Removal & Exterior Building Insurance
+* Oak Doors & Trim throughout
+* Heated Floors throughout the main floor except for additional sunroom
+* Vinyl Windows throughout
+* Central Vac
+* New Marathon Water Heater
+* Brand New Upgrade Laminate Flooring
+* Hardwired Back-Up Generator
+* Fully Finished Heated Garage with Hot & Cold Water, Floor Drain & Heated Floors
+* Curb Edging, Patio, Sprinkler System & Gas Hookup for the Grill
+* Backs up to Hole 10 at the Moorhead Country Club
+* HOA of $100 a month, paid quarterly. &nbsp;Covers Lawn Care, Snow Removal & Exterior Building Insurance
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
