@@ -21,7 +21,7 @@ youtube_code: nc0KvuHRU9Q
 
 Today we’re going to talk about how long it will take to sell your house in today’s market. According to Realtor.com, the average number of days on market is about 65 nationally. **However, there are some different factors that determine this number in your neighborhood:**
 
-**1. Location.** How close you are to a main street in your town or a major transportation hub like a Metro system, will play a huge role.
+**1. Location.** How close you are to a main street in your town or a major transportation hub, like a metro system, will play a huge role.
 
 **2. Price.** If you overprice your house, there will be much fewer buyers looking at it. You may also run into appraisal issues down the road.
 
@@ -31,6 +31,6 @@ Today we’re going to talk about how long it will take to sell your house in to
 
 **4. School districts.** This is a huge factor for buyers with children. A lot of people go on school rating websites to see how schools rank.
 
-**5. Walkability.** Is the home somewhere where you can walk to a Starbucks or a Trader Joe’s? Some buyers care a lot about this, while some don’t.
+**5. Walkability.** Is the home somewhere where you can walk to a Starbucks or a Trader Joe’s? Some buyers care a lot about this, while others don’t.
 
 These are the typical factors that determine how long a home will take to sell in our current real estate market. If you have any questions or are thinking about buying or selling a home in the area, don’t hesitate to reach out by phone or email. We’d be happy to help.
