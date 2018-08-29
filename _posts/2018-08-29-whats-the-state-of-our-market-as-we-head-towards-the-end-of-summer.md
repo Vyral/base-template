@@ -19,7 +19,7 @@ youtube_code: RhA76RAkZPQ
 
 {% include youtube.html %}
 
-<p center="text-align: center;"><em>In the last six months, our market has done very well. Here are the numbers to prove it.</em></p>
+<p style="text-align: center;"><em>In the last six months, our market has done very well. Here are the numbers to prove it.</em></p>
 
 We’re just about at the end of summer, and the latest numbers from our market look good.&nbsp;
 
