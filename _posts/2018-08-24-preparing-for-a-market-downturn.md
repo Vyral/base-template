@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing for a Market Downturn
-date: 2018-08-24 19:24:25
+date: 2018-08-24 19:24:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-things-to-prep-youtube.jpg
-youtube_code: I7-p5AANGGg
+youtube_code: lrJ12f_hFHc
 ---
 
 {% include youtube.html %}
