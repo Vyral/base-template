@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'With This 4-Step Guide, You’ll Learn How to Handle Objections'
-date: 2018-08-28 18:20:49
+date: 2018-08-28 18:20:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-28---michael-kaim---yt.jpg
-youtube_code: bqwj4ateK6s
+youtube_code: 1rUgw3_zfNU
 ---
 
 {% include youtube.html %}
@@ -27,6 +27,6 @@ As a real estate agent, whether you’re on a listing appointment or trying to s
 
 {% include pullquote.html %}
 
-1:43 - The difference between handling an objection and handling a condition. &nbsp;<br>2:31 - The four steps of handling an objection: acknowledge, ask questions, answer, and invite action.<br>6:03 - A role-playing demonstration of how two of our top agents, Nick Slattery and Jake Sudnick, handle objections.<br>6:27 - Scenario No. 1: “I have a friend in the business.”<br>8:11 - Scenario No. 2: “Can you cut your commission?”<br>10:58 - Scenario No. 3: “I’m going to wait until spring.”<br>13:39 - Scenario No. 4: “Do you have a buyer?” (for FSBOs)
+1:43 - The difference between handling an objection and handling a condition.  <br>2:31 - The four steps of handling an objection: acknowledge, ask questions, answer, and invite action.<br>6:03 - A role-playing demonstration of how two of our top agents, Nick Slattery and Jake Sudnick, handle objections.<br>6:27 - Scenario No. 1: “I have a friend in the business.”<br>8:11 - Scenario No. 2: “Can you cut your commission?”<br>10:58 - Scenario No. 3: “I’m going to wait until spring.”<br>13:39 - Scenario No. 4: “Do you have a buyer?” (for FSBOs)
 
 If you have any more questions about how to handle objections or there’s anything else we can help you with, don’t hesitate to call or email us. We’d love to speak to you.
