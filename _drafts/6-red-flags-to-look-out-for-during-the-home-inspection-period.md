@@ -22,7 +22,7 @@ youtube_code: Ng2Lk6sln-I
 
 {% include youtube.html %}
 
-The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.
+<center>The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.</center>
 
 A home inspection should catch any and all deal-breakers—right?
 
