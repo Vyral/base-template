@@ -21,7 +21,9 @@ youtube_code: vCmPeVzPdoU
 
 {% include youtube.html %}
 
-<center>Property taxes have been increasing over the past few years, causing some issues with buyers and sellers alike. Here’s what you should know.</center>
+<center><em>Property taxes have been increasing over the past few years, causing some issues with buyers and sellers alike. Here&rsquo;s what you should know.</em></center>
+
+&nbsp;
 
 I’ve been studying the real estate market for the last month, and in that time, I’ve noticed something: Several foreclosed properties have been going to auction—but the amount of jobs in the area hasn’t decreased. So what’s going on? It turns out the answer has to do with homeowner taxes.
 
