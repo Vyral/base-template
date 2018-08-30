@@ -32,7 +32,7 @@ Jeff spoke about how Houston has had **four “great” rainfalls in the last 38
 * Tax Day 2016: 23.5 inches in 12 hours
 * Hurricane Harvey 2017: 47.4 inches in four days (25.6 inches in 24 hours)
 
-Hurricane Harvey is now known as the biggest flood in American history. **The storm dumped enough water to be able to supply the entire U.S. for 26 days;** mind you, that was just over a 2,000 mile area. If we expand that to 10,000 miles, the numbers get unbelievable.
+Hurricane Harvey is now known as the biggest flood in American history. **The storm dumped enough water to be able to supply the entire U.S. for 26 days;** mind you, that was just over a 2,000-mile area. If we expand that to 10,000 miles, the numbers get unbelievable.
 
 {% include pullquote.html %}
 
