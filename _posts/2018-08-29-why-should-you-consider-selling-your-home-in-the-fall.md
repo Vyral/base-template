@@ -17,7 +17,7 @@ youtube_code: SDNHZtHA-uA
 
 {% include youtube.html %}
 
-There are three great reasons to sell your home in the fall:
+There are four great reasons to sell your home in the fall:
 
 **1. Buyers are more serious.** During the spring and summer, many buyers are more curious than actually committed to purchasing a property. On the other hand, buyers in the fall tend to be more serious. Many have been searching throughout the summer and have not found their perfect home yet. Others are simply forced to look for a new home because of a new job, a work relocation, or because they want to complete their move ahead of the holidays. In other words, fall buyers make up in dedication for what they might lack in numbers.&nbsp;
 
