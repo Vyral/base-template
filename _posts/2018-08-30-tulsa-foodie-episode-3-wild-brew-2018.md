@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   For this episode of “Tulsa Foodie,” you’ll need to bring your appetite and
   your beer mug.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Local+Food+and+Beer+for+a+Good+Cause.mp4
 pullquote: There are more than 50 breweries and 50 restaurants at this fun event.
 enclosure_type: video/mp4
 enclosure_time:
