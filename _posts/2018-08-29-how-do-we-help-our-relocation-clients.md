@@ -19,6 +19,8 @@ youtube_code: '-jgShVD8Qzg'
 
 {% include youtube.html %}
 
+Helping relocation clients is one of our specialties. Here’s an example of how we were recently able to help one such client.
+
 The topic we’re exploring today is one that we don’t usually talk about: relocation. Essentially, **relocation in real estate refers to homeowners who are displaced because of their job and need to sell their home but don’t have the time and energy to make sure it sells for top dollar.** In this situation, you really need to trust that the agent you hire is working in your best interests to get the house prepared, on the market, and sold.&nbsp;
 
 We recently helped a relocation buyer achieve their goals and we wanted to tell you about that today. The client had a home on Jonathan Court and had to leave before the home was ready to sell. He was really stressed out and nervous because he couldn’t get everything done before he had to start his new job. He had to put his trust in us that we would get the repair work completed and get the home sold for top dollar. The work included flooring, light fixtures, and front and back landscaping. This man interviewed five different agents, but not one of them offered to finish the projects for him. Our team did.
