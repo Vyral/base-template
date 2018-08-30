@@ -9,7 +9,7 @@ excerpt: >-
   we were recently able to help one such client.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%252C+CA+Real+Estate+-+Relocation.mp4
-pullquote: We got the home ready and got it sold within a week and a half.
+pullquote: We got the home ready and had it sold within a week and a half.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
