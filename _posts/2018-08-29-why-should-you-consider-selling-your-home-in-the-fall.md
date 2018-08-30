@@ -27,6 +27,6 @@ There are four great reasons to sell your home in the fall:
 
 **3. Perfect time for curb appeal.** The leaves are changing colors, the grass is still green, and your home looks its best. If you wait until the winter, the grass and trees might die, reducing your curb appeal.
 
-**4. It’s easier to buy and sell at the same time.** A lot of times, sellers are also buyers. If you sell in the fall, it’s also a great time to get a good deal on your next purchase. There are a lot of listings leftover from the summer, and those sellers are a bit more desperate for an offer. If we market your house properly and get it sold in a timely fashion, you can get out there and make an offer on a great house and get a good deal.&nbsp;
+**4. It’s easier to buy and sell at the same time.** A lot of times, sellers are also buyers. If you sell in the fall, it’s also a great time to get a good deal on your next purchase. There are a lot of listings left over from the summer, and those sellers are a bit more desperate for an offer. If we market your house properly and get it sold in a timely fashion, you can get out there and make an offer on a great house and get a good deal.&nbsp;
 
 If you have any questions about why the fall is such an opportune time for you to sell or about the home selling process in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
