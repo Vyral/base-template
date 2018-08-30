@@ -11,7 +11,7 @@ enclosure:
 pullquote: There are more than 50 breweries and 50 restaurants at this fun event.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-the-wild-brew-anniversary-youtube-1.jpg
 youtube_code: 'https://youtu.be/EGI-eFaTklI'
 ---
