@@ -19,7 +19,9 @@ youtube_code: fZLt9SSAKTI
 
 {% include youtube.html %}
 
-<center>Will you join us October 6 for a fun, free event at the Minnesota Zoo?</center>
+<center><em>Will you join us October 6 for a fun, free event at the Minnesota Zoo?</em></center>
+
+<center>&nbsp;</center>
 
 We’ve got exciting news to announce: You’re invited to the John Schuster Group’s first annual client appreciation event at the Minnesota zoo! Join us Saturday, October 6 for this free event, which is our way of thanking you for your business and trust over the years.&nbsp;
 
