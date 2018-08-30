@@ -33,4 +33,4 @@ At the end of the day, we wanted to make this the smoothest transaction possible
 
 **If you or someone you know is relocating in the near future, this is an area of specialty for our team.** If you need any help, we would be more than happy to help you just like we’ve helped our clients in the past. We will take over the stress and pressure of getting your home ready and sold so you can focus on your move.&nbsp;
 
-If you have any other questions in the meantime, don’t hesitate to give us a call or send us an email. We look forward oth hearing from you soon.
+If you have any other questions in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
