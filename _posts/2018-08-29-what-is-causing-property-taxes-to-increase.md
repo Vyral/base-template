@@ -21,6 +21,8 @@ youtube_code: vCmPeVzPdoU
 
 {% include youtube.html %}
 
+Property taxes have been increasing over the past few years, causing some issues with buyers and sellers alike. Here’s what you should know.
+
 I’ve been studying the real estate market for the last month, and in that time, I’ve noticed something: Several foreclosed properties have been going to auction—but the amount of jobs in the area hasn’t decreased. So what’s going on? It turns out the answer has to do with homeowner taxes.
 
 **Data shows that homeowner taxes, on average, were $3,400 in 2017, which is 3% higher than in 2016.** This increase in taxes has caused some real problems for people who purchased a home several years ago. Your property taxes may be higher or lower than $3,400, but the more important thing to focus on is how much they’ve increased since you purchased the home.&nbsp;
