@@ -19,7 +19,9 @@ youtube_code: 0IdopjAKHns
 
 {% include youtube.html %}
 
-<center>David Carter joined our real estate team in October 2016. Since then, he has found great success and he joined us recently to tell us how.</center>
+<center><em>David Carter joined our real estate team in October 2016. Since then, he has found great success and he joined us recently to tell us how.</em></center>
+
+&nbsp;
 
 We have an amazing real estate team that’s been in business for 15 years. Whether you already have a real estate license or not, I’d like to talk to you today about our team and why we’ve been so successful.
 
