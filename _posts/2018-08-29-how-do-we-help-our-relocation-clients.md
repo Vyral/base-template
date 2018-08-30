@@ -19,7 +19,7 @@ youtube_code: '-jgShVD8Qzg'
 
 {% include youtube.html %}
 
-Helping relocation clients is one of our specialties. Here’s an example of how we were recently able to help one such client.
+<center> Helping relocation clients is one of our specialties. Here’s an example of how we were recently able to help one such client.</center>
 
 The topic we’re exploring today is one that we don’t usually talk about: relocation. Essentially, **relocation in real estate refers to homeowners who are displaced because of their job and need to sell their home but don’t have the time and energy to make sure it sells for top dollar.** In this situation, you really need to trust that the agent you hire is working in your best interests to get the house prepared, on the market, and sold.&nbsp;
 
