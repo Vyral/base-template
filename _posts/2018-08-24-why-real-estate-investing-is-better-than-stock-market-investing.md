@@ -5,7 +5,8 @@ date: 2018-08-24 15:09:00
 tags:
   - Home Buyer Tips
 excerpt: 'What type of investing is better: real estate or stock market?'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Why+You+Should+Invest+in+Real+Estate.mp4
 pullquote: >-
   Most banks, if you are buying a rental property, will allow you to borrow 80%
   of that purchase so you only have to put down 20%.
