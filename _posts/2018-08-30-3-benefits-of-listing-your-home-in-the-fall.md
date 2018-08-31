@@ -24,7 +24,7 @@ youtube_code: jOfjegyjlXs
 
 <center><em>Did you know that selling in the fall presents certain advantages over other times of the year? Today we&rsquo;ll discuss the three main benefits of listing during this later season.</em></center>
 
- 
+&nbsp;
 
 Though the hot selling months of summer are almost behind us, fall is still a fantastic time to sell your home. There are three key reasons why this is the case:
 
@@ -34,6 +34,6 @@ Though the hot selling months of summer are almost behind us, fall is still a fa
 
 {% include pullquote.html %}
 
-**3. It’s easier to move up**. Those of you who are looking to sell in order to move on to a larger home may find it easier to do so during the fall. Certain listings have been sitting on the market for some time by this point, so many sellers are ready to make a deal. In other words, now may be the perfect time for you to earn a favorable price for your current property while also securing a great deal on your next home.
+**3. It’s easier to move up**. Those of you who are looking to sell in order to move up to a larger home may find it easier to do so during the fall. Certain listings have been sitting on the market for some time by this point, so many sellers are ready to make a deal. In other words, now may be the perfect time for you to earn a favorable price for your current property while also securing a great deal on your next home.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
