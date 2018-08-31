@@ -25,7 +25,7 @@ youtube_code: 0IdopjAKHns
 
 We have an amazing real estate team that’s been in business for 15 years. Whether you already have a real estate license or not, I’d like to talk to you today about our team and why we’ve been so successful.
 
-**We help our real estate agents become successful by providing the systems, marketing, leads, process, presentations, and operations that they need.**
+**We help our real estate agents become successful by providing the systems, marketing, leads, processes, presentations, and operations that they need.**
 
 If you’re interested in learning in how you could have a six-figure income and truly get paid for the amount of effort and work that you put in, then you need to learn just a little bit more about this opportunity. **Instead of listening to what I have to say, listen to what a very successful agent on our team has to say**.
 
