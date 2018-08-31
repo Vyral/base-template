@@ -23,9 +23,9 @@ youtube_code: RhA76RAkZPQ
 
 We’re just about at the end of summer, and the latest numbers from our market look good.&nbsp;
 
-Right now, **we have 371 pending sales, which is a great number for this time of a year and an indication that we’re in for a very good fall.** In the last six months, we’ve had 1,654 sales, and those numbers are good in all categories.&nbsp;
+Right now, **we have 371 pending sales, which is a great number for this time of year and an indication that we’re in for a very good fall.** In the last six months, we’ve had 1,654 sales, and those numbers are good in all categories.&nbsp;
 
-The price range with the most closed sales was $100,000 to $200,000 range, which had 839. Our biggest growth area has been in the $200,000 to $300,000 range, which had 441 closed sales. The price range that experienced the biggest increase percentage-wise was the $300,000 to $400,000 range, which had 164 closed sales. This means we’ve had a lot of move-up buyers closing on bigger, nicer homes these past few months.&nbsp;
+The price range with the most closed sales was the $100,000 to $200,000 range, which had 839. Our biggest growth area has been in the $200,000 to $300,000 range, which had 441 closed sales. The price range that experienced the biggest increase percentage-wise was the $300,000 to $400,000 range, which had 164 closed sales. This means we’ve had a lot of move-up buyers closing on bigger, nicer homes these past few months.&nbsp;
 
 If you haven’t made a move yet, there’s good news for you too. **Inventory has increased and created a nice balance between buyers and sellers.** Currently, there are 805 homes on the market.
 
