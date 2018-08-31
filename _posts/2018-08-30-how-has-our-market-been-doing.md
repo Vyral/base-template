@@ -23,7 +23,7 @@ youtube_code: MQfEA9far10
 
 Today I want to cover two topics: First, a recap of a special event we recently participated in, and second, an update on the market.
 
-**We just wrapped up our fifth annual community appreciation event and fundraiser for the MUSC Burned Children’s Fund**, and it was a blast. A ton of people came out to support the cause, and we met our goal of personally donating $5,000 to the fundraiser, and, in total, we raised a total of $22,000 for 22nd anniversary of the MUSC Burned Children’s Fund and for Camp “Can Do.”
+**We just wrapped up our fifth annual community appreciation event and fundraiser for the MUSC Burned Children’s Fund**, and it was a blast. A ton of people came out to support the cause, and we met our goal of personally donating $5,000 to the fundraiser, and we raised a total of $22,000 for the 22nd anniversary of the MUSC Burned Children’s Fund and for Camp “Can Do.”
 
 We had an opportunity to go down to the camp and visit the kids there. It turned out to be a life-changing event for me. We learned what kind of an impact this camp has had on the kids and how it has shaped and changed their lives. To learn more about this organization and the awesome cause they serve, [click here](https://www.musckids.org/patients-and-visitors/patient-and-family-resources/community-resources-and-support-groups/burned-childrens-fund).
 
@@ -41,7 +41,7 @@ Other areas like Goose Creek and Summerville have seen value appreciation of aro
 
 Overall, the market is healthy. Year over year, we haven’t seen any increase in sales; this is because we don’t have as much inventory on the market as we did last year.
 
-One thing I’ve noticed is that **some sellers have the perception that their home is worth way more than it really is.** If you look at active listings in the MLS, on average, they’re priced 11% higher per square foot than the homes that are actually selling. Those with realistic expectations of their home’s value are going under contract, while those who overestimate aren’t having as much success. T**hose sellers might feel like there’s a market bubble that has burst, but really, they’re just forced to be more realistic about their home’s value.**
+One thing I’ve noticed is that **some sellers have the perception that their home is worth way more than it really is.** If you look at active listings in the MLS, on average, they’re priced 11% higher per square foot than the homes that are actually selling. Those with realistic expectations of their home’s value are going under contract, while those who overestimate aren’t having as much success. **T****hose sellers might feel like there’s a market bubble that has burst, but really, they’re just forced to be more realistic about their home’s value.**
 
 If you have any questions about the market or our fundraising events, please reach out to me. I hope to hear from you soon.
 
