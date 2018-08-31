@@ -19,7 +19,7 @@ youtube_code: ApxuplFwJ8Q
 
 {% include youtube.html %}
 
-Buying a home isn’t cheap. Here are six different costs that you may not know about that are essential to any home purchase.
+<center>Buying a home isn’t cheap. Here are six different costs that you may not know about that are essential to any home purchase.</center>
 
 When you’re in the process of buying a home, **there are six essential things that you need to think about before making an offer on a property:**
 
