@@ -21,7 +21,7 @@ youtube_code: m9FuToJamhE
 
 {% include youtube.html %}
 
-I’m here today at the Toledo Geller interior design studio with Jessica and Virginia, who are with me to discuss a big topic—**empty nesting**. They have been in business together for 12 years, and their projects run the gamut from full house renovations, apartment renovations, and everything in between.
+I’m here today at the Toledo Geller interior design studio with Jessica and Virginia, who are with me to discuss a big topic—**empty nesting**. They have been in business together for 12 years, and their projects run the gamut from full house renovations, apartment renovations,&nbsp; and everything in between.
 
 Many of their clients are parents whose children have now moved away, leaving strong emotions and extra house space in their place. Together, Jessica and Virginia will discuss what topics and questions about empty nesting come up most frequently and how they help those going through this phase of their life.
 
