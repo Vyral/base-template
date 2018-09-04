@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Did We Learn From Hurricane Harvey?
-date: 2018-08-30 14:12:38
+date: 2018-08-30 14:12:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray--hurricane-harvey-1-year-later-youtube.jpg
-youtube_code: 'https://youtu.be/88Cl0HRJWtQ'
+youtube_code: 'https://youtu.be/hU1uGg-Ca2Y'
 ---
 
 {% include youtube.html %}
