@@ -4,7 +4,7 @@ title: 'The Seven Components of a Business Plan: Part 7'
 date: 2018-09-04 18:17:00
 tags:
   - Real Estate
-excerpt: It is time for the final component of our seven component of a business plan.
+excerpt: It is time for the final component of our seven components of a business plan.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/Coaching/Roanoke+Real+Estate+Agent-+The+Seven+Components+of+a+Business+Plan-+Part+7.mp4
 pullquote: >-
@@ -21,7 +21,7 @@ youtube_code: zOVLeFVqHNY
 
 Today marks the final installment into our series on the seven components of a business plan. This time, we are going to talk about processes and procedures.
 
-All business plans must incorporate a client relationship management system, also called a CRM. There are many CRMs available, such as Top Producer, Firepoint, BoomTown, or TigerLead, that you can choose from. Personally, we use Firepoint, because it can take your business take you from a small group to a large team.
+All business plans must incorporate a client relationship management system, also called a CRM. There are many CRMs available, such as Top Producer, Firepoint, BoomTown, or TigerLead, that you can choose from. Personally, we use Firepoint, because it can take your business from a small group to a large team.
 
 {% include pullquote.html %}
 
