@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/travis-chatwin-screenshot-no-play.jpg
+youtube_alternate_image: /uploads/travis-chatwin-screenshot-no-play-1.jpg
 youtube_code: Ng2Lk6sln-I
 ---
 
@@ -24,7 +24,7 @@ youtube_code: Ng2Lk6sln-I
 
 <center><em>The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.</em></center>
 
-&nbsp;
+ 
 
 A home inspection should catch any and all deal-breakers—right?
 
