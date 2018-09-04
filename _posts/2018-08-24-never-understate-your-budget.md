@@ -21,7 +21,7 @@ youtube_code: eti_wriDm6U
 
 When searching for a home, never understate your budget.
 
-What I mean by that is if you can afford a $240,000 house, tell your agent you can afford a $240,000 house. **Not being honest and upfront with your agent about your finances can lead to unnecessary headaches and wasted time.**
+What I mean by that is if you can afford a $200,000 house, tell your agent you can afford a $200,000 house. **Not being honest and upfront with your agent about your finances can lead to unnecessary headaches and wasted time.**
 
 For example, we recently worked with a husband and wife who said their budget to buy a house was $145,000. The wife preferred that budget because she didn’t want to spend over $1,000 for their monthly mortgage payment. However, this couple also wanted a house with land to expand on and one that didn’t need any repairs. In this market, that’s not a realistic expectation.
 
