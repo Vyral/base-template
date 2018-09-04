@@ -13,6 +13,8 @@ custom_links:
     url: /pricing/
   - title: FAQ's
     url: /faq/
+  - title: What Do Our Va's Sound Like?
+    url: /our-vas/
 
 client:
   name: 1000 Calls A Day
