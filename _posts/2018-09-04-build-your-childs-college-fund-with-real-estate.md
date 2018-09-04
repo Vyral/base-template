@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build Your Child's College Fund with Real Estate
-date:
+date: 2018-09-04 19:55:42
 tags:
   - Real Estate
 excerpt: >-
@@ -41,5 +41,3 @@ Thankfully, there are other ways to earn and save money, such as purchasing a re
 Ultimately, investing in real estate can act as an amazing college savings plan. If you’ve got a child or are planning on having one in the future, this is certainly something to consider.
 
 As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
