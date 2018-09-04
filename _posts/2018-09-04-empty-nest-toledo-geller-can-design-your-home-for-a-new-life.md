@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Empty Nest? Toledo Geller Can Design Your Home for a New Life
-date: 2018-08-07 14:48:39
+date: 2018-09-04 14:48:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Okrga0jnVDg
+youtube_code: m9FuToJamhE
 ---
 
 {% include youtube.html %}
