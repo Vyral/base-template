@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We in a Buyer’s or Seller’s Market?
-date: 2018-08-31 18:07:45
+date: 2018-08-31 18:07:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/8-31-market-update-yt.jpg
 youtube_code: 'https://youtu.be/bglmLNPBKqM'
 ---
 
