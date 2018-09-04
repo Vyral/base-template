@@ -67,10 +67,10 @@ socials:
   zillow_url: https://www.zillow.com/profile/The-Salas-Team/
   trulia_url: https://www.trulia.com/profile/danielle-py-salas-agent-philadelphia-pa-zgtl53p7/overview
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/philadelphia-real-estate-podcast-danielle-py-salas/id1434853893?mt=2
 
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: '-- MARKET -- Real Estate Careers and Training Podcast with -- CLIENT NAME --'
   categories: Education
   image: /img/podcast.jpg
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
