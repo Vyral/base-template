@@ -32,4 +32,4 @@ I recently joined my friend Sean to talk about the Clarksville market and answer
 
 4:50- If you’re looking to get an accurate valuation for what your home is worth, here’s where you should go.
 
-<br>**Thanks again to Sean for asking some great questions.** If you have any other questions for me in the meantime or need any assistance with buying or selling a home in the Clarksville area, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+**Thanks again to Sean for asking some great questions.** If you have any other questions for me in the meantime or need any assistance with buying or selling a home in the Clarksville area, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
