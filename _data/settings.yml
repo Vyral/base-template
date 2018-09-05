@@ -24,13 +24,15 @@ custom_links:
       https://wizehire.com/job/real-estate-sales-buyers-agent-in-woodbridge-va-5c28dad8bfe868eb?utm_source=jobroll&utm_medium=feed&utm_campaign=partners
   - title: Core Values
     url: /core-values/
-
 client:
   name: Allen Johnson
   license_number:
   about_markdown: >
-    AJ Team of Keller Williams Realty is made up of a group of experienced, hardworking and knowledgeable Real Estate professionals committed to selling some of the most desired homes in Northern Virginia, Maryland & DC. As our motto indicates, selling
-    these "right addresses" is our mission -- You Have The Dream, We Have The Address.
+    AJ Team of Keller Williams Realty is made up of a group of experienced,
+    hardworking and knowledgeable Real Estate professionals committed to selling
+    some of the most desired homes in Northern Virginia, Maryland & DC. As our
+    motto indicates, selling these "right addresses" is our mission -- You Have
+    The Dream, We Have The Address.
   market: Northern Virginia
   brand: AJ Team
   brokerage: Keller Williams Realty
@@ -50,10 +52,11 @@ sidebar_CTA:
 second_sidebar_CTA:
   - CTA_title2: Find the Right Team for You
     CTA_text2: >-
-      In order to have a successful real estate career, you need to find the right real estate team. We believe finding the right team shouldn't be complicated. Join the AJ Team today.
+      In order to have a successful real estate career, you need to find the
+      right real estate team. We believe finding the right team shouldn't be
+      complicated. Join the AJ Team today.
     CTA_link_text2: Read More
-    CTA_url2: >-
-      http://allenjohnsoncoaching.com/join-us-in-mentoring-the-next-generation-of-leaders.html
+    CTA_url2: 'https://allenjohnsoncoaching.com/find-the-right-team-for-you.html'
 lender:
   show_section: false
   header_text: Preferred Lender
