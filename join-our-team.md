@@ -11,62 +11,65 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-<p>Dear Fellow Real Estate Agent,</p>
+<p>Dear Future Team Member,</p>
 
-<p>We understand that you may be frustrated right now with your current brokerage or team. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and the life you deserve. You might lack the training, coaching, and mentoring to get you there.</p>
+<p>If you’re looking to take your life and career to the next level, today’s message is for you.</p>
 
-<p>Many agents, both seasoned and new, are overwhelmed with all the hours you need to work just to close a few deals or find new leads. Non-money generating tasks such as administrative work may even be taking up the time you could be create a consistent lead flow.</p>
+<p>Perhaps you’re a newly licensed Realtor searching for the perfect place to make your start, or you’re a seasoned agent not currently seeing the results you’d like. Maybe you aren’t currently in real estate at all but are ready to give working in the industry a try. </p>
 
-<p>If this sounds like you, you are not alone. In fact, 87% of real estate agents fail and return to their corporate world jobs because of this. Instead of trying to work more hours only to worry about how you will pay for your next grocery trip, you can work with The Stern Team. <strong>Our team has a successful retention rate of 90%, meaning that the people who join our team stay.</strong></p>
+<p>Of course, as those of you already working in real estate will know, finding success in real estate isn’t as simple as some might assume. In fact, statistics from the NAR concluded that 85% of newly licensed realtors leave their careers within two years. </p>
 
-<p>Why?</p>
+<p>Many agents, perhaps including yourself, become frustrated with the lack of support, lack of direction, and lack of resources they’re receiving from their current team or brokerage. <strong>Agents in this position find themselves faced with a host of problems—problems like:</strong> 
+<ol class="indent">
+<li>Having no accountability.</li>
+<li>Having no access to training.</li>
+<li>Having no idea when or where the next paycheck will come from.</li>
+</ol></p>
 
-<p>Because <strong>we focus on training first.</strong> When someone new comes on our team, they are put through 30-,60-, and 90-day onboarding programs so that they can learn not only our systems and processes, but also our scripts to help win over clients.</p>
+<p>If these problems sound familiar, it’s time for a change. You don’t have to be another statistic. </p>
 
-<p>As they learn each new piece, new team members meet with me weekly in a one-on-one setting to ensure that they have all the tools and resources to meet or exceed their goals.</p>
+<p>My name is Michael Wolters. I’m Director of Sales at the Stern Team, and <strong>I would like to offer you a path to the results, income, and success you deserve.</strong> </p>
 
-<p><strong>Our training works so well that it helps us to close on 300 homes per year.</strong> It also helped teach us how to generate anywhere between 700 and 1200 leads per month by doing daily lead generation as a team from 9 a.m. to 11a.m. All of this work helped every agent on our team in production make over $100,000 last year.</p>
+<p>The Stern Team has been consistently growing in both agent count and sales volume for the past 15 years, and, over that time, we’ve developed proven systems that allow our agents to work fewer hours and achieve the success they’ve always wanted. </p>
 
-<p>While many companies may offer onboarding promises, they don't provide a clear pathway for growth from an inside sales agent to a buyer's agent to a lead buyer's agent like we do. <strong>We can show you the track records of every agent on the team</strong> about how they developed in both a leadership and financial perspective.</p>
+<p><strong>Consider the stories of Marita, Jeremy and Troy who are three of the agents on our team.</strong> </p>
 
-<p>Our company has great knowledge and coaching available from the large database of over 3,000 people that agents have access to to the best performing Realtors in the State of Utah, as well as Josh Stern and Leigh Stern. They can help provide a level of knowledge that is not found anywhere else.</p>
+<p>Before joining the Stern Team, Marita was working 60 to 70 hours each week. But now, by utilizing our training and coaching platforms, she has become our lead buyer agent. She now works a normal 40-hour week, yet still consistently closes on more than 40 deals each year. </p>
 
-<p>We want to help you have a life worth living where you don't have to worry about your next paycheck. You can choose one of the following alternative routes:
-<ul class="indent">
-<li>Stay where you are at.</li>
-<li>Join a different brokerage.</li>
-<li>Get out of the business forever.</li>
-</ul></p>
+<p>Jeremy has a similar story. Less than a year ago, he was working with a different brokerage with little success. Now, as a listing agent on the Stern Team, Jeremy has closed 30 deals in just five months by leveraging the skills he learned through our on-boarding program. He’s doing so well with us that he’s about to become our first expansion agent in Tooele. </p>
 
-<p>However, <strong>joining The Stern Team with over 15 years of proven growth in both transactions and agent count, is the solution for for long-term prosperity.</strong></p>
+<p>Troy was a retail sales veteran with 20+ years of experience, but had long ago reached his career ceiling. Through a robust onboarding and training program, Troy has left the corporate world and successfully immersed himself into his new real estate career, with a thriving pipeline and unlimited income and development potential!</p>
 
-<p>Consider the stories of Marita and Jeremy, two agents on my team. Marita is now our lead buyer agent and has been working with us for two years. Before joining The Stern Team, she was working 60 to 70 hour weeks. By utilizing our training and coaching platforms, however, she is now consistently closing 40+ deals each year while working a normal 40-hour work week.</p>
+<p><strong>Here’s just a taste of what we offer our agents: </strong>
+<ol class="indent">
+<li>Opportunities for growth. </li>
+<li>Top-quality mentorship. </li>
+<li>A supportive, team-oriented culture. </li>
+<li>Consistent leads. </li>
+<li>Consistent income.</li>
+<li>One-on-one training.</li>
+<li>Financial, personal, and professional freedom.</li>
+</ol></p>
 
-<p>Jeremy, meanwhile, is a listing agent who was with a different brokerage less than a year ago. In just five months, he has closed 30 deals by using the tools he learned from his onboarding training. He is doing so well that he will be our first expansion agent in Tooele and is currently hiring his own listing agent.</p>
+<p>All of this and more will be available to you when you join the Stern Team. Instead of getting stuck spinning their wheels on administrative work or non-productive tasks, agents on our team see real, repeatable results—all thanks to our superior resources, training, systems, and culture.</p>
 
-<p>But don't just take my word for it. Our agents, when asked why they work with us at The Stern Team, have given many different reasons, such as:
-<ul class="indent">
-<li>Being on the number one team</li>
-<li>The opportunity for growth, culture, and the freedom to implement creative ideas</li>
-<li>Finding financial with great mentors to learn from while having fun</li>
-<li>Learning from the professionals to see how and what it takes to rise to the top</li>
-<li>Opportunity for professional growth</li>
-<li>Unlimited potential with the support needed to build</li>
-<li>Mentoring and opportunity</li>
-<li>Working with the best and to become the best</li>
-<li>Learning from the best</li>
-</ul></p>
+<p>Of course, you don’t have to take my word for it. The numbers speak for themselves. With 100% of agents in production on our team making over $100,000 last year, it’s no wonder that the Stern Team has a 90% retention rate. </p>
 
-<p>If you are making up to $1.5 million in volume currently, whether part-time or full-time, I want to talk to you because I know that you are a hard-working individual. <strong>I can show you on paper how you can work less hours by using our system</strong> and model of generating future business on a consistent basis to have the opportunity of a six-figure salary.</p>
+<p>We focus on training first. Agents who join us are put through a 30-, 60-, and 90-day onboarding program that teaches everything they’ll need to know in order to meet and exceed their goals. </p>
 
-<p>If you take the offer, you will be taken through our 30-, 60-, and 90- day process in a one-page document that focuses on the tasks and behaviors that you will be 100% proficient in at each check-in day. We call this your 20%. During this time, you will be trained for your future position. Starting with learning our scripts, systems, and dialogues to convert leads, you will then be trained on our buyer presentation. You will deliver it to our leadership to ensure consistency of our brand before you go out and set your own appointments so you can start earning your split of commission based on your position.</p>
+<p><strong>Here are just a few more reasons why joining us is the right next step for you.</strong> </p>
 
-<p><strong>Our goal is to have you in full production within 90 days.</strong> I can guarantee that you will have more leads than you know what to do with as you learn from the training how to convert them.</p>
+<p>The Stern Team operates with the support of some of Utah’s top-performing agents— and by drawing on their exclusive knowledge and leveraging our database of more than 3,000 people, we’re able to close an average 300 transactions per year. </p>
 
-<p>Of course, space is limited because I can't bring on 20 agents at one time. So if you are interested in joining our team, please feel free to give us a call or send us an email today. We look forward to speaking with you soon.</p>
+<p>I can guarantee that if you join us and follow the proven path we’ve laid out, you’ll have more leads than you know what to do with, as well as the opportunity to earn a six-figure income.</p>
+
+<p><strong>If you’re ready to start living your own success story, we need to talk.</strong> </p>
+
+<p>Of course, space is limited. So if you’re interested in joining our team and making a career move that will change your life, please feel free to give us a call or send us an email today. We look forward to hearing from you soon.</p>
 
 <p>Michael Wolters<br>
-<a href="mailto:michael@servingsaltlake.com">michael@servingsaltlake.com</a></p>
+<a href="mailto:michael@servingsaltlake.com">michael@servingsaltlake.com</a>
+</p>
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
