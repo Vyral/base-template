@@ -20,7 +20,7 @@ youtube_code: iWv18z27Wn0
 
 {% include youtube.html %}
 
-Our referral partners are essential and help us move transactions along quickly and smoothly. Here are those people who we want our clients to work with.
+<p style="text-align: center;"><em>Our referral partners are essential and help us move transactions along quickly and smoothly. Here are those people who we want our clients to work with.</em></p>
 
 In the real estate business, we like to have trusted contacts and resources that we can refer to our clients when they need help. Here is a rundown of the professionals that we refer our clients to.
 
