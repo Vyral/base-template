@@ -19,7 +19,7 @@ youtube_code: x8pAdF9QybY
 
 {% include youtube.html %}
 
-What is the difference between a pre-qualification and a pre-approval? A mortgage expert joins us today to explain.
+<center>What is the difference between a pre-qualification and a pre-approval? A mortgage expert joins us today to explain.</center>
 
 One of my clients recently asked about the difference between a pre-qualification and pre-approval, and today, Brian Cushing of Guild Mortgage has joined us to explain.&nbsp;
 
