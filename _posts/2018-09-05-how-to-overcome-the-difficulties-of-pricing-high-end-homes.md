@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Overcome the Difficulties of Pricing High-End Homes
-date: 2018-09-05 16:13:00
+date: 2018-09-05 04:13:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
