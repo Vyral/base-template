@@ -10,7 +10,7 @@ permalink: /strategy-call/
 
 <p>Dear Real Estate Agent:</p>
 
-<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in (area)?</p>
+<p>Are you looking for training that teaches you exactly what you need to do to sell homes specifically right here in {{site.data.settings.client.market}}?</p>
 
 <p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
