@@ -1,124 +1,149 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: '-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
 client:
   name: Stacy Esser
   license_number:
-  about_markdown: |
-    Stacy Esser is a distinguished Realtor® based in Tenafly, New Jersey. She has been providing her excellent marketing, merchandising, staging, negotiation, and consulting services to sellers and buyers of residential property in Bergen County for the last eight years. The Stacy Esser Group, a team of specialists is ranked No. 1 on the New Jersey Multiple Listing Service (NJMLS) and No. 1 in Tenafly with a sales volume of $80 million in 2017. 
-    
-    We believe our clients deserve the very best including marketing, communication & client services. Building relationships that last is our BIG WHY. We provide a proactive, comprehensive marketing plan accompanied by a five-star luxury client approach—no matter the price range. Everyone deserves a luxury experience.
-    
-    In 2013, Stacy founded Time to Stage which provides extensive complimentary staging to all her sellers. Quickly realizing that you can’t change the location or property size, Stacy set out to change the way a buyer feels about a home.  The result is a higher sale price in a shorter amount of time.  Anyone can list a home, we market the home. 
-    
+  about_markdown: >
+    Stacy Esser is a distinguished Realtor® based in Tenafly, New Jersey. She
+    has been providing her excellent marketing, merchandising, staging,
+    negotiation, and consulting services to sellers and buyers of residential
+    property in Bergen County for the last eight years. The Stacy Esser Group, a
+    team of specialists is ranked No. 1 on the New Jersey Multiple Listing
+    Service (NJMLS) and No. 1 in Tenafly with a sales volume of $80 million in
+    2017. 
+
+
+    We believe our clients deserve the very best including marketing,
+    communication & client services. Building relationships that last is our BIG
+    WHY. We provide a proactive, comprehensive marketing plan accompanied by a
+    five-star luxury client approach—no matter the price range. Everyone
+    deserves a luxury experience.
+
+
+    In 2013, Stacy founded Time to Stage which provides extensive complimentary
+    staging to all her sellers. Quickly realizing that you can’t change the
+    location or property size, Stacy set out to change the way a buyer feels
+    about a home.  The result is a higher sale price in a shorter amount of
+    time.  Anyone can list a home, we market the home. 
   market:
   brand: The Stacy Esser Group
   brokerage: Keller Williams Town Life
-  address: 25 Washington Street, Tenafly, NJ 07670
+  address: '25 Washington Street, Tenafly, NJ 07670'
   phone: 917-621-6794
   phone_type:
   phone2:
   phone2_type:
   email: stacy@stacyesser.com
-  url: http://www.stacyesser.com
-
+  url: 'http://www.stacyesser.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: mailto:complimentarymarketevaluations@gmail.com
+  first_CTA_URL: 'mailto:complimentarymarketevaluations@gmail.com'
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.stacyesser.com/homes-for-sale-search-advanced/
+  second_CTA_URL: 'http://www.stacyesser.com/homes-for-sale-search-advanced/'
   VR_form:
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
     CTA_url: complimentarymarketevaluations@gmail.com
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.stacyesser.com/homes-for-sale-search-advanced/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'http://www.stacyesser.com/homes-for-sale-search-advanced/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/stacy.esser
-  linkedin_url: https://www.linkedin.com/in/stacy-esser-6662a323/
-  gplus_url: https://plus.google.com/114571006509690461815
-  youtube_url: https://www.youtube.com/user/stacyessergroup/feed
-  twitter_url: https://twitter.com/stacyesser
-  instagram_url: https://www.instagram.com/thestacyessergroup/
-  pinterest_url: https://www.pinterest.com/stacyessergroup/
-  zillow_url: https://www.zillow.com/profile/Stacy-Esser/
-  trulia_url: https://www.trulia.com/profile/stacy-esser-agent-tenafly-nj-zgmdntzf/overview
-  yelp_url: https://www.yelp.com/biz/stacy-esser-at-keller-williams-valley-realty-woodcliff-lake
+  facebook_url: 'https://www.facebook.com/stacy.esser'
+  linkedin_url: 'https://www.linkedin.com/in/stacy-esser-6662a323/'
+  gplus_url: 'https://plus.google.com/114571006509690461815'
+  youtube_url: 'https://www.youtube.com/user/stacyessergroup/feed'
+  twitter_url: 'https://twitter.com/stacyesser'
+  instagram_url: 'https://www.instagram.com/thestacyessergroup/'
+  pinterest_url: 'https://www.pinterest.com/stacyessergroup/'
+  zillow_url: 'https://www.zillow.com/profile/Stacy-Esser/'
+  trulia_url: >-
+    https://www.trulia.com/profile/stacy-esser-agent-tenafly-nj-zgmdntzf/overview
+  yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#000000'
-  theme_color: '#B21C22'
+  theme_color: '#b21c22'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: white
-
+  shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
