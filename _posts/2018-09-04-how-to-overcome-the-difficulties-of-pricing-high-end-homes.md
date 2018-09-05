@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Overcome the Difficulties of Pricing High-End Homes
-date: 2018-09-04 16:13:34
+date: 2018-09-04 16:13:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -15,9 +15,10 @@ pullquote: >-
   you’re working with.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: lIA46kcLxV0
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/mikelafido-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
+youtube_code: DkOMLH8qXu4
 ---
 
 {% include youtube.html %}
@@ -37,5 +38,3 @@ Market analysis reports essentially provide a snapshot of how other luxury homes
 With all of this in mind, it’s also essential to remember the impact of the overall market. It’s crucial to keep market trends in mind when pricing a luxury home, just as you would for any other property.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
