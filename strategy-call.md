@@ -68,7 +68,7 @@ permalink: /strategy-call/
 <p>Sincerely,</p>
 <p>{{site.data.settings.client.name}}</p>
 
-<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/michael@servingsaltlake.com" onsubmit="return setReturn()">
 					<fieldset>
 						<label for="name">Name*</label> <input type="text" required="" name="name" />
 						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
@@ -78,6 +78,6 @@ permalink: /strategy-call/
 						<label for="state">State </label> <input type="text" name="state" />
 						<label for="message">How May I Help You?* </label><textarea name="message" required=""></textarea>
 						<input class="submit light-light" type="submit" value="Apply Now" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
-					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
+					<div class="hidden"><input type="hidden" value="michael@servingsaltlake.com" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>
 </div>
