@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Overpricing is the Worst Mistake an Agent Can Make
-date: 2018-09-04 19:35:41
+title: Why Overpricing Is the Worst Mistake an Agent Can Make
+date: 2018-09-04 19:35:00
 tags:
   - Lead Conversion
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/UJOVb_cbQxw'
 
 Have you ever heard of being the “third agent in?” This idea came about because **sometimes sellers will go through a couple of inexperienced agents before making a more informed choice.**&nbsp;
 
-Quality agents know that, in real estate, the client isn’t always right. While of course we take our clients wants and needs into account, we must also know how to be honest with them if their goals are unrealistic. Not all agents do this, though, which is where the idea of being the “third agent in” comes to play.&nbsp;
+Quality agents know that, in real estate, the client isn’t always right. While of course we take our clients wants and needs into account, we must also know how to be honest with them if their goals are unrealistic. Not all agents do this, though, which is where the idea of being the “third agent in” comes into play.&nbsp;
 
 Sometimes, a client will hire one agent who lets them price their home however they want, then, after that fails, hire a second agent who can only convince them to lower it slightly. When this second Realtor inevitably leaves the picture, **it’s time for a third agent to come in and present the client with something they might not want to hear.&nbsp;**
 
@@ -36,6 +36,6 @@ For your sake and your client’s, you should always set your sights ahead of th
 
 Actually, the lower the price you set from the start, the more offers you’ll get coming out of the gate. As I always say: You can’t underprice a house. Even if you put a home on the market for $1, someone would still come in and offer what the home is worth—assuming you’ve opened up the property to the market.&nbsp;
 
-The bottom line is this: If you know a seller’s pricing goals are unrealistic, don’t agree to them. **It’s easier to have an honest conversation about price at the beginning of the process than to have a conversation about price reductions later on.** It isn’t always easy to have this discussion, but it’s crucial.&nbsp;
+The bottom line is this: If you know a seller’s pricing goals are unrealistic, don’t agree with them. **It’s easier to have an honest conversation about price at the beginning of the process than to have a conversation about price reductions later on.** It isn’t always easy to have this discussion, but it’s crucial.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
