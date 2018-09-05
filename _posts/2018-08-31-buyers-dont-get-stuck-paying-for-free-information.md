@@ -18,6 +18,16 @@ youtube_code: r2CvshjIOFs
 
 {% include youtube.html %}
 
-Not long ago, I got a call from a consumer who had been looking at foreclosures online. They were on the site hoping to find a deal, but when they came across a property they liked, the website indicated that they would need to pay to see more information about it. This is a big red flag. Not only was this person being asked to give money for free information, the home they were looking at had sold two years ago. There are a ton of reputable websites out there, but if you ever come across one that asks for your credit card information: beware. To see my full message, watch this short video.
+Today’s consumers often wind up paying for information they could have gotten for free, all because they weren’t aware of their options.
+
+For instance, I was contacted not long ago by someone who had been browsing foreclosure properties online. They had turned to the site looking for deals, but when they tried to view information about a property they liked, they were prompted to pay for it.
+
+If you find yourself in this position, be careful. **There is no good reason why a website should ask for your credit card information in exchange for free public data.**
+
+Also, the information offered on these websites may not be accurate or up-to-date to begin with. In fact, the buyer who contacted me recently ultimately found out that the property they were looking at on the site had sold two years ago. This is absolutely unacceptable.
+
+To avoid this, partner with a qualified local agent. The right real estate professional will be able to point you toward reputable resources so that can find your dream, rather than another dead end.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
 &nbsp;
