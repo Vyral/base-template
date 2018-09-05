@@ -25,7 +25,7 @@ Did you know that 72% of buyers have equity in a home they need to sell before t
 
 Our recommendation is that you list your current home first and then submit a contingent offer on your next home once someone has made an offer on your listing.
 
-When you work with our team, we can guarantee that you’ll never wind up with two houses at once. To guarantee a smooth transition, we will help you synchronise your transactions so you close on both at the same time.
+When you work with our team, we can guarantee that you’ll never wind up with two houses at once. To guarantee a smooth transition, we will help you synchronize your transactions so you close on both at the same time.
 
 {% include pullquote.html %}
 
