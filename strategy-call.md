@@ -15,7 +15,7 @@ permalink: /strategy-call/
 <p>I invite you to subscribe to our free real estate agent training newsletter.</p>
 
 <p>Every two weeks, we publish helpful tips for you; which includes:
-<ol>
+<ol class="indent">
 <li>Real agent success stories</li>
 <li>Question and answer videos</li>
 <li>Highlights of our team training</li>
@@ -37,7 +37,7 @@ permalink: /strategy-call/
 <p>The same training they get will help you do it as well.</p>
 
 <p>So, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
-<ol>
+<ol class="indent">
 <li>Generate qualified seller leads</li>
 <li>Attract buyers who actually want to buy</li>
 <li>Convert more leads to appointments</li>
