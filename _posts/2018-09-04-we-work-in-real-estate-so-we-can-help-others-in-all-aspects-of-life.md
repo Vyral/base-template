@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Work in Real Estate So We Can Help Others in All Aspects of Life
-date: 2018-09-04 17:02:40
+date: 2018-09-04 17:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: aunmyh6MhDM
+youtube_code: p-DRxtQsOBI
 ---
 
 {% include youtube.html %}
 
 Here at the Margolis Team, we work in real estate because we love to help people.
 
-**One of the most enjoyable parts of the job is helping people learn about Kauai.** Sure, we can help you learn about its properties and negotiate for them on your behalf, but we also want to help you understand what life is like here, tell you about its great resources, and share what we’ve learned after living in Kauai for 15 years. This gives you all the support you need—not just in real estate, but in all aspects of your life here on the island. &nbsp;
+**One of the most enjoyable parts of the job is helping people learn about Kauai.** Sure, we can help you learn about its properties and negotiate for them on your behalf, but we also want to help you understand what life is like here, tell you about its great resources, and share what we’ve learned after living in Kauai for 15 years. This gives you all the support you need—not just in real estate, but in all aspects of your life here on the island.  
 
 When working with sellers, for instance, it’s rewarding to understand what their needs are and help them as if they were a member of our church or our family. We put our whole hearts into getting you the results you need, and when we get those results, it’s fulfilling for us as well. When we don’t get the results we want, we at least know we’ve given it our all.
 
@@ -34,5 +34,3 @@ One of the initiatives we’re working on right now is something called “Adopt
 It’s very fulfilling to be able to help these kids, and it is similar to what we experience when working with buyers and sellers. If you’d like to learn more about Aloha Angels or you’d like to help them with their mission, you can visit their website [AlohaAngelsKauai.org](https://alohaangelskauai.org/). It’s a great opportunity to interact with kids and share what you’ve learned with the next generation.
 
 As always, if you have any questions for us or you have any real estate needs, don’t hesitate to give us a call or send us an email. We’d love to help you.
-
-&nbsp;
