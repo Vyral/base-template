@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on the North Houston Market
-date: 2018-08-08 20:18:00
+date: 2018-09-05 08:18:00
 tags:
   - Real Estate
 excerpt: >-
