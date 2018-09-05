@@ -65,7 +65,7 @@ permalink: /strategy-call/
 
 <p>You are also welcome to subscribe to our Agent Training Podcast on iTunes and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 
-<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at Talent@RealEstateCareersInUtah.com </p>
+<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:Talent@RealEstateCareersInUtah.com">Talent@RealEstateCareersInUtah.com</a>. </p>
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
