@@ -32,7 +32,7 @@ To demonstrate our gratitude, we’ve put together a teacher’s survival basket
 
 You can nominate one of the great teachers in your life by liking our Facebook page, then commenting their name on our wall. We’ll announce the winning nominee on September 1 at 10 a.m., so don’t delay in sending us your pick.
 
-And it gets even better. **If your nominee was selected, you’ll accompany me on the Monday after we announced our winner (September 3)  to surprise them with the basket.**
+And it gets even better. **If your nominee was selected, you’ll accompany me on the Monday after we announced our winner (September 8) &nbsp;to surprise them with the basket.**
 
 We’re so excited to make the day of one educator a little brighter, so please help us make it happen by sending in your nomination and sharing this video with family and friends.
 
