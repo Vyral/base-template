@@ -30,7 +30,7 @@ permalink: /strategy-call/
 
 <p>That’s plenty of business to go around for all of us.</p>
 
-{ include strategy-photos.html }
+{% include strategy-photos.html %}
 
 <p>We’ve been fortunate to sell nearly 300 homes last year and our average agent earns $87,000 a year with us their first full year and over $130,000 in their second full year.</p>
 
