@@ -24,9 +24,9 @@ youtube_code: FEnQ4oFYBEo
 
 Especially within the last year or two, the topic of student loans has been virtually unavoidable. The significant expense that it takes for kids to go to school has been all over the media, and it’s no wonder why.
 
-Even though, for some, learning a trade may be the best option after high school, the option to attend college shouldn’t be costing our youth an arm and a leg. **Every parent wants the best for their child, but if what’s best for their child is going to college, financial difficulties can pose a major threat to this goal.**
+Even though learning a trade may be the best option after high school for some, the option to attend college shouldn’t be costing our youth an arm and a leg. **Every parent wants the best for their child, but if what’s best for their child is going to college, financial difficulties can pose a major threat to this goal.**
 
-There are a lot of college saving programs out there, but many of them have limitations on what you can do with the money you save. For example, if a child chooses a route in life that doesn’t include college, some savings program penalize will penalize them and their parents for not allocating the funds toward higher education.
+There are a lot of college saving programs out there, but many of them have limitations on what you can do with the money you save. For example, if a child chooses a route in life that doesn’t include college, some savings program will penalize them and their parents for not allocating the funds toward higher education.
 
 {% include pullquote.html %}
 
