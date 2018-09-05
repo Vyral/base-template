@@ -68,7 +68,7 @@ permalink: /strategy-call/
 <p>Sincerely,</p>
 <p>{{site.data.settings.client.name}}</p>
 
-<form method="post" class="home-value cta-forms" action="http://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
 					<fieldset>
 						<label for="name">Name*</label> <input type="text" required="" name="name" />
 						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
