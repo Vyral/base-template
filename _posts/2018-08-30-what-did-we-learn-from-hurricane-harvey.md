@@ -8,7 +8,8 @@ excerpt: >-
   One year after the destruction caused by Hurricane Harvey, I want to relay
   some great talking points about the storm itself, as well as precautions
   everyone should take in the even of future devastation.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Videos/Houston+Real+Estate+Agent-Houston+Real+Estate+Agent-+Hurricane+Harvey-+1+Year+Later.mp4
 pullquote: >-
   Just because you didn’t flood during Harvey, it doesn’t mean that you don’t
   face the risk of flooding in the future.
