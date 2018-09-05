@@ -37,8 +37,8 @@ sidebar_CTA:
   CTA_image_path: /uploads/dji-0013.jpg
   CTA_title: Want to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
-  CTA_link_text: Home Search Tool
-  CTA_url: 'https://www.beachandsunhomes.com/results-gallery/?sort=importdate&photo=1'
+  CTA_link_text: Home Search
+  CTA_url: 'http://search.beachandsunhomes.com/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
