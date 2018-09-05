@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin-screenshot-no-play-1.jpg
-youtube_code: Ng2Lk6sln-I
+youtube_code: pdUxZVLl58I
 ---
 
 {% include youtube.html %}
