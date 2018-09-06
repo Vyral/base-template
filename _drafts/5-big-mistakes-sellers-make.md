@@ -22,7 +22,7 @@ youtube_code: cBzp7QAZXSI
 
 {% include youtube.html %}
 
-Today I want to talk about the first of five common mistakes home sellers make when putting their house on the market.
+<center>Today I want to talk about the first of five common mistakes home sellers make when putting their house on the market.</center>
 
 I recently wrote an article describing the five biggest mistakes that sellers make when they put their homes on the market, and today I want to talk about just one and how future sellers can avoid making the same errors.
 
