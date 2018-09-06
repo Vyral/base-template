@@ -21,7 +21,7 @@ youtube_code: w4T3qoCX1Vs
 
 {% include youtube.html %}
 
-There are a few key questions you should be asking any potential agent before you hire them. Here are just three of them.
+<p style="text-align: center;"><em>There are a few key questions you should be asking any potential agent before you hire them. Here are just three of them.</em></p>
 
 If you want to hire the best agent to help you with your real estate transaction, there are a few questions you need to be asking before you hire one.
 
