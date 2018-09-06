@@ -25,7 +25,7 @@ youtube_code: x8pAdF9QybY
 
 One of my clients recently asked about the difference between a pre-qualification and pre-approval, and today, Brian Cushing of Guild Mortgage has joined us to explain.&nbsp;
 
-According to Brian, **a pre-qualification is much less in-depth than a pre-approval.** Pre-qualifications are generally done over the phone at the beginning of the lending process, and are essentially designed to give the lender and the buyer a preliminary idea of what they may qualify for. After getting some basic information, the lender can issue a pre-qualification letter indicating the buyer's potential position. However, **unlike in the case of a pre-approval, this initial opinion is unverified.&nbsp;**
+According to Brian, **a pre-qualification is much less in-depth than a pre-approval.** Pre-qualifications are generally done over the phone at the beginning of the lending process and are essentially designed to give the lender and the buyer a preliminary idea of what they may qualify for. After getting some basic information, the lender can issue a pre-qualification letter indicating the buyer's potential position. However, **unlike in the case of a pre-approval, this initial opinion is unverified.&nbsp;**
 
 Pre-approvals are similar to pre-qualifications, but differ in that they require the buyer to provide proof of their financial standing. Pre-approvals are verified with documentation. By looking at a buyer's credit, finances, employment status, and more, the lender will be able to address and tackle any potential issues from the start. This alleviates the potential for unpleasant surprises later on in the transaction.
 
