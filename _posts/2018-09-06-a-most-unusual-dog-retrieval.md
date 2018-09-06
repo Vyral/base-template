@@ -16,7 +16,7 @@ youtube_code: dtvSAQZPgHU
 
 {% include youtube.html %}
 
-Take a look at a pug named Chloe.
+<p style="text-align: center;"><em>Take a look at a pug named Chloe.</em></p>
 
 Sometimes when I talk to people about their favorite lake activities, they’ll mention that they have one or more dogs and that they prefer to have a property that’s dog-friendly. Some have dogs who swim, some that will only wade waist-deep, and others that won’t go near the water at all.
 
