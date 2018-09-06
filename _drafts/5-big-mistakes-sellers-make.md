@@ -22,6 +22,8 @@ youtube_code: cBzp7QAZXSI
 
 {% include youtube.html %}
 
+Today I want to talk about the first of five common mistakes home sellers make when putting their house on the market.
+
 I recently wrote an article describing the five biggest mistakes that sellers make when they put their homes on the market, and today I want to talk about just one and how future sellers can avoid making the same errors.
 
 The first and probably most common mistake is **overpricing your home.** How can you avoid overpricing your home, especially when emotions enter the equation? Well, knowing how to choose the right real estate professional isn’t just a gut feeling—you’ll need to look beyond what they say they do and pay attention to why they do it.&nbsp;
