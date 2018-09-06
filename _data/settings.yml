@@ -60,7 +60,7 @@ sidebar_CTA:
     CTA_text: Get started in the loan process by completing our short loan application.
     CTA_link_text: Apply Online
     CTA_url: >-
-      https://apply.amerifirstloan.com/#/signup?referrerId=rspring%40amerifirst.us
+      https://txportal.amerifirstloan.com/?loanapp&siteid=8219561637&workFlowId=31481&lar=rspring
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Choose Your Appointment Option
