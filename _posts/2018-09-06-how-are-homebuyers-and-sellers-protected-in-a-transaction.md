@@ -21,7 +21,9 @@ youtube_code: yk6AtnIUjy8
 
 {% include youtube.html %}
 
-<center>Contingencies protect homebuyers and sellers from making a bad deal. Here are five examples of these contingencies.</center>
+<center><em>Contingencies protect homebuyers and sellers from making a bad deal. Here are five examples of these contingencies.</em></center>
+
+<center>&nbsp;</center>
 
 How can you safeguard your investment when buying or selling a home? Most do it through contingencies. **Here are five contingencies that you can use to do this:**
 
