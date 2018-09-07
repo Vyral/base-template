@@ -19,3 +19,5 @@ youtube_code: l3f2pPQ0GG0
 Enjoy this aerial tour of Crystal Beach and Scenic Highway 98 in Destin, Florida. Crystal Beach is one of my absolute favorite locations along our coast—it’s a charming coastal town that really takes on a Nantucket feel. It’s low-density and welcoming to pedestrian, bicycle, and golf cart traffic all along Scenic Highway 98.
 
 What’s more is that you’re centrally located just south of the Destin Commons, one of the biggest hotspots for shopping and entertainment in the Destin area. For the complete aerial tour of this scenic coastal destination, watch this short video.
+
+For more great videos like this, **[subscribe to my channel](https://www.youtube.com/channel/UC1y00cFB4V9xULUkZMt5eSA){: target="_blank"}**.
