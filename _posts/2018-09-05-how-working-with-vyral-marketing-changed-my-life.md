@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are tremendous benefits to doing business with Vyral Marketing that I’d
   like to share with you.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+What+Vyral+Marketing+Can+Do+for+You.mp4
 pullquote: 'Once I found Vyral, it changed my life.'
 enclosure_type: video/mp4
 enclosure_time:
