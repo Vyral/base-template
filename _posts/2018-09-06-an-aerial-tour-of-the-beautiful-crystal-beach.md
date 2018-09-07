@@ -20,4 +20,4 @@ Enjoy this aerial tour of Crystal Beach and Scenic Highway 98 in Destin, Florida
 
 What’s more is that you’re centrally located just south of the Destin Commons, one of the biggest hotspots for shopping and entertainment in the Destin area. For the complete aerial tour of this scenic coastal destination, watch this short video.
 
-For more great videos like this, **[subscribe to my channel](https://www.youtube.com/channel/UC1y00cFB4V9xULUkZMt5eSA){: target="_blank"}**.
+For more great videos like this, **[subscribe to my YouTube channel](https://www.youtube.com/channel/UC1y00cFB4V9xULUkZMt5eSA){: target="_blank"}**.
