@@ -16,7 +16,7 @@ youtube_code: yFCMmdgQZac
 
 {% include youtube.html %}
 
-Interest rates are expected to rise, but how much?
+<p style="text-align: center;"><em>Interest rates are expected to rise, but how much?</em></p>
 
 Today I want to take a minute to talk about interest rate predictions.
 
