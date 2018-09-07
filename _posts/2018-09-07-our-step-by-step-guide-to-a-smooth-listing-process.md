@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Step-by-Step Guide to a Smooth Listing Process
-date:
+date: 2018-09-07 15:14:58
 tags:
   - Home Seller Tips
   - Real Estate
@@ -47,5 +47,3 @@ After the 21-day mark, we’ll start taking a closer look at what buyers are say
 **If you have any questions at any time during this process, don’t hesitate to reach out to myself or my listing coordinator, Brittney.**
 
 We really appreciate your business and are thrilled to get started. If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you.
-
-&nbsp;
