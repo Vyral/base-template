@@ -29,7 +29,7 @@ Another benefit of using the Burks Team is that **all of our agents do weekly tr
 
 At the Burks Team, **we also specialize.** We have buyer specialists who only work with buyers to help them find a new home. Meanwhile, you can work with one of our listing agents if you need to sell your home. They will look at market values and what your home may be worth in order to get you a better price. We also have a full-time marketing coordinator, a professional photographer, and three closing coordinators to help us complete your transaction smoothly.
 
-**Another thing that we offer that is unique to the Burks Team is our “Love It or Leave It” guarantee.** We guarantee that you are going to love your home, but if for some reason you don't, you can call us back within 365 days and we will relist it for free if you buy another home of equal or greater value. We will eat both sides of the commission to get you out of that home and into a home that you love.
+We guarantee that you are going to love your home, but if for some reason you don't, you can call us back within 365 days and we will relist it for free if you buy another home of equal or greater value. We will eat both sides of the commission to get you out of that home and into a home that you love.
 
 {% include pullquote.html %}
 
