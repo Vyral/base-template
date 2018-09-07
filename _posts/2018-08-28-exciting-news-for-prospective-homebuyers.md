@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/daniel-dixon--unique-home-buying-option-youtube.jpg
+youtube_alternate_image: /uploads/daniel-dixon--home-ownership-youtube.jpg
 youtube_code: 'https://youtu.be/h733Ykt4_LA'
 ---
 
