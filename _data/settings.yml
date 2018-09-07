@@ -44,7 +44,7 @@ client:
   email: careers@AJTeamRealty.com
   url: 'http://AJTeamRealty.com'
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/005.jpg
+  - CTA_image_path: /img/contact.jpg
     CTA_title: Become A Part of The AJ Team
     CTA_text: Are you interested in furthering your real estate sales career?
     CTA_link_text: Contact Us
