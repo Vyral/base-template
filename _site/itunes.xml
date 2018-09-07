@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Stacy Esser</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>http://stacyesserrealestateblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://stacyesserrealestateblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Stacy Esser Group - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Stacy Esser</managingEditor>
-    <lastBuildDate>2017-12-22 14:52:04 -0600</lastBuildDate>
+    <lastBuildDate>2018-09-07 14:59:44 -0500</lastBuildDate>
     <media:copyright>Stacy Esser</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://stacyesserrealestateblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,48 +18,328 @@
     </itunes:owner>
     <itunes:author>Stacy Esser</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://stacyesserrealestateblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Stacy Esser Group - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Market Update</category>
+        <title>Which Professionals Should You Hire to Assist You With a Property Tax Appeal?</title>
+        <link>http://stacyesserrealestateblog.com/which-professionals-should-you-hire-to-assist-you-with-a-property-tax-appeal.html</link>
         
           <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-09-05 14:34:14 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Continuing our previous discussion on reassessing property taxes, we’ll be talking today about the other professionals (besides a lawyer) you may need to hire during this process. If you haven’t already seen the first part of our conversation on this topic, you can get up-to-speed by checking it out right here.
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific points at your leisure:
+
+00:26 - The professionals you may need to call, and how you’ll know whether their services are necessary.
+
+1:04 - What qualifies as a comparable property.
+
+3:44 - How and when a professional appraiser can help.
+
+4:54 - Other professionals you may need to hire and why.
+
+6:04 - How the appeal process works.
+
+9:03 - The next level of appeal.
+
+10:21 - Limitations and other outcomes to consider during the appeal process.
+
+13:13 - The cost-benefit ratio of working with professionals.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’ll be covering even more important points to think about if you’re considering a property tax appeal.</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>Today we’ll be covering even more important points to think about if you’re considering a property tax appeal.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Empty Nest? Toledo Geller Can Design Your Home for a New Life</title>
+        <link>http://stacyesserrealestateblog.com/empty-nest-toledo-geller-can-design-your-home-for-a-new-life.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-09-04 09:48:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Empty+Nest%253F+Toledo+Geller+Can+Design+Your+Home+for+a+New+Life.mp4</guid>
+        <description>
+
+I’m here today at the Toledo Geller interior design studio with Jessica and Virginia, who are with me to discuss a big topic—empty nesting. They have been in business together for 12 years, and their projects run the gamut from full house renovations, apartment renovations,  and everything in between.
+
+Many of their clients are parents whose children have now moved away, leaving strong emotions and extra house space in their place. Together, Jessica and Virginia will discuss what topics and questions about empty nesting come up most frequently and how they help those going through this phase of their life.
+
+““How?” How can an empty-nester adjust to their new life and use their home to the fullest?”
+
+For myself, almost 65% of my clients are empty-nesters, and the first question almost all of them have for me is simply, “How?” How can an empty-nester adjust to their new life and use their home to the fullest?For your convenience, I have included timestamps below so that you can skip around to the portions of the conversation that interest you most.
+
+
+  1:40—How Toledo Geller tackles the question, “What do I do now?”
+  4:00—The craziest thing an empty-nester has ever asked for.
+  6:20—The reason people hire Toledo Geller for their design needs: No “copy and pasting.”
+  8:40—Customizing closets.
+  10:00—In terms of pricing, what is the range that clients can work within?
+  11:05—When is the best time for an empty-nester with a house on the market to contact Toledo Geller?
+
+
+This was simply the first of a line of videos I’ll be posting with regards to to empty nesting and how we can help you through the process.
+
+I’d like to thank Jessica and Virgina for their time and insight today. For more photos of their work and instructions on how you can set up a consultation with them, you can visit their website here.
+
+Otherwise, if you have any questions about real estate, empty nesting, or other topics you’d like me to address, don’t hesitate to reach out to me. I’d love to answer your questions, and if we choose your topic for a future video, we’ll send you a gift! We hope to hear from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Empty+Nest%253F+Toledo+Geller+Can+Design+Your+Home+for+a+New+Life.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Empty+Nest%253F+Toledo+Geller+Can+Design+Your+Home+for+a+New+Life.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Watch my interview with Virginia and Jessica from the Toledo Geller interior design studio to see how they help empty-nesters adjust to their new lives.</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>Watch my interview with Virginia and Jessica from the Toledo Geller interior design studio to see how they help empty-nesters adjust to their new lives.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Expert Answers All of Your Questions About Appealing Your Property Tax</title>
+        <link>http://stacyesserrealestateblog.com/an-expert-answers-all-of-your-questions-about-appealing-your-property-tax.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-08-29 15:41:12 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/The+Stacy+Esser+Group-+An+Expert+Answers+All+of+Your+Questions+About+Appealing+Your+Property+Tax.mp4</guid>
+        <description>
+
+Appealing your property tax assessment is a challenging topic, which is why I’m joined today by attorney Eliot Malone to discuss everything you need to know about it.
+
+“The closer your property’s equalization ratio is to 100%, the more likely your appeal will fail.”
+
+I’ve provided timestamps of the video above so you can jump ahead to the sections of our conversation that interest you the most:
+
+1:04 - What is a tax appeal?
+
+2:50 - When can you appeal your property tax assessment?
+
+3:15 - What steps do homeowners need to take to appeal their tax assessment?
+
+6:15 - What is the equalization ratio and when does it change?
+
+8:20 - When does a town change its equalization ratio?
+
+10:34 - Why don’t towns want tax appeals?
+
+14:15 - Will the town reassess when a home is sold?
+
+16:01 - Is it true that it’s not a good idea to argue your assessment when your home is for sale?
+
+17:56 - How do tax attorneys charge for their services?
+
+If you have any more questions for Elliot, you can give him a call at (201) 608-5221 or email him at em@emalonelaw.com.
+
+As always, if you have any other questions for me, feel free to call or email me anytime. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/The+Stacy+Esser+Group-+An+Expert+Answers+All+of+Your+Questions+About+Appealing+Your+Property+Tax.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/The+Stacy+Esser+Group-+An+Expert+Answers+All+of+Your+Questions+About+Appealing+Your+Property+Tax.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To answer your most pressing questions about property tax appeals, I’ve invited attorney Elliot Malone to join me today.</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>To answer your most pressing questions about property tax appeals, I’ve invited attorney Elliot Malone to join me today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What A Fully Staged Room Looks Like</title>
+        <link>http://stacyesserrealestateblog.com/what-a-fully-staged-room-looks-like.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-07-25 09:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/What+A+Fully+Staged+Room+Looks+Like.mp4</guid>
+        <description>
+
+I am joined once again today by Shani Weiss, our top stager and designer. She tells us what a stager does to change a home from a place with specific, personal decor to something a potential buyer could see themself living in from the moment they walk in.
+
+Shani begins her process by removing everything from a listing’s rooms. She then replaces it with other furniture and decor that won’t overpower the space. She works with the current homeowners to decide what they can do to help the home sell easier.
+
+“Shani tells us what a stager does to change a home from a place with specific, personal decor to something a potential buyer can see themselves living in as soon as they walk in.”
+
+You can see a bright and open flow from the kitchen into the family room for the home featured in today’s video, in particular. In this case, she makes the home more modern and contemporary with fresh white paint on the fireplace and encourages natural lighting by removing the window coverings. This creates a focal point for the potential buyers to see as opposed to looking at the furniture. Shani says that when you are staging a home the family room should be a place where people imagine not only relaxing and being comfortable, but can also see themselves entertaining and being themselves.
+
+Shani tells us that almost all of the furniture she has brought in is owned by the staging company. However, they do make strategic business partners so that they have access to certain pieces without purchasing them. Home Dynamix, for example, owns all the rugs that they use for staging purposes. She says that she prefers to use Wayfair because they have great customer service.
+
+If you have any further questions about staging or are thinking about buying or selling, please feel free to contact us. My team and I would be happy to assist you in any way that we can.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/What+A+Fully+Staged+Room+Looks+Like.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/What+A+Fully+Staged+Room+Looks+Like.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you ever wondered what exactly a stager does to get your home sold? Shani Weiss joins me today to show you the result of her staging expertise.</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>Have you ever wondered what exactly a stager does to get your home sold? Shani Weiss joins me today to show you the result of her staging expertise.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can a Coffee Table Help You Sell Your Home?</title>
+        <link>http://stacyesserrealestateblog.com/how-can-a-coffee-table-help-you-sell-your-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-07-13 12:24:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/How+Can+a+Coffee+Table+Help+You+Sell+Your+Home%253F+(1).mp4</guid>
+        <description>
+
+Today I’m joined by our team’s top designer and stager, Shani Weiss, to continue our discussion on styling a home. For this segment of our conversation, we’ll be specifically focusing on the importance of coffee tables.
+
+At this point, you may be wondering: What makes a coffee table so important to selling a home?
+
+What most people don’t realize is that coffee tables serve as the focal point for socialization in a room. This is why people spend so much time and energy determining what to put on top of this central surface. Or, in many cases, what not to put on it.
+
+“When it does come time to go live on the market, a successfully staged home will tend to sell quickly and for top dollar.”
+
+Some will advise you to remove every single personal item and knick-knack from on top of your coffee table. However, a completely empty coffee table will look adequate at most. And at the Stacy Esser Group, we don’t settle for things being “just fine.” We believe that homes should look phenomenal, not mediocre.
+
+The best way to style a coffee table is actually to, first of all, make it reflect your personality, and second, to pick four points that lead to all other visual aspects of the room. You can see how this works in a real-life application by referencing the video above.
+
+From a design perspective, everything you place on a coffee table should be done with purpose. This is certainly the case for how Shani approaches staging projects. She keeps in mind not only how the space will appear in person, but how decor pieces will impact the way a space will look in photographs.
+
+It’s also important that staging not interfere with the seller’s lifestyle while they’re still occupying the home. This is why Shani finds it so important to get to know clients. Forming this kind of organic connection will foster a more successful and pleasant experience for everyone involved. Then when it does come time to go live on the market, a successfully staged home will tend to sell quickly and for top dollar.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/How+Can+a+Coffee+Table+Help+You+Sell+Your+Home%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/How+Can+a+Coffee+Table+Help+You+Sell+Your+Home%253F+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Coffee tables often act as a room’s central design element, but did you know that a well-staged coffee table can help you sell your home? Today we’ll be continuing our discussion with expert stager Shani Weiss to find out how.</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>Coffee tables often act as a room’s central design element, but did you know that a well-staged coffee table can help you sell your home? Today we’ll be continuing our discussion with expert stager Shani Weiss to find out how.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the Difference Between Neutralizing a Home and Sterilizing It?</title>
+        <link>http://stacyesserrealestateblog.com/whats-the-difference-between-neutralizing-a-home-and-sterilizing-it.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-06-27 13:02:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+the+Difference+Between+Neutralizing+a+Home+and+Sterilizing+It%253F.mp4</guid>
+        <description>
+
+Our team’s head stager, Shani Weiss, and I are back at our beautiful listing at 24 Lincoln Street in Demarest, New Jersey to show you the difference between sterilizing a home and neutralizing it before it’s on the market.
+
+To demonstrate how we approach every room, we will focus on this home’s living room. When we did our initial consultation, the room had beautiful red damask wallpaper. That wallpaper, though, was too specific, so we painted the room in a nice, neutral color. Once we decluttered the room, we also found some gorgeous furnishings that were owned by the homeowner.
+
+From there, we decided extra furniture was unnecessary. All it needed was some trendy items and accessories (pillows, fabrics, etc.) to make it come alive. We always try to stay on trend and add color to rooms to help them visually pop, and here we refashioned the room’s white sofa by adding a few cerulean blue pillows. Suddenly, that traditional sofa became a more updated, more transitional sofa.
+
+“We always try to stay on trend and add color to rooms to help them visually pop.”
+
+Someone without our unique perspective on design and home sales might have just taken everything out of this room, which would have been sterilizing it instead of neutralizing it.
+
+Across the room, you will see a bench that was originally in another part of the home that Shani added to the room because its color matched that of the added pillows. Between those two items, you will see a big, empty coffee table that Shani was able to make more exciting, personable, and marketable.
+
+But that is a story for our next video, so stay tuned for the next installment of our home staging series.
+
+In the meantime, if you have any questions about home staging or you are thinking of buying or selling a home soon in our market, please feel free to reach out to us. My team and I would love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+the+Difference+Between+Neutralizing+a+Home+and+Sterilizing+It%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+the+Difference+Between+Neutralizing+a+Home+and+Sterilizing+It%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is the difference between sterilizing and neutralizing a home?</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>What is the difference between sterilizing and neutralizing a home?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Does a Home Stager Benefit Both Buyers and Sellers?</title>
+        <link>http://stacyesserrealestateblog.com/how-does-a-home-stager-benefit-both-buyers-and-sellers.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Stacy Esser</author>
+        <pubDate>2018-05-17 12:39:25 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What kind of opportunities can a top real estate team and a top designer/home stager working in tandem offer buyer and sellers? Our head stager, Shani Weiss joins us today at one of our new listings at 24 Lincoln Street in Demarest, New Jersey to answer that question.
+
+When we work with sellers, we often talk about the benefits of staging a home. More specifically, we talk about how we can take the home back to what made them fall in love with it in the first place. Sometimes this process can be difficult because we have to explain to them what might not work in terms of how to stage and sell their home.
+
+“A good home stager will give prospective buyers a visual roadmap about what makes your home beautiful.”
+
+Once they tell us what they loved about the home when they first bought it, though, we tell them to take a second look around. What they usually see is 20 years’ worth of stuff.
+
+That’s when Shani steps in. After our listing appointment, she comes to the house and gives the seller room-by-room consultation, asking the same question for each room that we asked about the house in general.
+
+After that, she offers the seller her advice in terms of how they should declutter, which can be tricky. According to her, this is why it’s much harder to stage a resale home than a new construction home. She always makes sure to reassure the seller that her job isn’t to get rid of their memories. Rather, it’s to give prospective buyers a visual roadmap about what makes the home beautiful.
+
+Sometimes sellers are concerned that removing certain items from certain areas of their home will leave that area looking sterile. When a stager, a Realtor, and a home seller work together, though, their objective is to neutralize rather than sterilize.
+
+In our next video, we’ll show you what it means to neutralize a home in order to improve its sale potential.
+
+In the meantime, if you have any questions about this topic or you’re thinking of buying or selling a home in our market, don’t hesitate to reach out to us. We’d be glad to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can home staging help buyers and sellers?</itunes:subtitle>
+        <itunes:author>Stacy Esser</itunes:author>
+        <itunes:summary>How can home staging help buyers and sellers?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s in a Zestimate?</title>
+        <link>http://stacyesserrealestateblog.com/whats-in-a-zestimate.html</link>
         
           <category>Home Seller Tips</category>
         
         <author>Stacy Esser</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-03-15 13:19:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+in+a+Zestimate%253F.mp4</guid>
         <description>
 
-}
+Today we’re going to focus on Zillow. More specifically, their Zestimate. What is it? Essentially, it’s a starting point for determining the value of your home. Zillow will predict the value of your home, and people ask me all the time if this prediction is reliable. Let’s take a bit of a deeper look.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Basically, the Zestimate pulls from two data sources: The first is user-submitted data and the second is public data. The public data comes out of tax records or the MLS, but the user submitted data is something to focus on. A homeowner can change the user submitted data for their home. In doing that, they can manipulate and affect the price that Zillow comes up with for your house.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Once you go into Zillow and claim your house, you can go in and change the facts. Maybe you’ve made an improvement since your recent public data was pulled and you want to add to your home’s value. Once you do this, Zillow will update the value of your house within 24 hours.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+“Any homeowner can change the user-submitted data for their home.”
 
-“This is an example of a pull quote”
+Now you know how to manipulate the Zestimate a bit, but does that make it any more accurate? Listen to this. In 2016, the CEO of Zillow went and sold his house for more than 40% less than his Zestimate. That’s a pretty clear indicator that the Zestimate is not very accurate. It’s definitely not an appraisal. It would be called a “Zappraisal” in that case.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Nevertheless, we do use Zestimates to give us an idea of a property’s value. They have a lot of valuable data, but it’s not the end-all-be-all of pricing. Zestimates are more accurate in certain areas than others,** you can check the accuracy chart for your area here.** Make sure you claim your home if you haven’t yet as well.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+In the meantime, if you have any questions about the market value of your home, we would love to help. We are local experts that can help you understand the value of your home, your neighborhood, and the current market conditions.
+
+If you have any other questions in the meantime, don’t hesitate to reach out to me. I look forward to hearing from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+in+a+Zestimate%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://stacyesserrealestateblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Whats+in+a+Zestimate%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Are Zestimates a reliable indicator of home value? You’ll find out today.</itunes:subtitle>
         <itunes:author>Stacy Esser</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Are Zestimates a reliable indicator of home value? You’ll find out today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
