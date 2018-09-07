@@ -23,13 +23,19 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Contract to Close - Checklists to Closings, Reviews and Referrals, April 2018** — [Video](https://www.youtube.com/watch?v=hKcA6bPpmkQ&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/nflig5ii1dpo6lb/AAC5S3PR-giDt5PXEMFmEN4Na?dl=0)
+**Contract to Close - Checklists to Closings, Reviews and Referrals, April 2018** — [Video](https://www.youtube.com/watch?v=HdJQ1mRWHeg&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/i31bxi6ugd79dff/AAC2sgoKh_1CBH2hEzymH1PHa?dl=0&preview=Aug+18+-+Time+Management.ppt)
 
-As we head into the late spring and summer months, it can be difficult to think about implementing the systems and structure needed to help you grow your business in the future. Creating a system of checklists is a crucial part of delegating a “wow” experience for your client, especially as you continue to onboard new agents. If you’re struggling to create a consistent client experience, I encourage you check out this 30-minute webinar discussing “Contract to Close - Checklists to Closings, Reviews and Referrals”.
+We all know that time management is the key to delegating, working less, having more fun, and increasing profits. The question is, how do we achieve it? It may seem counterintuitive, but the first step in freeing up your time is by implementing structure. If you are looking for more insight on how to increase your productivity and manage your time, I encourage you to watch this 30-minute webinar covering what it takes to effectively manage your time. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKcA6bPpmkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HdJQ1mRWHeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Previous Webinars:
+
+**Profit and Loss- the Form You Will Learn to Love, August 2018** — [Video](https://www.youtube.com/watch?v=S2eBO6Obu1w&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/7puesyv4x62wr2c/AADFIISCJ6hO7m7Z0hxtD-JFa?dl=0&preview=July+18+-+The+P_L+PPT.ppt)
+
+**Touch Points to Explode Your Referrals, July 2018** — [Video](https://www.youtube.com/watch?v=StHHN_OVfD0&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/oecpirfk4mrvgce/AAAd1mRidOJRfGtYTggb1a_Ka?dl=0&preview=June+18+-+Touchpoints+to+WOW+Your+Clients.pptx)
+
+**How to Access the Luxury Market, June 2018** — [Video](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0) — [Resources](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0)
 
 **Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money, March 2018** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
