@@ -20,7 +20,7 @@ youtube_code: ftaYyybsi2I
 
 {% include youtube.html %}
 
-To sell your home for top dollar in our market, declutter and clean the inside and make sure the outside has great curb appeal.
+<center>To sell your home for top dollar in our market, declutter and clean the inside and make sure the outside has great curb appeal.</center>
 
 If you want to sell your home for top dollar, here are three tips that will help you do so.
 
