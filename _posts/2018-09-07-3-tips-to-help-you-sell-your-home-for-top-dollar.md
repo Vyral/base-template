@@ -12,7 +12,7 @@ pullquote: Make sure you keep up with your lawn maintenance.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/bryan-and-scott-colemere-sept-1-screen-shot-no-play.jpg
 youtube_code: ftaYyybsi2I
 ---
 
@@ -20,7 +20,7 @@ youtube_code: ftaYyybsi2I
 
 <center><em>To sell your home for top dollar in our market, declutter and clean the inside and make sure the outside has great curb appeal.</em></center>
 
-&nbsp;
+ 
 
 If you want to sell your home for top dollar, here are three tips that will help you do so.
 
