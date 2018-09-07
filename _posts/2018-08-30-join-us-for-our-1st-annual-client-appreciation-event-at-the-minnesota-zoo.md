@@ -23,16 +23,16 @@ youtube_code: IgnU1qF9Gp4
 
 <center>&nbsp;</center>
 
-We’ve got exciting news to announce: You’re invited to the John Schuster Group’s first annual client appreciation event at the Minnesota Zoo! Join us on Saturday, October 6 for this free event, which is our way of thanking you for your business and trust over the years. 
+We’ve got exciting news to announce: You’re invited to the John Schuster Group’s first annual client appreciation event at the Minnesota Zoo! Join us on Saturday, October 6 for this free event, which is our way of thanking you for your business and trust over the years.&nbsp;
 
-From 11:30 a.m. to 12:30 p.m., we’ll be hosting a picnic lunch with ice cream, desserts, and more. 
+From 10:30 a.m. to 12:30 p.m., we’ll be hosting a picnic lunch with ice cream, desserts, and more at the Shady Oaks Picnic Shelter. Lunch will be served from 11:30 a.m. to 12:30 p.m.
 
-Also, in addition to your free passes, parking, and catered lunch, we’ll be giving away one free RCI certificate, good for a one-week vacation for you and your family.
+Also, in addition to your free passes, parking, and catered lunch, we’ll be giving away one free RCI certificate, good for a one-week vacation for you and your family. The drawing is at 12:00 p.m., and you must be present to win.
 
 {% include pullquote.html %}
 
-To ensure your entry to this great event, make sure to RSVP. **When you do, visit us as early as 9 a.m. to receive your voucher for free parking and admission.** To RSVP, simply reach out to us by phone or email. 
+To ensure your entry to this great event, make sure to RSVP. To RSVP, simply reach out to us by phone, email, or by clicking **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**. To pick up your passes, visit us at the Shady Oaks Picnic Shelter.
 
-Again, **thank you so much for supporting us, and we hope to see you on October 6. **
+Again, **thank you so much for supporting us, and we hope to see you on October 6.&nbsp;**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to seeing you at this great upcoming event.
