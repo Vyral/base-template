@@ -39,13 +39,13 @@ permalink: /strategy-call/
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
 <p><span class="quote">I chose to join a busy team for the volume of experience I would gain in a high transaction environment... I figured that with a lot of opportunity for "trial," I would get through a lot of "error" quickly & become better at my trade faster. I wasn't expecting the Team's systematic approach to real estate, though... which meant fantastic detailed training and mentorship right out of the gate. I got up to speed & was able to push past my goals much more quickly than I expected. </span><br>
-<span class="author">Maritta</span></p>
+<span class="author">- Maritta</span></p>
 
 <p><span class="quote">Onboarding with the stern team was like whirlwind of information and processes that seamed very overwhelming. I knew I wanted to perform on higher level but this blew my mind. But the offset was there was a plan for each and everyday, week and month. The 90 day plan helped me see past the enormous information and process overload, the support coaching and encouragement was nothing I had ever experienced. It made the time fly by and left me with a sense of accomplishment every day I left the office. Now it was time to hit the pavement and start selling homes, again I felt overwhelmed. After completing my first solo listing presentation and GETTING HIRED I then realized shadowing several listing presentations with Lee, Josh and Michael I was much more prepared than I could have imagined. The tools systems and coaching had paid off big time, in the first five months I have listed and sold over 30 homes taking my business and personal life to new heights and milestones. Im very excited to continue my training and plan out my goals for 2019 which will be even more achievable than before.</span><br>
-<span class="author">Jeremy</span></p>
+<span class="author">- Jeremy</span></p>
 
 <p><span class="quote">The Joshua Stern team provides you with the tools and opportunities to crush it. There is a plan in place to get you up to speed and producing at a high level.  The plan is thoughtful and systematic, while at the same time flexible enough to focus on areas where you may need more help. In addition we meet as Buyers Agents weekly to train and continuously improve on our skills.  Each morning we run through scripts and scenarios so we our better prepared to capitalize on our prospecting time.  There are great partnerships with vendors who also provide training on Insurance and Lending allowing us to provide a higher level of service to our clients. The Stern team is sincerely interested in providing tools and training so that you can be successful.</span><br>
-<span class="author">Ken</span></p>
+<span class="author">- Ken</span></p>
 </div>
 <hr>
 
