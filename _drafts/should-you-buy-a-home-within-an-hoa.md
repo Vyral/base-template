@@ -19,7 +19,7 @@ youtube_code: 1SUXd01NEVw
 
 {% include youtube.html %}
 
-Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.
+<center>Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.</center>
 
 If you’re thinking of buying a house within a Homeowners Association (HOA), there are a few things you need to know first:
 
