@@ -18,4 +18,12 @@ youtube_code: yFCMmdgQZac
 
 Interest rates are expected to rise, but how much?
 
+Today I want to take a minute to talk about interest rate predictions.
+
+Jamie Dimon, the CEO of JPMorgan Chase, predicts that the yield on the 10-year Treasury bond will go up 5% in the next 24 to 36 months. Typically the spread between the 10-year Treasury bond and a 30-year mortgage is about a 1.75% yield. **The yield as of August 7 for a 30-year mortgage is 4.75% with a spread of 1.77%.** If the yield goes to 5% then the 30-year mortgage rates rise to 6.75%
+
+This means is that if you purchase a home for $290,000 with a 5% down payment, your payment would be $1,437 per month. If the interest rate jumps to 6.75% for that same loan, though, the payment would be $1,786 per month. This $349 more interest per month becomes nearly $4,200 per year more and $125,000 over the life of the loan.
+
 {% include pullquote.html %}
+
+In other words, now is your chance to get into the marketplace. Of course, if you have any questions that I can answer about this or buying and selling in general, please feel free to reach out to me. I look forward to speaking with you soon.
