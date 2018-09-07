@@ -19,6 +19,8 @@ youtube_code: 1SUXd01NEVw
 
 {% include youtube.html %}
 
+Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.
+
 If you’re thinking of buying a house within a Homeowners Association (HOA), there are a few things you need to know first:
 
 **1. What’s the cost?** It could be $100 per month or $500 per month. This could impact your loan and it’s a real fee you have to pay each month.
