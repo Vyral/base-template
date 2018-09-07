@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Our team has partnered with a hedge fund to offer a unique solution for
   prospective homebuyers. Here are a few details about the program.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+A+Unique+Home+Buying+Option.mp4
 pullquote: >-
   This is a game-changing program for anybody who wants to buy a home but isn’t
   able to right now.
