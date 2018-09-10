@@ -30,8 +30,8 @@ youtube_code: XL-8l5add_g
 <u>Where</u>: Shady Oaks Picnic Shelter<br><u>When</u>:
 {: .present-before-paste}
 
-* **Picnic** [10:30 am - 12:30 pm] &nbsp;{: .present-before-paste}
-* **Lunch** [11:30 am - 12:30 pm]&nbsp;{: .present-before-paste}
+* **Picnic** [10:30 am - 12:30 pm] &nbsp;
+* **Lunch** [11:30 am - 12:30 pm]&nbsp;
 * **RCI Certificate Drawing** [12:00 pm]
   * \*\*You must be present to win\*\*
 
@@ -47,7 +47,7 @@ Also, in addition to your free passes, parking, and catered lunch, we’ll be gi
 {% include pullquote.html %}
 {: .present-before-paste}
 
-To ensure your entry to this great event, **make sure to RSVP by September 23. Space is limited.** To RSVP, simply reach out to us by phone, email, or by clicking **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**. To pick up your passes, visit us at the Shady Oaks Picnic Shelter.
+To ensure your entry to this great event, **make sure to RSVP by September 24. Space is limited.** To RSVP, simply reach out to us by phone, email, or by clicking **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**. To pick up your passes, visit us at the Shady Oaks Picnic Shelter.
 {: .present-before-paste}
 
 Again, **thank you so much for supporting us, and we hope to see you on October 6.&nbsp;**
