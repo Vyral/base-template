@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Deal with Home Inspection Negotiations
-date:
+date: 2018-09-10 19:00:12
 tags:
   - Real Estate
 excerpt: >-
@@ -43,5 +43,3 @@ There, you have two options:
 **2. Make a check out to the contractor.** I believe that it’s absolutely acceptable in most jurisdictions to make out a check to the contractor for the repair amounts, but double-check with your legal counsel to be certain.
 
 If you’d like to hear more about this technique, feel free to reach out to me. I’d be glad to help you.
-
-&nbsp;
