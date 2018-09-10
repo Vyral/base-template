@@ -38,6 +38,6 @@ Actually, the lower the price you set from the start, the more offers you’ll g
 
 The bottom line is this: If you know a seller’s pricing goals are unrealistic, don’t agree with them. **It’s easier to have an honest conversation about price at the beginning of the process than to have a conversation about price reductions later on.** It isn’t always easy to have this discussion, but it’s crucial.&nbsp;
 
-To learn how to sell more homes than you ever believed, attend our **agent's seminar** by [**clicking here**](https://www.eventbrite.com/e/copy-of-how-to-sell-more-homes-than-you-ever-believed-the-20cs-of-real-estate-presented-by-kati-tickets-49998400562){: target="_blank"}.
+To learn how to sell more homes than you ever believed, **attend our****agent's seminar** by [**clicking here**](https://www.eventbrite.com/e/copy-of-how-to-sell-more-homes-than-you-ever-believed-the-20cs-of-real-estate-presented-by-kati-tickets-49998400562){: target="_blank"}.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
