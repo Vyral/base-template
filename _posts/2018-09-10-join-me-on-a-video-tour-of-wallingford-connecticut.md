@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Me On A Video Tour of Wallingford Connecticut
-date: 2018-09-10 21:43:28
+date: 2018-09-10 21:43:00
 tags:
   - Real Estate
 excerpt:
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 09ISoizFwuA
 ---
 
 {% include youtube.html %}
@@ -40,7 +40,7 @@ We’re also drawing in a lot of new businesses, down to mom-and-pop sandwich sh
 
 **Wallingford has not one, but two vineyard****s**: the rolling, 120-acre Gouveia Vineyards, and the smaller Paradise Hills vineyard. They’re both unique in their own right, and they’re even within walking distance of each other.
 
-Wallingford is conveniently located &nbsp;between New Haven and Hartford. If you’re a professional whose job takes you all over the place, **you can get anywhere in the state from our town within 20 minutes**, thanks to our brand-new train station with a high-speed line to Hartford, Springfield, and Boston.
+Wallingford is conveniently located  between New Haven and Hartford. If you’re a professional whose job takes you all over the place, **you can get anywhere in the state from our town within 20 minutes**, thanks to our brand-new train station with a high-speed line to Hartford, Springfield, and Boston.
 
 There’s a wide variety of housing for everybody here, from antique homes built in 1776 to large mansions up on Turnberry Road that overlook the vineyard. We have excellent affordability, even for first-time homebuyers, upgrade buyers, and new construction buyers. People are constantly surprised by how much home they can get for their money, compared with surrounding towns.
 
