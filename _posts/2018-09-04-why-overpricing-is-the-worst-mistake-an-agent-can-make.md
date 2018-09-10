@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/UJOVb_cbQxw'
 
 Have you ever heard of being the “third agent in?” This idea came about because **sometimes sellers will go through a couple of inexperienced agents before making a more informed choice.**&nbsp;
 
-Quality agents know that, in real estate, the client isn’t always right. While of course we take our clients wants and needs into account, we must also know how to be honest with them if their goals are unrealistic. Not all agents do this, though, which is where the idea of being the “third agent in” comes into play.&nbsp;
+Quality agents know that, in real estate, the client isn’t always right. While of course we take our clients' wants and needs into account, we must also know how to be honest with them if their goals are unrealistic. Not all agents do this, though, which is where the idea of being the “third agent in” comes into play.&nbsp;
 
 Sometimes, a client will hire one agent who lets them price their home however they want, then, after that fails, hire a second agent who can only convince them to lower it slightly. When this second Realtor inevitably leaves the picture, **it’s time for a third agent to come in and present the client with something they might not want to hear.&nbsp;**
 
