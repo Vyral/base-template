@@ -12,9 +12,9 @@ enclosure: >-
 pullquote: HOA dues can definitely impact your loan.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: 1SUXd01NEVw
+use_youtube_image: false
+youtube_alternate_image: /uploads/canady-sept-1-ss-no-play.jpg
+youtube_code: 6hO0peyDvbs
 ---
 
 {% include youtube.html %}
