@@ -1,122 +1,149 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: '-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Home Value Report
-    url: https://www.backatyou.com/home-value/EF2722B1-A937-4AF1-BE45-5C0E5D8C256E
-
+    url: 'https://www.thebadgerrealestategroup.com/home-valuation'
 emma:
-  lightbox: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1811359';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script> 
+  lightbox: >-
+    <script
+    id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1811359';</script><script
+    src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
   form:
-
 client:
   name: Shawneequa Badger
   title:
   license_number: CalBRE 01462104
-  about_markdown: |
-    Shawneequa Badger is the Team Lead of The Badger Real Estate Group, a full service real estate team specializing in Northern California home sales, purchases, and investments properties. She is also a trainer, speaker and entrepreneur. She helps investors, buyers and sellers create their own economy through real estate investments.
-    Shawneequa is a transformational educator dedicated to teaching you how to be a master wealth builder through real estate homeownership. It’s my goal to make you an investment superstar whether it’s your first purchase or your 50th.
+  about_markdown: >
+    Shawneequa Badger is the Team Lead of The Badger Real Estate Group, a full
+    service real estate team specializing in Northern California home sales,
+    purchases, and investments properties. She is also a trainer, speaker and
+    entrepreneur. She helps investors, buyers and sellers create their own
+    economy through real estate investments.
 
-    “I teach people how to create their own economy through real estate investments.”
+    Shawneequa is a transformational educator dedicated to teaching you how to
+    be a master wealth builder through real estate homeownership. It’s my goal
+    to make you an investment superstar whether it’s your first purchase or your
+    50th.
 
-    I am a Bay Area Real Estate professional that provides top-tiered selling services for my clients. I have broad experience in real estate transactions from first-time home purchases to fine home and estate sales to investment properties. I am interested in educating home buyers and sellers about realistic market conditions that could benefit their long-term investment goals.
+
+    “I teach people how to create their own economy through real estate
+    investments.”
+
+
+    I am a Bay Area Real Estate professional that provides top-tiered selling
+    services for my clients. I have broad experience in real estate transactions
+    from first-time home purchases to fine home and estate sales to investment
+    properties. I am interested in educating home buyers and sellers about
+    realistic market conditions that could benefit their long-term investment
+    goals.
   market:
   brand:
   brokerage: Catalyst Real Estate Professionals
-  address: 1810 Pacific Avenue, Stockton, CA 95204
+  address: '1810 Pacific Avenue, Stockton, CA 95204'
   phone: (408) 431-9519
   phone_type:
   phone2:
   phone2_type:
   email:
-  url: https://rebysb.com
-
+  url: 'https://rebysb.com'
 CTAs:
   first_CTA_text: Like us on Facebook
-  first_CTA_URL: https://www.facebook.com/TheBadgerRealEstateGroup/
+  first_CTA_URL: 'https://www.facebook.com/TheBadgerRealEstateGroup/'
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.rebysb.com/listings-search/#/2033763787
-
+  second_CTA_URL: 'https://www.rebysb.com/listings-search/#/2033763787'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Follow us on Facebook"
-    CTA_text: "We can introduce you to a unique, connected and informed approach to Real Estate."
-    CTA_link_text: "Like Us on Facebook"
-    CTA_url: https://www.facebook.com/TheBadgerRealEstateGroup/
-
+    CTA_title: Follow us on Facebook
+    CTA_text: >-
+      We can introduce you to a unique, connected and informed approach to Real
+      Estate.
+    CTA_link_text: Like Us on Facebook
+    CTA_url: 'https://www.facebook.com/TheBadgerRealEstateGroup/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.rebysb.com/listings-search/#/2033763787
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'https://www.rebysb.com/listings-search/#/2033763787'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/TheBadgerRealEstateGroup/
-  linkedin_url: https://www.linkedin.com/in/shawneequa/
-  gplus_url: https://plus.google.com/100438222474220364901
-  youtube_url: https://www.youtube.com/channel/UCckkCpggs9_z-JA5K_AseqQ
-  twitter_url: https://twitter.com/shawneequa
+  facebook_url: 'https://www.facebook.com/TheBadgerRealEstateGroup/'
+  linkedin_url: 'https://www.linkedin.com/in/shawneequa/'
+  gplus_url: 'https://plus.google.com/100438222474220364901'
+  youtube_url: 'https://www.youtube.com/channel/UCckkCpggs9_z-JA5K_AseqQ'
+  twitter_url: 'https://twitter.com/shawneequa'
   instagram_url:
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 60
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#ED1B24'
-  theme_color: '#3B3B3D'
+  brand_color: '#ed1b24'
+  theme_color: '#3b3b3d'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
