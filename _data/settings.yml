@@ -9,8 +9,8 @@ description: >-
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
-  - title:
-    url:
+  - title: Mobile App
+    url: http://app.kw.com/KW5YZPCI
 client:
   name: Graham MacKenzie
   license_number:
@@ -71,7 +71,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://boisesellers.com'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.r2rrealty.com/property'
+  second_CTA_URL: 'https://www.mrgidaho.com/listings-search/#/2033763787'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -85,7 +85,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.r2rrealty.com/property'
+    CTA_url2: 'https://www.mrgidaho.com/listings-search/#/2033763787'
 lender:
   show_section: true
   header_text: Buyer's Agent
