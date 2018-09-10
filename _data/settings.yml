@@ -7,7 +7,7 @@ description: >-
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from The -- CLIENT BRAND --, your
   professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
   - title: Mobile App
     url: http://app.kw.com/KW5YZPCI
