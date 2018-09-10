@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Using the Burks Team
-date: 2018-09-06 16:18:27
+date: 2018-09-06 16:18:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qc9cKyXT3YM
+youtube_code: _ofRIn1UUWo
 ---
 
 {% include youtube.html %}
