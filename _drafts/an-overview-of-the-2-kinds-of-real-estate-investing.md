@@ -33,6 +33,6 @@ We’ve actually been working with a very successful passive investor who identi
 
 If you’re someone who doesn’t want to do any hands-on investing, take a look at this video of our interview with a passive investor to learn about some of the real estate benefits of working with our group.
 
-For those more interested in active investing, I highly recommend that you start with educating yourself about real estate. Investing itself is not inherently risky—it’s the investor who is risky. Ignorance is the most expensive currency, so don’t trade in it. You have to know what you’re doing, and we can help guide you into some of the good training and mentoring programs available. Lone wolves don’t make it very long in real estate investing.
+For those more interested in active investing, **I highly recommend that you start with educating yourself about real estate**. Investing itself is not inherently risky—it’s the investor who is risky. Ignorance is the most expensive currency, so don’t trade in it. You have to know what you’re doing, and we can help guide you into some of the good training and mentoring programs available. **Lone wolves don’t make it very long in real estate investing**.
 
 No matter which kind of investing you’re most interested in, reach out to us. We can set up a phone consultation and figure out where you are now and what can be done to help you reach your goals of becoming an investor.
