@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2018-08-29-16-20-24.jpg
 youtube_code: 7sjOkydNtuQ
 ---
 
@@ -23,7 +23,7 @@ youtube_code: 7sjOkydNtuQ
 
 <center><em>Super Home Warranty is one of our most-trusted service providers. Here are a few different reasons why.</em></center>
 
-&nbsp;
+ 
 
 I recently caught up with Leslie Stotts from Super Home Warranty to talk about home warranties and their importance when buying a home. **We always try to make sure that we negotiate a home warranty for all of our buyers so that they have peace of mind when moving into their new homes**.
 
