@@ -58,7 +58,7 @@ CTAs:
   first_CTA_text: Like us on Facebook
   first_CTA_URL: 'https://www.facebook.com/TheBadgerRealEstateGroup/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.rebysb.com/listings-search/#/2033763787'
+  second_CTA_URL: 'http://search.thebadgerrealestategroup.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Follow us on Facebook
