@@ -49,7 +49,7 @@ Also, in addition to your free passes, parking, and catered lunch, we’ll be gi
 {% include pullquote.html %}
 {: .present-before-paste}
 
-To ensure your entry to this great event, **make sure to RSVP by September 24. Space is limited.** To RSVP, simply reach out to us by phone, email, or by clicking **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**. To pick up your passes, visit us at the Shady Oaks Picnic Shelter.
+To ensure your entry to this great event, **make sure to RSVP by September 23. Space is limited.** To RSVP, simply reach out to us by phone, email, or by clicking **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**. To pick up your passes, visit us at the Shady Oaks Picnic Shelter.
 {: .present-before-paste}
 
 Again, **thank you so much for supporting us, and we hope to see you on October 6.&nbsp;**
