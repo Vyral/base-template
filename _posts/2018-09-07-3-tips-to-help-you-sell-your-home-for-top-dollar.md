@@ -22,11 +22,11 @@ youtube_code: ftaYyybsi2I
 
 &nbsp;
 
-If you want to sell your home for top dollar, here are three tips that will help you do so.
+If you want to sell your home for top dollar, here are three tips that will help you do so:
 
 First, **make sure your home has great curb appeal** so it gives potential buyers a good first impression. The whole exterior needs to be inviting when buyers pull up, so make sure you keep up with your lawn maintenance.
 
-Second, **give your house a deep clean**. Clear the cobwebs out of the corners, open the blinds, clean the baseboards and the carpets, etc. There’s nothing more inviting than stepping into a home that’s clean and fresh-smelling.
+Second, **give your house a deep clean**—clear the cobwebs out of the corners, open the blinds, clean the baseboards and the carpets, etc. There’s nothing more inviting than stepping into a home that’s clean and fresh-smelling.
 
 {% include pullquote.html %}
 
