@@ -33,7 +33,7 @@ youtube_code: XL-8l5add_g
 * **Picnic** [10:30 am - 12:30 pm] &nbsp;{: .present-before-paste}
 * **Lunch** [11:30 am - 12:30 pm]&nbsp;{: .present-before-paste}
 * **RCI Certificate Drawing** [12:00 pm]
-  * \*\*You must be present to win\*\*{: .present-before-paste}{: .present-before-paste}
+  * \*\*You must be present to win\*\*
 
 We’ve got exciting news to announce: You’re invited to the John Schuster Group’s first annual client appreciation event at the Minnesota Zoo! Join us on Saturday, October 6 for this free event, which is our way of thanking you for your business and trust over the years.&nbsp;
 {: .present-before-paste}
