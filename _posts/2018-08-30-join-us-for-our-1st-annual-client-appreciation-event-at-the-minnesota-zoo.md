@@ -35,6 +35,8 @@ youtube_code: XL-8l5add_g
 * **RCI Certificate Drawing** [12:00 pm]
   * \*\*You must be present to win\*\*
 
+To RSVP, click **[here](http://www.johnschustergroup.com/zoo.php){: target="_blank"}**.
+
 We’ve got exciting news to announce: You’re invited to the John Schuster Group’s first annual client appreciation event at the Minnesota Zoo! Join us on Saturday, October 6 for this free event, which is our way of thanking you for your business and trust over the years.&nbsp;
 {: .present-before-paste}
 
