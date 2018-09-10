@@ -22,7 +22,7 @@ To understand the state of our current market, it’s time to look back on how w
 
 As you know, **we had a huge increase in prices in the late 90s/early 2000s, and this increase peaked in 2006.** In Anne Arundel County, the median home price back then was $344,000. As you know, the market then crashed and reached its bottom around 2011. At that point, the median home price in our area had dropped to $280,000. As of this month, it’s jumped back up to $340,000. As you can see, we haven’t come all the way back, but we’re almost there.
 
-During most of that same time frame (2005 to 2016), the average household income increased 3.6%, which is pretty flat. While housing prices went up and down, current average is up 4.62% compared to where it was at in 2005.
+During most of that same time frame (2005 to 2016), the average household income increased 3.6%, which is pretty flat. While housing prices went up and down, the current average is up 4.62% compared to where it was at in 2005.
 
 {% include pullquote.html %}
 
