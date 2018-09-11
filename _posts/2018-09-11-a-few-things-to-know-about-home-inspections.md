@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Things to Know About Home Inspections
-date: 2018-09-11 19:30:44
+date: 2018-09-11 19:30:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: mM5D4HwHIMI
 ---
 
 {% include youtube.html %}
