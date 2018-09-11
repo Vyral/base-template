@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Work in Real Estate So We Can Help Others in All Aspects of Life
-date: 2018-09-04 17:02:00
+date: 2018-09-11 05:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7A_m9Xa0jlo
+youtube_code: bj1bgeF4eHo
 ---
 
 {% include youtube.html %}
