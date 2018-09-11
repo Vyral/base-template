@@ -33,3 +33,7 @@ Another example that comes to mind is with a listing that was overpriced. We sti
 If you’re a buyer, don’t be afraid to make your offer and if you’re a seller, don’t take every offer as an absolute end-all. **Like I said before, the secret to negotiations is staying alive.**
 
 If you have any questions for me about your own negotiations or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
