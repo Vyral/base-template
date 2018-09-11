@@ -20,7 +20,7 @@ youtube_code: PCdH1Xq9I0Q
 
 {% include youtube.html %}
 
-Today I’m joined by Alina from Metro Retrofitting to discuss what what services she and her team offer clients.
+Today I’m joined by Alina from Metro Retrofitting to discuss what services she and her team offer clients.
 
 When you purchase a new home, it’s important to be sure that your house has updated and functional safety features, like smoke and carbon monoxide detectors. **Metro Retrofitting will come out to your home for an inspection and take a look at your home’s detectors and other safety features to make sure that you’re up to code.**
 
@@ -33,6 +33,6 @@ Mind you, each city has different requirements about what features need to be in
 * Low-flow toilets
 * Low-flow aerators on the sink
 
-**Metro Retrofitting will note any features that aren’t working to code, fix them, and then return after the necessary work has been done to ensure that you’re properly protected** per the standards of the city, county and the state. They’re a one-stop shop for home safety inspections.
+**Metro Retrofitting will note any features that aren’t working to code, fix them, and then return after the necessary work has been done to ensure that you’re properly protected** per the standards of the city, county, and the state. They’re a one-stop shop for home safety inspections.
 
 I appreciate Alina stopping by to tell us about this topic. For more information about what services Metro Retrofitting offers, visit **[www.gometroretro.com](http://www.gometroretro.com/){: target="_blank"}**. If you have any questions, comments, or concerns, I encourage you to reach out to us. We’d be happy to hear from you.
