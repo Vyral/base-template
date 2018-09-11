@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do Points Mean to Your Mortgage?
-date: 2018-09-11 14:44:34
+date: 2018-09-11 14:44:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: C7QV-SJereU
 ---
 
 {% include youtube.html %}
