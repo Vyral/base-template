@@ -23,7 +23,7 @@ youtube_code: XmxtEoVrNOc
 
 {% include youtube.html %}
 
-There are four key negotiating tips you need to remember during a transaction, whether you’re buying or selling.
+<center>There are four key negotiating tips you need to remember during a transaction, whether you’re buying or selling.</center>
 
 Here are four negotiating tips both buyers and sellers can use during a home sale to ensure that they get a great deal.
 
