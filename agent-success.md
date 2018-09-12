@@ -24,50 +24,43 @@ permalink: /agent-success/
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DZ7QQbLarhY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">The 1 Attribute to Success: Jeff Glover</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lskfXBNZzvI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Lance Loken: Keller Williams Realty</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GuErDwkUiAI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Breakthrough: Tony Baroni</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Iv1WkI0pAws" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Farming: Matt Hermes</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cANM4lJ05jU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Giving Back: Mike Duley</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z_haowlEKfc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Agent Referrals 2: Josh Anderson & Ricky Cain</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4iAtdgTxH5A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Mindset and Leverage: Patrick Woods</font>
 &nbsp;
 
 &nbsp;
