@@ -20,11 +20,11 @@ youtube_code: 7ruOfgmPTvw
 
 {% include youtube.html %}
 
-Welcome to another episode of “What’s Working Now?. Today we’re going to talk about a frequently asked question during negotiations with buyers and sellers.
+Welcome to another episode of “What’s Working Now!" Today we’re going to talk about a frequently asked question during negotiations with buyers and sellers.
 
 When a buyer and seller appear to be far apart at the beginning of negotiations, they want to know: **Is it worth it to keep going back and forth?** It is, and here are a few examples that prove that.
 
-The secret to any successful negotiation is staying alive. Recently, I was in a negotiation where the buyer came in and made an offer. Instead of saying no right away, we went back and forth a few times. We let it stew overnight and the buyer came back in the morning with a great offer. **We ended up making a deal where the buyer and seller were both happy.**
+The secret to any successful negotiation is staying alive. Recently, I was in a negotiation where the buyer came in and made an offer. Instead of saying no right away, we went back and forth a few times before the seller said no. We let it stew overnight and then the buyer came back in the morning with a great offer. **We ended up making a deal where the buyer and seller were both happy.**
 
 {% include pullquote.html %}
 
