@@ -21,7 +21,9 @@ youtube_code: CmmEmpRBkmw
 
 {% include youtube.html %}
 
-<center>Many blame adjustable rate mortgages for the financial and housing crises a few years back—but are they really all bad?</center>
+<center><em>Many blame adjustable rate mortgages for the financial and housing crises a few years back&mdash;but are they really all bad?</em></center>
+
+<center>&nbsp;</center>
 
 Years ago, an adjustable rate mortgage (ARM) was almost like a bad word. After the financial crisis and the housing collapse, a lot of people blamed much of that on adjustable rate mortgages. I personally believe that that’s because people who shouldn’t have been taking on ARM loans were enticed to purchase them by mortgage originators.
 
