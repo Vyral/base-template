@@ -6,9 +6,7 @@ permalink: /agent-success/
 
 <div class="fluid-vids" style="width: 100%; position: relative; padding-top: 56.25%;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/videoseries?list=PLccsjnDvchgYD9xu4bv6Xi7VH8Vz8Ygbx" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe></div>
 
-# &nbsp;
-
-&nbsp;
+# How to start Over in a New City
 
 &nbsp;
 
