@@ -186,58 +186,52 @@ permalink: /agent-success/
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-4hsLl5pLY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">BIG Business with Leverage: Dan Holt</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Eor4f2oShLQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Sell 30 Homes from Your SOI: Chris Upham</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kE6KDTJvKA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Five Doors Network: Seth Campbell</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yOJ1azTvQa0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">MAPS Coach: Brindley Tucker</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D5RR5L_mOFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7"> Database Success: Christina Ward</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KqgiuownMFI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7"> Success with Failure: Haro Setian</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Lr8J9F0xnm0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7"> Real Estate Business Success: Vanessa Pollock</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7zCMPdpQN4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# &nbsp;
-
+<font size="+7">Secrets to Success: Taylor Tacoma</font>
 &nbsp;
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3lywHuXz3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">The Hern Group: James Hern</font>
