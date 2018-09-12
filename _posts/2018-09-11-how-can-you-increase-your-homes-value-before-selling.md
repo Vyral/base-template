@@ -22,7 +22,7 @@ youtube_code: Or8h3cLtSow
 
 Here at The Kohler Group, we are always striving to uphold your home’s value for when it comes time to sell. **There are four things that will help keep your home’s value up in today’s market:**
 
-**1. Make sure the exterior presentation of your home is excellent.** Make sure that your garden beds are edged and are full of seasonal flowers. Trim your bushes as well. Make sure your front door and doorbell look good and are working properly. Buyers and buyer’s agents first impression of a home starts with the front door, so you want to get started on the right foot.
+**1. Make sure the exterior presentation of your home is excellent.** Make sure that your garden beds are edged and are full of seasonal flowers. Trim your bushes as well. Make sure your front door and doorbell look good and are working properly. Buyers and their agents' first impression of a home starts with the front door, so you want to get started on the right foot.
 
 **2. Make sure the home has neutral colors.** This is especially important in the critical rooms such as the foyer, living room, dining room, kitchen, master bedroom, and master bathroom. Make sure windows are open throughout the home so buyers can see the natural light pouring through the windows.
 
