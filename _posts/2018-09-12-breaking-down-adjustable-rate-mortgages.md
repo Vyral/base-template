@@ -25,7 +25,7 @@ youtube_code: CmmEmpRBkmw
 
 <center>&nbsp;</center>
 
-Years ago, an adjustable-rate mortgage (ARM) was almost like a bad word. After the financial crisis and the housing collapse, a lot of people blamed much of that on adjustable-rate mortgages. I personally believe that that’s because people who shouldn’t have been taking on ARM loans were enticed to purchase them by mortgage originators.
+Years ago, an adjustable-rate mortgage (ARM) was almost like a bad word. After the financial crisis and the housing collapse, a lot of people blamed much of that on adjustable-rate mortgages. I personally believe that that’s because people who shouldn’t have taken on ARM loans were enticed to purchase them by mortgage originators.
 
 How does an ARM loan work? It’s actually quite simple: **Your rate is fixed for a period of time (often five to 10 years), and then it becomes variable based on an index.** If the index in the open market is moving higher, your rate will move higher as well.
 
