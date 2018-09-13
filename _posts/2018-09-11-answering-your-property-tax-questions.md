@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Your Property Tax Questions
-date: 2018-09-11 15:39:59
+date: 2018-09-11 15:39:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/property-taxes-youtube.jpg
-youtube_code: jU5lX-AeNBI
+youtube_code: KB7K-EkLLV8
 ---
 
 {% include youtube.html %}
