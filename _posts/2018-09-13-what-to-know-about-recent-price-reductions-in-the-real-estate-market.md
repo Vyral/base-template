@@ -19,7 +19,7 @@ youtube_code: Hl35rYsRKxc
 
 {% include youtube.html %}
 
-We’ve seen a recent spike in price reductions, both locally and nationally. Here’s what that means for you.
+<p style="text-align: center;"><em>We’ve seen a recent spike in price reductions, both locally and nationally. Here’s what that means for you.</em></p>
 
 There has been a recent spike in price reductions in the real estate market. What does that mean to you? We’re going to take a closer look today.
 
