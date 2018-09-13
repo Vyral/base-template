@@ -20,7 +20,7 @@ youtube_code: gEyLwVu7SWc
 
 {% include youtube.html %}
 
-I think that our fall market is going to be hot. Today I will explain why.
+<center>I think that our fall market is going to be hot. Today I will explain why.</center>
 
 This fall market is going to be huge for real estate in Hudson County. Why? Let's take a look.
 
