@@ -27,23 +27,13 @@ And this isn’t the only thing to keep in mind when having photos taken of your
 
 **Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
-&nbsp;
-
 0:43 - Why hiring a photography early matters
-
-&nbsp;
 
 1:33 - A few examples of poor photography
 
-&nbsp;
-
 2:55 - A few examples of good photography
 
-&nbsp;
-
 4:23 - How drone photography can help highlight a listing
-
-&nbsp;
 
 5:21 - How 3D video tours make listings shine
 
