@@ -19,7 +19,7 @@ youtube_code: uAFUEbHL2hs
 
 {% include youtube.html %}
 
-Using high-quality professional photography is essential to your success as a seller, so today I’d like to share a few tips on the subject.
+<p style="text-align: center;"><em>Using high-quality professional photography is essential to your success as a seller, so today I’d like to share a few tips on the subject.</em></p>
 
 At such a beautiful time of year, it’s easy for a home’s landscaping to look great and make the property shine, but the same can’t be said of the coming winter months. Therefore, if you plan to list your home in the near future, why not take professional photos now instead of waiting until the skies are grey and there’s snow on the ground.
 
