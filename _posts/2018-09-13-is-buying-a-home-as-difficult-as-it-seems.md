@@ -19,7 +19,7 @@ youtube_code: d7obOK3jCuM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"<em>Buying a home in today’s real estate market isn’t as difficult as you might think. Here are some tips to make things easier for you.</em></p>
+<p style="text-align: center;"><em>Buying a home in today’s real estate market isn’t as difficult as you might think. Here are some tips to make things easier for you.</em></p>
 
 We’ve been getting a number of questions about down payments, financing, and getting a mortgage in general. There seems to be a lot of misconceptions out there about the amount of money needed for a downpayment. **A lot of people think that it’s very difficult to get a mortgage in today’s market, but that’s really not true.**
 
