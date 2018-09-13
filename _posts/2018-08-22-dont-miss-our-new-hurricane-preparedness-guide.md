@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't Miss Our New Hurricane Preparedness Guide
-date: 2018-08-22 17:13:20
+date: 2018-08-22 17:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Q7dOvEvUo6k
+youtube_code: ss6tmUTMkd0
 ---
 
 {% include youtube.html %}
