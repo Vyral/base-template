@@ -30,4 +30,6 @@ There are plenty of different kinds of staging out there. Vignette staging is pr
 
 At Northwest Signature staging, they stage the entire room. If the room is vacant, we’ll add a bed, a nightstand, and bedding to give it a new home feel.
 
+To learn more about Northwest Signature Staging, [visit their website here](NWSignatureStaging.com){: target="_blank"}.
+
 If you have any questions about home staging, feel free to reach out and we’ll get you in touch with Melissa. If you have any other questions about real estate in general, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
