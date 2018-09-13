@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   We have a brand-new website, and there are three reasons you’ll want to start
   using it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawneequa+Badger/Videos/The+Badger+Real+Estate+Group-+What+Can+Our+New+Website+Do+for+You%253F.mp4
 pullquote: Feel free to join us at www.thebadgerrealestategroup.com.
 enclosure_type: video/mp4
 enclosure_time:
