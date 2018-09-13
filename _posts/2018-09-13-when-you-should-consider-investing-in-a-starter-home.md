@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/andrew-kronenberg-starter-home-youtube.jpg
 youtube_code:
 ---
 
-![](/uploads/andrew-kronenberg-starter-home-youtube.jpg)
+![](/uploads/webp-net-resizeimage-2.jpg)
 
 Dear Friends and Clients —
 
