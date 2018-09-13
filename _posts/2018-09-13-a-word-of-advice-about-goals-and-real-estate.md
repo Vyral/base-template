@@ -19,7 +19,7 @@ youtube_code: nRvySF0f12o
 
 {% include youtube.html %}
 
-In order to purchase or sell real estate, you’ll need to have a goal in mind, and my team and I are there to help you achieve it.
+<p style="text-align: center;"><em>In order to purchase or sell real estate, you’ll need to have a goal in mind, and my team and I are there to help you achieve it.</em></p>
 
 I spoke with a young couple recently who were concerned about not being able to save much money with student loans and other debts. They really want to buy a house, but didn’t have any specific goals written down, much less a plan about how to make that happen.
 
