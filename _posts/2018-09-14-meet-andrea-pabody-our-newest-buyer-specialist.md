@@ -34,5 +34,3 @@ If you’d like to know more about Andrea or message her on our website, you can
 If there’s anything else we can help you with, don’t hesitate to call or email us anytime. We’d love to help you.
 
 Thanks and aloha!
-
-&nbsp;
