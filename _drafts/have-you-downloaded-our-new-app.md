@@ -21,7 +21,9 @@ youtube_code: PF2imf2-3VA
 
 {% include youtube.html %}
 
-<center>Today I want to talk about technology and all of our new advancements at MacKenzie Realty.</center>
+<center><em>Today I want to talk about technology and all of our new advancements at MacKenzie Realty.</em></center>
+
+<center>&nbsp;</center>
 
 I'm very excited about the new technology we have to offer. So, today, I’d like to highlight some of these tools, which will help me better serve you as an agent and help you find your future home.
 
