@@ -21,6 +21,8 @@ youtube_code: PF2imf2-3VA
 
 {% include youtube.html %}
 
+Today I want to talk about technology and all of our new advancements at MacKenzie Realty.
+
 I'm very excited about the new technology we have to offer. So, today, I’d like to highlight some of these tools, which will help me better serve you as an agent and help you find your future home.
 
 I want to start by talking about our new app. **If haven't downloaded it yet, I highly recommend that you do.** Whether you're looking to buy a new home or you just want to keep up-to-speed on home values, it's awesome.
