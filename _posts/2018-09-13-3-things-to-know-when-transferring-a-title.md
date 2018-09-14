@@ -23,9 +23,9 @@ youtube_code: ccrSohCNW3A
 
 Today I would like to talk about three things that you need to know when planning to transfer a title from one person to another, or to your LLC.
 
-**1. Don't do a quitclaim deed.** A quitclaim deed is considered non-warranted and title companies don't like them because of this. So, when you want to sell a property with a quitclaim deed, a title company may not recognize it and actually require you to resign the deed again with the previous owner. Instead of using a quitclaim deed, you should use a warranty or special warranty deed.
+**1. Don't do a quitclaim deed.** A quitclaim deed is considered non-warranted and title companies don't like them because of this. So, when you want to sell a property with a quitclaim deed, a title company may not recognize it and actually require you to re-sign the deed again with the previous owner. Instead of using a quitclaim deed, you should use a warranty or special warranty deed.
 
-**2. Title insurance is voided.** When you buy a property, it comes with title insurance and if there's anything wrong with the property, the insurance company will handle the problem. The moment you transfer the title from you to another person or entity, though, it is voided.
+**2. Title insurance is voided.** When you buy a property, it comes with title insurance; and if there’s anything wrong with the property, the insurance company will handle the problem. The moment you transfer the title from you to another person or entity, though, it is voided.
 
 {% include pullquote.html %}
 
