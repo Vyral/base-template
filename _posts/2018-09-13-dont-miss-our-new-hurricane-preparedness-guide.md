@@ -28,7 +28,7 @@ Hurricane season has arrived here in North Houston. And, especially after Hurric
 
 In putting together this guide, we wanted to be extremely thorough. This is why we’ve included information about how to keep children, pets, and elderly family members safe and sound before, during, and after the storm.
 
-**You can download this guide for yourself&nbsp;****here:&nbsp;**[https://www.viewnorthhoustonhomes.com/info/hurricane-preparation-guide](www.viewnorthhoustonhomes.com/info/hurricane-preparation-guide){: target="_blank"}
+**You can download this guide for yourself&nbsp;****here:&nbsp;**[www.viewnorthhoustonhomes.com/info/hurricane-preparation-guide](https://www.viewnorthhoustonhomes.com/info/hurricane-preparation-guide){: target="_blank"}
 
 Our team and large volunteer network were able to help many families and provide several resources during Hurricane Harvey, so we hope that if you need similar assistance in a future storm, you won’t hesitate to reach out. Hopefully the need for help doesn’t arise, but we will be here for you if it does.
 
