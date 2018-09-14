@@ -3,73 +3,61 @@ layout: default
 title: What Do Our Va's Sound Like?
 permalink: /our-vas/
 ---
+<p>Dear Real Estate Professional,</p>
 
-##### **Dear Real Estate Professional,**
+<p>Thank you for your interest in 1000 Calls A Day!</p>
 
-##### **Thank you for your interest in 1000 Calls A Day!**
+<p>We understand how frustrating it is to recruit, interview, test, hire, train, manage, and track the daily progress of outbound calling professionals.  It is an extremely time consuming and tedious process that is not a good use of your time!</p>
 
-##### **We understand how frustrating it is to recruit, interview, test, hire, train, manage, and track the daily progress of outbound calling professionals. &nbsp;It is an extremely time consuming and tedious process that is not a good use of your time!**
+<p>We have put together a proven, repeatable, and predictable system to take this entire process completely off of your plate.  We have all of the systems, people, technology, and processes in place to scale your outbound calling far beyond what would be possible for you to accomplish in-house.
+I have included a sample of some our our average daily outbound calls.</p>
 
-##### **We have put together a proven, repeatable, and predictable system to take this entire process completely off of your plate. &nbsp;We have all of the systems, people, technology, and processes in place to scale your outbound calling far beyond what would be possible for you to accomplish in-house.**
+<p><strong>As you review these calls, please keep the following in mind:</strong>
+<ul class="indent">
+<li>These are average daily calls.</li>
+<li>We are sharing these calls with you to illustrate the fact that our callers have little to no accent and speak English very well.</li>
+<li>They are using proven scripts that have been tested and perform well.  However, we can also use your scripts and test them for performance.</li>
+<li>Our outbound callers will never be as proficient as you are on the phone, but they do not need to be in order to find leads and grow your business.</li>
+<li>We can scale this system to make between 450-750 calls per day, per caller, five days per week.</li>
+<li>This massive call volume is resulting in an average of 40-50 pre-qualified leads per month, per caller, that we are passing back to you and your team.</li>
+<li>These recordings are taken from the caller’s computer (on a basic web cam) and this is not an actual recording from our call center software or from the live telephone line during the call.  Therefore, the sound quality is not an accurate depiction of a real call.</li>
+<li>Legally, we cannot share an actual live call with a third party, therefore, this is the best way for us to give you a sample of what our caller’s sound like.</li>
+<li>Our system is working all over the country, in different cities, and in different types of markets.</li>
+</ul></p>
 
-##### **I have included a sample of some our our average daily outbound calls.**
+<p>Please feel free to listen to actual outbound call recordings here:
+<ul class="indent">
+<li>Sample Call 1: <a href="https://youtu.be/wb_t9MjqNzI" target="_blank">https://youtu.be/wb_t9MjqNzI</a></li>
+<li>Sample Call 2: <a href="https://youtu.be/8WxY0DUqZwY" target="_blank">https://youtu.be/8WxY0DUqZwY</a></li>
+<li>Sample Call 3: <a href="https://youtu.be/6T3PydItICk" target="_blank">https://youtu.be/6T3PydItICk</a></li>
+<li>Sample Call 4: <a href="https://youtu.be/3rKiAnu7vuE" target="_blank">https://youtu.be/3rKiAnu7vuE</a></li>
+<li>Sample Call 5: <a href="https://youtu.be/w3PTDwsV_rw" target="_blank">https://youtu.be/w3PTDwsV_rw</a></li>
+<li>Sample Call 6: <a href="https://youtu.be/wQI3_kZM09U" target="_blank">https://youtu.be/wQI3_kZM09U</a></li>
+<li>Sample Call 7: <a href="https://youtu.be/_xnRgvjO2Zc" target="_blank">https://youtu.be/_xnRgvjO2Zc</a></li>
+<li>Sample Call 8: <a href="https://youtu.be/yvel6c6VX30" target="_blank">https://youtu.be/yvel6c6VX30</a></li>
+<li>Sample Call 9: <a href="https://youtu.be/CqyzDUkOuqY" target="_blank">https://youtu.be/CqyzDUkOuqY</a></li>
+<li>Sample Call 10: <a href="https://youtu.be/ckvwXZUWp-c" target="_blank">https://youtu.be/ckvwXZUWp-c</a></li>
+</ul></p>
 
-#### **As you review these calls, please keep the following in mind:**
+<p>Additionally, here are three video interviews with different VA callers to give you a better perspective on how great our callers sound:
+<ul class="indent">
+<li>Sample Interview 1: <a href="https://youtu.be/4TqmGL_c1eA" target="_blank">https://youtu.be/4TqmGL_c1eA</a></li>
+<li>Sample Interview 2: <a href="https://youtu.be/gQA4ayI7PGI" target="_blank">https://youtu.be/gQA4ayI7PGI</a></li>
+<li>Sample Interview 3: <a href="https://youtu.be/VL57JdVYDLM" target="_blank">https://youtu.be/VL57JdVYDLM</a></li>
+</ul></p>
 
-* ##### **These are average daily calls.**
-* ##### **We are sharing these calls with you to illustrate the fact that our callers have little to no accent and speak English very well.**
-* ##### **They are using proven scripts that have been tested and perform well. &nbsp;However, we can also use your scripts and test them for performance.**
-* ##### **Our outbound callers will never be as proficient as you are on the phone, but they do not need to be in order to find leads and grow your business.**
-* ##### **We can scale this system to make between 450-750 calls per day, per caller, five days per week.**
-* ##### **This massive call volume is resulting in an average of 40-50 pre-qualified leads per month, per caller, that we are passing back to you and your team.**
-* ##### **These recordings are taken from the caller’s computer (on a basic web cam) and this is not an actual recording from our call center software or from the live telephone line during the call. &nbsp;Therefore, the sound quality is not an accurate depiction of a real call.**
-* ##### **Legally, we cannot share an actual live call with a third party, therefore, this is the best way for us to give you a sample of what our caller’s sound like.**
-* ##### **Our system is working all over the country, in different cities, and in different types of markets.**
+<p>Thank you for your interest in 1000 Calls A Day!  If you have any additional questions about our system, please make sure to check out our website at <a href="www.1000CallsADay.com">www.1000CallsADay.com</a>.</p>
 
-#### **Please feel free to listen to actual outbound call recordings here:**
+<p>If you would like to discuss implementing our system into your business, please contact me by email and we will get a conference call set-up as soon as possible.</p>
 
-##### **Sample Call 1: [https://youtu.be/wb\_t9MjqNzI](https://youtu.be/wb_t9MjqNzI)**
+<p>We look forward to helping you generate more leads!</p>
 
-##### **Sample Call 2: [https://youtu.be/8WxY0DUqZwY](https://youtu.be/8WxY0DUqZwY)**
+<p>All the best,</p>
 
-##### **Sample Call 3: [https://youtu.be/6T3PydItICk](https://youtu.be/6T3PydItICk)**
+<p><strong>Terry Shanahan</strong><br>
+President<br>
+1000 Calls A Day<br>
+<a href="mailto:info@1000callsaday.com">info@1000callsaday.com</a><br>
+<a href="tel:1-832-905-1000">1-832-905-1000</a></p>
 
-##### **Sample Call 4: [https://youtu.be/3rKiAnu7vuE](https://youtu.be/3rKiAnu7vuE)**
-
-##### **Sample Call 5: [https://youtu.be/w3PTDwsV\_rw](https://youtu.be/w3PTDwsV_rw)**
-
-##### **Sample Call 6: [https://youtu.be/wQI3\_kZM09U](https://youtu.be/wQI3_kZM09U)**
-
-##### **Sample Call 7: [https://youtu.be/\_xnRgvjO2Zc](https://youtu.be/_xnRgvjO2Zc)**
-
-##### **Sample Call 8: [https://youtu.be/yvel6c6VX30](https://youtu.be/yvel6c6VX30)**
-
-##### **Sample Call 9:[ https://youtu.be/CqyzDUkOuqY](https://youtu.be/CqyzDUkOuqY)**
-
-##### **Sample Call 10: [https://youtu.be/ckvwXZUWp-c](https://youtu.be/ckvwXZUWp-c)**
-
-##### **Additionally, here are three video interviews with different VA callers to give you a better perspective on how great our callers sound:**
-
-##### **Sample Interview 1: [https://youtu.be/4TqmGL\_c1eA](https://youtu.be/4TqmGL_c1eA)**
-
-##### **Sample Interview 2: [https://youtu.be/gQA4ayI7PGI](https://youtu.be/gQA4ayI7PGI)**
-
-##### **Sample Interview 3: [https://youtu.be/VL57JdVYDLM](https://youtu.be/VL57JdVYDLM)**
-
-##### **Thank you for your interest in 1000 Calls A Day! &nbsp;If you have any additional questions about our system, please make sure to check out our website at [www.1000CallsADay.com](www.1000CallsADay.com).**
-
-##### **If you would like to discuss implementing our system into your business, please contact me by email and we will get a conference call set-up as soon as possible.**
-
-##### **We look forward to helping you generate more leads!**
-
-##### **All the best,**
-
-##### **Terry Shanahan**
-
-##### **President**
-
-##### **1000 Calls A Day**
-
-##### **info@1000callsaday.com**
-
-##### **1-832-905-1000**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sMosEcqjbo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
