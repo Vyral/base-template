@@ -26,7 +26,7 @@ youtube_code: gEyLwVu7SWc
 
 This fall market is going to be huge for real estate in Hudson County. Why? Let's take a look.
 
-In terms of timing, our fall market is going to give both buyers and sellers some amazing opportunities this year. If you have been keeping up with my recent videos, you know that inventory has been increasing while buyer demand has been contracting, and that this isn't an economic recession but instead a real estate market change caused by tax reform, interest rates, and new construction entering the market.
+In terms of timing, our fall market is going to give both buyers and sellers some amazing opportunities this year. If you have been keeping up with my recent videos, you know that inventory has been increasing, demand has been decreasing, and that these factors don't indicate a recession but rather a change in our market driven by tax reform, interest rates, and increases in the number of new homes being built.
 
 It looks like our market is starting to respond to all of these factors because my email is full of price improvements and homes going under contract at an accelerated rate. Since sellers have a higher desired product, all they really need to do to overcome the market resistance is identify what price point buyers are most likely to buy rather than rent.
 
