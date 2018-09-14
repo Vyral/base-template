@@ -21,7 +21,7 @@ youtube_code: yvjsEWtOLmg
 
 {% include youtube.html %}
 
-If you plan to sell your home this fall, there are five points you should keep in mind.
+If you plan to sell your home this fall, there are five points you should keep in mind:
 
 **1. We’re still in a strong seller’s market.** A balanced market is one which has six months of available inventory, yet our current market has just three months’ worth of supply right now. In other words, sellers currently have a strong advantage.<br>&nbsp;
 
