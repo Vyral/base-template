@@ -25,7 +25,7 @@ At such a beautiful time of year, it’s easy for a home’s landscaping to look
 
 And this isn’t the only thing to keep in mind when having photos taken of your home. A lot goes into making your home look its best, so today I’d like to share a few tips on the importance of professional photography.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
+**Cited below for your convenience are timestamps that will direct you to various points in the discussion. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
 0:43 - Why hiring a photography early matters
 
