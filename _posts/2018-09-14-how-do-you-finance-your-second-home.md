@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Do You Finance Your Second Home?
-date: 2018-09-14 18:33:25
+date: 2018-09-14 18:33:00
 tags:
   - Real Estate
 excerpt: >-
   How are second homes financed as compared to your primary home? Today I’ll
   discuss the requirements.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+Do+You+Finance+Your+Second+Home%253F.mp4
 pullquote: >-
   With a couple exceptions, the process works the same as when you bought your
   first home.
