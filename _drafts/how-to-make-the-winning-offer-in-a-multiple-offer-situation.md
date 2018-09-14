@@ -20,7 +20,7 @@ youtube_code: LmJGadP1PR8
 
 {% include youtube.html %}
 
-To win out in a multiple offer situation, there are a few tips you can follow to make the best offer possible.
+<center>To win out in a multiple offer situation, there are a few tips you can follow to make the best offer possible.</center>
 
 If you find yourself in a multiple offer situation for a home you love and must have, here are the steps you need to take to make sure you’re the one who ends up with that home.
 
