@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Increase Your Home’s Value Before Selling?
-date: 2018-09-11 18:09:37
+date: 2018-09-11 18:09:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QI5XjCuWmCk
+youtube_code: Kmp8G0D0cdk
 ---
 
 {% include youtube.html %}
@@ -28,7 +28,7 @@ Here at The Kohler Group, we are always striving to uphold your home’s value f
 
 {% include pullquote.html %}
 
-**3. &nbsp;Remove any clutter.** I’m sure you’ve heard this many times before. Removing clutter is essential for buyers being able to see the money features of your home more easily. We want them looking at the flooring, cabinetry, countertops, appliances, and the other emotional grabs of the property. This is really what drives offers.
+**3.  Remove any clutter.** I’m sure you’ve heard this many times before. Removing clutter is essential for buyers being able to see the money features of your home more easily. We want them looking at the flooring, cabinetry, countertops, appliances, and the other emotional grabs of the property. This is really what drives offers.
 
 **4. Make sure the home is clean.** We’re all busy and it’s very challenging to keep a home clean. However, making that extra effort to make the home spotless will give the buyer a great impression of how the home has been cared for over the years. A home cannot be clean enough when it’s on the market.
 
