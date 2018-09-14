@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Use Professional Photography to Make Your Listing Shine
+title: How to Use Professional Photography to Make Your Home Shine
 date: 2018-09-13 17:58:59
 tags:
   - Home Seller Tips
