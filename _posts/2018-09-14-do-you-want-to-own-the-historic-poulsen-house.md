@@ -31,7 +31,7 @@ Everyone who has crossed the Ross Island Bridge has seen this home's three-story
 
 As can be seen in the video, the woodwork is gorgeous with a carved oak fireplace and hardwood floors throughout.
 
-**On the main floor there is a formal dining and living room as well as a functional kitchen,** remodeled to keep with the original character of the home. Going up to the second floor, there are large bedrooms and closets which were most recently used as inspirational office space.
+**On the main floor, there is a formal dining and living room as well as a functional kitchen,** remodeled to keep with the original character of the home. Going up to the second floor, there are large bedrooms and closets which were most recently used as inspirational office space.
 
 Said to have been the original ballroom, the third floor now also boasts three additional bedrooms and one additional bathroom. Whether used as an office space or for entertaining, the kitchenette on this floor is very convenient.
 
