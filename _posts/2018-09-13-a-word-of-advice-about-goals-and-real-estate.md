@@ -21,9 +21,9 @@ youtube_code: nRvySF0f12o
 
 <p style="text-align: center;"><em>In order to purchase or sell real estate, you’ll need to have a goal in mind, and my team and I are there to help you achieve it.</em></p>
 
-I spoke with a young couple recently who were concerned about not being able to save much money with student loans and other debts. They really want to buy a house, but didn’t have any specific goals written down, much less a plan about how to make that happen.
+I spoke with a young couple recently who were concerned about not being able to save much money with student loans and other debts. They really wanted to buy a house, but didn’t have any specific goals written down, much less a plan about how to make that happen.
 
-My team and I are here to help you achieve your real estate goals, whether you want to retire to Florida, you want to buy a bunch of investment properties and build your wealth, or you want to liquidate your portfolio. Whatever it is, we can help you get there.
+My team and I are here to help you achieve your real estate goals, whether you want to retire to Florida, buy a bunch of investment properties and build your wealth, or liquidate your portfolio. Whatever it is, we can help you get there.
 
 You may or may not know that I’ve been training really intensely to run a marathon that’s coming up in about four weeks. **My goal is to finish that marathon, but if I don’t, it’s not the end of the world for me.**
 
@@ -37,4 +37,4 @@ So it’s not about finishing the marathon, because none of those things will go
 
 People with goals, both in life and in real estate, seem to accomplish more because they know where they’re going.
 
-If you own a property but aren’t sure what to do with it, or if you’re thinking about buying one but aren’t sure how real estate can build wealth, reach out to me. We’re not just about buying properties. SOmetimes buying or selling isn’t in a client’s best interested. We can sit down and help you figure about what the best path to reaching your goal will be.
+If you own a property but aren’t sure what to do with it, or if you’re thinking about buying one but aren’t sure how real estate can build wealth, reach out to me. We’re not just about buying properties. Sometimes buying or selling isn’t in a client’s best interested. We can sit down and help you figure about what the best path to reaching your goal will be.
