@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/travis-chatwin-ss-sept-1-no-play.jpg
-youtube_code: LmJGadP1PR8
+youtube_code: MjwMKcTwhY8
 ---
 
 {% include youtube.html %}
