@@ -30,7 +30,7 @@ First, **make an offer that’s higher than the list price**. In a competitive m
 
 Second, **get pre-qualified or pre-approved**. Taking the initiative to work with a lender before you make an offer will let the seller know you mean business. Getting pre-approved or pre-qualified will also tell you what your budget is, what your monthly mortgage payment will be, and what price range you can afford to shop in.
 
-A pre-qualification is an estimate of how much money you’ll be able to secure a loan for, and all it takes is a 10-minute phone call. A pre-approval means your file has been reviewed and approved and, barring any unforeseen circumstances, you should receive a letter from your lender that you can include with you offer. With a pre-approval, you’ll need to gather documents of income, finances, retirement, credit checks, etc., to be reviewed and verified. Your lender and agent can help you determine whether a pre-approval or a pre-qualification is the best option for you, but in this market, I suggest getting a pre-approval.
+A pre-qualification is an estimate of how much money you’ll be able to secure a loan for, and all it takes is a 10-minute phone call. A pre-approval means your file has been reviewed and approved and, barring any unforeseen circumstances, you should receive a letter from your lender that you can include with your offer. With a pre-approval, you’ll need to gather documents of income, finances, retirement, credit checks, etc., to be reviewed and verified. Your lender and agent can help you determine whether a pre-approval or a pre-qualification is the best option for you, but in this market, I suggest getting a pre-approval.
 
 {% include pullquote.html %}
 
