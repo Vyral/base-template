@@ -17,7 +17,7 @@ youtube_code: yfVbaxYXVbQ
 
 {% include youtube.html %}
 
-As the newest member of Team Lally, the journey that led Andrea Pabody to us started on the other side of the real estate transaction.
+As the newest member of Team Lally, Andrea Pabody came to us as the result of a journey that started on the other side of the real estate transaction.
 
 Andrea is an avid Dave Ramsey fan, and she and her husband were actually referred to us back in 2015 when we helped them buy their home. She found it to be an amazing experience, both in dealing with our team and the purchase itself.
 
@@ -33,4 +33,4 @@ If you’d like to know more about Andrea or message her on our website, you can
 
 If there’s anything else we can help you with, don’t hesitate to call or email us anytime. We’d love to help you.
 
-Thanks and aloha!
+Thanks and Aloha!
