@@ -21,7 +21,7 @@ youtube_code: d7obOK3jCuM
 
 <p style="text-align: center;"><em>Buying a home in today’s real estate market isn’t as difficult as you might think. Here are some tips to make things easier for you.</em></p>
 
-We’ve been getting a number of questions about down payments, financing, and getting a mortgage in general. There seems to be a lot of misconceptions out there about the amount of money needed for a downpayment. **A lot of people think that it’s very difficult to get a mortgage in today’s market, but that’s really not true.**
+We’ve been getting a number of questions about down payments, financing, and getting a mortgage in general. There seems to be a lot of misconceptions out there about the amount of money needed for a down payment. **A lot of people think that it’s very difficult to get a mortgage in today’s market, but that’s really not true.**
 
 Here in St. Cloud, there are quite a number of people utilizing the rural development loan program, which allows you to get a 30-year fixed rate mortgage with $0 down. FHA programs only require 3.5% down, and many times we can build closing costs right into the purchase price of the property. **In addition, there are plenty of grant programs out there that will assist buyers with their down payments.**
 
