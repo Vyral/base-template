@@ -40,7 +40,7 @@ The ‘capital’ part shouldn’t scare you—if you follow me on social media,
 
 We’ve actually been working with a very successful passive investor who identified a niche in our market: he has invested in tiny, modular homes and mobile home parks, and **his ROI has been killer**.
 
-If you’re someone who doesn’t want to do any hands-on investing, take a look at [this video](https://youtu.be/x9V3P4Q_hgg) of our interview with a passive investor to learn about some of the real estate benefits of working with our group.
+If you’re someone who doesn’t want to do any hands-on investing, take a look at [this video](https://youtu.be/x9V3P4Q_hgg) of my interview with a passive investor to learn about some of the real estate benefits of working with our group.
 
 For those more interested in active investing, **I highly recommend that you start with educating yourself about real estate**. Investing itself is not inherently risky—it’s the investor who is risky. Ignorance is the most expensive currency, so don’t trade in it. You have to know what you’re doing, and we can help guide you into some of the good training and mentoring programs available. **Lone wolves don’t make it very long in real estate investing**.
 
