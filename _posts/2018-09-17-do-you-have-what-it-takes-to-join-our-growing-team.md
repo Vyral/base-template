@@ -25,4 +25,4 @@ I’ve got an exciting announcement to make today. We’re looking to make a key
 
 This opportunity has a lot of upside potential to take on more responsibility and make more money as responsibilities and results accrue. To learn more about the position and what we’re looking for, watch this short video.
 
-#### **If you or someone you know is interested and wants more details about the position,** ***[click here](https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashley+Carter+Now+Hiring.pdf){: target="_blank"}*.**
+> ##### **If you or someone you know is interested and wants more details about the position,** ***[click here](https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashley+Carter+Now+Hiring.pdf){: target="_blank"}*.**
