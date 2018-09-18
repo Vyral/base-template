@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/oRH-7MI0Mp8'
 
 {% include youtube.html %}
 
-Are you feeling the shift? Is there a market slowdown in your market like there is here in Tulsa?
+Are you feeling the shift?
 
-I knew it was time to dust off “Shift: How Top Real Estate Agents Tackle Tough Times” by Gary Keller, the book that always helps us when we need to reset and re-adjust our thinking and our mindset. No matter if you are in an up or down market, this is always an awesome book for real estate skills.
+With the market slowdown taking place here in Tulsa, I knew it was time to dust off "SHIFT: How Top Real Estate Agents Tackle Tough Times" by Gary Keller. Regardless of how the market is doing, this book is a great resource. It's always helped me re-adjust my mindset when necessary, and I know it can do the same for you."
 
 The reason we’re noticing a shift here in Tulsa, and maybe you are seeing it as well, is that inventory is slowing down. **We aren't selling homes as fast and the ones that we think will sell quickly end up sitting.**
 
