@@ -20,7 +20,9 @@ youtube_code: S-k7cVGkgrk
 
 {% include youtube.html %}
 
-<center>There are two kinds of real estate investing, each of which has its own merits. Today I’ll give you the basics of each so that you can better understand how to become an investor yourself.</center>
+<center><em>There are two kinds of real estate investing, each of which has its own merits. Today I&rsquo;ll give you the basics of each so that you can better understand how to become an investor yourself.</em></center>
+
+&nbsp;
 
 In an effort to help you continue to love where you live, today we’ll be diving into what it takes to become a real estate investor.
 
