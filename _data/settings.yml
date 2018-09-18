@@ -62,11 +62,11 @@ second_sidebar_CTA:
     CTA_url2: 'https://www.btgarizonaproperties.com/'
 lender:
   show_section: true
-  header_text: Preferred Lender
+  header_text: Trusted Partner
   headshot_path: /img/headshot2.jpg
   logo_path: /img/lenderlogo.png
   logo_path_2:
-  name: Amber Kovarik<br>NMLS 184992 | Company NMLS  3274
+  name: 'Amber Kovarik<br>AZ LO 184992<br>Company NMLS  3274 | AZ BK#0018883'
   brand: Sr. Loan Officer
   phone: 480-420-4911
   email: Kovarikteam@guildmortgage.net<br>2151 E Broadway Rd, 111, Tempe, AZ 85282
