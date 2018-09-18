@@ -21,12 +21,12 @@ youtube_code: rynBgV0nbEQ
 
 Today we are continuing our series on selling for the most money in the least amount of time by talking about brightening up your living space.
 
-The easiest thing to do is **open up your blinds.** We go into a lot of homes with closed blinds because the owners want to reduce the incoming heat or want some additional privacy. Opening these up will allow great natural light to come in.
+The easiest thing to do is by&nbsp;**opening up your blinds.** We go into a lot of homes with closed blinds because the owners want to reduce the incoming heat or want some additional privacy. Opening these up will allow great natural light to come in.
 
 {% include pullquote.html %}
 
 Next, **make sure that all your light bulbs work.** They actually will all need to work until after closing because during the walkthrough, if there are any bulbs out, an electrician could have to come and fix it. I highly suggest that you buy higher brightness bulbs such as LED light bulbs. They may cost a little more, but their white light makes it a lot brighter.
 
-You can also **consider buying mirrors.** By adding mirrors, you can make a room like twice as large and they also reflect the light making it even brighter.
+You can also **consider buying mirrors.** By adding mirrors, you can make a room like twice as large and they also reflect the light, making it even brighter.
 
 If you have any questions about this, or if you are interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
