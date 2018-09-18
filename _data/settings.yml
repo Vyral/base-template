@@ -36,16 +36,16 @@ client:
   phone2:
   phone2_type:
   email: inquiries@btgrealestate.com
-  url: http://btgrealestate.com
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808197';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  url: 'http://btgrealestate.com'
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808197';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://kevin.btgarizonaproperties.com/home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://kevin.btgarizonaproperties.com'
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -66,12 +66,12 @@ lender:
   headshot_path: /img/headshot2.jpg
   logo_path: /img/lenderlogo.png
   logo_path_2:
-  name: 'Amber Kovarik | AZ LO 184992'
-  company: 'Company NMLS  3274 | AZ BK#0018883'
+  name: 'Amber Kovarik | AZ LO #184992'
+  company: 'Company NMLS #3274 | AZ BK #0018883'
   brand: Sr. Loan Officer
-  phone: 480-420-4911
-  email: Kovarikteam@guildmortgage.net<br>2151 E Broadway Rd, 111, Tempe, AZ 85282
-  url: 
+  phone: (480) 420-4911
+  email: 'Kovarikteam@guildmortgage.net<br>2151 E Broadway Rd, 111, Tempe, AZ 85282'
+  url:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
