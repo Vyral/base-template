@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deepak-gupta-sept-market-update-ss-no-play.jpg
-youtube_code: sRaYSUg8GUs
+youtube_code: 3vP7nrkbOnE
 ---
 
 {% include youtube.html %}
 
 <center><em>Our market is indeed shifting, but due to several factors, now is still a great time to buy or sell.</em></center>
 
-&nbsp;
+ 
 
 Home prices are on everyone’s mind lately because we’ve been in such a great seller’s market and interest rates have been so low. In terms of what’s going on in our market, there are a few questions that come to mind:
 
