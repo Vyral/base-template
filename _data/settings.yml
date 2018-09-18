@@ -30,7 +30,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.2percentsolution.ca/free-home-evaluation.html
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.2percentsolution.ca/search-all-surrey-mlsreg-listings.html
+  second_CTA_URL: http://www.2percentsolution.ca/mlsreg-system-listings.html
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -44,7 +44,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.2percentsolution.ca/search-all-surrey-mlsreg-listings.html
+    CTA_url2: http://www.2percentsolution.ca/mlsreg-system-listings.html
 
 lender:
   show_section: false
