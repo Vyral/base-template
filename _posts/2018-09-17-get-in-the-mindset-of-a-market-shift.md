@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get in the Mindset of a Market Shift
-date: 2018-09-17 14:32:10
+date: 2018-09-17 14:32:00
 tags:
 excerpt: >-
   If you are feeling the market shifting, it is time to get out “Shift: How Top
@@ -9,8 +9,8 @@ excerpt: >-
   of what that means for you, your sellers, and your buyers.
 enclosure:
 pullquote: >-
-  Whether this is a seasonal cycle that we experience every single year or it is
-  a bigger shift in our market, only time will tell.
+  Only time will tell whether current conditions are driven by our seasonal
+  cycle or whether a bigger shift in our market is taking place.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -22,11 +22,11 @@ youtube_code: 'https://youtu.be/oRH-7MI0Mp8'
 
 Are you feeling the shift?
 
-With the market slowdown taking place here in Tulsa, I knew it was time to dust off "SHIFT: How Top Real Estate Agents Tackle Tough Times" by Gary Keller. Regardless of how the market is doing, this book is a great resource. It's always helped me re-adjust my mindset when necessary, and I know it can do the same for you."
+With the market slowdown taking place here in Tulsa, I knew it was time to dust off **"SHIFT: How Top Real Estate Agents Tackle Tough Times"** by **Gary Keller**. Regardless of how the market is doing, this book is a great resource. It's always helped me re-adjust my mindset when necessary, and I know it can do the same for you.
 
-The reason we’re noticing a shift here in Tulsa, and maybe you are seeing it as well, is that inventory is slowing down. **We aren't selling homes as fast and the ones that we think will sell quickly end up sitting.**
+The reason so many markets are experiencing this shift is because inventory is slowing down. Homes aren't selling as quickly as they were in the past. **Even those that agents expect to do well will tend to sit on the market.**
 
-So whether this is a seasonal cycle that we experience every single year or a bigger shift in our market, only time will tell. However, we do have control over how we think about it, how we handle it, and how we talk with our clients about it.
+Only time will tell whether current conditions are driven by our seasonal cycle or whether a bigger shift in our market is taking place. Either way, we still have control over how we think about our market, how we handle it, and how we talk with our clients about it.
 
 Our clients need us now more than ever, especially in a market like ours where the average sales price is $185,000. If they have a home that’s anywhere from $200,000 to $400,000, the inventory in that price range is getting stale with beautiful homes in wonderful condition just sitting on the market.
 
