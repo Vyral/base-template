@@ -1,19 +1,26 @@
 ---
 layout: post
 title: An Overview of the 2 Kinds of Real Estate Investing
-date:
+date: 2018-09-18 00:00:00
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+excerpt: >-
+  There are two kinds of real estate investing, each of which has its own
+  merits. Today I’ll give you the basics of each so that you can better
+  understand how to become an investor yourself.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jim+Casbarro/Videos/Cobb+County+Real+Estate+-+An+Overview+of+the+2+Kinds+of+Real+Estate+Investing.mp4
+pullquote: Investing itself is not inherently risky—it’s the investor who is risky.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/jim-casbarro-sept-1-ss-no-play.jpg
+youtube_code: S-k7cVGkgrk
 ---
 
 {% include youtube.html %}
+
+There are two kinds of real estate investing, each of which has its own merits. Today I’ll give you the basics of each so that you can better understand how to become an investor yourself.
 
 In an effort to help you continue to love where you live, today we’ll be diving into what it takes to become a real estate investor.
 
@@ -31,7 +38,7 @@ The ‘capital’ part shouldn’t scare you—if you follow me on social media,
 
 We’ve actually been working with a very successful passive investor who identified a niche in our market: he has invested in tiny, modular homes and mobile home parks, and **his ROI has been killer**.
 
-If you’re someone who doesn’t want to do any hands-on investing, take a look at this video of our interview with a passive investor to learn about some of the real estate benefits of working with our group.
+If you’re someone who doesn’t want to do any hands-on investing, take a look at [this video](https://youtu.be/x9V3P4Q_hgg) of our interview with a passive investor to learn about some of the real estate benefits of working with our group.
 
 For those more interested in active investing, **I highly recommend that you start with educating yourself about real estate**. Investing itself is not inherently risky—it’s the investor who is risky. Ignorance is the most expensive currency, so don’t trade in it. You have to know what you’re doing, and we can help guide you into some of the good training and mentoring programs available. **Lone wolves don’t make it very long in real estate investing**.
 
