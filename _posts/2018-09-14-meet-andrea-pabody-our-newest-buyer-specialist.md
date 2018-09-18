@@ -3,8 +3,12 @@ layout: post
 title: 'Meet Andrea Pabody, Our Newest Buyer Specialist'
 date: 2018-09-14 00:00:00
 tags:
-excerpt: yfVbaxYXVbQ
-enclosure:
+  - Real Estate
+excerpt: >-
+  Our newest team member is buyer specialist Andrea Pabody, and here’s her
+  story.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/2018/Hawaii+Real+Estate+Agents-+Video+with+motion+graphic.mp4
 pullquote: >-
   In her words, we have a spirit of community and service and we work together
   very well.
@@ -21,7 +25,7 @@ As the newest member of Team Lally, Andrea Pabody came to us as the result of a 
 
 Andrea is an avid Dave Ramsey fan, and she and her husband were actually referred to us back in 2015 when we helped them buy their home. She found it to be an amazing experience, both in dealing with our team and the purchase itself.
 
-What motivated her to join us? Andrea often thought that she would love to get into real estate, but she never considered it to be a real possibility while she was serving in the Army as a human resources officer. Now that she’s a veteran, she has the opportunity to pursue her dreams, and she thought it only natural to join the same team that provided her with such a great experience when she was a client.
+What motivated her to join us? Andrea often thought that she would love to get into real estate, but she never considered it to be a real possibility while she was serving in the Army as a human resources officer. Now that she’s a veteran, she has the opportunity to pursue her dreams, and **she thought it only natural to join the same team that provided her with such a great experience when she was a client.**
 
 {% include pullquote.html %}
 
@@ -29,7 +33,7 @@ Andrea works as one of our buyer specialists, and what she enjoys most about wor
 
 Moving forward, she’s excited about this new venture and looks forward to helping you with buying, selling, or investing in real estate.
 
-If you’d like to know more about Andrea or message her on our website, you can check out her full profile here. You can also reach her by phone at (808) 386-8770.
+**If you’d like to know more about Andrea or message her on our website, you can check out her full profile [here](https://andrea.besthawaiirealestatesearch.com/){: target="_blank"}.** You can also reach her by phone at (808) 386-8770.
 
 If there’s anything else we can help you with, don’t hesitate to call or email us anytime. We’d love to help you.
 
