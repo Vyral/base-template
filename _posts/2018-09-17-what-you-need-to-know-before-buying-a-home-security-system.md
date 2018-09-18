@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know Before Buying a Home Security System
-date: 2018-09-17 20:01:16
+date: 2018-09-17 20:01:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2SutDd9IzsQ
+youtube_code: y2TBzGK-eJo
 ---
 
 {% include youtube.html %}
 
 Having a home security system comes with both benefits and drawbacks, and if you’re thinking of getting one for yourself and your family, there are a few facts you should know before making a decision.&nbsp;
 
-A study by Home Facts found that just having a theft deterrent was beneficial, but one of the main reasons homeowners decide against getting a home security system is the cost involved—there’s usually an upfront setup fee and ongoing maintenance costs. Between these two expenses, **the overall cost of a home security system can vary widely.**&nbsp;
+A study by HomeFacts found that just having a theft deterrent was beneficial, but one of the main reasons homeowners decide against getting a home security system is the cost involved—there’s usually an upfront setup fee and ongoing maintenance costs. Between these two expenses, **the overall cost of a home security system can vary widely.**&nbsp;
 
 {% include pullquote.html %}
 
