@@ -20,7 +20,7 @@ youtube_code: ecDkyHi_hgc
 
 {% include youtube.html %}
 
-We like helping homebuyers just as much as we like helping home sellers. Here are a few unique advantages we offer to buyers in the Lower Mainland.
+<p style="text-align: center;"><em>We like helping homebuyers just as much as we like helping home sellers. Here are a few unique advantages we offer to buyers in the Lower Mainland.</em></p>
 
 How can we help you with your buying needs at 2 Percent Realty Solution? Here are a few reasons why we think we’re a perfect fit for any home purchaser to work with:
 
