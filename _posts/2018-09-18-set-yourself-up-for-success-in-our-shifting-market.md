@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set Yourself Up for Success in Our Shifting Market
-date: 2018-09-18 21:21:06
+date: 2018-09-18 21:21:00
 tags:
 excerpt: >-
   Our market is shifting, but there are several things you can do to set
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-prepare-for-a-shifting-market-youtube.jpg
-youtube_code: 'https://youtu.be/iLSrCUsRkMU'
+youtube_code: 'https://youtu.be/kNYwmqppqnI'
 ---
 
 {% include youtube.html %}
 
 What does a shifting market mean for you as a real estate agent?
 
-I know I’m not nervous about it, because I know that if I’m consistent, I keep up with the market, and I keep doing the activities I’m supposed to be doing, my team and I will continue to do well. In a shifting market, a lot of agents tend to get out of the business because they can no longer fund their lifestyle. Going into fall and winter, the market is always slower, so what can you do to set yourself up for success and keep earning the income you need?
+I’m not nervous about it, because I know that if I’m consistent, I keep up with the market, and I keep doing the activities I’m supposed to be doing, my team and I will continue to do well. In a shifting market, a lot of agents tend to get out of the business because they can no longer fund their lifestyle. Going into fall and winter, the market is always slower, so what can you do to set yourself up for success and keep earning the income you need?
 
 First, **you need to work harder.** You have to work more hours than your competition and time block so that you’re lead generating two to three hours a day. This is not the time to be working on your business plan; this is the time to reach out and connect. In a shifting market, you need to be touching around 25 people a day. This doesn’t mean just sending out 25 texts; this means getting responses from 25 different people. This is hard to do, but if you’re connecting with that many people a day, five days a week, you won’t feel the shifting market. If anything, your market share will increase.&nbsp;
 
