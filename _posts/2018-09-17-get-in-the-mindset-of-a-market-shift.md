@@ -7,7 +7,8 @@ excerpt: >-
   If you are feeling the market shifting, it is time to get out “Shift: How Top
   Real Estate Agents Tackle Tough Times” by Gary Keller and get into the mindset
   of what that means for you, your sellers, and your buyers.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Do+You+Feel+the+Shift+Happening%253F.mp4
 pullquote: >-
   Only time will tell whether current conditions are driven by our seasonal
   cycle or whether a bigger shift in our market is taking place.
@@ -42,7 +43,7 @@ Our clients need us now more than ever— especially in a market like ours here 
 Now more than ever, it's essential that we guide sellers through seizing opportunities as they appear. To have the right mindset themselves, sellers must understand the mindset of buyers.
 {: .present-before-paste}
 
-**Pricing ahead of the market, which is the seventh tactic** listed in "SHIFT: How Top Real Estate Agents Tackle Tough Times" by Gary Keller, is essential right now. It's time to have a conversation with your clients about reframing their mindset for success in our market.&nbsp;
+**Pricing ahead of the market, which is the seventh tactic** listed in "SHIFT: How Top Real Estate Agents Tackle Tough Times" by Gary Keller, is essential right now. It's time to have a conversation with your clients about reframing their mindset for success in our market. 
 
 **If you and your clients don't price correctly from the start, buyers will move on to the next home.** Especially in a market like what we're seeing now, we've got to set our sellers up for success. That's our job.
 
