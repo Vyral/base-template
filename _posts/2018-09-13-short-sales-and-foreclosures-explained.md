@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Short Sales and Foreclosures Explained
-date: 2018-09-13 16:11:12
+date: 2018-09-13 16:11:00
 tags:
   - Home Seller Tips
 excerpt: There are several differences between a short sale and a foreclosure.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Videos/Athens+Real+Estate+Agent-+The+Difference+Between+Short+Sales+and+Foreclosures.mp4
 pullquote: >-
   When a borrower falls behind on their mortgage, typically their lender will
   give them several opportunities to catch up.
