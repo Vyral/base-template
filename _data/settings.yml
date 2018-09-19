@@ -9,6 +9,8 @@ custom_links:
     url: https://view.pointdrive.linkedin.com/presentations/d99540e2-54c8-41bf-8c42-199edd69e084?auth=56cc9cf7-0808-4013-865a-d302eb7bb0b7
   - title: Video Library
     url: /video-library/
+  - title: Podcast
+    url: /podcast/
 emma:
   lightbox:
   form:
@@ -82,7 +84,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://itunes.apple.com/us/podcast/luxury-listing-specialist-dominate-high-end-listings/id1203325371?mt=2
 
 podcast:
   title: Marketing Luxury Real Estate Podcast Video Blog with Michael LaFido
