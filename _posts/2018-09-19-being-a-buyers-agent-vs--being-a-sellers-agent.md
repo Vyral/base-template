@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Being a Buyer’s Agent vs. Being a Seller’s Agent
-date: 2018-09-19 15:28:38
+date: 2018-09-19 15:28:00
 tags:
-  - Real Estate Coaching
+  - Transaction Management
 excerpt: >-
   Whether you want to be a buyer’s agent or a seller’s agent, here are a few
   things to consider.
