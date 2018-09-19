@@ -18,7 +18,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/mikelafido-screenshot-tube-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-01-1.jpg
-youtube_code: DkOMLH8qXu4
+youtube_code: 4Ohg4qfU3HA
 ---
 
 {% include youtube.html %}
