@@ -22,7 +22,7 @@ youtube_code: YGZya_kxqso
 
 {% include youtube.html %}
 
-You’ve probably heard the saying “a picture is worth a thousand words,” but I believe it’s worth more than that.
+You’ve probably heard the saying “A picture is worth a thousand words,” but I believe it’s worth more than that.
 
 **Zillow, the National Association of Realtors, and other independent agencies have done studies on how valuable professional photographs are to the real estate process.**
 
@@ -30,7 +30,7 @@ These studies have found that great pictures are critical to the marketing of an
 
 Poor photos will automatically send up a red flag for anyone who sees them.
 
-This is why we at the moving on team hire a professional photographer on our buyers’ behalf to make sure that the pictures representing their listing are truly top notch.
+This is why we at The Moving On Team hire a professional photographer on our buyers’ behalf to make sure that the pictures representing their listing are truly top notch.
 
 {% include pullquote.html %}
 
