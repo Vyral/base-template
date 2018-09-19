@@ -44,5 +44,3 @@ What it really comes down to is if it’s the right time for you to move ion in 
 There’s always a way to position yourself to achieve your goals, and we would love to help you with that. If you or anyone you know is interested in buying or selling a home any time in the near future, don’t hesitate to give us a call or send us an email. We would love to hear from you soon.
 
 If you have any additional questions about the real estate business or the real estate market in general, please feel free to reach out by giving me a call or sending me an email today. I look forward to hearing from you soon.
-
-&nbsp;
