@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Do You Want to Own the Historic Poulsen House?
-date: 2018-09-14 18:12:34
+title: 'We Listed This Iconic Portland Landmark, the Poulsen House- Take the Tour'
+date: 2018-09-14 18:12:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: a1vMcSeAx8c
 
 {% include youtube.html %}
 
-Today I want to give you a tour of my listing: the Poulsen House. Located in Portland at 3040 SE McLoughlin Boulevard, this iconic three-story American Queen Anne Style home is absolutely stunning.&nbsp;
+Today I want to give you a tour of my listing: the Poulsen House. Located in Portland at 3040 SE McLoughlin Boulevard, this iconic three-story American Queen Anne Style home is absolutely stunning. 
 
 Everyone who has crossed the Ross Island Bridge has seen this home's three-story turret balcony overlooking Portland. Built in 1892 by lumber tycoon Johan Paulsen, the home continues to stand proud after having been restored to its original glory with some much-needed updates mixed in as well.
 
