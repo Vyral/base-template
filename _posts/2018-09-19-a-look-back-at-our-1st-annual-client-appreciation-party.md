@@ -4,7 +4,7 @@ title: A Look Back at Our 1st Annual Client Appreciation Party
 date: 2018-09-19 19:48:00
 tags:
   - Real Estate
-excerpt: A Look Back at Our 1st Annual Client Appreciation Party
+excerpt: A Look Back at Our 1st Annual Client Appreciation Party.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
