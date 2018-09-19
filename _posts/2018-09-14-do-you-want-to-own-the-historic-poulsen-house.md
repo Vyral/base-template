@@ -25,8 +25,6 @@ Today I want to give you a tour of my listing: the Poulsen House. Located in Por
 
 Everyone who has crossed the Ross Island Bridge has seen this home's three-story turret balcony overlooking Portland. Built in 1892 by lumber tycoon Johan Paulsen, the home continues to stand proud after having been restored to its original glory with some much-needed updates mixed in as well.
 
-**This 5,000-square-foot home has eight bedrooms and has been zoned commercially,** which means that it can be used for either business or residential uses.
-
 {% include pullquote.html %}
 
 As can be seen in the video, the woodwork is gorgeous with a carved oak fireplace and hardwood floors throughout.
