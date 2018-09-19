@@ -2787,6 +2787,9 @@ form select {
   margin-bottom: 10px;
   margin-top: -10px; }
 
+.whitespace {
+  margin-top: 3rem; }
+
 .recruiting {
   text-align: center; }
 

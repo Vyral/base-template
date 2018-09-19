@@ -6,8 +6,9 @@ custom_links:
   - title: Our Services
     url: https://ptdrv.linkedin.com/kv3k5oe
   - title: Testimonials
-    url: /testimonials/
-
+    url: https://view.pointdrive.linkedin.com/presentations/d99540e2-54c8-41bf-8c42-199edd69e084?auth=56cc9cf7-0808-4013-865a-d302eb7bb0b7
+  - title: Video Library
+    url: /video-library/
 emma:
   lightbox:
   form:
