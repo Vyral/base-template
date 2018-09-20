@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why I Believe There Won’t be a Recession This Decade
+title: Why I Believe There Won’t Be a Recession This Decade
 date: 2018-09-19 19:15:00
 tags:
   - Real Estate
