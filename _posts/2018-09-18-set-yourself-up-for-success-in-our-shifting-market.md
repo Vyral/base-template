@@ -25,7 +25,7 @@ I’m not nervous about it, because I know that if I’m consistent, I keep up w
 
 First, **you need to work harder.** You have to work more hours than your competition and time block so that you’re lead generating two to three hours a day. This is not the time to be working on your business plan; this is the time to reach out and connect. In a shifting market, you need to be touching around 25 people a day. This doesn’t mean just sending out 25 texts; this means getting responses from 25 different people. This is hard to do, but if you’re connecting with that many people a day, five days a week, you won’t feel the shifting market. If anything, your market share will increase.&nbsp;
 
-During your time blocking sessions, you can also **go door-knocking.** If you don’t have any listings, find someone in your office who does, ask if you can sit one of their open houses, and go door-knocking through that home’s neighborhood.
+During your time blocking sessions, you can also **go door-knocking.** If you don’t have any listings, find someone in your office who does, ask if you can sit in during one of their open houses, and go door-knocking through that home’s neighborhood.
 
 {% include pullquote.html %}
 
