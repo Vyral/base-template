@@ -3,13 +3,11 @@ layout: post
 title: Why Do 87% of All Real Estate Agents Fail?
 date: 2018-05-17 18:26:00
 tags:
-  - Transaction Management
 excerpt: >-
   Unfortunately, most agents never find success in real estate. If you’ve the
   drive to be among the few who prevail, though, I’ve got some important tips to
   share with you today.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Shawn+O'Neill/Videos/2018/September/Jacksonville+Real+Estate+Agent-+Being+a+Buyers+Agent+vs.+Being+a+Sellers+Agent.mp4
+enclosure:
 pullquote: >-
   Success is a long journey of failures—the key is to move on quickly and
   enthusiastically from your failures, instead of letting them hold you back.
@@ -17,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/whats-your-why-youtube.jpg
-youtube_code: 7ENjRlJbe2E
+youtube_code: Am6vcp8u0Z8
 ---
 
 {% include youtube.html %}
