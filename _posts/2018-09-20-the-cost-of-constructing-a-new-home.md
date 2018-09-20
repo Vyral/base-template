@@ -21,7 +21,7 @@ youtube_code: YR2bYjEfxmY
 
 {% include youtube.html %}
 
-The cost of building a home can range widely, but I have a resource that can help you break it down and give you an idea of what to expect.
+<p style="tet-align: center;"><em>The cost of building a home can range widely, but I have a resource that can help you break it down and give you an idea of what to expect.</em></p>
 
 When someone is looking at a plot of vacant land with the intention of building on it, they often come to me asking what it costs to undergo such a process.&nbsp;
 
