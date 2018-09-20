@@ -1,10 +1,15 @@
 ---
 layout: post
 title: The Cost of Waiting to Buy Later Vs. Now
-date: 2018-09-20 20:29:30
+date: 2018-09-20 20:29:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Does waiting to buy seem like the right decision for you? It may not be. To
+  help me explain why this is, I have invited Steve Hankla from Doorway Home
+  Loans to take a look at the cost of you waiting instead of buying now. Since
+  the market is expected to correct itself which could mean higher interest
+  rates.
 enclosure:
 pullquote: >-
   Steve Hankla joins me to talk about what a home would cost you today versus
