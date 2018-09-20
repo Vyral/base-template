@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jim-casbarro-sept-1-ss-no-play.jpg
-youtube_code: S-k7cVGkgrk
+youtube_code: __EJKzWeue8
 ---
 
 {% include youtube.html %}
 
 <center><em>There are two kinds of real estate investing, each of which has its own merits.<br />Today I&rsquo;ll give you the basics of each so that you can better understand how to become an investor yourself.</em></center>
 
-&nbsp;
+ 
 
 In an effort to help you continue to love where you live, today we’ll be diving into what it takes to become a real estate investor.
 
