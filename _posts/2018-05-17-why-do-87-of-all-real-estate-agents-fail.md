@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Why Do 87% of All Real Estate Agents Fail?
-date: 2018-05-17 18:26:36
+date: 2018-05-17 18:26:00
 tags:
-  - Real Estate
+  - Transaction Management
 excerpt: >-
   Unfortunately, most agents never find success in real estate. If you’ve the
   drive to be among the few who prevail, though, I’ve got some important tips to
   share with you today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Shawn+O'Neill/Videos/2018/September/Jacksonville+Real+Estate+Agent-+Being+a+Buyers+Agent+vs.+Being+a+Sellers+Agent.mp4
 pullquote: >-
   Success is a long journey of failures—the key is to move on quickly and
   enthusiastically from your failures, instead of letting them hold you back.
@@ -16,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/whats-your-why-youtube.jpg
-youtube_code: Am6vcp8u0Z8
+youtube_code: 7ENjRlJbe2E
 ---
 
 {% include youtube.html %}
@@ -35,7 +36,7 @@ These statistics are important because you’ve got to multiply the commission b
 
 {% include pullquote.html %}
 
-**With everything we’ve discussed so far in mind, it’s time to ask yourself about your standards and time commitments.** It’s very hard to make a full-time income by doing part-time work. Not acknowledging this discrepancy is one of the biggest reasons agents fail. If you do only plan to work part-time as an agent, you’ve still got to put in a full-time level of effort. It’s all about making a commitment. If for you that means being a part-time agent with a &nbsp;full-time commitment three days a week, that’s fine. The important thing is that you hold yourself to a high standard and commit to your goals.
+**With everything we’ve discussed so far in mind, it’s time to ask yourself about your standards and time commitments.** It’s very hard to make a full-time income by doing part-time work. Not acknowledging this discrepancy is one of the biggest reasons agents fail. If you do only plan to work part-time as an agent, you’ve still got to put in a full-time level of effort. It’s all about making a commitment. If for you that means being a part-time agent with a  full-time commitment three days a week, that’s fine. The important thing is that you hold yourself to a high standard and commit to your goals.
 
 What to do with the time you’ve committed to your goals, however, is where many agents get stuck. **The balance of time and money is something all agents will need to grapple with in their career.** You need to treat yourself like a business, and businesses have expenses. As an agent, you’ve got many different ways you can approach this balance. One way to address this is by joining a brokerage. At my brokerage, for example, we like to help agents use their time, not their money, to reach their goals.
 
