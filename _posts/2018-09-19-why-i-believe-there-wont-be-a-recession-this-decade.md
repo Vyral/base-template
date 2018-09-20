@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Will There Be a Recession This Decade?
-date: 2018-09-19 19:15:09
+title: Why I Believe There Won’t be a Recession This Decade
+date: 2018-09-19 19:15:00
 tags:
   - Real Estate
 excerpt: >-
@@ -36,5 +36,3 @@ A lot of people are asking me whether or not another recession is coming in the 
 8:30- Why homeowners who lose their jobs these days have a leg up on buyers who lost their jobs during the previous recession.
 
 **While home prices have continued to go up, I expect to see some stabilization there in the near future and I do not expect us to see a recession in the next three or four years.** If you have any questions for me in the meantime about the market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
