@@ -2,8 +2,8 @@ audit_header: false
 title: The Jarnagin Team
 description: >-
   If you are looking to buy or sell a home, get all the information and the
-  latest updates, tips, and tricks from The Jarnagin Team - your professional Real
-  Estate Agents.
+  latest updates, tips, and tricks from The Jarnagin Team - your professional
+  Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,8 +11,8 @@ custom_links:
 client:
   name: The Jarnagin Team
   license_number:
-  about_markdown: >
-    The The Jarnagin Team is a powerhouse team made up of top agents and an
+  about_markdown: >-
+    The Jarnagin Team is a powerhouse team made up of top agents and an
     excellent office staff. The team was put together to offer clients a real
     estate experience that exceed expectations backed by a guarantee. With
     individualized buyers' agents and sellers’ agents we can offer additional
