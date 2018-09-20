@@ -3,10 +3,14 @@ layout: post
 title: See What Makes Topsail State Park a Phenomenal Place to Explore
 tags:
   - Buyer Tips
-excerpt: See What Makes Topsail State Park a Phenomenal Place to Explore
+excerpt: >-
+  Topsail State Park is a great place to enjoy everything our coastline has to
+  offer.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/2018/Enjoy+this+Aerial+Tour+of+Topsail+State+Park+in+Santa+Rosa+Beach+by+the+Nathan+Abbott+Team.mp4
-pullquote: See What Makes Topsail State Park a Phenomenal Place to Explore
+pullquote: >-
+  Topsail State Park is a great place to enjoy everything our coastline has to
+  offer.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
