@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Positive Cash Flow Looks Like
-date: 2018-09-18 18:17:52
+date: 2018-09-18 18:17:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,7 +9,9 @@ excerpt: >-
   example of what i’m talking about.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brent+Dildine/Brent+Dildine-+What+Is+Positive+Cash+Flow%253F.mp4
-pullquote: Here’s an example of what positive cash flow is all about.
+pullquote: >-
+  Instead of selling their current property, this converted it into a rental
+  home and found a tenant who was willing to pay them $1,900 a month in rent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,9 +21,7 @@ youtube_code: zwdH0yionk4
 
 {% include youtube.html %}
 
-To give you an example of how rental income properties are used to generate positive cash flow, I’ll tell you about a situation I came across recently.
-
-This situation involved a family who owned a home for two years and then decided they wanted to buy another one. The mortgage payment for their first home was approximately $1,400 a month, so they converted their current home into a rental home and found a tenant who was willing to pay them $1,900 a month in rent.
+I recently encountered a family who had owned a home for two years before deciding they wanted to buy another one. The mortgage payment for their first home was approximately $1,400 a month, so instead of selling it, they converted it into a rental home and found a tenant who was willing to pay them $1,900 a month in rent
 
 {% include pullquote.html %}
 
