@@ -21,7 +21,7 @@ youtube_code: zWpHqrAWJ8Q
 
 {% include youtube.html %}
 
-Buying a home isn’t easy. There are plenty of mistakes that can be made throughout the process. Not knowing how much they can afford is a big one.
+Buying a home isn’t easy. There are plenty of mistakes that can be made throughout the process. Not knowing how much you can afford is a big one.
 
 **Additionally, not realizing that the wrong mortgage can cost thousands of dollars in needless expenses is another big mistake.** You’ll need to look beyond a standard 30-year mortgage and investigate other options that are available.
 
