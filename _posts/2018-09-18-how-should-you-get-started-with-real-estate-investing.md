@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should You Get Started With Real Estate Investing?
-date: 2018-09-18 15:36:48
+date: 2018-09-18 15:36:00
 tags:
 excerpt: >-
   Have you been bitten by the real estate investment bug? Here are three ways to
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: WRjhX67en8U
+youtube_code: qrL1LEVLS0Y
 ---
 
 {% include youtube.html %}
