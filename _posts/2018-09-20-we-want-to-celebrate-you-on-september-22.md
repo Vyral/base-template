@@ -27,4 +27,6 @@ Because of that, I want to do something for you and let you know how much you’
 
 In addition, we’ll be giving away gifts and raffling off some great items for you all. I really want to see you all and let you know about some exciting developments that I have in store as well.
 
+[**To RSVP for the event, click here!**](https://www.eventbrite.com/e/clients-and-friends-appreciation-event-tickets-50238638119)
+
 If you have any questions for me in the meantime, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon!
