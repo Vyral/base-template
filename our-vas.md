@@ -3,7 +3,9 @@ layout: default
 title: What Do Our Va's Sound Like?
 permalink: /our-vas/
 ---
+<div class="whitespace"></div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sMosEcqjbo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="whitespace"></div>
 
 <p>Dear Real Estate Professional,</p>
 
