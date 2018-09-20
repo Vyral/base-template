@@ -21,7 +21,7 @@ youtube_code: 4QkgjYsC6a4
 
 {% include youtube.html %}
 
-Matt Weaver joined me recently to talk about how to have success in this real estate market. Here’s our full discussion.
+<p style="text-align: center;"><em>Matt Weaver joined me recently to talk about how to have success in this real estate market. Here’s our full discussion.</em></p>
 
 I recently had a great sit down with Matt Weaver where we talked about winning strategies in the real estate market. **We talked about where the market is, where it’s headed, and how you can come out on top.**
 
