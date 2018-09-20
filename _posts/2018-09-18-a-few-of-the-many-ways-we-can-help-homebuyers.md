@@ -26,7 +26,7 @@ How can we help you with your buying needs at 2 Percent Realty Solution? Here ar
 
 **Our team offers full-service purchasing all across the Lower Mainland.** We have agents from Vancouver all the way to Abbotsford. We also offer a VIP buyer program, which you can learn more about [here.](http://www.2percentsolution.ca/buying-and-selling-guides/vip-buyer.html){: target="_blank"}
 
-<br>**Additionally, through the end of 2018, we’re offering a cash rebate to all the homebuyers who close on a purchase with us.** That’s right, we are offering up to 20% of our commissions from the home seller to pass on to you as a buyer as a way to say thank you for using us as your preferred agent.
+<br>**Additionally, through the end of 2018, we’re offering a cash rebate to all the homebuyers who close on a purchase with us.** That’s right&#151;we are offering up to 20% of our commissions from the home seller to pass on to you as a buyer as a way to say thank you for using us as your preferred agent.
 
 {% include pullquote.html %}
 
