@@ -27,7 +27,7 @@ It’s true that homes are taking longer to sell this year than they did last ye
 
 **1. Price your home at market value.** We have more inventory now and buyers aren’t overpaying like they used to. Pricing at market value will ensure that you win and get the most possible money for your home.
 
-**2. Serious buyers are looking now.** In this summer market, we have a lot more buyers, but a lot of those buyers are just lookers. Right now, our agents are working with about 15-20 active, pre-qualified buyers at a time that are ready to buy now. When do you want your first offer? Let’s make that happen.
+**2. Serious buyers are looking now.** In this summer market, we have a lot more buyers, but a lot of those buyers are just lookers. Right now, our agents are working with about 15-20 active, pre-qualified buyers at a time that are ready to buy. When do you want your first offer? Let’s make that happen.
 
 **3. Investors are looking for transactions now.** Many investor buyers, including the ones we are working with, need to buy before the end of the year for tax reasons.&nbsp;
 
