@@ -20,7 +20,7 @@ youtube_code: N9sCuw5v-Eo
 
 {% include youtube.html %}
 
-This time on “Business Spotlight” we took a trip down to another local favorite: Molli’s Cafe.
+<center>This time on “Business Spotlight” we took a trip down to another local favorite: Molli’s Cafe.</center>
 
 On today’s Business Spotlight, we’ll be highlighting another great business on Main Street: Molli’s Cafe.
 
