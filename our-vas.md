@@ -3,6 +3,8 @@ layout: default
 title: What Do Our Va's Sound Like?
 permalink: /our-vas/
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sMosEcqjbo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <p>Dear Real Estate Professional,</p>
 
 <p>Thank you for your interest in 1000 Calls A Day!</p>
@@ -59,5 +61,3 @@ President<br>
 1000 Calls A Day<br>
 <a href="mailto:info@1000callsaday.com">info@1000callsaday.com</a><br>
 <a href="tel:1-832-905-1000">1-832-905-1000</a></p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sMosEcqjbo8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
