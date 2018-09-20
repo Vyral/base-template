@@ -16,4 +16,4 @@ youtube_code: eULA4x27dao
 
 {% include youtube.html %}
 
-As most of you know, we just got done celebrating our first annual client appreciation party. We had a great time celebrating with our friends, family, and clients, and we want to thank you for your trust and your loyalty. If you couldn’t make it, we’ve put together a highlight reel of all the festivities that took place. We hope you enjoy it, and we hope to see you next year. To see all the highlights, watch this short video.
+As most of you know, we just got done celebrating our first annual client appreciation party. We had a great time celebrating with our friends, family, and clients, and we want to thank you for your trust and your loyalty. For those who couldn't make it, we've put together a highlight reel of the festivities We hope you enjoy it, and we hope to see you next year. To see all the highlights, watch this short video.
