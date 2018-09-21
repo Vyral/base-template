@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Professional Tips for Home Buying Success
-date: 2018-09-20 15:49:37
+date: 2018-09-20 15:49:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/buyers-agent-tips-youtube.jpg
-youtube_code: rxWLkeh18Ic
+youtube_code: aFZcdxOeJ58
 ---
 
 {% include youtube.html %}
