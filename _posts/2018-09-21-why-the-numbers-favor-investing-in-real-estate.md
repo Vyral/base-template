@@ -21,7 +21,7 @@ youtube_code: riolmUQeIFc
 
 {% include youtube.html %}
 
-Real estate is a great avenue to invest your money in, and today I’ll show you the numbers that prove why.
+<p satyle="text-align: center;"><em>Real estate is a great avenue to invest your money in, and today I’ll show you the numbers that prove why.</em></p>
 
 To show you the benefits of investing in real estate, I want to go over the spreadsheet numbers of a property we recently purchased as part of a long-term hold strategy.
 
