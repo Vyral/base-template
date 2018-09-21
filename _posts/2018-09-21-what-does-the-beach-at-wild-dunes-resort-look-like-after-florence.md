@@ -17,7 +17,7 @@ youtube_code: dPHJdnGMY_E
 
 {% include youtube.html %}
 
-Take a look at how Hurricane Florence affected &nbsp;the coast in my video.
+<p style="text-align: center;"><em>Take a look at how Hurricane Florence affected the coast in my video.</em></p>
 
 Today I wanted to give those of you who haven’t already seen it a glimpse at what the beach looks like following Hurricane Florence. Looking at the shore about 20 minutes from high tide, you can see **places in the sand where ridges were breached** by the storm’s massive waves.
 
