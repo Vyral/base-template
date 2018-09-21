@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Mistakes to Avoid When Selling
-date: 2018-09-20 20:42:42
+date: 2018-09-20 20:42:00
 tags:
   - Home Seller Tips
 excerpt: Are you making any of these six selling mistakes?
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: wtUmorjfLtg
+youtube_code: YCB6qQb2Xa4
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ In my 14-year career, I have seen many sellers make detrimental mistakes. Today 
 
 **4. Neglecting to declutter.** Most buyers start their home searches online, so you want your pictures to show off your home, not your stuff. If you leave your home cluttered, there’s a good chance buyers won’t want to look at your home. To help declutter, get boxes to pack up personal items and store them in the garage or a storage pod.&nbsp;
 
-**5. Not allowing adequate access to your home.** Make sure your home is show ready for potential buyers to see your home because I found out that eight out of 10 buyers won’t try to see your home a second time.&nbsp;
+**5. Not allowing adequate access to your home.** Make sure your home is show-ready for potential buyers, because I found out that eight out of 10 won’t try to see your home a second time.&nbsp;
 
 **6. Getting too emotional about your house.** Sellers are sometimes very attached to their homes because they have a lot of memories there, but when you sell your home, you need to look at it as a property, not your home. If someone gives you a lowball offer or they talk about remodeling the home once they move in, don’t take it personally, especially if you got the money you wanted.&nbsp;
 
