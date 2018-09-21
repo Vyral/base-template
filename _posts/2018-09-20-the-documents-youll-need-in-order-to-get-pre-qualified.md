@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Documents You’ll Need In Order to Get Pre-Qualified
+title: The Documents You’ll Need in Order to Get Pre-Qualified
 date: 2018-09-20 14:27:00
 tags:
   - Home Loans
@@ -24,7 +24,7 @@ youtube_code: M8NeJ9VIUjc
 
 Today I want to provide you with a list of documents you’ll be required to have in order to get pre-qualified for a home loan if you’re going FHA, VA, or if you’re self-employed.
 
-With both FHA and conventional loans, you’ll need the same documents:
+**With both FHA and conventional loans, you’ll need the same documents:**
 
 * The two most recent pay stubs for both the main borrower and the co-borrower if there is one
 * Tax returns for the past two years
@@ -32,16 +32,16 @@ With both FHA and conventional loans, you’ll need the same documents:
 * A copy of your driver’s license
 * A copy of your social security card
 
-If you’re in the military or are a veteran and you qualify for a VA loan, the documents you’ll need are slightly different:
+**If you’re in the military or are a veteran and you qualify for a VA loan, the documents you’ll need are slightly different:**
 
-* Your latest leave and earnings statement (if you’re active duty)
+* Your latest Leave and Earnings Statement (if you’re active duty)
 * Your certificate of eligibility
 * Your tax returns
 * Your most recent bank statements
 
 {% include pullquote.html %}
 
-If you’re self-employed, there are two different options:
+**If you’re self-employed, there are two different options:**
 
 * Two years of tax returns, which allows us to base your income on how much you declare as profit at the end of the year
 
