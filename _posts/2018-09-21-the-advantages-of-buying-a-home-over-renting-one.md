@@ -20,7 +20,9 @@ youtube_code: ejsxy40Wvro
 
 {% include youtube.html %}
 
-<center>Is it a better idea to rent a home or buy one? Kyle Rush joined me recently to discuss.</center>
+<center><em>Is it a better idea to rent a home or buy one? Kyle Rush joined me recently to discuss.</em></center>
+
+&nbsp;
 
 Today, Kyle Rush of Guild Mortgage is here to answer a common question we both hear from our clients: **Is it better to rent a home or to buy one?**
 
