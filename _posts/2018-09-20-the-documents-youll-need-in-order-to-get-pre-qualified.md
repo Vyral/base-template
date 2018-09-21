@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Documents You’ll Need In Order to Get Pre-Qualified
-date: 2018-09-20 14:27:05
+date: 2018-09-20 14:27:00
 tags:
   - Home Loans
   - Finance Advice
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: E6J7Ih5x78w
+youtube_code: M8NeJ9VIUjc
 ---
 
 {% include youtube.html %}
@@ -54,5 +54,3 @@ Now that you know the documents needed, what do you do with them? Well, we can s
 Remember that the first step in the home buying process to get pre-qualified—don’t start by looking at homes or going to open houses. You first need to determine what is the maximum amount you’d qualify for, what your options are, and how much your monthly payments would be at different price points. You only want to be looking at houses you can afford, and the only way to do that is to get pre-qualified.
 
 If you have any questions or would like to set up an appointment with me, please feel free to reach out. I’d love to discuss your situation and see how we can help you move forward.
-
-&nbsp;
