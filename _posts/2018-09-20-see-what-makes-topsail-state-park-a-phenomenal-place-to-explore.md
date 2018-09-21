@@ -24,4 +24,4 @@ Topsail State Park is one of the staples of Miramar Beach, and I have a quick ae
 
 {% include pullquote.html %}
 
-Grand Boulevard is also close by, and it offers a variety of entertainment options. As a local, my own office building is located just five minutes away, and I can tell you that it’s easy to void the traffic most times of the year. Overall, it’s a great place to enjoy everything our coastline has to offer. To get the full aerial tour, watch this short video.
+Grand Boulevard is also close by, and it offers a variety of entertainment options. As a local, my own office building is located just five minutes away, and I can tell you that it’s easy to avoid the traffic most times of the year. Overall, it’s a great place to enjoy everything our coastline has to offer. To get the full aerial tour, watch this short video.
