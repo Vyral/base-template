@@ -20,7 +20,7 @@ youtube_code: L_3iJFJHmdw
 
 {% include youtube.html %}
 
-Did you know that fall is actually the second-best time of the year to list your home on the market? With summer ending and fall fast approaching, that means that now is a great time to list your home.
+Did you know that fall is actually the second-best time of the year to list your home on the market? With summer ending and fall fast approaching, **that means that now is a great time to list your home.**
 
 If you are looking to sell, you have a window of opportunity after children have returned to school and before Thanksgiving to get it done. After Thanksgiving, the market starts to slow down, so if you are thinking about selling, or if you really need to get on the market and get it sold, now's the time.
 
