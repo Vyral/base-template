@@ -20,7 +20,7 @@ youtube_code: Gy-l0eFM6hc
 
 {% include youtube.html %}
 
-Topsail State Park is one of the staples of Miramar Beach, and I have a quick aerial tour of the area to show you today. With many lakes and walking trails to choose from, it’s a phenomenal place to explore. The Gulf frontage is untouched, and is surrounded by some of the most incredible resorts along our coastline.
+Topsail State Park is one of the staples of Miramar Beach and Santa Rosa Beach, and I have a quick aerial tour of the area to show you today. With many lakes and walking trails to choose from, it’s a phenomenal place to explore. The Gulf frontage is untouched, and is surrounded by some of the most incredible resorts along our coastline.
 
 {% include pullquote.html %}
 
