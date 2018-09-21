@@ -20,7 +20,7 @@ youtube_code: GxASqWzs-98
 
 {% include youtube.html %}
 
-There are a few important mortgage terms you should be familiar with. Today I’d like to highlight one phrase in particular: mortgage insurance.
+There are a few important mortgage terms you should be familiar with. Today I’d like to highlight one phrase in particular: Mortgage insurance.
 
 Mortgage insurance refers to coverage that protects the bank when buyers use a loan to purchase a property. This coverage ensures that the bank will be paid in the event of a foreclosure.
 
