@@ -23,7 +23,7 @@ youtube_code: 8emy_BTNFDo
 
 Sometimes, homeowners may fail to notice the parts of their property that are outdated or worse for wear. It’s easy to overlook issues in one’s own home. However, when it comes time to list, homeowners should realize that the buyers they’re bringing in will certainly notice these flaws.
 
-Thankfully, there are a few ways you can boost your home’s value before you sell, and today I’ll be sharing four of the most effective.
+Thankfully, there are a few ways you can boost your home’s value before you sell, and today I’ll be sharing four of the most effective:
 
 **1. Update the bathroom.** Changing out hardware like towel racks or the knobs on cabinets can be an inexpensive way to give your bathroom a facelift. Or, if money permits, upgrading your tile can be even more beneficial.
 
