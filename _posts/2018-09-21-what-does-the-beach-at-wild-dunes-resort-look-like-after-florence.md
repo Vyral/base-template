@@ -4,7 +4,7 @@ title: What Does the Beach at Wild Dunes Resort Look Like After Florence?
 date: 2018-09-21 14:54:00
 tags:
   - Real Estate
-excerpt: Take a look at how Hurricane Florence affected  the coast in my video.
+excerpt: Take a look at how Hurricane Florence affected the coast in my video.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2018/Charleston+Real+Estate+%257C+The+Mikki+Ramey+Team-+After+the+Hurricane.mp4
 pullquote: I’m sure other areas of the coast are in a similar condition.
