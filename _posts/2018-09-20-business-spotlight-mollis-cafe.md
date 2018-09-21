@@ -32,7 +32,7 @@ This awesome local restaurant is one of our absolute favorites, which is why we�
 
 {% include pullquote.html %}
 
-If salad isn’t up-your-alley, they’ve got a number of other great menu items to try. Whether you’re craving a turkey club, a “Great Dane,” or any other cafe favorite, **Molli’s has got something for you**.
+If salad isn’t up your alley, they’ve got a number of other great menu items to try. Whether you’re craving a turkey club, a “Great Dane,” or any other cafe favorite, **Molli’s has got something for you**.
 
 But more than just the delicious food offered here, there’s another reason why Molli’s is such a special place to us. Like many of the businesses on Main Street, Molli’s Cafe genuinely cares about giving back to our community.
 
