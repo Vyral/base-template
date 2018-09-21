@@ -21,7 +21,7 @@ youtube_code: PqSkP1uTjGE
 
 {% include youtube.html %}
 
-How much is a typical real estate commission? Actually, there isn’t a “typical” anymore.
+<p style="text-align: center;"><em>How much is a typical real estate commission? Actually, there isn’t a “typical” anymore.</em></p>
 
 What is the typical real estate commission percentage? Over the years it was 6%, but why?
 
