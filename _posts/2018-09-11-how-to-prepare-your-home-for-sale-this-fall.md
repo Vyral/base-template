@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How to Prepare Your Home for Sale This Fall
-date: 2018-09-11 16:50:04
+date: 2018-09-11 16:50:00
 tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
   Are you thinking about selling your home this fall, winter, or next spring?
   Here are some tips to help you get ready this fall.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+What+Should+You+Do+This+Fall+to+Prepare+for+Your+Home+Sale%253F.mp4
 pullquote: Taking some photos while the grass is green is a great idea.
 enclosure_type: video/mp4
 enclosure_time:
