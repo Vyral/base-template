@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-sept-1-ss-no-play.jpg
-youtube_code: 6hO0peyDvbs
+youtube_code: vI6ae8aA50w
 ---
 
 {% include youtube.html %}
