@@ -33,7 +33,7 @@ There were 11 homes featured, all with floor plans, descriptions of the finishes
 
 {% include pullquote.html %}
 
-The prices of these homes range from under $200 per square foot to over $300, averaging out at about $228 per square foot. If you’d like to see the homes and explore their details so you can have an idea of what kind of home you could build, **check out this <a href="https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/ParadeofHomes_20180826_X24-X45.pdf" target="_blank" style="color: #1155CC;"><strong>PDF file.</strong></a>
+The prices of these homes range from under $200 per square foot to over $300, averaging out at about $228 per square foot. If you’d like to see the homes and explore their details so you can have an idea of what kind of home you could build, <strong>check out this <a href="https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/ParadeofHomes_20180826_X24-X45.pdf" target="_blank" style="color: #1155CC;">PDF file.</a></strong>
 
 Prices have crept up about 3% from last year. We’re going to turn this into a yearly event and report back to you next year when the next Parade of Homes is set to begin, letting you know how prices have changed over time.
 
