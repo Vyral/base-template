@@ -26,7 +26,7 @@ You’ve probably heard them advertised on television. But there’s actually a 
 
 **These companies make it seem like the normal selling process is majorly inconvenient, but this isn’t true.** In fact, if you work with an experienced agent you’ll almost certainly earn a higher level of success through a traditional selling experience than by working with one of these guaranteed offer companies.&nbsp;
 
-To illustrate this, I recently ran an analysis on the results you might achieve from selling to one of the most popular guaranteed offer companies (Opendoor.com) versus what you could expect from a normal listing experience.&nbsp;
+To illustrate this, I recently ran an analysis on the results you might achieve from selling to one of the most popular guaranteed offer companies Opendoor versus what you could expect from a normal listing experience.&nbsp;
 
 {% include pullquote.html %}
 
