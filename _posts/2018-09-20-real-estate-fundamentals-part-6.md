@@ -36,12 +36,14 @@ Today in the sixth installment of my webinar series about the fundamentals of re
 
 15:10 - Why you need to ask “Why?”
 
-19:10 - The numbers that can and can’t be tracked in the multi-year trend report and where you can go to find the numbers that aren’t tracked: &nbsp;Daily104.com.
+19:10 - The numbers that can and can’t be tracked in the multi-year trend report and where you can go to find the numbers that aren’t tracked: &nbsp;[Daily104.com](http://Daily104.com){: target="_blank"}.
 
-20:04 - The activities that are tracked on Daily104.com.
+20:04 - The activities that are tracked on [Daily104.com](http://Daily104.com){: target="_blank"}.
 
 23:34 - The final piece of analyzing your multi-year trend report and how it breaks down where you’re at with your four conversations: appointments, listings taken, closed units, and GCI.
 
 27:20 - How focusing on two conversations, your number of appointments, and the number of listings taken can tell you what activities need to change in your business.
 
-This is the same playbook that the best agents in the country are running; it’s just a matter of modifying the effort and activity within that model. If you haven’t already done this with your first quarter numbers of 2018, I encourage you to download your multi-year trend report today and use the second quarter to get back on track.
+This is the same playbook that the best agents in the country are running; it’s just a matter of modifying the effort and activity within that model. If you haven’t already done this with your first quarter numbers of 2018, I encourage you to download your multi-year trend report today and use the second quarter to get back on track.&nbsp;
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
