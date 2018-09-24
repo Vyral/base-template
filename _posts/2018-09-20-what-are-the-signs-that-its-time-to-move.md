@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Are the Signs that It’s Time to Move?
-date: 2018-09-20 16:08:24
+title: What Are the Signs That It’s Time to Move?
+date: 2018-09-20 16:08:00
 tags:
   - Home Seller Tips
 excerpt: >-
