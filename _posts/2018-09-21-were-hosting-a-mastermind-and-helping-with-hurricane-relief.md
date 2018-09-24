@@ -19,7 +19,7 @@ youtube_code: LHtiegJYbfY
 
 {% include youtube.html %}
 
-I’ve got two different things to share with you today. **The first is how you can personally sell 100 listings in one year.** We have two agents on our team who will sell just about 200 listings between them, so we are hosting a FREE agent mastermind to share how they are able to do that with our team’s leads, leverage, and systems. This mastermind will take place on September 28 from 11 a.m. until 2 p.m. All agents from all brokerages are invited to join us at this free mastermind. **[RSVP here.&nbsp;](https://www.eventbrite.com/e/charleston-agent-mastermind-how-to-focus-on-listings-in-a-shift-tickets-50232513801)**
+I’ve got two different things to share with you today. **The first is how you can personally sell 100 listings in one year.** We have two agents on our team who will sell just about 200 listings between them, so we are hosting a FREE agent mastermind to share how they are able to do that with our team’s leads, leverage, and systems. This mastermind will take place on September 28 from 11 a.m. until 2 p.m. All agents from all brokerages are invited to join us at this free mastermind. **[RSVP here.&nbsp;](https://www.eventbrite.com/e/charleston-agent-mastermind-how-to-focus-on-listings-in-a-shift-tickets-50232513801){: target="_blank"}**
 
 **The second thing I wanted to talk about was our Hurricane Florence relief efforts.** Some of us stayed around after the evacuation and bought a lot of water, supplies, and more that we don’t need right now but others do. We’ll be donating those, and we invite you to donate any supplies you might have to our office. We’re going to get a truck together to ship those items to North Carolina to people in need.
 
