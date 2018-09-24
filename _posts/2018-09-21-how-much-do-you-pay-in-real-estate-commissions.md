@@ -23,11 +23,11 @@ youtube_code: PqSkP1uTjGE
 
 <p style="text-align: center;"><em>How much is a typical real estate commission? Actually, there isn’t a “typical” anymore.</em></p>
 
-What is the typical real estate commission percentage? Over the years it was 6%, but why?
+What is the typical real estate commission percentage? In the past it was 6%, but why?
 
 Traditionally it was 6% because 3% was always paid out to the agent representing the buyer in the transaction. **This means that if you hired the Larkin Group to sell your home, whatever brokerage brought the buyer got 3% of the commission and our brokerage got the other 3% of the transaction.**
 
-There have been some changes, though, in the real estate market and there are now some new options available to you.
+There have been some changes in the real estate market since then, though, and there are now some new options available to you.
 
 Have you ever had a time in your life when you bought the cheapest option because you were in a hurry and then regretted it later? I have. Six months ago I bought a pot and pan set from Kohl's for $49.99 and it's already dying. It’s the same with real estate commissions—you get what you pay for.
 
