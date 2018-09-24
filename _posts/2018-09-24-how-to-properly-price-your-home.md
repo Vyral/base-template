@@ -32,3 +32,7 @@ I recently sold a house in North Cleveland Park. When we priced it, we decided t
 Pinpoint pricing helped us pick a listing price at the bottom to middle bottom of the range to get people in the door and encourage a higher sale price.
 
 If you have any questions about this, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
