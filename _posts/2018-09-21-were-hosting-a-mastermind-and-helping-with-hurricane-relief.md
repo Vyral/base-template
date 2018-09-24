@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Hosting a Mastermind and Helping With Hurricane Relief
-date: 2018-09-21 17:38:23
+date: 2018-09-21 17:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 0B0D369ajC0
+youtube_code: LHtiegJYbfY
 ---
 
 {% include youtube.html %}
@@ -28,5 +28,3 @@ I’ve got two different things to share with you today. **The first is how you 
 **If you know anyone who might be interested in the mastermind or in dropping some supplies off at our office, please feel free to share this with them.**
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
-
-&nbsp;
