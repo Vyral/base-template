@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: 'Overall, I think we’re learning to respect the power of nature.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/ron-margolis-tropical-stormyt-small.jpg
 youtube_code: '-ppfT2KjJxQ'
 ---
 
