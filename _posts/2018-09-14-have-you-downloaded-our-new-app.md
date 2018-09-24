@@ -21,7 +21,7 @@ youtube_code: PF2imf2-3VA
 
 {% include youtube.html %}
 
-<center><em>Today I want to talk about technology and all of our new advancements at MacKenzie Realty.</em></center>
+<center><em>Today I want to talk about technology and all of our new advancements at MacKenzie Realty. Click <strong><a data-cms-editor-link-style="undefined" href="https://app.kw.com/KW5YZPCI/">here to check out our app!</a></strong></em></center>
 
 <center>&nbsp;</center>
 
