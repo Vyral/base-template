@@ -20,7 +20,9 @@ youtube_code: FTpA302pygc
 
 {% include youtube.html %}
 
-<center>Conditions have begun to even out in our real estate market, and today we’d like to share what this may mean for you.</center>
+<center><em>Conditions have begun to even out in our real estate market, and today we&rsquo;d like to share what this may mean for you.</em></center>
+
+&nbsp;
 
 It’s time for another market update, and we’ve got some interesting developments to report today.
 
