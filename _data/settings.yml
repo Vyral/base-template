@@ -1,121 +1,150 @@
 audit_header: false
-title: GAFinestHomes Group, LLC Real Estate Video Blog with Jim Casbarro
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: 'GAFinestHomes Group, LLC Real Estate Video Blog with Jim Casbarro'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: GAFinestHomes Group
-    url: https://gafinesthomes.com/
-
+    url: 'https://gafinesthomes.com/'
 emma:
   lightbox:
   form:
-
 client:
   name: Jim Casbarro
   title:
   license_number:
-  about_markdown: |
-    Hi, I’m Jim Casbarro. I am the CEO and founder of The GAFinestHomes Group, LLC with Keller Williams Realty. Ever since my first lemonade stand as a little kid I've had the entrepreneur bug. As I got older I knew I wanted to help people, and real estate was always interesting to me - it's one of the foundational needs of being a human. Being raised in an environment where I grew up in a loving home, coupled with the awesome wealth-building power of real estate, I couldn't help but learn as much as I could about the real estate industry.
+  about_markdown: >-
+    Hi, I’m Jim Casbarro. I am the CEO and founder of The GAFinestHomes Group,
+    LLC with Village Realty. Ever since my first lemonade stand as a little kid
+    I've had the entrepreneur bug. As I got older I knew I wanted to help
+    people, and real estate was always interesting to me - it's one of the
+    foundational needs of being a human. Being raised in an environment where I
+    grew up in a loving home, coupled with the awesome wealth-building power of
+    real estate, I couldn't help but learn as much as I could about the real
+    estate industry.
 
-    During my college years I discovered that real estate really was my passion and my calling. After graduating with a Bachelors in marketing, I took off to create my own investing and residential real estate business. After 6 amazing years in Georgia, the GAFinestHomes Group is that real estate business I envisioned when I was younger. Now I'm able to put all my knowledge and experience, along with the amazing people on our team, to work in the real estate realm for our clients.
 
-    I focus on helping sellers market their home for maximum returns in the time frame they want, finding buyers the best home that matches their wishes, and maximizing our investors returns. Real Estate is my passion and calling and I would be honored to have the opportunity to share my knowledge and experience with you by learning your own real estate goals. Whether it's selling fast, selling for top dollar to make another move, looking to build wealth through investing, or practically anything else real-estate related, I'm eager to learn about what your real estate-related goals are to help make them a reality!
+    During my college years, I discovered that real estate really was my passion
+    and my calling. After graduating with a Bachelors in marketing, I took off
+    to create my own investing and residential real estate business. After 6
+    amazing years in Georgia, the GAFinestHomes Group is that real estate
+    business I envisioned when I was younger. Now I'm able to put all my
+    knowledge and experience, along with the amazing people on our team, to work
+    in the real estate realm for our clients.
+
+
+    I focus on helping sellers market their home for maximum returns in the time
+    frame they want, finding buyers the best home that matches their wishes, and
+    maximizing our investors' returns. Real Estate is my passion and calling and
+    I would be honored to have the opportunity to share my knowledge and
+    experience with you by learning your own real estate goals. Whether it's
+    selling fast, selling for top dollar to make another move, looking to build
+    wealth through investing, or practically anything else real-estate related,
+    I'm eager to learn about what your real estate-related goals are to help
+    make them a reality!
   market:
-  brand: GAFinestHomes Group, LLC
+  brand: 'GAFinestHomes Group, LLC'
   brokerage: Village Realty
-  address: 2651 Dallas Hwy, Marietta GA 30064
-  phone: 678-909-1783
+  address: '3423 Piedmont Rd NE, Atlanta, GA 30305'
+  phone: (678) 909-1783
   phone_type:
   phone2:
   phone2_type:
   email: Jim@GAFinestHomes.com
   url: GAFinestHomes.com
-
 CTAs:
   first_CTA_text: Start Your Buying Journey Here
-  first_CTA_URL: https://search.gafinesthomes.com/
+  first_CTA_URL: 'https://search.gafinesthomes.com/'
   second_CTA_text: Free Appraisal
   second_CTA_URL: /homevalue/
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Appraisal"
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Appraisal
     CTA_url: /homevalue/
-
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Find the home you're looking for."
-    CTA_link_text2: "Start Your Buying Journey Here"
-    CTA_url2: https://search.gafinesthomes.com/
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Find the home you're looking for.
+    CTA_link_text2: Start Your Buying Journey Here
+    CTA_url2: 'https://search.gafinesthomes.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/GAFinestHomesGroup/
-  linkedin_url: https://www.linkedin.com/in/jimcasbarro/
-  gplus_url: https://plus.google.com/u/0/118152636544850412472
-  youtube_url: https://www.youtube.com/channel/UCt4spNH7Onco8pCA9IP3E9A?view_as=subscriber
-  twitter_url: https://twitter.com/GAFinestHomes
+  facebook_url: 'https://www.facebook.com/GAFinestHomesGroup/'
+  linkedin_url: 'https://www.linkedin.com/in/jimcasbarro/'
+  gplus_url: 'https://plus.google.com/u/0/118152636544850412472'
+  youtube_url: 'https://www.youtube.com/channel/UCt4spNH7Onco8pCA9IP3E9A?view_as=subscriber'
+  twitter_url: 'https://twitter.com/GAFinestHomes'
   instagram_url:
   pinterest_url:
-  # zillow_url: https://www.zillow.com/profile/GAFinestHomesGroup/
   trulia_url:
-  # yelp_url: https://www.yelp.com/user_details?userid=ij4ICGISt8zx1rOyo2rPhA
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 50
   hero_text:
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#3A9BC9'
+  brand_color: '#3a9bc9'
   theme_color: '#143157'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
