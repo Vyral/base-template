@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has Kauai Been Recovering Since Tropical Storm Olivia?
-date: 2018-09-24 19:13:31
+date: 2018-09-24 19:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: '-ppfT2KjJxQ'
 ---
 
 {% include youtube.html %}
