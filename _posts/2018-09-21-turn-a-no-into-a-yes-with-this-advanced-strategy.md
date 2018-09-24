@@ -22,7 +22,7 @@ youtube_code: 2a3kutPdvBE
 
 If you have a big team with designated lead follow-up, here’s a strategy to help you turn a “No” into a “Yes.”
 
-Every day, our outbound callers are prospecting and making typically between 450 to 750 calls. On average, depending on the campaign, we get about 5% of those people on the phone. Most of them will say they’re not interested, but another 5% or so will say that they are interested. Those are the people we pre-qualify and send to you to follow up with, set appointments, and make sales.
+Every day, our outbound callers are hard at work prospecting, typically making between 450 to 750 calls. On average, depending on the campaign, we get about 5% of those people on the phone. Most of them will say they’re not interested, but another 5% or so will say that they are interested. Those are the people we pre-qualify and send to you to follow up with, set appointments, and make sales.
 
 {% include pullquote.html %}
 
