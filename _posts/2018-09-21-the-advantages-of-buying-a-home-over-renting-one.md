@@ -24,9 +24,9 @@ youtube_code: ejsxy40Wvro
 
 &nbsp;
 
-Today, Kyle Rush of Guild Mortgage is here to answer a common question we both hear from our clients: **Is it better to rent a home or to buy one?**
+Today Kyle Rush of Guild Mortgage is here to answer a common question we both hear from our clients: **Is it better to rent a home or to buy one?**
 
-That’s a question on a lot of people’s minds today. The answer is pretty obvious from where I’m standing. **It’s a much better to buy a home because you can grow credit, build equity, and create passive income all in one**.
+That’s a question on a lot of people’s minds today. The answer is pretty obvious from where I’m standing. **It’s a much better option to buy a home because you can grow credit, build equity, and create passive income all in one**.
 
 Kyle agrees. A mortgage is one of the most impactful reported items that can show up on your credit. Making your mortgage payment each month will grow your score substantially with all three bureaus.
 
@@ -34,7 +34,7 @@ When you are renting a home, you are essentially paying someone else’s mortgag
 
 {% include pullquote.html %}
 
-Finally, creating passive income cna start with your first home purchase. **You are required to live in the home for 12 months, but after that you can convert it into a rental**. Rental income from your property can also help create wealth for you and your family and create that passive income.
+Finally, creating passive income can start with your first home purchase. **You are required to live in the home for 12 months, but after that you can convert it into a rental**. Rental income from your property can also help create wealth for you and your family and create that passive income.
 
 Even if you don’t think you can afford a home, you might be wrong. There are still plenty of programs out there that have $0 down payment loan programs.
 
