@@ -21,7 +21,7 @@ youtube_code: jcxYLjmrnFs
 
 A lot of people are going to try to pressure you into moving, but how do you know for yourself when the time is right? **Here are a few questions to ask yourself to know if it’s time to move:**
 
-**1. Have you outgrown your home?** This doesn’t necessarily mean that your home is too small. It could be that your commute is too much or your lifestyle has changed. If you’re feeling that pressure, the odds are that the people who are living in your home are feeling that pressure as well and it’s time for something new.
+**1. Have you outgrown your home?** This doesn’t necessarily mean that your home is too small. It could be that your commute is too much or your lifestyle has changed. If you’re feeling that pressure, the odds are that the other people who are living in your home are feeling that pressure as well and it’s time for something new.
 
 **2. Has your lifestyle changed?** Whether or not you know it, you have a specific lifestyle and a number of different factors can change it. You might get a bigger car, a smaller car, or might want to live more efficiently. Those are all great reasons to even start thinking about moving.
 
