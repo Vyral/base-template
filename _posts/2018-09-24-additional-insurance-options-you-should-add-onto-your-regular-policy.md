@@ -24,9 +24,7 @@ youtube_code: 12E_gcIItGQ
 
 To make sure your personal property is adequately protected, there are a number of insurance coverage options available.
 
-To help explain a few of these options, I recently sat down for a conversation with Micah Patterson of Patterson and Associates Insurance, and I’d like to share a few highlights from this conversation with you today.
-
-One of the first things we touched on was a personal experience I had late last year when my own home had flooded. With this experience in mind, Micah pointed out that flood insurance is not included within regular home insurance policies.
+I recently sat down for a conversation with Micah Patterson of Patterson and Associates Insurance to help explain a few of these options, and I’d like to share a few highlights from this conversation with you today.<br><br>One of the first things we touched on was a personal experience I had late last year when my own home had flooded. With this experience in mind, Micah pointed out that flood insurance is not included within regular home insurance policies.
 
 {% include pullquote.html %}
 
