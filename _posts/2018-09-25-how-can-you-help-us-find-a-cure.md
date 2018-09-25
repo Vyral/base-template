@@ -21,7 +21,7 @@ youtube_code: _w6y-xRoYKA
 
 I want to talk to you today about a few cancer awareness issues and fundraisers that we’d like to bring attention to. Unfortunately, most of us have been touched by cancer in our lives. **My husband and I are both doing different events for cancer awareness.**
 
-**The first fundraiser is called Ride to Rosemary,** where my husband is riding a bicycle from Memphis to Rosemary Beach. That starts September 29 and they go around 100 miles per day. Follow me on Facebook if you want to follow along with their progress. If you’re interested in donating to the cause or riding yourself, **[click here.](http://fight.westcancercenter.org/site/TR?px=1001900&amp;fr_id=1080&amp;pg=personal){: target="_blank"}**
+**The first fundraiser is called Ride to Rosemary,** where my husband is riding a bicycle from Memphis to Rosemary Beach. That starts September 29 and they go around 100 miles per day. Follow me on Facebook if you want to follow along with their progress. If you’re interested in donating to the cause or riding yourself, [**click here.**](http://fight.westcancercenter.org/site/TR?px=1001900&amp;fr_id=1080&amp;pg=personal){: target="_blank"}
 
 {% include pullquote.html %}
 
