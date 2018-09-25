@@ -45,7 +45,7 @@ Do you seek a financial advisor you can trust to be honest and objective? Do you
 
 Nathan is a Principal and Senior Advisor at Cornerstone Capital Advisors, an independent fee-only advisory firm. With over 18 years of experience, Nathan works with clients who are approaching retirement, business owners, and executives. Nathan specializes in delivering targeted retirement, college, estate, insurance, and tax planning solutions, as well as individualized investment management. He also serves on the firm’s investment committee.
 
-Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ (CFP&reg;) designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF&reg;) and Retirement Income Certified Professional&reg; (RICP&reg;) designations.
+Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ (CFP®) designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF®) and Retirement Income Certified Professional® (RICP®) designations.
 
 Nathan has been involved with the Akron Chamber of Commerce, North Canton Chamber of Commerce, the Green Ohio Chapter of Toastmasters International, and was the past Treasurer of the North Canton Jaycees. Nathan is also a member of the Financial Planning Association of America (FPA). Learn more about Nathan by connecting with him on LinkedIn.
 
