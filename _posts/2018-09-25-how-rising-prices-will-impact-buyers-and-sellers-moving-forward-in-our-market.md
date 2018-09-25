@@ -20,7 +20,7 @@ youtube_code: IBvfy41D3Aw
 
 {% include youtube.html %}
 
-Home prices have risen in our market year over year, and they’re predicted to rise even further in the next year. Here’s what that means for buyers and sellers.
+<p style="text-align: center;"><em>Home prices have risen in our market year over year, and they’re predicted to rise even further in the next year. Here’s what that means for buyers and sellers.</em></p>
 
 As we move through September and head into October, prices are leveling off in our market due to rising interest rates. As a result, the inventory numbers are getting a little bit better.&nbsp;
 
