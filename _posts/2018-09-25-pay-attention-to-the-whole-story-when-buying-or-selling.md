@@ -22,7 +22,9 @@ youtube_code: y5MZMLbldp4
 
 {% include youtube.html %}
 
-<center>In our market right now, conditions are split based on price point. And today we’d like to explain how this will impact your goals as a buyer or seller.</center>
+<center><em>In our market right now, conditions are split based on price point. And today we&rsquo;d like to explain how this will impact your goals as a buyer or seller.</em></center>
+
+&nbsp;
 
 When it comes to our market, there’s more than one story to be told. We like to explain our current conditions as being the “Tale of Two Tales.” Thankfully, though, the only Dickensian thing about this update is the name.
 
