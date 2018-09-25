@@ -21,7 +21,7 @@ youtube_code: '-ppfT2KjJxQ'
 
 Today I’ll be talking a little bit more about the island of Kauai. It won’t be so much about real estate this time; I thought it might be useful for folks on the mainland to learn a little about what has been happening on the island since **Tropical Storm Olivia.**
 
-Back in April, you might have heard about our torrential rains. Many have the idea that the whole island is underwater, but it really only affected a few parts of the island. A stream in Koloa Town flooded and caused some home damage, most of which occured on the North Shore.
+Back in April, you might have heard about our torrential rains. Many have the idea that the whole island is underwater, but it really only affected a few parts of the island. A stream in Koloa Town flooded and caused some home damage, most of which occurred on the North Shore.
 
 **In just one day in April, there was 36 inches of rain** that caused a number of traumatic effects: In Hanalei, it rerouted rivers, and the Hanalei Pier was basically sitting on sand. It’s only now that Black Pot, the park adjacent to the pier, is being repaired.
 
@@ -35,6 +35,4 @@ Almost 3,000 cars a day were traveling to the area prior to the plan. People lov
 
 It has been a challenging time for the island of Kauai. Many people lost their homes, and there are still those that need housing and food. Some lost their jobs because commuting to work and back became difficult or impossible. We’re still in a recovery phase her on the island.
 
-**However, it is important to note that the rest of the island is still in good shape**: tourism is strong, and so is the real estate market. We haven’t seen much of an effect on property values yet, besides those multi-million-dollar homes that were destroyed and had to be rebuilt.
-
-<br>Overall, I think we’re learning to respect the power of nature. If you have any questions about the state of Kauai’s recovery process or about real estate here on the island, feel free to reach out to me. In the meantime, stay safe from any storms that are forming. A hui hou, and aloha!
+**However, it is important to note that the rest of the island is still in good shape**: Tourism is strong, and so is the real estate market. We haven’t seen much of an effect on property values yet, besides those multimillion-dollar homes that were destroyed and had to be rebuilt.<br><br>Overall, I think we’re learning to respect the power of nature. If you have any questions about the state of Kauai’s recovery process or about real estate here on the island, feel free to reach out to me. In the meantime, stay safe from any storms that are forming. A hui hou, and aloha!
