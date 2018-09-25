@@ -30,4 +30,4 @@ What’s the latest news from our Monterey County market? From August 2017 to Ju
 
 When looking at real estate statistics, however, it’s important to remember that they are neighborhood-specific. Even though we just mentioned how consistent Monterey County is, your local neighborhood might look different than the other surrounding neighborhoods.
 
-If you'd like to learn more about our local market, don't hesitate to call or email me for more information. I look forward to speaking with you.
+If you'd like to learn more about our local market, don't hesitate to call or email me for more information. I look forward to speaking with you soon.
