@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now’s a Great Time for Buyers and Sellers in Monterey County
-date: 2018-08-09 00:00:00
+date: 2018-09-25 00:00:00
 tags:
   - Real Estate
   - Market Update
@@ -29,3 +29,5 @@ What’s the latest news from our Monterey County market? From August 2017 to Ju
 {% include pullquote.html %}
 
 When looking at real estate statistics, however, it’s important to remember that they are neighborhood-specific. Even though we just mentioned how consistent Monterey County is, your local neighborhood might look different than the other surrounding neighborhoods.
+
+If you'd like to learn more about our local market, don't hesitate to call or email me for more information. I look forward to speaking with you.
