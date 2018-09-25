@@ -27,6 +27,6 @@ I want to talk to you today about a few cancer awareness issues and fundraisers 
 
 **The second fundraiser is for St. Jude’s Children’s Cancer Research Center.** I will be participating in a half marathon for that. If you’d like to donate or run with me, you can **[click the link here.](https://www.stjude.org/get-involved/fitness-fundraisers/memphis-marathon/races/half-marathon.html){: target="_blank"}**
 
-You can also **[donate to Team Carson Elizabeth here.](https://fundraising.stjude.org/site/Donation2;jsessionid=00000000.app205b?idb=0&amp;PROXY_TYPE=20&amp;PROXY_ID=2670211&amp;df_id=4241&amp;4241.donation=form1&amp;FR_ID=88563&amp;s_locale=en_US&amp;et=OGB-Sd1D-jsEzWRCqbylGg&amp;sc_cid=emh9015&amp;NONCE_TOKEN=75DA1971F96B4272BF232AF0F7DE19FA){: target="_blank"}**
+You can also **[donate to Team Carson Elizabeth here.](http://fundraising.stjude.org/site/TR?px=2670211&amp;pg=personal&amp;fr_id=88563&amp;s_locale=en_US&amp;et=OGB-Sd1D-jsEzWRCqbylGg&amp;sc_cid=emh9015){: target="_blank"}**
 
 If you have any other questions for us or have any real estate needs that we can assist with, please feel free to give us a call or send us an email. We look forward to hearing from you soon.
