@@ -5,7 +5,7 @@ date: 2018-09-25 18:41:56
 tags:
   - Market Update
 excerpt: >-
-  Out market may be slowing down, but I’m confident a shift isn’t on the
+  Our market may be slowing down, but I’m confident a shift isn’t on the
   horizon.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2018/The+Stary+Group-+market+update.mp4
@@ -21,7 +21,7 @@ youtube_code: KGax0lNYKeg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Out market may be slowing down, but I’m confident a shift isn’t on the horizon.</em></p>
+<p style="text-align: center;"><em>Our market may be slowing down, but I’m confident a shift isn’t on the horizon.</em></p>
 
 One of the great things about being a real estate agent is getting to network with some of the top brokers across the country. It’s great to be able to see what’s going on in Illinois, but it’s also important to know what’s taking place in the rest of the country.&nbsp;
 
