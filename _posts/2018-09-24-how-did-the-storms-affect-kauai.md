@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Has Kauai Been Recovering Since Tropical Storm Olivia?
+title: How Did the Storms Affect Kauai?
 date: 2018-09-24 19:13:00
 tags:
   - Real Estate
