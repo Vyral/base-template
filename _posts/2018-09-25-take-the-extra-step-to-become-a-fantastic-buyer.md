@@ -17,11 +17,11 @@ youtube_code: 0eYaWT-oNp4
 
 {% include youtube.html %}
 
-Brian McKim of House America Financial joins me today to talk about how can help buyers submit a solid, well-backed offer. Instead of just being pre-approved, buyers can become “pre-approved plus.”
+Brian McKim of House America Financial joins me today to talk about how he can help buyers submit a solid, well-backed offer. Instead of just being pre-approved, buyers can become “pre-approved plus.”
 
 {% include pullquote.html %}
 
-Brian says that in our competitive market where properties are receiving five, 10 or even 15 offers, it's important that you try to be as strong as possible with your approval. Previously, House America Financial has been able to pre-approve buyers the same day. Now, though, Brian says they can do a full underwriting approval upfront.
+Brian says that in our competitive market where properties are receiving five, 10, or even 15 offers, it's important that you try to be as strong as possible with your approval. Previously, House America Financial has been able to pre-approve buyers the same day. Now, though, Brian says they can do a full underwriting approval upfront.
 
 **They can send the entire file to an underwriter to get you approved before you even make your offer.** This puts you in a really strong position to be aggressive with your offer and shorten your contingency periods. Many buyers are already using this tactic to get their offer approved.
 
