@@ -19,7 +19,7 @@ youtube_code: fbv0Gy60v48
 
 {% include youtube.html %}
 
-Before you close on your new home, there are certain things you need to accomplish if you want a smooth transition.
+<p style="text-align: center;"><em>Before you close on your new home, there are certain things you need to accomplish if you want a smooth transition.</em></p>
 
 Today I’ll provide you with a checklist of things you need to do before closing escrow on a home in order to ensure a good experience.
 
