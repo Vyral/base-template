@@ -21,7 +21,7 @@ Should you put your home on the market in the fall? I believe you should, and to
 
 **1. We can sell your home faster.** The MLS is reporting that our market time is down 20.6%.
 
-**2. There are buyers that are being transferred into our marketplace.** At this time of the year, many people are transferring to our area for jobs. These people make for fabulous buyers, because they come pre-qualified and ready to purchase. Many fly in for a weekend and fly back with a new contract.
+**2. There are buyers that are being transferred into our marketplace.** At this time of the year, many people are transferring to our area for jobs. These people make for fabulous buyers because they come pre-qualified and ready to purchase. Many fly in for a weekend and fly back with a new contract.
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ Should you put your home on the market in the fall? I believe you should, and to
 
 **5. Interest rates are still low.** This increases affordability for buyers and helps sellers list at higher prices.&nbsp;
 
-All of these are excellent reasons for you to consider selling this fall. If you want to speak more about this, or if you have any additional questions about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+All of these are excellent reasons for you to consider selling this fall. If you want to speak more about this or if you have any additional questions about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
