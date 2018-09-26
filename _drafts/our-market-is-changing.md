@@ -20,7 +20,7 @@ youtube_code: DtM59rXgfWQ
 
 {% include youtube.html %}
 
-Though our market is changing, both buyers and sellers have a good opportunity to get a great deal right now.
+<center>Though our market is changing, both buyers and sellers have a good opportunity to get a great deal right now.</center>
 
 Now that we’re into fall, what can we expect to see from our market in the coming months?
 
