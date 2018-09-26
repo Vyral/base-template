@@ -19,7 +19,7 @@ youtube_code: n4KFvTp0_i0
 
 {% include youtube.html %}
 
-It's time for another episode of “What's Working Now!” Today I want to talk about pinpoint pricing.
+It's time for another episode of *“What's Working Now!”* Today I want to talk about pinpoint pricing.
 
 I am often asked by sellers if buyers will make an offer on a home that is higher priced. The short answer is no. **In a hot seller's market like we’re now, you’ve got to price fairly to entice buyers into your home.** When a house is priced too high, buyers won't even come and look at it.
 
