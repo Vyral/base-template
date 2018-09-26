@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/financial-advisor.jpg
 youtube_code:
 ---
@@ -23,7 +23,7 @@ When it was time for me to choose a career path, my grandfather’s experience w
 
 ## Launching My Career
 
-I had passion and motivation, but I needed knowledge and experience to build a solid foundation. I earned a bachelor’s degree in finance and economics from Ohio University, and eventually went on to receive an MBA from Kent State University. Throughout my early years as a financial advisor, I pursued designations that would give me the skills and information to better serve my clients, including CERTIFIED FINANCIAL PLANNER™ (CFP&reg;), ACCREDITED INVESTMENT FIDUCIARY™ (AIF&reg;), and Retirement Income Certified Professional&reg; (RICP&reg;).
+I had passion and motivation, but I needed knowledge and experience to build a solid foundation. I earned a bachelor’s degree in finance and economics from Ohio University, and eventually went on to receive an MBA from Kent State University. Throughout my early years as a financial advisor, I pursued designations that would give me the skills and information to better serve my clients, including CERTIFIED FINANCIAL PLANNER™ (CFP®), ACCREDITED INVESTMENT FIDUCIARY™ (AIF®), and Retirement Income Certified Professional® (RICP®).
 
 ## My Career Today
 
@@ -35,7 +35,7 @@ I want my clients to feel appreciated and know that I don’t take their trust i
 
 As in any job, there are obstacles that can cause difficult days. For me, the hardest challenge I’ve had to face in my career is dealing with the death of a client. I place a high priority on building long-term relationships, which means I develop strong personal connections with my clients. When a death occurs, I’ve lost a friend more than I’ve lost a client. I think my clients recognize how much I invest in them. In fact, one of the greatest compliments I’ve ever received was when a client told me that he was so comfortable working with me that he knows his wife will be in good hands if something ever happened to him.
 
-But despite difficult circumstances, I can’t imagine having any other career. There’s nothing more fulfilling than seeing clients reach their financial and life goals. When I start working with a client, those goals and dreams often seem so far off. That’s why it’s so satisfying to see progress and celebrate with them when they achieve their goals. &nbsp;
+But despite difficult circumstances, I can’t imagine having any other career. There’s nothing more fulfilling than seeing clients reach their financial and life goals. When I start working with a client, those goals and dreams often seem so far off. That’s why it’s so satisfying to see progress and celebrate with them when they achieve their goals.  
 
 ## Working Together
 
@@ -45,6 +45,6 @@ I am passionate about helping clients develop a personalized plan that works tow
 
 Nathan is a Principal and Senior Advisor at Cornerstone Capital Advisors, an independent fee-only advisory firm. With over 18 years of experience, Nathan works with clients who are approaching retirement, business owners, and executives. Nathan specializes in delivering targeted retirement, college, estate, insurance, and tax planning solutions, as well as individualized investment management. He also serves on the firm’s investment committee.
 
-Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF&reg;) and Retirement Income Certified Professional&reg; (RICP&reg;) designations.
+Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF®) and Retirement Income Certified Professional® (RICP®) designations.
 
 Nathan has been involved with the Akron Chamber of Commerce, North Canton Chamber of Commerce, the Green Ohio Chapter of Toastmasters International, and was the past Treasurer of the North Canton Jaycees. Nathan is also a member of the Financial Planning Association of America (FPA). Learn more about Nathan by connecting with him on LinkedIn.
