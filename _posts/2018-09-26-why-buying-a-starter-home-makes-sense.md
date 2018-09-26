@@ -20,7 +20,9 @@ youtube_code: XALhyFYVb64
 
 {% include youtube.html %}
 
-<center>Buying a starter home will make buying your forever home much easier down the line. Here’s why.</center>
+<center><em>Buying a starter home will make buying your forever home much easier down the line. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 Many buyers are unsure of whether they should wait to buy a forever home or start with a starter home. **In my opinion, you should absolutely buy a starter home if you can**.
 
