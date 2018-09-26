@@ -12,6 +12,8 @@ custom_links:
     url: /strategy-call/
   - title: Free Newsletter
     url: /subscribe/
+  - title: 20 C's of Real Estate
+    url: /20c/
 emma_form:
 client:
   name: Kati Spaniak
@@ -22,7 +24,7 @@ client:
   brand: Real Estate Grit
   brokerage: Brokered by eXp Realty
   address: '159 N Sangamon St #300<br>Chicago, IL 60607'
-  phone: (847) 379-8813
+  phone: 847-379-8813
   phone_type:
   phone2:
   phone2_type:

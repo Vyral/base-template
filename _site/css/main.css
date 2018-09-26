@@ -1460,7 +1460,6 @@ html[xmlns] .flexslider .slides {
   max-width: 65%; }
 
 .navbar-nav > li {
-  margin-right: 10px;
   margin-bottom: 0px;
   -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
@@ -2794,6 +2793,9 @@ form select {
 
 .newsletter {
   background: #1b1919; }
+
+p {
+  font-size: 18px; }
 
 #side-logo {
   width: 90%;
