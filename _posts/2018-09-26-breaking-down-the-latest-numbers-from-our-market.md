@@ -19,7 +19,7 @@ youtube_code: ivy8hgdh1Hc
 
 {% include youtube.html %}
 
-If we look at the latest numbers from our market, conditions are still favoring sellers.
+<p style="text-align: center;"><em>If we look at the latest numbers from our market, conditions are still favoring sellers.</em></p>
 
 What do the latest numbers say about our local market?
 
