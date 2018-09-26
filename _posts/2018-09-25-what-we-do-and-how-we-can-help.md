@@ -37,7 +37,7 @@ Our clients put a lot of trust in us, and we don’t take this responsibility li
 
 We’re proud to work closely with our clients and build long-lasting relationships. We believe there are a number of reasons why our clients choose to work with us. For one, they trust us. We act in their best interests and they know it. Second, we are committed to working with integrity and transparency. As fiduciaries, we adhere to the highest ethical standards, giving you confidence that your hard-earned money is in good hands.
 
-Working Together
+## Working Together
 
 Do you seek a financial advisor you can trust to be honest and objective? Do you want to work with someone who is passionate about helping you achieve your goals and dreams? Experience the difference a relationship with Cornerstone Capital Advisors can make for you and your family. Reach out to us at (330) 896-6250 or nbopp@ccadvisors.com for a complimentary meeting.
 
@@ -45,7 +45,7 @@ Do you seek a financial advisor you can trust to be honest and objective? Do you
 
 Nathan is a Principal and Senior Advisor at Cornerstone Capital Advisors, an independent fee-only advisory firm. With over 18 years of experience, Nathan works with clients who are approaching retirement, business owners, and executives. Nathan specializes in delivering targeted retirement, college, estate, insurance, and tax planning solutions, as well as individualized investment management. He also serves on the firm’s investment committee.
 
-Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ (CFP®) designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF®) and Retirement Income Certified Professional® (RICP®) designations.
+Nathan received his bachelor’s degree in finance and economics from Ohio University in 2000 and his MBA from Kent State University in 2007. Nathan earned the CERTIFIED FINANCIAL PLANNER™ (CFP&reg;) designation in 2009, and also holds the ACCREDITED INVESTMENT FIDUCIARY™ (AIF&reg;) and Retirement Income Certified Professional&reg; (RICP&reg;) designations.
 
 Nathan has been involved with the Akron Chamber of Commerce, North Canton Chamber of Commerce, the Green Ohio Chapter of Toastmasters International, and was the past Treasurer of the North Canton Jaycees. Nathan is also a member of the Financial Planning Association of America (FPA). Learn more about Nathan by connecting with him on LinkedIn.
 
