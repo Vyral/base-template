@@ -29,4 +29,4 @@ Today I’ll provide you with a checklist of things you need to do before closin
 
 Now, bear in mind that you should be instituting a spending freeze during the escrow period. If you can pay for the new furniture in full immediately, it shouldn’t put your mortgage at risk. However, you should resist buying a five-figure living room set until after closing.
 
-If you have any questions for us, please feel free to reach out. We’d be glad to help
+If you have any questions for us, please feel free to reach out. We’d be glad to help.
