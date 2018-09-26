@@ -27,3 +27,5 @@ This means is that if you purchase a home for $290,000 with a 5% down payment, y
 {% include pullquote.html %}
 
 In other words, now is your chance to get into the marketplace. Of course, if you have any questions that I can answer about this or buying and selling in general, please feel free to reach out to me. I look forward to speaking with you soon.
+
+This communication is provided to you for informational purposes only and should not be relied upon by you. Nate Martinez nor RE/MAX Professionals are not mortgage lenders and so you should contact a qualified mortgage broker directly to learn more about its mortgage products and your eligibility for such products.
