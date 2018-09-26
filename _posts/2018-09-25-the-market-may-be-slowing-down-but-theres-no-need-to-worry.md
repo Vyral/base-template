@@ -29,7 +29,7 @@ When you look at states like Florida or California, what’s happening in their 
 
 There are a lot of rumors out there that the market is starting to slow, and that could be the case—we’re starting to see instances of this in different areas of the country. But there’s also a fear that we may undergo a shift like we had back in 2009, and I want to be clear that **I’m confident we’re not going to see anything like that**. There were a lot of factors that led to that shift, and the market is always going to change. After we see a peak, it’s only natural for things to come back down, but don’t be afraid that we’re about to run into the same situation we had in 2009.&nbsp;
 
-**What I do see is a simple correction in the marketplace.** As you may remember, the market rebounded from the 2009 shift right around 2013. That’s when we started to see home prices and the number of sales start to rise. If our market functions in 7-year cycles, though, that tells me that the market should start to correct itself over the next couple of years.
+**What I do see is a simple correction in the marketplace.** As you may remember, the market rebounded from the 2009 shift right around 2013. That’s when we started to see home prices and the number of sales start to rise. If our market functions in seven-year cycles, though, that tells me that the market should start to correct itself over the next couple of years.
 
 {% include pullquote.html %}
 
