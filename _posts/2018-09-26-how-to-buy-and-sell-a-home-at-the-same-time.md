@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell a Home at the Same Time
-date: 2018-09-26 16:43:45
+date: 2018-09-26 16:43:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/contingencies-youtube.jpg
-youtube_code: hcWpH-8MZxw
+youtube_code: A1ewUN6djec
 ---
 
 {% include youtube.html %}
