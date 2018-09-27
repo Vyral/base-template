@@ -30,7 +30,7 @@ So many fine details are involved in finding and closing on the perfect home. Th
 
 Also, a leaseback agreement can be especially helpful for sellers who need the money from their home sale to fund their home purchase.
 
-**Sometimes, though, closing on their next home has nothing to do with a seller’s finances, but rather with the property itself.** Sometimes, higher-end properties might fail to appraise, or will require multiple appraisals. Of course, this will take more time than an average appraisal process.
+**Sometimes, though, closing on their next home has nothing to do with a seller’s finances, but rather with the property itself**. Sometimes, higher-end properties might fail to appraise, or will require multiple appraisals. Of course, this will take more time than an average appraisal process.
 
 Whatever the reason a seller may need one, leaseback agreements make fantastic safety nets for those undergoing simultaneous transactions.
 
