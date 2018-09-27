@@ -23,7 +23,7 @@ youtube_code: jiZv8we5UIk
 
 {% include youtube.html %}
 
-There is a way that you can set five appointments by talking to 100 people, and I’ll tell you how. &nbsp;
+There is a way that you can set five appointments by talking to 100 people, and I’ll tell you how.  
 
 I just recently went through Keller Williams’ BOLD program, and it was an incredible experience. One of the things we were challenged to do there was talk to 100 people about real estate every single week.
 
