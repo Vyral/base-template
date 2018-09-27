@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-margolis-tropical-stormyt-small.jpg
-youtube_code: '-ppfT2KjJxQ'
+youtube_code: pPRo7N_ViIk
 ---
 
 {% include youtube.html %}
