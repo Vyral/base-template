@@ -19,7 +19,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why Transactions Fall Through
-date: 2016-04-05 21:11:00
+date: 2016-09-27 15:45:00
 author: Vyral Admin
 tags:
   - Market Update
