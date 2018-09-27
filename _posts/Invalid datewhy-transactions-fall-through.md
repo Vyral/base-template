@@ -19,12 +19,12 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why Transactions Fall Through
-date: 2016-09-27 15:45:00
+date: Invalid date
 author: Vyral Admin
 tags:
   - Market Update
 modified_time:
-thumbnail: 'https://img.youtube.com/vi/iPahgQT_OL8/default.jpg'
+thumbnail:
 blogger_id: 'tag:blogger.com,1999:blog-1667775301366790924.post-2356722565156933012'
 blogger_orig_url: 'http://davehooke.blogspot.com/2016/04/central-pa-real-estate-agent-whats.html'
 ---
