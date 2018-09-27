@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How to Properly Price Your Home
-date: 2018-09-24 23:08:06
+title: Get Top Dollar... Pick the Right Price Range!
+date: 2018-09-24 23:08:00
 tags:
   - Home Seller Tips
 excerpt: Today I want to take a look at pricing and why you shouldn't price too high.
