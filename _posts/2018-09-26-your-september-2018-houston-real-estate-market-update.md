@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Your September 2018 Houston Real Estate Market Update
-date: 2018-09-26 15:49:17
+date: 2018-09-26 15:49:00
 tags:
   - Real Estate
 excerpt: >-
   I’m back with a market update, in which we noticed that some of our
   year-over-year numbers were highly skewed by last year’s Hurricane Harvey.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+Hurricane+Harvey+Skewed+Our+Market+Data.mp4
 pullquote: >-
   Some of the year-over-year numbers were skewed by Hurricane Harvey, the storm
   that brought the city to its knees for several weeks.
@@ -20,7 +21,7 @@ youtube_code: 'https://youtu.be/1z_3ZnbCBgU'
 
 {% include youtube.html %}
 
-We’re speeding toward the fall season—there have been a couple days where we could tell that the summer heat is drawing to an end. With that in mind, I wanted to give you a quick breakdown of the Houston market, but with a different angle this time: Some of the year-over-year numbers were skewed by Hurricane Harvey, the storm that brought the city to its knees for several weeks.&nbsp;
+We’re speeding toward the fall season—there have been a couple days where we could tell that the summer heat is drawing to an end. With that in mind, I wanted to give you a quick breakdown of the Houston market, but with a different angle this time: Some of the year-over-year numbers were skewed by Hurricane Harvey, the storm that brought the city to its knees for several weeks. 
 
 As an example, if we look back to the week ending on September 2 and compare that to the same period last year, **listings went up 180% over that 12-month period, and sales went up over 400%.**
 
