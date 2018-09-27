@@ -40,7 +40,7 @@ So what do these two tales of our market mean for sellers?
 
 Well, while those with homes in lower price ranges will have an easier time achieving selling success, **those listing their home at or above the $400,000 will need to exert a little more effort**.
 
-For those listing in these less active upper price ranges, staging will be key. You will need to present your home in the best possible light to attract buyer interest and earn the best possible deal.
+For those listed in these less active upper price ranges, staging will be key. You will need to present your home in the best possible light to attract buyer interest and earn the best possible deal.
 
 With this in mind, **today’s buyers will also need to strategize according to the price point they’re searching in**. Those looking in lower price ranges, where homes are moving more quickly, shouldn’t be afraid to get a little aggressive with their offers. Don’t forget to include favorable terms. Price is not the only component to consider when making an offer on a home.
 
