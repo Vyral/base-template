@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Use Your Database to Have Great Success?
-date: 2018-09-27 13:58:09
+date: 2018-09-27 13:58:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: You can scale this metric up to any level of financial aspiration.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/frank-gray-ss-sept-2-no-play.jpg
+youtube_alternate_image: /uploads/frank-gray-ss-sept-2-no-play-1.jpg
 youtube_code: wOHmuHdRBnQ
 ---
 
