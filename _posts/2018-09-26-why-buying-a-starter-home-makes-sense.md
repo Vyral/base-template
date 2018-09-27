@@ -28,6 +28,6 @@ Many buyers are unsure of whether they should wait to buy a forever home or star
 
 For starters, it’s a great way to start building some equity. Does that mean you have to sell the house when you’re ready to move into your forever home? No. **You can hold it as an investment property to build long-term wealth**. If you do decide to sell down the road after three, five, or seven years, you’re going to have significant equity in the home that you can use as a down payment on your forever home if you wish.
 
-**The average renter has a net worth of about $5,000 or $6,000 while the average homeowner has a net worth of around $225,000**. As you can see, owning a home will force your net worth to increase over time. This is going to be one piece of your investment portfolio that will serve you well in the long term.
+**The average renter has a net worth of about $5,000 or $6,000, while the average homeowner has a net worth of around $225,000**. As you can see, owning a home will force your net worth to increase over time. This is going to be one piece of your investment portfolio that will serve you well in the long term.
 
 If you have any questions for us or are curious about our step-by-step process for helping our clients work towards their forever home, please feel free to give us a call or send us an email. We would love to hear from you.
