@@ -21,7 +21,7 @@ youtube_code: wOHmuHdRBnQ
 
 I want to talk to you about a real estate mantra today that could change everything in your business for the better. Since I entered the business, I have adopted this simple mantra that has served me very well: **Grow your database and market to your database.**
 
-Your database is simply your list of contacts. It’s a list of people you know personally or other people who have been identified to you as having a real estate needs. Those people should go into your database, along with every different way to contact them.
+Your database is simply your list of contacts. It’s a list of people you know personally or other people who have been identified to you as having any real estate needs. Those people should go into your database, along with every different way to contact them.
 
 {% include pullquote.html %}
 
