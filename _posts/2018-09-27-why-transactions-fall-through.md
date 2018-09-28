@@ -46,7 +46,7 @@ The second reason is **post-contract killers**, of which there are also three ma
 
 {% include pullquote.html %}
 
-The third and final reason is **pre-settlement walk-throughs.** In this case, there’s usually two main causes:
+The third and final reason is **pre-settlement walk-throughs.** In this case, there are usually two main causes:
 
 **1. Neglect or deferred maintenance** that hasn’t been taken care of by the seller.
 
