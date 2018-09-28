@@ -22,7 +22,9 @@ youtube_code: sAesBC02EeE
 
 {% include youtube.html %}
 
-<center>If you're considering moving or investing in a second property, you should choose Orlando. Here's why.</center>
+<center><em>If you're considering moving or investing in a second property, you should choose Orlando. Here's why.</em></center>
+
+&nbsp;
 
 Today I want to take a look at Orlando. Why am I here and what do I love about it? Then I want to talk about why you should consider investing in Orlando as well.
 
