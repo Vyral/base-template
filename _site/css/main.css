@@ -1469,12 +1469,6 @@ html[xmlns] .flexslider .slides {
   padding-right: 15px;
   padding-left: 15px; }
 
-.navbar-left {
-  margin-top: 2rem; }
-
-.navbar-right {
-  margin-top: 2rem; }
-
 .nav-logo {
   float: left !important;
   max-width: 100px;
@@ -1485,6 +1479,12 @@ html[xmlns] .flexslider .slides {
   max-width: 200px;
   padding: 10px;
   display: none; }
+
+.navbar-left {
+  margin-top: 2rem; }
+
+.navbar-right {
+  margin-top: 2rem; }
 
 @media (max-width: 760px) {
   .nav-logo {
@@ -1546,7 +1546,7 @@ label.tree-toggle {
   background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center;
-  padding-top: 7.5rem; }
+  padding-top: 110px; }
 
 .site-logo {
   width: 90%;
@@ -1568,6 +1568,9 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  #hero {
+    padding-top: 72px; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
@@ -1794,7 +1797,7 @@ table tr, table td {
   fill: grey; }
 
 .warning {
-  padding-top: 10rem;
+  padding-top: 220px;
   background: red;
   color: white; }
 
@@ -2048,7 +2051,7 @@ table tr, table td {
     width: 100%; }
 
   .post .site-logo {
-    margin-top: 5rem;
+    margin-top: 110px;
     margin-left: 1rem; }
   .post .post-title {
     font-size: 3rem; } }
@@ -2683,7 +2686,7 @@ form select {
   max-width: 30rem; }
 
 .hero-img {
-  padding-top: 5rem; }
+  padding-top: 110px; }
 
 .footer {
   color: #fff; }
