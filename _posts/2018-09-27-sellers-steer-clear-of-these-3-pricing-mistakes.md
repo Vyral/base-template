@@ -27,7 +27,7 @@ Over the years I’ve talked with a lot of sellers whose listings failed to move
 
 {% include pullquote.html %}
 
-**2. Pricing the home based on what you need.** Realistically, no one cares if you want to buy a $30,000 using the proceeds from your home sale. Buyers will only pay what the home is truly worth.
+**2. Pricing the home based on what you need.** Realistically, no one cares if you want to buy a $30,000 boat using the proceeds from your home sale. Buyers will only pay what the home is truly worth.
 
 **3. Pricing based on what your neighbors say.** Your neighbor doesn’t understand your property or market conditions. Getting the opinion of a licensed real estate professional is the best way to truly understand your home’s value.
 
