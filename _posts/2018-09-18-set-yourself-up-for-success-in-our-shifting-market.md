@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-prepare-for-a-shifting-market-youtube.jpg
-youtube_code: 'https://youtu.be/kNYwmqppqnI'
+youtube_code: 'https://youtu.be/ak4ddtSDN94'
 ---
 
 {% include youtube.html %}
