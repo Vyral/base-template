@@ -239,9 +239,9 @@ permalink: /agent-success/
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pgpWhS05TgI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<font size="+7">The Hern Group: Anna Krueger</font>
+<font size="+7">ISA Pro: Anna Krueger</font>
 
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Avg0aPsrZio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<font size="+7">The Hern Group: Richard Schulman</font>
+<font size="+7">Success Secrets: Richard Schulman</font>
