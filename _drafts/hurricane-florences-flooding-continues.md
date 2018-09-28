@@ -20,7 +20,7 @@ youtube_code: ed__urPpsxg
 
 {% include youtube.html %}
 
-Why is it still flooding in South Carolina? Today I will explain.
+<center>Why is it still flooding in South Carolina? Today I will explain.</center>
 
 Today I want to give you a quick update on the effects of Hurricane Florence.
 
