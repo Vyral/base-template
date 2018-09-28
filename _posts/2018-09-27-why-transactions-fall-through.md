@@ -40,7 +40,7 @@ The second reason is **post-contract killers**, of which there are also three ma
 
 **1. Inspection processes**, or whatever comes up during radon tests, pest inspections, etc.
 
-**2. Financial changes of the buyer.** If the buyer’s financial situation changes before or on day of settlement, the bank could withdraw their commitment to loaning the actual money.
+**2. Financial changes of the buyer.** If the buyer’s financial situation changes before or on the day of settlement, the bank could withdraw their commitment to loaning the actual money.
 
 **3. Appraisal issues.**
 
