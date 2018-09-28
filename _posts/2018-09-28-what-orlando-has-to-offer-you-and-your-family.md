@@ -32,7 +32,7 @@ I have lived in Orlando since 2001. As one of the major cities in Central Florid
 
 A topic that comes up regularly about Central Florida is hurricanes. Luckily, we are located quite inland, so by the time a tropical storm hits and becomes a hurricane, it loses most of its power by the time it reaches us. In fact, I've lived here for over 10 years and I've never had an issue with any of the hurricanes.
 
-You should consider investing in Orlando for either your own personal residence or as an investment. You can [learn all about investing in Orlando here](https://www.forbes.com/sites/samanthasharf/2018/02/01/full-list-where-to-invest-in-housing-in-2018/#5d4c6911627e), but I also want to look at some of the numbers with you.
+You should consider investing in Orlando for either your own personal residence or as an investment. You can **[learn all about investing in Orlando here](https://www.forbes.com/sites/samanthasharf/2018/02/01/full-list-where-to-invest-in-housing-in-2018/#5d4c6911627e)**, but I also want to look at some of the numbers with you.
 
 The average home price in Orlando is still lower than the national average. **Currently, Central Florida’s average home price is $247,550, and that’s predicted to increase 9% over the next year** and 35% over the next three years. You can't find that kind of investment at a bank.
 
