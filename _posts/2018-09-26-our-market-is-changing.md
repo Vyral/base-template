@@ -28,7 +28,7 @@ Now that we’re into fall, what can we expect to see from our market in the com
 
 For one thing, we’re seeing more inventory right now, which is a great thing for buyers, but it means sellers have a little bit more work ahead of them. **If you’re a seller, your house will probably sit on the market a little bit longer, but there are still ways to avoid this and sell for top dollar**.
 
-One of these ways is to make sure your house is in top-notch condition and ready to show. If you do this, you will still be able to generate multiple bids. Home staging is becoming more important, and this is what we specialize in—we take the time to walk you through your home help you understand what changes perhaps need to be made so that it’s more marketable and sells quickly.
+One of these ways is to make sure your house is in top-notch condition and ready to show. If you do this, you will still be able to generate multiple bids. Home staging is becoming more important, and this is what we specialize in—we take the time to walk you through your home help you understand what changes may need to be made so that it’s more marketable and sells quickly.
 
 {% include pullquote.html %}
 
