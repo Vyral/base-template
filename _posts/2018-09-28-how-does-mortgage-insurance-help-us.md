@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Mortgage Insurance Help Us?
-date:
+date: 2018-09-28 21:58:46
 tags:
   - Real Estate
 excerpt: >-
