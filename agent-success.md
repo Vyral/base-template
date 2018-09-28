@@ -235,3 +235,13 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y3lywHuXz3c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">The Hern Group: James Hern</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pgpWhS05TgI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">The Hern Group: Anna Krueger</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Avg0aPsrZio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">The Hern Group: Richard Schulman</font>
