@@ -20,8 +20,6 @@ youtube_code: Rgohf2d2OUg
 
 {% include youtube.html %}
 
-<br>
-
 The process of selling your home and navigating today’s changing real estate market can be challenging, so if you’re thinking of selling your home or investment property now or in the future, we have an upcoming home seller seminar that’s just for you.
 
 **This seminar is happening on October 24 at the Seal Beach Winery from 6:30 p.m. to 8:00 p.m**. It’s free to attend, and you’ll also have the opportunity to sample some great complimentary wine.
