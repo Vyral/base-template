@@ -2514,6 +2514,10 @@ table tr, table td {
 .footer-pad {
   padding-top: 20px; }
 
+.footer-logo {
+  max-width: 200px;
+  padding-bottom: 20px; }
+
 .item-container {
   margin: 3rem 5rem;
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
@@ -2810,6 +2814,11 @@ p {
 .testimonial-author {
   color: #f05159;
   margin-top: -20px; }
+
+.broker-logo {
+  width: 80%;
+  margin: 0 auto 2rem;
+  display: block; }
 
 .recruiting {
   text-align: center; }
