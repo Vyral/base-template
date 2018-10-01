@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How To Use Sustainability to Boost Your Home's Value
-date: 2018-09-28 20:33:41
+title: How to Use Sustainability to Boost Your Home's Value
+date: 2018-09-28 20:33:00
 tags:
   - Home Seller Tips
 excerpt: >-
