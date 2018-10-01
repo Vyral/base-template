@@ -42,6 +42,6 @@ We are also growing by leaps and bounds with new construction all around. **The 
 
 Other benefits of living here include no state income tax, which makes your living expenses much more affordable, growth in both the technology and medical sectors, and the VA Medical Center at Lake Nona. We also have access to national and international locations via our major hub airport, MCO. Along with everything else, Orlando has low crime rates.
 
-Finally, of course, we are the “happiest place in the world” with Disney World located here.
+Finally, of course, we are the “Happiest place in the world” with Disney World located here.
 
-All of these reasons make Orlando a really great place to look at if you're considering a move or a second home investment. Of course, if you do need to buy, or you're interested in selling, it’s a great time to do so, so please feel free to reach out to me. I would love to speak with you.
+All of these reasons make Orlando a really great place to look at if you're considering a move or a second home investment. Of course, if you do need to buy, or you're interested in selling, it’s a great time to do so. Please feel free to reach out to me, I would love to speak with you.
