@@ -25,7 +25,7 @@ youtube_code: 1q8d3UFN_xw
 
 &nbsp;
 
-In continuing our mission to help you love where you live, today we’ll be discussing how to pay off your mortgage using home equity lines of credit (or HELOCs). This advanced real estate investing tactic can help you pay off your mortgage and accelerate your debt on any amortized loan in as little to five to eight years, especially in the case of 30-year loans.
+In continuing our mission to help you love where you live, today I’ll be discussing how to pay off your mortgage using home equity lines of credit (or HELOCs). This advanced real estate investing tactic can help you pay off your mortgage and accelerate your debt on any amortized loan in as little to five to eight years, especially in the case of 30-year loans.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
@@ -43,4 +43,4 @@ In continuing our mission to help you love where you live, today we’ll be disc
 
 7:38 - Why this tactic is so beneficial.
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
