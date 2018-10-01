@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Our market’s experienced plenty of ups and downs in the past 15 to 20 years,
   but we’re almost back to the peak of 2006.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Michael+Davis/Annapolis+Real+Estate+Broker-+How+Did+Our+Market+Get+Here%253F.mp4
 pullquote: It’s a great time to both buy and sell if you want to make a move.
 enclosure_type: video/mp4
 enclosure_time:
