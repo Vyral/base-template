@@ -21,7 +21,7 @@ youtube_code: jdd6eCYIKvk
 
 <center><em>Why is it still flooding in South Carolina? Today I will explain.</em></center>
 
- 
+&nbsp;
 
 Today I want to give you a quick update on the effects of Hurricane Florence.
 
@@ -29,4 +29,4 @@ Although the storm is long gone, **we are still dealing with flooding in certain
 
 The Intracoastal Waterway usually crests within a week after the storm leaves the area, although this can sometimes take longer. The areas surrounding these bodies of water end up flooding because of the higher water levels.
 
-If you have any questions about the affected areas or how they are affected, please feel free to reach out to me. I look forward to speaking with you soon.
+If you have any questions about the affected areas, please feel free to reach out to me. I look forward to speaking with you soon.
