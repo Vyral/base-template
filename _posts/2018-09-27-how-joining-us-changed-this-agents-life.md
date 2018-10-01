@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How Joining Us Changed This Agent’s Life
-date: 2018-09-27 15:23:48
+date: 2018-09-27 15:23:00
 tags:
   - Real Estate
 excerpt: >-
   What’s so great about working for Jeff Cook Real Estate? Find out from one of
-  our great agents: Julia Umeron.
+  our great agents: Julia Umoren.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+How+Joining+Us+Changed+This+Agents+Life.mp4
 pullquote: >-
@@ -22,7 +22,7 @@ youtube_code: AZNgLwO5rcM
 
 {% include youtube.html %}
 
-Today we’d like to share the amazing success story of one of our team members: Julia Umeron.
+Today we’d like to share the amazing success story of one of our team members: Julia Umoren.
 
 Before coming to Jeff Cook Real Estate in March of 2018, Julia was working in one of the largest hair replacement centers in Atlanta. According to her, this transition has transformed her life and career for the better.
 
