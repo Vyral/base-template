@@ -21,7 +21,7 @@ youtube_code: 1q8d3UFN_xw
 
 {% include youtube.html %}
 
-Using the incredible strategy we’ll be discussing today, homeowners can pay down a 30-year mortgage in just five to eight years. Let’s find out how it works.
+<center>Using the incredible strategy we’ll be discussing today, homeowners can pay down a 30-year mortgage in just five to eight years. Let’s find out how it works.</center>
 
 In continuing our mission to help you love where you live, today we’ll be discussing how to pay off your mortgage using home equity lines of credit (or HELOCs). This advanced real estate investing tactic can help you pay off your mortgage and accelerate your debt on any amortized loan in as little to five to eight years, especially in the case of 30-year loans.
 
