@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-things-to-prep-youtube.jpg
-youtube_code: lrJ12f_hFHc
+youtube_code: yNibt44MZKw
 ---
 
 {% include youtube.html %}
