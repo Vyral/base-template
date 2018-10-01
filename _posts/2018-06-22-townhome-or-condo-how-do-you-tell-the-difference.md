@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/townhome-vs-condos-youtube.jpg
-youtube_code: H199zOz7zmU
+youtube_code: x00-ke1cgaQ
 ---
 
 {% include youtube.html %}
