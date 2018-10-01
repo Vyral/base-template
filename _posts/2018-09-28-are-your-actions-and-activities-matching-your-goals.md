@@ -22,7 +22,7 @@ Are you on track with the big goals you set at the beginning of the year?
 
 Now that we’re into the second half of 2018, **it’s time to check in, reset, readjust, get real, and get right.&nbsp;**
 
-Sometimes at the beginning of a year, we set a really big goal and aim high (as Gary Keller advises) so we have a better chance at hitting that goal. Did you aim so high that you need to adjust, come back to reality, and ensure you actually hit that goal, though?
+Sometimes at the beginning of a year, we set a really big goal and aim high (as Gary Keller advises) so we have a better chance of hitting that goal. Did you aim so high that you need to adjust, come back to reality, and ensure you actually hit that goal, though?
 
 {% include pullquote.html %}
 
