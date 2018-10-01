@@ -19,7 +19,7 @@ youtube_code: YALNT_Kj_T8
 
 {% include youtube.html %}
 
-A new survey by the National Association of Realtors was just released, and it made some remarkable points.For example, 61% of Realtors said clients are interested in sustainability, and a whopping 71% of Realtors said energy efficiency is valuable in helping sell a home.
+A new survey by the National Association of Realtors was just released, and it made some remarkable points. For example, 61% of Realtors said clients are interested in sustainability, and a whopping 71% of Realtors said energy efficiency is valuable in helping sell a home.
 
 If you’re interested in sustainability and you want to sell your home for a higher price, here are some projects to consider:
 
