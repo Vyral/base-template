@@ -20,7 +20,7 @@ youtube_code: XDV2zEArVdc
 
 {% include youtube.html %}
 
-Should you list your home in the fall? Today I want to give you three reasons you should list your home this fall instead of waiting until next spring.
+Today I want to give you three reasons you should list your home this fall instead of waiting until next spring.
 
 **1. Less competition.** Since all of your neighbors are thinking that they will wait until the spring to list, doing so now will give you more leverage. You will also have a larger pool of buyers to choose from at this time of year.
 
@@ -28,7 +28,7 @@ Should you list your home in the fall? Today I want to give you three reasons yo
 
 {% include pullquote.html %}
 
-**3. Neighbors have decorated.** Your neighborhood will be warm and inviting with decorations as well as red leaves falling off of the trees helping the ambiance. Your neighborhood will make it feel like a home to potential buyers.
+**3. Neighbors have decorated.** Your neighborhood will be warm and inviting, with decorations and the red leaves falling off of the trees helping the ambiance. Your neighborhood will make it feel like a home to potential buyers.
 
 If you have any questions about this, or if you're looking to buy or sell, please feel free to reach out to me. I look forward to speaking with you soon.
 
