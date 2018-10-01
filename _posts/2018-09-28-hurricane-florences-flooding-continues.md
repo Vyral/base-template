@@ -4,7 +4,6 @@ title: Hurricane Florence's Flooding Continues
 date: 2018-09-28 00:00:00
 tags:
   - Real Estate
-  - Miscellaneous
 excerpt: Why is it still flooding in South Carolina? Today I will explain.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brittany+Foy/Videos/Myrtle+Beach%252C+SC+Real+Estate+-+Hurricane+Florence%2527s+Flooding+Continues.mp4
@@ -15,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/brittany-foy-sept-1-ss-no-play.jpg
-youtube_code: ed__urPpsxg
+youtube_code: jdd6eCYIKvk
 ---
 
 {% include youtube.html %}
 
 <center><em>Why is it still flooding in South Carolina? Today I will explain.</em></center>
 
-&nbsp;
+ 
 
 Today I want to give you a quick update on the effects of Hurricane Florence.
 
