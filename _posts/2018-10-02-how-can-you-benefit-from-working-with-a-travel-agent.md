@@ -20,7 +20,9 @@ youtube_code: PpDQEn8YGQA
 
 {% include youtube.html %}
 
-<center>Today Nichole McVicker tells us all about her job as a travel agent and even gives us some valuable advice.</center>
+<center><em>Today Nichole McVicker tells us all about her job as a travel agent and even gives us some valuable advice.</em></center>
+
+&nbsp;
 
 On today’s business spotlight, we’re joined by Nichole McVicker, a travel planner with LBAC Travel. Nichole is actually a past client and we are very excited to have her on with us for an informative Q&A.
 
