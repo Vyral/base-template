@@ -23,7 +23,7 @@ youtube_code: YbEeCfa-Q68
 
 What’s going on with mortgage rates in our market?
 
-Right now, the average 30-year fixed rates is about 4.77%, which is the highest it’s been in the past seven years. Experts predict that it will continue to creep closer toward 5%, but it’s still at a historically low level.
+Right now, the average 30-year fixed rate is about 4.77%, which is the highest it’s been in the past seven years. Experts predict that it will continue to creep closer toward 5%, but it’s still at a historically low level.
 
 Is this really affecting our market? Not right now. I think **what’s actually affecting the market is the dramatic price increases we’ve seen the past two years.** Home prices are significantly higher now than they were when the market crashed in 2008. Additionally, inventory levels are still really low.
 
