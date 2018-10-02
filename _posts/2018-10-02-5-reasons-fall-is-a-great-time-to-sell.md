@@ -25,7 +25,7 @@ Should you put your home on the market in the fall? I believe you should, and to
 
 **3. Much of your competition comes off the market at this time.** This, of course, creates lower supply and still leaves a strong demand for your home. It is a great chance to let your home take center stage.
 
-{% include pullquote %}
+{% include pullquote.html %}
 
 **4. Many buyers like to close out their transaction in the current year for tax purposes.** This means that there is a little more pressure to get the transaction completed before the start of the new year.
 
