@@ -23,7 +23,7 @@ youtube_code: N_z3LHV5Rns
 
 {% include youtube.html %}
 
-What’s the best approach to take when buying and selling simultaneously? Let’s find out.
+<center>What’s the best approach to take when buying and selling simultaneously? Let’s find out.</center>
 
 Moving from one home to the next can be a daunting task. Many people worry that selling their current home while searching for the next will leave them without a home at all.
 
