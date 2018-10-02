@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Guide to Mortgage Insurance
-date: 2018-09-18 18:13:48
+date: 2018-09-18 18:13:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GxASqWzs-98
+youtube_code: RzO4EOtI-GU
 ---
 
 {% include youtube.html %}
