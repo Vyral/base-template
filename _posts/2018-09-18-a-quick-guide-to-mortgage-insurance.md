@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What does the term “mortgage insurance” actually refer to? Today I’d like to
   explain.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/Texas+Real+Estate+Pro-+What+kind+of+financing+options+are+available+to+you%253F.mp4
 pullquote: >-
   Mortgage insurance ensures that the bank will be paid in the event of a
   foreclosure.
