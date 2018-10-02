@@ -25,7 +25,7 @@ Most of you have probably seen advertisements for companies claiming they’ll b
 
 **Here’s the truth: If it sounds too good to be true, it probably is.**
 
-One of our clients recently met with one such company. Over the phone, they had priced her home at $308,000—but this client’s home is actually worth about $330,000. When they visited her property, they started making price reductions based on things like the fact that she didn’t have granite countertops. And these deductions made no sense. Even though it only would have cost this client about $2,800 install granite countertops, the company chopped $4,000 off of their offer because her home lacked them.
+One of our clients recently met with one such company. Over the phone, they had priced her home at $308,000—but this client’s home is actually worth about $330,000. When they visited her property, they started making price reductions based on things like the fact that she didn’t have granite countertops. And these deductions made no sense. Even though it only would have cost this client about $2,800 to install granite countertops, the company chopped $4,000 off of their offer because her home lacked them.
 
 **The company made deduction after deduction like this until she was left with an offer of about $290,000—$18,000 less than what they had originally said they’d pay.**
 
