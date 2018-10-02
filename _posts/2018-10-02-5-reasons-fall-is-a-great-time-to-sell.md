@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons Fall Is a Great Time to Sell
-date: 2018-10-02 19:46:23
+date: 2018-10-02 19:46:00
 tags:
   - Home Seller Tips
 excerpt: Now is a great time to list your home. Here's why.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: oAGQOW7xJYg
 ---
 
 {% include youtube.html %}
