@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of a Leaseback Agreement
-date: 2018-09-27 21:02:34
+date: 2018-09-27 21:02:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9vzRBOakJJ0
+youtube_code: N6BQdFWOurU
 ---
 
 {% include youtube.html %}
