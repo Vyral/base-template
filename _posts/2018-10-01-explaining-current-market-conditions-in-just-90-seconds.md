@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explaining Current Market Conditions in Just 90 Seconds
-date: 2018-09-24 00:00:00
+date: 2018-10-01 00:00:00
 tags:
   - Real Estate
   - Market Update
@@ -22,7 +22,7 @@ youtube_code: FTpA302pygc
 
 <center><em>Conditions have begun to even out in our real estate market, and today we&rsquo;d like to share what this may mean for you.</em></center>
 
-&nbsp;
+ 
 
 It’s time for another market update, and we’ve got some interesting developments to report today.
 
