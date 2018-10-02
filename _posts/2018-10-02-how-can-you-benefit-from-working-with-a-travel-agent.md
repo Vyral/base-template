@@ -42,6 +42,6 @@ On today’s business spotlight, we’re joined by Nichole McVicker, a travel pl
 
 {% include pullquote.html %}
 
-If you would like to get in contact with Nichole, you can reach out to her directly by calling her cell phone at (410) 982-1806 or [emailing her](mailto:Nichole@LBACTravel.com?subject=Re%3A%20Business%20Spotlight).
+If you would like to get in contact with Nichole, you can reach out to her directly by calling her cell phone at (410) 982-1806 or [emailing her](mailto:Nichole@LBACTravel.com?subject=Re%3A%20Business%20Spotlight)&nbsp;at&nbsp;[Nichole@lbactravel.com.](mailto:Nichole@LBACTravel.com?subject=Re%3A%20Business%20Spotlight)
 
 If you have any other questions for us, please don’t hesitate to call or email. We look forward to speaking with you soon.
