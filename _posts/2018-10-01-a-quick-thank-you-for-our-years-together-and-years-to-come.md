@@ -31,6 +31,6 @@ I realized early on that my mission in life is to make a difference. I love help
 
 If you start a business and your mission is only to make money, I can guarantee that you are going to fail. Your mission has to be a calling and I think that our calling here is to help others. We care greatly about our clients. We enjoy helping you get to your goals while better serving you. We know your stories and feel your pain when something happens.
 
-This is why **I want to thank you for watching and reading this and being one of our clients.** We appreciate you more than you know. If there's ever anything you need, call us. We would be happy to lend you our bounce house, power washer, tools, folding tables, etc. because they are there for you to borrow since you have supported us through the years.
+This is why **I want to thank you for watching and reading this and being one of our clients.** We appreciate you more than you know. If there's ever anything you need, call us. We would be happy to lend you our bounce house, power washer, tools, folding tables, etc., because they are there for you to borrow since you have supported us through the years.
 
 If you have any questions about buying and selling, please feel free to reach out to me. I look forward to working with you soon.
