@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Here to Help You
-date: 2018-05-31 16:29:41
+date: 2018-10-02 16:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 7h2RS9k4lo0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.</em></p>
+*We’ve compiled a list of trustworthy local vendors you can use to take care of all your home improvement and repair needs.*
 
 <center>&nbsp;</center>
 
