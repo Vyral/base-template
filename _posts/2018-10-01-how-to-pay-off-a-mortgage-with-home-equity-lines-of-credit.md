@@ -4,7 +4,6 @@ title: How to Pay Off a Mortgage With Home Equity Lines of Credit
 date: 2018-10-01 00:00:00
 tags:
   - Real Estate
-  - Home Owner Tips
 excerpt: >-
   Using the incredible strategy we’ll be discussing today, homeowners can pay
   down a 30-year mortgage in just five to eight years. Let’s find out how it
@@ -16,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jim-casbarro-oct-2-ss-no-play.jpg
-youtube_code: 1q8d3UFN_xw
+youtube_code: Oz7XS45uh2I
 ---
 
 {% include youtube.html %}
 
 <center><em>Using the incredible strategy we&rsquo;ll be discussing today, homeowners can pay down a 30-year mortgage in just five to eight years. Let&rsquo;s find out how it works.</em></center>
 
-&nbsp;
+ 
 
 In continuing our mission to help you love where you live, today I’ll be discussing how to pay off your mortgage using home equity lines of credit (or HELOCs). This advanced real estate investing tactic can help you pay off your mortgage and accelerate your debt on any amortized loan in as little to five to eight years, especially in the case of 30-year loans.
 
