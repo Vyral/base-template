@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using the LPAMA Technique With Potential Clients
-date: 2018-09-26 21:04:59
+date: 2018-09-26 21:04:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mUOgzsuIO_c
+youtube_code: Bz0wNwTK1Dw
 ---
 
 {% include youtube.html %}
