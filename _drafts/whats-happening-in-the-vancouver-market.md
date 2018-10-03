@@ -22,6 +22,8 @@ youtube_code: 6mR5eqt-M_k
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I want to look at a couple of our national real estate market and what's happening in our Vancouver market.</em></p>
+
 I was at a managing broker conference in Richmond yesterday, which was hosted by BCREA (British Columbia Real Estate Association). Attending the conference were members of the CREA (Canadian Real Estate Association), the Real Estate Council of BC, FINTRAC, and the Superintendent of Real Estate. They gave a lot of great ideas on how to better the consumer’s experience when dealing with Realtors and real estate. They also had some enlightening statistics that I’ll share with you today.
 
 One of the biggest takeaways for me was from one of the presenters from CREA. He talked about the consumer price index (CPI) and the other goods the government uses to analyze the current condition of the economy. **Between the years 2000 and 2017, the CPI went up 36%**. During that same period, **the housing price index (HPI) was up 207%**. This shows how out of whack our real estate prices are compared to the rest of our society. This alarming statistic brought on conversations about homelessness, first-time buyers, renters, move-up buyers, move-down buyers, etc.
