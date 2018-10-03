@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stay in the Loop With Your Mortgage Lender by Asking These Questions
-date:
+date: 2018-10-03 16:30:16
 tags:
   - Home Buyer Tips
 excerpt: >-
