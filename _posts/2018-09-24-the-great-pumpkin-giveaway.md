@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Join Us For a Giveaway and Then For a Chance to Give
-date: 2018-09-24 15:22:50
+title: The Great Pumpkin Giveaway
+date: 2018-09-24 15:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -39,5 +39,3 @@ Still, many of us stocked up on toiletries, nonperishable food items, and other 
 We’re taking donations at our office (located at 496 Bramson Court, Mount Pleasant), so we encourage you and anyone you know who has items to spare to join us in making a difference for those in need. **We’re accepting over-the-counter medicine, canned food, bottled water, pet food, paper goods, construction tools, toiletries, and other such essential items**. Our hope is that, after collecting these items, we will be able to take an 18-wheeler full of them up to North Carolina where we will distribute the goods. If you’re able to contribute, we would highly appreciate your help.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
