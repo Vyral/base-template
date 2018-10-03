@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Enjoy+this+Aerial+Tour+of+Grayton+Beach+by+Nathan+Abbott+Team.mp4
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Enjoy+this+Aerial+Tour+of+Grayton+Beach+by+Nathan+Abbott+Team.mp4
 pullquote: 'Andross, the Final Boss'
