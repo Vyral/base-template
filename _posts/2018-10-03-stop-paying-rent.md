@@ -22,9 +22,9 @@ youtube_code: gznyPnboRrY
 
 {% include youtube.html %}
 
-Did you know that in the greater Memphis area, the cost of renting is reported to be 43% more expensive than purchasing a home?
+Did you know that in the greater Memphis area, **the cost of renting is reported to be 43% more expensive than purchasing a home?**
 
-If you or someone you know would look at this statistic as a significant amount, it's time to explore your options and look at your obstacles. If you've always rented, buying a home can seem like a monumental undertaking that is beyond your reach, but you may be wrong. There are seven basic steps to transitioning from renter to homeowner that you need to examine.
+If you or someone you know would look at this statistic as a significant amount, **it's time to explore your options and look at your obstacles.** If you've always rented, buying a home can seem like a monumental undertaking that is beyond your reach, but you may be wrong. There are seven basic steps to transitioning from renter to homeowner that you need to examine.
 
 {% include pullquote.html %}
 
