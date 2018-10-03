@@ -7,7 +7,8 @@ tags:
   - Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Enjoy+this+Aerial+Tour+of+Grayton+Beach+by+Nathan+Abbott+Team.mp4
+  Grayton Beach is one of my all-time favorite places—as one of the top-rated
+  beach destinations, it’s truly in a league of its own.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Enjoy+this+Aerial+Tour+of+Grayton+Beach+by+Nathan+Abbott+Team.mp4
 pullquote: 'Andross, the Final Boss'
