@@ -29,6 +29,6 @@ If you’re a buyer, I recommend an earnest money deposit of at least 1% of your
 
 **If you’re a seller, you want to get as much earnest money back as possible** because you’re the one who’s liable in this situation. If your house is off the market for two months and the buyer doesn’t qualify at the last minute, you’ll have to relinquish that money—you won’t be able to reclaim it.
 
-However, if the buyer gets to close of escrow, they’re completely funded, and they meet all other contingencies, but for whatever reason they just decided not to close, then you’d be completely refunded for having your house off the market for that long.
+However, if the buyer gets to close of escrow, they’re completely funded, and they meet all other contingencies, but they just decide not to close for whatever reason, then you’d be completely refunded for having your house off the market for that long.
 
 If you have any other questions about the earnest money deposit, real estate contracts, or the home buying process in general, don’t hesitate to reach out to me. I’d be happy to help you.
