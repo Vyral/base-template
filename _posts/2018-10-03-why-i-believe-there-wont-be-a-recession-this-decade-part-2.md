@@ -17,7 +17,7 @@ youtube_code: XIY1KKwXMDU
 
 {% include youtube.html %}
 
-There's a lot of talk in the news right now about a pending housing bubble. As I mentioned last time in part one of this series (which you can watch here),I don't believe that we'll see a recession this decade. Today I am going to explore this topic even further and give you even more evidence to why I believe this.
+There's a lot of talk in the news right now about a pending housing bubble. As I mentioned last time in part one of this series (which you can watch [here](https://crgjasoncadwellblog.com/why-i-believe-there-wont-be-a-recession-this-decade.html)),I don't believe that we'll see a recession this decade. Today I am going to explore this topic even further and give you even more evidence to why I believe this.
 
 {% include pullquote.html %}
 
