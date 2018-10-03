@@ -24,7 +24,7 @@ youtube_code: PpDQEn8YGQA
 
 &nbsp;
 
-On today’s business spotlight, we’re joined by Nichole McVicker, a travel planner with LBAC Travel. Nichole is actually a past client and we are very excited to have her on with us for an informative Q&A.
+On today’s "Business Spotlight," we’re joined by Nichole McVicker—a travel planner with LBAC Travel. Nichole is actually a past client and we are very excited to have her on with us for an informative Q&A.
 
 **We have included timestamps below so that you can jump to the section(s) that interest you most:**
 
