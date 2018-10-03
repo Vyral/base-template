@@ -66,7 +66,7 @@ permalink: /subscribe/
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 
-<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our Durham Region.</p>
+<p>We look forward to staying in touch. Let’s raise the standard and training of all real estate agents in our Wasatch Front.</p>
 
 <p>I invite you to subscribe now below:</p>
 {% include subscribe.html %}
