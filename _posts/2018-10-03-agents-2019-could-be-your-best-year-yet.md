@@ -17,7 +17,7 @@ youtube_code: tnS6f56Pg9I
 
 {% include youtube.html %}
 
-*Did you meet your selling goals in 2018? If not, we need to talk.*
+<p style="text-align: center;"><em>Did you meet your selling goals in 2018? If not, we need to talk.</em></p>
 
 If your career didn’t take the direction you expected in 2018, then we need to talk.
 
