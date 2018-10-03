@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Signs It’s Time for You To Move
-date: 2018-09-26 19:46:46
+date: 2018-09-26 19:46:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: URVO9DQ5FC4
+youtube_code: H_aDLU70hpE
 ---
 
 {% include youtube.html %}
