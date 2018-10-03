@@ -20,6 +20,8 @@ youtube_code: Rgohf2d2OUg
 
 {% include youtube.html %}
 
+If you are thinking of possibly selling or making a move, I have an exciting announcement to share with you.
+
 The process of selling your home and navigating today’s changing real estate market can be challenging, so if you’re thinking of selling your home or investment property now or in the future, we have an upcoming home seller seminar that’s just for you.
 
 **This seminar is happening on October 24 at the Seal Beach Winery from 6:30 p.m. to 8:00 p.m**. It’s free to attend, and you’ll also have the opportunity to sample some great complimentary wine.
@@ -31,5 +33,7 @@ The process of selling your home and navigating today’s changing real estate m
 We’ll also share the steps you need to take to sell your home for the most money and talk about you and your agent’s role in making the sale happen. Additionally, we’ll discuss the current market, share our marketing strategies, and show you how to outshine the competition and make your home look its best before listing it.
 
 Seal Beach Winery is located at 3387 West Cerritos Avenue, Los Alamitos, California. We look forward to seeing you there!
+
+To RSVP visit www.imaginerealty.com/events
 
 If you have any questions in the meantime, please feel free to reach out to us. We’d be happy to speak to you.
