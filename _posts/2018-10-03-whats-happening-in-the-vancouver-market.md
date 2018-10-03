@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's Happening in the Vancouver Market?
-date:
+date: 2018-10-03 19:16:07
 tags:
   - Market Update
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: 6mR5eqt-M_k
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I want to look at a couple of our national real estate market and what's happening in our Vancouver market.</em></p>
+*Today I want to look at a couple of our national real estate market and what's happening in our Vancouver market.*
 
 I was at a managing broker conference in Richmond yesterday, which was hosted by BCREA (British Columbia Real Estate Association). Attending the conference were members of the CREA (Canadian Real Estate Association), the Real Estate Council of BC, FINTRAC, and the Superintendent of Real Estate. They gave a lot of great ideas on how to better the consumer’s experience when dealing with Realtors and real estate. They also had some enlightening statistics that I’ll share with you today.
 
