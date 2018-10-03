@@ -20,7 +20,7 @@ youtube_code: Rgohf2d2OUg
 
 {% include youtube.html %}
 
-*To RSVP visit&nbsp;[www.imaginerealty.com/events](www.imaginerealty.com/events){: target="_blank"}*
+*To RSVP visit&nbsp;[www.imaginerealty.com/events](https://www.eventbrite.com/e/how-to-sell-your-home-for-top-dollar-free-event-wcomplimentary-wine-tasting-tickets-50712982897){: target="_blank"}*
 
 If you are thinking of possibly selling or making a move, I have an exciting announcement to share with you.
 
@@ -36,6 +36,6 @@ We’ll also share the steps you need to take to sell your home for the most mon
 
 Seal Beach Winery is located at 3387 West Cerritos Avenue, Los Alamitos, California. We look forward to seeing you there!
 
-To RSVP visit&nbsp;[www.imaginerealty.com/events](www.imaginerealty.com/events){: target="_blank"}
+To RSVP visit&nbsp;[www.imaginerealty.com/events](https://www.eventbrite.com/e/how-to-sell-your-home-for-top-dollar-free-event-wcomplimentary-wine-tasting-tickets-50712982897)
 
 If you have any questions in the meantime, please feel free to reach out to us. We’d be happy to speak to you.
