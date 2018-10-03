@@ -21,7 +21,7 @@ youtube_code: zz1C8ZItM74
 
 {% include youtube.html %}
 
-Most people assume that springtime, or the first quarter of the year (Q1), is the best time to sell your home, and that wintertime, or the fourth quarter (Q4), is a bad time to do it. According to the numbers, though, **this simply isn’t true.**
+Most people assume that springtime, or the first quarter of the year (Q1), is the best time to sell your home and that wintertime, or the fourth quarter (Q4), is a bad time to do it. According to the numbers, though, **this simply isn’t true.**
 
 Although it is true that more homes sell during the first quarter, there are fewer homes that come on the market during the fourth quarter, so the absorption rate is higher during that time.
 
