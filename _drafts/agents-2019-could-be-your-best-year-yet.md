@@ -16,6 +16,8 @@ youtube_code:
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Did you meet your selling goals in 2018? If not, we need to talk.</em></p>
+
 If your career didn’t take the direction you expected in 2018, then we need to talk.
 
 **The first thing you should realize is that it wouldn’t matter if 2018 had the hottest real estate market in history—there would still be agents struggling.** To be successful, agents need to have the right tools and opportunities.
