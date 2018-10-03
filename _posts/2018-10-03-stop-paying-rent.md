@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stop Paying Rent
-date:
+date: 2018-10-03 21:53:39
 tags:
   - Real Estate
   - Market Update
