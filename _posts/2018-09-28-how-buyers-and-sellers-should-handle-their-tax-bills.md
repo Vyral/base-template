@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How Buyers and Sellers Should Handle Their Tax Bills
-date: 2018-09-28 19:07:23
+date: 2018-09-28 19:07:00
 tags:
   - Athens Real Estate Agent
 excerpt: >-
   If you’ve sold or purchased a home this year, how do you handle your tax
   bills? Today I’ll explain.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Whats+the+Deal+with+Your+Tax+Bill%253F.mp4
 pullquote: >-
   If you bought a house earlier this year and you financed that mortgage, the
   mortgage company will mostly likely cover the tax bill through your escrow
