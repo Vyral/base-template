@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Marketing Luxury Real Estate Podcast Video Blog with Michael LaFido</title>
-    <link>http://luxeredefined.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://luxeredefined.com"/>
+    <link>luxeredefined.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="luxeredefined.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marketing Luxury Group - your professional Marketing Luxury Listings Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Michael LaFido</managingEditor>
-    <lastBuildDate>2018-09-19 11:35:43 -0500</lastBuildDate>
+    <lastBuildDate>2018-10-04 15:51:36 -0500</lastBuildDate>
     <media:copyright>Michael LaFido</media:copyright>
-    <media:thumbnail url="http://luxeredefined.com/img/podcast.jpg"/>
+    <media:thumbnail url="luxeredefined.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,93 @@
     </itunes:owner>
     <itunes:author>Michael LaFido</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://luxeredefined.com/img/podcast.jpg"/>
+    <itunes:image href="luxeredefined.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Marketing Luxury Listings Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Marketing Luxury Group - your professional Marketing Luxury Listings Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Never Talk Price on a Luxury Listing Appointment</title>
+        <link>luxeredefined.com/never-talk-price-on-a-luxury-listing-appointment.html</link>
+        
+          <category>Luxury Listing Specialist</category>
+        
+        <author>Michael LaFido</author>
+        <pubDate>2018-10-04 14:01:21 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/What+You+Need+To+Price+A+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4</guid>
+        <description>
+
+When you go on a listing appointment for a unique luxury property that’s not located in a cookie-cutter neighborhood, never talk price.
+
+The old way to go on a listing appointment meant bringing along your CMA, but I don’t recommend doing this this, because you haven’t even walked through the home yet. I always tell sellers that if they’re interviewing an agent who comes to their listing appointment with a CMA, they probably won’t be able to evaluate and price their home for that very reason.
+
+Ideally, your goal for that first listing appointment should be to walk through the home and get a sense of its updates, floor plan, etc., so you can get back to the seller afterward with your suggested market price.
+
+The new way of doing things, and one that we recommend, is to bring along a “market analysis report” (we also refer to it as a “luxury snapshot”) to the listing appointment instead of a CMA. This market analysis report (or MAR) details comparable luxury homes that are also on the market.
+
+“You’ll turn off many luxury sellers if you come to a listing appointment prepared with a price without even having walked through the home first.”
+
+If you’re going on a listing appointment for a luxury listing that is located in a cookie-cutter neighborhood where there are a lot of similar comps, go ahead and bring a CMA. Otherwise, you’ll turn off many luxury sellers if you come to a listing appointment prepared with a price without even having walked through the home first.
+
+So remember, differentiate yourself from the competition and let sellers know that if they talk to an agent who comes to their listing appointment with a CMA, they should show them the door. It’s also important that you know your numbers–we define “luxury price” as any price that’s 3x higher than the average sale price.
+
+As always, if you have any questions about this topic or there’s anything I can assist you with, don’t hesitate to call or email me anytime. I’d be happy to help you.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/What+You+Need+To+Price+A+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/What+You+Need+To+Price+A+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you go on a luxury listing appointment, don’t bring along a CMA. Here’s what we recommend you do instead.</itunes:subtitle>
+        <itunes:author>Michael LaFido</itunes:author>
+        <itunes:summary>When you go on a luxury listing appointment, don’t bring along a CMA. Here’s what we recommend you do instead.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Overcome the Difficulties of Pricing High-End Homes</title>
+        <link>luxeredefined.com/how-to-overcome-the-difficulties-of-pricing-high-end-homes.html</link>
+        
+          <category>Luxury Listing Specialist</category>
+        
+        <author>Michael LaFido</author>
+        <pubDate>2018-09-19 23:13:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4</guid>
+        <description>
+
+Luxury homes, defined as those which are at least three times the average sales price for a given market, can be difficult to price.
+
+As is the case with any real estate listing, it’s important not to rely on Zillow or other online estimates when determining home value. Virtual tools like these may be adequate for pricing properties in cookie-cutter neighborhoods, but they should otherwise be avoided. High-end properties require more sophisticated methods.
+
+The strategy you use to determine home value should reflect the property you’re working with. For example, a comparative market analysis may be effective in some circumstances, but will often be insufficient when pricing a luxury home. This is because comparative market analyses rely on data from comparable properties, and so luxury properties are often too unique for this to be a viable strategy.
+
+“The strategy you use to determine home value should reflect the property you’re working with.”
+
+So, if not by using a comparative market analysis, what is the best way for an agent to price a luxury home? First, do not prepare a pricing estimate ahead of the listing appointment. Instead, let the seller know that, given the highly customized nature of their home, you wanted to examine the property in-person before passing judgment on its value. That said, don’t show up empty-handed. Come prepared to the listing appointment with a market analysis report (MAR).
+
+Market analysis reports essentially provide a snapshot of how other luxury homes in the area are performing in the market. By referencing this report and ordering a private appraisal, sellers will glean a much clearer picture of their home’s true value.
+
+With all of this in mind, it’s also essential to remember the impact of the overall market. It’s crucial to keep market trends in mind when pricing a luxury home, just as you would for any other property.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
+
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is the right way to price a luxury property? Let’s discuss a few key strategies and how they differ from what may be utilized within other price points.</itunes:subtitle>
+        <itunes:author>Michael LaFido</itunes:author>
+        <itunes:summary>What is the right way to price a luxury property? Let’s discuss a few key strategies and how they differ from what may be utilized within other price points.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Sellers: Don't Make This Common Mistake</title>
-        <link>http://luxeredefined.com/sellers-dont-make-this-common-mistake.html</link>
+        <link>luxeredefined.com/sellers-dont-make-this-common-mistake.html</link>
         
           <category>Luxury Listing Specialist</category>
         
@@ -56,7 +134,7 @@ If you have any other questions, would like more information, or want help with 
  
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+Number+One+Mistake+Sellers+Make+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+Number+One+Mistake+Sellers+Make+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What’s going on in today’s market and how are these current conditions affecting sellers? Let’s go over a few key points.</itunes:subtitle>
@@ -66,45 +144,8 @@ If you have any other questions, would like more information, or want help with 
       </item>
       
       <item>
-        <title>How to Overcome the Difficulties of Pricing High-End Homes</title>
-        <link>http://luxeredefined.com/how-to-overcome-the-difficulties-of-pricing-high-end-homes.html</link>
-        
-          <category>Luxury Listing Specialist</category>
-        
-        <author>Michael LaFido</author>
-        <pubDate>2018-09-04 23:13:00 -0500</pubDate>
-        <guid>https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4</guid>
-        <description>
-
-Luxury homes, defined as those which are at least three times the average sales price for a given market, can be difficult to price.
-
-As is the case with any real estate listing, it’s important not to rely on Zillow or other online estimates when determining home value. Virtual tools like these may be adequate for pricing properties in cookie-cutter neighborhoods, but they should otherwise be avoided. High-end properties require more sophisticated methods.
-
-The strategy you use to determine home value should reflect the property you’re working with. For example, a comparative market analysis may be effective in some circumstances, but will often be insufficient when pricing a luxury home. This is because comparative market analyses rely on data from comparable properties, and so luxury properties are often too unique for this to be a viable strategy.
-
-“The strategy you use to determine home value should reflect the property you’re working with.”
-
-So, if not by using a comparative market analysis, what is the best way for an agent to price a luxury home? First, do not prepare a pricing estimate ahead of the listing appointment. Instead, let the seller know that, given the highly customized nature of their home, you wanted to examine the property in-person before passing judgment on its value. That said, don’t show up empty-handed. Come prepared to the listing appointment with a market analysis report (MAR).
-
-Market analysis reports essentially provide a snapshot of how other luxury homes in the area are performing in the market. By referencing this report and ordering a private appraisal, sellers will glean a much clearer picture of their home’s true value.
-
-With all of this in mind, it’s also essential to remember the impact of the overall market. It’s crucial to keep market trends in mind when pricing a luxury home, just as you would for any other property.
-
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-</description>
-        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
-        <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Pricing+Your+Luxury+Home+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>What is the right way to price a luxury property? Let’s discuss a few key strategies and how they differ from what may be utilized within other price points.</itunes:subtitle>
-        <itunes:author>Michael LaFido</itunes:author>
-        <itunes:summary>What is the right way to price a luxury property? Let’s discuss a few key strategies and how they differ from what may be utilized within other price points.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Marketing Luxury Listings, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
         <title>Can You Name the 4 Price Points in Your Market?</title>
-        <link>http://luxeredefined.com/can-you-name-the-4-price-points-in-your-market.html</link>
+        <link>luxeredefined.com/can-you-name-the-4-price-points-in-your-market.html</link>
         
           <category>Luxury Listing Specialist</category>
         
@@ -134,7 +175,7 @@ If you have any more questions about knowing your price points or want to learn 
 Also, don’t forget to check out our “Luxury Listing Specialist” podcast on iTunes or Stitcher. If you’d like more information or want a shot at winning some free prizes, text “LUXE” to 72000.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+4+Price+Points+Of+Real+Estate+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+4+Price+Points+Of+Real+Estate+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are four price points in every market: entry-level homes, average price point homes, high-end homes, and luxury homes.</itunes:subtitle>
@@ -145,7 +186,7 @@ Also, don’t forget to check out our “Luxury Listing Specialist” podcast on
       
       <item>
         <title>The New Approach to Selling Your Luxury Listings</title>
-        <link>http://luxeredefined.com/the-new-approach-to-selling-your-luxury-listings.html</link>
+        <link>luxeredefined.com/the-new-approach-to-selling-your-luxury-listings.html</link>
         
           <category>Luxury Listing Specialist</category>
         
@@ -171,7 +212,7 @@ Here is a hypothetical situation where the ROS strategy would work quite well. L
 This is the new way of doing things. If you have any questions for me or want to learn more about the reverse offer strategy, please feel free to give me a call or send me an email at any time. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+Newest+Selling+Strategy+In+Real+Estate+%257C+Luxury+Listing+Specialist.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/The+Newest+Selling+Strategy+In+Real+Estate+%257C+Luxury+Listing+Specialist.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The old method for selling stale listings is tired and ineffective. Here is the new strategy that you should be utilizing.</itunes:subtitle>
@@ -182,7 +223,7 @@ This is the new way of doing things. If you have any questions for me or want to
       
       <item>
         <title>Want to Be More Productive? Put Down the Smartphone</title>
-        <link>http://luxeredefined.com/want-to-be-more-productive-put-down-the-smartphone.html</link>
+        <link>luxeredefined.com/want-to-be-more-productive-put-down-the-smartphone.html</link>
         
           <category>Increase Business</category>
         
@@ -219,7 +260,7 @@ Many times, broker-owners and team leaders are also more productive when they cl
 If you want to talk more about how you can be more productive or, if you have another topic in mind you would like to see me cover, feel free to give me a call or send me an email. I would be happy to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/How+To+Be+More+Productive+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/How+To+Be+More+Productive+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to be more productive in your business, think about what you can do more of and what you can do less of. Start by putting down the smartphone.</itunes:subtitle>
@@ -230,7 +271,7 @@ If you want to talk more about how you can be more productive or, if you have an
       
       <item>
         <title>All Your Real Estate Photography Needs Are About to Be Met</title>
-        <link>http://luxeredefined.com/all-your-real-estate-photography-needs-are-about-to-be-met.html</link>
+        <link>luxeredefined.com/all-your-real-estate-photography-needs-are-about-to-be-met.html</link>
         
           <category>Increase Business</category>
         
@@ -246,7 +287,7 @@ Professional photography is an incredibly important element in any real estate t
 Amazing results aren’t the only thing you can expect when working with Brad and his company. The prices you pay for these services are also very reasonable. Some services, like adding blue skies to a photo, cost as low as $2. And their No.1-selling enhancement, digitally staging, costs just $32. Boxbrownie.com is truly the go-to place for all of your real estate photography needs.The little touches Boxbrownie.com makes to enhance home photos really add up. “You get one chance at a first impression,” says Brad. “You might as well make it last.”Finally, as I always say: It’s not the marketing, it’s the market. While Brad handles the photography end of things, my group and I are experts on all things luxury real estate. And you could be too. When you sign up for our certification class, you too can set yourself on the path to becoming a certified luxury listing specialist. To learn more about this, go to www.luxurylistingspecialist.com.If you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/How+To+Get+The+Best+Professional+Photography-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/How+To+Get+The+Best+Professional+Photography-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I’m joined by a very special guest, real estate photography rockstar Brad Filliponi of Boxbrownie.com, to talk about the role he and his company play in this industry.</itunes:subtitle>
@@ -257,7 +298,7 @@ Amazing results aren’t the only thing you can expect when working with Brad an
       
       <item>
         <title>4 Statistics Agents in the Luxury Market Must Know</title>
-        <link>http://luxeredefined.com/4-statistics-agents-in-the-luxury-market-must-know.html</link>
+        <link>luxeredefined.com/4-statistics-agents-in-the-luxury-market-must-know.html</link>
         
         <author>Michael LaFido</author>
         <pubDate>2018-06-01 05:26:00 -0500</pubDate>
@@ -280,7 +321,7 @@ These tips will all be vital to your success with working in the luxury market. 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/4+Statistics+Every+Agent+Needs+To+Know+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2018/Marketing+Luxury+Group/4+Statistics+Every+Agent+Needs+To+Know+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to work in the luxury market, there are four key statistics you absolutely must know.</itunes:subtitle>
@@ -291,7 +332,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Use the Season to Your Advantage: Take Your Home Photos Now</title>
-        <link>http://luxeredefined.com/use-the-season-to-your-advantage-take-your-home-photos-now.html</link>
+        <link>luxeredefined.com/use-the-season-to-your-advantage-take-your-home-photos-now.html</link>
         
           <category>Real Estate Business Tips</category>
         
@@ -307,7 +348,7 @@ Today I’d like to talk about the importance of taking photos of the outside of
 If your home isn’t currently on the market, or if it is but you plan to make changes to your listing, be proactive. Interview your agents now, and take your photos now. I talk about this among many other things in my new book “Luxury Listing Specialist”. This fall we attended many conferences where we were rubbing elbows with some of the top agents from around the world, so I could come back to my marketplace to serve my clients more effectively with cutting-edge marketing, both online and offline.If you need a second opinion on your real estate transaction, you’re thinking of selling, or you have any real estate questions at all, please reach out to us. Let’s keep up the momentum and finish 2017 strong.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/The+Importance+of+Being+Proactive+-+Chicagoland+Real+Estate+Agent-.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/The+Importance+of+Being+Proactive+-+Chicagoland+Real+Estate+Agent-.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Being proactive is a key element to getting the right photos to sell your home. Don’t wait until it’s gloomy and dreary outside. Do it now.</itunes:subtitle>
@@ -318,7 +359,7 @@ If your home isn’t currently on the market, or if it is but you plan to make c
       
       <item>
         <title>Using Art to Market Luxury Homes</title>
-        <link>http://luxeredefined.com/using-art-to-market-luxury-homes.html</link>
+        <link>luxeredefined.com/using-art-to-market-luxury-homes.html</link>
         
           <category>Real Estate Business Tips</category>
         
@@ -340,7 +381,7 @@ As we’ve seen time and time again, marketing your luxury home properly will le
 If you have any questions for me about how to successfully market your home for sale, don’t hesitate to give me a call or sending me an email. I would love to hear from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/Using+Art+to+Market+Luxury+Homes+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/Using+Art+to+Market+Luxury+Homes+-+Chicagoland+Luxury+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Marketing luxury homes is a different animal entirely. Here’s one of our newest techniques that has been seeing great results.</itunes:subtitle>
@@ -351,7 +392,7 @@ If you have any questions for me about how to successfully market your home for 
       
       <item>
         <title>What Can Matched Pairs Tell Us About Resale Value When Selling A Home?</title>
-        <link>http://luxeredefined.com/what-can-matched-pairs-tell-us-about-resale-value-when-selling-a-home.html</link>
+        <link>luxeredefined.com/what-can-matched-pairs-tell-us-about-resale-value-when-selling-a-home.html</link>
         
         <author>Michael LaFido</author>
         <pubDate>2017-04-09 19:00:00 -0500</pubDate>
@@ -373,7 +414,7 @@ The homes that had money put in to make significant improvements ended up sellin
 If you have any questions for me or you’re thinking of putting your home on the market anytime soon, don’t hesitate to give me a call or send me an email. I would love to hear from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/What+Can+Matched+Pairs+Tell+Us+About+Home+Value%253F+-+Chicagoland+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Mike+LaFido/Videos/2017/What+Can+Matched+Pairs+Tell+Us+About+Home+Value%253F+-+Chicagoland+Real+Estate+Agent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Home improvements are important before selling. These numbers tell the truth about how much you should invest.</itunes:subtitle>
@@ -384,7 +425,7 @@ If you have any questions for me or you’re thinking of putting your home on th
       
       <item>
         <title>The New Age of Real Estate Marketing</title>
-        <link>http://luxeredefined.com/the-new-age-of-real-estate-marketing.html</link>
+        <link>luxeredefined.com/the-new-age-of-real-estate-marketing.html</link>
         
         <author>Michael LaFido</author>
         <pubDate>2015-08-19 19:00:00 -0500</pubDate>
@@ -402,7 +443,7 @@ So, how did lifestyle marketing get this home sold? The truth is only 10% of buy
 If you have any questions about lifestyle marketing, or if you need real estate assistance of any kind, don’t hesitate to reach out to us. We’re always here to make your real estate dreams a reality!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://luxeredefined.com" height="72" width="72"/>
+        <media:thumbnail url="luxeredefined.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Chicagoland Real Estate Expert discusses how current real estate trends are doing in the local area.</itunes:subtitle>
