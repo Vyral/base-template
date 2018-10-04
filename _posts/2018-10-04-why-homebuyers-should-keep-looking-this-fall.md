@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Homebuyers Should Keep Looking This Fall
-date:
+date: 2018-10-04 20:15:03
 tags:
   - Home Buyer Tips
   - Market Update
