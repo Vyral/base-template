@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the Storms Affect Kauai?
-date: 2018-09-24 19:13:00
+date: 2018-10-03 19:13:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-margolis-tropical-stormyt-small.jpg
-youtube_code: W3n_oNa2TwI
+youtube_code: KwvpbSTs7NY
 ---
 
 {% include youtube.html %}
