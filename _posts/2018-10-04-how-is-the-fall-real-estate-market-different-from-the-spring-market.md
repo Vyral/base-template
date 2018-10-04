@@ -33,13 +33,13 @@ Ultimately, this means that a property that was overpriced in the spring may be 
 
 The second major difference in the fall market is that there are people who did not want to move their families during the spring or summer. These people are looking to take advantage of the lower prices in the fall or winter market.
 
+{% include pullquote.html %}
+
 Those are the two main differences between the spring and fall market. If I wanted to list my home and buy a larger home, I would say that fall is a great time to do that.
 
 However, year after year, **we lose a lot of buyers in the fall.** These buyers have been out in the spring and summer market. Without any available inventory in a price range that is attractive to them, buyers get frustrated and quit looking for homes. That is certainly understandable. It’s not easy to be outbid on house after house.
 
 That said, **don’t give up now.** I think stopping your home search in the fall is a big mistake. There are usually price reductions in the fall, which gives you a great opportunity to get a premium property at a discount. In the fall, there is more price power for the buyer.
-
-{% include pullquote.html %}
 
 There are also **fewer buyers to compete against**, so it makes a lot of sense to consider purchasing a home in the fall. So, get energized and start looking for a home! (Again!)
 
