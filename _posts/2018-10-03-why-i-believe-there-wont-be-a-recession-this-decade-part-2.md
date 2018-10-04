@@ -17,15 +17,15 @@ youtube_code: XIY1KKwXMDU
 
 {% include youtube.html %}
 
-There's a lot of talk in the news right now about a pending housing bubble. As I mentioned last time in part one of this series (which you can watch [here](https://crgjasoncadwellblog.com/why-i-believe-there-wont-be-a-recession-this-decade.html)),I don't believe that we'll see a recession this decade. Today I am going to explore this topic even further and give you even more evidence to why I believe this.
+There's a lot of talk in the news right now about a pending housing bubble. As I mentioned last time in part one of this series (which you can watch [here](https://crgjasoncadwellblog.com/why-i-believe-there-wont-be-a-recession-this-decade.html)), I don't believe that we'll see a recession this decade. Today I am going to explore this topic even further and give you even more evidence to why I believe this.
 
 {% include pullquote.html %}
 
-I have once again provided you with timestamps below so that you can skip ahead to the part(s) that interest you most.
+**I have once again provided you with timestamps below so that you can skip ahead to the part(s) that interest you most.**
 
 0:45 – A quick recap of part one
 
-2:38 – How interest rates impact our market conditions.
+2:38 – How interest rates impact our market conditions
 
 4:15 – Why there is so little inventory
 
@@ -39,6 +39,6 @@ I have once again provided you with timestamps below so that you can skip ahead 
 
 10:35 – A review of all six reasons there won't be a recession
 
-If you have any questions about about this, please don't hesitate to give me a call or send me an email. I look forward to hearing from you son.
+If you have any questions about this, please don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 
 &nbsp;
