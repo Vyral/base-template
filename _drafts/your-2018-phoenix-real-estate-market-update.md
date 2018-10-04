@@ -22,7 +22,7 @@ youtube_code: r02oRwGkSSc
 
 {% include youtube.html %}
 
-Today I’ll provide you with an update on the current state of the Phoenix, Arizona real estate market.
+<center>Today I’ll provide you with an update on the current state of the Phoenix, Arizona real estate market.</center>
 
 In our current market, we need to think about how far we’ve come since the recession.
 
