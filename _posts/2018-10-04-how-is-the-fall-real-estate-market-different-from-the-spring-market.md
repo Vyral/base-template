@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Homebuyers Should Keep Looking This Fall
-date: 2018-10-04 20:15:03
+title: How Is the Fall Real Estate Market Different From the Spring Market?
+date: 2018-10-04 20:15:00
 tags:
   - Home Buyer Tips
   - Market Update
