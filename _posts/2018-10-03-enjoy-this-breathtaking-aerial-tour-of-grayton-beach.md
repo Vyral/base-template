@@ -20,10 +20,5 @@ youtube_code: M_stJHodyyM
 ---
 
 {% include youtube.html %}
-{: .present-before-paste}
 
-Grayton Beach is one of my all-time favorite places—as one of the top-rated beach destinations, it’s truly in a league of its own. The shores here are wide and surrounded by beautiful coastal dune lakes, including Western Lake, which is a great place to explore by paddleboard or kayak. The neighboring Grayton Beach State Park is one of the most beautiful places you’ll ever see, with rich history and homes that date back to the 1900s. It’s a laid-back community where all you truly need is a pair of flip-flops and a swimsuit in order to enjoy everything it has to offer.&nbsp;
-{: .present-before-paste}
-
-&nbsp;
-{: .present-before-paste}
+Grayton Beach is one of my all-time favorite places—as one of the top-rated beach destinations, it’s truly in a league of its own. This is one of the largest beaches in the area and connects to beautiful Western Lake, where you can enjoy by paddle boarding or kayaking. Grayton Beach is rich in history with homes dating back to the early 1900s. It’s a laid-back community where all you truly need is a pair of flip-flops and a swimsuit in order to enjoy everything it has to offer. The neighboring Grayton Beach State Park is an amazing place to explore and you are walking distance to several incredible restaurants and entertainment. Come see today what makes Grayton Beach so special. &nbsp;To enjoy an aerial tour of Grayton Beach, **[watch this short video.](https://ownemeraldcoast.com/enjoy-this-breathtaking-aerial-tour-of-grayton-beach.html)**
