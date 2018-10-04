@@ -17,7 +17,7 @@ youtube_code: tnS6f56Pg9I
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Did you meet your selling goals in 2018? If not, we need to talk.</em></p>
+*Did you meet your selling goals in 2018? If not, we need to talk.*
 
 If your career didn’t take the direction you expected in 2018, then we need to talk.
 
@@ -29,7 +29,7 @@ I’ve heard from many agents lately telling me they’ve been in the industry f
 
 **Agents on my team sell at least 30 houses, if not 40 or more, within their first year with us.** So if you’re thinking of to a top-producing team (like ours), this is what you can expect:
 
-Agents with the Dan Jones Home Selling Team are held to a high level of accountability, and are also expected to perform to a high standard in terms prospecting. We track our team and our agents’ performance because this lets us all be as successful as possible.
+Agents with the Dan Jones Home Selling Team are held to a high level of accountability and are also expected to perform to a high standard in terms prospecting. We track our team and our agents’ performance because this lets us all be as successful as possible.
 
 **We give our agents the system, structure, resources, and leads they need to take their career to the next level.**
 
