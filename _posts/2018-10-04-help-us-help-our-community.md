@@ -19,6 +19,8 @@ youtube_code: twvtJJDUbHw
 
 {% include youtube.html %}
 
+<p style=text align center><em>We need your help. Not only are we looking for homes for our buyers, we’re also getting ready for another year with the Basket Brigade.</em></p>
+
 Today, I have a question to ask you: Can we help each other?
 
 Usually, we try not to ask. We want to deliver incredible information on home values, the pitfalls of buying and selling a home, the ups and downs of our real estate market, and what’s going on downtown.
