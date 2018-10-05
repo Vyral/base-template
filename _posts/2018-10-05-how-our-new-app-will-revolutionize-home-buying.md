@@ -20,6 +20,8 @@ youtube_code: PB9oWRiXQTo
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Zillow is a great place to start your home search, but there’s an even better place to actually find your dream home. It’s our new app, Charleston Properties.</em></p>
+
 Are you tired of looking at Zillow and not getting up-to-date real estate information? If so, I’ve got a solution for you today.
 
 Those of you who know me know that I am a huge advocate of Zillow. I want to be Charleston’s poster girl for Zillow because **I think it’s such a great company and a great place to start your home search.** However, I hear from my clients over and over that the homes on the site are not up to date according to our MLS. This can be very frustrating for homebuyers.
