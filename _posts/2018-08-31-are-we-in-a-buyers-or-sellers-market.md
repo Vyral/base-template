@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-31-market-update-yt.jpg
-youtube_code: 'https://youtu.be/bglmLNPBKqM'
+youtube_code: bglmLNPBKqM
 ---
 
 {% include youtube.html %}
