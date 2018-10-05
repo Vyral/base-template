@@ -21,7 +21,7 @@ youtube_code: twvtJJDUbHw
 
 Today, I have a question to ask you: Can we help each other?
 
-Usually, we try not to ask. We want to deliver incredible information on home values, the pitfalls of buying and selling a home, the ups and downs of our real estate market, and what’s going on downtown.
+Usually, we try not to ask. We want to deliver incredible information on home values, the reality of buying and selling a home, the ups and downs of our real estate market, and what’s going on downtown.
 
 But today is different. I want to know if we can help each other.
 
