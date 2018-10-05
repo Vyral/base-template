@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the LPAMA Technique With Potential Clients
+title: Using the LPMAMA Technique With Potential Clients
 date: 2018-09-26 21:04:00
 tags:
   - Real Estate
