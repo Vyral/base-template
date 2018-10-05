@@ -31,6 +31,6 @@ One thing we’re already seeing is our annual seasonal slowdown. Inventory is g
 
 **If you’re a buyer, this transition is good news because, as I just said, you’ll see more inventory and have more homes to choose from.** You need to be careful watching the market, though, because interest rates are on the rise. Every 1% increase in interest rates decreases your buying power by 11% or more.
 
-In either case, you need to know the right time to enter the market. If you’re a buyer, we’d love to meet with you for a buyer consultation so we can come up with a gameplan. You can also visit our website if you’d like to search all the latest listing from the Twin Cities area. If you’re a seller and you’re wondering what your home is worth in this market, we’d love to meet with you as well so we can provide you with a detailed equity analysis.
+In either case, you need to know the right time to enter the market. If you’re a buyer, we’d love to meet with you for a buyer consultation so we can come up with a game plan. You can also visit our website if you’d like to search all the latest listing from the Twin Cities area. If you’re a seller and you’re wondering what your home is worth in this market, we’d love to meet with you as well so we can provide you with a detailed equity analysis.
 
-If you have any other questions about our market or you’d like to meet with us to get started on accomplishing your real estate goals, don’t hesitate to reach out to us. We look forward to speaking to you.
+If you have any other questions about our market or you’d like to meet with us to get started on accomplishing your real estate goals, don’t hesitate to reach out to us. We look forward to speaking with you.
