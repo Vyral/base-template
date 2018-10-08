@@ -21,13 +21,13 @@ youtube_code: 'https://youtu.be/J95K--kz7os'
 
 {% include youtube.html %}
 
-Here are the top five deal-breakers sellers must prepare for and avoid if they want to sell their home quickly and for top dollar:
+There are five deal-breakers sellers must prepare for and avoid if they want to sell their home quickly and for top dollar:
 
 **1. Structural problems.** Here in Oklahoma, our houses move over time. Depending on how old your home is, you might be able to notice a few settlement cracks here and there. Sometimes these are the normal effects of settling, while other times they can be more serious and may require the installation of a few piers. A single pier costs around $500, so if you see some cracks around your house that look a little more extreme than normal settling, you’ll want to get that checked out.&nbsp;
 
-**2. The roof.** Is your roof insurable and do you have proper coverage on it? If the buyer’s insurance company isn’t able to insure your roof, many times the only other solution is replacing it.&nbsp;
+**2. The roof.** Is your roof insurable and do you have proper coverage on it? If the buyer’s insurance company isn’t able to insure your roof, many times the only other solution is to replace it.&nbsp;
 
-**3. The HVAC system.** It’s a good idea to schedule regular maintenance checks for your HVAC system with a local heating and air company. Make sure they give you a receipt or slap a sticker on your system so buyers know it’s been taken care of.
+**3. The HVAC system.** It’s a good idea to schedule regular maintenance checks for your HVAC system with a local heating and air company. When the appointment is finished, make sure to ask for a receipt or to have a sticker placed on your system. This way, you can prove to buyers that the system has been checked.
 
 {% include pullquote.html %}
 
