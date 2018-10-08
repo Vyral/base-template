@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Be Afraid of Homes Whose Offers Are “Subject to Inspections”
-date:
+date: 2018-10-08 18:10:25
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,15 +19,15 @@ youtube_code:
 
 {% include youtube.html %}
 
-What does the term “subject to inspections” mean? Why does it exist?&nbsp;
+What does the term “subject to inspections” mean? Why does it exist? 
 
-When you see this term attached to a listing, it means buyers have to submit a blind offer for it. A blind offer is exactly what it sounds like—you’re submitting an offer for a property without seeing its condition. Basically, this term is for properties for sale that are tenant-occupied, and it’s there to protect both the seller and the tenant.&nbsp;
+When you see this term attached to a listing, it means buyers have to submit a blind offer for it. A blind offer is exactly what it sounds like—you’re submitting an offer for a property without seeing its condition. Basically, this term is for properties for sale that are tenant-occupied, and it’s there to protect both the seller and the tenant. 
 
-For tenants, it protects their privacy. Imagine being the tenant of a home that’s for sale and having to make yourself available to show the home all the time to potential buyers. One showing is a piece of cake, right? But what if five or even 10 potential buyers want to see the home in a short period of time? You see how that can get frustrating?&nbsp;
+For tenants, it protects their privacy. Imagine being the tenant of a home that’s for sale and having to make yourself available to show the home all the time to potential buyers. One showing is a piece of cake, right? But what if five or even 10 potential buyers want to see the home in a short period of time? You see how that can get frustrating? 
 
-If you’re the seller, what if your tenant gets so mad at all these people walking in and out of the home all the time that they decide to move out? In that case, you’d lose a tenant and your home would sit on the market unsold, which means you’d have to start paying the mortgage.&nbsp;
+If you’re the seller, what if your tenant gets so mad at all these people walking in and out of the home all the time that they decide to move out? In that case, you’d lose a tenant and your home would sit on the market unsold, which means you’d have to start paying the mortgage. 
 
-You can see how this arrangement benefits sellers. Since your offer has to be accepted by them before they even allow you to look at their home, they don’t have to deal with potential “window shoppers” or unqualified buyers wasting their time.&nbsp;
+You can see how this arrangement benefits sellers. Since your offer has to be accepted by them before they even allow you to look at their home, they don’t have to deal with potential “window shoppers” or unqualified buyers wasting their time. 
 
 {% include pullquote.html %}
 
