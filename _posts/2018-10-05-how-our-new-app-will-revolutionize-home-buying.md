@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our New App is a Gamechanger for Homebuyers
+title: How Our New App Will Revolutionize Home Buying
 date: 2018-10-05 16:15:15
 tags:
   - Real Estate
