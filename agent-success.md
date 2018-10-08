@@ -249,4 +249,4 @@ permalink: /agent-success/
 &nbsp;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkh7cR90RCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<font size="+7">Millionaire through Real Estate: Matt Aitchison</font>
+<font size="+7">Millionaire Real Estate Investor: Matt Aitchison</font>
