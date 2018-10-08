@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Did the Storms Affect Kauai?
+title: How the Storms Affected Kauai Earlier  This Year?
 date: 2018-10-03 19:13:00
 tags:
   - Real Estate
