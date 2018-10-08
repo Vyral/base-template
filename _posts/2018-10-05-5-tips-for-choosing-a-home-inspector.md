@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Choosing a Home Inspector
-date: 2018-10-05 14:51:30
+date: 2018-10-05 14:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jqAQ_Noc4ms
+youtube_code: RgtQGgdRF9s
 ---
 
 {% include youtube.html %}
