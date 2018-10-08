@@ -1,10 +1,10 @@
 audit_header: false
 title: Margolis Team
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Margolis Team - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Testimonials
+    url: http://reach150.com/m/review/88844/exp-realty-ronnie-margolis-realtor-broker
 
 client:
   name: Ron Margolis
