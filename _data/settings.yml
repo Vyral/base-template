@@ -17,6 +17,8 @@ custom_links:
     url: /join-our-team/
   - title: Free Newsletter
     url: /subscribe/
+  - title: Events
+    url: https://www.eventbrite.com/o/michael-wolters-16682892468
 client:
   name: Joshua Stern<br>Keller Williams MAPS Coach
   license_number:
