@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Be Afraid of Homes Whose Offers Are “Subject to Inspections”
-date: 2018-10-08 18:10:25
+date: 2018-10-08 18:10:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-5-subject-to-inspections-np.jpg
-youtube_code:
+youtube_code: pTGGwQsuBZM
 ---
 
 {% include youtube.html %}
