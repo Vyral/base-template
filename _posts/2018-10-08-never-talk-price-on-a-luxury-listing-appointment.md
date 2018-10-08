@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Never Talk Price on a Luxury Listing Appointment
-date: 2018-10-04 19:01:21
+date: 2018-10-08 07:01:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BjMx3OUj7ng
+youtube_code: F6XrnwPSVl4
 ---
 
 {% include youtube.html %}
@@ -36,5 +36,3 @@ If you’re going on a listing appointment for a luxury listing that is located 
 So remember, differentiate yourself from the competition and let sellers know that if they talk to an agent who comes to their listing appointment with a CMA, they should show them the door. It’s also important that you know your numbers–we define “luxury price” as any price that’s 3x higher than the average sale price.
 
 As always, if you have any questions about this topic or there’s anything I can assist you with, don’t hesitate to call or email me anytime. I’d be happy to help you.
-
-&nbsp;
