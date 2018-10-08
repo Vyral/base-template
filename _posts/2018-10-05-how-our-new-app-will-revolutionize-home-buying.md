@@ -28,7 +28,7 @@ Those of you who know me know that I am a huge advocate of Zillow. I want to be 
 
 {% include pullquote.html %}
 
-**So we have created an app that will solve that problem.** Our app, Charleston Properties, is coordinated with our local MLS so everything will be as accurate as possible. If you’d like to take advantage of our regularly updated information, search for the Charleston Properties app on the App Store or Google Play Store and download it.
+**So we have created an app that will solve that problem.** Our app, Charleston Properties, is coordinated with our local MLS so everything will be as accurate as possible. If you’d like to take advantage of our regularly updated information, search for the Charleston Properties app on <a href="https://itunes.apple.com/us/app/charleston-properties/id1435866851?mt=8" target="_blank">the App Store</a> or <a href="https://play.google.com/store/apps/details?id=com.charlestonproperties.stack" target="_blank">Google Play Store</a> and download it.
 
 Once the app is downloaded, you can see every home that is an active listing on the market. You will also be able to see upcoming open houses and create a search that matches your specific criteria. **You can search for homes according to the number of bedrooms, bathrooms, square footage, and more.**
 
