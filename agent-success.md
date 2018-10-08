@@ -245,3 +245,8 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Avg0aPsrZio" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">Success Secrets: Richard Schulman</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkh7cR90RCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">Millionaire through Real Estate: Matt Aitchison</font>
