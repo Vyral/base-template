@@ -17,7 +17,9 @@ youtube_code: R3cPWADcu_Q
 
 {% include youtube.html %}
 
-<center>The fall is a great time to sell your home, and there are a few reasons why.</center>
+<center><em>The fall is a great time to sell your home, and there are a few reasons why.</em></center>
+
+&nbsp;
 
 What makes fall a great time to sell your home?
 
