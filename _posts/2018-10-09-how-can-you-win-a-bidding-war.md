@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Win a Bidding War?
-date: 2018-10-09 21:19:47
+date: 2018-10-09 21:19:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: ZY_Nif4NmIk
 ---
 
 {% include youtube.html %}
