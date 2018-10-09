@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Our Transitioning Market Means
-date: 2018-10-05 19:52:07
+date: 2018-10-05 19:52:00
 tags:
   - Market Update
   - Real Estate
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: at4l8Y3aPaE
+youtube_code: obVlKtACsnc
 ---
 
 {% include youtube.html %}
