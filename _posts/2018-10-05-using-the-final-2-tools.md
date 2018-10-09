@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Using the Final Two Tools
-date: 2018-10-05 20:53:54
+title: Using the Final 2 Tools
+date: 2018-10-05 20:53:00
 tags:
   - Agent Advice
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: rsklnqznN7A
 
 {% include youtube.html %}
 
-I recently held a webinar for part seven of Real Estate: The Fundamentals that I would like to share with you. These recent weeks have been a lot of fun for me, personally, because it has given me the opportunity to reanalyze how the fundamentals are being run in my own team.
+I recently held a webinar for part seven of Real Estate: The Fundamentals that I would like to share with you. These recent weeks have been a lot of fun for me, personally, because it has given me the opportunity to reanalyze how the fundamentals are being run on my own team.
 
 **I have timestamped the conversation to make it easier for you to jump to the sections most interesting to you.**
 
@@ -27,7 +27,7 @@ I recently held a webinar for part seven of Real Estate: The Fundamentals that I
 
 2:50 – An overview of the last two tools: The Agent Language of Real Estate (LORE) and the Local Expert.
 
-4:55 – What to compare your business against?
+4:55 – What should you compare your business against?
 
 6:20 – How the LORE and Local Expert tools work together.
 
