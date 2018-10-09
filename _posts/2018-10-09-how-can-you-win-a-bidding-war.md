@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Winning a bidding war doesn’t always come down to offering a higher price.
   Here are a few ways that we’ve been able to find creative ways to win.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rosie+Hayer/The+Hayer+Group-+How+Can+You+Win+a+Bidding+War%253F.mp4
 pullquote: Offering to pay for a seller’s moving expenses is a huge gesture.
 enclosure_type: video/mp4
 enclosure_time:
