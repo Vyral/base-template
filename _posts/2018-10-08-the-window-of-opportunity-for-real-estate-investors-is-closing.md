@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Window of Opportunity for Real Estate Investors Is Closing
-date: 2018-07-11 20:40:15
+date: 2018-10-08 20:40:00
 tags:
   - Real Estate
 excerpt: >-
