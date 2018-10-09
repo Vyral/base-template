@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/webinar-7-youtube.jpg
+youtube_alternate_image: /uploads/webinar-7-youtube-1.jpg
 youtube_code: rsklnqznN7A
 ---
 
