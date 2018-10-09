@@ -21,7 +21,7 @@ youtube_code: 7RU05mzt2no
 
 {% include youtube.html %}
 
-If you have questions about the lending process, today’s Q&A session with mortgage expert Jason Zimmer may help clear things up.
+<p style="text-align: center;"><em>If you have questions about the lending process, today’s Q&A session with mortgage expert Jason Zimmer may help clear things up.</em></p>
 
 Obtaining a loan is one of the most significant steps in the home purchase process, so, as you can imagine, buyers faced with this task tend to have a lot of questions. To help answer some of these common queries, I recently met with our team’s preferred lender, Jason Zimmer of Parlay Mortgage, for a Q&A session regarding this crucial subject.&nbsp;
 
