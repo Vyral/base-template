@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Whatever the reason a seller may need one, a leaseback agreement can be
   extremely helpful.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Alexis+Weigand/2018/San+Antonio+Real+Estate-+The+Benefits+of+a+Leaseback+Agreement.mp4
 pullquote: >-
   Leaseback agreements make fantastic safety nets for those undergoing
   simultaneous transactions.
