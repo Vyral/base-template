@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Real Estate Scams You Need to Know About
-date:
+date: 2018-10-10 20:38:45
 tags:
   - Real Estate
 excerpt: >-
