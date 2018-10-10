@@ -24,7 +24,7 @@ Today I want to discuss a way you can avoid sabotaging your home purchase, with 
 
 So you’ve found your dream home, and you’ve paid an inspector to come and tell you what’s wrong with the home—a hard pill to swallow to begin with.
 
-It’s a good idea, in this instance, to **make a list of three things based on the inspection report you receive: the things that need to be done, the things you’d like to be done, and what things you can do yourself.**
+It’s a good idea, in this instance, to **make a list of three things based on the inspection report you receive: The things that need to be done, the things you’d like to be done, and what things you can do yourself.**
 
 The things you need to be fixed or addressed on this list will probably be anything major, such as issues with the heating, electrical, or the plumbing.
 
