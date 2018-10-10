@@ -20,7 +20,7 @@ youtube_code: CUM4Ve9WsOc
 
 {% include youtube.html %}
 
-As we head toward the end of the year, we wanted to give you an update on what we’re seeing in the St. Cloud real estate market. Here’s what we’ve been noticing.
+<p style="text-align: center;"><em>As we head toward the end of the year, we wanted to give you an update on what we’re seeing in the St. Cloud real estate market. Here’s what we’ve been noticing.</em></p>
 
 There are a few different topics that I want to touch on today to give you the latest news and information about the St. Cloud real estate market.
 
