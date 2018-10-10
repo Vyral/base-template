@@ -21,7 +21,7 @@ youtube_code: trqIVZFmDso
 
 {% include youtube.html %}
 
-Following the tips contained in this book and in my seminars will set you on the path to home selling success.
+<p style="text-align: center;"><em>Following the tips contained in this book and in my seminars will set you on the path to home selling success.</em></p>
 
 If it’s been several years since you last updated your home, you may encounter some issues when it comes time to place it on the market. **This problem, among others, is part of what my new book, “Home Selling Sharks,” seeks to address.&nbsp;**
 
