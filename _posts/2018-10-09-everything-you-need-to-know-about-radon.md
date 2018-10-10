@@ -36,4 +36,4 @@ Usually, homes with basements or slabs are more likely to have higher radon leve
 
 So if you do find your dream home and discover that it has a high level of radon, don't let it stop you from buying it, because it’s a problem that can be fixed.
 
-If you have any additional questions about radon, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+If you have any additional questions about radon or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
