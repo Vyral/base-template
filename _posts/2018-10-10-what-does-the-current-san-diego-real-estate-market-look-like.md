@@ -20,7 +20,9 @@ youtube_code: q3q2qdTagDU
 
 {% include youtube.html %}
 
-<center>The San Diego real estate market is at a crossroads. Here are the latest numbers that point at where we’re headed.</center>
+<center><em>The San Diego real estate market is at a crossroads. Here are the latest numbers that point at where we&rsquo;re headed.</em></center>
+
+&nbsp;
 
 Today we’re taking a closer look at the real estate market conditions in San Diego as we head into the 4th quarter of 2018. **Rising home prices, higher interest rates, and increased building materials have pressured housing affordability to a 10-year low, according to the National Association of Home Builders**.
 
