@@ -1,14 +1,15 @@
 ---
 layout: post
 title: How Do Cash Offers Change a Real Estate Deal?
-date: 2018-10-01 19:33:17
+date: 2018-10-01 19:33:00
 tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
   How do cash offers change the way a real estate transaction plays out? Let’s
   discuss a few ways this scenario from a financed deal.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Whats+the+Best+Kind+of+Offer+a+Homebuyer+Can+Submit%253F.mp4
 pullquote: >-
   Cash offers can make a transaction more convenient for the buyer and seller
   alike.
@@ -29,8 +30,8 @@ Also, sellers often expect higher offers from buyers willing to make a cash purc
 
 {% include pullquote.html %}
 
-However, **while cash offers eliminate the need for an appraisal, many buyers may still elect to order one to ensure that they’re paying a fair price. &nbsp;**
+However, **while cash offers eliminate the need for an appraisal, many buyers may still elect to order one to ensure that they’re paying a fair price.  **
 
-In summary, cash offers can make a transaction more convenient for the buyer and seller alike, so long as each party is willing to negotiate a fair and reasonable deal.&nbsp;
+In summary, cash offers can make a transaction more convenient for the buyer and seller alike, so long as each party is willing to negotiate a fair and reasonable deal. 
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
