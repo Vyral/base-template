@@ -1,20 +1,19 @@
 ---
 layout: post
 title: How Can Trello Help You Improve Your Real Estate Business?
-date: 2018-10-10 20:13:51
+date: 2018-10-10 20:13:00
 tags:
   - Real Estate
 excerpt: >-
   We use a tool called Trello to help us organize many different aspects of our
   business. Here are a few reasons why we’ve had such great success with it.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+4+Signs+Its+Time+for+You+To+Move+(1).mp4
+enclosure:
 pullquote: I encourage you to check out Trello today.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KiOP9M7vK8M
+youtube_code: hO6FosWfD80
 ---
 
 {% include youtube.html %}
