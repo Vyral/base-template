@@ -23,7 +23,9 @@ youtube_code: E75ZgWPbdhU
 
 {% include youtube.html %}
 
-<center>Don’t let all this talk about rising interest rates scare you. Rates are still historically low and there are plenty of great opportunities out there for homebuyers.</center>
+<center><em>Don&rsquo;t let all this talk about rising interest rates scare you. Rates are still historically low and there are plenty of great opportunities out there for homebuyers.</em></center>
+
+&nbsp;
 
 Did you know that when we bought our first home, our interest rate was astronomical compared to today’s rates?
 
