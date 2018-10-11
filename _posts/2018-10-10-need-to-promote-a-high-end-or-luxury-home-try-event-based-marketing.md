@@ -27,11 +27,11 @@ High-end homes, defined as those valued at least two times the average sales pri
 
 **Wine and cheese tastings or broker open houses are fine, generally speaking, but for the kinds of properties we’re discussing today, an invite-only event may be even better.**
 
-Take, for example, one amazing property currently on the market in Scottsdale, Arizona, for just over $6.5 million. The agents who are working on this listing, who I’ve been coaching for the last several months, have hosted a couple of events at the property so far. One of these events was an invite-only, two-day “Freedom Summit,” which we held on September 28 and September 29.
+Take, for example, one amazing property currently on the market in Scottsdale, Arizona, for just over $6.5 million. The agents working on this listing, who I’ve been coaching for the last several months, have hosted a couple of events at the property so far. One of these events was an invite-only, two-day “Freedom Summit,” which we held on September 28 and September 29.
 
 {% include pullquote.html %}
 
-This event is a prime example of event-based marketing. The 90 agents who attended and the owner of the property mutually benefited from this educational summit—which was also attended by a number of preferred vendors and sponsors.
+This event is a prime example of event-based marketing. The 90 agents who attended and the owner of the property mutually benefited from this educational summit, which was also attended by a number of preferred vendors and sponsors.
 
 **Events of this calibur, though, do require a higher level of planning than what might be the case for an average open house.** In addition to orchestrating the event itself, the property’s owner will also need to guard themselves against liability and security concerns.
 
