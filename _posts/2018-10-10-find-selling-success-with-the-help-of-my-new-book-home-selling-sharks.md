@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Find Selling Success With the Help of my New Book: Home Selling Sharks'
+title: 'Find Selling Success With the Help of My New Book: Home Selling Sharks'
 date: 2018-10-10 18:28:03
 tags:
   - Home Seller Tips
@@ -27,7 +27,7 @@ If it’s been several years since you last updated your home, you may encounter
 
 Much like my Home Selling Shark seminars, this book was specifically designed to help you compete in the market and earn top dollar for your home. Following the tips contained in this book, and in my seminars, will set you on the path to home selling success.&nbsp;
 
-Take, for instance, the listing experience of a recent client of mine. Under my guidance, this client was able to identify and resolve a major problem in their home: Their moldy, unfinished basement. They spent a large sum getting the issues taken care of, **but ultimately found the expense to be well worth it when they sold their property for $29,000 over list price.&nbsp;**
+Take, for instance, the listing experience of a recent client of mine. Under my guidance, this client was able to identify and resolve a major problem in their home: Their moldy, unfinished basement. They spent a large sum getting the issues taken care of, **but they ultimately found the expense to be well worth it when they sold their property for $29,000 over list price.&nbsp;**
 
 And this is just one example. My book covers many other obstacles (or “sharks”) that sellers might encounter during the listing process.
 
