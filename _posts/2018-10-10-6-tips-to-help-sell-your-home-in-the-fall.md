@@ -20,11 +20,11 @@ youtube_code: 3qTVzKYoz3o
 
 {% include youtube.html %}
 
-Today I'd like to talk with you about how to sell your home during the fall season. There are a couple of things to be able to sell your home for the highest price that you need to do.
+Today I'd like to talk with you about how to sell your home during the fall season. There are six things you need to do to sell your home for the highest price possible.
 
 **1. Clean up your yard.** Make sure your leaves are raked and that your trees and bushes are trimmed. Also, if you can, plant fall foliage such as mums or cabbage. These can provide great color to make your yard look great from a curb appeal perspective.
 
-**2. Dress your windows.** In Columbus we've had a lot of rain that has left spots and smudges on windows. Wash your windows and make sure your windows are bright and airy so that light comes in when buyers come through to look at your home.
+**2. Dress your windows.** In Columbus, we've had a lot of rain that has left spots and smudges on windows. Wash your windows and make sure they're bright and airy so that light shines through them when buyers walk through your home.
 
 **3. Have your furnace checked.** Make sure your furnace filter is clean so the air circulating your house smells great. It also prepares your home for an inspection later.
 
@@ -36,7 +36,7 @@ Today I'd like to talk with you about how to sell your home during the fall seas
 
 **6. Play soft music and turn on all the lights.** This way when buyers walk through they can see everything and feel warm and cozy.
 
-As a bonus, postscript tip, don't turn down any showings. All showings are important and, although, I know that sometimes it can be inconvenient, it only takes one showing to sell your home.
+As a bonus, postscript tip, don't turn down any showings. All showings are important, and although I know that sometimes it can be inconvenient, it only takes one showing to sell your home.
 
 If you have any questions about this, or if you're interested in speaking with me about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
 
