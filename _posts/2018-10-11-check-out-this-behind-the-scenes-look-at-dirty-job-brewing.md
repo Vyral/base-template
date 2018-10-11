@@ -21,7 +21,9 @@ youtube_code: HRWNcmx2-NY
 
 {% include youtube.html %}
 
-<center>Our new series, Tarrant County Eats, has just launched. For our first episode, we’ll be featuring a great local spot in Downtown Mansfield: Dirty Job Brewing.</center>
+<center><em>Our new series, Tarrant County Eats, has just launched. For our first episode, we&rsquo;ll be featuring a great local spot in Downtown Mansfield: Dirty Job Brewing.</em></center>
+
+&nbsp;
 
 Welcome to our new series: Tarrant County Eats!
 
