@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-oct-2-ss-no-play.jpg
-youtube_code: E75ZgWPbdhU
+youtube_code: ZBe_5ATQPVQ
 ---
 
 {% include youtube.html %}
