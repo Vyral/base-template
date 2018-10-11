@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2018-08-29-16-20-24.jpg
-youtube_code: 7sjOkydNtuQ
+youtube_code:
 ---
 
 {% include youtube.html %}
