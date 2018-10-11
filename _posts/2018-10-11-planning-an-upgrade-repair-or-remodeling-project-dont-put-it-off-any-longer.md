@@ -23,7 +23,7 @@ youtube_code: JhI60oHPy3E
 
 {% include youtube.html %}
 
-Are you planning any home upgrades or renovations? If so, you may want to consider doing so soon.
+<p style="text-align: center;"><em>Are you planning any home upgrades or renovations? If so, you may want to consider doing so soon.</em></p>
 
 If you’ve been thinking of remodeling or upgrading any of your home’s systems or appliances, now may be an ideal time to do so. There are three reasons why this is:&nbsp;
 
