@@ -8,7 +8,7 @@ excerpt: >-
   Even if it is for more money, changing your job can greatly impact your
   chances of getting your loan finalized.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/DFW+Mortgage+Lender-+10+Commandments+of+Buying+a+Home.mp4
+  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/10+Commandments+for+Home+Buyers+(1).pdf
 pullquote: Help your loan get approved by following my 10 commandments of buying a home.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: oKplhI9emdE
 
 Today I want to talk about a few of the 10 commandments of buying a home.
 
-It can take anywhere from three weeks to three months or longer from the time you're pre-approved to the time you close on a property. During that time, there are many things that can come up and affect your ability to be approved for your mortgage loan. **It is important that after you are initially pre-approved, your finances don’t change. &nbsp;**
+It can take anywhere from three weeks to three months or longer from the time you're pre-approved to the time you close on a property. During that time, there are many things that can come up and affect your ability to be approved for your mortgage loan. **It is important that after you are initially pre-approved, your finances don’t change.  **
 
 {% include pullquote.html %}
 
