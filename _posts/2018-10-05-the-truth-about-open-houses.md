@@ -8,7 +8,8 @@ excerpt: >-
   One of the most frequently-asked questions I receive from sellers when I go on
   listing appointments is whether or not I do open houses. Sometimes we do, but
   most of the time: we don’t.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+Do+We+Do+Open+Houses%253F.mp4
 pullquote: Open houses are a somewhat old-fashioned as a regular way of doing business.
 enclosure_type: video/mp4
 enclosure_time:
