@@ -23,7 +23,9 @@ youtube_code: cs4h_lb0BlA
 
 {% include youtube.html %}
 
-<center>Special guest and expert lender Kyle Rush joins us today to discuss a great new loan program that was designed with first-time homebuyers in mind: the 3-2-1 Program.</center>
+<center><em>Special guest and expert lender Kyle Rush joins us today to discuss a great new loan program that was designed with first-time homebuyers in mind: the 3-2-1 Program.</em></center>
+
+&nbsp;
 
 In today’s local market, inventory is low and interest rates are on the rise. These changes have left some area homebuyers feeling discouraged. **Many people who have been looking for the right home now believe they’ve lost their chance to do so, but this isn’t the case**.
 
