@@ -19,7 +19,7 @@ youtube_code: BAjyY3FJKlg
 
 {% include youtube.html %}
 
-There are certain things that homebuyers hate to see when touring a home. Here are six of them.
+<p style="text-align: center;"><em>There are certain things that homebuyers hate to see when touring a home. Here are six of them.</em></p>
 
 Today we’re going to be discussing six homebuyer turnoffs that home sellers should be aware of in today’s market:
 
