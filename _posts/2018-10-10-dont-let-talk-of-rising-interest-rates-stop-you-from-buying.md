@@ -25,11 +25,11 @@ youtube_code: E75ZgWPbdhU
 
 <center><em>Don&rsquo;t let all this talk about rising interest rates scare you. Rates are still historically low and there are plenty of great opportunities out there for homebuyers.</em></center>
 
- 
+&nbsp;
 
 Did you know that when we bought our first home, our interest rate was astronomical compared to today’s rates?
 
-It’s true. We actually usually invite homebuyers to ask their parents or their grandparents what their interest rate was when they bought their first home. If you try this, you’ll get numbers ranging from 8% to 18%.
+It’s true. We usually invite homebuyers to ask their parents or their grandparents what their interest rate was when they bought their first home. If you try this, you’ll get numbers ranging from 8% to 18%.
 
 We’re not *that* old, but we can tell you that, **historically, a normal interest rate is between 8% and 11%**. That sounds crazy these days, but that’s the reality. Last week, interest rates got moved up again, and they’re currently hovering around 5%. That’s still about half of what ours was for our first home.
 
