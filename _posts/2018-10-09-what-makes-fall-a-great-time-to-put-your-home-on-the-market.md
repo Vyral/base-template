@@ -23,7 +23,7 @@ youtube_code: R3cPWADcu_Q
 
 What makes fall a great time to sell your home?
 
-First, we saw a strong spring and summer in terms of the volume of sales, but sales typically drop toward the end of the year. It doesn’t mean people don’t want to buy or sell; it just means there are fewer buyers out there for a variety of reasons (colder weather, the start of the school year, etc.).
+First, we saw a strong spring and summer in terms of sales volume, but sales typically drop toward the end of the year. It doesn’t mean people don’t want to buy or sell; it just means there are fewer buyers out there for a variety of reasons (colder weather, the start of the school year, etc.).
 
 Because of this, **the remaining buyers are more serious**. This means less tire-kicking and more people who are ready to make a deal. In fact, most fall buyers want to get into a home before the first snowfall.
 
