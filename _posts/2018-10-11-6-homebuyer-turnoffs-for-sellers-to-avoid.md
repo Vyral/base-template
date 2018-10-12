@@ -35,6 +35,6 @@ Today we’re going to be discussing six homebuyer turnoffs that home sellers sh
 
 **5. Outdated bathrooms.** Kitchens and bathrooms are some of the most important rooms to homebuyers, and 25% of them find an outdated bathroom to be unappealing.
 
-**6. Over-the-top decor.** 15% of homebuyers aren’t flattered by this. While home staging is important, it’s not necessary to overdo it.&nbsp;
+**6. Over-the-top decor.** While home staging is important, it’s not necessary to overdo it.&nbsp;
 
 If you have any questions about selling your home or know someone who does, feel free to reach out to us via phone or email for a free consultation today. We look forward to hearing from you.
