@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Need to Promote a High-End or Luxury Home? Try Event-Based Marketing
-date: 2018-10-10 19:50:53
+date: 2018-10-10 19:50:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: td23ueUPwks
+youtube_code: VdU5YyGOasM
 ---
 
 {% include youtube.html %}
@@ -38,5 +38,3 @@ This event is a prime example of event-based marketing. The 90 agents who attend
 The primary benefit of event-based marketing is its superlative ability to draw exposure. The agents who attend will benefit from the networking opportunity the event provides, and the seller will also benefit from the buyer interest that is generated, in turn.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-&nbsp;
