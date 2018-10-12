@@ -10,7 +10,7 @@ excerpt: >-
   Are you planning any home upgrades or renovations? If so, you may want to
   consider doing so soon.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+Ranch+Real+Estate-+3+reasons+to+start+home+renovation+projects+now.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2018/Porter+Ranch+Real+Estate-+update+now+10.12.mp4
 pullquote: >-
   If you’re thinking of making any repairs, upgrades, or renovations to your
   home, now is the time to start such projects.
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UYsuSxPR6dY
+youtube_code: jFxNsH15TI4
 ---
 
 {% include youtube.html %}
