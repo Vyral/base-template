@@ -2,10 +2,7 @@
 layout: post
 title: An Update From Our Team in the Wake of Hurricane Michael
 tags:
-  - Market Update
-  - Real Estate
-  - Buyer Tips
-  - Home Seller Tips
+  - Hurricane Michael
 excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nathan+Abbott/Hurricane+Michael+update+from+Santa+Rosa+Beach.mp4
