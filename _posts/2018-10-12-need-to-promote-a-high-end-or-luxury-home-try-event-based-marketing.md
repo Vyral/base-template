@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Need to Promote a High-End or Luxury Home? Try Event-Based Marketing
-date: 2018-10-12 19:50:00
+date: 2018-10-12 07:50:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
