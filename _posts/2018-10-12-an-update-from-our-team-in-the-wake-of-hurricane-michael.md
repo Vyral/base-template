@@ -16,4 +16,6 @@ youtube_code: '-eBOWMQGmAk'
 
 {% include youtube.html %}
 
-Hurricanes create super natural skies.  They always seem to deliver a beautiful sunset before and after the storm that wrecks havoc in between. There is an eternal light that comes from a birth and a death.  Learning to navigate through the dark skies in between resembles life as we know it. Even in your darkest days, you can find light if you search for it.  More beautiful days ahead.  Fortunately Destin, Santa Rosa Beach, and west Panama City Beach remained relatively unscathed. Our thoughts and prayers are with everyone in Panama City, Mexico Beach, and to the east which looks apocalyptic. 
+Hurricanes create super natural skies. They always seem to deliver a beautiful sunset before and after the storm that wrecks havoc in between. There is an eternal light that comes from a birth and a death. Learning to navigate through the dark skies in between resembles life as we know it. Even in your darkest days, you can find light if you search for it. More beautiful days ahead. Fortunately Destin, Santa Rosa Beach, and west Panama City Beach remained relatively unscathed. Our thoughts and prayers are with everyone in Panama City, Mexico Beach, and to the east which looks apocalyptic.
+
+For more updates, [subscribe to our YouTube Channel.](https://www.youtube.com/channel/UC1y00cFB4V9xULUkZMt5eSA?sub_confirmation=1){: target="_blank"}
