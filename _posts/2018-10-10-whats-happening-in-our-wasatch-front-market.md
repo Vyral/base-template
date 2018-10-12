@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in our Wasatch Front Market?
-date: 2018-10-10 15:20:47
+date: 2018-10-10 15:20:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-shift-youtube.jpg
-youtube_code: h-p__URbsDE
+youtube_code: DtihSaVnq8o
 ---
 
 {% include youtube.html %}
@@ -31,6 +31,6 @@ Meanwhile, **the number of homes that have gone under contract in the last 30 da
 
 So what do these statistics mean, exactly?
 
-Actually, it’s hard to say what the future holds. But while I may not have a crystal ball, &nbsp;I can tell you that if you or anyone you know of are looking to sell, now is the time.
+Actually, it’s hard to say what the future holds. But while I may not have a crystal ball,  I can tell you that if you or anyone you know of are looking to sell, now is the time.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email.
