@@ -27,7 +27,7 @@ Actually, no. It won’t.
 
 However, getting a property’s price right from the start is always ideal. Whenever working with sellers, we follow a method called “pinpoint pricing.” This method involves examining the potential range of prices we might assign a given property. We consider the highest feasible price and the lowest feasible price in order to determine how we’ll value the listing to achieve the best results.
 
-**In the event a given price doesn’t bring perform well in the market, though, the next step is to consider a price reduction.** Lowering the price when necessary won’t make you look bad. Instead, it could be the key to giving your listing the final push it needs to move off the market.
+**In the event a given price doesn’t perform well in the market, though, the next step is to consider a price reduction.** Lowering the price when necessary won’t make you look bad. Instead, it could be the key to giving your listing the final push it needs to move off the market.
 
 We were working with a seller recently whose property was listed for $500,000. Offers came and fell through time and time again, so we eventually decided a small adjustment was in order. By lowering the price just $5,000, we were able to set ourselves and our seller back in the right direction. We’ve got a great buyer under contract and we’re anticipating a smooth close.
 
