@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Update From Our Team in the Wake of Hurricane Michael
+title: Hurricane Michael- The Light After Dark Skies
 tags:
   - Hurricane Michael
 excerpt:
