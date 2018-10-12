@@ -29,15 +29,15 @@ youtube_code: cs4h_lb0BlA
 
 In today’s local market, inventory is low and interest rates are on the rise. These changes have left some area homebuyers feeling discouraged. **Many people who have been looking for the right home now believe they’ve lost their chance to do so, but this isn’t the case**.
 
-According to my special guest Kyle Rush of Guild Mortgage, there are many local loan programs that can help first-time buyers find and secure a home.
+According to my special guest, Kyle Rush of Guild Mortgage, there are many local loan programs that can help first-time buyers find and secure a home.
 
 In fact, Kyle and his team at Guild Mortgage recently launched a great loan option called the “3-2-1 Program.” This loan program is specifically designed to assist first-time homebuyers, and today we’ll be shedding some light on what it is, how it works, and who can qualify for it.
 
-Using the 3-2-1 Program, first-time buyers can **submit a down payment as low as 3%, will receive a $2,000 gift card (to be spent however you’d like) after closing, and will also be given a $1,500 credit toward closing costs**. This loan option is truly a great opportunity.
+Using the 3-2-1 Program, first-time buyers can **submit a down payment as low as 3%, will receive a $2,000 gift card (to be spent however they’d like) after closing, and will also be given a $1,500 credit toward closing costs**. This loan option is truly a great opportunity.
 
 {% include pullquote.html %}
 
-Better still, this is a conventional loan—and, as you may or may not know, offers with conventional financing tend to have greater traction within the market than those with a government backing.
+Better still, this is a conventional loan—and, as you may or may not know, offers with conventional financing tend to have greater traction within the market than those with government backing.
 
 The eligibility requirements for this loan program are also fairly straightforward. To qualify, you will need a credit score of 620 or higher, you must fall within your area’s median income, and at least one of the people on the application must be a first-time homebuyer.
 
