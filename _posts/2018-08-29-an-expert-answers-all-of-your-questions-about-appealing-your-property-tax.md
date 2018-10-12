@@ -21,7 +21,7 @@ youtube_code: y-Qw0_zygVM
 
 {% include youtube.html %}
 
-Appealing your property tax assessment is a challenging topic, which is why I’m joined today by attorney Eliot Malone to discuss everything you need to know about it.
+Appealing your property tax assessment is a challenging topic, which is why I’m joined today by attorney Elliott Malone to discuss everything you need to know about it.
 
 {% include pullquote.html %}
 
