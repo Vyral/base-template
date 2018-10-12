@@ -16,4 +16,4 @@ youtube_code: '-eBOWMQGmAk'
 
 {% include youtube.html %}
 
-In the wake of Hurricane Michael, know that we at the Nathan Abbott Team are sending our thoughts and prayers to everyone in Panama City and the surrounding areas to the east. We feel thankful that most of Panama City Beach and the areas to the west of us made it through the storm with minimal impact. As always, we’d like to thank locals and travelers alike for supporting our area. To see our full message, watch this short video.
+Hurricanes create super natural skies.  They always seem to deliver a beautiful sunset before and after the storm that wrecks havoc in between. There is an eternal light that comes from a birth and a death.  Learning to navigate through the dark skies in between resembles life as we know it. Even in your darkest days, you can find light if you search for it.  More beautiful days ahead.  Fortunately Destin, Santa Rosa Beach, and west Panama City Beach remained relatively unscathed. Our thoughts and prayers are with everyone in Panama City, Mexico Beach, and to the east which looks apocalyptic. 
