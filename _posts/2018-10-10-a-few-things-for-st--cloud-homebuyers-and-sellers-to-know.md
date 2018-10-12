@@ -24,7 +24,7 @@ youtube_code: CUM4Ve9WsOc
 
 There are a few different topics that I want to touch on today to give you the latest news and information about the St. Cloud real estate market.
 
-**The first is interest rates.** You’ve probably heard that rates are rising in the news, but what you’re actually hearing about is the increase of the overnight rates between banks. While the Fed is raising those short-term rates by 0.25%, it doesn’t necessarily have a direct impact on the mortgage market. In fact, the last time the interest rates went up by 0.25%, mortgage rates actually dropped a bit.
+**The first is interest rates.** You've probably heard on the news that rates are rising, but these reports are actually referring to the increase of the overnight rates between banks  — not mortgage rates, specifically. While the Fed is raising those short-term rates by 0.25%, it doesn’t necessarily have a direct impact on the mortgage market. In fact, the last time the interest rates went up by 0.25%, mortgage rates actually dropped a bit.
 
 The mortgage interest rates right now are around the 4.75% range. **This is a little bit higher than they were earlier this year, but it’s far better than they’ve been in the past**. For example, in the 1980s we were selling houses with mortgage rates in the 15% range. It was really expensive back then. Payments were high and affordability was low. We’ll probably see rates around 5% around the beginning of 2019, but when you look at the context, that’s still a bargain rate.
 
