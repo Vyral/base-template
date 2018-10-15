@@ -22,7 +22,7 @@ Why should you join a real estate team? I hear this question a lot. Our team has
 
 **A team environment is not for everyone.** It’s for agents who want to make good money, who want to sell, and who don’t necessarily need to have their name out there in lights.&nbsp;
 
-**Here’s how my team is set up.** I have five buyer’s agents and I take care of all the listings. In addition, I have a director of operations, a listing manager and am currently hiring a transaction coordinator. I also have three unlicensed assistants, as well as a full-time runner.&nbsp;
+**Here’s how my team is set up.** I have five buyer’s agents and I take care of all the listings. In addition, I have a director of operations, a listing manager, and am currently hiring a transaction coordinator. I also have three unlicensed assistants, as well as a full-time runner.&nbsp;
 
 We are a full-service team with our own office and we work pretty independently. **Our goal is to make life awesome for our agents by providing leads, transaction coordination, and other support.** If you like working with a team and like the camaraderie, we provide a ton of value.<br>{% include pullquote.html %}
 
