@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Shopping With Multiple Lenders a Bad Idea?
-date:
+date: 2018-10-15 17:46:56
 tags:
 excerpt: >-
   Many are concerned about the potential ramifications of shopping with more
