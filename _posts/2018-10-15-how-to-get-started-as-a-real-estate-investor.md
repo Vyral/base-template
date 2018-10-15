@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How to Get Started as a Real Estate Investor
-date: 2018-10-15 17:27:48
+date: 2018-10-15 17:27:00
 tags:
+  - Real Estate
 excerpt: >-
   In today’s second installment in our series about real estate investing, I
   want to take some time to give you advice about how to get started as an
@@ -29,12 +30,10 @@ The key to getting started as an investor is just like everything else in life: 
 
 {% include pullquote.html %}
 
-**2. Demystify the process.** We’ve all seen the shows on HGTV—many think that they could never do anything like the investors on TV because it’s all just so complicated. The key to dispelling the mystery around the process is to align yourself with the right resources.<br><br>Here at the Salas Team, we help our clients with the process. We can help you expand your contacts so that you have the right contractors, property managers, attorneys, architects, and so on. If you have the right people on your team, then everything will go much smoother.<br>&nbsp;
+**2. Demystify the process.** We’ve all seen the shows on HGTV—many think that they could never do anything like the investors on TV because it’s all just so complicated. The key to dispelling the mystery around the process is to align yourself with the right resources.<br><br>Here at the Salas Team, we help our clients with the process. We can help you expand your contacts so that you have the right contractors, property managers, attorneys, architects, and so on. If you have the right people on your team, then everything will go much smoother.<br> 
 
 **3. Understand how to value an opportunity.** I started this process by reading “Rich Dad, Poor Dad” by Robert Kiyosaki. The book will take you through the steps needed to learn how to value a deal, and I highly recommend you read it.<br><br>In addition, I built a spreadsheet with easy entry points with certain fields highlighted. Fill it in, and you can see your numbers from the income side, the expense side, and what you can expect in terms of a return for each asset class you’re pursuing. It’s essentially dummy-proof.
 
 In the future, I’ll do more videos on how to value properties so that you can demystify the process and lower your anxiety, allowing you to begin the process with confidence.
 
 If you’re interested in learning more about real estate investing sooner, however, please feel free to reach out to me. I’d be happy to discuss it more with you.
-
-&nbsp;
