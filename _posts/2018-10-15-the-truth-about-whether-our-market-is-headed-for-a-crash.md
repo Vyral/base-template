@@ -19,7 +19,7 @@ youtube_code: 06ByS02XC7M
 
 {% include youtube.html %}
 
-Are we headed for a crash? Let’s discuss this crucial question.
+<p style="text-align: center;"><em>Are we headed for a crash? Let’s discuss this crucial question.</em></p>
 
 Recently, a lot of people have been asking us whether the market is going to crash.&nbsp;
 
