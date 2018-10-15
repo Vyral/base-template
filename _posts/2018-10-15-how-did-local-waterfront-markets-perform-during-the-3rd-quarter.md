@@ -19,7 +19,7 @@ youtube_code: AJ07ndVRmwQ
 
 {% include youtube.html %}
 
-How did our area’s various waterfront markets perform in the third quarter? Let’s find out.
+<p style="text-align: center;"><em>How did our area’s various waterfront markets perform in the third quarter? Let’s find out.</em></p>
 
 With the third quarter behind us, it’s time for another market update. Today, we’ll examine recent statistics for various waterfront markets in our area.&nbsp;
 
