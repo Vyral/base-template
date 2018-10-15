@@ -27,7 +27,7 @@ When potential homebuyers are looking to be approved for a home loan, there are 
 
 How do these factors affect your chances of approval? Today, you’ll find your answers. You will typically need:
 
-1. Employment by the same company for at least 2 years
+1. Employment by the same company for at least two years
 2. $4,000 to $6,000 in savings
 3. A credit score of at least 620
 
