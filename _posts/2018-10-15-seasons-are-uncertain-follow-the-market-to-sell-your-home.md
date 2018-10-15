@@ -17,9 +17,9 @@ youtube_code: jbJElOJxxkM
 
 {% include youtube.html %}
 
-Don’t look to the seasons for when to sell—look to the market.
+<p style="text-align: center;"><em>Don’t look to the seasons for when to sell—look to the market.</em></p>
 
-What is the best season for selling your house? The quick answer is: **none of them.**&nbsp;
+What is the best season for selling your house? The quick answer is: **none of them.**
 
 The best time could be **any** time of year, but it’s always when **inventory is low and there is still a high demand of buyers.&nbsp;**
 
