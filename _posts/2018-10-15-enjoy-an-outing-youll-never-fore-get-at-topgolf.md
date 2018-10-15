@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Enjoy an Outing You’ll Never “Fore”-get at Topgolf
-date: 2018-10-15 19:34:42
+date: 2018-10-15 19:34:00
 tags:
+  - Real Estate
 excerpt: >-
   Topgolf Miami is the perfect place for your next outing, and today we’d like
   to share why.
