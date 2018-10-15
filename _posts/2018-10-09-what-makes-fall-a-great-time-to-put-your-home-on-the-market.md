@@ -12,14 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-and-scott-colemere-sept-2-screen-shot-no-play.jpg
-youtube_code: R3cPWADcu_Q
+youtube_code: bxnR50SQO8M
 ---
 
 {% include youtube.html %}
 
 <center><em>The fall is a great time to sell your home, and there are a few reasons why.</em></center>
 
-&nbsp;
+ 
 
 What makes fall a great time to sell your home?
 
