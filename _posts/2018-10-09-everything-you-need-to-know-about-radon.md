@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Everything You Need to Know About Radon
-date: 2018-10-09 20:56:58
+date: 2018-10-09 20:56:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
   Although radon testing is uncommon in our area, it is still something you’ll
   want to consider when buying a new home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Should+You+Test+for+Radon%253F.mp4
 pullquote: >-
   If you do find your dream home and discover that it has a high level of radon,
   don't let it stop you from buying it, because it’s a problem that can be
