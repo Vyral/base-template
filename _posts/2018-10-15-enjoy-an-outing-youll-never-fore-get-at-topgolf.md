@@ -21,7 +21,7 @@ youtube_code: WpjFX4E7blM
 
 {% include youtube.html %}
 
-Looking for an exciting outing? Then bring your family and friends to the newly opened Topgolf location in Doral.
+Looking for an exciting outing? Then bring your family and friends to the newly opened Topgolf location in Doral.&nbsp;
 
 Located just across the street from Dolphin Mall, the venue is open Monday through Thursday from 9 a.m. until 1 a.m., Friday and Saturday from 9 a.m. until 2 a.m., and Sunday from 9 a.m. to 12 a.m.
 
