@@ -26,7 +26,7 @@ Located just across the street from Dolphin Mall, the venue is open Monday throu
 
 Their features and amenities include a hundred-plus hitting base, a full-service restaurant and bars, private event spaces and meeting rooms, as well as more than 200 televisions. They also have free Wi-Fi.
 
-<br>And bigger is cheaper here at Topgolf. Depending on the time that you visit, bringing along five friends means you could each pay between just $4 to $8 per game. Now that’s a deal.
+<br>And bigger is cheaper here at Topgolf. **Depending on the time that you visit, bringing along five friends means you could each pay between just $4 to $8 per game.** Now that’s a deal.
 
 {% include pullquote.html %}
 
