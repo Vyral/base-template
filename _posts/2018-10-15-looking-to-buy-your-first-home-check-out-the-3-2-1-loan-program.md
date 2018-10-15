@@ -21,7 +21,7 @@ youtube_code: JjB8Y-e5O-g
 
 {% include youtube.html %}
 
-Today our team would like to make you aware of a fantastic loan product for first-time homebuyers in Alaska: the 3-2-1 Program.
+<p style="text-align: center;"><em>Today our team would like to make you aware of a fantastic loan product for first-time homebuyers in Alaska: the 3-2-1 Program.</em></p>
 
 Now that the time for PFD (Permanent Fund Dividend) disbursement has rolled back around, many Alaskans are eagerly awaiting this payment.&nbsp;
 
