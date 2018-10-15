@@ -52,7 +52,7 @@ On the extreme other end of the spectrum you could also pay a premium auction co
 
 But in today’s market, set aside 3-7% of the sales price for premium market exposure, drone photography, unique placement on Zillow, Trulia and other websites, and ultimately, getting the highest price possible!
 
-<h2>Most Sellers don’t actually want a commission discount. Really? How?</h2>
+<h2><strong>Most Sellers don’t actually want a commission discount. <br> Really? How?</strong></h2>
 
 Really. What Sellers want is the MOST MONEY IN THEIR POCKET AT CLOSING. The actual commission percentage is irrelevant as long as they’re confident in that outcome.
 
