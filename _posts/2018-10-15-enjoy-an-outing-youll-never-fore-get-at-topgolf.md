@@ -35,6 +35,6 @@ The Topgolf staff is happy to deliver food and refreshments directly to players 
 
 So whether it’s with your family, friends, or competitive co-workers, stop by Topgolf Miami for a night out or a fun daytime experience. Novices and experienced players alike are welcome.
 
-You can find more information about Topgolf here.
+You can find more information about Topgolf [here.](https://realtygirlsreveal.com/)
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email.
