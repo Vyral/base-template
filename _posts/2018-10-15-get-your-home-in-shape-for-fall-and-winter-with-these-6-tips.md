@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Get Your Home in Shape for Fall and Winter With These 6 Tips
-date: 2018-10-15 16:48:06
+date: 2018-10-15 16:48:00
 tags:
+  - Home Owner Tips
+  - Real Estate
 excerpt: >-
   Have you checked off these six items from your fall and winter maintenance
   list? If not, now is the time to do so.
