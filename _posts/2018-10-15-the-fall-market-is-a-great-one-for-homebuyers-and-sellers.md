@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fall Market Is A Great One for Homebuyers and Sellers
-date:
+date: 2018-10-15 15:43:43
 tags:
   - Home Buyer Tips
   - Home Seller Tips
