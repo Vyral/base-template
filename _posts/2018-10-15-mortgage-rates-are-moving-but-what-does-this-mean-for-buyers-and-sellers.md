@@ -8,7 +8,7 @@ excerpt: >-
   Mortgage rates are rising, which means both buyers and sellers need to make
   their move now.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/SOI/2018/Albany+Real+Estate+Agent-+Mortgage+Rates+Are+Moving.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/SOI/2018/Albany+Real+Estate+Agent-+Mortgage+Rates+Are+Moving%252C+but+What+Does+This+Mean+for+Buyers+and+Sellers%253F.mp4
 pullquote: >-
   If you’re a seller, you’re better off selling now while buyers can afford
   more.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Tgw17XzgOkY
+youtube_code: VniJpxCJSuE
 ---
 
 {% include youtube.html %}
