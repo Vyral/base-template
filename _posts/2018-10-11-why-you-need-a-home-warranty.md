@@ -25,7 +25,7 @@ Should you get a home warranty? I think so. There are many benefits of having a 
 
 {% include pullquote.html %}
 
-0:25 – How Shelley got into the industry<br>1:20 – What she has learned about that value of home warranties<br>2:15 – The cost of adding a home warranty<br>3:00 – The benefit of adding a home warranty at the time of buying<br>4:40 – Why sellers should get a home warranty<br>5:50 – How a home warranty works for sellers
+0:25 – How Shelley got into the industry.<br>1:20 – What she has learned about that value of home warranties.<br>2:15 – The cost of adding a home warranty.<br>3:00 – The benefit of adding a home warranty at the time of buying.<br>4:40 – Why sellers should get a home warranty.<br>5:50 – How a home warranty works for sellers.
 
 If you have any additional questions about home warranties, you can reach out to Shelley by phone at (918) 480-0924.
 
