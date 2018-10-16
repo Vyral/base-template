@@ -25,7 +25,7 @@ Looking for an exciting outing? Then bring your family and friends to the newly 
 
 Located just across the street from Dolphin Mall, the venue is open Monday through Thursday from 9 a.m. until 1 a.m., Friday and Saturday from 9 a.m. until 2 a.m., and Sunday from 9 a.m. to 12 a.m.
 
-Their features and amenities include a hundred-plus hitting base, a full-service restaurant and bars, private event spaces and meeting rooms, as well as more than 200 televisions. They also have free Wi-Fi.
+Their features and amenities include a hundred-plus hitting base, a full-service restaurant and bar, private event spaces and meeting rooms, as well as more than 200 televisions. They also have free Wi-Fi.
 
 <br>And bigger is cheaper here at Topgolf. **Depending on the time that you visit, bringing along five friends means you could each pay between just $4 to $8 per game.** Now that’s a deal.
 
@@ -35,6 +35,6 @@ The Topgolf staff is happy to deliver food and refreshments directly to players 
 
 So whether it’s with your family, friends, or competitive co-workers, stop by Topgolf Miami for a night out or a fun daytime experience. Novices and experienced players alike are welcome.
 
-You can find more information about Topgolf [here.](https://realtygirlsreveal.com/)
+You can find more information about Topgolf [here.](https://topgolf.com/us/miami-doral/)
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email.
