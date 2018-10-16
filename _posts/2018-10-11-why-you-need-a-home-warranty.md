@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/J7n983EEXhQ'
 
 {% include youtube.html %}
 
-Should you get a home warranty? I think so. There are many benefits of having a warranty no matter if you just bought your home, currently own, or are looking to sell. To help me explain why home warranties are so important, I recently met with Shelley Carson of First American Home Warranty to discuss home warranties and all their benefits.
+Should you get a home warranty? I think so. There are many benefits of having a warranty, no matter if you just bought your home, currently own, or are looking to sell. To help me explain why home warranties are so important, I recently met with Shelley Carson of First American Home Warranty to discuss home warranties and all their benefits.
 
 **I have timestamped the conversation below so you can jump to the section(s) that you find the most interesting.**
 
