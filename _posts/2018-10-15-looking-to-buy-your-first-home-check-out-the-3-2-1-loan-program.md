@@ -29,7 +29,7 @@ In many cases, PFD disbursement provides a much-needed financial boost for those
 
 With this in mind, my team and **I would also like to make you aware of another great resource available to homebuyers in our area: the 3-2-1 Home Loan Program.**&nbsp;
 
-Not only does this program allow buyers to put as little as 3% down, but it also offers buyers who take advantage of it a $2,000 Home Depot gift card and $1,500 credit to be used toward closing costs.&nbsp;
+Not only does this program allow buyers to put as little as 3% down, but it also offers buyers who take advantage of it a $2,000 Home Depot gift card and a $1,500 credit to be used toward closing costs.&nbsp;
 
 Best of all, qualifying is simple. The only requirements are that you must be a first-time homebuyer, you must fall within the family income limits (which, in our area, is $99,500) and have a credit score no lower than 620. In addition to this, you are also required to complete an online course.
 
