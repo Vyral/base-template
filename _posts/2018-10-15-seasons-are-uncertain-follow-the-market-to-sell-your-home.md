@@ -21,9 +21,9 @@ youtube_code: jbJElOJxxkM
 
 What is the best season for selling your house? The quick answer is: **none of them.**
 
-The best time could be **any** time of year, but it’s always when **inventory is low and there is still a high demand of buyers.&nbsp;**
+The best time could be **any** time of year, but it’s always when **inventory is low and there is still a high demand from buyers.&nbsp;**
 
-Keeping up with the current market is vital. You could see there are 100 comparable homes for sale in your area when there are usually around 50. It might best to wait.
+Keeping up with the current market is vital. If you're in a price range with 100 comparable homes for sale in your area when there are usually around 50, it might be best to wait.
 
 Seasons do have **some** influence—buyers are looking around in the summer and spring while in the fall, people are looking for a new-year home. The good thing is, people are moving to the Carolinas all year long. People often wait to sell in the spring, meaning lower inventory during other seasons. This is when we sell.
 
