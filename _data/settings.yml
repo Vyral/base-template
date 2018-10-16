@@ -91,7 +91,7 @@ podcast:
   title: Greater Denver Area Real Estate Podcast with Rex Jarnagin
   categories:
     - Education
-  image: denverrealestatetips.com/img/podcast.jpg
+  image: https://denverrealestatetips.com/img/podcast.jpg
   subtitle: >-
     Learn all the tips, tricks and more for buyers and sellers in the Colorado
     Area Real Estate Market
