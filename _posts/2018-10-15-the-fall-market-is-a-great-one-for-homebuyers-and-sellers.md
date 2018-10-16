@@ -20,6 +20,6 @@ youtube_code: V3G-B3_FQUw
 
 {% include youtube.html %}
 
-Happy Fall! The market is still doing fantastic here in LA, and while we’re not seeing the same feverish pace we saw in the summer, it’s still a fantastic market out there for homebuyers and sellers. Homebuyers can take their pick from a ton of different homes without the craziness of the summer. Sellers can still take advantage of low inventory and high demand. To see our full message about the current state of the real estate market, watch this short video.
+Happy Fall! The market is still doing fantastic here in LA, and while we’re not seeing the same feverish pace we saw in the summer, it’s still a fantastic market out there for homebuyers and sellers. Homebuyers can take their pick from a ton of different homes without the craziness of the summer. Sellers can still take advantage of low inventory and high demand.&nbsp;
 
 {% include pullquote.html %}
