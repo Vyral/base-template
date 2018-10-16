@@ -17,7 +17,7 @@ youtube_code: 0vElEKX4k7w
 
 {% include youtube.html %}
 
-Have you heard of MDI?
+<center>Have you heard of MDI?</center>
 
 Have you heard of MDI? Eric Mortimer is the Calgary Division Coordinator of Mentor Discover Inspire, an international men’s organization consisting of hundreds of men’s teams throughout North America and is open to any adult man who seeks to live a purposeful, passionate life and seeks to achieve new levels of personal success.
 
