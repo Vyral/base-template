@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Zestimate Could Be Misleading You
-date: 2018-10-15 22:19:20
+date: 2018-10-15 22:19:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qZO9LWf-qvU
+youtube_code: 0ZdAoaTBExU
 ---
 
 {% include youtube.html %}
@@ -33,5 +33,3 @@ To find an accurate number, it’s a good idea to call a real estate agent. **We
 There is no way for Zillow to be truly accurate. The website even tells you their prices are **at least** 5% to 6% off.
 
 I can help you find out how much your home, or any property you’re interested in, is worth. Feel free to contact me if you have any questions or would like some information. I look forward to hearing from you.
-
-&nbsp;
