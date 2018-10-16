@@ -2,10 +2,6 @@
 layout: post
 title: Don’t Miss My Upcoming Free Class
 tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   We are thrilled to share some exciting news with you today. We have recently
   been endorsed by Glenn Beck. He had some great words to say about our team,
@@ -13,22 +9,15 @@ excerpt: >-
   program, which Glenn explains in detail in his endorsement. To hear what Glenn
   Beck has to say about our team, watch this short video.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+Dont+Miss+My+Upcoming+Free+Class.mp4
+pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_alternate_image: /uploads/10-16-actual-october-tickler-np.jpg
+youtube_code: WhSxz7U1EG4
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
-
-{% include pullquote.html %}
-
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
-
-To hear the full radio endorsement, listen to the clip above.
+As a millionaire agent, I’m always seeking to help others achieve their greatness potential. One of the ways I strive toward this goal is by hosting free classes. So today, I’d like to invite you to the next upcoming one, during which I’ll share the 11 tactics agents need to thrive during a shift. This class will take place on Tuesday, October 23 from 4:00 p.m. until 5:30 p.m. at our office (2121 S. McClelland St. Suite 201), and you won’t want to miss it. To learn more about this opportunity, watch this short video
