@@ -10,7 +10,7 @@ excerpt: >-
   reasons why.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/Phoenix+Real+Estate+Agent+-+Why+You+Should+Consider+Selling+in+Phoenix+This+Fall.mp4
-pullquote: It’s better to be on the market now than being in it later.
+pullquote: It’s better to be on the market now as opposed to later.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,7 +22,7 @@ youtube_code: ok5FtkjH4sk
 
 <center><em>Selling a home during the fall is common practice in Arizona. Here are a few reasons why.</em></center>
 
-&nbsp;
+ 
 
 Why would you consider listing your house during the fall as opposed to waiting until after the holidays? There are a few reasons why you should:
 
