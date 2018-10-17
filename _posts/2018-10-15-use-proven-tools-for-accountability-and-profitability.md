@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Do Our Systems Keep Us Profitable?
-date: 2018-10-15 19:00:49
+title: Use Proven Tools for Accountability and Profitability
+date: 2018-10-15 19:00:00
 tags:
 excerpt: >-
   The systems that Keller Williams provides me allows me to be a more confident
