@@ -8,7 +8,7 @@ excerpt: >-
   If you have questions about the lending process, today’s Q&A session with
   mortgage expert Jason Zimmer may help clear things up.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2018/The+Stary+Group-+Answering+Questions+About+Loans.mp4
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2018/The+Stary+Group-+mortgage+questions+10.17.mp4
 pullquote: >-
   The only accurate way to determine what your monthly payments will actually
   look like is to review your circumstances with a professional lender.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7RU05mzt2no
+youtube_code: Mjj2GyF5BZI
 ---
 
 {% include youtube.html %}
