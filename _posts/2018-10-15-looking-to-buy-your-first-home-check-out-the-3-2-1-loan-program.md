@@ -8,7 +8,7 @@ excerpt: >-
   Today our team would like to make you aware of a fantastic loan product for
   first-time homebuyers in Alaska: the 3-2-1 Program.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dar+Walden/2018/Alaska+Real+Estate+%257C+Dar+Walden-+PFD+Loan+Home+Program.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dar+Walden/2018/Alaska+Real+Estate+%257C+Dar+Walden-+home+loan+program+10.17.mp4
 pullquote: >-
   This loan presents a fantastic opportunity for Alaskans looking to buy their
   first home.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JjB8Y-e5O-g
+youtube_code: 8T4CuOAfFlo
 ---
 
 {% include youtube.html %}
