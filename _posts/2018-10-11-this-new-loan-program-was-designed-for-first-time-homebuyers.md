@@ -44,3 +44,5 @@ The eligibility requirements for this loan program are also fairly straightforwa
 If you’re considering purchasing a home but previously assumed it was an out-of-reach goal, now may be the time to consider pursuing that milestone. If you’d like more information or are interested in whether you might qualify for the 3-2-1 Program, **feel free to call Kyle at (775) 885-6892 or send him an email at [krush@guildmortgage.net](mailto:krush@guildmortgage.net?subject=Re%3A%203-2-1%20Program)**.
 
 And, as always, if you have any other questions for me, please give me a call or send me an email. I look forward to hearing from you soon.
+
+*Guild's 3-2-1 Home program offers affordable lending for first-time homebuyers. With as little as 3% down, buyers can receive a $2,000 gift card to The Home Depot&reg; and $1,500 toward closing. The advantages you need with the perks you want. &nbsp;See if you qualify and contact your loan officer today. [Learn more here](https://www.guildmortgage.com/321home/).*
