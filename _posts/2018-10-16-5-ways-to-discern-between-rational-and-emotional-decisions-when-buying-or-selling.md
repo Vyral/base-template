@@ -34,13 +34,13 @@ Today we’ll be covering five strategies that can help you determine whether yo
 
 **1. Ask yourself: If you sleep on the decision, will you feel the same way in the morning?** Sometimes in the heat of the moment, we can convince ourselves that a certain choice is the only way to go. After giving ourselves more time to think, though, we may come to a different conclusion. Applying this strategy to the decisions you make during your home purchase could save you from making a major mistake.<br>&nbsp;
 
-**2. Ask yourself: Are you thinking about your feelings, or about what makes the most sense?** Everyone wants to earn the best possible deal when it comes to real estate. With that being the case, the people on the other side of your transaction may have a very different idea of how things should proceed. If this happens, it’s important not to let any of the emotions this might bring out cloud your judgement.<br>&nbsp;
+**2. Ask yourself: Are you thinking about your feelings, or about what makes the most sense?** Everyone wants to earn the best possible deal when it comes to real estate. With that being the case, the people on the other side of your transaction may have a very different idea of how things should proceed. If this happens, it’s important not to let any of the emotions this might bring out cloud your judgment.<br>&nbsp;
 
 {% include pullquote.html %}
 
 **3. Ask yourself: Is what you want to say going to actually help, or just make you feel better?** Any conversation that will legitimately move the deal forward is one you should certainly have. That said, it’s best to think twice before blurting out something you might regret.<br>&nbsp;
 
-**4. Ask yourself: Are you simply reacting on impulse, or are you thinking through your decisions?** Gut reactions are rarely the most fruitful responses in a real estate deal. Acting in accordance to a carefully thought-out plan will be much more helpful to your ultimate goal. &nbsp;<br>&nbsp;
+**4. Ask yourself: Are you simply reacting on impulse, or are you thinking through your decisions?** Gut reactions are rarely the most fruitful responses in a real estate deal. Acting in accordance with a carefully thought-out plan will be much more helpful to your ultimate goal. &nbsp;<br>&nbsp;
 
 **5. Ask a trusted advisor for their opinion.** Sometimes, the answer you need can’t come from within. Seeking out the guidance of a professional, instead, may sometimes be your best option.
 
