@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Profitable Selling Tips: Energy Efficiency'
-date: 2018-10-16 16:48:19
+date: 2018-10-16 16:48:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   simple ways to help your home become more energy efficient.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/October/Roanoke+Real+Estate+Agent-+Profitable+Selling+Tips-+Energy+Efficiency.mp4
-pullquote: Energy efficient windows are a great idea.
+pullquote: Energy-efficient windows are a great idea.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -29,6 +29,6 @@ Replacing your water heater isn’t a bad idea either. An instant hot water heat
 
 Finally, a programmable thermostat is a must. You can use it to make sure the home is heated or cooled when you need it, not 24/7.
 
-**Things like this are going to entice a buyer to want to buy your house because of lower heating and A/C bills.**
+**Due to their lower costs of operation and their generally longer lifespans, energy-efficient appliances like these will increase the appeal of your home in a potential buyer's eyes.**
 
 If you have any questions for me about how you can make your home more energy efficient, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
