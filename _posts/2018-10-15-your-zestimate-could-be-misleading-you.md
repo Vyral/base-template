@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Zestimates are simply a rough estimate. You need the help of an agent to find
   a home’s real value.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Videos/Texas+Real+Estate+Pro-+Your+Zestimate+Could+Be+Misleading+You.mp4
 pullquote: There is no way for Zillow to be truly accurate.
 enclosure_type: video/mp4
 enclosure_time:
