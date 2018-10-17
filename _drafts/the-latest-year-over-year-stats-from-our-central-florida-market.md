@@ -20,7 +20,7 @@ youtube_code: jRKsrRAvvRI
 
 {% include youtube.html %}
 
-Sales are up and inventory is down in our market as we head deeper into fall. Here’s what that means for buyers and sellers.
+<center>Sales are up and inventory is down in our market as we head deeper into fall. Here’s what that means for buyers and sellers.</center>
 
 What do the latest year-over-year numbers from last month say about our Central Florida market?
 
