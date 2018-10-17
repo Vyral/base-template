@@ -45,6 +45,6 @@ The homes that sold spent an average of about 48 days from contract to close, wh
 
 As you can see, **inventory is low and the market is changing**. However, interest rates are still historically low, so if you’re a buyer and you’ve been sitting on the fence, now may be the time to make your move. If you’re a seller, our median price range is still very hot. Homes listed between $150,000 and $300,000 that are priced right, in a good location, and marketed properly are moving quickly.
 
-If you’d like a more in-depth look at all the latest numbers from our central Florida area, [click here](https://cdn.ymaws.com/www.orlandorealtors.org/resource/resmgr/images_marketpulse_2018/MarketPulse102018.pdf?_cldee=ZGd1cHRhQGRndXB0YS5jb20%3d&amp;recipientid=contact-7b128ac5027741bdb601fdd29d7c17e7-26e5e0b00f594085a7a214873a8e6e94&amp;esid=f7d4abda-91cc-e811-9c1f-00155d007945).
+If you’d like a more in-depth look at all the latest numbers from our central Florida area, [click here](https://cdn.ymaws.com/www.orlandorealtors.org/resource/resmgr/images_marketpulse_2018/MarketPulse102018.pdf?_cldee=ZGd1cHRhQGRndXB0YS5jb20%3d&amp;recipientid=contact-7b128ac5027741bdb601fdd29d7c17e7-26e5e0b00f594085a7a214873a8e6e94&amp;esid=f7d4abda-91cc-e811-9c1f-00155d007945){: target="_blank"}.
 
 If you have any more questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to me.
