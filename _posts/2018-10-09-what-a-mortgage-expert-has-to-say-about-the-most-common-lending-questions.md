@@ -45,6 +45,6 @@ Online payment calculators may be convenient, but they’re not always accurate.
 
 Interest rates are going to rise. The question is where they will stop. Of course, this doesn’t mean they will rise forever. And in addition to that point, it’s also important to realize that the Fed’s decision to raise rates isn’t specifically in regards to 30-year fixed mortgages. In fact, there are even instances when a rise in the federal funds rate may lead to a drop in 30-year mortgage rates.&nbsp;
 
-If you would like to speak about these or any other questions in greater detail with Jason, feel free to give him a call at (815) 838-6613 or send him an email at <a href="mailto:jzimmer@parlaymortgage.com" target="_blank">jzimmer@parlaymortgage.com.</a>
+If you would like to speak about these or any other questions in greater detail with Jason, feel free to give him a call at (815) 838-6613 or send him an email at <a href="mailto:jzimmer@parlaymortgage.com" target="_blank">jzimmer@parlaymortgage.com.</a> If you'd like to get instant access to a personlized mortgage calculate, you can download his app <a href="http://jasonzimmer.mortgagemapp.com/" target="_blank">here.</a>
 
 And, as always, if you would like more information about what we discussed today or about another real estate related topic, please reach out to my team or me. We look forward to hearing from you soon.
