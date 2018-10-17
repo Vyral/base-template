@@ -20,7 +20,7 @@ youtube_code: ok5FtkjH4sk
 
 {% include youtube.html %}
 
-Selling a home during the fall is common practice in Arizona. Here are a few reasons why.
+<center>Selling a home during the fall is common practice in Arizona. Here are a few reasons why.</center>
 
 Why would you consider listing your house during the fall as opposed to waiting until after the holidays? There are a few reasons why you should:
 
