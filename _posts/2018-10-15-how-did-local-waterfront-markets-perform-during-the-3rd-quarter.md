@@ -8,13 +8,13 @@ excerpt: >-
   How did our area’s various waterfront markets perform in the third quarter?
   Let’s find out.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2018/Montana+Real+Estate+%257C+The+Hollinger+Team-.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2018/Montana+Real+Estate+%257C+The+Hollinger+Team-+How+Did+Local+Waterfront+Markets+Perform%253F.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: AJ07ndVRmwQ
+youtube_code: Ysj79w8eLrs
 ---
 
 {% include youtube.html %}
