@@ -45,4 +45,4 @@ If you’re considering purchasing a home but previously assumed it was an out-o
 
 And, as always, if you have any other questions for me, please give me a call or send me an email. I look forward to hearing from you soon.
 
-*Guild's 3-2-1 Home program offers affordable lending for first-time homebuyers. With as little as 3% down, buyers can receive a $2,000 gift card to The Home Depot&reg; and $1,500 toward closing. The advantages you need with the perks you want. &nbsp;See if you qualify and contact your loan officer today. [Learn more here](https://www.guildmortgage.com/321home/).*
+*Guild's 3-2-1 Home program offers affordable lending for first-time homebuyers. With as little as 3% down, buyers can receive a $2,000 gift card to The Home Depot&reg; and $1,500 towards closing. The advantages you need with the perks you want. &nbsp;See if you qualify and contact your loan officer today. [Learn more here](https://www.guildmortgage.com/321home/).*
