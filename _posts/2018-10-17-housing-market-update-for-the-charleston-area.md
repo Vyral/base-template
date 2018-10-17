@@ -19,7 +19,7 @@ youtube_code: DB-L7GXdSx4
 
 {% include youtube.html %}
 
-We’ve taken a look at the Charleston housing market, and things may be beginning to slow down.
+<p style="text-align: center;"><em>We’ve taken a look at the Charleston housing market, and things may be beginning to slow down.</em></p>
 
 The Charleston market has been hot, but is it starting to cool off? **Let’s take a look at how our area’s real estate market is doing.**
 
