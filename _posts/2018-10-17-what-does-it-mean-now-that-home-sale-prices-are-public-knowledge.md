@@ -21,6 +21,8 @@ youtube_code: 2WvtS23snPw
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Home sale prices in Canada will now become public knowledge, and we believe this benefits both Realtors and buyers and sellers.</em></p>
+
 This past August, the Supreme Court of Canada ruled against the Toronto Real Estate Board’s refusal to release home sale data, and **I think this is great news—the more informed a consumer is, the better the choices they’ll be able to make with their assets.** &nbsp;
 
 Reactions from others in the real estate industry have varied. Sotheby’s International Realty Canada CEO Brad Henderson, whose company still doesn’t plan on releasing these prices for the time being said, said, “Why should I know the value of your home any more than your income tax or your stock portfolio?”
