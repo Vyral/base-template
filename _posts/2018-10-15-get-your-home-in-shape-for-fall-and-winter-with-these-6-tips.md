@@ -16,18 +16,18 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XJ-KiUuUEEk
+youtube_code: dRIb171ywls
 ---
 
 {% include youtube.html %}
 
 Have you prepared your home for the fall and winter? If not, it’s time to start. These six maintenance tips will keep your property safe and sound during the later months of the year and beyond.
 
-1. **Have your fireplace examined.** If you have a fireplace, now is the time to seek a professional’s opinion on whether it’s in safe, working order.&nbsp;
-2. **Test and change the batteries in smoke alarms and carbon monoxide detectors.&nbsp;**
-3. **Freshen up the caulking around your home as needed.&nbsp;**
-4. **Clean your gutters (or hire a professional to do so).&nbsp;**
-5. **Hire an HVAC contractor to come examine your system.&nbsp;**
+1. **Have your fireplace examined.** If you have a fireplace, now is the time to seek a professional’s opinion on whether it’s in safe, working order. 
+2. **Test and change the batteries in smoke alarms and carbon monoxide detectors. **
+3. **Freshen up the caulking around your home as needed. **
+4. **Clean your gutters (or hire a professional to do so). **
+5. **Hire an HVAC contractor to come examine your system. **
 6. **Buy a snow shovel.** If you don’t already own one, purchasing this tool early may be a huge relief later on when (or if) you need to use it.
 
 {% include pullquote.html %}
