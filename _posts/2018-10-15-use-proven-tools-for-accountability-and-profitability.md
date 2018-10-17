@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The systems that Keller Williams provides me allows me to be a more confident
   business owner. Here’s how.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+How+the+30-60-90+System+Helps+Me.mp4
 pullquote: It’s my duty to protect our bottom line as a team owner.
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: 'https://youtu.be/87pl435LcXs'
 
 {% include youtube.html %}
 
-As I’ve worked to grow my team, I've also had to let go of team members. This is never, ever any fun at all.&nbsp;
+As I’ve worked to grow my team, I've also had to let go of team members. This is never, ever any fun at all. 
 
 However, by utilizing the 30-60-90 system when bringing on new team members, **we’re able to make sure agents have what it takes to be successful on our team by the time their 91st day rolls around**—for their first 90 days,they have to crush their 20% tasks. I can attest to the beauty of this system.
 
@@ -25,7 +26,7 @@ This system has allowed my behavioral style, which would have traditionally kept
 
 {% include pullquote.html %}
 
-**I had to let go of a great person today who was all-in on our team and culture.** For the current role we need, though, they just weren’t a fit, which the 30-60-90 system showed me.&nbsp;
+**I had to let go of a great person today who was all-in on our team and culture.** For the current role we need, though, they just weren’t a fit, which the 30-60-90 system showed me. 
 
 It was about what the team needs. I feel that it’s my duty as a team owner to protect our bottom line. When we have the wrong person in a role, it really hurts the whole team. I had to remove my ego from the process in order to be the protector of the profit. **If our team isn’t profitable, there’s really no point in doing this.**
 
