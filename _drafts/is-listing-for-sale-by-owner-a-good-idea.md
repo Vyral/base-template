@@ -22,7 +22,7 @@ youtube_code: fLRw5g7ZsuA
 
 {% include youtube.html %}
 
-In today’s hot market, is hiring an agent really necessary? Actually yes, and today we’ll explain why.
+<center>In today’s hot market, is hiring an agent really necessary? Actually yes, and today we’ll explain why.</center>
 
 In a fantastic market like the one we’re in right now, why would someone need the help of a listing agent to sell their home? Actually, the truth is that a lot more goes into listing a home than simply sticking a sign in the yard and waiting for buyers to flock in.
 
