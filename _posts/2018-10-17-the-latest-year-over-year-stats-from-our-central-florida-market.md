@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deepak-gupta-nov-2-ss-no-play.jpg
-youtube_code: jRKsrRAvvRI
+youtube_code: biyxOh49kvA
 ---
 
 {% include youtube.html %}
 
 <center><em>Sales are up and inventory is down in our market as we head deeper into fall. Here&rsquo;s what that means for buyers and sellers.</em></center>
 
-&nbsp;
+ 
 
 What do the latest year-over-year numbers from last month say about our Central Florida market?
 
@@ -32,7 +32,7 @@ The median sales price for single-family homes increased by 4% to $233,000. The 
 
 **The total number of home sales increased 8.5% from 2,552 to 2,768**. The number of single-family sales alone was 2,096, which was a 7.6% increase. Distressed home sales, meanwhile, dropped by about 3.1%.
 
-Here’s how the number of home sales fared year over year for each county in our surrounding area:&nbsp;
+Here’s how the number of home sales fared year over year for each county in our surrounding area: 
 
 * Lake County: +7.3%
 * Orange County: -3.3%
