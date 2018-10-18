@@ -14,7 +14,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/10-16-actual-october-tickler-np.jpg
+youtube_alternate_image: /uploads/10-18-shifting-market-np.jpg
 youtube_code: WhSxz7U1EG4
 ---
 
