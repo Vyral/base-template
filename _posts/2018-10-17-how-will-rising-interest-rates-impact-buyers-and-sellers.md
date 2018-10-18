@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/6JvX23tbqZ4'
 
 {% include youtube.html %}
 
-We’ve had a lot of growth in our economy, in general, in the last couple of years, and today we’ll be touching on one specific aspect of it: Interest rates. Before we get into our discussion, though, I’d like to clarify an important term: Basis points.
+We’ve had a lot of growth in our economy in general over the last couple of years, and today we’ll be touching on one specific aspect of it: Interest rates. Before we get into our discussion, though, I’d like to clarify an important term: Basis points.
 
-Basis points are used to describe changes to interest rates. **A single basis point is a hundredth of a percentile, so, therefore, 25 basis points would be equivalent to .25%.&nbsp;**
+Basis points are used to describe changes to interest rates. **A single basis point is a hundredth of a percentile, so, therefore, 25 basis points would be equivalent to 0.25%.&nbsp;**
 
-So when you hear someone say that the Federal Reserve met and raised interest rates by 25 basis points, this means there was an increase of .25%&nbsp;
+So when you hear someone say that the Federal Reserve met and raised interest rates by 25 basis points, this means there was an increase of 0.25%.&nbsp;
 
 With that in mind, let’s move on to our main topic. Interest rates can have a significant impact on buyers and sellers alike in our market. And given that the Fed meets four times per year to discuss these rates, it’s important to understand how this may impact your goals.
 
