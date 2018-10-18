@@ -2,12 +2,7 @@
 layout: post
 title: 11 Tactics to Thrive in a Shifting Market
 tags:
-excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+excerpt:
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+Dont+Miss+My+Upcoming+Free+Class.mp4
 pullquote:
