@@ -25,7 +25,7 @@ youtube_code: 2WvtS23snPw
 
 This past August, the Supreme Court of Canada ruled against the Toronto Real Estate Board’s refusal to release home sale data, and **I think this is great news—the more informed a consumer is, the better the choices they’ll be able to make with their assets.** &nbsp;
 
-Reactions from others in the real estate industry have varied. Sotheby’s International Realty Canada CEO Brad Henderson, whose company still doesn’t plan on releasing these prices for the time being said, said, “Why should I know the value of your home any more than your income tax or your stock portfolio?”
+Reactions from others in the real estate industry have varied. Sotheby’s International Realty Canada CEO Brad Henderson, whose company still doesn’t plan on releasing these prices for the time being said, “Why should I know the value of your home any more than your income tax or your stock portfolio?”
 
 On the other side, Desmond Brown of Royal Lepage was quoted as saying, “For some reason (TREB has) this prehistoric notion that a Realtor’s value ties into information, and the more that we hold back this information, the more value a Realtor will have.”
 
