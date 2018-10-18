@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Avoid These 3 Do-It-Yourself Renovation Mistakes
-date: 2018-10-09 21:31:24
+date: 2018-10-09 21:31:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: AtdME--dNfo
+youtube_code: 5mQMkXv29pY
 ---
 
 {% include youtube.html %}
