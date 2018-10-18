@@ -31,7 +31,7 @@ With that in mind, let’s move on to our main topic. Interest rates can have a 
 
 {% include pullquote.html %}
 
-Rates have been steadily rising in recent times, but even after the most recent increase, which was in September, they are still low compared to historical averages.&nbsp;
+Rates have been steadily rising in recent times, but even after the most recent increase in September, they are still low compared to historical averages.&nbsp;
 
 **You can see this point illustrated in an extremely powerful graphic we’ve featured in today’s video (at 1:24).** This graphic shows precisely how interest rate hikes correlate with drops in affordability.&nbsp;
 
