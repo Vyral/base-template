@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Miss My Upcoming Free Class
+title: 11 Tactics to Thrive in a Shifting Market
 tags:
 excerpt: >-
   We are thrilled to share some exciting news with you today. We have recently
