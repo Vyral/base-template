@@ -21,9 +21,7 @@ youtube_code: O89BRMOuNNs
 
 {% include youtube.html %}
 
-You’ve probably been hearing a lot about the future of our market in the news lately, and today,
-
-we’re going to get to the bottom of what may lie ahead by reviewing some projections, as well as some recent market trends.
+You’ve probably been hearing a lot about the future of our market in the news lately, and today, we’re going to get to the bottom of what may lie ahead by reviewing some projections, as well as some recent market trends.
 
 On a national level, average home prices have appreciated 5.5% since this time last year. Locally, however, appreciation levels haven’t been quite so high, with average Pennsylvania home prices seeing an increase of just 3.6% year over year. Of course, these numbers only reflect the statistical average on a broad scale. Real estate trends vary between different counties, and even between different neighborhoods.
 
@@ -35,8 +33,8 @@ Everything in our market is connected. As such, everything we’ve mentioned so 
 
 With all this in mind, you may be wondering what we can expect from the coming year.
 
-In terms of appreciation, forecasts predict that we’ll see an average national growth of 4.7%, and an average growth in Pennsylvania of 5.5% between August of this year and August 2019.
+In terms of appreciation, forecasts predict that we’ll see an average national growth of 4.7% and an average growth in Pennsylvania of 5.5% between August of this year and August 2019.
 
-And, as we’ve already mentioned, interest rates will continue to rise as we move into next year. The bottom line is this: **Buyers and sellers alike should make their move as soon as possible.**
+As we’ve already mentioned, interest rates will continue to rise as we move into next year. The bottom line is this: **Buyers and sellers alike should make their move as soon as possible.**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
