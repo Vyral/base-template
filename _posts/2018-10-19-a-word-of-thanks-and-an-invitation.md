@@ -1,14 +1,15 @@
 ---
 layout: post
 title: A Word of Thanks and An Invitation
-date: 2018-10-19 20:11:37
+date: 2018-10-19 20:11:00
 tags:
   - Real Estate
 excerpt: >-
   Thank you all for joining me at our last client event. It was a great success
   and I hope very much that I’ll get to see you at our upcoming event this
   November.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+A+Word+of+Thanks+and+An+Invitation.mp4
 pullquote: >-
   For Operation Gratitude, we’ll be collecting any donated leftover Halloween
   candy to be sent to our troops.
