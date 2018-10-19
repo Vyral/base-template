@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/kevin-langan-oct-2-no-play.jpg
-youtube_code: ok5FtkjH4sk
+youtube_code: fEmfSSJqddQ
 ---
 
 {% include youtube.html %}
 
 <center><em>Selling a home during the fall is common practice in Arizona. Here are a few reasons why.</em></center>
 
-&nbsp;
+ 
 
 Why would you consider listing your house during the fall as opposed to waiting until after the holidays? There are a few reasons why you should:
 
