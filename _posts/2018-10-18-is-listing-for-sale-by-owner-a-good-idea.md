@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-oct-1-ss-no-play.jpg
-youtube_code: fLRw5g7ZsuA
+youtube_code: GSx7_k-bH0s
 ---
 
 {% include youtube.html %}
 
 <center><em>In today&rsquo;s hot market, is hiring an agent really necessary? Actually yes, and today we&rsquo;ll explain why.</em></center>
 
-&nbsp;
+ 
 
 In a fantastic market like the one we’re in right now, why would someone need the help of a listing agent to sell their home? Actually, the truth is that a lot more goes into listing a home than simply sticking a sign in the yard and waiting for buyers to flock in.
 
