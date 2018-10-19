@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salt Lake City Area Real Estate: 3rd Quarter 2018 Market Update'
-date:
+date: 2018-10-19 19:01:47
 tags:
 excerpt:
 enclosure:
