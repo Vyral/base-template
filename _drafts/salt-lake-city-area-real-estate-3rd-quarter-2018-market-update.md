@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+[...](https://www.youtube.com/watch?v=dbZvxBpYDp8){% include pullquote.html %}
