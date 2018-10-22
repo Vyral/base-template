@@ -31,9 +31,9 @@ First of all, the past 3 years we’ve coordinated the <a href="http://stgeorgeb
 
 <strong>TWO THINGS:</strong>
 
-1. We're open for family nominations. If you know a family, (or families) in need this Thanksgiving, please nominate them at the Basket Brigade <a href="http://stgeorgebasketbrigade.org/" target="_blank">website.</a> If you &quot;suspect&quot; there's a need, trust your gut&#151;there's a need!
+<ul>1. We're open for family nominations. If you know a family, (or families) in need this Thanksgiving, please nominate them at the Basket Brigade <a href="http://stgeorgebasketbrigade.org/" target="_blank">website.</a> If you &quot;suspect&quot; there's a need, trust your gut&#151;there's a need!
 
-2. In order to pull this event off we've got to be selling plenty of real estate!
+2. In order to pull this event off we've got to be selling plenty of real estate!</ul>
 
 {% include pullquote.html %}
 
