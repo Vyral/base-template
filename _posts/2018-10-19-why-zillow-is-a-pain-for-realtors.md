@@ -22,7 +22,7 @@ youtube_code: UbWYrLnu4hI
 
 The website Zillow came on the scene many years ago, serving as a way for people to see what their homes were worth.
 
-Today, it has become a popular tool that most homebuyers now use to gauge the what their home would be worth if they chose to list it. This has become a huge pain for consumers who are looking to get an accurate sense of their home’s worth.
+Today, it has become a popular tool that most homebuyers now use to gauge what their home would be worth if they chose to list it. This has become a huge pain for consumers who are looking to get an accurate sense of their home’s worth.
 
 Why? Because, while it can be fairly accurate at times, **it can also be really off.** For this reason, Realtors tend not to like Zillow. It provides a false estimation of a home’s value.
 
