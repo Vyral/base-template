@@ -6,7 +6,7 @@ tags:
   - Lisa's Tips
 excerpt: >-
   Today I want to talk to you about a solution to two things you might already
-  be concerned
+  be concerned about: taxes and the upcoming winter season.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2018/Winter+and+Taxes+%257C+Palm+Beach+Real+Estate.mp4
 pullquote: >-
@@ -21,7 +21,7 @@ youtube_code: LARSLl-sLyw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I want to talk to you about a solution to two things you might already be concerned</em></p>
+<p style="text-align: center;"><em>Today I want to talk to you about a solution to two things you might already be concerned about: taxes and the upcoming winter season.</em></p>
 
 If you’ve been sitting bundled up in your home with the fireplace going or the central heating on, you should know that you have options for escaping the winter’s chill.
 
