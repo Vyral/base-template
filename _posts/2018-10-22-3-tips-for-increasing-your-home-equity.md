@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips For Increasing Your Home Equity
-date:
+date: 2018-10-22 16:17:27
 tags:
 excerpt: >-
   Are you a homeowner who is looking for ways to increase your home equity?
