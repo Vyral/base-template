@@ -39,7 +39,7 @@ First of all, the past 3 years we’ve coordinated the <a href="http://stgeorgeb
 
 {% include pullquote.html %}
 
-We are Selling properties in days and sometimes hours. It's like going to the grocery store and finding empty shelves; there simply are not enough homes on the market for our buyers.
+We are selling properties in days and sometimes hours. It's like going to the grocery store and finding empty shelves; there simply are not enough homes on the market for our buyers.
 
 We have buyers looking in every price range from $100,000 to $700,000 who cannot find a home.
 
