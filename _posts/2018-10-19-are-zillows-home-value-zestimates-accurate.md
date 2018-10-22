@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Zillow Is a Pain for Realtors
-date: 2018-10-19 21:17:37
+title: Are Zillow’s Home Value Zestimates Accurate?
+date: 2018-10-19 21:17:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -41,5 +41,3 @@ This is one of the reasons why there’s a large discrepancy between what a real
 My advice to you: If you’re thinking of listing your home in the near future and want to ensure that what you’re offering is reasonable, don’t rely on Zillow. **Talk to a real estate agent who is attuned to your market area.**
 
 If you have any questions or need a recommendation for a Realtor, reach out to me. I’d be happy to help you.
-
-&nbsp;
