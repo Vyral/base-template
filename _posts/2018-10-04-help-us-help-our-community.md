@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Help Us Help Our Community
-date: 2018-10-04 17:59:45
+date: 2018-10-22 10:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,25 +19,31 @@ youtube_code: twvtJJDUbHw
 
 {% include youtube.html %}
 
-Today, I have a question to ask you: Can we help each other?
+<p style="text-align: center;"><em>We need your help. Not only are we looking for homes for our buyers, we’re also getting ready for another year with the Basket Brigade.</em></p>
 
-Usually, we try not to ask. We want to deliver incredible information on home values, the reality of buying and selling a home, the ups and downs of our real estate market, and what’s going on downtown.
+Can we help each other?
 
-But today is different. I want to know if we can help each other.
+Usually, we try not to ask. We want to deliver incredible information on home values, the reality of buying and selling a home, the ups and downs of our real estate market, and what’s going on in Downtown St. George. And we’ll KEEP doing that!
 
-First of all, for many years, we have participated in the Basket Brigade. The Basket Brigade delivers a full Thanksgiving meal to hundreds of families every year. **Our goal is to feed 250 families this year.** In 2017, we helped 265 families.
+But today we’re asking very directly for your help.
 
-This is just one of our ways of giving back and serving the community. Check out the St. George Basket Brigade [website](http://stgeorgebasketbrigade.org/){: target="_blank"} if you would like to nominate a family in need this Thanksgiving.
+First of all, the past 3 years we’ve coordinated the <a href="http://stgeorgebasketbrigade.org/" target="_blank">“Basket Brigade”</a> event which delivers a full Thanksgiving meal to hundreds of families every year. **Our goal is to feed 250 families this year.** In 2017, we helped 265 families.
 
-In addition to helping the community, we’re also asking for your help with the real estate market.
+<strong>TWO THINGS:</strong>
+
+1. We're open for family nominations. If you know a family, (or families) in need this Thanksgiving, please nominate them at the Basket Brigade <a href="http://stgeorgebasketbrigade.org/" target="_blank">website.</a> If you &quot;suspect&quot; there's a need, trust your gut&#151;there's a need!
+
+2. In order to pull this event off we've got to be selling plenty of real estate!
 
 {% include pullquote.html %}
 
-Our real estate market has gone berserk! We are selling properties in days and sometimes hours. It’s like going to the grocery store and finding empty shelves; there simply are not enough homes on the market for our buyers.
+We are Selling properties in days and sometimes hours. It's like going to the grocery store and finding empty shelves; there simply are not enough homes on the market for our buyers.
 
-We have buyers looking in every price range from $100,000 to $700,000 who cannot find a home. If you can think of anyone who is thinking of selling a home, please let us know. Consider your church group, your school group, your friends, and your neighbors. Do you know anyone with an investment property they may want to sell? (These people are really winning in our market!) We need your help!
+We have buyers looking in every price range from $100,000 to $700,000 who cannot find a home.
 
 **There has never been a better time to sell a home than right now.** We need to find those clients. Please reach out to us if you know anyone who is thinking of selling a home.
+
+If you can think of anyone who is selling a home, please let us know by email, phone, text, whatever makes your heart sing!&#9786;
 
 Again, if you know of a family in need this Thanksgiving, **visit the St. George Basket Brigade [website](http://stgeorgebasketbrigade.org/){: target="_blank"} to nominate them.**
 
