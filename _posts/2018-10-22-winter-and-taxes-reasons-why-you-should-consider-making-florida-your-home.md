@@ -21,7 +21,7 @@ youtube_code: LARSLl-sLyw
 
 {% include youtube.html %}
 
-Today I want to talk to you about a solution to two things you might already be concerned
+<p style="text-align: center;"><em>Today I want to talk to you about a solution to two things you might already be concerned</em></p>
 
 If you’ve been sitting bundled up in your home with the fireplace going or the central heating on, you should know that you have options for escaping the winter’s chill.
 
