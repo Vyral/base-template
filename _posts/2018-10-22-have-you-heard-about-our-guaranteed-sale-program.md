@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-22-guaranteed-sale-np.jpg
-youtube_code: 'https://youtu.be/N_lxRAt4oH0'
+youtube_code: N_lxRAt4oH0
 ---
 
 {% include youtube.html %}
