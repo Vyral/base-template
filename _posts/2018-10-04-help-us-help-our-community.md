@@ -31,11 +31,11 @@ First of all, the past 3 years we’ve coordinated the <a href="http://stgeorgeb
 
 <strong>TWO THINGS:</strong>
 
-<ul>
-<li>1. We're open for family nominations. If you know a family, (or families) in need this Thanksgiving, please nominate them at the Basket Brigade <a href="http://stgeorgebasketbrigade.org/" target="_blank">website.</a> If you &quot;suspect&quot; there's a need, trust your gut&#151;there's a need!</li>
+<ol>
+<li>We're open for family nominations. If you know a family, (or families) in need this Thanksgiving, please nominate them at the Basket Brigade <a href="http://stgeorgebasketbrigade.org/" target="_blank">website.</a> If you &quot;suspect&quot; there's a need, trust your gut&#151;there's a need!</li>
 
-<li>2. In order to pull this event off we've got to be selling plenty of real estate!</li>
-</ul>
+<li>In order to pull this event off we've got to be selling plenty of real estate!</li>
+</ol>
 
 {% include pullquote.html %}
 
