@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Portland Housing Market Update for Fall
-date: 2018-10-19 14:08:41
+date: 2018-10-19 14:08:00
 tags:
   - Market Update
 excerpt: This fall is shaping up to be a perfect time to purchase a new home.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-hatch---oct-1-no-play.jpg
-youtube_code: bNOANDyc9CE
+youtube_code: zo1ZfBOzNBs
 ---
 
 {% include youtube.html %}
