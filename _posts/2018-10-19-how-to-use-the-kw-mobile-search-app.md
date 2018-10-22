@@ -21,7 +21,7 @@ youtube_code: 30aLrJU2SQU
 
 {% include youtube.html %}
 
-Keller Williams invests $1,000,000 per week into technology for us to use. This shows not only the significance of the technology, but also the company’s awareness to its agent’s needs. One form of technology that they have invested money into is the KW Mobile Search App. This app can be personalized to have your information linked to it automatically for each user. I recently held a webinar on setting up and using the KW Mobile Search App to help you with lead generation that I want to share with you today.
+Keller Williams invests $1,000,000 per week into technology for us to use. This shows not only the significance of the technology, but also the company’s awareness of its agent’s needs. One form of technology that they have invested money into is the KW Mobile Search App. This app can be personalized to have your information linked to it automatically for each user. I recently held a webinar on setting up and using the KW Mobile Search App to help you with lead generation that I want to share with you today.
 
 **I have included timestamps below so that you can jump to the sections that most interest you.**
 
