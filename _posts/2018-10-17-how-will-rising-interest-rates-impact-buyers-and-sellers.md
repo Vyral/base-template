@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/andrew-kronenberg-rising-rates-youtube.jpg
-youtube_code: 'https://youtu.be/3EgOaSotJAg'
+youtube_code: 'https://youtu.be/huSg6bADwaw'
 ---
 
 {% include youtube.html %}
