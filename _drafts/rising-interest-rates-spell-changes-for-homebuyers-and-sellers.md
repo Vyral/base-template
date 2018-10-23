@@ -3,14 +3,34 @@ layout: post
 title: Rising Interest Rates Spell Changes for Homebuyers and Sellers
 tags:
   - Real Estate
-  - Home Seller Tips
-excerpt: 'The fall is a great time to sell your home, and there are a few reasons why.'
+  - Market Update
+excerpt: >-
+  We lose purchasing power as interest rates rise. Let’s talk about what this
+  means for you.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+Makes+Fall+a+Great+Time+to+Put+Your+Home+on+the+Market%253F.mp4
-pullquote: Now’s an especially great time to sell if you’re looking to move up.
+  https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Rising+Interest+Rates+Spell+Changes+for+Homebuyers+and+Sellers.mp4
+pullquote: >-
+  There’s a direct relationship where we lose purchasing power as interest rates
+  rise.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bryan-and-scott-colemere-sept-2-screen-shot-no-play.jpg
-youtube_code: bxnR50SQO8M
+youtube_alternate_image: /uploads/bryan-and-scott-colemere-nov-1-screen-shot-no-play.jpg
+youtube_code: WstGRxTrmwk
 ---
+
+{% include youtube.html %}
+
+We lose purchasing power as interest rates rise. Let’s talk about what this means for you.
+
+As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates with more increases on the horizon, and today we’ll be talking about what this means for you as a buyer or seller.
+
+Utah’s economy is growing rapidly right now with great job opportunities and growth—**things the Fed takes into account**. These will be taken into consideration when they increase interest rates, which subsequently affects our housing market and available opportunities for homebuyers and sellers.
+
+**As rates rise, buyers can’t qualify for the same homes they previously could**. For sellers, this makes it important to sell homes quickly. Because the buyer pool for your home will begin to drain due to increased interest, you won’t be able to get as much for your home and fewer buyers will qualify to begin with.
+
+{% include pullquote.html %}
+
+**Similarly for buyers, the amount you can qualify for is lower**. There’s a direct relationship where we lose purchasing power as interest rates rise. If rates lowered, we’d see an increase in purchasing power, but this is incredibly unlikely to happen.
+
+Feel free to reach out to us if you’re looking to buy or sell a home, have any questions that you’d like answers, or would simply like some further information. We look forward to hearing from you.
