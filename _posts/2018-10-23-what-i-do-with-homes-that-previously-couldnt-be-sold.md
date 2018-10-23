@@ -19,7 +19,9 @@ youtube_code: ij-O0peBu94
 
 {% include youtube.html %}
 
-<center>I have a story to share with you that shows what I can do with homes that previously couldn’t be sold.</center>
+<center><em>I have a story to share with you that shows what I can do with homes that previously couldn&rsquo;t be sold.</em></center>
+
+&nbsp;
 
 A few months ago, I received a phone call from a home seller who was very frustrated that their property hadn’t sold.
 
