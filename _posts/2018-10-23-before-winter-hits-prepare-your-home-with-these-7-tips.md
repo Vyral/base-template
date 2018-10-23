@@ -22,7 +22,9 @@ youtube_code: gmHhEQmMzSg
 
 {% include youtube.html %}
 
-<center>Before winter hits, there are seven things you should do to prepare your home. Follow these and your home will be more than ready for the cold weather.</center>
+<center><em>Before winter hits, there are seven things you should do to prepare your home. Follow these and your home will be more than ready for the cold weather.</em></center>
+
+&nbsp;
 
 Since we’re moving through the fall season, we wanted to give you some home-maintenance tips to keep in mind over the next few months. Abiding by these will keep your property in tip-top shape and help you avoid disastrous situations from happening to your home when winter hits:
 
