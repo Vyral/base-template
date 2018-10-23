@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Got My Start in Real Estate
-date:
+date: 2018-10-23 19:43:45
 tags:
 excerpt: >-
   How I got started in real estate gave me some valuable lessons that have
@@ -28,7 +28,7 @@ After our child was born, I started dipping my toes in the water, so to speak. T
 
 How did I do it? I focused my attention on two activities specifically: Open houses and expired listings. I believe it’s important in this business to stay focused and get really good at a couple of things instead of being just OK at 50 things. In real estate, you don’t want to be a jack of all trades and a master of none.
 
-&nbsp;
+{% include pullquote.html %}
 
 First, though, I made sure I had the right mindset. I was very coachable and sought the advice of people who knew what they were doing.
 
