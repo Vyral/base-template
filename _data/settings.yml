@@ -45,7 +45,7 @@ client:
   brand: Colemere Realty Associates
   brokerage:
   address: '9661 S 700 E<br>Sandy, UT 84070'
-  office_phone: 801-272-8192
+  office_phone: (801) 272-8192
   office_email: info@colemererealty.com
   url: 'http://colemererealty.com/'
   first_CTA_text: Home Evaluation
@@ -53,7 +53,10 @@ client:
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.colemererealty.com/buy/'
   about_header: About the CRA Team
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808174';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808174';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 welcome_headline: Get Educated About Your Real Estate
 welcome_text_markdown: >-
   Our mission at Colemere Realty and Associates is to be your best resource for
