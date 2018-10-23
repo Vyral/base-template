@@ -26,7 +26,7 @@ youtube_code: gmHhEQmMzSg
 
 &nbsp;
 
-Since we’re moving through the fall season, we wanted to give you some home-maintenance tips to keep in mind over the next few months. Abiding by these will keep your property in tip-top shape and help you avoid disastrous situations from happening to your home when winter hits:
+Since we’re moving through the fall season, we wanted to give you some home maintenance tips to keep in mind over the next few months. Abiding by these will keep your property in tip-top shape and help you avoid disastrous situations from happening to your home when winter hits:
 
 **1. Take care of your gutters and downspout**. These fill with leaves and debris, so make sure they’re regularly cleaned out. If not, they can overflow with rain and lead to water intrusion, or sitting water can freeze and create an ice dam.
 
