@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_code: FbgpurFcAak
 ---
 
 {% include youtube.html %}
@@ -48,7 +48,3 @@ An important thing a CRM should do is source all your contacts. It’s important
 **With the help of a CRM, you can show up and deal with the important stuff first.** You clear these action items and get on with your day. Your only other focus is then to add to the database and CRM, causing your business to grow.
 
 If you have any questions or would like more information, feel free to contact me. I look forward to hearing from you.
-
-&nbsp;
-
-&nbsp;
