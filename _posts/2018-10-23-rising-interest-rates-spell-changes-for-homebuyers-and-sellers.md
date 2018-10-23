@@ -21,7 +21,9 @@ youtube_code: WstGRxTrmwk
 
 {% include youtube.html %}
 
-<center>We lose purchasing power as interest rates rise. Let’s talk about what this means for you.</center>
+<center><em>We lose purchasing power as interest rates rise. Let&rsquo;s talk about what this means for you.</em></center>
+
+&nbsp;
 
 As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates with more increases on the horizon, and today we’ll be talking about what this means for you as a buyer or seller.
 
