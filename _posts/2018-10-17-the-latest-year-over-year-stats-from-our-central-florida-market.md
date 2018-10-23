@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/deepak-gupta-nov-2-ss-no-play.jpg
-youtube_code: biyxOh49kvA
+youtube_code: 8Rr03UufOmg
 ---
 
 {% include youtube.html %}
