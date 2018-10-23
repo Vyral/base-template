@@ -26,7 +26,7 @@ Why would someone want to increase the equity of their home? Well, when the amou
 
 **2. Put down a bigger down payment when refinancing your home.** The bigger the down payment, the less you’ll owe the banks, and, therefore, the more equity you’ll have. Doing this could allow you to use that equity to help with emergencies that occur later down the road.
 
-**3. Do home improvements.** The the best way of increasing the equity in your current home is probably to upgrade the kitchen—the cabinets, counters, flooring, paint, vanities, and so on. Upgrading and remodeling your home could add a lot of value to it, increasing your equity in the process.
+**3. Do home improvements.** The best way of increasing the equity in your current home is probably to upgrade the kitchen—the cabinets, counters, flooring, paint, vanities, and so on. Upgrading and remodeling your home could add a lot of value to it, increasing your equity in the process.
 
 {% include pullquote.html %}
 
