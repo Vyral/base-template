@@ -30,6 +30,6 @@ Since its founding right before September 11, 2001, Team Kids has accomplished a
 
 We have recently partnered with Team Kids to develop a new program here in Orange County: the Superhero Program. Modeled after the Team Kids Challenge Program, the Superhero Program serves to involve children with their communities to create a positive impact by **learning how to support their heroes, the hungry, the homeless, and those who have undergone tragedy.** With each project, they earn stickers and are eventually launched as superheroes to address key issues.
 
-If you’d like to learn more about the Team Kids organization and see what they’re doing to create change in their communities, visit [www.TeamKids.org](http://www.teamkids.org/) and follow them on [Facebook](https://www.facebook.com/teamkids), [Instagram](https://www.instagram.com/teamkidsorg/), and [Twitter](https://twitter.com/teamkids).
+If you’d like to learn more about the Team Kids organization and see what they’re doing to create change in their communities, visit **[www.TeamKids.org](http://www.teamkids.org/)** and follow them on **[Facebook](https://www.facebook.com/teamkids)**, **[Instagram](https://www.instagram.com/teamkidsorg/)**, and **[Twitter](https://twitter.com/teamkids)**.
 
 If you think your children would be interested in participating and becoming superheroes themselves, if you have general questions for me about real estate, please feel free to reach out to me. I hope to hear from you soon.
