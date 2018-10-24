@@ -1,17 +1,20 @@
 ---
 layout: post
 title: What Questions Do You Need to Answer Before Becoming a Homebuyer?
-date:
+date: 2018-10-24 20:11:37
 tags:
   - Real Estate
-excerpt:
-enclosure:
-pullquote:
+excerpt: >-
+  There are a few questions you need to ask yourself before you decide to go
+  house hunting. Here they are.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rosie+Hayer/The+Hayer+Group-+3+Questions+to+Ask+Yourself+Before+Buying.mp4
+pullquote: You don’t need 20% to buy a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: FoGXPRftvSw
 ---
 
 {% include youtube.html %}
