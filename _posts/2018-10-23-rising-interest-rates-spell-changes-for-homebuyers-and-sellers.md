@@ -25,9 +25,9 @@ youtube_code: WstGRxTrmwk
 
 &nbsp;
 
-As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates with more increases on the horizon, and today we’ll be talking about what this means for you as a buyer or seller.
+As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates in recent months, and with more increases on the horizon, today we’ll be talking about what this means for you as a buyer or seller.
 
-Utah’s economy is growing rapidly right now with great job opportunities and growth—**things the Fed takes into account**. These will be taken into consideration when they increase interest rates, which subsequently affects our housing market and available opportunities for homebuyers and sellers.
+Utah’s economy is growing rapidly right now, partially due to our many great job opportunities. **The Fed will take this into consideration when they increase interest rates**, which subsequently affects our housing market and available opportunities for homebuyers and sellers.
 
 **As rates rise, buyers can’t qualify for the same homes they previously could**. For sellers, this makes it important to sell homes quickly. Because the buyer pool for your home will begin to drain due to increased interest, you won’t be able to get as much for your home and fewer buyers will qualify to begin with.
 
