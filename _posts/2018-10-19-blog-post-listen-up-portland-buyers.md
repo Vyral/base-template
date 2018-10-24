@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/john-hatch---oct-1-no-play.jpg
-youtube_code: zo1ZfBOzNBs
+youtube_code: 050XV-ieeV4
 ---
 
 {% include youtube.html %}
