@@ -21,7 +21,7 @@ youtube_code: Lxasml9p7UY
 
 {% include youtube.html %}
 
-Inventory is increasing in our market, and price appreciation is slowing down. This means we’re shifting toward more of a buyer’s market.
+<p style="text-align: center;"><em>Inventory is increasing in our market, and price appreciation is slowing down. This means we’re shifting toward more of a buyer’s market.</em></p>
 
 What can our rate of home sales tell us about our current market?
 
