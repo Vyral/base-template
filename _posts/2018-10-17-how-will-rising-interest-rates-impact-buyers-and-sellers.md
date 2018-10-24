@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Interest rates are on the rise, and this trend could have a significant impact
   on your real estate goals.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Andrew+Kronenberg+/Central+Pennsylvania+Real+Estate-+What+Do+Rising+Rates+Mean+for+You%253F.mp4
 pullquote: >-
   Even after the most recent increase, rates are still low compared to
   historical averages.
