@@ -32,7 +32,7 @@ Since we’re moving through the fall season, we wanted to give you some home ma
 
 **2. Maintain your windows**. As we get into the cooler months, you’ll want to make sure windows are in good shape and free from gaps, rotting wood, and other problems. While replacing windows is neither cheap nor easy, there are alternative ways to seal your windows until later seasons.
 
-**3. Keep your chimney clean**. This often slips through the to-do list for many homeowners, but neglecting to clean your chimney can be a fire hazard. Make sure to have it professional checked, swept, cleaned, and repaired (if needed). Unchecked blockages can lead to uncontrollable fires or carbon monoxide poisoning if a fireplace is lit.
+**3. Keep your chimney clean**. This often slips through the to-do list for many homeowners, but neglecting to clean your chimney can be a fire hazard. Make sure to have it professionally checked, swept, cleaned, and repaired (if needed). Unchecked blockages can lead to uncontrollable fires or carbon monoxide poisoning if a fireplace is lit.
 
 **4. Check your roof**. It’s easy to check your roof in the summer; it’s not so easy in the winter. Take a look before the snow begins to fall, or have a professional give you an evaluation and recommendations for preventative maintenance.
 
