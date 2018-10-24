@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Portland Housing Market Update for Fall
+title: 'Blog Post: Listen up Portland buyers!'
 date: 2018-10-19 14:08:00
 tags:
   - Market Update
