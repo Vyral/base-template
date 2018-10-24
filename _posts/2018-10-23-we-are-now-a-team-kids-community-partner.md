@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Now a Team Kids Community Partner
-date: 2018-10-23 16:06:17
+date: 2018-10-23 16:06:00
 tags:
 excerpt: >-
   Today, I’m here with the founder and CEO of Team Kids, Julie Hudash, to talk
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-23-team-kids-np.jpg
-youtube_code: lTlBRXEHE_c
+youtube_code: O6rs_Iti94g
 ---
 
 {% include youtube.html %}
