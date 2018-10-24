@@ -17,7 +17,9 @@ youtube_code: fDoMD83Uai4
 
 {% include youtube.html %}
 
-<center>Stop by our office on November 19 & 20 for a free pie or homemade wine!</center>
+<center><em>Stop by our office on November 19 &amp; 20 for a free pie or homemade wine!</em></center>
+
+&nbsp;
 
 It’s my favorite time of year—the time for football, food, Thanksgiving, and also our annual Pie & Wine Giveaway.
 
