@@ -21,7 +21,7 @@ youtube_code: fDoMD83Uai4
 
 &nbsp;
 
-It’s my favorite time of year—the time for football, food, Thanksgiving, and also our annual Pie & Wine Giveaway.
+It’s our favorite time of year—the time for football, food, Thanksgiving, and also our annual Pie & Wine Giveaway.
 
 **Join us at our office on November 19 and 20 between 3 PM and 6 PM, and you can receive a free pie or a bottle of homemade wine.**
 
