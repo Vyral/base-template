@@ -22,7 +22,7 @@ If you’re in the process of buying a home, there are three areas of that home 
 
 **1. Underground plumbing in older homes.** Older homes tend to have sediment or foundational issues. Any kind of movement caused by these issues can cause breakage in the underground plumbing, and this can be extremely costly to fix. You might not even know something’s wrong for a long time.&nbsp;
 
-**2. Heating and air conditioning.** A general home inspector will check this kind of thing, but they’ll only make a judgement based on the the HVAC unit’s temperature output or if they see any exterior damage. They’re not licensed to open up that unit and actually check to see if there’s any damage inside or there’s anything that could cause issues down the road. If you notice any damage or you know that your future home’s HVAC unit is an older unit, it’s a good idea to call a licensed professional to inspect it.
+**2. Heating and air conditioning.** A general home inspector will check this kind of thing, but they’ll only make a judgment based on the HVAC unit’s temperature output or if they see any exterior damage. They’re not licensed to open up that unit and actually check to see if there’s any damage inside or there’s anything that could cause issues down the road. If you notice any damage or you know that your future home’s HVAC unit is an older unit, it’s a good idea to call a licensed professional to inspect it.
 
 {% include pullquote.html %}
 
