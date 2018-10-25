@@ -33,7 +33,7 @@ The good news is that **our supply of inventory is increasing.** After years of 
 
 As more inventory enters the market, buyers have more options. **The signs are pointing to a market that’s shifting toward buyers, but in most areas, we’re still a long way from a full reversal from a seller’s market to a buyer’s market.** Prices aren’t dropping, but the rate of appreciation is decelerating. Prices are a reflection of supply and demand, so as supply increases relative to demand, prices will naturally slow down.
 
-The last couple of weeks, I’ve seen a complete halt of sales for properties whose bathrooms and kitchens haven’t been updated in over 25 years. Buyers nowadays want everything done for them right as they walk into a property, so the slowdown in price appreciation isn’t just because there are more buyers on the market, but also because buyers are pickier than ever.
+The last couple of weeks, I’ve seen a complete halt of sales for properties with bathrooms and kitchens that haven’t been updated in over 25 years. Buyers nowadays want everything done for them right as they walk into a property, so the slowdown in price appreciation isn’t just because there are more buyers on the market, but also because buyers are pickier than ever.
 
 {% include pullquote.html %}
 
