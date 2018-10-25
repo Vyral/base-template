@@ -33,16 +33,11 @@ While most think of CRM as a way to keep track of sales and other things, we see
 A good system will give you:
 
 1. A clear overview of your customers
-
 2. The ability to see everything in one place
-
 3. A customizable dashboard
-
 4. Previous history with customers
-
 5. Order status
-
-6. Outstanding customer services issues
+6. Outstanding customer service issues
 
 Other CRMs can be quite expensive, though they often offer many additional features. These are primarily meant for those who are managing large teams.
 
