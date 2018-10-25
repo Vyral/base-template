@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Avoid the Capital Gains Tax
-date: 2018-10-25 17:48:24
+date: 2018-10-25 17:48:00
 tags:
   - Real Estate
 excerpt: >-
   There are ways you can avoid paying a capital gains tax, and we’ll show you
   how.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+%257C+How+to+Avoid+the+Capital+Gains+Tax.mp4
 pullquote: >-
   Capital gains taxes will only be paid on value increases from after the
   inherence of a property.
