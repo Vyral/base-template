@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ensure a Fun and Safe Halloween With These 4 Tips
-date:
+date: 2018-10-25 19:46:47
 tags:
   - Real Estate
 excerpt: >-
