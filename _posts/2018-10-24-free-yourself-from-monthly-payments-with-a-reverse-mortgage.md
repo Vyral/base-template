@@ -19,11 +19,9 @@ youtube_alternate_image: /uploads/10-24-reverse-mortgage-np.jpg
 youtube_code: Us1FadaIgTU
 ---
 
-{% include youtube.html %}
+{% include youtube.html %}<br>Did you know if you’re 60 years old, you can buy a house and have no house payments? It’s called a reverse mortgage and today, **Kathy Burns from On Q Financial** will be telling us more about it.
 
-Did you know if you’re 60 years old, you can buy a house and have no house payments? It’s called a reverse mortgage and today, **Kathy Burns from On Q Financial** will be telling us more about it.
-
-<br>With the reverse mortgage purchase program, clients are typically required to bring in a 50% to 60% cash down payment. **There is also a flexible payment option, meaning they can make a full payment, partial payment, or even no payment.** It all helps to increase their monthly cash flow while still allowing them to enjoy homeownership.
+With the reverse mortgage purchase program, clients are typically required to bring in a 50% to 60% cash down payment. **There is also a flexible payment option, meaning they can make a full payment, partial payment, or even no payment.** It all helps to increase their monthly cash flow while still allowing them to enjoy homeownership.
 
 {% include pullquote.html %}
 
