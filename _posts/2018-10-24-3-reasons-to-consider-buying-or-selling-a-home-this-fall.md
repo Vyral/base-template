@@ -22,11 +22,11 @@ youtube_code: 7h5TYq70Lbc
 
 {% include youtube.html %}
 
-Are you seeing fewer for-sale signs now that the summer is over? If so, that can be great news for buyers who are looking to purchase a property or sellers who want to sell their old property to purchase a new one. If you think you’ve missed the boat on making that move this year, we’re here to tell you that buying or selling this fall can work for you. **Here are three great reasons to consider it:**
+Are you seeing fewer "for-sale" signs now that the summer is over? If so, that can be great news for buyers who are looking to purchase a property or sellers who want to sell their old property in order to purchase a new one. If you think you’ve missed the boat on making that move this year, we’re here to tell you that buying or selling this fall can work for you. **Here are three great reasons to consider it:**
 
 **1. Tax breaks.** If you're a homebuyer who closes before December 31, you may get a nice write-off on your taxes. Any payments made prior to the closing of your loan are tax-deductible. There are also potential tax breaks for home sellers. Your closing costs and home improvements can be great write-offs as well.
 
-<br>**2.  The right price.** If you're a seller and establish a smart pricing strategy, your home could stand out from the crowd and sell quickly while other homes are languishing on the market. Buyers may also have a better time getting a home within their budget because when there’s less competition for homes, there’s less of a chance of a bidding war or a sale above asking price.
+<br>**2. &nbsp;The right price.** If you're a seller and establish a smart pricing strategy, your home could stand out from the crowd and sell quickly while other homes are languishing on the market. Buyers may also have a better time getting a home within their budget because when there’s less competition for homes, there’s less of a chance of a bidding war or a sale above asking price.
 
 {% include pullquote.html %}
 
