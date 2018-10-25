@@ -21,7 +21,7 @@ youtube_code: e1vaHG4Fdv0
 
 {% include youtube.html %}
 
-On our most recent installment of “Facebook Live Friday,” we discussed three types of storm damage homeowners should be aware of: Hail damage, wind damage, and water damage.
+On our most recent installment of “Facebook Live Friday,” we discussed three types of storm damage homeowners should be aware of: hail damage, wind damage, and water damage.
 
 If you didn’t catch this great interview when it was live, don’t worry. We’ll be sharing the highlights from the Q&A session here for you today.
 
