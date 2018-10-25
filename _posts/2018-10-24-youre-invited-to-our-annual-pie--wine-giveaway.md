@@ -12,14 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-nov-1-ss-no-play.jpg
-youtube_code: fDoMD83Uai4
+youtube_code: hz1_whHZY9Y
 ---
 
 {% include youtube.html %}
 
 <center><em>Stop by our office on November 19 &amp; 20 for a free pie or homemade wine!</em></center>
 
-&nbsp;
+ 
 
 It’s our favorite time of year—the time for football, food, Thanksgiving, and also our annual Pie & Wine Giveaway.
 
