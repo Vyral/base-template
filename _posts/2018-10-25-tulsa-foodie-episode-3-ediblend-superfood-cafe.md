@@ -26,7 +26,7 @@ The idea for Ediblend Superfood Cafe began years ago when Piper and Amy, who are
 
 Eventually, they started making cleanses for these people and, before they knew it, **they started receiving text messages and calls from total strangers who were interested in their product.** So they bought up all the mason jars and shower caddies they could find, then started making and packaging cleanses from a playroom in Piper’s home that they had converted into a kitchen.
 
-{% include pullquote.html %}<br>That coming summer, they moved their operation into a test kitchen they had rented out, and, lo and behold, they completely sold out for the season. Their satisfied customers couldn’t stop raving about their experience, so Piper and Amy knew it was time to open a permanent location. Now, **since opening in 2014, the Ediblend Superfood Cafe has two locations and a massive fan base here in Tulsa.**
+{% include pullquote.html %}That coming summer, they moved their operation into a test kitchen they had rented out, and, lo and behold, they completely sold out for the season. Their satisfied customers couldn’t stop raving about their experience, so Piper and Amy knew it was time to open a permanent location. Now, **since opening in 2014, the Ediblend Superfood Cafe has two locations and a massive fan base here in Tulsa.**
 
 Looking at their wide range of healthy and delicious blends, like the Sweet Green, 1717, and Sexy Yowza, it’s no wonder why. And though these juice blends are where they got their start, the Ediblend Superfood Cafe has a lot more to offer. When you visit their restaurant, you can also enjoy great salads or one of their customizable a&ccedil;a&iacute; bowls. Best of all, everything in the cafe is made fresh every single day.&nbsp;
 
