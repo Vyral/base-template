@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Best Car to Drive as a Real Estate Agent
-date: 2018-10-25 14:28:21
+date: 2018-10-25 14:28:00
 tags:
   - Real Estate
 excerpt: >-
   Your vehicle is part of your image, so you want it to leave a good impression.
   I’ll show you how.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Frank+Gray/Abby+Realty-+The+Best+Car+to+Drive+as+a+Real+Estate+Agent.mp4
 pullquote: It’s important to look for the sweet spot.
 enclosure_type: video/mp4
 enclosure_time:
