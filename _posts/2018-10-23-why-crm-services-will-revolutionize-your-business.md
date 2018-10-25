@@ -42,7 +42,7 @@ A good system will give you:
 
 5. Order status
 
-6. Outstanding customer service issues
+6. Outstanding customer services issues
 
 Other CRMs can be quite expensive, though they often offer many additional features. These are primarily meant for those who are managing large teams.
 
