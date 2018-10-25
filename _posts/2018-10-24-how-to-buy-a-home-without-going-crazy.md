@@ -26,6 +26,6 @@ How can you find your new dream home without losing your mind? Well, here are th
 2. **Consider only your top three contenders.** This helps keep things in perspective so you don’t stretch yourself too thin trying to keep up with all those listings.
 3. **Stop looking at listings, already!** Once you’ve found your top three, the rest aren't for you. Just move on.
 
-If you have any questions about buying a home or would like more tips on how to make the homebuying process easier, feel free to reach out to me.
+If you have any questions about buying a home or would like more tips on how to make the home buying process easier, feel free to reach out to me.
 
 &nbsp;
