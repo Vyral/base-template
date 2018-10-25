@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   I’m taking a break from real estate today to talk about the sacrifices our
   veterans have made for our country.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jason+Cadwell/Oregon+Real+Estate-+Reflecting+on+Veterans+Day.mp4
 pullquote: We always want to extend our gratitude to those who have served.
 enclosure_type: video/mp4
 enclosure_time:
