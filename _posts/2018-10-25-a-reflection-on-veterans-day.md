@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Reflection on Veterans Day
-date: 2018-10-25 19:09:16
+date: 2018-10-25 19:09:00
 tags:
 excerpt: >-
   I’m taking a break from real estate today to talk about the sacrifices our
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: sQi3vSS77CQ
 ---
 
 {% include youtube.html %}
@@ -28,5 +28,3 @@ I’ve never served in the military, but I am incredibly passionate toward those
 **We support our veterans and if you are looking to donate to a cause, we recommend donating to [Honor Flight](https://www.honorflight.org/).** They do everything they can to make sure that veterans can see DC’s memorials, because the reality is, many veterans die every day and many do not receive the appreciation they need and deserve.
 
 We thank those who have served this Veterans Day. We invite you to take a moment to remember those who have made the ultimate sacrifice for our country.
-
-&nbsp;
