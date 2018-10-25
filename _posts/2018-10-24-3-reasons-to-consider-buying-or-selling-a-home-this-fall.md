@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to Consider Buying or Selling a Home This Fall
-date: 2018-10-24 19:29:34
+date: 2018-10-24 19:29:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -15,7 +15,7 @@ pullquote: >-
   the homes that are listed.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/10-23-buy-or-sell-this-fall-yt.jpg
 youtube_code: 7h5TYq70Lbc
 ---
@@ -26,7 +26,7 @@ Are you seeing fewer "for-sale" signs now that the summer is over? If so, that c
 
 **1. Tax breaks.** If you're a homebuyer who closes before December 31, you may get a nice write-off on your taxes. Any payments made prior to the closing of your loan are tax-deductible. There are also potential tax breaks for home sellers. Your closing costs and home improvements can be great write-offs as well.
 
-**2. &nbsp;The right price.** If you're a seller and establish a smart pricing strategy, your home could stand out from the crowd and sell quickly while other homes are languishing on the market. Buyers may also have a better time getting a home within their budget because when there’s less competition for homes, there’s less of a chance of a bidding war or a sale above asking price.
+**2.  The right price.** If you're a seller and establish a smart pricing strategy, your home could stand out from the crowd and sell quickly while other homes are languishing on the market. Buyers may also have a better time getting a home within their budget because when there’s less competition for homes, there’s less of a chance of a bidding war or a sale above asking price.
 
 {% include pullquote.html %}
 
