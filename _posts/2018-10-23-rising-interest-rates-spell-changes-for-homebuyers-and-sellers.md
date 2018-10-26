@@ -23,7 +23,7 @@ youtube_code: 7NF4lsMwO9I
 
 <center><em>We lose purchasing power as interest rates rise. Let&rsquo;s talk about what this means for you.</em></center>
 
- 
+&nbsp;
 
 As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates in recent months, and with more increases on the horizon, today we’ll be talking about what this means for you as a buyer or seller.
 
@@ -33,6 +33,8 @@ Utah’s economy is growing rapidly right now, partially due to our many great j
 
 {% include pullquote.html %}
 
-**Similarly for buyers, the amount you can qualify for is lower**. There’s a direct relationship where we lose purchasing power as interest rates rise. If rates lowered, we’d see an increase in purchasing power, but this is incredibly unlikely to happen.
+**Similarly for buyers, the amount you can qualify for is lower**. There’s a direct relationship where we lose purchasing power as interest rates rise. If rates lowered, we’d see an increase in purchasing power, but this is incredibly unlikely to happen. This is illustrated on the graph below.
+
+![](/uploads/interest-payments.jpeg)
 
 Feel free to reach out to us if you’re looking to buy or sell a home, have any questions that you’d like answers, or would simply like some further information. We look forward to hearing from you.
