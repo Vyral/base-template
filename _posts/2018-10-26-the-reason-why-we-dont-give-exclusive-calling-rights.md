@@ -22,12 +22,12 @@ youtube_code: MYYGIilQ4pE
 
 Today I’m answering a question we often hear from prospective clients: “Do I get exclusive calling rights in my area?”
 
-This is a common question because Realtors and other business owners want to know if they have a competitor that has already hired us in their city.
+**This is a common question because Realtors and other business owners want to know if they have a competitor that has already hired us in their city.**
 
-We don’t give exclusive rights to any one area and here’s the reason why. We’re calling based on your data, not theirs. We’ll certainly tell you if we’re working with someone in your industry or in your city, but you don’t need need exclusive rights to your area if you’re working with us because you’re providing the data to us to do the calling.
+We don’t give exclusive rights to any one area and here’s the reason why. We’re calling based on your data, not theirs. We’ll certainly tell you if we’re working with someone in your industry or in your city, but **you don’t need need exclusive rights to your area if you’re working with us because you’re providing the data to us to do the calling.**
 
 {% include pullquote.html %}
 
-If you are the first person who is scaling up outbound prospecting in your area and you hire us, it’s definitely a competitive advantage. However, we do have multiple clients in the same market and exclusive calling rights have never been an issue.
+If you are the first person who is scaling up outbound prospecting in your area and you hire us, it’s definitely a competitive advantage. **However, we do have multiple clients in the same market and exclusive calling rights have never been an issue.**
 
 If you have any questions or you’re interested in scaling up your outbound calling, give us a call or send us an email today to see if we could be a fit together. We would love to hear from you.
