@@ -35,7 +35,9 @@ Utah’s economy is growing rapidly right now, partially due to our many great j
 
 **Similarly for buyers, the amount you can qualify for is lower**. There’s a direct relationship where we lose purchasing power as interest rates rise. If rates lowered, we’d see an increase in purchasing power, but this is incredibly unlikely to happen. This is illustrated on the graph below.
 
-<center>![](/uploads/interest-payments-1.jpeg)</center>
+<center>&nbsp;</center>
+
+![](/uploads/interest-payments-2.jpeg)
 
 &nbsp;
 
