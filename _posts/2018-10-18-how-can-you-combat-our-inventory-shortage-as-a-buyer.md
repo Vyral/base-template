@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Combat Our Inventory Shortage as a Buyer?
-date: 2018-10-18 16:41:18
+date: 2018-10-18 16:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8DdLuydI508
+youtube_code: 3l3slgvOSmI
 ---
 
 {% include youtube.html %}
