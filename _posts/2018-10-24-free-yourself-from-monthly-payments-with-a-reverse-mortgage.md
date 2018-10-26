@@ -21,7 +21,7 @@ youtube_code: Us1FadaIgTU
 
 “With a reverse mortgage purchase program, clients are typically required to bring in 50% to 60% cash down payment. And the unique thing about it is it comes with a flexible payment option, meaning they can make a full payment, a partial payment, or no payment—**which can really beef up their monthly cash flow while still enjoying homeownership.**
 
-And if they’re looking to buy their dream retirement home, we also have a bunch of new jumbo products that recently came on the market with low closing costs as well.”<br>&nbsp;
+And if they’re looking to buy their dream retirement home, we also have a bunch of new jumbo products that recently came on the market with low closing costs as well.”
 
 {% include pullquote.html %}
 
