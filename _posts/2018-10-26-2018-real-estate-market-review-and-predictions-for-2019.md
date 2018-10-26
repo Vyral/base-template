@@ -19,7 +19,7 @@ youtube_code: PlopNxqepqw
 
 {% include youtube.html %}
 
-We’re still in a seller’s market, but there are signs out there that we could be seeing a shift soon. Here’s what you need to know.
+<p style="text-align: center;"><em>We’re still in a seller’s market, but there are signs out there that we could be seeing a shift soon. Here’s what you need to know.</em></p>
 
 A lot of people have been asking me about the market lately. The one question I keep hearing constantly is, “Was 2018 a seller’s market or a buyer’s market?”
 
