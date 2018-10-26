@@ -32,7 +32,7 @@ Did you hear the collective cheers of parents across the land as school started 
 
 THANK YOU again for choosing The Larkin Group for your real estate adventures! We’re honored and hope to see you Friday!
 
-<p style="text-align: center; font-size: 36px;"><img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="80" height="80" alt="Pizza"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #E61803"></a></p>
+<p style="text-align: center; font-size: 36px;"><img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="80" height="80" alt="Pizza"><a href="https://bit.ly/2MgAnLm" target="_blank" style="color: #E61803"><strong>RSVP HERE!<img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/ce3d9dcb65554d8d643c8298de344590.png" width="80" height="80" alt="Pizza"></strong></a></p>
 
 Thanks to our amazing sponsors!
 
