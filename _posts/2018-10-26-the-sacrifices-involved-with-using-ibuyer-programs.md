@@ -21,7 +21,7 @@ youtube_code: up55zOuM19g
 
 {% include youtube.html %}
 
-Many home sellers are considering a quick and painless sale with an iBuyer program. Here are the pros and cons of using these as a home-selling solution.
+<p style="text-align: center;"><em>Many home sellers are considering a quick and painless sale with an iBuyer program. Here are the pros and cons of using these as a home-selling solution.</em></p>
 
 **I want to make sure that you’re not leaving money on the table when it comes time to sell your home.** You’ve probably seen a lot of iBuyer programs out there from companies like OpenDoor, OfferPad, and Zillow.
 
