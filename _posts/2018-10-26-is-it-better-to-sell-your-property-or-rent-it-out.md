@@ -19,7 +19,7 @@ youtube_code: f3qi7zGJsfw
 
 {% include youtube.html %}
 
-Today, we’ll be examining whether it’s better to sell or to rent your property out once you move on to a new home.
+<p style="text-align: center;"><em>Today, we’ll be examining whether it’s better to sell or to rent your property out once you move on to a new home.</em></p>
 
 If you’ve been thinking of moving, you may be wondering whether it’s better to sell your current property or to simply start renting it out once you’re in your new home. Today, we’ll go over a few points that may help you decide.&nbsp;
 
