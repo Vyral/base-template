@@ -33,11 +33,9 @@ My message today is for our friends and past clients, their parents, and anyone 
 
 In any case, **here are three important steps to prepare yourself now in light of our oncoming shift:**
 
-Start your research by enlisting professional help from a full-time real estate consultant who’s in the market daily and has confident knowledge and long-term experience in your market. This needs to be someone you can trust and who will listen to you.<br>&nbsp;
-
-Lay out your ideal goals and reasons on a timeline, regardless of how far out you need to go.<br>&nbsp;
-
-Before you share your planned timeline with anyone, especially family members, meet with your real estate consultant and build a realistic plan of action.
+1. Start your research by enlisting professional help from a full-time real estate consultant who’s in the market daily and has confident knowledge and long-term experience in your market. This needs to be someone you can trust and who will listen to you.
+2. Lay out your ideal goals and reasons on a timeline, regardless of how far out you need to go.
+3. Before you share your planned timeline with anyone, especially family members, meet with your real estate consultant and build a realistic plan of action.
 
 We’d love to be the ones to help you prepare and get ahead of the market, so if you have any questions about this topic, don’t hesitate to reach out to us. We look forward to hearing from you.
 
