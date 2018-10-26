@@ -1,9 +1,8 @@
 ---
 layout: post
 title: The Reason Why We Don’t Give Exclusive Calling Rights
-date:
+date: 2018-10-26 15:05:51
 tags:
-  - 1000 Calls A Day
 excerpt: >-
   Exclusive calling rights are a hot-button topic among our potential customers.
   Here’s what we think about their importance.
