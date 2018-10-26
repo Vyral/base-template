@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-and-scott-colemere-nov-1-screen-shot-no-play.jpg
-youtube_code: WstGRxTrmwk
+youtube_code: 7NF4lsMwO9I
 ---
 
 {% include youtube.html %}
 
 <center><em>We lose purchasing power as interest rates rise. Let&rsquo;s talk about what this means for you.</em></center>
 
-&nbsp;
+ 
 
 As you may know, the cost of financing a home has been going up. The Federal Reserve has been raising interest rates in recent months, and with more increases on the horizon, today we’ll be talking about what this means for you as a buyer or seller.
 
