@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Seniors—Downsize Before the Market SHIFT
-date:
+date: 2018-10-26 15:32:16
 tags:
   - Market Update
   - Real Estate
