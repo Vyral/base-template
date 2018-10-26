@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Questions to Ask an Agent Before Hiring Them
-date:
+date: 2018-10-26 15:15:46
 tags:
   - Real Estate
 excerpt: >-
