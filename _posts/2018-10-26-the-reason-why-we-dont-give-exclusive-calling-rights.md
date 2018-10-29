@@ -24,7 +24,7 @@ Today I’m answering a question we often hear from prospective clients: “Do I
 
 **This is a common question because Realtors and other business owners want to know if they have a competitor that has already hired us in their city.**
 
-We don’t give exclusive rights to any one area and here’s the reason why. We’re calling based on your data, not theirs. We’ll certainly tell you if we’re working with someone in your industry or in your city, but **you don’t need need exclusive rights to your area if you’re working with us because you’re providing the data to us to do the calling.**
+We don’t give exclusive rights to any one area and here’s the reason why: We’re calling based on your data, not theirs. We’ll certainly tell you if we’re working with someone in your industry or in your city, but **you don’t need exclusive rights to your area if you’re working with us because you’re providing the data to us to do the calling.**
 
 {% include pullquote.html %}
 
