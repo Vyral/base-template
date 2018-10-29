@@ -25,9 +25,9 @@ A lot of people have been asking me about the market lately. The one question I 
 
 **When looking at all the numbers across the board, I lean toward saying 2018 was more of a seller’s market.** Although interest rates have been creeping up and we have a feeling we are going to start seeing a shift in the market, I don’t think it will be anything crazy. At the same time, things will certainly change.
 
-Back in 2008 and 2009 we saw the bottom of our market in the Charlotte area. This is when we saw the huge increase in short sales and foreclosures. After that, we saw a steady increase that takes us to where we are today. We’re on about a nine to 10 year increase in home prices right now. **As most people know, real estate tends to operate in cycles that are usually about this long.**
+Back in 2008 and 2009 we saw the bottom of our market in the Charlotte area. This is also when we saw a huge increase in short sales and foreclosures. After that, we saw a steady increase that takes us to where we are today. We’re on about a nine to 10-year increase in home prices right now. **As most people know, real estate tends to operate in cycles that are usually about this long.**
 
-What are some signs out there of this shift? For starters, we’ve seen about double the amount of expired listings than we saw last year. Home sales are still about equal and pricing has continued to go up for the time being, but in some areas, days on market are starting to creep up.&nbsp;
+What are some signs out there of this shift? For starters, we’ve seen about double the amount of expired listings compared to last year. Home sales are still about equal and pricing has continued to go up for the time being, but in some areas, days on market are starting to creep up.&nbsp;
 
 {% include pullquote.html %}
 
