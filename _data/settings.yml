@@ -53,7 +53,12 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://info.searchhomesonthecarolinacoast.com/search'
+    CTA_url2: 'https://homes.starteamrealestate.com/idx/search/basic'
+  - CTA_image_path2:
+    CTA_title2:
+    CTA_text2:
+    CTA_link_text2:
+    CTA_url2:
 lender:
   show_section: false
   header_text: Preferred Lender
