@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If certain situations, you’ll want to order extra inspections for some areas
   of a home you plan on buying.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+What+You+Dont+Know+Can+Hurt+You.mp4
 pullquote: A pound of prevention beats a pound of cure.
 enclosure_type: video/mp4
 enclosure_time:
