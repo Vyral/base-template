@@ -23,4 +23,6 @@ youtube_code: osAdqR0YgPE
 
 {% include pullquote.html %}
 
-We recently had the pleasure of hosting our first ever client appreciation event at the Minnesota Zoo, and we want to thank everyone who showed up to help us celebrate. We had a great lunch, toured the zoo with all of our wonderful past clients, and did a live drawing for a free RCI vacation certificate. We had an absolute blast, and we’re grateful for your trust and your referrals. Remember, if there’s ever anything we can do to help you achieve your real estate goals, don’t hesitate to reach out to us.
+We recently had the pleasure of hosting our first ever client appreciation event at the Minnesota Zoo, and we want to thank everyone who showed up to help us celebrate. We had a great lunch, toured the zoo with all of our wonderful past clients, and did a live drawing for a free RCI vacation certificate. We had an absolute blast, and we’re grateful for your trust and your referrals.
+
+Remember, if there’s ever anything we can do to help you achieve your real estate goals, don’t hesitate to reach out to us.
