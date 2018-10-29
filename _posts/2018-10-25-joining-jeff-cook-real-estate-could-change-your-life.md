@@ -21,7 +21,7 @@ youtube_code: TMVjQyKlLrc
 
 {% include youtube.html %}
 
-Getting started in a career in real estate can be simpler than you might think. If you’re tenacious, have a go-getter attitude, and are interested in taking your life and business to the next level, then entering the real estate industry might be the best next step for you.
+Starting a career in real estate can be easier than you may think. If you’re tenacious, have a go-getter attitude, and are interested in taking your life and business to the next level, then entering the real estate industry might be the best next step for you.
 
 In real estate, the sky's the limit. You can make however much you like in this career, so long as you’re willing to put the time and energy into earning it.
 
