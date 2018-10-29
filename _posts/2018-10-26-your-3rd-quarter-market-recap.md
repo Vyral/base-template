@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 3rd Quarter Market Recap
-date: 2018-10-22 15:26:16
+date: 2018-10-26 15:26:00
 tags:
   - Real Estate
 excerpt: >-
