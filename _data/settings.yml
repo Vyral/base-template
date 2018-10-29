@@ -37,10 +37,9 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: >-
-    http://info.searchhomesonthecarolinacoast.com/homevalue/crystalcoastbluewater
+  first_CTA_URL: 'https://www.starteamrealestate.com/your-homes-value/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://info.searchhomesonthecarolinacoast.com/search'
+  second_CTA_URL: 'https://homes.starteamrealestate.com/idx/search/basic'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
