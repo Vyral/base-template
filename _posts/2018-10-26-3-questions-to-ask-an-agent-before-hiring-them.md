@@ -21,7 +21,7 @@ youtube_code: WQ6UOgUYxes
 
 {% include youtube.html %}
 
-As a homebuyer, here are three questions you must ask an agent before you hire them:
+As a homebuyer, there are three questions you must ask an agent before you hire them:
 
 **1. How many homes have you sold in the last 12 months?**
 
