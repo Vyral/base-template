@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: 'http://info.searchhomesonthecarolinacoast.com/featured/'
+    url: 'https://homes.starteamrealestate.com/idx/featured'
   - title: Property Search
-    url: 'http://info.searchhomesonthecarolinacoast.com/'
+    url: 'https://homes.starteamrealestate.com/idx/search/basic'
 client:
   name:
   license_number:
