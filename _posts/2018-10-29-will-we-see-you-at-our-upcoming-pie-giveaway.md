@@ -17,7 +17,7 @@ youtube_code: 3tf_Ywjta44
 
 {% include youtube.html %}
 
-Our annual Pie Giveaway is coming up. Will we see you there?
+<p style="text-align: center;"><em>Our annual Pie Giveaway is coming up. Will we see you there?</em></p>
 
 Here at Radke Agency and Associates, Fall is our favorite time of year. And with Thanksgiving just around the corner, we’re excited to announce that, once again, we’ve got your Turkey Day dessert covered.
 
