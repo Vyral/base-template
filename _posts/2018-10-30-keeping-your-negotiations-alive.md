@@ -32,3 +32,7 @@ And it worked! Somehow, we were able to bring the buyer and seller together. **S
 These kinds of negotiations can be stressful for clients. I think they get so wrapped up in what they want that they become blinded to the steps it will take to make it happen. But these things don’t just happen.<br><br>The bottom line is that when you get an offer, you need to respond to it. If you get another response, respond to it again. **Keep it alive as long as you can.**
 
 If you have any questions about negotiations or about real estate in general, feel free to reach out to me. I’d be glad to help you out.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
