@@ -18,13 +18,22 @@ youtube_code: D4L7lVFE8g8
 ---
 
 {% include youtube.html %}
+{: .present-before-paste}
+
+[![](/uploads/unnamed.jpg)](https://www.eventbrite.com/e/salt-lake-business-planning-clinic-tickets-50613511375){: target="_blank"}
+{: .present-before-paste}
 
 It’s already November and the new year is right around the corner. **Have you completed your business plan for 2019 yet?** Do you even know what to put in it? Wouldn't you like to know what successful real estate agents are doing to track their business and how they’re tracking their goals to turn into actionable business plans?
+{: .present-before-paste}
 
 {% include pullquote.html %}
+{: .present-before-paste}
 
 **You can learn the answers to all of these questions at our upcoming business planning event with Matt and Marcus Green.** This event is going to be on Tuesday, November 6, from &nbsp;9 a.m. to 5 p.m. at the Salt Lake Board Auditorium (230 W. Towne Ridge Pkwy Sandy, UT 84070).
+{: .present-before-paste}
 
 If you’d like to join me at this class, you will come out of it with a strong business plan for 2019. I’d be happy to take you as my guest. **Just give me a call or send me an email by November 2 and I’d love to reserve a spot for you.**
+{: .present-before-paste}
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+{: .present-before-paste}
