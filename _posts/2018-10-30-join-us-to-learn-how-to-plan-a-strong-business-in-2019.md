@@ -20,7 +20,7 @@ youtube_code: D4L7lVFE8g8
 {% include youtube.html %}
 {: .present-before-paste}
 
-[![](/uploads/unnamed.jpg){.post-image}](https://www.eventbrite.com/e/salt-lake-business-planning-clinic-tickets-50613511375){: target="_blank"}
+[![](/uploads/unnamed.jpg)](https://www.eventbrite.com/e/salt-lake-business-planning-clinic-tickets-50613511375){: target="_blank"}
 {: .present-before-paste}
 
 It’s already November and the new year is right around the corner. **Have you completed your business plan for 2019 yet?** Do you even know what to put in it? Wouldn't you like to know what successful real estate agents are doing to track their business and how they’re tracking their goals to turn into actionable business plans?
