@@ -28,7 +28,7 @@ A good real estate investor needs a good team. There are a lot of moving factors
 
 **3. Get a good property manager.** A great property manager is incredibly important because it’s a choice about whether to work or not, earn a passive income or not, etc. A responsive property manager will free your hands from landlord duties, provide you detailed reports, and generally make your life easier.
 
-**4. Find the right agent.** Not every agent in this world is built the same. Your investment agent is different from the one you use to buy or sell your home. Because you’re thinking critically about investment opportunities, you need someone who isn’t just looking for an immediate sale. **This agent will be part of a long-term investment relationship.** They’ll need to find the right properties for you, sift through deals both good and bad, and ultimately position you to hit a home run.
+**4. Find the right agent.** Not every agent in this world is built the same. Your investment agent is different from the one you use to buy or sell your home. Because you’re thinking critically about investment opportunities, you need someone who isn’t just looking for an immediate sale. This agent will be part of a long-term investment relationship. They’ll need to find the right properties for you, sift through deals both good and bad, and ultimately position you to hit a home run.
 
 There are other aspects of building your team, but these four key components will get you to an ideal launch pad. If you have any questions about real estate or investment, would like to locate people for your team, or need additional information, feel free to contact me. I look forward to hearing from you.
 
