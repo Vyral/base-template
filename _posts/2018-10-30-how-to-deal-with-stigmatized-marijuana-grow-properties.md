@@ -20,7 +20,7 @@ youtube_code: FqZaopf9k40
 
 {% include youtube.html %}
 
-Marijuana grow ops are still stigmatized in our area even though marijuana is now legal. Here is some helpful information on these types of homes and some tips for how to deal with buying and/or selling them.
+<p style="text-align: center;"><em>Marijuana grow ops are still stigmatized in our area even though marijuana is now legal. Here is some helpful information on these types of homes and some tips for how to deal with buying and/or selling them.</em></p>
 
 This week’s topic is going to be about stigmatized properties, particularly marijuana grow ops. Now that marijuana is legal in Canada, I wanted to talk about how this affects your real estate investments.
 
