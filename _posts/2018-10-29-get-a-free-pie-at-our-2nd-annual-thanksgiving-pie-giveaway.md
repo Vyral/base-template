@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get a Free Pie at Our 2nd Annual Thanksgiving Pie Giveaway
-date: 2018-10-29 18:47:12
+date: 2018-10-29 18:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,13 +12,13 @@ pullquote: We hope to see you there!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/have-a-free-pie-on-us-youtube.jpg
+youtube_alternate_image: /uploads/new-have-a-free-pie-on-us-youtub-new.jpg
 youtube_code: 'https://youtu.be/7juKpWYdYTI'
 ---
 
 {% include youtube.html %}
 
-To thank all of our wonderful clients, both past and present, we’re excited to announce that we’re hosting our second annual Thanksgiving pie giveaway on November 20.&nbsp;
+To thank all of our wonderful clients, both past and present, we’re excited to announce that we’re hosting our second annual Thanksgiving pie giveaway on November 20. 
 
 You’re eligible to receive a free pie whether you’re a current client or a past client. **All you need to do is reach out to us by November 9 and let us know your pie of choice.** You can choose from apple, pumpkin, peach, or pecan pie.
 
