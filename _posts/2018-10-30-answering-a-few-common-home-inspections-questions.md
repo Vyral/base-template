@@ -20,7 +20,7 @@ youtube_code: DF823gJ-9S8
 
 {% include youtube.html %}
 
-Expert home inspector Dan Sladek recently met up with us for a Q&A session about the inspection process, and we’ll be sharing highlights of that discussion with you today.
+<p style="text-align: center;"><em>Expert home inspector Dan Sladek recently met up with us for a Q&A session about the inspection process, and we’ll be sharing highlights of that discussion with you today.</em></p>
 
 A lot of buyers and sellers have no idea what to expect from the home inspection process. So to help clear up some of this confusion, I recently met with Dan Sladek of Perfection Home Inspection for some insight on the subject.&nbsp;
 
