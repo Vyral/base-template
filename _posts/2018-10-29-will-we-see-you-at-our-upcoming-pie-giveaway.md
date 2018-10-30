@@ -19,7 +19,7 @@ youtube_code: 3tf_Ywjta44
 
 <p style="text-align: center;"><em>Our annual Pie Giveaway is coming up. Will we see you there?</em></p>
 
-Here at Radke Agency and Associates, Fall is our favorite time of year. And with Thanksgiving just around the corner, we’re excited to announce that, once again, we’ve got your Turkey Day dessert covered.
+Here at Radke Agency and Associates, fall is our favorite time of year. And with Thanksgiving just around the corner, we’re excited to announce that, once again, we’ve got your Turkey Day dessert covered.
 
 That’s right—on Thursday, November 20 from 3:30 p.m. to 6:30 p.m., we’ll be hosting our annual Pie Giveaway to thank you for your continued support.
 
