@@ -9,10 +9,7 @@ excerpt: >-
   discuss the pros and cons of each.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/Videos/2018/The+Dee+Team+-+The+Pros+and+Cons+of+Hiring+a+Handyman+vs.+a+Contractor.mp4
-pullquote: >-
-  A friend of mine hired a handyman to do some electrical work at their house,
-  but the person working ending up installing fixtures incorrectly and started a
-  small fire.
+pullquote: 'In general, the price for a contractor is higher than a handyman.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -24,7 +21,7 @@ youtube_code: rOcIagVJL70
 
 <center><em>What&rsquo;s the difference between hiring a contractor and a handyman? Today I&rsquo;ll discuss the pros and cons of each.</em></center>
 
-&nbsp;
+ 
 
 A handyman is someone who probably does their work as a side job and isn’t very good at the craft overall. One of the pros, however, of working with a handyman is that **it will be easier to find someone who is available**; they won’t likely be as booked up as a contractor might be. Further still, their services tend to be cheaper.
 
