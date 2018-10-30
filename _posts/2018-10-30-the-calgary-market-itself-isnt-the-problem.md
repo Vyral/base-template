@@ -22,7 +22,9 @@ youtube_code: DThEXbJ2Vug
 
 {% include youtube.html %}
 
-<center>If you put adequate care into understanding and addressing your clients’ needs, market conditions won’t matter nearly as much as you might think.</center>
+<center><em>If you put adequate care into understanding and addressing your clients&rsquo; needs, market conditions won&rsquo;t matter nearly as much as you might think.</em></center>
+
+&nbsp;
 
 My wife Jenn and I recently took a trip down to Phoenix, Arizona, and so today’s message comes to you straight from the states. With everything going on in our Calgary real estate market, though, some might think I’m out of my mind for traveling out of the country right now.
 
