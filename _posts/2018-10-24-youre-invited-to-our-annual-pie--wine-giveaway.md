@@ -19,7 +19,7 @@ youtube_code: hz1_whHZY9Y
 
 <center><em>Stop by our office on November 19 &amp; 20 for a free pie or homemade wine!</em></center>
 
- 
+&nbsp;
 
 It’s our favorite time of year—the time for football, food, Thanksgiving, and also our annual Pie & Wine Giveaway.
 
@@ -29,6 +29,6 @@ Not only is the wine homemade, but, in fact, we made it ourselves. We enjoy the 
 
 {% include pullquote.html %}
 
-To participate, click here to register.
+To participate, [click here to register](https://www.hbrteam.com/thanksgiving-pie-or-wine){: target="_blank"}.
 
 For other questions you may have, you’re always encouraged to reach out to us. We look forward to seeing you, reminiscing, and catching up.
