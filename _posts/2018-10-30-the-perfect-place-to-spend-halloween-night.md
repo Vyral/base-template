@@ -20,7 +20,11 @@ youtube_code: OE17ke8Sf4A
 
 {% include youtube.html %}
 
-If you don’t already have plans for Halloween, I would encourage you to come check out this list of South Jordan Community events. Specifically, the South Jordan City Halloween Bash. With games and treats, it will be fun for the whole family. Whether you choose to go to the Halloween Bash, or have other activities in mind, I hope you have a happy Halloween. To hear my full Halloween message, watch this short video. To learn more about the Halloween Bash, click the image below!&nbsp;
+If you don’t already have plans for Halloween, I would encourage you to come check out this list of South Jordan Community events. Specifically, the South Jordan City Halloween Bash. With games and treats, it will be fun for the whole family. Whether you choose to go to the Halloween Bash, or have other activities in mind, I hope you have a happy Halloween. To hear my full Halloween message, watch this short video.
+
+[For other upcoming community events, click here!&nbsp;](https://www.sjc.utah.gov/upcoming-events/){: target="_blank"}
+
+To learn more about the Halloween Bash, click the image below!&nbsp;
 
 [![](/uploads/halloween-bash-2018-563x726.png)](http://www.sjc.utah.gov/event/halloween-bash/){: target="_blank"}
 
