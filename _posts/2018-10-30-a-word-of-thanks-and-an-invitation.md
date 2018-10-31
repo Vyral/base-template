@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Word of Thanks and An Invitation
-date: 2018-10-19 20:11:00
+date: 2018-10-30 20:11:00
 tags:
   - Real Estate
 excerpt: >-
