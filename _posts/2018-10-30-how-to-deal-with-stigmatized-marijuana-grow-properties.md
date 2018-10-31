@@ -24,7 +24,7 @@ youtube_code: FqZaopf9k40
 
 This week’s topic is going to be about stigmatized properties, particularly marijuana grow ops. Now that marijuana is legal in Canada, I wanted to talk about how this affects your real estate investments.
 
-**Stigmatized properties like marijuana grow ops are handled completely differently in our industry than non-stigmatized properties.** When a big grow op with many plants has been busted by the police, you need to do to some alterations to the house before it’s sold. **Here are the three biggest problem areas that we’ve noticed:**
+**Stigmatized properties like marijuana grow ops are handled completely differently in our industry than non-stigmatized properties.** When a big grow op with many plants has been busted by the police, you need to do some alterations to the house before it’s sold. **Here are the three biggest problem areas that we’ve noticed:**
 
 **1. Wiring.** You’re going to need access to a lot of extra electricity in a grow op, so oftentimes there are a lot of clips and cuts to the wiring that aren’t done professionally.
 
