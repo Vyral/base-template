@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/eric-mortimer-ss-oct-2-no-play.jpg
-youtube_code: DThEXbJ2Vug
+youtube_code: R8ZAFBMHiMg
 ---
 
 {% include youtube.html %}
@@ -26,13 +26,13 @@ youtube_code: DThEXbJ2Vug
 
 &nbsp;
 
-My wife Jenn and I recently took a trip down to Phoenix, Arizona, and so today’s message comes to you straight from the states. With everything going on in our Calgary real estate market, though, some might think I’m out of my mind for traveling out of the country right now.
+I recently took a trip down to Phoenix, Arizona, so today’s message comes to you straight from the States. With everything going on in our Calgary real estate market, though, some might think I’m out of my mind for traveling out of the country right now.
 
-If you aren’t already aware, Calgary is on track this year to see the fewest sales since the year 2000—since which time we’ve had a 53% increase in population. As a result of this, prices have, of course, gone up. They’ve actually risen 167% since 2000.
+If you aren’t already aware, Calgary is on track this year to see the fewest sales since the year 2000—since which time we’ve had a 53% increase in population. Prices have, of course, gone up. They’ve actually risen 167% since 2000.
 
 Despite all of this, I don’t actually believe our Calgary market itself is the problem. **Allow me to illustrate why with a brief anecdote**.
 
-Recently my wife and I decided to go to Kensington on a date. As we were walking around, we noticed the incredible number of vacant businesses in the area. Even many of the businesses that were technically open were virtually abandoned. We went to a sushi restaurant, for example, and found that it was next-to-impossible to receive any kind of service. After some time of waiting, we left and decided to try somewhere else.
+Recently my wife and I decided to go to Kensington on a date night. As we were walking around, we noticed the incredible number of vacant businesses in the area. Even many of the businesses that were technically open were virtually abandoned. We went to a sushi restaurant, for example, and found that it was next-to-impossible to receive any kind of service. After some time of waiting, we left and decided to try somewhere else.
 
 {% include pullquote.html %}
 
