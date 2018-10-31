@@ -21,7 +21,7 @@ youtube_code: lGg08I8KP4Q
 
 {% include youtube.html %}
 
-I’ve been getting some calls lately from clients who are wondering whether it’s a better idea for them to sell now or wait until spring.&nbsp;
+<p style="text-align: center;"><em>I’ve been getting some calls lately from clients who are wondering whether it’s a better idea for them to sell now or wait until spring.&nbsp;</em></p>
 
 **First of all, our fall market is doing very well.** We currently have about 275 pending sales, which is up quite a bit from what we saw last year.&nbsp;
 
