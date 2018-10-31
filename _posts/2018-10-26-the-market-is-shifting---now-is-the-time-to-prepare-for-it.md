@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Market is Shifting- Now is the Time to Prepare For it
+title: The Market is Shifting - Now is the Time to Prepare For it
 date: 2018-10-26 15:32:00
 tags:
   - Market Update
