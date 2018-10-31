@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Seniors—Downsize Before the Market SHIFT
-date: 2018-10-26 15:32:16
+title: The Market is Shifting- Now is the Time to Prepare For it
+date: 2018-10-26 15:32:00
 tags:
   - Market Update
   - Real Estate
@@ -38,5 +38,3 @@ In any case, **here are three important steps to prepare yourself now in light o
 3. Before you share your planned timeline with anyone, especially family members, meet with your real estate consultant and build a realistic plan of action.
 
 We’d love to be the ones to help you prepare and get ahead of the market, so if you have any questions about this topic, don’t hesitate to reach out to us. We look forward to hearing from you.
-
-&nbsp;
