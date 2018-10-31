@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shift Happens
-date:
+date: 2018-10-31 18:59:06
 tags:
   - Real Estate
 excerpt: >-
