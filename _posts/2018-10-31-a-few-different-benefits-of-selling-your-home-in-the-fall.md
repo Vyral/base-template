@@ -21,7 +21,9 @@ youtube_code: lGg08I8KP4Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I’ve been getting some calls lately from clients who are wondering whether it’s a better idea for them to sell now or wait until spring.&nbsp;</em></p>
+<p style="text-align: center;"><em>Is it smart to list your home for sale this fall or should you wait until next spring? Here’s what we think.</em></p>
+
+I’ve been getting some calls lately from clients who are wondering whether it’s a better idea for them to sell now or wait until spring.&nbsp;
 
 **First of all, our fall market is doing very well.** We currently have about 275 pending sales, which is up quite a bit from what we saw last year.&nbsp;
 
