@@ -20,7 +20,7 @@ youtube_code: gCgJ2t9NM18
 
 {% include youtube.html %}
 
-In addition to making sure you come to our client appreciation party on November 20, I also wanted to talk to you a little bit about my recent trip to D.C. and what I learned while I was there.
+<p style="text-align: center;"><em>In addition to making sure you come to our client appreciation party on November 20, I also wanted to talk to you a little bit about my recent trip to D.C. and what I learned while I was there.</em></p>
 
 I’ve got a few different things to talk to you about today. **First, I want to talk about our client appreciation party and annual apple pie giveaway.** It’s going to be on November 20, so keep an eye on your mail for an official invite. If you’re not on our mailing list already, give me a call at (518) 461-9937 and I’d be happy to add you. We would love to see you there and give you a pie as a way of saying thanks for your support.
 
