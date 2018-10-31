@@ -19,7 +19,7 @@ youtube_code: TFRqfdqb9-A
 
 {% include youtube.html %}
 
-We’ll be giving out $25 gift cards to people whose questions are answered in our videos. Go ahead and ask!
+<p style="text-align: center;"><em>We’ll be giving out $25 gift cards to people whose questions are answered in our videos. Go ahead and ask!</em></p>
 
 We’re doing things a little differently this week; **we want to reach out to you personally and invite you to email us any questions you have about real estate.** We’d love to answer and discuss your questions, and we’ll even send you a **$25 gift card** if we highlight your question in one of our videos. Make sure to include your contact information along with your question so we can easily send out your gift.&nbsp;
 
