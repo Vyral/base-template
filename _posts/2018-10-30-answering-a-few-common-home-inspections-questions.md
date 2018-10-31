@@ -36,7 +36,7 @@ According to Dan, the exact figure will depend on the size and age of the house,
 
 **“Should people test for radon?”**
 
-“Absolutely,” said Dan. “Radon is an odorless, colorless gas that naturally comes up from the soil.” He also added that if you’re exposed to the gas for a long enough time and at high enough levels, it can cause lung cancer. If a test comes back positive, the seller has a responsibility to either mitigate the issue or, at least, to disclosure it. The average cost to mitigate radon levels in a house without a crawl space is about $1,250.&nbsp;
+“Absolutely,” said Dan. “Radon is an odorless, colorless gas that naturally comes up from the soil.” He also added that if you’re exposed to the gas for a long enough time and at high enough levels, it can cause lung cancer. If a test comes back positive, the seller has a responsibility to either mitigate the issue or, at least, to disclose it. The average cost to mitigate radon levels in a house without a crawl space is about $1,250.&nbsp;
 
 **“How much does it cost to test for radon?”**&nbsp;
 
