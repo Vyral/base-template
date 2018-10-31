@@ -30,6 +30,6 @@ Carpeting can be a hotspot for germs and allergens for homeowners. Many choose i
 
 **&nbsp;4. Laminate.** This has a lot of similarities with hardwood but is about half the price.
 
-These samples were just a small selection of the flooring you can choose for your home. To see what Brandon Craft and his company have to offer, check out the Floors & Interiors website, call the Tyler location at **(903) 630-5041** or the Whitehouse location at **(903) 839-4203**, or stop in for a visit. No matter the budget, they’ll be able to set you up with a beautiful new floor in your home.
+These samples were just a small selection of the flooring you can choose for your home. To see what Brandon Craft and his company have to offer, check out the Floors & Interiors website, call the Tyler location at **(903) 630-5041** or the Whitehouse location at **(903) 839-4203**, or stop in for a visit. No matter the budget, they’ll be able to set you up with a beautiful new floor in your home.&nbsp;
 
 &nbsp;
