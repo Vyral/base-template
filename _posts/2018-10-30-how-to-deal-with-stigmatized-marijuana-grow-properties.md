@@ -32,7 +32,7 @@ This week’s topic is going to be about stigmatized properties, particularly ma
 
 **3. &nbsp;Fertilizer and chemicals.** These usually aren’t disposed of properly, often down drains or down the sides of houses, where it can easily seep into the home and stay in there.
 
-Busted grow ops can still be sold and can still be financed by the Canadian Mortgage and Housing Corporation, **but there are some stipulations.** First, you need a minimum of 20% down payment, a 1% premium on top of that, and a certification that the property is habitable. To get this certificate, you’ll need to have the city come in and make sure a laundry list of items are taken care of first.
+Busted grow ops can still be sold and can still be financed by the Canadian Mortgage and Housing Corporation, **but there are some stipulations.** First, you need a minimum 20% down payment, a 1% premium on top of that, and a certification that the property is habitable. To get this certificate, you’ll need to have the city come in and make sure a laundry list of items are taken care of first.
 
 {% include pullquote.html %}
 
