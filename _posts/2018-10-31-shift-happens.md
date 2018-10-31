@@ -23,7 +23,7 @@ youtube_code: X-KtccYXZVM
 
 To keep agents up to date about how to move forward with their business during the market shift we’re undergoing, Team Lally is offering three classes wherein we’ll teach you strategies for a shifting market:
 
-1. **&nbsp;“Do More With Less, or What We Call Leverage”<br>2. “Lead Generation”<br>3. “Mastering the Market of the Moment: Short Sales, REOs, and Foreclosures”**
+**1. “Do More With Less, or What We Call Leverage”<br>2. “Lead Generation”<br>3. “Mastering the Market of the Moment: Short Sales, REOs, and Foreclosures”**
 
 These will be three in a series of twelve classes offered. We’ll discuss what happened in the last market shift and what can be done now to prepare for this coming one. You don’t want to be one of those agents who’s unprepared for the next shift, do you? Of course not; the only regret you’ll have after attending these classes is that you didn’t learn the information sooner.
 
