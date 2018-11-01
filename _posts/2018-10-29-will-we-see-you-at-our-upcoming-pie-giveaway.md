@@ -27,4 +27,6 @@ That’s right—on Thursday, November 20<sup>th</sup> from 3:30 p.m. to 6:30 p.
 
 We hope you’ll stop by to pick up a complimentary pie, enjoy some wine, and, if you can, help us feed families in need by bringing canned goods for us to donate to the Manna Food Bank.
 
+<a href="https://goo.gl/forms/bjFoCN4TMdLseuFn2" target="_blank">Register Here</a>
+
 If you have any questions about real estate in the meantime, don’t hesitate to reach out to us. We’d love to help.
