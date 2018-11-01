@@ -17,6 +17,6 @@ youtube_code: kTMiszvrwdc
 
 {% include youtube.html %}
 
-Do you have extra winter clothes?
+<center>Do you have extra winter clothes?</center>
 
 We would like to invite you to a warm clothing drive that we are hosting the week of Thanksgiving. We will be accepting donations from 12 PM - 6 PM, Monday the 19th, through Wednesday the 21st. As an added bonus, we at Colemere Realty will be matching all donations.
