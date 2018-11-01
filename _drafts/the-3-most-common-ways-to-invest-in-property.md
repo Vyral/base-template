@@ -21,7 +21,7 @@ youtube_code: 4oMh5Bp6XHE
 
 {% include youtube.html %}
 
-Curious about which kind of investment could be a good fit? Let us break it down for you.
+<center>Curious about which kind of investment could be a good fit? Let us break it down for you.</center>
 
 Today, we’ll be looking at the three most common ways to make money through real estate investment.
 
