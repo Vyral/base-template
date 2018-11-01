@@ -30,7 +30,7 @@ I can sit down with anyone, even those who don’t have as much experience as me
 
 **Along with being coachable, you have to continue your education.** In real estate, education means learning about the real estate industry and learning how to sell. You have to do these things if you want to be successful, and that’s why being coachable is so valuable.&nbsp;
 
-So open your mind and keep education in the forefront of your life. Every day I educate myself, and ever since I started doing this, my business has taken off. And don’t forget to learn from other people—even if you think they don’t know anything, they probably do, and you can identify bits and pieces of information that can help you.&nbsp;
+So open your mind and keep education at the forefront of your life. Every day I educate myself, and ever since I started doing this, my business has taken off. And don’t forget to learn from other people—even if you think they don’t know anything, they probably do, and you can identify bits and pieces of information that can help you.&nbsp;
 
 To register for my next agent seminar where I’ll talk more in depth about the 20 C’s, click here.
 
