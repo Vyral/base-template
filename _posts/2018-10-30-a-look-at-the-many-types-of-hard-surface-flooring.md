@@ -26,7 +26,7 @@ Carpeting can be a hotspot for germs and allergens for homeowners. Many choose i
 
 {% include pullquote.html %}
 
-**&nbsp;3. Hardwood.** Hardwood is a very desirable type of flooring—it’s the real deal.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Scratches and scuffs to the wood end up looking like part of the flooring.
+**&nbsp;3. Hardwood.** Hardwood is a very desirable type of flooring—it’s the real deal. Scratches and scuffs to the wood end up looking like part of the flooring.
 
 **&nbsp;4. Laminate.** This has a lot of similarities with hardwood but is about half the price.
 
