@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/10-16-tickler-np.jpg
+youtube_alternate_image: /uploads/11-1-planning-clinic-np.jpg
 youtube_code: EV5_5Wl79wg
 ---
 
