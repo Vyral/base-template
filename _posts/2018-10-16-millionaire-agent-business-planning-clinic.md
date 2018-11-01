@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let’s Plan Your 2019 Business Together
+title: Millionaire Agent Business Planning Clinic
 tags:
 excerpt: Join us for our most informative business-building class to date
 enclosure: >-
