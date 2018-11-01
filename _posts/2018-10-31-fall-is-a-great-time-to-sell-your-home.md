@@ -31,6 +31,6 @@ Jacksonville is a destination market for many throughout the country, so it’s 
 
 **2. Buyers are more serious.** Our inventory is lower but buyers are motivated, especially with the holidays on the horizon; they want to relocate quickly. People in the summer have more to choose from and don’t have the same sense of urgency.
 
-**3. Interest rates will rise.** It’s a good idea to act now before rates go up even more. We’re getting news that they’ll be rising again, and buyers want to get a home before the increases hit.
+**3. Interest rates will rise.** It’s a good idea to act now before rates go up even more. We’re getting news that they’ll be rising again and buyers want to get a home before the increases hit.
 
 Buyers are coming here with a purpose and a deadline, so now is the time to contact us if you’re looking to sell your home. We look forward to hearing from you soon.
