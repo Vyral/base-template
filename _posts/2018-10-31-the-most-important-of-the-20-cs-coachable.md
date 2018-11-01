@@ -32,6 +32,6 @@ I can sit down with anyone, even those who don’t have as much experience as me
 
 So open your mind and keep education at the forefront of your life. Every day I educate myself, and ever since I started doing this, my business has taken off. And don’t forget to learn from other people—even if you think they don’t know anything, they probably do, and you can identify bits and pieces of information that can help you.&nbsp;
 
-To register for my next agent seminar where I’ll talk more in depth about the 20 C’s, click here.
+To register for my next agent seminar where I’ll talk more in depth about the 20 C’s, **[click here.](https://quaxel2.net/v1/track/click/498ad698-b2a2-8be0-021e-7c3c05f6bd18/gm%3A5b8faa64-67bd-46c3-9ce3-ac36a4037325/jarodd%40getvyral.com/?https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fhow-to-sell-more-homes-this-winter-and-make-money-before-the-spring-market-by-kati-spaniak-tickets-52107645370=){: target="_blank"}**
 
 In the meantime, if you want to talk more about the relationship between coachability and success or you have any questions for me, don’t hesitate to give me a call. I’d be happy to help you.
