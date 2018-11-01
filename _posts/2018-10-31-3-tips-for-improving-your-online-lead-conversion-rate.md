@@ -26,11 +26,11 @@ A lot of folks these days are spending a pretty penny on generating leads from s
 
 **2. Have a short-term follow-up plan.** Make at least 15 phone call attempts within the first 90 days. Did you know that 80% of sales are made between the fifth and twelfth contact? You approach a near 90% conversion rate after at least six call attempts. Also recognize that at least 30% of all online leads are never contacted at all. Just by making a few more call attempts, real estate agents can experience up to a 70% increase in contact rates. You must develop a weekly call schedule for new leads until the first contact is made. Automate this so you don’t have to think about who you’re going to call and when.
 
-**3. Have a long-term follow-up plan.** Increase converted leads by 67% with a follow-up strategy beyond six months. Dedicate a specific time week to contact older leads; I recommend a mix of text messages, phone calls, and a small number of emails that contain relevant information to the consumer.
+**3. Have a long-term follow-up plan.** Increase converted leads by 67% with a follow-up strategy beyond six months. Dedicate a specific time each week to contact older leads; I recommend a mix of text messages, phone calls, and a small number of emails that contain relevant information to the consumer.
 
 {% include pullquote.html %}
 
-The MIT study uncovered a few other statistics to note, as well. They found that Wednesdays and Thursdays are typically the best days to qualify a lead and that the best times to get in touch with leads are between 8 and 9 a.m., and even better, between 4 and 5 p.m.. Plan accordingly to maximize your online lead strategy. You’re 160% more likely to reach a lead in the late afternoon than the early afternoon.
+The MIT study uncovered a few other statistics to note, as well. They found that Wednesdays and Thursdays are typically the best days to qualify a lead and that the best times to get in touch with leads are between 8 and 9 a.m., and even better, between 4 and 5 p.m. Plan accordingly to maximize your online lead strategy. You’re 160% more likely to reach a lead in the late afternoon than the early afternoon.
 
 Your mindset matters; we must stop thinking of online leads as bad leads and instead think of them as human beings who are beginning to learn about the home buying or selling process. If you stay positive, expect positive outcomes, and use these leads to feed your database, you’ll have a future as a millionaire real estate business owner.
 
