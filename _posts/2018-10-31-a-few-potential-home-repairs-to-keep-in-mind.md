@@ -1,14 +1,14 @@
 ---
 layout: post
 title: A Few Potential Home Repairs to Keep in Mind
-date: 2018-10-31 16:04:18
+date: 2018-10-31 16:04:00
 tags:
   - Athens Real Estate Agent
-  - Real Estate
 excerpt: >-
   Expensive potential repairs can really cause homebuyers to steer clear of a
   property. Here are a few examples.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Potential+Home+Repairs+That+Could+Really+Throw+off+Its+Value.mp4
 pullquote: I’ve seen plenty of buyers walk away from a deal due to an old roof.
 enclosure_type: video/mp4
 enclosure_time:
