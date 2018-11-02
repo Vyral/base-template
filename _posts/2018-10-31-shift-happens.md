@@ -30,3 +30,5 @@ These will be three in a series of twelve classes offered. We’ll discuss what 
 {% include pullquote.html %}
 
 If you have any questions, feel free to reach out to us. We hope to see you there!
+
+RSVP [here.](KWHonoluluevents.com)
