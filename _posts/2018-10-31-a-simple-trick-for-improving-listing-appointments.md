@@ -32,6 +32,6 @@ The last thing we ask in conjunction with what we’ve already touched on is tha
 
 Best of all, putting this plan into action yourself doesn’t have to cost you a thing. Making a pre-listing video to send out can be as simple as filming a video on your YouTube channel and attaching it to an email with the links and materials we mentioned earlier.&nbsp;
 
-**You can see what our team sends as our pre-listing video on our private Facebook page “Journey with Jennie.”** If you aren’t already a member of that group, go visit and ask to join. You will find a wealth of knowledge and resources there, so don’t miss the opportunity to see what this page has to offer.&nbsp;
+**You can see what our team sends as our pre-listing video on our private Facebook page “Your Journey with Jennie.”** If you aren’t already a member of that group, go visit and ask to join. You will find a wealth of knowledge and resources there, so don’t miss the opportunity to see what this page has to offer.&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
