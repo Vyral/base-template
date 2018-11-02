@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Professionals Should You Hire to Assist You With a Property Tax Appeal?
-date: 2018-09-05 19:34:14
+date: 2018-11-01 19:34:00
 tags:
   - Real Estate
 excerpt: >-
