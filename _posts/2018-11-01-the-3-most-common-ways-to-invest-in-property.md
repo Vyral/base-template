@@ -27,7 +27,7 @@ youtube_code: 4oMh5Bp6XHE
 
 Today, we’ll be looking at the three most common ways to make money through real estate investment.
 
-**1. Flipping property**. This is the riskiest investment you can make. **You’re at the mercy of market volatility and, very often, high-interest loans**. You can reduce some of this risk by choosing a prime location or an emerging market close to one. If something happens in the market and you have to carry the property, these areas rent well and will likely come back in 3 to 5 years.
+**1. Flipping property**. This is the riskiest investment you can make. **You’re at the mercy of market volatility and, very often, high-interest loans**. You can reduce some of this risk by choosing a prime location or an emerging market close to one. If something happens in the market and you have to carry the property, these areas rent well and will likely come back in three to five years.
 
 Make sure the property you’re purchasing can withstand a 10% to 15% market correction, and understand that the standard minimum profit for flipping a property should be a 25% profit after all expenses (including closing costs).&nbsp;
 
@@ -41,7 +41,7 @@ Let’s say you buy a $500,000 property and put down $100,000. You want to see a
 
 Over time, that $100,000 makes you $5,000 per year, which could be appreciating by 1% each year. 10 to 15 years from now, you’ll have earned anywhere from $150,000 to $200,000 on your initial investment.
 
-**3. Asset in usage**. This is a property you’re purchasing as your primary residence with the plan to sell it later for a profit. This one is interesting because although you’re paying down a mortgage, there are some really great tax benefits. When you go this route, plan on staying in the home for 3 to 5 years to avoid market volatility.
+**3. Asset in usage**. This is a property you’re purchasing as your primary residence with the plan to sell it later for a profit. This one is interesting because although you’re paying down a mortgage, there are some really great tax benefits. When you go this route, plan on staying in the home for three to five years to avoid market volatility.
 
 If you sell the property after living in it for more than two years, **there is a tax exemption for any capital gains**. Let’s say you make $100,000 on the property—you normally have to pay a minimum of 20% tax, but since you have lived there for two years, you can defer the tax and keep the entire amount of your profit. You also get a $250,000 exemption per spouse, so if you’re married and make a $500,000 profit, you keep it all!
 
