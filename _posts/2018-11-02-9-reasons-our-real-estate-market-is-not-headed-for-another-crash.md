@@ -28,7 +28,7 @@ Despite some concern, a market crash isn’t imminent, and there are nine reason
 
 **4. Nationally, the number of homes sold today is 20% below the pre-crash peak.** There’s only a four-month supply of inventory, and as a result, about 64% of Americans own their homes, compared to 68% who owned their homes in 2007.
 
-<br>**5. Home sales are lower because the recession interfered with a lot of people’s ability to start a career and buy a home.** Faced with a poor job market, many decided to further their education. As a result, they’re now burdened with school loans, which makes it less likely that they can save enough money to buy a home. This will keep demand down.
+**5. Home sales are lower because the recession interfered with a lot of people’s ability to start a career and buy a home.** Faced with a poor job market, many decided to further their education. As a result, they’re now burdened with school loans, which makes it less likely that they can save enough money to buy a home. This will keep demand down.
 
 {% include pullquote.html %}
 
