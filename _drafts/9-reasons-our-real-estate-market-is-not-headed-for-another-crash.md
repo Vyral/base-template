@@ -2,14 +2,18 @@
 layout: post
 title: 9 Reasons Our Real Estate Market Is Not Headed for Another Crash
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Market Update
+excerpt: >-
+  There are nine reasons why our market is not headed for another crash in the
+  near future
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+9+Reasons+Our+Real+Estate+Market+Is+Not+Headed+for+Another+Crash.mp4
+pullquote: Loans originated in 2016 were among the highest quality of the past 15 years.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/11-1-no-crash-np.jpg
+youtube_code: X0ll2uJJfs4
 ---
 
 {% include youtube.html %}
