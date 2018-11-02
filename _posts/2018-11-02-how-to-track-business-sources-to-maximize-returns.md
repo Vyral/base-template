@@ -21,7 +21,7 @@ youtube_code: vSNroFJm0Ko
 
 {% include youtube.html %}
 
-<p style="text-align: cneter;"><em>The best way to maximize your ROI is to know where customers are coming from. Here’s how you can find out.</em></p>
+<p style="text-align: center;"><em>The best way to maximize your ROI is to know where customers are coming from. Here’s how you can find out.</em></p>
 
 Do you know where your business is coming from? If you figure out your sources of business, you can adjust your advertising spending to maximize return on investment. Today, I’ll be showing you a simple way to track these sources.
 
