@@ -22,7 +22,7 @@ youtube_code: YvIgZashs7U
 
 {% include youtube.html %}
 
-If you’re worried about finding the right home while you’re selling your current one, today’s message may help. There are three ways you can navigate this common scenario.
+<p style="text-align: center;"><em>If you’re worried about finding the right home while you’re selling your current one, today’s message may help. There are three ways you can navigate this common scenario.</em></p>
 
 What happens if you sell your home too quickly in today’s super-fast market? If you sell, what are you going to buy?&nbsp;
 
