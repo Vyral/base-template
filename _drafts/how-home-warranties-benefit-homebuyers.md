@@ -3,15 +3,32 @@ layout: post
 title: How Home Warranties Benefit Homebuyers
 date:
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Home Buyer Tips
+excerpt: >-
+  If you’re a homebuyer, getting a home warranty will help offset the costs of
+  homeownership and provide you valuable peace of mind.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Home+Warranties+Benefit+Homebuyers.mp4
+pullquote: Home warranties help offset the cost of homeownership.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/11-2-home-warranties-np.jpg
+youtube_code: nMfEdH8tPto
 ---
+
 {% include youtube.html %}
 
+I’ve been in the real estate business for over 39 years, and do you know what I think is the best feature of this business? Home warranties.
+
+If you’re a first-time homebuyer, your budget is probably stretched pretty thin. You have to pay for the down payment, the closing costs, furniture for the house, etc. On top of that, it seems like something always happens to the home after you close escrow.
+
+Rather than just assume it’s the seller’s fault and ask them to pay for it, it’s great to have a home warranty and be able to call someone like my guest today, Stephanie Storvis of Fidelity National Home Warranty, so they can take care of it.
+
 {% include pullquote.html %}
+
+How do home warranties help you specifically? According to Stephanie, home warranties help offset the cost of homeownership when an appliance or one of the home’s systems fails. If you buy a home warranty through Fidelity National Title and something in your home breaks down, for instance, you can give them a call and they’ll send out one of their service technicians to fix or repair what’s broken for just a $75 fee.
+
+What’s really important, though, is the peace of mind a home warranty provides. If you have one, you don’t have to worry about paying $1,500 to replace a broken water heater.
+
+If you have any more questions for Stephanie, you can email her at [sstorvis@fnf.com](mailto:sstorvis@fnf.com) or give her a call at (800) 308-1424 ext. 3431.
