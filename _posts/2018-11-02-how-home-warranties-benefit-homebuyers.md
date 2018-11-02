@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Warranties Benefit Homebuyers
-date:
+date: 2018-11-02 19:52:30
 tags:
   - Home Buyer Tips
 excerpt: >-
