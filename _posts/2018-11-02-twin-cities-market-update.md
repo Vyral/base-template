@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twin Cities Market Update
-date:
+date: 2018-11-02 20:15:15
 tags:
   - Market Update
 excerpt: >-
