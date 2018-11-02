@@ -19,7 +19,7 @@ youtube_code: oiMqC23EdxA
 
 {% include youtube.html %}
 
-Where do we rank among Pennsylvania’s best counties? Let’s just say we definitely don’t rank low.
+<p style="text-align: center;"><em>Where do we rank among Pennsylvania’s best counties? Let’s just say we definitely don’t rank low.</em></p>
 
 The Movoto Real Estate blog has researched and compiled a ranked [list of the best counties throughout Pennsylvania.](https://www.movoto.com/guide/pa/best-counties-in-pennsylvania/){: target="_blank"} Which one came out on top? Let’s find out.
 
