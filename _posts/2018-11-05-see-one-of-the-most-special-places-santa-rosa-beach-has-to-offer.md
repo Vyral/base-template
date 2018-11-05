@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-excerpt:
+excerpt: Take an Aerial Tour of Watersound Beach
 enclosure:
 pullquote: 'Andross, the Final Boss'
 enclosure_type: video/mp4
