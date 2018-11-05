@@ -28,7 +28,7 @@ The Movoto Real Estate blog has researched and compiled a ranked [list of the be
 * Cultural access
 * Historic landmarks
 * Colleges
-* Poverty Rates
+* Poverty rates
 * Income
 * Cost of living
 * Unemployment rates
@@ -37,7 +37,7 @@ These ratings combined would show us the most desirable place to live in Pennsyl
 
 {% include pullquote.html %}
 
-There are many reasons why [Movoto.com](https://www.movoto.com/){: target="_blank"} chose us as the winners. Cumberland County is full of not only culture and history, but tons of colleges, historic landmarks, and festivals. The county has the fourth-lowest poverty rate in the state, sixth-lowest unemployment rate, fifth-highest income, and 10th-highest high school graduation rate. We also have the 11th lowest commute time at 21 minutes.
+There are many reasons why [Movoto.com](https://www.movoto.com/){: target="_blank"} chose us as the winners. Cumberland County is full of not only culture and history, but tons of colleges, historic landmarks, and festivals. The county has the fourth-lowest poverty rate in the state, sixth-lowest unemployment rate, fifth-highest income, and 10th-highest high school graduation rate. We also have the 11th-lowest commute time at 21 minutes.
 
 With a median home price at an average of $183,000, the area is desirable but not impossible to afford. Nature lovers even have nearby access to both Pine Grove Furnace and Colonel Denning State Parks. **There’s a lot going for us here.**
 
