@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Enjoy this aerial tour of Watersound Beach
+title: See One of the Most Special Places Santa Rosa Beach Has to Offer
 tags:
   - Market Update
   - Real Estate
@@ -15,6 +15,9 @@ use_youtube_image: false
 youtube_alternate_image:
 youtube_code: uieM18rZdHY
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+&nbsp;
+
+&nbsp;
