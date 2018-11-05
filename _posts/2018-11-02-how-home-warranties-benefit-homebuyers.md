@@ -1,20 +1,20 @@
 ---
 layout: post
 title: How Home Warranties Benefit Homebuyers
-date: 2018-11-02 19:52:30
+date: 2018-11-02 19:52:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re a homebuyer, getting a home warranty will help offset the costs of
   homeownership and provide you valuable peace of mind.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Home+Warranties+Benefit+Homebuyers.mp4
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+Home+Warranties+Benefit+Homebuyers+(1).mp4
 pullquote: Home warranties help offset the cost of homeownership.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-2-home-warranties-np.jpg
-youtube_code: nMfEdH8tPto
+youtube_code: n-3Nz-bmJGI
 ---
 
 {% include youtube.html %}
