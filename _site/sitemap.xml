@@ -1,6 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/tulsa-foodie-episode-3-ediblend-superfood-cafe.html</loc>
+<lastmod>2018-10-25T10:03:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/why-you-need-a-home-warranty.html</loc>
+<lastmod>2018-10-11T09:00:01-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/5-deal-breakers-that-can-wreck-your-home-sale.html</loc>
+<lastmod>2018-10-05T10:15:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/are-you-frustrated-by-recent-market-inactivity-dont-give-up-yet.html</loc>
+<lastmod>2018-09-11T11:09:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/tulsa-foodie-episode-3-wild-brew-2018.html</loc>
+<lastmod>2018-08-30T10:53:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/satisfy-your-cravings-with-fresh-local-flavors-at-juniper.html</loc>
+<lastmod>2018-08-27T10:13:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/we-hope-to-see-you-at-wildbrew-on-august-25.html</loc>
+<lastmod>2018-08-15T15:34:00-05:00</lastmod>
+</url>
+<url>
+<loc>localhost:4000/we-wouldnt-be-able-to-do-what-we-love-without-you.html</loc>
+<lastmod>2018-08-02T11:03:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/3-reasons-to-hire-a-real-estate-professional-when-buying.html</loc>
 <lastmod>2018-06-28T16:34:29-05:00</lastmod>
 </url>
@@ -45,7 +77,7 @@
 <lastmod>2017-12-19T12:10:00-06:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/tulsa-real-estate-agent-im-looking-for-an-investment-property.html</loc>
+<loc>localhost:4000/this-time-im-the-one-whos-buying.html</loc>
 <lastmod>2017-12-05T09:51:00-06:00</lastmod>
 </url>
 <url>
@@ -85,7 +117,7 @@
 <lastmod>2017-06-15T10:41:00-05:00</lastmod>
 </url>
 <url>
-<loc>localhost:4000/tulsa-real-estate-agent-word-about-our.html</loc>
+<loc>localhost:4000/have-you-downloaded-our-homekeepr-app.html</loc>
 <lastmod>2017-05-23T15:22:00-05:00</lastmod>
 </url>
 <url>
@@ -126,5 +158,8 @@
 </url>
 <url>
 <loc>localhost:4000/page4/</loc>
+</url>
+<url>
+<loc>localhost:4000/page5/</loc>
 </url>
 </urlset>
