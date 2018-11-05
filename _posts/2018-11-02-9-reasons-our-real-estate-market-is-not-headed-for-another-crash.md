@@ -32,7 +32,7 @@ Despite some concern, a market crash isn’t imminent, and there are nine reason
 
 {% include pullquote.html %}
 
-**6. Home prices have outpaced income.** The average income-to-housing cost ratio is 30%. In some metro areas, it’s skyrocketed to 40% to 50%. Unfortunately, metro areas are also where the jobs are, and this forces young people to pay more for rent and be closer to a job that doesn’t pay enough to buy a house. 32% of home sales today are going to first-time homebuyers. Historically, that number has been closer to 40%, according to the National Association of Realtors. Typically, this buyer is 32 years old, earns $72,000 per year, and pays $182,500 for a home. A two-income couple pays, on average, $208,500 for a home.
+**6. Home prices have outpaced income.** The average income-to-housing cost ratio is 30%. In some metro areas, it has skyrocketed to 40% to 50%. Unfortunately, metro areas are also where the jobs are, and this forces young people to pay more for rent and be closer to a job that doesn’t pay enough to buy a house. 32% of home sales today are going to first-time homebuyers. Historically, that number has been closer to 40%, according to the National Association of Realtors. Typically, this buyer is 32 years old, earns $72,000 per year, and pays $182,500 for a home. A two-income couple pays, on average, $208,500 for a home.
 
 **7. Homeowners aren’t taking as much equity out of their homes.** Home equity rose to $85 billion in 2006 and then collapsed to less than $10 billion in 2010. It remained at that level until about 2015, and by 2017 it only rose to about $14 billion. Obamacare is one reason for that— bankruptcy filings have fallen 50% since the ACA was passed in 2010.
 
