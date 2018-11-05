@@ -21,7 +21,7 @@ youtube_code: truBF_ancTE
 
 {% include youtube.html %}
 
-Today Joel Reikes of Farmers Insurance joins me for the latest episode of “The Phoenix & Scottsdale Real Estate Show” to answer all of your questions about insurance.
+<p style="text-align: center;"><em>Today Joel Reikes of Farmers Insurance joins me for the latest episode of “The Phoenix & Scottsdale Real Estate Show” to answer all of your questions about insurance.</em></p>
 
 As an insurance agent and local business owner, Joel Reikes is a phenomenal resource for all your insurance needs, and I’m excited to have him join me for the latest episode of “The Phoenix & Scottsdale Real Estate Show.”
 
