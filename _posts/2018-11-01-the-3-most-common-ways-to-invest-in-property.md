@@ -16,20 +16,20 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/steven-rosado-oct-1-ss-no-play.jpg
-youtube_code: 4oMh5Bp6XHE
+youtube_code: 2sHpZHFHz4M
 ---
 
 {% include youtube.html %}
 
 <center><em>Curious about which kind of investment could be a good fit? Let us break it down for you.</em></center>
 
-&nbsp;
+ 
 
 Today, we’ll be looking at the three most common ways to make money through real estate investment.
 
 **1. Flipping property**. This is the riskiest investment you can make. **You’re at the mercy of market volatility and, very often, high-interest loans**. You can reduce some of this risk by choosing a prime location or an emerging market close to one. If something happens in the market and you have to carry the property, these areas rent well and will likely come back in three to five years.
 
-Make sure the property you’re purchasing can withstand a 10% to 15% market correction, and understand that the standard minimum profit for flipping a property should be a 25% profit after all expenses (including closing costs).&nbsp;
+Make sure the property you’re purchasing can withstand a 10% to 15% market correction, and understand that the standard minimum profit for flipping a property should be a 25% profit after all expenses (including closing costs). 
 
 Let’s say you buy a property for $100,000 and spend $50,000 on renovations—you’d need to sell for $187,500, plus an extra $11,250 in commissions and $15,000 in financing costs. **You’d need to sell at $213,750 just to make the minimum profit**.
 
