@@ -28,7 +28,7 @@ What happens if you sell your home too quickly in today’s super-fast market? I
 
 This is one of the single greatest concerns our team’s buyers have encountered lately, and so we’d like to shed some light on it today.&nbsp;
 
-First, to give you some perspective, let’s consider the example of a listing our team recently sold. Within three days of going on the market, we’d received eight offers, and our seller ultimately earned $20,000 more than their list price. This kind of scenario is exciting, but is exactly the sort of situation that might elicit the concern we mentioned earlier.&nbsp;
+First, to give you some perspective, let’s consider the example of a listing our team recently sold. Within three days of going on the market, we’d received eight offers, and our seller ultimately earned $20,000 more than their list price. This kind of scenario is exciting, but it is exactly the sort of situation that might elicit the concern we mentioned earlier.&nbsp;
 
 Thankfully, there are several ways you can protect yourself from ending up without a home after you sell. Here are three of the best (and most common) solutions:&nbsp;
 
