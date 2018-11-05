@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Twin Cities Market Update
-date: 2018-11-02 20:15:15
+date: 2018-11-02 20:15:00
 tags:
   - Market Update
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
   lately.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Grant+Johnson/Twin+Cities+Real+Estate-+Twin+Cities+Market+Update.mp4
-pullquote: 'Selling a home is not only a pricing war, but also a bidding war.'
+pullquote: 'Selling a home is not only a pricing war, but also a beauty war.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -26,6 +26,6 @@ The homes that are struggling to sell the most in our current market are the one
 
 {% include pullquote.html %}
 
-**Last week, we had a listing that we put on the market and it received multiple offers within 24 hours.** When you list your home on the market, you’re in a pricing war as well as a beauty war and you want to make sure that your home is the nicest house on the market in your price range.
+**Last week, we listed a home that received multiple offers within 24 hours.** When you list your home on the market, you’re in a pricing war as well as a beauty war and you want to make sure that your home is the nicest house on the market in your price range.
 
 If you have any questions for us about the market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
