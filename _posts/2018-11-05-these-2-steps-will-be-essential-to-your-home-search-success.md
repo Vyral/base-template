@@ -1,7 +1,7 @@
 ---
 layout: post
 title: These 2 Steps Will Be Essential to Your Home Search Success
-date:
+date: 2018-11-05 21:03:30
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -28,8 +28,8 @@ Before buying your next home, there are a few things you’ll need to do to prep
 
 {% include pullquote.html %}
 
-**After you’ve started working with a lender, you’ll need to connect with the right agent.** The ideal agent won’t simply jot down your search criteria and then run a search on the MLS. The right Realtor for your needs will take all the fine details of your circumstances into account as they help you find the perfect home.&nbsp;
+**After you’ve started working with a lender, you’ll need to connect with the right agent.** The ideal agent won’t simply jot down your search criteria and then run a search on the MLS. The right Realtor for your needs will take all the fine details of your circumstances into account as they help you find the perfect home. 
 
-The things that matter to you are the things that should matter to your Realtor. Factors like the school district, distance from your place of work, and more will all be on the radar of top-quality agents.&nbsp;
+The things that matter to you are the things that should matter to your Realtor. Factors like the school district, distance from your place of work, and more will all be on the radar of top-quality agents. 
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>
