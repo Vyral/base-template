@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Not to Do: A Lesson From Bad Real Estate Photos'
-date:
+date: 2018-11-06 22:51:51
 tags:
   - Home Seller Tips
   - Real Estate
