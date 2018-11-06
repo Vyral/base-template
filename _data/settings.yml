@@ -10,17 +10,6 @@ custom_links:
     url:
 client:
   clients:
-    - name: Bryan Colemere
-      client_headshot_path: /img/headshot1.jpg
-      license:
-      phone: 801-699-4266
-      email: bryan@colemererealty.com
-      
-    - name: Scott Colemere
-      client_headshot_path: /img/headshot2.jpg
-      license:
-      phone: 801-403-8565
-      email: scott@colemererealty.com      
       about_markdown: >
         As a Third Generation, Family owned and operated Real Estate Company, Colemere Realty Associates has a long history of working for our clients’ success. Each member of our team is focused on providing personal service with integrity knowledge and WOW! We know that a real estate transaction can be very challenging to successfully navigate that is why we are committed to doing whatever it takes to make you 100% successful.
 
@@ -31,7 +20,7 @@ client:
   brand: Colemere Realty Associates
   brokerage:
   address: '9661 S 700 E<br>Sandy, UT 84070'
-  office_phone: (801) 272-8192
+  office_phone: 801-272-8192
   office_email: info@colemererealty.com
   url: 'http://colemererealty.com/'
   first_CTA_text: Home Evaluation
