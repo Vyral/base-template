@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '“Tulsa Foodie” Episode 3: Wild Brew 2018'
+title: '“Tulsa Foodie” Episode 2: Wild Brew 2018'
 date: 2018-08-30 15:53:00
 tags:
   - Real Estate
