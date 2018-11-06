@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Satisfy Your Cravings With Fresh Local Flavors at Juniper
+title: >-
+  “Tulsa Foodie” Episode 4: Satisfy Your Cravings With Fresh Local Flavors at
+  Juniper
 date: 2018-08-27 15:13:00
 tags:
   - Real Estate
