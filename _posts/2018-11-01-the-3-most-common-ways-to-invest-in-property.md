@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/steven-rosado-oct-1-ss-no-play.jpg
-youtube_code: 2sHpZHFHz4M
+youtube_code: TvrpsdB1__Q
 ---
 
 {% include youtube.html %}
