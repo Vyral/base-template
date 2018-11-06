@@ -8,7 +8,7 @@ excerpt: >-
   The best way to maximize your ROI is to know where customers are coming from.
   Here’s how you can find out.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/November/Central+PA+Real+Estate+Agent-+What+Is+the+%25231+County+to+Live+In%253F+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/November/Central+PA+Real+Estate+Agent-+How+Do+You+Track+Every+Source+of+Business+to+Maximize+ROI%253F.mp4
 pullquote: >-
   If you figure out your sources of business, you can adjust your advertising
   spending to maximize your return on investments.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: A7vmvRBnGM4
+youtube_code: vSNroFJm0Ko
 ---
 
 {% include youtube.html %}
