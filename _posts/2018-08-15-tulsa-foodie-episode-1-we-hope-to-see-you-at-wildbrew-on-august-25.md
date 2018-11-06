@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Hope to See You at WildBrew on August 25
+title: '“Tulsa Foodie” Episode 1: We Hope to See You at WildBrew on August 25'
 date: 2018-08-15 20:34:00
 tags:
 excerpt: >-
