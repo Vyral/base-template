@@ -7,24 +7,15 @@
 	<img src="/img/team.jpg" alt="{{site.data.settings.client.company}}" class="client-image" />
 	</div>
 	<p>
-		{% for client in site.data.settings.client.clients %}
-			<!-- <div class="client-image-container">
-		<img src="{{client.client_headshot_path }}" alt="{{client.company}}" class="client-image" />
-	</div><br> -->
-		<p><b>{{ client.name }}&nbsp;</b><br>
-		{% if client.license != null %}
-		{{ client.license }}</br>
-		{% endif %}
-		{{ client.phone }}<br />
-		<a href="mailto:{{ client.email }}" target="_blank">{{ client.email }}</a><br>
-		{{client.about_markdown | markdownify }}
-		{% endfor %}
 		{{ site.data.settings.client.brand }}<br />
 		{% if site.data.settings.client.brokerage != null %}
 		{{ site.data.settings.client.brokerage }}<br />
 		{% endif %}
 		{{ site.data.settings.client.address }}<br />
 
+
 		<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: '/' }}</a><br />
+		{{client.about_markdown | markdownify }}
+
 	</p>
 </div>
