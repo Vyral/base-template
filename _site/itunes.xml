@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Scott Fuller</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team - your professional  Real Estate Agents.</description>
+    <link>https://eastbayrealestatejournal.net</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://eastbayrealestatejournal.net"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team | BRE# 01334119 - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Scott Fuller</managingEditor>
-    <lastBuildDate>2017-08-08 11:00:09 -0500</lastBuildDate>
+    <lastBuildDate>2018-11-06 11:07:18 -0600</lastBuildDate>
     <media:copyright>Scott Fuller</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="https://eastbayrealestatejournal.net/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,23 +18,364 @@
     </itunes:owner>
     <itunes:author>Scott Fuller</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="https://eastbayrealestatejournal.net/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team - your professional  Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team | BRE# 01334119 - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>Should Real Estate Be Part of Your Retirement Plan?</title>
-        <link>localhost:4000/should-real-estate-be-part-of-your.html</link>
+        <title>How to Buy and Sell a Home at the Same Time</title>
+        <link>https://eastbayrealestatejournal.net/how-to-buy-and-sell-a-home-at-the-same-time.html</link>
         
-          <category>East Bay Real Estate Buyer Tips</category>
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2018-09-26 11:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/September/East+Bay+Real+Estate+Agent-+How+to+Buy+and+Sell+a+Home+at+the+Same+Time.mp4</guid>
+        <description>
+
+There are a few different ways you can structure a contingent offer. To explain, let me lay out three different scenarios:
+
+Case No. 1: Your house isn’t on the market yet, and you’re putting an offer on another property. A lot of sellers might say they’re not sure about your offer, especially if they’ve received other offers.
+
+Case No. 2: Your house is on the market, but it’s not under contract. The seller will likely take that more favorably since it’s more likely that you’ll get your home under contract at some point soon.
+
+Case No. 3: Your house is on the market and is under contract. From the seller’s point of view, this is almost as good as an offer from a person who isn’t writing a contingent offer.
+
+“There are often opportunities in the East Bay area to get a contingent offer accepted.”
+
+For case No. 1, you need to be prepared to put your house on the market and to show the seller of the house you’re looking to buy that you’re serious and ready to go. These are some things you’ll need to do:
+
+
+  Create a listing agreement with a real estate agent and determine a list price that is going to get your home sold. Make it competitive; don’t test the waters here.
+  Have all of your seller disclosures completely filled out. That way, we have a paper trail we can track and you’ll be ready to show the house as soon as it goes on the market.
+  Get past your home inspection and look into any repair items like dry rot, water damage, infestations, and so on.
+  Get professional photos taken of your property.
+  Consider having a staging consultation.
+  Have a fully underwritten loan approval. This is almost the same thing as having cash, from a seller’s point of view.
+
+
+If you have all these things done, you can put an offer on the home you’re looking to buy and you’ll let the seller and their agent know that you’re serious and your home’s sale won’t be viewed as a liability that would cause them to pass over your offer.
+
+As we’re getting into a market that’s a little more balanced between buyers and sellers, there are often opportunities in the East Bay area to get a contingent offer accepted, even if your house isn’t yet on the market. You’ll need to demonstrate to the seller that it’ll be ready to go on the market within 24 hours of them accepting your offer.
+
+If you have any questions about this, please feel free to reach out to us. We know the process can be a bit overwhelming for sellers, but part of our service is having a consultation with you to show you exactly how it works and to create a strategy from start to finish that will make it happen for you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/September/East+Bay+Real+Estate+Agent-+How+to+Buy+and+Sell+a+Home+at+the+Same+Time.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/September/East+Bay+Real+Estate+Agent-+How+to+Buy+and+Sell+a+Home+at+the+Same+Time.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re selling your current home and trying to buy a new one at the same time, how can you get a home seller to accept your contingent offer? Here are my tips.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>If you’re selling your current home and trying to buy a new one at the same time, how can you get a home seller to accept your contingent offer? Here are my tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Preparing for a Market Downturn</title>
+        <link>https://eastbayrealestatejournal.net/preparing-for-a-market-downturn.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2018-08-24 14:24:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Preparing+for+a+Market+Downturn.mp4</guid>
+        <description>
+
+Now that we’re into August, our market is slowing down and starting to soften a bit. If this means we’re headed for a downturn, there are four things you can do to prepare yourself.
+
+First, take a look at your mortgage note and make sure you’re in a good position before rates go up. If you have an adjustable rate mortgage, find out what your options are to get it fixed in case you plan on living in your property for a long time.
+
+If you’re an investor, evaluate your real estate portfolio and consider getting rid of any properties that aren’t performing well. If you have one or more properties that aren’t doing well or have a lot of deferred maintenance attached to them, now’s the time to decide whether you’re better off selling them now before something potentially happens sometime down the road.
+
+“Typically when property values decrease, so do rental rates.”
+
+If you’re a landlord and you have tenants living in your property, put together some longer-term lease contracts so you can lock in the current lease rate. Typically when property values decrease, so do rental rates. While you may not want to do this because of the possibility that rates will rise, think about what could happen if your tenants want to renew their leases in six months and rental rates have plummeted in the meantime.
+
+Lastly, check if you have any credit from your home equity line of credit that you can use. Before the last downturn, a lot of people had credit from their home equity line that they were going to use but were prevented from doing so by their lender once the market started to turn. If you need access to those resources, talk to a CPA or your financial planner.
+
+If you have any more questions about what you can do to prepare for a market downturn, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Preparing+for+a+Market+Downturn.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Preparing+for+a+Market+Downturn.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you want to prepare yourself for a market downturn, I have four tips you can use.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>If you want to prepare yourself for a market downturn, I have four tips you can use.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Affordability in the Bay Area</title>
+        <link>https://eastbayrealestatejournal.net/affordability-in-the-bay-area.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2018-08-15 15:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Affordability+in+the+Bay+Area.mp4</guid>
+        <description>
+
+Today I’d like to share some staggering statistics regarding affordability in the Bay Area.
+
+The app called Blind is used by many tech workers to communicate with each other anonymously. Recently, Blind sent out a survey to 2,326 tech workers across different companies, including Google, Facebook, Oracle, etc., to ask if they could afford a home here. Of those surveyed, 59% reported being unable to afford a home in the Bay Area.
+
+“59% of surveyed workers in the Bay Area reported being unable to afford a home here.”
+
+This is not surprising, given that the median home price in San Francisco is $1.6 million. At this price, only 12% of people in San Francisco can actually afford to buy a house.
+
+It’s not just the average worker who can’t afford to live in the Bay Area—59% of tech workers can’t either. This is exactly why we see so many people selling their homes and leaving the Bay Area.
+
+If you have any questions about this or are interested in buying or selling, please feel free to contact me.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Affordability+in+the+Bay+Area.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/August/East+Bay+Real+Estate+Agent-+Affordability+in+the+Bay+Area.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>San Francisco Bay Area tech workers were recently asked to complete an anonymous survey. What did we find from it?</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>San Francisco Bay Area tech workers were recently asked to complete an anonymous survey. What did we find from it?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Townhome or Condo: How Do You Tell the Difference?</title>
+        <link>https://eastbayrealestatejournal.net/townhome-or-condo-how-do-you-tell-the-difference.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2018-06-22 13:02:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Townhome+or+Condo-+How+Do+You+Tell+the+Difference%253F.mp4</guid>
+        <description>
+
+What is the difference between a condo and a townhome?
+
+There is a lot of confusion out there regarding these two types of property. People tend to assume that multiple units stacked on top of each other are classified as condos, and this is generally true.
+
+Similarly, most think of townhomes as being two-story homes with rentable upstairs and downstairs units. This is not necessarily the case.
+
+And it isn’t just prospective buyers who are confused about the how properties are classified. I recently spoke with a woman who owned a property she believed to be a townhome for years, only to eventually discover that her home is technically classified as a condo.
+
+“Terms and regulations can vary between townhomes and condos, so it’s important to be aware of how a property is classified.”
+
+There is such a thing as townhome-style condos, so it is important not to make uninformed assumptions about the classification of properties you encounter. I recommend double checking with your Realtor as to whether a property is a townhome or condo.
+
+At this point you may be wondering, “Why does the classification of a property matter in the first place?”
+
+Actually, it comes down to financing terms and regulations, as these can vary between property types. Whether you’re marketing a property as a seller or are looking to purchase a property as a buyer, being aware of how it’s classified will matter.
+
+When it comes to condos, you will generally own the airspace between walls. But with townhomes, you will also often have ownership over the land the property sits on.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Townhome+or+Condo-+How+Do+You+Tell+the+Difference%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Townhome+or+Condo-+How+Do+You+Tell+the+Difference%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Knowing the difference between townhomes and condos is crucial for buyers, sellers, and homeowners alike. Today I’d like to explain why this is the case.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>Knowing the difference between townhomes and condos is crucial for buyers, sellers, and homeowners alike. Today I’d like to explain why this is the case.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Sellers: Keep an Eye out for This Sneaky Scam</title>
+        <link>https://eastbayrealestatejournal.net/sellers-keep-an-eye-out-for-this-sneaky-scam.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2018-06-14 13:42:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Sellers-+Keep+an+Eye+out+for+This+Sneaky+Scam.mp4</guid>
+        <description>
+
+Every seller wants to get top dollar for their home, but it is important not to let this aspiration get in the way of your better judgment. Today I would like to go over a common appraisal scam that certain unscrupulous buyers have been employing lately. To explain this scam, let me paint an example scenario for you.
+
+Imagine you have a home with a market value between $780,000 and $820,000. You place this home on the market for a list price of $800,000, then a frustrated buyer comes along and makes an offer far above this figure—let’s say $900,000. Should you take this offer?
+
+“It is best to not let dollar signs cloud your decisions.”
+
+As tempting as it is, you shouldn’t. An offer that sounds too good to be true probably is. This over-inflated offer may be part of an appraisal scam, which is where buyers submit an intentionally outrageous offer that they know won’t match the appraisal. They do this so that they can get you to the negotiation table and secure a much lower price.
+
+To avoid having this happen, always consult with your Realtor. What our team does when faced with this circumstance is to insist that the buyer remove the appraisal contingency if they are serious about that high of an offer. This way, they cannot go through with their plan if it is a scam. If a buyer making an offer like this can provide proof of funds and is willing to waive the appraisal contingency, then everything is good to go. Otherwise, it is best to not let dollar signs cloud your decisions.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Sellers-+Keep+an+Eye+out+for+This+Sneaky+Scam.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/June/East+Bay+Real+Estate+Agent-+Sellers-+Keep+an+Eye+out+for+This+Sneaky+Scam.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Do not let suspiciously high offers cloud your judgement. Today I would like to share some insight into the reality of appraisal scams.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>Do not let suspiciously high offers cloud your judgement. Today I would like to share some insight into the reality of appraisal scams.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Things You Shouldn’t Overlook When Purchasing a Home</title>
+        <link>https://eastbayrealestatejournal.net/5-things-you-shouldnt-overlook-when-purchasing-a-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2017-10-11 04:22:35 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+5+Things+to+Not+Overlook+When+Buying.mp4</guid>
+        <description>
+
+What are the five things you shouldn’t overlook when purchasing a property in our East Bay market?
+
+1. The home’s surrounding neighborhood. Take a look at the neighborhood at all times of the day. What does it look like at night, or during the morning, or during the afternoon? Is the neighborhood conducive to what you might be looking for?
+
+2. Your daily commute. What’s your trip to work going to look like from your new property? If your commute might be a long one, you might want to take a look at it during the busiest commute hours in the morning and evening.
+
+“Is your home’s neighborhood conducive to what you’re looking for?”
+
+3. Whether or not the CC&amp;Rs or HOAs limit what you can do with the property. This means exterior enhancements, paint, etc. 
+
+4. Whether or not you can rent out the property. If you plan on purchasing the home for a short period of time and then renting it out, you might not be allowed to do so if the home is located in an HOA area. 
+
+5. Things you can’t change about the property later on. If you don’t like the lot size, for example, you might be limited in making future enhancements to it, so take a look at that and decide whether you want to reconsider or not.
+
+If you have any other questions about buying a home in our area, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+5+Things+to+Not+Overlook+When+Buying.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+5+Things+to+Not+Overlook+When+Buying.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To ensure that your new home is the best fit possible, there are five factors you shouldn’t overlook before purchasing it.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>To ensure that your new home is the best fit possible, there are five factors you shouldn’t overlook before purchasing it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Know When It's Time to Replace Your Appliances?</title>
+        <link>https://eastbayrealestatejournal.net/how-do-you-know-when-its-time-to-replace-your-appliances.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2017-09-20 07:20:31 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Appliances-Home+Systems.mp4</guid>
+        <description>
+
+Whether you’re purchasing a property with existing appliances and home systems or you already own a home, it’s important to understand how long home systems and appliances truly last.
+
+One of the most important things to realize is that even though systems or appliances may not be broken down, they still might not be as efficient as they could be. 
+
+If technology has advanced far past the level at which your current appliances and systems are functioning, you may want to consider making some repairs. 
+
+“Staying proactive about repairing or replacing systems and appliances will save you a lot of trouble.”
+
+Sometimes, replacing systems and appliances altogether might also be necessary. Staying proactive about repairing or replacing systems and appliances will save you a lot of trouble down the line. 
+
+It is important to know how long each of the systems and appliances in your home will tend to last. Knowing this will give you a better idea of where you should make investments toward a more efficient home. 
+
+Air conditioners, water heaters, and stoves all last eight to 15 years. Refrigerators last between seven and 13 years, dishwashers last between nine and 15 years, and washers and dryers last five to 15 years. HVAC systems tend to last the longest—between 10 and 30 years. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Appliances-Home+Systems.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Appliances-Home+Systems.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Do you know how long the systems and appliances in your home will last? This information can save you a lot of trouble down the line.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>Do you know how long the systems and appliances in your home will last? This information can save you a lot of trouble down the line.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Things You Should Know About Homeowners Associations</title>
+        <link>https://eastbayrealestatejournal.net/5-things-you-should-know-about-homeowners-associations.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2017-09-06 11:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+You+Purchase+a+Home+Within+a+Homeowners+Association%253F.mp4</guid>
+        <description>
+
+Homeowners associations can include single-family residences in a community or a townhouse or condo community. Before you purchase a property within a homeowners association, there are five things you should know.
+
+First, what is the monthly cost of the HOA? For condos and townhomes, that can range from $250 to $450 or even $500, depending on what the community offers.
+
+“What is covered by the HOA and what benefits are available?”
+
+You need to be comfortable with that monthly payment. Plus, your lender will qualify you based on your mortgage payment, taxes, and HOA fees, so it’s important to know what that amount is in order to qualify to buy the property.
+
+What is covered in the HOA? Homeowners associations may cover general upkeep of the area, landscaping, pool maintenance, tennis court upkeep, and other amenities. Some HOAs cover trash removal, water bills, and insurance for the property—which is not the same as your personal policy. Figure out what the HOA offers and what benefits are available to you.
+
+What are the rules and regulations in the HOA? Different homeowners associations will have different rules, such as where you can park, how many people you can have over, and other things like that.
+
+Are you happy with the outside of the house? The great thing about HOAs is the community will be uniform. There are specific colors for the outside of the house and the front door. There are also rules about mowing the lawn and landscaping. Some people may view these regulations as a downside because there is less freedom for what you can do with your property.
+
+Finally, how can you get involved with the HOA? You may want to get on the HOA board to make the rules and regulations and further improve the property and the community itself.
+
+If you have any other questions about homeowners associations or you would like to learn more about buying a home, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+You+Purchase+a+Home+Within+a+Homeowners+Association%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+You+Purchase+a+Home+Within+a+Homeowners+Association%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Before you purchase a home that’s part of a homeowners association, there are five questions you should ask.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>Before you purchase a home that’s part of a homeowners association, there are five questions you should ask.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Qualifying for a Home Mortgage Just Got Easier</title>
+        <link>https://eastbayrealestatejournal.net/qualifying-for-a-home-mortgage-just-got-easier.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Scott Fuller</author>
+        <pubDate>2017-08-22 05:53:05 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Fannie+Mae+Changes.mp4</guid>
+        <description>
+
+If you’ve been thinking of buying a home, you may be happy to know that the government has recently made it easier to qualify for a mortgage.
+
+Recent changes announced by Fannie Mae will be great news for anyone who perhaps previously struggled to qualify for a home mortgage. First of all, the debt-to-income ratio has increased to 50%.
+
+“The government has recently made it easier to qualify for a mortgage.”
+
+This means that you’re able to be qualified based on 50% of your income going toward your mortgage.
+
+Next, adjustable rate mortgages can be done with 5% down. In the past, a higher percentage was required.
+
+Another key change is that you may now qualify using future primary employment income. What this means is that if you have a pay increase or new job coming up in the near future, that higher income can help you qualify for your purchase, today.
+
+Self-employed borrowers may now also qualify based on one year of tax returns. In the past decade or so, self-employed people had very few options—so this is great news.
+
+Finally, timeshares are no longer considered mortgages. So, if you’re attempting to qualify for a home purchase you will no longer have to worry about a timeshare counting as a current mortgage.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Fannie+Mae+Changes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Fannie+Mae+Changes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Fannie Mae’s recent changes are great news for anyone who has previously struggled to qualify for a mortgage. Let’s take a look at what’s changed.</itunes:subtitle>
+        <itunes:author>Scott Fuller</itunes:author>
+        <itunes:summary>Fannie Mae’s recent changes are great news for anyone who has previously struggled to qualify for a mortgage. Let’s take a look at what’s changed.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should Real Estate Be Part of Your Retirement Plan?</title>
+        <link>https://eastbayrealestatejournal.net/should-real-estate-be-part-of-your-retirement-plan.html</link>
         
         <author>Scott Fuller</author>
         <pubDate>2017-06-21 11:18:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+Real+Estate+Be+Part+of+Your+Retirement+Plan%253F.mp4</guid>
         <description>
-
 Should you invest in real estate as part of your retirement plan? It’s a good idea, but you need to make sure it’s right for you.
 
 Should real estate be part of your retirement plan?
@@ -51,18 +392,16 @@ So, before you take the plunge, make sure you do your research. First, find out 
 
 If you have any other questions about investing in real estate, just give us a call or send us an email. We would be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+Real+Estate+Be+Part+of+Your+Retirement+Plan%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Should+Real+Estate+Be+Part+of+Your+Retirement+Plan%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Should you invest in real estate as part of your retirement plan? It’s a good idea, but you need to make sure it’s right for you.
 
 </itunes:subtitle>
         <itunes:author>Scott Fuller</itunes:author>
         <itunes:summary>
-
 Should you invest in real estate as part of your retirement plan? It’s a good idea, but you need to make sure it’s right for you.
 
 </itunes:summary>
@@ -71,7 +410,7 @@ Should you invest in real estate as part of your retirement plan? It’s a good 
       
       <item>
         <title>Why You Should Run Comparables Before Submitting an Offer</title>
-        <link>localhost:4000/why-you-should-run-comparables-before.html</link>
+        <link>https://eastbayrealestatejournal.net/why-you-should-run-comparables-before.html</link>
         
           <category>East Bay Real Estate Buyer Tips</category>
         
@@ -97,7 +436,7 @@ To set yourself up to get the best outcome as a buyer or a seller, make sure you
 If you’re looking to buy or sell a home or you have any other real estate questions, please don’t hesitate to give me a call. I’d be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+The+Importance+of+Running+Comps.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+The+Importance+of+Running+Comps.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -116,7 +455,7 @@ When you’re looking at buying a home, it’s very important to have your agent
       
       <item>
         <title>How to Handle Multiple Offers on Your Home</title>
-        <link>localhost:4000/how-to-handle-multiple-offers-on-your.html</link>
+        <link>https://eastbayrealestatejournal.net/how-to-handle-multiple-offers-on-your.html</link>
         
           <category>East Bay Real Estate Seller Tips</category>
         
@@ -158,7 +497,7 @@ As your agent, I take the time to interview each buyer and buyer’s agent to en
 If you have any other questions regarding this or any other topic, please reach out to me. I would be happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Multiple+Offer+Situations.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Multiple+Offer+Situations.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -177,7 +516,7 @@ To maximize the return on your investment, here are five things you need to cons
       
       <item>
         <title>Busting One of Real Estate's Biggest Myths</title>
-        <link>localhost:4000/busting-one-of-real-estates-biggest.html</link>
+        <link>https://eastbayrealestatejournal.net/busting-one-of-real-estates-biggest.html</link>
         
           <category>East Bay Real Estate Buyer Tips</category>
         
@@ -203,7 +542,7 @@ When you sell your house and you’re assigning a price, you need to consider al
 If you have any questions or you’re thinking about buying or selling a home here in the East Bay, give me a call or send me an email. I’m here to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Price+per+Square+Foot+Misconception.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Price+per+Square+Foot+Misconception.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -222,7 +561,7 @@ Many people incorrectly think that price per square foot will be the same for al
       
       <item>
         <title>How Do Home Prices Differ Along the BART Lines?</title>
-        <link>localhost:4000/how-do-home-prices-differ-along-bart.html</link>
+        <link>https://eastbayrealestatejournal.net/how-do-home-prices-differ-along-bart.html</link>
         
           <category>East Bay Real Estate Buyer Tips</category>
         
@@ -246,7 +585,7 @@ It’s not surprising that we’re starting to see people living in San Francisc
 If you want a copy of the graphic in the video above for yourself, let me know and I’d be happy to send it over. If you have any other questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Average+Price+per+Square+Foot+for+Homes+Along+the+BART+Lines.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+Average+Price+per+Square+Foot+for+Homes+Along+the+BART+Lines.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -265,7 +604,7 @@ The Bay Area is a great place to live. However, it can get pretty expensive depe
       
       <item>
         <title>The Important Differences Between Price and Value</title>
-        <link>localhost:4000/the-important-differences-between-price.html</link>
+        <link>https://eastbayrealestatejournal.net/the-important-differences-between-price.html</link>
         
           <category>East Bay Real Estate Seller Tips</category>
         
@@ -291,7 +630,7 @@ From there, you’ll use this knowledge as a marketing strategy to determine wha
 If you’re thinking of selling your home this year and you’d like to discuss the value of your home and the best way to market it from a pricing standpoint, give me a call or send me an email. I’d be glad to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -310,7 +649,7 @@ When you sell your home, you need to understand the difference between its value
       
       <item>
         <title>How Will Changes in New Construction Affect Buyers and Sellers?</title>
-        <link>localhost:4000/how-will-changes-in-new-construction.html</link>
+        <link>https://eastbayrealestatejournal.net/how-will-changes-in-new-construction.html</link>
         
           <category>East Bay Real Estate Market Update</category>
         
@@ -334,7 +673,7 @@ When the builders have to take on these costs, they have to pass it on to the co
 If you have any questions, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+How+Changes+in+New+Home+Construction+Can+Impact+Sellers+and+Buyers+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+How+Changes+in+New+Home+Construction+Can+Impact+Sellers+and+Buyers+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -353,15 +692,12 @@ Changes in new construction could have a pretty significant impact on the real e
       
       <item>
         <title>3 Steps to a Quick, Lucrative Home Sale</title>
-        <link>localhost:4000/3-steps-to-quick-lucrative-home-sale.html</link>
-        
-          <category>East Bay Real Estate Seller Tips</category>
+        <link>https://eastbayrealestatejournal.net/3-steps-to-a-quick-lucrative-home-sale.html</link>
         
         <author>Scott Fuller</author>
         <pubDate>2017-02-17 14:47:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+3+ways+to+sell+your+house+fast+in+2017.mp4</guid>
         <description>
-
 Doing these three things will get your home sold quicker and for the best price.
 
 If you’re looking to sell your home in 2017, there are three things you can do to sell for the most money in the shortest amount of time.
@@ -378,18 +714,16 @@ Finally, make sure you declutter. Some houses need to be staged and some don’t
 
 If you have any other questions, please feel free to give me a call or send me an email. I’m happy to help!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+3+ways+to+sell+your+house+fast+in+2017.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2017/East+Bay+Real+Estate+Agent-+3+ways+to+sell+your+house+fast+in+2017.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Doing these three things will get your home sold quicker and for the best price.
 
 </itunes:subtitle>
         <itunes:author>Scott Fuller</itunes:author>
         <itunes:summary>
-
 Doing these three things will get your home sold quicker and for the best price.
 
 </itunes:summary>
@@ -398,7 +732,7 @@ Doing these three things will get your home sold quicker and for the best price.
       
       <item>
         <title>Why Shouldnt You Work With an Agent Who Practices Dual Agency?</title>
-        <link>localhost:4000/why-shouldnt-you-work-with-agent-who.html</link>
+        <link>https://eastbayrealestatejournal.net/why-shouldnt-you-work-with-agent-who.html</link>
         
           <category>East Bay Real Estate Seller Tips</category>
         
@@ -424,7 +758,7 @@ My suggestion is to only work with an agent who doesn’t practice dual agency. 
 If you have any questions about this topic or are thinking of buying or selling in the East Bay market, feel free to give me a call or shoot me an email. I’d be happy to speak with you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Dual+Agency.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Dual+Agency.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -443,7 +777,7 @@ If you’re selling your house, you shouldn’t ask any agent that practices dua
       
       <item>
         <title>10 Simple Ways to Add to Your Home's Value</title>
-        <link>localhost:4000/10-simple-ways-to-add-to-your-homes.html</link>
+        <link>https://eastbayrealestatejournal.net/10-simple-ways-to-add-to-your-homes.html</link>
         
           <category>East Bay Real Estate Seller Tips</category>
         
@@ -497,7 +831,7 @@ Pricing mentioned in this article has been adjusted to reflect typical East Bay 
 In the meantime, if you ever have any questions, you can give me a call at (925) 855-3432.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>According to recent data from Redfin, homes sold during the winter are 9% more likely to sell than homes listed during other times of the year. In addition to this, homes sold in the winter sell for 1.2% more money. With the 2017 winter home selling season upon us, we are getting a lot of questions as to the best ways to prepare a home in order to get the MOST money when selling.
@@ -512,7 +846,7 @@ In the meantime, if you ever have any questions, you can give me a call at (925)
       
       <item>
         <title>How Will a Trump Presidency Impact the East Bay Market? </title>
-        <link>localhost:4000/east-bay-real-estate-agent-how-will.html</link>
+        <link>https://eastbayrealestatejournal.net/east-bay-real-estate-agent-how-will.html</link>
         
           <category>East Bay Real Estate</category>
         
@@ -550,7 +884,7 @@ There are a lot of factors at play, so it’s hard to say exactly how Trump will
 If you have any questions, please don’t hesitate to give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+How+Will+Trump+Affect+the+Real+Estate+Market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+How+Will+Trump+Affect+the+Real+Estate+Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -569,7 +903,7 @@ Donald Trump is the President-elect. How will his presidency impact the East Bay
       
       <item>
         <title>The Best Places to Live in the East Bay</title>
-        <link>localhost:4000/east-bay-real-estate-agent-two-great.html</link>
+        <link>https://eastbayrealestatejournal.net/east-bay-real-estate-agent-two-great.html</link>
         
           <category>East Bay Real Estate</category>
         
@@ -591,7 +925,7 @@ At number 46 on the list is Fremont. This is a city with a diverse culture, as w
 If you have any questions about any of the cities on the list or here in the East Bay, we would love to talk. There are a ton of great ones out there. Give us a call or send us an email today.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Two+Great+Places+to+Live+in+the+East+Bay.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Two+Great+Places+to+Live+in+the+East+Bay.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -610,7 +944,7 @@ In Money Magazine’s list of top 50 places to live in the U.S., two cities in t
       
       <item>
         <title>Should You List Your Home During the Holidays?</title>
-        <link>localhost:4000/should-you-list-your-home-during.html</link>
+        <link>https://eastbayrealestatejournal.net/should-you-list-your-home-during.html</link>
         
           <category>East Bay Real Estate</category>
         
@@ -655,7 +989,7 @@ While most people think that there are fewer buyers looking for homes during the
 Don’t be tricked into thinking that buyers are only around during the spring or summer; lower inventory and less competition make the holidays a great to list your home. If you have the flexibility to be able to do this, give me a call or send me an email and I’d be happy to point you in the right direction!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+7+Reasons+to+List+Your+Home+during+the+Holidays.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+7+Reasons+to+List+Your+Home+during+the+Holidays.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -674,15 +1008,12 @@ Contrary to what you may think, listing your home during the holidays is actuall
       
       <item>
         <title>These 3 Renovations Add the Most Value to Your Home</title>
-        <link>localhost:4000/east-bay-real-estate-agent-3-home.html</link>
-        
-          <category>East Bay Real Estate</category>
+        <link>https://eastbayrealestatejournal.net/these-3-renovations-add-the-most-value-to-your-home.html</link>
         
         <author>Scott Fuller</author>
         <pubDate>2016-10-17 16:40:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+3+Home+Improvements+That+Add+the+Most+Value+(1).mp4</guid>
         <description>
-
 If you’re thinking about selling your home, you may be wondering which improvements will get you the best return on investment.
 
 A couple of weeks ago, we sent out an email asking all of you to send us your questions about real estate and, overwhelmingly, the most asked question was, “Which additions or enhancements to my home will get me the best return on investment?” Here are my top three picks:
@@ -707,18 +1038,16 @@ One renovation that many people think about making is a bathroom remodel. Obviou
 
 I hope this helps you better determine where you should put your money in order to maximize your investment in your home. If you have any other questions about selling your home or anything else related to real estate, give me a call or send me an email. I’d be happy to help you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+3+Home+Improvements+That+Add+the+Most+Value+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+3+Home+Improvements+That+Add+the+Most+Value+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 If you’re thinking about selling your home, you may be wondering which improvements will get you the best return on investment.
 
 </itunes:subtitle>
         <itunes:author>Scott Fuller</itunes:author>
         <itunes:summary>
-
 If you’re thinking about selling your home, you may be wondering which improvements will get you the best return on investment.
 
 </itunes:summary>
@@ -727,15 +1056,12 @@ If you’re thinking about selling your home, you may be wondering which improve
       
       <item>
         <title>Should You Accept a Contingent Offer from a Buyer?</title>
-        <link>localhost:4000/east-bay-real-estate-agent-should-you.html</link>
-        
-          <category>East Bay Real Estate Seller Tips</category>
+        <link>https://eastbayrealestatejournal.net/should-you-accept-a-contingent-offer-from-a-buyer.html</link>
         
         <author>Scott Fuller</author>
         <pubDate>2016-09-26 16:09:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Should+You+Accept+a+Contingent+Offer%253F.mp4</guid>
         <description>
-
 When deciding whether to accept a contingent offer, there are a few questions you should ask first.
 
 Let’s say you’ve got your home for sale on the market and you receive an offer from a buyer that is contingent on them selling their existing home. Should you accept it?
@@ -754,18 +1080,16 @@ For these reasons, if all of the conditions look right, we’ll usually recommen
 
 If you have any other questions on this topic or any others, feel free to contact us directly by phone or email. We’d love to hear from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Should+You+Accept+a+Contingent+Offer%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent-+Should+You+Accept+a+Contingent+Offer%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 When deciding whether to accept a contingent offer, there are a few questions you should ask first.
 
 </itunes:subtitle>
         <itunes:author>Scott Fuller</itunes:author>
         <itunes:summary>
-
 When deciding whether to accept a contingent offer, there are a few questions you should ask first.
 
 </itunes:summary>
@@ -774,7 +1098,7 @@ When deciding whether to accept a contingent offer, there are a few questions yo
       
       <item>
         <title>FHA Lending Changes Are Making Condos Easier to Finance</title>
-        <link>localhost:4000/fha-lending-changes-are-making-condos.html</link>
+        <link>https://eastbayrealestatejournal.net/fha-lending-changes-are-making-condos.html</link>
         
           <category>East Bay Real Estate Buyer Tips</category>
         
@@ -802,7 +1126,7 @@ These changes make everything a little bit easier. If you rewind about 10 years,
 If you’re an FHA buyer with questions about how this works, or if you’re a seller wondering how all of this will impact the condo you’re trying to sell, feel free to contact us by phone or email at any time. We look forward to helping you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -821,7 +1145,7 @@ The government has recently made certain changes to FHA lending that will make i
       
       <item>
         <title>A Common Issue with California Investment Properties</title>
-        <link>localhost:4000/east-bay-real-estate-agent-issues-with.html</link>
+        <link>https://eastbayrealestatejournal.net/east-bay-real-estate-agent-issues-with.html</link>
         
           <category>East Bay Real Estate Investment Tips</category>
         
@@ -843,7 +1167,7 @@ Keep this in mind if you’re an investment property owner!
 If you have more questions on this subject, please feel free to call me or email me. I’d be happy to answer them for you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent+Return+on+Investment.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent+Return+on+Investment.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -862,7 +1186,7 @@ If you’re an investor with a property that has had renters for a long time, I 
       
       <item>
         <title>5 Reasons to Visit That East Bay Home at Night </title>
-        <link>localhost:4000/east-bay-real-estate-agent-5-reasons-to.html</link>
+        <link>https://eastbayrealestatejournal.net/east-bay-real-estate-agent-5-reasons-to.html</link>
         
           <category>East Bay Real Estate Buyer Tips</category>
         
@@ -897,7 +1221,7 @@ When you are out looking at properties, you typically only visit homes during th
 If you have any other questions about buying a home or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent+5+Reasons+to+Look+at+Potential+Homes+at+Night.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="https://eastbayrealestatejournal.net" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/East+Bay+Real+Estate+Agent+5+Reasons+to+Look+at+Potential+Homes+at+Night.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -917,6 +1241,6 @@ When you are out looking at properties, you typically only visit homes during th
     <copyright>Scott Fuller</copyright>
     <media:credit role="author">Scott Fuller</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team - your professional  Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Scott Fuller Team | BRE# 01334119 - your professional  Real Estate Agents.</media:description>
   </channel>
 </rss>

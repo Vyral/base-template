@@ -3,7 +3,7 @@ title: "Andross"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: "http://eastbayrealestatejournal.net"
+url: "https://eastbayrealestatejournal.net"
 
 # Build settings
 markdown: kramdown
@@ -17,7 +17,7 @@ kramdown:
   input: GFM
 highlighter: rouge
 
-paginate: 5
+paginate: 10
 permalink: none
 
 gems:
