@@ -22,7 +22,7 @@ youtube_code: WWyWTrsp22s
 
 {% include youtube.html %}
 
-Following a hail storm, what steps should homeowners take in the aftermath? Let’s find out.
+<center>Following a hail storm, what steps should homeowners take in the aftermath? Let’s find out.</center>
 
 After a hail storm hits, there are a few steps all homeowners will need to take.
 
