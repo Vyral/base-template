@@ -8,13 +8,13 @@ excerpt: >-
   Where do we rank among Pennsylvania’s best counties? Let’s just say we
   definitely don’t rank low.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/November/Central+PA+Real+Estate+Agent-+What+Is+the+%25231+County+to+Live+In%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/November/Central+PA+Real+Estate+Agent-+What+Is+the+%25231+County+to+Live+In%253F+(1).mp4
 pullquote: The area is desirable but not impossible to afford.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oiMqC23EdxA
+youtube_code: A7vmvRBnGM4
 ---
 
 {% include youtube.html %}
