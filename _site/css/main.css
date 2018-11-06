@@ -1443,7 +1443,7 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #3E3E3E;
+  border-bottom: 2px solid #32200f;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1520,12 +1520,12 @@ html[xmlns] .flexslider .slides {
     opacity: 0; } }
 .brand-color {
   box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #3E3E3E;
+  background: #32200f;
   -webkit-animation: 0.3s fadein ease-in-out;
           animation: 0.3s fadein ease-in-out; }
 
 .navbar-andross-bottom {
-  background: #3E3E3E;
+  background: #32200f;
   color: #fff;
   padding: 0;
   margin: 0;
@@ -2457,7 +2457,7 @@ table tr, table td {
   margin: auto; }
 
 .footer {
-  background: #3d3d3d;
+  background: #311f0f;
   color: #5d9bd3;
   padding: 2rem;
   text-align: center;
@@ -2745,6 +2745,56 @@ form select {
     text-decoration: none;
     color: #0F4B8F; }
 
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_asterix {
+  color: #0F4B8F !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #0F4B8F;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #0F4B8F;
+  Border: 1px solid #0F4B8F; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
+
 .footer {
   color: #fff; }
   .footer .attribution svg {
@@ -2755,7 +2805,7 @@ form select {
     color: #fff; }
 
 .newsletter {
-  background: #363636; }
+  background: #26180b; }
 
 #side-logo {
   width: 90%;
