@@ -10,4 +10,5 @@ description: Hear what our customers are saying about Woodlands Eco Realty, your
 &nbsp;
 
 <div class="client-testimonial"><h5 class="testimonial-author"><strong>How Woodlands Eco Realty Helped Bill and Denise Chappa</strong></h5><iframe width="1012" height="569" src="https://www.youtube.com/embed/qW8pN8uAlnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<div class="client-testimonial"><h5 class="testimonial-author"><strong>How Woodlands Eco Realty Helped One Young Professional Purchase His First Home</strong></h5><iframe width="1012" height="569" src="https://www.youtube.com/embed/tEHsGXq8Fvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<div class="client-testimonial"><h5 class="testimonial-author">&nbsp;</h5><h5 class="testimonial-author"><strong>How Woodlands Eco Realty Helped One Young Professional Purchase His First Home</strong></h5><iframe width="1012" height="569" src="https://www.youtube.com/embed/tEHsGXq8Fvo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
