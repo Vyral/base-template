@@ -1,97 +1,123 @@
 audit_header: false
 title: Houston Real Estate Video Blog with Priyanka Johri
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials
-
 emma:
   lightbox:
   form:
-
 client:
   name: Priyanka Johri
   title:
   license_number:
-  about_markdown: |
-    Woodlands Eco Realty - Your Agent of Change Taking Care of People, Pets, and Planet.  Priyanka Johri specializes in National and International Relocations . As a Cartus qualified Realtor, she can help you with all your relocation needs. From furnished short-term rentals while you look for a home to getting utilities and furniture set up after you find your home.
+  about_markdown: >
+    Woodlands Eco Realty - Your Agent of Change Taking Care of People, Pets, and
+    Planet.  Priyanka Johri specializes in National and International
+    Relocations . As a Cartus qualified Realtor, she can help you with all your
+    relocation needs. From furnished short-term rentals while you look for a
+    home to getting utilities and furniture set up after you find your home.
 
-    As a pilot and a geologist in her previous life, she has traveled the world and understands what it takes for a family to uproot and move to a new place. From cultural shock to learning where best schools are and where the best amenities are to making new friends, it takes a lot to settle in.
 
-    To make your transition easy she not only take care of your real estate needs but also provides you with a list of ethnic restaurants, grocery stores etc. She might even introduce you to international friends from your home country or home town. Going that extra mile that makes your move easier.
+    As a pilot and a geologist in her previous life, she has traveled the world
+    and understands what it takes for a family to uproot and move to a new
+    place. From cultural shock to learning where best schools are and where the
+    best amenities are to making new friends, it takes a lot to settle in.
+
+
+    To make your transition easy she not only take care of your real estate
+    needs but also provides you with a list of ethnic restaurants, grocery
+    stores etc. She might even introduce you to international friends from your
+    home country or home town. Going that extra mile that makes your move
+    easier.
   market: Houston
   brand: Woodlands Eco Realty
   brokerage:
-  address: 26519 I-45 N, The Woodlands, TX 77380
+  address: '26519 I-45 N, The Woodlands, TX 77380'
   phone: 832-277-3577
   phone_type: Direct
   phone2: 832-955-8100
   phone2_type: Office
   email: Priyanka@WoodlandsEcoRealty.com
-  url: https://www.TheWoodlandsEcoRealty.com
-
+  url: 'https://www.TheWoodlandsEcoRealty.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.viewnorthhoustonhomes.com/homevalue/whatisyourhomeworth
+  first_CTA_URL: 'https://www.viewnorthhoustonhomes.com/homevalue/whatisyourhomeworth'
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.viewnorthhoustonhomes.com/search/map?city=The%20Woodlands&haslat=1&haslong=1&page=1&perpage=50&soldproperty=0&sortby=&type=map
-
+  second_CTA_URL: >-
+    https://www.viewnorthhoustonhomes.com/search/map?city=The%20Woodlands&haslat=1&haslong=1&page=1&perpage=50&soldproperty=0&sortby=&type=map
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.viewnorthhoustonhomes.com/homevalue/whatisyourhomeworth
-
+    CTA_title: What’s Your -- MARKET -- Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'https://www.viewnorthhoustonhomes.com/homevalue/whatisyourhomeworth'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.viewnorthhoustonhomes.com/search/map?city=The%20Woodlands&haslat=1&haslong=1&page=1&perpage=50&soldproperty=0&sortby=&type=map
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: >-
+      https://www.viewnorthhoustonhomes.com/search/map?city=The%20Woodlands&haslat=1&haslong=1&page=1&perpage=50&soldproperty=0&sortby=&type=map
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/WoodlandsEcoRealtors
-  linkedin_url: http://www.linkedin.com/in/Priyankajohri
-  gplus_url: https://plus.google.com/u/0/108436705247707452145
-  youtube_url: https://www.youtube.com/channel/UCJhplpMwkrZI6919g9o5SuA
-  twitter_url: https://twitter.com/Priyankajohri
+  facebook_url: 'https://www.facebook.com/WoodlandsEcoRealtors'
+  linkedin_url: 'http://www.linkedin.com/in/Priyankajohri'
+  gplus_url: 'https://plus.google.com/u/0/108436705247707452145'
+  youtube_url: 'https://www.youtube.com/channel/UCYdtYIIc_3nuPyuIRjbcc_w'
+  twitter_url: 'https://twitter.com/Priyankajohri'
   instagram_url:
-  pinterest_url: https://pinterest.com/johriwoodlands/
-  zillow_url: https://www.zillow.com/profile/WoodlandsEcoRealty/
+  pinterest_url: 'https://pinterest.com/johriwoodlands/'
+  zillow_url: 'https://www.zillow.com/profile/WoodlandsEcoRealty/'
   trulia_url:
-  yelp_url: https://www.yelp.com/biz/woodlands-eco-realty-the-woodlands
+  yelp_url: 'https://www.yelp.com/biz/woodlands-eco-realty-the-woodlands'
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 20
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -100,22 +126,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
-
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
