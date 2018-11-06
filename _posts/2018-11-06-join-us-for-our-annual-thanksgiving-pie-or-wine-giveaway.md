@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join Us For Our Annual Thanksgiving Pie or Wine Giveaway
+title: Join Us for Our Annual Thanksgiving Pie or Wine Giveaway
 date: 2018-11-06 21:40:00
 tags:
 excerpt: >-
