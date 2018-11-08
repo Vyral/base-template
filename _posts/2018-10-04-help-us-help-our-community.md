@@ -19,7 +19,7 @@ youtube_code: pITuPlomZNE
 
 {% include youtube.html %}
 
-Friends &151;
+Friends &#151;
 
 You may remember that last year we took over the "<a href="http://stgeorgebasketbrigade.org/" target="_blank">Basket Brigade</a>"" charity here in St. George and had the opportunity to deliver Thanksgiving to 264 nominated families! It was incredible.
 
@@ -39,4 +39,4 @@ We know it's a busy time, please take just a moment to nominate a family who wil
 
 <strong>-Jeremy Larkin, Basket Brigade Chairman</strong>
 
-<strong>PS &151;</strong> The even is NEXT WEEK so please don't delay!
+<strong>PS &#151;</strong> The even is NEXT WEEK so please don't delay!
