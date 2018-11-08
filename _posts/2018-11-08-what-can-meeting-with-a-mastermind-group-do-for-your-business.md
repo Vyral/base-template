@@ -1,17 +1,18 @@
 ---
 layout: post
 title: What Can Meeting With a Mastermind Group Do for Your Business?
-date:
+date: 2018-11-08 16:13:07
 tags:
   - Real Estate
 excerpt: What can meeting with a mastermind group do for your business?
-enclosure:
-pullquote:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Frank+Gray/Abby+Realty-+What+Can+Meeting+With+a+Mastermind+Group+Do+for+Your+Business%253F.mp4
+pullquote: Don’t try to grow your business alone.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/frank-gray-ss-nov-2-no-play.jpg
+youtube_code: e2UYi5CqTz8
 ---
 
 {% include youtube.html %}
@@ -20,7 +21,7 @@ When I first got into real estate sales, I quickly began to secure about one tra
 
 From there, I decided it was time to seek the advice of those who already had a wealth of experience and knowledge in the industry. I met up with five top-producing agents and asked if they would be willing to schedule regular mastermind group meetings with me so that we could all grow from each other moving forward. They agreed, and these meetings had a near-instant impact.
 
-**Just one month later, my business tripled and continued to grow over time thanks to my connections with these seasoned professionals.** I made over $250,000 in gross commission income last year working part-time while I was working full-time as a coach for agents at one of the most productive real estate offices in our state. &nbsp;
+**Just one month later, my business tripled and continued to grow over time thanks to my connections with these seasoned professionals.** I made over $250,000 in gross commission income last year working part-time while I was working full-time as a coach for agents at one of the most productive real estate offices in our state.  
 
 This year, my aspirations have changed. I plan to grow my brokerage to have over 100 agents. I also plan to grow my property management company to have over 200 properties. Meanwhile, on top of both of these goals, I will be coaching dozens and dozens of agents toward their own success in real estate.
 
