@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Reasons to Hire a Real Estate Professional When Buying
-date: 2018-06-28 21:34:29
+date: 2018-06-28 21:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   You know you should have a licensed real estate agent on your side when
   buying, but do you know why?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Why+Should+You+Hire+a+Buyers+Agent%253F+(1).mp4
 pullquote: >-
   When a seller lists their home on the market, they have already agreed to pay
   the buyer agent’s compensation.
@@ -20,7 +21,7 @@ youtube_code: 'https://youtu.be/Zi6xcyn_-v0'
 
 {% include youtube.html %}
 
-We all know that it’s important for a homebuyer to use a licensed real estate agent when buying a home. But do you know why? Today I will share three of the top reasons.&nbsp;
+We all know that it’s important for a homebuyer to use a licensed real estate agent when buying a home. But do you know why? Today I will share three of the top reasons. 
 
 **1. We have the inventory.** As real estate professionals, we have access to the multiple listing service (MLS), which is a database for Realtors. Of course, there are other websites out there that list houses for sale, but we all know that the MLS is the most up-to-date database for listings. Buyers who look for homes on other websites will only to be disappointed to find out they're not available.
 
