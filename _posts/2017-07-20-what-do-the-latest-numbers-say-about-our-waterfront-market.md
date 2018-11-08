@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Do the Latest Numbers Say About Our Waterfront Market?
+title: Mid-Year Waterfront Sales Review (2017)
 date: 2017-07-20 09:56:00
 tags:
   - Market Update
