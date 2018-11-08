@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017 First Quarter Market Update
+title: 1st Quarter Waterfront Sales Review (2017)
 tags:
   - Market Update
 excerpt: 'What does our real estate market look like now that we are done with the first quarter? I’ll go over some numbers from this year and compare to 2016 to give you an idea of what’s changed and what has stayed the same. We’ve had quite a bit of precipitation this year which played a huge part on the first quarter numbers. Luckily, I am quite confident we are in a position for a great second quarter. To get all the details and see what’s going on with real estate in your area, watch this short video.'
