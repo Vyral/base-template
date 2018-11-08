@@ -39,4 +39,4 @@ We know it's a busy time, please take just a moment to nominate a family who wil
 
 <strong>-Jeremy Larkin, Basket Brigade Chairman</strong>
 
-<strong>PS &#151;</strong> The even is NEXT WEEK so please don't delay!
+<strong>PS &#151;</strong> The event is NEXT WEEK so please don't delay!
