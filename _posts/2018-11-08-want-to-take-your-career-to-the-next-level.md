@@ -19,8 +19,6 @@ youtube_code: SS8wl6ASd_4
 
 {% include youtube.html %}
 
-I wanted to reach out today to let you all know that we are hiring here at The Wes Peters Group. No matter if you’re an experienced agent looking for some additional leverage, a new agent looking to get off to a fast start, or if you’re thinking about a career in real estate, I’d love to talk to you.
+I wanted to reach out today to let you all know that we are hiring here at The Wes Peters Group. No matter if you’re an experienced agent looking for some additional leverage, a new agent looking to get off to a fast start, or if you’re thinking about a career in real estate, I’d love to talk to you. We have in-house contract to close, in-house marketing, sales managers, world-class training, and much more. What we are able to offer you through our relationship with Keller Williams is unique and can help you take your career to the next level. If you or someone you know might be interested in sitting down with me to see what it would be like to work with us, don’t hesitate to reach out to me today.
 
 {% include pullquote.html %}
-
-We have in-house contract to close, in-house marketing, sales managers, world-class training, and much more. What we are able to offer you through our relationship with Keller Williams is unique and can help you take your career to the next level. If you or someone you know might be interested in sitting down with me to see what it would be like to work with us, don’t hesitate to reach out to me today.
