@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Quarter Market Update for Montana Real Estate
+title: 1st Quarter Waterfront Sales Review (2018)
 date: 2018-04-23 19:13:00
 tags:
   - Market Update
