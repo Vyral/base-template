@@ -34,6 +34,6 @@ If any damage was found, the contractor will submit a property damage report. Re
 
 {% include pullquote.html %}
 
-Once you’ve made this call and have scheduled a time for your agent to visit **the property, the third and final step you should take is to educate yourself on which repairs you’re entitled to**. If feasible, having your contractor there during the appointment, as well, will greatly enhance the experience.
+Once you’ve made this call and have scheduled a time for your agent to visit **the property, the third and final step you should take is to educate yourself on which repairs you’re entitled to**. If feasible, having your contractor there during the appointment will greatly enhance the experience.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
