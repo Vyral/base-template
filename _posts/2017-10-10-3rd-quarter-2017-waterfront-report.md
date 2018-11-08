@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3rd Quarter 2017 Waterfront Report
+title: 3rd Quarter Waterfront Sales Review (2017)
 date: 2017-10-10 13:21:00
 tags:
   - Market Update
