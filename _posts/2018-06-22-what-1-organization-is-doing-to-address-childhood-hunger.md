@@ -1,12 +1,13 @@
 ---
 layout: post
 title: What 1 Organization Is Doing to Address Childhood Hunger
-date: 2018-06-22 16:36:27
+date: 2018-06-22 16:36:00
 tags:
 excerpt: >-
   Today I am taking you behind the scenes at an amazing local organization: the
   Community Food Bank of Eastern Oklahoma.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-Tulsa+Real+Estate+Agent-+An+Opportunity+to+Help+Hungry+Children+(2).mp4
 pullquote: >-
   Approximately one in every four children goes to bed hungry at night, so the
   work the Community Food Bank is doing is critical.
@@ -19,11 +20,11 @@ youtube_code: MICgZZbH7B4
 
 {% include youtube.html %}
 
-Today I am excited to bring you some important information about a great local organization: the Community Food Bank of Eastern Oklahoma.&nbsp;
+Today I am excited to bring you some important information about a great local organization: the Community Food Bank of Eastern Oklahoma. 
 
-Eileen Bradshaw, the executive director of the Community Food Bank, joined me to explain a little bit about what they do.&nbsp;
+Eileen Bradshaw, the executive director of the Community Food Bank, joined me to explain a little bit about what they do. 
 
-With approximately 450 partner programs, this organization helps to distribute food throughout the state. According to Eileen, about one in every four children goes to bed hungry at night. And, as we can all agree, this is unacceptable.&nbsp;
+With approximately 450 partner programs, this organization helps to distribute food throughout the state. According to Eileen, about one in every four children goes to bed hungry at night. And, as we can all agree, this is unacceptable. 
 
 **“It’s part of our job just to make sure [these children] get what they need,” says Eileen.**
 
@@ -31,10 +32,10 @@ It was truly amazing to get a behind-the-scenes look at operations here at the C
 
 {% include pullquote.html %}
 
-The workers at the Food Bank are also delegating more resources to their partner programs, as they know that their lines grow longer in the summer months, as well.&nbsp;
+The workers at the Food Bank are also delegating more resources to their partner programs, as they know that their lines grow longer in the summer months, as well. 
 
-So, with as much as this organization does for our community, how can we give back and help them make a difference? Well, for every dollar donated, the Food Bank is able to produce four meals. Obviously, financial gifts are always welcomed.&nbsp;
+So, with as much as this organization does for our community, how can we give back and help them make a difference? Well, for every dollar donated, the Food Bank is able to produce four meals. Obviously, financial gifts are always welcomed. 
 
 Of course, volunteering your time and donating food are also great ways to help.
 
-So, if you want to get in touch with Eileen, you can give her a call at (918) 585-2800, or visit [**www.okfoodbank.org.&nbsp;**](https://okfoodbank.org/){: target="_blank"}
+So, if you want to get in touch with Eileen, you can give her a call at (918) 585-2800, or visit [**www.okfoodbank.org. **](https://okfoodbank.org/){: target="_blank"}
