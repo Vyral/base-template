@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Why You Need a Home Warranty
-date: 2018-10-11 14:00:01
+date: 2018-10-11 14:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Home warranties can help save you money for the fun things in a new home.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+The+Benefits+of+a+Home+Warranty.mp4
 pullquote: >-
   There are many benefits of having a warranty no matter if you just bought your
   home, currently own, or are looking to sell.
