@@ -19,9 +19,9 @@ youtube_code: yUyA1u4xJq4
 
 {% include youtube.html %}
 
-<center>Follow these steps and you’ll be on the path toward becoming a successful real estate investor.</center>
+<center><em>Follow these steps and you&rsquo;ll be on the path toward becoming a successful real estate investor.</em></center>
 
-Building wealth through real estate investment is something we’re passionate about. **Today, we’ll be discussing the steps you should take to start making money as an investor**:
+<br>Building wealth through real estate investment is something we’re passionate about. **Today, we’ll be discussing the steps you should take to start making money as an investor**:
 
 **1. Do your homework**. Take a look at the various strategies that are in the investment world. Some options of investment include fixing and flipping homes, wholesaling, and renting properties. There are even categories to explore within each of these options, so make sure to explore and find a route that matches with your goals.
 
