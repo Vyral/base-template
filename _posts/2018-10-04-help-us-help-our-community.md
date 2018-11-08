@@ -21,13 +21,13 @@ youtube_code: pITuPlomZNE
 
 Friends &151;
 
-You may remember that lastyear we took over the "<a href="http://stgeorgebasketbrigade.org/" target="_blank">Basket Brigade"</a> charity here in St. George and had the opportunity to deliver Thanksgiving to 222 nominated families! It was incredible.
+You may remember that last year we took over the "<a href="http://stgeorgebasketbrigade.org/" target="_blank">Basket Brigade</a>"" charity here in St. George and had the opportunity to deliver Thanksgiving to 264 nominated families! It was incredible.
 
 And guess what? It's time to do it again! <strong>WILL YOU PLEASE HELP?</strong>
 
 <ol>
 <li><strong>There are families in need</strong> who have not been nominated. PLEASE NOMINATE a family in need <a href="http://stgeorgebasketbrigade.org/" target="_blank">HERE.</a> What does "in need" mean? If you think for even a <em>second>/am> that they're in need, <strong>they're in need!</strong></li>
-<li>If you're able to <strong>feed a family,</strong> please do so <a href="http://hybridlight.com/product/basket-brigade-saint-george/" target="_blank">HERE.</a> It's just $45 to have a full Thanksgiving meal delivered to a family. And &ellip;we'll be sending you an amazing gift (see <a href="http://hybridlight.com/product/basket-brigade-saint-george/" tagret="_target">here) for doing so!</li>
+<li>If you're able to <strong>feed a family,</strong> please do so <a href="http://hybridlight.com/product/basket-brigade-saint-george/" target="_blank">HERE.</a> It's just $45 to have a full Thanksgiving meal delivered to a family. And &ellip;we'll be sending you an amazing gift (see <a href="http://hybridlight.com/product/basket-brigade-saint-george/" tagret="_target">here</a>) for doing so!</li>
 </ol>
 Here's (just one) of the messages we received from families who received a basket last year:
 
