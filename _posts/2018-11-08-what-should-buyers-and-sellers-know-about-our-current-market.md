@@ -21,7 +21,7 @@ youtube_code: Y9lrPKxGxZw
 
 {% include youtube.html %}
 
-Our real estate market is changing right before our eyes. Here’s what you need to know whether you’re thinking of buying, selling, or doing both.
+<p style="text-align: center;"><em>Our real estate market is changing right before our eyes. Here’s what you need to know whether you’re thinking of buying, selling, or doing both.</em></p>
 
 As we wind down in 2018, I’ve been getting a lot of questions about our marketplace and what’s happening with home values. Today I have an update for you.
 
