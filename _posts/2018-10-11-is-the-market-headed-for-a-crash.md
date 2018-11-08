@@ -8,7 +8,8 @@ excerpt: >-
   Though many are concerned about certain ominous headlines in the media
   regarding the market, we want to bring you the facts so that you can have a
   more informed opinion.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Are+We+Headed+for+a+Market+Crash%253F.mp4
 pullquote: It’s pretty clear that our local market is undergoing a shift.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,7 +30,7 @@ In 2018, we’ve been in a very low inventory market. There were high amounts of
 
 We also saw an average appreciation of about 5% to 8% this year, which is above the norm of the last few years. Experts say that is likely going to transition into an average appreciation of around 2% or 3%.
 
-**Moving forward, we’re seeing that showing activity is definitely down in most price ranges, and the inventory is balancing a little bit.** It’s still on the low side, but things are changing as we move into fall.&nbsp;
+**Moving forward, we’re seeing that showing activity is definitely down in most price ranges, and the inventory is balancing a little bit.** It’s still on the low side, but things are changing as we move into fall. 
 
 We’ll continue to monitor these trends, but overall, there’s no need to panic. Despite the inevitable slowing down of the market, we do tend to stay relatively busy throughout the fall season up to Thanksgiving. Depending on the weather, we may still see a good amount of activity even into December.
 
