@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Did Local Waterfront Markets Perform During the 3rd Quarter?
+title: 3rd Quarter Waterfront Sales Review (2018)
 date: 2018-10-15 18:45:09
 tags:
   - Market Update
