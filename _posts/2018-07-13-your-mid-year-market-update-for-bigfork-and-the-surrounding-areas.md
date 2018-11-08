@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Mid-Year Market Update for Bigfork and the Surrounding Areas
+title: Mid-Year Waterfront Sales Review (2018)
 date: 2018-07-13 15:03:00
 tags:
   - Market Update
