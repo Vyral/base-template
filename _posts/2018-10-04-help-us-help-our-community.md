@@ -31,9 +31,9 @@ And guess what? It's time to do it again! <strong>WILL YOU PLEASE HELP?</strong>
 </ol>
 Here's (just one) of the messages we received from families who received a basket last year:
 
-<em>"It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward."
+<em>"It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward."</em>
 
-<p style="margin-left: 40px;">Love, a grateful family.</p></em>
+<p style="margin-left: 40px;"><em>-Love, a grateful family.</em></p>
 
 We know it's a busy time, please take just a moment to nominate a family who will be forever grateful!
 
