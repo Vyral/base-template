@@ -20,7 +20,7 @@ youtube_code: 1LsbrMfjwKg
 
 {% include youtube.html %}
 
-There’s a fantastic website out there for medical professionals and their spouses that will make the process of buying a home much easier. Here’s where you can find it.
+<p style="text-align: center;"><em>There’s a fantastic website out there for medical professionals and their spouses that will make the process of buying a home much easier. Here’s where you can find it.</em></p>
 
 Usually I talk about the real estate market, but today I have a special guest to talk about something a little different. Joining me is my husband, Dr. John Ramey, and we’re going to talk about our website, [drmoves.com,](https://drmoves.com/){: target="_blank"} and how it can help medical professionals around the country and in our community.&nbsp;
 
