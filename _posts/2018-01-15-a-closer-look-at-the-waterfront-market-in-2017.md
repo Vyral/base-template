@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Closer Look at the Waterfront Market in 2017
+title: Recap of Yearly Waterfront Sales (2017)
 date: 2018-01-15 14:27:40
 tags:
   - Market Update
