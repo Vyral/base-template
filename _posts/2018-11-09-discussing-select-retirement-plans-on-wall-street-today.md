@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discussing Select Retirement Plans on Wall Street Today
-date: 2018-11-09 18:00:19
+date: 2018-11-09 18:00:00
 tags:
 excerpt: >-
   On my recent appearance on “Wall Street Today”, I discussed how I found a
@@ -10,7 +10,7 @@ enclosure:
 pullquote: I found a strong retirement plan by looking to the past.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/SteveNewWebsiteYT.jpg
+screenshot: /uploads/10.22.18YT.jpg
 video_file: /uploads/Oct_1.mp4
 ---
 
@@ -27,5 +27,3 @@ I went out and searched for about two years to find a strong retirement plan sol
 I went out and found the plan administrative company that put this together over 70 years ago, and that plan has over $6 billion in it. I partnered with them to do the same thing with the 401(k) and 403(b) side of the marketplace. **Then we rolled out our two private label select retirement programs for our for-profit and nonprofit clients.** Basically, our clients adopt the program as their own, take their plan from their individual bucket of money, put it in the collective bucket, and are able to get these massive economies of scale.
 
 If you have any questions for me or want to know how you can work to provide better retirement plan solutions for your company or your employees, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
