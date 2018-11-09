@@ -8,13 +8,13 @@ excerpt: >-
   We need your help. Not only are we looking for homes for our buyers, we’re
   also getting ready for another year with the Basket Brigade.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2018/St.+George+Real+Estate+Agent-+Help+Us+Help+Our+Community.mp4
+  https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2018/St.+George+Real+Estate+Agent-+Basket+Brigade+2018.mp4
 pullquote: Visit the St. George Basket Brigade website to nominate a family in need.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-4---jeremy-larkin---yt.jpg
-youtube_code: pITuPlomZNE
+youtube_code: r_X3Hf5Jxo0
 ---
 
 {% include youtube.html %}
