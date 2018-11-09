@@ -22,7 +22,7 @@ youtube_code: FD02nJthKLU
 
 {% include youtube.html %}
 
-By now, most of us have seen and felt a lot of changes in the marketplace. Right now, we’re looking at an absorption rate of 3.73 months’ supply of inventory, which is an increase from the period between 2014 and 2017, where there were only 1.5 months of supp
+By now, most of us have seen and felt a lot of changes in the marketplace. Right now, we’re looking at an absorption rate of 3.73 months’ supply of inventory, which is an increase from the period between 2014 and 2017, where there were only 1.5 months of supply.
 
 This is a big rise in inventory, and a big change from the strong seller’s market we knew in that period. **The current market is still good for sellers, but the shift has changed how we should strategically place your property.** We’ve also noticed an increase of expired listings for condos in the market. In 2017, there were 44 expired listings. Currently, there are 59 expired listings.
 
