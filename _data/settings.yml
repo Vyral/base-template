@@ -28,8 +28,7 @@ CTAs:
   first_CTA_text: Request a Consultation
   first_CTA_URL: 'http://savvyagent.biz/'
   second_CTA_text: Training Classes
-  second_CTA_URL: >-
-    https://s3.amazonaws.com/vyralmarketing/Marcus+Green/South+Odgen++-+KW+Success+-November.pdf
+  second_CTA_URL: 'http://savvyagent.biz/calendar/'
   VR_form: 'http://oi.vresp.com?fid=4c7f249ffd'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
