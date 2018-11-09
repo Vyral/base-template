@@ -21,7 +21,7 @@ youtube_code: 3e5iTHPcCvk
 
 {% include youtube.html %}
 
-Today, I’ll go over three important marketing strategies to help you sell your home for top dollar.
+<p style="text-align: center;"><em>Today, I’ll go over three important marketing strategies to help you sell your home for top dollar.</em></p>
 
 If you plan on selling your home, it’s very important that it’s marketed correctly. There are three ways to market your home:&nbsp;
 
