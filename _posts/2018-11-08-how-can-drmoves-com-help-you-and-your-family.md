@@ -32,6 +32,6 @@ Another big thing that the website does is help medical professionals find docto
 
 {% include pullquote.html %}
 
-**A new feature on [drmoves.com](https://drmoves.com/){: target="_blank"} is a service where we can help doctors find additional income.** There are a lot of opportunities out there for doctors to make additional income, and we’ve compiled a list of these on the website. They include doctor surveys, medical review companies, and being medical experts for attorneys in malpractice cases, just to name a few.
+**A new feature on [drmoves.com](https://drmoves.com/){: target="_blank"} is a service where we can help doctors find additional income.** There are a lot of opportunities out there for doctors to make additional income, and we’ve compiled a list of these on the website. They include doctor surveys, medical review companies, and chances to serve as medical experts for attorneys in malpractice cases, just to name a few.
 
 These are just a few of the things that you can find on [drmoves.com. ](https://drmoves.com/){: target="_blank"}If you have any questions about the website or if you’re a medical professional yourself and just need some advice from people who have been through it all before, don’t hesitate to give us a call or send us an email today. We will be back with part two of this discussion soon, where we’ll show you even more features of this wonderful site. We look forward to hearing from you soon.
