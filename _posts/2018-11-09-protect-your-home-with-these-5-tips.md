@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Protect Your Home With These 5 Tips
-date:
+date: 2018-11-09 21:01:02
 tags:
   - Real Estate
 excerpt: >-
