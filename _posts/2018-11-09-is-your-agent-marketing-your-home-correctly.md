@@ -25,12 +25,12 @@ youtube_code: 3e5iTHPcCvk
 
 If you plan on selling your home, it’s very important that it’s marketed correctly. There are three ways to market your home:&nbsp;
 
-1. Agent networking. There are 27,000 properties on the MLS. It’s impossible for agents to keep up with every single one of them. That’s why it’s your agent’s job to let other buyer agents know that your property is available. Your agent needs to have a networking system in place to tell 13,000 agents in the area about your new listing. Agents have to know about your house; that’s 70% of the reason your home will or will not sell.
+<strong>1. Agent networking.</strong> There are 27,000 properties on the MLS. It’s impossible for agents to keep up with every single one of them. That’s why it’s your agent’s job to let other buyer agents know that your property is available. Your agent needs to have a networking system in place to tell 13,000 agents in the area about your new listing. Agents have to know about your house; that’s 70% of the reason your home will or will not sell.
 
-2. Paid advertising. When you put your home on the market, it automatically goes on Realtor.com and Zillow. However, they will be on the last page. It costs a lot of money to have your home featured on those websites. Your agent needs to spend a couple thousand dollars a month on marketing on those websites, or your listing will live on the last page.
+<strong>2. Paid advertising. </strong>When you put your home on the market, it automatically goes on Realtor.com and Zillow. However, they will be on the last page. It costs a lot of money to have your home featured on those websites. Your agent needs to spend a couple thousand dollars a month on marketing on those websites, or your listing will live on the last page.
 
 {% include pullquote.html %}
 
-3. Yard marketing. We don’t just stick a For Sale sign in the yard and call it a day. We provide four ways for a buyer to contact us about your house. We have the traditional yard sign, an information sign, an “Open House Every Day, Call for Times” sign, and a “Buy This House and We’ll Sell Yours for Free.” We have 24-hour tracking so we can capitalize on every buyer who called one of those four numbers. We also have a team of agents to capture, return, and answer those calls at a high level so that you get maximum exposure for your property.
+<strong>3. Yard marketing. </strong>We don’t just stick a For Sale sign in the yard and call it a day. We provide four ways for a buyer to contact us about your house. We have the traditional yard sign, an information sign, an “Open House Every Day, Call for Times” sign, and a “Buy This House and We’ll Sell Yours for Free.” We have 24-hour tracking so we can capitalize on every buyer who called one of those four numbers. We also have a team of agents to capture, return, and answer those calls at a high level so that you get maximum exposure for your property.
 
 If you have any other questions about marketing your home in today’s market, just give us a call or send us an email. My team and I would be happy to help you!
