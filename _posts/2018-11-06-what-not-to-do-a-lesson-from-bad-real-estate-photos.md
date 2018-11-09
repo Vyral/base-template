@@ -24,7 +24,7 @@ youtube_code: hX9JwAEqOy0
 
 {% include youtube.html %}
 
-To fully understand what I mean for today’s topic of bad real estate photos, follow along in the video above, or use the time stamps I’ve provided below to navigate the video at your leisure:
+To fully understand what I mean for today’s topic of bad real estate photos, follow along in the video above, or use the timestamps I’ve provided below to navigate the video at your leisure:
 
 * **0:20—Distracting colors on the walls.** Lurid wallpaper or paint can make a room look even smaller. To counter that effect, use lighter, more neutral colors.
 * **0:50—Mirrors above the bed.** This look reminds me of the first time that I went to the Tropicana Hotel; I’d recommend something more neutral and less reminiscent of Las Vegas.
@@ -35,6 +35,6 @@ To fully understand what I mean for today’s topic of bad real estate photos, f
 
 {% include pullquote.html %}
 
-I always tell my sellers that you should always want to make sure the home speaks to as many buyers as possible.The sound of one tree falling is always going to be louder than a thousand trees growing, so eliminate those things that may turn people off and focus on things that will appeal to more people.
+I always tell my sellers that you should always want to make sure the home speaks to as many buyers as possible. The sound of one tree falling is always going to be louder than a thousand trees growing, so eliminate those things that may turn people off and focus on things that will appeal to more people.
 
 If you have any questions on home staging or about how to make your home appeal to a wider audience, please feel free to reach out to me.
