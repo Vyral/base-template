@@ -250,3 +250,8 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkh7cR90RCk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">Millionaire Real Estate Investor: Matt Aitchison</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cD7U-XCUmgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">The Quinton Group Success: Jeff Quinton</font>
