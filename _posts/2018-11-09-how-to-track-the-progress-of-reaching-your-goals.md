@@ -28,7 +28,7 @@ A lot of times in our business, we talk about a tool called the 4-1-1. If you’
 
 {% include pullquote.html %}
 
-A great reminder and tool is the book “**The One Thing” by Gary Keller and Jay Papasan**. It’s an amazing book to read to help you become super clear on your goals. There’s a section in the book called “The Seven Circles.” Unsurprisingly, it’s a diagram featuring seven circles which each person needs to fill out according to the following areas of their life:
+A great reminder and tool is the book, “**The One Thing,” by Gary Keller and Jay Papasan**. It’s an amazing book to read to help you become super clear on your goals. There’s a section in the book called “The Seven Circles.” Unsurprisingly, it’s a diagram featuring seven circles which each person needs to fill out according to the following areas of their life:
 
 * Spiritual life
 * Physical health
