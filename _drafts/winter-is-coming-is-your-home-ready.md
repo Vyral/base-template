@@ -20,7 +20,7 @@ youtube_code: fRqn50G3z2Q
 
 {% include youtube.html %}
 
-Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for the winter.
+<center>Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for the winter.</center>
 
 Calgarians are getting ready for winter—they’re preparing their cars and their garages are swamped with snow tires. But what about their houses? Barry Malesh from A Buyer’s Choice Home Inspections is here to give you some tips about what you should be doing to prepare your home for the coming winter.
 
