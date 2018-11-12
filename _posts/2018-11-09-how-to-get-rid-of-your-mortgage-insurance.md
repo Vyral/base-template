@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Rid of Your Mortgage Insurance
-date: 2018-11-09 20:32:48
+date: 2018-11-09 20:32:00
 tags:
   - Home Buyer Tips
 excerpt: Today I’ll be talking about mortgage insurance and how you can get rid of it.
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mortgage-insurance-youtube.jpg
-youtube_code: 9xPGQJwgRjM
+youtube_code: rBdofAEAbmw
 ---
 
 {% include youtube.html %}
 
 I’m Doug Cary, Real Estate Agent with Century 21 Everest. I’m going to tell you how to get rid of mortgage insurance.
 
-If you’ve bought a home and put less than a 20% down payment down, you’re familiar with mortgage insurance. &nbsp;It’s that added amount on your statement every month you wish you could get rid of. The good news is you might be able to. &nbsp;
+If you’ve bought a home and put less than a 20% down payment down, you’re familiar with mortgage insurance.  It’s that added amount on your statement every month you wish you could get rid of. The good news is you might be able to.  
 
 Homes with less than 20% equity in it are more risky for lenders and the lender requires that you pay for insurance. This goes to another company that will pay back the lender if you were to foreclose on the home.
 
