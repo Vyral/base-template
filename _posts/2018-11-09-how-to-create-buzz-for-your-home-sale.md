@@ -21,9 +21,9 @@ youtube_code: A0UfiatPwwY
 
 {% include youtube.html %}
 
-Welcome back to part five of our six-part series on how to sell your home faster and for more money. **Today we’re talking about how to create buzz in advance of listing your home.**
+Welcome back to part five of our six-part series on how to sell your home faster and for more money. **Today we’re talking about how to create a buzz around your home in advance of listing it.**
 
-When we are getting ready to list a home, we take it through a two-week “Coming Soon” period. Not only do we put a “Coming Soon” sign in the yard, but we also get pictures, promotional materials, and social media posts together so that our clients can start sharing that information with their friends and family and get those people to send it to their friends and family.
+When we are getting ready to list a home, we take it through a two-week “Coming Soon” period. Not only do we put a “Coming Soon” sign in the yard, but we also get pictures, promotional materials, and social media posts together so that our clients can start sharing that information with their friends and family, and get those people to send it to their friends and family.
 
 {% include pullquote.html %}
 
