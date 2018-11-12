@@ -19,7 +19,7 @@ youtube_code: VA9uoVkPVLI
 
 <p style="text-align: center;"><em>Why are some sellers unable to sell? Let’s look at the three main reasons.</em></p>
 
-After you hire a real estate agent who hammers a sign in your yard and lists your home, you assume it’s going to sell, right? Unfortunately, this isn’t the case; many listings don’t find a buyer, leaving sellers to wonder why they’re now stuck in a home that nobody wants to purchase. **Here are the top three reasons why your home isn’t selling:**
+After you hire a real estate agent who hammers a sign in your yard and lists your home, you assume it’s going to sell, right? Unfortunately, this isn’t the case&#151;many listings don’t find a buyer, leaving sellers to wonder why they’re now stuck in a home that nobody wants to purchase. **Here are the top three reasons why your home isn’t selling:**
 
 **1. Price.** It’s best to compare this to shopping for clothing at your favorite retail outlet. How often do you find yourself being drawn toward the clearance aisle or looking at those lucrative tags that shout “SALE” at you? These clothes were sent to the discount bin through a variety of factors—they were offered to buyers, rejected due to a high cost or unappealing style, and found their prices slashed. **Keep your home off the proverbial sale rack.** Price your home properly to begin; it’s statistically proven to net sellers more money. Doing otherwise could see you waiting months or even years for the right buyer to come along.
 
@@ -29,4 +29,4 @@ After you hire a real estate agent who hammers a sign in your yard and lists you
 
 **3. Marketing.** Many expect this to be the first thing an agent focuses on, but instead, it’s often the last (if at all). Marketing is important because it’s the story we tell about your home to the general public. **The average real estate agent spends a mere $400 on marketing each month.** At the Scott Himelstein Group, we spend around $3,000 per month to make sure your homes are pushed to the top online. Ask your agent, “How much do you spend on marketing monthly?” Make them go a step further and prove their claim.
 
-A home sale is like baking a cookie: You need all the ingredients or else it’ll turn out bad. If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you.
+A home sale is like baking a cookie: you need all the ingredients or else it’ll turn out bad. If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you.
