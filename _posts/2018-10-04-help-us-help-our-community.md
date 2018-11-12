@@ -21,7 +21,7 @@ youtube_code: r_X3Hf5Jxo0
 
 Friends &#151;
 
-You may remember that last year we took over the "<a href="http://stgeorgebasketbrigade.org/" target="_blank">Basket Brigade</a>"" charity here in St. George and had the opportunity to deliver Thanksgiving to 264 nominated families! It was incredible.
+You may remember that last year we took over the "<a href="http://stgeorgebasketbrigade.org/" target="_blank">Basket Brigade</a>"" charity here in St. George and had the opportunity to deliver Thanksgiving to 200+ nominated families! It was incredible.
 
 And guess what? It's time to do it again! <strong>WILL YOU PLEASE HELP?</strong>
 
