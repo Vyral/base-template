@@ -25,7 +25,8 @@
 		<li><a href="#contact" id="contact">Contact</a></li>
 		{% endif %}
 			{% if site.data.settings.show_custom_links == true %}
-				{% for item in site.data.settings.custom_links %}		
+				{% for item in site.data.settings.custom_links %}
+      		<li><a href="{{ item.url}}">{{ item.title}}</a></li>
     		{% endfor %}
 			{% endif %}
 		</ul>
