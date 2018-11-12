@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Can Meeting With a Mastermind Group Do for Your Business?
-date: 2018-11-08 16:13:07
+title: The Power of a Personal Mastermind Group
+date: 2018-11-08 16:13:00
 tags:
   - Real Estate
 excerpt: What can meeting with a mastermind group do for your business?
