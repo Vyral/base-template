@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keeping Your Negotiations Alive
-date: 2018-10-30 18:38:54
+date: 2018-10-30 18:38:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: 'When you get an offer, you need to respond to it.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/staying-alive-youtube.jpg
+youtube_alternate_image: /uploads/staying-alive-youtube-1.jpg
 youtube_code: PmDFHePyZg0
 ---
 
