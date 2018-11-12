@@ -1,13 +1,14 @@
 ---
 layout: post
 title: How to Track the Progress of Reaching Your Goals
-date: 2018-11-09 17:18:19
+date: 2018-11-09 17:18:00
 tags:
 excerpt: >-
   If you’re in need of some help with setting measurable goals to live any/every
   aspect of your life to the fullest, try the 4-1-1 challenge. Here’s what that
   means.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+How+to+Set+Measurable+Goals+for+Your+Life.mp4
 pullquote: >-
   You take your one-year goal, then break it down to a one-month plan, and
   within that month, you break it down to four weeks.
@@ -41,4 +42,4 @@ The section lays out what is called “goal-setting to the now.” That means ta
 
 **With that, I challenge you to do this exercise.** Take out seven pieces of paper and write out each of the categories at the top. For each, write down what that area would look like in your wildest dreams, if you could live your perfect life. I like to write out some phrases about what matters to me in each category. Highlight a couple from each, and then repeat the exercise: What would you have to do within five years to make those goals a reality? Then cut it down even more: What would it take to make it happen within the next year? **Create measurable goals so you can track your own success throughout the process, and live your very best life.**
 
-If you have any questions or fun tips related to goal-setting to the now, your GPS, or your 4-1-1, please feel free to reach out to me. I’d love to hear from you.<br>&nbsp;
+If you have any questions or fun tips related to goal-setting to the now, your GPS, or your 4-1-1, please feel free to reach out to me. I’d love to hear from you.<br>
