@@ -22,7 +22,7 @@ youtube_code: Rew3BfkBnBs
 
 {% include youtube.html %}
 
-You’ve probably heard a lot of people talking about the changing real estate market. **Homes are staying on the market for longer than they have been in the past and inventory is increasing.** We’ve been seeing this for about the last 60 to 90 days, but here are are some concrete numbers that show what’s actually going on right now.
+You’ve probably heard a lot of people talking about the changing real estate market. **Homes are staying on the market for longer than they have been in the past and inventory is increasing.** We’ve been seeing this for about the last 60 to 90 days, but here are some concrete numbers that show what’s actually going on right now.
 
 In Danville, for example, there are 152 active detached homes for sale, which is a pretty high number compared to what we’ve seen in the past. The average days on market here is around 75 days. Keep in mind that I’m not breaking this down by price range, so the average is brought up by a lot of the upper-end homes that typically take much longer to sell. Still, a 75-day average is huge.
 
@@ -30,13 +30,13 @@ In Danville, for example, there are 152 active detached homes for sale, which is
 
 **Here are some of the numbers for some other towns around the East Bay:**
 
-**Dublin:** 58 detached homes for sale and an average days on market of 42.
+**Dublin:** 58 detached homes for sale and an average days on market of 42 days on market.
 
-**Castro Valley:** 42 detached home for sale and an average days on market of 38
+**Castro Valley:** 42 detached home for sale and an average days on market of 38 days on market.
 
 **Antioch:** 178 detached homes for sale and an average of 36 days on market.
 
-**Fremont:** 200 detached homes for sale and an average days on market of 37.
+**Fremont:** 200 detached homes for sale and an average days on market of 37 days on market.
 
 **Livermore:** 133 detached home for sale and an average of 50 days on market.
 
