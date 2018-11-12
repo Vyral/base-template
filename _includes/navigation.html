@@ -24,6 +24,8 @@
 			{% if site.data.settings.client.first_CTA_URL != '#contact' and site.data.settings.client.second_CTA_URL != '#contact' %}
 		<li><a href="#contact" id="contact">Contact</a></li>
 		{% endif %}
+			{% if site.data.settings.show_custom_links == true %}
+				{% for item in site.data.settings.custom_links %}		
 
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
