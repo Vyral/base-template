@@ -21,7 +21,7 @@ youtube_code: KK2Lte2euGU
 
 {% include youtube.html %}
 
-Melanie and I are currently touring 10 different ports from New York to Quebec to experience the history of New England and Canada. It has been very interesting to see all the architectural styles and learn about the real estate history as well. We’ve been to high-end areas in Boston and now we’re in Portland, Maine, home of the Bush summer residence. At one time, this was the largest commercial port in the country and the city that Portland, Oregon was named after.
+Melody and I are currently touring 10 different ports from New York to Quebec to experience the history of New England and Canada. It has been very interesting to see all the architectural styles and learn about the real estate history as well. We’ve been to high-end areas in Boston and now we’re in Portland, Maine, home of the Bush summer residence. At one time, this was the largest commercial port in the country and the city that Portland, Oregon was named after.
 
 {% include pullquote.html %}
 
