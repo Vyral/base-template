@@ -9,13 +9,13 @@ excerpt: >-
   spouses that will make the process of buying a home much easier. Here’s where
   you can find it.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2018/Charleston+Real+Estate+%257C+The+Mikki+Ramey+Team-+Drmoves+part+1.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2018/Charleston+Real+Estate+%257C+The+Mikki+Ramey+Team-+drmoves+11-12.mp4
 pullquote: These are just a few of the things you can find on drmoves.com.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1LsbrMfjwKg
+youtube_code: N6NZjG8b_D4
 ---
 
 {% include youtube.html %}
