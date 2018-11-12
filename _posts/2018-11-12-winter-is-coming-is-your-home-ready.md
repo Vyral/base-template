@@ -20,9 +20,9 @@ youtube_code: fRqn50G3z2Q
 
 {% include youtube.html %}
 
-<center>Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for the winter.</center>
+<center><em>Today Barry Malesh from A Buyer&rsquo;s Choice Home Inspections joins me to provide you with some tips on how to prepare your home for the winter.</em></center>
 
-Calgarians are getting ready for winter—they’re preparing their cars and their garages are swamped with snow tires. But what about their houses? Barry Malesh from A Buyer’s Choice Home Inspections is here to give you some tips about what you should be doing to prepare your home for the coming winter.
+<br>Calgarians are getting ready for winter—they’re preparing their cars and their garages are swamped with snow tires. But what about their houses? Barry Malesh from A Buyer’s Choice Home Inspections is here to give you some tips about what you should be doing to prepare your home for the coming winter.
 
 **1. Service your furnace**. Now’s the time of year that you’ll start needing your furnace the most. Make sure you get it serviced and have your ducts cleaned out, because you don’t want to have any problems with it when the temperature is 40 below. Cleaning your unit and changing the filters will also help you avoid carbon monoxide leaks, keep the air in your home clean, and keep your bill lower.
 
