@@ -13,7 +13,7 @@ custom_links:
 client:
   name: Deepak Gupta
   license_number:
-  about_markdown: >
+  about_markdown: >-
     When buying or selling a home you want results and with Deepak Gupta and his
     professionally trained "Dee Team" that is what you get. At the "The Dee
     Team" we look to exceed your expectations whether you are looking to buy,
@@ -23,7 +23,7 @@ client:
   brand: The Dee Team
   brokerage: Keller Williams At The Parks
   address: '11 S Bumby Ave Suite #200<br>Orlando, FL 32803'
-  phone: 321-945-7351
+  phone: (321) 945-7351
   phone_type:
   phone2:
   phone2_type:
