@@ -17,7 +17,7 @@ youtube_code: VA9uoVkPVLI
 
 {% include youtube.html %}
 
-Why are some sellers unable to sell? Let’s look at the three main reasons.
+<p style="text-align: center;"><em>Why are some sellers unable to sell? Let’s look at the three main reasons.</em></p>
 
 After you hire a real estate agent who hammers a sign in your yard and lists your home, you assume it’s going to sell, right? Unfortunately, this isn’t the case; many listings don’t find a buyer, leaving sellers to wonder why they’re now stuck in a home that nobody wants to purchase. **Here are the top three reasons why your home isn’t selling:**
 
