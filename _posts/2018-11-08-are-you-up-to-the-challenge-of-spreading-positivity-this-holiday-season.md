@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Up to the Challenge of Spreading Positivity This Holiday Season?
-date: 2018-11-08 17:06:43
+date: 2018-11-08 17:06:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: D6fHD4emriI
+youtube_code: CjA4T9iYpwk
 ---
 
 {% include youtube.html %}
@@ -32,5 +32,3 @@ There is so much hostility and negativity pervading our current culture. Let thi
 Once again, I’d like to thank you on behalf of my entire team for the great year we’ve had. May your holiday season be filled with joy and positivity.
 
 If you have any questions for me or my team, feel free to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
