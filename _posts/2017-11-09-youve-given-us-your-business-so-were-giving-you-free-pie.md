@@ -8,16 +8,14 @@ excerpt: >-
   With Thanksgiving just around the corner, I want to take a moment to let all
   of my clients know how much my team and I appreciate you. To show you we mean
   it, we’re giving away some free pies.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/NOV/Oklahoma+City+Metro+Real+Estate+Agent-+Let+Us+Provide+the+Pie+This+Thanksgiving.mp4
+enclosure:
 pullquote: 'This Thanksgiving, the pie is on us.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/becky-ivins--thankgiving-pie-youtube.jpg
-youtube_code: 'https://youtu.be/tVNMgylMK3A'
+youtube_alternate_image: /uploads/becky-ivins-screenshot-pie-video-2-0-youtube.jpg
+youtube_code: 'https://youtu.be/oTMVIcEqe04'
 ---
-
 
 {% include youtube.html %}
 
@@ -27,7 +25,7 @@ Now, it’s our time to give back. This Thanksgiving, the pie is on us. That rig
 
 {% include pullquote.html %}
 
-All you need to do is fill out the form linked below to order your choice of either apple, pumpkin, or pecan pie **by Sunday, November 19th** and show up at our office to pick it up between 2pm and 6pm on Tuesday, November 21st. Our office is located at 6905 NW 122nd Street Oklahoma City, OK 73142.
+All you need to do is fill out the form linked below to order your choice of either apple, pumpkin, or pecan pie **by Sunday, November 18th** and show up at our office to pick it up between 10am and 1pm on Wednesday, November 21st. Our office is located at 6905 NW 122nd Street Oklahoma City, OK 73142.
 
 [You can place your order here.](https://goo.gl/forms/Jvy3DwahwaySUq9f2)
 
