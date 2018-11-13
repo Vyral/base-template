@@ -19,7 +19,9 @@ youtube_code: u5OEq13gTCg
 
 {% include youtube.html %}
 
-<center>We’ve found that having a real estate team gives clients a better home buying or selling experience.</center>
+<center><em>We&rsquo;ve found that having a real estate team gives clients a better home buying or selling experience.</em></center>
+
+&nbsp;
 
 When choosing your real estate professional, you can decide whether you want to work with a solo agent or an entire real estate team. **Here’s why we recommend you choose a team for your home buying and selling needs**:
 
