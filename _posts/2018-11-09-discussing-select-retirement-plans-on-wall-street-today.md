@@ -16,7 +16,7 @@ video_file: /uploads/Oct_1.mp4
 
 {% include post-video.html %}
 
-I recently joined Greg Rollett on “Wall Street Today” to talk about my career and some select retirement plans that I offer.
+I recently joined Greg Rollett on “Wall Street Today ”to talk about my career and my unique retirement plan solution called Select Retirement Plans.
 
 **I began my 25-year career as a personal financial advisor, and eventually graduated to working with small and mid-sized companies by managing their retirement plans.** I work with employees to help install plans and stay in compliance to maximize the protection for the employer and, at the same time, increase the opportunity for their employees to have more when they retire.
 
