@@ -1,6 +1,9 @@
 audit_header: false
 title: Becky Ivins Movers Real Estate
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -10,12 +13,12 @@ client:
   license_number: 47388
   about_markdown: >-
     Becky began selling real estate in 1977 and in 1979 she started her own
-    brokerage, Movers Real Estate Company. Among her designations is SRES, Senior
-    Real Estate Specialists, and she delights in transitioning seniors from their
-    homes that have become too much to maintain into independent living or
-    assisted living. Her most recent designation is MRP, Military Relocation
-    Professional and with 2 of her 3 sons serving our country as US Army
-    officers, she has firsthand knowledge of how important real estate
+    brokerage, Movers Real Estate Company. Among her designations is SRES,
+    Senior Real Estate Specialists, and she delights in transitioning seniors
+    from their homes that have become too much to maintain into independent
+    living or assisted living. Her most recent designation is MRP, Military
+    Relocation Professional and with 2 of her 3 sons serving our country as US
+    Army officers, she has firsthand knowledge of how important real estate
     professionals are when military families buy or sell in our area.
 
 
@@ -31,8 +34,8 @@ client:
 
 
 
-    Becky’s approaches a real estate transaction with a business attitude and the
-    heart of a social worker. She delights in providing a full service
+    Becky’s approaches a real estate transaction with a business attitude and
+    the heart of a social worker. She delights in providing a full service
     transaction backed by decades of experience and a wealth of knowledge.
   market:
   brand: Movers Real Estate Company
@@ -43,20 +46,22 @@ client:
   phone2:
   phone2_type:
   email: becky@beckyivins.com
-  url: http://www.beckyivins.com/
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808998';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+  url: 'http://www.beckyivins.com/'
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808998';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.beckyivins.com/home-valuation/'
+  first_CTA_URL: 'https://www.beckyivins.com/selling'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.beckyivinsteam.com/search/criteria/gp_1/s_2'
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
-    CTA_text: Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you.
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
     CTA_link_text: Free -- MARKET -- Home Value Report
     CTA_url: 'http://www.beckyivins.com/home-valuation/'
 second_sidebar_CTA:
@@ -79,8 +84,8 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -94,17 +99,30 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: 'https://www.zillow.com/profile/BECKY0/'
-  trulia_url: 'https://www.trulia.com/profile/becky-ivins-agent-oklahoma-city-ok-zgvvht4f/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/becky-ivins-agent-oklahoma-city-ok-zgvvht4f/overview
   yelp_url: 'https://www.yelp.com/biz/becky-ivins-movers-real-estate-oklahoma-city'
-  podcast_url: 'https://itunes.apple.com/us/podcast/becky-ivins-movers-real-estate-podcast/id1248051725?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/becky-ivins-movers-real-estate-podcast/id1248051725?mt=2
 podcast:
   title: Becky Ivins Movers Real Estate Podcast
   categories:
     - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the Oklahoma City Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Beck Ivins Movers Real Estate - your professional Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Oklahoma City, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the Oklahoma
+    City Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Beck Ivins Movers Real Estate - your
+    professional Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in Oklahoma City,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: Beck Ivins
 images:
   client_headshot_path: /img/headshot.jpg
