@@ -20,7 +20,9 @@ youtube_code: gffqOpPoUnA
 
 {% include youtube.html %}
 
-<center>In our opportunity market, it’s not just price anymore that’s driving transactions. Here’s what we mean by that.</center>
+<center><em>In our opportunity market, it&rsquo;s not just price anymore that&rsquo;s driving transactions. Here&rsquo;s what we mean by that.</em></center>
+
+&nbsp;
 
 What does the opportunity market entail right now for buyer and sellers?
 
@@ -30,7 +32,7 @@ This means if you are a buyer, you need to make sure you work with an agent who�
 
 {% include pullquote.html %}
 
-In short, **it’s a great time for buyers and sellers**. **This is a situation where deal structuring is very important**. It’s not just price that’s dictating transactions anymore--contract terms matter too, so whether you’re a buyer or a seller, you shouldn’t get stuck on a certain price. There’s much more that goes into a positive real estate transaction.
+In short, **it’s a great time for buyers and sellers**. **This is a situation where deal structuring is very important**. It’s not just price that’s dictating transactions anymore–contract terms matter too, so whether you’re a buyer or a seller, you shouldn’t get stuck on a certain price. There’s much more that goes into a positive real estate transaction.
 
 Don’t let this opportunity market pass you by. If you’re thinking of buying or selling, don’t hesitate to reach out to us so we can help you get started.
 
