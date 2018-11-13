@@ -20,7 +20,7 @@ youtube_code: gffqOpPoUnA
 
 {% include youtube.html %}
 
-In our opportunity market, it’s not just price anymore that’s driving transactions. Here’s what we mean by that.
+<center>In our opportunity market, it’s not just price anymore that’s driving transactions. Here’s what we mean by that.</center>
 
 What does the opportunity market entail right now for buyer and sellers?
 
