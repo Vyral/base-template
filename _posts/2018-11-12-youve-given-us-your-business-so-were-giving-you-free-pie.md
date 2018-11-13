@@ -27,7 +27,7 @@ Now, it’s our time to give back. This Thanksgiving, the pie is on us. That rig
 
 All you need to do is fill out the form linked below to order your choice of either apple, pumpkin, or pecan pie **by Sunday, November 18th** and show up at our office to **pick it up between** **10:00 am and 1:00 pm on Wednesday, November 21st**. Our office is located at 6905 NW 122nd Street Oklahoma City, OK 73142.
 
-[You can place your order here.](https://goo.gl/forms/UT61Z3xf5iZ8LZfH2){: target="_blank"}
+[<u>You can place your order here</u>.](https://goo.gl/forms/UT61Z3xf5iZ8LZfH2){: target="_blank"}
 
 Now, my husband Jim graciously offered to bake each and every pie himself. But, to do that, he would’ve needed to start a long time ago. That’s why we’re using a bakery.
 
