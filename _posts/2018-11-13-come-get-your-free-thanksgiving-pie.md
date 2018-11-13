@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Come Get Your Free Thanksgiving Pie
-date:
+date: 2018-11-13 21:29:26
 tags:
   - Real Estate
 excerpt: I’d like to provide the dessert for your Thanksgiving feast.
