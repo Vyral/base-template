@@ -1,10 +1,9 @@
 ---
 layout: post
 title: Wishing You and Your Loved Ones a Happy Thanksgiving
-date: 2018-11-12 22:29:39
+date: 2018-11-12 22:29:00
 tags:
   - Real Estate
-  - Happy Thanksgiving
 excerpt: >-
   Around this time of year, we like to think of all the things we are grateful
   for.
@@ -15,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5EiJmgYt_O0
+youtube_code: K8RJDap5wbE
 ---
 
 {% include youtube.html %}
