@@ -26,7 +26,7 @@ We have seen the market slow dramatically. We were so hot for so long that this 
 
 In the video above, you can see Slugger Field in the distance. **On October 13, we want to invite you, our VIP clients, to Louisville City soccer game at Slugger Field.** If you haven’t been yet, this is the perfect opportunity to have some fun and enjoy a night out here in the city.
 
-This is a limited time offer because we only have so many tickets. **We need to hear from you immediately so we can reserve your tickets.** We have 300 tickets available and it’s first-come first-served. [Follow this link to RSVP so we can confirm your attendance.](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07efpasinz5211c6eb&amp;oseq=&amp;c=&amp;ch=)
+This is a limited time offer because we only have so many tickets. **We need to hear from you immediately so we can reserve your tickets.** We have 300 tickets available and it’s first-come first-served. [Follow this link to RSVP so we can confirm your attendance.](https://myemail.constantcontact.com/Let-the-Sokoler-Medley-Team-Make-Your-Holiday-Extra-Sweet---FREE-PIE-GIVEAWAY-.html?soid=1131074966883&amp;aid=UTej2qoQy6I){: target="_blank"}
 
 We’re very excited for this event, especially after recently attending Swan Financial’s client appreciation event, which you can learn more about in the video above. It was a great way for them to thank their staff, loan officers, and clients. We had a lovely time on the boat as well.
 
