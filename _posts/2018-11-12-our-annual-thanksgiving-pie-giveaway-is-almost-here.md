@@ -37,7 +37,7 @@ Yet the decrease in activity hasn’t happened by chance. Fewer buyers are enter
 
 Now, let’s move onto a more exciting topic: Thanksgiving. We at the Sokoler Medley Team have a tradition of giving out pies to our friends and clients for them to enjoy with their Turkey Day feast, and this year will be no exception.
 
-**On November 20 from 1 p.m. to 5 p.m**., **we invite you to come out to our office to pick up your choice of pumpkin, apple, or pecan pie.** To secure yours, register in advance by visiting this link.
+**On November 20 from 1 p.m. to 5 p.m**., **we invite you to come out to our office to pick up your choice of pumpkin, apple, or pecan pie.** [To secure yours, register in advance by visiting this link.](https://myemail.constantcontact.com/Let-the-Sokoler-Medley-Team-Make-Your-Holiday-Extra-Sweet---FREE-PIE-GIVEAWAY-.html?soid=1131074966883&amp;aid=UTej2qoQy6I){: target="_blank"}
 
 Last year we gave away hundreds of pies and had a blast meeting up with great clients like you, and we can’t wait for another successful event this year. You definitely won’t want to miss it.
 
