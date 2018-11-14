@@ -52,9 +52,9 @@ second_sidebar_CTA:
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/009.jpg
     CTA_title3: Considering Making a Move out of the Bay Area?
-    CTA_text3: Download Our Free Homeowner Guide
+    CTA_text3: Get your FREE copy of the Definitive Moving Guide
     CTA_link_text3: Get Your Copy
-    CTA_url3: 'https://www.leavingthebayarea.com/'
+    CTA_url3: 'https://www.leavingthebayarea.com/the-definitive-moving-guide/'
 lender:
   show_section: false
   header_text: Preferred Lender
