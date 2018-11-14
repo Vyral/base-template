@@ -50,17 +50,11 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: 'https://scottfuller.exprealty.com/'
 third_sidebar_CTA:
-  - CTA_image_path3: /img/cta-images/001.jpg
-    CTA_title3: Considering Making a Move out of the Bay Area?
-    CTA_text3: Download Our Free Homeowner Guide
-    CTA_link_text3: Get Your Copy
-    CTA_url3: 'https://www.leavingthebayarea.com/'
-fourth_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/009.jpg
     CTA_title3: Considering Making a Move out of the Bay Area?
     CTA_text3: Download Our Free Homeowner Guide
     CTA_link_text3: Get Your Copy
-    CTA_url3: 'https://www.leavingthebayarea.com/'    
+    CTA_url3: 'https://www.leavingthebayarea.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
