@@ -20,8 +20,6 @@ youtube_code: tIFdwYoFhoc
 
 {% include pullquote.html %}
 
-&nbsp;
-
 I’m often asked by other agents how they can find a mentor or if I can work with them as their mentor.
 
 The answer I always give them is the story of how I found my own mentor. When I first started in the
