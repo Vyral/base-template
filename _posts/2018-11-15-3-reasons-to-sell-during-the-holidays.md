@@ -19,7 +19,7 @@ youtube_code: ldsm_G7rV98
 
 {% include youtube.html %}
 
-There are plenty of reasons why selling during the holidays makes perfect sense. Here are three of them.
+<p style="text-align: center;"><em>There are plenty of reasons why selling during the holidays makes perfect sense. Here are three of them.</em></p>
 
 I’ve been hearing from clients who are excited about selling their homes, but they’re curious about whether they should wait until spring or whether they should get them on the market now. **Here are a few reasons why right now is a great time to sell a home:**
 
