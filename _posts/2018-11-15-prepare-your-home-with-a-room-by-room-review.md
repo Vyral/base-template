@@ -19,7 +19,7 @@ youtube_code: BlFkzg7dE10
 
 {% include youtube.html %}
 
-Prepare to sell with a room-by-room review. You’ll learn what (and what not) to do to get your home ready for listing.
+<p style="text-align: center;"><em>Prepare to sell with a room-by-room review. You’ll learn what (and what not) to do to get your home ready for listing.</em></p>
 
 Things are about to get hectic; Thanksgiving is just around the corner with Christmas and New Year’s following quickly after. And if you’re wanting to sell your home soon, the craziness just keeps piling up!&nbsp;
 
