@@ -35,7 +35,7 @@ If you’re an investor, your answer to my above question is yes—the market, t
 
 When you’re looking for the motivated consumer, **look for those people who have an emotional need to purchase right now.** You may go through twice as many potential buyers just to locate the one motivated to move forward and complete a whole transaction in this market.
 
-**Ask them what is prompting them to move, then, go silent and listen for two words to help you identify the willing consumer: “want” and “have.”** Phrases like “I have to move because…” indicate a motivated person. Things like “I want to move because…” are a different story. We all want to move to a bigger house by the beach, but it’s a matter of motivation to make that happen.
+**Ask them what is prompting them to move, then, go silent and listen for two words to help you identify the willing consumer: “want” and “have.”** Phrases like “I have to move because…” indicate a motivated person. Phrases like “I want to move because…” are a different story. We all want to move to a bigger house by the beach, but it’s a matter of motivation to make that happen.
 
 If you have any questions for me, feel free to reach out. I look forward to hearing from you.
 
