@@ -21,11 +21,11 @@ youtube_code: u5OEq13gTCg
 
 <center><em>We&rsquo;ve found that having a real estate team gives clients a better home buying or selling experience.</em></center>
 
- 
+&nbsp;
 
 When choosing your real estate professional, you can decide whether you want to work with a solo agent or an entire real estate team. **Here’s why we recommend you choose a team for your home buying and selling needs**:
 
-**1. We all have a specific role on the team**. Personally, I work with sellers, but we also have buyer specialists as well as administrative support that handles the listing, marketing, and closing processes. There’s a good comparison between a real estate team and restaurant staff: Think of the experience you’d receive if one person was the valet, host, server, chef, and busser? Our first thought is “chaos.”
+**1. We all have a specific role on the team**. Personally, I work with sellers, but we also have buyer specialists as well as administrative support who handle the listing, marketing, and closing processes. There’s a good comparison between a real estate team and restaurant staff: Think of the experience you’d receive if one person was the valet, host, server, chef, and busser? Our first thought is “chaos.”
 
 **2. We can give more attention to each client**. We never want a client to miss out on a property or be otherwise inconvenienced because there was nobody available to speak to. Even if the buyer specialist on our team is gone or busy, there is always someone there who can help you.
 
