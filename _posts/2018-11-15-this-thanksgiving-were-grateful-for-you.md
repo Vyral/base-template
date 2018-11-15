@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'This Thanksgiving, We’re Grateful for You'
-date: 2018-11-15 15:49:06
+date: 2018-11-15 15:49:00
 tags:
   - Real Estate
 excerpt: Happy Thanksgiving!
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+From+My+Family+to+Yours-+Happy+Thanksgiving.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
