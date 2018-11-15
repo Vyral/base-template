@@ -13,7 +13,7 @@ pullquote: There is always someone there who can help you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/brittany-foy-nov-1-ss-no-play.jpg
+youtube_alternate_image:
 youtube_code: u5OEq13gTCg
 ---
 
