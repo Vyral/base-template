@@ -44,21 +44,12 @@ client:
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808435';</script><script
-  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
-
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-
-  <script async
-  src="https://www.googletagmanager.com/gtag/js?id=UA-114707034-1"></script>
-
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-114707034-1');
-  </script>
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script><!--
+  Global site tag (gtag.js) - Google Analytics --><script async
+  src="https://www.googletagmanager.com/gtag/js?id=UA-114707034-1"></script><script> 
+  window.dataLayer = window.dataLayer || [];  function
+  gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config',
+  'UA-114707034-1');</script>
 CTAs:
   first_CTA_text: Apply Online
   first_CTA_URL: >-
@@ -79,7 +70,7 @@ lender:
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
-  phone: 555-555-5555
+  phone: (469) 906-2522
   email: bill@murray.com
   url: 'http://eyegoop.com'
 welcome_box:
