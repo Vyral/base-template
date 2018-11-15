@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-nov-2-ss-no-play.jpg
-youtube_code: gffqOpPoUnA
+youtube_code: trRJOwsDQAg
 ---
 
 {% include youtube.html %}
 
 <center><em>In our opportunity market, it&rsquo;s not just price anymore that&rsquo;s driving transactions. Here&rsquo;s what we mean by that.</em></center>
 
-&nbsp;
+ 
 
 What does the opportunity market entail right now for buyer and sellers?
 
