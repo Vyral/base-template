@@ -23,4 +23,4 @@ I am so grateful for all the support my clients, friends, and family have given 
 
 {% include pullquote.html %}
 
-I look forward to giving you a gift you can share with your family and friends. Once again, I thank you for everything you’ve done for me and wish you a Happy Thanksgiving and holiday season!&nbsp;
+I look forward to giving you a gift you can share with your family and friends. Once again, I thank you for everything you’ve done for me and wish you a happy Thanksgiving and holiday season!&nbsp;
