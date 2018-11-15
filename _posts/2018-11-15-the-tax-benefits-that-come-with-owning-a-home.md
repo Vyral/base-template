@@ -20,7 +20,9 @@ youtube_code: 25Bsd312JwM
 
 {% include youtube.html %}
 
-<center>Today I have a special guest with me to give us advice about the tax benefits of homeownership: Kelly Bullis is a CPA and the president of his own company.</center>
+<center><em>Today I have a special guest with me to give us advice about the tax benefits of homeownership: Kelly Bullis is a CPA and the president of his own company.</em></center>
+
+&nbsp;
 
 I’m often asked if there are really tax benefits to homeownership, and today, CPA Kelly Bullis is here to help lay out what those benefits are.
 
