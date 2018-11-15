@@ -22,7 +22,7 @@ youtube_code: tCtT1GDmbO0
 
 <p style="text-align: center;"><em>The detection and mitigation of radon is a crucial subject for homeowners, and today we’ve brought on an expert to explain not only how these processes are done, but also why they’re important.</em></p>
 
-Today, special guest Dave Masa from Radon Reduction Systems joins us to speak about the importance of detecting and mitigating radon. Dave has been helping my clients do this for more than a decade now. His expertise has been an invaluable resource for myself and my clients, and in this message, he’ll be sharing some important information with all of you.
+Today, special guest Dave Masa from Radon Reduction Systems joins us to speak about the importance of detecting and mitigating radon.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
