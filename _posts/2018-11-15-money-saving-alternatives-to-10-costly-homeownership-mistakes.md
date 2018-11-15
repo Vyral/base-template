@@ -21,7 +21,7 @@ youtube_code: rWUpn9Lz-PI
 
 {% include youtube.html %}
 
-Are you making any of these 10 common but costly homeownership mistakes? If so, we’ll explain how you can mitigate them.
+<p style="text-align: center;"><em>Are you making any of these 10 common but costly homeownership mistakes? If so, we’ll explain how you can mitigate them.</em></p>
 
 In real estate, people often talk about how much it costs to buy a home. But what about the cost associated with simply living in a home? As most homeowners already realize, owning a property can be an expensive ordeal.&nbsp;
 
