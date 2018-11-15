@@ -19,7 +19,7 @@ youtube_code: NLa5qAQQrLo
 
 I am so grateful for all the support my clients, friends, and family have given to The Vera Group. I could not have had such a great year without you. In return, I’d like to offer you a token of my appreciation this Thanksgiving: a free apple or pumpkin pie.
 
-<br>To make sure you get your dessert before the holiday, please make sure to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdYnc6XQ6dDt-8l8lhWXBWnT646jYZsOFFxKGNi4el4sJALew/viewform?vc=0&amp;c=0&amp;w=1) as soon as you can. We’ll be handing out the pies on date and time at our office, located at location. I can deliver your pie to you personally if you can’t make it, but keep in mind, we’ll have around 15 to 20 bottles of wine to share with those who come to pick up their pies.
+<br>To make sure you get your dessert before the holiday, please make sure to [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdYnc6XQ6dDt-8l8lhWXBWnT646jYZsOFFxKGNi4el4sJALew/viewform?vc=0&amp;c=0&amp;w=1) as soon as you can. We’ll be handing out the pies on Monday, November 19 at 5:30 at our office, ADDRESS. I can deliver your pie to you personally if you can’t make it, but keep in mind, we’ll have around 15 to 20 bottles of wine to share with those who come to pick up their pies.
 
 {% include pullquote.html %}
 
