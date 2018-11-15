@@ -4,7 +4,6 @@ title: 'Winter Is Coming: Is Your Home Ready?'
 date: 2018-11-12 00:00:00
 tags:
   - Real Estate
-  - Homeowner Tips
 excerpt: >-
   Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide
   you with some tips on how to prepare your home for the winter.
@@ -15,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/eric-mortimer-ss-nov-1-no-play.jpg
-youtube_code: fRqn50G3z2Q
+youtube_code: FR8tnXjfGuM
 ---
 
 {% include youtube.html %}
@@ -24,7 +23,7 @@ youtube_code: fRqn50G3z2Q
 
 <br>Calgarians are getting ready for winter—they’re preparing their cars and their garages are swamped with snow tires. But what about their houses? Barry Malesh from A Buyer’s Choice Home Inspections is here to give you some tips about what you should be doing to prepare your home for the coming winter.
 
-**1. Service your furnace**. Now’s the time of year that you’ll start needing your furnace the most. Make sure you get it serviced and have your ducts cleaned out, because you don’t want to have any problems with it when the temperature is 40 below. Cleaning your unit and changing the filters will also help you avoid carbon monoxide leaks, keep the air in your home clean, and keep your bill lower.
+**1. Service your furnace**. Now’s the time of year that you’ll start needing your furnace the most. Make sure you get it serviced and have your ducts cleaned out because you don’t want to have any problems with it when the temperature is 40 below. Cleaning your unit and changing the filters will also help you avoid carbon monoxide leaks, keep the air in your home clean, and keep your bill lower.
 
 **2. Check your smoke detectors every time you change your clocks**. This includes carbon monoxide detectors, as well. Change out the batteries regularly, and replace your units once about every five years, since they don’t last forever.
 
