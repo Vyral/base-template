@@ -21,7 +21,7 @@ youtube_code: kFvbvqkINVM
 
 {% include youtube.html %}
 
-Home equity is essential if you want to retire comfortably. Here’s how we can help with that.
+<p style="text-align: center;"><em>Home equity is essential if you want to retire comfortably. Here’s how we can help with that.</em></p>
 
 Today I want to introduce you to a new tool that can help you build wealth. **Did you know that 83% of all wealth at retirement comes from home equity?** That really surprised me. I thought IRAs, stocks, or other investments would be the biggest contributors.
 
