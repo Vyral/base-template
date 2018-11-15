@@ -21,7 +21,7 @@ youtube_code: 5Ybi24jV_I8
 
 {% include youtube.html %}
 
-There are eight common mistakes some new homeowners make that you need to avoid so you can save time, money, and stress.
+<p style="text-align: center;"><em>There are eight common mistakes some new homeowners make that you need to avoid so you can save time, money, and stress.</em></p>
 
 As a new homeowner, here are the top eight mistakes you need to avoid:&nbsp;
 
