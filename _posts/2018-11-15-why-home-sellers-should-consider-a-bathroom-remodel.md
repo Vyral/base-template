@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Home Sellers Should Consider a Bathroom Remodel
-date:
+date: 2018-11-15 22:18:50
 tags:
   - Real Estate
 excerpt: >-
