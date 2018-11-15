@@ -22,9 +22,9 @@ youtube_code: trRJOwsDQAg
 
 <center><em>In our opportunity market, it&rsquo;s not just price anymore that&rsquo;s driving transactions. Here&rsquo;s what we mean by that.</em></center>
 
- 
+&nbsp;
 
-What does the opportunity market entail right now for buyer and sellers?
+What does the opportunity market entail right now for buyers and sellers?
 
 First of all, **there are more houses on the market and more people are starting to understand that the market is adjusting**. We’ve mentioned this adjustment in previous videos and how it’s moving us into more of a regular market where buyers have more negotiating power.
 
@@ -34,6 +34,4 @@ This means if you are a buyer, you need to make sure you work with an agent who�
 
 In short, **it’s a great time for buyers and sellers**. **This is a situation where deal structuring is very important**. It’s not just price that’s dictating transactions anymore–contract terms matter too, so whether you’re a buyer or a seller, you shouldn’t get stuck on a certain price. There’s much more that goes into a positive real estate transaction.
 
-Don’t let this opportunity market pass you by. If you’re thinking of buying or selling, don’t hesitate to reach out to us so we can help you get started.
-
-If you have any other questions about our market, feel free to reach out to us as well. We look forward to speaking with you.
+Don’t let this opportunity market pass you by. If you’re thinking of buying or selling, don’t hesitate to reach out to us so we can help you get started. If you have any other questions about our market, feel free to reach out to us as well. We look forward to speaking with you.
