@@ -15,4 +15,6 @@ youtube_code: hJKtj0fUUQM
 
 {% include youtube.html %}
 
-Today, I have a very simple message to share: Thank you. We at the Moving On Team would like to extend our sincere appreciation to all of you who have made us your trusted real estate resource. Without all of you—our family, friends, and clients—our business wouldn’t be possible. We have been so fortunate to serve you, and we look forward to serving you in the future. To hear our full message of gratitude, watch this short video.
+Today, I have a very simple message to share: Thank you. We at the Moving On Team would like to extend our sincere appreciation to all of you who have made us your trusted real estate resource. Without all of you—our family, friends, and clients—our business wouldn’t be possible. We have been so fortunate to serve you, and we look forward to serving you in the future.&nbsp;
+
+&nbsp;
