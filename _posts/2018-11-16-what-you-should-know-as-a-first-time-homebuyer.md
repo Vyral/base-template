@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know as a First-Time Homebuyer
-date:
+date: 2018-11-16 00:00:00
 tags:
   - Real Estate
 excerpt: >-
