@@ -21,7 +21,7 @@ youtube_code: tEDr_ih6z9o
 
 <p style="text-align: center;"><em>A lot has been going on with 2 Percent Realty lately, and we can’t wait to tell you all about these developments.</em></p>
 
-We just come back from a corporate Annual General Meeting in Las Vegas, and we’ve got some exciting news to share with you on the heels of our return.&nbsp;
+We just came back from a corporate annual general meeting in Las Vegas, and we’ve got some exciting news to share with you on the heels of our return.&nbsp;
 
 First off, **2 Percent Realty is now Canada’s largest full-service, lower commission real estate brokerage** based on sales volume, dollar volume of properties transacted, and number of agents.&nbsp;
 
