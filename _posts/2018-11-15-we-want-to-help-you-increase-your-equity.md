@@ -25,7 +25,7 @@ youtube_code: kFvbvqkINVM
 
 Today I want to introduce you to a new tool that can help you build wealth. **Did you know that 83% of all wealth at retirement comes from home equity?** That really surprised me. I thought IRAs, stocks, or other investments would be the biggest contributors.
 
-This is why I wanted to see how I can help those who I care about, including our past, present, and future clients, grow your equity. **You deserve more money at retirement, and we have come up with a great tool to help you get it.**
+This is why I wanted to see how I can help those who I care about, including our past, present, and future clients, grow their equity. **You deserve more money at retirement, and we have come up with a great tool to help you get it.**
 
 This isn’t your typical Zestimate. Who needs that, anyway? What we’re offering is a report from Homebot that covers what your home is worth, how you can increase your home’s equity, and much more. It will answer many different questions such as, “When should I refinance?” and “What should I do with my equity?”
 
