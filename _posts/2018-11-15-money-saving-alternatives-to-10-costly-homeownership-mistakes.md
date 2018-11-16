@@ -23,7 +23,7 @@ youtube_code: rWUpn9Lz-PI
 
 <p style="text-align: center;"><em>Are you making any of these 10 common but costly homeownership mistakes? If so, we’ll explain how you can mitigate them.</em></p>
 
-In real estate, people often talk about how much it costs to buy a home. But what about the cost associated with simply living in a home? As most homeowners already realize, owning a property can be an expensive ordeal.&nbsp;
+In real estate, people often talk about how much it costs to buy a home, but what about the cost associated with simply living in a home? As most homeowners already realize, owning a property can be an expensive ordeal.&nbsp;
 
 Today, we’ll cover 10 expensive homeownership mistakes. For each point, we’ll also discuss a money-saving alternative. Let’s dive right in:
 
@@ -41,7 +41,7 @@ Today, we’ll cover 10 expensive homeownership mistakes. For each point, we’l
 
 **7. Setting a water heater’s temperature too high.** Adjusting the temperature of your hot water heater according to the season can save you a lot of money on your utility bill.&nbsp;
 
-**8. Leaky windows.** If you feel any air coming into your home on windy days, it may be time to recaulk around your windows to ensure that they’re properly sealed and are not leaking air.
+**8. Ignoring leaky windows.** If you feel any air coming into your home on windy days, it may be time to recaulk around your windows to ensure that they’re properly sealed and are not leaking air.
 
 {% include pullquote.html %}
 
