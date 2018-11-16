@@ -60,7 +60,8 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.thewolekgroup.com/search-for-homes/#/-1451235678'
+    CTA_url2: >-
+      https://www.thewolekgroup.com/search#?q_limit=36&q_prioritize=agents.0.id=173675|office.id=127576&mlsId=291&address.neighborhood=undefined&status=1|3&q_sort=createdAt-&q_offset=0
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -85,7 +86,8 @@ socials:
   yelp_url: 'http://www.yelp.com/biz/the-wolek-real-estate-group-tulsa'
   google_reviews_url: >-
     https://www.google.com/search?q=jennie+wolek&oq=jennie+wolek&aqs=chrome..69i57j69i60j69i61j69i60.3684j0j1&sourceid=chrome&ie=UTF-8#lrd=0x87b6ecc33325418f:0x8afdb81dd6349e30,1
-  podcast_url: 'https://itunes.apple.com/us/podcast/tulsa-ok-real-estate-podcast-jennie-wolek-wolek-group/id1199631440?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/tulsa-ok-real-estate-podcast-jennie-wolek-wolek-group/id1199631440?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
