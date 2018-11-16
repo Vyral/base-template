@@ -33,7 +33,7 @@ As a new homeowner, here are the top eight mistakes you need to avoid:&nbsp;
 
 **4. Buying a lot of new furniture.** Some people even do this before they actually own the house, which can disqualify you from your mortgage.&nbsp;
 
-**5. Throwing away receipts (especially for home improvements).** If, down the line, you decide to sell your house and you have some fairly significant capital gains, those receipts can help level out any tax consequences you face.
+**5. Throwing away receipts (especially for home improvements).** If you decide to sell your house down the line and you have some fairly significant capital gains, those receipts can help level out any tax consequences you face.
 
 {% include pullquote.html %}
 
