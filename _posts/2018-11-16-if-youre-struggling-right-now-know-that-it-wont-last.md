@@ -19,7 +19,7 @@ youtube_code: oLZQS0DQSJg
 
 {% include youtube.html %}
 
-In life, things don’t last forever. So if you’re struggling right now, I’d like you to consider the message I’m sharing today.
+<p style="text-align: center;"><em>In life, things don’t last forever. So if you’re struggling right now, I’d like you to consider the message I’m sharing today.</em></p>
 
 As you guys know, I guy’s recently ran my first 15k race. It was cold, the wind was fierce, and there were times where my legs felt like they were going to completely fall flat under me. There were also times when a runner’s high hit, but that wasn’t the case that day.&nbsp;
 
