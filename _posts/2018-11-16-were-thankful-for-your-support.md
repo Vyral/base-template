@@ -19,7 +19,7 @@ youtube_code: xhkoCh6tA9I
 
 {% include youtube.html %}
 
-<center><em>With the holiday season right around the corner, we wanted to reach out and send you a message of thanks. Stay tuned to hear my full message.</em></center>
+<center><em>With the holiday season right around the corner, we wanted to reach out and send you a message of thanks.</em></center>
 
 &nbsp;
 
