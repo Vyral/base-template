@@ -19,7 +19,7 @@ youtube_code: 9S_RbCw5xQ0
 
 {% include youtube.html %}
 
-If you’re thinking of buying a foreclosure property, there are five tips you must keep in mind.
+<p style="text-align: center;"><em>If you’re thinking of buying a foreclosure property, there are five tips you must keep in mind.</em></p>
 
 If you’re thinking about buying a foreclosure home, here are five tips you need to keep in mind:
 
