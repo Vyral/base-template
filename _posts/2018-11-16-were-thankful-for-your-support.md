@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   With the holiday season right around the corner, we wanted to reach out and
-  send you a message of thanks. Stay tuned to hear my full message.
+  send you a message of thanks.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Deepak+Gupta/Videos/2018/The+Dee+Team+-+Were+Thankful+for+Your+Support.mp4
 pullquote:
