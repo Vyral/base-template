@@ -36,7 +36,7 @@ Today, special guest Dave Masa from Radon Reduction Systems joins us to speak ab
 
 6:57 - Dave explains the cost of radon mitigation.
 
-8:28 - Dave explains whether he, or other radon professionals, can retest their own work.
+8:28 - Dave explains whether he or other radon professionals can retest their own work.
 
 If you’d like to reach out to Dave, you can contact him by phone at (630) 357-9474 or by visiting [www.theradonman.com.](http://www.theradonman.com){: target="_blank"}
 
