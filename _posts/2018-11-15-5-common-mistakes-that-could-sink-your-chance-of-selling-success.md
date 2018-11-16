@@ -31,6 +31,6 @@ Though there is a wealth of information out there for buyers, there aren’t nea
 
 **4. Not ordering a pre-listing inspection.** Ordering an inspection before your home hits the market will allow you to identify and resolve issues ahead of time. Also, having a home inspection report ready for buyers to review can really expedite the deal. And if you’re selling a condo, order your status certificate in advance to elicit a similar effect.
 
-**5. Being present for showings.** Buyers may not be comfortable to express their honest opinions if they know you’re listening in. When it comes time for a showing, it’s best for sellers to be gone altogether.
+**5. Being present for showings.** Buyers may not be comfortable expressing their honest opinions if they know you’re listening in. When it comes time for a showing, it’s best for sellers to be gone altogether.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
