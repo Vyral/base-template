@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/11-19-thanksgiving-yt.jpg
 youtube_code: Cf1JDP_FHxI
 ---
 
