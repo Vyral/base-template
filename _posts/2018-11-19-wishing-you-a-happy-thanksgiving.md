@@ -30,12 +30,12 @@ In the meantime, please don’t hesitate to reach out to us if you have any real
 
 Happy Thanksgiving,
 
-Tim Majka
+**Tim Majka**
 
-Imagine Realty
+**Imagine Realty**
 
-Serving the greater Los Angeles, Orange County, and Long Beach area.
+**Serving the greater Los Angeles, Orange County, and Long Beach area.**
 
-1-800-309-1528
+**1-800-309-1528**
 
-Tim@ImagineRealty.com
+**Tim@ImagineRealty.com**
