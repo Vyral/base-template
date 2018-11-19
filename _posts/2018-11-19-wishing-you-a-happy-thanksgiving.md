@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Wishing You a Happy Thanksgiving
-date:
+date: 2018-11-19 17:21:44
 tags:
-  - Thanksgiving
   - Real Estate
 excerpt: >-
   This Thanksgiving, we’d like to extend our sincere thanks to all of you who
