@@ -16,7 +16,7 @@ youtube_code: Y3bL5NoNgNM
 
 {% include youtube.html %}
 
-We’d like to say how thankful we are for you.
+<p style="text-align: center;"><em>We’d like to say how thankful we are for you.</em></p>
 
 We love our careers in real estate and we love the opportunities we have to serve our community.
 
