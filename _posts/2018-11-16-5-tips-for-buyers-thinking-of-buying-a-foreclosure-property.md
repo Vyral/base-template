@@ -33,7 +33,7 @@ This is beneficial to them because they can have a local expert represent their 
 
 **3. Do a full property inspection with the utilities on.** If you’re buying a foreclosure, you need to investigate whether the home’s been properly winterized and you can turn on the furnace if you need to. Sometimes you need special access to turn the utilities on, and that can cost you a lot of time and money.&nbsp;
 
-**4. Prepare for the worst if you’re buying the property as-is.** If you can, have a contractor go through the home and estimate the cost of renovating it. If you don’t turn the utilities on, you may find cracked water lines or a furnace that need to be replaced.&nbsp;
+**4. Prepare for the worst if you’re buying the property as-is.** If you can, have a contractor go through the home and estimate the cost of renovating it. If you don’t turn the utilities on, you may find cracked water lines or a furnace that needs to be replaced.&nbsp;
 
 **5. Have proper expectations regarding a closing date.** For instance, foreclosures can sometimes have title issues that need to be resolved. I have several clients who are pursuing foreclosures whose closings have been backed up for months.&nbsp;
 
