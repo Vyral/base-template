@@ -5,10 +5,10 @@ date: 2018-11-19 07:56:00
 tags:
   - Real Estate
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+Why+Downsizing+and+Retirement+Go+Hand-in-Hand.mp4
+  Happy Thanksgiving! With the holiday season in full swing, it may be the one
+  time of year that you use your formal living and dining room.
 enclosure: >-
-  Downsizing once you reach retirement can often be a very wise decision, and
-  today we’ll explain why.
+  https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+Why+Downsizing+and+Retirement+Go+Hand-in-Hand.mp4
 pullquote: What’s the point of having a five-bedroom home if you only use one?
 enclosure_type: video/mp4
 enclosure_time:
