@@ -4,6 +4,7 @@ title: 'Costly Sewer Repairs Stink: Try These 3 Plumbing Tips'
 date: 2018-11-19 00:00:00
 tags:
   - Real Estate
+  - Homeowner Tips
 excerpt: >-
   Today we have a special guest with us to give you three tips that every
   homeowner should know about the plumbing in your house.
@@ -22,7 +23,7 @@ youtube_code: SvjlmPiz7Z0
 
 {% include youtube.html %}
 
-Today we have a special guest with us—Jen from Bill’s Plumbing and Drain Service—to help give you three tips that every homeowner should know about the plumbing in your house.
+<center>Today we have a special guest with us—Jen from Bill’s Plumbing and Drain Service—to help give you three tips that every homeowner should know about the plumbing in your house.</center>
 
 **1. What is the best solution for tackling smelly drains?**
 
