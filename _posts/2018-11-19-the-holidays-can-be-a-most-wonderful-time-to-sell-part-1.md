@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Holidays Can Be a Most Wonderful Time to Sell: Part 1'
-date:
+date: 2018-11-19 15:15:09
 tags:
   - Home Seller Tips
   - Real Estate
