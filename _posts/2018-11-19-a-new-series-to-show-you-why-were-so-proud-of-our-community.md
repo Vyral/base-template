@@ -1,20 +1,19 @@
 ---
 layout: post
 title: A New Series to Show You Why We’re So Proud of Our Community
-date: 2018-11-19 15:34:42
+date: 2018-11-19 15:34:00
 tags:
-  - Community
 excerpt: >-
   Today’s video marks the beginning of our series in which we interview people
   from right here in our own, wonderful community.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+New+Series+to+Show+You+Why+Were+So+Proud+of+Our+Community.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+New+Series+to+Show+You+Why+Were+So+Proud+of+Our+Community+(1).mp4
 pullquote: I really cannot tell you another place I’d rather raise my children.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-16-community-series-np.jpg
-youtube_code: bNOPiJz4O2M
+youtube_code: RHWnF0gUYMo
 ---
 
 {% include youtube.html %}
