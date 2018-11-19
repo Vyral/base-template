@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pt. 1 of Our Interview with Brandi Stokes and Cameo Homes
-date: 2018-10-24 21:23:12
+date: 2018-11-16 21:23:00
 tags:
   - Real Estate
 excerpt: >-
