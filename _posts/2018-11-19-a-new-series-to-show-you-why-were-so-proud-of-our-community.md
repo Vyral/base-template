@@ -23,10 +23,10 @@ At the Kohler Group in St. Charles, we are a seven-member team. We have three am
 
 We really pride ourselves on excellent customer service. **We care about you and we want to make your transaction as successful as possible**; the Kohler Teams strives to do that every day.
 
-On a personal note: I have two sons—a 17-year-old who goes to North High School here in St. Charles; and 19-year-old who attends ASU in Arizona. I’m fortunate enough to have been able to provide an education for my boys all the way from preschool to college, and **it’s in part because of the amazing community we have here in St. Charles.** I’ve experienced the culture, the education, and the athletics here in the area, and I really cannot tell you another place I’d rather raise my children.
+On a personal note: I have two sons—a 17-year-old who goes to North High School here in St. Charles and a 19-year-old who attends ASU in Arizona. I’m fortunate enough to have been able to provide an education for my boys all the way from preschool to college, and **it’s in part because of the amazing community we have here in St. Charles.** I’ve experienced the culture, the education, and the athletics here in the area, and I really cannot tell you another place I’d rather raise my children.
 
 {% include pullquote.html %}
 
-This has been an outstanding community, so **when you’re making a decision about where to live in the future, I hope you’ll consider St. Charles and the surrounding Fox Valley area.** There are so many great things to offer here; downtown St. Charles is so vibrant, and it’s expanding daily.
+This has been an outstanding community, so **when you’re making a decision about where to live in the future, I hope you’ll consider St. Charles and the surrounding Fox Valley area.** There are so many great things to offer here; Downtown St. Charles is so vibrant, and it’s expanding daily.
 
 If you have any questions about real estate or our community here, reach out to us. For anything that we can do to help you in the real estate world, we are here to help.
