@@ -23,7 +23,9 @@ youtube_code: SvjlmPiz7Z0
 
 {% include youtube.html %}
 
-<center>Today we have a special guest with us—Jen from Bill’s Plumbing and Drain Service—to help give you three tips that every homeowner should know about the plumbing in your house.</center>
+<center><em>Today we have a special guest with us&mdash;Jen from Bill&rsquo;s Plumbing and Drain Service&mdash;to help give you three tips that every homeowner should know about the plumbing in your house.</em></center>
+
+&nbsp;
 
 **1. What is the best solution for tackling smelly drains?**
 
