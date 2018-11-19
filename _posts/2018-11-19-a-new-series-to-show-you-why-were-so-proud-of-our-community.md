@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Series to Show You Why We’re So Proud of Our Community
-date:
+date: 2018-11-19 15:34:42
 tags:
   - Community
 excerpt: >-
