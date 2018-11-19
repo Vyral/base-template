@@ -19,7 +19,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Can you renew or get home insurance on your property after all these fires? Robert Feldman from Allstate is here to explain your options.
+<p style="text-align: center;"><em>Can you renew or get home insurance on your property after all these fires? Robert Feldman from Allstate is here to explain your options.</em></p>
 
 Today, Robert Feldman from Allstate is here to talk about insurance. A lot of our clients have not been able to renew insurance due to all the fires.&nbsp;
 
