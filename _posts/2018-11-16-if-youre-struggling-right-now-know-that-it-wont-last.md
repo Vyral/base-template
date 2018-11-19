@@ -21,7 +21,7 @@ youtube_code: oLZQS0DQSJg
 
 <p style="text-align: center;"><em>In life, things don’t last forever. So if you’re struggling right now, I’d like you to consider the message I’m sharing today.</em></p>
 
-As you guys know, I guy’s recently ran my first 15k race. It was cold, the wind was fierce, and there were times where my legs felt like they were going to completely fall flat under me. There were also times when a runner’s high hit, but that wasn’t the case that day.&nbsp;
+As you guys know, I recently ran my first 15k race. It was cold, the wind was fierce, and there were times where my legs felt like they were going to completely fall flat under me. There are times when you run where you hit a runner's high, but that wasn’t the case that day.&nbsp;
 
 The point I’m trying to make by this is that whether it’s life or a race, the main competition you should have in mind is yourself. **When you feel like you’re struggling, you’ve got to realize that these feelings won’t last forever.** Life, like a race, is full of ups and downs.&nbsp;
 
