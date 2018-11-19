@@ -21,9 +21,9 @@ youtube_code: c6jf8qATyFc
 
 With all of the holiday noise and Black Friday messages flooding your inbox, I just wanted to take this opportunity to say **Happy Thanksgiving from the Jeff Cook Real Estate Team.**
 
-I know that I personally am so grateful for my amazing family, my incredible wife, Sarah, my two children, Ava and Jason, and our dog, Johnny.
+I know that I personally am so grateful for my amazing family: My incredible wife, Sarah, my two children, Ava and Jason, and our dog, Johnny.
 
-I’d also like to give you a challenge. It’s very easy to get caught up in everything going on during the hustle and bustle during this time of year, but **I’d like you to pick one person you know and one person you don’t know and lift their spirits this Thanksgiving.**
+I’d also like to give you a challenge. It’s very easy to get caught up in everything going on during the hustle and bustle around this time of year, but **I’d like you to pick one person you know and one person you don’t know and lift their spirits this Thanksgiving.**
 
 {% include pullquote.html %}
 
