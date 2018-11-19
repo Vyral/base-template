@@ -6,7 +6,9 @@ tags:
   - Real Estate
 excerpt: >-
   Happy Thanksgiving! With the holiday season in full swing, it may be the one
-  time of year that you use your formal living and dining room.
+  time of year that you use your formal living and dining room. If this is the
+  case, it may be a sign that your home no longer matches up with your lifestyle
+  or needs.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/+Priyanka+Johri/North+Houston+Real+Estate-+Why+Downsizing+and+Retirement+Go+Hand-in-Hand.mp4
 pullquote: What’s the point of having a five-bedroom home if you only use one?
