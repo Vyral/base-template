@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Downsizing and Retirement Go Hand-in-Hand
-date: 2018-10-24 19:56:31
+date: 2018-11-19 07:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: W_wTd5oyk_4
 
 Sometimes, those approaching retirement will find that it no longer makes sense to live in the same big house. Once you reach a certain age, downsizing can often be your best option.
 
-**Just because your source of income has changed, though, it doesn’t mean your lifestyle has to.** What’s the point of having a five-bedroom home if you only use one? Many retirement-age homeowners may find that they would much rather cash in their equity and purchase a smaller home that better suits their needs, instead of continuing to pay for a ton of unused space. &nbsp;
+**Just because your source of income has changed, though, it doesn’t mean your lifestyle has to.** What’s the point of having a five-bedroom home if you only use one? Many retirement-age homeowners may find that they would much rather cash in their equity and purchase a smaller home that better suits their needs, instead of continuing to pay for a ton of unused space.  
 
 {% include pullquote.html %}
 
