@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   A team of lenders is better able to serve you throughout the mortgage process.
   Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Wade+Betz/DFW+Mortgage+Lender-+Why+You+Should+Work+With+a+Lending+Team.mp4
 pullquote: There’s always someone there to help you.
 enclosure_type: video/mp4
 enclosure_time:
