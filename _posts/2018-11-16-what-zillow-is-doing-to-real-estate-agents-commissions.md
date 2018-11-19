@@ -1,11 +1,11 @@
 ---
 layout: post
-title: What Zillow is Doing to Real Estate Agents’ Commissions
+title: What Zillow Is Doing to Real Estate Agents’ Commissions
 date: 2018-11-16 21:50:45
 tags:
 excerpt: >-
   As Zillow and other online real estate companies keep playing a bigger role in
-  the sales process, they’ll keep taking a larger portion of us agents’
+  the sales process, they’ll keep taking a larger portion of agents’
   commissions.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2018/November/Central+PA+Real+Estate+Agent-+What+Is+Zillow+Doing+to+Real+Estate+Commissions%253F.mp4
@@ -21,7 +21,7 @@ youtube_code: 6iupP6m1sDg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>As Zillow and other online real estate companies keep playing a bigger role in the sales process, they’ll keep taking a larger portion of us agents’ commissions.</em></p>
+<p style="text-align: center;"><em>As Zillow and other online real estate companies keep playing a bigger role in the sales process, they’ll keep taking a larger portion of agents’ commissions.</em></p>
 
 What is Zillow doing to real estate commissions?&nbsp;
 
