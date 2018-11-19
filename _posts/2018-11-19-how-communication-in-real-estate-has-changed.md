@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Communication in Real Estate Has Changed
-date: 2018-09-13 20:46:00
+date: 2018-11-19 08:46:00
 tags:
   - Real Estate
 excerpt: >-
