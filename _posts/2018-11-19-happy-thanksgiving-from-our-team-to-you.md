@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Thanksgiving from Our Team to You
+title: Happy Thanksgiving From Our Team to You
 date: 2018-11-19 19:01:28
 tags:
 excerpt: We’d like to say how thankful we are for you.
