@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Double Your Real Estate Income in 90 Days?
-date: 2018-11-19 17:42:55
+date: 2018-11-19 17:42:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: KhnXooHYx4Y
+youtube_code: wABOGcN00aU
 ---
 
 {% include youtube.html %}
@@ -30,5 +30,3 @@ Many agents are looking for that magic pill. However, success comes down to bloc
 {% include pullquote.html %}
 
 If you have any questions about any of these strategies or anything else about luxury real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
