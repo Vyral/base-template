@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let Us Represent You When You Buy New Construction
-date:
+date: 2018-11-20 21:02:21
 tags:
   - Home Buyer Tips
 excerpt: >-
