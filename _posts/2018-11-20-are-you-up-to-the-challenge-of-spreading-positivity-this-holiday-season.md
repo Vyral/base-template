@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Up to the Challenge of Spreading Positivity This Holiday Season?
-date: 2018-11-08 17:06:00
+date: 2018-11-20 05:06:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
