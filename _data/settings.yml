@@ -21,8 +21,8 @@ client:
   market: Cleveland Park
   brand: 240-731-8079
   brokerage:
-  address: Long & Foster | Christie’s
-  phone: 202.362.1300
+  address: Keller Williams Capital Properties
+  phone: 202.847.4466
   phone_type:
   phone2:
   phone2_type:
@@ -33,7 +33,10 @@ CTAs:
   first_CTA_URL: 'http://www.marjoriedickstuart.com/home-evaluation.php'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.marjoriedickstuart.com/home-finder.php'
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809023';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809023';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -48,14 +51,14 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Find Your New Home
     CTA_url2: 'http://www.marjoriedickstuart.com/home-finder.php'
-
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/001.jpg
     CTA_title3: Breaking News- Marjorie's New Book Just Released!
-    CTA_text3: '"Selling Secrets You Can’t Afford to Miss” has just been published. It provides insights for home sellers.'
+    CTA_text3: >-
+      "Selling Secrets You Can’t Afford to Miss” has just been published. It
+      provides insights for home sellers.
     CTA_link_text3: Get Your FREE BOOK Today!
     CTA_url3: 'http://dchomeblog.com/freebook'
-
 lender:
   show_section: false
   header_text: Preferred Lender
