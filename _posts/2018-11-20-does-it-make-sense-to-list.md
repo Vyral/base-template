@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Does It Make Sense to List?
-date: 2018-11-20 15:28:08
+date: 2018-11-20 15:28:00
 tags:
   - Real Estate
 excerpt: Selling a home during the holidays is a wise move. Here are seven reasons why.
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/zilver-screenshot--selling-during-the-holidays-youtube.jpg
-youtube_code: 'https://youtu.be/-02EIpm-_ug'
+youtube_code: 'https://youtu.be/2lpW0G5phfM'
 ---
 
 {% include youtube.html %}
