@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Our Team Is Thankful for You This Thanksgiving
-date: 2018-11-20 14:36:10
+date: 2018-11-20 14:36:00
 tags:
 excerpt: >-
   This Thanksgiving, we’d like to extend our sincere thanks to all of you who
   have made our business possible.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Happy+Thanksgiving+from+Our+Team+to+Your+Family.mp4
 pullquote: What are you thankful for?
 enclosure_type: video/mp4
 enclosure_time:
