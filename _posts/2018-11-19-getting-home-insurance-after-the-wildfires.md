@@ -23,7 +23,7 @@ youtube_code: NMl4xMlouCU
 
 Today, Robert Feldman from Allstate is here to talk about insurance. A lot of our clients have not been able to renew insurance due to all the fires.&nbsp;
 
-“Due to the fires of last year, it’s the worse I’ve seen it in 20 years,” says Robert. “Multiple insurance carriers are not renewing clients due to the fires, so it’s a bad scene right now. The key thing is to **know your fire scores.**”&nbsp;
+“Due to the fires of last year, it’s the worst I’ve seen it in 20 years,” says Robert. “Multiple insurance carriers are not renewing clients due to the fires, so it’s a bad scene right now. The key thing is to **know your fire scores.**”&nbsp;
 
 If your property is on a hillside or you can see wild brush from your property, it’s especially important to know your fire score.&nbsp;
 
