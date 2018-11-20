@@ -23,7 +23,7 @@ youtube_code: j4UgNMSD2yA
 
 {% include youtube.html %}
 
-Today we wanted to discuss waiting until spring to buy a home and why that might not be such a good idea in this market.
+<center>Today we wanted to discuss waiting until spring to buy a home and why that might not be such a good idea in this market.</center>
 
 We hear it all the time: “I’m going to wait until spring to buy a home, rather than try to find one over the holiday season.”
 
