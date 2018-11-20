@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Safety Tip and a Message of Thanks
-date: 2018-11-16 15:48:21
+date: 2018-11-16 15:48:00
 tags:
   - Real Estate
 excerpt: >-
   We’ve had a great year, and it’s all thanks to you. We hope you have a
   wonderful Thanksgiving this year.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Gray/Houston+Real+Estate+Agent-+A+Safety+Tip+and+a+Message+of+Gratitude.mp4
 pullquote: 'Make sure you have your heater checked out, especially if it’s old.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: 'https://youtu.be/FBFPPkGOMCY'
 
 It’s hard to believe that Thanksgiving is already here. Today I wanted to express my thanks and also provide a little safety tip for you.
 
-**Now that the weather is getting colder, we’re starting to turn our heaters on.** For most of us, they haven’t been turned on all year. Recently, a friend of mine in another state had their heater turned on and he was working a late night. When he got home, everyone was in bed, but the house was filled with gas that was burning his eyes. His wife and kids had no idea. He was able to get them out safely, but it could have turned out a lot worse.&nbsp;
+**Now that the weather is getting colder, we’re starting to turn our heaters on.** For most of us, they haven’t been turned on all year. Recently, a friend of mine in another state had their heater turned on and he was working a late night. When he got home, everyone was in bed, but the house was filled with gas that was burning his eyes. His wife and kids had no idea. He was able to get them out safely, but it could have turned out a lot worse. 
 
 {% include pullquote.html %}
 
@@ -28,4 +29,4 @@ It’s hard to believe that Thanksgiving is already here. Today I wanted to expr
 
 The other thing I wanted to do today is to thank all of you and let you know how grateful I am to you for making 2018 such a great year for my team. This has been an interesting year and we’re so grateful to be back in a good position after the devastation of Harvey last year. I hope the rest of your year is great and that you have a wonderful holiday season with friends and family.
 
-If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>
