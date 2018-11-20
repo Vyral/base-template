@@ -8,6 +8,8 @@ Get the latest and most comprehensive real estate statistics, forecasts and anal
 
 2018 Market Reports
 
-April 2018
-
-&nbsp;
+November 2018
+October 2018
+August 2018
+June 2018
+May 2018
