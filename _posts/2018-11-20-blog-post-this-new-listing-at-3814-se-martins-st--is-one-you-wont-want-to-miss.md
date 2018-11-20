@@ -1,7 +1,9 @@
 ---
 layout: post
-title: This New Listing at 3814 SE Martins St. Is One You Won’t Want to Miss
-date: 2018-11-20 16:25:21
+title: >-
+  Blog Post: This New Listing at 3814 SE Martins St. Is One You Won’t Want to
+  Miss
+date: 2018-11-20 16:25:00
 tags:
   - Real Estate
 excerpt: >-
