@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Going on in the Portland Area Market?
-date:
+date: 2018-11-20 22:16:25
 tags:
   - Market Update
 excerpt: >-
