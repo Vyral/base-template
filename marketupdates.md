@@ -4,7 +4,7 @@ title: Monthly Market Updates
 permalink: /marketupdates/
 ---
 
-# ![](blob:https://app.cloudcannon.com/9ea819de-5022-4ba1-be3f-1e10818bee60)
+# ![](/uploads/d0769a14814d62ea0c7076b8-836x556.jpg)
 
 # Monthly Market Reports
 
