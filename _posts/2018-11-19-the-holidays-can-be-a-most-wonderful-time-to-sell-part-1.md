@@ -42,4 +42,4 @@ It can be a hectic time for people, with all of the holiday hustle and bustle an
 
 {% include pullquote.html %}
 
-It makes no sense to wait til next year to list, so do it now. **Stay tuned for next time, when I will give you six additional reasons** to think about listing your home sooner than later. If you have any questions or need anything, give me a call or send an email. I’d be glad to help you out in any way that I can.
+It makes no sense to wait till next year to list, so do it now. **Stay tuned for next time, when I will give you six additional reasons** to think about listing your home sooner than later. If you have any questions or need anything, give me a call or send an email. I’d be glad to help you out in any way that I can.
