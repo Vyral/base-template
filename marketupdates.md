@@ -4,7 +4,11 @@ title: Monthly Market Updates
 permalink: /marketupdates/
 ---
 
-Get the latest and most comprehensive real estate statistics, forecasts and analysis of the New Jersey Real Estate market. Subscribe to our newsletter today!
+# ![](blob:https://app.cloudcannon.com/9ea819de-5022-4ba1-be3f-1e10818bee60)
+
+# Monthly Market Reports
+
+#### Get the latest and most comprehensive real estate statistics, forecasts and analysis of the New Jersey Real Estate market. Subscribe to our newsletter today!
 
 ### 2018 Market Reports
 
