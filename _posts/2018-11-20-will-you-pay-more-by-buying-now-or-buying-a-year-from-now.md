@@ -20,7 +20,9 @@ youtube_code: ZV09sVN3f8w
 
 {% include youtube.html %}
 
-<center>If you look at the numbers, waiting a year from now to buy a home can prove quite costly.</center>
+<center><em>If you look at the numbers, waiting a year from now to buy a home can prove quite costly.</em></center>
+
+&nbsp;
 
 There’s a shift happening in both our San Diego County market and the national market, and because of this, many buyers are thinking they should wait until the market corrects itself to purchase a home.
 
