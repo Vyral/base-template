@@ -19,9 +19,7 @@ youtube_alternate_image: /uploads/11-20-new-contruction-yt.jpg
 youtube_code: ebB_h2mwvk8
 ---
 
-{% include youtube.html %}
-
-*Today we want to discuss with you the benefits of using our team to represent you in your next new construction venture.*
+{% include youtube.html %}*Today we want to discuss with you the benefits of using our team to represent you in your next new construction venture.*
 
 When it comes to newly constructed homes, a lot of buyers don’t think about how we can benefit them. One thing to consider is that **the sales representative of the property is actually there to represent the builder, not the buyer.** You’ll need representation of your own.
 
