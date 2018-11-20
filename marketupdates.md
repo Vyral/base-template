@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Monthly Market Updates
-permalink: /about/
+permalink: /marketupdates/
 ---
 
 Get the latest and most comprehensive real estate statistics, forecasts and analysis of the New Jersey Real Estate market. Subscribe to our newsletter today!
