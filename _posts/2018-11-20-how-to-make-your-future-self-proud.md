@@ -32,7 +32,7 @@ Many agents who hire someone to help them don’t necessarily want to pay them. 
 
 Remember the 80/20 Rule: 80% of the results are generated from the 20% of actions that matter most. **As agents, the actions that matter most can be summarized by the acronym SLLAC,** which stands for scripts, lead generation, lead follow-up, appointments, and contracts. So, at level two, you should be hiring someone to work administrative tasks like these.
 
-Level three involves hiring another administrator, which many agents will be hesitant to do. They, again, lose sight of the future and focus only on the money they could keep by hiring a buyer agent. However, this will only dampen your long-term success. Hiring a second administrator is what will really bring you the momentum needed to move on into the fourth, and fifth, levels.
+Level three involves hiring another administrator, which many agents will be hesitant to do. They, again, lose sight of the future and focus only on the money they could keep by hiring a buyer agent. However, this will only dampen your long-term success. Hiring a second administrator is what will really bring you the momentum needed to move on into the fourth and fifth levels.
 
 {% include pullquote.html %}
 
