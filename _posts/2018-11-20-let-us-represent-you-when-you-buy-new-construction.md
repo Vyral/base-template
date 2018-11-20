@@ -19,7 +19,7 @@ youtube_alternate_image: /uploads/11-20-new-contruction-yt.jpg
 youtube_code: ebB_h2mwvk8
 ---
 
-{{ include youtube.html }}
+{ include youtube.html }
 
 *Today we want to discuss with you the benefits of using our team to represent you in your next new construction venture.*
 
