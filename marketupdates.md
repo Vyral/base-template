@@ -6,9 +6,9 @@ permalink: /marketupdates/
 
 # ![](/uploads/d0769a14814d62ea0c7076b8-836x556.jpg)
 
-# Monthly Market Reports
+# **Monthly Market Reports**
 
-#### Get the latest and most comprehensive real estate statistics, forecasts and analysis of the New Jersey Real Estate market. Subscribe to our newsletter today!
+#### **Get the latest and most comprehensive real estate statistics, forecasts and analysis of the New Jersey Real Estate market. Subscribe to our newsletter today!**
 
 ### 2018 Market Reports
 
