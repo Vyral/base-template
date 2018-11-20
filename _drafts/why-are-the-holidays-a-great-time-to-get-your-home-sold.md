@@ -20,7 +20,7 @@ youtube_code: FRfnWFv4i3c
 
 {% include youtube.html %}
 
-Contrary to popular belief, selling a home during the holidays is actually a great idea. Here are 11 reasons why.
+<center>Contrary to popular belief, selling a home during the holidays is actually a great idea. Here are 11 reasons why.</center>
 
 Here are 11 reasons why you should consider listing your home during the holidays instead of waiting until next spring:
 
