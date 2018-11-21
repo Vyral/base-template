@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: W_wTd5oyk_4
+youtube_code: PQB6LSxIUrc
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Happy Thanksgiving! With the holiday season in full swing, it may be the one tim
 
 Sometimes, those approaching retirement will find that it no longer makes sense to live in the same big house. Once you reach a certain age, downsizing can often be your best option.
 
-**Just because your source of income has changed, though, it doesn’t mean your lifestyle has to.** What’s the point of having a five-bedroom home if you only use one? Many retirement-age homeowners may find that they would much rather cash in their equity and purchase a smaller home that better suits their needs, instead of continuing to pay for a ton of unused space. &nbsp;
+**Just because your source of income has changed, though, it doesn’t mean your lifestyle has to.** What’s the point of having a five-bedroom home if you only use one? Many retirement-age homeowners may find that they would much rather cash in their equity and purchase a smaller home that better suits their needs, instead of continuing to pay for a ton of unused space.  
 
 {% include pullquote.html %}
 
