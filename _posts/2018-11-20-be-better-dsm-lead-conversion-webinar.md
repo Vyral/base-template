@@ -20,9 +20,9 @@ youtube_code: RDHtfbnnqrk
 
 In my latest Be Better DSM live webinar on lead conversion, I spoke to a few special guests from Better Homes and Gardens Real Estate Innovations.
 
-**Aaron Moulton** comes from a family of agents and has worked in real estate for 10 years. He started off in the mortgage industry, working there for eight years before moving to real estate. He focuses on training agents who are new to the business.
+**Aaron Moulton**&nbsp;is the Director of business development For Better Homes and Gardens Real Estate Innovations. He comes from a family of agents and has worked in real estate for 10 years. He started off in the mortgage industry, working there for eight years before moving to real estate. He focuses on training agents who are new to the business.
 
-**Allison Langreck** has been in real estate for just over a year and has always wanted to make a career out of helping people. Helping people find homes definitely checks that box. She enjoys the challenges of the job and likes putting skills she has previously developed to the test.
+**Allison Langreck**&nbsp;is an inside sales agent in the client services department for the Misty SOLDwisch home selling team at better homes and Gardens Real Estate Innovations. She has been in real estate for just over a year and has always wanted to make a career out of helping people. Helping people find homes definitely checks that box. She enjoys the challenges of the job and likes putting skills she has previously developed to the test.
 
 **For your convenience, I’ve included timestamps of each webinar topic we discuss. Feel free to navigate to the topic(s) you are most interested in viewing.**
 
