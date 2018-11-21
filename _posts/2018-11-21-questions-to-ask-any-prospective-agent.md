@@ -30,12 +30,12 @@ Interviewing a range of agents is always a great way to find out whether they’
 
 **2. “How much experience selling real estate do you have in this area?”** This is important to know. For example, Nashville is only 45 minutes away from us, but the market in Clarksville and the market in Nashville are two totally different animals. If you’re looking to buy a home in Clarksville, you should hire someone who’s been practicing real estate here for quite a period of time.
 
-**3. “How many homes have you helped clients buy or sell in the last year?”** It might be that an agent has been in the business a long time, but if they’re not buying or selling many properties, they don’t have the experience you need. Our team actually did a training recently, talking about the things both buyers and sellers need to know this time of year so that we could all be experts in the goings-on of the market.<br>&nbsp;
+{% include pullquote.html %}
+
+**3. “How many homes have you helped clients buy or sell in the last year?”** It might be that an agent has been in the business a long time, but if they’re not buying or selling many properties, they don’t have the experience you need. Our team actually did a training recently, talking about the things both buyers and sellers need to know this time of year so that we could all be experts in the goings-on of the market.
 
 **4. “Do you have a list of recommended vendors?”** If someone is moving into the area and doesn’t really know anyone, an agent who has a list of trusted vendors is an invaluable resource. A client of Makeba’s recently called her in need of someone to fix his deck, his plumbing, and take care of an issue with the lawn—she gave him recommendations for all three in a single text.
 
 **5. “Do you work with a team?”** Both Makeba and I were in the military, meaning that we had to move around a lot. When I was interviewing agents to help me buy a home, I wanted to know whether or not those agents worked with a team. It’s great if an agent is knowledgeable about the area, has negotiating skills, knew about the market’s inventory, but if they don’t have a handle on the administrative aspects of the business, how can they give you the service you deserve? There are so many different aspects of making a transaction go smoothly, and it would be very difficult for one person by themselves to do it all. At our office, we hire specialists who can get each task done with expert skill, distributing the work across the whole team rather than encumbering one person with all the tasks.
 
 These are just a few of the tips I have to recommend to you. If you’d like to go into more detail, feel free to reach out to the Air Assault Team. We’d love to hear from you.
-
-{% include pullquote.html %}
