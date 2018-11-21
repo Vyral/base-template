@@ -18,7 +18,7 @@ youtube_code: RDHtfbnnqrk
 
 {% include youtube.html %}
 
-In my Be Better DSM live webinar on lead conversion, I spoke to a few special guests from Better Homes and Gardens Real Estate Innovations.
+In my latest Be Better DSM live webinar on lead conversion, I spoke to a few special guests from Better Homes and Gardens Real Estate Innovations.
 
 **Aaron Moulton** comes from a family of agents and has worked in real estate for 10 years. He started off in the mortgage industry, working there for eight years before moving to real estate. He focuses on training agents who are new to the business.
 
