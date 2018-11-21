@@ -20,9 +20,9 @@ youtube_alternate_image: /uploads/dallas-mortgage---bullet-proof-insurance-cover
 youtube_code:
 ---
 
-I’m not an insurance agent, but I’ve heard enough stories to know that when reviewing your homeowner’s insurance coverage, don’t assume that everything will be covered in case of a claim.&nbsp;
+I’m not an insurance agent, but I’ve heard enough stories to know that when reviewing your homeowner’s insurance coverage, don’t assume that everything will be covered in case of a claim. 
 
-In fact, in a 2007 survey, National Association of Insurance Commissioners revealed that homeowners misunderstood what their policy covered.&nbsp; Here are some of the findings and things NOT covered by standard homeowner’s insurance policies:
+In fact, in a 2007 survey, National Association of Insurance Commissioners revealed that homeowners misunderstood what their policy covered.  Here are some of the findings and things NOT covered by standard homeowner’s insurance policies:
 
 * 68 percent think vehicles such as cars, boats and motorcycles stolen from or damaged on their property are covered.
 * 51 percent think damages from a break in the water line on their property supplying water to their home are covered.
@@ -32,7 +32,7 @@ In fact, in a 2007 survey, National Association of Insurance Commissioners revea
 * 31 percent think damages from termites or other infestation are covered.
 * 22 percent think pets stolen from or injured on their property are covered.
 
-Call your insurance agent if you’ve done any of the following:&nbsp;
+Call your insurance agent if you’ve done any of the following: 
 
 Acquired expensive possessions, such as furniture, computers, stereos and televisions.
 
