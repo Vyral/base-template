@@ -39,3 +39,7 @@ Most of the houses we’re working on here in Washington, D.C., are not new home
 Now, you can ask the seller to fix or upgrade anything you like. You could create a long list of items for the seller to address, from aesthetic to structural changes. However, **it will be better for negotiations if you stick to the important stuff,** and don’t bog them down with a bunch of requests that you could feasibly do on your own.
 
 If you have any questions about home inspection negotiation tips or real estate in general, reach out to me and I’d be glad to continue this conversation with you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
