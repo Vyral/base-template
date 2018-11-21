@@ -42,18 +42,18 @@ But, even if they are registered and have a PTIN number, in some cases it may be
 * Find out how they determine the fees you will pay (will it be hourly or flat fee?)
 * How many clients have they represented in IRS audits?
 
-The IRS has provided a [directory of credentialed tax preparers](https://irs.treasury.gov/rpo/rpo.jsf){: target="_blank"} to assist in finding the right preparer for your needs.&nbsp;
+The IRS has provided a [directory of credentialed tax preparers](https://irs.treasury.gov/rpo/rpo.jsf){: target="_blank"} to assist in finding the right preparer for your needs. 
 
 A few things to keep in mind when selecting a tax professional:
 
 * Steer clear of tax preparers who claim they can get you a larger refund—without reviewing your paperwork first.
 * Steer clear of tax preparers who charge a “percentage” of your refund—the tax return may contain inaccurate info in order to pump up the refund amount.
-* Steer clear of tax preparers who have “a lot” of experience with representing clients who have been audited—this may be a sign that they claim “questionable” deductions.&nbsp;
+* Steer clear of tax preparers who have “a lot” of experience with representing clients who have been audited—this may be a sign that they claim “questionable” deductions. 
 
 The IRS has [compiled some tips](https://www.irs.gov/newsroom/things-to-remember-when-choosing-a-tax-preparer){: target="_blank"} when it’s time to choose a tax preparer.
 
 Keep in mind, I’m not a tax professional, and this is just general information, but I have many clients who have had good and bad experiences. I’d be happy to share some of their experiences and if I may be of service, please give me a call.
 
-For more information and guidance on choosing a tax preparer, visit the [IRS website](https://www.irs.gov/newsroom/tax-time-guide-online-tools-help-taxpayers-choose-a-qualified-tax-professional){: target="_blank"}.&nbsp;
+For more information and guidance on choosing a tax preparer, visit the [IRS website](https://www.irs.gov/newsroom/tax-time-guide-online-tools-help-taxpayers-choose-a-qualified-tax-professional){: target="_blank"}. 
 
 Guardian Mortgage is a division of Sunflower Bank, N.A. NMLS #709491
