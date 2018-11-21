@@ -45,12 +45,19 @@ Your focus should be to feed your database. But, just adding people to your data
 **So, for each week of our 8x8 plan, here’s what we do:**
 
 1. Write a thank you note and drop it off in person or send it in the mail.
+
 2. Contact an individual by phone to follow them up.
+
 3. Send or drop off an item of value, like a branded coffee mug or a real estate market report.
+
 4. Contact an individual by phone to follow them up.
+
 5. Send or drop off an item of value, like a refrigerator calendar or a market evaluation for their property.
+
 6. Send an email with industry knowledge that is useful to the client.
+
 7. Send or drop off another item of value.
+
 8. Give them a phone call.
 
 **Once a client has gone through this system, you’ve cemented your name in their mind. When they think of real estate, they should be thinking of you.**
