@@ -33,4 +33,4 @@ The big message I want to leave you with—especially millennials who have just 
 
 The best thing to do, even if these prices don’t seem affordable, is to think about buying sooner than later. As prices continue to go up, homeownership will get farther out of reach for some people just starting in the market.
 
-<br>If you’d like to see the entire market report, you can find it on my [business page on Facebook](https://www.facebook.com/asksaritagroup/?ref=page_internal). Otherwise, you can reach out to me to receive the report or to have any other questions answered. I hope to hear from you soon!
+If you’d like to see the entire market report, you can find it on my [business page on Facebook](https://www.facebook.com/asksaritagroup/?ref=page_internal). Otherwise, you can reach out to me to receive the report or to have any other questions answered. I hope to hear from you soon!
