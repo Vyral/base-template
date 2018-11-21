@@ -19,4 +19,4 @@ youtube_code: OeRmjF8d02w
 
 {% include youtube.html %}
 
-Today we’re taking a break from talking about real estate to talk about something more important: You. As the holiday season approaches, I’d like to thank you for all of your support. My team and I couldn’t be more grateful for your business and referrals. We hope that you’re able to enjoy this holiday season with all of your loved ones over great food and even better conversation.
+Today we’re taking a break from talking about real estate to talk about something more important: you. As the holiday season approaches, I’d like to thank you for all of your support. My team and I couldn’t be more grateful for your business and referrals. We hope that you’re able to enjoy this holiday season with all of your loved ones over great food and even better conversation.
