@@ -21,7 +21,7 @@ youtube_code: 1N4iiK0m9kU
 
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Today’s market update is hot off the press. Learn what’s been going on in our local market right here.*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Today’s market update is hot off the press. Learn what’s been going on in our local market right here.*
 
 The key thing we look for in the market right now, as we’re discerning whether it’s shifting or merely a glitch, is the inventory in months. In June, July, and August, we were respectively at &nbsp;2.1, 2.4, and 2.3 months of supply; in September, inventory jumped to 3.1 months.
 
