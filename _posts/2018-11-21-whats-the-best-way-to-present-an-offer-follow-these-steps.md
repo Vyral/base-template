@@ -19,7 +19,7 @@ youtube_code: 8qWUKRE-hlk
 
 {% include youtube.html %}
 
-What’s the best way to present an offer? Let’s discuss this crucial question.
+<p style="text-align: center;"><em>What’s the best way to present an offer? Let’s discuss this crucial question.</em></p>
 
 After you’ve found the perfect home, what’s the best way to present an offer?
 
