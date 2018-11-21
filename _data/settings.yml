@@ -15,18 +15,28 @@ client:
       license:
       phone: 801-699-4266
       email: bryan@colemererealty.com
-      
     - name: Scott Colemere
       client_headshot_path: /img/headshot2.jpg
       license:
       phone: 801-403-8565
-      email: scott@colemererealty.com      
-  about_markdown: >
-        As a Third Generation, Family owned and operated Real Estate Company, Colemere Realty Associates has a long history of working for our clients’ success. Each member of our team is focused on providing personal service with integrity knowledge and WOW! We know that a real estate transaction can be very challenging to successfully navigate that is why we are committed to doing whatever it takes to make you 100% successful.
+      email: scott@colemererealty.com
+  about_markdown: >-
+    As a Third Generation, Family owned and operated Real Estate Company,
+    Colemere Realty Associates has a long history of working for our clients’
+    success. Each member of our team is focused on providing personal service
+    with integrity knowledge and WOW! We know that a real estate transaction can
+    be very challenging to successfully navigate that is why we are committed to
+    doing whatever it takes to make you 100% successful.
 
 
-        As your REALTOR®, we see ourselves as the pilots of your plane. Our job is to assist you with the purchase or sale of your home; getting you where you want to be on time and with the fewest aggravations. We can’t promise you no turbulence, or that other parties to the transaction won’t try and pull a few stunts, but we can promise you that we’ll utilize our experience and expertise to take you on the smoothest flight that we can. And if we do hit turbulence, we won’t bail out on you. We’ll be your teammates throughout the flight, until we get you safely to your destination.
-
+    As your REALTOR&reg;, we see ourselves as the pilots of your plane. Our job
+    is to assist you with the purchase or sale of your home; getting you where
+    you want to be on time and with the fewest aggravations. We can’t promise
+    you no turbulence, or that other parties to the transaction won’t try and
+    pull a few stunts, but we can promise you that we’ll utilize our experience
+    and expertise to take you on the smoothest flight that we can. And if we do
+    hit turbulence, we won’t bail out on you. We’ll be your teammates throughout
+    the flight, until we get you safely to your destination.
   market: Wasatch Front
   brand: Colemere Realty Associates
   brokerage:
@@ -37,7 +47,7 @@ client:
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'https://www.colemererealty.com/sell/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.colemererealty.com/buy/'
+  second_CTA_URL: 'https://www.colemererealty.com/'
   about_header: About the CRA Team
 emma_form: >-
   <script
