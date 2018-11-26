@@ -30,7 +30,7 @@ There’s a shift happening in both our San Diego County market and the national
 
 In that time, market prices are predicted to increase from 3.1% to 5.5%. Interest rates are also predicted to increase from 1% to 1.5%. Since today’s average rate for a 30-year fixed loan is 4.62%, they’ll reach at least 5.62% by the end of 2019.
 
-Here in San Diego County, our median home price is $596,500, which means that the home you’re searching for today will be worth $18,500 more in 2019. When you combine that with an additional estimated $211,000 in interest paid for the life of a 30-year fixed loan for just that 1% increase in the adjusted interest rate, the cost of waiting that long is costly at best.
+Here in San Diego County, our median home price is $596,500, which means that the home you’re searching for today will be worth $18,500 more in 2019. When you combine that with an additional estimated $211,000 in interest paid for the life of a 30-year fixed loan for just that 1% increase in the adjusted interest rate, the price of waiting that long is costly at best.
 
 {% include pullquote.html %}
 
