@@ -23,7 +23,7 @@ youtube_code: 0f513NK7T2g
 
 Masterminds, in general, are a fairly common business practice.
 
-The idea of finding a group of mentors whose wisdom and experience you can draw on to grow as a professional is nothing new—but **there is a specialized version of this practice you might not be aware of: The niche mastermind.**
+The idea of finding a group of mentors whose wisdom and experience you can draw on to grow as a professional is nothing new—but **there is a specialized version of this practice you might not be aware of: the niche mastermind.**
 
 Let’s say that you’re trying to break into the first-time homebuyer market. You could simply develop a mastermind group of other agents looking to break into this same market, and that would certainly be better than doing it on your own, but what if you were to take things a step further and **connect with professionals outside of the real estate industry who have contact with the same demographic you’re targeting?**
 
