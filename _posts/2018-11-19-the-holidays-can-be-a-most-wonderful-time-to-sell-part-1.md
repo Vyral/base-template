@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Holidays Can Be a Most Wonderful Time to Sell: Part 1'
-date: 2018-11-19 15:15:09
+date: 2018-11-19 15:15:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -9,7 +9,7 @@ excerpt: >-
   Think that the holidays aren’t a good time to sell? Think again. I have six
   reasons, with more to come, why you should list now instead of waiting.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+Listing+During+the+Holidays+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+Listing+During+the+Holidays.mp4
 pullquote: >-
   Every year, December is my best month for selling homes, there’s no doubt
   about it.
