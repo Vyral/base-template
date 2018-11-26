@@ -28,7 +28,7 @@ Now, the 8x8 system means literally eight touches in eight weeks—not six touch
 
 The human mind is under a constant bombardment of advertising and marketing. Over time, it becomes saturated. Realize that every day, we’re being bombarded with 5,000 or more marketing messages, but the mind can only hold a finite amount of information at any one time.
 
-According to the National Association of Realtors research, 76% of all sellers had only contacted one agent before listing their home, and 16% had contacted just two agents. For buyers, 59% had interview just one agent, and 22% interviewed only two agents.
+According to the National Association of Realtors research, 76% of all sellers had only contacted one agent before listing their home, and 16% had contacted just two agents. For buyers, 59% had interviewed just one agent, and 22% interviewed only two agents.
 
 {% include pullquote.html %}
 
