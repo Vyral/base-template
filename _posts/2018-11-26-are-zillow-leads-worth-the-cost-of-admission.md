@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/ixqT4ElNAQk'
 
 {% include youtube.html %}
 
-There are websites out there collecting real estate inquiries and selling it back to us. **These are leads they get from our listings to begin with.** Why shoulfd we handsomely pay websites like Zillow for our own leads?
+There are websites out there collecting real estate inquiries and selling it back to us. **These are leads they get from our listings to begin with.** Why should we handsomely pay websites like Zillow for our own leads?
 
 I spoke to a Zillow representative recently about their conversion rates, which are between 1% and 5%. You’d need 20 leads just to convert one. Zillow sells on a lead-by-lead basis, **and those 20 leads cost over $1,700 in my market for one conversion.** Our average house sells for at least $150,000 and a commission rate of 3% would be $4,500. Am I going to pay $1,700 for a possible $4,500 commission? This is a decent return on investment if you don’t have any leads.
 
