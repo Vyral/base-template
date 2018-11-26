@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-16-holidays-np.jpg
-youtube_code: x2Iwv3SKVdA
+youtube_code: 8_InRYKTwF4
 ---
 
 {% include youtube.html %}
