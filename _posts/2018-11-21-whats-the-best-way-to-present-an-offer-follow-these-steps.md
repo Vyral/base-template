@@ -37,4 +37,4 @@ Finally, don’t forget about home warranties. **Many sellers will be willing to
 
 The items we’ve covered are just a few of the things you can and should ask for when presenting an offer. Your price, terms, and conditions must be attractive to the seller, but they should also help you secure a great deal.&nbsp;
 
-So if you have any other questions, would like more information, or are curious how we can help succeed with your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+So if you have any other questions, would like more information, or are curious how we can help you succeed with your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
