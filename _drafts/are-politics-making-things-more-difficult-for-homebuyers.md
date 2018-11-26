@@ -22,7 +22,7 @@ youtube_code: u1MqTGK0BXo
 
 {% include youtube.html %}
 
-Fellow Realtor Sarah Johnston joins me today to talk about how politics are affecting our Calgary market.
+<center>Fellow Realtor Sarah Johnston joins me today to talk about how politics are affecting our Calgary market.</center>
 
 Today I have the pleasure of sitting down with fellow MaxWell Realtor Sarah Johnston to talk a little bit about how politics and policy are affecting the Calgary real estate market.
 
