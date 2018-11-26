@@ -21,7 +21,7 @@ client:
     every one of our clients to help them reach their goals.
   market: Orlando
   brand: The Dee Team
-  brokerage: Keller Williams At The Parks
+  brokerage: Preferred Real Estate Brokers
   address: '11 S Bumby Ave Suite #200<br>Orlando, FL 32803'
   phone: (321) 945-7351
   phone_type:
@@ -125,7 +125,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: trasparent
+  shadow_color: '#000000'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
