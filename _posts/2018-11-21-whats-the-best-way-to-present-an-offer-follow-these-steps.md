@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s The Best Way to Present an Offer? Follow These Steps
+title: What’s the Best Way to Present an Offer? Follow These Steps
 date: 2018-11-21 21:34:03
 tags:
   - Home Buyer Tips
@@ -29,7 +29,7 @@ A lot of people want to submit offers below what the seller is asking, but proce
 
 Once you’ve submitted an offer with a competitive price and made a substantial earnest money deposit, ask the seller to cover closing costs. This isn’t necessary, but they may agree to handle this expense given the strength of your offer. Make sure, though, that your offer comes with an expiration date. You want the seller to realize that you won’t wait around forever.
 
-**In addition to asking for the seller to pay the closing costs, you may also choose to ask for some personal property, like the refrigerator.** People tend to assume that appliances like this come with the home, but this isn’t always the case. If the home was shown with patio furniture, you could ask for that to be included, as well. Sellers will occasionally be willing to part with large furniture items.
+**In addition to asking for the seller to pay the closing costs, you may also choose to ask for some personal property, like the refrigerator.** People tend to assume that appliances like this come with the home, but this isn’t always the case. If the home was shown with patio furniture, you could ask for that to be included as well. Sellers will occasionally be willing to part with large furniture items.
 
 {% include pullquote.html %}
 
