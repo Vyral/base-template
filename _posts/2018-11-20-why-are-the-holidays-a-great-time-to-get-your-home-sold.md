@@ -14,15 +14,15 @@ pullquote: 'If you sell now, you can be a non-contingent buyer in the spring.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/deepak-gupta-dec-1-ss-no-play.jpg
-youtube_code: FRfnWFv4i3c
+youtube_alternate_image: /uploads/deepak-gupta-dec-1-ss-no-play-1.jpg
+youtube_code: VRnDpt3VR-g
 ---
 
 {% include youtube.html %}
 
 <center><em>Contrary to popular belief, selling a home during the holidays is actually a great idea. Here are 11 reasons why.</em></center>
 
-&nbsp;
+ 
 
 Here are 11 reasons why you should consider listing your home during the holidays instead of waiting until next spring:
 
@@ -44,7 +44,7 @@ Here are 11 reasons why you should consider listing your home during the holiday
 
 **8. Buyers who are being relocated are on the market now**. To capture this group of buyers who are starting a new job in a new city, you have to be on the market now.
 
-**9. You have the option to restrict showings**. You don’t have to show your home on Christmas or New Years. You can restrict showings during this time, allowing you to enjoy your holidays.&nbsp;
+**9. You have the option to restrict showings**. You don’t have to show your home on Christmas or New Years. You can restrict showings during this time, allowing you to enjoy your holidays. 
 
 **10. You can list with a higher sale price**. With fewer properties on the market, you can increase your price because of the limited inventory. You can also delay your closing until after the holidays.
 
