@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Blog Post: This New Listing at 3814 SE Martins St. Is One You Won’t Want to
-  Miss
+title: 'Blog Post: You Won''t Want to Miss This New Listing'
 date: 2018-11-20 16:25:00
 tags:
   - Real Estate
@@ -23,11 +21,11 @@ youtube_code: X2_RKbMUv3g
 
 {% include youtube.html %}
 
-At 3814 Southeast Martins Street, surrounded by mature trees on a hidden road, stands a hidden gem: the original house of Eastmoreland.
+At 3814 Southeast Martins Street, surrounded by mature trees on a hidden road, stands a hidden gem: The original house of Eastmoreland.
 
 This Queen Anne, New England-style farmhouse was built in 1892, and its breathtaking Victorian character still shines today. It’s been an adored family home for the past 20 years, and some may remember it from the 1998 Disney Channel original film, “Halloweentown.”
 
-On the outside, this three-story home has a large, dividable lot with lots of potential and three covered porches. **The interior main level features large, formal rooms with high ceilings that open into each other and really showcase the benefits of a Victorian floorplan**—not mention all the exquisite, hand-milled woodwork and large picture windows. The large, open kitchen has original birdseye maple cabinetry built in and a farmhouse pantry with storage galore.
+On the outside, this three-story home has a large, dividable lot with lots of potential and three covered porches. **The interior main level features large, formal rooms with high ceilings that open into each other and really showcase the benefits of a Victorian floor plan**—not to mention all the exquisite, hand-milled woodwork and large picture windows. The large, open kitchen has original birdseye maple cabinetry built in and a farmhouse pantry with storage galore.
 
 {% include pullquote.html %}
 
