@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/niSMNHKDjFc'
 
 This fall, we’ve seen a lot of contingent purchase agreements. While most purchase agreements have built-in contingencies for financing and inspections, the contingency we’re referring to here is the home sale contingency.&nbsp;
 
-While not unheard of, contingent offers in a hot market are not the norm. As the market is shifting this fall, we have noticed a dramatic shift in the type of purchase agreements coming in. **The past (now) seven purchase agreements we’ve received this year have contained such a contingency.** One of the reasons we believe this is happening so late in the market is that buyers have a strong desire to secure a home before sellers begin to pull their homes off the market for the holidays.&nbsp;
+While not unheard of, contingent offers in a hot market are not the norm, simply because a seller is more apt to roll the dice and wait for a non-contingent offer instead. With the market shift taking place this fall, however, we have noticed a common theme in the type of purchase agreements coming in. **The past (now) seven purchase agreements we’ve received this fall have contained a home sale contingency.** One of the reasons we believe this is happening so late in the market is that buyers have a strong desire to secure a home before sellers begin to pull their homes off the market for the holidays.
 
 {% include pullquote.html %}
 
