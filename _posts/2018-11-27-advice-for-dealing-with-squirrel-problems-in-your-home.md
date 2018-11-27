@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advice for Dealing With Squirrel Problems in Your Home
-date:
+date: 2018-11-27 20:12:48
 tags:
   - Home Tips
   - Real Estate
