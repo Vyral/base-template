@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Sell Your Home in the Fall?
-date:
+date: 2018-11-27 22:51:35
 tags:
   - Home Seller Tips
 excerpt: >-
