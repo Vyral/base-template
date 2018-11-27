@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Things You’ll Need to Know Before Investing in Real Estate
-date:
+date: 2018-11-27 16:33:51
 tags:
   - Real Estate
 excerpt: Here is what you’ll need to do when you decide to invest in real estate.
