@@ -31,18 +31,18 @@ In addition to introducing James and Mark to you, I wanted to also discuss a par
 
 Using the timestamps below, feel free to navigate the conversation we had at your leisure:
 
-* 2:30—Introducing James and Mark and their journey in the real estate industry
-* 4:00—Diving into ListReports: James and Mark show us what it is and how it works, as well as highlight the power of the tool and give recommendations for using it.
+* 2:30—Introducing James and Mark and their journey in the real estate industry.
+* 4:00—Diving into ListReports: James and Mark show us what it is and how it. works, as well as highlight the power of the tool and give recommendations for using it.
 * 10:40—Intuitive marketing elements: The marketing materials ListReports provides for an agent’s listings.
-* 14:40—ListReports is formatted for both desktop and phone browsers, giving it on-the-go convenience
-* 16:45—Open houses are made easier with ListReports
-* 18:25—Need promotional flyers? ListReports can do that, too
+* 14:40—ListReports is formatted for both desktop and phone browsers, giving it on the go convenience.
+* 16:45—Open houses are made easier with ListReports.
+* 18:25—Need promotional flyers? ListReports can do that, too.
 * 19:35—Showing your clients how you’ll be marketing their listings
-* 20:05—The School Report
+* 20:05—The School Report.
 * 22:15—Who has access to the listings on ListReports?
-* 23:10—ListReports can help buyer’s agents and their clients, as well
-* 25:00—Making the most of ListReports’ sign-writing service
-* 27:55—Summarizing the benefits of using ListReports
+* 23:10—ListReports can help buyers' agents and their clients, as well.
+* 25:00—Making the most of ListReports’s sign-writing service.
+* 27:55—Summarizing the benefits of using ListReports.
 
 This is my actionable recommendation to anyone who is looking for tools and resources to enhance your control of your listings: Partner with a CityWide Representative and ask them to help you implement the ListReports tool; they’ll help you set up your account. Then, pull up and look at every report and make a system out of them. Decide what reports you’ll use on which listings, but don’t use all of them.
 
