@@ -27,6 +27,8 @@ Sometimes, it pays to go against the crowd. For example, the real estate market 
 
 Other fall buyers are simply forced to look for a new home because of a new job, a work relocation, or because they want to get the move complete ahead of the holidays. In other words, fall buyers make up in dedication what they might lack in numbers.
 
+{% include pullquote.html %}
+
 **2. There's less competition**. It's no secret that most homes are listed in the spring and summer. However, those homes that are not sold by the end of the summer are often delisted. Otherwise, they start to draw less interest because of the time they've spent on the market.
 
 That's why if you list in the fall, you can have the benefit of standing out, as well as facing less competition than during the "hotter" seasons.
