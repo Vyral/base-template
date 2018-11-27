@@ -19,7 +19,7 @@ youtube_code: 09Gw8mR5PMY
 
 {% include youtube.html %}
 
-As the weather cools down, the fireplace begins to look more and more enticing. However, your fireplace can be an extreme danger to you and your family if it isn’t properly prepared. Before you decide to light it up this winter season, follow these 10 fireplace safety tips
+As the weather cools down, the fireplace begins to look more and more enticing. However, your fireplace can be an extreme danger to you and your family if it isn’t properly prepared. Before you decide to light it up this winter season, follow these 10 fireplace safety tips:
 
 **1. Annual fireplace and chimney inspection**. Getting your fireplace and chimney inspected each year is an easy way to know your fireplace is safe, clean, and free from any blockage that may have built up throughout the non-winter months.
 
