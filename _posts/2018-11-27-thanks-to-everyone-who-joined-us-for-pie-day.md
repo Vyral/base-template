@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Thanks to Everyone Who Joined Us for Pie Day
-date: 2018-11-27 20:59:03
+date: 2018-11-27 20:59:00
 tags:
   - Real Estate
-excerpt: Expect the 2019 market to continue to be hot.
+excerpt: >-
+  Our annual pie giveaway was a huge success. Here’s a closer look at all the
+  fun we had.
 enclosure:
 pullquote: Expect the 2019 market to continue to be hot.
 enclosure_type: video/mp4
