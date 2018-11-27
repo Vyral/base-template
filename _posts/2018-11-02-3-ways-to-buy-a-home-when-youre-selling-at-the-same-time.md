@@ -28,9 +28,9 @@ youtube_code: YvIgZashs7U
 
 It is. It has been. Washington County <a href="http://www.dixiehomevalue.com/" target="_blank">home values</a> are up over $120,000 on average since 2013 and growth appears to be happening everywhere! And this is great…unless your home sells so quickly that you may find yourself homeless before you find the next one!
 
-One of the biggest challenges our St. George real estate clients are facing in a fast- market is the delicate balancing act of lining up a Buyer to close on their home, while simultaneously trying to close on their next home purchase.
+One of the biggest challenges our St. George real estate clients are facing in a fast- market is the delicate balancing act of lining up a buyer to close on their home, while simultaneously trying to close on their next home purchase.
 
-What happens if you sell your home TOO fast? Say 1-31 days’ fast? 
+What happens if you sell your home TOO fast? Say 1-31 days fast? 
 
 First, to give you some perspective, let’s consider the example of a listing our team recently sold. Within three days of going on the market, we’d received eight offers, and our seller ultimately earned $20,000 more than their list price. This kind of
 scenario is exciting, but it is exactly the sort of situation that might elicit the concern we mentioned earlier.
