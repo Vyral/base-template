@@ -32,8 +32,8 @@ With Thanksgiving, Christmas, and New Year’s on the horizon, wondering about t
 
 **2. Buyers are more serious**. Between holiday festivities, job transfers, schools getting out for break, buyers who happen to be in the market are very serious about purchasing a home. It’s a great time to hit the reset button and make a move so that you can be settled by the time that the holidays, school, or work rolls around after the new year.
 
-**3. There are tax advantages**. Though it’s often overlooked by the casual homebuyer, real estate investors often try to purchase homes before the end of the year so they can reap the associated tax benefits of homeownership, like being able to deduct mortgage interest and property taxes.
-
 {% include pullquote.html %}
+
+**3. There are tax advantages**. Though it’s often overlooked by the casual homebuyer, real estate investors often try to purchase homes before the end of the year so they can reap the associated tax benefits of homeownership, like being able to deduct mortgage interest and property taxes.
 
 As we move closer to the holidays, these are points homeowners should keep in mind. If you have any questions, you are always encouraged to reach out to us. We’d be happy to do a free appraisal on your home to see if it would be advantageous for you to list during this time of year. Until then, happy holidays!
