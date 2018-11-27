@@ -22,7 +22,7 @@ youtube_code: a1ipvvKME_k
 
 {% include youtube.html %}
 
-Today I’ll be discussing the three most compelling reasons for you to consider listing or selling your property during the holiday season.
+<center>Today I’ll be discussing the three most compelling reasons for you to consider listing or selling your property during the holiday season.</center>
 
 With Thanksgiving, Christmas, and New Year’s on the horizon, wondering about the holiday market is a fairly common occurrence for homeowners. Here are the top three reasons why I would definitely recommend that curious sellers take advantage of the market right now:
 
