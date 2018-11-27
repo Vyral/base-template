@@ -21,14 +21,14 @@ youtube_code: 'https://youtu.be/niSMNHKDjFc'
 
 {% include youtube.html %}
 
-This fall, we’ve seen a lot of contingent purchase agreements. While most purchase agreements have built-in contingencies for financing or association documents, the contingency we’re referring to here is the home sale contingency.&nbsp;
+This fall, we’ve seen a lot of contingent purchase agreements. While most purchase agreements have built-in contingencies for financing and inspections, the contingency we’re referring to here is the home sale contingency.&nbsp;
 
-Despite not being particularly common during the rest of the year, **the past five purchase agreements we’ve received this year have come with such a contingency.** One of the reasons we believe this has been the case is that buyers today have a strong desire to secure a home before sellers begin to pull their listings off the market for the holidays.
+While not unheard of, contingent offers in a hot market are not the norm. As the market is shifting this fall, we have noticed a dramatic shift in the type of purchase agreements coming in. **The past (now) seven purchase agreements we’ve received this year have contained such a contingency.** One of the reasons we believe this is happening so late in the market is that buyers have a strong desire to secure a home before sellers begin to pull their homes off the market for the holidays.&nbsp;
 
 {% include pullquote.html %}
 
-The increased frequency of contingency offers may also have something to do with the low inventory we were seeing in the recent past. While supply was depleted, it was difficult for contingent buyers to compete. Now that things have cooled down a bit, contingent offers have a far better chance of succeeding.&nbsp;
+The increased frequency of contingent offers may also have something to do with the low inventory we were seeing in the very recent past. While supply was depleted, it was difficult for contingent buyers to compete. Now that the market has cooled, contingent offers have a far better chance of becoming accepted by a seller.&nbsp;
 
-From a seller’s perspective, though, the question remains as to whether such offers should be accepted. As Realtors, we can honestly say that at this time of year, accepting a contingent offer can be a good idea. Ultimately, though, it will depend on the time of year you’re selling and on your specific market. With that said, **sellers who receive a contingent offer should realize that they have the steering wheel in their hands.&nbsp;**
+From a seller’s perspective, though, the question remains as to whether such offers should be considered. As REALTORS&reg;, we believe that at this time of year, accepting a contingent offer can be a good idea, with other considerations in mind. &nbsp;Ultimately, though, it will depend on the time of year you’re selling and the specific market conditions for both the seller’s home and the buyer’s backup home. **Sellers should also remember that when it comes to accepting a contingent offer, they are driving the bus in terms of the length of the contingency.**
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
