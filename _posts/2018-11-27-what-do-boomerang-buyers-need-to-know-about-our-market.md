@@ -22,7 +22,9 @@ youtube_code: 0fjsjore800
 
 {% include youtube.html %}
 
-<center>If you’re a boomerang buyer, there are a couple key things you need to keep in mind when re-entering our market.</center>
+<center><em>If you&rsquo;re a boomerang buyer, there are a couple key things you need to keep in mind when re-entering our market.</em></center>
+
+&nbsp;
 
 If you’re a boomerang buyer, what do you need to know about our market so that you can have a successful home purchase and become a homeowner again?
 
