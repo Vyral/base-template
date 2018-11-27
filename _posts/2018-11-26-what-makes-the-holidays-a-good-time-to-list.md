@@ -23,7 +23,7 @@ youtube_code: YjK1iNlFeN8
 
 The holidays are upon us. This is our absolute favorite time of year, and we’re sure this is the case for many of you, as well.
 
-But while we all love the food, fun, and time with loved ones that comes with this season, there’s another important subject we’d like to highlight today: Holiday real estate. The ground may be freezing over, but the market certainly is not. Those looking to sell still have a chance to earn a great deal for their home, and there are three main reasons why:&nbsp;
+But while we all love the food, fun, and time with loved ones that comes with this season, there’s another important subject we’d like to highlight today: holiday real estate. The ground may be freezing over, but the market certainly is not. Those looking to sell still have a chance to earn a great deal for their home, and there are three main reasons why:&nbsp;
 
 **1. There’s less competition.** Not many people choose to list during the holidays, so those who do have a better chance at standing out.&nbsp;
 
