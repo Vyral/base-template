@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Started Investing in Real Estate
-date:
+date: 2018-11-27 16:19:09
 tags:
 excerpt: >-
   If you want to get started investing in real estate, there are a few important
