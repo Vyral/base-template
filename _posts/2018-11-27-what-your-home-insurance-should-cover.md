@@ -19,7 +19,7 @@ youtube_code: EzBn4pJBi9I
 
 {% include youtube.html %}
 
-Here are three things to double check in your insurance policy.
+<p style="text-align: center;"><em>Here are three things to double check in your insurance policy.</em></p>
 
 In the wake of the recent wildfires here in Southern California, I’m joined today by Zachary Schneiderman of Schneiderman Insurance Agency to talk about what you should keep in mind about your home insurance. Here’s what to do to make sure your insurance protects you sufficiently:
 
