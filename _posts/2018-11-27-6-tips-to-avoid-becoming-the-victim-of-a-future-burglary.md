@@ -19,7 +19,7 @@ youtube_code: zRYcMKIyzEo
 
 {% include youtube.html %}
 
-Today I want to talk about six home safety tips to employ if you want to keep your home safe from burglars.
+<p style="text-align: center;"><em>Today I want to talk about six home safety tips to employ if you want to keep your home safe from burglars.</em></p>
 
 There are six things that house burglars don’t want you to know:
 
