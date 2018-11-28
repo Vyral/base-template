@@ -25,6 +25,10 @@ And if they’re looking to buy their dream retirement home, we also have a bunc
 
 {% include pullquote.html %}
 
-**We’ve had clients downsize and sell their property, and using a reverse mortgage, buy a new home with no monthly payments and a lot less stress involved.** They even get some extra money in their pockets from the deal. There are many options to choose from when taking advantage of the program.
+**We’ve had clients downsize and sell their property, and using a reverse mortgage, buy a new home with no monthly payments and a lot less stress involved.**&nbsp;With a refinanace reverse mortgage, clients can get access to cash flow. There are many options to choose from when taking advantage of these programs.
 
 If you’re looking to buy or sell a home, have any questions, or would like further information, feel free to contact us. We look forward to hearing from you.
+
+\*The borrower(s) must live in the home as their &nbsp;primary residence, continue to pay required property taxes, &nbsp;homeowners&nbsp; insurance and maintain the home according to FHA requirements. The balance of the reverse mortgage loan grows over time and interest will be charged on the outstanding loan balance. Loan payoff is due in one lump sum upon maturity event.
+
+&nbsp;
