@@ -17,7 +17,7 @@ youtube_code: my5e2JERnGU
 
 {% include youtube.html %}
 
-Follow these steps to ensure your portfolio grows instead of withers.
+<p style="text-align: center;"><em>Follow these steps to ensure your portfolio grows instead of withers.</em></p>
 
 2018 was interesting with some ups and downs; inventory is at a four-year peak, sales are decreasing, and prices are starting to fall back as well. 2019 will still be a good time to increase your real estate portfolio—well, as good as the last few years, at least.&nbsp;
 
