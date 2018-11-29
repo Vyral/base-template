@@ -18,7 +18,7 @@ custom_links:
 client:
   name: 'Becky Ivins</br>OK Real Estate License #47388'
   title: 'OK Real Estate License #47388'
-  license_number: 47388
+  license_number:
   about_markdown: >-
     Becky began selling real estate in 1977 and in 1979 she started her own
     brokerage, Movers Real Estate Company. Among her designations is SRES,
