@@ -20,7 +20,7 @@ youtube_code: yrm4m_HNRb0
 
 {% include youtube.html %}
 
-The 2008 market crash took quite a toll on many homeowners throughout the country. However, there is one positive that came out of those poor conditions in the end.
+<p style="text-align: center;"><em>The 2008 market crash took quite a toll on many homeowners throughout the country. However, there is one positive that came out of those poor conditions in the end.</em></p>
 
 There is one good thing that came out of the 2008 real estate crash. **I'm talking about the growth of the vacation rental market.**
 
