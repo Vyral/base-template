@@ -9,7 +9,7 @@ excerpt: >-
   Think that the holidays aren’t a good time to sell? Think again. I have six
   reasons, with more to come, why you should list now instead of waiting.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+Listing+During+the+Holidays.mp4
+  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+The+Holidays+Can+Be+a+Most+Wonderful+Time+to+Sell-+Part+1.mp4
 pullquote: >-
   Every year, December is my best month for selling homes, there’s no doubt
   about it.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-16-holidays-np.jpg
-youtube_code: 8_InRYKTwF4
+youtube_code: v0vUCZPCLew
 ---
 
 {% include youtube.html %}
