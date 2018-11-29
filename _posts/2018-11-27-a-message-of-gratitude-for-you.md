@@ -23,4 +23,4 @@ youtube_code: JZlwkx4JhoI
 
 &nbsp;
 
-I’m out here in Southern California doing one of my favorite things: Riding dirt bikes. I’m fresh off a two-day training event where I learned not only how to better myself as a real estate professional, but also to provide better value and service to my clients. I’m all finished up and can barely feel my arms, but I just wanted to say how grateful I was for all of your support this year and in years past.
+I’m out here in Southern California doing one of my favorite things: riding dirt bikes. I’m fresh off a two-day training event where I learned not only how to better myself as a real estate professional, but also to provide better value and service to my clients. I’m all finished up and can barely feel my arms, but I just wanted to say how grateful I was for all of your support this year and in years past.
