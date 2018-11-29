@@ -23,3 +23,5 @@ I just wanted to take a moment to reach out and wish each and every one of you h
 {% include pullquote.html %}
 
 The light show at Hogle Zoo is fantastic, and if you haven’t seen the lights at Temple Square, you’ve got to go there too. In the meantime, if there’s anything I can do for you, don’t hesitate to reach out. To see my full holiday message, watch this short video.
+
+For a list of all holiday events in South Jordan, [click here!](https://www.sjc.utah.gov/upcoming-events/)
