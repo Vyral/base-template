@@ -18,7 +18,7 @@ youtube_code: TtS_JXulUac
 
 {% include youtube.html %}
 
-I just wanted to take a moment to reach out and wish each and every one of you happy holidays. I also wanted to give you an idea of where some of the best holiday light shows are.
+I just wanted to take a moment to reach out and wish each and every one of you happy holidays. I also wanted to give you an idea of where some of the best holiday light shows are. Check out the list below!
 
 Starry Starry Night at The Gateway<br>Lights on Temple Square at Temple Square<br>Fantasy at the Bay Holiday Light Display at Willard Bay State Park<br>Deck the Hall: Sandy City Hall Holiday Lights and Village Train Display in Sandy City<br>Macy's Holiday Candy Windows at City Creek Center<br>Elf Displays at Gardner Village<br>Ogden's Christmas Village in Ogden's Municipal Park<br>ZooLights at Utah's Hogle Zoo<br>Holiday Lights at Thanksgiving Point<br>Trees of Diversity at the Utah Cultural Celebration Center<br>Spanish Fork Festival of Lights at Canyon View Park in Spanish Fork City
 
