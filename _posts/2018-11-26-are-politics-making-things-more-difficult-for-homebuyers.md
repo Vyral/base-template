@@ -24,11 +24,11 @@ youtube_code: netkNtOAaOA
 
 <center><em>Fellow Realtor Sarah Johnston joins me today to talk about how politics are affecting our Calgary market.</em></center>
 
- 
+&nbsp;
 
 Today I have the pleasure of sitting down with fellow MaxWell Realtor Sarah Johnston to talk a little bit about how politics and policy are affecting the Calgary real estate market.
 
-Sarah recently attended the NAR Annual in Boston, Massachusetts and got the chance to talk with many agents across Canada and the U.S. According to her, although markets in the states vary, as a whole, they’re doing just fine. Unemployment levels are low, and they’re keeping up with the cost of inflation. While some markets might be doing better than others, she didn’t notice any areas that were outright struggling.
+Sarah recently attended the NAR Annual in Boston, Massachusetts and got the chance to talk with many agents across Canada and the U.S. According to her, although markets in the states vary, they're doing just fine as a whole. Unemployment levels are low, and they’re keeping up with the cost of inflation. While some markets might be doing better than others, she didn’t notice any areas that were outright struggling.
 
 I always like to say that if they sneeze in the states, we in Canada catch a cold, so this news bodes well for our near future. What Sarah is more concerned about right now, though, is what’s happening here in Canada. In her opinion, **politics are getting in the way of what’s going on in our market**.
 
@@ -36,7 +36,7 @@ I always like to say that if they sneeze in the states, we in Canada catch a col
 
 In fact, it was her impression that they wanted to increase some of the legislative changes coming up, which means **it might get more difficult for homebuyers in our market**. In addition to a growing concern about Canadians’ household debt loads, we expect to see interest rates continue to increase in 2019. Regulation is essentially collapsing housing industries everywhere outside of the major cities, and our sales haven’t been this low since the late 90s.
 
-**This trend affects other industries outside of real estate**. The housing industry produces between $30 and $40 billion per year, and a lot of other industries make a living off of houses being built and trading hands, and the inability to slow that down can have a crippling effect, and that effect is far-reaching.
+**This trend affects other industries outside of real estate**. The housing industry produces between $30 and $40 billion per year, and a lot of other industries make a living off of houses being built and trading hands. The inability to slow that down can have crippling and far-reaching effects.
 
 {% include pullquote.html %}
 
