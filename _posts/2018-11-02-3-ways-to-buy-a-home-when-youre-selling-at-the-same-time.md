@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Buy a Home When You’re Selling at the Same Time
-date: 2018-11-02 16:38:30
+date: 2018-11-28 16:38:30
 tags:
   - Real Estate
 excerpt: >-
