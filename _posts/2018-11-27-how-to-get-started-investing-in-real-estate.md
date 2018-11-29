@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/investing-in-real-estate-youtube.jpg
 youtube_code: BRd28TLJuY0
 ---
 
-{% include youtube.html %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;*If you want to get started investing in real estate, there are a few important steps you need to take.*
+{% include youtube.html %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;*If you want to get started investing in real estate, there are a few important steps you need to take.*
 
 If you’re thinking about investing in real estate, here are the steps you need to take to get started.
 
