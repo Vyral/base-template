@@ -16,8 +16,8 @@ custom_links:
   - title: Free Newsletter
     url: /subscribe/
 client:
-  name: 'Becky Ivins</br>OK Real Estate License #47388'
-  title: 'OK Real Estate License #47388'
+  name: Becky Ivins
+  title:
   license_number:
   about_markdown: >-
     Becky began selling real estate in 1977 and in 1979 she started her own
@@ -43,7 +43,7 @@ client:
     the heart of a social worker. She delights in providing a full service
     transaction backed by decades of experience and a wealth of knowledge.
   market: Oklahoma City
-  brand: Movers Real Estate Company
+  brand: 'OK Real Estate License #47388</br>Movers Real Estate Company'
   brokerage:
   address: '6905 NW 122nd St, </br> Oklahoma City, OK 73142'
   phone: 405-722-3232
