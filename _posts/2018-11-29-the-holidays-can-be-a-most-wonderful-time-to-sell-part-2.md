@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Holidays Can Be a Most Wonderful Time to Sell: Part 2'
-date:
+date: 2018-11-29 22:40:31
 tags:
   - Home Seller Tips
 excerpt: >-
