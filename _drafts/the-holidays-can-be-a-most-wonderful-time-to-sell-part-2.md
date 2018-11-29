@@ -3,9 +3,15 @@ layout: post
 title: 'The Holidays Can Be a Most Wonderful Time to Sell: Part 2'
 date:
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Home Seller Tips
+excerpt: >-
+  Think that the holidays aren’t a good time to sell? Think again. I have the
+  final six reasons why you should list now instead of waiting.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Rex+Jarnagin/Elite+Home+Team-+The+Holidays+Can+Be+a+Most+Wonderful+Time+to+Sell-+Part+2.mp4
+pullquote: >-
+  Don’t believe the myth that suggests spring and summer are the only viable
+  times to list.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
