@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Foreclosed Properties
-date:
+date: 2018-11-29 19:57:35
 tags:
   - Home Buyer Tips
 excerpt: >-
