@@ -28,7 +28,7 @@ youtube_code: a1ipvvKME_k
 
 With Thanksgiving, Christmas, and New Year’s on the horizon, wondering about the holiday market is a fairly common occurrence for homeowners. Here are the top three reasons why I would definitely recommend that curious sellers take advantage of the market right now:
 
-**1. There’s less competition**. The summer months are when 60% - 70% of most home sales occur. There aren’t as many homes on the market during the winter, so this means that your home would certainly stand out to buyers who are looking during this time.
+**1. There’s less competition**. The summer months are when 60% to 70% of most home sales occur. There aren’t as many homes on the market during the winter, so this means that your home would certainly stand out to buyers who are looking during this time.
 
 **2. Buyers are more serious**. Between holiday festivities, job transfers, schools getting out for break, buyers who happen to be in the market are very serious about purchasing a home. It’s a great time to hit the reset button and make a move so that you can be settled by the time that the holidays, school, or work rolls around after the new year.
 
