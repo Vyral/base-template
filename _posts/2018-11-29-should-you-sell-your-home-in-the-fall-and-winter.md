@@ -10,7 +10,7 @@ excerpt: >-
   such benefits today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Grant+Johnson/Twin+Cities+Real+Estate-+Should+You+Sell+Your+Home+in+the+Fall+and+Winter%253F.mp4
-pullquote: "If you list in the fall, you can have the benefit of standing out, as well as facing less competition than during the "hotter" seasons."
+pullquote: If you list in the fall, you can have the benefit of standing out, as well as facing less competition than during the 'hotter' seasons.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
