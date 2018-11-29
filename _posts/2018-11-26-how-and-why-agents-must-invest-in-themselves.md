@@ -30,11 +30,11 @@ These two things are absolute musts, but there are definitely other, equally imp
 
 Besides that, having a designation behind your name always looks good. And, unlike other designations, you don’t need to continue paying year after year to keep this distinction.&nbsp;
 
-Moving on, **I also recommend investing in RPAC**—the Real Estate Political Action Committee. Even starting off with a $25 annual investment, until you can afford something higher, will help to protect your and your fellow agents’ chosen field of work.&nbsp;
+Until you can afford something higher, starting off with even a $25 annual investment will help to protect both you and your fellow agents’ chosen field of work.
 
-As I touched on earlier, of course, there are a few investments you must make for your personal benefit that are more individual in nature. Investing in your appearance, for instance, is more important than you may assume. **Your hair, clothes, and hygiene must all reflect that you are a professional, put-together person.** You don’t need to go all out, but have at least three decent outfits.&nbsp;
+As I touched on earlier, there are a few investments you must make for your personal benefit that are more individual in nature. Investing in your appearance, for instance, is more important than you may assume. **Your hair, clothes, and hygiene must all reflect that you are a professional, put-together person.** You don’t need to go all out, but have at least three decent outfits.&nbsp;
 
-And don’t forget about your shoes. You can tell a lot about a person from their choice of footwear, and, more than that, we agents spend a lot of time on our feet. This doesn’t exactly keep our shoes in the best condition. So, as silly as it might sound, buy new shoes as often as you need to ensure that you never show up to meet a client wearing a pair that is scoffed up or full of holes.&nbsp;
+And don’t forget about your shoes. You can tell a lot about a person from their choice of footwear, and, more than that, we agents spend a lot of time on our feet. This doesn’t exactly keep our shoes in the best condition. So, as silly as it might sound, buy new shoes as often as you need to ensure that you never show up to meet a client wearing a pair that is scuffed up or full of holes.&nbsp;
 
 The bottom line is this: Being a successful real estate agent means you must invest in your own time, education, appearance, and resources.
 
