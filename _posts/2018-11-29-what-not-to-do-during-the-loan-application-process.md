@@ -22,7 +22,7 @@ youtube_code: FWnvYFIuy1U
 
 Once you’ve found the house of your dreams, you’ve made an offer, and you’ve been through the inspections, it’s time to go through the mortgage process. **However, you should keep these tips in mind in order to avoid derailing your transaction:**
 
-**1. Don’t apply for additional credit.** I know it’s tempting to buy appliances or furniture at this time, but don’t apply for credit until after your sale has closed. Lenders do not want you to be borrowing money at any time after your offer has been accepted. The lender may or may not pull your credit at any time during the process. If there’s a big purchase in there, it could cause your mortgage to be denied.
+**1. Don’t apply for additional credit.** I know it’s tempting to buy appliances or furniture at this time, but don’t apply for credit until after your sale has closed. Lenders do not want you to be borrowing money at any time after your offer has been accepted. The lender can pull your credit at any time during the process. If there’s a big purchase in there, it could cause your mortgage to be denied.
 
 {% include pullquote.html %}
 
