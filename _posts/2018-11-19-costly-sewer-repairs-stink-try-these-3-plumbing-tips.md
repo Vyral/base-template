@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Today we have a special guest with us to give you three tips that homeowners
-  should know about the plumbing in your house.
+  should know about about their plumbing.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Costly+Sewer+Repairs+Stink-+Try+These+3+Plumbing+Tips.mp4
 pullquote: >-
@@ -17,12 +17,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-nov-1-ss-no-play.jpg
-youtube_code: SvjlmPiz7Z0
+youtube_code: '-6zyTszQj-s'
 ---
 
 {% include youtube.html %}
 
-<center><em>Today we have a special guest with us&mdash;Jen from Bill&rsquo;s Plumbing and Drain Service&mdash;to help give you three tips that homeowners should know about the plumbing in your house.</em></center>
+<center><em>Today we have a special guest with us&mdash;Jen from Bill&rsquo;s Plumbing and Drain Service&mdash;to help give you three tips that homeowners should know about their plumbing.</em></center>
 
 &nbsp;
 
@@ -34,7 +34,7 @@ A better solution is actually just water, Jen says. You can fill a big pitcher w
 
 **2. Why is it important to have a sewer scope when you purchase a home?**
 
-Jen says its importance is for checking the integrity of the sewer line to make sure there aren’t any issues with it. Spending around $150 dollars for peace of mind is will worth it when the alternative is an $8,000 to $10,000 repair.
+Jen says its importance is for checking the integrity of the sewer line to make sure there aren’t any issues with it. Spending around $150 dollars for peace of mind is well worth it when the alternative is an $8,000 to $10,000 repair.
 
 **Is it necessary for newly constructed homes?**
 
