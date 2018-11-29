@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Escrow Accounts: What They Are and How they Work'
-date: 2018-07-11 15:23:33
+date: 2018-11-29 11:23:00
 tags:
   - Real Estate
 excerpt: >-
