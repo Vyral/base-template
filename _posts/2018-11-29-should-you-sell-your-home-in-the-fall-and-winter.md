@@ -24,17 +24,17 @@ youtube_code: zeal8xE9Llg
 
 Sometimes, it pays to go against the crowd. For example, the real estate market is definitely at a peak during the spring and the summer, but circumventing this trend and listing your home in the fall can have some very real benefits:
 
-1. Buyers are more serious. During the spring and summer, many buyers are more curious than committed. On the other hand, buyers in the fall tend to be more serious. That's because many have been searching throughout the summer and have not found their perfect home yet.
+**1. Buyers are more serious.** During the spring and summer, many buyers are more curious than committed. On the other hand, buyers in the fall tend to be more serious. That's because many have been searching throughout the summer and have not found their perfect home yet.
 
 Other fall buyers are simply forced to look for a new home because of a new job, a work relocation, or because they want to get the move complete ahead of the holidays. In other words, fall buyers make up in dedication what they might lack in numbers.
 
-2. There's less competition. It's no secret that most homes are listed in the spring and summer. However, those homes that are not sold by the end of the summer are often delisted. Otherwise, they start to draw less interest because of the time they've spent on the market.
+**2. There's less competition.** It's no secret that most homes are listed in the spring and summer. However, those homes that are not sold by the end of the summer are often delisted. Otherwise, they start to draw less interest because of the time they've spent on the market.
 
 That's why if you list in the fall, you can have the benefit of standing out, as well as facing less competition than during the "hotter" seasons.
 
 {% include pullquote.html %}
 
-3. It's easier to move up. If you're looking to buy a new home as well as sell your current home, then the fall offers perhaps the best opportunity. You will enter the market with confidence and without stress, while many sellers who have been unsuccessful in selling their home during the summer will be more eager to sell. This can make for very flexible negotiations that work in your favor.
+**3. It's easier to move up.** If you're looking to buy a new home as well as sell your current home, then the fall offers perhaps the best opportunity. You will enter the market with confidence and without stress, while many sellers who have been unsuccessful in selling their home during the summer will be more eager to sell. This can make for very flexible negotiations that work in your favor.
 
 But remember: If you are considering selling this fall, there are a few things you'll need to do differently in order to be successful.
 
