@@ -22,7 +22,7 @@ youtube_code: ldulQpPfAhA
 
 {% include youtube.html %}
 
-A lot goes in to selling a home, and today we’ll be highlighting five specific tasks that all sellers must tackle to find and secure the perfect buyer. Some of these tasks are common sense, but others may surprise you.
+A lot goes into selling a home, and today we’ll be highlighting five specific tasks that all sellers must tackle to find and secure the perfect buyer. Some of these tasks are common sense, but others may surprise you:
 
 **1. Reach all homebuyers.** One of the ways our team achieves this is by promoting our clients’ listings on social media, in addition to other traditional marketing platforms. And we don’t just stick to common sites like Zillow or Trulia—we maximize exposure by also posting on sites like Twitter, Instagram, and Facebook. In an increasingly web-based world, this step is essential.<br><br>Another way we help our clients’ listings appeal to a wide range of buyers is by encouraging sellers to invest in smart technology and energy-efficient appliances. Installing a programmable thermostat, adding attic insulation, or fixing air leaks around doors and windows can have a major impact on how buyers view your home. You don’t have to shell out tens of thousands of dollars to make your home eco-friendly. Swapping out your flooring or window screens for green alternatives is an easy way to show buyers that you are “environmentally woke.”
 
@@ -30,7 +30,7 @@ A lot goes in to selling a home, and today we’ll be highlighting five specific
 
 {% include pullquote.html %}
 
-**3. Order professional listing photos.** Listing photos are often a buyer’s first impression of your home, which is why our team has a professional photographer on staff ready to help make your property shines when the time comes for you to sell.
+**3. Order professional listing photos.** Listing photos are often a buyer’s first impression of your home, which is why our team has a professional photographer on staff ready to help make your property shine when the time comes for you to sell.
 
 **4. Prepare for open houses.** When the time comes to let buyers into your home, it should be neat, neutral, and welcoming. Our team would be happy to guide you on the specific steps you should take when preparing your home.
 
