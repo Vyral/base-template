@@ -20,7 +20,7 @@ video_file: /uploads/Oct_2.mp4
 
 {% include post-video.html %}
 
-There have always been challenges when managing a 401(k) or 403(b) plan for any company. The sheer amount of administrative tasks, employee notifications, benchmarking requirements, and just the overall time and resources can be overwhelming. There’s also significant personal and corporate liability that your company faces.
+<br>There have always been challenges when managing a 401(k) or 403(b) plan for any company. The sheer amount of administrative tasks, employee notifications, benchmarking requirements, and just the overall time and resources can be overwhelming. There’s also significant personal and corporate liability that your company faces.
 
 However, I’m happy to say that I have a solution to make offering a retirement plan so much easier.
 
