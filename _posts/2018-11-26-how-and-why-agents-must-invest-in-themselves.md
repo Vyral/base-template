@@ -30,7 +30,7 @@ These two things are absolute musts, but there are definitely other, equally imp
 
 Besides that, having a designation behind your name always looks good. And, unlike other designations, you don’t need to continue paying year after year to keep this distinction.&nbsp;
 
-Until you can afford something higher, starting off with even a $25 annual investment will help to protect both you and your fellow agents’ chosen field of work.
+Until you can afford something higher, starting off with even a $25 annual investment will help to protect you and your fellow agents’ chosen field of work.
 
 As I touched on earlier, there are a few investments you must make for your personal benefit that are more individual in nature. Investing in your appearance, for instance, is more important than you may assume. **Your hair, clothes, and hygiene must all reflect that you are a professional, put-together person.** You don’t need to go all out, but have at least three decent outfits.&nbsp;
 
