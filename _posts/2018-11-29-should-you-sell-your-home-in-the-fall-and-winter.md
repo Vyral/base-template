@@ -22,7 +22,7 @@ youtube_code: zeal8xE9Llg
 
 {% include youtube.html %}
 
-Sometimes, it pays to go against the crowd. For example, the real estate market is definitely at a peak during the spring and the summer, but circumventing this trend and listing your home in the fall can have some very real benefits:
+Sometimes, it pays to go against the crowd. For example, the real estate market is definitely at a peak during the spring and the summer, but circumventing this trend and listing your home in the fall can have some real benefits:
 
 **1. Buyers are more serious.** During the spring and summer, many buyers are more curious than committed. On the other hand, buyers in the fall tend to be more serious. That's because many have been searching throughout the summer and have not found their perfect home yet.
 
