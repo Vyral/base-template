@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/investing-in-real-estate-rec-youtube.jpg
 youtube_code: k1xtWgs3TuE
 ---
 
-{% include youtube.html %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Here is what you’ll need to do when you decide to invest in real estate.*
+{% include youtube.html %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Here is what you’ll need to do when you decide to invest in real estate.*
 {: .present-before-paste}
 
 Today we’ll be answering a question for real estate agents: What do you need to know or learn when it comes to real estate investing? Here’s what you’ll need to keep in mind as you move toward a career in property investment:
