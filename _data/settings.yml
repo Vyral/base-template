@@ -1,10 +1,14 @@
 audit_header: false
 title: Oklahoma City's Best Real Estate Training
-description: Becky Ivins, a top Real Estate Agent in Oklahoma City, shares her own internal real estate agent training for free. Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: >-
+  Becky Ivins, a top Real Estate Agent in Oklahoma City, shares her own internal
+  real estate agent training for free. Her Real Estate Training, Tips and Advice
+  will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Events
-    url: https://www.eventbrite.com/o/becky-ivins-coaching-and-consulting-17347387600
+    url: >-
+      https://www.eventbrite.com/o/becky-ivins-coaching-and-consulting-17347387600
   - title: Join Our Team
     url: /join-our-team
   - title: Free Strategy Call
@@ -13,18 +17,17 @@ custom_links:
     url: /subscribe/
 client:
   name: Becky Ivins
-  title:
+  title: 'OK Real Estate License #47388'
   license_number: 47388
   about_markdown: >-
     Becky began selling real estate in 1977 and in 1979 she started her own
-    brokerage, Movers Real Estate Company. Among her designations is SRES, Senior
-    Real Estate Specialists, and she delights in transitioning seniors from their
-    homes that have become too much to maintain into independent living or
-    assisted living. Her most recent designation is MRP, Military Relocation
-    Professional and with 2 of her 3 sons serving our country as US Army
-    officers, she has firsthand knowledge of how important real estate
+    brokerage, Movers Real Estate Company. Among her designations is SRES,
+    Senior Real Estate Specialists, and she delights in transitioning seniors
+    from their homes that have become too much to maintain into independent
+    living or assisted living. Her most recent designation is MRP, Military
+    Relocation Professional and with 2 of her 3 sons serving our country as US
+    Army officers, she has firsthand knowledge of how important real estate
     professionals are when military families buy or sell in our area.
-
 
 
     Becky has hosted her live radio talk show on KTOK since 2006 where she
@@ -32,14 +35,12 @@ client:
     KTOK.
 
 
-
     Becky Ivins enjoys the endorsements of Dave Ramsey, Glenn Beck, Barbara
     Corcoran and John Tesh.
 
 
-
-    Becky’s approaches a real estate transaction with a business attitude and the
-    heart of a social worker. She delights in providing a full service
+    Becky’s approaches a real estate transaction with a business attitude and
+    the heart of a social worker. She delights in providing a full service
     transaction backed by decades of experience and a wealth of knowledge.
   market: Oklahoma City
   brand: Movers Real Estate Company
@@ -50,28 +51,14 @@ client:
   phone2:
   phone2_type:
   email: becky@beckyivins.com
-  url: http://www.beckyivins.com
-
+  url: 'http://www.beckyivins.com'
 emma_form:
-
-# CTAs:
-#   first_CTA_text: Join Our Team
-#   first_CTA_URL: /join-our-team/
-  # second_CTA_text: Home Search
-  # second_CTA_URL: 'http://www.beckyivinsteam.com/search/criteria/gp_1/s_2'
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Looking to Build Your Real Estate Career?
     CTA_text: Let's talk about how we can take your business to new heights.
     CTA_link_text: Join Our Team
     CTA_url: /join-our-team/
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: Looking for a -- MARKET -- Home?
-#     CTA_text2: Search the entire MLS for your -- MARKET -- home.
-#     CTA_link_text2: Search the MLS
-#     CTA_url2: 'http://www.beckyivinsteam.com/search/criteria/gp_1/s_2'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -86,8 +73,8 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -100,25 +87,28 @@ socials:
   twitter_url: 'https://twitter.com/BeckyIvins'
   instagram_url:
   pinterest_url:
-  # zillow_url: 'https://www.zillow.com/profile/BECKY0/'
-  # trulia_url: 'https://www.trulia.com/profile/becky-ivins-agent-oklahoma-city-ok-zgvvht4f/overview'
-  # yelp_url: 'https://www.yelp.com/biz/becky-ivins-movers-real-estate-oklahoma-city'
-  podcast_url: 'https://itunes.apple.com/us/podcast/becky-ivins-movers-real-estate-podcast/id1248051725?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/becky-ivins-movers-real-estate-podcast/id1248051725?mt=2
 podcast:
   title: Becky Ivins Movers Real Estate Podcast
   categories:
     - Education
   image: /img/podcast.jpg
   subtitle: Boost your Career with Veteran Real Estate Agent -- CLIENT NAME --
-  description: A Podcast about -- MARKET -- Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!
-  keywords: -- MARKET -- Real Estate, Real Estate Careers, Real Estate Professionals, Realtors, Real estate industry, how much do realtors make
+  description: >-
+    A Podcast about -- MARKET -- Real Estate; It's industry, and the people
+    working in it. Whether you're just starting out, aspiring to begin, or been
+    working in the field for a few years, tune in to get updates, tips, tricks
+    and more!
+  keywords: >-
+    -- MARKET -- Real Estate, Real Estate Careers, Real Estate Professionals,
+    Realtors, Real estate industry, how much do realtors make
   author: Beck Ivins
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo2.png
   logo_width_number: 20
-  # hero_text: Becky Ivins Real Estate Training and Coaching
-  hero_background_hex: '#FFD53F'
+  hero_background_hex: '#ffd53f'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
