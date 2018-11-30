@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Shining the Spotlight on the Local Moving Company, M.K Movers'
-date:
+date: 2018-11-30 21:09:01
 tags:
   - Community
 excerpt: 'Mitch Katkus has much to share about his business, M.K Movers.'
