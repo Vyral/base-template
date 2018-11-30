@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Become More Productive
-date: 2018-11-27 16:41:24
+date: 2018-11-27 16:41:00
 tags:
   - Lead Generation
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-26---michael-kaim---yt.jpg
-youtube_code: 91-VFbdlT9I
+youtube_code: 2e0hwGoA0Qw
 ---
 
 {% include youtube.html %}
