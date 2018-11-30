@@ -19,7 +19,7 @@ youtube_code: 2e0hwGoA0Qw
 
 {% include youtube.html %}
 
-We recently hosted a seminar about productivity levels and how we can become more productive in our day-to-day lives. We discussed what we think makes someone a productive person, as well as what we can do to follow their example.
+We recently hosted a seminar with one of our top agents, Jacob Sudnick, about productivity levels and how we can become more productive in our day-to-day lives. We discussed what we think makes someone a productive person, as well as what we can do to follow their example.
 
 **For your convenience, we’ve included timestamps for each section in the video. Feel free to navigate to the topic(s) you’re most interested in viewing:**
 
