@@ -23,7 +23,7 @@ youtube_code: my5e2JERnGU
 
 If you haven’t been involved in the mortgage industry recently, be aware that a few things have changed from years prior. **With that in mind, let’s refresh ourselves on some steps to follow when building a portfolio:&nbsp;**
 
-**1. Find out how we can help.** We can find you look for promising opportunities, and we have firsthand experience with what you can and can not do in regard to investing in certain areas. For example, some municipalities will not allow you to rent out an entire property and require you to live in a home you’re renting out. If you’re looking to rent out a home, make sure you can. If not, you may be surprised by a cease and desist notice.
+**1. Find out how we can help.** We can help you look for promising opportunities, and we have firsthand experience with what you can and can not do in regard to investing in certain areas. For example, some municipalities will not allow you to rent out an entire property and require you to live in a home you’re renting out. If you’re looking to rent out a home, make sure you can. If not, you may be surprised by a cease and desist notice.
 
 {% include pullquote.html %}
 
