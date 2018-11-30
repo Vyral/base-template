@@ -26,8 +26,6 @@ Starry Starry Night at The Gateway<br>Lights on Temple Square at Temple Square<b
 
 The light show at Hogle Zoo is fantastic, and if you haven’t seen the lights at Temple Square, you’ve got to go there too. In the meantime, if there’s anything I can do for you, don’t hesitate to reach out. To see my full holiday message, watch this short video.
 
-If you're looking for some of the large-scale lighting displays at area venues, here's where you can see them:
-
 For a list of holiday events in Salt Lake City, [click here!](https://www.visitsaltlake.com/events/holiday-events/){: target="_blank"}
 
 For a list of all holiday events in South Jordan, [click here!](https://www.sjc.utah.gov/upcoming-events/)
