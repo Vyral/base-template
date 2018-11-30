@@ -25,11 +25,11 @@ There are six things that house burglars don’t want you to know:
 
 **1. Nighttime burglaries aren’t common.** Burglars prefer to do it during the day when they will usually find the home’s occupants out of the house. Many of these crimes take place between 12:30 p.m. and 2:30 p.m.
 
-**2. They know you’re not home.** When it comes to social media, don’t post where you’re at all times; a lot of burglars watch social media and track your movements so they can strike when they know you’re not home. Wait til you get home to update all of your friends and family about your vacations, trips, etc.
+**2. They know you’re not home.** When it comes to social media, don’t post where you are at all times; a lot of burglars watch social media and track your movements so they can strike when they know you’re not home. Wait until you get home to update all of your friends and family about your vacations, trips, etc.
 
 **3. They don’t like your security practices.** A home with an alarm or some type of dog is less likely to get burglarized than homes without. In fact, an alarm makes a burglary 300 times less likely; burglars want an easy target.
 
-**4. It’s not helpful to advertise that you have guns.** Besides the fact that the burglar will then know to expect such a thing, it might also further incentivizes them to rob your home, since guns sell well on the secondary market.
+**4. It’s not helpful to advertise that you have guns.** Besides the fact that the burglar will then know to expect such a thing, it might also further incentivize them to rob your home, since guns sell well on the secondary market.
 
 {% include pullquote.html %}
 
