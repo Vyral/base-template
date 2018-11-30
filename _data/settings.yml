@@ -16,35 +16,35 @@ client:
 
     As a successful business owner of 2 Percent Realty Solution, John is known for client service and availability, personal touches and skilled negotiation. He is hardworking and honest, and not afraid of telling his clients things that they may not necessarily want to hear, if it ultimately means that they will reap a greater reward. Communication is a cornerstone in your dealings with John.
   market: Surrey
-  brand: 2% Realty Solution
+  brand: 2% Realty West Coast
   brokerage:
   address: 404-1688 152nd St. Surrey, V3W 1A3
   phone: 604-340-1575
   phone_type:
   phone2:
   phone2_type:
-  email: john@2percentsolution.ca
-  url: http://www.2percentsolution.ca
+  email: info@2percentsolution.ca
+  url: http://www.2percentwestcoast.ca
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.2percentsolution.ca/free-home-evaluation.html
+  first_CTA_URL: http://www.2percentwestcoast.ca/free-home-evaluation.html
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.2percentsolution.ca/mlsreg-system-listings.html
+  second_CTA_URL: http://www.2percentwestcoast.ca/search-all-surrey-mlsreg-listings.html
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.2percentsolution.ca/free-home-evaluation.html
+    CTA_url: http://www.2percentwestcoast.ca/free-home-evaluation.html
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.2percentsolution.ca/mlsreg-system-listings.html
+    CTA_url2: http://www.2percentwestcoast.ca/search-all-surrey-mlsreg-listings.html
 
 lender:
   show_section: false
@@ -94,7 +94,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 25
-  hero_text: 2% realty solution -- MARKET -- Real Estate Video Blog
+  hero_text: 2% realty West Coast -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
