@@ -22,7 +22,7 @@ client:
   market: Orlando
   brand: The Dee Team
   brokerage: Preferred Real Estate Brokers
-  address: '11 S Bumby Ave Suite #200<br>Orlando, FL 32803'
+  address: '2121 S Hiawassee Rd #101-102<br>Orlando, FL 32835'
   phone: (321) 945-7351
   phone_type:
   phone2:
@@ -125,7 +125,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
