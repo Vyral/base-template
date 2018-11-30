@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ron-cedillo-dec-1-ss-no-play.jpg
-youtube_code: 0fjsjore800
+youtube_code: 8avtVMLQnfo
 ---
 
 {% include youtube.html %}
 
 <center><em>If you&rsquo;re a boomerang buyer, there are a couple key things you need to keep in mind when re-entering our market.</em></center>
 
-&nbsp;
+ 
 
 If you’re a boomerang buyer, what do you need to know about our market so that you can have a successful home purchase and become a homeowner again?
 
