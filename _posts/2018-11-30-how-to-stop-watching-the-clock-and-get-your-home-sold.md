@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How to Stop Watching the Clock and Get Your Home Sold
-date: 2018-11-30 16:56:15
+date: 2018-11-30 16:56:00
 tags:
+  - Real Estate
 excerpt: >-
   Selling your home can be difficult if you don’t follow a time-tested method.
   Here are a few tips that we recommend.
@@ -33,5 +34,3 @@ Today I have solutions to help you solve that clock watching and get your home s
 **2. Pricing is critical.** I know there are plenty of you out there who think you need to price high in order to leave some wiggle room to meet in the middle. However, pricing your home too high may result in a buyer never seeing it. I suggest having a professional real estate agent come out, show you what the comparable properties in the area have sold for, and price your home fairly. It will sell quicker and in an aggressive market like the one we're seeing now, you may even get multiple offers and offers above list price. That’s a much better solution than negotiating with a buyer who never comes.
 
 If you have any questions for me about what it takes to sell a home or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
-
-&nbsp;
