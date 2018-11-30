@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Type of Conversion Rate Can You Expect With Different Data?
-date:
+date: 2018-11-30 20:06:10
 tags:
   - Database
 excerpt: >-
