@@ -21,7 +21,7 @@ youtube_code: QGaVSB43yCQ
 
 {% include youtube.html %}
 
-Homes sales are expected to pick back up again in 2019, but the rate of appreciation is expected to slow down.
+<p style="text-align: center;"><em>Homes sales are expected to pick back up again in 2019, but the rate of appreciation is expected to slow down.</em></p>
 
 How is our housing market expected to perform in 2019? To answer that question, let’s first look at where homes sales are at right now.&nbsp;
 
