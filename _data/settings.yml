@@ -21,7 +21,7 @@ client:
     business with their friends and family. We are The Homebound Team.
   market: Colorado Springs Real Estate
   brand: The Homebound Team
-  brokerage: Keller Williams Premier Realty
+  brokerage: With Keller Williams Partners
   address: '1257 Lake Plaza Dr, ste 200 Colorado Springs, CO 80906'
   phone: (719) 999-5789
   phone_type: Direct
@@ -75,7 +75,7 @@ welcome_box:
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/buysprings/'
-  linkedin_url: 
+  linkedin_url:
   gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UCx7B2PvK5zpdA0FYkMGtRUg'
   twitter_url: 'https://twitter.com/YourHomeGirlTif'
