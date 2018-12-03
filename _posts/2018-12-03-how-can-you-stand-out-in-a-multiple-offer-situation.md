@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Stand Out in a Multiple-Offer Situation?
-date:
+date: 2018-12-03 16:47:11
 tags:
   - Home Buyer Tips
   - Real Estate
