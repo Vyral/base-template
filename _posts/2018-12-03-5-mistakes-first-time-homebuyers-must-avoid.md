@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Mistakes First-Time Homebuyers Must Avoid
-date:
+date: 2018-12-03 19:49:14
 tags:
   - Home Buyer Tips
 excerpt: >-
