@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This 5-Point Checklist Will Help Your Listing Sell in No Time
-date: 2018-11-27 20:33:30
+date: 2018-11-27 20:33:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ldulQpPfAhA
+youtube_code: ZiG4nmMBd6w
 ---
 
 {% include youtube.html %}
