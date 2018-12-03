@@ -19,7 +19,7 @@ youtube_code: oJcKTwyW9Z4
 
 {% include youtube.html %}
 
-When you’re faced with adversity, challenge yourself to leverage your hardships into strength.
+<p style="text-align: center;"><em>When you’re faced with adversity, challenge yourself to leverage your hardships into strength.</em></p>
 
 With the holidays approaching, our team has had a lot going on—and we aren’t slowing down any time soon.&nbsp;
 
