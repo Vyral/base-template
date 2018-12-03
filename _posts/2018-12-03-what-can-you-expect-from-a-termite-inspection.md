@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From a Termite Inspection?
-date:
+date: 2018-12-03 15:30:37
 tags:
 excerpt:
 enclosure: >-
