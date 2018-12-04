@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advice About How to Improve Your Negotiation Tactics
-date: 2018-11-21 22:19:37
+date: 2018-11-21 22:19:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-inspection-youtube.jpg
+youtube_alternate_image: /uploads/home-inspection-youtube-02.jpg
 youtube_code: 2RWQRZ7ClkM
 ---
 
