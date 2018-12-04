@@ -14,7 +14,7 @@ custom_links:
 client:
   name: Kevin Langan
   license_number:
-  about_markdown: >
+  about_markdown: >-
     We understand that buying or selling a home is more than just a transaction.
     It’s a life-changing experience. That’s why our team of highly-seasoned real
     estate professionals is dedicated to providing exceptional, personalized
@@ -31,7 +31,7 @@ client:
   brand: BTG Real Estate
   brokerage: Keller Williams East Valley
   address: '2077 E Warner Rd, Ste 110, Tempe, AZ 85284'
-  phone: 480-626-5034
+  phone: (480) 626-5034
   phone_type:
   phone2:
   phone2_type:
