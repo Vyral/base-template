@@ -19,7 +19,7 @@ youtube_code: 9FnsWt_wuqs
 
 {% include youtube.html %}
 
-I’ve heard your questions, and here are my answers.
+<p style="text-align: center;"><em>I’ve heard your questions, and here are my answers.</em></p>
 
 With some big announcements from the Fed about interest rate changes recently, many homeowners, buyers, and sellers have found themselves with a lot of questions about the future. In this Facebook Live question and answer session, I shed some light on what we’re seeing on the horizon.
 
