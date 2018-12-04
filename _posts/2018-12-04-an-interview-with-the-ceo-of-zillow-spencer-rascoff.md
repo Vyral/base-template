@@ -19,7 +19,7 @@ youtube_code: bl4Kjr-1-Dw
 
 {% include youtube.html %}
 
-<p style="text=align: center;"><em>Zillow’s CEO discussed the upcoming features we can look forward to as Premier Agents.</em></p>
+<p style="text-align: center;"><em>Zillow’s CEO discussed the upcoming features we can look forward to as Premier Agents.</em></p>
 
 I had the wonderful opportunity to interview **Zillow’s founder and CEO, Spencer Rascoff**, at this year’s Zillow Premier Agent Forum in Las Vegas. He shared with me the upcoming innovations we can all look forward to from his company.
 
