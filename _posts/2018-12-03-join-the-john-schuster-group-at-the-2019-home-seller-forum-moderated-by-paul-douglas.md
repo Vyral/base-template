@@ -1,8 +1,8 @@
 ---
 layout: post
 title: >-
-  Our Upcoming Event Will Help You See the Same Success as Today’s Special
-  Guests
+  Join The John Schuster Group at the 2019 Home Seller Forum moderated by Paul
+  Douglas
 date: 2018-12-03 21:02:00
 tags:
   - Home Seller Tips
