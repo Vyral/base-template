@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iDMEgmH7XNg
+youtube_code: w1hKtL9U4No
 ---
 
 {% include youtube.html %}
@@ -27,10 +27,10 @@ Tick-tock, tick-tock… Have you ever just sat and watched the clock wondering w
 
 {% include pullquote.html %}
 
-Today I have solutions to help you solve that clock watching and get your home sold **promptly. Here’s what you need to do:**
+Today I have 2 solutions to help you solve that clock watching and get your home sold promptly**. Here’s what you need to do:**
 
 **1. Prepare your house for the market.** It needs to win the beauty pageant. The home should be light, bright, and airy. It should also be staged. Buyers need to be able to walk into your house and feel like they’re in a showroom or a model home.
 
-**2. Pricing is critical.** I know there are plenty of you out there who think you need to price high in order to leave some wiggle room to meet in the middle. However, pricing your home too high may result in a buyer never seeing it. I suggest having a professional real estate agent come out, show you what the comparable properties in the area have sold for, and price your home fairly. It will sell quicker and in an aggressive market like the one we're seeing now, you may even get multiple offers and offers above list price. That’s a much better solution than negotiating with a buyer who never comes.
+**2. Pricing is critical.** I know there are plenty of you out there who think you need to price high in order to leave some wiggle room to meet in the middle. However, pricing your home too high may result in a buyer never seeing it. I suggest having a professional real estate agent come out, show you what the comparable properties in the area have sold for, and price your home fairly. It will sell quicker, and in an aggressive market like the one we're seeing now, you may even get multiple offers above list price. That’s a much better solution than negotiating with a buyer who never comes.
 
 If you have any questions for me about what it takes to sell a home or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
