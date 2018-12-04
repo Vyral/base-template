@@ -19,11 +19,11 @@ youtube_code: SCqwWNVe5QA
 
 {% include youtube.html %}
 
-When purchasing a home, there are important things that every buyer should do. After seeing your lender, though, there are some big mistakes that need to be avoided. In the final part of our series, we’ll discuss a very important thing you should definitely remember.
+When purchasing a home, there are important things that every buyer should do. In the final part of our series, we’ll discuss a very important thing you should definitely remember.
 
 **Don’t make big purchases after signing.**
 
-After speaking with a lender, so many people want to go look at furniture, new appliances, or other big-ticket items. And at these stores are salespeople—salespeople who only care about selling you their product, not about making sure whether you get your house or not.
+After speaking with a lender, so many people want to go out and buy new furniture, new appliances, or other big-ticket items. And at these stores are salespeople—salespeople who only care about selling you their product, not about making sure whether you get your house or not.
 
 {% include pullquote.html %}
 
