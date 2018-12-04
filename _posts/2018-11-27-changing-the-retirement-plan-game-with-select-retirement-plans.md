@@ -14,7 +14,7 @@ pullquote: >-
   tasks and fiduciary liability.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01-01.jpg
+screenshot: /uploads/Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01-01-01.jpg
 video_file: /uploads/Oct_2.mp4
 ---
 
@@ -43,5 +43,3 @@ It has many benefits, but employers are most thrilled with being able to outsour
 Our experienced team is ready to help possibly enhance your retirement plan today. The time is now; **check out the rest of [our website](http://www.selectretirementplans.com/){: target="_blank"}** and I think you’ll agree that this could be a game-changer for your organization. Click the “Request Plan Proposal” box, and you’ll be able to provide us with some basic plan information so we can create your customized plan proposal.
 
 If you have any questions or concerns, you are always encouraged to reach out to us. We really hope to have the opportunity to help you.
-
-&nbsp;
