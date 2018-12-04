@@ -23,11 +23,11 @@ youtube_code: ySVajI8CUEU
 
 There are new and not very well known opportunities in the market called Opportunity Zones.
 
-They were created by Congress last year and put into place beginning this year. There are certain census tracts in every state in the U.S.—46 in Utah, in fact—that are lower income areas in need of redevelopment. **Opportunity Zones allows for states to nominate the areas as they would like to see increased investing in real estate.**
+They were created by Congress last year and put into place beginning this year. There are certain census tracts in every state in the U.S.—46 in Utah, in fact—that are lower income areas in need of redevelopment. **Opportunity Zones allow for states to nominate the areas as they would like to see increased investing in real estate.**
 
 When you invest in these Opportunity Zones, you are allowed to defer, reduce, or eliminate your capital gains entirely. This includes single-family homes and commercial real estate. **If you hold the property for five to seven years, you’ll get a 10% reduction on your federal capital gains; for seven to 10 years, you’ll get a 15% reduction; and if you hold it longer than 10 years, you’ll pay no capital gains tax on the gains of this property.**
 
-As I mentioned, there are 46 Opportunity Zones here in Utah right now including 15 in Salt Lake County, 3 in Davis County, and 5 in Weber County.
+As I mentioned, there are 46 Opportunity Zones here in Utah right now, including 15 in Salt Lake County, three in Davis County, and five in Weber County.
 
 {% include pullquote.html %}
 
