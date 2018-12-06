@@ -25,7 +25,7 @@ As you know, my husband and I created Drmoves.com not just to help families with
 
 How? On the site, there’s an “Earn Extra Income” tab that leads you to a page that lists several programs and initiatives from many different companies that you can get paid to participate in. Here’s an example of some of the different categories you can click on:
 
-<ul><li><strong>Medical Surveys.<strong> Pharmaceutical companies have a great need for information about new drugs entering the market, so they send out surveys to medical professionals to get that information. They usually only take 10 minutes to an hour to complete.</li>
+<ul><li><strong>Medical Surveys.</strong> Pharmaceutical companies have a great need for information about new drugs entering the market, so they send out surveys to medical professionals to get that information. They usually only take 10 minutes to an hour to complete.</li>
 
 {% include pullquote.html %}
 
