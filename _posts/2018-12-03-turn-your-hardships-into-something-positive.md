@@ -33,7 +33,7 @@ The young woman who reached out to me had more on her plate than I could imagine
 
 {% include pullquote.html %}
 
-This story absolutely blew me away when I heard it. **It amazed me to hear that even during such a difficult time, this woman was able to leverage adversity into strength**—and that the message I’d like for you to take away from this.&nbsp;
+This story absolutely blew me away when I heard it. **It amazed me to hear that even during such a difficult time, this woman was able to leverage adversity into strength**—and that's the message I’d like for you to take away from this.&nbsp;
 
 The next time you’re faced with an obstacle, try to shift your perspective toward the things that really matter in life. Of course, you don’t have to wait for hardship to strike to start making a difference. There’s never a bad time to start giving back.&nbsp;
 
