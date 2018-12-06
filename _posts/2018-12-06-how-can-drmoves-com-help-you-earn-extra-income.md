@@ -25,14 +25,14 @@ As you know, my husband and I created Drmoves.com not just to help families with
 
 How? On the site, there’s an “Earn Extra Income” tab that leads you to a page that lists several programs and initiatives from many different companies that you can get paid to participate in. Here’s an example of some of the different categories you can click on:
 
-<ul><li>**Medical Surveys.** Pharmaceutical companies have a great need for information about new drugs entering the market, so they send out surveys to medical professionals to get that information. They usually only take 10 minutes to an hour to complete.</li>
+<ul><li><strong>Medical Surveys.<strong> Pharmaceutical companies have a great need for information about new drugs entering the market, so they send out surveys to medical professionals to get that information. They usually only take 10 minutes to an hour to complete.</li>
 
 {% include pullquote.html %}
 
-<li>**Medical Reviewers.** This category involves companies that need opinions from doctors about certain aspects of individual cases (length of hospital stay, whether a drug should be approved through an insurance policy, etc.). They’ll send you the literature of a given case to review.</li>
+<li><strong>Medical Reviewers.</strong> This category involves companies that need opinions from doctors about certain aspects of individual cases (length of hospital stay, whether a drug should be approved through an insurance policy, etc.). They’ll send you the literature of a given case to review.</li>
 
-<li>**Expert Witness.** This category gives you the opportunity to represent companies as a medical expert for things like malpractice suits or depositions.</li>
+<li><strong>Expert Witness.</strong> This category gives you the opportunity to represent companies as a medical expert for things like malpractice suits or depositions.</li>
 
-<li>**Telemedicine.** Telemedicine is becoming more and more prominent, and we list more than a dozen companies in need of telemedicine services.</li></ul>
+<li><strong>Telemedicine.</strong> Telemedicine is becoming more and more prominent, and we list more than a dozen companies in need of telemedicine services.</li></ul>
 
 We love being a resource for medical families, so if you have any more questions about this website you want to talk about your own experience as a medical family, don’t hesitate to reach out to us. We’d love to help you.
