@@ -29,8 +29,6 @@ Last time, we discussed six reasons why selling now makes more sense than waitin
 
 2. New job transfers often begin in January, meaning that employees moving for work will need to buy a home in the area.
 
-{% include pullquote.html %}
-
 3. You have the option to restrict showings during the holidays. Buyers seem to be more understanding during this time of year.
 
 4. You can sell now for more money, and we can provide for a delayed closing, or extended occupancy, until early next year.
@@ -38,6 +36,8 @@ Last time, we discussed six reasons why selling now makes more sense than waitin
 5. By selling now, you may have the opportunity to be a non-contingent buyerduring the spring, when many more houses are hitting the market at lower prices.
 
 6. 28.4% more homes close in December than they do in January.
+
+{% include pullquote.html %}
 
 There you have it—collectively, all 12 of these reasons ought to give you plenty of confidence that the holidays can be a successful time to sell your home. Don’t believe the myth that suggests spring and summer are the only viable times to list. If you take advantage of the factors I’ve mentioned, there’s nothing stopping you from having a truly happy holiday for more reasons than just the spirit of the season.
 
