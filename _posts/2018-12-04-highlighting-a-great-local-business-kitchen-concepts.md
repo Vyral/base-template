@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-kitchen-concepts-youtube.jpg
-youtube_code: 'https://youtu.be/RkNzixfz97o'
+youtube_code: 'https://youtu.be/ywEcBjuBcSI'
 ---
 
 {% include youtube.html %}
