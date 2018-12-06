@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Be Better DSM: Lead Conversion Webinar'
-date: 2018-11-20 21:25:23
+date: 2018-11-20 21:25:00
 tags:
   - Real Estate
 excerpt: >-
   In this webinar, we speak about lead conversion techniques, act out common
   scenarios, and pinpoint the most effective ways to turn a call into a client.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate-+Facebook+Interview+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,9 +21,9 @@ youtube_code: RDHtfbnnqrk
 
 In my latest Be Better DSM live webinar on lead conversion, I spoke to a few special guests from Better Homes and Gardens Real Estate Innovations.
 
-**Aaron Moulton**&nbsp;is the Director of Business Development For Better Homes and Gardens Real Estate Innovations. He comes from a family of agents and has worked in real estate for 10 years. He started off in the mortgage industry, working there for eight years before moving to real estate. He focuses on training agents who are new to the business.
+**Aaron Moulton** is the Director of Business Development For Better Homes and Gardens Real Estate Innovations. He comes from a family of agents and has worked in real estate for 10 years. He started off in the mortgage industry, working there for eight years before moving to real estate. He focuses on training agents who are new to the business.
 
-**Allison Langreck**&nbsp;is an Inside Sales Agent in the client services department for the Misty SOLDwisch Home Selling Team at Better Homes and Gardens Real Estate Innovations. She has been in real estate for just over a year and has always wanted to make a career out of helping people. Helping people find homes definitely checks that box. She enjoys the challenges of the job and likes putting skills she has previously developed to the test.
+**Allison Langreck** is an Inside Sales Agent in the client services department for the Misty SOLDwisch Home Selling Team at Better Homes and Gardens Real Estate Innovations. She has been in real estate for just over a year and has always wanted to make a career out of helping people. Helping people find homes definitely checks that box. She enjoys the challenges of the job and likes putting skills she has previously developed to the test.
 
 **For your convenience, I’ve included timestamps of each webinar topic we discuss. Feel free to navigate to the topic(s) you are most interested in viewing.**
 
