@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Opportunity Zones for Real Estate Investors
-date: 2018-12-03 22:08:49
+date: 2018-12-03 22:08:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/zero-capital-gains-youtube.jpg
-youtube_code: ySVajI8CUEU
+youtube_code: jWZTQLnEX-A
 ---
 
 {% include youtube.html %}
