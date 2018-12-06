@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Drove my Decision to Join eXp?
-date: 2018-12-06 17:48:27
+date: 2018-12-06 17:48:00
 tags:
 excerpt: 'Many people wonder why I joined eXp, so today I’d like to share my reasons.'
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-joined-exp-youtube.jpg
-youtube_code: 'https://youtu.be/nhMiks5V-T4'
+youtube_code: 'https://youtu.be/H8tec815ANQ'
 ---
 
 {% include youtube.html %}
