@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Myths That Are Holding Back Homebuyers
-date:
+date: 2018-12-06 19:44:26
 tags:
   - Home Buyer Tips
 excerpt: 'These myths may have been stopping you from a home purchase, but no more!'
