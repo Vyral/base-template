@@ -37,9 +37,3 @@ Last time, we discussed six reasons why selling now makes more sense than waitin
 There you have it—collectively, all 12 of these reasons ought to give you plenty of confidence that the holidays can be a successful time to sell your home. Don’t believe the myth that suggests spring and summer are the only viable times to list. If you take advantage of the factors I’ve mentioned, there’s nothing stopping you from having a truly happy holiday for more reasons than just the spirit of the season.
 
 If you have any questions or need anything, give me a call or send an email. I’d be glad to help you out in any way that I can.
-
-{% include pullquote.html %}
-
-There you have it—collectively, all 12 of these reasons ought to give you plenty of confidence that the holidays can be a successful time to sell your home. Don’t believe the myth that suggests spring and summer are the only viable times to list. If you take advantage of the factors I’ve mentioned, there’s nothing stopping you from having a truly happy holiday for more reasons than just the spirit of the season.
-
-If you have any questions or need anything, give me a call or send an email. I’d be glad to help you out in any way that I can.
