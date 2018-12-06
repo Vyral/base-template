@@ -20,7 +20,9 @@ youtube_code: 7EtfP5z8MWM
 
 {% include youtube.html %}
 
-<center>Our market is normalizing, which means some interest rate increases are on the horizon.</center>
+<center><em>Our market is normalizing, which means some interest rate increases are on the horizon.</em></center>
+
+&nbsp;
 
 I’m joined today by Amber Kovarik with Guild Mortgage, who will be helping to share our predictions for the 2019 real estate and mortgage markets.
 
