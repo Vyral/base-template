@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-30-deals-fall-apart-np.jpg
-youtube_code: 1o2ci3Kz9Dw
+youtube_code: dv1LfZl-AkU
 ---
 
 {% include youtube.html %}
@@ -37,6 +37,6 @@ Unfortunately, real estate deals don’t always make it all the way through clos
 
 {% include pullquote.html %}
 
-Whether for one of these reasons or as a result of something else, about one in four real estate contracts will fail. And this is exactly why it’s so crucial to work with a highly experienced agent who can help you navigate the buying or selling process and avoid these common pitfalls.&nbsp;
+Whether for one of these reasons or as a result of something else, about one in four real estate contracts will fail. And this is exactly why it’s so crucial to work with a highly experienced agent who can help you navigate the buying or selling process and avoid these common pitfalls. 
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>
