@@ -1,15 +1,13 @@
 ---
 layout: post
 title: 2 Myths That Are Holding Back Homebuyers
-date: 2018-12-06 19:44:26
+date: 2018-12-06 19:44:00
 tags:
   - Home Buyer Tips
 excerpt: 'These myths may have been stopping you from a home purchase, but no more!'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ulises+Vera/San+Diego+Real+Estate-+2+Myths+That+Are+Holding+Back+Homebuyers.mp4
-pullquote: >-
-  Best Sentence Being aware of your mortgage options helps make the process much
-  easier.
+pullquote: Being aware of your mortgage options helps make the process much easier.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
