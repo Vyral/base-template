@@ -41,6 +41,6 @@ With all of that said, we’ve got some great news: We’re hiring. If you’re 
 
 After all, in Brad’s words, “Joining Jeff Cook Real Estate has opened a lot of doors for me, and it can for you too.”
 
-**You can learn more about our team and the opportunity to join us by visiting** **[www.joinjcre.com](www.joinjcre.com){: target="_blank"}**.
+**You can learn more about our team and the opportunity to join us by visiting** **[www.joinjcre.com](http://www.joinjcre.com){: target="_blank"}**.
 
 If you have any other questions or would like more information, please give us a call or send us an email. We look forward to hearing from you soon.
