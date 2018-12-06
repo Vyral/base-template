@@ -23,7 +23,7 @@ youtube_code: 9FnsWt_wuqs
 
 With some big announcements from the Fed about interest rate changes recently, many homeowners, buyers, and sellers have found themselves with a lot of questions about the future. In this Facebook Live question and answer session, I shed some light on what we’re seeing on the horizon.
 
-**For your convenience, I’ve placed timestamps for each relevant topic of discussion. Feel free to navigate to the section(s) you are most interested in.**
+**For your convenience, I’ve placed timestamps for each relevant topic of discussion. Feel free to navigate to the section(s) you are most interested in:**
 
 00:33 — Discussing what recent announcements from the Fed mean for the real estate market.<br>02:49 — Using a graph to show how changes will affect the housing market.<br>06:32 — Analyzing the relationship between the economy and the housing market.<br>09:32 — Looking at the best plan of action for buyers and sellers currently.
 
