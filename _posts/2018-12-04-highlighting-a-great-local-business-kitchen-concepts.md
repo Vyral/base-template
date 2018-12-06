@@ -24,7 +24,7 @@ Jim has been in working in design since 1994, but it wasn’t until eight years 
 
 According to Jim, **Kitchen Concepts is “all about you.”&nbsp;**
 
-And as far as price goes, Jim and his team prefer to work within their clients budget. From super high-end products to more modest options, there’s something for every price range.
+And as far as price goes, Jim and his team prefer to work within their clients' budgets. From super high-end products to more modest options, there’s something for every price range.
 
 {% include pullquote.html %}
 
