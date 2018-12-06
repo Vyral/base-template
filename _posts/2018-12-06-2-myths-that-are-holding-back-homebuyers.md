@@ -17,7 +17,7 @@ youtube_code: DUMSQcocMTg
 
 {% include youtube.html %}
 
-Not all myths are true, and if you’ve been holding back from buying a home because of one, your fears may have been misplaced. **Here are two myths that are absolutely false when it comes to home buying:**
+Today I'm going to debunk a few real estate myths that may have been holding you back from buying a home. **Here are two myths that are absolutely false when it comes to home buying:**
 
 1. **Buyers need a 20% down payment.** Studies show that 30% of homeowners and 39% of renters believe this is true. However, buyers often overestimate the funds needed in order to qualify for a home loan. In fact, there are many options that include little to no down payment; assistance programs at local, state, and federal levels can help eligible buyers secure an affordable down payment.
 2. **Buyers need a 780 FICO score to qualify for a loan.** Similarly to down payment beliefs, many buyers think they can’t purchase a home without a high FICO score. The graph at **1:27 in the video** shows this isn’t true—51.7% of approved loans come from applicants with scores between 600 and 749.
