@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kevin-langan-nov-2-no-play.jpg
-youtube_code: 7EtfP5z8MWM
+youtube_code: mzw9C5Y1-ks
 ---
 
 {% include youtube.html %}
 
 <center><em>Our market is normalizing, which means some interest rate increases are on the horizon.</em></center>
 
-&nbsp;
+ 
 
 I’m joined today by Amber Kovarik with Guild Mortgage, who will be helping to share our predictions for the 2019 real estate and mortgage markets.
 
