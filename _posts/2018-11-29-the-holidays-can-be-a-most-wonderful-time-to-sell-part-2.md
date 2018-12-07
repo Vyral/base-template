@@ -35,7 +35,7 @@ Every year around this time, I’m asked the same questions about listing during
 
 11. By selling now, you may have the opportunity to be a non-contingent buyer during the spring, when many more houses are hitting the market at lower prices.
 
-12. 28.4% more homes close in December than they do in January.
+1. 12. 28.4% more homes close in December than they do in January.
 
 {% include pullquote.html %}
 
