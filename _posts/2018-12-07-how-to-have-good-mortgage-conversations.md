@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/12-7-mortgage-questions-yt.jpg
 youtube_code: Xpad6_QI6h8
 ---
 
-{{ include youtube.html }}
+{% include youtube.html %}
 
 Conversations around mortgages are some of the most uncomfortable conversations during the home buying process. **However, it’s essential to talk to a lender prior to starting the process so that you make sure you’re prepared to write an offer when the time comes.** The only question people ever seem to ask is, “What is my interest rate going to be?”, but you need to ask a few more questions to get a better picture.
 
