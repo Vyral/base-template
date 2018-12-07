@@ -41,6 +41,6 @@ Buyers will likely see an upsurge in the chances that they’ll get that home th
 
 Less competition and stable inventory are highly attractive to buyers. This is mutually beneficial to both buyers and sellers because it means that a seller’s agent won’t have to wade through non-serious offer after non-serious offer.&nbsp;
 
-Lastly, if you need to make some last-minute home improvements before it’s time to sell, contractors and subcontractors tend to be more available and at lower cost with the slowing down of business that the winter brings.&nbsp;
+Lastly, if you need to make some last-minute home improvements before it’s time to sell, contractors and subcontractors tend to be more available and more affordable with the slowing down of business that the winter brings.&nbsp;
 
 As always, please give us a call or email us with any other real estate-related needs or questions. We’d be happy to assist you however we can.&nbsp;
