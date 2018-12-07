@@ -23,13 +23,13 @@ youtube_code: BusqP7Xy40E
 
 Every year around this time, I’m asked the same questions about listing during the holidays: Is now a good time list, or would it be better to wait until January? Should I pull my house off the market during the holidays?
 
-Last time, we discussed six reasons why selling now makes more sense than waiting til spring to list. Today, we return to this question with six additional reasons why you should get a move on and sell during the holidays, just in case the first six didn’t quite sell you on it.
+Last time, we discussed six reasons why selling now makes more sense than waiting until spring to list. Today, we return to this question with six additional reasons why you should get a move on and sell during the holidays, just in case the first six didn’t quite sell you on it.
 
 1. &nbsp;Some people have to buy before the end of the year to enjoy the tax benefits associated with purchasing a home.
 2. &nbsp;New job transfers often begin in January, meaning that employees moving for work will need to buy a home in the area.
 3. You have the option to restrict showings during the holidays. Buyers seem to be more understanding during this time of year.
 4. You can sell now for more money, and we can provide for a delayed closing, or extended occupancy, until early next year.
-5. By selling now, you may have the opportunity to be a non-contingent buyerduring the spring, when many more houses are hitting the market at lower prices.
+5. By selling now, you may have the opportunity to be a non-contingent buyer during the spring, when many more houses are hitting the market at lower prices.
 6. 28.4% more homes close in December than they do in January.
 
 {% include pullquote.html %}
