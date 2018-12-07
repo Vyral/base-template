@@ -23,4 +23,4 @@ Conversations around mortgages are some of the most uncomfortable conversations 
 
 The APR is the total cost of your loan, but the one with the lowest interest rate may not have the lowest APR. If you have a score of 740 or above, you’re going to get the best rate possible. However, you can get a loan with pretty much any score.
 
-<br>**I urge you to talk to your mortgage professional and real estate professional for further guidance.** If you have any questions or need my help in any way, don't hesitate to reach out and give me a call or send me an email. I would love to hear from you.
+**I urge you to talk to your mortgage professional and real estate professional for further guidance.** If you have any questions or need my help in any way, don't hesitate to reach out and give me a call or send me an email. I would love to hear from you.
