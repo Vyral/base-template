@@ -19,7 +19,7 @@ youtube_code: lkAas9D_7jE
 
 {% include youtube.html %}
 
-Price reductions are more common than you think. Here are a few different strategies for using them.
+<p style="text-align: center;"><em>Price reductions are more common than you think. Here are a few different strategies for using them.</em></p>
 
 We’re back again to discuss another great real estate topic: price reductions and how they can fit into the process of a home sale.
 
