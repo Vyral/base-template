@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Reduce Holiday Stress
-date:
+date: 2018-12-07 19:04:22
 tags:
   - Real Estate
 excerpt: Enjoy a stress-free holiday season by taking advantage of these tips.
