@@ -23,7 +23,9 @@ youtube_code: Z-h0-XWcu9Q
 
 {% include youtube.html %}
 
-<center>There is a lot of misinformation out there regarding how sellers should handle the listing process, so today we’re going to highlight six of the most common selling misconceptions.</center>
+<center><em>There is a lot of misinformation out there regarding how sellers should handle the listing process, so today we&rsquo;re going to highlight six of the most common selling misconceptions.</em></center>
+
+&nbsp;
 
 If you plan to list your home, or are already in the process of doing so, there are six home selling misconceptions you should know about.
 
