@@ -31,12 +31,12 @@ Unfortunately, real estate deals don’t always make it all the way through clos
 
 **3. A contingent buyer failed to sell their current home.** One of the most common reasons a real estate deal falls through is that buyers who need to sell their current property before buying their next may be unable to do so.
 
+{% include pullquote.html %}
+
 **4. The buyer was denied financing.** In a perfect world, every buyer out there would be going about their search with a pre-approval letter in hand, but this isn’t always the case. Financial issues on the part of the buyer are a major reason deals can fall apart.
 
 **5. There were issues with the pre-settlement walkthrough.** Even once the closing table is in sight, last-minute problems can pop up and sink an entire deal. Liens, a previously unnoticed safety issue like mold, or an unforeseen financial hardship could all pose a threat.
 
-{% include pullquote.html %}
+Whether for one of these reasons or as a result of something else, about one in four real estate contracts will fail. And this is exactly why it’s so crucial to work with a highly experienced agent who can help you navigate the buying or selling process and avoid these common pitfalls.&nbsp;
 
-Whether for one of these reasons or as a result of something else, about one in four real estate contracts will fail. And this is exactly why it’s so crucial to work with a highly experienced agent who can help you navigate the buying or selling process and avoid these common pitfalls. 
-
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
