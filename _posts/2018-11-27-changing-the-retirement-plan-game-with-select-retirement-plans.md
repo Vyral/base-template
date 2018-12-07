@@ -14,7 +14,7 @@ pullquote: >-
   tasks and fiduciary liability.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01-01-01.jpg
+screenshot: /uploads/12.7.18YT.jpg
 video_file: /uploads/Oct_2.mp4
 ---
 
