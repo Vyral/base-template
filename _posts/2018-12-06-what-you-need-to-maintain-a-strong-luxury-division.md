@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Maintain a Strong Luxury Division
-date: 2018-12-06 21:25:09
+date: 2018-12-06 21:25:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: tLmvI9-m4n0
+youtube_code: jVCCBwyVKDU
 ---
 
 {% include youtube.html %}
 
-f you’re looking to increase your average sale price and sell more high-end luxury homes in your market, **it’s very important that you have a strong, dedicated luxury division.** What does a strong, dedicated luxury division look like, though?
+If you’re looking to increase your average sale price and sell more high-end luxury homes in your market, **it’s very important that you have a strong, dedicated luxury division.** What does a strong, dedicated luxury division look like, though?
 
 The old way of maintaining a luxury division (which many franchises still ascribe to) is to just have a different logo or sign for your luxury homes or your luxury division’s office. That’s not a luxury division.
 
