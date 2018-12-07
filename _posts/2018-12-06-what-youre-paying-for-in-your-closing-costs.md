@@ -20,7 +20,7 @@ youtube_code: bvnV3KUHRGI
 
 {% include youtube.html %}
 
-Closing costs seem to be somewhat of a mystery to many. These are essentially additional fees (outside of the down payment) that are associated with the purchase of a home. Today we’ll be using a program to calculate example payments you’ll find in your closing costs.
+Closing costs seem to be somewhat of a mystery to many. They're are essentially additional fees (outside of the down payment) that are associated with the purchase of a home. Today we’ll be using a program to calculate example payments you’ll find in your closing costs.
 
 **You can follow along with the video example starting at 00:35.**
 
