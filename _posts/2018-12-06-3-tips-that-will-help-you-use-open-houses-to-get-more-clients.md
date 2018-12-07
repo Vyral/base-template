@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips That Will Help You Use Open Houses to Get More Clients
-date: 2018-12-06 17:41:37
+date: 2018-12-06 17:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/frank-gray-ss-dec-2-no-play.jpg
-youtube_code: acIyvkMiEh4
+youtube_code: nMripHy-4JU
 ---
 
 {% include youtube.html %}
@@ -31,6 +31,6 @@ Second, **choose a home that’s visible**. If you can get a home on a corner or
 
 Lastly, and most importantly, **try to choose a home that’s in your geofarm**. If there’s a neighborhood you’re actively marketing to become the agent of choice in, try the best you can to host all of your open houses in that neighborhood. For each open house, put out at least a dozen brand-directional signs.
 
-If you do that, it won’t matter whether you sell that house or not. The real value comes from reinforcing the message to all the homeowners in that neighborhood that you’re the agent of choice—the neighborhood specialist. Over time, you may not sell that open house, but I guarantee that you’ll be taking on a lot more listings and selling a lot more homes in that neighborhood.
+If you do that, it won’t matter whether you sell that house or not. The real value comes from reinforcing the message to all the homeowners in that neighborhood that you’re the agent of choice—the neighborhood specialist. You may not sell that open house, but over time, I guarantee that you’ll be taking on a lot more listings and selling a lot more homes in that neighborhood.
 
 If you’d like to talk more about how to use open houses to your advantage or you’d like to sit down for a free, no-obligation consultation about how you can take your business to the next level, don’t hesitate to reach out to me. I’d be happy to help you.
