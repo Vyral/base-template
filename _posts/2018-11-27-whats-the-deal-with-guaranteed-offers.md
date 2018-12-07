@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/justin-woodall-guaranteed-offer-youtube.jpg
+youtube_alternate_image: /uploads/justin-woodall-guaranteed-offer-youtube-1.jpg
 youtube_code: 'https://youtu.be/NHn-FfmggiE'
 ---
 
