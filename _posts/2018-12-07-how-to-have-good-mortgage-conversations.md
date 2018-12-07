@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Have Good Mortgage Conversations
-date:
+date: 2018-12-07 18:35:47
 tags:
   - Home Buyer Tips
 excerpt: >-
