@@ -31,4 +31,6 @@ He recommends you always get an estimate before hiring movers; though doing it o
 
 M.K Movers are located in St. Charles but are willing to travel anywhere in the state of Illinois. If you’d like to contact M.K Movers or learn more, visit them at **[https://www.mkmover.com/](https://www.mkmover.com/)**.
 
+And, as always, if you have any questions about real estate or would like to discuss your buying or selling goals, feel free to give us a call or send us an email.
+
 &nbsp;
