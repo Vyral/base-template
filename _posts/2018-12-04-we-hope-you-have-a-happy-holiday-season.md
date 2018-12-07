@@ -25,13 +25,7 @@ youtube_code: Iqr8g6fvC_8
 
 It’s hard to believe that 2018 is almost over. As the holidays are fast approaching, we want to take a moment to wish you and your family a warm and safe holiday season. It’s the season of giving, and we’d like to give you some insight into fun events going on in the area. Check out the list below to see our recommendations for ways to spend the season:
 
-[A Christmas Carol - A Noise Within - Saturday, December 1st - 28th](https://southpasadenan.com/a-christmas-carol-at-a-noise-within-a-pasadena-tradition/)
-
-[Holiday Tour of the Castle Green - Sunday, December 2nd](http://castlegreen.com/tour/)
-
 [Enchanted: Forest of Light at Descanso Gardens - Now-January 6, 2019, 5:30 to 10:00 pm](https://www.descansogardens.org/)
-
-[Hanukkah Festival: This Little Light of Mine - Sunday, December 2nd, 11:00 am to 4:00 pm.](https://www.skirball.org/programs/festival/hanukkah-festival)
 
 [Holiday Ice Rink Pershing Square - Now until January 21st, 2019](https://holidayicerinkdowntownla.com/)
 
@@ -52,6 +46,8 @@ It’s hard to believe that 2018 is almost over. As the holidays are fast approa
 [Teddy Bear Tea in the Lobby Lounge at The Langham in Huntington, December 1, 2, 8, 9, 15-23, 10:00 a.m. and 1:30 p.m.](http://www.langhamhotels.com/en/the-langham/pasadena/offers/dining-offers/2018-holiday-season/)
 
 [2018 Holiday Party at Candlelight Pavilion, Claremont - Now through December 24th, 6:00-9:00pm](https://www.candlelightpavilion.com/Our-Season/Current-Season.asp)
+
+[LA Arboretum Lantern Festival - Now through January 6th, 2019 - 5:30-10:00pm](https://www.arboretum.org/moonlight-forest-magical-lantern-art-festival/){: target="_blank"}
 
 [For more events, check out this link!](https://www.discoverlosangeles.com/blog/los-angeles-holiday-parades)
 
