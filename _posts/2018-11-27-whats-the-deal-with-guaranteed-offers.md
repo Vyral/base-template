@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Guaranteed offer companies may promise a fast, simple sale, but selling your
   home for cash to one of these companies may not be your best option.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+Are+Guaranteed+Offer+Companies+Worth+Working+With%253F.mp4
 pullquote: >-
   Our goal is to help guide you toward an informed decision that’s truly best
   for you.
