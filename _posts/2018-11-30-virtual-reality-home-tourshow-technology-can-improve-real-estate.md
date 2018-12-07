@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   With 3D models, real estate agents could show properties without having to
   make a trip.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jay+White/Video/2018/The+White+Group+%257C+Virtual+Reality+Home+ToursHow+Technology+Can+Improve+Real+Estate.mp4
 pullquote: >-
   3D modeling can mean the difference between going through 20 showings before
   getting an offer and going through just five before an offer is made.
@@ -25,9 +26,9 @@ With the technological advances of the past few years, 3D modeling has provided 
 
 **How does it work?**
 
-We use a camera that spins around on axis inside a property, taking multiple pictures from all angles and a computer program stitches it all together to render a 3D model of the home.&nbsp;
+We use a camera that spins around on axis inside a property, taking multiple pictures from all angles and a computer program stitches it all together to render a 3D model of the home. 
 
-This is a big deal for the industry. With this, someone sitting all the way across the country can take a tour of the house from the comfort of their own chair. **That allows you to widen the pool of potential buyers looking at your home**, enticing them without having to make them travel a long way to view it. 3D modeling can mean the difference between going through 20 showings before getting an offer and going through just five before an offer is made.&nbsp;
+This is a big deal for the industry. With this, someone sitting all the way across the country can take a tour of the house from the comfort of their own chair. **That allows you to widen the pool of potential buyers looking at your home**, enticing them without having to make them travel a long way to view it. 3D modeling can mean the difference between going through 20 showings before getting an offer and going through just five before an offer is made. 
 
 {% include pullquote.html %}
 
