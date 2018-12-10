@@ -19,9 +19,9 @@ youtube_code: FVkvAgzILaA
 
 {% include youtube.html %}
 
-Welcome back to our series on the real estate fundamentals. As we’ve covered before, running a great real estate business isn’t just about being creative.
+Welcome back to our series on the real estate fundamentals.
 
-It’s also about knowing, and closely following, the basics of the industry. You need to know the fundamentals before you can put your own spin on things.This time, we’ll be discussing buyer and listing consultations.
+As we’ve covered before, running a great real estate business isn’t just about being creative. It’s also about knowing, and closely following, the basics of the industry. You need to know the fundamentals before you can put your own spin on things. This time, we’ll be discussing buyer and listing consultations.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the interview. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
