@@ -21,7 +21,7 @@ youtube_code: myLaWulZf4M
 
 <p style="text-align: center;"><em>Drmoves.com doesn’t just help families comprised of medical professionals with their real estate needs—it also helps physicians themselves earn extra income.</em></p>
 
-As you know, my husband and I created Drmoves.com not just to help families with medical professionals with their real estate needs, but also to help the physicians themselves earn extra income.&nbsp;
+As you know, my husband and I created Drmoves.com not just to help families comprised of medical professionals with their real estate needs, but also to help the physicians themselves earn extra income.&nbsp;
 
 How? On the site, there’s an “Earn Extra Income” tab that leads you to a page that lists several programs and initiatives from many different companies that you can get paid to participate in. Here’s an example of some of the different categories you can click on:
 
