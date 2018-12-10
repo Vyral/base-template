@@ -26,7 +26,7 @@ However, I’m happy to say that I have a solution to make offering a retirement
 
 **The solution?**
 
-We’ve created the Select Family Retirement Plans program, which is designed to minimize the workload and the liability associated with offering a 401(k) or 403(b) plan. By reducing the administrative burdens, we allow you to focus on improving employee savings and investment behaviors through a robust education campaign, which can help them improve their retirement.
+We’ve created the Select Family of Retirement plans, which are designed to minimize the workload and the liability associated with offering a 401(k) or 403(b) plan. By reducing the administrative burdens, we allow you to focus on improving employee savings and investment behaviors through a robust education campaign, which can help them improve their retirement.
 
 Employers who choose to adopt one of this program's plans pool their retirement plan assets together into what is known as an open Multiple Employer Plan (MEP). In this structure, we greatly streamline the plan oversight and administrative process.
 
