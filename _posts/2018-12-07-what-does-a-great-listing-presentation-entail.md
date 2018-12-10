@@ -29,7 +29,7 @@ As we’ve covered before, running a great real estate business isn’t just abo
 
 2:26 - The importance of knowing a buyer or seller’s motivation.
 
-4:00 - How to prepare for a buyer and listing consultations.
+4:00 - How to prepare for buyer and listing consultations.
 
 12:57 - Why listing presentations matter.
 
