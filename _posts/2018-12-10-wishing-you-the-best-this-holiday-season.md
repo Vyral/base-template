@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You the Best This Holiday Season
-date: 2018-12-10 20:18:05
+date: 2018-12-10 20:18:00
 tags:
   - Real Estate
   - Market Update
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZkMP0qKTdv
+youtube_code: ZkMP0qKTdv8
 ---
 
 {% include youtube.html %}
