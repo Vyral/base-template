@@ -5,7 +5,7 @@ date: 2018-12-06 17:59:59
 tags:
   - Real Estate
 excerpt: >-
-  Drmoves.com doesn’t just help families with medical professionals with their
+  Drmoves.com doesn’t just help families comprised of medical professionals with their
   real estate needs—it also helps physicians themselves earn extra income.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2018/Charleston+Real+Estate+%257C+The+Mikki+Ramey+Team-+Drmoves+part+2.mp4
@@ -19,7 +19,7 @@ youtube_code: myLaWulZf4M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Drmoves.com doesn’t just help families with medical professionals with their real estate needs—it also helps physicians themselves earn extra income.</em></p>
+<p style="text-align: center;"><em>Drmoves.com doesn’t just help families comprised of medical professionals with their real estate needs—it also helps physicians themselves earn extra income.</em></p>
 
 As you know, my husband and I created Drmoves.com not just to help families with medical professionals with their real estate needs, but also to help the physicians themselves earn extra income.&nbsp;
 
@@ -35,4 +35,4 @@ How? On the site, there’s an “Earn Extra Income” tab that leads you to a p
 
 <li><strong>Telemedicine.</strong> Telemedicine is becoming more and more prominent, and we list more than a dozen companies in need of telemedicine services.</li></ul>
 
-We love being a resource for medical families, so if you have any more questions about this website you want to talk about your own experience as a medical family, don’t hesitate to reach out to us. We’d love to help you.
+We love being a resource for medical families, so if you have any more questions about this website or you want to talk about your own experience as a medical family, don’t hesitate to reach out to us. We’d love to help you.
