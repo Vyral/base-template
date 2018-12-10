@@ -255,3 +255,13 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cD7U-XCUmgQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">The Quinton Group Success: Jeff Quinton</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QYhhAhdS00o" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">Fulcrum Properties Group: Ty Voyles</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WE8FBbXpLjA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">The Delia Group: Joe Delia</font>
