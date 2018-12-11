@@ -17,7 +17,7 @@ youtube_code: 5k_f1V7fDXc
 
 {% include youtube.html %}
 
-Our market was great this year, and here’s why.
+<p style="text-align: center;"><em>Our market was great this year, and here’s why.</em></p>
 
 Today we have a quick market update to share with you. **Our area had a great market this year with strong sales in all price ranges.** We have 810 homes currently on the market, which is an increase from last year where we saw a range between 650 and 710. We have 241 pending sales at the moment, which equals 241 excited families who are able to move into a new home over the holidays.&nbsp;
 
