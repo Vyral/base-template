@@ -20,7 +20,7 @@ youtube_code: 0Wyrd4e53hk
 
 I hear agents talking about organizing their businesses all the time, so I wanted to share a great tool that my team has started to implement in all aspects of our business. The best part is that it’s free.
 
-**We’ve been casually using [Trello ](https://trello.com/)since the beginning of the year,** but hit it full force on August 1 and we’re now using it for managing all of our transactions, open house schedules, and any listings that hit the market. We are always carrying around 120 active and pending listings at a time, so there are a lot of moving parts.
+**We’ve been casually using [Trello ](https://trello.com/mistysoldwisch/recommend)since the beginning of the year,** but hit it full force on August 1 and we’re now using it for managing all of our transactions, open house schedules, and any listings that hit the market. We are always carrying around 120 active and pending listings at a time, so there are a lot of moving parts.
 
 For several years, we used Top Producer and Google Spreadsheets to manage things, but after being introduced to Trello by other teams, **I found that the more you use it, the more you find reasons to use it.** When you love managing things and organizing information, Trello is an amazing visual tool that could work for you at any stage of your business.
 
@@ -31,5 +31,7 @@ You can organize clients by lists, upload files and attachments, and manage the 
 **Finally,****Trello is a great place to organize your ideas.** A lot of times we hear about things that we want to implement down the road, but then we forget about. Making a card on a Trello board as a placeholder for this idea is a great way to keep those thoughts organized so you won’t forget about them.
 
 There are plenty of ways you can use software to organize your business, but a lot of them require you to fork out cash to make it happen. It’s rare that an amazing program like this is free. I encourage you to check out Trello today and see if it could help you out in your business. We’d be happy to pass along some information on how we set up our boards on Trello.
+
+Learn more about Trello here: https://trello.com/mistysoldwisch/recommend
 
 In the meantime, if you want to attend any of our business planning workshops or you have any other questions, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
