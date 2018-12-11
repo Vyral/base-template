@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'No Lead Left Behind: What Does it Mean?'
-date: 2018-12-07 19:24:56
+title: 'No Lead Left Behind: What Does It Mean?'
+date: 2018-12-07 19:24:00
 tags:
   - Lead Conversion
   - Lead Generation
@@ -12,7 +12,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   This all-too-common occurrence has motivated us to take up what my team and I
-  call “No Lead Left Behind.”
+  call 'No Lead Left Behind.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -28,10 +28,10 @@ Amidst the busyness of our day-to-day lives, it can be easy to completely forget
 
 {% include pullquote.html %}
 
-This all-too-common occurrence has motivated us to take up what my team and I call “No Lead Left Behind.” The principle behind this initiative is familiarizing ourselves with the needs of our clients and being responsive when those needs arise.&nbsp;
+This all-too-common occurrence has motivated us to take up what my team and I call “No Lead Left Behind.” The principle behind this initiative is familiarizing ourselves with the needs of our clients and being responsive when those needs arise. 
 
-My team and I have wasted no time in getting on the same page and making sure that we’re all working in a collaborative way to address all clients, referrals, and leads. This is, after all, how we can ensure that there’s No Lead Left Behind.&nbsp;
+My team and I have wasted no time in getting on the same page and making sure that we’re all working in a collaborative way to address all clients, referrals, and leads. This is, after all, how we can ensure that there’s No Lead Left Behind. 
 
-And let us know if there are any tips or “hacks” you’ve put into practice that you think might be worth mentioning!&nbsp;
+And let us know if there are any tips or “hacks” you’ve put into practice that you think might be worth mentioning! 
 
 Please don’t hesitate to connect with us. We’d love to hear your thoughts!
