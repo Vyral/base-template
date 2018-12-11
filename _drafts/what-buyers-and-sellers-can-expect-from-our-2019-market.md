@@ -18,7 +18,7 @@ youtube_code: HtpZdvi5b5Q
 
 {% include youtube.html %}
 
-Are we in for a market pullback in 2019? Here’s what the latest numbers say.
+<center>Are we in for a market pullback in 2019? Here’s what the latest numbers say.</center>
 
 What’s been happening in our market as we close out 2018? What can buyers and sellers expect from the 2019 market?
 
