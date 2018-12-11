@@ -21,7 +21,7 @@ youtube_code: hpPduFCyjIQ
 
 {% include youtube.html %}
 
-How did this homeowner lose $105,000 by overpricing their home in a shifting market? Today, I’ll explain.
+<p style="text-align: center;"><em>How did this homeowner lose $105,000 by overpricing their home in a shifting market? Today, I’ll explain.</em></p>
 
 Sometimes, pricing your home above market value can be okay, because the market sometimes improves to that price, and sellers get an offer close to what they’re asking for.
 
