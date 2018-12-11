@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Shining the Spotlight on the Local Moving Company, M.K Movers'
-date: 2018-11-30 21:09:01
+date: 2018-11-30 21:09:00
 tags:
-  - Community
 excerpt: 'Mitch Katkus has much to share about his business, M.K Movers.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Shining+the+Spotlight+on+the+Local+Moving+Company%252C+M.K+Movers.mp4
@@ -12,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/11-30-movers-np.jpg
-youtube_code: 88LGa5i4oEE
+youtube_code: laGVA38WJPA
 ---
 
 {% include youtube.html %}
@@ -32,5 +31,3 @@ He recommends you always get an estimate before hiring movers; though doing it o
 M.K Movers are located in St. Charles but are willing to travel anywhere in the state of Illinois. If you’d like to contact M.K Movers or learn more, visit them at **[https://www.mkmover.com/](https://www.mkmover.com/)**.
 
 And, as always, if you have any questions about real estate or would like to discuss your buying or selling goals, feel free to give us a call or send us an email.
-
-&nbsp;
