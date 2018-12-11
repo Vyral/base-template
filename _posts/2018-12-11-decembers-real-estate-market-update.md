@@ -19,7 +19,7 @@ youtube_code: 4VnFWpC4AEY
 
 {% include youtube.html %}
 
-Here’s what we’re seeing in our latest market update.
+<p style="text-align: center;"><em>Here’s what we’re seeing in our latest market update.</em></p>
 
 Today I’d like to give you an update about what’s been going on in the Phoenix area real estate market.
 
