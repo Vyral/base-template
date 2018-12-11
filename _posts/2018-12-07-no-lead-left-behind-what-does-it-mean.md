@@ -9,7 +9,8 @@ excerpt: >-
   Losing the opportunity to serve the interests or needs of a client, lead,
   referral, etc. is something most of us have experienced. My team and I have
   come up with a system that will safeguard this from becoming a habit.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+A+New+Initiative+for+Always+Meeting+Clients+Needs.mp4
 pullquote: >-
   This all-too-common occurrence has motivated us to take up what my team and I
   call 'No Lead Left Behind.'
