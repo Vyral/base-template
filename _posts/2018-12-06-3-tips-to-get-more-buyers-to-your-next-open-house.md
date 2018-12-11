@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Tips That Will Help You Use Open Houses to Get More Clients
+title: 3 Tips to Get More Buyers to Your Next Open House
 date: 2018-12-06 17:41:00
 tags:
   - Real Estate
