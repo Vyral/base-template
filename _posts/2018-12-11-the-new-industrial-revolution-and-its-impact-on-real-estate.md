@@ -21,7 +21,7 @@ youtube_code: sfBOgT-y-gg
 
 {% include youtube.html %}
 
-In today’s post, we’ll answer the question, “How is the next industrial revolution going to affect real estate in 2019?”
+<p style="text-align: center;"><em>In today’s post, we’ll answer the question, “How is the next industrial revolution going to affect real estate in 2019?”</em></p>
 
 What is this new industrial revolution? You might think that we’ve been in the digital and technology age for some time, so what could possibly be revolutionized?
 
