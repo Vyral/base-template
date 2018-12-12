@@ -1233,7 +1233,8 @@ html[xmlns] .flexslider .slides {
   margin-top: 20px;
   overflow: hidden; }
   .cta-sidebar-container .cta-img-container {
-    margin-bottom: 2rem; }
+    margin-bottom: 2rem;
+    max-width: 100%; }
     .cta-sidebar-container .cta-img-container a img {
       max-width: 100%;
       width: 1000px; }
@@ -2788,6 +2789,11 @@ form select {
 .newsletter {
   background: #262626; }
 
+.three-quarter-image {
+  width: 90%;
+  margin: 0 auto;
+  display: block; }
+
 #side-logo {
   width: 90%;
   margin: 0 auto; }
@@ -2804,6 +2810,25 @@ form select {
 
 .events {
   font-size: 20px; }
+
+.book-link {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  display: -webkit-box;
+  background: #003fa6;
+  border: 1px solid #003fa6;
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  -webkit-transition: all 0.15s ease-out 0s;
+  transition: all 0.15s ease-out 0s; }
+  .book-link:hover {
+    background: #fff;
+    border: 1px solid #003fa6;
+    color: #003fa6; }
 
 .recruiting {
   text-align: center; }
