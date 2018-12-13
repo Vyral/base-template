@@ -20,7 +20,9 @@ youtube_code: jNreM6bbSEw
 
 {% include youtube.html %}
 
-<center>Increased loan limits mean you’ll be saving money, but make sure you know what your limit is.</center>
+<center><em>Increased loan limits mean you&rsquo;ll be saving money, but make sure you know what your limit is.</em></center>
+
+&nbsp;
 
 You may have already heard that loan limits will be increasing in 2019, but do you know what that means for you?
 
