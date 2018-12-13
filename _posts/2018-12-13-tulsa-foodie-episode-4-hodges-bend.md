@@ -33,6 +33,6 @@ Noah got into the restaurant business at a young age and has worked a lot of dif
 
 What they’re really known for, though, is their drinks, and I had the pleasure of sampling their best-selling item while we sat at the bar: Irish coffee. Their version of this popular cocktail is made with espresso, sugar syrup, Irish whiskey, and a nice, thick layer of cream on top.&nbsp;
 
-If you want to try one yourself, you can find Hodges Bend at 823 3rd Street. If you’d like to know more about their establishment, you can visit their website at **<u><a target="_blank" href="http://www.hodges-bend.com/welcome-tulsa/">www.hodges-bend.com/welcome-tulsa/</a></u>** or email them at **[i<u>nfo@hodges-bend.com</u>](mailto:info@hodges-bend.com)**.&nbsp;
+If you want to try one yourself, you can find Hodges Bend at 823 3rd Street. If you’d like to know more about their establishment, you can visit their website at **<u><a target="_blank" href="http://www.hodges-bend.com/welcome-tulsa/">www.hodges-bend.com/welcome-tulsa/</a></u>** or email them at [i<u>nfo@hodges-bend.com</u>](mailto:info@hodges-bend.com).&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
