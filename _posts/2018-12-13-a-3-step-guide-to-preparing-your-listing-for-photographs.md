@@ -22,7 +22,7 @@ youtube_code: cgvabqTmUF8
 
 {% include youtube.html %}
 
-If you are about to have a photographer capture pictures and videos of your listing, there are three areas of your property you’ll need to spruce up beforehand.
+<p style="text-align: center;"><em>If you are about to have a photographer capture pictures and videos of your listing, there are three areas of your property you’ll need to spruce up beforehand.</em></p>
 
 According to a study by the National Association of Realtors, 94% of buyers begin their home search online. This means that the photos and videos that represent a listing online are absolutely critical. They can make or break any listing.
 
