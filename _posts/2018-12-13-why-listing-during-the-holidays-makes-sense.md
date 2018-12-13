@@ -48,6 +48,6 @@ I’ve also compiled a list of holiday events happening in Las Vegas. Check out 
 
 **[The Nutcracker at Smith Center](https://www.thesmithcenter.com/event/the-nutcracker-2018/){: target="_blank"}** - Now through December 24th, 2018
 
-Magical Forest - Now through December 31st (closed on Christmas Day)
+**[Magical Forest](https://www.opportunityvillage.org/pages/magical-forest){: target="_blank"}** - Now through December 31st (closed on Christmas Day)
 
 **[For even more holiday events, click here!](https://www.reviewjournal.com/entertainment/22-christmas-and-holiday-events-in-las-vegas-valley/){: target="_blank"}**
