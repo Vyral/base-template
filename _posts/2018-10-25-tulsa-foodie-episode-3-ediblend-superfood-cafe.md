@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tulsa Foodie Episode 4: Ediblend Superfood Cafe'
+title: 'Tulsa Foodie Episode 3: Ediblend Superfood Cafe'
 date: 2018-10-25 15:03:00
 tags:
   - Real Estate
