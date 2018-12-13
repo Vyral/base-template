@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cost of Waiting to Buy Later Vs. Now
-date: 2018-09-20 20:29:00
+date: 2018-12-12 20:29:00
 tags:
   - Real Estate
 excerpt: >-
