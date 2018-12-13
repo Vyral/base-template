@@ -3,15 +3,19 @@ layout: post
 title: Happy Holidays From the Brad Korb Team
 date:
 tags:
-excerpt:
+  - Real Estate
+excerpt: >-
+  The holiday season is finally here. We wanted to reach out and wish you and
+  your family the best.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/12-13-holidays-np.jpg
+youtube_code: j-UMbBg1RN4
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+We want to wish you and your family the very best for the holiday season. This is a time to spend with your friends and family and give joy and thanks for what you have. Enjoy the season and have a fantastic time with your loved ones. We appreciate all of your support this year and can’t wait to help even more of you in 2019.
