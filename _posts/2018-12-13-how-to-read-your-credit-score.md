@@ -41,11 +41,11 @@ This really started to affect my credit, and I didn’t realize then how importa
 
 What do the credit score numbers mean? First, the credit score itself is a three-digit number often ranging from 300 to 850, with 300 being the lowest score you can have and 850 being the highest. The higher your credit score, the better your credit is. **In general, credit scores are graded in the following ranges:**
 
-* Anything above 750: excellent credit
-* 700 to 750: very good credit
-* 650 to 700: good credit
-* 600 to 650: bad credit
-* Anything below 600: very bad credit
+* Anything above 750: Excellent credit
+* 700 to 750: Very good credit
+* 650 to 700: Good credit
+* 600 to 650: Bad credit
+* Anything below 600: Very bad credit
 
 Having a high credit score indicates that you’ve done a good job managing your credit—you’ve made your payments on time, kept your balances at a manageable level, and avoided any credit blunders. With a high credit score, you’re more likely to have a credit card or loan application approved with favorable terms.
 
