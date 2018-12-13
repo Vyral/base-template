@@ -32,7 +32,7 @@ Lastly, Las Vegas is a busy town all year long, and **we’re getting a lot of v
 
 If you have any more questions about the benefits of selling during the holidays season or you’re curious about what else is happening in our real estate market, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;
 
-Finally, I’ve compiled a list of holiday events happening in Las Vegas. Check out the list below to see some recommendations for ways to spend the season:
+I’ve also compiled a list of holiday events happening in Las Vegas. Check out the list below to see some recommendations for ways to spend the season:
 
 **[The Cosmopolitan Ice Rink of Las Vegas](https://www.cosmopolitanlasvegas.com/ice-rink){: target="_blank"}** - Now through December 20th, 2018
 
