@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You the Best This Holiday Season
-date:
+date: 2018-12-13 19:48:13
 tags:
 excerpt: >-
   The holidays are finally here, and we hope you and your family have a
