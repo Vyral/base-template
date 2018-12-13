@@ -23,6 +23,8 @@ youtube_code: CuIf_yBssiI
 
 <center><em>James Crossway, owner of Premier Blinds &amp; Designs, joins me today for an interview about his business and the amazing services he provides.</em></center>
 
+&nbsp;
+
 I’m excited to be joined by the owner of Premier Blinds & Designs, James Crossway, to talk about his business and how he can help homeowners' homes shine. Let’s get right to it.
 
 **0:17—Why did you and Jennifer decide to start Premier Blinds?**
