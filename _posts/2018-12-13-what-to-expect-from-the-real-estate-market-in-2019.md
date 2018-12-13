@@ -17,7 +17,7 @@ youtube_code: pAI29uj59KE
 
 {% include youtube.html %}
 
-Here’s what you can expect from our market next year.
+<p style="text-align: center;"><em>Here’s what you can expect from our market next year.</em></p>
 
 2018 is just about over with, and we’re wrapping up the year with Christmas parties, get-togethers, and other holiday events. It’s never too early to begin thinking about what the new year will hold for us, so today we’ll be looking at where our market is projected to go in 2019.
 
