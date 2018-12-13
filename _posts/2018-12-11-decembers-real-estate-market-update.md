@@ -25,7 +25,7 @@ Today I’d like to give you an update about what’s been going on in the Phoen
 
 In November, we had 18,521 active listings, which is an increase of 2.4% from last year. Listings under contract were down about 14.1% at 8,448. The monthly median sales price was at $262,000, an increase of 6.1% year to year.
 
-Interest rates and prices in the area have both gone up, creating somewhat of a pause in our market. The craziness of the Arizona elections has also seemed to have overwhelmed many.
+Interest rates and prices in the area have both gone up, creating somewhat of a pause in our market. The craziness of the Arizona elections also seemed to have overwhelmed many.
 
 The number of homes that closed was 7,256, down 2.4% from last year.
 
@@ -37,6 +37,6 @@ If you’re a buyer, it’s a great time to buy a house. You’d have less compe
 
 If you’re a seller, know that there’s less inventory currently. We’ll see more inventory after the new year, but there will also be more competition with other sellers.
 
-Our months of supply is at 3.1, which means that if no new listings were to come on the market, inventory would run out in 3.1 months. The listing success rate is at 78.1%, which means 21.9% of homes are unsuccessfully sold. If you or someone you know wants to sell a home quickly, **we have investors who can buy homes within 24 hours.** We can get you in touch with one if you’re interested.&nbsp;
+Our month's of supply is at 3.1, which means that if no new listings were to come on the market, inventory would run out in 3.1 months. The listing success rate is at 78.1%, which means 21.9% of homes go unsold. If you or someone you know wants to sell a home quickly, **we have investors who can buy homes within 24 hours.** We can get you in touch with one if you’re interested.&nbsp;
 
 I’d like to thank all of you for watching my show throughout the last year. I’m also extremely thankful for those I’ve done business with; without our magnificent clients and vendors, we wouldn’t have the success we enjoy today. Next year will be my 33rd year as a Realtor here in the Valley of the Sun, and I’ve enjoyed my time helping our community to buy and sell homes. Thank you again, and I hope you have a happy holiday season and a fantastic new year.
