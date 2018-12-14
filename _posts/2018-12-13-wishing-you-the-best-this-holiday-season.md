@@ -17,4 +17,4 @@ youtube_code: C0dp4B6dxRc
 
 {% include youtube.html %}
 
-I wanted to reach out today to wish you a very happy holiday season. As a team, we can’t thank you enough for your business and your friendship. You support us and what we do by allowing us to help you with your real estate needs, and it means more than you’ll ever know. Thank you so much from the bottom of our hearts, and we hope you and yours have a great holiday season.
+I wanted to reach out today to wish you a very happy holiday season. As a team, we can’t thank you enough for your business and your friendship. You support us and what we do by allowing us to help you with your real estate needs, and it means more than you’ll ever know. My team and I have achieved many amazing things this year, with my most recent personal accomplishment being that I was featured in the December issue “Portland Real Producers Magazine.” Of course, this, and all of my team’s other achievements, wouldn’t have been possible without you. We want to thank you from the bottom of our hearts for everything you do. We hope you and yours have a great holiday season. To see our full holiday message, watch this short video.
