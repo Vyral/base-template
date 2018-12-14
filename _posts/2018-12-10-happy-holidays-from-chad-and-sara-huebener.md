@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Happy Holidays From Chad and Sarah Huebener
-date: 2018-12-10 20:13:38
+title: Happy Holidays From Chad and Sara Huebener
+date: 2018-12-10 20:13:00
 tags:
   - Real Estate
 excerpt: >-
