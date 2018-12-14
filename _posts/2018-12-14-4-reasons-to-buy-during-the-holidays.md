@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reasons to Buy During the Holidays
-date:
+date: 2018-12-14 21:14:55
 tags:
   - Home Seller Tips
 excerpt: >-
