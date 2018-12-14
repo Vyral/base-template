@@ -23,6 +23,8 @@ youtube_code: _JLoFgr399c
 
 <center><em>Your credit score is a very important number, and today I&rsquo;ll show you how to read yours.</em></center>
 
+&nbsp;
+
 Why is your credit score so important? How do you read a credit score? To answer these questions, let me first share a personal anecdote about one of the hardest lessons I’ve ever had to learn.
 
 Back when I got my first credit card at age 18 or 19, I thought I’d made it. My dad warned me over and over again about the use (or abuse, I should say) of this credit card and the charges I’d need to pay for. At the time, though, I thought it was such a treat to be able to delay my payment a bit.
