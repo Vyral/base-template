@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Don’t Wait Until Spring to List Your Home'
-date:
+date: 2018-12-14 21:29:47
 tags:
   - Home Seller Tips
 excerpt: >-
