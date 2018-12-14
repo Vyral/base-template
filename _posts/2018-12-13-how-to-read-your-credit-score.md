@@ -23,21 +23,19 @@ youtube_code: _JLoFgr399c
 
 <center><em>Your credit score is a very important number, and today I&rsquo;ll show you how to read yours.</em></center>
 
-&nbsp;
-
 Why is your credit score so important? How do you read a credit score? To answer these questions, let me first share a personal anecdote about one of the hardest lessons I’ve ever had to learn.
 
 Back when I got my first credit card at age 18 or 19, I thought I’d made it. My dad warned me over and over again about the use (or abuse, I should say) of this credit card and the charges I’d need to pay for. At the time, though, I thought it was such a treat to be able to delay my payment a bit.
 
 As you can imagine, I charged up a storm trying to live through my college years. Eventually, though, the bill came, and a month later, I had to pay for it. A month later, I had to pay again. Because I was only making my minimum payment, the monthly bills kept coming.
 
-This really started to affect my credit, and I didn’t realize then how important your credit score is in your daily life. Creditors and lenders check your credit score to decide whether to approve your rental application or, more importantly, your loan application when buying a home. Sometimes, even employers will check your credit score before hiring you.
+This really started to affect my credit, and I didn’t realize then how important your credit score is in your daily life. Creditors and lenders check your credit score to decide whether to approve your rental application or, more importantly, your loan application when buying a home. Even employers will sometimes check your credit score before hiring you.
 
 **This is why it’s so important that you check your credit score regularly**. There are several websites ([Creditkarma](https://www.creditkarma.com/){: target="_blank"}, [Creditsesame](https://www.creditsesame.com/){: target="_blank"}, [Wallethub](https://wallethub.com/){: target="_blank"}, etc.) that allow you to check your credit score for free. Some credit card issuers make your credit score available on their website or on your billing statement. You can also purchase your credit score from any of the credit bureaus. There’s been some confusion between free credit reports and paid credit reports, so be sure to check with your lender to know what you’re getting. Also, keep in mind that these credit scores are most directly related to purchasing a home.
 
 {% include pullquote.html %}
 
-**To check your credit score, you first must be able to read your credit score need to know what that score means**. When you order your credit score, all you get is a number, so if you’ve never done this before or it’s been a while since you’ve done it, you might not know what you’re looking at. This is why, in addition to providing you your credit score, many companies will also give you a gauge with which to read it. That gauge will help you determine whether you have good or bad credit and identify the factors that influence your credit score.
+**To check your credit score, you first must be able to read your credit score, and you need to know what that score means**. When you order your credit score, all you get is a number, so if you’ve never done this before or it’s been a while since you’ve done it, you might not know what you’re looking at. This is why, in addition to providing you your credit score, many companies will also give you a gauge with which to read it. That gauge will help you determine whether you have good or bad credit and identify the factors that influence your credit score.
 
 What do the credit score numbers mean? First, the credit score itself is a three-digit number often ranging from 300 to 850, with 300 being the lowest score you can have and 850 being the highest. The higher your credit score, the better your credit is. **In general, credit scores are graded in the following ranges:**
 
