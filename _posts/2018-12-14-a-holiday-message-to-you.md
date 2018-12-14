@@ -19,7 +19,7 @@ youtube_code: tAaT1QngPps
 
 {% include youtube.html %}
 
-<ps tyle="text-align: center;"><em>Our team is so thankful for you this holiday season. We hope your season is as merry and bright as ours.</em></p>
+<p style="text-align: center;"><em>Our team is so thankful for you this holiday season. We hope your season is as merry and bright as ours.</em></p>
 
 Happy Holidays! In the spirit of the season, our team would like to extend our warmest thanks to all of you for the amazing year we’ve had. Your continued support means so much to us.
 
