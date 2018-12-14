@@ -8,14 +8,14 @@ excerpt: >-
   How did this homeowner lose $105,000 by overpricing their home in a shifting
   market? Today, I’ll explain.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/December/Central+PA+Real+Estate+Agent-+Overpricing+in+a+Shifting+Market.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2018/December/Central+PA+Real+Estate+Agent-+overpricing+12.14.mp4
 pullquote: >-
   Make sure that when you contact your Realtor to sell your home, you get a thorough analysis on the home’s value.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: hpPduFCyjIQ
+youtube_code: fZudZZLJOpY
 ---
 
 {% include youtube.html %}
