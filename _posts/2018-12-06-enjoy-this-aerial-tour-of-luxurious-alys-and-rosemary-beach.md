@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take a Gorgeous Aerial Tour of 2 of Florida’s Luxurious Beach Communities
+title: Enjoy this aerial tour of luxurious Alys and Rosemary Beach
 tags:
   - Market Update
   - Real Estate
