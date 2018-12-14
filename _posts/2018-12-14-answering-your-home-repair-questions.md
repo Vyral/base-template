@@ -21,7 +21,7 @@ youtube_code: Dw6-E38gXPM
 
 {% include youtube.html %}
 
-On today’s episode of “Facebook Friday,” I’ll be answering a few questions about home repairs.
+<p style="text-align: center;"><em>On today’s episode of “Facebook Friday,” I’ll be answering a few questions about home repairs.</em></p>
 
 I’m joined today by my guest, Bree, who is here to ask me some questions about home repairs that you may have been wondering about yourself.
 
