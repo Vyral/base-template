@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   This has been a fantastic year for us. We’re looking forward to an even better
   one in 2019.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%2526+Sara+Huebener+With+Edina+Realty-+Wishing+You+the+Best+This+Holiday+Season.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
