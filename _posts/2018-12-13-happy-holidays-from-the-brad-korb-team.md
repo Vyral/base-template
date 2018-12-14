@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Holidays From the Brad Korb Team
-date: 2018-12-13 17:39:33
+date: 2018-12-13 17:39:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-13-holidays-np.jpg
-youtube_code: j-UMbBg1RN4
+youtube_code: Gk-Vy5OTxI8
 ---
 
 {% include youtube.html %}
