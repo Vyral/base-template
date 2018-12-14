@@ -1,12 +1,12 @@
 ---
 layout: post
 title: One Final Tip For Home Sellers in Our Market
-date: 2018-12-14 20:53:02
+date: 2018-12-14 20:53:00
 tags:
   - Home Seller Tips
 excerpt: >-
   To round up our six-part series on tips to help sellers sell faster and for
-  more money, I’ll leave you with our final tip: Worth with us!
+  more money, I’ll leave you with our final tip: Work with us!
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Damon+Gettier/+Videos+/2018/December/Roanoke+Real+Estate+Agent-+One+Final+Tip+For+Home+Sellers+in+Our+Market.mp4
 pullquote: >-
