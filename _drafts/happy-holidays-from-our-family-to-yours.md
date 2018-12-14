@@ -9,7 +9,7 @@ excerpt: >-
   without you.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Texas+Real+Estate+Pro-+Happy+Holidays+From+Our+Family+to+Yours.mp4
-pullquote:
+
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
