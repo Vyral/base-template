@@ -27,7 +27,7 @@ First, **you’ll face less competition from other buyers.** Most buyers take De
 
 Second, **sellers are more serious and more motivated right now.** Most sellers have a compelling reason for listing their home during the holidays, which means they’ll be more open to negotiating. What you lack in available homes is offset by the probability that you’ll deal with a more flexible seller.
 
-<br>Third, **you’ll get a more realistic picture of the home you want.** Let’s be honest—what home doesn’t look amazing during the spring selling season when newly planted flowers are in bloom and there’s plenty of sunlight streaming through the windows? Checking out a house during the winter season, on the other hand, might give you a more accurate idea of what you’ll be living with after you purchase.
+Third, **you’ll get a more realistic picture of the home you want.** Let’s be honest—what home doesn’t look amazing during the spring selling season when newly planted flowers are in bloom and there’s plenty of sunlight streaming through the windows? Checking out a house during the winter season, on the other hand, might give you a more accurate idea of what you’ll be living with after you purchase.
 
 {% include pullquote.html %}
 
