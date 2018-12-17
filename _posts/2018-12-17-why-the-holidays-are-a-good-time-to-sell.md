@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/12-17-selling-during-holidays-yt.jpg
 youtube_code: zxQuOb8dshI
 ---
 
-{{ include youtube.html }}
+{ include youtube.html }
 
 Many people ask me if they should list their home for sale during the holiday season. **My answer is always yes, and there are a few reasons why.**
 
