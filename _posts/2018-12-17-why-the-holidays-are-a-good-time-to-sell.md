@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why the Holidays Are a Good Time to Sell
-date:
+date: 2018-12-17 20:28:51
 tags:
   - Home Seller Tips
 excerpt: 'Selling your home during the holidays is a good idea, and here’s why.'
