@@ -25,7 +25,7 @@ Today on “Tulsa Foodie,” I’m spotlighting Hodges Bend, a coffee and cockta
 
 Noah got into the restaurant business at a young age and has worked a lot of different jobs in the industry over the years. He always had a love of food, but after he started working at a wine bar here in town, he fell in love with wine too. After making a name for himself at Doc’s Wine & Food, he met up with his business partner and they developed the concept of a bar that specializes in coffee, wine, and cocktails.&nbsp;
 
-**Aside from serving high-quality drinks, what you might not know about Hodge’s Bend is that they also serve food.** They open at 7 a.m. every weekday and serve breakfast all throughout the day. Once night time hits, they switch over to their dinner menu, and on weekends they also serve brunch. Moving forward, they plan to make a few exciting menu changes while retaining their core products.
+**Aside from serving high-quality drinks, what you might not know about Hodge’s Bend is that they also serve food.** They open at 7 a.m. every weekday and serve breakfast all throughout the day. Once nighttime hits, they switch over to their dinner menu, and on weekends they also serve brunch. Moving forward, they plan to make a few exciting menu changes while retaining their core products.
 
 {% include pullquote.html %}
 
