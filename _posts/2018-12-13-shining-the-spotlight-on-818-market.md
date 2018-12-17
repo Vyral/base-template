@@ -12,7 +12,7 @@ pullquote: It all coalesces as a business that seeks to set itself apart from th
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/12-13-818-market-np.jpg
+youtube_alternate_image: /uploads/12-17-market-np.jpg
 youtube_code: w1AaiSwTmw0
 ---
 
