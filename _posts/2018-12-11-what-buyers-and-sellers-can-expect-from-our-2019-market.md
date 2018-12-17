@@ -20,6 +20,8 @@ youtube_code: HtpZdvi5b5Q
 
 <center><em>Are we in for a market pullback in 2019? Here&rsquo;s what the latest numbers say.</em></center>
 
+&nbsp;
+
 What’s been happening in our market as we close out 2018? What can buyers and sellers expect from the 2019 market?
 
 To answer these questions, we like to look at what we call “lead indicators” (i.e., factors that are predictive as to what might happen in the future) and “lag indicators” (i.e., trends we’re seeing right now).
