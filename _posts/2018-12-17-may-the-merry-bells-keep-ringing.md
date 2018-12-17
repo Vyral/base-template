@@ -4,7 +4,7 @@ title: May the Merry Bells Keep Ringing
 date: 2018-12-17 16:49:57
 tags:
   - Real Estate
-excerpt: Happy holidays to you!
+excerpt: Merry Christmas to you!
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2018/Dan+Jones+Home+Selling+Team-+merry+christmas.mp4
 pullquote:
@@ -17,7 +17,7 @@ youtube_code: d4hrQ1-jq8o
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Happy holidays to you!</em></p>
+<p style="text-align: center;"><em>Merry Christmas to you!</em></p>
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
