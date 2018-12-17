@@ -12,7 +12,7 @@ pullquote: It all coalesces as a business that seeks to set itself apart from th
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/12-13-crash-np.jpg
+youtube_alternate_image: /uploads/12-13-818-market-np.jpg
 youtube_code: w1AaiSwTmw0
 ---
 
@@ -24,8 +24,8 @@ Pat is opening 818 Market with Dan Zakai, the owner of a nearby veterinary clini
 
 {% include pullquote.html %}
 
-With its name inspired by the road it’s located on, **818 Market seeks to fill a gap that no other place can.** While the original concept was based entirely on grocery, the owners have decided to expand to the next level and include a tavern, restaurant, butcher counter, grab-and-go meals, and much more. Pat and Dan have partnered with local chef Matt Milani to introduce a stand-out menu and raise food service levels to new peaks in Catonsville.
+With its name inspired by the road it’s located on, **818 Market seeks to fill a gap that no other place can.** While the original concept was based entirely on being a grocery, the owners have decided to expand to the next level and include a tavern, restaurant, butcher counter, grab-and-go meals, and much more. Pat and Dan have partnered with local chef Matt Milani to introduce a standout menu and raise food service levels to new peaks in Catonsville.
 
 **818 Market is planned to open by the end of 2019.** There’s still a lot left to be done, but in the meantime, you can find their pop-up shops throughout the area as well as other special offerings. It all coalesces as a business that seeks to set itself apart from the rest.
 
-Check out their progress and learn more at 818Market.com. As always, if you’d like to talk about any and all of your real estate needs, reach out to me. I look forward to helping you.
+Check out their progress and learn more at [818Market.com](https://www.818market.com/){: target="_blank"}. As always, if you’d like to talk about any and all of your real estate needs, reach out to me. I look forward to helping you.
