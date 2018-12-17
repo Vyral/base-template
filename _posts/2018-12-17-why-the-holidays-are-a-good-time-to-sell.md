@@ -7,7 +7,6 @@ tags:
 excerpt: 'Selling your home during the holidays is a good idea, and here’s why.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Don+Vallee/Tucson+Real+Estate+Agent-+Why+the+Holidays+Are+a+Good+Time+to+Sell.mp4
-pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
