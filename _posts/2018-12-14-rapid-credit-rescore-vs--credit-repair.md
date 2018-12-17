@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rapid Credit Rescore vs. Credit Repair
-date: 2018-10-22 19:50:17
+date: 2018-12-14 19:50:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: pUKJBaLlOVQ
 
 {% include youtube.html %}
 
-What’s the difference between doing a rapid credit rescore and an actual credit repair? &nbsp;
+What’s the difference between doing a rapid credit rescore and an actual credit repair?  
 
 When I’m reviewing the credit report of someone who, for example, is a borderline candidate to qualify for a mortgage pre-approval or move into a better interest rate bracket and they only need to boost their credit score a little bit to make these things happen, **in that case I’d do a rapid credit rescore.**
 
