@@ -23,7 +23,7 @@ youtube_code: pAI29uj59KE
 
 Before we begin: We’re in a buyer’s market for the first time in five years, so it may be a good time to consider buying an investment property, upgrading or downsizing to a new home, or even buying your first home.
 
-**The information for what to expect in 2019 comes from the British Columbia Real Estate Association.** Though 2018 was a bit of an anomaly, the BCREA does a great job in forecasting future markets. We’ll be down 20% in sales for this year with around 80,000 sales throughout the province. Greater Vancouver is down about 30%. The BCREA projects that we’ll rebound from decreased sales next year with a province-wide increase of 12%, a 22% increase in Vancouver, and a 15% increase in Fraser Valley.
+**The information for what to expect in 2019 comes from the British Columbia Real Estate Association.** Though 2018 was a bit of an anomaly, the BCREA does a great job of forecasting future markets. We’ll be down 20% in sales for this year with around 80,000 sales throughout the province. Greater Vancouver is down about 30%. The BCREA projects that we’ll rebound from decreased sales next year with a province-wide increase of 12%, a 22% increase in Vancouver, and a 15% increase in Fraser Valley.
 
 They’re projecting price increases of 3% in Vancouver and around 5% in Fraser Valley. With the mortgage qualifying rate at about 5% right now, the rate at the end of 2019 will be around 5.5% to 5.75%—this will affect your buying power. Over the last year and a half, the qualifying rate has gone up 2% higher than what your mortgage costs are.&nbsp;
 
