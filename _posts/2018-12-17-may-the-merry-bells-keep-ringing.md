@@ -17,7 +17,7 @@ youtube_code: d4hrQ1-jq8o
 
 {% include youtube.html %}
 
-Happy holidays to you!
+<p style="text-align: center;"><em>Happy holidays to you!</em></p>
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
