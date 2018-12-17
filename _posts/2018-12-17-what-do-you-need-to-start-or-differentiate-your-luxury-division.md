@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do You Need To Start Or Differentiate Your Luxury Division?
-date: 2018-12-06 21:25:00
+date: 2018-12-17 09:25:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -15,16 +15,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7A-8kEwzxoY
+youtube_code: v0y_jNQeqOM
 ---
 
 {% include youtube.html %}
 
-If you’re looking to increase the number of high-end and luxury transactions for your office, team, or individual sales then having a strong luxury division is not optional.&nbsp; What does a strong, dedicated luxury division look like, though?
+If you’re looking to increase the number of high-end and luxury transactions for your office, team, or individual sales then having a strong luxury division is not optional.  What does a strong, dedicated luxury division look like, though?
 
 The old way of starting, or unfortunately many brokers' current luxury divisions (which many franchises still ascribe to), is to just have a different logo for their luxury division or a luxury sign for their offices. That’s not a luxury division and that doesn't benefit the agents or the consumer.
 
-The new way and true luxury division involves: better training and resources,&nbsp;**better-qualified agents, a dedicated luxury division website with only luxury listings, and, perhaps, a prerequisite for agents to quality to be listed as a luxury agent in your office.&nbsp; Many of our clients require their agents have the Luxury Listing Specialist Certification (LUXE)**&nbsp;or another strong luxury certification before that agent can be listed on their luxury division directory or website. That’s what a strong luxury division is all about—giving your agents an advantage through better training and resources over other agents and brokerages in your area when selling high-end properties.
+The new way and true luxury division involves: better training and resources, **better-qualified agents, a dedicated luxury division website with only luxury listings, and, perhaps, a prerequisite for agents to quality to be listed as a luxury agent in your office.  Many of our clients require their agents have the Luxury Listing Specialist Certification (LUXE)** or another strong luxury certification before that agent can be listed on their luxury division directory or website. That’s what a strong luxury division is all about—giving your agents an advantage through better training and resources over other agents and brokerages in your area when selling high-end properties.
 
 {% include pullquote.html %}
 
