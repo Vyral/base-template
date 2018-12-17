@@ -10,7 +10,7 @@ excerpt: >-
   your limit is.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%252C+CA+Real+Estate+-+What+Do+Increased+Loan+Limits+Mean+for+You%253F.mp4
-pullquote: This loan increase will actually be helping you save money.
+pullquote: This loan increase will actually help you save money.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -34,6 +34,6 @@ Conventional loan limits have been increased from $453,100 to $484,350, and high
 
 You may get excited about being pre-approved, but you’ll still need to know what the loan limits are for the area you’re buying in. Your Realtor will help you understand the limits you’ll have. We don’t want you to be let down after finding out your accepted offer is, unfortunately, outside of your loan limit. **We’re always looking at loan limits to ensure you’re not placed in a bad position—we want you to win**.
 
-This loan increase will actually be helping you save money. By increasing loan limits, you won’t be in a jumbo loan and will instead be in a conforming loan, **which lowers your interest rate**.
+This loan increase will actually help you save money. By increasing loan limits, you won’t be in a jumbo loan and will instead be in a conforming loan, **which lowers your interest rate**.
 
 If you’d like to find out more about what this means for you, reach out to us for a consultation. We’d be more than happy to help you.
