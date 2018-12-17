@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Merry Christmas to you!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2018/Dan+Jones+Home+Selling+Team-+merry+christmas.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2018/Dan+Jones+Home+Selling+Team-+merry+christmas+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: d4hrQ1-jq8o
+youtube_code: yr0WZ5YF0Zk
 ---
 
 {% include youtube.html %}
