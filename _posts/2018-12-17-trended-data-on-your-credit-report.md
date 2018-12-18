@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trended Data on Your Credit Report
-date: 2018-09-21 15:20:00
+date: 2018-12-17 15:20:00
 tags:
   - Real Estate
 excerpt: >-
