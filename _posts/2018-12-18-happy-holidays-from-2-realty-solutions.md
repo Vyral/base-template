@@ -17,7 +17,7 @@ youtube_code: Q3vi6QusKWU
 
 {% include youtube.html %}
 
-Your support this year has meant the world to us. Happy holidays!
+<p style="text-align: center;"><em>Your support this year has meant the world to us. Happy holidays!</em></p>
 
 From our house to yours, we wanted to make sure to wish you the best this holiday season. Merry Christmas and happy holidays to you and your family.
 
