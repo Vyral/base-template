@@ -22,7 +22,9 @@ youtube_code: 5grholfBnq4
 
 {% include youtube.html %}
 
-<center>Today we’d like to shed some light on the hot topic of accessory dwelling units.</center>
+<center><em>Today we&rsquo;d like to shed some light on the hot topic of accessory dwelling units.</em></center>
+
+&nbsp;
 
 If you’re interested in making some extra money through real estate investing, or simply how to have your mother-in-law (legally) live with you, then having an accessory dwelling unit (ADU) on your property may be the perfect solution.
 
