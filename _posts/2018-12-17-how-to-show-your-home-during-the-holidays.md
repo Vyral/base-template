@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Show Your Home During the Holidays
-date: 2018-12-17 16:30:55
+date: 2018-12-17 16:30:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/cook-youtube-2.jpg
 youtube_code: cXVmgB3UE0o
 ---
 
