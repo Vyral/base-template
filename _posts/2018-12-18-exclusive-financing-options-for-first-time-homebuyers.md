@@ -22,7 +22,9 @@ youtube_code: SZtjQQNB0as
 
 {% include youtube.html %}
 
-<center>If you’re preparing to buy your first home, consider pursuing one of these three financing options to help make your deal smoother and more affordable.</center>
+<center><em>If you&rsquo;re preparing to buy your first home, consider pursuing one of these three financing options to help make your deal smoother and more affordable.</em></center>
+
+&nbsp;
 
 There are three main lending options available to first-time buyers in our market, and we’d like to shed some light on each of them today:
 
