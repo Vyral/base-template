@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Should Snowbirds Consider Selling Now?
-date: 2018-11-26 22:31:47
+date: 2018-12-17 22:31:00
 tags:
   - Real Estate
 excerpt: >-
