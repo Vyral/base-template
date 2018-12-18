@@ -8,7 +8,7 @@ excerpt: >-
   Contrary to popular belief, winter is a great time to sell your home, and
   there are three reasons why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Sellers-+Dont+Wait+Until+Spring+to+List+Your+Home.mp4
+  https://s3.amazonaws.com/vyralmarketing/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Dont+Wait+Until+Spring+to+List+Your+Home+(1).mp4
 pullquote: >-
   Sellers who list during the spring are really just creating their own
   competition and providing more options for buyers.
