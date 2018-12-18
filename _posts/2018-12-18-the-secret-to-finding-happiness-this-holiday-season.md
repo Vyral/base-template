@@ -21,7 +21,7 @@ youtube_code: 8vVed4cOiRs
 
 {% include youtube.html %}
 
-I recently got the change to volunteer for Toys for Tots, and the whole experience reminded me of the key to happiness.
+<p style="text-align: center;"><em>I recently got the change to volunteer for Toys for Tots, and the whole experience reminded me of the key to happiness.</em></p>
 
 I recently got the chance to ride the Toys for Tots train from Binghamton to Delance and hand out thousands of toys and other items to families in need. Helping those families was a humbling, enlightening experience, and it reminded me of an important lesson about the topic I want to address today: the pursuit of happiness.&nbsp;
 
