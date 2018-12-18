@@ -18,6 +18,6 @@ youtube_code: zxQuOb8dshI
 
 Many people ask me if they should list their home for sale during the holiday season. **My answer is always yes, and there are a few reasons why.**
 
-Most people don’t want traffic through their houses during the holidays. This means there are fewer properties on the market and the number of showings decrease. However, the quality of the showings that do occur goes up. Typically, **the people looking at homes during the holidays are motivated to make a purchase**—you won’t find any tire kickers in this season.
+Most people don’t want foot traffic through their houses during the holidays. This means there are fewer properties on the market and the number of showings decrease. However, the quality of the showings that do occur goes up. Typically, **the people looking at homes during the holidays are motivated to make a purchase**—you won’t find any tire kickers in this season.
 
 <br>If you’re considering putting your home on the market, have any questions, or need more information, reach out to us at **520-544-5555.** We look forward to helping you.
