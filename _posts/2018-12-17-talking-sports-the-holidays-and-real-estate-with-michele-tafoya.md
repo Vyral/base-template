@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Talking Sports, the Holidays, and Real Estate With Michele Tafoya.'
-date: 2018-12-17 20:54:51
+title: 'Talking Sports, the Holidays, and Real Estate With Michele Tafoya'
+date: 2018-12-17 20:54:00
 tags:
   - Real Estate
 excerpt: with all of you today.
@@ -33,7 +33,7 @@ I recently sat down once more for another great podcast with sportscaster Michel
 
 5:12 - Should sellers use spring or summer photos for their listing?
 
-5:49 - How sellers can learn about preparing for market at one of our upcoming home seller forums
+5:49 - How sellers can learn about preparing for the market at one of our upcoming home seller forums
 
 7:37 - Why Michele Tafoya trusts the John Schuster Group
 
