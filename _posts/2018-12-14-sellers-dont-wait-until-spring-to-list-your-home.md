@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Don’t Wait Until Spring to List Your Home'
-date: 2018-12-14 21:29:47
+date: 2018-12-14 21:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-14-sell-now-np.jpg
-youtube_code: vpT2A24PtOI
+youtube_code: ofDtRjnxm2o
 ---
 
 {% include youtube.html %}
@@ -33,6 +33,6 @@ We also see a lot of employees relocating this time of year. I work with Cartus,
 
 {% include pullquote.html %}
 
-The third, and most important, reason to list now is that **you will face less competition from other sellers.** I briefly touched on this reason above, but it’s worth repeating. Less competition means more money in your pocket and a more timely move into your next home. &nbsp;
+The third, and most important, reason to list now is that **you will face less competition from other sellers.** I briefly touched on this reason above, but it’s worth repeating. Less competition means more money in your pocket and a more timely move into your next home.  
 
 If you have any more questions about selling during the winter or you have any other real estate needs I can take care of, don’t hesitate to reach out to me. I’d be happy to help you.
