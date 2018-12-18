@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’ll Want to Buy or List Your Home Sooner Than You Thought
-date: 2018-12-18 14:26:50
+date: 2018-12-18 14:26:00
 tags:
   - Market Update
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   It may come as a shock to you that, from our findings, the best time to list
-  and capture top dollar on the sale of your home is mid- to late January.
+  and capture top dollar on the sale of your home is mid-to-late January.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -20,11 +20,11 @@ youtube_code: 'https://youtu.be/xXh6gkV8K2k'
 
 {% include youtube.html %}
 
-The prevailing sentiment among most people is that spring is the best time to put your home on the market. So it may come as a shock to you that, from our findings, the best time to list and capture top dollar on the sale of your home is actually mid- to late January.
+The prevailing sentiment among most people is that spring is the best time to put your home on the market. So it may come as a shock to you that, from our findings, the best time to list and capture top dollar on the sale of your home is actually mid- to-late January.
 
 For what reasons will both buyers and sellers get the most out of the winter market—specifically January?&nbsp;
 
-Buyers know it’s only a matter of time before they enter the market because the decision to buy is an inevitability. **So they’re actively trying to develop a grasp of the market and getting a feel for what’s on the market now.&nbsp;**
+Buyers know it’s only a matter of time before they enter the market because the decision to buy is an inevitability. **So they’re actively trying to develop a grasp of the market and get a feel for what’s on the market now.&nbsp;**
 
 {% include pullquote.html %}
 
