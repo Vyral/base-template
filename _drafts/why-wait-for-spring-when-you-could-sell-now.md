@@ -18,7 +18,7 @@ youtube_code: T2i2arXYoRg
 
 {% include youtube.html %}
 
-Here’s why you shouldn’t wait until spring to sell your home.
+<center>Here’s why you shouldn’t wait until spring to sell your home.</center>
 
 Many people think spring is the best time to sell a home, but it’s simply not true. In fact, **January and February are great times to list your home for a few reasons**.
 
