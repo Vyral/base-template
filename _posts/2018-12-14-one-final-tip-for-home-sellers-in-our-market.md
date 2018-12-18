@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Final Tip For Home Sellers in Our Market
+title: One Final Tip for Home Sellers in Our Market
 date: 2018-12-14 20:53:00
 tags:
   - Home Seller Tips
@@ -31,6 +31,6 @@ On average, we sell houses faster and for more money because we have an incredib
 
 **We specialize in marketing—it’s what we do.** We maximize the exposure to your listing on social media and various websites. We also do floor plans, videos, Matterport 3D renderings, and we even have a professional home photographer on staff. We employ pricing strategies that work to maximize your dollars and to increase client interest in your house.
 
-If you want to sell your home faster and for more money, the tips we’ve given you this far in the series will help, but honestly, the most valid point of advice I can give you is to work with the team that sells more houses faster than anybody else.
+If you want to sell your home faster and for more money, the tips we’ve given you thus far in the series will help, but honestly, the most valid point of advice I can give you is to work with the team that sells more houses faster than anybody else.
 
-If Damon Gettier & Associate’s model for quick and lucrative home selling interests you, you are encouraged to reach out to us. Let us show you how much we can help.
+If Damon Gettier & Associates' model for quick and lucrative home selling interests you, you are encouraged to reach out to us. Let us show you how much we can help.
