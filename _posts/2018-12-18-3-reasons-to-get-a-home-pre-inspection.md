@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 3 Reason to Get a Home Pre-Inspection
-date: 2018-12-18 20:37:36
+title: 3 Reasons to Get a Home Pre-Inspection
+date: 2018-12-18 20:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
   There are three reasons why you should have your home pre-inspected before you
   sell.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/December/East+Bay+Real+Estate+Agent-+3+Reason+to+Get+a+Home+Pre-Inspection.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2018/December/East+Bay+Real+Estate+Agent-+3+Reasons+to+Get+a+Home+Pre-Inspection.mp4
 pullquote: 'At a minimum, get a home inspection and a pest inspection.'
 enclosure_type: video/mp4
 enclosure_time:
