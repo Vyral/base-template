@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   If you’re preparing to buy your first home, consider pursuing one of these
-  three financing options to help make your deal smoother and more affordable.
+  three financing options to help make your deal smoother.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/Phoenix+Real+Estate+Agent+-+Exclusive+Financing+Options+for+First-Time+Homebuyers.mp4
 pullquote: >-
@@ -24,13 +24,13 @@ youtube_code: SZtjQQNB0as
 
 <center><em>If you&rsquo;re preparing to buy your first home, consider pursuing one of these three financing options to help make your deal smoother and more affordable.</em></center>
 
-&nbsp;
+ 
 
 There are three main lending options available to first-time buyers in our market, and we’d like to shed some light on each of them today:
 
-**1. Conventional loans (3% down)**. The 3% rate is available only to first-time buyers, making this a wonderful option for anyone looking to secure their first home.&nbsp;
+**1. Conventional loans (3% down)**. The 3% rate is available only to first-time buyers, making this a wonderful option for anyone looking to secure their first home. 
 
-**2. The 3-2-1 Home Program**. This program, which is offered exclusively by Guild Mortgage, provides first-time buyers with a $1,500 credit toward their down payment or closing costs, as well as a $2,000 gift card at closing.&nbsp;
+**2. The 3-2-1 Home Program**. This program, which is offered exclusively by Guild Mortgage, provides first-time buyers with a $1,500 credit toward their down payment or closing costs, as well as a $2,000 gift card at closing. 
 
 **3. Local down payment assistance programs**. These area-specific programs offer buyers free money toward their down payment.
 
