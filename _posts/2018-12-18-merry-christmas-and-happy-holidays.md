@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merry Christmas and Happy Holidays
-date:
+date: 2018-12-18 21:31:00
 tags:
 excerpt:
 enclosure:
