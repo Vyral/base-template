@@ -1,12 +1,11 @@
 ---
 layout: post
 title: Merry Christmas and Happy New Year!
-date: 2018-12-13 21:34:15
+date: 2018-12-13 21:34:00
 tags:
 excerpt: >-
   It truly brings us joy to help you make your real estate dreams a reality.
-  Thank you for working with us. We wouldn’t be where we are today without your
-  help.
+  Thank you for...
 enclosure:
 pullquote:
 enclosure_type: video/mp4
