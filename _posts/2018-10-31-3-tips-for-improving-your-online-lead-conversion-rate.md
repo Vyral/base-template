@@ -3,7 +3,7 @@ layout: post
 title: 3 Tips For Improving Your Online Lead Conversion Rate
 tags:
 excerpt: >-
-  Michael Walters joins me today to provide you a few key tips about how to best
+  Michael Wolters joins me today to provide you a few key tips about how to best
   follow up with leads generated online.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+3+Tips+For+Improving+Your+Online+Lead+Conversion+Rate.mp4
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-29-internet-lead-follow-up-np.jpg
-youtube_code: '-8vCkGAeAUs'
+youtube_code: njJTGOu8qG4
 ---
 
 {% include youtube.html %}
