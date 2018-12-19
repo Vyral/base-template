@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/10-29-internet-lead-follow-up-np.jpg
+youtube_alternate_image:
 youtube_code: njJTGOu8qG4
 ---
 
