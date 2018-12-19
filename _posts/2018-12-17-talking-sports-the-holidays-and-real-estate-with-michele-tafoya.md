@@ -17,7 +17,7 @@ youtube_code: bYMsiyBCLjo
 
 {% include youtube.html %}
 
-To sign up for our seller forum, click here: [http://www.johnschustergroup.com/home-seller-forum.php](http://www.johnschustergroup.com/home-seller-forum.php){: target="_blank"}
+To sign up for our home seller forum, click here: [http://www.johnschustergroup.com/home-seller-forum.php](http://www.johnschustergroup.com/home-seller-forum.php){: target="_blank"}
 
 I recently sat down once more for another great podcast with sportscaster Michele Tafoya, and the conversation was so interesting that we wanted you to be able to check it out for yourselves. We talked about the holiday season, sports, and, of course, the real estate market.&nbsp;
 
