@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will Happen to Our Market in 2019?
-date: 2018-11-30 18:50:00
+date: 2018-12-20 12:50:00
 tags:
   - Market Update
 excerpt: >-
