@@ -6,6 +6,9 @@ permalink: /results/
 <h3>Listen to Mark Martin discuss the 10X Rule</h3>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/svE-4dOl8W0" width="560"></iframe>
 <hr>
+<h3>Why Use 1000 Calls A Day?
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v2D2WX7QLO0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<hr>
 <h3>John Sibley Shares His Experience With 1000 Calls A Day</h3>
 <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/g2ttv4zZpAk" width="560"></iframe>
 <hr>
