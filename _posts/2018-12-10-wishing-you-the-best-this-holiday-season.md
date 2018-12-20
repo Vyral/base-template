@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Can you believe it’s almost Christmas? Because it’s that time of year, I
   wanted to wish you all the best.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steve+Judkins/Team+Judkins+Real+Estate-+Merry+Christmas.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
