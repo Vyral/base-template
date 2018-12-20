@@ -15,6 +15,8 @@ youtube_alternate_image: /uploads/12-20-st-charles-np.jpg
 youtube_code: PyHpc52P0Jo
 ---
 
+{% include youtube.html %}
+
 I’ve lived here in St. Charles for about 20 years, and it’s where I’ve happily raised my two sons. **I absolutely recommend everyone to move here**; it’s a wonderful community with a vibrant downtown. In fact, they’ve just done all kinds of renovations and are adding restaurants, office buildings, and both two- and three-story parking garages. There are great places for shopping and other awesome businesses to stop in. There’s something for everyone in downtown St. Charles.
 
 The town runs right along the Fox River. A bike path runs along the river all the way to Batavia, and **the river is the site of various festivals throughout the year**, which include riverboats, steamboats, bands, and much, much more. We recently had our annual Thanksgiving Day Parade, where businesses, students from the high school, and all sorts of people come out to participate. It’s a fun event for everyone in the community.
