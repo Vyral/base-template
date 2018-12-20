@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-14-sell-now-np.jpg
-youtube_code: ofDtRjnxm2o
+youtube_code: 2J8GeL4OxBk
 ---
 
 {% include youtube.html %}
