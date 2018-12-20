@@ -20,7 +20,7 @@ youtube_code: TR4UZdJm0IA
 
 {% include youtube.html %}
 
-There are a lot of great things happening in our market right now, and today we’d like to give you a glimpse into how these developments will continue to play out in the coming year.
+<p style="text-align: center;"><em>There are a lot of great things happening in our market right now, and today we’d like to give you a glimpse into how these developments will continue to play out in the coming year.</em></p>
 
 As the end of 2018 draws closer, now is the perfect time for us to look ahead into what’s on the horizon for next year’s real estate market. Follow along with the video above for visuals on the data and trends we’re about to discuss.&nbsp;
 
