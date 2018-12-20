@@ -29,7 +29,7 @@ Oftentimes, we’re not happy in our daily lives. As the old saying goes, “Com
 
 If you know me, you know that I drive a 10-year-old car with 200,000 miles on it, and there’s a reason for that. It relates to a quick story I want to share with you.&nbsp;
 
-About 10 years ago, when I got my first taste of success in the real estate industry, I bought something I wanted since I was a teenager: a Porsche 911 Cabriolet. Awesome car, right? I thought it was all I needed in life to be happy, but guess what? I had it for maybe 30 days before it wore off on me.
+About 10 years ago, when I got my first taste of success in the real estate industry, I bought something I wanted since I was a teenager: a Porsche 911 Cabriolet. Awesome car, right? I thought it was all I needed in life to be happy, but guess what? I had it for maybe 30 days before my excitement wore off.
 
 {% include pullquote.html %}
 
@@ -39,4 +39,4 @@ Remember, this was a time when the economy was tanking and a lot of my friends w
 
 Speaking for myself, there was nothing more satisfying than giving out toys to all those families in need, so I want to remind you that our office is an unofficial drop-off site for Toys for Tots. If you have any toys you’d like to give away, give them to us and we’ll make sure they find their way to that great organization before the holiday season is over.&nbsp;
 
-No matter what you celebrate, I hope you have a happy holidays this year. As always, if you ever need anything from me and my team, don’t hesitate to call me. We’ll make the magic happen for you.
+No matter what you celebrate, I hope you have a happy holiday this year. As always, if you ever need anything from me and my team, don’t hesitate to call me. We’ll make the magic happen for you.
