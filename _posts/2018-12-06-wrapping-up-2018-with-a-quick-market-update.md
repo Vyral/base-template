@@ -19,7 +19,7 @@ youtube_code: n7XAhYoKvBY
 
 [% include youtube.html %]
 
-2018 was a great year for sellers, but 2019 looks to be evening things out for all.
+<p style="text-align: center;"><em>2018 was a great year for sellers, but 2019 looks to be evening things out for all.</em></p>
 
 Today we’ll be taking a quick look at our latest market, as well as share what we’re predicting for 2019.
 
