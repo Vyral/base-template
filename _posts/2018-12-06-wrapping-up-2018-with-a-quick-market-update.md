@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wrapping Up 2018 With a Quick Market Update
-date: 2018-12-06 17:59:00
+date: 2018-12-20 00:59:00
 tags:
   - Real Estate
 excerpt: >-
