@@ -10,7 +10,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Sheila+Fejeran/Texas+Real+Estate+Pro-+Happy+Holidays+From+Our+Family+to+Yours.mp4
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/12-14-merry-chirstmas-yt.jpg
 youtube_code: X12b5bzkYIg
 ---
