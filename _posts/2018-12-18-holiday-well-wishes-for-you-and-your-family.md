@@ -4,7 +4,7 @@ title: Holiday Well Wishes for You and Your Family
 date: 2018-12-18 20:10:13
 tags:
   - Real Estate
-excerpt: Happy holidays to you!
+excerpt: Happy Holidays to you!
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+happy+holidays.mp4
 pullquote:
@@ -17,7 +17,7 @@ youtube_code: kV73t9iJWuY
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Happy holidays to you!</em></p>
+<p style="text-align: center;"><em>Happy Holidays to you!</em></p>
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
