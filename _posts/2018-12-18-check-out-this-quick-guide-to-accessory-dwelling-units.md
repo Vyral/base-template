@@ -11,7 +11,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+Out+This+Quick+Guide+to+Accessory+Dwelling+Units.mp4
 pullquote: >-
-  Our team would be happy to assist you are curious about how to pursue this
+  Our team would be happy to assist if you are curious about how to pursue this
   option.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,6 +32,6 @@ If you’re interested in making some extra money through real estate investing,
 
 {% include pullquote.html %}
 
-If you so choose, you can charge rent for those living in your ADU, as we mentioned earlier. So, in the light of recent legislation pertaining to this subject, our team would be happy to assist you are curious about how to pursue this option.
+If you so choose, you can charge rent for those living in your ADU, as we mentioned earlier. So, in the light of recent legislation pertaining to this subject, our team would be happy to assist if you are curious about how to pursue this option.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
