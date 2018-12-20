@@ -32,7 +32,7 @@ Also, while the rate of appreciation is projected to vary by location, **there i
 
 But what about mortgage rates? Actually, these are on the rise as well. Some believe interest rates could jump by half a percent in 2019, so now may be the ideal time to act if you’re looking to lock in a favorable rate.&nbsp;
 
-Overall affordability is always a major concern for buyers in our market, but there is good news ahead for those thinking of making a move. A buyer planning to purchase a property at this time next year would have a slightly higher monthly payment than if they bought a home today, but, if we adjust the statistics for inflation, would still be paying less than if they had bought a buyer in mid-2006. The point this illustrates is that **buying is now favorable to renting from a financial standpoint.** It is not only less expensive to purchase a home than to rent one, it is also a better investment in general, given that it allows you to build equity.&nbsp;
+Overall affordability is always a major concern for buyers in our market, but there is good news ahead for those thinking of making a move. A buyer planning to purchase a property at this time next year would have a slightly higher monthly payment than if they bought a home today, but, if we adjust the statistics for inflation, would still be paying less than if they had bought a home in mid-2006. The point this illustrates is that **buying is now favorable to renting from a financial standpoint.** It is not only less expensive to purchase a home than to rent one, it is also a better investment in general, given that it allows you to build equity.&nbsp;
 
 {% include pullquote.html %}
 
