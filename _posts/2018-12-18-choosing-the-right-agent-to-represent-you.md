@@ -24,7 +24,7 @@ youtube_code: xOQhM2RkAOo
 
 How do you find the right agent to represent you? There are a few tips to take into consideration.
 
-Oftentimes, I’ll hear people tell me they hired their agent because they liked them as a person. There’s nothing wrong with hiring a likable agent, but your home is one of the biggest purchases you’ll ever make, so choosing the person who will guide you through this purchase should depend on more than just whether you like them or not.
+Oftentimes, I’ll hear people tell me they hired their agent because they liked them as a person. There’s nothing wrong with hiring a likable agent, but a home is one of the biggest purchases you’ll ever make, so choosing the person who will guide you through this purchase should depend on more than just whether you like them or not.
 
 Experience, for instance, is an important factor, and a lot of people prefer to hire an agent who has a lot of experience. **You need to be careful when gauging an agent’s experience, though, because that goes beyond just how many years they’ve been in the business.** The number of years they’ve been an agent doesn’t automatically correlate with how effective they’ll be in a transaction. &nbsp;
 
