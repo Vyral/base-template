@@ -16,4 +16,4 @@ youtube_code: x6ht1dcq30M
 
 {% include youtube.html %}
 
-Today we wanted to wish you Merry Christmas and happy holidays. Thank you for everything you’ve done for us throughout 2018—we wouldn’t be where we are without you. We hope you’re able to share and receive plenty of joy with those you care about this holiday season. Though the holidays can sometimes be overwhelming, we hope you don’t become discouraged and can instead focus on the moments you have with friends, family, and loved ones. Thank you again for everything, and we hope you have a wonderful holiday. We’ll see you next year!
+We want to wish you a Merry Christmas and happy holidays! Thank you for everything you’ve done for us throughout 2018—we wouldn’t be where we are without you. We hope you’re able to share and receive plenty of joy with those you care about this holiday season. We’ll see you next year!&nbsp;
