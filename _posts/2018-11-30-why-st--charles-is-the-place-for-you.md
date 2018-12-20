@@ -23,7 +23,7 @@ Hotel Baker is a beautiful historic building built right along the Fox River. Wi
 
 Did I mention the outstanding school districts? Park District is truly exceptional.
 
-> There’s something for everyone in downtown St. Charles.
+> ## "There’s something for everyone in downtown St. Charles."
 
 Additionally, I’m so proud to represent JRH properties, LLC, and the fine homes that they build. Recently, **they’ve built a beautiful, 150 homesite subdivision on the west side of St. Charles that you just have to see.** Each property is anywhere from a half-acre to an acre, and almost all of them are backed with some type of open space. Much of this greenspace is tree-lined and has bike paths, lakes, and ponds. It’s absolutely gorgeous.
 
