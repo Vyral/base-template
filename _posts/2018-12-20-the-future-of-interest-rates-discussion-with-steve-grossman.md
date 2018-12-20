@@ -36,6 +36,8 @@ If interest rates rise 0.25% to 0.5%, what does that mean for buyers? For exampl
 
 The message here is that **things aren’t all so bad**. Bear in mind that interest rates are still historically very low right now. It’s down to the consumer to decide whether or not that $250 extra each month would be a manageable expense. If the rates do rise, people will likely go back to an adjustable-rate mortgage to keep their payments in a feasible range. Remember: What goes up will eventually come down, and at that point, you’ll have an opportunity to refinance.
 
+{% include pullquote.html %}
+
 Since rates are still historically low, this might provide some opportunities with ARMs. At the very least, they’re worth considering, depending on the size of the loan, how long someone plans to live in that house, and what their risk tolerance is.
 
 Sometimes during a transaction, a seller will look at a buyer’s down payment and think that a higher down payment means that the buyer is more qualified. Is this an accurate way to think?<br><br>Not necessarily, says Steve. All other things being equal, you have to consider whether or not the buyer’s credit is good, if their debt-to-income ratio is reasonable, and so on. The seller, in many instances, feels that if the house under-appraises, the buyer with a 30% down payment is still going to buy the house, but that doesn’t mean that the buyer won’t want to renegotiate. It’s the same with someone putting down 20%—**you can’t just look at their down payment, but also their creditworthiness**. You also need to recognize that there will always be a value concern on the buyer’s part, regardless of a buyer’s down payment size.
@@ -47,5 +49,3 @@ Local lenders also tend to work with local appraisers. These appraisers are fami
 I’m so thankful that Steve took the time to join me today for this discussion. If you would like to contact Steve with any questions you have about mortgages or interest rates, he can be reached at (800) 908-005 (ext: 7102) or at steve-notifications@njlenders.com.
 
 For any other real estate questions you have, don’t hesitate to reach out to the Stacy Esser Group. We would love to speak with you.
-
-{% include pullquote.html %}
