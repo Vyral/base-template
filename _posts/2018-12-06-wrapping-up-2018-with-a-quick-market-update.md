@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: n7XAhYoKvBY
 ---
 
-[% include youtube.html %]
+{% include youtube.html %}
 
 <p style="text-align: center;"><em>2018 was a great year for sellers, but 2019 looks to be evening things out for all.</em></p>
 
@@ -29,7 +29,7 @@ As the year progressed, interest rates were on the rise. This has led to homes s
 
 If you’re currently in the market to buy a home, know that it’s currently a buyer’s market in these winter months. Homes that have been on the market for more than 60 days are an opportunity for you to find and negotiate a great deal.
 
-[% include pullquote.html %]
+{% include pullquote.html %}
 
 If you’re a seller, homes are still being sold successfully. However, you’ll need to make sure your home is in excellent condition, as well as appropriately priced.
 
