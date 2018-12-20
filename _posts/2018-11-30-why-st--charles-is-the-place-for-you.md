@@ -27,9 +27,9 @@ Did I mention the outstanding school districts? Park District is truly exception
 
 > ## "There’s something for everyone in downtown St. Charles."
 
-Additionally, I’m so proud to represent JRH properties, LLC, and the fine homes that they build. Recently, **they’ve built a beautiful, 150 homesite subdivision on the west side of St. Charles that you just have to see.** Each property is anywhere from a half-acre to an acre, and almost all of them are backed with some type of open space. Much of this greenspace is tree-lined and has bike paths, lakes, and ponds. It’s absolutely gorgeous.
+Additionally, I’m so proud to represent JRH Properties, LLC, and the fine homes that they build. Recently, **they’ve built a beautiful 150-homesite subdivision on the west side of St. Charles that you just have to see.** Each property is anywhere from a half-acre to an acre, and almost all of them are backed with some type of open space. Much of this greenspace is tree-lined and has bike paths, lakes, and ponds. It’s absolutely gorgeous.
 
-Though they primarily build in St. Charles and Glen Ellyn, **they’ve also built a series of beautiful custom homes that are typically 5,000 square feet or more and fall into the million-dollar price range.** The work on these properties is absolutely exceptional; the features and craftsmanship is state-of-the-art.
+Though they primarily build in St. Charles and Glen Ellyn, **they’ve also built a series of beautiful custom homes that are typically 5,000 square feet or more and fall into the million-dollar price range.** The work on these properties is absolutely exceptional; the features and craftsmanship are state-of-the-art.
 
 I welcome everybody to come see the three spec homes we have available right now for occupancy. The kitchens will just knock your socks off if the rest of the houses don’t first.
 
