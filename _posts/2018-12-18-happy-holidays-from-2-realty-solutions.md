@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Your support this year has meant the world to us. Happy holidays!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+West+Coast-+Happy+Holidays.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+_+2+Percent+West+Coast-+happy+holidays.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Q3vi6QusKWU
+youtube_code: G0RWRAY4oCY
 ---
 
 {% include youtube.html %}
