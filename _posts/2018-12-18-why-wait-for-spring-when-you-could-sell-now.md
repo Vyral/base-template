@@ -22,7 +22,7 @@ youtube_code: T2i2arXYoRg
 
 &nbsp;
 
-Many people think spring is the best time to sell a home, but it’s simply not true. In fact, **January and February are great times to list your home for a few reasons**.
+**Did you know that January and February are great times to list your home?**
 
 The busyness of the holidays is over when the new year begins and potential buyers are beginning to look at homes again. Inventory is still low as well, giving you less competition and allowing your home to stand out more. Spring is when everyone who’s been waiting to sell jumps into the market, **making it an incredibly competitive situation**.
 
