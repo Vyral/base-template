@@ -23,7 +23,7 @@ youtube_code: AYkJH6tUjnM
 
 How does the foreclosure process work here in Arizona? There are a few steps involved.
 
-First, let’s review what a foreclosure is. **Banks in Arizona foreclose on properties when the homeowner stops making their mortgage payments**. Before they do so, they’ll try to work out a payment solution with the homeowner. If they can’t find a solution, they’ll file for an official foreclosure, which is a matter of public record here in Maricopa County.
+First, let’s review what a foreclosure is. **Banks in Arizona foreclose on a property when the homeowner stops making their mortgage payments**. Before they do so, they’ll try to work out a payment solution with the homeowner. If they can’t find a solution, they’ll file for an official foreclosure, which is a matter of public record here in Maricopa County.
 
 The first thing that happens is the homeowner will receive a notice of foreclosure in the mail. A foreclosure notice will also be posted on the front door of their house with the date of auction listed.
 
@@ -35,6 +35,6 @@ The auction takes places either at the steps of the county courthouse or in the 
 
 **Buying a foreclosed home at an auction is a good opportunity to make a profit, but the process is very risky**, so you need to work with a professional or at least educate yourself on the process before you do so.
 
-**If you’re a homeowner who’s facing foreclosure, keep in mind that there are plenty of ways to keep your home from being auctioned off**. Banks prefer not to foreclosure on properties, so they’d be more than happy to help you come to a solution.
+**If you’re a homeowner who’s facing foreclosure, keep in mind that there are plenty of ways to keep your home from being auctioned off**. Banks prefer not to foreclose on properties, so they’d be more than happy to help you come to a solution.
 
 If you have any questions about this or any other real estate topic or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d be glad to help.
