@@ -19,7 +19,7 @@ youtube_code: XAXXydsyOx0
 
 {% include youtube.html %}
 
-Our real estate team continues to grow, and we’re looking for some more new agents to join us.
+<p style="text-align: center;"><em>Our real estate team continues to grow, and we’re looking for some more new agents to join us.</em></p>
 
 I hope you’ve had a great 2018 and you're ready for 2019. If you didn’t quite measure up to your business goals this year and you’re really looking to get after it next year with the right plan, accountability, coaching, leads, and support, please give us a call.
 
