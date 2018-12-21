@@ -21,7 +21,7 @@ youtube_code: _H5heNrPOF4
 
 {% include youtube.html %}
 
-The new year is almost here and we’re excited about what we have planned in 2019. Here’s what you need to know.
+<center>The new year is almost here and we’re excited about what we have planned in 2019. Here’s what you need to know.</center>
 
 I just wanted to take a moment to wish you all the best for 2019, as well as share a unique idea that might make this your best year yet.
 
