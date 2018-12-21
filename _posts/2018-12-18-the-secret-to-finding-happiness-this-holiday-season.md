@@ -5,7 +5,7 @@ date: 2018-12-18 15:43:30
 tags:
   - Real Estate
 excerpt: >-
-  I recently got the change to volunteer for Toys for Tots, and the whole
+  I recently got the chance to volunteer for Toys for Tots, and the whole
   experience reminded me of the key to happiness.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/SOI/2018/Albany+Real+Estate+Agent-+toys+for+tots%252C+happiness.mp4
@@ -21,9 +21,9 @@ youtube_code: 8vVed4cOiRs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I recently got the change to volunteer for Toys for Tots, and the whole experience reminded me of the key to happiness.</em></p>
+<p style="text-align: center;"><em>I recently got the chance to volunteer for Toys for Tots, and the whole experience reminded me of the key to happiness.</em></p>
 
-I recently got the chance to ride the Toys for Tots train from Binghamton to Delance and hand out thousands of toys and other items to families in need. Helping those families was a humbling, enlightening experience, and it reminded me of an important lesson about the topic I want to address today: the pursuit of happiness.&nbsp;
+I recently got the chance to ride the Toys for Tots train from Binghamton to Delanson and hand out thousands of toys and other items to families in need. Helping those families was a humbling, enlightening experience, and it reminded me of an important lesson about the topic I want to address today: the pursuit of happiness.&nbsp;
 
 Oftentimes, we’re not happy in our daily lives. As the old saying goes, “Comparison is the thief of joy.” In other words, we’re not happy because we always want more. We look at what our neighbors have that we don’t. Over all the years I’ve worked in real estate and the hundreds of clients I’ve met with, I’ve learned that **we tend to spend the first half of our lives acquiring things, and the second half getting rid of things we don’t need.&nbsp;**
 
