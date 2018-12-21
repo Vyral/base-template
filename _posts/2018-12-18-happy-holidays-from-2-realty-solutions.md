@@ -22,5 +22,3 @@ youtube_code: G0RWRAY4oCY
 From our house to yours, we wanted to make sure to wish you the best this holiday season. Merry Christmas and happy holidays to you and your family.
 
 We appreciate all of your support during 2018. We couldn’t have been here without you. Take time to enjoy this time with your friends, family, and loved ones, and we look forward to seeing you in 2019.
-
-&nbsp;
