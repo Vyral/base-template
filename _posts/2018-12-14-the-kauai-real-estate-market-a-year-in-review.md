@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: U_at3IPIAAg
+youtube_code: 9PVSXnFuL3Q
 ---
 
 {% include youtube.html %}
@@ -32,6 +32,6 @@ As we close out the year, how is the Kauai real estate market? We’ll be explor
 
 3:50 - How our area’s “micro markets” differ
 
-4:50 - Is our market beginning to shift?&nbsp;
+4:50 - Is our market beginning to shift? 
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
