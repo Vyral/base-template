@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Kauai Real Estate Market: A Year in Review'
-date: 2018-12-14 16:51:08
+date: 2018-12-14 16:51:00
 tags:
   - Real Estate
   - Market Update
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ZlDrPDI-W5I
+youtube_code: U_at3IPIAAg
 ---
 
 {% include youtube.html %}
