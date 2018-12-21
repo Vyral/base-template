@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why St. Charles Is The Place For You
+title: Why St. Charles is The Place for You
 date: 2018-11-30 21:09:00
 tags:
 excerpt: >-
@@ -33,4 +33,4 @@ Though they primarily build in St. Charles and Glen Ellyn, **they’ve also buil
 
 I welcome everybody to come see the three spec homes we have available right now for occupancy. The kitchens will just knock your socks off if the rest of the houses don’t first.
 
-If you have any questions about the properties available for purchase or about why St. Charles is such a fantastic place to make a home, please reach out to me. I’d love to speak with you.<br>&nbsp;
+If you have any questions about the properties available for purchase or about why St. Charles is such a fantastic place to make a home, please reach out to me. I’d love to speak with you.<br>
