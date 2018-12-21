@@ -24,18 +24,14 @@ As we close out the year, how is the Kauai real estate market? We’ll be explor
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
-0:54 - Was 2018 a buyer or seller’s market?
+0:55 - Was 2018 a buyer or seller’s market?
 
 1:51 - Explaining this year’s absorption rate and inventory levels
 
 3:00 - How market statistics for the island have changed since last year
 
-3:44 - How our area’s “micro markets” differ
+3:50 - How our area’s “micro markets” differ
 
-5:21 - Is our market beginning to shift? If so, what does this mean moving forward?
-
-6:54 - Is now a good time to buy on Kauai?
-
-7:07 - Is now a good time to sell on Kauai?
+4:50 - Is our market beginning to shift?&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
