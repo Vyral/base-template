@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Happy Holidays to you!
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+happy+holidays.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2018/Kelly+Cook+Real+Estate+Group-+merry+christmas+12.21.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kV73t9iJWuY
+youtube_code: sydMhoZfmQ4
 ---
 
 {% include youtube.html %}
