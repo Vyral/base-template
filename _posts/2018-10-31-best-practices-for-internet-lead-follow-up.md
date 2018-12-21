@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Tips For Improving Your Online Lead Conversion Rate
+title: Best Practices For Internet Lead Follow-Up
 tags:
   - Lead Conversion
 excerpt: >-
@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: njJTGOu8qG4
+youtube_alternate_image: /uploads/12-20-follow-up-np.jpg
+youtube_code: 1BhHJI3VejQ
 ---
 
 {% include youtube.html %}
