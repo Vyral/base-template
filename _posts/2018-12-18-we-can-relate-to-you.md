@@ -21,7 +21,7 @@ youtube_code: 6v9OHJX5wVA
 
 {% include youtube.html %}
 
-I heard a commercial for a local attorney the other day. In his advertisement, he explains how he can better serve auto-accident victims because he has been in tragic accidents, himself. I thought to myself, “This seems similar to what you should look for your real estate agent.”
+I heard a commercial for a local attorney the other day. In his advertisement, he explains how he can better serve auto-accident victims because he has been in tragic accidents, himself. I thought to myself, “This seems similar to what you should look for in your real estate agent.”
 
 Think about it: **Don’t you want an agent who understands the struggle of searching for a home to buy or trying to sell your home for an adequate price?**
 
@@ -29,7 +29,7 @@ Our team has experienced homeownership and the buying and selling process oursel
 
 {% include pullquote.html %}
 
-The next time you’re searching for an agent, pick one who has gone through it themselves. Pick one who knows what it’s like to be inconvenienced, to negotiate, and to come out of the process in one piece. **They’ll know how you deserve to be treated and know how to help you.**
+The next time you’re searching for an agent, pick one who has gone through it themselves. Pick one who knows what it’s like to be inconvenienced, how to negotiate, and how to come out of the process in one piece. **They’ll know how you deserve to be treated and how to help you.**
 
 If you’re looking for an experienced agent, have any questions, or need more information, feel free to reach out to us. We look forward to helping you.
 
