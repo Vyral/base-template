@@ -29,8 +29,6 @@ The first half of the year was extremely strong and on track to exceed the units
 
 A lot of people have been asking me if we’re seeing a correction in our market—we are! We’ve seen excess appreciation over the last several years, but now it’s beginning to normalize. This isn’t a bad thing. We’re not seeing prices decrease or anything—we actually anticipate a 4% to 6% increase in appreciation over the next year.
 
-People have been seeing their homes stay on the market for longer, and some homes aren’t selling at all. **This has been the case in our market as a whole.** However, our team’s average days on market still remains at 10 days and our listing price to sale price ratio is still at 100%.
+People have been seeing their homes stay on the market for longer, and some homes aren’t selling at all. **This has been the case in our market as a whole.** However, our team’s average days on market remains at 10, and our listing-to-sale price ratio is still at 100%.&nbsp;
 
-If you need any real estate advice, have questions, or would like some more information, feel free to reach out to us. We look forward to helping you! In the meantime, happy holidays!
-
-&nbsp;
+If you need any real estate advice, have questions, or would like some more information, feel free to reach out to us. We look forward to helping you! In the meantime, Happy Holidays!
