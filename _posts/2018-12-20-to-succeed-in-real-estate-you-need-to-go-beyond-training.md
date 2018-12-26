@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'To Succeed in Real Estate, You Need to Go Beyond Simple Training'
+title: 'To Succeed in Real Estate, You Need to Go Beyond Training'
 date: 2018-12-20 00:00:00
 tags:
   - Real Estate
