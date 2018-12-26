@@ -20,7 +20,7 @@ youtube_code: QLQ_s8e7mDE
 
 Why did renowned real estate coach and trainer Ginni Field recently join the Keller Williams team?
 
-She says that, previously in her career, it wasn’t the right time to join. She stepped down from brokerage management in 2009, though, and she’s always been a student of the industry, which led her to KW.  
+She says that previously in her career, it wasn’t the right time to join. She stepped down from brokerage management in 2009, though, and she’s always been a student of the industry, which led her to KW. &nbsp;
 
 “I spend at least two to three hours a week, on average, just studying trends, watching what’s happening, and seeing where things are going,” she says, “and I think Keller has evolved into a strong player in a changing market.”
 
