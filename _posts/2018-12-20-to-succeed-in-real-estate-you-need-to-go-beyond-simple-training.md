@@ -31,8 +31,8 @@ Speaking of that, the next component is our **business-building classes.** Lead 
 
 Beyond that, we provide peer support, or what we call **accountability.** We run business development groups that include a heavy dose of peer accountability. A lot of agents hear the word “accountability” and think someone’s going to reprimand them if they don’t keep their commitments, but we see accountability as just holding up a mirror so you can see yourself as you are and reflect honestly about the commitments you’ve made to yourself.
 
-The fourth and final component of this program is **24/7 access to all of these tools.** We film all of our classes and broadcast them on our Youtube channel so agents can access this material any time they need to.
+The fourth and final component of this program is **24/7 access to all of these tools.** We film all of our classes and broadcast them on our Youtube channel so agents can access this material anytime they need to.
 
-You might’ve noticed that I didn’t mention broker support because that’s my job. My passion is to help you access all components of this program so you can take your business to any level you desire.
+You might’ve noticed that I didn’t mention broker support, because that’s my job. My passion is to help you access all components of this program so you can take your business to any level you desire.
 
 If you have any questions about this program or you’d like to sit down for a free, no-obligation business consultation, give me a call or send me an email. I’d love to help you.
