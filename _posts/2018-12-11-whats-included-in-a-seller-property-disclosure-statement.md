@@ -21,7 +21,7 @@ youtube_code: bTEpP14tk3w
 
 {% include youtube.html %}
 
-The seller property disclosure statement protects both sellers and buyers from problems down the road.
+<p style="text-align: center;"><em>The seller property disclosure statement protects both sellers and buyers from problems down the road.</em></p>
 
 Today we’ll be discussing what the seller property disclosure statement is, as well as what’s included in one.&nbsp;
 
