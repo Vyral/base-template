@@ -21,7 +21,7 @@ youtube_code: 5k_f1V7fDXc
 
 {% include youtube.html %}
 
-*If you’ve been wondering what’s going on in our real estate market as of late, then you won’t want to miss this end-of-the-year update.*
+<p style="text-align: center;"><em>If you’ve been wondering what’s going on in our real estate market as of late, then you won’t want to miss this end-of-the-year update.</em></p>
 
 It’s time for our end-of-the-year market update. Along with sharing some developments from our market, I’d also like to enlighten you as to some exciting news from the mortgage industry.&nbsp;
 
