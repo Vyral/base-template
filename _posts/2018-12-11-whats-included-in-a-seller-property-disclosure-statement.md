@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Included in a Seller Property Disclosure Statement
-date: 2018-12-11 21:13:00
+date: 2018-12-26 00:13:00
 tags:
   - Market Update
 excerpt: >-
