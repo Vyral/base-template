@@ -21,4 +21,4 @@ youtube_code: 5_6pqUKkD_8
 
 {% include youtube.html %}
 
-I hope you enjoy this gorgeous aerial tour of everything our area has to offer, from Crystal Beach in Destin all the way to Rosemary Beach on East 30 A. It’s easy to see why people love Northwest Florida's Gulf Coast. The clarity of our water, the white sandy beaches, and the southern charm makes this place incredibly special. I was born and raised here and there is truly no place like home.
+I hope you enjoy this gorgeous aerial tour of everything our area has to offer, from Crystal Beach in Destin all the way to Rosemary Beach on East 30 A. It’s easy to see why people love Northwest Florida's Gulf Coast. The clarity of our water, the white sandy beaches, and the southern charm make this place incredibly special. I was born and raised here and there is truly no place like home.
