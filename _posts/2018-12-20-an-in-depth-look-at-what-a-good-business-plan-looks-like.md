@@ -20,4 +20,4 @@ youtube_code: _TSGZS9r2ZY
 
 {% include youtube.html %}
 
-A business plan can be difficult to come up with, especially when you’re new to real estate. Tina recently taught a class on business planning, and we’re excited to bring that class to you in its entirety. Not only did she discuss some best practices for business planning, but she also discussed prospecting, lead conversion, and much more. This is a great video for anybody who is looking to make a big splash in the real estate business.
+A business plan can be difficult to come up with, especially when you’re new to real estate. Our team specialist, Tina Hivnor, recently taught a class on business planning, and we’re excited to bring that class to you in its entirety. Not only did she discuss some best practices for business planning, but she also discussed prospecting, lead conversion, and much more. This is a great video for anybody who is looking to make a big splash in the real estate business.
