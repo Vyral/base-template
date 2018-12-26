@@ -3,15 +3,19 @@ layout: post
 title: 'Happy New Year, and Have a Wonderful 2019'
 date:
 tags:
-excerpt:
-enclosure:
+excerpt: Happy New Year!
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+Happy+New+Year%2C+and+Have+a+Wonderful+2019.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/12-26-new-year-np.jpg
+youtube_code: OVXRJeZQxYw
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+Today I want to wish you and your family a happy new year and hope you have a wonderful 2019. It was fantastic working with you in 2018, and I want to thank you for all of your support. I look forward to talking to you soon!
+
+&nbsp;
