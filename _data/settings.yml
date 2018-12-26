@@ -7,7 +7,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Tarrant County Eats
-    url: http://www.tarrantcountyeats.com
+    url: 'http://www.tarrantcountyeats.com'
 client:
   name: John Teixeira
   license_number:
@@ -22,12 +22,12 @@ client:
   brand: Teixeira Realty Group
   brokerage: RE/MAX
   address: '1301 North Hwy 287 Unit 103<br>Mansfield, TX 76063'
-  phone: 817-637-4658
+  phone: (817) 637-4658
   phone_type:
   phone2:
   phone2_type:
   email: john@trgdfw.com
-  url: 'http://www.johnteixeira.com'
+  url: 'http://johnteixeira.com/'
 ctas:
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://www.trgdfw.com/evaluation'
