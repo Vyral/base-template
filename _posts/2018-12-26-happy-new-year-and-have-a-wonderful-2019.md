@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Happy New Year, and Have a Wonderful 2019'
-date:
+date: 2018-12-26 18:52:36
 tags:
 excerpt: Happy New Year!
 enclosure: >-
