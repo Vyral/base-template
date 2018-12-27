@@ -19,7 +19,7 @@ youtube_code: erqbOT4Hd7I
 
 {% include youtube.html %}
 
-Today we’ll be going over our latest market numbers, as well as recapping what we’ve seen throughout the year.
+Today we’ll be going over our latest market numbers, as well as recap what we’ve seen throughout the year.
 
 2018 had an incredible start with a limited amount of inventory, record-breaking prices, and multiple-offer situations for nearly every property sold.
 
