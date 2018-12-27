@@ -18,4 +18,4 @@ youtube_code: PoNSY-cWnG0
 
 For this episode of Tarrant County Eats, we sat down with Chef Quincy of Twisted Root Burger Co. in Mansfield. He shares the history of the restaurant, shows us the process of making the perfect burger, and informs us on what makes their burgers different.
 
-To find out more about their menu and hours, call (817) 435-8414 or [visit their website](https://www.twistedrootburgerco.com/locations/mansfield){: target="_blank"} today!
+To find out more about their menu and hours, call **(817) 435-8414** or **[visit their website](https://www.twistedrootburgerco.com/locations/mansfield){: target="_blank"}** today!
