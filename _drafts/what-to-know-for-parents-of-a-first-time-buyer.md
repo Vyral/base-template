@@ -22,7 +22,7 @@ youtube_code: RaZ9je8SQq4
 
 {% include youtube.html %}
 
-Most millennials face some financial difficulties buying their first home. If you’re the parent of one, here’s how (and why) you should help them do so.
+<center>Most millennials face some financial difficulties buying their first home. If you’re the parent of one, here’s how (and why) you should help them do so.</center>
 
 You’re the parent of a millennial who’s looking to become a first-time homebuyer. The problem is that your millennial doesn’t quite have the financial wherewithal to independently purchase a home.
 
