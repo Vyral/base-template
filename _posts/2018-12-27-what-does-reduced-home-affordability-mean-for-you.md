@@ -26,11 +26,11 @@ Home affordability is shrinking rapidly, according to research by Arch Mortgage 
 
 In the first quarter, affordability (defined as the size of the monthly mortgage payment needed to buy a home) dropped by 5%. **This was mainly due to the increase in mortgage rates.** As a consequence, more people are now stretched and taking on greater debt relative to their income. Other buyers are being pushed out of the market altogether.&nbsp;
 
+{% include pullquote.html %}
+
 And that's not all: **Affordability is expected to drop an additional 15% to 20% by the end of the year.** That's because home prices continue to rise, and the Federal Reserve is expected to ratchet up its reference interest rate, which often leads mortgage rates, two more times this year.
 
 What does this mean for you?
-
-{% include pullquote.html %}
 
 If you're looking to sell, **you won't have a hard time finding a buyer**. Even with decreasing affordability, demand for homes still far outstrips supply. However, it’s certain that buyers will look to take advantage of current conditions before affordability drops further. That means that this spring and summer might see an additional rush on the real estate market. It also means that **right now might be a very good time to list your home** if you've been thinking about selling for a while.
 
