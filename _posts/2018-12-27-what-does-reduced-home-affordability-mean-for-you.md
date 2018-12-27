@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image: /uploads/12-27-drop-np.jpg
-youtube_code: FBArkg3EZdo
+youtube_code: xW1E1v_uSy0
 ---
 
 {% include youtube.html %}
