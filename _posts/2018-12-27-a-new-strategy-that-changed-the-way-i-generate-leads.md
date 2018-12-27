@@ -19,7 +19,7 @@ youtube_code: k-vvSAMSyvo
 
 {% include youtube.html %}
 
-I take training seriously in my career. Here’s a look at some of the best training I received this year.
+<p style="text-align: center;"><em>I take training seriously in my career. Here’s a look at some of the best training I received this year.</em></p>
 
 I’m here today to answer the question, “What’s the best sales training I learned this year?”&nbsp;
 
