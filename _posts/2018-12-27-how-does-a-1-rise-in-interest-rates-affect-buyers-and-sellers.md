@@ -21,7 +21,7 @@ youtube_code: YCxJNG4p7ZY
 
 {% include youtube.html %}
 
-Today I’ll be covering the topic of interest rates and giving you a rundown of what a 1% uptick in rates will mean for both buyers and sellers.
+<p style="text-align: center;"><em>Today I’ll be covering the topic of interest rates and giving you a rundown of what a 1% uptick in rates will mean for both buyers and sellers.</em></p>
 
 Interest rates are on the rise. It’s important to understand the overall impact this has on our market.&nbsp;
 
