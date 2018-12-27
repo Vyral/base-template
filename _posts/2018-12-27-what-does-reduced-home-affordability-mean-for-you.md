@@ -5,11 +5,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  Home affordability is shrinking fast. Here’s what you should do to get ahead
+  of the curve.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+What+Does+Reduced+Home+Affordability+Mean+for+You_.mp4
 pullquote: There’s no need to panic if you’re a homebuyer.
