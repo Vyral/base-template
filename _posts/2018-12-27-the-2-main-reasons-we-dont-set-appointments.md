@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 2 Main Reasons We Don’t Set Appointments
-date:
+date: 2018-12-27 18:45:35
 tags:
   - Outbound
 excerpt: >-
