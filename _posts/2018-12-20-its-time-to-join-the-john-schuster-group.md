@@ -21,6 +21,8 @@ youtube_code: niFRnPBI5Qs
 
 {% include youtube.html %}
 
+Click here to join our team:&nbsp;[http://www.johnschustergroup.com/join-our-team.php](http://www.johnschustergroup.com/join-our-team.php){: target="_blank"}
+
 We’ve got an important message for all of you today: We need your help!
 
 The John Schuster Group has more leads than we can handle, and we need hardworking real estate professionals to help us share the load.&nbsp;
