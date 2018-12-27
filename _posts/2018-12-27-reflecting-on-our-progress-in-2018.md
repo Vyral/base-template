@@ -29,6 +29,6 @@ Beyond that, there were a few other points from 2018 that I’m excited to share
 * We gave away over $50,000 in Lux scholarships, for which agents who are coming on tough times can apply.
 * We were also recognized by the International Property Award as not only one of the best consulting businesses for agents looking to sell high-end properties in the nation but also globally.
 
-For the Luxury Listing Specialists, it was truly a great year, and we hope that yours was just as momentous.
+**For the Luxury Listing Specialists, it was truly a great year, and we hope that yours was just as momentous.**
 
 {% include pullquote.html %}<br><br>If you have any questions or would like more information, feel free to reach out to me. Otherwise, for some great content, check out our Luxury Listing podcasts at [www.luxurylisting.podbean.com](http://www.luxurylisting.podbean.com){: target="_blank"}. Until then, like I always say: Prove them wrong, continue to raise the bar, and remember—it’s not the market, it’s the marketing. Here’s to another great year ahead in 2019!
