@@ -10,7 +10,7 @@ enclosure: >-
 pullquote: 'Hiring an assistant was not an expense, but rather an investment.'
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/10-17-first-hire-np.jpg
 youtube_code: 6GDsUMG9Z74
 ---
