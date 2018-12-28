@@ -2,7 +2,6 @@
 layout: post
 title: Making Your First Hire
 tags:
-  - Real Estate
 excerpt: >-
   If you want to grow your career and generate more income, you should hire an
   assistant sooner rather than later.
@@ -13,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-17-first-hire-np.jpg
-youtube_code: Fe4KoRRusMc
+youtube_code: 6GDsUMG9Z74
 ---
 
 {% include youtube.html %}
 
-When should you hire your first assistant? &nbsp;
+When should you hire your first assistant?  
 
 This question reminds me of the first time I read Gary Keller’s book “The Millionaire Real Estate Agent” back in 1994. There’s a section in the back called “A Snapshot of a Millionaire Agent” where various millionaire agents speak on the record about their failures, motivations, and keys to success. **A common theme among their keys to success was hiring an assistant early**—some of them within their first year. Another common theme among their list of failures was not hiring an assistant their first year.
 
