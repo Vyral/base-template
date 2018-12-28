@@ -23,3 +23,5 @@ We just wanted to take a moment to thank you for your continued support. We love
 This may be a busy time of year, but we are always here to help you and answer any questions you may have. Just give us a call or reply to this email.
 
 And in case we don’t hear from you, have a happy New Year as well!
+
+[https://starteamrealestate.com/contact](https://starteamrealestate.com/contact){: target="_blank"}
