@@ -22,7 +22,7 @@ youtube_code: zjgRcnEdxDA
 
 {% include youtube.html %}
 
-A lot of people have asked me recently as to whether buyers can take possession of a property before closing. Actually, they can, and I’m going to explain how today.
+<p style="text-align: center;"><em>A lot of people have asked me recently as to whether buyers can take possession of a property before closing. Actually, they can, and I’m going to explain how today.</em></p>
 
 I’ve had a few different people ask me recently about pre-occupancy agreements. Since I’ve been hearing questions on this subject so frequently, I thought I’d offer some insight for all of you today.&nbsp;
 
