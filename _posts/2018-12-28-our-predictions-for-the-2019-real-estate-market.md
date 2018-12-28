@@ -22,7 +22,7 @@ youtube_code: bL9aeualHxg
 
 {% include youtube.html %}
 
-Here we are at the end of 2018! Today we’ll be discussing our 2019 real estate predictions.
+<p style="text-align: center;"><em>Here we are at the end of 2018! Today we’ll be discussing our 2019 real estate predictions.</em></p>
 
 As we all know, in 2018, the markets were very, very good. In the past few weeks, we’ve seen a shift in the market, and **we expect that to remain a continuing trend moving into 2019.** The driving forces behind that shift are mortgage rates, which were changed by the Fed fund rate. Rates were increased a couple of times in 2018, and by the time this article gets to you, they might have increased yet another time. Rates are also expected to increase as 2019 progresses.
 
