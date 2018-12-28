@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Merry Christmas and Happy Holidays
-date: 2018-12-20 21:59:19
+title: Merry Christmas and a Happy New Year
+date: 2018-12-20 21:59:00
 tags:
   - Real Estate
 excerpt: Holiday well wishes for you and your family
