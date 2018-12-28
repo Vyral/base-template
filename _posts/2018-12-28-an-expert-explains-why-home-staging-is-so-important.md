@@ -7,8 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Today I’m joined by professional home stager Michael Siva to talk about why
-  staging your home is paramount if you want to sell it quickly and for top
-  dollar.
+  staging your home is paramount if you want to sell it quickly.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Rick+Canale/Videos/Rick+Canale+-+An+Expert+Explains+Why+Home+Staging+Is+So+Important.mp4
 pullquote: >-
@@ -25,16 +24,16 @@ youtube_code: imCtyYHMbVg
 
 <center><em>Today I&rsquo;m joined by professional home stager Michael Siva to talk about why staging your home is paramount if you want to sell it quickly and for top dollar.</em></center>
 
-&nbsp;
+ 
 
 One of the keys to selling your home quickly and for top dollar is getting it professionally staged. With that in mind, I’ve invited professional home stager Michael Siva to sit down with me today and explain why this is.
 
-**For your convenience, I’ve provided timestamps of our conversation so that you can jump ahead to the section(s) that interest you the most:&nbsp;**
+**For your convenience, I’ve provided timestamps of our conversation so that you can jump ahead to the section(s) that interest you the most: **
 
-1:22 - The statistics that prove the value of home staging<br>2:34 - How staging appeals to homebuyers<br>4:21 - The importance of staging a home correctly&nbsp;<br>5:27 - Why staging is essentially a marketing tool<br>8:44 - What a staging consultation looks like<br>9:55 - Why a staged home needs to appeal to as many people as possible
+1:22 - The statistics that prove the value of home staging<br>2:34 - How staging appeals to homebuyers<br>4:21 - The importance of staging a home correctly <br>5:27 - Why staging is essentially a marketing tool<br>8:44 - What a staging consultation looks like<br>9:55 - Why a staged home needs to appeal to as many people as possible
 
 {% include pullquote.html %}
 
-If you have any more home staging questions for Michael, you can reach him by phone at **(775) 412-1515**, email him at **[staging@kdonavan.com](mailto:staging@kdonavan.com?subject=Re%3A%20Staging)**, or **[visit his website](https://kdonavan.com/){: target="_blank"}**.&nbsp;
+If you have any more home staging questions for Michael, you can reach him by phone at **(775) 412-1515**, email him at **[staging@kdonavan.com](mailto:staging@kdonavan.com?subject=Re%3A%20Staging)**, or **[visit his website](https://kdonavan.com/){: target="_blank"}**. 
 
 If you have any other real estate questions or you’re thinking of buying or selling a home, don’t hesitate to give me a call or message me on my website. I’d love to help you.
