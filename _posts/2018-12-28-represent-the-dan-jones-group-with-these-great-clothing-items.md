@@ -19,7 +19,7 @@ youtube_code: JDgDtYbLE5Q
 
 {% include youtube.html %}
 
-Will you be among the lucky few who receive some Dan Jones Team apparel? Email us and see!
+<p style="text-align: center;"><em>Will you be among the lucky few who receive some Dan Jones Team apparel? Email us and see!</em></p>
 
 We have some new apparel we’ll be giving away for clients’ home closings, but we’d love to give you the chance to get some of these great clothing items in the meantime.
 
