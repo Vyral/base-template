@@ -8,7 +8,7 @@ excerpt: >-
   If you’re a homebuyer, is it a good idea to buy your house through a listing
   agent? Probably not, and here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Tracy%2C+CA+Real+Estate+Buyer's+Specialists+vs+Listing+Agents.mp4
+  "https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Tracy%2C+CA+Real+Estate+Buyer's+Specialists+vs+Listing+Agents.mp4"
 pullquote: >-
   You want your own representation, and you want that person to fight on your
   behalf.
