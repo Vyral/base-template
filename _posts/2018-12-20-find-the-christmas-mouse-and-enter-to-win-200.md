@@ -24,4 +24,6 @@ This may be a busy time of year, but we are always here to help you and answer a
 
 And in case we don’t hear from you, have a happy New Year as well!
 
+If you've spotted the Christmas Mouse, click the link below to fill out your information.&nbsp; Let us know in the comments where you found the mouse and enter to win a 200$ gift card!
+
 [https://starteamrealestate.com/contact](https://starteamrealestate.com/contact){: target="_blank"}
