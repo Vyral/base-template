@@ -33,6 +33,6 @@ According to Jim, a large down payment would have been required to secure a loan
 
 First, you need to fill out a loan application, which can be done online or by talking with a lender over the phone or in person. This process typically only takes five to 10 minutes, and once that’s done, you’re ready to start searching for homes.
 
-If you have any more mortgage questions for Jim, you can give him a call at (208) 703-9696 or visit his website www.JimDildine.com.
+If you have any more mortgage questions for Jim, you can give him a call at (208) 703-9696 or visit his website [www.JimDildine.com.](www.jimdildine.com)
 
 As always, if you have any real estate questions for me or you’re thinking of buying or selling a home, feel free to call or email me. I’d be happy to help you.
