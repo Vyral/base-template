@@ -23,6 +23,6 @@ youtube_code: JDgDtYbLE5Q
 
 We have some new apparel we’ll be giving away for clients’ home closings, but we’d love to give you the chance to get some of these great clothing items in the meantime.
 
-The first 10 people to email Sold@MyHomeCarolinas.com with the subject line “I love Carolina Real Estate Experts” will receive their choice of a red or blue hat (one size fits all) or a grey or blue t-shirt (tell us your preferred size).
+The first 10 people to email <a href="mailto:sold@myhomecarolinas.com?subject=I love Carolina Real Estate Experts">Sold@MyHomeCarolinas.com</a> with the subject line “I love Carolina Real Estate Experts” will receive their choice of a red or blue hat (one size fits all) or a grey or blue t-shirt (tell us your preferred size).
 
 We look forward to hearing from you soon!
