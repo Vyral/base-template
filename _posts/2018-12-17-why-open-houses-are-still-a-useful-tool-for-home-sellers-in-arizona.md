@@ -24,6 +24,6 @@ Here in Arizona, though, open houses are a more productive tool for getting your
 
 Oftentimes, after when we meet with these people at an open house, we’ll start communicating with one of their Snowbelt friends and sending them information about available listings. Once they get a chance to come down here, we start showing them homes.
 
-{% include pullquote.html %}
+> There are many Snowbelt residents who only live here during the winter and actively look for available houses for their friends back home.
 
 If you have any more questions about the open houses in our market or you have any other real estate needs I can take care of, feel free to call or email me. I’d be happy to help you.
