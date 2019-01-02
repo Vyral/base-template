@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Government Shutdown & Real Estate: What You Need to Know'
-date:
+date: 2019-01-02 18:43:58
 tags:
   - Real Estate
   - Market Update
