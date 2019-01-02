@@ -20,6 +20,8 @@ youtube_code: e5A0Vn2qXAM
 
 {% include youtube.html %}
 
-<center>Knowing these key facts about condos in Myrtle Beach will save you time and money during your condo search.</center>
+<center><em>Knowing these key facts about condos in Myrtle Beach will save you time and money during your condo search.</em></center>
+
+&nbsp;
 
 If you’re interested in buying a condo in Myrtle Beach, there are a few things you should know before you start the search process that will save you a lot of time and money. First, if you’re interested in an oceanfront unit, odds are that your lender will consider that project a “condotel,” and that can drastically change the terms of the loan products available to you. Second, if you’re using an FHA or VA loan to buy your condo, you won’t be able to qualify in most neighborhoods. That’s why you need to know which communities will qualify for the loan you wish to use. Our team knows how to verify that information, and we would be happy to help you in your condo search.
