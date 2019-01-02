@@ -23,7 +23,7 @@ youtube_code: k-vvSAMSyvo
 
 I’m here today to answer the question, “What’s the best sales training I learned this year?”&nbsp;
 
-I can honestly say that we’ve trained more this year than in any of the 16 years I’ve been in business, but **I think the one topic that has helped us serve our customers on a deeper level is how to isolate objections.** This is a really good way to approach customer service and let people know what their next step is.
+I can honestly say that I have trained more this year than in any of the 16 years I’ve been in business, but **I think the one topic that has helped us serve our customers on a deeper level is how to isolate objections.** This is a really good way to approach customer service and let people know what their next step is.
 
 What does isolating an objection look like? Well, first it starts out with a written or oral consumer notice. Next, when I’m having a conversation with someone, I invite them to the office or offer to come out to their home. They might offer up an objection, such as they’re waiting until spring. To follow up, I would learn more about their process by asking what is so important about the spring to them. **This is where I might find out the real objection.** Maybe someone they trust told them to wait because they’ll get the best home.
 
