@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Does a 1% Rise in Interest Rates Affect Buyers and Sellers?
+title: What Does a Rise in Interest Rates Mean for Our Market?
 date: 2018-12-27 18:07:19
 tags:
   - Real Estate
