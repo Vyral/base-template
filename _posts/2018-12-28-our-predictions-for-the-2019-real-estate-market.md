@@ -8,7 +8,7 @@ excerpt: >-
   Here we are at the end of 2018! Today we’ll be discussing our 2019 real estate
   predictions.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Irvin/+Videos/2018/Greater+Philadelphia+Real+Estate-+2019+Predictions.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Irvin/+Videos/2019/Greater+Philadelphia+Real+Estate-+2019+predictions+(1).mp4
 pullquote: >-
   All in all, we don’t expect any huge increases or decreases in 2019. Likely,
   we’ll just be riding the highs and lows, but staying overall steady throughout
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: bL9aeualHxg
+youtube_code: lDjKGFC0rkc
 ---
 
 {% include youtube.html %}
