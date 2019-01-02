@@ -3,6 +3,8 @@ layout: post
 title: 7 Steps Homebuyers Should Take Before Purchasing in 2019
 date:
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: >-
   2019 is on our doorstep, which means many people will turn their attention to
   purchasing a new home. If you’re one of them, there are some steps to consider
