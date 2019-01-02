@@ -4,7 +4,9 @@ title: Why Open Houses Are Still a Useful Tool for Home Sellers in Arizona
 date: 2018-12-17 20:28:00
 tags:
   - Home Seller Tips
-excerpt: 'Selling your home during the holidays is a good idea, and here’s why.'
+excerpt: >-
+  Unlike the rest of the country, open houses are a productive tool for getting
+  your home sold here in Arizona.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Don+Vallee/Tucson+Real+Estate+Agent-+Why+Open+Houses+Are+Still+a+Useful+Tool+for+Home+Sellers+in+Arizona.mp4
 enclosure_type: video/mp4
