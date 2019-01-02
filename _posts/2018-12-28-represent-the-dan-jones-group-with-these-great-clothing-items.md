@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Represent the Dan Jones Group With These Great Clothing Items
+title: Represent the Dan Jones Group With This Great New Apparel
 date: 2018-12-28 17:43:22
 tags:
   - Real Estate
