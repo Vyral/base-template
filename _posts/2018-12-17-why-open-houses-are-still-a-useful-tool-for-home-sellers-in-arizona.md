@@ -14,6 +14,8 @@ youtube_alternate_image: /uploads/12-27-open-houses-yt.jpg
 youtube_code: JY2i6bkR50g
 ---
 
+{%
+
 Are open houses a good way to get your home sold?
 
 According to the National Association of Realtors, approximately 0.78% of all annual home sales occur because of an open house. That’s better than 0%, but that’s still not a very big number.
