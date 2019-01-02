@@ -8,7 +8,7 @@ excerpt: >-
   Do you want to sell your home quickly and for top dollar? We have a proven,
   marketable strategy to help you achieve your goal.
 enclosure: >-
-  "https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Tracy%2C+CA+Real+Estate+Congratulations+You're+Selling.mp4"
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Tracy%2C+CA+Real+Estate+Congratulations+Youre+Selling.mp4
 pullquote: We sell homes for 18% more than other local real estate agents.
 enclosure_type: video/mp4
 enclosure_time:
