@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Here’s what you can expect from our market next year.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+Realty+Solution-.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2018/Surrey+Real+Estate+%257C+2+Percent+Realty+Solution-+market+update.mp4
 pullquote: The BCREA projects that we’ll rebound from decreased sales next year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: pAI29uj59KE
+youtube_code: mkP59ScosaM
 ---
 
 {% include youtube.html %}
