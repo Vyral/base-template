@@ -19,7 +19,7 @@ youtube_code: s111Sj19Dgw
 
 {% include youtube.html %}
 
-We all want to shoot for perfection: an 850 credit score is the best score you can get. Although it may seem out of reach, many people do obtain it. Careful budgeting and detailed attention to every aspect of their financial picture are umbrella tactics they use to achieve and maintain that score—and you should, too.
+We all want to shoot for perfection: An 850 credit score is the best score you can get. Although it may seem out of reach, many people do obtain it. Careful budgeting and detailed attention to every aspect of their financial picture are umbrella tactics they use to achieve and maintain that score—and you should, too.
 
 If 850 is out of reach within a reasonable time frame for you to purchase your home, shoot for 750 instead. This is the magic number that many creditors and lenders are looking for. In order to eventually reach 850, here are a few tips that will help you on the way:
 
