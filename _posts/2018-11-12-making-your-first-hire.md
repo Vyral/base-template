@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-17-first-hire-np.jpg
-youtube_code: 6GDsUMG9Z74
+youtube_code: a2JNPY5Tg30
 ---
 
 {% include youtube.html %}
