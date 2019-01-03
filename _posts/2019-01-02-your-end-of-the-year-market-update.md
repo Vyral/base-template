@@ -29,7 +29,7 @@ The number of listings, though, has dropped. There were 4,031 listings this Nove
 
 Now that we’ve discussed some recent figures, let’s turn our attention to what’s on the horizon.
 
-**One major influence we can expect to impact our market in 2019 is that of rising rates.** Hovering around 5%, rates are still historically low, yet the increase from what we were seeing in the not-so-distant past has been enough to discourage some buyers from making a move.
+**One major influence we can expect to impact our market in 2019 is that of rising interest rates.** Hovering around 5%, rates are still historically low, yet the increase from what we were seeing in the not-so-distant past has been enough to discourage some buyers from making a move.
 
 Of course, certain positive developments are also projected for the new year. As an example, the Fed has raised conforming loan limits. The new limit for FHA loans will soon be $314,827—**an approximately $20,000 increase from the previous limit.**
 
