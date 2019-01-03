@@ -24,6 +24,8 @@ youtube_code: imCtyYHMbVg
 
 <center><em>Today I&rsquo;m joined by professional home stager Michael Siva to talk about why staging your home is paramount if you want to sell it quickly and for top dollar.</em></center>
 
+&nbsp;
+
 One of the keys to selling your home quickly and for top dollar is getting it professionally staged. With that in mind, I’ve invited professional home stager Michael Siva to sit down with me today and explain why this is.
 
 **For your convenience, I’ve provided timestamps of our conversation so that you can jump ahead to the section(s) that interest(s) you the most:&nbsp;**
