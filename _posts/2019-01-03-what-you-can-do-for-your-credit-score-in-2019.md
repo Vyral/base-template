@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Can Do For Your Credit Score in 2019
-date: 2019-01-03 20:15:03
+date: 2019-01-03 13:15:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: e68yMJIeAhc
 
 With the new year officially here, it’s time to think about what you can do to give your credit score a boost in 2019.
 
-First, aim high: 850 is the highest score possible, and while it may seem insurmountable, the FICO credit scale approximates that one in every 200 people achieves a perfect 850. Those who see an 850 reflected in their report are strategic in every aspect of their budgeting and financial picture—tactics we should all emulate. &nbsp;&nbsp;&nbsp;
+First, aim high: 850 is the highest score possible, and while it may seem insurmountable, the FICO credit scale approximates that one in every 200 people achieves a perfect 850. Those who see an 850 reflected in their report are strategic in every aspect of their budgeting and financial picture—tactics we should all emulate.    
 
 If you’re hoping to be in the market for a new home soon and 850 just isn’t feasible, don’t be discouraged—shoot for a 720, instead. By no means is this a major drop in score. In fact, 720 tends to be the magic number for lenders and creditors who will be vying for your business and offering you the best interest rates.
 
@@ -36,6 +36,6 @@ Don’t be afraid to refinance. If you purchased a home before your credit score
 
 Watch your credit limits. You won’t be viewed in a good light by the bank if you’ve maxed out all of your available credit; it’ll appear as though you’re not living within your means. This ranks as the second most important factor when calculating your score.
 
-Experts advise that you spend less than 30% of your limit, but be careful not to spend too little: Banks like to see an aptitude for sound financial management. Using between 10% and 20% of your limit and paying the balance down to a reasonable level is the key. &nbsp;&nbsp;&nbsp;
+Experts advise that you spend less than 30% of your limit, but be careful not to spend too little: Banks like to see an aptitude for sound financial management. Using between 10% and 20% of your limit and paying the balance down to a reasonable level is the key.    
 
 Please reach out to us if you have any questions regarding your credit score or with any of your other real estate concerns. We’re here to help you move with confidence!
