@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Transform Your Home in 2019 With These 10 Resolutions
-date:
+date: 2019-01-03 18:29:22
 tags:
   - Home Improvements
 excerpt: >-
