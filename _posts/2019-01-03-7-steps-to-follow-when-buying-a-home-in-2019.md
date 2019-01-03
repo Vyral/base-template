@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Steps to Follow When Buying a Home in 2019
-date:
+date: 2019-01-03 19:04:24
 tags:
   - Home Buyer Tips
 excerpt: >-
