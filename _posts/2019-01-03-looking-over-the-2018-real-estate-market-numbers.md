@@ -17,7 +17,7 @@ youtube_code: NxJCFXmyhPM
 
 {% include youtube.html %}
 
-How did the real estate market fare in 2018?
+<p style="text-align: center;"><em>How did the real estate market fare in 2018?</em></p>
 
 Today we’ll be going over the numbers we saw in our local real estate market for 2018.&nbsp;
 
