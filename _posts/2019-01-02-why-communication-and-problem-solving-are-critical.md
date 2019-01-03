@@ -19,7 +19,7 @@ youtube_code: pZFSnhKXMxI
 
 {% include youtube.html %}
 
-As we’ve said before, those agents who are listing-focused and have a strategy around taking listings are dominating the market right now. Today we’re going to talk about a few things that are very critical in preparation for your listing presentation: **Communication and problem solving.**
+As we’ve said before, the agents who are listing-focused and have a strategy for taking listings are dominating the market right now. Today we’re going to talk about a few things that are very critical in preparation for your listing presentation: **communication and problem-solving.**
 
 **To me, these are the two most critical skills you can learn whether you’re a real estate agent or not.** If you can be a great communicator and problem solver, you have the ability to make a huge impact on the world and the people around you. Here’s an outline of the discussion we had, with timestamps, so you can skip around to the part(s) that interest you the most:
 
