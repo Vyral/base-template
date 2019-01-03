@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/ymPJZ4Ts2no'
 
 Let’s jump right into the numbers, starting by comparing the stats from Scott County from December 2018 to December 2017.
 
-For the price range at and under $250,000, the market was extremely hot in 2018; homes were flying off the market right and left, selling very quickly. Last year at this time, we had 48 active listings; this decreased in 2018 to 24 active listings. Considering that 2018 was such a low-inventory year, that’s a startling number—**we’re down almost 100% in inventory in that price point.**
+For the price range at and under $250,000, the market was extremely hot in 2018; homes were flying off the market right and left, selling very quickly. Last year at this time, we had 48 active listings; this decreased in 2018 to 24 active listings. Considering that 2018 was such a low-inventory year, that’s a startling number—**we’re down almost 100% in inventory at that price point.**
 
 The price range between $250,000 and $400,000 was also very hot in 2018 for move-up buyers and sellers. In 2017, this range saw 172 active listings, compared to 2018’s 126. That’s about a 15% decrease, signaling a lot of activity. Part of the reason that inventory is slightly higher in this price point is that there is a lot of new construction inventory. **Of the current 126 active listings, 58 of those are new construction, which is almost half the market.**
 
