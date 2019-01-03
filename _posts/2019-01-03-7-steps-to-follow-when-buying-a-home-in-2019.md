@@ -34,4 +34,4 @@ Here are seven steps to follow as you get ready to buy a home in the new year:
 
 {% include pullquote.html %}
 
-If you have any real estate-related questions or you need help buying or selling a home, please reach out to me by phone at 503-522-0090 or email me at [Sarita@AskSarita.com](mailto:Sarita@AskSarita.com){: target="_blank"}.&nbsp;
+If you have any real estate-related questions or you need help buying or selling a home, please reach out to me by phone at 503-522-0090 or email me at [Sarita@AskSarita.com](mailto:Sarita@AskSarita.com){: target="_blank"}.
