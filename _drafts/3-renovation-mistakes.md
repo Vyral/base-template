@@ -17,7 +17,7 @@ youtube_code: QIyOU-LfKUo
 
 {% include youtube.html %}
 
-Here’s what to avoid during your home renovation.
+<center>Here’s what to avoid during your home renovation.</center>
 
 When renovating your home, there are a lot of things that can go wrong. Joining me today is **Ian Galvin of Velao Projects**, a home restoration and remodeling company. Ian has over 30 years of residential construction experience, and we’ll be discussing three of the biggest mistakes you can make during a home renovation. **Here’s what to avoid doing:**
 
