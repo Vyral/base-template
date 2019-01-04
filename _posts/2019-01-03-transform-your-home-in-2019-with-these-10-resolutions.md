@@ -28,13 +28,12 @@ Here is our list of the top 10 homeownership resolutions:&nbsp;
 3. **Budget for home improvements.** When it comes to home systems breaking down, it’s not a matter of “if,” it’s a matter of “when.” Having adequate savings built up in the event of unforeseen home emergencies is critical.&nbsp;
 4. **Educate yourself on home finances.** This goes hand in hand with our last point. It’s always a good idea to know exactly how much living in your home will cost, as well as how you’ll cover those expenses.&nbsp;
 5. **Declutter.** Doing so can make a huge difference in how your home looks and feels.&nbsp;
+6. **Donate unwanted items.** Items that were once just clutter in your home can be put to good use when you donate them to your community.&nbsp;
+7. **Curb home water use.** Many cities have implemented regulations on this very issue, so make sure you adhere to them. Watering your lawn only in the mornings and evenings is one way to conserve this valuable resource.
+8. **Recruit your family’s help with home improvement projects.&nbsp;**
+9. **Exercise your DIY skills.** There are tons of online resources that will help walk you through certain basic home repairs and upgrades.&nbsp;
+10. **Use maintenance-free materials.** If renovations are in your future, consider replacing the materials used with those that won’t require future maintenance. You’ll thank yourself for this one later.
 
 {% include pullquote.html %}
-
-1. **Donate unwanted items.** Items that were once just clutter in your home can be put to good use when you donate them to your community.&nbsp;
-2. **Curb home water use.** Many cities have implemented regulations on this very issue, so make sure you adhere to them. Watering your lawn only in the mornings and evenings is one way to conserve this valuable resource.
-3. **Recruit your family’s help with home improvement projects.&nbsp;**
-4. **Exercise your DIY skills.** There are tons of online resources that will help walk you through certain basic home repairs and upgrades.&nbsp;
-5. **Use maintenance-free materials.** If renovations are in your future, consider replacing the materials used with those that won’t require future maintenance. You’ll thank yourself for this one later.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
