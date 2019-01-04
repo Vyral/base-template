@@ -24,7 +24,7 @@ youtube_code: ZPE_-oE5Lqk
 
 As a home seller, it’s very important that you prepare your home for the market so that it sells quickly and for top dollar. What’s all involved in that preparation, though?
 
-To give you an idea of what to do to prepare your home for sale, I’ll tell you about something we offer our seller clients: a certified pre-owned home program. This program ensures that, before you put your home on the market, we’ve identified and resolved every issue that can keep it from selling for its maximum price.
+To give you an idea of what to do to prepare your home for sale, I’ll tell you about something we offer our seller clients: a certified pre-owned home program. This program ensures that, before you put your home on the market, we’ve identified and resolved every issue that could have kept it from selling for its maximum price.
 
 <br>The first step of this program involves **getting your home inspected.** After the inspection, we ask that you fix everything in your home worth $500 or more that needs fixing. This helps you feel more in control of the transaction because you’ve already fixed these items and you know the condition of your property.
 
