@@ -1,7 +1,7 @@
 ---
 layout: post
 title: December 2018 Real Estate Market Update
-date: 2019-01-02 21:57:15
+date: 2019-01-30 21:57:00
 tags:
   - Real Estate
   - Market Update
@@ -33,6 +33,6 @@ For the $400,000 to $600,000 range, which is also a popular price point in Scott
 
 In the price point above $600,000, there were 120 active listings in 2017, and 79 this year. That’s a 50% drop, and a third of that inventory is new construction.
 
-&nbsp;We continue to see contingent offers, and considering the season we’re in, we’ve actually seen a relatively busy end of December. We have been keeping an eye on the political climate; right now, **interest rates have held pretty steady, and we don’t expect any major changes to those at the beginning of 2019,** but one can never really know. I think it will be interesting to see what happens with inventory levels and the market in general as we head into the new year.
+ We continue to see contingent offers, and considering the season we’re in, we’ve actually seen a relatively busy end of December. We have been keeping an eye on the political climate; right now, **interest rates have held pretty steady, and we don’t expect any major changes to those at the beginning of 2019,** but one can never really know. I think it will be interesting to see what happens with inventory levels and the market in general as we head into the new year.
 
 If you have any questions or ideas about topics for us to cover in future posts, absolutely feel free to reach out to us. We’d love to hear from you.
