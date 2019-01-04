@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/VQjxkh7E0yU'
 
 {% include youtube.html %}
 
-Today I’m joined by structural engineer and professional home inspector Jahan Abdoveis of Foundation Engineering Inspections (FEI) to talk a little about home inspections.
+Today I’m joined by professional structural engineer Jahan Abdoveis of Foundation Engineering Inspections (FEI) to talk a little about home inspections.
 
 For Jahan, structural engineering is a family affair. His father was a structural engineer too, and he’s the one who started FEI. Their company handles all kinds of inspections, but their primary focus is structural inspections. According to Jahan, **the biggest home inspection issue he deals with in Tulsa is the foundation and floor slab problems.&nbsp;**
 
