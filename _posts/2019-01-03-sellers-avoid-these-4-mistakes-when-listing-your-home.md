@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sellers: Avoid These 4 Mistakes When Listing Your Home'
-date: 2018-10-10 14:40:12
+date: 2019-01-03 14:40:00
 tags:
   - Real Estate
 excerpt: 'Are you thinking of listing? If so, avoid these four mistakes.'
