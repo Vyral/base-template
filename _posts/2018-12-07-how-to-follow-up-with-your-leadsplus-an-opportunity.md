@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'How to Follow Up With Your Leads—Plus, an Opportunity'
-date: 2018-12-07 19:41:44
+date: 2018-12-07 19:41:00
 tags:
   - Lead Generation
   - Lead Conversion
 excerpt: What is the best way to follow up with a lead? Today I’ll give you a few tips.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Becky+Ivins/Videos/Oklahoma+City+Metro+Real+Estate+Agent-+Join+the+Movers+Real+Estate+Team.mp4
 pullquote: >-
   Follow up on all your leads  immediately, with competency, and with concern
   for your prospective client.
@@ -19,7 +20,7 @@ youtube_code: 'https://youtu.be/v2ZbEycPOjU'
 
 {% include youtube.html %}
 
-When it comes to following up with a lead, my first tip is to **do it with knowledge of what the lead has been calling about.** If someone from your office has taken a call from a person looking to sell their house, take three or four minutes to do some research about their house before you call them back.&nbsp;
+When it comes to following up with a lead, my first tip is to **do it with knowledge of what the lead has been calling about.** If someone from your office has taken a call from a person looking to sell their house, take three or four minutes to do some research about their house before you call them back. 
 
 Do be quick about calling them back, however; nobody likes to wait if they’re asking for your help. Clients want a salesperson to be knowledgeable about the product they’re selling, and even though real estate is more of a service industry than a sales industry, we still need to have a salesman’s skill set.
 
