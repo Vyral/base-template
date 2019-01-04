@@ -48,4 +48,8 @@ Local lenders also tend to work with local appraisers. These appraisers are fami
 
 I’m so thankful that Steve took the time to join me today for this discussion. If you would like to contact Steve with any questions you have about mortgages or interest rates, he can be reached at (800) 908-005 (ext: 7102) or at steve-notifications@njlenders.com.
 
+<br>We hope you and your family had a happy holiday and have a healthy and prosperous 2019.&nbsp; We are grateful to our family, clients, friends and colleagues; without your trust, support, referrals and loyalty our team would never be a success.&nbsp;&nbsp;
+
+As 2019 unfolds our local real estate market will be challenging. These challenging conditions require knowledge and experience. We couldn’t take that responsibility more seriously and we hope that you’ll continue to trust, support and rely on us for all your real estate needs.
+
 For any other real estate questions you have, don’t hesitate to reach out to the Stacy Esser Group. We would love to speak with you.
