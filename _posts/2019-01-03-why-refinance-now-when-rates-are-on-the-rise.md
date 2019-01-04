@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Refinance Now When Rates Are on the Rise?
-date: 2018-11-05 21:46:50
+date: 2019-01-03 21:46:00
 tags:
   - Real Estate
 excerpt: >-
