@@ -27,11 +27,11 @@ With that said, though, it’s also important to appreciate what you already hav
 
 As you all know, I recently tore my bicep during a race. This injury has made even simple daily tasks, like getting dressed, much more difficult than what I’m used to. This is the sort of thing a lot of people would be upset about, but I’ve decided not to be. Instead, I’m thankful.&nbsp;
 
-**Life isn’t about the things that happen to you, it’s about how you react to them.** Before this injury, I took having full use of both my arms for granted. I’m lucky to say that my arm will eventually recover and I’ll have full use once more, but this isn’t true for everyone. This experience has taught me to be happy with what I’ve got, and has helped me realize that comparison is the thief of joy.&nbsp;
+**Life isn’t about the things that happen to you, it’s about how you react to them.** Before this injury, I took having full use of both my arms for granted. I’m lucky to say that my arm will eventually recover and I’ll have full use once more, but this isn’t true for everyone. This experience has taught me to be happy with what I’ve got, and it has helped me realize that comparison is the thief of joy.&nbsp;
 
 There’s a good reason gratitude has been a prevailing theme in my messages lately. It’s because I truly believe in the power and importance of counting your blessings.&nbsp;
 
-Of course, being thankful is not the same thing as being complacent. You can be happy with what you have while still working toward self betterment. The key is to stay humble and to keep yourself grounded in what really matters. After all, the greatest things in life aren’t things at all.&nbsp;
+Of course, being thankful is not the same thing as being complacent. You can be happy with what you have while still working toward self-betterment. The key is to stay humble and to keep yourself grounded in what really matters. After all, the greatest things in life aren’t things at all.&nbsp;
 
 {% include pullquote.html %}
 
