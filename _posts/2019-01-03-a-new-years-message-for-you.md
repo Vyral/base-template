@@ -5,9 +5,8 @@ date: 2019-01-03 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  As this year comes to a close, we wanted to reflect on all the good times
-  we’ve had this year. We also wanted to make sure you know about an exciting
-  program we’re rolling out in 2019.
+  We wanted to reflect on all the good times we had in 2018 We also wanted to
+  make sure you know about an exciting program we’re rolling out in 2019.
 enclosure:
 pullquote: >-
   We’re grateful to be able to work with a strong team and to help you with
