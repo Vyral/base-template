@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflecting on Our Progress in 2018
-date: 2018-12-27 20:04:00
+date: 2019-01-04 08:04:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -24,7 +24,7 @@ We hosted 13 live Luxury Listing Specialists Certification classes this past yea
 
 Beyond that, there were a few other points from 2018 that I’m excited to share with you:
 
-* We formed a strategic alliance with “Who’s Who in Luxury Real Estate?”, and we were fortunate enough to present at both of their conferences. &nbsp;For more information, visitwww.LuxuryRealEstate.com
+* We formed a strategic alliance with “Who’s Who in Luxury Real Estate?”, and we were fortunate enough to present at both of their conferences. &nbsp;For more information, visit [www.LuxuryRealEstate.com](http://www.LuxuryRealEstate.com){: target="_blank"}
 * In just the second half of the year, we certified 155 RE/MAX INTEGRA agents get LUXE certified. There are over 40,000 agents in total at RE/MAX INTEGRA. They have already booked us for two more live certification classes in 2019.
 * We gave away over $50,000 in LUXE scholarships in 2018.
 * We were also recognized by the International Property Awards as not only one of the best consulting businesses for agents looking to sell high-end properties in the United States,&nbsp; but also globally.
