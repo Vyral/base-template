@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Year’s Message for You
-date: 2019-01-03 00:00:00
+date: 2019-01-01 00:00:00
 tags:
   - Real Estate
 excerpt: >-
