@@ -22,7 +22,7 @@ youtube_code: ZPE_-oE5Lqk
 
 {% include youtube.html %}
 
-As a home seller, it’s very important that you prepare your home for the market so that it sells quickly and for top dollar. What’s all involved in that preparation, though?
+As a home seller, it’s very important that you prepare your home for the market so that it sells quickly and for top dollar. What all is involved in that preparation, though?
 
 To give you an idea of what to do to prepare your home for sale, I’ll tell you about something we offer our seller clients: a certified pre-owned home program. This program ensures that, before you put your home on the market, we’ve identified and resolved every issue that could have kept it from selling for its maximum price.
 
