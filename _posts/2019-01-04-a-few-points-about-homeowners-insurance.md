@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Points About Homeowners Insurance
-date:
+date: 2019-01-04 18:52:26
 tags:
   - Real Estate
 excerpt: >-
