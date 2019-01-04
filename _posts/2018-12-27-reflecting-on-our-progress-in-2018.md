@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflecting on Our Progress in 2018
-date: 2018-12-27 20:04:05
+date: 2018-12-27 20:04:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5oeFAdJ5cbg
+youtube_code: HONuDq-psS8
 ---
 
 {% include youtube.html %}
