@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The home inspection is an important part of the home sale process, and today
   I’ve brought in an expert to shed some light on this topic.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+An+Experts+Take+on+Home+Inspections+(2).mp4
 pullquote: >-
   A great way for sellers to lay a foundation for a successful home sale is to
   get a pre-inspection done on their house before they list it.
