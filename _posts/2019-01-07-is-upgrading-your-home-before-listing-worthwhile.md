@@ -22,7 +22,7 @@ youtube_code: G5lQg1ixTLI
 
 Today we’re going to be tackling a million-dollar question: Should sellers make home repairs before putting their property on the market?
 
-In my experience, **it’s always best for sellers to remember the homes they’re up against when they list.** You have to take the competition into account. &nbsp;Buyers should want your property—not your neighbors.
+In my experience, **it’s always best for sellers to remember the homes they’re up against when they list.** You have to take the competition into account. &nbsp;Buyers should want your property—not your neighbor's property.
 
 Of course, this doesn’t mean you should go all out and take on expensive projects that won’t bring a return. You should ideally earn a $1.25 or $1.50 for every dollar you spend. In short, **you should absolutely make a few repairs before listing, but only the ones that will help put money in your pocket.**
 
