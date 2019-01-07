@@ -115,7 +115,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: black
+  shadow_color: transparent
 
 buttons:
   button_radius_number: 0
