@@ -19,7 +19,7 @@ youtube_code: RxurQVIUzH8
 
 {% include youtube.html %}
 
-Our videos don’t always go as planned, and we’re about to show you a few of our favorite examples. We hope you enjoy this blooper reel.
+<p style="text-align: center;"><em>Our videos don’t always go as planned, and we’re about to show you a few of our favorite examples. We hope you enjoy this blooper reel.</em></p>
 
 It’s the beginning of yet another new year. With people making resolutions left and right, it’s easy to get caught up in wanting to be perfect. But, while setting goals is always good, it’s also important to not take yourself too seriously.
 
