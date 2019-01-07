@@ -13,6 +13,8 @@ custom_links:
     url: 'http://www.successmortgagepartners.com/smp-compliance'
   - title: Mortgage Mapp App
     url: 'http://kristin.mortgagemapp.com/'
+  - title: 'NMLS #130562'
+    url:
 client:
   name: Kristin Jamieson
   license_number:
