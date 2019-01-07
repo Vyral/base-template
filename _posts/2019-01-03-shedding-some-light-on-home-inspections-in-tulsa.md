@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-expert-s-take-on-home-inspection-youtube.jpg
-youtube_code: 'https://youtu.be/fw71UJU4pEk'
+youtube_code: 'https://youtu.be/rqaA2X9vXvk'
 ---
 
 {% include youtube.html %}
