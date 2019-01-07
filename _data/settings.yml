@@ -1,4 +1,4 @@
-audit_header: false
+audit_header: true
 title: Success Mortgage Partners Inc. Video Blog with Kristin Jamieson
 description: >-
   Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
@@ -37,16 +37,16 @@ client:
   phone2_type:
   email: Kristin@KristinJamiesonFL.com
   url: 'http://www.SuccessMortgagePartners.com/Kristin'
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808394';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808394';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Agent Mastermind
   first_CTA_URL: 'http://agentmastermind.com/kristinjamieson/'
   second_CTA_text: Online Application
   second_CTA_URL: >-
     https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en
-
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Real Estate Mastermind Strategy Class!
