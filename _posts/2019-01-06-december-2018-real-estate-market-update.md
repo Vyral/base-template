@@ -1,7 +1,7 @@
 ---
 layout: post
 title: December 2018 Real Estate Market Update
-date: 2019-01-30 21:57:00
+date: 2019-01-06 21:57:00
 tags:
   - Real Estate
   - Market Update
