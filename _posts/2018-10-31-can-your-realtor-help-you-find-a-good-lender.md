@@ -26,7 +26,7 @@ We know the good, the bad, and the ugly when it comes to mortgage lenders. We pe
 
 {% include pullquote.html %}
 
-**Local lenders are well established, and I have a list of my favorites which you can visit under the ‘Becky’s Favorites’ tab on <u><a target="_blank" href="https://www.beckyivins.com/">my website.</a></u>** Nobody buys their way onto that website, by the way. You have to have done business with me for a very long time and established yourself as a good lender.&nbsp;
+**Local lenders are well established, and I have a list of my favorites which you can visit under the ‘Becky’s Favorites’ tab on <u><a target="_blank" href="https://www.beckyivins.com/becky_s_favorites">my website.</a></u>** Nobody buys their way onto that website, by the way. You have to have done business with me for a very long time and established yourself as a good lender.&nbsp;
 
 We have three lenders in particular whom we rely on locally to take care of our clients. What makes them good? They get the loans closed. I find it incredible that so many lenders spend time getting someone qualified, and then a week before closing, they suddenly don’t qualify. That’s something my lenders would’ve told me about the first day they sat down with that client. That way, we could wait to show them homes until we did get them qualified.&nbsp;
 
