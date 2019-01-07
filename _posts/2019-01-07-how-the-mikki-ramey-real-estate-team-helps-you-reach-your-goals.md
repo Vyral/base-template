@@ -17,7 +17,7 @@ youtube_code: 2iQNUmt2KrA
 
 {% include youtube.html %}
 
-Today I want to take a few minutes to introduce you to our award-winning team.
+<p style="text-align: center;"><em>Today I want to take a few minutes to introduce you to our award-winning team.</em></p>
 
 The goal of Healthy Realty is to help you sell your home on your time frame for the highest price, or to help you buy your dream home.
 
