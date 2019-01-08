@@ -1,7 +1,7 @@
 .hero-img
 	background-position: center
 	background-size: cover
-	padding-top: $nav-height + 5rem
+	padding-top: $nav-height + 2rem
 #hero
 	background-position: center
 	background-size: cover
@@ -12,6 +12,13 @@
 .site-logo
 	width: 90%
 	max-width: $logo-width
+	padding: 2rem
+	@include filter(drop-shadow($header-shadow))
+
+.main-logo
+	width: 90%
+	max-width: $logo-width2
+	padding: 4rem 0
 	@include filter(drop-shadow($header-shadow))
 
 .site-title
@@ -24,28 +31,48 @@
 	padding-top: 1rem
 	margin-bottom: 0
 
+.hero-text
+	color: $header-font-color
+	background: #1C2C4D
+	border-top: 10px solid #B9AA81
+	border-bottom: 10px solid #B9AA81
+	text-transform: uppercase
+	font-size: 5rem
+	padding-bottom: 2rem
+	padding-top: 2rem
+	letter-spacing: 3px
+
 @media (max-width: 1100px)
 	.site-title
 		font-size: 4rem
+	.hero-title
+		font-size: 4rem
+		padding-top: 4rem
 
 @media (max-width: 1000px)
+	.main-logo
+		max-width: 22rem
 	.site-logo
-		max-width: 10rem
+		max-width: 20rem
 
 @media (max-width: 760px)
 	#hero
 		// height: 33rem
+	.main-logo
+		max-width: 22rem
 	.site-logo
-		max-width: 10rem
+		max-width: 20rem
 		margin-top: 4rem
-	.site-title
+	.hero-title
 		font-size: 4rem
 
 @media (max-width: 600px)
 	#hero
 		// height: 31rem
+	.main-logo
+		max-width: 20rem
 	.site-logo
-		max-width: 7rem
+		max-width: 18rem
 		margin-top: 2rem
 	.site-title
 		font-size: 3rem
@@ -56,3 +83,5 @@
 		// height: 25rem
 	.cta
 		padding: 0.5rem
+	.site-logo
+		display: none

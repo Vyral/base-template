@@ -1448,7 +1448,6 @@ html[xmlns] .flexslider .slides {
     text-align: center; }
 
 .navbar-andross {
-  border-bottom: 2px solid #000000;
   border-radius: 0;
   min-height: 52px;
   background: #ffffff;
@@ -1461,7 +1460,7 @@ html[xmlns] .flexslider .slides {
   padding-bottom: 33px;
   font-size: 20px;
   text-transform: uppercase;
-  max-width: 65%; }
+  max-width: 85%; }
 
 .navbar-nav > li {
   margin-right: 10px;
@@ -1523,12 +1522,6 @@ html[xmlns] .flexslider .slides {
     overflow: hidden;
     display: none;
     opacity: 0; } }
-.brand-color {
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  background: #000000;
-  -webkit-animation: 0.3s fadein ease-in-out;
-          animation: 0.3s fadein ease-in-out; }
-
 .navbar-andross-bottom {
   background: #000000;
   color: #fff;
@@ -1589,7 +1582,7 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 7rem; }
 
 #hero {
   background-position: center;
@@ -1601,35 +1594,67 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 30rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  padding: 2rem;
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
+
+.main-logo {
+  width: 90%;
+  max-width: 35rem;
+  padding: 4rem 0;
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   text-transform: uppercase;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   padding-bottom: 4rem;
   padding-top: 1rem;
   margin-bottom: 0; }
 
+.hero-text {
+  color: white;
+  background: #1C2C4D;
+  border-top: 10px solid #B9AA81;
+  border-bottom: 10px solid #B9AA81;
+  text-transform: uppercase;
+  font-size: 5rem;
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  letter-spacing: 3px; }
+
 @media (max-width: 1100px) {
   .site-title {
-    font-size: 4rem; } }
+    font-size: 4rem; }
+
+  .hero-title {
+    font-size: 4rem;
+    padding-top: 4rem; } }
 @media (max-width: 1000px) {
+  .main-logo {
+    max-width: 22rem; }
+
   .site-logo {
-    max-width: 10rem; } }
+    max-width: 20rem; } }
 @media (max-width: 760px) {
+  .main-logo {
+    max-width: 22rem; }
+
   .site-logo {
-    max-width: 10rem;
+    max-width: 20rem;
     margin-top: 4rem; }
 
-  .site-title {
+  .hero-title {
     font-size: 4rem; } }
 @media (max-width: 600px) {
+  .main-logo {
+    max-width: 20rem; }
+
   .site-logo {
-    max-width: 7rem;
+    max-width: 18rem;
     margin-top: 2rem; }
 
   .site-title {
@@ -1639,7 +1664,10 @@ label.tree-toggle {
     padding: 1rem; } }
 @media (max-width: 400px) {
   .cta {
-    padding: 0.5rem; } }
+    padding: 0.5rem; }
+
+  .site-logo {
+    display: none; } }
 :root {
   font-size: 10px; }
 
@@ -2049,7 +2077,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px black; }
+  text-shadow: 0px 2px 7px transparent; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2064,7 +2092,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2075,7 +2103,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px black;
+  text-shadow: 0px 2px 7px transparent;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2842,8 +2870,8 @@ form select {
   max-width: 30rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px black);
-  filter: drop-shadow(0px 2px 7px black); }
+  -webkit-filter: drop-shadow(0px 2px 7px transparent);
+  filter: drop-shadow(0px 2px 7px transparent); }
 
 .page-hero-img {
   background-position: center;
