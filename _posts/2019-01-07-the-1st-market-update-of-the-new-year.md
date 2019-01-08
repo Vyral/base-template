@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1st Market Update of the New Year
-date: 2019-01-07 16:08:48
+date: 2019-01-07 16:08:00
 tags:
   - Real Estate
   - Market Update
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: quCRZRCeLeU
+youtube_code: '-39sTqHqGI4'
 ---
 
 {% include youtube.html %}
