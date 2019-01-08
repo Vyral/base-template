@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking Over the 2018 Real Estate Market Numbers
+title: 2018 Waterfront Sales Year-End Review
 date: 2019-01-03 19:56:43
 tags:
   - Market Update
