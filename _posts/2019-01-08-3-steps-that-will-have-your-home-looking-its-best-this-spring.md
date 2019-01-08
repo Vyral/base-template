@@ -20,7 +20,9 @@ youtube_code: icCf_QsFTdw
 
 {% include youtube.html %}
 
-<center>If you want your home looking its best when you list it this spring, follow these three key steps.</center>
+<center><em>If you want your home looking its best when you list it this spring, follow these three key steps.</em></center>
+
+&nbsp;
 
 Here are the three steps you need to follow to prepare your home for the spring market.
 
