@@ -10,7 +10,7 @@ pullquote: '2018 was an amazing year, and our success was all thanks to you.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/priyanka-johri--amazing-2018-youtube.jpg
 youtube_code: EcKkH1yT7qU
 ---
 
