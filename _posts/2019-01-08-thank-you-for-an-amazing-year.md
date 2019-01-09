@@ -16,11 +16,11 @@ youtube_code: EcKkH1yT7qU
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 2018 was an amazing year for us here at Woodlands Eco Realty, and we have all of you to thank. **We are so grateful for the incredible number of you who trusted your buying and selling goals with us throughout the year.**
 
 I wanted to take a moment to reflect on all of the generosity that fills my life and thank clients and friends like you for your help and support that you provide so that I can follow my passion of helping special needs and elderly animals at Pure Mutts Animal Sanctuary. Please accept my gratitude from the bottom of my hear for joining me on this journey. **Every time you buy or sell a home with us, every time you refer someone to us who buys or sells a home with us, you help us save more lives.** You show up when I need help, you celebrate with me during my milestones, and you show me love and compassion after I lose a dog. You donate personally, you ask your employers to match donation and you share our please with your family and friends. Many of you have us as your Amazon Smile charity, so every time you shop we get a donation from Amazon. Small things make a big impact. All of you are not only my clients, but my friends, my supporters, and my cheerleaders.
+
+{% include pullquote.html %}
 
 **2018 has been incredibly good at some fronts, and sad at others.** I lost five dogs at the sanctuary. We rescued 9 new ones. It's a never-ending struggle. We have a new puppy who is fighting for his life that the vet right now. Only three months old, he was thrown out like trash. After spending two weeks alone in the cold, he came down with parvo. Please pray that he makes it! He's still hanging around, and each day he lives is a miracle.
 
