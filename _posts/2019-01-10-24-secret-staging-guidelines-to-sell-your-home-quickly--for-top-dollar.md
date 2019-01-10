@@ -39,7 +39,7 @@ youtube_code: 5FMoMj1G-80
 
 **8.&nbsp;**Have your home professionally cleaned.
 
-**9.&nbsp;**Repaint everything. For the interior, try an off-white or a beige color. This a cheap, easy tip that will bring you a large return, and it also brings us to our next tip…
+**9.&nbsp;**Repaint everything. For the interior, try an off-white or a beige color. This is a cheap, easy tip that will bring you a large return, and it also brings us to our next tip…
 
 **10.&nbsp;**Remove any wallpaper. Wallpaper just isn’t “in” right now.
 
@@ -59,11 +59,11 @@ youtube_code: 5FMoMj1G-80
 
 **18.&nbsp;**Make your kitchen look squeaky clean. Also, clear off the countertops, the tops of your cabinets, and the face of your refrigerator.
 
-**19.&nbsp;**Make your bathrooms look squeaky clean. Additionally, declutter your shower areas, vanity mirrors, and remove any shelving units.
+**19.&nbsp;**Make your bathrooms look squeaky clean. Additionally, declutter your shower areas, organize vanity mirrors, and remove any shelving units.
 
 **20.&nbsp;**Neutralize your home’s decorating theme. In other words, remove anything that will make the home non-duplicatable.
 
-**21.&nbsp;**Don’t over-decorate. You don’t stage a home to decorate it—you stage it to sell it.
+**21.&nbsp;**Don’t overdecorate. You don’t stage a home to decorate it—you stage it to sell it.
 
 **22.&nbsp;**Set the mood. Turn on all the lights and have some soft music playing.
 
