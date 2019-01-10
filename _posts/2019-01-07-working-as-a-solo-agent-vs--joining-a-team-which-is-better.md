@@ -30,7 +30,7 @@ However, working as a single agent when you’re just starting out also carries 
 
 {% include pullquote.html %}
 
-This is also critical given that, during the beginning of your career, time you would otherwise spend on networking and lead generation will instead be devoted to education. And since 57% of all real estate deals come from networking and from your sphere, any time lost from engaging in these activities will translate to lost leads and lost money.
+This is also critical given that, during the beginning of your career, the time you would otherwise spend on networking and lead generation will instead be devoted to education. And since 57% of all real estate deals come from networking and from your sphere, any time lost from engaging in these activities will translate to lost leads and lost money.
 
 As you can see, the decision between joining a team and working as a single agent isn’t exactly clear cut. Personally, I believe that working as a single agent is the superior choice in the long-term, but that joining a team may be a good starting place for new agents. Make sure that you don’t choose just any agent as your mentor when looking at various teams, though. The greatest indicator of success is results, so you must find an agent with a proven track record. This is the kind of professional you want to learn from.
 
