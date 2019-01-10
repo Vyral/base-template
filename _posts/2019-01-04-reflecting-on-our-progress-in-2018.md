@@ -20,7 +20,7 @@ youtube_code: HONuDq-psS8
 
 {% include youtube.html %}
 
-We hosted 13 live Luxury Listing Specialists Certification classes this past year, from the east coast to down south, and even north to Canada. Overall, we had agents from 28 states represented.&nbsp;**With all our training and activities this past year, we<br>definitely racked up some frequent flyer miles.**
+We had a lot of things to be thankful for in 2018. We made great strides and continued to raise the bar in real estate both in general and for luxury real estate. We hosted 13 live Luxury Listing Specialists Certification classes this past year, from the east coast to down south, and even north to Canada. Overall, we had agents from 28 states represented.&nbsp;**With all our training and activities this past year, we<br>definitely racked up some frequent flyer miles.**
 
 Beyond that, there were a few other points from 2018 that I’m excited to share with you:
 
