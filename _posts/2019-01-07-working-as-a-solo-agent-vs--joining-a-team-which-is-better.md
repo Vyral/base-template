@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Working as a Solo Agent vs. Joining a Team: Which Is Better?'
-date: 2019-01-07 15:55:36
+date: 2019-01-07 15:55:00
 tags:
   - Real Estate Careers
 excerpt: >-
@@ -11,8 +11,8 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jerimiah+Taylor/Videos/San+Diego/San+Diego+Real+Estate+Career-+Should+You+Join+A+Team_.mp4
 pullquote: >-
-  Working as a single agent is the superior choice in the long-term, but that
-  joining a team may be a good starting place for new agents.
+  Working as a single agent is the superior choice in the long-term, but joining
+  a team may be a good starting place for new agents.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -32,7 +32,7 @@ However, working as a single agent when you’re just starting out also carries 
 
 This is also critical given that, during the beginning of your career, the time you would otherwise spend on networking and lead generation will instead be devoted to education. And since 57% of all real estate deals come from networking and from your sphere, any time lost from engaging in these activities will translate to lost leads and lost money.
 
-As you can see, the decision between joining a team and working as a single agent isn’t exactly clear cut. Personally, I believe that working as a single agent is the superior choice in the long-term, but that joining a team may be a good starting place for new agents. Make sure that you don’t choose just any agent as your mentor when looking at various teams, though. The greatest indicator of success is results, so you must find an agent with a proven track record. This is the kind of professional you want to learn from.
+As you can see, the decision between joining a team and working as a single agent isn’t exactly clear cut. Personally, I believe working as a single agent is the superior choice in the long-term, but that joining a team may be a good starting place for new agents. Make sure that you don’t choose just any agent as your mentor when looking at various teams, though. The greatest indicator of success is results, so you must find an agent with a proven track record. This is the kind of professional you want to learn from.
 
 Similarly to this, a real estate team looking to hire an agent should make sure that they choose a candidate who will serve as a worthwhile asset.
 
