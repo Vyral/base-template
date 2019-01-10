@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Down Payments
-date: 2018-09-20 14:26:13
+date: 2019-01-09 14:26:00
 tags:
   - Real Estate
 excerpt: >-
@@ -33,5 +33,3 @@ Saving up for a down payment is one of the most intimidating parts of buying a h
 **3. Down payment assistance is easy.** I hate to burst your bubble, but finding, applying, and getting approved for this kind of loan can be challenging because they are run locally by the city or the country and not nationally. For you to get qualified, the biggest factor you have to consider is your income; if your income is higher, then you may not qualify.
 
 Just don't get discouraged, that's why we're here to help. If you need assistance with a down payment, we can put you in touch with lenders who are happy to share their expertise. All you have to do is call or email us. We look forward to speaking with you soon.
-
-&nbsp;
