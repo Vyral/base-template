@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Today I want to take a few minutes to introduce you to our award-winning team.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+Introducing+Our+Team.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+team+intro.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2iQNUmt2KrA
+youtube_code: cocPBZs37No
 ---
 
 {% include youtube.html %}
