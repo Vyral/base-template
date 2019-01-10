@@ -19,7 +19,7 @@ youtube_code: 5FMoMj1G-80
 
 {% include youtube.html %}
 
-Today I want to share all 24 of my secret staging tips that will help you sell your home quickly and for top dollar.
+<p style="text-align: center;"><em>Today I want to share all 24 of my secret staging tips that will help you sell your home quickly and for top dollar.</em></p>
 
 **Here are my 24 secret staging guidelines that will help your home sell quickly, for top dollar, and with the least amount of stress:**
 
