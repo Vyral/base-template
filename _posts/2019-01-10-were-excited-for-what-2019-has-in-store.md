@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Excited for What 2019 Has in Store
-date:
+date: 2019-01-10 15:43:15
 tags:
 excerpt: 2019 is here and our team couldn’t be more excited.
 enclosure: >-
