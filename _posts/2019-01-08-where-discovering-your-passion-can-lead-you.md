@@ -29,7 +29,7 @@ I learned that I loved training, teaching, and sharing everything I’ve learned
 
 By discovering my personal mission statement, I set myself on the path to becoming a Keller Williams University instructor. For a long time, I was held back from doing this by a fear of public speaking. I started teaching in my own market center, though, and I eventually created my own class that allowed me to practice speaking in front of others. That’s when I really got the confidence to achieve this goal.&nbsp;
 
-Becoming an instructor takes a lot of time, energy, and focus. You have to take two classes and teach until you have at least 75 good reviews from your former students. After that, you need to be regionally approved. Finally, you need the approvals of three team leaders in their respective market centers.
+Becoming an instructor takes a lot of time, energy, and focus. You have to take two classes and teach until you have at least 75 good reviews from your former students. After that, you need to be regionally approved. Finally, you need the approval of three team leaders in their respective market centers.
 
 **It took me two years, but I’ve grown a lot by being on this journey, and it all started by discovering my passion.** If becoming an instructor sounds like something you’d be interested in doing, I’d love to share more of my story with you. Also, remember that I’m certified to teach and train all over, so if you’d like me to visit your area, I’d be happy to oblige.&nbsp;
 
