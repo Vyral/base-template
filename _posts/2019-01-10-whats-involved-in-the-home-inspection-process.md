@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What’s Involved in the Home Inspection Process?
-date: 2019-01-10 22:08:56
+date: 2019-01-10 22:08:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Home inspections are a crucial step in the real estate process, so we’ll be
   shedding some light on the subject today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Valerie+Hunter-Kelly/+Videos/2019/January/Clarksville%2C+Tennessee+Real+Estate+Agent-+Whats+Involved+in+the+Home+Inspection+Process_.mp4
 pullquote: >-
   Appraisals are designed to discern a home’s value, while an inspection is
   meant to assess its condition.
