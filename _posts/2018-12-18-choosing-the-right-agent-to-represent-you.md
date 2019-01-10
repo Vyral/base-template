@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing the Right Agent to Represent You
-date: 2018-12-18 19:23:51
+date: 2018-12-18 19:23:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/questions-to-ask-youtube.jpg
+youtube_alternate_image: /uploads/questions-to-ask-youtube-headshot.jpg
 youtube_code: xOQhM2RkAOo
 ---
 
@@ -26,9 +26,9 @@ How do you find the right agent to represent you? There are a few tips to take i
 
 Oftentimes, I’ll hear people tell me they hired their agent because they liked them as a person. There’s nothing wrong with hiring a likable agent, but a home is one of the biggest purchases you’ll ever make, so choosing the person who will guide you through this purchase should depend on more than just whether you like them or not.
 
-Experience, for instance, is an important factor, and a lot of people prefer to hire an agent who has a lot of experience. **You need to be careful when gauging an agent’s experience, though, because that goes beyond just how many years they’ve been in the business.** The number of years they’ve been an agent doesn’t automatically correlate with how effective they’ll be in a transaction. &nbsp;
+Experience, for instance, is an important factor, and a lot of people prefer to hire an agent who has a lot of experience. **You need to be careful when gauging an agent’s experience, though, because that goes beyond just how many years they’ve been in the business.** The number of years they’ve been an agent doesn’t automatically correlate with how effective they’ll be in a transaction.  
 
-One way to find out whether someone’s a true professional or not is to see whether they identify as a real estate advisor. Advisors are different from agents. An agent is someone who’ll simply carry out your marching orders to the best of their ability. An advisor, on the other hand, will push back against what you tell them in order to protect you from yourself. This is something I do quite often—I’ll offer clients a different perspective concerning their wants and needs to help them get the best deal possible. &nbsp;
+One way to find out whether someone’s a true professional or not is to see whether they identify as a real estate advisor. Advisors are different from agents. An agent is someone who’ll simply carry out your marching orders to the best of their ability. An advisor, on the other hand, will push back against what you tell them in order to protect you from yourself. This is something I do quite often—I’ll offer clients a different perspective concerning their wants and needs to help them get the best deal possible.  
 
 {% include pullquote.html %}
 
