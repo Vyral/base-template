@@ -32,6 +32,6 @@ Second, **start decluttering your home so that it looks like a model home**. Mod
 
 {% include pullquote.html %}
 
-Lastly, **pay attention to your home’s curb appeal**. 50% of a buyer’s decision will be made the moment they pull up to your curb. Before they step foot inside your home, they’ll either be excited to view it or hesitant to walk through it at all, and that plays a big part in their ultimate choice. Make sure the grass is green in your front yard, your landscape is well-manicured, and everything about your home’s exterior looks appealing from the curb.
+Lastly, **pay attention to your home’s curb appeal**. 50% of a buyer’s decision will be made the moment they pull up to your curb. Before they set foot inside your home, they’ll either be excited to view it or hesitant to walk through it at all, and that plays a big part in their ultimate choice. Make sure the grass is green in your front yard, your landscape is well manicured, and everything about your home’s exterior looks appealing from the curb.
 
 If you have any more questions about preparing your home for the spring market or you have any other real estate needs I can take care of, feel free to call or email me. I’d love to help you.
