@@ -19,7 +19,7 @@ youtube_code: P7yjLXK4gWc
 
 {% include youtube.html %}
 
-<p style="text-align: ccenter;"><em>Happy New Year! As we start 2019, I wanted to bring you an update on the latest lending news.</em></p>
+<p style="text-align: center;"><em>Happy New Year! As we start 2019, I wanted to bring you an update on the latest lending news.</em></p>
 
 I hope you all had a happy new year and a happy and safe holiday season. To kick off 2019, I’m here with Brandon Moss of Fairway Mortgage to discuss some things that are going on in the lending world of real estate.
 
