@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Excited for What 2019 Has in Store
-date: 2019-01-10 15:43:15
+date: 2019-01-10 15:43:00
 tags:
 excerpt: 2019 is here and our team couldn’t be more excited.
 enclosure: >-
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-8-19-new-year-np.jpg
-youtube_code: blq5MIkgi2g
+youtube_code: MHRvXCODQcw
 ---
 
 {% include youtube.html %}
