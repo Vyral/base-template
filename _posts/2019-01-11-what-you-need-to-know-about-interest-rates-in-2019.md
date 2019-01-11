@@ -8,13 +8,13 @@ excerpt: >-
   Happy New Year! As we start 2019, I wanted to bring you an update on the
   latest lending news.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+mortgage+update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+mortgage+rates+new+contact+for+brandon.mp4
 pullquote: Conforming loan limits have gone up nationwide.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: P7yjLXK4gWc
+youtube_code: h9tJiIm5Ff4
 ---
 
 {% include youtube.html %}
