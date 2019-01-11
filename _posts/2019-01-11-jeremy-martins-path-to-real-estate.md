@@ -14,5 +14,3 @@ youtube_code: 5EjmTlLJzOY
 ---
 
 {% include youtube.html %}
-
-&nbsp;
