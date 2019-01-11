@@ -18,7 +18,9 @@ youtube_code: GGEuqHIhHZE
 
 {% include youtube.html %}
 
-<center>Don’t feel trapped for even one more day. We’ll help you find the way out.</center>
+<center><em>Don&rsquo;t feel trapped for even one more day. We&rsquo;ll help you find the way out.</em></center>
+
+&nbsp;
 
 Whether you’re a homeowner or potential buyer, it can be easy to feel trapped. Some of our clients have reached out to us with various problems they’re having, ranging from “I lost my job and can’t keep my home” to “We’re having twins and our house is too small.”
 
