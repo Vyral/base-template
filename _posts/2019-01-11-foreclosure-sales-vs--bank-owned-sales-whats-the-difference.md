@@ -20,7 +20,9 @@ youtube_code: ihsEIxVTZD0
 
 {% include youtube.html %}
 
-<center>Here are the differences between foreclosure homes and bank-owned homes.</center>
+<center><em>Here are the differences between foreclosure homes and bank-owned homes.</em></center>
+
+&nbsp;
 
 Whether we’re talking to first-time homebuyers or seasoned real estate clients, there’s always a bit of confusion regarding **foreclosure sales and bank-owned sales** (also known as REO—real estate owned). So today, we’re going to clear up any misconceptions by explaining the differences between these two types of sales.
 
