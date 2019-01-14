@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens to a Mortgage After You Close on Your Home?
-date:
+date: 2019-01-14 00:00:00
 tags:
   - Real Estate
 excerpt: What happens to your mortgage after closing on your home? Today I’ll explain.
