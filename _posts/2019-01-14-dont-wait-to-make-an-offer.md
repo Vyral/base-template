@@ -32,3 +32,7 @@ If you were a buyer who was waiting until Tuesday or Wednesday to make an offer,
 **What do you think about waiting until later to make an offer? I’d like to see your comments.**
 
 If you’d like my help in securing your dream home, have any other questions, or need more information, feel free to reach out to me. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
