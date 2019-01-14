@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/frank-gray-ss-jan-2-no-play.jpg
-youtube_code: DjonliSW0q8
+youtube_code: 4kvdyZOrVjc
 ---
 
 {% include youtube.html %}
@@ -31,7 +31,7 @@ What does adequate support look like? It’s different for every agent, which is
 
 {% include pullquote.html %}
 
-Here at Abby Realty, we have two cultural dimensions that propel our agents to success. The first is a productivity culture that lends support to agents and helps them achieve any level of aspiration. The second is a comradery culture. In other words, we all know, like, and support each other.&nbsp;
+Here at Abby Realty, we have two cultural dimensions that propel our agents to success. The first is a productivity culture that lends support to agents and helps them achieve any level of aspiration. The second is a camaraderie culture. In other words, we all know, like, and support each other.&nbsp;
 
 These two dimensions aren’t a perfect fit for every agent. Some agents prefer to do things on their own. **If you’re the type of person who wants to move ahead in friendship and companionship with others, though, our team might be the perfect environment for you.&nbsp;**
 
