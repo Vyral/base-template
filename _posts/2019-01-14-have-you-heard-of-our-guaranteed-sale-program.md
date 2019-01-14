@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard of Our Guaranteed Sale Program?
-date: 2019-01-14 17:37:07
+date: 2019-01-14 17:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: IM7BNF3nlxQ
 ---
 
 {% include youtube.html %}
