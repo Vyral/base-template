@@ -21,7 +21,7 @@ I recently heard from someone who lost the chance to buy the home they were inte
 
 You may be thinking, **“Don’t sellers usually wait until later in the week to look at offers?”**
 
-Let me answer that by telling you this: I had a brand new listing that I put on the market Friday. About 100 people showed up for the open house; some had agents and some didn’t. I had two offers by 6 p.m. and two more by 8 p.m.—one of which was exceptional.
+Let me answer that by telling you this: I had a brand-new listing that I put on the market Friday. About 100 people showed up for the open house; some had agents and some didn’t. I had two offers by 6 p.m. and two more by 8 p.m.—one of which was exceptional.
 
 {% include pullquote.html %}
 
