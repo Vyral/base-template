@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips That Will Make Your Next Move a Breeze
-date: 2019-01-14 16:43:55
+date: 2019-01-14 16:43:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NOYIVNDFl0M
+youtube_code: HxkgYswXTv8
 ---
 
 {% include youtube.html %}
