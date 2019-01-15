@@ -35,6 +35,6 @@ If the concept of moving sounds exhausting in advance, it could be that you have
 
 **4. Recycle unnecessary papers.** This includes magazines, books, newspapers, and things you’re not using and don’t plan to in the future. These things clutter up your home and make it seem much smaller than it really is.
 
-**5. Do it now.** Stop what you’re doing right now and make a plan for your move—mark it on your calendar. Setting up a clear timeframe for when your organization needs to be finished will save you so much time and stress when you receive your first offer.
+**5. Do it now.** Stop what you’re doing right now and make a plan for your move—mark it on your calendar. Setting up a clear time frame for when your organization needs to be finished will save you so much time and stress when you receive your first offer.
 
 Hopefully, these tips help make your next move simpler and stress-free. If you have any questions, please don’t hesitate to reach out to us. We’d be glad to help.
