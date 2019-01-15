@@ -25,7 +25,7 @@ The 2018 market was full of ups and downs, and now that we’ve entered another 
 
 This doesn’t mean we’ll see a recession in 2019, but we are definitely in for a slowdown. Mortgage rates are projected to hit at least 5.5% by the end of this year. In other words, monthly mortgage payments for new buyers will be 8.8% higher this year than in 2018. Sellers, too, will be affected—the average appreciation rate is expected to slow to just 3%, despite increased inventory.&nbsp;
 
-{% include pullquote.html %}
+**{% include pullquote.html %}**
 
 But while the number of available new construction and resale homes will rise, especially in higher price points, the supply of foreclosure properties is set to diminish.
 
