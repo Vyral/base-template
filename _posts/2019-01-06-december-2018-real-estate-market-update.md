@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   The new year has finally arrived, which means it’s time for a year-end market
   update for 2018.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chad+and+Sara+Huebner/Videos/2018/Chad+%26+Sara+Huebener+With+Edina+Realty-+Your+Year-End+Market+Update+for+2018.mp4
 pullquote: >-
   I think it will be interesting to see what happens with inventory levels and
   the market in general as we head into the new year.
