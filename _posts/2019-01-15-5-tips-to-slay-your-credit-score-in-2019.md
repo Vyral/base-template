@@ -25,7 +25,7 @@ What are my five tips that will help you slay your credit score in 2019?
 
 First, shoot for perfection! By that, I mean **shoot for a score of 850.**
 
-If 850 isn’t possible for you, **try shooting for 750**—the second-best score you can attain. Even at this mark, lenders will be fighting for your business, and they’ll give you a great rate. If you want to check your credit score regularly and get a better idea of what affects it, Credit Karma offers a free app you can download to your phone.
+If 850 isn’t possible for you, **try shooting for 750**—the second-best score you can attain. Even at this mark, lenders will be fighting for your business, and they’ll give you a great rate. If you want to check your credit score regularly and get a better idea of what affects it, Credit Karma offers a free app you can download to your phone.&nbsp;
 
 Next, **set up automatic payments for your monthly bills.** This includes your utilities as well as your credit card payments. If you’ve had trouble paying these bills on time in the past, this will help tremendously.
 
