@@ -2,33 +2,39 @@
 layout: post
 title: Will I Pay Less Commission If I Find My Own Buyer?
 tags:
-  - Market Update
   - Real Estate
-  - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  If a seller locates their own buyer, will they not be required to pay as much
+  commission? Today we’ll answer that question and more
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+Will+I+Pay+Less+Commission+If+I+Find+My+Own+Buyer_.mp4
+pullquote: >-
+  Contrary to what you might think, finding a buyer is a relatively small piece
+  of the process for your agent.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_alternate_image: /uploads/1-15-own-buyer-np.jpg
+youtube_code: L8JE5uNnSF4
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
+There’s an erred belief among many sellers out there that any commission they pay to their Realtor will be reduced if they’re able to secure a buyer on their own.&nbsp;
+
+At the heart of the real estate transaction, the goal is to obviously find a buyer to sell the property to, but there’s much more that goes into finalizing the process. In the event that you find your own buyer, it’s oftentimes spelled out in your contract that you, nevertheless, remain beholden to pay a specific amount to your agent.&nbsp;
+
+**With this in mind, you can request a flexible commission plan.** If you make a point of requesting this up front, your agent may be agreeable to establishing this type of plan with you. Should you find your own buyer, this will allow for the possibility of adjustable commission.
+
+But what is the true value you extract from your agent’s efforts?&nbsp;
+
+**Contrary to what you might think, finding a buyer is a relatively small piece of the process for your agent.** Once you’ve accepted the buyer’s bid, your agent has the responsibility of doing paperwork with all other parties involved—the buyer’s agent, legal representation, and even title companies.
 
 {% include pullquote.html %}
 
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
+Before signing an agreement with an agent, take the opportunity to discuss services and commission. If you have a pre-established idea of what you’re willing to pay and it’s somewhat lower, understand that this means the scope of services your agent provides might be narrower. **As the old adage goes: You get what you pay for.&nbsp;**
 
-To hear the full radio endorsement, listen to the clip above.
+From there, your agreement should detail what you’ll pay, whether or not you can cooperate with other agents, your agent’s responsibilities, the length of the contract, and whether or not you can cancel. &nbsp;
+
+For help with any and all of your real estate needs, please give us a call or send us an email. We’d love to help however we can!&nbsp;<br>&nbsp;
