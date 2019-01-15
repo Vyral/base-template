@@ -30,6 +30,6 @@ The answer to the question depends on a combination of local conditions, your re
 
 This past month, we sent out another email that offered a free, personal home value report. We want you to know the current value of your home so that you can understand the effects that a shift can have on your property. **At the Peterson Team, our core values are to lead, guide, and protect you by listening and understanding your wants and needs.** We also want to interpret each change for you and protect you, your family, and your home.
 
-While a good number of our clients have already reached out and asked for their free, personal home value report, **if you missed the email, all you need to do is give us a call, text, or email today and we’ll be happy to get yours out to you.**
+While a good number of our clients have already reached out and asked for their free, personal home value report, **if you missed the email, all you need to do is give us a call, text, or email today, and we’ll be happy to get yours out to you.**
 
 If you have any other real estate-related questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
