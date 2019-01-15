@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can a Multi-Employer Plan Solve Your Company’s Retirement Plan Needs?
-date: 2019-01-10 22:11:50
+date: 2019-01-10 22:11:00
 tags:
   - Business Owners
   - Financial Advice
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 screenshot: /uploads/11.16.18YT.jpg
-video_file: /uploads/Nov_1.mp4
+video_file: /uploads/Nov1.mp4
 ---
 
 {% include post-video.html %}
