@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Tip to Buyers and Sellers Entering the Market This Year
-date: 2019-01-11 15:05:48
+date: 2019-01-11 15:05:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -17,22 +17,22 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 36FHKVuXZH8
+youtube_code: HSKIS6qr228
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m answering a question that’s probably on every buyer and seller’s mind: When is it too early to take action?</em></p>
+*Today I’m answering a question that’s probably on every buyer and seller’s mind: When is it too early to take action?*
 
-The real estate market can be likened to Black Friday pandemonium: You want to beat the rush. We’re approaching that time of year when leases will be ending, and people will be looking and relocating in every area of our market.&nbsp;
+The real estate market can be likened to Black Friday pandemonium: You want to beat the rush. We’re approaching that time of year when leases will be ending, and people will be looking and relocating in every area of our market. 
 
-So when is the best time to beat the real estate rush?&nbsp;
+So when is the best time to beat the real estate rush? 
 
-You can count on both the buyer and seller crowd storming onto the market in April and May, and even as early as March, but that doesn’t mean there will be a lack of activity in January and February. **Actually, people are buying and selling in the winter months.&nbsp;**
+You can count on both the buyer and seller crowd storming onto the market in April and May, and even as early as March, but that doesn’t mean there will be a lack of activity in January and February. **Actually, people are buying and selling in the winter months. **
 
-**As a buyer, being early will help you avoid multiple-offer scenarios that you may have encountered in last year’s market.** If you’re tied to a lease for a little longer, pay your two months and close on the first of the month so you can stay in front of the busy season.&nbsp;
+**As a buyer, being early will help you avoid multiple-offer scenarios that you may have encountered in last year’s market.** If you’re tied to a lease for a little longer, pay your two months and close on the first of the month so you can stay in front of the busy season. 
 
-Come April and May, the market will be inevitably flooded with thousands of properties. **If you’re a seller, listing now will give you a decisive advantage and ensure that your home stands out.**&nbsp;
+Come April and May, the market will be inevitably flooded with thousands of properties. **If you’re a seller, listing now will give you a decisive advantage and ensure that your home stands out.** 
 
 {% include pullquote.html %}
 
