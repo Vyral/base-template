@@ -9,7 +9,7 @@ excerpt: >-
   Today I’m answering a question that’s probably on every buyer and seller’s
   mind: When is it too early to take action?
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+When+Is+Too+Early+to+Buy+or+Sell_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+A+Quick+Tip+to+Buyers+and+Sellers+Entering+the+Market+This+Year.mp4
 pullquote: >-
   As a buyer, being early will help you avoid multiple-offer scenarios that you
   may have encountered in last year’s market.
@@ -22,7 +22,7 @@ youtube_code: HSKIS6qr228
 
 {% include youtube.html %}
 
-*Today I’m answering a question that’s probably on every buyer and seller’s mind: When is it too early to take action?*
+<p style="text-algn: center;"><em>Today I’m answering a question that’s probably on every buyer and seller’s mind: When is it too early to take action?</em></p>
 
 The real estate market can be likened to Black Friday pandemonium: You want to beat the rush. We’re approaching that time of year when leases will be ending, and people will be looking and relocating in every area of our market. 
 
