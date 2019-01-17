@@ -24,16 +24,14 @@ custom_links:
 client:
   name: Rob Spring
   license_number: NMLS ID 221178
-  about_markdown: >
+  about_markdown: >-
     Hello, My name is Rob Spring with the Spring Mortgage Team at AmeriFirst
     Financial of Texas. I am a License Loan Originator and we are a local
     Mortgage Lender and Broker. Our office is just off the Historic Downtown
-    Square in McKinney, Texas.
-
-    I have been in Mortgage and Real Estate for 15 years. I’ve seen the ups and
-    downs – The Mortgage World has changed quite a bit over the years. I’ve
-    worked for the big bank, the Mom and Pop, ran branches and teams - I’ve
-    found my forever home with AmeriFirst.
+    Square in McKinney, Texas. I have been in Mortgage and Real Estate for 15
+    years. I’ve seen the ups and downs – The Mortgage World has changed quite a
+    bit over the years. I’ve worked for the big bank, the Mom and Pop, ran
+    branches and teams - I’ve found my forever home with AmeriFirst.
   market:
   brand: The Spring Mortgage Team
   brokerage: 'Amerifirst Financial, Inc.'
@@ -42,7 +40,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: RSpring@AmeriFirst.us
+  email: rspring@hometrust.com
   url:
 emma_form: >-
   <script
