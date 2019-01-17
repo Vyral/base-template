@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year in Review for the Las Vegas Market
-date: 2018-12-13 19:59:00
+date: 2019-01-17 16:00:00
 tags:
   - Home Seller Tips
 excerpt: Home appreciation continues to soar in Las Vegas.
@@ -16,7 +16,7 @@ youtube_alternate_image:
 youtube_code: EQVLS_vefKE
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %} 
 
 Today we’re going to be discussing what we saw from the Las Vegas real estate market in 2018. **Overall, the market was very positive.** We had very low inventory, which resulted in a frenzy in the market. We saw multiple offers, quick sales, and more. Although this market was great for sellers, it did cause a bit of an imbalance.
 
