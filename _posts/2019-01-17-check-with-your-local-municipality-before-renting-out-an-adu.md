@@ -22,7 +22,9 @@ youtube_code: J--dZgALkVk
 
 {% include youtube.html %}
 
-<center>Accessory dwelling units represent a great opportunity for homeowners, but there are rules for renting them out that you need to pay attention to.</center>
+<center><em>Accessory dwelling units represent a great opportunity for homeowners, but there are rules for renting them out that you need to pay attention to.</em></center>
+
+&nbsp;
 
 As you may know, Salt Lake City passed an ordinance last October that allowed all homeowners to have accessory dwelling units (ADUs) on their property. If you’re looking to make some extra money through real estate investing or you’d like to have additional family members (such as an in-laws) live on your property, ADUs are a great option.
 
