@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Market Shift Means for You
-date:
+date: 2019-01-17 18:31:12
 tags:
   - Market Update
 excerpt: >-
