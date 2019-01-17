@@ -31,7 +31,7 @@ Next, **set up automatic payments for your monthly bills.** This includes your u
 
 {% include pullquote.html %}
 
-Also, **don’t be afraid of exploring refinancing options.** If your credit score isn’t where you want it to be but it’s good enough to get a loan, this is a useful strategy. However, I should stress that your refinancing rate should be at least two points lower than your original rate.
+Also, **don’t be afraid of exploring refinancing options.** If your credit score isn’t where you want it to be, but it’s good enough to get a loan, this is a useful strategy. However, I should stress that your refinancing rate should be at least two points lower than your original rate.
 
 Finally, **watch your credit limit.** If you have a limit of $5,000, for example, you should only use up to 30% of it, and using less than that would be even better. However, don’t use 0% of your credit limit, because that’s a red flag in creditors’ eyes. When they look at your credit score, they want to make sure you know how to manage your money, and having a 0% balance has the opposite effect.
 
