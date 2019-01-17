@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-8-19-new-year-np.jpg
-youtube_code: Fsxbj_jVL6on0
+youtube_code: Fsxbj_jVL6o
 ---
 
 {% include youtube.html %}
