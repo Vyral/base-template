@@ -19,6 +19,8 @@ youtube_code: ogOywjGfVTI
 
 {% include youtube.html %}
 
+[Check out Tara's recent interview on the topic](https://www.nwahomepage.com/news/millennials-delay-homeownership-compared-to-other-generations/1687089361){: target="_blank"}
+
 We all know that millennials are crazy, lazy, and want to live with their parents forever, right? Wrong! **Studies are coming out that show millennials aren’t buying homes as quickly as their predecessors, but that doesn’t mean they don’t want a home.**
 
 Millennials are the most educated generation that our country has ever seen, but with that education comes a cost. That cost is student loan debt. A lot of millennials are waiting until they finish college, get their feet underneath them, and start paying off that debt before they decide to buy their first home.
