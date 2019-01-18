@@ -25,11 +25,11 @@ There are three primary ways you can get leads: through your sphere, through inb
 
 Of course, the sphere tends to be the strongest source for clients. **The problem is that spheres aren’t scalable.**
 
-So what about inbound? As you know, this involves running ads using Facebook, Google Pay-Per-Click, or Boomtown (if you’re in real estate). This is all well and good, it’s also expensive. Also, internet leads aren’t always the highest quality. And, on top of that, a single change in a website’s algorithm can completely stifle your growth by hindering the number of leads you’re getting for the amount you’re used to spending.
+So what about inbound? As you know, this involves running ads using Facebook, Google Pay-Per-Click, or Boomtown (if you’re in real estate). This is all well and good, but it’s also expensive. Also, internet leads aren’t always the highest quality. And, on top of that, a single change in a website’s algorithm can completely stifle your growth by hindering the number of leads you’re getting for the amount you’re used to spending.
 
 {% include pullquote.html %}
 
-**In short: There are some issues with inbound prospecting.** Even though it is fairly scalable and can be a good supplement to your overall plan for lead generation, it won’t be enough on its on.
+**In short: There are some issues with inbound prospecting.** Even though it is fairly scalable and can be a good supplement to your overall plan for lead generation, it won’t be enough on its own.
 
 That’s why we at 1000 Calls A Day focus on outbound prospecting. **We know how difficult it can be to sit on the phone for hours on end, so we’ve made it so that you don’t have to.** We have made outbound prospecting completely scalable. When you work with us, you control the data, the money you spend, the number of dials, and everything else.&nbsp;
 
