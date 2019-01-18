@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Shift Is Happening: Trends to Watch This Year'
-date: 2019-01-16 17:50:03
+date: 2019-01-16 17:50:00
 tags:
 excerpt: >-
   We’re watching a few things in the market very closely this year that will,
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray--key-market-trends-to-watch-youtube.jpg
-youtube_code: up6Spn6ssn0
+youtube_code: 'https://youtu.be/qL8clDDdz8w'
 ---
 
 {% include youtube.html %}
@@ -33,4 +33,4 @@ We’re watching a few things in the market very closely this year that will, de
 2. **As prices go up, there is less availability of entry-level homes.** We’re seeing that a sizeable portion of would-be buyers are having to sit on the sidelines, as increased prices and rising interest rates are making first-time home purchases difficult for many people.
 3. **Millennials are the dominant buyers on the market.** The younger generation who, years ago, were thought to be disinterested in buying and selling homes now make up 45% of all mortgages. For reference, baby boomers only make up 17%, and Generation X makes up 37%. Since millennials grew up in the time of great technological innovation, agents are having to rearrange how we do our marketing and focus on staying in front of them in the digital realm.
 
-On my next video, I’ll discuss some specifics about what to expect here in the Houston area. If you have any questions, feel free to reach out to me. I’d be happy to address any questions or concerns you have.<br>&nbsp;
+On my next video, I’ll discuss some specifics about what to expect here in the Houston area. If you have any questions, feel free to reach out to me. I’d be happy to address any questions or concerns you have.<br>
