@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How a One-Time Payment Recast Can Help You Win
-date: 2018-12-06 21:41:45
+date: 2019-01-17 21:41:00
 tags:
   - Real Estate
 excerpt: >-
