@@ -19,7 +19,7 @@ youtube_code: ogOywjGfVTI
 
 {% include youtube.html %}
 
-[Check out Tara's recent interview on the topic](https://www.nwahomepage.com/news/millennials-delay-homeownership-compared-to-other-generations/1687089361){: target="_blank"}
+**[Check out Tara's recent interview on the topic](https://www.nwahomepage.com/news/millennials-delay-homeownership-compared-to-other-generations/1687089361){: target="_blank"}**
 
 We all know that millennials are crazy, lazy, and want to live with their parents forever, right? Wrong! **Studies are coming out that show millennials aren’t buying homes as quickly as their predecessors, but that doesn’t mean they don’t want a home.**
 
