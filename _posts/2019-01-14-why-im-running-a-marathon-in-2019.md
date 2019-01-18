@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/PfLIojbm488'
 
 If we’re connected on social media and you’ve seen any of my latest posts, you know that I’ve signed up to run the 2019 New York City Marathon.&nbsp;
 
-I used to scoff at the idea of running a marathon, but I realized recently that over the past couple of years that I’ve developed some good habits about getting up early and doing some form of exercise. However, this exercise was usually just walking on the treadmill. That’s why, **as I was planning my 2019 goals, I felt like I needed to challenge myself from a health perspective.&nbsp;**
+I used to scoff at the idea of running a marathon, but I realized recently that over the past couple of years, I’ve developed some good habits about getting up early and doing some form of exercise. However, this exercise was usually just walking on the treadmill. That’s why, **as I was planning my 2019 goals, I felt like I needed to challenge myself from a health perspective.&nbsp;**
 
 When you start having these thoughts, the right people tend to show up in your life. I was in California recently teaching a business class, and afterward I had lunch with one of the attendees. During our conversation, I realized that although I was supposed to be coaching him, I was going to learn a lot more from him than he was from me.
 
