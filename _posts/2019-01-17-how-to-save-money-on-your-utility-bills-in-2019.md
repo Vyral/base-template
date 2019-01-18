@@ -21,12 +21,12 @@ youtube_code: jT1fugm9voY
 
 2019 is well underway, and if one of your resolutions as a homeowner this year is to save money, I have a few tips and tricks that will help you save on your utility bills.
 
-First, install a programmable thermostat. This will automatically regulate your home’s air temperature when you’re not there. You can also caulk and weatherstrip your home’s doors and windows to make sure the heat stays inside and the cold stays outside. Adding insulation is another useful tip as far as conserving heat goes.
+First, **install a programmable thermostat.** This will automatically regulate your home’s air temperature when you’re not there. You can also caulk and weatherstrip your home’s doors and windows to make sure the heat stays inside and the cold stays outside. Adding insulation is another useful tip as far as conserving heat goes.
 
 {% include pullquote.html %}
 
-To optimize your home’s water usage, try installing low-flow showerheads for your bathrooms. You can also consider installing a tankless water heater—it’s a little more expensive on the front end, but it’s 35% to 40% more efficient than a regular water heater.
+To optimize your home’s water usage, **try installing low-flow showerheads for your bathrooms.** You can also consider installing a tankless water heater—it’s a little more expensive on the front end, but it’s 35% to 40% more efficient than a regular water heater.
 
-Moving to the outside of your home, try upgrading your sprinkler system. These days, you can control the latest sprinkler systems from your smartphone. You can also try xeriscaping, or landscaping with plants that don’t require a lot of water or maintenance.
+Moving to the outside of your home, **try upgrading your sprinkler system.** These days, you can control the latest sprinkler systems from your smartphone. You can also try xeriscaping, or landscaping with plants that don’t require a lot of water or maintenance.
 
 If you have any more real estate questions for me, don’t hesitate to call or message me right here on my website. I’d be happy to speak to you.
