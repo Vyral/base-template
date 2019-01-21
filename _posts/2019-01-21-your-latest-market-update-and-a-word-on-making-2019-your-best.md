@@ -19,7 +19,7 @@ youtube_code: WFDNucRvtSY
 
 {% include youtube.html %}
 
-You can make 2019 your best year yet, even if the market is proving to be volatile.
+<p style="text-align: center;"><em>You can make 2019 your best year yet, even if the market is proving to be volatile.</em></p>
 
 Today we’ll be talking about the latest market outlook and go over how we can make 2019 your best year yet.
 
