@@ -21,7 +21,7 @@ youtube_code: zjeVSfr88UE
 
 <p style="text-align: center;"><em>There are four key points to know about our St. George market as we move forward in 2019.</em></p>
 
-As we settle into 2019, our St. George market has ebbed slightly recently. Does this mean the market in general is slowing down? No—we’re still in a robust market. To explain why, there are four points you need to remember.
+As we settle into 2019, it's time to take a look at our St. George market. It's certainly ebbed slightly recently. Does this mean the market, in general, is slowing down? No—we’re still in a robust market. To explain why, there are four points you need to remember.
 
 **For your convenience, I’ve provided timestamps of each point in the video above so you can skip ahead to the section(s) that interest you the most:&nbsp;**
 
