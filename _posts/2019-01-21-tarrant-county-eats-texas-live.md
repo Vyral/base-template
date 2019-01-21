@@ -21,11 +21,11 @@ youtube_code: mRdizyPbYBc
 
 {% include youtube.html %}
 
-<center><em>Today on Tarrant County Eats we took a trip to DFW&rsquo;s newest entertainment district: Texas Live!</em></center>
+<center><em>Today on Tarrant County Eats we took a trip to DFW&rsquo;s newest entertainment venue: Texas Live!</em></center>
 
 &nbsp;
 
-Welcome back to Tarrant County Eats! This time, we’re coming to you straight from DFW’s newest entertainment district: Texas Live!.
+Welcome back to Tarrant County Eats! This time, we’re coming to you straight from DFW’s newest entertainment venue: Texas Live!.
 
 The Live! Arena, the venue where all the action takes place, has nine restaurants, five live-music stages, two massive video feeds from the AT&T Stadium and the Rangers Ballpark, and over 30 bars where patrons can come to watch the game. We’re going to show you around today.
 
