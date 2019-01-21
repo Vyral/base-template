@@ -20,9 +20,9 @@ youtube_code: L21ghNhURsc
 
 {% include youtube.html %}
 
-If you’re buying a home for the first time, are you better off buying a starter home or your forever home?
+If you’re buying a home for the first time, are you better off buying a starter home or a forever home?
 
-First, let’s clarify what we mean when we say “starter home.” Economists typically designate starter homes as those belonging to the lower third of the market’s price points. For many people, though, buying starter home is about more than just price—it’s also about how long you plan on living there.
+First, let’s clarify what we mean when we say “starter home.” Economists typically designate starter homes as those belonging to the lower third of the market’s price points. For many people, though, buying a starter home is about more than just price—it’s also about how long you plan on living there.
 
 This is where the dilemma lies when choosing between the two types of homes. Buying and selling a home, as well as moving in and out of it, carry different expenses. Also, since the bulk of your mortgage payment is going toward interest the first few years, it’s unlikely that you’ll build up much equity if you only own the home a short while. In fact, according to one estimate, the break-even point for a starter home is somewhere between five and seven years. In other words, if you plan on living in your home for just a few years, it might not make sense to buy it in the first place.
 
