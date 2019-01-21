@@ -35,6 +35,6 @@ What’s the one dental hygiene tip Claudia would like to share to the world?
 
 “Brush your teeth,” she says. “It’s better than anything else that I can do.”
 
-Near the end of the video, you can see testimonials from both patients and employees of Ablantis Dental. If you’d like to know more about Ablantis Dental or you want to schedule an appointment with them, call (760) 334-0128 or&nbsp;[visit their website](https://ablantisdental.com/){: target="_blank"}.
+Near the end of the video, you can see testimonials from both patients and employees of Ablantis Dental. If you’d like to know more about Ablantis Dental or you want to schedule an appointment with them, **call (760) 334-0128 or&nbsp;[visit their website](https://ablantisdental.com/){: target="_blank"}**.
 
 If you own a local business or head a community organization and you’d like to appear on a future episode of this new series, don’t hesitate to reach out to me. I’d love to talk to you.
