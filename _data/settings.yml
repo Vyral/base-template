@@ -52,16 +52,19 @@ sidebar_CTA:
     CTA_url: http://clickcharlestonsc.com/
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  headshot_path: /img/lender-headshot.jpg
+  logo_path: /img/lender-logo.jpg
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: Matthew Mieras, Branch Manager
+  license_number: 'NMLS #245686'
+  brand: CMG Financial
+  brand_license_number: 'NMLS #1820'
+  address: 765 Long Point Road Suite A Mt. Pleasant, SC 29464
+  phone: 843-670-5512
+  email: MMieras@cmgfi.com
+  url: https://www.myloanform.com/?action=access.login
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
