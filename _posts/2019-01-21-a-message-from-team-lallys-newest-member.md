@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Message From Team Lally’s Newest Member
-date:
+date: 2019-01-21 16:37:37
 tags:
   - Real Estate
 excerpt: 'Our team has a new member, and we’re excited to introduce him to you today.'
