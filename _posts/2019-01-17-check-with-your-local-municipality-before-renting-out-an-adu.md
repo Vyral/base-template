@@ -12,7 +12,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+With+Your+Local+Municipality+Before+Renting+Out+an+ADU.mp4
 pullquote: >-
   There are a lot of great opportunities to be had with ADUs, but you need to
-  make sure you that you follow these rules before adding one to your property.
+  make sure that you follow these rules before adding one to your property.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
