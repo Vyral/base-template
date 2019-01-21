@@ -21,7 +21,7 @@ youtube_code: YSp38aTBEw8
 
 {% include youtube.html %}
 
-Our seminar is a tried-and-true way to get all the information you need for selling a home.
+<p style="text-align: center;"><em>Our seminar is a tried-and-true way to get all the information you need for selling a home.</em></p>
 
 Every February, we at the Dar Walden Team host our annual home seller seminar, and you’re invited! At this popular event, attendees receive great, timely information about the home selling process, best practices, and ways to sell for top dollar.&nbsp;
 
