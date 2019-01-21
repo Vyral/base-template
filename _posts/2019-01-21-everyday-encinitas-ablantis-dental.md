@@ -17,7 +17,9 @@ youtube_code: rWwj4YpmAAc
 
 {% include youtube.html %}
 
-<center> For the first episode of “Everyday Encinitas,” I’m visiting Ablantis Dental.</center>
+<center><em>For the first episode of &ldquo;Everyday Encinitas,&rdquo; I&rsquo;m visiting Ablantis Dental.</em></center>
+
+&nbsp;
 
 For the first episode of “Everyday Encinitas,” I’m visiting Ablantis Dental and speaking with Dr. Claudia Cordati.
 
