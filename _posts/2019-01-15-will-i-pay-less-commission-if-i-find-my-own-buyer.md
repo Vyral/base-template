@@ -21,7 +21,7 @@ youtube_code: L8JE5uNnSF4
 
 {% include youtube.html %}
 
-There’s an erred belief among many sellers out there that any commission they pay to their Realtor will be reduced if they’re able to secure a buyer on their own.&nbsp;
+There’s a misconception among many sellers out there that any commission they pay to their Realtor will be reduced if they’re able to secure a buyer on their own.&nbsp;
 
 At the heart of the real estate transaction, the goal is to obviously find a buyer to sell the property to, but there’s much more that goes into finalizing the process. In the event that you find your own buyer, it’s oftentimes spelled out in your contract that you, nevertheless, remain beholden to pay a specific amount to your agent.&nbsp;
 
