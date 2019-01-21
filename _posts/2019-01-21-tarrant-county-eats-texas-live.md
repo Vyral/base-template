@@ -21,7 +21,9 @@ youtube_code: mRdizyPbYBc
 
 {% include youtube.html %}
 
-<center>Today on Tarrant County Eats we took a trip to DFW’s newest entertainment district: Texas Live!</center>
+<center><em>Today on Tarrant County Eats we took a trip to DFW&rsquo;s newest entertainment district: Texas Live!</em></center>
+
+&nbsp;
 
 Welcome back to Tarrant County Eats! This time, we’re coming to you straight from DFW’s newest entertainment district: Texas Live!.
 
