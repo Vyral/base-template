@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Coaching Strategies and Closing Techniques
-date: 2019-01-22 17:51:55
+date: 2019-01-22 17:51:00
 tags:
   - Agent Advice
 excerpt: >-
   Join us today to learn innovative communication strategies and powerful
   closing techniques.
 enclosure:
-pullquote: >-
-  A strong understanding of these tactics can mean the difference between making
-  a deal and losing it.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -35,8 +33,6 @@ In part 13 of our real estate fundamentals series, we’ll be taking a look at c
 06:16 — Identifying and using emotion
 
 07:08 — Using tie-down questions and presuppositions
-
-{% include pullquote.html %}
 
 07:53 — Examples of tie-down questions
 
