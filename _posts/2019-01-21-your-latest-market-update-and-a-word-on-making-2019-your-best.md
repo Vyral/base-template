@@ -27,7 +27,7 @@ The stock market is volatile, the Fed is raising interest rates, and there’s a
 
 My biggest concern, though, **is that many people are moving down south.** People are retiring or their kids are going off to college, so they figure now’s a good time to downsize and move to a new area. This is only going to accelerate over the next few years.
 
-While the market is uncertain, there’s one thing we can be in control of: **that 2019 will be our best year yet.** I’ve been able to mentor someone recently, and I believe it’s helping me just as much as it is him. Most of life is used finding your purpose, and I think one of the biggest purposes we have is helping others. I’m all about helping build others up.&nbsp;
+While the market is uncertain, there’s one thing we can be in control of: **2019 will be our best year yet.** I’ve been able to mentor someone recently, and I believe it’s helping me just as much as it is him. Most of life is used finding your purpose, and I think one of the biggest purposes we have is helping others. I’m all about helping build others up.&nbsp;
 
 In David Goggins’ book, “Can’t Hurt Me,” he tells a story about an instructor who taught two trainees how to open a clogged airway. Two days later in a skydiving incident, the instructor’s airway became clogged and he was unable to breathe. **He was then saved by the two people he had trained just two days prior.**
 
