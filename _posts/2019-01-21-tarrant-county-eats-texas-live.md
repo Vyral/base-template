@@ -4,7 +4,7 @@ title: 'Tarrant County Eats: Texas Live!'
 tags:
   - Real Estate
 excerpt: >-
-  Today on Tarrant County Eats we took a trip to DFW’s newest entertainment
+  Today on Tarrant County Eats, we took a trip to DFW’s newest entertainment
   district: Texas Live!
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Videos/Tarrant+County+Eats-+Texas+Live!.mp4
@@ -21,7 +21,7 @@ youtube_code: mRdizyPbYBc
 
 {% include youtube.html %}
 
-<center><em>Today on Tarrant County Eats we took a trip to DFW&rsquo;s newest entertainment venue: Texas Live!</em></center>
+<center><em>Today on Tarrant County Eats, we took a trip to DFW&rsquo;s newest entertainment venue: Texas Live!</em></center>
 
 &nbsp;
 
@@ -47,6 +47,6 @@ The Live! Arena, the venue where all the action takes place, has nine restaurant
 
 7:01 - How Texas Live! is utilized for various public events
 
-To find out more about Texas Live!, view the restaurants they house, or find events that peak your interest, **call (817) 852-6688 or [visit their website](http://texas-live.com){: target="_blank"}**.
+To find out more about Texas Live!, view the restaurants they house, or find events that pique your interest, **call (817) 852-6688 or [visit their website](http://texas-live.com){: target="_blank"}**.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
