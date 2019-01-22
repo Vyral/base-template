@@ -31,4 +31,4 @@ Need ideas for something to do with a small space in your home? Try these three 
 
 **3. Use furniture for storage.** Don’t have a lot of floor space? Use tables and benches with hidden storage compartments. Crates, boxes, and containers that are low in depth but wide are great for under-bed storage.
 
-If you’re looking for a new home, check out our inventory on [www.JeffCookRealEstate.com](www.JeffCookRealEstate.com){: target="_blank"}, and feel free to reach out to us for any questions you have.
+If you’re looking for a new home, check out our inventory on [www.JeffCookRealEstate.com](www.JeffCookRealEstate.com), and feel free to reach out to us for any questions you have.
