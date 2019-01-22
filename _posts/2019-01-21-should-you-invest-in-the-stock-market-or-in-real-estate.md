@@ -19,12 +19,12 @@ youtube_code: iVLgDPCl71U
 
 I’m not a believer in telling people what to do when investing, but I’ll gladly share with you the pros and cons of the stock market and real estate. This way, you can weigh the benefits and decide which one works best in your situation.
 
-Real estate is less volatile than the stock market. While stocks can change rapidly (which is definitely the case lately), real estate is a solid, long-term investment. And since we always need a place to live, it’s better for you to buy property instead of rent it. As rent continues to rise, it’s oftentimes much cheaper to pay a monthly mortgage payment anyway.
+**Real estate is less volatile than the stock market.** While stocks can change rapidly (which is definitely the case lately), real estate is a solid, long-term investment. And since we always need a place to live, it’s better for you to buy property instead of rent it. As rent continues to rise, it’s oftentimes much cheaper to pay a monthly mortgage payment anyway.
 
 {% include pullquote.html %}
 
-The stock market is also risky; you can put $100,000 in and potentially lose it overnight. If you put that same amount in real estate, your money will stay there (unless a catastrophic event occurs). There will always be a demand for housing, so if you have a second home, you can rent it out and earn more.
+The stock market is also risky; you can put $100,000 in and potentially lose it overnight. **If you put that same amount in real estate, your money will stay there** (unless a catastrophic event occurs). There will always be a demand for housing, so if you have a second home, you can rent it out and earn more.
 
-If you’ve been seeing stories on the news about the current stock market fluctuations, don’t worry—these ups and downs don’t reflect the real estate market. In fact, we anticipate a very steady housing market throughout 2019. If you’re looking to buy or sell, now’s the time to make a move.
+If you’ve been seeing stories on the news about the current stock market fluctuations, don’t worry—**these ups and downs don’t reflect the real estate market.** In fact, we anticipate a very steady housing market throughout 2019. If you’re looking to buy or sell, now’s the time to make a move.
 
 If you have any questions or need more information, feel free to reach out to me. I look forward to hearing from you soon.
