@@ -48,7 +48,7 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Apply Online
-  first_CTA_URL: 'https://hometrust.mymortgage-online.com/RobSpring.html'
+  first_CTA_URL: 'https://hometrust.mymortgage-online.com/RobSpring.html?loanapp&siteid=7063052236&lar=rspring&workFlowId=39669'
   second_CTA_text: Book an Appoinment
   second_CTA_URL: 'https://calendly.com/thespringmortgageteam'
 sidebar_CTA:
@@ -57,13 +57,13 @@ sidebar_CTA:
     CTA_text: Get started in the loan process by completing our short loan application.
     CTA_link_text: Apply Online
     CTA_url: >-
-      https://txportal.amerifirstloan.com/?loanapp&siteid=8219561637&workFlowId=31481&lar=rspring
+      https://hometrust.mymortgage-online.com/RobSpring.html?loanapp&siteid=7063052236&lar=rspring&workFlowId=39669
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Choose Your Appointment Option
     CTA_text2: The Spring Mortgage Team at Amerifirst
     CTA_link_text2: Book An Appoinment
-    CTA_url2: 'https://thespringmortgageteam.setmore.com/'
+    CTA_url2: 'https://calendly.com/thespringmortgageteam'
 lender:
   show_section: false
   header_text: Preferred Lender
