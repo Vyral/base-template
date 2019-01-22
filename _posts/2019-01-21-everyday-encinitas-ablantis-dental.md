@@ -27,7 +27,7 @@ Claudia has been practicing dentistry since 2005, and she opened up her office h
 
 There are many tools a dentist uses, and Claudia’s dentistry changed many years ago when she changed the technology she uses. If one of her patients needs a crown, for instance, they only need to make one visit now.
 
-Claudia cites her listening skills as one of the primary reasons patients choose her. Family is important to Claudia, just like it is with me, and **one of my favorite things about her practice is how she continues to grow and nurture and grow the relationships she has with her clients**. She likes to work with people, and she explains that she does a better job if she knows the patient she’s treating.
+Claudia cites her listening skills as one of the primary reasons patients choose her. Family is important to Claudia, just like it is with me, and **one of my favorite things about her practice is how she continues to grow and nurture the relationships she has with her clients**. She likes to work with people, and she explains that she does a better job if she knows the patient she’s treating.
 
 {% include pullquote.html %}
 
