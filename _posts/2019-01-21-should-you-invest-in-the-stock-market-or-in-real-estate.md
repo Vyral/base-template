@@ -23,7 +23,7 @@ I’m not a believer in telling people what to do when investing, but I’ll gla
 
 {% include pullquote.html %}
 
-The stock market is also risky; you can put $100,000 in and potentially lose it overnight. **If you put that same amount in real estate, your money will stay there** (unless a catastrophic event occurs). There will always be a demand for housing, so if you have a second home, you can rent it out and earn more.
+The stock market is also risky: You can put $100,000 in and potentially lose it overnight. **If you put that same amount into real estate, your money will stay there** (unless a catastrophic event occurs). There will always be a demand for housing, so if you have a second home, you can rent it out and earn more.
 
 If you’ve been seeing stories on the news about the current stock market fluctuations, don’t worry—**these ups and downs don’t reflect the real estate market.** In fact, we anticipate a very steady housing market throughout 2019. If you’re looking to buy or sell, now’s the time to make a move.
 
