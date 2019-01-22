@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Recognizing the 3 Red Flags of a Market Crash
-date: 2019-01-21 16:05:11
+date: 2019-01-21 16:05:00
 tags:
   - Real Estate
 excerpt: >-
   How can we know when a market crash is imminent? By recognizing three red
   flags.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Oggie+Penev/Videos/Penev+Realty+_+Recognizing+the+3+Red+Flags+of+a+Market+Crash.mp4
 pullquote: We always keep an eye on these indicators.
 enclosure_type: video/mp4
 enclosure_time:
