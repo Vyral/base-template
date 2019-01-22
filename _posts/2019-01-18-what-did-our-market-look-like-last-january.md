@@ -19,13 +19,13 @@ youtube_code: 'https://youtu.be/s5fjKRn3994'
 
 {% include youtube.html %}
 
-With a couple of weeks left to go until February, it’s still too early on to report on this January’s final market numbers. That said, one of the best ways to gauge our market is by looking to the past, which is why, **today, we’re going to be sharing a few interesting statistics from last year’s January market here in Athens and the surrounding areas.** As we go over these figures, we will also share how they compare to those from the same time in 2017.&nbsp;
+With a couple of weeks left to go until February, it’s still too early on to report on this January’s final market numbers. That said, one of the best ways to gauge our market is by looking to the past, which is why, **today, we’re going to be sharing a few interesting statistics from last year’s 2018 market here in Athens and the surrounding areas.** As we go over these figures, we will also share how they compare to those from the same time in 2017.&nbsp;
 
-First, let’s start with the total number of home sales. There were 3,540 total home sales in our Athens area as of January of 2018. This constitutes a slight drop from the 3,705 home sales that were recorded in January of 2017.&nbsp;
+First, let’s start with the total number of home sales. There were 3,540 total home sales in our Athens area in 2018. This constitutes a slight drop from the 3,705 home sales that were recorded in 2017.&nbsp;
 
-The average sale price, however, rose over that period of time—going up approximately 9% from $222,454 in 2017 to $243,854 in January of last year.&nbsp;
+The average sale price, however, rose over that period of time—going up approximately 9% from $222,454 in 2017 to $243,854 in 2018.&nbsp;
 
-The average days on market saw a noticeable change, as well. Homes spent an average of 114 days on the market in January of 2017. In January of 2018, they spent an average of just 83 days.
+The average days on market saw a noticeable change, as well. Homes spent an average of 114 days on the market for 2017. Throughout 2018, they spent an average of just 83 days.
 
 {% include pullquote.html %}
 
@@ -39,7 +39,7 @@ In Oconee County, there were 729 home sales in January of 2017 and 625 home sale
 
 The average sales price in Oconee, meanwhile, rose dramatically—from $336,590 in 2017 to $371,000 in 2018. Finally, the average days on market in that county dropped from 128 to 105.
 
-Clarke County saw similar trends. There were 1,546 total home sales there in January of 2017 and 1,478 total home sales the following year. Like Oconee County, the average home price rose. In Clarke County, this meant a jump from $197,000 in 2017 to $236,000 in 2018.&nbsp;
+Clarke County saw similar trends. There were 1,546 total home sales there in 2017 and 1,478 total home sales the following year. Like Oconee County, the average home price rose. In Clarke County, this meant a jump from $197,000 in 2017 to $236,000 in 2018.&nbsp;
 
 In a similar fashion to the other data we’ve covered, the average days on market in Clarke County dropped from 108 in 2017 to 68 last year.&nbsp;
 
