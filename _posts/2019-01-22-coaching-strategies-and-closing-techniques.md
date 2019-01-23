@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Join us today to learn innovative communication strategies and powerful
   closing techniques.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marcus+Green/VIdeos/2019/January/Northern+Utah+Real+Estate+Coaching-+Coaching+Strategies+and+Closing+Techniques.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
