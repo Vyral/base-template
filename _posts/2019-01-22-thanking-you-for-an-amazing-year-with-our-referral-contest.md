@@ -17,7 +17,7 @@ youtube_code: v64cD8hDsX0
 
 {% include youtube.html %}
 
-We at the Salas Team would like to thank you all for an amazing year; we wouldn’t be where we are without your support! To show our gratitude, we’d like to invite you to participate in our referral contest.
+We at the Salas Team would like to thank you all for an amazing year; we wouldn’t be where we are without your support! In an effort to show our appreciation for your continued support and have a little fun at the same time, we’d like to invite you to participate in our referral contest.
 
 **From now until February 28, send us referrals for anyone who is looking to buy or sell a home in 2019.**
 
