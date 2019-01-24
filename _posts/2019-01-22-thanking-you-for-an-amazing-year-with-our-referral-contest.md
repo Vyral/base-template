@@ -21,6 +21,6 @@ We at the Salas Team would like to thank you all for an amazing year; we wouldn�
 
 **From now until February 28, send us referrals for anyone who is looking to buy or sell a home in 2019.**
 
-<br>After you send us their name, phone number, and email, you’ll be entered into a prize drawing for a new Apple Watch. Visit [www.ReferTheSalasTeam.com](www.ReferTheSalasTeam.com){: target="_blank"} to enter.
+After you send us their name, phone number, and email, you’ll be entered into a prize drawing for a new Apple Watch. Visit [www.ReferTheSalasTeam.com](www.ReferTheSalasTeam.com){: target="_blank"} to enter.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
