@@ -18,4 +18,4 @@ youtube_code: bU38HyCludM
 
 To better serve any and all of your real estate needs, we’re happy to announce that we bought a building in Catonsville. The new home of the Wes Peters Group will be at 1717 Edmondson Avenue in what used to be a State Farm location.
 
-This will make us the only real estate brokerage with a storefront in Catonsville, **and we’re shooting to be moved in by March 1.** Until then, stay tuned to see our progress, and know that we’re excited to continue serving you at our new headquarters!
+This will make us the only real estate brokerage with a storefront in Catonsville, **and we’re hoping to be moved in by March 1.** Until then, stay tuned to see our progress, and know that we’re excited to continue serving you at our new headquarters!
