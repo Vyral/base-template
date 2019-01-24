@@ -51,6 +51,13 @@ sidebar_CTA:
     CTA_link_text: Home Search Tool
     CTA_url: http://clickcharlestonsc.com/
 
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "Looking for a Charleston Home?"
+    CTA_text2: "Search the entire MLS for your Charleston home."
+    CTA_link_text2: "Search the MLS"
+    CTA_url2: https://dave.clickcharlestonsc.com/sell.php?ppc=Vyral+Update&addht=%23VyralUpdate
+
 lender:
   show_section: true
   header_text: Preferred Lender
