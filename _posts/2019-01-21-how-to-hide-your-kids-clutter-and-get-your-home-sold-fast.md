@@ -32,6 +32,6 @@ If you’re trying to sell your home but you have small children running around 
 
 **3. Rotate toys based on seasons.** Or rather, get your kids in the habit of doing this. Have them decide what they want to keep, put those items in containers, and then store them away in your attic, basement, or garage. That way, it’s completely out of sight and they’re not thinking about it.
 
-**4. Minimize, and then add, style.** After your kids are done sorting through which toys they want to keep, donate, or throw away, you’ll have more space to decorate and stage however you like.
+**4. Minimize clutter to maximize style.** After your kids are done sorting through which toys they want to keep, donate, or throw away, you’ll have more space to decorate and stage however you like.
 
 Remember, if you have any more questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
