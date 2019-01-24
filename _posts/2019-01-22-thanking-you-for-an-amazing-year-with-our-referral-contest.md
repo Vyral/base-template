@@ -23,4 +23,4 @@ We at the Salas Team would like to thank you all for an amazing year; we wouldnâ
 
 <br>After you send us their name, phone number, and email, youâ€™ll be entered into a prize drawing for a new Apple Watch. Visit [www.ReferTheSalasTeam.com](www.ReferTheSalasTeam.com){: target="_blank"} to enter.
 
-&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
