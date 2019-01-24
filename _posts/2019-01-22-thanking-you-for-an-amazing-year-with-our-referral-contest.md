@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thanking You for an Amazing Year With Our Referral Contest
-date: 2019-01-22 16:18:35
+date: 2019-01-22 16:18:00
 tags:
   - Real Estate
 excerpt: You could win an Apple Watch! Just send us your referrals by February 28.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4M0fHYYeW6I
+youtube_code: v64cD8hDsX0
 ---
 
 {% include youtube.html %}
