@@ -19,9 +19,9 @@ youtube_code: YWm12FMZCtM
 
 {% include youtube.html %}
 
-In one of our recent messages, I shared with you the story of a client who wanted to buy a home in Cleveland Park. As you may remember, I went on to share my “1-2 Punch” method. **If you happened to miss that episode, you can see it here.**
+In one of our recent messages, I shared with you the story of a client who wanted to buy a home in Cleveland Park. As you may remember, I went on to share my “1-2 Punch” method. **If you happened to miss that episode, you can see it [here](https://youtu.be/7aRQQahHC3U).**
 
-The truth is, however, that the information I shared last time isn’t where this story ends. I told you about the happy ending, but I didn’t explain everything it took to get there. That changes now. Allow me to share, now, the rest of the story:
+The truth is, however, that the information I shared last time isn’t where this story ends. I told you about the happy ending, but I didn’t explain everything it took to get there. That changes now. Allow me to share the rest of the story:
 
 In order to find this client the perfect home, **I knew that merely scouring the MLS wouldn’t be enough. It was time to start looking at homes that weren’t listed yet.**
 
