@@ -19,7 +19,7 @@ youtube_code: vPtAFoQkjSQ
 
 {% include youtube.html %}
 
-Whether you’re thinking of buying your first home, your dream home, or your second home, it doesn’t cost as much as you think.
+<p style="text-align: center;"><em>Whether you’re thinking of buying your first home, your dream home, or your second home, it doesn’t cost as much as you think.</em></p>
 
 If you’re thinking of buying a second home, I have good news for you. &nbsp;
 
