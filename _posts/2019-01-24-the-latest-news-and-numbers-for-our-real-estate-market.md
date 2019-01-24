@@ -19,7 +19,7 @@ youtube_code: V9L7uNMN3LQ
 
 {% include youtube.html %}
 
-As 2019 begins, it’s time for another “Hot off the Press” market report. Here’s what you can expect from the real estate market this year.
+<p style="text-align: center;"><em>As 2019 begins, it’s time for another “Hot off the Press” market report. Here’s what you can expect from the real estate market this year.</em></p>
 
 It’s time to start off 2019 right with a January edition of the “Hot off the Press” market report. Last month, we talked about where things would go as we head into the first quarter, but today we’re going to tell you exactly where they are now and where they’re heading.
 
