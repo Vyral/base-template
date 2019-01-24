@@ -22,7 +22,9 @@ youtube_code: 9p8MRdzwKVo
 
 {% include youtube.html %}
 
-<center>Are you financially prepared to buy a home? If you aren’t already, you will be if you follow the three steps we’re sharing today.</center>
+<center><em>Are you financially prepared to buy a home? If you aren&rsquo;t already, you will be if you follow the three steps we&rsquo;re sharing today.</em></center>
+
+&nbsp;
 
 Buying a home requires a lot of careful planning. That’s why, today, we’ll cover three preliminary steps all buyers will need to follow to financially prepare for an upcoming home purchase.
 
