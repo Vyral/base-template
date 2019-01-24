@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make the Most Out of Small Spaces
-date: 2019-01-21 17:10:10
+date: 2019-01-21 17:10:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,14 +14,14 @@ pullquote: >-
   bulbs and colors that cause glares.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/cook-youtube-6.jpg
 youtube_code: Gr0t0C6ZtTs
 ---
 
 {% include youtube.html %}
 
-Need ideas for something to do with a small space in your home? Try these three great, easy tips:<br>&nbsp;
+Need ideas for something to do with a small space in your home? Try these three great, easy tips:<br> 
 
 **1. Choosing the right paint.** Using colors like neutrals, whites, creams, and grays can make a room feel larger than it really is. Pairing the right lighting and paint color is also very important; be sure to choose lighting that will enhance your colors, and avoid those bulbs and colors that cause glares.
 
