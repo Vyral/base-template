@@ -35,7 +35,7 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://hbrteam.com/what-s-your-home-worth'
+  first_CTA_URL: 'https://www.hbrteam.com/home_value'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://hbrteam.com/search/criteria/gp_1/s_2'
 sidebar_CTA:
@@ -76,7 +76,8 @@ socials:
   trulia_url: >-
     https://www.trulia.com/profile/ron-and-eva-cedillo-agent-tracy-ca-zgpj8x6c/overview
   yelp_url: 'https://www.yelp.com/biz/home-buyers-realty-tracy'
-  podcast_url: 'https://itunes.apple.com/us/podcast/tracy-real-estate-podcast-with-ron-and-eva-cedillo/id1224769103?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/tracy-real-estate-podcast-with-ron-and-eva-cedillo/id1224769103?mt=2
 podcast:
   title: Tracy Real Estate Podcast with Ron and Eva Cedillo
   categories:
