@@ -21,7 +21,7 @@ youtube_code: gy_t86WVvig
 
 {% include youtube.html %}
 
-Before you hire any agent or team to assist in the sale of your home, there are certain questions you must ask them.
+<p style="text-align: center;"><em>Before you hire any agent or team to assist in the sale of your home, there are certain questions you must ask them.</em></p>
 
 Before you hire an agent or team of agents to assist you with your home selling experience, you’ll need to make sure they’re the right fit for the job. The best way to determine this is by simply asking the right questions.&nbsp;
 
