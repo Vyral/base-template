@@ -21,7 +21,7 @@ youtube_code: '-FDOFtRLnsU'
 
 {% include youtube.html %}
 
-If you’re thinking of buying a flipped home, there are five things you need to look for before you actually buy it.
+<p style="text-align: center;"><em>If you’re thinking of buying a flipped home, there are five things you need to look for before you actually buy it.</em></p>
 
 Most major markets around the country are experiencing a housing boom right now, and this is bringing out the house-flippers in droves. If you’re thinking of buying a flipped house, there are five things you need to look for before you actually buy it.
 
