@@ -25,7 +25,7 @@ If you’re thinking of buying a second home, I have good news for you. &nbsp;
 
 Florida is the No. 1 location in the country to buy a second home. And honestly, why wouldn’t it be? We have great weather, plenty of beaches, and outdoor dining even in the middle of winter. You might have already known all of that, but did you also know you only need to put 10% down to buy a second home? That’s right—it only takes a little bit of money to enjoy paradise.&nbsp;
 
-**The good news doesn’t stop at second-home buyers, though.** In Palm Beach County, we have roughly 1.4 million residents, and 460,000 of those people are renters. Landlords love this ratio, but why not start building your own wealth? One-third of those renters can afford to buy a home right now, they just don’t know it yet
+**The good news doesn’t stop at second-home buyers, though.** In Palm Beach County, we have roughly 1.4 million residents, and 460,000 of those people are renters. Landlords love this ratio, but why not start building your own wealth? One-third of those renters can afford to buy a home right now&#151;they just don’t know it yet.
 
 If you’re a first-time homebuyer looking to purchase a home for $350,000 or less, you can do so with no money down. If you’re looking to buy a $500,000 home, you’ll only need $15,000 to cover the down payment. If you’re a luxury buyer, you can buy a million-dollar home for just $100,000.&nbsp;
 
