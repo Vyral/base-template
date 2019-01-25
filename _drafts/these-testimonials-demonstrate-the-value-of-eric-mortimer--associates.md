@@ -19,7 +19,7 @@ youtube_code: fhdfEsLHngM
 
 {% include youtube.html %}
 
-These testimonials truly showcase the great experiences our clients have when working with us.
+<center>These testimonials truly showcase the great experiences our clients have when working with us.</center>
 
 Throughout our many years of helping clients in real estate, we’ve met a lot of wonderful people. Some have made testimonies about working with us at Eric Mortimer & Associates, and we’d like to share two of them with you today.
 
