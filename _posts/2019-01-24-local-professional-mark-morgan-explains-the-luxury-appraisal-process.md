@@ -38,7 +38,7 @@ Appraisals are absolutely critical in the luxury market, and this is exactly why
 
 7:34 - Explaining the concept of “matched pairs”
 
-12:01 - The third factor: purchasing power
+12:01 - The fourth factor: purchasing power
 
 14:14 - What appraisers actually care about
 
@@ -50,4 +50,4 @@ Appraisals are absolutely critical in the luxury market, and this is exactly why
 
 25:18 - How to get in touch with us/ How to contact Mark Morgan
 
-If you have any other questions or would like more information, f
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
