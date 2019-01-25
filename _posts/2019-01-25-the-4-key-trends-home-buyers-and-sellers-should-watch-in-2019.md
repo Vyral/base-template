@@ -21,23 +21,25 @@ youtube_code:
 
 ![](/uploads/header-photo.png)
 
+&nbsp;
+
 Dear Friends and Clients —
 
 It’s officially 2019, which means now is the time to look ahead, to make new plans, to achieve new dreams. And if those dreams include buying your own home, you should keep an eye on the ever-changing tides of the housing market. Now, markets are like the weather: You can't entirely predict how they will act, but you can get a sense of the forces that will push things in one direction or another.
 
-The **<u><a target="_blank" href="https://www.realtor.com/">realtor.com</a></u>**® economic research team analyzed a wealth of housing data to come up with a forecast of what 2019 might hold for home buyers and sellers—and it looks like both groups are going to be facing some challenges.
+The **<u><a target="_blank" href="https://www.realtor.com/">realtor.com</a></u>**&reg; economic research team analyzed a wealth of housing data to come up with a forecast of what 2019 might hold for home buyers and sellers—and it looks like both groups are going to be facing some challenges.
 
-Here are the top four takeaways. For more information, see the full **[realtor.com](https://www.realtor.com/){: target="_blank"}**® 2019 forecast.
+Here are the top four takeaways. For more information, see the full **[realtor.com](https://www.realtor.com/){: target="_blank"}**&reg; 2019 forecast.
 
 **1. We'll have more homes for sale, especially luxury ones**
 
-We've been chronicling the super-tight inventory of homes for sale for several years now. Yes, homes have been hitting the market, but not enough to keep up with the demand. Nationwide, inventory actually hit its lowest level in recorded history last winter, but this year it finally started to recover. We're expecting to see that inventory growth continue into next year, but not at a blockbuster rate—less than 7%. While this is welcome news for buyers who've been sidelined, sellers must confront a new reality.  Although next year's inventory growth is expected to be modest nationwide, pricier markets will tell a different story. In these markets—which typically have strong economies (read: high-paying jobs)—most of the expected inventory growth will come from listings of luxury homes.
+We've been chronicling the super-tight inventory of homes for sale for several years now. Yes, homes have been hitting the market, but not enough to keep up with the demand. Nationwide, inventory actually hit its lowest level in recorded history last winter, but this year it finally started to recover. We're expecting to see that inventory growth continue into next year, but not at a blockbuster rate—less than 7%. While this is welcome news for buyers who've been sidelined, sellers must confront a new reality. &nbsp;Although next year's inventory growth is expected to be modest nationwide, pricier markets will tell a different story. In these markets—which typically have strong economies (read: high-paying jobs)—most of the expected inventory growth will come from listings of luxury homes.
 
 {% include pullquote.html %}
 
 **2. Affording a home will remain tough**
 
-It's no secret that home sellers have been sitting pretty for the past several years. But is the tide about to change in buyers' favor? In some ways, life is going to be easier for home buyers; they’ll have more options, but life is also going to be more difficult for home buyers, because we expect mortgage rates to continue to increase, we expect home prices to continue to increase, so the pinch that they’re feeling from affordability is going to continue to be a pain point moving into 2019. 
+It's no secret that home sellers have been sitting pretty for the past several years. But is the tide about to change in buyers' favor? In some ways, life is going to be easier for home buyers; they’ll have more options, but life is also going to be more difficult for home buyers, because we expect mortgage rates to continue to increase, we expect home prices to continue to increase, so the pinch that they’re feeling from affordability is going to continue to be a pain point moving into 2019.&nbsp;
 
 **3. Millennials will still dominate home buying**
 
