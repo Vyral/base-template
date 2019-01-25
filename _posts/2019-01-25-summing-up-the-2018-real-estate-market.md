@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summing Up the 2018 Real Estate Market
-date: 2018-12-17 22:31:00
+date: 2019-01-25 10:00:00
 tags:
   - Real Estate
 excerpt: >-
