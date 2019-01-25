@@ -19,7 +19,7 @@ youtube_code: WwXFP5QjqaI
 
 {% include youtube.html %}
 
-Our annual seller seminar is almost here, and we hope you’ll join us for this great event.
+<p style="text-align: center;"><em>Our annual seller seminar is almost here, and we hope you’ll join us for this great event.</em></p>
 
 Our annual seller seminar is just around the corner. Join us on February 9 from 11 a.m. to 2 p.m. for good food and great conversation.
 
