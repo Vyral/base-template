@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Mitzi Santayana, Team Lally’s Newest Buyer Specialist'
-date:
+date: 2019-01-25 19:51:18
 tags:
   - Real Estate
 excerpt: >-
