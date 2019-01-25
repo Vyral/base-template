@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Essential Advice for Potential Home Sellers
-date:
+date: 2019-01-25 20:04:02
 tags:
 excerpt: >-
   Selling a home in today’s market is harder than it used to be, but having a
