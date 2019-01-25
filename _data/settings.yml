@@ -7,6 +7,8 @@ custom_links:
     url: http://www.vegascapital.com/buy-a-home/
   - title: Sell A Home
     url: http://www.vegascapital.com/free-home-value/
+  - title: Testimonials
+    url: /client-testimonials
 
 client:
   name: Mike Misak Chobanian
