@@ -2,11 +2,12 @@
 layout: post
 title: Why Should You Consider Becoming a Cord Cutter?
 tags:
-date: 2019-01-21 18:41:26
+date: 2019-01-21 18:41:00
 excerpt: >-
   Cutting the cord to my cable subscription was one of the best decisions I’ve
   made in a while. Here’s why you should consider doing it, too.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Videos/2019/Jan/Triangle+Area+Real+Estate-+Why+I+Cut+the+Cord.mp4
 pullquote: We finally settled on YouTube TV.
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,4 +30,4 @@ In addition, we also have Netflix and Amazon Prime for more entertainment option
 
 **I imagine that as 2019 continues, more and more people will take this route.** If these cable companies don’t change their model, there’s no doubt that they’ll be out of business soon.
 
-Although this topic wasn’t really about real estate, know that you can always reach out to me with any of your real estate-related questions or needs. I would love to hear from you.<br>&nbsp;
+Although this topic wasn’t really about real estate, know that you can always reach out to me with any of your real estate-related questions or needs. I would love to hear from you.<br>
