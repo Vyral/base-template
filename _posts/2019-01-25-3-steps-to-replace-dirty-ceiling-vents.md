@@ -25,7 +25,7 @@ Have you ever looked up at your ceiling vents and said, “Yuck?” We have, and
 
 {% include pullquote.html %}
 
-**2. Replace or clean?** Small black dots indicate rust stains that are most often caused by humidity and moisture. If you choose to clean the vent, soak it in bleach/water mixture overnight. One part bleach and four parts water. If you choose to replace the vent, take it to the hardware store first to make sure the vent size and the mounting holes all match up. It’s a pretty inexpensive replacement.
+**2. Replace or clean?** Small black dots indicate rust stains that are most often caused by humidity and moisture. If you choose to clean the vent, soak it in before bleach/water mixture overnight. One part bleach and four parts water. If you choose to replace the vent, take it to the hardware store first to make sure the vent size and the mounting holes all match up. It’s a pretty inexpensive replacement.
 
 **3. Return the vent to the ceiling.** After it’s clean, you can choose to paint the vent back on with painter's putty.&nbsp;
 
