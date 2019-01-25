@@ -20,7 +20,7 @@ youtube_code: Gh6gAQV7ePg
 
 {% include youtube.html %}
 
-Today we’ll explain the importance of buyer agency and dispel a few myths you might believe about it.
+<center>Today we’ll explain the importance of buyer agency and dispel a few myths you might believe about it.</center>
 
 What is buyer agency and why is it beneficial to homebuyers?
 
