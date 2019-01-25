@@ -22,7 +22,7 @@ youtube_code: oz4UKGJAcnk
 
 {% include youtube.html %}
 
-Are you relocating out of state because of a job and need to sell your house? We might be able to help you, and it won’t cost you a dime.
+<center>Are you relocating out of state because of a job and need to sell your house? We might be able to help you, and it won’t cost you a dime.</center>
 
 Are you relocating out of state for work purposes?
 
