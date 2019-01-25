@@ -21,7 +21,7 @@ youtube_code: ndFWoys2Enk
 
 {% include youtube.html %}
 
-What’s happening now in the Los Angeles County real estate market? Let’s find out in today’s market update.
+<p style="text-align: center;"><em>What’s happening now in the Los Angeles County real estate market? Let’s find out in today’s market update.</em></p>
 
 Now that we’ve finally entered yet another new year, it’s time to recap our 2018 market and discuss a few trends we can expect moving forward.&nbsp;
 
