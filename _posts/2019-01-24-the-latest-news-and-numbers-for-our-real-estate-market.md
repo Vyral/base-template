@@ -27,13 +27,13 @@ It’s time to start off 2019 right with a January edition of the “Hot off the
 
 Speaking of the shutdown, many people are feeling uncertain about the financial stability of the economy, but here’s a quote from Tiger Woods from a pre-Masters interview that applies to the current situation. When someone asked him about the wind conditions during the tournament, here’s what he had to say:
 
-*“This is why I worry about wind. Wind can create doubt, doubt can create tension, and tension can affect my golf swing. So the wind doesn’t bother me, and the doubt and the tension it creates might affect me.”*
+*“I don't worry about wind. Wind can create doubt, doubt can create tension, and tension can affect my golf swing. So the wind doesn’t bother me, and the doubt and the tension it creates might affect me.”*
 
 **This is the perfect analogy to what we’re going through this year.** Don’t let the winds affect your decision about whether to buy or sell a home.
 
-As far as interest rates are concerned that they’ve gone down for four consecutive weeks and are at a three-month low. Even if they do start to tick up, they will still be at a very low number historically.
+As far as interest rates are concerned, they’ve gone down for four consecutive weeks and are at a three-month low. Even if they do start to tick up, they will still be at a very low number historically.
 
-Now let’s look at the one thing that’s causing a lot of confusion this year: Home pricing. According to the Case Shiller index that was just released a few weeks ago, we have seen a drop in the year-over-year price changes in the last year. They dropped from 6.4% in January 2018 to 5.5% in October.&nbsp;
+Now let’s look at the one thing that’s causing a lot of confusion this year: home pricing. According to the Case Shiller index that was just released a few weeks ago, we have seen a drop in the year-over-year price changes in the last year. They dropped from 6.4% in January 2018 to 5.5% in October.&nbsp;
 
 **For inventory levels, it’s starting to pick up.** This pickup has driven existing home sales for the last few months into positive numbers. This situation has improved as interest rates have been friendly to us.
 
@@ -41,7 +41,7 @@ Let’s look at property prices now. We see a 6.34% average in year-over-year pr
 
 {% include pullquote.html %}
 
-As there are more listings coming on the market, that means more competition. Anyone who is looking to sell a home now has to consider what kind of price they’re going to get. **This is why it’s more necessary to set a compelling price for buyers.** Higher interest rates and home prices have reduced affordability, but haven’t made homes unaffordable by any means. Homeowners should start by lowering their asking prices, according to the Chief Economist at CoreLogic.
+As there are more listings coming on the market, that means more competition. Anyone who is looking to sell a home now has to consider what kind of price they’re going to get. **This is why it’s more necessary to set a compelling price for buyers.** Higher interest rates and home prices have reduced affordability, but they haven’t made homes unaffordable by any means. Homeowners should start by lowering their asking prices, according to the Chief Economist at CoreLogic.
 
 The home price expectation survey asks 100 experts and market analysts about what they think prices are going to do in 2019. **94% of them predicted appreciation, which is a very good sign.**
 
