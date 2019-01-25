@@ -8,13 +8,13 @@ excerpt: >-
   Our videos don’t always go as planned, and we’re about to show you a few of
   our favorite examples. We hope you enjoy this blooper reel.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2019/The+Stary+Group-+Blooper+Reel.mp4
+  https://s3.amazonaws.com/vyralmarketing/Adam+Stary/2019/The+Stary+Group-+blooper+reel.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: RxurQVIUzH8
+youtube_code: p1PyyB8k4TI
 ---
 
 {% include youtube.html %}
