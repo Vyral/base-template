@@ -12,9 +12,9 @@
 		<p>
 		{{site.data.settings.lender.name}}<br>
 		{{site.data.settings.lender.brand}}<br>
-		{{site.data.settings.lender.phone}}<br>
-		{{site.data.settings.lender.email}}<br>
-		{{site.data.settings.lender.url | remove: 'http://'}}
+		<a href="tel:1-{{site.data.settings.lender.phone}}">{{site.data.settings.lender.phone}}</a><br>
+		<a href="mailto:{{site.data.settings.lender.email}}">{{site.data.settings.lender.email}}</a><br>
+		<a href="{{site.data.settings.lender.url}}" target="_blank">Visit My Website</a>
 	</p>
 	</div>
 	<div class="lender-logo">
