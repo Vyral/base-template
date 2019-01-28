@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does It Take to Be Successful in Real Estate?
-date: 2019-01-24 16:24:01
+date: 2019-01-24 16:24:00
 tags:
   - Success Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 6Msb_qbBTeg
+youtube_code: a-0M1qBmR8A
 ---
 
 {% include youtube.html %}
@@ -37,5 +37,5 @@ Here are the three keys to success in the real estate business:
 If you have any questions for me or want to know how my team and I can help you reach achievable goals with the proper training and accountability, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
 {: .present-before-paste}
 
-&nbsp;
+ 
 {: .present-before-paste}
