@@ -37,4 +37,4 @@ In our area, you have plenty of real estate agents to choose from—over 21,000,
 
 If you’d like to know how we can find your next home, whether it’s your first home, dream home, or second home, give us a call.&nbsp;
 
-If you have any other questions about our Palm Beach County market, feel free to reach out to us as well. We’d love to hear from you.
+If you have any other questions about our South and Central Florida market, feel free to reach out to us as well. We’d love to hear from you.
