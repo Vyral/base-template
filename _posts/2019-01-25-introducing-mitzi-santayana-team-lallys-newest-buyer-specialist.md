@@ -25,9 +25,11 @@ In her own words, Mitzi Santayana found her way to our team quite intentionally.
 
 After attending real estate school, she looked for the best real estate agency on the island. Who did she stumble across? Team Lally, of course.
 
-When she joined us for a career night, she thought that our reputation definitely preceded us. She was excited to join the team because we share the same culture that she believes in. Mitzi comes from a culture of service, and we are very service-oriented. Team Lally provided all the tools—educational materials, mentorship, videos, and coaching, just to name a few.
+When she joined us for a career night, she thought that our reputation definitely preceded us. She was excited to join the team because we share the same culture that she believes in. Mitzi comes from a culture of service, and we are very service oriented. Team Lally provided all the tools she needed to succeed, including educational materials, mentorship, videos, and coaching, just to name a few."
 
-With these tools, **she’ll be allowed to grow professionally personally** because with the right knowledge and resources, we can all be of better service to our clients.
+change "can have the entire team as leverage to use." to "will also have the help of our entire team." at the end of the sixth paragraph.
+
+With these tools, **she’ll be allowed to grow professionally and personally** because with the right knowledge and resources, we can all be of better service to our clients.
 
 {% include pullquote.html %}
 
