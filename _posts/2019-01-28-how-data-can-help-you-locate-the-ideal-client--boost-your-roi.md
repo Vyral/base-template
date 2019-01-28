@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Data Can Help You Locate the Ideal Client & Boost Your ROI
-date:
+date: 2019-01-28 20:10:18
 tags:
 excerpt: >-
   No matter what industry you’re in, acquiring great data is a key ingredient in
