@@ -23,6 +23,6 @@ youtube_code: fhdfEsLHngM
 
 &nbsp;
 
-Throughout our many years of helping clients in real estate, we’ve met a lot of wonderful people. Some have made testimonies about working with us at Eric Mortimer & Associates, and we’d like to share two of them with you today.
+Throughout our many years of helping clients in real estate, we’ve met a lot of wonderful people. Some have done testimonies about working with us at Eric Mortimer & Associates, and we’d like to share two of them with you today.
 
-Both of these clients had a fantastic experience throughout the home selling process, and they each found their homes to be sold both quickly and for top dollar. We are happy to have been able to work with them.<br><br>To see their testimonies, watch the video above. If you have any questions about working with Eric Mortimer & Associates, don’t hesitate to reach out to us. We’d be glad to help.
+Both of these clients had a fantastic experience throughout the home selling process, and they each found their homes to be sold both quickly and for top dollar. We are happy to have been able to work with them.<br><br>To see their testimonials, watch the video above. If you have any questions about working with Eric Mortimer & Associates, don’t hesitate to reach out to us. We’d be glad to help.
