@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Government Shutdown Means for You
-date: 2019-01-24 15:57:02
+date: 2019-01-24 15:57:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: eutJJYVjpMU
+youtube_code: koqS73MHZFY
 ---
 
 {% include youtube.html %}
