@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'We’re Expanding Our Team, and We Want You!'
-date: 2019-01-25 21:00:41
+date: 2019-01-25 21:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: AjBoBFOexBA
+youtube_code: koqS73MHZFY
 ---
 
 {% include youtube.html %}
