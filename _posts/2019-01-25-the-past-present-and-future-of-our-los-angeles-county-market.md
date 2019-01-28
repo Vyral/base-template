@@ -8,7 +8,7 @@ excerpt: >-
   What’s happening now in the Los Angeles County real estate market? Let’s find
   out in today’s market update.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+Market+Update.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+market+update+1.28.mp4
 pullquote: >-
   Those looking to sell will need to be strategic with their pricing if they
   hope to be successful, and buyers will need to be proactive, as well.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: ndFWoys2Enk
+youtube_code: psd1dWR39-w
 ---
 
 {% include youtube.html %}
