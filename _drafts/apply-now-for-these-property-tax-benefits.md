@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apply Now for These Property Tax Benefits\
+title: Apply Now for These Property Tax Benefits
 date:
 tags:
 excerpt:
@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
