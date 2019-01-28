@@ -25,9 +25,7 @@ In her own words, Mitzi Santayana found her way to our team quite intentionally.
 
 After attending real estate school, she looked for the best real estate agency on the island. Who did she stumble across? Team Lally, of course.
 
-When she joined us for a career night, she thought that our reputation definitely preceded us. She was excited to join the team because we share the same culture that she believes in. Mitzi comes from a culture of service, and we are very service oriented. Team Lally provided all the tools she needed to succeed, including educational materials, mentorship, videos, and coaching, just to name a few."
-
-change "can have the entire team as leverage to use." to "will also have the help of our entire team." at the end of the sixth paragraph.
+When she joined us for a career night, she thought that our reputation definitely preceded us. She was excited to join the team because we share the same culture that she believes in. Mitzi comes from a culture of service, and we are very service oriented. Team Lally provided all the tools she needed to succeed, including educational materials, mentorship, videos, and coaching, just to name a few.
 
 With these tools, **she’ll be allowed to grow professionally and personally** because with the right knowledge and resources, we can all be of better service to our clients.
 
@@ -35,7 +33,7 @@ With these tools, **she’ll be allowed to grow professionally and personally** 
 
 Mitzi is now a buyer specialist for Team Lally. As a military spouse, she has a lot of experience with moving in and out of the island, so if you have any real estate needs at all, **her service is designed with you in mind.**
 
-Mitzi’s favorite part of working with a team is that her teammates all have each other’s backs. When you utilize Mitzi as an agent, you can have the entire team as leverage to use.
+Mitzi’s favorite part of working with a team is that her teammates all have each other’s backs. When you utilize Mitzi as an agent, you will also have the help of our entire team.
 
 As our new buyer specialist, **Mitzi looks forward to being your No. 1 agent.** Let’s go find you your dream home!
 
