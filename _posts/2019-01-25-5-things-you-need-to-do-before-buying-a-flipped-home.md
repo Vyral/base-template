@@ -8,7 +8,7 @@ excerpt: >-
   If you’re thinking of buying a flipped home, there are five things you need to
   look for before you actually buy it.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2019/Kelly+Cook+Real+Estate+Group-+5+Things+to+Look+out+for+When+Buying+a+Flipped+Home.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2019/Kelly+Cook+Real+Estate+Group-+flipped+homes+1.28.mp4
 pullquote: >-
   Don’t be one of those people who doesn’t notice—always check to see if the
   home’s floors are even.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: '-FDOFtRLnsU'
+youtube_code: 'EOAGWRBpRoI'
 ---
 
 {% include youtube.html %}
