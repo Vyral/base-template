@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is Radon and Could It Be in Your Home?
-date: 2018-02-23 18:54:00
+date: 2019-01-28 06:54:00
 tags:
   - Home Seller Tips
 excerpt: 'Why is having your home tested for radon so important? Today, let’s find out.'
@@ -13,15 +13,15 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/radon-youtube.jpg
-youtube_code: TkYpZ15dH1E
+youtube_alternate_image: /uploads/radon-2019-youtube.jpg
+youtube_code: DYUjQzf04MI
 ---
 
 {% include youtube.html %}
 
 Radon is a colorless, odorless gas that rises out from the ground, enters our home through the foundation and, right now, it is the leading cause of lung cancer in No. 2 leading cause of lung cancer in the United States.
 
-Between the months of October and March, Davis County actually provides free radon testing for residents. You can file a request for this test **[here.](http://www.co.davis.ut.us/health/environmental-health-services/environmental_testing/radon/radon-form)**
+Between the months of October and March, Davis County actually provides free radon testing for residents. You can file a request for this test **[here.](http://www.co.davis.ut.us/health/environmental-health-services/environmental_testing/radon/radon-form){: target="_blank"}**
 
 Here are some startling numbers: **56% of homes in Centerville, 42% of homes in Bountiful, and 20% of homes in North Salt Lake City tested above the healthy EPA levels for radon.**
 
