@@ -31,10 +31,10 @@ Today we’re going to give you some tips on how to get your home ready to be ph
 
 {% include pullquote.html %}
 
-**3. Have all of your blinds up.** Don’t just have them twisted open, have them fully open so more light comes into the home.
+**3. Have all of your blinds up.** Don’t just have them twisted open—have them fully open so more light comes into the home.
 
 **4. Turn all your lights on and all of your fans off.** All the lightbulbs should be double checked as well.
 
-**5. Declutter.** In your kitchen, bathrooms, living room, and more. Also, make sure that all of your beds are made.
+**5. Declutter.**&nbsp;Do this in your kitchen, bathrooms, living room, and more. Also, make sure that all of your beds are made.
 
 We hope these tips are helpful to you. If you have any questions for us about getting your home ready for photography or anything else related to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
