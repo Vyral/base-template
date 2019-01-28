@@ -8,13 +8,13 @@ excerpt: >-
   Whether you’re thinking of buying your first home, your dream home, or your
   second home, it doesn’t cost as much as you think.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2019/SOI/buying+a+2nd+home+1.24+_+Real+Estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Lisa+Treu/Videos/2019/SOI/can+you+afford+a+home+1.28+_+Real+Estate.mp4
 pullquote: It only takes a little bit of money to enjoy paradise.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: vPtAFoQkjSQ
+youtube_code: 9kbZ0gU5nzU
 ---
 
 {% include youtube.html %}
