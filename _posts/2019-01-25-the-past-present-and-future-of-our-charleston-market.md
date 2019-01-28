@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: >-
   What was our real estate market in Charleston like in 2018, and how will these
-  conditions change as we move into the new year? Find out in today’s update
+  conditions change as we move into the new year? Find out in today’s update.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+Market+Update.mp4
 pullquote:
@@ -19,7 +19,7 @@ youtube_code: qORNCWg4hes
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What was our real estate market in Charleston like in 2018, and how will these conditions change as we move into the new year? Find out in today’s update</em></p>
+<p style="text-align: center;"><em>What was our real estate market in Charleston like in 2018, and how will these conditions change as we move into the new year? Find out in today’s update.</em></p>
 
 We’ve entered into yet another new year, which makes now the perfect time to discuss the state of our market. In today’s update, we’ll cover the past, present, and future of Charleston real estate.
 
