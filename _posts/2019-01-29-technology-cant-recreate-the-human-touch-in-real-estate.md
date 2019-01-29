@@ -21,7 +21,7 @@ youtube_code: YT0KkiY_6aY
 
 {% include youtube.html %}
 
-Though technology can be a big helper, real estate will always need professional agents.
+<p style="text-align: center;"><em>Though technology can be a big helper, real estate will always need professional agents.</em></p>
 
 In a recent meeting with my business coach, we focused on one big facet of our industry: **personal contact.**
 
