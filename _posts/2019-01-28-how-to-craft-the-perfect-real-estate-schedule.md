@@ -23,9 +23,9 @@ In the spirit of helping you achieve your own greatness and potential as an agen
 
 **First, as you get your morning underway, make “I am” statements part of your routine.** This could be anything from “I am successful” to “I am a powerful negotiator.” See, your brain operates like a CPU and expands upon what you’ve already programmed into it.
 
-Further, **emotional highs and lows can take root and stand in the way of your success when you don’t have a clear design to your day.** Think about it in these terms: If you have 24 hours to plan for an upcoming trip and make sure you leave no loose ends in your life and business, you’ll create a list, pack, make all your calls, and tick off all the boxes on your to-do list before you leave. In the same way, this is how your day-to-day schedule should be.
+Further, **emotional highs and lows can take root and stand in the way of your success when you don’t have a clear design to your day.** Think about it in these terms: If you have 24 hours to plan for an upcoming trip and make sure you leave no loose ends in your life and business, you’ll create a list, pack, make all your calls, and check off all the boxes on your to-do list before you leave. In the same way, this is how your day-to-day schedule should be.
 
-**Start your day off on the right foot, and design your schedule in advance because, let’s face it, if it’s not in your schedule, it doesn’t exist.** Prioritize what matters most by scheduling it first, and plot out a timetable for when you’ll practice scripts, generate leads, and follow up with leads.
+**Start your day off on the right foot and design your schedule in advance because, let’s face it, if it’s not in your schedule, it doesn’t exist.** Prioritize what matters most by scheduling it first, and plot out a timetable for when you’ll practice scripts, generate leads, and follow up with leads.
 
 **Organize follow-up calls by crafting specific scripts.** For example, use one script when reaching out to, say, 10 sphere of influence contacts and another script for follow-up with contacts established from the prior weekend’s open houses.
 
