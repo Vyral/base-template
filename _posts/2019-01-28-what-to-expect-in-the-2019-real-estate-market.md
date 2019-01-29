@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Expect in the 2019 Real Estate Market
-date: 2019-01-03 00:00:00
+date: 2019-01-28 00:00:00
 tags:
   - Market Update
 excerpt: >-
