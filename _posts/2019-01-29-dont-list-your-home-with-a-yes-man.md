@@ -30,3 +30,7 @@ If you’re getting ready to put your home on the market and you don’t want to
 In other words, don’t work with a “yes-man.” Find out what you need to know, not what you want to hear.
 
 If you need an agent who will tell you what you need to know to sell your home quickly and for top dollar, don’t hesitate to give me a call. I’d love to help you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
