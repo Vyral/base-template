@@ -19,7 +19,7 @@ youtube_code: DYUjQzf04MI
 
 {% include youtube.html %}
 
-Radon is a colorless, odorless gas that rises out from the ground, enters our home through the foundation and, right now, it is the leading cause of lung cancer in No. 2 leading cause of lung cancer in the United States.
+Radon is a colorless, odorless gas that rises from the ground, enters our home through the foundation and, right now, is the No. 2 leading cause of lung cancer in the United States.
 
 Between the months of October and March, Davis County actually provides free radon testing for residents. You can file a request for this test **[here.](http://www.co.davis.ut.us/health/environmental-health-services/environmental_testing/radon/radon-form){: target="_blank"}**
 
