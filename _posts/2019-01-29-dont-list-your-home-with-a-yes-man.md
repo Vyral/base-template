@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Don’t List Your Home With a “Yes-Man”
-date: 2019-01-29 19:26:47
+date: 2019-01-29 19:26:00
 tags:
   - Home Seller Tips
 excerpt: >-
   If you’re getting ready to sell your home, don’t list it with a “yes-man”.
   Instead, list it with an agent who will tell you what you need to hear.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/January/Cleveland+Park+Real+Estate-+Dont+List+Your+Home+With+a+Yes-Man.mp4
 pullquote: 'Find out what you need to know, not what you want to hear.'
 enclosure_type: video/mp4
 enclosure_time:
