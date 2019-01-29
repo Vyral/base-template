@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-25---nick-kellar---yt.jpg
-youtube_code: Gh6gAQV7ePg
+youtube_code: vZEzaWhpVxY
 ---
 
 {% include youtube.html %}
 
 <center><em>Today we&rsquo;ll explain the importance of buyer agency and dispel a few myths you might believe about it.</em></center>
 
-&nbsp;
+ 
 
 What is buyer agency and why is it beneficial to homebuyers?
 
