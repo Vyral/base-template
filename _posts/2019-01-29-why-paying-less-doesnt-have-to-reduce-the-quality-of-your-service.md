@@ -17,7 +17,7 @@ youtube_code: 1pGbmsAdI4Y
 
 {% include youtube.html %}
 
-<p stye="text-align: center;"><em>We brand ourselves as the evolution of realty, and today we’ll tell you why.</em></p>
+<p style="text-align: center;"><em>We brand ourselves as the evolution of realty, and today we’ll tell you why.</em></p>
 
 Who is 2% Realty West Coast? How can buyers and sellers benefit from working with us?&nbsp;
 
