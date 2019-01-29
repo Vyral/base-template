@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Local Professional Mark Morgan Explains the Luxury Appraisal Process
-date: 2019-01-24 16:01:08
+title: Learn The Insider Secrets From A Luxury Appraiser
+date: 2019-01-24 16:01:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: J1VBYzlXAIs
+youtube_code: JTXUA9kf7Nc
 ---
 
 {% include youtube.html %}
