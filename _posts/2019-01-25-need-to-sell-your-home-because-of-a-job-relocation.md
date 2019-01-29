@@ -28,7 +28,7 @@ youtube_code: oz4UKGJAcnk
 
 Are you relocating out of state for work purposes?
 
-We work with many job-relocation companies, so we’ve gotten many calls from clients recently who are leaving the state and need to sell their house. These clients get the best of both worlds—**they get world-class marketing by hiring us, and all of their moving expenses are paid in full by their relocation company.**
+We work with many job-relocation companies, so we’ve gotten a lot of calls from clients recently who are leaving the state and need to sell their house. These clients get the best of both worlds—**they get world-class marketing by hiring us, and all of their moving expenses are paid in full by their relocation company.**
 
 So, if you’re leaving the state for a job relocation and you need to sell your house, check to see if we’re approved to work with your relocation company. They’ll pay for all of your moving expenses, and we’ll be able to sell your home for top dollar at no cost to you.
 
