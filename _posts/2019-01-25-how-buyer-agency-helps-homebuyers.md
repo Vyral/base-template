@@ -22,15 +22,15 @@ youtube_code: vZEzaWhpVxY
 
 <center><em>Today we&rsquo;ll explain the importance of buyer agency and dispel a few myths you might believe about it.</em></center>
 
- 
+&nbsp;
 
 What is buyer agency and why is it beneficial to homebuyers?
 
-Basically, **it’s a formal agreement between a brokerage, an agent, and a buyer that they are going to work specifically with each other**. It outlines what a buyer can expect from their agent and the brokerage, the timeline of the transaction, and other terms that define how each party will interact with the other. It also includes a cancellation clause.
+Basically, **it’s a formal agreement between a brokerage, an agent, and a buyer that they are going to work specifically with each other**. It outlines what a buyer can expect from their agent and the brokerage, the timeline of the transaction, and other terms that define how each party will interact with others. It also includes a cancellation clause.
 
-Buyer agency doesn’t cost as much as you may think in the grand scheme of things. Remember, the seller (or their broker) pays your agent’s commission, so a buyer agency agreement will only cost you anywhere from a couple hundred dollars to upwards of $1,000. In our case, you wouldn’t pay anything until the time of settlement.
+Buyer agency doesn’t cost as much as you may think in the grand scheme of things. Remember, the seller (or their broker) pays your agent’s commission, so a buyer agency agreement will only cost you anywhere from a couple hundred dollars to upward of $1,000. In our case, you wouldn’t pay anything until the time of settlement.
 
-We always recommend having a buyer agency agreement because it guarantees you’ll have an experienced professional on your side who knows the market and knows how to get you the best deal possible. It also helps protect your best interests, because buying a house is a business decision, and it insulates you from making any emotional decisions.
+We always recommend having a buyer agency agreement because it guarantees you’ll have an experienced professional on your side who knows the market and knows how to get you the best deal possible. It also helps protect your best interests: Buying a house is a business decision, and the agreement insulates you from making any emotional decisions.
 
 {% include pullquote.html %}
 
