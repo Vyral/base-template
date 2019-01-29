@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Colors, Patterns, and Prints Will Be in Demand This Year?'
-date: 2019-01-29 19:07:56
+date: 2019-02-15 19:07:00
 tags:
   - Real Estate
 excerpt: >-
@@ -26,6 +26,6 @@ Compared to 2018, this year, you’ll be seeing a few interesting twists in desi
 
 **Brass is coming back into style.** I don’t mean the brass you’d have found in the 1980s, but more of a modern bend. Other colors like gold and black are coming back, especially for hardware.
 
-**Burnt yellow and 70s chic are returning.** &nbsp;Additionally, bold florals and wallpapers are resurging in the marketplace.
+**Burnt yellow and 70s chic are returning.**  Additionally, bold florals and wallpapers are resurging in the marketplace.
 
-These are some fun design tips to keep in mind if you are thinking of doing any changes to your decor in 2019. If you have any questions about other upcoming design trends, please reach out to us. We would love to have a conversation about what colors and patterns would fit in your home.<br>&nbsp;
+These are some fun design tips to keep in mind if you are thinking of doing any changes to your decor in 2019. If you have any questions about other upcoming design trends, please reach out to us. We would love to have a conversation about what colors and patterns would fit in your home.<br>
