@@ -20,7 +20,7 @@ youtube_code: aGN09i8SsDE
 
 {% include youtube.html %}
 
-The secret to getting to outbound prospecting and securing the best ROI possible is **acquiring great data.** So where does it come from? Well, there’s no single data gold mine and finding the best data heavily depends on the industry you’re in.
+The secret to getting to outbound prospecting and securing the best ROI possible is **acquiring great data.** So where does it come from? Well, there’s no single data gold mine, and finding the best data heavily depends on the industry you’re in.
 
 To better define what data is, think of it as a list; in essence, it’s a list comprised of people that are the ideal client you’ve set your sights on.
 
