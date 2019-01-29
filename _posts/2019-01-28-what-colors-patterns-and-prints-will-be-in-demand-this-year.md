@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Colors, Patterns, and Prints Will Be in Demand This Year?'
-date: 2019-02-15 19:07:00
+date: 2019-01-28 19:07:00
 tags:
   - Real Estate
 excerpt: >-
