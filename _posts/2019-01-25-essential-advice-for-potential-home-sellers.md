@@ -22,7 +22,7 @@ If you’re in the market to sell your home or you’ve been thinking about doin
 
 **1. Price your home below market value.** Many people think this is a bad idea, but research has found that when a seller puts their home on the market at or below market value, it tends to bring them more traffic on their listing. More traffic equals more buyers, more buyers equals more offers, and more offers equals a higher chance of creating a bidding war and increasing your final sale price.
 
-**2. Use a Realtor.** I’m not just saying this because our team is full of them. Research has also shown that having a Realtor on your side will net you more money in their pocket at the end of the day. It’s not as simple to be a for sale by owner as it used to be. It takes strategy and expert marketing to get the attention you need from buyers who are looking for a home like yours. A professional Realtor understands the market and will able to implement a perfect strategy to help you sell your home.
+**2. Use a Realtor.** I’m not just saying this because our team is full of them. Research has shown that having a Realtor on your side will net you more money at the end of the day. It’s not as simple to be a "For Sale By Owner" seller as it used to be. It takes strategy and expert marketing to get the attention you need from buyers who are looking for a home like yours. A professional Realtor understands the market and will able to implement a perfect strategy to help you sell your home.
 
 {% include pullquote.html %}
 
