@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Was I so Excited to See Jordana and Paul?
-date: 2019-01-29 21:49:58
+date: 2019-01-29 21:49:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: iOWkzBQT_7U
 ---
 
 {% include youtube.html %}
