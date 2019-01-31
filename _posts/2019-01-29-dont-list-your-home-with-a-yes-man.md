@@ -21,7 +21,7 @@ youtube_code: ZwJkGgGyHh8
 
 The other day, I met with a seller who has their home listed on the market with another agent but isn’t making any progress on their sale. When I looked around their house, I saw that it was dirty, cluttered, and unstaged. On top of that, it was overpriced.
 
-This seller’s home has been on the market for a couple of months, and after I was done looking around, they asked me why their listing agent didn’t tell them what they need to know to get their home sold, and what they could do moving forward.
+This seller's home has been on the market for a couple of months. After I was done looking around, they asked me why their listing agent didn't tell them what they needed to know to get their home sold. They also asked what they could do moving forward.
 
 {% include pullquote.html %}
 
