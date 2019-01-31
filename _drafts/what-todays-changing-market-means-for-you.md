@@ -20,7 +20,7 @@ youtube_code: NwghdymcnEo
 
 {% include youtube.html %}
 
-You’ve probably heard that our market is changing, so today I’d like to share three specific developments that best represent what’s happening now.
+<center>You’ve probably heard that our market is changing, so today I’d like to share three specific developments that best represent what’s happening now.</center>
 
 The market is undergoing a few key changes right now, and I’d like to highlight three of the most important developments for you today.
 
