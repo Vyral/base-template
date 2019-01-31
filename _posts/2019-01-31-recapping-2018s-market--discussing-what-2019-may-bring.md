@@ -23,7 +23,7 @@ youtube_code: yusrPhjtIQk
 
 Today I’ll give you a rundown of the final numbers from our real estate market, where they might differ this year, and what that will mean for you. Let’s take a look:
 
-In 2018, our market saw low inventory, which led to a jump in home prices. **By the end of the year, prices were up by 4%,** which is pretty good for the Memphis market. We don’t know if we’ll see the same kind of numbers this year, but we don’t expect a slowdown, either.
+In 2018, our market saw low inventory, which led to a jump in home prices. **By the end of the year, prices were up by 4%,** which is pretty good for the Memphis market. We don’t know if we’ll see the same kind of numbers this year, but we don’t expect a slowdown, either.&nbsp;
 
 **We exceeded $3.2 billion in sales last year—a feat that hadn’t been achieved in over a decade** (2006, to be exact). It’ll be tough to repeat that kind of success in 2019, **but how the market performs will be dependent on what area you’re in.** I’ve seen evidence that inventory will remain low in certain pockets, but this might not be true for all segments of the market.
 
