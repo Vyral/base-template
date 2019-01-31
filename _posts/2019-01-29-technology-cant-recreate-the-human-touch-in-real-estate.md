@@ -33,7 +33,7 @@ We had a buyer who had credit issues and their lender didn’t address it correc
 
 {% include pullquote.html %}
 
-Not too long ago, there was an inaccurate deed from 1932—a computer would have no way of fixing this either. We were able to make a call, take care of the problem, and close the transaction on time.
+Not too long ago, our team encountered an inaccurate deed during one of our transactions. The deed was from 1932, and, therefore, the long-standing issues that surrounded this document were something no computer would have been able to fix independently. It just goes to show how important agents are. We were able to make a call, take care of the problem, and close the transaction on time.
 
 We’re here to answer your questions, respond to you quickly, and be your guide throughout the real estate process. Though we take advantage of technology, **we provide the personal touch you need—especially when the unexpected arises.** And with all our years of experience, we’ve likely solved problems like yours before.
 
