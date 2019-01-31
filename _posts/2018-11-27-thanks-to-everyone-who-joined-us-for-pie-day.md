@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Our annual pie giveaway was a huge success. Here’s a closer look at all the
   fun we had.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bob+Sokoler/Louisville+Real+Estate-+Thanks+to+Everyone+Who+Joined+Us+for+Pie+Day.mp4
 pullquote: Expect the 2019 market to continue to be hot.
 enclosure_type: video/mp4
 enclosure_time:
