@@ -33,4 +33,4 @@ Home sales in the upper $300,000 price range rose by 15%, and those in the $1 mi
 
 Crye-Leike sold 700 homes per day last year, and our team accounted for 160 of those sales. All in all, it was a good year, and we’re optimistic about what we can achieve together in 2019!
 
-If you’d like to see what your home is worth with all the market variables at play, please reach out and give us a call at (901) 729-9526. Our team would be happy to help you with your real estate needs!
+If you’d like to see what your home is worth with all the market variables at play, please reach out and give us a call at [(901) 729-9526](tel:901-729-9526){: target="_blank"}. Our team would be happy to help you with your real estate needs!
