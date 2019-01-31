@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interviewing Monica Smith of Texas Lone Star Title
-date: 2019-01-31 21:26:35
+date: 2019-01-29 12:00:00
 tags:
   - Real Estate
 excerpt: Learn all about what a title company does for their customers.
