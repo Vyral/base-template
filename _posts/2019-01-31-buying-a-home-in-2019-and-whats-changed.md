@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying a Home in 2019 and What’s Changed
-date:
+date: 2019-01-31 21:33:21
 tags:
   - Home Buying
 excerpt: 'Before you start looking at homes, there are a few things you need to know.'
