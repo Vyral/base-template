@@ -33,4 +33,4 @@ There are many pieces in the home buying puzzle, so today we’ll be going over 
 
 {% include pullquote.html %}
 
-If you have any questions or would like further information, feel free to reach out to us. We look forward to hearing from you soon.
+If you have any questions or would like further information, feel free to reach out to us. We look forward to hearing from you soon.&nbsp;
