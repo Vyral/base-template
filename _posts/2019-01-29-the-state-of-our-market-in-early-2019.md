@@ -26,6 +26,6 @@ For one thing, interest rates are continuing to rise. That said, current rates a
 
 However, prices are on the rise. **So long as demand continues to outpace supply, this trend will likely continue.** Our market holds great opportunities for buyers and sellers alike at the moment.
 
-Whatever your real estate goals, our team would be happy to help.
+Whatever your real estate goals are, our team would be happy to help.
 
 If you have any other questions, would like more information, or are curious how we can help you buy or sell your home, feel free to give us a call or send us an email. We look forward to hearing from you soon.
