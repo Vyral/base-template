@@ -21,14 +21,14 @@ youtube_code: 1pGbmsAdI4Y
 
 Who is 2% Realty West Coast? How can buyers and sellers benefit from working with us?&nbsp;
 
-**We’re a full-service real estate brokerage that can offer comprehensive service for lower commissions.** We brand ourselves as the evolution of realty because we don’t have the big offices or additional staff requirements of our competitors.&nbsp;
+**We’re a full-service real estate brokerage that offers comprehensive service for lower commissions.** We brand ourselves as the evolution of realty because we don’t have the big offices or additional staff requirements of our competitors.&nbsp;
 
-Traditional real estate marketing involves flyers, newspaper and billboard ads, and radio spots, but today’s marketing involves websites, email, social media postings, and online video. All of the traditional marketing costs are passed down to the client, but we’ve built a business model and structure that’s reduced or eliminated the majority of these expenses.
+Traditional real estate marketing involves flyers, newspaper and billboard ads, and radio spots, but today’s marketing involves websites, email, social media postings, and online videos. All of the traditional marketing costs are passed down to the client, but we’ve built a business model and structure that’s reduced or eliminated the majority of these expenses.
 
 By selling your home with 2% Realty West Coast, you’d receive:
 
 * Full MLS exposure
-* The benefit of having your listing being posted on hundreds of real estate websites worldwide
+* The benefit of having your listing posted on hundreds of real estate websites worldwide
 * Professional-quality photography and floor plans
 * A top negotiator to work on your behalf to sell your home for top dollar&nbsp;
 * Open houses with your approval
