@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Buying a Home in 2019 and What’s Changed
-date: 2019-01-31 21:33:21
+date: 2019-01-31 21:33:00
 tags:
-  - Home Buying
+  - Home Buyer Tips
 excerpt: 'Before you start looking at homes, there are a few things you need to know.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Real+Estate+Agents-+Buying+a+Home+in+2019+and+Whats+Changed.mp4
@@ -33,4 +33,4 @@ There are many pieces in the home buying puzzle, so today we’ll be going over 
 
 {% include pullquote.html %}
 
-If you have any questions or would like further information, feel free to reach out to us. We look forward to hearing from you soon.&nbsp;
+If you have any questions or would like further information, feel free to reach out to us. We look forward to hearing from you soon.
