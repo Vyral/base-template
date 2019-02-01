@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Your Interest Rates Truly Locked In?
-date:
+date: 2019-02-01 17:57:28
 tags:
   - Real Estate
 excerpt: 'How locked are your interest rates, exactly? Let me explain.'
