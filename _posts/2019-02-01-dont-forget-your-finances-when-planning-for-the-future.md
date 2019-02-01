@@ -47,6 +47,8 @@ Cited below for your convenience are timestamps that will direct you to various 
 
 We hope today’s message has been helpful to you. If it has, we hope to see you at our upcoming “Empty Nester” seminar. The event will take place on February 7 at our office (25 Washington Street).
 
-[For more information, click here!](https://www.eventbrite.com/e/empty-nester-panel-registration-54307343727){: target="_blank"}
+##### **[For more information, click here!](https://www.eventbrite.com/e/empty-nester-panel-registration-54307343727){: target="_blank"}**
+
+&nbsp;
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
