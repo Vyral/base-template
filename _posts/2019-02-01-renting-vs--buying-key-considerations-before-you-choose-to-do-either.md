@@ -21,7 +21,7 @@ youtube_code: 1unjTowqW-s
 
 {% include youtube.html %}
 
-Should I rent or buy in today’s market? Before deciding, ask yourself some key questions that should aid in you arriving at a well-informed decision.
+<P style="text-align: center;"><em>Should I rent or buy in today’s market? Before deciding, ask yourself some key questions that should aid in you arriving at a well-informed decision.</em></p>
 
 A question that I receive fairly regularly is, “Am I better off renting or buying?” The answer is far from a one-size-fits-all.&nbsp;
 
