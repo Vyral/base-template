@@ -15,3 +15,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/12-27-open-houses-yt.jpg
 youtube_code: JY2i6bkR50g
 ---
+
+{% include youtube.html %}
+
+{%
