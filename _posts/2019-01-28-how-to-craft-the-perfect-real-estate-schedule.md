@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/1-28-schedule-np.jpg
+youtube_alternate_image: /uploads/2-1-schedule-np.jpg
 youtube_code: L6gKQib-aEo
 ---
 
@@ -33,7 +33,7 @@ Further, **emotional highs and lows can take root and stand in the way of your s
 
 Some other early-morning scheduling tactics include journaling with a focus on daily goals, getting to the gym bright and early, and engaging in meditation or prayer after or before your trip to the gym. Then, cap it all off with a nutritious breakfast.
 
-Get to the office between 8:15 and 8:30 and set aside about 30 minutes to run through scripts using a colleague as your partner. From there, **jump on the phones and aim to land 25 new contacts over a two- to three-hour period.** &nbsp;&nbsp;
+Get to the office between 8:15 and 8:30 and set aside about 30 minutes to run through scripts using a colleague as your partner. From there, **jump on the phones and aim to land 25 new contacts over a two- to three-hour period.**   
 
 When you have a few free moments with no calls or appointments booked, use that extra time to work on and enrich your individual business.
 
