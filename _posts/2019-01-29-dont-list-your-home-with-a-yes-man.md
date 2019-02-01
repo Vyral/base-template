@@ -9,7 +9,9 @@ excerpt: >-
   Instead, list it with an agent who will tell you what you need to hear.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/January/Cleveland+Park+Real+Estate-+Dont+List+Your+Home+With+a+Yes-Man.mp4
-pullquote: 'Find out what you need to know, not what you want to hear.'
+pullquote: >-
+  Find an agent who will tell you what you need to know, not just what you’d
+  like to hear!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
