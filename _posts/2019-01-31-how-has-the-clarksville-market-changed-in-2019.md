@@ -32,6 +32,6 @@ The average days on market has increased slightly, from 51 days last year to 56 
 
 The area of the market that’s really hot is the $100,000 to $180,000 price range, which only has 53 homes on the market. That’s just one month worth of inventory. **This is a great price range to be in if you’re a home seller or investor.** The $140,000 to $180,000 is even stronger than that.
 
-In the $240,000 to $300,000 price range, things are starting to slow down a bit. Inventory in that price range is about five months, and anything over $300,000 is technically in a buyer’s market. **If you’re in one of these price ranges, your home’s condition is important, as is meeting the price that the market sets.**
+In the $240,000 to $300,000 price range, things are starting to slow down a bit. The price range has five months' worth of inventory, and each range above $300,000 is technically in a buyer's market. **If you’re in one of these price ranges, your home’s condition is important, as is meeting the price that the market sets.**
 
 If you have any questions about the real estate market or real estate in general, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
