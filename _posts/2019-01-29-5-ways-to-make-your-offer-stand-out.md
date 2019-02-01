@@ -13,7 +13,7 @@ pullquote: Sellers don’t just go with the highest offer on their home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/1-29-offers-np.jpg
+youtube_alternate_image: /uploads/1-29-offers-np-1.jpg
 youtube_code: mt60-1xf6uo
 ---
 
