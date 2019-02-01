@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Make Your Offer Stand Out
-date:
+date: 2019-02-01 17:28:05
 tags:
   - Home Buyer Tips
 excerpt: >-
