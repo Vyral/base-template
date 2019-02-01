@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 'We brand ourselves as the evolution of realty, and today we’ll tell you why.'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2019/Surrey+Real+Estate+_+2+Percent+West+Coast-+Who+Is+2%25+Realty+West+Coast_.mp4
+  https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2019/Surrey+Real+Estate+_+2+Percent+West+Coast-+Who+Is+2%25+Realty+West+Coast_+2.1.mp4
 pullquote: 'With 2% Realty West Coast, you don’t get less—you just pay less.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1pGbmsAdI4Y
+youtube_code: j0WqRLCzmnw
 ---
 
 {% include youtube.html %}
