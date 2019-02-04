@@ -5,10 +5,10 @@ tags:
   - Market Updates
   - Real Estate
 excerpt: >-
-  https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Videos/Mansfield+Real+Estate+Agent+-+Where+Is+Our+Market+Headed+and+How+Will+It+Impact+Buyers_.mp4
-enclosure: >-
   Our market is beginning to shift in favor of buyers, and today we’d like to
   give you an update on why this is the case.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Videos/Mansfield+Real+Estate+Agent+-+Where+Is+Our+Market+Headed+and+How+Will+It+Impact+Buyers_.mp4
 pullquote: 'The tide is turning, and we seem to be entering a buyer''s market.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: jfwiC-qjxEw
 
 <center><em>Our market is beginning to shift in favor of buyers, and today we&rsquo;d like to give you an update on why this is the case.</em></center>
 
-&nbsp;
+ 
 
 **If you've been looking to buy a home for a while, you'll want to hear this**.
 
