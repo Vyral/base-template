@@ -19,7 +19,7 @@ youtube_code: jfwiC-qjxEw
 
 {% include youtube.html %}
 
-Our market is beginning to shift in favor of buyers, and today we’d like to give you an update on why this is the case.
+<center>Our market is beginning to shift in favor of buyers, and today we’d like to give you an update on why this is the case.</center>
 
 **If you've been looking to buy a home for a while, you'll want to hear this**.<br><br>You see, for several years now, we've been in a definite seller's market.<br><br>Home prices kept rising. Demand was high. Bidding wars were common.<br><br>**But now, there are clear signs that the housing boom is coming to an end**.<br><br>Home price growth is slowing; it’s currently the lowest it’s been in two years. Price cuts are becoming increasingly common, as an average of 17% of home listings saw their price decrease—a four-year high. Mortgage applications are down over 16% from a year ago and homes appear to be selling more slowly than at the start of the year.<br><br>In other words, the tide is turning, and we seem to be entering a buyer's market.<br><br>So, if you’ve been looking to buy a home for a while, should you act now or should you hold out for conditions to become even more favorable?
 
