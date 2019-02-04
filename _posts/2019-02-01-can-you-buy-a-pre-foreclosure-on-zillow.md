@@ -27,10 +27,10 @@ When I pull up all of the foreclosures and pre-foreclosures on Zillow, you can s
 
 A home that’s listed as a foreclosure is actually already for sale. If a home is listed as a pre-foreclosure, it’s technically not for sale. Zillow identifies these properties by a lis pendens, which essentially means that the homeowner has missed a payment or two on their mortgage and are in danger of pre-fault. **Once they record the *lis pendens* on the title, it lets other people know that a couple of different things could happen:**
 
-1. The resident catches up on their payments.
+1.The resident catches up on their payments.
 
-2. The property goes into foreclosure, but we don't know what price it will be until that time.
+2.The property goes into foreclosure, but we don't know what price it will be until that time.
 
-3. The property could be sold without hitting the market at all.
+3.The property could be sold without hitting the market at all.
 
 In conclusion, if you're looking for a home in the next few months, I’d steer clear of pre-foreclosures. If you have any questions for me about buying a home or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
