@@ -15,7 +15,7 @@ pullquote: More and more people are discovering the Emerald Coast.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-31-2019-np-1.jpg
+youtube_alternate_image: /uploads/2-4-2019-np.jpg
 youtube_code: aS6jOXNO5uc
 ---
 
