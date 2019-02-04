@@ -22,7 +22,9 @@ youtube_code: 8IMIaBUnGCU
 
 {% include youtube.html %}
 
-<center>Our year-to-year numbers show some big changes in our market. What does this mean for buyers and sellers?</center>
+<center><em>Our year-to-year numbers show some big changes in our market. What does this mean for buyers and sellers?</em></center>
+
+&nbsp;
 
 Today we’ll be going over the latest numbers for the Reno, Carson City, and Carson Valley areas. We’ll be focusing primarily on the Reno numbers, but the changes are similar for each of the three markets. You can see a chart with the numbers of all three beginning at **0:27 in the video**.
 
