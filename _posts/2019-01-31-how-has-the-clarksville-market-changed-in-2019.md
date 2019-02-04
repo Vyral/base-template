@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has the Clarksville Market Changed in 2019?
-date: 2019-01-31 18:39:02
+date: 2019-01-31 18:39:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/market-stats-youtube-2.jpg
-youtube_code: X69OFMzUNYc
+youtube_code: 8-NLtyV7iCE
 ---
 
 {% include youtube.html %}
