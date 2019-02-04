@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Reasons to Sell Now Rather Than Later in the Spring
-date:
+date: 2019-02-04 15:25:34
 tags:
 excerpt: >-
   If you’re trying to decide between selling now while it’s still wintertime or
