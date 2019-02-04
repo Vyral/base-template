@@ -19,7 +19,7 @@ youtube_code: mt60-1xf6uo
 
 {% include youtube.html %}
 
-When it comes to being a buyer in a buyer’s market, there are a few things that will give you an edge among the competition. In fact, the winning offer in a multiple-offer situation is often less than list price, meaning there are many other ways you can ensure a sale outside of simply offering the most. **Here are five tips to help you compete during a buyer’s market:**
+When it comes to being a buyer in a buyer’s market, there are a few things that will give you an edge over the competition. In fact, the winning offer in a multiple-offer situation is often less than list price, meaning there are many other ways you can ensure a sale outside of simply offering the most. **Here are five tips to help you compete during a buyer’s market:**
 
 **1. Sell your home first.** Don’t buy a home before selling unless you can qualify for two mortgages. If you’re a first-time homebuyer, however, you’ll likely have an advantage over buyers who still have a home to sell.
 
