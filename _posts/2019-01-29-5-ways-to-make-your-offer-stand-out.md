@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-29-offers-np-2.jpg
-youtube_code: mt60-1xf6uo
+youtube_code: i24LG5Y3ylM
 ---
 
 {% include youtube.html %}
