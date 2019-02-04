@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Buying a Remodeled Home
-date:
+date: 2019-02-04 15:11:45
 tags:
   - Home Buyer Tips
 excerpt: >-
