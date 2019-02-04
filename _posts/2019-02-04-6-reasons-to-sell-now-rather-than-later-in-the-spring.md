@@ -21,7 +21,7 @@ youtube_code: ZWIKTssfLTI
 
 {% include youtube.html %}
 
-If the question of whether to sell now or wait until spring is something you’ve been turning over in your mind, allow me to answer: You want to sell now, and here are six reasons why this is the case.
+If the question of whether to sell now or wait until spring is something you’ve been turning over in your mind, allow me to answer. You want to sell now, and here are six reasons why this is the case.
 
 **1. There’s less competition now.** The bulk of sellers are going to hold off until spring to list their home, giving you a decisive advantage if you sell ahead of these “fairweather sellers.” And let’s face it: No one wants to see a bunch of “For Sale” signs on your street all at once. Selling now means your home won’t get lost in the shuffle of the spring selling frenzy.
 
@@ -33,7 +33,7 @@ If the question of whether to sell now or wait until spring is something you’v
 
 **5. Mortgage rates are still low right now.** As it stands now, mortgage rates remain low, but will the same be true in the spring? Well, it’s the devil we know versus the devil we don’t know. When government regulation spills over into the housing market, we know that rates are inclined to trend upward. Why not do yourself a favor and take action now before buyers are impacted by a rate increase?
 
-**6. Transactions are more efficient in the winter.** As a result of less activity, transactions move quickly, are more efficient, and more likely to stay on time. In the warmer months, appraisers are sometimes backlogged by the heavy volume of homes they’re dealing with, which, in turn, delays the closing cycle. This is where being a bit “off-season” can work to your advantage: Processes are much more streamlined and move with fewer delays and hiccups.
+**6. Transactions are more efficient in the winter.** As a result of less activity, transactions move quickly, are more efficient, and are more likely to stay on time. In the warmer months, appraisers are sometimes backlogged by the heavy volume of homes they’re dealing with, which, in turn, delays the closing cycle. This is where being a bit “off-season” can work to your advantage: Processes are much more streamlined and move with fewer delays and hiccups.
 
 {% include pullquote.html %}
 
