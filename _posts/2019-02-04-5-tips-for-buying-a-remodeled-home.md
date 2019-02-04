@@ -28,7 +28,7 @@ When it comes to buying a remodeled home, there’s usually more to it than meet
 
 **2. Make sure the kitchen doesn’t disappoint.** A good way to make sure the builder didn’t cut corners in this area is to double check that the backsplash is even.
 
-**3. Make sure there was attention to detail in the bathrooms.** If they remodeled the bathrooms, you need to make sure they invested heavily in them—not only with high-end tile, but also with new supply valves, shut-off valves, trim rings, etc. this will tell you whether they finished the job or not.
+**3. Make sure there was attention to detail in the bathrooms.** If they remodeled the bathrooms, you need to make sure they invested heavily in them—not only with high-end tile, but also with new supply valves, shut-off valves, trim rings, etc. This will tell you whether they finished the job or not.
 
 **4. Make sure the home is on even footing.** Poorly installed laminate or hardwood can buckle and pop over time. A good way to know if your floors are even is to kick off your shoes, slide across them, and see if you catch any corners (think of Tom Cruise in “Risky Business”).
 
