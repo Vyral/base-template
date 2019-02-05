@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers and Sellers Can Take Advantage of Our Shifting Market
-date: 2019-02-05 20:27:23
+date: 2019-02-05 13:27:00
 tags:
   - Real Estate
 excerpt: >-
