@@ -21,7 +21,7 @@ blogger_orig_url: http://gostgeorge.blogspot.com/2017/02/st-george-real-estate-a
 {% include youtube.html %}
 <p style="text-align: center;"><em>Does the St. George Parade of Homes affect our real estate market? Here’s what we found from a three-year analysis.</em></p>
 
-<em style="text-align: center;">Looking to buy a home? <strong><a href="http://www.stgeorgehomesearching.com/" target="_blank">Click here to perform a full home search</a></strong></em>
+<center><em>Looking to buy a home? <strong><a href="http://www.stgeorgehomesearching.com/" target="_blank">Click here to perform a full home search</a></strong></em></center>
 <p><em>If you're thinking of selling your home, <a href="http://gostgeorgehomevalue.com/" target="_blank"><strong>Click here for a FREE Home Price Evaluation</strong></a></em></p>
 <p><em>You can always call us at <strong><a href="tel:435-215-4533">435-215-4533</a></strong> for a FREE home buying or selling consultation to answer any of your real estate questions.</em></p>
 
