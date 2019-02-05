@@ -42,6 +42,6 @@ Home inventory is going to remain low, but because of the high demand for homes,
 
 **If you’re a buyer, know that home values will increase throughout the year**. You want to buy sooner rather than later.
 
-**Sellers, you want to make your home more marketable**. You want to create value in the eyes of your buyers since you’ll have competition among other sellers. You also want to price your home properly from the outset. Lastly, you want to use the services of a professional realtor—they know the best ways to ensure your home sellers quickly and for top dollar.
+**Sellers, you want to make your home more marketable**. You want to create value in the eyes of your buyers since you’ll have competition among other sellers. You also want to price your home properly from the outset. Lastly, you want to use the services of a professional Realtor—they know the best ways to ensure your home sells quickly and for top dollar.
 
 If you’d like my guidance throughout the home buying or selling process, have any other questions, or need more information, feel free to reach out to me. I look forward to hearing from you soon.
