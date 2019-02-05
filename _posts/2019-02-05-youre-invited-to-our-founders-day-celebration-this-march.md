@@ -19,11 +19,13 @@ youtube_code: ljS5TRHo2YA
 
 {% include youtube.html %}
 
-<center>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we’re hosting our very own Founder’s Day celebration this March.</center>
+<center><em>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we&rsquo;re hosting our very own Founder&rsquo;s Day celebration this March.</em></center>
 
-2019 marks the 66th year that Colemere Realty has been in business, and we’ve decided to throw a party to celebrate. &nbsp;
+&nbsp;
 
-First, we’ve brought in our father (and previous owner of Colemere Realty) Tom Colemere to tell the story of how our brokerage got started.&nbsp;
+2019 marks the 66th year that Colemere Realty has been in business, and we’ve decided to throw a party to celebrate.
+
+First, we’ve brought in our father (and previous owner of Colemere Realty) Tom Colemere to tell the story of how our brokerage got started.
 
 Our grandfather founded Colemere Realty in 1953. He originally worked in the furniture and appliance business, but a fire damaged his establishment and left him in debt. To pay off that debt, he became a real estate agent. A short time after, he became his own boss. We joined the family business many years later, and a large part of our continued success is due to our father Tom being a great mentor to us.
 
