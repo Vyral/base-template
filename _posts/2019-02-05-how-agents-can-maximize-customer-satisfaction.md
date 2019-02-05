@@ -18,7 +18,7 @@ youtube_code: 4TjG1oEq_Ds
 
 {% include youtube.html %}
 
-By keeping a gold standard across the board, you’ll keep customers happy. Here’s how.
+<p style="text-align: center;"><em>By keeping a gold standard across the board, you’ll keep customers happy. Here’s how.</em></p>
 
 The business of real estate can be an incredibly busy one—there’s often not enough time in the day for us, as agents, to meet with each and every client. **So how can we keep their satisfaction high when we simply can’t meet with them all?**
 
