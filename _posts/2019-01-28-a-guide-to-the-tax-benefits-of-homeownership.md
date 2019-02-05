@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/1-28-tax-np.jpg
+youtube_alternate_image: /uploads/1-28-tax-np-1.jpg
 youtube_code: IYTUbmlQdsY
 ---
 
@@ -29,7 +29,7 @@ Every four years, some candidate for higher political office tries to focus our 
 
 For those of us who own homes, here’s a list of the itemized tax deductions available to the average homeowner. Every year, you’re permitted to deduct the following expenses:
 
-**1. Taxes.&nbsp;**like real property taxes both state and local, can be deducted. The one exception is that tax filers can deduct on Schedule A any combination of state and local property taxes, as well as income or sales taxes, but only up to a total of $10,000. Interestingly, married couples who file their own separate tax returns can only deduct up to $5,000. However, it should be noted that real estate taxes are only deductible in the year that they’re paid to the government. Thus, if in the year 2018, your lender held money in escrow for taxes due in 2019, you can’t take a deduction for these taxes when you file your 2018 tax return.<br><br>Mortgage lenders are required to send an annual statement to borrowers by the end of January each and every year that reflects the amount of mortgage interest in real estate taxes that the homeowners actually paid during the previous year.
+**1. Taxes.** like real property taxes both state and local, can be deducted. The one exception is that tax filers can deduct on Schedule A any combination of state and local property taxes, as well as income or sales taxes, but only up to a total of $10,000. Interestingly, married couples who file their own separate tax returns can only deduct up to $5,000. However, it should be noted that real estate taxes are only deductible in the year that they’re paid to the government. Thus, if in the year 2018, your lender held money in escrow for taxes due in 2019, you can’t take a deduction for these taxes when you file your 2018 tax return.<br><br>Mortgage lenders are required to send an annual statement to borrowers by the end of January each and every year that reflects the amount of mortgage interest in real estate taxes that the homeowners actually paid during the previous year.
 
 **2. Mortgage and interest.** Interest on mortgage loans on a first or second home is fully deductible, subject to the following limitations:
 
