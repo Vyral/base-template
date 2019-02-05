@@ -22,7 +22,9 @@ blogger_orig_url: http://gostgeorge.blogspot.com/2017/02/st-george-real-estate-a
 <p style="text-align: center;"><em>Does the St. George Parade of Homes affect our real estate market? Here’s what we found from a three-year analysis.</em></p>
 
 <div class="post-cta">
-<em>Want to see which St. George area homes are currently for sale? <strong><a href="http://www.stgeorgehomesearching.com/" target="_blank">Click here to perform a full home search</a></strong>, or if you're thinking of selling your home, <a href="http://gostgeorgehomevalue.com/" target="_blank"><strong>Click here for a FREE Home Price Evaluation</strong></a> so you know what buyers will pay for your home in today's market. You can always call us at <strong><a href="tel:435-215-4533">435-215-4533</a></strong> for a FREE home buying or selling consultation to answer any of your real estate questions.</em>
+<em>Looking to buy a home? <strong><a href="http://www.stgeorgehomesearching.com/" target="_blank">Click here to perform a full home search</a></strong>
+If you're thinking of selling your home, <a href="http://gostgeorgehomevalue.com/" target="_blank"><strong>Click here for a FREE Home Price Evaluation</strong></a>
+You can always call us at <strong><a href="tel:435-215-4533">435-215-4533</a></strong> for a FREE home buying or selling consultation to answer any of your real estate questions.</em>
 </div>
 
 Today’s video comes from atop the iconic Red Hill, looking into the iconic St. George Valley, talking about the iconic <a href="http://paradehomes.com/web/" target="_blank">St. George Parade of Homes</a>, which is now in its 29th year.
