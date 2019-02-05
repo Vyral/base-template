@@ -21,7 +21,7 @@ youtube_code: Qq--E524lik
 
 {% include youtube.html %}
 
-Refusing to budge will lead you nowhere. Instead, collaborate on a great outcome for all.
+<p style="text-align: center;"><em>Refusing to budge will lead you nowhere. Instead, collaborate on a great outcome for all.</em></p>
 
 Many people assume that negotiation means drawing a line and refusing to cross it. This tactic is called competitive negotiation, and while it may work in some instances, it’s not guaranteed to get you what you want.
 
