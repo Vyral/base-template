@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did the Tulsa Market Do in 2018?
-date: 2019-02-04 16:55:21
+date: 2019-02-04 16:55:00
 tags:
   - Market Update
   - Real Estate
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-a-recap-of-the-2018-market-youtube.jpg
-youtube_code: 'https://youtu.be/YawehsuD4Ys'
+youtube_code: 'https://youtu.be/9XIBgcP4gfo'
 ---
 
 {% include youtube.html %}
