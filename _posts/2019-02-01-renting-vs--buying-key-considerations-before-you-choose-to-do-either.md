@@ -23,15 +23,15 @@ youtube_code: 1unjTowqW-s
 
 <P style="text-align: center;"><em>Should I rent or buy in today’s market? Before deciding, ask yourself some key questions that should aid in you arriving at a well-informed decision.</em></p>
 
-A question that I receive fairly regularly is, “Am I better off renting or buying?” The answer is far from a one-size-fits-all.&nbsp;
+A question that I receive fairly regularly is, “Am I better off renting or buying?” Truthfully, there isn't a one-size-fits-all answer to this.&nbsp;
 
-To demonstrate the complexity of the issue, the Capital Region Business Review recently released a study, and in it, they opine that you’re better off buying than renting wherever you are in the market. As much as I respect the publication, I think the article oversimplifies and is reductive of the problem.&nbsp;
+To demonstrate the complexity of the issue, the Capital Region Business Review recently released a study in which they opine that you’re better off buying than renting wherever you are in the market. As much as I respect the publication, I think the article oversimplifies, and is reductive of, the problem.&nbsp;
 
 **There’s a series of questions you need to answer for yourself before making the decision between renting or buying**—questions that the article doesn’t address.&nbsp;
 
 You can certainly look at the average rent and average mortgage payment in a market and compare them against one another, deducing that average rent comes out to be higher. But the considerations that go into this decision shouldn’t end there.&nbsp;
 
-For one, **I *always* ask my clients what their time frame is.** For example, if you plan to only reside in your New York state property for less than three years, it can be very difficult to make up closing costs on the purchase of that home in that time. Now, if you plan to stay put for over three years, you’ll generally be OK to buy.&nbsp;
+For one, **I *always* ask my clients about their time frame** For example, if you only plan to only reside in your New York state property for fewer than three years, it can be very difficult to make up closing costs on the purchase of the home in that time. Now, if you plan to stay put for over three years, you’ll generally be OK to buy.&nbsp;
 
 But New York state is known for having some of the highest closing costs in the country—you’ll pay closing costs when you buy and then transaction costs to your Realtor upon the sale.
 
