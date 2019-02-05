@@ -19,7 +19,9 @@ youtube_code: GEJGMsRpq3o
 
 {% include youtube.html %}
 
-<center>1st Street Bar is a gem located right in the heart of downtown Encinitas. Here’s just a taste of what they have to offer.</center>
+<center><em>1st Street Bar is a gem located right in the heart of downtown Encinitas. Here&rsquo;s just a taste of what they have to offer.</em></center>
+
+&nbsp;
 
 It’s time for another edition of “Everyday Encinitas.” Our goal with this series is to showcase and highlight local businesses and organizations in the area. **Today we’re meeting with Mike Chopp at the historic 1st Street Bar in downtown Encinitas**.
 
