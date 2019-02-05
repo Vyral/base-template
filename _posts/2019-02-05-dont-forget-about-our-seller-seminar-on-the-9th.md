@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Don't Forget About Our Seller Seminar on the 6th!
-date: 2019-02-05 20:28:28
+title: Don't Forget About Our Seller Seminar on the 9th!
+date: 2019-02-05 20:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
