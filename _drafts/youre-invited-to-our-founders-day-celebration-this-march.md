@@ -19,7 +19,7 @@ youtube_code: ljS5TRHo2YA
 
 {% include youtube.html %}
 
-2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we’re hosting our very own Founder’s Day celebration this March.
+<center>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we’re hosting our very own Founder’s Day celebration this March.</center>
 
 2019 marks the 66th year that Colemere Realty has been in business, and we’ve decided to throw a party to celebrate. &nbsp;
 
