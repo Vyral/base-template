@@ -5,7 +5,7 @@ date: 2019-02-04 16:55:00
 tags:
   - Market Update
   - Real Estate
-excerpt: The MostRecent MLS Stats Are In! How Do We Do in December?
+excerpt: The Most Recent MLS Stats Are In! How Do We Do in December?
 enclosure:
 pullquote: >-
   We fully expect more sellers to place their homes on the market this year,
