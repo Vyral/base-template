@@ -1,11 +1,14 @@
 ---
 layout: post
-title: How Did the Tulsa Market Do in 2018?
+title: The Most Recent MLS Stats Are In! How Do We Do in December?
 date: 2019-02-04 16:55:00
 tags:
   - Market Update
   - Real Estate
-excerpt: The Most Recent MLS Stats Are In! How Do We Do in December?
+excerpt: >-
+  It’s a new year, and we’re so excited for what’s to come! Finally, the 2018
+  market report statistics are out. Here is a summary of how we did in the
+  Tulsa-area market.
 enclosure:
 pullquote: >-
   We fully expect more sellers to place their homes on the market this year,
