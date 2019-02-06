@@ -9,7 +9,8 @@ excerpt: >-
   It’s a new year, and we’re so excited for what’s to come! Finally, the 2018
   market report statistics are out. Here is a summary of how we did in the
   Tulsa-area market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+The+Most+Recent+Mls+Stats+Are+In!+How+Did+We+Do+in+December_.mp4
 pullquote: >-
   We fully expect more sellers to place their homes on the market this year,
   especially as we draw closer to the prime time of the spring market.
