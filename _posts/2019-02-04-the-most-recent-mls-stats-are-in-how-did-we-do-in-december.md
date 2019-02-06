@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Most Recent MLS Stats Are In! How Do We Do in December?
+title: The Most Recent MLS Stats Are In! How Did We Do in December?
 date: 2019-02-04 16:55:00
 tags:
   - Market Update
