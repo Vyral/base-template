@@ -7,6 +7,8 @@ custom_links:
     url: http://www.retirementcfo.com/about-us
   - title: Personal Financial View
     url: https://wealth.emaplan.com/metbd/SignIn?metbd
+  - title: Free Newsletter
+    url: /subscribe/
 
 client:
   name: Stephen Cunha
