@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You’re Invited to Our Founder’s Day Celebration this March
+title: You’re Invited to Our Founder’s Day Celebration This March
 date: 2019-02-05 00:00:00
 tags:
   - Real Estate
@@ -21,7 +21,7 @@ youtube_code: ljS5TRHo2YA
 
 <center><em>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we&rsquo;re hosting our very own Founder&rsquo;s Day celebration this March.</em></center>
 
-&nbsp;
+ 
 
 2019 marks the 66th year that Colemere Realty has been in business, and we’ve decided to throw a party to celebrate.
 
