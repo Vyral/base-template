@@ -21,8 +21,6 @@ youtube_code: jfwiC-qjxEw
 
 <center><em>Our market is beginning to shift in favor of buyers, and today we&rsquo;d like to give you an update on why this is the case.</em></center>
 
- 
-
 **If you've been looking to buy a home for a while, you'll want to hear this**.
 
 You see, for several years now, we've been in a definite seller's market.
@@ -49,10 +47,10 @@ Of course, more expensive mortgage rates could easily cancel out—or even overw
 
 **The second reason to act is the time of the year**.
 
-Home prices in January are typically the lowest they will be all year. January is also the best time of year if you want to avoid competition, which can drive prices up and make it harder to get your dream home.
+Home prices at this time are typically the lowest they will be all year. Now is also the best time of year if you want to avoid competition, which can drive prices up and make it harder to get your dream home.
 
 Combine this with the way mortgage rates are moving, and now might actually be an optimal moment to start looking for a new home. The situation could be much less favorable in six months to a year down the line.
 
-The good news is, several beautiful and surprisingly affordable homes have recently come on the Dallas-Fort Worth market.
+The good news is, several beautiful and surprisingly affordable homes have recently come on the Dallas-Fort Worth market.&nbsp;[Click here to see a complete list of homes in our area](https://www.trgdfw.com/listing){: target="_blank"}.
 
 And if you have any questions about the current real estate market or you're ready to start seriously searching for homes, give me a call at (817) 637-4658. I'm here to help.
