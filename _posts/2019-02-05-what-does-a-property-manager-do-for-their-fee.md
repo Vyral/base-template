@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Property managers make an owner’s life much easier. Here’s what they do.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Danielle+Salas/The+Salas+Team-+What+Does+a+Property+Manager+Do+for+Their+Fee_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Danielle+Salas/The+Salas+Team-+What+Does+a+Property+Manager+Do+for+Their+Fee_+(1).mp4
 pullquote: >-
   They’ll look at oil burners, electrical systems, and water pipes during their
   maintenance.
