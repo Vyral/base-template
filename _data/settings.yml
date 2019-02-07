@@ -21,19 +21,18 @@ client:
   market: Woodstock
   brand: Ursula & Associates
   brokerage: Keller Williams Realty Partners
-  address: '220 Heritage Walk #101<br>Woodstock, GA 30188'
+  address: '722 Stonecroft Lane<br>Woodstock, GA 30188'
   phone: 678-389-3887
   phone_type: Direct
   phone2: 678-494-0644
   phone2_type: Office
   email: info@callursula.com
-  url: http://www.callursula.com
+  url: 'http://www.callursula.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://callursula.com/sellers'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://callursula.com/search'
-
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
