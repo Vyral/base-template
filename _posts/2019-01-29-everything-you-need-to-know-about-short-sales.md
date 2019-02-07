@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/becky-ivins-screenshot-short-sales-youtube.jpg
+youtube_alternate_image: /uploads/becky-ivins-screenshot-short-sales-youtube-2.jpg
 youtube_code: 'https://youtu.be/zubotBVeT5Q'
 ---
 
