@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does a Property Manager Do for Their Fee?
-date: 2019-02-05 17:31:22
+date: 2019-02-05 17:31:00
 tags:
   - Real Estate
 excerpt: Property managers make an owner’s life much easier. Here’s what they do.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: SSdHt96I0QY
+youtube_code: WYuiSACVA5g
 ---
 
 {% include youtube.html %}
