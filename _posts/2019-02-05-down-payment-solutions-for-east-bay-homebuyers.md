@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Down Payment Solutions for East Bay Homebuyers
-date: 2019-02-05 22:04:44
+date: 2019-02-05 22:04:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/down-payment-assistance-youtube.jpg
-youtube_code: 0jjGhQYTWso
+youtube_code: m1IWTCFjlmM
 ---
 
 {% include youtube.html %}
