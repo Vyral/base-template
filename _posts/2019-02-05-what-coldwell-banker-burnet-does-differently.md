@@ -21,7 +21,7 @@ youtube_code: WUltDSncaqU
 
 I’ve been with Coldwell Banker Burnet for my entire real estate career, and today I want to explain why.
 
-This brokerage has been a leader in real estate marketing in Minnesota and, really, nationwide. **We make it our priority to give our sellers the best possible market coverage, and our efforts have absolutely paid off.** 138 million people viewed our team’s listings online last year.
+This brokerage has been a leader in real estate marketing in Minnesota and, really, nationwide. **We make it our priority to give our sellers the best possible market coverage, and our efforts have absolutely paid off.** 138 million people viewed Coldwell Banker listings online last year.
 
 This massive success is partially due to Coldwell Banker’s incredible technology platform—which is, hands down, the best in the business.
 
