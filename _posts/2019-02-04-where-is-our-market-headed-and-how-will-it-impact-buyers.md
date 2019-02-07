@@ -21,6 +21,8 @@ youtube_code: jfwiC-qjxEw
 
 <center><em>Our market is beginning to shift in favor of buyers, and today we&rsquo;d like to give you an update on why this is the case.</em></center>
 
+&nbsp;
+
 **If you've been looking to buy a home for a while, you'll want to hear this**.
 
 You see, for several years now, we've been in a definite seller's market.
