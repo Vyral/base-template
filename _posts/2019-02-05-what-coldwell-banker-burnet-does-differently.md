@@ -25,7 +25,7 @@ This brokerage has been a leader in real estate marketing in Minnesota and, real
 
 This massive success is partially due to Coldwell Banker’s incredible technology platform—which is, hands down, the best in the business.
 
-Of course, resources like this can’t sustain our success on their own. Our amazing leadership team also plays a huge part. In my opinion, **w****e’ve got the best leadership across the entire Twin Cities area.** Coldwell Banker Burnet’s president, Matt Baker, has been with the brokerage for over 35 years. He has not only served as a strong leader for the Coldwell Banker Burnet in general, but has also been a phenomenal personal mentor for me. He has helped shaped the John Schuster Group into what it is today.
+Of course, resources like this can’t sustain our success on their own. Our amazing leadership team also plays a huge part. In my opinion, **w****e’ve got the best leadership across the entire Twin Cities area.** Coldwell Banker Burnet’s president, Matt Baker, has been with the brokerage for over 35 years. He has not only served as a strong leader for Coldwell Banker Burnet in general, but he has also been a phenomenal personal mentor for me. He has helped shaped the John Schuster Group into what it is today.
 
 {% include pullquote.html %}
 
