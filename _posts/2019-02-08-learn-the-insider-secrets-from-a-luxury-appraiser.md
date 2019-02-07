@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn The Insider Secrets From A Luxury Appraiser
-date: 2019-01-24 16:01:00
+date: 2019-02-08 04:01:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: JTXUA9kf7Nc
 
 {% include youtube.html %}
 
-Appraisals are absolutely critical in the luxury market, and this is exactly why we recently met with local appraiser Mark Morgan of M&N Morgan Company for a conversation on the subject. Now, we’re excited to bring this full conversation to you.
+Appraisals are absolutely critical in the luxury market, and this is exactly why we recently met with luxury appraiser Mark Morgan for a conversation on the subject. Now, we’re excited to bring this full conversation to you. Now, we’re excited to bring this full conversation to you.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
