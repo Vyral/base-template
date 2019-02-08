@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Hire a Real Estate Team?
-date: 2019-02-05 21:34:01
+title: Does Your Agent Have Plenty of Help?
+date: 2019-02-05 21:34:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -26,7 +26,7 @@ Though I’m currently in Bonaire, thousands of miles away from DC, I have no wo
 
 {% include pullquote.html %}
 
-**My clients know that I’m available to advise them no matter where I am,&nbsp;**and that everything is being taken care of back home.
+**My clients know that I’m available to advise them no matter where I am,** and that everything is being taken care of back home.
 
 This is why it’s so important that your agent has a team: **You need to be able to get the advice you need at any time.**
 
