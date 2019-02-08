@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/1-18-jt-np.jpg
-youtube_code: dtFffywFRk4
+youtube_code: wfKloXsn9W8
 ---
 
 {% include youtube.html %}
