@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine Your Housing Needs
-date: 2018-10-09 21:44:11
+date: 2019-02-07 21:44:00
 tags:
   - Real Estate
 excerpt: >-
