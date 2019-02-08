@@ -14,7 +14,7 @@ pullquote: Nobody can be in two places at once.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/work-with-a-team-youtube.jpg
+youtube_alternate_image: /uploads/work-with-a-team-youtube-1.jpg
 youtube_code: __Hf_NXI2qo
 ---
 
