@@ -26,6 +26,8 @@ Though I’m currently in Bonaire, thousands of miles away from DC, I have no wo
 
 {% include pullquote.html %}
 
+**My clients know that I’m available to advise them no matter where I am,&nbsp;**and that everything is being taken care of back home.
+
 This is why it’s so important that your agent has a team: **You need to be able to get the advice you need at any time.**
 
 If you have any questions or need more information, reach out to me. My team and I would love to help you out.
