@@ -270,3 +270,8 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8o4atRFayY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">The Loken Group: Lance Loken</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JPxF9odyU-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">Agent Success Secrets: Wendy Papasan</font>
