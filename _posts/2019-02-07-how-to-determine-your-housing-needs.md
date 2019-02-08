@@ -29,6 +29,6 @@ You should also **ask yourself how big of a home you and your family will need.*
 
 {% include pullquote.html %}
 
-Next, **consider****where you want to live**. Everybody has a dream location in mind at the start of their home search, but many people don't have the budget to match. Nevertheless, an experienced Realtor will be able to help you find the perfect neighborhood, keeping in mind the amenities that matter most for you and your family.
+Next, **consider&nbsp;****where you want to live**. Everybody has a dream location in mind at the start of their home search, but many people don't have the budget to match. Nevertheless, an experienced Realtor will be able to help you find the perfect neighborhood, keeping in mind the amenities that matter most for you and your family.
 
 If you have any questions about this, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
