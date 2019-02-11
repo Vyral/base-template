@@ -21,7 +21,7 @@ youtube_code: HqHpPk6C9IA
 
 {% include youtube.html %}
 
-If you have to wait until springtime to list your home, there are a few tips you need to remember to list at the most opportune time within the season.
+<p style="text-align: center;"><em>If you have to wait until springtime to list your home, there are a few tips you need to remember to list at the most opportune time within the season.</em></p>
 
 Are you putting your home on the market this spring?&nbsp;
 
