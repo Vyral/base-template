@@ -23,7 +23,7 @@ youtube_code: 0R69as0nGoQ
 
 {% include youtube.html %}
 
-For today’s message, let’s review the four main points Realtor.com’s economic research team has laid out for their 2019 market forecast.
+<p style="text-align: center;"><em>For today’s message, let’s review the four main points Realtor.com’s economic research team has laid out for their 2019 market forecast.</em></p>
 
 It’s hard to believe how far we’ve already made it into 2019. Whether you’ve been keeping up with your resolutions or not, there’s still plenty of time left in the year for us all to pursue our various goals.&nbsp;
 
