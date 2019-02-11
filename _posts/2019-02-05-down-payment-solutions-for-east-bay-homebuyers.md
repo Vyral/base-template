@@ -10,7 +10,7 @@ excerpt: >-
   amount.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2019/February/East+Bay+Real+Estate+Agent-+Down+Payment+Solutions+for+East+Bay+Homebuyers.mp4
-pullquote: 'The conforming loan limit for 2019 is $765,000.'
+pullquote: 'The conforming loan limit for 2019 is $726,525.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -26,8 +26,8 @@ Many believe that you need 20% down to buy a home. That’s just not true. There
 
 {% include pullquote.html %}
 
-The new conforming loan limit for 2019 is $765,000. Some down payment assistance programs out there will allow about $50,000 to go toward a down payment. After that, buying a home could be as simple as saving an extra months’ rent payment. It’s basically a deferred payment loan for the life of the loan, **but it allows a buyer to get into a property without much of a down payment at all.**
+The new conforming loan limit for 2019 is $726,525. Some down payment assistance programs out there will allow about $50,000 to go toward a down payment. After that, buying a home could be as simple as saving an extra months’ rent payment. It’s basically a deferred payment loan for the life of the loan, **but it allows a buyer to get into a property without much of a down payment at all.**
 
-There are plenty of areas where you can find a home for under $765,000, such as Concord, Martinez, Pleasant Hill, Brentwood, and Antioch. There are more homes to choose from in these areas.
+There are plenty of areas where you can find a home for under $726,525, such as Concord, Martinez, Pleasant Hill, Brentwood, and Antioch. There are more homes to choose from in these areas.
 
 **I work with a few lenders who specialize in helping homebuyers come up with a down payment.** If you have any questions about the process or about anything else real estate-related, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
