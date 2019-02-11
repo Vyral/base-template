@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Work Hard and Work Smart in Hitting Your 2019 Goals
-date: 2019-02-08 20:09:23
+title: Work Hard and Work Smart to Hit Your 2019 Goals
+date: 2019-02-08 20:09:00
 tags:
   - Agent Advice
 excerpt: >-
@@ -35,7 +35,7 @@ I see a lot of agents putting a ton of time and energy into accomplishing their 
 
 For me to get into sixth, seventh, eight, and ninth gear in that truck, all it took was noticing a minor detail on the stick shift. Realistically, all some agents need is a small tweak in their energy and focus to really hit all of their goals for 2019. **You don’t need to apply twice the amount of energy to duplicate your goals—you only need to change how you apply your energy.**
 
-If you think you need to change how you apply your energy in accomplishing your goals, there are a couple questions you need to ask yourself.
+If you think you need to change how you apply your energy in accomplishing your goals, there are a couple of questions you need to ask yourself.
 
 First, is your time blocking designed to match your goals in 2019? You need to commit to protecting your time—both your business time and your personal time.
 
