@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing Our Renter to Homeownership Program
-date:
+date: 2019-02-11 18:02:52
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -18,7 +18,9 @@ youtube_code: 3LcROo5xE-k
 
 {% include youtube.html %}
 
-<center>Are you ready to buy a home in 2019? We can help!</center>
+<center><em>Are you ready to buy a home in 2019? We can help!</em></center>
+
+&nbsp;
 
 If you’re currently renting but want to buy a home, **we have a great new program that’s perfect for you**.
 
