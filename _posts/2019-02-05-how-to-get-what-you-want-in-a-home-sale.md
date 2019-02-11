@@ -8,7 +8,7 @@ excerpt: >-
   Refusing to budge will lead you nowhere. Instead, collaborate on a great
   outcome for all.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2019/Central+PA+Real+Estate+Agent-+Collaborative+Negotiation.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2019/Central+PA+Real+Estate+Agent-+Negotiation+for+recruiting.mp4
 pullquote: >-
   To increase your chances of a successful transaction, you need to understand
   the buyer or seller you’re dealing with.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Qq--E524lik
+youtube_code: fSdCwiSmYfM
 ---
 
 {% include youtube.html %}
