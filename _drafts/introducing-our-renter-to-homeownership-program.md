@@ -18,7 +18,7 @@ youtube_code: 3LcROo5xE-k
 
 {% include youtube.html %}
 
-Are you ready to buy a home in 2019? We can help!
+<center>Are you ready to buy a home in 2019? We can help!</center>
 
 If you’re currently renting but want to buy a home, **we have a great new program that’s perfect for you**.
 
