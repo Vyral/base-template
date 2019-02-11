@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying & Selling Homes in 2019
-date: 2019-02-07 19:04:07
+date: 2019-02-07 19:04:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-to-expect-2019-youtube.jpg
-youtube_code: _6lonhFt3Jo
+youtube_code: IjICKXKhcUE
 ---
 
 {% include youtube.html %}
