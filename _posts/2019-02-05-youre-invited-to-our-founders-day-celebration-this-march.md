@@ -33,6 +33,6 @@ Our grandfather founded Colemere Realty in 1953. He originally worked in the fur
 
 Now, to commemorate our 66th year in business, **we want to invite you to our Founder’s Day celebration on March 8 right here at our office from 11 a.m. to 6 p.m.**
 
-If you plan on attending, please **[RSVP here](https://docs.google.com/forms/d/1bNk_MKQdtn1tFByN8kc2A6Ihm3lUC9LSFcxjOlbtWHA){: target="_blank"}.**
+If you plan on attending, please **[RSVP here](https://docs.google.com/forms/d/1bNk_MKQdtn1tFByN8kc2A6Ihm3lUC9LSFcxjOlbtWHA){: target="_blank"}&nbsp;**with your name, number, and what kind of pie you would like.
 
 If you have any questions for us in the meantime, don’t hesitate to reach out to us. We’d love to speak with you.
