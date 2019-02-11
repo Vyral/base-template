@@ -20,7 +20,7 @@ youtube_code: b83NpzClUqs
 
 What makes real estate so great as a startup business? To answer that question, let’s look at the two main reasons that businesses fail in today’s economy.
 
-The first is under-capitalization, or not having enough money to buy product to sell to their clients. Ideally, they’d be able to profit off of the product they sell so they can buy more product. Buying product for a business is an expensive enterprise, though, and that’s why being a Realtor is such an advantage—**you have thousands of homes to sell, and your shelves are constantly being restocked with product, so to speak, without you ever having to pay a dime for it.**
+The first is under-capitalization, or not having enough money to buy product to sell to their clients. Ideally, they’d be able to profit off of the product they sell so they can buy more product. Buying product for a business is an expensive enterprise, though, and that’s why being a Realtor is so advantageous—**you have thousands of homes to sell, and your shelves are constantly being restocked with product, so to speak, without you ever having to pay a dime for it.**
 
 {% include pullquote.html %}
 
