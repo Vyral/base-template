@@ -21,7 +21,7 @@ youtube_code: ljS5TRHo2YA
 
 <center><em>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we&rsquo;re hosting our very own Founder&rsquo;s Day celebration this March.</em></center>
 
- 
+&nbsp;
 
 2019 marks the 66th year that Colemere Realty has been in business, and we’ve decided to throw a party to celebrate.
 
@@ -33,6 +33,6 @@ Our grandfather founded Colemere Realty in 1953. He originally worked in the fur
 
 Now, to commemorate our 66th year in business, **we want to invite you to our Founder’s Day celebration on March 8 right here at our office from 11 a.m. to 6 p.m.**
 
-If you plan on attending, please RSVP. We’re also taking orders for Marie Callender pies, so reach out to us in order to reserve your pie of choice.
+If you plan on attending, please **[RSVP here](https://docs.google.com/forms/d/1bNk_MKQdtn1tFByN8kc2A6Ihm3lUC9LSFcxjOlbtWHA){: target="_blank"}.**
 
 If you have any questions for us in the meantime, don’t hesitate to reach out to us. We’d love to speak with you.
