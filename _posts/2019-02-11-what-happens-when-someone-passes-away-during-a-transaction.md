@@ -16,8 +16,8 @@ pullquote: >-
   transaction.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2-12-feb-1-np.jpg
 youtube_code: DSgYYJS34pE
 ---
 
@@ -25,7 +25,7 @@ youtube_code: DSgYYJS34pE
 
 <center><em>What happens when someone passes away in the middle of a real estate transaction?</em></center>
 
-&nbsp;
+ 
 
 Unfortunately, today’s question has cropped up twice in the last two weeks: What happens when one of the parties in a real estate transaction passes away before it’s complete?
 
