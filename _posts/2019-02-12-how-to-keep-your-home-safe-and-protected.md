@@ -17,7 +17,7 @@ youtube_code: FArTQnaSS_Q
 
 {% include youtube.html %}
 
-Is your home prepared for the worst? If not, here’s to start.
+<p style="text-align: center;"><em>Is your home prepared for the worst? If not, here’s to start.</em></p>
 
 I receive a lot of questions about home security, especially in regard to alarm systems. Today I’ll be going over three of these systems and share a tip for online security.&nbsp;
 
