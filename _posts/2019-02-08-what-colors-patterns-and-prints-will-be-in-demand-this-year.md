@@ -26,6 +26,6 @@ Compared to 2018, this year, you’ll be seeing a few interesting twists in desi
 
 **2. Brass is coming back into style.** I don’t mean the brass you’d have found in the 1980s, but more of a modern bend. Other colors like gold and black are coming back, especially for hardware.
 
-**3. Burnt yellow and 70s chic are returning.**  Additionally, bold florals and wallpapers are resurging in the marketplace.
+**3. Burnt yellow and 70s chic are returning.** &nbsp;Additionally, bold florals and wallpapers are resurging in the marketplace.
 
 These are some fun design tips to keep in mind if you are thinking of doing any changes to your decor in 2019. If you have any questions about other upcoming design trends, please reach out to us. We would love to have a conversation about what colors and patterns would fit in your home.
