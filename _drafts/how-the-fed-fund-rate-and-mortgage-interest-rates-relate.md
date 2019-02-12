@@ -24,7 +24,7 @@ youtube_code: NcvfzXdD0x4
 
 {% include youtube.html %}
 
-Today we’re honored to be joined by Matt Nader with First Home Mortgage to discuss the difference between the Fed fund rate and the mortgage interest rate and how the two are related (and aren’t).
+<center>Today we’re honored to be joined by Matt Nader with First Home Mortgage to discuss the difference between the Fed fund rate and the mortgage interest rate and how the two are related (and aren’t).</center>
 
 The Fed fund rate is the overnight discount rate at which banks are borrowing or lending money. &nbsp;It doesn’t have a direct correlation with mortgages. The Fed fund rate encompasses things like auto loans, credit cards, and home equity lines of credit (HELOC).
 
