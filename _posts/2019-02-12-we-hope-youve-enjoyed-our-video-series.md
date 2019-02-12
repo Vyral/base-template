@@ -14,7 +14,9 @@ youtube_alternate_image:
 youtube_code: e1QrxW7WFIU
 ---
 
-{% include youtube.html %}Our video blog may be ending, but we aren’t going anywhere.
+{% include youtube.html %}
+
+Our video blog may be ending, but we aren’t going anywhere.
 
 My team and I have an important announcement: Today’s video message will be our last.
 
