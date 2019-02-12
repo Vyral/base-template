@@ -24,7 +24,7 @@ youtube_code: NcvfzXdD0x4
 
 {% include youtube.html %}
 
-<center><em>Today we&rsquo;re honored to be joined by Matt Nader with First Home Mortgage to discuss the difference between the Fed fund rate and the mortgage interest rate and how the two are related (and aren&rsquo;t).</em></center>
+<center><em>Today we&rsquo;re honored to be joined by Matt Nader with First Home Mortgage to discuss the difference between<br />the Fed fund rate and the mortgage interest rate and how the two are related (and aren&rsquo;t).</em></center>
 
 &nbsp;
 
