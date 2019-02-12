@@ -2,8 +2,8 @@
 layout: post
 title: We Hope You’ve Enjoyed Our Video Series
 date:
-tags:
-excerpt:
+tags: Real Estate
+excerpt: Our video blog may be ending, but we aren’t going anywhere.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -13,5 +13,6 @@ youtube_alternate_image:
 youtube_code:
 ---
 {% include youtube.html %}
+Our video blog may be ending, but we aren’t going anywhere.
 
 {% include pullquote.html %}
