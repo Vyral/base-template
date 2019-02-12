@@ -17,7 +17,7 @@ youtube_code: e1QrxW7WFIU
 
 {% include youtube.html %}
 
-Our video blog may be ending, but we aren’t going anywhere.
+<p style="text-align: center;"><em>Our video blog may be ending, but we aren’t going anywhere.</em></p>
 
 My team and I have an important announcement: Today’s video message will be our last.
 
