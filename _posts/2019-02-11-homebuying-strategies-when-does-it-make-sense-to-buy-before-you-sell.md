@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Homebuyer Strategies: Buy First & Sell After, or Vice Versa?'
-date: 2019-01-31 23:11:42
+title: 'Homebuying Strategies: When Does it Make Sense to Buy Before you Sell?'
+date: 2019-02-11 23:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,7 +24,7 @@ In my experience, if you’re a homeowner looking to move into a new home, selli
 
 **1. You might not want to risk carrying two mortgages.** In a perfect world, you’d buy your new house, sell your old one, and the timelines would match up nicely with no fuss or risk. For most of us, however, things rarely go that smoothly. If you don’t have the savings to carry two mortgages for at least a few months, you’ll want to sell before you buy. It could also be that you’re in the position where you can’t qualify for two mortgages.<br><br>To buy a home before you sell, you’ll either need to have the cash on hand or qualify for a second mortgage. Understand that lenders won’t consider your plans to sell your current home when reviewing your second mortgage application. Your debt-to-income ratio will need to fit the criteria of the loan requirements at the time of purchase; your lender assumes you will keep both homes, so your debt-to-income ratio needs to be able to support both mortgages. This means that your monthly debt payments should total less than about 36% of your monthly gross income. If you don’t think you meet those criteria, you might have an easier time selling your home before buying the new one.<br>&nbsp;
 
-**2. You might just be in a competitive market.** In some markets, people are practically climbing over one another ot get their hands on desirable properties. Although this means that your house may sell faster, if you’re living in the same market that you’re buying in, you also need to be able to put in a competitive offer.<br><br>If you haven’t already sold your home and you can’t afford two mortgages, you might need to put in an offer that’s contingent on selling your current home. This means that the seller has to wait for you to sell your current place before closing the sale, and understandably, that’s not the most appealing option for a seller. If the offers are contingent, they might not even be considered in the running for a house if there are multiple offers on it.<br><br>Selling your home before buying a new one allows you to bid on a house without it being contingent on a sale. That’s super critical in a competitive market.
+**2. You might just be in a competitive market.** In some markets, people are practically climbing over one another or get their hands on desirable properties. Although this means that your house may sell faster, if you’re living in the same market that you’re buying in, you also need to be able to put in a competitive offer.<br><br>If you haven’t already sold your home and you can’t afford two mortgages, you might need to put in an offer that’s contingent on selling your current home. This means that the seller has to wait for you to sell your current place before closing the sale, and understandably, that’s not the most appealing option for a seller. If the offers are contingent, they might not even be considered in the running for a house if there are multiple offers on it.<br><br>Selling your home before buying a new one allows you to bid on a house without it being contingent on a sale. That’s super critical in a competitive market.
 
 {% include pullquote.html %}
 
