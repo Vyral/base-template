@@ -16,11 +16,11 @@ youtube_alternate_image:
 youtube_code: 9WNhVXwaBf0
 ---
 
-{{ include youtube.html }}
+{ include youtube.html }
 
 As the market slows down a bit, a lot of people in the industry are saying we’re headed for another crash circa 2007-08, but is that true?
 
-Thankfully, no. During the last recession, Tucson home valuations dropped roughly 40% to 45%. As the economy recovered, we came out of the recession at a pretty steep incline the first couple of years. N**ow, however, conditions are simply leveling off.** Nationwide, appreciation is right around 6%, and in our area, it’s at 5%. As we continue recovering from the recession, a  market slowdown is inevitable.
+Thankfully, no. During the last recession, Tucson home valuations dropped roughly 40% to 45%. As the economy recovered, we came out of the recession at a pretty steep incline the first couple of years. N**ow, however, conditions are simply leveling off.** Nationwide, appreciation is right around 6%, and in our area, it’s at 5%. As we continue recovering from the recession, a &nbsp;market slowdown is inevitable.
 
 During the last quarter of 2018, there were more price reductions than we saw in the last several years combined. This means our market is changing, but how? According to a recent poll of the top 100 real estate analysts in country, 94% them predicted that the market would continue to appreciate, while 4% predicted that it would go flat, and 2% predicted a slight decrease.
 
