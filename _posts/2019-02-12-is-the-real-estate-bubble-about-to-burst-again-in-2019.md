@@ -1,23 +1,26 @@
 ---
 layout: post
 title: Is the Real Estate Bubble About to Burst Again in 2019?
-date:
+date: 2019-02-12 20:51:30
 tags:
-excerpt:
+  - Market Update
+excerpt: >-
+  A lot of naysayers predict that another market crash is headed our way in
+  2019, but the facts tell a different story.
 enclosure:
-pullquote:
+pullquote: 'As we continue recovering from the recession, a market slowdown is inevitable.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 9WNhVXwaBf0
 ---
 
 {{ include youtube.html }}
 
 As the market slows down a bit, a lot of people in the industry are saying we’re headed for another crash circa 2007-08, but is that true?
 
-Thankfully, no. During the last recession, Tucson home valuations dropped roughly 40% to 45%. As the economy recovered, we came out of the recession at a pretty steep incline the first couple of years. N**ow, however, conditions are simply leveling off.** Nationwide, appreciation is right around 6%, and in our area, it’s at 5%. As we continue recovering from the recession, a &nbsp;market slowdown is inevitable.
+Thankfully, no. During the last recession, Tucson home valuations dropped roughly 40% to 45%. As the economy recovered, we came out of the recession at a pretty steep incline the first couple of years. N**ow, however, conditions are simply leveling off.** Nationwide, appreciation is right around 6%, and in our area, it’s at 5%. As we continue recovering from the recession, a  market slowdown is inevitable.
 
 During the last quarter of 2018, there were more price reductions than we saw in the last several years combined. This means our market is changing, but how? According to a recent poll of the top 100 real estate analysts in country, 94% them predicted that the market would continue to appreciate, while 4% predicted that it would go flat, and 2% predicted a slight decrease.
 
