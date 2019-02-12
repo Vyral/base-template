@@ -22,7 +22,9 @@ youtube_code: WUxvDOVei5g
 
 {% include youtube.html %}
 
-<center>The Roxy in downtown Encinitas features great food, great cocktails, and great live music, and it’s the perfect location for our latest episode of “Everyday Encinitas.”</center>
+<center><em>The Roxy in downtown Encinitas features great food, great cocktails, and great live music, and it&rsquo;s the perfect location for our latest episode of &ldquo;Everyday Encinitas.&rdquo;</em></center>
+
+&nbsp;
 
 For today’s episode of “Everyday Encinitas,” I’m visiting The Roxy. This restaurant is well known for their prolific live music schedule and their chic, retro bar that serves cocktails straight out of Prohibition-era America. Co-owner and manager Paula Vrakas joined me today to share everything about what this great establishment has to offer.
 
