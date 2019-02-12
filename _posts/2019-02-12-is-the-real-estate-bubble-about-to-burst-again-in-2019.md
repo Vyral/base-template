@@ -16,7 +16,7 @@ youtube_alternate_image:
 youtube_code: 9WNhVXwaBf0
 ---
 
-{ include youtube.html }
+{% include youtube.html %}
 
 As the market slows down a bit, a lot of people in the industry are saying we’re headed for another crash circa 2007-08, but is that true?
 
