@@ -1,8 +1,9 @@
 ---
 layout: post
 title: We Hope You’ve Enjoyed Our Video Series
-date: 2019-02-12 19:59:12
+date: 2019-02-12 19:59:00
 tags:
+  - Real Estate
 excerpt: 'Our video blog may be ending, but we aren’t going anywhere.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+MacKenzie/2019/Surrey+Real+Estate+_+2+Percent+West+Coast-+goodbye+2.1.mp4
