@@ -26,6 +26,8 @@ blogger_orig_url: http://gostgeorge.blogspot.com/2017/02/st-george-real-estate-a
 <center><em>You can always call us at <strong><a href="tel:435-215-4533">435-215-4533</a></strong> for a FREE home buying or selling consultation to answer any of your real estate questions.</em></center>
 <center>&nbsp;</center>
 
+<p style="text-align: center; background-color: black; width: 900px; height: 50px;"><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSfP_vsSlhPYNiUoaTIybSuNdIYXerZ_hAMhHmsDlbnQJPTi-A/viewform?vc=0&c=0&w=1" target="_blank" style="color: #ffffff;">Complete this simple 3-question survey about the local market to win 2 tickets ($30 value) to this year’s parade!</a></strong></p>
+
 Today’s video comes from atop the iconic Red Hill, looking into the iconic St. George Valley, talking about the iconic <a href="http://paradehomes.com/web/" target="_blank">St. George Parade of Homes</a>, which is now in its 29th year.
 It’s an iconic video!
 
