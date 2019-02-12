@@ -21,7 +21,7 @@ youtube_code: wAF17LPL1Co
 
 {% include youtube.html %}
 
-There are three main areas of your home’s design you need to focus on if you want to stay on-trend in our market right now.
+<p style="text-align: center;"><em>There are three main areas of your home’s design you need to focus on if you want to stay on-trend in our market right now.</em></p>
 
 What do the color of your cabinets, the paint on your walls, and the popular television channel HGTV have to do with selling your home? Actually, more than you may think. Staying on top of the latest design trends can make a big difference in your home’s value, which is why, today, we’re going to offer a breakdown of what’s “in” in 2019.&nbsp;
 
