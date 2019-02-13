@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pre-Home Inspections Increase Your Home's Value
-date: 2018-07-05 20:40:19
+date: 2019-02-13 12:10:00
 tags:
 excerpt:
 enclosure: >-
@@ -16,9 +16,9 @@ youtube_code: eQ_2ZL-ECK0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Using this one strategy, sellers can feel confident that they are getting the most money in the least amount of time.</em></p>
+*Using this one strategy, sellers can feel confident that they are getting the most money in the least amount of time.*
 
-<p style="text-align: center;"><em><strong>Buying a home?</strong> <a href="http://www.searchmontgomeryhouses.com/" target="_blank">Click here to perform a full home search</a><br><strong>Selling a home?</strong> <a href="http://www.searchmontgomeryhouses.com/homevalue/26days" target="_blank">Click here for a FREE Home Price Evaluation</a><br>Call me at <a href="tel:2155768666" target="_blank">215-576-8666</a> for a <strong>FREE home buying or selling consultation</strong></em></p>
+***Buying a home?** [Click here to perform a full home search](http://www.searchmontgomeryhouses.com/){: target="_blank"}<br>**Selling a home?** [Click here for a FREE Home Price Evaluation](http://www.searchmontgomeryhouses.com/homevalue/26days){: target="_blank"}<br>Call me at [215-576-8666](tel:2155768666){: target="_blank"} for a **FREE home buying or selling consultation***
 
 When it comes to selling a property, it is never too early to get a jump start on the process. Today, we want to let you in on a secret that can save you thousands: a pre-marketing home inspection.
 
