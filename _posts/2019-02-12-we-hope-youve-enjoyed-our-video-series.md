@@ -23,7 +23,7 @@ My team and I have an important announcement: Today’s video message will be ou
 
 Don’t worry, though. We will still be keeping in touch with you in other ways.
 
-This isn’t goodbye—it’s just a new chapter. We hope these messages have brought you value, and that you’ve enjoyed following them as much as we’ve enjoyed making them.
+This isn’t goodbye—it’s just a new chapter. We hope these messages have brought you value and that you’ve enjoyed following them as much as we’ve enjoyed making them.
 
 As I said, though, we are still here for you. We look forward to reaching out to you in new ways moving forward.
 
