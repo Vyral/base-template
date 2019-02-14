@@ -8,7 +8,7 @@ excerpt: >-
   There are three main areas of your home’s design you need to focus on if you
   want to stay on trend in our market right now.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+Current+Design+Trends.mp4
+  https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+design+trends+2.14.mp4
 pullquote: >-
   Staying on top of the latest design trends can make a big difference in your
   home’s value.
