@@ -13,8 +13,8 @@ pullquote: >-
   destination and I will pay for her airline tickets, lodging—the works.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/priyanka-johri--the-winner-of-my-raffle-is----youtube.jpg
 youtube_code: n-CAlPEHI4Q
 ---
 
