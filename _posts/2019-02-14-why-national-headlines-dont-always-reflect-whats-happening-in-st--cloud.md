@@ -19,7 +19,7 @@ youtube_code: ijOoBkei9WA
 
 {% include youtube.html %}
 
-Do national real estate headlines reflect what’s happening in our area? Not really, and today I’d like to explain why.
+<p style="text-align; center;"><em>Do national real estate headlines reflect what’s happening in our area? Not really, and today I’d like to explain why.</em></p>
 
 If you’ve been paying attention to real estate headlines lately, you might have noticed that they’ve gotten somewhat extreme. What you should realize, however, is that **many of the national headlines don’t reflect what’s happening in our local St. Cloud real estate market. **
 
