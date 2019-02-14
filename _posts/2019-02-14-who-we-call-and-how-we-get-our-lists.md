@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who We Call and How We Get Our Lists
-date:
+date: 2019-02-14 21:52:13
 tags:
 excerpt: >-
   Whether you have your own list or want to purchase one, we can turn your
