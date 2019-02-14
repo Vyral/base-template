@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Everyday Encinitas: The Roxy'
+title: '"Everyday Encinitas": The Roxy'
 date: 2019-02-12 00:00:00
 tags:
   - Real Estate
