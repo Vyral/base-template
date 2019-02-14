@@ -10,7 +10,7 @@ custom_links:
     url:
 client:
   name: 'Jay Robbins | Partner, Broker Associate'
-  license_number:
+  license_number: 493975
   about_markdown: >-
     Robbins Real Estate Group is a boutique firm focused on home sales in
     Dallas, Park Cities, Richardson, and the North Dallas suburbs. The company
@@ -21,8 +21,8 @@ client:
     Estate Group.
   market: Dallas-Fort Worth Texas Real Estate
   brand: Robbins Real Estate Group
-  brokerage: Coldwell Banker Residential Brokerage
-  address: '5950 Sherry Lane, Suite 200 <br> Dallas, TX 75225'
+  brokerage: Robbins Real Estate Group
+  address: 1920 McKinney Ave 7th Floor Robbins Real Estate Group
   phone: (214) 444-9014
   phone_type:
   phone2:
