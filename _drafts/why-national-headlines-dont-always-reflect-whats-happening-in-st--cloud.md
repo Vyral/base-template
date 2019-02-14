@@ -12,6 +12,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
+
+Do national real estate headlines reflect what’s happening in our area? Not really, and today I’d like to explain why.
 
 {% include pullquote.html %}
