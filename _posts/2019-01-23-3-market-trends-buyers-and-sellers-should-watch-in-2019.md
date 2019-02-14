@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 3 Market Trends Buyers and Sellers Should Watch in 2019
-date: 2019-01-23 21:18:14
+date: 2019-01-23 21:18:00
 tags:
   - Market Update
 excerpt: >-
   In today’s real estate market update, we’re going to discuss key trends that
   homebuyers and sellers should be watching in 2019.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+3+Market+Trends+Buyers+and+Sellers+Should+Watch+in+2019+(1).mp4
 pullquote: >-
   Markets are like the weather—you can’t entirely predict how they’ll act, but
   you can get a sense of the forces that may push things in one direction or
