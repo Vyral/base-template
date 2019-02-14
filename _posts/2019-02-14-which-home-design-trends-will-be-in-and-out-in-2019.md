@@ -20,7 +20,7 @@ youtube_code: 9nyHkI2R6F4
 
 {% include youtube.html %}
 
-Today we’ll forecast the home design trends and features that we expect to become popular in 2019, as well as those that will fade from the spotlight.
+<p style="text-align: center;"><em>Today we’ll forecast the home design trends and features that we expect to become popular in 2019, as well as those that will fade from the spotlight.</em></p>
 
 **Here are a few predictions of what home design trends are going to be in demand this year according to surveys and studies:**
 
