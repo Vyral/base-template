@@ -23,8 +23,6 @@ youtube_code: 0R69as0nGoQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>For today’s message, let’s review the four main points Realtor.com’s economic research team has laid out for their 2019 market forecast.</em></p>
-
 It’s hard to believe how far we’ve already made it into 2019. Whether you’ve been keeping up with your resolutions or not, there’s still plenty of time left in the year for us all to pursue our various goals.&nbsp;
 
 If any of your goals happen to do with real estate, I highly encourage you to keep tabs on our ever-changing market. With that in mind, it’s also important to realize that market conditions are like the weather—you can make close predictions about what may be on the horizon, but there’s no way to know for certain what’s ahead.&nbsp;
