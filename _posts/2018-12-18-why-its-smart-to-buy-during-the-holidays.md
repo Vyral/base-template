@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Why It’s Smart to Buy During the Holidays
-date: 2018-12-18 15:49:16
+date: 2018-12-18 15:49:00
 tags:
   - Real Estate
 excerpt: >-
   The holiday season is a great time to buy a home, and there are three reasons
   why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+Why+Its+Smart+to+Buy+During+the+Holidays.mp4
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+Why+Its+Smart+to+Buy+During+the+Holidays+(2).mp4
 pullquote: >-
   Most sellers have a compelling reason to be putting their home on the market
   during the holidays.
