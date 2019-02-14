@@ -21,7 +21,7 @@ youtube_code: AAZBTZdprvE
 
 I’m very excited to be able to introduce you to one of our rockstar agents, Andy Baker. Andy has been selling real estate for 16 years, pretty much since I developed the team all those years ago. To Andy, it just made sense for us to work together, and things have been great for us both.&nbsp;
 
-**Andy has always been an outdoors kind of guy, and loves any activity that allows him to go outside and enjoy the weather.** He takes his wife and two children on ski trips during the weekends in the winter. In fact, in a couple weeks, Andy will be traveling to Breckenridge with his kids for the first time to go skiing out in the mountains. During the summer, he enjoys fishing, surfing, and boating.
+**Andy has always been an outdoors kind of guy, and he loves any activity that allows him to go outside and enjoy the weather.** He takes his wife and two children on ski trips during the weekends in the winter. In fact, in a couple weeks, Andy will be traveling to Breckenridge with his kids for the first time to go skiing out in the mountains. During the summer, he enjoys fishing, surfing, and boating.
 
 {% include pullquote.html %}
 
