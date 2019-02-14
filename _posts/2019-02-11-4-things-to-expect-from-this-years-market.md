@@ -39,4 +39,4 @@ Having said that, let’s review the forecast that Realtor.com’s economic rese
 
 **4. The new tax law is still a wild card.** Last year, while the GOP’s proposed tax law was still being batted around Congress, many believed that, if passed, it would discourage buyers from entering the market. Even now that that the bill has been signed, the full impact of this change will remain unclear until tax season is over.&nbsp;
 
-To read Realtor.com’s full report, click here. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+To read Realtor.com’s full report, <a href="https://www.realtor.com/research/2019-national-housing-forecast/" target="_blank">click here.</a> If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
