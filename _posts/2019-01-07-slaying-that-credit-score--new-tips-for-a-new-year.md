@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   With the new year officially here, it’s time to think about what you can do to
   give your credit score a boost in 2019.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+What+You+Can+Do+For+Your+Credit+Score+in+2019.mp4
 pullquote: >-
   Those who see an 850 reflected in their report are strategic in every aspect
   of their budgeting and financial picture.
@@ -22,9 +23,9 @@ youtube_code: e68yMJIeAhc
 
 First of all, shoot for perfection! 850 is the best score you can possibly get, and while it may seem completely out of reach for some, there are people who actually crest that credit mountain and reach the top. It’s the holy grail of credit scores, 850. On the widely used FICO credit scale approximately 1 out of every 200 people achieves perfection. Careful budgeting and attention to every aspect of your financial picture will help you get to and maintain that score.
 
-If that seems a little too crazy, shoot for 720. If 850 is out of reach in a reasonable timeframe-- reasonable being the maximum amount of time you want to wait before buying a home-- aim for 720. This is often the magic number to get lenders fighting for your business, and in nearly all instances you’ll be offered the best interest rates.
+If that seems a little too crazy, shoot for 720. If 850 is out of reach in a reasonable timeframe– reasonable being the maximum amount of time you want to wait before buying a home– aim for 720. This is often the magic number to get lenders fighting for your business, and in nearly all instances you’ll be offered the best interest rates.
 
-Also, set up automatic payments. According to creditcards.com 35% of your credit score is taken from your credit payment history. You may have missed payments in the past, but you certainly don’t want to make that mistake while you’re trying to get homebuyer ready. Almost every creditor-- your utilities, car payment, even your student loans will offer the option of automatic payments. This is the easiest way to ensure you never miss another payment going forward. Just remember to make sure there’s enough money &nbsp;in your account to cover what is coming out. If you’ve been busy moving funds into savings for your down payment you’ll want to set a reminder to move funds back to whatever account your automatic payments are attached to.
+Also, set up automatic payments. According to creditcards.com 35% of your credit score is taken from your credit payment history. You may have missed payments in the past, but you certainly don’t want to make that mistake while you’re trying to get homebuyer ready. Almost every creditor– your utilities, car payment, even your student loans will offer the option of automatic payments. This is the easiest way to ensure you never miss another payment going forward. Just remember to make sure there’s enough money  in your account to cover what is coming out. If you’ve been busy moving funds into savings for your down payment you’ll want to set a reminder to move funds back to whatever account your automatic payments are attached to.
 
 {% include pullquote.html %}
 
