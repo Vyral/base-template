@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Real Estate Is Your Ideal Startup Business
-date: 2019-02-08 18:29:59
+date: 2019-02-08 18:29:00
 tags:
   - Success Tips
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b83NpzClUqs
+youtube_code: CC-8Sqg5c3w
 ---
 
 {% include youtube.html %}
