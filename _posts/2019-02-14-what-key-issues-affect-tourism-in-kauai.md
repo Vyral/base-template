@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Key Issues Affect Tourism in Kauai?
-date: 2019-02-14 16:22:14
+date: 2019-02-14 16:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: >-
   also on clamping down on the enforcement of illegal vacation rentals.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2-8-19yt.jpg
 youtube_code: 1LCp-uYZgaA
 ---
 
@@ -32,8 +32,8 @@ I don’t necessarily agree with that, however, the county strategy is to become
 
 **As we move further into 2019, we still have three relatively new projects**
 
-* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br>&nbsp;
-* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br>&nbsp;
+* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br> 
+* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br> 
 * On the North Shore, we have the North Shore Preserve, which is a swath of land owned by Jeff Stone and the Principal Corporation. These are spectacular lots with one-of-a-kind, mind-boggling views of Hanalei Bay and Valley High. They will be selling for between $5 million and $6 million
 
 Overall, this last year was very successful for tourism. For those with vacation rentals, tourism revenue was up 9.2%, the highest level in 25 years on Kauai. However, this does create the problem of over-tourism; **there are more tourists here than our infrastructure can support.**
@@ -45,5 +45,3 @@ The focus for the future will be on improving our roads and wastewater systems s
 An example of that point is the airlift onto the island. In fact, Southwest Airlines launched its first certification airlines earlier in February; as soon as they’re finished with that process, you’ll be able to get affordable flights from Southwest. For those of you with Southwest frequent flyer miles, it might be a great opportunity to get an inexpensive or free trip to the islands. The county doesn’t really have control over that, which is part of the drive behind the county’s push to improve infrastructure, roads, and so on.
 
 These are some of the key issues relevant to us on the Garden Island. Hopefully you get to visit us soon! If you have any questions about local issues or about buying or selling real estate, please reach out to us. Our marvelous team would love to be of service to you. Aloha!
-
-&nbsp;
