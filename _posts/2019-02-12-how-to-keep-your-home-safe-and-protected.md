@@ -4,7 +4,7 @@ title: How to Keep Your Home Safe and Protected
 date: 2019-02-12 22:49:58
 tags:
   - Real Estate
-excerpt: 'Is your home prepared for the worst? If not, here’s to start.'
+excerpt: 'Is your home prepared for the worst? If not, here’s how to make that happen.'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+Security.mp4
 pullquote: Hold off on posting about your vacation until you’re back at home.
@@ -17,7 +17,7 @@ youtube_code: FArTQnaSS_Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Is your home prepared for the worst? If not, here’s to start.</em></p>
+<p style="text-align: center;"><em>Is your home prepared for the worst? If not, here’s how to make that happen.</em></p>
 
 I receive a lot of questions about home security, especially in regard to alarm systems. Today I’ll be going over three of these systems and share a tip for online security.&nbsp;
 
