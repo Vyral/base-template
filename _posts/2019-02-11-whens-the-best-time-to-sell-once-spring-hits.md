@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   If you have to wait until springtime to list your home, there are a few tips
-  you need to remember to list at the most opportune time within the season.
+  you need to remember if you want to list at the most opportune time within the season.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+selling+in+spring+2.4.mp4
 pullquote: >-
@@ -21,7 +21,7 @@ youtube_code: HqHpPk6C9IA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you have to wait until springtime to list your home, there are a few tips you need to remember to list at the most opportune time within the season.</em></p>
+<p style="text-align: center;"><em>If you have to wait until springtime to list your home, there are a few tips you need to remember if you want to list at the most opportune time within the season.</em></p>
 
 Are you putting your home on the market this spring?&nbsp;
 
@@ -33,7 +33,7 @@ If circumstances are forcing you to sell during springtime, though, I have a few
 
 First, look at the history of home sales in your area for the previous six months to a year. This means homes in your price range, zip code, subdivision, and any nearby new construction subdivisions. **Look at the market’s absorption data to know how many homes sold versus how many didn’t at any given time.&nbsp;**
 
-With that in mind, look at when the market will be least-competitive. In new construction subdivisions, builders often offer promotions and price reductions for their spec homes, and you don’t want to compete against that kind of thing.
+With that in mind, look at when the market will be the least competitive. In new construction subdivisions, builders often offer promotions and price reductions for their spec homes, and you don’t want to compete against that kind of thing.
 
 {% include pullquote.html %}
 
