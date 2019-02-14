@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Which household items stay with the home and which go with the seller after
   the home is bought? It depends on what’s written in the purchase contract.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Dave+Knight/Dave+Knight+Real+Estate+Team-+Which+Household+Items+Are+Included+in+a+Home+Sale_+(1).mp4
 pullquote: >-
   We provide our sellers with a checklist of items so they can specify what they
   want included and excluded in their sale before we accept an offer.
