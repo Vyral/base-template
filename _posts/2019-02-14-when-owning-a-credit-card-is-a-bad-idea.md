@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Owning a Credit Card Is a Bad Idea
-date:
+date: 2019-02-14 22:22:18
 tags:
 excerpt: >-
   Under certain circumstances, it would be a bad idea for you to own a credit
