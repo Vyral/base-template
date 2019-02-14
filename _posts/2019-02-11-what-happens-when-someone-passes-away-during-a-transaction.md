@@ -25,7 +25,7 @@ youtube_code: DSgYYJS34pE
 
 <center><em>What happens when someone passes away in the middle of a real estate transaction?</em></center>
 
- 
+&nbsp;
 
 Unfortunately, today’s question has cropped up twice in the last two weeks: What happens when one of the parties in a real estate transaction passes away before it’s complete?
 
@@ -35,6 +35,6 @@ In the other deal, we represented the buyer and one of the sellers passed away. 
 
 {% include pullquote.html %}
 
-In situations like these, we always get the attorneys involved to make sure that our clients are well-advised to make the best decisions for their situation.
+In situations like these, we always get the attorneys involved to make sure that our clients are well advised to make the best decisions for their situation.
 
 If you have any questions or would like to discuss buying or selling a home, don’t hesitate to reach out to us. We’d be happy to help.
