@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What a Divorce Means to Your Mortgage Loan Application
-date: 2018-08-23 20:06:50
+date: 2018-08-23 20:06:00
 tags:
   - Real Estate
 excerpt: Your divorce can affect your ability to get a new mortgage loan. Here’s how.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+What+a+Divorce+Means+to+Your+Mortgage+Loan+Application+(1).mp4
 pullquote: 'If one spouse was given the home, it is considered a contingent liability.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: etHqgSWVAoQ
 
 {% include youtube.html %}
 
-Today I want to talk about how a divorce can affect your mortgage loan application. &nbsp;
+Today I want to talk about how a divorce can affect your mortgage loan application.  
 
 The state of Florida is a marital property state, meaning that you are either married or divorced. If you’re married while you own your primary residence, **you and your spouse are both obligated under the mortgage to ensure taxes and insurance get paid.**
 
