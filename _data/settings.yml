@@ -1,5 +1,5 @@
 audit_header: false
-title: -- CLIENT BRAND --
+title: Myrtle Beach Real Estate Careers
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -10,9 +10,15 @@ client:
   name: Blake Sloan
   license_number:
   about_markdown: |
-    The Blake Sloan Team is one of the most advanced and highly ranked real estate teams in the world. They were recently ranked by the Wall Street Journal as one of the Top 50 Real Estate Teams In North America, coming in at #37, and #1 in the State Of South Carolina.
+    Blake Sloan is a Myrtle Beach, SC based entrepreneur, who played football at Coastal Carolina University before getting into real estate, and starting his first company the Sloan Realty Group in 2008.
 
-    Blake Sloan's unmatched marketing and innovation in the real estate world has landed him national attention with recognition such as "Forbes Magazine Top 30 Under 30", Real Estate Magazine's Top 30 Under 30, and has been featured in both national and local news outlets like NBC, Fox, and others.
+    Sloan's unmatched marketing and innovation in the real estate world has landed him national attention with recognition such as Forbes Magazine, The Wall Street Journal, Realtor Magazine, NBC, CBS, and many other national publications. Most notably Forbes Magazine’s Top 30 Under 30 in the same class as Eric Trump, Taylor Swift, Drake, and many other thought leaders his age.
+
+    Industry leaders have dubbed him the “Real Estate Whiz Kid”, his real estate team is consistently ranked in the Top 1% of Realtors worldwide, and he was a self-made millionaire by age 27.
+
+    He is a frequent contributor on Fox News’ Fox & Friends, and is personally endorsed by national celebrities Sean Hannity, Glenn Beck, and Shark Tank’s Barbara Corcoran.
+
+    Sloan is the founder of the International Association of Real Estate Experts™, and is also the author of the Certified Real Estate Expert® designation.
   market:
   brand: Sloan Realty Group Inc.
   brokerage:
@@ -21,7 +27,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: VIP@SRGmail.com
+  email: mail@SRGmail.com
   url: http://www.SloanRealtyGroup.net
 
 CTAs:
