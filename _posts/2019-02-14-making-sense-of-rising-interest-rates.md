@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making Sense of Rising Interest Rates
-date: 2019-01-28 16:56:30
+date: 2019-02-14 16:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -40,4 +40,4 @@ With resale homes scarcely available in our market, many buyers are turning to t
 
 During pre-approval, I’m often asked, “what’s my interest rate?” Because interest rates aren’t leveling out for any length of time, where they were sitting 90 days ago is unlikely to be where they are now. It’s important to keep this in mind in the pre-approval phase.
 
-If you have further questions about interest rates, please don’t hesitate to reach out to me or my team at 352-242-1535. Have a great day! &nbsp;
+If you have further questions about interest rates, please don’t hesitate to reach out to me or my team at 352-242-1535. Have a great day!
