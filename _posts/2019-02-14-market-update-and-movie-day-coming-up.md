@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Did Our Market Change in 2018?
+title: Market Update and Movie Day Coming Up!
 tags:
   - Market Update
 excerpt: >-
