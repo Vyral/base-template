@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Escrow Accounts Work
-date: 2019-02-15 00:00:00
+date: 2019-02-14 11:00:00
 tags:
   - Real Estate
 excerpt: >-
