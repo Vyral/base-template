@@ -23,7 +23,7 @@ youtube_code: dRPE9W1wxRM
 
 <p style="text-align: center;"><em>Need some help figuring out your taxes this year? Stay tuned for today's message.</em></p>
 
-For today’s message, I’m joined by Issam Aljaber of Advisory, CPA. Issam is our preferred tax professional, and we’re delighted that he’s here to give us some special insight into tax season for this year.&nbsp;
+For today’s message, I’m joined by local tax professional Issam Aljaber of Advisory, CPA. We’re delighted that he’s here to give us some special insight into tax season for this year.&nbsp;
 
 The enactment of the 2017 tax act gave rise to a lot of questions concerning how this legislation would affect taxpayers, and **it remains a topic of interest in the present**, according to Issam.&nbsp;
 
