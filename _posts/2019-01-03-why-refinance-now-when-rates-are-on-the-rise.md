@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Why might someone want to refinance their home in an environment where
   interest rates are increasing? Today I’ll provide three reasons they might.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Why+Refinance+Now+When+Rates+Are+on+the+Rise_+(1).mp4
 pullquote: >-
   We’ve seen a lot of people combining their first and second mortgages now that
   they’re in the equity position to do so.
