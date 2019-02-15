@@ -36,7 +36,7 @@ youtube_code: 9nyHkI2R6F4
 
 **On the other hand, some trends in the market will fade as the year continues. Here’s what will be out this year:**
 
-**1. Farmhouse-chic style.** It will remain relevant for awhile, but this home style will begin to fade away in 2019. The barn door with reclaimed wood will eventually be replaced with modern versions including glass and metal, and the exposed Edison light bulbs that are so popular will make way for reflecting, concealed light bulbs.
+**1. Farmhouse-chic style.** It will remain relevant for a while, but this home style will begin to fade away in 2019. The barn door with reclaimed wood will eventually be replaced with modern versions including glass and metal, and the exposed Edison light bulbs that are so popular will make way for reflecting, concealed light bulbs.
 
 **2. Millennial pink and purple gingham.** Brought to the fore by fads on Instagram and other social media outlets, studies show that people don’t want to live with these colors every day for years on end. Neutral colors like blues, greys, and creams will be in, as they’re shown to add higher dollar values to homes than those that have millennial pink and bright purples.
 
