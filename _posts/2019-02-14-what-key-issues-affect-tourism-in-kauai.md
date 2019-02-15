@@ -9,8 +9,8 @@ excerpt: >-
   the current issues the community of Kauai faces.
 enclosure:
 pullquote: >-
-  New county government seems to be strongly focused on not only housing, but
-  also on clamping down on the enforcement of illegal vacation rentals.
+  The new county government seems to be strongly focused on not only housing,
+  but also on clamping down on the enforcement of illegal vacation rentals.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -24,17 +24,19 @@ Looking back on 2018, the largest issue of the year was the series of floods tha
 
 In fact, on January 3, the new mayor issued the sixth iteration of an emergency proclamation, which extends the flood-relief process. Part of that emergency rule prohibits the operation of transient vacation rentals on the north side of the island in the Lumahai, Wainiha, and Haena areas in particular.
 
-For the folks on the northern side of the island that depend on their vacation rental revenue, it’s a very challenging time. On the flip side, new county government seems to be strongly focused on not only housing, but also on clamping down on the enforcement of illegal vacation rentals. Recently, **they issued a $130,000 fine to an operator by the Wailua River who’d been operating an illegal vacation rental.**
+For the folks on the northern side of the island that depend on their vacation rental revenue, it’s a very challenging time. On the flip side, the new county government seems to be strongly focused on not only housing, but also on clamping down on the enforcement of illegal vacation rentals. Recently, **they issued a $130,000 fine to an operator by the Wailua River who’d been operating an illegal vacation rental.**
 
-That in mind, if you’re thinking about buying property on Kauai with the intent of renting it as a short-term vacation property, **I strongly encourage you to make sure it’s a legal vacation rental.** One-in-eight homes on Kauai is a vacation rental, and the government sees that as something that contributes to the high price of housing and destroys our communities.
+That in mind, if you’re thinking about buying property on Kauai with the intent of renting it as a short-term vacation property, **I strongly encourage you to make sure it’s a legal vacation rental.** One in eight homes on Kauai is a vacation rental, and the government sees that as something that contributes to the high price of housing and destroys our communities.
 
-I don’t necessarily agree with that, however, the county strategy is to become much stricter on enforcement. In terms of affordable housing, one of the ideas the mayor mentioned in his radio interview was of **leasing county or state land to large developers so that they can defer those costs and bring in housing that’s much more affordable** for the median income of Kauai households.
+&nbsp;
+
+I don’t necessarily agree with that. However, the county strategy is to become much stricter on enforcement. In terms of affordable housing, one of the ideas the mayor mentioned in his radio interview was of **leasing county or state land to large developers so that they can defer those costs and bring in housing that’s much more affordable** for the median income of Kauai households.
 
 **As we move further into 2019, we still have three relatively new projects**
 
-* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br> 
-* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br> 
-* On the North Shore, we have the North Shore Preserve, which is a swath of land owned by Jeff Stone and the Principal Corporation. These are spectacular lots with one-of-a-kind, mind-boggling views of Hanalei Bay and Valley High. They will be selling for between $5 million and $6 million
+* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br>&nbsp;
+* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br>&nbsp;
+* On the North Shore, we have the North Shore Preserve, which is a swath of land owned by Jeff Stone and the Principal Corporation. These are spectacular lots with one-of-a-kind, mind-boggling views of Hanalei Bay and Valley High. They will be selling for between $5 million and $6 million.
 
 Overall, this last year was very successful for tourism. For those with vacation rentals, tourism revenue was up 9.2%, the highest level in 25 years on Kauai. However, this does create the problem of over-tourism; **there are more tourists here than our infrastructure can support.**
 
