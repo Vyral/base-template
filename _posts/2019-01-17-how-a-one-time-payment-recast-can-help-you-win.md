@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   A one-time payment recast is a great solution for homebuyers who can use it.
   Here’s how it works.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+How+a+One-Time+Payment+Recast+Can+Help+You+Win+(2).mp4
 pullquote: This would allow you to be a buyer without any contingencies.
 enclosure_type: video/mp4
 enclosure_time:
