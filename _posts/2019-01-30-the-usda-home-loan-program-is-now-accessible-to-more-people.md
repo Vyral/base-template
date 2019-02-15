@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The qualifications for USDA loans has undergone some changes. Here’s what you
   need to know.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+Loan+Limits+(2).mp4
 pullquote: This change opens up the program to many more families.
 enclosure_type: video/mp4
 enclosure_time:
