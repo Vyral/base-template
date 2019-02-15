@@ -21,7 +21,7 @@ youtube_code: dRPE9W1wxRM
 
 {% include youtube.html %}
 
-Need some help figuring out your taxes this year? Stay tuned for today's message.
+<p style="text-align: center;"><em>Need some help figuring out your taxes this year? Stay tuned for today's message.</em></p>
 
 For today’s message, I’m joined by Issam Aljaber of Advisory, CPA. Issam is our preferred tax professional, and we’re delighted that he’s here to give us some special insight into tax season for this year.&nbsp;
 
