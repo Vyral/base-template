@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Escrow Accounts Work
-date:
+date: 2019-02-15 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: kXi4s6fQn_o
 
 **Escrow accounts are accounts that are set up to fund your property taxes and/or homeowners insurance.** Every month, you put money into that account so your servicer will have the full amount to pay those bills when they’re due.
 
-Here’s the thing, though—we only collect from the escrow account based off of what the previous year’s bill was, and unfortunately, property taxes and homeowners insurance tend to increase over time. This means that **each year, you’ll have a small deficit in your escrow account that you’ll need to cover.&nbsp;**
+Here’s the thing, though—we only collect from the escrow account based off of what the previous year’s bill was, and unfortunately, property taxes and homeowners insurance tend to increase over time. This means that **each year, you’ll have a small deficit in your escrow account that you’ll need to cover. **
 
 {% include pullquote.html %}
 
