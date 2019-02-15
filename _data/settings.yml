@@ -30,7 +30,7 @@ client:
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808367';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.carterpropertygroup.com/'
+  first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.carterpropertygroup.com/'
   phone_CTA: true
