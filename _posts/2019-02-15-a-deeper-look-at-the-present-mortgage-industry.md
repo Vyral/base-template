@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Deeper Look at the Present Mortgage Industry
-date: 2019-02-15 17:41:11
+date: 2019-02-15 17:41:00
 tags:
   - Real Estate
 excerpt: >-
   Join me today as I take a closer look at what’s going on behind the scenes in
   the mortgage industry.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kristin+Jamieson/Orlando+Mortgages-+A+Deeper+Look+at+the+Present+Mortgage+Industry.mp4
 pullquote: >-
   You can take comfort in knowing that we at Success Mortgage Partners are
   stable and closing loans each and every day.
@@ -26,7 +27,7 @@ Fast forward to today: With all of the interest rate compression that I’ve hig
 
 **The truth of the matter, though, is that a lot of lenders have been working at losses over the last six months or so.** These particular lenders didn’t know how to sufficiently prepare for the changing market nor do they have the reserves and, as result, **the implode-o-meter has made a return.**
 
-To be sure, bad lending practices aren’t the culprit here; the pre-existing losses mentioned above are causing lenders to lose their reserve requirements, and if they’re not turning a profit in two calendar quarters of the year, they’ll lose access to their warehouse funds. &nbsp;
+To be sure, bad lending practices aren’t the culprit here; the pre-existing losses mentioned above are causing lenders to lose their reserve requirements, and if they’re not turning a profit in two calendar quarters of the year, they’ll lose access to their warehouse funds.  
 
 {% include pullquote.html %}
 
