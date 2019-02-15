@@ -12,7 +12,7 @@ pullquote: We’re seeing a lot of buyer fatigue.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/2-14--market-np.jpg
+youtube_alternate_image: /uploads/2-15-movie-np.jpg
 youtube_code: UxlYsYMP2AU
 ---
 
