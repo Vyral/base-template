@@ -42,4 +42,4 @@ Ultimately, the Fed fund rate isn’t directly correlated to how interest rates 
 
 Since mortgage interest rates have gone down, there is plenty of opportunity in the market for consumers.
 
-Hopefully this helped clarify any confusion about mortgage interest rates and the Fed fund rate. If you have any questions about this topic, feel free to reach out to us. We’d be glad to help.
+Hopefully, this helped clarify any confusion about mortgage interest rates and the Fed fund rate. If you have any questions about this topic, feel free to reach out to us. We’d be glad to help.
