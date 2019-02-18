@@ -25,9 +25,9 @@ Back in 2006, an instrument known as the “mortgage implode-o-meter” came int
 
 Fast forward to today: With all of the interest rate compression that I’ve highlighted recently, less money is being made in the industry. Companies are resorting to scalebacks and getting creative with their operational methods to keep their doors open and provide top-grade customer service.
 
-**The truth of the matter, though, is that a lot of lenders have been working at losses over the last six months or so.** These particular lenders didn’t know how to sufficiently prepare for the changing market nor do they have the reserves and, as result, **the implode-o-meter has made a return.**
+**The truth of the matter, though, is that a lot of lenders have been working at losses over the last six months or so.** These particular lenders didn’t know how to sufficiently prepare for the changing market nor do they have the reserves and, as a result, **the implode-o-meter has made a return.**
 
-To be sure, bad lending practices aren’t the culprit here; the pre-existing losses mentioned above are causing lenders to lose their reserve requirements, and if they’re not turning a profit in two calendar quarters of the year, they’ll lose access to their warehouse funds.  
+To be sure, bad lending practices aren’t the culprit here; the pre-existing losses mentioned above are causing lenders to lose their reserve requirements, and if they’re not turning a profit in two calendar quarters of the year, they’ll lose access to their warehouse funds. &nbsp;
 
 {% include pullquote.html %}
 
