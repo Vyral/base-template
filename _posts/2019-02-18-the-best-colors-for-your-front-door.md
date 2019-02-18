@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Colors for Your Front Door
-date:
+date: 2019-02-18 15:48:25
 tags:
   - Real Estate
 excerpt: 'Your front door gives a big first impression, so make it count! Here’s how.'
