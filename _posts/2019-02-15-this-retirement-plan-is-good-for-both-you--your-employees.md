@@ -34,6 +34,6 @@ This retirement plan design strategy creates a win-win situation for you and you
 
 In my next video, I’ll talk about the “safe harbor” plan designs, which I call the “silver bullets of retirement planning.” There are three of them, and each is critical in allowing you, as an owner, as well as your employees to save the maximum amount allowed by law.
 
-If you’re interested in learning my entire process, if you’d like to book a call, webinar or meeting, or if you’d like to request a complimentary benchmark analysis of your plan, [click here](https://meetme.so/SelectRetirementPlans). Otherwise, feel free to reach out to me any time for any questions you have. I’d love to hear from you.
+If you’re interested in learning my entire process, if you’d like to book a call, webinar or meeting, or if you’d like to request a complimentary benchmark analysis of your plan, [click here](https://meetme.so/SelectRetirementPlans). Otherwise, feel free to reach out to me anytime for any questions you have. I’d love to hear from you.
 
 &nbsp;
