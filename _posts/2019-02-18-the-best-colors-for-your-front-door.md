@@ -27,4 +27,4 @@ When a buyer drives past your home, the first thing they’ll see is your front 
 
 {% include pullquote.html %}
 
-If you have any questions or need further information, feel free to reach out to us or visit [www.TheWhiteGroup.com](https://www.TheWhiteGroup.com){: target="_blank"}. We look forward to hearing from you soon.
+If you have any questions or need further information, feel free to reach out to us.
