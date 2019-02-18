@@ -13,9 +13,9 @@ pullquote: >-
   but also on clamping down on the enforcement of illegal vacation rentals.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/2-8-19yt.jpg
-youtube_code: HTG7P4G4b1I
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: EKU-h5fGicg
 ---
 
 {% include youtube.html %}
