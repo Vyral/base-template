@@ -22,7 +22,7 @@ In the Jackson Metro area, there are over 1,800 agents involved in the MLS. If y
 
 {% include pullquote.html %}
 
-It’s important to note that t**he MLS is it’s not open to the public—it’s a private service for real estate agents only**. There is a public section of the MLS that allows your property to be marketed, but the public can’t see all of the information about your property that an agent can.
+It’s important to note that t**he MLS is not open to the public—it’s a private service for real estate agents only**. There is a public section of the MLS that allows your property to be marketed, but the public can’t see all of the information about your property that an agent can.
 
 So, is the MLS important? Yes.
 
