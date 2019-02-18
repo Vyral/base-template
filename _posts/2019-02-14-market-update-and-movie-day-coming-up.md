@@ -22,13 +22,13 @@ We might be into February, but I’ve got some important year-end statistics to 
 
 The number of sales was down 20% from December 2017 to December 2018. There were also 3.4% fewer houses sold and new pending sales were down 5%. We’re coming on almost eight years of recovery now and people have been wondering when this is going to stop.
 
-**Inventory is up for a change.** It’s up 4% from where it was last year. For buyers, there are more options out there now. There are about 9,000 homes for sale on the Baltimore metro market right now and the prices of those homes are up 2.7% over last year. December 2018 was our highest-priced December in a decade. The average price is up to $255,000.
+**Inventory is up for a change.** It’s up 4% from where it was last year. For buyers, there are more options out there now. There are about 9,000 homes for sale in the Baltimore metro market right now and the prices of those homes are up 2.7% over last year. December 2018 was our highest-priced December in a decade. The average price is up to $255,000.
 
-What does all this mean? For one, we’re seeing a lot of buyer fatigue. There’s been frustration for so long with low inventory that a lot of them have left. However, there are still plenty of buyers out there looking at houses. The real segment where we’re seeing a big drop is in move-up buyers. Homeowners are staying in their homes for longer and longer which has limited inventory.
+What does all this mean? For one, we’re seeing a lot of buyer fatigue. There’s been frustration for so long with low inventory that a lot of them have left. However, there are still plenty of buyers out there looking at houses. The real segment where we’re seeing a big drop is with move-up buyers. Homeowners are staying in their homes for longer and longer which limits inventory.
 
 {% include pullquote.html %}
 
-I’ll leave you with this note. **If you’re wondering about when home prices are finally going to go up, look no further than the future of the market.** The next wave of homebuyers are millennials and things will be competitive once they start buying in droves. If you’ve been thinking about selling, start getting ready now.
+I’ll leave you with this note:&nbsp;**If you’re wondering about when home prices are finally going to go up, look no further than the future of the market.** The next wave of homebuyers are millennials and things will be competitive once they start buying in droves. If you’ve been thinking about selling, start getting ready now.
 
 Finally, **keep an eye out for our upcoming invitation for movie day.** It’s going to be on Feb 23 at 2 p.m. in Arundel Mills.
 
