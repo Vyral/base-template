@@ -275,3 +275,8 @@ permalink: /agent-success/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JPxF9odyU-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <font size="+7">Agent Success Secrets: Wendy Papasan</font>
+
+&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTOWX5XBmIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<font size="+7">Top 1% Chicago Real Estate Team: Tommy Choi</font>
