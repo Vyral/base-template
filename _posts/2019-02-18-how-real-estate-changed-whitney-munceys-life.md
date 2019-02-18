@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Real Estate Changed Whitney Muncey’s Life
-date: 2019-02-18 16:00:34
+date: 2019-02-18 16:00:00
 tags:
   - Real Estate
 excerpt: Joining JCRE changed Whitney Muncey’s life. Here’s how.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/cook-youtube-8.jpg
 youtube_code: u21Zb8yU55s
 ---
 
