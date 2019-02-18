@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Crafting a Unique Value Proposition
-date: 2019-02-14 16:44:43
+date: 2019-02-14 16:44:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: B0lUE_n5Q80
+youtube_code: riVCWH3Gb-I
 ---
 
 {% include youtube.html %}
