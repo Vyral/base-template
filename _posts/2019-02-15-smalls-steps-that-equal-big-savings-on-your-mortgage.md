@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Smalls Steps That Equal Big Savings on Your Mortgage
-date: 2019-02-15 17:37:33
+date: 2019-02-15 17:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/save-on-mortgage-youtube.jpg
-youtube_code: xLzU-J_vJj4
+youtube_code: g3NZDrtThp8
 ---
 
 {% include youtube.html %}
