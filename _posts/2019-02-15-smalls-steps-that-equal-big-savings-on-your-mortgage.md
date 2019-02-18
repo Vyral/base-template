@@ -23,7 +23,7 @@ youtube_code: g3NZDrtThp8
 
 One of the most common home loans that people get is the 30-year mortgage. It’s hard to look at the final amount you’ll pay in interest when you’re at closing, so today I wanted to discuss a couple ways that you could help make that number a lot smaller.
 
-If the average price for a 30-year fixed mortgage was $250,000 with a 5% interest rate, **that means you’re spending $233,000 in interest over that 30-year span!**
+If the average price for a 30-year fixed mortgage was $250,000 with a 5% interest rate, **that means you’re spending $233,000 in interest over that 30-year span!&nbsp;**
 
 {% include pullquote.html %}
 
