@@ -23,7 +23,9 @@ youtube_code: Y1y0Gpmu6Z0
 
 {% include youtube.html %}
 
-<center>A shift is happening, but there’s still time to get your home sold for top dollar. Here’s how.</center>
+<center><em>A shift is happening, but there&rsquo;s still time to get your home sold for top dollar. Here&rsquo;s how.</em></center>
+
+&nbsp;
 
 The latest numbers are pointing to an upcoming shift in our real estate market. Here’s where the market is currently:
 
