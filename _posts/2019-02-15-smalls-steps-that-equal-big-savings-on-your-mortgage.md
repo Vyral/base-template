@@ -23,7 +23,7 @@ youtube_code: xLzU-J_vJj4
 
 One of the most common home loans that people get is the 30-year mortgage. It’s hard to look at the final amount you’ll pay in interest when you’re at closing, so today I wanted to discuss a couple ways that you could help make that number a lot smaller.
 
-If the average price for a 30-year fixed mortgage was $250,000 with a 5% interest rate, **that means you’re spending $2,033 in interest over that 30-year span!**
+If the average price for a 30-year fixed mortgage was $250,000 with a 5% interest rate, **that means you’re spending $233,000 in interest over that 30-year span!**
 
 {% include pullquote.html %}
 
@@ -31,6 +31,6 @@ If the average price for a 30-year fixed mortgage was $250,000 with a 5% interes
 
 Some people set up these payments on a biweekly basis, and others make a lump-sum payment with their annual bonuses.
 
-Many think that in order to save on your mortgage this way, your contributions have to be huge, but if you just intentionally make little steps along the way from the beginning of the loan, you’ll cut that interest rate almost in half.
+Many think that in order to save on your mortgage this way, your contributions have to be huge. However, if you just intentionally make little steps along the way from the beginning of the loan, you’ll cut that interest rate almost in half.
 
 If you have any questions or if you’d like for us to help you figure out how you can save on your mortgage, feel free to reach out to us. We’d be glad to help.
