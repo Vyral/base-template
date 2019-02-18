@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-upcoming-spring-market-youtube.jpg
-youtube_code: 'https://youtu.be/KAZcuGNziBM'
+youtube_code: 'https://youtu.be/AXCCT6IMKhQ'
 ---
 
 {% include youtube.html %}
@@ -27,10 +27,10 @@ While it’s true that the weather is better come springtime, buyers are out sho
 
 {% include pullquote.html %}
 
-Another thing you can consider doing is **virtual staging**. I don’t always do this with my sellers because I find it to be a little deceptive, but it does help attract buyers. For example, one of my sellers has a house with carpeted floors, but underneath the carpet is hardwood, so that’s what we showed in the home’s pictures.&nbsp;
+Another thing you can consider doing is **virtual staging**. I don’t always do this with my sellers because I find it to be a little deceptive, but it does help attract buyers. For example, one of my sellers has a house with carpeted floors, but underneath the carpet is hardwood, so that’s what we showed in the home’s pictures. 
 
-As with every other time of year, **you also need to make sure you price your home correctly**. If your home is still unsold when June or July rolls around because it’s priced too high, you might end up in a race to the bottom with other panicked home sellers who have to slash their prices and ride the market down. The trick is to get under the market—not ride it down.&nbsp;
+As with every other time of year, **you also need to make sure you price your home correctly**. If your home is still unsold when June or July rolls around because it’s priced too high, you might end up in a race to the bottom with other panicked home sellers who have to slash their prices and ride the market down. The trick is to get under the market—not ride it down. 
 
-Overall, I predict that we’ll see the same type of spring market this year that we saw last year. In the meantime, we’re off to a pretty good start and we’ll see how the rest of February goes.&nbsp;
+Overall, I predict that we’ll see the same type of spring market this year that we saw last year. In the meantime, we’re off to a pretty good start and we’ll see how the rest of February goes. 
 
-If you have any more questions about our upcoming spring market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.<br>&nbsp;
+If you have any more questions about our upcoming spring market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.<br>
