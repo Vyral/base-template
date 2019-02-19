@@ -23,7 +23,7 @@ Here we are, already in the second month of 2019. What does the market look like
 
 The federal government has stopped the increase of interest rates for the near future, so consumers are feeling good at the moment. When I bought my first house over 30 years ago, I believe I paid over 10% interest; today, we’re still around 5%. That means it’s still a great time to buy a house.
 
-**The Phoenix Economy is absolutely on fire.** If you drive around the city, you’ll see tower cranes where they’re building high-rise buildings, and you’ll also notice that new apartments and homes are being built all over the Valley.
+**The Phoenix economy is absolutely on fire.** If you drive around the city, you’ll see tower cranes where they’re building high-rise buildings, and you’ll also notice that new apartments and homes are being built all over the Valley.
 
 {% include pullquote.html %}
 
