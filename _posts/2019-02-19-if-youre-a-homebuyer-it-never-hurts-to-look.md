@@ -36,3 +36,7 @@ We’ve been living there ever since.
 So again, **if you’re shopping for homes, don’t make a decision on one until after you’ve seen it in person.**
 
 If you have any other questions about buying a home or you have any other real estate needs I can take care of for you, don’t hesitate to reach out to me. I’d love to speak with you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
