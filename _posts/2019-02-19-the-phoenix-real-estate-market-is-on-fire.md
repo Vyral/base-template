@@ -17,7 +17,7 @@ youtube_code: IllLnvadPQw
 
 {% include youtube.html %}
 
-Here’s your update on the real estate market in the Phoenix area.
+<p style="text-align: center;"><em>Here’s your update on the real estate market in the Phoenix area.</em></p>
 
 Here we are, already in the second month of 2019. What does the market look like in the Phoenix area?
 
