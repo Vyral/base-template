@@ -19,7 +19,7 @@ youtube_code: hz-4j68HUqY
 
 {% include youtube.html %}
 
-What do the numbers say about our market? Let’s find out.
+<p style="text-align: center;"><em>What do the numbers say about our market? Let’s find out.</em></p>
 
 The latest numbers are in, so today we’ll be taking a look at how our real estate market has fared in 2019 so far.
 
