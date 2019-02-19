@@ -26,6 +26,6 @@ Right now is an interesting time for both buyers and sellers alike. Despite an i
 
 {% include pullquote.html %}
 
-**At the Stacy Esser Group, we just had multiple examples of homes sitting on the market until the slightest price drop.** Buyers are sensitive in this market, and even the smallest price drop will put your home within the threshold of value. If you’re looking to sell, you have to be careful about leaving room for negotiation. You cannot negotiate a bid until you get one, so you have to understand the actions buyers in this market, and price appropriately.
+**At the Stacy Esser Group, we just had multiple examples of homes sitting on the market until the slightest price drop.** Buyers are sensitive in this market, and even the smallest price drop will put your home within the threshold of value. If you’re looking to sell, you have to be careful about leaving room for negotiation. You cannot negotiate a bid until you get one, so you have to understand the actions of buyers in this market, and price appropriately.
 
 If you are a seller and have thought about selling in the next 6 to 8 months, now is the time to speak to us and let us help you navigate the market and sell your home. If you are a buyer, contact us to work with our buyer specialists to get the best deal possible on your new home.
