@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Sell Before You Buy or Buy Before You Sell?
-date:
+date: 2019-02-19 21:37:36
 tags:
   - Home Buyer Tips
 excerpt: >-
