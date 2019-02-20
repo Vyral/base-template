@@ -11,8 +11,8 @@ pullquote: >-
   negotiation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/stacy-new-jersey-market-2.png
 youtube_code: fcq98fRdKUk
 ---
 
