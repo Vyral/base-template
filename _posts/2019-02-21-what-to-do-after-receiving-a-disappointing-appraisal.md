@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do After Receiving a Disappointing Appraisal
-date:
+date: 2019-02-21 16:14:26
 tags:
   - Real Estate
 excerpt: >-
