@@ -20,7 +20,7 @@ youtube_code: iJBZKcVP-Tk
 
 {% include youtube.html %}
 
-*Your market report for February 2019 is hot off the press; find out how our market is doing right here.*
+<p style="text-align: center;"><em>Your market report for February 2019 is hot off the press; find out how our market is doing right here.</em></p>
 
 First, let’s discuss the housing supply. In the last 12 months, six months of those 12 were up year after year, and one month broke even at 0%. **That’s a good sign, since lots of inventory will bring competition to the market.** Now is a good time to get your for-sale home exposed to the 2019 buyers who are out there looking for homes right now.
 
