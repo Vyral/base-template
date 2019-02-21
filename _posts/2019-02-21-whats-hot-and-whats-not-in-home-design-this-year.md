@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Hot (and What’s Not) In Home Design This Year?
-date:
+date: 2019-02-21 21:54:38
 tags:
 excerpt: >-
   What real estate design trends are on their way in, and which ones are on
