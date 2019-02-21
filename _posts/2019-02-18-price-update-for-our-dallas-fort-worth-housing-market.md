@@ -7,8 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  A shift is happening, but there’s still time to get your home sold for top
-  dollar. Here’s how.
+  A market shift is happening, but there’s still time to get your home sold for
+  top dollar. Here’s how.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/John+Teixeira/Videos/Mansfield+Real+Estate+Agent+-+Price+Update+for+Our+Dallas-Fort+Worth+Housing+Market.mp4
 pullquote: >-
@@ -23,13 +23,13 @@ youtube_code: Y1y0Gpmu6Z0
 
 {% include youtube.html %}
 
-<center><em>A shift is happening, but there&rsquo;s still time to get your home sold for top dollar. Here&rsquo;s how.</em></center>
+<center><em>A market shift is happening, but there&rsquo;s still time to get your home sold for top dollar. Here&rsquo;s how.</em></center>
 
 &nbsp;
 
 The latest numbers are pointing to an upcoming shift in our real estate market. Here’s where the market is currently:
 
-**1. Prices are at all-time highs**. For the past several years, home prices grew at twice the rate of inflation and faster than incomes. Not surprisingly, we are now at record price levels. However, price growth has definitely been slowing over the past several months. We're even seeing some softness in the market with an increasing number of price cuts.
+**1. Prices are at all-time highs**. For the past several years, home prices grew at twice the rate of inflation, and faster than incomes. Not surprisingly, we are now at record price levels. However, price growth has definitely been slowing over the past several months. We're even seeing some softness in the market with an increasing number of price cuts.
 
 **2. Mortgage rates are rising**. The current 30-year fixed mortgage rate stands at 4.63%. That's almost a 1% increase over a year ago and the highest level we've seen since 2011.
 
