@@ -36,7 +36,7 @@ Currently, we have a tale of two markets. Our supply of inventory for all home t
 
 {% include pullquote.html %}
 
-What about the year-over-year number from 2018 as a whole?
+What about the year-over-year numbers from 2018 as a whole?
 
 The number of total home sales stayed relatively flat compared to 2017. The average home price increased 9% to nearly $340,000, while the median price rose 10% to $300,000. The average market price decreased 5%. Like our fourth quarter snapshot, home prices continued to rise while affordability decreased. That being said, the supply of inventory increased from 3.19 months to 4.06 months.
 
