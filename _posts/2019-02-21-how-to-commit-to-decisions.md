@@ -19,7 +19,7 @@ youtube_code: MRlk4KUO03A
 
 {% include youtube.html %}
 
-<p style-"text-align: center;"><em>What decisions are troubling you? Here’s how to help yourself commit to your choices.</em></p>
+<p style="text-align: center;"><em>What decisions are troubling you? Here’s how to help yourself commit to your choices.</em></p>
 
 In recent weeks, I’ve seen many clients suffer from analysis paralysis—they’re simply having a difficult time making decisions. My team and I have to make hundreds of decisions each week—each day, even. We’ve learned it’s important to make a commitment.
 
