@@ -22,7 +22,9 @@ youtube_code: InLGgAi1_bg
 
 {% include youtube.html %}
 
-<center>First-time homebuyers in our area have a number of assistance programs available to them, and I’d like to highlight just a few in today’s message.</center>
+<center><em>First-time homebuyers in our area have a number of assistance programs available to them, and I&rsquo;d like to highlight just a few in today&rsquo;s message.</em></center>
+
+&nbsp;
 
 As you may or may not know, home prices have dropped recently here in Hudson County as a result of the increased inventory that followed last year’s rate hikes.
 
