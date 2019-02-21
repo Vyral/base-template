@@ -35,6 +35,6 @@ Once you commit to a decision, the anxiety and pressure you feel will go away. A
 
 Many sellers are already in position to take advantage of the spring selling frenzy. If you aren’t prepared yet, now’s the time to do so. And if you’re a buyer, you want to have everything in place so you can jump into the hot market and find the perfect purchase.&nbsp;
 
-And since there will be an influx of buyers coming into our market in the near future, I’d like to share a big opportunity with you: **we’re hiring!** If you love real estate and love people, let’s talk about what a career with us could provide you.&nbsp;
+And since there will be an influx of buyers coming into our market in the near future, I’d like to share a big opportunity with you: **We’re hiring!** If you love real estate and love people, let’s talk about what a career with us could provide you.&nbsp;
 
 If you’re looking to buy or sell, have any questions, need more information, or would like to chat about joining my team, feel free to reach out to me. I look forward to hearing from you soon.
