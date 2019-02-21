@@ -2,13 +2,10 @@
 layout: post
 title: Updates and Projections for the 2019 Real Estate Market
 date:
-tags:
-excerpt:
-Your market report for February 2019 is hot off the press; find out how our market is doing right here.
-enclosure:
-https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update.mp4
-pullquote:
-Now is a good time to get your for-sale home exposed to the 2019 buyers who are out there looking for homes right now.
+tags: Market Update
+excerpt: Your market report for February 2019 is hot off the press; find out how our market is doing right here.
+enclosure: https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update.mp4
+pullquote: Now is a good time to get your for-sale home exposed to the 2019 buyers who are out there looking for homes right now.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
