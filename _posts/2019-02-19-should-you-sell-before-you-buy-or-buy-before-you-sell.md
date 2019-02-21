@@ -26,7 +26,7 @@ A lot of people have been asking me recently whether it’s a good idea to sell 
 
 To give you a short answer, selling before you buy is probably your best option. However, to explain why this is the case, I’ll need to delve a little deeper. There are five indicators you should check for within your own circumstances to see if this arrangement is right for you: &nbsp;
 
-**1. You don’t want to carry two mortgages.** In a perfect world, the timelines of your two transactions would perfectly align. However, things don’t always work out this way. When you sell first before buying your next home, you can eliminate any chance that you may become responsible for handling two mortgages at once.<br>&nbsp;
+**1. You don’t want to carry two mortgages.** In a perfect world, the timelines of your two transactions would perfectly align. However, things don’t always work out this way. When you sell first before buying your next home, you can eliminate any chance that you may become responsible for handling two mortgages at once.
 
 **2. You can’t qualify for a second mortgage.** If you don’t think you meet the necessary criteria to qualify for a second mortgage, you may want to sell before you buy.
 
