@@ -54,14 +54,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'https://kevin.btgarizona.com/home_value'
+    CTA_url: 'https://kevin.btgarizonaproperties.com/home-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: >-
-      https://kevin.btgarizona.com/search#?q_limit=36&q_prioritize=agents.0.id=kb039|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
+    CTA_url2: 'https://kevin.btgarizonaproperties.com/'
 lender:
   show_section: true
   header_text: Trusted Partner
