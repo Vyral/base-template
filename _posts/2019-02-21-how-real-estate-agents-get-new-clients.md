@@ -19,7 +19,7 @@ youtube_code: VzjrSZiIT6s
 
 {% include youtube.html %}
 
-When working in real estate, you need a way to find clients. Here’s how to do it.
+<p style="text-align: center;"><em>When working in real estate, you need a way to find clients. Here’s how to do it.</em></p>
 
 In continuing our series about the career of real estate, today we’d like to share how agents find new clients.
 
