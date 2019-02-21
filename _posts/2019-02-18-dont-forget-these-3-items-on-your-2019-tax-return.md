@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget These 3 Items on Your 2019 Tax Return
-date: 2019-02-18 19:22:08
+date: 2019-02-18 19:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-ss-taxes-email.jpg
-youtube_code: qW-ko13mbRw
+youtube_code: PJzoF3dMmoM
 ---
 
 {% include youtube.html %}
