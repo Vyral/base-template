@@ -3,7 +3,8 @@ layout: post
 title: How Real Estate Agents Get New Clients
 date:
 tags:
-excerpt:
+excerpt: When working in real estate, you need a way to find clients. Here’s how to do it.
+
 enclosure:
 pullquote:
 enclosure_type: video/mp4
