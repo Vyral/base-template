@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today we’ll be covering even more important points to think about if you’re
   considering a property tax appeal.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Dont+Forget+Your+Finances+When+Planning+for+the+Future.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
