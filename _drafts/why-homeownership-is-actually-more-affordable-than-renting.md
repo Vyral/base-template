@@ -20,7 +20,7 @@ youtube_code: aRRDnhND2hw
 
 {% include youtube.html %}
 
-Should you buy a home or rent one? Allow us to share some insight into this common question today.
+<center>Should you buy a home or rent one? Allow us to share some insight into this common question today.</center>
 
 Recently, I ran across a study that reported nearly half of America’s renters spend 30% of their monthly income on rent.
 
