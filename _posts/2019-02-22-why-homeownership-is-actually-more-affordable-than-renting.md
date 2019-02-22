@@ -24,7 +24,7 @@ youtube_code: aRRDnhND2hw
 
 &nbsp;
 
-Recently, I ran across a study that reported nearly half of America’s renters spend 30% of their monthly income on rent.
+Recently, we ran across a study that reported nearly half of America’s renters spend 30% of their monthly income on rent.
 
 This figure alone is quite high, but you can only imagine how this is exacerbated in our area given the lack of affordable housing. To rent a 3-bedroom home in our area, you’re looking at spending upwards of $1,500 a month or more.
 
