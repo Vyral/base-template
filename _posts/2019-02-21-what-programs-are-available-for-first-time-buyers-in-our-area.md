@@ -17,14 +17,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-21---steven-rosado---yt.jpg
-youtube_code: InLGgAi1_bg
+youtube_code: pvKTWYrRLxM
 ---
 
 {% include youtube.html %}
 
 <center><em>First-time homebuyers in our area have a number of assistance programs available to them, and I&rsquo;d like to highlight just a few in today&rsquo;s message.</em></center>
 
-&nbsp;
+ 
 
 As you may or may not know, home prices have dropped recently here in Hudson County as a result of the increased inventory that followed last year’s rate hikes.
 
