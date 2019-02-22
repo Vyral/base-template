@@ -20,11 +20,11 @@ youtube_code: ZtvXAV-FGCo
 
 {% include youtube.html %}
 
-With one month down and many more to go in 2019, I’m going to look into my crystal ball and let you know what I think the future of our real estate market holds.
+With almost 2 months down and many more to go in 2019, I’m going to look into my crystal ball and let you know what I think the future of our real estate market holds.
 
 So far, 2019 is showing promise: The tumultuous period we experienced with the stock market has passed and, barring another government shutdown, **we should have continued stability in the market as the year progresses.**
 
-And thanks to the Fed’s announcement that it’ll suspend any rate hikes for the immediate future, we can expect stability with interest rates as well. This bodes well for the real estate market, on the whole.
+And thanks to the Fed’s announcement that it’ll suspend any rate hikes for the immediate future, we can expect stability with interest rates as well. This bodes well for the real estate market as a whole.
 
 **Locally, we are seeing inventory levels jump up again,** which is a welcome change for buyers who may have been on the market but, after a while, left in defeat because they didn’t want to deal with the stress of multiple-offer scenarios. Now, sellers are taking a closer look at reasonable offers and allowing for room to negotiate. &nbsp;
 
