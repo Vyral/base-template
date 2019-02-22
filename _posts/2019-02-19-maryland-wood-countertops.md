@@ -18,7 +18,7 @@ youtube_code: pTjFvYWqNWo
 {% include youtube.html %}
 {: .present-before-paste}
 
-I’m here today with **Paul Timmons**, who owns the companies **Maryland Wood Countertops** and **OE Custom**. We’ve known each other for about 15 years through the real estate business—he was actually one of my go-to contractors. Today he’ll be giving us a look at his journey from craftsman to successful business owner.
+I’m here today with **Paul Timmins**, who owns the companies **Maryland Wood Countertops** and **OE Custom**. We’ve known each other for about 15 years through the real estate business—he was actually one of my go-to contractors. Today he’ll be giving us a look at his journey from craftsman to successful business owner.
 {: .present-before-paste}
 
 Paul started out building custom homes and remodeling for custom projects, but he realized most clients enjoyed the custom projects more than the full packages. That's when he decided to scale back his business so it was just a solid-wood shop, where they focus on countertops, tables, and other solid-wood products.
