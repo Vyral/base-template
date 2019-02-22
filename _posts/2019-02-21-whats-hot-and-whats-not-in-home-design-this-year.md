@@ -24,11 +24,11 @@ One thing we’re noticing in the world of real estate design trends is that the
 
 Even though modern styles are resurging in popularity, that doesn’t mean that rustic designs will disappear altogether. Instead, the two styles will meld together. Rustic chic will incorporate more modern colors, as well as asymmetry.
 
-We’re also noting a focus on effortlessness with regards to technology these days. Products like Google Home, Amazon’s Alexa, and Apple’s HomePod will undoubtedly impact home design. **The way that we’re experiencing our homes is different in today’s world, and it’s helping us modernize and automate our lives just with the sound of our voice.**
+We’re also noting a focus on effortlessness in regards to technology these days. Products like Google Home, Amazon’s Alexa, and Apple’s HomePod will undoubtedly impact home design. **The way that we’re experiencing our homes is different in today’s world, and it’s helping us modernize and automate our lives just with the sound of our voice.**
 
 It’s expected that we’ll see a continuation of the industrial focus in home design, with matte black and bronze really complementing the industrial look. Colors like grays and moody blues will continue to demand top dollar in the market when you’re selling your home or setting it up as a vacation rental.
 
-HGTV’s popular show “Fixer Upper” really ushered in the farmhouse chic look. However, one thing we’ve seen is that the farmhouse door made with reclaimed would (popularized by the show) is giving way to the same farmhouse barn door, though refined with a modern appeal—you can expect wood that’s been more squared out, as well as more glass and metal accents.
+HGTV’s popular show “Fixer Upper” really ushered in the farmhouse chic look. However, one thing we’ve seen is that the farmhouse door made with reclaimed wood (popularized by the show) is giving way to the same farmhouse barn door, though refined with a modern appeal—you can expect wood that’s been more squared out, as well as more glass and metal accents.
 
 {% include pullquote.html %}
 
