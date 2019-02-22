@@ -31,14 +31,14 @@
 					{% endif %}
 					<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br />
 				</p>
-				</center>
 			</div>
 		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
 			{{site.data.settings.client.about_markdown | markdownify }}
 		</div>
-		<div class="col-lg-3">
+		<div class="col-lg-3 hidden-sm hidden-xs">
 			{% include lender.html %}
 		</div>
+	</center>
 	</div>
 </div>
 </div>
