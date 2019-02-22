@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I’m here today at Elite Cabinets with Brandon Masse not as an agent, but as a
   customer, to show you their awesome products.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Spotlight+on+Elite+Cabinets.mp4
 pullquote: >-
   Think about the layout of the cabinets and how that will interact with the way
   you use your kitchen in terms of storage and access.
@@ -33,4 +34,4 @@ If you’re planning to remodel your kitchen, Brandon has some advice to offer: 
 
 To make an appointment with Brandon and to learn more about his excellent products, he can be reached at (918) 794-0757 or you can visit his website at **<u><a target="_blank" href="https://elitecabinetstulsa.com/">www.EliteCabinetsTulsa.com</a></u>**.
 
-For any other questions regarding real estate, you are, as always, encouraged to reach out to me. I’d be happy to speak with you.<br>&nbsp;
+For any other questions regarding real estate, you are, as always, encouraged to reach out to me. I’d be happy to speak with you.<br>
