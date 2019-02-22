@@ -38,6 +38,6 @@ To give you a short answer, selling before you buy is probably your best option.
 
 **5. You’re just not ready to buy.** The decision to purchase a new home isn’t one to be taken lightly. You should think long and hard about where you want to live and what kind of home you want to live in before taking the plunge. Selling first will give you the chance to carefully review your options and proceed with care.
 
-With all of these reasons in mind, there’s still the matter of where you will live in the meantime if you choose to sell before you buy. Thankfully, there are a couple of options. You can either negotiate a rent-back period, in which the new buyer allows you to continue living in your previous home past closing for a set period of time, or you can temporarily rent an apartment.
+With all of these reasons in mind, there’s still the matter of where you'll live in the meantime if you choose to sell before you buy. Thankfully, there are a couple of options. You can either negotiate a rent-back period, in which the new buyer allows you to continue living in your previous home past closing for a set period of time, or you can temporarily rent an apartment.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
