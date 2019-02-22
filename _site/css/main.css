@@ -1180,45 +1180,41 @@ html[xmlns] .flexslider .slides {
   -moz-transform: translate3d(0, 0, 0);
   -ms-transform: translate3d(0, 0, 0); }
 
-.lender {
-  border: 1px solid #cfcfcf;
-  margin-bottom: 20px;
-  margin-top: 20px; }
-  .lender h5 {
+.lender h5 {
+  margin-left: 10px; }
+.lender hr {
+  margin-top: 0;
+  margin-bottom: 10px; }
+.lender .lender-headshot img {
+  width: 100%; }
+.lender .lender-logo img {
+  max-width: 200px; }
+.lender .lender-info {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .lender .lender-info img {
+    margin: 5px;
+    border-radius: 50%;
+    overflow: hidden;
+    max-width: 200px;
+    border: 3px solid #B40101; }
+  .lender .lender-info p {
+    margin-bottom: 0;
+    vertical-align: middle;
     margin-left: 10px; }
-  .lender hr {
-    margin-top: 0;
-    margin-bottom: 10px; }
-  .lender .lender-headshot img {
-    width: 100%; }
-  .lender .lender-logo img {
-    width: 100%; }
-  .lender .lender-info {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-        -ms-flex-direction: row;
-            flex-direction: row;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
-    -webkit-box-pack: center;
-        -ms-flex-pack: center;
-            justify-content: center;
-    -webkit-box-align: center;
-        -ms-flex-align: center;
-            align-items: center; }
-    .lender .lender-info img {
-      margin: 5px;
-      border-radius: 50%;
-      overflow: hidden;
-      max-width: 200px;
-      border: 3px solid #B40101; }
-    .lender .lender-info p {
-      margin-bottom: 0;
-      vertical-align: middle;
-      margin-left: 10px; }
 
 .photo-cta {
   width: 100%;
@@ -2501,18 +2497,14 @@ table tr, table td {
   max-width: 200px; }
 
 .about-container {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
+  display: inline-block;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex; }
+    display: block; }
 
 .about-text {
   display: -webkit-box;
