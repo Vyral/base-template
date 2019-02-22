@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Pre-Approvals, Pre-Qualifications, and Credit Approvals: Which One Is Best?'
-date: 2018-12-10 22:20:15
+date: 2018-12-10 22:20:00
 tags:
   - Real Estate
 excerpt: >-
   What’s the difference between a pre-qualification, a pre-approval, and a
   credit approval? Today we’ll find out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Stacy+Esser/Pre-Approvals%2C+Pre-Qualifications%2C+and+Credit+Approvals-+Which+One+Is+Best_.mp4
 pullquote: Having a credit approval is equal to having an all-cash offer.
 enclosure_type: video/mp4
 enclosure_time:
