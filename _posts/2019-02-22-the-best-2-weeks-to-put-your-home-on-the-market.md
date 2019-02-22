@@ -21,7 +21,7 @@ youtube_code: aSq11jwaVUU
 
 {% include youtube.html %}
 
-When is the ideal time to sell your home in 2019? Here in Charleston, it’s the first two weeks in April.
+<p style="text-align: center;"><em>When is the ideal time to sell your home in 2019? Here in Charleston, it’s the first two weeks in April.</em></p>
 
 According to Zillow, the best time to list your home nationally are the first two weeks in May. **However, in southern states, it showed that the first two weeks in April was the best time.**
 
