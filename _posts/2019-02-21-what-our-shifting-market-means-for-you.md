@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Our Shifting Market Means for You
-date: 2019-02-21 18:20:12
+date: 2019-02-21 18:20:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/housing-market-decrease-youtube.jpg
-youtube_code: UtvPrAp0Qu0
+youtube_code: zlpjOuz3BVQ
 ---
 
 {% include youtube.html %}
