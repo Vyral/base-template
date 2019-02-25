@@ -26,7 +26,7 @@ youtube_code: sG9_ycU-Fsg
 
 &nbsp;
 
-Should you wait for the spring to list your home or should you do it now? When is the best time to sell your home?
+Should you wait for the spring to list your home or should you do it now? When *is* the best time to sell your home?
 
 Everyone assumes that the answer is spring, but think about it—if everyone has that same notion, that means you’ll have to compete with a ton of other sellers if you choose to list during that time.
 
