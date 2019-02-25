@@ -23,7 +23,7 @@ youtube_code: J7-ty-PQOAE
 
 {% include youtube.html %}
 
-Today I’ll be doing a SWOT analysis of the Calgary real estate market—that is, identifying its strengths, weaknesses, opportunities, and threats, as well as what they’ll mean to you.
+<center>Today I’ll be doing a SWOT analysis of the Calgary real estate market—that is, identifying its strengths, weaknesses, opportunities, and threats, as well as what they’ll mean to you.</center>
 
 The Calgary Real Estate Board released their 2019 forecast a few weeks ago, and in the past, I haven’t been in full alignment with the numbers they’ve put out. Last year, they predicted 0% growth, whereas I saw house prices fall 2% and apartment prices fall 5%. This year, however, I think we’re more in line with the Board’s predictions.&nbsp;
 
