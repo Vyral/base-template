@@ -22,7 +22,7 @@ youtube_code: sG9_ycU-Fsg
 
 {% include youtube.html %}
 
-If you’re looking to sell your home quickly and for top dollar, you don’t have to wait until springtime.
+<center>If you’re looking to sell your home quickly and for top dollar, you don’t have to wait until springtime.</center>
 
 Should you wait for the spring to list your home or should you do it now? When is the best time to sell your home?
 
