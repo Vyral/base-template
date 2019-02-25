@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Homeownership is Actually More Affordable Than Renting
+title: Why Homeownership Is Actually More Affordable Than Renting
 date: 2019-02-22 00:00:00
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: aRRDnhND2hw
 
 <center><em>Should you buy a home or rent one? Allow us to share some insight into this common question today.</em></center>
 
-&nbsp;
+ 
 
 Recently, we ran across a study that reported nearly half of America’s renters spend 30% of their monthly income on rent.
 
