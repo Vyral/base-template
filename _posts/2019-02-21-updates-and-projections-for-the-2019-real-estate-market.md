@@ -10,7 +10,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update.mp4
 pullquote: >-
   Now is a good time to get your for-sale home exposed to the 2019 buyers who
-  are out there looking for homes right now.
+  are out there looking for homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,9 +22,9 @@ youtube_code: iJBZKcVP-Tk
 
 <p style="text-align: center;"><em>Your market report for February 2019 is hot off the press; find out how our market is doing right here.</em></p>
 
-First, let’s discuss the housing supply. In the last 12 months, six months of those 12 were up year after year, and one month broke even at 0%. **That’s a good sign, since lots of inventory will bring competition to the market.** Now is a good time to get your for-sale home exposed to the 2019 buyers who are out there looking for homes right now.
+First, let’s discuss the housing supply. In the last 12 months, six months of those 12 were up year over year, and one month broke even at 0%. **That’s a good sign, since lots of inventory will bring competition to the market.** Now is a good time to get your for-sale home exposed to the 2019 buyers who are out there looking for homes.
 
-Next, our mortgage rates: We are currently at the same level we were last April, which is great news, too. They had been going up fairly dramatically at the end of last year, and that’s slowed up a lot of the home buying process. The housing market is obviously very sensitive to mortgage rates; softer sales in December reflected consumers’ search processes and contract signing activity when previous month’s mortgage rates were higher than today. **Now that rates are lower, some revival in home sales is expected going into the spring, which is great news.**
+Next, our mortgage rates: We are currently at the same level we were last April, which is great news, too. They had been going up fairly dramatically at the end of last year, and that’s slowed up a lot of the home buying process. The housing market is obviously very sensitive to mortgage rates; softer sales in December reflected consumers’ search processes and contract signing activity when previous months' mortgage rates were higher than today. **Now that rates are lower, some revival in home sales is expected going into the spring, which is great news.**
 
 Total home sales are expected to slowly regain momentum, increasing to 6 million in 2019 and 6.25 million in 2020. In 2019, **we expect home sales growth to be mostly driven by existing home sales, while new home sales are expected to be almost flat.** Also, the best home price growth is likely in our rearview mirror, and that market is likely to skew towards transaction growth, and ultimately provide a more stable foundation for affordability in the housing market.
 
