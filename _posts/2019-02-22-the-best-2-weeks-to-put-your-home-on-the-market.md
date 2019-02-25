@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+What+Are+the+Best+2+Weeks+to+List_.mp4
 pullquote: >-
-  If you want to get your home sold quickly for top dollar, take a look at the
+  If you want to get your home sold quickly and for top dollar, take a look at the
   first two weeks in April.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +23,7 @@ youtube_code: aSq11jwaVUU
 
 <p style="text-align: center;"><em>When is the ideal time to sell your home in 2019? Here in Charleston, it’s the first two weeks in April.</em></p>
 
-According to Zillow, the best time to list your home nationally are the first two weeks in May. **However, in southern states, it showed that the first two weeks in April was the best time.**
+According to Zillow, the best time to list your home nationally is in the first two weeks in May. **However, in southern states, it showed that the first two weeks in April is the best time.**
 
 In our local market, it shows that we had about 894 homes for sale in April 2017. In April 2018, that number rose to 939. Those homes were selling in about 58 days on average from contract to close.
 
