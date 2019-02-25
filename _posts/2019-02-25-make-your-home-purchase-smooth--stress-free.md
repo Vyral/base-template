@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We know exactly how to take the stress out of a home purchase, and today we’ll
   tell you how so you can know what to expect from your agent.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Tina+Caul/Greater+Raleigh+Real+Estate-+Make+Your+Home+Purchase+Smooth+%26+Stress-Free.mp4
 pullquote: 'Sometimes, that inspection report can contain a long list of items to address.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: Z51IUV0hZx8
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 There are a lot of potentially stressful moments in a real estate transaction, and today I’m joined by Heather Blanchard, one of our team’s agents, to tell you how we make our buyers’ home purchases as stress-free as possible. This will give you an idea of what you should expect from your agent.
 
