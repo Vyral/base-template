@@ -19,8 +19,6 @@ youtube_code: Z51IUV0hZx8
 
 {% include youtube.html %}
 
- 
-
 There are a lot of potentially stressful moments in a real estate transaction, and today I’m joined by Heather Blanchard, one of our team’s agents, to tell you how we make our buyers’ home purchases as stress-free as possible. This will give you an idea of what you should expect from your agent.
 
 In Heather’s opinion, **one of the most stressful periods of a home purchase is going through the due diligence process**. That’s when you have to get your appraisal done and conduct your inspections on the home. Sometimes, that inspection report can contain a long list of items to address. Fortunately, a lot of those items are typically nothing to worry about.
