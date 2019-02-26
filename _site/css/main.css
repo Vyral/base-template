@@ -2235,15 +2235,12 @@ table tr, table td {
   .review-button-wrapper {
     text-align: center; } }
 .client-image-container {
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
+  width: 80%;
   border: 3px solid #0b2972;
-  margin: 10px auto 0 6rem;
   overflow: hidden; }
 
 .client-image {
-  max-width: 200px; }
+  width: 100%; }
 
 .about-container {
   display: -webkit-box;

@@ -1,6 +1,6 @@
 <div class="container-fluid footer">
 <div class="container footer">
-	    <div class="row footer-pad">
+	    <!-- <div class="row footer-pad">
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
@@ -72,7 +72,16 @@
 					<a href="mailto:{{client.email}}">{{client.email}}</a>
 					{%endfor%}
 				</div>
-	    </div>
+	    </div> -->
+
+			{{ site.data.settings.client.brand }}<br />
+			{% if site.data.settings.client.brokerage != null %}
+			{{ site.data.settings.client.brokerage }}<br />
+			{% endif %}
+			{{ site.data.settings.client.address }}<br />
+			{{ site.data.settings.client.office_phone }}<br />
+			<a href="mailto:{{ site.data.settings.client.office_email }}">{{ site.data.settings.client.office_email }}</a><br />	
+
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
 	        {% include socials.html %}
