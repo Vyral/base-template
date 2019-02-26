@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your San Diego Real Estate Market Update
-date:
+date: 2019-02-26 19:08:37
 tags:
   - Market Update
 excerpt: >-
