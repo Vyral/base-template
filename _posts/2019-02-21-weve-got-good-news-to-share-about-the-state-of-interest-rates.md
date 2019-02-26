@@ -22,9 +22,9 @@ youtube_code: 5yauTt5mBHw
 
 Now that interest rates have hit an eight-year high, many are wondering what this means for the market.
 
-One thing it’s important to realize is that the recent hikes were not only anticipated, they also came as a result of the improvements to our economy that have taken place since rates first dropped to the historic low rates we observed in the recent past.
+One thing it’s important to realize is that the recent hikes were not only anticipated, they also came as a result of the improvements to our economy that have taken place since rates first dropped to the historic lows we observed in the recent past.
 
-It’s also worth noting that, **d****espite this general upward trend, rates have decreased to a 12-month low within the past 45 days.** This means that right now, with rates at an average of 4.75% for a 30-year fixed mortgage, rates have once more reached an incredible point.
+It’s also worth noting that, **but&nbsp;****d****espite this general upward trend, rates have decreased to a 12-month low within the past 45 days.** This means that right now, with rates at an average of 4.75% for a 30-year fixed mortgage, rates have once more reached an incredible point.
 
 {% include pullquote.html %}
 
