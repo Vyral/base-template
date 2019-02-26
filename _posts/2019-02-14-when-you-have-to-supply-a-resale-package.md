@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Selling your home inside an HOA neighborhood means you're required to provide
   your buyer with a resale package before closing.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+The+Merits+of+Home+Inspections+When+Buying.mp4
 pullquote: >-
   If you’re selling your home inside an HOA neighborhood, you’re required by law
   to supply your buyer with a resale package.
@@ -17,8 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 14Ar1KGt58c
 ---
-
-&nbsp;
 
 {% include youtube.html %}
 
