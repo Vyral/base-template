@@ -19,8 +19,6 @@ youtube_code: bLJxzA-rWhM
 
 {% include youtube.html %}
 
-&nbsp;
-
 When we go to show a home, we’re often greeted by a cluttered and messy sight. Perhaps the sellers were a little too busy figuring out the logistics of a sale, but regardless, an unkempt home isn’t going to win over any buyers.
 
 {% include pullquote.html %}
