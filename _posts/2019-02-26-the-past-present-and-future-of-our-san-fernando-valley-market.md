@@ -19,7 +19,7 @@ youtube_code: GbiGyQj6Pzc
 
 {% include youtube.html %}
 
-Our market has already undergone some interesting changes this year, and today we’ll review what these developments mean for San Fernando buyers and sellers.
+<p style="text-align: center;"><em>Our market has already undergone some interesting changes this year, and today we’ll review what these developments mean for San Fernando buyers and sellers.</em></p>
 
 In January of 2019, our entire San Fernando Valley saw only 760 closings. This is down by approximately 150 closings year over year. So **what’s the reason behind this change, and what does it mean for our market?**
 
