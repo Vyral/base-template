@@ -3,12 +3,7 @@
 	    <div class="row footer-pad">
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
-	        <div class="col-sm-6">
-						{%for client in site.data.settings.client.clients %}
-						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
-						{% endfor%}
 
-	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
