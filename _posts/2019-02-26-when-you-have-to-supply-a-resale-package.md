@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When You Have to Supply a Resale Package
-date: 2019-02-14 22:53:00
+date: 2019-02-26 12:00:00
 tags:
   - Real Estate
 excerpt: >-
