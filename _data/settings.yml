@@ -22,7 +22,7 @@ client:
     providing my clients with all relevant information, and creating customized
     plans of action to reach their specific goals.
   market: Hudson County
-  brand: eXp Realty
+  brand: eXp Realty | The DeVoe Group
   brokerage:
   address: '100 Washington St.<br>Hoboken, NJ 07030'
   phone: (551) 200-1000
@@ -30,7 +30,7 @@ client:
   phone2:
   phone2_type:
   email: RosadoRealtor@gmail.com
-  url: 'http://www.stevenrosado.kw.com'
+  url: 'https://stevenrosado.exprealty.com/'
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808215';</script><script
