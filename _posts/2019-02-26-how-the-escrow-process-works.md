@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Escrow Process Works
-date:
+date: 2019-02-26 18:26:33
 tags:
   - Real Estate
 excerpt: >-
