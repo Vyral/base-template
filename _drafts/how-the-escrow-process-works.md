@@ -3,15 +3,20 @@ layout: post
 title: How the Escrow Process Works
 date:
 tags:
-excerpt:
-enclosure:
+  - Real Estate
+excerpt: >-
+  Heather Tyler joined me recently to discuss how the escrow process works. Keep
+  reading to hear her insight.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Brad+Korb/LA+Real+Estate+Agent-+How+the+Escrow+Process+Works.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/2-26-escrow-np.jpg
+youtube_code: zjTKP-kSOW4
 ---
+
 {% include youtube.html %}
 
-{% include pullquote.html %}
+Heather Tyler has been with me for over 17 years, helping my clients with their home purchases from beginning to end, and she’s here today to talk all about escrow. Escrow is a neutral third party that facilitates the transfer of property from a seller to a buyer. The process starts with an accepted contract and an initial deposit from the buyer and ends with a grant deed and dispersing of funds. Heather is there to cover everything from start to finish. This handy document covers pretty much everything you need to know about escrow.
