@@ -29,7 +29,7 @@ youtube_code: J7-ty-PQOAE
 
 The Calgary Real Estate Board released their 2019 forecast a few weeks ago, and in the past, I haven’t been in full alignment with the numbers they’ve put out. Last year, they predicted 0% growth, whereas I saw house prices fall 2% and apartment prices fall 5%. This year, however, I think we’re more in line with the Board’s predictions.
 
-**Let’s first take a look at what happened in 2018.**
+**Let’s first take a look at what happened in 2018:**
 
 * **Detached home** sales dropped 15.95% and prices dropped 1.45%.
 * **Apartment** sales dropped 7.24% and prices fell 2.70%.
@@ -52,7 +52,7 @@ Why is this happening? Well, in addition to oil prices and the uncertainty of th
 
 On the other hand, **the increasing population and net migration to Calgary are working in our favor**. Many immigrants who come begin by renting for a couple years before buying homes, which contributes to the decreasing vacancy rates over the past year. This creates opportunity for investors: If you can buy for less and your vacancy rates are decreasing, your rates will begin to increase.
 
-There are other opportunities to be had, as well, if you’re looking at moving up or down. Right now, properties—especially detached homes between $350,000 and $450,000—are really hot. We’re even generating multiple offers in some cases; though it may take two or three sometimes, we’re still getting the job done. **If you’re someone who owns a home in that hot zone and want to move up to a higher-priced home, then that market is softer and you can get a better deal**.
+There are other opportunities to be had, as well, if you’re looking at moving up or down. Right now, properties—especially detached homes between $350,000 and $450,000—are really hot. We’re even generating multiple offers in some cases; though it may take two or three sometimes, we’re still getting the job done. **If you’re someone who owns a home in that hot zone and wants to move up to a higher-priced home, then that market is softer and you can get a better deal**.
 
 If you’re looking at moving down, the condominium market is softer, and **there are better deals there than ever**. The gap that you’re paying is actually smaller; if you remove your personal reservations about selling your house for less and look at your net numbers, you’ll see that there are some pretty significant savings and opportunities that we haven’t seen in Calgary for years.
 
