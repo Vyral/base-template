@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-19-wood-np.jpg
-youtube_code: pTjFvYWqNWo
+youtube_code: 6X7sF17_xXk
 ---
 
 {% include youtube.html %}
