@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 13 Tips That Will Help You Generate $138 Million in Sales Volume Per Year
+title: Transform Your Mindset to Transform Your Success
 tags:
   - Listing Presentation
   - Reviews and Referrals
