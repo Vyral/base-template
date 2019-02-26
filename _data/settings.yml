@@ -29,7 +29,7 @@ client:
   phone2:
   phone2_type:
   email: john@trgdfw.com
-  url: 'http://johnteixeira.com/'
+  url:
 ctas:
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'http://www.trgdfw.com/evaluation'
