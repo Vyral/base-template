@@ -20,11 +20,9 @@ youtube_code: yKrOJuztGUY
 
 {% include youtube.html %}
 
-&nbsp;
+Just because you have your house on the market, **that doesn’t mean you need to open your home to anyone and everyone who asks to come inside.&nbsp;**Don’t let the home selling process come in the way of your common sense.
 
-Just because you have your house on the market, ****that doesn’t mean you need to open your home to anyone and everyone who asks to come inside. ****Don’t let the home selling process come in the way of your common sense.
-
-**Home security is of the utmost importance as you prepare to sell. While your property is on the market, there are certain additional steps you’ll need to follow to keep yourself, your family, and your home safe. **
+Home security is of the utmost importance as you prepare to sell. While your property is on the market, there are certain additional steps you’ll need to follow to keep yourself, your family, and your home safe.
 
 {% include pullquote.html %}
 
