@@ -12,6 +12,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
+
+Do you want to get started as a real estate investor? If so, don’t be fooled by these three common myths.
 
 {% include pullquote.html %}
