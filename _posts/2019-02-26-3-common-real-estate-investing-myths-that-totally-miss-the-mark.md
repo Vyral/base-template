@@ -18,7 +18,9 @@ youtube_code: 0b4SOZXAT9U
 
 {% include youtube.html %}
 
-<center>Do you want to get started as a real estate investor? If so, don’t be fooled by these three common myths.</center>
+<center><em>Do you want to get started as a real estate investor? If so, don&rsquo;t be fooled by these three common myths.</em></center>
+
+&nbsp;
 
 If you want to build wealth through real estate investing, you’ll need to steer clear of these three real estate myths:&nbsp;
 
