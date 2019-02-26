@@ -33,3 +33,7 @@ That’s when I came back to my buyer and told them what happened. We came back 
 We finally got the contract accepted, moved right along with the inspection, and got our buyer in a great home that they love.
 
 If you need help in a situation like this or you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
