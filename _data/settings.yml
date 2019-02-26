@@ -21,25 +21,13 @@ client:
       phone: 801-403-8565
       email: scott@colemererealty.com
   about_markdown: >-
-    As a Third Generation, Family owned and operated Real Estate Company,
-    Colemere Realty Associates has a long history of working for our clients’
-    success. Each member of our team is focused on providing personal service
-    with integrity knowledge and WOW! We know that a real estate transaction can
-    be very challenging to successfully navigate that is why we are committed to
-    doing whatever it takes to make you 100% successful.
-
-
-    As your REALTOR&reg;, we see ourselves as the pilots of your plane. Our job
-    is to assist you with the purchase or sale of your home; getting you where
-    you want to be on time and with the fewest aggravations. We can’t promise
-    you no turbulence, or that other parties to the transaction won’t try and
-    pull a few stunts, but we can promise you that we’ll utilize our experience
-    and expertise to take you on the smoothest flight that we can. And if we do
-    hit turbulence, we won’t bail out on you. We’ll be your teammates throughout
-    the flight, until we get you safely to your destination.
+    As a third generation, <strong>family-owned</strong> and operated real estate company, <strong>Colemere Realty Associates</strong> has a long history of working for the success of our clients.  Each member of our team is focused on providing <strong>the expertise of 3 generations in the real estate business.</strong>  We know that a real estate transaction can be very challenging and that is why we are committed to doing whatever it takes to make you completely satisfied.  
+    
+    As your REALTOR®</strong> we are <strong>committed to your success</strong> in the purchase and sale of your home and we promise you the full support, experience and expertise of our team.
   market: Wasatch Front
-  brand: Colemere Realty Associates
+  brand: Colemere Realty Associates, LLC
   brokerage:
+  email: info@colemererealty.com
   address: '9661 S 700 E<br>Sandy, UT 84070'
   office_phone: 801-272-8192
   office_email: info@colemererealty.com
