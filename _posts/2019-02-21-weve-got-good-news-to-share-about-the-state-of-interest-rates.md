@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’ve Got Good News to Share About the State of Interest Rates
-date: 2019-02-21 17:55:15
+date: 2019-02-21 17:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: T2dsJb3G-RQ
+youtube_code: 5yauTt5mBHw
 ---
 
 {% include youtube.html %}
