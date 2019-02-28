@@ -22,7 +22,7 @@ youtube_code: gnEZbYy1OpI
 
 {% include youtube.html %}
 
-Our spring market has already arrived, despite the fact that winter isn’t yet behind us. If you’re curious what this means for you, check out today’s message.
+<p style="text-align: center;"><em>Our spring market has already arrived, despite the fact that winter isn’t yet behind us. If you’re curious what this means for you, check out today’s message.</em></p>
 
 Though spring is still yet to arrive, our spring market is already in full effect.&nbsp;
 
