@@ -21,8 +21,6 @@ youtube_code: tUnU8Q_iPOo
 
 {% include youtube.html %}
 
-&nbsp;
-
 For today’s market update, I’m excited to be able to show you all the sights of Barcelona.
 
 First, things are heating up back in our Louisville/Southern Indiana area. It was a slow December and January, but things have changed as we head into March. **On both a local and national level, the housing supply has been steadily increasing the last several months.** Mortgage rates, meanwhile, decreased as we began 2019. In January, the average 30-year fixed rate was 4.46%.
