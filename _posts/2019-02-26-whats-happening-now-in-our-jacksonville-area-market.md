@@ -32,7 +32,7 @@ Of course, this doesn’t mean you can’t still succeed with your selling goals
 
 We’re also happy to help those looking to buy. **Through our Buyer’s Advantage Program, which is free to all of our clients, we can easily help you succeed in today’s market.**
 
-It truly does take expert guidance to navigate successfully navigate your real estate goals, regardless of what they may be. Our team not only understands what it takes to buy and sell in general, but also how each of these things can be achieved in light of recent events (like the government shutdown and the rise of interest rates).
+It truly does take expert guidance to successfully navigate your real estate goals, regardless of what they may be. Our team not only understands what it takes to buy and sell in general, but also how each of these things can be achieved in light of recent events (like the government shutdown and the rise of interest rates).
 
 Overall, **our market has been fairly balanced.** It’s still possible to earn a great deal, and we look forward to helping you do so.
 
