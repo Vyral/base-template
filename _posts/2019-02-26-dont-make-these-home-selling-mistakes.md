@@ -21,7 +21,7 @@ In today’s short video, I’m going to share three common mistakes that I cont
 
 **1. Over-improvement.** Oftentimes, I’ll meet with a home seller who has made a lot of nice repairs, but they’re in an area where those improvements aren’t quite as important. This makes it very difficult for you to get the money you put into your home out of it when you sell it. If you’re a move-up buyer, tread lightly because over-improvement could really leave you strapped for cash.
 
-**2. Solar power.** Solar is a hot topic and it can be a wonderful improvement to your home. It lowers your carbon footprint, saves you money on your electric bills, etc. However, if your home has solar power and you're thinking about selling it, don’t do it. It comes down to economics and finances. If you invest in money for solar for your home, you're not going to get money out of it unless you're living there long-term, especially if you end up leasing your system. If you’re trying to get a buyer to pick up a long-term lease on a solar unit, you’ll find that your pool of interested buyers will decrease.
+**2. Solar power.** However, if you're thinking of adding solar power to your home in order to boost its value, don’t do that. The reason why boils down to economics. If you invest money into a solar system for your home, you’re not going to get any money out of it unless you live there long-term, especially if you end up leasing your system.
 
 {% include pullquote.html %}
 
