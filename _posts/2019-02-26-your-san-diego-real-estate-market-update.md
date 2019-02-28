@@ -21,7 +21,7 @@ youtube_code: 6Ty2kbMNqfk
 
 What’s the latest in our San Diego market? The most recent numbers tell us that we’re shifting from a seller’s market to a buyer’s market. **However, there’s a rising concern about home affordability.**
 
-The median price for homes is around $568,000, a 6% increase from 2017. The market is still moving, but certain price points are looking better than others.
+The median price for homes is around $568,000—a 6% increase from 2017. The market is still moving, but certain price points are looking better than others.
 
 {% include pullquote.html %}
 
