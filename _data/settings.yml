@@ -37,9 +37,9 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.rosadohomevalue.com/'
+  first_CTA_URL: 'https://stevenrosado.exprealty.com/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://stevenrosado.kw.com/listings-search/#/2014353947'
+  second_CTA_URL: 'https://stevenrosado.exprealty.com/sell.php'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -47,13 +47,13 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://rosadohomevaluation.com/'
+    CTA_url: 'https://stevenrosado.exprealty.com/sell.php'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://stevenrosado.kw.com/listings-search/#/398466887'
+    CTA_url2: 'https://stevenrosado.exprealty.com/'
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -119,7 +119,7 @@ images:
 site_colors:
   brand_color: '#000000'
   theme_color: '#414141'
-  accent_color: '#FE7C26'
+  accent_color: '#fe7c26'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
