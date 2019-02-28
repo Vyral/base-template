@@ -89,8 +89,8 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /uploads/casey-blog-logo-1.png
-  logo_width_number: 60
-  hero_text: Casey Cooke's<br>Real Estate Video Blog
+  logo_width_number: 80
+  hero_text:
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
 site_colors:
