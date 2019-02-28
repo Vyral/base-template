@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How the Escrow Process Works
+redirect_to:
+  - https://www.bradkorb.com
 date: 2019-02-26 18:26:33
 tags:
   - Real Estate

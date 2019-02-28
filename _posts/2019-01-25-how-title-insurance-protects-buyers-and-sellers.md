@@ -1,5 +1,7 @@
 ---
 layout: post
+redirect_to:
+  - https://www.bradkorb.com
 title: How Title Insurance Protects Buyers and Sellers
 date: 2019-01-25 19:34:17
 tags:
