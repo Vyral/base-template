@@ -8,8 +8,7 @@ tags:
 excerpt: >-
   First-time homebuyers in our area have a number of assistance programs
   available to them, and I’d like to highlight just a few in today’s message.
-enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Videos/Hoboken+Real+Estate+-+What+Programs+Are+Available+for+First-Time+Buyers+in+Our+Area_.mp4
+enclosure:
 pullquote: >-
   There may not be many new homebuyer programs available through the government,
   but there are still plenty of other opportunities out there.
@@ -17,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-21---steven-rosado---yt.jpg
-youtube_code: pvKTWYrRLxM
+youtube_code: jSSoIWa6bDQ
 ---
 
 {% include youtube.html %}
