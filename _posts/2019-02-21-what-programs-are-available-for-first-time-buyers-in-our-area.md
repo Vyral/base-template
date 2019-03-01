@@ -23,7 +23,7 @@ youtube_code: jSSoIWa6bDQ
 
 <center><em>First-time homebuyers in our area have a number of assistance programs available to them, and I&rsquo;d like to highlight just a few in today&rsquo;s message.</em></center>
 
- 
+&nbsp;
 
 As you may or may not know, home prices have dropped recently here in Hudson County as a result of the increased inventory that followed last year’s rate hikes.
 
@@ -43,7 +43,7 @@ You no longer need a top-tier credit score to qualify for this type of loan, eit
 
 Another great option is Wells Fargo’s 89.9% no-PMI jumbo financing on any single-family home, condo, or co-op priced at or above $484,351.
 
-There may not be many new homebuyer programs available through the government, but there are still plenty of other opportunities out there. **To see a full list of available programs in our area, click here**.
+There may not be many new homebuyer programs available through the government, but there are still plenty of other opportunities out there. **To see a full list of available programs in our area, [click here](https://www.state.nj.us/dca/hmfa/homeownership/buyers/first){: target="_blank"}**.
 
 In addition to looking over these options on your own, I also highly recommend you get in contact with [Justin Sokol](https://www.wfhm.com/loans/justin-sokol/mobile-index.page){: target="_blank"}, a great local lender with Wells Fargo. He will be happy to walk you through the financial aspects of buying a home.
 
