@@ -5,12 +5,10 @@ date: 2019-03-01 10:22:00
 tags:
   - Real Estate
 excerpt: >-
-  Low oil prices are affecting many people in our area, but there are ways to
-  make it through the hard times. If you or someone you know is facing
-  foreclosure, you don’t need to give in and let the banks take over. Instead,
-  you can borrow from your 401(k) or use your home’s equity to get you through
-  this tough spot. Otherwise, there are ways you can sell your home and still
-  receive top dollar. To learn more, watch this short video.
+  We’ve received multiple calls in the last few months from people who are
+  struggling to pay their mortgages. For some, the threat of foreclosure is
+  looming overhead. They simply have no idea who to turn to or what to do, so
+  they reach out to us.
 enclosure:
 pullquote: There are ways you can make it through the hard times.
 enclosure_type: video/mp4
