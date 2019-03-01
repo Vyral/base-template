@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Showing off an Available Lot North of Eagle
-date: 2019-02-28 16:47:31
+title: Showing Off an Available Lot North of Eagle
+date: 2019-02-28 16:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 3RHQmJIzkhc
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 I’m out here today looking at building lots in a pocket subdivision just north of Eagle. One of my favorite things to do is helping homebuyers find lots to build their custom dream home. **I have a few clients who are looking for acreage lots and I’m scouting out the area.**
 
