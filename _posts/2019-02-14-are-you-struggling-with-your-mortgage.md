@@ -20,8 +20,6 @@ youtube_alternate_image: /uploads/priyanka-johri--struggling-with-your-mortgage-
 youtube_code: 43RmKPH__PI
 ---
 
-&nbsp;
-
 {% include youtube.html %}
 
 We’ve received multiple calls in the last few months from people who are struggling to pay their mortgages. For some, the threat of foreclosure is looming overhead. **They simply have no idea who to turn to or what to do, so they reach out to us.**
