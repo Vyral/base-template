@@ -17,7 +17,7 @@ youtube_code: 3DDu17p1DNE
 
 {% include youtube.html %}
 
-Joining our team just might be the boost you need to keep afloat this year.
+<p style="text-align: center;"><em>Joining our team just might be the boost you need to keep afloat this year.</em></p>
 
 I’d first like to say that I hope you’re having a killer 2019 so far!&nbsp;
 
