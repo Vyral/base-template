@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   First-time homebuyers in our area have a number of assistance programs
   available to them, and I’d like to highlight just a few in today’s message.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Videos/Hoboken+Real+Estate+-+What+Programs+Are+Available+for+First-Time+Buyers+in+Our+Area_+(1).mp4
 pullquote: >-
   There may not be many new homebuyer programs available through the government,
   but there are still plenty of other opportunities out there.
@@ -23,7 +24,7 @@ youtube_code: jSSoIWa6bDQ
 
 <center><em>First-time homebuyers in our area have a number of assistance programs available to them, and I&rsquo;d like to highlight just a few in today&rsquo;s message.</em></center>
 
-&nbsp;
+ 
 
 As you may or may not know, home prices have dropped recently here in Hudson County as a result of the increased inventory that followed last year’s rate hikes.
 
