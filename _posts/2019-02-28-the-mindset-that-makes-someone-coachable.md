@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   To be coached, you need to be ready to accept and try new ideas and
   perspectives. Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Are+You+Being+Coachable_+(1).mp4
 pullquote: >-
   You must be open-minded and allow new ways of doing things to come into your
   world.
@@ -29,11 +30,11 @@ When you’re investing in yourself by hiring a business coach, you should be co
 
 **So when I asked my coach what it was that made someone coachable, he told me this:**
 
-* They always show up out of curiosity.&nbsp;
+* They always show up out of curiosity. 
 * They’re always looking to grow their business and themselves.
 * They’re willing to grow, learn, fail, and succeed at a high level.
 * They have an insane desire to be better.
 
 Sometimes, we go without defining what makes us who we are. I remember saying once, “I am open to receive.” This is the biggest point I’d like to make: You must be open-minded and allow new ways of doing things to come into your world. **Then, you must put these things into action and hold yourself accountable to accomplishing them.** This is the only way that a coach will truly be able to help you succeed.
 
-What do you believe makes you coachable? If you don’t think you’re capable of being coached for the time being, what do you need to do to change that? Whether you’re already taking advantage of a great coaching service or would like to in the future, I’d love to hear from you and help in any way I can. I look forward to speaking with you soon.<br>&nbsp;
+What do you believe makes you coachable? If you don’t think you’re capable of being coached for the time being, what do you need to do to change that? Whether you’re already taking advantage of a great coaching service or would like to in the future, I’d love to hear from you and help in any way I can. I look forward to speaking with you soon.<br>
