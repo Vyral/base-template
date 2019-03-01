@@ -21,7 +21,7 @@ youtube_code: 1RJIholQy2I
 
 {% include youtube.html %}
 
-Here are three ways you can get your home show-ready for the upcoming spring market at little cost.
+<p style="text-align: center;"><em>Here are three ways you can get your home show-ready for the upcoming spring market at little cost.</em></p>
 
 The spring selling season is upon us, and if you’re looking to get in on the action during this high-activity time, here are three simple, yet effective, ways you can prepare your home for the market.&nbsp;
 
