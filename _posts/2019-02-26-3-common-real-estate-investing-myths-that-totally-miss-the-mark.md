@@ -7,8 +7,11 @@ tags:
 excerpt: >-
   Do you want to get started as a real estate investor? If so, don’t be fooled
   by these three common myths.
-enclosure:
-pullquote:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/Phoenix+Real+Estate+Agent+-+3+Common+Real+Estate+Investing+Myths+That+Totally+Miss+the+Mark.mp4
+pullquote: >-
+  The path to getting rich through real estate is slow and steady, not
+  instantaneous.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -25,6 +28,8 @@ youtube_code: 0b4SOZXAT9U
 If you want to build wealth through real estate investing, you’ll need to steer clear of these three real estate myths:&nbsp;
 
 **1. Borrowing money to invest makes you an investor**. Real investors have money to invest. If you’re getting funds to invest in real estate from an external source, you’ll want to think carefully about whether this is actually a feasible pursuit for you. Real estate investing, especially fix-and-flip projects, requires a lot of time, energy, and, yes, money. You’ve got to spend money to make money.
+
+{% include pullquote.html %}
 
 **2. Real estate investors will get rich quick**. Everyone wants to find an easy, fast way to make money. HGTV may make real estate investing seem like the answer to this common goal, but real estate investing is actually a lot of hard work. The path to getting rich through real estate is slow and steady, not instantaneous.&nbsp;
 
