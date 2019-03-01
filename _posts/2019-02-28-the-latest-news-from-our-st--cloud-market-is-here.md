@@ -24,7 +24,7 @@ youtube_code: gnEZbYy1OpI
 
 <p style="text-align: center;"><em>Our spring market has already arrived, despite the fact that winter isn’t yet behind us. If you’re curious what this means for you, check out today’s message.</em></p>
 
-Though spring is still yet to arrive, our spring market is already in full effect.&nbsp;
+Though spring is yet to arrive, our spring market is already in full effect.&nbsp;
 
 With that said, there are a few stand-out developments buyers and sellers should keep in mind moving forward.&nbsp;
 
