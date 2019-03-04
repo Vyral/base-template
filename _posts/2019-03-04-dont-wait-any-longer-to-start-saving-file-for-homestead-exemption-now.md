@@ -20,8 +20,6 @@ youtube_code: 2RYPyXNEHHM
 
 {% include youtube.html %}
 
-&nbsp;
-
 If you’ve purchased a home toward the end of last year and haven’t yet filed for homestead exemption, now is the time to do so.
 
 This exemption, which is available to all Texas homeowners, is easy to apply for and presents incredible tax benefits. **All you need to do is fill out this form and bring it to your county courthouse.&nbsp;**
