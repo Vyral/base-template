@@ -18,4 +18,4 @@ youtube_code: KpxxZnrCl9M
 
 {% include youtube.html %}
 
-Just east of Gulf Place sits the beautiful Long Leaf Trail—an eight-mile walking path where my family and I love to come to get “off the grid” for a while. If you’re looking for somewhere to spend some time out in nature, this is a great place in the area to do so. It just goes to show what kind of amazing places are hiding in plain sight.
+Just east of Gulf Place sits the beautiful [Long Leaf Trail](https://www.alltrails.com/trail/us/florida/longleaf-greenway){: target="_blank"}—a 14.2-mile walking path where my family and I love to come to get “off the grid” for a while. If you’re looking for somewhere to spend some time out in nature, this is a great place in the area to do so. It just goes to show what kind of amazing places are hiding in plain sight.
