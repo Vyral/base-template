@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Preliminary Steps of the Homebuying Process
-date:
+date: 2019-03-04 15:43:28
 tags:
   - Home Buyer Tips
 excerpt: >-
