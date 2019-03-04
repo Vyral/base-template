@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Don’t Wait Any Longer to Start Saving: File for Homestead Exemption Now'
-date: 2019-02-04 00:00:00
+date: 2019-03-04 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,19 +20,19 @@ youtube_code: 2RYPyXNEHHM
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 If you’ve purchased a home toward the end of last year and haven’t yet filed for homestead exemption, now is the time to do so.
 
-This exemption, which is available to all Texas homeowners, is easy to apply for and presents incredible tax benefits. ****All you need to do is fill out this form and bring it to your county courthouse. ****
+This exemption, which is available to all Texas homeowners, is easy to apply for and presents incredible tax benefits. **\*\*All you need to do is fill out this form and bring it to your county courthouse. \*\***
 
 {% include pullquote.html %}
 
-&nbsp;
+ 
 
 However, there are a couple of stipulations. To qualify, you must have lived in your home as a primary residence by January 1 of this year. If you weren’t living in your home by then, you’ll need to wait until next year to apply.
 
-****Even if this exemption only saves you a couple hundred dollars each year, any savings is worthwhile.**** It all adds up.
+**\*\*Even if this exemption only saves you a couple hundred dollars each year, any savings is worthwhile.**\*\* It all adds up.
 
 There are also other exemptions available for those who qualify, so be sure to take advantage of any that might apply to you.
 
