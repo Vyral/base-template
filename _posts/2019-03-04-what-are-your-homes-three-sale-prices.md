@@ -32,3 +32,7 @@ Just the other day, a homeowner said to me, “Marjorie, it seems like all real 
 The difference between these prices can be vast, depending on the price range. It could be an offer below what you’re asking all the way to multiple offers above your asking price.
 
 If you’re thinking about selling your home and need some expert advice, don’t hesitate to reach out and give me a call or send me an email. I’d be happy to answer them.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
