@@ -7,13 +7,13 @@ excerpt: >-
   By keeping a gold standard across the board, you’ll keep customers happy.
   Here’s how.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+Maximize+Customer+Satisfaction.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2019/Central+PA+Real+Estate+Agent-+Maximize+Customer+Satisfaction+2.7.mp4
 pullquote: Customers don’t just want you—they want the standard you represent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 4TjG1oEq_Ds
+youtube_code: V6xnEj9Rma8
 ---
 
 {% include youtube.html %}
