@@ -18,7 +18,9 @@ youtube_code: ZEuteljixJ8
 
 {% include youtube.html %}
 
-<center>Welcome back to Everyday Encinitas. This time, we’re checking out Best Pizza & Brew.</center>
+<center><em>Welcome back to Everyday Encinitas. This time, we&rsquo;re checking out Best Pizza &amp; Brew.</em></center>
+
+&nbsp;
 
 Welcome to another episode of Everyday Encinitas, where, as always, our goal is to shine a spotlight on the local businesses that help our community thrive. This time, we’re meeting with Mitchell Millar from Best Pizza & Brew.
 
