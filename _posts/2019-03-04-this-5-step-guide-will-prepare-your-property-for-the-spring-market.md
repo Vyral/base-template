@@ -19,7 +19,7 @@ youtube_code: qGZhpdxvv98
 
 {% include youtube.html %}
 
-Are you getting ready to sell this spring? If so, follow these five tips to get your house ready for the market.
+<p style="text-align: center;"><em>Are you getting ready to sell this spring? If so, follow these five tips to get your house ready for the market.</em></p>
 
 With spring just around the corner, many homeowners have begun planning to put their property up for sale. After all, the coming months constitute one of the hottest times of year to list.&nbsp;
 
