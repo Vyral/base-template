@@ -32,6 +32,6 @@ Their fresh ingredients and made-to-order approach to what they serve makes all 
 
 “Not only is it great food, it’s also the best vibe. You’re going to have a great time no matter what,” says Mitchell about the experience people have at Best Pizza & Brew.
 
-**To learn more about Best Pizza & Brew, including their menu, hours, and location, you can [visit their website](https://www.bestpizzaandbrew.com/){: target="_blank"}**.
+**To learn more about Best Pizza & Brew, including their menu, hours, and location, you can [visit their website here](https://www.bestpizzaandbrew.com/){: target="_blank"}**.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
