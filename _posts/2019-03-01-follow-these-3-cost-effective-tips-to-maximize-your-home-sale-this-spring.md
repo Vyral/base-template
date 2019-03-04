@@ -35,6 +35,6 @@ The spring selling season is upon us, and if you’re looking to get in on the a
 
 <br>We expect to be in a definite seller’s market this year, so I caution you not to put a lot of money into preparing your home for sale; you’ll run the risk of overspending, without much promise for a return.&nbsp;
 
-Before you spend more than a few hundred dollars getting your home ready for the spring market, we encourage you to reach out and give us a call. We’ll fill you in on the dos and don’ts and walk you through the process so you don’t leave money on the table. &nbsp;
+Before you spend more than a few hundred dollars getting your home ready for the spring market, we encourage you to reach out and give us a call. We’ll fill you in on the do's and don’ts and walk you through the process so you don’t leave money on the table. &nbsp;
 
 As always, we’re never too busy for a referral of a friend or family member of yours, and we look forward to seeing you at the closing table!
