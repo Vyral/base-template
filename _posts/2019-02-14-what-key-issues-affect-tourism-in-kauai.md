@@ -20,7 +20,7 @@ youtube_code: bxRn90otYTc
 
 {% include youtube.html %}
 
-Looking back on 2018, the largest issue of the year was the series of floods that damaged the North Shore, a small neighborhood in Kolelo on the south side, and Anahola. Eight months later, those communities are still recovering from that incident.
+Looking back on 2018, the largest issue of the year was the series of floods that damaged the North Shore, a small neighborhood in Koloa on the south side, and Anahola. Eight months later, those communities are still recovering from that incident.
 
 In fact, on January 3, the new mayor issued the sixth iteration of an emergency proclamation, which extends the flood-relief process. Part of that emergency rule prohibits the operation of transient vacation rentals on the north side of the island in the Lumahai, Wainiha, and Haena areas in particular.
 
