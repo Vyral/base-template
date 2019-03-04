@@ -32,7 +32,7 @@ It usually takes about an hour to get all the paperwork signed at the attorney�
 
 {% include pullquote.html %}
 
-You’ll also need time to do a final walk-through, which happens usually within 24 hours before closing. This is the time for you to go through the house to check for any damages that have been made since you last walked through.
+You’ll also need time to do a final walk-through, which happens usually within 24 hours before closing. This is the time for you to go through the house to check for any damage that might have occurred since your last visit.
 
 Lastly, **you’ll need to bring certain documents with you to the closing session**, including your driver’s license and anything else that pertains to your home.
 
