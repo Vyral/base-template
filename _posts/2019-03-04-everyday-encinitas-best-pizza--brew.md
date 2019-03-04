@@ -7,8 +7,10 @@ tags:
 excerpt: >-
   Welcome back to Everyday Encinitas. This time, we’re checking out Best Pizza &
   Brew.
-enclosure: 'When you visit best pizza, you’re going to have a great time no matter what.'
-pullquote:
+enclosure:
+pullquote: >-
+  When you visit Best Pizza & Brew, you’re going to have a great time no matter
+  what.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
