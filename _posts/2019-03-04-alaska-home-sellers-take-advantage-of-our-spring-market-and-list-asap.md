@@ -22,7 +22,7 @@ youtube_code: INP-Q3OzKpg
 
 {% include youtube.html %}
 
-Today we’ll explain what makes the spring market so favorable for Alaska home sellers, and explore a few tips for what you can do to get your home ready to list.
+<p style="text-align: center;"><em>Today we’ll explain what makes the spring market so favorable for Alaska home sellers, and explore a few tips for what you can do to get your home ready to list.</em></p>
 
 Most people think the best time to get in the market is June or July, but this simply isn’t the case in our Alaska market.
 
