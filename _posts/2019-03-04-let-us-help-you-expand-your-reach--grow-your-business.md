@@ -21,7 +21,7 @@ youtube_code: 9v6n7EX0Nq0
 
 {% include youtube.html %}
 
-Now let’s discuss the most popular types of calls we get.
+At 1000 Calls A Day, we can make many different kinds of calls on your behalf.
 
 If you’re a Realtor, **we make traditional real estate calls on your behalf**, including calling “For Sale By Owners,” calling expired or withdrawn listings, as well as doing circle prospecting and open house calls.
 
