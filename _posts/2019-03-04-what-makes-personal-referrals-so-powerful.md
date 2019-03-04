@@ -24,8 +24,6 @@ youtube_code: G_Eguti0_Nk
 
 {% include youtube.html %}
 
-&nbsp;
-
 About once a day, someone will reach out to me and ask for a referral. When people ask for a referral, **there are three implied questions within that request:**
 
 1. Can I trust this person?
@@ -38,6 +36,6 @@ Many people will attempt to find referrals online through platforms like Yelp!, 
 
 {% include pullquote.html %}
 
-When people ask me to recommend a plumber, electrician, lender, or some other vendor, they can be confident in my referral because I’ve worked with the person or company I’m recommending myself—often multiple times. **They know that I care, and can, therefore, feel safe in assuming that the professional I’m referring them to will too. **
+When people ask me to recommend a plumber, electrician, lender, or some other vendor, they can be confident in my referral because I’ve worked with the person or company I’m recommending myself—often multiple times. **They know that I care, and can, therefore, feel safe in assuming that the professional I’m referring them to will too.&nbsp;**
 
 If you have any other questions, would like more information, or would like me to refer you to someone from my network of local vendors, I would be happy to help. Please give me a call or send me an email. I look forward to hearing from you soon.
