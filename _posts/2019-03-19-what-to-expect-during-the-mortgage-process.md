@@ -1,19 +1,24 @@
 ---
 layout: post
 title: What to Expect During the Mortgage Process
-date:
+date: 2019-03-19 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  What can you expect during the mortgage process? You’ll be dealing with
-  documentation requests and speaking with your lender frequently.
+  As a homebuyer, what can you really expect during the mortgage process?  The
+  real answer is documentation requests. Specifically, you should expect to
+  provide documentation on three separate occasions: once during your
+  pre-approval, once when you’re under contract and locking in your rate, and
+  once (though not always) when you get closer to the final approval.
 enclosure:
-pullquote: You and your lender need to be on the same page during this time.
+pullquote: >-
+  Remember, you’re borrowing a lot of money, so you and your lender need to be
+  on the same page during this time.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lG8FXzeaz7Q
+youtube_code: i5AsAfsNboU
 ---
 
 {% include youtube.html %}
