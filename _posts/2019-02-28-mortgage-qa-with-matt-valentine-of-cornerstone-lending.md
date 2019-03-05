@@ -6,7 +6,7 @@ tags:
   - Market Update
   - Home Seller Tips
   - Home Buyer Tips
-date: 2019-03-04 17:18:00
+date: 2019-02-28 16:00:00
 excerpt: >-
   My good friend Matt Valentine from Cornerstone Lending joins me today for some
   Q&A regarding mortgages in today’s real estate market.
