@@ -108,7 +108,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /uploads/white.png
-  logo_width_number: 65
+  logo_width_number: 35
   hero_text: The Caul Real Estate Group Video Blog
   hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
