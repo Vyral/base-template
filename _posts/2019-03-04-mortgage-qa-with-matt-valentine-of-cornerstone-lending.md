@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/twZ8OBkynVg'
 
 Matt Valentine from Cornerstone Lending is here today to help me answer a few key questions about lending and mortgages that will help consumers in the real estate market make better, more informed decisions about their transactions in 2019.
 
-For your convenience I have provided timestamps below so you can navigate our conversation in the video above at your leisure:
+**For your convenience I have provided timestamps below so you can navigate our conversation in the video above at your leisure:**
 
 * 0:29—What are the pros and cons of working with an online lender versus a traditional lender?
 * 3:00—Besides interest rates, what is the most important thing to consider when picking a mortgage broker?
