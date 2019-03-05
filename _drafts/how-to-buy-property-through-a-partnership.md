@@ -7,28 +7,36 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: >-
-  We are thrilled to share some exciting news with you today. We have recently
-  been endorsed by Glenn Beck. He had some great words to say about our team,
-  and we’re very proud of that. We are also proud of our guaranteed sale
-  program, which Glenn explains in detail in his endorsement. To hear what Glenn
-  Beck has to say about our team, watch this short video.
+  By co-borrowing, you’ll have a much better chance at affording a property.
+  Here’s how.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/+Videos/Salt+Lake+County+Real+Estate+Agent-+Heres+Why+Glenn+Beck+Endorses+Our+Team.mp4
-pullquote: We are proud of our guaranteed sale program.
+  https://s3.amazonaws.com/vyralmarketing/Joshua+Stern/The+Stern+Team-+How+to+Buy+Property+Through+a+Partnership.mp4
+pullquote: We’re seeing more and more people purchase properties together.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: kodSwXkDcxE
+youtube_alternate_image: /uploads/3-5-partnership-np.jpg
+youtube_code: _MMGjV_75vU
 ---
-
 
 {% include youtube.html %}
 
-We’re excited to announce our team’s latest endorsement. This one comes from nationally syndicated radio host Glenn Beck. **He had some great words to say about our team and about our home sale guarantee program.**
+&nbsp;
+
+It’s always our goal to keep you educated about all things real estate so you can accomplish your buying, selling, and investment goals. Today we’ll be talking about how co-borrowing and co-borrowers work in real estate.
+
+We’ve seen home values increase by over 30% in the last five years, and combined with recent interest rate hikes, **affordability has been affected—especially for first-time homebuyers.**
+
+As a result, we’re seeing more and more people purchase properties together. It makes sense: Rather than waiting to afford something on their own, they’re compounding their homeownership efforts.
+
+Co-borrowers are creating long-term partnerships of five to ten years, even creating LLCs to spell out the terms. Others have taken title as tenants in common instead of through common joint tenancy.
 
 {% include pullquote.html %}
 
-In case you haven’t heard of it, here’s how it works. We guarantee to sell your home at a price and deadline that you agree to or we are going to buy it ourselves. **We sell a home every two days,** and have a large network of buyers that are looking for a home right now. We make this promise because we know we have the systems in place to keep it.
+Tenancy in common imposes joint liability and several liability of tenants, **meaning each owner can be liable for property taxes and deductions equal to the amount they paid.** Simply put, tenancy in common allows several people to share their interest in real property while retaining the freedoms that would be restricted through joint tenancy.
 
-To hear the full radio endorsement, listen to the clip above.
+**If you’d like to buy real estate but are unable to on your own, and you have a friend or family member who’s in the same boat, consider a partnership.** Whether you want to have a home to live in or a property to invest in, you can compound your purchasing power together.
+
+Keep in mind that when you’re purchasing as a partnership, they’ll use both credit scores. The lowest score will determine the financing ability and interest rate.
+
+If you have any topics you’d like us to cover in the future, have any questions, or need further information, feel free to reach out to us. We look forward to hearing from you soon.
