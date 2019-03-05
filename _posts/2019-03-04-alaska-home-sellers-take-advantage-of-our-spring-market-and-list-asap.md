@@ -34,7 +34,7 @@ We’ll then give you time to get these things done before putting your home up 
 
 {% include pullquote.html %}
 
-As a final note, our market has very little available inventory right now. With just 2.8 months’ worth of supply, there aren't many homes for buyers to choose from. This means two things: First, the market needs your home, and, second, your listing will have an even stronger chance at success right now than it would in the next few months, when more listings hit the MLS.&nbsp;
+As a final note, our market has very little available inventory right now. With just 2.8 months’ worth of supply, there aren't many homes for buyers to choose from. This means two things: First, the market needs your home, and, second, your listing will have an even stronger chance at success right now than it would in the next few months when more listings hit the MLS.&nbsp;
 
 Come June or July, the market will slow. **Only in Alaska could salmon season slow down real estate.** As funny as that might sound, it’s true. The bottom line is that you need to start preparing now. It’s the perfect time to list, and we’re looking forward to the opportunity to support your real estate goals.
 
