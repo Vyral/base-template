@@ -19,11 +19,11 @@ youtube_code: 3RHQmJIzkhc
 
 {% include youtube.html %}
 
- 
+You can see what it looks like in the summer **[here.](http://iplayerhd.com/player/GrandRidge7760U)**
 
 I’m out here today looking at building lots in a pocket subdivision just north of Eagle. One of my favorite things to do is helping homebuyers find lots to build their custom dream home. **I have a few clients who are looking for acreage lots and I’m scouting out the area.**
 
-As you can see in the video above, there’s plenty of open space in this area. You can see what it looks like in the summer [here.](http://iplayerhd.com/player/GrandRidge7760U)
+As you can see in the video above, there’s plenty of open space in this area.&nbsp;
 
 {% include pullquote.html %}
 
