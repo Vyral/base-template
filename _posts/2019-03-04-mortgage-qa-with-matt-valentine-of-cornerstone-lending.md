@@ -31,4 +31,4 @@ Matt Valentine from Cornerstone Lending is here today to help me answer a few ke
 * 5:35—When it comes to purchasing new construction, why would someone go with the “in-house” lender?
 * 8:00—What’s going to happen to interest rates within the next year?
 
-Hopefully you found this information valuable for your 2019 real estate goals. If you have any follow-up questions or questions about real estate in general, feel free to reach out to me. I’d love to help.<br>
+Hopefully you found this information valuable for your 2019 real estate goals. If you have any follow-up questions or questions about real estate in general, feel free to reach out to me. I’d love to help. jsy
