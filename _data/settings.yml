@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Buy A Home
-    url: 'http://www.vegascapital.com/buy-a-home/'
+    url: 'https://www.vegascapital.com/featured-listing'
   - title: Sell A Home
-    url: 'http://www.vegascapital.com/free-home-value/'
+    url: 'https://www.vegascapital.com/evaluation'
   - title: Testimonials
     url: /client-testimonials
 client:
