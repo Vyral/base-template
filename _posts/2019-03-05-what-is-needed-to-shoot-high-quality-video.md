@@ -20,7 +20,9 @@ youtube_code: V4pzvDEMibI
 
 {% include youtube.html %}
 
-<center>Today’s video is about how to make good video. Specifically, what you’ll need to shoot and edit your own videos to send out to your database.</center>
+<center><em>Today&rsquo;s video is about how to make good video. Specifically, what you&rsquo;ll need to shoot and edit your own videos to send out to your database.</em></center>
+
+&nbsp;
 
 If you’re going to shoot video to send out to your database, you need to make sure it’s good video. To give you a good idea of where to start, I’ll tell you what I use to shoot my videos.
 
