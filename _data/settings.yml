@@ -58,7 +58,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/'
+    CTA_url2: 'https://www.vegascapital.com/featured-listing'
 lender:
   show_section: false
   header_text: Preferred Lender
