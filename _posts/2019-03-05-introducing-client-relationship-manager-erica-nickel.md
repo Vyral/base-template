@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Introducing Client Relationship Manager Erica Nickel
-date: 2019-03-05 16:55:19
+date: 2019-03-05 16:55:00
 tags:
   - Real Estate
 excerpt: >-
   Erica Nickel is our client relationship manager and my right-hand woman. Get
   to know her in today’s video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Seth+%26+Alyce+Dailey/The+Dailey+Group-+Meet+Erica+Nickel.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
