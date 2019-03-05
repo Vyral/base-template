@@ -21,7 +21,7 @@ youtube_code: ehEJZGJnKRg
 
 {% include youtube.html %}
 
-You can welcome back your nights and weekends with the help of a showing agent. Here’s how.
+<p style="text-align: center;"><em>You can welcome back your nights and weekends with the help of a showing agent. Here’s how.</em></p>
 
 In the early days of my real estate career, I had to do everything: show houses, list houses, take photos, and much more. It was hard work, but I learned that bringing others onto my team was a great way to ease the burden. By implementing this kind of collaboration into your own career, you can ease your workload, too. **One of the roles that helps my team immensely is that of the showing agent.**
 
