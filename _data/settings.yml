@@ -1,113 +1,129 @@
 audit_header: false
-title: -- CLIENT BRAND --
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+title: '-- CLIENT BRAND --'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Featured Listings
-    url: http://realestate.caulgroup.com/search
-
+    url: 'http://realestate.caulgroup.com/search'
 client:
   name: Tina Caul
   license_number:
-  about_markdown: |
-    With over 18 years of experience selling homes, Tina Caul has a knowledge of the housing market that is unmatched. By applying aggressive marketing and sales skills to get property “SOLD” for the highest price in the shortest period of time, she has consistently ranked as the #1 selling agent and currently ranks in the top 1% of Realtors® nationwide. Her most proud accomplishment as an agent is that over 65% of her business comes from client referrals and repeat customers. As the Team Leader of The Caul Real Estate Group, Tina is committed to making you a client for life!
+  about_markdown: >
+    With over 18 years of experience selling homes, Tina Caul has a knowledge of
+    the housing market that is unmatched. By applying aggressive marketing and
+    sales skills to get property “SOLD” for the highest price in the shortest
+    period of time, she has consistently ranked as the #1 selling agent and
+    currently ranks in the top 1% of Realtors® nationwide. Her most proud
+    accomplishment as an agent is that over 65% of her business comes from
+    client referrals and repeat customers. As the Team Leader of The Caul Real
+    Estate Group, Tina is committed to making you a client for life!
   market: Raleigh
   brand: Caul Group Residential | eXp Realty
   brokerage:
-  address: Two Locations to Serve You<br>Raleigh | Cary, NC
-  # address2: 9131 Anson Way Raleigh, NC 27615
+  address: 'Two Locations to Serve You<br>Raleigh | Cary, NC'
   phone: 919-263-7653
   phone_type:
   phone2:
   phone2_type:
   email: Team@CaulTeam.com
-  url: http://CaulGroup.com
-
+  url: 'http://CaulGroup.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.trianglerealestatehub.com/cma/property-valuation/
+  first_CTA_URL: 'http://www.trianglerealestatehub.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: http://realestate.caulgroup.com/search
-
+  second_CTA_URL: 'http://realestate.caulgroup.com/search'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.trianglerealestatehub.com/cma/property-valuation/
-
+    CTA_title: What’s Your Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: 'http://www.trianglerealestatehub.com/cma/property-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://realestate.caulgroup.com/search
-
+    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_text2: Search the entire MLS for your -- MARKET -- home.
+    CTA_link_text2: Search the MLS
+    CTA_url2: 'http://realestate.caulgroup.com/search'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/caulgroup
-  linkedin_url: https://www.linkedin.com/pub/tina-caul-team-leader-broker/7/56b/5a5
-  gplus_url: https://plus.google.com/b/103086560041387025150/103086560041387025150/about
-  youtube_url: https://www.youtube.com/user/caulgroup
-  twitter_url: https://twitter.com/tinacaul
+  facebook_url: 'https://www.facebook.com/caulgroup'
+  linkedin_url: 'https://www.linkedin.com/pub/tina-caul-team-leader-broker/7/56b/5a5'
+  gplus_url: 'https://plus.google.com/b/103086560041387025150/103086560041387025150/about'
+  youtube_url: 'https://www.youtube.com/user/caulgroup'
+  twitter_url: 'https://twitter.com/tinacaul'
   instagram_url:
   pinterest_url:
-  zillow_url: http://www.zillow.com/profile/tcaul1/
-  trulia_url: http://www.trulia.com/profile/tina-caul-broker-cary-nc-304263
-  yelp_url: http://www.yelp.com/biz/tina-caul-the-caul-real-estate-group-cary
-  podcast_url: https://itunes.apple.com/us/podcast/raleigh-real-estate-podcast-with-tina-caul/id1294468460?mt=2
-
+  zillow_url: 'http://www.zillow.com/profile/tcaul1/'
+  trulia_url: 'http://www.trulia.com/profile/tina-caul-broker-cary-nc-304263'
+  yelp_url: 'http://www.yelp.com/biz/tina-caul-the-caul-real-estate-group-cary'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/raleigh-real-estate-podcast-with-tina-caul/id1294468460?mt=2
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
-  hero_logo_path: /img/logo.png
+  hero_logo_path: /uploads/white.png
   logo_width_number: 65
   hero_text: The Caul Real Estate Group Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#041424'
-  theme_color: '#000'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 5px
   w_shadow: 5px
   shadow_spread: 5px
-  shadow_color: rgba(4, 20, 36, .5)
-
+  shadow_color: 'rgba(4, 20, 36, 0.5)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
