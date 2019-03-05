@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Seller Tips
   - Home Buyer Tips
-date: 2019-03-04 17:04:00
+date: 2019-03-03 17:00:00
 excerpt: >-
   My good friend Matt Valentine from Cornerstone Lending joins me today for some
   Q&A regarding mortgages in today’s real estate market.
@@ -31,4 +31,4 @@ Matt Valentine from Cornerstone Lending is here today to help me answer a few ke
 * 5:35—When it comes to purchasing new construction, why would someone go with the “in-house” lender?
 * 8:00—What’s going to happen to interest rates within the next year?
 
-Hopefully you found this information valuable for your 2019 real estate goals. If you have any follow-up questions or questions about real estate in general, feel free to reach out to me. I’d love to help. jsy
+Hopefully you found this information valuable for your 2019 real estate goals. If you have any follow-up questions or questions about real estate in general, feel free to reach out to me. I’d love to help.&nbsp;
