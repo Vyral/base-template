@@ -19,7 +19,7 @@ youtube_code: RpRoFCd8bgM
 
 {% include youtube.html %}
 
-Real estate isn’t for everyone, but those who put in the work will thrive. Here’s why.
+<p style="text-align: center;"><em>Real estate isn’t for everyone, but those who put in the work will thrive. Here’s why.</em></p>
 
 A career in real estate has its pros and cons, and today we’ll be taking a brief look at life in the industry.
 
