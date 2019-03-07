@@ -19,9 +19,9 @@ youtube_code: F7fxEFT_hjY
 
 {% include youtube.html %}
 
-Today I want to talk about the importance of home maintenance for first-time buyers. **When you’re ready to take on the responsibility of owning a new home, you also need to be ready to take on the responsibility of the maintenance on your new home.** It’s something you probably wouldn’t think about if you’ve been in an apartment, or a dorm, or with your parents.
+Today I want to talk about the importance of home maintenance for first-time buyers. **When you’re ready to take on the responsibility of owning a new home, you also need to be ready to take on the responsibility of the maintenance on your new home.** It’s something you probably wouldn’t think about if you’ve been in an apartment, or a dorm, or living with your parents.
 
-First off, if you negotiate a one-year warranty on your home purchase, that’s awesome. If you don’t have one, you can still get one and I’d be happy to recommend one to you. It’s a good thing to have. **It costs $500 to $600 per year, but it will take out any major costs for the systems in your home.**
+First off, if you negotiate a one-year warranty on your home purchase, that’s awesome. If you don’t have one, you can still get one and I’d be happy to recommend one to you. It’s a good thing to have. **It costs $500 to $600 per year, but it will take care of any major costs for the systems in your home.**
 
 {% include pullquote.html %}
 
