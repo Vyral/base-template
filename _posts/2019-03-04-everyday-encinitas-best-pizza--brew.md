@@ -24,11 +24,11 @@ youtube_code: ZEuteljixJ8
 
 &nbsp;
 
-Welcome to another episode of Everyday Encinitas, where, as always, our goal is to shine a spotlight on the local businesses that help our community thrive. This time, we’re meeting with Mitchell Millar from Best Pizza & Brew.
+Welcome to another episode of "Everyday Encinitas," where, as always, our goal is to shine a spotlight on the local businesses that help our community thrive. This time, we’re meeting with Mitchell Millar from Best Pizza & Brew.
 
-**Located in Downtown Cardiff-by-the-Sea, Best Pizza & Brew has always been amazing, but after their recent remodel, they’ve become the talk of the town**. The windows that face the sea open garage-door style to create an indoor/outdoor ambiance. But that’s not all that makes them special. It’s their menu that truly makes Best Pizza & Brew shine.
+**Located in Downtown Cardiff-by-the-Sea, Best Pizza & Brew has always been amazing, but after their recent remodel, they’ve become the talk of the town**. The windows that face the sea open garage-door style to create an indoor/outdoor ambiance. But that’s not all that makes them special—their menu truly makes them shine.
 
-Their fresh ingredients and made-to-order approach to what they serve makes all the difference, and their lunch specials are definitely crowd-pleasers, as well. And if you’re looking to wet your whistle, they’ve got 20 beers on tap for you to enjoy while you dig in one of their signature slices. If wine is more your thing, they’ve got that available, too.
+Their fresh ingredients and made-to-order approach to what they serve makes all the difference, and their lunch specials are definitely crowd pleasers, as well. And if you’re looking to wet your whistle, they’ve got 20 beers on tap for you to enjoy while you dig into one of their signature slices. If wine is more your thing, they’ve got that available, too.
 
 {% include pullquote.html %}
 
