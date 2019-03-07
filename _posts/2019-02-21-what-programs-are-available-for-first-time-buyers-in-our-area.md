@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   First-time homebuyers in our area have a number of assistance programs
-  available to them, and I’d like to highlight just a few in today’s message.
+  available to them.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Videos/Hoboken+Real+Estate+-+What+Programs+Are+Available+for+First-Time+Buyers+in+Our+Area_+(1).mp4
 pullquote: >-
