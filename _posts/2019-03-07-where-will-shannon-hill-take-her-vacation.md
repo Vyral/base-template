@@ -24,7 +24,7 @@ youtube_code: XslRNjmQlt0
 
 As you know, I recently announced the winner of my 2018 referral raffle—Shannon Hill—and today Shannon joins me to announce where she’ll be taking her all-expenses-paid vacation.
 
-Her destination of choice is...Gatlinburg, Tennessee!
+**Her destination of choice is…Gatlinburg, Tennessee!**
 
 Shannon is a good friend of mine and has referred a lot of clients to me, and I’m more than happy to give her three days of fun and adventure right next to the Smoky Mountains.
 
