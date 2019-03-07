@@ -21,15 +21,13 @@ youtube_code: _MMGjV_75vU
 
 {% include youtube.html %}
 
-&nbsp;
-
-It’s always our goal to keep you educated about all things real estate so you can accomplish your buying, selling, and investment goals. Today we’ll be talking about how co-borrowing and co-borrowers work in real estate.
+It’s always our goal to keep you educated about all things real estate so you can accomplish your buying, selling, and investment goals. Today we’ll be talking about how co-borrowers works in real estate.
 
 We’ve seen home values increase by over 30% in the last five years, and combined with recent interest rate hikes, **affordability has been affected—especially for first-time homebuyers.**
 
 As a result, we’re seeing more and more people purchase properties together. It makes sense: Rather than waiting to afford something on their own, they’re compounding their homeownership efforts.
 
-Co-borrowers are creating long-term partnerships of five to ten years, even creating LLCs to spell out the terms. Others have taken title as tenants in common instead of through common joint tenancy.
+Co-borrowers are creating long-term partnerships of five to 10 years, even creating LLCs to spell out the terms. Others have taken title as tenants in common instead of through common joint tenancy.
 
 {% include pullquote.html %}
 
@@ -37,6 +35,6 @@ Tenancy in common imposes joint liability and several liability of tenants, **me
 
 **If you’d like to buy real estate but are unable to on your own, and you have a friend or family member who’s in the same boat, consider a partnership.** Whether you want to have a home to live in or a property to invest in, you can compound your purchasing power together.
 
-Keep in mind that when you’re purchasing as a partnership, they’ll use both credit scores. The lowest score will determine the financing ability and interest rate.
+Keep in mind that when you’re purchasing as a partnership, both credit scores will be used. The lowest score will determine the financing ability and interest rate.
 
 If you have any topics you’d like us to cover in the future, have any questions, or need further information, feel free to reach out to us. We look forward to hearing from you soon.
