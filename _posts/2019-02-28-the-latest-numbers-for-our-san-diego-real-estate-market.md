@@ -10,12 +10,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: J6nn1yvgdic
+youtube_code: g0d9KmzgAz8
 ---
 
 {% include youtube.html %}
-
-&nbsp;
 
 Today we’ll be looking at our latest numbers for January 2019, as well as comparing our current market to those of December 2018 and January 2018. Keep in mind that today’s statistics will only include the numbers for detached single-family homes.
 
