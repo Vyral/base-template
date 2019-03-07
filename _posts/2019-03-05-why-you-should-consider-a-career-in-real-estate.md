@@ -23,7 +23,7 @@ youtube_code: RpRoFCd8bgM
 
 A career in real estate has its pros and cons, and today we’ll be taking a brief look at life in the industry.
 
-I’ve learned a lot since I started in real estate 17 years ago. **The biggest thing to understand is that as a real estate agent, you are a small business owner.** And, like any small business, the rate of attrition is high.&nbsp;
+I’ve learned a lot since I started in real estate 17 years ago. **The biggest thing to understand is that, as a real estate agent, you are a small business owner.** And, like any small business, the rate of attrition is high.&nbsp;
 
 According to the National Association of Realtors, the average full-time agent made $42,000 in gross income last year. If we include part-time agents, that number drops dramatically. Since the barrier to entry is low, there’s a lot of competition. **Only a small percentage can make it a full-time career and make their primary income from real estate.**
 
@@ -31,6 +31,6 @@ On the upside, however, you get out of it what you put in. **If you work hard, y
 
 {% include pullquote.html %}
 
-We at the Dave Hooke Team are always looking to grow—we grew by 50% last year and are still looking to add talented people to our core group of agents. If you or someone you know has thought about working in real estate, **we have a meet-and-greet event each month that provides more information about a career with us.&nbsp;**
+We at the Dave Hooke Team are always looking to grow—we grew by 50% last year and are still looking to add talented people to our core group of agents. If you or someone you know has thought about working in real estate, we **invite you to attend one of our monthly meet-and-greet events, which will provide more information about a new career with us.**
 
 If you’d like to attend the next one, have any questions, or need further information, feel free to reach out to us. We look forward to hearing from you soon.
