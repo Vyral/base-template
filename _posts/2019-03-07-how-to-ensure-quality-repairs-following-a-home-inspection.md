@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Ensure Quality Repairs Following a Home Inspection
-date: 2019-03-07 16:51:46
+date: 2019-03-07 16:51:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2rK_UWNnbo
+youtube_code: '-2rK_UWNnbo'
 ---
 
 {% include youtube.html %}
