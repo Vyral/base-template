@@ -1,28 +1,29 @@
 ---
 youtube_code: pS2a1tuXYCo
 excerpt:
-enclosure: https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+4+tips+for+hiring+a+listing+agent.mp4
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Mike+Tchobanian/Las+Vegas+Real+Estate-+4+tips+for+hiring+a+listing+agent.mp4
 pullquote: HIRE A LISTING AGENT WHO IS ACTIVE IN THE MARKET EVERY DAY.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 'How to Hire the Right Listing Agent '
-date: '2018-06-15T09:51:00.003-08:00'
+title: How to Hire the Right Listing Agent
+date: 2019-03-06 17:51:00
 author: Vyral Admin
 tags:
-- Las Vegas Real Estate Home Seller Tips
-modified_time: '2017-02-24T07:52:06.959-08:00'
-thumbnail: https://i.ytimg.com/vi/pS2a1tuXYCo/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6032261139014159179.post-2240835698814563914
-blogger_orig_url: http://www.myvegasrealestateinfo.com/2017/02/how-to-hire-right-listing-agent.html
+  - Real Estate
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/pS2a1tuXYCo/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6032261139014159179.post-2240835698814563914'
+blogger_orig_url: >-
+  http://www.myvegasrealestateinfo.com/2017/02/how-to-hire-right-listing-agent.html
 ---
-{% include youtube.html %}
-Hiring the right real estate agent to sell your house is absolutely crucial. Here are four tips to help you choose the best agent for the job.
 
-**Want to sell your home?** <a href="http://www.vegascapital.com/index.php/free-home-value/" target="_blank">Get a FREE home value report.</a>
-**Want to buy a home?** <a href="http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/" target="_blank">Search all homes for sale.</a>
+{% include youtube.html %}Hiring the right real estate agent to sell your house is absolutely crucial. Here are four tips to help you choose the best agent for the job.
+
+**Want to sell your home?** [Get a FREE home value report.](http://www.vegascapital.com/index.php/free-home-value/){: target="_blank"}**Want to buy a home?** [Search all homes for sale.](http://www.vegascapital.com/index.php/homes-for-sale-search-advanced/){: target="_blank"}
 
 When you plan on selling your house, it is crucial to hire the right agent. How do you know which agent is the best one for the job? Here are a few tips:
 
