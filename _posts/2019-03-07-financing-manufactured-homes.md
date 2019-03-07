@@ -20,8 +20,6 @@ youtube_code: QFrkyFB0eo4
 
 {% include youtube.html %}
 
-&nbsp;
-
 While property values and purchase prices continue to rise, many people are turning to a more affordable option: manufactured homes.
 
 **Manufactured homes can be financed through conventional, VA, and FHA loan programs**. For the most part, any loan program will be approved. However, though the USDA has a pilot program in some states that allows for the financing of existing manufactured homes, Florida is not currently part of this program.
