@@ -23,8 +23,6 @@ youtube_code: 2rK_UWNnbo
 
 {% include youtube.html %}
 
-&nbsp;
-
 Imagine this: You’ve found the perfect home, submitted an offer, and gone under contract. You think everything is going smoothly, but then you get the results of the inspection report. It’s normal for this report to turn up issues, but the severity of these issues can vary vastly. However, it’s the way these problems are addressed that truly matters.
 
 In general, **a buyer will be more likely to ensure quality repairs are done than a seller, who will usually have their focus elsewhere.** Even the most well-intentioned sellers may be tempted to fall back on a quick fix rather than a long-lasting solution. Most sellers simply don’t have the time to focus on repairs given everything else they’ve got to handle during their home sale.
