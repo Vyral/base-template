@@ -31,8 +31,6 @@ Next, **you’ll need to figure out what you’ll be able to do on your own vers
 
 {% include pullquote.html %}
 
-&nbsp;
-
 After that, **you’ll need to get good repair estimates**. A kitchen repair might cost anywhere from $20,000 to $50,000, but getting a contractor to take a look at it and give you an accurate estimate will make all the difference.
 
 Finally, **make sure you know your stress limits**. There’s a lot of opportunity in fixing and flipping a home, but it’s not without its headaches. Many times, these projects take longer than you think and end up costing more than you originally estimated, so your ability to deal with these kinds of variables is crucial.
