@@ -17,8 +17,6 @@ youtube_code: R-qZcxANBxc
 
 {% include youtube.html %}
 
-&nbsp;
-
 I’d like to take the opportunity today to give you the full rundown of how our 2018 market fared.
 
 There are five central data points that drive real estate: home sales, home price, months’ supply of inventory, mortgage rates, and affordability. I’ll take a deep dive into these stats on the national scale. &nbsp;
