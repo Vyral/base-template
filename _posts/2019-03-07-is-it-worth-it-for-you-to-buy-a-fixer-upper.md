@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Worth It for You to Buy a Fixer Upper?
-date:
+date: 2019-03-07 22:03:10
 tags:
   - Home Buyer Tips
   - Real Estate
