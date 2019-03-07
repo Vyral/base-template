@@ -16,6 +16,8 @@ youtube_alternate_image:
 youtube_code: edM2cps8xjk
 ---
 
+{% include youtube.html %}
+
 People often ask me if it’s possible for them to time the market. The answer is yes, and here's the time frame you need to follow in order to do so.
 
 I’m sure you’ve heard that trying to time the stock market is not a good idea. When it comes to the real estate market, however, that’s far from the truth.
