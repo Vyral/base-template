@@ -22,15 +22,13 @@ youtube_code: RZfURluGU7M
 
 {% include youtube.html %}
 
-&nbsp;
-
-When purchasing an investment property, there are a number of costs you’ll need to keep in mind as you do. For brevity’s sake, we’re going to cover just three of the most significant expenses today:
+When purchasing an investment property, there are a number of costs you’ll need to keep in mind. For brevity’s sake, we’re going to cover just three of the most significant expenses today:
 
 **1. Property management fees.** As a landlord, you’ve got enough on your plate. Hiring a property manager will ensure that your investment is well taken care of. However, this necessary service comes at a cost—usually 5% to 12% of the monthly rent.
 
 {% include pullquote.html %}
 
-**2. Leasing.** This can be cost as much as one months’ rent or as little as .25% each month.
+**2. Leasing.** This can cost as much as one month's rent or as little as .25% each month.
 
 **3. Maintenance.** Typically, landlords should maintain a reserve between $300 and $400 to make sure minor issues can be resolved in a timely manner. Having between 3% to 6% of annual rent in reserve will help you avoid spending out-of-pocket funds on fixing up your property.
 
