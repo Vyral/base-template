@@ -8,7 +8,7 @@ permalink: /pricing/
 
 <div class="content">
 <h3 class="heading">New Client Onboarding</h3>
-<span class="price">$1,495.00/One Time</span>
+<span class="price">$1,995.00/One Time</span>
 <ul class="price-list">
 <li>We recruit top calling talent</li>
 <li>All applicants are rigorously tested</li>
