@@ -1,7 +1,7 @@
 ---
 layout: post
-title: he Home Buying Process From A to Z
-date: 2019-03-04 00:00:00
+title: The Home Buying Process From A to Z
+date: 2019-03-06 00:00:00
 tags:
   - Market Update
 excerpt: >-
