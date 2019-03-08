@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Welcome back to Everyday Encinitas. This time, we’re checking out Best Pizza &
   Brew.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+4+_+Best+Pizza+%26+Brew.mp4
 pullquote: >-
   When you visit Best Pizza & Brew, you’re going to have a great time no matter
   what.
