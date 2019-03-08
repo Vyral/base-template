@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Agent Success Secrets with Special Guest Anna Krueger
-date:
+date: 2019-03-08 18:02:27
 tags:
   - Agent's Success Interview
 excerpt: >-
