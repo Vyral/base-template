@@ -20,7 +20,7 @@ youtube_code: p5Jtx6kKlm0
 
 {% include youtube.html %}
 
-Investing in real estate doesn’t have to be the massive undertaking that some will have you believe. Here are some ways to invest in residential real estate without having to take full ownership of an asset.
+<p style="text-align: center;"><em>Investing in real estate doesn’t have to be the massive undertaking that some will have you believe. Here are some ways to invest in residential real estate without having to take full ownership of an asset.</em></p>
 
 If you’ve been thinking about getting into the real estate investment market, we’ve got some good news for you. I recently sat down for an interview on Facebook Live where I answered some of the most common questions about investing in residential real estate and how you can get started. **Here’s an outline of the discussion, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
