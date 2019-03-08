@@ -23,7 +23,7 @@ youtube_code: 8JVGS3cdwrA
 
 {% include youtube.html %}
 
-If you’re thinking of buying a fixer upper, there are four important factors you need to take into consideration before you get started.
+If you’re thinking of buying a fixer-upper, there are four important factors you need to take into consideration before you get started.
 
 First, **you need to evaluate the home’s price**. Make sure the property is priced appropriately for its condition and you know what its price will be after all the repairs and upgrades have been done.
 
@@ -35,4 +35,4 @@ After that, **you’ll need to get good repair estimates**. A kitchen repair mig
 
 Finally, **make sure you know your stress limits**. There’s a lot of opportunity in fixing and flipping a home, but it’s not without its headaches. Many times, these projects take longer than you think and end up costing more than you originally estimated, so your ability to deal with these kinds of variables is crucial.
 
-If you still want to go through with buying a fixer upper, don’t hesitate to give me a call so I can help you get started. If you have any other real estate needs, feel free to reach out to me as well. I look forward to speaking with you.
+If you still want to go through with buying a fixer-upper, don’t hesitate to give me a call so I can help you get started. If you have any other real estate needs, feel free to reach out to me as well. I look forward to speaking with you.
