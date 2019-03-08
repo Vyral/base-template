@@ -3,6 +3,7 @@ layout: post
 title: How Vanessa Pollock Has Built a Real Estate Business That Fulfills Her
 date: 2019-02-15 19:42:00
 tags:
+  - Agents Success Interview
 excerpt: >-
   I recently sat down for a great conversation with Vanessa Pollock. Here’s what
   we talked about.
