@@ -1,9 +1,8 @@
 ---
 layout: post
 title: How Vanessa Pollock Has Built a Real Estate Business That Fulfills Her
-date: 2019-03-08 19:42:42
+date: 2019-02-15 19:42:00
 tags:
-  - Agents Success Secrets
 excerpt: >-
   I recently sat down for a great conversation with Vanessa Pollock. Here’s what
   we talked about.
@@ -40,4 +39,4 @@ In the latest episode of Your Journey With Jennie, I sat down with Vanessa Pollo
 
 31:50- How to contact Vanessa if you or someone you know has any real estate needs in her area.
 
-Thanks again to Vanessa for joining me. If you have any questions for me in the meantime about anything we discussed here or anything else relating to your real estate career, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+Thanks again to Vanessa for joining me. If you have any questions for me in the meantime about anything we discussed here or anything else relating to your real estate career, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>
