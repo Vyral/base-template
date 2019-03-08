@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-mortgage-qa-youtube-1.jpg
-youtube_code: 'https://youtu.be/twZ8OBkynVg'
+youtube_code: 'https://youtu.be/fat90r20czA'
 ---
 
 {% include youtube.html %}
