@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Agent Success Secrets with Special Guest Anna Krueger
-date: 2019-03-08 18:02:27
+date: 2019-03-08 18:02:00
 tags:
-  - Agent's Success Interview
+  - Agents Success Interview
 excerpt: >-
   Anna Krueger has made great strides in her role as an inside sales agent. I
   sat down with her to talk about how she came so far in her career.
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-an-interview-with-an-isa-pro-youtube.jpg
-youtube_code:
+youtube_code: 'https://youtu.be/pgpWhS05TgI'
 ---
 
 {% include youtube.html %}
@@ -40,4 +40,4 @@ For your convenience, I’ve provided timestamps below so you can navigate the c
 
 Anna is doing an amazing job in her role and I’m so glad I could speak with her today. If you’d like to reach out to her to learn more from her expertise in the field, she can be reached via email at **[mapscoachanna@gmail.com](mailto:mapscoachanna@gmail.com)**, via Facebook in the group called ISAMastermindGroup, or also via the website <u><strong><a target="_blank" href="https://www.isamapscoaching.com/">www.isamapscoaching.com</a></strong></u>, where she has a number of recorded webinars available for viewing.
 
-If you have any questions for us at the Wolek Group, we always encourage you to reach out to us. We’d be glad to have a conversation with you.<br>&nbsp;
+If you have any questions for us at the Wolek Group, we always encourage you to reach out to us. We’d be glad to have a conversation with you.<br>
