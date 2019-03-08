@@ -17,7 +17,7 @@ youtube_code: Ikq9fjY0bv0
 
 {% include youtube.html %}
 
-Bad photography makes a bad first impression. Here’s how to avoid it.
+<p style="text-align: center;"><em>Bad photography makes a bad first impression. Here’s how to avoid it.</em></p>
 
 If you want to effectively sell your home, it’s incredibly important to have it staged. However, if you have bad photography that fails to showcase the wonderful qualities of your home, **people won’t exactly be lining up to see it in person.&nbsp;**
 
