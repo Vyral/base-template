@@ -21,13 +21,13 @@ youtube_code: 22TuTG-M2xI
 
 {% include youtube.html %}
 
-I have many homebuyers and sellers come to me with home valuations they found from Zillow and ask why a home’s value is much lower (or higher) than they anticipated. The truth is that these “Zestimates” are only a ballpark estimate and are usually off for a variety of reasons. Today we’ll be looking at why you should take Zestimates with a grain of salt.
+Many homebuyers and sellers come to me asking why Zillow's estimation of their home's value (aka their "Zestimate) is much lower (or higher) than they anticipated. The truth is that these “Zestimates” are only a ballpark estimate and are usually off for a variety of reasons. Today we’ll be looking at why you should take Zestimates with a grain of salt.
 
-**Zillow finds its Zestimates by using an algorithm that asks certain questions to find a value.** I put my own home in and it compared my subdivision to one nearby, even though these subdivisions are not comparable; Zillow was unable to differentiate between the two and it skewed the Zestimate.
+**Zillow calculates its Zestimates by using an algorithm that asks certain questions to find a value.** I put my own home in and it compared my subdivision to one nearby, even though these subdivisions are not comparable; Zillow was unable to differentiate between the two and it skewed the Zestimate.
 
 {% include pullquote.html %}
 
-Zestimates doesn’t always take into account any updates or remodeling that may have done to a home. Location can make a huge difference in the amount a home is bought or sold for, **but Zestimates don’t take this into account, either.**
+Zestimates don’t always take into account any updates or remodeling that may have been done to a home. Location can make a huge difference in the amount a home is bought or sold for, **but Zestimates don’t take this into account, either.**
 
 The best way to get a good estimate on your home is to enlist the help of a real estate professional. We conduct a market analysis, which takes everything about your house into consideration in order to give you an accurate valuation.
 
