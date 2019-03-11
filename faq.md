@@ -19,7 +19,7 @@ permalink: /faq/
 <p>We do all of the work!  We manage your VA caller, we monitor the campaigns, make adjustments to the campaigns in order to improve results, and pass qualified leads directly to you on a daily basis.</p>
 
 <p class="question">What does it cost to hire 1000 Calls A Day?</p>
-<p>There is a $1,495.00 set-up fee and the total monthly costs are approximately $1,850.00.  In addition to these fees, you are also responsible to provide your own data (contacts or prospects) for us to call on your behalf.  We do not sell or provide data, so there will be some additional fees for data purchases.</p>
+<p>There is a $1,995.00 set-up fee and the total monthly costs are approximately $1,850.00.  In addition to these fees, you are also responsible to provide your own data (contacts or prospects) for us to call on your behalf.  We do not sell or provide data, so there will be some additional fees for data purchases.</p>
 
 
 <p class="question">What is included for the set-up fee?</p>
