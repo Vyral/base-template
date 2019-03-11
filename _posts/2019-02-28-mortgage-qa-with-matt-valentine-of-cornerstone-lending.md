@@ -10,7 +10,8 @@ date: 2019-02-28 16:00:00
 excerpt: >-
   My good friend Matt Valentine from Cornerstone Lending joins me today for some
   Q&A regarding mortgages in today’s real estate market.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Chris+Gorman/Triangle+Area+Real+Estate-+Mortgage+Q%26A+with+Matt+Valentine.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
