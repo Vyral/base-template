@@ -36,9 +36,7 @@ Now, let’s take a look at the top center of the notice where it says “Author
 This is how the appeal process works step by step:&nbsp;
 
 1. You can go to the county assessor’s office and file the petition in person. Don’t forget to come with all documented evidence that supports your appeal. Once the petition is submitted, the assessor’s office has until August 15 to respond. If an agreement is reached, no further appeal is permitted.&nbsp;
-
 2. If you don’t agree with the assessor’s decision, you can go to the Board of Equalization and submit an appeal with them.
-
 3. From there, if you’re still not satisfied, your final recourse is with the Tax Court. Keep in mind that you’ll be responsible for upfront court fees. You must file your appeal to the court no later than 60 days after the Board of Equalization’s decision has been mailed to you.&nbsp;
 
 Links to some specific websites and the respective forms for this process are labeled below:&nbsp;
