@@ -18,7 +18,9 @@ youtube_code: cV-flexogow
 
 {% include youtube.html %}
 
-<center>If you’ve ever thought about investing in real estate, here’s what you’ll need to do first.</center>
+<center><em>If you&rsquo;ve ever thought about investing in real estate, here&rsquo;s what you&rsquo;ll need to do first.</em></center>
+
+&nbsp;
 
 Today I’ll be going over the three steps you need to take when beginning your real estate investment journey:
 
