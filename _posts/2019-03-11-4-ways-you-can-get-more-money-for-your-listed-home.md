@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Ways You Can Get More Money For Your Listed Home
-date:
+date: 2019-03-11 17:59:31
 tags:
   - Real Estate
 excerpt: >-
