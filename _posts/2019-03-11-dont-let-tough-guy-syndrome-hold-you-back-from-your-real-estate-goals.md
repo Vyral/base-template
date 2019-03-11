@@ -21,7 +21,7 @@ youtube_code: TJsHC0fucJg
 
 {% include youtube.html %}
 
-Don’t let Tough Guy Syndrome hold you back from succeeding in your real estate goals. Open yourself up to being more vulnerable, instead.
+<p style="text-align: center;"><em>Don’t let Tough Guy Syndrome hold you back from succeeding in your real estate goals. Open yourself up to being more vulnerable, instead.</em></p>
 
 It’s an unfortunate truth of the industry that sometimes agents have to let their clients go. This happened recently within my own team due to something I like to call “Tough Guy Syndrome.”&nbsp;
 
