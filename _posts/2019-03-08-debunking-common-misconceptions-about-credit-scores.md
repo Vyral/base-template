@@ -31,10 +31,10 @@ Second, you must also keep in mind the amount owed. If you’re constantly maxin
 
 {% include pullquote.html %}
 
-Moving on, **your score is also impacted by the length of your credit history.** Maintaining good financial habits over a longer period of time will have a greater positive influence on your score. Not only that, but the types of credit you hold will also play a part in your score. Credit card debt, auto debt, and any other credit lines you’ve got taken out will account for about 10% of your score.
+Moving on, **your score is also impacted by the length of your credit history.** Maintaining good financial habits over a longer period of time will have a greater positive influence on your score. Not only that, but the types of credit you hold will also play a part in your score. Credit card debt, auto debt, and any other credit lines you’ve taken out will account for about 10% of your score.
 
 The last 10% of your credit score will be determined by the frequency with which you make credit inquiries. As you’ve likely heard, having several credit inquiries in a short period of time can pose a detriment to your score. Less frequent credit inquiries, especially those that result in a new line of credit, however, will tend not to make as much of an impact.
 
-**Hopefully this has helped answer a few of the questions you might have had about the “hows” and “whys” of credit score.**
+**Hopefully this has helped answer a few of the questions you might have had about the “hows” and “whys” of your credit score.**
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
