@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Find an Agent With a Specialty
-date: 2019-03-08 16:05:05
+date: 2019-03-08 16:05:00
 tags:
   - Real Estate
 excerpt: >-
   Does your agent specialize in selling homes? If not, you may want to find one
   who does.
 enclosure:
-pullquote: 'If we don’t get it sold, we’ll buy it for a fair price ourselves.'
+pullquote: We specialize in residential real estate because it’s what we know best
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -18,7 +18,7 @@ youtube_code: yIW61H4CucM
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 We’re often asked if we sell commercial real estate and land in addition to residential real estate. The National Association of Realtors’ code of ethics policy tells us that Realtors should always tell you if they don’t specialize in certain fields. **Commercial, residential, and land sales are all different types of transactions, and only one is our specialty.**
 
