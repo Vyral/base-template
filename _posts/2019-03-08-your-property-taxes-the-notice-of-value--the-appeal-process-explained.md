@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Your Property Taxes, the Notice of Value, & the Appeal Process Explained'
-date: 2019-03-08 17:11:35
+date: 2019-03-08 17:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-ss-property-taxes-email.jpg
-youtube_code: 1LTtECug9Lc
+youtube_code: tIGFITKgPIA
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ In the top right corner of the notice, you’ll see the “parcel ID.” This is
 
 Below that, you’ll see the property’s assessed value—your taxes are based on this number. **If there’s been year-over-year appreciation on your property, you’ll see an uptick in your tax obligation.&nbsp;**
 
-On the second page, you’ll see a portion called “legal class.” Each class will have a number value assigned to it. For example, “3”, in our county, signifies a primary residence. The number “4” is used to classify an investment property, which means the taxes will likely go up.&nbsp;
+On the second page, you’ll see a portion called “legal class.” Each class will have a number value assigned to it. For example, the number “3" in our county signifies a primary residence, while the number “4” is used to classify an investment property, which means the taxes will likely go up.
 
 Now, let’s take a look at the top center of the notice where it says “Authorization code.” Those who want to receive this form via email in the future can input this code into the county website.&nbsp;
 
