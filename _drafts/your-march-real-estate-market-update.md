@@ -17,7 +17,7 @@ youtube_code: IUj6tmn4QcM
 
 {% include youtube.html %}
 
-What’s the latest in the Tracy area real estate market? Let’s take a look.
+<center>What’s the latest in the Tracy area real estate market? Let’s take a look.</center>
 
 Things are looking great in the Tracy, California real estate market.&nbsp;
 
