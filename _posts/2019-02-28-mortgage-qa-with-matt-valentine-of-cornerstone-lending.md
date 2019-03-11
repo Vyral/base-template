@@ -25,10 +25,9 @@ Matt Valentine from Cornerstone Lending is here today to help me answer a few ke
 
 **For your convenience, I have provided timestamps below so you can navigate our conversation in the video above at your leisure:**
 
-* 0:29—What are the pros and cons of working with an online lender versus a traditional lender?
+* 0:44—What are the pros and cons of working with an online lender versus a traditional lender?
 * 3:00—Besides interest rates, what is the most important thing to consider when picking a mortgage broker?
 * 4:00—What does an underwriter do?
-* 5:35—When it comes to purchasing new construction, why would someone go with the “in-house” lender?
-* 8:00—What’s going to happen to interest rates within the next year?
+* 5:15—What’s going to happen to interest rates within the next year?
 
 Hopefully you found this information valuable for your 2019 real estate goals. If you have any follow-up questions or questions about real estate in general, feel free to reach out to me. I’d love to help.
