@@ -21,11 +21,16 @@ client:
       phone: 801-403-8565
       email: scott@colemererealty.com
   about_markdown: >-
-    As a third generation, <strong>family-owned</strong> and operated real estate company, <strong>Colemere Realty Associates</strong> has a long history of working for the success of our clients.  Each member of our team is focused on providing <strong>the expertise of 3 generations in the real estate business.</strong>  We know that a real estate transaction can be very challenging and that is why we are committed to doing whatever it takes to make you completely satisfied.  
-    
-    As your REALTOR®</strong> we are <strong>committed to your success</strong> in the purchase and sale of your home and we promise you the full support, experience and expertise of our team.
+    As a third generation, **family-owned** and operated real estate company,
+    **Colemere Realty Associates** has a long history of working for the success
+    of our clients. Each member of our team is focused on providing **the
+    expertise of 3 generations in the business**. We know that a real estate
+    transaction can be very challenging which is why achieving your satisfaction
+    is our top priority.<br>As your **REALTOR&reg;**, we are **committed to your
+    success** in the purchase and sale of your home, and we promise you the full
+    support, experience, and expertise of our team.
   market: Wasatch Front
-  brand: Colemere Realty Associates, LLC
+  brand: 'Colemere Realty Associates, LLC'
   brokerage:
   address: '9661 S 700 E<br>Sandy, UT 84070'
   office_phone: 801-272-8192
