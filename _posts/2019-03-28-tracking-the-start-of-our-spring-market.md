@@ -19,14 +19,10 @@ youtube_code: 'https://youtu.be/HXQ8slQ_fcU'
 
 {% include youtube.html %}
 
-When does the spring market start? 
+When does the spring market start?&nbsp;
 
-**Normally, it starts once the Super Bowl ends.** After that, we usually see an influx of foot traffic, inquiries for the new listings, and sellers putting their homes on the market. This year, though, all the extra snow and sub-zero temperatures have slowed the flow of inventory we’d normally see.
+**Normally, the spring market starts around the time of SuperBowl.** After that, we usually see sellers begin to list their homes for sale, and we see an increase in buyer inquiries and more foot traffic through open houses. This year, however, the abundance of snow and weeks of sub-zero temperatures have slowed the flow of inventory we’d normally see coming onto the market in early spring.**&nbsp;**
 
 {% include pullquote.html %}
 
-**Last year, inventory was very low, but if the numbers are any indication, it’s shaping up to be even lower this year.** In Prior Lake, inventory was down 6% compared to the year before, while in Shakopee, inventory was down 1%. Over the past two years combined, though, Prior Lake’s inventory is down 13%, as is Shakopee’s. 
-
-We’re hopeful things will get moving once the weather turns warmer. This will help the buyers in our market, especially those looking under the $350,000 price point—that’s the pocket with the most demand, the least amount of inventory, and the most competition. 
-
-If you have any more questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to us. We’d love to help you. <br>
+**Last year, inventory was very low, but if the numbers are any indication, it’s shaping up to be even lower this year.** In Prior Lake in 2018, inventory was down 6% compared to the year before, while in Shakopee, inventory was down 1% during that same time period. &nbsp; When looking back over a two year period, these numbers are more even - Prior Lake’s inventory is down 13%, as is Shakopee’s.&nbsp;<br><br>We’re hopeful things will get moving with the improving weather. This will help the buyers in our market, especially those looking under the $350,000 price point—that’s the pocket with the most demand, the least amount of inventory, and the most buyer competition.&nbsp;<br><br>If you have any more questions about our local market, or if you’re thinking of buying or selling a home soon, don’t hesitate to reach out to us. We’d love to help you!&nbsp;
