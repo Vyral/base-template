@@ -25,7 +25,7 @@ Things are looking great in the Tracy, California real estate market.&nbsp;
 
 Though the Fed told us that interest rates would be rising, they actually decreased in the last month of February! On top of this, we’re seeing increased buyer confidence.
 
-There’s more inventory in our market now compared to this time last year, **so buyers aren’t having to make offers that are tens of thousands above asking price**. Simply put, the market is much more balanced than it was in the recent past.
+There’s more inventory in our market now compared to this time last year, **so buyers aren’t having to make offers that are tens of thousands of dollars above asking price**. Simply put, the market is much more balanced than it was in the recent past.
 
 {% include pullquote.html %}
 
