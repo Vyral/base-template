@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-11---ron-cedillo---yt.jpg
-youtube_code: IUj6tmn4QcM
+youtube_code: sCD8BdU93AM
 ---
 
 {% include youtube.html %}
