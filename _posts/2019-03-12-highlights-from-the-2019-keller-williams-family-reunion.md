@@ -17,7 +17,7 @@ youtube_code: 1Xdxwa-B3L8
 
 {% include youtube.html %}
 
-Please enjoy some highlights from our recent trip.
+<p style="text-align: center;"><em>Please enjoy some highlights from our recent trip.</em></p>
 
 We made it to the 2019 Keller Williams Family Reunion, and we wanted to share with you some highlights from our trip. Family Reunion is the industry’s most powerful training event.
 
