@@ -19,13 +19,19 @@ Pure Mutts is on her one-acre property, where dogs who need special attention re
 
 Her sanctuary is non-profit. Pure Mutts is funded through her real estate business, Woodlands Eco Realty, where 20 percent of her earnings go directly to care for sick dogs.
 
-<iframe width="476" height="267" src="https://www.youtube.com/embed/O_BCRoMlEUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="476" height="267" src="https://www.youtube.com/embed/O_BCRoMlEUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
 
 KPRC, NBC Ch. 2, Houston, Texas, Investigative reporter, Bill Spencer interviews credit card finance expert, Priyanka Johri. For more information about Priyanka Johri and Texas RE (Real Estate) Investment Group LLC, visit: www.WoodlandsEcoRealty.com
 
-<iframe width="476" height="267" src="https://www.youtube.com/embed/czpVXQpyZRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
 
-We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty.  Check out the interview for some great information on The Woodlands market!
+<iframe width="476" height="267" src="https://www.youtube.com/embed/czpVXQpyZRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+&nbsp;
+
+We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty. Check out the interview for some great information on The Woodlands market!
 
 ## **Newspaper and Magazine Articles:**
 
@@ -38,8 +44,6 @@ We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty.  Chec
 [Impact of Oil Prices on Home Values&nbsp;](https://www.woodlandsjournal.com/2016/04/07/how-low-oil-prices-impact-the-woodlands-real-estate-market/){: target="_blank"}
 
 ## Radio:&nbsp;
-
-##
 
 <iframe width="476" height="267" src="https://www.youtube.com/embed/jO9BiexAQVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
