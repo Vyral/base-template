@@ -1570,7 +1570,8 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  padding-top: 10rem; }
+  padding-top: 10rem;
+  height: 330px; }
 
 #hero {
   background-position: center;
@@ -1582,12 +1583,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 80rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.4));
-  filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.4)); }
+  -webkit-filter: drop-shadow(0px 2px 7px #eeeeee);
+  filter: drop-shadow(0px 2px 7px #eeeeee); }
 
 .site-title {
   color: #025b8e;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.4);
+  text-shadow: 0px 2px 7px #eeeeee;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -2040,7 +2041,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.4); }
+  text-shadow: 0px 2px 7px #eeeeee; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2055,7 +2056,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.4);
+  text-shadow: 0px 2px 7px #eeeeee;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2066,7 +2067,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(238, 238, 238, 0.4);
+  text-shadow: 0px 2px 7px #eeeeee;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2996,8 +2997,8 @@ form select {
   max-width: 80rem;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.4));
-  filter: drop-shadow(0px 2px 7px rgba(238, 238, 238, 0.4)); }
+  -webkit-filter: drop-shadow(0px 2px 7px #eeeeee);
+  filter: drop-shadow(0px 2px 7px #eeeeee); }
 
 .page-hero-img {
   background-position: center;
