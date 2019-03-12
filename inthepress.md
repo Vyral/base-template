@@ -19,6 +19,14 @@ Pure Mutts is on her one-acre property, where dogs who need special attention re
 
 Her sanctuary is non-profit. Pure Mutts is funded through her real estate business, Woodlands Eco Realty, where 20 percent of her earnings go directly to care for sick dogs.
 
+<iframe width="476" height="267" src="https://www.youtube.com/embed/O_BCRoMlEUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+KPRC, NBC Ch. 2, Houston, Texas, Investigative reporter, Bill Spencer interviews credit card finance expert, Priyanka Johri. For more information about Priyanka Johri and Texas RE (Real Estate) Investment Group LLC, visit: www.WoodlandsEcoRealty.com
+
+<iframe width="476" height="267" src="https://www.youtube.com/embed/czpVXQpyZRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty.  Check out the interview for some great information on The Woodlands market!
+
 ## **Newspaper and Magazine Articles:**
 
 [Local Business Woman Receives National "Good Neighbor Award"](http://fatcatwebproductions.com/ThePaper_2014/md-thenews/content/local-businesswoman-receives-special-national-volunteering-works-award){: target="_blank"}
