@@ -9,7 +9,6 @@ description: PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES
 
 ### **PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES**
 
-###
 
 <iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
 
@@ -21,12 +20,8 @@ Pure Mutts is on her one-acre property, where dogs who need special attention re
 
 Her sanctuary is non-profit. Pure Mutts is funded through her real estate business, Woodlands Eco Realty, where 20 percent of her earnings go directly to care for sick dogs.
 
-###
 
 <iframe width="476" height="267" src="https://www.youtube.com/embed/jO9BiexAQVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-###
-
 Priyanka Johri, Pure Mutts Animal Sanctuary & Woodlands Eco Realty on the Bill Knapik Radio Show
 
-###
