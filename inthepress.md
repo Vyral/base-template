@@ -45,7 +45,7 @@ We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty. Check
 
 [Impact of Oil Prices on Home Values&nbsp;](https://www.woodlandsjournal.com/2016/04/07/how-low-oil-prices-impact-the-woodlands-real-estate-market/){: target="_blank"}
 
-## **Radio:&nbsp;**
+## **Radio**
 
 <iframe width="476" height="267" src="https://www.youtube.com/embed/jO9BiexAQVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
