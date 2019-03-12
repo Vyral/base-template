@@ -9,7 +9,6 @@ description: PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES
 
 ### **PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES**
 
-
 <iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
 
 THE WOODLANDS, Texas (KTRK) – Priyanka Johri owns and operates the Pure Mutts Animal Sanctuary in The Woodlands area.
@@ -20,8 +19,20 @@ Pure Mutts is on her one-acre property, where dogs who need special attention re
 
 Her sanctuary is non-profit. Pure Mutts is funded through her real estate business, Woodlands Eco Realty, where 20 percent of her earnings go directly to care for sick dogs.
 
+## **Newspaper and Magazine Articles:**
+
+[Local Business Woman Receives National "Good Neighbor Award"](http://fatcatwebproductions.com/ThePaper_2014/md-thenews/content/local-businesswoman-receives-special-national-volunteering-works-award){: target="_blank"}
+
+[Local Realtor Puts Her Money Where Her Heart Is, Gives Back to The Community](https://www.woodlandsonline.com/npps/story.cfm?nppage=59572){: target="_blank"}
+
+[Generosity Breeds Loyalty: Meet the Real Estate Agent Whose Clients Come to Her](https://www.inman.com/2017/07/13/generosity-breeds-loyalty-meet-the-real-estate-agent-whose-clients-come-to-her/)
+
+[Impact of Oil Prices on Home Values&nbsp;](https://www.woodlandsjournal.com/2016/04/07/how-low-oil-prices-impact-the-woodlands-real-estate-market/){: target="_blank"}
+
+## Radio:&nbsp;
+
+##
 
 <iframe width="476" height="267" src="https://www.youtube.com/embed/jO9BiexAQVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 Priyanka Johri, Pure Mutts Animal Sanctuary & Woodlands Eco Realty on the Bill Knapik Radio Show
-
