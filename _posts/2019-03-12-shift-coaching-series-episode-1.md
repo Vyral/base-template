@@ -20,9 +20,7 @@ youtube_code: wUeYEBqQzGY
 
 {% include youtube.html %}
 
-&nbsp;
-
-In our new 12-part coaching video series, we’ll be covering how to deal with a shifting real estate market. When applied, the techniques we discuss will allow your business to thrive during a shift—or in any market, for that matter. ****For our first episode, we’ll be defining what a shift is.****
+In our new 12-part coaching video series, we’ll be covering how to deal with a shifting real estate market. When applied, the techniques we discuss will allow your business to thrive during a shift—or in any market, for that matter. **For our first episode, we’ll be defining what a shift is.**
 
 To put it bluntly, “shift happens.” Real estate has always been cyclical, and what goes up must come down. Fortunately, what is down will also come back up. These shifts occur when supply and demand move out of balance, and there are a few driving forces that cause this.
 
