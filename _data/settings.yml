@@ -21,15 +21,15 @@ client:
       phone: (801) 403-8565
       email: scott@colemererealty.com
   about_markdown: >-
-    As a third generation, <b>family-owned</b> and operated real estate company,
-    <b>Colemere Realty Associates</b> has a long history of working for the success
-    of our clients. Each member of our team is focused on providing <b>the
-    expertise of 3 generations in the business</b>. We know that a real estate
+    As a third generation, <strong>family-owned</strong> and operated real estate company,
+    <strong>Colemere Realty Associates</strong> has a long history of working for the success
+    of our clients. Each member of our team is focused on providing <strong>the
+    expertise of 3 generations in the business</strong>. We know that a real estate
     transaction can be very challenging which is why achieving your satisfaction
     is our top priority.
     
-    As your <b>REALTOR&reg;</b>, we are <b>committed to your
-    success</b> in the purchase and sale of your home, and we promise you the full
+    As your <strong>REALTOR&reg;</strong>, we are <strong>committed to your
+    success</strong> in the purchase and sale of your home, and we promise you the full
     support, experience, and expertise of our team.
   market: Wasatch Front
   brand: 'Colemere Realty Associates, LLC'
