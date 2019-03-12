@@ -11,7 +11,7 @@ description: PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES
 
 &nbsp;
 
-<iframe width="969" height="544" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="969" height="544" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 THE WOODLANDS, Texas (KTRK) – Priyanka Johri owns and operates the Pure Mutts Animal Sanctuary in The Woodlands area.
 
