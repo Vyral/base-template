@@ -1,6 +1,8 @@
+---
 layout: default
-title: In the Press
-permalink: /press/
+title: Press
+permalink: /inthepress/
+description: PRIYANKA JOHRI NEWS, MAGAZINE, and BLOG FEATURES
 ---
 
 <iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen></iframe>
