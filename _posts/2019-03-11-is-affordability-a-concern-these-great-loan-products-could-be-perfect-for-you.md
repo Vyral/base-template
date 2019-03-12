@@ -20,8 +20,6 @@ youtube_code: eWlunvx1rkc
 
 {% include youtube.html %}
 
-&nbsp;
-
 We’ve had a lot of buyers ask us lately about nontraditional loan programs. Many of these buyers were interested in programs that would allow them to submit a lower-than-average down payment and, thankfully, **there are plenty of options like this out there.**
 
 State Housing, for example, has a new conventional loan product that allows first-time and move-up buyers to put either 3% or 5% down. Traditional State Housing also offers $6,000 in down payment assistance for those who need some extra help.
@@ -32,6 +30,6 @@ And, of course, there’s always the standard conventional loan, which allows bu
 
 About 10 years ago, the lending industry greatly tightened its standards. This left many feeling uncertain as to whether they would be able to afford a home moving forward. However, as these three loan options prove, the homeownership dream is still well within reach, even for those with financial concerns.
 
-**If you’d like to apply for a mortgage with one of our great local lenders, Matt Mieras of CMG Financial, [you can click here](https://www.cmgfi.com/agents/matthew-mieras){: target="_blank"}**, or contact him by phone at (843) 670-5512 or by email at [mmieras@cmgfinancial.com](mailto:mmieras@cmgfinancial.com).
+**If you’d like to apply for a mortgage with one of our great local lenders, Matt Mieras of CMG Financial, [you can click here](https://www.cmgfi.com/agents/matthew-mieras){: target="_blank"}**, contact him by phone at (843) 670-5512, or email him at&nbsp;[mmieras@cmgfinancial.com](mailto:mmieras@cmgfinancial.com){: target="_blank"}
 
 And, as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
