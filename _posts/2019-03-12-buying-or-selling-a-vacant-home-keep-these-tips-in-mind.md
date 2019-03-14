@@ -23,7 +23,7 @@ youtube_code: 3M5W0VTOlwU
 
 <p style="text-align: center;"><em>What’s the key to buying or selling a vacant home? Allow us to share a few key points.</em></p>
 
-If you’re looking to buy or sell a vacant property, there are a few things you need must do to succeed.&nbsp;
+If you’re looking to buy or sell a vacant property, there are a few things you must do to succeed.&nbsp;
 
 **Let’s start with the steps sellers should take.**
 
