@@ -28,7 +28,7 @@ With more homes on the market and buyers who are pickier than ever, preparing yo
 
 **1. Get a mop with exchangeable covers and cleaning solution**. We purchased the $13 mop and the $6 covers at Home Depot. The Bona Professional hardwood floor cleaner was $18 for a 32-ounce spray bottle and the Bona Professional hardwood floor refresher was also $18 for a 32-ounce bottle—these were bought online from Amazon.
 
-<br>**2. Sweep the area and treat it.** You want to remove the floor of any dirt or particulates that would affect the refresher when it dries. Using the cleaner product, spray a small amount on the floor and use the mop to spread it evenly, following the grain of the wood. Follow the instructions, work backward toward the exit, and allow the product to dry completely.&nbsp;
+<br>**2. Sweep the area and treat it.** You want to remove the floor of any dirt or particles that would affect the refresher when it dries. Using the cleaner product, spray a small amount on the floor and use the mop to spread it evenly, following the grain of the wood. Follow the instructions, work backward toward the exit, and allow the product to dry completely.&nbsp;
 
 <br>**3. Exchange the mop cover and use the refresher.** After the floor has dried, place the new cover on the mop and lightly dampen it with water. Then, apply the refresher to the mop or directly on the floor in a small area. Use the mop and its new cover to spread the refresher evenly across the floor, again working with the grain and backward toward the exit. Remember to follow the bottle’s instructions. Wait one hour before you walk on it and two hours before applying a second coat, if required.
 
