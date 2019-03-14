@@ -19,7 +19,7 @@ youtube_code: opEfSxdrpW8
 
 {% include youtube.html %}
 
-Will a new construction home break the bank? Find out in today’s message.
+<p sty;e="text-align: center;"><em>Will a new construction home break the bank? Find out in today’s message.</em></p>
 
 Many people are enjoying new construction homes in today’s market. There’s a great selection of lots and land available for building sites, **but some potential buyers are concerned that it’s more expensive to build a new home than buy a pre-existing one.&nbsp;**
 
