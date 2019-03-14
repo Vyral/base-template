@@ -1,17 +1,15 @@
 audit_header: false
-title: 'KW Utah'
+title: KW Utah
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
   -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  # - title: Join Our Team
-  #   url: /contact/
   - title: Free Strategy Call
     url: /strategy-call/
   - title: Events
-    url: https://s3.amazonaws.com/vyralmarketing/Marcus+Green/Sept+2018.pdf
+    url: 'http://savvyagent.biz/calendar/'
   - title: Free Newsletter
     url: /subscribe/
 client:
@@ -120,7 +118,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: 'rgb(238, 238, 238)'
+  shadow_color: '#eeeeee'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
