@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m coming to you today from the beautiful Garden Island to discuss some of
   the current issues the community of Kauai faces.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Margolis/Kauai+Real+Estate-+The+State+Of+Tourism+In+Kauai.mp4
 pullquote: >-
   The new county government seems to be strongly focused on not only housing,
   but also on clamping down on the enforcement of illegal vacation rentals.
@@ -32,8 +33,8 @@ I don’t necessarily agree with that. However, the county strategy is to become
 
 **As we move further into 2019, we still have three relatively new projects**
 
-* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br>&nbsp;
-* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br>&nbsp;
+* Down the South Shore, the folks from Brookfield continue to build out PiliMai, which are some of the nicest, most modern condos that run along the Kiahuna Golf Course. The 2-bedroom units there are running in the $700s, and the 3-bedroom units run in the $800s.<br> 
+* On the east side, DR Horton continues to build out their project in Honolulu, which provides some of the most affordable housing on the island in terms of new construction. These large 3- and 4-bedroom homes are in the $500,000 range, though they’re on small lots.<br> 
 * On the North Shore, we have the North Shore Preserve, which is a swath of land owned by Jeff Stone and the Principal Corporation. These are spectacular lots with one-of-a-kind, mind-boggling views of Hanalei Bay and Valley High. They will be selling for between $5 million and $6 million.
 
 Overall, this last year was very successful for tourism. For those with vacation rentals, tourism revenue was up 9.2%, the highest level in 25 years on Kauai. However, this does create the problem of over-tourism; **there are more tourists here than our infrastructure can support.**
