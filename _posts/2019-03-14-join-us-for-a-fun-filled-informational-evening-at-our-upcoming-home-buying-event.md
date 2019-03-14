@@ -23,7 +23,7 @@ youtube_code: dRFaKvJlFvc
 
 {% include youtube.html %}
 
-If you’re even considering buying a home, then it’s time to clear your calendar for the date of our great upcoming home buying event.
+<p style="text-align: center;"><em>If you’re even considering buying a home, then it’s time to clear your calendar for the date of our great upcoming home buying event.</em></p>
 
 Are you thinking of buying a new home? If you’ve even considered it (especially if you’re paying rent right now), then this message is for you.&nbsp;
 
