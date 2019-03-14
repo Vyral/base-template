@@ -28,7 +28,7 @@ permalink: /pricing/
 
 <div class="content">
 <h3 class="heading">Monthly Outbound Prospecting</h3>
-<span class="price">$1,850.00/Per Month</span>
+<span class="price">$2,350.00/Per Month</span>
 <ul class="price-list">
 <li>Access to our entire staff of outbound calling experts </li>
 <li>Management of all your calling campaigns</li>
