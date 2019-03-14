@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/1n-7zSuKMww'
 
 Having grown up in the Tulsa area, I love the Philbrook Museum of Art. For those of you unfamiliar with this great Tulsa attraction, Scott and I had a chat that I would like to share with you today. **I have provided timestamps below so you can find out all about this local treasure.**
 
-3:05 – Some background history about the Philbrook Museum of Art<br>4:25 – Scott's favorite place in the museum.<br>5:30 – What Scott is most proud of at the Philbrook Museum.<br>6:55 – Upcoming shows and events.<br>8:00 – What it costs to visit the museum.
+3:05 – Some background history about the Philbrook Museum of Art<br>4:25 – Scott's favorite place in the museum<br>5:30 – What Scott is most proud of at the Philbrook Museum<br>6:55 – Upcoming shows and events<br>8:00 – What it costs to visit the museum
 
 You can find out more about upcoming exhibits at the Philbrook Museum as well as sign up for the member opening party for Mel Bochner by visiting <u><strong><a target="_blank" href="https://philbrook.org/">www.philbrook.org</a></strong></u>. And, to learn about upcoming events for all the members of your family, you can check out their events page, <u><strong><a target="_blank" href="https://philbrook.org/calendar/">here</a></strong></u>.&nbsp;
 
