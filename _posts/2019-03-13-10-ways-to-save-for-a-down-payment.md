@@ -1,11 +1,9 @@
 ---
 layout: post
-title: The 4 Key Trends Home Buyers and Sellers Should Watch in 2019
+title: 10 Ways to Save For a Down Payment
 date: 2019-03-13 15:27:00
 tags:
   - Real Estate
-  - Market Update
-  - Home Seller Tips
   - Home Buyer Tips
 excerpt: >-
   If you rent your home, you're paying someone else's mortgage! Buying a home is
@@ -54,4 +52,4 @@ Remember, buying a home isn’t easy, but it is one of the best long-term invest
 
 If you’re not sure if you can afford to buy a home, or how to begin planning for a down payment, please give me a call (717) 609-8265 or email at **<u><a href="mailto:Andrew@KronenbergREG.com">Andrew@KronenbergREG.com</a></u>**. I’d be happy to help you strategize…and that consultation won’t cost you a penny. **When the time comes that you’re ready, we’ll find the right house for you – one that meets your needs and fits your budget.**
 
-I'm here to help.
+I'm here to help!
