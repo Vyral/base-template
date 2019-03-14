@@ -8,7 +8,7 @@ excerpt: >-
   Don’t let Tough Guy Syndrome hold you back from succeeding in your real estate
   goals. Open yourself up to being more vulnerable, instead.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/SOI/2019/Albany+Real+Estate+Agent-+SOI-+Success+in+Real+Estate.mp4
+  https://s3.amazonaws.com/vyralmarketing/Kevin+Clancy/Coaching/2019/Albany+Real+Estate+Agent-+what+sets+me+apart_.mp4
 pullquote: >-
   Stepping outside of your comfort zone isn’t easy, but doing so is often the
   first step on the path to self-improvement.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: TJsHC0fucJg
+youtube_code: fsBh8C14w4w
 ---
 
 {% include youtube.html %}
