@@ -19,7 +19,7 @@ youtube_code: ot7KI_e6K2g
 
 {% include youtube.html %}
 
-Now that we’re well into the new year, let’s take a look at how our real estate market performed in 2018.
+<p style="text-align: center;"><em>Now that we’re well into the new year, let’s take a look at how our real estate market performed in 2018.</em></p>
 
 Now that we’re well into the new year, it’s time to take a look back at how our local real estate market performed, overall, in 2018.
 
