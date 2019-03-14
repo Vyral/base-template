@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worried About Selling in a Shifting Market? Try These 5 Strategies
-date:
+date: 2019-03-14 20:07:25
 tags:
   - Home Seller Tips
 excerpt: >-
