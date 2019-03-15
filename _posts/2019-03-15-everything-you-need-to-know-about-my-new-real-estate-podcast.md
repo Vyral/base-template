@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Everything You Need to Know About My New Real Estate Podcast
-date: 2018-12-04 00:00:00
+date: 2019-03-15 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
