@@ -19,7 +19,7 @@ youtube_code: 81pq4wbR7b8
 
 {% include youtube.html %}
 
-What can you do save time and money when it comes time to sell your home? A pre-listing inspection is a great first step.
+<p style="text-align: center;"><em>What can you do save time and money when it comes time to sell your home? A pre-listing inspection is a great first step.</em></p>
 
 I was recently joined by Kris Brown from Five Star Home Inspections to talk about the great benefits of getting a home inspection done before you put your home on the market for sale.
 
