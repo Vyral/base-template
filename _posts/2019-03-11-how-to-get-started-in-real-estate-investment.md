@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’ve ever thought about investing in real estate, here’s what you’ll need
   to do first.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kevin+Langan/Videos/Phoenix+Real+Estate+Agent+-+How+to+Get+Started+in+Real+Estate+Investment.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: cV-flexogow
 
 <center><em>If you&rsquo;ve ever thought about investing in real estate, here&rsquo;s what you&rsquo;ll need to do first.</em></center>
 
-&nbsp;
+ 
 
 Today I’ll be going over the three steps you need to take when beginning your real estate investment journey:
 
