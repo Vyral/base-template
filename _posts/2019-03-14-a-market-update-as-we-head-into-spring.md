@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Market Update as We Head Into Spring
-date: 2019-03-14 16:57:38
+date: 2019-03-14 16:57:00
 tags:
   - Real Estate
   - Market Update
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: fQlc8TrLEHA
+youtube_code: 3SzadIkQtGM
 ---
 
 {% include youtube.html %}
