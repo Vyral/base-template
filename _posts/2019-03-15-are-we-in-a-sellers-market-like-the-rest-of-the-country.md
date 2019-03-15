@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We in a Seller’s Market Like the Rest of the Country?
-date: 2019-02-08 17:31:28
+date: 2019-03-15 08:00:00
 tags:
   - Real Estate
 excerpt:
