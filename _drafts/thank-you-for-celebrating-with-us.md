@@ -12,6 +12,9 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
+
+We’d like to extend our thanks to those that joined us for our Founders Day celebration.
 
 {% include pullquote.html %}
