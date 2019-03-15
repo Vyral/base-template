@@ -4,10 +4,11 @@ title: Are We in a Seller’s Market Like the Rest of the Country?
 date: 2019-03-15 08:00:00
 tags:
   - Real Estate
-excerpt:
-enclosure: >-
-  Unlike the rest of the country, we’re in a strong buyer’s market here in
-  Houston. Here’s why.
+excerpt: >-
+  While the rest of the country is transitioning from a strong seller’s market
+  into more of a balanced market, this trend doesn’t apply to our Houston
+  marketplace.
+enclosure:
 pullquote: >-
   The oil market is a lot like the real estate market—it rises and falls just
   like home prices do.
