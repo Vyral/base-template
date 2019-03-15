@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   We’ve created a mastermind event that will help us grow relationships with
   other business owners and bolster our database, and you can do the same thing.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+Create+a+Network+through+Business+Owner+Masterminds.mp4
 pullquote: A wonderful network united before us.
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,8 +24,8 @@ We’ve implemented something new in our business that will help us grow relatio
 
 {% include pullquote.html %}
 
-We invited people we know—database members, vendors, partners, colleagues, and essentially all types of business owners—to a mastermind session. While attendees enjoyed food and drinks, we were able to go around the room and have everyone introduce themselves, say what they’re good at, and also share what they struggle with.&nbsp;
+We invited people we know—database members, vendors, partners, colleagues, and essentially all types of business owners—to a mastermind session. While attendees enjoyed food and drinks, we were able to go around the room and have everyone introduce themselves, say what they’re good at, and also share what they struggle with. 
 
 Everyone worked together and shared brilliant ideas, and a wonderful network united before us. **By implementing your own BOSS event, you’ll be able to add value, give back, meet people, and share and learn new ideas.**
 
-If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you soon.<br>&nbsp;
+If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you soon.<br>
