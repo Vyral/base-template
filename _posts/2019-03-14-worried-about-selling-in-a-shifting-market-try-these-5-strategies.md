@@ -33,6 +33,6 @@ During the last five to seven years, homes were selling quickly and for top doll
 
 **4. Consider using a reverse offer.** If your property has been shown to a qualified, motivated buyer, submitting a reverse offer could be a good idea.&nbsp;
 
-**5. Consider offering buyer concessions to trigger an offer.** Paying six months’ to one years’ worth of taxes, paying for the buyer’s closing costs, or offering some other concession may be the final push you need to get your home sold.&nbsp;
+**5. Consider offering buyer concessions to trigger an offer.** Paying six months’ to one year's worth of taxes, paying for the buyer’s closing costs, or offering some other concession may be the final push you need to get your home sold.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
