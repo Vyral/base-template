@@ -19,7 +19,7 @@ youtube_code: RJAxyuH1nYk
 
 {% include youtube.html %}
 
-Interest rates have dropped recently, and today we’ll share how this welcome change may impact your real estate goals.
+<p style="text-align: center;"><em>Interest rates have dropped recently, and today we’ll share how this welcome change may impact your real estate goals.</em></p>
 
 This is a welcome bit of relief: Over the past two months, mortgage rates, which had been climbing steadily for over a year, started to trend down.
 
