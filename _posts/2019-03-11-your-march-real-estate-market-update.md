@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: What’s the latest in the Tracy area real estate market? Let’s take a look.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+Your+March+Real+Estate+Market+Update.mp4
 pullquote: The market is much more balanced than it was in the recent past.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,9 +20,9 @@ youtube_code: sCD8BdU93AM
 
 <center><em>What&rsquo;s the latest in the Tracy area real estate market? Let&rsquo;s take a look.</em></center>
 
-&nbsp;
+ 
 
-Things are looking great in the Tracy, California real estate market.&nbsp;
+Things are looking great in the Tracy, California real estate market. 
 
 Though the Fed told us that interest rates would be rising, they actually decreased in the last month of February! On top of this, we’re seeing increased buyer confidence.
 
