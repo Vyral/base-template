@@ -3,6 +3,7 @@ layout: post
 title: Thank You For Celebrating With Us
 date:
 tags:
+  - Real Estate
 excerpt: >-
   We’d like to extend our thanks to those that joined us for our Founders Day
   celebration.
