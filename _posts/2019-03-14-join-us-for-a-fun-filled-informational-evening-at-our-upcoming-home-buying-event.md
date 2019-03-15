@@ -25,8 +25,9 @@ youtube_code: dRFaKvJlFvc
 
 <p style="text-align: center;"><em>If you’re even considering buying a home, then it’s time to clear your calendar for the date of our great upcoming home buying event.</em></p>
 
-<div style="text-align: center; font-size: 16px;"><strong><em>To register for our March home buying seminar in West Palm, <a href="https://www.eventbrite.com/e/how-to-buy-a-home-with-little-to-no-money-down-event-tickets-57818796577" target="_blank">CLICK HERE</a></em></strong></div>
+<div style="text-align: center; font-size: 18px;"><strong><em>To register for our March home buying seminar in West Palm, <a href="https://www.eventbrite.com/e/how-to-buy-a-home-with-little-to-no-money-down-event-tickets-57818796577" target="_blank">CLICK HERE</a></em></strong></div>
 <div style="text-align: center; font-size: 18px;"><strong><em>Or, to register for our April home buying seminar in Orlando, <a href="https://www.eventbrite.com/e/how-to-buy-a-home-with-little-to-no-money-down-event-tickets-57838227696" target="_blank">CLICK HERE</a></em></strong></div>
+<center>&nbsp;</center>
 
 Are you thinking of buying a new home? If you’ve even considered it (especially if you’re paying rent right now), then this message is for you.&nbsp;
 
