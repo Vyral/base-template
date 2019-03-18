@@ -18,7 +18,7 @@ youtube_code: AfJBr6guTi8
 
 {% include youtube.html %}
 
-The property you currently reside in can actually aid you in your future property investment purchases. Here’s how.
+<center>The property you currently reside in can actually aid you in your future property investment purchases. Here’s how.</center>
 
 Real estate investing is something we’re passionate about and that we like to help people do, so today we’ll offer advice on how you can leverage your personal residence to purchase other investment properties.
 
