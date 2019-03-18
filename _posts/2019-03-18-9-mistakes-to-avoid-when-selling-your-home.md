@@ -17,7 +17,7 @@ youtube_code: KL_XjK8Fh0s
 
 {% include youtube.html %}
 
-Don’t make these mistakes during your next home sale! Here’s what to avoid.
+<p style="text-align: center;"><em>Don’t make these mistakes during your next home sale! Here’s what to avoid.</em></p>
 
 The selling season is here, and for the next several videos, we’ll be covering topics about how to effectively sell your home. Today we’ll be looking at the top nine mistakes you should avoid making during a home sale:
 
