@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Leverage the Power of Demonstration
-date: 2019-03-12 19:42:27
+date: 2019-03-18 07:42:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jK36AAs0kj8
+youtube_code: vB7y05h-UZI
 ---
 
 {% include youtube.html %}
