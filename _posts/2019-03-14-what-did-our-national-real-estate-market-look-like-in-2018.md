@@ -29,9 +29,9 @@ Also, 12% of home sales were multi-generational. This includes adult children wi
 
 {% include pullquote.html %}
 
-**Of all homes sold, 86% were resale properties and 14% were new construction.** Meanwhile, 82% of buyers bought single-family homes while the remaining 18% purchased townhomes or condos. The national median home sale saw an average sales price of $250,000, an average square footage of 1,900 square feet, and &nbsp;three bedrooms and two bathrooms on average.&nbsp;
+**Of all homes sold, 86% were resale properties and 14% were new construction.** Meanwhile, 82% of buyers bought single-family homes while the remaining 18% purchased townhomes or condos. The national median home sale saw an average sales price of $250,000, an average square footage of 1,900 square feet, and three bedrooms and two bathrooms on average.&nbsp;
 
-Various forms of debt, namely student loan debt, credit card debt, and car loan debt, all posed a major obstacle for would-be buyers in 2018.&nbsp;
+Various forms of debt&#151;namely student loan debt, credit card debt, and car loan debt&#151;all posed a major obstacle for would-be buyers in 2018.&nbsp;
 
 And, lastly, narrowing our scope to the statewide level, I found it interesting to discover that there is one real estate agent for every 168 people here in Montana.
 
