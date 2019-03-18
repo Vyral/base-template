@@ -36,3 +36,7 @@ Get rid of the personal flairs throughout the house. Remove family photos, your 
 Make the finishing touches by cleaning windows, opening blinds, keeping animals out during showings, removing prints and patterns, and removing any foul odors from the home.
 
 By using these cost-effective methods, you’ll be able to position your home as a great option for buyers. If you have any questions, need more information, or would like to learn other ways to get your home ready, feel free to reach out to me. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
