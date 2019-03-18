@@ -22,6 +22,6 @@ youtube_code: efTglAA-4_4
 
 &nbsp;
 
-Today, we wanted to send you a quick message thanking all those who helped us celebrate 66 years of business. We wouldn’t be here without your help and support. Additionally, we wanted to let you know that we will be hosting another event this summer. This will be a barbecue for you, your family, and your friends! More information on this will be released at a later date.
+Today we wanted to send you a quick message thanking all those who helped us celebrate 66 years of business at our recent Founders Day event. We wouldn’t be here without your help and support. Additionally, we wanted to let you know that we will be hosting another event this summer. This will be a barbecue for you, your family, and your friends! More information on this will be released at a later date.
 
 If you have any questions for us in the meantime, don’t hesitate to reach out to us. We’d love to speak with you.
