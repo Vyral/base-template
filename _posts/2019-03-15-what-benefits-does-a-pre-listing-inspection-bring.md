@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Benefits Does a Pre-Listing Inspection Bring?
+title: What Are the Benefits of Doing a Pre-Listing Inspection?
 date: 2019-03-15 15:13:26
 tags:
   - Home Seller Tips
