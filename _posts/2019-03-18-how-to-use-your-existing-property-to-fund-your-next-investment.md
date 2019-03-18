@@ -22,11 +22,11 @@ youtube_code: AfJBr6guTi8
 
 <center><em>The property you currently reside in can actually aid you in your future property investment purchases. Here&rsquo;s how.</em></center>
 
- 
+&nbsp;
 
 Real estate investing is something we’re passionate about and that we like to help people do, so today we’ll offer advice on how you can leverage your personal residence to purchase other investment properties.
 
-Don’t forget to first refer back to our past content on the steps to finding the right property. From there, you can use the equity in your existing property to open a home equity line of credit. **This line of credit can then be applied toward your down payment for your next property**.
+Don’t forget to first refer back to our past content on the [steps to finding the right property](https://mdrealestateupdate.com/build-wealth-as-an-investor-by-following-these-7-steps.html){: target="_blank"}. From there, you can use the equity in your existing property to open a home equity line of credit. **This line of credit can then be applied toward your down payment for your next property**.
 
 Next, you’ll be in touch with a hard money lender. Financing through this type of lender is often in the form of higher-interest loans, but it’s important to **bear in mind that this is a temporary solution to help you get into the property quickly**.
 
