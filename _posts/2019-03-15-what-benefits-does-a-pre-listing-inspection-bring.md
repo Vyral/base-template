@@ -23,7 +23,7 @@ youtube_code: 81pq4wbR7b8
 
 I was recently joined by Kris Brown from Five Star Home Inspections to talk about the great benefits of getting a home inspection done before you put your home on the market for sale.
 
-There are a lot of benefits to doing this pre-listing inspection. **The three key benefits are:**
+According to Kris, there are three key benefits that home sellers should pay attention to:
 
 **1. It saves time.** You will have plenty of time to research, compare, and find the best service providers to help you make repairs before you get your home listed.
 
