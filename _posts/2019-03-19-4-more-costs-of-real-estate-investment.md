@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 More Costs of Real Estate Investment
-date: 2019-03-19 15:11:18
+date: 2019-03-19 15:11:00
 tags:
   - Real Estate
 excerpt: Here are four more costs you’ll have when you buy an investment property.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: =PCLsAviaLUo
+youtube_code: v=PCLsAviaLUo
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 We previously shared three costs of buying an investment property, and we’re back today with some more. **Here are four more costs you’ll need to keep in mind when you invest in real estate:**
 
