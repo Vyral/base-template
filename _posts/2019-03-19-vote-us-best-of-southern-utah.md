@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Free Spring Selling Guides (no personal info required)!
+title: Free Spring Guides (no personal info required)!
 date: 2019-03-19 16:31:38
 tags:
 excerpt:
