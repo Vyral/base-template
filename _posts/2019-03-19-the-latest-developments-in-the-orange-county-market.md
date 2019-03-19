@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Developments in the Orange County Market
-date:
+date: 2019-03-19 16:40:06
 tags:
 excerpt: What’s going on in our current market? Find out in today’s update.
 enclosure: >-
