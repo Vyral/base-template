@@ -21,9 +21,9 @@ youtube_code: iptTKgmTdJc
 
 {% include youtube.html %}
 
- 
+&nbsp;
 
-Nowadays, more and people are freelancing, working multiple part-time positions, and even working from home. When it’s time to purchase a home, however, it may seem impossible to do while maintaining a flexible work lifestyle. **Fortunately, there are three simple ways to ensure your home buying dreams can still come true:**
+Nowadays, more and more people are freelancing, working multiple part-time jobs, and even working from home. When it’s time to purchase a home, however, it may seem impossible to do so while maintaining a flexible work lifestyle. **Fortunately, there are three simple ways to ensure your home buying dreams can still come true:**
 
 **1. Organize relevant documents.** Gather your bank statements, pay stubs, proof of employment, and references. Getting your life on paper is key to getting approval from your mortgage lender.
 
