@@ -18,9 +18,11 @@ youtube_code: xNIj35dfJRE
 
 {% include youtube.html %}
 
-<center>Your monthly mortgage payment includes a few different costs. Here’s how they break down.</center>
+<center><em>Your monthly mortgage payment includes a few different costs. Here&rsquo;s how they break down.</em></center>
 
-Today we’re going to talk to you about what exactly is included in your monthly mortgage payment.&nbsp;
+&nbsp;
+
+Today we’re going to talk to you about what exactly is included in your monthly mortgage payment.
 
 When you pay rent, you’re essentially paying all interest every single month because you don’t own the property. **When you do own a property, your monthly mortgage payment can be thought of in four categories that make up an acronym: PITI**.
 
