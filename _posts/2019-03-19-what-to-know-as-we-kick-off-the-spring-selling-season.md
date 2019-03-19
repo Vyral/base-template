@@ -19,7 +19,9 @@ youtube_code: jMD-oz4RRW8
 
 {% include youtube.html %}
 
-<center>Where are things headed in our real estate market as spring begins? Keep reading to find out.</center>
+<center><em>Where are things headed in our real estate market as spring begins? Keep reading to find out.</em></center>
+
+&nbsp;
 
 Today we’re going to give you a bit of a recap on the first quarter of the year and what to expect as we move into spring and summer.
 
