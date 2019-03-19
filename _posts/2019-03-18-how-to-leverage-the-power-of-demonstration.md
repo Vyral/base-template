@@ -22,7 +22,7 @@ youtube_code: vB7y05h-UZI
 
 What is the power of demonstration?
 
-I could think of a few real-world examples. Imagine the last late-night infomercial you might have seen, or an episode of “Shark Tank.” I recently saw a commercial on ESPN about flex tape where a guy cut a hole in a boat, sealed it with the tape, and drove it over shark-infested waters just to show how strong the tape was. That’s an extreme example, but you get the point.
+I could think of a few real-world examples. Imagine the last late-night infomercial you might have seen, or an episode of “Shark Tank.” I recently saw a commercial on ESPN about Flex Tape where a guy cut a hole in a boat, sealed it with the tape, and drove it over shark-infested waters just to show how strong the tape was. That’s an extreme example, but you get the point.
 
 What does the power of demonstration mean when it comes to real estate? Where can you leverage the power of demonstration? Here are several examples my team uses:
 
