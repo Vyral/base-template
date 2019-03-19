@@ -18,8 +18,6 @@ youtube_code: SHePqwheKAw
 
 {% include youtube.html %}
 
-&nbsp;
-
 With the onset of Daylight Saving Time, the times have changed, and so has the spring market.
 
 There are currently 44% more homes on the market than there were last year at this same time, increasing from 4,420 to over 6,000 homes. Overall, demand for housing has picked up, rising 91%.
@@ -31,8 +29,6 @@ What does this mean for you?
 **For buyers, it means you have 10% more buying power than you did just four months ago.**
 
 {% include pullquote.html %}
-
-&nbsp;
 
 **For sellers, it means that your home is a little more marketable and, more importantly, more affordable to potential buyers at the same time.**
 
