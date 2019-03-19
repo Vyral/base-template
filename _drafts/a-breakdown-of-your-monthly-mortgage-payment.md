@@ -18,7 +18,7 @@ youtube_code: xNIj35dfJRE
 
 {% include youtube.html %}
 
-Your monthly mortgage payment includes a few different costs. Here’s how they break down.
+<center>Your monthly mortgage payment includes a few different costs. Here’s how they break down.</center>
 
 Today we’re going to talk to you about what exactly is included in your monthly mortgage payment.&nbsp;
 
