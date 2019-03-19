@@ -33,8 +33,7 @@ youtube_code:
 </td> </tr> </tbody>
 
 <tbody><tr><td valign="top"><tbody><tr> <td class="e2ma-image-td" style="text-align: center; padding: 10px 167px 10px 167px; " valign="top"> <a href="https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/2019/Millenial+Guide.pdf" style="font-weight: normal;font-weight: normal;color: #4dc8da;text-decoration: underline" target="_blank"> <img alt="Millenial's Guide" border="0" height="252" style="display: block" width="280" src="http://d31hzlhk6di2h5.cloudfront.net/20190314/bd/80/63/dc/2dcd0b0c5ba65441fb495158_560x504.png" /> </a> </td> </tr></tbody></td></tr> </tbody>
-&nbsp;
-
+<center>&nbsp;</center>
 <tbody><tr> <td class="e2ma-holder" style="padding: 0 17px 0 17px" valign="top"> <div class="e2ma-content-block"> <div class="e2ma-p-div" style="display: block;margin-bottom: 10px;font-size: 12px;line-height: 1.5;font-weight: normal;font-family: Arial, Helvetica, sans-serif;font-size: 13px;color: #333;line-height: 24px"><span style="font-family: Arial, sans-serif; font-size: 12pt; color: rgb(51, 51, 51)">As always, the downloads are FREE and require no personal info. You’re welcome<img alt="😊" class="CToWUd" height="24px" src="https://mail.google.com/mail/e/1f60a" width="24px" />.<br />
 Finally, voting for the “Best of Southern Utah” ends tomorrow. We have to ask one…more…time. If you have 10 seconds to spare,&nbsp;<b>please vote by clicking on the image below!&nbsp;</b>No personal info required here either.<br />
 </span>
