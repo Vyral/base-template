@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’d like to extend our thanks to those that joined us for our Founders Day
   celebration.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Thank+You+For+Celebrating+With+Us.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: efTglAA-4_4
 
 <center><em>We&rsquo;d like to extend our thanks to those that joined us for our Founders Day celebration.</em></center>
 
-&nbsp;
+ 
 
 Today we wanted to send you a quick message thanking all those who helped us celebrate 66 years of business at our recent Founders Day event. We wouldn’t be here without your help and support. Additionally, we wanted to let you know that we will be hosting another event this summer. This will be a barbecue for you, your family, and your friends! More information on this will be released at a later date.
 
