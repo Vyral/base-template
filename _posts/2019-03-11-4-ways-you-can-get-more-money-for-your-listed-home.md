@@ -5,7 +5,7 @@ date: 2019-03-11 17:59:00
 tags:
   - Real Estate
 excerpt: >-
-  oday I’ll share four ways that you can boost your home’s value when it comes
+  Today I’ll share four ways that you can boost your home’s value when it comes
   time to put it on the market this spring.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Celeste+Zarling/Kirkland+Real+Estate+Agent-+4+Ways+You+Can+Get+More+Money+For+Your+Listed+Home.mp4
