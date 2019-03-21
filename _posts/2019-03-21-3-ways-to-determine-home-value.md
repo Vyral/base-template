@@ -18,10 +18,6 @@ youtube_code: HgduRhQpX3I
 
 {% include youtube.html %}
 
-&nbsp;
-
-&nbsp;
-
 If you want to find out how much your home is worth, there are three different ways you can determine its value:
 
 1. **Use an online valuation.** This method will give you a very general understanding of what your home is worth. In other words, don’t expect the value to be exactly on the mark. Online valuations are simply a starting place—not a final assessment.
