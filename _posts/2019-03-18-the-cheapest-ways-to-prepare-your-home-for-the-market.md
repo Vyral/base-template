@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Cheapest Ways to Prepare Your Home for the Market
-date: 2019-03-18 21:05:35
+date: 2019-03-18 21:05:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/cheapest-way-to-prep-home-youtube.jpg
-youtube_code: GwQGZ8pph8g
+youtube_code: b8cMH7wwKsg
 ---
 
 {% include youtube.html %}
@@ -29,9 +29,9 @@ Fortunately, you can prepare your home to sell without blowing all your money. I
 
 {% include pullquote.html %}
 
-Next, you’ll need to declutter your home. Instead of paying someone to organize or declutter for you, look around at what needs to go. Keep no more than a couple items on any counter, surface, or table. Everything else needs to be packed up and hidden away.&nbsp;
+Next, you’ll need to declutter your home. Instead of paying someone to organize or declutter for you, look around at what needs to go. Keep no more than a couple items on any counter, surface, or table. Everything else needs to be packed up and hidden away. 
 
-Get rid of the personal flairs throughout the house. Remove family photos, your awards, books, and anything else that directs the focus onto you.&nbsp;
+Get rid of the personal flairs throughout the house. Remove family photos, your awards, books, and anything else that directs the focus onto you. 
 
 Make the finishing touches by cleaning windows, opening blinds, keeping animals out during showings, removing prints and patterns, and removing any foul odors from the home.
 
