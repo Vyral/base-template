@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your San Diego Real Estate Market Update
-date: 2019-02-26 19:08:37
+date: 2019-02-26 19:08:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/2-26-market-update-np.jpg
-youtube_code: 6Ty2kbMNqfk
+youtube_code: mNTTJTfQWvk
 ---
 
 {% include youtube.html %}
