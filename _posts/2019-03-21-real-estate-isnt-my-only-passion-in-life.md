@@ -13,7 +13,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}
+<iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen></iframe>
 
 &nbsp;
 
