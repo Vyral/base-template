@@ -1,11 +1,18 @@
 ---
 layout: post
 title: Real Estate Isn’t My Only Passion in Life
-date: 2019-03-21 20:49:48
+date: 2019-03-21 20:49:00
 tags:
-excerpt:
+  - Real Estate
+excerpt: >-
+  Real estate is one of my passions in life, but it’s not my only one. When I
+  started, it was just supposed to be temporary. But 10 years later, this is the
+  best thing that could have happened to me. It has allowed me to take my
+  passion for my business and use that to enrich the other passions in my life.
+  Thanks to all of your support, I’ve been able to help so many different,
+  wonderful dogs.
 enclosure:
-pullquote:
+pullquote: '10 years later, this is the best thing that could have happened to me.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -13,9 +20,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-<iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen></iframe>
-
-&nbsp;
+<iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
 
 Real estate is one of my passions in life, but it’s not my only one. When I started, it was just supposed to be temporary. But 10 years later, this is the best thing that could have happened to me. It has allowed me to take my passion for my business and use that to enrich the other passions in my life. Thanks to all of your support, I’ve been able to help so many different, wonderful dogs.
 
