@@ -18,8 +18,6 @@ youtube_code: XqibKwPDrTo
 
 {% include youtube.html %}
 
-&nbsp;
-
 Many homes in eastern North Carolina were damaged by last year’s storms, **so it’s more important than ever to have a plan in place when dealing with inspection reports and repairs.** Inspectors can be incredibly specific when making their reports, and buyers sometimes ask the seller to take care of every last item—no matter how unreasonable they are.
 
 Asking this of the seller leads to a lot of negotiation, as the list then has to be gone over point by point. Once the buyer has made a decision of what they want repaired, they then choose how they want to address them.
