@@ -20,7 +20,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-<iframe width="476" height="267" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="367" height="652" src="https://abc13.com/video/embed/?pid=5163765" frameborder="0" allowfullscreen=""></iframe>
 
 Real estate is one of my passions in life, but it’s not my only one. When I started, it was just supposed to be temporary. But 10 years later, this is the best thing that could have happened to me. It has allowed me to take my passion for my business and use that to enrich the other passions in my life. Thanks to all of your support, I’ve been able to help so many different, wonderful dogs.
 
