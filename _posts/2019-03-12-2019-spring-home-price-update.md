@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: http://www.gostgeorge.com/Property/785-N-Laguna-Lane-Washington-Utah/Images/Index/944370/0/m
 youtube_code:
 ---
 
