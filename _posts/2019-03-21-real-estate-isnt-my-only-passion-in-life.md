@@ -4,7 +4,9 @@ title: Real Estate Isn’t My Only Passion in Life
 date: 2019-03-21 20:49:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  I have a passion for helping rescue dogs. Learn more about it from my recent
+  appearance on the news.
 enclosure:
 pullquote: >-
   It wasn’t about how many dogs I could rescue. It was about the quality of life
