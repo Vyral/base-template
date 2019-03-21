@@ -8,7 +8,7 @@ excerpt: >-
   Now that we’re well into the new year, let’s take a look at how our real
   estate market performed in 2018.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+market+trends+3.8.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+market+trends.mp4
 pullquote: Various forms of debt posed a major obstacle for would-be buyers in 2018.
 enclosure_type: video/mp4
 enclosure_time:
