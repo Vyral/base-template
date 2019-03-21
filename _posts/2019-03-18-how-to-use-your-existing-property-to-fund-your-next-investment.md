@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The property you currently reside in can actually aid you in your future
   property investment purchases. Here’s how.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Carroll+County+Real+Estate+-+How+to+Use+Your+Existing+Property+to+Fund+Your+Next+Investment.mp4
 pullquote: >-
   It’s important to bear in mind that this is a temporary solution to help you
   get into the property quickly.
@@ -22,7 +23,7 @@ youtube_code: AfJBr6guTi8
 
 <center><em>The property you currently reside in can actually aid you in your future property investment purchases. Here&rsquo;s how.</em></center>
 
-&nbsp;
+ 
 
 Real estate investing is something we’re passionate about and that we like to help people do, so today we’ll offer advice on how you can leverage your personal residence to purchase other investment properties.
 
