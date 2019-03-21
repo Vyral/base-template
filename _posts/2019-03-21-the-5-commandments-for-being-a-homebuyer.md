@@ -26,7 +26,7 @@ Here are the five commandments you need to follow if you’re buying a home:&nbs
 
 **2. Don’t make any large deposits into your bank account.** If you make a large deposit, your lender will have to verify where that money came from.&nbsp;
 
-**3. Don’t change jobs.** If there’s a better opportunity out there for you that you want to take advantage of, that’s fine, just don’t do it until after you’ve closed on the loan for your new home.&nbsp;
+**3. Don’t change jobs.** If there’s a better opportunity out there for you that you want to take advantage of, that’s fine; just don’t do it until after you’ve closed on the loan for your new home.&nbsp;
 
 {% include pullquote.html %}
 
@@ -34,4 +34,4 @@ Here are the five commandments you need to follow if you’re buying a home:&nbs
 
 **5. Don’t buy any new furniture.** I know it’s easy to get excited about having new furniture for your home, but don’t start shopping for couches and loveseats until after the deal has closed.
 
-If you’d like to know more about the dos and don’ts of buying a home or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.
+If you’d like to know more about the do's and don’ts of buying a home or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.
