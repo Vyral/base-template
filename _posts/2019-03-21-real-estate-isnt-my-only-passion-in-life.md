@@ -3,9 +3,12 @@ layout: post
 title: Real Estate Isn’t My Only Passion in Life
 date: 2019-03-21 20:49:00
 tags:
+  - Real Estate
 excerpt:
 enclosure:
-pullquote:
+pullquote: >-
+  It wasn’t about how many dogs I could rescue. It was about the quality of life
+  I could give them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
