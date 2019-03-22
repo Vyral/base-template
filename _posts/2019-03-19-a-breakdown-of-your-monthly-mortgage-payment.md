@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/canady-mar-1-ss-np.jpg
-youtube_code: xNIj35dfJRE
+youtube_code: m83fCqd8r8s
 ---
 
 {% include youtube.html %}
@@ -30,6 +30,6 @@ The “P” stands for principal. It’s like an investment made to yourself eve
 
 {% include pullquote.html %}
 
-In addition to PITI, you’ll also have MI, or mortgage insurance. If you put less than 20% down on your home, you have to pay this because you’re a higher risk of going to default, unless you have a VA loan.
+In addition to PITI, you’ll also have MI, or mortgage insurance. If you put less than 20% down on your home, you have to pay this because you’re at a higher risk of going to default, unless you have a VA loan.
 
 If you have any questions about PITI, buying a home, or anything else, don’t hesitate to reach out and give us a call or send us an email today. We’d love to hear from you.
