@@ -30,7 +30,7 @@ How does our team handle bank-owned foreclosure properties? We’re going to giv
 
 02:15 — Arriving at the property
 
-<br>03:09 — Checking the property for occupants
+03:09 — Checking the property for occupants
 
 03:55 — Preparing to enter the property
 
