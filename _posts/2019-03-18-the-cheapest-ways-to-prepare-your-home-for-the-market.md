@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/cheapest-way-to-prep-home-youtube.jpg
+youtube_alternate_image: /uploads/cheapest-way-to-prep-home-youtube-1.jpg
 youtube_code: b8cMH7wwKsg
 ---
 
