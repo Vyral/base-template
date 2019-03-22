@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bryan-and-scott-colemere-mar-2-screen-shot-np.jpg
-youtube_code: jMD-oz4RRW8
+youtube_code: fKuB0aktmGs
 ---
 
 {% include youtube.html %}
