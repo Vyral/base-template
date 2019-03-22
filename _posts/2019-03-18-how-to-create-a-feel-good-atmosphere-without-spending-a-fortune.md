@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Cheapest Ways to Prepare Your Home for the Market
+title: How to Create a “Feel Good” Atmosphere Without Spending a Fortune
 date: 2019-03-18 21:05:00
 tags:
   - Home Seller Tips
