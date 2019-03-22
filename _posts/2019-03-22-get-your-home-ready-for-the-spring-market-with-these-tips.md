@@ -19,6 +19,8 @@ youtube_alternate_image: /uploads/dustin-sherlin-ss-spring-email.jpg
 youtube_code: Q4H-HicF54s
 ---
 
+{% include youtube.html %}
+
 If you want to maximize your home sale this spring, here are a few tips that will help you.
 
 First, **boost your home’s curb appeal.** When a potential buyer drives up to your home, you have only a matter of seconds to make a good first impression. If they don’t like what they see on the outside, they might not want to even step foot inside. This means you need to clean up the exterior, make sure the landscaping is in tip-top shape, and don’t be afraid to add a little color.&nbsp;
@@ -26,6 +28,8 @@ First, **boost your home’s curb appeal.** When a potential buyer drives up to 
 Second, **do some painting.** A little paint goes a long way in terms of making smaller spaces feel bigger. Think in terms of neutral colors—light grey, in particular, is very popular right now.
 
 Next, **make any necessary renovations.** Are your kitchen or bathrooms outdated? Is the floor covering worn out? You might need to make some renovations. In terms of the bigger projects, make sure you know what they’ll cost before diving right in. When it comes to the smaller upgrades, things like changing the hardware on the kitchen cabinets can make a big difference in making your home look newer.&nbsp;
+
+{% include pullquote.html %}
 
 After that, **fix anything that’s broken.** If a buyer walks through your house and sees something defective, they’ll be on the lookout for what else might be broken. These kinds of issues will show up during the home inspection anyway, so you might as well take care of them before the buyer asks you to repair them. You might even go so far as to order your own inspection, take care of any issues, and then advertise that your home is in as good of shape as it can be.&nbsp;
 
