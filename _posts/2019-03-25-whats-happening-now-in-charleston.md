@@ -21,15 +21,15 @@ youtube_code: p_qCfaxXLiw
 
 {% include youtube.html %}
 
-We at the Friedman Team care about keeping you in the loop, and we’ve got a few important updates to share with you today.&nbsp;
+We at the Friedman Team care about keeping you in the loop, so we’ve got a few important updates to share with you today.
 
 First, **Pet Fest is just around the corner, and we hope to see you there.** This great event will take place at Palmetto Island County Park on Saturday, March 30, from 11 a.m. to 4 p.m. Pet lovers of all kinds are sure to enjoy this incredible fundraising opportunity.&nbsp;
 
-**We would also like to let you know about an upcoming charity golf tournament at Wild Dunes on April 11.** Proceeds from the tournament will go toward the Gary Sinise Foundation, an incredible organization which serves our nation’s heroes by “by honoring our defenders, veterans, first responders, their families, and those in need.”&nbsp;
+**We would also like to let you know about an upcoming charity golf tournament at Wild Dunes on April 11.** Proceeds from the tournament will go toward the Gary Sinise Foundation, an incredible organization which serves our nation’s heroes “by honoring our defenders, veterans, first responders, their families, and those in need.”&nbsp;
 
 {% include pullquote.html %}
 
-Now that we’ve touched on these two fantastic events, let’s quickly review the recent rise in loan limits. T**he FHA conforming loan limit recently rose to $388,700, and the conventional loan limit recently rose to $484,300.** This is great news for buyers interested in expanding their horizons to a broader range of homes. This rise means buyers can now afford homes at higher price points, while still submitting a relatively low down payment.&nbsp;
+Now that we’ve touched on these two fantastic events, let’s quickly review the recent rise in loan limits. **T****he FHA conforming loan limit recently rose to $388,700, and the conventional loan limit recently rose to $484,300.** This is great news for buyers interested in expanding their horizons to a broader range of homes. This rise means buyers can now afford homes at higher price points, while still submitting a relatively low down payment.&nbsp;
 
 Though it’s true that 2019’s first quarter won’t finish as strongly as the market did at this time last year, conditions remain relatively positive. Beyond that, our team has the skills, knowledge, and resources necessary to help clients succeed regardless of current market conditions. **We’ve been able to help sellers close quickly and for 100% of their asking price these last couple of years,** even though many sellers nationwide have been struggling to strike a deal at all.&nbsp;
 
