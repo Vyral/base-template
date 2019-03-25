@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview With Top Agent Zach White
-date: 2019-03-21 21:08:28
+date: 2019-03-21 21:08:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/zach-white-youtube.jpg
-youtube_code: JdgmlixCxjI
+youtube_code: H6m-ZVel4sU
 ---
 
 {% include youtube.html %}
@@ -22,7 +22,7 @@ Today I’m delighted to be joined by Zach White, from Utah Luxury Group, **who 
 
 Zach has been in the business for a little over five years now. Prior to real estate, he was a junior high history and Spanish teacher. The structure and preparation involved in teaching have both been very helpful in preparing him for a successful real estate career.
 
-**Zach’s work ethic is second-to-none.** He credits that to his father and grandfather, who were also able to find success through the same hard work ethic. He’s motivated by his family and by being able to provide the best service he can for his clients.&nbsp;
+**Zach’s work ethic is second-to-none.** He credits that to his father and grandfather, who were also able to find success through the same hard work ethic. He’s motivated by his family and by being able to provide the best service he can for his clients. 
 
 Zach is known for his great success when listing homes and he credits that to his work ethic as well. He puts in the necessary time and effort on each property to get it sold, along with a few marketing tricks. He customizes his approach to cater to each listing individually.
 
