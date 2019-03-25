@@ -26,7 +26,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
-  - jekyll-redirect-from
+  # - jekyll-redirect-from
 #  - jekyll-seo-tag
 
 # Excludes
