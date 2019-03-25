@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Buying Tips for You
-date: 2019-03-21 18:58:59
+date: 2019-03-21 18:58:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-buying-tips-youtube.jpg
-youtube_code: Fkb-zDLf6TE
+youtube_code: iuHk1eR53Vw
 ---
 
 {% include youtube.html %}
