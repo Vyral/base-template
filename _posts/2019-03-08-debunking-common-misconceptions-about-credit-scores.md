@@ -1,40 +1,36 @@
 ---
 layout: post
 title: Debunking Common Misconceptions About Credit Scores
-date: 2019-03-08 16:30:47
+date: 2019-03-08 16:30:00
 tags:
   - Real Estate
 excerpt: >-
-  What exactly determines your credit score? Find out what contributing factors
-  are at play with today’s brief message.
+  If you’ve been on the fence about selling your home, the five points we’ll be
+  covering today may help you make up your mind.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Donald+Payne/Donald+Payne-+Conceptions+and+Misconceptions+About+Credit+Scores.mp4
-pullquote: >-
-  Surprisingly, completely paying off a line of credit is less ideal than
-  maintaining a minimum balance.
+  https://s3.amazonaws.com/vyralmarketing/Donald+Payne/Donald+Payne-+5+Reasons+to+Put+Your+House+on+the+Market+Now.mp4
+pullquote: Today’s sellers have a great chance of earning top dollar for their homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jlCZhl-fca4
+youtube_code: b194ZwiFJck
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+If you’ve been thinking of selling your home, take note: Today I’ll be sharing the top five reasons to put your home on the market right now.&nbsp;
 
-There’s a lot of confusion surrounding the subject of credit scores, so I’d like to demystify a few key points on the topic today.
+**1. Low inventory levels won’t last forever.** Those who list right now have the chance to stand out above the crowd. There aren’t many listings available right now, but this will change soon, so don’t delay if you want to capture the low-supply, high-demand conditions we’re seeing right now.&nbsp;
 
-First, it’s important to note that about **35% of your credit score is based upon your payment history.** Consistently making your payments on time is critical to a healthy score.
-
-Second, you must also keep in mind the amount owed. If you’re constantly maxing out your credit limit, this will be detrimental to your score. However, completely paying off a line of credit is, surprisingly, also not ideal. To make sure this contributing factor, which accounts for about 35% of your score, has a positive impact, it’s best to keep your balance at or below 30% of your limit. Creditors see a higher balance as a higher risk.
+<br>**2. You stand to make a very handsome profit.** In 2012, the average sale price for Columbus was $167,200. By the end of 2018, the average jumped up to $227,600. The numbers don’t lie: Today’s sellers have a great chance of earning top dollar for their homes.&nbsp;
 
 {% include pullquote.html %}
 
-Moving on, **your score is also impacted by the length of your credit history.** Maintaining good financial habits over a longer period of time will have a greater positive influence on your score. Not only that, but the types of credit you hold will also play a part in your score. Credit card debt, auto debt, and any other credit lines you’ve taken out will account for about 10% of your score.
+<br>**3. Homes priced below $300,000 are at a premium right now.** If you’ve got a home that would fall within this price range, you could enjoy a particular advantage by listing today. Why? Well, there simply aren’t enough homes available in this range, and builders aren’t often building homes as affordable as this.&nbsp;
 
-The last 10% of your credit score will be determined by the frequency with which you make credit inquiries. As you’ve likely heard, having several credit inquiries in a short period of time can pose a detriment to your score. Less frequent credit inquiries, especially those that result in a new line of credit, however, will tend not to make as much of an impact.
+<br>**4. Mortgage rates are still low.** Though they have crept up slightly in the last few months, today’s rates are still incredible. Buyers know this won’t last forever, though, and are therefore eager to find the perfect home as soon as they can.&nbsp;
 
-**Hopefully this has helped answer a few of the questions you might have had about the “hows” and “whys” of your credit score.**
+<br>**5. Millennials are flooding the market.** An increasing number of millennials are entering the market. This has translated to a boost in demand, which means more money in your pocket at the end of the day.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
