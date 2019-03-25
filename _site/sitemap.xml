@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/week-of-031819.html</loc>
+<lastmod>2019-03-18T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/week-of-031119.html</loc>
 <lastmod>2019-03-11T00:00:00-05:00</lastmod>
 </url>
@@ -370,5 +374,8 @@
 </url>
 <url>
 <loc>localhost:4000/page10/</loc>
+</url>
+<url>
+<loc>localhost:4000/page11/</loc>
 </url>
 </urlset>
