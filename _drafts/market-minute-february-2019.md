@@ -12,13 +12,13 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: xrIGyB-Su60
 ---
-
+{% include youtube.html %}
 We’re back again with another episode of “Market Minute.” The February statistics for our north San Diego County detached home market have now come in, and we’re going to go over them quickly for you today.
 
 Our current median price, $678,000, is up from January. This is good news for homeowners and sellers alike.
 
 The average days on market, meanwhile, is down since last month, now sitting at 45 days compared to the 50-day average we observed in January.
-
+{% include pullquote.html %}
 One statistic which has remained stagnant is current supply, which has remained steady at 2.6 months’ worth of inventory in both January and February of this year.
 
 Even so, the number of homes sold has gone up. 616 homes sold this February, while only 528 sold the previous month.
