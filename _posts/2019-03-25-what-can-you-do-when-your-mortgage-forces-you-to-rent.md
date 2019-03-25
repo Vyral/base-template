@@ -19,7 +19,9 @@ youtube_code: vpLptzl08i0
 
 {% include youtube.html %}
 
-<center>If you’ve been forced to rent out your home just to pay the mortgage, there’s a way out. Here’s what you can do.</center>
+<center><em>If you&rsquo;ve been forced to rent out your home just to pay the mortgage, there&rsquo;s a way out. Here&rsquo;s what you can do.</em></center>
+
+&nbsp;
 
 When we talk about an “accidental investor,” we don’t mean someone who mistakenly purchased a great investment property that brings them passive income.
 
