@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Did We Learn From the Last Recession?
-date: 2019-03-22 20:19:43
+date: 2019-03-22 20:19:00
 tags:
 excerpt: >-
   What did we learn from the last recession and how can we apply those lessons
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-22-5-lessons-yt.jpg
-youtube_code: k12zi0jJHww
+youtube_code: cpEd02sgU20
 ---
 
 {% include youtube.html %}
