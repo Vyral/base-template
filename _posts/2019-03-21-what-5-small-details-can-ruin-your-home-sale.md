@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What 5 Small Details Can Ruin Your Home Sale?
-date: 2019-03-21 18:25:56
+date: 2019-03-21 18:25:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Odors, decorations, and even clutter can all negatively affect your home sale.
   Here’s how that happens.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Justin+Woodall/Athens+Real+Estate+Agent-+5+Things+That+Could+Ruin+Your+Home+Sale.mp4
 pullquote: Your home should be staged properly.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,4 +33,4 @@ Though you may not have thought about them before, these five things can dramati
 
 **5. Flexibility with showings.** You want your home to be shown as much as possible. Keeping it clean and ready is important because the one buyer you deny for a showing might have been the one buyer that was going to buy your house for a great price.
 
-Your house will still sell if you ignore these problems, but it will sell for much more money if you’re proactive about them beforehand. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+Your house will still sell if you ignore these problems, but it will sell for much more money if you’re proactive about them beforehand. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
