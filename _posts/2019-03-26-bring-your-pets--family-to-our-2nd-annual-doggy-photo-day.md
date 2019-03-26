@@ -19,7 +19,7 @@ youtube_code: zf0hP7VGEH4
 
 {% include youtube.html %}
 
-{% include excerpt.html %}
+<p style="text-align: center;"><em>It’s almost time for our second annual Doggy Photo Day, and you’re invited to join us.</em></p>
 
 Our second annual Doggy Photo Day is coming up on April 6 at Porter Ranch in Viking Park, and you are cordially invited.&nbsp;
 
