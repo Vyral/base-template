@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dustin-sherlin-ss-spring-email.jpg
-youtube_code: shA6Qp2_Xic
+youtube_code: TgrdehHP5lk
 ---
 
 {% include youtube.html %}
