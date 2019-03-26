@@ -25,7 +25,7 @@ youtube_code: vpLptzl08i0
 
 When we talk about an “accidental investor,” we don’t mean someone who mistakenly purchased a great investment property that brings them passive income.
 
-We’re talking about the unfortunate homeowners who took out too big of a mortgage and were forced to rent out their home. This can happen for a few reasons—they inherited a property or they had to move suddenly, for example. **Regardless, they found themselves forced into becoming landlords**.
+We’re talking about the unfortunate homeowners who took out an overly-large mortgage and were forced to rent out their home. This can happen for a few reasons—perhaps they inherited a property, or maybe they had to move suddenly, for example. **Regardless, they found themselves forced into becoming landlords**.
 
 If you’re in this situation, please give us a call. Now’s the perfect time to sell your accidental investment to an intentional investor, and we can put you in contact with someone who’s willing to buy your property.
 
