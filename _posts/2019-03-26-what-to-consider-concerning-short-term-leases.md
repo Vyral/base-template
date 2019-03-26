@@ -18,9 +18,7 @@ youtube_alternate_image:
 youtube_code: EV-nZTFDOwk
 ---
 
-{% include youtube.html %}&nbsp;
-
-Homebuyers, particularly from out of state, come to me on a regular basis wanting to purchase a rental property and use it as a vehicle for investment. Through short-term nightly or weekly rental, these buyers would like to make good money and maximize their investment potential.&nbsp;
+{% include youtube.html %} Homebuyers, particularly from out of state, come to me on a regular basis wanting to purchase a rental property and use it as a vehicle for investment. Through short-term nightly or weekly rental, these buyers would like to make good money and maximize their investment potential.&nbsp;
 
 Generally speaking, these sorts of investors see opportunity in smaller units, such as condos, that will be able to compete with hotel rooms. They like the idea of owning a lock-and-leave property that requires little upkeep and is not at a higher risk of theft.&nbsp;
 
