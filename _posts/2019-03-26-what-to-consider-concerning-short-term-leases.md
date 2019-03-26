@@ -18,11 +18,15 @@ youtube_alternate_image:
 youtube_code: EV-nZTFDOwk
 ---
 
+{% include youtube.html %}&nbsp;
+
 Homebuyers, particularly from out of state, come to me on a regular basis wanting to purchase a rental property and use it as a vehicle for investment. Through short-term nightly or weekly rental, these buyers would like to make good money and maximize their investment potential.&nbsp;
 
 Generally speaking, these sorts of investors see opportunity in smaller units, such as condos, that will be able to compete with hotel rooms. They like the idea of owning a lock-and-leave property that requires little upkeep and is not at a higher risk of theft.&nbsp;
 
 However, condos are typically under the control of a homeowner association (or HOA), and HOAs have restrictions against short-term renting; some HOAs prohibit renting altogether and place “caps” on the number of units that can be rented in a space.&nbsp;
+
+{% include pullquote.html %}
 
 If the HOA does, in fact, allow rentals, you’ll have to figure out what restrictions they enforce. Some require the lease to be in force for more than 30 days, while others say the lease must be in place for as much as six to 12 months.&nbsp;
 
