@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Youth Services of Tulsa Provides Help for Young Adults and Teens
-date: 2019-03-26 15:30:28
+date: 2019-03-25 15:30:00
 tags:
 excerpt: >-
   Here’s why Youth Services of Tulsa is such a wonderful resource for area teens
@@ -34,4 +34,4 @@ A common misconception is that youth become homeless through some fault of their
 
 **You can help support Youth Services of Tulsa through donations or volunteer work.** They rely on both in order to operate, and they also need items such as underwear and socks. To see how to donate and learn more about the organization, visit <u><strong><a target="_blank" href="https://www.yst.org/">www.YST.org</a></strong></u>.
 
-I’d like to thank Brian for giving us an insightful look at this wonderful organization. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
+I’d like to thank Brian for giving us an insightful look at this wonderful organization. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>
