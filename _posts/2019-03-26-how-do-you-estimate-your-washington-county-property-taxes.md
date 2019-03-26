@@ -21,7 +21,7 @@ youtube_code: gHmvrb1IaJU
 
 {% include youtube.html %}
 
-Today on “GoStGeorgeTV,” I’ll discuss how to estimate your property taxes in Washington County.
+<p style="text-align: center;"><em>Today on “GoStGeorgeTV,” I’ll discuss how to estimate your property taxes in Washington County.</em></p>
 
 If your property is in Washington County, how can you figure out how much you’ll pay in property taxes? Let me walk you through it. **To follow along with the video above, visit the Washington County Assessor’s [webpage](https://www.washco.utah.gov/departments/assessor/){: target="_blank"} and click the “Tax Estimator” button.**
 
