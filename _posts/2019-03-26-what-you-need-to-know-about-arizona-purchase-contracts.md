@@ -22,7 +22,7 @@ youtube_code: OSJ8iVs47to
 
 All of our purchase contracts are state-approved forms, but the buyer in Arizona has three contingencies as a standard part of the contract.
 
-If you’re getting a loan, the first contingency is the inspection, for which you have 10 days to do all the physical inspections you want on the property. At the end of that tenth day, we send a punch list to the sellers that details the repairs we want them to make.&nbsp;
+If you’re getting a loan, the first contingency is the inspection, for which you have 10 days to do all the physical inspections you want on the property. At the end of that tenth day, we send a punch list to the sellers that details the repairs we want them to make. 
 
 While we’re doing the physical inspections, the title and escrow company will be doing title work to make sure the property has a clean, clear title that will transfer to you after the inspection contingency is resolved.
 
