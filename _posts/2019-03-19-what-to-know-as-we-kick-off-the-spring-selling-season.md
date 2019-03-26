@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Where are things headed in our real estate market as spring begins? Keep
   reading to find out.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+to+Know+as+We+Kick+off+the+Spring+Selling+Season.mp4
 pullquote: 'We’re still in a healthy, strong seller’s market.'
 enclosure_type: video/mp4
 enclosure_time:
