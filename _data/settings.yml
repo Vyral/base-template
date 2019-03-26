@@ -12,7 +12,7 @@ custom_links:
   - title: Testimonials
     url: /testimonials
   - title: Press
-    url: /inthepress
+    url: /inthepress/
     
 emma:
   lightbox:
