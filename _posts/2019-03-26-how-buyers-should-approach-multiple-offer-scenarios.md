@@ -38,3 +38,7 @@ The buyer found a home they loved, but they were a little concerned about overpa
 It’s important to understand that, **once a home goes under contract, that’s a new comparable**—the next one won’t be less, it’ll, unfortunately, be similarly priced or higher.&nbsp;
 
 If you’re a buyer who has found yourself in this situation and you’re unsure of what to do, please give me a call at 240-731-8079. I’d love to have a conversation with you! Join me again next week for another edition of “What’s Working Now Tuesday at 2”!
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
