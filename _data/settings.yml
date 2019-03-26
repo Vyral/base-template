@@ -11,6 +11,9 @@ show_custom_links: true
 custom_links:
   - title: Testimonials
     url: /testimonials
+  - title: Press
+    url: /inthepress
+    
 emma:
   lightbox:
   form:
