@@ -13,7 +13,7 @@ pullquote: We can put you in contact with someone who’s willing to buy your pr
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-25---ron-cedillo---yt.jpg
+youtube_alternate_image: /uploads/ron-cedillo---yt.jpg
 youtube_code: vpLptzl08i0
 ---
 
@@ -21,7 +21,7 @@ youtube_code: vpLptzl08i0
 
 <center><em>If you&rsquo;ve been forced to rent out your home just to pay the mortgage, there&rsquo;s a way out. Here&rsquo;s what you can do.</em></center>
 
-&nbsp;
+ 
 
 When we talk about an “accidental investor,” we don’t mean someone who mistakenly purchased a great investment property that brings them passive income.
 
