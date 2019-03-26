@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buying Later? Lock in Your Interest Rate Now
+title: Lock In Your Interest Rate With This Great New Program
 tags:
   - Josh Stern Real Estate Tips
 excerpt: >-
@@ -27,4 +27,4 @@ I’m joined today by **Mandi Henriod of Intercap Lending**, who shared with us 
 
 Unlike any other option we’ve seen, the up-front fee is refundable at the time of funding. All of their rate-lock options allow for renegotiation if rates somehow decrease. **They’re able to offer this on all agency loan programs, including FHA, VA, and conforming loans.**
 
-If you’re looking to make a move within the year, [contact Mandi at Intercap Lending](https://www.intercaplending.com/loan-officers/mandi-henriod/){: target="_blank"} so you can lock in a low rate today. If you have any other questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>&nbsp;
+If you’re looking to make a move within the year, [contact Mandi at Intercap Lending](https://www.intercaplending.com/loan-officers/mandi-henriod/){: target="_blank"} so you can lock in a low rate today. If you have any other questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>
