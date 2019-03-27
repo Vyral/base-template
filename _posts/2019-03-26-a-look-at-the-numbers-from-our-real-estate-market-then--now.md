@@ -1,12 +1,15 @@
 ---
 layout: post
-title: A Look at the Numbers From Our Real Estate Market—Then & Now
+title: A Look at the Numbers From Our Real Estate Market— Then & Now
 date: 2019-03-26 00:00:00
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  It’s time for another update on our local real estate market. In today’s
+  video, we’ll see what the numbers tell us about **the past, present, and
+  future of the Las Vegas market.
 enclosure:
-pullquote:
+pullquote: We’ve also witnessed a year-over-year increase in inventory.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -14,9 +17,11 @@ youtube_alternate_image:
 youtube_code: IZOHu_Xw0mg
 ---
 
-It’s time for another update on our local real estate market. In today’s video, we’ll see what the numbers tell us about **the past, present, and future of the Las Vegas market. **
+{% include youtube.html %}
 
-Year over year, **the average sale price showed notable appreciation, rising from $280,000 to $316,000 in January of this year. **
+It’s time for another update on our local real estate market. In today’s video, we’ll see what the numbers tell us about \*\*the past, present, and future of the Las Vegas market. \*\*
+
+Year over year, \*\*the average sale price showed notable appreciation, rising from $280,000 to $316,000 in January of this year. \*\*
 
 **We’ve also witnessed a year-over-year increase in inventory.** Last year at this time, we had 7,400 properties listed on the market, whereas this year, inventory swelled to 11,500 properties in January and 11,124 in February.
 
