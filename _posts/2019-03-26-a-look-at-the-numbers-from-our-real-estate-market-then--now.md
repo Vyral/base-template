@@ -19,9 +19,9 @@ youtube_code: IZOHu_Xw0mg
 
 {% include youtube.html %}
 
-It’s time for another update on our local real estate market. In today’s video, we’ll see what the numbers tell us about \*\*the past, present, and future of the Las Vegas market. \*\*
+It’s time for another update on our local real estate market. In today’s video, we’ll see what the numbers tell us about **the past, present, and future of the Las Vegas market. **
 
-Year over year, \*\*the average sale price showed notable appreciation, rising from $280,000 to $316,000 in January of this year. \*\*
+Year over year, **the average sale price showed notable appreciation, rising from $280,000 to $316,000 in January of this year. **
 
 **We’ve also witnessed a year-over-year increase in inventory.** Last year at this time, we had 7,400 properties listed on the market, whereas this year, inventory swelled to 11,500 properties in January and 11,124 in February.
 
