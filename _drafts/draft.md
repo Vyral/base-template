@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Draft
+title: The Past, Present, and (Near) Future of Our Market
 tags:
   - Real Estate
 excerpt: >-
