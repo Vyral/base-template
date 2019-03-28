@@ -36,4 +36,4 @@ Let’s consider some examples centered around content marketing:&nbsp;
 
 **Effectively leveraging content marketing through any of these avenues will position you as a leading authority in your given market**. To that end, having a presence on social media or anywhere online will naturally magnetize people in your market to you. &nbsp;
 
-If you have further questions about content marketing, please reach out to us by phone at 888-930-8510, email us at [Michael@MarketingLuxuryGroup.com](mailto:Michael@MarketingLuxuryGroup.com), or visit us online at [MarketingLuxuryGroup.com.](https://www.MarketingLuxuryGroup.com){: target="_blank"} We look forward to helping you!&nbsp;<br>&nbsp;
+If you have further questions about content marketing, please reach out to us by phone at 888-930-8510, email us at [Michael@MarketingLuxuryGroup.com](mailto:Michael@MarketingLuxuryGroup.com), or visit us online at [MarketingLuxuryGroup.com.](http://marketingluxurygroup.com/){: target="_blank"} We look forward to helping you!&nbsp;<br>&nbsp;
