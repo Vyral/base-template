@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/kati-spaniak-how-i-started-youtube.jpg
+youtube_alternate_image: /uploads/how-i-started-youtube.jpg
 youtube_code: 9EwEnPP1CHk
 ---
 
