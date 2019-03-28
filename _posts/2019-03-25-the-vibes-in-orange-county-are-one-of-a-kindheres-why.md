@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Vibes in Orange County Are One-of-Kind—Here’s Why
+title: The Vibes in Orange County Are One-of-a-Kind—Here’s Why
 date: 2019-03-25 16:14:00
 tags:
 excerpt: >-
