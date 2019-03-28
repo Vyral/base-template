@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Interview With Emily Brown
-date: 2019-03-21 20:37:28
+date: 2019-03-21 20:37:00
 tags:
   - Real Estate
 excerpt: What does Emily Brown’s home buying process entail? Find out today.
@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UIA6xzzl0YM
+youtube_code: VoV2Z-epSfc
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 I’m joined today by Emily Brown, one of our team’s top real estate agents. She’s here to share a little bit of her backstory with us, as well as give the reasoning behind why choosing a top agent is so important for first-time homebuyers (or any homebuyer, for that matter).
 
@@ -35,5 +35,3 @@ It’s also important for homebuyers to interview more than one agent before mak
 I’d like to thank Emily for sharing her insight with us today. **She’s an amazing agent who sells 10 times more real estate than the national average.**
 
 If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you soon.
-
-&nbsp;
