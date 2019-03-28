@@ -29,7 +29,7 @@ Failure is always a possibility, but the best agent is action-oriented and does 
 
 You’re in the market of the moment; it’s always been this way, and it always will be. While not everyone will succeed in a shift, someone will—and anyone can. **You must believe you can be in the “anyone can” category.**
 
-Once you are looking at things realistically, you need to start making the right actions, and when you realize the right actions are less about knowing than it is about doing, you can leave fear behind you.&nbsp;
+Once you are looking at things realistically, you need to start making the right actions, and when you realize the right actions are less about knowing than they are about doing, you can leave fear behind you.&nbsp;
 
 **What must be done right, and what must be done now?** Efficiency and effectiveness are essential contributors to your bottom line. The critical actions you identify must be done or at least overseen by you on a daily basis. You need to generate and convert leads, and when business gets tight, you must master the fundamentals of this process—think scripts, conversion, generation, follow-up, contracts, appointments, closings, etc.
 
