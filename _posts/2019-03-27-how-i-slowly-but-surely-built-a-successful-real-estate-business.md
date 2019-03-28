@@ -3,6 +3,7 @@ layout: post
 title: How I Slowly but Surely Built a Successful Real Estate Business
 date: 2019-03-27 17:21:00
 tags:
+  - Transaction Management
 excerpt: >-
   Today I would like to share the story of how I got started in real estate. I
   hope that this look into my past will help you grow a better future.
@@ -14,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kati-spaniak-how-i-started-youtube.jpg
-youtube_code: 'https://youtu.be/nmMS_hc-QcI'
+youtube_code: 9EwEnPP1CHk
 ---
 
 {% include youtube.html %}
