@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Solar Panels Affect Real Estate Transactions
-date: 2019-03-28 16:55:40
+date: 2019-03-28 16:55:00
 tags:
   - Real Estate
 excerpt: Ever wonder how to get solar panels for your own home? Find out today.
@@ -9,8 +9,8 @@ enclosure:
 pullquote: It’s good to start the conversation about solar power early.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/tim-whats-the-process-of-getting-solar-panels-youtube.jpg
 youtube_code:
 ---
 
