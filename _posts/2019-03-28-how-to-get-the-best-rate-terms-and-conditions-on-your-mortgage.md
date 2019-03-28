@@ -21,7 +21,7 @@ youtube_code: cAEgMmOUC9I
 
 {% include youtube.html %}
 
-Ask a potential mortgage lender these questions to ensure that you’ll get the very best rates, terms, and conditions on your next loan.
+<p style="text-align: center;"><em>Ask a potential mortgage lender these questions to ensure that you’ll get the very best rates, terms, and conditions on your next loan.</em></p>
 
 Here at California Real Estate Experts, we strive to help our clients find the best rates, terms, and conditions possible. However, there are a few questions that need to be addressed before settling with a lender—especially if they’re an online lender.
 
