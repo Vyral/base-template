@@ -35,7 +35,7 @@ The Federal Housing Authority (FHA) has such programs that would allow a lower-s
 
 Last year, the average FICO score for homebuyers was 726, but with the availability of these programs, that number is dropping.
 
-![](/uploads/fico-score-graph.png)
+![](/uploads/fico-score-graph.png){: .post-image}<br><br>![](/uploads/fico-score-graph.png){: .half-image}<br><br>![](/uploads/fico-score-graph.png){: .half-image}
 
 As you can see in the chart above, the average FICO score did change in 2008 when the market shifted and credit scores rose, but now they’re getting more in line. Right now, 84% of Americans have a credit score that will allow them to buy a house.
 
