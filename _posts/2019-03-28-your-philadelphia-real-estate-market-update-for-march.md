@@ -21,7 +21,7 @@ youtube_code: oWVIfFRowLE
 
 {% include youtube.html %}
 
-Ignore the negative news headlines—today we’ll talk about what’s really happening in the market.
+<p style="text-align: center;"><em>Ignore the negative news headlines—today we’ll talk about what’s really happening in the market.</em></p>
 
 Though we’re having great success as spring selling season kicks off, there are some incredibly negative news stories about our market going around. They’ve definitely been taking their toll on buyers, sellers, and homeowners alike.
 
