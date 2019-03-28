@@ -29,8 +29,6 @@ Even so, the number of homes sold has gone up. 616 homes sold this February, whi
 
 And, finally, our interest rate is down—dropping from 4.51% in January to 4.41% last month.
 
-To see these numbers in greater detail, check out this spreadsheet containing all the information I’ve shared here (and more).
-
 Overall, the current market holds strong opportunities for buyers and sellers alike.
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
