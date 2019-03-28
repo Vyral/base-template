@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-<iframe width="1851" height="655" src="https://www.youtube.com/embed/IZOHu_Xw0mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="652" height="367" src="https://www.youtube.com/embed/IZOHu_Xw0mg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 It’s time for another update on our local real estate market. In today’s video, we’ll see what the numbers tell us about the past, present, and future of the Las Vegas market.
 
