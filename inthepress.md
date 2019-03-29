@@ -39,9 +39,15 @@ We had the pleasure to chat with Priyanka Johri from Woodlands Eco Realty. Check
 
 [Local Business Woman Receives National "Good Neighbor Award"](http://fatcatwebproductions.com/ThePaper_2014/md-thenews/content/local-businesswoman-receives-special-national-volunteering-works-award){: target="_blank"}
 
+![](/uploads/priyanka-johri-0-1.jpg)
+
 [Local Realtor Puts Her Money Where Her Heart Is, Gives Back to The Community](https://www.woodlandsonline.com/npps/story.cfm?nppage=59572){: target="_blank"}
 
+![](/uploads/pri1-1.PNG)
+
 [Generosity Breeds Loyalty: Meet the Real Estate Agent Whose Clients Come to Her](https://www.inman.com/2017/07/13/generosity-breeds-loyalty-meet-the-real-estate-agent-whose-clients-come-to-her/)
+
+![](/uploads/pri2-1.PNG)
 
 [Impact of Oil Prices on Home Values&nbsp;](https://www.woodlandsjournal.com/2016/04/07/how-low-oil-prices-impact-the-woodlands-real-estate-market/){: target="_blank"}
 
