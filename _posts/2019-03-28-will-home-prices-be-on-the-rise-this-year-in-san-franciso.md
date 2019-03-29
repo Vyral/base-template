@@ -19,7 +19,7 @@ youtube_code: nSwMPS-csrs
 
 {% include youtube.html %}
 
-Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market. 
+Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market.&nbsp;
 
 In 2004, Google went public and created 1,000 new millionaires. The same thing happened when Facebook went public in 2012. **In 2019, however, experts are expecting around 5,000 new millionaires to be created.** These will come from companies such as Airbnb, Lyft, Pinterest, and Uber.
 
