@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why a Canceled Purchase Agreement Doesn’t Have to Kill a Transaction
-date: 2019-03-25 19:03:00
+date: 2019-04-01 07:03:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -31,4 +31,4 @@ One concern a buyer might have in this situation is that they are leaving their 
 
 **There have been quite a few situations where we’ve been able to resurrect a purchase agreement like this.** Hopefully your next real estate transaction avoids this kind of mess, but if it happens, we’d be glad to help you put things back together.
 
-If you have any questions for us about this topic or about anything else related to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for us about this topic or about anything else related to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>
