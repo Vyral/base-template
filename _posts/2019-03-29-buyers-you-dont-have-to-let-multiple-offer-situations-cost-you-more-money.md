@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Handle Multiple-Offer Situations
+title: 'Buyers: You Don’t Have to Let Multiple-Offer Situations Cost You More Money'
 date: 2019-03-29 20:18:00
 tags:
 excerpt:
