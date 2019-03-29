@@ -27,7 +27,7 @@ This influx of millionaires will have an impact on San Francisco real estate. So
 
 {% include pullquote.html %}
 
-San Francisco prices are already sky high, but we’re nearing the end of our market peak. Though inventory, days on market, and interest rates have been increasing across the country, these powerful businesses insulate our area from feeling the effects.
+San Francisco prices are already sky-high, but we’re nearing the end of our market peak. Though inventory, days on market, and interest rates have been increasing across the country, these powerful businesses insulate our area from feeling the effects.
 
 **How much of this will trickle into the East Bay?** Probably not a lot—people there work long hours and are interested in staying close to their area and near their work.
 
