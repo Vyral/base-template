@@ -33,7 +33,7 @@ A recent Bloomberg article makes it a point that to say we’re at risk of the w
 
 Currently, the market’s hot and inventory is low, so multiple offers are happening all the time. Don’t take my word for it—take a look at the transaction levels projected by noteworthy lending companies at **1:49** in the video.
 
-I’ve sold over 40 homes already this year, and only one didn’t sell within two days; I even sold one in less than two hours last week! **My homes are selling at or up to 8% above list price, and prices are going up across the board nationwide.** Take a look at the graph at **2:33** to see the U.S. median sales prices for each year.&nbsp;
+I’ve sold over 40 homes already this year, and of those, only one failed to sell in less than two days; I even sold one in less than two hours last week! **My homes are selling at or up to 8% above list price, and prices are going up across the board nationwide.** Take a look at the graph at **2:33** to see the U.S. median sales prices for each year.&nbsp;
 
 {% include pullquote.html %}
 
