@@ -13,8 +13,8 @@ pullquote: Nothing’s going to happen overnight.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5000-new-millionaires-youtube.jpg
-youtube_code: AEyO_kgRAeE
+youtube_alternate_image: /uploads/5000-new-millionaires-youtube-02.jpg
+youtube_code: nSwMPS-csrs
 ---
 
 {% include youtube.html %}
