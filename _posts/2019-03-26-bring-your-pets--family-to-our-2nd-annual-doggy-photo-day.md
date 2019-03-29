@@ -27,7 +27,7 @@ Our second annual Doggy Photo Day is coming up on April 6 at Porter Ranch in Vik
 
 {% include pullquote.html %}
 
-If you plan on attending, you can register online at [www.doggyphotoday.com. ](http://www.doggyphotoday.com){: target="_blank"}We’ll also be raffling off prizes every 30 minutes, including a gift basket from [Nectar of the Dogs winery](http://www.nectarofthedogswine.com/){: target="_blank"}, a local winery that donates a portion of their proceeds to local pet charities, a $50 gift card from [Petitude](https://www.pet-i-tude.com/){: target="_blank"}, which is a local pet store, and a $50 gift card to Best Buy.&nbsp;
+If you plan on attending, you can register online at [www.doggyphotoday.com. ](http://www.doggyphotoday.com){: target="_blank"}We’ll also be raffling off prizes, including a gift basket from [Nectar of the Dogs winery](http://www.nectarofthedogswine.com/){: target="_blank"}, a local winery that donates a portion of their proceeds to local pet charities, a $50 gift card from [Petitude](https://www.pet-i-tude.com/){: target="_blank"}, which is a local pet store, and a $50 gift card to Best Buy.&nbsp;
 
 The proceeds of every sale will be donated to an animal rescue organization. We hope to see you there!
 
