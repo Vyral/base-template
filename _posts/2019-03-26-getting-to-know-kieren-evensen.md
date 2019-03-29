@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting to Know Kieren Evensen
-date: 2019-03-26 16:51:46
+date: 2019-03-26 16:51:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: T69gRS77qBY
+youtube_code: 95lBVS4mILU
 ---
 
 {% include youtube.html %}
