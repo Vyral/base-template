@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Are You Prepared for Rising Home Prices on the Horizon?
-date: 2019-03-28 20:55:52
+title: Will Home Prices Be on the Rise This Year in San Franciso?
+date: 2019-03-28 20:55:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Big companies are bringing more millionaires into the market, which means
   prices are going to rise. Here’s why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2019/March/East+Bay+Real+Estate+Agent-+Are+You+Prepared+for+Rising+Home+Prices+on+the+Horizon_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Fuller/2019/March/East+Bay+Real+Estate+Agent-+Will+Home+Prices+Be+on+the+Rise+This+Year+in+San+Franciso%3F.mp4
 pullquote: Nothing’s going to happen overnight.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +19,7 @@ youtube_code: AEyO_kgRAeE
 
 {% include youtube.html %}
 
-Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market.&nbsp;
+Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market. 
 
 In 2004, Google went public and created 1,000 new millionaires. The same thing happened when Facebook went public in 2012. **In 2019, however, experts are expecting around 5,000 new millionaires to be created.** These will come from companies such as Airbnb, Lyft, Pinterest, and Uber.
 
