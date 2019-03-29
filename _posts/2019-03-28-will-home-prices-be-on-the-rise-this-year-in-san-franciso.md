@@ -13,13 +13,13 @@ pullquote: Nothing’s going to happen overnight.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5000-new-millionaires-youtube-02.jpg
+youtube_alternate_image: /uploads/5000-new-millionaires-youtube-03.jpg
 youtube_code: nSwMPS-csrs
 ---
 
 {% include youtube.html %}
 
-Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market.&nbsp;
+Today on “The Real Estate Market Minute,” I’ll be going over why home prices will soon be going up in the San Francisco real estate market. 
 
 In 2004, Google went public and created 1,000 new millionaires. The same thing happened when Facebook went public in 2012. **In 2019, however, experts are expecting around 5,000 new millionaires to be created.** These will come from companies such as Airbnb, Lyft, Pinterest, and Uber.
 
