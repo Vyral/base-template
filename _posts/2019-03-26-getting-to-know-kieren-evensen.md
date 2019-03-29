@@ -21,7 +21,7 @@ youtube_code: T69gRS77qBY
 
 {% include youtube.html %}
 
-Kieren has been in the real estate business for seven years, the last two of which have been spent on our team. So far in 2019, he’s been absolutely on fire—as of the first week of March, he’d already sold eight listings!
+Today I'm happy to be joined by team member Kieren Evensen to pick his brain about his business, some of his hobbies, and his thoughts on the state of our current real estate market. So far in 2019, he’s been absolutely on fire—as of the first week of March, he’d already sold eight listings!
 
 As a resident of Minneapolis, Kieren loves hiking, biking, and jogging around the lakes—in fact, he used to be a regular marathoner. He also loves to cook, and during the summer, you can find him grilling outside almost every single day.&nbsp;
 
