@@ -22,9 +22,9 @@ youtube_code: uKCaHGkLyQo
 
 {% include youtube.html %}
 
-So you’ve picked the price you’re comfortable with and your listing is live. However, if you find you aren’t receiving many showings or offers, your price may need some readjustment. **Here are three things you need to analyze in order to make that decision:**
+So you’ve picked the price you’re comfortable with and your listing has gone live: if you find you aren’t receiving many showings or offers as you should be, your price may need some readjustment. **Here are three things you need to analyze in order to make that decision:**
 
-**1. The feedback you receive.** This information is invaluable, illustrating how buyers in the real estate community perceive your home.
+**1. The feedback you receive.** This information is invaluable in illustrating how buyers in the real estate community perceive your home.
 
 **2. The number of showings per week.** You should be getting two to three showings each week.
 
