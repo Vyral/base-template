@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Expect During the Mortgage Process
-date: 2019-03-19 00:00:00
+date: 2019-03-29 12:00:00
 tags:
   - Real Estate
 excerpt: >-
