@@ -33,12 +33,12 @@ A recent Bloomberg article makes it a point that to say we’re at risk of the w
 
 Currently, the market’s hot and inventory is low, so multiple offers are happening all the time. Don’t take my word for it—take a look at the transaction levels projected by noteworthy lending companies at **1:49** in the video.
 
-I’ve sold over 40 homes already this year, and only one didn’t sell within two days; I even sold one in less than two hours last week! **My homes are selling at or up to 8% above list price, and prices are going up across the board nationwide.** Take a look at the graph at **2:33** to see the US median sales prices for each year.&nbsp;
+I’ve sold over 40 homes already this year, and only one didn’t sell within two days; I even sold one in less than two hours last week! **My homes are selling at or up to 8% above list price, and prices are going up across the board nationwide.** Take a look at the graph at **2:33** to see the U.S. median sales prices for each year.&nbsp;
 
 {% include pullquote.html %}
 
 The chart looks like a rollercoaster, and it seems we’re at the very top—are we going to come flying down again? Well, there’s another graph at **2:59** that compares historical rates, and you’ll see that prices are exactly where they should be.
 
-**Overall, the market is still favoring sellers but starting to slow down a little.** If you’re thinking of selling this year, now is a great time to start the process. You can learn exactly how to do so by attending my next Home Selling Sharks seminar on April 6. Find out more about it at [www.HomeSharkSeminar.com.](https://www.homesharkseminar.com){: target="_blank"}
+**Overall, the market is still favoring sellers but starting to slow down a little.** If you’re thinking of selling this year, now is a great time to start the process. You can learn exactly how to do so by attending my next Home Selling Sharks seminar on April 6. Find out more about it at [www.HomeSharkSeminar.com.](http://www.homesharkseminar.com){: target="_blank"}
 
 If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
