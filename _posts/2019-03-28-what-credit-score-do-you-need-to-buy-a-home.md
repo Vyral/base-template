@@ -40,3 +40,5 @@ Last year, the average FICO score for homebuyers was 726, but with the availabil
 As you can see in the chart above, the average FICO score did change in 2008 when the market shifted and credit scores rose, but now they’re getting more in line. Right now, 84% of Americans have a credit score that will allow them to buy a house.
 
 If you have any questions about your credit score and whether you’d be eligible to buy a home, or if you’d like advice about how to raise a low credit score, reach out to us. We’d love to help you position yourself to make your dream of homeownership come true.
+
+If you have any questions for me about your personal credit situation or about anything else related to real estate, feel free to give me a call or send me an email today. I look forward to hearing from you soon.
