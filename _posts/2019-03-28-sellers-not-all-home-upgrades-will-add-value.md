@@ -24,7 +24,7 @@ youtube_code: UCEFbh1Y2AA
 
 Everyone wants to add value to their home before putting it on the market, but a lot of the advice about how to do so misses the mark. To give you a better idea of what does and doesn’t add value, we’ll be covering a few important points today.
 
-First of all, ***don’t* add a pool.**&nbsp;If you want to add this feature for your personal enjoyment, then by all means go for it. However, you should know that pools only bring about a 10% return on interest in terms of market value.&nbsp;
+First of all, ***don’t* add a pool.**&nbsp;If you want to add this feature for your personal enjoyment, then "by all means" go for it. However, you should know that pools only bring about a 10% return on interest in terms of market value.&nbsp;
 
 It isn’t just “fun” home upgrades that offer little value. **Practical repairs like a new roof or a new HVAC system will also bring little to no return.** Buyers expect these areas of your home to be in good, working condition. Instead of seeing it as added value, they simply see it as a given.&nbsp;
 
