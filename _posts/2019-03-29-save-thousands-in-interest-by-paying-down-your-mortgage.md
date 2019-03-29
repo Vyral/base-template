@@ -20,7 +20,9 @@ youtube_code: '-wjUTs_kwOg'
 
 {% include youtube.html %}
 
-<center> Here’s how you can knock out your interest and cut down the life of your mortgage loan.</center>
+<center><em>Here&rsquo;s how you can knock out your interest and cut down the life of your mortgage loan.</em></center>
+
+&nbsp;
 
 When buying a home, people usually take out a 30-year mortgage. If you simply pay the minimum each month, though, you’re paying potentially hundreds of thousands extra in interest.
 
