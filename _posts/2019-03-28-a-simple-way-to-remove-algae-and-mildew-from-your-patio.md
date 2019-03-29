@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Simple (and Cheap) Way to Remove Algae and Mildew From Your Patio
+title: A Simple Way to Remove Algae and Mildew From Your Patio
 date: 2019-03-28 00:00:00
 tags:
   - Real Estate
