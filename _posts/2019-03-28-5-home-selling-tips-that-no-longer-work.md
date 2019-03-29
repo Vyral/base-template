@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Home Selling Tips That No Longer Work
-date: 2019-03-21 10:00:00
+date: 2019-03-28 10:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -18,8 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: QCW-87eSfOI
 ---
-
-&nbsp;
 
 {% include youtube.html %}
 
