@@ -35,6 +35,11 @@ CTAs:
   first_CTA_URL: 'https://www.flatheadrealestate.com/how-much-is-my-property-worth/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.flatheadrealestate.com/montana-real-estate-search/results/?adv=yep&classRes=1&waterfronthomes=1&minPrice=&maxPrice=&bedrooms=&bathrooms=&sqrft_min=&sqrft_max=&land_min=&land_max=&dom=&mlsID='
+
+sidebar_CTA:
+  CTA_title2: Receive our Mailed Newsletter
+  CTA_link_text2: Click Here
+  CTA_url2: 'http://vidous/22ykk9'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/006.jpg
   CTA_title: Looking to Buy a Home?
