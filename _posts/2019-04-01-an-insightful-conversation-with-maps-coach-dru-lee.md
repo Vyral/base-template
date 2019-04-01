@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Insightful Conversation with MAPS Coach Dru Lee
-date: 2019-04-01 21:16:24
+date: 2019-04-01 21:16:00
 tags:
   - Agents Success Interview
 excerpt: >-
@@ -31,4 +31,4 @@ On today’s edition of Agent Success Secrets, I’m so grateful to be joined by
 
 Thanks so much to Dru for joining me today. If you want to learn more about him and his upcoming “Master the Path of Money” class, head on over to this website or send him an email to coachdrulee@gmail.com. The class launches on March 22!
 
-If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
