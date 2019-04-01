@@ -33,3 +33,7 @@ In total, I’ll choose around 150 homes that are close to my buyer’s price ra
 The point is, **you never know who might be thinking of selling and just needs a little extra incentive,** so make sure you have an agent who can work “under the radar” for you if necessary and find you the perfect off-market property that you won’t have to compete for. If you don’t have such an agent, give me a call and I’d love to help you.&nbsp;
 
 As always, if you have any other questions about our market, feel free to reach out to me as well. I look forward to hearing from you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
