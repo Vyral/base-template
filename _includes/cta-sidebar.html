@@ -1,4 +1,14 @@
 <div class="cta-sidebar-container">
+	<p style="font-size:16px;font-weight:bold;">{{site.data.settings.sidebar_CTA.CTA_title2}}</p>
+	<div class="ctacontainer">
+		<a class="ctalink" href="{{site.data.settings.CTAs.second_CTA_URL}}" target="_blank">
+			{{site.data.settings.CTAs.second_CTA_text}}
+		</a>
+	</div>
+</div>
+
+
+<div class="cta-sidebar-container">
 	<div class="cta-img-container">
 		{% if site.data.settings.sidebar_CTA.CTA_link_text == null or site.data.settings.sidebar_CTA.CTA_url == null%}
 	<a href="{{site.data.settings.CTAs.first_CTA_URL}}" target="_blank">
