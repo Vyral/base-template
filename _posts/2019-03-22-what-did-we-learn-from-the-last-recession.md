@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-22-5-lessons-yt.jpg
-youtube_code: cpEd02sgU20
+youtube_code: U0mExvg2hgg
 ---
 
 {% include youtube.html %}
