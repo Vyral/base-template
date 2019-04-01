@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The 5 Commandments for Being a Homebuyer
-date: 2019-03-21 18:46:23
+title: The 10 Commandments for Being a Homebuyer
+date: 2019-03-21 18:46:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -34,4 +34,4 @@ Here are the five commandments you need to follow if you’re buying a home:&nbs
 
 **5. Don’t buy any new furniture.** I know it’s easy to get excited about having new furniture for your home, but don’t start shopping for couches and loveseats until after the deal has closed.
 
-If you’d like to know more about the do's and don’ts of buying a home or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.
+If you’d like to know about the rest of the 10 commandments or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.
