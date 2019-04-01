@@ -19,7 +19,7 @@ youtube_code: td-_bdSbv8U
 
 {% include youtube.html %}
 
-Here’s a brief update on the current state of our real estate market.
+<p style="text-align: center;"><em>Here’s a brief update on the current state of our real estate market.</em></p>
 
 The spring market is officially here! In the light of the new season, we’re noticing that homes are selling well and that inventory is increasing gradually. It’s a great year to be a seller.&nbsp;
 
