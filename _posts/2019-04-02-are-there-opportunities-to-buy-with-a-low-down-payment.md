@@ -27,7 +27,7 @@ We get this question a lot: Are there opportunities to buy a home with low or no
 
 Various news outlets have claimed that you need a 20% down payment in order to purchase a home, but it’s not true—**you can certainly buy a home with zero down**.
 
-There are several loan programs out there, such as the Utah Housing Corporation loan or the USDA loan, that help you buy with either nothing down or a very low amount. However, each program does have requirements. **These may include:**
+There are several loan programs out there, such as the [Utah Housing Corporation](https://utahhousingcorp.org/){: target="_blank"} loan or the [USDA](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do){: target="_blank"} loan, that help you buy with either nothing down or a very low amount. However, each program does have requirements. **These may include:**
 
 * Income
 * Size of household
