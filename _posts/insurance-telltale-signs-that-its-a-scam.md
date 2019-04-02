@@ -14,8 +14,8 @@ pullquote: >-
   your time.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/fsdafdsafdsa.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: gFz254NAg0M
 ---
 
