@@ -20,7 +20,7 @@ youtube_code: Lfe3vIvmOiQ
 
 {% include youtube.html %}
 
-At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.
+<center>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</center>
 
 For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers. &nbsp; &nbsp;
 
