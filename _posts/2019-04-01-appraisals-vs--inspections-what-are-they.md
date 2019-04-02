@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Appraisals vs. Inspections: What Are They?'
-date: 2019-02-28 19:35:44
+date: 2019-04-01 19:35:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: geOC_Xa_JF4
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 Home inspection and home appraisals are both very important aspects of the home buying process, but it’s important to realize that these two things are very different from one another—*and* that, **in 99% of cases, only an appraisal is required for the lending process to be completed.**
 
