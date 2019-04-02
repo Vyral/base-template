@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Tax Refund Advances Good or Bad?
-date: 2019-04-02 23:01:41
+date: 2019-04-02 23:01:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -12,7 +12,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/wade-betz.PNG
 youtube_code:
 ---
