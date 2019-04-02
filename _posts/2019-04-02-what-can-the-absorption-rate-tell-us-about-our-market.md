@@ -21,7 +21,7 @@ youtube_code: jt1W3OvyQlk
 
 {% include youtube.html %}
 
-What does it mean when we Realtors talk about our market’s absorption rate? Today you’ll find out.
+<p style="text-align: center;"><em>What does it mean when we Realtors talk about our market’s absorption rate? Today you’ll find out.</em></p>
 
 What is our market’s absorption rate? What can this term tell us about where our market is trending?
 
