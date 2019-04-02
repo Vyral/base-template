@@ -32,7 +32,7 @@ When buying a home, people usually take out a 30-year mortgage. If you simply pa
 
 The main way to avoid paying so much is to get your principal amount down as fast as possible. The interest rate is applied to the principal balance, and the quicker you get it down, the less you’ll pay in interest over time. **Here are some ways you can do it:**
 
-**1. Make an extra payment each year**. Take the monthly payment and divide it by 12. Pay that amount each month in addition to your regular monthly payment. For example, A $1,200 monthly mortgage would mean you divide it by 12 to get $100; you add $100 to $1,200 and pay $1,300 each month. &nbsp;By doing this, you’ll have paid for 13 months in one year! Even better, you’ll knock eight to 10 years off of your loan.
+**1. Make an extra payment each year**. Take the monthly payment and divide it by 12. Pay that amount each month in addition to your regular monthly payment. For example, a $1,200 monthly mortgage would mean you divide it by 12 to get $100; you add $100 to $1,200 and pay $1,300 each month. &nbsp;By doing this, you’ll have paid for 13 months in one year! Even better, you’ll knock eight to 10 years off of your loan.
 
 **2. Pay whatever you can afford**. If you can pay extra on your monthly payment, do it. By doing this consistently, you’ll knock years off your loan. Most mortgages don’t have prepayment penalties, so you can pay as much as you’d like. Investing that money will save you a lot in the long term.
 
