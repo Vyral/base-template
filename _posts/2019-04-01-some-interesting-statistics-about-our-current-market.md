@@ -21,7 +21,7 @@ youtube_code: td-_bdSbv8U
 
 <p style="text-align: center;"><em>Here’s a brief update on the current state of our real estate market.</em></p>
 
-The spring market is officially here! In the light of the new season, we’re noticing that homes are selling well and that inventory is increasing gradually. It’s a great year to be a seller.&nbsp;
+The spring market is officially here! In light of the new season, we’re noticing that homes are selling well and that inventory is increasing gradually. It’s a great year to be a seller.&nbsp;
 
 Inventory is still relatively tight, so if you’re shopping for a house in this market, you’ll need to act fairly quickly—homes aren’t staying on the market for long.
 
