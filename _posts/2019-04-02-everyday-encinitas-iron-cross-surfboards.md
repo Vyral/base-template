@@ -20,13 +20,15 @@ youtube_code: Lfe3vIvmOiQ
 
 {% include youtube.html %}
 
-<center>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</center>
+<center><em>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</em></center>
 
-For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers. &nbsp; &nbsp;
+&nbsp;
 
-For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the section(s) that interest you the most:&nbsp;
+For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers.
 
-1:02 - How Iron Cross Surfboards came to be<br>3:11 - All the different types of custom boards they carry&nbsp;<br>4:01 - What type of board is Jay riding these days?&nbsp;<br>4:22 - A glimpse at their new Daily Driver longboard model<br>4:51 - How they’ve been able to grow over the past few years<br>6:13 - What they can do for you if your board’s been dinged up&nbsp;<br>6:47 - What wetsuit Jay recommends&nbsp;<br>7:54 - Getting to know their staff<br>8:42 - Wrapping things up
+**For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the section(s) that interest you the most:**
+
+1:02 - How Iron Cross Surfboards came to be<br>3:11 - All the different types of custom boards they carry<br>4:01 - What type of board is Jay riding these days?<br>4:22 - A glimpse at their new Daily Driver longboard model<br>4:51 - How they’ve been able to grow over the past few years<br>6:13 - What they can do for you if your board’s been dinged up<br>6:47 - What wetsuit Jay recommends<br>7:54 - Getting to know their staff<br>8:42 - Wrapping things up
 
 {% include pullquote.html %}
 
