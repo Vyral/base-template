@@ -16,8 +16,8 @@ pullquote: >-
   on the same page during this time.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/wade---what-can-you-expect-during-the-mortgage-process-youtube.jpg
 youtube_code: lG8FXzeaz7Q
 ---
 
