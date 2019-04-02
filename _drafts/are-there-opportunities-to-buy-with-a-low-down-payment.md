@@ -19,7 +19,7 @@ youtube_code: yhgSBDdE2qU
 
 {% include youtube.html %}
 
-You aren’t doomed to pay 20% down. Here are some of the options you have.
+<center>You aren’t doomed to pay 20% down. Here are some of the options you have.</center>
 
 We get this question a lot: Are there opportunities to buy a home with low or no money down?
 
