@@ -47,8 +47,7 @@ CTAs:
   first_CTA_text: Agent Mastermind
   first_CTA_URL: 'http://agentmastermind.com/kristinjamieson/'
   second_CTA_text: Online Application
-  second_CTA_URL: >-
-    https://successmortgagepartners-com.mysecureloan.com/kristin/applications/page1.php?lng=en
+  second_CTA_URL: 'https://my.successexpress.app/#/loan-officers/kristin@kristinjamiesonfl'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: Real Estate Mastermind Strategy Class!
