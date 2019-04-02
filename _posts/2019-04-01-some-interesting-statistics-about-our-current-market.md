@@ -31,7 +31,7 @@ Additionally, the National Association of Realtors came out with a few interesti
 
 **1. Homeownership rates are on the rise.** This is interesting because before the 2004 recession, about 69% of homes were owner-occupied; that figure dropped down to about 62% between 2012 and 2014. In 2018, it rose up to 64.5%, which is a solid sign that more people are pursuing homeownership.
 
-**2. First-time homebuyers constitute 33% of home sales.** Millennials are getting to the age where they’re thinking of purchasing homes, and have begun to take up a good portion of the market. Their focus, however, is less on buying homes for investment purposes and more on buying them as a place to raise a family.
+**2. First-time homebuyers constitute 33% of home sales.** Millennials are getting to the age where they’re thinking of purchasing homes and have begun to take up a good portion of the market. Their focus, however, is less on buying homes for investment purposes and more on buying them as a place to raise a family.
 
 **3. Married couples comprise about 63% of homebuyers.&nbsp;**
 
@@ -43,4 +43,4 @@ Additionally, the National Association of Realtors came out with a few interesti
 
 Overall, we’re seeing a good, strong recovery in the market, and families are setting some outstanding goals and objectives for the future.
 
-If you’re thinking of selling a home this year, know that the market is ripe for sellers, and we’d love to help you. Just reach out to us, and we can help you sell your home quickly and for top dollar. We hope to hear from you soon!
+If you’re thinking of selling a home this year, know that the market is ripe for sellers and we’d love to help you. Just reach out to us, and we can help you sell your home quickly and for top dollar. We hope to hear from you soon!
