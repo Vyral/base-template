@@ -26,7 +26,7 @@ Today I would like to tell you the answer to this question. So, let’s take a l
 
 I entered this industry back in 2003 when I got my license and began working as part of a real estate team. This chapter in my career lasted until about 2008, when I left the team and took a few years off from this path.&nbsp;
 
-Ultimately, though, I did come back. I got a new license in 2012 and started up the team that I am still leading today. Since then, **I have built my business to be among the top real estate professionals on the North Shore of Chicago and the No. 1 producer in Northbrook.&nbsp;**
+Ultimately, though, I did come back. I got a new license in 2012 and started up the team that I am still leading today. Since then, **I have built my business to be among the top real estate professionals on the North Shore of Chicago and the Number One Team in Northbrook.&nbsp;**
 
 And, actually, being in the business prior to founding my current team proved to be a great benefit as I re-entered the industry. It gave me time to really focus on my business plan, as well as my plan for daily activities. Immediately after re-entering real estate, I was very committed to dedicating certain days and times to being in the office working on my business plan. From the very beginning, my goal was to be the No. 1 agent in Northbrook. I wanted people in this community to think of me as their go-to real estate professional.
 
