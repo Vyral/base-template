@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Make Your Home Showings a Hit
-date: 2019-04-01 18:07:13
+date: 2019-04-01 18:07:00
 tags:
   - Listing Presentation
 excerpt: >-
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/becky-ivins-screenshot-the-best-ways-to-show-properties-youtube.jpg
-youtube_code: 'https://youtu.be/UD7sKj5LSfE'
+youtube_code: 'https://youtu.be/CuRkN1Dxb-E'
 ---
 
 {% include youtube.html %}
