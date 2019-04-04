@@ -22,7 +22,7 @@ youtube_code: _gHNArCS-WY
 
 {% include youtube.html %}
 
-Laura Siegemund is not only an accomplished tennis pro, but she’s also our house guest for the week. I sat down with her before her big match and we had a great conversation.
+<p style="text-align: center;"><em>Laura Siegemund is not only an accomplished tennis pro, but she’s also our house guest for the week. I sat down with her before her big match and we had a great conversation.</em></p>
 
 I’m so excited to be joined by a very special guest today. **Laura Siegemund Is a professional tennis player and stays with our family every time she’s in town for the 47th annual WTA Volvo Car Open, which is actually the largest women’s-only tennis tournament in North America.** This year, we’re so excited to watch her, so I just wanted to ask her a few questions:
 
