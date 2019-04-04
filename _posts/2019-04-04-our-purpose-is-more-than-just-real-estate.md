@@ -19,7 +19,7 @@ youtube_code: 5CkAb2SaobI
 
 {% include youtube.html %}
 
-We can’t be successful without a purpose, and our biggest purpose is in giving back to our community.
+<p style="text-align: center;"><em>We can’t be successful without a purpose, and our biggest purpose is in giving back to our community.</em></p>
 
 My partners and I started our brokerage in 2003, and it’s been growing ever since. Three years ago, my wife and I started our own team inside the brokerage and experienced even further growth. In the last year, we sold over $30 million in real estate through 148 transactions, and I was able to leave production altogether.
 
