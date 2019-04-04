@@ -29,7 +29,7 @@ If your property is in Washington County, how can you figure out how much you’
 
 The question that inspired today’s topic came from a client who asked how much she would pay in property taxes on a $100,000 home.
 
-<br>Washington County works on what is called a “mill rate,” which refers to the Latin wording meaning ‘thousand.’ Essentially, it means that they base property taxes on a rate per each $1,000 of estimated value.
+Washington County works on what is called a “mill rate,” which refers to the Latin wording meaning ‘thousand.’ Essentially, it means that they base property taxes on a rate per each $1,000 of estimated value.
 
 Let’s say that the client’s property is located in St. George City. If the property value is $100,000, the tax area rate, or mill rate, is 1.0046% per each $1,000. When you plug in these values into the property tax estimator on the Washington County Assessor’s page, it will generate two figures: your estimated non-primary-residential property tax, and your estimated property tax with the primary residential exemption.
 
