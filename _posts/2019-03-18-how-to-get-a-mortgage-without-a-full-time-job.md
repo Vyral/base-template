@@ -14,14 +14,14 @@ pullquote: >-
   lender.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/3-15-19yt.jpg
 youtube_code: iptTKgmTdJc
 ---
 
 {% include youtube.html %}
 
-&nbsp;
+ 
 
 Nowadays, more and more people are freelancing, working multiple part-time jobs, and even working from home. When it’s time to purchase a home, however, it may seem impossible to do so while maintaining a flexible work lifestyle. **Fortunately, there are three simple ways to ensure your home buying dreams can still come true:**
 
