@@ -43,4 +43,5 @@ The key in all this is the property’s assessed value. If we change the propert
 
 Well, on the Washington County Assessor’s homepage, go to the left side, click “Assessor Record Search,” and plug in the address of your property. Find and click on your property, and you’ll then be sent to a page with the property’s account summary. Click “View Property Record,” and on the right side of the page, you’ll see the property’s assessed value, as well as its tax rate, which you can then go back and plug into the site’s tax estimator.
 
-Hopefully this guide was helpful to you! If you have any questions about buying, selling, or investing in real estate in St. George, don’t hesitate to reach out. Here at the Larkin Group, we know this town.
+Hopefully this guide was helpful to you! If you have any questions about buying, selling, or investing in real estate in St. George, don’t hesitate to reach out. Here at the Larkin Group, we know this town!
+435-215-4533 | <a href="mailto:sales@gostgeorge.com" target="_blank">sales@gostgeorge.com</a>
