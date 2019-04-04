@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/finding-a-home-youtube.jpg
-youtube_code: Oo2iI3pkisI
+youtube_code: t_ya393XxsA
 ---
 
 {% include youtube.html %}
