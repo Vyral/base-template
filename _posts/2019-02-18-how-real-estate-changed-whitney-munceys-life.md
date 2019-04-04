@@ -12,7 +12,7 @@ pullquote: >-
   buyers and sellers.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-8.jpg
 youtube_code: u21Zb8yU55s
 ---
