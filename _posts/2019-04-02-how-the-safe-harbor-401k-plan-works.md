@@ -23,7 +23,7 @@ video_file: /uploads/Mar1LowBitrate.mp4
 
 What is a “safe harbor” plan design, and what does it do for companies and their employees?
 
-When dealing with a 401(k) plan, the plan sponsor may elect to contribute safe harbor minimum contribution, which avoids the actual deferral percentage (ADP testing) of the employee’s deferral contribution. It also avoids the actual contribution percentage (ACP testing) of employee matching contributions.
+When dealing with a 401(k) plan, the plan sponsor may elect to contribute the safe harbor minimum contribution, which avoids the actual deferral percentage (ADP testing) of the employee’s deferral contribution. It also avoids the actual contribution percentage (ACP testing) of employee matching contributions.
 
 {% include pullquote.html %}
 
