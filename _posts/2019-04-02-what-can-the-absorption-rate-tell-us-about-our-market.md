@@ -39,7 +39,7 @@ The next chart, starting at 2:31, tracks the absorption rate for the $500,000 to
 
 At 3:23, the $800,000 to $900,000 range shows that homes in the lower half were selling over three times as quickly as those in the upper half in 2015. As with the previous price range, that gap narrowed over the course of the next couple years, but at the end of 2018, homes in the upper half were still taking about 10 months longer to sell.&nbsp;
 
-Finally, at the 4:00 mark, the $1 million to $1.5 million range shows that homes in the upper half were taking four times as long to sell than those in the lower half in 2016. By the end of 2018, that difference had shrunk, but there was still a sizeable difference between the two micro ranges.&nbsp;
+Finally, at the 4:00 mark, the $1 million to $1.5 million range shows that homes in the upper half were taking four times as long to sell as those in the lower half in 2016. By the end of 2018, that difference had shrunk, but there was still a sizeable difference between the two micro ranges.&nbsp;
 
 As you can see, **in the top half of these price ranges, homes sold at a much slower rate over the past three years.** Why is this? In my opinion, it’s because buyers tend to want to get the most home possible for what they’re willing to pay, and if they shop in a certain price range and don’t find anything, they’ll look upward, thereby ending up in the lower half of the next price bracket.&nbsp;
 
