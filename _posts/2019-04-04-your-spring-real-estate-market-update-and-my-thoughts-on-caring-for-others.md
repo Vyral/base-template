@@ -20,7 +20,7 @@ youtube_code: u9mSDMvpH_o
 
 {% include youtube.html %}
 
-Our spring market is looking great, but there are a few other topics I want to talk about as well.
+<p style="text-align: center;"><em>Our spring market is looking great, but there are a few other topics I want to talk about as well.</em></p>
 
 Today we’ll be taking a quick look at our latest real estate market, but that’s not all: We’ll also be talking about Guilderland assessments and the power of caring for others.
 
