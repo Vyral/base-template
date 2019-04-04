@@ -20,7 +20,7 @@ youtube_code: Lfe3vIvmOiQ
 
 <center><em>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</em></center>
 
- 
+&nbsp;
 
 For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers.
 
@@ -30,6 +30,6 @@ For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Sur
 
 {% include pullquote.html %}
 
-It was an absolute pleasure to be able to sit down with Jay, and I thank him for allowing us to visit his family’s shop. If you’d like to know more about Iron Cross Surfboards, you can [visit their website](https://www.ironcrosssurfboards.com/){: target="_blank"}.
+It was an absolute pleasure to be able to sit down with Jay, and I thank him for allowing us to visit his family’s shop. If you’d like to know more about Iron Cross Surfboards, you can **[visit their website](https://www.ironcrosssurfboards.com/){: target="_blank"}**.
 
 If you own a local business or community organization, or you know someone who does and you think they’d be interested in being featured on a future episode of “Everyday Encinitas,” don’t hesitate to give me a call. I’d love to hear from you.
