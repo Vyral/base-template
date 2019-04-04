@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4702 Sunflower Dr
+title: 'Listing: 4702 Sunflower Dr'
 tags:
   - Real Estate
 excerpt:
