@@ -3,7 +3,7 @@ layout: post
 title: 'Listing: 4702 Sunflower Dr'
 tags:
   - Real Estate
-excerpt:
+excerpt: 'Today, I''d like to introduce you to one of our latest listings.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
