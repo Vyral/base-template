@@ -19,7 +19,7 @@ youtube_code: V8PRPNexZws
 
 {% include youtube.html %}
 
-When a home is listed for sale, there are only two things we can control about it: its price and condition. **You may have heard that selling a home is a “price war and a beauty contest.”** That is definitely true.&nbsp;
+When a home is listed for sale, there are only two things we can control about it: its price and condition. **You may have heard that selling a home is a “price war and a beauty contest.”** That is definitely true.
 
 So how do you know if you’re losing the price war? There are a couple of ways that you can tell. First, if you put it on the market and there are few or no showings in the first month it's listed, that is a signal that the market is not willing to pay your price and it might be time to make some changes or discount the price.
 
