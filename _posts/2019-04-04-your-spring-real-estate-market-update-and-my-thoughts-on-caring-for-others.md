@@ -24,7 +24,7 @@ youtube_code: u9mSDMvpH_o
 
 Today we’ll be taking a quick look at our latest real estate market, but that’s not all: We’ll also be talking about Guilderland assessments and the power of caring for others.
 
-**First off, the spring market is here!** We’re seeing great activity for homes priced under $350,000, and it’s a seller’s market in most price points. Over $350,000, however, things are a bit more challenging. [Check out this link](http://www.realmarketreports.com/reports/NY01004_Capital_Region.pdf){: target="_blank"} to find out all the latest stats and numbers you need to know; if you want a more in-depth look at your specific area, though, I’d be glad to help you out.
+**First off, the spring market is here!** We’re seeing great activity for homes priced under $350,000, and it’s a seller’s market in most price points. Over $350,000, however, things are a bit more challenging. [Check out this link](https://www.searchallproperties.com/listings/2609668/albany-ny-real-estate){: target="_blank"} to find out all the latest stats and numbers you need to know; if you want a more in-depth look at your specific area, though, I’d be glad to help you out.
 
 Interest rates are under 4%, and it’s the perfect time to lock in a rate by purchasing a home. It’s also great news for sellers—buyers can afford to make a purchase because they’ll be paying less on interest. Since it’s such a great market, plenty of investors are looking to buy homes fast. If you want to secure a quick sale for your home, reach out to me and I can put you in touch with someone.
 
