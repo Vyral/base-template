@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a Quality Home Selling Experience Should Look Like
-date: 2019-02-28 23:16:00
+date: 2019-04-03 23:16:00
 tags:
   - Real Estate
 excerpt: >-
