@@ -25,7 +25,7 @@ youtube_code: gHmvrb1IaJU
 
 If your property is in Washington County, how can you figure out how much you’ll pay in property taxes? Let me walk you through it. **To follow along with the video above, visit the <a href="https://www.washco.utah.gov/departments/assessor/" target="_blank">Washington County Assessor’s</a> [webpage](https://www.washco.utah.gov/departments/assessor/){: target="_blank"} and click the <a href="https://www.washco.utah.gov/forms/assessor/property-tax-estimate/" target="_blank">“Tax Estimator”</a> button.**
 
-<img src="https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Tax+extimator.JPG" height="297" width="177">
+<img src="https://s3.amazonaws.com/vyralmarketing/Jeremy-Larkin/Tax+extimator.JPG" height="300" width="500">
 
 The question that inspired today’s topic came from a client who asked how much she would pay in property taxes on a $100,000 home.
 
