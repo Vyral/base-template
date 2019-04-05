@@ -8,6 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Tarrant County Eats
     url: 'http://www.tarrantcountyeats.com'
+  - title: Home Tours
+    url: '/home-tours/'
   - title: Website
     url: 'https://www.trgdfw.com/'
 client:
