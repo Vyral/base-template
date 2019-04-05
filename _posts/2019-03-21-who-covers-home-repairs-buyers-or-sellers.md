@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Who Covers Home Repairs: Buyers or Sellers?'
-date: 2019-03-21 21:35:36
+date: 2019-03-21 21:35:00
 tags:
   - Real Estate
 excerpt: What’s the best way to negotiate repairs during a home sale? Find out today.
@@ -11,8 +11,8 @@ pullquote: >-
   clients.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/sddefault.jpg
 youtube_code: XqibKwPDrTo
 ---
 
