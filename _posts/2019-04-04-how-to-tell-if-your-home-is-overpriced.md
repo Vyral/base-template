@@ -29,4 +29,4 @@ Every showing begins online, so you definitely need to make sure that your home 
 
 **If you get a lot of showings and no offers, that’s another indication that the home is overpriced.** In this case, people are using your house to sell another house and that’s not a situation you want to be in.
 
-Interpreting the market and finding out the prefect price for a home is what my job is and I’m really good at it. If you have any questions for me about your home sale or about real estate in general, don’t hesitate to give me a call or send me na mail today. I look forward to hearing from you.
+Interpreting the market and finding out the perfect price for a home is what my job is and I’m really good at it. If you have any questions for me about your home sale or about real estate in general, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you.
