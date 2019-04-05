@@ -23,6 +23,4 @@ youtube_code: YjvuOPFLMw8
 
 {% include youtube.html %}
 
- 
-
 There are many moving parts to a real estate transaction, and it’s a Realtor’s job to guide you through the process. Even in a hot market, you still have to prepare and market your home, and having the right expertise behind you makes all the difference in terms of maximizing your sale price. What does that expertise look like, though? I was recently a guest on the radio show “Van and Bonnie in the Morning” to help answer that question. To listen to the interview, watch this short video.
