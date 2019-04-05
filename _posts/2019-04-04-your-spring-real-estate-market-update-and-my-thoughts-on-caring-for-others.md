@@ -26,7 +26,7 @@ Today we’ll be taking a quick look at our latest real estate market, but that�
 
 **First off, the spring market is here!** We’re seeing great activity for homes priced under $350,000, and it’s a seller’s market in most price points. Over $350,000, however, things are a bit more challenging. [Check out this link](https://www.searchallproperties.com/listings/2609668/albany-ny-real-estate){: target="_blank"} to find out all the latest stats and numbers you need to know; if you want a more in-depth look at your specific area, though, I’d be glad to help you out.
 
-Interest rates are under 4%, and it’s the perfect time to lock in a rate by purchasing a home. It’s also great news for sellers—buyers can afford to make a purchase because they’ll be paying less on interest. Since it’s such a great market, plenty of investors are looking to buy homes fast. If you want to secure a quick sale for your home, reach out to me and I can put you in touch with someone.
+Interest rates are under 4%, and it’s the perfect time to lock in a rate by purchasing a home. This is also great news for sellers—buyers can afford to make a purchase because they’ll be paying less on interest. Since it’s such a great market, plenty of investors are looking to buy homes fast. If you want to secure a quick sale for your home, reach out to me and I can put you in touch with someone.
 
 **Next, if you’re a Guilderland resident, you should have already received your assessment.** If you have any questions about it, I’d be happy to take a look and let you know if it seems reasonable. If it doesn’t, I can pull comparable sales and give you the data you need for the assessor.
 
