@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interviewing Savvy Real Estate Investor Aaron Bowman
-date: 2019-04-02 06:32:00
+date: 2019-04-03 06:32:00
 tags:
   - Real Estate
 excerpt: Joining me today is real estate investor Aaron Bowman.
