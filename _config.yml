@@ -20,14 +20,13 @@ highlighter: rouge
 paginate: 8
 permalink: none
 
-gems:
+plugins_dir:
   - jemoji
   - octopress-autoprefixer
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
-  # - jekyll-redirect-from
-#  - jekyll-seo-tag
+
 
 # Excludes
 exclude:
