@@ -70,17 +70,6 @@ lawyer:
   url: http://salzmannhughes.com
   logo_path: /img/hughes.png
 
-lawyer2:
-  show_section: false   
-  name: Christopher E. Rice
-  title: Shareholder
-  brand: Martson Law Offices
-  address: Ten East High Street<br>Carlisle, PA 17013
-  phone: 717-243-3341
-  email: crice@martsonlaw.com
-  url: http://martsonlaw.com
-  logo_path: /img/martson.png  
-
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
