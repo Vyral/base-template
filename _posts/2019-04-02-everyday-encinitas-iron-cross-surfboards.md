@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   At Iron Cross Surfboards, you can get everything you need to catch the perfect
   wave.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+5+_+Iron+Cross+Surfboards.mp4
 pullquote: Iron Cross carries every kind of surfboard for any skill level—all handmade.
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: Lfe3vIvmOiQ
 
 <center><em>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</em></center>
 
-&nbsp;
+ 
 
 For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers.
 
