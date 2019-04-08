@@ -8,13 +8,13 @@ excerpt: >-
   If your business doesn’t have a good purpose, then what is there to truly keep
   you going?
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2019/Central+PA+Real+Estate+Agent-+Do+You+Need+More+Purpose+in+Your+Business_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/Recruiting+Videos/2019/Central+PA+Real+Estate+Agent-+purpose.mp4
 pullquote: The purpose I needed wasn’t being found through growing a business.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BylN0nOOcZ4
+youtube_code: 83m3MUEz38o
 ---
 
 {% include youtube.html %}
