@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Veteran Lending Privileges You Can Take Advantage Of
-date: 2019-04-05 15:10:41
+date: 2019-04-05 15:10:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GL0Ijvis3Co
+youtube_code: QomZfbf_kNk
 ---
 
 {% include youtube.html %}
 
-If you’re a veteran of the Armed Forces, there are many special lending privileges you can take advantage of if you’re thinking of buying a home.&nbsp;
+If you’re a veteran of the Armed Forces who's thinking of buying a home, there are many special lending privileges you can take advantage of.
 
 Primarily, **VA loans offer 100% financing, no required mortgage insurance, and the lowest interest rates on the market.** Ultimately, this means you’ll pay as little as possible for your monthly mortgage payment.&nbsp;
 
