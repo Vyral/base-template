@@ -8,13 +8,13 @@ excerpt: >-
   We can’t be successful without a purpose, and our biggest purpose is in giving
   back to our community.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+giving+back+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+giving+back.mp4
 pullquote: 'Sitting on the plane, I realized how much I wanted to help people in need.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: XstyuV4vTbQ
+youtube_code: ZN74ivcd8nc
 ---
 
 {% include youtube.html %}
