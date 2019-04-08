@@ -13,7 +13,8 @@ pullquote: The re-negotiation process depends on the seller.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/how-to-un-cancel-a-canceled-agreement-youtube.jpg
+youtube_alternate_image: >-
+  /uploads/new-is-it-possible-to-un-cancel-a-cancelled-purchase-agreement-youtube-new.jpg
 youtube_code: 'https://youtu.be/prCJxIcoDtA'
 ---
 
@@ -27,8 +28,8 @@ We’ve seen a number of cases like this over the years. One or both parties doe
 
 **The first thing we need to determine is whether another contract has been signed on the property, and get a better understanding of who we are dealing with on the other end of the transaction.** One party might feel hurt or mistreated, or one party might feel that they’ve been nickeled and dimed. Regardless, it’s usually clear that at least one party had second thoughts in the time since the cancellation of the purchase agreement was signed.
 
-One concern either party might have in this situation is whether they are hurting their leveraging power by coming back to the table. The answer to **this really depends on the other party and their willingness or desire to continue.** If the opposite party is willing to reopen the door where things left off, it might be simple to reinstate the purchase agreement with some additional amendments to the purchase agreement. If, on the other hand, the home received a lot of showing activity and/or interest since the cancellation was signed, the seller might be reluctant to proceed. However, the seller would need to start all over with a new buyer and a new inspection contingency period. Not having to repeat that process again might be a huge plus for a seller. &nbsp;
+One concern either party might have in this situation is whether they are hurting their leveraging power by coming back to the table. The answer to **this really depends on the other party and their willingness or desire to continue.** If the opposite party is willing to reopen the door where things left off, it might be simple to reinstate the purchase agreement with some additional amendments to the purchase agreement. If, on the other hand, the home received a lot of showing activity and/or interest since the cancellation was signed, the seller might be reluctant to proceed. However, the seller would need to start all over with a new buyer and a new inspection contingency period. Not having to repeat that process again might be a huge plus for a seller.  
 
-**There have been quite a few situations where we’ve been able to resurrect a purchase agreement that was formerly cancelled.** Hopefully your next real estate transaction avoids this kind of situation, but if it happens, and sometimes it does, options do exist for buyers and seller. &nbsp;
+**There have been quite a few situations where we’ve been able to resurrect a purchase agreement that was formerly cancelled.** Hopefully your next real estate transaction avoids this kind of situation, but if it happens, and sometimes it does, options do exist for buyers and seller.  
 
-If you have any questions for us about this topic or about anything else related to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any questions for us about this topic or about anything else related to real estate, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.<br>
