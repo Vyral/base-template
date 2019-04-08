@@ -71,6 +71,7 @@ lawyer:
   logo_path: /img/hughes.png
 
 lawyer2:
+  show_section: false   
   name: Christopher E. Rice
   title: Shareholder
   brand: Martson Law Offices
