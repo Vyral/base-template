@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s in My Listing Presentation Swag Bag?
-date: 2019-04-08 16:59:09
+date: 2019-04-07 16:59:00
 tags:
   - Listing Presentation
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/qVV3hjqJVSk'
 
 {% include youtube.html %}
 
-While on my way to a listing appointment, I thought it would be a good idea to show you how I prepare with a look at my listing bag.&nbsp;
+While on my way to a listing appointment, I thought it would be a good idea to show you how I prepare with a look at my listing bag. 
 
 **Whenever we have a listing appointment and it’s time for me to go, I pick up this swag bag with a lot of goodies inside.**
 
@@ -26,8 +26,8 @@ The first thing in there is a black folder that contains our tiered service leve
 
 {% include pullquote.html %}
 
-There’s another black folder that contains things that need to go back to our office, such as our&nbsp;<br>“Pass the baton” form, our VIP Questionnaire, and a paper listing agreement. There’s also an addressed envelope in there for me to send them a thank you note after the appointment.
+There’s another black folder that contains things that need to go back to our office, such as our <br>“Pass the baton” form, our VIP Questionnaire, and a paper listing agreement. There’s also an addressed envelope in there for me to send them a thank you note after the appointment.
 
 **Some other fun things in the bag include a branded water bottle, a branded sticky note pad, a pen, and branded packing tape and a sharpie.**
 
-Let me know the fun things that you guys do for your clients and the different ways you get ready to win your listing appointments. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+Let me know the fun things that you guys do for your clients and the different ways you get ready to win your listing appointments. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
