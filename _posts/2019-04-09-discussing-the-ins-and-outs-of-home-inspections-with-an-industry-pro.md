@@ -18,7 +18,7 @@ youtube_code: Psoh0AYAU4Q
 
 {% include youtube.html %}
 
-Dave Schwartz from Advantage Home Inspections joins me to discuss all things home inspection.
+<p style="text-align: center;"><em>Dave Schwartz from Advantage Home Inspections joins me to discuss all things home inspection.</em></p>
 
 Dave Schwartz from Advantage Home Inspections and I have been friends for going on 30 years, essentially since he started his home inspection company. Since then, many things have changed for the both of us. He now has 20 licensed inspectors on staff, and over the course of his career, they’ve done over 85,000 inspections.
 
