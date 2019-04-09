@@ -1,0 +1,51 @@
+---
+layout: post
+title: Discussing the Ins and Outs of Home Inspections with an Industry Pro
+date: 2019-04-09 21:33:54
+tags:
+  - Real Estate
+excerpt: >-
+  Dave Schwartz from Advantage Home Inspections joins me to discuss all things
+  home inspection.
+enclosure:
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: Psoh0AYAU4Q
+---
+
+{% include youtube.html %}
+
+Dave Schwartz from Advantage Home Inspections joins me to discuss all things home inspection.
+
+Dave Schwartz from Advantage Home Inspections and I have been friends for going on 30 years, essentially since he started his home inspection company. Since then, many things have changed for the both of us. He now has 20 licensed inspectors on staff, and over the course of his career, they’ve done over 85,000 inspections.
+
+Additionally, David serves as the chair of the Home Inspector Oversight Committee at the State Board of Technical Registration, giving him the leading edge on what’s going on in the home inspection industry. He’s an expert on how to react, respond, and do the best work possible as an inspector.
+
+Today I want to pick David’s brains about all things home inspection by asking him a few questions about the marketplace as they relate to his field.
+
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+
+**1:45—**David discusses why more transactions than normal seem to be falling out of escrow during the inspection period, and how the tile roofs common in Arizona are a contributing factor.
+
+**4:25—**Many buyers use the age of a roof as a negotiating tool against sellers; how do inspectors respond to the age of a home?
+
+**7:45—**The deadly gas radon has made a resurgence as a talking point in real estate; David discusses his radon-testing services.
+
+**10:40—**Once upon a time, Freddie Mac and Fannie would avoid using the term “mold” and would instead calling it “discoloration,” since there are so many variations. David discusses his methods to test for mold when it’s present.
+
+**13:10—**How many components of a home do inspectors look at? What is an inspection like on a home that nobody has inspected before?
+
+**15:19—**What’s a pre-inspection?
+
+**18:06—**Contact information and service hours for Advantage Home Inspections.
+
+**19:21—**What warranties are offered with David’s inspections?
+
+**22:41—**Wrapping up the discussion.
+
+Even after 33 years of knowing David, I still learned some new things in today’s conversation—and I hope you did, too. I’d like to thank David for taking time to chat with me about these important topics, and for his contributions to our industry as a whole. He’s one of the best.
+
+If you have any questions about other real estate topics, don’t hesitate to reach out to the RE/MAX Professionals. We’d love to be your resource.<br>&nbsp;
