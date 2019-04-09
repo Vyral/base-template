@@ -37,3 +37,7 @@ It was then that we made the decision to drop the price by $100,000 to prevent i
 Now, the home is receiving the buzz it deserves and we’re holding an open house for it this weekend!&nbsp;
 
 If you have any questions or are curious about any of my weekend open houses, please give me a call at 240-731-8079. I’d love to have a conversation with you! Join me again next week for another edition of “What’s Working Now Tuesday at 2”!
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
