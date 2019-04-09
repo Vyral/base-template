@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us at Our Ice Cream Social
-date: 2019-04-01 21:57:08
+date: 2019-04-01 21:57:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/ice-cream-social-youtube.jpg
-youtube_code: PzVvV7yaWPQ
+youtube_code: IVFyPeZKikM
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ As many of you know, our team recently partnered with Everyday Angels in an effo
 
 With this partnership, for every home we put under contract between March and May, we’ll donate $500 to $1,000 of that transaction to Everyday Angels.&nbsp;
 
-We’re proud to be able to give back to our community, and to help us cap off this partnership, **we’re inviting you to an ice cream social we’re hosting on April 29 at 722 Stonecroft Lane in Woodstock, Georgia.** We’ll have plenty of ice cream to go around, and we’ll also present our final check to Everyday Angels.&nbsp;
+We’re proud to be able to give back to our community, and to help us cap off this partnership, **we’re inviting you to an ice cream social we’re hosting on June 29 at 722 Stonecroft Lane in Woodstock, Georgia.** We’ll have plenty of ice cream to go around, and we’ll also present our final check to Everyday Angels.&nbsp;
 
 {% include pullquote.html %}
 
