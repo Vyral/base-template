@@ -18,7 +18,7 @@ youtube_code: QZR6f0eeJQ0
 
 {% include youtube.html %}
 
-There are three lessons all fix-and-flippers must learn, and I’d like to share them with you today.
+<center>There are three lessons all fix-and-flippers must learn, and I’d like to share them with you today.</center>
 
 If you’re considering flipping properties, there are three things you need to know: **At some point, you’ll likely go over your budget, get behind schedule, and need to fire your contractor**. No matter your level of skill or experience as an investor, these things can happen.
 
