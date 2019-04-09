@@ -19,7 +19,7 @@ youtube_code: aFDxXbG81i0
 
 {% include youtube.html %}
 
-Technology is playing an emerging role in the real estate world, and its impact is being felt by buyers, sellers, and Realtors alike.
+<p style="text-align: center;"><em>Technology is playing an emerging role in the real estate world, and its impact is being felt by buyers, sellers, and Realtors alike.</em></p>
 
 The real estate industry is reinventing itself, and several tech companies are emerging in the business that will influence both consumers and Realtors moving forward.&nbsp;
 
