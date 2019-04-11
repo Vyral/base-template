@@ -5,7 +5,7 @@ date: 2019-04-09 21:33:54
 tags:
   - Real Estate
 excerpt: >-
-  Dave Schwartz from Advantage Home Inspections joins me to discuss all things
+  Dave Swartz from Advantage Home Inspections joins me to discuss all things
   home inspection.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nate+Martinez/+Videos/2019/Valley+of+the+Sun+Real+Estate+Agent-.mp4
@@ -19,9 +19,9 @@ youtube_code: aRYXTqn14Uw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Dave Schwartz from Advantage Home Inspections joins me to discuss all things home inspection.</em></p>
+<p style="text-align: center;"><em>Dave Swartz from Advantage Home Inspections joins me to discuss all things home inspection.</em></p>
 
-Dave Schwartz from Advantage Home Inspections and I have been friends for going on 30 years, essentially since he started his home inspection company. Since then, many things have changed for the both of us. He now has 20 licensed inspectors on staff, and over the course of his career, they’ve done over 85,000 inspections.
+Dave Swartz from Advantage Home Inspections and I have been friends for going on 30 years, essentially since he started his home inspection company. Since then, many things have changed for the both of us. He now has 20 licensed inspectors on staff, and over the course of his career, they’ve done over 85,000 inspections.
 
 Additionally, David serves as the chair of the Home Inspector Oversight Committee at the State Board of Technical Registration, giving him the leading edge on what’s going on in the home inspection industry. He’s an expert on how to react, respond, and do the best work possible as an inspector.
 
