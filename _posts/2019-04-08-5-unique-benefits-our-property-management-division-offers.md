@@ -38,4 +38,4 @@ Here are five unique benefits our new property management division offers to pro
 
 **5. Free property management program.** This guarantees that we’ll refund all the fees charged to you when you sell the property.&nbsp;
 
-If you’d like to know more about what we offer if you rent your property through us or you have any more questions about our property management division, don’t hesitate to reach out to me. I’d love to help you.
+If you’d like to know more about what we offer if you rent your property through us or you have any more questions about our [Free Property Management](https://www.scottsdalerealtymanagement.com/){: target="_blank"} division, don’t hesitate to reach out to me. I’d love to help you.
