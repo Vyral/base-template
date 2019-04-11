@@ -19,7 +19,7 @@ youtube_code: YJMhuKgBKdw
 
 {% include youtube.html %}
 
-There’s a lot of opportunity to be had with fixing and flipping a home, but it doesn’t come without its share of headaches.
+<p style="text-align: center;"><em>There’s a lot of opportunity to be had with fixing and flipping a home, but it doesn’t come without its share of headaches.</em></p>
 
 While you can turn a handsome profit buy flipping a home, there are a few factors you need to take into consideration before buying a fixer-upper.
 
