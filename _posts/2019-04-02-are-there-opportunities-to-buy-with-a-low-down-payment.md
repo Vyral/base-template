@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: You aren’t doomed to pay 20% down. Here are some of the options you have.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Are+There+Opportunities+to+Buy+With+a+Low+Down+Payment_.mp4
 pullquote: >-
   There are many factors that go into this, and a lot of them depend on your
   specific situation.
@@ -21,7 +22,7 @@ youtube_code: yhgSBDdE2qU
 
 <center><em>You aren&rsquo;t doomed to pay 20% down. Here are some of the options you have.</em></center>
 
-&nbsp;
+ 
 
 We get this question a lot: Are there opportunities to buy a home with low or no money down?
 
@@ -36,6 +37,6 @@ There are several loan programs out there, such as the [Utah Housing Corporation
 
 {% include pullquote.html %}
 
-There are many factors that go into this, and a lot of them depend on your specific situation. **Your best bet is to speak with a professional real estate agent**, and we’d be more than happy to have a conversation and figure out what works best for you.&nbsp;
+There are many factors that go into this, and a lot of them depend on your specific situation. **Your best bet is to speak with a professional real estate agent**, and we’d be more than happy to have a conversation and figure out what works best for you. 
 
 If you have any questions, would like more information, or are ready to talk about loan options, feel free to reach out to us. We look forward to hearing from you soon.
