@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s in My Listing Presentation "Swag Bag"?
+title: What’s in Our Listing Presentation "Swag Bag"?
 date: 2019-04-07 16:59:00
 tags:
   - Listing Presentation
