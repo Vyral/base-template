@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/qVV3hjqJVSk'
 
 {% include youtube.html %}
 
-While on my way to a listing appointment, I thought it would be a good idea to show you how our team prepares with a look at our listing bag.&nbsp;
+While on my way to a listing appointment, I thought it would be a good idea to show you how the Wolek Group prepares, with a look at our listing bag.&nbsp;
 
 **Whenever we have a listing appointment and it’s time for us to go, we pick up a "swag bag" which includes a lot of goodies inside.**
 
