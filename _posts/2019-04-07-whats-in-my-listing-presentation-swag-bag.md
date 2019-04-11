@@ -18,15 +18,15 @@ youtube_code: 'https://youtu.be/qVV3hjqJVSk'
 
 {% include youtube.html %}
 
-While on my way to a listing appointment, I thought it would be a good idea to show you how I prepare with a look at my listing bag.&nbsp;
+While on my way to a listing appointment, I thought it would be a good idea to show you how our team prepares with a look at our listing bag.&nbsp;
 
-**Whenever we have a listing appointment and it’s time for me to go, I pick up this swag bag with a lot of goodies inside.**
+**Whenever we have a listing appointment and it’s time for us to go, we pick up a "swag bag" which includes a lot of goodies inside.**
 
 The first thing in there is a black folder that contains our tiered service level agreement, comparables from the neighborhood, and tax records. Then, we have our listing presentation manual in there to show them how we’ll market their home. **This all stays with the client.**
 
 {% include pullquote.html %}
 
-There’s another black folder that contains things that need to go back to our office, such as our&nbsp;<br>“Pass the baton” form, our VIP Questionnaire, and a paper listing agreement. There’s also an addressed envelope in there for me to send them a thank-you note after the appointment.
+There’s another black folder that contains things that need to go back to our office, such as our “Pass the baton” form, our VIP Questionnaire, and a paper listing agreement. There’s also an addressed envelope in there for us to send them a thank-you note after the appointment.
 
 **Some other fun things in the bag include a branded water bottle, a branded sticky note pad, a pen, and branded packing tape and a sharpie.**
 
