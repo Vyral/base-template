@@ -25,7 +25,7 @@ Dave Swartz from Advantage Home Inspections and I have been friends for going on
 
 Additionally, David serves as the chair of the Home Inspector Oversight Committee at the State Board of Technical Registration, giving him the leading edge on what’s going on in the home inspection industry. He’s an expert on how to react, respond, and do the best work possible as an inspector.
 
-Today I want to pick David’s brains about all things home inspection by asking him a few questions about the marketplace as they relate to his field. Some topics we cover are:
+Today I want to pick David’s brain about all things home inspection by asking him a few questions about the marketplace as they relate to his field. Some topics we cover are:
 
 <ul><li>David discusses why more transactions than normal seem to be falling out of escrow during the inspection period, and how the tile roofs common in Arizona are a contributing factor.</li>
 
@@ -33,7 +33,7 @@ Today I want to pick David’s brains about all things home inspection by asking
 
 <li>The deadly gas radon has made a resurgence as a talking point in real estate; David discusses his radon-testing services.</li>
 
-<li>Once upon a time, Freddie Mac and Fannie would avoid using the term “mold” and would instead calling it “discoloration,” since there are so many variations. David discusses his methods to test for mold when it’s present.</li>
+<li>Once upon a time, Freddie Mac and Fannie Mae would avoid using the term “mold” and would insist calling it “discoloration,” since there are so many variations. David discusses his methods to test for mold when it’s present.</li>
 
 <li>How many components of a home do inspectors look at? What is an inspection like on a home that nobody has inspected before?</li>
 
