@@ -19,7 +19,7 @@ youtube_code: Txcvap7Oxm0
 
 {% include youtube.html %}
 
-These tips are valuable information. How valuable? It could mean $21,000.
+<p style="text-align: center;"><em>These tips are valuable information. How valuable? It could mean $21,000.</em></p>
 
 As promised, I’m revealing how I sold a home for $21,000 over the listing price in just two hours and 20 minutes!&nbsp;
 
