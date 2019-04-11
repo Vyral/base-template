@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-4-mortgage-tips-np.jpg
-youtube_code: 1l0e2QYCE5A
+youtube_code: oRFxtudEbSQ
 ---
 
 {% include youtube.html %}
