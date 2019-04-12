@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   When I go on a listing appointment, I bring the same things with me each time.
   Find out what they are in today’s video.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+We+Bring+This+to+Every+Listing+Appointment+(1).mp4
 pullquote: Let me know about the fun things that you do for your clients.
 enclosure_type: video/mp4
 enclosure_time:
