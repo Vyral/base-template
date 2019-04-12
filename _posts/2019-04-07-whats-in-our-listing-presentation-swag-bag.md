@@ -12,13 +12,14 @@ pullquote: Let me know about the fun things that you do for your clients.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jennie-wolek-i-bring-this-to-every-listing-appointment-youtube.jpg
+youtube_alternate_image: >-
+  /uploads/new-jennie-wolek-i-bring-this-to-every-listing-appointment-youtube-new.jpg
 youtube_code: 'https://youtu.be/qVV3hjqJVSk'
 ---
 
 {% include youtube.html %}
 
-While on my way to a listing appointment, I thought it would be a good idea to show you how the Wolek Group prepares, with a look at our listing bag.&nbsp;
+While on my way to a listing appointment, I thought it would be a good idea to show you how the Wolek Group prepares, with a look at our listing bag. 
 
 **Whenever we have a listing appointment and it’s time for us to go, we pick up a "swag bag" which includes a lot of goodies inside.**
 
