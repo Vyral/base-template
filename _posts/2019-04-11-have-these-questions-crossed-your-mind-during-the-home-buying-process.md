@@ -40,10 +40,10 @@ A. The core set of home loans consists of conventional, FHA, VA, THDA (specific 
 
 **Q. &nbsp;&nbsp; &nbsp;How do we know if the home we’re purchasing qualifies for the loan we’re approved for?&nbsp;**
 
-A. It’s important to be aware of the appraisal guidelines built into your loan. FHA and VA loan requirements tend to be a little more stringent with regard to what the home may need; you’ll be in the clear with smaller cosmetic fixes, but if the home is in need of major, structural repair, you won’t qualify for these 100% loan program. In this event, your options will include a 20%-down conventional loan, a construction loan, or an FHA 203k loan.&nbsp;
+A. It’s important to be aware of the appraisal guidelines built into your loan. FHA and VA loan requirements tend to be a little more stringent with regard to what the home may need; you’ll be in the clear with smaller cosmetic fixes, but if the home is in need of major, structural repair, you won’t qualify for these 100% loan programs. In this event, your options will include a 20%-down conventional loan, a construction loan, or an FHA 203k loan.&nbsp;
 
 **Q. &nbsp; &nbsp; &nbsp; Should I have an inspection done on the home?&nbsp;**
 
 A. As familiar as you may be with the electrical or plumbing makeup of a home, I always recommend that buyers have the property inspected. There’s only so much the naked eye will tell us about the functionality of a home. However, a home inspector will get down to the nitty gritty—they’ll crawl under the house, go into the attic, and check any and every plug. When it’s all said and done, the inspector’s report will be exhaustive, and they’ll make recommendations for findings that are outside their scope of expertise. In a few words, an inspection will be very worth it in the long run.&nbsp;
 
-If you have questions about today’s topic or anything else real estate-related, please contact us by phone at 423-896-6000 or by email at [Sales@SherlinTeam.com](mailto:Sales@SherlinTeam.com). We look forward to hearing from you!
+If you have questions about today’s topic or anything else real estate-related, please contact us by phone at 423-896-6000 or by email at [Sales@SherlinTeam.com](mailto:Sales@SherlinTeam.com). We look forward to hearing from you\!
