@@ -27,9 +27,9 @@ client:
   email: josh@servingsaltlake.com
   url: http://sternteam.org
   first_CTA_text: Home Evaluation
-  first_CTA_URL: http://www.viewsaltlakecityareahomes.com/sell/
+  first_CTA_URL: https://www.sternteam.com/homevalue/ssl-homevalue
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.viewsaltlakecityareahomes.com/
+  second_CTA_URL: https://www.sternteam.com/
   phone_CTA: true
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1807954';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 welcome_headline: Get Educated About Real Estate
