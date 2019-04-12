@@ -14,10 +14,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-5-19small.jpg
-youtube_code: qsUgJttHt3I
+youtube_code: w_1YMmudS7k
 ---
 
-{% include youtube.html %}<br><br>I’ve got a quick market update for you today that covers the first quarter of 2019 here on the garden island.&nbsp;
+{% include youtube.html %}<br><br>I’ve got a quick market update for you today that covers the first quarter of 2019 here on the garden island. 
 
 **Sales have slowed so far this year and the market is continuing to level off.** When we go on the MLS and look at the list-to-sale price ratio, there are a few more discounts happening these days. Homes are selling a percentage point or two lower than they were, which is further indicative of the slowdown.
 
@@ -27,7 +27,7 @@ youtube_code: qsUgJttHt3I
 
 Another thing I’ve noticed is that the number of home sales is down by 58% from last year. **The dollar volume of those sold homes is down a whopping 70% from last year.** This is all the proof I need that the market is slowing down.
 
-This slowdown could be a good thing for some. It might give buyers more motivation to be flexible when making offers. &nbsp;Another big benefit for buyers right now is interest rates. Mortgage interest rates are right around 4.28% for a conforming loan here in Hawaii. Jumbo loan rates are even lower. This is all good news for buyers, although the limited inventory might make things a little more tricky in the interim.
+This slowdown could be a good thing for some. It might give buyers more motivation to be flexible when making offers.  Another big benefit for buyers right now is interest rates. Mortgage interest rates are right around 4.28% for a conforming loan here in Hawaii. Jumbo loan rates are even lower. This is all good news for buyers, although the limited inventory might make things a little more tricky in the interim.
 
 The bottom line is that the median price is up, the volume is way down, and we’ll continue to keep an eye on market prices for you as they change. **Whether you’re in the market to buy or sell, we’ll help get the right information out to you so that you can make an informed decision.**
 
