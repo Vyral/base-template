@@ -21,7 +21,7 @@ youtube_code: WENyBbq20gM
 
 {% include youtube.html %}
 
-Here’s what you should know about new construction—especially if you want to get a great deal.
+<p style="text-align: center;"><em>Here’s what you should know about new construction—especially if you want to get a great deal.</em></p>
 
 Today I’ll be going over five things you should know about new construction:
 
