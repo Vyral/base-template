@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did KW’s Rookie of the Year Get Her Start?
-date: 2019-04-11 20:15:46
+date: 2019-04-11 20:15:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,22 +14,22 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/trish-mcmillen-youtube.jpg
-youtube_code: RMvbgLSnnP0
+youtube_code: cbFd6nXUXx4
 ---
 
 {% include youtube.html %}
 
-I recently had the incredible privilege of interviewing Trisha McMillen (KW’s Rookie of the Year) about her decision to join my team and about the factors behind her success. This conversation was so amazing that I just knew I had to share it with you all today.&nbsp;
+I recently had the incredible privilege of interviewing Trisha McMillen (KW’s Rookie of the Year) about her decision to join my team and about the factors behind her success. This conversation was so amazing that I just knew I had to share it with you all today. 
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
 
-0:18 - An introduction to today’s interview.&nbsp;
+0:18 - An introduction to today’s interview. 
 
-0:50 - Trisha shares her story.&nbsp;
+0:50 - Trisha shares her story. 
 
-2:10 - Trisha explains where she got her sense of client care. &nbsp;
+2:10 - Trisha explains where she got her sense of client care.  
 
-3:19 - The background behind Trisha’s marketing skills.&nbsp;
+3:19 - The background behind Trisha’s marketing skills. 
 
 4:47 - What exciting things does Trisha have planned for the future?
 
