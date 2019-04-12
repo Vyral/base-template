@@ -18,7 +18,7 @@ youtube_code: bEGIhVZle10
 
 {% include youtube.html %}
 
-Luxury home shoppers can have high expectations when it comes to buying a property. The higher the price point, the more they expect. Most luxury homes have similar traits, but there are four features that are trending in 2019:
+Luxury home shoppers can have high expectations when it comes to buying a property. The higher the price point, the more they expect. Most luxury homes have similar traits, but **there are four features that are trending in 2019:**
 
 **1\. Greater privacy.** Luxury home shoppers don’t want to be able to see their neighbor when they walk outside. They want gates, walls, and hedges in order to keep things private.
 
