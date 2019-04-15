@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Things You Receive From a Real Estate Agent
-date: 2019-04-12 18:39:25
+date: 2019-04-12 18:39:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: QjnJtFq1PcI
+youtube_code: eSD0dr6Mg5E
 ---
 
 {% include youtube.html %}
