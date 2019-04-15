@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 5 Things You Should Know About New Home Construction
+title: The 5 Things You Should Know About New Construction Homes
 date: 2019-04-12 14:35:56
 tags:
   - Home Buyer Tips
