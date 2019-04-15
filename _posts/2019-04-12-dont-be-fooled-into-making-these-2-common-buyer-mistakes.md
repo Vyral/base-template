@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/52iSVSJM7_4'
 
 Major missteps in the home buying process can come at a high cost—that could mean losing thousands of dollars or, worse still, making a bad purchase. In particular, there are two mistakes buyers are often tripped up by:&nbsp;
 
-**<u>Mistake No. 1:</u> The buyer goes directly to the listing agent and making an offer.** On its face, this might not seem like much of a mistake, but at the outset, that same listing agent signed an agreement with the seller to represent and negotiate on behalf of the seller above all. As the buyer, who has YOUR best interests in mind?&nbsp;
+**<u>Mistake No. 1:</u> The buyer goes directly to the listing agent and makes an offer.** On its face, this might not seem like much of a mistake, but at the outset, that same listing agent signed an agreement with the seller to represent and negotiate on their behalf above anyone else's. As the buyer, who has YOUR best interests in mind?&nbsp;
 
 A popular myth that some buyers fall prey to is the notion that, by going through the listing agent, they’ll pay less commission and get an unbeatable deal on the home. This simply isn’t true.&nbsp;
 
