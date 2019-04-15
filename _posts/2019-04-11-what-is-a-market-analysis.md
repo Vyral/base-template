@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-11-market-analysis-yt.jpg
-youtube_code: HN0zcsOBpYk
+youtube_code: NGFAGgvZlxE
 ---
 
 {% include youtube.html %}
