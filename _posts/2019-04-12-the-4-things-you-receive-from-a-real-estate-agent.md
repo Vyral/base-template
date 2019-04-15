@@ -25,7 +25,7 @@ You’re probably aware of the commission you pay an agent during a home sale, b
 
 **1\. Real estate agents are marketing specialists.** We specialize in marketing your property and getting it seen by the most buyers possible. We put it in the MLS, take professional pictures of your home, send out mailers and ads, create emails, call potential buyers, and much more. There’s a lot that goes into getting your home prepared, and agents handle all of it for you.
 
-<br>**2\. Agents bring qualified buyers to your home.** When we consult a buyer, we go over their wants and needs in order to find out your home is the right fit for them. We also make sure they’ve spoken with a lender already. We handle showings, scheduling, and appointments on your time.
+<br>**2\. Agents bring qualified buyers to your home.** When we consult a buyer, we go over their wants and needs in order to find if your home is the right fit for them. We also make sure they’ve spoken with a lender already. We handle showings, scheduling, and appointments on your time.
 
 {% include pullquote.html %}
 
