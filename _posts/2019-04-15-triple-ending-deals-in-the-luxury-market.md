@@ -1,0 +1,31 @@
+---
+layout: post
+title: Triple Ending Deals in the Luxury Market
+date: 2019-04-15 18:21:33
+tags:
+  - Increase Business
+excerpt: Today we’ll cover two easy ways to triple end a deal in the luxury market.
+enclosure:
+pullquote: Consumers always want what they can’t have.
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: n-bEq4WYN5Q
+---
+
+{% include youtube.html %}
+
+Using pocket listings and coming-soon listings is a great way to triple end a deal.&nbsp;
+
+Why? Well, **you have a much higher chance of working with an unrepresented buyer with these kinds of deals—especially in the luxury market.&nbsp;**
+
+As a reminder, a coming-soon listing is a home you haven’t yet put on the open market, but that you’re marketing as being an up-and-coming option for local buyers. Consumers always want what they can’t have, which is exactly how coming-soon listings create such a sense of urgency among buyers.&nbsp;
+
+{% include pullquote.html %}
+
+Pocket listings, meanwhile, are homes that have been listed privately and never hit the MLS at all.&nbsp;
+
+As was mentioned earlier in this message, many buyers who seek these kinds of listings will forgo the representation of a buyer’s agent. **This gives you the opportunity to represent the buyer and the seller, and to potentially help the buyer sell their current home, as well.**
+
+&nbsp;
