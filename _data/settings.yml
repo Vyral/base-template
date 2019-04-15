@@ -25,9 +25,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.johnschustergroup.com/home-evaluation.php
+  first_CTA_URL: https://www.johnschustergroup.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.johnschustergroup.com/idx/map/
+  second_CTA_URL: https://www.johnschustergroup.com/
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808265';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
@@ -36,14 +36,14 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://www.johnschustergroup.com/home-evaluation.php
+    CTA_url: https://www.johnschustergroup.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.johnschustergroup.com/idx/map/
+    CTA_url2: https://www.johnschustergroup.com/
 
 lender:
   show_section: false
