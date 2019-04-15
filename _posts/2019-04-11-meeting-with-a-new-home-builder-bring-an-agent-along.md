@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Do you need agent representation when meeting with a new home builder? If you
   want to get the best deal possible, the answer is yes.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+Meeting+With+a+New+Home+Builder_+Bring+an+Agent+Along.mp4
 pullquote: >-
   New home builders operate under a set of rules that are slightly different
   than what you’d find in other real estate transactions.
@@ -23,7 +24,7 @@ youtube_code: G13xNYg11js
 
 <center><em>Do you need agent representation when meeting with a new home builder? If you want to get the best deal possible, the answer is yes.</em></center>
 
-&nbsp;
+ 
 
 As a homebuyer, you should always have an agent by your side when meeting with a new home builder.
 
