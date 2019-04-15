@@ -24,13 +24,13 @@ youtube_code: 'https://youtu.be/1B3plMTEyPg'
 
 If you’re thinking of purchasing a home in the near future but you’re also concerned about not being able to afford the down payment, I encourage you to reach out to me. I can help you figure out your budget, what sales price you’ll qualify for when we get to that point, and then we can set a target goal for your savings on that down payment. You’ll also want to think about saving for closing costs, which are an additional fee that will occur in the buying process.
 
-Additionally, a generally helpful thing to do is to assess your spending habits. A lot of people don’t realize how much money they spend at, say, Starbucks, or how much they spend on eating out. Look at your spending habits, and start making some changes. For example, instead of spending $5 on coffee at Starbucks, make a pot of coffee at home, and put the money you save into a piggy bank or savings account in order to move towards your down payment.
+Additionally, a generally helpful thing to do is to assess your spending habits. A lot of people don’t realize how much money they spend at, say, Starbucks, or how much they spend on eating out. Look at your spending habits, and start making some changes. For example, instead of spending $5 on coffee at Starbucks, make a pot of coffee at home, and put the money you save into a piggy bank or savings account in order to move toward your down payment.
 
 With that, here are five things to do so you can begin saving some money for a down payment on that home:
 
 **1\. Reassess what you spend on insurance.** Many people don’t realize that their insurance companies have the potential to bundle your home, life, and auto insurance policies together under a single policy. Doing this helps decrease your monthly payment; if your current provider doesn’t do this, it may be worthwhile to switch to a new one.
 
-**2\. Examine your grocery bill.** Until you have enough saved up for your down payment, it might be time to cut out a few extra things from your regular grocery shopping trip, like those extra chips, chocolates, ice creams, and etc. How much money will that save you? And, further to that, how many months will it take you to get to your target goal?
+**2\. Examine your grocery bill.** Until you have enough saved up for your down payment, it might be time to cut out a few extra things from your regular grocery shopping trip, like those extra chips, chocolates, ice creams, etc. How much money will that save you? And, further to that, how many months will it take you to get to your target goal?
 
 {% include pullquote.html %}
 
