@@ -19,7 +19,7 @@ youtube_code: WLohjhDBJbc
 
 {% include youtube.html %}
 
-Home inspectors do more than you think. Jeanne Staron sat down with me to explain.
+<p style="text-align: center;"><em>Home inspectors do more than you think. Jeanne Staron sat down with me to explain.</em></p>
 
 Today I’m delighted to be joined by Jeanne Staron of Valley Home Inspectors, a property inspection company that has been serving the Valley for 25 years. They specialize in luxury and new construction homes, but they also serve the entire Valley with residential and commercial inspections. **Here’s an outline of our discussion, with timestamps that you can use to skip ahead to the section(s) that interest you the most:**
 
