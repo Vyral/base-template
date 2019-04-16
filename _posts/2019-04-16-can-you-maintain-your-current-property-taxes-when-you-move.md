@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Maintain Your Current Property Taxes When You Move?
-date: 2019-04-16 14:21:01
+date: 2019-04-16 09:00:00
 tags:
   - Real Estate
 excerpt: >-
