@@ -22,7 +22,10 @@ youtube_code: F-q8z07X5Z8
 
 <center>“When we are no longer able to change a situation, we are challenged to change ourselves.”
 
-\-Viktor Frankl, from “Man’s Search for Meaning”</center>
+-Viktor Frankl, from “Man’s Search for Meaning”</center>
+
+<br>
+<br>
 
 When the market turns, it’s time to roll up your sleeves, and for everyone around you to do the same. Cutting expenses and finding your margin, [as we discussed in our last video](https://realestatecareersinutah.com/do-you-know-how-to-manage-your-expenses-during-a-shift.html){: target="_blank"}, doesn’t necessarily mean slashing quality or delivering less. It means getting the job done with less money available to do it and working more hours to deliver exceptional service.&nbsp;
 
