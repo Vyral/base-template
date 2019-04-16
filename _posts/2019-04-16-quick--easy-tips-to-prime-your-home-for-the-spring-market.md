@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick & Easy Tips That Will Have Your Home Primed for the Spring Market
+title: Quick & Easy Tips To Prime Your Home for the Spring Market
 date: 2019-04-16 00:00:00
 tags:
   - Real Estate
@@ -23,7 +23,7 @@ youtube_code: 1zuB1bmufxE
 
 <center><em>The spring market has arrived, so here are a few key tips that will have your home ready to sell quickly and for top dollar once you list it.</em></center>
 
-&nbsp;
+ 
 
 How can you prepare your home for the spring market? There are a few simple tips to remember.
 
