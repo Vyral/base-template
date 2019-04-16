@@ -21,7 +21,9 @@ youtube_code: 1zuB1bmufxE
 
 {% include youtube.html %}
 
-<center>The spring market has arrived, so here are a few key tips that will have your home ready to sell quickly and for top dollar once you list it.</center>
+<center><em>The spring market has arrived, so here are a few key tips that will have your home ready to sell quickly and for top dollar once you list it.</em></center>
+
+&nbsp;
 
 How can you prepare your home for the spring market? There are a few simple tips to remember.
 
