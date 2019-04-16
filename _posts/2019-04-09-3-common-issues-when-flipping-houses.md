@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Things You Must Know When Investing In Real Estate
+title: 3 Common Issues When Flipping Houses
 date: 2019-04-09 00:00:00
 tags:
   - Real Estate
@@ -13,14 +13,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-9---steven-rosado---yt.jpg
-youtube_code: QZR6f0eeJQ0
+youtube_code: tp4RktyRIC8
 ---
 
 {% include youtube.html %}
 
 <center><em>There are three lessons all fix-and-flippers must learn, and I&rsquo;d like to share them with you today.</em></center>
 
-&nbsp;
+ 
 
 If you’re considering flipping properties, there are three things you need to know: **At some point, you’ll likely go over your budget, get behind schedule, and need to fire your contractor**. No matter your level of skill or experience as an investor, these things can happen.
 
