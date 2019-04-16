@@ -17,7 +17,7 @@ youtube_code: ffa8hAP8xls
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We are so appreciative of the support that you have shown us over the years. We love having you as clients, and we’d love to catch up with you and your family.</em></p>
+We are so appreciative of the support that you have shown us over the years. We love having you as clients, and we’d love to catch up with you and your family.
 
 Join us at Stonehaus on April 27 from 8:00 a.m. to 11:00 a.m. for coffee or tea. Bring the whole family along (even the furry ones)\!
 
