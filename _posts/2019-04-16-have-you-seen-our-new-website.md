@@ -24,7 +24,7 @@ This revolutionary approach to selling homes is way different than anything you'
 
 {% include pullquote.html %}
 
-If you’ve given any thought at all to making a move, I invite you to check out my new website, [29DaysSold.com](29DaysSold.com){: target="_blank"}. **This website will explain how my unique selling system delivers the results you want every time**. The old way of marketing in real estate simply isn’t as effective as it used to be.
+If you’ve given any thought at all to making a move, I invite you to check out my new website, 29DaysSold.com. **This website will explain how my unique selling system delivers the results you want every time**. The old way of marketing in real estate simply isn’t as effective as it used to be.
 
 The real estate market is heating up, so if you’re planning to make a move and want to get the best results possible without the stress, take a look at my new website and let me know what you think.
 
