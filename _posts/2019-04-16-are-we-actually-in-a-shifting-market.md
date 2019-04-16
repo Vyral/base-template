@@ -32,3 +32,7 @@ A few days later, a slightly better condo came onto the market. Again, she said 
 **If you’re worried about a shift, I’m definitely not seeing one in our market right now.** If you want to buy, though, you have to be ready and willing to pay top dollar. If you’re not, the market will pass you by and you’ll be stuck waiting for the shift. Really, the choice is up to you.
 
 If you’d like help navigating our current market or figuring out what to do, feel free to reach out to me. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
