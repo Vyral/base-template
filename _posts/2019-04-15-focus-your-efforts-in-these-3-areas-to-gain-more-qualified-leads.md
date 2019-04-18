@@ -9,7 +9,7 @@ excerpt: >-
   need to emphasize certain points of lead generation. Today we’ll cover those
   three points.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+Focus+Your+Efforts+in+These+3+Areas+to+Gain+More+Qualified+Leads+(1).mp4
+  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+Focus+Your+Efforts+in+These+3+Areas+to+Gain+More+Qualified+Leads+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
