@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quick & Easy Tips To Prime Your Home for the Spring Market
+title: Quick & Easy Tips to Prime Your Home for the Spring Market
 date: 2019-04-16 00:00:00
 tags:
   - Real Estate
