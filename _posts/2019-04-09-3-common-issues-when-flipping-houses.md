@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are three lessons all fix-and-flippers must learn, and I’d like to share
   them with you today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Videos/Hoboken+Real+Estate+-+3+Common+Issues+When+Flipping+Houses.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
