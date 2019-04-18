@@ -29,6 +29,4 @@ Have you ever worked with a great business only to forget their name? Or perhaps
 
 Every person, business, and vendor in our Referral Center has been thoroughly vetted, so you can be confident in the results you’ll receive. Better still, if you or anyone you know has a business you believe should be included among this list, let us know. We trust your judgment and would be happy to consider your referral.&nbsp;
 
-**To browse this one-stop catalog of the best and brightest local businesses, simply visit&nbsp;[https://petersonteam.5starreferralcenter.com/Landing.aspx](https://petersonteam.5starreferralcenter.com/Landing.aspx){: target="_blank"}**
-
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+**To browse this one-stop catalog of the best and brightest local businesses, [click here](https://petersonteam.5starreferralcenter.com/Landing.aspx){: target="_blank"}.&nbsp;**If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
