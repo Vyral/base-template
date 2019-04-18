@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Focus Your Efforts in These 3 Areas to Gain More Qualified Leads
-date: 2019-04-15 16:21:54
+date: 2019-04-15 16:21:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   need to emphasize certain points of lead generation. Today we’ll cover those
   three points.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+Focus+Your+Efforts+in+These+3+Areas+to+Gain+More+Qualified+Leads.mp4
+  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+Focus+Your+Efforts+in+These+3+Areas+to+Gain+More+Qualified+Leads+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
