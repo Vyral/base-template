@@ -20,20 +20,20 @@ youtube_code: qcsxbDLiNN8
 
 {% include youtube.html %}
 
-What if I told you that you could increase your qualified leads by 21 times? Well, you can and today I’ll spell out the three must-know things that will help you accomplish this. 
+What if I told you that you could increase your qualified leads by 21 times? Well, you can and today I’ll spell out the three must-know things that will help you accomplish this.&nbsp;
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:** 
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**&nbsp;
 
-<br>0:15—Increasing your lead conversions: 1. Speed to lead
+<br>0:15—Understanding the “long-term mindset” when following up with leads
 
-0:53—Increasing your lead conversions: 2. Follow-up  
+2:07—Increasing your lead conversions: 1. Speed to lead
 
-4:53—Increasing your lead conversions: 3. Script
+2:45—Increasing your lead conversions: 2. Follow-up &nbsp;
 
-6:58—Asking permission to follow-up if a lead isn’t quite ready  
+8:58—Increasing your lead conversions: 3. Script
 
-8:00—Understanding the “long-term mindset” when following up with leads
+8:58—Asking permission to follow-up if a lead isn’t quite ready &nbsp;
 
-9:50—Our contact info and downloading our sample scripts and follow-up plan 
+9:52—Our contact info and downloading our sample scripts and follow-up plan&nbsp;
 
 <br>If you have any questions about all that we covered today, please don’t hesitate to reach out to us. We’d be happy to assist you in your business\!
