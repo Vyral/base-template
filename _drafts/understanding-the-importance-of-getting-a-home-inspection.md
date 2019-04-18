@@ -21,7 +21,7 @@ youtube_code: UF0r43ywUVQ
 
 {% include youtube.html %}
 
-Today, we’ll discuss why a home inspection is vitally important to those buying a home.
+<center>Today, we’ll discuss why a home inspection is vitally important to those buying a home.</center>
 
 What makes an inspection such a necessary part of the real estate transaction for homebuyers?
 
