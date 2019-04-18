@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This 5-Step Guide Will Prepare Your Property for the Spring Market
-date: 2019-03-04 16:51:08
+date: 2019-04-14 16:51:08
 tags:
   - Home Seller Tips
 excerpt: >-
