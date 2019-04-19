@@ -33,7 +33,7 @@ That spurred the market on—**not only are we seeing far more competitive offer
 
 Above the $500,000 price point, homes that are properly marketed, fairly priced, and that are in great condition are selling as well.
 
-Right now, **inventory along the Wasatch Front is again going down, reaching an all-time low in all price ranges.** There are currently 1.5 months of supply, meaning that if no other homes came on the market today it would take 1.5 months to sell all the homes currently available.
+Right now, **inventory along the Wasatch Front is again going down, reaching an all-time low in all price ranges.** There are currently 1.5 months of supply, meaning that if no other homes came on the market today, it would take 1.5 months to sell all the homes currently available.
 
 Given that an inventory of four to five months is a balanced market and an inventory of six months or more constitutes a buyer’s market, **we can clearly see that this is a fantastic seller’s market.**
 
