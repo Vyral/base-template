@@ -41,4 +41,4 @@ If and when issues arise out of the inspection, as the buyer, **you’ll need to
 
 All in all, the inspection is instrumental in letting you know the exact condition of the home and about anything you weren’t aware of beforehand, so you’ll be comfortable with what you’re getting into.
 
-If you have any questions about today’s topic or anything else real estate-related, please feel free to reach out to your Colemere Realty specialist. We’d love to help you with this or however we can\!
+If you have any questions about today’s topic or anything else real estate-related, please feel free to reach out to your Colemere Realty specialist. We’d love to help you however we can\!
