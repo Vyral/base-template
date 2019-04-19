@@ -114,7 +114,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /uploads/rogl.hpren2.png
-  logo_width_number: 40
+  logo_width_number: 60
   hero_text: '-- MARKET -- Real Estate Video Blog'
   hero_background_hex: '#094264'
   hero_image_path: /img/background.jpg
