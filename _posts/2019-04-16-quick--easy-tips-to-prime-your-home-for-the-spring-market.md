@@ -23,6 +23,8 @@ youtube_code: orlhP5TCUSg
 
 <center><em>The spring market has arrived, so here are a few key tips that will have your home ready to sell quickly and for top dollar once you list it.</em></center>
 
+&nbsp;
+
 How can you prepare your home for the spring market? There are a few simple tips to remember.
 
 First, keep in mind that **nothing is more important than curb appeal**. In the video above, I’m at the home of one of my seller clients, and they’ve power-raked their lawn so that it will grow extra green in the coming weeks. They’ve also added fresh mulch to their landscaping. Besides doing these kinds of things, power washing your home’s exterior is always a good idea, too.
