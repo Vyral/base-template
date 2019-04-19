@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   The spring market has arrived, so here are a few key tips that will have your
   home ready to sell quickly and for top dollar once you list it.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%26+Associates+-+Quick+%26+Easy+Tips+to+Prime+Your+Home+for+the+Spring+Market.mp4
 pullquote: >-
   Do whatever you can to show off the master bedroom, master bathroom, and the
   kitchen area.
@@ -23,7 +24,7 @@ youtube_code: orlhP5TCUSg
 
 <center><em>The spring market has arrived, so here are a few key tips that will have your home ready to sell quickly and for top dollar once you list it.</em></center>
 
-&nbsp;
+ 
 
 How can you prepare your home for the spring market? There are a few simple tips to remember.
 
