@@ -24,14 +24,28 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: josh@servingsaltlake.com
+  email: successteam@sternteam.com
   url: http://sternteam.org
   first_CTA_text: Home Evaluation
   first_CTA_URL: https://www.sternteam.com/homevalue/ssl-homevalue
   second_CTA_text: Home Search
   second_CTA_URL: https://www.sternteam.com/
-  phone_CTA: true
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1807954';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+  phone_CTA: false
+
+sidebar_CTA:
+  CTA_image_path: /img/cta-images/001.jpg
+  CTA_title: "What’s Your Salt Lake City Home Worth?"
+  CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+  CTA_link_text: "Free Home Value Report"
+  CTA_url: https://www.sternteam.com/homevalue/ssl-homevalue
+
+second_sidebar_CTA:
+  CTA_image_path: /img/cta-images/002.jpg
+  CTA_title: "Looking for a Salt Lake City Home?"
+  CTA_text: "Discover your dream home. Search the entire MLS for your Salt Lake City home."
+  CTA_link_text: "Search the MLS"
+  CTA_url: https://www.sternteam.com/
+
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
   Our mission at The Stern Team is to be your best resource for real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. Subscribe to this blog to get the latest news on local market trends and receive expert tips for buying or selling a home.

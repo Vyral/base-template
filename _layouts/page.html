@@ -13,11 +13,11 @@
 				<div class="col-sm-12">
 
 					{% include navigation.html %}
-					{% include contact-modal.html %}
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1">
+					{% include cta-sidebar.html %}
 					{{ content }}
 				</div>
 
@@ -26,8 +26,8 @@
 
 			</div>
 			{% include testimonials.html %}
+			{% include bottom-navigation.html %}
 			{% include footer.html %}
-			{% include lightbox.html %}
 			{% include sumo.html %}
   </body>
 </html>

@@ -7,7 +7,6 @@
 		{% if site.data.settings.audit_header == true %}
 			{% include audit.html %}
 		{% endif %}
-		{% include contact-modal.html %}
 		{% include navigation.html %}
 		{% include header.html %}
 
@@ -18,6 +17,7 @@
 					{% include search-box.html %}
 				</div>
 			<div class="col-lg-7 col-md-7 col-lg-offset-1">
+				{% include cta-sidebar.html %}
 
 
 	<main>
@@ -42,14 +42,15 @@
 			<div class="col-md-5 col-lg-3 hidden-sm hidden-xs sidebar">
 				{% include socials.html %}
 				{% include search-box.html %}
-				{% include about.html%}
+				{% include emma-form.html %}
 				{% include reviews.html %}
 				{% include blog-archive-category.html %}
 			</div>
 		</div>
+		{% include about.html %}
 		{% include testimonials.html %}
+		{% include bottom-navigation.html %}
 		{% include footer.html %}
-		{% include lightbox.html %}
 		{% include sumo.html %}
   </body>
 </html>

@@ -1,0 +1,39 @@
+<div class="row">
+	<div class="col-lg-6">
+		<div class="cta-sidebar-container">
+			<div class="cta-img-container">
+				<a href="{{site.data.settings.sidebar_CTA.CTA_url}}" target="_blank">
+				<img src="{{site.data.settings.sidebar_CTA.CTA_image_path}}" alt="" />
+			</a>
+			</div>
+			<h5>{{site.data.settings.sidebar_CTA.CTA_title | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
+			<p>
+				{{site.data.settings.sidebar_CTA.CTA_text}}
+			</p>
+			<div class="ctacontainer center">
+				<a class="ctalink" href="{{site.data.settings.sidebar_CTA.CTA_url}}" target="_blank">
+					{{site.data.settings.sidebar_CTA.CTA_link_text}}
+				</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="col-lg-6">
+		<div class="cta-sidebar-container">
+			<div class="cta-img-container">
+				<a href="{{site.data.settings.second_sidebar_CTA.CTA_url}}" target="_blank">
+				<img src="{{site.data.settings.second_sidebar_CTA.CTA_image_path}}" alt="" />
+			</a>
+			</div>
+			<h5>{{site.data.settings.second_sidebar_CTA.CTA_title | replace: '-- MARKET --', site.data.settings.client.market}}</h5>
+			<p>
+				{{site.data.settings.second_sidebar_CTA.CTA_text}}
+			</p>
+			<div class="ctacontainer center">
+				<a class="ctalink" href="{{site.data.settings.second_sidebar_CTA.CTA_url}}" target="_blank">
+					{{site.data.settings.second_sidebar_CTA.CTA_link_text}}
+				</a>
+			</div>
+		</div>
+	</div>
+</div>

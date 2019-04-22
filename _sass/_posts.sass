@@ -49,36 +49,19 @@
   background: $brand
   color: $light-text
   border: 1px solid $brand
-  border-radius: 5px
   padding: 10px 20px
   margin-top: 20px
   text-decoration: none
   font-size: 16px
   +transition
   &:hover
-    background: transparent
-    color: $brand-light
-    box-shadow: 4px 4px 0 $brand-light
-    border: 1px solid $brand-light
-    @include transform(scale(1.05))
-    @include transform(translateY(-0.2rem))
+    background: #fff
+    color: $brand
+    border: 1px solid $brand
   &:active
     box-shadow: 0 0 0 $brand-light
     @include transform(translateY(0rem))
 
-
-
-// .readmore
-//   color: $readmore-border-color
-//   padding: 1rem 2rem
-//   border: 1px solid $readmore-border-color
-//   border-radius: 7px
-//   @include transition(0.3s cubic-bezier(0.93, 1.9, 0.62, 0.74))
-//   &:hover
-//     background: $brand
-//     color: $light-text
-//     border: 1px solid $brand
-//     font-size: 1.8rem
 
 #arrow_left, #arrow_right
   max-width: 2rem
