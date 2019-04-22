@@ -26,10 +26,10 @@ client:
   phone2_type:
   email: successteam@sternteam.com
   url: http://sternteam.org
-  first_CTA_text: Home Evaluation
-  first_CTA_URL: https://www.sternteam.com/homevalue/ssl-homevalue
-  second_CTA_text: Home Search
-  second_CTA_URL: https://www.sternteam.com/
+  first_CTA_text: Did You Hear Us on the Radio?
+  first_CTA_URL: http://sternsellshomes.com/
+  # second_CTA_text: Home Search
+  # second_CTA_URL: https://www.sternteam.com/
   phone_CTA: false
 
 sidebar_CTA:
