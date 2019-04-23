@@ -21,7 +21,7 @@ youtube_code: YJKKPNpYZtE
 
 {% include youtube.html %}
 
-What is the brand ambassador program, and why are we participating in it? Find out right here.
+<p style="text-align: center;"><em>What is the brand ambassador program, and why are we participating in it? Find out right here.</em></p>
 
 About eight years ago, I almost quit the real estate industry. I was getting burnt out; I felt like I was juggling too many balls by myself. We decided to form a real estate team that essentially takes independent contractors and helps them converge to a common mission, marketing strategy, and brand, allowing them to share information amongst each other, and to go further and faster than they would separately.
 
