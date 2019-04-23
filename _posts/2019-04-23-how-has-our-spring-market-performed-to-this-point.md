@@ -19,7 +19,7 @@ youtube_code: 15x9A1I58eI
 
 {% include youtube.html %}
 
-There’s no shortage of opportunities for buyers or sellers in our spring market. Today’s market update will tell you all you need to know.
+<p style="text-align: center;"><em>There’s no shortage of opportunities for buyers or sellers in our spring market. Today’s market update will tell you all you need to know.</em></p>
 
 Take one glance out the window and you’ll see that, at last, spring is here\! That also means we’ve entered our spring market, which has been buzzing with activity over the last two months. &nbsp; &nbsp;
 
