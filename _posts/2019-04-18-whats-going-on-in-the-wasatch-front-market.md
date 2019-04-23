@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on in the Wasatch Front Market?
-date: 2019-04-18 19:43:11
+date: 2019-04-18 19:43:00
 tags:
   - Market Update
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/spring-market-update-youtube.jpg
-youtube_code: OkR7eI4kbzY
+youtube_code: wW9_KBW2cqQ
 ---
 
 {% include youtube.html %}
