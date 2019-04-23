@@ -20,7 +20,9 @@ youtube_code: pKUYFepAkSM
 
 {% include youtube.html %}
 
-<center>Many of our clients are downsizing their homes this spring—but what does it mean to downsize, and why are so many doing it? Find out today.</center>
+<center><em>Many of our clients are downsizing their homes this spring&mdash;but what does it mean to downsize, and why are so many doing it? Find out today.</em></center>
+
+&nbsp;
 
 Essentially, downsizing is to move from a bigger home to a smaller home. There are a few reasons why someone would do this, including your children leaving home for college, leaving you with empty nest syndrome. If your children are now out of the house, do you really still need a four- or five-bedroom home?
 
