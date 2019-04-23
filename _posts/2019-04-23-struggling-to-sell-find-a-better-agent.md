@@ -30,3 +30,7 @@ I began gathering data from comparable listings in his area and developed a pric
 **The property went live on the market on a Friday and received an offer (above asking price) the following Tuesday.** It’s incredible what a difference working with the right agent can make.&nbsp;
 
 If you have any other questions, would like more information, or would like my help achieving your real estate goals, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
