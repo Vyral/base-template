@@ -21,7 +21,7 @@ youtube_code: _ncHbYynY5M
 
 Even though you probably couldn’t tell, Amanda Hise is actually new to real estate. Amanda grew up in Carroll County where she attended Westminster High School. Following graduation, she went to college, where she actually majored in Biology. Somehow, from there, she ended up in real estate roughly a year ago, and only joined our team three or four months ago.
 
-**Many think the most exciting part of working in real estate is showing homes to clients, but what Amanda loves most is educating her clients.** She works with a lot of first-time homebuyers, so she walks them through the home buying process and teaching them what they need to know at the same time that she develops a relationship with them.
+**Many think the most exciting part of working in real estate is showing homes to clients, but what Amanda loves most is educating her clients.** She works with a lot of first-time homebuyers, so she walks them through the home buying process and teaches them what they need to know at the same time that she develops a relationship with them.
 
 It’s evident in the way that she works that she has a lot of fun doing it. You’ll be hard-pressed to find a harder worker than Amanda. She’s gotten a lot of deals for her clients, even in a competitive, low-inventory environment rife with multiple offers.<br>&nbsp;
 
@@ -31,6 +31,6 @@ In January, Amanda was our “agent of the month” for putting six houses under
 
 **So why did she choose the Wes Peters Group?**&nbsp;
 
-She loves the support that the team provides. If she ever has any questions, there’s always someone available to help. That, in addition to the trainings available to her, allows Amanda to constantly build up her skill set. After all, our business is in the service industry—it’s all about making sure our clients are getting the best possible service that they deserve.
+She loves the support that the team provides. If she ever has any questions, there’s always someone available to help. That, in addition to the training available to her, allows Amanda to constantly build up her skill set. After all, our business is in the service industry—it’s all about making sure our clients are getting the best possible service that they deserve.
 
 If you’d like to contact Amanda to work with you on your next real estate venture, reach out to the Wes Peters Group or visit her **[Instagram page](https://www.instagram.com/amandahiserealtor/).** She would be delighted to help you accomplish your real estate goals.
