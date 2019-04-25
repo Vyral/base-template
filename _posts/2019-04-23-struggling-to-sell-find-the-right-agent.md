@@ -8,7 +8,7 @@ excerpt: >-
   Today on “What’s Working Now,”  I’d like to share a story of how I completely
   turned things around for a struggling seller.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/April/Cleveland+Park+Real+Estate-+Struggling+to+Sell_+Find+a+Better+Agent.mp4
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/April/Cleveland+Park+Real+Estate-+Struggling+to+Sell_+Find+the+Right+Agent.mp4
 pullquote: It’s incredible what a difference working with the right agent can make.
 enclosure_type: video/mp4
 enclosure_time:
