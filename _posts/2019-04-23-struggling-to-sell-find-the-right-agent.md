@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Struggling to Sell? Find a Better Agent
-date: 2019-04-23 17:12:54
+title: Struggling to Sell? Find the  Right Agent
+date: 2019-04-23 17:12:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,9 +19,9 @@ youtube_code: Ajbdoa4m584
 
 {% include youtube.html %}
 
-I recently met with a seller who previously had his home on the market for two years and with two different agents, and he still wasn’t able to strike a deal with a buyer. Eventually, he’d had enough. So he came to me for guidance and, of course, I was more than happy to help.
+Recently I met with a seller who’s house had been languishing on the market, unsold for more than two years. Two different agents had tried and failed\! Eventually, he’d had enough. So he came to me for guidance and, of course, I was more than happy to help.
 
-**The first time I visited his home, I looked around and said: “Let’s create something new.”** I told the seller to forget about the price, the marketing, and the different plans he’d followed for the past two years because selling this home in our current market was going to require a completely new approach.&nbsp;
+**He invited me to the house... I looked around and said: “Let’s create something new.”** I told the seller to forget about the price, the marketing, and the different plans he’d followed for the past two years because selling this home in our current market was going to require a completely new approach.&nbsp;
 
 {% include pullquote.html %}
 
