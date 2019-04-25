@@ -19,13 +19,13 @@ youtube_code: Ajbdoa4m584
 
 {% include youtube.html %}
 
-I recently met with a seller who previously had his market on two years and with two different agents, and still wasn’t able to strike a deal with a buyer. Eventually, he’d had enough. So he came to me for guidance and, of course, I was more than happy to help.
+I recently met with a seller who previously had his home on the market for two years and with two different agents, and he still wasn’t able to strike a deal with a buyer. Eventually, he’d had enough. So he came to me for guidance and, of course, I was more than happy to help.
 
 **The first time I visited his home, I looked around and said: “Let’s create something new.”** I told the seller to forget about the price, the marketing, and the different plans he’d followed for the past two years because selling this home in our current market was going to require a completely new approach.&nbsp;
 
 {% include pullquote.html %}
 
-I began gathering data from comparable listings in his area and developed a pricing strategy that would be effective for this property, but I knew a good price alone wouldn’t be enough. The property also needed to be professionally staged and photographs, so that buyers, whether online or in person, would be exposed to the home in its best possible light. Once the home was neat, tidy, and ready to go, it took very little time at all to get an offer.&nbsp;
+I began gathering data from comparable listings in his area and developed a pricing strategy that would be effective for this property, but I knew a good price alone wouldn’t be enough. The property also needed to be professionally staged and photographed, so that buyers, whether online or in person, would be exposed to the home in its best possible light. Once the home was neat, tidy, and ready to go, it took very little time at all to get an offer.&nbsp;
 
 **The property went live on the market on a Friday and received an offer (above asking price) the following Tuesday.** It’s incredible what a difference working with the right agent can make.&nbsp;
 
