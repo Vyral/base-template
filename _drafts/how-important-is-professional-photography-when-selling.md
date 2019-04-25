@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The photos that represent your listing can make or break its success, so
   professional photography is a must when it comes time to sell.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Don+Vallee/Tucson+Real+Estate+Agent-+How+Important+Is+Professional+Photography+When+Selling_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
