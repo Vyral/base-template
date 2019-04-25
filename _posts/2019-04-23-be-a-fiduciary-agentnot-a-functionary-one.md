@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/rICtrpJI5Vo'
 
 {% include youtube.html %}
 
-Many years ago, when I first read “The Millionaire Real Estate Agent” by Gary Keller, I was introduced to these terms, but I skimmed right over them, but now I know that it’s important to know the difference between them, because that difference is vast.&nbsp;
+Many years ago, when I first read “The Millionaire Real Estate Agent” by Gary Keller, I was introduced to these terms, but I skimmed right over them. Now I know that it’s important to know the difference between them, because that difference is vast.&nbsp;
 
 Functionary means you’re doing just enough to get your clients to the closing table and collect your commission check. Fiduciary, on the other hand, means putting all of your clients’ needs before your own. **Being a fiduciary agent means you must care about your clients and make it your goal to help them achieve all of their real estate goals.** That’s why we do what we do, and that’s what sets us apart from all the other real estate agents out there—we care about our clients.
 
