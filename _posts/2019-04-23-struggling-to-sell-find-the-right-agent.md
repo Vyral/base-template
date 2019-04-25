@@ -13,7 +13,7 @@ pullquote: It’s incredible what a difference working with the right agent can 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/selling-expired-listing-youtube.jpg
+youtube_alternate_image: /uploads/selling-expired-listing-youtube-1.jpg
 youtube_code: Ajbdoa4m584
 ---
 
@@ -21,13 +21,13 @@ youtube_code: Ajbdoa4m584
 
 Recently I met with a seller who’s house had been languishing on the market, unsold for more than two years. Two different agents had tried and failed\! Eventually, he’d had enough. So he came to me for guidance and, of course, I was more than happy to help.
 
-**He invited me to the house... I looked around and said: “Let’s create something new.”** I told the seller to forget about the price, the marketing, and the different plans he’d followed for the past two years because selling this home in our current market was going to require a completely new approach.&nbsp;
+**He invited me to the house… I looked around and said: “Let’s create something new.”** I told the seller to forget about the price, the marketing, and the different plans he’d followed for the past two years because selling this home in our current market was going to require a completely new approach. 
 
 {% include pullquote.html %}
 
-I began gathering data from comparable listings in his area and developed a pricing strategy that would be effective for this property, but I knew a good price alone wouldn’t be enough. The property also needed to be professionally staged and photographed, so that buyers, whether online or in person, would be exposed to the home in its best possible light. Once the home was neat, tidy, and ready to go, it took very little time at all to get an offer.&nbsp;
+I began gathering data from comparable listings in his area and developed a pricing strategy that would be effective for this property, but I knew a good price alone wouldn’t be enough. The property also needed to be professionally staged and photographed, so that buyers, whether online or in person, would be exposed to the home in its best possible light. Once the home was neat, tidy, and ready to go, it took very little time at all to get an offer. 
 
-**The property went live on the market on a Friday and received an offer (above asking price) the following Tuesday.** It’s incredible what a difference working with the right agent can make.&nbsp;
+**The property went live on the market on a Friday and received an offer (above asking price) the following Tuesday.** It’s incredible what a difference working with the right agent can make. 
 
 If you have any other questions, would like more information, or would like my help achieving your real estate goals, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
