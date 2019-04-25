@@ -21,7 +21,7 @@ youtube_code: Sl0kPp60Vbw
 
 {% include youtube.html %}
 
-I recently received some life-changing advice, and I want to relay it to all of you today.
+<p style="text-align: center;"><em>I recently received some life-changing advice, and I want to relay it to all of you today.</em></p>
 
 I recently shot a great new commercial with real estate mogul Barbara Corcoran, who you might recognize from the hit television series “Shark Tank”, and while we were filming, she offered me some life-changing advice.&nbsp;
 
