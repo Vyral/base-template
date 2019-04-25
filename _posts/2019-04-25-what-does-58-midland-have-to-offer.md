@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does 58 Midland Have to Offer?
-date: 2019-04-25 14:35:28
+date: 2019-04-25 14:35:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,8 +11,8 @@ enclosure:
 pullquote: This building will surpass your expectations.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/stacy-a-look-inside-project-fifty58-youtube.jpg
 youtube_code: aUebwrr6do0
 ---
 
