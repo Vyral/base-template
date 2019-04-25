@@ -29,7 +29,7 @@ We may not sell as many homes this year as we did in the recent past, but apprec
 
 **Depending on who you’re listening to, you’ll hear all kinds of different stories about our 2019 market.** Be careful with what you believe; some Realtors are doing poorly, so they’ve chosen to project that the market is also poor.&nbsp;
 
-For our team, homes only spend about 11 days on the market before they’re under contract. In our market, homes takes about 61 days to sell on average, so we’re selling them six times faster. We’ve also kept a 100% sale-to-list price ratio, meaning sellers have gotten all of their asking price without having to accept less.
+For our team, homes only spend about 11 days on the market before they’re under contract. In our market, homes take about 61 days to sell on average, so we’re selling them six times faster. We’ve also kept a 100% sale-to-list price ratio, meaning sellers have gotten all of their asking price without having to accept less.
 
 **Most brokerages out there haven’t grown at all this year, but we’ve grown by over 40%.&nbsp;**
 
