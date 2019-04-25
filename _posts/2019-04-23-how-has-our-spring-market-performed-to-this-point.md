@@ -35,6 +35,6 @@ The numbers are somewhat distorted in that our total for new listings taken isn�
 
 All in all, the 2019 market is full of opportunity, whatever your real estate goals may be—**there is ample selection for buyers, and the market is in a predictable state for sellers.&nbsp;**
 
-Something else of note: **Interest rates have gone through a recent drop as well.** It wasn’t all that long ago when they were bumping up against 5%, and they’re now in the low-4’s.&nbsp;
+Something else of note: **Interest rates have gone through a recent drop as well.** It wasn’t all that long ago when they were bumping up against 5%, and they’re now in the low 4’s.&nbsp;
 
 If you have any questions about our market or you have suggestions for future video topics, please feel free to give us a call. I hope to hear from you soon\!&nbsp;
