@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From Our Real Estate Market This Year?
-date: 2019-04-25 21:35:16
+date: 2019-04-25 21:35:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,8 +11,8 @@ enclosure:
 pullquote: A recession doesn’t mean depreciation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/lee-words-of-wisdom-youtube.jpg
 youtube_code: o1oTkD92yok
 ---
 
