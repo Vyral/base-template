@@ -21,7 +21,7 @@ youtube_code: CuIHrCRi6sk
 
 {% include youtube.html %}
 
-As our market moves through spring, prices are appreciating at a normal rate again. Here’s what that means for buyers and sellers.
+<p style="text-align: center;"><em>As our market moves through spring, prices are appreciating at a normal rate again. Here’s what that means for buyers and sellers.</em></p>
 
 What’s the latest news from our market as we move through spring? What’s going on with home prices?
 
