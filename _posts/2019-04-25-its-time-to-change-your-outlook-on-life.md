@@ -23,11 +23,11 @@ youtube_code: Sl0kPp60Vbw
 
 <p style="text-align: center;"><em>I recently received some life-changing advice, and I want to relay it to all of you today.</em></p>
 
-I recently shot a great new commercial with real estate mogul Barbara Corcoran, who you might recognize from the hit television series “Shark Tank”, and while we were filming, she offered me some life-changing advice.&nbsp;
+I recently shot a great new commercial with real estate mogul Barbara Corcoran, who you might recognize from the hit television series “Shark Tank,” and while we were filming, she offered me some life-changing advice.&nbsp;
 
-I’d like to share these words of wisdom with you today, but before that, I want to answer a question I hear all the time: “How can someone get on ‘Shark Tank’?” I think people assume that because I know Barbara, I’ll be able to get them on TV. This, unfortunately, isn’t the case, however, what I can do is let you know about an open casting event coming up on May 2 at the Jacob K Javits Center in New York City.&nbsp;
+I’d like to share these words of wisdom with you today, but before that, I want to answer a question I hear all the time: “How can someone get on ‘Shark Tank’?” I think people assume that because I know Barbara, I’ll be able to get them on TV. This, unfortunately, isn’t the case. However, what I can do is let you know about an open casting event coming up on May 2 at the Jacob K. Javits Center in New York City.&nbsp;
 
-If you’re an entrepreneur looking to make headway with your business by appearing before the “sharks”, this is your chance to do so. You can learn more about this opportunity [on the ABC website.](https://abc.go.com/shows/shark-tank/open-call){: target="_blank"}&nbsp;
+If you’re an entrepreneur looking to make headway with your business by appearing before the “sharks,” this is your chance to do so. You can learn more about this opportunity [on the ABC website.](https://abc.go.com/shows/shark-tank/open-call){: target="_blank"}&nbsp;
 
 With that said, I’d like to move on to the advice I mentioned earlier. To paraphrase, Barbara told me: **“If you’re always grateful, you’ll always be successful.”**
 
