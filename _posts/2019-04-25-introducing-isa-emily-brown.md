@@ -28,7 +28,7 @@ As an ISA (inside sales associate), Emily describes her role on our team as bein
 
 {% include pullquote.html %}
 
-**When calls come in, ISAs like Emily direct traffic so that our outside sales associates can go out there and find our clients their dream homes. **
+**\*\*When calls come in, ISAs like Emily direct traffic so that our outside sales associates can go out there and find our clients their dream homes. \*\***
 
 There are a lot of fun facts about Emily, but the one she chose to share with us today is that she’s a native of the Raleigh area. Specifically, she’s an eighth-generation Apex native.
 
