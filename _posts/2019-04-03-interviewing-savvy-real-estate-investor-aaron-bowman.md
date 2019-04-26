@@ -29,8 +29,6 @@ KEY POINTS
 * How he establishes timelines for sellers who aren’t yet ready
 * A look at how Aaron organizes his lead generation and follow-up
 
-&nbsp;
-
 RESOURCES
 
 Email: aaronb@mazzhomes.com
