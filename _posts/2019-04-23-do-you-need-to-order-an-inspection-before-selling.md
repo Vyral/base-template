@@ -25,6 +25,10 @@ If you live in a city that doesn’t require a pre-listing inspection, though, i
 
 {% include pullquote.html %}
 
-**There are some rare circumstances in which a pre-listing inspection can be beneficial, but as a general rule, it’s best to hold off. **
+\*\*There are some rare circumstances in which a pre-listing inspection can be beneficial, but as a general rule, it’s best to hold off. \*\*
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+**Finally, below is the list of cities that require reports prior to closing escrow.** Every city has in place its own policies and requirements for the sale of real estate, so please check with your city for further information.
+
+Los Angeles County<br>Azusa<br>Beverly Hills<br>Burbank<br>Bell<br>Carson<br>Compton<br>Cudahy<br>Culver City<br>El Monte&nbsp;<br>El Segundo<br>Gardena&nbsp;<br>Hawaiian Gardens&nbsp;<br>Hermosa Beach&nbsp;<br>Huntington Park&nbsp;<br>Inglewood&nbsp;<br>Lomita<br>Long Beach<br>Los Angeles City&nbsp;<br>Lynwood<br>Malibu<br>Manhattan Beach<br>Maywood<br>Monterey Park<br>Palos Verdes Estates<br>Pasadena<br>Redondo Beach<br>Rolling Hills Estates<br>San Fernando<br>San Marino<br>Santa Monica<br>Signal Hill<br>South Gate<br>Torrance<br>West Hollywood<br>Orange County<br>Laguna Beach<br>Laguna Woods<br>Newport Beach<br>Riverside County<br>Cathedral City<br>Palm Springs<br>San Bernardino County<br>San Bernardino<br>Ventura County<br>Oxnard<br>Port Hueneme<br>Thousand Oaks<br>Ventura
