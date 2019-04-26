@@ -9,8 +9,8 @@ description: >-
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Sign Up
-    url: /sign-up/
+  - title: Subscribe to Our Newsletter
+    url: /subscribe/
 client:
   name: The Wolek Group
   title:
