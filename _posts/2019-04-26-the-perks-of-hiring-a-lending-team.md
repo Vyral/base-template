@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Perks of Hiring a Lending Team
-date:
+date: 2019-04-26 00:00:00
 tags:
   - Real Estate
 excerpt: Where’s the value in hiring a lending team? Today I’ll break it down for you.
