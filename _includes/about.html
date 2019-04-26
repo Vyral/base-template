@@ -40,34 +40,3 @@
 	</div>
 </div>
 </div>
-<div class="container-fluid gray hidden-sm hidden-xs" id="client2">
-		<div class="row">
-			<div class="col-lg-10 col-lg-offset-1">
-
-				<h4>About {{site.data.settings.client2.name}}</h4>
-			</div>
-		</div>
-		<div class="row">
-			<div class="about-container">
-		<div class="col-lg-3">
-			<p class="contact-text" id="contact2">
-				<b>{{ site.data.settings.client2.name }}</b><br />
-				{{ site.data.settings.client2.brand }}<br />
-				{{ site.data.settings.client2.brokerage }}<br />
-				{{ site.data.settings.client2.address }}<br />
-				{{ site.data.settings.client2.phone }}<br />
-				<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client2.email }}</a><br />
-				<a href="{{ site.data.settings.client2.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a><br>
-			</p>
-		</div>
-		<div class="col-lg-6 col-md-8 hidden-sm hidden-xs about-text">
-			{{site.data.settings.client2.about_markdown | markdownify }}
-		</div>
-		<div class="col-lg-3 col-md-4 hidden-sm hidden-xs">
-				<div class="client-image-container">
-					<img src="{{site.data.settings.images.client2_headshot_path }}" alt="{{site.data.settings.client.company}}" class="client-image" />
-				</div><br />
-			</div>
-	</div>
-</div>
-</div>
