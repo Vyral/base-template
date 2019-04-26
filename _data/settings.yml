@@ -9,7 +9,7 @@ description: >-
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Subscribe to Our Newsletter
+  - title: Frew Newsletter
     url: /subscribe/
 client:
   name: The Wolek Group
