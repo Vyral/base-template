@@ -43,7 +43,7 @@ Based on these appreciation rate projections, between now and 2023, average home
 
 Their biggest challenge is low inventory, but **because inventory is so low, more and more new construction homes are being built, and existing home sellers have to compete with this.&nbsp;**
 
-Danielle Hale, chief economist at Realtor.com, says, “Sellers have to think about the competition in a way they haven’t before. Getting ahead of other potential sellers could be even more of a bigger advantage this year given market conditions.”&nbsp;
+Danielle Hale, Chief Economist at Realtor.com, says, “Sellers have to think about the competition in a way they haven’t before. Getting ahead of other potential sellers could be even more of a bigger advantage this year given market conditions.”&nbsp;
 
 So **if you’re thinking of putting your home on the market, get ahead of the competition so you can increase your odds of selling for top dollar.&nbsp;**
 
