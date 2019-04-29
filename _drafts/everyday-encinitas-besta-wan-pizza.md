@@ -19,7 +19,7 @@ youtube_code: _Nm2a9EXk-A
 
 {% include youtube.html %}
 
-Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we’re revealing all of what makes this such a special local eatery.
+<center>Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we’re revealing all of what makes this such a special local eatery.</center>
 
 For my latest episode of “Everyday Encinitas,” I’m sitting down with Kyle Schmuckle from Besta-Wan Pizza to chat about the restaurant’s history, culture, food and drink selections, and more\!
 
