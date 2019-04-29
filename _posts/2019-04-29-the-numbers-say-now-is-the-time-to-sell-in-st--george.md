@@ -19,7 +19,7 @@ youtube_code: OKEDLZbAqRg
 
 {% include youtube.html %}
 
-Inventory is increasing, prices are dropping, and interest rates are low in our St. George market. The time is now for buyers and sellers.
+<p style="text-align: center;"><em>Inventory is increasing, prices are dropping, and interest rates are low in our St. George market. The time is now for buyers and sellers.</em></p>
 
 If you’re a home seller in our St. George market, what are you waiting for?
 
