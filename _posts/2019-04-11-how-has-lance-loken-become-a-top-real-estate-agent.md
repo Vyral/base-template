@@ -3,6 +3,7 @@ layout: post
 title: How Has Lance Loken Become a Top Real Estate Agent?
 date: 2019-04-11 17:01:00
 tags:
+  - Agents Success Interview
 excerpt: >-
   Lance Loken is a top agent and a good friend of mind. Here’s what he had to
   say about having success in the real estate industry.
