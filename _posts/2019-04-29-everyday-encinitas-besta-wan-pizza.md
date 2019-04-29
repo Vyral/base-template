@@ -12,7 +12,7 @@ enclosure:
 pullquote: The atmosphere is like 'Cheers'—where everybody knows your name.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/4-29---travis-chatwin---yt.jpg
 youtube_code: _Nm2a9EXk-A
 ---
@@ -21,7 +21,7 @@ youtube_code: _Nm2a9EXk-A
 
 <center><em>Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we&rsquo;re revealing all of what makes this such a special local eatery.</em></center>
 
-&nbsp;
+ 
 
 For my latest episode of “Everyday Encinitas,” I’m sitting down with Kyle Schmuckle from Besta-Wan Pizza to chat about the restaurant’s history, culture, food and drink selections, and more\!
 
