@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Matt Aitchison: Becoming a Millionaire Through Real Estate'
-date: 2019-04-29 17:08:01
+date: 2019-04-28 17:08:00
 tags:
   - Agents Success Interview
 excerpt: >-
@@ -27,10 +27,10 @@ Matt has had quite the journey in his career, and where he is today isn’t nece
 
 **For your convenience, I’ve provided timestamps below so that you can navigate the conversation in the video above at your leisure:**
 
-3:30—How Matt, jobless and full of debt, entered the real estate game<br>8:20—Matt’s advice for real estate agents who aren’t sure about their direction<br>14:40—Matt’s brand, social media presence, and process for making a name for himself<br>19:30—The value of recording yourself and creating a training library for new agents&nbsp;<br>22:20—Matt’s wealth-building process: Becoming a millionaire through real estate
+3:30—How Matt, jobless and full of debt, entered the real estate game<br>8:20—Matt’s advice for real estate agents who aren’t sure about their direction<br>14:40—Matt’s brand, social media presence, and process for making a name for himself<br>19:30—The value of recording yourself and creating a training library for new agents <br>22:20—Matt’s wealth-building process: Becoming a millionaire through real estate
 
 I was blown away by how much value Matt managed to pack into our short conversation, and I’m so glad I got to speak with him.
 
 If you’d like to follow Matt’s social media, send referrals, or ask him questions, he can be reached on Instagram, Facebook, and Twitter with the handle @OfficialMattyA. He also has all sorts of tools, resources, and paid content on his website, <u><strong><a target="_blank" href="https://mattaitchison.com/">www.MattAitchison.com</a></strong></u>. Further still, you can listen to either of his podcasts, “6-Figure Flipper” and “Millionaire Mindcast,” for more information about him and his process.
 
-If you have any questions for the Wolek Group, you are always encouraged to reach out to us. We’d love to speak with you soon.<br>&nbsp;
+If you have any questions for the Wolek Group, you are always encouraged to reach out to us. We’d love to speak with you soon.<br>
