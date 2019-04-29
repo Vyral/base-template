@@ -26,7 +26,7 @@ In our market, we can’t keep these properties long enough. **There is so much 
 
 {% include pullquote.html %}
 
-A couple weeks ago, we were in a situation where we put a nice 3-bedroom, 2.5-bathroom, colonial starter home with a one-car garage on the market at 9 a.m. on a Friday morning. **We had seven requests for showings in just the first 24 hours\!** In the first 48 hours, we had six offers on the property. We ended up listing it for $329,000, and we ultimately put the property under contract for $250,000. **We were able to create a multiple-offer situation that only benefited our seller.**
+A couple weeks ago, we were in a situation where we put a nice 3-bedroom, 2.5-bathroom, colonial starter home with a one-car garage on the market at 9 a.m. on a Friday morning. **We had seven requests for showings in just the first 24 hours\!** In the first 48 hours, we had six offers on the property. We ended up listing it for $329,000, and we ultimately put the property under contract for $350,000. **We were able to create a multiple-offer situation that only benefited our seller.**
 
 The pent-up demand stems from a number of different factors, but one of the main reasons for it is that **there’s been a real shortage of good inventory on the market**. With interest rates holding as low as they have been, there are a lot of buyers who are looking to purchase homes right now.
 
