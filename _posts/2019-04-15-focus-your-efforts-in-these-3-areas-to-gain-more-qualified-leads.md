@@ -20,20 +20,16 @@ youtube_code: INHFL2oFDuU
 
 {% include youtube.html %}
 
-What if I told you that you could increase your qualified leads by 21 times? Well, you can and today I’ll spell out the three must-know things that will help you accomplish this.&nbsp;
+What if you could increase your qualified leads by 21 times? Studies have shown that if you do NOT call your lead within the **first 5 minutes**, your conversion rate **drops by 21 times** and after 20 hours, the odds of contacting them drops by over 1000 times. Having that long-term mindset can help you focus on following up with clients and building a relationship so you can track your pipeline for future business. During this video I’ll help spell out the three **must-know** things that will help you accomplish this\!
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**&nbsp;
+KEY POINTS
 
-<br>0:15—Understanding the “long-term mindset” when following up with leads
+\-Understanding the “long-term mindset” when following up with leads<br>\-Increasing your lead conversions: 1. Speed to lead<br>\-Increasing your lead conversions: 2. Follow-up &nbsp;<br>\-Increasing your lead conversions: 3. Script<br>\-Asking permission to follow-up if a lead isn’t quite ready&nbsp;
 
-2:07—Increasing your lead conversions: 1. Speed to lead
+If you have any questions about all that we covered today, please don’t hesitate to reach out to us. We’d be happy to assist you in your business\!
 
-2:45—Increasing your lead conversions: 2. Follow-up &nbsp;
+RESOURCES
 
-8:58—Increasing your lead conversions: 3. Script
+Email: info@1000callsaday.com
 
-8:58—Asking permission to follow-up if a lead isn’t quite ready &nbsp;
-
-9:52—Our contact info and downloading our sample scripts and follow-up plan&nbsp;
-
-<br>If you have any questions about all that we covered today, please don’t hesitate to reach out to us. We’d be happy to assist you in your business\!
+Phone: (832)905-1000
