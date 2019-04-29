@@ -19,7 +19,7 @@ youtube_code: rwfWKGFZQTU
 
 {% include youtube.html %}
 
-Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.
+<p style="text-align: center;"><em>Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.</em></p>
 
 Behind me is Petco Field, a place here in St. George that many of you have been to. I didn’t come to watch baseball, though—I came down to the park to meet with Frank Klesitz, a friend of mine who owns Vyral Marketing.
 
