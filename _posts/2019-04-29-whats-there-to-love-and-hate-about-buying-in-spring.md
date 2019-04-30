@@ -31,7 +31,6 @@ In the meantime, here are some of the main points to take away from it.
 Things you’ll love:
 
 * **Increased inventory.** There are more homes to choose from, so you need to focus your time effectively and distinguish between areas you love and areas that are less desirable.&nbsp;
-
 * **More open houses.** As more and more homes hit the market, there are more and more open houses taking place that give you a great opportunity to match what you see online with what you see in person and size up the competition from other buyers. As always, use your time effectively when sightseeing open houses.
 
 {% include pullquote.html %}
