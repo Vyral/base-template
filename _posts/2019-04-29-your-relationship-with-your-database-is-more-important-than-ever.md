@@ -21,9 +21,9 @@ youtube_code: rwfWKGFZQTU
 
 <p style="text-align: center;"><em>Today on “Go St. George TV,” I discuss the importance of growing and maintaining your client database in our changing market.</em></p>
 
-Behind me is Petco Field, a place here in St. George that many of you have been to. I didn’t come to watch baseball, though—I came down to the park to meet with Frank Klesitz, a friend of mine who owns Vyral Marketing.
+Behind me is Petco Park, a place out here in San Diego that many of you have been to. I didn’t come to watch baseball, though—I came down to the park to meet with Frank Klesitz, a friend of mine who owns Vyral Marketing.
 
-Vyral marketing is a firm that helps agents connect their database with what’s going on in the real estate industry. As we know, the relationships we form with our clients are more important than ever, especially with the advent of sites like Zillow and Redfin and the tactics of iBuyers in our market.
+Vyral Marketing is a firm that helps agents connect their database with what’s going on in the real estate industry. As we know, the relationships we form with our clients are more important than ever, especially with the advent of sites like Zillow and Redfin and the tactics of iBuyers in our market.
 
 {% include pullquote.html %}
 
