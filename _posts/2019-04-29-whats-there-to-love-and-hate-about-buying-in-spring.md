@@ -42,7 +42,7 @@ Things you’ll hate:&nbsp;
 
 &nbsp;
 
-* **Time-related pressure.** Like I said above, you’ll have to make decisions quicker in this market. If you have to sleep on it, odds are, you won’t get to sleep in it. Doing as much prep work up front while working with an agent who has their finger on the pulse of the market will help tremendously in this regard.&nbsp;
+* **Time-related pressure.** Like I said above, you’ll have to make decisions quicker in this market. If you have to sleep on it, odds are, you won’t get to sleep in it. Doing as much prep work up front as possible while working with an agent who has their finger on the pulse of the market will help tremendously in this regard.&nbsp;
 
 &nbsp;
 
