@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You’re Never Really Out of Production
-date: 2019-04-30 17:02:54
+date: 2019-04-29 17:02:00
 tags:
 excerpt: >-
   It may be your dream to get out of production in your business. However, that
@@ -26,4 +26,4 @@ Everyone's striving for these big production numbers, but sometimes their bank a
 
 We’re solely responsible for the business. If that means getting back “in” to production after you’ve been out of it for a while, that’s ok. **You’re not betraying your goals by doing that.** You’re just taking ownership of the bottom line like you should be. Sometimes you might have to jump in every once in a while. That’s how you built your business, right?
 
-Of course, our businesses are all unique and always changing, but the goal is to be profitable and do what you love. If you have any questions for me or need anything in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
+Of course, our businesses are all unique and always changing, but the goal is to be profitable and do what you love. If you have any questions for me or need anything in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
