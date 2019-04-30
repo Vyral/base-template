@@ -3,6 +3,7 @@ layout: post
 title: James Hern Shares His Secrets to Success in a Shifting Market
 date: 2019-04-12 18:33:00
 tags:
+  - Agents Success Interview
 excerpt: >-
   James Hern has been working in the real estate business for a long time. His
   longevity can be attributed to many different factors and he’ll share some of
