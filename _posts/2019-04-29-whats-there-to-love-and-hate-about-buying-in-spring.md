@@ -24,7 +24,7 @@ youtube_code: hU9PTpMoL-I
 
 Spring is here, and if you’re a buyer, there are plenty of things to love about buying a home right now. However, there are also a few things to hate about the spring buying season.
 
-I recently came across an article from Realtor.com that outlines all the major positives and negatives you need to be aware of before taking the plunge. To read the full article, **[click here.](https://www.realtor.com/advice/buy/things-youll-love-hate-buying-a-home-in-spring/)**&nbsp;
+I recently came across an article from Realtor.com that outlines all the major positives and negatives you need to be aware of before taking the plunge. To read the full article, **[click here.](https://www.realtor.com/advice/buy/things-youll-love-hate-buying-a-home-in-spring/){: target="_blank"}**&nbsp;
 
 In the meantime, here are some of the main points to take away from it.
 
