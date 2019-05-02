@@ -19,10 +19,10 @@ youtube_code: Jo1d-AUZ3dU
 
 {% include youtube.html %}
 
-As some much-needed inventory begins to come onto our market following the end of this year’s first quarter, leaving us with approximately 4,500 listings overall, it’s time to review the ways in which this and other recent changes have impacted local real estate so far in 2019. &nbsp;
+As some much-needed inventory begins to come onto our market following the end of this year’s first quarter, leaving us with approximately 4,500 listings overall, it’s time to review the ways in which this and other recent changes have impacted local real estate so far in 2019.&nbsp;
 
 In terms of pricing, listings in ranges at and below $300,000 have been largely unaffected at this point. Resale homes listed above that price point, meanwhile, have seen a slight decrease in sales—as have new construction properties.&nbsp;
 
-Of course, these facts only scratch the surface of how our current market is changing. **To see a full, county-by-county breakdown of local real estate conditions, [check out this great market report.](www.google.com){: target="_blank"}**
+Of course, these facts only scratch the surface of how our current market is changing. **To see a full, county-by-county breakdown of local real estate conditions, [check out this great market report.](http://savvyagent.biz/calendar/){: target="_blank"}**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. I look forward to hearing from you soon.
