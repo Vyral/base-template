@@ -19,7 +19,7 @@ youtube_code: mjeGPV7xDj4
 
 {% include youtube.html %}
 
-Two of the four keys to marketing your home are product and promotion, and here’s how you can focus on each.
+<center>Two of the four keys to marketing your home are product and promotion, and here’s how you can focus on each.</center>
 
 As we know, product and promotion are two of the four keys to marketing your home (the others being pricing and distribution), but how can you make sure you focus on these two keys so that your home sells quickly and for top dollar?
 
