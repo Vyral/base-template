@@ -98,7 +98,7 @@ header:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 2px
-  shadow_color: transparent
+  shadow_color: white
   header_text_color: '#59595c'
   header_text_weight: 500
 
