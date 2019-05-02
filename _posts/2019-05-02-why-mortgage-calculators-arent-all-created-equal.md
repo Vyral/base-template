@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Mortgage Calculators Aren’t All Created Equal
-date: 2019-05-02 15:40:14
+date: 2019-05-02 15:40:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: >-
   internet or your Realtor partner to do all the payment calculations for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/why-buyers-should-be-wary-of-online-mortgage-calculators-youtube.jpg
 youtube_code: x-mdtoazmog
 ---
 
@@ -22,11 +22,11 @@ youtube_code: x-mdtoazmog
 
 This may be news to you, but the millions of mortgage calculators you can find online aren’t all created equal. **Whether it’s the questions they ask, their interest rates, or their calculations in giving you a monthly payment, they’re all different in one way or another.** One thing most will not do, though, is calculate your private mortgage insurance, or PMI.
 
-To further illustrate this point, I recently spoke to a client whose agent had done a calculation for her straight from his phone, and the mortgage payment his calculator arrived at was $1,600. For my part, I adjusted the pre-approval letter for her and told her what her estimated payment would be in order to close. **Even with the exact same interest rate as what her agent used, my estimate came out to be $150 more. **
+To further illustrate this point, I recently spoke to a client whose agent had done a calculation for her straight from his phone, and the mortgage payment his calculator arrived at was $1,600. For my part, I adjusted the pre-approval letter for her and told her what her estimated payment would be in order to close. \*\*Even with the exact same interest rate as what her agent used, my estimate came out to be $150 more. \*\*
 
 {% include pullquote.html %}
 
-Most calculators you find online will use a calculation of 1.25% of the purchase price of the home for the annual taxes and will, in turn, amortize that monthly. Knowing this, I pulled the property tax bills and used the exact taxes. Better still, I was able to quote her PMI at a lower rate. &nbsp;
+Most calculators you find online will use a calculation of 1.25% of the purchase price of the home for the annual taxes and will, in turn, amortize that monthly. Knowing this, I pulled the property tax bills and used the exact taxes. Better still, I was able to quote her PMI at a lower rate.  
 
 This calculator wasn’t factoring in HOA dues, and for this client, they were $50 a month, nor had it taken her PMI into account because she wasn’t putting 20% down. My client liked the sound of a $1,600 payment and was excited to make an offer, but when she learned that the payment would be over $1,700, it gave her pause.
 
