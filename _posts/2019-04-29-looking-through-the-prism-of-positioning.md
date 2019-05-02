@@ -21,7 +21,7 @@ youtube_code: MbrCwjzBGtc
 
 Just the other day, I met with a seller who said to me, “I have to pick the agent who is confident that they’re going to sell my house for x amount of money, which is what I need to sell it for.”
 
-**If you’re a seller and you want to get a specific number for your house, don’t price it at that number or hire an agent who would price it at that number.** You need to look through the prism of positioning in order to understand this.&nbsp;
+**If you’re a seller and you want to get a specific number for your house, don’t price it at that number or hire an agent who would price it at that number.** You need to look through the prism of positioning in order to understand this.
 
 Where you really need to price is at the number that will attract people to come look at your home in person. You also need to make sure that your home presents well when people do come to view it. **All of this is in the prism of positioning.**
 
