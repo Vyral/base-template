@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Relationship with Your Database Is More Important Than Ever
+title: How to Zillow-Proof Your Real Estate Business
 date: 2019-04-29 20:12:36
 tags:
   - Business Tips
