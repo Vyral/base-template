@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Numbers Say Now Is the Time to Sell in St. George
+title: The One (Real Estate Market) That Got Away
 date: 2019-04-29 20:34:27
 tags:
   - Market Update
