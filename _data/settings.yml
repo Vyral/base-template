@@ -105,7 +105,7 @@ header:
 navigation:
   background_color: 'rgba(255,255,255,.8)'
   shadow: '2px 2px 7px rgba(0,0,0,.0)'
-  bottom_border_color: '#718588'
+  bottom_border_color: '#000000'
 
 buttons:
   button_radius_number: 0px
