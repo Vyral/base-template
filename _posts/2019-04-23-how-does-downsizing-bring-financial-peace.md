@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Many of our clients are downsizing their homes this spring—but what does it
   mean to downsize, and why are so many doing it?
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+How+Does+Downsizing+Bring+Financial+Peace_.mp4
 pullquote: Downsizing simplifies the complexities of living in a bigger home.
 enclosure_type: video/mp4
 enclosure_time:
