@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/building-relationships-youtube.jpg
-youtube_code: 2FVEwyIG6PM
+youtube_code: 3joo0aZ5Bag
 ---
 
 {% include youtube.html %}
