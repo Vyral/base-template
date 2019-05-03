@@ -21,7 +21,7 @@ youtube_code: xRfV8a8xXJQ
 
 {% include youtube.html %}
 
-Every year between May 9 to May 6, the Dar Walden Team celebrates Red Day. What is Red Day? Find out right here.
+<p style="text-align: center;"><em>Every year between May 9 to May 6, the Dar Walden Team celebrates Red Day. What is Red Day? Find out right here.</em></p>
 
 Red Day is a special day held every year between May 9 and May 16, during which all of our 400 agents donate their time back to the communities in Anchorage, Wasilla, and Eagle River.
 
