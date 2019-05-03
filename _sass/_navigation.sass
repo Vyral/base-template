@@ -15,10 +15,9 @@
 		border: 2px solid $brand
 		@include transition(0.3s)
 		&:hover
-			background: transparent
-			color: $brand-light
-			box-shadow: 4px 4px 0 $brand-light
-			border: 2px solid $brand-light
+			background: #B8BCC2
+			color: #ffffff
+			border: 2px solid #B8BCC2
 			@include transform(scale(1.05))
 			@include transform(translateY(-0.2rem))
 		&:active
@@ -86,6 +85,11 @@
 	padding-right: 15px
 	padding-left: 15px
 
+@media (max-width: 760px)
+	.nav-logo-small
+		max-width: 250px
+		margin-top: -20px
+
 @media(max-width: 347px)
 	.navbar
 		padding-right: 5px
@@ -96,5 +100,3 @@
 			overflow: hidden
 			display: none
 			opacity: 0
-			
-			
