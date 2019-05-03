@@ -24,6 +24,6 @@ Everyone's striving for these big production numbers, but sometimes their bank a
 
 {% include pullquote.html %}
 
-We’re solely responsible for the business. If that means getting back “in” to production after you’ve been out of it for a while, that’s ok. **You’re not betraying your goals by doing that.** You’re just taking ownership of the bottom line like you should be. Sometimes you might have to jump in every once in a while. That’s how you built your business, right?
+We’re solely responsible for the business. If that means getting back “into” production after you’ve been out of it for a while, that’s OK. **You’re not betraying your goals by doing that.** You’re just taking ownership of the bottom line like you should be. Sometimes you might have to jump in every once in a while. That’s how you built your business, right?
 
-Of course, our businesses are all unique and always changing, but the goal is to be profitable and do what you love. If you have any questions for me or need anything in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
+Of course, our businesses are all unique and always changing, but the goal is to be profitable and do what you love. If you have any questions for me or need anything in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
