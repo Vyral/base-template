@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Ways to Tidy Your Home
-date: 2019-02-26 17:41:09
+date: 2019-05-01 17:41:00
 tags:
 excerpt: >-
   Don’t turn off buyers with a messy home. Instead, invest a little extra time
