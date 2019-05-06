@@ -8,7 +8,7 @@ excerpt: >-
   What’s going on right now in the Flathead Valley real estate market? Keep
   reading to find out.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+q1+market+update+5.3.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+1q+market+update+with+graphics.mp4
 pullquote: Swan Lake always tends to be quiet during the winter.
 enclosure_type: video/mp4
 enclosure_time:
