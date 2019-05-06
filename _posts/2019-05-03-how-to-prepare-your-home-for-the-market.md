@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare Your Home for the Market
-date: 2019-05-03 19:08:26
+date: 2019-05-03 19:08:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -27,7 +27,7 @@ Well, in addition to having us perform an analysis of the property, the first st
 
 **The key to preparing a home is to make sure that it looks fresh and inviting, and that all its major systems, appliances, and features are in working order.** If a lightbulb is burnt out, for example, you need to change it before buyers set foot inside.&nbsp;
 
-You should also take the time to paint both inside and out. This will make your property seem like its brand new.&nbsp;
+You should also take the time to paint both inside and out. This will make your property seem like it's brand-new.&nbsp;
 
 If you follow these steps and work closely with our team to make any other preparations your specific property may need, you’ll be sure to capture and keep an interested buyer’s attention in no time.&nbsp;
 
