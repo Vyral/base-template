@@ -19,7 +19,7 @@ youtube_code: zAS1qs4sitI
 
 {% include youtube.html %}
 
-What’s going on right now in the Flathead Valley real estate market? Keep reading to find out.
+<p style="text-align: center;"><em>What’s going on right now in the Flathead Valley real estate market? Keep reading to find out.</em></p>
 
 Today I’ve got a brief market update for you for the first quarter of 2019.&nbsp;
 
