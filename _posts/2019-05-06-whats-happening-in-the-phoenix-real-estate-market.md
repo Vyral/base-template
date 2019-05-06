@@ -8,7 +8,8 @@ excerpt: >-
   Although we may see a market correction in the next few years, it’s unlikely
   that it will happen in 2019. For the time being, our market remains extremely
   strong.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2019/Kelly+Cook+Real+Estate+Group-+Where+Is+the+Market+at+Today_.mp4
 pullquote: 'Inventory is still low, and so are interest rates.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: yrJlpcDNx0Y
 
 {% include youtube.html %}
 
-Although we may see a market correction in the next few years, it’s unlikely that it will happen in 2019. For the time being, our market remains extremely strong.
+<p style="text-align: center;"><em>Although we may see a market correction in the next few years, it’s unlikely that it will happen in 2019. For the time being, our market remains extremely strong.</em></p>
 
 Today’s topic is a good one. We’re going to discuss where our real estate market is at this very moment in Greater Phoenix.
 
