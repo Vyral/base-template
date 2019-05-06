@@ -21,7 +21,7 @@ youtube_code: te7_dm4uuCk
 
 <P style="text-align: center;"><em>Are you ready to see all the great Charleston sights? Here’s how you can do it with Sweetgrass Tours.</em></p>
 
-I was given a guided look at the best sights in Downtown Charleston, and it’s all thanks to Sweetgrass Tours.
+I was recently given a guided look at the best sights in Downtown Charleston, and it’s all thanks to Sweetgrass Tours.
 
 Their vans fit 12 people, and it’s a perfect thing to do with family or for business events.
 
