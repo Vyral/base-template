@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Reality TV Trends That Fall Flat in the Real World
-date: 2019-05-06 18:28:15
+date: 2019-05-06 18:28:00
 tags:
 excerpt: >-
   Real estate-related reality TV can be fun to watch, but the trends you see on
