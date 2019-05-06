@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Look for in a Real Estate Agent
-date: 2019-05-03 18:47:08
+date: 2019-05-03 18:47:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -34,6 +34,6 @@ To find out how good of an agent they are, you need to look at their track recor
 
 **2\. “What is your list-to-sale price ratio?”** For example, if they list a $300,000 home and sell it for $300,000, they have a 100% list-to-sale price ratio. However, the average agent only has a 95% ratio, so it’s important to know your agent’s ratio. Mine, for example, is 99.3%.
 
-**3\. “Do you work alone or with a team?”** If they’re a sole agent, they have to manage everything on their own. There’s so much to keep track of, so it’s much better to have an entire real estate team at your service. However, you may not want to work with a very large team that may not give you personalized service.
+**3\. “Do you work alone or with a team?”** If they’re a solo agent, they have to manage everything on their own. There’s so much to keep track of, so it’s much better to have an entire real estate team at your service. However, you may not want to work with a very large team that may not give you personalized service.
 
 If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
