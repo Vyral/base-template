@@ -32,6 +32,6 @@ Today’s topic is a good one. We’re going to discuss where our real estate ma
 
 **A big reason for this is the fact that more and more millennials are now forming families and becoming homeowners.** Because this segment of the population is so large, it’s creating huge demand, which is great news for sellers.
 
-Another reason is that we still have low inventory. Rates are low as well, and they’ve dipped back below 5% to 4.25% on average. That's cheap money to borrow if you’re looking to buy. Down payment assistance programs are out there as well that will give you up to $15,000 for assistance.
+Another reason is that we still have low inventory. Rates are low as well, and they’ve dipped back below 5% to 4.25% on average. That's cheap money to borrow if you’re looking to buy. Down payment assistance programs are out there that will give you up to $15,000 for assistance as well.
 
 **What does this all mean for you?** Well, we’re experts in selling residential real estate and we want you to know that we’re here to provide value for you. If you have any questions for us in the meantime about the market or about your personal situation, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
