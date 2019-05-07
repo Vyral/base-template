@@ -31,9 +31,9 @@ Here are four of the *least* desirable home features in our market today:
 
 {% include pullquote.html %}
 
-**2\. Sun rooms.** Many sun rooms aren’t properly constructed, and can therefore detract from a home’s value instead of adding to it. And sun rooms that are well built may still not be desirable in the eyes of today’s buyers, given the high level of upkeep they require.&nbsp;
+**2\. Sunrooms.** Many sun rooms aren’t properly constructed and can therefore detract from a home’s value instead of adding to it. And sunrooms that are well built may still not be desirable in the eyes of today’s buyers, given the high level of upkeep they require.
 
-**3\. Carpet.** Especially on a home’s main level, buyers today much prefer LVT or laminate flooring. These flooring options are easier to clean, making them preferable for buyers with pets, and offer a look that’s more in line with the modern homeowner’s aesthetic.&nbsp;
+**3\. Carpet.** Especially on a home’s main level, buyers today much prefer LVT or laminate flooring. These flooring options are easier to clean, making them preferable for buyers with pets and offer a look that’s more in line with the modern homeowner’s aesthetic.
 
 **4\. Outdoor fireplaces.** Many buyers would prefer to have the extra outdoor space than to have this feature already installed, especially if they never plan to use it.
 
