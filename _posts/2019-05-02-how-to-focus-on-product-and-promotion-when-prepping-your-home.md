@@ -21,6 +21,8 @@ youtube_code: JuEca_7x1XU
 
 <center><em>Two of the four keys to marketing your home are product and promotion, and here&rsquo;s how you can focus on each.</em></center>
 
+&nbsp;
+
 As we know, product and promotion are two of the four keys to marketing your home (the others being pricing and distribution), but how can you make sure you focus on these two keys so that your home sells quickly and for top dollar?
 
 If you follow along in the video above, I’ll show you how you can by using these tips.<br><br>First, **start with a clear palate, which means you need to declutter and depersonalize**. Remove any oversized furniture and pack up any personal items, knick-knacks, and fragile items. Also, remove your valuables and any items that aren’t going with you to your new home. Make sure you keep your countertops and surfaces clear of any portable electronics, and if you have a pet, try to minimize any evidence of their presence.
