@@ -24,7 +24,7 @@ youtube_code: yrJlpcDNx0Y
 
 Today’s topic is a good one. We’re going to discuss where our real estate market is at this very moment in Greater Phoenix.
 
-**Here’s some perspective.** The housing market moves in cycles, usually in 10-15 years at a time. It always has and it always will. When the market started to tip during the last housing cycle, it was in the 2nd quarter of 2007. Obviously, 2008 is when things got bad, but we were already in a declining market by that point.
+**Here’s some perspective.** The housing market moves in cycles, usually in 10- to 15- years at a time. It always has and it always will. When the market started to tip during the last housing cycle, it was in the 2nd quarter of 2007. Obviously, 2008 is when things got bad, but we were already in a declining market by that point.
 
 {% include pullquote.html %}
 
