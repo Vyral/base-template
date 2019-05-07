@@ -11,7 +11,7 @@ pullquote: 'I just did what Jeff told me to do, and it worked for me.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/jeff-cook-susie.jpg
+youtube_alternate_image: /uploads/cook-youtube-12.jpg
 youtube_code: Y7KWApb5fWs
 ---
 
