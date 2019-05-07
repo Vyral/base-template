@@ -21,6 +21,8 @@ youtube_code: OKEDLZbAqRg
 
 <p style="text-align: center;"><em>Inventory is increasing, prices are dropping, and interest rates are low in our St. George market. The time is now for buyers and sellers.</em></p>
 
+We all know about the “one that got away”! The car, home, guy, gal, eBay auction……it might even bring tears to your eyes just thinking about it! In today’s video Jeremy Larkin describes the current St. George Real Estate market as that “one that MIGHT get away” for many home sellers! And how to avoid it. Enjoy!
+
 If you’re a home seller in our St. George market, what are you waiting for?
 
 If home prices had peaked and were starting to decline, wouldn’t you want to know about it? Of course you would. Well, that already happened. In fact, home prices peaked all the way back in July 2018.&nbsp;
