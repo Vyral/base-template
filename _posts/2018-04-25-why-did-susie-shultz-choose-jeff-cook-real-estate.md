@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 'By being a part of our team, Susie Shultz was able to triple her income.'
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2018/SC+Real+Estate+Agent-+Why+Did+Susie+Shultz+Choose+Jeff+Cook+Real+Estate%253F.mp4
+  https://s3.amazonaws.com/vyralmarketing/Jeff+Cook/2019/A+Day+in+the+Life-+Susie+Shultz.mp4
 pullquote: 'I just did what Jeff told me to do, and it worked for me.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jeff-cook-susie.jpg
-youtube_code: ww1jJzU7_z0
+youtube_code: Y7KWApb5fWs
 ---
 
 {% include youtube.html %}
