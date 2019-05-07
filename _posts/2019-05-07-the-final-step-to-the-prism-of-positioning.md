@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Final Step to the Prism of Positioning
-date: 2019-05-07 18:22:23
+date: 2019-05-07 18:22:00
 tags:
   - Home Seller Tips
 excerpt: >-
