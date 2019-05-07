@@ -19,9 +19,7 @@ youtube_code: vvj573EKdho
 
 {% include youtube.html %}
 
-David Rudd, leader and owner of Kindred Real Estate Group, has been with Keller Williams since April of 2014. He has 15 members on his team, which is the largest team in the No.1 market center in Southern California. **Not counting his referrals, he and his team brought in $68 million last year, and he’s on track to do much more than that in 2019.&nbsp;**
-
-<br>Back in 2014, after a Keller Williams agent had reached out to David, inviting him to come meet with the team leader at the time, David was impressed with the value that KW offered—He ended up sealing the deal not just because of the systems they had in place, but also because of the company’s enthusiasm and the culture of the team.
+David Rudd, leader and owner of Kindred Real Estate Group, has been with Keller Williams since April of 2014. He has 15 members on his team, which is the largest team in the No.1 market center in Southern California. **Not counting his referrals, he and his team brought in $68 million last year, and he’s on track to do much more than that in 2019.&nbsp;**<br><br>Back in 2014, after a Keller Williams agent had reached out to David, inviting him to come meet with the team leader at the time, David was impressed with the value that KW offered—He ended up sealing the deal not just because of the systems they had in place, but also because of the company’s enthusiasm and the culture of the team.
 
 Three years later, a new real estate company that seemed to focus on tech growth came into town. Many in the industry will recognize the name eXp, which began reaching out to KW’s agents en masse. David was intrigued to hear more about what they had to offer, but when he realized that their focus was on revenue sharing to the point where they boasted he won’t even have to sell real estate, he was turned off. **The fundamentals of any company that you associate with should be 100% focused on building your business,** and his core business was selling real estate.
 
