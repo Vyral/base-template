@@ -19,6 +19,6 @@ youtube_code: JdFkq0GvDG8
 
 {% include youtube.html %}
 
-On June 1, we want you to join us at Lone Peak Park for our summer barbecue kickoff. Here are the details.
+<center>On June 1, we want you to join us at Lone Peak Park for our summer barbecue kickoff. Here are the details.</center>
 
 We’re here today at beautiful Lone Peak Park (10140 S. 700 E, Sandy, UT), the site of Colemere Realty’s upcoming Summer Barbecue Kickoff. Please join us on June 1 from 11 a.m. to 3 p.m. for great barbecue, lots of fun, and prizes galore. We appreciate your support so much, and this is just a way for us to thank you in person. Click this link to RSVP. We can’t wait to see you there.
