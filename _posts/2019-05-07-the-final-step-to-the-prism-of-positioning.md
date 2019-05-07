@@ -32,3 +32,7 @@ Make sure that you’ve got an agent who can give you the right advice on what t
 The answer is that you need to accept the offer that’s to your advantage and will put the most money in your pocket at the end of the day. The true value of your real estate agent is to find the right buyer and get a good net with good terms and a smooth transaction.
 
 If you don’t have someone that can help you with this, don’t hesitate to give me a call or send me an email. I’d love to help or to answer any questions you may have.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
