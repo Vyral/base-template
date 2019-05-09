@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://sternteam.org/the-latest-developments-from-our-wasatch-front-market.html</loc>
+<lastmod>2019-05-07T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://sternteam.org/should-i-buy-a-starter-home-in-todays-market.html</loc>
 <lastmod>2019-04-11T00:00:00-05:00</lastmod>
 </url>
@@ -575,6 +579,9 @@
 </url>
 <url>
 <loc>http://sternteam.org/page37/</loc>
+</url>
+<url>
+<loc>http://sternteam.org/page38/</loc>
 </url>
 <url>
 <loc>http://sternteam.org/bower_components/jPlayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html</loc>

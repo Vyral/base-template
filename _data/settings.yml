@@ -34,15 +34,15 @@ client:
 
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
-  CTA_title: "What’s Your Salt Lake City Home Worth?"
-  CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
+  CTA_title: "What’s My Home Worth?"
+  CTA_text:
   CTA_link_text: "Free Home Value Report"
   CTA_url: https://www.sternteam.com/homevalue/ssl-homevalue
 
 second_sidebar_CTA:
   CTA_image_path: /img/cta-images/002.jpg
-  CTA_title: "Looking for a Salt Lake City Home?"
-  CTA_text: "Discover your dream home. Search the entire MLS for your Salt Lake City home."
+  CTA_title: "Looking to Buy a Home?"
+  CTA_text:
   CTA_link_text: "Search the MLS"
   CTA_url: https://www.sternteam.com/
 
