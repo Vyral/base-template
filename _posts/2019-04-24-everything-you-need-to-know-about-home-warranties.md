@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/misty-finer-points-of-home-warranties-youtube.jpg
-youtube_code: 00z_9zbj9B0
+youtube_code: NpE2vRBktFU
 ---
 
 {% include youtube.html %}
