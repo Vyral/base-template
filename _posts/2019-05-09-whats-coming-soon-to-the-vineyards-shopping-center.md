@@ -19,7 +19,7 @@ youtube_code: jJgYorv3xDA
 
 {% include youtube.html %}
 
-The Vineyards Shopping Center is nearly complete. Here’s a quick update on what’s going on and what you can expect in the coming months.
+<p style="text-align: center;"><em>The Vineyards Shopping Center is nearly complete. Here’s a quick update on what’s going on and what you can expect in the coming months.</em></p>
 
 Today I’m coming to you from the Vineyards Shopping Center at Porter Ranch. I’m standing in front of Nordstrom rack, the first store to open here in the area. **The next big opening is going to be Whole Foods, which is relocating from a 27,000 sq ft. building to a 44,000 sq ft. right here at the Vineyards Shopping Center on May 22.** You can learn more about the grand opening, which will feature music, free samples, and more, [here.](https://www.eventbrite.com/e/whole-foods-market-porter-ranch-grand-opening-registration-60605837692?fbclid=IwAR2VQiAY5O7pgG4RX755mKOAOpqdNHPOu2N3KjIX8-FGRnRnbIMjwqCIUs8){: target="_blank"}
 
