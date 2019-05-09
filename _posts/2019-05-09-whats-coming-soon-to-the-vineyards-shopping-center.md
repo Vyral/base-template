@@ -8,13 +8,13 @@ excerpt: >-
   The Vineyards Shopping Center is nearly complete. Here’s a quick update on
   what’s going on and what you can expect in the coming months.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+Vineyards+Shopping+Center+Part+1.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+shopping+center.mp4
 pullquote: Whole Foods is opening on May 22!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jJgYorv3xDA
+youtube_code: VAEiTiw2gQs
 ---
 
 {% include youtube.html %}
