@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Spotlight: Chris Neill'
-date: 2019-05-09 17:56:20
+date: 2019-05-09 17:56:00
 tags:
 excerpt: >-
   Today we’re continuing our “Agent Spotlight” series by speaking to rockstar
