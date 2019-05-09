@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-30-marketing-np.jpg
-youtube_code: JuEca_7x1XU
+youtube_code: uFB8riahq1Q
 ---
 
 {% include youtube.html %}
