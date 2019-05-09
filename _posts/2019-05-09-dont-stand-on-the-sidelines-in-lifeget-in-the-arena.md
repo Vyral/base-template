@@ -19,7 +19,7 @@ youtube_code: GwhPISSKto0
 
 {% include youtube.html %}
 
-If you want to be successful in life, you have to get in the arena. Today I’ll tell you what that means.
+<p style="text-align: center;"><em>If you want to be successful in life, you have to get in the arena. Today I’ll tell you what that means.</em></p>
 
 *“The credit belongs to the man who is actually in the arena.”* - Theodore Roosevelt
 
