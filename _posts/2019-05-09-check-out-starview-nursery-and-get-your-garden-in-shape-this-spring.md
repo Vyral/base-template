@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check out Starview Nursery and Get Your Garden in Shape This Spring
-date: 2019-05-09 18:35:49
+date: 2019-05-09 18:35:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,8 +11,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/market-update-may-youtube.jpg
 youtube_code: wvinxYUVK_0
 ---
 
@@ -20,7 +20,7 @@ youtube_code: wvinxYUVK_0
 
 Spring has sprung\! This means many people are starting to think about their real estate goals for 2019, but it also means people are beginning to plan their gardens. If either, or both, of these topics have been on your mind, then this message is for you.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
 
 0:04 - An introduction to today’s business spotlight: Starview Nursery in La Grange
 
