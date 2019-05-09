@@ -13,8 +13,9 @@ pullquote: >-
   internet or your Realtor partner to do all the payment calculations for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/why-buyers-should-be-wary-of-online-mortgage-calculators-youtube-1.jpg
 youtube_code: x-mdtoazmog
 ---
 
