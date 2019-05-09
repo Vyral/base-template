@@ -20,7 +20,7 @@ youtube_code: mdadbFn3eBQ
 
 {% include youtube.html %}
 
-If you’re fearful of being replaced by technology, don’t be. Today we’ll share a few important points on how we as an industry can make technological advances work for us, instead of against us.
+<p style="text-align: center;"><em>If you’re fearful of being replaced by technology, don’t be. Today we’ll share a few important points on how we as an industry can make technological advances work for us, instead of against us.</em></p>
 
 Technology has changed our industry a lot since I first went into business 18 years ago, and even more so since my father (and his father) got there start decades before me.&nbsp;
 
