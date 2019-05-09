@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Differences Between the 1st Quarter Markets of 2018 & 2019
-date: 2019-05-09 18:50:36
+date: 2019-05-09 18:50:00
 tags:
   - Market Update
   - Real Estate
