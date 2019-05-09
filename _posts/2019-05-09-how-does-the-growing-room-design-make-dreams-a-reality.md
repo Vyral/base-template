@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does The Growing Room Design Make Dreams a Reality?
-date: 2019-05-09 14:43:17
+date: 2019-05-09 14:43:00
 tags:
   - Real Estate
 excerpt: >-
@@ -36,6 +36,6 @@ I was recently joined by my friend Noa Artzi-Weill, founder and creator of The G
 
 7:40- How long do Noa’s projects usually take?
 
-Thanks so much to Noa for joining me for this fascinating discussion. **If you have any quesitons for her or want to learn more about what she does, give her a call at (646) 644-0204 or visit her online at**[**www.thegrowingroomdesign.com**](http://www.thegrowingroomdesign.com)**. **
+Thanks so much to Noa for joining me for this fascinating discussion. **If you have any quesitons for her or want to learn more about what she does, give her a call at (646) 644-0204 or visit her online at**[**www.thegrowingroomdesign.com**](http://www.thegrowingroomdesign.com)\*\*. \*\*
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. If you know of another local business that I should check out for my next interview, feel free to reach out to me with those suggestions as well.
