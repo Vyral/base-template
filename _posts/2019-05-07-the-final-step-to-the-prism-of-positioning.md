@@ -25,7 +25,7 @@ Last time, we talked about the prism of positioning, or positioning your home wi
 
 {% include pullquote.html %}
 
-When you hire an agent, make sure they have their act together when it comes to the prism of positioning, but **once you get a buyer, you need an experienced, seasoned negotiation in order to come out on top.**
+When you hire an agent, make sure they have their act together when it comes to the prism of positioning, but **once you get a buyer, you need an experienced, seasoned negotiator in order to come out on top.**
 
 Make sure that you’ve got an agent who can give you the right advice on what to do with one, two, or even eight offers, which is possible in this market. Do you counter? Accept? Let it go?&nbsp;
 
