@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Trusting Your Lender Over a Mortgage Calculator
-date: 2019-05-09 15:25:52
+date: 2019-05-09 15:25:00
 tags:
   - Real Estate
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: x-mdtoazmog
 
 This may be news to you, but the millions of mortgage calculators you can find online aren’t all created equal. **Whether it’s the questions they ask, their interest rates, or their calculations in giving you a monthly payment, they’re all different in one way or another.** One thing most will not do, though, is calculate your private mortgage insurance, or PMI.
 
-To further illustrate this point, I recently spoke to a client whose agent had done a calculation for her straight from his phone, and the mortgage payment his calculator arrived at was $1,600. For my part, I adjusted the pre-approval letter for her and told her what her estimated payment would be in order to close. **Even with the exact same interest rate as what her agent used, my estimate came out to be $150 more. **
+To further illustrate this point, I recently spoke to a client whose agent had done a calculation for her straight from his phone, and the mortgage payment his calculator arrived at was $1,600. For my part, I adjusted the pre-approval letter for her and told her what her estimated payment would be in order to close. \*\*Even with the exact same interest rate as what her agent used, my estimate came out to be $150 more. \*\*
 
 {% include pullquote.html %}
 
