@@ -10,8 +10,8 @@ enclosure:
 pullquote: 'If you’re thinking of buying or selling, now’s the time to make a move.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/march-market-update-youtube.jpg
 youtube_code: KlBCHV4g3QA
 ---
 
