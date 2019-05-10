@@ -22,9 +22,9 @@ youtube_code: mdadbFn3eBQ
 
 <p style="text-align: center;"><em>If you’re fearful of being replaced by technology, don’t be. Today we’ll share a few important points on how we as an industry can make technological advances work for us, instead of against us.</em></p>
 
-Technology has changed our industry a lot since I first went into business 18 years ago, and even more so since my father (and his father) got there start decades before me.&nbsp;
+Technology has changed our industry a lot since I first went into business 18 years ago, and even more so since my father (and his father) got their start decades before me.&nbsp;
 
-There’s no denying that industry has altered (and will continue to alter) the way real estate works for good. But what specific changes have taken place? And how will we, as real estate professionals, respond to them?
+There’s no denying that technology has altered (and will continue to alter) the way real estate works for good. But what specific changes have taken place? And how will we, as real estate professionals, respond to them?
 
 {% include pullquote.html %}
 
