@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens to Your Mortgage After Closing?
-date:
+date: 2019-05-10 21:10:45
 tags:
   - Real Estate
 excerpt: >-
