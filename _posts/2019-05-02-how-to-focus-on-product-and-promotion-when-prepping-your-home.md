@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Two of the four keys to marketing your home are product and promotion, and
   here’s how you can focus on each.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%26+Associates+-+How+to+Focus+on+Product+and+Promotion+When+Prepping+Your+Home.mp4
 pullquote: Your home’s marketing should happen both online and offline.
 enclosure_type: video/mp4
 enclosure_time:
