@@ -7,7 +7,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   Do you need a home inspection when buying new construction? Actually, yes, and
-  today we’ll explain why.
+  today I’ll explain why.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -19,7 +19,7 @@ youtube_code: Fl6MuPjbpeE
 
 {% include youtube.html %}
 
-<center><em>Do you need a home inspection when buying new construction? Actually, yes, and today we&rsquo;ll explain why.</em></center>
+<center><em>Do you need a home inspection when buying new construction? Actually, yes, and today I&rsquo;ll explain why.</em></center>
 
 &nbsp;
 
