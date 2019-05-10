@@ -34,4 +34,4 @@ Another fun fact about Chris: He is a master of zen. Last year, there was a huge
 
 Ultimately, I’m honored to have Chris on the team. He’s truly a great guy to be around.
 
-If you would like to know what your house is worth in our market, visit my website at **www.JohnSchusterGroup.com**. For any other real estate questions, don’t hesitate to reach out to me. Hope to hear from you soon\!<br>&nbsp;
+If you would like to know what your house is worth in our market, visit my website at [**www.JohnSchusterGroup.com**](www.JohnSchusterGroup.com). For any other real estate questions, don’t hesitate to reach out to me. Hope to hear from you soon\!<br>&nbsp;
