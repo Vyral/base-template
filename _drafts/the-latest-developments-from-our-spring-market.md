@@ -21,7 +21,7 @@ youtube_code: vssTUo9ql48
 
 {% include youtube.html %}
 
-Spring spelled success not only for sellers, but also buyers in this year’s market. Here’s our mid-May update.
+<center>Spring spelled success not only for sellers, but also buyers in this year’s market. Here’s our mid-May update.</center>
 
 We’re now into mid-May, which makes it time to recap our market’s performance this spring.
 
