@@ -19,7 +19,7 @@ youtube_code: NpE2vRBktFU
 
 {% include youtube.html %}
 
-This is a replay of a webinar on Lab Coat Agents, the industry’s largest social media group.
+\*This is a replay of a webinar on Lab Coat Agents, the industry’s largest social media group\!\*
 
 I recently had the opportunity to have a great video conference with Nick Baldwin and Molly Stewart, and I wanted to share it with you in its entirety. We talked about all things home warranty, including whether or not you should include one with the sale of your home, how they relate to health insurance, and much more. **Here’s an outline of our discussion, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
