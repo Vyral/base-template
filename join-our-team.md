@@ -13,7 +13,7 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-<p>At Abby Realty we specialize in helping experienced real estate agents take their business to the next level. We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the support, training, and personal coaching you need to fund the life you’ve always imagined. Did we mention that we have no monthly fees, no franchise fees, no annual dues, and a 90/10 commission split? Apply now for a free, no obligation phone call or live coaching conversation to see if Abby Realty is the right environment for your career! </p>
+<p>At Abby Realty we specialize in helping experienced real estate agents take their business to the next level. We’re hiring agents throughout the Houston real estate area including The Woodlands, Conroe, Spring, Kingwood, League City, Pearland, Katy, Tomball and Cypress. Get the support, training, and personal coaching you need to fund the life you’ve always imagined. Did we mention that we have no monthly fees, no franchise fees, no annual dues, and a 80/20 commission split? Apply now for a free, no obligation phone call or live coaching conversation to see if Abby Realty is the right environment for your career! </p>
 
 <hr>
 
@@ -47,7 +47,7 @@ permalink: /join-our-team/
 
 <p>Let’s talk about those fees. By the time agents pay fat commission splits and all the other nuisance fees that brokerages tack on, it’s no wonder that most agents qualify for food stamps! Even if you generate a lot of commission income, you end up giving so much of it to your broker that there’s hardly anything left for you and your family. And the irony is that you were the one who generated that money through your hard work and long hours. Yet you get to keep very little of it. </p>
 
-<p>It’s different at Abby Realty. Our compensation plan is simple, lean, and easy-to-understand. Here goes: 90/10 commission split with a $100 transaction fee. That’s it! No monthly fees, no annual dues, no franchise fees, no desk fees, no E&O surcharges, no technology fees, no training fees, no mentorship fees, nothing. <strong>NO HIDDEN CHARGES. NO SURPRISES.</strong> And if that weren’t enough, Abby Realty even pays for your CSS and BackAgent dues. </p>
+<p>It’s different at Abby Realty. Our compensation plan is simple, lean, and easy-to-understand. Here goes: 80/20 commission split with a $100 transaction fee. That’s it! No monthly fees, no annual dues, no franchise fees, no desk fees, no E&O surcharges, no technology fees, no training fees, no mentorship fees, nothing. <strong>NO HIDDEN CHARGES. NO SURPRISES.</strong> And if that weren’t enough, Abby Realty even pays for your CSS and BackAgent dues. </p>
 
 <p>Just to be clear, once your 10% split to Abby Realty reaches $10,000, you keep 100% of your commissions until your anniversary date. </p>
 
