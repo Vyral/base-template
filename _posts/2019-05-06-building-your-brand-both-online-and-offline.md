@@ -25,7 +25,7 @@ If someone Googles you and lands on one of your social media platforms, will the
 
 **To keep things consistent, try focusing on colors and logo.** Have some colleagues you like and trust analyze your brand and offer their thoughts on how you can improve things.&nbsp;
 
-In the video above, you can see I’m wearing a shirt that says “Location. Location. Location.” This is just one of the clothing items we sell on our brand-new website [LuxurySpecialistGear.com](https://luxury-specialist-gear.myshopify.com/){: target="_blank"}. We’ve created different designs and color schemes for our all of our gear—that’s an example of how we build our brand.&nbsp;
+In the video above, you can see I’m wearing a shirt that says “Location. Location. Location.” This is just one of the clothing items we sell on our brand-new website **[LuxurySpecialistGear.com](https://luxury-specialist-gear.myshopify.com/){: target="_blank"}.** We’ve created different designs and color schemes for our all of our gear—that’s an example of how we build our brand.&nbsp;
 
 {% include pullquote.html %}
 
