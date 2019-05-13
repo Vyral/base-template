@@ -3,11 +3,11 @@ layout: post
 title: Shaina Moats Shares Her Agent Success Secrets
 date: 2019-03-12 18:02:00
 tags:
-  - Agents Success Interview
 excerpt: >-
   Shaina Moats is a successful real estate professional, wife, and mother.
   Here’s a closer look at how she balances it all.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Agent+Success+Secrets+with+Jennie+Wolek-+Shaina+Moats%2C+Keller+Williams+Realty%2C+Austin%2C+TX.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
