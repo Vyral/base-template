@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Be a Fiduciary Agent—Not a Functionary One
-date: 2019-04-23 13:52:49
+date: 2019-04-23 13:52:00
 tags:
 excerpt: 'As an agent, you need to be fiduciary instead of functionary. Here’s why.'
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+What+Separates+Fiduciary+Agents+From+Functionary+Ones_+(1).mp4
 pullquote: >-
   Our clients are trusting us with one of the biggest transactions of their
   lives, and our needs shouldn’t interfere with theirs.
