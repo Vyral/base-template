@@ -3,11 +3,11 @@ layout: post
 title: Agent Success Secrets with Special Guest Anna Krueger
 date: 2019-03-07 18:02:00
 tags:
-  - Agents Success Interview
 excerpt: >-
   Anna Krueger has made great strides in her role as an inside sales agent. I
   sat down with her to talk about how she came so far in her career.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Agent+Success+Secrets-+Anna+Krueger%2C+MAPS+Coach+Taylors%2C+SC.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/pgpWhS05TgI'
 
 {% include youtube.html %}
 
-Welcome back to my series, “Agent Success Secrets!” Today, I’m excited to introduce our guest, Anna Krueger. She’s from Greenville, South Carolina, and you may recognize her for being an amazing ISA/OSA coach and consultant. If you’re with Keller Williams, you may have recently seen her on the big stage at our mastermind—she did an awesome job, and we’re all proud of her.
+Welcome back to my series, “Agent Success Secrets\!” Today, I’m excited to introduce our guest, Anna Krueger. She’s from Greenville, South Carolina, and you may recognize her for being an amazing ISA/OSA coach and consultant. If you’re with Keller Williams, you may have recently seen her on the big stage at our mastermind—she did an awesome job, and we’re all proud of her.
 
 Today I want to show you the conversation I had with her **about her history as an agent, and how she’s managed to come so far in her career.**
 
@@ -40,4 +40,4 @@ For your convenience, I’ve provided timestamps below so you can navigate the c
 
 Anna is doing an amazing job in her role and I’m so glad I could speak with her today. If you’d like to reach out to her to learn more from her expertise in the field, she can be reached via email at **[mapscoachanna@gmail.com](mailto:mapscoachanna@gmail.com)**, via Facebook in the group called ISAMastermindGroup, or also via the website <u><strong><a target="_blank" href="https://www.isamapscoaching.com/">www.isamapscoaching.com</a></strong></u>, where she has a number of recorded webinars available for viewing.
 
-If you have any questions for us at the Wolek Group, we always encourage you to reach out to us. We’d be glad to have a conversation with you.<br>
+If you have any questions for us at the Wolek Group, we always encourage you to reach out to us. We’d be glad to have a conversation with you.
