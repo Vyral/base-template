@@ -3,12 +3,12 @@ layout: post
 title: An Insightful Conversation with MAPS Coach Dru Lee
 date: 2019-04-01 21:16:00
 tags:
-  - Agents Success Interview
 excerpt: >-
   Dru Lee is always ahead of the curve when it comes to building and maintaining
   success in real estate. I talked to him recently about his latest venture,
   “Master the Path of Money.”
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Agent+Success+Secrets-+Dru+Lee+Shares+His+Agent+Success+Secrets.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -29,6 +29,6 @@ On today’s edition of Agent Success Secrets, I’m so grateful to be joined by
 * 19:50- Mistakes that Dru sees agents make consistently and how to solve them
 * 23:15- Dru’s final piece of advice for agents who want to build a successful, profitable business
 
-Thanks so much to Dru for joining me today. If you want to learn more about him and his upcoming “Master the Path of Money” class, head on over to this website or send him an email to coachdrulee@gmail.com. The class launches on March 22!
+Thanks so much to Dru for joining me today. If you want to learn more about him and his upcoming “Master the Path of Money” class, head on over to this website or send him an email to coachdrulee@gmail.com. The class launches on March 22\!
 
-If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
