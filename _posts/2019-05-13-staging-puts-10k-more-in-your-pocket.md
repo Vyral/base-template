@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Staging Puts $10k More In Your Pocket
-date: 2019-05-13 21:53:43
+date: 2019-05-13 21:53:00
 tags:
   - Home Seller Tips
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2019/4.+Why+Stage+Your+Home.mov
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
