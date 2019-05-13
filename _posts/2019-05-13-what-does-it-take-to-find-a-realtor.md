@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does it Take to Find a Realtor
-date: 2019-05-13 20:24:11
+date: 2019-05-13 20:24:00
 tags:
   - Real Estate
 excerpt: What does it take to find the right Realtor? Allow us to explain.
@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: _YPMyHnG9vM
 ---
 
-{{ include youtube.html }}
+\{ include youtube.html \}
 
 If you’re looking for a Realtor, you may feel like the choice before you is a little overwhelming. While this certainly can be the case, there are actually many resources available for buyers in our market to find the right agent to represent their needs.
 
