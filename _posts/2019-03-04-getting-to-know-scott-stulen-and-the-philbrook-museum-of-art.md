@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Getting to Know Scott Stulen and the Philbrook Museum of Art
-date: 2019-03-04 17:58:52
+date: 2019-03-04 17:58:00
 tags:
 excerpt: >-
   Scott Stulen joins me today to talk about all the new and exciting changes at
   one of  Tulsa’s gems: the Philbrook Museum of Art.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Have+You+Visited+the+Philbrook+Museum_.mp4
 pullquote: >-
   You can find out more about upcoming exhibits at the Philbrook Museum as well
   as sign up for the member opening party for Mel Bochner by visiting
