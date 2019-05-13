@@ -21,7 +21,7 @@ youtube_code: 5Ze-0oC1-jE
 
 Purchasing a home is a huge investment. It only makes sense, then, that you should think carefully about the person you hire to help you make this move. There are thousands of Realtors out there, but you can (or at least should) only choose one. **So how do you choose?**
 
-We’ll discuss the answer to this question exactly in today’s message, which is the third installment into our “Anyone Can Become a Homebuyer” series
+We’ll discuss the answer to this question exactly in today’s message, which is the third installment into our “Anyone Can Become a Homebuyer” series.
 
 There are a number of qualities your agent should have. **Beyond having a high level of expertise with real estate in general, they must also be highly attuned to your specific market.** The ideal Realtor should be a local expert in your market—someone who will listen to your wants and needs and leverage their knowledge, resources, and network to make your real estate goals a reality.
 
