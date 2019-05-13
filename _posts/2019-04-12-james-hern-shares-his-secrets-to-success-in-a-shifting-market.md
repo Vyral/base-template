@@ -3,12 +3,12 @@ layout: post
 title: James Hern Shares His Secrets to Success in a Shifting Market
 date: 2019-04-12 18:33:00
 tags:
-  - Agents Success Interview
 excerpt: >-
   James Hern has been working in the real estate business for a long time. His
   longevity can be attributed to many different factors and he’ll share some of
   those with us today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Agent+Success+Secrets-+James+Hern+with+The+Hern+Group%2C+Kansas+City%2C+MO%2C+Keller+Williams+Realty.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -39,4 +39,4 @@ Welcome to another episode of Agent Success Secrets. This time, I’m joined by 
 
 19:50- How to get in touch with James if you or someone you know needs real estate assistance in Kansas City.
 
-Thanks so much to James for sharing his valuable time and this valuable information with me. If you have any questions for me or have any real estate needs that I can assist with, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.<br>
+Thanks so much to James for sharing his valuable time and this valuable information with me. If you have any questions for me or have any real estate needs that I can assist with, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
