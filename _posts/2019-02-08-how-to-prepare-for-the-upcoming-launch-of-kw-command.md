@@ -4,7 +4,8 @@ title: How to Prepare for the Upcoming Launch of KW Command
 date: 2019-02-08 18:17:00
 tags:
 excerpt: Make sure you’re ready for when KW Command arrives!
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Get+Yourself+Ready+for+Kw+Command+(2).mp4
 pullquote: 'Connect however you can; this is a relationship business, after all.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,6 +22,6 @@ It’s a good idea to clean up your database by updating contact information, su
 
 {% include pullquote.html %}
 
-If you’re a Keller Williams agent, another thing to do is open up your Kelle app. Say “add insights” in the app to update your location. From here, **you can take pictures, add comments, and broadcast what you think of the area you’re in.** When the consumer KW mobile app is updated in the near future, potential homebuyers will be able to see the information you’ve posted. As they're scanning a neighborhood to get ideas, your comments and info will pop up. **If they see that you’re the one adding all the information, they’ll think you really know the area and can serve their needs the best!**
+If you’re a Keller Williams agent, another thing to do is open up your Kelle app. Say “add insights” in the app to update your location. From here, **you can take pictures, add comments, and broadcast what you think of the area you’re in.** When the consumer KW mobile app is updated in the near future, potential homebuyers will be able to see the information you’ve posted. As they're scanning a neighborhood to get ideas, your comments and info will pop up. **If they see that you’re the one adding all the information, they’ll think you really know the area and can serve their needs the best\!**
 
 These are just a few things I recommend. If you’d like more information or have any questions, reach out to me. I look forward to helping you.<br>&nbsp;
