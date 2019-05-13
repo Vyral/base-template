@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Where Discovering Your Passion Can Lead You
-date: 2019-01-08 16:02:22
+date: 2019-01-08 16:02:00
 tags:
 excerpt: >-
   Discovering my passion led me on a journey that ended with me becoming a
   Keller Williams University instructor. Here’s my story.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+The+Importance+of+Discovering+Your+Passion+(1).mp4
 pullquote: >-
   I learned that I loved training, teaching, and sharing everything I’ve learned
   over the years with other real estate agents.
