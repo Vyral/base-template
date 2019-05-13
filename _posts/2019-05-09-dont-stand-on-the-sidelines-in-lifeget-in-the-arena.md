@@ -33,7 +33,7 @@ This kind of thing bothers me. Why wouldn’t a person want to be involved in a 
 
 Second, someone challenged the stats I referenced after I made a post on a social media site that thanked Barbara Corcoran for helping make me the No. 1 agent in the capital region and my team the No. 3 team in the entire state of New York. I would never make a claim or list a stat that I couldn’t verify, so I messaged this person and showed him my references for these rankings. He replied that I should’ve listed those citations the first time around.
 
-This person was a relatively new Realtor, so that’s when I told him he needed to get in the arena. The line itself its taken from a larger quote which you can read at 3:00 in the video above, but in any case, **if you want to be successful in life, you’ve got to be in the arena.** You’ve got to be in the game. If you want to buy a house for your family, you have to make an offer.&nbsp;
+This person was a relatively new Realtor, so that’s when I told him he needed to get in the arena. The line itself is taken from a larger quote which you can read at 3:00 in the video above, but in any case, **if you want to be successful in life, you’ve got to be in the arena.** You’ve got to be in the game. If you want to buy a house for your family, you have to make an offer.&nbsp;
 
 When I started my business many years ago, there was one thought that drove me: I didn’t want to be on my deathbed wondering what would’ve happened if I tried starting a real estate business. I decided that I would rather start a business and potentially fail than regret never trying at all.&nbsp;
 
