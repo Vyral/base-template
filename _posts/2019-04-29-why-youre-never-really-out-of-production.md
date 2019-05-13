@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   It may be your dream to get out of production in your business. However, that
   may not be a 100% reachable goal. Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Why+Getting+out+of+Production+Isnt+an+Absolute+(1).mp4
 pullquote: We’re solely responsible for our businesses.
 enclosure_type: video/mp4
 enclosure_time:
