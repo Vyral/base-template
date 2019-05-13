@@ -17,7 +17,7 @@ youtube_alternate_image:
 youtube_code: _YPMyHnG9vM
 ---
 
-{{ include youtube.html }}
+{% include youtube.html %}
 
 If you’re looking for a Realtor, you may feel like the choice before you is a little overwhelming. While this certainly can be the case, there are actually many resources available for buyers in our market to find the right agent to represent their needs.
 
