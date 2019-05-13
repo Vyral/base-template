@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Miscellaneous
 excerpt: >-
-  On June 1s, we want you to join us at Lone Peak Park for our summer barbecue
+  On June 1st, we want you to join us at Lone Peak Park for our summer barbecue
   kickoff. Here are the details.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Our+Summer+Barbecue+Kickoff+Is+Almost+HereRSVP+Below.mp4
