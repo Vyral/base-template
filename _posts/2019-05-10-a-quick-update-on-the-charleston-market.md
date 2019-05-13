@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on the Charleston Market
-date: 2019-05-10 18:05:49
+date: 2019-05-10 18:05:00
 tags:
   - Market Update
 excerpt: >-
@@ -28,6 +28,6 @@ May 8: Charleston Beer Fest at Riverfront Park<br>May 19: Preservation Pedal of 
 
 {% include pullquote.html %}
 
-With Memorial Day right around the corner, Matt Mieras of CMG Financial wanted to bring to mind a few special financing programs out there for veterans. K**eep in mind that if you’re a vetaran, you’re eligible for 100% financing, seller paid closing costs to break your current lease, and more.** If you have any questions about that, reach out to Matt at &nbsp;(843) 670-5512 or send him an email to MMieras@cmgfi.com.
+With Memorial Day right around the corner, Matt Mieras of CMG Financial wanted to bring to mind a few special financing programs out there for veterans. K**eep in mind that if you’re a veteran, you’re eligible for 100% financing, seller-paid closing costs to break your current lease, and more.** If you have any questions about that, reach out to Matt at &nbsp;(843) 670-5512 or send him an email to MMieras@cmgfi.com.
 
 If you have any other questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
