@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Here’s why Youth Services of Tulsa is such a wonderful resource for area teens
   and young adults.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+See+How+This+Organization+Saves+Young+Lives+Every+Day+(1).mp4
 pullquote: They helped 300 different individuals in their shelter within the last year.
 enclosure_type: video/mp4
 enclosure_time:
@@ -34,4 +35,4 @@ A common misconception is that youth become homeless through some fault of their
 
 **You can help support Youth Services of Tulsa through donations or volunteer work.** They rely on both in order to operate, and they also need items such as underwear and socks. To see how to donate and learn more about the organization, visit <u><strong><a target="_blank" href="https://www.yst.org/">www.YST.org</a></strong></u>.
 
-I’d like to thank Brian for giving us an insightful look at this wonderful organization. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.<br>
+I’d like to thank Brian for giving us an insightful look at this wonderful organization. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
