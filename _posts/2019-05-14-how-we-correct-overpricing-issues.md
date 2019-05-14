@@ -29,3 +29,7 @@ With this particular client, we met and realized the price they set was too high
 Three real estate agents showed the property and two of them ended up writing offers. They fought over the property and the final offer came in at our new asking price and I was able to negotiate it between the old price and the new price. **This led to a quick, profitable, and great sale.**
 
 If you have any questions for me about how to properly price your home or if you need my assistance in creating this kind of demand for your home when you list it, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
