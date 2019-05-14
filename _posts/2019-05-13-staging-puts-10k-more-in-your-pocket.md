@@ -40,4 +40,4 @@ If you want to attract more buyers and earn more money for your home, then all y
 Remember: Clutter eats away at your equity. Staging is a critical step in the selling process for those looking to maximize their results. It allows you to make a great first impression. After all, the goal of staging isn’t to show your property as your current house, it’s to show the buyers what it could be like as their future home.
 
 
-You can read all about my other staging tips and in [my book.](https://www.amazon.com/How-Fight-Home-Selling-Sharks/dp/1795009357/ref=sr_1_8?keywords=home+selling+shark+book&amp;qid=1557778730&amp;s=gateway&amp;sr=8-8){: target="_blank"}
+You can read all about my other staging tips and advice in [my book.](https://www.amazon.com/How-Fight-Home-Selling-Sharks/dp/1795009357/ref=sr_1_8?keywords=home+selling+shark+book&amp;qid=1557778730&amp;s=gateway&amp;sr=8-8){: target="_blank"}
