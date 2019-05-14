@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Building Your Brand, Both Online and Offline'
-date: 2019-05-06 03:45:00
+date: 2019-05-14 03:45:00
 tags:
   - Luxury Listing Specialist
 excerpt: 'When building your brand, both online and offline, consistency is key.'
