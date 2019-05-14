@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does it Take to Find a Realtor
+title: What Does It Take to Find a Realtor?
 date: 2019-05-13 20:24:00
 tags:
   - Real Estate
@@ -31,4 +31,4 @@ You should always have a thorough understanding of an agent’s or a team’s re
 
 With all of this in mind, we’d like to let you know that while you don’t have to choose the Vallee Gold Team to assist you during your next move, we’re positive you’ll be pleased with the results if you do.&nbsp;
 
-If you have any other questions or would like more information about how we can help you with you buying or selling goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
+If you have any other questions or would like more information about how we can help you with your buying or selling goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
