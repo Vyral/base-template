@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should Agents Select Homes to Show Clients?
-date: 2019-05-14 21:47:56
+date: 2019-05-14 21:47:00
 tags:
   - Lead Conversion
 excerpt: >-
