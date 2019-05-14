@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on the Houston Real Estate Market
-date: 2019-05-14 15:48:13
+date: 2019-05-14 15:48:00
 tags:
   - Real Estate
 excerpt: >-
