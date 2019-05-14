@@ -17,11 +17,13 @@ youtube_code: EUdP0QcLop8
 
 {% include youtube.html %}
 
-When selling a home the question why should I stage my home, home much does it cost and will it put money in my pocket\! All good questions. To avoid being bitten by the &nbsp;Staging Shark, you need to understand why you should do it. There are many small, and low cost fix ups I can share with you.&nbsp;
+When selling a home the question why should I stage my home, home much does it cost and will it put money in my pocket\! All good questions. To avoid being bitten by the Staging Shark, you need to understand why you should do it. There are many small, and low cost fix ups I can share with you.&nbsp;
 
 The most important reason why you should stage your home before selling it is to appeal to a wider pool of buyers. If you try to appeal only to the buyers who are not afraid to do any work, you will be left with a much smaller pool of buyers. And the worst part is that these are the types of buyers who want a discount and will not pay you what your home is worth.
 
-Staging is the first shark for a few reasons:&nbsp;<br>1\. &nbsp;It is the most visible or first impression, they can see the interior pictures online and decide whether they want to see the home.
+Staging is the first shark for a few reasons:
+
+1\. It is the most visible or first impression, they can see the interior pictures online and decide whether they want to see the home.
 
 2\. You want to stand out from competition and sell before them.
 
@@ -35,6 +37,6 @@ You only need to do these small fix ups, and staging, if you want to open up you
 
 Clutter eats away at your equity. Do not show how you live, but show them how buyers can live in your home\!
 
-&nbsp;Staging allows you to make a great first impression. Buyers decide if they want to buy your home in the first 30 seconds.
+Staging allows you to make a great first impression. Buyers decide if they want to buy your home in the first 30 seconds.
 
 You can read all about my staging tips and about these home selling sharks in [my book.](https://www.amazon.com/How-Fight-Home-Selling-Sharks/dp/1795009357/ref=sr_1_8?keywords=home+selling+shark+book&amp;qid=1557778730&amp;s=gateway&amp;sr=8-8){: target="_blank"}
