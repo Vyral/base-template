@@ -4,7 +4,8 @@ title: Staging Puts $10k More In Your Pocket
 date: 2019-05-13 21:53:00
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  Are you wondering how to get more money out of your home sale? I've got just the info to share with you today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Diane+Cardano/2019/4.+Why+Stage+Your+Home.mov
 pullquote:
@@ -16,6 +17,7 @@ youtube_code: EUdP0QcLop8
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>Are you wondering how to get more money out of your home sale? I've got just the info to share with you today.</em></p>
 
 Sellers often ask whether staging their property before selling is worthwhile. They probably understand that it could help put their home in a better light, but may still feel uncertain about going through with the process. They wonder things like, “Why is staging important?” and “How much more money will I earn by staging?” 
 
