@@ -17,7 +17,7 @@ youtube_code: hQlIsiFY5-U
 
 {% include youtube.html %}
 
-Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.
+<center>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.</center>
 
 For my latest episode of “Everyday Encinitas,” I’m meeting with Talia Dahms from Dahms Acupuncture to chat about the wonders she’s working for those seeking treatment. Let’s go in and see what she has to say\!
 
