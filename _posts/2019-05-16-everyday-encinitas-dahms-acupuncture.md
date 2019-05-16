@@ -3,7 +3,9 @@ layout: post
 title: 'Everyday Encinitas: Dahms Acupuncture'
 date: 2019-05-16 17:53:00
 tags:
-excerpt: Who knew that acupuncture could be so fascinating?
+excerpt: >-
+  Who knew that acupuncture could be so fascinating? I learned all about it
+  today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.
 enclosure:
 pullquote: >-
   You strategically choose certain points along certain channels, and they all
