@@ -1,5 +1,5 @@
 audit_header: false
-title: Wes Peters Group Real Estate Video Blog
+title: Corner House Realty Real Estate Video Blog
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -9,7 +9,7 @@ custom_links:
 client:
   name: Wesley Peters
   license_number:
-  brand: Wes Peters Group
+  brand: Corner House Realty
   brokerage: Keller Williams
   about_markdown: |
     Real Estate expert in the Baltimore metro for almost a decade. Baltimore native, have worked and lived in all the areas I service. Majority of my business is from referrals and repeat clients, firm believer that a happy client is the best advertisement I can have.<br><br>
@@ -70,7 +70,7 @@ socials:
   podcast_url: https://itunes.apple.com/us/podcast/wes-peters-group-real-estate/id1197464233?mt=2
 
 podcast:
-  title: Wes Peters Group Real Estate Podcast
+  title: Corner House Realty Real Estate Podcast
   categories: News &amp; Politics
   image: /img/podcast.png
   subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
