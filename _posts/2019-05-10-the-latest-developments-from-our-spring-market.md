@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Spring spelled success not only for sellers, but also buyers in this year’s
   market. Here’s our mid-May update.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+The+Latest+Developments+From+Our+Spring+Market.mp4
 pullquote: >-
   Lower interest rates strengthen the economy and widen opportunities for buyers
   to make a purchase before rates begin trending upward again.
