@@ -5,12 +5,14 @@ date:
 tags:
 excerpt: Who knew that acupuncture could be so fascinating?
 enclosure:
-pullquote:
+pullquote: >-
+  You strategically choose certain points along certain channels, and they all
+  communicate with each other to balance each other out.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-16---travis-chatwin---yt.jpg
+youtube_code: hQlIsiFY5-U
 ---
 
 {% include youtube.html %}
@@ -38,3 +40,7 @@ For your convenience, I’ve provided timestamps of our conversation so you can 
 11:05 - How to get in contact with Talia
 
 {% include pullquote.html %}
+
+It was a pleasure to meet Talia Dahms and cast a spotlight on her business today. If you'd like to find out more, or take a look at their hours and FAQ, you can **[visit their website here](https://www.dahmsacupuncture.com/){: target="_blank"}**.
+
+If you know of or are part of a local business or organization that you’d like to have featured on a future episode of “Everyday Encinitas,” please let me know. You can call me directly at (619) 752-4663. We’ll see you in the next episode\!
