@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wpaEJuWshXM'
 
 {% include youtube.html %}
 
-Selling a home requires a bit of an investment before your profits are realized. Most come in the form of closing costs.
+<p style="text-align: center;"><em>Selling a home requires a bit of an investment before your profits are realized. Most come in the form of closing costs.</em></p>
 
 When you buy or sell a home, there are closing costs involved. I’m here today to talk a little bit more about them, specifically where home sellers are concerned.
 
