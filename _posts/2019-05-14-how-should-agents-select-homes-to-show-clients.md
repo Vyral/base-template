@@ -23,7 +23,7 @@ youtube_code: LOPQTnz6FAQ
 
 When you are working with a buyer, you should really only show them a maximum of eight to 10 homes. If you are providing services like a buyer consultation up front, you should not have to show them more properties than this. **Buyers these days are very busy, so it is important not to waste their time.**
 
-Personally, I like to streamline the process by having a conversation with my clients about what non-negotiable features their future home must have. It is essential that you find out what a client needs and wants in a home. Knowing what is important to them will guide you to selecting viable properties.&nbsp;
+Personally, I like to streamline the process by having a conversation with my clients about what non-negotiable features their future home must have. It is essential that you find out what a client needs and wants in a home. Knowing what is important to them will guide you in selecting viable properties.&nbsp;
 
 That said, it is also important to be honest with your clients. If their list of wants and needs isn’t feasible, you have to tell them that. Your buyers should have a realistic expectation of the kinds of homes that are available.&nbsp;
 
