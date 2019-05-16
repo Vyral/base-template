@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Everyday Encinitas: Dahms Acupuncture'
-date: 2019-05-16 17:53:49
+date: 2019-05-16 17:53:00
 tags:
 excerpt: Who knew that acupuncture could be so fascinating?
 enclosure:
@@ -43,6 +43,6 @@ For my latest episode of “Everyday Encinitas,” I’m meeting with Talia Dahm
 
 {% include pullquote.html %}
 
-It was a pleasure to meet Talia Dahms and cast a spotlight on her business today. If you'd like to find out more, or take a look at their hours and FAQ, you can **[visit their website here](https://www.dahmsacupuncture.com/){: target="_blank"}**.
+It was a pleasure to meet Talia Dahms and cast a spotlight on her business today. If you'd like to find out more, or schedule an appointment, you can **[visit their website here](https://www.dahmsacupuncture.com/){: target="_blank"}**.
 
 If you know of or are part of a local business or organization that you’d like to have featured on a future episode of “Everyday Encinitas,” please let me know. You can call me directly at (619) 752-4663. We’ll see you in the next episode\!
