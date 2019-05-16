@@ -48,6 +48,6 @@ For my latest episode of “Everyday Encinitas,” I’m sitting down with Kyle 
 
 {% include pullquote.html %}
 
-If you'd like to found out more about Besta-Wan Pizza, or take a look at their hours and menu, you can **[visit their website here](https://thebestawanpizza.com/){: target="_blank"}**.
+If you'd like to find out more about Besta-Wan Pizza, or take a look at their hours and menu, you can **[visit their website here](https://thebestawanpizza.com/){: target="_blank"}**.
 
 If you know of or are part of a local business or organization that you’d like to have featured on a future episode of “Everyday Encinitas,” don’t hesitate to let me know. You can call me directly at (619) 752-4663. We look forward to hearing from you\!
