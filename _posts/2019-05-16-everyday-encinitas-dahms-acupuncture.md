@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Everyday Encinitas: Dahms Acupuncture'
-date:
+date: 2019-05-16 17:53:49
 tags:
 excerpt: Who knew that acupuncture could be so fascinating?
 enclosure:
@@ -19,9 +19,11 @@ youtube_code: hQlIsiFY5-U
 
 <center>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.</center>
 
+&nbsp;
+
 For my latest episode of “Everyday Encinitas,” I’m meeting with Talia Dahms from Dahms Acupuncture to chat about the wonders she’s working for those seeking treatment. Let’s go in and see what she has to say\!
 
-For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the topic(s) you’re most interested in:
+**For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the topic(s) you’re most interested in:**
 
 0:55 - The basics of acupuncture, what Talia specializes in, and what a layperson might not know about acupuncture
 
