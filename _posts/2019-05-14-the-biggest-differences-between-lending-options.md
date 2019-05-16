@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Biggest Differences Between Lending Options
-date: 2019-05-14 20:46:09
+date: 2019-05-14 20:46:00
 tags:
   - Real Estate
 excerpt: >-
