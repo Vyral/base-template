@@ -20,7 +20,9 @@ youtube_code: 6BlaEUBiyJ0
 
 {% include youtube.html %}
 
-<center>Not all of the advice you hear about selling a home is accurate, which is why, today, we’re going to be debunking seven of the most common home pricing myths.</center>
+<center><em>Not all of the advice you hear about selling a home is accurate, which is why, today, we&rsquo;re going to be debunking seven of the most common home pricing myths.</em></center>
+
+&nbsp;
 
 When it comes to listing your home on the market, steer clear of these seven pricing myths:
 
