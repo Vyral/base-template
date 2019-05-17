@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How We Correct Overpricing Issues
-date: 2019-05-14 18:05:29
+title: It’s Never Too Soon To Get  Top Dollar!
+date: 2019-05-14 18:05:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   adjustments. Here’s a recent story about how we found success by doing just
   that.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/May/Cleveland+Park+Real+Estate-+How+We+Correct+Overpricing+Issues.mp4
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/May/Cleveland+Park+Real+Estate-+It%E2%80%99s+Never+Too+Soon+To+Get+Top+Dollar!.mp4
 pullquote: 'As soon as we reduced the price, the phone was ringing off the hook.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,9 +20,9 @@ youtube_code: AR5rFlBtyYM
 
 {% include youtube.html %}
 
-Recently, I told you about a seller who asked me, “Isn’t it too soon to change our price?” **Today I’m here to give you my answer, which is: It’s never too late to get top dollar.**
+Recently, I told you about a seller who asked me, “Isn’t it too soon to change our price?” Today I’m here to give you my answer, which is: **It’s never too soon to get top dollar\!**
 
-With this particular client, we met and realized the price they set was too high. We had to have a conversation about the benefits of reducing the price and why it was so important to the success of their home sale. **We eventually reduced the price by $100,000 and as soon as we did, the phone was ringing off the hook.**
+With this particular client, we met and realized the price needed to be adjusted. We had a conversation about the benefits of positioning the house in a new price range and why it was so important to the success of their home sale. **We reduced the price by $100,000 and as soon as we did, the phone was ringing off the hook.**
 
 {% include pullquote.html %}
 
