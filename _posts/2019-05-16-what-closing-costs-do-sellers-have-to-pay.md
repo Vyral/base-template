@@ -31,7 +31,7 @@ You’ll also be paying taxes on the deed to the great state of South Carolina. 
 
 {% include pullquote.html %}
 
-**Another item that’s often paid for by the seller is the CL100, or wood infestation report.** This is a specific inspection that will check the home for termites, high moisture levels, and other wood destroying organisms. This will set you back anywhere from $75 to $130.&nbsp;
+**Another item that’s often paid for by the seller is the CL100, or wood infestation report.** This is a specific inspection that will check the home for termites, high moisture levels, and other wood-destroying organisms. This will set you back anywhere from $75 to $130.&nbsp;
 
 Finally, you’ll have to pay for property taxes for the time you’ve owned the home.
 
