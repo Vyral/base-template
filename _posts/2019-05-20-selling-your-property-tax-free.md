@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling Your Property Tax-Free
-date: 2019-05-10 14:46:00
+date: 2019-05-20 09:00:00
 tags:
   - Real Estate
 excerpt: You can sell your property tax-free as long as you follow certain regulations.
