@@ -19,7 +19,7 @@ youtube_code: hQlIsiFY5-U
 
 {% include youtube.html %}
 
-<center>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.</center>
+<center><em>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.</em></center>
 
 &nbsp;
 
