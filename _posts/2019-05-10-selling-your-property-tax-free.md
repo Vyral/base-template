@@ -28,4 +28,4 @@ Whether it’s a primary residence or an investment property, there are ways you
 
 There are certain guidelines you need to follow when doing a 1031 exchange, so if you’d like to know more, just give me a call and I’d be happy to send you the necessary information.
 
-As always, if you have any other real estate questions for me, feel free to reach out to me as well. I look forward to hearing from you.
+As always, please be sure to check with your tax advisor to discuss the details of your sale and to discuss the tax ramifications
