@@ -21,7 +21,7 @@ youtube_code: vjQ1FdvooDw
 
 {% include youtube.html %}
 
-What were the final numbers from 2019’s first quarter and what do they mean for buyers and sellers now? Find out in today’s market update.
+<p style="text-align: center;"><em>What were the final numbers from 2019’s first quarter and what do they mean for buyers and sellers now? Find out in today’s market update.</em></p>
 
 Today we’ll take a quick look at our current market. In addition, I’ll include a link that more exhaustively covers the market stats I’ll be referring to.&nbsp;
 
