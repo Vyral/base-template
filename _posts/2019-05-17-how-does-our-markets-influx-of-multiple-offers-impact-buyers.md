@@ -23,7 +23,7 @@ youtube_code: l4AKgykuOfE
 
 <p style="text-align: center;"><em>As a buyer, what are some ways that you can incentivize the seller to take a closer look at your offer amid multiple offers? Find out in today’s video.</em></p>
 
-Last week, we talked about our current market’s multiple-offer environment through the lens of a seller. You can check that video out [here](https://stcloudre.com/how-does-our-markets-influx-of-multiple-offers-impact-sellers.html){: target="_blank"} if you missed it. Today’s topic is still centered around the frequent multiple-offer situations we’ve been seeing in our market, but this time we’ll shift our focus to the buyers’ side.
+Last week, we talked about our current market’s multiple-offer environment through the lens of a seller. You can check that video out <strong>[here](https://stcloudre.com/how-does-our-markets-influx-of-multiple-offers-impact-sellers.html){: target="_blank"}</strong> if you missed it. Today’s topic is still centered around the frequent multiple-offer situations we’ve been seeing in our market, but this time we’ll shift our focus to the buyers’ side.
 
 As a buyer, the price range you’re looking in will have a lot to do with the level of competition you face during your search.&nbsp;
 
