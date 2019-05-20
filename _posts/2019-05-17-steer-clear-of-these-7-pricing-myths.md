@@ -6,9 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  Not all of the advice you hear about selling a home is accurate, which is why,
-  today, we’re going to be debunking seven of the most common home pricing
-  myths.
+  Not all of the advice you hear about selling a home is accurate. Today we’re
+  going to be debunking seven of the most common home pricing myths.
 enclosure:
 pullquote: 'Ultimately, buyers are the ones who dictate what your home is worth.'
 enclosure_type: video/mp4
@@ -20,7 +19,7 @@ youtube_code: 6BlaEUBiyJ0
 
 {% include youtube.html %}
 
-<center><em>Not all of the advice you hear about selling a home is accurate, which is why, today, we&rsquo;re going to be debunking seven of the most common home pricing myths.</em></center>
+<center><em>Not all of the advice you hear about selling a home is accurate. Today we&rsquo;re going to be debunking seven of the most common home pricing myths.</em></center>
 
 &nbsp;
 
@@ -28,7 +27,7 @@ When it comes to listing your home on the market, steer clear of these seven pri
 
 **1\. You should price high so that you have room to negotiate down**. Some assume that the best way to secure top dollar is to overprice your property. The idea behind this is that even if buyers ask to pay less, you’ll still wind up earning fair market value. Unfortunately, overpriced homes actually tend to repel buyers. Following this strategy, you’ll likely either have to go through a series of price reductions or have to take your home off the market altogether.
 
-**2\. You might leave money on the table by pricing too close to market value**. Some sellers fear that putting their home on the market for a price that too closely resembles its true value, they might walk away with less money than its worth. In actuality, doing this can generate buyer interest and, potentially, help you to incite a bidding war.
+**2\. You might leave money on the table by pricing too close to market value**. Some sellers fear that putting their home on the market for a price that too closely resembles its true value might mean walking away with less money than it's worth. In actuality, doing this can generate buyer interest and, potentially, help you to incite a bidding war.
 
 **3\. If you aren't seeing the results, you can always relist later to earn a better deal**. This is true in some cases, but it’s important to realize that timing does matter. The market is changing all the time, and conditions may actually worsen (rather than improve) between now and the time you decide to relist.
 
