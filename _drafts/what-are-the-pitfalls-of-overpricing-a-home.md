@@ -19,7 +19,7 @@ youtube_code: dbeyPY9ofBc
 
 {% include youtube.html %}
 
-Overpricing your home will often lead to a failed sale. Here are three reasons why.
+<center>Overpricing your home will often lead to a failed sale. Here are three reasons why.</center>
 
 Today I’m here to clear up a common question that I’m asked. Here are the three main pitfalls that are caused by overpricing a home:
 
