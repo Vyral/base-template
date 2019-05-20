@@ -3,9 +3,10 @@ layout: post
 title: 'Everyday Encinitas: Dahms Acupuncture'
 date: 2019-05-16 17:53:00
 tags:
+  - Real Estate
 excerpt: >-
   Who knew that acupuncture could be so fascinating? I learned all about it
-  today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.
+  today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.
 enclosure:
 pullquote: >-
   You strategically choose certain points along certain channels, and they all
@@ -14,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-16---travis-chatwin---yt.jpg
-youtube_code: hQlIsiFY5-U
+youtube_code: tgX9Z-40-p4
 ---
 
 {% include youtube.html %}
 
-<center><em>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahm.</em></center>
+<center><em>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.</em></center>
 
 &nbsp;
 
