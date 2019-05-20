@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Should You Sell Your Home or Rent it Out?
-date: 2019-05-17 20:57:43
+title: Should You Sell Your Home or Rent It Out?
+date: 2019-05-17 20:57:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -27,7 +27,7 @@ The answer to this question will vary from person-to-person, and there a few thi
 
 First, you’ll need to consider how converting a home that was once your primary residence into a rental property will impact your taxes. **Single homeowners who have lived in the property as a &nbsp;primary residence for two of the last five years can sell the home for up to $250,000 tax-free**, and married homeowners who’ve lived in a property for that same length of time can sell tax-free for twice as much: up to $500,000.&nbsp;
 
-The next factor you’ll need to think about is whether you’re prepared to act as a landlord. The passive income you can earn from converting your home into a rental property is certainly attractive, but the job of a landlord isn’t without challenges. Thankfully, there are companies out there specifically designed to homeowners like you. If you want to rent out a property but aren’t thrilled about becoming a landlord, then hiring a property management company may be the perfect solution.
+The next factor you’ll need to think about is whether you’re prepared to act as a landlord. The passive income you can earn from converting your home into a rental property is certainly attractive, but the job of a landlord isn’t without challenges. Thankfully, there are companies out there specifically designed for homeowners like you. If you want to rent out a property but aren’t thrilled about becoming a landlord, then hiring a property management company may be the perfect solution.
 
 {% include pullquote.html %}
 
