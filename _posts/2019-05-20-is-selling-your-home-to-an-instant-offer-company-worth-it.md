@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Sellling Your Home to An Instant Offer Company Worth it?
+title: Is Selling Your Home to An Instant Offer Company Worth it?
 date: 2019-05-20 16:32:00
 tags:
 excerpt: >-
