@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Market Like for Buyers This Spring?
-date: 2019-05-16 19:43:51
+date: 2019-05-16 19:43:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/love-and-hate-about-spring-youtube.jpg
-youtube_code: 9mzLLKBdOm8
+youtube_code: bUTfaMIjEjI
 ---
 
 {% include youtube.html %}
