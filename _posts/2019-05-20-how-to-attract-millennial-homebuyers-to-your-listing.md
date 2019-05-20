@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Attract Millennial Homebuyers to Your Listing
-date: 2019-05-20 16:02:53
+date: 2019-05-20 16:02:00
 tags:
 excerpt: >-
   How can you attract millennial homebuyers when you decide to sell? Here are
