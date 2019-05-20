@@ -29,7 +29,7 @@ Right now, we have 456 pending sales, which puts us at an extremely high 42% pen
 
 Once summer hits, activity naturally slows, so jumping into this red-hot market while you still can is crucial.&nbsp;
 
-The average sales price for active listings and for sold properties is $443,000 and $360,000, respectively; the sales price for sold properties ranges from $359,000 to $379,000 on average. It’s not uncommon for our market to be a bit sluggish in the first quarter of the year, though, and we’re sure to see a correction sometime this quarter and into the next.&nbsp;
+The average sales price for active listings and for sold properties is $443,000 and $360,000, respectively; the sales price for sold properties ranges from $359,000 to $379,000 on average. <strong>It’s not uncommon for our market to be a bit sluggish in the first quarter of the year, though, and we’re sure to see a correction sometime this quarter and into the next.</strong>&nbsp;
 
 Over the last six months, about 1,028 homes have sold in our area; we commonly sell between 2,200 and 2,500 homes in Anchorage each year. On average, homes that are selling are closing at about 98.7% of their original list price.
 
