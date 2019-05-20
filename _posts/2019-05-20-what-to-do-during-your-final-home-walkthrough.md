@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-date: 2019-05-20 20:26:27
+title: What to Do During Your Final Home Walkthrough
+date: 2019-05-20 20:26:00
 tags:
   - Home Buyer Tips
 excerpt: The final walkthrough is very important for buyers to do. Here’s why.
