@@ -3,7 +3,11 @@ layout: post
 title: Why Matt Zielinksi Joined Corner House Realty
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Today we’re doing another agent spotlight, and this time I’m joined by Matt
+  Zielinski. Matt has been selling real estate in our area for about 15 years,
+  and he joined Corner House Realty about six months ago because he believed in
+  what we were doing.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Wes+Peters/Baltimore+Metro+Real+Estate-+Why+Matt+Zielinksi+Joined+Corner+House+Realty+(1).mp4
 pullquote:
