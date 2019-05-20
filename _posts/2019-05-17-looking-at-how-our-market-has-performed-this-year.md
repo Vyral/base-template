@@ -25,7 +25,7 @@ youtube_code: vjQ1FdvooDw
 
 Today we’ll take a quick look at our current market. In addition, I’ll include a link that more exhaustively covers the market stats I’ll be referring to.&nbsp;
 
-Right now, we have 456 pending sales, which puts us at an extremely high 42% pending ratio. Because this is the time of year where sellers stand the gain the most from their sale, I tell mine to get their home on the market now.&nbsp;
+Right now, we have 456 pending sales, which puts us at an extremely high 42% pending ratio. <strong>Because this is the time of year where sellers stand the gain the most from their sale, I tell mine to get their home on the market now.</strong>&nbsp;
 
 Once summer hits, activity naturally slows, so jumping into this red-hot market while you still can is crucial.&nbsp;
 
@@ -37,6 +37,6 @@ On the stat sheet I’m referring to, you’ll find specific data points based o
 
 {% include pullquote.html %}
 
-Knowing our supply of inventory is really important because it reveals the overall health of our market. A price point with five or six months of inventory will usually attract buyers who are well aware of their increased negotiating power. &nbsp;
+<strong>Knowing our supply of inventory is really important because it reveals the overall health of our market.</strong> A price point with five or six months of inventory will usually attract buyers who are well aware of their increased negotiating power. &nbsp;
 
 You can see our area’s market report in full detail here. And if you have any questions, please feel free to give me a call at 907-240-2804 or email me at Dar@DarWalden.com. I’m always happy to help\!&nbsp;
