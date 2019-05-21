@@ -17,7 +17,9 @@ youtube_code: GiSGqTALQZg
 
 {% include youtube.html %}
 
-<center>Be sure to avoid these three pitfalls created when you overprice your home.</center>
+<center><em>Be sure to avoid these three pitfalls created when you overprice your home.</em></center>
+
+&nbsp;
 
 Why is it a bad idea to overprice your home when you put it on the market?
 
