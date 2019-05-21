@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Selling Your Home to An Instant Offer Company Worth it?
+title: Is Selling Your Home to an Instant Offer Company Worth it?
 date: 2019-05-20 16:32:00
 tags:
 excerpt: >-
@@ -18,4 +18,4 @@ youtube_code: Rzaxi_Nnum4
 
 {% include youtube.html %}
 
-Lately, you’ve probably noticed a lot of advertisements from companies claiming to buy your home outright for cash. Some of these companies are local investors, others are investing firms, and others still are huge real estate companies like Opendoor and Zillow. The truth is that though they may offer cash, these companies tend to offer sellers prices that are far below market value. Instant offer companies do provide a convenient avenue for distressed sales, but they aren’t right for everyone.If you want to learn more or have any other questions about whether this kind of arrangement would benefit you, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+Lately, you’ve probably noticed a lot of advertisements from companies claiming to buy your home outright for cash. Some of these companies are local investors, others are investing firms, and others still are huge real estate companies like Opendoor and Zillow. The truth is that though they may offer cash, these companies tend to offer sellers prices that are far below market value. Instant offer companies do provide a convenient avenue for distressed sales, but they aren’t right for everyone. If you want to learn more or have any other questions about whether this kind of arrangement would benefit you, feel free to give us a call or send us an email. We look forward to hearing from you soon.
