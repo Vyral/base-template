@@ -25,7 +25,7 @@ No matter what, though, **make sure you have at least one final walkthrough.** I
 
 If you can help it, **try not to do a final walkthrough on the day of closing.** By doing it at least one day before, you won’t face any last-minute crises.&nbsp;
 
-**Look out for left-over belongings.** People sometimes leave things behind, usually unintentionally, and you may want to contact the agent so they can pick up these items.&nbsp;
+**Look out for leftover belongings.** People sometimes leave things behind, usually unintentionally, and you may want to contact the agent so they can pick up these items.&nbsp;
 
 **Also, prepare yourself emotionally.** If you last saw the home when it was fully furnished, it’ll look a lot different now when you see it empty. Don’t let this come as a shock to you.
 
