@@ -32,3 +32,7 @@ This was exactly what I had to do for one of my recent clients. They’d looked 
 The bottom line is to not get discouraged if you don’t find your perfect property on the MLS. There are plenty of hidden gems in our market, and I would love to help you find them.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
