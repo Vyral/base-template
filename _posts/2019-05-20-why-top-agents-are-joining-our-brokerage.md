@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Matt Zielinksi Joined Corner House Realty
+title: Why Top Agents Are Joining Our Brokerage
 tags:
   - Real Estate
 excerpt: >-
