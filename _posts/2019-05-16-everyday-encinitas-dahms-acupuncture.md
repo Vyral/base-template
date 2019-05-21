@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Who knew that acupuncture could be so fascinating? I learned all about it
   today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+7+_+Dahms+Acupuncture.mp4
 pullquote: >-
   You strategically choose certain points along certain channels, and they all
   communicate with each other to balance each other out.
