@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Not all of the advice you hear about selling a home is accurate. Today we’re
   going to be debunking seven of the most common home pricing myths.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Kellar/Videos/Carroll+County+Real+Estate+-+Steer+Clear+of+These+7+Pricing+Myths.mp4
 pullquote: 'Ultimately, buyers are the ones who dictate what your home is worth.'
 enclosure_type: video/mp4
 enclosure_time:
