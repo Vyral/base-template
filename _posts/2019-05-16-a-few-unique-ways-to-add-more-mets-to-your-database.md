@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are plenty of different ways that you can increase your mets and add
   them to your database. Here are three recommendations.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Tulsa+Real+Estate+Agent-+3+Ways+to+Increase+Your+Met+Database+(1).mp4
 pullquote: All you need to throw a housewarming party is an invite list.
 enclosure_type: video/mp4
 enclosure_time:
