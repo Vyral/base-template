@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Buyer Agency
-date: 2019-05-21 18:07:11
+date: 2019-05-21 18:07:00
 tags:
   - Home Buyer Tips
 excerpt: >-
