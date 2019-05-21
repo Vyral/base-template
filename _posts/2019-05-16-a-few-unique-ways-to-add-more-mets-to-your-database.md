@@ -22,7 +22,7 @@ I recently had a friend who reached out to me and said this: “I’m noticing a
 
 As we know, the more mets we have in our database, the more business we’re going to get. When we’re properly applying a 36-touch program, that should produce a 12:2 return on our database. **Here are the three things I told this friend to consider:**
 
-**1\. Housewarming parties.** Many other teams and businesses have implemented this in order to build their database with mets. Once you help a buyer find a home and once they’re all moved in, tell them you'd love to throw a housewarming party for them. All you need is their invite list: names, email addresses, and home addresses of all of them. You'll send invitations, reminders, and calls to all their friends at the party, and afterward, you have all their contact information. It’s an awesome way to build your database and have fun at the same time.
+**1\. Host Housewarming parties.** Many other teams and businesses have implemented this in order to build their database with mets. Once you help a buyer find a home and once they’re all moved in, tell them you'd love to throw a housewarming party for them. All you need is their invite list: names, email addresses, and home addresses of all of them. You'll send invitations, reminders, and calls to all their friends at the party, and afterward, you have all their contact information. It’s an awesome way to build your database and have fun at the same time.
 
 {% include pullquote.html %}
 
