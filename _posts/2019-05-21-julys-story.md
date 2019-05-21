@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July's Story
-date:
+date: 2019-05-21 18:48:23
 tags:
 excerpt: >-
   Hear the story of Joe and Sharon, who realized their home was just too big for
