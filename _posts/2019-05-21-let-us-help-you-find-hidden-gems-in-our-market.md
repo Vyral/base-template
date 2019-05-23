@@ -8,7 +8,7 @@ excerpt: >-
   If you think the only properties available to buy are those listed on the MLS,
   think again.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/May/Cleveland+Park+Real+Estate-+Let+Us+Help+You+Find+Hidden+Gems+on+Our+Market.mp4
+  https://s3.amazonaws.com/vyralmarketing/Marjorie+Dick+Stuart/2019/May/Cleveland+Park+Real+Estate-+Let+Us+Help+You+Find+Hidden+Gems+in+Our+Market.mp4
 pullquote: >-
   There are plenty of hidden gems in our market, and I would love to help you
   find them.
