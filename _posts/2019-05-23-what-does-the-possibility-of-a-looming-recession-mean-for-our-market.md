@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/A7q1XiP5QFk'
 
 {% include youtube.html %}
 
-Despite a potential recession on the horizon, homebuyers don’t seem to be dissuaded from entering our market.
+<p style="text-align: center;"><em>Despite a potential recession on the horizon, homebuyers don’t seem to be dissuaded from entering our market.</em></p>
 
 Today’s topic is one I’ve been talking about for over a year and a half, and it’s something that will start creating major headlines in the mainstream media: a possible recession on the horizon.
 
