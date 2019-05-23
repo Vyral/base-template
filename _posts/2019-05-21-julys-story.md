@@ -1,7 +1,7 @@
 ---
 layout: post
 title: July's Story
-date: 2019-05-21 18:48:23
+date: 2019-05-21 18:48:00
 tags:
 excerpt: >-
   Hear the story of Joe and Sharon, who realized their home was just too big for
@@ -38,7 +38,7 @@ After that, we spent an exciting two weeks studying the numbers and introducing 
 
 The decision was ultimately made to sell their big house in Germantown. We got a great appraisal and did a few minor repairs on top of some strategic staging. Not long after, we had the house under contract within five weeks. Sharon was already shopping for furniture for their beach house; she’d even visited the home a couple of times. She was less sure, however, about the smaller home here in Memphis.
 
-**Joe took us out to the fourteenth tee on the golf course, pointed to a garden home, and said, “Boy, this fits my game just fine.”** The house needed a little work, but it had a great price, and it really made the two-house plan work like magic.
+**Joe took us out to the 14th tee on the golf course, pointed to a garden home, and said, “Boy, this fits my game just fine.”** The house needed a little work, but it had a great price, and it really made the two-house plan work like magic.
 
 With all those pieces in place, we went ahead and closed on both new homes just 20 days from the close of the Germantown home. We were all a little surprised at how well it came together\! We believe that what you focus on will expand and make dreams come true.
 
