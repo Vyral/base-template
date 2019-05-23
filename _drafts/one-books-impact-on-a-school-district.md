@@ -21,7 +21,7 @@ youtube_code: rtQpTJqRcDE
 
 {% include youtube.html %}
 
-When the students of Hoboken Middle School read Trevor Noah’s “Born a Crime,” they were inspired to contact the author himself. Let’s see if we can make that happen.
+<center>When the students of Hoboken Middle School read Trevor Noah’s “Born a Crime,” they were inspired to contact the author himself. Let’s see if we can make that happen.<center>
 
 For the past 10 years, I've been lucky enough to call Hudson County my home. With all of the opportunities that have been given to me, I've been looking for ways to give back to the cities that have provided me with such amazing experiences.
 
