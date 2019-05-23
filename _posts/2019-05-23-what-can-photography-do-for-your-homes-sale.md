@@ -33,4 +33,4 @@ I’m a big believer in the 80/20 rule that says 80% of our results come from 20
 
 If you have any questions for Danny about how you can make your home’s photos sparkle, give him a call at (403) 470-4350 or send him an email to [d.boutet@visualmarketing.ca](mailto:d.boutet@visualmarketing.ca).
 
-If you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+Feel free to watch one of our previous videos on [prepping your home](https://calgaryvideoblog.com/how-to-focus-on-product-and-promotion-when-prepping-your-home.html){: target="_blank"}&nbsp;as well. If you have any other real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
