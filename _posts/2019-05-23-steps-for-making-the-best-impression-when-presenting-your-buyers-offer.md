@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/qMsObdlv8qg'
 
 {% include youtube.html %}
 
-When presenting your buyer’s offer on a home to the listing agent, sending it as a regular old email attachment isn’t going to cut it. Here’s what you should be doing.
+<p style="text-align: center;"><em>When presenting your buyer’s offer on a home to the listing agent, sending it as a regular old email attachment isn’t going to cut it. Here’s what you should be doing.</em></p>
 
 Today we’ll focus our attention on **the best way you, as a buyer’s agent, can present your offer to a listing agent.&nbsp;**
 
