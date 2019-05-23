@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: Let them add their own personality to the home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-14.jpg
 youtube_code: kgDmCHLFKVI
 ---
