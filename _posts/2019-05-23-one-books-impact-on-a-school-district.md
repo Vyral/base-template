@@ -22,11 +22,11 @@ youtube_code: rtQpTJqRcDE
 
 <center><em>When the students of Hoboken Middle School read Trevor Noah&rsquo;s &ldquo;Born a Crime,&rdquo; they were inspired to contact the author himself. Let&rsquo;s see if we can make that happen.</em></center>
 
-&nbsp;
-
 For the past 10 years, I've been lucky enough to call Hudson County my home. With all of the opportunities that have been given to me, I've been looking for ways to give back to the cities that have provided me with such amazing experiences.
 
 I recently received a call from the Hoboken Middle School principal Dr. Hal Abraham. This was especially exciting for me because he isn't just a client of mine, he's a role model. **Dr. Abraham is one of those people who are 100% committed to improving the lives of our youth**. His approach is one that gets the students excited about education.
+
+{% include pullquote.html %}
 
 This year, Dr. Abraham introduced something called the "Book Tasting." This consisted of offering the students a variety of books from different genres. They then briefly "tasted" (read) each book and the district voted on the book they wanted to read. **Ultimately, they chose the book "Born a Crime" by Trevor Noah**.
 
