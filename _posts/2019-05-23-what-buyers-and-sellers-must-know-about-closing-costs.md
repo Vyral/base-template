@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ulOoS-rEvtU'
 
 {% include youtube.html %}
 
-What are closing costs and what role do they play in the real estate process? I touched on all of this and more in my most recent interview.
+<p style="text-align: center;"><em>What are closing costs and what role do they play in the real estate process? I touched on all of this and more in my most recent interview.</em></p>
 
 I recently sat down for an interview with my friend Elizabeth, who wanted me to answer a few of her questions about a very important subject: closing costs. This is something I think many homebuyers are unclear on, so I’m excited to shed some light on the topic for all of you today.&nbsp;
 
