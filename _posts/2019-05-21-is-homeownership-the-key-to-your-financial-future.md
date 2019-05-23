@@ -8,7 +8,7 @@ excerpt: >-
   Is homeownership the best way to secure your financial future? Today I’ll
   discuss my thoughts on the topic.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Alex+Yu/Orange+County+Real+Estate-+Is+Homeownership+the+Key+to+Your+Financial+Future_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Alex+Yu/Orange+County+Real+Estate-+Is+Homeownership+the+Key+to+Your+Financial+Future_+(1).mp4
 pullquote: >-
   Homeownership has traditionally been one of the most stable opportunities to
   build wealth.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-21-financial-future-np.jpg
-youtube_code: jSLgZpLgShA
+youtube_code: 0gagZCy05nY
 ---
 
 {% include youtube.html %}
