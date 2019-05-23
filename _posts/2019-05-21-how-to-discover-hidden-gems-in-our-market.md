@@ -33,19 +33,7 @@ The bottom line is to not get discouraged if you can’t seem to find your perfe
 
 Together we can look “under the radar” and discover your “hidden” gem… *sound good?*
 
-*Great, go ahead…*
-
-*Shoot me an email… write to [Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)*
-
-*Can’t wait?*
-
-*Call my cell… [240\.731.8079](tel:240-731-8079){: target="_blank"}*
-
-*Cheers\!*
-
-*Marjorie*
-
-*P.S. Have a question… need a answer? Just ask… okay?*
+*Great, go ahead…**<br>Shoot me an email… write to [Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**<br><br>Can’t wait?**<br>Call my cell… [240\.731.8079](tel:240-731-8079){: target="_blank"}**<br><br>Cheers\!**<br>Marjorie**<br><br>P.S. Have a question… need a answer? Just ask… okay?*
 
 <div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
