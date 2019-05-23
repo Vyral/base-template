@@ -19,7 +19,9 @@ youtube_code: VGgYrv5m70o
 
 {% include youtube.html %}
 
-<center>Having great photos of your home is a great way to start the home sale process. Here’s why.</center>
+<center><em>Having great photos of your home is a great way to start the home sale process. Here&rsquo;s why.</em></center>
+
+&nbsp;
 
 In today’s competitive market, you need to do everything right in order to sell. One of those things is capturing the right photographs of your home. We look at bad real estate pictures every week, and that’s not where you want to be. We’re joined by a real estate photo expert today to answer some common questions about what he does.
 
