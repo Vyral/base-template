@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Understanding the Formula for Lead Conversion in a Shifting Market
+title: The Formula for Lead Conversion in a Shifting Market
 tags:
 excerpt: >-
   Shift or no shift, leads are priceless, so follow-up with them until they buy,
