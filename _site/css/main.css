@@ -2504,7 +2504,8 @@ table tr, table td {
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: block; }
+    display: -ms-inline-grid;
+    display: inline-grid; }
 
 .about-text {
   display: -webkit-box;
