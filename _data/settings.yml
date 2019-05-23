@@ -60,7 +60,8 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'https://kevin.btgarizona.com/search#?q_limit=36&q_prioritize=agents.0.id=kb039|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0'
+    CTA_url2: >-
+      https://kevin.btgarizona.com/search#?q_limit=36&q_prioritize=agents.0.id=kb039|office.id=kwevt01&mlsId=21&status=1|3&q_sort=createdAt-&q_offset=0
 lender:
   show_section: true
   header_text: Trusted Partner
@@ -72,7 +73,7 @@ lender:
   brand: Sr. Loan Officer
   phone: (480) 420-4911
   email: 'Kovarikteam@guildmortgage.net<br>2151 E Broadway Rd, 111, Tempe, AZ 85282'
-  url:
+  url: 'https://branches.guildmortgage.com/az/chandler/amber-kovarik-936-clak.html'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
