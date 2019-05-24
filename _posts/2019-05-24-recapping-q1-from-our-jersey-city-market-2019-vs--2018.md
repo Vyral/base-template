@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Recapping Q1 From Our Jersey City Market: 2019 vs. 2018'
-date: 2019-05-24 16:07:24
+date: 2019-05-24 16:07:00
 tags:
   - Market Update
   - Real Estate
