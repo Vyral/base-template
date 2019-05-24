@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consumer Credit Reports vs Mortgage Credit Reports
-date: 2019-05-24 15:50:38
+date: 2019-05-24 15:50:00
 tags:
   - Market Update
 excerpt: >-
