@@ -4,6 +4,7 @@ title: Verifying a Good Agent
 date: 2019-05-24 00:00:00
 tags:
   - Real Estate
+  - Miscellaneous
 excerpt: >-
   It’s always important to verify the quality of an agent before you work with
   them, and today we’d like to share a few ways you can do so.
@@ -20,7 +21,9 @@ youtube_code: 6ceGQxxErTk
 
 {% include youtube.html %}
 
-<center>It’s always important to verify the quality of an agent before you work with them, and today we’d like to share a few ways you can do so.</center>
+<center><em>It&rsquo;s always important to verify the quality of an agent before you work with them, and today we&rsquo;d like to share a few ways you can do so.</em></center>
+
+&nbsp;
 
 One of our clients recently asked us how they can verify that an agent they’re thinking of working with is as good as they claim. **Moving from one home to the next is a huge milestone, so it’s obvious that you want the best person or team for the job by your side**.
 
