@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   When the students of Hoboken Middle School read Trevor Noah’s “Born a Crime,”
   they were inspired to contact the author himself.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Steven+Rosado/Videos/Hoboken+Real+Estate+-+One+Books+Impact+on+a+School+District+_+%23TrevorEffect.mp4
 pullquote: >-
   Dr. Abraham introduced something called the "Book Tasting." This consisted of
   offering the students a variety of books from different genres.
