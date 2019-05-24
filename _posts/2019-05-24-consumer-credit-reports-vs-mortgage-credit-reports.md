@@ -22,7 +22,7 @@ youtube_code: mVwmtSpNFIk
 
 When I go to pull someone’s credit for a mortgage credit report, I find that their scores differ from what they were told by Credit Karma and similar consumer credit services, sometimes by up to 120 points. So what’s the difference between a consumer credit report and a mortgage credit report?The truth is that a consumer credit report doesn’t take into consideration everything that a mortgage credit report does.
 
-**A mortgage credit report weigh certain factors very differently from a consumer credit report, including:**
+**A mortgage credit report weighs certain factors very differently from a consumer credit report, including:**
 
 * Collections
 * Utilization of credit
