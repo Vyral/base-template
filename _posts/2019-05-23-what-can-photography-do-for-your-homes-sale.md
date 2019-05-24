@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Having great photos of your home is a great way to start the home sale
   process. Here’s why.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%26+Associates+-+What+Can+Photography+Do+for+Your+Homes+Sale_.mp4
 pullquote: 80% of our results come from 20% of our efforts.
 enclosure_type: video/mp4
 enclosure_time:
