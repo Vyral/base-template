@@ -4,10 +4,10 @@ title: How to Help Your Parents Downsize
 date: 2019-05-24 10:00:00
 tags:
   - Market Update
-excerpt:
-enclosure: >-
+excerpt: >-
   When working with clients who are downsizing, we usually focus on making small
   remodels to the home before listing it.
+enclosure:
 pullquote: >-
   It’s important that your loved ones don’t get taken advantage of in this
   situation.
