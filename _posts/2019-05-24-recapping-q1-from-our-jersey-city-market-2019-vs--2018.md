@@ -31,6 +31,6 @@ How does the first quarter of 2019’s Jersey City market compare with 2018? **H
 
 {% include pullquote.html %}
 
-Basically, since there’s more inventory, buyers have greater opportunity to find a home that fits their needs. Though there’s been greater stabilization in the market, conditions still favors sellers. As long as you price your home right and market it correctly, you’ll get the desired result from your sale.&nbsp;
+Basically, since there’s more inventory, buyers have a greater opportunity to find a home that fits their needs. Though there’s been more stabilization in the market, conditions still favors sellers. As long as you price your home right and market it correctly, you’ll get the desired result from your sale.&nbsp;
 
-If you’re curious what your home is worth or you have any other real estate questions, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;<br>&nbsp;
+If you’re curious what your home is worth or if you have any other real estate questions, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;<br>&nbsp;
