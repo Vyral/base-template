@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways Investors Make Money From Rental Properties
-date: 2019-05-24 13:18:10
+date: 2019-05-24 13:18:00
 tags:
   - Real Estate
 excerpt: There are three ways investors can make money from owning a rental property.
