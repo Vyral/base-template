@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-23---steven-rosado---yt.jpg
+youtube_alternate_image: /uploads/5-24---steven---yt.jpg
 youtube_code: dz32vlheQcI
 ---
 
