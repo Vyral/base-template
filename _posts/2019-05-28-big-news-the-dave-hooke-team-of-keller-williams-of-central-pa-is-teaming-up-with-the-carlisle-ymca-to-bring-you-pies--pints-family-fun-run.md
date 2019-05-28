@@ -17,10 +17,10 @@ youtube_code: https://youtu.be/N6kCYI2aG2A
 
 {% include youtube.html %}
 
-<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="800" width="900"></a>
+<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="800" width="800"></a>
 
-<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg" height="150" width="900"></a>
+<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg" height="150" width="800"></a>
 
-<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(2).jpg" height="1000" width="900"></a>
+<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(2).jpg" height="1000" width="900"></a>
 
-<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information">Register Today!</a>
+<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;">Register Today!</a>
