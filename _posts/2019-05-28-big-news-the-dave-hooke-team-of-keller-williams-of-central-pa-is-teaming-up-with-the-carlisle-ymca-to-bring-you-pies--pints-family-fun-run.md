@@ -17,4 +17,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="400" width="400">
+
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg" height="400" width="400">
+
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(2).jpg" hieght="400" width="400">
