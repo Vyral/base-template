@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Be Afraid of a Home Sale Contingency
-date: 2019-05-28 19:51:07
+date: 2019-05-28 19:51:00
 tags:
   - Home Seller Tips
 excerpt: >-
