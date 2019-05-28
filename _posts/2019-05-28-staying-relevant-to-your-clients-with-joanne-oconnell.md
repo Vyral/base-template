@@ -39,6 +39,6 @@ Having KW’s systems in place has given her more time to focus on this aspect o
 
 **Joanne has been with KW for 11 years now, and she joined because she knew they’d help her create and market *her* brand.**&nbsp;
 
-If you have any questions for Joanne, you can reach her by phone at (435) 640-5507 or visit her website at joanneoconnell.com.&nbsp;
+If you have any questions for Joanne, you can reach her by phone at [(435) 640-5507](tel:435-640-5507){: target="_blank"} or visit her website at [joanneoconnell.com](http://joanneoconnell.com){: target="_blank"}.&nbsp;
 
 As always, if there’s anything I can assist you with, don’t hesitate to call or email me anytime. I’d love to help you.
