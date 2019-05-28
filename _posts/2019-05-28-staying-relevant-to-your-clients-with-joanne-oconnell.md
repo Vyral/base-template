@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Staying Relevant to Your Clients With Joanne O’Connell
-date: 2019-05-28 18:36:32
+date: 2019-05-28 18:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -29,7 +29,7 @@ What does she do to stay in touch with her clients?
 
 “I think what’s so important to me is my clients, and becoming personal friends with them, taking care of them, always being there for them—even after the closing,” she says. “I think that’s why I get so many referrals.”
 
-In other words, she focuses on providing her clients information that will help them and keep Park City in the forefront of their minds, and her main tactic in doing so is offering them something of value (market knowledge, stats, etc.). That makes them want to receive emails from her.
+In other words, **she focuses on providing her clients information that will help them and keep Park City in the forefront of their minds,** and her main tactic in doing so is offering them something of value (market knowledge, stats, etc.). That makes them want to receive emails from her.
 
 {% include pullquote.html %}
 
@@ -37,7 +37,7 @@ Having KW’s systems in place has given her more time to focus on this aspect o
 
 “Somebody else who’s really good at creating marketing material can take my ideas and run with it, and I can be working with my clients one on one, and that way I feel like all my clients are getting some attention each month, but I don’t have to individually contact each one of them.”
 
-Joanne has been with KW for 11 years now, and she joined because she knew they’d help her create and market her brand.&nbsp;
+**Joanne has been with KW for 11 years now, and she joined because she knew they’d help her create and market *her* brand.**&nbsp;
 
 If you have any questions for Joanne, you can reach her by phone at (435) 640-5507 or visit her website at joanneoconnell.com.&nbsp;
 
