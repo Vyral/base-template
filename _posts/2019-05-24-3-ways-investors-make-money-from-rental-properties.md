@@ -21,7 +21,7 @@ youtube_code: 4-xNs68UMWc
 
 What are the three ways investors make money out of a rental property?
 
-**1\. The property appreciates in value.** If you buy a property right now for $250,000, for example, and the average appreciation rate for homes is 3%, in 15 years, it’ll be worth $390,000.&nbsp;
+**1\. The property appreciates in value.** If you buy a property right now for $250,000, for example, and the average appreciation rate for homes is 3%, it’ll be worth $390,000 in 15 years.
 
 **2\. Increasing the rent.** Rent is directly tied to inflation, so it’s almost always increasing. This means if you increase it at the same rate as appreciation increases—3%—and you start at $1,500 per month, in 15 years, you’ll be collecting $2,300 per month.&nbsp;
 
