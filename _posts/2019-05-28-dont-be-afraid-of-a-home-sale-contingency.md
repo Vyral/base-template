@@ -38,3 +38,7 @@ Sure enough, the property went under contract right away. It was actually a cond
 So, don’t be afraid of an offer with a home sale contingency. Everything is a risk in our business, and it just might be a risk worth taking in your situation.&nbsp;
 
 If your agent tells you anything different, call me and I’d be happy to represent you in your home sale. If you have any other questions about this or any other real estate topic, feel free to reach out to me as well. I’d love to speak with you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
