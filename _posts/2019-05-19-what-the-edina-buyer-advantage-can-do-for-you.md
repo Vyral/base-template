@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/SQBi6B1RbC0'
 
 {% include youtube.html %}
 
-Today I’m joined by Shane Hoffman of Edina Realty Mortgage to talk about a great new program they’re offering called the Edina Buyer Advantage
+Today I’m joined by Shane Hofmann of Edina Realty Mortgage to talk about a great new program they’re offering called the Edina Buyer Advantage
 
 How does it work? First, **it allows you to go through the underwriting process ahead of time—before you even have a property under contract.** You then come out of this process with a Buyer Advantage Certificate, which is basically a commitment letter verifying that you’re qualified to buy.
 
