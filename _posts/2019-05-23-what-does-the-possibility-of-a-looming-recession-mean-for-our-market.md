@@ -31,7 +31,7 @@ With that in mind, Realtor.com is quoted as saying, “Nearly 70 percent of home
 
 This reiterates a point I’ve been making all along: **A recession doesn’t automatically equate to a housing crisis, and people don’t seem to be putting off their home buying plans.** Also, more and more economists are starting to think that perhaps a recession isn’t right around the corner.&nbsp;
 
-To quote Lisa Shalett, chief investment officer of wealth management at Morgan Stanley, “I’m not convinced a recession is coming soon...I see an improving housing market (low rates help), a rebound in bank lending, a tight labor market, higher oil prices and well-behaved credit markets. All these point to a stable U.S. economic outlook.”
+To quote Lisa Shalett, chief investment officer of wealth management at Morgan Stanley, “I’m not convinced a recession is coming soon...I see an improving housing market (low rates help), a rebound in bank lending, a tight labor market, higher oil prices, and well-behaved credit markets. All these point to a stable U.S. economic outlook.”
 
 In other words, people are feeling pretty good about the economy. At 2:23 in the video above, you can see a chart from the 2018 NAR Aspiring Home Buyers Profile that shows that the percentage of non-owners who want to own a home in the future has gradually increased over the course of 2018.&nbsp;
 
@@ -43,6 +43,6 @@ What about sellers? As it turns out, the top reasons people decide to sell vary 
 
 That’s a wrap on my latest market update—if you have any more questions about our market, please don’t hesitate to give me a call or send me an email.&nbsp;
 
-If you plan on selling your home soon, you’re invited to attend my next Home Selling Sharks seminar on June 18. There, you’ll learn everything you need to know in order to sell quickly and for top dollar. To register and learn more, visit my website [www.homesharkseminar.com.&nbsp;](https://www.homesharkseminar.com){: target="_blank"}
+If you plan on selling your home soon, you’re invited to attend my next Home Selling Sharks seminar on June 18. There, you’ll learn everything you need to know in order to sell quickly and for top dollar. To register and learn more, visit my website [www.homesharkseminar.com.&nbsp;](http://www.homesharkseminar.com){: target="_blank"}
 
 I hope to hear from you soon\!
