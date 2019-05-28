@@ -17,8 +17,8 @@ youtube_code: https://youtu.be/N6kCYI2aG2A
 
 {% include youtube.html %}
 
-<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="400" width="400">
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="1250" width="800">
 
-<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg" height="400" width="400">
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg" height="200" width="800">
 
-<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(2).jpg" hieght="400" width="400">
+<img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(2).jpg" hieght="1250" width="800">
