@@ -17,7 +17,7 @@ youtube_code: https://youtu.be/N6kCYI2aG2A
 
 {% include youtube.html %}
 
-<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg"></a>
+<a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed.jpg" height="890" width="600"></a>
 
 <a href="https://www.raceentry.com/pies-and-pints-family-fun-run/race-information" style="text-align: center;"><img src="https://s3.amazonaws.com/vyralmarketing/Dave+Hooke/unnamed+(1).jpg"></a>
 
