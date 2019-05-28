@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Former KARE-TV Anchor Cory Hepola Is Adjusting to Radio
+title: 'Agent Spotlight: Cory Hepola'
 date:
 tags:
   - Real Estate
