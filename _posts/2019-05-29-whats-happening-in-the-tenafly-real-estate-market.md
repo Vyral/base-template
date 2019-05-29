@@ -32,7 +32,7 @@ Of course, market conditions also vary by price point, as illustrated by the lac
 
 **Why is now still a great time to sell?** Well, even with the decrease in home sales, there are still a lot of buyers ready to buy, especially in a great area like Tenafly\!
 
-A great rule of thumb is to always focus on your list price. You want to price our home at a price that is compelling for buyers to make a bid. It is also always important to make sure you make time to have a pre-inspection, to clean out your house really well, and get it staged to attract the most number of buyers as possible.
+A great rule of thumb is to always focus on your list price. You want to price your home at a price that is compelling for buyers to make a bid. It is also always important to make sure you make time to have a pre-inspection, to clean out your house really well, and get it staged to attract the most number of buyers as possible.
 
 **Ultimately, the best way to understand and navigate our market is to partner with an experienced local agent like myself.**
 
