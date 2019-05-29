@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Closer Look at Keelty Homes Latest
+title: A Closer Look at Keelty Homes' Latest
 tags:
   - Real Estate
 excerpt: >-
