@@ -1,6 +1,6 @@
 ---
 layout: post
-title: July's Story
+title: Summertime Story
 date: 2019-05-21 18:48:00
 tags:
 excerpt: >-
