@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Solar Panels a Wise Investment?
-date: 2019-05-28 16:41:32
+date: 2019-05-28 16:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 9pQPx_bxIJ4
 
 {% include youtube.html %}
 
-Solar panels have become a hot-button issue for homeowners in the real estate world. Are they a good investment? Will they add value to your home when the time comes to sell it? Today I’m joined by Matt Mieres of CMG Financial to answer these questions from a lender’s perspective. &nbsp;
+Solar panels have become a hot-button issue for homeowners in the real estate world. Are they a good investment? Will they add value to your home when the time comes to sell it? Today I’m joined by Matt Mieras of CMG Financial to answer these questions from a lender’s perspective. &nbsp;
 
 First, there are two main types of financing you see in our market: FHA financing and conventional financing. Additionally, there are two types of solar panel purchase agreements: You either buy them outright or lease them.&nbsp;
 
