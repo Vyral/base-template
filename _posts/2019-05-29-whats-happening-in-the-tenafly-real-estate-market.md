@@ -22,7 +22,7 @@ The last 12 months have been an interesting time for the Tenafly real estate mar
 
 **Tenafly has sold fewer homes in the last 12 months than in the previous 12 months.** To be exact, 198 homes were sold last year compared to 141 homes sold this year, a decrease of 28%. Fewer homes have gone under contract even though we have a higher supply of homes.
 
-Another major driving force behind our market is supply and demand. Particularly in Tenafly, we have seen a jump from 6.4 months of supply last year to 12.3 months of supply this year at the end of April. **This data shows us that we are moving into a buyer’s market\!**
+Another major driving force behind our market is supply and demand. Particularly in Tenafly, we have seen a jump from 6.4 months of supply last year to 12.3 months of supply this year, at the end of April. **This data shows us that we are moving into a buyer’s market\!**
 
 Sellers who are looking to sell quickly and earn top dollar will find the greatest success by pricing their listing ahead of the market, while buyers can enjoy high inventory along with dropping prices by planning a home search during the summer months.
 
