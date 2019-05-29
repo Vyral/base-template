@@ -20,7 +20,7 @@ youtube_code: SgegpOdvP2w
 
 Today marks the start of our “Builder Spotlight” series where we’re going to showcase some of the amazing new construction going on here in Howard County. **This time, I’m at the amazing new Keelty Homes community.**&nbsp;
 
-33 homes have either been built or will soon be built. The model we’re in now has about 1,600 square feet. on each level and about 4,500 square feet. total.
+33 homes have either been built or will soon be built. The model we’re in now has about 1,600 square feet on each level and about 4,500 square feet total.
 
 {% include pullquote.html %}
 
