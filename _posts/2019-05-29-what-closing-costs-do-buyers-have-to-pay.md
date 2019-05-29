@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/JIANmcIfx64'
 
 {% include youtube.html %}
 
-Buying a home is a complex process, so today we’ll be breaking down an important aspect of it: closing costs.
+<p style="text-align: center;"><em>Buying a home is a complex process, so today we’ll be breaking down an important aspect of it: closing costs.</em></p>
 
 As a continuation into our recent series of messages on closing costs, today we’ll discuss what closing costs buyers can expect to pay. In Charleston, a buyer’s closing costs will generally amount to between 2.5% and 3.5% of the total purchase price.
 
