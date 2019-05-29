@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If You’re Thinking of Making a Move, We Want to Help'
-date: 2019-05-29 15:32:57
+date: 2019-05-28 15:32:00
 tags:
   - Real Estate
   - Home Seller Tips
