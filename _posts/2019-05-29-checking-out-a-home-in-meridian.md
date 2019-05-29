@@ -18,4 +18,4 @@ youtube_code: cJhQzlTR9Pg
 
 {% include youtube.html %}
 
-I’m out here in the Meridian subdivision to preview a home with a buyer today. In this market, homes are selling so fast that we’ve got to get out here even if it’s raining. I’ve got someone from California who is coming out to take a look and she may even want to make an offer sight unseen. If you’re thinking about buying or selling a home in the near future, I can help you win in this hot market. To learn how, watch this short video.<br>&nbsp;
+I’m out here in the Meridian subdivision to preview a home with a buyer today. In this market, homes are selling so fast that we’ve got to get out here even if it’s raining. I’ve got someone from California who is coming out to take a look and she may even want to make an offer sight unseen. If you’re thinking about buying or selling a home in the near future, I can help you win in this hot market.
