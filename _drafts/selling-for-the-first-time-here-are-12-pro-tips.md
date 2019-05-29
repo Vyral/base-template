@@ -19,7 +19,7 @@ youtube_code: avRZwbBJweI
 
 {% include youtube.html %}
 
-Here are 12 tips that first-time home sellers should consider before undergoing the process.
+<center>Here are 12 tips that first-time home sellers should consider before undergoing the process.</center>
 
 No matter if you’re a first-time home seller or if you’re an aspiring home seller, here are 12 professional tips to keep in mind when diving into the home selling process:
 
