@@ -17,6 +17,6 @@ youtube_alternate_image: /uploads/5-29-escrow-yt.jpg
 youtube_code: S5ebGyvVpik
 ---
 
-{{ include youtube.html }}
+\{ include youtube.html \}
 
 Though attorneys play a role in the real estate process in many places throughout the country, this is not custom for us in Tucson. Though you may certainly hire an attorney to assist in your transaction if your circumstances call for it, this is not a requirement. Instead, escrow companies act as the neutral third party for typical real estate deals in our market. Also, unlike hiring an attorney, an escrow company will ensure that your deal is properly executed for no additional charge. If you have any other questions or would like more information, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
