@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Websites Are a Crucial Method of Lead Generation
+title: The Makings of a Great Real Estate Website
 tags:
   - Lead Generation
 excerpt: >-
