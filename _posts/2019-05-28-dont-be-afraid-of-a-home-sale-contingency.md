@@ -19,7 +19,7 @@ youtube_code: n558xYdx1aM
 
 {% include youtube.html %}
 
-Just the other day, I was hosting an open house for brand-new listing that generated a ton of activity. It was very exciting, and we managed to get an offer. This offer was from another agent, and it was way above asking price.&nbsp;
+Just the other day, I was hosting an open house for a brand-new listing that generated a ton of activity. It was very exciting, and we managed to get an offer. This offer was from another agent, and it was way above asking price.&nbsp;
 
 However, it also had a contingency based on the sale of another property.&nbsp;
 
@@ -31,7 +31,7 @@ In other words, we looked at the house that needed to sell and checked whether i
 
 I didn’t know the agent, but I also talked with them about how soon it would go on the market and how quickly it would sell. After all was said and done, I decided that it would likely sell within a week or two, so we accepted their offer and signed the purchase contract. We agreed on a deadline of 14 days for the other home to go under contract.&nbsp;
 
-Sure enough, the property went under contract right away. It was actually a condo, so there were no contingencies with its sale. After a couple days waiting for the condominium document review period to pass, my client and I were able to stick a big “Sold” sign in their front yard.&nbsp;
+Sure enough, the property went under contract right away. It was actually a condo, so there were no contingencies with its sale. After a couple of days waiting for the condominium document review period to pass, my client and I were able to stick a big “Sold” sign in their front yard.&nbsp;
 
 **We got more money than we could’ve gotten from a buyer who didn’t have a home sale contingency,** and we’re looking to finalize the purchase within the next few weeks.&nbsp;
 
