@@ -25,9 +25,9 @@ youtube_code: VqDhGg4aaMI
 
 You can’t expect to meet today’s challenges with yesterday’s tools and expect to be in business tomorrow. If your website isn’t consistently generating appointments with motivated buyers and sellers, then it isn’t earning its keep. **The only measure of an effective website is how many appointments it generates that give you business.** If you’re not thinking mobile, then you’re not ready for a shift.
 
-A good website will be content-rich and will focus on the shelf-life of its content, as well as delivering what its buyers and sellers want. You must meet and exceed their expectations or they’ll go elsewhere.
+A good website will be content-rich and will focus on the shelf life of its content, as well as delivering what its buyers and sellers want. You must meet and exceed their expectations or they’ll go elsewhere.
 
-**With buyers, give them access to all of the listings, as well as a system to provide notifications of new listings.** Additionally, give them information that they want about schools, neighborhoods, communities, and the ever-so-complicated homebuying process.
+**With buyers, give them access to all of the listings, as well as a system to provide notifications of new listings.** Additionally, give them information that they want about schools, neighborhoods, communities, and the ever-so-complicated home buying process.
 
 **With sellers, give them free home evaluations with better insight and data than Zillow.** Give them market statistics and information on the home selling process. Lead generate for traffic, because a great website—and I’ve seen a lot of incredible websites—without any visitors is completely useless. Offline and online marketing is used to drive traffic to the website.
 
