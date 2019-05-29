@@ -21,7 +21,7 @@ youtube_code: bayp45EK8HA
 
 {% include youtube.html %}
 
-Today I’m joined by Joanne O’Connell, one of our top associates, to talk about staying relevant to your clients&nbsp;
+Today I’m joined by Joanne O’Connell, one of our top associates, to talk about staying relevant to your clients.
 
 Joanne has lived in Park City for 20 years and has worked in the real estate business for the last 15. Prior to joining KW, she worked out of Glenwilde. Everyone wants to build a referral-based business, and 100% of Joanne’s business comes from repeat clients and referrals.&nbsp;
 
