@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/sddefault.jpg
+youtube_alternate_image: /uploads/jennie-wolek-earn-top-dollar-fast-by-working-with-us-youtube.jpg
 youtube_code: 'https://youtu.be/HJmE6HscarE'
 ---
 
