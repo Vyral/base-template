@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/chris-gorman-home-buying-costs-to-be-aware-of-email.jpg
+youtube_alternate_image: /uploads/new-chris-gorman-home-buying-costs-to-be-aware-of-youtube-new.jpg
 youtube_code: 'https://youtu.be/489BWiKhFdk'
 ---
 
