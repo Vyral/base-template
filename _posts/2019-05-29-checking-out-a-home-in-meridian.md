@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Checking Out a Home in Meridian
-date:
+date: 2019-05-29 18:38:26
 tags:
 excerpt: >-
   Things are moving fast in the Boise market right now. Here’s how I can help
