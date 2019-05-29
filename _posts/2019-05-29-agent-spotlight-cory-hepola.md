@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Spotlight: Cory Hepola'
-date: 2019-05-29 14:39:17
+date: 2019-05-29 02:39:00
 tags:
   - Real Estate
 excerpt: >-
