@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/headshot.png
+youtube_alternate_image: /uploads/justin-woodall-our-plan-for-your-home-buying-success-youtube.jpg
 youtube_code: 'https://youtu.be/iixdFf9iGmQ'
 ---
 
