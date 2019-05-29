@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Agent Spotlight: Cory Hepola'
+title: Welcome to WCCO Cory Hepola
 date: 2019-05-29 02:39:00
 tags:
   - Real Estate
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GboNDU7__k8
+youtube_code: MrFw-XKZA8Y
 ---
 
 {% include youtube.html %}
