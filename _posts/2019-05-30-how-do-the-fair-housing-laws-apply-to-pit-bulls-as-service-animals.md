@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do the Fair Housing Laws Apply to Pit Bulls as Service Animals?
-date:
+date: 2019-05-30 16:01:33
 tags:
 excerpt: >-
   What do you do when the tenant applicant’s service animal is a pit bull? Today
