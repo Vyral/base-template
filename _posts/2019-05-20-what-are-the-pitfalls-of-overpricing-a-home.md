@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Overpricing your home will often lead to a failed sale. Here are three reasons
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Phoenix+Real+Estate+Agent+-+What+Are+the+Pitfalls+of+Overpricing+a+Home_.mp4
 pullquote: 'The longer it sits, the less it will sell for.'
 enclosure_type: video/mp4
 enclosure_time:
