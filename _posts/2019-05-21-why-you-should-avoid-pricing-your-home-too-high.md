@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-20-pitfalls-np.jpg
-youtube_code: GiSGqTALQZg
+youtube_code: JA5PD3XpHGY
 ---
 
 {% include youtube.html %}
