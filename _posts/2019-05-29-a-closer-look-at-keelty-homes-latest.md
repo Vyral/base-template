@@ -24,7 +24,7 @@ Today marks the start of our “Builder Spotlight” series where we’re going 
 
 {% include pullquote.html %}
 
-**These homes start in the high $600,000 range up to the mid- $700,000 price point for some of the finishes that you see in the video above.**
+**These homes start in the high $600,000 range up to the mid-$700,000 price point for some of the finishes that you see in the video above.**
 
 There are two very impressive large bedrooms and no small rooms in the house. **Every square foot makes sense.** There is plenty of storage, plenty of room to move around, and the master bedroom suite and bathroom are incredibly impressive. There’s also the ability to make a fourth bedroom in the basement if that’s something you’re interested in.
 
