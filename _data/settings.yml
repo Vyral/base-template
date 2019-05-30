@@ -48,9 +48,9 @@ client:
   phone2_type:
   email: Shawn@jparfl.com
   url: 'https://shawnoneill.jparfl.com'
-  url_type: Buyers
+  url_type: Buyers & Sellers
   url2:
-  url2_type: Sellers
+  url2_type:
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809120';</script><script
