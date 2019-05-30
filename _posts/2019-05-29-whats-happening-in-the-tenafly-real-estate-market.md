@@ -32,13 +32,13 @@ Of course, market conditions also vary by price point, as illustrated by the lac
 
 **Fewer homes are selling** and there is more inventory on the market. **So why is now a good time to sell?**
 
-Even with the decrease in home sales, **interest rates have continued to come down** and there are many buyers ready, willing and able to buy. It is spring season and families want to get into the school system before September. Desirable towns, like Tenafly, with close proximity and transportation to the city, will always attract buyers.&nbsp;
+Even with the decrease in home sales, **interest rates have continued to come down** and there are many buyers ready, willing and able to buy. It is the spring season and families want to get into the school system before September. Desirable towns, like Tenafly, with close proximity and transportation to the city, will always attract buyers.&nbsp;
 
-How to win in a shifting market? Take all measures to ensure your home wins the beauty contest and the pricing contest. &nbsp; Position your home at a price that is compelling to attract all those buyers sitting on the fence. Price ahead of the market and leave less room for negotiation. You can’t negotiate a bid you don’t have.
+**How do you win in a shifting market?** Take all measures to ensure your home wins the beauty contest and the pricing contest. Position your home at a price that is compelling to attract buyers sitting on the fence. Price ahead of the market and leave less room for negotiation. You can’t negotiate a bid you don’t have.
 
-Do a pre-inspection. You want to be transparent with your buyers so that you are not negotiating the price of your home again during an inspection.&nbsp; Buyers will move away from your home if the condition is poor.&nbsp;
+**Get a pre-inspection.** You want to be transparent with your buyers so that you are not negotiating the price of your home again during an inspection. Buyers will move away from your home if the condition is poor.&nbsp;
 
-Stage your home to ensure an emotional connection is made between your home and the buyer.&nbsp;
+**Stage your home** to ensure an emotional connection is made between your home and the buyer.&nbsp;
 
 Ultimately, the best way to succeed in a shifting market is to hire **the right team** to represent you. &nbsp;
 
