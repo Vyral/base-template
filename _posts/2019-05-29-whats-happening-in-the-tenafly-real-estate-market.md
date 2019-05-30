@@ -30,10 +30,18 @@ Sellers who are looking to sell quickly and earn top dollar will find the greate
 
 Of course, market conditions also vary by price point, as illustrated by the lack of inventory of homes below the median price points.
 
-**Why is now still a great time to sell?** Well, even with the decrease in home sales, there are still a lot of buyers ready to buy, especially in a great area like Tenafly\!
+**Fewer homes are selling** and there is more inventory on the market. **So why is now a good time to sell?**
 
-A great rule of thumb is to always focus on your list price. You want to price your home at a price that is compelling for buyers to make a bid. It is also always important to make sure you make time to have a pre-inspection, to clean out your house really well, and get it staged to attract the most number of buyers as possible.
+Even with the decrease in home sales, **interest rates have continued to come down** and there are many buyers ready, willing and able to buy. It is spring season and families want to get into the school system before September. Desirable towns, like Tenafly, with close proximity and transportation to the city, will always attract buyers.&nbsp;
 
-**Ultimately, the best way to understand and navigate our market is to partner with an experienced local agent like myself.**
+How to win in a shifting market? Take all measures to ensure your home wins the beauty contest and the pricing contest. &nbsp; Position your home at a price that is compelling to attract all those buyers sitting on the fence. Price ahead of the market and leave less room for negotiation. You can’t negotiate a bid you don’t have.
 
-If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+Do a pre-inspection. You want to be transparent with your buyers so that you are not negotiating the price of your home again during an inspection.&nbsp; Buyers will move away from your home if the condition is poor.&nbsp;
+
+Stage your home to ensure an emotional connection is made between your home and the buyer.&nbsp;
+
+Ultimately, the best way to succeed in a shifting market is to hire **the right team** to represent you. &nbsp;
+
+For more tips and strategies on how to win in a shifting market as a buyer or seller, contact The Stacy Esser Group today. We offer complimentary home evaluations that go far beyond a standard pricing evaluation.
+
+We look forward to welcoming you into our family of successful buyers and sellers.
