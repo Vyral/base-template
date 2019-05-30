@@ -45,7 +45,7 @@ No matter if you’re a first-time home seller or if you’re an aspiring home s
 
 **9\. Greed often backfires**. Don’t get greedy; if you get an offer, take it seriously. Just because you’ve had a revolving door of buyers coming to view your home, it doesn’t mean that another offer is necessarily around the corner. Regard all valid offers you get on an individual basis.
 
-**10\. Work with the offers you get**. Anytime you get an offer, it behooves you to try to work with it, no matter how low. You can negotiate from there in different ways, but not if you turn it down outright. You don’t always know what the buyer’s intentions are or what number they’re willing to come up to. Don’t make assumptions.
+**10\. Work with the offers you get**. Any time you get an offer, it behooves you to try to work with it, no matter how low. You can negotiate from there in different ways, but not if you turn it down outright. You don’t always know what the buyer’s intentions are or what number they’re willing to come up to. Don’t make assumptions.
 
 **11\. Negotiate repairs**. The inspection process often brings a certain level of emotion into the transaction. The truth is that it’s an emotional time for the buyer, as well, and they want to feel like they’re in a property that’s safe and has good value. Put yourself into the buyer’s shoes, and try to negotiate those repair requests, if possible.
 
