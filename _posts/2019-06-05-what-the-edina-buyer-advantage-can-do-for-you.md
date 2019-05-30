@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Edina Buyer Advantage Can Do for You
-date: 2019-05-31 21:06:00
+date: 2019-06-05 21:06:00
 tags:
   - Real Estate
   - Home Buyer Tips
