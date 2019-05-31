@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Some Common Home Buying Questions
-date: 2019-05-31 16:45:09
+date: 2019-05-31 16:45:00
 tags:
   - Real Estate
   - Home Buyer Tips
