@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/investment-property-youtube.jpg
-youtube_code: 7OLQ_A25n00
+youtube_alternate_image: /uploads/investment-property-youtube-02.jpg
+youtube_code: 0OXZkvUu4vc
 ---
 
 {% include youtube.html %}
