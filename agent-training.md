@@ -37,7 +37,9 @@ If you find yourself working too many hours and getting burned out from work, yo
 
 **Checklists to a Professional Client Appointment , March 2019** — [Video](https://www.youtube.com/watch?v=pgvyFMZpQsw&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/b1egvbindirozzj/AACSL5w17QGwqA1bPpbqKyqCa?dl=0)
 
-**Leads for Agents: Who to Call and What to Say, February 2019** — [Video](https://www.youtube.com/watch?time_continue=1&amp;v=QBZ7PeCgrv8) — [Resources](https://www.dropbox.com/sh/mmka5evrmwyf5sn/AACOBxV5Yc_ELOtEVbPCPsTTa?dl=0) **Dominate the Market in 2019, January 2019** — [Video](https://www.youtube.com/watch?v=JxPAbptdG4U&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/rnwz9px7n6p8oqi/AACeLMBy638vD4u1GCmfoBDAa?dl=0)
+**Leads for Agents: Who to Call and What to Say, February 2019** — [Video](https://www.youtube.com/watch?time_continue=1&amp;v=QBZ7PeCgrv8) — [Resources](https://www.dropbox.com/sh/mmka5evrmwyf5sn/AACOBxV5Yc_ELOtEVbPCPsTTa?dl=0)
+
+**Dominate the Market in 2019, January 2019** — [Video](https://www.youtube.com/watch?v=JxPAbptdG4U&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/rnwz9px7n6p8oqi/AACeLMBy638vD4u1GCmfoBDAa?dl=0)
 
 #### 2018 CORE Webinars - [Click Here](/2018CoreTraining.html)
 
