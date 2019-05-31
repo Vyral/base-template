@@ -8,13 +8,13 @@ excerpt: >-
   What are closing costs and what role do they play in the real estate process?
   I touched on all of this and more in my most recent interview.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Kelly+Cook/2019/Kelly+Cook+Real+Estate+Group-+Closing+Costs.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kelly+Cook/2019/Kelly+Cook+Real+Estate+Group-+closing+costs.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/ulOoS-rEvtU'
+youtube_code: 'https://youtu.be/VPZJ2V83dwQ'
 ---
 
 {% include youtube.html %}
