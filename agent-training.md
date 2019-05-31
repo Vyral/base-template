@@ -24,9 +24,9 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Time Management: The Key to Working Less, August 2018** — [Video](https://www.youtube.com/watch?v=HdJQ1mRWHeg&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/i31bxi6ugd79dff/AAC2sgoKh_1CBH2hEzymH1PHa?dl=0&preview=Aug+18+-+Time+Management.ppt)
 
-We all know that time management is the key to delegating, working less, having more fun, and increasing profits. The question is, how do we achieve it? It may seem counterintuitive, but the first step in freeing up your time is by implementing structure. If you are looking for more insight on how to increase your productivity and manage your time, I encourage you to watch this 30-minute webinar covering what it takes to effectively manage your time. 
+If you find yourself working too many hours and getting burned out from work, you’re not alone. You probably already know that the next step is to build out a team. Obviously, this will allow you to create time for you to work in your unique ability, to cater to your clients, and to have a balanced life. If you’re struggling to build out your team, I encourage you to watch this 30-minute webinar discussing what takes to build a successful team, and how it will help you increase profits, give your clients better service, and ultimately, give you more free time.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HdJQ1mRWHeg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="1045" height="588" src="https://www.youtube.com/embed/cURa-Q2Isi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Previous Webinars:
 
