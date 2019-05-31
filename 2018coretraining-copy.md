@@ -9,16 +9,14 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 
 <br>If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again!
 
-<br>**Marketing Calendar, December 2016** — [Video](https://youtu.be/ZLJl7-GumKs) — [Resources](https://www.dropbox.com/sh/yulerjbjlipt5xv/AADrXMPPRrju_8A8z37bY0lTa?dl=0)
+**Profit and Loss- the Form You Will Learn to Love, July 2018** — [Video](https://www.youtube.com/watch?v=S2eBO6Obu1w&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/7puesyv4x62wr2c/AADFIISCJ6hO7m7Z0hxtD-JFa?dl=0&preview=July+18+-+The+P_L+PPT.ppt)
 
-**Business Planning, November 2016** — [Video](https://youtu.be/nkR9MWGCuWk) — [Resources](https://www.dropbox.com/sh/uqg0yscswoii7y1/AAAEzIikZ-X_mgp53w1Era0qa?dl=0)
+**Touch Points to Explode Your Referrals, June 2018** — [Video](https://www.youtube.com/watch?v=StHHN_OVfD0&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/oecpirfk4mrvgce/AAAd1mRidOJRfGtYTggb1a_Ka?dl=0&preview=June+18+-+Touchpoints+to+WOW+Your+Clients.pptx)
 
-**Steps to Financial Freedom, October 2016** — [Video](https://youtu.be/9IRxS_CMQmA) — [Resources](https://www.dropbox.com/sh/hvi8scv7sgw88mc/AAA39OTuDx55f0NsT9wrdAy2a?dl=0)
+**How to Access the Luxury Market, May 2018** — [Video](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0) — [Resources](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0)
 
-**Building a Team, September 2016** — [Video](https://youtu.be/nfyKrSjkL_g) — [Resources](https://www.dropbox.com/sh/6okexy1ap6ui8sm/AAD89t0zlTJ17rYpU1bApnOYa?dl=0)
+**Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money, March 2018** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
-**Farming, August 2016** — [Video](https://youtu.be/GmYEdF2dkIs) — [Resources](https://www.dropbox.com/sh/dprknea1v3pmrk1/AAANIwXRYhbgS-vPWhg2SSCja?dl=0)
+**Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
 
-**Listing Presentations, July 2016** — [Video](https://youtu.be/u7V8uG9psYo) — [Resources](https://www.dropbox.com/sh/k8sfkfrkkmn3xps/AACYamVr3MKkAHnqDUiTuxzYa?dl=0)
-
-**Summer Madness, June 2016** — [Video](https://youtu.be/Q5cgl3go-iI) — [Resources](https://www.dropbox.com/sh/7qj0fvwfjykipah/AACM5QpjYTxgPPuH4Ivju0Axa?dl=0)
+**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
