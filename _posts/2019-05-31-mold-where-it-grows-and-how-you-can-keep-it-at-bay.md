@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/xf-X4J3OA5I'
 
 {% include youtube.html %}
 
-Here are a few simple tips to prevent mold from growing inside your home.
+<p style="text-align: center;"><em>Here are a few simple tips to prevent mold from growing inside your home.</em></p>
 
 Mold—it’s become a word with such negative connotations that I believe the majority of home inspectors will start calling it “fungal growth.”
 
