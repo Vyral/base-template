@@ -23,7 +23,9 @@ youtube_code: vjQ1FdvooDw
 
 <p style="text-align: center;"><em>What were the final numbers from 2019’s first quarter and what do they mean for buyers and sellers now? Find out in today’s market update.</em></p>
 <p><em>*These most current numbers may differ from the video above*</em>&nbsp;
+
 <a href="https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2019/May+12%2C2019+-+Anchorage_Municipality.pdf" target="_blank">Anchorage</a>&nbsp;
+
 <a href="https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2019/May+19%2C2019+-+Matanuska_Susitna_Borough.pdf" tagrte="_blank">Matanuska Susitna Borough</a></p>
 
 Today we’ll take a quick look at our current market. In addition, I’ll include a link that more exhaustively covers the market stats I’ll be referring to.&nbsp;
