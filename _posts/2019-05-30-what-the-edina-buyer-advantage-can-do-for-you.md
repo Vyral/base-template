@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Edina Buyer Advantage Can Do for You
-date: 2019-06-05 21:06:00
+date: 2019-05-30 21:06:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -21,9 +21,9 @@ youtube_code: 'https://youtu.be/SQBi6B1RbC0'
 
 {% include youtube.html %}
 
-Today I’m joined by Shane Hofmann of Edina Realty Mortgage to talk about a great new program they’re offering called the Edina Buyer Advantage
+Today I’m joined by Shane Hofmann of Edina Realty Mortgage to talk about a great new program they’re offering called the Edina Buyer Advantage.
 
-How does it work? First, **it allows you to go through the underwriting process ahead of time—before you even have a property under contract.** You then come out of this process with a Buyer Advantage Certificate, which is basically a commitment letter verifying that you’re qualified to buy.
+How does it work? First, **it allows you to go through the underwriting process up front —before you even have a property under contract.** After completing this process, you’re equipped with a Buyer Advantage Certificate, which is basically a commitment letter verifying that you’re qualified to buy.
 
 {% include pullquote.html %}
 
@@ -31,6 +31,6 @@ With this program, you can also lock in your interest rate for 90 days and offer
 
 As a Realtor, I can tell you that **this program is a great way to write an offer.** If you’re a seller, you also can’t do much better than an offer backed by this program.&nbsp;
 
-If you have any more questions about this program, you can give Shane a call at (952) 484-2319.
+If you have any more questions about this program, you can give Shane Hofmann a call at (952) 484-2319.
 
 As always, if you have any other real estate questions for me, feel free to reach out to me. I’d be happy to help you.&nbsp;
