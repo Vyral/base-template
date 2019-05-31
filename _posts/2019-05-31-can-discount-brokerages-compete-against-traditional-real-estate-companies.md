@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/lkhrzOCJfQk'
 
 {% include youtube.html %}
 
-Are discount brokerages worth the few dollars they supposedly save you? We don’t think so, and today we’ll explain why.
+<p style="text-align: center;"><em>Are discount brokerages worth the few dollars they supposedly save you? We don’t think so, and today we’ll explain why.</em></p>
 
 Many people in our market are curious about whether working with a discount brokerage is a wise choice to make. After all, if you can meet their real estate goals at a discount, why wouldn’t you go for it?&nbsp;
 
