@@ -22,7 +22,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Time Management: The Key to Working Less, August 2018** — [Video](https://www.youtube.com/watch?v=HdJQ1mRWHeg&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/i31bxi6ugd79dff/AAC2sgoKh_1CBH2hEzymH1PHa?dl=0&preview=Aug+18+-+Time+Management.ppt)
+**How to Build a Profitable Team: Checklists to Successful Hiring** — [Video](https://www.youtube.com/watch?v=cURa-Q2Isi8&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/0l47k86hlh02ipl/AABQecYB8y7-s-QbtXKYArjRa?dl=0)
 
 If you find yourself working too many hours and getting burned out from work, you’re not alone. You probably already know that the next step is to build out a team. Obviously, this will allow you to create time for you to work in your unique ability, to cater to your clients, and to have a balanced life. If you’re struggling to build out your team, I encourage you to watch this 30-minute webinar discussing what takes to build a successful team, and how it will help you increase profits, give your clients better service, and ultimately, give you more free time.  
 
@@ -30,42 +30,14 @@ If you find yourself working too many hours and getting burned out from work, yo
 
 ### Previous Webinars:
 
-**Profit and Loss- the Form You Will Learn to Love, July 2018** — [Video](https://www.youtube.com/watch?v=S2eBO6Obu1w&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/7puesyv4x62wr2c/AADFIISCJ6hO7m7Z0hxtD-JFa?dl=0&preview=July+18+-+The+P_L+PPT.ppt)
+**How to Build a Profitable Team: Checklists to Successful Hiring, May 2019** — [Video](https://www.youtube.com/watch?v=cURa-Q2Isi8&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/0l47k86hlh02ipl/AABQecYB8y7-s-QbtXKYArjRa?dl=0)
+**Contract to Close: 10 Added Touches to Explode Your Referrals, April 2019** — [Video](https://www.youtube.com/watch?v=LkaAtOl2FhE&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/qgoqhqu1cdx1xkt/AABlLTW8yXimVOQ-x5zuKtMea?dl=0)
+**Checklists to a Professional Client Appointment , March 2019** — [Video](https://www.youtube.com/watch?v=pgvyFMZpQsw&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/b1egvbindirozzj/AACSL5w17QGwqA1bPpbqKyqCa?dl=0)
+**Leads for Agents: Who to Call and What to Say, February 2019** — [Video](https://www.youtube.com/watch?time_continue=1&v=QBZ7PeCgrv8) — [Resources](https://www.dropbox.com/sh/mmka5evrmwyf5sn/AACOBxV5Yc_ELOtEVbPCPsTTa?dl=0)
+**Dominate the Market in 2019, January 2019** — [Video](https://www.youtube.com/watch?v=JxPAbptdG4U&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/rnwz9px7n6p8oqi/AACeLMBy638vD4u1GCmfoBDAa?dl=0)
 
-**Touch Points to Explode Your Referrals, June 2018** — [Video](https://www.youtube.com/watch?v=StHHN_OVfD0&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/oecpirfk4mrvgce/AAAd1mRidOJRfGtYTggb1a_Ka?dl=0&preview=June+18+-+Touchpoints+to+WOW+Your+Clients.pptx)
-
-**How to Access the Luxury Market, May 2018** — [Video](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0) — [Resources](https://www.dropbox.com/sh/wku4zzaf8tavxqg/AAC6ZCZ9shdTClC4SsQzJamda?dl=0)
-
-**Hire Help Now - Increase Your Leads, Cut Your Hours and Net More Money, March 2018** — [Video](https://www.youtube.com/watch?v=3auqOiLwvUI&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
-
-**Rule the Market: Listing Your Way to More Leads & Profit, February 2018** — [Video](https://youtu.be/vZhWv3lzrkk) — [Resources](https://www.dropbox.com/sh/p7vqzrww1ynr3fu/AACMCTLA3ZIjFbnHyHILqamla?dl=0)
-
-**Prospecting to Profits: Warm & Cold Calls made Easy, January 2018**— [Video](http://prospectingtoprofits.pagedemo.co/) — [Resources](https://www.dropbox.com/sh/jawh3ts46yi9xbw/AAD27BTKHZjBIg5KjCN9xM2Na?dl=0)
-
-**Systems to Ensure a Strong First Quarter in 2018, December 2017** — [Video](https://www.youtube.com/watch?v=-5F4moNvyfk&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/owtbnkctwl6aw0m/AAARvirtZivCfmkTAekkOqLta?dl=0)
-
-**Set Your Business Goals NOW, November 2017** — [Video](https://www.youtube.com/watch?v=MapeGUtObsQ&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/bwy9jexgoh26sb4/AAAvpp1ScKo_kanVwwWTgu_6a?dl=0)
-
-**Maximize Client Referrals, October 2017** — [Video](https://www.youtube.com/watch?v=G_col4NAPnU) — [Resources](https://www.dropbox.com/sh/ek68llcq398u82a/AAAY5_K-0J7T2QiXo6cNNPvka?dl=0)
-
-**Amp Up Your Income with Luxury Farming, September 2017&nbsp;** — [Video](https://youtu.be/MZA73u5HNMk) — [Resources](https://www.dropbox.com/sh/j6oef2pu2zddu7k/AACir5wJnBxUzyZ03ypmF9Kia?dl=0)
-
-**Follow-Up Processes that Build Strong Relationships, August 2017**&nbsp; — [Video](https://youtu.be/4kiYFSwwmIs) — [Resources](https://www.dropbox.com/sh/dmf23jrnomet5oe/AAAvCAkb2BU_6vwou45r2OQ0a?dl=0)
-
-**Systems and Checklists, July 2017** — [Video](https://youtu.be/wwFRd_fNNrM) — [Resources](https://www.dropbox.com/sh/x9t8yut9bzc620z/AAAoHAjb2w0rSeradUv6tDfMa?dl=0)
-
-**Touchpoints Tactics to Profits, June 2017&nbsp;** — [Video](https://www.youtube.com/watch?v=g1aL9YzNUkw) — [Resources](https://www.dropbox.com/sh/8pvo5iev0u8by2u/AADQANxDrANluhMZlNL1rdR3a?dl=0)
-
-**I Thought I Just Had to Sell Houses, May 2017**&nbsp; — [Video](https://youtu.be/2gQXyB6kzWM) — [Resources](https://www.dropbox.com/sh/hi42o0ldkzutg4q/AACsBIoPRawEBNL43iG114rxa?dl=0)
-
-**Build Your Dream Business, April 2017** — [Video](https://www.youtube.com/watch?v=QIGLOMikHcE) — [Resources](https://www.dropbox.com/sh/w3nv6gz2x0hqsvf/AADl7Z__zvkbTCWTQqplsjJla?dl=0)
-
-**Technology Tactics to Profits, March 2017&nbsp;** — [Video](https://youtu.be/UGBGwlhGxmc) — [Resources](https://www.dropbox.com/sh/776o2oxgq1q6yhn/AAAH7OVUAZSD40la2Wu6ztpSa?dl=0)
-
-**Listing Madness, February 2017** — [Video](https://www.youtube.com/watch?v=rkgF5PIwq3s) — [Resources](https://www.dropbox.com/sh/p2xmpa1hj30s7ii/AADpSkpvgdiZxcdEu8m7JSsIa?dl=0)
-
-**Scripts to Blow Up Your Leads, January 2017&nbsp;** — [Video](https://youtu.be/WBHB9Ly8Ud4) — [Resources](https://www.dropbox.com/sh/7taegm8uucis4rw/AADsQDiYKg_KvKfmts4u6PYZa?dl=0)
-
+##### 2018 CORE Webinars - [Click Here](/2018CoreTraining.html)
+##### 2017 CORE Webinars - [Click Here](/2017CoreTraining.html)
 ##### 2016 CORE Webinars - [Click Here](/2016CoreTraining.html)
 
 
