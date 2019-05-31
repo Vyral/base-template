@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/priyanka-johri-open-door-youtube.jpg
-youtube_code: 7Fy9ZyWorm8
+youtube_code: 7NOgAhkdBOo
 ---
 
 {% include youtube.html %}
 
 Whether you want to sell your home to an instant offer company like Opendoor or list it the conventional way boils down to three factors: time, convenience, and money.
 
-**The question you have to ask yourself is, which of these factors do you value most? **
+\*\*The question you have to ask yourself is, which of these factors do you value most? \*\*
 
 You see, what companies like Opendoor do is the same thing investors have been doing for ages. The only difference is that they buy stressed and unstressed properties, whereas investors only buy stressed properties.
 
