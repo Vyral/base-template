@@ -31,6 +31,6 @@ Studies have shown that up to 50% of all homes have experienced some type of mol
 
 {% include pullquote.html %}
 
-Mold needs nutrients and moisture in order to survive, and it thrives in warm environments under a broad temperature range. In this case, “nutrients” can include carpet or drywall, so there’s not much you can do about removing that kind of thing. You can, however, control the moisture in your home, so make sure the crawl spaces and other areas in your basement are well ventilated.
+Mold needs nutrients and moisture in order to survive, and it thrives in warm environments under a broad temperature range. In this case, “nutrients” can include carpet or drywall, so there’s not much you can do about removing that kind of thing. You can, however, control the moisture in your home, so make sure the crawl spaces and other areas in your basement are well-ventilated.
 
 In short, good house-cleaning habits are all you need to keep mold at bay. If you have any questions about this topic or you have any other real estate needs, don’t hesitate to reach out to me. I’d be happy to help you.
