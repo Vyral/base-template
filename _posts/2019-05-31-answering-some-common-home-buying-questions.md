@@ -30,10 +30,10 @@ One of the most impactful things we like to do is reach out to listing agents to
 
 **What’s the difference between a pre-qualification and a pre-approval?**
 
-When you get pre-qualified with a lender, they’re going to pull your credit, look at your income, and get an idea of whether or not you can pre-qualify for a certain amount. A pre-approval, on the other hand, will involve the lender verifying your credit and income through taxa documents and sending that information to their underwriter to get you fully pre-approved for a loan. In a competitive seller’s market like we’re in now, a pre-approval letter goes a lot further in getting a seller to accept your offer.
+When you get pre-qualified with a lender, they’re going to pull your credit, look at your income, and get an idea of whether or not you can pre-qualify for a certain amount. A pre-approval, on the other hand, will involve the lender verifying your credit and income through tax documents and sending that information to their underwriter to get you fully pre-approved for a loan. In a competitive seller’s market like we’re in now, a pre-approval letter goes a lot further in getting a seller to accept your offer.
 
 **What kind of offer should I make in this market?**
 
-It’s important to have a good sense of the market stats and the comparable sales, but right now, properties in the month of April are selling at 98.2% of their list price. You’re going to have to put an offer together that’s pretty much at list price if not higher. You’ll also need to include as few concessions as possible and maybe shorten some timelines for a quicker sale. Putting a strong earnest money deposit down helps you stand out as well.&nbsp;
+It’s important to have a good sense of the market stats and the comparable sales, but properties in April sold at 98.2% of their list price.You’re going to have to put an offer together that’s pretty much at list price if not higher. You’ll also need to include as few contingencies as possible and maybe shorten some timelines for a quicker sale. Putting a strong earnest money deposit down helps you stand out as well.&nbsp;
 
 If you have any more questions about buying a home, selling a home, or anything else related to real estate, don’t hesitate to give me a call or send me an email today. I look forward to hearing from you soon.
