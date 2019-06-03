@@ -7,7 +7,8 @@ excerpt: >-
   You can’t succeed in this industry without a few failures, and today’s special
   guest on Agent Success Secrets is living proof that you can still thrive after
   facing hardship.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Agent+Success+Secrets-+Joe+Delia%2C+The+Delia+Group-+Keller+Williams+Realty-+Rochester%2C+MI.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
