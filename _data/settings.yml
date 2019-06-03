@@ -57,9 +57,9 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.experthomeadvisors.com/homevalue'
+  first_CTA_URL: 'https://jparfl.findbuyers.com/shawn@jparfl.com'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.experthomeadvisors.com/search'
+  second_CTA_URL: 'https://shawnoneill.jparfl.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
