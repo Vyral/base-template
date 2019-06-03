@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Buyers & Sellers Will Love the Latest Numbers From Our Charlotte Market
-date: 2019-06-03 19:06:26
+date: 2019-06-03 07:06:00
 tags:
   - Market Update
   - Real Estate
