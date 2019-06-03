@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Before-and-After Marketing
-date: 2019-05-23 09:22:00
+date: 2019-06-03 09:22:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2tYkVvFCNL4
+youtube_code: agTR7hMQyno
 ---
 
 {% include youtube.html %}
@@ -27,7 +27,7 @@ Sellers have two options when they go to market their home:
 
 **Option B is making their home more neutral so as to appeal to a larger pool of buyers.** Only 10% of buyers can visualize themselves living in the home by looking past its current decor. Unfortunately, 90% (including buyer’s agents) can only see the home the way that it’s presented online.&nbsp;
 
-Option B is why we stage our homes. Barb Schwartz, who many call the founder of staging, **defines the act of staging as arranging a home such that a buyer can visualize themselves living there**, so the process helps to fill the gaps in homebuyers’ imaginations.&nbsp;
+Option B is why we stage our homes. Barb Schwartz, who many call the founder of staging, **defines the act of staging as "arranging a home such that a buyer can visualize themselves living there**," so the process helps to fill the gaps in homebuyers’ imaginations.&nbsp;
 
 For agents with our certification, we’ve put together 17 books in two volumes on before-and-after marketing, which cover common situations that real estate agents may run into with taste-specific homeowners.&nbsp;
 
