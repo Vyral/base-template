@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/xO_lkDFOr_I'
 
 {% include youtube.html %}
 
-Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your mindset and, as a result, your happiness? Keep reading to find out what I mean.
+<p style="text-align: center;"><em>Did you know that the terms ‘scarcity’ and ‘abundance’ can relate to your mindset and, as a result, your happiness? Keep reading to find out what I mean.</em></p>
 
 In a meeting with dozens of clients recently, it struck me that some were miserable and some were in a state of total bliss. It got me thinking about what we as people want out of life. Sure, we have needs, but on an intrinsic level, we all just want to be happy. &nbsp;
 
