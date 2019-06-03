@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s always important to verify the quality of an agent before you work with
   them, and today we’d like to share a few ways you can do so.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+Verifying+a+Good+Agent.mp4
 pullquote: >-
   If an agent who has mostly positive reviews conducts themselves with grace
   when replying to negative feedback, this is a good sign.
