@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Are you familiar with the quote, “You can be anywhere you want to be in five
   years?” Too often, we overestimate...
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+Harnessing+the+Power+of+the+Five+Personal+Perspectives.mp4
 pullquote: >-
   When you’re able to define where you want to be and why you do what you do,
   you can achieve any and every goal you’ve set for yourself.
