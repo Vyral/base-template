@@ -22,7 +22,7 @@ youtube_code: vjQ1FdvooDw
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>What were the final numbers from 2019’s first quarter and what do they mean for buyers and sellers now? Find out in today’s market update.</em></p>
-<p><em>*These most current numbers may differ from the video above*</em>&nbsp;
+<p><em>*Current market numbers may differ from the video above*</em>&nbsp;
 
 <a href="https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2019/May+12%2C2019+-+Anchorage_Municipality.pdf" target="_blank">Anchorage</a>&nbsp;
 
