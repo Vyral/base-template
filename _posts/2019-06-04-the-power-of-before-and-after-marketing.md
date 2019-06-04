@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Before-and-After Marketing
-date: 2019-06-03 09:22:00
+date: 2019-06-04 09:22:00
 tags:
   - Real Estate Business Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: agTR7hMQyno
+youtube_code: apyXQ1qqoRM
 ---
 
 {% include youtube.html %}
@@ -35,8 +35,4 @@ For agents with our certification, we’ve put together 17 books in two volumes 
 
 Are you familiar with Rayna James or her hit show “Nashville”? The home featured was built in 1999 and was decorated according to her tastes. We did some digital renovations on it to help it show in a more neutral light. We also worked on a French Country home, a very ornate property with a lot of Italian Murano glass. We did a number of small renovations to make it appeal to a larger pool of buyers.
 
-There are four primary price points in every market: the entry-level price point, the average price point, high-end homes (which are defined as two times your average sales price), and then luxury homes. **If you’re looking to work smarter instead of harder, to increase your average sales price, and to add more high-end luxury homes to your sold portfolio, you should consider our luxury listing special certification.**
-
-If you have any questions about becoming certified to sell luxury homes, please reach out to me. I’d be glad to help you.<br>&nbsp;
-
-&nbsp;
+There are four primary price points in every market: entry-level priced homes, average priced homes, high-end homes (which are defined as 2x the average sales price for that market), and then luxury homes(which are defined as 3x the average sales price for that market).&nbsp;**If you’re looking to work smarter instead of harder, to increase your average sales price, and to add more high-end luxury homes to your sold portfolio, you should consider our 'Luxury Listing Special Certification' (LUXE),&nbsp; To find out more information on LUXE visit&nbsp;[www.LuxuryListingSpecialist.com.](http://www.luxurylistingspecialist.com/){: target="_blank"}**<br><br>If you have any questions about becoming certified to sell luxury homes, please reach out to me. I’d be glad to help you.
