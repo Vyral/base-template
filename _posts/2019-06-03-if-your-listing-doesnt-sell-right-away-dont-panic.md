@@ -33,7 +33,7 @@ How does your house actually look? Have you staged it? Does the property smell? 
 
 Talk to your agent about what adjustments you should make to garner more attention for your listing. **Typically, if your price, condition, and marketing are all properly aligned to the market, your house should sell.** But if it doesn’t, remember not to panic.
 
-If you need an advisor to help you boost the appeal of your listing to that buyers will come flocking in, feel free to give me a call or send me an email. I’d love to help you succeed.
+If you need an advisor to help you boost the appeal of your listing so that buyers will come flocking in, feel free to give me a call or send me an email. I’d love to help you succeed.
 
 <div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
 
