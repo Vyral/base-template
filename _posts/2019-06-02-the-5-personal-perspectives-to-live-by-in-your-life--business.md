@@ -14,8 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: >-
-  /uploads/jennie-wolek-harnessing-the-power-of-the-six-personal-perspectives.jpg
+youtube_alternate_image: /uploads/new-jennie-wolek-emergency-infant-services-youtube-new.jpg
 youtube_code: 'https://youtu.be/xdLW0oPH6rc'
 ---
 
