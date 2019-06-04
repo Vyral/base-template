@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are 12 tips that first-time home sellers should consider before
   undergoing the process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Carroll+County+Real+Estate+-+Selling+for+the+First+Time_+Here+are+12+Pro+Tips.mp4
 pullquote: Try to rely on objectivity and make decisions with a clear head.
 enclosure_type: video/mp4
 enclosure_time:
