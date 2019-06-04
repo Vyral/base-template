@@ -10,7 +10,7 @@ pullquote: It’s good to start the conversation about solar power early.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/tim-whats-the-process-of-getting-solar-panels-youtube.jpg
+youtube_alternate_image: /uploads/tim-whats-the-process-of-getting-solar-panels-youtube-1.jpg
 youtube_code:
 ---
 
