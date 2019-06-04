@@ -1,12 +1,6 @@
 ---
 layout: post
-title: >-
-  Welcome to the fourth episode of our series on the science of success and the
-  six paths to mastery. Today’s path is about being learning-based and
-  action-oriented. A learning-based individual is someone who uses effective
-  learning as the foundation of their action plan. Knowing for knowing’s sake
-  leads to nothing. To find out what knowing for doing’s sake means, watch this
-  short video.
+title: Using Effective Learning as the Foundation for Your Action Plan
 tags:
   - Transaction Management
 excerpt: >-
