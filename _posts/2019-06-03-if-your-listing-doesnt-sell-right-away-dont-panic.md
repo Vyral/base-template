@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If Your Listing Doesn’t Sell Right Away, Don’t Panic'
-date: 2019-06-03 18:42:32
+date: 2019-06-03 18:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -29,7 +29,7 @@ So, in the case of my client whose home had been on the market for just three da
 
 {% include pullquote.html %}
 
-How does your house actually look? Have you staged? Does the property smell? Is it accessible? Is it overpriced? How are you advertising it? What else has come onto the market since you first listed your home?&nbsp;
+How does your house actually look? Have you staged it? Does the property smell? Is it accessible? Is it overpriced? How are you advertising it? What else has come onto the market since you first listed your home?&nbsp;
 
 Talk to your agent about what adjustments you should make to garner more attention for your listing. **Typically, if your price, condition, and marketing are all properly aligned to the market, your house should sell.** But if it doesn’t, remember not to panic.
 
