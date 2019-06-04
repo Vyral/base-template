@@ -8,7 +8,7 @@ excerpt: >-
   All successful investors have five key habits in common, and we’ll share each
   of these habits with you today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+5+Habits+All+Successful+Investors+Should+Utilize.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jessica+Sanders+1000CallsADay/1000+Calls+A+Day-+5+Habits+All+Successful+Investors+Should+Utilize+(1).mp4
 pullquote: >-
   When you market yourself effectively, you’ll be the first person that sellers
   in your area call when they’re ready to make a deal.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/5-30-habits-np.jpg
-youtube_code: LVfhICnnaQU
+youtube_code: UR3EUhZ1qyg
 ---
 
 {% include youtube.html %}
