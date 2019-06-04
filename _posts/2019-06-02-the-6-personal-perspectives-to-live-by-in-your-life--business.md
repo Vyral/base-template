@@ -31,11 +31,12 @@ Since then, we’ve been able to help so many more. Last year, for example, we h
 
 **The secret to success is implementing the six personal perspectives into your life and business.** I did this very thing and, over the course of five years, I’ve been able to double my production. These are the six personal perspectives:&nbsp;
 
-* Removing your limiting beliefs&nbsp;
 * Being learning-based&nbsp;
 * Working daily on self-mastery&nbsp;
 * Focusing on what matters most, or following the 80/20 principle
-* Being accountable to achieving your goals by a coach&nbsp;
+* Move from "E" to "P"
+* Being learning-based
+* Removing your limiting beliefs
 
 The coalescence of these six points allowed me to go from E to P—entrepreneurial to purposeful. As you think about and reflect on your own life, dedicate some thought to your future. When you’re able to define where you want to be and why you do what you do, you can achieve any and every goal you’ve set for yourself.
 
