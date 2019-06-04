@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 6 Personal Perspectives to Live By in Your Life & Business
+title: The Six Personal Perspectives to Live By in Your Life & Business
 date: 2019-06-02 00:00:00
 tags:
 excerpt: >-
