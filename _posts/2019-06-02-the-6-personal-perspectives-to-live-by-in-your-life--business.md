@@ -29,7 +29,7 @@ Since then, we’ve been able to help so many more. Last year, for example, we h
 
 {% include pullquote.html %}
 
-**The secret to success is implementing the six personal perspectives into your life and business.** I did this very thing and, over the course of five years, I’ve been able to double my production. These are the six personal perspectives:&nbsp;
+**The secret to success is implementing the Six Personal Perspectives into your life and business.** I did this very thing and, over the course of five years, I’ve been able to double my production. These are the Six Personal Perspectives:&nbsp;
 
 * Working daily on self-mastery&nbsp;
 * Focusing on what matters most, or following the 80/20 principle
@@ -40,4 +40,4 @@ Since then, we’ve been able to help so many more. Last year, for example, we h
 
 The coalescence of these six points allowed me to go from E to P—entrepreneurial to purposeful. As you think about and reflect on your own life, dedicate some thought to your future. When you’re able to define where you want to be and why you do what you do, you can achieve any and every goal you’ve set for yourself.
 
-If you have any questions or thoughts about the six personal perspectives, feel free to let me know. They’ve changed my life and I know they’ll change yours as well. If you have any other questions related to real estate, you can reach out to me as well. I’d love to hear from you\!
+If you have any questions or thoughts about the Six Personal Perspectives, feel free to let me know. They’ve changed my life and I know they’ll change yours as well. If you have any other questions related to real estate, you can reach out to me as well. I’d love to hear from you\!
