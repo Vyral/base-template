@@ -4,7 +4,7 @@ title: Knowing the Right Time to Put Your Home on the Market
 tags:
   - Real Estate
   - Home Seller Tips
-date: 2019-06-04 20:13:10
+date: 2019-06-03 20:13:00
 excerpt: >-
   When is the best time to list your home? Many people assume the answer is
   spring, but that might not be the case for you.
