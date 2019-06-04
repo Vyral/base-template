@@ -32,7 +32,7 @@ Those with an abundance mindset aren’t afraid to fail when taking risks, and t
 
 {% include pullquote.html %}
 
-If you’re in the former, **figure out how you can move to the latter and live the life you so deserve.** It’s all about casting aside your reservations and doubts and not running away from risk.&nbsp;
+If you’re in the former category, **figure out how you can move to the latter and live the life you so deserve.** It’s all about casting aside your reservations and doubts and not running away from risk.&nbsp;
 
 Also, I can’t stress enough how important it is to **think about what makes you happy and to go for it.** For me, it’s about aiding my clients and my team in reaching their goals. Ultimately, try shifting your mindset toward abundance.
 
