@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/RrSFKXopDkU'
 
 {% include youtube.html %}
 
-If you’re thinking of selling your home on your own, there are several steps you need to take to make it a successful sale.
+<p style="text-align: center;"><em>If you’re thinking of selling your home on your own, there are several steps you need to take to make it a successful sale.</em></p>
 
 If you’re thinking of selling your home on your own, the first thing you need to do is think about some of the agent services you’re giving up, including:
 
