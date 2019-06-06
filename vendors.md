@@ -11,4 +11,9 @@ permalink: /vendors/
 ### ![](/uploads/unnamed-2-1.jpg){: width="450" height="450"}
 
 **Thomas Pattison**<br>Pattison Land Survey Inc & Aerial Surveying Inc<br>808-327-9439- mobile<br>tgpattison@yahoo.com<br>https://www.pattisonlandsurveying.com/
-<hr /><h3>
+
+---
+
+![](/uploads/unnamed-3-1.jpg){: width="2048" height="1536"}
+
+**Mike Killilea**<br>PODS Hawaii (Moving and Storage)<br>978-833-0750- mobile<br>mjkillilea@gmail.com<br>www.podshawaii.com
