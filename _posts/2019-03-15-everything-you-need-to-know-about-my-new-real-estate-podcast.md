@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re looking to learn more about local real estate, we’ve got great news:
   We’re starting a podcast.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Central+Iowa+Real+Estate+February+Podcast.mp4
 pullquote: We’ll cover breaking real estate news and more in this great new podcast.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: rsfBNmU9VvM
 
 {% include youtube.html %}
 
-I’ve got exciting news to share: I have partnered with WHO Radio hosts Van Harden and Bonnie Lucas to create a new real estate podcast!
+I’ve got exciting news to share: I have partnered with WHO Radio hosts Van Harden and Bonnie Lucas to create a new real estate podcast\!
 
 There aren’t many people out there who know more about what’s on the mind of Central Iowans than these two, so I am so excited to have the chance to cover our local market conditions with their help.
 
