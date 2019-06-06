@@ -10,4 +10,4 @@ permalink: /vendors/
 
 ### ![](/uploads/unnamed-2-1.jpg){: width="450" height="450"}
 
-**Thomas Pattison**<br>Pattison Land Survey Inc & Aerial Surveying Inc<br>808-327-9439- mobile<br>tgpattison@yahoo.com<br>https://www.pattisonlandsurveying.com/
+**Thomas Pattison**<br>Pattison Land Survey Inc & Aerial Surveying Inc<br>808-327-9439- mobile<br>tgpattison@yahoo.com<br>https://www.pattisonlandsurveying.com/<hr /><h3>
