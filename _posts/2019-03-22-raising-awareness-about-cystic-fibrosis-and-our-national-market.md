@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Raising Awareness About Cystic Fibrosis and Our National Market
-date: 2019-03-22 21:06:56
+date: 2019-03-22 21:06:00
 tags:
   - Real Estate
   - Market Update
@@ -9,7 +9,8 @@ excerpt: >-
   Today I’m thrilled to share information about two important subjects: the
   recent Cystic Fibrosis Charity Fundraiser I attended and our national real
   estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate-+A+Look+at+Our+Recent+Partnership+With+the+WHAS+Crusade+for+Children.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
