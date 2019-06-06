@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Does the iBuyer Model Work in Real Estate
-date: 2019-06-04 16:46:52
+title: How Does the iBuyer Model Work in Real Estate?
+date: 2019-06-04 16:46:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: 6iPBDnN5cnI
 
 {% include youtube.html %}
 
-An iBuyer is a company that will agree to purchase your property, sight-unseen, and close the transaction quickly. &nbsp;Here’s how it works:
+An iBuyer is a company that will agree to purchase your property, sight unseen, and close the transaction quickly. &nbsp;Here’s how it works:
 
 1. You fill out a form that includes all the information you know about your house.
 2. You upload photos of your property.
@@ -32,7 +32,7 @@ An iBuyer is a company that will agree to purchase your property, sight-unseen, 
 
 Under the typical real estate sales model, you’ll pay 5% to 6% on real estate commission. With iBuyers, you’ll still pay them that average commission, as well as providing them a discount on your home for the convenience of their service. **That could be anywhere between 10% and 20%,** and that goes toward covering their resale costs. All in all, there’s not a large margin of error for these companies.
 
-They’ll also send an inspector in to physically inspect the property, so remember that there is still an inspection timeframe when you work with iBuyers. **If the inspector finds something wrong with it, then they’ll negotiate the price down even further.**
+They’ll also send an inspector in to physically inspect the property, so remember that there is still an inspection time frame when you work with iBuyers. **If the inspector finds something wrong with it, then they’ll negotiate the price down even further.**
 
 {% include pullquote.html %}
 
