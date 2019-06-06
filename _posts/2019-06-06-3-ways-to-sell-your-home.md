@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Sell Your Home
-date: 2019-06-06 00:00:00
+date: 2019-06-06 12:00:00
 tags:
 excerpt:
 enclosure: 'https://youtu.be/NE5NMVvQSe8'
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 'https://youtu.be/NE5NMVvQSe8'
 ---
 
 {% include youtube.html %}
