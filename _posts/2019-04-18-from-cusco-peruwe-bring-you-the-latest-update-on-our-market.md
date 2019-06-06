@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There’s no shortage of opportunities for buyers and sellers in our current
   market—but there may be if you wait much longer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate-Market+Update+From+Cusco%2C+Peru.mp4
 pullquote: >-
   We have a team of more than 22 agents who are ready and willing to help any
   buyer or seller in our market.
