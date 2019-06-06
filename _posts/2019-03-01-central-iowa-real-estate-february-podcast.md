@@ -11,7 +11,8 @@ excerpt: >-
   and the quality and attention to detail in their homes really shines. I also
   talked about Woodland Hills Villas, what’s in and what’s out in terms of home
   trends, and much more. To hear the full episode, watch this short video.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%232.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
