@@ -12,7 +12,8 @@ excerpt: >-
   expertise look like, though? I was recently a guest on the radio show “Van and
   Bonnie in the Morning” to help answer that question. To listen to the
   interview, watch this short video.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+a+Quality+Home+Selling+Experience+Should+Look+Like.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
