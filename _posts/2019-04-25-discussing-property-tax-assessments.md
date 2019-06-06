@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Discussing Property Tax Assessments
-date: 2019-04-25 15:16:41
+date: 2019-04-25 15:16:00
 tags:
   - Real Estate
 excerpt: >-
   Your property tax assessment has likely gone up in the last two years. I
   recently joined Van and Bonnie to talk about why this is and what you can do
   if you feel your assessment is unfair.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%233.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
