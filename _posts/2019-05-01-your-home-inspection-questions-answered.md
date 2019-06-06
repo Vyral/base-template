@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   People are often confused by the ins and outs of home inspections, so we’re
   tackling this important subject today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%234.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: svThWTgn1I0
 
 We’re back once more with another conversation about our Central Iowa market, and this time we’re specifically discussing issues related to the home inspection. In today’s episode, we’ll share all the ins and outs of this important, yet sometimes confusing, step in the real estate process.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
 
 0:14 - An introduction to today’s topic
 
