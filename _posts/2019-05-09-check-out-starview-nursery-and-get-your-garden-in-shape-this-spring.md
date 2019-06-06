@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Spring has sprung, which means it’s time to start thinking about two things:
   your real estate goals and your garden
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate-+Calling+All+Gardeners.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
