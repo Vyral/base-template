@@ -8,7 +8,8 @@ excerpt: >-
   How is our team helping local children, and what’s going on in the market
   right now? Learn the answer to both of these questions by checking out today’s
   message.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate-+A+Look+at+Our+Recent+Partnership+With+the+WHAS+Crusade+for+Children+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ youtube_code: q0BaohGABHw
 
 Our team recently partnered with the WHAS Crusade for Children to raise money for their cause, and I can’t wait to share more information about this incredible experience today.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
 
 0:08 - An introduction to today’s topic
 
