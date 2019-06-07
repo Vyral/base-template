@@ -32,8 +32,8 @@ Today I’d like to share a list of three projects that will bring a high return
 
 {% include pullquote.html %}
 
-**2\. Upgrade your bathrooms—but not too much.** Mid-range bathroom upgrades bring about $1.71 for every $1, while high-end bathroom upgrades could actually hurt your bottom line. In other words, you need to choose your projects carefully. Adding in dual sinks, swapping out flooring, and changing out cabinets are all good upgrades to make, but make sure you don’t choose the most expensive options for each of these projects. Otherwise, your bathroom will look out-of-place compared to the rest of your home.&nbsp;
+**2\. Upgrade your bathrooms—but not too much.** Mid-range bathroom upgrades bring about $1.71 for every $1, while high-end bathroom upgrades could actually hurt your bottom line. In other words, you need to choose your projects carefully. Adding in dual sinks, swapping out flooring, and changing out cabinets are all good upgrades to make, but make sure you don’t choose the most expensive options for each of these projects. Otherwise, your bathroom will look out of place compared to the rest of your home.&nbsp;
 
-<br>**3\. Install new windows.** Mid-range, energy-efficient windows can bring you $1.15 return for every $1 spent. Not only do these new windows look nice, they will also help your home’s new owner save money on their energy bills.&nbsp;
+<br>**3\. Install new windows.** Mid-range, energy-efficient windows can bring you $1.15 return for every $1 spent. Not only do these new windows look nice, but they will also help your home’s new owner save money on their energy bills.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
