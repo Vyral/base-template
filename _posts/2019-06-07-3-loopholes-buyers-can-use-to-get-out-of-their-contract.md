@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Loopholes Buyers Can Use to Get Out of Their Contract
-date: 2019-06-07 14:21:17
+date: 2019-06-07 14:21:00
 tags:
   - Home Buyer Tips
 excerpt: >-
