@@ -1,14 +1,15 @@
 ---
 layout: post
 title: A Closer Look at What It Takes to Be a Real Estate Agent
-date: 2019-06-07 14:31:38
+date: 2019-06-07 14:31:00
 tags:
   - Real Estate
 excerpt: >-
   Have you ever thought about a career in real estate? If so, my recent
   conversation with Van and Bonnie will enlighten you a bit about what it’s
   really like.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+A+Closer+Look+at+What+It+Takes+to+Be+a+Real+Estate+Agent.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +22,7 @@ youtube_code: taa779rvB9Q
 
 We’re back once more with another conversation with Van and Bonnie about our Central Iowa market, and this time we’re specifically discussing issues related to the home inspection. In today’s episode, we’ll share all the ins and outs of this important, yet sometimes confusing, step in the real estate process.
 
-**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
 
 0:35- Why our team structure makes what we do so special to our clients
 
