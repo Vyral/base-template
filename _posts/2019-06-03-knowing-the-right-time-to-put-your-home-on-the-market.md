@@ -25,7 +25,7 @@ When is the best time to list your home?
 
 A lot of people assume the answer is spring because there are usually a lot of buyers looking to move during this time, but because of this, a lot of houses come on the market as well. What happens, then, is that supply and demand mirror each other. As a result, June is typically the month with the highest number of closings, and after that, it trickles downward before spiking again in August.&nbsp;
 
-In any case, **people buy homes all 12 months out of the year,** and buyers that are in the market during the fall and winter are typically more serious than the spring and summer buyers. I’ve even sold homes on Christmas Eve. Why? Because buyers who are out and about during this time have to buy. If you list in the spring and summer, your home may generate more foot traffic, but you won’t deal with as many buyers who are actually serious about buying.
+In any case, **people buy homes all 12 months out of the year,** but buyers that are in the market during the fall and winter are typically more serious than the spring and summer buyers. I’ve even sold homes on Christmas Eve. Why? Because buyers who are out and about during this time have to buy. If you list in the spring and summer, your home may generate more foot traffic, but you won’t deal with as many buyers who are actually serious about buying.
 
 {% include pullquote.html %}
 
