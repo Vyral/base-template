@@ -25,8 +25,6 @@ youtube_code: 'https://youtu.be/vE_rtWMBLKA'
 
 Our Certified Pre-Owned Program allows you to:
 
-&nbsp;
-
 * Sell your home FASTER
 * Get MORE MONEY for your property
 * Have LESS STRESS in the process
