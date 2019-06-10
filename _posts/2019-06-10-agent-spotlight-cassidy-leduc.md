@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Spotlight: Cassidy LeDuc'
-date: 2019-05-23 00:00:00
+date: 2019-06-10 00:00:00
 tags:
   - Real Estate
 excerpt: >-
