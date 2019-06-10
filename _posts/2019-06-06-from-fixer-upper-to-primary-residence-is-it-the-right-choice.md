@@ -30,7 +30,7 @@ Typically, **the biggest concern that people have is working with a contractor,*
 
 {% include pullquote.html %}
 
-You’ll also need to **consider how long the overall project(s) will take,** and how that timeframe will affect your lifestyle. Are you going to be able to live in the home while the repairs are being done? We’ve noticed that people’s perceptions of how this works tend to be different from the reality.
+You’ll also need to **consider how long the overall project(s) will take,** and how that time frame will affect your lifestyle. Are you going to be able to live in the home while the repairs are being done? We’ve noticed that people’s perceptions of how this works tend to be different from reality.
 
 **How much time will you have to dedicate to the process?** Many people who have undergone the process have said that it eventually became a full-time job. If you, your spouse, or both have full-time jobs, is this something that you really want to undertake?&nbsp;
 
