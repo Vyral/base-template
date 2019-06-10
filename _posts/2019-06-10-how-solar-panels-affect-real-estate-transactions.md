@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Solar Panels Affect Real Estate Transactions
-date: 2019-06-03 16:50:00
+date: 2019-06-10 12:00:00
 tags:
   - Real Estate
 excerpt: Ever wonder how to get solar panels for your own home? Find out today.
@@ -18,9 +18,9 @@ youtube_code:
 
 Adding solar power to your home is an excellent way to save thousands each year through lowered energy bills and big tax incentives. However, the inclusion of solar panels in a home can affect a real estate transaction in a few ways. I’m here today with Ben Benjamin, assistant vice president of Ticor Title, who will tell us all about how solar panels affect the home buying and selling processes.
 
-To acquire solar panels, financing is assessed through property taxes. This will cause your property taxes to be higher, which is important for you to tell your lender. Traditional loans can also cover the costs of the panels, but, again, you should notify your lender—they’ll take the steps necessary to close on a transaction with solar panels.
+There are numerous ways to finance the purchase of solar panels.&nbsp; One way is to assess the price on top of the property taxes.&nbsp; This will cause your property taxes to be higher.&nbsp; If you are purchasing a home that has solar panels that were financed this way, be sure to let your lender know as this may affect your qualifying ratios and will increase your property taxes.
 
-If you’re buying a home with solar panels that were assessed through property taxes, your qualifying ratio will be affected. When the lender factors in your monthly payments, they’ll also need to factor in the additional amount. If it’s a more traditional type of loan, there’ll be an extra step needed to release the loan while you’re closing and add it back on afterward.
+Another way to finance the purchase of solar panels is through a traditional loan, where the lender files a second or third trust deed on the property.&nbsp; If you are purchasing a home with this type of financing in place, be sure to know the terms of the loan and what your monthly payments will be. &nbsp;Additionally, your lender will need to work with the solar financing company to ensure that the loans are properly recorded on the property to prevent any delays in the closing.
 
 {% include pullquote.html %}
 
