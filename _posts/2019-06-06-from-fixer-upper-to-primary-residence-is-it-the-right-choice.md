@@ -16,7 +16,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/mike-gray--blank.jpg
+youtube_alternate_image: /uploads/mike-gray--is-a-fixer-upper-right-for-you-youtube.jpg
 youtube_code: 'https://youtu.be/lByTH76OlPQ'
 ---
 
