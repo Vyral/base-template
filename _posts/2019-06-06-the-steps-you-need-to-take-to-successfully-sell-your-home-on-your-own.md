@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   If you’re thinking of selling your home on your own, there are several steps
   you need to take to make it a successful sale.
-enclosure:>-
+enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2019/The+Ron+Sawyer+Team+_+selling+on+your+own.mp4
 pullquote: >-
   Take your time to understand what’s in that offer and consider all the costs
