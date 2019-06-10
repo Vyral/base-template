@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/jennie-wolek-have-you-heard-about-this-program
 youtube_code: 'https://youtu.be/vE_rtWMBLKA'
 ---
 
-{% include youtube.html %}Are you thinking about a move this Spring or Summer? Or maybe you are simply curious about the value of your home and the local real estate market. Either way - we need to talk\!
+{% include youtube.html %}Are you thinking about a move this spring or summer? Or maybe you are simply curious about the value of your home and the local real estate market. Either way—we need to talk\!
 
 {% include pullquote.html %}
 
