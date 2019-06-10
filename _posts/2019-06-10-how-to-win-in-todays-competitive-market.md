@@ -34,3 +34,7 @@ When you start choosing homes you’d like to make an offer on, however, realize
 **If you know the market and are prepared to compete, your chances of succeeding as a buyer will be much higher.** You can’t be afraid to put yourself out there. If you want to win, you must come to the table with your highest and best offer from the start.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
