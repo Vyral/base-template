@@ -13,7 +13,7 @@ pullquote: 'With this program, our listings sell in an average of just 14 days.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1-1.jpg
+youtube_alternate_image: /uploads/jennie-wolek-have-you-heard-about-this-program-youtube.jpg
 youtube_code: 'https://youtu.be/vE_rtWMBLKA'
 ---
 
