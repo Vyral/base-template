@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now Is the Time to Buy a Home
-date: 2019-05-02 18:12:02
+date: 2019-05-02 18:12:00
 tags:
   - Real Estate
 excerpt: >-
