@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Your Interest Is Protected When You Buy a Home With Us
-date: 2019-06-11 13:40:54
+date: 2019-06-10 13:40:00
 tags:
   - Athens Real Estate Agent
   - Home Buyer Tips
