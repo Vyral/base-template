@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What’s happening now in our Louisville area real estate market, and why is
   today’s market update coming to you from Peru? Find out in today’s update.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate-+A+Market+Update+From+Machu+Picchu.mp4
 pullquote: The Louisville area real estate market is red-hot.
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,7 +27,7 @@ The Louisville area real estate market is red-hot right now, with homes selling 
 
 This is why 66% of all millennial renters plan to take the plunge into home-ownership soon. So if you’re looking to make a move this year, please give my team a call. We’d love to talk about your goals.
 
-With that said, let’s talk more about our team’s recent trip to Peru. **To hear all about it, check out today’s video starting at 2:40. **
+With that said, let’s talk more about our team’s recent trip to Peru. \*\*To hear all about it, check out today’s video starting at 2:40. \*\*
 
 Overall, our trip to Peru was absolutely incredible. As always, I love being able to bring you all these updates on my life and our market.
 
