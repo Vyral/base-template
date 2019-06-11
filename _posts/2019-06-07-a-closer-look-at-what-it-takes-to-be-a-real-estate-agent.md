@@ -38,6 +38,6 @@ We’re back once more with another conversation with Van and Bonnie about our C
 
 5:35- How to take the first step if you’re considering a career in real estate
 
-I hope this conversation was helpful to you. Head on over to [Joinmistysteam.com](Joinmistysteam.com) to get an even better idea of if a career in real estate on our team might be right for you.
+I hope this conversation was helpful to you. Head on over to [Joinmistysteam.com](https://bebetterdsm.com/career-opportunities/){: target="_blank"} to get an even better idea of if a career in real estate on our team might be right for you.
 
 If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
