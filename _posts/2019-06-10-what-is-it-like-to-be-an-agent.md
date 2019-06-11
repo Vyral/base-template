@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What Is it Like to Be an Agent?
-date: 2019-06-10 19:42:19
+title: What Is It Like to Be an Agent?
+date: 2019-06-10 19:42:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -27,7 +27,7 @@ Often at the end of a particularly difficult deal, clients will ask me, “How d
 
 When you are a real estate agent, being communicative, patient, and open-minded is a must. Buyers and sellers give their agents a window into some very personal aspects of their lives, so having these qualities is essential. Buyers and sellers deserve to know that their agent will keep private matters private. Honesty, confidentiality, and respect are very important.&nbsp;
 
-**With that said, though, I also find it important to be honest—even when it’s uncomfortable.&nbsp;**
+**With that said, though, I also find it important to be honest even when it’s uncomfortable.&nbsp;**
 
 At the end of the day, the job of an agent is often much more than just a job. And, personally, I wouldn’t have it any other way.&nbsp;
 
