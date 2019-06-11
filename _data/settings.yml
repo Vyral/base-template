@@ -1,6 +1,9 @@
 audit_header: false
 title: Chicago Real Estate Video Blog with Ashley Carter
-description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  If you are looking to buy or sell a home, get all the information and the
+  latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+  -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Free Book Offer
@@ -27,7 +30,10 @@ client:
   phone2_type:
   email: info@CarterPropertyGroup.com
   url: 'http://www.CarterPropertyGroup.com'
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808367';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808367';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
@@ -43,8 +49,8 @@ sidebar_CTA:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -52,22 +58,35 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/CarterPropertyGroup'
   linkedin_url: 'https://www.linkedin.com/in/ashleycarter'
-  gplus_url: 'https://plus.google.com/+Carterpropertygroup'
-  youtube_url:
+  gplus_url:
+  youtube_url: 'https://www.youtube.com/channel/UCoFh8il4cmi7VFzqfddebfw'
   twitter_url: 'https://twitter.com/ashleypcarter'
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Ashley-Carter/'
-  trulia_url: 'https://www.trulia.com/profile/ashley-carter-agent-chicago-il-zgg19f8f/overview'
+  trulia_url: >-
+    https://www.trulia.com/profile/ashley-carter-agent-chicago-il-zgg19f8f/overview
   yelp_url:
-  podcast_url: 'https://itunes.apple.com/us/podcast/chicago-real-estate-podcast/id1202372060?mt=2'
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/chicago-real-estate-podcast/id1202372060?mt=2
 podcast:
   title: Chicago Real Estate Podcast with Ashley Carter
   categories:
   image: /img/podcast.png
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
 images:
   client_headshot_path: /img/headshot.jpg
