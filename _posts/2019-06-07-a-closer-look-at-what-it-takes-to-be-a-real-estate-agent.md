@@ -22,7 +22,7 @@ youtube_code: taa779rvB9Q
 
 We’re back once more with another conversation with Van and Bonnie about our Central Iowa market, and this time we’re specifically discussing issues related to the home inspection. In today’s episode, we’ll share all the ins and outs of this important, yet sometimes confusing, step in the real estate process.
 
-\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 0:35- Why our team structure makes what we do so special to our clients
 
