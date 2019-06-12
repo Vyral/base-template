@@ -20,7 +20,7 @@ youtube_code: taa779rvB9Q
 
 {% include youtube.html %}
 
-We’re back once more with another conversation with Van and Bonnie about our Central Iowa market, and this time we’re specifically discussing issues related to the home inspection. In today’s episode, we’ll share all the ins and outs of this important, yet sometimes confusing, step in the real estate process.
+I’m back yet again to share another great conversation that I recently had with Van and Bonnie. Instead of discussing the latest numbers or trends in the real estate market, this time we focused on real estate as a business. We talked about our unique team structure, how long it takes to get a real estate license, and much, much more.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
