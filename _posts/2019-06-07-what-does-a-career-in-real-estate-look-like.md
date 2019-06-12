@@ -22,7 +22,7 @@ youtube_code: jFBHcNS8d8Y
 
 We’re back once more with another conversation with Van and Bonnie about our Central Iowa market, and this time we’re specifically discussing real estate as a career. We talked about our team’s unique structure, the type of person who can excel in this business, and some openings that our team has right now.
 
-\*\*Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: \*\*
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 0:35- Why our team structure makes what we do so special to our clients
 
