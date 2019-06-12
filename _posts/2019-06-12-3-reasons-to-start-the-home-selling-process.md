@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons to Start the Home-Selling Process
-date: 2019-06-12 19:36:20
+date: 2019-06-12 19:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,11 +20,11 @@ youtube_code: bSjc9KY5ihU
 
 2019 has gotten off to an incredible start for the Crystal Coast real estate market. There has been a surge of buyer demand, which is great news for anyone thinking of selling this year.
 
-However, there is no time like the present. **Experts like Nick Ron (CEO of Home Buyers of America) agree that selling this year will yield far better results than doing so in years to come. **
+However, there is no time like the present. **Experts like Nick Ron (CEO of Home Buyers of America) agree that selling this year will yield far better results than doing so in years to come.&nbsp;**
 
 {% include pullquote.html %}
 
-The opportunity to earn the best possible deal for your home has not yet passed so we need to get started with the process. Why? **There are a couple of crucial reasons: **
+The opportunity to earn the best possible deal for your home has not yet passed so we need to get started with the process. **Why? There are a couple of crucial reasons:&nbsp;**
 
 **1\. Mortgage rates are still historically low.** Because of this, buyers are eager to lock in a low rate while they still can. This gives sellers an incredible amount of leverage.
 
