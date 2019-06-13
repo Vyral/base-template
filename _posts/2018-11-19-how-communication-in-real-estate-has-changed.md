@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I want to talk about how communication and technology have helped change
   the real estate industry.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+How+Communication+in+Real+Estate+Has+Changed.mp4
 pullquote: >-
   If you don't have a tech savvy agent backing you up as a seller or buyer, you
   could miss out on a sale or purchase.
