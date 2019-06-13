@@ -25,7 +25,7 @@ You only get one chance to make a first impression, which is why I believe stagi
 
 If you aren’t already familiar with what staging is, allow me to explain. **Staging is the process in which a professional designer furnishes and decorates a listing before it’s shown to buyers so that they can better visualize its potential.**&nbsp;
 
-I’ve been implementing staging from my very first year in the industry, and while some may think this is just my way of trying to get clients to spend more money, it actually isn’t. As an agent, I truly care about your success. I want you to get top dollar for your home, and staging can help you do just that. There are three main reasons why:
+I’ve been implementing staging since my very first year in the industry, and while some may think this is just my way of trying to get clients to spend more money, it actually isn’t. As an agent, I truly care about your success. I want you to get top dollar for your home, and staging can help you do just that. There are three main reasons why:
 
 {% include pullquote.html %}
 
@@ -33,7 +33,7 @@ I’ve been implementing staging from my very first year in the industry, and wh
 
 <br>**2\. Stagers are masters of optics**. Professional stagers have a lot of tricks up their sleeves when it comes to playing up a home’s features in ways the average person would never consider. If you happen to have a small living room, for example, a stager will know exactly how to make it look more spacious.
 
-<br>**3\. Staging can distract from small problems.** The goal isn’t to deceive buyers, it’s simply a matter of drawing their eye to positive details instead of negative ones. When your home is staged, buyers are far less apt to focus on small imperfections.&nbsp;
+<br>**3\. Staging can distract from small problems.** The goal isn’t to deceive buyers, it’s simply a matter of drawing their eye to positive details instead of negative ones. When your home is staged; buyers are far less apt to focus on small imperfections.&nbsp;
 
 The bottom line is that staging your home not only helps buyers see your house as their future home, it also helps you to sell faster and for more money.
 
