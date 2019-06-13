@@ -33,6 +33,6 @@ On average, people live in a home for seven years, so if you buy a $200,000 home
 
 If you have a lot of money saved up—say, $100,000—another good idea would be to put half of it toward buying a personal home and the other half toward buying an investment home. If you buy another $200,000 property for your investment home at a 30-year fixed mortgage and then rent it out, someone else pays off that mortgage. At the end of 30 years, even if the home’s equity appreciates at a yearly rate below the worst-case scenario—$5,000—you’ll have gained $150,000. All told, your net gain would be $350,000 if you sold the home.
 
-Of course you’ll have expenses you’ll need to cover over the years, but even if those expenses reach upwards of $100,000, \*\*you’ll still have a $250,000 piece of change to retire on. \*\*
+Of course you’ll have expenses you’ll need to cover over the years, but even if those expenses reach upwards of $100,000, **you’ll still have a $250,000 piece of change to retire on.&nbsp;**
 
 Whether you want to buy a personal home or an investment home, I’d love to help you, so don’t hesitate to give me a call or send me an email so we can get started.
