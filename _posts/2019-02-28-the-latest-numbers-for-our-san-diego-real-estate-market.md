@@ -4,7 +4,8 @@ title: The Latest Numbers for Our San Diego Real Estate Market
 tags:
   - Market Update
 excerpt: What’s happening in our San Diego housing market? Let’s find out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/San+Diego+Real+Estate+Agent-+Whats+the+latest+in+the+San+Diego+housing+market_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
