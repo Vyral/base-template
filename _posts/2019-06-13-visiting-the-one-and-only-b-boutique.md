@@ -32,6 +32,6 @@ Besides selling clothes, they also regularly host private shopping events and ot
 
 **They’re also opening a new location in Ellicott City,** which they’re very excited for because it gives them the opportunity to serve a whole different crowd and experiment with their vibe a little bit.&nbsp;
 
-If you’d like to know more about B Boutique, you can visit their website at bboutiquecatonsville.com or follow them on Instagram.&nbsp;
+If you’d like to know more about B Boutique, you can visit their website at [bboutiquecatonsville.com](bboutiquecatonsville.com){: target="_blank"} or follow them on [Instagram.](https://www.instagram.com/bboutiquecatonsville/?hl=en){: target="_blank"}&nbsp;
 
 As always, if you have any questions for me, don’t hesitate to reach out to me. I’d be happy to speak with you.
