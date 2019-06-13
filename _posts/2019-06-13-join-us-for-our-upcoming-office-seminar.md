@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for Our Upcoming Office Seminar
-date:
+date: 2019-06-13 15:44:05
 tags:
   - Real Estate
 excerpt: >-
