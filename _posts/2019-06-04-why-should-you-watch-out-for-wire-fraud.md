@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Wire fraud has become more and more prevalent in today’s real estate market.
   Here’s what you need to look out for.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brittany+Foy/Videos/Myrtle+Beach%2C+SC+Real+Estate+-+Why+Should+You+Watch+Out+for+Wire+Fraud_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
