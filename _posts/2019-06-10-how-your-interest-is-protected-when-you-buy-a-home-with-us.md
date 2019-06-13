@@ -30,7 +30,7 @@ That question comes up occasionally when we’re speaking with buyers, so today 
 
 {% include pullquote.html %}
 
-They’ll check all areas of the home including, but not limited to, the crawlspace, the attic, and underneath the sink as well as the plumbing, electrical, and HVAC systems. Once their report is complete, they’ll supply you with pictures and full descriptions of any potentially concerning items.&nbsp;
+They’ll check all areas of the home including, but not limited to, the crawlspace, the attic, and underneath the sink, as well as the plumbing, electrical, and HVAC systems. Once their report is complete, they’ll supply you with pictures and full descriptions of any potentially concerning items.&nbsp;
 
 Our inspectors are so thorough, in fact, that the length of the report may seem a little overwhelming, but not to worry—a lot of their findings won’t necessarily be high-priority items. That leads me right into my next point: **It’s important for you to go through the whole report and make note of any serious concerns, and your agent will help in this way.&nbsp;**
 
