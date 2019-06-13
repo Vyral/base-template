@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers and Sellers: This Is the Truth About Zestimates'
-date: 2019-06-13 19:13:34
+date: 2019-06-13 19:13:00
 tags:
   - Real Estate
 excerpt: >-
