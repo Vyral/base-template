@@ -1,14 +1,14 @@
 ---
 layout: post
-title: How to Win in Today’s Competitive Market
-date: 2019-06-10 21:30:26
+title: How to Be Prepared as a Buyer
+date: 2019-06-10 21:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   If today’s competitive market conditions have been holding you back from
   starting your home search, this message is for you.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Marjorie+Dick+Stuart/2019/June/Cleveland+Park+Real+Estate-+How+to+Win+in+Todays+Competitive+Market.mp4
+  https://vyralmarketing.s3.amazonaws.com/Marjorie+Dick+Stuart/2019/June/Cleveland+Park+Real+Estate-+How+to+Be+Prepared+as+a+Buyer.mp4
 pullquote: >-
   If you want to win, you must come to the table with your highest and best
   offer from the start.
