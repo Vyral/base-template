@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 1st Quarter Report for Crystal Coast Real Estate
-date: 2019-04-25 20:01:41
+date: 2019-04-25 20:01:00
 tags:
   - Real Estate
 excerpt: >-
@@ -9,7 +9,8 @@ excerpt: >-
   on how our Crystal Coast real estate market fared during the first quarter of
   this year. While inventory and sales are down, the average sale price is up
   significantly.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+A+1st+Quarter+Report+for+Crystal+Coast+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -37,9 +38,7 @@ Based on the first quarter sales and given the existing rate of new listings and
 
 At 2:27, you’ll see that our months’ supply of inventory ballooned from a historic low of 5.4 in 2005 to its peak of 21.4 in 2009. We’ve seen a steady decline in inventory since.
 
-{% include pullquote.html %}
-
-Historically, the industry has recognized a six-month inventory as balanced. **This is a pivotal point because we’ve been under six months of inventory since October of last year, meaning we’re in a seller’s market. **
+Historically, the industry has recognized a six-month inventory as balanced. **This is a pivotal point because we’ve been under six months of inventory since October of last year, meaning we’re in a seller’s market.&nbsp;**
 
 Going forward, there are two big unknowns: **the unmeasured impact that Florence has had on our inventory and the likelihood of increased interest rates.** The 30-year fixed rate mortgage chart at 3:40 displays the steady run of recent historic low mortgage rates for the past 24 months. Rates bottomed out in the summer of 2016 at 3.44% and rose modestly but steadily in 2018 and ended at 4.64%. Surprisingly, rates have fallen each month in this first quarter. I still believe that modest rate increases will happen in 2019.
 
