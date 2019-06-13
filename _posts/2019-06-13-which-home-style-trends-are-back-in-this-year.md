@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/PiufIYNSDPc'
 
 {% include youtube.html %}
 
-Today I want to discuss some of the various home dec&oacute;r trends that we’ve noticed cropping up in the market this year. Find out what’s going on right here.
+<p style="text-aign: center;"><em>Today I want to discuss some of the various home dec&oacute;r trends that we’ve noticed cropping up in the market this year. Find out what’s going on right here.</em></p>
 
 Over the past couple of years, the rustic look has been very popular in the market. More recently, however, that style has morphed into more of a modern aesthetic. Rustic isn’t out quite yet, but it is slowing down. Homeowners have been moving back black-and-white contrasts in their properties with a lot of steel and wood mixed in. Asymmetry and earth tones are on their way back in, when it seems like they just went out not too long ago.
 
