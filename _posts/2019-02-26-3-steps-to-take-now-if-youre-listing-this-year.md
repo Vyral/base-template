@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Many different mistakes can be made during a home sale. Here are three of them
   that you have to avoid.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/San+Diego+Real+Estate+Agent-+3+Steps+to+Take+Now+if+Youre+Listing+This+Year.mp4
 pullquote: Start getting rid of things now if you plan on selling any time soon.
 enclosure_type: video/mp4
 enclosure_time:
