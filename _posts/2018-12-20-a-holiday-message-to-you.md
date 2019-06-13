@@ -1,11 +1,15 @@
 ---
 layout: post
 title: A Holiday Message to You
-date: 2018-12-20 19:46:47
+date: 2018-12-20 19:46:00
 tags:
   - Real Estate
-excerpt:
-enclosure:
+excerpt: >-
+  Here we are in the holiday season, with just a few days remaining in 2018.
+  During this season, it’s the perfect time to look back and recognize our many
+  blessings.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+Taking+a+Look+Back+at+Our+Year.mp4
 pullquote: Thank you for giving us the opportunity to serve you
 enclosure_type: video/mp4
 enclosure_time:
