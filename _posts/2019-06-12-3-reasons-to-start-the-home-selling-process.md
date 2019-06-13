@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Our real estate market is in perfect condition as far as home sellers are
   concerned. Here’s what I mean.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+3+Reasons+to+Start+the+Home-Selling+Process.mp4
 pullquote: Delaying much longer could cost you dearly.
 enclosure_type: video/mp4
 enclosure_time:
