@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/rOxFc7vjVrE'
 
 {% include youtube.html %}
 
-My family and I love to visit Wild Dunes, and with that in mind, I thought I’d share my top 10 favorite things to do there.
+<p style="text-align: center;"><em>My family and I love to visit Wild Dunes, and with that in mind, I thought I’d share my top 10 favorite things to do there.</em></p>
 
 If you’re thinking of visiting Wild Dunes, **I want to share a fun activity guide by listing my top 10 favorite things to do while I’m there.** As you can see in the video above, I’m joined by my own family as we go on location counting down the list:&nbsp;
 
