@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   You might think that 2019 is a long way off and there’s no need to start
   planning for next year, but you’d be wrong.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+Start+Preparing+For+Your+2019+Now.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
