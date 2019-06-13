@@ -8,7 +8,7 @@ excerpt: >-
   seller, and today I’d like to share more information about why this is the
   case.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/Portland+Real+Estate+Agent-+The+Importance+of+Staging.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/Portland+Real+Estate+Agent-+The+Importance+of+Staging+(1).mp4
 pullquote: >-
   Staging your home not only helps buyers see your house as their future home,
   it also helps you to sell faster and for more money.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-11-staging-np.jpg
-youtube_code: m4M39yk1ohQ
+youtube_code: JNhWdWsz11g
 ---
 
 {% include youtube.html %}
