@@ -19,7 +19,7 @@ youtube_code: GN1cKmN-nVQ
 
 {% include youtube.html %}
 
-If you are thinking about buying a brand-new home, here’s a cautionary tale as to why you need representation during this process.
+<center>If you are thinking about buying a brand-new home, here’s a cautionary tale as to why you need representation during this process.</center>
 
 We recently had a house listed for a client who was buying out of the area and wanted to buy a new construction property. **We were able to list and get her home under contract quickly**.
 
