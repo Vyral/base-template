@@ -5,10 +5,10 @@ date: 2019-06-13 15:44:00
 tags:
   - Real Estate
 excerpt: >-
-  https://vyralmarketing.s3.amazonaws.com/Brian+Riolo+/Brian+Riolo-+Join+Us+at+Our+Office+Seminar+on+June+25th.mp4
-enclosure: >-
   We’d love to see you at our upcoming summer seminar, where we’ll feature three
   guests from three different areas of the real estate world.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Riolo+/Brian+Riolo-+Join+Us+at+Our+Office+Seminar+on+June+25th.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
