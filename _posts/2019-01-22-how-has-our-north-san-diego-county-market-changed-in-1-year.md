@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   What were the market statistics for north San Diego County like at the end of
   2018? Find out in today’s market update.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/San+Diego+Real+Estate+Agent-+The+Past%2C+Present%2C+and+Future+of+Our+Local+Market.mp4
 pullquote: >-
   It is more important than ever for sellers to put their best foot forward,
   while buyers can now enjoy greater leverage than was true in the recent past.
