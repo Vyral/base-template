@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In order to time the real estate market, you need to be prepared in advance.
   Here’s what we recommend.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/OK+Hogan+(Star+Team)/Crystal+Coast+Real+Estate-+Is+It+Possible+to+Time+the+Real+Estate+Market_.mp4
 pullquote: Now is the time to get the ball rolling.
 enclosure_type: video/mp4
 enclosure_time:
