@@ -23,8 +23,8 @@ Our team is giving back to Oklahomans suffering from flood damage and we need <u
 
 Although cleanup has begun, we are far from finished. If you know someone in the Tulsa area whose home is severely damaged or was lost due to flooding, complete the nomination form below\!
 
+<u><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf0lN2fLBC4asAbqHSl20yWFo8fQEFgcEbMMrQqWJBd8_o9Ww/viewform"><strong>Nomination Form</strong></a></u>
+
 We will be making selections on July 1st, so don't wait to raise a hand\!
 
-Want to join our Flood Relief efforts?&nbsp;
-
-Email us at **<u><a href="mailto:info@thewolekgroup.com">info@thewolekgroup.com</a></u>** to learn more about how you can donate\!
+Want to join our Flood Relief efforts? Email us at **<u><a href="mailto:info@thewolekgroup.com">info@thewolekgroup.com</a></u>** to learn more about how you can donate\!
