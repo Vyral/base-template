@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explaining Your Role as a Fiduciary
-date: 2019-06-13 19:41:09
+date: 2019-06-13 19:41:00
 tags:
   - Financial Advice
 excerpt: What’s your role as a fiduciary? Today I’ll answer that question for you.
@@ -35,7 +35,7 @@ You should also make sure all the fees paid to the plan’s service providers ar
 
 **By partnering with expert service providers, they can help you meet your goals as a fiduciary.** However, you should also know that there are now solutions available that allow you to outsource virtually all of these responsibilities. To learn more, you can visit [selectretirementplans.com.](http://www.selectretirementplans.com/){: target="_blank"}&nbsp;
 
-To learn more about fiduciary roles, their definitions, or how to manage vendor due diligence, don’t hesitate to message me at [retirementfco.com](http://retirementfco.com/){: target="_blank"} or give me a call.&nbsp;
+To learn more about fiduciary roles, their definitions, or how to manage vendor due diligence, don’t hesitate to message me at [retirementfco.com](http://www.retirementcfo.com/){: target="_blank"} or give me a call.&nbsp;
 
 In the meantime, stay tuned for my next video where I’ll talk about diversifying the investment lineup in your retirement plan and how offering fewer investment choices can help your employees take action.&nbsp;<br>&nbsp;
 
