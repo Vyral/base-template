@@ -16,13 +16,7 @@ youtube_alternate_image: /uploads/shutterstock-524029231-converted.png
 youtube_code:
 ---
 
-&nbsp;
-{: .present-before-paste}
-
-&nbsp;
-{: .present-before-paste}
-
-Dear Friends and Hopeful Homeowners,
+![](/uploads/header-photo.png){: width="1100" height="242"}<br><br>Dear Friends and Hopeful Homeowners,
 {: .present-before-paste}
 
 Real estate investing is hotter than ever, and it’s no wonder why.&nbsp;
