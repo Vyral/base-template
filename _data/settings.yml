@@ -32,19 +32,23 @@ client:
   # second_CTA_URL: https://www.sternteam.com/
   phone_CTA: false
 
+CTAs:
+  first_CTA_text: Home Valuation
+  first_CTA_URL: https://www.sternteam.com/homevalue/ssl-homevalue
+  second_CTA_text: Home Search
+  second_CTA_URL: https://www.sternteam.com/
+
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/001.jpg
-  CTA_title: "What’s My Home Worth?"
-  CTA_text:
-  CTA_link_text: "Free Home Value Report"
-  CTA_url: https://www.sternteam.com/homevalue/ssl-homevalue
+  - CTA_image_path: /img/cta-images/001.jpg
+    CTA_title: "What’s My Home Worth?"
+    CTA_link_text: "Free Home Value Report"
+    CTA_url: https://www.sternteam.com/homevalue/ssl-homevalue
 
 second_sidebar_CTA:
-  CTA_image_path: /img/cta-images/002.jpg
-  CTA_title: "Looking to Buy a Home?"
-  CTA_text:
-  CTA_link_text: "Search the MLS"
-  CTA_url: https://www.sternteam.com/
+  - CTA_image_path2: /img/cta-images/002.jpg
+    CTA_title2: "Thinking of Buying a Home?"
+    CTA_link_text2: "Search All Homes"
+    CTA_url2: https://www.sternteam.com/
 
 welcome_headline: Get Educated About Real Estate
 welcome_text_markdown: |
