@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Impact Are Interest Rates Having on Our Market?
-date: 2019-06-14 17:57:10
+date: 2019-06-14 17:57:00
 tags:
   - Real Estate
   - Market Update
@@ -31,7 +31,7 @@ In other words, buyers that could only afford $360,000 last November can now aff
 
 **The great thing about this is that it already has and will continue to help the home buying market speed up.** This will help with appreciation in home sales and help home sellers get their properties sold quickly. We’re in a really great spot right now for both buyers and sellers and it will continue to be until rates start to hike again.
 
-If you have any questions for Matt, don’t hesitate to give him a call at (843) 670-5512 or send him an email to MMieras@cmgfi.com
+If you have any questions for Matt, don’t hesitate to give him a call at (843) 670-5512 or send him an email to [MMieras@cmgfi.com](mailto:MMieras@cmgfi.com)
 
 If you have any real estate-related questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
 
