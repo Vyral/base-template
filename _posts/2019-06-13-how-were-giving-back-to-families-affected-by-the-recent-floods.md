@@ -17,4 +17,14 @@ youtube_alternate_image: /uploads/jennie-wolek-giving-back-to-those-affected-by-
 youtube_code: 'https://youtu.be/1MB-88bfVow'
 ---
 
-{% include youtube.html %}Many communities across the Midwest are currently facing severe damage from this year’s earlier flooding, including our own Tulsa area, and we at the Wolek Team would like to help. Through our charity group, Keys to the City, we are going to be giving $500 to six different families in need of flood relief. If you know someone here in Tulsa or the surrounding area whose home was lost or severely damaged by the recent flooding, please nominate them to receive our donation using <u><strong><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf0lN2fLBC4asAbqHSl20yWFo8fQEFgcEbMMrQqWJBd8_o9Ww/viewform">this form</a></strong></u>. We’ll be selecting the six lucky families by July 1, so send your nominations in as soon as possible. If you have any other questions or would like more information, feel free to give us a call or send us an email.
+{% include youtube.html %}
+
+Our team is giving back to Oklahomans suffering from flood damage and we need <u>YOUR</u> help\! ​Through our charity organization, Keys To The City, The Wolek Group is giving $500 to <u>SIX</u> families in need of flood relief\!
+
+Although cleanup has begun, we are far from finished. If you know someone in the Tulsa area whose home is severely damaged or was lost due to flooding, complete the nomination form below\!
+
+We will be making selections on July 1st, so don't wait to raise a hand\!
+
+Want to join our Flood Relief efforts?&nbsp;
+
+Email us at **<u><a href="mailto:info@thewolekgroup.com">info@thewolekgroup.com</a></u>** to learn more about how you can donate\!
