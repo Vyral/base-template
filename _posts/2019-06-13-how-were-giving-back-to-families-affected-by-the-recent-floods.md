@@ -28,3 +28,5 @@ Although cleanup has begun, we are far from finished. If you know someone in the
 We will be making selections on July 1st, so don't wait to raise a hand\!
 
 Want to join our Flood Relief efforts? Email us at **<u><a href="mailto:info@thewolekgroup.com">info@thewolekgroup.com</a></u>** to learn more about how you can donate\!
+
+![](/uploads/webp-net-resizeimage-2.png){: width="215" height="95"}
