@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief Message About Arizona’s Dual Agency
-date: 2019-06-14 15:36:07
+date: 2019-06-14 15:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_alternate_image:
 youtube_code: etOZJN8N7kQ
 ---
 
-{{ include youtube.html }}
+\{ include youtube.html \}
 
 Today I’d like to illuminate the term “agency” and discuss what it means in a real estate capacity.&nbsp;
 
