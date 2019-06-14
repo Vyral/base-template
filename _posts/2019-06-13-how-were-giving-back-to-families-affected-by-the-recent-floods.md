@@ -8,7 +8,8 @@ excerpt: >-
   In an effort to help those affected by the recent flooding, our team is giving
   six lucky families a $500 donation. If you know anyone who you believe
   deserves this help, we’d like for you to nominate them today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/The+Wolek+Group-+How+Were+Giving+Back+to+Families+Affected+by+the+Recent+Floods.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
