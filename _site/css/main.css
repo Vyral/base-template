@@ -2226,42 +2226,6 @@ table tr, table td {
       fill: #f6600f;
       background: transparent; }
 
-@media (max-width: 1450px) {
-  .socials svg {
-    height: 3rem;
-    width: 3rem; } }
-@media (max-width: 1255px) {
-  .socials svg {
-    height: 2.7rem;
-    width: 2.7rem; }
-
-  .footer-socials .socials svg {
-    height: 2.4rem;
-    width: 2.4rem; } }
-@media (max-width: 990px) {
-  .socials {
-    text-align: center; }
-    .socials svg {
-      height: 4rem;
-      width: 4rem; } }
-@media (max-width: 445px) {
-  .socials svg {
-    height: 3rem;
-    width: 3rem; } }
-@media (max-width: 400px) {
-  .socials svg {
-    height: 2rem;
-    width: 2rem; } }
-@media (max-width: 350px) {
-  .about .socials {
-    margin-bottom: 9rem; }
-    .about .socials svg {
-      height: 1.8rem;
-      width: 1.8rem; }
-
-  .footer-socials .socials svg {
-    height: 1.8rem;
-    width: 1.8rem; } }
 .feedbox {
   position: absolute;
   z-index: 5;
