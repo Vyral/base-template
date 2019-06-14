@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are My Credit Scores Different?
-date:
+date: 2019-06-14 15:21:52
 tags:
   - Real Estate
 excerpt: >-
