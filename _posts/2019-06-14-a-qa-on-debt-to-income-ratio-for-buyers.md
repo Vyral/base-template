@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Q&A on Debt-to-Income Ratio for Buyers
-date: 2019-06-14 14:38:50
+date: 2019-06-14 14:38:00
 tags:
 excerpt: >-
   In the latest “Facebook Live Friday,” I answered some questions for homebuyers
