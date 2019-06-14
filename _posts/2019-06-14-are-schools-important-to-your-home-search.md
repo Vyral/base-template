@@ -5,10 +5,12 @@ date: 2019-06-14 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  Schools are one of the most important factors for homebuyers when searching
+  for a new home. Here are a few resources that can help you in your search.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/Portland+Real+Estate+Agent-+Are+Schools+Important+to+Your+Home+Search_.mp4
-pullquote:
+pullquote: We can help you create a home search based on school district.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
