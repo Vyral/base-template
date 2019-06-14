@@ -7,7 +7,8 @@ excerpt: >-
   Welcome to episode one of Casey’s Corner! Today, I’m joined by retired
   baseball star Adrian Burnside to talk about the past, present, and future of
   his career.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/San+Diego+Real+Estate+Agent-+Adrian+Burnside+Part+1.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
