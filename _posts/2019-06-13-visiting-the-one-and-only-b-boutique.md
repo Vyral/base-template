@@ -26,7 +26,7 @@ My wife absolutely loves this store, and **since it’s opened two years ago, it
 
 {% include pullquote.html %}
 
-As it turns out, Megan was shopping for boutique items to sell in the salon she owned and noticed that she could buy tons of clothes to sell. When she saw that there was a need for a boutique in Catonsville, she asked Sarah to be her partner.&nbsp;
+As it turns out, Megan was shopping for boutique items to sell in the salon she owned and noticed that she could buy tons of clothes to sell. When she saw that there was a need for a boutique in Catonsville, she asked Sarah to be her business partner.&nbsp;
 
 Besides selling clothes, they also regularly host private shopping events and other parties. Additionally, you can find plenty of other great accessories and gift items in their store. In fact, they only stock two of each item so that not everyone in Catonsville is wearing the same thing.&nbsp;
 
