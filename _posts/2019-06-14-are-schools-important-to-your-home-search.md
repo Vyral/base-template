@@ -26,6 +26,8 @@ The first thing they want to know is what schools they should be in. If they ask
 
 **The first is [greatschools.net.](https://www.greatschools.org/){: target="_blank"}** It rates each school based on a 1 to 10 scale and you’ll see Yelp\! style reviews and testimonials, but please take them with a grain of salt. You may run into someone writing a review that has a conflict of interest.
 
+{% include pullquote.html %}
+
 Another source is the Portland Monthly School Guide. Though it’s a few years old, it breaks things down by the numbers which can be very helpful. It has a lot of statistical information for you to compare with other schools in the area.
 
 **The other thing I really enjoy about being in real estate is that I have a great network of clients who have kids in schools all over the area.** If you’re interested in a certain school, I’d be happy to connect you with a client who has or has had kids at the school so you can get some more of your questions answered.
