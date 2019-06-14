@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/NEv_B5pE-Pk'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our new Brand Ambassador Program intends to bring together local independent businesses and give back to the community, and you can help/</em></p>
+<p style="text-align: center;"><em>Our new Brand Ambassador Program intends to bring together local independent businesses and give back to the community, and you can help.</em></p>
 
 Today I’m excited to show you the first video of our Brand Ambassador Program series.&nbsp;
 
