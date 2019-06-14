@@ -35,4 +35,4 @@ We were a little delayed on our close and the builder made it really difficult b
 
 This client didn’t save any money by going straight to a builder. **Hiring a buyer’s agent not only would have cost her nothing, but it would have saved her so much time, hassle, and money**.
 
-If you or someone you know is thinking about buying or selling a home any time in the near future, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
+If you or someone you know is thinking about buying or selling a home anytime in the near future, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
