@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/DXH3BR48kPA'
 
 <p style="text-align: center;"><em>The newest numbers for our market are in, but what’s changed? Stay tuned to find out.</em></p>
 
-I’m back again with the latest update on our St. Cloud market. Taking stock of our spring market first, we saw an overall strong performance and hopefully that momentum keeps up.
+I’m back again with the latest update on our St. Cloud market. Taking stock of our spring market first, we saw an overall strong performance. Hopefully, that momentum will keep up.
 
 Let’s jump right in:&nbsp;
 
