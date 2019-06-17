@@ -19,7 +19,7 @@ youtube_code: d9V-tesJtak
 
 {% include youtube.html %}
 
-The first thing that you need to understand in order to develop a good outbound marketing plan is the marketing triangle. **It contains the three most important factors to your marketing success:** Your market, your message, and the media you use to deliver the message to your market.
+The first thing that you need to understand in order to develop a good outbound marketing plan is the marketing triangle. **It contains the three most important factors to your marketing success:**&nbsp;your market, your message, and the media you use to deliver the message to your market.
 
 **The first thing you need to define is your market.** Who are you going to be targeting with your outbound marketing plan? What types of sellers are you looking for? Are you an investor looking for distressed sellers or an agent looking for listings? This is the first place you need to start.
 
@@ -27,6 +27,6 @@ The first thing that you need to understand in order to develop a good outbound 
 
 **Once you’ve defined your market, it’s time to craft your message.** What message do you want to deliver to your potential clients? You want to address their fears, their concerns, and how you can solve their problems. Being very clear on who your market is and what message you want to deliver to them is incredibly important. One can not function without the other.
 
-Finally, let’s talk about your media. **There are lots of different ways to deliver your message out there.** What we focus on here at 1000 calls a day is the telephone, which we use to deliver your message out to prospects.
+Finally, let’s talk about your media. **There are lots of different ways to deliver your message out there.** What we focus on here at 1000 Calls a Day is the telephone, which we use to deliver your message out to prospects.
 
 If you have any questions for us about the marketing triangle or about how we can work together to get your message out to as many people in your market as possible, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
