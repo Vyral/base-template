@@ -12,14 +12,14 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/caseys-corner-1-youtube.jpg
 youtube_code: 'https://youtu.be/8SyonvbxboE'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Welcome to episode one of Casey’s Corner! Today, I’m joined by retired baseball star Adrian Burnside to talk about the past, present, and future of his career.</em></p>
+*Welcome to episode one of Casey’s Corner\! Today, I’m joined by retired baseball star Adrian Burnside to talk about the past, present, and future of his career.*
 
 Welcome to the very first episode of Casey’s Corner—a great new series in which I’ll be interviewing special guests from around north San Diego County about their contributions to our community. So if you know someone who has done something special for our area, whether they’re an entrepreneur, a philanthropist, artist, or anyone else you think deserves the spotlight, I’d love to have them on.
 
