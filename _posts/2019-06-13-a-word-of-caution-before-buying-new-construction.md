@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you are thinking about buying a brand-new home, here’s a cautionary tale as
   to why you need representation during this process.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Tracy%2C+CA+Real+Estate+-+A+Word+of+Caution+Before+Buying+New+Construction.mp4
 pullquote: The client didn’t save any money by going straight to the builder.
 enclosure_type: video/mp4
 enclosure_time:
