@@ -20,7 +20,7 @@ youtube_alternate_image:
 youtube_code: etOZJN8N7kQ
 ---
 
-\{ include youtube.html \}
+{% include youtube.html %}
 
 Today I’d like to illuminate the term “agency” and discuss what it means in a real estate capacity.&nbsp;
 
