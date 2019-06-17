@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/justin-woodall-two-protections-we-offer-to-homebuyers-who-work-with-us-youtube.jpg
-youtube_code: 'https://youtu.be/eJu9uArKB-8'
+youtube_code: 'https://youtu.be/jFCSa7ieo6g'
 ---
 
 {% include youtube.html %}
