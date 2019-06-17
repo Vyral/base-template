@@ -27,6 +27,6 @@ The first thing that you need to understand in order to develop a good outbound 
 
 **Once you’ve defined your market, it’s time to craft your message.** What message do you want to deliver to your potential clients? You want to address their fears, their concerns, and how you can solve their problems. Being very clear on who your market is and what message you want to deliver to them is incredibly important. One can not function without the other.
 
-Finally, let’s talk about your media. **There are lots of different ways to deliver your message out there.** What we focus on here at 1000 Calls a Day is the telephone, which we use to deliver your message out to prospects.
+Finally, let’s talk about your media. **There are lots of different ways to deliver your message out there.** Here at 1000 Calls A Day, we focus on using the telephone to deliver your message out to prospects.
 
 If you have any questions for us about the marketing triangle or about how we can work together to get your message out to as many people in your market as possible, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
