@@ -20,8 +20,7 @@ youtube_code: 'https://youtu.be/uQ1kt1ZAw4I'
 ---
 
 {% include youtube.html %}
-
-Today I’m revealing the latest news from our San Fernando Valley market, and speaking of news, it’s good for both buyers and sellers.
+<p style="text-align: center;"><em>Today I’m revealing the latest news from our San Fernando Valley market, and speaking of news, it’s good for both buyers and sellers.</em></p>
 
 It’s hard to believe that we’re just weeks away from July, and so much has happened in our San Fernando Valley market between the first of the year and now. Without further ado, let’s dive right into what we’ve been seeing in the market of late:&nbsp;
 
