@@ -9,7 +9,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Wes+Peters/Baltimore+Metro+Real+Estate-+Visiting+the+One+and+Only+B+Boutique.mp4
 pullquote: >-
-  Besides sell clothes, they also regularly host private shopping events and
+  Besides selling clothes, they also regularly host private shopping events and
   other parties.
 enclosure_type: video/mp4
 enclosure_time:
