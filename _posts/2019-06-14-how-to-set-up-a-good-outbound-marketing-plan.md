@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-14-triangle-np.jpg
-youtube_code: d9V-tesJtak
+youtube_code: 5oVDSVd1Hd0
 ---
 
 {% include youtube.html %}
