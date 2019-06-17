@@ -30,7 +30,7 @@ As it turns out, Megan was shopping for boutique items to sell in the salon she 
 
 Besides selling clothes, they also regularly host private shopping events and other parties. Additionally, you can find plenty of other great accessories and gift items in their store. In fact, they only stock two of each item so that not everyone in Catonsville is wearing the same thing.&nbsp;
 
-**They’re also opening a new location in Ellicott City,** which they’re very excited for because it gives them the opportunity to serve a whole different crowd and experiment with their vibe a little bit.&nbsp;
+**They’ve also opened a new location in Ellicott City,** which they’re very excited for because it gives them the opportunity to serve a whole different crowd and experiment with their vibe a little bit.&nbsp;
 
 If you’d like to know more about B Boutique, you can visit their website at [bboutiquecatonsville.com](bboutiquecatonsville.com){: target="_blank"} or follow them on [Instagram.](https://www.instagram.com/bboutiquecatonsville/?hl=en){: target="_blank"}&nbsp;
 
