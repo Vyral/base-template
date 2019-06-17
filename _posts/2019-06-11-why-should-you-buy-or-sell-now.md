@@ -19,6 +19,8 @@ youtube_code: vM1jBV1r4iA
 
 {% include youtube.html %}
 
+We want to thank the sellers of the home at 39W165 Longmeadow Lane in St. Charles for allowing us to do this video at their home and we welcome you to schedule a showing as the property is on the market.
+
 What makes right now such a great time to buy or sell? There are actually a few reasons, and we’ll share just a handful of the most significant factors today.&nbsp;
 
 For one thing, there are 2% fewer homes on the market in our area right now than there were at this time last year. Also, home values have risen by 3% on average. This means those who list now can enjoy lower competition and higher prices.
