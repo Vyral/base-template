@@ -73,7 +73,7 @@ lender:
   brand: Sr. Loan Officer
   phone: (480) 420-4911
   email: 'Kovarikteam@guildmortgage.net<br>2151 E Broadway Rd, 111<br>Tempe, AZ 85282'
-  url: 'branches.guildmortgage.com/az/chandler/amber-kovarik-936-clak.html'
+  url: branches.guildmortgage.com/az/chandler/amber-kovarik-936-clak.html
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
@@ -87,7 +87,7 @@ socials:
   facebook_url: 'https://www.facebook.com/btgrealestate/'
   linkedin_url: >-
     https://www.linkedin.com/in/kevinlangan?authType=NAME_SEARCH&authToken=U6VH&locale=en_US&srchid=3830508351470235880696&srchindex=2&srchtotal=43&trk=vsrp_people_res_photo&trkInfo=VSRPsearchId%3A3830508351470235880696%2CVSRPtargetId%3A37680674%2CVSRPcmpt%3Aprimary%2CVSRPnm%3Atrue%2CauthType%3ANAME_SEARCH
-  gplus_url: 'https://plus.google.com/u/0/b/100702787005780117567'
+  gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UC4RHcVIUNxLX2U2ciIgxDNg/featured'
   twitter_url: 'https://twitter.com/kevinLangan'
   instagram_url:
