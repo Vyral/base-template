@@ -24,7 +24,7 @@ Schools are such a big deal and it’s one of the main reasons people come to me
 
 The first thing they want to know is what schools they should be in. If they ask me, quite frankly I can’t answer, because it depends on so many different factors that are different for each family. **What I can do, however, is point you to a couple of resources.**
 
-**The first is [greatschools.net.](https://www.greatschools.org/){: target="_blank"}** It rates each school based on a 1 to 10 scale and you’ll see Yelp\! style reviews and testimonials, but please take them with a grain of salt. You may run into someone writing a review that has a conflict of interest.
+**The first is [greatschools.org.](https://www.greatschools.org/){: target="_blank"}** It rates each school based on a 1 to 10 scale and you’ll see Yelp\! style reviews and testimonials, but please take them with a grain of salt. You may run into someone writing a review that has a conflict of interest.
 
 {% include pullquote.html %}
 
