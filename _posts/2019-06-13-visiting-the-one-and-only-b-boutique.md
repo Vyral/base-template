@@ -20,9 +20,9 @@ youtube_code: NToPIg6rKiE
 
 {% include youtube.html %}
 
-In today’s community spotlight, we’re visiting B Boutique in Catonsville and speaking with co-owners Meghan and Sarah.&nbsp;
+In today’s community spotlight, we’re visiting B Boutique in Catonsville to speak with co-owners Meghan and Sarah.&nbsp;
 
-My wife absolutely loves this store, and **since it’s opened two years ago, it’s as popular as ever.** Meghan and Sarah have been friends for over 20 years, and the story of how this establishment came together is an interesting one.
+My wife absolutely loves this store, and **though it opened two years ago****, it’s as popular as ever.** Meghan and Sarah have been friends for over 20 years, and the story of how this establishment came together is an interesting one.
 
 {% include pullquote.html %}
 
