@@ -25,26 +25,26 @@ youtube_code: 'https://youtu.be/rOxFc7vjVrE'
 
 If you’re thinking of visiting Wild Dunes, **I want to share a fun activity guide by listing my top 10 favorite things to do while I’m there.** As you can see in the video above, I’m joined by my own family as we go on location counting down the list:&nbsp;
 
-10\. Eat ice cream at Duney’s Ice Cream Shop.
+10\. <strong>Eat ice cream at Duney’s Ice Cream Shop.</strong>
 
-9\. Lounge at the Grand Pavilion pools. If you get tired of the sandy beaches, these pools are a great place to cool off.&nbsp;
+9\. <strong>Lounge at the Grand Pavilion pools.</strong> If you get tired of the sandy beaches, these pools are a great place to cool off.&nbsp;
 
-8\. Take a picture in the big beach chair. This is a family tradition of ours because it’s a neat way to track how our family has grown over the years.
+8\. <strong>Take a picture in the big beach chair.</strong> This is a family tradition of ours because it’s a neat way to track how our family has grown over the years.
 
-7\. Stroll along the Grand Pavilion Boardwalk. I love the architecture of the homes that surround this boardwalk, and it’s a great place to hang out.&nbsp;
+7\. <strong>Stroll along the Grand Pavilion Boardwalk.</strong> I love the architecture of the homes that surround this boardwalk, and it’s a great place to hang out.&nbsp;
 
-5\. Hit the beach. The days may be hot, but they’re always cooler if you can take a dip in the ocean.
+5\. <strong>Hit the beach.</strong> The days may be hot, but they’re always cooler if you can take a dip in the ocean.
 
-5\. Hang out at the beach bar.&nbsp;
+5\. <strong>Hang out at the beach bar.&nbsp;</strong>
 
-4\. Rent a few beach chairs and an umbrella and sit on the sand.&nbsp;
+4\. <strong>Rent a few beach chairs and an umbrella and sit on the sand.&nbsp;</strong>
 
 {% include pullquote.html %}
 
-3\. Play tennis. The Wild Dunes has world-class tennis courts that have been nationally ranked by Tennis Magazine. Next to the tennis courts, you can also rent bikes, and there are plenty of scenic trails around the island that the whole family can enjoy.&nbsp;
+3\. <strong>Play tennis.</strong> The Wild Dunes has world-class tennis courts that have been nationally ranked by Tennis Magazine. Next to the tennis courts, you can also rent bikes, and there are plenty of scenic trails around the island that the whole family can enjoy.&nbsp;
 
-2\. Golf. There are two renowned courses you can pick from: the Harbor course and the Links course. After you’re done, you can head over to the deli and grab a sandwich\!
+2\. <strong>Golf.</strong> There are two renowned courses you can pick from: the Harbor course and the Links course. After you’re done, you can head over to the deli and grab a sandwich\!
 
-1\. Visit the amphitheater. During the summer, they have all kinds of activities for the kids, including bingo, movie nights, and smore-making by the fire pit. For the adults, there’s a spa nearby where you can treat yourself.&nbsp;
+1\. <strong>Visit the amphitheater.</strong> During the summer, they have all kinds of activities for the kids, including bingo, movie nights, and smore-making by the fire pit. For the adults, there’s a spa nearby where you can treat yourself.&nbsp;
 
 If you’d like to know more about all the activities you can enjoy at Wild Dunes, don’t hesitate to reach out to me. I’d love to speak with you.
