@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Closing Costs Sellers Pay When a Home Is Sold
-date: 2019-06-11 19:08:47
+date: 2019-06-11 19:08:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/seller-closing-costs-youtube.jpg
-youtube_code: kBT6PcLWDTs
+youtube_code: dEeQkcvwQlY
 ---
 
 {% include youtube.html %}
