@@ -1,7 +1,7 @@
 ---
 youtube_code: 7sSYCMBiVXs
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20You%20Need%20These%20Documents%20to%20Get%20Pre-Approved.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20You%20Need%20These%20Documents%20to%20Get%20Pre-Approved.mp4
 pullquote: "We want you to be able to make an offer on your dream home."
 enclosure_type: video/mp4
 enclosure_time:

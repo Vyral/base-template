@@ -1,7 +1,7 @@
 ---
 youtube_code: UOwbK00CZBM
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Dissecting%20the%20Loan%20Process%20for%20You.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Dissecting%20the%20Loan%20Process%20for%20You.mp4
 pullquote: "Mkae sure that all documents get sent in timely fashion."
 enclosure_type: video/mp4
 enclosure_time:

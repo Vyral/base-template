@@ -1,7 +1,7 @@
 ---
 youtube_code: qMFCChEBMAc
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20Do%20You%20Finance%20New%20Construction%20Homes%253F.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20Do%20You%20Finance%20New%20Construction%20Homes%253F.mp4
 pullquote: "Each financing type has its own pros and cons."
 enclosure_type: video/mp4
 enclosure_time:

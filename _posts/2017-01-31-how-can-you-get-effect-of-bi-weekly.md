@@ -1,7 +1,7 @@
 ---
 youtube_code: U4p8l27fX68
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Feb%201.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Feb%201.mp4
 pullquote: "With this plan, you get the same effect as bi-weekly payments without the middle man and their fee."
 enclosure_type: video/mp4
 enclosure_time:

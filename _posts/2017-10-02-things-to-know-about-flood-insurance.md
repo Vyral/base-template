@@ -8,7 +8,7 @@ excerpt: >-
   Flood insurance is an important thing to have if your home is in a flood zone.
   The recent situations in Houston and Florida are a good reminder of that.
 enclosure: >-
-  http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Things%20to%20Know%20About%20Flood%20Insurance.mp4
+  https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Things%20to%20Know%20About%20Flood%20Insurance.mp4
 pullquote: Many of them don’t protect against water damage at all.
 enclosure_type: video/mp4
 enclosure_time:

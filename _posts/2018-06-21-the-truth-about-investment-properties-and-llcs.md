@@ -35,6 +35,6 @@ This recent change is actually very positive. A lot of my investor clients have 
 
 If you or someone you know is thinking of investing in real estate, please think of us at Guardian Mortgage. We have a lot of experience and offer several loan programs. We would love to help guide you.&nbsp;
 
-To learn more, visit:&nbsp;[http://www.fanniemae.com](http://www.fanniemae.com)
+To learn more, visit:&nbsp;[https://www.fanniemae.com](https://www.fanniemae.com)
 
 And, of course, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.

@@ -1,7 +1,7 @@
 ---
 youtube_code: PdsH9YvZegM
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/Do%20This%20Before%20Buying%20a%20Home%20in%20Texas.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/Do%20This%20Before%20Buying%20a%20Home%20in%20Texas.mp4
 pullquote: "In today's market, you need as strong of a letter as possible."
 enclosure_type: video/mp4
 enclosure_time:

@@ -8,7 +8,7 @@ excerpt: >-
   How can you get rid of your mortgage insurance? The answer depends on your
   loan type.
 enclosure: >-
-  http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Are%20You%20Ready%20to%20Get%20Rid%20of%20Your%20Mortgage%20Insurance%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Are%20You%20Ready%20to%20Get%20Rid%20of%20Your%20Mortgage%20Insurance%253F.mp4
 pullquote: Appreciation in value adds a bit of a wrinkle to this process.
 enclosure_type: video/mp4
 enclosure_time:

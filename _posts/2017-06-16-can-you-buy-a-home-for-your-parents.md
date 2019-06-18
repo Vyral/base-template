@@ -5,7 +5,7 @@ date: 2017-06-16 16:29:00
 tags:
   - Home Buyer Tips
 excerpt: Have you thought about buying a home for your parents? Their level of mortgage qualification goes a long way in determining how the transaction will play out.
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Can%20You%20Buy%20a%20Home%20for%20Your%20Parents%253F.mp4'
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Can%20You%20Buy%20a%20Home%20for%20Your%20Parents%253F.mp4'
 pullquote: How you buy a house for your parents depends on their unique circumstances.
 enclosure_type: video/mp4
 enclosure_time:

@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: ARMs are nothing to be afraid of. You’ve just got to know how to use them.
 enclosure: >-
-  http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Why%20You%20Shouldnt%20Be%20Scared%20of%20ARMs.mp4
+  https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Why%20You%20Shouldnt%20Be%20Scared%20of%20ARMs.mp4
 pullquote: 'There is some risk involved, but it can be a very useful tool.'
 enclosure_type: video/mp4
 enclosure_time:

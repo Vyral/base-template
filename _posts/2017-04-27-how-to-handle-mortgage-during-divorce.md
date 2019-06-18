@@ -1,7 +1,7 @@
 ---
 youtube_code: RpzletUHTGQ
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Mortgage%20During%20a%20Divorce.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Mortgage%20During%20a%20Divorce.mp4
 pullquote: "It's important to know the plans for the home."
 enclosure_type: video/mp4
 enclosure_time:

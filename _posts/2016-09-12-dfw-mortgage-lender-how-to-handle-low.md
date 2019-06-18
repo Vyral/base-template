@@ -1,7 +1,7 @@
 ---
 youtube_code: Q9Ldnvju6Vw
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Low%20Appraisal.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20How%20to%20Handle%20a%20Low%20Appraisal.mp4
 pullquote: "Lenders won't lend more than the appraised value."
 enclosure_type: video/mp4
 enclosure_time:

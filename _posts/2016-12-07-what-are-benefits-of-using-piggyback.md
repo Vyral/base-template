@@ -1,7 +1,7 @@
 ---
 youtube_code: F9ABJoFBjwc
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20What%20Are%20the%20Benefits%20of%20Using%20a%20Piggyback%20Loan%253F.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20What%20Are%20the%20Benefits%20of%20Using%20a%20Piggyback%20Loan%253F.mp4
 pullquote: "Structuring your loan this way will give you a lower interest rate."
 enclosure_type: video/mp4
 enclosure_time:

@@ -1,7 +1,7 @@
 ---
 youtube_code: nGd-4XihD40
 excerpt:
-enclosure: http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Jan%202.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Jan%202.mp4
 pullquote: "Who you partner with for your financing has a large impact on your transaction."
 enclosure_type: video/mp4
 enclosure_time:

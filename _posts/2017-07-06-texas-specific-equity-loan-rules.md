@@ -8,7 +8,7 @@ excerpt: >-
   Equity loans are treated differently here in Texas. Here are the things you
   need to be aware of.
 enclosure: >-
-  http://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Texas-Specific%20Equity%20Loan%20Rules.mp4
+  https://vyralmarketing.s3.amazonaws.com/Wade%20Betz/DFW%20Mortgage%20Lender-%20Texas-Specific%20Equity%20Loan%20Rules.mp4
 pullquote: You can only have one equity loan at a time.
 enclosure_type: video/mp4
 enclosure_time:
