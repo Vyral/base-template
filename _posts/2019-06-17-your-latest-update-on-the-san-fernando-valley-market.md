@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/uQ1kt1ZAw4I'
 
 It’s hard to believe that we’re just weeks away from July, and so much has happened in our San Fernando Valley market between the first of the year and now. Without further ado, let’s dive right into what we’ve been seeing in the market of late:&nbsp;
 
-Out of 12,000 single-family units located in the 91326 area zip code, **we currently have just 60 properties for sale.** Toward the end of April this year, inventory was equally scarce with as few as 43 properties for sale.&nbsp;
+Out of 12,000 single-family units located in the 91326 area zip code, **we currently have just 60 properties for sale.** Toward the end of April this year, inventory was equally scarce with as few as 43 properties for sale. And this translate to roughly 1.9 months of inventory that we had at the end of April, but we're currently sitting at 1.7 months still available.&nbsp;
 
 Historically speaking, inventory levels are usually a little higher following Easter—a trend that signifies the start of the spring selling season. &nbsp;
 
