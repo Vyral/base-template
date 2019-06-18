@@ -1,6 +1,8 @@
 ---
 layout: post
-title: 'Casey’s Corner: Interviewing Retired Baseball Star Adrian Burnside'
+title: >-
+  Casey’s Corner: Interviewing Retired Professional Baseball Player Adrian
+  Burnside
 tags:
   - Real Estate
 excerpt: >-
