@@ -5,7 +5,7 @@ date: 2019-06-18 05:16:00
 tags:
   - Real Estate
 excerpt: >-
-  Hi, I’m Kevan Cohn from Southland Real EstateI have some exciting news to
+  Hi, I’m Kevan Cohn from Southland Real Estate and I have some exciting news to
   share!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jay+White/The+White+Group+_+An+Exciting+Announcement+From+Our+New+Partner.mp4
