@@ -21,8 +21,6 @@ youtube_code: 'https://youtu.be/8SyonvbxboE'
 
 {% include youtube.html %}
 
-*Welcome to episode one of Casey’s Corner\! Today, I’m joined by retired baseball star Adrian Burnside to talk about the past, present, and future of his career.*
-
 Welcome to the very first episode of Casey’s Corner—a great new series in which I’ll be interviewing special guests from around north San Diego County about their contributions to our community. So if you know someone who has done something special for our area, whether they’re an entrepreneur, a philanthropist, artist, or anyone else you think deserves the spotlight, I’d love to have them on.
 
 Our first guest is none other than retired baseball star and founder of the Vista Baseball Academy Adrian Burnside.
@@ -45,7 +43,7 @@ Our first guest is none other than retired baseball star and founder of the Vist
 
 11:15 - Adrian explains what makes VBA unique
 
-13:40 - How to get involved and learn more about VBA (www.vbabaseball.com)&nbsp;
+13:40 - How to get involved and learn more about VBA ([www.vbabaseball.com](www.vbabaseball.com))&nbsp;
 
 14:39 - Closing with an “Aussie” slang quiz
 
