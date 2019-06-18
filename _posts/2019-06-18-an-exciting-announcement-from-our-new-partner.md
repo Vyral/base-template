@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Exciting Announcement From Our New Partner
-date: 2019-06-18 17:16:00
+date: 2019-06-18 05:16:00
 tags:
   - Real Estate
 excerpt: >-
