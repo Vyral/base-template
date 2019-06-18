@@ -3,7 +3,7 @@ title: "Andross"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-url: "https://lasells.com"
+url: "https://blog.bradkorb.com"
 
 # Build settings
 markdown: kramdown
@@ -26,7 +26,7 @@ gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-admin
-
+  - jekyll-redirect-from
 
 # Excludes
 exclude:
