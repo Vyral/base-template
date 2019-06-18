@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Know Who Your Home’s Buyer Is Before You Go to Market
-date: 2019-06-17 16:56:53
+date: 2019-06-17 16:56:00
 tags:
   - Increase Business
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: LINf1OTxIpU
+youtube_code: qgeHokv78Qc
 ---
 
 {% include youtube.html %}
