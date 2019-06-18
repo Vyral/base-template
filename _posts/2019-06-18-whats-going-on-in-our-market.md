@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/GctEc01SxQM'
 
 {% include youtube.html %}
 
-Our current market holds strong opportunities for buyers and sellers alike, and today I’ll explain why.
+<p style="text-align: center;"><em>Our current market holds strong opportunities for buyers and sellers alike, and today I’ll explain why.</em></p>
 
 For many, the month of June brings to mind warm weather, summer vacations, and the end of the school year. However, did you know that June is also National Homeownership Month?
 
