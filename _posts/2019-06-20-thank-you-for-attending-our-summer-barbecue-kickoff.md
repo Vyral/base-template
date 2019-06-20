@@ -16,6 +16,8 @@ youtube_code: D0kzbB2pwX0
 
 {% include youtube.html %}
 
-<center>A big thanks to all who stopped by!</center>
+<center><em>A big thanks to all who stopped by!</em></center>
+
+&nbsp;
 
 We at Colemere Realty Associates would like to extend our gratitude to all who attended our Summer Barbecue Kickoff\! We had a lot of fun, a lot of friends, and a lot of food—as well as some prize winners\! From our family to yours: Thank you.
