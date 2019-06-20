@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today we’d like to share just a few of the ways in which our team can help you
   sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Making+a+MOVE+or+curious+about+your+HOME+VALUE_!+(2).mp4
 pullquote: >-
   We know that when homes are priced correctly, in good condition, and are
   marketed well, they sell quickly and for top dollar.
