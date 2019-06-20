@@ -9,7 +9,8 @@ excerpt: >-
   Is purchasing a fixer-upper to be your primary residence really right for you?
   Today I’ll discuss a few talking points to think about if you’ve ever wondered
   this.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mike+Gray/Videos/Houston+Real+Estate+Agent-+Is+a+Fixer-Upper+Property+Right+for+You_.mp4
 pullquote: >-
   You need to think about the outcome you want, and the process that it will
   take to achieve that outcome.
