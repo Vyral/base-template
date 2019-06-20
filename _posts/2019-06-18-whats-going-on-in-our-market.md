@@ -27,13 +27,13 @@ Given all the changes that have taken place in our real estate market over the l
 
 **Average wages are increasing, employment rates are high, the economy is strong, and (as you may have heard) mortgage rates are still at historic lows.** On top of all of those reasons, there is also currently plenty of inventory. This means buyers have a ton of options to choose from during their home search.&nbsp;
 
-At 4.2 months’ worth of inventory available, on average, across markets nationwide, sellers still have the upper hand, but we’re definitely moving closer to a balanced market. This means those who list can no longer afford to choose any price they please and expect their home to sell quickly no matter what. Even so, it’s definitely still possible for buyers and sellers alike to earn a great deal.&nbsp;
+At 4.2 months’ worth of inventory available across markets nationwide, sellers still have the upper hand, but we’re definitely moving closer to a balanced market. This means those who list can no longer afford to choose any price they please and expect their home to sell quickly no matter what. Even so, it’s definitely still possible for buyers and sellers alike to earn a great deal.&nbsp;
 
 Of course, conditions may change soon. Studies show that 44% of sellers who had plans to sell in the next 18 months have decided to list sooner in response to recent market shifts.
 
 {% include pullquote.html %}
 
-**If you’re thinking of selling yourself, then please join me for my next Home Selling Sharks Seminar on October 12 at the Hilton Garden Inn.** There, you’ll have the chance to mingle and enjoy some great breakfast foods starting at 8:30 a.m., with the main event starting an hour later at 9:30 a.m.
+**If you're personally thinking about selling, then please join me for my next Home Selling Sharks Seminar on October 12 at the Hilton Garden Inn.** There, you’ll have the chance to mingle and enjoy some great breakfast foods starting at 8:30 a.m., with the main event starting an hour later at 9:30 a.m.
 
 You can learn more about this event (and our seminar series, in general) by visiting [www.homesharkseminar.com](http://www.homesellingsharks.com/){: target="_blank"}.&nbsp;
 
