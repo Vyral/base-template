@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/NsgX1kkQVbg'
 
 {% include youtube.html %}
 
-Our recent client appreciation event was incredible, so thank you for coming.
+<p style="text-align: center;"><em>Our recent client appreciation event was incredible, so thank you for coming.</em></p>
 
 Our recent client appreciation event was an incredible success, and it’s all thanks to you.
 
