@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Our certified pre-owned home program is perfect for homeowners who are looking
   to make a quick, profitable sale. Here’s how it works.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+Take+Advantage+of+our+Certified+Pre-Owned+Home+Program+Today.mp4
 pullquote: 'With this program, our listings sell in an average of just 14 days.'
 enclosure_type: video/mp4
 enclosure_time:
