@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are Rental Properties So Profitable?
-date:
+date: 2019-06-20 17:20:26
 tags:
 excerpt: >-
   Many real estate investors choose rental properties to maximize their ROI.
