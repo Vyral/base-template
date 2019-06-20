@@ -35,7 +35,7 @@ Keep in mind that **before you order a home inspection, sellers are supposed to 
 
 When it comes to ordering a home inspection, don’t just settle for the first bid you get—shop around\! If you go with the first bid because it’s the cheapest, you may end up getting what you paid for. It’s crucial that your home inspector does a good job when they perform their inspection and they write a detailed report that’s easy to read.&nbsp;
 
-When the inspector arrives to perform their inspection, it’s also a good idea for you and your agent to be there so they can walk you through the process in-person and discuss any issues. Additionally, this is a good opportunity for you to talk to the inspector about issues you already know about that you’d like them to explore further in depth. Furthermore, you can use this as an opportunity to speak to the neighbors and get a better idea whether the area in general is what you’re looking for.&nbsp;
+When the inspector arrives to perform their inspection, it’s also a good idea for you and your agent to be there so they can walk you through the process in-person and discuss any issues. Additionally, this is a good opportunity for you to talk to the inspector about issues you already know about that you’d like them to explore further in depth. Furthermore, you can use this as an opportunity to speak to the neighbors and get a better idea of whether the area in general is what you’re looking for.&nbsp;
 
 Depending on where you’re buying, your lender may require a Section 1 Pest Clearance for your home, which is done to make sure there’s no fungus growth or dry rot around the outside of the property. If there is, the seller may need to fix it so the home sale can proceed.
 
