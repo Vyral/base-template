@@ -48,7 +48,7 @@ lender:
   show_section: true
   header_text: Local Lender
   headshot_path: /img/lender.jpg
-  logo_path: /img/.png
+  logo_path: /img/lender.png
   logo_path_2:
   name: William Pendley<br>Loan Consultant
   brand: NMLS# 211969
