@@ -47,14 +47,14 @@ second_sidebar_CTA:
 lender:
   show_section: true
   header_text: Local Lender
-  headshot_path: http://fillmurray.com/200/200
-  logo_path: /img/logo.png
+  headshot_path: /img/lender.jpg
+  logo_path: /img/.png
   logo_path_2:
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: http://eyegoop.com
+  name: William Pendley<br>Loan Consultant
+  brand: NMLS# 211969
+  phone: 630.330.5626
+  email: Bill.Pendley@caliberhomeloans.com
+  url: https://caliberhomeloans.com/loan-consultant/illinois/downers-grove-il/wpendley
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
