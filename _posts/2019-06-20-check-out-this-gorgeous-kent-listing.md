@@ -33,6 +33,6 @@ Then, after you’ve indulged in a home-cooked meal, you and your family and fri
 
 And when you’re ready for some time alone, why not zen out in the relaxing, rain-water massage shower in the upstairs en suite.&nbsp;
 
-Of course, this is only the beginning of all the great rooms and features this home has to offer. Check out our full video tour above for a more in-depth look at this wonderful listing. And to learn even more, click here to visit the home’s online listing.&nbsp;
+Of course, this is only the beginning of all the great rooms and features this home has to offer. Check out our full video tour above for a more in-depth look at this wonderful listing. And to learn even more, [click here to visit the home’s online listing.](http://www.celestezarlingrealtor.com/search/details/2ms/10/){: target="_blank"}
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
