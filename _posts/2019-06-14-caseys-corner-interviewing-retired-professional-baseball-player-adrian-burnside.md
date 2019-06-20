@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/8SyonvbxboE'
 
 Welcome to the very first episode of Casey’s Corner—a great new series in which I’ll be interviewing special guests from around north San Diego County about their contributions to our community. So if you know someone who has done something special for our area, whether they’re an entrepreneur, a philanthropist, artist, or anyone else you think deserves the spotlight, I’d love to have them on.
 
-Our first guest is none other than retired baseball star and founder of the Vista Baseball Academy Adrian Burnside.
+Our first guest is none other than retired baseball player and founder of the Vista Baseball Academy Adrian Burnside.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the episode. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
