@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/Zx4CRXkuYhM'
 
 Now that we’ve entered the summer real estate market, we’re seeing more and more multiple-offer situations take place.
 
-As you may recall, last year we did a **[video](https://thechadandsararealestateblog.com/the-state-of-the-multiple-offer-market.html){: target="_blank"}** about this exact same topic during this time, but the difference now is that home prices have increased. Last year, it seemed like every home under $275,000 was getting multiple bids. This year, that ceiling has crept up to $325,000. Similar to last year’s market, though, homes that are priced right will still attract multiple offers.&nbsp;
+As you may recall, last year we did a <u><strong><a target="_blank" href="https://thechadandsararealestateblog.com/the-state-of-the-multiple-offer-market.html">video</a></strong></u> about this exact same topic during this time, but the difference now is that home prices have increased. Last year, it seemed like every home under $275,000 was getting multiple bids. This year, that ceiling has crept up to $325,000. Similar to last year’s market, though, homes that are priced right will still attract multiple offers.&nbsp;
 
 What does this mean for buyers and sellers? There are a few things to keep in mind.
 
