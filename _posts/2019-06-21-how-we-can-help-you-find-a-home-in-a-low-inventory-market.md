@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How We Can Help You Find a Home In a Low-Inventory Market
-date: 2019-06-21 15:22:36
+date: 2019-06-21 15:22:00
 tags:
   - Home Buyer Tips
   - Real Estate
