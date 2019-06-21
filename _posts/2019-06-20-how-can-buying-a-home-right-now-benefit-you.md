@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can Buying a Home Right Now Benefit You?
-date: 2019-06-13 21:22:00
+date: 2019-06-20 21:22:00
 tags:
   - Real Estate
 excerpt: 'Why buy a home now? Because if you do, it will start making money for you.'
