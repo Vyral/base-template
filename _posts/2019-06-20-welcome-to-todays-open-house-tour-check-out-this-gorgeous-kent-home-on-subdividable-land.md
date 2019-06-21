@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Check Out This Gorgeous Kent Listing
+title: >-
+  Welcome to today's Open House Tour: Check out this Gorgeous Kent Home on
+  Subdividable Land
 date: 2019-06-20 00:00:00
 tags:
   - Real Estate
