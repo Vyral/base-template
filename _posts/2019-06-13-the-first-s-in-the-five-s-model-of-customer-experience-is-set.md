@@ -1,11 +1,10 @@
 ---
 layout: post
-title: The 5 “S” Model of Customer Experience
+title: The First “S” in the Five-S Model of Customer Experience is Set
 date: 2019-06-13 00:00:00
 tags:
 excerpt: 'Today, let’s have a conversation about your customer experience.'
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+The+5+S+Model+of+Customer+Experience.mp4
+enclosure:
 pullquote: >-
   Whenever you’re in the process of delivering a great customer experience, you
   first present your value proposition to your clients and set your
@@ -23,7 +22,7 @@ What kind of experience do you give your clients? Is it good? Could it be great?
 
 I don’t know about you, but **every day I think about ways to provide a better customer experience** for everyone that I meet out in the community or otherwise.
 
-In the customer experience class that I’ve been teaching, **I use the “5 S” model****,** and today, I’ll demonstrate what the first of those five S’s means.
+In the customer experience class that I’ve been teaching, **I use the Five-S model****,** and today, I’ll demonstrate what the first of those five S’s means.
 
 **The first S stands for “set.”** We know that in providing a great customer experience (and having an awesome business), we first need to know our own value proposition.
 
