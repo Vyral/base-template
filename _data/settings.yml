@@ -51,10 +51,10 @@ lender:
   logo_path: /img/lender.png
   logo_path_2:
   name: William Pendley<br>Loan Consultant
-  brand: NMLS# 211969
+  brand: NMLS# 211969<br>Company License# 15622
   phone: 630.330.5626
   email: Bill.Pendley@caliberhomeloans.com
-  url: 
+  url: 1431 Opus Place 135<br>Downers Grove, IL 60515
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
