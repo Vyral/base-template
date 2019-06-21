@@ -7,8 +7,7 @@ tags:
 excerpt: >-
   It’s a great time to buy or sell, but why? Let’s get to the bottom of this
   question today.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Should+You+Buy+or+Sell+Now_.mp4
+enclosure:
 pullquote: Buying a home now means you’ll be able to build equity faster after you close.
 enclosure_type: video/mp4
 enclosure_time:
