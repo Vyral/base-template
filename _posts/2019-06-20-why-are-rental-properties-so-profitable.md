@@ -18,7 +18,7 @@ youtube_code: b0q4TXL9uBI
 
 {% include youtube.html %}
 
-There are many reasons why rental properties are a popular and profitable investment vehicle in real estate. **Here are the three most important:**
+There are many reasons why rental properties are a popular and profitable investment vehicles in real estate. **Here are the three most important:**
 
 **1\. Prices go up.** On average, the appreciation of a home is between 3% and 5% per year. Over a long-term period, that means a lot of profit.
 
