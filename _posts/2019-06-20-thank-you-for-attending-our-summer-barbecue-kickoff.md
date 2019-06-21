@@ -20,4 +20,6 @@ youtube_code: D0kzbB2pwX0
 
 &nbsp;
 
-We at Colemere Realty Associates would like to extend our gratitude to all who attended our Summer Barbecue Kickoff\! We had a lot of fun, a lot of friends, and a lot of food—as well as some prize winners\! From our family to yours: Thank you.
+We at Colemere Realty Associates would like to extend our gratitude to all who attended our Summer Barbecue Kickoff\! We had a lot of fun, spent time with a lot of friends, and ate a lot of food—some of you even won prizes\! From our family to yours: Thank you.
+
+As always, if you have any questions or would like any information about how we can meet your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
