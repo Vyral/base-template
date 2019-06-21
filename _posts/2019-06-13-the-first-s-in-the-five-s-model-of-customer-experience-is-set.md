@@ -4,7 +4,8 @@ title: The First “S” in the Five-S Model of Customer Experience is Set
 date: 2019-06-13 00:00:00
 tags:
 excerpt: 'Today, let’s have a conversation about your customer experience.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+The+First+S+in+the+Five-S+Model+of+Customer+Experience+is+Set.mp4
 pullquote: >-
   Whenever you’re in the process of delivering a great customer experience, you
   first present your value proposition to your clients and set your
