@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-11-now-np.jpg
-youtube_code: vM1jBV1r4iA
+youtube_code: b7lEzn64uUQ
 ---
 
 {% include youtube.html %}
