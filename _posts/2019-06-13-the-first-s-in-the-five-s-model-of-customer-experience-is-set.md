@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-improving-your-customer-experience-youtuve.jpg
-youtube_code: 'https://youtu.be/zh7gM_IKEME'
+youtube_code: 'https://youtu.be/qvo4xuSxJMY'
 ---
 
 {% include youtube.html %}
