@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Hire a High-Quality Realtor
-date: 2019-06-21 05:46:00
+date: 2019-06-20 05:46:00
 tags:
   - Real Estate
   - Home Buyer Tips
