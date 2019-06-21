@@ -21,7 +21,7 @@ youtube_code: Y6Zoq_Ul5Kw
 
 {% include youtube.html %}
 
-27035 52nd Ave S, Kent, WA 98032 has hit the market, and we believe this incredible estate house may be your perfect future home.&nbsp;
+The property located at 27035 52nd Ave S, Kent, WA 98032 has hit the market, and we believe this incredible estate house may be your perfect future home.&nbsp;
 
 With incredible 10-foot ceilings, three fireplaces, and large windows throughout, this 4-bedroom, 2.75-bathroom home is very spacious—making it the perfect place for relaxing with family or entertaining friends. And if the great outdoors is more your style, you’ll be thrilled to know that this property sits on three acres, giving you plenty of outdoor space, as well.&nbsp;
 
