@@ -23,7 +23,7 @@ youtube_code: Y6Zoq_Ul5Kw
 
 27035 52nd Ave S, Kent, WA 98032 has hit the market, and we believe this incredible estate house may be your perfect future home.&nbsp;
 
-With incredible 10-foot ceilings, three fireplaces, and large windows throughout, this 4 bedroom, 2.75 bathroom home is very spacious—making it the perfect place for relaxing with family or entertaining friends. And if the great outdoors is more your style, you’ll be thrilled to know that this property sits on three acres, giving you plenty of outdoor space, as well.&nbsp;
+With incredible 10-foot ceilings, three fireplaces, and large windows throughout, this 4-bedroom, 2.75-bathroom home is very spacious—making it the perfect place for relaxing with family or entertaining friends. And if the great outdoors is more your style, you’ll be thrilled to know that this property sits on three acres, giving you plenty of outdoor space, as well.&nbsp;
 
 Speaking of entertaining, the property’s kitchen is as functional as it is beautiful. With a four-burner gas stove and griddle that converts into an indoor barbecue, chefs of every skill level are sure to enjoy this versatile space.
 
