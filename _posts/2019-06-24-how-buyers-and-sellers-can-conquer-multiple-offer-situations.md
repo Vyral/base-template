@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers and Sellers Can Conquer Multiple-Offer Situations
-date: 2019-06-28 16:52:00
+date: 2019-06-24 06:02:00
 tags:
   - Real Estate
   - Home Buyer Tips
