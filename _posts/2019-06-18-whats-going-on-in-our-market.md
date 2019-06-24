@@ -8,13 +8,13 @@ excerpt: >-
   Our current market holds strong opportunities for buyers and sellers alike,
   and today I’ll explain why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update.mp4
+  https://vyralmarketing.s3.amazonaws.com/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update+(1).mp4
 pullquote: We’re definitely moving closer to a balanced market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/GctEc01SxQM'
+youtube_code: 'https://youtu.be/IL0ED9nwkjk'
 ---
 
 {% include youtube.html %}
