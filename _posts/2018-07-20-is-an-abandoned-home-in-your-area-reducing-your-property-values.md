@@ -4,7 +4,7 @@ title: Is an Abandoned Home in Your Area Reducing Your Property Values?
 date: 2018-07-20 00:00:00
 tags:
   - Real Estate
-  - Home Owner Tips
+  - Homeowner Tips
 excerpt: >-
   If there’s an abandoned house in your neighborhood that is pulling property
   prices down, we can help provide options for how to improve the situation.
