@@ -1,15 +1,16 @@
 ---
 layout: post
-title:
+title: When Is the Best Time to Sell
 tags:
-excerpt:
+  - Real Estate
+excerpt: 'Watch: When should you really put your home on the market?'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: ka7j_Apj0wY
 ---
 
 {% include youtube.html %}
