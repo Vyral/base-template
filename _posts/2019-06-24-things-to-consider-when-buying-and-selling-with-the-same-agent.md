@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/YIDyVz67SrQ'
 
 {% include youtube.html %}
 
-If you’re tempted to hire one agent to help you sell your current home and buy your new one, listen up. There are a few things you should take into consideration first.
+<p style="texct-align: center;"><em>If you’re tempted to hire one agent to help you sell your current home and buy your new one, listen up. There are a few things you should take into consideration first.</em></p>
 
 When thinking about using the same agent to help you sell your current home and buy a new one, there are some very important questions to consider. **Although it seems like the easier option, you need to know about a few things beforehand.**
 
