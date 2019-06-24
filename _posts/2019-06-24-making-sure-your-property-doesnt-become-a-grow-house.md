@@ -4,6 +4,7 @@ title: Making Sure Your Property Doesn’t Become a Grow House
 date: 2019-06-24 00:00:00
 tags:
   - Real Estate
+  - Homeowner Tips
 excerpt: >-
   As a landlord, if you don’t want your property to turn into a grow house, you
   should hire a professional property manager to oversee it.
