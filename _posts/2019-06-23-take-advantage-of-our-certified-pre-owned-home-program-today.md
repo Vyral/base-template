@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take Advantage of our Certified Pre-Owned Home Program Today
-date: 2019-06-06 00:00:00
+date: 2019-06-23 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
