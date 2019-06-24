@@ -20,7 +20,9 @@ youtube_code: SkQ74wRfpdM
 
 {% include youtube.html %}
 
-<center>As a landlord, if you don’t want your property to turn into a grow house, you should hire a professional property manager to oversee it.</center>
+<center><em>As a landlord, if you don&rsquo;t want your property to turn into a grow house, you should hire a professional property manager to oversee it.</em></center>
+
+&nbsp;
 
 More and more tenants are moving into properties here in California with the intent of turning them into grow houses. For those who aren’t aware, a grow house is a property someone uses specifically to farm Cannabis.
 
