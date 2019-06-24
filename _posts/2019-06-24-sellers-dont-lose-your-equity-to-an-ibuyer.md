@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/aSrQrFPbEjU'
 
 {% include youtube.html %}
 
-The increased number of iBuyers in our market cost sellers $14 billion in equity last year, so today I’d like to share how you can protect yours.
+<p style="text-align: center;"><em>The increased number of iBuyers in our market cost sellers $14 billion in equity last year, so today I’d like to share how you can protect yours.</em></p>
 
 I recently read an article that explained how **sellers lost $14 billion in equity last year because of the increasing number of iBuyers entering our market.** Selling to these companies is usually advertised as a convenient deal, but is actually a very ineffective move for today’s sellers.&nbsp;
 
