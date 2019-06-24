@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refinancing in Our Current Market
-date: 2019-06-21 19:42:10
+date: 2019-06-21 19:42:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fiber-mortgage-youtube.jpg
-youtube_code: R9Z6DEH5Gr8
+youtube_code: ggTm6RJv6sc
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ Interest rates are extremely low in our current market, which means now is a gre
 
 First of all, **you can lower your monthly mortgage payments.&nbsp;**
 
-Second, **you can decrease the terms of your mortgage.** Jeff, for example, has owned his home for two years, and he was able to shave eight years off his mortgage when he recently refinanced.&nbsp;
+Second, **you can decrease the term of your mortgage.** Jeff, for example, has owned his home for two years, and he was able to shave eight years off his mortgage when he recently refinanced.&nbsp;
 
 {% include pullquote.html %}
 
