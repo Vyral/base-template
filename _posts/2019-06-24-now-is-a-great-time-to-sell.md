@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now Is a Great Time to Sell!
-date: 2019-06-25 13:04:26
+date: 2019-06-24 13:04:00
 tags:
   - Real Estate
   - Home Seller Tips
