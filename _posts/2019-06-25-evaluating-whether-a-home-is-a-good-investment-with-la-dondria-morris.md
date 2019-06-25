@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Evaluating Whether a Home Is a Good Investment: With La Dondria Morris'
-date: 2019-06-25 18:36:50
+date: 2019-06-25 18:36:00
 tags:
   - Real Estate
 excerpt: >-
