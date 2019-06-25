@@ -20,7 +20,7 @@ youtube_code: _vdLqK5wj_w
 
 {% include youtube.html %}
 
-If you’re interested in buying a home and you need to save for a down payment, there are five handy ways you can do so.&nbsp;
+If you’re interested in buying a home and you need to save for a down payment, there are five handy ways you can do so. For a few additional tips,[check out the first part of this message here.](https://thefejerangroupvideoblog.com/strategies-for-saving-up-for-a-down-payment-part-1.html){: target="_blank"}
 
 First, remember that you don’t need to put down at least 20% down to purchase a home. That’s a common misconception many people still believe, but there are loans out there that require as little as 10%, 5%, or even 0% down. What you need to qualify for in terms of your down payment depends on how expensive your home purchase is.&nbsp;
 
