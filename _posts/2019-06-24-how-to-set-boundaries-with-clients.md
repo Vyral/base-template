@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Set Boundaries With Clients
-date: 2019-06-24 15:54:52
+date: 2019-06-24 15:54:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -29,7 +29,7 @@ But how do you do so? What’s the best way to establish boundaries with your cl
 
 There are three main steps you need to take:&nbsp;
 
-**1\. Think about what you want your life to be like.** For some, this means being off-the-clock by a certain time of night. If you don’t want clients to text you at 11 o’clock at night, then make it clear from the beginning that you’re only available until 6 p.m. Making a clear distinction between which points in your day (and your week) are dedicated to clients and which points are dedicated to your personal life will be essential to maintaining a good work/life balance.&nbsp;
+**1\. Think about what you want your life to be like.** For some, this means being off-the-clock by a certain time of night. If you don’t want clients to text you at 11 p.m., then make it clear from the beginning that you’re only available until 6 p.m. Making a clear distinction between which points in your day (and your week) are dedicated to clients and which points are dedicated to your personal life will be essential to maintaining a good work/life balance.&nbsp;
 
 {% include pullquote.html %}
 
