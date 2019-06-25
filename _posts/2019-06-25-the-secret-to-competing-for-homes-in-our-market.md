@@ -32,3 +32,7 @@ Once that’s done, have them present the offer in person to the listing agent a
 If your agent is afraid to make the offer because they’re afraid there is too much competition out there, give me a call and I’d be glad to help you close on the home you want.&nbsp;
 
 As always, if you have any questions about this or any other real estate topic, don’t hesitate to reach out to me as well. I’d love to hear from you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
