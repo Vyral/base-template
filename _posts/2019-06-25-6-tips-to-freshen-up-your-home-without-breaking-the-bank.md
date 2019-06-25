@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/RpJMwOAf4YU'
 
 {% include youtube.html %}
 
-If you’d like to improve your home’s saleability, I have six tips to help you.
+<p style="text-align: center;"><em>If you’d like to improve your home’s saleability, I have six tips to help you.</em></p>
 
 Here are six tips to help you freshen up your home and improve its saleability in buyers’ eyes:&nbsp;
 
