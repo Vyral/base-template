@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/YIDyVz67SrQ'
+youtube_code: 'https://youtu.be/rqo5MoXJZ_c'
 ---
 
 {% include youtube.html %}
@@ -32,4 +32,4 @@ First, you need to know if they specialize in both the area where you sell your 
 
 If you’re moving out of the area, the agent may not even be able to help you because they aren’t licensed there, but they should be able to refer you to someone who can.
 
-**Make sure you take all of this into consideration when thinking about using the same agent to help you buy and sell a home.** If you have any questions for me in the meantime or want to know how our team can help you with both transactions at once, watch this short video.
+**Make sure you take all of this into consideration when thinking about using the same agent to help you buy and sell a home.** If you have any questions for me in the meantime or want to know how our team can help you with both transactions at once, please don't hesitate to reach out to us.
