@@ -10,7 +10,7 @@ excerpt: >-
   Want a home great for entertaining and relaxing alike? Look no further than
   27035 52nd Ave S, Kent, WA 98032
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Check+Out+This+Gorgeous+CITY+Listing.mp4
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/Welcome+to+today's+Open+House+Tour%2C+Check+out+this+Gorgeous+Kent+Home+on+Subdividable+Land.mp4
 pullquote: >-
   This gorgeous listing is the perfect place for relaxing with family or
   entertaining friends.
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-20-featured-listing-np.jpg
-youtube_code: Y6Zoq_Ul5Kw
+youtube_code: 1X8mchWenBc
 ---
 
 {% include youtube.html %}
