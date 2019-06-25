@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Meet Our Listing Coordinator: MacKenzie Sottini'
-date: 2019-06-25 16:56:53
+date: 2019-06-25 16:56:00
 tags:
   - Real Estate
 excerpt: >-
