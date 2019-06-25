@@ -34,7 +34,7 @@ Second, **make sure your home is clean**—clean countertops, dressers, bathroom
 
 Now, what about preparing for a pre-approval? According to Bill \_\_\_\_ of Caliber Home Loans, there are three factors lenders look at that you need to examine as well:
 
-**1\. Income:** You need to have a monthly income in order to pay your bills.<br>
+**1\. Income:** You need to have a monthly income in order to pay your bills.
 
 **2\. Assets:** You need to have the funds available to pay your down payment and your closing costs.
 
