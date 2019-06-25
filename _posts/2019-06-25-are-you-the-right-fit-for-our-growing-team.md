@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/B-6ttx7Apyk'
 
 {% include youtube.html %}
 
-Do you have what it takes to join our team? If so, this message is for you.
+<p style="text-align: center;"><em>Do you have what it takes to join our team? If so, this message is for you.</em></p>
 
 Our team is expanding, which means we’re on the search for new members. Do you fit the bill? In this message, I’ll explore what we’re looking for (and what we aren’t), as well as a little bit more about what we do.&nbsp;
 
