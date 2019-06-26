@@ -23,13 +23,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**How to Build a Profitable Team: Checklists to Successful Hiring** — [Video](https://www.youtube.com/watch?v=cURa-Q2Isi8&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/0l47k86hlh02ipl/AABQecYB8y7-s-QbtXKYArjRa?dl=0)
+**The Simple Form to Make Sure You Are Making Money!** — [Video](https://www.youtube.com/watch?v=GakbwHUneTg&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/tj5vrrmzoxz9v7o/AAD1ICYkq-adbMVdOCRh35QZa?dl=0)
 
-If you find yourself working too many hours and getting burned out from work, you’re not alone. You probably already know that the next step is to build out a team. Obviously, this will allow you to create time for you to work in your unique ability, to cater to your clients, and to have a balanced life. If you’re struggling to build out your team, I encourage you to watch this 30-minute webinar discussing what takes to build a successful team, and how it will help you increase profits, give your clients better service, and ultimately, give you more free time.
+We all know that implementing systems and structure will help us build a successful business, and one way to implement that structure is through profit and loss forms. Profit and loss may not be the most exciting aspect of any business, but it is an important one. Learning how your money flows will allow you to shift your mindset from that of a salesperson to that of a businessperson. If you’re struggling with tracking results and expenses in your business, I encourage you to check out this 30-minute webinar discussing “The Simple Form to Ensure You Are Making Money”.
 
-<iframe width="1045" height="588" src="https://www.youtube.com/embed/cURa-Q2Isi8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/GakbwHUneTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Previous Webinars:
+
+**The Simple Form to Make Sure You Are Making Money!, June 2019** — [Video](https://www.youtube.com/watch?v=GakbwHUneTg&feature=youtu.be) — [Resources](https://www.dropbox.com/sh/tj5vrrmzoxz9v7o/AAD1ICYkq-adbMVdOCRh35QZa?dl=0)
 
 **How to Build a Profitable Team, May 2019** — [Video](https://www.youtube.com/watch?v=cURa-Q2Isi8&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/0l47k86hlh02ipl/AABQecYB8y7-s-QbtXKYArjRa?dl=0)
 
