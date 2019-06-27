@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Some of Ruthy Taylor’s Secrets to Success?
-date: 2019-06-27 18:36:47
+date: 2019-06-26 18:36:00
 tags:
 excerpt: >-
   What are Ruthy Taylor’s secrets to success? That’s what we’re about to find
