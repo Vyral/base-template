@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/6-11-staging-np.jpg
+youtube_alternate_image: /uploads/6-27-staging-np.jpg
 youtube_code: JNhWdWsz11g
 ---
 
