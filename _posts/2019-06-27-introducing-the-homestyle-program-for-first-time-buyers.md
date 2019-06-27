@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Homestyle Program for First-Time Buyers
-date: 2019-06-27 18:04:46
+date: 2019-06-27 18:04:00
 tags:
   - Real Estate
 excerpt: >-
