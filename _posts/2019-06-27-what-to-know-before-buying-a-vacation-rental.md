@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know Before Buying a Vacation Rental
-date: 2019-06-27 15:51:02
+date: 2019-06-27 15:51:00
 tags:
   - Real Estate
 excerpt: >-
