@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great Opportunity for a Successful Real Estate Career
-date: 2019-06-27 21:32:13
+date: 2019-06-27 21:32:00
 tags:
   - Real Estate
 excerpt: >-
