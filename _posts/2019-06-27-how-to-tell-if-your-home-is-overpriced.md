@@ -19,7 +19,9 @@ youtube_code: XDND9P_8AzA
 
 {% include youtube.html %}
 
-<center>There are three signs you need to watch out for to know whether your home is overpriced.</center>
+<center><em>There are three signs you need to watch out for to know whether your home is overpriced.</em></center>
+
+&nbsp;
 
 If you’re putting your home on the market, it’s important that you price it correctly from the start. Overpricing it can cost you tens of thousands of dollars—not just in terms of carrying costs, but because you’ll end up chasing the market downward.
 
