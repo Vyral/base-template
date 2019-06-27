@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Is the Ideal Time to Upgrade Your Home
-date: 2019-06-27 17:22:43
+date: 2019-06-27 17:22:00
 tags:
   - Real Estate
 excerpt: >-
