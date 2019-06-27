@@ -19,6 +19,6 @@ youtube_code: EKxJZmikxeg
 
 {% include youtube.html %}
 
-I recently stopped by the site of Ison Village—a new duplex subdivision being built here in Caldwell, and I can already tell this is going to be a great place to live. The subdivision is conveniently located near many different shops, restaurants, and, of course, Caldwell High School. So if you’re looking for a home that’s in the heart of Caldwell, Ison Village could be the perfect spot for you. Better still, these properties are perfect for anyone seeking to cash in on their equity using a 1031 Exchange. If you have any other questions about this subdivision or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. To learn more and see a sneak peek, watch this short video.<br>&nbsp;
+I recently stopped by the site of Ison Village—a new duplex subdivision being built here in Caldwell, and I can already tell this is going to be a great place to live. The subdivision is conveniently located near many different shops, restaurants, and, of course, Caldwell High School. So if you’re looking for a home that’s in the heart of Caldwell, Ison Village could be the perfect spot for you. Better still, these properties are perfect for anyone seeking to cash in on their equity using a 1031 Exchange. If you have any other questions about this subdivision or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&nbsp;<br>&nbsp;
 
 &nbsp;
