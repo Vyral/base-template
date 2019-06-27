@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Today I want to give you a real quick update on the market. It’s a great time
   to be a seller! Find out why right here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Now+Is+a+Great+Time+to+Sell!.mp4
 pullquote: >-
   Now is the best time to make a move if you have a family and want to get
   settled in before school starts again in the fall.
