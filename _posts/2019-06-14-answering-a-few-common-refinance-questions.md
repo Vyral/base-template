@@ -12,7 +12,7 @@ pullquote: 'Sometimes when you refinance, the property isn’t always put back i
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/refinancing-questions-youtube.jpg
 youtube_code: AdlH-_EMGus
 ---
 
