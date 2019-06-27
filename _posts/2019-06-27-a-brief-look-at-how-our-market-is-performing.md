@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Brief Look at How Our Market Is Performing
-date: 2019-06-27 15:50:02
+date: 2019-06-27 15:50:00
 tags:
   - Market Update
 excerpt: >-
