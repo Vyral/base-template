@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips for Renting Out Your Vacation Home
-date: 2019-06-27 16:17:19
+date: 2019-06-27 16:17:00
 tags:
   - Real Estate
 excerpt: >-
