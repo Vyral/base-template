@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Sneak Peek at Ison Village
-date: 2019-06-27 14:48:11
+date: 2019-06-27 14:48:00
 tags:
   - Real Estate
 excerpt: >-
