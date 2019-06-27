@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Avoid Falling for a Common Rental Scam
-date: 2019-06-27 21:25:55
+date: 2019-06-27 21:25:00
 tags:
   - Real Estate
 excerpt: >-
