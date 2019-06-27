@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going On in the Market?
-date: 2019-06-27 17:32:57
+date: 2019-06-27 17:32:00
 tags:
   - Real Estate
 excerpt: >-
