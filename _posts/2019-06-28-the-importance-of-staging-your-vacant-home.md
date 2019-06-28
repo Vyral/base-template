@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Staging Your Vacant Home
-date:
+date: 2019-06-28 14:56:36
 tags:
   - Real Estate
   - Home Seller Tips
