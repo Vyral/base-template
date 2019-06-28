@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/fX-TDLlRAbc'
 
 {% include youtube.html %}
 
-How do appraisals and online home valuations work? Today I’ll answer these questions for you.
+<p style="text-align: center;"><em>How do appraisals and online home valuations work? Today I’ll answer these questions for you.</em></p>
 
 When it comes to determining home values, how do appraisals work? What about online valuation systems?&nbsp;
 
