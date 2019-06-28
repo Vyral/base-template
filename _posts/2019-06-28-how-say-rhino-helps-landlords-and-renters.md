@@ -18,7 +18,9 @@ youtube_code: 1827P3J3vbo
 
 {% include youtube.html %}
 
-<center>Say Rhino is a security deposit alternative that can help both landlords and renters—here’s how.</center>
+<center><em>Say Rhino is a security deposit alternative that can help both landlords and renters&mdash;here&rsquo;s how.</em></center>
+
+&nbsp;
 
 What is Say Rhino and how can it benefit buyers, investors, renters, and landlords?
 
