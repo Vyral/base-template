@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are three signs you need to watch out for to know whether your home is
   overpriced.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/How+to+Tell+if+Your+Home+Is+Overpriced.mp4
 pullquote: Overpricing it can cost you tens of thousands of dollars.
 enclosure_type: video/mp4
 enclosure_time:
