@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips to Save Up for a Down Payment
-date: 2019-06-25 21:06:40
+date: 2019-06-25 21:06:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -31,6 +31,6 @@ The first thing we’d have you do is meet with one of our preferred lenders to 
 
 Additionally, we all have a lot of stuff that we don’t use. Have a yard sale, declutter your life, and make some money for your down payment in the process.
 
-Shrinking your T.V. package is also a good idea. Switch from cable to a streaming service or just use Netflix or Hulu to minimize your bill.&nbsp;
+Shrinking your TV package is also a good idea. Switch from cable to a streaming service or just use Netflix or Hulu to minimize your bill.&nbsp;
 
 All of these tips are simple, temporary things you can do to help you save enough for that down payment. If you would like some more suggestions or need any other real estate-related advice, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
