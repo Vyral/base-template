@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 1st Step to Take When Buying a Home
-date: 2019-06-28 18:40:34
+date: 2019-06-28 06:40:00
 tags:
   - Real Estate
 excerpt: What’s the first step you should take when buying a home? Find out today.
