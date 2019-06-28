@@ -9,7 +9,7 @@ excerpt: >-
   There are three signs you need to watch out for to know whether your home is
   overpriced.
 enclosure:
-pullquote: Overpricing it can cost you tens of thousands of dollars
+pullquote: Overpricing it can cost you tens of thousands of dollars.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
