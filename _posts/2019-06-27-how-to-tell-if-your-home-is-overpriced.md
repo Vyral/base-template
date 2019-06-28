@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Tell If Your Home Is Overpriced
+title: How to Tell if Your Home Is Overpriced
 date: 2019-06-27 00:00:00
 tags:
   - Real Estate
