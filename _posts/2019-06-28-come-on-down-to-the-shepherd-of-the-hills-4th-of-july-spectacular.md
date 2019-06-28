@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/8gg_cwhEmDY'
 
 {% include youtube.html %}
 
-If you don’t have plans this Fourth of July, I have a family-friendly celebration you might be interested in.
+<p style="text-align: center;"><em>If you don’t have plans this Fourth of July, I have a family-friendly celebration you might be interested in.</em></p>
 
 If you’re looking for something fun to do with your family this Fourth of July, **the Shepherd of the Hills church here in Porter Ranch is holding their 21st annual 4th of July Spectacular**, and I’m inviting you to come on down and join the festivities.&nbsp;
 
