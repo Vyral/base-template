@@ -9,7 +9,7 @@ excerpt: >-
   Today I’ll tell you how to prepare your home for a showing and prepare for
   getting a pre-approval.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Preparing+Your+Home+for+a+Showing+%26+Getting+a+Pre-Approval+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Preparing+Your+Home+for+a+Showing+%26+Getting+a+Pre-Approval+(2).mp4
 pullquote: >-
   Depending on your price range, cleanliness can get you anywhere from $5,000 to
   $50,000 more for your home.
