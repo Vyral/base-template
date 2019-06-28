@@ -12,8 +12,8 @@ pullquote: >-
   also a great time to be a buyer.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/may-2019-update-youtube.jpg
 youtube_code: HFRjwycCMhQ
 ---
 
