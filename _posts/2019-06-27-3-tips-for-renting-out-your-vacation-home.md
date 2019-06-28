@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/3-tips-for-vacation-homeowners-looking-to-rent-this-summer-youtube.jpg
-youtube_code: N8aZsvtIuA4
+youtube_code: eo9Ohr_NuUE
 ---
 
 {% include youtube.html %}
