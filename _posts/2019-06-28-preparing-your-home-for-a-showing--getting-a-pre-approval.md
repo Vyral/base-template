@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing Your Home for a Showing & Getting a Pre-Approval
-date:
+date: 2019-06-28 15:43:18
 tags:
   - Real Estate
   - Home Seller Tips
