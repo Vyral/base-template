@@ -28,7 +28,7 @@ The first thing they want to know is what schools they should be in. If they ask
 
 {% include pullquote.html %}
 
-Another source is the Portland Monthly School Guide. Though it’s a few years old, it breaks things down by the numbers which can be very helpful. It has a lot of statistical information for you to compare with other schools in the area.
+Another source is the [Portland Monthly School Guide.](https://www.pdxmonthly.com/articles/2015/1/28/portlands-best-schools-public-private-february-2015){: target="_blank"} Though it’s a few years old, it breaks things down by the numbers which can be very helpful. It has a lot of statistical information for you to compare with other schools in the area.
 
 **The other thing I really enjoy about being in real estate is that I have a great network of clients who have kids in schools all over the area.** If you’re interested in a certain school, I’d be happy to connect you with a client who has or has had kids at the school so you can get some more of your questions answered.
 
