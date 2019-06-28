@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/X07JDuLMaCw'
 
 {% include youtube.html %}
 
-Buying and selling a home at the same time can be tough, but there are plenty of solutions to help make it easier.
+<p style="text-align: center;"><em>Buying and selling a home at the same time can be tough, but there are plenty of solutions to help make it easier.</em></p>
 
 In order to buy and sell a home at the same time, the one thing you need is a game plan. If you need to sell your current home first to be able to make a purchase, **you’re probably going to end up making a contingent offer.**
 
