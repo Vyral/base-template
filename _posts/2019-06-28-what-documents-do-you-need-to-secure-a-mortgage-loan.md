@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Documents Do You Need to Secure a Mortgage Loan?
-date: 2019-06-28 20:04:23
+date: 2019-06-28 00:00:00
 tags:
   - Real Estate
 excerpt: >-
