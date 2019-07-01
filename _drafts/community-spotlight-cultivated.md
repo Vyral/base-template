@@ -18,11 +18,11 @@ youtube_code: U13yxKu5qgU
 
 {% include youtube.html %}
 
-We like to refer to Cultivated as a hidden gem inside a hidden gem—here’s why.
+<center>We like to refer to Cultivated as a hidden gem inside a hidden gem—here’s why.</center>
 
 For our latest community spotlight, we stopped by the boutique called Cultivated and spoke with owner Tiombe Paige about what this great store has to offer.
 
-Cultivated was created based on the idea that all of Tiombe’s shopping was done outside of where she lived. She was looking for modern, eclectic clothing, home decor, and gift items, but she couldn’t find them in the stores our area. **Rather than continuing to travel outside the county, she decided to bring the business here herself**. &nbsp;At Cultivated here in downtown Westminster, you’ll find all kinds of unique apparel, decor, and gifts.
+Cultivated was created based on the idea that all of Tiombe’s shopping was done outside of where she lived. She was looking for modern, eclectic clothing, home decor, and gift items, but she couldn’t find them in the stores our area. **Rather than continuing to travel outside the county, she decided to bring the business here herself**. At Cultivated here in downtown Westminster, you’ll find all kinds of unique apparel, decor, and gifts.
 
 Tiombe is a big believer in keeping your money where you live, and thinks that our location is a hidden gem in terms of its proximity to other major metropolitan areas. She’s been able to meet some amazing people over the last four years.
 
