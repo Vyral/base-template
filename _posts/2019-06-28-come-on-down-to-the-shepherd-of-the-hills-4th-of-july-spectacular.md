@@ -8,7 +8,7 @@ excerpt: >-
   If you don’t have plans this Fourth of July, I have a family-friendly
   celebration you might be interested in.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+4th+of+July+Festivities.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+4th+of+july.mp4
 pullquote: >-
   Their 21-minute fireworks finale after sundown is the main event, but there
   are plenty of fun activities taking place beforehand that both kids and adults
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/8gg_cwhEmDY'
+youtube_code: 'https://youtu.be/tmj6tTBj08Q'
 ---
 
 {% include youtube.html %}
