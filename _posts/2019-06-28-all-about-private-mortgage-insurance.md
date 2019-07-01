@@ -1,7 +1,7 @@
 ---
 layout: post
 title: All About Private Mortgage Insurance
-date: 2019-06-28 18:13:19
+date: 2019-06-28 18:13:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/pmi-youtube.jpg
-youtube_code: 3DKnSmsTYOY
+youtube_code: mHV3k1GUrPY
 ---
 
 {% include youtube.html %}
 
 Today I want to talk to you about **private mortgage insurance,** or PMI. Whether it’s your first or fifth time buying a home, it’s an important term to understand before making your purchase.
 
-With the number of loans you can get to buy a home that don’t require 20% down payments, you’re seeing more PMI. **Freddie Mac describes PMI as an insurance policy that protects the lender in case you default on the loan.** For every $100,000, it can charge you between $30 and $70 per month.&nbsp;
+With the number of home loans available that don’t require 20% down payments, you’re seeing more PMI. **Freddie Mac describes PMI as an insurance policy that protects the lender in case you default on the loan.** For every $100,000 you borrow, you'll pay between $30 and $70 per month.&nbsp;
 
 **Once you reach 20% equity in your home, you can have your PMI removed.** You’ll have to hire an appraiser to assess your home’s value, but the few hundred dollars you spend on doing that can save you thousands on the life of your loan.
 
