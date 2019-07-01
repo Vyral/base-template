@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Come on Down to the Shepherd of the Hills’ 4th of July Spectacular!
+title: Come on Down to the Shepherd Church’s 4th of July Spectacular!
 date: 2019-06-28 20:07:57
 tags:
   - Events
@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/8gg_cwhEmDY'
 
 <p style="text-align: center;"><em>If you don’t have plans this Fourth of July, I have a family-friendly celebration you might be interested in.</em></p>
 
-If you’re looking for something fun to do with your family this Fourth of July, **the Shepherd of the Hills church here in Porter Ranch is holding their 21st annual 4th of July Spectacular**, and I’m inviting you to come on down and join the festivities.&nbsp;
+If you’re looking for something fun to do with your family this Fourth of July, **the Shepherd (of the Hills) Church here in Porter Ranch is holding their 21st annual 4th of July Spectacular**, and I’m inviting you to come on down and join the festivities.&nbsp;
 
 Their 21-minute fireworks finale after sundown is the main event, but there are plenty of fun activities taking place beforehand that both kids and adults can enjoy, including:
 
