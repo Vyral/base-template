@@ -17,7 +17,7 @@ youtube_code: I7ZRxpbYAvc
 
 {% include youtube.html %}
 
-What happens after a home inspection? Find out today.
+<center>What happens after a home inspection? Find out today.</center>
 
 Many people understand what occurs during a home inspection, but not as many know what happens after.
 
