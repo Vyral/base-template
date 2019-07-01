@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-28---steven-rosado---yt.jpg
-youtube_code: WQQ7MHwL3KY
+youtube_code: WgXQECY8zK8
 ---
 
 {% include youtube.html %}
