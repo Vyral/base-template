@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   As a landlord, if you don’t want your property to turn into a grow house, you
   should hire a professional property manager to oversee it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Making+Sure+Your+Property+Doesnt+Become+a+Grow+House.mp4
 pullquote: >-
   If you want to save time, money, and a lot of headaches, leave property
   management to the professionals.
