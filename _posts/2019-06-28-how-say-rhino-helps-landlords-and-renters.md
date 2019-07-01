@@ -8,12 +8,14 @@ excerpt: >-
   Say Rhino is a security deposit alternative that can help both landlords and
   renters—here’s how.
 enclosure:
-pullquote:
+pullquote: >-
+  With Say Rhino, they take care of all the security deposit issues before,
+  during, and after the rental process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/6-28---steven-rosado---yt.jpg
-youtube_code: 1827P3J3vbo
+youtube_code: WQQ7MHwL3KY
 ---
 
 {% include youtube.html %}
@@ -44,7 +46,7 @@ Let’s say you ask for $2,000 for your property along with a one-and-a-half mon
 
 Up front, that makes your property $1,500 more expensive than the luxury unit. Renters will then discount this amount from their rent and look at it as a “net effective.” In their mind, that $2,500 apartment is now $115 less per month over the course of an entire year.
 
-What’s more, some of these buildings offer one or two months of free rent. One month of free rent on a $2,500 apartment deducts an additional $192 in monthly costs, so the net effective rent in this case would be $2,193. If you had to choose between a $2,193 apartment with all those amenities and a $3,500 apartment without any of them, which would you choose?
+What’s more, some of these buildings offer one or two months of free rent. One month of free rent on a $2,500 apartment deducts an additional $192 in monthly costs, so the net effective rent, in this case, would be $2,193. If you had to choose between a $2,193 apartment with all those amenities and a $3,500 apartment without any of them, which would you choose?
 
 Therein lies the problem, but **Say Rhino levels the playing field by making moving into your property way more cost effective**. I myself am signing up for this product, and if I have a good applicant who wants to take advantage of it, I’ll use it because I think it’s a win-win situation for everyone involved.
 
