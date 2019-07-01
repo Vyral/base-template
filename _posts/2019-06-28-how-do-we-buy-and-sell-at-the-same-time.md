@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do We Buy and Sell at the Same Time
+title: How Do We Buy and Sell at the Same Time?
 date: 2019-06-28 14:03:19
 tags:
   - Real Estate
