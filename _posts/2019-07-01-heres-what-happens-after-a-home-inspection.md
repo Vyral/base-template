@@ -17,9 +17,11 @@ youtube_code: I7ZRxpbYAvc
 
 {% include youtube.html %}
 
-<center>What happens after a home inspection? Find out today.</center>
+<center><em>What happens after a home inspection? Find out today.</em></center>
 
-Many people understand what occurs during a home inspection, but not as many know what happens after.
+&nbsp;
+
+Many people understand what occurs *during* a home inspection, but not as many know what happens after.
 
 First, the inspector will provide the buyer with an inspection report detailing any and all deficiencies they observed.
 
