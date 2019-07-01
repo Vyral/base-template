@@ -30,7 +30,7 @@ First, **make sure everything about the exterior of your front door is perfect.*
 
 {% include pullquote.html %}
 
-Second, **make sure your home is clean**—clean countertops, dressers, bathrooms, etc. The home should even have a clean fragrance to it. Depending on your price range, cleanliness can get you anywhere from $5,000, $10,000, or $15,000 more for your home. Remember to hire professionals for this work. We have plenty of vendors we’d love to refer you to who’d do an excellent job.&nbsp;
+Second, **make sure your home is clean**—clean countertops, dressers, bathrooms, etc. The home should even have a clean fragrance to it. Depending on your price range, cleanliness can get you anywhere from $5,000 to $15,000 more for your home. Remember to hire professionals for this work. We have plenty of vendors we’d love to refer you to who’d do an excellent job.&nbsp;
 
 Now, what about preparing for a pre-approval? According to Bill Pendley of Caliber Home Loans, there are three factors lenders look at that you need to examine as well:
 
