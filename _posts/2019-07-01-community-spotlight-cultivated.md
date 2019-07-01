@@ -18,7 +18,9 @@ youtube_code: U13yxKu5qgU
 
 {% include youtube.html %}
 
-<center>We like to refer to Cultivated as a hidden gem inside a hidden gem—here’s why.</center>
+<center><em>We like to refer to Cultivated as a hidden gem inside a hidden gem&mdash;here&rsquo;s why.</em></center>
+
+&nbsp;
 
 For our latest community spotlight, we stopped by the boutique called Cultivated and spoke with owner Tiombe Paige about what this great store has to offer.
 
