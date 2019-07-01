@@ -5,6 +5,7 @@ date: 2019-07-01 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
+  - Home Seller Tips
 excerpt: What happens after a home inspection? Find out today.
 enclosure:
 pullquote:
