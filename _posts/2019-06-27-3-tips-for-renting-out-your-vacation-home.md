@@ -34,7 +34,7 @@ Unfortunately, there are a few common mistakes that vacation homeowners commit. 
 
 One mistake that landlords make is trying to do everything on their own. To eliminate that problem, hire a professional property manager who understands housing laws and has the experience to keep guests and property owners happy.&nbsp;
 
-1. **Keep immaculate records.** Keep records of repairs for tax purposes and your own information. Be sure that your record-keeping includes transactions when money was spent and earned—this will really help when you need to recall information.&nbsp;
+**&nbsp; &nbsp;** 3. **Keep immaculate records.** Keep records of repairs for tax purposes and your own information. Be sure that your record-keeping includes transactions when money was spent and earned—this will really help when you need to recall information.&nbsp;
 
 Vacation rentals bring so much joy to families and couples who want a more home-like atmosphere for their next getaway. With these tips, you can be a part of that happiness while also protecting yourself and your interests.&nbsp;
 
