@@ -27,7 +27,7 @@ New construction might be a good solution if you’re in this situation. Most bu
 
 **If you’re looking for a resale property, on the other hand, the contingent offer might be your only move.** If that’s the case, there are some things you can do to make this contingent offer more enticing to a seller.&nbsp;
 
-Making your home a “coming soon” listing is a good way to do this. **It gets more attention on your home before it even hits the market.** When you do find your perfect home to buy, we can show the seller that your home is 100% ready to list and all you need is seven to 10 days to accept an offer.
+Making your home a “coming soon” listing is a good way to do this. **It draws more attention to your home before it even hits the market.** When you do find your perfect home to buy, we can show the seller that your home is 100% ready to list and all you need is seven to 10 days to accept an offer.
 
 {% include pullquote.html %}
 
