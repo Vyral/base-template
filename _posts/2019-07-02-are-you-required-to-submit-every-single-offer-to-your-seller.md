@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Required to Submit Every Single Offer to Your Seller?
-date: 2019-07-02 20:53:08
+date: 2019-07-02 20:53:00
 tags:
   - Real Estate
 excerpt: >-
