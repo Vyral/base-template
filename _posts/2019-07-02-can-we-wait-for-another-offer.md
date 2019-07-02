@@ -45,3 +45,7 @@ We later learned that our buyer backed away from a previous offer they made on a
 The lesson here is if you have an offer that almost seems too good to be true, and you’re thinking about leaving your options open, think carefully about the potential risks posed by that decision. **The risks of letting it go are usually not that good.**&nbsp;
 
 If you’re working with an agent who is uncertain or shrinks away when you need to be taking action in these sorts of situations, find one who will give you sound advice and get the deal done. If that’s what you’re looking for, give me a call at **[204-731-8079](tel:204-731-8079){: target="_blank"}** or email me at **[Marjorie@MarjorieDickStuart.com](mailto:Marjorie@MarjorieDickStuart.com)**. I’d be happy to help and I’ll see you next time\!
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
