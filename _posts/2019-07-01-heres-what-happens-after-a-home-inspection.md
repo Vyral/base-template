@@ -30,6 +30,6 @@ First, the inspector will provide the buyer with an inspection report detailing 
 
 Buyers and sellers are each given five days to respond to negotiations from the opposite party. When the seller presents their offer to the buyer, the buyer then has five additional days to process and respond. It typically doesn’t take that long for the buyer and seller to reach an agreement, though.
 
-Then, assuming an agreement has been reached, the buyer will conduct a final walkthrough between three to four days before closing **to ensure that the home is in the agreed-upon condition**. From there, the buyer and seller can proceed to the closing table and finish out the deal.
+Then, assuming an agreement has been reached, the buyer will conduct a final walk-through between three to four days before closing **to ensure that the home is in the agreed-upon condition**. From there, the buyer and seller can proceed to the closing table and finish out the deal.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
