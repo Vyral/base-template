@@ -11,7 +11,7 @@ enclosure: >-
 pullquote: >-
   If you’re an agent looking to add to your resources, a seller looking for help
   with staging your home, or a homeowner interested in improving your property’s
-  interior design, I highly encourage you to check out Designs by Angelique.
+  interior design, I highly encourage you to check out Designs by Angilique.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
