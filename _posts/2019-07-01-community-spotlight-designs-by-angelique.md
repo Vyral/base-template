@@ -27,7 +27,7 @@ For our latest community spotlight, we decided to speak to business partners Ang
 
 {% include pullquote.html %}
 
-And through a method called “soft staging,” wherein minimal changes are made to the decor to make a home look more neutral and up-to-date, Angel and Kelly can use a seller’s own furniture instead of hauling in all new pieces. Vacant homes, meanwhile, will be fully staged with furniture Angel and Kelly bring in. **It all depends on the individual property.**&nbsp;
+And through a method called “soft staging,” wherein minimal changes are made to the decor to make a home look more neutral and up to date, Angel and Kelly can use a seller’s own furniture instead of hauling in all new pieces. Vacant homes, meanwhile, will be fully staged with furniture Angel and Kelly bring in. **It all depends on the individual property.**&nbsp;
 
 So if you’re an agent looking to add to your resources, a seller looking for help with staging your home, or a homeowner interested in improving your property’s interior design, I highly encourage you to check out Designs by Angelique. You can call them at PHONE, email them at EMAIL, or visit their website: WEBSITE to learn more.&nbsp;
 
