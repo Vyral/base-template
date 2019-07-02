@@ -21,7 +21,7 @@ youtube_code: ZLAhVbdxZpY
 
 {% include youtube.html %}
 
-For our latest community spotlight, we decided to speak to business partners Angel LASTNAME and Kelly LASTNAME of Designs by Angelique. Our team has recently partnered with this business in order to improve the staging services we’re able to offer our clients.&nbsp;
+For our latest community spotlight, we decided to speak to business partners Angel Flather and Kelly Gelletly of Designs by Angelique. Our team has recently partnered with this business in order to improve the staging services we’re able to offer our clients.&nbsp;
 
 **Not only do Angel and Kelly offer staging and interior design, but they also create market preparation reports for our seller agents.** These reports are very helpful for our agents, as they allow them to more effectively create and present online listings for clients.
 
