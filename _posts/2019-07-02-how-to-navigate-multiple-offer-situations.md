@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Navigate Multiple-Offer Situations
-date: 2019-07-02 20:42:09
+date: 2019-07-02 20:42:00
 tags:
   - Real Estate
   - Home Seller Tips
