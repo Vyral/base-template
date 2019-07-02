@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Community Spotlight: Designs by Angelique'
+title: 'Community Spotlight: Designs by Angilique'
 tags:
   - Real Estate
 excerpt: >-
