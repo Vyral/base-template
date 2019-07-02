@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/u46vpT5PSNE'
 
 {% include youtube.html %}
 
-As you may have heard, the Wolek Team has recently made a few additional services available to our seller clients. On top of this, we also occasionally run special offers—one of which being our offer to pay for a pre-listing inspection and appraisal.&nbsp;
+As you may have heard, The Wolek Group has recently made a few additional services available to our seller clients. On top of this, we also occasionally run special offers—one of which being our offer to pay for a pre-listing inspection and appraisal.&nbsp;
 
 We’re already seeing awesome results from this, which is why I wanted to share this update with all of you today. **Yesterday, for example, we helped a client close who had been on the market for seven months without any offers prior to meeting us.** They were financially and emotionally stressed, so when we were able to offer to pay for a pre-listing inspection and appraisal before re-listing their property, they couldn’t have been happier.
 
