@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/OVs2rGUsV_Q'
 
 {% include youtube.html %}
 
-Building a pool on your Houston property can be a great investment—here’s why.
+<p style="text-align: center;"><em>Building a pool on your Houston property can be a great investment—here’s why.</em></p>
 
 Our current economy is doing great, which means a lot of people from all over the country are moving to the Houston area. Since we’re in the middle of summer, many of these homebuyers want homes with pools, but there are only so many properties out there with pools already built into them. Thus, I’m fielding a lot of questions about pools lately.&nbsp;
 
