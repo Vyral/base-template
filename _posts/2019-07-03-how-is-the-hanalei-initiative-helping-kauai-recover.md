@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is the Hanalei Initiative Helping Kauai Recover?
-date: 2019-07-03 18:50:56
+date: 2019-07-03 18:50:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/7-2-19ytsmall.jpg
 youtube_code: Au1AgwVMmF0
 ---
 
