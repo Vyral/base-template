@@ -1,18 +1,21 @@
 ---
 layout: post
 title: It’s Time to Get Next Year’s Home Sale Started Now
-date:
+date: 2019-07-03 20:46:21
 tags:
+  - Home Seller Tips
+  - Real Estate
 excerpt: >-
   I’ve got a special offer for anyone who wants to sell their home in the next
   year. Here are the details.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Its+Time+to+Get+Next+Years+Home+Sale+Started+Now.mp4
 pullquote: I’ve done this for many clients in the past and it works.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: amlLdNW9vVk
 ---
 
 {% include youtube.html %}
