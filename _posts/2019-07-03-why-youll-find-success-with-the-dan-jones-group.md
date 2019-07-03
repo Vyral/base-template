@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/1didS4Xwpag'
 
 {% include youtube.html %}
 
-What makes The Dan Jones Group different from other brokerages? Find out today.
+<p style="text-align: center;"><em>What makes The Dan Jones Group different from other brokerages? Find out today.</em></p>
 
 The Dan Jones Group sets itself apart from other brokerages in a number of ways, so today I’d like to highlight a few of our distinguishing qualities.
 
