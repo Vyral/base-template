@@ -5,7 +5,8 @@ date: 2019-07-01 00:00:00
 tags:
   - Real Estate
 excerpt: We like to refer to Cultivated as a hidden gem inside a hidden gem—here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Community+Spotlight-+Cultivated.mp4
 pullquote: >-
   Tiombe is very active in our community, and would love to see more local
   professionals open up businesses in downtown Westminster.
