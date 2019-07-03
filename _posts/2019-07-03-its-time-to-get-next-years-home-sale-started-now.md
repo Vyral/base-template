@@ -1,7 +1,7 @@
 ---
 layout: post
 title: It’s Time to Get Next Year’s Home Sale Started Now
-date: 2019-07-03 20:46:21
+date: 2019-07-03 08:46:00
 tags:
   - Home Seller Tips
   - Real Estate
