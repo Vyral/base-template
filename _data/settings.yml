@@ -37,7 +37,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.trianglerealestatehub.com/cma/property-valuation/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://realestate.caulgroup.com/search'
+  second_CTA_URL: 'https://www.caulgroup.com/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your Home Worth?
