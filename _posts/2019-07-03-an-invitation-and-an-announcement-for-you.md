@@ -20,7 +20,7 @@ I have a couple of really exciting announcements to make today.
 
 First, I wanted to invite you to our annual customer appreciation event at Joseph P. Riley Jr. Park as the Charleston Riverdogs take on the West Virginia Power on August 21 at 7:05 p.m. This is a massive fundraiser for us and we’ve been able to raise a lot of money in the past through inviting all of our friends and clients to the game.
 
-**For every person who RSVPs through us, we’ll not only give you a free ticket to the game, but we’ll also donate $5 on your behalf to the MUSC children’s burn fund.** Bring anyone and everyone you want,[but make sure to RSVP here to reserve their spots\! We can’t wait to see you there.](https://docs.google.com/forms/d/e/1FAIpQLSeCKsW3Lqx7cu2dbFGArdvh_HwFUD9wvXtERdP_KAz8ZQuD6w/viewform?c=0&amp;w=1){: target="_blank"}
+**For every person who RSVPs through us, we’ll not only give you a free ticket to the game, but we’ll also donate $5 on your behalf to the MUSC children’s burn fund.** Bring anyone and everyone you want,&nbsp;[but make sure to RSVP here to reserve their spots\! We can’t wait to see you there.](https://docs.google.com/forms/d/e/1FAIpQLSeCKsW3Lqx7cu2dbFGArdvh_HwFUD9wvXtERdP_KAz8ZQuD6w/viewform?c=0&amp;w=1){: target="_blank"}
 
 {% include pullquote.html %}
 
