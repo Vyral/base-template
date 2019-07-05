@@ -22,11 +22,11 @@ youtube_code: Tbd_NP8GXfc
 
 <br>Imagine, for a second, that you won the lottery. If you were to then speak to your financial advisor, they’d probably advise you to diversify your portfolio—have some short- and long-term investments, some high- and low-risk ones, and some liquid cash.&nbsp;
 
-As a broker-owner/team leader, you need to do the same thing. How? B**y increasing the average sale price of the homes you represent and diversifying your portfolio.** In doing this, you can earn 30% more over the next year.&nbsp;
+As a broker-owner/team leader, you need to do the same thing. How? **B****y increasing the average sale price of the homes you represent and diversifying your portfolio.** In doing this, you can earn 30% more over the next year.&nbsp;
 
 {% include pullquote.html %}
 
-Starting at the 1:10 mark in the video above, I’ll show you an example of how this works. At that point, you’ll see four price point “buckets: entry-level pricing, average pricing, high-end pricing (2X the average sale price of your market), and luxury pricing (3X the average sale price). If you’ve sold, say, 20 homes over the past 12 months, the majority of them would fall into these four buckets.&nbsp;
+Starting at the 1:10 mark in the video above, I’ll show you an example of how this works. At that point, you’ll see four price point “buckets:" entry-level pricing, average pricing, high-end pricing (2X the average sale price of your market), and luxury pricing (3X the average sale price). If you’ve sold, say, 20 homes over the past 12 months, the majority of them would fall into these four buckets.&nbsp;
 
 At the 2:35 mark, you’ll then see a pie chart of where these homes sold across this range for this example: 45% (9) in the entry-level bucket, 35% (7) in the average-pricing bucket, 20% (4) in the high-end pricing bucket, and 0% in the luxury-pricing bucket.&nbsp;
 
