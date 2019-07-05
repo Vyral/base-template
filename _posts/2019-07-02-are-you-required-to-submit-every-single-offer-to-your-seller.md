@@ -21,13 +21,13 @@ youtube_code: prkao30uznQ
 
 {% include youtube.html %}
 
-If you’ve ever taken a moderately priced new listing that’s situated in a great school district and has great curb appeal, you’ve probably been inundated with lowball offers. You know that according to the Realtor Code of Ethics, you’re required to present all offers to your seller quickly and objectively.&nbsp;
+If you’ve ever taken a moderately priced new listing that’s situated in a great school district and has great curb appeal, you’ve probably been inundated with lowball offers. You know that **according to the Realtor Code of Ethics, you’re required to present all offers to your seller quickly and objectively.&nbsp;**
 
 But what about the lowball offers that you suspect will only irritate your client? Do you have to present those offers as well?
 
-The answer is no, you don’t have to. There is an exception carved out in the rules: If your seller gives you written permission not to present all offers, you’re not required to.
+The answer is no, you don’t have to. **There is an exception carved out in the rules:** If your seller gives you written permission not to present all offers, you’re not required to.
 
-So, when taking a listing that you believe has the potential to generate a flurry of lowball offers, then ask your seller to send you an email or write out a letter to you that says you don’t have to present any offers below a certain price point. With that in hand, you can simply delete all those low offers and save both you and your seller a lot of time, energy, and aggravation.
+So, when taking a listing that you believe has the potential to generate a flurry of lowball offers, then **ask your seller to send you an email or write out a letter to you that says you don’t have to present any offers below a certain price point.** With that in hand, you can simply delete all those low offers and save both you and your seller a lot of time, energy, and aggravation.
 
 {% include pullquote.html %}
 
