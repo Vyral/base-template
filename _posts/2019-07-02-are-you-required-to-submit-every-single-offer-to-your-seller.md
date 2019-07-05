@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: prkao30uznQ
+youtube_code: QqQ_ioI2F1Q
 ---
 
 {% include youtube.html %}
 
-If you’ve ever taken a moderately priced new listing that’s situated in a great school district and has great curb appeal, you’ve probably been inundated with lowball offers. You know that **according to the Realtor Code of Ethics, you’re required to present all offers to your seller quickly and objectively.&nbsp;**
+If you’ve ever taken a moderately priced new listing that’s situated in a great school district and has great curb appeal, you’ve probably been inundated with lowball offers. You know that **according to the REALTOR Code of Ethics, you’re required to present all offers to your seller quickly and objectively.&nbsp;**
 
 But what about the lowball offers that you suspect will only irritate your client? Do you have to present those offers as well?
 
