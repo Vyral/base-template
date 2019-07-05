@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: What happens after a home inspection? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Heres+What+Happens+After+a+Home+Inspection.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
