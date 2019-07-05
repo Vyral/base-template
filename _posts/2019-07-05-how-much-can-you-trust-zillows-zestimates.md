@@ -21,7 +21,9 @@ youtube_code: 1RgI9C4BoKU
 
 {% include youtube.html %}
 
-<center>Zillow’s Zestimates are based on an algorithm, which means you probably shouldn’t trust them to accurately estimate your home’s value.</center>
+<center><em>Zillow&rsquo;s Zestimates are based on an algorithm, which means you probably shouldn&rsquo;t trust them to accurately estimate your home&rsquo;s value.</em></center>
+
+&nbsp;
 
 How much can you trust Zillow’s Zestimates?
 
