@@ -26,7 +26,7 @@ Welcome back to another segment of “What’s Working Now\!” Tuesday@Two...&n
 
 A few days back, one of my sellers received an “all-cash” offer above their asking price with a 14-day settlement and, much to my surprise...
 
-They asked me this question: **“Marjorie, can we wait for another offer?”**
+They asked me this question: ***“Marjorie, can we wait for another offer?”***
 
 Let’s talk about whether this is a viable option. &nbsp;
 
