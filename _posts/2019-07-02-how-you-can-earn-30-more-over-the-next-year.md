@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Earn 30% More Over the Next Year
-date: 2019-07-02 20:40:55
+date: 2019-07-02 20:40:00
 tags:
   - Luxury Listing Specialist
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: AIusgNWrZNs
+youtube_code: Tbd_NP8GXfc
 ---
 
 {% include youtube.html %}
