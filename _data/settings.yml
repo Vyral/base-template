@@ -1,81 +1,145 @@
 audit_header: false
 title: Finance of America Video Blog with Sergio Haros
-description: 'Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
+description: >-
+  Sergio Haros can help you take charge of your financial future by developing a
+  customized strategy to reach your financial goals and further your success.
 show_custom_links: true
 custom_links:
   - title: Apply For Home Purchase Now
-    url: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+    url: >-
+      https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
   - title: Apply for Refinance
-    url: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
+    url: >-
+      https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
   - title: Mortgage Inquiry
-    url: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
+    url: >-
+      https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
   - title: Realtors
     url: /realtors/
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810620';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1810620';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 client:
   name: Sergio Haros
   license_number:
-  about_markdown: |
-    Creating an experience that you feel compelled to share. I pride myself on feverishly working to provide more value to my clients. By consistently critiquing my own systems and service, I get closer every day to creating a World Class Experience for everyone I do business with.
+  about_markdown: >-
+    Creating an experience that you feel compelled to share. I pride myself on
+    feverishly working to provide more value to my clients. By consistently
+    critiquing my own systems and service, I get closer every day to creating a
+    World Class Experience for everyone I do business with.
 
-    I began in the industry in 1997, and since then have fallen in love with my career choice. I owned my first Mortgage Company in 2001, and had a great experience running that for 8 years. I am now thrilled to be a part of Finance of America Mortgage, where I can focus all of my energies on serving my Affinity Partners and Clients. I look forward to working with you and adding unparalled value to your Real Estate experience.
+
+    I began in the industry in 1997, and since then have fallen in love with my
+    career choice. I owned my first Mortgage Company in 2001, and had a great
+    experience running that for 8 years. I am now thrilled to be a part of
+    Finance of America Mortgage, where I can focus all of my energies on serving
+    my Affinity Partners and Clients. I look forward to working with you and
+    adding unparalled value to your Real Estate experience.
+
+
+    &nbsp;
+
+
+    ###### *&copy;2019 Finance of America Mortgage LLC is licensed nationwide \|
+    Equal Housing Opportunity&nbsp; \| NMLS ID \#1071
+    ([www.nmlsconsumeraccess.org](https://bixel4.net/v1/t/c/82d024a0-b6c6-adba-37b0-175c53a3ec6e/outlk:d2cbc398-1bfe-4eb1-b580-83ec49276d1f/Multiple%20Recipients/http%3a%2f%2fwww.nmlsconsumeraccess.org))
+    \| 300 Welsh Road, Building 5, Horsham, PA 19044 \| (800) 355-5626 \| AZ
+    Mortgage Banker License \#0910184 \| Licensed by the Department of Business
+    Oversight under the California Residential Mortgage Lending Act \| Georgia
+    Residential Mortgage Licensee \#15499 \| Kansas Licensed Mortgage Company \|
+    Licensed by the N.J. Department of Banking and Insurance \| Licensed
+    Mortgage Banker -- NYS Banking Department \| Rhode Island Licensed Lender \|
+    Massachusetts Lender/Broker License MC1071. For licensing information go
+    to:*[*www.nmlsconsumeraccess.org*](https://bixel4.net/v1/t/c/82d024a0-b6c6-adba-37b0-175c53a3ec6e/outlk:d2cbc398-1bfe-4eb1-b580-83ec49276d1f/Multiple%20Recipients/http%3a%2f%2fwww.nmlsconsumeraccess.org)
+
+
+    ###### *Questions, comments, concerns? Send
+    to&nbsp;*[*customerrelations@financeofamerica.com*](https://bixel4.net/v1/t/c/82d024a0-b6c6-adba-37b0-175c53a3ec6e/outlk:d2cbc398-1bfe-4eb1-b580-83ec49276d1f/Multiple%20Recipients/mailto%3acustomerrelations%40financeofamerica.com)
+    *&nbsp;*
+
+
+    &nbsp;
+
+
+    ###### *This is not a commitment to lend. Prices, guidelines and minimum
+    requirements are subject to change without notice. Some products may not be
+    available in all states.&nbsp; Subject to review of credit and/or
+    collateral; not all applicants will qualify for financing. It is important
+    to make an informed decision when selecting and using a loan product; make
+    sure to compare loan types when making a financing decision.&nbsp; Any
+    materials were not provided by HUD or FHA. It has not been approved by FHA
+    or any Government Agency.&nbsp; A preapproval is not a loan approval, rate
+    lock, guarantee or commitment to lend. An underwriter must review and
+    approve a complete loan application after you are preapproved in order to
+    obtain financing.*
+
+
+    ###### [Privacy Policy](https://www.foamortgage.com/privacy-policy/)
+    \|[Disclosures](https://www.foamortgage.com/disclosures/) **\|**[Terms &
+    Conditions](https://www.foamortgage.com/terms-of-use/)
+    **\|**[Licensing](https://www.foamortgage.com/licensing)
   market: San Diego
   brand: Finance of America
   brokerage:
-  address: 2365 N Side Dr Suite 150, San Diego, CA 92108
+  address: '2365 N Side Dr Suite 150, San Diego, CA 92108'
   phone: 619-770-8544
   phone_type:
   phone2:
   phone2_type:
   email: sharos@financeofamerica.com
-  url: http://foamortgage.com/sharos
-
+  url: 'http://foamortgage.com/sharos'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Now is a Great Time to Buy a Home"
-    CTA_text: "Whether you're applying for a home loan for the first time or you're an experienced buyer, we can help you."
-    CTA_link_text: "Apply For Home Purchase"
-    CTA_url: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
-
+    CTA_title: Now is a Great Time to Buy a Home
+    CTA_text: >-
+      Whether you're applying for a home loan for the first time or you're an
+      experienced buyer, we can help you.
+    CTA_link_text: Apply For Home Purchase
+    CTA_url: >-
+      https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Need Help with your Financial Situation?"
-    CTA_text2: "Refinancing is done to allow a borrower to obtain a better interest term and rate."
-    CTA_link_text2: "Apply for Refinance"
-    CTA_url2: https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
-
+    CTA_title2: Need Help with your Financial Situation?
+    CTA_text2: >-
+      Refinancing is done to allow a borrower to obtain a better interest term
+      and rate.
+    CTA_link_text2: Apply for Refinance
+    CTA_url2: >-
+      https://loanapp.financeofamerica.com/ContentPages/Default.aspx?LoanOfficerId=47849
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/006.jpg
-    CTA_title3: "Mortgage Inquiry"
-    CTA_text3: "Just like searching for your dream home, identifying the mortgage that best meets your needs can be a process."
-    CTA_link_text3: "More Info"
-    CTA_url3: https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
-
+    CTA_title3: Mortgage Inquiry
+    CTA_text3: >-
+      Just like searching for your dream home, identifying the mortgage that
+      best meets your needs can be a process.
+    CTA_link_text3: More Info
+    CTA_url3: >-
+      https://www.foamortgage.com/mortgage-inquiry?loemail=sharos@financeofamerica.com
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Secure Your Financial Future
   welcome_text_markdown: >
-    Sergio Haros provides individual investors and business owners with custom wealth management and benefit strategies. Whatever you hope to achieve, we seek to advance your goals through all chapters of your life: today, tomorrow, and for years to come.
-
+    Sergio Haros provides individual investors and business owners with custom
+    wealth management and benefit strategies. Whatever you hope to achieve, we
+    seek to advance your goals through all chapters of your life: today,
+    tomorrow, and for years to come.
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/financeofamerica/
-  linkedin_url: https://www.linkedin.com/in/sergioharos/
-  gplus_url: https://plus.google.com/u/0/107853524137985939507
-  youtube_url: https://www.youtube.com/channel/UClJ1yc1fvtg1ObMOKb5LUVw?
+  facebook_url: 'https://www.facebook.com/financeofamerica/'
+  linkedin_url: 'https://www.linkedin.com/in/sergioharos/'
+  gplus_url: 'https://plus.google.com/u/0/107853524137985939507'
+  youtube_url: 'https://www.youtube.com/channel/UClJ1yc1fvtg1ObMOKb5LUVw?'
   twitter_url:
   instagram_url:
   pinterest_url:
@@ -83,46 +147,50 @@ socials:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Whether you are interested in retirement planning, wealth management, or benefit strategies, Sergio Haros is here with the latest tips.'
-  description: 'Sergio Haros can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
-  keywords: 'Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning, Wealth Management, Financial Advisor, Certified Financial Planner, Benefit Planning, Retirement Plan Management'
+  subtitle: >-
+    Whether you are interested in retirement planning, wealth management, or
+    benefit strategies, Sergio Haros is here with the latest tips.
+  description: >-
+    Sergio Haros can help you take charge of your financial future by developing
+    a customized strategy to reach your financial goals and further your
+    success.
+  keywords: >-
+    Sergio Haros, Financial Planning, Retirement Plans, Retirement Planning,
+    Wealth Management, Financial Advisor, Certified Financial Planner, Benefit
+    Planning, Retirement Plan Management
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text:
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#0B3B5D'
-  theme_color: '#01A7DC'
+  brand_color: '#0b3b5d'
+  theme_color: '#01a7dc'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: rgba(0,42,84,.75)
-
+  shadow_color: 'rgba(0, 42, 84, 0.75)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
