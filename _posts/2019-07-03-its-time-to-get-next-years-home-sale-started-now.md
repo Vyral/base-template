@@ -9,13 +9,13 @@ excerpt: >-
   I’ve got a special offer for anyone who wants to sell their home in the next
   year. Here are the details.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Its+Time+to+Get+Next+Years+Home+Sale+Started+Now.mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Its+Time+to+Get+Next+Years+Home+Sale+Started+Now+(1).mp4
 pullquote: I’ve done this for many clients in the past and it works.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: amlLdNW9vVk
+youtube_code: o38GX18N8jM
 ---
 
 {% include youtube.html %}
