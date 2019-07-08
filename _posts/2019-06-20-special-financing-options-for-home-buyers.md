@@ -1,11 +1,13 @@
 ---
 layout: post
-title: How We Can Help You Realize Your Dream of Homeownership
+title: Special Financing Options for Home Buyers
 date: 2019-06-20 00:00:00
 tags:
   - Home Buyer Tips
   - Athens Real Estate Agent
-excerpt: Special Financing Options for Home Buyers
+excerpt: >-
+  If you’ve got a decent credit score, we can more than likely make your dreams
+  of homeownership a reality.
 enclosure:
 pullquote: >-
   If you’ve got a decent credit score, we can more than likely make your dreams
