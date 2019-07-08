@@ -22,7 +22,7 @@ Many buyers have asked me, “How many homes, on average, will we look at before
 
 Of course, while I’d like to say it depends, I can actually give you a little more guidance and insight on this topic.
 
-The actual answer is that **you’re probably going to look at far fewer homes than you think.** The truth is that with all the information that’s available today, you’ll actually looking at quite a few homes before you come to me with listings you’d like to visit.
+The actual answer is that **you’re probably going to look at far fewer homes than you think.** The truth is that with all the information that’s available today, you’ll actually look at quite a few homes before you come to me with listings you’d like to visit.
 
 For every home you go into, I would venture to guess that you’ve seen 50 or more online that didn’t make the list. When we work with our clients, we tell them that **on average, our clients look at about seven homes before they place an offer.**
 
@@ -30,7 +30,7 @@ Now, being above or below that number doesn’t mean you’re bad or good. If yo
 
 {% include pullquote.html %}
 
-Most people, however, will probably never come to me with a list of 50 homes they want to look at. Frankly, **if your list is that high, I’ll respectfully push back because you might not be looking at the right criteria for homes.** If use the right criteria in terms of the number of bedrooms and bathrooms, the home’s condition, location, yard, garage, etc., there will probably be homes available in our market, but not 50, to see.
+Most people, however, will probably never come to me with a list of 50 homes they want to look at. Frankly, **if your list is that high, I’ll respectfully push back because you might not be looking at the right criteria for homes.** If you use the right criteria in terms of the number of bedrooms and bathrooms, the home’s condition, location, yard, garage, etc., there will probably be homes available in our market, but not 50, to see.
 
 And even if there were 50 homes that met your specific criteria, **I’d ask you to pick your top seven choices and go from there**. Even when you drive by homes, you’ll learn based on the feel of the neighborhood or the location whether or not that house is in or out of scope for you.
 
