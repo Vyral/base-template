@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/mhCT-R26eH0'
 
 {% include youtube.html %}
 
-Why do buyer/seller interactions get so heated? Is home affordability really dropping in the Capitol Region? I’ll answer both questions today.
+<p style="text-align: center;"><em>Why do buyer/seller interactions get so heated? Is home affordability really dropping in the Capitol Region? I’ll answer both questions today.</em></p>
 
 Summer has officially arrived, and we’re now past the spring market. Even though everyone is probably making the most of their summer plans at this point, we can see that the market is still very, very active.
 
