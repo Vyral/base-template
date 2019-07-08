@@ -19,7 +19,7 @@ youtube_code: Au1AgwVMmF0
 
 {% include youtube.html %}
 
-I know that many of you are interested to learn more about how last year’s flooding has continued to impact the north shore of Kauai, so I recently sat down with a special guest to discuss this topic exactly. This guest, Joel Guy, is a long-time North Shore resident, as well as the newly appointed executive director of the Hanalei Initiative—a non-profit organization whose goal is to help the North Shore to recover and move forward with improved sustainability practices following the flood.&nbsp;<br><br>**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
+I know that many of you are interested to learn more about how last year’s flooding has continued to impact the north shore of Kauai, so I recently sat down with a special guest to discuss this topic exactly. This guest, Joel Guy, is a long-time North Shore resident, as well as the newly appointed executive director of the Hanalei Initiative—a nonprofit organization whose goal is to help the North Shore to recover and move forward with improved sustainability practices following the flood.&nbsp;<br><br>**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 00:13 - An introduction to today’s video&nbsp;
 
