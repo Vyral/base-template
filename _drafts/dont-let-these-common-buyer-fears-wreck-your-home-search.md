@@ -21,7 +21,7 @@ youtube_code: LeC4TeSr3uY
 
 {% include youtube.html %}
 
-To have a successful home purchase, there are certain buyer fears you need to overcome.
+<center>To have a successful home purchase, there are certain buyer fears you need to overcome.</center>
 
 As a buyer, if you can acknowledge your fears about the home buying process, you can overcome them and move forward with your purchase with clarity, courage, and commitment.
 
