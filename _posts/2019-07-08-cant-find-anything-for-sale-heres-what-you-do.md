@@ -36,3 +36,7 @@ Can you guess what happened? Well, two people ended up inviting me in, and one o
 If you’re only looking at what’s listed online or what’s being advertised and your agent isn’t knocking on doors trying to find homes that aren’t “available,” **you need to call an agent who will.** I would love to go house hunting for you.&nbsp;
 
 If you have any questions about finding homes in a tough market or you have any other real estate needs, feel free to call or email me. I’d love to speak with you.&nbsp;
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
