@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A New, One-of-a-Kind Service for Buyers and Sellers'
-date: 2019-07-08 16:27:06
+date: 2019-07-08 16:27:00
 tags:
   - Real Estate
 excerpt: >-
