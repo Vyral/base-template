@@ -8,13 +8,13 @@ excerpt: >-
   I recently visited a gorgeous home in AREA, and today I’d like to take you
   there with me through a quick video tour.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Come+Along+for+a+Video+Tour+of+This+Fabulous%2C+Elegant+Property.mp4
+  https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Come+Along+for+a+Video+Tour+of+This+Fabulous%2C+Elegant+Property+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/touryt.jpg
-youtube_code: RHlzByDol80
+youtube_code: SaISZXiNYBI
 ---
 
 {% include youtube.html %}
