@@ -6,8 +6,8 @@ tags:
   - Home Buyer Tips
   - Athens Real Estate Agent
 excerpt: >-
-  If you’ve got a decent credit score, we can more than likely make your dreams
-  of homeownership a reality.
+  Today I wanted to take a moment today to talk to you about some of the
+  financing options and programs that are out there for you as a homebuyer...
 enclosure:
 pullquote: >-
   If you’ve got a decent credit score, we can more than likely make your dreams
