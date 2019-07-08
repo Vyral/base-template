@@ -5,9 +5,7 @@ date: 2019-06-20 00:00:00
 tags:
   - Home Buyer Tips
   - Athens Real Estate Agent
-excerpt: >-
-  Today I wanted to take a moment today to talk to you about some of the
-  financing...
+excerpt: Special Financing Options for Home Buyers
 enclosure:
 pullquote: >-
   If you’ve got a decent credit score, we can more than likely make your dreams
@@ -16,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
-  /uploads/justin-woodall-how-weve-helped-buyers-just-like-you-get-into-a-home-youtube.jpg
+  /uploads/new-justin-woodall-special-financing-options-for-home-buyers-youtube-new.jpg
 youtube_code: 'https://youtu.be/WJTy4oZTGy4'
 ---
 
