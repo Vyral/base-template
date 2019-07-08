@@ -28,6 +28,6 @@ I recently joined Jordana Green and Paul Douglas to talk about some things that 
 
 {% include pullquote.html %}
 
-**I’ve done this for many clients in the past and it works.** Once we get into the fall and winter, those exterior photos aren’t going to be great. They’re going to be great right now, though, and then we can use them whenever you’re ready to list in the coming months.
+**I’ve done this for many clients in the past and it works.** Once we get into the fall and winter, those exterior photos aren’t going to be as good. However, if you get them taken right now, we can use them whenever you’re ready to list in the coming months.
 
 If you'd like to take us up on our offer, visit our website or just give us a call or send us an email today. We look forward to hearing from you soon.<br>&nbsp;
