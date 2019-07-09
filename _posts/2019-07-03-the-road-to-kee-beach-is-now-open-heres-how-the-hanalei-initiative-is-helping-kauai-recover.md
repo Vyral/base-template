@@ -2,7 +2,7 @@
 layout: post
 title: >-
   The Road to Ke'e Beach is NOW OPEN! Here's How the Hanalei Initiative is
-  Helping Kauai Recover?
+  Helping Kauai Recover!
 date: 2019-07-03 18:50:00
 tags:
   - Real Estate
