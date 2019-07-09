@@ -48,7 +48,7 @@ client:
   url: 'http://www.stacyesser.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://stacyesser.smarthomeprice.com'
+  first_CTA_URL: 'https://www.stacyesser.com/get-a-free-home-valuation/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.stacyesser.com/homes-for-sale-search-advanced/'
   VR_form:
@@ -59,7 +59,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://stacyesser.smarthomeprice.com'
+    CTA_url: 'https://www.stacyesser.com/get-a-free-home-valuation/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a -- MARKET -- Home?
