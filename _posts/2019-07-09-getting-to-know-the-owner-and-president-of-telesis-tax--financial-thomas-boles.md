@@ -24,8 +24,6 @@ Welcome back to the second segment of “Casey’s Corner”—a great new serie
 
 My second interviewee in this series is my good friend and financial/tax advisor Thomas Boles. In 2007, he became the president and owner of Telesis Tax & Financial. Though it started solely as a financial firm in 1984, when Thomas took the reins, he expanded it to include a tax element. Among other things, Thomas is a registered tax preparer and an IRS-enrolled agent.&nbsp;
 
-{% include pullquote.html %}
-
 **Cited below for your convenience are timestamps that will direct you to various points in the episode. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 1:18—A little about Tom’s emergence in the financial industry and Telesis&nbsp;
