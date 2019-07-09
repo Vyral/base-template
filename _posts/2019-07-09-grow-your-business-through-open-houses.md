@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Grow Your Business Through Open Houses
-date: 2019-07-09 15:55:22
+date: 2019-07-09 15:55:00
 tags:
   - Real Estate
 excerpt: >-
