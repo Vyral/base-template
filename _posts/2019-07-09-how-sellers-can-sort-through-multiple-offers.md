@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Sellers Can Sort Through Multiple Offers
-date: 2019-07-09 16:12:13
+date: 2019-07-09 16:12:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: 9p9V8ESYy38
 
 We’ve had a lot of people reach out lately with the same question: **As a seller, what should I do when my home has drawn multiple offers?** Today I’ll take a quick moment to offer my advice.&nbsp;
 
-In one of my latest videos, we focused on multiple-offer scenarios from a buyer’s standpoint. If you missed it, you can check it out here. Today we’ll shift our focus on the seller side.
+In one of my latest videos, we focused on multiple-offer scenarios from a buyer’s standpoint. If you missed it, you can [check it out here.](https://damongettierblog.com/how-buyers-can-stand-out-in-the-crowd-of-multiple-offers.html){: target="_blank"} Today we’ll shift our focus on the seller side.
 
 Commonly, sellers are most attracted to the largest offer, but the offer that will net you the most money isn’t necessarily the best of the bunch. **Aside from price, give careful attention to the offer’s conditions.&nbsp;**
 
