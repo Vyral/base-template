@@ -41,7 +41,7 @@ What kind of fears do buyers usually have? Here are four of the most common:
 
 You’ve probably heard the phrase, “What you think about, you bring about.” In other words, the fears you think about can manifest themselves in the form of mistakes because you overcompensate to avoid those fears. With that in mind, here are five common mistakes buyers make that are caused by the fears above:
 
-**1\. Not getting pre-approved**. It’s common for people to start searching for homes and making offers without knowing how much they can afford. This can cause you to lose out on the home you want or lead you to becoming “house poor.”
+**1\. Not getting pre-approved**. It’s common for people to start searching for homes and making offers without knowing how much they can afford. This can cause you to lose out on the home you want or lead you to become “house poor.”
 
 **2\. Overpaying**. It’s not a perfect market out there, and a home’s list price might be either above or below its true value. Not everyone has access to records of previously sold listings, expired listings, or other statistics that indicate where the market is going.
 
