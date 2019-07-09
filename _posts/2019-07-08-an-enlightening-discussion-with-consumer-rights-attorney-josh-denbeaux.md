@@ -18,7 +18,7 @@ youtube_code: r-6XGR_QSl8
 
 {% include youtube.html %}
 
-Today I’m excited to be joined by Josh Denbeaux, a consumer rights attorney, to talk about some solutions to financially stressful situations for homeowners. He represents people in financial trouble, and that includes people who own houses and don’t know what to do about it.&nbsp;
+Today I’m excited to be joined by Josh Denbeaux, a consumer rights attorney, to talk about some solutions to financially stressful situations for homeowners. He represents people in financial trouble, and that includes people who own houses and don’t know what to do about it.&nbsp;&nbsp;
 
 **Here’s an outline of our conversation, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
@@ -26,6 +26,6 @@ Today I’m excited to be joined by Josh Denbeaux, a consumer rights attorney, t
 
 Thanks so much to Josh for joining me and for his kind words for me at the end of the video. If you have any questions for Josh or need his expert guidance, give him a call at (201) 249-6152 or send him an email at jdenbeaux@gmail.com.
 
-If you have any other questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. If you know of another local business that I should check out for my next interview, feel free to reach out to me with those suggestions as well.
 
-{% include pullquote.html %}
+&nbsp;
