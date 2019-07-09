@@ -34,3 +34,5 @@ To that end, **it’s important to put somewhat of an emphasis on your open hous
 **Knocking on 20 doors prior to the open house is a surefire way to meet more people, sell more homes, and see your real estate career blossom.**&nbsp;
 
 If you’d like any additional tips for advancing your real estate business or have any questions, please feel free to reach out.
+
+As a final note, starting next week and twice a month going forward, we’ll be opening up our office to outside agents who’d like to see how we do business. We invite you to stop by for a few hours and learn how we operate. If you’re interested, please reach out as well. We look forward to hearing from you\!&nbsp;
