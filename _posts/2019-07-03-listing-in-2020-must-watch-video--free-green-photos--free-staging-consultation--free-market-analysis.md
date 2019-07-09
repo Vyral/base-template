@@ -1,6 +1,8 @@
 ---
 layout: post
-title: It’s Time to Get Next Year’s Home Sale Started Now
+title: >-
+  Listing in 2020? Must Watch Video = Free Green Photos + Free Staging
+  Consultation + Free Market Analysis
 date: 2019-07-03 08:46:00
 tags:
   - Home Seller Tips
