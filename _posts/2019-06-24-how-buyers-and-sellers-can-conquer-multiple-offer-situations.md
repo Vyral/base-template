@@ -21,18 +21,18 @@ youtube_code: 'https://youtu.be/Zx4CRXkuYhM'
 
 {% include youtube.html %}
 
-What’s going on in our market as we make our way through summer?
+Now that we’ve entered the summer real estate market, we’re seeing more and more multiple-offer situations take place.
 
-If you were following the news from the real estate world earlier this spring, you might’ve heard something about the crazy inventory shortage and spike in multiple-offer situations.
+As you may recall, last year we did a <u><a target="_blank" href="https://thechadandsararealestateblog.com/the-state-of-the-multiple-offer-market.html"><strong>video</strong></a></u> about this exact same topic, but the difference now is that home prices have increased. Last year, it seemed like every home under $275,000 was getting multiple offers. This year, that ceiling has crept up to $325,000. Similar to last year’s market, homes that are priced right may still attract multiple offers.&nbsp;
 
-**This was true in certain price points and continues to be true now—primarily in homes priced under $300,000.** Above the $400,000, we’re starting to see the market balance out, which is common for June. We usually have a push of buyer activity after the lethargy of winter, and now that summer’s here, the market reflects the fact that families have more activities going on.
+What does this mean for buyers and sellers? There are a few things to keep in mind.&nbsp;
 
 {% include pullquote.html %}
 
-**Typically, 15% of the marketplace moves every five years, but according to the latest reports, that number has dropped to 11%.**&nbsp;Why? The answer can be found by looking at two consumer groups: Baby Boomers and Millennials.&nbsp;
+If you’re a buyer, sellers will certainly look at the financials of your offer, so **you’ll want to offer favorable terms** like a strong earnest money deposit and a competitive closing date. This is especially important if you’re using financing and competing against cash offers. Another thing to note is that a lot of buyers are foregoing inspections, although we don’t recommend this.
 
-Right now, Baby Boomers are looking for homes that are primarily maintenance-free and/or single-level. There are a limited number of these homes available, so people are starting to retrofit their current home and (to use a buzzword we’ve been hearing a lot lately) “age in place.”
+If you’re a seller, **you need to thoroughly review and understand not just the price, but the TERMS of the offers you receive.** We’re seeing a lot of first-time buyers win out in a multiple-offer situation only to back out during the inspection period. Often this is due to the buying having to make a decision far more quickly on a home than they are ready to do.&nbsp;
 
-Millennials, meanwhile, aren’t buying homes until they absolutely need to (i.e., after they get married or have a child.) A lot of Millennials are either continuing to rent or choosing to live with their parents.&nbsp;
+If you want to ensure a smooth process from contract to close —whether you’re a buyer or seller**—the best thing you can do is work with a real estate team such as ours, where you are working personally with the experienced licensee**. On the buyer side, we know exactly how to structure contracts to put you in the best light possible. On the seller side, we know how to dissect offers and pick the best buyer of the bunch so your home sale stays together.&nbsp;
 
-If you have any more questions about our real estate market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to us. We’d love to help you.
+If you have any questions about this topic, don’t hesitate to reach out to us. We’d be happy to help you.
