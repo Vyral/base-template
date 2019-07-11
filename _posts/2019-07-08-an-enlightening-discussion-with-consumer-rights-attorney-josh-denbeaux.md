@@ -18,7 +18,7 @@ youtube_code: r-6XGR_QSl8
 
 {% include youtube.html %}
 
-Today I’m excited to be joined by Josh Denbeaux, a consumer rights attorney, to talk about some solutions to financially stressful situations for homeowners. He represents people in financial trouble, and that includes people who own houses and don’t know what to do about it.&nbsp;&nbsp;
+Today I’m excited to be joined by Josh Denbeaux, a consumer rights attorney, to talk about some solutions to financially stressful situations for homeowners.&nbsp;
 
 **Here’s an outline of our conversation, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
