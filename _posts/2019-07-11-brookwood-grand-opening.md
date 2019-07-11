@@ -25,7 +25,7 @@ Join us **Saturday July 13th from 12-2 PM** for:
 
 * (FREE) Lunch
 * Model Home Tours
-* Live Radio Broadcast with Carl Lamar of 99.0 KONY COUNTRY
+* Live Radio Broadcast with Carl Lamar of 99.9 KONY COUNTRY
 * Multiple giveaways including a Lagoon Family 4-Pack\!
 * [814 N. Brookwood Dr. in Washington City](https://www.google.com/maps/place/Sunwood+Homes/@37.1438771,-113.5189162,15z/data=!4m5!3m4!1s0x0:0xbed75302bf46efe8!8m2!3d37.1438771!4d-113.5189162){: target="_blank"} (You can enter through the **Brio** Community)
 
