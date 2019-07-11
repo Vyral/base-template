@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/5XmKMTOshFQ'
 
 {% include youtube.html %}
 
-In today’s market update, I have some interesting facts to share with you regarding the first half of this market year.
+<p style="text-align: center;"><em>In today’s market update, I have some interesting facts to share with you regarding the first half of this market year.</em></p>
 
 With half of 2019 gone, let’s take a moment in today’s market update to look back on the numbers we saw from the first half, sorted by area.
 
