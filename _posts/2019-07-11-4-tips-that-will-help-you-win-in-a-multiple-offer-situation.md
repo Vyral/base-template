@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips That Will Help You Win in a Multiple-Offer Situation
-date: 2019-07-11 13:58:49
+date: 2019-07-11 13:58:00
 tags:
   - Home Buyer Tips
 excerpt: >-
