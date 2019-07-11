@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/IEJzFr1V2h0'
 
 {% include youtube.html %}
 
-Today I want to share a quick recap of our recent and awesome mission trip with One World Health and Christian Surfers to Nicaragua.
+<p style="text-align: center;"><em>Today I want to share a quick recap of our recent and awesome mission trip with One World Health and Christian Surfers to Nicaragua.</em></p>
 
 Recently, the Healthy Realty team went on an awesome and formative mission trip to the country of Nicaragua with One World Health and Christians Surfers. We learned so much and had many wonderful experiences.
 
