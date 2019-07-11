@@ -17,8 +17,20 @@ youtube_code: 'https://youtu.be/kbs7EKsDOVM'
 
 {% include youtube.html %}
 
-Welcome back to another edition of “Tulsa Foodie.” Today I’m super excited to introduce you to Melvin Piper, owner of Nouveau Chocolates. **Here’s an outline of the video above, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
+Welcome back to another edition of “Tulsa Foodie”. **Today I’m super excited to introduce you to Melvin Piper, owner of Nouveau Chocolates.** This Rose District shop is everything you’ve ever wanted in a chocolatier.
 
-0:50- Melvin gives us a rundown of his career, his business, and all the yummy sweets they have at Nouveau<br>1:40- Discussing the Rose District’s growth and the typical crowd Melvin sees in a day<br>2:20- An overview of all the different sweets that Nouveau offers<br>3:08- A special offer for all of our Tulsa Foodie viewers<br>3:30- Heading back to the kitchen to temper some white chocolate and coat some marshmallows with it<br>4:50- A look at some of the newest chocolates in Nouveau’s case<br>6:05- Sampling some OILFIRE whiskey chocolate<br>6:55- Wrapping things up and how to find Nouveau Chocolates
+Melvin always wanted to own a business and food is one of his biggest passions. He fell in love with chocolate on a trip to Europe and started working at Nouveau about eight years ago. About a year ago, he bought the business from the previous owner and **has put his own spin on some new classics while also maintaining the quality that people have always come to find at Nouveau.**
 
-**Thanks so much to Melvin for joining me and letting me take a look at some of his fantastic creations.** If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+They get a lot of foot traffic from the lunch and dinner crowds. There are some people that even come in for some coffee or tea every day or hot chocolate in the winter.
+
+{% include pullquote.html %}
+
+**Nouveau produces some of the finest Belgian chocolate around.** There are about 49 different selections in the showcase, which they are constantly adding to. They also serve delicious ice cream and chocolate-dipped cones.&nbsp;
+
+**For all of you Tulsa Foodies out there, you can get 10% off of a 15-piece box for the entire month of July\! Just make sure to mention us when you order\!**
+
+Some of their most popular chocolates include maple bacon, key lime pie, and chili pepper flavors. Their oil-fire whiskey is infused with caramel and has a creamy liquid center. I tried one for myself and it was absolutely incredible.&nbsp;
+
+**Come check out <u><a target="_blank" href="https://www.nouveauchocolate.com/">Nouveau Chocolates</a></u> for yourself on 205 S. Main St. in Broken** Arrow. You can also check them out on Instagram or Facebook @[nouveauchocolates](https://www.facebook.com/nouveauchocolates/){: target="_blank"}.
+
+**Thanks so much to Melvin for joining me and letting me take a look at some of his fantastic creations**. If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
