@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/Qph0CXNz9Eg'
 
 {% include youtube.html %}
 
-Join us this Saturday for a great time\!
+<p style="text-align: center;"><em>Join us this Saturday for a great time!</em></p>
 
 We’re delighted to have partnered with [Sunwood Homes](https://www.mysunwoodhomes.com/){: target="_blank"} to market their Brookwood Community. In addition to the incredibly stylish and well built homes they’re offering, you’re going to LOVE the location with ZERO through-streets in the Green Springs area\!
 
