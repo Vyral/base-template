@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/0O6cQKf2JdE'
 
 {% include youtube.html %}
 
-What is the Cardano Realtors’ room-by-room review? Learn more about it right here.
+<p style="text-align: center;"><em>What is the Cardano Realtors’ room-by-room review? Learn more about it right here.</em></p>
 
 Like many people who attend our seminars, you might be wondering what our ‘room-by-room review’ actually constitutes and why you should get one if you’re not planning to sell for at least three to five years. Today, let me demonstrate how important it is to learn what you don’t know about selling and staging a home.
 
