@@ -23,16 +23,16 @@ youtube_code: 'https://youtu.be/iVPgneEZqlM'
 
 What’s going on in our market as we make our way through summer?
 
-If you were following the news from the real estate world earlier this spring, you might’ve heard something about the crazy inventory shortage and spike in multiple-offer situations our market saw.&nbsp;
+If you were following the news from the real estate world earlier this spring, you might’ve heard something about the crazy inventory shortage and spike in multiple-offer situations.
 
-**This was true in certain price points and continues to be true now—primarily in homes** priced under $300,000. Above the $400,000, though, we’re starting to see the market balance out a bit, which is common for June. We usually have a push of buyer activity after the lethargy of winter, and now that summer’s here, the market reflects the fact that families have more activities going on.
+**This was true in certain price points and continues to be true now—primarily in homes** **priced under $300,000.** we’re starting to see the market balance out, which is common for June. We usually have a push of buyer activity after the lethargy of winter, and now that summer’s here, the market reflects the fact that families have more activities going on.&nbsp;
 
 {% include pullquote.html %}
 
 **Typically, 15% of the marketplace moves every five years, but according to the latest reports, that number has dropped to 11%.** Why? The answer can be found by looking at two consumer groups: baby boomers and millennials.&nbsp;
 
-Right now, baby boomers are looking for homes that primarily maintenance-free and single-level. That type of home is limited on the market, though, so more and more of this group are starting to retrofit their current homes and, to use a buzzword we’ve been hearing a lot lately, “age in place.”
+Right now, Baby Boomers are looking for homes that are primarily maintenance-free and/or single-level. There are a limited number of these homes available, so people are starting to retrofit their current home and (to use a buzzword we’ve been hearing a lot lately) “age in place.”
 
-Millennials, meanwhile, aren’t buying homes until they absolutely need to (i.e., after they get married or have a child). A lot of them are either continuing to rent or choosing to live with their parents.&nbsp;
+Millennials, meanwhile, aren’t buying homes until they absolutely need to (i.e., after they get married or have a child.) A lot of Millennials are either continuing to rent or choosing to live with their parents.&nbsp;
 
 If you have any more questions about our real estate market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to us. We’d love to help you.<br>&nbsp;
