@@ -29,7 +29,7 @@ Like many people who attend our seminars, you might be wondering what our ‘roo
 
 {% include pullquote.html %}
 
-This review is like having a real estate doctor make a housecall for your home. Some home seller seminar graduates aren’t aware of how important it is to take advantage of this opportunity months or even years ahead of when they plan to sell.&nbsp;
+This review is like having a real estate doctor make a house call for your home. Some home seller seminar graduates aren’t aware of how important it is to take advantage of this opportunity months or even years ahead of when they plan to sell.&nbsp;
 
 Some people may think their home isn’t ready for this sort of room-by-room review, but the point is that it doesn’t have to be. **This review can help sellers put together a plan of action.** The agent who assists you will look past any clutter to let you know where you should begin, and how to concentrate your efforts moving forward.
 
