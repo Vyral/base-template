@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Let These Common Buyer Fears Wreck Your Home Search
-date: 2019-07-08 00:00:00
+date: 2019-07-12 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
