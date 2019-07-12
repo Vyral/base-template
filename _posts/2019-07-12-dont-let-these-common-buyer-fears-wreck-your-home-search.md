@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   To have a successful home purchase, there are certain buyer fears you need to
   overcome.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Dont+Let+These+Common+Buyer+Fears+Wreck+Your+Home+Search.mp4
 pullquote: >-
   It’s not a perfect market out there, and a home’s list price might be either
   above or below its true value.
