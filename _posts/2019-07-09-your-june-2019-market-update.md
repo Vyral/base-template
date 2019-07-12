@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/june-2019-market-update-youtube.jpg
-youtube_code: Qc8iaJk0w7o
+youtube_code: T9Bho7wwJlE
 ---
 
 {% include youtube.html %}
