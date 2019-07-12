@@ -35,7 +35,7 @@ Some people may think their home isn’t ready for this sort of room-by-room rev
 
 Give your home a chance to shine and get top dollar by scheduling your free room-by-room review. We’ve been doing this service for years, and we have tons of testimonials from seller seminar graduates who were able to sell with 26 days or less.&nbsp;
 
-Pat Ingram is one of these happy sellers. **She initially didn’t quite agree with some of my ideas, but once she implemented them she was able to sell in just three days.**
+Pat Ingram is one of these happy sellers. **She initially didn’t quite agree with some of my ideas, but once she implemented them, she was able to sell in just three days.**
 
 To see just how well this service can work for you, go to [www.FreeRoomByRoom.com](http://www.FreeRoomByRoom.com){: target="_blank"} to schedule an appointment.
 
