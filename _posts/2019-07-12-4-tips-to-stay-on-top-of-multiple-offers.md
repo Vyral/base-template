@@ -26,7 +26,7 @@ If you’re selling your home and you receive a whole slew of offers from intere
 
 **1\. Stay organized.** I suggest that you lay out all your offers and create a spreadsheet so that you can compare apples to apples. This way, you can not only compare the purchase price of each offer, but also things like the closing date, due diligence fee, the type of financing, and more. Staying organized will allow you to better determine that you’re making the best decision.
 
-<br>**2\. Create a sense of urgency.** If you have a really popular house that receives multiple offers on the first day of listing, go back to the buyers or their agents, thank them for their offer, and then ask them to submit their best offer by a specific date that you set. In doing that, you can often get buyers to increase their offers.
+**2\. Create a sense of urgency.** If you have a really popular house that receives multiple offers on the first day of listing, go back to the buyers or their agents, thank them for their offer, and then ask them to submit their best offer by a specific date that you set. In doing that, you can often get buyers to increase their offers.
 
 {% include pullquote.html %}
 
