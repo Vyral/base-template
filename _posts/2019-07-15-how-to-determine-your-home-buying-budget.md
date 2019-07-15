@@ -5,7 +5,7 @@ date: 2019-07-15 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: How should you budget your expenses before you buy a new home? Find out today.
+excerpt: How should you budget your expenses before you buy a new home?
 enclosure:
 pullquote: >-
   A financial expert will be able to give you clear guidance as to what makes
@@ -19,7 +19,7 @@ youtube_code: pRyPhSDO3Ws
 
 {% include youtube.html %}
 
-<center><em>How should you budget your expenses before you buy a new home? Find out today.</em></center>
+<center><em>How should you budget your expenses before you buy a new home?</em></center>
 
 &nbsp;
 
