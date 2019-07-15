@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Know What Your Home Is Worth?
-date: 2019-07-15 14:29:39
+date: 2019-07-15 14:29:00
 tags:
   - Real Estate
 excerpt: How can you determine the value of your home? Find out right here.
