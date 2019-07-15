@@ -8,7 +8,7 @@ excerpt: >-
   Here are four tips that home sellers can use to manage multiple offers on
   their home. Stay tuned.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Melissa+Thompson/+Videos/2019/July/Memphis+Real+Estate+Agent-+5+Tips+to+Stay+on+Top+of+Multiple+Offers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Melissa+Thompson/+Videos/2019/July/Memphis+Real+Estate+Agent-+4+Tips+to+Stay+on+Top+of+Multiple+Offers.mp4
 pullquote: >-
   Find out what buyers like about your house, make sure their offer on your home
   isn’t contingent on them selling their own house, and determine why they want
