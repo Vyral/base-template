@@ -16,6 +16,8 @@ youtube_code: jcNfRUuL4JY
 
 {% include youtube.html %}
 
-<center>Don’t get caught off guard with this year’s tax reassessment.</center>
+<center><em>Don&rsquo;t get caught off guard with this year&rsquo;s tax reassessment.</em></center>
+
+&nbsp;
 
 Today I want to give you a quick reminder that 2019 is a tax reassessment year in Horry County. This means **if your property has increased in value by $1,000 or more, you should receive a reassessment notice this month**. It’s also a good time to check and see how you’re being taxed. If you’re not being taxed as a primary homeowner, you’re paying 2.5 times more in taxes each year. If you’re living in your house full-time, **make sure you’re not being overcharged**. If you have any questions about this topic, don’t hesitate to reach out to us. We’d love to help.
