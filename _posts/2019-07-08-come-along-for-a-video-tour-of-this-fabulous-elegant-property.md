@@ -5,8 +5,8 @@ date: 2019-07-08 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  I recently visited a gorgeous home in AREA, and today I’d like to take you
-  there with me through a quick video tour.
+  I recently visited a gorgeous home in Kenmore, WA and today I’d like to take
+  you there with me through a quick video tour.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Celeste+Zarling/Kirkland+Real+Estate+Agent-+Come+Along+for+a+Video+Tour+of+This+Fabulous%2C+Elegant+Property+(2).mp4
 pullquote:
