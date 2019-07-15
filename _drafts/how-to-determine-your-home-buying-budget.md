@@ -19,7 +19,7 @@ youtube_code: pRyPhSDO3Ws
 
 {% include youtube.html %}
 
-How should you budget your expenses before you buy a new home? Find out today.
+<center>How should you budget your expenses before you buy a new home? Find out today.</center>
 
 Today I’d like to quickly walk you through how you can determine what your budget should be when you’re buying a home.
 
