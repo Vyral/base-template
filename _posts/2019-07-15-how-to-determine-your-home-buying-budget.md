@@ -19,13 +19,15 @@ youtube_code: pRyPhSDO3Ws
 
 {% include youtube.html %}
 
-<center>How should you budget your expenses before you buy a new home? Find out today.</center>
+<center><em>How should you budget your expenses before you buy a new home? Find out today.</em></center>
+
+&nbsp;
 
 Today I’d like to quickly walk you through how you can determine what your budget should be when you’re buying a home.
 
 First things first, **talk to a mortgage professional**. They’ll take a look at your whole financial picture and help you understand what you’re pre-approved for along with your credit history. A financial expert will be able to give you clear guidance as to what makes the most sense for your situation.
 
-Now, a bank may be willing to loan you x amount of mortgage dollars, but that doesn’t necessarily mean you should take out the maximum amount. **Make sure your month-to-month payment is within an affordable range**, and that you’ll have money left over for unexpected house-related expenses or otherwise.
+Now, a bank may be willing to loan you "x amount of mortgage dollars," but that doesn’t necessarily mean you should take out the maximum amount. **Make sure your month-to-month payment is within an affordable range**, and that you’ll have money left over for unexpected house-related expenses or otherwise.
 
 {% include pullquote.html %}
 
