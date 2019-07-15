@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/2g7PIYiGm68'
 
 {% include youtube.html %}
 
-Why are home inspections so important? Find out today.
+<p style="text-align: center;"><em>Why are home inspections so important? Find out today.</em></p>
 
 Whether you’re a first-time homebuyer or you’ve bought dozens of homes, a home inspection provides you with a really great set of information about the house you’re looking to purchase.&nbsp;
 
