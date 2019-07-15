@@ -22,9 +22,9 @@ youtube_code: 'https://youtu.be/IEJzFr1V2h0'
 
 <p style="text-align: center;"><em>Today I want to share a quick recap of our recent and awesome mission trip with One World Health and Christian Surfers to Nicaragua.</em></p>
 
-Recently, the Healthy Realty team went on an awesome and formative mission trip to the country of Nicaragua with One World Health and Christians Surfers. We learned so much and had many wonderful experiences.
+Recently, the Healthy Realty Team went on an awesome and formative mission trip to the country of Nicaragua with One World Health and Christians Surfers. We learned so much and had many wonderful experiences.
 
-We visited villages around Tola, Nicaragua and stayed at the Surf Sanctuary in Playa Santana. **Our goals on this trip were to surf and serve**\: Monday through Friday, we would wake up at 5 a.m. and go to local beaches to surf, and then after breakfast, we would head to five different villages, to give the community free medical care, including treatment from medical doctors, occupational therapists, a pharmacist, and a chiropractor.&nbsp;
+We visited villages around Tola, Nicaragua and stayed at the Surf Sanctuary in Playa Santana. **Our goals on this trip were to surf and serve**\: Monday through Friday, we would wake up at 5 a.m. and go to local beaches to surf, and then after breakfast, we would head to five different villages to give the community free medical care, including treatment from medical doctors, occupational therapists, a pharmacist, and a chiropractor.&nbsp;
 
 We ran the clinics from about 9 a.m. to 5 p.m. and then returned to our hotel, totally exhausted. My husband is a physician, so he and three other doctors provided most of the medical care, along with several nurses, a pharmacist, and the physical therapy team. There were also several laypeople, like myself, other doctors’ spouses, and our children, but there were plenty of jobs for those without medical training.
 
