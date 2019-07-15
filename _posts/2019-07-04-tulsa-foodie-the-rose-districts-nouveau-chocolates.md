@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   On this edition of Tulsa Foodie, we’re trying something a little sweeter.
   Let’s check out Nouveau Chocolates.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Episode+6+-+Tulsa+Foodies+Latest+Feature-+Nouveau+Chocolates+(1).mp4
 pullquote: Nouveau produces some of the finest Belgian chocolate around
 enclosure_type: video/mp4
 enclosure_time:
