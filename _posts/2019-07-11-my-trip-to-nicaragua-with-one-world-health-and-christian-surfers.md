@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I want to share a quick recap of our recent and awesome mission trip
   with One World Health and Christian Surfers to Nicaragua.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2019/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+trip.mp4
 pullquote: >-
   No matter your age or abilities, these trips provide an opportunity to give to
   those in need if you have a heart willing to serve.
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/IEJzFr1V2h0'
+youtube_code: 'https://youtu.be/lcO-MZo8u10'
 ---
 
 {% include youtube.html %}
