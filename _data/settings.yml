@@ -28,7 +28,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.512austinhomes.com/cma/property-valuation/
+  first_CTA_URL: https://www.512austinhomes.com/homevalue/homevaluation
   second_CTA_text: Home Search
   second_CTA_URL: http://www.512austinhomes.com/search/advanced_search/
 
