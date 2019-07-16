@@ -35,7 +35,7 @@ In addition to issues that need to be handled immediately, the inspector’s rep
 
 While home inspections can’t tell you everything that’s wrong with the property, you wouldn’t buy a car without checking it out first, would you? You’re spending a lot more money on a home than a car, so you really do want to have it checked out by an inspector. If they find something that looks odd to them but they’re not entirely sure how much of an issue it is, **you can always have a specialist come back in before you decide to buy the house.**
 
-However, there are a couple of reasons that people hesitate to have an inspection done. The first concern people have is with cost. Depending on the size of the house and the complexity of the property, **the average cost of an inspection ranges between $400 and $500.** That may sound like a lot of money, but in the relative scale of the purchase you’re making, it’s well worth it.
+However, there are a couple of reasons that people hesitate to have an inspection done. The first concern people have is the cost. Depending on the size of the house and the complexity of the property, **the average cost of an inspection ranges between $400 and $500.** That may sound like a lot of money, but in the relative scale of the purchase you’re making, it’s well worth it.
 
 {% include pullquote.html %}
 
