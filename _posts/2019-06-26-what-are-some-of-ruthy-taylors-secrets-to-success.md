@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   What are Ruthy Taylor’s secrets to success? That’s what we’re about to find
   out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Agent+Success+Secrets+with+Jennie+Wolek-+Ruthy+Taylor%2C+Tacoma%2C+WA%2C+Keller+Williams+Realty.mp4
 pullquote: Ruthy has been able to get a lot of business without actively pursuing it.
 enclosure_type: video/mp4
 enclosure_time:
