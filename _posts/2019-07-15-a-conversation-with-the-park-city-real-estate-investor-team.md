@@ -23,7 +23,7 @@ youtube_code: EgEbcPwp4Eg
 
 They’re one of our top teams and their business model is commendable. They have one of the most highly trafficked websites in Park City and have managed to achieve a very high conversion rate, which is very difficult to do. Their client reviews are outstanding as well. How do they do it?
 
-**Annett and Drew feel that anybody who is reaching out from their website is already a step ahead of other buyers and sellers in the market.** They’re educated, they know where the market is going, they know the different neighborhoods, which makes it much easier to get out and start looking at properties.
+**Annett and Drew feel that anybody who is reaching out from their website is already a step ahead of other buyers and sellers in the market.** They’re educated, they know where the market is going, and they know the different neighborhoods, which makes it much easier to get out and start looking at properties.
 
 {% include pullquote.html %}
 
