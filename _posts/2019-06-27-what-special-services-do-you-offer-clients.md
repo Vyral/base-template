@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The services you offer to your clients matter, and today we’ll share a story
   that illustrates this point.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/What+Special+Services+Do+You+Offer+Clients_+(1).mp4
 pullquote: Open your mind to new ways you can serve your clients.
 enclosure_type: video/mp4
 enclosure_time:
