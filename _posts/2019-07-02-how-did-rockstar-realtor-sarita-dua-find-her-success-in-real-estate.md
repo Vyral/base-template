@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   As Realtors, some of the best ways we can grow in our profession is by looking
   to the example of successful individuals in our industry...
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Agent+Success+Secrets+with+Sarita+Dua%2C+Keller+Williams+Realty%2C+Portland%2C+OR.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
