@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 'If you’ve been thinking of buying, now is the perfect time to make a move.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Is+Now+the+Perfect+Time+to+Find+Your+Dream+Home_+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Is+Now+the+Perfect+Time+to+Find+Your+Dream+Home_+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-16-19yt.jpg
-youtube_code: Su7pkablk38
+youtube_code: 7jWFGTbPqPA
 ---
 
 {% include youtube.html %}
