@@ -13,9 +13,9 @@ pullquote: >-
   or a seller.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/misty-how-has-2019-treated-our-market-thus-far-youtube.jpg
+youtube_code: yTiKwXh0Xd0
 ---
 
 {% include youtube.html %}
