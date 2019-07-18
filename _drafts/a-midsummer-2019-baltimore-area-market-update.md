@@ -21,7 +21,7 @@ youtube_code: sHfYf4rrQnI
 
 {% include youtube.html %}
 
-What’s happening now in the Baltimore and Carroll County real estate markets? Let’s discuss this today.
+<center>What’s happening now in the Baltimore and Carroll County real estate markets? Let’s discuss this today.</center>
 
 Now that we’re halfway through 2019, it’s time to look back on how our Baltimore and Carroll County markets have been doing lately. As always, I’ll be referencing the last three complete months (in this case, May, June, and July) in comparison to that same period last year.
 
