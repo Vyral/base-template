@@ -14,8 +14,8 @@ pullquote: >-
   with very generous allowances in terms of repairs.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/wade---buying-a-home-in-need-of-renovation-youtube.jpg
 youtube_code: EUHSM7cfvpM
 ---
 
