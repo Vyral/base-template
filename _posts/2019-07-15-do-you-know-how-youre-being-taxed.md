@@ -5,7 +5,8 @@ date: 2019-07-15 00:00:00
 tags:
   - Real Estate
 excerpt: Don’t get caught off guard with this year’s tax reassessment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brittany+Foy/Videos/Do+You+Know+How+Youre+Being+Taxed_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
