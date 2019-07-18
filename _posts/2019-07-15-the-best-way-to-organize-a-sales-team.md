@@ -25,7 +25,7 @@ Once you define your different sales opportunities, it’s important to understa
 
 **The reasons why you want to have these roles divided are:**
 
-1\. It takes different personality types to master these roles.<br>2\. Your productivity will be exponentially greater.<br>3\. You will have more predictable revenue and happier salespeople.<br>4\. It gives teams the ability to create raving fans
+1\. It takes different personality types to master these roles.<br>2\. Your productivity will be exponentially greater.<br>3\. You will have more predictable revenue and happier salespeople.<br>4\. It gives teams the ability to create raving fans.
 
 **What we want to focus on here is the outbound strategy.** The outbound prospector is the person who is looking at a highly targeted list and reaching out on an outbound basis to convert those people into potential clients.&nbsp;
 
