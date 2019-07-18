@@ -9,8 +9,8 @@ enclosure:
 pullquote: We’ve structured our team to have the minimum number of cooks in the kitchen.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/wade---lending-team-can-benefit-you-youtube.jpg
 youtube_code: Ne6gD9rCoKs
 ---
 
