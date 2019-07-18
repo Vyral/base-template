@@ -37,7 +37,7 @@ Third, **there’s a lot of dichotomy in the market.** In terms of days on marke
 
 The other dichotomy lies between resale and new construction homes. New construction homes tend to have more inventory and a much higher average days on market, and right now we have about seven months’ worth of inventory for these types of homes. Some of this makes sense—it takes a while for these homes to be built in the first place (typically four to five months), and with the crazy weather we’ve already seen, it’s no surprise that this build period may have been extended.
 
-This is why, whether we’re working with buyers or sellers, we key in on the specific market you’re focused on. What use our expertise to help you strategize around your strongest position.&nbsp;
+This is why, whether we’re working with buyers or sellers, we key in on the specific market you’re focused on.&nbsp;
 
 The bottom line is we’re seeing a strong-but-changing market as we move through 2019, so we’ll have to be extra diligent at keeping an eye on what’s happening in other markets as well.&nbsp;
 
