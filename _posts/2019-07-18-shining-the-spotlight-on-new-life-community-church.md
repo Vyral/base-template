@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/ebauqW5wbaU'
 
 {% include youtube.html %}
 
-In today’s “Brand Ambassador” video, we’ll take you to New Life Community Church to learn about the program and why they’re one of our beneficiaries.
+<p style="text-align:center;"><em>In today’s “Brand Ambassador” video, we’ll take you to New Life Community Church to learn about the program and why they’re one of our beneficiaries.</em></p>
 
 The Brand Ambassador program, in a nutshell, is a powerful market system. **The goal of the program is to partner with small businesses in the Carlisle/Cumberland County area to magnify their brands.** By partnering, these businesses get to tap into a marketing system that took 17 years to build—that’s pretty powerful stuff. As the Brand Ambassador program grows in partnerships, the amount that it can give back to the community grows, as well.
 
