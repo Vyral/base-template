@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/HQajEewDA5I'
 
 {% include youtube.html %}
 
-If you want to learn more about short sales, this message is for you.
+<p style="text-align:center;"><em>If you want to learn more about short sales, this message is for you.</em></p>
 
 Today I’d like to touch on a topic that, thanks to our currently strong market, is not something many people have to deal with these days: short sales. However, while this kind of transaction may not be particularly common, it’s still something some sellers encounter. As such, I wanted to explain what short sales are and how to navigate one for all of you in this quick message.&nbsp;
 
