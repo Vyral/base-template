@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Latest News From Our Summer Market?
-date: 2019-07-16 00:00:00
+date: 2019-07-17 00:00:00
 tags:
   - Real Estate
   - Market Update
