@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/0Bm_drjwYrE'
 
 {% include youtube.html %}
 
-If you’re not entirely sure how the appraisal process works, you’ll be a little wiser on the subject by the end of today’s video.
+<p style="text-align: center;"><em> If you’re not entirely sure how the appraisal process works, you’ll be a little wiser on the subject by the end of today’s video.</em></p>
 
 Appraisals are a common topic of interest among buyers and sellers alike, so today I’ll answer nine questions about this topic to help you gain a better understanding of them no matter what side of the transaction you find yourself on.&nbsp;
 
