@@ -41,7 +41,7 @@ But if you're interested in investing in real estate, where do you start? And wh
 
 Now, these five tips are valuable—but they are only a start.
 
-If you're seriously considering real estate investing, I'd advise you to first take a look at some of the great homes available around the Orange County area. And if this gets your investment appetite going, give me a call. There are two reasons why.&nbsp;
+If you're seriously considering real estate investing, I'd advise you to first [take a look at some of the great homes available around the Orange County area.](http://www.alexyuteam.com/){: target="_blank"} And if this gets your investment appetite going, give me a call. There are two reasons why.&nbsp;
 
 First, I can give you my impressions about which types of homes (and in which neighborhoods) might make for a sensible first investment.&nbsp;
 
