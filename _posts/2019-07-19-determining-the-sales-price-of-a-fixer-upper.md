@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining the Sales Price of a Fixer-Upper
-date:
+date: 2019-07-19 16:52:12
 tags:
   - Real Estate
 excerpt: How much should you spend when investing in a fixer-upper? Today I’ll discuss.
