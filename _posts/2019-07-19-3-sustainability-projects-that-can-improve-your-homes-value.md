@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Sustainability Projects That Can Improve Your Home’s Value
-date: 2019-07-19 18:53:56
+date: 2019-07-19 18:53:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -27,7 +27,7 @@ A new survey by the National Association of Realtors just came out, and it made 
 
 So, if you are interested in sustainability and you want to sell your home for a higher price, here are three projects to consider:
 
-**1\.******E**nergy-efficient appliances.** Energy Star-certified appliances such as fridges, washing machines, and clothes dryers can be as much as 40% more water efficient and 25% more energy efficient than standard models. Those numbers go way up if you compare new energy-efficient appliances with models that are more than a few years old.&nbsp;
+**1\.&nbsp;****Energy-efficient appliances.&nbsp;**Energy Star-certified appliances such as fridges, washing machines, and clothes dryers can be as much as 40% more water efficient and 25% more energy efficient than standard models. Those numbers go way up if you compare new energy-efficient appliances with models that are more than a few years old.&nbsp;
 
 Other gadgets throughout your house might also warrant an update. For example, if you have an old thermostat or an inefficient water heater, then smart new alternatives such as the Nest thermostat or solar water heaters might also be worth a look.
 
