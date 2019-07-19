@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/7-16-19yt-9.jpg
 youtube_code: hUs32yqutCg
 ---
 
-{% include youtube.html %}.
+{% include youtube.html %}
 
 As you can see in the video above, I have a wonderful new listing available that I’d love to tell you more about in person.
 
