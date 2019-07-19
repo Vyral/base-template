@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Building a pool on your Houston property can be a great investment—here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/+Priyanka+Johri/2019/North+Houston+Real+Estate-+pools.mp4
+  https://vyralmarketing.s3.amazonaws.com/+Priyanka+Johri/2019/North+Houston+Real+Estate-+PPPOOOLS.mp4
 pullquote: >-
   You probably won’t get a 100% return on investment, but the important thing to
   remember in this regard is your lifestyle.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/d5j3PrU_kRY'
+youtube_code: 'https://youtu.be/x_QGWOx7ckk'
 ---
 
 {% include youtube.html %}
