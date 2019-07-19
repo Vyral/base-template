@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is an Escalator Clause?
-date: 2019-07-19 16:03:14
+date: 2019-07-19 16:03:00
 tags:
   - Real Estate
 excerpt: >-
