@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: How should you budget your expenses before you buy a new home?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/How+to+Determine+Your+Home+Buying+Budget.mp4
 pullquote: >-
   A financial expert will be able to give you clear guidance as to what makes
   the most sense for your situation.
