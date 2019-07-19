@@ -27,14 +27,14 @@ Today I’d like to touch on a topic that, thanks to our currently strong market
 
 2:18 - Why short sales can be advantageous for those faced with financial hardship
 
-2:33 - The first factor to consider when thinking about a short sale: Credit
+2:33 - The first factor to consider when thinking about a short sale: credit
 
-3:08 - The second factor to consider when thinking about a short sale: Taxes
+3:08 - The second factor to consider when thinking about a short sale: caxes
 
-5:29 - The third factor to consider when thinking about a short sale: Deficiency
+5:29 - The third factor to consider when thinking about a short sale: deficiency
 
 8:11 - How buyers can benefit from short sales
 
-8:52 - A few closing words.
+8:52 - A few closing words
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
