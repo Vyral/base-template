@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/28A_K7-TeCE'
 
 {% include youtube.html %}
 
-A recession is looming, but there’s no reason to believe it will look anything like the crash of 2008.&nbsp;<br>&nbsp;
+<p style="text-align:center;"><em>A recession is looming, but there’s no reason to believe it will look anything like the crash of 2008.&nbsp;<br>&nbsp;</em></p>
 
 The stock market is close to all-time highs, unemployment is extremely low, and inflation is still seemingly in check.
 
