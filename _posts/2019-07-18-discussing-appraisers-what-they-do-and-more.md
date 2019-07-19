@@ -8,13 +8,13 @@ excerpt: >-
   If you’re not entirely sure how the appraisal process works, you’ll be a
   little wiser on the subject by the end of today’s video.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+Answering+9+Questions+About+Appraisals.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2019/Montana+Real+Estate+_+The+Hollinger+Team-+9+appraisal+questions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/0Bm_drjwYrE'
+youtube_code: 'https://youtu.be/3bcq_4JgJGo'
 ---
 
 {% include youtube.html %}
