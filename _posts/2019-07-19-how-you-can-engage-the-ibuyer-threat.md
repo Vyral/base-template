@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How You Can Engage the iBuyer Threat
-date: 2019-07-19 18:14:19
+date: 2019-07-19 18:14:00
 tags:
   - Real Estate
 excerpt: >-
