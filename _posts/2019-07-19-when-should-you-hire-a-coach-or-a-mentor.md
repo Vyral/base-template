@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Hire a Coach or a Mentor?
-date: 2019-07-19 21:12:07
+date: 2019-07-19 21:12:00
 tags:
 excerpt:
 enclosure: >-
