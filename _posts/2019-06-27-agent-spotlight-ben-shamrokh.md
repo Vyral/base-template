@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Agent Spotlight: Ben Shamrokh'
-date: 2019-06-27 21:38:44
+date: 2019-06-27 21:38:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 1oPAyz4Rpyk
 
 {% include youtube.html %}
 
-We’re continuing our agent spotlight series today with rockstar agent Ben Shamrokh.
+We’re continuing our Agent Spotlight Series today with rockstar agent Ben Shamrokh.
 
 Ben was born and raised here in the Twin Cities and has lived here all his life. **His dad was a driving force behind his career in real estate** and worked as a real estate broker before him. Now Ben has followed in his footsteps.
 
