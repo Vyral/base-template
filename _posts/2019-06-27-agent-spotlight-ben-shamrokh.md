@@ -8,13 +8,13 @@ excerpt: >-
   Ben Shamrokh is a rockstar real estate agent here on the John Schuster Team.
   We’re shining the spotlight on him today.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Agent+Spotlight-+Ben+Shamrokh.mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Agent+Spotlight-+Ben+Shamrokh+(1).mp4
 pullquote: Ben’s actually a professional sand volleyball player.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 1oPAyz4Rpyk
+youtube_code: By9bTwN-qjk
 ---
 
 {% include youtube.html %}
