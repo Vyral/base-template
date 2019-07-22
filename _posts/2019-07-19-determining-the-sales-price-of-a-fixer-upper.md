@@ -20,7 +20,7 @@ youtube_code: cYZlSFVDAKo
 
 {% include youtube.html %}
 
-When it comes to answer the question of how much you should spend on a fixer-upper home, we need to understand how to calculate the value of the property in its as-is condition before repairs.
+When it comes to answering the question of how much you should spend on a fixer-upper home, we need to understand how to calculate the value of the property in its as-is condition before repairs.
 
 First, we need to address the ARV, or the ‘after repair value.’ This describes how much a property will be worth once all updates and repairs have been completed. **To find the max sales price, we take the ARV and subtract from it the cost of those repairs and updates, as well as any potential profit.**
 
