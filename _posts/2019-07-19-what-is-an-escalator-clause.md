@@ -33,6 +33,6 @@ These are often done in markets like ours, where inventory is in short supply. T
 
 **What are your options if a competitor exceeds your price cap?**
 
-You could make yours a backup offer. Suppose the seller of the home you’re bidding on decides to accept another offer; **you could ask the seller to keep your offer in mind as a backup in the event that the deal with the seller whose offer they accepted falls through.** Anything can happen, and if that deal falls through, then you’ll be right there to pick up the contract with the seller. The listing agent wouldn’t have to relist the home on the market, and you’d get the home you desire.
+You could make yours a backup offer. Suppose the seller of the home you’re bidding on decides to accept another offer. In this case, **you could ask the seller to keep your offer in mind as a backup in case their deal with the first buyer falls through.&nbsp;**Anything can happen, and if that deal falls through, then you’ll be right there to pick up the contract with the seller. The listing agent wouldn’t have to relist the home on the market, and you’d get the home you desire.
 
 If you have any questions about escalator clauses or anything else to do with real estate, don’t hesitate to reach out to me. I’d love to hear from you.
