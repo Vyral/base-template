@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Protect Yourself Against This Popular Rental Scam
-date: 2019-07-22 14:36:14
+date: 2019-07-22 14:36:00
 tags:
   - Real Estate
 excerpt: >-
