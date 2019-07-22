@@ -19,7 +19,9 @@ youtube_code: GH-CA2myHT4
 
 {% include youtube.html %}
 
-<center>Our team has access to a secret set of listings that you won’t find on the MLS.</center>
+<center><em>Our team has access to a secret set of listings that you won&rsquo;t find on the MLS.</em></center>
+
+&nbsp;
 
 Today I am going to share with you, not one, but three of our top coming soon listings before they are out on the MLS and available for purchase to anyone else.
 
