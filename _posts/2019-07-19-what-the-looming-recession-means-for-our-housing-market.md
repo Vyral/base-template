@@ -35,7 +35,7 @@ First of all, unlike in 2008, **there aren’t a ton of bad mortgages out there.
 
 {% include pullquote.html %}
 
-Second, the **looming recession will not be the exception.** In recessions past, the housing market as a whole wasn’t affected the was it was in 2008. In my opinion, homes that are still desirable will continue to sell—even in a recession. Homes that are overpriced, don’t have the same features as the rest of the homes, or are somewhat affected by this recession will take longer to sell. That’s just the reality of the situation.&nbsp;
+Second, the **looming recession will not be an exception.** In recessions past, the housing market as a whole wasn’t affected the was it was in 2008. In my opinion, homes that are still desirable will continue to sell—even in a recession. Homes that are overpriced, don’t have the same features as the rest of the homes, or are somewhat affected by this recession will take longer to sell. That’s just the reality of the situation.&nbsp;
 
 If you’re a home seller, this means you need to focus on your needs, goals, and circumstances. After that, examine the market environment and look toward the future to see what makes sense for you. If you’re curious what your Orange County home is worth, you can use our home value calculator right here on our website.&nbsp;
 
