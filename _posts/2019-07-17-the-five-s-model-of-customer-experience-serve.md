@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The second “S” of the Five-S model of the customer experience is “serve.”
   Here’s how you need to serve your clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/The+Five-S+Model+of+Customer+Experience-+Serve.mp4
 pullquote: 'If we don’t do something we said we would do, people lose trust in us.'
 enclosure_type: video/mp4
 enclosure_time:
