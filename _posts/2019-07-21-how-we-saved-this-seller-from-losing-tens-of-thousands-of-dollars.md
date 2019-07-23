@@ -26,7 +26,7 @@ I don’t usually sell stories about my clients, but today I’ve got one that I
 
 Recently, our team met someone who was in the middle of transitioning between homes. They had already gone under contract with the home they were buying next but had yet to sell their current home. This person was very invested in making sure their deal worked out, but they weren’t sure they should try to list on the open market. So, they decided to look into selling their home for cash to the instant offer company Opendoor.
 
-&nbsp;If you haven’t already heard of this company, allow me to explain: **Opendoor is an instant offer (or iBuyer) company that purchase homes for cash with the promise of a supposedly convenient experience.** Then, they turn around and sell the property on the open market for a profit. What they don’t advertise, though, is that they pay sellers far less money than they could earn on the open market. &nbsp;With that in mind, let’s get back to our story.
+&nbsp;If you haven’t already heard of this company, allow me to explain: **Opendoor is an instant offer (or iBuyer) company that purchases homes for cash with the promise of a supposedly convenient experience.** Then, they turn around and sell the property on the open market for a profit. What they don’t advertise, though, is that they pay sellers far less money than they could earn on the open market. &nbsp;With that in mind, let’s get back to our story.
 
 {% include pullquote.html %}
 
