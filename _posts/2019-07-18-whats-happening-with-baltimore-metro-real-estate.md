@@ -12,7 +12,7 @@ pullquote: We’ve basically had three straight years of solid home appreciation
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/updateyt.jpg
+youtube_alternate_image: /uploads/wes-peters-7-19-19yt.jpg
 youtube_code: 2ZKKdYfT4zU
 ---
 
