@@ -29,7 +29,7 @@ Not too long ago, a newly introduced whitening toothpaste was brought to her att
 
 2:10—The story behind her business venture selling AP-24 toothpaste
 
-4:34—About AP-24 toothpaste and how you can achieve the desired results from it
+4:34—About AP-24 toothpaste and how you can achieve your desired results from it
 
 5:40—How you can contact Rachael if you’d like to try it yourself
 
