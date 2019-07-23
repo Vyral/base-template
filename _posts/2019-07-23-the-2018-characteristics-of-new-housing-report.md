@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 2018 Characteristics of New Housing Report
-date: 2019-07-23 20:21:03
+date: 2019-07-23 08:21:00
 tags:
   - Real Estate
 excerpt: >-
