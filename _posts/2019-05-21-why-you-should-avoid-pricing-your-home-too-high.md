@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Be sure to avoid these three pitfalls created when you overprice your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Avoid+Pricing+Your+Home+Too+High.mp4
 pullquote: Chances are you won’t be able to fool the buyer about the value of your home.
 enclosure_type: video/mp4
 enclosure_time:
