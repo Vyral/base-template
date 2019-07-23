@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-22-coming-soon-listings-np.jpg
-youtube_code: GH-CA2myHT4
+youtube_code: YGImXFgXuaU
 ---
 
 {% include youtube.html %}
@@ -23,7 +23,7 @@ youtube_code: GH-CA2myHT4
 
 &nbsp;
 
-Today I am going to share with you, not one, but three of our top coming soon listings before they are out on the MLS and available for purchase to anyone else.
+Today I am going to share with you, not one but three of our top coming soon listings before they are out on the MLS and available for purchase to anyone else.
 
 Have you been, or do you know someone who is, frustrated because you keep just missing out on the best deals? You find a place you love and go to the open house or call the agent and it’s already gone. This can feel like a waste of time and be heartbreaking.
 
@@ -37,8 +37,8 @@ We have access to a number of other agents and their coming soon listings. **Thi
 
 **Our first property is a bungalow in the SW neighbourhood Westgate**. It is currently being painted, so it’s going to look even better than it does now. People just love the mature trees and the easy access to bow trail and downtown.
 
-**The next property is a 1400 square foot bungalow with hardwood floors in the NW neighbourhood Dalhousie**. This is located on a great crescent and close to sought-after schools. This really has some great potential for somebody that is willing to do a little bit of work and updating. Do you want to build some sweat equity? This is an opportunity to do so.
+**The next property is a 1,400 square foot bungalow with hardwood floors in the NW neighbourhood Dalhousie**. This is located on a great crescent and close to sought-after schools. This really has some great potential for somebody that is willing to do a little bit of work and updating. Do you want to build some sweat equity? This is an opportunity to do so.
 
-**The third secret deal is a nearly 1600 square foot two-story with a double-attached garage and a fully developed basement for under $375,000**. It is currently being painted inside and the huge back decks are being stained. This one will get scooped up quickly. It's also close to schools, shopping, transit, Stoney and the Deerfoot.
+**The third secret deal is a nearly 1,600 square foot two-story with a double-attached garage and a fully developed basement for under $375,000**. It is currently being painted inside and the huge back decks are being stained. This one will get scooped up quickly. It’s also close to schools, shopping, transit, and the Stoney and Deerfoot trails.
 
 If you want more information on these, other properties, or our other unique home marketing systems and strategies, give us a call or send us an email today. We’d be happy to put our particular set of skills to work for you.
