@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-18---dave-hooke---email-02.jpg
-youtube_code: 'https://youtu.be/ebauqW5wbaU'
+youtube_code: 'https://www.youtube.com/watch?v=ebauqW5wbaU&feature=youtu.be'
 ---
 
 {% include youtube.html %}
