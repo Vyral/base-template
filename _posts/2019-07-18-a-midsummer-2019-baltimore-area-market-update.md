@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   What’s happening now in the Baltimore and Carroll County real estate markets?
   Let’s discuss this today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/A+Midsummer+2019+Baltimore+Area+Market+Update.mp4
 pullquote: >-
   Our market has been on an upward trend since 2009, and we’re far overdue for a
   pullback.
