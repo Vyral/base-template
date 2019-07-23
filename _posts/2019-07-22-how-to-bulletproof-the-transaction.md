@@ -30,7 +30,7 @@ When it comes to appraisals, they can sometimes be an issue in downward-trending
 
 **Loan approvals and funding.** Potential issues here include credit issues, delays in application, documentation problems, and the lender’s failure to approve and fund. To stay ahead of these issues, select an originator who will get the buyer through the full underwriting process prior to home shopping. You can also offer to assist buyers with paperwork or refer them to a credit counselor and then have them reapply or do a parallel loan application.&nbsp;
 
-In terms of buyer credit issues, there are seven don’ts of mortgage funding that you should educate your buyers on up front and throughout the home purchase:
+{% include pullquote.html %}<br><br>In terms of buyer credit issues, there are seven don’ts of mortgage funding that you should educate your buyers on up front and throughout the home purchase:
 
 * Don’t change employment status
 * Don’t make any major purchases
@@ -42,11 +42,9 @@ In terms of buyer credit issues, there are seven don’ts of mortgage funding th
 
 **Other contingencies** (the sale of the buyer’s house, getting third-party approvals on short sales or distressed properties, etc.). In this case, you want to take backup offers on your listings and know who to communicate with during complex transactions. Also, be sure to get preliminary title reports on your listings and read them before going on the market.&nbsp;
 
-{% include pullquote.html %}
-
 **Co-op agents.** We hear plenty of complaints about co-op agents, but let’s do our best to keep our own egos out of the negotiations and assume that these agents are less educated about the market. They may be unintentionally giving bad advice due to poor communication, or they’re making bad vendor selections. In any case, you can stay ahead of this by clarifying your clients’ intentions. Own the process and deliver sound communication throughout.&nbsp;
 
-**Deadlines.** You might have tight inspection or repair deadlines,or the selected closing date won’t work. We often see occupancy issues with taking possession and delayed approval because of delayed documentation being delivered by the buyer to the lender. In these cases, be sure to confirm appraisal and inspection appointments and follow up on their progress. Build in some buyer and seller flexibility up front, prepare them for any common delay issues, and manage your closing checklist.&nbsp;
+**Deadlines.** You might have tight inspection or repair deadlines, or the selected closing date won’t work. We often see occupancy issues with taking possession and delayed approval because of delayed documentation being delivered by the buyer to the lender. In these cases, be sure to confirm appraisal and inspection appointments and follow up on their progress. Build in some buyer and seller flexibility up front, prepare them for any common delay issues, and manage your closing checklist.&nbsp;
 
 Being proactive in the transaction will help everyone focus on the positive. Also, keep your clients intentional and flexible, and make sure you keep all players in the transaction accountable. Be a problem-solver and be customer-centric in handling whatever goes wrong.&nbsp;
 
