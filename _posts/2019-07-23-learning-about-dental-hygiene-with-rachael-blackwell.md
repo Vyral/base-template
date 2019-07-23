@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/etBA4vaClNM'
 
 {% include youtube.html %}
 
-<br>Welcome back to another segment of “Casey’s Corner”\!&nbsp;
+Welcome back to another segment of “Casey’s Corner”\!&nbsp;
 
 In our third and final installment of this edition, we’re joined by my friend Rachael Blackwell—a 15-year veteran of the dental field and dental hygienist since 2010. Throughout her career, she’s seen numerous products come on the market, only to later be replaced by others.&nbsp;
 
