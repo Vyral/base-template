@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Do You Know About Earthquake Insurance?
-date: 2019-07-23 20:37:18
+date: 2019-07-23 08:37:00
 tags:
   - Real Estate
 excerpt: >-
