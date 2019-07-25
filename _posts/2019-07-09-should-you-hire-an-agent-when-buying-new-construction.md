@@ -1,16 +1,14 @@
 ---
 layout: post
 title: Should You Hire an Agent When Buying New Construction?
-date: 2019-07-09 21:08:11
+date: 2019-07-09 21:08:00
 tags:
   - Real Estate
 excerpt: >-
   Using an agent when buying a new construction property is so important, and
   today Victoria Moberly is with me to give her insight into why that is.
 enclosure:
-pullquote: >-
-  “As great as the on-site agents are, their job is to represent the seller,”
-  Victoria candidly says.
+pullquote: You'll benefit more from having an agent.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -30,7 +28,7 @@ When she’s on-site at new construction properties, Victoria is repeatedly aske
 
 The new construction home buying process is long and painstaking, so **having the support of an agent who has your best interest at heart is paramount to your success**. “As great as the on-site agents are, their job is to represent the seller,” Victoria candidly says.&nbsp;
 
-If an issue were to arise somewhere in the process, it’s nice to have an agent or a firm that will hold the builder to account and push for a remedy on your behalf.&nbsp;
+If an issue were to arise somewhere in the process, you'd be relieved to have an agent or a firm that will hold the builder accountable and push for a remedy on your behalf.&nbsp;
 
 In keeping with our interview with Pam, Victoria also revealed one fun fact about herself. She’s a big fan of movie soundtracks, but since she’s had children, she’s learned that her music tastes are no longer “cool.” The “Frozen” soundtrack is one of her personal favorites.&nbsp;
 
