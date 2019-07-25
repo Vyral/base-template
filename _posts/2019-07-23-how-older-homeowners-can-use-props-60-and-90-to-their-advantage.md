@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/prop-60-and-90-youtube-1.jpg
-youtube_code: Oc0802YXPtc
+youtube_code: vDvnyunZ4aY
 ---
 
 {% include youtube.html %}
