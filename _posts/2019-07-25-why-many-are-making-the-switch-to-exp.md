@@ -19,7 +19,9 @@ youtube_code: 'https://youtu.be/I-8fQDPvDnQ'
 
 {% include youtube.html %}
 
-<center>Today I sat down with The Caul Group’s operations manager, Pam Saxman, to chat about a movement in the real estate industry</center>
+<center>Today I sat down with The Caul Group&rsquo;s operations manager, Pam Saxman, to chat about a movement in the real estate industry</center>
+
+<center>&nbsp;</center>
 
 In real estate lately, we’ve noticed that many agents are moving from traditional brokerages to either independent firms or to other brokerages. In light of this trend, I sat down with The Caul Group’s operations manager, Pam Saxman, to chat about what’s next for our own team.
 
