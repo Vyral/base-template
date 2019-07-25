@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Using an agent when buying a new construction property is so important, and
   today Victoria Moberly is with me to give her insight into why that is.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tina+Caul/Should+You+Hire+an+Agent+When+Buying+New+Construction_.mp4
 pullquote: You'll benefit more from having an agent.
 enclosure_type: video/mp4
 enclosure_time:
