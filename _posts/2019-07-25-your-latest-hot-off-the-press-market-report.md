@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Latest Hot-Off-the-Press Market Report
-date: 2019-07-25 19:54:19
+date: 2019-07-25 19:54:00
 tags:
   - Market Update
 excerpt: >-
