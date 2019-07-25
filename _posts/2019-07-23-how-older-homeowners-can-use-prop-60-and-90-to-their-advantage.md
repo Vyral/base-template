@@ -38,6 +38,6 @@ An important point to consider is that the participating counties in Prop 90 are
 
 All in all, this is a wonderful option for aging homeowners who would like to downsize or move closer to their loved ones while keeping their tax base. A lot of people we speak with are good candidates for this resource and aren’t aware of it, so it’s important to have information like this at your disposal before making such a major life decision. &nbsp;
 
-For more information about Props 60 and Prop 90, check out [Assessor.LACounty.gov.](Assessor.LACounty.gov)&nbsp;
+For more information about Props 60 and Prop 90, check out [Assessor.LACounty.gov.](https://assessor.lacounty.gov/){: target="_blank"}&nbsp;
 
 If you have any further questions for us, we’d be happy to provide you more information on this particular topic. We’d be happy to assist you with your real estate needs\!&nbsp;<br>&nbsp;
