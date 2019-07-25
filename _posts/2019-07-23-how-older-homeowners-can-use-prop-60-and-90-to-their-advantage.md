@@ -28,7 +28,7 @@ With this tax initiative, homeowners who are 55 years old or above are able to t
 
 Through an application process, Prop 90 affords you the opportunity to do an inter-county tax base transfer between cooperating counties. One scenario might be that you’re moving from LA County to Riverside County or vice versa. &nbsp; &nbsp;&nbsp;
 
-For example, say you bought a home for $100,000 several years ago and your home is now valued at $800,000. You’re now looking to downsize and you’d like to make an intra-county home purchase. Thanks to Prop 60 and 90, that same tax base you’ve had on your once-$100,000 property could be applied to your new home. &nbsp;&nbsp;
+For example, say you bought a home for $100,000 several years ago and your home is now valued at $800,000. You’re now looking to downsize and you’d like to make an intra-county home purchase. Thanks to Props 60 and 90, that same tax base you’ve had on your once-$100,000 property could be applied to your new home. &nbsp;&nbsp;
 
 {% include pullquote.html %}
 
@@ -38,6 +38,6 @@ An important point to consider is that the participating counties in Prop 90 are
 
 All in all, this is a wonderful option for aging homeowners who would like to downsize or move closer to their loved ones while keeping their tax base. A lot of people we speak with are good candidates for this resource and aren’t aware of it, so it’s important to have information like this at your disposal before making such a major life decision. &nbsp;
 
-For more information about Prop 60 and Prop 90, check out [Assessor.LACounty.gov.](This carries a lot of benefit for older homeowners because you won’t have to pay more in property taxes based on a new assessment.   An important point to consider is that the participating counties in Prop 90 are subject to change over time, so we always encourage homeowners to research the counties that allow or disallow this kind of move.   All in all, this is a wonderful option for aging homeowners who would like to downsize or move closer to their loved ones while keeping their tax base. A lot of people we speak with are good candidates for this resource and aren’t aware of it, so it’s important to have information like this at your disposal before making such a major life decision.    For more information about Prop 60 and Prop 90, check out Assessor.LACounty.gov.    If you have any further questions for us, we’d be happy to provide you more information on this particular topic. We’d be happy to assist you with your real estate needs! )&nbsp;
+For more information about Props 60 and Prop 90, check out [Assessor.LACounty.gov.](Assessor.LACounty.gov)&nbsp;
 
 If you have any further questions for us, we’d be happy to provide you more information on this particular topic. We’d be happy to assist you with your real estate needs\!&nbsp;<br>&nbsp;
