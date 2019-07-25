@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There’s a popular rental scam going around that you need to watch out for so
   you don’t fall prey to it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/How+to+Protect+Yourself+Against+This+Popular+Rental+Scam.mp4
 pullquote: 'If the price is too good to be true, it probably is.'
 enclosure_type: video/mp4
 enclosure_time:
