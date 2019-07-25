@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Our team has access to a secret set of listings that you won’t find on the
   MLS.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Top+Secret+Listings+%26+Agents+You+Should+Know+About.mp4
 pullquote: These will get scooped up quickly.
 enclosure_type: video/mp4
 enclosure_time:
