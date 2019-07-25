@@ -13,20 +13,20 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-18---oggie-penev---youtube.jpg
-youtube_code: 'https://youtu.be/_dXTA44Pl8U'
+youtube_code: 'https://youtu.be/1lZwLFxnulM'
 ---
 
 {% include youtube.html %}
 
 If you’re in the market for a rental property, there’s a popular scam going around that you need to watch out for. How do we know how it works? We were indirectly affected by it.&nbsp;
 
-You see, we listed a property that was vacant, but about a week later, we started getting calls from people asking about getting the keys to it. We had no idea what they were talking about, but we eventually found out what happened.&nbsp;
+You see, we listed a vacant property, but about a week later, we started getting calls from people asking about getting the keys to it. We had no idea what they were talking about, but we eventually found out what happened.&nbsp;
 
 As it turns out, someone stole pictures of that property and used them to make their own fake rental listing on Craigslist. They even researched its tax records to find out who the owner was so they could create an email unsuspecting renters could respond to. Basically, **they were trying to list the property far below market value and trick anyone who was interested in it to wire money to them in exchange for the keys to be delivered in the mail.**
 
 {% include pullquote.html %}
 
-How can you protect yourself against his scam? There are a couple of red flags that you need to watch out for. &nbsp;
+How can you protect yourself against this scam? There are a couple of red flags that you need to watch out for. &nbsp;
 
 The first is if you come across a listing whose price is very low. If the price is too good to be true, it probably is. The second is if the person you contact for the listing tells you they can’t meet you at the property to walk you through it and/or hand over the keys.&nbsp;
 
