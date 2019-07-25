@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What If the Market Is Ready Before the House?
-date: 2019-07-23 14:50:24
+date: 2019-07-23 14:50:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -27,7 +27,7 @@ There are two moments in the home selling process when a seller has the best cha
 
 {% include pullquote.html %}
 
-I recently worked with a client in my own neighborhood who followed just such a strategy. Despite what one of my fellow agents believed would be the case, my client was able to secure a contingency-free offer at a very high price.&nbsp;
+I recently worked with a client in my own neighborhood who followed such a strategy. Despite what one of my fellow agents believed would be the case, my client was able to secure a contingency-free offer at a very high price.&nbsp;
 
 This isn’t the right route for everyone, but it’s certainly a viable option for some. So if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
