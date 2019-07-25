@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   If you’re a homeowner who’s 55 or older and you’re looking to make a move
   while keeping your current tax base, let us explain how you can.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/How+Older+Homeowners+Can+Use+Props+60+and+90+to+Their+Advantage.mp4
 pullquote: >-
   All in all, this is a wonderful option for aging homeowners who would like to
   downsize or move closer to their loved ones while keeping their tax base.
