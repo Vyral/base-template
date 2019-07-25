@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Older Homeowners Can Use Prop 60 and 90 to Their Advantage
+title: How Older Homeowners Can Use Props 60 and 90 to Their Advantage
 tags:
   - Market Update
   - Real Estate
