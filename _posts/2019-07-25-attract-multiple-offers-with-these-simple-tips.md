@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Attract Multiple Offers With These Simple Tips
-date: 2019-07-25 15:00:03
+date: 2019-07-25 15:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
