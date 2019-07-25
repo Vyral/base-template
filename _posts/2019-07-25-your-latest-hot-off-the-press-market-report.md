@@ -40,6 +40,6 @@ According to Danielle Hale, Realtor.com’s chief economist, “Lower mortgage r
 
 The bottom line is this: The window of opportunity is going to disappear, so you have to take advantage of it now.&nbsp;
 
-If you want to learn how to sell your home quickly and for top dollar, be sure to attend my next Home Selling Sharks seminar on October 12 at the Hilton Garden Inn in Fort Washington. I’ll also be giving away autographed copies of my book “Home Selling Sharks.” To find out all the details, visit www.homesellingsharkseminar.com or just give me a call.&nbsp;
+If you want to learn how to sell your home quickly and for top dollar, be sure to attend my next Home Selling Sharks seminar on October 12 at the Hilton Garden Inn in Fort Washington. I’ll also be giving away autographed copies of my book “Home Selling Sharks.” To find out all the details, visit [http://www.homesellingsharks.com/seminar-details/](http://www.homesellingsharks.com/seminar-details/) or just give me a call.&nbsp;
 
 If you have any other questions about our market, feel free to reach out to me a swell. I’d love to help you.&nbsp;
