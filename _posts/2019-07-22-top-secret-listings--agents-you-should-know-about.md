@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top-Secret Calgary Homes for Sale
+title: Top Secret Listings & Agents You Should Know About
 date: 2019-07-22 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ pullquote: These will get scooped up quickly.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/7-22-coming-soon-listings-np-02.jpg
+youtube_alternate_image: /uploads/7-25---eric---yt.jpg
 youtube_code: YGImXFgXuaU
 ---
 
