@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Many Are Making the Switch to eXp
-date: 2019-07-25 21:27:59
+date: 2019-07-25 21:27:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8fQDPvDnQ
+youtube_code: 'https://youtu.be/I-8fQDPvDnQ'
 ---
 
 {% include youtube.html %}
