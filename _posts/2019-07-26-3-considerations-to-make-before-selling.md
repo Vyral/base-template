@@ -21,7 +21,7 @@ youtube_code: CNFGE80E7Y8
 
 {% include youtube.html %}
 
-<center><em>There are three important factors to consider before you put your home on the market.</em></center>
+<p style="text-align: center";><em>There are three important factors to consider before you put your home on the market.</em></p>
 
 Before you put your home on the market, there are three things you need to be aware of if you want to sell quickly and for top dollar.&nbsp;
 
