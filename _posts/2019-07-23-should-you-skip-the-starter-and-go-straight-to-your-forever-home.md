@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Skip the Starter and Go Straight to Your Forever Home?
-date: 2019-07-23 20:28:16
+date: 2019-07-23 20:28:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -32,7 +32,7 @@ Next, **consider whether you’re settled down enough to invest in your forever 
 
 Further to that, your preferences may change over time with regard to your home and its surroundings. After a few years, you might decide you’d rather live somewhere with a community pool or on an acreage without any neighbors nearby. &nbsp;
 
-Whether you opt to move into a starter or into your forever home right away, though, you’ll be able to enjoy the benefits of homeownership, either way. &nbsp;**When you make that first-time purchase, your days of worrying about the struggles of renting are over.** You’ll no longer have to move from one complex to the next due to rising rates, and you’ll be able to start growing equity and making memories in a home.&nbsp;
+Whether you opt to move into a starter or into your forever home right away, though, you’ll be able to enjoy the benefits of homeownership. &nbsp;**When you make that first-time purchase, your days of worrying about the struggles of renting are over.** You’ll no longer have to move from one complex to the next due to rising rates, and you’ll be able to start growing equity and making memories in a home.&nbsp;
 
 On top of that, **homeownership offers the luxury of being able to decorate however you see fit and make upgrades to your heart’s content. &nbsp;**&nbsp;
 
