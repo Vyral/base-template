@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When’s the Best Time to Do Home Upgrades?
-date: 2019-07-25 14:40:22
+date: 2019-07-25 14:40:00
 tags:
   - Home Seller Tips
 excerpt: When’s the best time to do a home upgrade? Find out today.
@@ -21,7 +21,7 @@ youtube_code: e8veAMNsTfU
 
 People often ask us when they should do their home upgrades: right now, or when they’re getting ready to sell their home?
 
-**No matter what upgrades you do, you first need to realize that you’re never going to get 100% of your money back on your investment.** Your upgrades will make your home much more saleable and you’ll likely get a higher price for it, but dollar-for-dollar, you won’t get a full return.
+**No matter what upgrades you do, you first need to realize that you’re never going to get 100% of your money back on your investment.** Your upgrades will make your home much more saleable and you’ll likely get a higher price for it, but dollar for dollar, you won’t get a full return.
 
 {% include pullquote.html %}
 
