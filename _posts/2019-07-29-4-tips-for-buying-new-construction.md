@@ -6,8 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   There are some amazing new home developments in the Long Beach, LA, and Orange
-  County areas. We have a lot of experience helping people buy new homes, so we
-  wanted to share some of our best tips today.
+  County areas.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tim+Majka/4+Tips+for+Buying+New+Construction.mp4
 pullquote: 'A recent client received over $23,000 in new-home incentives.'
