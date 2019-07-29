@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Refinance When You’re Not On the Loan
-date: 2019-07-29 20:17:57
+date: 2019-07-29 20:17:00
 tags:
   - Real Estate
 excerpt: >-
