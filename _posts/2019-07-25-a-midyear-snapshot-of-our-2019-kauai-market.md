@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-23-19ytsmall.jpg
-youtube_code: 4TkE0ON9z6k
+youtube_code: nwLeUXEjyzY
 ---
 
 {% include youtube.html %}
