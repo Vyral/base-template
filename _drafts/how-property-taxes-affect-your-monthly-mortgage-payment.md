@@ -16,7 +16,7 @@ youtube_code: 1SVA1pDnk6I
 
 {% include youtube.html %}
 
-Here’s how your property taxes affect your monthly mortgage payment.
+<center>Here’s how your property taxes affect your monthly mortgage payment.</center>
 
 How do property taxes affect your monthly mortgage payment? **Property taxes are assessed on an annual basis and are paid twice a year here in Arizona**. This means your property tax amount will be divided into 12 equal sums—one for each month—and these sums are added to an escrow account with your mortgage holder, who then pays the taxes on your behalf when they’re due.
 
