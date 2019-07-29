@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Refinance When You’re Not On the Loan
-date:
+date: 2019-07-29 20:17:57
 tags:
   - Real Estate
 excerpt: >-
@@ -22,7 +22,7 @@ youtube_code: Ny11TtJRgi0
 
 {% include youtube.html %}
 
-<p style="text-aligh: center;"><em>Today I’ll be answering the question, “What if I want to refinance, but I’m not on the current loan?”</em></p>
+*Today I’ll be answering the question, “What if I want to refinance, but I’m not on the current loan?”*
 
 “What if I want to refinance, but I’m not on the current loan?”
 
