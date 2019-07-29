@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips for Buying New Construction
-date: 2019-07-29 15:26:45
+date: 2019-07-29 15:26:00
 tags:
   - Home Buyer Tips
 excerpt: How to buy a new home successfully
