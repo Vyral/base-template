@@ -4,7 +4,9 @@ title: What Are the Best Practices When Buying a New Home?
 date: 2019-07-28 11:00:00
 tags:
   - Home Buyer Tips
-excerpt: Tips for buying a new home// How to buy a new home successfully
+excerpt: >-
+  We have a lot of experience helping people buy new homes, so we wanted to
+  share some of our best tips today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tim+Majka/4+Tips+for+Buying+New+Construction.mp4
 pullquote: 'A recent client received over $23,000 in new-home incentives.'
