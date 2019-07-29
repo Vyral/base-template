@@ -22,7 +22,7 @@ youtube_code: Ny11TtJRgi0
 
 {% include youtube.html %}
 
-Today I’ll be answering the question, “What if I want to refinance, but I’m not on the current loan?”
+<p style="text-aligh: center;"><em>Today I’ll be answering the question, “What if I want to refinance, but I’m not on the current loan?”</em></p>
 
 “What if I want to refinance, but I’m not on the current loan?”
 
