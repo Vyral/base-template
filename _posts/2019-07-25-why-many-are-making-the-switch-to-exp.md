@@ -19,13 +19,13 @@ youtube_code: 'https://youtu.be/I-8fQDPvDnQ'
 
 {% include youtube.html %}
 
-<center>Today I sat down with The Caul Group&rsquo;s operations manager, Pam Saxman, to chat about a movement in the real estate industry</center>
+<center>Today I sat down with The Caul Group&rsquo;s operations manager, Pam Saxman, to chat about a movement in the real estate industry.</center>
 
 <center>&nbsp;</center>
 
 In real estate lately, we’ve noticed that many agents are moving from traditional brokerages to either independent firms or to other brokerages. In light of this trend, I sat down with The Caul Group’s operations manager, Pam Saxman, to chat about what’s next for our own team.
 
-**I’ve provided time stamps for you below so that you can navigate our conversation at your leisure:**
+**I’ve provided timestamps for you below so that you can navigate our conversation at your leisure:**
 
 0:50—What has us excited about possibly making a move?<br>2:04—Why many of our peers across the country are joining with the national brand eXp<br>3:00—The top three reasons why we’re considering making the switch to eXp ourselves<br>4:23—There are no boundaries to building a team with eXp<br>5:20—About eXp’s referral-based system that rewards agents for inviting others to join<br>6:02—How eXp’s revenue-share systems work for and benefit agents<br>6:55—eXp’s agents are also rewarded with stock options
 
