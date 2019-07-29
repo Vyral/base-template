@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Day in the Life of a Jeff Cook Real Estate Agent
-date: 2019-07-29 15:04:06
+date: 2019-07-29 15:04:00
 tags:
   - Real Estate
 excerpt: >-
