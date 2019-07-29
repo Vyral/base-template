@@ -14,8 +14,8 @@ pullquote: >-
   get to have a flexible schedule.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/cook-youtube.jpg
 youtube_code: LA0JY2k7sjc
 ---
 
