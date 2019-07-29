@@ -18,7 +18,7 @@ youtube_code: hnVvxNdUl_c
 
 {% include youtube.html %}
 
-What are the biggest trends that we’ve seen in the 2019 market? Today we’ll discuss.
+<center>What are the biggest trends that we’ve seen in the 2019 market? Today we’ll discuss.</center>
 
 Today let’s talk about one of the latest trends that we’ve noticed in the market this year.
 
