@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/DDJSMskbK9c'
 
 {% include youtube.html %}
 
-Many of us forget how lucky we truly are to be living in a country that affords us so much opportunity. If it’s been a while since you last reflected on your blessings, now is the time to start.
+<p style="text-align: center;"><em>Many of us forget how lucky we truly are to be living in a country that affords us so much opportunity. If it’s been a while since you last reflected on your blessings, now is the time to start.</em></p>
 
 It’s easy to take the things we’ve been blessed with for granted, and I was recently reminded of this fact exactly during a fascinating discussion with an Uber driver.&nbsp;
 
