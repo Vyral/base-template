@@ -32,7 +32,7 @@ This question comes up a few times every year with us. The situation is usually 
 
 1\. You can do a standard purchase contract that includes a down payment, closing costs, etc.<br>2\. You could refinance the loan.
 
-<br>{% include pullquote.html %}
+{% include pullquote.html %}
 
 Now, in order for the refinance to even be an option, the parent would have to essentially do a warranty deed to transfer 100% ownership of the property to the adult child who lives there. Because there’s no continuity of obligation with Fannie Mae any longer, they will allow that loan to be refinanced right away.
 
