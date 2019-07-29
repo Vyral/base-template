@@ -8,13 +8,13 @@ excerpt: >-
   While OpenDoor may be a more convenient way of selling your home, you’re still
   better off listing with a Realtor the conventional way—here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Heidi+Phong/Selling+Through+OpenDoor+vs.+Selling+the+Traditional+Way.mp4
+  https://vyralmarketing.s3.amazonaws.com/Heidi+Phong/Selling+Through+OpenDoor+vs.+Selling+the+Traditional+Way+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/7-22-19ytt.jpg
-youtube_code: CIf7tFI3XPc
+youtube_code: oQP4FPweCSc
 ---
 
 {% include youtube.html %}
