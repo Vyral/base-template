@@ -23,7 +23,7 @@ youtube_code: mr3DExy1pTo
 
 So you got your home inspection done. Now what?
 
-This is probably one of the scariest moments for buyers during a real estate transaction. You’re excited about buying the home, but you just paid someone $500 to find out everything that’s wrong with it, and now you have a report giving your answer.&nbsp;
+This is probably one of the scariest moments for buyers during a real estate transaction. You’re excited about buying the home, but you just paid someone $500 to find out everything that’s wrong with it, and now you have a report giving you answers.&nbsp;
 
 As an agent, I can also say that this is the one instance during the transaction where it’s difficult to coach a buyer. I don’t want to sound “sales-y”, but it’s important for me to share my experience in terms of what’s normal and what’s a safety concern. Remember—if you pay someone to find out every single thing that’s wrong with your future home, they’ll do exactly that. **The key is to work with your agent to understand the difference between what’s important and what’s not.**
 
