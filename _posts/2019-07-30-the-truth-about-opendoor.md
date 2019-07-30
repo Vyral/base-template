@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Truth About OpenDoor
-date:
+date: 2019-07-30 20:08:14
 tags:
   - Home Seller Tips
 excerpt: >-
