@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   Our annual Tessier Team Foundation charity golf event is coming up and we’d
   love to see you there.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/Golf+Tournament_final.mp4'
 pullquote: >-
   Our annual Tessier Team Foundation charity golf event is coming up and we’d
   love to see you there.
