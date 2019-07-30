@@ -17,7 +17,7 @@ youtube_code: HcT8TgXC7zI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Often people are confused about the difference between an investment property and a second home.<\em></p>
+<p style="text-align: center;"><em>Often people are confused about the difference between an investment property and a second home.</em></p>
 
 Many of my clients who have lived in their homes for a while will eventually contact me about a potential second home purchase, whether it’s a beach property, a mountain resort, a lake house, or other.&nbsp;
 
