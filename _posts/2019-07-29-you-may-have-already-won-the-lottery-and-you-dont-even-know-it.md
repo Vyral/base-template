@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/DDJSMskbK9c'
 
 It’s easy to take the things we’ve been blessed with for granted, and I was recently reminded of this fact exactly during a fascinating discussion with an Uber driver.&nbsp;
 
-This driver, who worked full-time as a chemist, had immigrated from the middle east with his five children in pursuit of a better life. **This man had traveled thousands of miles to live here in Upstate New York, and yet many people who were born and raised here can’t wait to leave.&nbsp;**
+This driver, who worked full-time as a chemist, had immigrated from the Middle East with his five children in pursuit of a better life. **This man had traveled thousands of miles to live here in Upstate New York, and yet many people who were born and raised here can’t wait to leave.&nbsp;**
 
 <br>And this man is just one of many people who have similar stories. Take, for instance, Carl Rosner: a Holocaust survivor and the founder of CardioMag. Carl fled Poland during WWII after having been detained in the Buchenwald concentration camp in Germany. Despite the trauma he endured earlier in life, **Carl went on to found the now world-renowned medical device company CardioMag Imaging Inc.**
 
