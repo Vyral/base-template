@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between a Second Home & an Investment Property
-date: 2019-07-30 14:27:20
+date: 2019-07-30 14:27:00
 tags:
   - Real Estate
 excerpt: 'Today’s topic: How do lenders treat second homes? Find out right here.'
@@ -16,6 +16,8 @@ youtube_code: HcT8TgXC7zI
 ---
 
 {% include youtube.html %}
+
+*Often people are confused about the difference between an investment property and a second home.*
 
 Many of my clients who have lived in their homes for a while will eventually contact me about a potential second home purchase, whether it’s a beach property, a mountain resort, a lake house, or other.&nbsp;
 
