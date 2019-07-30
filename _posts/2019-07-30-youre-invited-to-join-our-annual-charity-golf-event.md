@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re Invited to Join Our Annual Charity Golf Event
-date:
+date: 2019-07-30 15:43:27
 tags:
   - Real Estate
 excerpt: >-
