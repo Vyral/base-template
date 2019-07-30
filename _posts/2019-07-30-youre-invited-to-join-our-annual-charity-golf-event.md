@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re Invited to Join Our Annual Charity Golf Event
-date: 2019-07-30 15:43:27
+date: 2019-07-30 15:43:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,6 +24,6 @@ It’s that time of year again—**our annual Tessier Team Foundation charity go
 
 {% include pullquote.html %}
 
-**If you’re interested in playing, you can click on this link to register and find out more information.** 100% of what we raise goes to the kids, so we hope we’ll see you there.&nbsp;
+**If you’re interested in playing, Kim Georg at (410) 790-0714 to register and find out more information.** 100% of what we raise goes to the kids, so we hope we’ll see you there.&nbsp;
 
 If you have any questions in the meantime, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;<br>&nbsp;
