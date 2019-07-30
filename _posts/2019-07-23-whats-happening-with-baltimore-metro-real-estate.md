@@ -7,13 +7,13 @@ excerpt: >-
   The latest numbers are in for the Baltimore Metro market so I wanted to bring
   them to you today. Here’s what I’m seeing out there.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Wes+Peters/Whats+Happening+With+Baltimore+Metro+Real+Estate_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Wes+Peters/Whats+Happening+With+Baltimore+Metro+Real+Estate_+(1).mp4
 pullquote: We’ve basically had three straight years of solid home appreciation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wes-peters-7-19-19yt-1.jpg
-youtube_code: J3d0sD5clIY
+youtube_code: SjsDDybR56E
 ---
 
 {% include youtube.html %}
