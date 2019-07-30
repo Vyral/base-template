@@ -8,7 +8,7 @@ excerpt: >-
   The increased number of iBuyers in our market cost sellers $14 billion in
   equity last year, so today I’d like to share how you can protect yours.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2019/Valley+of+the+Sun+Real+Estate+Agent-+Homebuyers+Lost+out+on+Money+From+iBuyers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2019/Valley+of+the+Sun+Real+Estate+Agent-housing+report.mp4
 pullquote: >-
   By making the right repairs, you can earn a high return and achieve a smoother
   sale overall.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/aSrQrFPbEjU'
+youtube_code: 'https://youtu.be/y3OFB7ZxzA0'
 ---
 
 {% include youtube.html %}
