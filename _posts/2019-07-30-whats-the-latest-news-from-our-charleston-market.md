@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/LgyAttiVgRU'
 
 {% include youtube.html %}
 
-What are the latest trends in our Charleston market? I’ll tell you in today’s update.
+<p style="text-align: center;"><em>What are the latest trends in our Charleston market? I’ll tell you in today’s update.</em></p>
 
 The market environment here in Charleston has been pretty diverse. Given the fact that buyer affordability is a major issue, **conditions still heavily favor sellers in our lower price ranges**, meaning homes priced below $300,000 are going fast.&nbsp;
 
