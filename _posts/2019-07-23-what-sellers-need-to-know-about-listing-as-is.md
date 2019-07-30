@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/selling-as-is-youtube.jpg
-youtube_code: V7oIFEHyR98
+youtube_code: JroNfUFl1sc
 ---
 
 {% include youtube.html %}
