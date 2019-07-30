@@ -32,7 +32,7 @@ This question comes up a few times every year with us. The situation is usually 
 
 **This situation is complicated because there are two options to consider:**
 
-1\. You can do a standard purchase contract that includes a down payment, closing costs, etc.<br>2\. You could refinance the loan.
+1\. You can do a standard purchase contract that includes a down payment, closing costs, etc.<br>2\. You can refinance the loan.
 
 {% include pullquote.html %}
 
