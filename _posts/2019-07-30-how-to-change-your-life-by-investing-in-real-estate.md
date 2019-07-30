@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Change Your Life by Investing in Real Estate
-date: 2019-07-30 19:42:32
+date: 2019-07-30 19:42:00
 tags:
   - Real Estate
 excerpt: >-
