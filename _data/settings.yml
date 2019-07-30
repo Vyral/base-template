@@ -90,7 +90,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url: 'https://www.yelp.com/biz/marjorie-dick-stuart-washington'
-  podcast_url:
+  podcast_url: https://podcasts.apple.com/us/podcast/cleveland-park-real-estate-podcast-marjorie-dick-stuart/id1474245391
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
   categories:
