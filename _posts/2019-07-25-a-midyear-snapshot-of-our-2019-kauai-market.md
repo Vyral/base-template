@@ -5,7 +5,7 @@ date: 2019-07-25 15:53:00
 tags:
   - Market Update
 excerpt: >-
-  How does our Kaui market look as we move past the midway point of 2019? Find
+  How does our Kauai market look as we move past the midway point of 2019? Find
   out today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2019/Kauai+Real+Estate-+The+Current+State+Of+The+Kauai+Market.mp4
