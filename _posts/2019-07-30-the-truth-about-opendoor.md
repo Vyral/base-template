@@ -20,7 +20,7 @@ youtube_code: b7B5xvNH-IM
 
 {% include youtube.html %}
 
-OpenDoor offers speed and convenience, but the fact is that you’ll walk away with much less money in your pocket if you choose to sell with them. Here’s why.
+<p style=text-align:center;"><em>OpenDoor offers speed and convenience, but the fact is that you’ll walk away with much less money in your pocket if you choose to sell with them. Here’s why.</p></em>
 
 OpenDoor is a company that has come into the market in the last few years, especially in the Raleigh/Durham area. **You’ve probably seen their signs around town, but what do they mean and why do homeowners choose to work with a company like OpenDoor?**
 
