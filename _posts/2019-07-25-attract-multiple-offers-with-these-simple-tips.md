@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you want to attract multiple offers to your property, you need to follow
   these key tips.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2019/Attract+Multiple+Offers+With+These+Simple+Tips.mp4
 pullquote: >-
   When buyers are excited about your property, they’ll be more keen to compete
   with one another to make sure they submit the winning offer.
