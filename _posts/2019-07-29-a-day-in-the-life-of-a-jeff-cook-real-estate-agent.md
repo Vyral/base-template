@@ -31,4 +31,4 @@ One of the benefits of being an agent with Jeff Cook Real Estate is that we get 
 
 Joining the Jeff Cook Real Estate Team helps you set yourself up for success. They’ll put you through a seven-day success school, compliments of the brokerage, which helps you build your real estate career.
 
-If you want to join a winning team with winning goals, visit [www.JoinJCRE.com](https://www.JoinJCRE.com){: target="_blank"} or give us a call at 855-HEY-JEFF. You’ll be glad you did\!&nbsp;<br>&nbsp;
+If you want to join a winning team with winning goals, visit [www.JoinJCRE.com](https://www.jeffcookrealestate.com/c/Join-JCRE/){: target="_blank"} or give us a call at 855-HEY-JEFF. You’ll be glad you did\!&nbsp;<br>&nbsp;
