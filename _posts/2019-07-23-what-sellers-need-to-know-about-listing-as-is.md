@@ -23,11 +23,9 @@ youtube_code: JroNfUFl1sc
 
 Some sellers ask me whether it’s ever a good idea to list their property “as-is.” Actually, while it may be tempting to skip all the repairs that usually come along with the home selling process, the truth is that **buyers tend to assume that an “as-is” listing carries major underlying issues.** Of course, not all homes will need to be fixed up before they’re listed. Sellers whose homes are in particularly good shape can definitely bypass renovations and upgrades in lieu of some basic tidying up.**&nbsp;**
 
-Whether the buyer thinks you’re going to close that issue or not will vary, but either scenario is bound to hurt your chances of getting a good deal. If you do happen to attract an interested buyer, they’ll probably expect to get a bargain.
-
 {% include pullquote.html %}
 
-On that note, if your home truly is in a state of disrepair and you’re willing to let it go for a lower dollar amount than you could earn by fixing it up, an as-is sale might be for you. But unless this is your goal, **it’s typically best to invest some time, money, and energy into cleaning, repairing, and updating your property.** You will earn much more for your home if you do.
+If your home truly is in a state of disrepair and you’re willing to let it go for a lower dollar amount than you could earn by fixing it up, and you want a quick sale, an as-is sale might be for you. But unless this is your goal, **it’s typically best to invest some time, money, and energy into cleaning, repairing, and updating your property.** You will earn much more for your home if you do.
 
 If you’re still set on selling as-is, though, you should make sure your home is free of any health or safety issues before putting it up for sale. This can easily be achieved by ordering a pre-listing inspection and then resolving any issues the inspector happens to find.&nbsp;
 
