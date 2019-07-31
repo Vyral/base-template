@@ -21,7 +21,7 @@ youtube_code: JroNfUFl1sc
 
 {% include youtube.html %}
 
-Some sellers ask me whether it’s ever a good idea to list their property “as-is.” Actually, while it may be tempting to skip all the repairs that usually come along with the home selling process, the truth is that **buyers tend to assume that an “as-is” listing carries major underlying issues.** Of course, not all homes will need to be fixed up before they’re listed. Sellers whose homes are in particularly good shape can definitely bypass repairs and upgrades in lieu of some basic tidying up.**&nbsp;**
+Some sellers ask me whether it’s ever a good idea to list their property “as-is.” Actually, while it may be tempting to skip all the repairs that usually come along with the home selling process, the truth is that **buyers tend to assume that an “as-is” listing carries major underlying issues.** Of course, not all homes will need to be fixed up before they’re listed. Sellers whose homes are in particularly good shape can definitely bypass renovations and upgrades in lieu of some basic tidying up.**&nbsp;**
 
 Whether the buyer thinks you’re going to close that issue or not will vary, but either scenario is bound to hurt your chances of getting a good deal. If you do happen to attract an interested buyer, they’ll probably expect to get a bargain.
 
