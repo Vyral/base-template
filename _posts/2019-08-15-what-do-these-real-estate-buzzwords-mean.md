@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do These Real Estate Buzzwords Mean?
-date: 2019-07-29 00:00:00
+date: 2019-08-15 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
