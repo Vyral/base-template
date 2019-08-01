@@ -17,7 +17,7 @@ youtube_code: rxKmvhRrUfI
 
 {% include youtube.html %}
 
-I’ve got a few exciting stories to share with you today. Keep reading to learn more.
+<p style="text-align:center;"><em>I’ve got a few exciting stories to share with you today. Keep reading to learn more.</em></p>
 
 Selling your home is a great thing, but the daunting task of getting rid of a lot of stuff inside of it isn’t. My client Melba had a situation like this recently. She had a beautiful home with a lot of stuff inside that she needed to get rid of.
 
