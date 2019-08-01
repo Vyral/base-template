@@ -22,7 +22,7 @@ youtube_code: YFvhQERAaeo
 
 {% include youtube.html %}
 
-It doesn’t often make sense to hire an appraiser before selling, but there are a few times when it does. Here are three prime examples.
+<center>It doesn’t often make sense to hire an appraiser before selling, but there are a few times when it does. Here are three prime examples.</center>
 
 Hiring an appraiser before you sell your home is usually a waste of money However, there are a few exceptions, and we’ll go over each of the most common today:
 
