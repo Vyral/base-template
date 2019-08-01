@@ -24,6 +24,6 @@ It’s that time of year again—**our annual Tessier Team Foundation charity go
 
 {% include pullquote.html %}
 
-**If you’re interested in playing, Call Kim Georg at (410) 790-0714 to register and find out more information.** **You can also visit&nbsp;[www.leetessier.com/golf-tournament]( www.leetessier.com/golf-tournament).&nbsp;**100% of what we raise goes to the kids, so we hope we’ll see you there.&nbsp;
+**If you’re interested in playing, Call Kim Georg at (410) 790-0714 to register and find out more information.** **You can also visit&nbsp;[https://www.leetessier.com/golf-tournament](https://www.leetessier.com/golf-tournament){: target="_blank"}.&nbsp;**100% of what we raise goes to the kids, so we hope we’ll see you there.&nbsp;
 
 If you have any questions in the meantime, don’t hesitate to reach out to me. I’d be happy to help you.&nbsp;<br>&nbsp;
