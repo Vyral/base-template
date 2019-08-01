@@ -26,7 +26,7 @@ youtube_code: YFvhQERAaeo
 
 &nbsp;
 
-Hiring an appraiser before you sell your home is usually a waste of money However, there are a few exceptions, and we’ll go over each of the most common today:
+Hiring an appraiser before you sell your home is usually a waste of money. However, there are a few exceptions, and we’ll go over each of the most common today:
 
 **1\. During a divorce or bankruptcy**. Generally, a judge involved in either of these scenarios will require that some type of value be established before the case can proceed.
 
@@ -36,6 +36,6 @@ Hiring an appraiser before you sell your home is usually a waste of money Howeve
 
 {% include pullquote.html %}
 
-Agents actually have all the same information at their disposal as appraisers, so unless you’re faced with one of the circumstances we discussed today, you’ll generally be better off speaking to a Realtor about your home value as you prepare to sell.
+Agents have all the same information at their disposal as appraisers, so unless you’re faced with one of the circumstances we discussed today, you’ll generally be better off speaking to a Realtor about your home value as you prepare to sell.
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
