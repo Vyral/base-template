@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Facebook Marketplace Is Helping Homeowners
-date: 2019-08-01 17:44:22
+date: 2019-08-01 17:44:00
 tags:
   - Market Update
 excerpt: 'Melba made $20,000 on Facebook Marketplace.'
