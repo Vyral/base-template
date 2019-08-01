@@ -25,9 +25,9 @@ youtube_code: 'https://youtu.be/LgyAttiVgRU'
 
 The market environment here in Charleston has been pretty diverse. Given the fact that buyer affordability is a major issue, **conditions still heavily favor sellers in our lower price ranges**, meaning homes priced below $300,000 are going fast.&nbsp;
 
-Whether you’re a buyer or seller, it’s important to pay close attention to the market and price point the home in. **Homes on the lower end of the pricing spectrum are receiving multiple offers, but it’s another story for those in the middle and upper price ranges.&nbsp;**
+Whether you’re a buyer or seller, it’s important to pay close attention to the market and price point the home is in. **Homes on the lower end of the pricing spectrum are receiving multiple offers, but it’s another story for those in the middle and upper price ranges.&nbsp;**
 
-There, the market leans toward buyers. Median-ranges homes in areas like James Island, Mount Pleasant, Isle of Palms, Johns Island haven’t been seeing a lot of buyer activity, and that segment of the market has remained static.
+There, the market leans toward buyers. Median-range homes in areas like James Island, Mount Pleasant, Isle of Palms, Johns Island haven’t been seeing a lot of buyer activity, and that segment of the market has remained static.
 
 **At the higher end, it’s taking even longer for homes to sell, and sellers in this price point are having to adapt by coming off their desired price a bit.** There are exceptions: Homes with beautiful remodeling work or that are in pristine condition can still command a high price across all price points.
 
