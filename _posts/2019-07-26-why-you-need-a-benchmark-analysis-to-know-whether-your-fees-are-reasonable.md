@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 screenshot: /uploads/7.23.19YT.jpg
-video_file: /uploads/Jul_1_Benchmarking_Analysis.mp4
+video_file: /uploads/corrected_(1).mp4
 ---
 
 {% include post-video.html %}
