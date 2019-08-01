@@ -25,7 +25,7 @@ Real estate investing has had a huge impact on my life. It’s helped me to buil
 
 Renting out investment properties is an incredible way to create passive income. Better still, paying down the mortgage on these properties becomes much easier when you’re using a tenant’s money to do so, as opposed to your own.&nbsp;
 
-**Tax benefits related to mortgage interest deductions and depreciation are also a major advantage that real estate investors.** Beyond that, properties appreciate over time, making real estate a very powerful way to build wealth.&nbsp;
+**Tax benefits related to mortgage interest deductions and depreciation are also a major advantage for real estate investors.** Beyond that, properties appreciate over time, making real estate a very powerful way to build wealth.&nbsp;
 
 At this point, you may be thinking to yourself, “Well, that sounds great. But what about taking care of the property? I don’t want to get a phone call in the middle of the night from a tenant asking me to fix their leaky faucet.”&nbsp;
 
