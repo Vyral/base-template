@@ -5,7 +5,8 @@ date: 2019-07-29 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s how your property taxes affect your monthly mortgage payment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/How+Property+Taxes+Affect+Your+Monthly+Mortgage+Payment.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
