@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of the Non-Occupant Co-Borrower in the Home Buying Process
-date: 2019-08-02 20:06:22
+date: 2019-08-02 20:06:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -20,6 +20,8 @@ youtube_code: 1umH0EFAfvo
 ---
 
 {% include youtube.html %}
+
+For some first-time buyers, electing to purchase with the help of a non-occupant co-borrower is their ticket to homeownership.&nbsp;
 
 Today I’ll address the topic of **non-occupant co-borrowers and how you can benefit from it.&nbsp;**
 
