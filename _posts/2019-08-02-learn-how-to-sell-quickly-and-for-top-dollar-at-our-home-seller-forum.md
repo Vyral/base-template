@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn How to Sell Quickly and For Top Dollar at Our Home Seller Forum
-date: 2019-08-02 19:07:03
+date: 2019-08-02 19:07:00
 tags:
   - Real Estate
 excerpt: >-
@@ -35,6 +35,6 @@ Here, you’ll learn:
 
 In just one hour, we’ll give you all the tools you need to make thousands more on your home sale. Not only that, but we’ll have a blast doing it.&nbsp;
 
-Hundreds of sellers have benefited from this seminar, and our last two events sold out quickly, so time is limited if you wish to attend. **To register, all you need to do is click on this link.&nbsp;**
+Hundreds of sellers have benefited from this seminar, and our last two events sold out quickly, so time is limited if you wish to attend. **To register, all you need to do is[click on this link.&nbsp;](https://www.johnschustergroup.com/home_seller_forum)**
 
 If you have any questions in the meantime, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
