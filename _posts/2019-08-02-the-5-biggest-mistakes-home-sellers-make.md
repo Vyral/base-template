@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 5 Biggest Mistakes Home Sellers Make
-date: 2019-08-02 16:24:37
+date: 2019-08-02 16:24:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,6 +20,8 @@ youtube_code: jAVqo2JcEFc
 ---
 
 {% include youtube.html %}
+
+When selling your home, making any of these five mistakes in the process will prove costly.&nbsp;
 
 It’s no secret that preparing your home for the market is stressful, but you can minimize your stress and pave the way for a smooth selling process by avoiding these five common mistakes: &nbsp;
 
