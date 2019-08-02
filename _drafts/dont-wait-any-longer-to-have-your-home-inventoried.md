@@ -19,7 +19,7 @@ youtube_code: djX1AjRe86M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.</em></p>
+*Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.*
 
 Why is a home inventory important? Today I’m joined by Alison Wood of TakeStock Inventory to answer that question for you.&nbsp;
 
@@ -33,6 +33,6 @@ In addition to photographing those things that are within general line of sight,
 
 **I’ve used TakeStock Inventory for years, and I think every business owner/homeowner should have a conversation with them** so that you’re prepared and your family is protected in case of a life-changing event.&nbsp;
 
-If you’d like to schedule a free, no-obligation consultation, you can email Alison at alison@takestockinventory.com, visit their website www.takestockinventory.com, or give them a call at (214) 908-9838.&nbsp;
+If you’d like to schedule a free, no-obligation consultation, you can email Alison at [alison@takestockinventory.com](alison@takestockinventory.com), visit their website [www.takestockinventory.com](www.takestockinventory.com), or give them a call at (214) 908-9838.&nbsp;
 
 As always, if you have any mortgage needs from me, don’t hesitate to give me a call or send me an email. I’d love to help you.&nbsp;<br>&nbsp;
