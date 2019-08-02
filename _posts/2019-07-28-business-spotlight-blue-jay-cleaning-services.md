@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today, I’m so excited to introduce you to my new friend, Britt Greenwood from
   Blue Jay Cleaning Services.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/august/Business+Spotlight-+Blue+Jay+Cleaning+Services.mp4
 pullquote: >-
   A good rule of thumb is to have no more than two or three appliances on your
   countertops.
