@@ -40,7 +40,8 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://ericmortimer.com/sell'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://search.ericmortimer.com/idx/results/listings?pt=3&srt=newest'
+  second_CTA_URL: >-
+    https://ericmortimer.com/search/grid/?city=1369%2C1372&maxprice=450000&status=A&propertytype=SF&photo=1&sort=days
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
@@ -54,7 +55,8 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://search.ericmortimer.com/idx/results/listings?pt=3&srt=newest'
+    CTA_url2: >-
+      https://ericmortimer.com/search/grid/?city=1369%2C1372&maxprice=450000&status=A&propertytype=SF&photo=1&sort=days
 lender:
   show_section: false
   header_text: Preferred Lender
