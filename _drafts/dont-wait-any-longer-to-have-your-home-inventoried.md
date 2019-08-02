@@ -19,6 +19,8 @@ youtube_code: djX1AjRe86M
 
 {% include youtube.html %}
 
+Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.&nbsp;
+
 Why is a home inventory important? Today I’m joined by Alison Wood of TakeStock Inventory to answer that question for you.&nbsp;
 
 I was born and raised in New Orleans, so I’ve had quite a few friends and family members that have been affected by natural disasters. As a company that specializes in helping people inventory their possessions, TakeStock Inventory’s services fit very well with what my life experience has been, and I want to share this information with you because **I think it’s vital for you to have your possessions cataloged and accounted for in case something happens.**
