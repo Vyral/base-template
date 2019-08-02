@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/qUgy7_8S85g'
 
 {% include youtube.html %}
 
-Blue JayCleaning Services has been around in the Tulsa area and the Oklahoma City Metro area for about three years. They offer recurring residential services, as well as move-out cleaning and make-ready cleaning, which is done before your home goes on the market. In addition, they also do small office commercial services.
+Blue Jay Cleaning Services has been around in the Tulsa area and the Oklahoma City Metro area for about three years. They offer recurring residential services, as well as move-out cleaning and make-ready cleaning, which is done before your home goes on the market. In addition, they also do small office commercial services.
 
-**Here at the Wolek Group, we love helping our clients get their homes ready in the pre-listing period, and cleaning is no small part of that process.** Whether you’re preparing to sell your home and move or you just want to simplify, Blue Jay’s owner Britt Greenwood says that decluttering is the way to go. This is especially important if you’re planning to sell your home. Look at your countertops in the kitchen—a good rule of thumb is to have no more than two or three appliances on them.
+**Here at The Wolek Group, we love helping our clients get their homes ready in the pre-listing period, and cleaning is no small part of that process.** Whether you’re preparing to sell your home and move or you just want to simplify, Blue Jay’s owner Britt Greenwood says that decluttering is the way to go. This is especially important if you’re planning to sell your home. Look at your countertops in the kitchen—a good rule of thumb is to have no more than two or three appliances on them.
 
 {% include pullquote.html %}
 
