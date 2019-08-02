@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Positive & Negative Cash Flow With Your Rental Property
-date:
+date: 2019-08-02 15:32:39
 tags:
   - Real Estate
 excerpt: >-
