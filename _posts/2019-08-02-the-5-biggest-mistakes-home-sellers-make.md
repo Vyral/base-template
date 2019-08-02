@@ -21,7 +21,7 @@ youtube_code: jAVqo2JcEFc
 
 {% include youtube.html %}
 
-When selling your home, making any of these five mistakes in the process will prove costly.&nbsp;
+<p style="text-align:center;"><em>When selling your home, making any of these five mistakes in the process will prove costly.</em></p>
 
 It’s no secret that preparing your home for the market is stressful, but you can minimize your stress and pave the way for a smooth selling process by avoiding these five common mistakes: &nbsp;
 
