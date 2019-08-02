@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/5ayMqIPvY54'
 
 {% include youtube.html %}
 
-As a buyer, it’s absolutely within your capabilities to to turn an “ugly” home into your dream home—here’s how.
+<p style="text-align: center;"><em>As a buyer, it’s absolutely within your capabilities to to turn an “ugly” home into your dream home—here’s how.</em></p>
 
 Are you having trouble finding your dream home?&nbsp;
 
