@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Keep Your Inspection Report a Secret
-date:
+date: 2019-08-02 15:16:33
 tags:
   - Real Estate
 excerpt: >-
