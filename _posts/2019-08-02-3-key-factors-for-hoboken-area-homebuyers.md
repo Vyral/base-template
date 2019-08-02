@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Key Factors for Hoboken Area Homebuyers
-date:
+date: 2019-08-02 14:34:08
 tags:
   - Real Estate
   - Home Buyer Tips
