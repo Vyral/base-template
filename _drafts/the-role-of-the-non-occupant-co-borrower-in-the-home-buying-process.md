@@ -21,4 +21,10 @@ youtube_code: 1umH0EFAfvo
 
 {% include youtube.html %}
 
+Today I’ll address the topic of **non-occupant co-borrowers and how you can benefit from it.&nbsp;**
+
+During my conversations with many first-time buyers, I’m often reminded of just how daunting it can be for them to take the plunge into homeownership—whether because of their debt-to-income ratio or they have insufficient assets to cover the down payment or closing costs.&nbsp;
+
+**Some buyers have family members, usually their parents, who are willing to lend a hand in their purchase.** Many times, the parent(s) will buy the property outright for their child. In that case, the home is considered an investment property, which is markedly different than if the home were treated with non-occupant co-borrower status. &nbsp;&nbsp;<br>&nbsp;
+
 {% include pullquote.html %}
