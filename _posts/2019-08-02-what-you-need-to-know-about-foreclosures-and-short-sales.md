@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Foreclosures and Short Sales
-date:
+date: 2019-08-02 15:04:00
 tags:
   - Real Estate
   - Home Buyer Tips
