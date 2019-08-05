@@ -7,13 +7,14 @@ tags:
 excerpt: >-
   Today we’ll talk about the steps you need to take when you’re setting out on
   your home buying journey.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/How+Does+the+Home+Buying+Process+Unfold_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/prepping-to-buy-youtube.jpg
-youtube_code: bITbSe9hto0
+youtube_code: ahBQhc7BDSE
 ---
 
 {% include youtube.html %}
