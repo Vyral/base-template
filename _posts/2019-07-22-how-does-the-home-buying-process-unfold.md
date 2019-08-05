@@ -18,4 +18,4 @@ youtube_code: bITbSe9hto0
 
 {% include youtube.html %}
 
-You’ve got your sights set on buying a new home, but where do you begin? Your first priority should be to get pre-approved with a mortgage professional. That way, you’ll know the extent of your purchasing power. Once you know how much house you can afford, bring this information to a real estate professional who will then show you homes that are within your means. From there, you can begin to narrow down your search and reach a decision.
+You’ve got your sights set on buying a new home, but where do you begin? Your first priority should be to get pre-approved with a mortgage professional. That way, you’ll know the extent of your purchasing power. Once you know how much house you can afford, bring this information to a real estate professional who will then show you homes that are within your means. From there, you can begin to narrow down your search and reach a decision. To learn more, watch this short video. If you have further questions or you’re looking to get the home buying process started soon, please feel free to reach out to me. I’d be happy to help\!
