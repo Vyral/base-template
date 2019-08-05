@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re curious about buying a new construction home, this video may help
   you get off the fence.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Is+new+Construction+for+you+.+-_2+_Final.mp4
 pullquote: 'If your dream home doesn’t exist, why not build it?'
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: qG2-JmXCKsY
 
 {% include youtube.html %}
 
-<p style = "text-align:center"><em>If you’re curious about buying a new construction home, this video may help you get off the fence.</em></p>
+*If you’re curious about buying a new construction home, this video may help you get off the fence.*
 
 Often when we speak with buyers, they express frustration over the fact that they can’t find exactly the kind of home they’re looking for in the market. When this happens, one option we present to them is the possibility of building a new home from scratch.&nbsp;
 
