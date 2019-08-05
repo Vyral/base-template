@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don’t Wait any Longer to Have Your Home Inventoried
+title: Don’t Wait Any Longer to Have Your Home Inventoried
 date: 2019-08-02 20:40:00
 tags:
   - Real Estate
@@ -19,15 +19,15 @@ youtube_code: dGbcvrlL_Wg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.</em></p>
+*Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.*
 
 Why is a home inventory important? Today I’m joined by Alison Wood of TakeStock Inventory to answer that question for you.&nbsp;
 
-I was born and raised in New Orleans, so I’ve had quite a few friends and family members that have been affected by natural disasters. As a company that specializes in helping people inventory their possessions, TakeStock Inventory’s services fit very well with what my life experience has been, and I want to share this information with you because **I think it’s vital for you to have your possessions cataloged and accounted for in case something happens.**
+I was born and raised in New Orleans, so I’ve had quite a few friends and family members who have been affected by natural disasters. As a company that specializes in helping people inventory their possessions, TakeStock Inventory’s services fit very well with what my life experience has been, and I want to share this information with you because **I think it’s vital for you to have your possessions cataloged and accounted for in case something happens.**
 
 Basically, what TakeStock Inventory does is take pictures of your stuff. They can get in and out of your home in a few hours, and in terms of a price estimate, a 3,000 square foot home would cost around $595 to photograph.&nbsp;
 
-In addition to photographing those things that are within general line of sight, they also photograph the insides of drawers, cabinets, and closets. People tend to forget about what’s in their storage boxes until they’re faced with a crisis (death, divorce, falling into debt, etc.), and they can help you prove your assets.&nbsp;
+In addition to photographing those things that are within their general line of sight, they also photograph the insides of drawers, cabinets, and closets. People tend to forget about what’s in their storage boxes until they’re faced with a crisis (death, divorce, falling into debt, etc.), and they can help you prove your assets.&nbsp;
 
 {% include pullquote.html %}
 
