@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What are the biggest trends that we’ve seen in the 2019 market? Today we’ll
   discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Trends+in+Our+2019+Marketplace.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
