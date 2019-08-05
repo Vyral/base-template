@@ -3,19 +3,22 @@ layout: post
 title: Should You Buy a New Construction Home?
 date:
 tags:
-excerpt:
+  - Home Buyer Tips
+excerpt: >-
+  If you’re curious about buying a new construction home, this video may help
+  you get off the fence.
 enclosure:
-pullquote:
+pullquote: 'If your dream home doesn’t exist, why not build it?'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: qG2-JmXCKsY
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>If you’re curious about buying a new construction home, this video may help you get off the fence.</em></p>
+*If you’re curious about buying a new construction home, this video may help you get off the fence.*
 
 Often when we speak with buyers, they express frustration over the fact that they can’t find exactly the kind of home they’re looking for in the market. When this happens, one option we present to them is the possibility of building a new home from scratch.&nbsp;
 
