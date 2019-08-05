@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Nominated for the Reader’s Choice Awards
-date: 2019-08-05 19:19:43
+date: 2019-08-05 19:19:00
 tags:
   - Real Estate
 excerpt: >-
