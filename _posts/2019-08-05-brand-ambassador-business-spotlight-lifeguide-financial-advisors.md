@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/9AnRBtzZtBY'
 
 {% include youtube.html %}
 
-Doug Denlinger of Lifeguide Financial Advisors joins us today as our very first guest in our Brand Ambassador business spotlight series.
+<p style="text-align: center;"><em>Doug Denlinger of Lifeguide Financial Advisors joins us today as our very first guest in our Brand Ambassador business spotlight series.</em></p>
 
 Welcome to the very first Brand Ambassador business spotlight. Today we’re sitting down with Doug Denlinger of LifeGuide Financial Advisors to talk about his business, his story, and what keeps him motivated to serve his clients at the highest level.&nbsp;
 
