@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Buy a New Construction Home?
-date:
+date: 2019-08-05 20:48:30
 tags:
   - Home Buyer Tips
 excerpt: >-
