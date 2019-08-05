@@ -15,7 +15,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-If you’re curious about buying a new construction home, this video may help you get off the fence.&nbsp;
+<p style="text-align:center"><em>If you’re curious about buying a new construction home, this video may help you get off the fence.</em></p>
 
 Often when we speak with buyers, they express frustration over the fact that they can’t find exactly the kind of home they’re looking for in the market. When this happens, one option we present to them is the possibility of building a new home from scratch.&nbsp;
 
