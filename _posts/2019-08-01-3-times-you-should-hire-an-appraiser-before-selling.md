@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   It doesn’t often make sense to hire an appraiser before selling, but there are
   a few times when it does. Here are three prime examples.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/3+Times+You+Should+Hire+an+Appraiser+Before+Selling.mp4
 pullquote: >-
   Unless you’re faced with one of the circumstances we discussed today, you’ll
   generally be better off speaking to a Realtor about your home value as you
