@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Ways to Approach a Lowball Offer
-date: 2019-08-06 13:55:18
+date: 2019-08-06 13:55:00
 tags:
   - Home Seller Tips
 excerpt: What’s the key to dealing with lowball offers? Find out today.
