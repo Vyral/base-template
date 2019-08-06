@@ -32,3 +32,7 @@ In fact, I listed a home for $2.3 million not too long ago and had a ratified co
 It doesn’t matter what market we’re in, what time of year it is, or which price range we focus on—if the price doesn’t match the product, buyers won’t make an offer.&nbsp;
 
 If you have any other questions about this topic or you’re thinking of buying or selling a home soon, feel free to give me a call or send me an email. I look forward to hearing from you.
+
+<div class="post-cta"><span style="font-size: 1.8rem; letter-spacing: 0.01rem;"><a target="_blank" href="http://DCHomeBlog.com/videos">And if you&rsquo;d like to WATCH the hottest <em><u>new</u></em> video strategy on the planet...</a></span><p><em>Buyers &amp; sellers love it!</em></p><p>Go to: <a target="_blank" href="http://DCHomeBlog.com/videos"><strong>DCHomeBlog.com/videos</strong></a></p></div>
+
+<div class="post-button"><a class="ctalink" target="_blank" href="http://dchomeblog.com/videos">Watch Now</a></div>
