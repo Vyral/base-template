@@ -28,7 +28,7 @@ To kick things off, let’s talk about inventory. There is currently a lack of a
 
 {% include pullquote.html %}
 
-Interest rates are another hot topic in our current market. Because interest rates are still at historic lows, buyers have a great deal of purchasing power that they can leverage. Our team recently helped a buyer lock in a 3.5% interest rate on a 30-year fixed loan recently, and buyers who opt to take on a 15-year loan can get an even lower rate.&nbsp;
+Interest rates are another hot topic in our current market. Because interest rates are still at historic lows, buyers have a great deal of purchasing power that they can leverage. Our team recently helped a buyer lock in a 3.5% interest rate on a 30-year fixed loan, and buyers who opt to take on a 15-year loan can get an even lower rate.&nbsp;
 
 **So what does this all mean for you?**
 
