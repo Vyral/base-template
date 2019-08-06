@@ -19,6 +19,6 @@ youtube_code: Rmlio6_L8A8
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Carbutti & Co. has been nominated for best real estate company and best real estate!</em></p>
+*Carbutti & Co. has been nominated for best real estate company and best real estate\!*
 
-I’m pleased to announce that Carbutti & Co. has been nominated for best real estate company and best real estate team for the 2019 Record Journal Readers Choice Awards. We’re honored by the nomination, and we’d be humbled if you would show your support for us by [voting](GetCarbutti.com). To learn more about the contest, watch this short video.
+I’m pleased to announce that Carbutti & Co. has been nominated for best real estate company and best real estate team for the 2019 Record Journal Readers Choice Awards. We’re honored by the nomination, and we’d be humbled if you would show your support for us by [voting](GetCarbutti.com). To learn more about the contest, watch this short video. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
