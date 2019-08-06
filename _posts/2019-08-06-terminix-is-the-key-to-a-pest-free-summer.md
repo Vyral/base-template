@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Terminix Is the Key to a Pest-Free Summer
-date: 2019-08-06 19:38:18
+date: 2019-08-06 19:38:00
 tags:
 excerpt: >-
   Outdoor living wouldn’t be the same if it weren’t for the experts at Terminix,
@@ -26,6 +26,6 @@ For one thing, Gene says that Terminix focuses on preventative measures. **They 
 
 Thanks to their incredible work, people all across Memphis are able to enjoy the great summer weather without worrying about wasps, mosquitos, and other pesky bugs. Spending time outdoors wouldn’t be nearly as pleasant without Terminix. They truly facilitate a more enjoyable outdoor lifestyle.&nbsp;
 
-**You can learn more about Terminix by visiting their website[here.&nbsp;](https://www.terminix.com/)**
+**You can learn more about Terminix by visiting their website&nbsp;[here.&nbsp;](https://www.terminix.com/)**
 
 As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>&nbsp;
