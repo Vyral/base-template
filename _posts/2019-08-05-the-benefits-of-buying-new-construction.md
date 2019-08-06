@@ -17,4 +17,4 @@ youtube_code: 2xCcILRe15U
 
 {% include youtube.html %}
 
-Have you ever thought about buying a new construction home? So many of us love our new homes because we are able to get the most current floor plans, trim work, and appliances. A home like this also comes with a one-year builder’s warranty, which is another great incentive to buy. According to our friend Bill Pendley with Caliber Home Loans, they can also offer a lower interest rate for one of these homes than what you would find on the market otherwise.
+Have you ever thought about buying a new construction home? So many of us love our new homes because we are able to get the most current floor plans, trim work, and appliances. A home like this, located at 5N287 Switchgrass Ln, Saint Charles, IL 60175, also comes with a one-year builder’s warranty, which is another great incentive to buy. According to our friend Bill Pendley with Caliber Home Loans, they can also offer a lower interest rate for one of these homes than what you would find on the market otherwise.
