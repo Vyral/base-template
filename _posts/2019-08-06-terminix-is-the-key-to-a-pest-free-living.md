@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Terminix Is the Key to a Pest-Free Summer
+title: Terminix Is the Key to a Pest-Free Living
 date: 2019-08-06 19:38:00
 tags:
 excerpt: >-
