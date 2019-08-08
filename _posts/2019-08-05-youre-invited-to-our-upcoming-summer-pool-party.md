@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/poolyt.png
-youtube_code: tBlTgxpH-Vo
+youtube_code: 4yxXf2HtjUY
 ---
 
 {% include youtube.html %}
