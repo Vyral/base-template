@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   “Survey” is the third “S” of the Five-S model of customer experience. Here’s
   why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/The+Five-S+Model+of+Customer+Experience-+Survey+(1).mp4
 pullquote: 'If we don’t ask, we don’t know.'
 enclosure_type: video/mp4
 enclosure_time:
