@@ -18,13 +18,13 @@ youtube_code: Z4f1nFCWCpE
 
 {% include youtube.html %}
 
-Summer after summer, I rely on the experts at Terminix to keep my patio and outdoor living space free of pests. In order to better understand what makes this company so effective, I recently spoke with service manager Gene Ballesty about what sets Terminix apart.
+Summer after summer, I rely on the experts at Terminix to keep my patio and outdoor living space free of pests. To better understand what makes this company so effective, I recently spoke with service manager Gene Ballesty about what sets Terminix apart.
 
 For one thing, Gene says that Terminix focuses on preventative measures. **They target and treat mosquito breeding areas, as well as on vines and other various plants where pests would otherwise thrive.&nbsp;**
 
 {% include pullquote.html %}
 
-Thanks to their incredible work, people all across Memphis are able to enjoy the great summer weather without worrying about wasps, mosquitos, and other pesky bugs. Spending time outdoors wouldn’t be nearly as pleasant without Terminix. They truly facilitate a more enjoyable outdoor lifestyle.&nbsp;
+Thanks to their incredible work, people all across Memphis can able to enjoy the great summer weather without worrying about wasps, mosquitos, and other pesky bugs. Spending time outdoors wouldn’t be nearly as pleasant without Terminix. They truly facilitate a more enjoyable outdoor lifestyle.&nbsp;
 
 **You can learn more about Terminix by visiting their website&nbsp;[here.&nbsp;](https://www.terminix.com/)**
 
