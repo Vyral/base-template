@@ -18,7 +18,7 @@ youtube_code: JTQ5ek4THM8
 
 {% include youtube.html %}
 
-If the latest stats are any indication, now’s a good time to buy or sell in our market.&nbsp;
+<p style = "text-align:center;"><em>If the latest stats are any indication, now’s a good time to buy or sell in our market.</em></p>
 
 What’s the latest news from our summer market? **Let’s take a look at the month-over-month statistics from the end of May for detached homes across North San Diego County.**
 
