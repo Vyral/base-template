@@ -21,7 +21,7 @@ youtube_code: twkbIZSlK4w
 
 {% include youtube.html %}
 
-### **11 a.m. and 6:46 p.m. on September 11, 2019, at Maple Grove Community Center**&nbsp;<br>**11 a.m. and 6:46 p.m. on September 12, 2019, at Eagan Community Center&nbsp;**
+**11 a.m. and 6:46 p.m. on September 11, 2019, at Maple Grove Community Center**&nbsp;<br>**11 a.m. and 6:46 p.m. on September 12, 2019, at Eagan Community Center&nbsp;**
 
 Putting your home on the market can be a daunting task, which is why we want to invite you to my upcoming Home Seller Forum that John will be hosting along with Jordana Green and Paul Douglas. This is a free, no-obligation seminar that will teach you everything you need to know to sell quickly and for top dollar.&nbsp;
 
