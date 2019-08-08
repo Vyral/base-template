@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers Need to Know About Contingent Sales
-date: 2019-08-08 14:14:37
+date: 2019-08-08 14:14:00
 tags:
   - Home Buyer Tips
 excerpt: >-
