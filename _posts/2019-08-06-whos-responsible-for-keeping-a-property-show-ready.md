@@ -20,7 +20,7 @@ youtube_code: rG726jGGmT8
 
 {% include youtube.html %}
 
-Home sellers, and their agents, want their properties to remain show-ready at all times while they’re on the market; but ensuring that this is the case can be a chore—especially if said sellers have already moved out.
+Home sellers and their agents want their properties to remain show-ready at all times while they’re on the market; but ensuring that this is the case can be a chore—especially if said sellers have already moved out.
 
 **Whose job is it to pick up the newspaper, shovel the driveway, and keep the grass trimmed?**
 
@@ -28,7 +28,7 @@ Unfortunately, it usually isn’t feasible for a seller who has already moved aw
 
 {% include pullquote.html %}
 
-Well, until the property has sold, its condition remains the responsibility of the seller. Buyers will lose interest and neighbors will become testy if your home becomes an eye-sore.&nbsp;
+Well, until the property has sold, its condition remains the responsibility of the seller. Buyers will lose interest and neighbors will become testy if your home becomes an eyesore.&nbsp;
 
 **Don’t assume your real estate agent is your gardener or maid.** Even though they also have a vested interest in making sure your home sells quickly and at a high price, it isn’t their job to stay on top of its general upkeep. Some agents may be up to the task, but you shouldn’t presume this to be the case until you’ve had a candid discussion about it.&nbsp;
 
