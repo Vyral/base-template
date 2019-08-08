@@ -8,7 +8,7 @@ excerpt: >-
   At my upcoming Home Seller Forum, you’ll learn how to sell quickly and for top
   dollar.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Learn+How+to+Sell+Quickly+and+For+Top+Dollar+at+Our+Home+Seller+Forum.mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/John+Schuster+Group-+Learn+How+to+Sell+Quickly.mp4
 pullquote: >-
   In just one hour, we’ll give you all the tools you need to make thousands more
   on your home sale.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2r0YroiIo3U
+youtube_code: twkbIZSlK4w
 ---
 
 {% include youtube.html %}
