@@ -21,7 +21,7 @@ youtube_code: twkbIZSlK4w
 
 {% include youtube.html %}
 
-Putting your home on the market can be a daunting task, which is why we want to invite you to my upcoming Home Seller Forum that John will be hosting along with Jordana Green and Paul Douglas. This is a free, no-obligation seminar that will teach you everything you need to know to sell quickly and for top dollar.&nbsp;
+Putting your home on the market can be a daunting task, which is why we want to invite you to our upcoming Home Seller Forum that John and Paul Douglas will be hosting.&nbsp; This is a free, no-obligation seminar that will teach you everything you need to know to sell quickly and for top dollar.&nbsp;
 
 Here, you’ll learn:
 
@@ -37,4 +37,4 @@ In just one hour, we’ll give you all the tools you need to make thousands more
 
 Hundreds of sellers have benefited from this seminar, and our last two events sold out quickly, so time is limited if you wish to attend. **To register, all you need to do is[&nbsp;click on this link.&nbsp;](https://www.johnschustergroup.com/home_seller_forum)**
 
-If you have any questions in the meantime, don’t hesitate to reach out. John would love to help you.&nbsp;
+If you have any questions in the meantime, don’t hesitate to reach out. We would love to help you.&nbsp;
