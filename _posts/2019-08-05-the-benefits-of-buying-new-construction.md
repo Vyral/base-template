@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Buying a new home is a smart decision. Here are a few reasons why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Benefits+of+Buying+New+Construction.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Benefits+of+Buying+New+Construction+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/kari---yt.jpg
-youtube_code: klLwH4-KsQM
+youtube_code: ANCtC7X7NBE
 ---
 
 {% include youtube.html %}
