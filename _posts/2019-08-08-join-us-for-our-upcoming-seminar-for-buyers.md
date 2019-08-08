@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for Our Upcoming Seminar for Buyers
-date: 2019-08-08 19:23:28
+date: 2019-08-08 19:23:00
 tags:
 excerpt: Join us on September 12 for tips and tricks for today’s homeowner.
 enclosure: >-
@@ -9,8 +9,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/jay-white-todays-homeowner.png
 youtube_code: h_uC0uoQhZQ
 ---
 
