@@ -31,7 +31,7 @@ Here, you’ll learn:
 
 {% include pullquote.html %}
 
-**The seminar will take place over the course of two days on September 11 and 12 and be split into two sessions each day—one at 11 a.m. and one at 6:45 p.m.** The first day we’ll be hosting it at the Maple Grove Community Center, and the second day we’ll be at the Eagan Community Center.&nbsp;
+**The seminar will take place over the course of two days on September 11th and 12th and be split into two sessions each day—one at 11 a.m. and one at 6:45 p.m.** The first day we’ll be hosting it at the Maple Grove Community Center, and the second day we’ll be at the Eagan Community Center.&nbsp;
 
 In just one hour, we’ll give you all the tools you need to make thousands more on your home sale. Not only that, but we’ll have a blast doing it.&nbsp;
 
