@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for Our Upcoming Seminar for Buyers
-date:
+date: 2019-08-08 19:23:28
 tags:
 excerpt: Join us on September 12 for tips and tricks for today’s homeowner.
 enclosure: >-
