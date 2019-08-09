@@ -7,7 +7,7 @@ excerpt: >-
   If the latest stats are any indication, now’s a good time to buy or sell in
   our market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/San+Diego+Real+Estate+Agent-+July+2019+Market+Update.mp4
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/The+Latest+News+%26+Notes+From+Our+Summer+Market+(1).mp4
 pullquote: >-
   You know as an educated home shopper, that an interest rate of 3.82% is going
   to allow you to afford more home.
@@ -20,7 +20,7 @@ youtube_code: wyS3DAWaqLI
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>If the latest stats are any indication, now’s a good time to buy or sell in our market.</em></p>
+*If the latest stats are any indication, now’s a good time to buy or sell in our market.*
 
 What’s the latest news from our summer market? **Let’s take a look at the month-over-month statistics from the end of June for detached homes across North San Diego County.**
 
