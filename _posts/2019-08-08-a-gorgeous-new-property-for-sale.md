@@ -19,4 +19,4 @@ youtube_code: I8n5tBOoReM
 
 {% include youtube.html %}
 
-I’m here today at my newest listing in the beautiful Tellis community at the Ascend townhome-style condominiums. Situated at the end of a private, dead-end street, this desirable home features a premium corner unit with 1,597 square feet of living space. It also features three spacious bedrooms, two full bathrooms, a half bath, and a rare two-car garage. With open ceilings and bamboo floors, this home offers both functionality and a peaceful ambiance. To get a better look at this gorgeous property for yourself, watch this short video.
+I’m here today at my newest listing in the beautiful Tallus community at the Ascend townhome-style condominiums. Situated at the end of a private, dead-end street, this desirable home features a premium corner unit with 1,597 square feet of living space. It also features three spacious bedrooms, two full bathrooms, a half bath, and a rare two-car garage. With open ceilings and bamboo floors, this home offers both functionality and a peaceful ambiance. To get a better look at this gorgeous property for yourself, watch this short video.
