@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Keep Good Credit After Buying a Home
-date: 2019-08-09 18:21:53
+date: 2019-08-09 18:21:00
 tags:
   - Home Buyer Tips
 excerpt: >-
