@@ -16,6 +16,6 @@ youtube_code: h_uC0uoQhZQ
 
 {% include youtube.html %}
 
-Throughout the year, we run a couple of different real estate seminars to provide for our clients and community members. Coming up on September 12 at the Carolina Ale House, we have a buyer seminar series called “Tips and Tricks for Today’s Homeowner,” and you’re invited. Check out the event details at [www.WhiteGroupEvents.com](www.WhiteGroupEvents.com). We hope to see you there\!
+Throughout the year, we run a couple of different real estate seminars to provide for our clients and community members. Coming up on September 12 at the Carolina Ale House, we have a buyer seminar series called “Tips and Tricks for Today’s Homeowner,” and you’re invited. Check out the event details at [www.WhiteGroupEvents.com](https://www.eventbrite.com/e/tips-tricks-for-todays-home-buyers-tickets-57442082816). We hope to see you there\!
 
 {% include pullquote.html %}
