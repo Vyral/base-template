@@ -23,7 +23,7 @@ youtube_code: w963Kd8XVoA
 
 {% include youtube.html %}
 
-*Many buyers aren’t sure if getting a home warranty is worth it, so today we’ll get to the bottom of this question.*
+<p style="text-align:center;"><em>Many buyers aren’t sure if getting a home warranty is worth it, so today we’ll get to the bottom of this question.</em></p>
 
 Buyers often ask whether they should get a home warranty when purchasing a new property. Actually, yes—getting a home warranty is generally a good idea, especially given that sellers typically pay for a one-year policy at closing. And since a comprehensive policy tends to cost about $550 (or more if the home comes with a pool or some similar amenity), this is a great deal.&nbsp;
 
