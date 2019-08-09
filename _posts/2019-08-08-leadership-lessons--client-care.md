@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leadership Lessons & Client Care
-date: 2019-08-08 19:18:07
+date: 2019-08-08 19:18:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/hong-mcdonald-youtube.jpg
-youtube_code: LT8llFuqvzc
+youtube_code: wJLPU7S7zCs
 ---
 
 {% include youtube.html %}
@@ -28,13 +28,13 @@ How have the lessons Hong has learned from her accomplishments helped her in lif
 
 “In many ways,” she says, “I get a chance to serve the community, be with my family, serve the clients, and it’s done me really well, and I’m really blessed to have that.”
 
-How have the leadership roles she’s earned in various organizations helped her in a typical real estate transaction? There are a lot of people involved behind the scenes in a real estate transaction, so **setting priorities is the first step in managing it (i.e., outlining what needs to be done and when).** Her time management skills have been well-honed through juggling her work life, family life, and through giving back.&nbsp;
+How have the leadership roles she’s earned in various organizations helped her in a typical real estate transaction? There are a lot of people involved behind the scenes in a real estate transaction, so **setting priorities is the first step in managing it (i.e., outlining what needs to be done and when).** Her time management skills have been well honed through juggling her work life, family life, and through giving back.&nbsp;
 
 {% include pullquote.html %}
 
 Hong’s parents instilled in her a tremendous work ethic. According to her, they grew up with practically nothing, and they told her that she would have to work for what she wanted. It’s because of this that she started working when she was very young and never stopped. Along the way, she’s learned to appreciate the process.&nbsp;
 
-Like a lot of people, Hong first started visiting Park City just to ski. Her first trip was back in 1997, and that lasted five days. The next year she visited again, and that time stay for 10 days. The year after that, she and her family stayed for a whole summer.&nbsp;
+Like a lot of people, Hong first started visiting Park City just to ski. Her first trip was back in 1997, and that lasted five days. The next year she visited again, and that time, stayed for 10 days. The year after that, she and her family stayed for a whole summer.&nbsp;
 
 Being a single mom and raising two kids has helped her create more balance in her life because her parents taught her to use challenges as an opportunity to become a better person. She notes that she’s had plenty of help from various people in all facets of her life, and in my opinion, this is what makes her such a great mentor.&nbsp;
 
