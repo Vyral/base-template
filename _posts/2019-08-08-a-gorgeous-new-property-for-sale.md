@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/exploreyt.jpg
+youtube_alternate_image: /uploads/8-9-19yt.jpg
 youtube_code: I8n5tBOoReM
 ---
 
