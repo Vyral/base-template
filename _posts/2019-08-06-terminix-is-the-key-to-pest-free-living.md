@@ -18,7 +18,7 @@ youtube_code: Z4f1nFCWCpE
 
 {% include youtube.html %}
 
-Summer after summer, I rely on the experts at Terminix to keep my patio and outdoor living space free of pests. To better understand what makes this company so effective, I recently spoke with service manager Gene Ballesty about what sets Terminix apart.
+Summer after summer, I rely on the experts at Terminix to keep my patio and outdoor living space free of pests. To better understand what makes this company so effective, I recently spoke with service manager Gene Ramage about what sets Terminix apart.
 
 For one thing, Gene says that Terminix focuses on preventative measures. **They target and treat mosquito breeding areas, as well as on vines and other various plants where pests would otherwise thrive.&nbsp;**
 
