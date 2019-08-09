@@ -10,7 +10,7 @@ excerpt: >-
   Many buyers aren’t sure if getting a home warranty is worth it, so today we’ll
   get to the bottom of this question.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/Do+You+Need+a+Home+Warranty_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/Do+You+Need+a+Home+Warranty_+(1).mp4
 pullquote: >-
   If you’re buying a new home, you should absolutely ask the seller to pay for a
   home warranty.
