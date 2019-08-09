@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-6---dustin-sherlin---youtube.jpg
-youtube_code: 'https://youtu.be/_s6Ekz-huwA'
+youtube_code: 'https://youtu.be/1ddnb1t0RUI'
 ---
 
 {% include youtube.html %}
