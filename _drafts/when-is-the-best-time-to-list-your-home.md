@@ -19,7 +19,7 @@ youtube_code: NbjbEOUzegw
 
 {% include youtube.html %}
 
-When is the best time to sell your home? The answer might surprise you.
+<center>When is the best time to sell your home? The answer might surprise you.</center>
 
 When is the best time of year to sell your home?
 
