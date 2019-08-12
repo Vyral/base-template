@@ -20,7 +20,9 @@ youtube_code: klmg8hqoMsM
 
 {% include youtube.html %}
 
-<center>Today we’re discussing yet another major development in real estate this year. This time, it concerns aging homeowners.</center>
+<center><em>Today we&rsquo;re discussing yet another major development in real estate this year. This time, it concerns aging homeowners.</em></center>
+
+&nbsp;
 
 In keeping with our previous video, today we’ll highlight the second-biggest real estate trend we’ve observed this year. With increasing frequency, **elderly parents are passing away, downsizing their home, or going into some form of a care facility, like an assisted living or a nursing home**.
 
