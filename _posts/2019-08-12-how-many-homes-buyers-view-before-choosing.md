@@ -19,13 +19,13 @@ youtube_code: 'https://youtu.be/u0X4X42L5Fc'
 
 {% include youtube.html %}
 
-How many homes will you have to look through before you find “the one?” Stay tuned\!
+<p style="text-align: center;"><em>How many homes will you have to look through before you find “the one?” Stay tuned!</em></p>
 
 On average, how many homes will you look at before you find “the one?” Today I’ll discuss my answer to this question.
 
 The obvious answer is that it depends, but I can actually give you a lot more guidance and insight into this topic than that.
 
-In general, you’re probably going to look at fewer homes in person than you think. With all the information available out there, 9**8% of buyers begin hunting for homes online**, meaning you’ll see several homes before you and I will go to visit your top choices in person.
+In general, you’re probably going to look at fewer homes in person than you think. With all the information available out there, **98% of buyers begin hunting for homes online**, meaning you’ll see several homes before you and I will go to visit your top choices in person.
 
 For every home you step foot inside, you’ll probably weed out 30 to 50 online listings that didn’t make the cut. Over the years, we’ve found that **we tend to look at about seven homes in person with our clients before they actually place an offer.** Mind you, being above or below that number doesn’t mean you’re bad or good—there are always extenuating circumstances.
 
