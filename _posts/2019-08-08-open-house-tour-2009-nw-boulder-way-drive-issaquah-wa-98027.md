@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Gorgeous New Property for Sale
+title: 'Open House Tour: 2009 NW Boulder Way Drive, Issaquah, WA 98027'
 date: 2019-08-08 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/8-9-19yt.jpg
+youtube_alternate_image: /uploads/boulder-way-drive-youtube.png
 youtube_code: I8n5tBOoReM
 ---
 
