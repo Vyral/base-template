@@ -5,7 +5,8 @@ date: 2019-08-06 13:55:00
 tags:
   - Home Seller Tips
 excerpt: What’s the key to dealing with lowball offers? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Ways+to+Approach+a+Lowball+Offer.mp4
 pullquote: >-
   The first rule of any offer is to respond always, either verbally or in
   writing—do not ignore any offer from any buyer, no matter the price.
