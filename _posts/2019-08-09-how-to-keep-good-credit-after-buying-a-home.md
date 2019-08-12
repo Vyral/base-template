@@ -27,4 +27,4 @@ Once you’ve bought a home, there are a few things you can do to help you maint
 
 **3\. Be careful about starting a new job.** Some jobs will run your credit score to see where you’re at; if your job is one of them, it’s a good idea to keep your credit score from dropping too low. Furthermore, you’ll need a good credit score if you’re thinking about refinancing.
 
-If you have any questions or comments about today’s topic, feel free to reach out to us. We’re to help in any way that we can.
+If you have any questions or comments about today’s topic, feel free to reach out to us. We’re here to help in any way that we can.
