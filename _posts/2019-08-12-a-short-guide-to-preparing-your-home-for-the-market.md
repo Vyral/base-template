@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/BYkxsb4YPak'
 
 {% include youtube.html %}
 
-These tips for preparing your home for the market require a little effort, but will produce a lot of reward.
+<p style="text-align: center;"><em>These tips for preparing your home for the market require a little effort, but will produce a lot of reward.</em></p>
 
 You’ve decided to sell your home. Congratulations\! Now it’s time to prepare it for the market. But what does that process entail?&nbsp;
 
