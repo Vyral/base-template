@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/iHP7O0fwpg4'
 
 {% include youtube.html %}
 
-I keep a list of local companies that I know and trust after years of doing business in the area. Here are the kinds of businesses on my list.
+<p style="text-align: center;"><em>I keep a list of local companies that I know and trust after years of doing business in the area. Here are the kinds of businesses on my list.</em></p>
 
 What is **Nate’s list**?&nbsp;
 
