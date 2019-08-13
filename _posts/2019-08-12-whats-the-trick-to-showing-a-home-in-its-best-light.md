@@ -19,9 +19,9 @@ youtube_code: 7H8jiJLEF_8
 
 {% include youtube.html %}
 
-<br>The way we live life every day is very different to how we live when our homes are on the market. Most sellers want to be present when buyers come to visit because frankly, it’s a little weird to have other people going through your home, your closet, and other personal things, and not being there to explain or monitor the proceedings.
+<br>The way we live life every day is very different from how we live when our homes are on the market. Most sellers want to be present when buyers come to visit because frankly, it’s a little weird to have other people going through your home, your closet, and other personal things and not being there to explain or monitor the proceedings.
 
-**However, home sellers shouldn’t stay at home during showings.** Why? Because you want the buyer to feel comfortable enough to talk about your home (positively or negatively) as they get closer to making a purchase decision. That won’t happen if you, the seller, are present for their showing. The buyer may be polite to you and say only nice things about your home, which isn’t necessarily their most honest feedback.
+**However, home sellers shouldn’t stay at home during showings.** Why? Because you want the buyer to feel comfortable enough to talk about your home (positively or negatively) as they get closer to making a purchasing decision. That won’t happen if you, the seller, are present for their showing. The buyer may be polite to you and say only nice things about your home, which isn’t necessarily their most honest feedback.
 
 {% include pullquote.html %}
 
@@ -29,7 +29,7 @@ To make sure your home shows beautifully when it does come time for showings, **
 
 Next, **declutter your home.** Remove your sundry belongings from the countertops and other catch-all surfaces. Store away any personal items, as well—operate with the assumption that any potential buyer is interested in your home and remove anything that might affect how they would place an offer.
 
-Take a little effort to **remove any odors from your home,** including food, pet, and chemical smells. Similarly, clean your home from top to bottom. Mind you, your standards for clean are likely different to a professional cleaning service, so I recommend that you have your home professionally cleaned.
+Take a little effort to **remove any odors from your home,** including food, pet, and chemical smells. Similarly, clean your home from top to bottom. Mind you, your standards for clean are likely different from a professional cleaning service, so I recommend that you have your home professionally cleaned.
 
 Finally, **make sure that your home is properly heated or cooled.** If it’s wintertime, be sure to heat your home to a comfortable temperature; if it’s summertime, be sure to have the air conditioner set to a neutral temperature.&nbsp;
 
