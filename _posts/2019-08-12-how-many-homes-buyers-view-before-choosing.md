@@ -8,13 +8,13 @@ excerpt: >-
   How many homes will you have to look through before you find “the one?” Stay
   tuned!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+How+Many+Homes+It+Takes+to+Find+the+One.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+how+many+homes.mp4
 pullquote: You’re probably going to look at fewer homes in person than you think
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/u0X4X42L5Fc'
+youtube_code: 'https://youtu.be/aTMcaeQbp1g'
 ---
 
 {% include youtube.html %}
