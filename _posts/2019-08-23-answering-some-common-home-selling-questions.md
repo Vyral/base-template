@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Some Common Home-Selling Questions
-date: 2019-08-11 00:00:00
+date: 2019-08-23 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
