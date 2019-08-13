@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/eR-CHmE2j14'
 
 {% include youtube.html %}
 
-Joining our team might be the best career move you’ll ever make. Here’s why.
+<p style="text-align: center;"><em>Joining our team might be the best career move you’ll ever make. Here’s why.</em></p>
 
 Attention, all agents\!&nbsp;
 
