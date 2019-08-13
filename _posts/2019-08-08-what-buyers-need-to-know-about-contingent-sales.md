@@ -8,7 +8,8 @@ excerpt: >-
   What is a contingent sale? Once a buyer makes an offer on a home, there are a
   few contingencies involved in the offer, including the home inspection,
   appraisal, loan approval, etc.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2019/What+Buyers+Need+to+Know+About+Contingent+Sales.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
