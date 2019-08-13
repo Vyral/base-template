@@ -19,7 +19,7 @@ youtube_code: oLQQvKyjvsI
 
 {% include youtube.html %}
 
-<center>If you&rsquo;ve never seen Brittania Heights before, you&rsquo;re in for a real treat today.</center>
+<center><em>If you&rsquo;ve never seen Brittania Heights before, you&rsquo;re in for a real treat today.</em></center>
 
 &nbsp;
 
