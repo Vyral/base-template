@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/_mELQy1lPpg'
 
 <p style="text-align: center;"><em>Shawn Stallard from Chaparral Visuals has worked with us on hundreds of homes over the years. I recently caught up with him at the newest Sunwood Homes.</em></p>
 
-I had a great trip recently out to the Brookwood subdivision to visit one of their models and the photographer who was set to photograph it. It was developed and built by Sunwood Homes.&nbsp;
+I had a great trip recently out to the Brookwood subdivision to visit one of their models and the photographer who was set to photograph it. It was developed and built by <a href="http://www.mysunwoodhomes.com/" target="_blank">Sunwood Homes.</a>&nbsp;
 
 This place is absolutely epic and Shawn Stallard from Chaparral Visuals talked to us about what he does in his day-to-day process. He’s probably done hundreds of home photography sessions for us and he shoots around 20 homes per week.&nbsp;
 
