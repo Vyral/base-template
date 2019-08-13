@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/yAcvifnvmXE'
 
 {% include youtube.html %}
 
-Depending on the type of seller (and person) you are, 2019 might be your year to sell your home. Find out what I mean in today’s message.
+<p style="text-align: center;"><em>Depending on the type of seller (and person) you are, 2019 might be your year to sell your home. Find out what I mean in today’s message.</em></p>
 
 **Is 2019 the best year to sell your home?** I was recently asked this question, and since I know there are some would-be sellers out there wondering the same thing, I’d like to share my thoughts today.&nbsp;
 
