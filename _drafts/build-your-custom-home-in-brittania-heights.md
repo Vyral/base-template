@@ -19,7 +19,7 @@ youtube_code: oLQQvKyjvsI
 
 {% include youtube.html %}
 
-If you’ve never seen Brittania Heights before, you’re in for a real treat today.
+<center>If you’ve never seen Brittania Heights before, you’re in for a real treat today.</center>
 
 Today I’m on site at a beautiful custom home subdivision called Brittania Heights to give you a sneak peek of what is has to offer. This subdivision is officially located in Nampa, but it sits right on the Ada County/Canyon County border. Though it has a bit of a country feel to it, it’s no more than a six-minute drive to the freeway, and **you can be in downtown Boise in about 15 minutes**.&nbsp;
 
