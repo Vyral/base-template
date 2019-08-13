@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/maintaining-credit-youtube.jpg
-youtube_code: lAm_OoYvSPc
+youtube_code: vJjey8xegnk
 ---
 
 {% include youtube.html %}
