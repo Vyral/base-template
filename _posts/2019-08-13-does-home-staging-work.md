@@ -18,7 +18,7 @@ youtube_code: vW4t28G7xm4
 
 {% include youtube.html %}
 
-<p style = "text-align:center;"><em>Preparing your home properly is essential in having a successful home sale. Here’s why.</em></p>
+*Preparing your home properly is essential in having a successful home sale. Here’s why.*
 
 When we’re consulting with home sellers, one of the most common questions we hear is, “Is staging worth it? Does it really work?”
 
