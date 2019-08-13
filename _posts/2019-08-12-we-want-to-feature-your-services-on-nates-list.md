@@ -23,13 +23,13 @@ youtube_code: 'https://youtu.be/iHP7O0fwpg4'
 
 <p style="text-align: center;"><em>I keep a list of local companies that I know and trust after years of doing business in the area. Here are the kinds of businesses on my list.</em></p>
 
-What is **Nate’s list**?&nbsp;
+What is **Nate’s List**?&nbsp;
 
 Basically, it’s **a referral network I’ve created that comprises every service provider I can refer to my past client database, current buyers, and anyone else who’s thinking about placing their home on the market.**&nbsp;
 
-What kinds of services will you find on Nate’s list?&nbsp;
+What kinds of services will you find on Nate’s List?&nbsp;
 
-If you can think of a service that might benefit buyers and sellers, it’s probably on Nate’s list. We’re constantly welcoming new residents to the Valley, and many of them, for example, don’t have the slightest idea of where the best, most reputable dentists, pediatricians, and doctors are. In addition to those providers, Nate’s list features landscapers, pool builders, block layers, masons, and more.&nbsp;
+If you can think of a service that might benefit buyers and sellers, it’s probably on Nate’s List. We’re constantly welcoming new residents to the Valley, and many of them, for example, don’t have the slightest idea of where the best, most reputable dentists, pediatricians, and doctors are. In addition to those providers, Nate’s List features landscapers, pool builders, block layers, masons, and more.&nbsp;
 
 **If you feel like you can bring value to buyers and/or sellers in the Valley, we want to know about you.** Here’s what I’d like you to do: Fill out this form and let us know what services you specialize in and what area of the Valley you work in. We have clients Valley-wide, and we’d be happy to point them in your direction.&nbsp;
 
