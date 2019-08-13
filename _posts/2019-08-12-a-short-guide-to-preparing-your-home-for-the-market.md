@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   These tips for preparing your home for the market require a little effort, but
-  will produce a lot of reward.
+  will produce a great reward.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Ron+Sawyer/2019/The+Ron+Sawyer+Team+_+Getting+Ready+to+Sell.mp4
 pullquote: It’s time to start thinking like a buyer.
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/BYkxsb4YPak'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These tips for preparing your home for the market require a little effort, but will produce a lot of reward.</em></p>
+<p style="text-align: center;"><em>These tips for preparing your home for the market require a little effort, but will produce a great reward.</em></p>
 
 You’ve decided to sell your home. Congratulations\! Now it’s time to prepare it for the market. But what does that process entail?&nbsp;
 
