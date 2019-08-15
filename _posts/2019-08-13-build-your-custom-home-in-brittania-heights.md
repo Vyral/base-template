@@ -23,7 +23,7 @@ youtube_code: oLQQvKyjvsI
 
 &nbsp;
 
-Today I’m on site at a beautiful custom home subdivision called Brittania Heights to give you a sneak peek of what is has to offer. This subdivision is officially located in Nampa, but it sits right on the Ada County/Canyon County border. Though it has a bit of a country feel to it, it’s no more than a six-minute drive to the freeway, and **you can be in downtown Boise in about 15 minutes**.
+Today I’m on-site at a beautiful custom home subdivision called Brittania Heights to give you a sneak peek of what it has to offer. This subdivision is officially located in Nampa, but it sits right on the Ada County/Canyon County border. Though it has a bit of a country feel to it, it’s no more than a six-minute drive to the freeway, and **you can be in downtown Boise in about 15 minutes**.
 
 Prices range from $450,000 to $700,000, and these beautiful homes have all the features you can think of. Lots are hard to come by here, but I have four available with custom builder Central Valley Homes.
 
