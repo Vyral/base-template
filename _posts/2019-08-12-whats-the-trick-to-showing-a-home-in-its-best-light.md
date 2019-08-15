@@ -8,13 +8,13 @@ excerpt: >-
   Sellers: What can you do to ensure that your home shows beautifully for when
   buyers come to visit?
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/Whats+the+Trick+to+Showing+a+Home+in+Its+Best+Light_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/Whats+the+Trick+to+Showing+a+Home+in+Its+Best+Light_+(1).mp4
 pullquote: 'Pun intended, you want your home to show in the best possible light.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/saritass-showing-your-home-youtube.png
-youtube_code: 7H8jiJLEF_8
+youtube_code: i1AB03gGufc
 ---
 
 {% include youtube.html %}
