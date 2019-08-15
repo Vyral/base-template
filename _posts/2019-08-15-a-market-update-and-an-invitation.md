@@ -21,7 +21,7 @@ youtube_code: Zn3JRq-nvn0
 
 {% include youtube.html %}
 
-As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.
+<p="text-align:center;"><em>As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.</em></p>
 
 **With kids going back to school, the real estate market in Louisville and Southern Indiana has slowed down just a bit.** The number of homes that sold in July was off by less than 1% from last year, but the number of homes going under contract is down 11.9% from last year.
 
