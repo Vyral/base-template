@@ -20,7 +20,7 @@ youtube_code: STA6bM5FmIw
 
 {% include youtube.html %}
 
-Today I’ll share an interview that demonstrates my best practices with virtual assistants so that you understand the many ways they can improve your own business.
+<p style = "text-align: center;"><em>Today I’ll share an interview that demonstrates my best practices with virtual assistants so that you understand the many ways they can improve your own business.</em></p>
 
 **What is a virtual assistant?**<br>&nbsp;<br>In today’s technological age, we are now able to hire staff who can provide your team with administrative assistance remotely from a home office. Even if you don’t have enough space in your office to take on a new supporting role, it doesn’t matter with a virtual assistant—they might not even be from the same state\! They can do anything that an in-person assistant could do, except maybe providing coffee.
 
