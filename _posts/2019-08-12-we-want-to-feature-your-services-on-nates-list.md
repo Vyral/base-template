@@ -33,7 +33,7 @@ If you can think of a service that might benefit buyers and sellers, it’s prob
 
 **If you feel like you can bring value to buyers and/or sellers in the Valley, we want to know about you.** Here’s what I’d like you to do: Fill out this form and let us know what services you specialize in and what area of the Valley you work in. We have clients Valley-wide, and we’d be happy to point them in your direction.&nbsp;
 
-After serving our local market for more than 33 years and owning RE/MAX Professionals for 19 of those years, **we have so many happy clients calling us everyday to inquire about specific services they need.** &nbsp;
+After serving our local market for more than thirty-three years and owning RE/MAX Professionals for nineteen of those years, **we have so many happy clients calling us everyday to inquire about specific services they need.** &nbsp;
 
 {% include pullquote.html %}
 
