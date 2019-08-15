@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mike-gray---your-refinancing-questions-answered-youtube.jpg
-youtube_code: 'https://youtu.be/NS7cT234XOk'
+youtube_code: 'https://youtu.be/biElyxpK-e0'
 ---
 
 {% include youtube.html %}
