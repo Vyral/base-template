@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Virtues of a Virtual Assistant
-date: 2019-08-15 21:07:38
+date: 2019-08-15 21:07:00
 tags:
   - Real Estate
 excerpt: >-
