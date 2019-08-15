@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Physical Office Isn’t Necessary for Your Success, But It’ll Help'
-date: 2019-08-15 18:18:31
+date: 2019-08-15 18:18:00
 tags:
   - Real Estate
 excerpt: >-
