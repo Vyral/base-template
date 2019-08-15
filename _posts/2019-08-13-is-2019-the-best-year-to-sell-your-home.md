@@ -28,7 +28,7 @@ Even though predictions of a market shift have come true, interest rates have dr
 
 **What does all of this mean for you as a seller?**
 
-Well, **if you’re one for gambling, you might want to bet on 2020 being your year**—interest rates could very well drop further. If and when that happens, buyers will that much more purchasing power, which, in turn, raises your home’s value.
+Well, **if you’re one for gambling, you might want to bet on 2020 being your year**—interest rates could very well drop further. If and when that happens, buyers will have that much more purchasing power, which, in turn, raises your home’s value.
 
 {% include pullquote.html %}
 
