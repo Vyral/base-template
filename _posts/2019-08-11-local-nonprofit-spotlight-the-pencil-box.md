@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today we’re spotlighting a great local nonprofit dedicated to helping public
   schools: The Pencil Box.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Local+Nonprofit+Spotlight-+The+Pencil+Box+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
