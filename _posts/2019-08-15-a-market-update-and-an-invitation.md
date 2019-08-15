@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Market Update and an Invitation
-date:
+date: 2019-08-15 18:06:15
 tags:
   - Market Update
 excerpt: >-
