@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Impact of the Federal Reserve’s Rate Cut
-date: 2019-08-15 19:42:14
+date: 2019-08-15 19:42:00
 tags:
   - Real Estate
 excerpt: What does the Fed’s lowering of interest rates mean for you? Let’s discuss.
@@ -12,8 +12,8 @@ pullquote: >-
   increase in affordability.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/payne-youtube-7.jpg
 youtube_code: '-La2BsSq4KM/'
 ---
 
