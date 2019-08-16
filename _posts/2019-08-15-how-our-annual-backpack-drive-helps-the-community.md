@@ -31,7 +31,7 @@ Throwing back another starfish into the sea, the little boy looks at the old man
 
 In this same way, even knowing that we can’t help every child in America, our team is proud to know that we are making an impact at all. Every good deed matters. One local woman, a special education teacher named Karina, exemplifies this point.&nbsp;
 
-**Three years ago, it was Karina who came to us and the idea of beginning our now-annual backpack drive.** Fast forward to this year, and we’re about to donate 2,000 supply-filled backpacks to children in our community. Katrina’s idea has grown into something amazing, and each of us has the capacity to make a difference, just like she did.&nbsp;
+**Three years ago, it was Karina who came to us with the idea of beginning our now-annual backpack drive.** Fast forward to this year, and we’re about to donate 2,000 supply-filled backpacks to children in our community. Katrina’s idea has grown into something amazing, and each of us has the capacity to make a difference, just like she did.&nbsp;
 
 In our real estate business, for example, we strive to do this every day. More than just selling properties, it’s our mission to connect families with their next home. The bottom line is that there are many ways to make a difference. Even something as simple as smiling at a stranger or holding open a door for someone has a positive impact.&nbsp;
 
