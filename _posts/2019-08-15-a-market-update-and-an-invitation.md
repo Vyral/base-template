@@ -49,6 +49,6 @@ A recession does not equal a housing crisis, contrary to popular belief. The top
 
 With these market statistics out of the way, let's circle back to that event I mentioned earlier. Regardless of what state our market's in, great clients like you have continued to trust the Sokoler-Medley Team with your real estate needs. And for that, we thank you. To show you just how much we appreciate your support, we'd like to invite you to join us for our annual client appreciation event. This time, we'll be taking a trip to Louisville Slugger Field to cheer on our local Louisville soccer team as they face off against the North Carolina Football Club. So mark your calendars for August 24 from 1 p.m. to 6 p.m. We hope to see you there\!&nbsp;
 
-<p="text-align:center;"><strong><a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07egge1z3b449a73c8&oseq=&c=&ch=">Visit this page to learn more and register</a></strong></p>
+<p style="text-align:center;"><strong><a href="https://events.r20.constantcontact.com/register/eventReg?oeidk=a07egge1z3b449a73c8&oseq=&c=&ch=">Visit this page to learn more and register</a></strong></p>
 
 If you have any other questions or would like more information, please to give us a call or send us an email. We look forward to seeing you soon.
