@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thanks for Attending Our Client Appreciation Event
+title: What Happened With Mortgage Rates?
 date: 2019-08-15 00:00:00
 tags:
   - Real Estate
