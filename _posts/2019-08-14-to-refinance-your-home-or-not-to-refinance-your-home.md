@@ -26,7 +26,7 @@ That aside, let’s get to today’s topic: **Should you refinance your home?&nb
 
 Because rates have been so low for so long, many of you may have already taken the steps to refinance your home. If you’re among the homeowners who have yet to refinance, the news only gets better: **Rates have dipped once again.&nbsp;**
 
-To help you gain a better understanding if you’re unsure why you should do refinance your home, there are three reasons homeowners do this:&nbsp;
+To help you gain a better understanding if you’re unsure why you should refinance, there are three reasons homeowners do this:
 
 1. **To lower their payments&nbsp;**
 2. **To shorten the life of their loan (e.g., from a 30-year to a 15-year loan)**
@@ -38,7 +38,7 @@ You might be wondering, **“How much does it cost to refinance?”** According 
 
 **Is it worth it to refinance your home?** Personally, I think the answer to this question matters most of all. Frankly, it depends on how the aforementioned numbers shake out.
 
-For the sake of argument, let’s say it’ll cost you $15,000 to refinance your home, but on the other hand, it’ll shave roughly $400 off your monthly mortgage payment. If you take that $15,000 and divide it by 400, the math works out to about 38 months, which is your “breakeven” point.&nbsp;
+For the sake of argument, let’s say it’ll cost you $15,000 to refinance your home, but on the other hand, it’ll shave roughly $400 off your monthly mortgage payment. If you take that $15,000 and divide it by $400, the math works out to about 38 months, which is your “breakeven” point.&nbsp;
 
 In other words, if you plan on staying in your home for more than 38 months, it makes perfect sense to refinance. So, if you don’t plan on living in your home that long, refinancing is probably contrary to your interest. &nbsp;
 
