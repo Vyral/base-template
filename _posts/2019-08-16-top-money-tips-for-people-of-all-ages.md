@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Top Money Tips for People of All Ages
-date:
+date: 2019-08-16 15:32:41
 tags:
   - Home Buyer Tips
 excerpt: >-
