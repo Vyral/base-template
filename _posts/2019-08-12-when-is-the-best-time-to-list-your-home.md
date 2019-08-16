@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: When is the best time to sell your home? The answer might surprise you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/When+Is+the+Best+Time+to+List+Your+Home_.mp4
 pullquote: >-
   It’s not about pinpointing the best time in the market, rather it’s about
   pinpointing the best time in your life.
