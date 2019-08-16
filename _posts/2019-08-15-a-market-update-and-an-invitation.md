@@ -21,7 +21,7 @@ youtube_code: Zn3JRq-nvn0
 
 {% include youtube.html %}
 
-*As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.*
+<p style = "text-align:center;"><em>As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.</em></p>
 
 Local real estate has seen some interesting developments lately, so let's take a moment to review some of the most notable changes. Also, beyond this quick market update, we've got one other announcement to share: You're invited to our upcoming client appreciation event\! Keep reading today's message to learn more.
 
