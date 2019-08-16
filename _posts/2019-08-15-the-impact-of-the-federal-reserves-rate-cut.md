@@ -29,4 +29,4 @@ Let’s use an example to further illustrate this point. Say you were buying a $
 
 As recently as this year, your P&I (principal and interest) payment on a $200,000 mortgage would have been $1,058 per month. If you bought a home today at a 3.875% rate, that same payment could get you into a $225,000 home. That’s greater purchasing power for you as a buyer\! Given the level of competition in our current market, that 1% rate decrease between January and today could give you the best of both worlds: **the ability to buy the house you want and stay within your budget when you do.&nbsp;**
 
-If you have any questions or would like more information, please get in touch with me by phone at 614-323-4348 or by visiting me online at VisionRealty.com. I’d be happy to help\! &nbsp;<br>&nbsp;
+If you have any questions or would like more information, please get in touch with me by phone at 614-323-4348 or by visiting me online at[VisionRealty.com]( VisionRealty.com). I’d be happy to help\! &nbsp;<br>&nbsp;
