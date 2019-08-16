@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/kohler-client-appreciation-youtube-1.png
+youtube_alternate_image: /uploads/kohler-client-appreciation-youtube-2.png
 youtube_code: Hy31oOawRp0
 ---
 
