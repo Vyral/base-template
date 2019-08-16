@@ -1,0 +1,22 @@
+---
+layout: post
+title: Thanks for Attending Our Client Appreciation Event
+date: 2019-08-15 00:00:00
+tags:
+  - Real Estate
+excerpt: >-
+  Our recent client appreciation event was incredible, and it was all thanks to
+  you!
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Client+Appreciation+Party.mp4
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/kohler-client-appreciation-youtube-1.png
+youtube_code: Hy31oOawRp0
+---
+
+{% include youtube.html %}
+
+Friends and clients: We were so happy to see you at our recent client appreciation event at Porter’s Pub in the breathtaking Bowe’s Creek Country Club. We want to thank all of you who came out to enjoy food, drinks, fun, and our driving range raffle. Congratulations to the winner, by the way. All of this is simply to remind you of how important you are to us. We appreciate you so dearly, so we were so glad see you there. As always, if you have any other questions or would like more information about anything related to real estate, please give us a call or send us an email. We’ll see you tonight\! To hear our full video invitation, watch this short message.
