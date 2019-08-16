@@ -21,7 +21,7 @@ youtube_code: Zn3JRq-nvn0
 
 {% include youtube.html %}
 
-*As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.*
+<p="text-align:center;"><em>As summer turns to fall, I wanted to bring you an update on the real estate market. I also wanted to let you know about our upcoming party.</em></p>
 
 Local real estate has seen some interesting developments lately, so let's take a moment to review some of the most notable changes. Also, beyond this quick market update, we've got one other announcement to share: You're invited to our upcoming client appreciation event\! Keep reading today's message to learn how to get registered.
 
@@ -49,6 +49,6 @@ A recession does not equal a housing crisis, contrary to popular belief. The top
 
 With these market statistics out of the way, let's circle back to that event I mentioned earlier. Regardless of what state our market's in, great clients like you have continued to trust the Sokoler-Medley Team with your real estate needs. And for that, we thank you. To show you just how much we appreciate your support, we'd like to invite you to join us for our annual client appreciation event. This time, we'll be taking a trip to Louisville Slugger Field to cheer on our local Louisville soccer team as they face off against the North Carolina Football Club. So mark your calendars for August 24 from 1 p.m. to 6 p.m. We hope to see you there\!&nbsp;
 
-[Visit](__notset__)[this event page](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07egge1z3b449a73c8&amp;oseq=&amp;c=&amp;ch=){: target="_blank"}[to learn more and to register.&nbsp;](__notset__)
+<p="text-align:center;"><strong>[Visit](__notset__)[ this event page](https://events.r20.constantcontact.com/register/eventReg?oeidk=a07egge1z3b449a73c8&amp;oseq=&amp;c=&amp;ch=){: target="_blank"}[to learn more and to register.&nbsp;](__notset__)</strong></p>
 
 If you have any other questions or would like more information, please to give us a call or send us an email. We look forward to seeing you soon.
