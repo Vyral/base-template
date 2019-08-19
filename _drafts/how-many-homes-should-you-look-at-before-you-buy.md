@@ -19,7 +19,7 @@ youtube_code: ZcQohm-aoYc
 
 {% include youtube.html %}
 
-How many homes should you look at before buying one? Find out today.
+<center>How many homes should you look at before buying one? Find out today.</center>
 
 “How many homes should I look at before I buy?”
 
