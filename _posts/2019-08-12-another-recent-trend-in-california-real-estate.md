@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today we’re discussing yet another major development in real estate this year.
   This time, it concerns aging homeowners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Another+Recent+Trend+in+California+Real+Estate.mp4
 pullquote: >-
   Erring on the side of caution and preparing for the future will ensure your
   situation works out for the better.
