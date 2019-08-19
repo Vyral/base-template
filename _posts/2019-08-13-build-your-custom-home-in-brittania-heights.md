@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’ve never seen Brittania Heights before, you’re in for a real treat
   today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brent+Dildine/Videos/A+Sneak+Peek+at+a+Custom+Home+Subdivision.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
