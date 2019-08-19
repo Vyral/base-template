@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/gray-youtube.jpg
-youtube_code: APZv6w8OwFE
+youtube_code: I5lRvlbq2Xg
 ---
 
 {% include youtube.html %}
@@ -38,4 +38,4 @@ Even the agents who don’t live in close proximity to Spring can benefit from o
 
 The bottom line is this: **If you can find a real estate company that maximizes the potential of cyberspace and has a brick-and-mortar office and all the resources that entails, you’ll get the best of both worlds.** You’ll be able to maximize your career opportunities and income potential as a real estate professional.&nbsp;
 
-I specialize in taking agents to the next level, so if you have any questions about this topic or you have any other needs I can assist you with, just give em a call or send me an email. I’d love to hear from you.&nbsp;
+I specialize in taking agents to the next level, so if you have any questions about this topic or you have any other needs I can assist you with, just give me a call or send me an email. I’d love to hear from you.&nbsp;
