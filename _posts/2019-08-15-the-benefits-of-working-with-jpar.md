@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Working With JPAR
-date: 2019-08-15 19:21:46
+date: 2019-08-15 19:21:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/benefits-youtube.jpg
-youtube_code: Xj4VCcr-yjw
+youtube_code: togCJncl5xE
 ---
 
 {% include youtube.html %}
