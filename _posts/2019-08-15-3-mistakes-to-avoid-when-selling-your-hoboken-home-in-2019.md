@@ -8,7 +8,7 @@ excerpt: >-
   Here are the three biggest don’ts when selling your home in our Hoboken
   market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Brian+Riolo+/3+Mistakes+to+Avoid+When+Listing+Your+Home+for+Sale+in+Hoboken+in+2019.mp4
+  https://vyralmarketing.s3.amazonaws.com/Brian+Riolo+/3+Mistakes+to+Avoid+When+Selling+Your+Hoboken+Home+in+2019.mp4
 pullquote: >-
   As the old saying goes, “You get what you pay for,” and that’s no less true in
   real estate.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/riolo-youtube-9.jpg
-youtube_code: r1Q7m8fhas0
+youtube_code: Dou70gAuWmM
 ---
 
 {% include youtube.html %}
