@@ -21,7 +21,7 @@ youtube_code: lfhsf2WAyfQ
 
 For the past three years, our real estate team has partnered with \[Organization\] to source backpacks for local children, so that families without the resources to provide them on their own can still send their kids to school with all the necessary tools.&nbsp;
 
-**In addition to \[INSERT ORGANIZATION NAME\], we also work closely with local law enforcement to create these opportunities year after year for our area’s youth.&nbsp;**
+**In addition to The Purist Group, we also work closely with local law enforcement to create these opportunities year after year for our area’s youth.&nbsp;**
 
 I like to think of our impact on the community as being similar to the old folk tale of the young boy throwing starfish back into the sea after a storm. In the story, thousands of starfish have been stranded on a beach. The boy throws back as many as he can, but is obviously unable to save them all. As he’s working to help the starfish, an old man approaches him and says, “You aren’t making a difference. You can’t save them all.”
 
