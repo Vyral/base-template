@@ -11,7 +11,7 @@ enclosure:
 pullquote: Using these tips will help keep you on the right track.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/COOK_YOUTUBE.jpg
 youtube_code: coLfj8Pkabo
 ---
