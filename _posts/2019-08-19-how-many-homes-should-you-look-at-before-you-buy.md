@@ -21,9 +21,11 @@ youtube_code: ZcQohm-aoYc
 
 <center>How many homes should you look at before buying one? Find out today.</center>
 
+&nbsp;
+
 “How many homes should I look at before I buy?”
 
-Before you even start counting how many homes you ought to be looking at, **you should first make sure that your home search is done properly**. Today, most home searches begin online. For example, visit <u><a target="_blank" href="https://www.colemererealty.com/">ColemereRealty.com</a></u>, &nbsp;where you can set up your own personalized account and start your own list of homes that you like. From there, you can reach out to your Colemere Realty specialist to have them set you up with a customized home search.
+Before you even start counting how many homes you ought to be looking at, **you should first make sure that your home search is done properly**. Today, most home searches begin online. For example, visit <u><a target="_blank" href="https://www.colemererealty.com/">ColemereRealty.com</a></u>, where you can set up your own personalized account and start your own list of homes that you like. From there, you can reach out to your Colemere Realty specialist to have them set you up with a customized home search.
 
 **Next, be sure to consult with your agent**. Tell them what areas you like and dislike, what features you need to have in a home, and what features you’d like to have in a home. Also consider whether you have a home to sell before you buy a new one, and whether you’ve met with a mortgage lender. These steps need to be met before you physically observe homes you’re interested in.
 
