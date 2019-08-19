@@ -37,6 +37,6 @@ If we overprice right from the start, three weeks or a month could go by with li
 
 It’s last on the list, but **hiring a bad agent** is just as big a mistake as the others. Everywhere you look, you see marketing and ads from other agents battling to be the cheapest agent in the area. As the old saying goes, “You get what you pay for,” and that’s no less true in real estate.&nbsp;
 
-Now, I’m not suggesting you shouldn’t give a discount agent a chance. Feel free to meet with them to see what they have to offer, but also interview a few others like the Riolo Residential Group. We might not be the cheapest around, but we have a proven strategy that will get you results in your home sale.&nbsp;
+Now, I’m not suggesting you shouldn’t give a discount agent a chance. Feel free to meet with them to see what they have to offer, but also interview a few others like the Riolo Residential Group. Who you work with matters; we have a proven strategy that will achieve the results you are looking for with the sale of your home.&nbsp;
 
 If you have any questions or you’re curious about your home’s value in today’s market, please feel free to give us a call at 201-253-5594 or email me at [Brian@RioloResidentialGroup.com](Brian@RioloResidentialGroup.com){: target="_blank"}. We hope to hear from you soon\!
