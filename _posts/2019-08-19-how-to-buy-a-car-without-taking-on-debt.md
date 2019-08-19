@@ -19,7 +19,7 @@ youtube_code: YqG3feB9SN0
 
 {% include youtube.html %}
 
-Debt can be bad, but it doesn’t have to be. This is the kind of debt you should have.
+<p style="text-align: center;"><em>Debt can be bad, but it doesn’t have to be. This is the kind of debt you should have.</em></p>
 
 Summer is here and hopefully you’re getting out and enjoying it. Because so many people take advantage of their summer vacation, it’s typical that we see a summer slowdown in our market. However, I expect us to see a pickup right after Labor Day, but each area of the market is different for buyers and sellers. Reach out to me today to learn more about what’s going on in yours.
 
