@@ -23,7 +23,7 @@ youtube_code: r1Q7m8fhas0
 
 Here are three mistakes to avoid when listing your home in Hoboken this year:&nbsp;
 
-The first common buyer mistake is **not taking time to prep your home.** For our part, we’ll have an interior designer come out to your home to determine where we should focus our preparation efforts. Using their feedback, we’ll have your home looking like a model property before we introduce it to the market.&nbsp;
+The first common seller mistake is **not taking time to prep your home.** For our part, we’ll have an interior designer come out to your home to determine where we should focus our preparation efforts. Using their feedback, we’ll have your home looking like a model property before we introduce it to the market.&nbsp;
 
 We all know that exciting, warm feeling that stems from walking through a model home, and our goal is to elicit the same response from the buyers who see your home. When a buyer gets excited about your home, it means more money in your pocket at closing and a quicker sale.
 
