@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/izmBh0-0vVQ'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I’m excited to share another Brand Ambassador video with you all today\! This time, I’m focusing on the Dairy Queen in Carlisle.</em></p>
+<p style="text-align: center;"><em>I’m excited to share another Brand Ambassador video with you all today! This time, I’m focusing on the Dairy Queen in Carlisle.</em></p>
 
 The thing I love about the Dairy Queen in Carlisle is that it’s an icon in the community—it’s been here since 1981. I grew up coming to the restaurant, and now I bring my own family here to enjoy one of their Blizzards or other ice cream treats to beat the summer heat.
 
