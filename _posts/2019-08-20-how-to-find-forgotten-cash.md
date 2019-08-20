@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/fav-1.png
 youtube_code:
 ---
 
-![](/uploads/cash-062519-1.png){: width="349" height="154"}
+<img src="/uploads/cash-062519-1.png" alt="naupa" style="width:349;height:154;" align="middle;">
 
 There are literally billions of dollars sitting around in unclaimed bank accounts, retirement funds, and federal and state income tax refunds.&nbsp;&nbsp;
 
