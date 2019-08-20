@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do When You’re Planning to Relocate
-date: 2019-08-19 19:45:10
+date: 2019-08-19 19:45:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -38,7 +38,7 @@ Thankfully, there are several helpful tips you can keep in mind to make this eas
 
 2:51 - Roadmap step No. 3: Determine the equity position of your home
 
-3:08 - Roadmap step No. 4: Have a destination Consultation
+3:08 - Roadmap step No. 4: Have a destination consultation
 
 3:37 - Roadmap step No. 5: Consult with a CPA/ financial planner
 
