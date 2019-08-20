@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/w01tZO9N_Oc'
 
 In the latest installment of our video series on the Five-S Model of customer experience, we’ll talk about the fourth S: **surpass.**
 
-I’ve found that the more I teach about customer experience, the more attuned to it I become as an observer—whether the experience was amazing or left much to be desired. In the real estate business, **we should always be looking for ways that we can be better for our clients,** and the “surpass” component of the Five-S Model is an opportunity for us to surprise and delight them.&nbsp;
+I’ve found that the more I teach about customer experience, the more attuned to it I become as an observer—whether the experience was amazing or left much to be desired. In the real estate business, **we should always be looking for ways that we can be better for our clients,&nbsp;** and the “surpass” component of the Five-S Model is an opportunity for us to surprise and delight them.&nbsp;
 
 Besides giving clients updates, checking in with them, asking for feedback, and satisfying all the basics of an overall great experience, it’s important to look for ways that we can go the extra mile and surpass expectations. As I travel around and meet with other agents, I continue to learn new ideas for doing this. Here’s one: **As soon as your buyer or seller goes under contract, surprise them with a gift.** Perhaps you can deliver packing tape, champagne or wine, or some other small gesture that celebrates the occasion.
 
