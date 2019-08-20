@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Depending on the type of seller (and person) you are, 2019 might be your year
   to sell your home. Find out what I mean in today’s message.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+Is+2019+the+Best+Year+to+Sell_+(1).mp4
 pullquote: >-
   No matter the type of seller you are, we look forward to seeing you at the
   closing table.
@@ -15,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/yAcvifnvmXE'
+youtube_code: 'https://youtu.be/a8zEcvxOaNo'
 ---
 
 {% include youtube.html %}
