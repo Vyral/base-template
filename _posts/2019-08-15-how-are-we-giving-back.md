@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Have We Been Up To Lately?
+title: How Are We Giving Back?
 date: 2019-08-15 00:00:00
 tags:
   - Real Estate
