@@ -6,7 +6,7 @@ tags:
   - Career
 excerpt: Joining our team might be the best career move you’ll ever make. Here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Recruiting/Dan+Jones+Home+Selling+Team-+Join+Our+Team+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Recruiting/Dan+Jones+Home+Selling+Team-+Is+2019+the+Best+Year+to+Sell_.mp4
 pullquote: >-
   Our focus and drive is to see our agents succeed and provide them world-class
   coaching, and we’d like to do the same for you.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/eR-CHmE2j14'
+youtube_code: 'https://youtu.be/o3G4GL0LCMA'
 ---
 
 {% include youtube.html %}
