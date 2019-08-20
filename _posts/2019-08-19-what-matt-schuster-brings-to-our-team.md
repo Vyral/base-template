@@ -8,13 +8,13 @@ excerpt: >-
   In today’s agent spotlight, we’ll get to know Matt Schuster, the agent with
   the most five-star reviews on our team.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/What+Matt+Schuster+Brings+to+Our+Team+(3).mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/What+Matt+Schuster+Brings+to+Our+Team+(4).mp4
 pullquote: Matt leads the team in five-star reviews.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: iDS3qHyKlYM
+youtube_code: k2jtqajoZz0
 ---
 
 {% include youtube.html %}
