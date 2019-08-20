@@ -27,6 +27,6 @@ Matt leads the team in five-star reviews, and his secret to giving awesome custo
 
 {% include pullquote.html %}
 
-Besides being a rockstar agent, Matt sponsor and plays both kickball and dodgeball for Stonewall Sports and has some big plans for the future—he’s taking a vacation cruise\!
+Besides being a rockstar agent, Matt sponsors and plays both kickball and dodgeball for Stonewall Sports and has some big plans for the future—he’s taking a cruise\!
 
-We love working with Matt, and if you want to work with him to or you want to know more about our team, feel free to give us a call or message us on our website. We’d love to hear from you.
+We love working with Matt, and if you want to work with him or you want to know more about our team, feel free to give us a call or message us on our website. We’d love to hear from you.
