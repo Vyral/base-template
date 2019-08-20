@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Street Names & Their Histories
-date: 2019-08-20 15:03:36
+date: 2019-08-20 15:03:00
 tags:
   - Real Estate
 excerpt: How did our local streets get their names? Today I’ll explain.
