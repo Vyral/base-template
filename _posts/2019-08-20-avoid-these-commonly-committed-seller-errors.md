@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/kHt28qGwtAs'
 
 {% include youtube.html %}
 
-If you want to sell your home for the highest possible price, avoid these three mistakes as you make your preparations.
+<p style="text-align: center;"><em>If you want to sell your home for the highest possible price, avoid these three mistakes as you make your preparations.</em></p>
 
 Too often, sellers make mistakes that only end up hindering their home sale success. Here are three common examples for you to avoid when you sell your home.
 
