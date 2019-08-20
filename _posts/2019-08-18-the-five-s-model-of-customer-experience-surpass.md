@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Continuing our series on the Five-S Model of customer experience, today’s
   focus will be on “S” No. 4: surpass.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Surpass-+customer+Experience+Five-S+Model_Final+(1).mp4
 pullquote: >-
   The “surpass” component of the Five-S Model is an opportunity for us to
   surprise and delight our clients.
