@@ -14,6 +14,7 @@ permalink: /marketupdates/
 
 ### 2019 Market Reports
 
+* [July 2019](https://t.e2ma.net/webview/4iwxcp/6f103fa8ca4f047401bf7ea2d065cd73){: target="_blank"}
 * [June 2019](https://t.e2ma.net/webview/omg72o/7102f65312c62a4feb31d05b29e92162){: target="_blank"}
 * [May 2019](https://t.e2ma.net/webview/gkpeqo/a09b49d85c4cd4709a6b01420b177732){: target="_blank"}
 * [April 2019](https://t.e2ma.net/webview/gczkfo/1c7d27c99636d7982978816b7a35216b){: target="_blank"}
