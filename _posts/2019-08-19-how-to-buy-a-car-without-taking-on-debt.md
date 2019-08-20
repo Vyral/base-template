@@ -23,11 +23,11 @@ youtube_code: YqG3feB9SN0
 
 Summer is here and hopefully you’re getting out and enjoying it. Because so many people take advantage of their summer vacation, it’s typical that we see a summer slowdown in our market. However, I expect us to see a pickup right after Labor Day, but each area of the market is different for buyers and sellers. Reach out to me today to learn more about what’s going on in yours.
 
-Now, onto today’s topic. **I was reading an article in the Wall Street Journal the other day about debt and how it’s taking such a toll on people in our country.** People are spending a huge percentage of their income on things like car payments.
+Now, onto today’s topic. **I was reading an article in The Wall Street Journal the other day about debt and how it’s taking such a toll on people in our country.** People are spending a huge percentage of their income on things like car payments.
 
 {% include pullquote.html %}
 
-I did this once back in the day. In high school, I ran a landscaping business and was able to buy my first Porsche. As my career took off and I became more successful, I was able to buy my dream car, the Porsche 911. **I drove it for a month and realized I made a mistake.&nbsp;**
+I did this once back in the day. In high school, I ran a landscaping business. As my career took off and I became more successful, I was able to buy my dream car, the Porsche 911. **I drove it for a month and realized I made a mistake.&nbsp;**
 
 You see, happiness for me doesn’t have to do with things. It has to do with people. Because of that, I sold the Porsche to a friend of mine.&nbsp;
 
