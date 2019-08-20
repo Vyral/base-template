@@ -7,14 +7,13 @@ tags:
 excerpt: >-
   We’re passionate about giving back to our community, and our annual backpack
   drive is just one more way we do so. Let’s discuss this today.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/How+Our+Annual+Backpack+Drive+Helps+the+Community.mp4
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/How+Are+We+Giving+Back_.mp4'
 pullquote: Every good deed matters.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/alex-yu-backpack-drive-youtube.png
-youtube_code: lfhsf2WAyfQ
+youtube_code: 51Z9WvMp1c0
 ---
 
 {% include youtube.html %}
