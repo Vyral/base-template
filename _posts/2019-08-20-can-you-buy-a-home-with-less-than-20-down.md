@@ -21,7 +21,7 @@ youtube_code: MVI3chb8I54
 
 {% include youtube.html %}
 
-*Do homebuyers really need a 20% down payment to buy a home? Steve Hankla from Doorway Home Loans is here to help me answer this question.*
+<p style="text-align:center;"><em>Do homebuyers really need a 20% down payment to buy a home? Steve Hankla from Doorway Home Loans is here to help me answer this question.</em></p>
 
 In answer to the question of whether homebuyers really need a 20% down payment to buy a home, **I’m happy to say that no, they do not.**
 
