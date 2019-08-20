@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/wade--how-do-lenders-treat-2nd-homes-youtube.jpg
+youtube_alternate_image: /uploads/fav-1.png
 youtube_code:
 ---
 
