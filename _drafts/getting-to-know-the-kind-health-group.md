@@ -18,7 +18,7 @@ youtube_code: ioymovnSE1k
 
 {% include youtube.html %}
 
-On today’s “Everyday Encinitas,” I sat down with Dr. Georgine Nanos to talk about her work at Kind Health Group.
+<center>On today’s “Everyday Encinitas,” I sat down with Dr. Georgine Nanos to talk about her work at Kind Health Group.</center>
 
 Welcome to another episode of “Everyday Encinitas,” where our goal is to spotlight local businesses and community organizations around the area to learn a little bit more about them. Today we had the pleasure of meeting Dr. Georgine Nanos, founder of the Kind Health Group. Here’s what she had to say.
 
