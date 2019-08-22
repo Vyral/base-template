@@ -70,3 +70,23 @@ You made me laugh out loud over your “I hate people” phase. Oh my god girl, 
 - Randi Wright, Tulsa, OK, Loan Officer
 </p>
 <hr>
+
+<p class="testimonial-text">
+Database is EVERYTHING. Jennie is a phenomenal instructor. She cares about her attendees fiercely. She consistently brings new information and concepts to always be at the forefront of the topic. She's clear in her message, teaches from her heart and is passionate about the lives of her students.
+</p>
+<p class="testimonial-author">
+- Tiffany
+</p>
+<hr>
+
+<p class="testimonial-text">
+My Aha was that Jennie was in a similar position as me just a few years ago and she got real and intentional with her database and monumental growth accurred. It is always great to hear and learn from other agents on the same journey with ideas that can be realistically implemented.
+</p>
+<p class="testimonial-author">
+- Joshua Holt
+</p>
+<hr>
+
+
+
+
