@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Closing Costs and Earnest Money?
-date: 2019-08-22 15:01:08
+date: 2019-08-22 15:01:00
 tags:
   - Home Buyer Tips
 excerpt: >-
