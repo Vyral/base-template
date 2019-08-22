@@ -7,7 +7,7 @@ tags:
 excerpt: 'If you’re a prospective homebuyer, I have two simple questions for you today.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Wes+Peters/Baltimore+Metro+Real+Estate-+Latest+Baltimore+real+estate+news.mp4
-pullquote: People buy and sell real estate because life happens
+pullquote: People buy and sell real estate because life happens.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -29,6 +29,6 @@ People buy and sell real estate because life happens. People have kids, have mor
 
 If you’re looking at a grand, historic property that only comes on the market once a year, you might be hurting a little more if you missed out on it.
 
-So what are the properties you’re looking for like? The big question you should be asking yourself whether you will outgrow it in the next few years or not.
+So what are the properties you’re looking for like? The big question you should be asking yourself is whether you will outgrow it in the next few years or not.
 
 I’d love to discuss your personal situation to get you some even better advice. If you have any questions for me about buying a home or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
