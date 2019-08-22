@@ -24,7 +24,7 @@ The very first step is, of course, to **hire a great agent.** I would be happy t
 
 After that, it’s time to **declutter.** Not only will this help you get a headstart on packing for your move, but it will also make your home look and feel cleaner and more spacious.
 
-[For a great example of a decluttered home, click here.](http://www.homecb.com/987audreyplace-vista){: target="_blank"}
+For a great example of a decluttered home, [click here](http://www.homecb.com/987audreyplace-vista){: target="_blank"}.
 
 Next, **paint your front door.** A fresh coat of paint can make a world of difference, and given that your front door is one of the first things a buyer will notice as they enter your home, you want to make sure it leaves a good first impression.&nbsp;
 
