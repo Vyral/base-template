@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting to Know the Kind Health Group
+title: 'Everyday Encinitas: Kind Health Group'
 date: 2019-08-22 00:00:00
 tags:
   - Real Estate
