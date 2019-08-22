@@ -21,7 +21,7 @@ youtube_code: MVI3chb8I54
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Do homebuyers really need a 20% down payment to buy a home? Steve Hankla from Doorway Home Loans is here to help me answer this question.</em></p>
+*Do homebuyers really need a 20% down payment to buy a home? Steve Hankla from Doorway Home Loans is here to help me answer this question.*
 
 In answer to the question of whether homebuyers really need a 20% down payment to buy a home, **I’m happy to say that no, they do not.**
 
@@ -37,11 +37,11 @@ Other low money down programs include the FHA program, which requires a 3.5% dow
 
 {% include pullquote.html %}
 
-Fannie Mae’s HomeReady program for first-time homebuyers is often overlooked because of Fannie Mae’s traditional income limitations in areas where the average income is higher than other areas. **The HomeReady program offers a lower monthly payment because the interest rate.** The mortgage insurance is actually lower as well. It’s designed to attract people to underserved markets
+Fannie Mae’s HomeReady program for first-time homebuyers is often overlooked because of Fannie Mae’s traditional income limitations in areas where the average income is higher than other areas. **The HomeReady program offers a lower monthly payment because of the interest rate.** The mortgage insurance is actually lower as well. It’s designed to attract people to underserved markets.
 
 **Through the HomeReady program, first-time homebuyers can get into a home with as little as 3% down with no income limitations whatsoever**—even if you made $500,000 per year, you would be able to take advantage of the program. What’s more is that there are tools available to help pinpoint those properties that qualify for the no-income-limit areas.
 
-If you’re interested in a property that might need require customization due to, for example, a faulty roof or defective appliances, Fannie Mae’s HomeStyle Renovation program includes those projects.
+If you’re interested in a property that might require customization due to, for example, a faulty roof or defective appliances, Fannie Mae’s HomeStyle Renovation program includes those projects.
 
 Ultimately, you really don’t need to save up for a 20% down payment. There are plenty of great programs that will allow you to purchase with less money down, or none at all.
 
