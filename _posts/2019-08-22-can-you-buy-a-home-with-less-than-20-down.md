@@ -47,4 +47,4 @@ Ultimately, you really don’t need to save up for a 20% down payment. There are
 
 If you’d like to learn more about these programs, you can contact Steve Hankla at (714) 470-5626 or [Steve@GoToLoanPro.com](mailto:Steve@GoToLoanPro.com).
 
-Otherwise, if you’re looking to begin the process of buying a home, [reach out to us here](https://www.imaginerealty.com/){: target="_blank"}. We’d be delighted to help.
+Otherwise, if you’re looking to begin the process of buying a home, [reach out to us here](https://www.imaginerealty.com/){: target="_blank"}&nbsp;Tim Majka with Imagine Realty. We’d be delighted to help.
