@@ -1543,7 +1543,7 @@ html[xmlns] .flexslider .slides {
     height: 0px; }
 
   .nav-logo-small {
-    max-width: 100px;
+    max-width: 63px;
     margin-top: -15px; } }
 .navbar-andross-bottom {
   background: #232020;
@@ -1608,7 +1608,7 @@ label.tree-toggle {
   padding-top: 10rem; }
 
 .home-img {
-  background-position: center;
+  background-position: right;
   background-size: cover;
   padding-top: 15rem;
   height: 500px; }
@@ -1633,6 +1633,9 @@ label.tree-toggle {
   .site-logo {
     max-width: 20rem; } }
 @media (max-width: 760px) {
+  .home-img {
+    padding-left: 70rem; }
+
   .site-logo {
     max-width: 20rem;
     margin-top: 4rem; }
