@@ -24,6 +24,8 @@ The very first step is, of course, to **hire a great agent.** I would be happy t
 
 After that, it’s time to **declutter.** Not only will this help you get a headstart on packing for your move, but it will also make your home look and feel cleaner and more spacious.
 
+[For a great example of a decluttered home, click here.](http://www.homecb.com/987audreyplace-vista){: target="_blank"}
+
 Next, **paint your front door.** A fresh coat of paint can make a world of difference, and given that your front door is one of the first things a buyer will notice as they enter your home, you want to make sure it leaves a good first impression.&nbsp;
 
 {% include pullquote.html %}
@@ -31,6 +33,8 @@ Next, **paint your front door.** A fresh coat of paint can make a world of diffe
 Of course, the inside of your home needs to look great, too. Therefore, **always make sure to clean your carpets**—especially if you have pets. We all love our animals, but buyers might not love the damage, dander, and odors they can leave behind. Kids, too, often cause messes that leave your home smelling less than fresh. Even if you’ve gone noseblind and no longer notice any odor in your home, buyers certainly will. Getting your carpet professionally cleaned is a great way to ensure that buyers won’t turn up their nose at your home.&nbsp;
 
 Finally, don’t forget to wash your windows. Sparkling clean windows don’t just look great, they also help your home to appear brighter. It’s little touches like this that make your home seem all the more inviting
+
+[For a great example of a ready to sell home, click here.](http://www.homecb.com/3537elpasoalto-vista){: target="_blank"}
 
 But why should you do all of these things to begin with? It’s simple: **to attract more buyers and sell your home faster and for a higher price.&nbsp;**
 
