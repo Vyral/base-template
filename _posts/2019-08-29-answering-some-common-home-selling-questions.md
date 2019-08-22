@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering Some Common Home-Selling Questions
-date: 2019-08-23 00:00:00
+date: 2019-08-29 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-should-home-sellers-know-youtube.jpg
-youtube_code: 'https://youtu.be/pzu3VnIKdM8'
+youtube_code: 'https://youtu.be/dmCPv7kXoos'
 ---
 
 {% include youtube.html %}
