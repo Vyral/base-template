@@ -34,7 +34,7 @@ Of course, the inside of your home needs to look great, too. Therefore, **always
 
 Finally, don’t forget to wash your windows. Sparkling clean windows don’t just look great, they also help your home to appear brighter. It’s little touches like this that make your home seem all the more inviting
 
-[For a great example of a ready to sell home, click here.](http://www.homecb.com/3537elpasoalto-vista){: target="_blank"}
+<a href="http://www.homecb.com/3537elpasoalto-vista">For a great example of a ready to sell home, click here.</a>
 
 But why should you do all of these things to begin with? It’s simple: **to attract more buyers and sell your home faster and for a higher price.&nbsp;**
 
