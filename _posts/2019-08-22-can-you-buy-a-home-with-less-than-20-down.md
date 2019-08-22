@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Buy a Home With Less Than 20% Down?
-date: 2019-08-20 11:00:00
+date: 2019-08-22 11:00:00
 tags:
   - Real Estate
 excerpt: >-
