@@ -26,6 +26,8 @@ You may not be in the market (yet) to buy another home, but when you do, here ar
 
 **4\. Curb appeal:**&nbsp; If the yard is neglected, the weeds are taking over or the outside paint job is fading, the inside is usually neglected too.&nbsp; Get a home inspection and be especially careful to look for hidden maintenance items.&nbsp;
 
+&nbsp;
+
 **5\. Check the area for crime:**&nbsp; It’s still about location, location, location\! &nbsp;You can get crime stats from your local police or sheriff’s department.&nbsp;
 
 **6\. Check out the school system:**&nbsp; Same as above.&nbsp; In addition, use the Internet to do some of your own research to compare it to other schools in your area (including private schools).
