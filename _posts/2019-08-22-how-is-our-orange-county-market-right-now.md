@@ -37,4 +37,4 @@ This year, though, **low interest rates have prevented our market from slowing d
 
 In short: Buyers, sellers, and investors alike can enjoy the unique opportunities presented by today’s dynamic market. Whatever your goals, we would be happy to help you meet them.&nbsp;
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon
