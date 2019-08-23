@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/COOK_YOUTUBE.jpg
-youtube_code: coLfj8Pkabo
+youtube_code: SRhI_Rh78KQ
 ---
 
 {% include youtube.html %}
