@@ -8,13 +8,13 @@ excerpt: >-
   As we wrap up summer, our market is showing signs of slowing down, but this
   isn’t a cause for concern. Here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+market+update+8.23.mp4
+  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+market+update+new+number.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/MdX6hSts9ZM'
+youtube_code: 'https://youtu.be/4RikUeswiH8'
 ---
 
 {% include youtube.html %}
