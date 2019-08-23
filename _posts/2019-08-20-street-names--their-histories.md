@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-20---oggie-penev---youtube.jpg
-youtube_code: '-FQzqvbMx9A'
+youtube_code: NNYUdREk50w
 ---
 
 {% include youtube.html %}
