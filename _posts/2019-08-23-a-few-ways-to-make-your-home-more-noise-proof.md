@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/3RGLziI1r8s'
 
 {% include youtube.html %}
 
-Nobody wants to feel like they’re living in a construction zone. Here are a few ways to reduce the noise that makes its way inside your home.
+<p style="text-align: center;"><em>Nobody wants to feel like they’re living in a construction zone. Here are a few ways to reduce the noise that makes its way inside your home.</em></p>
 
 One of the questions that I hear occasionally is about noise. Usually, it’s a property near a highway or busy street and buyers are concerned about how that noise will affect their life there. **If this is a concern of yours, today I have some tips to share about how you can soundproof your home from this kind of stuff.**
 
