@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our $ummer $izzle Promotion Was Extended!
+title: Our Summer Sizzle Promotion Was Extended!
 date:
 tags:
   - Real Estate
