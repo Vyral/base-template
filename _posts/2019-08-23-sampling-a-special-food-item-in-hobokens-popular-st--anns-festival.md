@@ -26,9 +26,9 @@ youtube_code: Hv9YvDfugMQ
 
 Today I’m at the St. Ann’s Italian Festival in Hoboken searching for the local delicacy known as the “MozzArepa.” Sold by the restaurant bearing the same name, **the MozzArepa is a variation of the grilled cheese sandwich, and you can only find it at festivals and street fairs**.
 
-This year marks the 109th St. Ann’s festival, making it one of the city’s oldest traditions. It’s held every August and starts with the statue of St. Ann being paraded around the streets surrounding the St. Ann’s church on 704 Jefferson Street. After that, the festival begins and the streets come alive with carnival games and a feast of epic proportions.
+This year marks the 109th St. Ann’s festival, making it one of the city’s oldest traditions. It’s held every August and starts with the statue of St. Ann being paraded around the streets surrounding the St. Ann’s church at 704 Jefferson Street. After that, the festival begins and the streets come alive with carnival games and a feast of epic proportions.
 
-This isn’t your average street fair, though. You’ll find food stands here you won’t find anywhere else that offer items like fried clams and calamari and boozy gummy bears and cannolis. In addition, you’ll get regular street fair favorites like fried oreos and, my personal favorite, the beer tent.
+This isn’t your average street fair, though. You’ll find food stands here you won’t find anywhere else that offer items like fried clams, calamari, boozy gummy bears, and cannolis. In addition, you’ll get regular street fair favorites like fried Oreos and, my personal favorite, the beer tent.
 
 To find the MozzArepa, though, I had to show up early and look for perhaps the smallest vendor. It was there that I got to interview Bryan Leon, one of the owners of MozzArepas, and learn how they got their start.
 
@@ -36,7 +36,7 @@ To find the MozzArepa, though, I had to show up early and look for perhaps the s
 
 Bryan’s father opened a hot dog stand in New York City roughly 30 years ago, and from there he started working festivals like St. Ann’s. **Today, they work all the major street fairs in New York and New Jersey, and they also set up shop at supermarkets and restaurants**. They sell so many MozzArepas during this particular festival that it’s not uncommon for them to clear 500 per day.
 
-What makes them so delicious? The secret recipe is something only Bryan’s immediate family knows. We do know about the two main ingredients, though: fresh mozzarella cheese and a Hispanic cornbread known as “maize.” When the two are combined on a hot-buttered skillet, the result is a mix of salty and sweet that will make anyone smile.
+What makes them so delicious? The secret recipe is something only Bryan’s immediate family knows. We do know about the two main ingredients, though: fresh mozzarella cheese and a Hispanic cornbread known as “maize.” When the two are combined on a hot, buttered skillet, the result is a mix of salty and sweet that will make anyone smile.
 
 **If you’d like to try one yourself, visit <u><a target="_blank" href="https://www.mozzarepas.com/">MozzArepas&rsquo; website</a></u> and find out which event they’ll attend next.**
 
