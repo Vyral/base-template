@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Shorten Your Mortgage and Build Long-Term Wealth
-date: 2019-08-23 21:02:28
+date: 2019-08-23 21:02:00
 tags:
   - Home Buyer Tips
 excerpt: >-
