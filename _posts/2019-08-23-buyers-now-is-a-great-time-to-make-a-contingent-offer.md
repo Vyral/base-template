@@ -20,7 +20,7 @@ youtube_code: Uj_fa2L1ae4
 
 {% include youtube.html %}
 
-Making this type of transaction work depends on what the market is doing, and now is a great time for buyers in this situation.
+<p style="text-align:center;"><em>Making this type of transaction work depends on what the market is doing, and now is a great time for buyers in this situation.</em></p>
 
 Can you purchase a new home contingent on selling your current one?&nbsp;
 
