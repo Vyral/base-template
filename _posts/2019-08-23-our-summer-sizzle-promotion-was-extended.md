@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Summer Sizzle Promotion Was Extended!
-date:
+date: 2019-08-23 15:03:02
 tags:
   - Real Estate
 excerpt: >-
