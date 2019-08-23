@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   I’m back once again with Wendy Papasan, who will be sharing more agent success
   secrets. You won’t want to miss this.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/Agents+Success+Videos/Agent+Success+Secrets+with+Wendy+Papasan%2C+Papasan+Properties%2C+Austin%2C+TX.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
