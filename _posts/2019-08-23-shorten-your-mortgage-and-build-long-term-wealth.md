@@ -19,7 +19,7 @@ youtube_code: _wFbXI-7oIg
 
 {% include youtube.html %}
 
-<p style="text-align:center";><em>Managing your wealth through real estate can be simple, and today we’ll explain how.</em></p>
+<p style="text-align:center;"><em>Managing your wealth through real estate can be simple, and today we’ll explain how.</em></p>
 
 When it comes to managing your wealth, one of the best avenues to take is by paying down your mortgage early. There are a number of ways you can do this.
 
