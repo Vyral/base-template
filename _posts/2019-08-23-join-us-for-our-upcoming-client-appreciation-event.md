@@ -8,13 +8,13 @@ excerpt: >-
   This upcoming event is a special thanks for all of your support and business,
   and we’d be honored to have you!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+Client+Appreciation+Event.mp4
+  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+polo+updated+phone+number.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/rX6LS8T8tf0'
+youtube_code: 'https://youtu.be/wS20R3V1Fh8'
 ---
 
 {% include youtube.html %}
