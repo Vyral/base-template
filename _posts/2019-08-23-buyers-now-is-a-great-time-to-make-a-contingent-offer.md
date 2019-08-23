@@ -8,7 +8,9 @@ excerpt: >-
   to do so.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Knight/Buyers-+Now+is+a+Great+Time+to+Make+a+Contingent+Offer.mp4
-pullquote: 'Andross, the Final Boss'
+pullquote: >-
+  Making this type of transaction work depends on what the market is doing, and
+  now is a great time for buyers in this situation.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -17,6 +19,8 @@ youtube_code: Uj_fa2L1ae4
 ---
 
 {% include youtube.html %}
+
+Making this type of transaction work depends on what the market is doing, and now is a great time for buyers in this situation.
 
 Can you purchase a new home contingent on selling your current one?&nbsp;
 
