@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/rX6LS8T8tf0'
 
 {% include youtube.html %}
 
-This upcoming event is a special thanks for all of your support and business, and we’d be honored to have you\!&nbsp;
+<p style="text-align: center;"><em>This upcoming event is a special thanks for all of your support and business, and we’d be honored to have you!</em></p>
 
 We’re approaching fall and you know what that means: Our annual client appreciation event is coming up and you’re invited\! So clear your calendar for the afternoon of Sunday, September 15, and join us in the stands for the annual polo match held at &nbsp; . In addition to that, we’ll have activities for clients, friends, and family of all ages.
 
