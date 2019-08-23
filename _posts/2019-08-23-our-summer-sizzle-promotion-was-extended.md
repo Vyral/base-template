@@ -24,4 +24,4 @@ We introduced our $ummer $izzle promotion at the end of July, and it has worked 
 
 This offer was extended through September 1–so be sure to check out these bonus opportunities\!
 
-![](/uploads/misty-flyer-min-1.jpg){: width="2550" height="3300"}
+![](/uploads/misty-flyer-min-1.jpg){: width="1275" height="1650"}
