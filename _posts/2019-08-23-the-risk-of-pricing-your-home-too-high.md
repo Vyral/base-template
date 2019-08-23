@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Wk-TDiMOAl4'
 
 {% include youtube.html %}
 
-Overpricing your home is risky and, ultimately, a mistake. Greyson Dixon joined me recently to help explain why.
+<p style="text-align: center;"><em>Overpricing your home is risky and, ultimately, a mistake. Greyson Dixon joined me recently to help explain why.</em></p>
 
 I was recently joined by real estate rockstar Greyson Dixon to talk a little bit about a specific instance that he recently dealt with. Greyson is one of the top agents on our team, and he was able to help a home seller correctly price their home and get it sold, but not without some struggles along the way. **Here’s an outline of our conversation, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
