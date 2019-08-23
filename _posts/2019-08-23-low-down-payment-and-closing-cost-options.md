@@ -25,11 +25,11 @@ youtube_code: gw-AhstcAUE
 
 There are many different strategies and tactics that homebuyers can use to buy a home with little-to-no-money out of pocket.
 
-**Your cash requirement at closing consists of two things**. First, your down payment for your mortgage (unless you’re eligible for 100% financing). The second component is closing costs, and it encompasses a lot of different expenses. These include title fees, lender fees, prepaids, transfer taxes, and more.
+**Your cash requirement at closing consists of two things**. The first is your down payment for your mortgage (unless you’re eligible for 100% financing). The second component is closing costs, and it encompasses a lot of different expenses. These include title fees, lender fees, prepaids, transfer taxes, and more.
 
-**As far as down payments are concerned, there are some programs out there that do offer a $0 down payment**. USDA financing is one of these programs that is used by homebuyers to buy rural properties. There are some other requirements for eligibility, but check with your lender first. Both you and the property have to be eligible. VA financing also offers a $0 down payment to veterans and active military. Finally, credit unions like Navy Federal have $0 down programs and you don’t have to be a military member to qualify.
+**As far as down payments are concerned, there are some programs out there that do offer a $0 down payment**. USDA financing is one of these programs that is used by homebuyers to buy rural properties. There are some other requirements for eligibility, but you should check with your lender first. Both you and the property have to be eligible. VA financing also offers a $0 down payment to veterans and active military. Finally, credit unions like Navy Federal have $0 down programs and you don’t have to be a military member to qualify.
 
-If none of these are an option for you, there are other programs with low down payments. **FHA financing offers 3.5% down, and some conventional loans have 5% or as low as 3% down**.
+If none of these are an option for you, there are other programs with low down payments as well. **FHA financing offers 3.5% down, and some conventional loans have 5% or as low as 3% down**.
 
 Additionally, there are programs like DCELP and MMP that will help you pay your down payment. You can receive a financial gift from a family member to cover it as well.
 
