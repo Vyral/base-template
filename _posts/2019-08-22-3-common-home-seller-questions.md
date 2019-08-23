@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Common Home Seller Questions
-date: 2019-08-29 00:00:00
+date: 2019-08-22 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
