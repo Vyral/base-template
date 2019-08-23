@@ -24,6 +24,6 @@ We’ve been doing some research lately about how streets got their names. It’
 
 **3\. Grand Avenue.** This street got its name from developers from Fresno, California, who were inspired to make a quick and easy route to attract newcomers to the west side in 1887.
 
-If you’re interested in learning more street-name history, click here.
+If you’re interested in learning more street-name history, [click here.](https://www.azcentral.com/story/news/local/phoenix/2014/09/12/phoenix-streets-get-names/15456747/){: target="_blank"}
 
 If you have any other questions, don’t hesitate to reach out to me. I’d love to hear from you.
