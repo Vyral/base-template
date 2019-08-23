@@ -20,6 +20,8 @@ youtube_code: ydKaMO6UEwU
 
 {% include youtube.html %}
 
+Before moving day arrives, don’t forget to do these five steps.&nbsp;
+
 Moving from one home to the next is a complex and often stressful process. In all the hustle and bustle, it’s easy to let certain things slip your mind. And a few things tend to be forgotten more often than others.
 
 Here are the top five most commonly forgotten steps people must follow before moving day arrives:&nbsp;
