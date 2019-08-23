@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget to Do These 5 Things Before Moving Day Arrives
-date: 2019-08-23 15:28:16
+date: 2019-08-23 15:28:00
 tags:
   - Home Seller Tips
 excerpt: 'Before moving day arrives, don’t forget to do these five steps.'
