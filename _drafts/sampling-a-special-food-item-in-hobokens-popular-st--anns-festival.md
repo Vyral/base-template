@@ -20,7 +20,7 @@ youtube_code: Hv9YvDfugMQ
 
 {% include youtube.html %}
 
-Today I’m taking a break from real estate to attend the St. Ann’s Italian Festival and search for the Mozareppa.
+<center>Today I’m taking a break from real estate to attend the St. Ann’s Italian Festival and search for the Mozareppa.</center>
 
 Today I’m at the St. Ann’s Italian Festival in Hoboken searching for the local delicacy known as the “MozzArepa.” Sold by the restaurant bearing the same name, **the MozzArepa is a variation of the grilled cheese sandwich, and you can only find it at festivals and street fairs**.
 
