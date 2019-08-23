@@ -19,7 +19,7 @@ youtube_code: gw-AhstcAUE
 
 {% include youtube.html %}
 
-If you need help with your down payment and/or closing costs, there are plenty of options out there for you. Here are a few of them.
+<center>If you need help with your down payment and/or closing costs, there are plenty of options out there for you. Here are a few of them.</center>
 
 There are many different strategies and tactics that homebuyers can use to buy a home with little-to-no-money out of pocket.
 
