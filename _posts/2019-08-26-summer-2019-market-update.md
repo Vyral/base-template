@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer 2019 Market Update
-date: 2019-08-26 16:24:42
+date: 2019-08-26 16:24:00
 tags:
   - Market Update
 excerpt: >-
