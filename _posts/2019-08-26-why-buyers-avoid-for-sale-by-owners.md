@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Buyers Avoid “For Sale By Owners”
-date: 2019-08-26 16:06:35
+date: 2019-08-26 16:06:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
