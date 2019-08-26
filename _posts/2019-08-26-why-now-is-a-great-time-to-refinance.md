@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Now Is a Great Time to Refinance
-date:
+date: 2019-08-26 15:31:23
 tags:
   - Real Estate
 excerpt: 'It’s a great time to refinance your home, and today we’ll explain why.'
