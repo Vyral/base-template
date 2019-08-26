@@ -17,7 +17,7 @@ youtube_code: UFfq6DCdarg
 
 {% include youtube.html %}
 
-Venturing out into the world of real estate investing starts with these steps.&nbsp;
+<p style="text-align:center"><em>Venturing out into the world of real estate investing starts with these steps.</em></p>
 
 If you’re thinking about investing in real estate, where and how do you start? Before anything else, you’ll need to decide what type of investor you wish to be: a house flipper, one who buys and holds property for rent, or a wholesaler. Your next move should be to sit down with a real estate professional and map out your goals. For example, if you’d like to buy and hold property and your goal is to make x amount in passive income, you and your agent can work together to determine the number of properties you’ll need to invest in. Get laser-focused and get in touch with an agent to begin your investor journey today.
 
