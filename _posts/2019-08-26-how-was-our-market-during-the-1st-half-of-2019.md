@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Was Our Market During the 1st Half of 2019?
-date: 2019-08-26 19:11:05
+date: 2019-08-26 19:11:00
 tags:
   - Market Update
 excerpt: >-
