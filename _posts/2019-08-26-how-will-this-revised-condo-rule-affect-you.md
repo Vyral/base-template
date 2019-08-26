@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/DGba8SmXdmk'
 
 {% include youtube.html %}
 
-Condos and townhomes will be much more affordable in California come October 15. Here’s why.
+<p style="text-align: center;"><em>Condos and townhomes will be much more affordable in California come October 15. Here’s why.</em></p>
 
 Are you looking to buy a condo or townhouse with a really low down payment? If so, I’ve got great news for you today. Condo rules have been revised by the FHA and they’re really going to be able to help buyers with low down payments purchase condos and townhomes.&nbsp;
 
