@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/d5Z8puET08Q'
 
 {% include youtube.html %}
 
-There are plenty of great educational opportunities here in Charleston.
+<p style="text-align: center;"><em>There are plenty of great educational opportunities here in Charleston.</em></p>
 
 Since the 2019 school year is underway, I thought I’d take a moment to review all the great schooling options for families in our area.&nbsp;
 
