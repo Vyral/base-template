@@ -24,7 +24,7 @@ Spring might be known as the peak selling season in our market, but fall isn’t
 
 **2\. Tour your own home to pinpoint pre-sale fixes, structural or operational issues, cosmetic flaws, and excess furniture and personal effects that can go into storage.** &nbsp;&nbsp;
 
-**3\. Get into the selling frame of mind by securing your valuables; scheduling a getaway for the first week your home is on the market; and strategizing how to live in your property while keeping it show-ready at all times. &nbsp;**
+**3\. Get into the selling frame of mind by securing your valuables, scheduling a getaway for the first week your home is on the market, and strategizing how to live in your property while keeping it show-ready at all times. &nbsp;**
 
 **4\. Prepare for your sale and subsequent move with a room-by-room checklist.&nbsp;**
 
