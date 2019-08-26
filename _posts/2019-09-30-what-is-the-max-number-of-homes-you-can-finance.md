@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Max Number of Homes You Can Finance?
-date: 2019-08-26 18:21:00
+date: 2019-09-30 18:21:00
 tags:
   - Home Buyer Tips
 excerpt: What is the maximum number of properties you can finance? Find out today.
@@ -19,7 +19,7 @@ youtube_code: NuEg0K1o37w
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What is the maximum number of properties you can finance? Find out today.</em></p>
+*What is the maximum number of properties you can finance? Find out today.*
 
 I’ve worked with a lot of investors over the years, and they always ask me how many properties they’re allowed to buy.
 
