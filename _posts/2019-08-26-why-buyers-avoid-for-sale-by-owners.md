@@ -22,7 +22,7 @@ youtube_code: NaarhFjLxfo
 
 {% include youtube.html %}
 
-Here are the top 10 reasons that homebuyers tend to avoid listings from “For Sale By Owner” (FSBO) sellers.
+<p style="text-align:center;"><em>Here are the top 10 reasons that homebuyers tend to avoid listings from “For Sale By Owner” (FSBO) sellers.</em></p>
 
 Why do homebuyers avoid purchasing homes listed as “For Sale By Owner?” There are 10 primary reasons, which I’ll share with you today.
 
