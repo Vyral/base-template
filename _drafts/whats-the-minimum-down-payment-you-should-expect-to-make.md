@@ -21,7 +21,7 @@ youtube_code: g7FZYIeDa7M
 
 {% include youtube.html %}
 
-Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.
+<p style="text-align:center;"><em>Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.</em></p>
 
 What’s the minimum down payment needed to purchase a home?&nbsp;
 
