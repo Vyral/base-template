@@ -5,7 +5,8 @@ date: 2019-08-20 15:03:00
 tags:
   - Real Estate
 excerpt: How did our local streets get their names? Today I’ll explain.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Street+Names+%26+Their+Histories.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
