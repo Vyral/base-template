@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Convert a Primary Residence Into an Investment Property
-date:
+date: 2019-08-26 18:00:56
 tags:
   - Real Estate
 excerpt: >-
