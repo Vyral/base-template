@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Your Start in Real Estate Investing
-date: 2019-08-26 17:32:47
+date: 2019-08-26 17:32:00
 tags:
   - Real Estate
 excerpt: Venturing out into the world of real estate investing starts with these steps.
