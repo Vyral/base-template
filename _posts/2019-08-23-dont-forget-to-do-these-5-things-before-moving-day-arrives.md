@@ -28,7 +28,7 @@ Here are the top five most commonly forgotten steps people must follow before mo
 
 **1\. Find the nearest branch of your bank or transfer to a new bank.** Before you move, you should locate a branch of your current bank that’s near your new home. If there isn’t one, then you’ll need to find a new bank altogether.&nbsp;
 
-**2\. Find new medical providers.** Assuming you’ve moved too far away to continue seeing your old medical providers, you’ll need to find a new doctor, dentist, optometrist, etc. before you make your big move. Don’t forget to have all of your medical records transferred over once you do.&nbsp;
+**2\. Find new medical providers.** Assuming you’ve moved too far away to continue seeing your old medical providers, you’ll need to find a new doctor, dentist, optometrist, etc., before you make your big move. Don’t forget to have all of your medical records transferred over once you do.&nbsp;
 
 {% include pullquote.html %}
 
