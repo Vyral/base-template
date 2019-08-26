@@ -28,7 +28,7 @@ The last thing any buyer wants is to find their new home in a state of disarray 
 
 {% include pullquote.html %}
 
-Please know, though, that our team is here to help. **We have a vast network of service providers who would be happy to help you bring your home up-to-par before closing day comes.&nbsp;**
+Please know, though, that our team is here to help. **We have a vast network of service providers who would be happy to help you bring your home up to par before closing day comes.&nbsp;**
 
 The bottom line is to always be considerate of others—whether it be when selling your house or just in your day-to-day life, it pays to be kind.&nbsp;
 
