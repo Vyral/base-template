@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   On today’s “Everyday Encinitas,” I sat down with Dr. Georgine Nanos to talk
   about her work at Kind Health Group.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+8+_+Kind+Health+Group.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
