@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buying
 excerpt: How many homes should you look at before buying one? Find out today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+Many+Homes+Should+You+Look+at+Before+You+Buy_.mp4
 pullquote: >-
   The average buyer tends to look at around five to 10 homes in person before
   making a decision to buy one.
