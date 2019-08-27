@@ -23,7 +23,7 @@ youtube_code: gw-AhstcAUE
 
 &nbsp;
 
-There are many different strategies and tactics that homebuyers can use to buy a home with little-to-no-money out of pocket.
+There are many different strategies and tactics that homebuyers can use to buy a home with little to no money out of pocket.
 
 **Your cash requirement at closing consists of two things**. The first is your down payment for your mortgage (unless you’re eligible for 100% financing). The second component is closing costs, and it encompasses a lot of different expenses. These include title fees, lender fees, prepaids, transfer taxes, and more.
 
