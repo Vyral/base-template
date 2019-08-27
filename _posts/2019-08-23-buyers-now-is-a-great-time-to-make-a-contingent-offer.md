@@ -20,7 +20,7 @@ youtube_code: Uj_fa2L1ae4
 
 {% include youtube.html %}
 
-*If you need to make a contingent offer to buy your next home, now’s the time to do so.&nbsp;*
+<p style="text-align:center;"><em>If you need to make a contingent offer to buy your next home, now’s the time to do so.</em></p>
 
 Can you purchase a new home contingent on selling your current one?&nbsp;
 
