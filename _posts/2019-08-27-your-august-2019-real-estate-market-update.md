@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/BwrvyEzm-Kg'
 
 {% include youtube.html %}
 
-Hello, raving fans\! I’m back with your market update, as well as a message about the rumors of an impending recession. Stay tuned\!
+<p style="text-align: center;"><em>Hello, raving fans! I’m back with your market update, as well as a message about the rumors of an impending recession. Stay tuned!</em></p>
 
 I don’t know about you, but every time I turn on the TV these days, I want to throw something at it. All this talk of recession, all the fake news created by the media, and all the news about a recession from pundits isn’t based on facts or real conditions. Rather, it’s based on a belief that by predicting a recession, they can create one and thus set the stage for a Democratic victory in 2020. This is a good sign that they have an exaggerated opinion of their own influence and have lost touch with the canons of their profession. The odds of a recession occurring in the US over the next year do not appear very high.
 
