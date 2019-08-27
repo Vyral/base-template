@@ -27,8 +27,8 @@ Are you looking to buy a condo or townhouse with a really low down payment? If s
 
 Currently, the entire building has to go through a condo certification. A lot of times, the HOA doesn’t want to put up the money to reissue that certification for the FHA. **This change will make things much more streamlined when it comes to resolving this problem.**
 
-For buildings that are fewer than 10 units, no more than two units can currently have FHA financing.
+For buildings that have fewer than 10 units, no more than two units can currently have FHA financing.
 
-**The FHA is also extending the recertification deadline approved or condo projects for two to three years.** These are all things that are going to be able to assist buyers who are looking for a down payment of 3.5% or less. Right now, most buyers will have to come in with conventional financing and need a FICO score of 720 and a down payment of 5%.
+**The FHA is also extending the recertification deadline approved for condo projects for two to three years.** These are all things that are going to be able to assist buyers who are looking for a down payment of 3.5% or less. Right now, most buyers will have to come in with conventional financing and need a FICO score of 720 and a down payment of 5%.
 
 {% include pullquote.html %}I’m excited to see these announcements take effect his fall, especially because the average price for a condo or townhome is $141,000 less than the average for single-family homes. &nbsp;If you have any questions for me about buying a townhome or condo, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
