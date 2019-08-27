@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Few Ways to Make Your Home More Noise-Proof
+title: A Few Ways to Make Your Home More Sound-Proof
 date: 2019-08-23 21:25:56
 tags:
   - Real Estate
