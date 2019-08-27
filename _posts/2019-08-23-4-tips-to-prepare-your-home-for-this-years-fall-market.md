@@ -7,13 +7,13 @@ excerpt: >-
   Following these four tips will ensure the success of your home sale this
   coming fall.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Bob+Peterson/4+Tips+to+Prepare+Your+Home+for+This+Years+Fall+Market.mp4
+  https://vyralmarketing.s3.amazonaws.com/Bob+Peterson/4+Tips+to+Prepare+Your+Home+for+This+Years+Fall+Market+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: HQyIOzz_Q5I
+youtube_code: H_OlYRsAZEQ
 ---
 
 {% include youtube.html %}
