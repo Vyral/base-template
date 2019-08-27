@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Today I’m taking a break from real estate to attend the St. Ann’s Italian
-  Festival and search for the Mozareppa.
+  Festival and search for the MozzArepa.
 enclosure:
 pullquote: >-
   They sell so many MozzArepas during this particular festival that it’s not
@@ -20,7 +20,7 @@ youtube_code: Hv9YvDfugMQ
 
 {% include youtube.html %}
 
-<center><em>Today I&rsquo;m taking a break from real estate to attend the St. Ann&rsquo;s Italian Festival and search for the Mozareppa.</em></center>
+<center><em>Today I&rsquo;m taking a break from real estate to attend the St. Ann&rsquo;s Italian Festival and search for the MozzArepa.</em></center>
 
 &nbsp;
 
@@ -28,7 +28,7 @@ Today I’m at the St. Ann’s Italian Festival in Hoboken searching for the loc
 
 This year marks the 109th St. Ann’s festival, making it one of the city’s oldest traditions. It’s held every August and starts with the statue of St. Ann being paraded around the streets surrounding the St. Ann’s church at 704 Jefferson Street. After that, the festival begins and the streets come alive with carnival games and a feast of epic proportions.
 
-This isn’t your average street fair, though. You’ll find food stands here you won’t find anywhere else that offer items like fried clams, calamari, boozy gummy bears, and cannolis. In addition, you’ll get regular street fair favorites like fried Oreos and, my personal favorite, the beer tent.
+This isn’t your average street fair, though. You'll find unique street foods at this festival like fried clams, calamari, boozy gummy bears, and cannolis, but you'll also find traditional favorites like fried Oreos and my personal favorite: the beer tent.
 
 To find the MozzArepa, though, I had to show up early and look for perhaps the smallest vendor. It was there that I got to interview Bryan Leon, one of the owners of MozzArepas, and learn how they got their start.
 
