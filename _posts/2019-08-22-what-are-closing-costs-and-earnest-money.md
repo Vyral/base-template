@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Earnest money and closing costs are two terms that we’re asked about
   frequently. Here’s a closer look at both.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2019/What+Are+Closing+Costs+and+Earnest+Money_.mp4
 pullquote: Earnest money can be used for your closing costs.
 enclosure_type: video/mp4
 enclosure_time:
