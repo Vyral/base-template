@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/KN-ObAOLnxk'
 
 {% include youtube.html %}
 
-Houston’s population is growing rapidly, but why is this happening and what does it mean for current residents? Let’s discuss.
+<p style="text-align: center;"><em>Houston’s population is growing rapidly, but why is this happening and what does it mean for current residents? Let’s discuss.</em></p>
 
 By 2020, Houston’s population is expected to exceed 7.1 million people. So where are these people coming from, and what does this population growth mean?
 
