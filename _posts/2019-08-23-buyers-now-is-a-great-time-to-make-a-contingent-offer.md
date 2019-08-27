@@ -13,18 +13,18 @@ pullquote: >-
   now is a great time for buyers in this situation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Uj_fa2L1ae4
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Making this type of transaction work depends on what the market is doing, and now is a great time for buyers in this situation.</em></p>
+*If you need to make a contingent offer to buy your next home, now’s the time to do so.&nbsp;*
 
 Can you purchase a new home contingent on selling your current one?&nbsp;
 
-This is a time-sensitive question because if you would’ve asked me a year and a half ago, the answer would’ve been probably not. Back then, we had very little inventory and high demand, which meant sellers were getting well-financed offers with quick closings. They also had their pick between which offer to accept.&nbsp;
+If you would’ve asked me a year and a half ago, the answer would’ve been probably not. Back then, we had very little inventory and high demand, which meant sellers were getting well-financed offers with quick closings. They also had their pick between which offer to accept.&nbsp;
 
 It’s hard to get a contingent offer accepted in that type of market, but the market has cooled off since then. Supply has slightly increased, while demand has slightly decreased. This means **you have a great opportunity to make a contingent offer on homes that have sat on the market for longer periods.** If the seller of one of these homes has no other offers, yours becomes quite appealing.&nbsp;
 
