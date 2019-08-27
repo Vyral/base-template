@@ -19,7 +19,7 @@ youtube_code: RN5dvAeW7Q4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>It’s a great time to refinance your home, and today we’ll explain why.</em></p>
+*It’s a great time to refinance your home, and today we’ll explain why.*
 
 If you’ve been thinking of refinancing your mortgage, we’ve got some great news: Now is the perfect time to do so.
 
@@ -29,7 +29,7 @@ Well, with interest rates currently at historic lows, homeowners have a unique o
 
 **Some homeowners may find that a cash-out refinance is the best option for them.** By cashing out on the equity they’ve built up, homeowners can easily pay down other high-interest debt they might have, like that on a credit card.&nbsp;
 
-Even with all of these benefits in mind, though, some homeowners might feel hesitant to refinance because of all the paperwork they assume it will require. The good news is that many refinancing programs make the process smooth and simple, like the FHA Streamline program—which doesn’t even require an appraisal.&nbsp;
+Even with all of these benefits in mind, though, some homeowners might feel hesitant to refinance because of all the paperwork they assume it requires. The good news is that many refinancing programs make the process smooth and simple, like the FHA Streamline program—which doesn’t even require an appraisal.&nbsp;
 
 {% include pullquote.html %}
 
