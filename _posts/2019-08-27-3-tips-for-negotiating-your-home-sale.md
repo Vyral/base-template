@@ -19,7 +19,9 @@ youtube_code: ewGf3ZIbnGI
 
 {% include youtube.html %}
 
-<center>What are the top three tips for negotiating on your home sale? Find out here.</center>
+<center><em>What are the top three tips for negotiating on your home sale? Find out here.</em></center>
+
+&nbsp;
 
 Here are three important tips to keep in mind about negotiating your next home sale:
 
