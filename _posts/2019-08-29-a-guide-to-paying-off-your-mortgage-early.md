@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Guide to Paying Off Your Mortgage Early
-date:
+date: 2019-08-29 21:34:29
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: ZjMSPnnBjjg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?</em></p>
+*Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?*
 
 How would you like to be able to pay off your mortgage even earlier than expected?
 
