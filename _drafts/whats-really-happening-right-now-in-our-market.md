@@ -19,7 +19,7 @@ youtube_code: OGjNiD5oZlU
 
 {% include youtube.html %}
 
-There has been a lot of buzz about what’s happening in today’s market, so today let’s get straight to the point about what’s really going on.
+<center>There has been a lot of buzz about what’s happening in today’s market, so today let’s get straight to the point about what’s really going on.</center>
 
 Trade wars, tariffs, and recessions… oh my\! These buzzwords have been floating around a lot lately, but what’s actually happening in our local real estate market today? Today, we’ll cut through the clutter and get straight to the point about what’s going on.
 
