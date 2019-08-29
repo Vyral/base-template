@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 2 Types of Loyalty in Real Estate
-date:
+date: 2019-08-29 19:33:45
 tags:
 excerpt: >-
   If you’ve been letting loyalty hold you back from switching brokerages, then
