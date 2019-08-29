@@ -5,7 +5,8 @@ date: 2019-08-23 00:00:00
 tags:
   - Real Estate
 excerpt: "I recently took\_a break from real estate to attend the St. Ann’s Italian Festival and search for the MozzArepa."
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/Sampling+a+Special+Food+Item+in+Hobokens+Popular+St.+Anns+Festival.mp4
 pullquote: >-
   They sell so many MozzArepas during this particular festival that it’s not
   uncommon for them to clear 500 per day.
