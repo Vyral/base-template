@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/BwrvyEzm-Kg'
 
 <p style="text-align: center;"><em>Hello, raving fans! I’m back with your market update, as well as a message about the rumors of an impending recession. Stay tuned!</em></p>
 
-I don’t know about you, but every time I turn on the TV these days, I want to throw something at it. All this talk of recession, all the fake news created by the media, and all the news about a recession from pundits isn’t based on facts or real conditions. Rather, it’s based on a belief that by predicting a recession, they can create one and thus set the stage for a Democratic victory in 2020. This is a good sign that they have an exaggerated opinion of their own influence and have lost touch with the canons of their profession. The odds of a recession occurring in the US over the next year do not appear very high.
+I don’t know about you, but every time I turn on the TV these days, I want to throw something at it. All this talk of recession, all the fake news created by the media, and all the news about a recession from pundits aren’t based on facts or real conditions. Rather, it’s based on a belief that by predicting a recession, they can create one and thus set the stage for a Democratic victory in 2020. This is a good sign that they have an exaggerated opinion of their own influence and have lost touch with the canons of their profession. The odds of a recession occurring in the US over the next year do not appear very high.
 
 With all that said, **there is definitely no recession in the real estate market\!** The homes I’m listing are selling in hours, not days or months, all at a realistic price. I have indicators that show a strong housing market that I’m going to share with you today.
 
-First, let’s look at **FICO scores.** There’s a common belief that you need an 800 credit score to qualify for a mortgage, and that’s just not true. If you’re an FHA buyer, the average score needed is 675; that means some of our borrowers are getting loans with scores lower than that.
+First, let’s look at **FICO scores.** There’s a common belief that you need an 800 credit score to qualify for a mortgage, but that’s just not true. If you’re an FHA buyer, the average score needed is 675; that means some of our borrowers are getting loans with scores lower than that.
 
 According to Mark Fleming, First American’s chief economist, “If the 30-year fixed rate mortgage declines just a fraction more, consumer home buying power would reach its highest level in almost 20 years.” And it has\! Does that sound like an economy that’s ready for a recession? Most people are saying that if there is a recession, it will come and go so fast that you won’t even know what happened.
 
