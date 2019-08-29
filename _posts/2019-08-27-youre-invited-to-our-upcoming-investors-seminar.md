@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re Invited to Our Upcoming Investors Seminar
-date: 2019-08-27 16:30:04
+date: 2019-08-27 16:30:00
 tags:
 excerpt: 'Today we want to invite you to join us at our next one on September 12, 2019.'
 enclosure: >-
@@ -18,4 +18,4 @@ youtube_code: cwgcoXIs7wc
 
 As you know, we host a series of real estate seminars, and today we want to invite you to join us at our next one on September 12, 2019. This seminar will focus on investors. We’ll not only teach you how to acquire and manage investment properties, but we’ll also go over the pros and cons of owning them. Afterward, you’ll truly know whether investing in real estate is right for you.&nbsp;
 
-To find out more about this seminar, including how to register, all you have to do is visit [Whitegroupevents.com](Whitegroupevents.com). If you have any questions in the meantime, don’t hesitate to reach out to us. We’d love to speak with you.&nbsp;
+To find out more about this seminar, including how to register, all you have to do is visit [Whitegroupevents.com](https://www.eventbrite.com/e/tips-tricks-for-todays-home-buyers-tickets-57442082816). If you have any questions in the meantime, don’t hesitate to reach out to us. We’d love to speak with you.&nbsp;
