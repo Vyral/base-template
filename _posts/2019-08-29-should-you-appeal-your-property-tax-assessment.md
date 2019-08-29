@@ -24,7 +24,7 @@ youtube_code: N_kru-SmfmM
 
 Recently, most of you have received your property tax assessment in the mail. That’s always a fun experience finding out how much you owe the government. But in all seriousness, **if you feel that your property has been overvalued, you can protest your assessment and get it lowered**.
 
-In Salt Lake County, the main thing you’ll need is a proper evaluation of the current tax year in the form of an appraisal, a closing statement, or comparable sold properties (which we can help you with.) **From there, you start your appeal**.
+In Salt Lake County, the main thing you’ll need is a proper evaluation of the current tax year in the form of an appraisal, a closing statement, or comparable sold properties (which we can help you with).&nbsp;**From there, you start your appeal**.
 
 The first step of the appeal is usually an online or written form that you’ll have to fill out. You’ll send in your evaluation with it, it will be reviewed, and they’ll send back a decision.
 
