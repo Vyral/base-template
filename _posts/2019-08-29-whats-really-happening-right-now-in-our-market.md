@@ -7,7 +7,7 @@ tags:
   - Market Update
 excerpt: >-
   There has been a lot of buzz about what’s happening in today’s market. So
-  today let’s get straight to the point.
+  today we'll get straight to the point.
 enclosure:
 pullquote: There’s no denying that the economy isn’t quite where it should be.
 enclosure_type: video/mp4
