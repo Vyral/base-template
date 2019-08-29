@@ -24,7 +24,7 @@ youtube_code: Hv9YvDfugMQ
 
 &nbsp;
 
-Today I’m at the St. Ann’s Italian Festival in Hoboken searching for the local delicacy known as the “MozzArepa.” Sold by the restaurant bearing the same name, **the MozzArepa is a variation of the grilled cheese sandwich, and you can only find it at festivals and street fairs**.
+I was recently at the St Anne's Festival in Hoboken searching for the local delicacy known as the “MozzArepa.” Sold by the restaurant bearing the same name, **the MozzArepa is a variation of the grilled cheese sandwich, and you can only find it at festivals and street fairs**.
 
 This year marks the 109th St. Ann’s festival, making it one of the city’s oldest traditions. It’s held every August and starts with the statue of St. Ann being paraded around the streets surrounding the St. Ann’s church at 704 Jefferson Street. After that, the festival begins and the streets come alive with carnival games and a feast of epic proportions.
 
