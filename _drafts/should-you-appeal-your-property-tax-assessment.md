@@ -18,7 +18,7 @@ youtube_code: N_kru-SmfmM
 
 {% include youtube.html %}
 
-If you feel that your property taxes are too high, you can always appeal them. Here’s how to do it.
+<center>If you feel that your property taxes are too high, you can always appeal them. Here’s how to do it.</center>
 
 Recently, most of you have received your property tax assessment in the mail. That’s always a fun experience finding out how much you owe the government. But in all seriousness, if you feel that your property has been overvalued, you can protest your assessment and get it lowered.
 
