@@ -1,14 +1,15 @@
 ---
 layout: post
 title: What Are the Incentives to Owning Investment Property?
-date: 2018-12-18 18:36:28
+date: 2018-12-18 18:36:00
 tags:
   - Real Estate
 excerpt: >-
   If you’re thinking about what should come next in your financial planning,
   there are four benefits to owning investment property that you should
   consider.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Majka/Long+Beach+Real+Estate+Agent-+Benefits+of+Owning+Investment+Property.mp4
 pullquote: >-
   Give it some time, and you’ll reap the benefits of great cash flow from your
   property.
@@ -32,4 +33,4 @@ If you haven’t considered owning investment property as an option, maybe now i
 3. **Cash flow.** Like property values, the cost of rent steadily rises at a rate of about 5% each year. As you’re charging that additional 5% from your tenants from one year to the next, the cash flow you’re collecting will also continue to grow. Give it some time, and you’ll reap the benefits of great cash flow from your property.
 4. **Tax benefits.** Often overlooked, an important thing to consider is that you’re able to write off depreciation—the physical attributes and structure of the property. By the time you own the property, this comes out to be about half of its value. &nbsp;
 
-If you have questions about what I’ve discussed in this video or about any other real estate-related questions, please reach out to me. We’d love the opportunity to assist you! &nbsp; &nbsp;
+If you have questions about what I’ve discussed in this video or about any other real estate-related questions, please reach out to me. We’d love the opportunity to assist you\! &nbsp; &nbsp;
