@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Low Down Payment and Closing Cost Options
+title: How to Buy a House Without Draining Your Savings
 date: 2019-08-23 00:00:00
 tags:
   - Real Estate
