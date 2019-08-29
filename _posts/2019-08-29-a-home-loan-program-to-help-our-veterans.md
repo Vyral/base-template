@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Home Loan Program to Help Our Veterans
-date:
+date: 2019-08-29 19:55:29
 tags:
 excerpt: A great home loan program for veterans
 enclosure: >-
