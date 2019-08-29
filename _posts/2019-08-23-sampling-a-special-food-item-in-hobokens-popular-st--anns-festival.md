@@ -4,9 +4,7 @@ title: Sampling a Special Food Item in Hoboken’s Popular St. Ann’s Festival
 date: 2019-08-23 00:00:00
 tags:
   - Real Estate
-excerpt: >-
-  Today I’m taking a break from real estate to attend the St. Ann’s Italian
-  Festival and search for the MozzArepa.
+excerpt: "I recently took\_a break from real estate to attend the St. Ann’s Italian Festival and search for the MozzArepa."
 enclosure:
 pullquote: >-
   They sell so many MozzArepas during this particular festival that it’s not
@@ -20,7 +18,7 @@ youtube_code: Hv9YvDfugMQ
 
 {% include youtube.html %}
 
-<center><em>Today I&rsquo;m taking a break from real estate to attend the St. Ann&rsquo;s Italian Festival and search for the MozzArepa.</em></center>
+<center><em>I recently took a break from real estate to attend the St. Ann&rsquo;s Italian Festival and search for the MozzArepa.</em></center>
 
 &nbsp;
 
