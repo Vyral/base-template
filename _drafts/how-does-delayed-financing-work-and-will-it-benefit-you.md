@@ -19,7 +19,7 @@ youtube_code: mSBOP9OGrFo
 
 {% include youtube.html %}
 
-What is delayed financing and how can you benefit from it? Let’s discuss.
+<p style="text-align:center;"><em>What is delayed financing and how can you benefit from it? Let’s discuss.</em></p>
 
 Every now and then, I meet with a homeowner who chose to make an all-cash purchase on their home. While there’s nothing wrong with buying your home this way, if you ever want to accrue debt on the property, my opinion is **it’s best to start at the original point of purchase.** Today I’ll tell you why, but I’ll also explain an alternative option: **delayed financing**. &nbsp;
 
