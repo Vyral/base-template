@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: 'It’s a great time to refinance your home, and today we’ll explain why.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/Orlando+Mortgages-+Refinancing+4.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/Orlando+Mortgages+What+You+Need+to+Know+About+VA+Loans.mp4
 pullquote: >-
   Well, with interest rates currently at historic lows, homeowners have a unique
   opportunity to reduce the interest on their mortgage payments.
