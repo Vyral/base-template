@@ -19,7 +19,7 @@ youtube_code: '-5dBz1E--jI'
 
 {% include youtube.html %}
 
-*What’s happening right now in our Central Iowa market? Find out with this quick message.*
+<p style="text-align:center;"><em>What’s happening right now in our Central Iowa market? Find out with this quick message.</em></p>
 
 I recently sat down once again with my good friends Van and Bonnie to talk about an important topic: Our market. Now that 2019 is more than halfway over, we thought now was the perfect time to share some insight into how the first half of this year played out in terms of our real estate market.&nbsp;
 
