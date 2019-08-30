@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Keep Your Home Safe from Thieves
-date: 2019-08-30 20:37:50
+date: 2019-08-30 20:37:00
 tags:
   - Real Estate
 excerpt: Here are some strategies for keeping your home safe from would-be thieves
