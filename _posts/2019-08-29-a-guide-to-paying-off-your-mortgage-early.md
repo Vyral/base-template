@@ -19,7 +19,7 @@ youtube_code: ZjMSPnnBjjg
 
 {% include youtube.html %}
 
-*Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?*
+<p style="text-align:center;"><em>Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?</em></p>
 
 How would you like to be able to pay off your mortgage even earlier than expected?
 
