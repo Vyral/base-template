@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Guide to Paying Off Your Mortgage Early
-date: 2019-08-29 21:34:29
+date: 2019-08-29 21:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,11 +19,11 @@ youtube_code: ZjMSPnnBjjg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?</em></p>
+*Today we’re here to discuss a very exciting question: How do you pay off your mortgage early?*
 
 How would you like to be able to pay off your mortgage even earlier than expected?
 
-I bet that many would absolutely love to know how to do that. If you’re one of them, then today, I’m going to ask my guest agent Brittany Dailey some questions about plans to help you pay off your mortgage early—plans that the Hayer Group’s buyers are all well aware of.
+I bet that many would absolutely love to know how to do that. If you’re one of them, then you're in luck: Today**&nbsp;**I’m going to ask my guest agent Brittany Dailey some questions about plans to help you pay off your mortgage early—plans that the Hayer Group’s buyers are all well aware of.
 
 First, let’s discuss the different ways to pay off a mortgage in general.
 
