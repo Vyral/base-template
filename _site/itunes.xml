@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2019-08-23 09:46:14 -0500</lastBuildDate>
+    <lastBuildDate>2019-08-30 11:19:02 -0500</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,147 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Week of 08-19-2019</title>
+        <link>localhost:4000/week-of-081919.html</link>
+        
+        <author></author>
+        <pubDate>2019-08-19 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>Daniel Miller - Reduce your mortgage by house hacking
+
+Jerry Van Leeuwen - Your 2019 End-of-Summer Market Update
+
+Scott Griffin - Another benefit of FHA financing
+
+Jeff Riber - 3 tips to help you come out on top during repair negotiations
+
+Wayne Chang - Are fall and winter good for selling?
+
+Frank Gray - Is a physical office necessary to achieve success?
+
+Jeremy Bowers - How to grow in your personal and professional life
+
+Dan Jones Recruiting - Become a high-producing agent on our team
+
+Angelia Black - The Importance of Due Diligence
+
+Adam Parsons - Your July 2019 Toronto Market Update
+
+Dean Adler - My thoughts on home inspections
+
+Nate Martinez - Be part of one of the Valley’s best referral networks
+
+Brendon Payne - Do Low-Cost, High-Quality Leads Exist?
+
+Jason Daniels Training - The Top 4 Sources for Listing Leads
+
+Ed Pluchar - Buyers: What happens when the appraisal is low?
+
+Nate Martinez - Recruiting - Watch: A strategy for serving our clients at a higher level
+
+Tim Chase - The Truth About Escrows and Your VA Loan Payment
+
+Rob Bowerman - Cause and Effect, Part 2
+
+Joe Graham - The truth behind those “We Buy Houses” signs
+
+Angie Cody - Interested in investing in real estate?
+
+Tom White (POMPM) - Here’s how you can increase your ROI
+
+Kevin Clancy - How to have consistent income in real estate
+
+Tracy Frans - How virtual training has fueled our success
+
+Adam Merrick - Two Former Solo Agents Discuss Their Transition to a Team
+
+Josh Holt - How to Successfully Sell After a Failed Listing Attempt
+
+Adam Rodriguez - RC Welcome Email
+
+Dan Jones - Is 2019 the year of the home seller?
+
+Dan Hendricks - What Goes Into the Decision to Downsize?
+
+Tony Geraci - Watch: The 3 steps to becoming the CEO of your own business
+
+Tom White Recruiting - WATCH: Are you looking to jumpstart your career?
+
+Joe and Lori Gabriel - Fallen in love with a coming-soon home?
+
+Anastasia Riley - Why do most homeowners choose to downsize?
+
+Kwasi Bowie - WATCH: What do the latest numbers say about our market?
+
+Brandon Montemayor - Why Now Is the Time for Buyers and Sellers to Act
+
+David Rosen - Summer 2019 NYC home price update
+
+Tracy Venturi - Maintaining a Good Credit Score
+
+Lance Woodley - The difference between 2 of our home seller programs
+
+Amy Kite - What Options Do You Have to Sell Your Home?
+
+Roz Dupiton - Stay Sane During Your Home Renovation
+
+Chad Schwendeman - 4 Ways to Pay Your Mortgage Down Sooner
+
+Robert Mack - A summertime dive into our Orange County market
+
+Patrick Fitzgerald - Before You Buy an Investment Property
+
+Maria Hoffman - Which Remodeling Projects Will Net You The Most in a Resale Situation?
+
+Scott Fuller - What to Do When You’re Planning to Relocate
+
+Shawn O’Neill - The Benefits of Working With JPAR
+
+Travis Bell - Your July 2019 South Tampa Real Estate Market Update
+
+Mark Deacon - Phoenix home price update for summer 2019
+
+Kevin Langan - When Is the Best Time to List Your Home?
+
+Donald Payne - Buyers: How will the recent rate cut impact you?
+
+Kerryann Pray - The Latest From the Snohomish County Market
+
+Sean Hellmann - Why this is the year to sell
+
+Shawn Luong - What’s Happening With Rates in the SoCal Market?
+
+John Quinn - 5 Reasons to Sell Your Home in 2019
+
+Andy Hannigan - 5 Tips for New Real Estate Investors
+
+Jan Leasure - August All Text #1
+
+Chris Mullinix - Buying &amp; Selling at the Same Time
+
+David Brough - The Latest News and Notes From Our Fort Wayne Market
+
+Jon Carbutti - We’re Nominated for the Reader’s Choice Awards
+
+Damon Gettier - Could you profit from the “fastest-growing trend” in real estate?
+
+Ron Cedillo - Another Recent Trend in California Real Estate
+
+Kevin Clancy SOI - How to buy a new car w/o debt
+
+Jack Lehr - When Should You Start Looking to Buy?
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This week's Top Performing Emails were sent by Daniel Miller, Jerry Van Leeuwen, Scott Griffin, Jeff Riber and Wayne Chang</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>This week's Top Performing Emails were sent by Daniel Miller, Jerry Van Leeuwen, Scott Griffin, Jeff Riber and Wayne Chang</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Week of 08-12-2019</title>
         <link>localhost:4000/week-of-081219.html</link>
