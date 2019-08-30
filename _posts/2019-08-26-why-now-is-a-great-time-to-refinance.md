@@ -19,7 +19,7 @@ youtube_code: FzCKyxbWzLE
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>It’s a great time to refinance your home, and today we’ll explain why.</em></p>
+*It’s a great time to refinance your home, and today we’ll explain why.*
 
 If you’ve been thinking of refinancing your mortgage, we’ve got some great news: Now is the perfect time to do so.
 
@@ -35,6 +35,6 @@ Even with all of these benefits in mind, though, some homeowners might feel hesi
 
 The VA IRRRL (or Veterans Affairs Interest Rate Reduction Refinance Loan) is another great option. Our team recently helped a homeowner reduce his VA loan from an interest rate of 4.75% to 3.375% with no points and no lender fees. That’s nearly $300 in monthly savings.&nbsp;
 
-**Current low interest rates are also majorly beneficial to buyers, who now have much greater purchasing power as a result.** And because we at Orlando Mortgages want to help homebuyers take advantage of this opportune moment, we’ve decided to lower our underwriting fees. Alternatively, we can also offer concessions toward closing costs to keep the loan balance as low as possible.
+**Current low interest rates are also majorly beneficial to buyers, who now have much greater purchasing power as a result.** And because we at Kristin Jamieson Mortgage Team want to help homebuyers take advantage of this opportune moment, we’ve decided to lower our underwriting fees. Alternatively, we can also offer concessions toward closing costs to keep the loan balance as low as possible.
 
 Whatever your real estate goals may be, our team would be happy to help talk you through your options. We would love to have a conversation about whether now is the right time for you to buy, sell, or refinance, so please give us a call or send us an email. We look forward to hearing from you soon.
