@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do If You Receive a Notice from the IRS!
-date: 2019-09-10 00:00:00
+date: 2019-08-30 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code:
 
 You go to the mail box and find that you have a letter from the IRS. &nbsp;Usually, the notice covers a very specific issue about your tax return. &nbsp; Sometimes it is serious—but most of the time it’s no big deal. But just in case one does show up, here are some of the things you should know.
 
-<center><img src="/uploads/unnamed-2.png" width="634" height="430" alt="forms"/></center>
+<center><img width="634" height="430" alt="forms" src="/uploads/unnamed-2.png" /></center>
 
 1. Don’t panic. It may just be a simple explanation.
 2. Each letter is very specific as to what you need to do to answer the inquiry.
