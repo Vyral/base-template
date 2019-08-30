@@ -24,7 +24,9 @@ Here are some strategies for keeping your home safe from would-be thieves:
 
 **Don’t hide your keys in the obvious places –&nbsp;**Thieves look for the “fake rock.”&nbsp; The ledge above the door.&nbsp; The door mat.&nbsp; Consider leaving it with a neighbor, or in a less conspicuous location.
 
-<center><img src="/uploads/unnamed.jpg" width="600" height="313" alt="thief"/></center>
+<center><img width="600" height="313" alt="thief" src="/uploads/unnamed.jpg" /></center>
+
+<center>&nbsp;</center>
 
 **Don’t announce your plans on social network sites –&nbsp;**While you may be excited to share your vacation plans (or a trip out of town for a wedding or funeral), don’t announce the dates you will be leaving and returning.&nbsp; Wait till you return to post your pictures.
 
