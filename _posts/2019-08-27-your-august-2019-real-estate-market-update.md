@@ -8,13 +8,13 @@ excerpt: >-
   Hello, raving fans! I’m back with your market update, as well as a message
   about the rumors of an impending recession. Stay tuned!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Diane+Cardano/2019/Suburbs+of+Philadelphia+Real+Estate-+market+update.mp4
 pullquote: There is definitely no recession in the real estate market!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/zKDyOXqG__4'
+youtube_code: 'https://youtu.be/A9FxHX2b20k'
 ---
 
 {% include youtube.html %}
