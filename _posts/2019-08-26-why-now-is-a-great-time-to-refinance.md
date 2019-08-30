@@ -19,7 +19,7 @@ youtube_code: FzCKyxbWzLE
 
 {% include youtube.html %}
 
-*It’s a great time to refinance your home, and today we’ll explain why.*
+<p style="text-align:cener;"><em>It’s a great time to refinance your home, and today we’ll explain why.</em></p>
 
 If you’ve been thinking of refinancing your mortgage, we’ve got some great news: Now is the perfect time to do so.
 
