@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you need help with your down payment and/or closing costs, there are plenty
   of options out there for you. Here are a few of them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/How+to+Buy+a+House+Without+Draining+Your+Savings.mp4
 pullquote: Tactful negotiations are an easy way to get your closing costs covered.
 enclosure_type: video/mp4
 enclosure_time:
