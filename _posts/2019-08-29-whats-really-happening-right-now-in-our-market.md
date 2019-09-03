@@ -23,7 +23,7 @@ youtube_code: OGjNiD5oZlU
 
 &nbsp;
 
-Trade wars, tariffs, and recessions… oh my\! These buzzwords have been floating around a lot lately, but what’s actually happening in our local real estate market today? Today, we’ll cut through the clutter and get straight to the point about what’s going on.
+Trade wars, tariffs, and recessions… oh my\! These buzzwords have been floating around a lot lately, but what’s actually happening in our local real estate market? Today, we’ll cut through the clutter and get straight to the point about what’s going on.
 
 For one thing, **there is some truth to the talk that change is coming**. Calling it a recession might raise some alarm, but there’s no denying that the economy isn’t quite where it should be. If it were, the Fed wouldn’t have lowered rates as far as they are now.
 
