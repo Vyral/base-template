@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Role of the Non-Occupant Co-Borrower in the Home Buying Process
-date: 2019-09-30 20:06:00
+date: 2019-09-03 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
