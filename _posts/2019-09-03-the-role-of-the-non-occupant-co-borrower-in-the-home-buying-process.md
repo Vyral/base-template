@@ -21,7 +21,7 @@ youtube_code: 1umH0EFAfvo
 
 {% include youtube.html %}
 
-*For some first-time buyers, electing to purchase with the help of a non-occupant co-borrower is their ticket to homeownership.*
+<p style="text-align:center;"><em>For some first-time buyers, electing to purchase with the help of a non-occupant co-borrower is their ticket to homeownership.</em></p>
 
 Today I’ll address the topic of **non-occupant co-borrowers and how you can benefit from it.&nbsp;**
 
