@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips for Buyers Navigating a Seller’s Market
-date: 2019-09-03 20:25:44
+date: 2019-09-03 20:25:00
 tags:
   - Home Buyer Tips
 excerpt: >-
