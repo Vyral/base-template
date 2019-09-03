@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Client Appreciation Party Was a Huge Success
-date:
+date: 2019-09-03 16:21:28
 tags:
   - Market Update
 excerpt: >-
