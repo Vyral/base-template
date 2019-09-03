@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/aIlpSsrm8_8'
 
 {% include youtube.html %}
 
-The market is still great for home sellers out there. Here are the numbers that back it up.
+<p style="text-align: center;"><em>The market is still great for home sellers out there. Here are the numbers that back it up.</em></p>
 
 As we near the end of the summer, I wanted to talk to you about the local market and what we’ve been seeing lately.
 
