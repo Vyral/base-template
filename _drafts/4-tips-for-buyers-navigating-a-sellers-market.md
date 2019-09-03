@@ -4,7 +4,9 @@ title: 4 Tips for Buyers Navigating a Seller’s Market
 date:
 tags:
   - Home Buyer Tips
-excerpt:
+excerpt: >-
+  Here are four ways to ensure a seller takes notice of your offer, even when
+  multiple are on the table.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Seth+%26+Alyce+Dailey/4+Tips+for+Buyers+Navigating+a+Sellers+Market.mp4
 pullquote: >-
@@ -18,6 +20,8 @@ youtube_code: lYM1gvH_wqs
 ---
 
 {% include youtube.html %}
+
+Here are four ways to ensure a seller takes notice of your offer, even when multiple are on the table.&nbsp;
 
 In a seller’s market where the field is crowded with buyers, many on the sidelines are left to wonder if it’s even worth it to try and compete. When inventory is particularly low, it’s not unusual for sellers to receive a bunch of offers. It’s almost always a good idea to write an offer nonetheless. &nbsp;
 
