@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: What are the top three tips for negotiating on your home sale? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/3+Tips+for+Negotiating+Your+Home+Sale.mp4
 pullquote: >-
   Think about your home as an asset and try not to get easily offended by an
   offer you don’t like.
