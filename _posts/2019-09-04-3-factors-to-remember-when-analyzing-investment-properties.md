@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Factors to Remember When Analyzing Investment Properties
-date:
+date: 2019-09-04 17:42:03
 tags:
 excerpt: >-
   How do you separate a good real estate investment from a bad one? Give careful
