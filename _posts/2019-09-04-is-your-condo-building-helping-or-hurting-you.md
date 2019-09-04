@@ -20,7 +20,7 @@ youtube_code: KnrYkM6kkAE
 
 {% include youtube.html %}
 
-As a condo owner, certain factors can make or break your home sale—factors unrelated to your actual unit.&nbsp;
+<p style="text-align:center;"><em>As a condo owner, certain factors can make or break your home sale—factors unrelated to your actual unit.</em></p>
 
 Today I have a question for condo and townhome owners: **Is your building helping or hurting you?&nbsp;**
 
