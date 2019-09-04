@@ -9,7 +9,7 @@ excerpt: >-
   Here’s what I’m talking about.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Our+Client+Appreciation+Party+Was+a+Huge+Success.mp4
-pullquote: Now is a great time to be a buyer or a seller
+pullquote: Now is a great time to be a buyer or a seller.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,15 +19,15 @@ youtube_code: fXylc70GwuE
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The Louisville real estate market is being driven by one key factor right now. Here’s what I’m talking about.</em></p>
+*The Louisville real estate market is being driven by one key factor right now. Here’s what I’m talking about.*
 
 Before I tell you all about our recent client appreciation party out at Slugger Field, I wanted to give you a quick update on the Louisville real estate market.
 
 **As you can see in the chart at 0:21 in the video above, in less than a year, interest rates have dropped almost 1.5%**. This is driving the market and keeping plenty of buyers around.
 
-There continues to be a good supply of homes in the Louisville and Southern Indiana area, but word about interest rates hasn’t quite made its way out to the media yet so foot traffic, or the number of people who are out going to see homes, is down this year. **This will change as the media picks up on these interest rates and word spreads.&nbsp;**
+There continues to be a good supply of homes in the Louisville and Southern Indiana area. However, word about interest rates hasn’t quite made its way out to the media yet so foot traffic, or the number of people who are going out to see homes, is down this year. **This will change as the media picks up on these interest rates and word spreads.&nbsp;**
 
-How long will they stay low, and will they go even lower? The predictions from Freddie Mac, Fannie Mae, The Mortgage Bankers Association and the National Association of Realtors are all saying that interest rates will hover around 3.7% to 3.9% for the remainder of the year. **They should remain low for the first half of 2020 as well.** What happens after that? It’s anyone’s guess.
+How long will they stay low, and will they go even lower? The predictions from Freddie Mac, Fannie Mae, The Mortgage Bankers Association, and the National Association of Realtors are all saying that interest rates will hover around 3.7% to 3.9% for the remainder of the year. **They should remain low for the first half of 2020 as well.** What happens after that? It’s anyone’s guess.
 
 {% include pullquote.html %}
 
