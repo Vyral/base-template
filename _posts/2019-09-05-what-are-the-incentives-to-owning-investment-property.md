@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Incentives to Owning Investment Property?
-date: 2019-08-29 12:00:00
+date: 2019-09-05 12:00:00
 tags:
   - Real Estate
 excerpt: >-
