@@ -27,7 +27,7 @@ Many people are under the assumption that once they write an earnest money check
 
 We’ll cover this topic more in depth in an upcoming video, but in a nutshell, **the buyer will get their earnest money back under the following circumstances:**
 
-* They back out of inspections within the inspection contingency timeline&nbsp;
+* They back out of the deal within the inspection contingency timeline&nbsp;
 * They’re still within their 10-day right of rescission period for their CIC document review
 * Their loan falls apart
 
@@ -39,8 +39,8 @@ In this case, the answer depends. You certainly can, but that’s something you 
 
 **3\. Can I ask for personal property?&nbsp;**
 
-Yes. Typically, kitchen and laundry appliances are the personal property items included in almost every transaction. If there’s a written approval between both parties, there are other items you can ask for as well. Examples might include a bench that fits perfectly within a certain area, or a decorative piece that works well in the space it’s in. Other commonly requested items include pool tables and swing sets. As long as the seller consents to leave these things in the purchase agreement, they’re all yours.&nbsp;
+Yes. Typically, kitchen and laundry appliances are included in almost every transaction. If there’s a written approval between both parties, there are other items you can ask for as well. Examples might include a bench that fits perfectly within a certain area, or a decorative piece that works well in the space it’s in. Other commonly requested items include pool tables and swing sets. As long as the seller consents to leave these things in the purchase agreement, they’re all yours.&nbsp;
 
 We take pride in writing personal property agreements for our clients that are separate from the purchase agreement. To clarify, sometimes this property is purchased separately outside of the closing, so that’s another conversation you’ll need to have with the seller.&nbsp;
 
-If you have any more questions about the home buying process or any other real estate needs we can take care of, don’t hesitate to reach out to us. We’d love to help you.
+If you have any more questions about the home buying process or have any other real estate needs we can take care of, don’t hesitate to reach out to us. We’d love to help you.
