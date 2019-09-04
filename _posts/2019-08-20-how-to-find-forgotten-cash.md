@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/fav-1.png
+youtube_alternate_image: /uploads/unnamed-3.png
 youtube_code:
 ---
 
@@ -22,7 +22,7 @@ I wanted to share with you a couple of ways to determine if you (or your family 
 
 Let’s assume that you have moved and forgot to close some bank accounts.&nbsp; Or think that you closed checking or savings accounts—but they may still be active.&nbsp; Depending on your state, banks are required to transfer those funds to the state of your last known addresses.&nbsp; You can visit&nbsp;[www.unclaimed.org](http://www.unclaimed.org/){: target="_blank"}. &nbsp; If you find your name on the list, you can request your cash online.&nbsp; You can also request the money not claimed by a deceased relative with proof of death and executor information.
 
-<center><img src="/uploads/cash-062519-2.png" alt="naupa" width="349" height="154"></center>
+<center><img alt="naupa" width="349" height="154" src="/uploads/cash-062519-2.png" /></center>
 
 If you have owned a life insurance policy, or think a deceased relative had one, you can also find it on&nbsp;[www.Unclaimed.org](http://www.unclaimed.org/){: target="_blank"}.&nbsp; Start with the name of the agent who sold the policy.&nbsp; If you don’t know the name of the agent, go to&nbsp;[www.naic.org](http://www.naic.org/){: target="_blank"}, run by the state’s insurance agencies. &nbsp;And if you or a deceased relative was in the military, check out&nbsp;[www.insurance.va.gov/unclaimedfunds](http://www.insurance.va.gov/unclaimedfunds){: target="_blank"}&nbsp;
 
