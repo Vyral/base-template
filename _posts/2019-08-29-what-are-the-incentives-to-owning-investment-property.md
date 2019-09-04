@@ -26,7 +26,7 @@ Over the past few years, many of my clients have made home purchases and are beg
 
 {% include pullquote.html %}
 
-If you haven’t considered owning investment property as an option, maybe now is the time—**doing so comes with some major benefits that can be a driver for a strong financial well-being for you and your family.** There are four benefits, in particular, that I’d like to go over with you now:
+If you haven’t considered owning investment property as an option, maybe now is the time—**doing so comes with some major benefits that can be a driver for strong financial well-being for you and your family.** There are four benefits, in particular, that I’d like to go over with you now:
 
 1. **Wealth.** Purchasing an investment property is great for wealth accumulation over time. Ultimately, you’ll own that property, and it’ll be an asset to your financial security.
 2. **Appreciation.** Though market fluctuation is a factor, the appreciation rate we tend to see year over year in California is 5%. Putting 20% down on, say, a $500,000 investment will actually yield a much higher ROI than that 5% appreciate rate would suggest. &nbsp;
