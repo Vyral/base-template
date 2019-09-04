@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Keep Your Home Safe from Thieves
-date:
+date: 2019-10-01 00:00:00
 tags:
 excerpt: Here are some strategies for keeping your home safe from would-be thieves
 enclosure:
