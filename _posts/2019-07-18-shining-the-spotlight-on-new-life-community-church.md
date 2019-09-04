@@ -4,6 +4,7 @@ title: Shining the Spotlight on New Life Community Church
 date: 2019-07-18 20:13:00
 tags:
   - Real Estate
+  - Brand Ambassador
 excerpt: >-
   In today’s “Brand Ambassador” video, we’ll take you to New Life Community
   Church to learn about the program and why they’re one of our beneficiaries.
