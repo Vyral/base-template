@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/fav-4.png
+youtube_alternate_image: /uploads/unnamed-1-1.png
 youtube_code:
 ---
 
