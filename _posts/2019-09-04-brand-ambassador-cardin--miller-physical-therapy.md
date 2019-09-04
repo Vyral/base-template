@@ -5,8 +5,7 @@ date: 2019-09-04 14:14:17
 tags:
   - Brand Ambassador
 excerpt: >-
-  The market is still great for home sellers out there. Here are the numbers
-  that back it up.
+  In the latest edition of our Brand Ambassador program, we’re featuring Cardin & Miller Physical Therapy—a business that truly supports our community.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+Cardin+%26+Miller.mp4
 pullquote: >-
@@ -21,7 +20,7 @@ youtube_code: 'https://youtu.be/lo-m8Dj-zWk'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The market is still great for home sellers out there. Here are the numbers that back it up.</em></p>
+<p style="text-align: center;"><em>In the latest edition of our Brand Ambassador program, we’re featuring Cardin & Miller Physical Therapy—a business that truly supports our community.</em></p>
 
 In the latest installment of our Brand Ambassador series, we’re featuring **Cardin & Miller Physical Therapy.** At Cardin & Miller, the staff has a passion for **helping people ages 35 and older return to doing what they want, need, and love to do in life.** The core philosophy of their business is helping clients achieve a higher quality of life without the use of shots, pain medication, or surgery.
 
