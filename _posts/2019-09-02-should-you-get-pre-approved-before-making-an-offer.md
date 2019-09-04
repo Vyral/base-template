@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/u2SMIJF3hDQ'
 
 {% include youtube.html %}
 
-When homebuyers ask me about pre-approvals, one of the questions I hear most often is “Should I get pre-approved with a lender before making an offer?”
+When homebuyers ask me about pre-approvals, one of the questions I hear most often is, “Should I get pre-approved with a lender before making an offer?”
 
 **Our recommendation is to always get a pre-approval before you even start looking for houses.** There are a few reasons for this.
 
