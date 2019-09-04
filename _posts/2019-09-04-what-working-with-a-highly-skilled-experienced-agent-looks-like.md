@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'What Working With a Highly Skilled, Experienced Agent Looks Like'
-date:
+date: 2019-09-04 20:21:23
 tags:
   - Real Estate
 excerpt: >-
