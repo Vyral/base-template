@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Buy a Resale Home or a New Construction Property?
-date:
+date: 2019-09-04 21:19:20
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: G6XngUYqfwk
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Should you buy a new construction home or a resale property? Let’s discuss these options today.</em></p>
+*Should you buy a new construction home or a resale property? Let’s discuss these options today.*
 
 First-time homebuyers often ask whether it’s better to buy a resale property or a new construction home. In truth, there’s no right answer. It ultimately depends on your circumstances and preferences. Today, we’ll go over a few things you should consider when making this decision.
 
