@@ -32,7 +32,7 @@ However, not everyone uses FICO scores as a guide. &nbsp;Here are some other cre
 
 **Free Credit Reports** – According to law, you are entitled to one free credit report (per bureau) every year. &nbsp;While it won’t be exactly what lenders see when they order a credit report on your behalf, it will be “in the range” and is a good indicator of what to expect.&nbsp;
 
-As I mentioned, you are entitled to one free credit report—PER BUREAU. &nbsp;Go to AnnualCreditReport.com and you can request one credit report from EACH of the bureaus listed.&nbsp;
+As I mentioned, you are entitled to one free credit report—PER BUREAU. &nbsp;Go to [AnnualCreditReport.com](AnnualCreditReport.com){: target="_blank"} and you can request one credit report from EACH of the bureaus listed.&nbsp;
 
 A word of caution\! &nbsp;Be careful when signing up for offers to provide you with a FREE credit report. &nbsp;If you are asked to enter your credit card number, what you are really signing up for is a credit monitoring service—that may cost you over $300 per year.&nbsp;
 
