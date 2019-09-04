@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2019 Minute Market Update
-date: 2019-09-03 15:14:31
+date: 2019-09-03 15:14:00
 tags:
 excerpt: >-
   Here’s your one-minute Twin Cities real estate market update! Tune in for
@@ -26,4 +26,4 @@ Through the end of July 2019, new listings dropped slightly by 0.6%, closed sale
 
 If you’re thinking of selling your home, doing so now or in the near future could be a great opportunity for you to take advantage of our current conditions while we remain in a seller’s market.
 
-If you’d like to know what your home would sell for in the market, don’t hesitate to reach out to me. We hope to connect with you soon\!<br>&nbsp;
+If you’d like to know what your home would sell for in the market, don’t hesitate to reach out to us. We hope to connect with you soon\!<br>&nbsp;
