@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Brand Ambassador Business Spotlight: LifeGuide Financial Advisors'
-date: 2019-08-05 14:39:34
+date: 2019-08-05 14:39:00
 tags:
   - Real Estate
+  - Brand Ambassador
 excerpt: >-
   Doug Denlinger of Lifeguide Financial Advisors joins us today as our very
   first guest in our Brand Ambassador business spotlight series.
@@ -22,9 +23,9 @@ youtube_code: 'https://youtu.be/9AnRBtzZtBY'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Doug Denlinger of Lifeguide Financial Advisors joins us today as our very first guest in our Brand Ambassador business spotlight series.</em></p>
+*Doug Denlinger of Lifeguide Financial Advisors joins us today as our very first guest in our Brand Ambassador business spotlight series.*
 
-Welcome to the very first Brand Ambassador business spotlight. Today we’re sitting down with Doug Denlinger of <a href="http://www.lifeguidefa.com/" target="_blank">LifeGuide Financial Advisors</a> to talk about his business, his story, and what keeps him motivated to serve his clients at the highest level.&nbsp;
+Welcome to the very first Brand Ambassador business spotlight. Today we’re sitting down with Doug Denlinger of [LifeGuide Financial Advisors](http://www.lifeguidefa.com/){: target="_blank"} to talk about his business, his story, and what keeps him motivated to serve his clients at the highest level.&nbsp;
 
 First, what does Lifeguide Financial Advisors do?
 
@@ -44,6 +45,6 @@ If Doug could share one insight with struggling small business owners, it’s to
 
 “I really believe that a business’ most valuable asset is a team that’s healthy, motivated, and focused. And that team needs to be led by a leader that’s healthy, motivated, and focused as well.”&nbsp;
 
-We want to give a special thanks to Doug for joining us today, and we wish him the best of luck moving forward with <a href="http://www.lifeguidefa.com/" target="_blank">LifeGuide Financial Advisors.</a>
+We want to give a special thanks to Doug for joining us today, and we wish him the best of luck moving forward with [LifeGuide Financial Advisors.](http://www.lifeguidefa.com/){: target="_blank"}
 
 As always, if you have any other questions, would like more information, or would like to discuss your real estate goals, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
