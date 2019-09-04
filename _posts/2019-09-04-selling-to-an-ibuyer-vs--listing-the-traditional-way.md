@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Selling to an iBuyer vs. Listing the Traditional Way
-date: 2019-09-04 14:14:35
+date: 2019-09-04 14:14:00
 tags:
   - Home Seller Tips
 excerpt: >-
