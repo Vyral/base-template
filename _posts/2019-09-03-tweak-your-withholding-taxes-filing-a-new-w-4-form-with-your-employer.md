@@ -26,9 +26,9 @@ Remember filling out a W-4 form when you were first hired?&nbsp; It’s the form
 * Refinance of mortgage
 * Retirement
 
-<center>&nbsp;</center>
+<center>3. You expect to earn money from your home-based business or other source that does not withhold income taxes from the check.</center>
 
-3\. You expect to earn money from your home-based business or other source that does not withhold income taxes from the check.
+<center>&nbsp;</center>
 
 4\. Change in itemized deductions
 
