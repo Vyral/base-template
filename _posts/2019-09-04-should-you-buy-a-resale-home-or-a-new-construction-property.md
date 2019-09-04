@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Buy a Resale Home or a New Construction Property?
-date: 2019-09-04 21:19:20
+date: 2019-09-04 21:19:00
 tags:
   - Home Buyer Tips
 excerpt: >-
