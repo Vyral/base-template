@@ -7,13 +7,13 @@ excerpt: >-
   Here’s your one-minute Twin Cities real estate market update! Tune in for
   details.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/Your+2019+Minute+Market+Update.mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/Your+2019+Minute+Market+Update+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qHaaqoej-w4
+youtube_code: ncoYsytu4lg
 ---
 
 {% include youtube.html %}
