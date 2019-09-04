@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/fav-3.png
+youtube_alternate_image: /uploads/unnamed-1-1.jpg
 youtube_code:
 ---
 
@@ -26,9 +26,7 @@ Remember filling out a W-4 form when you were first hired?&nbsp; It’s the form
 * Refinance of mortgage
 * Retirement
 
-<center><img alt="coffee" width="401" height="267" src="/uploads/client-052819-e1557788425800.jpg" /></center>
-
-&nbsp;
+<center>&nbsp;</center>
 
 3\. You expect to earn money from your home-based business or other source that does not withhold income taxes from the check.
 
