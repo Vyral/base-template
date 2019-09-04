@@ -24,7 +24,7 @@ youtube_code: Jcv6wZ8NPyk
 
 What can you do to shorten the timeframe of your next home purchase? Here are a few of my tips:
 
-<br>The first thing you’ll want to do **before you go out to look at homes with your agent is make a list of four or five homes that you like.** When you’ve made this list, consider driving around each home’s respective area. This will save you time by eliminating any homes that don’t fit your criteria. All the time, you hear that buying a home is about “location, location, location”; you wouldn’t want to buy a home in a neighborhood with rampant gun violence, would you?
+The first thing you’ll want to do **before you go out to look at homes with your agent is make a list of four or five homes that you like.** When you’ve made this list, consider driving around each home’s respective area. This will save you time by eliminating any homes that don’t fit your criteria. All the time, you hear that buying a home is about “location, location, location”; you wouldn’t want to buy a home in a neighborhood with rampant gun violence, would you?
 
 {% include pullquote.html %}
 
