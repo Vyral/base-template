@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>St. Cloud Real Estate Podcast with Kari Kohler</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>St. Charles Real Estate Podcast with Kari Kohler</title>
+    <link>http://thekohlergroupblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://thekohlergroupblog.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kohler Group - your professional St. Charles Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kari Kohler</managingEditor>
-    <lastBuildDate>2017-06-05 14:41:23 -0500</lastBuildDate>
+    <lastBuildDate>2019-09-05 09:54:37 -0500</lastBuildDate>
     <media:copyright>Kari Kohler</media:copyright>
-    <media:thumbnail url="/img/podcast.jpg"/>
+    <media:thumbnail url="http://thekohlergroupblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,103 +18,989 @@
     </itunes:owner>
     <itunes:author>Kari Kohler</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="/img/podcast.jpg"/>
+    <itunes:image href="http://thekohlergroupblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the St. Charles Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kohler Group - your professional St. Charles Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post.html</link>
-        
-          <category>Market Update</category>
+        <title>What Happened With Mortgage Rates?</title>
+        <link>http://thekohlergroupblog.com/what-happened-with-mortgage-rates.html</link>
         
           <category>Real Estate</category>
         
-          <category>Home Seller Tips</category>
-        
         <author>Kari Kohler</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2019-08-14 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Client+Appreciation+Party.mp4</guid>
         <description>
 
-}
-
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Friends and clients: We were so happy to see you at our recent client appreciation event at Porter’s Pub in the breathtaking Bowe’s Creek Country Club. We want to thank all of you who came out to enjoy food, drinks, fun, and our driving range raffle. The raffles consisted of two rounds of 18 holes at Bowe’s Creek provided by Toll Brothers and the driving range raffle provided by Bowe’s Creek. The Kohler Group raffled two tickets to a Cougars game! Congratulations to the winners, by the way. All of this is simply to remind you of how important you are to us. We appreciate you so dearly, so we were so glad see you there. As always, if you have any other questions or would like more information about anything related to real estate, please give us a call or send us an email. If you were not able to attend, we sure would love to see you at the next one!!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Client+Appreciation+Party.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Client+Appreciation+Party.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Our recent client appreciation event was incredible, and it was all thanks to you!</itunes:subtitle>
         <itunes:author>Kari Kohler</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Our recent client appreciation event was incredible, and it was all thanks to you!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>The Benefits of Buying New Construction</title>
+        <link>http://thekohlergroupblog.com/the-benefits-of-buying-new-construction.html</link>
         
-          <category>Market Update</category>
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-08-04 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Benefits+of+Buying+New+Construction+(1).mp4</guid>
+        <description>
+
+Have you ever thought about buying a new construction home? So many of us love our new homes because we are able to get the most current floor plans, trim work, and appliances. A home like this, located at 5N287 Switchgrass Ln, Saint Charles, IL 60175, also comes with a one-year builder’s warranty, which is another great incentive to buy. According to our friend Bill Pendley with Caliber Home Loans, they can also offer a lower interest rate for one of these homes than what you would find on the market otherwise.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Benefits+of+Buying+New+Construction+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Benefits+of+Buying+New+Construction+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Buying a new home is a smart decision. Here are a few reasons why.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Buying a new home is a smart decision. Here are a few reasons why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is Now the Perfect Time to Find Your Dream Home?</title>
+        <link>http://thekohlergroupblog.com/why-is-now-the-perfect-time-to-find-your-dream-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-07-07 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Is+Now+the+Perfect+Time+to+Find+Your+Dream+Home_+(2).mp4</guid>
+        <description>
+
+Video presented at 39W665 S. Mathewson in Geneva, IL of which is proudly being marketed by Kari Kohler and can be fully viewed at TheKohlerGroup.com or by calling for your private showing at 630-587-4700.
+
+If you aren’t already living in your dream home, we’d like to make you aware of an incredible opportunity available in our market right now. Currently, interest rates are incredibly low. Beyond that, there are many, many gorgeous listings up for sale right here in St. Charles. So if you’re ready to make a move and find your dream home, please reach out to us. We would be honored to assist you. And if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Is+Now+the+Perfect+Time+to+Find+Your+Dream+Home_+(2).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Is+Now+the+Perfect+Time+to+Find+Your+Dream+Home_+(2).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve been thinking of buying, now is the perfect time to make a move.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>If you’ve been thinking of buying, now is the perfect time to make a move.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Preparing Your Home for a Showing & Getting a Pre-Approval</title>
+        <link>http://thekohlergroupblog.com/preparing-your-home-for-a-showing-getting-a-pre-approval.html</link>
         
           <category>Real Estate</category>
         
           <category>Home Seller Tips</category>
         
         <author>Kari Kohler</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2019-06-27 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Preparing+Your+Home+for+a+Showing+%26+Getting+a+Pre-Approval+(7).mp4</guid>
+        <description>
+
+If you’re a seller, how do you prepare your home for a showing? If you’re a buyer, how do you prepare for getting a pre-approval?
+
+To answer the first question, there are two main tips to remember. 
+
+First, make sure everything about the exterior of your front door is perfect. Everything should be perfect on the interior and around the foyer as well. These are the two areas where people make buying decisions: They make it on the way in, and they make it on the way out.
+
+“Depending on your price range, cleanliness can get you anywhere from $5,000 to $15,000 more for your home.”
+
+Second, make sure your home is clean—clean countertops, dressers, bathrooms, etc. The home should even have a clean fragrance to it. Depending on your price range, cleanliness can get you anywhere from $5,000 to $15,000 more for your home. Remember to hire professionals for this work. We have plenty of vendors we’d love to refer you to who’d do an excellent job. 
+
+Now, what about preparing for a pre-approval? According to Bill Pendley of Caliber Home Loans, there are three factors lenders look at that you need to examine as well:
+
+1. Income: You need to have a monthly income in order to pay your bills.
+
+2. Assets: You need to have the funds available to pay your down payment and your closing costs.
+
+3. Credit: 740 is the credit score you want to shoot for, and making a couple minor adjustments will help you get there. Paying off revolving debt, for example, can improve your credit score 20 or 30 points and save you thousands of dollars when closing on your home.  
+
+If you have any questions about these topics or you’re interested in scheduling a showing for the beautiful home we shot today’s video in, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Preparing+Your+Home+for+a+Showing+%26+Getting+a+Pre-Approval+(7).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Preparing+Your+Home+for+a+Showing+%26+Getting+a+Pre-Approval+(7).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ll tell you how to prepare your home for a showing and prepare for getting a pre-approval.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Today I’ll tell you how to prepare your home for a showing and prepare for getting a pre-approval.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Buy or Sell Now?</title>
+        <link>http://thekohlergroupblog.com/why-should-you-buy-or-sell-now.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-06-10 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Should+You+Buy+or+Sell+Now_+(1).mp4</guid>
+        <description>
+
+We want to thank the sellers of the home at 39W165 Longmeadow Lane in St. Charles for allowing us to do this video at their home and we welcome you to schedule a showing as the property is on the market.
+
+What makes right now such a great time to buy or sell? There are actually a few reasons, and we’ll share just a handful of the most significant factors today. 
+
+For one thing, there are 2% fewer homes on the market in our area right now than there were at this time last year. Also, home values have risen by 3% on average. This means those who list now can enjoy lower competition and higher prices.
+
+“Buying a home now means you’ll be able to build equity faster after you close.”
+
+As for buyers, one of the greatest advantages in today’s market is our incredibly low interest rates. It’s also good to know that, because home values are rising, buying a home now means you’ll be able to build equity faster after you close. 
+
+As a final note, we’d like to invite anyone looking to buy a home out to join us for a private showing and some lemonade by the pool at (ADDRESS). And, of course, we’d like to thank the sellers of this great property for allowing us to film on location at their listing. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Should+You+Buy+or+Sell+Now_+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/The+Kohler+Group-+Why+Should+You+Buy+or+Sell+Now_+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It’s a great time to buy or sell, but why? Let’s get to the bottom of this question today.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>It’s a great time to buy or sell, but why? Let’s get to the bottom of this question today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Introducing Our Fantastic Support Staff</title>
+        <link>http://thekohlergroupblog.com/introducing-our-fantastic-support-staff.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-02-11 10:29:01 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Introducing+Our+Fantastic+Support+Staff.mp4</guid>
+        <description>
+
+Today we’re excited to introduce you to three of our fantastic support staff members here at the Kohler Group.
+
+Hannah Burke is not only the operations manager of the Kohler Group, but she is also a licensed agent. She is responsible for transactions from start to finish and will be your main point of contact here at the office. She can answer almost any question that arises or direct you to the right person to answer it for you. She also has an encyclopedic knowledge of trivial facts.
+
+Allison Rucinski is our transaction coordinator and your go-to person from contract to close. She is a lifelong Dekalb-area resident and just recently purchased her own home.
+
+“Hannah can answer almost any question that arises.”
+
+Kandice Modene is our marketing coordinator. She handles everything that has to do with social media, print advertising, and online advertising. She’s a lifelong Geneva resident with a passion for dancing.
+
+If you have any questions for or about our support staff that you met today, don’t hesitate to reach out and give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Introducing+Our+Fantastic+Support+Staff.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Introducing+Our+Fantastic+Support+Staff.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our team’s support staff is fantastic. We’re highlighting three of them today.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Our team’s support staff is fantastic. We’re highlighting three of them today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>We’re Excited for What 2019 Has in Store</title>
+        <link>http://thekohlergroupblog.com/were-excited-for-what-2019-has-in-store.html</link>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-01-10 09:43:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Were+Excited+for+What+2019+Has+in+Store.mp4</guid>
+        <description>
+
+Our entire team is here today to wish you and your family a Happy New Year. We had a great year in 2018 thanks to all of your support. We’re looking forward to helping even more of you with your real estate needs in 2019. Get in touch, and give us a call or send us an email at any time.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Were+Excited+for+What+2019+Has+in+Store.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Were+Excited+for+What+2019+Has+in+Store.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>2019 is here and our team couldn’t be more excited.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>2019 is here and our team couldn’t be more excited.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why St. Charles is The Place for You</title>
+        <link>http://thekohlergroupblog.com/why-st-charles-is-the-place-for-you.html</link>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-11-30 15:09:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-}
+I’ve lived here in St. Charles for about 20 years, and it’s where I’ve happily raised my two sons. I absolutely recommend everyone to move here; it’s a wonderful community with a vibrant downtown. In fact, they’ve just done all kinds of renovations and are adding restaurants, office buildings, and both two- and three-story parking garages. There are great places for shopping and other awesome businesses to stop in. There’s something for everyone in downtown St. Charles.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+The town runs right along the Fox River. A bike path runs along the river all the way to Batavia, and the river is the site of various festivals throughout the year, which include riverboats, steamboats, bands, and much, much more. We recently had our annual Thanksgiving Day Parade, where businesses, students from the high school, and all sorts of people come out to participate. It’s a fun event for everyone in the community.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Hotel Baker is a beautiful historic building built right along the Fox River. With more than 50 rooms, it’s a great venue for hosting weddings and other elegant events. Inside is Rox City Grill—a fabulous place for an upscale dining experience where you can get fish, steak, and a wide variety of other menu options. The menu is changed fairly frequently, so there will always be new and interesting dishes to try.
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
+Did I mention the outstanding school districts? Park District is truly exceptional.
 
 
-
-  list item
-  list item
-  list item
-  list item
-  list item
+  “There’s something for everyone in downtown St. Charles.”
 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Additionally, I’m so proud to represent JRH Properties, LLC, and the fine homes that they build. Recently, they’ve built a beautiful 150-homesite subdivision on the west side of St. Charles that you just have to see. Each property is anywhere from a half-acre to an acre, and almost all of them are backed with some type of open space. Much of this greenspace is tree-lined and has bike paths, lakes, and ponds. It’s absolutely gorgeous.
 
-“This is an example of a pull quote”
+Though they primarily build in St. Charles and Glen Ellyn, they’ve also built a series of beautiful custom homes that are typically 5,000 square feet or more and fall into the million-dollar price range. The work on these properties is absolutely exceptional; the features and craftsmanship are state-of-the-art. JRH Properties, LLC is proud to build homes in Prairie Lakes.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+I welcome everybody to come see the three spec homes we have available right now for occupancy. The kitchens will just knock your socks off if the rest of the houses don’t first.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+If you have any questions about the properties available for purchase or about why St. Charles is such a fantastic place to make a home, please reach out to me. I’d love to speak with you. I would be proud to represent you on your sales.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>Why should St. Charles be the No. 1 pick for your next move? Let me show you around.</itunes:subtitle>
         <itunes:author>Kari Kohler</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Why should St. Charles be the No. 1 pick for your next move? Let me show you around.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Shining the Spotlight on the Local Moving Company, M.K Movers</title>
+        <link>http://thekohlergroupblog.com/shining-the-spotlight-on-the-local-moving-company-m-k-movers.html</link>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-11-30 15:09:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Shining+the+Spotlight+on+the+Local+Moving+Company%252C+M.K+Movers.mp4</guid>
+        <description>
+
+I recently had the opportunity to speak with Mitch Katkus of M.K Movers about his moving business.
+
+Mitch’s father used to own a truck-rental company, and people would often ask him if there was anyone who could help load and unload. Mitch and his friend volunteered for the job when they were still in high school, heading to work after classes finished for the day. This was the beginning of Mitch’s career in the moving industry as this after-school job evolved into a business.
+
+Moving into or out of a home can be stressful, but thanks to his many years of experience, Mitch is full of good tips to keep in mind when undergoing the task.
+
+“He recommends you always get an estimate before hiring movers.”
+
+He recommends you always get an estimate before hiring movers; though doing it over the phone can work, an in-person estimate works better and shows the movers what they’ll be dealing with. It makes a difference in cost, especially when a client says they have 50 boxes when, in reality, it’s more like 200.
+
+Mitch loves his town and loves to provide a helpful service to the community. He enjoys seeing the many ways that St. Charles has improved and grown over the years in regard to dining, entertainment, and things for people of all ages to do.
+
+M.K Movers are located in St. Charles but are willing to travel anywhere in the state of Illinois. If you’d like to contact M.K Movers or learn more, visit them at https://www.mkmover.com/.
+
+And, as always, if you have any questions about real estate or would like to discuss your buying or selling goals, feel free to give us a call or send us an email.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Shining+the+Spotlight+on+the+Local+Moving+Company%252C+M.K+Movers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Shining+the+Spotlight+on+the+Local+Moving+Company%252C+M.K+Movers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Mitch Katkus has much to share about his business, M.K Movers.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Mitch Katkus has much to share about his business, M.K Movers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A New Series to Show You Why We’re So Proud of Our Community</title>
+        <link>http://thekohlergroupblog.com/a-new-series-to-show-you-why-were-so-proud-of-our-community.html</link>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-11-19 09:34:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+New+Series+to+Show+You+Why+Were+So+Proud+of+Our+Community+(1).mp4</guid>
+        <description>
+
+At the Kohler Group in St. Charles, we are a seven-member team. We have three amazing individuals who work on your transactions right here in the office. We have three incredible buyer’s agents who help you find your dream home here in the community. And then, there’s me; I work as the listing agent, and I also help people find the perfect home for them.
+
+We really pride ourselves on excellent customer service. We care about you and we want to make your transaction as successful as possible; the Kohler Teams strives to do that every day.
+
+On a personal note: I have two sons—a 17-year-old who goes to North High School here in St. Charles and a 19-year-old who attends ASU in Arizona. I’m fortunate enough to have been able to provide an education for my boys all the way from preschool to college, and it’s in part because of the amazing community we have here in St. Charles. I’ve experienced the culture, the education, and the athletics here in the area, and I really cannot tell you another place I’d rather raise my children.
+
+“I really cannot tell you another place I’d rather raise my children.”
+
+This has been an outstanding community, so when you’re making a decision about where to live in the future, I hope you’ll consider St. Charles and the surrounding Fox Valley area. There are so many great things to offer here; Downtown St. Charles is so vibrant, and it’s expanding daily.
+
+If you have any questions about real estate or our community here, reach out to us. For anything that we can do to help you in the real estate world, we are here to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+New+Series+to+Show+You+Why+Were+So+Proud+of+Our+Community+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+New+Series+to+Show+You+Why+Were+So+Proud+of+Our+Community+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today’s video marks the beginning of our series in which we interview people from right here in our own, wonderful community.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Today’s video marks the beginning of our series in which we interview people from right here in our own, wonderful community.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Reasons Fall Is a Great Time to Sell</title>
+        <link>http://thekohlergroupblog.com/5-reasons-fall-is-a-great-time-to-sell.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-10-02 14:46:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+EDIT+Selling+in+the+Fall.mp4</guid>
+        <description>
+
+Should you put your home on the market in the fall? I believe you should, and today I will give you five reasons why.
+
+1. We can sell your home faster. The MLS is reporting that our market time is down 20.6%.
+
+2. There are buyers that are being transferred into our marketplace. At this time of the year, many people are transferring to our area for jobs. These people make for fabulous buyers, because they come pre-qualified and ready to purchase. Many fly in for a weekend and fly back with a new contract.
+
+3. Much of your competition comes off the market at this time. This, of course, creates lower supply and still leaves a strong demand for your home. It is a great chance to let your home take center stage.
+
+“It is a great chance for us to let your home take center stage.”
+
+4. Many buyers like to close out their transaction in the current year for tax purposes. This means that there is a little more pressure to get the transaction completed before the start of the new year.
+
+5. Interest rates are still low. This increases affordability for buyers and helps sellers list at higher prices. 
+
+All of these are excellent reasons for you to consider selling this fall. If you want to speak more about this, or if you have any additional questions about buying or selling, please feel free to reach out to me. I look forward to speaking with you soon. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+EDIT+Selling+in+the+Fall.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+EDIT+Selling+in+the+Fall.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Now is a great time to list your home. Here's why.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Now is a great time to list your home. Here's why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can You Increase Your Home’s Value Before Selling?</title>
+        <link>http://thekohlergroupblog.com/how-can-you-increase-your-homes-value-before-selling.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-09-11 13:09:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+4+Tips+for+Selling.mp4</guid>
+        <description>
+
+Here at The Kohler Group, we are always striving to uphold your home’s value for when it comes time to sell. There are four things that will help keep your home’s value up in today’s market:
+
+1. Make sure the exterior presentation of your home is excellent. Make sure that your garden beds are edged and are full of seasonal flowers. Trim your bushes as well. Make sure your front door and doorbell look good and are working properly. Buyers and their agents’ first impression of a home starts with the front door, so you want to get started on the right foot.
+
+2. Make sure the home has neutral colors. This is especially important in the critical rooms such as the foyer, living room, dining room, kitchen, master bedroom, and master bathroom. Make sure windows are open throughout the home so buyers can see the natural light pouring through the windows.
+
+“It pays to hire professionals to help you get your home ready.”
+
+3.  Remove any clutter. I’m sure you’ve heard this many times before. Removing clutter is essential for buyers being able to see the money features of your home more easily. We want them looking at the flooring, cabinetry, countertops, appliances, and the other emotional grabs of the property. This is really what drives offers.
+
+4. Make sure the home is clean. We’re all busy and it’s very challenging to keep a home clean. However, making that extra effort to make the home spotless will give the buyer a great impression of how the home has been cared for over the years. A home cannot be clean enough when it’s on the market.
+
+One thing I’ve learned over the years is that it pays to hire professionals when getting your home ready. We have vendors at our office that we’d be more than happy to get you in touch with. These vendors include cleaning ladies, landscapers, painters, and more who know exactly how to make a home look its best. We’d love to share them with you so that you can enjoy your time spent with friends and family.
+
+If you have any questions for us about getting your home ready for sale or about the real estate market in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+4+Tips+for+Selling.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+4+Tips+for+Selling.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve got some great tips for any potential home seller out there today. Not only will these help you sell more quickly, but they’ll also help you sell more money as well.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>We’ve got some great tips for any potential home seller out there today. Not only will these help you sell more quickly, but they’ll also help you sell more money as well.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Great News for St. Charles Home Sellers</title>
+        <link>http://thekohlergroupblog.com/great-news-for-st-charles-home-sellers.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-08-14 12:53:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+August+Market+Update.mp4</guid>
+        <description>
+
+I’ve got some fantastic St. Charles real estate market data to share with you today. The average sale price in St. Charles across all price levels is up by 4% compared to where it was at this time last year.
+
+“This is all fabulous news for sellers in today’s market.”
+
+Additionally, our month’s supply of homes is down by 5.4% and showings to contracts are down by 7.7% as well. This is all fabulous news for sellers in today’s competitive market. It will make it easier for them to get their homes sold without having as many showings. To get our full market update, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+August+Market+Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+August+Market+Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’ve got great news for home sellers in St. Charles. Here are the latest numbers that you need to know.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>I’ve got great news for home sellers in St. Charles. Here are the latest numbers that you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Come Join Us at Our Upcoming Client Appreciation Party</title>
+        <link>http://thekohlergroupblog.com/come-join-us-at-our-upcoming-client-appreciation-party.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-07-13 11:52:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Client+Appreciation+Event.mp4</guid>
+        <description>
+
+“We look forward to seeing you!”
+
+Today we’re excited to be able to invite you to a special party. On Thursday, July 26, we’re hosting a client appreciation party with our partners at Compass Mortgage. We’re throwing this party to celebrate you. Thank you for your trust, and thank you for always calling us for your real estate needs. We’ll be there between 5:30 p.m. and 7 p.m., so stop by for drinks and appetizers. To RSVP, click here. We look forward to seeing you there. To hear our full invite, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Client+Appreciation+Event.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Client+Appreciation+Event.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Stop in at our client appreciation party on July 26 for drinks and appetizers. This party is for you, so we would love to see you there.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Stop in at our client appreciation party on July 26 for drinks and appetizers. This party is for you, so we would love to see you there.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Listen Up, Homebuyers: This Seminar Is for You</title>
+        <link>http://thekohlergroupblog.com/listen-up-homebuyers-this-seminar-is-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-06-15 13:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4</guid>
+        <description>
+
+
+
+On Wednesday, June 20, The Kohler Group is hosting a home buying seminar. We are partnering with our friends at Compass Mortgage for this event, where we will cover many important topics such as demystifying the mortgage process, the current real estate market conditions, and renting with an option to buy. We have some great insights to share about buying a home in 2018 and we will wrap up the seminar with a tour of our office. If you have any questions or want to learn more about the event, watch this short video.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We are hosting a great informative seminar for homebuyers next Wednesday. Here is what you need to know about it.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>We are hosting a great informative seminar for homebuyers next Wednesday. Here is what you need to know about it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s Going on With St. Charles Real Estate?</title>
+        <link>http://thekohlergroupblog.com/whats-going-on-with-st-charles-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-05-25 11:14:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Whats+Going+on+With+St.+Charles+Real+Estate%253F.mp4</guid>
+        <description>
+
+Today I’ve got some great St. Charles MLS data comparing the current market to the market a year ago. Here are the numbers that stood out to us:
+
+
+  Market time is down by 7%
+  The number of homes on the market is down by 8%
+  The average sale price is up 4.5% to $357,000
+
+
+This is all great news for sellers. There is a break in the market right now and a big opportunity for home sellers and buyers. 
+
+“Fresh inventory will be coming on the market every day this summer.”
+
+For home sellers, now is the time to get your home sold for top dollar. For homebuyers, now is the time to get off the fence and lock in a low interest rate. Fresh inventory will be coming on the market every day this summer.
+
+If you’re thinking about buying or selling a home anytime soon, don’t hesitate to give us a call or send us an email. We would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Whats+Going+on+With+St.+Charles+Real+Estate%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Whats+Going+on+With+St.+Charles+Real+Estate%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There is great opportunity for home buyers and home sellers in the real estate market. Here’s why.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>There is great opportunity for home buyers and home sellers in the real estate market. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Miss Your Chance to Buy a High-End St. Charles Home</title>
+        <link>http://thekohlergroupblog.com/dont-miss-your-chance-to-buy-a-high-end-st-charles-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-04-10 13:13:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4</guid>
+        <description>
+
+There are so many tremendous values in the high-end market here in St. Charles and the surrounding area that I just had to share a few with you today. 
+
+We are lucky enough to represent many of those sellers, and these values are a once-in-a-lifetime opportunity. Interest rates are still low, so now is the time to act. 
+
+One of the homes we’re representing has a basketball court in the basement, and all of these homes are gorgeous. Check out the video above for a slideshow featuring these amazing properties.
+
+“Now is the time to act.”
+
+
+  39W179 Longmeadow Lane 
+  5N266 Prairie Lakes Blvd 
+  6N538 Brookhaven Lane
+  39W485 Longmeadow Lane 
+  5N369 Fairway Drive 
+  Lot 1 Kim Lane 
+  38W220 Heritage Oaks Drive 
+  5N287 Switchgrass Lane 
+
+
+Again, this is the opportunity of a lifetime. If you are considering jumping into the high-end market, you need to act now. Otherwise, you will look back and say, “I wish I had bought a home in 2018.” It’s just such a fabulous time to buy. 
+
+Give me a call or send me an email if you have any questions. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-+Dont+Miss+Your+Chance+to+Buy+a+High-End+St.+Charles+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why is now such a great time to purchase a high-end St. Charles home? I’ll explain today.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Why is now such a great time to purchase a high-end St. Charles home? I’ll explain today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Getting Ready to List Your Home? Let Us Assist You!</title>
+        <link>http://thekohlergroupblog.com/getting-ready-to-list-your-home-let-us-assist-you.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-03-14 15:41:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4</guid>
+        <description>
+
+Spring has arrived, and that means it’s time to get out and enjoy the awesome weather here in St. Charles.
+
+If you’re thinking of putting your home on the market, right now is really a fantastic time. Whether you’re serious about listing or simply curious about the possibility, my team and I offer services that can help you determine your home’s value in today’s robust market.
+
+“If you’re thinking of putting your home on the market, right now is really a fantastic time.”
+
+We would also be happy to provide a comparative market analysis for your property. This is a service we offer to all of our clients at no cost.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve been considering listing this spring, my team and I are here to help.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>If you’ve been considering listing this spring, my team and I are here to help.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Exciting Development in Our Real Estate Market</title>
+        <link>http://thekohlergroupblog.com/an-exciting-development-in-our-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-02-20 14:44:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4</guid>
+        <description>
+
+I have some fantastic news to share with you about our real estate market today. Compared to the same time last year, the number of single-family home transactions is up by 24%.
+
+“Single-family home transactions is up by 24% from last year.”
+
+If you’re considering listing your home on the market, now is the time to do so. I can deliver you first-class service and a top dollar sale. To learn more about how I can help you find the value of your home in today’s market, watch this short video
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/2018/The+Kohler+Group-.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The real estate market is in a fantastic spot for home sellers. Here’s what you can expect.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>The real estate market is in a fantastic spot for home sellers. Here’s what you can expect.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Changes in the St. Charles Market You Should Know About</title>
+        <link>http://thekohlergroupblog.com/changes-in-the-st-charles-market-you-should-know-about.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2018-01-15 05:54:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+St.+Charles+real+estate+tip.mp4</guid>
+        <description>
+
+I have some great news to share today about the St. Charles real estate market.
+
+In the last year, the number of homes on the market has decreased by 11.9%, the average days on market has decreased by 7%, and showings are up by 13%.
+
+These powerful figures indicate that now is the time to get on the market if you’ve been thinking about buying or selling a home anytime in the near future.
+
+If you have any questions for me or want to know how to get the process started, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+St.+Charles+real+estate+tip.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+A+St.+Charles+real+estate+tip.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I have some great news to share today about the St. Charles real estate market.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>I have some great news to share today about the St. Charles real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Compete When the Market Heats Up?</title>
+        <link>http://thekohlergroupblog.com/how-do-you-compete-when-the-market-heats-up.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-12-12 06:42:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+3+secrets+to+winning+in+a+hot+market.mp4</guid>
+        <description>
+
+Today I’m bringing you some exciting news: The market is heating up! And when the market heats up, you should expect there to be bidding wars.
+
+So, what are some ways you can position yourself for success in the face of competition? I’ve got some key tips on winning those bidding wars when you’re searching for your next home.
+
+First of all, write a cash offer if you can. This is going to get the seller’s attention. If this isn’t something you’re able to do, talk to your loan officer about a loan commitment. This is stronger than a pre-approval and is another way to capture the attention of the seller.
+
+Have your loan officer call the listing agent to tell them what a strong, qualified buyer you are. This will put you in a very good position with the sellers.
+
+“It is critically important that you hire an experienced agent.”
+
+Next, work through the contingencies quickly and efficiently. Be very communicative with the seller during this process.
+
+Finally, it is critically important that you hire an experienced agent. You should work with a professional with a proven track record of negotiating contracts. There is a tremendous amount of skill required in these kinds of negotiations, so make sure you work with someone who has the right knowledge and experience.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+3+secrets+to+winning+in+a+hot+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+3+secrets+to+winning+in+a+hot+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’m bringing you some exciting news: The market is heating up! And when the market heats up, you should expect there to be bidding wars.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Today I’m bringing you some exciting news: The market is heating up! And when the market heats up, you should expect there to be bidding wars.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2 Market Secrets to Be Thankful for This Holiday Season</title>
+        <link>http://thekohlergroupblog.com/2-market-secrets-to-be-thankful-for-this-holiday-season.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-11-15 04:03:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Two+holiday+season+market+secrets.mp4</guid>
+        <description>
+
+At this time of year, many are giving thanks for the blessings in their lives. Today, I’d like to give you something else to be thankful for: two important market secrets.
+
+The first is that right now, St. Charles has a low supply of homes. Few sellers are coming on the market, and many sellers are coming off of it.
+
+Secondly, the only buyers in the market right now are ones who are very serious. The buyers on the market currently are qualified buyers, relocation buyers, and buyers who need to find a home in the next few weeks.
+
+“The market is still very strong at this time of year.”
+
+In the last 30 days, approximately 171 homes have gone under contract in St. Charles alone. This proves that the market is still very strong at this time of year.
+
+The best secret of all is that right now truly is a great time of year to come on the market.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Two+holiday+season+market+secrets.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Two+holiday+season+market+secrets.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>At this time of year, many are giving thanks for the blessings in their lives. Today, I’d like to give you something else to be thankful for: two important market secrets.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>At this time of year, many are giving thanks for the blessings in their lives. Today, I’d like to give you something else to be thankful for: two important market secrets.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Should Consider Buying a New Construction Home</title>
+        <link>http://thekohlergroupblog.com/why-you-should-consider-buying-a-new-construction-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-10-18 05:18:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Buying+new+construction+is+smart.mp4</guid>
+        <description>
+
+Today I’ve got a list to share with you of the five biggest advantages to buying a new construction home.
+
+1. Everything is new. This one is pretty obvious. Purchasing a new home greatly reduces hidden costs. Additionally, builders typically offer a one-year warranty that covers all the major systems and appliances in the house.
+
+2. You see a true annual savings.Buying a new home means being able to take advantage of the latest in design and efficiency. Appliances, doors, windows, and mechanical systems will be brand new throughout the home, greatly reducing utility and maintenance costs.
+
+“Building a home gives you complete design control.”
+
+3. Complete design control. Building a new home gives you this and more. When you have complete design control, everything is the way that you want it from the start. You don’t have to spend time and/or money replacing or redesigning elements of your home.
+
+4. Entertaining is easy.Most new homes have open floor plans that support large groups, making entertaining simple. It was completely designed with large-scale entertaining in mind.
+
+5. That “new home feel.” There is no substitute for the feeling that you get when moving into a brand-new home. The model-like appearance of the home provides a very satisfying feeling of accomplishment and ownership.
+
+If you have any questions for me or are thinking about building a new home yourself, give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Buying+new+construction+is+smart.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Buying+new+construction+is+smart.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I’ve got a list to share with you of the five biggest advantages to buying a new construction home.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Today I’ve got a list to share with you of the five biggest advantages to buying a new construction home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>St. Charles Has Something for Everyone</title>
+        <link>http://thekohlergroupblog.com/st-charles-has-something-for-everyone.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-09-21 04:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Why+visit+St.+Charles-.mp4</guid>
+        <description>
+
+St. Charles is a wonderful place to visit and to live.
+
+The vibrant downtown area is built right along the Fox River and features excellent restaurants, fun bars with live entertainment, shopping, theaters, museums, and beautiful hotels. As you walk through the downtown area, be sure to stop in at one of the charming coffee shops, wineries, candy stores, or ice cream shops.
+
+St. Charles provides endless possibilities for relaxing, with beautiful courtyards filled with tables and Adirondack chairs so that you can enjoy views of the river with family and friends.
+
+There are many breathtaking parks that host music festivals and regular festivals. Pottawattamie Park is nestled near the Fox River. Stop by for a full day of fun. Enjoy the miniature golf course, paddle boats, ferry boat, baseball field, tennis courts, volleyball courts, and the pool and golf course.
+
+“St. Charles has something for everyone.”
+
+At the Fox River, you can enjoy fishing, water skiing, boating, and kayaking. There are many beautiful homes along the Fox River, as well as scenic bike paths for everyone to enjoy.
+
+In St. Charles, we take pride in our community. There is a rich array of things to do. There are wonderful places of worship for all religions and beliefs. St. Charles also features gorgeous public and private golf courses; three country clubs in the area each feature their own challenging course.
+
+St. Charles is also a horse lover’s paradise, with a number of well-known barns and fabulous facilities. There are also music, art, and sports available. Basically, there is something for everyone here
+
+Our public schools are highly rated, and there are a number of sought-after private schools as well.
+
+I welcome you to visit St. Charles. You will love what you see.
+
+If you have any other questions about visiting or living in St. Charles, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Why+visit+St.+Charles-.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Why+visit+St.+Charles-.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>St. Charles is a wonderful place to visit and to live.   The vibrant downtown area is built right along the Fox River and features excellent restaurants, fun bars with live entertainment, shopping, theaters, museums, and beautiful hotels.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>St. Charles is a wonderful place to visit and to live.   The vibrant downtown area is built right along the Fox River and features excellent restaurants, fun bars with live entertainment, shopping, theaters, museums, and beautiful hotels.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the News for Buyers and Sellers in Our St. Charles Market?</title>
+        <link>http://thekohlergroupblog.com/whats-the-news-for-buyers-and-sellers-in-our-st-charles-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-09-01 07:35:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Your+latest+St.+Charles+market+update.mp4</guid>
+        <description>
+
+There is great news in the St. Charles market right now for both buyers and sellers.
+
+If you’re selling, all the leading indicators point to an improved market. If you’re buying, the market also looks very attractive. In St. Charles, we offer homes of quality construction, beautiful floor plans, and excellent condition all at unbeatable values.
+
+“It’s a great time to be both a buyer and a seller.”
+
+Although the market’s improving for sellers, there’s still an exceptional opportunity to buy before we see large-scale appreciation. Here are the latest year-over-year statistics:
+
+
+  The average sale has increased by 2.2%.
+  The average days from listing to contract has decreased 11.2%.
+  Inventory has decreased 9.8%.
+  The number of homes for sale has decreased by 8.2%.
+  The number of closed sales has increased by 3.5%
+
+
+In summary, more homes are selling in a shorter period of time for a higher average sale price. Inventory levels are also decreasing.
+
+These statistics can vary depending on your neighborhood and price range, so if you’d like to know what your home is worth in today’s market or how well your neighborhood is selling, don’t hesitate to get in touch with me. I would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Your+latest+St.+Charles+market+update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+Your+latest+St.+Charles+market+update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There is great news in the St. Charles market right now for both buyers and sellers.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>There is great news in the St. Charles market right now for both buyers and sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Do Buyers and Sellers Need to Know About Appraisals?</title>
+        <link>http://thekohlergroupblog.com/what-do-buyers-and-sellers-need-to-know-about-appraisals.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-08-16 05:12:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+What+you+must+know+about+appraisals.mp4</guid>
+        <description>
+
+Here are some key things you need to know about appraisals and how the appraisal process works.
+
+The cost of an appraisal in our area is typically $500 to $600 and is usually paid for by the homebuyer at loan inception after the purchase contract has been executed. Appraisal fees vary depending on the location of the property and the complexity of the appraisal process. The cost is also driven somewhat by market demand, as with any other service.
+
+Appraisers are selected by the mortgage lenders, and those lenders are bound to strict regulation when making their selection. Most lenders will use an appraisal management company to order and coordinate their appraisals. You may want to ask your specific lender how they select an appraiser.
+
+“If a low appraisal happens, you can renegotiate or get a second opinion.”
+
+Appraisers are not immune to the fact that the buyer and seller are counting on the home to appraise at the agreed-upon value. However, they can’t base an appraisal on the sales price. They have to use the most recent sold comparisons within the closest range of the home. Their work is then submitted to the bank’s underwriters who also review that data and must give a final approval of the appraisal.
+
+Low appraisals can and do happen. If this happens, you can renegotiate or get a second opinion in some cases, which is called a value appeal.
+
+To save on the cost of a home appraisal, when you’re selecting a mortgage lender, ask them what the cost will be for the appraisal so you know before you apply. Compare with other lenders and confirm you’re receiving the market rate for the appraisal.
+
+If you have any questions about appraisals or any other real estate topic, please don’t hesitate to call or email me today. I would be happy to be of service to you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+What+you+must+know+about+appraisals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+What+you+must+know+about+appraisals.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are some key things you need to know about appraisals and how the appraisal process works.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>Here are some key things you need to know about appraisals and how the appraisal process works.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Survive in Your Home When It Is for Sale</title>
+        <link>http://thekohlergroupblog.com/how-to-survive-in-your-home-when-it-is-for-sale.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-08-07 10:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+to+Survive+in+Your+Home+When+It+Is+for+Sale.mp4</guid>
+        <description>
+
+How do you live in a home you’ve already listed for sale? Follow these five tips:
+
+1. Start packing now. The secret to getting a house clutter-free is to remove the things you can live without while the home is on the market. For example, remove seasonal clothes from your closets. This will give them the appearance of being spacious. Also, straighten your clothes in your closets, as this will give the impression of a neat home with generous space.
+
+2. Store it, sell it, throw it out, or donate it. Doing this won’t just give you a head start on moving—buyers appreciate the extra space when searching for homes.
+
+3. Get squeaky-clean. A clean house can gain you $5,000 to $10,000 on your home sale. Aim for five-star hotel perfection when cleaning sinks, glass, mirrors, windows, and toilets. Details do matter. It’s all about the feeling when a buyer is selecting a home. Let them feel impressed—this will translate into them writing an offer quicker and for more money.
+
+“A clean house can gain you $5,000 to $10,000 on your home sale.”
+
+4. Maintain your privacy and safety. Protect your valuables and the things that are important to you. Put them away, and when in doubt, lock them up.
+
+5. Hire a real estate stylist. Real estate stylists are essential when your home is for sale, so ask your agent to recommend one. They help with furniture placement and can help confirm that a home is best prepared for showings. We have found that a furnished home sells faster. Ask your agent or stylist for recommendations on renting furniture if needed.
+
+If you have any questions about this topic or how I can help you capitalize on our market, don’t hesitate to call or email me. I’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+to+Survive+in+Your+Home+When+It+Is+for+Sale.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+to+Survive+in+Your+Home+When+It+Is+for+Sale.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How do you live in a home you’ve already listed for sale? Follow these five tips:</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>How do you live in a home you’ve already listed for sale? Follow these five tips:</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How To Obtain Top Dollar When Selling Your Home</title>
+        <link>http://thekohlergroupblog.com/how-to-obtain-top-dollar-when-selling-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-07-21 05:20:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+To+Obtain+Top+Dollar+When+Selling+Your+Home.mp4</guid>
+        <description>
+
+In order to get top dollar in today’s marketplace, there are a few simple steps you can take.
+
+One of the first and best ways to obtain top dollar is by hiring and working with a top-producing agent. Working with a quality real estate agent who specializes in the market in which you are selling is key.
+
+You need to hire an agent with a proven track record and a reputation for success. To be sure of this, interview the agent. Watch and listen carefully to see what kind of sales skills they apply during the conversation.
+
+These same skills are the ones they’ll bring to the table when they help sell your home. Powerful negotiation skills are a great indicator that they will do a great job.
+
+However, selling your home for top dollar will take more than simply a great agent. Your stylist and agent may make suggestions during the process on how to improve your home. If either of them suggest repairs or aesthetic changes, be open to doing them.
+
+Some common improvements that are done to homes before they’re sold include making them depersonalized and also maximizing their space. Buyers will want an open, neutral slate when they view your home.
+
+Sanitizing, cleaning, and modernizing the home will also make a difference.
+
+“Working with a quality agent is key.”
+
+Although you are striving for top dollar, you need to be realistic about what that number can be. Your agent will provide you with a comparative market analysis, which will show you the correct price range in which to list your home.
+
+Another tip is to make sure that your agent approaches the transaction with a very specific and proactive mindset. One of the first things they should do is market your home online using professional photographs. Next, the right client will have the skills and knowledge to undertake a massive networking campaign to promote your home.
+
+This campaign begins with your agent getting into contact with other top agents, relocation companies, their own database, and anyone else within their sphere of influence in order to find the right buyer for your home.
+
+With a market that changes daily, this step is imperative to making your home visible and to getting it sold.
+
+A good agent will also be honest with you when providing feedback. A top agent will relay information from the buyers to you exactly as it was originally stated. Not only that, they will also be able to provide you with solutions to any given objections or obstacles that appear. You should always be receptive to your agent’s feedback.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you, soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+To+Obtain+Top+Dollar+When+Selling+Your+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+How+To+Obtain+Top+Dollar+When+Selling+Your+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In order to get top dollar in today’s marketplace, there are a few simple steps you can take.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>In order to get top dollar in today’s marketplace, there are a few simple steps you can take.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What's the Latest From the St. Charles Real Estate Market?</title>
+        <link>http://thekohlergroupblog.com/whats-the-latest-from-the-st-charles-real-estate-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2017-06-29 05:57:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+The+current+state+of+the+St.+Charles+market.mp4</guid>
+        <description>
+
+What’s been going on in the market here in the St. Charles area?
+
+There are currently 482 homes actively for sale, 211 are under contract, and 506 total homes have closed in the last six months. With these market conditions in mind, there is some great news for home sellers. When your house is staged and priced correctly, it will sell for top dollar.
+
+From a technical perspective, we know that the current market absorption rate is about eight months, which favors homebuyers. That means if no new houses came on the market, it would take a full eight months to sell all the currently available homes for sale at the present pace.
+
+“Current conditions provide an incredible opportunity for savvy homebuyers and sellers alike.”
+
+The current market conditions provide an incredible opportunity for the savvy homebuyer as well as the savvy seller since we’re near this equilibrium point of housing inventory levels. That’s why it’s so important to list and/or buy your house with a top producing agent.
+
+Interest rates are another key factor in the marketplace. The Federal Reserve recently increased the short-term interest rate about 0.25%, which was actually anticipated by the market, so mortgage interest rates have actually dipped just below 4% for the average 30-year fixed rate mortgage.
+
+With these conditions, having the right Realtor in your corner can make all the difference in the world when buying and/or selling real estate.
+
+If you’d like to learn more specifics about our market or you’re planning on making a move, give me a call or send me an email soon. I’d love to help you get the most out of this market.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+The+current+state+of+the+St.+Charles+market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Kari+Kohler/The+Kohler+Group-+The+current+state+of+the+St.+Charles+market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What's been going on in the market here in the St. Charles area?</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>What's been going on in the market here in the St. Charles area?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

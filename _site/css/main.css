@@ -1603,14 +1603,14 @@ label.tree-toggle {
 
 .site-logo {
   width: 90%;
-  max-width: 60rem;
-  padding: 5rem;
-  -webkit-filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.35));
-  filter: drop-shadow(0px 2px 7px rgba(0, 0, 0, 0.35)); }
+  max-width: 30rem;
+  padding-bottom: 5rem;
+  -webkit-filter: drop-shadow(0px 2px 7px black);
+  filter: drop-shadow(0px 2px 7px black); }
 
 .site-title {
   color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.35);
+  text-shadow: 0px 2px 7px black;
   text-transform: uppercase;
   font-size: 6.5rem;
   padding-bottom: 4rem;
@@ -2056,7 +2056,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.35); }
+  text-shadow: 0px 2px 7px black; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2071,7 +2071,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.35);
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2082,7 +2082,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px rgba(0, 0, 0, 0.35);
+  text-shadow: 0px 2px 7px black;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2478,6 +2478,19 @@ table tr, table td {
 
 .contact-text {
   margin: auto; }
+
+.team-container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0px 10px 40px;
+  font-size: 18px;
+  text-align: center; }
+  .team-container div {
+    display: inline-block; }
 
 .footer {
   background: #989898;
@@ -2949,3 +2962,53 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_asterix {
+  color: #004990 !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #004990;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #004990;
+  Border: 1px solid #004990; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
