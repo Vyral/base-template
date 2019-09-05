@@ -21,7 +21,7 @@ youtube_code: NaarhFjLxfo
 
 {% include youtube.html %}
 
-Should you sell your home on your own, aka “For Sale By Owner”? Stay tuned to find out.
+<p style="text-align:center;"><em>Should you sell your home on your own, aka “For Sale By Owner”? Stay tuned to find out.</em></p>
 
 Why would you want to sell your home on your own? In our industry, there are a few top answers that homeowners give to this question:
 
