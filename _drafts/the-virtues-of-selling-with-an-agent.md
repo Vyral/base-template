@@ -25,8 +25,6 @@ Should you sell your home on your own, aka “For Sale By Owner”? Stay tuned t
 
 Why would you want to sell your home on your own? In our industry, there are a few top answers that homeowners give to this question:
 
-&nbsp;
-
 * They want to avoid commission fees
 * They don’t see the value in using an agent
 * They’ve had a terrible past experience with an agent
