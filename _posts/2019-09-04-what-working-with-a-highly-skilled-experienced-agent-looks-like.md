@@ -19,7 +19,7 @@ youtube_code: FdSrj1KsFos
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Realizing success in your home sale or purchase starts with who you hire as you’ll learn from today’s video.</em></p>
+<p style="text-align:center;"><em>Realizing success in your home sale or purchase starts with who you hire, as you’ll learn from today’s video.</em></p>
 
 My good friends Van and Bonnie invited me back on their podcast show to discuss the importance of hiring an agent you can trust and who will deliver results when it comes to your buying and selling needs. A professional agent will always work to put your interests first and will go above and beyond in ways the standard agent won’t. &nbsp;
 
