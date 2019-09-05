@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Virtues of Selling With an Agent
-date: 2019-09-05 19:32:42
+date: 2019-09-05 19:32:00
 tags:
   - Home Seller Tips
 excerpt: >-
