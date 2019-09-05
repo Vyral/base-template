@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does the Franklin County Appraisal Process Look Like?
-date: 2019-09-05 21:14:59
+date: 2019-09-05 21:14:00
 tags:
 excerpt: I’m here to demystify the Franklin County appraisal process for you today.
 enclosure:
