@@ -34,9 +34,9 @@ You, as a seller, might think that you’re looking for buyers to purchase your 
 
 So, forget the buyers: How do you find the agents?
 
-1. *Offer competitive compensation.The last thing an agent wants to do is bring a buyer to your property when you’re offering just 1%, or even significantly less than what they’re used to.&nbsp; *
-2. Market to the agents. Hop onto Zillow to see who the top agents in your area are and contact them. I can’t tell you how many times sellers will reach out to me and tell me that they’re selling their home on their own, but still want me to come show their property to our buyers. And so what do we do in those cases? We do bring them buyers if their listing is a good match.
-3. Do more than just list on the MLS. If you think that simply putting your home on the MLS is going to solve all your real estate agent problems, it’s not. Around 8,000 homes are listed for sale on the MLS, and no agent can possibly know them all. That’s why it is key to get in front of the top agents in your area to help you market your property.
+<ol><li>**Offer competitive compensation.**The last thing an agent wants to do is bring a buyer to your property when you’re offering just 1%, or even significantly less than what they’re used to.</li>
+<li>**Market to the agents.** Hop onto Zillow to see who the top agents in your area are and contact them. I can’t tell you how many times sellers will reach out to me and tell me that they’re selling their home on their own, but still want me to come show their property to our buyers. And so what do we do in those cases? We do bring them buyers if their listing is a good match.</li>
+<li>**Do more than just list on the MLS.** If you think that simply putting your home on the MLS is going to solve all your real estate agent problems, it’s not. Around 8,000 homes are listed for sale on the MLS, and no agent can possibly know them all. That’s why it is key to get in front of the top agents in your area to help you market your property.</li></ol>
 
 Laura Payne, also from the Caul Group, has her own perspective on “For Sale By Owner” sellers (aka “FSBOs”):
 
