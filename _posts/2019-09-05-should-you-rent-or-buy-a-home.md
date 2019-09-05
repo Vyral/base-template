@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Rent or Buy a Home?
-date: 2019-09-05 18:52:27
+date: 2019-09-05 18:52:00
 tags:
   - Home Buyer Tips
 excerpt: >-
