@@ -5,7 +5,7 @@ date: 2019-09-04 20:21:00
 tags:
   - Real Estate
 excerpt: >-
-  Realizing success in your home sale or purchase starts with who you hire as
+  Realizing success in your home sale or purchase starts with who you hire, as
   you’ll learn from today’s video.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Working+With+a+Highly+Skilled%2C+Experienced+Agent+Looks+Like.mp4
