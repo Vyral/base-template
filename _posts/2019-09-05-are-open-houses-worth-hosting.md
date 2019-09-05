@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Open Houses Worth Hosting?
-date:
+date: 2019-09-05 18:37:52
 tags:
   - Home Seller Tips
 excerpt: Should sellers still host open houses? Let’s explore this question today.
