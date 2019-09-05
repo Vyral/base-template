@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chia-tips-and-tricks-to-find-your-dream-home-faster-youtube.png
-youtube_code: Jcv6wZ8NPyk
+youtube_code: kcSYZ-IMlig
 ---
 
 {% include youtube.html %}
