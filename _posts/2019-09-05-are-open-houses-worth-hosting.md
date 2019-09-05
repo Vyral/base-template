@@ -17,6 +17,6 @@ youtube_code: SMFZQkJaxL0
 
 {% include youtube.html %}
 
-Should sellers still host open houses? Let’s explore this question today.
+<p style="text-align:center;"><em>Should sellers still host open houses? Let’s explore this question today.</em></p>
 
 In today’s digital age, many sellers are no longer sure whether open houses are worth hosting. However, in my professional opinion, open houses are the No. 1 source of advertising a listing can have. Open houses are a low-pressure alternative to one-on-one showings. Not only that, but open houses also generate a lot of foot traffic and allow buyers to simultaneously see the home and their competition in person. This helps boost demand for your home. The bottom line is yes: Open houses are still a great marketing tool. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
