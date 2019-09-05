@@ -19,7 +19,7 @@ youtube_code: fXylc70GwuE
 
 {% include youtube.html %}
 
-*The Louisville real estate market is being driven by one key factor right now. Here’s what I’m talking about.*
+<p style="text-align:center;"><em>The Louisville real estate market is being driven by one key factor right now. Here’s what I’m talking about.</em></p>
 
 Before I tell you all about our recent client appreciation party out at Slugger Field, I wanted to give you a quick update on the Louisville real estate market.
 
