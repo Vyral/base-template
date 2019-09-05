@@ -34,7 +34,7 @@ The increasing number of people they noticed benefiting from their services open
 
 When asked what they’re most excited about for the future, the pair say their excitement is building over the rollout of some new technological tools that will facilitate better communication with present and past clients, while also allowing them to reach new people. They have a simple message they want to spread to a larger audience: **“We want to help people move better, feel better, and live better.”** &nbsp;
 
-Not only are Steve, Brian, and the rest of the Cardin & Miller PT staff helping me recover from some shoulder issues I’ve had, they’ve also contributed to creating a &nbsp;better quality of life for my friends, family, and our real estate team’s videographer\!&nbsp;
+Not only are Steve, Brian, and the rest of the Cardin & Miller PT staff helping me recover from some shoulder issues I’ve had, but they’ve also contributed to creating a better quality of life for my friends, family, and our real estate team’s videographer\!&nbsp;
 
 There you have it: Another local business that’s making a huge difference in the lives of so many members of our local community. We’re very grateful Steve Miller and Brian Cardin took some time to sit down and share their story with us. It was a privilege to make them our latest Brand Ambassador feature. &nbsp;
 
