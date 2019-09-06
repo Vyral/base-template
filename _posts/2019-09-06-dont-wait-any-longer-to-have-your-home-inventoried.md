@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Wait Any Longer to Have Your Home Inventoried
-date: 2019-09-30 20:40:00
+date: 2019-09-06 00:00:00
 tags:
   - Real Estate
 excerpt: >-
