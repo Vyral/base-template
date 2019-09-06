@@ -27,7 +27,7 @@ First-time homebuyers often ask whether it’s better to buy a resale property o
 
 00:08 - Introducing today’s topic
 
-00:42 - The upfront costs of each type of purchase
+00:42 - The up-front costs of each type of purchase
 
 02:51 - The importance of working with an agent through any home purchase
 
@@ -37,7 +37,7 @@ First-time homebuyers often ask whether it’s better to buy a resale property o
 
 05:14 - How issues that arise after closing can be handled
 
-06:07 - How to make a home more energy efficient
+06:07 - How to make a home more energy-efficient
 
 07:50 - What new construction negotiations are like
 
