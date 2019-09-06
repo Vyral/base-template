@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 3 Factors to Remember When Analyzing Investment Properties
-date: 2019-09-04 17:42:03
+date: 2019-09-04 17:42:00
 tags:
 excerpt: >-
   How do you separate a good real estate investment from a bad one? Give careful
   consideration to these three factors.
-enclosure: 3 factors to be mindful of when analyzing investment properties
+enclosure: >-
+  s3://vyralmarketing/3 Factors to Remember When Analyzing Investment
+  Properties.mp4
 pullquote: >-
   Real estate is one of those assets that appreciates each year, yet it
   depreciates in the eyes of the tax law.
