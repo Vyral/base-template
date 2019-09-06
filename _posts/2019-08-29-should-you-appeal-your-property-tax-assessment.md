@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you feel that your property taxes are too high, you can always appeal them.
   Here’s how to do it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Should+You+Appeal+Your+Property+Tax+Assessment_.mp4
 pullquote: 'If you don’t like their initial response, you can appeal the process again.'
 enclosure_type: video/mp4
 enclosure_time:
