@@ -31,7 +31,7 @@ Additionally, **homeownership allows you to write the property off your taxes.**
 
 {% include pullquote.html %}
 
-Someone who pays $1,500 a month in rent will, in five year’s time, have paid $90,000 to their landlord. If you buy a $200,000 home instead, you could begin building equity over those five years—about $30,000, assuming even a low appreciation rate (**over the last few years, we’ve seen upwards of 6% to 9% appreciation rates\!**).
+Someone who pays $1,500 a month in rent will, in five years' time, have paid $90,000 to their landlord. If you buy a $200,000 home instead, you could begin building equity over those five years—about $30,000, assuming even a low appreciation rate (**over the last few years, we’ve seen upwards of 6% to 9% appreciation rates\!**).
 
 So overall, homeownership is a great way to start saving and putting money into an appreciating asset. Plus, having a safe place to come home to at night is no small thing for you and your family.
 
