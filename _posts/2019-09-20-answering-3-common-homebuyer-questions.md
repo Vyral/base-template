@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Answering 3 Common Homebuyer Questions
-date: 2019-08-29 00:00:00
+date: 2019-09-20 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
