@@ -5,8 +5,8 @@ date:
 tags:
   - Home Buyer Tips
 excerpt: >-
-  When in doubt, give me a call so we can have a conversation about the best use
-  of your funds.
+  Unless you’re using a USDA or VA loan, you’ll always have a minimum down
+  payment to make.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Wade+Betz/Whats+the+Minimum+Down+Payment+You+Should+Expect+to+Make_.mp4
 pullquote: >-
@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: g7FZYIeDa7M
+youtube_code: 5S5A2dHKGG0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.</em></p>
+*Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.*
 
 What’s the minimum down payment needed to purchase a home?&nbsp;
 
