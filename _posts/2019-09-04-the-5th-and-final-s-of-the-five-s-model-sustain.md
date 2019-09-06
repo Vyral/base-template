@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/bGZSHKvER2M'
 
 It’s finally time to explore the fifth and final “S” of the Five-S model of customer experience: Sustain. At this point, you’ve set expectations, kept your clients updated along the way, you’ve surprised and delighted throughout the transaction, and now it’s over. **Once you’ve done all of this, now it’s time to sustain the relationship in order to create a client for life.&nbsp;**
 
-You need to make them feel special, but it doesn’t require a ton of effort or planning. **First off, make sure you call them a few days after closing to thank them for allowing you to help them.** This is also a surprise and a nice thing to do. It’s not a call for a referral, it’s purely a gratitude phone call.
+You need to make them feel special, but it doesn’t require a ton of effort or planning. **First off, make sure you call them a few days after closing to thank them for allowing you to help them.** This is also a surprise and a nice thing to do. It’s not a call for a referral; it’s purely a gratitude phone call.
 
 **To properly sustain a relationship, you have to have a touch program in place.** If it’s already built out on your calendar, you won’t forget to keep those who are most important to you in the loop.&nbsp;
 
