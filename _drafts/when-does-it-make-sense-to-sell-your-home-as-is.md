@@ -19,7 +19,7 @@ youtube_code: gkAOQj9XGYM
 
 {% include youtube.html %}
 
-Marketing your home as is can deter buyers, and today give greater insight into why this is.
+<center>Marketing your home as is can deter buyers, and today give greater insight into why this is.</center>
 
 Is it ever a good idea to sell your home as is?
 
