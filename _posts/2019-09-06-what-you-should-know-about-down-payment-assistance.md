@@ -21,7 +21,7 @@ youtube_code: g7FZYIeDa7M
 
 {% include youtube.html %}
 
-Down payment assistance is more accessible than some might assume, but is it worth using? Let’s discuss.
+<p style="text-align:center;"><em>Down payment assistance is more accessible than some might assume, but is it worth using? Let’s discuss.</em></p>
 
 People ask us from time to time if we offer any down payment assistance programs. To give you a short answer: Yes, every state offers some form of down payment assistance for qualifying homebuyers. Also, while there are first-time homebuyer programs available, **you don’t have to be a first-time homebuyer to receive down payment assistance, in general.&nbsp;**
 
