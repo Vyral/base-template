@@ -1,18 +1,19 @@
 ---
 layout: post
 title: 'The Key to Personal, Professional, or Financial Success'
-date: 2019-09-09 20:52:54
+date: 2019-09-09 20:52:00
 tags:
 excerpt: >-
   A lot of great things have happened in our market and in my life lately, and,
   in today’s message, I want to explain how you can find similar success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/The+Key+to+Personal%2C+Professional%2C+or+Financial+Success.mp4
 pullquote: Success in any form takes time.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Rd18JO4EQk4
 ---
 
 {% include youtube.html %}
