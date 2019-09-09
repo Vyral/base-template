@@ -21,7 +21,7 @@ youtube_code: vi0WVWg6YMg
 
 {% include youtube.html %}
 
-If you’re wondering how much you should offer for a home, here’s a quick checklist of factors to take into account that will help you come up with a definitive number:&nbsp;
+If you’re wondering how much you should offer for a home, here’s a quick checklist of points to take into account that will help you come up with a definitive number:&nbsp;
 
 **1\. What the comps say.** Everyone should have an opinion of what a property is worth, and any offer should have some math behind it.
 
