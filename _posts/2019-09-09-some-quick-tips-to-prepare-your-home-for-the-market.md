@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some Quick Tips to Prepare Your Home for the Market
-date: 2019-09-09 16:26:21
+date: 2019-09-09 16:26:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -10,8 +10,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/readyyt.jpg
 youtube_code: TAIi--HOvQ4
 ---
 
