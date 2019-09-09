@@ -1,19 +1,27 @@
 ---
 layout: post
-title:
+title: A Warning About the Renter Scam Sweeping the Nation
 date:
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+excerpt: >-
+  There’s an online scam that’s becoming increasingly prevalent in markets
+  nationwide. Here’s what to watch out for.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Majka/A+Warning+About+the+Renter+Scam+Sweeping+the+Nation.mp4
+pullquote: >-
+  If you see a property for rent and the rent seems too good to be true, that’s
+  good cause to be suspicious.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: v4whJ00J9yI
 ---
 
 {% include youtube.html %}
+
+There’s an online scam that’s becoming increasingly prevalent in markets nationwide. Here’s what to watch out for.
 
 Here in our Southern California market, and also nationwide, there’s a very particular scam that’s gaining traction. Today I’ll tell you what you need to look out for so that you can protect yourself and those you know from becoming a victim.
 
