@@ -21,7 +21,7 @@ youtube_code: 6aC4CmtaC50
 
 {% include youtube.html %}
 
-*How do the benefits of owning a home compare to those of renting a home in our market? Find out here.*
+<p style="text-align:center;"><em>How do the benefits of owning a home compare to those of renting a home in our market? Find out here.</em></p>
 
 Today I’m joined by Justin Allender from Success Mortgage Partners to discuss the benefits of homeownership compared to renting a home.&nbsp;
 
