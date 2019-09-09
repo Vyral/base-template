@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Things to Know About Buying a Fixer-Upper
-date: 2019-09-09 14:45:08
+date: 2019-09-09 14:45:00
 tags:
 excerpt: >-
   Buying a fixer-upper is more and more common these days. Here are a few tips
