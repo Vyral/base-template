@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Warning About the Renter Scam Sweeping the Nation
-date: 2019-09-09 19:55:10
+date: 2019-09-09 19:55:00
 tags:
   - Real Estate
 excerpt: >-
