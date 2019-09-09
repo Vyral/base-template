@@ -21,13 +21,13 @@ youtube_code: 6aC4CmtaC50
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How do the benefits of owning a home compare to those of renting a home in our market? Find out here.</em></p>
+*How do the benefits of owning a home compare to those of renting a home in our market? Find out here.*
 
 Today I’m joined by Justin Allender from Success Mortgage Partners to discuss the benefits of homeownership compared to renting a home.&nbsp;
 
 According to Justin, one of the biggest benefits of owning your own home is that **you’re locking in your rent payment for the next 30 years.** Often, landlords continue to raise rents each year, sometimes making rent payments hard to budget. Having a fixed payment means that you can plan your finances around your monthly mortgage payment.
 
-Additionally, **homeownership allows you to write the property off your taxes.** Of course, it’s wise to speak with your accountant or CPA to learn about this in more detail, but many have taken advantage of the tax benefits of owning a home.
+Additionally, **when you own a home you can write off the property taxes and the interest on your tax returns.** Of course, it’s wise to speak with your accountant or CPA to learn about this in more detail, but many have taken advantage of the tax benefits of owning a home.
 
 {% include pullquote.html %}
 
