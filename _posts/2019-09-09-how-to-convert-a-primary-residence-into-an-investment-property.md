@@ -21,7 +21,7 @@ youtube_code: TzNGb1vKER8
 
 {% include youtube.html %}
 
-*Many people are curious about what it takes to convert a primary residence into a rental, so today we’ll get to the bottom of this common question.*
+<p style="text-align:center;"><em>Many people are curious about what it takes to convert a primary residence into a rental, so today we’ll get to the bottom of this common question.</em></p>
 
 People often ask us whether they can convert their current residence into an investment property after they buy their next home, so let’s get to the bottom of this question today.&nbsp;
 
