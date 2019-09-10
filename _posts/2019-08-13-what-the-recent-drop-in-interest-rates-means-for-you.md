@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/f47GwVLBDt4'
 
 {% include youtube.html %}
 
-*Interest rates are as low as they’ve been in a while, and that’s good news whether you’re a buyer or seller.*
+<p style="text-align: center;"><em>Interest rates are as low as they’ve been in a while, and that’s good news whether you’re a buyer or seller.</em></p>
 
 Today I’m happy to deliver some exciting news: Interest rates have dropped significantly once again, putting them below the 4% mark\! What does this mean for you and your goals? Well, as rates continue to decrease, buyers have the opportunity to enjoy increased purchasing power, a shorter repayment period, or a smaller mortgage payment.
 
