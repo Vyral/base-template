@@ -17,7 +17,7 @@ youtube_code: 3eyJsIQcDs0
 
 {% include youtube.html %}
 
-Everybody has their wish list of what they want in their home, but it may be difficult to find exactly what you’re looking for. If you’re considering buying a fixer-upper, here are some tips to help you find what you want.
+Everybody has their wish list of what they want in their home, but it may be difficult to find exactly what you’re looking for. One way to ensure your home has everything you want is by buying a fixer-upper and customizing it to your specific preferences. If you’re considering buying a fixer-upper, here are some tips to help you find what you want.
 
 **Start by figuring out your time frame and budget.** Check out home improvement stores and talk with local experts to figure out the right pricing for your projects. It’s also a good idea to take note of the condition of all the main systems and features of your home.&nbsp;
 
