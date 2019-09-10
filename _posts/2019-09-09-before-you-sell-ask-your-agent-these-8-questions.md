@@ -20,6 +20,8 @@ youtube_code: RhdfiZidO8o
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Before you sell your home, there are some key questions that you should be asking. Find out more here.</em></p>
+
 Whenever I talk with a potential home seller about their property, I’ll typically ask them right off the bat if they have any specific questions themselves. Often, they respond by saying they don’t really know what to ask. To ensure that you’re a more informed and well-represented home seller, today I’ll share some questions that will be very important for you to ask your agent when it comes time for you to list your own home.
 
 **1\. “What can I expect in terms of communication?”** Are you the type of person who only wants your agent to call you if you have an offer, or would you like regular updates from your agent? Also, be sure to ask how your agent plans to communicate buyer feedback to you.
