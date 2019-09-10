@@ -1,13 +1,14 @@
 ---
 layout: post
 title: What The Recent Drop in Interest Rates Means for You
-date: 2019-08-13 14:19:23
+date: 2019-08-13 14:19:00
 tags:
   - Market Update
 excerpt: >-
   Interest rates are as low as they’ve been in a while, and that’s good news
   whether you’re a buyer or seller.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Hauck/2019/What+The+Recent+Drop+in+Interest+Rates+Means+for+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 'https://youtu.be/f47GwVLBDt4'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Interest rates are as low as they’ve been in a while, and that’s good news whether you’re a buyer or seller.</em></p>
+*Interest rates are as low as they’ve been in a while, and that’s good news whether you’re a buyer or seller.*
 
 Today I’m happy to deliver some exciting news: Interest rates have dropped significantly once again, putting them below the 4% mark\! What does this mean for you and your goals? Well, as rates continue to decrease, buyers have the opportunity to enjoy increased purchasing power, a shorter repayment period, or a smaller mortgage payment.
 
