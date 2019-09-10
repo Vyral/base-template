@@ -6,8 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  Marketing your home as is can deter buyers, and today give greater insight
-  into why this is.
+  Marketing your home as is can deter buyers, and today we'll give greater
+  insight into why this is.
 enclosure:
 pullquote: Marketing your home as is can be a viable option.
 enclosure_type: video/mp4
@@ -19,7 +19,7 @@ youtube_code: gkAOQj9XGYM
 
 {% include youtube.html %}
 
-<center><em>Marketing your home as is can deter buyers, and today give greater insight into why this is.</em></center>
+<center><em>Marketing your home as is can deter buyers, and today we'll give greater insight into why this is.</em></center>
 
 &nbsp;
 
