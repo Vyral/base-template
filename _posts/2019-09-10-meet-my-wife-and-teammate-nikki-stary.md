@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   What does a listing coordinator do during a transaction? Today, the Stary
-  Group’s own Nikki Star joins us to explain.
+  Group’s own Nikki Stary joins us to explain.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+Nikki+Stary.mp4
 pullquote: Nikki handles all the ins and outs of the real estate process.
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/iEMtrtDtXgU'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What does a listing coordinator do during a transaction? Today, the Stary Group’s own Nikki Star joins us to explain.</em></p>
+<p style="text-align: center;"><em>What does a listing coordinator do during a transaction? Today, the Stary Group’s own Nikki Stary joins us to explain.</em></p>
 
 Today I’d like to introduce you to a very special guest: my wife and teammate, Nikki Stary. Nikki joined the Stary Group 12 months ago as a listing coordinator, and been thriving in this role ever since.&nbsp;
 
