@@ -1,7 +1,8 @@
 ---
 youtube_code: gbARJTLE0MQ
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Hauck/St.+Cloud+Real+Estate-+A+little+background+info+for+you.mp4
 pullquote: THIS BUSINESS EXCITES ME DAILY.
 enclosure_type: video/mp4
 enclosure_time:
@@ -9,20 +10,18 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How I Discovered My Calling in the Real Estate Business
-date: '2017-08-30T08:34:00.000-07:00'
+date: 2017-08-30 15:34:00
 author: Vyral Admin
 tags:
-- Questions
-modified_time: '2017-08-30T08:38:46.533-07:00'
-thumbnail: https://i.ytimg.com/vi/gbARJTLE0MQ/default.jpg
-blogger_id: tag:blogger.com,1999:blog-6216136162300091678.post-7940402895201880246
-blogger_orig_url: http://chrishauck.blogspot.com/2017/08/a-little-background-info-for-you.html
+modified_time:
+thumbnail: 'https://i.ytimg.com/vi/gbARJTLE0MQ/default.jpg'
+blogger_id: 'tag:blogger.com,1999:blog-6216136162300091678.post-7940402895201880246'
+blogger_orig_url: 'http://chrishauck.blogspot.com/2017/08/a-little-background-info-for-you.html'
 ---
-{% include youtube.html %}
-I recently received an email from a good friend of mine that had some great questions in it. They were so good, in fact, that I wanted to answer them for you today.
 
-**Looking to buy in St. Cloud?**  <a href="https://www.coldwellbankerhomes.com/minnesota/" target="_blank">Get a full home search</a><br>
-**Looking to sell in St Cloud?** <a href="https://www.coldwellbankerhomes.com/mn/saint-cloud/agent/christopher-chris-hauck/aid_36032/" target="_blank">Get a free Home Price Evaluation</a><br>
+{% include youtube.html %} I recently received an email from a good friend of mine that had some great questions in it. They were so good, in fact, that I wanted to answer them for you today.
+
+**Looking to buy in St. Cloud?** [Get a full home search](https://www.coldwellbankerhomes.com/minnesota/){: target="_blank"}<br>**Looking to sell in St Cloud?** [Get a free Home Price Evaluation](https://www.coldwellbankerhomes.com/mn/saint-cloud/agent/christopher-chris-hauck/aid_36032/){: target="_blank"}
 
 A friend of mine, Jim Mcallister, recently sent in an email that asked a bunch of questions about my career. I thought I’d answer them today so you all can get to know a little bit more about me too. **Here are Jim’s questions and my answers.**
 
