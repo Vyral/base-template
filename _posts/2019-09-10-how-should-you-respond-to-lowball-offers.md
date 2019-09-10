@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/72kujYWFn1Y'
 
 {% include youtube.html %}
 
-How should you respond if you receive a lowball offer on your home? Today I’ll share my advice.
+<p style="text-align: center;"><em>How should you respond if you receive a lowball offer on your home? Today I’ll share my advice.</em></p>
 
 You’re a home seller and you just received a lowball offer for your home—what do you do?
 
