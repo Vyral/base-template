@@ -30,7 +30,7 @@ Whenever I talk with a potential home seller about their property, I’ll typica
 
 **3\. “What type of buyer will I get?”** Having a grasp of what type of activity you can expect and from which demographics will help you to better market your home.&nbsp;
 
-**4\. “Should I stage my house?”** Staging can definitely help you sell your home, so be sure to ask their advice about whether you should repaint, recarpet, or do other projects to make your home shine before going to market.&nbsp;
+**4\. “Should I stage my house?”** Staging can definitely help you sell your home, so be sure to ask a professional home stager's advice about whether you should repaint, recarpet, or do other projects to make your home shine before going to market.&nbsp;
 
 {% include pullquote.html %}
 
