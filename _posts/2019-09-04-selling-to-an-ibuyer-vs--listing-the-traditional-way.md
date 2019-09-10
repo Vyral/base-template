@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you better off selling to an iBuyer or listing with a broker? The answer
   depends on your situation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2019/Selling+to+an+iBuyer+vs.+Listing+the+Traditional+Way.mp4
 pullquote: >-
   Regardless of your situation, I always recommend contacting a local real
   estate professional to get a second opinion.
