@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/iEMtrtDtXgU'
 
 <p style="text-align: center;"><em>What does a listing coordinator do during a transaction? Today, the Stary Group’s own Nikki Stary joins us to explain.</em></p>
 
-Today I’d like to introduce you to a very special guest: my wife and teammate, Nikki Stary. Nikki joined the Stary Group 12 months ago as a listing coordinator, and been thriving in this role ever since.&nbsp;
+Today I’d like to introduce you to a very special guest: my wife and teammate, Nikki Stary. Nikki joined the Stary Group 12 months ago as a listing coordinator, and has been thriving in this role ever since.&nbsp;
 
 **“My main goal as the listing coordinator for the Stary Group is to make sure my clients are informed, and \[to\] communicate with them at every step of the way.”** Essentially, from the time a home goes under contract until the time it closes, Nikki is the one handling all the ins and outs of the process. She is the client's main point of contact, as well as the person to whom various vendors and contractors will connect with throughout the transaction.&nbsp;
 
