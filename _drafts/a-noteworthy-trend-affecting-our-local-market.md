@@ -19,7 +19,7 @@ youtube_code: JvWXa3z_A7Y
 
 {% include youtube.html %}
 
-Buyers from across the country are migrating over to our area, and it’s impacting buyers and sellers in different ways.
+<center>Buyers from across the country are migrating over to our area, and it’s impacting buyers and sellers in different ways.</center>
 
 “What’s the latest news regarding our Metro Phoenix market?” That question has come up a lot lately, so today we’ll take a look at the numbers.
 
