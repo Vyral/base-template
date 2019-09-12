@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Find the Help You Need With Our 5-Star Referral Center
-date: 2019-06-10 16:16:27
+date: 2019-06-10 16:16:00
 tags:
-  - Referral Center
 excerpt: >-
   Our 5-Star Referral Center has so much to offer, and we’ll explain what you
   can expect from it in this quick message.
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Peo0eNQENM0
+youtube_code: S_YrnyRTsOU
 ---
 
 {% include youtube.html %}
@@ -29,6 +28,6 @@ Have you ever worked with a great business only to forget their name? Or perhaps
 
 Every person, business, and vendor in our Referral Center has been thoroughly vetted, so you can be confident in the results you’ll receive. Better still, if you or anyone you know has a business you believe should be included among this list, let us know. We trust your judgment and would be happy to consider your referral.&nbsp;
 
-**To browse this one-stop catalog of the best and brightest local businesses, simply visit** **[https://petersonteam.5starreferralcenter.com/Landing.aspx](https://petersonteam.5starreferralcenter.com/Landing.aspx).**
+**To browse this one-stop catalog of the best and brightest local businesses, simply visit [https://memphis.5starreferralcenter.com/Landing.aspx](https://memphis.5starreferralcenter.com/Landing.aspx) or [https://navy.5starreferralcenter.com/Landing.aspx&nbsp;](https://navy.5starreferralcenter.com/Landing.aspx)**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.<br>&nbsp;
