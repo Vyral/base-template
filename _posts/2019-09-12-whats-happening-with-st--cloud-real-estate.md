@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/KrKmz6PBBh0'
 
 {% include youtube.html %}
 
-It’s fall here in St. Cloud, but our real estate market remains hot. Here are the latest numbers.
+<p style="text-align: center;"><em>It’s fall here in St. Cloud, but our real estate market remains hot. Here are the latest numbers.</em></p>
 
 Now that summer is behind us, it’s back-to-school time. Since the fall has arrived, I wanted to bring you a quick update on the St. Cloud real estate market. I have some really great news.
 
