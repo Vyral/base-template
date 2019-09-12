@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Marketing your home as is can deter buyers, and today we'll give greater
   insight into why this is.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/When+Does+It+Make+Sense+to+Sell+Your+Home+As+Is_.mp4
 pullquote: Marketing your home as is can be a viable option.
 enclosure_type: video/mp4
 enclosure_time:
