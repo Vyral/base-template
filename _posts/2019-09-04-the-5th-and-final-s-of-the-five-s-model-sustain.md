@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The final “S” of the Five-S model of customer experience is “sustain.” Here’s
   why it might be the most important one.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/The+5th+and+Final+S+of+the+Five-S+Model-+Sustain+(2).mp4
 pullquote: You have to have a touch program in place.
 enclosure_type: video/mp4
 enclosure_time:
