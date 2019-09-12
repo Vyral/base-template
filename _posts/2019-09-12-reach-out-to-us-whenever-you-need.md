@@ -18,7 +18,9 @@ youtube_code: 6ULtWrCDsUs
 
 {% include youtube.html %}
 
-<center>Despite how busy our team may be, we will never be too busy for you.</center>
+<center><em>Despite how busy our team may be, we will never be too busy for you.</em></center>
+
+&nbsp;
 
 People often tell us that, instead of coming to us with what they consider a “small” question, they opted to research the answer themselves through sources like Zillow. While we certainly encourage the pursuit of knowledge, we want to let you know that we’re never too busy to help you with anything you need: big or small.
 
