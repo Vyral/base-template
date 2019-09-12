@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/U9dHe4Ocsrc'
 
 {% include youtube.html %}
 
-The basis of our team’s success is our second-to-none training. Today, allow me to share the three key areas this training focuses on.
+<p style="text-align: center;"><em>The basis of our team’s success is our second-to-none training. Today, allow me to share the three key areas this training focuses on.</em></p>
 
 Our team enjoys a lot of great benefits, but this is only possible because of the high standards we hold ourselves to. Unlike some other teams, agents with us are expected to sell 30+ homes a year. The good news? Our training is specifically geared toward helping agents achieve this goal, and it’s all because we focus on three key things:
 
