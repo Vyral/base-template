@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Having issues selling a home that needs some work? I have a solution.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/Are+You+a+Seller+With+a+Home+In+Need+of+Some+TLC_+(1).mp4
 pullquote: >-
   We have a whole database for flippers, investors, and clients looking for an
   affordable home to fix up and resell.
