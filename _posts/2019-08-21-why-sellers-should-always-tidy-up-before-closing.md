@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   No buyer wants to move into a dirty home, so sellers must always remember to
   tidy up before closing day arrives.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/For+database-+reminder+to+leave+house+clean_Final+(1).mp4
 pullquote: >-
   The last thing any buyer wants is to find their new home in a state of
   disarray when moving day arrives.
