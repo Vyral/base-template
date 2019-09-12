@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Benefits the BRA Provides to Both You and Your Clients
-date:
+date: 2019-09-12 18:17:02
 tags:
 excerpt: >-
   Why do you need to present the Buyer Representation Agreement to your buyer
