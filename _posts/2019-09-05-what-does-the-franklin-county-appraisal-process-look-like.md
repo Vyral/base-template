@@ -29,4 +29,4 @@ Given that the Triennial Update is just around the corner, it might be a good id
 
 **If you don’t agree with the county’s adjustment of your home’s value, there’s a process by which you can contest the findings.** As it happens, I’m familiar with the paperwork because I’ve personally been through the process, so if you’d like some assistance, I’d be more than happy to help. &nbsp;
 
-If you have any questions or would like some help filing a property value complaint with the Franklin County Board of Revision, please give me a call at 614-323-4348, email me at DonaldPayne@VisionRealty.com, or visit me online at VisionRealty.com. I look forward to hearing from you\!&nbsp;<br>&nbsp;
+If you have any questions or would like some help filing a property value complaint with the Franklin County Board of Revision, please give me a call at 614-323-4348, email me at DonaldPayne@VisionRealty.com, or visit me online at [VisionRealty.com](VisionRealty.com){: target="_blank"}. I look forward to hearing from you\!&nbsp;<br>&nbsp;
