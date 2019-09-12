@@ -18,4 +18,4 @@ youtube_code: 9OYipvuTpO8
 
 {% include youtube.html %}
 
-Most home sellers are also homebuyers. Because of this, the inevitable dilemma of which transaction to complete first comes up. Buying first is ideal because it allows you to take your time and there are much fewer hoops to jump through. Most people can’t afford two mortgages at once, however, so selling first is a reality for many. In either case, there are plenty of different options that will lead to a smooth process. To learn more, watch this short video.<br>&nbsp;
+Most home sellers are also homebuyers. Because of this, the inevitable dilemma of which transaction to complete first comes up. Buying first is ideal because it allows you to take your time and there are much fewer hoops to jump through. Most people can’t afford two mortgages at once, however, so selling first is a reality for many. In either case, there are plenty of different options that will lead to a smooth process.&nbsp;
