@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: How have interest rates been lately? Find out with this quick message.
 enclosure: >-
-  'https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+Interest+Rates.mp4'
+  'https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+interest+rates.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/Bye2isq64TY'
+youtube_code: 'https://youtu.be/Mo_nc0mKEmM'
 ---
 
 {% include youtube.html %}
