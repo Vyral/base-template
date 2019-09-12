@@ -5,7 +5,8 @@ date: 2019-09-12 16:03:24
 tags:
   - Market Update
 excerpt: How have interest rates been lately? Find out with this quick message.
-enclosure:
+enclosure: >-
+  'https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+Interest+Rates.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 'https://youtu.be/Bye2isq64TY'
 
 {% include youtube.html %}
 
-How have interest rates been lately? Find out with this quick message.
+<p style="text-align: center;"><em>How have interest rates been lately? Find out with this quick message.</em></p>
 
 A couple of years ago, any mortgage, finance, or real estate expert you would have spoken to would have told you that interest rates were about to rise. And while this was, temporarily, true, the overall trend of interest rates since then has actually been at a steady decline.
 
