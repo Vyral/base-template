@@ -23,11 +23,11 @@ When you think about all the rules that govern real estate transactions and rela
 
 The first governing body we’ll discuss is **the Oklahoma Real Estate Commission.** Its function is to set rules and regulations interpreted from Oklahoma state statutes and that have been enacted by Congress. The sole purpose of this commission is to protect the public.&nbsp;
 
-Next, there’s the **Oklahoma Association of Realtors,** which operates in conjunction with two other entities: the National Association of Realtors (NAR) and whatever local board a particular agent belongs to. I, myself, belong to the Oklahoma City Metropolitan Association of Realtors, often referred to as OCKMAR. The National Association of Realtors’ scope of authority is much larger. Their rules exist in the form of a code of ethics that all Realtors must abide by. Any Realtor who violates an article of the NAR’s Code of Ethics and Professional Standards will likely be subject to a heavy fine.
+Next, there’s the **Oklahoma Association of Realtors,** which operates in conjunction with two other entities: the National Association of Realtors (NAR) and whatever local board a particular agent belongs to. I, myself, belong to the Oklahoma City Metropolitan Association of Realtors, often referred to as OKCMAR. The National Association of Realtors’ scope of authority is much larger. Their rules exist in the form of a code of ethics that all Realtors must abide by. Any Realtor who violates an article of the NAR’s Code of Ethics and Professional Standards will likely be subject to a heavy fine.
 
 {% include pullquote.html %}
 
-Within my local association, OCKMAR, we have a **multiple listing system (MLS)** that comes with a separate set of rules and guidelines. As an agent, not adhering to MLS standards will result in you losing access to this service and being unable to list your clients’ properties.&nbsp;
+Within my local association, OKCMAR, we have a **multiple listing system (MLS)** that comes with a separate set of rules and guidelines. As an agent, not adhering to MLS standards will result in you losing access to this service and being unable to list your clients’ properties.&nbsp;
 
 **As a consumer, you bear a responsibility to follow certain rules and guidelines as well.** You’re bound by the Oklahoma Real Estate Commission to fill out disclosures or disclaimers in addition to being barred from engaging in discriminatory treatment of anyone in a protected class during your real estate experience.&nbsp;
 
