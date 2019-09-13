@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kohler Group - your professional St. Charles Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Kari Kohler</managingEditor>
-    <lastBuildDate>2019-09-05 09:54:37 -0500</lastBuildDate>
+    <lastBuildDate>2019-09-13 14:17:11 -0500</lastBuildDate>
     <media:copyright>Kari Kohler</media:copyright>
     <media:thumbnail url="http://thekohlergroupblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,29 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Kohler Group - your professional St. Charles Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>What Makes St. Charles So Great?</title>
+        <link>http://thekohlergroupblog.com/what-makes-st-charles-so-great.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Kari Kohler</author>
+        <pubDate>2019-09-13 14:07:25 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/Videos/Why+St.+Charles_.mp4</guid>
+        <description>
+
+St. Charles is an area unlike any other. Not only is this vibrant city nestled against the gorgeous Fox River, but it also has a fantastic downtown district, along with top-notch schools. Whatever lifestyle you’re looking for, you’ll find it in St. Charles. The amenities, events, and landscape in the city are second-to-none, so we hope you’ll come check it out for yourself. We’ll be highlighting a few great spots in today’s video, so be sure to check out our message. To learn more, watch this short video. If you have any other questions or would like more information, feel free to give us a call or send us an email.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/Videos/Why+St.+Charles_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://thekohlergroupblog.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/Videos/Why+St.+Charles_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>St. Charles has a lot to offer, and we’ll be showing you just a little bit of what you’ll find in the city in today’s video.</itunes:subtitle>
+        <itunes:author>Kari Kohler</itunes:author>
+        <itunes:summary>St. Charles has a lot to offer, and we’ll be showing you just a little bit of what you’ll find in the city in today’s video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in St. Charles, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What Happened With Mortgage Rates?</title>
         <link>http://thekohlergroupblog.com/what-happened-with-mortgage-rates.html</link>
