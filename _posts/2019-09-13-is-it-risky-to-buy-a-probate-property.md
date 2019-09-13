@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/probate-sales-youtube.jpg
-youtube_code: 'https://youtu.be/H08eTkp4C1Y'
+youtube_code: H08eTkp4C1Y
 ---
 
 {% include youtube.html %}
