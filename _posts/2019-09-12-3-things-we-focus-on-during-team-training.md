@@ -8,7 +8,7 @@ excerpt: >-
   The basis of our team’s success is our second-to-none training. Today, allow
   me to share the three key areas this training focuses on.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Recruiting/Dan+Jones+Home+Selling+Team-+3+Things+We+Focus+on+During+Training.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Recruiting/Dan+Jones+Home+Selling+Team-+3+Things+We+Focus+with+captions.mp4
 pullquote: >-
   Our agents are expected to get 75% to 80% of the people they speak with to
   sign.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/U9dHe4Ocsrc'
+youtube_code: 'https://youtu.be/10m_JcM3hmA'
 ---
 
 {% include youtube.html %}
