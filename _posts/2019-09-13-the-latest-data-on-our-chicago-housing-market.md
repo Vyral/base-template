@@ -47,5 +47,3 @@ Before we do, note that we’ll analyze each data point by doing a 10-year, thre
 11:45—Wrapping things up&nbsp;
 
 If you have any questions about what we covered today or about anything else real estate-related, please don’t hesitate to let us know. We’d look forward to hearing from you\!&nbsp;<br>&nbsp;
-
-{% include pullquote.html %}
