@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Mo_nc0mKEmM'
 
 <p style="text-align: center;"><em>How have interest rates been lately? Find out with this quick message.</em></p>
 
-A couple of years ago, any mortgage, finance, or real estate expert you would have spoken to would have told you that interest rates were about to rise. And while this was, temporarily, true, the overall trend of interest rates since then has actually been at a steady decline.
+A couple of years ago, any mortgage, finance, or real estate expert you would have spoken to would have told you that interest rates were about to rise. And while this was temporarily true, the overall trend of interest rates since then has actually been at a steady decline.
 
 For anyone thinking of purchasing or refinancing a home, now is the best time to do so. Our team would be happy to help you with any of your real estate goals.
 
