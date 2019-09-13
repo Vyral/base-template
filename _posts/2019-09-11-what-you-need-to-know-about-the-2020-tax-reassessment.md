@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/gikeML1KGF0'
 
 {% include youtube.html %}
 
-Wake County reassesses property tax values of all area homes every four years. The next reassessment will occur on January 1, 2020, meaning that’s the day where the tax value on your properties may change. There are two likely outcomes of this reassessment: your taxes will either go up or down.
+Wake County reassesses property tax values of all area homes every four years. The next reassessment will occur on January 1, 2020, meaning that’s the day where the tax value on your properties may change. There are two likely outcomes of this reassessment: Your taxes will either go up or down.
 
-Most of the time, when your taxes are lowered, that’s a great outcome. However, if your property is valued to be higher than its market value (meaning you’ll pay more in taxes) there is a process by which you can appeal the assessment.
+Most of the time, when your taxes are lowered, that’s a great outcome. However, if your property is valued to be higher than its market value (meaning you’ll pay more in taxes), there is a process by which you can appeal the assessment.
 
 **Appealing your new property taxes involves a three-stage process:**
 
