@@ -18,6 +18,8 @@ youtube_code: Rd18JO4EQk4
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>A lot of great things have happened in our market and in my life lately, and, in today’s message, I want to explain how you can find similar success.</em></p>
+
 2019 has been full of exciting changes and developments. On a personal level, I was lucky enough to be named the No. 1 social media marketing expert among all Realtors in the Capital Region. As for our Albany area market, in general, the market is still hot—unlike our fall weather.&nbsp;
 
 **Mortgage rates are a full percentage point below what they were a year ago, which gives buyers a massive amount of purchasing power.** You can currently lock in a 30-year mortgage in the mid 3% range, so it’s a great time to make a move if you’ve been thinking of doing so. And because buyer interest is so high right now, sellers will also find our current market to be rife with opportunity.&nbsp;
