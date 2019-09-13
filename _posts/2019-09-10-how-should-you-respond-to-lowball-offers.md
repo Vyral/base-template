@@ -8,13 +8,13 @@ excerpt: >-
   How should you respond if you receive a lowball offer on your home? Today I’ll
   share my advice.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+How+to+Handle+a+Lowball+Offer.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+lowball+offers+with+captions.mp4
 pullquote: Responding to all offers you receive is a home-selling must.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/72kujYWFn1Y'
+youtube_code: 'https://youtu.be/1vHhHMIsN2A'
 ---
 
 {% include youtube.html %}
