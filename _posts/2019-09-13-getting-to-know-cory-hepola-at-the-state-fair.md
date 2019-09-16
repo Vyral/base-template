@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Getting to Know Cory Hepola at the State Fair
-date: 2019-09-13 18:36:52
+date: 2019-09-13 18:36:00
 tags:
 excerpt: >-
   We’re big fans of WCCO Radio host Cory Hepola, and today we have the pleasure
   of interviewing him.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Schuster/Getting+to+Know+Cory+Hepola+at+the+State+Fair.mp4
-pullquote:
+pullquote: >-
+  A big turning point in Cory’s life happened when he was cut from his 8th grade
+  basketball team.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
