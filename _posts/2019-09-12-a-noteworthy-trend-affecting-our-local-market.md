@@ -35,4 +35,4 @@ Well, as scores of buyers from higher-priced markets in California, Illinois, an
 
 Our market is changing and is wildly competitive, so whether you’re a buyer or seller, it’s all the more important to have a real estate professional by your side, guiding you through the process.
 
-If you have any questions or you’re thinking of buying or selling a home, please give me a call at (408) 626-5034 or send me an email at [Kevin.Langan@BTGRealEstate.com](mailto:Kevin.Langan@BTGRealEstate.com). I’d be happy to get you scheduled for a free consultation\!
+If you have any questions or you’re thinking of buying or selling a home, please give me a call at (480) 626-5034 or send me an email at [Kevin.Langan@BTGRealEstate.com](mailto:Kevin.Langan@BTGRealEstate.com). I’d be happy to get you scheduled for a free consultation\!
