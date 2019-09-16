@@ -24,7 +24,7 @@ Probate sales are often touted as a good deal, but is it risky to buy this kind 
 
 **In short, probate is the process by which the court determines how to appropriately distribute your assets after death.** But, when buying this type of property, it’s important to understand the difference between the two types of probate sale: full-authority probate sales and limited-authority probate sales.&nbsp;
 
-**In a full-authority probate sale, the administrator has complete power over to sell the property**—and, unless court confirmation is required, this type of transaction is generally very straightforward. However, while full-authority probate sales are very similar to standard real estate transactions, a probate purchase agreement does carry some distinct terms and conditions. Per these conditions, the details of your offer will be relayed to the decedent’s beneficiaries via a notice of proposed action. Then, so long as none of the beneficiaries objects, the sale will proceed as normal.&nbsp;
+**In a full-authority probate sale, the administrator has complete power to sell the property**—and, unless court confirmation is required, this type of transaction is generally very straightforward. However, while full-authority probate sales are very similar to standard real estate transactions, a probate purchase agreement does carry some distinct terms and conditions. Per these conditions, the details of your offer will be relayed to the decedent’s beneficiaries via a notice of proposed action. Then, so long as none of the beneficiaries objects, the sale will proceed as normal.&nbsp;
 
 {% include pullquote.html %}
 
