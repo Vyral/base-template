@@ -19,7 +19,7 @@ youtube_code: b-pt2FYEjDA
 
 {% include youtube.html %}
 
-Here are four reasons why the fall season might be your best opportunity in quite some time to buy a home.
+<center>Here are four reasons why the fall season might be your best opportunity in quite some time to buy a home.</center>
 
 Fall is just a few days away now, which is exciting for a number of reasons. Apart from the crisp autumn weather and football season, it’s also a great time to buy a home\! Here are four reasons why:
 
