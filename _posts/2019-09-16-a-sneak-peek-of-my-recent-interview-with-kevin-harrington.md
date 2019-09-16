@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Sneak Peek of My Recent Interview With Kevin Harrington
-date: 2019-09-16 20:09:55
+date: 2019-09-16 20:09:00
 tags:
   - Real Estate
 excerpt: >-
