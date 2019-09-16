@@ -3,9 +3,6 @@ layout: post
 title: Colemere Realty Is Hiring Agents
 tags:
   - Real Estate
-  - recruiting
-  - Salt Lake City
-  - Utah
 excerpt: >-
   We’re looking to expand our team with highly motivated agents. Are you
   interested?
