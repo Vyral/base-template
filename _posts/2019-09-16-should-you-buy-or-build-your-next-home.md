@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Should You Buy or Build Your Next Home
-date: 2019-09-16 20:48:14
+date: 2019-09-16 20:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   Which is cheaper: Buying new construction or buying a resale home? Let’s
   discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Melissa+Thompson/+Videos/2019/September/Should+You+Buy+or+Build+Your+Next+Home.mp4
 pullquote: There are plenty of affordable new construction and resale options available.
 enclosure_type: video/mp4
 enclosure_time:
