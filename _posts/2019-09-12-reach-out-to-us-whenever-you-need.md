@@ -5,7 +5,8 @@ date: 2019-09-12 00:00:00
 tags:
   - Real Estate
 excerpt: 'Despite how busy our team may be, we will never be too busy for you.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Reach+Out+to+Us+Whenever+You+Need.mp4
 pullquote: >-
   Our clients, as well as the entire Westminster area community, are our
   priority.
