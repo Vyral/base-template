@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The 3 Benefits the B.R.A Provides to Both You and Your Clients
+title: The 3 Benefits the BRA Provides to Both You and Your Clients
 date: 2019-09-12 18:17:00
 tags:
 excerpt: >-
