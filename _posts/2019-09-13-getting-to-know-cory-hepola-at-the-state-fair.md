@@ -20,7 +20,7 @@ youtube_code: LfGN9_Y89fc
 
 {% include youtube.html %}
 
-We loved watching WCCO Radio host Cory Hepola when he was the weekend anchor at KARE TV with his wife Camille, and today we’re excited to have him join us for a quick interview at the Minnesota State Fair.&nbsp;
+We loved watching WCCO Radio host Cory Hepola when he was the weekend anchor at KARE TV with his wife Camille, and we’re excited to have had him join us for a quick interview at the Minnesota State Fair.&nbsp;
 
 How did Cory and his wife meet? He saw her on TV and decided he had to meet her, so he emailed her and they set up a date. On the day the date was supposed to happen, though, she canceled. So he emailed her again and they set up another date. However, she ended up canceling once again. The last time he asked, though, the third time ended up being a charm. They’ve been together ever since.&nbsp;
 
@@ -49,4 +49,4 @@ Cory is a huge Minnesota Vikings fan, and he’ll be hosting his own Facebook Li
 
 “I love John’s work. He’s the only agent I’d call if I needed to sell my home, so when we’re ready, we’re calling the John Schuster Group.”
 
-On that note, we want to thank Cory for joining us today and remind you that if you ever have any real estate needs at all, don’t hesitate to reach out to us. We’d love to help you.&nbsp;
+On that note, we want to thank Cory for joining us and remind you that if you ever have any real estate needs at all, don’t hesitate to reach out to us. We’d love to help you.&nbsp;
