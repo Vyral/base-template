@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest News & Notes From Our September Market
-date: 2019-09-16 19:47:39
+date: 2019-09-16 19:47:00
 tags:
 excerpt: 'As our market rolls into September, it’s a great time to buy or sell.'
 enclosure: >-
