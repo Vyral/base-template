@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should You Buy or Build Your Next Home
+title: Should You Buy or Build Your Next Home?
 date: 2019-09-16 20:48:00
 tags:
   - Home Buyer Tips
