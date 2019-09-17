@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Kind of Home Should You Look for as a Short-Term Homebuyer?
-date: 2019-09-17 18:27:17
+date: 2019-09-17 18:27:00
 tags:
   - Home Buyer Tips
 excerpt: >-
