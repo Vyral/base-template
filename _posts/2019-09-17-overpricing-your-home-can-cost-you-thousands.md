@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Overpricing Your Home Can Cost You Thousands
-date:
+date: 2019-09-17 15:27:56
 tags:
 excerpt: >-
   Overpricing your property when putting it on the market can cost you
