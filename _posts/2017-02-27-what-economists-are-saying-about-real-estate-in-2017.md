@@ -3,8 +3,12 @@ layout: post
 title: What Economists Are Saying About Real Estate in 2017
 tags:
   - Market Update
-excerpt: We recently attended a conference that gave us some great insight into the real estate market. Here’s what we learned.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4'
+  - Real Estate
+excerpt: >-
+  We recently attended a conference that gave us some great insight into the
+  real estate market. Here’s what we learned.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4
 pullquote: We love working with millennials.
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 9MNlLFJ0G1c
 ---
-
 
 {% include youtube.html %}
 
@@ -30,6 +33,6 @@ Scarcity of listings was a big theme in 2016. We expect the supply to improve th
 
 There is some uncertainty about the housing market on a national level. Nobody's quite sure what the Trump administration will do to the Dodd-Frank Act, ditto for Fannie Mae and Freddie Mac. However, we know that Utah is very strong in housing overall and we expect to have another great year in 2017.
 
-Click here for the full [2017 Housing Forecast](http://slrealtors.com/wp-content/uploads/2017/02/2017-Housing-Forecast.pdf){:target="_blank"}.
+Click here for the full [2017 Housing Forecast](http://slrealtors.com/wp-content/uploads/2017/02/2017-Housing-Forecast.pdf){: target="_blank"}.
 
 If you have any questions about the market or are looking to buy or sell a home, don’t hesitate to give us a call or send us an email. We would love to hear from you.
