@@ -4,7 +4,6 @@ title: Check Out This Quick Guide to Accessory Dwelling Units
 date: 2018-12-18 00:00:00
 tags:
   - Real Estate
-  - Homeowner Tips
 excerpt: >-
   Today we’d like to shed some light on the hot topic of accessory dwelling
   units.
