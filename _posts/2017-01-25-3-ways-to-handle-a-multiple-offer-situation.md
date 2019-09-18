@@ -3,16 +3,21 @@ layout: post
 title: 3 Ways to Handle a Multiple Offer Situation
 tags:
   - Home Seller Tips
-excerpt: Today we wanted to go over the three ways sellers can approach multiple offer situations.
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4'
-pullquote: 'Multiple offer situations can be sticky for a seller, but there are ways to handle them.'
+  - Real Estate
+excerpt: >-
+  Today we wanted to go over the three ways sellers can approach multiple offer
+  situations.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4
+pullquote: >-
+  Multiple offer situations can be sticky for a seller, but there are ways to
+  handle them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: Aj5n96z9xu4
 ---
-
 
 {% include youtube.html %}
 
@@ -28,4 +33,4 @@ As a seller, multiple offer situations can be a little tricky, but there are thr
 
 The last option, which puts a little bit more control in the seller’s hands in terms of what they want, is to **counter each of the offers with a clause that says the seller has the final decision**. So, if two buyers come back and accept that clause, the seller decides which offer to move forward with.
 
-If you have any questions or would like us to cover a topic in one of our videos, please don’t hesitate to give us a call or send us an email. We would love to help!
+If you have any questions or would like us to cover a topic in one of our videos, please don’t hesitate to give us a call or send us an email. We would love to help\!
