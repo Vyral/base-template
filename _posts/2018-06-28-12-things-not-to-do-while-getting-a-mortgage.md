@@ -4,8 +4,6 @@ title: 12 Things Not to Do While Getting a Mortgage
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Buying
-  - Salt Lake City
 excerpt: >-
   There are many things that you can do wrong when you are applying for a
   mortgage.
