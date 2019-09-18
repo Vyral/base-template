@@ -3,7 +3,6 @@ layout: post
 title: What Exactly Does a Real Estate Transaction Coordinator Do?
 tags:
   - Real Estate
-  - Miscellaneous
 excerpt: >-
   Today we want to introduce Rhett Roberts, our transaction coordinator, who
   works behind the scenes to help your real estate transaction go smoothly.
