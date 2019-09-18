@@ -4,7 +4,7 @@ title: How Many Homes Should You Look at Before You Buy?
 date: 2019-08-19 00:00:00
 tags:
   - Real Estate
-  - Home Buying
+  - Home Buyer Tips
 excerpt: How many homes should you look at before buying one? Find out today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+Many+Homes+Should+You+Look+at+Before+You+Buy_.mp4
