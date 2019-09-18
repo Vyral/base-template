@@ -4,7 +4,6 @@ title: The Fatal Flaw in Zillow’s Design
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Seller Tips
 excerpt: >-
   Zillow is one of the most popular real estate websites online today, but that
   doesn’t mean that it can replace the knowledge and experience of an agent.
