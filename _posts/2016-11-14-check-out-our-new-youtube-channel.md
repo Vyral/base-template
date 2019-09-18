@@ -22,4 +22,4 @@ youtube_code: 1QoqY69VMFE
 
 {% include youtube.html %}
 
-Welcome to the new YouTube channel for Colemere Realty Associates\! We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area. We really want this page to be a resource for all of your real estate needs, so take a look around and discover topics that interest you. If there are topics that you’d like to learn more about, reach out to us and we just might answer your question with a video. We’re happy to make our channel a great resource for you\! To learn more about our new channel, watch this short video.
+Welcome to the new YouTube channel for Colemere Realty Associates\! We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area. We really want this page to be a resource for all of your real estate needs, so take a look around and discover topics that interest you. If there are topics that you’d like to learn more about, reach out to us and we just might answer your question with a video. We’re happy to make our channel a great resource for you\!
