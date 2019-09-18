@@ -2,7 +2,8 @@
 layout: post
 title: The Pros and Cons of Buying and Renting
 tags:
-  - Buyer Tips
+  - Real Estate
+  - Home Buyer Tips
 excerpt: Should you rent or buy your next home? Here’s what you should know.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4
