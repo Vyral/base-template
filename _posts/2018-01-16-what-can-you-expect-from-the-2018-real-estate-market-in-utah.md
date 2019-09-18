@@ -3,6 +3,7 @@ layout: post
 title: What Can You Expect From the 2018 Real Estate Market in Utah?
 tags:
   - Market Update
+  - Real Estate
 excerpt: >-
   What can you expect from the 2018 real estate market as a Utah homebuyer or
   seller? We will share our forecast with you today.
@@ -15,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: mCTKc4JqhVU
 ---
-
 
 {% include youtube.html %}
 
@@ -35,4 +35,4 @@ When you sell your home, chances are your buyer will use financing to purchase t
 
 If you are a first-time buyer in the $200,000 to $300,000 price range, it’s especially important that you are prepared to be very competitive with your offer. **You need to be able to move fast.** We have a number of different tips that you can help you succeed in this market.&nbsp;
 
-This is a general forecast for our local real estate market. If you would like more specific information for your neighborhood, or if you have any other questions, just give us a call or send us an email. We would be happy to help you!<br>&nbsp;
+This is a general forecast for our local real estate market. If you would like more specific information for your neighborhood, or if you have any other questions, just give us a call or send us an email. We would be happy to help you\!<br>&nbsp;
