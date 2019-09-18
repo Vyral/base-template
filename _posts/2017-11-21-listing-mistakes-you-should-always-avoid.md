@@ -3,6 +3,7 @@ layout: post
 title: Listing Mistakes You Should Always Avoid
 tags:
   - Home Seller Tips
+  - Real Estate
 excerpt: >-
   A lot goes into the process of selling your home. That being said, there are a
   lot of things you should avoid. Today, we want to go over some of the biggest
@@ -16,7 +17,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: AVuLTMmeuxI
 ---
-
 
 {% include youtube.html %}
 
