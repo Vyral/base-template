@@ -2,7 +2,8 @@
 layout: post
 title: When to Stop Saving and Start Your Home Search
 tags:
-  - Buyer Tips
+  - Real Estate
+  - Home Buyer Tips
 excerpt: >-
   Is it better to keep saving for your down payment, or should you go ahead and
   buy a house now? We’ll explain today.
