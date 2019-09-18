@@ -4,7 +4,6 @@ title: How Can You Ensure a Quick Closing?
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Buying
 excerpt: >-
   The home closing process can happen quickly, or it can drag on. Here’s how to
   ensure that it goes quickly and smoothly.
