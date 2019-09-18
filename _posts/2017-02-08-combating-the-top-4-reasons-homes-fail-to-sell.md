@@ -3,6 +3,7 @@ layout: post
 title: Combating the Top 4 Reasons Homes Fail to Sell
 tags:
   - Home Seller Tips
+  - Real Estate
 excerpt: >-
   There are four reasons why homes typically fail to sell. We've got a list of
   the top four reasons homes fail to sell, as well as solutions for all of them.
