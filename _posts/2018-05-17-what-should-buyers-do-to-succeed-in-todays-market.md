@@ -4,9 +4,6 @@ title: What Should Buyers Do to Succeed in Today's Market?
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Buying
-  - Salt Lake City
-  - Utah
 excerpt: >-
   The spring selling season is well underway, but where does this leave buyers
   in our market? Let’s discuss this important question today.
@@ -27,7 +24,7 @@ youtube_code: xf6G0sEllHE
 
 <center><em>The spring selling season is well underway, but where does this leave buyers in our market? Let&rsquo;s discuss this important question today.</em></center>
 
- 
+&nbsp;
 
 Back in January, we predicted that our market was about to heat up. Well, now that we are further into the year, it has become clear that these projections have come true.
 
