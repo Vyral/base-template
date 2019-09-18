@@ -2,9 +2,13 @@
 layout: post
 title: 'Considering an Investment Property: Part 1'
 tags:
-  - Buyer Tips
-excerpt: 'If you’re thinking about buying an investment property, consider these three things before making the jump.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4'
+  - Real Estate
+  - Investing
+excerpt: >-
+  If you’re thinking about buying an investment property, consider these three
+  things before making the jump.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4
 pullquote: 'Becoming a landlord is a business, not a charity.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 1qQgcFJ_zFs
 ---
-
 
 {% include youtube.html %}
 
@@ -31,4 +34,4 @@ Second, remember that **becoming a landlord is a business, not a charity.**Make 
 
 Lastly, **begin with the end in mind.** What’s your overall purpose? Do you want to fix and flip and make a quick dollar on the sale or are you in a long-term, buy-and-hold strategy to create a cash flow for yourself? Worst case scenario, if something happened and you had to sell the property, how would you sell it and how would you dispose of it?
 
-Stay tuned for part two in our series about investment properties. In the meantime, if you have any questions or are interested in buying an investment property, don’t hesitate to reach out to us. We’d love to help you get started!
+Stay tuned for part two in our series about investment properties. In the meantime, if you have any questions or are interested in buying an investment property, don’t hesitate to reach out to us. We’d love to help you get started\!
