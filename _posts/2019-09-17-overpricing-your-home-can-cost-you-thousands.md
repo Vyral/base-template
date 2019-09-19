@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/sikes-youtube-1-2.jpg
 youtube_code: DMUZhOoJBhY
 ---
 
-{% include youtube.html %}*Overpricing your property when putting it on the market can cost you thousands—here’s why.&nbsp;*
+{% include youtube.html %}&nbsp; &nbsp; &nbsp;*Overpricing your property when putting it on the market can cost you thousands—here’s why.&nbsp;*
 
 If you’re a home seller, overpricing your property right out of the gate can cost you thousands of dollars.&nbsp;
 
