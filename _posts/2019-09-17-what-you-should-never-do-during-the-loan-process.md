@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Never Do During the Loan Process
-date: 2019-09-17 20:13:15
+date: 2019-09-17 20:13:00
 tags:
   - Real Estate
 excerpt: Here’s what not to do while you’re moving through the home buying process.
@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/9-17---ron-sawyer---email.jpg
 youtube_code: vr6SDs5HqU8
 ---
 
