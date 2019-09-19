@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Recession Is Coming: How Will Arizona Be Affected?'
-date: 2019-09-19 16:54:22
+date: 2019-09-19 16:54:00
 tags:
   - Real Estate
 excerpt: >-
