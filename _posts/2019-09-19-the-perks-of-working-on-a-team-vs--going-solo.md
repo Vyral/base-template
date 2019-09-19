@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Perks of Working on a Team vs. Going Solo
-date:
+date: 2019-09-19 19:38:02
 tags:
   - Real Estate
 excerpt: >-
