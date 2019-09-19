@@ -22,7 +22,7 @@ youtube_code: jRezkjJR4jY
 
 {% include youtube.html %}
 
-Today I’ll bust a few real estate myths that persist in our market. Stay tuned.
+<p style="text-align:center;"><em>Today I’ll bust a few real estate myths that persist in our market. Stay tuned.</em></p>
 
 In my experience, I’ve heard a lot of misconceptions about how the real estate industry works. I’ll take some time to bust three key myths that can cause agents to falter in their careers.
 
