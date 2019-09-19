@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Latest Numbers Say About Our September Market
-date: 2019-09-19 14:21:34
+date: 2019-09-19 14:21:00
 tags:
 excerpt: >-
   If you’re a buyer, the latest year-over-year numbers from our Hoboken market
@@ -16,6 +16,8 @@ youtube_code: bCZAlJCLMqc
 ---
 
 {% include youtube.html %}
+
+*If you’re a buyer, the latest year-over-year numbers from our Hoboken market paint a promising picture.&nbsp;*
 
 Over the past 12 months, a few trends have taken place in our Hoboken market that you need to be aware of.&nbsp;
 
