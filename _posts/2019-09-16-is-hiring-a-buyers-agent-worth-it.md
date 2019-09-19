@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/ahYMt_8hDAM'
 
 {% include youtube.html %}
 
-In today’s digital age, many homebuyers assume that they can find the perfect property without the help of a real estate agent. After all, the internet gives anyone and everyone instant access to hundreds of home listings as the click of a button.&nbsp;
+In today’s digital age, many homebuyers assume that they can find the perfect property without the help of a real estate agent. After all, the internet gives anyone and everyone instant access to hundreds of home listings at the click of a button.&nbsp;
 
 The truth, however, is that finding and purchasing the right house is more complicated than that.&nbsp;
 
-For one thing, many of the homes buyers find online are already under contract. Not all websites update in real time. It can take days or even weeks for a listing’s online status to be changed. **By working with an agent, you can be sure that every home they show you is actually available.&nbsp;**
+For one thing, many of the homes buyers find online are already under contract. Not all websites update in real-time. It can take days or even weeks for a listing’s online status to be changed. **By working with an agent, you can be sure that every home they show you is actually available.&nbsp;**
 
 And your agent won’t just introduce you to currently active listings—they will show you homes that truly meet your search criteria. The home buying process is much faster and more efficient when you have an agent by your side. When you work with our team, in particular, **we can help you go under contract on a home before other buyers even have the chance to submit an offer.**&nbsp;
 
