@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Latest Numbers Say About Our September Market
-date:
+date: 2019-09-19 14:21:34
 tags:
 excerpt: >-
   If you’re a buyer, the latest year-over-year numbers from our Hoboken market
