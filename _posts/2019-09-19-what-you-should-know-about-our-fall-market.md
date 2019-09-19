@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About Our Fall Market
-date: 2019-09-19 14:09:46
+date: 2019-09-19 14:09:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
