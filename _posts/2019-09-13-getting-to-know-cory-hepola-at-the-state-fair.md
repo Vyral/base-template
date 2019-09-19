@@ -45,7 +45,7 @@ How did he become such a great public speaker? His parents were active in their 
 * What are your three favorite books? “In Cold Blood,” by Truman Capote, “Oh the Places You’ll Go,” by Dr. Suess, and “Sex, Drugs, and Cocoa Puffs” by Chuck Klosterman
 * Would you rather have a big party or small gathering? Small gathering&nbsp;
 
-Cory is a huge Minnesota Vikings fan, and he’ll be hosting his own Facebook Live session for every game this year that I highly recommend you check out if you’re a fellow Vikings fan. He was also nice enough to give us a shout out before we parted ways.&nbsp;
+Cory is a huge Minnesota Vikings fan, and he’ll be hosting his own Facebook Live session for every game this year that we highly recommend you check out if you’re a fellow Vikings fan. He was also nice enough to give us a shout out before we parted ways.&nbsp;
 
 “I love John’s work. He’s the only agent I’d call if I needed to sell my home, so when we’re ready, we’re calling the John Schuster Group.”
 
