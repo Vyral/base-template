@@ -33,6 +33,6 @@ The next thing we’re going to look at is upgrades. **Most buyers will want a c
 
 Finally, homes that are new construction or newer always tend to resell better. Older homes are appealing to some, especially here in Charleston, but they’re not as appealing to short-term buyers.
 
-**If you want to make your home resale proof, you want to buy something that is one-story, inexpensive, completely upgraded, and new.** That will get you the most buyers when it comes time to sell.
+**If you want to make your home re-sale proof, you want to buy something that is one-story, inexpensive, completely upgraded, and new.** That will get you the most buyers when it comes time to sell.
 
 If you have any other questions for me about buying a short-term home or about anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
