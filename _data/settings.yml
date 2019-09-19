@@ -66,8 +66,8 @@ lender:
   address: 765 Long Point Road Suite A<br>Mt. Pleasant, SC 29464
   phone: 843-670-5512
   email: MMieras@cmgfi.com
-  url: https://www.cmgfi.com/agents/matthew-mieras   
-  
+  url: https://www.cmgfi.com/agents/matthew-mieras
+
 welcome_box:
   welcome_headline: How to Sell More Homes
   welcome_text_markdown: >
@@ -78,7 +78,6 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/chsagentmastermind/
   linkedin_url: https://www.linkedin.com/company/dave-friedman-team/
-  gplus_url: https://plus.google.com/+DaveFriedman?prsrc=5
   youtube_url: https://www.youtube.com/channel/UCYg5beOA0R1xWVZqukzSNBA
   twitter_url: https://twitter.com/RealEstateRants
   instagram_url:
