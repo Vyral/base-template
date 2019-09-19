@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Dave Friedman</managingEditor>
-    <lastBuildDate>2019-07-23 14:12:41 -0500</lastBuildDate>
+    <lastBuildDate>2019-09-19 11:00:48 -0500</lastBuildDate>
     <media:copyright>Dave Friedman</media:copyright>
     <media:thumbnail url="http://davefriedmancoaching.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>Dave@DaveFriedmanTeam.com</itunes:email>
+      <itunes:email>Careers@DaveFriedmanTeam.com</itunes:email>
       <itunes:name>Dave Friedman</itunes:name>
     </itunes:owner>
     <itunes:author>Dave Friedman</itunes:author>
@@ -24,6 +24,41 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Dave Friedman Team - your professional Charleston Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
+      <item>
+        <title>Looking to Grow Your Real Estate Career?</title>
+        <link>http://davefriedmancoaching.com/looking-to-grow-your-real-estate-career.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Dave Friedman</author>
+        <pubDate>2019-08-09 11:03:45 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Dave+Friedman/Videos/2019/We+Are+Hiring!+-+Charleston+%26+Mt.+Pleasant+Real+Estate+Agent.mp4</guid>
+        <description>
+
+I’ve got an exciting announcement to make. This month, we are looking for two special people to join us on The Dave Friedman Team. A real estate license is required, but the opportunity here is huge.
+
+The first open position we have is for a buyer’s specialist. The total target income is a minimum of $100,000 and easily over $200,000 for those who want to get after it. It’s an exciting opportunity where you can generate new business every day, meet with buyers, and gain their trust to work with you. Our team structure will also help you get more free time in your schedule. You’ll make more money by working less than you would as a solo agent.
+
+“A real estate license is required, but the opportunity is huge.”
+
+The second open position is for a market specialist. This person works with our buyer’s specialist and the buyer. They show the buyers all the homes they want to take a look at, which allows the specialist to spend more time generating business or just relaxing. The target income here is between $75,000 and $85,000. This position will also attend closings and inspections while showing homes to all of our buyers. 
+
+If you’re interested in either of these positions or know someone who might be, reach out ASAP. We’re making our selections over the next few weeks. 
+
+If you have any other questions in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. 
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Dave+Friedman/Videos/2019/We+Are+Hiring!+-+Charleston+%26+Mt.+Pleasant+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://davefriedmancoaching.com" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Dave+Friedman/Videos/2019/We+Are+Hiring!+-+Charleston+%26+Mt.+Pleasant+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our team continues to grow and we are continuing our search for the best of the best to fill our open positions. Here’s some information about the two openings we have right now.</itunes:subtitle>
+        <itunes:author>Dave Friedman</itunes:author>
+        <itunes:summary>Our team continues to grow and we are continuing our search for the best of the best to fill our open positions. Here’s some information about the two openings we have right now.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Charleston, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Interested in Joining One of Charleston’s Top Real Estate Teams?</title>
         <link>http://davefriedmancoaching.com/interested-in-joining-one-of-charlestons-top-real-estate-teams.html</link>
