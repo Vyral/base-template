@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Houston’s Growing Population Means for Current Residents
-date: 2019-08-27 16:40:17
+date: 2019-08-27 16:40:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/KN-ObAOLnxk'
+youtube_code: mfPu0QhQMaA
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Houston’s population is growing rapidly, but why is this happening and what does it mean for current residents? Let’s discuss.</em></p>
+*Houston’s population is growing rapidly, but why is this happening and what does it mean for current residents? Let’s discuss.*
 
 By 2020, Houston’s population is expected to exceed 7.1 million people. So where are these people coming from, and what does this population growth mean?
 
