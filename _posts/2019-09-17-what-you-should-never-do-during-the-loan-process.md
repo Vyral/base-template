@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/9-17---ron-sawyer---email.jpg
-youtube_code: vr6SDs5HqU8
+youtube_code: 'https://youtu.be/vr6SDs5HqU8'
 ---
 
 {% include youtube.html %}
