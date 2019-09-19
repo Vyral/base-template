@@ -21,7 +21,7 @@ youtube_code: v4whJ00J9yI
 
 {% include youtube.html %}
 
-*There’s an online scam that’s becoming increasingly prevalent in markets nationwide. Here’s what to watch out for.*
+<p style="text-align:center"><em>There’s an online scam that’s becoming increasingly prevalent in markets nationwide. Here’s what to watch out for.</em></p>
 
 Here in our Southern California market, and also nationwide, there’s a very particular scam that’s gaining traction. Today I’ll tell you what you need to look out for so that you can protect yourself and those you know from becoming a victim.
 
