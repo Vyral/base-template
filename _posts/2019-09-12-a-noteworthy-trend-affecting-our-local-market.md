@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Buyers from across the country are migrating over to our area, and it’s
   impacting buyers and sellers in different ways.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/A+Noteworthy+Trend+Affecting+Our+Local+Market.mp4
 pullquote: It’s important to have a real estate professional by your side.
 enclosure_type: video/mp4
 enclosure_time:
