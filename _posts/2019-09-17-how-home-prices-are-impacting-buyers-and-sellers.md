@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Home Prices Are Impacting Buyers and Sellers
-date: 2019-09-17 20:59:57
+date: 2019-09-17 20:59:00
 tags:
   - Real Estate
   - Home Seller Tips
