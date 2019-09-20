@@ -21,7 +21,7 @@ youtube_code: NuEg0K1o37w
 
 <p style="text-align:center;"><em>What is the maximum number of properties you can finance? Find out today.</em></p>
 
-I’ve worked with a lot of investors over the years, and they always ask me how many properties they’re allowed to buy.
+I’ve worked with a lot of investors over the years, and they always ask me how many properties they’re allowed to buy using financing.
 
 Of course, the answer to that is, “However many you qualify for.”
 
