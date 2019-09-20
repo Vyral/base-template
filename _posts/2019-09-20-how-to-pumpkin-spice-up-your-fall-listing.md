@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to (Pumpkin) Spice Up Your Fall Listing
-date:
+date: 2019-09-20 18:17:09
 tags:
   - Home Seller Tips
 excerpt: Thinking of selling your home this fall? Here are a few tips and tricks.
