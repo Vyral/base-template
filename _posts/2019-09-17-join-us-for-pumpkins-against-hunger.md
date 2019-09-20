@@ -20,6 +20,8 @@ youtube_code: N4K5H1SaLtg
 
 &nbsp;
 
-Join us on **October 10th from 4:30 p.m. - 8:30 p.m. at <u><a target="_blank" href="https://goo.gl/maps/YzNc5cVBEdBK8TcG6">Lone Peak Park</a></u>** for our annual charity event, Pumpkins Against Hunger. We will be cleaning out pumpkins in 30 seconds or less for you to take home.
+Join us on **October 10th from 4:30 p.m. - 8:30 p.m. at <u><a target="_blank" href="https://goo.gl/maps/YzNc5cVBEdBK8TcG6">Lone Peak Park</a></u>** for our annual charity event, Pumpkins Against Hunger.
 
-All we ask is that you bring one non-perishable food item per pumpkin you would like to receive. We will also have carving stations for you and your kids. We would like to invite everyone to get into the spirit early and dress up\! We’ll have some characters here who you can get your picture taken with.
+We will be giving away pumpkins in exchange for non-perishable food items. There will be carving stations for you and your family to carve your pumpkins here as well\! If you do elect to carve your pumpkins here, we will offer to clean them out for you in 30 seconds or less\!
+
+In addition to the pumpkin fun, we would like to invite everyone to get into the spirit early and dress up\! We’ll also have a princess and Superman characters here to take pictures with. We'd love to see you there\!
