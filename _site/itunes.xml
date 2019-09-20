@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2019-09-20 13:48:34 -0500</lastBuildDate>
+    <lastBuildDate>2019-09-20 13:56:08 -0500</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,107 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Week of 09-09-2019</title>
+        <link>localhost:4000/week-of-090919.html</link>
+        
+        <author></author>
+        <pubDate>2019-09-09 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>Gary Jacklin | Tips for Generating More Revenue | 23.3%
+
+Dar Walden | What’s happening with Alaska real estate? | 22.3%
+
+Dean Adler | What interest rates are doing and what it means for you | 22.0%
+
+Joe Graham | What to think about before you invest in real estate | 21.1%
+
+Wade Betz | Could you benefit from buying through a non-occupant co-borrower? | 20.3%
+
+Adam Rodriguez | What You Should Know About the Recent Drop in Rates | 20.2%
+
+Sue Adler | Why You Should Sell Your Home This Fall | 19.3%
+
+Sean Zanganeh | Should You Buy Now or Wait? | 19.1%
+
+Davis Holt | How Homeownership Can Boost Your Net Worth | 18.7%
+
+Sandy King | Why Being Able to Heat and Cool Your Pool Is a Wise Investment | 18.3%
+
+Dan Mumm | How valuable are pools? | 17.9%
+
+Andrew Duncan | An exciting change to condo buyer financing | 17.5%
+
+Tracy Venturi | August 2019 Albuquerque Housing Market Update | 17.5%
+
+Vincent Mancini | The Benefits of Buying in a Great School District | 17.5%
+
+Kari Cross | What the coming recession will mean for our market | 17.1%
+
+Jeff Cook | A Few Things to Know About Buying a Fixer-Upper | 16.9%
+
+Tom Daves | We’re hiring | 16.5%
+
+Wes Madden | Our team is growing. Are you ready to grow with us? | 15.5%
+
+Greg Harrelson | Building a Listing-Based Business, Part 2: Mastering the Scripts | 15.2%
+
+Sandy Blanton | Who holds the edge in our market? | 14.2%
+
+JP Pirtle | Why it could soon be more difficult to get a mortgage | 12.8%
+
+Adam Stark | 5 Options for Lining Up Your Home Sale and Purchase | 12.1%
+
+Nicole Zuber | 7 Common Mistakes to Avoid When Selling Your Home | 12.1%
+
+Susan Heller | The Skinny on Short Sales | 11.7%
+
+Mark Ramey | How to stay safe this hurricane season | 11.5%
+
+Jason Veenstra | The 4 legs of the home-selling “chair” | 11.4%
+
+Brandon Montemayor | Explaining the Concept of Procuring Cause | 11.1%
+
+Andy Hannigan | Home Affordability Is on the Rise | 10.9%
+
+Bryan &amp; Scott Colemere | Should You Appeal Your Property Tax Assessment? | 10.6%
+
+Jason Wilson | Is Selling to an iBuyer Worth It? | 10.6%
+
+Kerryann Pray | 4 Ways You Can Buy and Sell at the Same Time | 10.1%
+
+John Quinn | Is Having an Airbnb a Good Investment? | 9.7%
+
+Dustin Sherlin | Should you consider selling to an iBuyer? | 9.6%
+
+Charlotte Mabry | Tips for selling an inherited home | 8.5%
+
+Ron Cedillo | When Does It Make Sense to Sell Your Home As Is? | 8.5%
+
+Erin Caraway Gregory | The 3 best ways to ready your home for the market | 8.3%
+
+Damon Gettier | Why it could soon be more difficult to get a mortgage | 7.1%
+
+Eric Burch | Did you miss your chance to sell your home in 2019? | 5.3%
+
+Mark Palermo (Kirsten) | August PT #1 | 5.1%
+
+Valerie Hunter-Kelly | Why Is 2019 the Year to Sell Your Home? | 4.3%
+
+Mark Palermo (Stephanie) | August PT #1 | 3.1%
+
+Mark Palermo | August PT #1 | 2.1%
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This week's Top Performing Emails were sent by Andre Kwan, Tiffany Fykes, Wayne Chang, Josh Anderson and Troy Hansford</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>This week's Top Performing Emails were sent by Andre Kwan, Tiffany Fykes, Wayne Chang, Josh Anderson and Troy Hansford</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Week of 09-02-2019</title>
         <link>localhost:4000/week-of-090219.html</link>
