@@ -23,7 +23,7 @@ Today I want to talk to you about an “aha moment” my team and I recently had
 
 As many of you might remember, a few years back I decided to spend some serious time on my team’s database—cleaning it up, properly tagging contacts, etc. The end product was a cleaned-up ‘Met’ database comprised of 1,200 of our past clients, friends, family, colleagues, and people we know in the community or have had a real estate-related conversation with. For our Met database, we use a higher-level touch system than we would for databases containing contacts we’ve received minimal information from. &nbsp;
 
-That aside, let’s talk about the aforementioned aha moment: **At the start of football season every year, we send out a football-themed magnet to our clients.** Football matters a lot to us Oklahomans, To give our clients a heads up that their magnet is on the way, we film a fun video that goes to Facebook and to our database.&nbsp;
+That aside, let’s talk about the aforementioned aha moment: **At the start of football season every year, we send out a football-themed magnet to our clients.** Football matters a lot to us Oklahomans. To give our clients a heads up that their magnet is on the way, we film a fun video that goes to Facebook and to our database.&nbsp;
 
 Then, once we know all the magnets are out, we’ll go a step further and call each of our contacts to check that theirs came and to ask which team they cheer for on Saturdays. We make sure to weave our call to action into the conversation as well by expressing our team’s goals and asking the client if they know of anyone who may need help buying, selling, or investing in real estate.&nbsp;
 
