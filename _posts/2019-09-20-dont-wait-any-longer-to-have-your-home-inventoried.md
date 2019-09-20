@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Wait Any Longer to Have Your Home Inventoried
-date: 2019-09-06 00:00:00
+date: 2019-09-20 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: dGbcvrlL_Wg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.</em></p>
+*Taking an inventory of your home is vitally important, and TakeStock Inventory can help you with this task.*
 
 Why is a home inventory important? Today I’m joined by Alison Wood of TakeStock Inventory to answer that question for you.&nbsp;
 
