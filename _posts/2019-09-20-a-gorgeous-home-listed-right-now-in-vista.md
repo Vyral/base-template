@@ -18,7 +18,7 @@ youtube_code: lY2OoCjHUj0
 
 {% include youtube.html %}
 
-&nbsp;I recently listed a beautiful home for sale at 1588 Laurel Circle in Vista. I went on “List It Live” to talk about why I’m so excited about it.
+<p style="text-align:center;"><em>I recently listed a beautiful home for sale at 1588 Laurel Circle in Vista. I went on “List It Live” to talk about why I’m so excited about it.</em></p>
 
 I was recently a guest on “List It Live” and I had the opportunity to showcase one of my gorgeous new homes that has recently come on the market.&nbsp;
 
