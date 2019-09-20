@@ -14,8 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/9-19---oggie-penev---youtube-1.jpg
-youtube_code: 'https://youtu.be/C5Yd4Hm5aX8'
+youtube_alternate_image: /uploads/9-19---oggie-penev---youtube-2.jpg
+youtube_code: L4WqTZCNjek
 ---
 
 {% include youtube.html %}
