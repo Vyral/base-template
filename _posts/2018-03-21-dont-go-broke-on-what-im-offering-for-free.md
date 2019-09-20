@@ -3,7 +3,7 @@ layout: post
 title: Don't Go Broke on What I'm Offering for Free
 date: 2018-03-21 15:49:19
 tags:
-  - Other
+  - Real Estate
 excerpt: >-
   Are you ready to learn about building wealth through real estate investing? If
   so, I’ve got a great opportunity for you.
