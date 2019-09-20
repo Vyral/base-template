@@ -22,7 +22,7 @@ layout: null
     <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{site.data.settings.podcast.image | prepend: site.url}}"/>
-    <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
+    <itunes:keywords>521808</itunes:keywords>
     <itunes:subtitle>{{site.data.settings.podcast.subtitle | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:subtitle>
     <itunes:summary>{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
@@ -44,10 +44,10 @@ layout: null
         <itunes:subtitle>{{post.excerpt | strip_html}}</itunes:subtitle>
         <itunes:author>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</itunes:author>
         <itunes:summary>{{post.excerpt | strip_html}}</itunes:summary>
-        <itunes:keywords>{{site.data.settings.podcast.keywords | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand}}</itunes:keywords>
+        <itunes:keywords>521808</itunes:keywords>
       </item>
       {% endfor %}
-    <copyright>{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</copyright>
+    <copyright>521808</copyright>
     <media:credit role="author">{{site.data.settings.podcast.author | replace: '-- CLIENT NAME --', site.data.settings.client.name}}</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">{{site.data.settings.podcast.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}</media:description>
