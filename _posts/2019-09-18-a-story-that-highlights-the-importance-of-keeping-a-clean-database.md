@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-are-you-periodically-cleaning-your-database-youtube.jpg
-youtube_code: 'https://youtu.be/LC8EkpaAyhc'
+youtube_code: 'https://youtu.be/2OXDsfapdX8'
 ---
 
 {% include youtube.html %}
