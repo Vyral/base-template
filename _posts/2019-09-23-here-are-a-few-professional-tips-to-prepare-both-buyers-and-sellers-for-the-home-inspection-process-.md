@@ -1,8 +1,7 @@
 ---
 layout: post
-title: >-Preparing Buyers and Sellers for the Home Inspection Process
-  Here are a few professional tips to prepare both buyers and sellers for the
-  home inspection process.
+title: >-
+Preparing Buyers and Sellers for the Home Inspection Process
 date: 2019-09-23 19:00:05
 tags:
   - Home Seller Tips
