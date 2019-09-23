@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/oZfOrUKWo20'
 
 {% include youtube.html %}
 
-The Stary Group’s own Brittany Perez joins us once again today to discuss her new role as closing coordinator, and we can’t wait to explain what this means for you.
+<p style="text-align: center;"><em>The Stary Group’s own Brittany Perez joins us once again today to discuss her new role as closing coordinator, and we can’t wait to explain what this means for you.</em></p>
 
 Our special guest today is one you may recognize: the Stary Group’s own Brittany Perez. As our listing coordinator, Brittany previously handled all the backend work for agents on our team—from contract to close.&nbsp;
 
