@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/dildine-youtube-11.jpg
 youtube_code: 2Xl-zk3ZR6U
 ---
 
-{% include youtube.html %}&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*Our duplex development in Caldwell is well underway. Here’s why the demand for this type of property is so high.*
+{% include youtube.html %}&nbsp; *Our duplex development in Caldwell is well underway. Here’s why the demand for this type of property is so high.*
 
 Today I’m here at our duplex development out in Caldwell. Last time I was here, it was just a bunch of vacant lots. But as you can see in the video above, there’s much more going on now. We’ve sold six of the eight duplexes we have here, but we’ve run into a problem.
 
