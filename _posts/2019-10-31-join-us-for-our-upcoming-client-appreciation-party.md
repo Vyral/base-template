@@ -2,7 +2,7 @@
 layout: post
 title: Join Us for Our Upcoming Client Appreciation Party
 tags:
-date: 2019-09-22 00:00:00
+date: 2019-10-31 00:00:00
 excerpt: >-
   On Saturday, October 19, we hope you’ll join us for our client appreciation
   party at Hillridge Farms. Here is a short preview of the event.
