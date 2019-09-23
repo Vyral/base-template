@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Eimcsx67yvU'
 
 {% include youtube.html %}
 
-If you’ve got questions about short-term rentals, this great website will likely have the answers.
+<p style="text-align: center;"><em>If you’ve got questions about short-term rentals, this great website will likely have the answers.</em></p>
 
 People ask me all the time about whether their property could be used as a short-term rental, and my response is always the same: Do your homework. There’s no one-size-fits-all answer to this question.&nbsp;
 
