@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/3nM2Rh47f58'
 
 {% include youtube.html %}
 
-Are your floors in need of an upgrade? If so, allow me to share a few great flooring options with you today.
+<p style="text-align: center;"><em>Are your floors in need of an upgrade? If so, allow me to share a few great flooring options with you today.</em></p>
 
 If your home’s flooring is looking a little worse-for-wear, it may be time to swap it out for something more durable. After all, nothing downgrades a home’s overall appearance like damaged, stained, or scuffed-up floors.&nbsp;
 
