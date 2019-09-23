@@ -5,7 +5,7 @@ date: 2019-09-23 20:37:02
 tags:
   - Home Seller Tips
 excerpt: >-
-  Are you nervous about your home’s price or condition before selling. Here’s
+  Are you nervous about your home’s price or condition before selling? Here’s
   how we can help.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2019/Dan+Jones+Home+Selling+Team-+What+Sellers+Think.mp4
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/yafd9hYxPu4'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Are you nervous about your home’s price or condition before selling. Here’s how we can help.</em></p>
+<p style="text-align: center;"><em>Are you nervous about your home’s price or condition before selling? Here’s how we can help.</em></p>
 
 Today I want to speak to you about what sellers are thinking before they put their home on the market. It boils down to three things: They don’t want to overprice their home, underprice their home, or over-improve their home. Here’s why.
 
