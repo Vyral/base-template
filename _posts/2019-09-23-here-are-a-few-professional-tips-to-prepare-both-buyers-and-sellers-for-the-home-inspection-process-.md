@@ -3,7 +3,7 @@ layout: post
 title: >-
   Here are a few professional tips to prepare both buyers and sellers for the
   home inspection process.
-date:
+date: 2019-09-23 19:00:05
 tags:
   - Home Seller Tips
 excerpt: >-
