@@ -1,7 +1,7 @@
 ---
 layout: post
-title: >-
-date: 
+title: Preparing Buyers and Sellers for the Home Inspection Process
+date: 2019-09-23 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: VvQHWBiB3ys
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here are a few professional tips to prepare both buyers and sellers for the home inspection process.</em></p>
+*Here are a few professional tips to prepare both buyers and sellers for the home inspection process.*
 
 If you’re thinking of buying a home, you might be wondering if you really need to get a home inspection. And if you’re selling a home, you might wonder about how to prepare for that inspection. Today we’ll follow the HomeTeam Inspection Service as they undergo an inspection, and hopefully, their advice will help answer both parties’ questions about this critical stage of the real estate process.
 
