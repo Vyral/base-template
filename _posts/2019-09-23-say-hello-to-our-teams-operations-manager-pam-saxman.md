@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Say Hello to Our Team’s Operations Manager Pam Saxman
-date: 2019-09-23 16:42:58
+date: 2019-09-23 16:42:00
 tags:
   - Real Estate
 excerpt: >-
