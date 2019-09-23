@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Closer Look at Discount Points
-date: 2019-09-23 19:50:58
+date: 2019-09-23 19:50:00
 tags:
   - Home Buyer Tips
 excerpt: >-
