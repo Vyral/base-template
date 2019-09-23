@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/yafd9hYxPu4'
 
 {% include youtube.html %}
 
-Are you nervous about your home’s price or condition before selling. Here’s how we can help.
+<p style="text-align: center;"><em>Are you nervous about your home’s price or condition before selling. Here’s how we can help.</em></p>
 
 Today I want to speak to you about what sellers are thinking before they put their home on the market. It boils down to three things: They don’t want to overprice their home, underprice their home, or over-improve their home. Here’s why.
 
