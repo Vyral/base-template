@@ -25,7 +25,7 @@ The median sale price has dropped 3.8%, but the average list price is up 4.4%. T
 
 {% include pullquote.html %}
 
-**If you’re a seller, this means you need to list your home strategically.** Buyers sense blood in the water, so be smart with how your price your home and how it shows. Who you work with in this case is very important, so I’d love to sit down and talk with you about your current situation and what strategy you can utilize moving forward.&nbsp;
+**If you’re a seller, this means you need to list your home strategically.** Buyers sense blood in the water, so be smart with how you price your home and how it shows. Who you work with in this case is very important, so I’d love to sit down and talk with you about your current situation and what strategy you can utilize moving forward.&nbsp;
 
 If you’re a buyer, now’s a great time to make your move. In addition to prices dropping, interest rates are extremely low.
 
