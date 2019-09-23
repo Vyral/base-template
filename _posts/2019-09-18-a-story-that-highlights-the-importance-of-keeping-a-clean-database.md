@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Recently, my team and I discovered a new way to simultaneously clean and grow
   our database.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/A+Story+That+Highlights+the+Importance+of+Keeping+a+Clean+Database.mp4
 pullquote: >-
   As I’ve learned from this experience, you should never stop learning new
   things and refining your skills in this business.
