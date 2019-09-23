@@ -25,7 +25,7 @@ youtube_code: VvQHWBiB3ys
 
 If you’re thinking of buying a home, you might be wondering if you really need to get a home inspection. And if you’re selling a home, you might wonder about how to prepare for that inspection. Today we’ll follow the HomeTeam Inspection Service as they undergo an inspection, and hopefully, their advice will help answer both parties’ questions about this critical stage of the real estate process.
 
-Feel free to follow along in the video above, or use the timestamps below to navigate the video at your leisure:
+**Feel free to follow along in the video above, or use the timestamps below to navigate the video at your leisure:**
 
 0:34—What Neil Allen of the Home Team Inspectors has been trained to look for during inspections
 
