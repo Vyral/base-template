@@ -17,8 +17,8 @@ youtube_code: En84GUfS4Bg
 
 {% include youtube.html %}
 
-Thinking of selling your home this fall? Here are a few tips and tricks.
+<p style="text-align:center;"><em>Thinking of selling your home this fall? Here are a few tips and tricks.</em></p>
 
 If you want to sell your home in the fall, there are a few different things you can do to “pumpkin spice” it up.&nbsp;<br>&nbsp;<br>**In the video above, you can listen to my interview with Van and Bonnie, during which I cover tips and tricks for preparing your fall listing.&nbsp;**
 
-If you have any questions about, don’t hesitate to reach out to me. I’d love to hear from you.<br>&nbsp;
+If you have any questions, don’t hesitate to reach out to me. I’d love to hear from you.<br>&nbsp;
