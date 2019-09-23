@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Duplexed Are in Demand Here in Boise
-date: 2019-09-23 20:15:32
+date: 2019-09-23 20:15:00
 tags:
 excerpt: >-
   Our duplex development in Caldwell is well underway. Here’s why the demand for
