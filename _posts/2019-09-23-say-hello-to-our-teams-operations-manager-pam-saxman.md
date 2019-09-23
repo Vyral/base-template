@@ -21,7 +21,7 @@ youtube_code: GgELfpSYcTQ
 
 {% include youtube.html %}
 
-The Caul Group has its very own “Wizard of Oz,” and we’re sitting down for a quick interview with her today.&nbsp;
+<p style="text-align:center;"><em>The Caul Group has its very own “Wizard of Oz,” and we’re sitting down for a quick interview with her today.</em></p>
 
 For today’s message, I’m happy to be joined by the one and only Pam Saxman—better known as “The Wizard of Oz” here at The Caul Group.&nbsp;
 
