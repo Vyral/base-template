@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   How can buyers and sellers expect to fare this coming fall? Stayed tuned to
   find out!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2019/What+You+Should+Know+About+Our+Fall+Market.mp4
 pullquote: >-
   All in all, a ton of homes are currently coming on the market and a ton of
   eager buyers are out searching for the one they want every day.
