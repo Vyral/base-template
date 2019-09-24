@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/hLwXgw2wif4'
 
 {% include youtube.html %}
 
-As we recap our September market, inventory is quite low, as are interest rates.
+<p style="text-align: center;"><em>As we recap our September market, inventory is quite low, as are interest rates.</em></p>
 
 Where’s our market going as we finish out September? As always, we look to the leading indicators to answer this question.&nbsp;
 
