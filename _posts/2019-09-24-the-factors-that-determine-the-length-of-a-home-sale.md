@@ -17,7 +17,7 @@ youtube_code: 5e14xLjlUoU
 
 {% include youtube.html %}
 
-*How long will your home take to sell? It depends on these factors.*
+<p style="text-align:center;"><em>How long will your home take to sell? It depends on these factors.</em></p>
 
 According to Realtor.com, the average number of days on market nationwide is about 65 right now. However, there are some different factors that will determine your number when you list your home.&nbsp;
 
