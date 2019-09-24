@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning About the Services Offered by wHydrate
-date: 2019-09-23 18:30:35
+date: 2019-09-23 18:30:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/whydrate-youtube.jpg
-youtube_code: evkBABZY23g
+youtube_code: ALd7hmg73j8
 ---
 
 {% include youtube.html %}
