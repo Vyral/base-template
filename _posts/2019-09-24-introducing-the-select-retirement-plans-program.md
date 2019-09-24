@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducing the Select Retirement Plans Program
-date: 2019-09-24 22:17:32
+date: 2019-09-24 22:17:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -28,7 +28,7 @@ To top it all off, this program’s fees are typically 20% to 30% lower than the
 
 {% include pullquote.html %}
 
-So if you want to get out of the administrative liability and fiduciary headaches of running a retirement plan, consider making the switch to our Select Retirement Plans program. **You can learn more about this program by visiting**[www.selectretirementplans.com](www.selectretirementplans.com){: target="_blank"}.&nbsp;
+So if you want to get out of the administrative liability and fiduciary headaches of running a retirement plan, consider making the switch to our Select Retirement Plans program. **You can learn more about this program by visiting&nbsp;**[https://www.selectretirementplans.com](https://www.selectretirementplans.com){: target="_blank"}.&nbsp;
 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 
