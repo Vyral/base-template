@@ -27,7 +27,7 @@ If your home’s flooring is looking a little worse-for-wear, it may be time to 
 
 Today, allow me to share a couple of flooring options that are both beautiful and kid- and pet-friendly:&nbsp;
 
-**1\. Stained concrete.** This long-lasting, fabulous flooring is a perfect option for people who need some extra protection against pet-related damage. A couple of my recent clients actually installed this type of flooring after realizing that wood, tile, and laminate just weren’t working out for them, and they absolutely loved it. Not only that, but this unique flooring option actually helped them sell their home. Stained concrete is resistant to spills and unwanted stains, unlike carpet, and is much less slippery to walk on than certain other types of flooring.&nbsp;
+**1\. Stained concrete.** This long-lasting, fabulous flooring is a perfect option for people who need some extra protection against pet-related damage. A couple of my recent clients actually installed this type of flooring after realizing that wood, tile, and laminate just weren’t working out for them, and they absolutely loved it. Not only that, but this unique flooring option actually helped them sell their home. Stained concrete is resistant to spills and unwanted stains, unlike carpet, and it's much less slippery to walk on than certain other types of flooring.&nbsp;
 
 **2\. Luxury vinyl plank flooring.** This is not your grandmother’s vinyl. Made of a thick, tough material, luxury vinyl plank flooring is versatile, easy to clean, and can be installed on top of tiles.&nbsp;
 
