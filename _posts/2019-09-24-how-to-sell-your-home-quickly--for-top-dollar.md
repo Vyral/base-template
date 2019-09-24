@@ -22,7 +22,7 @@ youtube_code: PMkrpUqAmK0
 
 {% include youtube.html %}
 
-Need to sell fast? Today I’ll share my best tips for selling your home quickly and for top dollar.&nbsp;
+<p style="text-align:center;"><em>Need to sell fast? Today I’ll share my best tips for selling your home quickly and for top dollar.</em></p>
 
 If you’re in the market to sell a property quickly, here’s what you can do to get it done fast:
 
