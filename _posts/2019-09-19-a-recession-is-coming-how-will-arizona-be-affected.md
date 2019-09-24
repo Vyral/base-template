@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Everyone has been talking about the coming recession lately, so today I want
   to share why I think Arizona won’t be affected by it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/A+Recession+Is+Coming-+How+Will+Arizona+Be+Affected_.mp4
 pullquote: >-
   When people have jobs, the median income is high, which means they can afford
   to rent and buy new properties.
