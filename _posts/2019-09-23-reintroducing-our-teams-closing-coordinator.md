@@ -22,11 +22,11 @@ youtube_code: 'https://youtu.be/QUzmYkdma2k'
 
 <p style="text-align: center;"><em>The Stary Group’s own Brittany Perez joins us once again today to discuss her new role as closing coordinator, and we can’t wait to explain what this means for you.</em></p>
 
-Our special guest today is one you may recognize: the Stary Group’s own Brittany Perez. As our listing coordinator, Brittany previously handled all the backend work for agents on our team—from contract to close.&nbsp;
+Our special guest today is one you may recognize: the Stary Group’s own Brittany Perez. As our listing coordinator, Brittany previously handled all the backend work for agents on our team—from listing to close.&nbsp;
 
 {% include pullquote.html %}
 
-Since the last time we brought Brittany on, though, her role has transformed. **Brittany is now our team’s closing coordinator**, a role she describes as being all about “making sure your home closes” and that “you’re informed throughout the process.” The last thing Brittany, or anyone on our team, wants is for you to feel left in the dark at any point in your deal.&nbsp;
+Since the last time we brought Brittany on, her role has transformed. **Brittany is now our team’s closing coordinator**, a role she describes as being all about “making sure your home closes and on time” and that “you’re informed throughout the process.” The last thing Brittany, or anyone on our team, wants is for you to feel left in the dark at any point in your deal.&nbsp;
 
 This is exactly why Brittany’s role is so important. She takes care of all the fine details of closing, making sure that deadlines are met, the appropriate contractors are kept in the loop, and that, above all, our clients are comfortable and well-informed.&nbsp;
 
