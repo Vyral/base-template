@@ -11,7 +11,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tina+Caul/Greater+Raleigh+Real+Estate-+Pam+Saxman+(1).mp4
 pullquote: >-
   Pam is our team’s operations manager, and in a somewhat literal sense, she is
-  the “woman behind the curtain.
+  the 'woman behind the curtain'.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -35,4 +35,4 @@ We’re on pace to do 300 transactions by the end of the year, and Pam is integr
 
 One fun fact about Pam is that, at one time, she served as a pharmaceutical sales rep and manager, and her family would joke that she was a professional “drug dealer.” After doing that for 17 years, she made the switch to real estate and the rest is history. She’s also quite a musician—she played the violin for 14 years\! &nbsp;
 
-I thank Pam for taking time out of her day to sit down with me and giving some insight into her role on our team. If you have any questions for either of us with regard to your real estate needs, please don’t hesitate to reach out. We’d love to help you\!
+I thank Pam for taking time out of her day to sit down with me and giving some insight into her role on our team. If you have any questions for either of us about your real estate needs, please don’t hesitate to reach out. We’d love to help you\!
