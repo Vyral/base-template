@@ -25,7 +25,7 @@ wHydrate is an IV hydration clinic, where people go to vitamins, minerals, and n
 
 **To learn more about wHydrate and how their services work, refer to the video above or feel free to use the timestamps below to navigate the conversation at your leisure:**
 
-1:54—Why administer nutrients intravenously?<br>2:55—To stay hydrated, why not just drink more water?<br>5:30—The types of symptoms and ailments that IV hydration can help with<br>6:39—To see the wide variety of cocktail infusions they offer, visit [www.wHydrate.com&nbsp;](http://www.wHydrate.com ){: target="_blank"}
+1:54—Why administer nutrients intravenously?<br>2:55—To stay hydrated, why not just drink more water?<br>5:30—The types of symptoms and ailments that IV hydration can help with<br>6:39—To see the wide variety of cocktail infusions they offer, visit [www.wHydrate.com&nbsp;](https://whydrate.com){: target="_blank"}
 
 I highly encourage everyone to check out their website and/or visit one of wHydrate’s locations in the Town Lake area.
 
