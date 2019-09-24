@@ -46,16 +46,16 @@ second_sidebar_CTA:
 
 lender:
   show_section: true
-  header_text: Preferred Lender
-  headshot_path: /img/lender_headshot.jpg
+  header_text: Local Lender
+  headshot_path: /img/lender.jpg
   logo_path: /img/lender_logo.jpg
   logo_path_2:
-  name: Joel Balsley
+  name: Adam Armstrong
   title: Mortgage Banker
-  license_number: 'NMLS #210455, Licensed in VA'
-  phone: 540-278-1430
-  email: JoelBalsley@AtlanticBay.com
-  url: http://AtlanticBay.com/JoelBalsley
+  license_number: 'NMLS #539304, Licensed in VA & WV'
+  phone: 540-639-9711
+  email: adamarmstrong@atlanticbay.com
+  url: https://www.atlanticbay.com/adamarmstrong
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
