@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Perks of Working on a Team vs. Going Solo
+title: Busting Myths About the “Downside” of Being on a Real Estate Team
 date: 2019-09-19 19:38:00
 tags:
   - Real Estate
