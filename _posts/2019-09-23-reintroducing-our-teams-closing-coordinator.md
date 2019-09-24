@@ -9,13 +9,13 @@ excerpt: >-
   new role as closing coordinator, and we can’t wait to explain what this means
   for you.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+Brittany+Perez.mp4
+  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2019/The+Stary+Group-+brittany.mp4
 pullquote: Brittany takes care of all the fine details of closing.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/oZfOrUKWo20'
+youtube_code: 'https://youtu.be/QUzmYkdma2k'
 ---
 
 {% include youtube.html %}
