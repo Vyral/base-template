@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Factors That Determine the Length of a Home Sale
-date:
+date: 2019-09-24 16:55:46
 tags:
   - Home Seller Tips
 excerpt: How long will your home take to sell? It depends on these factors.
