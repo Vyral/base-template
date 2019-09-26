@@ -15,6 +15,6 @@ youtube_alternate_image: /uploads/jennie-wolek--how-do-you-know-what-your-potent
 youtube_code: 'https://youtu.be/GrW6OLrnH0Q'
 ---
 
-{% include youtube.html %}How do you know what your potential is? If you’re asking yourself this question, I can help you find the answer. As an instructor for Quantum Leap for Young Adults, I want to invite you to an upcoming life and leadership workshop on October 12. We’ll help you decide what you want your life to look like and create goals around that vision. Additionally, we’ll be offering two scholarships worth $500 that will go toward education and training.
+{% include youtube.html %}How do you know what your potential is? If you’re asking yourself this question, I can help you find the answer. As an instructor for Quantum Leap for Young Adults (ages 18-30), I want to invite you to an upcoming life and leadership workshop on October 12. We’ll help you decide what you want your life to look like and create goals around that vision. Additionally, we’ll be offering two scholarships worth $500 that will go toward education and training.
 
 To RSVP and save your seat, <u><a target="_blank" href="https://app.kwkc.org/event/jennie-wolek-10-12-2019">click on this link</a></u>. If you have any questions in the meantime, don’t hesitate to reach out to me. I’d love to speak with you.
