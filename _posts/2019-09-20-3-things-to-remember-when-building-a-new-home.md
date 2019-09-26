@@ -17,7 +17,7 @@ youtube_code: gDBCTOjy1BE
 
 {% include youtube.html %}
 
-Inventory has been shrinking recently, which has a large number of buyers turning to build new homes, instead. When buyers do this, though, they need to ensure that they’re being well-represented. There are three reasons this is so important:&nbsp;
+Inventory has been shrinking recently, which has a large number of**&nbsp;**buyers building new homes, instead. When buyers do this, though, they need to ensure that they’re being well-represented. There are three reasons this is so important:&nbsp;
 
 **1\. The on-site agent is working for the builder.** The person you meet when you visit a model home may be perfectly pleasant and knowledgeable, but they aren’t there with your best interests in mind. Rather, they’re there to protect and advocate for the builder. So, given that the builder has an agent on their side, why wouldn’t you want one on yours?
 
