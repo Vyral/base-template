@@ -19,13 +19,13 @@ youtube_code: VvQHWBiB3ys
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here are a few professional tips to prepare both buyers and sellers for the home inspection process.</em></p>
+*Here are a few professional tips to prepare both buyers and sellers for the home inspection process.*
 
 If you’re thinking of buying a home, you might be wondering if you really need to get a home inspection. And if you’re selling a home, you might wonder about how to prepare for that inspection. Today we’ll follow the HomeTeam Inspection Service as they undergo an inspection, and hopefully, their advice will help answer both parties’ questions about this critical stage of the real estate process.
 
 **Feel free to follow along in the video above, or use the timestamps below to navigate the video at your leisure:**
 
-0:34—What Neil Allen of the Home Team Inspectors has been trained to look for during inspections
+0:34—What Neil Allen of the HomeTeam Inspection Service Inspectors has been trained to look for during inspections
 
 1:33—Brad Lawler, owner of the HomeTeam Inspection Service, shares advice about how sellers can prepare their homes for an inspection
 
@@ -39,6 +39,6 @@ The HomeTeam’s checklist is a great boon to homeowners preparing their home fo
 
 We can also send you a handout detailing the 150 steps it takes to sell your home faster and for more money. For a copy of this handout, send me an email with “selling your home fast” in the subject line.
 
-Don’t forget to tune into our Sunday radio show\! Tune in to Real Estate Radio from 8:30 a.m. to 9 a.m. on 840 WHAS.
+Don’t forget to tune into our Sunday radio show\! Tune in to Real Estate Radio from 8:30 a.m. to 9:00 a.m. on 840 WHAS.
 
 And as always, if you have any questions about real estate, don’t hesitate to reach out to the Sokoler Team. We’d love to hear from you.
