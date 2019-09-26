@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our real estate market isn’t as bad as it’s being made out to be.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/The+Truth+About+Whats+Happening+in+Our+Market.mp4
 pullquote: The truth is that real estate is very stable.
 enclosure_type: video/mp4
 enclosure_time:
