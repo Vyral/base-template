@@ -1,5 +1,5 @@
 audit_header: false
-title: Carolina Forest Real Estate Video Blog with Brittany Foy
+title: Myrtle Beach Real Estate Video Blog with Brittany Foy
 description: >-
   Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
   real estate advice. Whether you are a buyer, seller, or investor, our team of
@@ -18,19 +18,19 @@ emma_form: >-
 client:
   name: Brittany Foy
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Brittany specializes in all aspects of real estate, both on the listing and
     buying side. Her extensive knowledge and experience covers short sales,
     foreclosures, first-time home buyers, investors, and relocation, among many
     others. She is also a strategic and aggressive marketer, a thorough and
     consistent communicator, and a negotiator dedicated to your best interests.
     Her impressive business, awards, client list, and reviews/testimonials will
-    prove that Brittany is the Myrtle Beach area agent for you!
+    prove that Brittany is the Myrtle Beach area agent for you\!
   market: Myrtle Beach
   brand: Coldwell Banker
   brokerage:
-  address: '3888 Renee Dr. Myrtle Beach, SC 29579'
-  phone: 843-685-3969
+  address: '3888 Renee Dr.<br />Myrtle Beach, SC 29579'
+  phone: (843) 685-3969
   phone_type:
   phone2:
   phone2_type:
@@ -68,9 +68,9 @@ lender:
   url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
