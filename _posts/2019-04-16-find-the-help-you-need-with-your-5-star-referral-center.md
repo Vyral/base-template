@@ -8,7 +8,7 @@ excerpt: >-
   Our 5-Star Referral Center has so much to offer, and we’ll explain what you
   can expect from it in this quick message.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Bob+Peterson/The+Peterson+Team-+Find+the+Help+You+Need+With+Our+5-Star+Referral+Center.mp4
+  https://vyralmarketing.s3.amazonaws.com/Bob+Peterson/Find+the+Help+You+Need+With+Our+5-Star+Referral+Center.mp4
 pullquote: >-
   The 5-Star Referral Center is your hub for finding the best people,
   businesses, services, and experiences that the Memphis area has to offer.
