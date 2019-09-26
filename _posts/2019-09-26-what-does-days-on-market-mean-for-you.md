@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does “Days on Market” Mean for You?
-date: 2019-09-26 20:42:36
+date: 2019-09-26 20:42:00
 tags:
 excerpt: >-
   By looking at the number of days on market, buyers and sellers can save money
