@@ -8,13 +8,13 @@ excerpt: >-
   As we recap our September market, inventory is quite low, as are interest
   rates.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+market+update+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+market+update+9.26.mp4
 pullquote: The number of new listings on the market has dropped 14% since June.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/hLwXgw2wif4'
+youtube_code: 'https://youtu.be/QeCZVtqiCTs'
 ---
 
 {% include youtube.html %}
