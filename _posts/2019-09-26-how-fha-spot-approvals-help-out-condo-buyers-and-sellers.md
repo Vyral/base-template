@@ -21,7 +21,7 @@ youtube_code: gcIobW2ntTo
 
 {% include youtube.html %}
 
-The ability to get a spot approval for an FHA loan will help condo buyers and sellers alike.
+<p style="text-align:center;"><em>The ability to get a spot approval for an FHA loan will help condo buyers and sellers alike.</em></p>
 
 Few people know about FHA spot approvals, but it’s a resource that can open up many new options for potential condo buyers. If you own a condo or are looking to buy one, this type of approval likely affects you.&nbsp;
 
