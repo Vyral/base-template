@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet Another of Our Team’s Great Agents
-date: 2019-09-24 20:19:57
+date: 2019-09-24 20:19:00
 tags:
 excerpt: >-
   Our team has many great members, which is why we’re back again today with
@@ -22,7 +22,7 @@ youtube_code: FdRBNkiYMOI
 
 In today’s episode of our Agent Spotlight series, we’re featuring a great team member who has been with the John Schuster Group for 11 years now: Tim Lehman.&nbsp;
 
-**Prior to coming to our team, Tim worked as a chef for several fantastic restaurants across the Twin Cities.** Even now that he’s made the switch to real estate, he still loves “playing chef” with at home with his kids. And, of course, Tim’s family away from home (our team) also loves it when he brings in food for us.&nbsp;
+**Prior to coming to our team, Tim worked as a chef for several fantastic restaurants across the Twin Cities.** Even now that he’s made the switch to real estate, he still loves “playing chef” at home with his kids. And, of course, Tim’s family away from home (our team) also loves it when he brings in food for us.&nbsp;
 
 {% include pullquote.html %}
 
