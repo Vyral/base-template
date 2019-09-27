@@ -26,7 +26,7 @@ I got into the real estate industry in 2012. I sold about $3 million in my first
 
 That’s a total of about $200 million. I think that if I started doing one simple thing early on, I would be at around $400 million. **That one thing is coaching.**
 
-I’m talking about fully committed coaching, learning about my business, learning from others' businesses, and paying people to tell me about it. When I started significant coaching about three years ago, it was a lot and I was initially second-guessing the amount of money I was spending.
+I’m talking about fully committed coaching, learning about my business, learning from others' businesses, and paying people to tell me about it. When I started significant coaching about three years ago, it was a lot, and I was initially second-guessing the amount of money I was spending.
 
 **However, the coaching I received made me accountable, made me see things I hadn’t before, and made me open up to lots of different ideas.** That kind of coaching lasted a couple of years, and then I moved on to more of a “mindset” coach. This coach really opened my eyes to what is possible in the industry.
 
@@ -40,6 +40,6 @@ There are a lot of coaches out there that aren’t super expensive. **If you’r
 
 One of the most important things you want to make sure of is that you’re a good fit with your coach, too—both personality- and communication-wise.
 
-**Finally, you have to be coachable to do well with coaching.** If someone says something to you and you can go ahead and do it, that’s going to help you out a lot. Stubbornness or pride will not.
+**Finally, you have to be coachable to do well with coaching.** If someone says something to you and you can go ahead and do it, that’s going to help you out a lot; stubbornness or pride will not.
 
 If you have any questions for me or want some recommendations on a coach that would work best for you, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
