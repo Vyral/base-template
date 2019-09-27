@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Great Way For Small Business Owners to Qualify for a Mortgage
-date: 2019-06-13 21:53:00
+date: 2019-09-27 00:00:00
 tags:
   - Real Estate
 excerpt: >-
