@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/7POzGNPBCHI'
 
 {% include youtube.html %}
 
-Interest rates are incredibly low right now, and today I’d like to share what this means for you and your real estate goals.
+<p style="text-align: center;"><em>Interest rates are incredibly low right now, and today I’d like to share what this means for you and your real estate goals.</em></p>
 
 Interest rates have been a hot topic as of late, and so today we’d like to clarify what all the buzz is about.&nbsp;
 
