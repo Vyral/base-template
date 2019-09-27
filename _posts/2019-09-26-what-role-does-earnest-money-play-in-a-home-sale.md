@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Role Does Earnest Money Play in a Home Sale?
-date: 2019-10-30 00:00:00
+date: 2019-09-26 00:00:00
 tags:
   - Real Estate
 excerpt: Earnest money play an important part in the sale of a home.
