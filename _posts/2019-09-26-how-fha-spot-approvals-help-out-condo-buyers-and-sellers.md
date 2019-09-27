@@ -15,13 +15,13 @@ pullquote: 'As of October, we can do spot approvals for the FHA loan.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/spot-approval-youtube.jpg
 youtube_code: gcIobW2ntTo
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>The ability to get a spot approval for an FHA loan will help condo buyers and sellers alike.</em></p>
+*The ability to get a spot approval for an FHA loan will help condo buyers and sellers alike.*
 
 Few people know about FHA spot approvals, but it’s a resource that can open up many new options for potential condo buyers. **If you own a condo or are looking to buy one, this type of approval likely affects you.**
 
