@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: >-
   Discount points can be used to save thousands on your mortgage payment. Here’s
-  how it works.
+  how they works.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/A+Closer+Look+at+Discount+Points.mp4
 pullquote: Discount points are not always avoidable.
@@ -19,13 +19,13 @@ youtube_code: Ay-bfpyMn8A
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Discount points can be used to save thousands on your mortgage payment. Here’s how it works.</em></p>
+*Discount points can be used to save thousands on your mortgage payment. Here’s how they works.*
 
 Discount points are a fee that you pay a lender in advance in return for a lower interest rate through the life of your mortgage. **These can equate to huge savings, but you always have to look at it in a cost versus benefit situation.**
 
 If you plan to be in a home for longer than five to seven years, it might make sense to pay a little more at closing in order to save on your mortgage each month. **It’s all about whether saving money later or saving money now is a better idea.**
 
-Discount points are going to lower your monthly payment, but they also have tax advantages. Be sure to check with your tax professional first, but discount points have been tax deductible in the past.
+Discount points are going to lower your monthly payment, but they also have tax advantages. Be sure to check with your tax professional first, but discount points have been tax-deductible in the past.
 
 {% include pullquote.html %}
 
