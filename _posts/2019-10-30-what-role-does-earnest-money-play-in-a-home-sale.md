@@ -20,16 +20,16 @@ youtube_code: 'https://youtu.be/mkBBd79nf_M'
 
 What is earnest money and what part does it play in a real estate transaction?
 
-**Earnest money is a deposit paid by the homebuyer that’s considered a partial payment toward the purchase of the home.** Typically, payment is made in the form of a check or an electronic transfer, and it’s usually kept in the listing broker’s trust account, where it stays until after closing or gets released by another method (more on that below).&nbsp;
+**Earnest money is a deposit paid by the homebuyer that’s considered a partial payment toward the purchase of the home.** Typically, payment is made in the form of a check or electronic transfer and it’s usually held in the listing broker’s trust account, where it stays until closing or is released via another method (more on that below.)
 
-Earnest money is due two days after final acceptance. Once the company holding the check receives it, they have three business days to deposit it into their trust account.
+Earnest money is due two days after final acceptance of the purchase agreement. Once the company holding the earnest money check receives it, it has three business days to deposit it into the trust account.
 
 {% include pullquote.html %}
 
-Contrary to popular belief, **sellers can’t keep the deposit if the buyer backs out of the deal during the inspection contingency period.** As long as the buyer provides a cancelation in writing to the seller’s agent before midnight on the day of the inspection period’s expiration, they get their earnest money back—it doesn’t matter what their reason for canceling is or whether they did any inspections at all.&nbsp;
+Contrary to popular belief, **sellers cannot retain the deposit if the buyer backs out of the purchase during the inspection contingency period.** &nbsp;As long as the buyer provides a notice of cancellation in writing to the seller’s agent before midnight on the day of the inspection period’s expiration, the buyer is entitled to receive a full earnest money refund. &nbsp;The reason for cancellation does not matter, nor does it matter whether the buyer did any inspection at all whatsoever. &nbsp;
 
-There are four main ways earnest money is released. Two of these we’ve already mentioned: the closing of the property and a written cancelation. The third instance is when one side files a statutory cancelation, or when one party refuses to sign the cancelation and it’s then required through Minnesota statutes that the money is refunded. The fourth is through a court order, but that’s incredibly rare.&nbsp;
+There are four ways earnest money is released. Two of these we’ve already mentioned: &nbsp;At the closing of the property, and upon receipt of a written cancellation. The third instance is when one side files a statutory cancellation. &nbsp; This occurs when one party refuses to sign the cancellation. In such cases, Minnesota statutes dictate that the earnest money is refunded to the buyer. The fourth is through a court order, and that is incredibly rare.
 
-**The most common earnest money amount that gets deposited is 1% of the home’s purchase price.** Whether it’s higher or lower than that is something the buyer and seller can negotiate over.&nbsp;
+**The customary earnest money amount is 1% of the purchase price.** Whether it’s higher or lower is something the buyer and seller can negotiate.
 
-If we can answer any more questions about earnest money or any other components of a purchase agreement, don’t hesitate to reach out to us. We’d love to help you.<br>&nbsp;
+If we can answer any more questions about earnest money or any other components of a purchase agreement, don’t hesitate to reach out to us. We’d love to help you.
