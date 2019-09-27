@@ -19,7 +19,7 @@ youtube_code: Ay-bfpyMn8A
 
 {% include youtube.html %}
 
-*Discount points can be used to save thousands on your mortgage payment. Here’s how they works.*
+<p style="text-align:center;"><em>Discount points can be used to save thousands on your mortgage payment. Here’s how they works.</em></p>
 
 Discount points are a fee that you pay a lender in advance in return for a lower interest rate through the life of your mortgage. **These can equate to huge savings, but you always have to look at it in a cost versus benefit situation.**
 
