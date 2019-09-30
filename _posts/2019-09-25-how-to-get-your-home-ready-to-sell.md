@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/l9NQY3u1qLY'
 
 There are so many things you can do to get your home ready to sell, but I’m going to focus on the seven most important ones today:
 
-**1\. Declutter the home.** Before I ever go see a home, I ask that it be decluttered. This means picking stuff up off the floor, cleaning off the shelves, getting rid of loose papers, etc. Pretend you’re having your floors or carpets clean and that’s a good starting point. Declutter your shelves, too.
+**1\. Declutter the home.** Before I ever go see a home, I ask that it be decluttered. This means picking stuff up off the floor, cleaning off the shelves, getting rid of loose papers, etc. Pretend you’re having your floors or carpets clean, that will be a good starting point. Declutter your shelves, too.
 
 **2\. Light bulbs.** Light bulbs matter, but a lot of homeowners don’t realize it. I went into a home recently that had four different colors of lightbulbs in the same bathroom. Make sure all of your lightbulbs are the same color and every bulb matches. 4k is the number that you’re looking for when it comes to the type of bulb you should get.
 
