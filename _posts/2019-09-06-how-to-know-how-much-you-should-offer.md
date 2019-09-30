@@ -8,15 +8,15 @@ excerpt: >-
   How much should you offer for a home you’re interested in? Here’s some
   information to help you get an idea.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Wes+Peters/How+to+Know+home+Much+You+Should+Offer+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Wes+Peters/How+to+Know+home+Much+You+Should+Offer+(2).mp4
 pullquote: >-
   You’ll need a different strategy for a home that just hit the market than one
   that’s been listed for, say, six months.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/wes-peters-a-guide-to-help-craft-your-offer-youtube.png
-youtube_code: NCDl4WK5Dvc
+youtube_alternate_image: /uploads/how-much-should-i-offer-youtube.jpg
+youtube_code: qFYhM_Z7AQ8
 ---
 
 {% include youtube.html %}
