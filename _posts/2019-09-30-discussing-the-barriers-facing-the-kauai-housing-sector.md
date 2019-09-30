@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Discussing the Barriers Facing the Kaua’i Housing Sector
-date: 2019-09-30 20:29:54
+date: 2019-09-30 20:29:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: 'It’s projected by 2035 that Kaua''i will need 9,000 more housing units.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/9-26-19smol.jpg
 youtube_code: hf-DBO37GpA
 ---
 
