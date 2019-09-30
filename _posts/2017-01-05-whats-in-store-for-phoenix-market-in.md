@@ -12,7 +12,7 @@ title: What's in Store for the Phoenix Market in 2017?
 date: '2017-01-05T10:36:00.002-08:00'
 author: Vyral Admin
 tags:
-- 2017 Predictions
+- Market Update
 modified_time: '2017-01-05T10:42:00.765-08:00'
 thumbnail: https://i.ytimg.com/vi/3iCgD91PkNM/default.jpg
 blogger_id: tag:blogger.com,1999:blog-4143066208652767499.post-7529494595746104484
