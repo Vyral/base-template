@@ -18,7 +18,7 @@ youtube_code: 7-DpqS6532Y
 
 {% include youtube.html %}
 
-Have you heard of the new build-to-rent real estate trend?
+<center>Have you heard of the new build-to-rent real estate trend?</center>
 
 Build-to-rent communities are communities of single-family homes that are only available as rentals. These properties have the feel of regular single-family homes, but with the amenities and exterior maintenance that you’d find at an apartment complex.
 
