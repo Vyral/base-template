@@ -20,6 +20,8 @@ youtube_code: Mjxjas7425s
 
 {% include youtube.html %}
 
+<p style="text-align:center;"><em>Don’t forget the closing costs! Learn about what these costs are and how you can get them lowered.</em></p>
+
 I’m joined today by buyer specialist Brittany Dailey, who will be giving us an in-depth look at the closing costs involved in a home sale. To begin, let’s go over what closing costs are.
 
 Many people think you only need money for a down payment, but there are many other fees involved. These are closing costs, which are the additional expenses associated with purchasing a home. Fortunately, most of the closing costs are prepaid, such as taxes and insurance. These prepaid amounts depend on your lender and your credit score, but they typically make up for three to six months’ worth of property tax and insurance.
