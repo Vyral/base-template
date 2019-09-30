@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Expect From Closing Costs?
-date: 2019-09-30 18:14:58
+date: 2019-09-30 18:14:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
