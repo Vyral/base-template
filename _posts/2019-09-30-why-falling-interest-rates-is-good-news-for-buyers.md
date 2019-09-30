@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/VgLAc3Yda5I'
 
 {% include youtube.html %}
 
-Interest rates are falling, which means now is a great time to buy.
+<p style="text-align: center;"><em>Interest rates are falling, which means now is a great time to buy.</em></p>
 
 Falling interest rates is a trend that sounds wonderful, but what does this really mean for you? Does it make that big of a difference if you’re a homebuyer? **Actually, yes.&nbsp;**
 
