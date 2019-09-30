@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are four reasons why the fall season might be your best opportunity in
   quite some time to buy a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Think+About+Buying+in+Our+Fall+Market.mp4
 pullquote: Give deeper consideration to your reasons for wanting to buy a home.
 enclosure_type: video/mp4
 enclosure_time:
