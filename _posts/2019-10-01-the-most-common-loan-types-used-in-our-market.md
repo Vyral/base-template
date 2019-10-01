@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Most Common Loan Types Used in Our Market
-date:
+date: 2019-10-01 15:38:06
 tags:
 excerpt: What kind of loans are used most commonly in our market? Let’s discuss.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/sikes-youtube-2-2.jpg
 youtube_code: zWmp0FKqDTI
 ---
 
-{% include youtube.html %}<center>What kind of loans are used most commonly in our market? Let’s discuss.</center>
+{% include youtube.html %}
+
+<center>What kind of loans are used most commonly in our market? Let&rsquo;s discuss.</center>
+
+&nbsp;
 
 In our local market, there are four types of home loans we see used more often than any others. Today, I’ll share what each of them is and what they entail.
 
