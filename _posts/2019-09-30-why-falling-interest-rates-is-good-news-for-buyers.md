@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/VgLAc3Yda5I'
 
 Falling interest rates is a trend that sounds wonderful, but what does this really mean for you? Does it make that big of a difference if you’re a homebuyer? **Actually, yes.&nbsp;**
 
-Interest rates are under 4% right now. Back in January of this year, they were hovering between 4.5% to 4.75%. This means you can currently buy a house worth $360,000 to $370,000 for the same exact mortgage payment that would’ve only got you a $300,000 house back in January.
+Interest rates are under 4% right now. Back in January of this year, they were hovering between 4.5% to 4.75%. This means you can currently buy a house worth $360,000 to $370,000 for the same exact mortgage payment that would’ve only gotten you a $300,000 house back in January.
 
 {% include pullquote.html %}
 
