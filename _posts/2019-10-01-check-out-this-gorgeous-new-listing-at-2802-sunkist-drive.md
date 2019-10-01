@@ -18,7 +18,7 @@ youtube_code: f5Et862MTYQ
 
 {% include youtube.html %}
 
-2802 Sunkist Drive just came on the market, and I’m excited to give you this exclusive look at it.&nbsp;
+<p style="text-align:center;"><em>2802 Sunkist Drive just came on the market, and I’m excited to give you this exclusive look at it.</em></p>
 
 I was recently a guest once again on “List It Live” and I had the opportunity to showcase another gorgeous home that has recently come on the market.&nbsp;
 
