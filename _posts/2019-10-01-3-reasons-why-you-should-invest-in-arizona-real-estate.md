@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/NqmsaeVFMp4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three things that make Arizona the perfect place for your next real estate investment.</em></p>
+
 If you’ve been thinking about investing in real estate, Arizona should be at the top of your list. There are three big reasons why our state makes for such a good choice:
 
 **1\. The economy and population growth:** Our economy has been doing very well, and the governor recently announced that we have a $1 billion rainy-day fund. If a recession happens, this fund will help us manage its impact. On top of this, Arizona ranks sixth in terms of U.S. population growth rates. We’re sitting at around 1.4% growth per year, which equates to 200 people moving to Arizona each day. The combination of a good economy and a high population growth means that there’s plenty of demand for places to live — perfect for investment\!
