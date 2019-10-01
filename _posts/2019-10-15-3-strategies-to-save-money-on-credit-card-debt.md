@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Strategies to Save Money on Credit Card Debt
-date:
+date: 2019-10-15 00:00:00
 tags:
 excerpt: >-
   Getting rid of credit card debt not only increases your credit score, it’s a
