@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   By looking at the number of days on market, buyers and sellers can save money
   during a home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/What+Does+Days+on+Market+Mean+for+You_.mp4
 pullquote: >-
   A high number of days on market means the seller is having a hard time
   selling.
