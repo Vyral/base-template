@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Reasons Why You Should Invest in Arizona Real Estate
-date: 2019-10-01 13:50:14
+date: 2019-10-01 13:50:00
 tags:
   - Real Estate
 excerpt: >-
