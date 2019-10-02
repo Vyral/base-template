@@ -19,7 +19,7 @@ youtube_code: hf-DBO37GpA
 
 {% include youtube.html %}
 
-Here on Kaua'i, **we currently have just over 31,000 housing units,** and 63% of them are owner-occupied, meaning 38% of our homeowners are from the mainland (1% are owned by foreign investors). Mainland homeowners account for 50% of home values, while 65% of our sales come from locally-owned homes, accounting for 49% of home values.
+Here on Kaua'i, **we currently have just over 31,000 housing units,** and 63% of them are owner-occupied, meaning 38% of our homeowners are from the mainland (1% are owned by foreign investors). Mainland homeowners account for 50% of home values, while 65% of our sales come from locally owned homes, accounting for 49% of home values.
 
 The population of Kaua'i has increased from 67,000 in 2010 to 72,000 according to last year’s census. Interestingly enough, according to Paul Brubaker from EZ Economics, **our current domestic migration is negative;** that means we have more people leaving the island than we have coming in. Housing affordability is a key part of that trend.
 
@@ -33,7 +33,7 @@ So if you’re thinking about buying property on the island of Kaua'i, it’ll c
 
 As I’ve said many times before, **we’re starting to see a deceleration in our home value appreciation.** Though the market isn’t likely to crash anytime soon, the demand and the costs are such that our appreciation has leveled out. Of course, the 2020 presidential election and all the talk of recession probably aren’t helping things.
 
-Habitat For Humanity did bring a bright note to the conference: the Kaua'i chapter actually builds more homes per year than all the other chapters around the state. **They’ve figured out a way to build and deliver a home for $270,000\!** Now, costs are kept down because the families that build with Habitat For Humanity have to put in a lot of sweat equity, but still—in a place where the median price of housing is over $600,000, to have a home for $270,000 is really a remarkable achievement.
+Habitat For Humanity did bring a bright note to the conference: The Kaua'i chapter actually builds more homes per year than all the other chapters around the state. **They’ve figured out a way to build and deliver a home for $270,000\!** Now, costs are kept down because the families that build with Habitat For Humanity have to put in a lot of sweat equity, but still—in a place where the median price of housing is over $600,000, to have a home for $270,000 is really a remarkable achievement.
 
 I left the summit thinking that maybe the county should hire Habitat For Humanity to make better inroads in our affordability crisis. Of course, not everyone wants the size or quality of home that Habitat builds, but they do provide quality housing for those whose income is below the median income.
 
