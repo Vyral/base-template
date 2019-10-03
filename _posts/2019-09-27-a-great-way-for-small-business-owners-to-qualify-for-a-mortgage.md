@@ -21,6 +21,8 @@ youtube_code: 7h6XEmGo_ss
 
 {% include youtube.html %}
 
+<p style="text-align:center;"><em>If you’re self-employed, using a non-qualified mortgage loan is a great way to buy a home.</em></p>
+
 Today I’m joined by Steve Hankla of Doorway Home Loans to provide some quick tips for small business owners, independent contractors, and others who work in the gig economy on how they can qualify to purchase a home or an investment property.
 
 Prior to the market crash of 2008, self-employed borrowers only needed to state their income and their assets to qualify for a mortgage loan, but that’s not the case anymore.
