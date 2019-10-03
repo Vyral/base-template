@@ -10,7 +10,9 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Tim+Majka/Southern+California+Real+Estate+Agent-+Financing+for+business+owners+and+contractors.mp4
 pullquote: >-
-  About a year or two ago, some mortgage companies started offering "non-QM loans" that are ideal for small business owners making it easier for them to qualify to buy a home or investment property.
+  About a year or two ago, some mortgage companies started offering “non-QM
+  loans” that are ideal for small business owners making it easier for them to
+  qualify to buy a home or investment property.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,7 +22,7 @@ youtube_code: 7h6XEmGo_ss
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>If you’re self-employed, there are some new loan programs that can help you qualify to purchase a home or investment property.</em></p>
+*If you’re self-employed, there are some new loan programs that can help you qualify to purchase a home or investment property.*
 
 Today I’m joined by Steve Hankla of Doorway Home Loans to provide some quick tips for small business owners, independent contractors, and others who work in the gig economy on how they can qualify to purchase a home or an investment property.
 
