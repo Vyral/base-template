@@ -16,7 +16,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/justin-woodall-is-it-ever-a-good-idea-to-work-with-a-listing-agent-youtube.jpg
-youtube_code: 'https://youtu.be/Rom1CRJoJ_U'
+youtube_code: 'https://youtu.be/Xi1frA9ouvI'
 ---
 
 {% include youtube.html %}
