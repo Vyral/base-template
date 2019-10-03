@@ -30,7 +30,7 @@ This 3-bedroom, 4.5-bath home has had just one owner since it was custom-built i
 
 The home was built in three levels—the lowest of which has an indoor/outdoor pool and a rec room that’s great for entertaining. Above that, the main level features an open floor plan, and a huge walkaround deck runs along the outside of the kitchen and dining room areas, offering a beautiful sunrise view each morning. On the top level, the master bedroom connects to a west-facing balcony. Overall, this home is in great shape and is move-in ready.&nbsp;
 
-**To get a better look at this home for yourself, visit:****[http://www.homecb.com/2802sunkistdrive-vista](http://www.homecb.com/2802sunkistdrive-vista){: target="_blank"}.**
+**To get a better look at this home for yourself, visit: [http://www.homecb.com/2802sunkistdrive-vista](http://www.homecb.com/2802sunkistdrive-vista){: target="_blank"}.**
 
 All of the information you need is there.
 
