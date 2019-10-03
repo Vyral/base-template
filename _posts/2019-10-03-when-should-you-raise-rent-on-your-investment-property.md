@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Should You Raise Rent on Your Investment Property?
-date:
+date: 2019-10-03 19:31:41
 tags:
   - Real Estate
 excerpt: >-
