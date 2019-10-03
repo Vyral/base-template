@@ -22,7 +22,7 @@ youtube_code: 7h6XEmGo_ss
 
 {% include youtube.html %}
 
-*If you’re self-employed, there are some new loan programs that can help you qualify to purchase a home or investment property.*
+<p style="text-align:center;"><em>If you’re self-employed, there are some new loan programs that can help you qualify to purchase a home or investment property.</em></p>
 
 Today I’m joined by Steve Hankla of Doorway Home Loans to provide some quick tips for small business owners, independent contractors, and others who work in the gig economy on how they can qualify to purchase a home or an investment property.
 
