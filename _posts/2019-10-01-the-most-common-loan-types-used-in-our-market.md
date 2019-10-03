@@ -25,7 +25,7 @@ In our local market, there are four types of home loans we see used more often t
 
 <br>**2\. VA loans.** These loans are specifically designed for veterans, who can use it to buy a home with zero down. The max loan for this is also fairly generous, at around $453,000. Better yet, the loan also reduces or removes the expense of mortgage insurance, depending on your circumstances.&nbsp;
 
-<br>**3\. Conventional loans.** This is perhaps the most common type of loan product. Those who use it can put down as little as 3.5% down, but submitting a down payment of at least 20% is preferable if you want to lower your monthly payments.&nbsp;
+<br>**3\. Conventional loans.** This is perhaps the most common type of loan product. Those who use it can put as little as 3.5% down, but submitting a down payment of at least 20% is preferable if you want to lower your monthly payments.&nbsp;
 
 <br>**4\. Jumbo loans.** If you need to borrow more than $453,000, this is the loan product you’ll need to get.&nbsp;
 
