@@ -19,7 +19,7 @@ youtube_code: oCQGre6Ls7k
 
 {% include youtube.html %}
 
-Here’s a quick tip for homebuyers regarding the information presented in a listing.
+<center>Here’s a quick tip for homebuyers regarding the information presented in a listing.</center>
 
 Recently, one of our buyers was purchasing a home in a community where the school district was listed incorrectly for every single listing in that area. If there’s a particular feature of a home that you’re looking for, be it that home’s school district or its septic tank square-footage, **share that with your agent so they can double-check primary sources to make sure the listing’s information is accurate**. You don’t want to find out later in the process that something you were depending on turned out to be wrong, like our buyer\!
 
