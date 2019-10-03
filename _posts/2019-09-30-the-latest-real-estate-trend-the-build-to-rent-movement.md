@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-27---kevin-langan---yt.jpg
-youtube_code: 7-DpqS6532Y
+youtube_code: fEe74LORY6E
 ---
 
 {% include youtube.html %}
@@ -26,7 +26,7 @@ Build-to-rent communities are communities of single-family homes that are only a
 
 Today I’ll discuss **three key points to keep in mind as you consider build-to-rent housing:**
 
-**1\. Older generations are choosing to rent**. Many people of retirement age who move to Arizona are making the decision to rent homes instead of buying them so they don’t have to deal with maintenance. They can still get the feel of a single-family home and pride in their property like a homeowner.
+**1\. Older generations are choosing to rent**. Many people of retirement age who move to Arizona are making the decision to rent homes instead of buying them so they don’t have to deal with maintenance. They can still get the feel of a single-family home and take pride in their property like a homeowner.
 
 **2\. Younger generations aren’t yet ready to buy**. Many in the younger generations are in financial positions that make purchasing a home difficult. They want a stepping stone between renting an apartment and owning a home of their own, and the build-to-rent movement is a great middle ground.
 
