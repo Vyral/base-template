@@ -16,12 +16,12 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/oggie-penev-why-arizona-is-a-good-place-to-invest-in-real-estate-youtube.png
-youtube_code: r0y86w81oyU
+youtube_code: 'https://youtu.be/Cz0VA-I86RA'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are three things that make Arizona the perfect place for your next real estate investment.</em></p>
+*There are three things that make Arizona the perfect place for your next real estate investment.*
 
 If you’ve been thinking about investing in real estate, Arizona should be at the top of your list. There are three big reasons why our state makes for such a good choice:
 
