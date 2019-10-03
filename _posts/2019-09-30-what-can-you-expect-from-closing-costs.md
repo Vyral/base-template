@@ -20,7 +20,7 @@ youtube_code: l_y7BrhvN3s
 
 {% include youtube.html %}
 
-*Don’t forget the closing costs\! Learn about what these costs are and how you can get them lowered.*
+<p style="text-align:center;"><em>Don’t forget the closing costs\! Learn about what these costs are and how you can get them lowered.</em></p>
 
 I’m joined today by buyer specialist Brittany Dailey, who will be giving us an in-depth look at the closing costs involved in a home sale. To begin, let’s go over what closing costs are.
 
