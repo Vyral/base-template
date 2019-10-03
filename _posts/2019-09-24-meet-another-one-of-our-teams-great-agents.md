@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet Another of Our Team’s Great Agents
+title: Meet Another One of Our Team’s Great Agents
 date: 2019-09-24 20:19:00
 tags:
 excerpt: >-
