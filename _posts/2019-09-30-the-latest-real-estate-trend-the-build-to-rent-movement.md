@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-27---kevin-langan---yt.jpg
-youtube_code: fEe74LORY6E
+youtube_code: 8eSOoObz5H8
 ---
 
 {% include youtube.html %}
