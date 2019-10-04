@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/gray-youtube-3.jpg
 youtube_code: h_4g_VTr11c
 ---
 
-{% include youtube.html %}It’s time to start building your real estate team, and today I’ll share how you can do so.&nbsp;
+{% include youtube.html %}<center>It’s time to start building your real estate team, and today I’ll share how you can do so.</center>&nbsp;
 
 Fellow agents, I’ve got an important message: It’s time to start building your real estate team.&nbsp;
 
