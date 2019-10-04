@@ -21,4 +21,4 @@ youtube_code: PpfOJUimF1g
 
 <p style="text-align:center;"><em>If you’re a real estate investor, you might be wondering when you should be raising your rent? Here are a few situations where I recommend doing so.</em></p>
 
-In my opinion, the best time to raise the rent on your investment property is on a few different occasions. The first is on a yearly basis. The second is when you make any improvements or add any amenities to the property. Finally, any time that you notice the market is headed up, you want to stay competitive with other properties as well by increasing your rent. To learn more, watch this short video.
+In my opinion, the best time to raise the rent on your investment property is on a few different occasions. The first is on annually. The second is when you make any improvements or add any amenities to the property. Finally, any time that you notice the market is headed up, you want to stay competitive with other properties as well by increasing your rent. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
