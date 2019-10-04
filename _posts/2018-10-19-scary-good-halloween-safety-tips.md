@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Scary good Halloween safety tips
-date: 2018-10-19 15:56:38
+date: 2018-10-19 15:56:00
 tags:
   - Real Estate
 excerpt:
@@ -68,8 +68,8 @@ Parents should also be mindful of treats that could pose a choking hazard. Hard 
 
 **If you have any additional questions regarding tainted or unsafe candy, you can contact Poison Control at 1-800-222-1222 or your local police department.**
 
-By following these tips, you and your trick-or-treaters will be all set to have a safe and happy holiday. Happy Halloween!
+By following these tips, you and your trick-or-treaters will be all set to have a safe and happy holiday. Happy Halloween\!
 
 Sincerely,
 
-Tina Caul<br>Caul Group Residential | KW<br>Two Locations to Serve You<br>Raleigh | 201 Shannon Oaks Dr, Suite 101 Cary, NC 27511<br>919-263-7653<br>Team@CaulTeam.com<br>CaulGroup.com
+Tina Caul
