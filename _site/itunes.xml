@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</description>
     <language>en</language>
     <managingEditor></managingEditor>
-    <lastBuildDate>2019-09-20 13:56:08 -0500</lastBuildDate>
+    <lastBuildDate>2019-10-04 11:26:52 -0500</lastBuildDate>
     <media:copyright></media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,113 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Vyral Marketing - your professional  Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Week of 09-16-2019</title>
+        <link>localhost:4000/week-of-091619.html</link>
+        
+        <author></author>
+        <pubDate>2019-09-16 00:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>Victoria Velazquez | Your 2019 Summer Market Update | 47.0%
+
+Bill Stevenson | September PT #1 | 40.4%
+
+Robert Dekanski | Stay ahead of the game in our real estate market | 31.7%
+
+Tiffany Fykes | What Recent Trends in Our Market Mean for Buyers and Sellers | 30.7%
+
+Michael Pietrack | Common Post-Resignation Counteroffer Ploys | 30.0%
+
+Anastasia Riley | When does it make sense to refinance? | 27.9%
+
+Nate Martinez - Recruiting | Building the perfect week | 26.0%
+
+Leland Titus | The Latest From Our Santa Fe Market | 25.4%
+
+Joshua Holt | How to Keep Your Yard Fresh This Winter | 25.1%
+
+Tim Chase | The Purpose of a Funding Fee | 24.7%
+
+Frank Gray | The 3 Benefits the B.R.A Provides to Both You and Your Clients | 24.1%
+
+Chris Hauck | A closer look at our real estate market | 24.0%
+
+Brian Lessinger | When Is the Best Time to Take Pictures of Your Home for Sale? | 22.4%
+
+Kenny Klaus | How Can Sellers Take Advantage of Our Current Market? | 21.8%
+
+Brian Ernst | How to Run a High-Performance Calendar | 21.7%
+
+Nate Martinez | The latest from our September market | 21.7%
+
+Kevin McCarthy | Due Diligence in Action: Performing a Plumbing Line Test | 20.6%
+
+Cristina Dougherty | A Few Quick Tips on Refinancing Your Home | 20.1%
+
+Jerry Van Leeuwen | 5 questions to ask an agent before hiring them | 20.0%
+
+Lona &amp; Doug Leugers | A Noteworthy Trend Affecting Our Local Market | 19.5%
+
+Mikki Ramey | Looking at the “buyer funnel” | 19.4%
+
+Dan Fulkerson | Our Approach to Personal Injury Cases | 17.4%
+
+Donald Payne | What Does the Franklin County Appraisal Process Look Like? | 16.9%
+
+John Head | WATCH: Exploring a gorgeous home steeped in history | 16.4%
+
+Matt O’Neill | How to Get Top Dollar When Selling Your Home | 16.1%
+
+Tiffany Johannes | Why Relying on Your Agent’s Pricing Advice Is So Important | 15.8%
+
+Brian White | What Should Homebuyers Know About Their Agents? | 13.8%
+
+Jason Cramer | How to Sell Your Home and Leave Any Unwanted Items Behind | 13.1%
+
+Zach Sikes | Overpricing Your Home Can Cost You Thousands | 12.8%
+
+Scott Fuller | Why it could soon be more difficult to get a mortgage | 12.7%
+
+Chris Watters | 5 Things That Will Crush Your Ability to Buy a Home | 12.2%
+
+Diane Cardano-Casacio | What’s our home price situation? | 11.9%
+
+Kevin Hudoba | What Should All Real Estate Investors Know? | 11.7%
+
+Jason Daniels | Can you turn your home into an Airbnb? | 11.5%
+
+Janice Overbeck | WATCH: Mark your calendars for these great events | 11.3%
+
+Justin Udy | Should You Sell to an iBuyer? | 10.8%
+
+Aaron &amp; Kelly Allen | What Are the Additional Costs of Buying a Home? | 10.7%
+
+Fred &amp; Tami Holmes | What Should All Real Estate Investors Know? | 10.5%
+
+Nick Kellar | Reach Out to Us Whenever You Need | 9.9%
+
+JP Pirtle | Louisville Market Recap for August 2019 | 9.4%
+
+Ferzoco Group | What Should You Know When Preparing to Buy a Home? | 8.9%
+
+Melissa Thompson | Should You Buy or Build Your Next Home? | 8.9%
+
+Scott Lander | How Can Our Buyer’s Agents Help You? | 8.9%
+
+Kathy Toth | How Pet Owners Can Still Sell Their Homes for Top Dollar | 8.4%
+
+Chris Mullinix | When is the best time to buy or sell a home? | 7.5%
+</description>
+        <enclosure url="" length="" type=""/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type=""/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This week's Top Performing Emails were sent Victoria Velazquez, Bill Stevenson, Robert Delanski, Tiffany Fykes and Michael Pietrack</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>This week's Top Performing Emails were sent Victoria Velazquez, Bill Stevenson, Robert Delanski, Tiffany Fykes and Michael Pietrack</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Week of 09-09-2019</title>
         <link>localhost:4000/week-of-090919.html</link>
