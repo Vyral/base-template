@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/SJ7IQPneZwQ'
 
 {% include youtube.html %}
 
-If your offer on a home is rejected, don’t worry—there are ways to still get the home you desire.
+<p style="text-align: center;"><em>If your offer on a home is rejected, don’t worry—there are ways to still get the home you desire.</em></p>
 
 Today I want to talk about home offers.&nbsp;
 
