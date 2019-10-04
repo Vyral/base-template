@@ -4,7 +4,8 @@ title: The Most Common Loan Types Used in Our Market
 date: 2019-10-01 15:38:00
 tags:
 excerpt: What kind of loans are used most commonly in our market? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Zach+Sikes/The+Most+Common+Loan+Types+Used+in+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
