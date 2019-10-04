@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard of Our Heroes Program?
-date: 2019-10-04 19:52:03
+date: 2019-10-04 19:52:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,3 +20,5 @@ youtube_code: nC9DZTAcmrk
 {% include youtube.html %}
 
 In 2014, Jeff Grossarth and I introduce the “Homes for Heroes” program to Connecticut. Since then, we’ve helped dozens of families save thousands when buying or selling a home. This program is specially made for law enforcement, firefighters, military members, health professionals, and teachers. To find out how you can benefit from this program, watch this short video.
+
+Jeff Grossarth<br>Cell: 203-209-9037
