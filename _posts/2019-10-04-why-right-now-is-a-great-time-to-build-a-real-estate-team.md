@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Right Now is a Great Time to Build a Real Estate Team
-date:
+date: 2019-10-04 19:24:08
 tags:
 excerpt: >-
   It’s time to start building your real estate team, and today I’ll share how
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/gray-youtube-3.jpg
 youtube_code: h_4g_VTr11c
 ---
 
-{% include youtube.html %}<center>It’s time to start building your real estate team, and today I’ll share how you can do so.</center>&nbsp;
+{% include youtube.html %}
+
+<center>It&rsquo;s time to start building your real estate team, and today I&rsquo;ll share how you can do so.</center>
+
+&nbsp;
 
 Fellow agents, I’ve got an important message: It’s time to start building your real estate team.&nbsp;
 
