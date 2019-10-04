@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/GQU1B00sIQo'
 
 {% include youtube.html %}
 
-Are you happy with the way your career, your relationships, and your life are going? If you aren’t, I have some good advice to share with you today.
+<p style="text-align: center;"><em>Are you happy with the way your career, your relationships, and your life are going? If you aren’t, I have some good advice to share with you today.</em></p>
 
 The fall market is here. The leaves are changing and, quite frankly, the real estate market is changing, too. Interest rates are still very low, so it’s a great time to buy a home and lock in a 30-year mortgage. At the same time, the market is fragmented. Certain segments are doing very well, while other segments are struggling. It all depends on your personal situation.&nbsp;
 
