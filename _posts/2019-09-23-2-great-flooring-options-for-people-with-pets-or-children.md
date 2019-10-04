@@ -8,7 +8,7 @@ excerpt: >-
   Are your floors in need of an upgrade? If so, allow me to share a few great
   flooring options with you today.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/+Priyanka+Johri/2019/North+Houston+Real+Estate-+Flooring+Options.mp4
+  https://vyralmarketing.s3.amazonaws.com/+Priyanka+Johri/2019/North+Houston+Real+Estate-+flooring+options.mp4
 pullquote: >-
   Nothing downgrades a home’s overall appearance like damaged, stained, or
   scuffed-up floors.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/3nM2Rh47f58'
+youtube_code: 'https://youtu.be/QDhvc83Xw80'
 ---
 
 {% include youtube.html %}
