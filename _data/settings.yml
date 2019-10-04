@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Buy or Sell Homes
-    url: http://woodallrealtygroup.com/
+    url: 'http://woodallrealtygroup.com/'
   - title: Property Management
-    url: http://www.ironhorsepropertymanagement.com/
+    url: 'http://www.ironhorsepropertymanagement.com/'
 client:
   name: Justin Woodall
   license_number:
@@ -50,7 +50,7 @@ sidebar_CTA:
     CTA_url: 'http://www.myathenshomevalue.com/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: Looking for a -- MARKET -- Home?
+    CTA_title2: Looking for an -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
     CTA_url2: 'http://www.athensareahomesearch.com/?SRC=Blog'
