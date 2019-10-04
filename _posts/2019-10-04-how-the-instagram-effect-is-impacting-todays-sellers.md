@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the “Instagram Effect” is Impacting Today’s Sellers
-date:
+date: 2019-10-04 13:56:39
 tags:
 excerpt: >-
   Home listings must look nearly perfect these days in order to sell, so today
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/riolo-youtube-2-1.jpg
 youtube_code: KnVzv8PPd4I
 ---
 
-{% include youtube.html %}<center>Home listings must look nearly perfect these days in order to sell, so today we’ll discuss what sellers can do to list successfully in light of this trend.</center>&nbsp;
+{% include youtube.html %}
+
+<center>Home listings must look nearly perfect these days in order to sell, so today we&rsquo;ll discuss what sellers can do to list successfully in light of this trend.</center>
+
+&nbsp;
 
 Even in a perfectly ordinary market, buyers tend to expect perfection from the homes they see in person and online. And now that our market has slowed, this trend (which I like to call the “Instagram Effect”) has become even more prevalent. **Unless a property is presented in its best light, then buyers will be quick to assume there is something wrong with it. Alternatively, they might just think it’s overpriced.&nbsp;**
 
