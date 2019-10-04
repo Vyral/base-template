@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the “Instagram Effect” is Impacting Today’s Sellers
-date: 2019-10-04 13:56:39
+date: 2019-10-04 13:56:00
 tags:
 excerpt: >-
   Home listings must look nearly perfect these days in order to sell, so today
@@ -19,7 +19,7 @@ youtube_code: KnVzv8PPd4I
 
 {% include youtube.html %}
 
-<center>Home listings must look nearly perfect these days in order to sell, so today we&rsquo;ll discuss what sellers can do to list successfully in light of this trend.</center>
+<center><em>Home listings must look nearly perfect these days in order to sell, so today we&rsquo;ll discuss what sellers can do to list successfully in light of this trend.</em></center>
 
 &nbsp;
 
