@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/7DTkIeGWl-g'
 
 {% include youtube.html %}
 
-There are some amazing benefits to solar energy, but there are some drawbacks as well. Here are a few examples of each.
+<p style="text-align: center;"><em>There are some amazing benefits to solar energy, but there are some drawbacks as well. Here are a few examples of each.</em></p>
 
 Using the sun to power your home in the form of solar panels has both environmental and financial benefits. You will save money over time on your energy bills. In the summer, some of my clients are saving over $200 a month on their power bill.
 
