@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/mWAa8RJw0d0'
 
 {% include youtube.html %}
 
-If you’re thinking about investing in real estate, I have some great tips to share in order to get you started. Here’s what you should know.
+<p style="text-align: center;"><em>If you’re thinking about investing in real estate, I have some great tips to share in order to get you started. Here’s what you should know.</em></p>
 
 If you’re out there considering making an investment through real estate, I’ve got some expert advice to share with you today. **These tips will help you make the most out of your investment:**
 
