@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 5 Important Factors in Determining Home Value
-date: 2019-10-07 15:26:44
+date: 2019-10-07 15:26:00
 tags:
 excerpt: What factors go into determining a property’s value? Find out today.
 enclosure:
 pullquote: Determining value is a complicated and individualized process.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-2-1.jpg
 youtube_code: BtTMSIbOPfY
 ---
