@@ -22,7 +22,7 @@ youtube_code: oNHZrK2-E-0
 
 {% include youtube.html %}
 
-Today, with the help of Justin Allender, a Central Florida mortgage loan consultant, we’ll discuss a down payment assistance program you should take advantage of.
+<p style="text-align:center;"><em>Today, with the help of Justin Allender, a Central Florida mortgage loan consultant, we’ll discuss a down payment assistance program you should take advantage of.</em></p>
 
 **The CBC Chenoa Fund Down Payment Assistance Program is an affordable housing loan program that provides a 30-year fixed-rate FHA mortgage in conjunction with a 3.5% second mortgage.** This allows a customer or client to finance 100% of the purchase price of a home. At 8%, the second mortgage rate is a little bit high, but that doesn’t prevent homebuyers who may not have been able to save enough for a down payment from benefiting from it.
 
