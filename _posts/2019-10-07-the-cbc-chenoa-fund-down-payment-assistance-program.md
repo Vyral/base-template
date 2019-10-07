@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The CBC Chenoa Fund Down Payment Assistance Program
-date: 2019-10-07 20:24:41
+date: 2019-10-07 20:24:00
 tags:
   - Home Buyer Tips
 excerpt: >-
