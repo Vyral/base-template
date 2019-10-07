@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest Data on Our Chicago Housing Market
-date: 2019-10-07
+date: 2019-09-23 00:00:00
 tags:
   - Market Update
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: YYHBpw2BCWk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today we’ll look at some recent data from the end of August having to do with our Chicago market.</em></p>
+*Today we’ll look at some recent data from the end of August having to do with our Chicago market.*
 
 The end-of-August numbers are in for our Chicago real estate market. What do they tell us about the current landscape? Let’s pore over the numbers pertaining to single-family homes to find out.&nbsp;
 
