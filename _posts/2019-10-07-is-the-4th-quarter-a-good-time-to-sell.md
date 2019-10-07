@@ -19,6 +19,8 @@ youtube_code: azAcnkDQoBc
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>People are beginning to take their homes off the market, but there’s no need to wait until spring to make a sale. Here’s why.</em></p>
+
 Now that October is here, we’re officially in the fourth quarter of 2019. Around this time of year, we often see that many people are taking their listings off the market. Many of these sellers believe they should skip the holidays and wait until springtime to make a sale.
 
 {% include pullquote.html %}
