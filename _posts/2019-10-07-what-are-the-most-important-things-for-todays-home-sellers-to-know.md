@@ -19,7 +19,7 @@ youtube_code: S6UIor2Rs3o
 
 {% include youtube.html %}
 
-Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.
+<p style="text-align:center;"><em>Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.</em></p>
 
 Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.
 
