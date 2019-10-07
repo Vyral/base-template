@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Is Your Condo Building Helping or Hurting You?
+date: 2019-10-07 00:00:00
 tags:
   - Real Estate
 excerpt: >-
