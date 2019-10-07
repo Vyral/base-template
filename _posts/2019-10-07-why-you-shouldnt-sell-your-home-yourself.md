@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/GTycHGI3Qi8'
 
 {% include youtube.html %}
 
-Before you try selling your home on your own, you may want to learn about the many aspects of a sale that real estate agents handle for you.
+<p style="text-align: center;"><em>Before you try selling your home on your own, you may want to learn about the many aspects of a sale that real estate agents handle for you.</em></p>
 
 Though you’re able to sell your house on your own, it’s not the best idea. Foregoing the help of an experienced real estate agent can actually be detrimental to your home sale.
 
