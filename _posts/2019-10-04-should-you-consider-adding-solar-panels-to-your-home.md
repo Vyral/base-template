@@ -21,14 +21,14 @@ youtube_code: 'https://youtu.be/7DTkIeGWl-g'
 
 <p style="text-align: center;"><em>There are some amazing benefits to solar energy, but there are some drawbacks as well. Here are a few examples of each.</em></p>
 
-Using the sun to power your home in the form of solar panels has both environmental and financial benefits. You will save money over time on your energy bills. In the summer, some of my clients are saving over $200 a month on their power bill.
+Using the sun to power your home in the form of solar panels has both environmental and financial benefits. You will save money over time on your energy bills. In the summer, some of my clients are saving over $200 a month on their power bills.
 
 However, it’s not all sunshine and roses. **If you are considering adding solar panels to your home, keep in mind that the resale value is a drawback.** Some buyers don’t like solar because of how they look.
 
 {% include pullquote.html %}
 
-If your solar panels are leased as opposed to bought, it’s going to be even harder to sell your home. **It’s really hard to get a buyer to buy a home where they're also be taking over a lease on your solar panels.**&nbsp;
+If your solar panels are leased as opposed to bought, it’s going to be even harder to sell your home. **It’s really hard to get a buyer to buy a home where they'll also be taking over a lease on your solar panels.**&nbsp;
 
 Finally, you should know that there is a tax credit available to homeowners who use solar panels for their energy needs.
 
-If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
