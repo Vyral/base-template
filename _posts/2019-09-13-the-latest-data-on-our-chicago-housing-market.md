@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Latest Data on Our Chicago Housing Market
+date: 2019-10-07
 tags:
   - Market Update
 excerpt: >-
