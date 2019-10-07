@@ -17,7 +17,7 @@ youtube_code: esb7O9PDxTg
 
 {% include youtube.html %}
 
-What does it look like to be in the current real estate market?
+<center>What does it look like to be in the current real estate market?</center>
 
 Today we’re going to talk about what it’s like to be a buyer or seller in today’s market. **Right now it’s a win-win for both parties because it’s a balanced market**.
 
