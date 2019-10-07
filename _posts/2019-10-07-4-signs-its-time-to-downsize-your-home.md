@@ -21,7 +21,7 @@ youtube_code: PQoJXWxVuo4
 
 {% include youtube.html %}
 
-Do any of these four situations ring true for you? If the answer is yes, it might be in your interest to downsize your home.
+<p style="text-align:center;"><em>Do any of these four situations ring true for you? If the answer is yes, it might be in your interest to downsize your home.</em></p>
 
 Most of us think about the path to homeownership in terms of gradual upsizing. Early in life, a young couple buys a starter home until they start a family or their family outgrows their current arrangement. As their combined incomes grow and they become more financially stable, they move into a higher-priced, larger home.&nbsp;
 
