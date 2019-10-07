@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are three things that make Arizona the perfect place for your next real
   estate investment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Reasons+Why+You+Should+Invest+in+Arizona+Real+Estate.mp4
 pullquote: >-
   Because tenants have good credit scores and great income, it’s easy to find
   suitable renters or buyers for your property.
@@ -21,7 +22,7 @@ youtube_code: 'https://youtu.be/Cz0VA-I86RA'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are three things that make Arizona the perfect place for your next real estate investment.</em></p>
+*There are three things that make Arizona the perfect place for your next real estate investment.*
 
 If you’ve been thinking about investing in real estate, Arizona should be at the top of your list. There are three big reasons why our state makes for such a good choice:
 
