@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Today Barry Malesh from A Buyer’s Choice Home Inspections joins me to provide
-  you with some tips on how to prepare your home for the winter.
+  you with some tips on how to prepare your home for winter.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Eric+Mortimer/Videos/Eric+Mortimer+%2526+Associates+-+Winter+Is+Coming-+Is+Your+Home+Ready%253F.mp4
 pullquote: Change out smoke and carbon monoxide detector batteries regularly.
