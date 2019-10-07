@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Market to Buyers in the Bay Area
-date: 2019-10-04 20:54:54
+date: 2019-10-04 20:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -31,7 +31,7 @@ For example, many of the people who live in San Jose and the peninsula are looki
 
 {% include pullquote.html %}
 
-Don’t just market your home to your neighborhood and city. Market it to where the buyers coming from the South Bay can see your listing. In fact, many of the agents who represent these buyers don’t even have access to the lockboxes we use out here, but we make it work.
+Don’t just market your home to your neighborhood and city. Market it to where the buyers coming from South Bay can see your listing. In fact, many of the agents who represent these buyers don’t even have access to the lockboxes we use out here, but we make it work.
 
 Those living in the Walnut Creek, Concord, Pittsburgh, Pleasant Hill, and Lafayette areas can expect to see an influx of buyers coming from San Francisco or Oakland. Those living in Oakland can also expect a number of buyers from San Francisco.
 
