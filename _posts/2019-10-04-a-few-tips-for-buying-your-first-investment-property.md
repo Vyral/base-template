@@ -27,7 +27,7 @@ If you’re out there considering making an investment through real estate, I’
 
 {% include pullquote.html %}
 
-**2\. Determine what to buy.** Some people buy a single-family home to rent out, others buy a duplex and actually live in one unit for a couple of years to save some money. This is really the easiest way for most young couples to get started having investment properties. It’s a great way to acquire investments without having to put as much money down. If you don’t live in the investment you purchase, the down payment is going to be much higher at around 20%. Most wealthy people in the history of this country have built a considerable amount of it via real estate.
+**2\. Determine what to buy.** Some people buy a single-family home to rent out, others buy a duplex and actually live in one unit for a couple of years to save some money. This is really the easiest way for most young couples to get started having investment properties. It’s a great way to acquire investments without having to put as much money down. If you don’t live in the investment you purchase, the down payment is going to be much higher at around 20%. Most wealthy people in the history of this country have built a considerable amount of money via real estate.
 
 **3\. Long-term or short-term rental?** There are pros and cons to both. Long-term rentals are more stable and healthy. Short-term rentals like Airbnb are rented for considerably higher, but are a lot more volatile. You’ll have to determine which kind of situation suits your needs best. If you do choose a short-term rental, know that you can rent it out about a third of the time of a leased property and still make the same money. You will have to spend more on maintenance though.
 
