@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/cook-youtube-2-1.jpg
 youtube_code: BtTMSIbOPfY
 ---
 
-{% include youtube.html %}What factors go into determining a property’s value? Find out today.
+{% include youtube.html %}<center>What factors go into determining a property’s value? Find out today.</center>
 
 These five factors are all vital when it comes to determining your home’s value.
 
