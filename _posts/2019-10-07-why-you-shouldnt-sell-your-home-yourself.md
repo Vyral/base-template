@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Before you try selling your home on your own, you may want to learn about the
   many aspects of a sale that real estate agents handle for you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/+Priyanka+Johri/2019/North+Houston+Real+Estate-+Should+You+Sell+Your+House+Yourself_.mp4
 pullquote: >-
   People often overestimate the value of their homes because they’re emotionally
   involved.
