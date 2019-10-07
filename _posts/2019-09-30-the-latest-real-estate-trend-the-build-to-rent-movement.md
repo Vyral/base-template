@@ -4,6 +4,7 @@ title: 'The Latest Real Estate Trend: The Build-to-Rent Movement'
 date: 2019-09-30 00:00:00
 tags:
   - Real Estate
+  - Investing
 excerpt: Have you heard of the new build-to-rent real estate trend?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/The+Latest+Real+Estate+Trend-+The+Build-to-Rent+Movement.mp4
