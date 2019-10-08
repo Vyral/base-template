@@ -4,7 +4,8 @@ title: Why You Should Always Have a Yearly Business Plan Meeting
 date: 2019-10-08 00:00:00
 tags:
 excerpt: How should you plan out your yearly business plan meeting? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/Why+You+Should+Always+Have+a+Yearly+Business+Plan+Meeting.mp4
 pullquote: >-
   Whether you’re a single agent or a big team, everyone needs to get together
   and plan for the coming year.
