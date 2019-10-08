@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   INSPiRE Financial Group is helping their clients create true, long-term
   wealth. Here’s how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/A+Conversation+with+Luke+Frazier+of+INSPiRE+Financial+Group.mp4
 pullquote: Everybody has a different personality and mindset about finances.
 enclosure_type: video/mp4
 enclosure_time:
