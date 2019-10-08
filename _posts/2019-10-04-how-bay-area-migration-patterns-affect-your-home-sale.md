@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Market to Buyers in the Bay Area
+title: How Bay Area Migration Patterns Affect Your Home Sale
 date: 2019-10-04 20:54:00
 tags:
   - Home Seller Tips
