@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Quantum Leap for Young Adults is hosting an upcoming workshop, and you’re
   cordially invited.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/QL+for+Young+Adults-+Bridging+the+Gap+Between+Education+and+Life+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
