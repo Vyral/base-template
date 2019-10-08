@@ -8,7 +8,7 @@ enclosure:
 pullquote: Determining value is a complicated and individualized process.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-2-2.jpg
 youtube_code: BtTMSIbOPfY
 ---
