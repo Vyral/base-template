@@ -13,12 +13,12 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/homes-for-heroes-youtube.jpg
-youtube_code: nC9DZTAcmrk
+youtube_alternate_image: /uploads/homes-for-heroes-youtube-02.jpg
+youtube_code: X3kyzsBR0mE
 ---
 
 {% include youtube.html %}
 
-In 2014, Jeff Grossarth and I introduce the “Homes for Heroes” program to Connecticut. Since then, we’ve helped dozens of families save thousands when buying or selling a home. This program is specially made for law enforcement, firefighters, military members, health professionals, and teachers. To find out how you can benefit from this program, watch this short video.
+In 2014, Jeff Grossarth and I introduce the “Homes for Heroes” program to Connecticut. Since then, we’ve helped dozens of families save thousands when buying or selling a home. This program is specially made for law enforcement, firefighters, EMS, military members, healthcare professionals, and teachers. To find out how you can benefit from this program, watch this short video.
 
-Jeff Grossarth<br>Cell: 203-209-9037
+Jeff Grossarth<br>Realty One Group<br>Cell: 203-209-9037
