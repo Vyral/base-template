@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/LL_-ra5sxgY'
 
 {% include youtube.html %}
 
-Here’s an update on the third quarter of the Montana real estate market year. Tune in to learn the latest developments.
+<p style="text-align: center;"><em>Here’s an update on the third quarter of the Montana real estate market year. Tune in to learn the latest developments.</em></p>
 
 For waterfront sales, the third quarter of 2019 was very interesting. Overall, the dollar amount has been higher in the past, but the number of transactions has also been lower. Year to date, we’ve closed 80 properties on the waterfront, as opposed to the 91 we closed during the same period in 2018.
 
