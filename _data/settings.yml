@@ -34,7 +34,7 @@ client:
   email: daveknight@kw.com
   url: www.daveknightrealestate.com
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://daveknightrealestateteam.brivityvaluations.com/'
+  first_CTA_URL: 'http://daveknightrealestateteam.brivityvaluations.com/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.daveknightrealestate.com/homes-for-sale/#/-2070523458'
   phone_CTA: false
