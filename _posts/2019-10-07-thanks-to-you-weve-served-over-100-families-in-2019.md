@@ -21,4 +21,4 @@ As always, if you need help with anything real estate-related, don’t hesitate 
 
 &nbsp;
 
-&nbsp;
+![](/uploads/webp-net-resizeimage-10-1.png){: width="220" height="97"}
