@@ -29,7 +29,7 @@ As a seller, if you present yourself well, the house shows well, and you’ve pr
 
 {% include pullquote.html %}
 
-On the other hand, **buyers right now have wonderful opportunities because interest rates are so low\!** There’s currently more inventory to choose from, so you get to be a bit pickier, you get to ask for more things (like closing costs, for example). You have more say right now because everything is currently a negotiation and not just one-sided.
+On the other hand, **buyers right now have wonderful opportunities because interest rates are so low\!** There’s currently more inventory to choose from, so you get to be a bit pickier and you get to ask for more things (like closing costs, for example). You have more say right now because everything is currently a negotiation and not just one-sided.
 
 As a buyer, there’s so much opportunity, mainly because your rates are so low. We can structure deals that can keep more money in your pocket, get you great rates, and great terms. You have a lot more options now than you’ve had in the last few years. It’s a wonderful time to buy\!
 
