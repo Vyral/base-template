@@ -15,7 +15,7 @@ youtube_code: BtTMSIbOPfY
 
 {% include youtube.html %}
 
-<center>What factors go into determining a property&rsquo;s value? Find out today.</center>
+<center><em>What factors go into determining a property&rsquo;s value? Find out today.</em></center>
 
 &nbsp;
 
@@ -29,9 +29,9 @@ These five factors are all vital when it comes to determining your home’s valu
 
 **3\. Consider your home’s size.** Most often, a bigger home will have more value, but it’s more important to look at useable square footage than it is to look at the total square footage. Garages, attics, and unfinished basements are typically not counted as useable square footage. Living space is what buyers and appraisers most value, so the more bedrooms and bathrooms your home has, the more value your home will likely have.
 
-**4\. Consider the age and condition of your house.** If a house is brand-new, it will typically appraise a higher value. If you have an older home, updating rooms such as the kitchen or bathroom are great ways to add value to your home.
+**4\. Consider the age and condition of your house.** If a house is brand-new, it will typically appraise a higher value. If you have an older home, updating rooms such as the kitchen or bathroom are great ways to add value to it.
 
-**5\. Consider the local market conditions.** If there are a lot of buyers are competing for the few homes available, that’s a seller’s market. Vice versa, a market with fewer buyers but many homes available is a buyer’s market.
+**5\. Consider the local market conditions.** If there are a lot of buyers competing for the few homes available, that’s a seller’s market. Vice versa, a market with fewer buyers but many homes available is a buyer’s market.
 
 In the end, determining value is a complicated and individualized process. At Jeff Cook Real Estate, we have a team of professionals who are ready to help you in determining the value of your home.
 
