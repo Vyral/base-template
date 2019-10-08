@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/bay-area-buyers-youtube.jpg
+youtube_alternate_image: /uploads/bay-area-buyers-youtube-02.jpg
 youtube_code: X5oOwAsb4Sk
 ---
 
