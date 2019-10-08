@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/98jFyLWYJaE'
 
 {% include youtube.html %}
 
-Here’s how you can attract multiple offers as a seller and avoid multiple-offer situations as a buyer.
+<p style="text-align: center;"><em>Here’s how you can attract multiple offers as a seller and avoid multiple-offer situations as a buyer.</em></p>
 
 A multiple-offer situation is something sellers want but buyers want to avoid. Depending on your circumstances, there are a few tips you need to remember to either attract or avoid a multiple-offer situation.&nbsp;
 
