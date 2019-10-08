@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Questions to Consider Before Moving Up
-date: 2019-10-08 15:06:00
+date: 2019-10-08 15:15:00
 tags:
 excerpt: >-
   If you’re thinking of moving up, there are three important questions to
