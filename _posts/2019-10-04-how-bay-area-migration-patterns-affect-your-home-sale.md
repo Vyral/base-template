@@ -9,7 +9,7 @@ excerpt: >-
   patterns in the San Fransisco Bay Area may impact sellers in the market over
   the next year.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Fuller/2019/October/How+to+Market+to+Buyers+in+the+Bay+Area.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Fuller/2019/October/How+Bay+Area+Migration+Patterns+Affect+Your+Home+Sale.mp4
 pullquote: >-
   To make the most of this trend, it’s important that you consider who your
   target market is, where they’re moving from, and when you’re listing your home
