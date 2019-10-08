@@ -36,7 +36,7 @@ As a real estate agent, I can relate to Sam’s challenges there. I then asked h
 
 Sam is really excited about Bluetek’s all-inclusive IT package. **With this package, they’ll come to your business and provide all of your IT support, including security and everything you need to keep your business running smoothly for one monthly price that’s easy to budget.**
 
-We also spoke with a couple of Sam’s employees, Craig and Jake, who do a little bit of everything from taking inbound calls to going on-site to help people solve their IT problems, which Craig and Jake say are their favorite parts of the job.
+We also spoke with a couple of Sam’s employees, Craig and Jake, who do a little bit of everything, from taking inbound calls to going on-site to help people solve their IT problems, which Craig and Jake say are their favorite parts of the job.
 
 As I said, I’ve been working with Bluetek for around 15 years, and our business wouldn’t be what it is now without the help of Sam and his team. If you’re a business owner or you know a business owner, **reach out to Sam and his team at (717) 502-2144 for a free business technology assessment—and tell them Dave Hooke sent you\!** They’ll look at all of your tech needs, including data, storage, software, and more to give you a comprehensive evaluation and show you where you can develop efficiency in your business that will go straight to your bottom line and allow you to concentrate on doing what you do best: serving your clients.
 
