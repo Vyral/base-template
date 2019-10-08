@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Right Now is a Great Time to Build a Real Estate Team
+title: Why Right Now Is a Great Time to Build a Real Estate Team
 date: 2019-10-04 19:24:00
 tags:
 excerpt: >-
