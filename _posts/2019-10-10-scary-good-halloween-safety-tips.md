@@ -1,10 +1,13 @@
 ---
 layout: post
 title: Scary good Halloween safety tips
-date: 2018-10-19 15:56:00
+date: 2019-10-10 03:56:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Skeletons, spiderwebs, and Jack-o’-lanterns galore are popping up all over our
+  neighborhoods, and that can only mean one thing: Halloween is just around the
+  corner.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
