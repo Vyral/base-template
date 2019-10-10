@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Signs It’s Time to Downsize Your Home
-date: 2019-10-07 20:11:08
+date: 2019-10-07 20:11:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: PQoJXWxVuo4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Do any of these four situations ring true for you? If the answer is yes, it might be in your interest to downsize your home.</em></p>
+*Do any of these four situations ring true for you? If the answer is yes, it might be in your interest to downsize your home.*
 
 Most of us think about the path to homeownership in terms of gradual upsizing. Early in life, a young couple buys a starter home until they start a family or their family outgrows their current arrangement. As their combined incomes grow and they become more financially stable, they move into a higher-priced, larger home.&nbsp;
 
