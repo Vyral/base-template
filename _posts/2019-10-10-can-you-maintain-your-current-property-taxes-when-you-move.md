@@ -22,7 +22,7 @@ youtube_code: m-m2LT4Jgbs
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Transitioning to a new home does not have to mean an increase in property taxes. Today I will explain how two California laws can help homeowners over 55 circumvent this common concern.</em></p>
+*Transitioning to a new home does not have to mean an increase in property taxes. Today I will explain how two California laws can help homeowners over 55 circumvent this common concern.*
 
 Are you or someone you know thinking of downsizing? If this is the case, but you are putting off the transaction because you are afraid your property taxes may go up, I have some important information to share with you.
 
@@ -36,6 +36,6 @@ As I mentioned before, though, there are some requirements a homeowner must meet
 
 Now, it is important to keep in mind that this is a one-time use policy. But there is an exception. If you were to become seriously disabled after taking advantage of this opportunity, you may be eligible to utilize it a second time.
 
-**To learn more about this opportunity, visit [www.boe.ca.gov](www.boe.ca.gov).**
+**To learn more about this opportunity, visit [http://www.boe.ca.gov/](http://www.boe.ca.gov/){: target="_blank"}.**
 
 As always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
