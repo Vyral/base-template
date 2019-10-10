@@ -17,7 +17,7 @@ youtube_code: pZcDDbrJIr8
 
 {% include youtube.html %}
 
-Is a recession coming? Maybe, but that might not mean what you think it does.
+<center>Is a recession coming? Maybe, but that might not mean what you think it does.</center>
 
 There’s a question looming in a lot of people’s minds these days: “Is a recession coming? What can we do about it?”
 
