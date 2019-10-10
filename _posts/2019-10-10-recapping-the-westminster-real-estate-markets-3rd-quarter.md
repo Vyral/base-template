@@ -19,7 +19,9 @@ youtube_code: QVzA1YrIOXs
 
 {% include youtube.html %}
 
-<center>What is happening now in our Westminster real estate market?</center>
+<center><em>What is happening now in our Westminster real estate market?</em></center>
+
+&nbsp;
 
 The third quarter of this year’s real estate market has just come to an end, which means it’s now time to look back at what changes it brought.
 
