@@ -8,13 +8,14 @@ excerpt: >-
   Skeletons, spiderwebs, and Jack-o’-lanterns galore are popping up all over our
   neighborhoods, and that can only mean one thing: Halloween is just around the
   corner.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tina+Caul/Greater+Raleigh+Real+Estate-+Halloween+Safety+Tips+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JuRPWXYEMng
+youtube_code: uM40UGGSW10
 ---
 
 {% include youtube.html %}
