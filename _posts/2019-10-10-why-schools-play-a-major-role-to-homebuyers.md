@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/-Zg-_Z75Fk4'
 
 {% include youtube.html %}
 
-If you are in the market to buy a home, you probably already realize how large of a role school districts play in your search. As you’ll see, it’s quite important to most buyers.
+<p style="text-align: center;"><em>If you are in the market to buy a home, you probably already realize how large of a role school districts play in your search. As you’ll see, it’s quite important to most buyers.</em></p>
 
 **Did you know that, according to a recent survey, 78% of buyers said that schools were very important to their home search?** It’s true, and today we’re going to talk about how to search for homes based on their school district.
 
