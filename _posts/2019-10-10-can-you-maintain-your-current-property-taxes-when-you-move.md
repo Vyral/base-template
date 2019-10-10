@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Can You Maintain Your Current Property Taxes When You Move?
-date: 2019-04-16 09:00:00
+date: 2019-10-10 09:00:00
 tags:
   - Real Estate
 excerpt: >-
   Transitioning to a new home does not have to mean an increase in property
   taxes. Today I will explain how two California laws can help homeowners over
   55 circumvent this common concern.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Majka/Can+You+Maintain+Your+Current+Property+Taxes+When+You+Move_.mp4
 pullquote: >-
   Transferring your property tax base to a new home can also help you extract
   equity without losing money in the long run.
@@ -20,6 +21,8 @@ youtube_code: m-m2LT4Jgbs
 ---
 
 {% include youtube.html %}
+
+Transitioning to a new home does not have to mean an increase in property taxes. Today I will explain how two California laws can help homeowners over 55 circumvent this common concern.
 
 Are you or someone you know thinking of downsizing? If this is the case, but you are putting off the transaction because you are afraid your property taxes may go up, I have some important information to share with you.
 
