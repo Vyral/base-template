@@ -22,7 +22,7 @@ youtube_code: m-m2LT4Jgbs
 
 {% include youtube.html %}
 
-*Transitioning to a new home does not have to mean an increase in property taxes. Today I will explain how two California laws can help homeowners over 55 circumvent this common concern.*
+<p style="text-align:center;"><em>Transitioning to a new home does not have to mean an increase in property taxes. Today I will explain how two California laws can help homeowners over 55 circumvent this common concern.</em></p>
 
 Are you or someone you know thinking of downsizing? If this is the case, but you are putting off the transaction because you are afraid your property taxes may go up, I have some important information to share with you.
 
