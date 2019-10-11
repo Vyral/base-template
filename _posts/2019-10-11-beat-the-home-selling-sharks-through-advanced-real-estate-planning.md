@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/g0EffyNliK0'
 
 <p style="text-align: center;"><em>If you’re thinking of selling in 2020, now is the time to start planning. Let’s discuss what this will involve.</em></p>
 
-away. This means now is the perfect time to start planning for your 2020 home sale and/or home purchase, and there are a few key steps you should take as you do so.
+Now that we’ve entered October, the start of our hot spring market in April is just six months away. This means now is the perfect time to start planning for your 2020 home sale and/or home purchase, and there are a few key steps you should take as you do so.
 
 **I like to call these steps, as a whole, “advanced real estate planning.”&nbsp;**
 
