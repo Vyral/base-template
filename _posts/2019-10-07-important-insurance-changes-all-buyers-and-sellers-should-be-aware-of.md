@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/TCmYvjn3XUU'
 
 {% include youtube.html %}
 
-Recently, I had the privilege to meet with insurance agent Li-Hsi “Leash” Yu of COMPANY to discuss insurance changes that have come into play. These changes, which specifically pertain to properties’ roofs, are something all buyers, sellers, and homeowners should be aware of.&nbsp;
+Recently, I had the privilege to meet with insurance agent Li-Hsi “Leash” Yu of Agency Yu, Inc. to discuss insurance changes that have come into play. These changes, which specifically pertain to properties’ roofs, are something all buyers, sellers, and homeowners should be aware of.&nbsp;
 
 Previously, the age of a roof had no bearing on the homeowner’s insurance coverage, so long as the roof was in good condition. This is no longer the case. Nowadays, **roofs that are more than 15 years old will make it harder to obtain coverage.** Some companies may refuse to insure a home with a roof this old, altogether, so be sure to check if this is the case before buying an older home.&nbsp;
 
