@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here’s a quick tip for homebuyers regarding the information presented in a
   listing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brittany+Foy/Videos/Is+the+Listings+Information+Correct_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
