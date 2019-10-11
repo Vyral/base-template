@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/payne-youtube-3-2.jpg
 youtube_code: l2aDquCn-k0
 ---
 
-{% include youtube.html %}Today I’d like to share what makes a seller’s market, and how our Columbus market is looking.&nbsp;
+{% include youtube.html %}<center>Today I’d like to share what makes a seller’s market, and how our Columbus market is looking.</center>&nbsp;
 
 Today I’d like to talk to you about what a seller’s market is. I know you’ve heard that term a lot but what does it really mean? What makes a seller’s market?&nbsp;
 
