@@ -32,7 +32,7 @@ A majority of our buyers decide where they want to purchase a home based on scho
 
 **In the study I mentioned earlier, 17% of buyers were also willing to give up having an updated kitchen, a garage, or an extra bedroom just to be in the right school district.** Here in Los Angeles and throughout the state, there are a few great resources you can use to compare and contrast school districts for yourself.
 
-A few of them are [greatschools.org](https://www.greatschools.org/){: target="_blank"} and [niche.com](https://www.niche.com/){: target="_blank"}. They both operate very similarly to Yelp\! They have reviews, user scores, and a ton of data. **I highly recommend checking these sites out if you’re in the market to buy a home in a certain school or neighborhood.&nbsp;**
+A couple of them are [greatschools.org](https://www.greatschools.org/){: target="_blank"} and [niche.com](https://www.niche.com/){: target="_blank"}. They both operate very similarly to Yelp\! They have reviews, user scores, and a ton of data. **I highly recommend checking these sites out if you’re in the market to buy a home in a certain school or neighborhood.&nbsp;**
 
 I also recommend reaching out to me. I can connect you with people who actually live in the areas that you’re interested in so you can learn more about what the area and the schools are actually like from a primary source.
 
