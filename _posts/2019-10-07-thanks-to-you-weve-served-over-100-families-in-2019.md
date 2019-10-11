@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   We’ve served over 100 families this year, and we wouldn’t have done it without
   you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/We+Did+It-+Over+100+Families+Served!+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
