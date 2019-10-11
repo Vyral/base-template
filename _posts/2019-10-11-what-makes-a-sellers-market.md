@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes a Seller’s Market?
-date:
+date: 2019-10-11 14:40:01
 tags:
 excerpt: >-
   Today I’d like to share what makes a seller’s market, and how our Columbus
@@ -17,7 +17,13 @@ youtube_alternate_image: /uploads/payne-youtube-3-2.jpg
 youtube_code: l2aDquCn-k0
 ---
 
-{% include youtube.html %}<center>Today I’d like to share what makes a seller’s market, and how our Columbus market is looking.</center>&nbsp;
+{% include youtube.html %}
+
+<center>Today I&rsquo;d like to share what makes a seller&rsquo;s market, and how our Columbus market is looking.</center>
+
+&nbsp;
+
+&nbsp;
 
 Today I’d like to talk to you about what a seller’s market is. I know you’ve heard that term a lot but what does it really mean? What makes a seller’s market?&nbsp;
 
