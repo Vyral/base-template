@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Value of Hiring an Assistant
-date: 2019-10-10 21:45:13
+date: 2019-10-10 21:45:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -28,7 +28,7 @@ Even new agents can benefit from this kind of help, though I do recommend gettin
 
 Ideally, you should keep the same assistant as you grow. This way, you aren’t scrambling to familiarize someone new with your tasks and systems after you’re already busy with a successful real estate career. &nbsp;
 
-If you aren’t convinced yet, consider this: Wouldn’t you find it strange if your dentist, doctor, or account didn’t have an assistant? **You, like any other professional, should have administrative support.** Otherwise, you’ll undoubtedly find yourself spread too thin.&nbsp;
+If you aren’t convinced yet, consider this: Wouldn’t you find it strange if your dentist, doctor, or accountant didn’t have an assistant? **You, like any other professional, should have administrative support.** Otherwise, you’ll undoubtedly find yourself spread too thin.&nbsp;
 
 {% include pullquote.html %}
 
