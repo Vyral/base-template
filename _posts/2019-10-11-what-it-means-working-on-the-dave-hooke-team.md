@@ -17,7 +17,7 @@ youtube_code: eHp271q-WZ4
 
 {% include youtube.html %}
 
-What’s it like working on The Dave Hooke Team? Today we have your answer.
+<p style="text-align: center;"><em>What’s it like working on The Dave Hooke Team? Today we have your answer.</em></p>
 
 Today I want to pull back the curtain a little bit on The Dave Hook Team and help you get to know some of our agents and administrators.
 
