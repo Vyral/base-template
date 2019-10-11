@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/g0EffyNliK0'
 
 {% include youtube.html %}
 
-If you’re thinking of selling in 2020, now is the time to start planning. Let’s discuss what this will involve.
+<p style="text-align: center;"><em>If you’re thinking of selling in 2020, now is the time to start planning. Let’s discuss what this will involve.</em></p>
 
 away. This means now is the perfect time to start planning for your 2020 home sale and/or home purchase, and there are a few key steps you should take as you do so.
 
