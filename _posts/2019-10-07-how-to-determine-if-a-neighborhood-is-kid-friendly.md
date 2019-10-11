@@ -25,7 +25,7 @@ One of our subscribers, Kelly, recently asked us a great question: **“How do I
 
 This is something we hear all the time from homebuyers, particularly those moving to a town or area they’re unfamiliar with. Unfortunately, it is a Fair Housing violation for Realtors to answer this question directly. Therefore, we would like to offer you some advice on how to identify such neighborhoods on your own, instead.&nbsp;
 
-First, **spend some time in the neighborhood you’re thinking of buying in before making a move.** Visiting the neighborhood at different times of the day and at different points throughout the week will help you gauge what kind of lifestyle its residents lead.&nbsp;
+First, **spend some time in the neighborhood you’re thinking of buying in before making a move.** Visiting the neighborhood at different times of the day and different points throughout the week will help you gauge what kind of lifestyle its residents lead.&nbsp;
 
 {% include pullquote.html %}
 
