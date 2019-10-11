@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Makes a Seller’s Market?
-date: 2019-10-11 14:40:01
+date: 2019-10-11 14:40:00
 tags:
 excerpt: >-
   Today I’d like to share what makes a seller’s market, and how our Columbus
@@ -20,8 +20,6 @@ youtube_code: l2aDquCn-k0
 {% include youtube.html %}
 
 <center>Today I&rsquo;d like to share what makes a seller&rsquo;s market, and how our Columbus market is looking.</center>
-
-&nbsp;
 
 &nbsp;
 
