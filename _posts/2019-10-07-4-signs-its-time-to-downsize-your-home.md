@@ -27,13 +27,13 @@ Most of us think about the path to homeownership in terms of gradual upsizing. E
 
 However, for some, there comes a point where a smaller living space simply makes the most sense. On that note, here are four clues you might want to consider downsizing your home:&nbsp;
 
-**1\. Retirement.** This is one of the most common reasons homeowners entertain the idea of downsizing. Nowadays, with increases to the cost of living, some retirees end up outliving their retirement savings. Taking that into consideration, if you’re entering retirement yourself, downsizing doesn’t sound like such a bad idea.&nbsp;
+**1\. Retirement.** This is one of the most common reasons homeowners entertain the idea of downsizing. Nowadays, with increases in the cost of living, some retirees end up outliving their retirement savings. Taking that into consideration, if you’re entering retirement yourself, downsizing doesn’t sound like such a bad idea.&nbsp;
 
 **2\. Too much anxiety.** This could be brought on by a whole host of factors, including upkeep and maintenance. Once your home leads to more stress than it’s worth, you may want to think about downsizing. Many aging homeowners find that caring for their home and keeping up with bills has become increasingly difficult—especially if one spouse has passed on. For the surviving homeowner, downsizing may very well soothe those anxieties. The price of a smaller condo or apartment is easier to manage financially and the responsibility and cost to maintain the home would be included in your monthly fees. &nbsp;&nbsp;
 
 {% include pullquote.html %}
 
-**3\. Unused space.** If you feel like your home is swallowing you whole and you have an overabundance of space, this might also mean you ought to downsize. Maybe you have unused rooms need cleaning simply because they’re collecting dust and cobwebs. If so, moving into something smaller will allow you to better manage your space.&nbsp;
+**3\. Unused space.** If you feel like your home is swallowing you whole and you have an overabundance of space, this might also mean you ought to downsize. Maybe you have unused rooms that need cleaning simply because they’re collecting dust and cobwebs. If so, moving into something smaller will allow you to better manage your space.&nbsp;
 
 **4\. Opportunity costs.** Perhaps your home has appreciated quite a bit over the years and its equity is there for the taking. If that’s the case, consider buying a nice luxury condo or townhome or even buying investment property with your home’s equity.
 
