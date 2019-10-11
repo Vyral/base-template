@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine if a Neighborhood Is Kid-Friendly
-date: 2019-10-07 00:00:00
+date: 2019-10-18 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
