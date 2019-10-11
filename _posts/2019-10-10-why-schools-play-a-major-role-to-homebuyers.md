@@ -9,7 +9,7 @@ excerpt: >-
   of a role school districts play in your search. As you’ll see, it’s quite
   important to most buyers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+Searching+for+Homes+Based+on+School+Districts+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+schools+10.11.mp4
 pullquote: >-
   I can connect you with people who actually live in the areas you’re looking
   at.
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/-Zg-_Z75Fk4'
+youtube_code: 'https://youtu.be/xdGdhOjarV8'
 ---
 
 {% include youtube.html %}
