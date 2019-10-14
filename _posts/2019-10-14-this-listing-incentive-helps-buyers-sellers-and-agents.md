@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'This Listing Incentive Helps Buyers, Sellers, and Agents'
-date: 2019-10-14 19:00:36
+date: 2019-10-30 19:00:36
 tags:
   - Home Seller Tips
   - Home Buyer Tips
