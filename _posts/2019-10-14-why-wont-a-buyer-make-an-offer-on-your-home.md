@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Won’t a Buyer Make an Offer on Your Home?
-date: 2019-10-14 17:28:33
+date: 2019-10-14 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
