@@ -26,7 +26,7 @@ Some of our agenda items are the same each year. **You should run this like an o
 
 {% include pullquote.html %}
 
-It’s critical to reflect on the goals we set for this year. What were our goals, how did we do, where are we in relation to those goals, and what were our missteps? We will check our “GPS”, which stands for goals, priorities, and strategies. Where did we blunder, what can we get better at, what can we tweak? By setting these goals you can detect any gaps. **Everyone should agree on what the team’s standards are.&nbsp;**
+It’s critical to reflect on the goals we set for this year. What were our goals, how did we do, where are we in relation to those goals, and what were our missteps? We will check our “GPS,” which stands for goals, priorities, and strategies. Where did we blunder, what can we get better at, what can we tweak? By setting these goals you can detect any gaps. **Everyone should agree on what the team’s standards are.&nbsp;**
 
 You should end the day with some kind of fun, maybe a happy hour out or a teambuilding activity.&nbsp;
 
