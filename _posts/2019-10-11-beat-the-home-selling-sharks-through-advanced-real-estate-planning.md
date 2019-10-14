@@ -27,9 +27,9 @@ Now that we’ve entered October, the start of our hot spring market in April is
 
 **I like to call these steps, as a whole, “advanced real estate planning.”&nbsp;**
 
-So what does advanced real estate planning involve? First, reach out to my team and me. We would be to partner with you on pursuing your real estate goals. We want to help you fend off the buying and selling sharks who lurk the waters of our market waiting to eat up your hard-earned equity. When you partner with us, we can ensure that your home buying or selling experience is fast and successful.&nbsp;
+So what does advanced real estate planning involve? First, reach out to my team and me. We would be glad to partner with you in pursuing your real estate goals. We want to help you fend off the buying and selling sharks who lurk the waters of our market waiting to eat up your hard-earned equity. When you partner with us, we can ensure that your home buying or selling experience is fast and successful.&nbsp;
 
-And, now, you can get a sneak peak at some of the strategies we’ll employ when you work with my team by reading my new book: “How to Fight the Home Selling Sharks.” This book covers each of the eight main steps sellers must take as they prepare to list, the first four of which are as follows:&nbsp;
+And, now, you can get a sneak peek at some of the strategies we’ll employ when you work with my team by reading my new book: “How to Fight the Home Selling Sharks.” This book covers each of the eight main steps sellers must take as they prepare to list, the first four of which are as follows:&nbsp;
 
 1\. Find a marketing and negotiating expert.&nbsp;
 
