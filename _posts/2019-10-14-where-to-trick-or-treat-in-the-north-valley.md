@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/f221sttx8E4'
 
 {% include youtube.html %}
 
-Looking for the best place to take your trick or treaters this coming Halloween? Allow me to share my top pick.
+<p style="text-align: center;"><em>Looking for the best place to take your trick or treaters this coming Halloween? Allow me to share my top pick.</em></p>
 
 Fall has arrived and Halloween is just around the corner. As such, many of you are probably on the hunt for some great local “haunts” to take your little ones trick or treating at.
 
