@@ -22,7 +22,7 @@ youtube_code: xGbj9ty-RH0
 
 {% include youtube.html %}
 
-If your home is overpriced and you’re wondering why buyers won’t even pitch you a lowball offer, pay attention to today’s video.&nbsp;
+<p style="text-align:center;"><em>If your home is overpriced and you’re wondering why buyers won’t even pitch you a lowball offer, pay attention to today’s video.</em></p>
 
 Occasionally, we’ll represent a seller who, despite having difficulty finding a buyer, chooses not to make a price reduction to their home. When no buyer comes along, they wonder, **“Why won’t someone just make me an offer?”**&nbsp;
 
