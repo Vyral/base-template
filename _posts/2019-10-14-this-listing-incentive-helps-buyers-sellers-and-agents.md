@@ -20,7 +20,7 @@ youtube_code: K5ID4rbUvjA
 
 {% include youtube.html %}
 
-Today I just wanted to take a moment to outline our newest listing incentive plan. Here’s what you need to know.
+<p style="text-align:center;"><em>Today I just wanted to take a moment to outline our newest listing incentive plan. Here’s what you need to know.</em></p>
 
 Oftentimes, we hear from our listing agents that one of their biggest concerns when listing homes is that it’s hard to know the quality of the lender who will represent the buyer.
 
