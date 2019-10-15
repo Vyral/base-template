@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining the Home Value of a Haunted House
-date: 2019-10-15 14:41:43
+date: 2019-10-15 14:41:00
 tags:
   - Real Estate
 excerpt: What does it take to find the value of a haunted house? Let’s discuss.
@@ -18,6 +18,8 @@ youtube_code: Zd76_Np6LU0
 ---
 
 {% include youtube.html %}
+
+What does it take to find the value of a haunted house? Let’s discuss.
 
 As you know, I usually like to share helpful hints with all of you about what’s going on in our Orange County area real estate market. Today, though, I’d like to ask for your help, instead.
 
