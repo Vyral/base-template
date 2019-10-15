@@ -20,7 +20,7 @@ video_file: /uploads/Sept_3_Story.mp4
 
 {% include post-video.html %}
 
-Today I was reflecting back on a meeting I recently had with a prospect—an auto dealership with a nearly $20 million 401(k) plan and a few hundred employees.&nbsp;
+Today I was reflecting on a meeting I recently had with a prospect—an auto dealership with a nearly $20 million 401(k) plan and a few hundred employees.&nbsp;
 
 I had met with their new CFO who was trying to wrap her mind around the benefits package and was seeking an advisor about the 401(k) plan. During my conversation with her, I learned her company’s own advisory firm hadn’t contacted her once since she started six months ago. At most, the firm visits the owner of the company (not the employees) to review the investments in the 401(k) plan. The firm had been working with her company for five years, and only half the employees at the company were participating in the plan.
 
