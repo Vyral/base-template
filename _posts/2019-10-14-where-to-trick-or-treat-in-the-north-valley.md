@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/f221sttx8E4'
 
 <p style="text-align: center;"><em>Looking for the best place to take your trick or treaters this coming Halloween? Allow me to share my top pick.</em></p>
 
-Fall has arrived and Halloween is just around the corner. As such, many of you are probably on the hunt for some great local “haunts” to take your little ones trick or treating at.
+Fall has arrived and Halloween is just around the corner. As such, many of you are probably on the hunt for some great local “haunts” to take your little ones trick or treating.
 
 Well, here in the North Valley, you’ll find fewer better places to enjoy Halloween night than the neighborhood between San Fernando Mission and Tribune right here in Porter Ranch. The decorations are truly a sight to behold, and the homeowners there are eager to make every Halloween an experience to remember.&nbsp;
 
