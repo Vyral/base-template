@@ -19,7 +19,7 @@ youtube_code: tppPoO-DTs8
 
 {% include youtube.html %}
 
-*Mortgage rates have dipped significantly over the course of 2019, but what about the future?*
+<p style="text-align:center;"><em>Mortgage rates have dipped significantly over the course of 2019, but what about the future?</em></p>
 
 Recently, we had the pleasure of vacationing on the cruise ship Nautica and sailing across the Celtic Sea, and we have some great highlights from the trip we want to show you today. &nbsp;
 
