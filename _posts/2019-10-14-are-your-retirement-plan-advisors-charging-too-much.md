@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Your Retirement Plan Advisors Charging Too Much?
-date: 2019-10-14 14:43:56
+date: 2019-10-14 14:43:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -44,7 +44,7 @@ The point is that if you are a plan sponsor and you feel that your current advis
 
 **I have a database benchmarking tool that uses national survey information to help evaluate what a typical retirement plan advisor should be charging.** I’d be happy to run that analysis for you to let you know if your current firm is charging you a reasonable fee for the services they offer.
 
-If you’re interested in learning more about our services, visit [www.RetirementCFO.com](www.RetirementCFO.com){: target="_blank"}. And if you’d like to see a new and improved 401(k) plan solution that is a real game-changer in the industry, check out [www.SelectRetirementPlans.com](www.SelectRetirementPlans.com){: target="_blank"}. You’ll find that we have a unique approach to plan management.
+If you’re interested in learning more about our services, visit [https://www.retirementcfo.com](https://www.retirementcfo.com){: target="_blank"}. And if you’d like to see a new and improved 401(k) plan solution that is a real game-changer in the industry, check out [selectretirementplans.com](selectretirementplans.com){: target="_blank"}. You’ll find that we have a unique approach to plan management.
 
 Hopefully, this gave you some food for thought. If you have any other questions, feel free to reach out to me. I aspire to be your retirement CFO.<br>&nbsp;
 
