@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today I’d like to share what makes a seller’s market, and how our Columbus
   market is looking.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/What+Makes+a+Seller's+Market_.mp4
 pullquote: >-
   A seller’s market is going to be defined as how much inventory is in the
   market versus how many buyers are in the market.
