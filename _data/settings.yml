@@ -9,7 +9,7 @@ custom_links:
   - title: Free Book Offer
     url: /free-book/
 client:
-  name: The Carter Property Group
+  name: The Carter Group Chicago
   license_number:
   about_markdown: >-
     The Carter Property Group consists of a team of experienced sales, marketing
@@ -21,14 +21,14 @@ client:
     <br>The Carter Property Group is in the Top 1% of all the real estate agents
     in Chicago Association of Realtors.
   market: Chicago
-  brand: Carter Property Group
+  brand: Carter Group Chicago
   brokerage: Keller Williams Chicago Lincoln Park
   address: '2211 N Elston Ave Chicago, IL 60614'
   phone: 312-818-3071
   phone_type:
   phone2:
   phone2_type:
-  email: info@CarterPropertyGroup.com
+  email: Info@Cartergroupchicago.com
   url: 'http://www.CarterPropertyGroup.com'
 emma_form: >-
   <script
