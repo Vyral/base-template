@@ -20,7 +20,7 @@ youtube_code: VmvVxXXJwZs
 
 Renovating a property is no easy task, even when you hire a professional contractor to do the heavy lifting for you. After all, balancing cost while still finding someone who provides quality workmanship is a major undertaking in and of itself.&nbsp;
 
-So what does it take to find a reputable contractor? For starters, you should be aware of how to identify an unreputable contractor. Our team would be happy to connect you with a professional we trust and recommend, but if you choose to find someone on your own, looking for these six signs will help you suss out shady characters:&nbsp;
+So what does it take to find a reputable contractor? For starters, you should be aware of how to identify an unreputable contractor. Our team would be happy to connect you with a professional we trust and recommend, but if you choose to find someone on your own, **looking for these six signs will help you suss out shady characters:&nbsp;**
 
 1. They pressure you.
 2. They only accept cash.
