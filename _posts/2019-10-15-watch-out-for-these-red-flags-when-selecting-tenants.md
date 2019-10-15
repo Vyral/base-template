@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Watch Out For These Red Flags When Selecting Tenants
-date: 2019-10-15 13:52:38
+date: 2019-10-15 13:52:00
 tags:
   - Real Estate
 excerpt: >-
