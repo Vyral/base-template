@@ -19,7 +19,7 @@ youtube_code: pWqJJ_WCFss
 
 {% include youtube.html %}
 
-Today I’m here with Jake Bernhardt from \[INSERT COMPANY NAME\] to provide some answers to the most common lending questions we receive.
+<p style="text-align:center;"><em>Today I’m here with Jake Bernhardt from \[INSERT COMPANY NAME\] to provide some answers to the most common lending questions we receive</em></p>
 
 Today, I’ve asked Jake Bernhardt from \[INSERT COMPANY NAME\] to help me answer a few common but very important questions about mortgage lending:
 
