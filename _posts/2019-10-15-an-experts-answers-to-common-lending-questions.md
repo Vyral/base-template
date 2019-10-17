@@ -19,7 +19,7 @@ youtube_code: pWqJJ_WCFss
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today I’m here with Jake Bernhardt from United Heritage Credit Union to provide some answers to the most common lending questions we receive</em></p>
+<p style="text-align:center;"><em>Today I’m here with Jake Bernhardt from United Heritage Credit Union to provide some answers to the most common lending questions we receive.</em></p>
 
 Today, I’ve asked Jake Bernhardt from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
@@ -39,6 +39,6 @@ To be qualified for a home loan, you don’t need to have your documentation rig
 
 If you speak with a lender without documentation but you have a general idea of your income, you can still be pre-qualified, and the rest can be verified later. They will double-check this information, however, and they have to go by what’s documented on your tax returns, so keep that in mind when filling those out.
 
-How a bank or lender percieves risk might be a little different from what you might think, so it’s important to get started by speaking with a professional to guide you.
+How a bank or lender perceives risk might be a little different from what you might think, so it’s important to get started by speaking with a professional to guide you.
 
 Please know that if you’re intimidated by these questions or answers or you feel like they’re too much for you to process, you can simply reach out to us. We’ll be happy to make this process simple and fun for you. With lending partners like Jake, we can’t help but have you win when you choose to buy a home with us. We look forward to hearing from you\!
