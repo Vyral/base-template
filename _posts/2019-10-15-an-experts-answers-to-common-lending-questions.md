@@ -21,7 +21,7 @@ youtube_code: pWqJJ_WCFss
 
 <p style="text-align:center;"><em>Today I’m here with Jake Bernhardt from \[INSERT COMPANY NAME\] to provide some answers to the most common lending questions we receive</em></p>
 
-Today, I’ve asked Jake Bernhardt from \[INSERT COMPANY NAME\] to help me answer a few common but very important questions about mortgage lending:
+Today, I’ve asked Jake Bernhardt from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
 **Do you need a great credit score to buy a home?**
 
