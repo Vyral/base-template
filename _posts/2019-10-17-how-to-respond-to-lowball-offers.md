@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/-zPtMKJiUaU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you get a lowball offer on your home, you have a few options on how to handle it. Let’s discuss. </em></p>
+
 Today we’ll be discussing how to respond to a lowball offer on your home and what options you have.&nbsp;
 
 The first step is to ask yourself if your home is priced accurately. If you list with me, we will **use statistics and data based on the market values of the area to agree on an asking price**, so we’re not going to be too far out of range of what it’s actually going to sell for.&nbsp;
