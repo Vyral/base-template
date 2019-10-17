@@ -25,9 +25,7 @@ As you know, I usually like to share helpful hints with all of you about what’
 
 Here’s the situation: I recently received an online home value request at exactly midnight from Mr. and Mrs. Adams. The couple told me that their property, 1313 Cemetery Lane, is haunted, and wasn’t sure if I’d be willing to take on such a property. I tried calling the couple back to discuss their situation, but the phone line went dead. And when I visited the property in person, no one answered. In fact, the home appeared to have been completely abandoned a long, long time ago.&nbsp;
 
-With all of that being said, here is how you can help: If you happen to know the Adams family, could you please put them in touch with me? And, if not, could you relay these five questions? Each of them will help them to determine their home’s value.&nbsp;
-
-Here they are:&nbsp;
+With all of that being said, here is how you can help: If you happen to know the Adams family, could you please put them in touch with me? And, if not, could you relay these five questions? Each of them will help them to determine their home’s value:&nbsp;
 
 **1\. Are they planning on moving the cars from the front lawn, or are they included in the sale?** When I arrived at the property, there were a number of abandoned cars—all of which were, strangely, left running. It was as if the owners of the vehicles had been forced to flee.&nbsp;
 
