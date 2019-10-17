@@ -23,9 +23,9 @@ youtube_code: 'https://youtu.be/_k6h7ID91oE'
 
 <p style="text-align: center;"><em>Here are a few red flags you need to be aware of when choosing tenants for your property.</em></p>
 
-When you’re choosing tenants to live in a property you own or manage, there are a few red flags you’ll want to keep an eye out for if you don’t want problems later down the road:
+When you’re choosing tenants to live in a property you own or manage, **there are a few red flags you’ll want to keep an eye out for if you don’t want problems down the road:**
 
-For one, **if a tenant has a lot of unreported cash or is paid almost entirely in cash, that’s a red flag.** The sources of that money are hard to track down, and if you eventually need to collect from a tenant, it can make doing so hard. Also, they could be getting paid in cash on purpose to avoid creditors, which is itself a red flag.
+For one, if a tenant has a lot of unreported cash or is paid almost entirely in cash, that’s a red flag. The sources of that money are hard to track down, and if you eventually need to collect from a tenant, it can make doing so hard. Also, they could be getting paid in cash on purpose to avoid creditors, which is itself a red flag.
 
 {% include pullquote.html %}
 
