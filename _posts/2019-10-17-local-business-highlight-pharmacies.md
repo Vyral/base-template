@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/Y9MOYUg5a_o'
 
 {% include youtube.html %}
 
-Today I’ll introduce you to Richard Gobin, founder of a group of local pharmacies that have been serving us for 60 years.
+<p style="text-align: center;"><em>Today I’ll introduce you to Richard Gobin, founder of a group of local pharmacies that have been serving us for 60 years.</em></p>
 
 Today I’m bringing you another brand ambassador local business highlight\! We’re going to learn about the story of a group of local hometown pharmacies here in Pennsylvania consisting of Quality Care Pharmacy, Holly Pharmacy, and Big Spring Pharmacy. I’m going to introduce you to Richard Gobin, the founder of these pharmacies, who built a group of local businesses that have served our community for a long time.&nbsp;
 
