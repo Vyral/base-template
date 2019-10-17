@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Respond to Lowball Offers
-date: 2019-10-17 16:42:58
+date: 2019-10-17 16:42:00
 tags:
   - Real Estate
 excerpt: >-
