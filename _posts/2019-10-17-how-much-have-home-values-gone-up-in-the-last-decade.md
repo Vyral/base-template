@@ -18,7 +18,7 @@ youtube_code: BudMOos5ph4
 
 {% include youtube.html %}
 
-I was having lunch with my grandmother recently and she told me about how she had bought her home for $37,000 in South Park in 1966. **That same 2,500 sq ft. colonial is now worth $600,000 in today’s market.** That’s an incredible increase in value with relatively little work done on the home after all these years. This got me thinking about how much homes appreciated and how much they’ve appreciated in just the last decade.
+I was having lunch with my grandmother recently and she told me about how she had bought her home for $37,000 in South Park in 1966. **That same 2,500 sq ft. colonial is now worth $600,000 in today’s market.** That’s an incredible increase in value with relatively little work done on the home after all these years. This got me thinking about how much homes appreciate and how much they’ve appreciated in just the last decade.
 
 **If you would have invested in a single-family home for $160,000 in August of 2009, it would be worth $269,000 today.** That’s a 68% increase. For a condo/townhome, a $137,948 purchase in August 2009 would be worth $210,000 today.
 
