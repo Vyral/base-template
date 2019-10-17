@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/IJPE0F69yuI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The latest numbers are in for our real estate market and they show some surprising changes. Here’s what you need to know.</em></p>
+
 Today we’ve got a quick update for you on the Sacramento real estate market and what we’ve been seeing out there. **Here’s an outline of the update with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
 **0:40-** Why the health of the market depends on your specific situation<br>**1:15-** How the market has changed in just the last month and what those changes mean for you<br>**2:08-** How the market has changed over the last year in terms of pending sales and inventory<br>**3:03-** Numbers that show we’re still in a seller’s market here in Sacramento and Elk Grove<br>**3:45-** Why things are so competitive in the 95835 for homebuyers<br>**4:50-** My advice for curious buyers and sellers here in Sacramento<br>**5:40-** Wrapping things up
