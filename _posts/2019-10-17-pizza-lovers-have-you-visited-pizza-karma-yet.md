@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pizza Lovers: Have You Visited Pizza Karma Yet?'
-date: 2019-10-17 16:03:08
+date: 2019-10-17 16:03:00
 tags:
 excerpt: 'For our first community spotlight video, we’re featuring Pizza Karma.'
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 4m7kVD5b4co
 ---
 
 {% include youtube.html %}
