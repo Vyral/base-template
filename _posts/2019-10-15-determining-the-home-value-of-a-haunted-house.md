@@ -21,7 +21,7 @@ youtube_code: Zd76_Np6LU0
 
 <p style="text-align:center;"><em>What does it take to find the value of a haunted house? Let’s discuss.</em></p>
 
-As you know, I usually like to share helpful hints with all of you about what’s going on in our Orange County area real estate market. Today, though, I’d like to ask for your help, instead.
+As you know, I usually like to share helpful hints with all of you about what’s going on in the Southern California area real estate market. Today, though, I’d like to ask for your help, instead.
 
 Here’s the situation: I recently received an online home value request at exactly midnight from Mr. and Mrs. Adams. The couple told me that their property, 1313 Cemetery Lane, is haunted, and wasn’t sure if I’d be willing to take on such a property. I tried calling the couple back to discuss their situation, but the phone line went dead. And when I visited the property in person, no one answered. In fact, the home appeared to have been completely abandoned a long, long time ago.&nbsp;
 
@@ -40,8 +40,6 @@ With all of that being said, here is how you can help: If you happen to know the
 {% include pullquote.html %}
 
 Thank you all for your help in relaying these messages to the Adams family. Hopefully, they can get back to me soon—while they’re still in the home selling spirit.
-
-**Speaking of Halloween, don’t forget to attend Imagine Realty’s Trunk or Treat event on Friday, October 25 from 5 p.m. to 7 p.m. in our office’s parking lot.** We look forward to seeing you then.
 
 And, as always, if you have any questions about selling your own (hopefully not haunted) home, or if you’d like more information about your other real estate goals, feel free to give me a call or send me an email. Just don’t “ghost” me like the Adams did\!<br>&nbsp;
 
