@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Measure Your Excitement About That “Coming Soon” Listing
-date: 2019-10-18 13:46:09
+date: 2019-10-18 13:46:00
 tags:
   - Real Estate
 excerpt: How should buyers react to seeing “coming soon” listings? Today I’ll discuss.
