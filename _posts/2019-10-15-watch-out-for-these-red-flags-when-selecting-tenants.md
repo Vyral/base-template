@@ -15,13 +15,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/oggie-penev-landlords-3-flags-to-watch-for-youtube.png
+youtube_alternate_image: /uploads/oggie-penev-landlords-3-flags-to-watch-for-youtube-2.png
 youtube_code: 'https://youtu.be/_k6h7ID91oE'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are a few red flags you need to be aware of when choosing tenants for your property.</em></p>
+*Here are a few red flags you need to be aware of when choosing tenants for your property.*
 
 When you’re choosing tenants to live in a property you own or manage, **there are a few red flags you’ll want to keep an eye out for if you don’t want problems down the road:**
 
