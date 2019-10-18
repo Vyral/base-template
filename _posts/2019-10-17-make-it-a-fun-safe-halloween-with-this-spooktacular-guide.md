@@ -19,6 +19,6 @@ youtube_code: 'https://youtu.be/GfnF_De546c'
 
 Halloween will be here before you know it, so today I’ll share some quick tips that will help you and your family have a fun, safe holiday.
 
-I even have an expert trick-or-treater joining me—my daughter, Lilly—to help demonstrate how to spot the “tricks” from the “treats” in your kid’s candy bag.
+My daughter Lilly, an expert trick-or-treater, joins me to help demonstrate how to spot the “tricks” from the “treats” in your kids' candy bag.
 
-in the meantime, if you have any questions, feel free to reach out. I look forward to hearing from you soon.
+In the meantime, if you have any questions, feel free to reach out. I look forward to hearing from you soon.
