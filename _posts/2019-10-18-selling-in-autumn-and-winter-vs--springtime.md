@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/Jck0ln5OdBE'
 
 {% include youtube.html %}
 
-Today I’ll discuss whether you should sell your house now or wait until the spring.
+<p style="text-align: center;"><em>Today I’ll discuss whether you should sell your house now or wait until the spring.</em></p>
 
 For today’s topic, we will be discussing selling in the current market versus waiting until the spring. This is a topic I truly enjoy talking about.
 
