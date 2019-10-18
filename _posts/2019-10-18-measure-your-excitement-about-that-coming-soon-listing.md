@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/N6DLfbtrOQs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How should buyers react to seeing “coming soon” listings? Today I’ll discuss.</em></p>
+
 Advertising a home as “coming soon” is a great strategy that helps the seller get an early start on their marketing program. Most of the time, however, “coming soon” listings are not available for viewings until they’re fully active listings on the market. According to the National Association of Realtors, **“coming soon listings” are not allowed to be shown by any agent, even the listing agent.** Even still, a “coming soon” listing should have a date by which they’ll be open for showings and will usually have at least a few pictures of the home.
 
 **So what should you do if you see a “coming soon” sign in front of your dream home?**
