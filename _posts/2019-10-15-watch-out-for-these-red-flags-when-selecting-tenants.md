@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/_k6h7ID91oE'
 
 {% include youtube.html %}
 
-*Here are a few red flags you need to be aware of when choosing tenants for your property.*
+<p style="text-align: center;"><em>Here are a few red flags you need to be aware of when choosing tenants for your property.</em></p>
 
 When you’re choosing tenants to live in a property you own or manage, **there are a few red flags you’ll want to keep an eye out for if you don’t want problems down the road:**
 
