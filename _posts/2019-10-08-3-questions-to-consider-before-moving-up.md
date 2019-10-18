@@ -30,10 +30,10 @@ Aside from knowing what your home is worth, you also need to know what makes it 
 
 {% include pullquote.html %}
 
-**3\. What happens if I sell but I don’t find the right home to move into?** On our team, we always put our buyers in a strong position, so to prevent this from happening, we only accept offers that are subject to you being able to find a suitable replacement property. If you can’t find one, you don’t have to sell. This reduces your risk all around.&nbsp;
+**3\. What happens if I sell but I don’t find the right home to move into?** On our team, we always put our buyers in a strong position. To prevent this from happening, we only accept offers that are subject to you being able to find a suitable replacement property. If you can’t find one, you don’t have to sell. This reduces your risk all around.&nbsp;
 
 Buyers will want assurances that you’re looking for other properties, and once you’ve found the next home you’d like to purchase, that seller will want to know that your current home is on the market and is desirable.&nbsp;
 
-This can be a stressful situation, but certain life events (e.g., a new addition to your family or a job promotion) either necessitate more space or allow you to buy a bigger home. In any case, we’ve created an in-depth guide for moving up that we’d be happy to share with you if you’d like to know more about this topic. Just send me a comment with the words “move up” and I’ll send you a copy.&nbsp;
+This can be a stressful situation, but certain life events (e.g., a new addition to your family or a job promotion) either necessitate more space or allow you to buy a bigger home. In any case, we’ve created an in-depth guide for moving up that we’d be happy to share with you if you’d like to know more about this topic. **Just send me a comment with the words “move up” and I’ll send you a copy.&nbsp;**
 
 If you have any other real estate questions I can answer for you, feel free to give me a call or send me an email. I look forward to hearing from you.&nbsp;<br>&nbsp;
