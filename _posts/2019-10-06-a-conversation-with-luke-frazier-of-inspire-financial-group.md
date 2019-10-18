@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/n7AhyTbh_Y4'
 
 Today I’m excited to introduce you to my friend Luke Frazier with INSPiRE Financial Group. I met Luke at a Tulsa Chamber of Commerce event and I was so inspired by him and how he runs his business as a financial planner.
 
-**Luke started this firm three years ago with what he calls “uncommon knowledge”.** He felt that the industry as a whole was going in one direction, but not enough people were asking why. We’ve taken that knowledge and applied strategies and recommendations behind it to better our clients. As opposed to the stock market, they tend to focus on cash flow.
+**Luke started this firm three years ago with what he calls “uncommon knowledge.”**&nbsp;He felt that the industry as a whole was going in one direction, but not enough people were asking why. We’ve taken that knowledge and applied strategies and recommendations behind it to better our clients. As opposed to the stock market, they tend to focus on cash flow.
 
-Products and services can only get you so far if you don’t have a strong “why.” **For Luke, he believes that there are five core areas in which everyone is trying to improve:** Relationships with family and friends, career, finances, spiritual well-being, and physical well-being.&nbsp;
+Products and services can only get you so far if you don’t have a strong “why.” **For Luke, he believes that there are five core areas in which everyone is trying to improve:**&nbsp;relationships with family and friends, career, finances, spiritual well-being, and physical well-being.&nbsp;
 
-Luke and INSPiRE feel like the financial aspect too often adds stress or negatively affect the other five areas. Their goal with their clients is to put strategies in place to turn the financial aspect into a positive and positively affect the other areas.
+Luke and INSPiRE feel like the financial aspect too often adds stress or negatively affect the other five areas. Their goal with their clients is to put strategies in place to turn the financial aspect into a positive and positively affects the other areas.
 
 {% include pullquote.html %}
 
