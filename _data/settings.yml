@@ -4,7 +4,7 @@ description: 'If you are looking to buy or sell a home, get all the information 
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: http://www.searchportlandareahomelistings.com/featured/
+    url: https://asksarita.com/search#?q_limit=36&mlsId=110&price=500000:800000&multi_search=Portland,%20OR&multi_cat=CityState&status=1|3&q_sort=createdAt-&q_offset=0
   - title: About
     url: http://asksarita.com/about
 
@@ -28,16 +28,16 @@ emma_form:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://asksarita.com/sellers
+  first_CTA_URL: https://asksarita.com/home_value
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.searchportlandareahomelistings.com/
+  second_CTA_URL: https://asksarita.com/search#?q_limit=36&mlsId=110&price=500000:800000&multi_search=Portland,%20OR&multi_cat=CityState&status=1|3&q_sort=createdAt-&q_offset=0
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/005.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.searchportlandareahomelistings.com/
+    CTA_url: https://asksarita.com/search#?q_limit=36&mlsId=110&price=500000:800000&multi_search=Portland,%20OR&multi_cat=CityState&status=1|3&q_sort=createdAt-&q_offset=0
 
 lender:
   show_section: false
