@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Zd76_Np6LU0
+youtube_code: tPnMIq_9nk8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What does it take to find the value of a haunted house? Let’s discuss.</em></p>
+*What does it take to find the value of a haunted house? Let’s discuss.*
 
 As you know, I usually like to share helpful hints with all of you about what’s going on in the Southern California area real estate market. Today, though, I’d like to ask for your help, instead.
 
