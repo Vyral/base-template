@@ -1269,6 +1269,45 @@ html[xmlns] .flexslider .slides {
     -webkit-transform: translateY(0rem);
     transform: translateY(0rem); }
 
+.photo-cta {
+  width: 100%;
+  line-height: 20px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px; }
+
+.photo-cta-container {
+  width: 100%; }
+
+.cta-button {
+  position: absolute;
+  bottom: 20px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: block;
+  color: #f47820;
+  background-color: #fff;
+  border: 2px solid #f47820;
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button a {
+    color: #f47820; }
+  .cta-button:hover {
+    border: 2px solid #f47820;
+    color: #fff;
+    background-color: #f47820; }
+    .cta-button:hover a {
+      color: #fff; }
+
 .jp-audio {
   border: 0;
   color: #f47820;
@@ -2680,6 +2719,56 @@ form select {
 
 .indent {
   margin-left: 4rem; }
+
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
+
+.e2ma_signup_form_required_asterix {
+  color: #f47820 !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #f47820;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #f47820;
+  Border: 1px solid #f47820; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
 
 .recruiting {
   text-align: center; }

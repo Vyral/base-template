@@ -25,7 +25,7 @@ client:
   about_markdown: |
     Welcome to our new 1000CallsADay.com website!
   market:
-  brand: 
+  brand:
   brokerage:
   address: '148 South Dowlen Rd #796<br>Beaumont, TX 77706'
   phone: 832-905-1000
@@ -43,7 +43,7 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Let's take your business to new heights."
     CTA_text: "Are you looking to improve Your Sales Process - Prospecting or Lead Follow up?"
-    CTA_link_text: "Contact Us"
+    CTA_link_text: "Free Strategy Call"
     CTA_url: /contact
 
 
