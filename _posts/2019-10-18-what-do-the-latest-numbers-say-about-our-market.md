@@ -20,7 +20,7 @@ youtube_code: jHq0GH-2lV8
 
 {% include youtube.html %}
 
-<p style="text-align:cener;"><em>As we move through October, the numbers tell us that activity has slowed down in the higher price ranges of our market.</em></p>
+<p style="text-align:center;"><em>As we move through October, the numbers tell us that activity has slowed down in the higher price ranges of our market.</em></p>
 
 Fall is here, which means it’s time for your October 2019 market update. **As always, we’ll look at several key indicators and the numbers behind them—this time from the period between August to September:&nbsp;**
 
