@@ -18,7 +18,7 @@ youtube_code: Xnng7pGykgs
 
 {% include youtube.html %}
 
-For our very first community spotlight video, we’re visiting the restaurant Pizza Karma and talking with the owner/head chef Raghavan Iyer about what makes this establishment so unique.&nbsp;
+For our very first community spotlight video, we’re visiting the restaurant[Pizza Karma]( https://pizzakarma.com/){: target="_blank"} and talking with the owner/head chef [Raghavan Iyer](http://www.raghavaniyer.com){: target="_blank"} about what makes this establishment so unique.&nbsp;
 
 In Raghavan’s words, a pizza is defined by its cooking style, and **Pizza Karma’s cooking method utilizes clay ovens to hone their signature tandoor-style crust**—a style used in 80% of the rest of the world. The temperatures of these clay ovens reach as high as 600&deg;F.&nbsp;
 
