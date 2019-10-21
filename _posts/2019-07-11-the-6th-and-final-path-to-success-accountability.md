@@ -7,9 +7,9 @@ excerpt: >-
   success: accountability.
 enclosure:
 pullquote: >-
-  “To get the next level in your life will require a different perspective and a
-  higher level of thinking than the perspective and level of thinking that got
-  you to where you are.”
+  To get to the next level in your life will require a different perspective and
+  a higher level of thinking than the perspective and level of thinking that got
+  you to where you are.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -31,7 +31,7 @@ Everyone knows by now the folk definition of ‘insanity,’ which is doing the 
 
 {% include pullquote.html %}
 
-Besides yourself or perhaps your spouse, who helps to hold you accountable to your goals? Do you have a coach, team leader, or peer who will hold you to your aspirations? As the adage goes, “To get the next level in your life will require a different perspective and a higher level of thinking than the perspective and level of thinking that got you to where you are.”
+Besides yourself or perhaps your spouse, who helps to hold you accountable to your goals? Do you have a coach, team leader, or peer who will hold you to your aspirations? As the adage goes, “To get to the next level in your life will require a different perspective and a higher level of thinking than the perspective and level of thinking that got you to where you are.”
 
 You’re always encouraged to visit our website [RealEstateCareersInUtah.com](https://realestatecareersinutah.com/){: target="_blank"} to sign up for our real estate newsletter. There, you can also sign up for our business planning clinic, or else book a one-on-one appointment with us to dive deeper into a valuable conversation about you and your business.
 
