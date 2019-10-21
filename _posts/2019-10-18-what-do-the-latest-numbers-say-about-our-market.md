@@ -34,7 +34,7 @@ What do these numbers mean? **If you have a home listed above the median price, 
 
 {% include pullquote.html %}
 
-As far as the drop in interest rate goes, people often assume that when rates go down, market activity and home prices go up. Well, the truth is, lower interest rates aren’t like caffeine for the housing market. There are plenty of historical examples of home prices dropping right alongside decreasing interest rates. And as you can see above, the median sale price and the number of sales have dropped as interest rates have dropped.&nbsp;
+As far as the drop in interest rates goes, people often assume that when rates go down, market activity and home prices go up. Well, the truth is, lower interest rates aren’t like caffeine for the housing market. There are plenty of historical examples of home prices dropping right alongside decreasing interest rates. And as you can see above, the median sale price and the number of sales have dropped as interest rates have dropped.&nbsp;
 
 My team has about a half-dozen homes listed for sale, and these stats are congruent with what we’re seeing. Homes that are listed in the more affordable price points—if they’re marketed well—are moving quickly, but in the higher price points, things have slowed down quite a bit.&nbsp;
 
