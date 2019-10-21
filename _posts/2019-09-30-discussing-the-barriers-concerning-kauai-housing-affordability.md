@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Discussing the Barriers concerning Kauai Housing Affordability
+title: Discussing the Barriers Concerning Kauai Housing Affordability
 date: 2019-09-30 20:29:00
 tags:
   - Real Estate
