@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Most Brokerages Really Feel About Their Agents
-date:
+date: 2019-10-21 15:11:52
 tags:
 excerpt: >-
   Unfortunately, in many brokerages, your broker doesn’t really care whether you
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/gray-youtube-4.jpg
 youtube_code: '-hYkzUoM3bM'
 ---
 
-{% include youtube.html %}<center>Unfortunately, in many brokerages, your broker doesn’t really care whether you ever sell a house or not.</center>
+{% include youtube.html %}
+
+<center>Unfortunately, in many brokerages, your broker doesn&rsquo;t really care whether you ever sell a house or not.</center>
+
+&nbsp;
 
 Today I’ll let you in on one of the dirty little secrets of the real estate industry.&nbsp;
 
