@@ -30,7 +30,7 @@ Also, with all the sellers waiting until the spring, they’re out of your way, 
 
 {% include pullquote.html %}
 
-Another key factor is the current interest rates, they are still extremely low. We don’t have a crystal ball that will tell us how rates will be in the spring. **The fact that we know the rates are great now is an opportunity for you.&nbsp;**
+Another key factor is the current interest rates, which are still extremely low. We don’t have a crystal ball that will tell us how rates will be in the spring. **The fact that we know the rates are great now is an opportunity for you.&nbsp;**
 
 In conclusion, I’m a fan of the current market for selling. Don’t wait\!&nbsp;
 
