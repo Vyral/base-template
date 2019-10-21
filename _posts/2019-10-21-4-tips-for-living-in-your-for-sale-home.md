@@ -23,7 +23,7 @@ Your home’s always been a sanctuary, but once that “For Sale” sign goes up
 
 If you’re preparing your home for the market, it shouldn’t feel like your home anymore at all. Here are four tips to prepare you for the hectic life that comes with living in your for-sale home:
 
-**1\. Start packing now.** The secret to making a home clutter-free is to remove the things you can live without while your home’s on the market—store it, sell it, chuck it, or donate it. While you’re packing, work on decluttering, donating, or throwing away the things you don’t need. It will give you a headstart on moving, and buyers will appreciate the extra space. Charities like the Purple Heart Foundation will pick up your donations free of charge. I use them at least once a month myself.&nbsp;
+**1\. Start packing now.** The secret to making a clutter-free home is to remove the things you can live without while your home’s on the market—store it, sell it, chuck it, or donate it. While you’re packing, work on decluttering, donating, or throwing away the things you don’t need. It will give you a headstart on moving, and buyers will appreciate the extra space. Charities like the Purple Heart Foundation will pick up your donations free of charge. I use them at least once a month myself.&nbsp;
 
 **2\. Get squeaky clean.** If you’re lacking the motivation to clean up every cobweb or scrub the floor, know this: A clean home will add thousands of dollars to your sale price. Aim for five-star perfection when cleaning your sinks, mirrors, windows, and toilets. Or just hire someone to do it for you.&nbsp;
 
