@@ -21,7 +21,7 @@ youtube_code: _rFYZd6jJIY
 
 {% include youtube.html %}
 
-Do you live in a haunted house and want to boost its value? Here are five tips that will help you do so.
+<p style="text-align:center;"><em>Do you live in a haunted house and want to boost its value? Here are five tips that will help you do so.</em></p>
 
 As you know, I recently got a mysterious online home valuation request from some homeowners whose house looked haunted. Their address was 1313 Cemetery Lane (they call themselves the Addams family), and I sent out a mass email asking for help trying to contact them.
 
