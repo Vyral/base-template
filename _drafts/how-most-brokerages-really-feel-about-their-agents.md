@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gray-youtube-4.jpg
 youtube_code: '-hYkzUoM3bM'
 ---
 
-{% include youtube.html %}Unfortunately, in many brokerages, your broker doesn’t really care whether you ever sell a house or not.
+{% include youtube.html %}<center>Unfortunately, in many brokerages, your broker doesn’t really care whether you ever sell a house or not.</center>
 
 Today I’ll let you in on one of the dirty little secrets of the real estate industry.&nbsp;
 
