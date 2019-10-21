@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/cook-youtube-8.jpg
 youtube_code: 7XNE6KoktXQ
 ---
 
-{% include youtube.html %}
+{% include youtube.html %}Joining JCRE changed Whitney Muncey’s life. Here’s how.
 
 Whitney Muncey began her career with Jeff Cook Real Estate in 2017. Since that time, her life has changed in so many ways. Joining our team has not only lifted a big financial burden off her shoulders, but it has also allowed her to set her own schedule so she can be present with her family when she needs to.
 
