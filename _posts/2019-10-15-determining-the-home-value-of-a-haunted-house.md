@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Determining the Home Value of a Haunted House
-date: 2019-10-15 14:41:00
+date: 2019-10-21 14:41:00
 tags:
   - Real Estate
 excerpt: What does it take to find the value of a haunted house? Let’s discuss.
