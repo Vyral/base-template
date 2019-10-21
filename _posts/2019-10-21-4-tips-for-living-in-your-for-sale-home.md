@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Tips for Living in Your For-Sale Home
-date: 2019-10-21 16:32:51
+date: 2019-10-21 16:32:00
 tags:
   - Home Seller Tips
 excerpt: Here are four tips to remember if you plan on living in your for-sale home.
@@ -16,6 +16,8 @@ youtube_code: 2FcHMvIYpG8
 ---
 
 {% include youtube.html %}
+
+Here are four tips to remember if you plan on living in your for-sale home.
 
 Your home’s always been a sanctuary, but once that “For Sale” sign goes up in your front yard, you need to be ready to bare it all. Eager Realtors will be waiting to come through your front door, and potential buyers will look through every nook and cranny during open houses. All of this will happen while you’re trying to continue living your life as normally as possible.&nbsp;
 
