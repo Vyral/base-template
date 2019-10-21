@@ -26,9 +26,9 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.hamptonroadshomefinder.com/sell/
+  first_CTA_URL: https://www.chesapeakeareahomesearch.com/homevalue/theronsawyerteam
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.hamptonroadshomefinder.com/map/
+  second_CTA_URL: https://www.chesapeakeareahomesearch.com/search?page=1&perpage=12&soldproperty=0&sortby=latest&type=grid
   VR_form:
 
 sidebar_CTA:
@@ -36,12 +36,12 @@ sidebar_CTA:
     CTA_title: Looking to Sell a Home?
     CTA_text: Find out what your home is worth in -- MARKET --.
     CTA_link_text: Home Valuation Tool
-    CTA_url: http://www.hamptonroadshomefinder.com/sell/
+    CTA_url: https://www.chesapeakeareahomesearch.com/homevalue/theronsawyerteam
   - CTA_image_path: /img/cta-images/003.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: http://www.hamptonroadshomefinder.com/map/
+    CTA_url: https://www.chesapeakeareahomesearch.com/search?page=1&perpage=12&soldproperty=0&sortby=latest&type=grid
 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
