@@ -5,7 +5,7 @@ date: 2019-10-17 16:03:00
 tags:
 excerpt: 'For our first community spotlight video, we’re featuring Pizza Karma.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/John+Schuster/Pizza+Lovers-+Have+You+Visited+Pizza+Karma+Yet_.mp4
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/Pizza+Lovers-+Have+You+Visited+Pizza+Karma+Yet_+(1).mp4
 pullquote: >-
   If you live in Eden Prairie or the surrounding suburbs, we highly recommend
   you stop by Pizza Karma.
