@@ -21,7 +21,7 @@ youtube_code: b3Cc2xVB_VU
 
 {% include youtube.html %}
 
-Find out how you can get a home with a minimal down payment and zero mortgage insurance.
+<p style="text-align:center;"><em>Find out how you can get a home with a minimal down payment and zero mortgage insurance.</em></p>
 
 I’m joined today by mortgage loan consultant Justin Allender, who will be sharing some exciting information about a conventional loan that has no mortgage insurance.&nbsp;
 
