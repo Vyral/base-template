@@ -4,7 +4,7 @@ title: 'Make It a Fun, Safe Halloween With This Spooktacular Guide'
 date: 2019-10-17 21:57:00
 tags:
   - Real Estate
-excerpt: Halloween will be here before you know it
+excerpt: Halloween will be here before you know it!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Happy+Halloween.mp4
 pullquote:
