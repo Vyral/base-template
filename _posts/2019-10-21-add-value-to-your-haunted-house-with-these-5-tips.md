@@ -29,7 +29,7 @@ I have since received another cryptic message from them asking for tips on how t
 
 This home looks spooky, so the advice I have for them really applies to anyone looking to sell a haunted house. Thus, I have five tips on how the owners of haunted houses can improve their home’s value:
 
-**1\. It’s all about curb appeal.** A buyer will make an almost instinctual decision the minute they see a photo of the front of the house whether they want to see more of it. That’s why I recommend cleaning up the landscaping—remove the abandoned vehicles, dead trees and bushes, large spider webs, tombstones, etc. If you have the budget and time, planting fresh grass or laying down sod can make a front yard look better. If you can, even adding some fresh, drought-tolerant landscaping or succulents can give a home a modern look.&nbsp;&nbsp;
+**1\. It’s all about curb appeal.** A buyer will make an almost instinctual decision the minute they see a photo of the front of the house whether they want to see more of it. That’s why I recommend cleaning up the landscaping—remove the abandoned vehicles, dead trees, and bushes, large spider webs, tombstones, etc. If you have the budget and time, planting fresh grass or laying down sod can make a front yard look better. If you can, even adding some fresh, drought-tolerant landscaping or succulents can give a home a modern look.&nbsp;&nbsp;
 
 **2\. Add a fresh coat of paint and repair any termite damage.** The home looks like it has not had any termite work done in a long time and it has a lot of badly worn paint. Also, there are several broken windows that I would recommend having replaced.
 
