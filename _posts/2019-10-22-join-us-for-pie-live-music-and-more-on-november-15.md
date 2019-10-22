@@ -1,0 +1,31 @@
+---
+layout: post
+title: 'Join Us for Pie, Live Music, and More on November 15'
+date: 2019-10-22 00:00:00
+tags:
+excerpt: >-
+  As we near the holiday season, we wanted to make sure you knew when our annual
+  holiday pie event was this year. We hope to see you on November 15!
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Wilson/Join+Us+for+Pie%2C+Live+Music%2C+and+More+on+November+15.mp4
+pullquote: 'We’ll have food, live music, and much more.'
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: false
+youtube_alternate_image: /uploads/pie-event-youtube.jpg
+youtube_code: WReKGow90dI
+---
+
+{% include youtube.html %}
+
+It’s that time of year where people start getting into the holiday spirit. In face, an unnamed member of my household was recently blaring Christmas music on October 1. However, this got me thinking about the holidays and our upcoming event.
+
+Your schedules are probably already filling up over the next few months, **so I wanted to take a moment today to extend a personal invite to join us at our third annual holiday pie event on November 15.**
+
+{% include pullquote.html %}
+
+**Come get your free, fresh-baked apple or pumpkin pie at Towne Lake Hills Golf Club (1003 Towne Lake Hills E.) from 5:30 p.m. to 9:30 p.m.** In addition to the pies, we'll also have Santa, Mr.s Klaus, and professional photographer John Humphrey. We’ll also have food and live music\!
+
+**To reserve your pie and RSVP to the event, give us a call today or send an email over to pies@callursula.com to let us know if your family can make it and what kind of pie you’d like.** &nbsp;If you have any other questions for me in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+
+Teaser: Fall is finally here and the holidays are right around the corner. Before your schedule fills up, we wanted to make sure that you penciled us in for November 15. That’s the date of our annual holiday pie event and we’d love to see you there. We’ll have live music, food, and even a visit from Santa Claus. Of course, we’ll have your free apple pie as well. To learn more about the event, including how to RSVP, watch this short video.
