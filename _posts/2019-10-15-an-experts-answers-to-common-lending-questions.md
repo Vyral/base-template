@@ -19,7 +19,7 @@ youtube_code: pWqJJ_WCFss
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today I’m here with Jake Bernhard from United Heritage Credit Union to provide some answers to the most common lending questions we receive.</em></p>
+<p style="text-align:center;"><em>Today I’m here with Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) to provide some answers to the most common lending questions we receive.</em></p>
 
 Today, I’ve asked Jake Bernhard from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
