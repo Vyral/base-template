@@ -19,9 +19,9 @@ youtube_code: pWqJJ_WCFss
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today I’m here with Jake Bernhardt from United Heritage Credit Union to provide some answers to the most common lending questions we receive.</em></p>
+<p style="text-align:center;"><em>Today I’m here with Jake Bernhard from United Heritage Credit Union to provide some answers to the most common lending questions we receive.</em></p>
 
-Today, I’ve asked Jake Bernhardt from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
+Today, I’ve asked Jake Bernhard from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
 **Do you need a great credit score to buy a home?**
 
@@ -35,7 +35,7 @@ Jake has programs that require as little as 3% down on a home purchase. Requirin
 
 **What are the key documents to have when speaking with a lender?**
 
-To be qualified for a home loan, you don’t need to have your documentation right in front of you, but it does help. &nbsp;When the lender asks for your documents eventually, you’ll need two recent pay stubs, two years of W-2s, as well as any documents that help break down your base income and your bonus (overtime) income. The more information you have on that initial application will help the loan officer find the best product for you and let you know if you qualify for it.
+To be qualified for a home loan, you don’t need to have your documentation right in front of you, but it does help. &nbsp;When the lender asks for your documents typically, you’ll need two recent pay stubs, two years of W-2s, as well as any documents that help break down your base income and your bonus (overtime) income. The more information you have on that initial application will help the loan officer find the best product for you and let you know if you qualify for it.
 
 If you speak with a lender without documentation but you have a general idea of your income, you can still be pre-qualified, and the rest can be verified later. They will double-check this information, however, and they have to go by what’s documented on your tax returns, so keep that in mind when filling those out.
 
