@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Halloween will be here before you know it!
 enclosure:
-pullquote: You can help make this Halloween a fun and safe treat for everyone
+pullquote: You can help make this Halloween a fun and safe treat for everyone.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
