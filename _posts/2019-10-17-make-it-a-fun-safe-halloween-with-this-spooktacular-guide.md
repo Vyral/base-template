@@ -16,7 +16,7 @@ youtube_code: mFD8loLuEaE
 
 {% include youtube.html %}
 
-Halloween will be here before you know it, so today I’ll share some quick tips that will help you and your family have a fun, safe holiday.
+<center>Halloween will be here before you know it, so today I’ll share some quick tips that will help you and your family have a fun, safe holiday.</center>
 
 Skeletons, spiderwebs, and Jack-o’-lanterns galore are popping up all over our neighborhoods, and that can only mean one thing: Halloween is just around the corner. If your preparations so far have involved stocking up on candy and choosing the perfect costume for yourself or your children, you’re on the right track.
 
