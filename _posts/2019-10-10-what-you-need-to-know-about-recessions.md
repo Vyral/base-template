@@ -29,7 +29,7 @@ Many people ask, “What happens to home values during a recession?”
 
 Interestingly enough, out of the last five recessions, three of those recessions saw increases in home values. That shows that a recession doesn’t always mean that your home will lose value.
 
-<p align="center">![](/uploads/20190830-mem-819x1024.png){: width="819" height="1124"}
+![](/uploads/20190830-mem-819x1024.png){: width="819" height="1124"}
 
 &nbsp;
 
