@@ -12,14 +12,14 @@ pullquote: >-
   they’re influenced by international economies and political climates.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/interest-rates-update-youtube.jpg
 youtube_code: tppPoO-DTs8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Mortgage rates have dipped significantly over the course of 2019, but what about the future?</em></p>
+*Mortgage rates have dipped significantly over the course of 2019, but what about the future?*
 
 Recently, we had the pleasure of vacationing on the cruise ship Nautica and sailing across the Celtic Sea, and we have some great highlights from the trip we want to show you today. &nbsp;
 
