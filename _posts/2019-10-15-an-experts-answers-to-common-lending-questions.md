@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Expert’s Answers to Common Lending Questions
-date: 2019-10-15 19:35:03
+date: 2019-10-15 19:35:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -12,14 +12,15 @@ enclosure: >-
 pullquote: 'If you don’t have an 800 FICO score, it doesn’t mean you can’t buy a home.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/rosie-hayer-an-experts-answers-to-common-lending-questions-youtube.jpg
 youtube_code: pWqJJ_WCFss
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today I’m here with Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) to provide some answers to the most common lending questions we receive.</em></p>
+*Today I’m here with Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) to provide some answers to the most common lending questions we receive.*
 
 Today, I’ve asked Jake Bernhard from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
