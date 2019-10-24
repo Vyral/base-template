@@ -68,9 +68,7 @@ With Halloween holding such a high risk of accidents involving child pedestrians
 
 In addition to following these tips, you should also **be wary of homemade items or baked goods**. If you don’t personally know who made them, these should be discarded. As a general rule for any treat: When in doubt, throw it out.
 
-Parents should also be mindful of treats that could pose a choking hazard. Hard candies, gum, peanuts, and small toys should only be given to older children.
-
-If you have any additional questions regarding tainted or unsafe candy, you can contact Poison Control or your local police department.
+Parents should also be mindful of treats that could pose a choking hazard. Hard candies, gum, peanuts, and small toys should only be given to older children. If you have any additional questions regarding tainted or unsafe candy, you can contact Poison Control or your local police department.
 
 By following these tips, you and your trick-or-treaters will be all set to have a safe and happy holiday.
 
