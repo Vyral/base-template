@@ -31,6 +31,8 @@ Interestingly enough, out of the last five recessions, three of those recessions
 
 <center>![](/uploads/20190830-mem-819x1024.png){: width="819" height="1124"}</center>
 
+&nbsp;
+
 {% include pullquote.html %}
 
 Another thing to remember is that we could be going through a recession in some segments of the national market, but not in others. Real estate is always hyper-local—we could have a slowdown in one area, but other areas could stay strong. The recession rule of thumb is that if an area is experiencing growth in terms of jobs, wages, and population, then that area will typically remain economically healthy. And fortunately, **we’ve had a great local economy here in Utah along the Wasatch Front**.
