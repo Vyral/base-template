@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: What is happening now in our Westminster real estate market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Recapping+the+Westminster+Real+Estate+Markets+3rd+Quarter.mp4
 pullquote: >-
   Those thinking of listing this fall should know that they still have a shot at
   getting a great deal—you just have to be strategic.
