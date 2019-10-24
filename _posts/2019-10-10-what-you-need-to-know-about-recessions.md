@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-8---colemere-soi---yt.jpg
-youtube_code: GRwq8nE7ESY
+youtube_code: aw7SNfSd3ME
 ---
 
 {% include youtube.html %}
