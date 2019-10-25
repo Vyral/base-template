@@ -7,13 +7,13 @@ excerpt: >-
   As we near the holiday season, we wanted to make sure you knew when our annual
   holiday pie event was this year. We hope to see you on November 15!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jason+Wilson/Join+Us+for+Pie%2C+Live+Music%2C+and+More+on+November+15.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jason+Wilson/+Videos/2019/September/Join+Us+for+Pie%2C+Live+Music%2C+and+More+on+November+15+(1).mp4
 pullquote: 'We’ll have food, live music, and much more.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/pie-event-youtube.jpg
-youtube_code: WReKGow90dI
+youtube_alternate_image: /uploads/pie-event-youtube-1.jpg
+youtube_code: DNwI1jhdF-Y
 ---
 
 {% include youtube.html %}
