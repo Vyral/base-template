@@ -5,7 +5,8 @@ date: 2019-10-17 21:57:00
 tags:
   - Real Estate
 excerpt: Halloween will be here before you know it!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Make+It+a+Fun%2C+Safe+Halloween+With+This+Spooktacular+Guide.mp4
 pullquote: You can help make this Halloween a fun and safe treat for everyone.
 enclosure_type: video/mp4
 enclosure_time:
