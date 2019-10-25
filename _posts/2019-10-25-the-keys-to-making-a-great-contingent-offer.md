@@ -21,7 +21,9 @@ youtube_code: OA7Ut-KaLPo
 
 {% include youtube.html %}
 
-<center>If you’re a move-up buyer, here’s what you need to do to make a great contingent offer.</center>
+<center><em>If you&rsquo;re a move-up buyer, here&rsquo;s what you need to do to make a great contingent offer.</em></center>
+
+&nbsp;
 
 We’re still in a fantastic market right now—especially for those who want to take advantage of current interest rates. This means there are a lot of buyers who want to move up to a larger home because their family is growing, they’ve developed different ideas of what they want in a home, etc.
 
