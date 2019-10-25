@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Most Important Things for Today’s Home Sellers to Know?
-date: 2019-10-07 19:44:00
+date: 2019-10-25 07:44:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: S6UIor2Rs3o
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.</em></p>
+*Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.*
 
 Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.
 
