@@ -1,17 +1,21 @@
 ---
 layout: post
 title: Partnering With the Priceless Pets Shelter
-date: 2019-10-25 19:05:49
+date: 2019-10-25 19:05:00
 tags:
-excerpt:
+excerpt: >-
+  We recently partnered with Priceless Pets at a community event, find out more
+  about this wonderful animal shelter.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Alex+Yu/Partnering+With+the+Priceless+Pets+Shelter.mp4
-pullquote:
+pullquote: >-
+  The only thing we enjoy more than helping people find homes is helping pets
+  find homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: UgKQcpGs49I
 ---
 
 {% include youtube.html %}
