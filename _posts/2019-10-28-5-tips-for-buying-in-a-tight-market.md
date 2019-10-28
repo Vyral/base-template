@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/-3dBLeOP2G4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.</em></p>
+
 Our market is tight right now for buyers, so if you’re considering buying a home, soon, there are a few tips you need to remember to ensure you still get the best deal possible.&nbsp;
 
 First, **meet with your loan officer and discuss your budget**. You don’t want to get caught out-bidding your own budget or buying something you’ll regret later on, so establish your budget and stick to it.&nbsp;
