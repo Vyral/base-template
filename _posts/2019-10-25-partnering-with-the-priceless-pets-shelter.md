@@ -26,8 +26,8 @@ Recently we partnered with Priceless Pets, a no-kill shelter, at a local communi
 
 {% include pullquote.html %}
 
-*We accept volunteers, donations, and of course adoptions. All of our animals are spayed, neutered, microchipped, and have their shots. We love them all, they all have wonderful personalities, and rescuing is a strong choice to save a life. Our animals are unique, many of them are potty trained and trained in other ways.&nbsp;*
+*"We accept volunteers, donations, and 'of course' adoptions. All of our animals are spayed, neutered, microchipped, and have their shots. We love them all, they all have wonderful personalities, and rescuing is a strong choice to save a life. Our animals are unique, many of them are potty trained and trained in other ways."*
 
-**At 1:25 in the video above view some footage from our event,** complete with cute animals that can be adopted today\!&nbsp;
+**At 1:25 in the video above****, you'll see****&nbsp;some footage from our event,** complete with cute animals that can be adopted today\!&nbsp;
 
 For more information about Priceless Pets or anything concerning real estate feel free to reach out to us by phone or email, we would be happy to help you.&nbsp;<br>&nbsp;
