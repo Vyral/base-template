@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/-3dBLeOP2G4'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.</em></p>
+*Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.*
 
 Our market is tight right now for buyers, so if you’re considering buying a home, soon, there are a few tips you need to remember to ensure you still get the best deal possible.&nbsp;
 
@@ -33,6 +33,6 @@ Next, **always be ready**. If you see something you like in a fast market, you k
 
 After that, **make sure you bid competitively with fewer contingencies**. Everyone wants to get a great deal, but making a lowball offer probably isn’t a good idea in our market. That being said, the bid with the highest dollar amount doesn’t always win. The contingencies included in your offer play a big role, too. There are different contingencies your agent can structure in your contract that can make it more attractive than an offer a higher dollar amount. For example, you can waive your closing costs or lessen the days it will take you to perform your inspections.&nbsp;
 
-Lastly, **work with a good Realtor**. This might seem obvious by now, but a good Realtor knows the home sale process in and out, and they’ll know how to make your offer look better than one written by someone who’s working by themselves or has a bad Realtor working for them. Make sure you interview and vet multiple Realtors before hiring one, and make sure the Realtor you do hire has extensive market knowledge. &nbsp;
+Lastly, **work with a good Realtor**. This might seem obvious by now, but a good Realtor knows the home sale process in and out, and they’ll know how to make your offer look better than one written by someone who’s working by themselves or has a bad Realtor working for them. Make sure you interview and vet multiple Realtors before hiring one, and make sure the Realtor you do hire has extensive market knowledge.
 
 If you’d like to know more about buying in a tight market or you have any other real estate questions, don’t hesitate to reach out to me. I’d love to help you.
