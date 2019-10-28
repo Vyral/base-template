@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/-3dBLeOP2G4'
 
 {% include youtube.html %}
 
-*Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.*
+<p style="text-align: center;"><em>Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.</em></p>
 
 Our market is tight right now for buyers, so if you’re considering buying a home, soon, there are a few tips you need to remember to ensure you still get the best deal possible.&nbsp;
 
