@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'Is a recession coming? Maybe, but that might not mean what you think it does.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+You+Need+to+Know+About+Recessions.mp4
 pullquote: A recession isn’t always a bad thing.
 enclosure_type: video/mp4
 enclosure_time:
