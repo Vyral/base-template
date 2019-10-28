@@ -31,6 +31,6 @@ The two questions he gets asked most often from homeowners are “What’s happe
 
 October 2020 is the slotted start date for this new system, but they’re working on changing the flood rates now. Keep in mind that the closer you live to the coast, the more you may have to pay in flood insurance. At the moment, there’s no way of knowing whether your flood rate will increase or decrease, so you shouldn’t worry about it.&nbsp;
 
-**If you’d like an in-depth overview of Risk Rating 2.0, check out this link.** If you have any more questions about this topic, you can give Li-Hsi a call at (713) 688-8881.&nbsp;
+**If you’d like an in-depth overview of Risk Rating 2.0, check out [this link](https://www.fema.gov/nfiptransformation){: target="_blank"}.** If you have any more questions about this topic, you can give Li-Hsi a call at (713) 688-8881.&nbsp;
 
 As always, if you have any more real estate questions or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
