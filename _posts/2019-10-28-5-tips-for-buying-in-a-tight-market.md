@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Tips for Buying in a Tight Market
-date: 2019-10-28 16:46:09
+date: 2019-10-28 16:46:00
 tags:
   - Home Buyer Tips
 excerpt: >-
