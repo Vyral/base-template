@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Here are the steps you can take in order to make sure you get your buyer
   agreement signed.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Videos/2019/October/A+Step-By-Step+Guide+to+Getting+a+Buyer+Agreement+Signed+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
