@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Costly Mistakes You Must Avoid as a Landlord
-date: 2019-10-29 16:24:58
+date: 2019-10-29 16:24:00
 tags:
   - Real Estate
 excerpt: >-
