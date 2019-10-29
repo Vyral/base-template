@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/spmhPeGJC0o'
 
 {% include youtube.html %}
 
-Hello, raving fans\! I’m back with your hot-off-the-press market report for the month of October.
+<p style="text-align: center;"><em>Hello, raving fans! I’m back with your hot-off-the-press market report for the month of October.</em></p>
 
 Remember how last month I told you that home price appreciation would slow down and become more normalized? Well, at least throughout the lower-middle price ranges in the market, it looks as though we might be drifting back toward a seller’s market where price appreciation will reaccelerate. According to CoreLogic, home prices went up by 3.6% over the last 12 months.
 
