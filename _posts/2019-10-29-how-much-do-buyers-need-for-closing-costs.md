@@ -25,6 +25,6 @@ youtube_code: '-f02W38lwSU'
 
 When you buy a home, how much should you budget for in closing costs? **These costs are made up of three components: Lender fees, title fees, and prepaids**. These include fees for underwriting, mortgage origination, escrow fees, and more.
 
-You’ll also have to pay one year of homeowners insurance upfront and fund the escrow account for your mortgage. Typically, these costs will range anywhere from 2% to 3% of the home’s purchase price, but can vary.
+You’ll also have to pay one year of homeowners insurance up front and fund the escrow account for your mortgage. Typically, these costs will range anywhere from 2% to 3% of the home’s purchase price, but can vary.
 
 If you have any questions or you’re thinking of buying or selling a home, please give me a call or send me an email. I’d be happy to meet with you.
