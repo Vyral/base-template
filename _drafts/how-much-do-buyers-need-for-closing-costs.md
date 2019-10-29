@@ -19,7 +19,7 @@ youtube_code: '-f02W38lwSU'
 
 {% include youtube.html %}
 
-Your down payment isn’t all you’ll need to buy a home. You’ll need to be able to cover these closing costs, too.
+<center>Your down payment isn’t all you’ll need to buy a home. You’ll need to be able to cover these closing costs, too.</center>
 
 When you buy a home, how much should you budget for in closing costs? **These costs are made up of three components: Lender fees, title fees, and prepaids**. These include fees for underwriting, mortgage origination, escrow fees, and more.
 
