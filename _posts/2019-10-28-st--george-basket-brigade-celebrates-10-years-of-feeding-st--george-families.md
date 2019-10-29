@@ -31,6 +31,8 @@ So now we pop the question\! WILL YOU **NOMINATE** or **FEED** a family to help 
 
 Can’t donate $50? Then donate $5 or $10\! Want to feed *multiple* families? Email us about being a 10-family corporate sponsor at [baskets@gostgeorge.com](mailto:baskets@gostgeorge.com).
 
+<img src"https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Jeremy+Larkin.png" alt="Feed a Family Here">
+
 The greatest part of this event is that the recipients prepare and cook the meal themselves, in their own homes, rather than a “charity” soup line. It endows them with hope, self-confidence during a tough time, and makes the community better.&nbsp;
 
 Here’s (just one) of the messages we received from families who received a basket last year:
