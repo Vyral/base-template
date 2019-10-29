@@ -1,9 +1,8 @@
 ---
 layout: post
 title: St. George Basket Brigade Celebrates 10 Years of Feeding St. George Families
-date: 2019-10-28 14:19:42
+date: 2019-10-28 14:19:00
 tags:
-  - Holiday
 excerpt:
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2019/St.+George+2019+Basket+Brigade.mp4
@@ -31,15 +30,15 @@ So now we pop the question\! WILL YOU **NOMINATE** or **FEED** a family to help 
 
 Can’t donate $50? Then donate $5 or $10\! Want to feed *multiple* families? Email us about being a 10-family corporate sponsor at [baskets@gostgeorge.com](mailto:baskets@gostgeorge.com).
 
-<img src"https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/Jeremy+Larkin.png" alt="Feed a Family Here"></img>
+![Feed a Family Here](/uploads/jeremy-larkin.png){: width="213" height="114"}
 
 The greatest part of this event is that the recipients prepare and cook the meal themselves, in their own homes, rather than a “charity” soup line. It endows them with hope, self-confidence during a tough time, and makes the community better.&nbsp;
 
 Here’s (just one) of the messages we received from families who received a basket last year:
 
-<p style="margin-left: 40px;"><em>“It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward.”</em></p>
+*“It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward.”*
 
-<p style="margin-left: 40px;"><em>\-Love, a grateful family.</em></p>
+*\\-Love, a grateful family.*
 
 We know it’s a busy time, please take just a moment to nominate a family who will be forever grateful\!&nbsp;
 
