@@ -27,7 +27,7 @@ What’s the minimum down payment needed to purchase a home?&nbsp;
 
 The reality is that unless it’s two specific loan programs, there’s always a down payment required. Those two loan programs are the USDA loan (for rural properties) and the VA loan (for veterans and active military personal).&nbsp;
 
-Just because you have to make a down payment doesn’t mean you have to put down at least 20%, though. Depending on the loan program, the minimum is actually 3% to 5%. Many times, it makes sense to put this amount down even if you can put more down because then you can keep assets in your account for other investments that will yield a higher interest rate than the one on your mortgage.&nbsp;
+Just because you have to make a down payment doesn’t mean you have to put down at least 20%, though. **Depending on the loan program, the minimum is actually 3% to 5%.** Many times, it makes sense to put this amount down even if you can put more down because then you can keep assets in your account for other investments that will yield a higher interest rate than the one on your mortgage.&nbsp;
 
 {% include pullquote.html %}
 
