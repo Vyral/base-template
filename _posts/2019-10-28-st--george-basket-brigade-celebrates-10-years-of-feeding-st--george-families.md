@@ -38,7 +38,7 @@ Here’s (just one) of the messages we received from families who received a bas
 
 *“It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward.”*
 
-*\\-Love, a grateful family.*
+*\-Love, a grateful family.*
 
 We know it’s a busy time, please take just a moment to nominate a family who will be forever grateful\!&nbsp;
 
