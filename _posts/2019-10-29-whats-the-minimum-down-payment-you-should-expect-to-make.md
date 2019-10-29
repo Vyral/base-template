@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Minimum Down Payment You Should Expect to Make?
-date:
+date: 2019-10-29 20:09:30
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 5S5A2dHKGG0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.</em></p>
+*Unless you’re using a USDA or VA loan, you’ll always have a minimum down payment to make.*
 
 What’s the minimum down payment needed to purchase a home?&nbsp;
 
