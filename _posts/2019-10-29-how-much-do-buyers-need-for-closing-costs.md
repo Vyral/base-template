@@ -19,7 +19,7 @@ youtube_code: '-f02W38lwSU'
 
 {% include youtube.html %}
 
-<center>Your down payment isn&rsquo;t all you&rsquo;ll need to buy a home. You&rsquo;ll need to be able to cover these closing costs, too.</center>
+<center><em>Your down payment isn&rsquo;t all you&rsquo;ll need to buy a home. You&rsquo;ll need to be able to cover these closing costs, too.</em></center>
 
 &nbsp;
 
