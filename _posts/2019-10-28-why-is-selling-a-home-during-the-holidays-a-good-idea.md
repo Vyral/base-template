@@ -19,7 +19,7 @@ youtube_code: R1WHppyxvx0
 
 This time, we’re answering a great question from Michelle, who wants to know, “Should I sell my house over the holidays?”
 
-We get that question a lot this time a year, so I’ve asked our lead listing specialist, Diane, to answer that question.
+We get that question a lot this time of year, so I’ve asked our lead listing specialist, Diane, to answer that question.
 
 **According to Diane, there are three great reasons to sell a home over the holidays:**
 
