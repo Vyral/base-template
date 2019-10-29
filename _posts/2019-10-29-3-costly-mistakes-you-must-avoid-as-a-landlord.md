@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/HKVg7RDs9gY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three mistakes you must avoid as a landlord if you don’t want to cost yourself money.</em></p>
+
 Here are three costly mistakes you must avoid as a landlord:
 
 **1\. Entering the rented property without notice.** This act is subject to a fine, which is usually worth at least one month’s rent. If you want to enter your rented property, you need to give at least 48 hours’ notice to your tenant(s).&nbsp;
