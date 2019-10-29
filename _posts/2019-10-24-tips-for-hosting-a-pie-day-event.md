@@ -29,9 +29,9 @@ Next, make sure you pick a location. We’ve had ours at a local bakery and our 
 
 {% include pullquote.html %}
 
-Another thing we do with our Pie Day is attaching a nonprofit to it. Maybe a food bank or another great organization to give back. **You can incorporate the nonprofit via video, where you can tell people about the event and about the organization that you’re helping.**
+We love giving back to our community, so we attach a non-profit to our event. Maybe your local Food Bank, or another great organization relating to the holiday needs of others. **You can incorporate creating a video with the non-profit and share about all the good they are doing in the community.**&nbsp;
 
-We’re also adding in a reverse bold 100 before we launch our Pie Day event. We met with her and shot a video about the promotion, and we’re asking our whole database to call in on a certain day to provide their contact information for a drawing for a free gourmet Thanksgiving meal.
+This year we are also adding in a Reverse BOLD 100 with a Thanksgiving meal giveaway, as we launch the Pie Day event. We’re asking for people to call in on a certain day to provide their contact information and they will be entered to win the drawing and also get a free pie\!
 
 Another video or email you might send out would be an announcement about the event. We typically send a postcard as well to all the people in our MET database. Then we call to confirm with those people on one day and another call the day after the event.
 
