@@ -26,11 +26,11 @@ So now we pop the question\! WILL YOU **NOMINATE** or **FEED** a family to help 
 
 1\. PLEASE **NOMINATE** a family in need **[HERE](http://stgeorgebasketbrigade.org/){: target="_blank"}.** What does "in need" mean? If you think for even a second that they're in need, **they're in need\!**
 
-2\. If you're able to **FEED a family,** please do so **[HERE](http://hybridlight.com/product/basket-brigade-saint-george/){: target="_blank"}.** It's just $50 to have a full Thanksgiving meal delivered to a family.&nbsp;
+2\. If you're able to **FEED a family,** please do so **[HERE](http://stgeorgebasketbrigade.org/){: target="_blank"}.** It's just $50 to have a full Thanksgiving meal delivered to a family.&nbsp;
 
 Can’t donate $50? Then donate $5 or $10\! Want to feed *multiple* families? Email us about being a 10-family corporate sponsor at [baskets@gostgeorge.com](mailto:baskets@gostgeorge.com).
 
-<p style="text-align: center;"><a href="http://hybridlight.com/product/basket-brigade-saint-george" target="_blank"><img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/_min_/4b8a416fc5b1940814cdc2cca90df773.png" alt="Feed a Family Here" width="374" height="200" data-cms-original-src="/uploads/jeremy-larkin.png"></a></p>
+<p style="text-align: center;"><a href="http://stgeorgebasketbrigade.org/" target="_blank"><img src="https://d1qmdf3vop2l07.cloudfront.net/free-orchid.cloudvent.net/compressed/_min_/4b8a416fc5b1940814cdc2cca90df773.png" alt="Feed a Family Here" width="374" height="200" data-cms-original-src="/uploads/jeremy-larkin.png"></a></p>
 
 The greatest part of this event is that the recipients prepare and cook the meal themselves, in their own homes, rather than a “charity” soup line. It endows them with hope, self-confidence during a tough time, and makes the community better.&nbsp;
 
