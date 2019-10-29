@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wEkLOIha2gY'
 
 {% include youtube.html %}
 
-For today’s agent spotlight, we’re featuring Brittany Guiles, who’ll tell us a little bit about her life and career before and after joining our tea.
+<p style="text-align: center;"><em>For today’s agent spotlight, we’re featuring Brittany Guiles, who’ll tell us a little bit about her life and career before and after joining our tea.</em></p>
 
 Today I have another agent spotlight to share with you. This time, we’re featuring Brittany Guiles. Brittany joined our team about a year ago, and since then, her life and career have changed dramatically for the better.&nbsp;
 
