@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/add-value-to-your-haunted-house-with-these-5-tips-youtube.jpg
-youtube_code: _rFYZd6jJIY
+youtube_code: BKQe9O9Xa54
 ---
 
 {% include youtube.html %}
