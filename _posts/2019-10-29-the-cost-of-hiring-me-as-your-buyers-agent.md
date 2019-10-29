@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/VtO0_SsaDDw'
 
 {% include youtube.html %}
 
-What does it cost homebuyers to hire me as a representative for their purchase? Find out here.
+<p style="text-align: center;"><em>What does it cost homebuyers to hire me as a representative for their purchase? Find out here.</em></p>
 
 What’s the price attached to working with me as your buyer’s agent?
 
