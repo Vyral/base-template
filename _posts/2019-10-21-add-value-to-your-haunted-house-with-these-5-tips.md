@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Add Value to Your Haunted House With These 5 Tips
-date: 2019-10-21 17:52:00
+date: 2019-10-29 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,9 +21,9 @@ youtube_code: _rFYZd6jJIY
 
 {% include youtube.html %}
 
-*Do you live in a haunted house and want to boost its value? Here are five tips that will help you do so.*
+<p style="text-align:center;"><em>Do you live in a haunted house and want to boost its value? Here are five tips that will help you do so.</em></p>
 
-As you know, I recently got a mysterious online home valuation request from some homeowners whose house looked haunted. Their address was 1313 Cemetery Lane (they call themselves the Addams family), and I sent out a mass email asking for help trying to contact them.
+As you know, I recently got a mysterious online home valuation request from some homeowners whose house looked haunted. Their address was 1313 Cemetery Lane (they call themselves the Addams family), and I sent out a email asking for help trying to contact them.
 
 I have since received another cryptic message from them asking for tips on how they can *improve* the value of their home. The phone number they provided is dead, and when I knock on their door, the home looks abandoned.&nbsp;
 
@@ -44,8 +44,6 @@ This home looks spooky, so the advice I have for them really applies to anyone l
 If the owners of the home are reading this: We do have referrals for landscapers, painters, and other vendors that can help get your home ready. We don’t know anyone who can help with unwanted spirits, but I am sure we can look on Yelp and do some research on Google to find a good ghostbuster.&nbsp;
 
 To the rest of my friends and clients: If you come across these homeowners, please share these tips with them. I would greatly appreciate it.&nbsp;
-
-Oh, and one more thing: Imagine Realty is hosting a Trunk or Treat event at our office parking lot on Friday, October 25 from 5 p.m. to 7 p.m., and we would love to have you and your family stop by for some trick-or-treating.
 
 If you have any questions about this event or this topic, don’t hesitate to reach out to me. I’d love to speak with you.
 
