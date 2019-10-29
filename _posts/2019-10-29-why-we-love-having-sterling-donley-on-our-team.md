@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why We Love Having Sterling Donley on Our Team
-date: 2019-10-29 18:27:43
+date: 2019-10-29 18:27:00
 tags:
-excerpt: Why We Love Having Sterling Donley on Our Team
+excerpt: In our latest agent spotlight episode we’re featuring ISA Sterling Donley.
 enclosure:
 pullquote: >-
   We’ve known Sterling for quite a long time, and we love having him on the
