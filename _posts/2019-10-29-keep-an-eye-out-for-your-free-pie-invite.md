@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/TpaPeYTizfM'
 
 {% include youtube.html %}
 
-Today I have a short update on the market, a reminder about our upcoming Thanksgiving pie giveaway, as well as some advice about being productive versus just being busy.
+<p style="text-align: center;"><em>Today I have a short update on the market, a reminder about our upcoming Thanksgiving pie giveaway, as well as some advice about being productive versus just being busy.</em></p>
 
 <u><strong>What&rsquo;s Going on in the Market?</strong></u>
 
