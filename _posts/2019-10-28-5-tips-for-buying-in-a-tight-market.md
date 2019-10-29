@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/-3dBLeOP2G4'
 
 <p style="text-align: center;"><em>Here are five tips you must follow if you want to find and close on a great home for a great price in our tight market.</em></p>
 
-Our market is tight right now for buyers, so if you’re considering buying a home, soon, there are a few tips you need to remember to ensure you still get the best deal possible.&nbsp;
+Our market is tight right now for buyers, so if you’re considering buying a home soon, there are a few tips you need to remember to ensure you still get the best deal possible.&nbsp;
 
 First, **meet with your loan officer and discuss your budget**. You don’t want to get caught out-bidding your own budget or buying something you’ll regret later on, so establish your budget and stick to it.&nbsp;
 
@@ -29,9 +29,9 @@ Second, **distinguish between your “wants” and “needs”** for both the ho
 
 {% include pullquote.html %}
 
-Next, **always be ready**. If you see something you like in a fast market, you know your budget, and you’ve separated your “wants” from your “needs, have your agent ready to write an offer quickly. Buyers are moving quickly—I’ve seen houses go off the market a day after they’re listed. Also, make your offer contingent on doing a home inspection first so you can identify any issues you might’ve missed during your walk-through.&nbsp;
+Next, **always be ready**. If you see something you like in a fast market, you know your budget, and you’ve separated your “wants” from your “needs," have your agent ready to write an offer quickly. Buyers are moving quickly—I’ve seen houses go off the market a day after they’re listed. Also, make your offer contingent on doing a home inspection first so you can identify any issues you might’ve missed during your walk-through.&nbsp;
 
-After that, **make sure you bid competitively with fewer contingencies**. Everyone wants to get a great deal, but making a lowball offer probably isn’t a good idea in our market. That being said, the bid with the highest dollar amount doesn’t always win. The contingencies included in your offer play a big role, too. There are different contingencies your agent can structure in your contract that can make it more attractive than an offer a higher dollar amount. For example, you can waive your closing costs or lessen the days it will take you to perform your inspections.&nbsp;
+After that, **make sure you bid competitively with fewer contingencies**. Everyone wants to get a great deal, but making a lowball offer probably isn’t a good idea in our market. That being said, the bid with the highest dollar amount doesn’t always win. The contingencies included in your offer play a big role, too. There are different contingencies your agent can structure in your contract that can make it more attractive than offering a higher dollar amount. For example, you can waive your closing costs or lessen the days it will take you to perform your inspections.&nbsp;
 
 Lastly, **work with a good Realtor**. This might seem obvious by now, but a good Realtor knows the home sale process in and out, and they’ll know how to make your offer look better than one written by someone who’s working by themselves or has a bad Realtor working for them. Make sure you interview and vet multiple Realtors before hiring one, and make sure the Realtor you do hire has extensive market knowledge.
 
