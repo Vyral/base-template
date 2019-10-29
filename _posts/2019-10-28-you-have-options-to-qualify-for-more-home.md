@@ -27,7 +27,7 @@ First, think about your debt-to-income ratio. **This is a figure that lenders lo
 
 {% include pullquote.html %}
 
-If a house you love is higher than what you’d be able to qualify for, **one option you have is to pay off one of your debts entirely, like your car loan.** For example, if you have an existing $15,000 car loan for which you pay $600 a month, paying off that loan entirely will free up $600 to you each month to put toward your house payments. That equals roughly $50,000 to $75,000 more purchasing power. Clearly, not everyone has $15,000 laying around though. Well, you might be qualified by putting 20%. 15%, or 10% &nbsp;down instead and pay off your loan.
+If a house you love is higher than what you’d be able to qualify for, **one option you have is to pay off one of your debts entirely, like your car loan.** For example, if you have an existing $15,000 car loan for which you pay $600 a month, paying off that loan entirely will free up $600 to you each month to put toward your house payments. That equals roughly $50,000 to $75,000 more purchasing power. However, you might qualify by putting 20%, 15%, or 10% down instead and paying off your loan.
 
 In the end, it boils down to having a mortgage planning session to find out the ways we can structure a plan for you to get into the home you want at a monthly payment you’re comfortable with. We work with some excellent mortgage lenders to help you look at and identify your options.
 
