@@ -8,7 +8,7 @@ excerpt: >-
   If your offer on a home is rejected, don’t worry—there are ways to still get
   the home you desire.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/Portland+Real+Estate+Agent-.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/What+Happens+if+Your+Offer+Is+Rejected_.mp4
 pullquote: 'Even with the greatest offers, you sometimes get rejected.'
 enclosure_type: video/mp4
 enclosure_time:
