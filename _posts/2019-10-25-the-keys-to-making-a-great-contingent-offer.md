@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re a move-up buyer, here’s what you need to do to make a great
   contingent offer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/The+Keys+to+Making+a+Great+Contingent+Offer.mp4
 pullquote: >-
   If you’re a move-up buyer, you need to have a great package to present to the
   seller of your “move-up” home.
