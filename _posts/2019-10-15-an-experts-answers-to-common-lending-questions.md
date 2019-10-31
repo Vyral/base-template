@@ -20,7 +20,7 @@ youtube_code: w3kpFcnpGcw
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today I’m here with Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) to provide some answers to the most common lending questions we receive.</em></p>
+*Today I’m here with Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) to provide some answers to the most common lending questions we receive.*
 
 Today, I’ve asked Jake Bernhard from United Heritage Credit Union to help me answer a few common but very important questions about mortgage lending:
 
@@ -43,3 +43,7 @@ If you speak with a lender without documentation but you have a general idea of 
 How a bank or lender perceives risk might be a little different from what you might think, so it’s important to get started by speaking with a professional to guide you.
 
 Please know that if you’re intimidated by these questions or answers or you feel like they’re too much for you to process, you can simply reach out to us. We’ll be happy to make this process simple and fun for you. With lending partners like Jake, we can’t help but have you win when you choose to buy a home with us. We look forward to hearing from you\!
+
+Check out the UHCU purchase website here:
+
+[https://www.uhcu.org/loans/home-loans/home-purchase\#/what\_type\_of\_property\_are\_you\_purchasing](https://www.uhcu.org/loans/home-loans/home-purchase#/what_type_of_property_are_you_purchasing){: target="_blank"}
