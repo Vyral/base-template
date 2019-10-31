@@ -19,7 +19,7 @@ youtube_code: OImOEPxHm6o
 
 {% include youtube.html %}
 
-How should you respond to receiving a lowball offer? Here are a few tricks and tips for navigating this sometimes awkward situation.
+<center>How should you respond to receiving a lowball offer? Here are a few tricks and tips for navigating this sometimes awkward situation.</center>
 
 Whenever you receive an offer, respond promptly and keep the momentum going. When receiving an offer, sellers have the option to accept it, reject it, or counter it, and there is a time to do each of these things. Most of the time I don’t recommend rejecting an offer right off the bat since the buyers have shown an interest in your property and have gone to the time, effort, and expense to put it together.
 
