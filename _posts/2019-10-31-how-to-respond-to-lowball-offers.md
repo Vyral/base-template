@@ -27,11 +27,11 @@ Whenever you receive an offer, respond promptly and keep the momentum going. Whe
 
 So here’s what you do when you receive an offer:
 
-**1\. Make sure it is a lowball offer versus a fair offer**. One of the first things you have to determine is whether it’s a lowball offer at all. Sometimes they could be right and you could be off on your pricing. I have seen many occasions where people have turned down offers in the beginning only to eventually reduce their list price lower than what they could have sold it for.
+**A. Make sure it is a lowball offer versus a fair offer**. One of the first things you have to determine is whether it’s a lowball offer at all. Sometimes they could be right and you could be off on your pricing. I have seen many occasions where people have turned down offers in the beginning only to eventually reduce their list price lower than what they could have sold it for.
 
-**2\. Don’t take it personally**—this is a good reminder for everyone, whether you are buying or selling real estate or not. I recommend that you read or re-read Don Miguel Ruiz’s book “The Four Agreements.” One important lesson is to not take the actions of others as personal attacks against you. When we get emotional, it can cloud our reason and cause us to make silly mistakes. This is another reason it’s important to have a great agent as a buffer. It’s one of those things that can be simple, but not necessarily easy.
+**B. Don’t take it personally**—this is a good reminder for everyone, whether you are buying or selling real estate or not. I recommend that you read or re-read Don Miguel Ruiz’s book “The Four Agreements.” One important lesson is to not take the actions of others as personal attacks against you. When we get emotional, it can cloud our reason and cause us to make silly mistakes. This is another reason it’s important to have a great agent as a buffer. It’s one of those things that can be simple, but not necessarily easy.
 
-**3\. Contact other people that have expressed interest in the property**. If other people have viewed the property, make sure your agent lets them know what’s happening; they may want to put in an offer, too. If that happens, you may end up having multiple offers. I have negotiated numerous times with people that started out with lowball offers and in the end, they ended up getting more than asking price.
+**C. Contact other people that have expressed interest in the property**. If other people have viewed the property, make sure your agent lets them know what’s happening; they may want to put in an offer, too. If that happens, you may end up having multiple offers. I have negotiated numerous times with people that started out with lowball offers and in the end, they ended up getting more than asking price.
 
 Assuming that you don’t have multiple offers going, here are some ways that you can respond to a lowball offer:
 
