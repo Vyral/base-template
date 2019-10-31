@@ -25,7 +25,7 @@ Here are three costly mistakes you must avoid as a landlord:
 
 **1\. Entering the rented property without notice.** This act is subject to a fine, which is usually worth at least one month’s rent. If you want to enter your rented property, you need to give at least 48 hours’ notice to your tenant(s).&nbsp;
 
-**2\. Not refunding the security deposit after the tenant moves out.** In Arizona, landlords have 14 days to refund the full deposit or itemize what’s collected in terms of any damages. If you don’t do this within 14 days, you’ll be fined an amount 3x the security deposit.&nbsp;
+**2\. Not refunding the security deposit after the tenant moves out.** In Arizona, landlords have 14 days to refund the full deposit or itemize what’s collected in terms of any damages. If you don’t do this within 14 days, you’ll be fined an amount three times the security deposit.&nbsp;
 
 **3\. Speaking to your tenant(s) when they file for bankruptcy.** If they do file for bankruptcy, you’re not allowed to talk to them at all—doing so will result in a $5,000 fine.&nbsp;
 
