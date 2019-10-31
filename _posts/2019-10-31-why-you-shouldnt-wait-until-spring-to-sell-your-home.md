@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Wait Until Spring to Sell Your Home
-date: 2019-10-31 18:57:16
+date: 2019-10-31 18:57:00
 tags:
 excerpt: >-
   Thinking of selling your home this winter? Here are a few tips to keep in
@@ -17,7 +17,7 @@ youtube_code: h01cBHjandg
 
 {% include youtube.html %}
 
-<center>Thinking of selling your home this winter? Here are a few tips to keep in mind.</center>
+<center><em>Thinking of selling your home this winter? Here are a few tips to keep in mind.</em></center>
 
 &nbsp;
 
