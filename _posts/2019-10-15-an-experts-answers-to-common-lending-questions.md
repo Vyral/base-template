@@ -44,6 +44,4 @@ How a bank or lender perceives risk might be a little different from what you mi
 
 Please know that if you’re intimidated by these questions or answers or you feel like they’re too much for you to process, you can simply reach out to us. We’ll be happy to make this process simple and fun for you. With lending partners like Jake, we can’t help but have you win when you choose to buy a home with us. We look forward to hearing from you\!
 
-Check out the UHCU purchase website here:
-
-[https://www.uhcu.org/loans/home-loans/home-purchase\#/what\_type\_of\_property\_are\_you\_purchasing](https://www.uhcu.org/loans/home-loans/home-purchase#/what_type_of_property_are_you_purchasing){: target="_blank"}
+Check out the UHCU purchase website here:&nbsp;[https://www.uhcu.org/loans/home-loans/home-purchase\#/what\_type\_of\_property\_are\_you\_purchasing](https://www.uhcu.org/loans/home-loans/home-purchase#/what_type_of_property_are_you_purchasing){: target="_blank"}
