@@ -25,7 +25,7 @@ Remember how last month I told you that home price appreciation would slow down 
 
 **At 0:40 in the video above, you’ll find a chart that forecasts the year-over-year net change in price for each state in America.** Overall, the prediction is that prices will increase by 4.5% throughout the United States in the coming year. By the time my next report comes out, I think that the projected number is going to be over 5%\! In Pennsylvania, they’re already predicting that prices will increase by 5.6%, and for New Jersey, they predict a change of 6.2%.
 
-With supply and interest rates being low, and with more buyers looking for homes, we’re still looking at a supply-and-demand situation. Now, whenever we talk about prices going up, there is always a group of people who are thinking of selling their home so they can move on to buying their dream home—these are called ‘trophy homebuyers.” And understandably, trophy homebuyers will worry about if they can afford to buy now.
+With supply and interest rates being low, and with more buyers looking for homes, we’re still looking at a supply-and-demand situation. Now, whenever we talk about prices going up, there is always a group of people who are thinking of selling their home so they can move on to buying their dream home—these are called "trophy homebuyers." And understandably, trophy homebuyers will worry about if they can afford to buy now.
 
 **Affordability is determined by three things:**
 
@@ -45,6 +45,6 @@ If this news isn’t good enough for you, **take a look at what Frank Nothaft, t
 
 Also, with home equity increasing so dramatically, you might now have enough in equity to use as a down payment to move up to the home of your dreams or to downsize. Now’s the perfect time to make some money.
 
-The fall is the ideal time to start thinking about things you could be doing to your home to increase its value for a 2020 sale. If you’re thinking of buying a home next year, there are also things you can to do find your dream home at the lowest price—I call this advanced real estate planning, and as your real estate planner, I believes it’s important to start earlier than you might think when it comes to one of the largest assets you own. If you don’t start now, you’ll lose every opportunity to do the things that bring you the highest return on your investment.
+The fall is the ideal time to start thinking about things you could be doing to your home to increase its value for a 2020 sale. If you’re thinking of buying a home next year, there are also things you can to do find your dream home at the lowest price—I call this advanced real estate planning, and as your real estate planner, I believe it’s important to start earlier than you might think when it comes to one of the largest assets you own. If you don’t start now, you’ll lose every opportunity to do the things that bring you the highest return on your investment.
 
 To learn all about my strategy and get a free copy of my book, “How to Fight the Home Selling Sharks,” **I encourage you to attend my next home selling seminar on Saturday, January 18, 2020, at the Fort Washington Garden Inn at 9:30 a.m.** You can also find my book on Amazon right now to get an early start on it.
