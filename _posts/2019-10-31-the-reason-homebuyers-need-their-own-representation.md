@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reason Homebuyers Need Their Own Representation
-date: 2019-10-31 18:56:28
+date: 2019-10-31 18:56:00
 tags:
   - Real Estate
 excerpt: >-
@@ -22,11 +22,11 @@ youtube_code: 768lZcJdLl4
 
 The most recent question that we’ll address from our “Ask the Experts” page is whether or not homebuyers should use real estate agents, and whether you should just use the seller’s agent to represent you.
 
-The answer to the first part of that question is yes, and not just because we are agents. The value of using a real estate agent lies in our helping you complete your home purchase, making sure your interests are protected, and in ensuring that you have representation in that transaction.
+**The answer to the first part of that question is yes,** and not just because we are agents. The value of using a real estate agent lies in our helping you complete your home purchase, making sure your interests are protected, and in ensuring that you have representation in that transaction.
 
 {% include pullquote.html %}
 
-That leads to the answer for the second part of today’s question: The agent that represents a seller represents the seller’s interests, not yours. Their job is to find out as much information about you as possible to be shared with the seller in the effort to help them negotiate against you. That’s why it’s smart to seek out your own representation.
+That leads to the answer for the second part of today’s question: The agent that represents a seller represents the seller’s interests, not yours. **Their job is to find out as much information about you as possible to be shared with the seller in the effort to help them negotiate against you.** That’s why it’s smart to seek out your own representation.
 
 If you have any questions about homebuyer representation or you need an agent to represent you in an upcoming home purchase, don’t hesitate to reach out to us. We’d love to help you.<br>&nbsp;
 
