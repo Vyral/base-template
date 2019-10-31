@@ -25,7 +25,7 @@ Today I have another agent spotlight to share with you. This time, we’re featu
 
 **Follow along in the video above to hear her full story. I’ve provided timestamps so you can skip ahead to various sections at your convenience:&nbsp;**
 
-0:31—What Brittany’s life and career looked like before joining our team&nbsp;<br>2:01—What led her to join our team&nbsp;<br>2:28—What her life and career look like today&nbsp;<br>3:50—What she struggles with most&nbsp;<br>4:35—What she appreciates most about our team environment&nbsp;<br>5:30—Wrapping things up&nbsp;
+0:31—What Brittany’s life and career looked like before joining our team&nbsp;<br>1:56—What led her to join our team&nbsp;<br>2:33—What her life and career look like today&nbsp;<br>3:47—What she struggles with most&nbsp;<br>4:36—What she appreciates most about our team environment&nbsp;<br>5:25—Wrapping things up&nbsp;
 
 If you think you or someone you know—whether they work in real estate or not—would benefit from joining our team, give me a call or send me an email. I’d love to talk to you.&nbsp;
 
