@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/sikes-youtube-3-2.jpg
 youtube_code: h01cBHjandg
 ---
 
-{% include youtube.html %}Thinking of selling your home this winter? Here are a few tips to keep in mind.
+{% include youtube.html %}<center>Thinking of selling your home this winter? Here are a few tips to keep in mind.</center>
 
 Most people think that the best time to sell a house is in the spring because that’s when a ton of other sellers put their homes on the market.
 
