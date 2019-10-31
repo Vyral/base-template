@@ -8,13 +8,13 @@ excerpt: >-
   For today’s agent spotlight, we’re featuring Brittany Guiles, who’ll tell us a
   little bit about her life and career before and after joining our tea.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+interview+with+brittany.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+new+brittany+video.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/wEkLOIha2gY'
+youtube_code: 'https://youtu.be/6kvE09L-Tds'
 ---
 
 {% include youtube.html %}
