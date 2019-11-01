@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/YHOGa-5akyg'
 
 {% include youtube.html %}
 
-A reminder to watch out for snow dams during the winter months.
+<p style="text-align: center;"><em>A reminder to watch out for snow dams during the winter months.</em></p>
 
 Something many people can have issues with during a particularly snowy winter are snow dams. This winter we will likely have substantial snowfall, so this is a message to pay attention to.
 
