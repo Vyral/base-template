@@ -10,7 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/With+This+Conventional+Loan%2C+Theres+No+Need+for+Mortgage+Insurance.mp4
 pullquote: >-
-  The loan goes up to a 101% combined-loan value, meaning you can put the extra
+  The loan goes up to a 101% combined-loan to value, meaning you can put the extra
   1% toward closing costs.
 enclosure_type: video/mp4
 enclosure_time:
@@ -25,7 +25,7 @@ youtube_code: b3Cc2xVB_VU
 
 I’m joined today by mortgage loan consultant Justin Allender, who will be sharing some exciting information about a conventional loan that has no mortgage insurance.&nbsp;
 
-**This assistance program can help homebuyers who have little to no money for a down payment.** It even goes up to a 101% combined-loan value, meaning you can put the extra 1% toward closing costs. As a second mortgage, it is also locked into the same interest rate as your first mortgage. This loan also allows you to make payments on interest alone. Then, you can begin to pay on your principal balance as well when your budget grows.
+**This assistance program can help homebuyers who have little to no money for a down payment.** It even goes up to a 101% combined-loan to value, meaning you can put the extra 1% toward closing costs. As a second mortgage, it is also locked into the same interest rate as your first mortgage. This loan also allows you to make payments on interest alone. Then, you can begin to pay on your principal balance as well when your budget grows.
 
 {% include pullquote.html %}
 
