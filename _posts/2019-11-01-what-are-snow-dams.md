@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Snow Dams?
-date: 2019-11-01 19:34:05
+date: 2019-11-01 19:34:00
 tags:
   - Real Estate
 excerpt: A reminder to watch out for snow dams during the winter months.
