@@ -19,7 +19,7 @@ youtube_code: Fhbs0Lk0JOU
 
 {% include youtube.html %}
 
-What’s happening in our Louisville market? Hear all about it in today’s message.
+<p style="text-align:center;"><em>What’s happening in our Louisville market? Hear all about it in today’s message.</em></p>
 
 Today’s market update comes to you straight from one of the world’s greatest wonders: Stonehenge.&nbsp;
 
