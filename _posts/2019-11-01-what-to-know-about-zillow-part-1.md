@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/JvD5fcwJRLA'
 
 {% include youtube.html %}
 
-Zillow has become a bigger and bigger part of the real estate world. Here’s what you should know about them.
+<p style="text-align: center;"><em>Zillow has become a bigger and bigger part of the real estate world. Here’s what you should know about them.</em></p>
 
 Zillow and their Zestimates have become a popular topic of conversation among our clients, so today I wanted to take some time and share some of my thoughts on the site.&nbsp;
 
