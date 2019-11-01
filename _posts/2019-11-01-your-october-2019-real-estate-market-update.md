@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/bubc61fuuIc'
 
 {% include youtube.html %}
 
-Nothing Bundt Cakes is a fantastic place to enjoy, you guessed it, great bundt cakes. Check out today’s message to learn more.
+<p style="text-align: center;"><em>Nothing Bundt Cakes is a fantastic place to enjoy, you guessed it, great bundt cakes. Check out today’s message to learn more.</em></p>
 
 Today’s extra-sweet business highlight is focused on Nothing Bundt Cakes—a great bakery where, you guessed it, bundt cakes are the name of the game.
 
