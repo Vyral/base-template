@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/YHOGa-5akyg'
 
 Something many people can have issues with during a particularly snowy winter are snow dams. This winter we will likely have substantial snowfall, so this is a message to pay attention to.
 
-An ice dam is water melting underneath snow, and as water runs down your roof and hits the edge where it’s colder, it will freeze and build up layers of ice until it backs up under the shingles and comes down inside the roof.
+<strong>An ice dam is water melting underneath snow</strong>, and as water runs down your roof and hits the edge where it’s colder, it will freeze and build up layers of ice until it backs up under the shingles and comes down inside the roof.
 
 Eventually, it can make its way inside the house. This is a reminder for you all that this can be a dilemma coming up in the winter months. If you have someone who can check on your home for you if you aren’t around, that’s a good idea—not just for security, but for ice trouble as well.
 
