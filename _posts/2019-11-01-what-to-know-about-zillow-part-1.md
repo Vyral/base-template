@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/JvD5fcwJRLA'
 
 Zillow and their Zestimates have become a popular topic of conversation among our clients, so today I wanted to take some time and share some of my thoughts on the site.&nbsp;
 
-Just how accurate is Zillow’s listing inventory? It’s a question we hear quite a lot. I’ve found that about 25% to 29% of the listings in the local MLS are missing from Zillow. **A decent amount of the properties available for sale right now are simply not on Zillow.**
+Just how accurate is Zillow’s listing inventory? It’s a question we hear quite a lot. I’ve found that about 25% to 29% of the listings in the local MLS are missing from Zillow. **A decent number of properties available for sale right now are simply not on Zillow.**
 
 Zillow is a great site for learning more about specific properties and has a great user interface, but it can’t replace a professional agent. Buying or selling a home is a huge transaction and something you should have help from a real person. **Dealing with Zillow means dealing with an algorithm and a robot, essentially.**
 
