@@ -17,7 +17,7 @@ youtube_code: Q12oR2QNEm4
 
 {% include youtube.html %}
 
-For today’s agent spotlight, I’m joined by ISA Sterling Donley. We’ve known Sterling for quite a long time, and we love having him on the team.&nbsp;&nbsp;
+For today’s agent spotlight, we are joined by ISA Sterling Donley. We’ve known Sterling for quite a long time, and we love having him on the team.&nbsp;&nbsp;
 
 As an inside sales agent, **he fields a lot of inbound calls and helps other agents put deals together.** For any incoming inquiries of potential buyers and sellers, his responsibility is to understand what their wants and needs are and then connect them to the right team member.&nbsp;
 
