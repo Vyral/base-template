@@ -35,4 +35,4 @@ Today’s market update comes to you straight from one of the world’s greatest
 
 8:29 - A few closing words from Stonehenge
 
-We hope you enjoyed this message. As always, if you have any questions about real estate or would like more information about anything we shared today, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
+We hope you enjoyed this message. As always, if you have any questions about real estate or would like more information concerning anything we shared today, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
