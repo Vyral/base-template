@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A November Update on the Louisville Market and My European Adventure
-date: 2019-11-01 19:50:25
+date: 2019-11-01 19:50:00
 tags:
   - Market Update
 excerpt: >-
@@ -13,13 +13,13 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/11-1---bob-s---yt.jpg
 youtube_code: Fhbs0Lk0JOU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What’s happening in our Louisville market? Hear all about it in today’s message.</em></p>
+*What’s happening in our Louisville market? Hear all about it in today’s message.*
 
 Today’s market update comes to you straight from one of the world’s greatest wonders: Stonehenge.&nbsp;
 
