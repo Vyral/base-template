@@ -92,7 +92,7 @@ Can I sit the Spaniak Team Open Houses? And if so, do I have to pay a commission
 
 <p><strong>Why would I want to join eXp Realty?</strong></p>
 
-<p>eXp Realty is a virtual brokerage and one of the most up and coming brokerages in the country. With its unique revenue share model, there are many ways that agents can supplement their income in additional ways other than selling real estate. <a href="https://kathleenspaniak.exprealty.careers/" target="_blank">kathleenspaniak.exprealty.careers</p>
+<p>eXp Realty is a virtual brokerage and one of the most up and coming brokerages in the country. With its unique revenue share model, there are many ways that agents can supplement their income in additional ways other than selling real estate. <a href="https://kathleenspaniak.exprealty.careers/" target="_blank">kathleenspaniak.exprealty.careers</a></p>
 
 <p>eXp is a publicly traded company. As an agent with eXp Realty, there are many opportunities given for stock awards. The agent is presented with stock upon completion of their first transaction and his or her first sponsored agent. In addition, if an agent is awarded ICON status, he or she is awarded stock back in the same amount as the CAP of $16,000.</p>
 
