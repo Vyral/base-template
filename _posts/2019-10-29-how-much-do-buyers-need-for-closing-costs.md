@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Your down payment isn’t all you’ll need to buy a home. You’ll need to be able
   to cover these closing costs, too.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/How+Much+Do+Buyers+Need+for+Closing+Costs_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
