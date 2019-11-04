@@ -18,7 +18,7 @@ youtube_code: LAuBEK09aSY
 
 {% include youtube.html %}
 
-Being remarkable is something that we’ve been focusing our energy on a lot lately. Here’s why.
+<center>Being remarkable is something that we’ve been focusing our energy on a lot lately. Here’s why.</center>
 
 Today’s topic is a little different. Instead of talking about real estate, we wanted to bring you a different kind of message.
 
