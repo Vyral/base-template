@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your October 2019 Real Estate Market Update
+title: There’s Something for Everyone at Nothing Bundt Cakes
 date: 2019-11-01 14:14:00
 tags:
   - Market Update
