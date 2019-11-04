@@ -16,70 +16,89 @@ permalink: /join-our-team/
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
 </div>
 
-<div class="markdown" markdown="1">
+<p>Dear Real Estate Agent,</p>
 
-Dear Real Estate Agent:
+<p>We are looking for both new and experienced real estate agents who want to succeed at a high level in their real estate careers both financially and professionally. They are searching for the highest commission split and the best coaching. These agents are generally independent thinkers and have bigger aspirations for their businesses than most of their real estate counterparts.</p>
 
-I understand that you may be working at a brokerage or are a newer agent just recently getting started. **Perhaps you’ve been in the industry for a couple of years and have been successful thus far, but you find yourself lacking the kind of consistency, income, and support you desire.**
+<p>The agents we are seeking are excited about the opportunity to earn additional sources of revenue other than just selling real estate. They value education, and they don't need a physical office and rarely go into their current brokerage as it is. These agents are excited about technology and the idea of a virtual office so they can take their business literally anywhere in the world.</p>
 
-For some people, this can be painful. In fact, a lack of sufficient training, education, and business leads to many agents leaving the industry altogether. **Studies show that nine out of every 10 agents leaves real estate within the first five years of getting their license.**
+<p>One of the major factors impacting both new and experienced agents alike is the lack of financial stability in the real estate industry. Income can be erratic and splits paid to the brokerage can be tremendously significant.</p>
 
-Agents like this run out of money, get distracted, and fall flat in their career due to a lack of support.
+<p>There are no ways to generate revenue other than selling one house after another after another. It is an exhausting hamster wheel that causes four out of every five agents to leave the industry after just five years.</p>
 
-Many agents find initial success by extracting leads from people in their life who they already know. **But eventually, all agents in this situation will run out of friends and family.** The next thing they know, they will have exhausted their database without a clue about where to go next.
+<p>These agents are losing sleep about their lack of income, they don’t have any prospects in their pipeline and they don’t know how they are going to pay their bills. They know they need more help but they cannot afford to pay for a coach. In addition, they are frustrated how much they are paying in splits and fees to their brokerage.</p>
 
-This leads to a lot of uncertainty and stress. People have no idea whether they will see another paycheck after their next contract. **And of the insufficient and inconsistent income they may be producing now, how much of it is going right back into paying for marketing expenses and other costs not covered by their brokerage?**
+<p>Fortunately, we have the solution for these agents. We are the Spaniak Team - eXp Realty. We are one of the top real estate teams on the North Shore of Chicago. Our business went from $0 to over $200 million in sales volume in just seven years, with more than 300 homes sold. And now we want to teach other agents how to grow their businesses the same way we did.</p>
 
-The truth is, some agents just aren’t prepared for the industry. On my team, we ensure that our agents are given the tools, systems, training, and support they need to be successful and reach their goals. **We hold our agents accountable.** When we see potential in an agent, we expect that agent to use it.
+<p>We have been affiliated with other brokerages in the Chicagoland area and have found that our current situation at eXp Realty is the most financially rewarding and the most successful. During the year that we moved from our previous brokerage to eXp Realty our sales volume increased from $37 million to $51 million.</p>
 
-I’m Kati Spaniak and I’ve sold real estate for the past six years. In that time, my team has become No. 1 in Northbrook and is within the top 13 on the North Shore. Starting out, our sales volume began at $3 million. **Now, we’ve grown that number to $37 million—a figure we’re on track to double this year.**
+<p>We are currently looking for new and experienced agents who want to make over $100,000 a year, and we want to show them how to do it. We are giving these agents the opportunity to learn from us and the coaching we have received from nationally-known real estate coaches from around the country.</p>
 
-No other team on the North Shore is able to provide for their agents at the level we do. We offer:
+<p>We will share our resources, our knowledge, and our processes to both new and experienced agents. We will provide extensive coaching and explain how to not work all day, every day while increasing revenue and lowering stress.</p>
 
-* Daily mentoring and coaching
-* Daily leads
-* Full administrative support
-* Full coverage on marketing and advertising expenses
-* Leads
-* Accountability
-* Consistent income
-* Opportunities for personal and career growth
+<p>When an agent joins eXp Realty through the Spaniak Team, they are supported, guided, and coached in order to become more successful in their careers. Our team works with agents on how to convert leads, sell real estate, promote, and market themselves and their businesses.</p>
 
-Beyond the things I’ve already mentioned, we also provide an environment that is incredibly conducive to success. **We are available to prospects and clients 7 days a week
-because we are truly a full-time business.**
+<p>Throughout our relationship with agents, we provide leads that we are too busy to work. We also provide the opportunity to host our heavily attended open houses with no fees paid to the Spaniak Team. We are also in search of awesome showing assistants. These assistants will show homes to these already signed clients and will receive a commission from those deals.</p>
 
-We give our agents every opportunity to learn, grow, take on leads, and, ultimately, close transactions. The buyer agent number that is found on all our signage sends calls directly to all the agents in our office. And this is just one of the many ways we generate leads. **We also utilize, pay-per-click advertising, Zillow and social media, and we have a high-quality CRM.**
+<p>As an added bonus to the opportunity, education and coaching we provide, we also offer the ability to earn thousands of dollars a month in passive income through revenue share. This revenue share potential can realistically grow into the hundreds of thousands a year. The income potential in Illinois is greater than other parts of the country because eXp has not yet saturated this area.</p>
 
-On top of access to our systems, agents also gain immediate credibility when they join our team — due to the high volume of business we’re doing at all times.
+<p>While this is an open invitation, acceptance is not guaranteed. Not everyone who wants to work with us will earn a spot to learn and grow with us. We only want to work with agents who are committed to their own growth and are willing to put in the time and effort to make themselves more successful.</p>
 
-In short, you could continue at your current pace — making inconsistent income, paying for your own marketing and advertising expenses, and having little freedom in your life and career. **You could also simply quit and take on a 9-to-5 job where you have no flexibility and no fun.** Or, you could take the first step on the road to success and join my team.
+<p>The sooner that agents respond to this offer, the sooner they will be able to grow their businesses through coaching and participate in revenue share. Many agents have regretted waiting to start building their revenue share because of the growth potential that is out there.</p>
 
-From day one, you’ll get started on our 30-, 60-, and 90-day programs, where weekly goals will help you stay accountable and on the right track to meet your goals. During your first week, you’ll launch into our new member orientation and also enroll in our MLS launch class. And unlike other brokerages, the only things you pay for on our team is your license, E&O insurance, and MLS dues.
+<p><strong> What are the most frequently asked questions:</strong></p>
 
-The onboarding process will include:
+<p><strong>What type of coaching will the Spaniak Team provide?</strong>
+<ul class="indent">
+<li>We provide one group training session at least once a week.</li>
+<li>We provide daily educational content on how to build a real estate business that can be accessed from anywhere in the world through eXpWorld</li>
+<li>We provide videos, written documentation and direction weekly</li>
+<li>We will provide all access to what we've done to grow our business</li>
+</ul></p>
 
-* Pulling together and entering your sphere in our 33-touch program
-* Working side-by-side with me on scripting
-* Training with myself and other team leaders
-* Shadowing open houses
+<p><strong>What is the split with eXp Realty?</strong></p>
 
-Even once onboarding is complete, I meet with my agents on an ongoing basis to ensure that they are meeting their goals and their potential.
+<p>Agents will receive an 80/20 split until the $16,000 CAP (approximately $3,300,000 in volume) has been hit, and then the percentage to the agent becomes 100% until the CAP is reset on the agent’s anniversary date.</p>
 
-When you apply with us right now, you have the benefit of getting in on the ground floor. We award the most leads to agents who have been with us for the longest periods of time, so this is a key opportunity. On top of that, we are also looking to expand to other areas of the Chicagoland area and the country in the future. **This means that top agents have the opportunities to form their own teams within our larger team structure.**
+<p><strong>Is there a lead generation and CRM website that I will get?</strong></p>
 
-Our commission split is 60%, but because we work with a higher price point, agents on our team who follow our systems and training will make at least $150,000 per year. **I can guarantee that if you stick to your goals and our plan, you will be taking home real income within your fourth month on our team.**
+<p>The agent will be provided a complete CRM lead generation platform in the form of Commissions Inc and KVcore. Many leads can be obtained through the agent’s KVcore site.</p>
 
-Don’t just take my word for it. An agent on our team right now closed a deal and earned $8,500 in her first four months. This agent has also received a $2.5 million buyer lead from our inbound system. This is just one example of our many success stories.
+<p><strong>What is revenue share?</strong></p>
 
-Agents on our team are known to thrive. In fact, the primary reason agents never leave or are let go is due to their own lack of motivation. **If you are willing to work, follow through on expectations, and meet your goals, you will grow as an agent on our team.**
+<p>Agents at eXp can receive revenue share from the people they sponsor into the company, up to 3.5% gross commission on their transactions. Keep earning residuals forever while the agent is productive with eXp Realty and until they reach the annual cap.</p>
 
-Now is the time to turn around your life and career. If you are a motivated individual with a track record of success and the drive to meet your goals, please apply today.
+<p>Revenue share is paid by eXp company dollars and doesn’t reduce agent commission, and there’s no limit to the amount agents can earn.
+Can I sit the Spaniak Team Open Houses? And if so, do I have to pay a commission to them?</p>
 
-I look forward to talking with you soon.
+<p>Agents are encouraged to host the Spaniak Team Open Houses and keep all of the leads for themselves without any referral fees paid to the Spaniak Team.</p>
 
-Kati Spaniak<br>[{{ site.data.settings.client.phone }}](tel:{{ site.data.settings.client.phone }})<br>[Kati@SpaniakTeam.com](mailto:Kati@SpaniakTeam.com)<br>[{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}]({{ site.data.settings.client.url }})
+<p><strong>Will there be an opportunity for leads provided to me by the Spaniak Team?</strong></p>
 
-</div>
+<p>Yes! Agents have the chance to receive additional leads from the Spaniak Team that we are not working.</p>
+
+<p><strong>What are the monthly fees? And what does that include?</strong>
+<ul class="indent">
+<li>eXp Realty charges a $89 monthly technology fee.</li>
+<li>Group coaching is included for free</li>
+</ul></p>
+
+<p><strong>What are the additional fees if any?</strong>
+<ul class="indent">
+<li>None if the agent doesn’t want to use office space in Northbrook</li>
+<li>$150 monthly fee if agents want to use the office in Northbrook and have access to use the printer and the conference room.</li>
+<li>A $500 monthly fee is for agents who want to participate in one-on-one coaching with Kati Spaniak. This includes two one-hour sessions per month.</li>
+</ul></p>
+
+<p><strong>Why would I want to join eXp Realty?</strong></p>
+
+<p>eXp Realty is a virtual brokerage and one of the most up and coming brokerages in the country. With its unique revenue share model, there are many ways that agents can supplement their income in additional ways other than selling real estate. <a href="https://kathleenspaniak.exprealty.careers/" target="_blank">kathleenspaniak.exprealty.careers</p>
+
+<p>eXp is a publicly traded company. As an agent with eXp Realty, there are many opportunities given for stock awards. The agent is presented with stock upon completion of their first transaction and his or her first sponsored agent. In addition, if an agent is awarded ICON status, he or she is awarded stock back in the same amount as the CAP of $16,000.</p>
+
+<p>In closing, we believe we have mastered selling real estate in the Chicagoland area, and we want to share it with other agents to build this community and this profession. Don’t make a decision to affiliate with another brokerage without at least having an introductory conversation with the Spaniak Team at eXp Realty.</p>
+
+<p>Kati</p>
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 
