@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Looking at the Latest Home Color Trends With an Expert
-date:
+date: 2019-11-04 17:03:43
 tags:
   - Home Seller Tips
 excerpt: >-
