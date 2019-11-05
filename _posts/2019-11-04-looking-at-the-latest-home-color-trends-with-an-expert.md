@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Looking at the Latest Home Color Trends With an Expert
+title: Better Homes & Gardens Style Director Tells Us Home Color Trends for 2020
 date: 2019-11-04 17:03:43
 tags:
   - Home Seller Tips
