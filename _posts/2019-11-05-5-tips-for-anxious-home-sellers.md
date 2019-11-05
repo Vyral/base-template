@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/N1SATjJLELM'
 
 {% include youtube.html %}
 
-Home sales can be sped up from the normal timeline through a few different strategies. Here are five of them.
+<p style="text-align: center;"><em>Home sales can be sped up from the normal timeline through a few different strategies. Here are five of them.</em></p>
 
 If you need to sell your home quickly, there are a few things you can do to differentiate yourself from the other sellers out there and give yourself a better shot at a quick sale:
 
