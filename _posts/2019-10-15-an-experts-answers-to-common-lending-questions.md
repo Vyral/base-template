@@ -15,7 +15,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/rosie-hayer-an-experts-answers-to-common-lending-questions-youtube.jpg
-youtube_code: qBK9s7gSgG4
+youtube_code: dMGeGFadASY
 ---
 
 {% include youtube.html %}
