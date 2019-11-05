@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Home Buying Timeline
-date: 2019-10-07 19:27:39
+date: 2019-10-07 19:27:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kYtYFsNpago
+youtube_code: dqnSAWoGR-U
 ---
 
 {% include youtube.html %}
