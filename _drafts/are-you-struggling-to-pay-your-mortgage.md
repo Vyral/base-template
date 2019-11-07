@@ -18,9 +18,9 @@ youtube_code: Bw1ZnWc-fyc
 
 {% include youtube.html %}
 
-If you’re struggling paying your mortgage, we can help you get back on the right track.
+<center><em>If you’re struggling paying your mortgage, we can help you get back on the right track.</em></center>
 
-Are you struggling with paying your mortgage? We understand—life happens. That’s why we want to invite you to reach out to us so we can help you get back on your feet.
+<br>Are you struggling with paying your mortgage? We understand—life happens. That’s why we want to invite you to reach out to us so we can help you get back on your feet.
 
 We’re specialists in helping people with their mortgage. It’s our job to show you all your options and inform you of your rights. Not only can we keep the banks at bay, but **we can help modify your loan, sell your home, or restructure your debt** so you can keep your home. Just like banks hire attorneys to look out for their interests, you need someone on your side fighting for you.
 
