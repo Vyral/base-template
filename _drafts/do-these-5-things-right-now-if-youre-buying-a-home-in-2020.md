@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/payne-youtube-6-2.jpg
 youtube_code: lNqW-vZGTjE
 ---
 
-{% include youtube.html %}If you’re gearing up to buy a home next year, follow these five steps.
+{% include youtube.html %}<center>If you’re gearing up to buy a home next year, follow these five steps.</center>
 
 Buying a home is nothing to take lightly. There are many important decisions and critical steps to take as you work toward this goal, and many of these steps come before you even start your home search.&nbsp;
 
