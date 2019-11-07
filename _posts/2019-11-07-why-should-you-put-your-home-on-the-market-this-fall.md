@@ -8,7 +8,7 @@ excerpt: >-
   There are a lot of reasons to sell your home this fall, and today we’ll be
   going over just the top three.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Shawn+O'Neill/Videos/2019/November/Why+Should+You+Put+Your+Home+on+the+Market+This+Fall_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Shawn+O'Neill/Videos/2019/November/Why+Should+You+Put+Your+Home+on+the+Market+This+Fall_+(1).mp4
 pullquote: >-
   Sellers savvy enough to seize the opportunity the fall and winter market
   presents will find that doing so really helps to set their home apart.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/list-this-fall-youtube.jpg
-youtube_code: WlL0-8u54ko
+youtube_code: iLPohN-pdcU
 ---
 
 {% include youtube.html %}
