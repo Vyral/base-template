@@ -34,7 +34,7 @@ Being remarkable is something that we’ve been thinking about a lot recently. W
 
 Every day this week, for example, Greg has been focusing on complimenting those in the gym who have made progress and letting them know he’s proud of them. **It’s important to realize that being remarkable and making an impact doesn’t need to be a big to-do**. It can simply be a small act of random kindness. Those kinds of things change the world.
 
-Nick actually schedules his randomness, and tries to do something random and nice for as many people as he can when it comes up in his calendar. In our world, we have busy schedules and full calendars, but when we put little timeblocks in our calendar for “random” kindness, it puts us in the right mood to be selfless. **Making a difference in someone else’s world is the definition of being remarkable and standing out**.
+Nick actually schedules his randomness and tries to do something random and nice for as many people as he can when it comes up in his calendar. In our world, we have busy schedules and full calendars, but when we put little time blocks in our calendar for “random” kindness, it puts us in the right mood to be selfless. **Making a difference in someone else’s world is the definition of being remarkable and standing out**.
 
 Think about some ways that you can be remarkable in other peoples’ worlds. Let us know what you are doing to make a difference.
 
