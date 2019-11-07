@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/FuJvvUMPpTk'
 
 {% include youtube.html %}
 
-Today we’re interviewing one of our great Realtors, Sinjin.
+<p style="text-align: center;"><em>Today we’re interviewing one of our great Realtors, Sinjin.</em></p>
 
 Today we’re Interviewing Sinjin, one of our wonderful Realtors. Sinjin has been on the team for a little over a year. Here’s what he had to say about his experience working with us:
 
