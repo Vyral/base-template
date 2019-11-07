@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/u5PjYo91Dq8'
 
 {% include youtube.html %}
 
-We’re hosting a free pie giveaway, and you’re invited\!
+<p style="text-align: center;"><em>We’re hosting a free pie giveaway, and you’re invited!</em></p>
 
 Happy November\! **It’s almost Thanksgiving time.** I think November is a great month because, coming from India, never before have I experienced a holiday that is just about saying thanks for all we have and thank you to the people who come into our lives in a positive way. So, this month is my time to say thank you to all my clients, past, present, and future.&nbsp;
 
