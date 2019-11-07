@@ -23,11 +23,11 @@ youtube_code: 'https://youtu.be/N1SATjJLELM'
 
 If you need to sell your home quickly, there are a few things you can do to differentiate yourself from the other sellers out there and give yourself a better shot at a quick sale:
 
-**1\. Price.** When you’re looking for a quick sale, sometimes you have to price a bit below market value to show that you have the value to necessitate a quick sale. A lot of times, however, doing that creates a bidding war that brings the price back up to market value or even higher in some cases.
+**1\. Price your home correctly.** When you’re looking for a quick sale, sometimes you have to price a bit below market value to show that you have the value to necessitate a quick sale. A lot of times, however, doing that creates a bidding war that brings the price back up to market value or even higher in some cases.
 
 **2\. Declutter.** First impressions are big. As buyers are walking up to your home, you want the yard to be nice and clean, and the same with the home.
 
-**3\. Staging.** Staging your home allows you to set the stage for buyers and could expedite your sale as well.
+**3\. Stage your listing.** Staging your home allows you to set the stage for buyers and could expedite your sale as well.
 
 **4\. Be flexible with showings.** The more willing you are to show your home, the better chance you have of getting more offers more quickly.
 
