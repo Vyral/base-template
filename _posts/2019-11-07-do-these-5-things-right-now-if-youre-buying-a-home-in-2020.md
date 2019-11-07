@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do These 5 Things Right Now if You’re Buying a Home in 2020
-date:
+date: 2019-11-07 19:52:31
 tags:
 excerpt: 'If you’re gearing up to buy a home next year, follow these five steps.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/payne-youtube-6-2.jpg
 youtube_code: lNqW-vZGTjE
 ---
 
-{% include youtube.html %}<center>If you’re gearing up to buy a home next year, follow these five steps.</center>
+{% include youtube.html %}
+
+<center><em>If you&rsquo;re gearing up to buy a home next year, follow these five steps.</em></center>
+
+&nbsp;
 
 Buying a home is nothing to take lightly. There are many important decisions and critical steps to take as you work toward this goal, and many of these steps come before you even start your home search.&nbsp;
 
