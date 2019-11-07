@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/IJX1GyHmvsM'
 
 {% include youtube.html %}
 
-The year is nearly over, but the St. Cloud market remains strong. We’re still seeing quite a few sales for this time of year.
+<p style="text-align: center;"><em>The year is nearly over, but the St. Cloud market remains strong. We’re still seeing quite a few sales for this time of year.</em></p>
 
 As we head toward the end of the year, things are going really well in the St. Cloud real estate market. Interest rates are near record lows, sales are strong, and inventory is steady.
 
