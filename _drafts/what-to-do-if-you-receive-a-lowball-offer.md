@@ -19,8 +19,8 @@ youtube_code: vf5s8jIbvu4
 
 {% include youtube.html %}
 
-If you receive an offer for your home that’s much lower than you asked for, how should you respond?
-
+<center>If you receive an offer for your home that’s much lower than you asked for, how should you respond?</center>
+<br />
 Our market has been on a great run lately. Prices are going up and some buyers are getting nervous that the market is soon to decline. That’s causing some of those buyers to churn out lowball offers for the homes they want. Today we’ll discuss some tips for home sellers that will help them navigate how to handle lowball offers.
 
 **1\. Remain calm**. Don’t freak out—trust your agent’s advice.
