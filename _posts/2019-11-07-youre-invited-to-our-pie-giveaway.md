@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/u5PjYo91Dq8'
 
 Happy November\! **It’s almost Thanksgiving time.** I think November is a great month because, coming from India, never before have I experienced a holiday that is just about saying thanks for all we have and thank you to the people who come into our lives in a positive way. So, this month is my time to say thank you to all my clients, past, present, and future.&nbsp;
 
-Without you, how can I do what I do? My calling is saving animals, and I rescue special needs and hospice dogs, which means out vet bills are huge. I wouldn’t be able to save dogs if you hadn’t chosen to work with me, so thank you again. I don’t just want to say thank you, I want to do something for you.
+Without you, how can I do what I do? My calling is saving animals, and I rescue special needs and hospice dogs, which means our vet bills are huge. I wouldn’t be able to save dogs if you hadn’t chosen to work with me, so thank you again. I don’t just want to say thank you, I want to do something for you.
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ So, **we are hosting a free pie giveaway** for all our clients. You should have 
 
 Thank you for your business and your trust. Happy Thanksgiving\!&nbsp;
 
-If you ever have any questions about real estate don’t hesitate to reach out to me. I would love to help you\!
+If you ever have any questions about real estate, don’t hesitate to reach out to me. I would love to help you\!
