@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Thinking about hosting your own Pie Day event for your clients this year?
   Here’s what I’ve learned after hosting two of them.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/Tips+for+Hosting+a+Successful+Pie+Day+Event+for+Your+Clients!.mp4
 pullquote: 'Make sure you’re posting about the event on social media, too!'
 enclosure_type: video/mp4
 enclosure_time:
