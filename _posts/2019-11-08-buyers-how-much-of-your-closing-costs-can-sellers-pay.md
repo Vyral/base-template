@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: How Much of Your Closing Costs Can Sellers Pay?'
-date: 2019-11-08 20:46:41
+date: 2019-11-08 20:46:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
   prospects, give me a call and I’d be happy to run the numbers for you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/wade----what-are-the-limits-of-seller-concessions-youtube.jpg
 youtube_code: ndcfGeDY9WU
 ---
 
