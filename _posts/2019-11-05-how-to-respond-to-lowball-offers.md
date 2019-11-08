@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: How should you respond to receiving a lowball offer?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/How+to+Respond+to+Lowball+Offers+(1).mp4
 pullquote: >-
   Sometimes, keeping tight and coming down slowly can bring people up in larger
   steps.
