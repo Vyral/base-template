@@ -57,6 +57,14 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: >-
       https://ericmortimer.com/search/grid/?city=1369%2C1372&maxprice=450000&status=A&propertytype=SF&photo=1&sort=days
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/006.jpg
+    CTA_title3: An Easier Way to Sell Your Calgary Home
+    CTA_text3: Get a guaranteed offer within as little as 7 days on your home.
+    CTA_link_text3: Learn More
+    CTA_url3: /guaranteed-sale/
+
 lender:
   show_section: false
   header_text: Preferred Lender
