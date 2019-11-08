@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: How Much of Your Closing Costs Can Sellers Pay?'
-date:
+date: 2019-11-08 20:46:41
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: ndcfGeDY9WU
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>What are the limits of seller concessions? As a buyer, the answer depends on your loan program.</em></p>
+*What are the limits of seller concessions? As a buyer, the answer depends on your loan program.*
 
 What are the limits of seller concessions?
 
