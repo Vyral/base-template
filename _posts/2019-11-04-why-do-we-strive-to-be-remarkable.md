@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Being remarkable is something that we’ve been focusing our energy on a lot
   lately. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Why+Do+We+Strive+to+Be+Remarkable_.mp4
 pullquote: Making a difference is the definition of being remarkable.
 enclosure_type: video/mp4
 enclosure_time:
