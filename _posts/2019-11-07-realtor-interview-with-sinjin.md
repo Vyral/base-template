@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Realtor Interview With Sinjin
+title: Get to Know Sinjin Martin\!
 date: 2019-11-07 16:15:00
 tags:
   - The Dave Hooke Team
