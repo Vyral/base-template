@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get to Know Sinjin Martin\!
+title: Get to Know Sinjin Martin!
 date: 2019-11-07 16:15:00
 tags:
   - The Dave Hooke Team
