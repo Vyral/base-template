@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Today, I’ll allow Katherine Fondren to tell you all about her experience
   working with The Wolek Group.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/Why+This+Happy+Client+Recommends+the+Wolek+Group.mp4
 pullquote: >-
   I felt she really wanted to do what was best for me and my family, as well as
   the people buying my home.
