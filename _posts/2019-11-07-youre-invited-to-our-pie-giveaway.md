@@ -27,7 +27,7 @@ Without you, how can I do what I do? My calling is saving animals, and I rescue 
 
 {% include pullquote.html %}
 
-So, **we are hosting a free pie giveaway** for all our clients. You should have received our email by now, but if you haven’t, [click here](ohmypickyourpie.com){: target="_blank"} and let us know what kind of pie you would like. On November 25 and 26 we will be waiting for you at our office with your pie so we can reconnect and say hello. We’ll have refreshments, cake, and cookies, so hang out with us for a little while.&nbsp;
+So, **we are hosting a free pie giveaway** for all our clients. You should have received our email by now, but if you haven’t, [click here](http://ohmypickyourpie.com){: target="_blank"} and let us know what kind of pie you would like. On November 25 and 26 we will be waiting for you at our office with your pie so we can reconnect and say hello. We’ll have refreshments, cake, and cookies, so hang out with us for a little while.&nbsp;
 
 Thank you for your business and your trust. Happy Thanksgiving\!&nbsp;
 
