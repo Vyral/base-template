@@ -21,7 +21,7 @@ youtube_code: ndcfGeDY9WU
 
 {% include youtube.html %}
 
-*What are the limits of seller concessions? As a buyer, the answer depends on your loan program.*
+<p style="text-align:center;"><em>What are the limits of seller concessions? As a buyer, the answer depends on your loan program.</em></p>
 
 What are the limits of seller concessions?
 
