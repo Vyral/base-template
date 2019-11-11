@@ -5,7 +5,7 @@ date: 2019-11-07 00:00:00
 tags:
   - Real Estate
 excerpt: >-
-  If you’re struggling paying your mortgage, we can help you get back on the
+  If you’re struggling to pay your mortgage, we can help you get back on the
   right track.
 enclosure:
 pullquote:
@@ -18,7 +18,7 @@ youtube_code: Bw1ZnWc-fyc
 
 {% include youtube.html %}
 
-<center><em>If you&rsquo;re struggling paying your mortgage, we can help you get back on the right track.</em></center>
+<center><em>If you&rsquo;re struggling to pay your mortgage, we can help you get back on the right track.</em></center>
 
 <br>Are you struggling with paying your mortgage? We understand—life happens. That’s why we want to invite you to reach out to us so we can help you get back on your feet.
 
