@@ -31,4 +31,4 @@ youtube_code: vf5s8jIbvu4
 
 **4\. Be polite and respectful**. Buyers can be nervous about making an offer at all, so treat a lowball offer as a starting point—you never know where you can get them to go.
 
-If you have any questions always reach out to your Colemere Realty associate for answers. We’d be glad to help.
+If you have any questions, always reach out to your Colemere Realty associate for answers. We’d be glad to help.
