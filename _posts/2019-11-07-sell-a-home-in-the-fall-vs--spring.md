@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/2CAKQfitbxQ'
 
 {% include youtube.html %}
 
-This time of year, home sellers common ask us if it’s better to sell a home in the fall or if waiting until spring is the right move.
+This time of year, home sellers commonly ask us if it’s better to sell a home in the fall or if waiting until spring is the right move.
 
 In response, we tend to bring up inventory levels. Inventory levels are typically highest in the spring, whereas in the fall, they tend to decline. That means that sellers will have a lot less competition in the fall than they will in the spring.
 
