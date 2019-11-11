@@ -21,7 +21,7 @@ youtube_code: P9Rab9DEr04
 
 {% include youtube.html %}
 
-*How do you hold title on your property? If you don’t know, you need to find out.*
+<p style="text-align:center;"><em>ow do you hold title on your property? If you don’t know, you need to find out.</em></p>
 
 Let me start my explanation with a story:
 
