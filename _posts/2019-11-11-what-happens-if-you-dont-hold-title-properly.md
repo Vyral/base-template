@@ -15,13 +15,13 @@ pullquote: Are you aware of how you or your loved ones hold title on a property?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/holding-title-youtube.jpg
 youtube_code: P9Rab9DEr04
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How do you hold title on your property? If you don’t know, you need to find out.</em></p>
+*How do you hold title on your property? If you don’t know, you need to find out.*
 
 Let me start my explanation with a story:
 
