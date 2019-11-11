@@ -19,9 +19,9 @@ youtube_code: Nn3PHlcfmEg
 
 {% include youtube.html %}
 
-Sunburst Shutters brings a wide variety of shutters and other window accessories to our community. I sat down with CEO Tyson Williams recently to talk about this and more.
+<center><em>Sunburst Shutters brings a wide variety of shutters and other window accessories to our community. I sat down with CEO Tyson Williams recently to talk about this and more.</em></center>
 
-On today’s edition of Everyday Encinitas I’m joined by Tyson Williams, CEO of Sunburst Shutters, to talk a little bit about his exciting business and what they’re doing in the community.
+<br>On today’s edition of Everyday Encinitas I’m joined by Tyson Williams, CEO of Sunburst Shutters, to talk a little bit about his exciting business and what they’re doing in the community.
 
 **Here’s an outline of our discussion, with timestamps so that you can skip around to the section(s) that interest you most:**
 
