@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: The bottom line is that the market remains in a stable condition.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/11-5-19yt.jpg
 youtube_code: gBpebf-5IgM
 ---
 
