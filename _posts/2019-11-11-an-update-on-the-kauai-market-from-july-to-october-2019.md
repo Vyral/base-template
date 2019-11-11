@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Update on the Kauai Market from July to October 2019
-date: 2019-11-11 17:50:43
+date: 2019-11-11 17:50:00
 tags:
   - Market Update
 excerpt: >-
@@ -33,7 +33,7 @@ Conversely, there are 16 homes that are priced between $1 million and $2 million
 
 In Lihue, there’s only a total of six homes under the $2 million price point for sale and seven in escrow, meaning there’s still a shortage of inventory. For people who want a quality home starting around, say, the $700,000 price point, there really isn’t much to choose from.
 
-**Interest rates are still low.** At the end of October this year, the Fed decided to drop the rates again, but according to one of my associates at Wells Fargo Private Banking, Wells Fargo predicts that rates will stay the same in 2020. As of now, the rate for a 30-year fixed mortgage for a primary residence in Kauai is 3.875%. For a 10-year ARM, the rate is 3.625%. Jumbo, rates are still lower than conforming rates, hovering around 3.5% for a 30-year fixed mortgage and 3% on a 10-year adjustable.
+**Interest rates are still low.** At the end of October this year, the Fed decided to drop the rates again, but according to one of my associates at Wells Fargo Private Banking, Wells Fargo predicts that rates will stay the same in 2020. As of now, the rate for a 30-year fixed mortgage for a primary residence in Kauai is 3.875%. For a 10-year ARM, the rate is 3.625%. Jumbo rates are still lower than conforming rates, hovering around 3.5% for a 30-year fixed mortgage and 3% on a 10-year adjustable.
 
 The bottom line is that the market remains in a stable condition. **Buyers can get deals depending on the negotiation skills of their agent** and the motivations of the seller to give good value to the buyer.
 
