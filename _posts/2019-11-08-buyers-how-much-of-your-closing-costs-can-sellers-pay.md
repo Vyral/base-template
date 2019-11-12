@@ -27,7 +27,7 @@ What are the limits of seller concessions?
 
 My homebuyer clients often ask me whether the seller can pay for some or all of their closing costs, and the reality is, different loan programs have **different limits for what a seller can and can’t do.&nbsp;**
 
-FHA and USDA programs cap the maximum contribution at 6% of the sales price. Very rarely do the closing costs amount to 6%, but they allow it if those closing costs are there to be paid. VA programs, on the other hand, allow 4% plus closing costs. This is a broad generalization of what can and can’t be done, but if the amounts are large enough, the buyer can pay of their funding fee, non-mortgage debt, etc.&nbsp;
+FHA and USDA programs cap the maximum contribution at 6% of the sales price. Very rarely do the closing costs amount to 6%, but they allow it if those closing costs are there to be paid. VA programs, on the other hand, allow 4% plus closing costs. This is a broad generalization of what can and can’t be done, but if the amounts are large enough, the buyer can pay off their funding fee, non-mortgage debt, etc.&nbsp;
 
 Conventional loan limits are capped based on your down payment. If you put down 10% or less, the maximum is 3% of the sales price. If you put down anywhere from 10% to 25%, the limit is 6%. If you put down more than 25%, the limit is 9%.&nbsp;
 
