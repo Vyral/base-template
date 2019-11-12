@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/costyt.jpg
 youtube_code: XUDpkFVCw2g
 ---
 
-{% include youtube.html %}Here’s what both homebuyers and sellers need to know about closing costs.
+{% include youtube.html %}<center>Here’s what both homebuyers and sellers need to know about closing costs.</center>
 
 What are closing costs? Who pays for them?
 
