@@ -8,8 +8,8 @@ excerpt: >-
   Let’s discuss.
 enclosure:
 pullquote: >-
-  Failing to disclose certain issues could land you in legal trouble or, at very
-  least, create significant hurdles for your home sale.
+  Failing to disclose certain issues could land you in legal trouble or, at the
+  very least, create significant hurdles for your home sale.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,7 +21,7 @@ youtube_code: 0RSN-pqF9rE
 
 Whether you’ve lived in your home for a few years or a few decades, you know all about its quirks, its best features, and its flaws. When you decide to sell your home, some of this information might be necessary for you to share with buyers in the form of a seller disclosure.&nbsp;
 
-**Including certain flaws in this document can feel uncomfortable; however, it’s best to be open and honest during the process.** Failing to disclose certain issues could land you in legal trouble or, at very least, create significant hurdles for your home sale.&nbsp;
+**Including certain flaws in this document can feel uncomfortable; however, it’s best to be open and honest during the process.** Failing to disclose certain issues could land you in legal trouble or, at the very least, create significant hurdles for your home sale.&nbsp;
 
 This is especially true since buyers will find out through a home inspection, anyway, if any problems (major or minor) are present in your home. Alternatively, if a problem does manage to escape their notice, but they ultimately discover it after closing, you could be subject to a lawsuit if they believe you intentionally hid the issue during your deal.&nbsp;
 
