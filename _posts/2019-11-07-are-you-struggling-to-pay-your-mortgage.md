@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re struggling to pay your mortgage, we can help you get back on the
   right track.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Are+You+Struggling+Paying+Your+Mortgage_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
