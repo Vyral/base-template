@@ -19,9 +19,9 @@ youtube_code: t3jofBvzKDM
 
 {% include youtube.html %}
 
-Do you want to buy a home? If so, make sure you prepare for all the expenses involved.
+<center><em>Do you want to buy a home? If so, make sure you prepare for all the expenses involved.</em></center>
 
-When the time comes to buy a home, there are many more costs to consider than just the sales price itself. On top of the cost to buy, there are also three more “buckets” of money you’ll need to account for.
+<br>When the time comes to buy a home, there are many more costs to consider than just the sales price itself. On top of the cost to buy, there are also three more “buckets” of money you’ll need to account for.
 
 **The first of these is your closing costs (which you can <u><a target="_blank" href="https://theauthenticagent.net/how-much-do-buyers-need-for-closing-costs.html">learn more about here</a></u>)**. The second “bucket” includes your inspection and appraisal costs, and the third includes moving costs.
 
