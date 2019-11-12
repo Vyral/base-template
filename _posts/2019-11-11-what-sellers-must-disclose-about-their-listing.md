@@ -33,7 +33,7 @@ While different states have different laws about what you must disclose, federal
 
 As for what disclosure requirements you might be subject to in your specific area, these regulations change too rapidly for us to list any specifics here. Instead, we recommend that you speak to your agent directly about current local regulations.&nbsp;
 
-In general, though, problems that sellers should disclose regardless of local regulations include water damage, mold, pests, or any other major structural, mechanical, or safety-related issues. Buyers will also likely ask to see evidence that these problems have been resolved, so save all relevant receipts and paperwork from relevant repairs or insurance claims you’ve made.&nbsp;
+In general, though, problems that sellers should disclose regardless of local regulations include water damage, mold, pests, or any other major structural, mechanical, or safety-related issues. Buyers will also likely ask to see evidence that these problems have been resolved, so save all applicable receipts and paperwork from applicable repairs or insurance claims you’ve made.&nbsp;
 
 **Some states even require sellers to disclose any risk of natural hazards like wildfires, earthquakes, or flooding, if these are common to the area.** So, again, check with your Realtor to see how you should proceed when it comes time to make your own disclosures.
 
