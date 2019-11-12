@@ -23,7 +23,7 @@ With Thanksgiving just around the corner, I want to take a moment to let all of 
 
 Now, it’s our time to give back. This Thanksgiving, the pie is on us. That right: we’re giving away free pies.
 
-**All you need to do is order your choice of either apple, pumpkin, or pecan pie, and show up to our office at 6905 NW 122nd Street Oklahoma City, Oklahoma between 3 p.m. and 6 p.m. on Wednesday, November 26 to pick it up.**
+**All you need to do is order your choice of either apple, pumpkin, or pecan pie, and show up to our future office at the NW corner of 122nd St and Council Rd just West of the Sonic between 3 p.m. and 6 p.m. on Wednesday, November 26 to pick it up.**
 
 {% include pullquote.html %}
 
