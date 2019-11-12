@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Key to Taking Your Business to the Next Level
-date: 2019-11-11 19:41:54
+date: 2019-11-11 19:41:00
 tags:
   - Transaction Management
   - Buyer Prospects
@@ -36,7 +36,7 @@ It’s probably not so much the time or effort you’re putting in; I know a lot
 
 Have you analyzed yourself to figure out what your strengths and weaknesses are? Improving your business will only happen once you dig deep and consider your successes and failures honestly. **Once you do, you’ll have a platform on which you can build your future success.**
 
-People who have had really hard times in life and have had to build themselves back up again tend to end up stronger because they know who they are and where they’re at. For my part, I write down notes about my life, including what I’m doing poorly and what I’m doing well. It’s hard, but it’s a good foundation to get to know yourself better and improve your skills as an agent.
+People who have had really hard times in life and have had to build themselves back up again tend to end up stronger because they know who they are and where they are at. For my part, I write down notes about my life, including what I’m doing poorly and what I’m doing well. It’s hard, but it’s a good foundation to get to know yourself better and improve your skills as an agent.
 
 From there, start educating yourself. **Listen to podcasts, read books, and talk to other agents to grow from other people’s experiences.** Once you do, I have a feeling that you’re going to be much more successful.
 
