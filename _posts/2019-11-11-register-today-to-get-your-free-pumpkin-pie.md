@@ -21,7 +21,7 @@ youtube_code: KHzLOdm2Bsg
 
 <p style="text-align:center;"><em>Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.</em></p>
 
-Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpkin pies. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit**[**this link**](http://www.soldincentraliowa.com/pumpkinpie) **to reserve your pie today.&nbsp;**
+Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpkin pies. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit** [**this link**](http://www.soldincentraliowa.com/pumpkinpie) **to reserve your pie today.&nbsp;**
 
 **You can pick up your pie on Monday, November 25 at our West Des Moines location or on Tuesday, November 26 at our Indianola location.** While you’re picking up your pie at our Indianola location, there will also be a holiday shop there, we’ll have all sorts of giveaways and prizes for you as well.
 
