@@ -19,7 +19,7 @@ youtube_code: 6VuGy-8NHYA
 
 {% include youtube.html %}
 
-With Thanksgiving just around the corner, I want to take a moment to let all of my clients know how much my team and I appreciate you. Thanks to your support, referrals, and loyalty, we’ve been able to sell hundreds of homes over the past three years.
+With Thanksgiving just around the corner, I want to take a moment to let all of my clients know how much my team and I appreciate you. Thanks to your support, referrals, and loyalty, we’ve been able to help hundreds of families with their real estate dreams.
 
 Now, it’s our time to give back. This Thanksgiving, the pie is on us. That right: we’re giving away free pies.
 
