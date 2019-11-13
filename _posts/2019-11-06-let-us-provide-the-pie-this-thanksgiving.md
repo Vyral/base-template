@@ -14,7 +14,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/becky-ivins-screenshot-you-ve-given-us-your-business-so-we-re-giving-you-free-pie-youtube.jpg
-youtube_code: 6VuGy-8NHYA
+youtube_code: N7khEtithic
 ---
 
 {% include youtube.html %}
