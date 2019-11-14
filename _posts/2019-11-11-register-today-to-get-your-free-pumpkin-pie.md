@@ -19,7 +19,7 @@ youtube_code: Iq-r1nIOqio
 
 {% include youtube.html %}
 
-*Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.*
+<p style="text-align:center;"><em>Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.</em></p>
 
 Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpkin pies. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit** [**this link**](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank"} **to reserve your pie today.&nbsp;**
 
@@ -28,5 +28,7 @@ Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpki
 {% include pullquote.html %}
 
 If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
+
+<p style="text-align:center;"><strong>A special THANK YOU to our sponsors:</strong></p>
 
 <center>![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012-1.jpg){: width="309" height="113" padding="10"}![](/uploads/rightway.jpg){: width="309" height="113" padding="10"}![](/uploads/phillips.jpg){: width="309" height="113" padding="10"}![](/uploads/miller.jpg){: width="309" height="113" padding="10"}![](/uploads/fidelity3.jpg){: width="309" height="113" padding="10"}![](/uploads/lsb-1.jpg){: width="309" height="113" padding="10"}</center>
