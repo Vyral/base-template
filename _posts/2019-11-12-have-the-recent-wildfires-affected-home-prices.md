@@ -27,6 +27,12 @@ One of the main reasons is that, for better or worse, living in California, we�
 
 What we’re seeing right now is that the prices on our listings have not been affected at all. It hasn’t affected escrows being able to close and we’re still selling homes swiftly here in the North Valley. People have been weighing wildfire risks against the great schools and excellent neighborhoods and finding that this is still a wonderful place to live.&nbsp;
 
-If you want to help victims of the recent wildfires, follow this link. It’s a tremendous way to help the community during this tough time, especially as we approach the holidays.&nbsp;
+If you want to help victims of the recent wildfires, [follow this link](https://www.refinery29.com/en-us/2019/10/8632853/how-to-help-california-fire-victims-2019). It’s a tremendous way to help the community during this tough time, especially as we approach the holidays.&nbsp;
 
 If you have any real estate questions, we’re always glad to help. Please reach out to us by phone or email. We look forward to speaking with you.
+
+List of links where you can help victims:
+
+[Casas Rodriguez Relief Fund](https://www.gofundme.com/f/casas-rodriquez-relief-fun?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=p_lico%2Bupdate&amp;fbclid=IwAR29AMxRYnTNwjne-06HXEWRxm2B4G7Zz1bpsAyx1u7i8f9sw1W5_-HvCTU)&nbsp; &nbsp; &nbsp;[California Community Foundation&nbsp;](https://www.calfund.org/wildfire-relief-fund/?gclid=CjwKCAiAwZTuBRAYEiwAcr67OWWTLDhU2LdiSi4XjQtEX8_oOulqDgoAAYy393moLPiFFLPAYW0FaRoCw-cQAvD_BwE)&nbsp; &nbsp; [Global Giving](https://www.globalgiving.org/california-wildfires/)&nbsp; &nbsp; [United Way LA](https://www.unitedwayla.org/en/give/disaster-relief-fund/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[LACFDF](https://www.lacfdf.org/)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Direct Relief](https://www.directrelief.org/emergency/california-wildfires/)&nbsp; &nbsp; &nbsp; &nbsp;[Animal Care Foundation](https://lacountyanimals.org/)
+
+&nbsp;
