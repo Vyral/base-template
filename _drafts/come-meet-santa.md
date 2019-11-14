@@ -16,6 +16,6 @@ youtube_code: AXx6iA4NFsA
 
 {% include youtube.html %}
 
-Get ready to sit by the fire and meet Santa\!
+<center><em>Get ready to sit by the fire and meet Santa!</em></center>
 
-Please join us at the **<u><a target="_blank" href="https://goo.gl/maps/MgHvdAfxBokVYhAV9">Lone Peak Park</a></u> Pavilion on December 5th from 5:30 p.m. - 8:30 p.m.** to meet and take your pictures with Santa\! Skip the lines at the mall, sit by the fire, and enjoy some hot cocoa on us. We hope to see you there.
+<br>Please join us at the **<u><a target="_blank" href="https://goo.gl/maps/MgHvdAfxBokVYhAV9">Lone Peak Park</a></u> Pavilion on December 5th from 5:30 p.m. - 8:30 p.m.** to meet and take your pictures with Santa\! Skip the lines at the mall, sit by the fire, and enjoy some hot cocoa on us. We hope to see you there.
