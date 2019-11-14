@@ -19,7 +19,7 @@ youtube_code: Iq-r1nIOqio
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.</em></p>
+*Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.*
 
 Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpkin pies. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit** [**this link**](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank"} **to reserve your pie today.&nbsp;**
 
@@ -29,6 +29,10 @@ Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpki
 
 If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
 
-<p style="text-align:center;"><strong>A special THANK YOU to our sponsors:</strong></p>
+RESERVE YOUR PIE NOW:
 
-![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012-1.jpg){: width="309" height="113" padding="20"}![](/uploads/rightway.jpg){: width="309" height="113" padding="20"}![](/uploads/phillips.jpg){: width="309" height="113" padding="20"}![](/uploads/miller.jpg){: width="309" height="113" padding="20"}![](/uploads/fidelity3.jpg){: width="309" height="113" padding="20"}![](/uploads/lsb-1.jpg){: width="309" height="113" padding="20"}
+Just go to&nbsp;[http://www.soldincentraliowa.com/pumpkinpie](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank"}&nbsp;and complete the form or call 515-229-9764 to reserve yours.
+
+**A special THANK YOU to our sponsors:**
+
+![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012-1.jpg){: width="309" height="113"}![](/uploads/rightway.jpg){: width="309" height="113"}![](/uploads/phillips.jpg){: width="309" height="113"}![](/uploads/miller.jpg){: width="309" height="113"}![](/uploads/fidelity3.jpg){: width="309" height="113"}![](/uploads/lsb-1.jpg){: width="309" height="113"}
