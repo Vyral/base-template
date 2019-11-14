@@ -20,7 +20,7 @@ youtube_code: U0BBIv41HCk
 
 {% include youtube.html %}
 
-Coldwell Banker has just begun to offer an exciting program for home sellers that I can’t wait to tell you about. Learn more here.
+<p style="text-align:center;"><em>Coldwell Banker has just begun to offer an exciting program for home sellers that I can’t wait to tell you about. Learn more here.</em></p>
 
 Home sellers: I’m excited to announce that Coldwell Banker has partnered with [Home Advisor](https://www.homeadvisor.com/) to offer an exciting program that will help you prepare your home for the market, maximize the value of the home, and defer any costs to sell the home until closing. The program is called **RealVitalize powered by Home Advisor, and here are the details:**
 
