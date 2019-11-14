@@ -31,4 +31,4 @@ If you have any questions for us about the event or real estate in general, donâ
 
 <p style="text-align:center;"><strong>A special THANK YOU to our sponsors:</strong></p>
 
-<center>![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012-1.jpg){: width="309" height="113" padding="10"}![](/uploads/rightway.jpg){: width="309" height="113" padding="10"}![](/uploads/phillips.jpg){: width="309" height="113" padding="10"}![](/uploads/miller.jpg){: width="309" height="113" padding="10"}![](/uploads/fidelity3.jpg){: width="309" height="113" padding="10"}![](/uploads/lsb-1.jpg){: width="309" height="113" padding="10"}</center>
+![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012-1.jpg){: width="309" height="113" padding="10"}![](/uploads/rightway.jpg){: width="309" height="113" padding="10"}![](/uploads/phillips.jpg){: width="309" height="113" padding="10"}![](/uploads/miller.jpg){: width="309" height="113" padding="10"}![](/uploads/fidelity3.jpg){: width="309" height="113" padding="10"}![](/uploads/lsb-1.jpg){: width="309" height="113" padding="10"}
