@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/BBrS9LWEIGU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How can you make sure that you choose the right tenant for your property? Here are six of my best tips.</em></p>
+
 Here are some tips that you should follow to ensure you choose the right tenant for your rental property:
 
 **1\. They should be making 3x the rent of the property.** Having a good income will make it much easier for the tenant to pay rent on time.
