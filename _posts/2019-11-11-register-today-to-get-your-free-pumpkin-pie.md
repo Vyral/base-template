@@ -29,4 +29,4 @@ Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpki
 
 If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
 
-![](/uploads/rightway.jpg){: width="309" height="113"}![](/uploads/lsb.jpg){: width="100%" height="148"}![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012.jpg)![](/uploads/phillips.jpg){: width="280" height="113"}![](/uploads/miller.jpg){: width="280" height="127"}![](/uploads/fidelity3.jpg){: width="406" height="146"}
+![](/uploads/rightway.jpg){: width="309" height="113"}![](/uploads/lsb.jpg){: width="309" height="113"}![](/uploads/bhgre-innovations-horizontal-whiteongreen-rgb-012.jpg)![](/uploads/phillips.jpg){: width="280" height="113"}![](/uploads/miller.jpg){: width="280" height="127"}![](/uploads/fidelity3.jpg){: width="406" height="146"}
