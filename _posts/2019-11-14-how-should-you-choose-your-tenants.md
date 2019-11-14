@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Should You Choose Your Tenants?
-date: 2019-11-14 14:38:56
+date: 2019-11-14 14:38:00
 tags:
   - Real Estate
 excerpt: >-
