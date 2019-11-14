@@ -29,7 +29,7 @@ Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpki
 
 If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
 
-RESERVE YOUR PIE NOW:
+<p style="text-align:center;">RESERVE YOUR PIE NOW:</p>
 
 Just go to&nbsp;[http://www.soldincentraliowa.com/pumpkinpie](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank"}&nbsp;and complete the form or call 515-229-9764 to reserve yours.
 
