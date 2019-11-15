@@ -16,9 +16,9 @@ youtube_code: 57JiP6Gs0e4
 
 {% include youtube.html %}
 
-You’re invited to our Pie & Wine Giveaway\!
+<center><em>You’re invited to our Pie & Wine Giveaway!</em></center>
 
-Thanksgiving is our favorite time of the year, and to celebrate the upcoming holiday, Home Buyers Realty is once again participating in our annual **Pie & Wine Giveaway\!**
+<br>Thanksgiving is our favorite time of the year, and to celebrate the upcoming holiday, Home Buyers Realty is once again participating in our annual **Pie & Wine Giveaway\!**
 
 We love that our past clients, current clients, and friends come by to visit us so we can give away some of our homemade wine, and for those who don’t enjoy wine (which I don’t understand, but to each their own), we also have wonderful pies.
 
