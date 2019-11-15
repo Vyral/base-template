@@ -5,7 +5,8 @@ date: 2019-11-14 00:00:00
 tags:
   - Real Estate
 excerpt: Get ready to sit by the fire and meet Santa!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Come+Meet+Santa!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
