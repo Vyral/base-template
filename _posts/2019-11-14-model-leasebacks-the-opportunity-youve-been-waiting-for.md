@@ -20,7 +20,11 @@ youtube_code: TefSigUeSBc
 
 Whether you’re a real estate investor or you’re looking to relocate to Scottsdale but can’t quite make it down here full-time yet, the model leaseback homes of the White Horse luxury community are a great option for you. There are three immediate reasons why:&nbsp;
 
-**1\. Location.** This community lies within close proximity to all the city’s best food and entertainment options—not to mention the Scottsdale Airpark area.<br>**2\. Features.** There are a plethora of great features the White Horse homes offer, whether you buy a spec home or a model home the builder is willing to lease back.<br>**3\. Decorations.** As you can see in the video above, the decorations for these homes are outstanding. The house I’m in is a farmhouse-style home, and you can move into it as is.
+**1\. Location.** This community lies within close proximity to all the city’s best food and entertainment options—not to mention the Scottsdale Airpark area.
+
+<br>**2\. Features.** There are a plethora of great features the White Horse homes offer, whether you buy a spec home or a model home the builder is willing to lease back.
+
+<br>**3\. Decorations.** As you can see in the video above, the decorations for these homes are outstanding. The house I’m in is a farmhouse-style home, and you can move into it as is.
 
 {% include pullquote.html %}
 
