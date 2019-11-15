@@ -22,6 +22,6 @@ youtube_code: 57JiP6Gs0e4
 
 We love that our past clients, current clients, and friends come by to visit us so we can give away some of our homemade wine, and for those who don’t enjoy wine (which I don’t understand, but to each their own), we also have wonderful pies.
 
-**On November 26 from 2 p.m. to 6 p.m. your pie and wine will be ready for pickup at our office** located at 632 West 11 Street, Suite 215. All you have to do is register for yours here.
+**On November 26 from 2 p.m. to 6 p.m. your pie and wine will be ready for pickup at our office** located at <u><a target="_blank" href="https://goo.gl/maps/f4dwyVsgesycySFD7">632 West 11 Street, Suite 215, Tracy, CA 95376</a></u>. All you have to do is register for yours here.
 
 Until then, if you have any questions for us, reach out\! We’d be glad to hear from you. We hope to see you on November 26\!
