@@ -17,7 +17,7 @@ youtube_code: fzH1pD-Qc2A
 
 {% include youtube.html %}
 
-If you’re looking to invest in real estate, we can help you.
+<p style="text-align:center;"><em>If you’re looking to invest in real estate, we can help you.</em></p>
 
 Are you or someone you know interested in investing in real estate? Whether you’ve only briefly thought about it, you’ve already started the process and need help, or you’re a seasoned investor looking to access more properties, we want you to reach out to us. We come across off-market properties on a weekly basis, and we can’t always list these properties for sale, so we want to be able to contact you if you’re interested in these opportunities and adding to your portfolio.
 
