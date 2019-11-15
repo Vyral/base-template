@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between Pre-Approval and Pre-Qualification
-date:
+date: 2019-11-15 17:22:40
 tags:
   - Home Buyer Tips
 excerpt: >-
