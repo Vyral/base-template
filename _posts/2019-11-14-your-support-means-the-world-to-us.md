@@ -19,4 +19,4 @@ youtube_code: qzSwbSpI4uA
 
 {% include youtube.html %}
 
-I just wanted to take a moment today to say thank you. It’s the Thanksgiving season, and we’re so thankful here at Healthy Realty when we have your support. We’re going to close over 100 homes this year, and much of it is thanks to you. Our clients have been so good to us and it’s been so fantastic helping each other grow. To hear our full message of thanks, watch this short video.
+I just wanted to take a moment today to say thank you. It’s the Thanksgiving season, and we’re so thankful here at Healthy Realty when we have your support. We’re going to close over 100 homes this year, and much of it is thanks to you. Our clients have been so good to us and it’s been so fantastic helping each other grow. If you have any questions about real estate, please don't hesitate to reach out to us by phone or email. We would love to help you.
