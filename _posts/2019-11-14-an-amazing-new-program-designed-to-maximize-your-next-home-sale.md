@@ -32,7 +32,7 @@ Not all projects will lead to that end, but there are numerous things that you c
 
 **Here’s how the RealVitalize Program works:**
 
-When you go through the RealVitalize Program powered by Home Advisor, we’ll put together a listing agreement and discuss what projects can be done to boost your home’s value. Then, we’ll reach out to Home Advisor to refer you to the best vendors in your area for whatever job you need to be done.
+When you go through the RealVitalize Program powered by Home Advisor, we’ll put together a listing agreement and discuss what projects can get done to boost your home’s value. Then, we’ll reach out to Home Advisor to refer you to the best vendors in your area for whatever job you need to be done.
 
 Then you, the homeowner, will meet with contractors to interview them and compare prices as you would normally. **Once you’ve approved a contractor, they’ll come in to do the work, and here’s the best part: Coldwell Banker will pay the vendor up front\!** When your home sells, the cost to pay the contractor will be deducted from the proceeds.
 
