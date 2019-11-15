@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/15FyPHfNJMU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I recently had the chance to interview my mentor Billy Phong, and today I’ll show it to you.</em></p>
+
 Today I want to show you an interview I recently conducted with one of my mentors, Billy Phong. He’s helped me achieve a lot of success these past several years, and I owe a lot to him. In this interview, we’ll discuss how he got his start in real estate, how the HP Real Estate Team was created, why hiring an experienced Realtor is crucial whether you’re buying or selling a home, and many other topics.&nbsp;
 
 **Follow along in the video above to see the interview in its entirety. For your convenience, I’ve added timestamps so you can skip ahead to various sections:&nbsp;**
