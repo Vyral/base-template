@@ -19,6 +19,6 @@ youtube_code: dVIYKmijZqk
 
 {% include youtube.html %}
 
-Our client appreciation event is just around the corner, and we’ve got all the details for you today.
+<p style="text-align:center;"><em>Our client appreciation event is just around the corner, and we’ve got all the details for you today.</em></p>
 
 It’s that time of year again—time for you to mark your calendar for our upcoming client appreciation event. This year, this event will take place at Humagalas (16 Bel Air S Parkway, Bel Air) on Tuesday, November 26 from 4 p.m. to 7:30 p.m., and you won’t want to miss it. There will be plenty of food (including pumpkin pie), an open bar, and, of course, chances to mix and mingle with your friends at Tessier Real Estate. If you plan on coming, make sure to RSVP by sending an email to [georgie@leetessier.com](mailto:georgie@leetessier.com). And if you have any other questions or would like more information, don’t hesitate to reach out. We hope to see you there\!
