@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spotlighting Billy Phong, Head of the HP Real Estate Team'
-date: 2019-11-15 15:46:30
+date: 2019-11-15 15:46:00
 tags:
   - Real Estate
 excerpt: >-
