@@ -19,11 +19,13 @@ youtube_code: qLF8UA2WPjQ
 
 {% include youtube.html %}
 
-It’s a great time to get your home ready for a 2020 sale. We love helping people get their homes ready months in advance so we can market them in advance. We take listings that aren’t being sold by other Realtors, putting our magic touch on them, and selling them extremely quickly.&nbsp;
+It’s a great time to get your home ready for a 2020 sale. We love helping people prepare their homes months in advance so we can market them in advance. We take listings that aren’t being sold by other Realtors, put our magic touch on them, and sell them extremely quickly.&nbsp;
 
 We recently put a property on the market that had previously failed to sell and got it under contract in just two days. Professional photography is so important.
 
-Today I’m excited to show you our work in action by presenting some of our best listing photos compared to the photos that they had previously used. Here’s an outline of the video, with timestamps, so that you can skip around to the section(s) that interest you most:
+Today I’m excited to show you our work in action by presenting some of our best listing photos compared to the photos that they had previously used.
+
+**Here’s an outline of the video, with timestamps, so that you can skip around to the section(s) that interest you most:**
 
 **0:40-** How we improved the Rydal Road listing’s exterior photographs<br>**2:45-** How we improved the Rydal Road listing’s interior photographs<br>**4:55-** How we improved our Acorn Lane listing’s exterior photographs<br>**6:30-** How we improved the Acorn Lane listing’s interior photographs<br>**8:50-** How we improved our Harbor Lane listing’s exterior photos<br>**9:50-** How we helped transform the Harbor Lane listing’s interior photos
 
