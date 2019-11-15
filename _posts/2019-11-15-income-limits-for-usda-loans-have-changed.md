@@ -19,7 +19,7 @@ youtube_code: KJXbTzXKTtE
 
 {% include youtube.html %}
 
-USDA loans represent a fantastic opportunity for homebuyers. After a recent change, more and more people can qualify for them.
+<p style="text-align:center;"><em>USDA loans represent a fantastic opportunity for homebuyers. After a recent change, more and more people can qualify for them.</em></p>
 
 There have been some recent changes to USDA loan programs that we wanted to make sure you knew about today.
 
