@@ -20,7 +20,7 @@ youtube_code: JsKO1jVH7Rw
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today, I’m joined once again by Jake Bernhardt from UHCU to discuss the important differences between being pre-approved and being pre-qualified for a loan.</em></p>
+<p style="text-align:center;"><em>Today, I’m joined once again by Jake Bernhard from UHCU to discuss the important differences between being pre-approved and being pre-qualified for a loan.</em></p>
 
 Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) is back again to help me answer some key questions that we receive from buyers looking to begin the process of purchasing a home. Today, we’ll start with one key question we receive pretty often, “What’s the difference between getting pre-qualified and getting pre-approved for a home loan?”
 
