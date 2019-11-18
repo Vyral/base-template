@@ -18,9 +18,9 @@ youtube_code: UHDsBszIMlc
 
 {% include youtube.html %}
 
-Bad communication ruins relationships and real estate transactions. Here’s our communication guarantee to you at Atlas Premier Realty.
+<center><em>Bad communication ruins relationships and real estate transactions. Here’s our communication guarantee to you at Atlas Premier Realty.</em></center>
 
-We’re excited to talk to you about something new that we’re doing here at Atlas Premier Realty that is a little different. One of the things that we’re finding is that people often have issues with lack of communication when it comes to real estate.
+<br>We’re excited to talk to you about something new that we’re doing here at Atlas Premier Realty that is a little different. One of the things that we’re finding is that people often have issues with lack of communication when it comes to real estate.
 
 **What we’ve come up with in response is our Blue Tape Communication Guarantee**. When you are working with one of our agents, we guarantee that you will speak to your agent or another person on our team at least every week.
 
