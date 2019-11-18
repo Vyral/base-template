@@ -21,7 +21,7 @@ youtube_code: Pnx8yKnyKp8
 
 Fellow coffee lovers: Today’s business spotlight is for you\!&nbsp;
 
-This time, we took a peek inside Bootstrap Coffee Roasters—a wholesale and retail coffee shop that’s been bringing bold flavor St. Paul since 2014.&nbsp;
+This time, we took a peek inside Bootstrap Coffee Roasters—a wholesale and retail coffee shop that’s been bringing bold flavor St. Paul since 2019.&nbsp;
 
 According to owner Michael Svejda, the thing that sets Bootstrap Coffee apart is the care and intentionality that goes into every cup. The majority of their products are also locally sourced, so you can be sure that whatever you order during your next visit, it’s going to be as fresh as it is delicious.
 
