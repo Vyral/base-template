@@ -19,6 +19,8 @@ youtube_code: cKD0kNMNgK8
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Millennials have come up with an ingenious solution to solving their financial woes: crowdfunding. Here’s how that can apply to your next home purchase.</em></p>
+
 **The new generation coming into the market is taking up a large portion of the homebuying demographics.** Millennials as a generation are very interested in obtaining their college degrees. They can choose to go the traditional route and waiting to pay down all their debts before thinking of buying a home, or, if they have a good job and income, the only barrier they have is saving for the down payment. Saving for the down payment will take resources away from paying down their debts.
 
 I love millennials; they don’t work hard—they work smart. They had a problem and then found a way to solve it: crowdfunding\! This means they’re going to their friends, family, and generous strangers to ask for money to assist with their down payment.
