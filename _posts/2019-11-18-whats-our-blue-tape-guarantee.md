@@ -18,7 +18,7 @@ youtube_code: UHDsBszIMlc
 
 {% include youtube.html %}
 
-<center><em>Bad communication ruins relationships and real estate transactions. Here’s our communication guarantee to you at Atlas Premier Realty.</em></center>
+<center><em>Bad communication ruins relationships and real estate transactions. Here&rsquo;s our communication guarantee to you at Atlas Premier Realty.</em></center>
 
 <br>We’re excited to talk to you about something new that we’re doing here at Atlas Premier Realty that is a little different. One of the things that we’re finding is that people often have issues with lack of communication when it comes to real estate.
 
