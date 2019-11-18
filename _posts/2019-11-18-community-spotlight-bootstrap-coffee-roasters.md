@@ -29,4 +29,4 @@ According to owner Michael Svejda, the thing that sets Bootstrap Coffee apart is
 
 If you want to learn more about Bootstrap Coffee Roasters, feel free to check out the video above\! Otherwise, you can also **visit their website, [https://www.bootstrapcoffeeroasters.com/](https://www.bootstrapcoffeeroasters.com/){: target="_blank"}, for their hours, menu, and other information.**
 
-And, as always, if you have any other questions about real estate, please don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+And, as always, if you have any other questions about real estate, please don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
