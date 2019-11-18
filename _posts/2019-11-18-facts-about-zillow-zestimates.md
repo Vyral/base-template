@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/g_ggeyqG1XU'
 
 {% include youtube.html %}
 
-This is part two of our Zillow Facts series. Today we’re discussing Zestimates.
+<p style="text-align: center;"><em>This is part two of our Zillow Facts series. Today we’re discussing Zestimates.</em></p>
 
 Today I’ll continue with my favorite subject: Zillow. **I’m going to discuss Zestimates.&nbsp;**
 
