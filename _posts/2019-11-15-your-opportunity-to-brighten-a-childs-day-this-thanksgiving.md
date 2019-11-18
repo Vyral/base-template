@@ -22,6 +22,8 @@ youtube_code: z9F5ovbjFoQ
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Our Thanksgiving Pie Giveaway is coming up soon, as is our Toys for Tots drop-off which means you have the opportunity to brighten a child’s day this Thanksgiving.</em></p>
+
 The Thanksgiving season is here, which means it’s time for a quick announcement and a word on happiness.&nbsp;
 
 First, **our annual Thanksgiving Pie Giveaway is happening on November 26 (you should have gotten an invite in the mail if you’re a client), as is our Toys for Tots drop-off.** That’s right—we’re an official drop-off site for Toys for Tots.
