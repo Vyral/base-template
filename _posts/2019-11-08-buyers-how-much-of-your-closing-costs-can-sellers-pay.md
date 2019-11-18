@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: How Much of Your Closing Costs Can Sellers Pay?'
-date: 2019-11-15 20:46:00
+date: 2019-11-15 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
