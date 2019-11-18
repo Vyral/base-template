@@ -30,9 +30,9 @@ client:
   url: 'http://www.callursula.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://callursula.com/sellers'
+  first_CTA_URL: 'https://callursula.kw.com/contact'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://callursula.com/search'
+  second_CTA_URL: 'https://callursula.kw.com/search'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
