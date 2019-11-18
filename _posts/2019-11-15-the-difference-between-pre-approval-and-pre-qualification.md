@@ -22,18 +22,18 @@ youtube_code: JsKO1jVH7Rw
 
 <p style="text-align:center;"><em>Today, I’m joined once again by Jake Bernhardt from UHCU to discuss the important differences between being pre-approved and being pre-qualified for a loan.</em></p>
 
-Jake Bernhardt (nmls: 870775) from United Heritage Credit Union (nmls: 630601) is back again to help me answer some key questions that we receive from buyers looking to being the process of purchasing a home. Today, we’ll start with one key question we receive pretty often, “What’s the difference between getting pre-qualified and getting pre-approved for a home loan?”
+Jake Bernhardt (nmls: 870775) from United Heritage Credit Union (nmls: 630601) is back again to help me answer some key questions that we receive from buyers looking to begin the process of purchasing a home. Today, we’ll start with one key question we receive pretty often, “What’s the difference between getting pre-qualified and getting pre-approved for a home loan?”
 
 **Feel free to follow our conversation in the video above or use the timestamps below to navigate our discussion at your leisure:**
 
 1:00—What’s the difference between getting pre-qualified and getting pre-approved for a home loan?
 
-2:59—How long does a pre-approval last for?
+2:59—How long does a pre-approval last?
 
 5:20—Does paying for certain things with cash during the loan approval affect your debt-to-income ratio?
 
 6:36—How much can you expect to be approved for?
 
-Jake has provided some really candid answers to some really common questions, and I thank him for spending some time to help me provide you with useful information.
+Jake has provided some really candid answers to common questions, and I thank him for spending time to help me provide you with useful information.
 
 Please know that if you’re intimidated by these questions or answers or you feel like they’re too much for you to process, you can simply reach out to us. We’ll be happy to make this process simple and fun for you. With lending partners like Jake, we can’t help but have you win when you choose to buy a home with us. We look forward to hearing from you\!
