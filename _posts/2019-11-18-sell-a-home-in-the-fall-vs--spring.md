@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sell a Home in the Fall vs. Spring
-date: 2019-11-29 00:00:00
+date: 2019-11-18 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
