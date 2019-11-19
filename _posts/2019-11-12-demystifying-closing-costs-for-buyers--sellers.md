@@ -5,8 +5,8 @@ date: 2019-11-12 20:26:23
 tags:
   - Expert Advice
 excerpt: Here’s what both homebuyers and sellers need to know about closing costs.
-enclosure:
- "https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/Demystifying+Closing+Costs+for+Buyers+%26+Sellers.mp4"
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/Demystifying+Closing+Costs+for+Buyers+%26+Sellers.mp4
 pullquote: >-
   It’s important for you to work with your lender to understand your closing
   costs.
