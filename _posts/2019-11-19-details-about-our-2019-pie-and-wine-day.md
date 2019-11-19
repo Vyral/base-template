@@ -17,4 +17,4 @@ youtube_code: HoJy4HLxaks
 
 {% include youtube.html %}
 
-On November 26, we’d love for you to join us for our annual Pie & Wine Day. We’re thankful for you, and that’s why we want to provide the pie or wine for your Thanksgiving table. You can RSVP and reserve your pie or wine here, then you can pick it up at our office on Tuesday, November 26 from 10 a.m. to 6 p.m. It really is as simple as it sounds.
+On November 26, we’d love for you to join us for our annual Pie & Wine Day. We’re thankful for you, and that’s why we want to provide the pie or wine for your Thanksgiving table. You can RSVP and reserve your pie or wine **[here](https://www.eventbrite.com/e/limbird-annual-pie-or-wine-2019-tickets-78649814713){: target="_blank"}**, then you can pick it up at our office on Tuesday, November 26 from 10 a.m. to 6 p.m. It really is as simple as it sounds.
