@@ -24,6 +24,6 @@ We love that our past clients, current clients, and friends come by to visit us 
 
 **On November 26 from 2 p.m. to 6 p.m. your pie and wine will be ready for pickup at our office** located at <u><a target="_blank" href="https://goo.gl/maps/f4dwyVsgesycySFD7">632 West 11 Street, Suite 215, Tracy, CA 95376</a></u>. All you have to do is **<u><a target="_blank" href="https://www.hbrteam.com/thanksgiving-pie-or-wine">register for yours here</a></u>**.
 
-Until then, if you have any questions for us, reach out\! We’d be glad to hear from you. We hope to see you on November 26\!
+Until then, if you have any questions for us, reach out\! We’d be glad to hear from you. We hope to see you on November 26!
 
 <center><u><strong><a target="_blank" href="https://hbrteamblog.com/a-token-of-our-appreciation-for-your-support.html">Register Here!</a></strong></u></center>
