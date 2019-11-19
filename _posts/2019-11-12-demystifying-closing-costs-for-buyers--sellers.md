@@ -3,6 +3,7 @@ layout: post
 title: Demystifying Closing Costs for Buyers & Sellers
 date: 2019-11-12 20:26:23
 tags:
+  - Expert Advice
 excerpt: Here’s what both homebuyers and sellers need to know about closing costs.
 enclosure:
 pullquote: >-
@@ -11,15 +12,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/costyt.jpg
+youtube_alternate_image: 
 youtube_code: XUDpkFVCw2g
 ---
 
 {% include youtube.html %}
 
-<center>Here&rsquo;s what both homebuyers and sellers need to know about closing costs.</center>
-
-&nbsp;
+<p style="text-align: center"><em>Here&rsquo;s what both homebuyers and sellers need to know about closing costs.</em></p>
 
 What are closing costs? Who pays for them?
 
