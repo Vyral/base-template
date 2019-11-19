@@ -12,12 +12,14 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/11-14---diane-cardano---yt.jpg
+use_youtube_image: true
+youtube_alternate_image: 
 youtube_code: qLF8UA2WPjQ
 ---
 
 {% include youtube.html %}
+
+<p style="text-align:"><em>Are you thinking about listing your home without having professional photos of it first? As you’ll see, that can be a big mistake.</em></p>
 
 It’s a great time to get your home ready for a 2020 sale. We love helping people prepare their homes months in advance so we can market them in advance. We take listings that aren’t being sold by other Realtors, put our magic touch on them, and sell them extremely quickly.&nbsp;
 
