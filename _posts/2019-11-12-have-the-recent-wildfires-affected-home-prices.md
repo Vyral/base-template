@@ -19,6 +19,8 @@ youtube_code: jn8mwpdbi3E
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>With the recent wildfires, many people are worried about the state of our real estate market. I’m here to put your fears to rest.</em></p>
+
 With the recent wildfires in San Fernando Valley and Simi Valley, many people have been asking us whether home prices will be affected by them. The answer is an emphatic no. There are a few reasons for that.&nbsp;
 
 One of the main reasons is that, for better or worse, living in California, we’ve become acclimated to the possibility of wildfires. Unlike the major Paradise Fire up in northern California, which wiped out the entire town, **we’ve lost a few homes here and there, but the first responders have done an amazing job of preserving structures and buildings.** Most homes have been saved.
