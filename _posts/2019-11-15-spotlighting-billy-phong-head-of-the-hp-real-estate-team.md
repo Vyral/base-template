@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chia-interview-with-billy-phong-youtube.png
-youtube_code: 'https://youtu.be/15FyPHfNJMU'
+youtube_code: 'https://youtu.be/Z2dvxfaDP1c'
 ---
 
 {% include youtube.html %}
