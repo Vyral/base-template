@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look Inside Life on the Dave Hooke Team
+title: A Chance to Grow With the Dave Hooke Team
 date: 2019-11-19 15:35:08
 tags:
   - The Dave Hooke Team
