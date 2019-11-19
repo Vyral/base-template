@@ -26,4 +26,4 @@ We love that our past clients, current clients, and friends come by to visit us 
 
 Until then, if you have any questions for us, reach out\! We’d be glad to hear from you. We hope to see you on November 26\!
 
-## <u><strong><a target="_blank" href="https://hbrteamblog.com/a-token-of-our-appreciation-for-your-support.html">Register Here!</a></strong></u>
+## <center><em><u><strong><a target="_blank" href="https://hbrteamblog.com/a-token-of-our-appreciation-for-your-support.html">Register Here!</a></strong></u></em></center>
