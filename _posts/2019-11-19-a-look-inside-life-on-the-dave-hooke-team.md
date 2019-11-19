@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/5NVAksuCLgQ'
 
 {% include youtube.html %}
 
-One of the Dave Hooke Team’s great members, Drue Richmond, recently sat down to share a few thoughts on her experience with us. Now, we’d like to share her insight with all of you.
+<p style="text-align: center;"><em>One of the Dave Hooke Team’s great members, Drue Richmond, recently sat down to share a few thoughts on her experience with us. Now, we’d like to share her insight with all of you.</em></p>
 
 Recently, I sat down with our team’s sales director Drue Richmond for a great interview on what she does here and why she loves being a part of our team.&nbsp;
 
