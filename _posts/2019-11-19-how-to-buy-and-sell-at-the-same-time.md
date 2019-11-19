@@ -22,7 +22,7 @@ youtube_code: 5dC_zbj5BE0
 
 {% include youtube.html %}
 
-How can you successfully sell your home and buy another at the same time? Today I’ll present both options.
+<p style="text-align:center;"><em>How can you successfully sell your home and buy another at the same time? Today I’ll present both options.</em></p>
 
 If you’re selling your current home and you want your sale to line up perfectly with your purchase of a new home, there are a few ways to go about it: You can either buy first and then sell or you can sell first and then buy.&nbsp;
 
