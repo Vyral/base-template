@@ -16,7 +16,7 @@ youtube_code: 57JiP6Gs0e4
 
 {% include youtube.html %}
 
-<center><em>You&rsquo;re invited to our Pie &amp; Wine Giveaway!</em></center>
+<center><em>You're invited to our Pie & Wine Giveaway!</em></center>
 
 <br>Thanksgiving is our favorite time of the year, and to celebrate the upcoming holiday, Home Buyers Realty is once again participating in our annual **Pie & Wine Giveaway\!**
 
@@ -26,4 +26,4 @@ We love that our past clients, current clients, and friends come by to visit us 
 
 Until then, if you have any questions for us, reach out\! We’d be glad to hear from you. We hope to see you on November 26\!
 
-## <u><strong><a target="_blank" href="https://hbrteamblog.com/a-token-of-our-appreciation-for-your-support.html">Register Here!</a></strong></u>
+## <u><center><strong><a target="_blank" href="https://hbrteamblog.com/a-token-of-our-appreciation-for-your-support.html">Register Here!</a></strong></center></u>
