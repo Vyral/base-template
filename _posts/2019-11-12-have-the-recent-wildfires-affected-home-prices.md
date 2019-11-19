@@ -12,8 +12,8 @@ pullquote: >-
   estate market. I’m here to put your fears to rest.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/11-8---scott-himelstein---yt.jpg
+use_youtube_image: true
+youtube_alternate_image: 
 youtube_code: jn8mwpdbi3E
 ---
 
