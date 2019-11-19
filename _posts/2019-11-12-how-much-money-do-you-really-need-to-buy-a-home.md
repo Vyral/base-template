@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Do you want to buy a home? If so, make sure you prepare for all the expenses
   involved.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/How+Much+Money+Do+You+Really+Need+to+Buy+a+Home_.mp4
 pullquote: The bottom line is to always plan ahead.
 enclosure_type: video/mp4
 enclosure_time:
