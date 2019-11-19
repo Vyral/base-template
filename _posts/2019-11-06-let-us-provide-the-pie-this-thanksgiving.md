@@ -27,7 +27,7 @@ Now, it’s our time to give back. This Thanksgiving, the pie is on us. That rig
 
 {% include pullquote.html %}
 
-You can place your order [<u><strong>here</strong></u>](https://docs.google.com/forms/d/e/1FAIpQLSeBjuws4qmwtK2_LIOyWex5I3GsGfNIqbj3Uen4qROocoXPJQ/viewform){: target="_blank"}. And be sure to make sure you do so before Thanksgiving\!**&nbsp;Please reserve your pie of choice no later than 5 p.m. on November 18th.**
+You can place your order [<u><strong>here</strong></u>](https://docs.google.com/forms/d/e/1FAIpQLSeBjuws4qmwtK2_LIOyWex5I3GsGfNIqbj3Uen4qROocoXPJQ/viewform){: target="_blank"}. And be sure to make sure you do so before Thanksgiving\!**&nbsp;Please reserve your pie of choice no later than 5 p.m. on November 22nd.**
 
 Now, my husband Jim graciously offered to bake each and every pie himself. But, to do that, he would’ve needed to start a long time ago. That’s why we’re using a bakery.
 
