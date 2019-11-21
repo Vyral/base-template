@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rosie-hayer-pre-approval-versus-pre-qualification-youtube.jpg
-youtube_code: JsKO1jVH7Rw
+youtube_code: U291jakvo7M
 ---
 
 {% include youtube.html %}
