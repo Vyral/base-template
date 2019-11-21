@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Our Blue Tape Guarantee?
+title: What Is Our Blue Tape Guarantee?
 date: 2019-11-18 00:00:00
 tags:
   - Real Estate
@@ -30,4 +30,4 @@ Communication can be a pain point for any relationship, but especially in real e
 
 This guarantee is meant to help us stay on the ball. **If we don’t communicate with you at least once a week when working with us, we’re happy to give a portion of the commission back to you at closing if we drop the ball at all**. We’re putting our money where our mouth is.
 
-If you want to learn more about this program or if you have any real-estate related questions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you want to learn more about this program or if you have any real estate related questions, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
