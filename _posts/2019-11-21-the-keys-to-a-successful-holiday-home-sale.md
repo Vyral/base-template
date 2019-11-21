@@ -21,7 +21,7 @@ youtube_code: 5cYvqRh1oDE
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>We have five successful tips to help you sell your home during the holiday season. Learn more here.</em></p>
+*We have five successful tips to help you sell your home during the holiday season.*
 
 To successfully sell your home during the cold and often busy holiday season, here are five tips you need to keep in mind:
 
