@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   We have five successful tips to help you sell your home during the holiday
-  season. Learn more here.
+  season.
 enclosure:
 pullquote: >-
   Home sellers often ask if they should decorate their homes for the holidays if
