@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/oi1TDFP1eyA'
 
 {% include youtube.html %}
 
-What are you thankful for this Thanksgiving? At Coldwell Banker Burnett, we’re thankful for you.&nbsp;
+<p style="text-align: center;"><em>What are you thankful for this Thanksgiving? At Coldwell Banker Burnett, we’re thankful for you.</em></p>
 
 Thanksgiving is upon us, which means now is the perfect time to reflect and give thanks—and I and all of my team members at Coldwell Banker Burnett have a lot to be grateful for. We’re thankful for this year’s success, our families, and, of course, we’re extremely thankful for all of you.
 
