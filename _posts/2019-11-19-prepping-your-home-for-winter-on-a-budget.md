@@ -17,7 +17,7 @@ youtube_code: vMdR1tjKKbo
 
 {% include youtube.html %}
 
-<p style="text-align;center:"><em>Today we’re at Lowe’s to show you how you can winterize your home on a budget!</em></p>
+<p style="text-align:center;"><em>Today we’re at Lowe’s to show you how you can winterize your home on a budget!</em></p>
 
 The weather has likely permanently turned cold for our winter 2019 season, which means it’s time to check your house or condo to get it winterized for the bitter weather coming up in the next couple of months. Today we’ve come to Lowe’s with some tips to help you get it all done on a budget\!
 
