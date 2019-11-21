@@ -23,7 +23,7 @@ Fellow coffee lovers: Today’s business spotlight is for you\!&nbsp;
 
 This time, we took a peek inside Bootstrap Coffee Roasters—a wholesaler who has been brewing coffee since 2014. They just opened their retail coffee shop this past summer and have been bringing bold flavor to St. Paul ever since.
 
-According to owner Michael Svejda, the thing that sets Bootstrap Coffee apart is the care and intentionality that goes into every cup. The majority of their products are also locally sourced, so you can be sure that whatever you order during your next visit, it’s going to be as fresh as it is delicious.
+According to owner Micah Svejda, the thing that sets Bootstrap Coffee apart is the care and intentionality that goes into every cup. The majority of their products are also locally sourced, so you can be sure that whatever you order during your next visit, it’s going to be as fresh as it is delicious.
 
 {% include pullquote.html %}
 
