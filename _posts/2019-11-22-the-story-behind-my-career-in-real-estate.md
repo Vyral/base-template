@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The Story Behind My Career in Real Estate
-date: 2019-11-22 17:13:12
+date: 2019-11-22 17:13:00
 tags:
   - Real Estate
 excerpt: >-
   Today I wanted to share the story of how I got into the real estate business,
   including the lessons I learned along the way.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/The+Story+Behind+My+Career+in+Real+Estate.mp4
 pullquote: >-
   We’re always looking for more people to come into our world so that we can
   help more families, have fun, give back to the community, and live large.
