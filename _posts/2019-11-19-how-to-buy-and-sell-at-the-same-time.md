@@ -40,6 +40,5 @@ A second possible strategy is to **sell your current home first.** With this opt
 
 The bottom line is that buying and selling a home in simultaneous fashion is certainly achievable; it simply takes some pre-planning, strategizing, and of course, flexibility. We’ve helped a number of our clients successfully carry out both strategies, and based on our experience, getting home inspections and repairs out of the way early will make the process that much smoother.&nbsp;
 
-If you have any questions about buying, selling, or investing in real estate, please us a call or drop us an email. The Dailey Group is here to help you and those you care about move with confidence\!&nbsp;
+If you have any questions about buying, selling, or investing in real estate, please give us a call or drop us an email. The Dailey Group is here to help you and those you care about move with confidence\!&nbsp;
 
-{% include pullquote.html %}
