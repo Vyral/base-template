@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/iU7fst0S0aw'
 
 {% include youtube.html %}
 
-<p sty;e="text-align: center;"><em>John Town founded Christian Companion after getting burnt out on the road in his previous career. We caught up with him to discuss the impact of that decision and how his new career is helping people all over town.</em></p>
+<p style="text-align: center;"><em>John Town founded Christian Companion after getting burnt out on the road in his previous career. We caught up with him to discuss the impact of that decision and how his new career is helping people all over town.</em></p>
 
 We’re back again with another Business Highlight for our Brand Ambassador program. Today we’re meeting with John Town, the owner of Christian Companion. He has a team of 35 senior caretakers and is an incredible, faith-based business leader.
 
