@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/oi1TDFP1eyA'
 
 Thanksgiving is upon us, which means now is the perfect time to reflect and give thanks—and I and all of my team members at Coldwell Banker Burnett have a lot to be grateful for. We’re thankful for this year’s success, our families, and, of course, we’re extremely thankful for all of you.
 
-Many of you have been loyal to us for a long time, including one particular family who recently referred their 34th relative to our team for help with their real estate goals. And this kind of continued support is exactly why my team and I do what we do. It has been a privilege serving each and every one of you. &nbsp;We wouldn’t be where we are today without you.
+Many of you have been loyal to us for a long time, including one particular family who recently referred their 34th relative to our team for help with their real estate goals. This kind of continued support is exactly why my team and I do what we do. It has been a privilege serving each and every one of you. &nbsp;We wouldn’t be where we are today without you.
 
 With that said, we hope you all have a very happy Thanksgiving and an incredible holiday season.
 
