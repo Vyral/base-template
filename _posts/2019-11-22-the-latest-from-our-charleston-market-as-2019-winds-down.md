@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/rDaEc7Slr4Q'
 
 {% include youtube.html %}
 
-We’re seeing a bit of a slowdown in our market as 2019 nears its end.
+<p style="text-align: center;"><em>We’re seeing a bit of a slowdown in our market as 2019 nears its end.</em></p>
 
 What’s the latest news from our Charleston market as we near the end of 2019?
 
