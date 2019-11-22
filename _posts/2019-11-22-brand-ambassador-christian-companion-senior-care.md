@@ -5,7 +5,7 @@ date: 2019-11-22 20:47:54
 tags:
   - Brand Ambassador
 excerpt: >-
-  John Town founded Christian Companion after getting burnt out on the road in
+  John Towne founded Christian Companion after getting burnt out on the road in
   his previous career. We caught up with him to discuss the impact of that
   decision and how his new career is helping people all over town.
 enclosure: >-
@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/iU7fst0S0aw'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>John Town founded Christian Companion after getting burnt out on the road in his previous career. We caught up with him to discuss the impact of that decision and how his new career is helping people all over town.</em></p>
+<p style="text-align: center;"><em>John Towne founded Christian Companion after getting burnt out on the road in his previous career. We caught up with him to discuss the impact of that decision and how his new career is helping people all over town.</em></p>
 
-We’re back again with another Business Highlight for our Brand Ambassador program. Today we’re meeting with John Town, the owner of Christian Companion. He has a team of 35 senior caretakers and is an incredible, faith-based business leader.
+We’re back again with another Business Highlight for our Brand Ambassador program. Today we’re meeting with John Towne, the owner of Christian Companion. He has a team of 35 senior caretakers and is an incredible, faith-based business leader.
 
 **Christian Companion is an in-home, non-medical service provider for seniors.** They help with daily living assistance for their clients so that they can stay in their own homes. They’ve taken great care of some of our family members in the past.
 
