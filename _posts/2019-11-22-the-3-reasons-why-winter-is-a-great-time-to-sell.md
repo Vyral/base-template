@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Be8wT4axlXo'
 
 {% include youtube.html %}
 
-The winter months are a great time to sell your home, and there are three reasons why.
+<p style="text-align: center;"><em>The winter months are a great time to sell your home, and there are three reasons why.</em></p>
 
 If you’re thinking of selling your home, the upcoming winter months are a great time to do so, and there are three reasons why:
 
