@@ -26,9 +26,9 @@ We’re back again with another Business Highlight for our Brand Ambassador prog
 
 **Christian Companion is an in-home, non-medical service provider for seniors.** They help with daily living assistance for their clients so that they can stay in their own homes. They’ve taken great care of some of our family members in the past.
 
-**John got into the business after getting burnt out from being on the road for several hundred days a year in his previous career.** He turned to the Lord and prayer to find out what he should be doing at this stage in his life. He was too young to retire and too old to start all over, so the answer to his prayer was found through Christian Companion.
+**John got into the business after getting burnt out from being on the road for several hundred days a year in his previous career.** He turned to the Lord in prayer to find out what he should be doing at this stage in his life. He was too young to retire and too old to start all over, so the answer to his prayer was found through Christian Companion.
 
-Many small business owners have struggles that keep them up at night but John doesn’t share them. **Ever since he’s become a part of Christian Companion Senior Care, all of those things are in his rear-view mirror.** The Lord has provided him with everything he needs when he needs it.
+Many small business owners have struggles that keep them up at night, but John doesn’t share them. **Ever since he’s become a part of Christian Companion Senior Care, all of those things are in his rear-view mirror.** The Lord has provided him with everything he needs when he needs it.
 
 {% include pullquote.html %}
 
