@@ -12,7 +12,7 @@ custom_links:
   - title: Home Value Report
     url: 'http://www.808guaranteedsale.com/'
   - title: Guaranteed Rent
-    url: 'http://www.hipacificpm.com/Guaranteedrent'
+    url: 'https://www.hipacificpm.com/guaranteed-rent'
   - title: About
     url: 'http://www.hipacificpm.com/aboutus'
 client:
@@ -39,7 +39,7 @@ client:
   url: 'http://HIPacificPM.com'
 CTAs:
   first_CTA_text: Rent Your Home
-  first_CTA_URL: 'http://www.hipacificpm.com/Guaranteedrent'
+  first_CTA_URL: 'https://www.hipacificpm.com/guaranteed-rent'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.hipacificpm.com/vacancies'
   VR_form: 'http://oi.vresp.com?fid=bc9bd80877'
