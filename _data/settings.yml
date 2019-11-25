@@ -51,7 +51,7 @@ sidebar_CTA:
       agreement, we will also guarantee that the tenant will pay the agreed upon
       rent for a minimum of 6 months.
     CTA_link_text: Rent Out Your Home
-    CTA_url: 'http://www.hipacificpm.com/Guaranteedrent'
+    CTA_url: 'https://www.hipacificpm.com/guaranteed-rent'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Have a Question about the Guaranteed Rent Program?
