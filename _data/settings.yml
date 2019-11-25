@@ -57,7 +57,7 @@ second_sidebar_CTA:
     CTA_title2: Have a Question about the Guaranteed Rent Program?
     CTA_text2: Check out these FAQ's from our Clients
     CTA_link_text2: Frequently Asked Questions
-    CTA_url2: 'http://www.hipacificpm.com/faqs'
+    CTA_url2: 'https://www.hipacificpm.com/guaranteed-rent-faq'
 lender:
   show_section: false
   header_text: Preferred Lender
