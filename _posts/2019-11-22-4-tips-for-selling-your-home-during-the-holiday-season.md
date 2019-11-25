@@ -3,7 +3,7 @@ layout: post
 title: 4 Tips for Selling Your Home During the Holiday Season
 tags:
   - Home Seller Tips
-date: 2019-11-22 20:47:26
+date: 2019-11-22 20:47:00
 excerpt: >-
   Here are a few key pieces of advice about selling your home during the
   holidays.
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/option-1-.jpg
+youtube_alternate_image: /uploads/chris-gorman-my-advice-for-holiday-home-sellers-youtube.jpg
 youtube_code: 'https://youtu.be/fj61Hio3Cpw'
 ---
 
