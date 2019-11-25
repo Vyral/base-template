@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Thanksgiving From Tim Majka
-date: 2019-11-21 19:41:15
+date: 2019-11-21 19:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,6 @@ youtube_code: Yfm13WGFgyg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>As we approach Thanksgiving, I wanted to send a quick message out to all of you, thanking you for all of your support over the years.</em></p>
+*As we approach Thanksgiving, I wanted to send a quick message out to all of you, thanking you for all of your support over the years.*
 
-Today I just wanted to reach out and wish you all a happy Thanksgiving. We’re very thankful for all the blessings and the success we’ve had over the years. We’re also thankful for the opportunity to help so many wonderful families out there buy, sell, and invest in real estate. I also wanted to thank everyone who showed up for our recent Pumpkin Pie Giveaway. It was great to catch up with you. To see my full Thanksgiving message, watch this short video.
-
+Today I just wanted to reach out and wish you all a happy Thanksgiving. We’re very thankful for all the blessings and the success we’ve had over the years. We’re also thankful for the opportunity to help so many wonderful families out there buy, sell, and invest in real estate. I also wanted to thank everyone who showed up for our recent Pumpkin Pie Giveaway. It was great to catch up with you. If you have any questions about real estate or would like to discuss your goals, feel free to give me or my team a call or send us an email. We look forward to hearing from you soon.
