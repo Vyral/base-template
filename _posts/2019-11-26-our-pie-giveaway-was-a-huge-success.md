@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Our Pie Giveaway Was a Huge Success
-date: 2019-11-26 22:56:20
+date: 2019-11-26 22:56:00
 tags:
 excerpt: >-
   We’d like to take a moment to express our gratitude to all of you this
   Thanksgiving.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Our+Pie+Giveaway+Was+a+Huge+Success.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
