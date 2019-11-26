@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/plM-THXccVM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Once you’re under contract for a home, there are three mistakes you must avoid as a homebuyer.</em></p>
+
 When you buy a property, your mortgage company has to pre-qualify you for financing, which means at the beginning of the transaction they’ll check your credit and employment to ensure you can afford your mortgage payments. What most people don’t know, though, is that they do the same thing again shortly before the deal closes—they’ll run your credit and call your employer.
 
 {% include pullquote.html %}
