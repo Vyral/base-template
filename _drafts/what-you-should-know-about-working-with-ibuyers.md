@@ -19,7 +19,9 @@ youtube_code: fzbtghH0128
 
 {% include youtube.html %}
 
-These days, “iBuyer” has become a hot-button word in our real estate market. What are iBuyers, though, and should you work with one?
+<center><em>What is an iBuyer? And is working with one a good idea?</em></center>
+
+<br>These days, “iBuyer” has become a hot-button word in our real estate market. What are iBuyers, though, and should you work with one?
 
 Before we get into whether selling to such an entity is a good idea, let’s first clear up what they are.
 
