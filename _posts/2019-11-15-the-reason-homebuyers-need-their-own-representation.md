@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Reason Homebuyers Need Their Own Representation
-date: 2019-11-15 21:01:26
+date: 2019-11-15 21:01:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BPHLnqSHy2E
+youtube_code: b-Qd5lpvCs4
 ---
 
 {% include youtube.html %}
