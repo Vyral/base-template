@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Make These 3 Major Mistakes When Buying a Home
-date: 2019-11-26 20:07:14
+date: 2019-11-26 20:07:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -25,7 +25,7 @@ When you buy a property, your mortgage company has to pre-qualify you for financ
 
 {% include pullquote.html %}
 
-This means from the beginning of the transaction all the way to closing, there are three major mistakes you need to avoid so as not to jeopardize your home buying position:
+This means from the beginning of the transaction all the way to closing, **there are three major mistakes you need to avoid so as not to jeopardize your home buying position:**
 
 **1\. Quit your job.** Quitting your job, or changing jobs, will create a huge problem.&nbsp;
 
