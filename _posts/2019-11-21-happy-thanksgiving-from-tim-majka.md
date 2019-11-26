@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy Thanksgiving From Tim Majka
-date: 2019-11-21 19:41:00
+date: 2019-11-27 00:00:00
 tags:
   - Real Estate
 excerpt: >-
