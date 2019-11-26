@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Pie Giveaway Was a Huge Success
-date:
+date: 2019-11-26 22:56:20
 tags:
 excerpt: >-
   We’d like to take a moment to express our gratitude to all of you this
