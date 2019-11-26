@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Different Types of Appraisals
-date: 2019-11-22 20:06:09
+date: 2019-11-22 20:06:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -26,7 +26,7 @@ As a homeowner, here are the four different types of appraisals you need to be a
 
 **1\. Purchase appraisal.** With these appraisals, licensed appraisers determine your home’s value in the same way a Realtor gives you a comparative market analysis. In other words, they base their appraisal on comparable sold properties in your neighborhood that were “arm’s length” transactions. By “arm’s length” transaction, I mean a sale that didn’t take place between two family members.&nbsp;
 
-**2\. Refinance appraisal.** These are based primarily on your good credit. Many refinances don’t require an appraisal, but if they do, appraisers take the priciest comparable homes into consideration homes so the mortgage company shows that you have more equity in your home.
+**2\. Refinance appraisal.** These are based primarily on your good credit. Many refinances don’t require an appraisal, but if they do, appraisers take the priciest comparable homes into consideration so the mortgage company shows that you have more equity in your home.
 
 {% include pullquote.html %}&nbsp;
 
