@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Real Estate Market Update for You
-date:
+date: 2019-11-26 22:08:08
 tags:
   - Market Update
 excerpt: >-
