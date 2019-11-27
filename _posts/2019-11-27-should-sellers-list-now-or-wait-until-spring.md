@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/8cdmfhrpnCY'
 
 {% include youtube.html %}
 
-If you’re thinking of waiting until spring to list, the statistics say this is a bad idea.
+<p style="text-align: center;"><em>If you’re thinking of waiting until spring to list, the statistics say this is a bad idea.</em></p>
 
 Before I delve into your November market report, I want to say I hope you had a great Thanksgiving. This is the time of year that we reflect on the things we are grateful for, and my team and I are grateful for you.&nbsp;
 
