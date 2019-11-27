@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-my-advice-for-holiday-home-sellers-youtube.jpg
-youtube_code: 'https://youtu.be/fj61Hio3Cpw'
+youtube_code: 'https://youtu.be/aHJ2uEr3pbU'
 ---
 
 {% include youtube.html %}&nbsp;
