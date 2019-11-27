@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Year-End Clarksville Market Update
-date: 2019-11-26 15:22:21
+date: 2019-11-26 15:22:00
 tags:
   - Market Update
 excerpt: >-
@@ -29,7 +29,7 @@ Right now, we have about 890 homes for sale on the market. That’s down from th
 
 The average sale price here in Clarksville is up to $209,500, up about 8% from what we had at this time last year. It’s a great time for sellers to be on the market. **This doesn’t mean that buyers can’t win too, but you need to be an informed buyer.** We’d be happy to help you get there.
 
-The hottest price range is between $150,000 and $200,000. That’s almost 29% of our market, but there are only 89 homes for sale right now in this price range. The $100,000 to $150,000 and the $200,000 to $250,000 are still doing great as well. **If homes in any of these price ranges are prepared and priced properly, they are selling very quickly.**
+The hottest price range is between $150,000 and $200,000. That’s almost 29% of our market, but there are only 89 homes for sale right now in this price range. The $100,000 to $150,000 and the $200,000 to $250,000 price ranges are still doing great as well. **If homes in any of these price ranges are prepared and priced properly, they are selling very quickly.**
 
 Before I go, I wanted to remind you about our upcoming client event on Saturday, December 14 at 8:00 a.m. at Regal Clarksville Cinema. **It’s first come, first serve, so make sure you send in your RSVP to [umeka@valeriehunterkelly.com](mailto:umeka@valeriehunterkelly.com) if you haven’t already\!**
 
