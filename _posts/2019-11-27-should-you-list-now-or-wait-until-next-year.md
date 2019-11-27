@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/_1AK8CcOsyY'
 
 {% include youtube.html %}
 
-If you’ve been thinking of selling but are worried that you should wait until the new year, today’s message is for you.
+<p style="text-align: center;"><em>If you’ve been thinking of selling but are worried that you should wait until the new year, today’s message is for you.</em></p>
 
 The holiday season is often discounted as a poor time to sell a home, but is this true? Actually, there are many advantages to listing at this time of year.&nbsp;
 
