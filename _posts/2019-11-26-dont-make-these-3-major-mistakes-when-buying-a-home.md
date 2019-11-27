@@ -29,10 +29,10 @@ When you buy a property, your mortgage company has to pre-qualify you for financ
 
 This means from the beginning of the transaction all the way to closing, **there are three major mistakes you need to avoid so as not to jeopardize your home buying position:**
 
-**1\. Quit your job.** Quitting your job, or changing jobs, will create a huge problem.&nbsp;
+**1\. Quitting your job.** Quitting your job, or changing jobs, will create a huge problem.&nbsp;
 
-**2\. Make any major purchases using financing.** Don’t buy a new car or any new furniture, because getting new loans will reduce your credit score and add extra expenses that might prevent you from qualifying for financing.&nbsp;
+**2\. Making any major purchases using financing.** Don’t buy a new car or any new furniture, because getting new loans will reduce your credit score and add extra expenses that might prevent you from qualifying for financing.&nbsp;
 
-**3\. Apply for new credit cards or close current credit cards.** This is another thing that will reduce your credit score and possibly prevent you from qualifying for financing.&nbsp;
+**3\. Applying for new credit cards or close current credit cards.** This is another thing that will reduce your credit score and possibly prevent you from qualifying for financing.&nbsp;
 
 If you have any questions about this or any other aspect of the home buying process, don’t hesitate to reach out to me. I’d be happy to help you.
