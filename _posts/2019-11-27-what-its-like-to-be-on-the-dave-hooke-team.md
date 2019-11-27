@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/atcds_-YoBM'
 
 {% include youtube.html %}
 
-What’s it like to be part of the Dave Hooke Team? Check out what one of our team members has to say in today’s agent spotlight.
+<p style="text-align: center;"><em>What’s it like to be part of the Dave Hooke Team? Check out what one of our team members has to say in today’s agent spotlight.</em></p>
 
 The Dave Hooke Team is made up of real estate professionals who are truly second-to-none in our industry. I’m so proud of the people I work with, in fact, that today I’d like to introduce you to yet another great member of my team: Andrew Johnson.&nbsp;
 
