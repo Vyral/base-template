@@ -18,7 +18,7 @@ youtube_code: ZkR7MHauD2E
 
 {% include youtube.html %}
 
-Here are a couple important things to know about the loan buying process.
+<p style="text-align:center;"><em>Here are a couple important things to know about the loan buying process.</em></p>
 
 If you’re going through the loan buying process, there are a couple of things you should know.&nbsp;
 
