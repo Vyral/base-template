@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Bad communication ruins relationships and real estate transactions. Here’s our
   communication guarantee to you at Atlas Premier Realty.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/What+is+Our+Blue+Tape+Guarantee_.mp4
 pullquote: This guarantee is meant to help us stay on the ball.
 enclosure_type: video/mp4
 enclosure_time:
