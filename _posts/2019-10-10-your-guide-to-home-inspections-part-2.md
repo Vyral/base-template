@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Guide To Home Inspections Part 2
-date: 2019-12-02 21:41:00
+date: 2019-10-10 21:41:00
 tags:
 excerpt: >-
   In today’s installment into our “All Things Home Inspection” series, we’ll
