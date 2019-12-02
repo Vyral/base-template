@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Our agents make sure your home gets the attention it deserves, and here’s how
   we do it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/my_strategic_marketing_Email.jpg
 pullquote: >-
   By providing better flyers, we showcase your home and display all the great
   features inside.
