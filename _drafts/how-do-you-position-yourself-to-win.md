@@ -19,7 +19,9 @@ youtube_code: Dip2FIcfYmk
 
 {% include youtube.html %}
 
-As we head toward the end of the year, how do you position yourself so you can win? I enjoy getting excellent deals. I’m sure you do too. **So how can someone win in today’s market?**
+<center><em>We’re sharing the major ways you can win in the real estate market right now!</em></center>
+
+<br>As we head toward the end of the year, how do you position yourself so you can win? I enjoy getting excellent deals. I’m sure you do too. **So how can someone win in today’s market?**
 
 First of all, don’t be scared. The holidays are coming up and it’s a stressful time for everyone with all the running around. However, there’s so much opportunity out there, especially when you’re looking at buying a new construction home. Those builders are giving incentives away like crazy because they want to close by the end of the year.
 
