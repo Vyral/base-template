@@ -5,7 +5,7 @@ date: 2019-11-26 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: What is an iBuyer? And is working with one a good idea?
+excerpt: What is an iBuyer? Is working with one a good idea?
 enclosure:
 pullquote: >-
   Whatever your real estate goals, our team would be happy to have a
@@ -19,7 +19,7 @@ youtube_code: fzbtghH0128
 
 {% include youtube.html %}
 
-<center><em>What is an iBuyer? And is working with one a good idea?</em></center>
+<center><em>What is an iBuyer? Is working with one a good idea?</em></center>
 
 <br>These days, “iBuyer” has become a hot-button word in our real estate market. What are iBuyers, though, and should you work with one?
 
@@ -31,7 +31,7 @@ So, with that out of the way, should you work with an iBuyer? The answer depends
 
 {% include pullquote.html %}
 
-This is why our team lets every seller we work with aware of this option. Even if you don’t want to go the traditional home selling route, our team would still be happy to help connect you with an iBuyer and guide you to getting the best possible offer from them. Sellers who partner with an agent or team of agents when selling to an iBuyer tend to walk away with much more in their pocket than those who strike up this kind of deal on their own. **The best part is that working with an agent to achieve such a sale won’t cost you a thing**.
+This is why our team lets every seller we work with know about this option. Even if you don’t want to go the traditional home selling route, our team would still be happy to help connect you with an iBuyer and guide you to getting the best possible offer from them. Sellers who partner with an agent or team of agents when selling to an iBuyer tend to walk away with much more in their pocket than those who strike up this kind of deal on their own. **The best part is that working with an agent to achieve such a sale won’t cost you a thing**.
 
 Whatever your real estate goals, our team would be happy to have a conversation about what’s right for you.
 
