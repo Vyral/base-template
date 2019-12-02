@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We Headed Into a Recession?
-date: 2019-12-02 17:38:46
+date: 2019-12-02 17:38:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: zKfdW2RBrG8
 
 A topic that has gotten a lot of attention recently is: Are we headed into a recession? More importantly, will a recession impact our housing market? Today I’ll answer these critical questions and try to ease some of the anxiety people are experiencing about the potential upcoming recession. Just a heads up: There’s no reason to be as fearful as some people are about our market.&nbsp;
 
-Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
 0:00: Introduction to today’s topic.
 
