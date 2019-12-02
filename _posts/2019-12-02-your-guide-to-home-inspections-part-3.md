@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Your Guide To Home Inspections Part 3
-date: 2019-12-02 21:42:52
+date: 2019-12-02 21:42:00
 tags:
-excerpt:
+excerpt: >-
+  In part three of my “All Things Home Inspection” series, Michael Amendola
+  shows you what one of his home inspections would look like.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
