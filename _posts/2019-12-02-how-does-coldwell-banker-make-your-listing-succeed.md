@@ -20,7 +20,7 @@ youtube_code: 4uH0yPs_2es
 
 {% include youtube.html %}
 
-Our agents make sure your home gets the attention it deserves, and here’s how we do it.
+<p style="text-align:center;"><em>Our agents make sure your home gets the attention it deserves, and here’s how we do it.</em></p>
 
 Real estate agents at Coldwell Banker like to do things differently.&nbsp;
 
