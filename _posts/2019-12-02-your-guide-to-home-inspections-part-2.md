@@ -1,9 +1,12 @@
 ---
 layout: post
 title: Your Guide To Home Inspections Part 2
-date: 2019-12-02 21:41:20
+date: 2019-12-02 21:41:00
 tags:
-excerpt:
+excerpt: >-
+  In today’s installment into our “All Things Home Inspection” series, we’ll
+  talk about a few more points all homeowners and sellers should consider in
+  regards to the home inspection process.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
