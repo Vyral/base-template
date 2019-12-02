@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/SQte_Oin-j0'
 
 {% include youtube.html %}
 
-There’s one important change that’s taken place in real estate in the last 15 years that impacts agents and buyers.
+<p style="text-align: center;"><em>There’s one important change that’s taken place in real estate in the last 15 years that impacts agents and buyers.</em></p>
 
 How has real estate changed in the past 15 years?
 
