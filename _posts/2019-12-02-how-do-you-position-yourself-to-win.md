@@ -5,8 +5,8 @@ date: 2019-12-02 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt:
-enclosure: We’re sharing the major ways you can win in the real estate market right now!
+excerpt: We’re sharing the major ways you can win in the real estate market right now!
+enclosure:
 pullquote: >-
   Many people are dismissing the fact that we have wildly low interest rates
   right now.
@@ -19,7 +19,7 @@ youtube_code: Dip2FIcfYmk
 
 {% include youtube.html %}
 
-<center><em>We’re sharing the major ways you can win in the real estate market right now!</em></center>
+<center><em>We&rsquo;re sharing the major ways you can win in the real estate market right now!</em></center>
 
 <br>As we head toward the end of the year, how do you position yourself so you can win? I enjoy getting excellent deals. I’m sure you do too. **So how can someone win in today’s market?**
 
