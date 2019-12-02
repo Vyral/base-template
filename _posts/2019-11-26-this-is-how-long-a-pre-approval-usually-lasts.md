@@ -20,15 +20,13 @@ youtube_code: T93hCpM58DI
 
 If you're hoping to buy a home, it’s smart to ponder the question, “How long does a pre-approval last?” Even after you’ve received a lender’s stamp of approval for your financing, weeks or even months could pass before you actually buy a house. Will that pre-approval you receive still be valid by then?
 
-**&nbsp;**
-
 **Since lenders realize that buying a house does take time, pre-approval dates have a shelf life, but not a definite one.** While the length of time varies, in general, a pre-approval is good for about three months. Here’s what homebuyers need to know to make the most out of this time frame, and what to do if your pre-approval is at risk of running out before you buy a home.&nbsp;
 
 The first step to buying a home should be to prove that you have the financial means to do so through a pre-approval. **This is a process through which a mortgage professional examines a loan application to determine whether a potential buyer will qualify for a mortgage.&nbsp;**
 
 {% include pullquote.html %}
 
-To obtain a pre-approval, buyers need to provide a mortgage lender with information like their employment history, credit score, income, and debts. During this process, the lender will want to see bank statements, paystubs, and tax returns. **It can feel invasive, but lenders are looking to protect their interests by not loaning money to someone who could be considered “high-risk.”**
+To obtain a pre-approval, buyers need to provide a mortgage lender with information like their employment history, credit score, income, and debts. During this process, the lender will want to see bank statements, pay stubs, and tax returns. **It can feel invasive, but lenders are looking to protect their interests by not loaning money to someone who could be considered “high-risk.”**
 
 These are people who have high, outstanding debts, inconsistent income, or a history of late payments. Once a lender reviews your finances, they will give you a pre-approval letter, detailing a good-faith willingness to extend mortgage financing based on its preliminary examinations of your assets, income stream, and creditworthiness. **This letter will also detail the actual loan amount that you qualify for.&nbsp;**
 
