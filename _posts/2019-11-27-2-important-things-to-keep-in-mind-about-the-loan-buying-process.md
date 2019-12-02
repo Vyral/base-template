@@ -4,7 +4,7 @@ title: 2 Important Things to Keep in Mind About the Loan Buying Process
 date: 2019-11-27 21:54:39
 tags:
   - Home Buyer Tips
-excerpt: Here are a couple important things to know about the loan buying process.
+excerpt: Here are a couple of important things to know about the loan buying process.
 enclosure:
 pullquote: >-
   Buying a home is an emotional process in general, and it can be mentally
@@ -18,7 +18,7 @@ youtube_code: ZkR7MHauD2E
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here are a couple important things to know about the loan buying process.</em></p>
+<p style="text-align:center;"><em>Here are a couple of important things to know about the loan buying process.</em></p>
 
 If you’re going through the loan buying process, there are a couple of things you should know.&nbsp;
 
