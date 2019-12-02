@@ -37,7 +37,7 @@ If you assume that more listings equals more buyers, the next slide at 3:07 show
 
 {% include pullquote.html %}
 
-**So whether you’re thinking about upgrading or downsizing, don’t get caught in the crowded spring market.** Take advantage of where our market is at now. If you still plan on selling in 2020, then now is the time to start preparing. I call this “advanced real estate planning,” and as your real estate planner, I believe it’s important to start earlier than you think.&nbsp;
+**So whether you’re thinking about upgrading or downsizing, don’t get caught in the crowded spring market.** Take advantage of where our market is now. If you still plan on selling in 2020, then now is the time to start preparing. I call this “advanced real estate planning,” and as your real estate planner, I believe it’s important to start earlier than you think.&nbsp;
 
 To learn about all of my home selling strategies, and get a free copy of my book “How to Fight the Home Selling Sharks,” be sure to register for my next home selling seminar on Saturday, January 18, 2020 at the Fort Washington Garden Inn at 9:30 a.m. To find out more, visit homesharkseminar.com or call (215) 576-8666.&nbsp;
 
