@@ -22,7 +22,7 @@ youtube_code: ZkR7MHauD2E
 
 If you’re going through the loan buying process, there are a couple of things you should know.&nbsp;
 
-First, I know the emotional aspect of buying a loan is both intriguing and frustrating—I have a couple of family members who are buying homes right now, and I buy homes on a general basis. It can feel like you’re being poked and prodded throughout the process because banks want to know as much about you as they can before they lend you money.&nbsp;
+First, I know the emotional aspect of buying a loan is both intriguing and frustrating—I have a couple of family members who are buying homes right now, and I buy homes occasionally. It can feel like you’re being poked and prodded throughout the process because banks want to know as much about you as they can before they lend you money.&nbsp;
 
 It’s important to remember that **you’re not being poked and prodded anymore than usual—it’s just part of the process.** Buying a home is an emotional process in general, and it can be mentally taxing, so I know what you’re going through, and I’d be happy to answer any questions you have about your specific situation.&nbsp;
 
