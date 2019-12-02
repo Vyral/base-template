@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Was Your Loan Rejected Right Before Closing?
-date: 2019-12-02 22:34:57
+date: 2019-12-02 22:34:00
 tags:
+  - Home Buyer Tips
 excerpt: >-
   How can you prevent your home loan from being rejected right before you close?
   Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601)
@@ -13,8 +14,8 @@ pullquote: >-
   and provide the documentation to them as soon as possible.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/rosie-hayer-how-loans-sometimes-get-rejected-youtube.jpg
 youtube_code:
 ---
 
