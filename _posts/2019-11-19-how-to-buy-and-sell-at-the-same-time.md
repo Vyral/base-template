@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Buy and Sell at the Same Time
-date: 2019-11-19 17:07:42
+date: 2019-11-19 17:07:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -22,11 +22,11 @@ youtube_code: 5dC_zbj5BE0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How can you successfully sell your home and buy another at the same time? Today I’ll present both options.</em></p>
+*How can you successfully sell your home and buy another at the same time? Today I’ll present both options.*
 
 If you’re selling your current home and you want your sale to line up perfectly with your purchase of a new home, there are a few ways to go about it: You can either buy first and then sell or you can sell first and then buy.&nbsp;
 
-No matter which path you take, **it’s imperative that you review your finances first.** Once you’re pre-qualified or even pre-approved with a lender, you’ll have a better understanding of how much home you can afford. We’ll also need to decide on a price for your home, so we can determine your equity and how much you can feasibly put toward your down payment.&nbsp;
+No matter which path you take, **it’s imperative that you review your finances first.** Once you’re pre-qualified, or even pre-approved with a lender, you’ll have a better understanding of how much home you can afford. We’ll also need to decide on a price for your home, so we can determine your equity and how much you can feasibly put toward your down payment.&nbsp;
 
 Here are two strategies for buying and selling a home all at once:&nbsp;
 
@@ -40,5 +40,4 @@ A second possible strategy is to **sell your current home first.** With this opt
 
 The bottom line is that buying and selling a home in simultaneous fashion is certainly achievable; it simply takes some pre-planning, strategizing, and of course, flexibility. We’ve helped a number of our clients successfully carry out both strategies, and based on our experience, getting home inspections and repairs out of the way early will make the process that much smoother.&nbsp;
 
-If you have any questions about buying, selling, or investing in real estate, please give us a call or drop us an email. The Dailey Group is here to help you and those you care about move with confidence\!&nbsp;
-
+If you have any questions about buying, selling, or investing in real estate, please give give us a call or drop us an email. The Dailey Group is here to help you and those you care about move with confidence\!&nbsp;
