@@ -22,7 +22,7 @@ youtube_code: xOQ5xHCXJOQ
 
 {% include youtube.html %}
 
-Your mortgage lender will not only be with you every step of the way in the buying process, but long after as well. Find out why in today’s message.&nbsp;
+<p style="text-align:center;"><em>Your mortgage lender will not only be with you every step of the way in the buying process, but long after as well. Find out why in today’s message.</em></p>
 
 When I’m working with a buyer and we’re able to close on their new home, they almost always ask, “What happens now?” They often think this is the end of the line, but in reality, the closing only marks the start of our relationship.&nbsp;
 
