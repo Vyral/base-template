@@ -29,7 +29,7 @@ Still, the question remains: **Should you sell your home now or wait until next 
 
 There are a few things to keep in mind as you make this decision.&nbsp;
 
-If you choose to list now, you’ll be able to enjoy the decreased competition that is typical of the winter months. Fewer home sellers put their homes up on the market at this time of year, which means **those who do have the unique advantage of standing out from among relatively few options.** This creates higher demand for your home and since buyers are more serious at this time of year, leaves you with a good chance of earning top dollar.
+If you choose to list now, you’ll be able to enjoy the decreased competition that is typical of the winter months. Fewer home sellers put their homes up on the market at this time of year, which means **those who do have the unique advantage of standing out from among relatively few options.** This creates a higher demand for your home and&#151;since buyers are more serious at this time of year&#151;leaves you with a good chance of earning top dollar.
 
 {% include pullquote.html %}
 
