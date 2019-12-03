@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why We Conduct Annual Mortgage Reviews With Our Clients
-date:
+date: 2019-12-03 19:47:21
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -14,8 +14,9 @@ pullquote: >-
   you’re tied to is appropriate for your needs at the present time.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: >-
+  /uploads/wade---what-is-an-annual-mortgage-review-and-why-is-it-important-youtube.jpg
 youtube_code: xOQ5xHCXJOQ
 ---
 
