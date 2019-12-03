@@ -31,7 +31,7 @@ Fast forward 15 years later, things have changed for better and for worse. First
 
 {% include pullquote.html %}
 
-Now, all information is available online, including sales history, pictures, etc. The agent is no longer the gatekeeper of information. **Our position has changed to more of an advisory role.** If you’re a buyer, you’re the one who will likely find your next home. You’re able to look at the same online database that we can, and your preferences will be influenced by the pictures of the homes you look at. If one of them meets your criteria, you’ll likely decide within three to five seconds after looking at a couple of photos whether you want to see that home in person.&nbsp;
+Now, all information is available online, including sales history, pictures, etc. The agent is no longer the gatekeeper of information. **Our position has changed to more of an advisory role.** If you’re a buyer, you’re the one who will likely find your next home. You’re able to look at the same online database that we can, and your preferences will be influenced by the pictures of the homes you view. If one of them meets your criteria, you’ll likely decide within three to five seconds after looking at a couple of photos whether you want to see that home in person.&nbsp;
 
 Throw in tools like Google Maps (or Portland Maps) and Walksquare.com and you can learn all about a home’s surrounding area—where the amenities are, what the tax records look like, etc.&nbsp;
 
