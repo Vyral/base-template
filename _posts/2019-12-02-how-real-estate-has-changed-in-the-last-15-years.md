@@ -8,7 +8,7 @@ excerpt: >-
   There’s one important change that’s taken place in real estate in the last 15
   years that impacts agents and buyers.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/Portland+Real+Estate+Agent-+How+Real+Estate+Has+Changed.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2019/Portland+Real+Estate+Agent-+Changes+New.mp4
 pullquote: >-
   About 1% of a real estate transaction is finding the home—the other 99% is
   managing the process to a successful close.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/SQte_Oin-j0'
+youtube_code: 'https://youtu.be/kbxGG4sdvio'
 ---
 
 {% include youtube.html %}
