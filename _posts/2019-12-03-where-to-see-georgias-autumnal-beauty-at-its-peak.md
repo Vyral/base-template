@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where to See Georgia’s Autumnal Beauty at Its Peak
-date: 2019-12-03 23:05:19
+date: 2019-12-03 23:05:00
 tags:
   - Real Estate
 excerpt: >-
@@ -33,6 +33,6 @@ If glimpsing the vibrant colors of the changing seasons is a pastime of yours, h
 * [Tallulah Gorge State Park](https://www.atlantatrails.com/tallulah-gorge-state-park/){: target="_blank"}
 * [Piedmont Park](https://www.piedmontpark.org/){: target="_blank"}
 
-If you happen to travel out to see some of these wondrous, scenic spots, **please take some photos and tag us in them on Facebook or Instagram\!** We would love to see you out there enjoying these natural wonders of Georgia. Remember: Living here in Woodstock and Cherokee Country, you’re just a stone’s throw away from some of the greatest places to visit if you’re interested in the outdoors and the beauty of the changing seasons.
+If you happen to travel out to see some of these wondrous, scenic spots, **please take some photos and tag us in them on [Facebook](https://www.facebook.com/TeamUrsulaRealEstate){: target="_blank"} or [Instagram](https://www.instagram.com/ursulaandassociates/){: target="_blank"}\!** We would love to see you out there enjoying these natural wonders of Georgia. Remember: Living here in Woodstock and Cherokee Country, you’re just a stone’s throw away from some of the greatest places to visit if you’re interested in the outdoors and the beauty of the changing seasons.
 
 As always, if you have any questions about real estate, don’t hesitate to reach out to us. We’d love to help you. In the meantime, have a safe and fun holiday season\!
