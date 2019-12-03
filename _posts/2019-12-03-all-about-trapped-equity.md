@@ -17,7 +17,7 @@ youtube_code: KIno64eubUs
 
 {% include youtube.html %}
 
-What is trapped equity and why might it be holding you back? Let’s discuss.
+<p style="text-align:center;"><em>What is trapped equity and why might it be holding you back? Let’s discuss.</em></p>
 
 While the amount of equity you’ve got built up in your property might contribute to your overall net worth, it doesn’t actively make you money. **This is where the concept of “trapped equity” comes into play.&nbsp;**
 
