@@ -8,13 +8,13 @@ excerpt: >-
   As a property owner, it’s important for your tenants to have renters
   insurance. Here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/Why+Renters+Insurance+Benefits+Tenants+and+Property+Owners.mp4
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/Why+Renters+Insurance+Benefits+Tenants+and+Property+Owners+(1).mp4
 pullquote: Getting renters insurance from tenants keeps money in your account.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/reninyt-1.jpg
-youtube_code: Zm1j44qENsA
+youtube_code: p13bg-XszPQ
 ---
 
 {% include youtube.html %}
