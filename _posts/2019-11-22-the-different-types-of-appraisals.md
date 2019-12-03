@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/becky-ivins-screenshot-the-4-different-types-of-appraisals-youtube.jpg
-youtube_code: 'https://youtu.be/-rauNx-h_dc'
+youtube_code: 'https://www.youtube.com/watch?v=k0y6j_6I4X8&feature=youtu.be'
 ---
 
 {% include youtube.html %}&nbsp;
