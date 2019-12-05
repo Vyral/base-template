@@ -30,7 +30,7 @@ At my listings, I provide large, full-color flyers for interested buyers to take
 
 {% include pullquote.html %}
 
-**On top of this, we even create a website specifically for your home\!** Passersby can simply pull out their phone and go to the website to see pictures, take virtual tours, and much more.
+**On top of this, we even create a website specifically for your home\!** Passersby can simply pull out their phones and go to the website to see pictures, take virtual tours, and much more.
 
 By choosing an agent with Coldwell Banker, you know your home listing will stand out from the crowd. If you’re looking to sell a home or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
 
