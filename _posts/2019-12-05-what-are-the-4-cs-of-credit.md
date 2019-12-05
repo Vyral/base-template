@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the “4 C’s” of Credit?
-date: 2019-12-05 16:36:13
+date: 2019-12-05 16:36:00
 tags:
 excerpt: >-
   In order to get approved for a home loan, your credit needs to be examined.
@@ -21,13 +21,13 @@ youtube_code: lvUiShcJXgM
 
 &nbsp;
 
-Today we are discussing the 4 C's of credit. These are the four main things that lenders use to evaluate your creditworthiness as a homebuyer:
+Today we are discussing the "4 C's" of credit. These are the four main things that lenders use to evaluate your creditworthiness as a homebuyer:
 
 **1\. Credit history.** Do you know your credit score?
 
-**2\. Capacity to repay the loan.** Have you been employed for more than two years or been self-employed for two years?
-
 {% include pullquote.html %}
+
+**2\. Capacity to repay the loan.** Have you been employed for more than two years or self-employed for two years?
 
 **3\. Cash asset.** Do you have reserves in the bank for a down payment? Say you have a home that costs $100,000 and the minimum down payment is 3.5%. This means that you need to have at least $3,500 in the bank as reserves.
 
