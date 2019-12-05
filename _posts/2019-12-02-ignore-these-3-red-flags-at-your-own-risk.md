@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ignore These 3 Red Flags at Your Own Risk!
-date: 2019-12-02 21:19:36
+date: 2019-12-02 21:19:00
 tags:
   - Real Estate
 excerpt: 'If you notice any of these three red flags in your home, don’t ignore them.'
@@ -20,7 +20,7 @@ youtube_code: Kb-RylLnYos
 
 {% include youtube.html %}
 
-Many of us walk by the warning signs our home is giving us each and every day without a second thought, simply because we’ve become used to them. However, continuing to ignore what may seem like a minor issue can quickly leave you dealing with a major (and likely very expensive) problem. To help make sure this doesn’t happen to you, we’ve compiled a list of the three most common red flags homeowners often (but shouldn’t) ignore:
+Many of us walk by the warning signs our home is giving us every day without a second thought, simply because we’ve become used to them. However, continuing to ignore what may seem like a minor issue can quickly leave you dealing with a major (and likely very expensive) problem. To help make sure this doesn’t happen to you, we’ve compiled a list of the three most common red flags homeowners often (but shouldn’t) ignore:
 
 **1\. An old water heater.** Most water heaters here in Memphis are located in the attic, and leaking water will always follow the flow of gravity. Old water heaters aren’t just more likely to stop working altogether, they’re also more likely to spring a leak and create water damage in your home. If the unit in your property has seen better days, it’s time to get it replaced—or at least serviced. A heater with a rusty bottom is almost always near the end of its life. If you suspect your unit is at the beginning of the end, you may want to install a pan alarm or an automatic shut-off valve—both of which are available at most hardware stores.&nbsp;
 
