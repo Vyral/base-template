@@ -34,6 +34,6 @@ During these calls, clients ask about all sorts of supplemental options. Some ar
 
 Upon review, we might find that your homeowners insurance is exorbitantly high, and in that case, we can point you in the right direction for a second opinion. The same goes for your property taxes: If you feel that they’re unjustly high, we can discuss this further and work with you to protest it during the next available window.&nbsp;
 
-If you or someone you know would like to go through this exercise, **please visit [TheBetzTeamAnnualMortgageReview.com](https://thebetzteam.secure.force.com/aboutyou/MortgageReview.com){: target="_blank"} and complete our short questionnaire.** From there, I’ll reach out to you and we can get the conversation started.
+If you or someone you know would like to go through this exercise, **please visit [TheBetzTeamAnnualMortgageReview.com](https://thebetzteam.secure.force.com/aboutyou/MortgageReview){: target="_blank"} and complete our short questionnaire.** From there, I’ll reach out to you and we can get the conversation started.
 
 If you have any further questions or would like more information, please don’t hesitate to reach out to us. We want to be your lender for life, and going through an annual mortgage review with you helps us ensure that your needs are being met at every stage of homeownership.&nbsp;
