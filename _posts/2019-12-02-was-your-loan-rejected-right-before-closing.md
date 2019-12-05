@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rosie-hayer-how-loans-sometimes-get-rejected-youtube.jpg
-youtube_code:
+youtube_code: mok0ydMpeo0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>How can you prevent your home loan from being rejected right before you close? Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) joins me to answer this key question.</em></p>
+*How can you prevent your home loan from being rejected right before you close? Jake Bernhard (nmls: 870775) from United Heritage Credit Union (nmls: 630601) joins me to answer this key question.*
 
 Some buyers have reached out to us saying that they had tried to buy a home in the past, but something went wrong with the transaction that prevented them from moving forward with the purchase. We often find that what went wrong was that the bank had pre-qualified them for their loan, but about a week before closing, they were informed that their loan application had been rejected.
 
