@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/9DzlDehJ9fM'
 
 {% include youtube.html %}
 
-As 2019 winds down, we’re happy to share a few client success stories and give you a quick word on 2020.
+<p style="text-align: center;"><em>As 2019 winds down, we’re happy to share a few client success stories and give you a quick word on 2020.</em></p>
 
 Now that we’re into December, it’s time to take a look back at 2019 and share a few client success stories with you. We estimate that we’ll sell 350 homes before the year is over, and we’re glad to have helped that many families in our area. Moving forward, we expect an amazing 2020. We predict that the market will improve, interest rates will come down, and a lot of homes will enter the market. In fact, we don’t have have to wait until 2020—my office is planning on working hard this holiday season, and we’re ready to help you buy or sell a home.&nbsp;
 
