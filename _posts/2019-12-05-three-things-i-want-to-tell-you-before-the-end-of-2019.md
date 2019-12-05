@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/qgW6LQBFC9s'
 
 {% include youtube.html %}
 
-We’re in the home stretch of 2019, and I wanted to make sure you knew about a few things heading into the new year that will benefit both of us.
+<p style="text-align: center;"><em>We’re in the home stretch of 2019, and I wanted to make sure you knew about a few things heading into the new year that will benefit both of us.</em></p>
 
 Today I want to talk to you about three things—first, a quick update on the Albany real estate market.&nbsp;
 
