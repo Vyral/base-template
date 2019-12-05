@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wqwR_c_JL28'
 
 {% include youtube.html %}
 
-Don’t stress about the holidays\! Here is a quick tip to help you get your home ready for guests without adding stress to your life.
+<p style="text-align: center;"><em>Don’t stress about the holidays\! Here is a quick tip to help you get your home ready for guests without adding stress to your life.</em></p>
 
 It’s almost time for Christmas—are you all ready?
 
