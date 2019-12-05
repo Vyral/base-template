@@ -19,4 +19,6 @@ youtube_code: VIZ9F8BAvc8
 
 {% include youtube.html %}
 
-While we’re getting our annual team pictures taken here at Eaglebrooke Country Club in Geneva, we wanted to introduce you to our team and thank you for all of your support this year. Whether we’ve been able to help you buy or sell a home, you’ve referred someone to us, or you just like watching our videos, thank you so much. We are all wishing you a very happy holiday season.
+As the holidays approach, we wanted to introduce you to our team and thank you for all your support this year\! Whether we’ve been able to help you buy or sell a home, you’ve referred someone to us, or you just like watching our videos, thank you so much. We strive to make this video series something that is beneficial to you, so please feel free to provide us with suggestions for content for our videos that would be important to you.
+
+&nbsp;<br>We also want to say a big thank you to Bill Pendley at Caliber Home Loans for shooting this video of our team. Bill is a lender partner and we highly suggest you give him a call for any of your lending needs.<br>We are all wishing you a very happy holiday season. To see our full message, watch this short video.
