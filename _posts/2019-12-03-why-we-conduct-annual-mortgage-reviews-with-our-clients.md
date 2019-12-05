@@ -5,8 +5,7 @@ date: 2019-12-03 19:47:21
 tags:
   - Home Buyer Tips
 excerpt: >-
-  Your mortgage lender will not only be with you every step of the way in the
-  buying process, but long after as well. Find out why in today’s message.
+  Your mortgage lender will be with you every step of the way not just during the buying process, but also long after it. Find out why in today’s message.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Wade+Betz/Why+We+Conduct+Annual+Mortgage+Reviews+With+Our+Clients.mp4
 pullquote: >-
@@ -22,7 +21,7 @@ youtube_code: xOQ5xHCXJOQ
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Your mortgage lender will not only be with you every step of the way in the buying process, but long after as well. Find out why in today’s message.</em></p>
+<p style="text-align:center;"><em>Your mortgage lender will be with you every step of the way not just during the buying process, but also long after it. Find out why in today’s message.</em></p>
 
 When I’m working with a buyer and we’re able to close on their new home, they almost always ask, “What happens now?” They often think this is the end of the line, but in reality, the closing only marks the start of our relationship.&nbsp;
 
