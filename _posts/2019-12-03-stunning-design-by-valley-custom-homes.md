@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stunning Design By Valley Custom Homes
-date: 2019-12-03 15:21:03
+date: 2019-12-03 15:21:00
 tags:
 excerpt:
 enclosure:
@@ -15,9 +15,9 @@ youtube_code: rrmgpVRP9_0
 
 {% include youtube.html %}
 
-If you're even remotely interested in purchasing a new construction property, we have a great opportunity for you: **Come check the stunning designs from the new builder in town, Valley Custom Homes.**
+If you're even remotely interested in purchasing a new construction property, we have a great opportunity for you: **Come check out the stunning designs from the new builder in town, Valley Custom Homes.**
 
-These homes have an open design with three large bedrooms, 2.5 baths, plus a media room. In the kitchens, you’ll find picturesque windows, a quartz center island and countertops, upgraded SS appliances, custom cabinetry, AND huge walk-in pantry.&nbsp;
+These homes have an open design with three large bedrooms, 2.5 baths, plus a media room. In the kitchens, you’ll find picturesque windows, a quartz center island and countertops, upgraded SS appliances, custom cabinetry, AND a huge walk-in pantry.&nbsp;
 
 You’ll also see a spacious great room with custom-built shelves, a stunning gas fireplace complete with mantle, and a double glass slider door with direct access to a full, covered patio. The patio itself has a ceiling fan and a gas line for a barbecue pit. The master suite has custom accent windows and the elegant master bath comes with a soaker tub and a separate walk-in tile shower.
 
@@ -25,7 +25,7 @@ You’ll also see a spacious great room with custom-built shelves, a stunning ga
 
 * A/C
 * Carpet flooring
-* Garbage Disposal
+* Garbage disposal
 * Fireplace
 * Hardwood flooring
 * Microwave
