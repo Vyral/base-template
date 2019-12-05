@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/payne-youtube-9.jpg
 youtube_code: lvUiShcJXgM
 ---
 
-{% include youtube.html %} In order to get approved for a home loan, your credit needs to be examined. Here’s what lenders are looking for in your credit report.
+{% include youtube.html %}<center> In order to get approved for a home loan, your credit needs to be examined. Here’s what lenders are looking for in your credit report.</center>
 
 Today we are discussing the 4 C's of credit. These are the four main things that lenders use to evaluate your creditworthiness as a homebuyer:
 
