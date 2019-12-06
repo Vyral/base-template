@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Power of Attorney – The Good, the Bad and the Ugly!'
-date:
+date: 2019-12-17 00:00:00
 tags:
   - Real Estate
 excerpt: >-
