@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/fzlTjE82RDM'
 
 {% include youtube.html %}
 
-In case you weren’t aware already, there are a lot of different down payment options out there for homebuyers. Here are some examples.
+<p style="text-align: center;"><em>In case you weren’t aware already, there are a lot of different down payment options out there for homebuyers. Here are some examples.</em></p>
 
 Is 20% the only down payment option out there for homebuyers? **A lot of people may believe this myth, but it simply isn’t true.&nbsp;**
 
