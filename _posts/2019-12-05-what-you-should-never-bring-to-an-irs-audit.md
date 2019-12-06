@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Never Bring to an IRS Audit
-date: 2019-12-10 00:00:00
+date: 2019-12-05 00:00:00
 tags:
   - Real Estate
 excerpt: >-
