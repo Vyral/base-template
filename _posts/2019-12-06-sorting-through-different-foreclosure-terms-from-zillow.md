@@ -4,6 +4,7 @@ title: Sorting Through Different Foreclosure Terms from Zillow
 date: 2019-12-06 00:00:00
 tags:
   - Real Estate
+  - Home Buyer Tips
 excerpt: >-
   Do you know the difference between a foreclosure, a pre-foreclosure, and a
   foreclosed property?
