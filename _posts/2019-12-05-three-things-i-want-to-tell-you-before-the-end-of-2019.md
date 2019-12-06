@@ -27,13 +27,13 @@ Today I want to talk to you about three things—first, a quick update on the Al
 
 Thanksgiving has passed, and we’re in the winter doldrums. **If you’re thinking about selling in the spring, now is the time to get your ducks in a row to hit the ground running in 2020.** We’re still seeing good activity in certain price points and areas. Reach out if you want some more information about what’s going on in your neighborhood.
 
-Second, I want to thank all of you who came out to our client appreciation day. We had a blast seeing all of you, loved getting to dress up, and loved giving out all those pies. **If you couldn’t make it this year, make sure you mark it on your calendars next year\!**
+Second, I want to thank all of you who came out to our client appreciation day. We had a blast seeing all of you, loved getting to dress up, and enjoyed giving out all those pies. **If you couldn’t make it this year, make sure you mark it on your calendars next year\!**
 
 {% include pullquote.html %}
 
 Finally, I just got back from the city where I had a great meeting with Ryan Serhant from Million Dollar Listing. We spent some time talking about real estate and marketing, and he’s just an amazing, humble guy. **I’ve got some great ideas that I’m going to bring back to my business.**
 
-Christmas is almost here and it has come to my attention that a lot of people are struggling. We never know what people have going on in their lives, but I see it all the time. In the spirit of giving back this year, I **want you to know if you or someone you know is going through a hardship like an illness or divorce and that’s forcing you to sell your house, I will sell the house for free for one of you.** How’s that for a Christmas gift?
+Christmas is almost here and it has come to my attention that a lot of people are struggling. We never know what people have going on in their lives, but I see it all the time. In the spirit of giving back this year, **I want you to know if you or someone you know is going through a hardship like an illness or divorce and that’s forcing you to sell your house, I will sell the house for free for one of you.** How’s that for a Christmas gift?
 
 If you have any questions for me about the market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 
