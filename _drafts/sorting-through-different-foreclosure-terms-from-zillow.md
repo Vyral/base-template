@@ -18,7 +18,9 @@ youtube_code: XSS6F3MZnUQ
 
 {% include youtube.html %}
 
-If you’re out there searching for homes on Zillow, you should know a few things about some of the properties they have listed. **At least once a week, we get a question about a foreclosure, foreclosed, or pre-foreclosure listing that someone has found on Zillow**. Each of them is different and has different implications for you as a buyer.
+<center><em>Do you know the difference between a foreclosure, a pre-foreclosure, and a foreclosed property?</em></center>
+
+<br>If you’re out there searching for homes on Zillow, you should know a few things about some of the properties they have listed. **At least once a week, we get a question about a foreclosure, foreclosed, or pre-foreclosure listing that someone has found on Zillow**. Each of them is different and has different implications for you as a buyer.
 
 **A pre-foreclosure is a property that Zillow has found where the owner is behind on a payment**. A pre-foreclosure is not a home for sale and might not ever be for sale. As real estate agents, we don’t have access to that home either. All it means is that someone has missed a payment, which happens from time to time.
 
