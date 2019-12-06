@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Sell Your Home During the Holidays
-date: 2019-12-06 21:03:37
+date: 2019-12-06 21:03:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure:
 pullquote: You want serious buyers to see your home.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/tara-limbird---dec-2019---1---youtube.jpg
 youtube_code: 8B0ofPIf8KM
 ---
 
