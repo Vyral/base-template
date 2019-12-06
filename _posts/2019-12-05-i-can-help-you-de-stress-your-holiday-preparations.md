@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/wqwR_c_JL28'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Don’t stress about the holidays\! Here is a quick tip to help you get your home ready for guests without adding stress to your life.</em></p>
+<p style="text-align: center;"><em>Don’t stress about the holidays! Here is a quick tip to help you get your home ready for guests without adding stress to your life.</em></p>
 
 It’s almost time for Christmas—are you all ready?
 
@@ -33,7 +33,7 @@ Once you are ready for your guests and you start thinking about presents (if you
 
 Every December, we see a lot of pets brought in who are in need of rescue. So if you do want to adopt a pet—adopt, not buy—do it for yourself. Christmas is the perfect time to do so since you’ll have more time to spend with it.
 
-And don’t forget: **We’re accepting donated pet toys and food for the animal shelter, as well as toys to be donated to human children.**
+Also don’t forget: **We’re accepting donated pet toys and food for the animal shelter, as well as toys to be donated to children.**
 
 So if you have any household projects that you need assistance with, you’re interested in adopting a pet into your loving home, or you have any questions about real estate at all, reach out to me. In the meantime, have a wonderful holiday season\!
 
