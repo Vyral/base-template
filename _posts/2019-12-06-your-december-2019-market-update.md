@@ -8,7 +8,7 @@ excerpt: >-
   See the latest numbers and data for our San Fernando Valley real estate
   market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+market+update+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2019/Porter+Ranch+Real+Estate-+market+update+updated.mp4
 pullquote: >-
   It’s a great time to sell because there are still many buyers out there
   desiring the exceptionally low interest rates.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/Am7jbqONYcI'
+youtube_code: 'https://youtu.be/xoqOpj231_o'
 ---
 
 {% include youtube.html %}
