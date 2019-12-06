@@ -8,7 +8,8 @@ excerpt: >-
   Sunburst Shutters brings a wide variety of shutters and other window
   accessories to our community. I sat down with CEO Tyson Williams recently to
   talk about this and more.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+9+_+Sunburst+Shutters.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
