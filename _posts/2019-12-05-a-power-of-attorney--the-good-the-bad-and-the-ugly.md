@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'A Power of Attorney – The Good, the Bad and the Ugly!'
-date: 2019-12-17 00:00:00
+date: 2019-12-05 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -24,7 +24,5 @@ While a Power of Attorney is a good thing, here are some safeguards to put in pl
 * **Choose your agent carefully. &nbsp;**The majority of legal issues that go to court are power of attorney crimes involving family members or close friends.&nbsp; Only appoint someone as your agent if you can thoroughly trust them and they are keenly aware of what you want them to do in case you are not able to act on your own behalf.
 * **Consider an ‘oversight agent’. &nbsp;**&nbsp;Creating a plan for your agent to “report” to a third party doesn’t mean that you distrust them.&nbsp; It means that you want them to keep good records, seek advice, and share them with someone else.&nbsp; It could be your attorney or banker.&nbsp; You may also want to share information about your power of attorney with other family members so your agent knows that other people&nbsp;*know (about the existence of the power of attorney)*&nbsp;and might be watching for any misconduct\!
 * **Get legal advice.&nbsp; &nbsp;**While you can create a do-it-yourself power of attorney, you might want to use an attorney if your finances are complicated.&nbsp; Also, your power of attorney is not written in stone, and can be changed at any time.&nbsp; As long as you are mentally capable, you can remove or change agents or revoke the power of attorney and start over.&nbsp; When this happens, it’s best to get legal advice.
-
-&nbsp;
 
 If you should become incapacitated for any reason, your family will probably have to go to court to get the authority to manage your affairs.&nbsp; It’s costly and time consuming, and the person the court appoints may not be your first choice.&nbsp; But by acting now, you can avoid family feuds and have the peace of mind that your financial affairs will be handled in the best interest of your family\!
