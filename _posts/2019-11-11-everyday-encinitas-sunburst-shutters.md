@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-5---travis-chatwin---yt.jpg
-youtube_code: JMMDifvYcuo
+youtube_code: w4d7-OKTfyw
 ---
 
 {% include youtube.html %}
