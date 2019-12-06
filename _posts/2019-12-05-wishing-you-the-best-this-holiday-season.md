@@ -19,6 +19,6 @@ youtube_code: VIZ9F8BAvc8
 
 {% include youtube.html %}
 
-As the holidays approach, we wanted to introduce you to our team and thank you for all your support this year\! Whether we’ve been able to help you buy or sell a home, you’ve referred someone to us, or you just like watching our videos, thank you so much. We strive to make this video series something that is beneficial to you, so please feel free to provide us with suggestions for content for our videos that would be important to you.
+As the holidays approach, we wanted to introduce you to our team and thank you for all your support this year\! Whether we’ve been able to help you buy or sell a home, you’ve referred someone to us, or you just like watching our videos, thank you so much. We strive to make this video series beneficial to you, so please feel free to provide us with suggestions for content for our videos that would be important to you.
 
-&nbsp;<br>We also want to say a big thank you to Bill Pendley at Caliber Home Loans for shooting this video of our team. Bill is a lender partner and we highly suggest you give him a call for any of your lending needs.<br>We are all wishing you a very happy holiday season. To see our full message, watch this short video.
+We also want to say a big thank you to Bill Pendley at Caliber Home Loans for shooting this video of our team. Bill is a lender partner and we highly suggest you give him a call for any of your lending needs. We are all wishing you a very happy holiday season. If you ever have any questions about real estate, please feel free to reach out to us by phone or email. We would love to help you.
