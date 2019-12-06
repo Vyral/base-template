@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Note to All Homebuyers
-date: 2019-12-06 19:51:14
+date: 2019-12-06 19:51:00
 tags:
   - Home Buyer Tips
 excerpt: >-
   You don’t have to use the same real estate company that listed a home to help
   you buy it. Here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lee+Garland/Videos/2019/Do+You+Have+To+Go+Through+The+Listing+Company_+-+Brandon+and+Madison+MS+Real+Estate+Team.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
