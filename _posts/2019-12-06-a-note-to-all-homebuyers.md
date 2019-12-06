@@ -19,4 +19,4 @@ youtube_code: zDd6cD4Fg2c
 
 {% include youtube.html %}
 
-Do you have to go through the company that has the house listed in order to buy it? No. Just because a certain company has the home listed doesn’t mean you have to use one of their agents to buy it. It’s your right to have representation in the transaction, so you should find an agent who will have your best interest at heart. Most agents in the Jackson area have access to all the homes currently on the market and can help you make an informed decision.&nbsp;
+Do you have to go through the company that has the house listed in order to buy it? No. Just because a certain company has the home listed doesn’t mean you have to use one of their agents to buy it. It’s your right to have representation in the transaction, so you should find an agent who will have your best interest at heart. Most agents in the Jackson area have access to all the homes currently on the market and can help you make an informed decision.&nbsp;If you ever have any questions about real estate, please don't hesitate to reach out to me by phone or email. I would love to help you.&nbsp;
