@@ -35,6 +35,6 @@ Finally, I just got back from the city where I had a great meeting with Ryan Ser
 
 Christmas is almost here and it has come to my attention that a lot of people are struggling. We never know what people have going on in their lives, but I see it all the time. In the spirit of giving back this year, **I want you to know if you or someone you know is going through a hardship like an illness or divorce and that’s forcing you to sell your house, I will sell the house for free for one of you.** How’s that for a Christmas gift?
 
-If you have any questions for me about the market or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+If you have any questions for me about the market or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
 
 &nbsp;
