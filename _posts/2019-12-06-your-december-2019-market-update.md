@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Am7jbqONYcI'
 
 {% include youtube.html %}
 
-See the latest numbers and data for our San Fernando Valley real estate market.
+<p style="text-align: center;"><em>See the latest numbers and data for our San Fernando Valley real estate market.</em></p>
 
 Here is our real estate market update for December 2019. In the last sixty days or so, in the San Fernando Valley, we have hit a record high median sales price of $755,000. That’s up 11% from a year ago. Since June, our inventory has continued to trend downward. We had 1.7 months supply of homes on the market in October.&nbsp;
 
