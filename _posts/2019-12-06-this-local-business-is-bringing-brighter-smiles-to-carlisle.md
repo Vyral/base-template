@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/Axk49hmpTng'
 
 {% include youtube.html %}
 
-For today’s local business highlight, I took a trip to Serafin Family Dentistry to learn more about their practice. Check out my visit for yourself.
+<p style="text-align: center;"><em>For today’s local business highlight, I took a trip to Serafin Family Dentistry to learn more about their practice. Check out my visit for yourself.</em></p>
 
 There’s nothing quite like a brilliant smile, and that’s why, for today’s local business highlight, I took a trip to Serafin Family Dentistry to speak with Dr. Bob Serafin and Dr. Tamara Shore about their practice. From their time in Temple dental school together, Dr. Serafin and Dr. Shore always knew they would make a great team—and now, **11 years after starting Serafin Family Dentistry, they’ve definitely proven this to be so.&nbsp;**
 
