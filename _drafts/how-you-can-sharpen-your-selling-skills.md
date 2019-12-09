@@ -13,6 +13,6 @@ youtube_alternate_image: /uploads/gray-youtube-5.jpg
 youtube_code: I7J3x14p2pM
 ---
 
-{% include youtube.html %}There are two steps you must take to sharpen your selling skills.
+{% include youtube.html %}<center>There are two steps you must take to sharpen your selling skills.</center>
 
 {% include pullquote.html %}
