@@ -25,7 +25,7 @@ youtube_code: 'https://youtu.be/Axk49hmpTng'
 
 There’s nothing quite like a brilliant smile, and that’s why, for today’s local business highlight, I took a trip to Serafin Family Dentistry to speak with Dr. Bob Serafin and Dr. Tamara Shore about their practice. From their time in Temple dental school together, Dr. Serafin and Dr. Shore always knew they would make a great team—and now, **11 years after starting Serafin Family Dentistry, they’ve definitely proven this to be so.&nbsp;**
 
-From small fillings to smile makeovers and, of course, emergency services, Serafin Family Dentistry handles everything its patients could ever need, and they’re always looking to grow. Moving forward, they plan to implement even more technology into their business so as to make the entire dental experience more seamless and convenient for the people they serve. As a patient of this practice, myself, I’m excited to see what the future holds.&nbsp;
+From small fillings to smile makeovers and, of course, emergency services, Serafin Family Dentistry handles everything its patients could ever need, and they’re always looking to grow. Moving forward, they plan to implement even more technology into their business to make the entire dental experience more seamless and convenient for the people they serve. As a patient of this practice, I’m excited to see what the future holds.&nbsp;
 
 To see Dr. Serafin and his team at work, check out the clip of my most recent cleaning in today’s video. I’m happy to report that I was given a clean bill of dental health when all was said and done\!
 
