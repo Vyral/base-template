@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: What is an iBuyer? Is working with one a good idea?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/What+You+Should+Know+About+Working+With+iBuyers.mp4
 pullquote: >-
   Whatever your real estate goals, our team would be happy to have a
   conversation about what’s right for you.
