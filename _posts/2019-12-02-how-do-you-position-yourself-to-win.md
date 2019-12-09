@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: We’re sharing the major ways you can win in the real estate market right now!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/How+Do+You+Position+Yourself+to+Win_.mp4
 pullquote: >-
   Many people are dismissing the fact that we have wildly low interest rates
   right now.
