@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Tips That Will Help You Sell Quickly & for Top Dollar This Fall
-date:
+date: 2019-12-09 16:14:31
 tags:
   - Home Seller Tips
 excerpt: >-
