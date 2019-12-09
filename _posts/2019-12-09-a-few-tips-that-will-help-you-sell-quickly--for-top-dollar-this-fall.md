@@ -22,6 +22,8 @@ youtube_code: KYyHyJlk7l0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em> If you plan on selling your home this fall, here are a few tips that will help you sell quickly and for top dollar.</em></p>
+
 Temperatures are dropping, leaves are changing color, and pumpkin spice everything has taken over the world. With fall color and produce so prominent this time of year, you might be tempted to load up your home with an abundance of both, but if you’re a home seller, a little discretion goes a long way.&nbsp;
 
 With that in mind, here are a few tips that will help you maximize your home sale this fall.&nbsp;
