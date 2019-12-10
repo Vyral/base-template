@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of the Year Report
-date: 2019-12-10 20:49:45
+date: 2019-12-10 20:49:00
 tags:
   - Real Estate
 excerpt: Our end of 2019 report and the real estate market forecast for 2020.
