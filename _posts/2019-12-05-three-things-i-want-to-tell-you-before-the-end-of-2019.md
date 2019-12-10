@@ -8,7 +8,7 @@ excerpt: >-
   We’re in the home stretch of 2019, and I wanted to make sure you knew about a
   few things heading into the new year that will benefit both of us.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/SOI/2019/Albany+Real+Estate+Agent-+A+Few+Things.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/SOI/2019/Albany+Real+Estate+Agent-+SOI+12.10.mp4
 pullquote: >-
   Reach out if you want some more info about what’s happening in your
   neighborhood.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/qgW6LQBFC9s'
+youtube_code: 'https://youtu.be/MjIGp1WCN9A'
 ---
 
 {% include youtube.html %}
