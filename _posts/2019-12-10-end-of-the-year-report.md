@@ -1,7 +1,7 @@
 ---
 layout: post
 title: End of the Year Report
-date:
+date: 2019-12-10 20:49:45
 tags:
   - Real Estate
 excerpt: Our end of 2019 report and the real estate market forecast for 2020.
@@ -16,7 +16,7 @@ youtube_code: aQ35uadutiw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our end of 2019 report and the real estate market forecast for 2020.</em></p>
+*Our end of 2019 report and the real estate market forecast for 2020.*
 
 I just got back from attending a renowned housing economist’s speech where they laid out how this year’s been for the housing market and gave some predictions for where they think it’ll be heading next year. I wanted to share a few of these things with you.
 
