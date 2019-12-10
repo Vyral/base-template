@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/fall-colors-youtube.jpg
-youtube_code: U2fg5u5STS0
+youtube_code: gr006SpQx78
 ---
 
 {% include youtube.html %}
