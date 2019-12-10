@@ -3,7 +3,7 @@ layout: post
 title: 'Introducing Veronika, Team Lally’s Newest Member'
 date: 2017-09-11 11:19:00
 tags:
-  - Real Estate
+  - Meet Team Lally
 excerpt: >-
   Our newest team member, Veronika Edwards, was born and raised in Russia and
   came to the U.S. at age 19. Her life took her all over the country until she
@@ -17,7 +17,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: VBc4bmDcUtY
 ---
-
 
 {% include youtube.html %}
 
