@@ -1,7 +1,7 @@
 ---
 layout: post
-title: uzKFBVikOpg
-date: 2019-12-10 21:43:20
+title: We Wish You and Yours a Happy Holiday Season
+date: 2019-12-10 21:43:00
 tags:
   - Real Estate
 excerpt: Thank you and happy holidays to each of you; we appreciate your support!
