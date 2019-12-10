@@ -3,7 +3,7 @@ layout: post
 title: 'Introducing Mitzi Santayana, Team Lally’s Newest Buyer Specialist'
 date: 2019-01-25 19:51:00
 tags:
-  - Real Estate
+  - Meet Team Lally
 excerpt: >-
   Mitzi is the newest member of Team Lally, providing excellent service to her
   clients as a buyer specialist. This is how she came to be with us.
@@ -35,6 +35,6 @@ Mitzi is now a buyer specialist for Team Lally. As a military spouse, she has a 
 
 Mitzi’s favorite part of working with a team is that her teammates all have each other’s backs. When you utilize Mitzi as an agent, you will also have the help of our entire team.
 
-As our new buyer specialist, **Mitzi looks forward to being your No. 1 agent.** Let’s go find you your dream home!
+As our new buyer specialist, **Mitzi looks forward to being your No. 1 agent.** Let’s go find you your dream home\!
 
 If you have any questions about Team Lally or the services we have to offer you, don’t hesitate to reach out to us.
