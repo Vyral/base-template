@@ -32,9 +32,9 @@ First, **pay attention to your curb appeal.** Too many fall decorations will tak
 
 {% include pullquote.html %}
 
-Second, **go easy on the gore.** You may love the idea of blood and guts and skeletons rising from your yard, but will buyers be amused or afraid? Anything that has the potential to turn them off is a big no-no when listing your house. Sticking to safe decor choices will help you appeal to the masses.
+Second, **go easy on the gore.** Although Halloween has passed, it's still worth keeping in mind if you plan on selling your home next year. You may love the idea of blood and guts and skeletons rising from your yard, but will buyers be amused or afraid? Anything that has the potential to turn them off is a big no-no when listing your house. Sticking to safe decor choices will help you appeal to the masses.
 
-Next, **let in some light.** It’s always a good idea to open the blinds and make sure all your windows are sparkling-clean when selling your home, but now that the days are shorter, you need to maximize the natural light in your home. This will make it look bigger.&nbsp;
+Next, **let in some light.** It’s always a good idea to open the blinds and make sure all your windows are sparkling clean when selling your home, but now that the days are shorter, you need to maximize the natural light in your home. This will make it look bigger.&nbsp;
 
 Lastly, **make sure the space is inviting.** As the weather cools down, a warm and cozy atmosphere will give buyers a pleasant and comfortable feeling. Use plush throws on the couches and beds, and add some fall-accented pillows for the couches and chairs.&nbsp;
 
