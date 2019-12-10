@@ -3,6 +3,7 @@ layout: post
 title: Why Did Our Newest Agent Choose Team Lally?
 date: 2019-12-10 00:00:00
 tags:
+  - Meet Team Lally
 excerpt: >-
   Our team has recently gained a new member, and we can’t wait to introduce you
   to her today.
