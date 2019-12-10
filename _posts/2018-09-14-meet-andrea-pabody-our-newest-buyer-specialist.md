@@ -3,7 +3,7 @@ layout: post
 title: 'Meet Andrea Pabody, Our Newest Buyer Specialist'
 date: 2018-09-14 00:00:00
 tags:
-  - Real Estate
+  - Meet Team Lally
 excerpt: >-
   Our newest team member is buyer specialist Andrea Pabody, and here’s her
   story.
@@ -37,4 +37,4 @@ Moving forward, she’s excited about this new venture and looks forward to help
 
 If there’s anything else we can help you with, don’t hesitate to call or email us anytime. We’d love to help you.
 
-Thanks and Aloha!
+Thanks and Aloha\!
