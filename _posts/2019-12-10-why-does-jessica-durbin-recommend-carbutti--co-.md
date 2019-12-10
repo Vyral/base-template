@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Does Jessica Durbin Recommend Carbutti & Co.?
-date:
+date: 2019-12-10 20:10:04
 tags:
 excerpt: >-
   Jessica Durbin has known our team for years and has even referred family to
@@ -18,7 +18,7 @@ youtube_code: nFfpBcu80I0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Jessica Durbin has known our team for years and has even referred family to us. Here’s why.</em></p>
+*Jessica Durbin has known our team for years and has even referred family to us. Here’s why.*
 
 Jessica Durbin has worked for Connoisseur Media for a little over three years and has been in the radio business for over two decades. As someone who used to have a license, she appreciated the business that we have built even more after getting to know us for the past eight years. We put tons of marketing and support into our agents to help them succeed, and that’s just one of the reasons that Jessica has referred us to her family and friends over the years. “If I were looking to buy or sell my home, I would absolutely refer Jonathan Carbutti and Carbutti and Company Realtors,” Jessica said.
 
