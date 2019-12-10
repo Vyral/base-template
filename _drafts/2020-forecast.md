@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 Forecast
+title: End of the Year Report
 date:
 tags:
   - Real Estate
