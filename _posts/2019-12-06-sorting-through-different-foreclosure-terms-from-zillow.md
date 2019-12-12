@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Do you know the difference between a foreclosure, a pre-foreclosure, and a
   foreclosed property?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Sorting+Through+Different+Foreclosure+Terms+from+Zillow.mp4
 pullquote: Each of these types of properties is unique.
 enclosure_type: video/mp4
 enclosure_time:
