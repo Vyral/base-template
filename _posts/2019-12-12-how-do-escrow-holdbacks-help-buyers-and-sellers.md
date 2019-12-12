@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Escrow Holdbacks Help Buyers and Sellers?
-date: 2019-12-12 14:58:51
+date: 2019-12-12 14:58:00
 tags:
   - Real Estate
 excerpt: >-
