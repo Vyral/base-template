@@ -19,7 +19,7 @@ youtube_code: _eY4jrGbJSo
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.</em></p>
+*Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.*
 
 I’m joined today by Max Wilker of Better Homes & Gardens to talk about the latest home color trends. Max is the Syle Director for Better Homes & Gardens Brands and has a wealth of knowledge on all the latest home design trends. Max says that the quickest way to update a home is with color, and he’s excited to show us how today.
 
