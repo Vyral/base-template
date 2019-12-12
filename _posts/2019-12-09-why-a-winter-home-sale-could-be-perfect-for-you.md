@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Why a Winter Home Sale Is Perfect for You
-date: 2019-12-09 22:02:32
+title: Why a Winter Home Sale Could Be Perfect for You
+date: 2019-12-09 22:02:00
 tags:
   - Home Seller Tips
 excerpt: >-
   Selling a home during the winter months isn’t a bad idea like some would lead
   you to believe. Here are a few reasons why it’s actually a great time to list.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Fuller/2019/December/Why+a+Winter+Home+Sale+Is+Perfect+for+You.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Fuller/2019/December/Why+a+Winter+Home+Sale+Could+Be+Perfect+for+You.mp4
 pullquote: January and February are great months to list.
 enclosure_type: video/mp4
 enclosure_time:
