@@ -13,7 +13,7 @@ pullquote: Each of these types of properties is unique.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-4---nick-kellar---yt.jpg
+youtube_alternate_image: /uploads/12-12---nick-kellar---yt.jpg
 youtube_code: XSS6F3MZnUQ
 ---
 
