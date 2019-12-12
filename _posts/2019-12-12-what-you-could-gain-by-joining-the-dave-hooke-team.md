@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/NVcSlkWUomk'
 
 {% include youtube.html %}
 
-Today I’m joined by Cindy Crossley, a Realtor who’s been on our team since January 2019, to talk about how switching to our team made a difference in her life and career.
+<p style="text-align: center;"><em>Today I’m joined by Cindy Crossley, a Realtor who’s been on our team since January 2019, to talk about how switching to our team made a difference in her life and career.</em></p>
 
 Cindy Crossley got her Realtor’s license in March of 2018. When she started, it was challenging. She’d always thought of a ‘team’ as a group of people helping and supporting each other. However, that’s not exactly what happened. She felt like she was her own agent, even though she was on a team and she struggled. In 2018, she closed only two deals.
 
