@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: Looking at the Latest Home Color Trends With an Expert
 date:
 tags:
 excerpt:
