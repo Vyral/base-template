@@ -20,9 +20,9 @@ youtube_code: aQ35uadutiw
 
 I just got back from attending a renowned housing economist’s speech where they laid out how this year’s been for the housing market and gave some predictions for where they think it’ll be heading next year. I wanted to share a few of these things with you.
 
-1\.&nbsp;**It has been a great year for housing.** It’s been a win-win for buyers and sellers. Right now, interest rates are around 3.5%, give or take, which is over a percent less than they were at this point last year. Homeowners have profited by refinancing to reduce their mortgage payments. Also, homebuyers have been able to take advantage because right now, the average home is $500 less in mortgage payments per month than that same home would have been had it been bought a year ago.
+**1**\.&nbsp;**It has been a great year for housing.** It’s been a win-win for buyers and sellers. Right now, interest rates are around 3.5%, give or take, which is over 1% less than they were at this point last year. Homeowners have profited by refinancing to reduce their mortgage payments. Also, homebuyers have been able to take advantage because right now, the average home is $500 less in mortgage payments per month than that same home would have been had it been bought a year ago.
 
-2\.&nbsp;**The economy is strong.** The unemployment rate is the lowest we’ve seen in a long time. Our GDP is secure, the overall economy is strong, and they expect that to continue.
+**2**\.&nbsp;**The economy is strong.** The unemployment rate is the lowest we’ve seen in a long time. Our GDP is secure, the overall economy is strong, and they expect that to continue.
 
 {% include pullquote.html %}
 
