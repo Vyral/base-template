@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Better Homes & Gardens Style Director Tells Us Home Color Trends for 2020
-date: 2019-12-11 17:03:43
+date: 2019-12-11 00:00:00
 tags:
   - Home Seller Tips
 excerpt: >-
