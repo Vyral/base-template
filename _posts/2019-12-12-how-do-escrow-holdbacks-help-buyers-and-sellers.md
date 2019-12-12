@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/UkGNjr0CWgc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Escrow holdbacks are a great way to save deals from falling through. Here’s what I mean.</em></p>
+
 What is an escrow holdback?
 
 When you buy a property, the bank providing your financing will send an appraiser to the home to appraise it. In addition to calculating the home’s value, they’ll check the home’s condition. Banks don’t like to see specific problems in homes that are under contract (broken windows, a bad roof, etc.), so if they see these problems, they’ll require them to be fixed before they finance the deal.&nbsp;
