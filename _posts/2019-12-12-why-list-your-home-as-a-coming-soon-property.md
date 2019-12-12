@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/q7rDY_6Dgf0'
 
 {% include youtube.html %}
 
-Happy Holidays, raving fans\! Today, let’s cover the topic of coming-soon listings and how they can boost the outcome of your home sale.
+<p style="text-align: center;"><em>Happy Holidays, raving fans! Today, let’s cover the topic of coming-soon listings and how they can boost the outcome of your home sale.</em></p>
 
 It’s so important that your home gets listed on a coming-soon listing site, even if you’re selling your house in the spring. Recently, though, the board of the National Association of Realtors has decided that they’ll only allow people to put their homes on the market 21 days before—on any site.
 
