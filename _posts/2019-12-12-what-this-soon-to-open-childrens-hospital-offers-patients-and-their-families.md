@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/PwqW96XxdkQ'
 
 {% include youtube.html %}
 
-Today I’ll take you on a tour of the new MUSC Shawn Jenkins Children’s Hospital.
+<p style="text-align: center;"><em>Today I’ll take you on a tour of the new MUSC Shawn Jenkins Children’s Hospital.</em></p>
 
 With their state-of-the-art medical supplies, welcoming emergency and admissions areas, and their mother/baby care units, the MUSC Shawn Jenkins Children’s Hospital has so much to offer its patients and their families.
 
