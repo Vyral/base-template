@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-are-the-latest-home-color-trends-youtube.jpg
-youtube_code: BZVTNmUbmQc
+youtube_code: _eY4jrGbJSo
 ---
 
 {% include youtube.html %}
