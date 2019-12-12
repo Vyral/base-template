@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/NnpkbnZOcek'
 
 {% include youtube.html %}
 
-The holidays can be a great time to buy or sell a home. Here’s why.
+<p style="text-align: center;"><em>The holidays can be a great time to buy or sell a home. Here’s why.</em></p>
 
 Are the holidays a good time for you to buy or sell a home? Actually, they are, and for a few different reasons.
 
