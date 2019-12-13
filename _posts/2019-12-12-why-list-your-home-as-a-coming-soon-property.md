@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why List Your Home as a Coming-Soon Property?
+title: Diane's Latest Strategy Helps Sell Homes Fast
 date: 2019-12-12 22:45:02
 tags:
   - Home Seller Tips
