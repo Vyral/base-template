@@ -17,7 +17,7 @@ youtube_code: uzKFBVikOpg
 
 {% include youtube.html %}
 
-The holidays are my absolute favorite time of the year\! In the spirit of the season, we would like to wish you all happy holidays and **thank you for your trust and support over the years.** I’m honored to lead one of the top real estate teams in the Twin Cities and lucky to be partnered with these top agents that help make our clients No. 1.&nbsp;
+The holidays are our absolute favorite time of the year\! In the spirit of the season, we would like to wish you all happy holidays and **thank you for your trust and support over the years.**&nbsp;We're honored to have one of the top real estate teams in the Twin Cities and lucky to be partnered with these top agents that help make our clients No. 1.&nbsp;
 
 {% include pullquote.html %}
 
