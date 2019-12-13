@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Does Delayed Financing Work and Will It Benefit You?
-date:
+date: 2019-12-13 20:33:37
 tags:
   - Home Buyer Tips
 excerpt: What is delayed financing and how can you benefit from it? Let’s discuss.
