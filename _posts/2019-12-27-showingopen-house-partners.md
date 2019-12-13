@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Showing/Open House Partners
-date: 2019-12-13 16:54:29
+date: 2019-12-27 12:00:00
 tags:
   - Listing Presentation
 excerpt: >-
