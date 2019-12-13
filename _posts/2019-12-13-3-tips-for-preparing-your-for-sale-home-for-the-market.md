@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/-uyHfHD6YdA'
 
 {% include youtube.html %}
 
-Here’s some good advice that I commonly give to those who are planning to sell their homes.
+<p style="text-align: center;"><em>Here’s some good advice that I commonly give to those who are planning to sell their homes.</em></p>
 
 When I walk into a home for a listing appointment and the seller asks me what they need to do to sell their house, I give them three key points of advice:
 
