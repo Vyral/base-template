@@ -38,6 +38,6 @@ A special thanks to:
 * Matthew Schuster
 * Grace Willeck
 
-We love our team and our clients, and we hope this season finds you and your family in good spirits and great health. From all of us to all of you: Happy holidays, and may you have a very merry New Year, too<br>&nbsp;
+We love our team and our clients, and we hope this season finds you and your family in good spirits and great health. From all of us to all of you: Happy holidays, and may you have a very merry new year, too.<br>&nbsp;
 
 &nbsp;
