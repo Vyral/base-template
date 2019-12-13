@@ -11,7 +11,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+Cindy+Interview.mp4
 pullquote: >-
-  Cindy closed out her twenty-second transaction just nine months after starting
+  Cindy closed out her 22nd transaction just nine months after starting
   on our team.
 enclosure_type: video/mp4
 enclosure_time:
@@ -24,7 +24,7 @@ youtube_code: 'https://youtu.be/NVcSlkWUomk'
 
 <p style="text-align: center;"><em>Today I’m joined by Cindy Crossley, a Realtor who’s been on our team since January 2019, to talk about how switching to our team made a difference in her life and career.</em></p>
 
-Cindy Crossley got her Realtor’s license in March of 2018. When she started, it was challenging. She’d always thought of a ‘team’ as a group of people helping and supporting each other. However, that’s not exactly what happened. She felt like she was her own agent, even though she was on a team and she struggled. In 2018, she closed only two deals.
+Cindy Crossley got her Realtor’s license in March of 2018. When she started, it was challenging. She’d always thought of a "team" as a group of people helping and supporting each other. However, that’s not exactly what happened. She felt like she was her own agent, even though she was on a team and she struggled. In 2018, she closed only two deals.
 
 When she saw one of The Dave Hook Team’s ads, she decided to give us a call. After our four-step interview process, Cindy began her transition to our team in January of 2019.
 
@@ -32,7 +32,7 @@ When she saw one of The Dave Hook Team’s ads, she decided to give us a call. A
 
 The difference between her first team and ours was stark. **Here, she found a support system that allowed her to ask questions and receive guidance from her team members.** That helped her to grow as a Realtor.
 
-In the United States, **the average agent closes five to seven transactions per year.** The night before shooting this video, however, Cindy closed out her twenty-second transaction—that’s after just nine months in production on our team\!
+In the United States, **the average agent closes five to seven transactions per year.** The night before shooting this video, however, Cindy closed out her 22nd transaction—that’s after just nine months in production on our team\!
 
 All the credit for Cindy’s success goes to Cindy herself. Back when she started earlier this year, I remember her asking many questions about whether she was doing something right. She was, and the trick to her continued success was simply to keep up the good work.
 
