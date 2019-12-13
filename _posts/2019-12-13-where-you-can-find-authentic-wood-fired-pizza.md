@@ -22,6 +22,8 @@ youtube_code: iCN3yop7TjA
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em> If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”</em></p>
+
 On the latest episode of “Tulsa Foodie,” I want to introduce you to one of my favorite restaurants: the East Village Bohemian Pizzeria. Joining me for a quick sit-down is Amy McMillin, who co-owns the restaurant with her brother.&nbsp;
 
 Amy and her brother have been involved in the food industry since they were teenagers, and they share a special love of Italian food. Amy got her first taste of wood-fired pizza 15 years ago when she got the chance to visit Naples, and after she did, she decided that she had to recreate the same taste back home.&nbsp;
