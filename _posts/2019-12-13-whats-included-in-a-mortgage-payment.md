@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Included in a Mortgage Payment?
-date: 2019-12-13 20:48:46
+date: 2019-12-13 20:48:00
 tags:
   - Real Estate
 excerpt: What does your mortgage payment cover each month? Let’s discuss.
