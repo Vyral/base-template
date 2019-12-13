@@ -22,7 +22,8 @@ youtube_code: iCN3yop7TjA
 
 {% include youtube.html %}
 
-*If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”*
+<p style="text-align: center;"><em>If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”
+</em></p>
 
 On the latest episode of “Tulsa Foodie,” I want to introduce you to one of my favorite restaurants: the East Village Bohemian Pizzeria. Joining me for a quick sit-down is Amy McMillin, who co-owns the restaurant with her brother.&nbsp;
 
