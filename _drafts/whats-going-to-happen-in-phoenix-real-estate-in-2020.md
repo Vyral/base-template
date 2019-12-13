@@ -19,7 +19,9 @@ youtube_code: wecYJVE-Ypg
 
 {% include youtube.html %}
 
-Today I’m excited to share my predictions for the 2020 Phoenix real estate market.
+<center><em>Before we get to 2020, I wanted to bring you some of my predictions for the Phoenix real estate market next year.</em></center>
+
+<br>Today I’m excited to share my predictions for the 2020 Phoenix real estate market.
 
 **There are a couple of things we know for sure**. First, there is going to be a presidential election. Second, the market will probably continue on its current trend.
 
