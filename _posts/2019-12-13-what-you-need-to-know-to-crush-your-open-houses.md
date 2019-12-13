@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know To Crush Your Open Houses
-date:
+date: 2019-12-13 19:37:39
 tags:
 excerpt: >-
   Dan McDevitt discusses his real estate journey and how he went from being
@@ -15,7 +15,11 @@ youtube_alternate_image:
 youtube_code: rBxQWasPUX8
 ---
 
-{% include youtube.html %}<center>Dan McDevitt discusses his real estate journey and how he went from being burned out on short sales years ago to crushing it on open houses in 2019.</center>
+{% include youtube.html %}
+
+<center>Dan McDevitt discusses his real estate journey and how he went from being burned out on short sales years ago to crushing it on open houses in 2019.</center>
+
+&nbsp;
 
 Today I wanted to share with you a recent interview I did with Dan McDevitt, a real estate agent in the Baltimore area with 14 years under his belt. He’s also a client of 1,000 Calls a Day who will discuss with me the four main steps to have a successful open house. Among other insider tips, Dan talks about incorporating buyer's agents, spending money on Facebook ads, and how to nab solid leads.&nbsp;
 
