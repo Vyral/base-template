@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Working to Give Back to the Community of Kauai
-date: 2019-12-13 19:17:38
+date: 2019-12-13 19:17:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,8 +11,8 @@ enclosure:
 pullquote: I love giving back to our community here in Kauai.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/12-12-19yt.jpg
 youtube_code: 90Ek1f5uido
 ---
 
