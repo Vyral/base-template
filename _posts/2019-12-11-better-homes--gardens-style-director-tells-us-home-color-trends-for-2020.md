@@ -21,7 +21,7 @@ youtube_code: _eY4jrGbJSo
 
 <p style="text-align: center;"><em>Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.</em></p>
 
-I’m joined today by Max Wilker of Better Homes & Gardens to talk about the latest home color trends. Max is the Syle Director for Better Homes & Gardens Brands and has a wealth of knowledge on all the latest home design trends. Max says that the quickest way to update a home is with color, and he’s excited to show us how today.
+I’m joined today by Max Wilker to talk about the latest home color trends. Max is the Syle Director for Better Homes & Gardens Brands and has a wealth of knowledge on all the latest home design trends. Max says that the quickest way to update a home is with color, and he’s excited to show us how today.
 
 **Here’s an outline of our discussion with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
@@ -39,4 +39,4 @@ I’m joined today by Max Wilker of Better Homes & Gardens to talk about the lat
 
 7:30- Max’s color design advice for Central Iowa homeowners
 
-Thanks so much to Max for joining me to talk about the latest color design trends. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+Thanks so much to Max for joining me to talk about the latest color design trends. If you have any questions for me don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
