@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of Setting Expectations in Your Real Estate Career
-date: 2019-12-13 17:29:18
+date: 2019-12-13 17:29:00
 tags:
   - Buyer Prospects
 excerpt: 'Setting expectations on your team is critical, and today I’ll discuss why.'
