@@ -5,13 +5,13 @@ date: 2019-12-13 22:43:00
 tags:
   - Real Estate
 excerpt: >-
-  I learned the hard way that you need a reservation on most nights if you want
-  to get a table here.
+  If you have a craving for wood-fired pizza, I have just the place to introduce
+  you to on the latest episode of “Tulsa Foodie.”
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/December/Where+You+Can+Find+Authentic+Wood-Fired+Pizza+(1).mp4
 pullquote: >-
-  If you have a craving for wood-fired pizza, I have just the place to introduce
-  you to on the latest episode of “Tulsa Foodie.”
+  I learned the hard way that you need a reservation on most nights if you want
+  to get a table here.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -22,7 +22,7 @@ youtube_code: iCN3yop7TjA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em> If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”</em></p>
+*If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”*
 
 On the latest episode of “Tulsa Foodie,” I want to introduce you to one of my favorite restaurants: the East Village Bohemian Pizzeria. Joining me for a quick sit-down is Amy McMillin, who co-owns the restaurant with her brother.&nbsp;
 
