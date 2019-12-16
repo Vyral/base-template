@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-5.jpg
-youtube_code: TOVigCS6Hw4
+youtube_code: 4pc-Q7gAENI
 ---
 
 {% include youtube.html %}
