@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The year is almost over and the holidays are upon us. From all of us at the
   Carter Property Group: Happy Holidays!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+We+Hope+You+Have+a+Happy+Holiday+Season.mp4
 pullquote: Happy holidays!
 enclosure_type: video/mp4
 enclosure_time:
@@ -37,4 +38,4 @@ It’s hard to believe that 2018 is almost over. As the holidays are fast approa
 
 [Winter Wonderfest at Navy Pier](https://navypier.org/event/fifth-third-bank-winter-wonderfest-2018/all/){: target="_blank"} - Now through January 6th, 2019
 
-If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. Happy Holidays!
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. Happy Holidays\!
