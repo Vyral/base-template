@@ -27,7 +27,7 @@ A special thanks to:
 * Andy Baker
 * Tim Lehman
 * Chris Neill
-* Kieren Evansen
+* Kieren Evensen
 * Tim Sabin
 * Sterling Donley
 * Jessica Wolleat
