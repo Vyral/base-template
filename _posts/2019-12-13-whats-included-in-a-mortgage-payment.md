@@ -20,7 +20,7 @@ youtube_code: fUd8L47zg88
 
 {% include youtube.html %}
 
-*What does your mortgage payment cover each month? Let’s discuss.*
+<p style="text-align: center;"><em>What does your mortgage payment cover each month? Let’s discuss.</em></p>
 
 Every homeowner knows what to expect to pay toward their mortgage each month, but not everyone understands what specific costs make up this recurring monthly payment. To help you gain a better idea of what you’re really paying for, let’s break down what exactly is included in each of your mortgage payments.&nbsp;
 
