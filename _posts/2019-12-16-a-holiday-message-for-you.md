@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Holiday Message for You
-date: 2019-12-16 15:47:42
+date: 2019-12-16 15:47:00
 tags:
   - Real Estate
 excerpt: >-
@@ -17,6 +17,8 @@ youtube_alternate_image: /uploads/wishing-you-the-best-this-holiday-season-youtu
 youtube_code: Ujv7mutc6nM
 ---
 
-{% include youtube.html %}We just wanted to take a minute to wish everyone a very merry Christmas, happy holidays, and a happy new year. We hope you have had a great 2019 and are looking forward to 2020 as well. Last but not least, we wanted to extend a thank you to all of the people who chose to work with us this year. We appreciate your business and we hope to stay in touch for years to come.
+{% include youtube.html %}We just wanted to take a minute to wish everyone a very merry Christmas, happy holidays, and a happy new year. We hope you have had a great 2019 and are looking forward to 2020 as well.
+
+Last but not least, we wanted to extend a thank you to all of the people who chose to work with us this year. We appreciate your business and we hope to stay in touch for years to come.
 
 {% include pullquote.html %}
