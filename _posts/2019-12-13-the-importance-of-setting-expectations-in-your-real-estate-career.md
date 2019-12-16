@@ -19,6 +19,8 @@ youtube_code: IfUTojuH_98
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Setting expectations on your team is critical, and today I’ll discuss why.</em></p>
+
 In any business, setting expectations is key—and this is especially true when you’re part of a real estate team. After all, **the mutual success of everyone on that team depends on clear communication about the goals and strategies everyone holds.** That’s why, today, I’d like to share what I expect of the people who work with me.
 
 Personally speaking, I’ve recently done a lot of reflection on how my teammates can win and lose with me, and have found that both of these things are closely tied to Keller Williams’ Six Personal Perspectives.
