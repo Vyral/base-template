@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The numbers from 2018’s national real estate market are in—how did the market
   perform, on the whole? Find out in today’s recap.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Recapping+the+U.S.s+2018+Real+Estate+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -23,7 +24,7 @@ There are five central data points that drive real estate: home sales, home pric
 
 <u><strong>National home sales for 2018</strong></u>
 
-* 5.3 million total homes sold
+* 5\.3 million total homes sold
 * Down from 2016 and 2017
 * Matched the number for 2015
 * Projected to fall slightly to 5.2 million in 2019
@@ -59,4 +60,4 @@ What do these numbers bear out for the future of our real estate market?
 
 As for those looking to buy in 2019, we aren’t going to see homes flying off the market nor will they appreciate to an astronomical extent. If your real estate goals for this year include making a home purchase, a golden opportunity awaits you.
 
-If you’re interested in a conversation around what your options might be in any aspect of residential real estate, please give us a call. We look forward to having that conversation with you!
+If you’re interested in a conversation around what your options might be in any aspect of residential real estate, please give us a call. We look forward to having that conversation with you\!
