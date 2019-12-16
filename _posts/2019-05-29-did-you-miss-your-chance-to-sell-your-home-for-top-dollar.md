@@ -9,7 +9,8 @@ excerpt: >-
   season and more to do with the time that you’re ready, willing, and able to
   sell. Not to mention that waiting for another year for spring to roll around
   is a risk that isn’t worth running.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Is+Spring+a+Good+Time+to+Sell_.mp4
 pullquote: Why wait a whole year when you’re unsure of what the future will bring?
 enclosure_type: video/mp4
 enclosure_time:
@@ -22,7 +23,7 @@ youtube_code: iAQp6dE2tWg
 
 Sellers are often under the impression that there’s a particular time of year when they should be putting their home on the market—that time is, of course, spring.
 
-As I’ve discussed in previous videos, the reality is that **the right time to sell your home is when it best suits your situation. **
+As I’ve discussed in previous videos, the reality is that \*\*the right time to sell your home is when it best suits your situation. \*\*
 
 We’ve been doing this a long time, and we’ve found that it doesn’t make sense to wait an entire year for the spring market to come back around. Unless your goals specifically line up with that time of year, here’s something to consider: Buyers populate our Chicago market and are looking to make a purchase every week and month of the year.
 
@@ -30,6 +31,6 @@ We’ve been doing this a long time, and we’ve found that it doesn’t make se
 
 Therefore, you’re probably not doing yourself any favors by trying to sync up your home sale with a seasonal market. **There’s no telling what market conditions will be like a year from now.** Home prices could very well flatten out or even go down and, given that the market is always shifting, that’s a real possibility.
 
-Shortening your time frame to a comfortable point gives us a chance to predict what the market will be doing and will lead to greater certainty in your sale. **Why wait a whole year when you’re unsure of what the future will bring? **
+Shortening your time frame to a comfortable point gives us a chance to predict what the market will be doing and will lead to greater certainty in your sale. \*\*Why wait a whole year when you’re unsure of what the future will bring? \*\*
 
 If you or someone you know would like an evaluation of a property or you’re thinking about making a real estate move, don’t hesitate to let us know. We look forward to speaking with you\!
