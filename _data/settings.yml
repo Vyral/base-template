@@ -32,7 +32,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: /homevalue/
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.breannesteen.com/search-homes-for-sale/#/2123907651'
+  second_CTA_URL: /homesearch/
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808371';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
@@ -40,8 +40,8 @@ sidebar_CTA:
   CTA_image_path: /img/home-search.png
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
-  CTA_link_text: Home Search Tool
-  CTA_url: 'http://www.breannesteen.com/search-homes-for-sale/#/2123907651'
+  CTA_link_text: Search Homes
+  CTA_url: /homesearch/
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
