@@ -26,7 +26,7 @@ youtube_code: 'https://youtu.be/NVcSlkWUomk'
 
 Cindy Crossley got her Realtor’s license in March of 2018. When she started, it was challenging. She’d always thought of a "team" as a group of people helping and supporting each other. However, that’s not exactly what happened. She felt like she was her own agent, even though she was on a team and she struggled. In 2018, she closed only two deals.
 
-When she saw one of The Dave Hook Team’s ads, she decided to give us a call. After our four-step interview process, Cindy began her transition to our team in January of 2019.
+When she saw one of The Dave Hooke Team’s ads, she decided to give us a call. After our four-step interview process, Cindy began her transition to our team in January of 2019.
 
 {% include pullquote.html %}
 
