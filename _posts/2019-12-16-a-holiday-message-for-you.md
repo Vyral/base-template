@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Holiday Message for You
-date:
+date: 2019-12-16 15:47:42
 tags:
   - Real Estate
 excerpt: >-
