@@ -54,7 +54,6 @@ socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/BreanneSteenRE'
   linkedin_url: 'https://www.linkedin.com/in/breannesteen'
-  gplus_url: 
   youtube_url: 'http://www.youtube.com//c/BreanneSteenRealEstateSimiValley'
   twitter_url: 'https://twitter.com/breannesteen'
   instagram_url:
@@ -63,8 +62,7 @@ socials:
   trulia_url: >-
     https://www.trulia.com/profile/breanne-steen-agent-simi-valley-ca-zgdmx1g7/overview
   yelp_url: 'https://www.yelp.com/biz/breanne-steen-realtor-simi-valley'
-  podcast_url: >-
-    https://itunes.apple.com/us/podcast/steen-realty-group-podcast/id1212974767?mt=2
+  podcast_url:
 podcast:
   title: Steen Realty Group Podcast
   categories:
