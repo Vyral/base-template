@@ -20,14 +20,13 @@ youtube_code: fUd8L47zg88
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What does your mortgage payment cover each month? Let’s discuss.</em></p>
+*What does your mortgage payment cover each month? Let’s discuss.*
 
-
-Every homeowner knows what to expect to pay toward their mortgage each month but not everyone understands what specific costs make up this recurring monthly payment. To help you gain a better idea of what you’re really paying for, let’s break down what exactly is included in each of your mortgage payments.&nbsp;
+Every homeowner knows what to expect to pay toward their mortgage each month, but not everyone understands what specific costs make up this recurring monthly payment. To help you gain a better idea of what you’re really paying for, let’s break down what exactly is included in each of your mortgage payments.&nbsp;
 
 **First, there’s your principal balance—the amount you owe to your bank for the property’s flat value.** When you first start paying off your mortgage, a large portion of your payments will go toward your interest—the second component on our list. However, over time, the amount of your payment devoted to paying off interest will steadily decrease.&nbsp;
 
-**Another portion of your mortgage payment is your property taxes.** In the state of Florida, there are two kinds of property taxes: ad valorem taxes (which paid in arrears and go toward public works like road work) and non-ad valorem taxes (which are paid in advance and go toward community-related expenses, such as waste management).
+**Another portion of your mortgage payment is your property taxes.** In the state of Florida, there are two kinds of property taxes: ad valorem taxes (which are paid in arrears and go toward public works like road work) and non-ad valorem taxes (which are paid in advance and go toward community-related expenses, such as waste management).
 
 Next, there is the matter of homeowners insurance. Homeowners insurance protects homeowners and lenders alike by covering the property’s value in the event of unforeseen damage, such as from a fire.&nbsp;
 
