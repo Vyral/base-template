@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Our team is growing, and we’re looking to add a key member to help us continue
   to grow. Here’s what we’re looking for.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Do+You+Have+What+It+Takes+to+Join+Our+Growing+Team_.mp4
 pullquote: >-
   This opportunity has a lot of upside potential to take on more responsibility
   and make more money as responsibilities and results accrue.
