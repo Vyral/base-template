@@ -18,7 +18,7 @@ youtube_code: 90Ek1f5uido
 
 {% include youtube.html %}
 
-In addition to helping people with their real estate needs, whether they’re looking to find their perfect island getaway or thinking of moving back to the mainland, I love giving back to our community here in Kauai. It’s a beautiful place filled with wondrous nature and people who embody the Aloha spirit.&nbsp;
+In addition to helping people with their real estate needs, whether they’re looking to find their perfect island getaway or thinking of moving back to the mainland, I love giving back to our community here in Kauai. It’s a beautiful place filled with wondrous nature and people who embody the Aloha Spirit.&nbsp;
 
 One of the ways I work to give back to the community is through my rotary club. Back in 2006, I joined The Rotary Club of Hanalei Bay. Kauai has five rotary clubs, and if you’re not familiar with what a rotary club is, it’s a community service organization. **Our motto is “Service above self,” and there are several causes we support. &nbsp;**
 
@@ -34,7 +34,7 @@ There are plenty of nonprofits we also support, including elementary and high sc
 
 Junior Achievement is another organization for which I serve on the advisory board. This organization provides financial education for elementary and high school-aged kids. When I think about the work we’re doing, it makes me reflect on my childhood and how I never had this type of education. All these years later, I still don’t see enough widespread quality financial education.
 
-**Like I said, I (along with my wife) enjoy serving in these organizations and to give back to the community.** We also go the extra mile for our real estate clients. I’d love to hear about the organizations you’re involved with in your community, so don’t hesitate to give me a call or shoot me an email if you want to talk more about giving back.&nbsp;
+**Like I said, I (along with my wife) enjoy serving in these organizations and to giving back to the community.** We also go the extra mile for our real estate clients. I’d love to hear about the organizations you’re involved with in your community, so don’t hesitate to give me a call or shoot me an email if you want to talk more about giving back.&nbsp;
 
 As always, if you have any real estate questions, don’t hesitate to reach out to me as well. I wish you and your family a happy holiday season.&nbsp;<br>&nbsp;
 
