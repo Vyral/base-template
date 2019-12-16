@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Success After Switching Agents
-date: 2019-12-16 22:14:05
+date: 2019-12-16 22:14:00
 tags:
 excerpt: >-
   Why sometimes switching to a different agent can help you find real estate
