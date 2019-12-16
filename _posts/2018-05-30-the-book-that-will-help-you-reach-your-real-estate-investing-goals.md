@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Here at the Carter Property Group, our mission is to create generational
   wealth through real estate and assist our clients with achieving their goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Get+a+Free+Copy+of+The+Millionaire+Real+Estate+Investor.mp4
 pullquote: >-
   This is the playbook that will take you as far as you want to go with your
   real estate investing needs.
