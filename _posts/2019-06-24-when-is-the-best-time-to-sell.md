@@ -4,7 +4,8 @@ title: When Is the Best Time to Sell
 tags:
   - Real Estate
 excerpt: 'Watch: When should you really put your home on the market?'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+When+is+the+Best+Time+to+Sell_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
