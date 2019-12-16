@@ -33,6 +33,6 @@ For example, let’s say the roof needs repairing. In this case, we’d get a bi
 
 After the deal closes, they’ll give the buyer anywhere from two weeks to 30 days to fix the problem. Once it’s fixed, the mortgage company instructs the title company to release the escrow holdback amount to the buyer.&nbsp;
 
-The bottom line is, **an escrow holdback is a great way to save a deal from falling through.&nbsp;**
+The bottom line is, an escrow holdback is a great way to save a deal from falling through.&nbsp;
 
 If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
