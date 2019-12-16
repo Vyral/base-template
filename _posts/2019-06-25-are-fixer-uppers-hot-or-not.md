@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Are fixer-upper properties still a highly sought-after item in today’s market?
   I’ll answer that question in today’s video.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg
 pullquote: >-
   Buyers of today don’t want to have to tackle a long list of upgrades after
   closing on a home.
