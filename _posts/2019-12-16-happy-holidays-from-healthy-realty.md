@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/JsBUMPvFfik'
 
 {% include youtube.html %}
 
-Happy holidays from all of us at Healthy Realty\!
+<p style="text-align: center;"><em>Happy holidays from all of us at Healthy Realty!</em></p>
 
 Merry Christmas and happy holidays\! I’m out here at the James Island County Park Holiday Festival of Lights, it is a wonderful place to come and savor a little Christmas spirit with your family.
 
