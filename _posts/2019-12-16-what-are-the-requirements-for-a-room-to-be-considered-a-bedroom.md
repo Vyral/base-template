@@ -4,7 +4,9 @@ title: What Are the Requirements for a Room to Be Considered a Bedroom?
 date: 2019-12-16 00:00:00
 tags:
   - Real Estate
-excerpt: What must a room have to be considered a bedroom? Here’s what you need to know.
+excerpt: >-
+  What must a room have to be considered a bedroom? Here’s what you need to
+  know.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +18,7 @@ youtube_code: UfGDuZiDy6I
 
 {% include youtube.html %}
 
-<center><em>What must a room have to be considered a bedroom? Here’s what you need to know.</em></center>
+<center><em>What must a room have to be considered a bedroom? Here&rsquo;s what you need to know.</em></center>
 
 <br>I get a lot of questions about what the requirements are for a room to be considered a proper bedroom.
 
