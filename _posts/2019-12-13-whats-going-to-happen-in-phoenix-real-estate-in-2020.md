@@ -25,7 +25,7 @@ youtube_code: wecYJVE-Ypg
 
 **There are a couple of things we know for sure**. First, there is going to be a presidential election. Second, the market will probably continue on its current trend.
 
-During an election year, we often see the market slowdown leading up to the election. People tend to freeze and wait for the outcome of the election before they feel comfortable moving forward with a big financial transaction.
+During an election year, we often see the market slow down leading up to the election. People tend to freeze and wait for the outcome of the election before they feel comfortable moving forward with a big financial transaction.
 
 {% include pullquote.html %}
 
