@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/wishing-you-the-best-this-holiday-season-youtu
 youtube_code: Ujv7mutc6nM
 ---
 
-{% include youtube.html %}&lt;p style="text-align: center;"&gt;*As we head into the holiday season, we just wanted to express our gratitude for all the support you’ve shown our team. Here’s our full holiday message.*&lt;/p&gt;
+{% include youtube.html %}
 
 We wanted to take a minute to wish everyone a very Merry Christmas, happy holidays, and a happy new year. We hope you have had a great 2019 and are looking forward to 2020 as well.
 
