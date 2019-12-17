@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "Don't Miss This Great Event"
+title: Don't Miss This Great Event
 tags:
   - Real Estate
-excerpt: 'Learning about buying a home just got more fun. Our upcoming event is going to be a great time with food, drinks, and valuable information about the homebuying process.'
-enclosure:
+excerpt: >-
+  Learning about buying a home just got more fun. Our upcoming event is going to
+  be a great time with food, drinks, and valuable information about the
+  homebuying process.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Don't+Miss+This+Great+Event.mp4
 pullquote: You’re invited to our upcoming first-time homebuyers social.
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,7 +16,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/carter-ss.jpg
 youtube_code: cxPnmge1k9k
 ---
-
 
 {% include youtube.html %}
 
