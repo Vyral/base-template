@@ -3,16 +3,20 @@ layout: post
 title: How the Carter Property Group Is Different
 tags:
   - Real Estate
-excerpt: 'As a real estate professional working with Carter Property Group, my job is to ensure that communication is clear all the way through closing.'
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4'
-pullquote: The opportunities I’ve found here remind me of the reason I got into real estate to begin with.
+excerpt: >-
+  As a real estate professional working with Carter Property Group, my job is to
+  ensure that communication is clear all the way through closing.
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4
+pullquote: >-
+  The opportunities I’ve found here remind me of the reason I got into real
+  estate to begin with.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/intro-00-05-51-21-still003.jpg
 youtube_code: bBezg8lfCwM
 ---
-
 
 {% include youtube.html %}
 
