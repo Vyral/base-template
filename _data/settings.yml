@@ -23,12 +23,10 @@ client:
   url: http://www.abeltejeda.com
 
 CTAs:
-  first_CTA_text: Loan Calculator
-  first_CTA_URL: https://www.abeltejeda.com/calculator/What-Is-Missing
-  second_CTA_text: Apply Online
-  second_CTA_URL: https://abeltejeda-com.mysecureloan.com/applications/page1.php?lng=en
-  third_CTA_text: Get Prequalified
-  third_CTA_URL: https://calendly.com/abeltejeda/prequalification/03-29-2018
+  first_CTA_text: Submit Your Application
+  first_CTA_URL: http://bit.ly/submittinfo
+  second_CTA_text: Schedule an Appointment
+  second_CTA_URL: https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808804';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
@@ -36,15 +34,15 @@ sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "Get Your Mortgage Today!"
     CTA_text: "Are you thinking of buying a home in the San Diego area? We can help."
-    CTA_link_text: "Get Pre-Qualified"
+    CTA_link_text: "Submit Your Application"
     CTA_url: https://calendly.com/abeltejeda/prequalification/03-29-2018
 
-# second_sidebar_CTA:
-#   - CTA_image_path2: /img/cta-images/005.jpg
-#     CTA_title2: "Looking for a -- MARKET -- Home?"
-#     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-#     CTA_link_text2: "Search the MLS"
-#     CTA_url2: /homesearch/
+second_sidebar_CTA:
+  - CTA_image_path2: /img/cta-images/005.jpg
+    CTA_title2: "15 Minute Phone Consultation"
+    CTA_text2: "This appointment is to go over your scenario and determine what options are available to you."
+    CTA_link_text2: "Schedule an Appointment"
+    CTA_url2: https://calendly.com/abeltejeda/15-minute-phone-consultation?back=1&month=2019-12
 
 lender:
   show_section: false
@@ -89,7 +87,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
+  logo_width_number: 50
   hero_text: Abel Tejeda's Mortgage Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
@@ -105,7 +103,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 10px
-  shadow_color: rgba (32, 63, 118, 0.8)
+  shadow_color: white
 
 buttons:
   button_radius_number: 0
