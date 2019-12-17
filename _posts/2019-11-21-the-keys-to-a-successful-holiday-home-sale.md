@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We have five successful tips to help you sell your home during the holiday
   season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/The+Keys+to+a+Successful+Holiday+Home+Sale.mp4
 pullquote: >-
   Home sellers often ask if they should decorate their homes for the holidays if
   they plan to sell, and the answer is yes—but do it tastefully!
