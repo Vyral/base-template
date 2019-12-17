@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Things to Tackle If You're Updating"
+title: Things to Tackle If You're Updating
 tags:
   - Home Seller Tips
-excerpt: 'If you’re looking to sell your home, what are some great updates you can make before you go on the market? Today I’ll go over what areas you should focus on to ensure the best return.'
+excerpt: >-
+  If you’re looking to sell your home, what are some great updates you can make
+  before you go on the market? Today I’ll go over what areas you should focus on
+  to ensure the best return.
 enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Mar%201%20%281%29.mp4'
 pullquote: The areas you’ll want to focus on are the kitchen and bathrooms.
 enclosure_type: video/mp4
@@ -12,7 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/intro-00-03-42-00-still002.jpg
 youtube_code: ehZMeV8zf70
 ---
-
 
 {% include youtube.html %}
 
@@ -32,4 +34,4 @@ Updates can bring some pretty significant returns and there are ways to update y
 
 One of the things my team and I have successfully done over the years is help navigate sellers to the best upgrades for their homes that will have the best returns. If you’re thinking about selling, we can definitely help you key in on the things that will be the most important to buyers.
 
-If anyone you know is looking to buy, sell, or invest in real estate or you have any other questions, please feel free to reach out to me. I’m happy to help!
+If anyone you know is looking to buy, sell, or invest in real estate or you have any other questions, please feel free to reach out to me. I’m happy to help\!
