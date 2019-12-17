@@ -3,8 +3,11 @@ layout: post
 title: 'Breaking News: Interest Rates to Increase'
 tags:
   - Market Update
-excerpt: The Federal Reserve has just increased their interest rates. Here’s what it means for buyers and sellers in Chicagoland.
-enclosure: 'http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4'
+excerpt: >-
+  The Federal Reserve has just increased their interest rates. Here’s what it
+  means for buyers and sellers in Chicagoland.
+enclosure: >-
+  http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4
 pullquote: We’re still in a strong seller’s market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -12,7 +15,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/intro-00-03-24-04-still003.jpg
 youtube_code: 49bxPkd_66M
 ---
-
 
 {% include youtube.html %}
 
