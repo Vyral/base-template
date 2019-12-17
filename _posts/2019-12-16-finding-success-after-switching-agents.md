@@ -11,14 +11,14 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/switching-agents-youtube.jpg
 youtube_code: aJnynH_QpNQ
 ---
 
 {% include youtube.html %}
 
-Today’s topic may seem strange to some. Why do some people find success buying or selling a home after switching agents? Being a loan officer, I have the privilege of working with dozens of the top agents in the area. I’ve had the honor of helping thousands of people through the home buying process. Over the years I have discovered there is a learning curve and process when someone is entering into the housing market or they are selling and buying a home. This means that sometimes the real estate agent you begin with is not who eventually fits your needs.&nbsp;
+Today’s topic may seem strange to some. Why do some people find success buying or selling a home after switching agents? Being a loan officer, I have the privilege of working with dozens of the top agents in the area. I’ve had the honor of helping thousands of people through the home buying process. Over the years, I have discovered there is a learning curve when entering the housing market to buy or sell a home. This means that sometimes the real estate agent you begin with is not who eventually fits your needs.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
