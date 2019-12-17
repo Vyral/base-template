@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know About Home Inspections
-date:
+date: 2019-12-17 19:00:20
 tags:
 excerpt: Today I’m discussing the importance of home inspections.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/payne-youtube-1-3.jpg
 youtube_code: vjn17a7Dgb8
 ---
 
-{% include youtube.html %}<center>Today I’m discussing the importance of home inspections.</center>
+{% include youtube.html %}
+
+<center>Today I&rsquo;m discussing the importance of home inspections.</center>
+
+&nbsp;
 
 Today I want to discuss a topic I get asked about all the time: home inspections. When you have a property in contract, contact a professional inspector to take a look at it and **make sure you ask to see their license.** In the state of Ohio, home inspectors must now be licensed. Inspectors will go through a property and evaluate its condition.&nbsp;
 
