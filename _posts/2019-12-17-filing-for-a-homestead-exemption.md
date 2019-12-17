@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Filing for a Homestead Exemption
-date: 2019-12-17 22:08:13
+date: 2019-12-17 22:08:00
 tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: >-
   If you bought a home as a primary residence in 2019, I recommend filing for a
   homestead exemption.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jason+Wilson/+Videos/2019/December/Filing+for+a+Homestead+Exemption.mp4
 pullquote: This is something we recommend to all homeowners.
 enclosure_type: video/mp4
 enclosure_time:
