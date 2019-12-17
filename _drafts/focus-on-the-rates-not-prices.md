@@ -21,7 +21,9 @@ youtube_code: elVFW6LkFoE
 
 {% include youtube.html %}
 
-Today we’re going to examine what’s going on in the market right now, specifically interest rates and housing prices.
+<center><em>As we head into a new year full of speculation, a lot of buyers are convinced prices will drop.</em></center>
+
+<br>Today we’re going to examine what’s going on in the market right now, specifically interest rates and housing prices.
 
 The biggest question we’re repeatedly being asked right now is, “Should I wait until next year to buy? Aren’t prices set to drop then?”
 
