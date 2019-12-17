@@ -10,8 +10,8 @@ enclosure: >-
 pullquote: 'In the spirit of the season, we would like to wish you all happy holidays'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/john-schuster---dec-2019---1---email-edit4.jpg
 youtube_code: sHpyaxIO8Bc
 ---
 
