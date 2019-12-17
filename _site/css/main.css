@@ -2420,6 +2420,12 @@ table tr, table td {
   text-align: left;
   height: 75px; }
 
+.google-logo {
+  fill: white;
+  max-height: 3rem;
+  position: relative;
+  top: 0.5rem; }
+
 .review.button, .review.button-ghost {
   text-align: center;
   display: inline-block;
@@ -2784,19 +2790,19 @@ form select {
     margin: 10px auto;
     width: 90%; } }
 .cta {
-  background: #ffffff;
-  color: #123456;
+  background: #203F76;
+  color: #ffffff;
   padding: 1.3rem 2rem;
-  margin-top: 12px;
   text-transform: capitalize;
   font-size: 2rem;
+  margin-top: 12px;
   font-weight: 300;
-  border: 2px solid #ffffff;
+  border: 2px solid #203F76;
   -webkit-transition: 0.3s;
   transition: 0.3s; }
   .cta:hover {
-    background: transparent;
-    color: #366ac6;
+    background: #eee;
+    color: #123456;
     box-shadow: 4px 4px 0 #366ac6;
     border: 2px solid #ffffff;
     -webkit-transform: scale(1.05);
@@ -2806,12 +2812,10 @@ form select {
   .cta:active {
     box-shadow: 0 0 0 #366ac6;
     -webkit-transform: translateY(0rem);
-    transform: translateY(0rem);
-    text-decoration: none;
-    color: #203F76; }
+    transform: translateY(0rem); }
   .cta:focus {
     text-decoration: none;
-    color: #203F76; }
+    color: #fff; }
 
 .cta2 {
   background: #203F76;
