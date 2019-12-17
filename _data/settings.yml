@@ -1,5 +1,5 @@
 audit_header: false
-title: American Mortgage Group
+title: The Mortgage Guy
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
 show_custom_links: false
 custom_links:
@@ -12,7 +12,7 @@ client:
   about_markdown: |
     Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.
   market: San Diego
-  brand: American Mortgage Group
+  brand: The Mortgage Guy
   brokerage:
   address: 1419 University Ave, Suite C<br>San Diego, CA 92103
   phone: 619-948-2996
@@ -65,7 +65,6 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/Abel-Tejeda-American-Mortgage-Group-993302390783767
   linkedin_url: https://www.linkedin.com/in/abel-tejeda-8aaba16
-  gplus_url: https://plus.google.com/109416905498767543671/about
   youtube_url: https://www.youtube.com/channel/UCTYKaTvO3ETTcSZWhQLieLg
   twitter_url:
   instagram_url:
