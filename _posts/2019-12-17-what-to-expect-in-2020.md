@@ -18,6 +18,7 @@ youtube_code: O7GhxxuTJUs
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>As we head toward a new decade, I wanted to talk to you about a few things that you can expect from the real estate market in 2020.</em></p>
 
 The new year is almost here, but what’s 2020 going to look like for our real estate market? **First, we can use history to predict what will happen in the future.**
 
