@@ -12,14 +12,14 @@ enclosure: >-
 pullquote: 'Renovating right after you move is stressful, which is another reason to wait.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/wait-to-renovate-youtube.jpg
 youtube_code: Ic6fjU01cWQ
 ---
 
 {% include youtube.html %}
 
-Everyone is looking for a move-in ready home with nothing to do. While those properties are certainly selling quickly, they’re also selling in competitive multiple-offer situations. **If you’re a homebuyer, some of your best buys might be the homes that need a little bit of work and aren’t necessarily move-in ready.** These kinds of homes aren’t selling as quick and might be a better option for you because of their lower price.
+Everyone is looking for a move-in ready home with nothing to do. While those properties are certainly selling quickly, they’re also selling in competitive multiple-offer situations. **If you’re a homebuyer, some of your best buys might be the homes that need a little bit of work and aren’t necessarily move-in ready.** These kinds of homes aren’t selling as quickly and might be a better option for you because of their lower price.
 
 {% include pullquote.html %}
 
