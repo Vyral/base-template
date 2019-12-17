@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/JsBUMPvFfik'
 
 <p style="text-align: center;"><em>Happy holidays from all of us at Healthy Realty!</em></p>
 
-Merry Christmas and happy holidays\! I’m out here at the James Island County Park Holiday Festival of Lights, it is a wonderful place to come and savor a little Christmas spirit with your family.
+Merry Christmas and happy holidays\! I’m out here at the James Island County Park Holiday Festival of Lights, a wonderful place to come and savor a little Christmas spirit with your family.
 
 There are so many joyful things to do around Charleston this season. I hope you go out and have a chance to get into the holiday spirit. Remember, we’re always here if you need any help with real estate. Happy holidays to you and your family\!
 
