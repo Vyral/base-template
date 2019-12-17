@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Focus on the Rates, Not Prices'
+title: 'Focus on the Rates, Not the Prices'
 date: 2019-12-17 00:00:00
 tags:
   - Real Estate
