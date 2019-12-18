@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Don't Forget to Vote!
+title: Last Day to Vote!
 date: 2019-12-18 15:07:00
 tags:
 excerpt: We'd love to receive your vote!
@@ -15,7 +15,7 @@ youtube_code: _DYpGaCAHYY
 
 {% include youtube.html %}
 
-December 18th is the last day to vote Limbird Real Estate Group for Northwest Arkansas Best of the Best. Please consider the Limbird Team for the following:
+Vote Limbird Real Estate Group for Northwest Arkansas Best of the Best. Polls close December 19th. Please consider the Limbird Team for the following:
 
 * Best Real Estate Company
 * Best Real Estate Team
