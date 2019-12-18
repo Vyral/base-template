@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Don't Forget to Vote!
-date: 2019-12-18 15:07:04
+date: 2019-12-18 15:07:00
 tags:
-excerpt:
+excerpt: We'd love to receive your vote!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
