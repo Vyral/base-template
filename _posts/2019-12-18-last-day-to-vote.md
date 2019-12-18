@@ -3,7 +3,7 @@ layout: post
 title: Last Day to Vote!
 date: 2019-12-18 15:07:00
 tags:
-excerpt: We'd love to receive your vote!
+excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -22,6 +22,6 @@ Vote Limbird Real Estate Group for Northwest Arkansas Best of the Best. Polls cl
 * Best Real Estate Agent (Tara Limbird)
 * Best Customer Service
 
-We'd love to receive your vote\!&nbsp;
+**[Click Here](http://VoteBestNWA.com/Limbird){: target="_blank"}** to place your vote.
 
 As always, feel free to reach out to us as well\!
