@@ -15,7 +15,7 @@ youtube_code: _DYpGaCAHYY
 
 {% include youtube.html %}
 
-December 18th is the last day to vote the Limbird Team for Northwest Arkansas Best of the Best. Please consider the Limbird Team for the following:
+December 18th is the last day to vote Limbird Real Estate Group for Northwest Arkansas Best of the Best. Please consider the Limbird Team for the following:
 
 * Best Real Estate Company
 * Best Real Estate Team
