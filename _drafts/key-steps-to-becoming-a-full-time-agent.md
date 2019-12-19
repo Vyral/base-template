@@ -3,14 +3,17 @@ layout: post
 title: Key Steps to Becoming a Full-Time Agent
 date:
 tags:
-excerpt:
+excerpt: >-
+  Most real estate agents start out working part-time, trying to balance family
+  time and learning a brand new business. Today I’ll share a little about how to
+  go full time.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/ss-53.jpg
+youtube_code: aS3VBjw418Y
 ---
 
 {% include youtube.html %}Most real estate agents start out working part-time, trying to balance family time and learning a brand new business. Today I’ll share a little about how to go full time.&nbsp;
