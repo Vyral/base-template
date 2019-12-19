@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/iC1buEeV79A'
 
 {% include youtube.html %}
 
-Today I’m introducing Jennakah, our operations director.
+<p style="text-align: center;"><em>Today I’m introducing Jennakah, our operations director.</em></p>
 
 We’re here with Jennakah Cloward, who has been on the team for a long time. She’s really grown in her roles and progressed from an administrative assistant to a transaction coordinator, and now she’s in a leadership position as our operations director.&nbsp;
 
