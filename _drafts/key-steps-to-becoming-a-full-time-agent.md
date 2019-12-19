@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/ss-53.jpg
 youtube_code: aS3VBjw418Y
 ---
 
-{% include youtube.html %}Most real estate agents start out working part-time, trying to balance family time and learning a brand new business. Today I’ll share a little about how to go full time.&nbsp;
+{% include youtube.html %}<center>Most real estate agents start out working part-time, trying to balance family time and learning a brand new business. Today I’ll share a little about how to go full time.&nbsp;</center>
 
 In today’s video, I’m going to answer two very important questions for you: “What is the quickest way to move from part-time to full-time in real estate sales?” and “How do you know it’s the right time to make that move?”
 
