@@ -28,6 +28,6 @@ This is something I recommend to all homeowners. **The exemption allows you to r
 
 Each county has different rules regarding homestead exemptions, but **Cherokee and Cobb counties also offer a senior exemption,** which you can file for if you’re over the age of 62. If you’re married, just one person has to be over the age limit to qualify. This exemption discounts about 75% from the school portion of your tax. Since the majority of your tax bill goes toward your school district, this is a massive discount.&nbsp;
 
-To know more about the rules for filing a homestead exemption or senior exemption in Cherokee County, **click on this link.** For Cobb County, **click on this link.** If you bought your home before 2019 and forgot to file for a homestead exemption, you can still do so.&nbsp;
+To know more about the rules for filing a homestead exemption or senior exemption in Cherokee County, [**click on this link.**](https://www.cherokeega.com/Tax-Assessors-Office/homestead-exemptions/){: target="_blank"} For Cobb County, [**click on this link.**](https://www.cobbtax.org/property/exemptioninformation){: target="_blank"} If you bought your home before 2019 and forgot to file for a homestead exemption, you can still do so.&nbsp;
 
 If you’d like to talk more about this topic or you have any other real estate needs, don’t hesitate to reach out to me. I’d love to help you.
