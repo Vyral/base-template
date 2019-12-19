@@ -19,7 +19,7 @@ youtube_code: mSBOP9OGrFo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What is delayed financing and how can you benefit from it? Let’s discuss.</em></p>
+*What is delayed financing and how can you benefit from it? Let’s discuss.*
 
 Every now and then, I meet with a homeowner who chose to make an all-cash purchase on their home. While there’s nothing wrong with buying your home this way, if you ever want to accrue debt on the property, my opinion is **it’s best to start at the original point of purchase.** Today I’ll tell you why, but I’ll also explain an alternative option: **delayed financing**. &nbsp;
 
@@ -29,7 +29,7 @@ This is a conversation worth having with your CPA, but I’ll give you the gist:
 
 {% include pullquote.html %}
 
-Now, I should point out that delayed financing loans can be tricky. For one thing, **lenders have to source the funds from the original cash purchase**—by far the most common issues that arises. In other words, the way we handle financing in a specific situation will depend on the source of the funds used to buy the home. For example, say the source was a secured asset like a brokerage line of credit or a home equity line of credit. In that case, the cash-out proceeds for the delayed financing loan must go directly to that particular creditor to pay back what was borrowed. &nbsp;
+Now, I should point out that delayed financing loans can be tricky. For one thing, **lenders have to source the funds from the original cash purchase**—by far the most common issue that arises. In other words, the way we handle financing in a specific situation will depend on the source of the funds used to buy the home. For example, say the source was a secured asset like a brokerage line of credit or a home equity line of credit. In that case, the cash-out proceeds for the delayed financing loan must go directly to that particular creditor to pay back what was borrowed. &nbsp;
 
 It’s also fairly common for us to see situations where a third-party person has gifted the money to the original purchaser. Unfortunately, this will disqualify you from receiving a delayed financing loan. Based on Freddie Mac and Fannie Mae’s regulatory rules, it’ll be six months before you’re eligible for a cash-out refinance, which is, of course, problematic since you have just 90 days to receive the tax writeoff associated with acquisition indebtedness. &nbsp; &nbsp;&nbsp;
 
