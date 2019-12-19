@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What must a room have to be considered a bedroom? Here’s what you need to
   know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brittany+Foy/Videos/What+Are+the+Requirements+for+a+Room+to+Be+Considered+a+Bedroom_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
