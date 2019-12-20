@@ -19,7 +19,9 @@ youtube_code: s_t4bt55DY4
 
 {% include youtube.html %}
 
-Loan limits are increasing in 2020. What does that mean? First, there’s a difference between your purchase price and your loan limits. For instance, conventional loans have increased; in 2019 the limit was $484,000, and in 2020, the limit is $510,400. **That’s over a 5% boost in just one year**.
+<center><em>Loan limits are increasing in 2020 for conventional, FHA, and VA loans. Here’s what you need to know.</em></center>
+
+<br>Loan limits are increasing in 2020. What does that mean? First, there’s a difference between your purchase price and your loan limits. For instance, conventional loans have increased; in 2019 the limit was $484,000, and in 2020, the limit is $510,400. **That’s over a 5% boost in just one year**.
 
 If you don’t have the 20% down for a conventional loan, an FHA product is an excellent option. It’s 3.5% down and those limits are increasing, too. In 2019, they were $339,250. In 2020 they are $356,500, a 5% escalation. This helps your buying power when you’re purchasing a new home with an FHA loan.
 
