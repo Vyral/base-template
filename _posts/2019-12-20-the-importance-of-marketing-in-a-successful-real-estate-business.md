@@ -19,7 +19,7 @@ youtube_code: j3xY32TB8g0
 
 {% include youtube.html %}
 
-*A career in the real estate business is also a career in the marketing business. Here’s why.*
+<p style="text-align: center;"><em>A career in the real estate business is also a career in the marketing business. Here’s why.</em></p>
 
 We’re almost into 2020, but before we get there, I have a message for you. Everybody wants to get into the real estate business, but **if you’re getting into the real estate business right now, you’re actually getting into the marketing business as well.**
 
