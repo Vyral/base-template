@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy New Year From the Ron Margolis Team!
+title: Happy New Year From the Margolis Team!
 date: 2019-12-20 18:29:00
 tags:
   - Real Estate
