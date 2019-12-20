@@ -31,9 +31,11 @@ Think about an area of your life you’d like to improve. Chances are, more than
 
 ### Previous Webinars:
 
-&nbsp;
+**Goal Setting NOW to Explode Your 2020 Production\!, November 2019**&nbsp;— [Video](https://youtu.be/Ma5D_0ij_As) — [Resources](https://www.dropbox.com/sh/vdpqb5qxz9iyjd2/AADNyIaENKQ0vPI3nCJsSkF_a?dl=0)
 
-**How to Build Corporate Accounts to Generate Multiple Leads, September 2019**&nbsp;— [Video](https://youtu.be/WKVveoa-cps ) — [Resources](https://www.dropbox.com/sh/suy9ycdebnnkapn/AADIMhgd36xXwXjDhWPfhvU_a?dl=0)
+**Raise Your Average Sales Price: Tactics to Make More Per Deal, October 2019**&nbsp;— [Video](https://youtu.be/xuM9bGZQQxw ) — [Resources](https://www.dropbox.com/sh/zipik14x8mpu1c4/AADOiblCwWcgH1hzyq7m5DDga?dl=0)
+
+**How to Build Corporate Accounts to Generate Multiple Leads, September 2019**&nbsp;— [Video](https://youtu.be/WKVveoa-cps) — [Resources](https://www.dropbox.com/sh/suy9ycdebnnkapn/AADIMhgd36xXwXjDhWPfhvU_a?dl=0)
 
 **Delegation: How to Get Time Wasters Off Your Schedule, August 2019**&nbsp;— [Video](https://www.youtubhttps://www.youtube.com/watch?v=1_D6ttusjBU&amp;feature=youtu.bee.com/watch?v=GakbwHUneTg&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/6qeho75f6jfeefh/AADRBOAYTAF_mWxszxHki5D7a?dl=0)
 
