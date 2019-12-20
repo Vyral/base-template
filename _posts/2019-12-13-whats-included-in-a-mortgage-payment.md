@@ -20,7 +20,7 @@ youtube_code: fUd8L47zg88
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What does your mortgage payment cover each month? Let’s discuss.</em></p>
+*What does your mortgage payment cover each month? Let’s discuss.*
 
 Every homeowner knows what to expect to pay toward their mortgage each month, but not everyone understands what specific costs make up this recurring monthly payment. To help you gain a better idea of what you’re really paying for, let’s break down what exactly is included in each of your mortgage payments.&nbsp;
 
@@ -32,7 +32,7 @@ Next, there is the matter of homeowners insurance. Homeowners insurance protects
 
 {% include pullquote.html %}
 
-It’s important not to confuse homeowners insurance for the next expense on our list: private mortgage insurance. **Most loans, except for conventional loans, carry private mortgage insurance with them to protect lenders from a total loss if you default on your loan.** However, only homeowners who put down less than 20% when they purchased their property will have to pay for this additional expense, which, in most cases, drops off once they’ve gained 20% equity. There are some loan programs in which private mortgage insurance (also known as PMI) remains as an additional expense for the life of the loan, though. The bottom line is that you need to have a clear discussion with your lender about what to expect whenever you take out a mortgage.&nbsp;
+It’s important not to confuse homeowners insurance for the next expense on our list: private mortgage insurance. **Most loans carry private mortgage insurance with them to protect lenders from a total loss if you default on your loan.** However, only homeowners who put down less than 20% when they purchased their property will have to pay for this additional expense, which, in most cases, drops off once they’ve gained 20% equity. There are some loan programs in which private mortgage insurance (also known as PMI) remains as an additional expense for the life of the loan, though. The bottom line is that you need to have a clear discussion with your lender about what to expect whenever you take out a mortgage.&nbsp;
 
 Finally, people often ask us about whether homeowners association (HOA) fees are included in their mortgage payment. Actually, no. **This additional fee isn’t technically part of your mortgage but it is still your responsibility as a homeowner to pay.** If your property is within an HOA, you must make this payment as diligently as you would any other expense, as the association could take out a lien against you otherwise. The good news is that the money you pay toward your HOA fees each month goes toward keeping your neighborhood in good shape. These fees are designed to account for general upkeep, as well as the enforcement of certain rules and regulations.&nbsp;
 
