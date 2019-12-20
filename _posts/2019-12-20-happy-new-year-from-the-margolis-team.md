@@ -4,10 +4,10 @@ title: Happy New Year From the Margolis Team!
 date: 2019-12-20 18:29:00
 tags:
   - Real Estate
-excerpt:
-enclosure: >-
+excerpt: >-
   As 2019 is winding down, I wanted to reflect back on all the people we’re
   thankful for.
+enclosure:
 pullquote: >-
   My team and I work hard so that buying or selling real estate can be easy for
   you.
