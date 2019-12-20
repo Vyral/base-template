@@ -21,7 +21,9 @@ youtube_code: 27jylgKt9hw
 
 {% include youtube.html %}
 
-When is the best time to sell your home?&nbsp;
+<center><em>To know the best time to sell your home, there are several factors to consider.</em></center>
+
+<br>When is the best time to sell your home?
 
 This question was recently asked by a viewer of my video blog named Neil who benefited from my home selling advice earlier in 2019. Neil was preparing his home for the market, but he was flexible in terms of when to list it. When he sought my advice, I ran the numbers and figured out that the best time to put his property on the market was in February. Inventory would be low and I foresaw more competition hitting the market and prices dropping after February was over.
 
