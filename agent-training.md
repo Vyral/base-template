@@ -31,6 +31,10 @@ Think about an area of your life you’d like to improve. Chances are, more than
 
 ### Previous Webinars:
 
+**Delegation: How to Get Time Wasters Off Your Schedule, August 2019**&nbsp;— [Video](https://www.youtubhttps://www.youtube.com/watch?v=1_D6ttusjBU&amp;feature=youtu.bee.com/watch?v=GakbwHUneTg&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/6qeho75f6jfeefh/AADRBOAYTAF_mWxszxHki5D7a?dl=0)
+
+**Help\! I Need Some Balance in My Life NOW, July 2019** — [Video](https://youtu.be/RTc6E1Gq3XQ ) — [Resources](https://www.dropbox.com/sh/j0ml2ibnwxgpalt/AADYKqf0XYyuciEUIaeAlflNa?dl=0)
+
 **The Simple Form to Make Sure You Are Making Money\!, June 2019** — [Video](https://www.youtube.com/watch?v=GakbwHUneTg&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/tj5vrrmzoxz9v7o/AAD1ICYkq-adbMVdOCRh35QZa?dl=0)
 
 **How to Build a Profitable Team, May 2019** — [Video](https://www.youtube.com/watch?v=cURa-Q2Isi8&amp;feature=youtu.be) — [Resources](https://www.dropbox.com/sh/0l47k86hlh02ipl/AABQecYB8y7-s-QbtXKYArjRa?dl=0)
