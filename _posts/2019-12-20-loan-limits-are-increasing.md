@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loan Limits are Increasing
+title: Loan Limits Are Increasing
 date: 2019-12-20 00:00:00
 tags:
   - Real Estate
