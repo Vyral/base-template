@@ -31,4 +31,4 @@ What is Jennakah’s biggest challenge? “Every day it’s a challenge to help 
 
 Jennakah’s main role as operations director is client care, so she’s in charge of client delight and finding innovative ways to raise the bar in how we satisfy our clients. **She has been a blessing to our team\!**
 
-If you know of anyone who might be interested in a real estate career, we would love to hear from you. Reach out and we’ll connect with you soon\! If you ever have any questions concerning real estate please contact us by phone or email. We would love to help you\!
+If you know of anyone who might be interested in a real estate career, we would love to hear from you. Reach out and we’ll connect with you soon\! If you ever have any questions concerning real estate, please contact us by phone or email. We would love to help you\!
