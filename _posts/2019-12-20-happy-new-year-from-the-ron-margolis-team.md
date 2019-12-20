@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Happy New Year From the Ron Margolis Team!
-date: 2019-12-20 18:29:15
+date: 2019-12-20 18:29:00
 tags:
   - Real Estate
 excerpt:
@@ -13,8 +13,8 @@ pullquote: >-
   you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/12-17-19small.jpg
 youtube_code: RsIR8vhiseQ
 ---
 
