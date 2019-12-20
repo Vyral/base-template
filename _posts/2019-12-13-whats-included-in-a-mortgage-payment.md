@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mortgage-payments-youtube.jpg
-youtube_code: fUd8L47zg88
+youtube_code: qGe4Eets_h0
 ---
 
 {% include youtube.html %}
