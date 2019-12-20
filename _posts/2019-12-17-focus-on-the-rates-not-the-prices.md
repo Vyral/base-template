@@ -27,7 +27,7 @@ youtube_code: elVFW6LkFoE
 
 The biggest question we’re repeatedly being asked right now is, “Should I wait until next year to buy? Aren’t prices set to drop then?”
 
-Our response is always the same: We don’t know that will happen; prices may stabilize, which is normal, but they won’t go down.
+Our response is always the same: We don’t know what will happen; prices may stabilize, which is normal, but they won’t go down.
 
 **What’s more important for buyers to consider is securing a low interest rate**. It’s a long-term benefit you should always be looking to capitalize on instead of waiting for some undetermined time when home prices may drop by $20,000.
 
@@ -37,6 +37,8 @@ Additionally, it’s good to remember that refinancing a 30-year fixed interest 
 
 Ultimately, **you can have compound interest work for you or against you**. Typically, with mortgages, it’s working against people—that is, unless, you nab that really low interest rate.
 
-We’re always keeping an eye on prime opportunities refinance. Right now, the market is giving us a gift, and homeowners should take advantage of it\!
+We’re always keeping an eye on prime opportunities to refinance. Right now, the market is giving us a gift, and homeowners should take advantage of it\!
 
 Back when we bought our first home, we were at an interest rate of 8% and that was normal at the time. It’s a far cry from the fantastically low rates we’re enjoying now.
+
+If you ever have any questions about real estate, please reach out to us by phone or email. We would love to help you.
