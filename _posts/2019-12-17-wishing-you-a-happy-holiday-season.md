@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/happy-holidays-youtube.jpg
 youtube_code: L2qwYUCL8MU
 ---
 
-{% include youtube.html %}
+<center>{% include youtube.html %}</center>
 
 <p style="text-align: center;"><em>We want to wish you a happy holiday season.</em></p>
 
