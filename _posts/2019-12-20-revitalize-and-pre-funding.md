@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: We’re sharing our two new programs to help you with the home selling process.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/Revitalize+and+Pre-Funding.mp4
+  https://vyralmarketing.s3.amazonaws.com/Kari+Kohler/Videos/Revitalize+and+Pre-Funding+(1).mp4
 pullquote: These two programs will help you sell your home with less hassle.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/progyt.jpg
-youtube_code: d_mXkAY3Ne0
+youtube_alternate_image: /uploads/progyt-1.jpg
+youtube_code: gRiNFWmiQbc
 ---
 
 {% include youtube.html %}
