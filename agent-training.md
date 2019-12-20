@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 Think about an area of your life you’d like to improve. Chances are, more than just one thing comes to mind. Whether you’d like to get in shape, make more money in your business, or do a better job of connecting with friends and family, the key to making these things happen starts with setting clear goals. This is exactly what we discussed in our latest CORE Training real estate coaching session, and now is your chance to hear the full webinar for yourself.
 
-<iframe width="734" height="413" src="https://www.youtube.com/embed/GakbwHUneTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/Ma5D_0ij_As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
 
