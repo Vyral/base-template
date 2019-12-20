@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Wish you a Merry Christmas
-date:
+date: 2019-12-20 18:16:13
 tags:
   - Real Estate
 excerpt:
