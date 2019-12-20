@@ -9,7 +9,7 @@ excerpt: >-
   business. Here’s why.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/The+Importance+of+Marketing+in+a+Successful+Real+Estate+Business.mp4
-pullquote: The Importance of Marketing in a Successful Real Estate Business
+pullquote: You want to stand out from the crowd in this business.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -19,7 +19,7 @@ youtube_code: j3xY32TB8g0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>A career in the real estate business is also a career in the marketing business. Here’s why.</em></p>
+*A career in the real estate business is also a career in the marketing business. Here’s why.*
 
 We’re almost into 2020, but before we get there, I have a message for you. Everybody wants to get into the real estate business, but **if you’re getting into the real estate business right now, you’re actually getting into the marketing business as well.**
 
