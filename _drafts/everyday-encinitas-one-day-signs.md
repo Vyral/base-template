@@ -20,7 +20,9 @@ youtube_code: qBD_EmtmEpI
 
 {% include youtube.html %}
 
-Today on “Everyday Encinitas,” our quest to spotlight local businesses and community organizations, brings us into the company of Marco San Antonio, owner of One Day Signs.
+<center><em>I recently met with Marco San Antonio, of One Day Signs, to discuss what his business offers to the people of Encinitas.</em></center>
+
+<br>Today on “Everyday Encinitas,” our quest to spotlight local businesses and community organizations, brings us into the company of Marco San Antonio, owner of One Day Signs.
 
 One Day Signs has been a staple in Encinitas for more than 30 years and boasts a rich history. It started back when Marco’s father Omar retired from the U.S. Navy after 22 years of service and went to Hawaii, where his brother owned a sign shop.
 
