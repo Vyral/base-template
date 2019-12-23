@@ -20,7 +20,9 @@ youtube_code: C0zd573yUiY
 
 {% include youtube.html %}
 
-We’re nearing the end of 2019 and if you plan on making a move next year, there are few items you should take care of now instead of waiting until the last minute.
+<center><em>Whether you’re buying or selling in 2020, here’s how to plan your course of action.</em></center>
+
+<br>We’re nearing the end of 2019 and if you plan on making a move next year, there are few items you should take care of now instead of waiting until the last minute.
 
 First, whether you’re buying or selling, **talk with your agent** and get an idea of where things stand in the current market so you can put together a strategy. You don’t want to buy a home by yourself; there are many moving parts to the process.
 
