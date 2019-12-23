@@ -17,9 +17,9 @@ youtube_code: gRiNFWmiQbc
 
 {% include youtube.html %}
 
-Has your home been on the market too long? Have you ever sat at a closing table for way too long? If so, we have great news for you.
+Has your home been on the market for too long? Have you ever sat at a closing table for way too long? If so, we have great news for you.
 
-Some homes are selling quickly, while others sit on the market for a long time. The reason some are selling fast—and often for top dollar—is because they’ve been updated; they have the right colors, carpet, countertops, and so on. We have just created a program called Revitalize. **It streamlines the process of updating your house before you come on the market.** Your property will sell faster and often for more money.
+Some homes are selling quickly, while others sit on the market for a long time. The reason some are selling fast—and often for top dollar—is because they’ve been updated; they have the right colors, carpet, countertops, and so on. We have just created a program called Revitalize that will help your home sell quickly and for top dollar, too. **It streamlines the process of updating your house before you come on the market.**
 
 {% include pullquote.html %}
 
