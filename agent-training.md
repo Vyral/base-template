@@ -23,17 +23,19 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Goal Setting NOW to Explode Your 2020 Production\!** — [Video](https://youtu.be/Ma5D_0ij_As) — [Resources](https://www.dropbox.com/sh/vdpqb5qxz9iyjd2/AADNyIaENKQ0vPI3nCJsSkF_a?dl=0)
+**Have Fun & Make Money During the Holidays** — [Video](https://youtu.be/t7KUzNeAuM8 ) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
 
-Think about an area of your life you’d like to improve. Chances are, more than just one thing comes to mind. Whether you’d like to get in shape, make more money in your business, or do a better job of connecting with friends and family, the key to making these things happen starts with setting clear goals. This is exactly what we discussed in our latest CORE Training real estate coaching session, and now is your chance to hear the full webinar for yourself.
+During the holiday season, it’s tempting to take your foot off the gas and coast, but we want to make sure you’re leveraging your end-of-year time to set up a great first quarter. On today’s webcast, we’re sharing some tips on how to have fun and make the most money during this time of year. We’re heading into an election year—those can be chock full of uncertainty. Taking control now is key, so here’s one tip: Use this time to call your database.
 
 <iframe width="734" height="413" src="https://www.youtube.com/embed/Ma5D_0ij_As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
 
+**Have Fun & Make Money During the Holidays, December 2019** — [Video](https://youtu.be/t7KUzNeAuM8 ) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
+
 **Goal Setting NOW to Explode Your 2020 Production\!, November 2019**&nbsp;— [Video](https://youtu.be/Ma5D_0ij_As) — [Resources](https://www.dropbox.com/sh/vdpqb5qxz9iyjd2/AADNyIaENKQ0vPI3nCJsSkF_a?dl=0)
 
-**Raise Your Average Sales Price: Tactics to Make More Per Deal, October 2019**&nbsp;— [Video](https://youtu.be/xuM9bGZQQxw ) — [Resources](https://www.dropbox.com/sh/zipik14x8mpu1c4/AADOiblCwWcgH1hzyq7m5DDga?dl=0)
+**Raise Your Average Sales Price: Tactics to Make More Per Deal, October 2019**&nbsp;— [Video](https://youtu.be/xuM9bGZQQxw) — [Resources](https://www.dropbox.com/sh/zipik14x8mpu1c4/AADOiblCwWcgH1hzyq7m5DDga?dl=0)
 
 **How to Build Corporate Accounts to Generate Multiple Leads, September 2019**&nbsp;— [Video](https://youtu.be/WKVveoa-cps) — [Resources](https://www.dropbox.com/sh/suy9ycdebnnkapn/AADIMhgd36xXwXjDhWPfhvU_a?dl=0)
 
