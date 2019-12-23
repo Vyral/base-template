@@ -22,7 +22,7 @@ youtube_code: ExzXeB7gqEc
 
 If you bought a home as a primary residence in 2019, you can file for a homestead exemption for the 2020 tax year.
 
-This is something I recommend to all homeowners. **The exemption allows you to receive a discount on your property tax.** This way, your tax bill is regulated and it’s not climbing as rapidly. On that note, if you feel like your home’s property tax is too high, call us and we’d be happy to assist you.&nbsp;
+This is something I recommend to all homeowners. **The exemption allows you to receive a discount on your property tax.** This way, your tax bill is regulated and it’s not climbing as rapidly. On that note, if you feel like your home’s property tax is too high, **[call us](tel:678-389-3887){: target="_blank"}** and we’d be happy to assist you.&nbsp;
 
 {% include pullquote.html %}
 
