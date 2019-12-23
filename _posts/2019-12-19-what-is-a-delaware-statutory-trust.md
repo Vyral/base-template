@@ -22,8 +22,7 @@ youtube_code: aBWHWt9goyE
 ---
 
 {% include youtube.html %}
-
-*Today we’re explaining Delaware statutory trusts and how you could benefit from them.*
+<p style="text-align: center;"><em>Today we’re explaining Delaware statutory trusts and how you could benefit from them.</em></p>
 
 We recently had a client come to us asking how they could help their parents with their rental property because they need the income that’s coming from that property, but they’re tired of the hassles. **We had a great solution for them, and we’re sharing it with you today.**
 
