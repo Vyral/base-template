@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Real Estate Attorneys & Contracts: Part 1'
+title: Top Real Estate Legal Questions Asked and Answered
 date: 2019-12-19 00:00:00
 tags:
   - Real Estate
