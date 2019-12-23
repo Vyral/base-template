@@ -53,13 +53,13 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.atlaspremierrealty.com/whats-my-home-worth/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.atlaspremierrealty.com/idx/search/'
+  second_CTA_URL: 'https://www.atlaspremierrealty.com/property-search/search-form/'
 sidebar_CTA:
   CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Want to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: 'http://www.atlaspremierrealty.com/idx/search/'
+  CTA_url: 'https://www.atlaspremierrealty.com/property-search/search-form/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
