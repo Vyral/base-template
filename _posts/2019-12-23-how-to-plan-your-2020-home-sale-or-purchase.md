@@ -20,7 +20,7 @@ youtube_code: C0zd573yUiY
 
 {% include youtube.html %}
 
-<center><em>Whether you’re buying or selling in 2020, here’s how to plan your course of action.</em></center>
+<center><em>Whether you&rsquo;re buying or selling in 2020, here&rsquo;s how to plan your course of action.</em></center>
 
 <br>We’re nearing the end of 2019 and if you plan on making a move next year, there are few items you should take care of now instead of waiting until the last minute.
 
