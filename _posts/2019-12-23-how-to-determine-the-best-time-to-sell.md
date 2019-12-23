@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Determine the Best Time to Sell
-date: 2019-12-20 00:00:00
+date: 2019-12-23 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
