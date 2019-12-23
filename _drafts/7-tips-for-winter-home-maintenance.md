@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/cook-youtube-1-3.jpg
 youtube_code: 5Cqd-dhZT2Y
 ---
 
-{% include youtube.html %}Our seven tips for maintaining your home throughout the winter.
+{% include youtube.html %}<center>Our seven tips for maintaining your home throughout the winter.</center>
 
 Living in the Southeast, we don’t see especially chilly winters, but it’s critical to know how to take care of your home when those frosty days head our way. By making sure your house is prepped and ready for the frigid fronts coming, you can maintain the value of your home and eliminate the need for costly repairs in the future. These tips will keep your family safe and warm. Here are seven tips to prep your house for winter:
 
