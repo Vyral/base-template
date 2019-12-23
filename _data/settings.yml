@@ -51,7 +51,7 @@ lender:
   email: MNader@firsthome.com
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.atlaspremierrealty.com/whats-my-home-worth/'
+  first_CTA_URL: 'https://www.atlaspremierrealty.com/sellers/free-market-analysis/'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.atlaspremierrealty.com/property-search/search-form/'
 sidebar_CTA:
