@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homestead-exemption-youtube.jpg
-youtube_code: Dl5X3G5-f7c
+youtube_code: ExzXeB7gqEc
 ---
 
 {% include youtube.html %}
