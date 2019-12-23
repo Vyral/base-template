@@ -14,8 +14,8 @@ pullquote: This is something we recommend to all homeowners.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/homestead-exemption-youtube.jpg
-youtube_code: ExzXeB7gqEc
+youtube_alternate_image: /uploads/homestead-exemption-youtube-02.jpg
+youtube_code: _XsxYs9RILM
 ---
 
 {% include youtube.html %}
