@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 During the holiday season, it’s tempting to take your foot off the gas and coast, but we want to make sure you’re leveraging your end-of-year time to set up a great first quarter. On today’s webcast, we’re sharing some tips on how to have fun and make the most money during this time of year. We’re heading into an election year—those can be chock full of uncertainty. Taking control now is key, so here’s one tip: Use this time to call your database.
 
-<iframe width="734" height="413" src="https://www.youtube.com/embed/Ma5D_0ij_As" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/t7KUzNeAuM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
 
