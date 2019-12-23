@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   To know the best time to sell your home, there are several factors to
   consider.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/How+to+Determine+the+Best+Time+to+Sell.mp4
 pullquote: >-
   If you’re not ready to make a move and are overly attached to your home,
   buyers will know, and you’ll probably sabotage your sale.
