@@ -31,7 +31,7 @@ When Neil did list his home, it generated multiple offers and he got a great dea
 
 February might not be the best time to put your home on the market, but **if you list during the winter months, you know that buyers are serious**. Nobody looks at properties in freezing weather just for decorating ideas.
 
-Before you decide what’s best, it’s important to know your type of home’s recent sale history—look at the days on market, the level of inventory, and the selling history in general of your neighborhood. If you look at the statistics at 4:21 in the video above, you’d be surprised at how many sales are spread throughout the year.
+Before you decide what’s best, it’s important to know your type of home’s recent sale history—look at the days on market, the level of inventory, and the selling history of your neighborhood in general. If you look at the statistics at 4:21 in the video above, you’d be surprised at how many sales are spread throughout the year.
 
 {% include pullquote.html %}
 
