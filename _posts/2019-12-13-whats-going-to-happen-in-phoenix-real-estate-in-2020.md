@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Before we get to 2020, I wanted to bring you some of my predictions for the
   Phoenix real estate market next year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Whats+Going+to+Happen+in+Phoenix+Real+Estate+in+2020_.mp4
 pullquote: We often see a slowdown leading up to the election.
 enclosure_type: video/mp4
 enclosure_time:
