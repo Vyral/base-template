@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/progyt-1.jpg
-youtube_code: gRiNFWmiQbc
+youtube_code: 4KH7AkomeGk
 ---
 
 {% include youtube.html %}
