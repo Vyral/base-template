@@ -4,7 +4,7 @@ title: We wish you a merry Christmas
 date: 2019-12-17 23:01:00
 tags:
   - Real Estate
-excerpt:
+excerpt: We hope you and your family have a wonderful holiday.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/We+wish+you+a+merry+Christmas.mp4
 pullquote:
