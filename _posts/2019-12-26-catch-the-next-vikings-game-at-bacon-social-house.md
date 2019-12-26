@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Catch the Next Vikings Game at Bacon Social House
-date: 2019-12-26 22:00:24
+date: 2019-12-26 22:00:00
 tags:
 excerpt: >-
   For this episode of our Community Spotlight, we’re at Bacon Social House.
