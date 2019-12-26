@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'We Wish You a Safe, Happy, and Prosperous New Year'
-date: 2019-12-26 16:51:07
+date: 2019-12-26 16:51:00
 tags:
   - Real Estate
 excerpt: 'We at Imagine Realty wish you a happy, safe, and prosperous new year.'
