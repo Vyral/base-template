@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get Your Tickets Now for Next Month’s Home Seller Forum
-date: 2019-12-19 19:14:46
+date: 2019-12-19 19:14:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Wy1__DbLI90
+youtube_code: Foej2iVZOxs
 ---
 
 {% include youtube.html %}
