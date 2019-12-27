@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Showing/Open House Partners
-date: 
+date: 2019-12-27 23:04:34
 tags:
   - Listing Presentation
 excerpt: >-
@@ -17,9 +17,9 @@ youtube_alternate_image: /uploads/jennie-wolek-why-we-use-showing-open-house-par
 youtube_code: RcftdUyb9Do
 ---
 
-{% include youtube.html %} 
+{% include youtube.html %}
 
-<p style="text-align: center;"><em>Having showing and open house partners is a great way to better leverage your time as an agent.</em></p>
+*Having showing and open house partners is a great way to better leverage your time as an agent.*
 
 As busy as we agents can get, we sometimes need help showing to buyer clients and hosting open houses.&nbsp;
 
