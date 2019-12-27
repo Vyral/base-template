@@ -3,7 +3,6 @@ layout: post
 title: Spotlighting Wahoo’s Fish Taco
 date: 2019-12-27 12:00:00
 tags:
-  - Community Spotlight
 excerpt: >-
   For today’s video, I’m spotlighting the world-famous Wahoo’s Fish Taco
   restaurant chain by visiting their very first location at 1862 Placentia
