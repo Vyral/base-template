@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Unique Approach to Health With Deneen Natural Health
-date: 2019-12-27 22:26:38
+date: 2019-12-27 22:26:00
 tags:
   - Real Estate
 excerpt: >-
   Deneen Natural Health offers supplemental solutions for health and wellness.
   Here’s what you should know about their approach.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/December/A+Unique+Approach+to+Health+With+Deneen+Natural+Health.mp4
 pullquote: Eating legumes can help prevent heart disease.
 enclosure_type: video/mp4
 enclosure_time:
