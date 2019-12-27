@@ -9,7 +9,7 @@ excerpt: >-
   estate attorneys, to clarify some of the legal aspects of real estate
   contracts.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/Real+Estate+Attorneys+%26+Contracts-+Part+1.mp4
+  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/Top+Real+Estate+Legal+Questions+Asked+and+Answered+by+Justin+De+Crescente.mp4
 pullquote: >-
   New Jersey case law says that if the attorney didn’t draft the contract, the
   contract cannot be binding until the client has an opportunity to consult with
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/attyt.jpg
-youtube_code: zRW-_xUaPeM
+youtube_code: NUROypc8e7Q
 ---
 
 {% include youtube.html %}
