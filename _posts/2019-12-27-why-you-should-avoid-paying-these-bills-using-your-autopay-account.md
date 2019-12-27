@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Avoid Paying These Bills Using Your Autopay Account
-date: 2019-12-27 19:48:29
+date: 2019-12-27 19:48:00
 tags:
   - Real Estate
 excerpt: >-
