@@ -19,7 +19,7 @@ youtube_code: RcftdUyb9Do
 
 {% include youtube.html %}
 
-*Having showing and open house partners is a great way to better leverage your time as an agent.*
+<p style="text-align: center;"><em>Having showing and open house partners is a great way to better leverage your time as an agent.</em></p>
 
 As busy as we agents can get, we sometimes need help showing to buyer clients and hosting open houses.&nbsp;
 
