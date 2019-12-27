@@ -3,10 +3,13 @@ layout: post
 title: Catch the Next Vikings Game at Bacon Social House
 date: 2019-12-26 22:00:00
 tags:
+  - Community Spotlight
+  - Real Estate
 excerpt: >-
   For this episode of our Community Spotlight, we’re at Bacon Social House.
   Here’s why it’s the perfect place to stop on Vikings game day.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Schuster/Catch+the+Next+Vikings+Game+at+Bacon+Social+House.mp4
 pullquote: All three types of bacon we sampled were incredible.
 enclosure_type: video/mp4
 enclosure_time:
