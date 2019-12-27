@@ -17,7 +17,9 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.</em></p>
 
 I am so excited to introduce you to Dr. Shana Deneen with Deneen Natural Health. I wanted to talk to her because she does something quite special that I think everyone should know about.
 
