@@ -17,9 +17,9 @@ youtube_alternate_image: /uploads/jennie-wolek--a-conversation-with-deneen-natur
 youtube_code: VcshdW9Jq6g
 ---
 
-{% include youtube.html %}
+{% include youtube.html %} 
 
-*Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.*
+<p style="text-align: center;"><em>Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.</em></p>
 
 I am so excited to introduce you to Dr. Shana Deneen with Deneen Natural Health. I wanted to talk to her because she does something quite special that I think everyone should know about.
 
