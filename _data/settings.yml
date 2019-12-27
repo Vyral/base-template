@@ -12,16 +12,11 @@ client:
   name: Breanne Steen
   license_number:
   about_markdown: >-
-    Breanne is respected by her clients for her hard work, dedication and
-    attention to detail. In fact, many of her clients have used her for multiple
-    transactions and have referred friends and family, which she considers to be
-    the highest form of compliment.<br><br>Representing buyers and sellers in
-    her market, Breanne has amassed numerous awards for “Top Producer”
-    acknowledging her outstanding sales achievements.
+    Over the last 10 years as a Realtor, Breanne’s passion and commitment has been to be her clients best representative in real estate. Her number one priority is to help her clients achieve their real estate dreams, whether buying, selling, or investing. Her extensive experience in the local area give you the advantage when negotiating the purchase of a home, and her proactive listing strategies have a proven track record of success. "It would be my privilege to work with you, and I look forward to helping you achieve your real estate goals.
   market: Ventura County
   brand: Breanne Steen and Associates
   brokerage: Century 21 Everest
-  address: '1308 Madera Rd, Ste B Simi Valley, CA 93065'
+  address: '1308 Madera Rd, Ste 8 Simi Valley, CA 93065'
   phone: 805-551-3854
   phone_type:
   phone2:
@@ -86,6 +81,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
+  hero_logo2_path: /img/c21.png
   logo_width_number: 40
   hero_text: Real Estate Video Blog
   hero_background_hex: '#000000'

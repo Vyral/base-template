@@ -2,125 +2,481 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Steen Realty Group Podcast</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Steen Realty Group - your professional Ventura County Real Estate Agents.</description>
+    <link>http://breannesteenvideoblog.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://breannesteenvideoblog.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Breanne Steen and Associates - your professional Ventura County Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Breanne Steen</managingEditor>
-    <lastBuildDate>2017-02-13 11:27:11 -0600</lastBuildDate>
+    <lastBuildDate>2019-12-27 13:32:04 -0600</lastBuildDate>
     <media:copyright>Breanne Steen</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.png"/>
+    <media:thumbnail url="http://breannesteenvideoblog.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
-      <itunes:email>breanne@BreanneSteen.com</itunes:email>
+      <itunes:email>Breanne@BreanneSteen.com</itunes:email>
       <itunes:name>Breanne Steen</itunes:name>
     </itunes:owner>
     <itunes:author>Breanne Steen</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.png"/>
+    <itunes:image href="http://breannesteenvideoblog.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Steen Realty Group - your professional Ventura County Real Estate Agents.</itunes:summary>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Breanne Steen and Associates - your professional Ventura County Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test.html</link>
+        <title>5 Tips for a Smooth and Successful 2018 Home Purchase</title>
+        <link>http://breannesteenvideoblog.com/5-tips-for-a-smooth-and-successful-2018-home-purchase.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Home Buyer Tips</category>
         
         <author>Breanne Steen</author>
-        <pubDate>2016-10-04 00:00:00 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-02-08 09:27:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/5+Tips+for+a+Smooth+and+Successful+2018+Home+Purchase.mp4</guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Here are five tips that will ensure your 2018 home purchase is smooth and successful:
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+1. Check your credit and check it often. You may be surprised to find that there is some information on your credit report that is inaccurate or you didn’t know about if you don’t check it regularly. The things on your credit report should be an accurate reflection of who you are today credit-wise.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+2. Keep tabs on interest rates. Whether they’re going up or down, remember that you may not always be able to qualify for the best rate. Your credit history, payment history, job history, current market conditions, and which lender you work with will affect which rate you get.
 
-“This is an example of a pull quote”
+3. Start working with a lender today. It’s never too early to start working with a lender so you can see what your purchasing power can be or should be. A great lender will outline your options and also advise you on them. They can give you a side-by-side comparison of what you can afford, what you should afford, and which programs will help you afford more.
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+“We’d love to meet with you and give you a buyer consultation”
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+4. Get pre-approved early. If you plan on purchasing a home in 2018, get pre-approved now so you can meet with a lender and see how much you can afford and they can look at your full financial picture. As prices increase, you want to know how much you can afford and be ready so you can know (and sellers can know) that you’re a solid buyer.
+
+5. Don’t forget to get in touch with us. We’re here to answer any questions you may have about the home buying process. We’d love to meet with you and give you a buyer consultation so we can explain the buying process to you and answer any questions you may have.
+
+If you have any questions or you’re thinking about buying a home soon, don’t hesitate to give us a call or send us an email. We’d love to help you and we hope to hear from you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/5+Tips+for+a+Smooth+and+Successful+2018+Home+Purchase.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/5+Tips+for+a+Smooth+and+Successful+2018+Home+Purchase.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
         <itunes:author>Breanne Steen</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>We have five tips that will make your 2018 home purchase hassle-free.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>this is a test</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
+        <title>The Uncertain State of Our Current Market</title>
+        <link>http://breannesteenvideoblog.com/the-uncertain-state-of-our-current-market.html</link>
         
           <category>Market Update</category>
         
+        <author>Breanne Steen</author>
+        <pubDate>2018-02-02 07:59:04 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market2.mp4</guid>
+        <description>
+
+Today, let’s discuss the 2018 housing market, what’s in store for our local area, and how the new tax cuts and Jobs Act might affect our real estate market.
+
+What should we expect to see for our local market this year? The start of this year is likely going to be a very important moment for home sellers because several big trends are coming together to impact our Ventura County market.
+
+The first factor is our low inventory. The way we closed out 2017, year over year from 2016, is we were down 15% in the Conejo Valley area, and 34% in the Simi Valley Area.
+
+This is the biggest drop since 2013, and it’s part of a consistent pattern of very limited and decreasing housing supply.
+
+Of course, the fewer homes there are on the market, the easier it is to sell, and the higher the price you can expect to get.
+
+This is borne out by numbers: Home prices have increased almost 6.5% since last year.
+
+Buyers becoming increasingly optimistic. They’re still out looking for homes, due, in part, to income growth and job stability. Lenders are loosening their standards, and buyers are really eager to take advantage of the low mortgage rates, which recently slipped below 4%—a historic low.
+
+The new tax reform bill is another factor that will impact the market. The federal government recently passed the tax cuts and Jobs Act, which majorly overhauled our tax code. We’re not entirely sure how this will affect real estate as a whole. We do know that there are several changes being made that don’t positively favor home sellers.
+
+“As a result of the tax code changes, the National Association of Realtors now projects slower growth in home prices for 2018”
+
+As a result of the tax code changes, the National Association of Realtors now projects slower growth in home prices for 2018, with an appreciation rate between 1% and 3%. By doubling the standard deduction, Congress has significantly reduced the value of the mortgage interest deductions and property tax deductions as tax incentives for homeownership. However, no changes were made to the rules surrounding capital gains in home sales. This is a major victory for home sellers.
+
+When you put these three factors together, two big conclusions emerge:
+
+It’s a really favorable time to take advantage of the market, the shortage of our inventory, and the optimism that still remains in our homebuyers.
+
+On the other hand, in higher-cost and higher-tax areas, we might see a decline in prices due to this new tax reform bill that’s taking away some of those perks of the mortgage interest deduction, and state and local taxes.
+
+As a final perk for you, we received a quick guide tool from the California Association of Realtors that outlines all of the implications of the tax reform bill has on real estate. Download the Quick Guide here!
+
+If you’re thinking about taking advantage of today’s market and getting your home sold, all you have to do is get started by finding out what your home is worth. Send an email, shoot me a text, or call me. I would be happy to sit down with you and talk to you about your home’s value in the current market.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market2.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/The+Uncertain+State+of+Our+Current+Market2.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Today, let’s discuss the 2018 housing market, what’s in store for our local area, and how the new tax cuts and Jobs Act might affect our real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays</title>
+        <link>http://breannesteenvideoblog.com/happy-holidays.html</link>
+        
           <category>Real Estate</category>
         
-          <category>Buyer Tips</category>
-        
-          <category>Home Seller Tips</category>
-        
         <author>Breanne Steen</author>
-        <pubDate>2016-09-28 00:00:00 -0500</pubDate>
+        <pubDate>2017-12-19 10:32:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+Happy holidays to you!
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+The holiday season has officially arrived. I hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.
 
+I just wanted to take a moment to thank you for your continued support. I love helping people make their real estate dreams come true, so thank you for working with me.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+“Happy holidays to you!”
 
+Finally, there are a lot of fun things going on this holiday season. I found a list of holiday events on ConejoValleyGuide.com.  If any of the events below peak your interest, be sure to contact the event coordinators, as things sometimes change! Also, some events require RSVP. Check out this list below!
 
+Holiday Events in the area:
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Holiday light displays:
 
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+  Christmas Tree Lane in Downtown Oxnard Historic District
+  Giant Rudolph and Fun Holiday Lights on Walter Avenue in Newbury Park
+  Fun residential display in the 300 block of East Gainsborough Road in Thousand Oaks
+  Residential 50,000 Light Display on Via Patricia in Newbury Park
+  Residential Holiday Light Display on Gemini and Waverly Avenues in Camarillo
+  Winter Wonderland Holiday Display on Highland Road in Simi Valley (Fri-Sun 12/21-12/23)
+  Synchronized Light Display at 538 Brisbaine Avenue, Newbury Park
+  Neighborhood display in the area of Timberdale and Pinedale Roads in Moorpark
+  Bright displays at 144 Ventura Court, Thousand Oaks and 894 Calle La Prada, Camarillo
+  4903 Pathfinder Way in Westlake Village (Oak Park adjacent) (5:30-8:30 Fri-Sun)
+  Two other great displays synchronized to music on an FM station are at 4687 Via Grande and just around the corner at 600 Via Vista in the Dos Vientos section of Newbury Park.
 
-“This is an example of a pull quote”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+Ongoing Holiday Activities:
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+
+  Thru 1/7: Queen Mary’s CHILL Ice Adventure Park
+  Thru 1/28: Holiday Ice Rink at The Lakes at Thousand Oaks
+  Thru 1/1: Reindeer at Santa Barbara Zoo
+  Thru 1/7: Enchanted Forest of Light at Descanso Gardens in La Canada
+  Thru 1/1: Winter Fantasy and Light Show in Oxnard
+  Thru 1/8/17: L.A. Zoo Lights Holiday Display
+  Gift Wrapping Service Fundraiser at The Oaks
+  Gift Wrapping Service Fundraiser at Janss Marketplace
+
+
+This may be a busy time of year, but I am always here to help you and answer any questions you may have.
+
+And in case I don’t hear from you, have a happy New Year!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
         <itunes:author>Breanne Steen</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>Happy holidays to you!  The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories with your family and friends.  We just wanted to take a moment to thank you for your continued support. We love helping people make their real estate dreams come true, so thank you for working with us.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Real Estate vs. The Stock Market: Which Should You Invest In?</title>
+        <link>http://breannesteenvideoblog.com/real-estate-vs-the-stock-market-which-should-you-invest-in.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-11-15 05:34:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Real+Estate+vs.+The+Stock+Market-+Which+Should+You+Invest+In%253F.mp4</guid>
+        <description>
+
+Our stock market has been hitting some all-time highs lately. This raises a question: Should you be investing in the stock market or should you be investing in real estate?
+
+When you buy a stock, you own a piece of a company. There are a number of things that can happen with this kind of investment. Both real estate and stocks can go down in value, but there are a few key differences.
+
+For example, while the real estate market may go down in value, you can still always have a property that you rent out to a tenant and gain income from. When investing in real estate, you can also make money on appreciation.
+
+The decision as to whether you should invest in real estate really depends on your long-term motives. Do you want to own a property that can pay you an income stream every month during retirement? Do you want an income stream that you can increase year over year based on inflation?
+
+If you feel apprehensive about investing in real estate, consider this: Are rental rates higher than they were in the 1970s, 1980s, 2000s, and even in 2010? Of course they are. While rental rates can tick down based on the real estate market, they’ve never gone as low as they were decades ago.
+
+“Owning a rental property that has been completely paid off can bring you great financial security through retirement.”
+
+Owning a rental property that has been completely paid off can bring you great financial security through retirement. This is a strategy that has worked amazingly for some clients of mine.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Real+Estate+vs.+The+Stock+Market-+Which+Should+You+Invest+In%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Breanne+Steen/Real+Estate+vs.+The+Stock+Market-+Which+Should+You+Invest+In%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Should you invest in real estate or in the stock market? Today, I’d like to focus on how investing in real estate can provide you with financial security through retirement.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are Your Property Taxes Going Up?</title>
+        <link>http://breannesteenvideoblog.com/are-your-property-taxes-going-up.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-09-06 08:34:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/When%20Should%20You%20Contest%20Your%20Property%20Taxes%253F.mp4</guid>
+        <description>
+
+We’re nearing the end of summer, which means you’ve probably received a notice in the mail recently from your county indicating the proposed value for your home in 2017. Keep in mind that it’s not a tax bill so you don’t have to pay it, but you should take a close look at it to see what it says.
+
+The county has the ability to raise your taxes by 2% each year due to Proposition 13. In most cases, they do. If you look at the form and feel your value is unfairly high or there is a missing exemption, you have the right to contest the assessment. However, the window of opportunity to do that is closing. The deadline for contesting your property taxes is September 15th for Ventura County. Here’s a handy graphic with a little information about how this all works.
+
+“The deadline to contest is September 15th.”
+
+In most cases, this assessed value is not really a reflection of what your home will sell for in today’s market. If you want to know more about Ventura County real estate, or what your home is worth, I can help. In fact, if you have any questions about contesting your home’s assessed value, the forms you need to fill out can be found right here on the county website.  You can also give me a call or send me an email and I’d be happy to answer any questions you may have. I look forward to hearing from you soon.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/When%20Should%20You%20Contest%20Your%20Property%20Taxes%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/When%20Should%20You%20Contest%20Your%20Property%20Taxes%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Your property tax assessment should be in the mail soon. If you think it’s too high, you should contest it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buying a Home vs. Renting—Which Is Better for You?</title>
+        <link>http://breannesteenvideoblog.com/buying-a-home-vs-rentingwhich-is-better-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-08-24 04:49:47 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Buying%20a%20Home%20vs.%20RentingWhich%20Is%20Better%20for%20You%253F.mp4</guid>
+        <description>
+
+If you’re not sure whether you should continue to rent or take the plunge and buy a home, there are four questions you can ask yourself to help you decide.
+
+First, can you afford it? What kind of money do you make and what debt obligations do you have? If you’re not sure, we have some really great lenders you can speak with to figure out if purchasing a home is reasonable for you.
+
+Second, is it better for you to rent or buy? This depends heavily on your personal circumstances. With home prices where they are in our area, if you make enough to purchase a home you probably need a tax write-off—and there are many tax advantages to owning a home. Also, consider what the rental market is doing. Right now, the rental market is hot, so you might pay just as much to rent a home as you would to purchase one. Instead of paying someone else’s mortgage, why not pay your own?
+
+Third, how long are you willing to stay put? It usually takes homeowners three to five years before they can sell and turn a profit. The reason for this is when you purchase a home, you’ll pay your fair share of closing costs and it usually takes about three to five years of appreciation to cover those costs while still having some of that appreciation left over. Are you willing to stay the three-to-five-year period in order to make that stay worth it?
+
+“There is a lot of responsibility that comes along with being a homeowner.”
+
+Finally, are you ready for the responsibility? There is a lot of responsibility that comes along with being a homeowner—lots of maintenance and upkeep. Some would just prefer to be able to call a landlord to fix any issues that arise. Others are up for the challenge.
+
+The answers to these questions should make your choice clearer. If you have any questions about the home buying process or what’s happening in our market, you’re welcome to give me a call, shoot me a text, or send me an email. I’d love to help you.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Buying%20a%20Home%20vs.%20RentingWhich%20Is%20Better%20for%20You%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Buying%20a%20Home%20vs.%20RentingWhich%20Is%20Better%20for%20You%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Whether you should continue to rent or buy a home depends on your personal circumstances, but there are four questions you can ask yourself to help make that decision.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What's Happening in Our Market?</title>
+        <link>http://breannesteenvideoblog.com/whats-happening-in-our-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-08-07 09:34:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/What%2527s%20Happening%20in%20Our%20Market%253F.mp4</guid>
+        <description>
+
+Is our low housing inventory going to slow down our market?
+
+Right now in our local market, we’ve been in a positive recovery mode for quite some time.
+
+Along with not seeing as many distressed sales, we’re also seeing an increase in prices and sales volume across most price ranges.
+
+Since fewer distressed sales mean a lowered likelihood of short sales or foreclosures, things seem to be looking up.
+
+However, our momentum may slow down due to low supply. These supply levels simply may not be able to keep pace with the buyer demand that could carry us through the summer.
+
+National Association of Realtors Chief Economist Lawrence Yun has been saying that sellers are absolutely in the driver’s seat.
+
+As a result of hot competition among buyers, we’re definitely seeing stronger offers coming out. Buyers are showing resilience, but inventory is simply too low.
+
+“Tight inventory has been a feature of our market since 2016.”
+
+As Freddie Mac has pointed out, tight inventory has been a feature of our market since 2016. In fact, right now for starter homes, inventory levels are the lowest they’ve been in the past 10 years.
+
+Pro Teck CEO Tom O’Grady recently said, “The lack of inventory is real and it can have a severe impact on home sales in the following months.”
+
+So, if you’re thinking of selling, now might be the best time. Despite the high competition among buyers, competition among sellers is very low.
+
+But don’t give up if you’re a buyer. Keep your eyes open and be ready for the right opportunity.
+
+If you have any other questions or want more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/What%2527s%20Happening%20in%20Our%20Market%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/What%2527s%20Happening%20in%20Our%20Market%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Inventory is low and demand is high. So what does that mean for our market?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Ways Buyers Can Beat Out Multiple Offers</title>
+        <link>http://breannesteenvideoblog.com/5-ways-buyers-can-beat-out-multiple-offers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-05-23 09:53:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/5%20Tips%20for%20Beating%20the%20Competition%20for%20the%20Home%20You%20Want.mp4</guid>
+        <description>
+
+Trying to buy a home in a seller’s market can be difficult, especially when available listings receive multiple offers.
+
+Our current real estate market is red hot for sellers right now, leaving many buyers wondering if it’s even worth it to try and submit an offer on a home. When inventory is low like here, it’s common for sellers to receive as many as 10 offers for their home. This can make it seem intimidating, but it’s almost always worth it to submit your offer.
+
+To make sure your offer outshines the rest, use these tips:
+
+1. Submit a large earnest money deposit: Sometimes deals fall apart and escrow blows up, and sellers worry about this. They worry that a buyer might cancel the contract or default on it. Your earnest money deposit stays in escrow during the transaction and goes toward your down payment, so putting a larger amount into escrow shows sellers that you’re serious and committed and gives them peace of mind. It’s just a little extra money you have to put into escrow, but it speaks volumes to the seller.
+
+2. Send the seller your pre-approval letter: First, talk to your lender and make sure you’re pre-approved—not pre-qualified—for financing and that they write it in a letter you can submit with your offer. This is absolutely critical in our market and shows sellers that you’re a strong buyer.
+
+“Giving the seller just a couple extra days to move after close goes a long way.”
+
+3. Give the seller some time to move: It can be difficult for buyers and sellers to coordinate multiple closings. If the seller is also buying a new home, cut them some slack by giving them two or three days to move out after closing without asking for any compensation. This will help you win the bid because the sellers will see that you’re flexible and easy to work with.
+
+4. Shorten your contingency periods: This is the time for home inspections and the appraisal, and it doesn’t cost you anything to get them done faster. Home inspections are usually performed in a 17-day window, but why not shorten it up to 10 days and show the seller that you’re acting with urgency for them? If you’re already approved for a loan, you can talk to your lender about shortening that time frame or even waiving the loan contingency altogether.
+
+5. Write the best offer you can: Don’t hope for negotiation; sometimes sellers will simply pick the highest offer and won’t take the time to counter everyone who submits an offer. Put your best foot forward with a strong offer. Sometimes, sellers will price their house below market value to generate multiple offers and bid the price up, so making an offer higher than list price doesn’t necessarily mean you’re offering more than the home’s market value. Take the time to write your strongest offer first.
+
+If you have any questions about strengthening your offer when buying a home or about selling your current house, don’t hesitate to give me a call or send me an email. I would love to help you out!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/5%20Tips%20for%20Beating%20the%20Competition%20for%20the%20Home%20You%20Want.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/5%20Tips%20for%20Beating%20the%20Competition%20for%20the%20Home%20You%20Want.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>It's tough to buy a home here in the Simi Valley market, especially when the home you want receives multiple offers. These five tips will make your offer stand out amongst the competition.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Home Updates to Avoid</title>
+        <link>http://breannesteenvideoblog.com/5-home-updates-to-avoid.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-04-13 06:00:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%205%20Home%20Updates%20to%20Avoid.mp4</guid>
+        <description>
+
+If you want to make some improvements in your home to increase its value and get a great return on your investment, you have a lot of options. However, there are five renovations you should absolutely avoid:
+
+1. Wallpaper: Unless you’re in a high-end custom home and hired designers who specifically recommended wallpaper, it’s generally not the best choice. When you sell your house, you want it to appeal to as many buyers as possible, and wallpaper is a little too specific for today’s buyers.
+
+2. Flooring: Most homes have carpet in high-traffic areas that needs to be replaced. However, today’s buyers don’t want you to replace it with more carpet! You’ve got some really great options to use over carpet, like inexpensive tile, laminate flooring, and hardwood flooring that’s about the same cost as replacing carpet. We can help you find the flooring that will not only make your home appeal to more buyers, but give you the best return possible.
+
+“Buyers don’t want you to replace carpet with carpet!”
+
+3. Lavish lighting: There are some beautiful and trendy lighting fixtures available, but buyers don’t see a lot of value in these pieces. Although you may love them, they won’t bring you a dollar-for-dollar return on your money. Instead, go with some clean and simple fixtures that will actually get you a return on your money.
+
+4. Paint: If you want to paint inside or even just do some touch-ups, you want to stick with neutral colors. Dark accent walls and bright colors don’t appeal to the masses, and you want to appeal to as many buyers as possible to get lots of offers on your house when you sell it. Neutral colors also make your home feel more bright inside and more spacious.
+
+5. Pools: If you’re thinking about selling your house, this probably isn’t something you’re considering. However, if you plan on staying in your home long-term and you’re looking for upgrades that will give you the best return on your money, a pool isn’t the best option. Unfortunately, you typically won’t get the money you invest in it back when you sell the house. Appraisers don’t give a lot of credit for them and buyers don’t usually realize how expensive they are, so they don’t give much value to them when writing an offer on a home.
+
+If you’d like to know which upgrades or renovations will add the most value to your specific home or you have any questions about the market in the Simi Valley, don’t hesitate to give me a call or send me an email. I’d love to help you out!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%205%20Home%20Updates%20to%20Avoid.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%205%20Home%20Updates%20to%20Avoid.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Certain upgrades and renovations can add a lot of value to your home whether you're selling it or just want to enjoy it while you're there. However, you should avoid these five.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Zestimates Can’t Determine True Home Value</title>
+        <link>http://breannesteenvideoblog.com/why-zestimates-cant-determine-true-home-value.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-03-27 08:48:00 -0500</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%20Why%20Zestimates%20Cant%20Determine%20True%20Home%20Value.mp4</guid>
+        <description>
+
+You may or may not have heard of the term “Zestimate.” To clear things up, it’s an estimate of your home’s value that you can get on Zillow.com instantly by providing a few details about your home. Our clients bring up their Zestimates all the time when discussing where to price their home for sale, but many of them don’t understand what a Zestimate really is.
+
+The important thing to know about that value is that it is based on an algorithm that Zillow created to gather information and come up with a value based on that information. But is it accurate? It all depends. Unfortunately, there are quite a few elements that go into your home’s market value that Zillow simply can not measure with their algorithm.
+
+One of these is location. If your home is in a cookie cutter neighborhood where all the homes more or less look the same, your Zestimate might be a bit more accurate than others. If you have a unique home or it’s in a rural area, your Zestimate is likely to be way off.
+
+“They simply don’t take enough information into account.”
+
+Another thing Zillow’s algorithm doesn’t take into account is any upgrades or additions you may have made to your home while you were living there. Any remodeled bathrooms, kitchens, or basements won’t be taken into consideration when the Zestimate determines your home’s value. These types of things add a ton of value to homes, but Zillow does not measure them.
+
+A great tool that we offer to all our clients who are thinking about selling their house is a custom valuation. We will come out to your home, take into consideration its location and features, and come up with an accurate value of exactly what your home is worth in today’s market.
+
+If you have any questions for us or would like to get a custom valuation for your home, give us a call or send us an email today. We look forward to hearing from you!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%20Why%20Zestimates%20Cant%20Determine%20True%20Home%20Value.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Real%20Estate%20Agent-%20Why%20Zestimates%20Cant%20Determine%20True%20Home%20Value.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Is a Zestimate the most accurate home valuation you can get? The short answer is no.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Ventura County Market Update</title>
+        <link>http://breannesteenvideoblog.com/ventura-county-market-update.html</link>
+        
+        <author>Breanne Steen</author>
+        <pubDate>2017-03-02 18:00:00 -0600</pubDate>
+        <guid>http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Market%20Update.mp4</guid>
+        <description>
+
+What’s happening in our local Ventura County market? Are we in a buyer’s or a seller’s market?
+
+Right now we are definitely in seller’s market, which means it’s a fantastic time to sell your home. Our inventory levels in Ventura County are extremely low with less than two months of supply on the market. That means if there were no new homes listed, it would only take two months to sell all the inventory.
+
+Sellers** are enjoying low competition and high buyer activity thanks to low inventory. **As long as your home is priced correctly, you’re going to get really strong offers. You’ll probably even see multiple offers and offers above list price.
+
+“If you’re a buyer, your offer needs to be as strong as possible.”
+
+So what does this mean for buyers shopping in a seller’s market?
+
+With inventory so low, buyers are having to make some compromises like shopping in a different price range, considering other locations, or giving up certain amenities. Offers need to be as strong as possible, often above list price.
+
+However, there is some good news for buyers. Interest rates are still low at just above 4%. You can still lock in a great rate that will save you thousands of dollars over the life of your loan.
+
+If you’re thinking about buying or selling a home or if you have any other real estate questions, please feel free to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Market%20Update.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://breannesteenvideoblog.com" height="72" width="72"/>
+        <media:content url="http://vyralmarketing.s3.amazonaws.com/Breanne%20Steen/Ventura%20County%20Market%20Update.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Ventura County Area Real Estate Market</itunes:subtitle>
+        <itunes:author>Breanne Steen</itunes:author>
+        <itunes:summary>Many people have asked me if we are in a buyer’s or a seller’s market. I’ll answer that and go over what’s happening in our market today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Ventura County, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Breanne Steen</copyright>
     <media:credit role="author">Breanne Steen</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Steen Realty Group - your professional Ventura County Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Breanne Steen and Associates - your professional Ventura County Real Estate Agents.</media:description>
   </channel>
 </rss>
