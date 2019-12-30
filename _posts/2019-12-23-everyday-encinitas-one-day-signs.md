@@ -28,7 +28,7 @@ One Day Signs has been a staple in Encinitas for more than 30 years and boasts a
 
 Inspired by the business model, Omar relocated to Encinitas to open One Day Signs, which he and Marco operated together for many years before Omar’s retirement last year; Marco is excited to be the new owner.
 
-It’s truly incredible what the San Antonio family and their team are able to do; **producing high-quality signs in one day or less isn’t easy, but it has become their brand**.
+It’s truly incredible what the San Antonio family and their team can do; **producing high-quality signs in one day or less isn’t easy, but it has become their brand**.
 
 {% include pullquote.html %}
 
