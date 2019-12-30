@@ -17,6 +17,8 @@ youtube_code: 3TJP6njaHqU
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m clearing up the confusion about the homestead exemption on taxes.</em></p>
+
 I’ve covered this topic in the past, but I’ve been getting a lot of questions about it, and it’s important, so I’m discussing it again: the homestead exemption. The homestead exemption allows you to alleviate some of the tax burden on your primary residence. There are four options for a homestead exemption. Some people will qualify for more than one.&nbsp;
 
 **1\. General exemption.** You can receive this for living in a home as your primary residence. This is about a 20% deduction from your taxes, a substantial amount since taxes here tend to go up every year.
