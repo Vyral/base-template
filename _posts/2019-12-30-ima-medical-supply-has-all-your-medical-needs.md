@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ZFbzRr6TlA0'
 
 {% include youtube.html %}
 
-I was able to sit down with Richard Gobin and Robin Mueller and let them explain why IMA Medical Supply is a special local business.
+<p style-"text-align: center;"><em>I was able to sit down with Richard Gobin and Robin Mueller and let them explain why IMA Medical Supply is a special local business.</em></p>
 
 Today I’m delivering another local small business insight as part of the brand ambassador program here in Cumberland County.&nbsp;
 
