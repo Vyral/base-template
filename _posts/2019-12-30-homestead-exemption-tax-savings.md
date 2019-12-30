@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homestead Exemption Tax Savings
-date: 2019-12-30 18:04:46
+date: 2019-12-30 18:04:00
 tags:
   - Real Estate
 excerpt: I’m clearing up the confusion about the homestead exemption on taxes.
@@ -19,13 +19,13 @@ youtube_code: 3TJP6njaHqU
 
 I’ve covered this topic in the past, but I’ve been getting a lot of questions about it, and it’s important, so I’m discussing it again: the homestead exemption. The homestead exemption allows you to alleviate some of the tax burden on your primary residence. There are four options for a homestead exemption. Some people will qualify for more than one.&nbsp;
 
-1. **General exemption.** You can receive this for living in a home as your primary residence. This is about a 20% deduction from your taxes, a substantial amount since taxes here tend to go up every year.
+**1\. General exemption.** You can receive this for living in a home as your primary residence. This is about a 20% deduction from your taxes, a substantial amount since taxes here tend to go up every year.
 
-1. **Over 65 exemption.&nbsp;**
+**2\. Over 65 exemption.&nbsp;**
 
-1. **Disability exemption.&nbsp;**
+**3\. Disability exemption.&nbsp;**
 
-1. **Military disability exemption.** If you were in the military and are disabled to some degree.&nbsp;
+**4\. Military disability exemption.** If you were in the military and are disabled to some degree.&nbsp;
 
 To qualify, you must live in the home on January 1 of that year. Here in Houston, you can visit [www.hcad.org](http://www.hcad.org)to see if you qualify. If you haven’t filled out the paperwork for the homestead exemption yet, you need to, it saves you hard-earned money.
 
