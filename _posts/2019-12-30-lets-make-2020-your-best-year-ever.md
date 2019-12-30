@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/IEtVZennXe0'
 
 {% include youtube.html %}
 
-2020 will be a year of change for the real estate market. You should also let it be a year of change for you.
+<p style="text-align: center;"><em>2020 will be a year of change for the real estate market. You should also let it be a year of change for you.</em></p>
 
 2020 is upon us\! We’ve just come off 11 years of a bull market run—it will be 11 years officially in March of 2020. Interest rates are currently down, and we’re still seeing good market activity in certain areas and price points. Here’s what we can expect in the market with the arrival of a new year.
 
