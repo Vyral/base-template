@@ -22,7 +22,7 @@ youtube_code: TwOtCEvwbfs
 
 {% include youtube.html %}
 
-As a homeowner, you need to know your property’s value and the status of your mortgage. Here’s why.
+<p style="text-align: center;"><em>As a homeowner, you need to know your property’s value and the status of your mortgage. Here’s why.</em></p>
 
 We’re on the verge of a new decade, and you may have plans for your physical health in 2020, but today I’ll address something equally as important: your financial health. Specifically, there are two pieces of information you absolutely need to maintain or improve your financial health as a homeowner. &nbsp;
 
