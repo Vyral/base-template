@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Can You Take Advantage of the 2020 Calgary Market?
+title: '2020 Calgary Real Estate Predictions, Pains & Profits'
 date: 2019-12-30 00:00:00
 tags:
   - Real Estate
