@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '2020 Calgary Real Estate Predictions, Pains & Profits'
+title: '2020 Calgary Real Estate Predictions, Pains, & Profits'
 date: 2019-12-30 00:00:00
 tags:
   - Real Estate
@@ -23,6 +23,6 @@ youtube_code: maFeBVxPV7o
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
-1:41 - Your chances of selling your home within 90 days are 28.5%—will that go up or down?<br>2:07 - The difference between one of our team’s upcoming listings and a home across the street that hasn’t sold yet<br>3:03 - How our team staged the home<br>3:37 - How far I expect prices to drop & where our economy is headed<br>4:34 - Where vacancy rates are headed<br>5:00 - Which types of homes will be in high demand in 2020 and which won’t<br>5:57 - Wrapping things up
+1:41 - The chances of selling your home within 90 days are 28.5%—will that go up or down?<br>2:07 - The difference between one of our team’s upcoming listings and a home across the street that hasn’t sold yet<br>3:03 - How our team staged the home<br>3:37 - How far I expect prices to drop and where our economy is headed<br>4:34 - Where vacancy rates are headed<br>5:00 - Which types of homes will be in high demand in 2020 and which won’t<br>5:57 - Wrapping things up
 
 If you’re curious about your home’s value or you have any more questions about our future market, don’t hesitate to reach out to me. I’d love to help you.
