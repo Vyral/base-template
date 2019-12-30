@@ -22,15 +22,15 @@ youtube_code: jB_KaTIGiKo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>People often ask whether we host open houses and, if so, why. We’ll answer this question today.</em></p>
+*People often ask whether we host open houses and, if so, why. We’ll answer this question today.*
 
 Sellers often ask me whether or not my team and I utilize open houses to market listings.&nbsp;
 
-Sometimes we do, but this isn’t always the case. When I’m asked this question, I like to make it very clear why we might choose to hold an open house, as well as the fact that an open house and a broker’s open are not one and the same.&nbsp;
+This answer is we do, but not always.. When I’m asked this question, I like to make it very clear why we might choose to hold an open house, as well as the fact that an open house and a broker’s open are not the same.&nbsp;
 
-**Open houses are events during which you invite the public to come view your home during a set period of time.** A broker’s open, meanwhile, is an event when other brokers or agents are invited to come tour the home. These are often done in gated communities or in particularly unusual or high-end homes.&nbsp;
+**Open houses are events during which you invite the public to come view your home during a set period of time.** A broker’s open, meanwhile, is an event when other brokers or agents are invited to come tour the home. These are often done in gated communities or particularly unusual or high-end homes.&nbsp;
 
-But, back on the subject of open houses, our team likes to make clients aware that it’s possible to show a house without hosting an open house. One way of achieving this is by creating a listing video or a virtual 3-D tour.
+Back on the subject of open houses, our team likes to make clients aware that it’s possible to show a house without hosting an open house. One way of achieving this is by creating a listing video or a virtual 3-D tour.
 
 {% include pullquote.html %}&nbsp;
 
