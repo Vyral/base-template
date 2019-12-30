@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/P0oIgq0eQus'
 
 {% include youtube.html %}
 
-Here’s all the information you need to know about my radio show and how to win a Starbucks gift card from me\!
+<p style="text-align: center;"><em>Here’s all the information you need to know about my radio show and how to win a Starbucks gift card from me!</em></p>
 
 Today we’re going to discuss a radio program that I’ve been doing for quite some time. If you’re interested in tuning in, **it airs every Monday around 2 p.m. on 650 AM KENI** (sometimes it airs a few minutes before or after 2 p.m.). It follows the Sean Hannity Show.&nbsp;
 
