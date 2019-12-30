@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Open Houses Useful?
-date: 2019-12-30 16:35:21
+date: 2019-12-30 16:35:00
 tags:
   - Buyer Prospects
   - Listing Presentation
