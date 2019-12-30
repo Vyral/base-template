@@ -22,7 +22,7 @@ youtube_code: jB_KaTIGiKo
 
 {% include youtube.html %}
 
-*People often ask whether we host open houses and, if so, why. We’ll answer this question today.*
+<p style="text-align: center;"><em>People often ask whether we host open houses and, if so, why. We’ll answer this question today.</em></p>
 
 Sellers often ask me whether or not my team and I utilize open houses to market listings.&nbsp;
 
