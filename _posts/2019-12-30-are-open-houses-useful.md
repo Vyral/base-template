@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Open Houses Useful?
-date: 2019-12-30 16:48:13
+date: 2019-12-30 16:48:00
 tags:
   - Real Estate
 excerpt: >-
