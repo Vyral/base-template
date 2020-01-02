@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Tips for Winter Home Maintenance
-date: 2019-12-23 21:41:32
+date: 2019-12-23 21:41:00
 tags:
 excerpt: Our seven tips for maintaining your home throughout the winter.
 enclosure:
@@ -17,7 +17,7 @@ youtube_code: 5Cqd-dhZT2Y
 
 {% include youtube.html %}
 
-<center>Our seven tips for maintaining your home throughout the winter.</center>
+<center><em>Here are our seven tips for maintaining your home throughout the winter.</em></center>
 
 &nbsp;
 
