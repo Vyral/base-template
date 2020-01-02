@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens When Something Goes Wrong After the Inspection Period?
-date: 2020-01-02 22:39:00
+date: 2020-01-02 12:24:00
 tags:
   - Home Seller Tips
 excerpt: >-
