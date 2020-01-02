@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget About These 5 Home Repairs
-date:
+date: 2020-01-02 19:50:01
 tags:
 excerpt: >-
   To help maintain your home’s value, be sure to keep up with these five
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/payne-youtube-2-2.jpg
 youtube_code: yxkcbp_KhjU
 ---
 
-{% include youtube.html %}<center>To help maintain your home’s value, be sure to keep up with these five repairs.</center>
+{% include youtube.html %}
+
+<center>To help maintain your home&rsquo;s value, be sure to keep up with these five repairs.</center>
+
+&nbsp;
 
 Here are five home repairs you shouldn’t put off if you want to help maintain the value of your home:
 
