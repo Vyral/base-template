@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/Ekbz_mTiWL0'
 
 {% include youtube.html %}
 
-As we head into the new year, I’m bringing you one last market report for 2019. Here’s what you need to know.
+<p style="text-align: center;"><em>As we head into the new year, I’m bringing you one last market report for 2019. Here’s what you need to know.</em></p>
 
 Can you believe that 2019 is over? No matter what your plans are in 2020, I’m here to give you some great news about our real estate market.to start the new year.
 
