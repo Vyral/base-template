@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2020-market-forecast-youtube.jpg
-youtube_code: tK5hZHv72IE
+youtube_code: otF5NPoCgOo
 ---
 
 {% include youtube.html %}
