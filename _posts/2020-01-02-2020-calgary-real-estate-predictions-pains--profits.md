@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2020 Calgary Real Estate Predictions, Pains, & Profits'
-date: 2019-12-30 00:00:00
+date: 2020-01-02 00:00:00
 tags:
   - Real Estate
   - Market Update
