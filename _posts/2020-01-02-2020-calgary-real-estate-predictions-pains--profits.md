@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: I have several predictions to make for our 2020 real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020+Calgary+Real+Estate+Predictions%2C+Pains%2C+%26+Profits.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
