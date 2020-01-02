@@ -23,9 +23,9 @@ youtube_code: 'https://youtu.be/IEtVZennXe0'
 
 2020 is upon us\! We’ve just come off 11 years of a bull market run—it will be 11 years officially in March of 2020. Interest rates are currently down, and we’re still seeing good market activity in certain areas and price points. Here’s what we can expect in the market with the arrival of a new year.
 
-If you have a 2,500-to-4,500 square-foot house (some might call these homes ‘McMansions’), sales are expected to accelerate over the next few years as baby boomers age. Many of my clients are selling those homes and moving south to warmer weather. If you’re thinking about retiring and you own one of these houses, it’s a good time to sell. My thought is that we’ll see a glut of homes with larger square footages on the market in the Capital Region.
+If you have a 2,500 to 4,500 square-foot house (some might call these homes ‘McMansions’), sales are expected to accelerate over the next few years as baby boomers age. Many of my clients are selling those homes and moving south to warmer weather. If you’re thinking about retiring and you own one of these houses, it’s a good time to sell. My thought is that we’ll see a glut of homes with larger square footages on the market in the Capital Region.
 
-Speaking of the New Year, have you made your New Year’s resolutions yet?
+Speaking of the new year, have you made your New Year’s resolutions yet?
 
 I know—change is difficult. **We won’t change until the pain of staying where we are becomes greater than the pain of changing.**
 
@@ -39,6 +39,6 @@ So many of my clients have gone through hardships, from health-related issues to
 
 I hope you take this to heart\! I go to conferences all the time, yet I learned that only 3% of people who go to conferences actually learn something that they’ll implement in their lives. That means 97% of people who attend conferences are wasting their time traveling there. They might have met a bunch of great people, but they don’t implement anything they’ve learned there.
 
-Make 2020 your year of change. I guarantee that you wouldn’t rate each and every aspect of your life a 10 on a scale of 1 to 10; wherever you feel like you’re lacking in life, take this new year to improve.
+Make 2020 your year of change. I guarantee that you wouldn’t rate every aspect of your life a 10 on a scale of 1 to 10; wherever you feel like you’re lacking in life, take this new year to improve.
 
 If my team or I can do anything to help you make this coming year the best ever, don’t hesitate to reach out to me. I’d be happy to speak with you and help you plan to make 2020 a great year of change.
