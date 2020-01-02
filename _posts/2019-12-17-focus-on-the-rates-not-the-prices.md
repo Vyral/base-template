@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   As we head into a new year full of speculation, a lot of buyers are convinced
   prices will drop.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Focus+on+the+Rates%2C+Not+the+Prices.mp4
 pullquote: >-
   Right now, the market is giving us a gift, and homeowners should take
   advantage of it!
