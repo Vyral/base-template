@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Best Investment Properties in Terms of ROI
-date: 2020-01-02 16:33:14
+date: 2020-01-02 16:33:00
 tags:
   - Real Estate
 excerpt: >-
