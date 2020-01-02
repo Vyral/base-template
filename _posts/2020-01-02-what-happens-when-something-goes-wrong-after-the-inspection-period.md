@@ -18,6 +18,8 @@ youtube_code: XL6jeAOB8E0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>What should sellers do when something goes wrong after the inspection period? Let’s discuss.</em></p>
+
 The last thing you want during a real estate deal is for things to go awry, but, as is true of life in general, things happen. Today, we’d like to share what you should do when faced with one type of problem, in particular: issues that arise after the inspection period.&nbsp;
 
 The first thing to do when this happens is to realize it’s likely no one’s fault. **The important thing is to tackle any problems that arise as quickly as possible.** This means that if a seller notices their roof has sustained damage after a storm, for example, they need to let their agent know immediately. This is true any time the condition of a property changes from what was reflected on the inspection report.&nbsp;
