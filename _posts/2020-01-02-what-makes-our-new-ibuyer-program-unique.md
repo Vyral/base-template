@@ -27,7 +27,7 @@ How do iBuyers differ from the “I buy homes for cash” investors of yesteryea
 
 **One of the primary differences has to do with how technology is applied to the process.** The word iBuyer stands for “internet buyer,” and these programs use algorithms to determine what that they can offer for a property. However, there are a lot of caveats to this that most consumers aren’t aware of, and when you enter into an agreement with an iBuyer, you may be agreeing to things you may not understand.&nbsp;
 
-In other words, the offer isn’t always the offer. By that I mean it’s subject to inspections. This is not much different than when we representing a buyer in a normal home purchase—we make an offer that’s subject inspections. If during the inspection, we find out the heating system doesn’t work, we’ll either want a discount on the price or request for the system to be replaced. The advantage of iBuyer programs, though, is that they do these kinds of repairs themselves and subtract the cost from the offer amount.&nbsp;
+In other words, the offer isn’t always the offer. By that I mean it’s subject to inspections. This is not much different than when we representing a buyer in a normal home purchase—we make an offer that’s subject inspections. If during the inspection, we find out the heating system doesn’t work, we’ll either want a discount on the price or request for the system to be replaced. The advantage of iBuyer programs, though, is that they do these kinds of repairs themselves and subtract the cost from the offer amount.
 
 {% include pullquote.html %}
 
