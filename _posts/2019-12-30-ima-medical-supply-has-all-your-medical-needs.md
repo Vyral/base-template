@@ -9,7 +9,7 @@ excerpt: >-
   explain why IMA Medical Supply is a special local business.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2019/Central+PA+Real+Estate+Agent-+I+M+A+Medical+Supply.mp4
-pullquote: “It’s about making life better as we move on in age.”
+pullquote: It’s about making life better as we move on in age.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -21,15 +21,15 @@ youtube_code: 'https://youtu.be/ZFbzRr6TlA0'
 
 <p style="text-align: center;"><em>I was able to sit down with Richard Gobin and Robin Mueller and let them explain why IMA Medical Supply is a special local business.</em></p>
 
-Today I’m delivering another local small business insight as part of the brand ambassador program here in Cumberland County.&nbsp;
+Today I’m delivering another local small business insight as part of the Brand Ambassador program here in Cumberland County.&nbsp;
 
 **We’re highlighting IMA Medical Supply, which is a medical needs retail store in Carlisle, right next to the Carlisle Regional Medical Center.&nbsp;**
 
-Richard Gobin—’Uncle Rick’ to me—is the founder of IMA Medical Supply. When explaining what’s at the core of IMA Medical, Richard said: “We serve people.That’s our main purpose. And to help them where they cannot find service elsewhere. It’s to make life better as we move on in age.”&nbsp;
+Richard Gobin—’Uncle Rick’ to me—is the founder of IMA Medical Supply. When explaining what’s at the core of IMA Medical, Richard said: “We serve people. That’s our main purpose, and to help them where they cannot find service elsewhere. It’s to make life better as we move on in age.”&nbsp;
 
 IMA Medical fulfills this purpose by selling durable medical equipment like walkers and scooters to the Carlisle community.&nbsp;
 
-**According to Robin Mueller, IMA Medical’s co-manager, walkers, wheelchairs, canes and even lift chairs rank among the items highest in consumer demand.** IMA Medical also has plenty of supplies for bathroom needs.&nbsp;
+**According to Robin Mueller, IMA Medical’s co-manager, walkers, wheelchairs, canes, and even lift chairs rank among the items highest in consumer demand.** IMA Medical also has plenty of supplies for bathroom needs.&nbsp;
 
 {% include pullquote.html %}
 
