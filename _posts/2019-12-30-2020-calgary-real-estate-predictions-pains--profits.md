@@ -12,14 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2020-market-forecast-youtube.jpg
-youtube_code: maFeBVxPV7o
+youtube_code: tK5hZHv72IE
 ---
 
 {% include youtube.html %}
 
 <center><em>I have several predictions to make for our 2020 real estate market.</em></center>
 
-<br>With 2019 coming to an end, it’s time for my 2020 real estate market predictions. A lot of people have been asking for this forecast lately because, quite often, it’s contrary to what other experts have to say and it comes straight from the market trenches. If you want to know what’s happening with your home’s equity or you have some life changes happening next year that involve buying or selling a home, this message is for you.
+<br>Happy New Year\! It’s time for my 2020 real estate market predictions. A lot of people have been asking for this forecast lately because, quite often, it’s contrary to what other experts have to say and it comes straight from the market trenches. If you want to know what’s happening with your home’s equity or you have some life changes happening next year that involve buying or selling a home, this message is for you.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
