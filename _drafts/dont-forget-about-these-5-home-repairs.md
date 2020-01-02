@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/payne-youtube-2-2.jpg
 youtube_code: yxkcbp_KhjU
 ---
 
-{% include youtube.html %}To help maintain your home’s value, be sure to keep up with these five repairs.
+{% include youtube.html %}<center>To help maintain your home’s value, be sure to keep up with these five repairs.</center>
 
 Here are five home repairs you shouldn’t put off if you want to help maintain the value of your home:
 
