@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/0t-iHN5SOlY'
 
 {% include youtube.html %}
 
-Referrals are the lifeblood of our business, and we want to serve even more of them in 2020. Here’s how we plan on doing that.
+<p style="text-align: center;"><em>Referrals are the lifeblood of our business, and we want to serve even more of them in 2020. Here’s how we plan on doing that.</em></p>
 
 First off, I wanted to say happy New Year and I hope your 2020 gets off to a great start.
 
