@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/ZFbzRr6TlA0'
 
 <p style="text-align: center;"><em>I was able to sit down with Richard Gobin and Robin Mueller and let them explain why IMA Medical Supply is a special local business.</em></p>
 
-Today I’m delivering another local small business insight as part of the Brand Ambassador program here in Cumberland County.&nbsp;
+Today I’m delivering another local small business insight as part of the Brand Ambassador Program here in Cumberland County.&nbsp;
 
 **We’re highlighting IMA Medical Supply, which is a medical needs retail store in Carlisle, right next to the Carlisle Regional Medical Center.&nbsp;**
 
