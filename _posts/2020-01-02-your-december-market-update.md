@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/EqVuznge_O4'
 
 {% include youtube.html %}
 
-Today I’m delivering a quick market update and information about our upcoming spring market.
+<p style="text-align: center;"><em>Today I’m delivering a quick market update and information about our upcoming spring market.</em></p>
 
 Today I wanted to give you a quick market update as we wrap up the year. 2020 is coming up rapidly\!
 
