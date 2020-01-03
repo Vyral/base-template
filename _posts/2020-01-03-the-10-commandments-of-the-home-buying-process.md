@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 10 Commandments of the Home Buying Process
-date:
+date: 2020-01-03 17:55:52
 tags:
   - Home Buyer Tips
   - Real Estate
