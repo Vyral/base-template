@@ -16,6 +16,8 @@ youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-2356864
 youtube_code:
 ---
 
+{% include youtube.html %}
+
 Our market remains busy, and it’s still an opportune time to command a high price selling your home.&nbsp;&nbsp;
 
 I know what’s happening in the real estate market, specifically pertaining to home values, that will directly affect you.
