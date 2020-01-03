@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/EqVuznge_O4'
 
 <p style="text-align: center;"><em>Today I’m delivering a quick market update and information about our upcoming spring market.</em></p>
 
-Today I wanted to give you a quick market update as we wrap up the year. 2020 is coming up rapidly\!
+Today I wanted to give you a quick market update as we wrap up the year. 2020 is already upon us\!
 
-Currently, we have 1,743 sold homes in the last six months. We’re in a great, strong market. Right now there are 207 pending property sales, for this time of year, that’s excellent. We also have about 609 properties on the market.
+Currently, we have 1,743 sold homes in the last six months. We’re in a great, strong market. Right now there are 207 pending property sales. For this time of year, that’s excellent. We also have about 609 properties on the market.
 
-Believe it or not, our spring market starts in about four weeks. **We will see the activity pick up promptly after the first of the year.** This creates an interesting opportunity for those ready to sell their home. Many sellers don’t believe anything sells before April. However, the great thing is that for the first 60 to 90 days of the year we have many active buyers who are eager to move, and low inventory. So there’s a wonderful opportunity to sell in the first two to three months of the year.
+Believe it or not, our spring market starts in about four weeks. **We will see the activity pick up promptly after the first of the year.** This creates an interesting opportunity for those ready to sell their home. Many sellers don’t believe anything sells before April. However, the great thing is that for the first 60 to 90 days of the year, we have many active buyers who are eager to move and low inventory. So there’s a wonderful opportunity to sell in the first two to three months of the year.
 
 {% include pullquote.html %}
 
