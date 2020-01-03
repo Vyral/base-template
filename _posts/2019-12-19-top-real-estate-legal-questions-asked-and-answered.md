@@ -17,7 +17,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/attyt.jpg
+youtube_alternate_image: /uploads/attyt-2.jpg
 youtube_code: _QrRGT-utFY
 ---
 
