@@ -17,7 +17,7 @@ youtube_code: 3TJP6njaHqU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I’m clearing up the confusion about the homestead exemption on taxes.</em></p>
+*I’m clearing up the confusion about the homestead exemption on taxes.*
 
 I’ve covered this topic in the past, but I’ve been getting a lot of questions about it, and it’s important, so I’m discussing it again: the homestead exemption. The homestead exemption allows you to alleviate some of the tax burden on your primary residence. There are four options for a homestead exemption. Some people will qualify for more than one.&nbsp;
 
@@ -29,6 +29,6 @@ I’ve covered this topic in the past, but I’ve been getting a lot of question
 
 **4\. Military disability exemption.** If you were in the military and are disabled to some degree.&nbsp;
 
-To qualify, you must live in the home on January 1 of that year. Here in Houston, you can visit [www.hcad.org](http://www.hcad.org)to see if you qualify. If you haven’t filled out the paperwork for the homestead exemption yet, you need to, it saves you hard-earned money.
+To qualify, you must live in the home on January 1 of that year. Here in Houston, you can visit [www.hcad.org](http://www.hcad.org)&nbsp;to see if you qualify. If you haven’t filled out the paperwork for the homestead exemption yet, you need to—it saves you hard-earned money.
 
 Call or email me if you have any questions about the homestead exemption or any other real estate topic. I would love to help you.
