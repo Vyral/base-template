@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget About These 5 Home Repairs
-date: 2020-01-02 19:50:01
+date: 2020-01-02 19:50:00
 tags:
 excerpt: >-
   To help maintain your home’s value, be sure to keep up with these five
@@ -23,7 +23,7 @@ youtube_code: yxkcbp_KhjU
 
 Here are five home repairs you shouldn’t put off if you want to help maintain the value of your home:
 
-**1\. Caulking.** Look around your windows and other areas in your house where cold air may be seeping in or warm air may be escaping and give caulk them.&nbsp;
+**1\. Caulking.** Look around your windows and other areas in your house where cold air may be seeping in or warm air may be escaping and caulk them.&nbsp;
 
 **2\. Checking for any plumbing leaks.** Specifically, inspect the areas around your furnace, water heater, kitchen, and bathrooms.&nbsp;
 
