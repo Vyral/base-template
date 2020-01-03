@@ -20,9 +20,9 @@ youtube_code: 'https://youtu.be/Ekbz_mTiWL0'
 
 <p style="text-align: center;"><em>As we head into the new year, I’m bringing you one last market report for 2019. Here’s what you need to know.</em></p>
 
-Can you believe that 2019 is over? No matter what your plans are in 2020, I’m here to give you some great news about our real estate market.to start the new year.
+Can you believe that 2019 is over? No matter what your plans are in 2020, I’m here to give you some great news about our real estate market to start the new year.
 
-**The Wall Street Journal recently surveyed a group of economists and asked them when they expect the next recession to start.** 34.2% think it will be in 2020, which might seem like a huge number until you learn that percentage has dropped from nearly 50% earlier in the year. We might not see a recession this year, and frankly, we might not see one ever.&nbsp;
+**The Wall Street Journal recently surveyed a group of economists and asked them when they expect the next recession to start.** 34.2% think it will be in 2020, which might seem like a huge number until you learn that percentage has dropped from nearly 50% earlier in the year. We might not see a recession this year, and frankly, we might not see one at all.&nbsp;
 
 Goldman Sachs says they are reasonably confident that U.S. growth is improving, and the sharp drop in mortgage rates has reinvigorated the housing recovery after a slowdown in 2018 and early 2019. This means that the demand is still higher than the supply.
 
@@ -34,6 +34,6 @@ People are afraid that a recession will bring something similar to what we saw i
 
 Why is this happening? According to First American, although home prices went up 5.7% in the last year, mortgage rates also decreased by 0.85%. Along with a 1.5% increase in wages, the total impact on purchasing power is a positive $24,500. Inventory is still low, more people can afford to buy, and **real estate remains one of the strongest investments you can make.&nbsp;**
 
-Let me give you one more gift to start the new year: the gift of my expertise. If you’re thinking about selling your home, come and learn about my advanced real estate planning strategy for marketing and selling your home. Sign up today for our next Home Selling Sharks Seminar, Saturday, January 18, at the HIlton Garden Inn in Fort Washington. You can register [here.&nbsp;](http://www.homesellingsharks.com/){: target="_blank"}
+Let me give you one more gift to start the new year: the gift of my expertise. If you’re thinking about selling your home, come and learn about my advanced real estate planning strategy for marketing and selling your home. Sign up today for our next Home Selling Sharks Seminar, Saturday, January 18, at the Hilton Garden Inn in Fort Washington. You can register [here.&nbsp;](http://www.homesellingsharks.com/){: target="_blank"}
 
-If you have any other questions for me, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+If you have any other questions, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
