@@ -8,13 +8,13 @@ excerpt: >-
   Here’s all the information you need to know about my radio show and how to win
   a Starbucks gift card from me!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2019/Alaska+Real+Estate+_+Dar+Walden-+Radio+Show.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden-+radio+show.mp4
 pullquote: 'If you send us a question or idea, I will send you a Starbucks gift card!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/P0oIgq0eQus'
+youtube_code: 'https://youtu.be/WkHROx16huk'
 ---
 
 {% include youtube.html %}
