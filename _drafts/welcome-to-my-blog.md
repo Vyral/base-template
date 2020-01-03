@@ -11,16 +11,10 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-235686472.jpg
 youtube_code:
 ---
-
-{% include youtube.html %}
-
-{% include pullquote.html %}
-
-&nbsp;
 
 Our market remains busy, and it’s still an opportune time to command a high price selling your home.&nbsp;&nbsp;
 
