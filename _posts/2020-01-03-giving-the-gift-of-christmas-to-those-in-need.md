@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving the Gift of Christmas to Those in Need
-date: 2020-01-03 15:35:31
+date: 2020-01-03 15:35:00
 tags:
 excerpt: >-
   We at Jeff Cook Real Estate care about those in our community. Today I’ll
