@@ -23,12 +23,12 @@ youtube_code: 'https://youtu.be/0t-iHN5SOlY'
 
 First off, I wanted to say happy New Year and I hope your 2020 gets off to a great start.
 
-As you can see in the video above, I’m wearing my curly wig once again. Why? Because in need your attention. **In 2020, we have a goal to serve 125 referrals**. I’m so serious about this goal that I’m also wearing my 80s hair band wig.&nbsp;
+As you can see in the video above, I’m wearing my curly wig once again. Why? Because I need your attention. **In 2020, we have a goal to serve 125 referrals**. I’m so serious about this goal that I’m also wearing my 80s hair band wig.&nbsp;
 
 If you have friends, family, or coworkers who are looking to buy or sell a home this year, **we would love the opportunity to be able to serve them at a high level and make their transaction as smooth as possible.&nbsp;**
 
 {% include pullquote.html %}
 
-Once we reach that 125 referral market, I’ll even consider wearing a MIckey Mouse headset, which you can get a peek of at the end of the video above. So let’s make 2020 an awesome year.&nbsp;
+Once we reach that 125 referral marker, I’ll even consider wearing a Mickey Mouse head, which you can get a peek of at the end of the video above. So let’s make 2020 an awesome year.&nbsp;
 
-If you have any questions for us or any referrals that we can help out with, don’t hesitate to give me a call or send me an email. I look forward to talking to you soon.
+If you have any questions for us or any referrals that we can help out with, don’t hesitate to give us a call or send us an email. We look forward to talking to you soon.
