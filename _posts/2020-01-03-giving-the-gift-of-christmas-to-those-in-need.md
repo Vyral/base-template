@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Giving the Gift of Christmas to Those in Need
-date:
+date: 2020-01-03 15:35:31
 tags:
 excerpt: >-
   We at Jeff Cook Real Estate care about those in our community. Today I’ll
@@ -18,7 +18,11 @@ youtube_alternate_image: /uploads/cook-youtube-2-3.jpg
 youtube_code: q_IlBeVDtxI
 ---
 
-{% include youtube.html %}<center> We at Jeff Cook Real Estate care about those in our community. Today I’ll share the story of how our team banded together to bring the light of Christmas to a family facing financial hardship.</center>
+{% include youtube.html %}
+
+<center>We at Jeff Cook Real Estate care about those in our community. Today I&rsquo;ll share the story of how our team banded together to bring the light of Christmas to a family facing financial hardship.</center>
+
+&nbsp;
 
 When a family in need reached out to Jeff Cook Real Estate, we banded together with the community to help them enjoy the Christmas holiday without the burden of financial heartache. Today I’ll share that story and how our team brought the spirit of the season to a family that didn’t expect it.
 
