@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 is Going to Rock!
+title: 2020 Is Going to Rock!
 date: 2020-01-02 00:00:00
 tags:
   - Real Estate
