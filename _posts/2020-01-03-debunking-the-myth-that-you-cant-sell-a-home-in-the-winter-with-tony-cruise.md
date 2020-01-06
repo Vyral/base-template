@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Debunking the Myth that You Can’t Sell a Home in the Winter: With Tony Cruise'
-date: 2020-01-03 16:42:17
+date: 2020-01-03 16:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 9lzkJFJyho4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Radio host Tony Cruise joins me today to help dispel the myth that winter is a bad time to sell your home—it can be a great time!</em></p>
+*Radio host Tony Cruise joins me today to help dispel the myth that winter is a bad time to sell your home—it can be a great time\!*
 
 With the changing weather and fallen leaves that come with winter, sellers often fall prey to the misconception that they can’t sell their homes this time of the year. That’s nothing more than a myth—there are real advantages to selling your home in the wintertime. 840 WHAS radio host Tony Cruise joins me today to share what you need to know about selling your home in the winter.
 
