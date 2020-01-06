@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   In an island market like ours, most buyers are unable to see your home in
   person. That’s just one reason why you must use professional photography.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Photography+is+Everything+-+Kauai+Real+Estate.mp4
 pullquote: Drone photos will highlight your property and the surrounding area.
 enclosure_type: video/mp4
 enclosure_time:
@@ -32,4 +33,4 @@ Of course, here on gorgeous, tropical Kauai, **drone photos are an essential par
 
 When you sell a property, make sure you work with an experienced agent who will use state of the art photography to highlight your home in the very best manner. Buyers definitely appreciate stunning photography and beautiful drone footage, so make sure you put your best foot forward in your listing photos so that buyers will see what a valuable asset you are offering.
 
-If you have any other questions about professional photography or selling your home, just give me a call or send me an email. I would be happy to help you!
+If you have any other questions about professional photography or selling your home, just give me a call or send me an email. I would be happy to help you\!
