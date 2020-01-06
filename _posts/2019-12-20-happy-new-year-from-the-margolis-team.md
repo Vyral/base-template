@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   As 2019 is winding down, I wanted to reflect back on all the people we’re
   thankful for.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Kauai+Real+Estate-+We+Want+To+Thank+You+(1).mp4
 pullquote: >-
   My team and I work hard so that buying or selling real estate can be easy for
   you.
