@@ -22,7 +22,7 @@ youtube_code: MuAt8-keg14
 
 {% include youtube.html %}
 
-*Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.*
+<p style="text-align: center;"><em>Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.</em></p>
 
 If you’re a homebuyer and you want to be sure to make it to closing, follow these 10 real estate commandments:&nbsp;
 
