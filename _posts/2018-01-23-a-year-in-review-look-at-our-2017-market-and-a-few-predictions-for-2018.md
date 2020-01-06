@@ -1,12 +1,13 @@
 ---
 layout: post
 title: A Year-in-Review Look at Our 2017 Market and a Few Predictions for 2018
-date: 2018-01-23 10:54:03
+date: 2018-01-23 10:54:00
 tags:
 excerpt: >-
   2017 saw both the number of home sales and the total sales volume rise. 2018
   should be a good year for both buyers and sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/2018+Market+Predictions+-+Kauai+Real+Estate.mp4
 pullquote: '2017 was a great year for Kauai, and 2018 looks to be very promising.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -14,7 +15,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: '-fscWQfyfzg'
 ---
-
 
 {% include youtube.html %}
 
@@ -40,4 +40,4 @@ Prices for single-family homes in the modest price ranges will continue to trend
 
 2017 was a great year for Kauai, and 2018 looks to be very promising. If you’re a buyer, it’s still a good time to get a toe-hold on the marketplace. If you’re a seller, the market is strong as long as your home is priced and marketed correctly.
 
-If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to get in touch with us. We’d be happy to help you achieve all of your real estate goals, and we wish you a healthy, happy, prosperous 2018. Until next time, aloha!
+If you have any questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to get in touch with us. We’d be happy to help you achieve all of your real estate goals, and we wish you a healthy, happy, prosperous 2018. Until next time, aloha\!
