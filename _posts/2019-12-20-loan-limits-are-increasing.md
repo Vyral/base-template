@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Loan limits are increasing in 2020 for conventional, FHA, and VA loans. Here’s
   what you need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/Loan+Limits+Are+Increasing.mp4
 pullquote: The VA loan limits have had a 247% increase from last year!
 enclosure_type: video/mp4
 enclosure_time:
