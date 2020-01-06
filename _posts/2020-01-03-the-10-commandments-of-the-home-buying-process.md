@@ -6,8 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: >-
-  Homebuyers: Follow these 10 real estate commandments to ensure you make it all
-  the way to the closing table.
+  Homebuyers: Follow these 10 real estate commandments to ensure you make it to
+  the closing table.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+10+Commandments+of+the+Home+Buying+Process.mp4
 pullquote: >-
@@ -22,7 +22,7 @@ youtube_code: B33t34aR-0k
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.</em></p>
+*Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.*
 
 If you’re a homebuyer and you want to be sure to make it to closing, follow these 10 real estate commandments:&nbsp;
 
@@ -40,7 +40,7 @@ Thou shall not:
 
 {% include pullquote.html %}
 
-**6\. Stop paying current mortgage or rent.** Most lenders follow the guideline that if you’re more than 15 days past due with your mortgage payment, you have to wait a full 12 months of having current mortgage payments in order to qualify.
+**6\. Stop paying current mortgage or rent.** Most lenders follow the guideline that if you’re more than 15 days past due with your mortgage payment, you then have to go a full 12 months of making on-time payments in order to qualify.
 
 **7\. Allow additional credit inquiries**.
 
