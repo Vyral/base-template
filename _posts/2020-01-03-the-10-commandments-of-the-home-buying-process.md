@@ -17,12 +17,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/misty-the-10-commandments-of-the-home-buying-process-youtube.jpg
-youtube_code: B33t34aR-0k
+youtube_code: MuAt8-keg14
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.</em></p>
+*Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.*
 
 If you’re a homebuyer and you want to be sure to make it to closing, follow these 10 real estate commandments:&nbsp;
 
