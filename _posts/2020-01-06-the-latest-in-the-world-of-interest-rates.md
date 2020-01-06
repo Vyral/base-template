@@ -25,7 +25,7 @@ youtube_code: HWznWUjepz0
 
 This is partially true, but the effect isn’t always immediate. Sometimes the mortgage industry anticipates these rate drops and prices themselves ahead of the Fed meetings.&nbsp;
 
-Now that we’re into the fourth quarter of 2019, rates are at an all-time low. **It’s a great time to buy a home, and we have a product called the[Keller Mortgage ZeroPlus loan](https://thewhitegroupblog.com/get-a-mortgage-for-less-out-of-pocket-money-with-the-zero-plus-program.html){: target="_blank"} that can help you.** It’s a no-fee mortgage (no origination fee, processing fee, or application fees), which essentially makes it a free mortgage. They still have competitive rates, too, because the lenders don’t spend a lot of money advertising for their business.&nbsp;
+Now that we’re into the fourth quarter of 2019, rates are at an all-time low. **It’s a great time to buy a home, and we have a product called the&nbsp;[Keller Mortgage ZeroPlus loan](https://thewhitegroupblog.com/get-a-mortgage-for-less-out-of-pocket-money-with-the-zero-plus-program.html){: target="_blank"} that can help you.** It’s a no-fee mortgage (no origination fee, processing fee, or application fees), which essentially makes it a free mortgage. They still have competitive rates, too, because the lenders don’t spend a lot of money advertising for their business.&nbsp;
 
 {% include pullquote.html %}
 
