@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently met with Marco San Antonio, of One Day Signs, to discuss what his
   business offers to the people of Encinitas.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+10+_+One+Day+Signs.mp4
 pullquote: >-
   One Day Signs has been a staple in Encinitas for more than 30 years and boasts
   a rich history.
