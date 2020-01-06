@@ -27,7 +27,7 @@ Our last forum sold out and we wanted to be sure that you can claim your ticket.
 
 {% include pullquote.html %}
 
-**So join us on Wednesday, January 22, at the Maple Grove Community Center or Thursday, January 23, at Braemar Golf Course in Edina.** Each day will have two sessions, with one starting at 11:00 a.m and the other starting at 6:45 p.m.
+**So join us on Wednesday, January 22, at the Maple Grove Community Center or Thursday, January 23, at Braemar Golf Course in Edina.** Each day will have two sessions, with one starting at 11:00 a.m. and the other starting at 6:45 p.m.
 
 Three out of the last four forums have sold out, so make sure that you reserve your seats here today.
 
