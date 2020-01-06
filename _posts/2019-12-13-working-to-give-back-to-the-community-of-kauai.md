@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Kauai is a beautiful place, and I love giving back to the community. Here’s
   how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Kauai+Real+Estate-+We+Enjoy+Giving+Back+To+The+Community.mp4
 pullquote: I love giving back to our community here in Kauai.
 enclosure_type: video/mp4
 enclosure_time:
