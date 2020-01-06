@@ -1,7 +1,7 @@
 ---
 layout: post
 title: More Reasons to Sell in the Winter
-date: 2020-01-02 20:55:09
+date: 2020-01-02 20:55:00
 tags:
   - Real Estate
   - Home Seller Tips
@@ -21,7 +21,7 @@ youtube_code: 1PfGmk3NoMw
 
 {% include youtube.html %}
 
-oday we’re discussing more reasons why you should sell your home during the winter. We speak to sellers all the time about absorption rates. Absorption rates show how many houses will sell during a certain length of time. It doesn’t matter if it’s a good or slow market, there’s only a certain number of homes that will sell in a given period.
+Today we’re discussing more reasons why you should sell your home during the winter. We speak to sellers all the time about absorption rates. Absorption rates show how many houses will sell during a certain length of time. It doesn’t matter if it’s a good or slow market, there’s only a certain number of homes that will sell in a given period.
 
 Many people who have had their home on the market during the summer or autumn decide to take it off the market in the winter and try again in the spring. Or, people just considering selling decide to wait until the spring. So during the winter months, we don’t have as many houses on the market, but we still have buyers out there looking. **If your home is on the market during the winter, you have a better chance to sell quickly and for top dollar.** It’s as simple as supply and demand.&nbsp;
 
