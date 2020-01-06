@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Valhalla Country Estates Is Ready for New Construction Buyers
-date: 2020-01-06 15:49:40
+date: 2020-01-06 15:49:00
 tags:
 excerpt: >-
   If you’re thinking of building your dream home, Valhalla Country Estates is a
