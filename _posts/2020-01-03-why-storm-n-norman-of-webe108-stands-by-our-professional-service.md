@@ -19,8 +19,8 @@ youtube_code: m-mMT7ok9wI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Why choose Carbutti & Co for your real estate needs? Find out from radio personality Storm N Norman from WEBE108.</em></p>
+*Why choose Carbutti & Co for your real estate needs? Find out from radio personality Storm N Norman from WEBE108.*
 
-You may already be familiar with the smooth voice of radio personality Storm N Norman from WEBE108. **We’re well-acquainted with him, as he’s been coming to us for any and all of his real estate needs for years.** He even recommends us to friends, family members, and listeners who are looking to buy or sell homes — that’s how much he trusts the professional service we offer.&nbsp;
+You may already be familiar with the smooth voice of radio personality Storm N Norman from WEBE108. **We’re well-acquainted with him, as he’s been coming to us for all of his real estate needs for years.** He even recommends us to friends, family members, and listeners who are looking to buy or sell homes — that’s how much he trusts the professional service we offer.&nbsp;
 
 If you’d like help with your real estate needs, feel free to reach out to us. We look forward to hearing from you soon.
