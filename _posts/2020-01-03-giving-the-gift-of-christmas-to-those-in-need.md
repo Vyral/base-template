@@ -13,7 +13,7 @@ pullquote: >-
   Cares Program to help this family to get the bare essentials they needed.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-2-3.jpg
 youtube_code: q_IlBeVDtxI
 ---
