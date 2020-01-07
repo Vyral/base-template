@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Derogatory Credit Items and Their Effect on Homebuyers
-date:
+date: 2020-01-07 20:07:32
 tags:
   - Home Buyer Tips
 excerpt: >-
