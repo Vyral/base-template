@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/EcngD9Hyb7A'
 
 {% include youtube.html %}
 
-Did you know there’s an easily accessible winter wonderland just over an hour away from the San Fernando Valley? Check it out\!
+<p style="text-align: center;"><em>Did you know there’s an easily accessible winter wonderland just over an hour away from the San Fernando Valley? Check it out\!</em></p>
 
 Especially if you have kids, Pine Mountain Club is a quick place to get to if you and your family are looking for a place to enjoy winter activities like hiking, skiing, camping, horse-riding, and more. I do like Big Bear and all the amenities that it has to offer, but traveling a winding road up the mountain can be laborious, particularly with kids in tow. If you’re thinking about going to Mammoth, that’s an even longer drive; Lake Tahoe, at this time of year, is probably only accessible if you fly.
 
