@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/TZzJN8_4ZOc'
 
 {% include youtube.html %}
 
-Today I’m sharing a discussion I had with John Nayduch, our buying and listings specialist, where we talk about goals and growth.
+<p style="text-align: center;"><em>Today I’m sharing a discussion I had with John Nayduch, our buying and listings specialist, where we talk about goals and growth.</em></p>
 
 John Nayduch has been on the Dave Hooke Team for four years, and in the office we call him “The Machine.” Prior to joining us, John was with a different brokerage, averaging 15 to 20 real estate transactions per year. After joining the team, John began as a buyer’s agent and eventually became one of our lead listings agent.&nbsp;
 
