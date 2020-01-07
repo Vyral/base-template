@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top Real Estate Legal Questions Asked and Answered
+title: Top Real Estate Legal Questions Asked and Answered by Justin De Crescente
 date: 2019-12-19 00:00:00
 tags:
   - Real Estate
@@ -9,7 +9,7 @@ excerpt: >-
   estate attorneys, to clarify some of the legal aspects of real estate
   contracts.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/Top+Real+Estate+Legal+Questions+Asked+and+Answered+by+Justin+De+Crescente+(1).mp4
+  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/Top+Real+Estate+Legal+Questions+Asked+and+Answered+by+Justin+De+Crescente+(2).mp4
 pullquote: >-
   New Jersey case law says that if the attorney didn’t draft the contract, the
   contract cannot be binding until the client has an opportunity to consult with
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/attyt-2.jpg
-youtube_code: _QrRGT-utFY
+youtube_code: 207kOdLi3TQ
 ---
 
 {% include youtube.html %}
