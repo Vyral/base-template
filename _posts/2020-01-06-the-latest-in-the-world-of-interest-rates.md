@@ -29,7 +29,7 @@ Now that we’re into the fourth quarter of 2019, rates are at an all-time low. 
 
 {% include pullquote.html %}
 
-Additionally, the “Plus” part means that if the mortgage balance is over $150,000, you’ll get a $1,000 lender credit that you can use for third-party expenses at closing. This is also a great option if you’re looking to refinance&nbsp;
+Additionally, the “Plus” part means that if the mortgage balance is over $150,000, you’ll get a $1,000 lender credit that you can use for third-party expenses at closing. This is also a great option if you’re looking to refinance.
 
 If you’d like to know more about this loan product and what it can do for you or you have any other real estate questions, don’t hesitate to get in touch with me. My team and I would love to help you.&nbsp;<br>&nbsp;
 
