@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do If You Receive a Lowball Offer
-date: 2019-11-07 00:00:00
+date: 2020-01-02 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
