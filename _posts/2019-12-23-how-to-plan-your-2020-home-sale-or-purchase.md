@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Whether you’re buying or selling in 2020, here’s how to plan your course of
   action.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/How+to+Plan+Your+2020+Home+Sale+or+Purchase.mp4
 pullquote: 'If you’re positioned well, you’ll have success no matter what the season.'
 enclosure_type: video/mp4
 enclosure_time:
