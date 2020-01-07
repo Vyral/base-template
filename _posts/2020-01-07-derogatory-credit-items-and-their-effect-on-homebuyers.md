@@ -20,7 +20,7 @@ youtube_code: BC8jNpUld8o
 
 {% include youtube.html %}
 
-If you’ve had credit issues such as a foreclosure, short sale, or bankruptcy, you can buy a home again in the future. However, you might not be able to for seven years.
+<p style="text-align:center;"><em>If you’ve had credit issues such as a foreclosure, short sale, or bankruptcy, you can buy a home again in the future. However, you might not be able to for seven years.</em></p>
 
 Most people understand that a negative life event, such as a short sale or foreclosure, affects your credit. **It will also have some repercussions for mortgage qualifying purposes.**
 
