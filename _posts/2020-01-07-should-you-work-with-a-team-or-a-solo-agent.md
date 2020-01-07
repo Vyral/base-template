@@ -19,7 +19,7 @@ youtube_code: kU0ZYywfD78
 
 {% include youtube.html %}
 
-Working with a solo agent and working with a team come with two different sets of expectations. Here’s what you need to know.
+<p style="text-align: center;"><em>Working with a solo agent and working with a team come with two different sets of expectations. Here’s what you need to know.</em></p>
 
 Today I want to talk to you about real estate teams. Why do they exist, how do they work, and how does my team operate? I’m answering all of these questions and more today.
 
