@@ -23,13 +23,13 @@ youtube_code: 'https://youtu.be/TZzJN8_4ZOc'
 
 <p style="text-align: center;"><em>Today I’m sharing a discussion I had with John Nayduch, our buying and listings specialist, where we talk about goals and growth.</em></p>
 
-John Nayduch has been on the Dave Hooke Team for four years, and in the office we call him “The Machine.” Prior to joining us, John was with a different brokerage, averaging 15 to 20 real estate transactions per year. After joining the team, John began as a buyer’s agent and eventually became one of our lead listings agent.&nbsp;
+John Nayduch has been on the Dave Hooke Team for four years, and in the office, we call him “The Machine.” Prior to joining us, John was with a different brokerage, averaging 15 to 20 real estate transactions per year. After joining the team, John began as a buyer’s agent and eventually became one of our lead listings agents.&nbsp;
 
 Today, John still works with buyers, though listings have become a larger part of his focus. He’s on pace to record somewhere between 80 and 100 transactions this year.&nbsp;
 
 {% include pullquote.html %}
 
-Though his workload can be challenging, John described the team like this: **“It’s like family. You can really lean on each other. I actually enjoy coming into the office.”&nbsp;**
+Though his workload can be challenging, John described the team like this: **“It’s like family. You can lean on each other. I actually enjoy coming into the office.”&nbsp;**
 
 I’ve always admired John’s relentless day-to-day hustle, and his positive support is representative of our core values.&nbsp;
 
