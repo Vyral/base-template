@@ -28,8 +28,8 @@ Different loan programs have different time frame requirements for the different
 
 {% include pullquote.html %}
 
-**These days, I’m seeing a lot of Chapter 7 and Chapter 13 Bankruptcies.** There’s a pretty wide gap for what the different programs allow.
+**These days, I’m seeing a lot of Chapter 7 and Chapter 13 bankruptcies.** There’s a pretty wide gap for what the different programs allow.
 
-If you or someone you know is contemplating one of these actions. It’s important that we have a conversation up front so that we can lay out a roadmap for what happened and what we can do to get your back into homeownership.
+If you or someone you know is contemplating one of these actions it’s important that we have a conversation up front so that we can lay out a roadmap for what happened and what we can do to get you back into homeownership.
 
 If you or someone you know is looking to buy a home, don’t hesitate to reach out and give me a call or send me an email. I look forward to hearing from you soon.
