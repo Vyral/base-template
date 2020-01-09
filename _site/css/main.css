@@ -1716,6 +1716,9 @@ body {
   -webkit-animation: 1s ease-in-out fadein;
           animation: 1s ease-in-out fadein; }
 
+p {
+  font-size: 18px; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
   font-weight: 200;
@@ -1749,6 +1752,9 @@ h6 {
   width: 100%;
   max-width: 120rem;
   margin: 0 auto; }
+
+ul {
+  list-style: disc outside; }
 
 a {
   color: #0020cd;
@@ -2837,3 +2843,6 @@ form select {
 .navbar-andross .navbar-brand {
   color: #fff;
   margin-top: 10px; }
+
+.indent {
+  margin-left: 3rem; }
