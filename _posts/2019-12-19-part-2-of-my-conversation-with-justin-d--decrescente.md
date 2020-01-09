@@ -41,4 +41,4 @@ In part two of our discussion with Attorney Justin D. DeCrescente, we’re talki
 
 Thanks so much to Justin for joining me again. Stay tuned for part three of our conversation, where we’ll talk to Justin about closing dates, planning for your move, and much more.
 
-If you have any questions for me about contracts, buying a home, or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you. Also, you can reach out to Justin at (201) 227-8150.
+If you have any questions about contracts, buying a home, or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you. Also, you can reach out to Justin at (201) 227-8150.
