@@ -20,7 +20,7 @@ youtube_code: _85UwoPuDGA
 
 {% include youtube.html %}
 
-Today I’m sharing my predictions regarding prices, inventory, interest rates and average days on market.
+<p style="text-align: center;"><em>Today I’m sharing my predictions regarding prices, inventory, interest rates and average days on market.</em></p>
 
 To bring you up to speed on our current real estate market, interest rates are still low, and we’re looking at fixed-rate mortgages as low as 3% to 3.5%. Here are my predictions on what the market will do in this new year:&nbsp;
 
