@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dildine-youtube-2-3.jpg
-youtube_code: DlkAu0t72S0
+youtube_code: onDbg8UZgkk
 ---
 
 {% include youtube.html %}
