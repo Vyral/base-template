@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Real Estate Market Will Do in 2020
-date: 2020-01-09 17:56:11
+date: 2020-01-09 17:56:00
 tags:
   - Market Update
   - Real Estate
