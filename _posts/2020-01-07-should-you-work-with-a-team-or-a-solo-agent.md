@@ -35,6 +35,6 @@ The light bulb turned on for me after I went to the dentist. I realized that the
 
 When you work with the Ask Sarita Team, you get the entire team on your side. We have people who specialize in paperwork, we have a transaction coordinator, and we have buyer’s agents and listing agents. My job as the team leader is to write every offer, take every listing, and work closely with my clients throughout the process.
 
-We helped 144 families last year with over $80 million worth of real estate. I’m much more involved in my transactions than other teams that are doing similar numbers. Because of this, we aren’t going to ever sell 1,000 homes a year, but that’s just fine with us. **Our main focus will always be to give you the best possible service.**
+We helped 144 families last year with over $80 million worth of real estate. I’m much more involved in my transactions than other teams that are doing similar numbers. We aren’t going to ever sell 1,000 homes a year, but that’s just fine with us. **Our main focus will always be to give you the best possible service.**
 
 If you have any questions about real estate teams or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
