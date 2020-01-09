@@ -7,7 +7,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: About
-    url: https://breannesteen1.myrealestateplatform.com/about/
+    url: /about/
 client:
   name: Breanne Steen
   license_number:
