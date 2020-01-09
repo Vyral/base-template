@@ -1,6 +1,6 @@
 <h3>Complete the fields below and we'll help set up a customized search for you with results directly from the MLS.</h3>
 
-<form method="post" class="home-value" action="http://vyralmarketing.com/staticforms/sendEmail.php" onsubmit="return setReturn()">
+<form method="post" class="home-value" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
@@ -173,7 +173,7 @@
       <!-- Cloud cannon settings field -->
       <div class="hidden">
         <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
-        <input type="hidden" name="_subject" value="Contact Message From Your {{site.data.settings.title}}">
+        <input type="hidden" name="_subject" value="Home Search Form Response from your Vyral Video Blog">
         <input type="text" name="_gotcha">
       </div>
     </form>
