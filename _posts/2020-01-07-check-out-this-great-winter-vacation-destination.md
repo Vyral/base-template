@@ -25,6 +25,6 @@ Especially if you have kids, Pine Mountain Club is a quick place to get to if yo
 
 **The convenient location and distance of Pine Mountain Club make it a great alternative to the other winter destinations that people are familiar with.** Right now, there are only about 2,400 residents at Pine Mountain Club; many people have second homes up here to have a place to enjoy both the winter and summer months.
 
-If you’re interested in learning more about all the great amenities you’ll find at Pine Mountain Club, visit[their website.](https://pinemountainclub.net/web/pages/recreation){: target="_blank"} If you’re interested in renting a cabin there, [try Airbnb.](https://www.airbnb.com/s/Pine-Mountain-Club--CA/homes){: target="_blank"}
+If you’re interested in learning more about all the great amenities you’ll find at Pine Mountain Club, visit [their website.](https://pinemountainclub.net/web/pages/recreation){: target="_blank"} If you’re interested in renting a cabin there, [try Airbnb.](https://www.airbnb.com/s/Pine-Mountain-Club--CA/homes){: target="_blank"}
 
 As always, if you have any questions, don’t hesitate to reach out to us. We’d love to speak with you.
