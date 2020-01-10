@@ -21,11 +21,11 @@ youtube_code: BsuU-2MA7kY
 
 {% include youtube.html %}
 
-<center><em>If you’re buying or selling in our Colorado Springs market in 2020, here are three insider tips to keep in mind.</em></center>
+<center><em>If you&rsquo;re buying or selling in our Colorado Springs market in 2020, here are three insider tips to keep in mind.</em></center>
 
 <br>As we begin 2020, there are three key points to know about our Colorado Springs market.
 
-First, **there *will* be an inventory shortage**, which means we’ll see more multiple-offer situations. America’s Space Force is coming to town, and with it, its 15,000 personnel and their families. We don’t know where they’re going to live, but our team is ready to help all of them! In any case, be ready for this shortage.
+First, **there *will* be an inventory shortage**, which means we’ll see more multiple-offer situations. America’s Space Force is coming to town, and with it, its 15,000 personnel and their families. We don’t know where they’re going to live, but our team is ready to help all of them\! In any case, be ready for this shortage.
 
 Next, **the forecast remains good for interest rates**. 2019 ended with fantastic rates, so you might expect that they can only go up from here, but they’re predicted to stay low. This means that even though home prices are rising, buyers will still be able to afford more house and make competitive offers for the houses they’re looking at.
 
