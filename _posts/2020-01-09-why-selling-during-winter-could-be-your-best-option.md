@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Selling During Winter Could Be Your Best Option
-date: 2020-01-09 17:18:04
+date: 2020-01-09 17:18:00
 tags:
   - Home Seller Tips
 excerpt: 'Contrary to what you might think, this winter represents a great time to sell.'
@@ -27,6 +27,6 @@ Usually, our market slows down in September, but that didn’t happen in 2019. I
 
 There may not be as many buyers out there, either, which makes now a good time to buy, as well. Additionally, this may make sellers more motivated to sell.&nbsp;
 
-At the Air Assault Team, we offer three ways to sell your home: our guaranteed home sale program, an instant offer, or the traditional listing method. We’re always ready to sell your home quickly and for top dollar.&nbsp;
+**At the Air Assault Team, we offer three ways to sell your home:** our guaranteed home sale program, an instant offer, or the traditional listing method. We’re always ready to sell your home quickly and for top dollar.&nbsp;
 
 If you’d like to know more about which listing method works best for you or you have any questions about our Clarksville market, don’t hesitate to reach out to me. I’d love to help you.
