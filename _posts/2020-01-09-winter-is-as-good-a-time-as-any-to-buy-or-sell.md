@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fall or Winter Is as Good a Time as Any to Buy or Sell
+title: Winter Is as Good a Time as Any to Buy or Sell
 tags:
   - Home Seller Tips
   - Home Buyer Tips
