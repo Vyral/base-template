@@ -7,13 +7,13 @@ excerpt: >-
   My monthly messages will provide you with market updates, tips, and other
   educational information having to do with our market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Breanne+Steen/Breanne+Steen+-+FB+Ad+EDIT+3.mp4
+  https://vyralmarketing.s3.amazonaws.com/Breanne+Steen/Breanne+Steen+-+FB+Ad+EDIT+4.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-235686472.jpg
-youtube_code: 'https://youtu.be/TNasQlxbyck'
+youtube_code: 'https://youtu.be/MVLr9nUad0w'
 ---
 
 {% include youtube.html %}
