@@ -30,7 +30,7 @@ It’s not just buyers that reap the benefits of end-of-year moves—closing cos
 
 **You don’t have to fight the winter weather.** If the frightful winter weather is keeping you from purchasing a home late in the year, it may be best to buy in the fall months. This comes with its own set of advantages that will not only allow you to dodge any unpleasant winter weather, but also to get cozy in your new home just in time for the holidays.&nbsp;
 
-**You’ll have greater availability to services.** Buying in the fall or winter can also open up greater access to resources, such as moving services, which the influx of buyers and sellers in the spring and summertime makes hard to find.&nbsp;&nbsp;
+**You’ll have greater availability to services.** Buying in the fall or winter can also open up greater access to resources, such as moving services, which the influx of buyers and sellers in the spring and summertime make hard to find.&nbsp;&nbsp;
 
 **The “off-season” is anything but.** Due to a higher scarcity of buyers and sellers in the fall and winter months, closing at a realistic asking price can be most easily accomplished during this window. Coming up with a good pricing strategy is sure to make your home shine brightly over the competition.&nbsp;
 
