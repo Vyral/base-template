@@ -20,7 +20,7 @@ youtube_code: _85UwoPuDGA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I’m sharing my predictions regarding prices, inventory, interest rates and average days on market.</em></p>
+*Today I’m sharing my predictions regarding prices, inventory, interest rates and average days on market.*
 
 To bring you up to speed on our current real estate market, interest rates are still low, and we’re looking at fixed-rate mortgages as low as 3% to 3.5%. Here are my predictions on what the market will do in this new year:&nbsp;
 
@@ -36,4 +36,4 @@ To bring you up to speed on our current real estate market, interest rates are s
 
 It’s a great time to buy a home when you consider how low the interest rates are; if you need pre-approval, contact us and we can get you set up with a lender. Sellers: take advantage of what will be the seventh year of a strong seller’s market.&nbsp;
 
-If you would like to get an evaluation on your home, give me a call or reach out to anyone at the Roth Team. We’d be happy to help you.
+If you would like to get a valuation on your home, give me a call or reach out to anyone at the Roth Team. We’d be happy to help you.
