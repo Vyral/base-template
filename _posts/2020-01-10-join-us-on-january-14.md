@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Home Staging and Selling Workshop Is Almost Here
+title: Join Us on January 14
 date: 2020-01-10 19:49:00
 tags:
   - Real Estate
