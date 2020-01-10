@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keeping Boundaries With Clients
-date: 2020-01-10 16:53:28
+date: 2020-01-10 16:53:00
 tags:
   - Transaction Management
 excerpt: >-
