@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/VZyY-oDtp6k'
 
 I’ve got a quick real estate market update to share with you today, as well as some projections of what I believe we’ll see in 2020.
 
-**Interest rates and inventory are still low, which is going to lead to another increase in home prices.** We’re up a little over 5% from last year, which is a solid, healthy rate of appreciation. Overall, we expect our market to continue to be strong, and a little bit stronger than 2019.
+**Interest rates and inventory are still low, which is going to lead to another increase in home prices.** We’re up a little over 5% from last year, which is a solid, healthy rate of appreciation. Overall, we expect our market to continue to be strong—maybe even a little stronger than 2019.
 
 A lot of people have been asking us about a potential recession or market correction. Since we finished with such a strong fourth quarter, however, **most of the experts don’t think we’ll see any kind of recession this year.**
 
