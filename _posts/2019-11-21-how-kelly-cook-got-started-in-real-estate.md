@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Kelly Cook Got Started in Real Estate
-date: 2019-11-21 16:35:47
+date: 2019-11-21 16:35:00
 tags:
 excerpt:
 enclosure: >-
@@ -15,5 +15,3 @@ youtube_code: 9SBhPoJ4pVc
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
