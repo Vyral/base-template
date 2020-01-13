@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s a “Playbook” and Why Should Every Agent Have One?
-date: 2020-01-13 16:32:12
+date: 2020-01-13 16:32:00
 tags:
   - Lead Conversion
   - Lead Generation
