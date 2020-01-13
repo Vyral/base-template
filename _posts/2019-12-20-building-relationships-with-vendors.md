@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Relationships With Vendors
-date: 2019-12-20 22:09:43
+date: 2019-12-20 22:09:00
 tags:
 excerpt:
 enclosure: >-
@@ -15,5 +15,3 @@ youtube_code: 'https://youtu.be/L4LY_2RH8_0'
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
