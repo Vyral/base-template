@@ -27,13 +27,13 @@ client:
   phone2:
   phone2_type:
   email: Lee@LeeGarland.com
-  url: https://www.buy601.com
+  url: www.LeeWillBuyIt.com
 
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://quiz.localexpert.co/Lee_Garland_The_Moving_On_Team_Home_Valuation-3
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.buy601.com/
+  second_CTA_URL: www.LeeWillBuyIt.com
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
@@ -47,7 +47,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.buy601.com/
+    CTA_url2: www.LeeWillBuyIt.com
 
 lender:
   show_section: false
