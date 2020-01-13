@@ -20,7 +20,7 @@ youtube_code: 0cB9mcjvSfg
 
 {% include youtube.html %}
 
-*Investing in real estate is a great way to build wealth. Here are four tips to help get you started.*
+<p style="text-align: center;"><em>Investing in real estate is a great way to build wealth. Here are four tips to help get you started.</em></p>
 
 **These are the four things that you absolutely must look for if you’re in the market to buy an investment property:&nbsp;**
 
