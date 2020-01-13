@@ -18,7 +18,9 @@ youtube_alternate_image: /uploads/jennie-wolek-have-a-playbook-for-your-business
 youtube_code: a34ifuY-Ya4
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>You’ve probably heard the term “playbook” recently and you may not be sure what it means. Here’s what you need to know.</em></p>
 
 What in the world is a “playbook” in the real estate world and why is everyone talking about it all the time? I was recently at a Mastermind, and it was definitely the buzzword of the event, so I figured I’d quickly touch on the value and power of having a playbook for your business.
 
