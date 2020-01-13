@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Things to Look for in a Good Investment Property
-date:
+date: 2020-01-13 15:01:42
 tags:
   - Real Estate
   - Home Buyer Tips
