@@ -10,8 +10,8 @@ excerpt: >-
   three insider tips to keep in mind.
 enclosure:
 pullquote: >-
-  Make sure you contact your real estate professional to ensure you’re in good
-  hands going into 2020.
+  Contact your real estate professional to ensure you’re in good hands going
+  into 2020.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -33,4 +33,4 @@ Next, **the forecast remains good for interest rates**. 2019 ended with fantasti
 
 Lastly, **whether you’re a buyer or seller, it’s important to be prepared**. We know that interest rates are low, so buyer demand will be high, but we have no inventory. What does that mean? As we said above, there will be a lot of multiple-offer situations. If you’re a buyer, it’s important to have an agent on your side to help guide you through these situations. If you’re a seller, it’s important to know where you’ll go *after* you sell. As with buyers, it’s crucial to have an agent by your side to help with your preparation and guide you through the process.
 
-So make sure you contact your real estate professional to ensure you’re in good hands going into 2020. If you don’t have an agent, give us a call and we’d be happy to assist with all your real estate needs. We’d love to speak with you.
+Contact your real estate professional to ensure you’re in good hands going into 2020. If you don’t have an agent, give us a call and we’d be happy to assist with all your real estate needs. We’d love to speak with you.
