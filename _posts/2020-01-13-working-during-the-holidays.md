@@ -14,5 +14,3 @@ youtube_code: NRl00MkEkQc
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
