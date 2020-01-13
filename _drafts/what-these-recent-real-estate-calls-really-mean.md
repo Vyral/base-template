@@ -21,7 +21,9 @@ youtube_code: SBAH0_4eFNo
 
 {% include youtube.html %}
 
-Are you getting a lot of random calls from people representing real estate agents lately? Allow us to explain what’s happening.
+<center><em>Don’t get caught up in any of the real estate sales calls you might’ve received lately. Be smart about how you respond.</em></center>
+
+<br>Are you getting a lot of random calls from people representing real estate agents lately? Allow us to explain what’s happening.
 
 It’s January, and a lot of agents who are new, haven’t performed well, or don’t have a big marketing budget, are hiring assistants to call people in their database to try to get them to list their homes. Granted, this is the time of year people start thinking about listing their home. The holidays are over, taxes are finished, and you get a clearer picture of where you want your next step to be.
 
