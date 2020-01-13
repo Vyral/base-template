@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Building Relationships With Other Agents
-date: 2019-12-20 22:11:42
+date: 2019-12-20 22:11:00
 tags:
 excerpt:
 enclosure: >-
@@ -15,5 +15,3 @@ youtube_code: dDoHG0D9Or8
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
