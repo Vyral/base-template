@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/our-home-staging-and-selling-workshop-is-almost-here-youtube.jpg
-youtube_code: xq95z-KcoQc
+youtube_code: bqz4_Lvf-OA
 ---
 
 {% include youtube.html %}
