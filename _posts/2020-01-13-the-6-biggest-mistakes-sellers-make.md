@@ -18,7 +18,9 @@ youtube_alternate_image: >-
 youtube_code: ZE8rAhWXpyM
 ---
 
-{% include youtube.html %}&nbsp;&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Looking to sell a home? If so, you definitely want to avoid making these home selling mistakes.</em></p>
 
 Selling a home isn’t always easy, and it definitely won’t be easier if you make any of these six selling mistakes. Here’s what to look out for as a seller:&nbsp;
 
