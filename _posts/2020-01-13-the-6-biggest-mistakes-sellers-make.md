@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 6 Biggest Mistakes Sellers Make
-date: 2020-01-13 19:14:58
+date: 2020-01-13 19:14:00
 tags:
   - Home Seller Tips
 excerpt: >-
