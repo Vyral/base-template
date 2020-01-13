@@ -21,7 +21,7 @@ youtube_code: SBAH0_4eFNo
 
 {% include youtube.html %}
 
-<center><em>Don’t get caught up in any of the real estate sales calls you might’ve received lately. Be smart about how you respond.</em></center>
+<center><em>Don&rsquo;t get caught up in any of the real estate sales calls you might&rsquo;ve received lately. Be smart about how you respond.</em></center>
 
 <br>Are you getting a lot of random calls from people representing real estate agents lately? Allow us to explain what’s happening.
 
