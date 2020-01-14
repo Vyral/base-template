@@ -19,7 +19,9 @@ youtube_code: QPFcP1yQR0w
 
 {% include youtube.html %}
 
-As we begin the new year, let’s take a look back at the end of 2019 and where our market stands now.
+<center><em>As we head into the new year, let’s quickly recap our 2019 real estate market to see where we’re at in 2020.</em></center>
+
+<br>As we begin the new year, let’s take a look back at the end of 2019 and where our market stands now.
 
 **The first thing to know is that interest rates remained low**. They went up for a bit earlier in the year but dropped back down soon after. We’ve been hearing that they are going to go up and stay up for years now, but it just hasn’t happened yet.
 
