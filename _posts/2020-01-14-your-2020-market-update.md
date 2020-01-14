@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/yf1SMZsX3qc'
 
 {% include youtube.html %}
 
-I’m bringing your 2020 real estate market update, which should benefit both buyers and sellers.
+<p style="text-align: center;"><em>I’m bringing your 2020 real estate market update, which should benefit both buyers and sellers.</em></p>
 
 Happy New Year\! **We are starting out with what looks like a great year in the real estate market.** We currently have close to record low interest rates and a relatively low inventory of homes for sale.&nbsp;
 
