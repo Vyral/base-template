@@ -17,7 +17,7 @@ youtube_code: NRh_LiqXR8Q
 
 {% include youtube.html %}
 
-I’m sharing my three top tips for how to maintain your home for the winter.
+<p style="text-align: center;"><em>I’m sharing my three top tips for how to maintain your home for the winter.</em></p>
 
 Today we’re going to discuss how to prevent major expenses caused by winter weather. It’s meteorologically winter here, we’ve had our first snowfall. We know it’s going to get freezing\! So, we need to be aware and make sure all these things are handled:
 
