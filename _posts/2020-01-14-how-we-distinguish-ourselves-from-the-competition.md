@@ -19,7 +19,7 @@ youtube_code: CyakrKfTJHk
 
 {% include youtube.html %}
 
-Why choose the Mikki Ramey Team over other brokerages? Find out what sets us apart today.
+<p style="text-align: center;"><em>Why choose the Mikki Ramey Team over other brokerages? Find out what sets us apart today.</em></p>
 
 Why choose to work with the Mikki Ramey Team? What sets us apart from the competition? Well, one client, Samantha Meinders, had this to say about her experience working with us:
 
