@@ -21,7 +21,7 @@ youtube_code: BcAeeVQ3UDM
 
 {% include youtube.html %}
 
-Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.
+<p style="text-align: center;"><em>Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.</em></p>
 
 Today’s guest Max Wilker is the style director at Better Homes & Gardens, so he definitely has his finger on the pulse of the hottest trends in home decorating. He’s here today to share some insight about what’s in and what’s out in terms of home decor.
 
