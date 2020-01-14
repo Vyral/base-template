@@ -19,7 +19,7 @@ youtube_code: QPFcP1yQR0w
 
 {% include youtube.html %}
 
-<center><em>As we head into the new year, let’s quickly recap our 2019 real estate market to see where we’re at in 2020.</em></center>
+<center><em>As we head into the new year, let&rsquo;s quickly recap our 2019 real estate market to see where we&rsquo;re at in 2020.</em></center>
 
 <br>As we begin the new year, let’s take a look back at the end of 2019 and where our market stands now.
 
