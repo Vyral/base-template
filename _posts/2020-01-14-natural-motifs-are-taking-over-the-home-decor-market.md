@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Natural Motifs Are Taking Over the Home Decor Market
-date: 2020-01-14 15:45:40
+date: 2020-01-14 15:45:00
 tags:
   - Real Estate
 excerpt: >-
