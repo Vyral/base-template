@@ -8,13 +8,13 @@ excerpt: >-
   Working with a solo agent and working with a team come with two different sets
   of expectations. Here’s what you need to know.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Portland+Real+Estate+Agent-+Team+Vs.+Solo+Agent.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Portland+Real+Estate+Agent-+Should+You+Work+With+a+Team+or+a+Solo+Agent_.mp4
 pullquote: 'When you work with us, you get the entire team on your side.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: kU0ZYywfD78
+youtube_code: HBqlp5uEuPE
 ---
 
 {% include youtube.html %}
