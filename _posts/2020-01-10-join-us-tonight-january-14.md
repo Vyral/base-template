@@ -8,7 +8,8 @@ excerpt: >-
   We’d love to see you tonight for a free seminar that will teach you everything
   you need to know about staging and selling a home. Here’s how to reserve your
   spot.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/Join+Us+Tonight%2C+January+14th!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
