@@ -25,7 +25,7 @@ youtube_code: U5H2rIsxiV4
 
 <br>Are you getting a lot of random calls from people representing real estate agents lately? Allow us to explain what’s happening.
 
-It’s January, and a lot of agents who are new, haven’t performed well, or don’t have a big marketing budget, are hiring assistants to call people in their database to try to get them to list their homes. Granted, this is the time of year people start thinking about listing their home. The holidays are over, taxes are finished, and you get a clearer picture of where you want your next step to be.
+It’s January, and a lot of agents who are new, haven’t performed well, or don’t have a big marketing budget, are hiring assistants to call people in their database to try to get them to list their homes. Granted, this is the time of year people start thinking about listing their home. The holidays are over, taxes are finished, and you get a clearer picture of what you want your next step to be.
 
 However, **don’t get caught up in these sales calls**. Again, the person calling you is an assistant who has no real estate experience, so if you want to entertain the notion of selling, at least ask the important questions, such as:
 
