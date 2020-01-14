@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Agent’s Experience With Transitioning to Our Team
-date: 2020-01-14 16:42:49
+date: 2020-01-14 16:42:00
 tags:
   - Real Estate
 excerpt: >-
