@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Don’t get caught up in any of the real estate sales calls you might’ve
   received lately. Be smart about how you respond.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/What+These+Recent+Real+Estate+Calls+Really+Mean.mp4
 pullquote: >-
   If we can do anything to protect you and help achieve your real estate
   goals—not the agent’s—it’s better for you.
