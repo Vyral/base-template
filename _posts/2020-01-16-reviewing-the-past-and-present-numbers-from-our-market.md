@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here are the year-end numbers from 2019 and the current statistics from our
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+2019+Market+Recap.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: VzFxwtIV5AQ
 
 {% include youtube.html %}
 
-Here are the year-end numbers from 2019 and the current statistics from our market.
+<p style="text-align: center;"><em>Here are the year-end numbers from 2019 and the current statistics from our market.</em></p>
 
 Now that we’re well into the new year, it’s a good time to recap the numbers from our 2019 market as well as the current statistics. 2019 was a busy year, and a lot changed across the board. I’ll break down what happened in each area of our marketplace and offer insight into what it means for buyers and sellers.
 
