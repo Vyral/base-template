@@ -19,7 +19,9 @@ youtube_code: xb-PHodeZy4
 
 {% include youtube.html %}
 
-Of course, we don’t have a crystal ball; the following is just our opinion based on what we’ve seen in the history of the housing market and what we’re experiencing in the real estate trenches on a day-to-day basis.
+<center><em>Here are our thoughts on what 2020 has in store for real estate, including how the election will affect the market and what the Fed might do.</em></center>
+
+<br>Of course, we don’t have a crystal ball; the following is just our opinion based on what we’ve seen in the history of the housing market and what we’re experiencing in the real estate trenches on a day-to-day basis.
 
 2019 was an up-and-down market year—definitely not as feverish of a market as 2017 and 2018. We saw a slow down of activity as days on market (i.e., the time it takes for a home to actually go under contract) crept up slightly. In general, there were some signs of buyer fatigue. It seems buyers just weren’t as quick to pull the trigger on homes.
 
