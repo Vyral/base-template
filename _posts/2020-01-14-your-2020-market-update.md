@@ -29,7 +29,7 @@ The spring market generally begins January 2, though many sellers don’t believ
 
 {% include pullquote.html %}
 
-From the buyer’s perspective, this year rates are lower than last January. If you were buying a $300,000 house last year, you could buy a $360,000 house this year with the same payment\!
+From the buyer’s perspective, this year's rates are lower than last January. If you were buying a $300,000 house last year, you could buy a $360,000 house this year with the same payment\!
 
 **If you’re thinking about making a move, it’s an exceptional year to do so.** Interest rates are excellent.&nbsp;
 
