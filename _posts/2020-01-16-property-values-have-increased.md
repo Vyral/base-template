@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/GwdZF_3mDX4'
 
 {% include youtube.html %}
 
-I’m sharing excellent news: Our property values have gone up significantly in the last five years\!
+<p style="text-align: center;"><em>I’m sharing excellent news: Our property values have gone up significantly in the last five years!</em></p>
 
 I have some excellent news for you: Property values have gone up more than 30% in the last five years in the Phoenix Metropolitan area\! Back in 2015, the median price for a home was $233,000. Every year that number increased, and now the median price in 2019 hit $306,500, the highest I’ve ever seen. In just five years, that’s a 31.5% increase.
 
