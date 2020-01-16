@@ -21,7 +21,7 @@ youtube_code: 7J8eLFcXIZ8
 
 {% include youtube.html %}
 
-I’m sharing why your average commission may have risen by $2,000 in the last five years.
+<p style="text-align: center;"><em>I’m sharing why your average commission may have risen by $2,000 in the last five years.</em></p>
 
 I have exceptional news for you: Did you know that over the last five years your average commission per transaction increased by $2,000? Back in 2015, the average commission was roughly $7,000. Today, it’s up to $9,000 per transaction. Those numbers are coming from the median price in Maricopa County.&nbsp;
 
