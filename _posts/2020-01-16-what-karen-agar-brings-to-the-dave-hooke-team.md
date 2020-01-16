@@ -21,7 +21,7 @@ youtube_code: obT04Gl5aEo
 
 {% include youtube.html %}
 
-Karen Agar is one of our main client care specialists, and she makes our team run like clockwork.
+<p style="text-align: center;"><em>Karen Agar is one of our main client care specialists, and she makes our team run like clockwork.</em></p>
 
 For my latest team member spotlight, I’m interviewing coordinator Karen Agar. Karen runs the back office of our team, and though she’s only been with us a short while, she’s been an awesome addition.
 
