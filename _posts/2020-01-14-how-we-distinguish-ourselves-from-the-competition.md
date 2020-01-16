@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We Distinguish Ourselves from the Competition
+title: How We Distinguish Ourselves From the Competition
 date: 2020-01-14 17:53:33
 tags:
   - Real Estate
@@ -21,7 +21,7 @@ youtube_code: CyakrKfTJHk
 
 <p style="text-align: center;"><em>Why choose the Mikki Ramey Team over other brokerages? Find out what sets us apart today.</em></p>
 
-Why choose to work with the Mikki Ramey Team? What sets us apart from the competition? Well, one client, Samantha Meinders, had this to say about her experience working with us:
+Why choose to work with the Mikki Ramey Team? What sets us apart from the competition? Well, one client, **Samantha Meinders, had this to say about her experience working with us:**
 
 *“Mikki’s team was great\! She was very patient; I think we looked at over 20 houses—probably more than that—and she never made me feel rushed. She helped us to find the perfect spot.”*
 
