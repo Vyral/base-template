@@ -1,0 +1,22 @@
+<div class="testimonial-area">
+		{% if site.data.about.show_about_section == true %}
+			<div class="testimonial-container">
+				<div class="testimonial-navigation">
+		  		<a class="testimonial-btn prev"><i class="fa fa-arrow-left"></i></a>
+						<h3>Hear what people are saying about us:</h3>
+		  		<a class="testimonial-btn next"><i class="fa fa-arrow-right"></i></a>
+				</div>
+				<div id="owl-carousel" class="owl-carousel">
+					{% for item in site.data.about.video %}
+						<div class="item-container">
+							<div class="item">
+								{% if item.youtube_code != null %}
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/{{item.youtube_code | remove: 'https://youtu.be/' | remove: 'https://www.youtube.com/watch?v='}}?rel=0" frameborder="0" allowfullscreen></iframe>
+								{% endif %}
+							</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		{% endif %}
+</div>

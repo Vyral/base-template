@@ -1478,12 +1478,15 @@ html[xmlns] .flexslider .slides {
 .navbar-right > li > a {
   background: transparent;
   color: #b01f25;
-  margin-top: 2rem;
+  margin-top: 1rem;
   font-size: 2rem;
   font-weight: bold; }
   .navbar-right > li > a:hover {
     background: #eeeeee;
     color: #b01f25; }
+
+.navbar-left {
+  margin-top: 1rem; }
 
 .cta a {
   background: transparent;

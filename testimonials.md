@@ -5,6 +5,8 @@ permalink: /testimonials/
 ---
 <p class="testimonial-submit-text">To share your aha’s or testimonial from following Jennie or attending one of her classes, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwT_ABo6jxcSiVy5KTTsfUtPmS_KGNOHxurV6VSVh9hztfVA/viewform?c=0&w=1" target="_blank" class="testimonial-submit">click here.</a></p>
 
+{% include about-videos.html %}
+
 <div class="client-testimonial">
 
 <p class="testimonial-text">
@@ -94,5 +96,3 @@ The class at Mega was the MOST valuable of the breakouts attended. The takeways 
 - Amy Bower
 </p>
 <hr>
-
-
