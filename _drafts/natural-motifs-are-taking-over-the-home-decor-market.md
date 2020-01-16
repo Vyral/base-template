@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today Max Wilker from Better Homes & Gardens is here to talk about the trends
   and decorating motifs that are sweeping the housing industry.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Natural+Motifs+Are+Taking+Over+the+Home+Decor+Market.mp4
 pullquote: >-
   A decorative motif that brings the outdoors inward can definitely give your
   home a warm, inviting, and comfortable feel.
