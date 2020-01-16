@@ -19,7 +19,7 @@ youtube_code: NRh_LiqXR8Q
 
 <p style="text-align: center;"><em>I’m sharing my three top tips for how to maintain your home for the winter.</em></p>
 
-Today we’re going to discuss how to prevent major expenses caused by winter weather. It’s meteorologically winter here, we’ve had our first snowfall. We know it’s going to get freezing\! So, we need to be aware and make sure all these things are handled:
+It’s officially winter here—we just had our first snowfall, and we know it’s going to get freezing! To prevent major damages caused by winter weather, be sure to tackle these home maintenance tasks before it's too late:
 
 **1\. Remove all hose bibs.** Put away hoses and place covers over the bibs if they’re older. (The newer kind don’t require a cover.)
 
