@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Benefits of Owning vs. Renting
-date: 2020-01-16 20:02:29
+date: 2020-01-16 20:02:00
 tags:
   - Home Buyer Tips
 excerpt: >-
