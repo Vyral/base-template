@@ -11,8 +11,8 @@ pullquote: >-
   landlords can raise their rent each year.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/explaining-the-tenant-protection-act-of-2019-youtube.jpg
 youtube_code:
 ---
 
