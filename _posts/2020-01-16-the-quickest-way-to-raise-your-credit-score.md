@@ -19,8 +19,8 @@ youtube_code: 9N98Ustd61Y
 
 &nbsp;
 
-Here’s the quickest way to raise your credit score. Many people ask what they can do to raise their credit score, and one of the fastest ways to boost it is to pay down credit cards. You should not pay your credit cards all the way down to a zero balance, but you need to pay it down to at least 33% or lower of your debt limit. **The lower your balances on your credit card are, the more your credit score will improve.** Your credit score is negatively affected if you’ve used 50% or more of your credit balance.&nbsp;
+Here’s the quickest way to raise your credit score. Many people ask what they can do to raise their credit score, and one of the fastest ways to boost it is to pay down credit cards. You should not pay your credit cards all the way down to a zero balance, but you need to pay it down to at least 33% below your debt limit. **The lower your balances on your credit card are, the more your credit score will improve.** Your credit score is negatively affected if you’ve used 50% or more of your credit balance.&nbsp;
 
-When you’ve paid your credit balance down, ask your lender to do a rescore to correct your credit balance. This will help enormously. Remember: a good credit score can help you make large purchases, such as a new home.
+When you’ve paid your credit balance down, ask your lender to do a rescore to correct your credit balance. This will help enormously. Remember: A good credit score can help you make large purchases, such as a new home.
 
 If you have any questions, I can be reached by phone or email. Let me know if I can help in any way.&nbsp;
