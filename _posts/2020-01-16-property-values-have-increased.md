@@ -29,4 +29,4 @@ I have some excellent news for you: Property values have gone up more than 30% i
 
 The median price of houses is found by taking the price of every home on the market and averaging them together to see what lies right in the middle, the bulk of our market. What does this mean for you? If you own real estate, the value of your property has likely gone up by 31.5%. If you don’t own real estate, you’ve missed out on this amazing appreciation.&nbsp;
 
-**It’s not too late.** If you’d like to sit down and talk about homeownership, or you’d like to refinance your home, you can reach out to me by phone or email. I would love to help you.&nbsp;
+**It’s not too late.** If you’d like to sit down and talk about homeownership or you’d like to refinance your home, you can reach out to me by phone or email. I would love to help you.&nbsp;
