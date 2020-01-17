@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/epWunRuRIac'
 
 <p style="text-align: center;"><em>Owning a home is a much better financial decision than renting one. Here are three reasons why.</em></p>
 
-If you’re debating as to whether you should buy or rent a home, you should know that owning a property has some great financial benefits. **Here are the three reasons that you should buy instead of rent:**
+If you’re debating whether you should buy or rent a home, you should know that owning a property has some great financial benefits. **Here are the three reasons that you should buy instead of rent:**
 
 **1\. Homeownership is a good investment.** Homes generally appreciate every year, so your down payment could very easily double. If you buy a home for $300,000 with $10,000 down, a 5% appreciation will practically double your investment in the first year.
 
