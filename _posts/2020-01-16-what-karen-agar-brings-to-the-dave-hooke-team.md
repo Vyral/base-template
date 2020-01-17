@@ -31,7 +31,7 @@ According to her, Karen frequently brags about being on our team because there i
 
 “It’s all about making sure that we understand what we’re doing and feel comfortable with what we’re doing; that support is just invaluable,” she says.&nbsp;
 
-As I’ve said many times, our core passion is to enrich lives, and the main challenge Karen faces in her position is getting facetime with our clients. The majority of her job is conducted over the phone, so anytime a client walks through our doors, she jumps at the chance to meet them. One of her job descriptions is “client satisfaction,” so she hopes to meet with more clients face-to-face moving forward.
+As I’ve said many times, our core passion is to enrich lives, and the main challenge Karen faces in her position is getting facetime with our clients. The majority of her job is conducted over the phone, so **anytime a client walks through our doors, she jumps at the chance to meet them.** One of her job descriptions is “client satisfaction,” so she hopes to meet with more clients face-to-face moving forward.
 
 Karen makes our team run like clockwork, and we’re grateful for everything she does.&nbsp;
 
