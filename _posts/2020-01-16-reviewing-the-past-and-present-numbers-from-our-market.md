@@ -25,6 +25,6 @@ Now that we’re well into the new year, it’s a good time to recap the numbers
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
 
-0:27—Total home sales in our marketplace and the average inventory for 2019<br>1:17—The number of vacant lots sold and how many are currently available<br>1:44—The lake region in its entirety<br>2:36—Flathead Lake&nbsp;<br>4:15—Swan Lake&nbsp;<br>5:03—Echo Lake/Lake Blaine/Lake of the Woods&nbsp;<br>7:16—The Lakes West of Kalispell&nbsp;<br>9:04—Wrapping things up&nbsp;
+0:27—Total home sales in our marketplace and the average inventory for 2019<br>1:17—The number of vacant lots sold and how many are currently available<br>1:44—The lake region in its entirety<br>2:36—Flathead Lake&nbsp;<br>4:15—Swan Lake&nbsp;<br>5:03—Echo Lake/Lake Blaine/Lake of the Woods&nbsp;<br>7:16—The lakes west of Kalispell&nbsp;<br>9:04—Wrapping things up&nbsp;
 
 If you have questions about these statistics, would like to receive a copy of our newsletter, or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help.
