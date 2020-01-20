@@ -5,7 +5,8 @@ date: 2020-01-10 00:00:00
 tags:
   - Real Estate
 excerpt: 'Today on “Everyday Encinitas,” I’m visiting American Legion Post 416.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+11+_+American+Legion+Post+416.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
