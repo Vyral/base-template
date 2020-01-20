@@ -21,7 +21,7 @@ youtube_code: uIsfnrNOQF4
 
 {% include youtube.html %}
 
-Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.
+<p style="text-align: center;"><em>Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.</em></p>
 
 Today’s question comes from Linda, who wants to know, “Dave, can you help with out-of-area properties?” Wendy asked us a similar question recently, too.
 
