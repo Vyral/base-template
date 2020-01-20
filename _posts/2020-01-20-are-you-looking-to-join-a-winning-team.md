@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are you looking to join a winning team?
-date: 2020-01-20 14:30:56
+date: 2020-01-20 14:30:00
 tags:
   - Real Estate
 excerpt: >-
