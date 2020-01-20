@@ -8,13 +8,13 @@ excerpt: >-
   Here are the year-end numbers from 2019 and the current statistics from our
   market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+2019+Market+Recap.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+market+recap+with+graphics.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VzFxwtIV5AQ
+youtube_code: ptGiF6qbKFM
 ---
 
 {% include youtube.html %}
