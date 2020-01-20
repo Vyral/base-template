@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Tenant Protection Act of 2019: What You Need to Know'
-date:
+date: 2020-01-20 21:30:00
 tags:
   - Real Estate
 excerpt: Here’s how the Tenant Protection Act of 2019 applies to property owners.
