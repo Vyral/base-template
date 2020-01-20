@@ -21,7 +21,7 @@ youtube_code: rDwRT7Oc58g
 
 We’re continuing our Agent Spotlight series today with Tim Sabin, who has been with us for over two years. He's our director of leads and client engagement and one of our inside sales agents.
 
-Tim and his family love to go hiking, camping, and cooking. One thing you might not know about him is that he has an extensive hot sauce collection of over 50 bottles\! He brought in a spicy chip to the office that rendered me speechless for an hour—I still need to get him back for that.
+Tim and his family love to go hiking, camping, and cooking. One thing you might not know about him is that he has an extensive hot sauce collection of over 50 bottles\! He brought in a spicy chip to the office that rendered John speechless for an hour—he still needs to get him back for that.
 
 When he’s not burning his mouth (and other mouths) with his unique collection, Tim works as an ISA on our team. **He likes to think of it as being an air traffic controller for real estate.** ISAs are taking calls and making calls to find buyers for our sellers and sellers for our buyers. It really helps speed up the overall process.
 
