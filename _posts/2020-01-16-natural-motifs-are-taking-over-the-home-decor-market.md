@@ -16,12 +16,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-are-the-latest-home-color-trends-youtube-1.jpg
-youtube_code: BcAeeVQ3UDM
+youtube_code: wn9bcgsz-e8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.</em></p>
+*Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.*
 
 Today’s guest Max Wilker is the Style Director at Better Homes & Gardens, so he definitely has his finger on the pulse of the hottest trends in home decorating. He’s here today to share some insight about what’s in and what’s out in terms of home decor.
 
