@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tweak Your Withholding Taxes – Filing a New W-4 Form with Your Employer
-date:
+date: 2020-01-21 00:00:00
 tags:
   - Real Estate
 excerpt:
