@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative Solutions for Pulling Equity Out of Your Home
-date:
+date: 2020-01-20 16:09:21
 tags:
 excerpt: >-
   You don’t have to be constricted by the big banks when you want to pull equity
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/tejeda-youtube-3.jpg
 youtube_code: q4A2r89uhWI
 ---
 
-{% include youtube.html %}<center>You don’t have to be constricted by the big banks when you want to pull equity out of your home. Here are some other options you can utilize.</center>
+{% include youtube.html %}
+
+<center>You don&rsquo;t have to be constricted by the big banks when you want to pull equity out of your home. Here are some other options you can utilize.</center>
+
+&nbsp;
 
 Today we’re talking about a few different ways that you can tap into the equity in your home. I hear from clients all the time who aren’t getting much help from Wells Fargo, Citi Bank, and other large financial institutions. **These companies tend to be much more strict when it comes to how and when you can cash out on your home’s equity.** Their guidelines are pretty vanilla.&nbsp;
 
