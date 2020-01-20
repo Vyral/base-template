@@ -19,7 +19,9 @@ youtube_code: 54er1c21B6c
 
 {% include youtube.html %}
 
-Are you surprised by the tax assessment you just received in the mail? Maybe you’re sitting on the sidelines waiting for real estate prices to be just right so that you can get into the market. Making sense of it all can be pretty confusing; the markets across the country have varied significantly, and media outlets are blasting all kinds of information. Today I’m helping you get a grasp on things as we head further into 2020.
+<center><em>From annual price growth to interest rates, I’m covering it all; here’s what the market did in 2019 and where I think we’re headed.</em></center>
+
+<br>Are you surprised by the tax assessment you just received in the mail? Maybe you’re sitting on the sidelines waiting for real estate prices to be just right so that you can get into the market. Making sense of it all can be pretty confusing; the markets across the country have varied significantly, and media outlets are blasting all kinds of information. Today I’m helping you get a grasp on things as we head further into 2020.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
