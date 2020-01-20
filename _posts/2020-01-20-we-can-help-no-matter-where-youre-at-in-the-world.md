@@ -21,11 +21,11 @@ youtube_code: uIsfnrNOQF4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.</em></p>
+*Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.*
 
 Today’s question comes from Linda, who wants to know, “Dave, can you help with out-of-area properties?” Wendy asked us a similar question recently, too.
 
-The answer is yes, we can help. Keller Williams Realty International allows us to have access all over the world. **No matter if you’re looking to buy or sell a home in Boise, Idaho or Frankfurt, Germany, we can pinpoint the area you’re looking in and find the top agents in those markets.** Whether it’s a residential or commercial property, we can use this strategy to help you out.
+The answer is yes, we can help. Keller Williams Realty International allows us to have access all over the world. **No matter if you’re looking to buy or sell a home in Boise, Idaho, or Frankfurt, Germany, we can pinpoint the area you’re looking in and find the top agents in those markets.** Whether it’s a residential or commercial property, we can use this strategy to help you out.
 
 {% include pullquote.html %}
 
