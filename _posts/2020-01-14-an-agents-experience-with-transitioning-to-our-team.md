@@ -35,7 +35,7 @@ With a smile on his face, Nate responded, “I don’t know—maybe both.”
 
 With that, I recommended that he and I set up another time to get back together. We did, and the rest is history.
 
-We’ve grown so much since then; **even though we’ve each had our ups and downs, his experience with our team and with Keller Williams has been fabulous overall.** It’s fun to be on the front end of change within the real estate industry at large.
+We’ve grown so much since then, **and**&nbsp;**his experience with our team and with Keller Williams has been fabulous overall.** It’s fun to be on the front end of change within the real estate industry at large.
 
 By the time Nate and I met for that fateful coffee meeting, he was already a go-getter who found success as a single agent. What was he missing that helped him see the value of joining a team?
 
