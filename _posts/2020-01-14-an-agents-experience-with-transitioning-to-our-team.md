@@ -21,9 +21,9 @@ youtube_code: d1vA31_Rmp4
 
 {% include youtube.html %}
 
-*Today I sat down for a chat with Nate Araskog, an agent here at the Wolek Group. He’s here to share his experiences as an agent on our team.*
+*Today I sat down for a chat with Nate Araskog, an agent here at The Wolek Group. He’s here to share his experiences as an agent on our team.*
 
-Before coming to the Wolek Group, Nate Araskog had obtained his real estate license and worked with Daniel Sprik, a Realtor and good friend of his who had encouraged him to get into the industry in the first place.&nbsp;
+Before coming to The Wolek Group, Nate Araskog had obtained his real estate license and worked with Daniel Sprik, a Realtor and good friend of his who had encouraged him to get into the industry in the first place.&nbsp;
 
 I helped him to sell a couple of his properties before, so one day Nate and I met for coffee. It was supposed to have been a short introduction, but it ended up becoming a two-and-half-hour meeting. During that conversation, Nate saw my experience and the opportunities that lay in the foundation of my team’s structure and he decided he wanted to be a part of it.
 
@@ -41,4 +41,4 @@ By the time Nate and I met for that fateful coffee meeting, he was already a go-
 
 For him, **the biggest factor was the opportunity to learn from someone who had experience.** He knew that our team would provide the ability to help people as a part of an organization, not just a single agent. He knew from the first time we met that the partnership we could create by being in business together was going to be hugely successful for all of us.
 
-If you have any questions about starting career in real estate or would like to contact us about joining the Wolek Group yourself, don’t hesitate to reach out to us. We’d love to hear from you and discuss why making the switch to Keller Williams and the Wolek Group would be a great decision for the trajectory of your career.
+If you have any questions about starting career in real estate or would like to contact us about joining The Wolek Group yourself, don’t hesitate to reach out to us. We’d love to hear from you and discuss why making the switch to Keller Williams and The Wolek Group would be a great decision for the trajectory of your career.
