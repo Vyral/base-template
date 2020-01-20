@@ -21,6 +21,8 @@ custom_links:
     url: 'https://www.facebook.com/groups/yourjourneywithJennie/'
   - title: testimonials
     url: /testimonials/
+  - title: Buy Now!
+    url: /buy-now/
 emma:
   lightbox:
   form:
