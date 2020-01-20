@@ -5,7 +5,8 @@ date:
 tags:
   - Real Estate
 excerpt: Here’s how the Tenant Protection Act of 2019 applies to property owners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Tim+Majka/The+Tenant+Protection+Act+of+2019-+What+You+Need+to+Know.mp4
 pullquote: >-
   The Tenant Protection Act of 2019 limits the amount of money by which
   landlords can raise their rent each year.
@@ -13,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/explaining-the-tenant-protection-act-of-2019-youtube.jpg
-youtube_code:
+youtube_code: protg7GV7P0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the Tenant Protection Act of 2019 applies to property owners.</em></p>
+*Here’s how the Tenant Protection Act of 2019 applies to property owners.*
 
 How does the Tenant Protection Act of 2019 apply to property owners?
 
