@@ -19,7 +19,7 @@ youtube_code: protg7GV7P0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the Tenant Protection Act of 2019 applies to property owners.</em></p>
+*Here’s how the Tenant Protection Act of 2019 applies to property owners.*
 
 How does the Tenant Protection Act of 2019 apply to property owners?
 
@@ -35,6 +35,6 @@ As I’ve said, even if a property is exempted by law, **the burden is on the ow
 
 As far as terminating a lease goes, there are two types of just cause as defined under the law: an ‘at-fault just cause’ and a ‘no-fault just cause.’ An at-fault just cause is when a tenant fails to pay rent, has engaged in criminal activity, or breached a material term in the lease agreement. An example of a no-fault just cause is when the owner wants to move themselves or a family member into the home, remove it from the rental market altogether, or demolish it or perform substantial remodels.&nbsp;
 
-Some of the terms of this act are subject to judicial interpretation. For instance, it will be interesting to see how courts determine what’s considered “withdrawing a property from a rental market.”
+**Some of the terms of this act are subject to judicial interpretation.** For instance, it will be interesting to see how courts determine what’s considered “withdrawing a property from a rental market.”
 
 If you’d like to know more about this law or receive a copy of the exemption notice, feel free to call or email my office. I’d love to help you.
