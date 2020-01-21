@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/FaDYN3aZPsc'
 
 {% include youtube.html %}
 
-As a new year begins, a familiar market is taking shape. Here’s what you need to know about our hot real estate market.
+<p style="text-align: center;"><em>As a new year begins, a familiar market is taking shape. Here’s what you need to know about our hot real estate market.</em></p>
 
 I’m back today with the latest news and numbers for the Porter Ranch real estate market. In December 2019, we started to see a surge in the market as we saw prices continue to rise. **The numbers don’t lie.&nbsp;**
 
