@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Agent’s Experience With Transitioning to Our Team
-date: 2020-01-21 16:42:50
+date: 2020-01-21 16:42:00
 tags:
   - Lead Conversion
   - Lead Generation
