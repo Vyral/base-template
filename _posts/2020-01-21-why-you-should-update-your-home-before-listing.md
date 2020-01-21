@@ -18,7 +18,9 @@ youtube_alternate_image: >-
 youtube_code: aYqSSvKImZs
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Should you invest the time and money necessary to make your home move-in ready before you sell? Here’s what I think.</em></p>
 
 If you have a home to sell and it needs updates, is it better to do the updates before you hit the market or should you offer some kind of allowance or discount to buyers instead?
 
