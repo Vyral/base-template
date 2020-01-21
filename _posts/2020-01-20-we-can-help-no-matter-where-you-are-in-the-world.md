@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Can Help no Matter Where You’re at in the World
+title: We Can Help No Matter Where You are in the World
 tags:
   - Market Update
   - Real Estate
@@ -21,8 +21,7 @@ youtube_code: uIsfnrNOQF4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.</em></p>
-
+*Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.*
 
 Today’s question comes from Linda, who wants to know, “Dave, can you help with out-of-area properties?” Wendy asked us a similar question recently, too.
 
