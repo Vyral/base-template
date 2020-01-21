@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Preparing for the Spring Market
-date: 2020-01-21 17:04:19
+date: 2020-01-21 17:04:00
 tags:
   - Home Seller Tips
 excerpt: >-
