@@ -20,7 +20,9 @@ youtube_alternate_image: /uploads/jennie-wolek--why-nate-araskog-joined-the-wole
 youtube_code: d1vA31_Rmp4
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Today I sat down for a chat with Nate Araskog, an agent here at The Wolek Group. He’s here to share his experiences as an agent on our team.</em></p>
 
 Before coming to The Wolek Group, Nate Araskog had obtained his real estate license and worked with Daniel Sprik, a Realtor and good friend of his who had encouraged him to get into the industry in the first place.&nbsp;
 
