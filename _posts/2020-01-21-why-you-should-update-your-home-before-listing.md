@@ -3,7 +3,7 @@ layout: post
 title: Why You Should Update Your Home Before Listing
 tags:
   - Home Seller Tips
-date: 2020-01-21 15:04:21
+date: 2020-01-21 15:04:00
 excerpt: >-
   Should you invest the time and money necessary to make your home move-in ready
   before you sell? Here’s what I think.
