@@ -19,7 +19,9 @@ youtube_alternate_image: /uploads/preparing-for-the-spring-market-youtube.jpg
 youtube_code: uz7rQ1RSj-k
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>If you’re thinking of preparing to list your home in the spring of 2020, here’s what you need to do.</em></p>
 
 If you plan on selling your home in the spring of 2020, now is the time to start thinking about what you must do to prepare it for the market. Winter in Minnesota is actually a great time to get any indoor projects done because we spend much of our time indoors anyway.&nbsp;
 
