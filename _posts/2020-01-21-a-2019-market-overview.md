@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2019 Market Overview
-date: 2020-01-21 22:23:09
+date: 2020-01-21 22:23:00
 tags:
   - Market Update
 excerpt: >-
