@@ -15,13 +15,13 @@ pullquote: We can quickly screen agents for you that check all the boxes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/we-can-help-youtube.jpg
+youtube_alternate_image: /uploads/unnamed-1.jpg
 youtube_code: uIsfnrNOQF4
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.</em></p>
+*Even if you’re not looking for a home in our market, we can connect you with someone who can help out. Here’s how.*
 
 Today’s question comes from Linda, who wants to know, “Dave, can you help with out-of-area properties?” Wendy asked us a similar question recently, too.
 
