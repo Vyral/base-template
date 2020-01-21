@@ -31,7 +31,7 @@ What options do you have if you don’t want to go through them, but you do want
 
 With an FHA loan, you can qualify for a refinance with just a 550 FICO score and get a killer rate while you’re at it. This goes against traditional thinking, but with rates being extremely low right now, this is an option that makes sense for a lot of people.
 
-**With a cash-out refinance, you can not only bring your interest rate down, but you can bring your monthly payment down too all while getting cash out to pay off some other debts.&nbsp;**
+**With a cash-out refinance, you can not only bring your interest rate down, but you can bring your monthly payment down, too, all while getting cash out to pay off some other debts.&nbsp;**
 
 Conventional loans, on the other hand, are credit-driven. Unless you have a FICO score of 680 or above, I wouldn’t recommend it. However, if you do have a good score and a low&nbsp; loan-to-value, this is a good option as well.
 
