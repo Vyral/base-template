@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Cases in Which the Seller is Exempt From Providing the Seller's Disclosure
-date: 2020-01-21 21:01:27
+date: 2020-01-21 21:01:00
 tags:
 excerpt: >-
   When is a home seller exempt from providing a seller’s disclosure to a buyer?
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/gray-youtube-2-1.jpg
 youtube_code: EMJBlDhyyQU
 ---
 
-{% include youtube.html %}<center>When is a home seller exempt from providing a seller’s disclosure to a buyer? Tune in to find out\!</center>
+{% include youtube.html %}
+
+<center>When is a home seller exempt from providing a seller&rsquo;s disclosure to a buyer? Tune in to find out!</center>
+
+&nbsp;
 
 When is a seller exempt from providing a seller’s disclosure?Those who brought this question to us also provided specific circumstances in which a seller failed to give them a disclosure.&nbsp;
 
