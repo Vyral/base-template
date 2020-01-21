@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   As we head into the new year, let’s quickly recap our 2019 real estate market
   to see where we are in 2020.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/A+Recap+of+Our+2019+Real+Estate+Market.mp4
 pullquote: 'Our median price rose by $28,000 in 2019.'
 enclosure_type: video/mp4
 enclosure_time:
