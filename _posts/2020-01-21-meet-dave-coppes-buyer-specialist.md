@@ -19,7 +19,7 @@ youtube_code: ikDATCFPBvw
 
 {% include youtube.html %}
 
-Meet the newest member of the Stary Group: Dave Coppes.
+<p style="text-align: center;"><em>Meet the newest member of the Stary Group: Dave Coppes.</em></p>
 
 Today I’m proud to introduce you to one of our new buyer specialists: Dave Coppes. He’s done an amazing job with his clients in the 10 or so months that he’s been with the Stary Group, but if you haven’t worked with him yet, this is your chance to get to know him a little and to learn what value he brings to his clients.
 
