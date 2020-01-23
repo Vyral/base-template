@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/steen-youtube.jpg
 youtube_code: '-AA579tYy-I'
 ---
 
-{% include youtube.html %}As you’ll see in today’s message, the 2020 market is primed for buyers and sellers to take advantage of.&nbsp;
+{% include youtube.html %}<center>As you’ll see in today’s message, the 2020 market is primed for buyers and sellers to take advantage of.&nbsp;</center>
 
 With 2019 behind us, what’s in store for our 2020 real estate market?
 
