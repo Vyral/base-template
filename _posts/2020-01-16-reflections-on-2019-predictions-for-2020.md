@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are our thoughts on what 2020 has in store for real estate, including how
   the election will affect the market and what the Fed might do.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Reflections+on+2019%2C+Predictions+for+2020.mp4
 pullquote: 'In general, there were some signs of buyer fatigue.'
 enclosure_type: video/mp4
 enclosure_time:
