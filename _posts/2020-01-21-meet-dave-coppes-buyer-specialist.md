@@ -4,7 +4,7 @@ title: 'Meet Dave Coppes, Buyer Specialist'
 date: 2020-01-21 17:20:46
 tags:
   - Real Estate
-excerpt: 'Meet the newest member of the Stary Group: Dave Coppes.'
+excerpt: 'Meet the newest member of the Stary Group, Dave Coppes.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2020/The+Stary+Group-+Meet+Dave+Coppes.mp4
 pullquote: >-
@@ -19,9 +19,9 @@ youtube_code: ikDATCFPBvw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Meet the newest member of the Stary Group: Dave Coppes.</em></p>
+<p style="text-align: center;"><em>Meet the newest member of the Stary Group, Dave Coppes.</em></p>
 
-Today I’m proud to introduce you to one of our new buyer specialists: Dave Coppes. He’s done an amazing job with his clients in the 10 or so months that he’s been with the Stary Group, but if you haven’t worked with him yet, this is your chance to get to know him a little and to learn what value he brings to his clients.
+Today I’m proud to introduce you to one of our new buyer specialists, Dave Coppes. He’s done an amazing job with his clients in the 10 or so months that he’s been with the Stary Group, but if you haven’t worked with him yet, this is your chance to get to know him a little and to learn what value he brings to his clients.
 
 At home, Dave enjoys married life, and his wife is expecting their first child this May. He also has two awesome rescue bulldogs at home.
 
