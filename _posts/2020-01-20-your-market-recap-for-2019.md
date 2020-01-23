@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   From annual price growth to interest rates, I’m covering it all; here’s what
   the market did in 2019 and where I think we’re headed.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Your+Market+Recap+for+2019.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
