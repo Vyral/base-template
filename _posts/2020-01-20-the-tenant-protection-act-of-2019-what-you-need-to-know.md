@@ -19,8 +19,7 @@ youtube_code: jSW7o3MEU08
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the Tenant Protection Act of 2019 applies to property owners.</em></p>
-
+*Here’s how the Tenant Protection Act of 2019 applies to property owners.*
 
 How does the Tenant Protection Act of 2019 apply to property owners?
 
@@ -32,7 +31,7 @@ Keep in mind, **this law does not override local rent control laws.** Los Angele
 
 {% include pullquote.html %}
 
-As I’ve said, even if a property is exempt by law, **the burden is on the owner to send an exemption notice to their tenant prior to July 2020.** Otherwise, they may be subject to this law. In addition to the property types already mentioned, properties that were built within the past 15 years and vacant units are exempt as well.&nbsp;
+As I’ve said, even if a property is exempt by law, **the burden is on the owner to send an exemption notice to their tenant.** Otherwise, they may be subject to this law. In addition to the property types already mentioned, properties that were built within the past 15 years and vacant units are exempt as well.&nbsp;
 
 As far as terminating a lease goes, there are two types of just cause as defined under the law: an ‘at-fault just cause’ and a ‘no-fault just cause.’ An at-fault just cause is when a tenant fails to pay rent, has engaged in criminal activity, or breached a material term in the lease agreement. An example of a no-fault just cause is when the owner wants to move themselves or a family member into the home, remove it from the rental market altogether, or demolish it or perform substantial remodels.&nbsp;
 
