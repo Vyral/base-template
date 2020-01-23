@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s on the Horizon for Our 2020 Market?
-date:
+date: 2020-01-23 16:21:35
 tags:
 excerpt: >-
   As you’ll see in today’s message, the 2020 market is primed for buyers and
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/steen-youtube.jpg
 youtube_code: '-AA579tYy-I'
 ---
 
-{% include youtube.html %}<center>As you’ll see in today’s message, the 2020 market is primed for buyers and sellers to take advantage of.&nbsp;</center>
+{% include youtube.html %}
+
+<center>As you&rsquo;ll see in today&rsquo;s message, the 2020 market is primed for buyers and sellers to take advantage of.&nbsp;</center>
+
+&nbsp;
 
 With 2019 behind us, what’s in store for our 2020 real estate market?
 
