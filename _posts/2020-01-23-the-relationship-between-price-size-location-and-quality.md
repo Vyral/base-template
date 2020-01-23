@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Relationship Between Price, Size, Location, and Quality'
-date:
+date: 2020-01-23 15:01:53
 tags:
 excerpt: >-
   What is the relationship between price, size, location, and quality when
@@ -18,7 +18,11 @@ youtube_alternate_image: /uploads/sikes-youtube-1-3.jpg
 youtube_code: 3SGw-qITgy8
 ---
 
-{% include youtube.html %}<center>What is the relationship between price, size, location, and quality when you’re looking for a new home to buy? Find out here.</center>
+{% include youtube.html %}
+
+<center>What is the relationship between price, size, location, and quality when you&rsquo;re looking for a new home to buy? Find out here.</center>
+
+&nbsp;
 
 When it comes to finding out what’s most important in the home buying process, I coach our agents the same way I coach our clients. **We use a really simple formula: Location + quality + size = price.&nbsp;**
 
