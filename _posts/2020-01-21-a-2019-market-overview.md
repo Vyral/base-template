@@ -35,4 +35,4 @@ Between the end of 2018 and 2019, the average sale price increased 8% from $194,
 
 The average days on market, meanwhile, dropped from 42 days in 2018 to 38 days in 2019. If homes are priced right and immaculately conditioned, they’re selling within weeks—even days. **If you’re thinking of selling your home, we can help make sure it stands out so it attracts early offers and generates a multiple-offer situation.&nbsp;**
 
-If you have any questions about our market, don’t hesitate to reach out to me. I’d be happy to advise you. Each situation is different, but my job is to tell you what’s best for yours. Have a great rest of January\!
+If you have any questions about our market, don’t hesitate to reach out to me. I’d be happy to advise you. Each situation is different, but my job is to tell you what’s best for yours. I hope the rest of your January is great\!
