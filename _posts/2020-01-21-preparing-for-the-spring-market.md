@@ -27,9 +27,7 @@ If you plan on selling your home in the spring of 2020, now is the time to start
 
 Start with a timeline in mind. **December and January are good months to do an initial consultation with your Realtor.** If you call us, we’ll come out to your home, give it a quick walk-through, and provide a list of things you should do to your home to get it market-ready. These tasks can include cleaning, decluttering, painting, and staging.
 
-{% include pullquote.html %}&nbsp;
-
-Generally speaking, **the spring market in Minnesota starts after the Super Bowl,** or early-to-mid February. This isn’t a hard and fast rule, though—things can change depending on the weather, inventory levels, etc. That being said, you should still be ready to list by that date.&nbsp;
+{% include pullquote.html %} Generally speaking, **the spring market in Minnesota starts after the Super Bowl,** or early-to-mid February. This isn’t a hard and fast rule, though—things can change depending on the weather, inventory levels, etc. That being said, you should still be ready to list by that date.&nbsp;
 
 If you’re curious about what your home is worth right now, we can certainly run the numbers and give you an accurate estimate, but listing in spring means you should fine-tune your home’s price according to its listing date.&nbsp;
 
