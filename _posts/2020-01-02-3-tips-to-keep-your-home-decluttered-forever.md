@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   There are three simple tips you must follow to keep your home decluttered
   forever.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/2020/How+To+Declutter+Your+Home+(1).mp4
 pullquote: >-
   At the end of the day, you’ll find that you only keep things that make you
   happy.
