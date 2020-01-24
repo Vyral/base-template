@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Much Home Can You Buy?
-date:
+date: 2020-01-24 19:32:02
 tags:
   - Real Estate
   - Home Buyer Tips
