@@ -25,9 +25,9 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
 
-During the holiday season, it’s tempting to take your foot off the gas and coast, but we want to make sure you’re leveraging your end-of-year time to set up a great first quarter. On today’s webcast, we’re sharing some tips on how to have fun and make the most money during this time of year. We’re heading into an election year—those can be chock full of uncertainty. Taking control now is key, so here’s one tip: Use this time to call your database.
+Are you truly ready for 2020? The goal of today’s webinar is to help you create a detailed event schedule for the entire year ahead. We teach systems and structure so you can reduce your time investment, increase your leads, and make more money. If you’re coming off of a busy year and you’re wondering how you’re going to manage an even busier year ahead, this seminar is for you. The key is structure—eliminate surprises and avoid unnecessary time conflicts.
 
-<iframe width="734" height="413" src="https://www.youtube.com/embed/t7KUzNeAuM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="734" height="413" src="https://www.youtube.com/embed/g3zsRkJ3hA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
 **Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
