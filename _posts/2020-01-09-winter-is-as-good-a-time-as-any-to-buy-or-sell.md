@@ -8,7 +8,8 @@ excerpt: >-
   Before you pass up the opportunity to purchase that new home or sell your
   current home in what is often mistakenly referred to as the “off-season,” you
   should first consider these benefits.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/The+Stern+Team-+The+Benefits+of+Buying+and+Selling+in+Winter.mp4
 pullquote: >-
   Due to a higher scarcity of buyers and sellers in the fall and winter months,
   closing at a realistic asking price can be most easily accomplished during
