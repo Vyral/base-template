@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tax Season and the Mortgage Process
-date: 2020-01-23 20:56:05
+date: 2020-01-23 20:56:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   That’s the question I’ll answer today.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/Videos/Tax+Season+and+the+Mortgage+Process.mp4
-pullquote: 'Before you spend your tax refund, though, talk to a mortgage professional.'
+pullquote: 'Before you spend your tax refund, talk to a mortgage professional.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -23,11 +23,11 @@ It’s tax season, which means we’re getting a lot of questions regarding tax 
 
 **Tax refunds can be a great way to get a down payment or help you prepare for some of your closing costs.** Before you spend your tax refund, though, talk to a mortgage professional so you can craft a strategy and talk about which collections or credits cards to pay off first.&nbsp;
 
-I know you’ve heard that student loans are the No. 1 reason why I don’t sleep at night in my industry, but the No. 2 reason is tax returns. I always ask my self-employed borrowers to send me a copy of their tax returns when their accountant sends them back to them prior to filing with the IRS. There are certain deductions a self-employed borrower can take that, from a mortgage standpoint, can be added back in as income.&nbsp;
+I know you’ve heard that student loans are the No. 1 reason why I don’t sleep at night in my industry, but the No. 2 reason is tax returns. I always ask my self-employed borrowers to send me a copy of their tax returns when their accountant sends them back prior to filing with the IRS. There are certain deductions a self-employed borrower can take that, from a mortgage standpoint, can be added back in as income.&nbsp;
 
 For example, someone might want to take the mileage on their vehicle that was used to drive to work (which is totally acceptable) and write off 55 cents per mile from an IRS standpoint. From a mortgage standpoint, though, you can only add back in 22 cents. Another deduction to speak with your accountant about is depreciation, because you get to add in every dollar of depreciation to qualifying income.&nbsp;
 
-**You can get creative, just make sure you have your loan officer on speed dial during tax season if you’re thinking about buying a home.** Nobody likes to pay more income taxes than they have to, but from a financing standpoint, unless you’re doing a non-qualifying mortgage loan, if you’re telling the IRS you’re not making that income or aren’t paying taxes on it, you can’t use that income for mortgage qualifying.&nbsp;
+**You can get creative, just make sure you have your loan officer on speed dial during tax season if you’re thinking about buying a home.** Nobody likes to pay more income taxes than they have to, but if you’re telling the IRS you’re not making that income or aren’t paying taxes on it, you can’t then use that income for mortgage qualifying (unless you’re doing a non-qualifying mortgage loan).
 
 {% include pullquote.html %}
 
