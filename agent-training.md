@@ -23,13 +23,14 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Have Fun & Make Money During the Holidays** — [Video](https://youtu.be/t7KUzNeAuM8 ) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
+**Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
 
 During the holiday season, it’s tempting to take your foot off the gas and coast, but we want to make sure you’re leveraging your end-of-year time to set up a great first quarter. On today’s webcast, we’re sharing some tips on how to have fun and make the most money during this time of year. We’re heading into an election year—those can be chock full of uncertainty. Taking control now is key, so here’s one tip: Use this time to call your database.
 
 <iframe width="734" height="413" src="https://www.youtube.com/embed/t7KUzNeAuM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
+**Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
 
 **Have Fun & Make Money During the Holidays, December 2019** — [Video](https://youtu.be/t7KUzNeAuM8 ) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
 
