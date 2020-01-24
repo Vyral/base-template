@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/explaining-the-tenant-protection-act-of-2019-youtube.jpg
-youtube_code: jSW7o3MEU08
+youtube_code: 9QudEPDKtPw
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the Tenant Protection Act of 2019 applies to property owners.</em></p>
+*Here’s how the Tenant Protection Act of 2019 applies to property owners.*
 
 How does the Tenant Protection Act of 2019 apply to property owners?
 
