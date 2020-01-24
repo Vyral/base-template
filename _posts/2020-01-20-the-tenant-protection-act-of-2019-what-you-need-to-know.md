@@ -19,7 +19,7 @@ youtube_code: 9QudEPDKtPw
 
 {% include youtube.html %}
 
-*Here’s how the Tenant Protection Act of 2019 applies to property owners.*
+<p style="text-align: center;"><em>Here’s how the Tenant Protection Act of 2019 applies to property owners.</em></p>
 
 How does the Tenant Protection Act of 2019 apply to property owners?
 
