@@ -18,7 +18,7 @@ youtube_code: M7TjjezW8tg
 
 {% include youtube.html %}
 
-<center><em>You should be taking stock of where your money is and how it’s working for you.</em></center>
+<center><em>You should be taking stock of where your money is and how it&rsquo;s working for you.</em></center>
 
 <br>A financial check-up: Every year we go through this with our clients, and we also do it for ourselves. **You need to take a look at your finances and the interest rate on your home each year**. Would it be beneficial to buy a property? Do you want to build your portfolio? You should be taking stock of where your money is and how it’s working for you.
 
