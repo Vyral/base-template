@@ -18,7 +18,7 @@ youtube_code: f0poyXItHx0
 
 {% include youtube.html %}
 
-<center><em>Should you use the builder’s preferred lender when buying new construction? The answer depends.</em></center>
+<center><em>Should you use the builder&rsquo;s preferred lender when buying new construction? The answer depends.</em></center>
 
 <br>Should you use the builder’s preferred lender when buying a new construction home?
 
