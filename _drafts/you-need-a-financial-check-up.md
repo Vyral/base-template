@@ -18,7 +18,9 @@ youtube_code: M7TjjezW8tg
 
 {% include youtube.html %}
 
-A financial check-up: Every year we go through this with our clients, &nbsp;and we also do it for ourselves. **You need to take a look at your finances and the interest rate on your home each year**. Would it be beneficial to buy a property? Do you want to build your portfolio? You should be taking stock of where your money is and how it’s working for you.
+<center><em>You should be taking stock of where your money is and how it’s working for you.</em></center>
+
+<br>A financial check-up: Every year we go through this with our clients, and we also do it for ourselves. **You need to take a look at your finances and the interest rate on your home each year**. Would it be beneficial to buy a property? Do you want to build your portfolio? You should be taking stock of where your money is and how it’s working for you.
 
 Many real estate changes require you to scrutinize your finances: your children leaving home, downsizing, you may be older and the maintenance on your home is too much, you’re inheriting a home, you want to buy a larger home for a growing family, etc. We consider ourselves part of your financial team, just like your CPA or financial planner. We want to work with you to help create wealth for you and your family.
 
