@@ -21,7 +21,7 @@ youtube_code: QPFcP1yQR0w
 
 {% include youtube.html %}
 
-<center><em>What does 2020 hold for our real estate market? Here’s our market forecast for the year.</em></center>
+<center><em>What does 2020 hold for our real estate market? Here&rsquo;s our market forecast for the year.</em></center>
 
 <br>Now that we’re a month into the new decade, it’s time for us to share our predictions about what this year’s real estate market holds.
 
