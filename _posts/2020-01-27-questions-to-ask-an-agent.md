@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions to Ask an Agent
-date: 2020-01-27 18:15:54
+date: 2020-01-27 18:15:00
 tags:
   - Real Estate
 excerpt: There are six questions you must ask an agent before hiring them.
