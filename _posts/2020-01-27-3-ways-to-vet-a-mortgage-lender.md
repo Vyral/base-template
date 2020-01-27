@@ -29,4 +29,4 @@ Today I’m discussing how to choose a mortgage lender. When choosing a lender, 
 
 **3\. Creativity.** Not anything illegal, but knowing how to perceive things differently. For example, if you own your own business and have a lot of tax write-offs, how things are looked at can be considered differently for income. Certain things can be put back in, such as depreciation of assets that are coming off of your tax returns.&nbsp;
 
-If you’re considering buying a home, interest rates are currently extremely low, somewhere in the 3% range. This can’t last forever. If you’re interested, reach out to us and we can connect you with someone who can qualify you for a purchase. If you have further questions about finding a lender or real estate in general, please reach out to us. We would love to help you.
+If you’re considering buying a home—interest rates are currently extremely low, somewhere in the 3% range. This can’t last forever. If you’re interested, reach out to us and we can connect you with someone who can qualify you for a purchase. If you have further questions about finding a lender or real estate in general, please reach out to us. We would love to help you.
