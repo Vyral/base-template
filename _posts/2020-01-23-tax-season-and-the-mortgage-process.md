@@ -27,7 +27,7 @@ I know you’ve heard that student loans are the No. 1 reason why I don’t slee
 
 For example, someone might want to take the mileage on their vehicle that was used to drive to work (which is totally acceptable) and write off 55 cents per mile from an IRS standpoint. From a mortgage standpoint, though, you can only add back in 22 cents. Another deduction to speak with your accountant about is depreciation, because you get to add in every dollar of depreciation to qualifying income.&nbsp;
 
-**You can get creative, just make sure you have your loan officer on speed dial during tax season if you’re thinking about buying a home.** Nobody likes to pay more income taxes than they have to, but if you’re telling the IRS you’re not making that income or aren’t paying taxes on it, you can’t then use that income for mortgage qualifying (unless you’re doing a non-qualifying mortgage loan).
+**You can get creative, just make sure you have your loan officer on speed dial during tax season if you’re thinking about buying a home.** Nobody likes to pay more income taxes than they have to, but if you’re telling the IRS you’re not making that income or aren’t paying taxes on it, you can’t then use that income for mortgage qualifying with qualified mortgage loan programs.
 
 {% include pullquote.html %}
 
