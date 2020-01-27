@@ -18,7 +18,9 @@ youtube_alternate_image: >-
 youtube_code: bQIit2AGGgY
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>I’m sharing the five major things that will not increase the value of your home.</em></p>
 
 Today we’re going to discuss several things that won’t increase the value of your home:
 
