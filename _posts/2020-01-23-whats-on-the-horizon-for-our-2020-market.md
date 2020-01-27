@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s on the Horizon for Our 2020 Market?
-date: 2020-01-23 16:21:35
+date: 2020-01-23 16:21:00
 tags:
 excerpt: >-
   As you’ll see in today’s message, the 2020 market is primed for buyers and
@@ -17,7 +17,7 @@ youtube_code: '-AA579tYy-I'
 
 {% include youtube.html %}
 
-<center>As you&rsquo;ll see in today&rsquo;s message, the 2020 market is primed for buyers and sellers to take advantage of.&nbsp;</center>
+<center>As you&rsquo;ll see in today&rsquo;s message, the 2020 market is primed for buyers and sellers.&nbsp;</center>
 
 &nbsp;
 
