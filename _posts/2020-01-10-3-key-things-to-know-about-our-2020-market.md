@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re buying or selling in our Colorado Springs market in 2020, here are
   three insider tips to keep in mind.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Key+Things+to+Know+About+Our+2020+Market.mp4
 pullquote: >-
   Contact your real estate professional to ensure you’re in good hands going
   into 2020.
