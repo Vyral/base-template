@@ -21,7 +21,9 @@ youtube_code: QPFcP1yQR0w
 
 {% include youtube.html %}
 
-Now that we’re a month into the new decade, it’s time for us to share our predictions about what this year’s real estate market holds.
+<center><em>What does 2020 hold for our real estate market? Here’s our market forecast for the year.</em></center>
+
+<br>Now that we’re a month into the new decade, it’s time for us to share our predictions about what this year’s real estate market holds.
 
 Inventory will likely remain low throughout the year. **We saw low inventory last year as well, and this will continue — especially in the lower price ranges**. Demand is still incredibly high, and competition will be fierce among first-time homebuyers.
 
