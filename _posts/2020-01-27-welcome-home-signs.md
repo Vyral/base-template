@@ -20,7 +20,7 @@ youtube_code: fmjMa_NShKc
 
 {% include youtube.html %}
 
-*Today I’m sharing one way that we have set ourselves apart from other agencies by surprising and delighting our clients.*
+<p style="text-align: center;"><em>Today I’m sharing one way that we have set ourselves apart from other agencies by surprising and delighting our clients.</em></p>
 
 Today I wanted to share a fun idea we have implemented in our business: welcome home signs. Over the years, **we have worked to improve our client experience.** When you work with us, we’ll help you achieve your real estate goals, of course—but we want to go the extra mile.&nbsp;
 
