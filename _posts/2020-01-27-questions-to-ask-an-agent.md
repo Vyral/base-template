@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Questions to Ask an Agent
-date:
+date: 2020-01-27 18:15:54
 tags:
   - Real Estate
 excerpt: There are six questions you must ask an agent before hiring them.
@@ -17,7 +17,7 @@ youtube_code: TRMI_LhLq2w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are six questions you must ask an agent before hiring them.</em></p>
+*There are six questions you must ask an agent before hiring them.*
 
 Whether you’re a buyer or seller, here are the six questions you must ask a prospective agent before hiring them to know that they’ll be able to get you the best deal possible:
 
