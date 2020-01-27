@@ -21,7 +21,7 @@ youtube_code: Nl9i3Zs0UiI
 
 {% include youtube.html %}
 
-<p style="text-align: cemter;"><em>On February 8, 2020, we’ll be holding our annual seller seminar to familiarize homeowners with the selling process from start to finish. Will you join us?</em></p>
+<p style="text-align: center;"><em>On February 8, 2020, we’ll be holding our annual seller seminar to familiarize homeowners with the selling process from start to finish. Will you join us?</em></p>
 
 Once every year, the Dar Walden Team holds a free class to help home sellers learn all they need to know about the sales process. This year, **the class will take place on Saturday, February 8, from 11 a.m. to 2 p.m., and I hope you’ll join us there\!&nbsp;**
 
