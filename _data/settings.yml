@@ -61,7 +61,7 @@ second_sidebar_CTA:
     CTA_title2: Looking for a -- MARKET -- Home?
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
-    CTA_url2: 'http://www.damongettier.net/our-homes'
+    CTA_url2: 'https://www.damongettier.net/search/criteria/gp_1/s_2'
 lender:
   show_section: true
   header_text: Local Lender
