@@ -17,7 +17,7 @@ youtube_code: TRMI_LhLq2w
 
 {% include youtube.html %}
 
-*There are six questions you must ask an agent before hiring them.*
+<p style="text-align: center;"><em>There are six questions you must ask an agent before hiring them.</em></p>
 
 Whether you’re a buyer or seller, here are the six questions you must ask a prospective agent before hiring them to know that they’ll be able to get you the best deal possible:
 
