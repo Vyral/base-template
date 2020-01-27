@@ -27,7 +27,6 @@ Today I wanted to share a fun idea we have implemented in our business: welcome 
 One thing we came up with is creating a wonderful, surprise experience for our buyer clients when they arrive in their new home after closing. We place corrugated plastic letters across the front yard that spell out “Welcome Home.” Unlike a home that is currently listed, there usually isn’t a sign in a yard that says who sold the home. So, we added a sign that says “Sold by The Wolek Group.” It’s very simple, you can have it made easily, and of course, we added our brand to it.&nbsp;
 
 {% include pullquote.html %}&nbsp;
-
 This is a pleasant way to surprise buyers and say congratulations. **We get so many excellent responses from clients saying thank you for this.** Then, after a few days, we come back and collect the signs.&nbsp;
 
 Some tips that we have learned about this are to make sure your signs are made of corrugated plastic. At first, we used cardboard, but they can easily be ruined by sprinklers and rain. Also, make sure you tell them you will be back for the signs because some have thrown them away after a few days. They aren’t super cheap, so you want to make sure you get them back.&nbsp;
