@@ -24,7 +24,7 @@ youtube_code: fmjMa_NShKc
 
 Today I wanted to share a fun idea we have implemented in our business: welcome home signs. Over the years, **we have worked to improve our client experience.** When you work with us, we’ll help you achieve your real estate goals, of course—but we want to go the extra mile.&nbsp;
 
-One thing we came up with is creating a wonderful, surprise experience for our buyer clients when they arrive in their new home after closing. We place corrugated plastic letters across the front yard that spell out “Welcome Home”. Unlike a home that is currently listed, there usually isn’t a sign in a yard that says who sold the home. So, we added a sign that says “Sold by The Wolek Group”. It’s very simple, you can have it made easily, and of course, we added our brand to it.&nbsp;
+One thing we came up with is creating a wonderful, surprise experience for our buyer clients when they arrive in their new home after closing. We place corrugated plastic letters across the front yard that spell out “Welcome Home.” Unlike a home that is currently listed, there usually isn’t a sign in a yard that says who sold the home. So, we added a sign that says “Sold by The Wolek Group.” It’s very simple, you can have it made easily, and of course, we added our brand to it.&nbsp;
 
 {% include pullquote.html %}&nbsp;
 
