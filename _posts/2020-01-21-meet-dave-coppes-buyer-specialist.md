@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: 'Meet the newest member of the Stary Group, Dave Coppes.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2020/The+Stary+Group-+Meet+Dave+Coppes.mp4
+  https://vyralmarketing.s3.amazonaws.com/Adam+Stary/2020/The+Stary+Group-+dave+coppes.mp4
 pullquote: >-
   I know that Dave will continue to do amazing things for the team and his
   clients in the years to come.
