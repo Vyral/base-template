@@ -20,7 +20,7 @@ youtube_code: TG6LIX37Pv0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To know how much home you’re qualified to buy, there are several factors to take into consideration.</em></p>
+*To know how much home you’re qualified to buy, there are several factors to take into consideration.*
 
 If you’re thinking of buying a home, how do you know how much home you’re qualified to buy? Today I’m joined by Jake Bernhard of United Heritage Credit Union to answer that question.&nbsp;
 
@@ -32,7 +32,7 @@ Keep in mind that **there are other costs included in your monthly payment besid
 
 {% include pullquote.html %}
 
-There’s another payment referred to as PITIA, where the “A” stands for assessments, or your HOA fees. This might be collected separately from your HOA instead of grouped into your mortgage payment.&nbsp;
+There’s another payment referred to as PITIA, where the 'A' stands for assessments, or your HOA fees. This might be collected separately from your HOA instead of grouped into your mortgage payment.&nbsp;
 
 When taking into account what you’re comfortable paying, Tax rates can differ depending on where you’re buying, and all HOAs are different so be aware of these factors when buying. If a lender qualifies you to buy based on your PITI but you decide to buy somewhere that requires a large HOA fee—say, a few hundred dollars per month—you might not be able to afford the home you want anymore.&nbsp;
 
