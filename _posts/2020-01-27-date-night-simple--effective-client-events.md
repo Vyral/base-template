@@ -21,7 +21,7 @@ youtube_code: nqEY76rjcQE
 
 {% include youtube.html %}
 
-*Date night is a fun idea for client events, and they’re super easy to implement, too\!*
+<p style="text-align: center;"><em>Date night is a fun idea for client events, and they’re super easy to implement, too!</em></p>
 
 Just in time for Valentine’s Day, the Wolek Group is hosting a Date Night event on Thursday, February 13. We’re offering take-and-bake pizzas and either a six-pack of beer or a bottle of wine to all those who RSVP for the event.
 
