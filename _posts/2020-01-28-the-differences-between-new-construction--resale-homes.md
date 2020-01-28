@@ -21,7 +21,7 @@ youtube_code: p9fToW09hCk
 
 {% include youtube.html %}
 
-What are the key differences between buying new construction homes and resale homes? Find out here.
+<p style="text-align: center;"><em>What are the key differences between buying new construction homes and resale homes? Find out here.</em></p>
 
 Homebuyers often want to know how buying new construction homes differs from buying retail homes. Today we’ll discuss what you need to know about both.
 
