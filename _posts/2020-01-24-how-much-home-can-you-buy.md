@@ -20,7 +20,7 @@ youtube_code: ECGoUJ5qI9w
 
 {% include youtube.html %}
 
-*To know how much home you’re qualified to buy, there are several factors to take into consideration.*
+<p style="text-align: center;"><em>To know how much home you’re qualified to buy, there are several factors to take into consideration.</em></p>
 
 If you’re thinking of buying a home, how do you know how much home you’re qualified to buy? Today I’m joined by Jake Bernhard (NMLS \#870775) of United Heritage Credit Union (NMLS \#630601) to answer that question.&nbsp;
 
