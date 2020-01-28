@@ -10,7 +10,7 @@ excerpt: >-
   Date night is a fun idea for a client event, and it's super easy to implement,
   too!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/Real+Estate+in+the+Real+World+/Date+Night-+Simple+%26+Effective+Client+Events.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/Real+Estate+in+the+Real+World+/Date+Night-+Simple+%26+Effective+Client+Event.mp4
 pullquote: You can get all sorts of database touches from this kind of event.
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: nqEY76rjcQE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Date night is a fun idea for a client event, and it's super easy to implement, too!</em></p>
+*Date night is a fun idea for a client event, and it's super easy to implement, too\!*
 
 Just in time for Valentine’s Day, the Wolek Group is hosting a Date Night event on Thursday, February 13. We’re offering take-and-bake pizzas and either a six-pack of beer or a bottle of wine to all those who RSVP for the event.
 
