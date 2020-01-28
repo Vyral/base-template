@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Types of Video to Add Value to Your Real Estate Business
-date: 2020-01-28 19:23:31
+date: 2018-06-25 19:23:00
 tags:
   - Listing Presentation
   - Lead Generation
