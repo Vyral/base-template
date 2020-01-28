@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why You Shouldn’t Trust Zillow’s Estimates
+title: Trust a Seasoned Agent, Not an Algorithm 
 date: 2020-01-28 21:26:00
 tags:
   - Home Buyer Tips
