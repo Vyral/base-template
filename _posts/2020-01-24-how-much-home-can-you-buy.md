@@ -15,12 +15,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rosie-hayer-know-what-you-can-afford-youtube.jpg
-youtube_code: Eb77rd3NMTM
+youtube_code: ECGoUJ5qI9w
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To know how much home you’re qualified to buy, there are several factors to take into consideration.</em></p>
+*To know how much home you’re qualified to buy, there are several factors to take into consideration.*
 
 If you’re thinking of buying a home, how do you know how much home you’re qualified to buy? Today I’m joined by Jake Bernhard (NMLS \#870775) of United Heritage Credit Union (NMLS \#630601) to answer that question.&nbsp;
 
