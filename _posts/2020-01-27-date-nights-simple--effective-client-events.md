@@ -21,7 +21,7 @@ youtube_code: nqEY76rjcQE
 
 {% include youtube.html %}
 
-*You can get all sorts of database touches from this kind of event.*
+<p style="text-align: center;"><em>You can get all sorts of database touches from this kind of event.</em></p>
 
 Just in time for Valentine’s Day, the Wolek Group is hosting a Date Night event on Thursday, February 13. We’re offering take-and-bake pizzas and either a six-pack of beer or a bottle of wine to all those who RSVP for the event.
 
