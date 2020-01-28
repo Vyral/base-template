@@ -11,7 +11,7 @@ pullquote: More millennials than ever will buy homes this year.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/steen-youtube.jpg
+youtube_alternate_image: /uploads/steen-youtube-2.jpg
 youtube_code: '-AA579tYy-I'
 ---
 
