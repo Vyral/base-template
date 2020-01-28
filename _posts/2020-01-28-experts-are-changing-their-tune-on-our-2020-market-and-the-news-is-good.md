@@ -17,7 +17,7 @@ youtube_code: '-sTOgFVt-Es'
 
 {% include youtube.html %}
 
-I’m excited for 2020, and after today’s market report, you will be too.
+<p style="text-align: center;"><em>I’m excited for 2020, and after today’s market report, you will be too.</em></p>
 
 Despite last year’s doom-and-gloom predictions about where the economy was headed in 2020, **economists are changing their views, and the news is good.&nbsp;**
 
