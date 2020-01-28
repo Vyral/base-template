@@ -21,8 +21,7 @@ youtube_code: G6c9RIrntzY
 
 {% include youtube.html %}
 
-Here’s what you should know about how Zillow determines the value of your home and why it’s flawed.&nbsp;
-
+<p style="text-align: center;"><em>Here’s what you should know about how Zillow determines the value of your home and why it’s flawed.</em></p>
 With the growing popularity of Zillow and other instant offer sites like it comes one important question: Can you trust Zillow’s estimate of your home’s value?&nbsp;
 
 For perspective, Zillow has only been around since 2007; I’ve been in real estate since 1981, so I think I have a leg up on Zillow. In most cases, when Zillow comes up with its valuation (known as a Zestimate), they don’t even step foot into your home, they just crunch marketplace data.&nbsp;
