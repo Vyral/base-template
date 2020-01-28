@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Date Night: Simple & Effective Client Events'
+title: 'Date Night: Simple & Effective Client Event'
 date: 2020-01-27 21:28:00
 tags:
   - Lead Conversion
