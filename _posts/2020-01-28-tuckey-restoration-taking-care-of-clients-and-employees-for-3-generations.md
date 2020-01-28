@@ -21,7 +21,7 @@ youtube_code: oUmWBjDentk
 
 {% include youtube.html %}
 
-For three generations, Tuckey Restoration has taken great care of its customers and employees.
+<p style="text-align: center;"><em>For three generations, Tuckey Restoration has taken great care of its customers and employees.</em></p>
 
 I couldn’t be more excited for today’s Brand Ambassador video, and that’s because I’m spotlighting Tuckey Restoration—a third-generation, family-owned construction and manufacturing business.
 
