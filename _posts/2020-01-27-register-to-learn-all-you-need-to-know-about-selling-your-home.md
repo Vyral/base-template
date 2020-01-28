@@ -33,6 +33,6 @@ We’ll also **review the costs of selling a home** and introduce guest speakers
 
 Lunch will be provided, and we also have a few door prizes to give away. After the class is over, there’ll be time for a question-and-answer period.
 
-**Click**[**here**](https://www.alaskatopagent.com/search/ResidentialAdvancedSearch.aspx) **to sign up for the seminar.** You’d better hurry though—there were only 35 seats available, and around two-thirds of them are already full. First come, first serve\!&nbsp;
+**Click** [**here**](https://www.alaskatopagent.com/search/ResidentialAdvancedSearch.aspx) **to sign up for the seminar.** You’d better hurry though—there were only 35 seats available, and around two-thirds of them are already full. First come, first serve\!&nbsp;
 
 Once you register, someone from the team will contact you with all the information you’ll need. If you have any questions about the seminar or real estate in the meantime, don’t hesitate to reach out to us. We’d love to hear from you.
