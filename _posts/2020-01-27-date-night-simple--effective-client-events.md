@@ -10,7 +10,7 @@ excerpt: >-
   Date night is a fun idea for client events, and they’re super easy to
   implement, too!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/Real+Estate+in+the+Real+World+/Date+Nights-+Simple+%26+Effective+Client+Events.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/Real+Estate+in+the+Real+World+/Date+Night-+Simple+%26+Effective+Client+Events.mp4
 pullquote: You can get all sorts of database touches from this kind of event.
 enclosure_type: video/mp4
 enclosure_time:
