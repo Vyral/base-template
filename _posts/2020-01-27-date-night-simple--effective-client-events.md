@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Date Nights: Simple & Effective Client Events'
+title: 'Date Night: Simple & Effective Client Events'
 date: 2020-01-27 21:28:00
 tags:
   - Lead Conversion
@@ -21,7 +21,7 @@ youtube_code: nqEY76rjcQE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Date nights are a fun idea for client events, and they’re super easy to implement, too!</em></p>
+*Date night is a fun idea for client events, and they’re super easy to implement, too\!*
 
 Just in time for Valentine’s Day, the Wolek Group is hosting a Date Night event on Thursday, February 13. We’re offering take-and-bake pizzas and either a six-pack of beer or a bottle of wine to all those who RSVP for the event.
 
