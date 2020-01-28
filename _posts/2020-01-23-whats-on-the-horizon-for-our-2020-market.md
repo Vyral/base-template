@@ -30,3 +30,5 @@ We’re kicking off the year with really low interest rates—lower than they we
 If you’re a home seller, high demand coupled with low supply spells opportunity. The market is starving for inventory, which means there will be a lot of demand for your home. Now is the time to start planning your home sale so you can maximize your profit.&nbsp;
 
 If you have any questions about our market or would like help buying or selling, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
+
+&nbsp;
