@@ -31,7 +31,7 @@ We’ll also **review the costs of selling a home** and introduce guest speakers
 
 {% include pullquote.html %}
 
-Lunch will be provided, and we also have a few door prizes to give away. After the class is over, there’ll be time for a question-and-answer period.
+Lunch will be provided, and we also have a few door prizes to give away. After the class is over, there’ll be time for a Q&A period.
 
 **Click** [**here**](https://www.alaskatopagent.com/search/ResidentialAdvancedSearch.aspx) **to sign up for the seminar.** You’d better hurry though—there were only 35 seats available, and around two-thirds of them are already full. First come, first serve\!&nbsp;
 
