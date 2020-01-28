@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Shouldn’t Trust Zillow’s Estimates
-date: 2020-01-28 21:26:27
+date: 2020-01-28 21:26:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
