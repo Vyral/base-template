@@ -15,7 +15,7 @@ pullquote: You can get all sorts of database touches from this kind of event.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/jennie-wolek-how-we-plan-our-client-date-night-events-youtube.jpg
+youtube_alternate_image: /uploads/jennie-wolek-how-we-plan-our-client-date-night-event-youtube.jpg
 youtube_code: nqEY76rjcQE
 ---
 
