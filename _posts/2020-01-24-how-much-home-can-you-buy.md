@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/rosie-hayer-know-what-you-can-afford-youtube.jpg
-youtube_code: TG6LIX37Pv0
+youtube_code: Eb77rd3NMTM
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>To know how much home you’re qualified to buy, there are several factors to take into consideration.</em></p>
+*To know how much home you’re qualified to buy, there are several factors to take into consideration.*
 
-If you’re thinking of buying a home, how do you know how much home you’re qualified to buy? Today I’m joined by Jake Bernhard of United Heritage Credit Union to answer that question.&nbsp;
+If you’re thinking of buying a home, how do you know how much home you’re qualified to buy? Today I’m joined by Jake Bernhard (NMLS \#870775) of United Heritage Credit Union (NMLS \#630601) to answer that question.&nbsp;
 
 First, **you need to know how much you’re comfortable paying each month mortgage-wise.** Then, look at how much you have for a down payment. The key is to find a house that fits within these parameters. You might be able to qualify to buy a certain home, but it may cost way more than what you’re comfortable paying each month.&nbsp;
 
