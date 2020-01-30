@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Introducing One of Our New Buyer’s Specialist: Jessica'
+title: 'Introducing One of Our New Buyer’s Specialists: Jessica'
 date: 2020-01-28 00:00:00
 tags:
   - Meet Team Lally
