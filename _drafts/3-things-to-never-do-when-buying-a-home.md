@@ -17,7 +17,9 @@ youtube_code: 3ZopA5k2RtA
 
 {% include youtube.html %}
 
-When it comes to purchasing a home there are three mistakes you should always avoid making during the process if you want to succeed:
+<center><em>Here are the three things you should never do when buying a home.</em></center>
+
+<br>When it comes to purchasing a home there are three mistakes you should always avoid making during the process if you want to succeed:
 
 **1\. Go on vacation**. If you’re going on a vacation to Greece during the process of buying a home it will be very hard to complete the purchase. We can’t do everything on your behalf, and being far away makes coordination difficult. Wait to go on vacation until after you’ve closed on your home if you want to avoid undue stress.
 
