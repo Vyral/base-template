@@ -17,7 +17,7 @@ youtube_code: 3ZopA5k2RtA
 
 {% include youtube.html %}
 
-<center><em>Here are the three things you should never do when buying a home.</em></center>
+<center><em>Here are the three things you should <u>never</u> do when buying a home.</em></center>
 
 <br>When it comes to purchasing a home there are three mistakes you should always avoid making during the process if you want to succeed:
 
