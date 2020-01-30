@@ -17,7 +17,7 @@ youtube_code: UfYaFmZ4lVc
 
 {% include youtube.html %}
 
-Today I’m sharing some information on an opening here at The Dan Jones Team.
+<p style="text-align: center;"><em>Today I’m sharing some information on an opening here at The Dan Jones Team.</em></p>
 
 When you look back on 2019, were you able to achieve the goals you set for yourself?&nbsp;
 
