@@ -21,7 +21,7 @@ youtube_code: GzWIu6nuN_A
 
 {% include youtube.html %}
 
-Is it important to be represented by an agent when buying in a new home subdivision? Yes, and here’s why.
+<p style="text-align: center;"><em>Is it important to be represented by an agent when buying in a new home subdivision? Yes, and here’s why.</em></p>
 
 As a buyer, it’s very important to be represented by an agent when buying in a new home subdivision. To illustrate why, I’ll tell you about one of my team’s recent clients.&nbsp;
 
