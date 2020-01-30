@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/h4GlEutkEes'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Saving up for a down payment can be tough, but it’s easier when you know that you have options. Here are three ways to help with your down payment that don’t require saving.</em></p>
+
 Even if you don’t think you can afford a down payment right now, there are ways for you to purchase a home without one. **A lot of people think they need 20% to put down on a home, but that’s not true.** FHA only requires 3.5% down and other programs only require 3%.&nbsp;
 
 Even so, a lot of buyers still can’t afford that. Here are three ways to buy if you’re in a similar situation:
