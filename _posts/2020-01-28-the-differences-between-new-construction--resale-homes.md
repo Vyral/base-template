@@ -33,6 +33,6 @@ Resale homes, or homes that were previously lived in, have their own set of adva
 
 When it comes to deciding which is the right purchase for you, consider what’s inside each home. Three years ago, my wife and I bought a new construction house without any blinds on the windows. We didn’t even think about it until after we had closed on it; we then realized we had 30 sets of blinds to go out and purchase.
 
-In the \[INSERT PLACE NAME @ 1:34\], we have a third option, as well. Since we’re a military town, a lot of people move in and out every year. Sometimes people buy new construction homes but only stay for a few years before they receive orders to move. **These sorts of homes would have the benefits of a resale home but the newness of a new construction property.**
+In the Hampton Roads, we have a third option, as well. Since we’re a military town, a lot of people move in and out every year. Sometimes people buy new construction homes but only stay for a few years before they receive orders to move. **These sorts of homes would have the benefits of a resale home but the newness of a new construction property.**
 
 Figure out which of these types of homes works best for you. If you need some professional advice to help you better understand which type of home fits your situation, reach out and give us a call or send an email. We’re glad to share our advice with you.
