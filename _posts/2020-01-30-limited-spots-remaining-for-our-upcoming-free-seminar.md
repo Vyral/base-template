@@ -20,7 +20,7 @@ youtube_code: wLpPZ2Mn46Q
 
 {% include youtube.html %}
 
-Our home seller seminar is a fantastic opportunity for any future home seller to learn some of the ropes. There are still a few spots left for this free event.
+<p style="text-align: center;"><em>Our home seller seminar is a fantastic opportunity for any future home seller to learn some of the ropes. There are still a few spots left for this free event.</em></p>
 
 I just wanted to stop by and remind you about our upcoming free home seller seminar. If you’re interested in signing up to learn everything about the home-selling process, give us a call right away or sign up on alaskatopagent.com.
 
