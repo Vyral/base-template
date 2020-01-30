@@ -1,12 +1,14 @@
 ---
-layout: default
+layout: page
 title: Guaranteed Sale
 permalink: /guaranteed-sale/
 ---
-<div style="margin-top:3rem;">
-  <h3>An Easier Way to Sell Your Calgary Home</h3>
-  <h5>Get a guaranteed offer within as little as 7 days on your home</h5>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/EbtZv2ZMu5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="col-md-8 col-md-offset-2">
+  <div style="margin-top:3rem;">
+    <h3>An Easier Way to Sell Your Calgary Home</h3>
+    <h5>Get a guaranteed offer within as little as 7 days on your home</h5>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EbtZv2ZMu5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>
 
 
