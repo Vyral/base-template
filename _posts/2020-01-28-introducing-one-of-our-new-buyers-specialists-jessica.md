@@ -10,13 +10,13 @@ excerpt: >-
   on our team. Here’s how she described her first impressions of the team and
   why she joined.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Adrienne+Lally/Adrienne+Lally/Introducing+One+of+Our+New+Buyers+Specialist-+Jessica.mp4
+  https://vyralmarketing.s3.amazonaws.com/Adrienne+Lally/Introducing+One+of+Our+New+Buyers+Specialists-+Jessica.mp4
 pullquote: I’m honored to be a part of the No. 5 real estate team in the state of Hawaii.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jessica-yt.jpg
-youtube_code: OFdptsDfurs
+youtube_code: D4-zlT0OV9o
 ---
 
 {% include youtube.html %}
