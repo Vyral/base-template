@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trust a Seasoned Agent, Not an Algorithm 
+title: 'Trust a Seasoned Agent, Not an Algorithm'
 date: 2020-01-28 21:26:00
 tags:
   - Home Buyer Tips
@@ -21,14 +21,15 @@ youtube_code: G6c9RIrntzY
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you should know about how Zillow determines the value of your home and why it’s flawed.</em></p>
+*Here’s what you should know about how Zillow determines the value of your home and why it’s flawed.*
+
 With the growing popularity of Zillow and other instant offer sites like it comes one important question: Can you trust Zillow’s estimate of your home’s value?&nbsp;
 
 For perspective, Zillow has only been around since 2007; I’ve been in real estate since 1981, so I think I have a leg up on Zillow. In most cases, when Zillow comes up with its valuation (known as a Zestimate), they don’t even step foot into your home, they just crunch marketplace data.&nbsp;
 
 {% include pullquote.html %}
 
-Zillow uses an algorithm to estimate home value, and there’s no way for that algorithm to factor in any improvements you’ve made to the property. I’ve had several people ask me, “Well, why did Zillow raise my price,” or, “Why did Zillow lower my price?” To be honest, I don’t even think Zillow knows why it changes its figures.&nbsp;
+**Zillow uses an algorithm to estimate home value, and there’s no way for that algorithm to factor in any improvements you’ve made to the property.** I’ve had several people ask me, “Well, why did Zillow raise my price,” or, “Why did Zillow lower my price?” To be honest, I don’t even think Zillow knows why it changes its figures.&nbsp;
 
 The bottom line is this: Don’t trust Zillow. What you need to do is get an experienced agent to look at the inherent benefits of and improvements to your home. Here at the Roth Team, we compare what homes like yours have recently sold for with what’s currently on the market. Then, based on your competition, we position your home so you get the highest price possible.&nbsp;
 
