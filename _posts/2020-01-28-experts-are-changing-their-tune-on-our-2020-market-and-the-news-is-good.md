@@ -7,7 +7,7 @@ tags:
 excerpt: 'I’m excited for 2020, and after today’s market report, you will be too.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Diane+Cardano/2020/Suburbs+of+Philadelphia+Real+Estate-+January+Hot+off+the+Press+Market+Report.mp4
-pullquote: Everything looks like it’s heading in the right direction.
+pullquote: Housing remains a solid foundation for the U.S. economy.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
