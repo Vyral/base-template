@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can You Do to Lower Your Down Payment?
-date: 2020-01-30 14:56:13
+date: 2020-01-30 14:56:00
 tags:
   - Home Buyer Tips
 excerpt: >-
