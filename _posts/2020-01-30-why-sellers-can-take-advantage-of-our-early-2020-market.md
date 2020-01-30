@@ -19,7 +19,8 @@ youtube_code: k4xf2wbl0vQ
 
 {% include youtube.html %}
 
-If you’re thinking of selling your home and upsizing, the 2020 market is perfect for you.&nbsp;
+<p style="text-align: center;"><em>If you’re thinking of selling your home and upsizing, the 2020 market is perfect for you.</em></p>
+
 
 How does our North San Diego market look as we transition from 2019 to 2020?
 
