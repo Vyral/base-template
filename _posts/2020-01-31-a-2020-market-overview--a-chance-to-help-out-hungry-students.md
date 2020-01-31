@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2020 Market Overview & A Chance to Help Out Hungry Students
-date: 2020-01-31 17:00:05
+date: 2020-01-31 17:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -32,7 +32,7 @@ Help may be coming in the form of new construction, however. **Fannie Mae econom
 
 {% include pullquote.html %}
 
-George Ratiu, senior economist at Realtor.com, said, “As millennials embrace homeownership and take advantage of this year’s unexpectedly low mortgage rates, demand is outstripping supply, causing inventory to vanish. \[...\] The issue is further compounded by the fact that sellers tend to be more reluctant to list during the colder times of year when the market typically makes a seasonal slowdown.”&nbsp;
+George Ratiu, senior economist at Realtor.com, said, “As millennials embrace homeownership and take advantage of this year’s unexpectedly low mortgage rates, demand is outstripping supply, causing inventory to vanish. \[…\] The issue is further compounded by the fact that sellers tend to be more reluctant to list during the colder times of year when the market typically makes a seasonal slowdown.”&nbsp;
 
 **Here are some fun housing facts:**
 
