@@ -22,8 +22,8 @@ youtube_code: wLpPZ2Mn46Q
 
 <p style="text-align: center;"><em>Our home seller seminar is a fantastic opportunity for any future home seller to learn some of the ropes. There are still a few spots left for this free event.</em></p>
 
-I just wanted to stop by and remind you about our upcoming free home seller seminar. If you’re interested in signing up to learn everything about the home-selling process, give us a call right away or sign up on alaskatopagent.com.
+I just wanted to send a message reminding you about our upcoming free home seller seminar. <strong>If you’re interested in signing up to learn everything about the home-selling process, give us a call right away or sign up on <a href="https://www.alaskatopagent.com/" target="_blank">alaskatopagent.com.</a></strong>
 
-We’ll be joined by lenders, appraisers, and inspectors. There will be lunch, door prizes, and Q&A sessions. 35 seats are still available, but we’re not sure how long they will last. To learn more about what to expect, watch this short video.
+We’ll be joined by lenders, appraisers, and inspectors. There will be lunch, door prizes, and Q&A sessions. 35 seats are still available, but we’re not sure how long they will last.
 
 If you have any questions for me, feel free to reach out via phone or email. I look forward to hearing from you soon.
