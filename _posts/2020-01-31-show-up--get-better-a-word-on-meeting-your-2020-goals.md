@@ -17,7 +17,7 @@ youtube_code: k09E6a9s1Ws
 
 {% include youtube.html %}
 
-What’s the key to achieving your New Year’s resolutions? Here are my thoughts.
+<p style="text-align: center;"><em>What’s the key to achieving your New Year’s resolutions? Here are my thoughts.</em></p>
 
 We’re several weeks into 2020, so let’s talk about our New Year’s resolutions.
 
