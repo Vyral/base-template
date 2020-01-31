@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happens Throughout the Home Buying Process
-date: 2020-01-31 15:37:52
+date: 2020-01-31 15:37:00
 tags:
 excerpt: >-
   Ever wonder what the home buying process is like? Here’s a general outline of
@@ -17,7 +17,13 @@ youtube_alternate_image: /uploads/payne-youtube-4-3.jpg
 youtube_code: rRHIP73qqAk
 ---
 
-{% include youtube.html %}<center>Ever wonder what the home buying process is like? Here’s a general outline of what you’ll experience.</center>
+{% include youtube.html %}
+
+<center><em>Ever wonder what the home buying process is like? Here&rsquo;s a general outline of what you&rsquo;ll experience.</em></center>
+
+&nbsp;
+
+&nbsp;
 
 When you purchase a home, there’s a general timeline you’ll typically be following.&nbsp;
 
