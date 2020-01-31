@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/payne-youtube-4-3.jpg
 youtube_code: rRHIP73qqAk
 ---
 
-{% include youtube.html %} Ever wonder what the home buying process is like? Here’s a general outline of what you’ll experience.
+{% include youtube.html %}<center>Ever wonder what the home buying process is like? Here’s a general outline of what you’ll experience.</center>
 
 When you purchase a home, there’s a general timeline you’ll typically be following.&nbsp;
 
