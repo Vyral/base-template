@@ -19,7 +19,7 @@ youtube_code: _o5uraQEomQ
 
 {% include youtube.html %}
 
-I’m sharing statistics about the buyers moving into our area.
+<p style="text-align: center;"><em>I’m sharing statistics about the buyers moving into our area.</em></p>
 
 People are often curious to know from where buyers in our market are coming. Normally, I just answer from personal experience, but today I’m sharing an end-of-year analysis aimed at answering that exact question more precisely. By breaking down our website traffic through Google Analytics, we were able to accrue some interesting information about our buyers.&nbsp;
 
