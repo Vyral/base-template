@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Market Your Listing
-date: 2020-01-31 23:22:47
+date: 2020-01-31 23:22:00
 tags:
   - Home Seller Tips
 excerpt:
