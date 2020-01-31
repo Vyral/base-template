@@ -23,7 +23,7 @@ youtube_code: 6BVooYvLuR0
 
 {% include youtube.html %}
 
-If you get a hassle-free cash offer to buy your home in the mail, here’s what you need to know about that offer.
+<p style="text-align: center;"><em>If you get a hassle-free cash offer to buy your home in the mail, here’s what you need to know about that offer.</em></p>
 
 If you’ve gotten a letter from someone asking to buy your house hassle-free with just cash, what do you do?&nbsp;
 
