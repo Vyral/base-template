@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Show Up & Get Better: A Word on Meeting Your 2020 Goals'
-date: 2020-01-31 16:40:22
+date: 2020-01-31 16:40:00
 tags:
   - Expert Advice
 excerpt: What’s the key to achieving your New Year’s resolutions? Here are my thoughts.
@@ -25,7 +25,7 @@ Now is about the time that people’s New Year’s Resolutions start to fail, bu
 
 Resolutions fail for two reasons: 1) you weren’t properly motivated, and 2) we want instant gratification.
 
-**Reason \#1: Lack of Clarity & Motivation**
+<u><strong>Reason #1: Lack of Clarity &amp; Motivation</strong></u>
 
 How did you set your goals for the year? Were they really meaningful to you? Motivation is funny; it changes daily based on how badly we want the goal.
 
@@ -37,7 +37,7 @@ There might be no amount of money that would motivate you to dribble a ball thro
 
 **Having a clear understanding of your goal and your motivation to achieve it is critical.** Think about the goals you’ve set for yourself this year; why do you want to achieve them? Do you want it as much as you want to breathe?
 
-**Reason \#2: Instant Gratification**
+<u><strong>Reason #2: Instant Gratification</strong></u>
 
 Some goals are strenuous, like getting in better physical shape. You come home from the gym sore and tired, but you don’t seem like you’ve lost any weight or made any gains, and that might discourage you from keeping at it.&nbsp;
 
