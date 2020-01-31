@@ -21,7 +21,7 @@ youtube_code: YWyw0guehBM
 
 <center><em>Why has the government allocated $1.2 billion toward this new home buying program?</em></center>
 
-<br>As you know, in previous videos I’ve spoken about some great opportunities for first-time buyers in the Calgary real estate market. Today I’ll tell you about Canada’s First-Time Home Buyer Incentive—a program that the government has allocated $1.2 billion toward. It’s got both pros and cons, and I’m joined by Bob Reader of <u><a target="_blank" href="https://canadianmortgagepro.com/">Canadian Mortgage Professionals</a></u> to help you decide whether it’s right for you.
+<br>As you know, in previous videos I’ve spoken about some <u><a target="_blank" href="https://calgaryvideoblog.com/2020-calgary-real-estate-predictions-pains-profits.html">great opportunities for first-time buyers</a></u> in the Calgary real estate market. Today I’ll tell you about Canada’s First-Time Home Buyer Incentive—a program that the government has allocated $1.2 billion toward. It’s got both pros and cons, and I’m joined by Bob Reader of <u><a target="_blank" href="https://canadianmortgagepro.com/">Canadian Mortgage Professionals</a></u> to help you decide whether it’s right for you.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
