@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Market Recap for 2019 and Preview for 2020
-date: 2020-02-03 20:54:39
+date: 2020-02-03 20:54:00
 tags:
   - Real Estate
 excerpt: >-
