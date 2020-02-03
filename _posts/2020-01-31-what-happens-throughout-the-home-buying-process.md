@@ -33,7 +33,7 @@ Next, we’ll sit you down with a lender and get you a pre-approval for a mortga
 
 {% include pullquote.html %}
 
-A professional home inspector will look through your home and make you aware of repairs that must be made. **We’ll negotiate repairs with the seller to make sure the items are taken care of.**
+A professional home inspector will look through your home and make you aware of repairs that must be made. **We’ll negotiate repairs with the seller to make sure the items are repaired or replaced.**
 
 After negotiations, the lender will go through the mortgage underwriting process and have the property appraised. Once it’s underwritten, the loan will be approved and we’ll be ready to close on the house. The title company will make sure liens and mortgages are paid off by the sale’s proceeds. Finally, you get the keys to your new home\!
 
