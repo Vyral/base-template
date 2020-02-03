@@ -23,13 +23,13 @@ youtube_code: _o5uraQEomQ
 
 People are often curious to know from where buyers in our market are coming. Normally, I just answer from personal experience, but today I’m sharing an end-of-year analysis aimed at answering that exact question more precisely. By breaking down our website traffic through Google Analytics, we were able to accrue some interesting information about our buyers.&nbsp;
 
-First off, the numbers show that, unsurprisingly, our area is not an international market. Looking at the country of origin for buyers in our market, the United States naturally makes up the majority (87.71%), followed by Canada (8.75%). All of the other countries of the world amount to about 3% of our total sales.
+First off, the numbers show that, unsurprisingly, our area is not an international market. Looking at the country of origin for buyers in our market, the United States naturally makes up the majority (87.71%), followed by Canada (8.75%). All of the other countries in the world amount to about 3% of our total sales.
 
 {% include pullquote.html %}
 
-**Interestingly, there has been a nearly 12% decrease of Canadian-born buyers from 2018 to 2019**, and it’s hard to pinpoint why exactly. Perhaps it’s becayse their exchange rate has been slightly down for some time now.&nbsp;
+**Interestingly, there has been a nearly 12% decrease of Canadian-born buyers from 2018 to 2019**, and it’s hard to pinpoint why exactly. Perhaps it’s because their exchange rate has been slightly down for some time now.&nbsp;
 
-On a statewide basis, people moving around within the state of Montana constitute about 31% of our buyer pool, earning it the top spot. **The state with the second largest share of our buyer pool is Utah**, which accounted for 10.5% of our buyer pool in 2019. It pushed California (the 2018 runner-up) down to the No. 3 spot.&nbsp;
+On a statewide basis, people moving around within the state of Montana constitute about 31% of our buyer pool, earning it the top spot. **The state with the second-largest share of our buyer pool is Utah**, which accounted for 10.5% of our buyer pool in 2019. It pushed California (the 2018 runner-up) down to the No. 3 spot.&nbsp;
 
 For 2019, Washington takes fourth; Texas fetches fifth; Illinois seizes sixth (interesting considering that this state wasn’t even in the top 10 last year); Colorado cruises into seventh; Arizona secures eighth; Florida takes ninth; and Idaho nabs the last spot in our top 10.&nbsp;
 
