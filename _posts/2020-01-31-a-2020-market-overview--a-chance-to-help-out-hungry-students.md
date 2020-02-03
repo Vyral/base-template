@@ -20,11 +20,11 @@ youtube_code: 1m82Jo_8ZmE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>In today’s message, I’ll first share what economists are predicting for the 2020 housing market before I introduce you to the wonderful cause that Blessings In A Backpack champions in our community.</em></p>
+*In today’s message, I’ll first share what economists are predicting for the 2020 housing market before I introduce you to the wonderful cause that Blessings In A Backpack champions in our community.*
 
-Before I get to the heart of today’s topic, Blessings In A Backpack, here’s what’s happening in both the Louisville and Southern Indiana real estate markets:
+Here’s what’s happening in both the Louisville and Southern Indiana real estate markets:
 
-Buying a new house appears to be a very popular resolution this year, and that’s why home sales are projected to grow in 2020. In fact, economists at Realtor.com say that housing remains a solid foundation for the US economy as we move farther into 2020. **The National Association of Realtors, the Mortgage Banker Association, Fannie Mae, and Freddie Mac all predict that home sales will increase this year.** Much of this relates to the fact that, according to those same parties, mortgage rates are expected to remain low over the next two years, averaging around 3.8%.
+Buying a new house appears to be a very popular resolution this year, and that’s why home sales are projected to grow in 2020. Economists at Realtor.com say that housing remains a solid foundation for the U.S economy as we move farther into 2020. **The National Association of Realtors, the Mortgage Banker Association, Fannie Mae, and Freddie Mac all predict that home sales will increase this year.** Much of this relates to the fact that, according to those same parties, mortgage rates are expected to remain low over the next two years, averaging around 3.8%.
 
 What is the biggest issue that the housing market is expected to face in the coming year? **It’s an inventory shortage—there aren’t enough homes on the market for all the buyers**. Nationwide last year, there was a four-month supply of homes on the market; last month, there was a 3.9-month supply of homes; and today, there is only a 3.7-month supply available. In Louisville, however, the months of supply is down to around 1.5 months for homes priced between $100,000 and $300,000.
 
@@ -50,12 +50,12 @@ The market is certainly heating up in 2020.
 
 **Now that you know more about what to expect from the housing economy this coming year, I’d like to draw your attention to a very serious issue that children are facing here in Louisville and around the country, as well as solutions you can be a part of.**
 
-**Did you know that one in six kids struggle with access to food over the 65 hours of the weekend they’re not at school? To ensure that the kids in our area have full bellies over the weekend, Blessings In A Backpack is handing out some 400 meals at Englehart Elementary School every Friday.**
+Did you know that one in six kids struggle with access to food over the 65 hours of the weekend they’re not at school? To ensure that the kids in our area have full bellies over the weekend, Blessings In A Backpack is handing out some 400 meals at Englehart Elementary School every Friday.
 
-**Regina Jackson-Willis, the family resource center coordinator at the school, says, “Blessings In A Backpack is an amazing program. It helps to feed kids over the weekend who sometimes don’t have food to eat; when some of our students leave school each Friday, the lunch they had at school that day will be their last meal for the day.”**
+Regina Jackson-Willis, the family resource center coordinator at the school, says, “Blessings In A Backpack is an amazing program. It helps to feed kids over the weekend who sometimes don’t have food to eat; when some of our students leave school each Friday, the lunch they had at school that day will be their last meal for the day.”
 
-**That’s why some of our agents from the Sokoler Team, along with some of the members of the University of Louisville softball team, volunteer early in the morning to help fill those backpacks.**
+That’s why some of our agents from the Sokoler Team, along with some of the members of the University of Louisville softball team, volunteer early in the morning to help fill those backpacks.
 
-**Blessings In A Backpack is always looking for donations and help. If you can donate money or time to helping with this amazing and important donation service, visit**[**www.BlessingsinaBackpack.org**](http://www.blessingsinabackpack.org) **to find out more information.**
+**Blessings In A Backpack is always looking for donations and help.** If you can donate money or time to helping with this amazing and important donation service, visit&nbsp;[www.BlessingsinaBackpack.org](http://www.blessingsinabackpack.org) to find out more information.
 
 In the meantime, if you have any questions about the housing market or real estate in general, please don’t hesitate to reach out to us. The Sokoler Team has 25 agents ready to help you.
