@@ -39,6 +39,6 @@ youtube_code: hPKDeGv2M04
 
 **7\. Go live on the market**. This is when your home becomes available for sale and it’s when all the preparation should pay off.
 
-**8\. High five**. Because you're taking advantage of the spring market, the best time to sell for top dollar.
+**8\. High five\!**&nbsp;Because you're taking advantage of the spring market, the best time to sell for top dollar.
 
 If you have any questions for us, don’t hesitate to reach out via phone or email today. We look forward to hearing from you.
