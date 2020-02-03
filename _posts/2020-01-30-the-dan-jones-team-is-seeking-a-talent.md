@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Dan Jones Team Is Seeking A+ Talent
+title: Carolina Real Estate Experts Is Seeking A+ Talent
 date: 2020-01-30 23:06:57
 tags:
   - We're Hiring
