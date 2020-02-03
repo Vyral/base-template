@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Should you use the builder’s preferred lender when buying new construction?
   The answer depends.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Is+Using+the+Builders+Lender+Your+Best+Option_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
