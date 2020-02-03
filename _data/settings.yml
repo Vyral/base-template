@@ -1,123 +1,139 @@
 audit_header: false
 title: Mortgage Minute Video Blog with Manny Gomes
-description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.'
+description: >-
+  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
+  real estate advice. Whether you are a buyer, seller, or investor, our team of
+  professionals can answer any questions you might have about real estate. If
+  you are looking to buy or sell a home, you can get all the information and the
+  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
+  professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
     url:
-
-emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809867';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
-
+emma_form: >-
+  <script
+  id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809867';</script><script
+  src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 client:
   name: Manny Gomes
   license_number: NMLS 105339
-  about_markdown: |
-    I graduated from Southern Connecticut State University with a degree in finance. I use my knowledge in finance to help my borrowers make smart decisions about what type of loans they should consider. I go beyond simply quoting a rate. I dive deep with my clients to ensure that the end monthly payment fits into their short and long term financial goals. The advice and service that I provide has led my business to be almost 100% by referrals from top Real Estate Agents, Financial Planners and my past clients. I have won the Connecticut Five Star Service Award for the past 4 years and have recently been recognized by Mortgage Professionals Magazine as one of the top rising stars in the mortgage industry.
+  about_markdown: >
+    I graduated from Southern Connecticut State University with a degree in
+    finance. I use my knowledge in finance to help my borrowers make smart
+    decisions about what type of loans they should consider. I go beyond simply
+    quoting a rate. I dive deep with my clients to ensure that the end monthly
+    payment fits into their short and long term financial goals. The advice and
+    service that I provide has led my business to be almost 100% by referrals
+    from top Real Estate Agents, Financial Planners and my past clients. I have
+    won the Connecticut Five Star Service Award for the past 4 years and have
+    recently been recognized by Mortgage Professionals Magazine as one of the
+    top rising stars in the mortgage industry.
   market:
   brand: Guaranteed Rate
   brokerage:
-  address: 264 Riverside Ave, 2nd Floor, Westport, CT 06880
+  address: '264 Riverside Ave, 2nd Floor, Westport, CT 06880'
   phone: 203-673-2131
   phone_type:
   phone2:
   phone2_type:
   email: manny.gomes@rate.com
-  url: https://www.guaranteedrate.com/loan-expert/mannygomes
-
+  url: 'https://www.guaranteedrate.com/loan-expert/mannygomes'
 CTAs:
   first_CTA_text: Apply Today
-  first_CTA_URL: https://app.guaranteedrate.com/#/start
+  first_CTA_URL: 'https://app.guaranteedrate.com/#/start'
   second_CTA_text: Check Out My Reviews
-  second_CTA_URL: https://www.zillow.com/lender-profile/Manny%20Gomes/
-
+  second_CTA_URL: 'https://www.zillow.com/lender-profile/Manny%20Gomes/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "Find the Perfect Loan For You "
-    CTA_text: "With just a few easy clicks"
-    CTA_link_text: "Apply Today"
-    CTA_url: https://app.guaranteedrate.com/#/start
-
+    CTA_title: Find the Perfect Loan For You
+    CTA_text: With just a few easy clicks
+    CTA_link_text: Apply Today
+    CTA_url: 'https://app.guaranteedrate.com/#/start'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Check Out My Reviews on Zillow"
-    CTA_text2: "See what our customers have to say"
-    CTA_link_text2: "My Reviews"
-    CTA_url2: https://www.zillow.com/lender-profile/Manny%20Gomes/
-
+    CTA_title2: Check Out My Reviews on Zillow
+    CTA_text2: See what our customers have to say
+    CTA_link_text2: My Reviews
+    CTA_url2: 'https://www.zillow.com/lender-profile/Manny%20Gomes/'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real estate
-    advice. Whether you are a buyer, seller, or investor, our team of
+    Our mission at -- CLIENT BRAND -- is to be your best resource for real
+    estate advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
-
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/MannyMortgage
-  linkedin_url: https://www.linkedin.com/in/manny-gomes-11321392/
-  gplus_url: https://plus.google.com/+Guaranteedrate
-  youtube_url: http://www.youtube.com/guaranteedrateinc
-  twitter_url: https://twitter.com/mannygomes1
+  facebook_url: 'https://www.facebook.com/MannyMortgage'
+  linkedin_url: 'https://www.linkedin.com/in/manny-gomes-11321392/'
+  gplus_url: 'https://plus.google.com/+Guaranteedrate'
+  youtube_url: 'http://www.youtube.com/guaranteedrateinc'
+  twitter_url: 'https://twitter.com/mannygomes1'
   instagram_url:
   pinterest_url:
-  zillow_url: https://www.zillow.com/lender-profile/Manny%20Gomes/
+  zillow_url: 'https://www.zillow.com/lender-profile/Manny%20Gomes/'
   trulia_url:
   yelp_url:
-  podcast_url: https://itunes.apple.com/us/podcast/mortgage-with-manny-gomes/id1376619741?mt=2
-
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/mortgage-with-manny-gomes/id1376619741?mt=2
 podcast:
   title: '-- MARKET -- Mortgage with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Mortgage Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Manny Gomes'
-  keywords: 'Mortgage,, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Mortgage Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Manny Gomes
+  keywords: >-
+    Mortgage,, top real estate agents, local real estate agents, find a real
+    estate agent, houses for sale in -- MARKET --, home selling tips, home for
+    sale, home buying, home buying process, property finder, property search,
+    property, real estate market, estate agent, realestate, real estate
+    listings, buying a house, homes for sale, mls, home buyer
   author: '-- CLIENT NAME --'
-
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/mannygomesheadshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Manny Gomes's Mortgage Video Blog
-  hero_background_hex: '#999'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#D3313A'
-  theme_color: '#56585A'
+  brand_color: '#d3313a'
+  theme_color: '#56585a'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 2px
   w_shadow: 2px
   shadow_spread: 4px
-  shadow_color: white
-
+  shadow_color: '#ffffff'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
