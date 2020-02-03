@@ -5,7 +5,8 @@ date: 2020-01-27 00:00:00
 tags:
   - Real Estate
 excerpt: We’re sharing the importance of doing a regular financial check-up.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/You+Need+a+Financial+Check-Up.mp4
 pullquote: >-
   You should be taking stock of where your money is and how it’s working for
   you.
