@@ -20,9 +20,8 @@ youtube_code: 1m82Jo_8ZmE
 
 {% include youtube.html %}
 
-*In today’s message, I’ll first share what economists are predicting for the 2020 housing market before I introduce you to the wonderful cause that Blessings In A Backpack champions in our community.*
-
-[https://www.blessingsinabackpack.org/](https://www.blessingsinabackpack.org/){: target="_blank"}
+<p style="text-align: center;"><em>*In today’s message, I’ll first share what economists are predicting for the 2020 housing market before I introduce you to the wonderful cause that Blessings In A Backpack champions in our community.*</em></p>
+<p style="text-align: center;"><em>[https://www.blessingsinabackpack.org/](https://www.blessingsinabackpack.org/){: target="_blank"}</em></p>
 
 Here’s what’s happening in both the Louisville and Southern Indiana real estate markets:
 
