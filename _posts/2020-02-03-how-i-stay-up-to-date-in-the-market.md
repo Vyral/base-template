@@ -21,7 +21,7 @@ youtube_code: xm5YsNpub5s
 
 {% include youtube.html %}
 
-How do we keep up to date in the real estate market? Today I’m discussing the yearly conference I attend to do just that.
+<p style="text-align: center;"><em>How do we keep up to date in the real estate market? Today I’m discussing the yearly conference I attend to do just that.</em></p>
 
 One question that has come up a lot lately is how I stay up to date on what’s happening in the market. **We’re continually exploring ways to keep improving, changing, and updating** with new trends and technology.&nbsp;
 
