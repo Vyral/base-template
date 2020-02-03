@@ -17,7 +17,7 @@ youtube_code: 9wiFHDtGdy0
 
 {% include youtube.html %}
 
-I’m sharing five important tips to know when buying a new construction home.
+<p style="text-align: center;"><em>I’m sharing five important tips to know when buying a new construction home.</em></p>
 
 Today I’m discussing five things every homebuyer needs to know about the new construction home buying process. **This is a different process than going out and looking at an array of homes and picking an existing house** and writing an offer on it.&nbsp;
 
