@@ -21,7 +21,7 @@ youtube_code: k09E6a9s1Ws
 
 We’re several weeks into 2020, so let’s talk about our New Year’s resolutions.
 
-Now is about the time that people’s New Year’s Resolutions start to fail, but why do they fail at all? I’ve been thinking a lot about this lately, and today I’ll share my conclusions.
+Now is about the time that people’s New Year’s resolutions start to fail, but why do they fail at all? I’ve been thinking a lot about this lately, and today I’ll share my conclusions.
 
 Resolutions fail for two reasons: 1) you weren’t properly motivated, and 2) we want instant gratification.
 
@@ -47,8 +47,8 @@ Giving up before you see results is a great way to never achieve your goals. If 
 
 His name was Will Sanborn; I ran cross-country with him in high school. I admire him because he came in last place every single race. I was an average to above-average cross-country runner, but I came from a small high school, so I always placed.&nbsp; It was easy for me to run because I always scored for the team.
 
-But when you consistently come in last, it’s hard to get up every day and run that race. But Will did, and he got better and better each time he did. I still admire him to this day for keeping at it.&nbsp;
+When you consistently come in last, it’s hard to get up every day and run that race. However, Will did, and he got better and better each time he did. I still admire him to this day for keeping at it.&nbsp;
 
-If you want to achieve your New Year’s resolutions, remember that i**t’s all about showing up consistently and doing small, incremental things to get better so you can achieve a goal that’s meaningful to you.** I’ve got a whole list of goals I’m working on, and I hope you are too.
+If you want to achieve your New Year’s resolutions, remember that **it’s all about showing up consistently and doing small, incremental things to get better so you can achieve a goal that’s meaningful to you.** I’ve got a whole list of goals I’m working on, and I hope you are too.
 
-Sharing your goals can also help you achieve success, so feel free to reach out to me and tell me all about what you’re striving for and how you’re working to get there. In the meantime, don’t hesitate to contact us with any questions you have. Here’s to your continued success in 2020\!
+Sharing your goals can also help you achieve success, so feel free to reach out to me about what you’re striving for and how you’re working to get there. In the meantime, don’t hesitate to contact us with any questions you have. Here’s to your continued success in 2020\!
