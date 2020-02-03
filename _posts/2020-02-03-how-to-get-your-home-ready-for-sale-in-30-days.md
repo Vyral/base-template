@@ -19,7 +19,7 @@ youtube_code: hPKDeGv2M04
 
 {% include youtube.html %}
 
-<center><em>It’s possible to get your home ready for sale in less than a month. Here’s how you can do it.</em></center>
+<center><em>It&rsquo;s possible to get your home ready for sale in less than a month. Here&rsquo;s how you can do it.</em></center>
 
 <br>If you’ve thought about selling your home this spring, you only have about 30 more days before it hits. However, we have good news. We can help you prepare for this crazy market in less than 30 days. **Here’s what you need to do:**
 
