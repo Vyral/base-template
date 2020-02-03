@@ -20,7 +20,7 @@ youtube_code: 7BS6K_VCrV0
 
 {% include youtube.html %}
 
-If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.
+<p style="text-align: center;"><em>If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.</em></p>
 
 I’m back once again with Max Wilker, the Style Director for Better Homes and Gardens. This time, he’s here to give us some quick tips on freshening up your home decor to help maximize your sale price.
 
