@@ -19,7 +19,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.
+<p style="text-align: center;"><em>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</em></p>
 
 I’ve got a quick market recap for you today on what we saw in the real estate world in 2019 and what we can expect in 2020.
 
