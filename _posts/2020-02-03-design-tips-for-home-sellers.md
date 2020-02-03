@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Design Tips for Home Sellers
-date: 2020-02-03 16:09:46
+date: 2020-02-03 16:09:00
 tags:
   - Real Estate
 excerpt: >-
