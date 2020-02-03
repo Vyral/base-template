@@ -12,14 +12,14 @@ enclosure: >-
 pullquote: '2019 ended as a strong, stable market.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2019-recap-youtube.jpg
+youtube_code: ytQiSG6YrCI
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</em></p>
+*Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.*
 
 I’ve got a quick market recap for you today on what we saw in the real estate world in 2019 and what we can expect in 2020.
 
