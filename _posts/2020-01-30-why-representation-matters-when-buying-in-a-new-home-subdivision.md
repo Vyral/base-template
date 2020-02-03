@@ -8,7 +8,7 @@ excerpt: >-
   Is it important to be represented by an agent when buying in a new home
   subdivision? Yes, and here’s why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2020/Valley+of+the+Sun+Real+Estate+Agent-+Should+You+Be+Represented+in+New+Home+Subdivision_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2020/Valley+of+the+Sun+Real+Estate+Agent-+SOI+edit+January+2.mp4
 pullquote: >-
   With our connections, we were able to find him a house in Sterling Ridge, a
   subdivision in Surprise, Arizona that’s not even open to the public.
