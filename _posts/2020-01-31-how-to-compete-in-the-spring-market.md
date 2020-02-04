@@ -11,7 +11,7 @@ pullquote: 'We can help you become a stronger buyer, no matter your situation.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/spring-market-youtube.jpg
+youtube_alternate_image: /uploads/spring-market-youtube-02-1.jpg
 youtube_code: ktYeuDnIiwE
 ---
 
