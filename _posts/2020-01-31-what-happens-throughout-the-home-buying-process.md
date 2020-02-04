@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Ever wonder what the home buying process is like? Here’s a general outline of
   what you’ll experience.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/What+Happens+Throughout+the+Home+Buying+Process.mp4
 pullquote: >-
   We analyze your needs, find out what you’re looking for, and establish a
   working relationship.
