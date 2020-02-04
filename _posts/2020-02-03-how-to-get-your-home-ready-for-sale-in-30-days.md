@@ -23,13 +23,13 @@ youtube_code: hPKDeGv2M04
 
 <br>If you’ve thought about selling your home this spring, you only have about 30 more days before it hits. However, we have good news. We can help you prepare for this crazy market in less than 30 days. **Here’s what you need to do:**
 
-**1\. Call us immediately**. We’ll make ourselves available as fast as possible to come take a look at your home and talk about what the process would look like.
+**1\. Call us immediately**. We’ll make ourselves available as fast as possible to come take a look at your home and talk about what the process would be.
 
-**2\. Speak with a lender**. If you’re going to be buying a new home, it’s important to meet with a lender about the type of home you're looking to buy and what those financials look like.
+**2\. Speak with a lender**. If you’re going to be buying a new home, it’s important to meet with a lender about the type of home you're looking to buy and what the financials will be.
 
-**3\. Listing consultation**. This is where we come out to build out the strategies to show you what you need to do to complete the process as quickly as possible.
+**3\. Listing consultation**. This is where we meet with you and build a strategy around what you need to do to complete the process as quickly as possible.
 
-**4\. Staging consultation**. This involves meeting with our interior designer about how we’ll position your home on the market and what we need to do to bring it up to market.
+**4\. Staging consultation**. This involves meeting with our interior designer, deciding how we'll position the home on the market, and what we need to do before it's listed.
 
 {% include pullquote.html %}
 
