@@ -24,6 +24,6 @@ youtube_code: 7fcgVTBORNc
 
 **Here’s an outline of the discussion, with timestamps so that you can skip around to the section(s) that interest you most:**
 
-0:30 - A quick update on the North County real estate market<br>1:25 - Talking about Everyday Encinitas and the experiences we’ve had with it<br>3:30 - The difference between a seller’s market and a strong seller’s market<br>5:30 - A few reasons why inventory has been so low in our market lately<br>6:10 - Wrapping things up
+0:30 - A quick update on the North County real estate market<br>1:25 - Talking about Everyday Encinitas and the experiences we’ve had with it<br>3:30 - The difference between a seller’s market and a *strong* seller’s market<br>5:30 - A few reasons why inventory has been so low in our market lately<br>6:10 - Wrapping things up
 
 If you have questions for me about anything I discussed in the video above, feel free to reach out via phone or email today. I look forward to hearing from you.
