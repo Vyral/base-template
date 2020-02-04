@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Install an Electric Charging System in Your Condo Parking Space?
-date:
+date: 2020-02-04 21:53:13
 tags:
   - Real Estate
 excerpt: >-
