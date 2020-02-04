@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Market Update: Why Home Prices Are Increasing'
-date: 2020-02-03 21:59:31
+date: 2020-02-03 21:59:00
 tags:
 excerpt: >-
   Here’s the picture that the latest stats are painting for our real estate
@@ -27,6 +27,6 @@ Other sellers have decided to take cash out and put it toward a remodel of their
 
 As of the recording of this video, interest rates are sitting around 3.55% for a 30-year fixed-rate mortgage. Compare that to November 2018, when 5.05% interest rates shocked many. When you factor in the payments based on today’s historically low rates, **homes have actually become 20% to 25% less expensive.&nbsp;**
 
-Since the low rates mean home buyers can afford a lot more house, it’s not surprising that the numbers show demand is up 19%. Inventory in the price range below $1 million, however, is down 34%. **This combo results in higher home prices for most homes.&nbsp;**
+Since the low rates mean homebuyers can afford a lot more house, it’s not surprising that the numbers show demand is up 19%. Inventory in the price range below $1 million, however, is down 34%. **This combo results in higher home prices for most homes.&nbsp;**
 
 We know that everyone’s situation is different; our goal is to continue to provide helpful information, no matter your real estate goals. If you’re looking to buy, sell, or invest, or you know someone who is, please feel free to reach out to us. We’re always glad to hear from you and help in whatever way we can.&nbsp;<br>&nbsp;
