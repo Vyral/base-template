@@ -18,7 +18,7 @@ youtube_code: 7fcgVTBORNc
 
 {% include youtube.html %}
 
-<center><em>I recently appeared on “Inside the Masterminds” with Valli Williams, and I wanted to share the full segment with you today.</em></center>
+<center><em>I recently appeared on &ldquo;Inside the Masterminds&rdquo; with Valli Williams, and I wanted to share the full segment with you today.</em></center>
 
 <br>On the latest episode of “Inside the Masterminds” with Valli Williams, I joined the program to talk about several different topics including my journey in real estate, the current state of the real estate market, and more.
 
