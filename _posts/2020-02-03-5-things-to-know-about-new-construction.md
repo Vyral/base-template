@@ -19,7 +19,7 @@ youtube_code: 9wiFHDtGdy0
 
 <p style="text-align: center;"><em>I’m sharing five important tips to know when buying a new construction home.</em></p>
 
-Today I’m discussing five things every homebuyer needs to know about the new construction home buying process. **This is a different process than going out and looking at an array of homes and picking an existing house** and writing an offer on it.&nbsp;
+The new construction home buying process **is a different process than going out and to look at an array of homes, picking an existing house**, and writing an offer on it.&nbsp;
 
 We’ve been looking at the data from Zillow from 2019 about who is buying new construction homes, how old they are, and so on. In 2019, 73% of homebuyers were employed, 16% were retired, and 11% were unemployed or students. Nearly half of those buying new homes were parents. Another interesting figure is income: 17% made less than $50,000, 31% made $50,000 to $99,000, and 53% earned over $100,000.
 
