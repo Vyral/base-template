@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   It’s possible to get your home ready for sale in less than a month. Here’s how
   you can do it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/How+to+Get+Your+Home+Ready+for+Sale+in+30+Days.mp4
 pullquote: Professional photos will ensure your home shines online.
 enclosure_type: video/mp4
 enclosure_time:
