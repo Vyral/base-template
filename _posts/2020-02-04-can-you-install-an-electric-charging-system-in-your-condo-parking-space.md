@@ -21,7 +21,8 @@ youtube_code: amD16NzghoQ
 
 {% include youtube.html %}
 
-*In California, HOAs can’t unreasonably restrict condo owners from installing electric vehicle charging stations in their parking spaces.*
+<p style="text-align: center;"><em>In California, HOAs can’t unreasonably restrict condo owners from installing electric vehicle charging stations in their parking spaces.</em></p>
+
 
 If you’re thinking of buying a condo, can you install an electric vehicle charging system in your parking space after you’ve purchased the property?
 
