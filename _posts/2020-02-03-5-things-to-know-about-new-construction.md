@@ -35,7 +35,7 @@ No matter where you are in the country, the following five tips will save you an
 
 **4\. Builders do not have a personal attachment to the home.** You may wonder why they won’t negotiate with you, but generally, the price advertised is the price; there is very rarely a ‘make an offer’ option. Their list price is based on the actual cost of materials and labor, plus market value of the land, plus reasonable markup for profit. This is business for them, so they’re running by numbers and spreadsheets. And often very thin margins.&nbsp;
 
-**5\. Some of the best discounts can be in an upgrade.** Check with the builder, find out what kind of incentives are being offered.&nbsp;
+**5\. Some of the best discounts can be in upgrades.** Check with the builder, find out what kind of incentives are being offered.&nbsp;
 
 You need to work with an <a href="http://stgeorgehomesearching.com/" target=_"blank">exceptional agent</a> who can show you all the best neighborhoods, and we can do that for you. If you have questions about the home buying process, new construction, the financing process, or anything else concerning real estate, please reach out to us. We would love to help you. Have a happy 2020\!
 
