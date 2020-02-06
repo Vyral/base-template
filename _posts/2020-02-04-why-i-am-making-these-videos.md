@@ -24,18 +24,18 @@ Today I’m going to talk about why I make these videos. Why am I putting myself
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
-0:20: Introduction to today’s topic
+0:20—Introduction to today’s topic
 
-1:15: What I realized after working in the real estate industry for a while
+1:15—What I realized after working in the real estate industry for a while
 
-2:45: What happened when I moved to eXp Realty
+2:45—What happened when I moved to eXp Realty
 
-4:05: High-producing agents aren’t that different than agents just beginning
+4:05—High-producing agents aren’t that different than agents just beginning
 
-5:30: Why anonymous complaints are weaponizing and why we may be getting rid of them
+5:30—Why anonymous complaints are weaponizing and why we may be getting rid of them
 
-11:45: I want to give back and protect other agents
+11:45—I want to give back and protect other agents
 
-13:30: Wrapping up today’s topic&nbsp;
+13:30—Wrapping up today’s topic&nbsp;
 
 Please, get involved with the real estate community—**give back to other Realtors.** If you have any questions about the topics covered in today’s message, feel free to call or email me. I would love to speak with you.
