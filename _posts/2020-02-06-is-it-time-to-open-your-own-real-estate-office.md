@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is it Time to Open Your Own Real Estate Office?
-date:
+date: 2020-02-06 14:06:57
 tags:
 excerpt: >-
   Today, I’m asking YOU a question: Is it time that you considered opening your
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/gray-youtube-3-1.jpg
 youtube_code: hGCFHg_6B7g
 ---
 
-{% include youtube.html %}<center>Today, I’m asking YOU a question: Is it time that you considered opening your own real estate office?</center>
+{% include youtube.html %}
+
+<center>Today, I&rsquo;m asking YOU a question: Is it time that you considered opening your own real estate office?</center>
+
+&nbsp;
 
 Perhaps you’ve observed that there’s a natural progression in the real estate industry: An agent gets their real estate license, they start closing a few deals, they get productive, they become overwhelmed by business, and then they start building a team—a buyer’s agent, an administrative assistant, a listing specialist, and so on.
 
