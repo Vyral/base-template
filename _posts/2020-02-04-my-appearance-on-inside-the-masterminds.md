@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently appeared on “Inside the Masterminds” with Valli Williams, and I
   wanted to share the full segment with you today.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/My+Appearance+on+Inside+the+Masterminds.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
