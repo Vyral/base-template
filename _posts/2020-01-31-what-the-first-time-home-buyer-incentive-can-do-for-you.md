@@ -29,6 +29,4 @@ youtube_code: OfJ0xByr9Is
 
 <p style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Assets/Anita+Example.jpg" width="305" height="595"></p>
 
-<center>[](/uploads/anita-example.jpg){: width="305" height="595"}
-
 Be sure to <u><a target="_blank" href="https://www.placetocallhome.ca/fthbi/first-time-homebuyer-incentive">check out the First-Time Home Buyer Incentive here</a></u>&nbsp;if you have questions. For more information, don’t hesitate to call or email me. I’d be happy to help.
