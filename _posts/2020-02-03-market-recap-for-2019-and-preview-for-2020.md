@@ -19,7 +19,7 @@ youtube_code: ytQiSG6YrCI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</em></p>
+*Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.*
 
 I’ve got a quick market recap for you today on what we saw in the real estate world in 2019 and what we can expect in 2020.
 
@@ -27,8 +27,8 @@ I’ve got a quick market recap for you today on what we saw in the real estate 
 
 {% include pullquote.html %}
 
-**The other important data point we track is the inventory.** We’ve seen it remain stable, but our level of inventory still technically has us in a seller’s market, but as we slow down a bit, things have become a bit better for buyers, especially with the low interest rates we’ve had for the last few years.
+**The other important data point we track is the inventory.** We’ve seen it remain stable, but our level of inventory still technically has us in a seller’s market. As we slow down a bit, things have become a bit better for buyers, especially with the low interest rates we’ve had for the last few years.
 
-Overall, 2019 ended as a strong, stable market. As we look forward to 2020, the data indicates that we should see a little bit more of the same. **The market won’t be too strong in either direction and should remain pretty balanced.** There’s no reason to hold back if the time is right for you to buy or sell a home.
+Overall, 2019 ended as a strong, stable market. As we look forward to 2020, the data indicates that we should see more of the same. **The market won’t be too strong in either direction and should remain pretty balanced.** There’s no reason to hold back if the time is right for you to buy or sell a home.
 
 If you have any other questions for us, feel free to give us a call or send us an email. I look forward to hearing from you soon.
