@@ -19,7 +19,7 @@ youtube_code: sWiMePvJuYM
 
 <p style="text-align: center;"><em>This is a quick reminder about our seller’s seminar on February 8.</em></p>
 
-Thank you for signing up for our seller’s seminar\! We’re just sending a reminder about this event since we have limited seating. **The seminar is on Saturday, February 8 from 11 a.m. to 2 p.m.** We will be providing lunch. We will also supply a pencil and a pad of paper for you to take notes on.&nbsp;
+Thank you for signing up for our seller’s seminar\! We’re just sending a reminder about this event since we have limited seating. **The seminar is on Saturday, February 8, from 11 a.m. to 2 p.m.** We will be providing lunch. We will also supply a pencil and a pad of paper for you to take notes on.&nbsp;
 
 If for some reason you can’t make it, please call and let us know. Remember, we only do this seminar once a year, and others may want to take your place. We have much to teach you. We look forward to seeing you there.
 
