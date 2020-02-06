@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Important Announcement About My Future
-date:
+date: 2020-02-06 18:35:50
 tags:
   - Real Estate
 excerpt: >-
