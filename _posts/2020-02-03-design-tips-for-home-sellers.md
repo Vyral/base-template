@@ -14,13 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-the-latest-design-trends-youtube.jpg
-youtube_code: 7BS6K_VCrV0
+youtube_code: e-xaCbdDKsU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.</em></p>
-
+*If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.*
 
 I’m back once again with Max Wilker, the Style Director for Better Homes and Gardens. This time, he’s here to give us some quick tips on freshening up your home decor to help maximize your sale price.
 
