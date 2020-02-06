@@ -27,6 +27,6 @@ youtube_code: OfJ0xByr9Is
 
 1:09 - The goal behind this program<br>2:03 - Who it’s intended to help<br>2:59 - How the government shares in the upside and downside of the property value<br>4:41 - Potential pitfalls<br>7:41 - The criteria for qualifying<br>9:27 - Wrapping things up
 
-<p style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Assets/Anita+Example.jpg" width="305" height="595"></p>
+<p style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Assets/Anita+Example.jpg" width="356" height="695"></p>
 
 Be sure to <u><a target="_blank" href="https://www.placetocallhome.ca/fthbi/first-time-homebuyer-incentive">check out the First-Time Home Buyer Incentive here</a></u>&nbsp;if you have questions. For more information, don’t hesitate to call or email me. I’d be happy to help.
