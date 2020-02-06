@@ -1,7 +1,7 @@
 ---
 layout: post
-title:
-date: 2020-02-06 21:09:54
+title: Do You Want a Cash Offer?
+date: 2020-02-06 21:09:00
 tags:
 excerpt: >-
   We’re proud to announce that we listed to our clients, we will now be
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: Eu34YzI5WaA
 ---
 
 {% include youtube.html %}
