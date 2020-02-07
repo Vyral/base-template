@@ -19,7 +19,9 @@ youtube_code: A4xqHKSSz7A
 
 {% include youtube.html %}
 
-Many people wonder whether they need a real estate agent when buying a new construction home. The short answer is “yes,” and here are three reasons why:
+<center><em>Everyone should have an agent when buying a new construction home. Here are three reasons why.</em></center>
+
+<br>Many people wonder whether they need a real estate agent when buying a new construction home. The short answer is “yes,” and here are three reasons why:
 
 **1\. The agents you speak to in the sales office work for the builder**. They’re looking out for the builder’s needs—not yours. Because of this, you need someone who can help your needs be met.
 
