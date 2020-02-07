@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/sikes-email-2.jpg
 youtube_code: YBMm0iWFa6E
 ---
 
-{% include youtube.html %} The way you paid mortgages and rents are different. Today we’ll discuss this.
+{% include youtube.html %}<center>The way you paid mortgages and rents are different. Today we’ll discuss this.</center>
 
 Today I’m discussing the difference between the way mortgages and rents are paid. Rent is paid in advance. For example, if you pay your rent on January 1, that rent applies to the entire month of January. Mortgages are the opposite. Your January mortgage payment won’t be due until February. **This knowledge comes in handy when moving from a place you’re renting to a home you’re buying.&nbsp;**
 
