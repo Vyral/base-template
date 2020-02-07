@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/steen-youtube-3.jpg
 youtube_code: PWLtMBUiuwg
 ---
 
-{% include youtube.html %}Having to buy and sell a home at the same time has been called the ‘catch-22’ of real estate. Here’s how we can help you solve that dilemma with ease.
+{% include youtube.html %}<center>Having to buy and sell a home at the same time has been called the ‘catch-22’ of real estate. Here’s how we can help you solve that dilemma with ease.</center>
 
 The question I’m answering today comes from clients who want to buy their next home and also need to sell their current one. They want to know, “How do I sell my home and buy the next one at the same time?” Here’s how we help our clients out every step of the way.
 
