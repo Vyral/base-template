@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why I Am Making These Videos
-date: 2020-02-04 22:02:18
+date: 2020-02-04 22:02:00
 tags:
   - Buyer Prospects
   - Transaction Management
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/why-am-i-doing-this-youtube.jpg
-youtube_code: nCpqWjMvoXg
+youtube_code: Axg7nROAEoM
 ---
 
 {% include youtube.html %}
