@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Is it Time to Open Your Own Real Estate Office?
-date: 2020-02-06 14:06:57
+date: 2020-02-06 14:06:00
 tags:
 excerpt: >-
-  Today, I’m asking YOU a question: Is it time that you considered opening your
+  Today, I’m asking you a question: Is it time that you considered opening your
   own real estate office?
 enclosure:
 pullquote: >-
@@ -19,7 +19,7 @@ youtube_code: hGCFHg_6B7g
 
 {% include youtube.html %}
 
-<center>Today, I&rsquo;m asking YOU a question: Is it time that you considered opening your own real estate office?</center>
+<center>Today, I&rsquo;m asking you a question: Is it time that you considered opening your own real estate office?</center>
 
 &nbsp;
 
@@ -37,7 +37,7 @@ If you’re a team leader who is thinking about taking the next step toward owni
 
 You provide the office space by either buying or leasing the building (in some cases, we’ve found financing partners to purchase the building for our Abby agents who were taking this leap) and someone at the front desk to greet clients as they come in, and **then Abby Realty will take care of the rest.**
 
-**We’ll provide all the tools, technology, training resources, back-office support, and brokerage oversight that your office needs**—all those things that can be a distraction to productivity—using an economic model that makes complete sense to us and you.
+**We’ll provide all the tools, technology, training resources, back-office support, and brokerage oversight that your office needs**—all those things that can be a distraction to productivity—using an economic model that makes complete sense.
 
 I’d love to share the details with you if you’re thinking about taking the leap toward owning your own office. Don’t hesitate to reach out to us at Abby Realty\! Let’s go there together.
 
