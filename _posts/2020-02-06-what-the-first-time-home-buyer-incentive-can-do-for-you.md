@@ -8,7 +8,7 @@ tags:
 excerpt: >-
   Why has the government allocated $1.2 billion toward this new home buying
   program?
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/What+the+First-Time+Home+Buyer+Incentive+Can+Do+for+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
