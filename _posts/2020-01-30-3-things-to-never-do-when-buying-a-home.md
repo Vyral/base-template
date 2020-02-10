@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are the three things you should never do when buying a home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Things+to+Never+Do+When+Buying+a+Home.mp4
 pullquote: We can’t do everything on your behalf.
 enclosure_type: video/mp4
 enclosure_time:
