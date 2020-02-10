@@ -6,7 +6,7 @@ tags:
   - Brand Ambassador
 excerpt: >-
   For the latest Brand Ambassador business spotlight, I’m speaking to Doug
-  Dellinger from LifeGuide Financial Advisors to learn more about how he helps
+  Denlinger from LifeGuide Financial Advisors to learn more about how he helps
   foster his clients’ financial success.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+LifeGuide+Q%26A.mp4
@@ -23,9 +23,9 @@ youtube_code: CW7RGKG4iuo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>For the latest Brand Ambassador business spotlight, I’m speaking to Doug Dellinger from LifeGuide Financial Advisors to learn more about how he helps foster his clients’ financial success.</em></p>
+<p style="text-align: center;"><em>For the latest Brand Ambassador business spotlight, I’m speaking to Doug Denlinger from LifeGuide Financial Advisors to learn more about how he helps foster his clients’ financial success.</em></p>
 
-Managing finances can be difficult and even overwhelming. As he was building up his firm, LifeGuide Financial Advisors, today’s brand ambassador Doug Dellinger strove to take out the hassle and confusion from his clients’ finances.&nbsp;
+Managing finances can be difficult and even overwhelming. As he was building up his firm, LifeGuide Financial Advisors, today’s brand ambassador Doug Denlinger strove to take out the hassle and confusion from his clients’ finances.&nbsp;
 
 **To do that, he helps to align their money, time, platform, and skills with what matters most to them so they can live the life they want.** Their services fall into two categories:
 
