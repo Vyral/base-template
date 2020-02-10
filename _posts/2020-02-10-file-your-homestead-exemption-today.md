@@ -1,7 +1,7 @@
 ---
 layout: post
 title: File Your Homestead Exemption Today
-date: 2020-02-10 21:41:36
+date: 2020-02-10 21:41:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/homestead-exemption-youtube.jpg
-youtube_code: DD7MNlQL9I8
+youtube_code: ZmokhtQP7WM
 ---
 
 {% include youtube.html %}
