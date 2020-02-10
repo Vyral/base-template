@@ -36,4 +36,4 @@ Here’s one more stat to think about: In 2010, 1,935 homes sold, and 40% of tho
 
 As you can see, we’re in a completely different market and economy now. If that average sale price increase is not a case for homeownership and real estate investment, I don’t know what is. What changes are in store for our market this decade? **I anticipate that real estate will continue to increase in value, and the way we shop for and view real estate will change as well.&nbsp;**
 
-If you have more questions about how our market has evolved in the past decade, or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
+If you have more questions about how our market has evolved in the past decade or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
