@@ -6,11 +6,17 @@ permalink: /morning-huddles/
 
 ## Morning Huddles
 
+<div class="morning-huddles"><strong>Ideas Worth Spreading- Trust Part 2</strong></div>
+
+<div class="morning-huddles">&nbsp;</div>
+
+<div class="morning-huddles">&nbsp;</div>
+
 <div class="morning-huddles">&nbsp;</div>
 
 **Ideas Worth Spreading- Trust Part 1**
 
-<div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/LxkG4bAmzEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/LxkG4bAmzEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
 **A Guide to a Successful Grand Open House**
 
