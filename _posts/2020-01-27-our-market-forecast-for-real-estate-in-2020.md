@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   What does 2020 hold for our real estate market? Here’s our market forecast for
   the year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Our+Market+Forecast+for+Real+Estate+in+2020.mp4
 pullquote: >-
   Since 2020 is an election year, we’ll likely experience some hesitancy in the
   real estate market.
