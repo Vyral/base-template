@@ -19,7 +19,7 @@ youtube_code: f5fwjMd_5j4
 
 {% include youtube.html %}
 
-A down payment can cost an arm and a leg, but not necessarily. Here’s the truth about your down payment options.
+<p style="text-align: center;"><em>A down payment can cost an arm and a leg, but not necessarily. Here’s the truth about your down payment options.</em></p>
 
 There’s a pervasive myth out there that says you need 20% down to buy a home. However, it’s simply not true. **There are many different down payment options, ranging from 0% down to 20% down or more.** It all depends on what fits your current needs.
 
