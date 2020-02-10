@@ -4,8 +4,6 @@ title: '2019: A Market Year in Review'
 tags:
   - Market Update
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
 excerpt: How did we wrap up 2019 in Wasatch Front real estate? Here are the details.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/Videos/2020/The+Stern+Team-+How+Did+2019+Wrap+Up_.mp4
@@ -15,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image: /uploads/joshstern.jpg
+youtube_alternate_image:
 youtube_code: l_FKp1is30I
 ---
 
