@@ -23,7 +23,7 @@ youtube_code: CW7RGKG4iuo
 
 {% include youtube.html %}
 
-For the latest Brand Ambassador business spotlight, I’m speaking to Doug Dellinger from LifeGuide Financial Advisors to learn more about how he helps foster his clients’ financial success.
+<p style="text-align: center;"><em>For the latest Brand Ambassador business spotlight, I’m speaking to Doug Dellinger from LifeGuide Financial Advisors to learn more about how he helps foster his clients’ financial success.</em></p>
 
 Managing finances can be difficult and even overwhelming. As he was building up his firm, LifeGuide Financial Advisors, today’s brand ambassador Doug Dellinger strove to take out the hassle and confusion from his clients’ finances.&nbsp;
 
