@@ -19,7 +19,9 @@ youtube_code: Qnl4oioB4U0
 
 {% include youtube.html %}
 
-There are certain circumstances that arise in someone’s life where they need to sell their home extremely fast. If you or someone you know is in a position like this, it’s important to know your options.
+<center><em>Selling a home to an iBuyer isn’t right for everyone, but it is right for some. Here are the pros and cons to this method.</em></center>
+
+<br>There are certain circumstances that arise in someone’s life where they need to sell their home extremely fast. If you or someone you know is in a position like this, it’s important to know your options.
 
 **There are companies, such as Zillow Offers, Opendoor, or Offerpad, who will buy your home very quickly if you need the money now**. Typically, these companies are set up to buy with cash and no contingencies, but sellers tend to leave a lot of money on the table this way.
 
