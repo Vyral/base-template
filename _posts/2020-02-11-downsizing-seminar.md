@@ -23,7 +23,7 @@ We’re hosting a downsizing seminar for sellers. If you’re considering moving
 
 {% include pullquote.html %}
 
-A financial adviser will be there to help answer any questions you may have, including about estate planning. An attorney will be present to answer any legal questions. We will also have agents, an accountant, a lender, and a stager there to help you with anything you need in this process. There is no obligation—you do not have to do any business with us, we simply want to help you.&nbsp;
+A financial adviser will be there to help answer any questions you may have, including about estate planning. An attorney will be present to answer any legal questions. We will also have agents, an accountant, a lender, a moving company and a stager there to help you with anything you need in this process. There is no obligation—you do not have to do any business with us, we simply want to help you.&nbsp;
 
 We have limited space, so this seminar is reserved for the first 30 couples that sign up. Call or email us to register. If you reserve a place, please show up, as there are many who would want your seats. If you need to cancel, please let us know immediately.&nbsp;
 
