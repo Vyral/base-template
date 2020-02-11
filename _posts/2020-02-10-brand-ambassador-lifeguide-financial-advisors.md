@@ -29,8 +29,8 @@ Managing finances can be difficult and even overwhelming. As he was building up 
 
 **To do that, he helps to align their money, time, platform, and skills with what matters most to them so they can live the life they want.** Their services fall into two categories:
 
-1. **Comprehensive life planning.** Doug and his team can help you assess where you currently are and what you feel you’re called to do, and then chart a course to get there.<br>&nbsp;
-2. **Comprehensive wealth management.** Once they create a plan, they help manage their client’s finances along the way. If their clients are the CEOs of their family, then the LifeGuide Financial Advisors are the CFOs. They help people make good decisions and avoid bad ones, essentially becoming an extension of their customer’s household to allow them to focus on living their lives to the fullest.
+**1. Comprehensive life planning.** Doug and his team can help you assess where you currently are and what you feel you’re called to do, and then chart a course to get there.<br>&nbsp;
+**2. Comprehensive wealth management.** Once they create a plan, they help manage their client’s finances along the way. If their clients are the CEOs of their family, then the LifeGuide Financial Advisors are the CFOs. They help people make good decisions and avoid bad ones, essentially becoming an extension of their customer’s household to allow them to focus on living their lives to the fullest.
 
 LifeGuide has a broad spectrum of clients here in Central Pennsylvania, serving over 600 families that range from those beginning their wealth-management process to those who have a multimillion-dollar net worth.
 
