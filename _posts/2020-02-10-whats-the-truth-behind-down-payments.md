@@ -23,7 +23,7 @@ youtube_code: f5fwjMd_5j4
 
 There’s a pervasive myth out there that says you need 20% down to buy a home. However, it’s simply not true. **There are many different down payment options, ranging from 0% down to 20% down or more.** It all depends on what fits your current needs.
 
-If you’re a first-time buyer who wants to keep as much cash in the bank as possible, a 0% or 3.5% down option is probably the best for you. If you’re a retiree who wants to have the lowest possible monthly payment and highest possibly equity, you probably want to put down 20% or more. Maybe you have a little saved up, but also want to keep some cash in the bank, then you’d go with the 5% or 10% option.
+If you’re a first-time buyer who wants to keep as much cash in the bank as possible, a 0% or 3.5% down option is probably the best for you. If you’re a retiree who wants to have the lowest possible monthly payment and highest possibly equity, you probably want to put down 20% or more. If you have a little saved up but also want to keep some cash in the bank, then you’d go with the 5% or 10% option.
 
 {% include pullquote.html %}
 
