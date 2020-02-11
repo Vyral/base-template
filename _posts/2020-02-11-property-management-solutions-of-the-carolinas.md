@@ -19,7 +19,7 @@ youtube_code: e0cWRVdw5Jc
 
 {% include youtube.html %}
 
-We’re excited to announce that we can now help you with property management as well as with real estate.
+<p style="text-align: center;"><em>We’re excited to announce that we can now help you with property management as well as with real estate.</em></p>
 
 We have some exciting news for you today\! We’ve been leasing and managing properties for a long time, and now we’re ready to open it up to all our friends, family, and the public.
 
