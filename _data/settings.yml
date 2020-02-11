@@ -47,7 +47,7 @@ emma_form: >-
   gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config',
   'UA-114707034-1');</script>
 CTAs:
-  first_CTA_text: Apply Online
+#     first_CTA_text: Apply Online
   first_CTA_URL: >-
     https://apply.guardianmortgageonline.com/signup?referrerId=TheBetzTeam@gmc-inc.com
   second_CTA_text: Request a Consultation
