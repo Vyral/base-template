@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Downsizing Seminar
-
-date: 2020-02-11 19:30:36
+date: 2020-02-11 19:30:00
 tags:
   - Real Estate
 excerpt: We’re hosting a downsizing seminar and you’re invited!
@@ -13,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/lee-youre-invited-to-our-downsizing-seminar-youtube.jpg
-youtube_code: IhNvEHD39U
+youtube_code: _IhNvEHD39U
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>We’re hosting a downsizing seminar and you’re invited!</em></p>
+*We’re hosting a downsizing seminar and you’re invited\!*
 
 We’re soon hosting a downsizing seminar for sellers. If you’re considering moving to a smaller space, whether that’s downsizing, to a retirement community, even out of state, we have the information you’ll need. **The seminar will be at Maryland Golf and Country Club at 1335 East Macphail Road, Bel Air, MD 21015.** We will provide dinner and drinks.&nbsp;
 
