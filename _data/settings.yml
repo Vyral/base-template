@@ -7,8 +7,6 @@ show_custom_links: true
 custom_links:
 #   - title: Value My Home
 #     url: /value-my-home/
-#   - title: Mortgage Mapp
-#     url: /mortgage-mapp/
   - title: Agent Training
     url: /agent-training
   - title: Meet the Team
@@ -31,14 +29,14 @@ client:
     [469-906-2522](tel:4699062522) to learn more.**
   market:
   brand: 'The Betz Team | NMLS # 280613'
-  brokerage: 'Nexa Mortgage'
-  address: '5910 North Central Expressway <br> Ste 725, Dallas, TX 75206'
+  brokerage: 'NEXA Mortgage, LLC.'
+  address: '4514 Cole Ave., Ste 600<br>Dallas, TX 75205'
   phone: (469) 906-2522
   phone_type: Direct
   phone2:
   phone2_type:
   email: TheBetzTeam@WinningWithWade.com
-  url: 'http://TheBetzTeam.com'
+  url: 'http://winningwithwade.com'
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808435';</script><script
