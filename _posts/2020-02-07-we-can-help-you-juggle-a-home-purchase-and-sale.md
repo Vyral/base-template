@@ -21,7 +21,7 @@ youtube_code: PWLtMBUiuwg
 
 &nbsp;
 
-The question I’m answering today comes from clients who want to buy their next home and also need to sell their current one. They want to know, “How do I sell my home and buy the next one at the same time?” Here’s how we help our clients out every step of the way.
+many clients want to know, “How do I sell my home and buy the next one at the same time?” Here’s how we help our clients out every step of the way.
 
 **There are two common ways that we typically go about it.** The first option is to sell your home first, and find temporary housing while you look for your next home. The second is a concurrent close, where your home sale closes at the same time as your purchase.
 
