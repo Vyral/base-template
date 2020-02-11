@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You’re Invited to Our Downsizing Seminar!
-date:
+date: 2020-02-11 19:30:36
 tags:
   - Real Estate
 excerpt: We’re hosting a downsizing seminar and you’re invited!
