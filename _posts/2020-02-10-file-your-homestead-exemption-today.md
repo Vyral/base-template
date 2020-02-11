@@ -23,7 +23,7 @@ youtube_code: ZmokhtQP7WM
 
 {% include youtube.html %}
 
-Today we’re discussing the homestead exemption. In the state of Florida, if a house is considered your primary residence, meaning you have lived or will live in that home for at least six months and one day out of that calendar year, **you’re entitled to particular tax savings, up to $50,000 off the assessed value of the home.** A homestead exemption can help you save hundreds of dollars off your property taxes each year. Remember: You cannot have a homestead exemption in two separate states, this only applies to one primary residence.&nbsp;
+Today we’re discussing the homestead exemption. In the state of Florida, if a house is considered your primary residence, meaning you have lived or will live in that home for at least six months and one day out of that calendar year, **you’re entitled to particular tax savings—up to $50,000 off the assessed value of the home.** A homestead exemption can help you save hundreds of dollars off your property taxes each year. Remember: You cannot have a homestead exemption in two separate states; this only applies to one primary residence.&nbsp;
 
 {% include pullquote.html %}
 
