@@ -23,6 +23,6 @@ youtube_code: e0cWRVdw5Jc
 
 We have some exciting news for you today\! We’ve been leasing and managing properties for a long time, and now we’re ready to open it up to all our friends, family, and the public.
 
-If you’ve been considering renting out or investing in a property but you don’t want to manage it, we have your solution. **Property Management Solutions of the Carolinas is officially open\!** Also, during the month of February, we’re offering six months of property management services.&nbsp;
+If you’ve been considering renting out or investing in a property but you don’t want to manage it, we have your solution. **Property Management Solutions of the Carolinas is officially open\!** Also, during the month of February, we’re offering six months of free property management services.&nbsp;
 
 If you’re interested or have any questions, give us a call or send us an email. We would love to speak with you.
