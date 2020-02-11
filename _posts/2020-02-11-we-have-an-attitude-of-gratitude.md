@@ -9,7 +9,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/love-from-us-youtube.jpg
-youtube_code: 'https://youtu.be/iOaB31zeXxI'
+youtube_code: 'https://youtu.be/OlJKx1rcWqM'
 ---
 
 {% include youtube.html %}
