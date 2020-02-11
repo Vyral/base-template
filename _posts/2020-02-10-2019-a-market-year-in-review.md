@@ -21,11 +21,15 @@ youtube_code: l_FKp1is30I
 
 **Here are the numbers from the Wasatch Front in 2019:**
 
-* Single-family home sales: 38,024
-* Condo and townhome sales: 10,305&nbsp;
-* Average home price: $376,000 (a 7% year-over-year increase)
-* Average days on market: 51 (a 16% year-over-year increase)
-* Absorption rate: 4 months (a 20% year-over-year increase)
+\- Single-family home sales: 38,024
+
+\- Condo and townhome sales: 10,305&nbsp;
+
+\- Average home price: $376,000 (a 7% year-over-year increase)
+
+\- Average days on market: 51 (a 16% year-over-year increase)
+
+\- Absorption rate: 4 months (a 20% year-over-year increase)
 
 The law of supply and demand, which drives all economies, says that if the supply is down and the demand is up, then prices go up. We’ve had a pretty good ride in terms of home price increases across the Wasatch Front over the last six years.
 
