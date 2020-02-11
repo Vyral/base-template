@@ -1,6 +1,7 @@
 ---
 layout: post
-title: You’re Invited to Our Downsizing Seminar!
+title: Downsizing Seminar
+
 date: 2020-02-11 19:30:36
 tags:
   - Real Estate
