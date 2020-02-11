@@ -31,6 +31,8 @@ youtube_code: l_FKp1is30I
 
 \- Absorption rate: 4 months (a 20% year-over-year increase)
 
+&nbsp;
+
 The law of supply and demand, which drives all economies, says that if the supply is down and the demand is up, then prices go up. We’ve had a pretty good ride in terms of home price increases across the Wasatch Front over the last six years.
 
 {% include pullquote.html %}
