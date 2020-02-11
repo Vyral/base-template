@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Predictions for 2020
-date: 2020-02-10 17:30:27
+date: 2020-02-10 17:30:00
 tags:
   - Market Update
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   in 2020.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2020/February/Predictions+for+2020.mp4
-pullquote: The most active price points are always the entry-level homes.
+pullquote: 'We expect 2020 to be a strong, positive year.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,7 +21,7 @@ youtube_code: OZgfBBHIMVk
 
 We’re expecting 2020 to bring us more of a balanced market, as we’re already seeing some inventory levels rise and more sellers prepare their homes for sale—more so than last year at this time.&nbsp;
 
-There’s been three straight years of a low inventory market, but with the amount of sellers that we’re seeing prepare for this year’s spring, things may be slightly different.&nbsp;
+There have been three straight years of a low inventory market, but with the number of sellers that we’re seeing prepare for this year’s spring, things may be slightly different.&nbsp;
 
 The prediction for 2020 (especially as we were heading into the 2019 holidays) was that there would be higher sales and lower interest rates. Of course, economic conditions always play a factor, so we can never be certain, but so far **low rates and higher sales remain in the forecast.&nbsp;**
 
