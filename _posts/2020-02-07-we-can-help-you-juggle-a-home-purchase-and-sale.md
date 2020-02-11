@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Can Help You Juggle a Home Purchase and Sale
-date: 2020-02-07 16:24:11
+date: 2020-02-07 16:24:00
 tags:
 excerpt: >-
   Having to buy and sell a home at the same time has been called the ‘catch-22’
@@ -11,8 +11,8 @@ pullquote: Different strategies are better for different situations.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/steen-youtube-3.jpg
-youtube_code: PWLtMBUiuwg
+youtube_alternate_image: /uploads/steen-youtube-4.jpg
+youtube_code: tQpGs7sO-xs
 ---
 
 {% include youtube.html %}
