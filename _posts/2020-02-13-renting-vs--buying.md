@@ -18,7 +18,7 @@ youtube_code: 074BhNCn7xE
 
 {% include youtube.html %}
 
-Today we’re discussing renting versus buying a home.
+<p style="text-align: center;"><em>Today we’re discussing renting versus buying a home.</em></p>
 
 Today we’re going to discuss renting versus buying a home. Which one’s better? Even though the housing crash was several years ago, some people are hesitant about jumping into the housing market. The question of whether to buy or rent ultimately depends on your specific situation.&nbsp;
 
