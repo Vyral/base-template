@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Can Help You Juggle a Home Purchase and Sale
+title: We Can Help You Successfully Buy & Sell at the Same Time
 date: 2020-02-07 16:24:00
 tags:
 excerpt: >-
