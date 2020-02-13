@@ -9,7 +9,7 @@ permalink: /meet-the-team/
 
 ![Team picture of local mortgage lenders in Dallas](/img/team.jpg){: .team-pic}
 
-##### VP of Sales/Branch Manager – Wade Betz “The Chief”
+##### Senior Loan Officer – Wade Betz “The Chief”
 
 Wade spent the first 14 years of his mortgage career at Guardian Mortgage as a vice president of sales and branch manager at their
 Dallas, Texas location. Since then, he has transitioned to a Senior Loan Officer role with NEXA Mortgage, LLC. Having helped
@@ -27,6 +27,8 @@ financial goals.”
 Born and raised in New Orleans, Wade came to Dallas in 1997 and attended Southern Methodist University (Pony Up!), where he
 earned a bachelor’s degree in economics. Wade enjoys spending time with his wife and two growing boys. He is also an avid
 Louisiana State University football fan. GEAUX Tigers!!!
+
+#BrokersAreBetter
 
 ##### Production Partner - Felisa Howe “The Captain”
 
