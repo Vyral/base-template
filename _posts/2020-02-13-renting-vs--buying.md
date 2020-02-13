@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Renting vs. Buying
-date:
+date: 2020-02-13 19:12:58
 tags:
   - Home Buyer Tips
   - Real Estate
