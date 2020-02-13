@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2020 Market Forecast
-date: 2020-02-10 20:26:40
+date: 2020-02-10 20:26:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/what-to-expect-in-2020-youtube.jpg
-youtube_code: hZohM9bL7wI
+youtube_code: lAQKhzTHhCg
 ---
 
 {% include youtube.html %}
