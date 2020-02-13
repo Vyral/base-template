@@ -11,7 +11,22 @@ permalink: /meet-the-team/
 
 ##### VP of Sales/Branch Manager – Wade Betz “The Chief”
 
-With more than $400 million in his servicing portfolio, Wade Betz is a leading mortgage originator in the Dallas-Fort Worth area. Wade understands that there is more to a mortgage than the close and has the legacy of Guardian’s 50+ years in business behind him. Like Wade’s Guardian Mortgage counterparts, he understands that a job well done is a job that lasts the duration of the home loan. Counsel, support and personal service are paramount to becoming a trusted mortgage advisor for Guardian’s clients.
+Wade spent the first 14 years of his mortgage career at Guardian Mortgage as a vice president of sales and branch manager at their
+Dallas, Texas location. Since then, he has transitioned to a Senior Loan Officer role with NEXA Mortgage, LLC. Having helped
+thousands of families with more than $500M+ in residential financing, Wade Betz is a leading mortgage originator in the Dallas-Fort
+Worth area and loves helping families build wealth and memories with real estate.
+
+Wade has a message for his customers: There’s more to a mortgage than just the close. A job well done is a job that lasts the duration
+of the home loan. Counsel, support and personal service are paramount to becoming a trusted mortgage advisor for his clients.
+
+“Too many loan officers and lenders in our industry just focus on selling the borrower a mortgage loan without listening to the
+borrower’s desires or asking the right mortgage planning questions,” he says. “It is our responsibility to create mortgage solutions
+that complement our clients’ overall financial strategies and allow them to most effectively accomplish their short and long-term
+financial goals.”
+
+Born and raised in New Orleans, Wade came to Dallas in 1997 and attended Southern Methodist University (Pony Up!), where he
+earned a bachelor’s degree in economics. Wade enjoys spending time with his wife and two growing boys. He is also an avid
+Louisiana State University football fan. GEAUX Tigers!!!
 
 ##### Production Partner - Felisa Howe “The Captain”
 
