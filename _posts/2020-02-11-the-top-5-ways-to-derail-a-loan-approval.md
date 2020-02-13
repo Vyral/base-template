@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Top 5 Ways to Derail a Loan Approval
-date: 2020-02-11 20:15:51
+date: 2020-02-11 20:15:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   want to be successful.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2020/The+Top+5+Ways+to+Derail+a+Loan+Approval.mp4
-pullquote: Just wait till after your closing and everyone will be happier.
+pullquote: Just wait until after your closing and everyone will be happier.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -19,9 +19,9 @@ youtube_code: auYNNxX-qrc
 
 {% include youtube.html %}
 
-There are five key ways that you can derail your own chances of being approved for a home loan. If you’re serious about purchasing a home, you’ll want to avoid:
+There are five key ways that you can derail your chances of being approved for a home loan. If you’re serious about purchasing a home, you’ll want to avoid:
 
-**1\. Taking on new debt.** Doing so can change your debt-to-income ratios, which can obviously upset your chances of being approved for a home loan.
+**1\. Taking on new debt.** Doing so can change your debt-to-income ratios, which can upset your chances of being approved for a home loan.
 
 **2\. Buying or leasing a new car.** This can become a big hit to your credit report.
 
@@ -33,6 +33,6 @@ There are five key ways that you can derail your own chances of being approved f
 
 **5\. Buying new furniture and appliances.** Even if you take advantage of an offer that has no interest for 18 months, the moment lenders see that you’ve taken on new credit, we have to count the interest in your minimum payments.
 
-Making any of these mistakes during the loan process can amount to potential rejection. Remember this: Mortgage lenders are bound by loan rules to pull a soft credit report on homebuyers either the day before or the day of closing, so don’t fall for the notion that no one will know that you’ve made one of these blunders. If you can’t close your home on time, you might lose your earnest money deposit or even get sued for non-performance on your contract. Just wait till after your closing and everyone will be happier.
+Making any of these mistakes during the loan process can amount to potential rejection. Remember this: Mortgage lenders are bound by loan rules to pull a soft credit report on homebuyers either the day before or the day of closing, so don’t fall for the notion that no one will know that you’ve made one of these blunders. If you can’t close your home on time, you might lose your earnest money deposit or even get sued for non-performance on your contract. Just wait until after your closing and everyone will be happier.
 
 If you have any questions, don’t hesitate to reach out to us. We’re always here to help.
