@@ -22,7 +22,7 @@ youtube_code: 199MrpmhvmQ
 
 **Sales Stats 2nd half of 2019**&nbsp;
 
-[As we mentioned in our market updates at the beginning of last year](https://margolisteamblog.com/first-quarter-kauai-market-update.html){: target="_blank"}, we anticipated a slowdown in sales of single family homes at the mid-to-lower price points. We anticipated, like with most of the nation, that the lack of inventory would keep prices strong. We anticipated that the luxury space (above $1M) inventory would continue to grow, with more sellers than buyers, and sellers needing to become more flexible to get their properties sold.
+**[As we mentioned in our market updates at the beginning of last year](https://margolisteamblog.com/first-quarter-kauai-market-update.html){: target="_blank"},** we anticipated a slowdown in sales of single family homes at the mid-to-lower price points. We anticipated, like with most of the nation, that the lack of inventory would keep prices strong. We anticipated that the luxury space (above $1M) inventory would continue to grow, with more sellers than buyers, and sellers needing to become more flexible to get their properties sold.
 
 The slowdown did not really materialize as low interest rates, low supply, and high demand sustained throughout 2019, helping to keep the market strong in the mid-range of the market. The high-end of the market did, however, lose some of its velocity.&nbsp;
 
@@ -38,7 +38,7 @@ OK, that was a mouthful and maybe more than you wanted to know. You can Google i
 
 For condos the average price moved up from $628,573 to $635,007 a modest change of 1% and the median condo price has dropped steadily since peaking in September. Since fall is typically our slower time of year, I can't yet say this is a trend, especially since the median price is up 3%.
 
-**DAYS ON MARKET:**
+**DAYS ON MARKET**
 
 **The days on market is the number of days a property has been on the market until close of escrow.** In many larger markets, San Diego, Silicon Valley, even Honolulu, the days on market have grown indicating a market slowdown. Here on Kauai, that number vacillates from month-to-month but there is no big trend there that we can see. Normal financed sales take 45-60+ days, so on average homes and condos are frequently on the market up to 100 days before they go into escrow. **Listings priced accurately in the area of the market with strong demand helps to bring the days on market down**. There are plenty of buyers waiting for the right property, and interest rates continue to be low, so if you have ever considered selling your property, it's a great time to do so
 
