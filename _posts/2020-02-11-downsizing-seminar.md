@@ -17,7 +17,7 @@ youtube_code: _IhNvEHD39U
 
 {% include youtube.html %}
 
-*We’re hosting a downsizing seminar and you’re invited\!*
+<p style="text-align: center;"><em>We’re hosting a downsizing seminar and you’re invited!</em></p>
 
 We’re hosting a downsizing seminar for sellers. If you’re considering moving to a smaller space, be it another home, a retirement community, or even an out-of-state property, we have the information you’ll need. **The seminar will be at Maryland Golf and Country Club at 1335 East Macphail Road, Bel Air, MD 21015** on **March 25th from 5 to 8 p.m.** We will provide dinner and drinks.&nbsp;
 
