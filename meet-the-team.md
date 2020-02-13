@@ -7,7 +7,7 @@ permalink: /meet-the-team/
 
 # Meet your Local Dallas Mortgage Lender Team
 
---->    ![Team picture of local mortgage lenders in Dallas](/img/team.jpg){: .team-pic}
+--->![Team picture of local mortgage lenders in Dallas](/img/team.jpg){: .team-pic}--->
 
 ##### Senior Loan Officer – Wade Betz “The Chief”
 
