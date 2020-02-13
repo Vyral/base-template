@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Kauai Real Estate Market Performed in 2019
-date: 2020-02-13 22:31:47
+date: 2020-02-13 22:31:00
 tags:
   - Real Estate
   - Market Update
@@ -13,8 +13,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2-10-20small.jpg
 youtube_code: 199MrpmhvmQ
 ---
 
