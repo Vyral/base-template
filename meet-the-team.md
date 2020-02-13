@@ -5,7 +5,7 @@ description: Meet The Betz Team, your Local Dallas Mortgage Lender Team
 permalink: /meet-the-team/
 ---
 
-# Meet your Local Dallas Mortgage Lender Team
+# Meet your Local Dallas Mortgage Lender
 
 <!--- ![Team picture of local mortgage lenders in Dallas](/img/team.jpg){: .team-pic}--->
 
