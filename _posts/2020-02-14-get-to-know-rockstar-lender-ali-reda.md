@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Get to Know Rockstar Lender Ali Reda
-date: 2020-02-14 15:17:16
+date: 2020-02-14 15:17:00
 tags:
 excerpt: >-
   I talked recently with Ali Reda, of Envoy Mortgage, about the 2020 market and
@@ -9,7 +9,7 @@ excerpt: >-
 enclosure:
 pullquote: >-
   When you couple these low rates with rising values, it paints a vibrant
-  picture in the world of lending
+  picture in the world of lending.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -37,10 +37,10 @@ Ali helped the vet utilize a VA loan to consolidate all of his debt, ultimately 
 
 Clearly, this lender knows what he’s doing\! But how will he fare in our lightning round? Here’s Ali’s answers:&nbsp;
 
-* **Music or podcast?***Podcast. 888-Barbara is always a good one.&nbsp;*
+* **Music or podcast?&nbsp;***Podcast. 888-Barbara is always a good one.&nbsp;*
 * **Iced coffee or hot coffee?** *Actually, no coffee…* (absolutely crazy, considering that Ali gets up just before 5 a.m. and works out at 5:30).&nbsp;
-* **Movies at home or movies at the theater?***At home, if I’m with my little man. Otherwise, I like the theater experience.&nbsp;*
+* **Movies at home or movies at the theater?&nbsp;***At home, if I’m with my little man. Otherwise, I like the theater experience.&nbsp;*
 * **Mornings or evenings?** *Definitely a morning guy.&nbsp;*
 * **Football or baseball?** *Football.&nbsp;*
 
-If you’re looking for more information on interest rates, or you’ve been considering a refinance, reach out to Ali at (phone and email). Visit our [website](https://johnschustergroup.com/)to get a grasp on your home’s value in today’s market or reach out to us any time with your real estate questions.
+If you’re looking for more information on interest rates, or you’ve been considering a refinance, reach out to Ali at&nbsp;[612-940-6722](tel:612-940-6722) and areda@envoymortgage.com. Visit our [website](https://johnschustergroup.com/)&nbsp;to get a grasp on your home’s value in today’s market or reach out to us any time with your real estate questions.
