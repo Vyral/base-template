@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Down Payment Options for Homebuyers
-date:
+date: 2020-02-14 16:34:59
 tags:
 excerpt: >-
   No matter what your budget is, there’s a down payment option for you as a
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/payne-youtube-5-3.jpg
 youtube_code: kuu-StrMjHY
 ---
 
-{% include youtube.html %}<center>No matter what your budget is, there’s a down payment option for you as a homebuyer. Here’s a closer look.</center>
+{% include youtube.html %}
+
+<center>No matter what your budget is, there&rsquo;s a down payment option for you as a homebuyer. Here&rsquo;s a closer look.</center>
+
+&nbsp;
 
 One question I hear all the time is, “How much money do I need for a down payment?” The answer depends, so I usually go through a couple of scenarios to help someone figure out the right path.&nbsp;
 
