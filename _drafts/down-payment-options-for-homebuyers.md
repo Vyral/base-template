@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/payne-youtube-5-3.jpg
 youtube_code: kuu-StrMjHY
 ---
 
-{% include youtube.html %}No matter what your budget is, there’s a down payment option for you as a homebuyer. Here’s a closer look.
+{% include youtube.html %}<center>No matter what your budget is, there’s a down payment option for you as a homebuyer. Here’s a closer look.</center>
 
 One question I hear all the time is, “How much money do I need for a down payment?” The answer depends, so I usually go through a couple of scenarios to help someone figure out the right path.&nbsp;
 
