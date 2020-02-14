@@ -20,7 +20,7 @@ youtube_code: 199MrpmhvmQ
 
 {% include youtube.html %}
 
-**Sales Stats 2nd half of 2019**&nbsp;
+**SALES STATS 2ND HALF OF 2019**
 
 **[As we mentioned in our market updates at the beginning of last year](https://margolisteamblog.com/first-quarter-kauai-market-update.html){: target="_blank"},** we anticipated a slowdown in sales of single family homes at the mid-to-lower price points. We anticipated, like with most of the nation, that the lack of inventory would keep prices strong. We anticipated that the luxury space (above $1M) inventory would continue to grow, with more sellers than buyers, and sellers needing to become more flexible to get their properties sold.
 
