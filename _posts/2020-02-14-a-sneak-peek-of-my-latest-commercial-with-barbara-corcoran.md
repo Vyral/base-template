@@ -19,7 +19,7 @@ youtube_code: C6UnNxjVo24
 
 {% include youtube.html %}
 
-I’m excited to share some behind-the-scenes footage of my latest commercial with Barbara Corcoran.
+<p style="text-align: center;"><em>I’m excited to share some behind-the-scenes footage of my latest commercial with Barbara Corcoran.</em></p>
 
 Recently, **I had the pleasure of flying to New York City to film another commercial with none other than Barbara Corcoran,** and I have some behind-the-scenes footage to share with you. As you may know, Barbara is one of the stars of ABC’s “Shark Tank,” and I've worked with her for several years, but this was the first time my son Greg was able to join me for a commercial shoot. Barbara is a true professional, and we learned a lot from her on this trip.
 
