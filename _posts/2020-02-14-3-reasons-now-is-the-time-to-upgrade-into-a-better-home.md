@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/UXkyi4qBpI4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Now is the time for homeowners to upgrade in our market. There are three reasons why.</em></p>
+
 Here are the three reasons now is the time to upgrade into a newer, better home:&nbsp;
 
 **1\. The difference in prices.** If you’re selling a lower-priced property ($200,000-$300,000), you can take advantage of high demand and sell for top dollar. Then, when buying at a higher price range ($500,000-$600,000), you can take advantage of less demand and negotiate a better price.&nbsp;
