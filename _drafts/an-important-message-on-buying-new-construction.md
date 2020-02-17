@@ -22,7 +22,7 @@ youtube_code: HsII9hjglcM
 
 {% include youtube.html %}
 
-<center>*If you’re thinking of buying a new construction home, consider these five points.*</center>
+<center><I>If you’re thinking of buying a new construction home, consider these five points.</I></center>
 
 Have you thought about buying a new construction home? If so, there are five points you need to be aware of:&nbsp;
 
