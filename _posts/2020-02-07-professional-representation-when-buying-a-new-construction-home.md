@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Everyone should have an agent when buying a new construction home. Here are
   three reasons why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Professional+Representation+When+Buying+a+New+Construction+Home.mp4
 pullquote: You need someone who can help your needs be met.
 enclosure_type: video/mp4
 enclosure_time:
