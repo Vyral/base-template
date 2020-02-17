@@ -19,7 +19,7 @@ youtube_code: GBl_V3q4iJY
 
 {% include youtube.html %}
 
-We’re here today to shine a light on a wonderful lender we love working with, Ali Reda. Recently, I bought a property, and out of three lenders I consulted, Ali had the lowest rate by far and was the most fun to work with.&nbsp;
+We’re here today to shine a light on a wonderful lender we love working with, Ali Reda. Recently, we bought a property, and out of three lenders we consulted, Ali had the lowest rate by far and was the most fun to work with.&nbsp;
 
 Anyone who’s had the pleasure of working with Ali knows he’s stellar at what he does, but here’s something most people don’t know about him: He’s a tri-citizen—his parents were born in Egypt (making him an Egyptian national by default), he was actually born in Toronto, and he now lives and works in the U.S.&nbsp;
 
@@ -31,7 +31,7 @@ What does Ali expect to see in the mortgage business in 2020? **We’ve been in 
 
 When you couple these low rates with rising values, it paints a vibrant picture in the world of lending; many will enter the market this year, and many more will find conditions favorable for a refinance.&nbsp;
 
-Here’s an example that illustrates Ali’s expertise: Recently, a veteran whose home purchase I helped with four years ago was exploring a refinance, among other financial options. Initially, he approached Ali about getting a lower rate. Upon reviewing his full financial portfolio, Ali found a lot of looming debt scattered around, which caused this client to pay a ton in interest across the board.&nbsp;
+Here’s an example that illustrates Ali’s expertise: Recently, a veteran whose home purchase we helped with four years ago was exploring a refinance, among other financial options. Initially, he approached Ali about getting a lower rate. Upon reviewing his full financial portfolio, Ali found a lot of looming debt scattered around, which caused this client to pay a ton in interest across the board.&nbsp;
 
 Ali helped the vet utilize a VA loan to consolidate all of his debt, ultimately **saving him over $1,000 a month.** Prior to meeting with Ali, this man was set to pay his home off in 22 years; Ali took him down to 10 years—with the same payment.&nbsp;
 
