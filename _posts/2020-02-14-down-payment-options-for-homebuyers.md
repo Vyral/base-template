@@ -25,7 +25,7 @@ One question I hear all the time is, “How much money do I need for a down paym
 
 **The most common down payment option is 20%.** However, there are other programs with 10% down, 5% down, or even 0% down. Each type of loan will require a certain credit score. The lower the down payment, the higher the score you'll need to qualify.
 
-**There are a lot of programs out there for first-time homebuyers.** The City of Columbus down payment assistance program requires you to have $500 and the city will pay the rest. Closing costs can be negotiated.
+**There are a lot of programs out there for first-time homebuyers.** The city of Columbus down payment assistance program requires you to have $500 and the city will pay the rest. Closing costs can be negotiated.
 
 {% include pullquote.html %}
 
