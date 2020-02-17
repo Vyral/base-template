@@ -16,7 +16,7 @@ youtube_code: fTcmY5DAlSk
 
 {% include youtube.html %}
 
-If you’re a home seller, the Property Lot Shark may be lurking in your home.
+<p style="text-align: center;"><em>If you’re a home seller, the Property Lot Shark may be lurking in your home.</em></p>
 
 Welcome to your hot-off-the-press market report for February 2020\! Today we’ll discuss one of the worst of the money-eating Home Selling Sharks: Property Lot Sharks. This type of shark will eat away at your equity, and there’s nothing you can do about it. Understanding how big their bite is, though, will help you understand how your home’s value will be discounted by buyers in comparison to other homes that don’t have this shark. It will also help you *maximize* your home’s value.
 
