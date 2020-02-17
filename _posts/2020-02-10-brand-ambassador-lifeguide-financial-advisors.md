@@ -9,7 +9,7 @@ excerpt: >-
   Denlinger from LifeGuide Financial Advisors to learn more about how he helps
   foster his clients’ financial success.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+LifeGuide+Q%26A.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+lifeguide+2.mp4
 pullquote: >-
   LifeGuide Financial Advisors is a registered investment advisor that offers
   holistic financial and investment advice to serve as a guidepost for you to
@@ -18,7 +18,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: CW7RGKG4iuo
+youtube_code: Zj7MFdksDxQ
 ---
 
 {% include youtube.html %}
