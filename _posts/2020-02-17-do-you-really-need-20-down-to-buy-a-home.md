@@ -19,7 +19,7 @@ youtube_code: bKWccBo3ZIs
 
 {% include youtube.html %}
 
-<center><em>You don’t need a massive down payment to afford a home. Here are a few of the different options you have.</em></center>
+<center><em>You don&rsquo;t need a massive down payment to afford a home. Here are a few of the different options you have.</em></center>
 
 <br>Regardless of what you may have heard, you do not need 20% down to buy a home. In fact, there are a ton of different loan programs out there that offer a variety of down payment options and can cater to your needs as a homebuyer.
 
