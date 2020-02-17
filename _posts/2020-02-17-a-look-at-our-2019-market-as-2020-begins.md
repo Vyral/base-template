@@ -19,7 +19,7 @@ youtube_code: rUMCzpAamXs
 
 {% include youtube.html %}
 
-<p styloe="text-align: center;"><em>I have a short update to share with you today about our real estate market in 2019. Here’s what you need to know.</em></p>
+<p style="text-align: center;"><em>I have a short update to share with you today about our real estate market in 2019. Here’s what you need to know.</em></p>
 
 Today I’ve got a quick recap for you about our 2019 real estate market as we get into the new year.&nbsp;
 
