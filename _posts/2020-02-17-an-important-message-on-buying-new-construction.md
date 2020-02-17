@@ -38,7 +38,7 @@ Have you thought about buying a new construction home? If so, there are five poi
 
 5\. **Discounts may be available in the form of upgrades.** If the property is close to the end of the sales cycle, builders may be willing to offer you an upgrade package that would reduce the overall cost of purchasing the home.
 
-&nbsp;
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 
 &nbsp;
 
