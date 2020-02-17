@@ -17,7 +17,7 @@ youtube_code: _TRibmQVxIk
 
 {% include youtube.html %}
 
-What to know if you may plan to buy or sell this spring.
+<p style="text-align: center;"><em>What to know if you may plan to buy or sell this spring.</em></p>
 
 Today we’re going to discuss buying and selling in the spring season. February is already proving to be a busy real estate month this year. The spring real estate market is upon us a little earlier than usual. **Homes in excellent condition that are priced well are selling quickly,** sometimes with multiple offers.&nbsp;
 
