@@ -43,4 +43,8 @@ Clearly, this lender knows what he’s doing\! But how will he fare in our light
 * **Mornings or evenings?** *Definitely a morning guy.&nbsp;*
 * **Football or baseball?** *Football.&nbsp;*
 
-If you’re looking for more information on interest rates, or you’ve been considering a refinance, reach out to Ali at&nbsp;[612-940-6722](tel:612-940-6722) and areda@envoymortgage.com. Visit our [website](https://johnschustergroup.com/)&nbsp;to get a grasp on your home’s value in today’s market or reach out to us any time with your real estate questions.
+If you’re looking for more information on interest rates, or you’ve been considering a refinance, reach out to Ali at&nbsp;[612-940-6722](tel:612-940-6722) and areda@envoymortgage.com.
+
+**[Click here if you'd like to apply now.](https://www.envoymortgage.com/loan-officer/ali-reda-edina-mn/)**
+
+Visit our [website](https://johnschustergroup.com/)&nbsp;to get a grasp on your home’s value in today’s market or reach out to us any time with your real estate questions.
