@@ -21,7 +21,7 @@ youtube_code: '-7I1C9-RszM'
 
 {% include youtube.html %}
 
-Sellers: What do you plan to do with the money you get when you sell your property? Here is a list of the top investments to consider.
+<p style="text-align: center;"><em>Sellers: What do you plan to do with the money you get when you sell your property? Here is a list of the top investments to consider.</em></p>
 
 A recent survey asked, “For money you wouldn't need for more than 10 years, which of the following do you think would be the best way to invest it?” Here’s how the investors’ answers panned out in descending order:
 
