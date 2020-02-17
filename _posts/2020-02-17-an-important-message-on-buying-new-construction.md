@@ -28,8 +28,6 @@ youtube_code: HsII9hjglcM
 
 {% include youtube.html %}
 
-*If you’re thinking of buying a new construction home, consider these five points.*
-
 Have you thought about buying a new construction home? If so, there are five points you need to be aware of:&nbsp;
 
 1. **New construction homes aren’t always listed on the MLS.** Quite often, home builders have agents working as on-site salespeople in order to increase their control of the transaction while reducing total costs.
