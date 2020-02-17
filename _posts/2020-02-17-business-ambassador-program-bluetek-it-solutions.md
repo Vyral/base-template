@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Business Ambassador Program: Bluetek IT Solutions'
+title: 'Brand Ambassador Program: Bluetek IT Solutions'
 date: 2020-02-17 22:01:39
 tags:
   - Business Ambassador
