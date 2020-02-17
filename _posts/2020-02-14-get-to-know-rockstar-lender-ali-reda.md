@@ -4,7 +4,7 @@ title: Get to Know Rockstar Lender Ali Reda
 date: 2020-02-14 15:17:00
 tags:
 excerpt: >-
-  I talked recently with Ali Reda, of Envoy Mortgage, about the 2020 market and
+  We talked recently with Ali Reda, of Envoy Mortgage, about the 2020 market and
   his successes as a lender.
 enclosure:
 pullquote: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: GBl_V3q4iJY
+youtube_code: M8XXALgYKlg
 ---
 
 {% include youtube.html %}
