@@ -33,8 +33,9 @@ Have you thought about buying a new construction home? If so, there are five poi
 3. **The first buyers within a subdivision may get the greatest discounts.** As the saying goes, “the early bird gets the worm.” Acting quickly when a new subdivision is being built could lead to financial rewards. These rewards also come with the risk of being committed to a process before much is known about how it will play out, however.
 
 {% include pullquote.html %}
+&nbsp;
 
-4\.**&nbsp;Builders put a lot of emphasis on numbers.** Since a builder isn’t a traditional seller, they don’t have an emotional attachment to the home(s) they’re selling, and will therefore be more focused on making sure you’re qualified and ready to purchase than anything else.
+4\.**Builders put a lot of emphasis on numbers.** Since a builder isn’t a traditional seller, they don’t have an emotional attachment to the home(s) they’re selling, and will therefore be more focused on making sure you’re qualified and ready to purchase than anything else.
 
 5\. **Discounts may be available in the form of upgrades.** If the property is close to the end of the sales cycle, builders may be willing to offer you an upgrade package that would reduce the overall cost of purchasing the home.
 
