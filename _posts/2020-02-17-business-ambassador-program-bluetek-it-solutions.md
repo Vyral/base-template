@@ -20,7 +20,7 @@ youtube_code: m0AZo25Xr7c
 
 {% include youtube.html %}
 
-I couldn’t be more excited to introduce you to Sam Dubs of Bluetek IT Solutions for today’s business highlight video. Let’s check out what they have to offer\!
+<p style="text-align: center;"><em>I couldn’t be more excited to introduce you to Sam Dubs of Bluetek IT Solutions for today’s business highlight video. Let’s check out what they have to offer!</em></p>
 
 I’ve worked with Sam Dubs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, is all about.
 
