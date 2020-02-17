@@ -19,7 +19,7 @@ youtube_code: pOGOBgB2Enc
 
 {% include youtube.html %}
 
-I’m explaining our new Loyalty Concierge Program and how it can help sellers get top dollar for their home.
+<p style="text-align: center;"><em>I’m explaining our new Loyalty Concierge Program and how it can help sellers get top dollar for their home.</em></p>
 
 If you don’t have enough money for repairs, renovations, or updates before your home goes on the market, should you reduce the price of your house? I have great news: There’s a way to be fronted the cost of those home improvement services before your house hits the market without any upfront burden to you. It’s our new Loyalty Concierge Program. This is an opportunity to get top dollar for your property.
 
