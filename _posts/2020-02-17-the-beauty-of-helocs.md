@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/tejeda-youtube-1-2.jpg
 youtube_code: qeKTzpRXsr4
 ---
 
-{% include youtube.html %}You may be familiar with how to tap into your home’s equity by refinancing your FHA, VA, or conventional, but do you know about HELOCs?
+{% include youtube.html %}<center>You may be familiar with how to tap into your home’s equity by refinancing your FHA, VA, or conventional, but do you know about HELOCs?</center>
 
 Today I’m giving you a tip on how to tap into your home’s equity by using a Home Equity Line of Credit, or HELOC.&nbsp;
 
