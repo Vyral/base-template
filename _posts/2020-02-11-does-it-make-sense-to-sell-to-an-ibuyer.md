@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Selling a home to an iBuyer isn’t right for everyone, but it is right for
   some. Here are the pros and cons of this method.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Does+It+Make+Sense+to+Sell+to+an+iBuyer_.mp4
 pullquote: Sellers tend to leave a lot of money on the table with iBuyers.
 enclosure_type: video/mp4
 enclosure_time:
