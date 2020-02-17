@@ -18,7 +18,9 @@ youtube_code: wOF1j4OAFv8
 
 {% include youtube.html %}
 
-Tax season is here, so here are five things that we recommend that you do with some of that tax return money:
+<center><em>If your tax return is burning a hole in your pocket, you can put it to good use in a number of different ways. Here’s how.</em></center>
+
+<br>Tax season is here, so here are five things that we recommend that you do with some of that tax return money:
 
 **1\. Pay down your mortgage**. Whatever you can set aside, make sure that you take it and apply it to the principal balance of your mortgage so you can get it paid off sooner.
 
