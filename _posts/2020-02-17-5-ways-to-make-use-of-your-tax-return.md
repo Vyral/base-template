@@ -18,7 +18,7 @@ youtube_code: wOF1j4OAFv8
 
 {% include youtube.html %}
 
-<center><em>If your tax return is burning a hole in your pocket, you can put it to good use in a number of different ways. Here’s how.</em></center>
+<center><em>If your tax return is burning a hole in your pocket, you can put it to good use in a number of different ways. Here&rsquo;s how.</em></center>
 
 <br>Tax season is here, so here are five things that we recommend that you do with some of that tax return money:
 
