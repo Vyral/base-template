@@ -22,7 +22,7 @@ youtube_code: m0AZo25Xr7c
 
 <p style="text-align: center;"><em>I couldn’t be more excited to introduce you to Sam Dubs of Bluetek IT Solutions for today’s business highlight video. Let’s check out what they have to offer!</em></p>
 
-I’ve worked with Sam Dubs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, is all about.
+I’ve worked with Sam Dubs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, provides.
 
 Bluetek provides IT services to small businesses, and their goal is to eliminate your technology headaches and increase your business’ profitability.&nbsp;
 
@@ -38,7 +38,7 @@ Sam is really excited about Bluetek’s all-inclusive IT package. **With this pa
 
 The No. 1 question that Sam is asked by customers is about security: “Are we secure right now?” Bluetek is here to help with their layered security approach to make sure you have the necessary protection, backups, and plans in place to make sure your business is operational. Don’t take the risk and find out that you’re not secure only when it’s too late. Their services include disaster simulation and planning; if disaster stuck, Bluetek would have you covered.
 
-As I said, I’ve been working with Bluetek for around 15 years, and our business wouldn’t be what it is now without the help of Sam and his team. If you’re a business owner or you know a business owner, **reach out to Sam and his team at (717) 502-2144 for a free business technology assessment—and tell them Dave Hooke sent you\!** They’ll look at all of your tech needs, including data, storage, software, and more to give you a comprehensive evaluation and show you where you can develop efficiency in your business that will go straight to your bottom line and allow you to concentrate on doing what you do best: serving your clients.
+As I said, I’ve been working with Bluetek for around 15 years, and our business wouldn’t be what it is now without the help of Sam and his team. If you’re a business owner or you know a business owner, reach out to Sam and his team at (717) 502-2144 for a free business technology assessment—and tell them Dave Hooke sent you\! They’ll look at all of your tech needs, including data, storage, software, and more to give you a comprehensive evaluation and show you where you can develop efficiency in your business that will go straight to your bottom line and allow you to concentrate on doing what you do best: serving your clients.
 
 **They also offer business-class phone systems. Right now, they’re offering a no-obligation $50 Amazon gift card if you let them compare your current phone service with one of their simple-to-use voice-over IP phone systems.** If your phones are outdated or if you’re paying too much for your service, Bluetek can help\! Their phone systems offer the best quality, the most features, guaranteed reliability, and are easy to use.&nbsp;
 
