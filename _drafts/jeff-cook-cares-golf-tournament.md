@@ -29,7 +29,7 @@ If you would like to contribute with donations please email donations@jeffcookre
 
 We are so appreciative of the continuous support we receive from our Family and Friends Group and the community for a cause that is near to our hearts.&nbsp;&nbsp;
 
-<center>[**Golf Tournament Sign Up Form Click Here**](https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/SIGNUP_FORM.jpg){: target="_blank"}</center>
+<center>[**Golf Tournament Sign Up Form Click Here**]</center>(https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/SIGNUP_FORM.jpg){: target="_blank"}
 
 ![](/uploads/golf-flyer.jpg){: width="2550" height="3300"}
 
