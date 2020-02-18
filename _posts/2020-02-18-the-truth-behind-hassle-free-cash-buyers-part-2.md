@@ -21,7 +21,7 @@ youtube_code: iLb5x9I7gPQ
 
 {% include youtube.html %}
 
-Some cash homebuyers make their money by preying on desperate sellers. Here’s how they do it and how you can avoid it.
+<p style="text-align: center;"><em>Some cash homebuyers make their money by preying on desperate sellers. Here’s how they do it and how you can avoid it.</em></p>
 
 In our last video, we talked about [hassle-free cash buyers](https://daveknightsells.com/what-do-you-do-about-hassle-free-cash-offers.html){: target="_blank"} and the role they play in our market. We’re continuing that discussion today by focusing on **a common scenario that we’ve been seeing with these investors.**
 
