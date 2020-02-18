@@ -19,7 +19,7 @@ youtube_code: hxdcup03iGU
 
 {% include youtube.html %}
 
-What’s changed and what’s stayed the same in the real estate industry over the years? Here are a couple of examples.
+<p style="text-align: center;"><em>What’s changed and what’s stayed the same in the real estate industry over the years? Here are a couple of examples.</em></p>
 
 My team and I recently attended a Mike Ferry conference with 4,000 of the other top agents in the country. None of us compete head to head, so this conference is a wonderful opportunity to share ideas, techniques, etc.
 
