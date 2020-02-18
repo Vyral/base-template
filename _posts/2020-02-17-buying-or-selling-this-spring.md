@@ -4,7 +4,7 @@ title: Buying or Selling This Spring
 date: 2020-02-17 16:44:19
 tags:
   - Expert Advice
-excerpt: What to know if you may plan to buy or sell this spring.
+excerpt: Here's what to know if you plan to buy or sell this spring.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+Buying+and+Selling+in+the+Spring+Season.mp4
 pullquote: The spring real estate market is upon us a little earlier than usual.
@@ -17,11 +17,11 @@ youtube_code: _TRibmQVxIk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What to know if you may plan to buy or sell this spring.</em></p>
+<p style="text-align: center;"><em>Here's what to know if you plan to buy or sell this spring.</em></p>
 
 Today we’re going to discuss buying and selling in the spring season. February is already proving to be a busy real estate month this year. The spring real estate market is upon us a little earlier than usual. **Homes in excellent condition that are priced well are selling quickly,** sometimes with multiple offers.&nbsp;
 
-That means it’s a great time to consider selling your house in this early spring market. We would love to speak with you about pricing and staging your home. Those elements are critical because houses that have not considered these or have not been maintained sit on the market for months. The properties that have been taken care of, priced correctly, and staged are selling quickly in this market.
+That means it’s a great time to consider selling your house in this early spring market. We would love to speak with you about pricing and staging your home. Those elements are critical because sellers who have not considered these or have not kept their homes well-maintained are seeing them sit on the market for months. The properties that have been taken care of, priced correctly, and staged are selling quickly in this market.
 
 {% include pullquote.html %}
 
