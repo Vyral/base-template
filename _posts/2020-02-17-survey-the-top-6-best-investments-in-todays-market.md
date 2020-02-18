@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Survey: The Top 6 Best Investments In Today’s Market'
+title: 'The Top 6 Best Investments in Today’s Market'
 date: 2020-02-17 18:22:54
 tags:
   - Expert Advice
