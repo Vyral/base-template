@@ -8,13 +8,13 @@ excerpt: >-
   I’m explaining our new Loyalty Concierge Program and how it can help sellers
   get top dollar for their home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+loyalty+program+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+loyalty.mp4
 pullquote: This is an opportunity to get top dollar for your property.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 65ixGkIonMw
+youtube_code: UqO0JqyT8qQ
 ---
 
 {% include youtube.html %}
