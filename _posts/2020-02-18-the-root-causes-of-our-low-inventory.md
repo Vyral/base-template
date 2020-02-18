@@ -19,7 +19,7 @@ youtube_code: X1QZya1o4Fs
 
 {% include youtube.html %}
 
-What’s causing our inventory to be so low, and how does this affect you in the market? Find out today.
+<p style="text-align: center;"><em>What’s causing our inventory to be so low, and how does this affect you in the market? Find out today.</em></p>
 
 In certain areas and price points, there’s a nine- or 10-month supply of homes, and in others, there’s just a two-month supply. To put it in perspective, a six-month supply of homes is a balanced market; anything less than that is a seller’s market and anything over that is a buyer’s market.
 
