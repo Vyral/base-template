@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do You Really Need 20% Down to Buy a Home?
+title: You Don’t Need 20% For a Down Payment
 date: 2020-02-17 00:00:00
 tags:
   - Real Estate
