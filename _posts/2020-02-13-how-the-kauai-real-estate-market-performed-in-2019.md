@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-10-20small.jpg
-youtube_code: 199MrpmhvmQ
+youtube_code: J9mSjk6tvtc/
 ---
 
 {% include youtube.html %}
@@ -28,13 +28,13 @@ The slowdown did not really materialize as low interest rates, low supply, and h
 
 Sales of homes on Kauai were down 3.01% from 598 units sold in 2018 to 580 units sold last year. Sales in the Kapaa-Wailua areas, however, were up 6.74% and in Lihue (the closest thing we have to an urban town-core area) sales were up 12.74%. But in the Hanalei District (Princeville, Hanalei and beyond) sales of single-family homes were down a whopping 21.97%, from 132 sales in 2018 to 103 sales in 2019. Princeville is often the area of highest appreciation when the market is rising. Has the market topped in Princeville? Or did the devastation from the 2018 floods have an effect on the North Shore in general? My notion is that both contributed to the reduction in sales.
 
-The slowdown in condo sales were more pronounced with a 15.8% drop from a total of 481 condos sold in 2018 to 405 condos sold in 2019. Sales of condos were down in the Lihue, Kapaa and Princeville areas. There is only once condo complex, the Hanalei Colony Resort north of Princeville and that complex has been closed since the floods of 2018. That does not help sales (duh\!). In Poipu however, the number of condos sold was almost identical, 149 in 2018 to 148 in 2019. The main reason: the Pili Mai project by the Kiahuna Golf course is almost sold out. Many units which had been pending for a year, were completed and the sales closed. In fact, because the project is now sold out, we are starting to see resales of units for 10-15% above their original costs in 2018 and 2019.
+The slowdown in condo sales were more pronounced with a 15.8% drop from a total of 481 condos sold in 2018 to 405 condos sold in 2019. Sales of condos were down in the Lihue, Kapaa and Princeville areas. In Poipu however, the number of condos sold was almost identical, 149 in 2018 to 148 in 2019. The main reason: the Pili Mai project by the Kiahuna Golf course is almost sold out. Many units which had been pending for a year, were completed and the sales closed. In fact, because the project is now sold out, we are starting to see resales of units for 10-15% above their original costs in 2018 and 2019.
 
 **INVENTORY**<br><br>This inventory graph shows the number of active listings in the main categories (we are not including businesses or commercial) and we have continued to hover under 700 listings for most of the last year. September was the month with the lowest inventory for 2019,&nbsp; **January 2020 shows an inventory slightly up from 2019 January levels.** Active inventory in February shows only 618 properties island wide with 217 listings under contract after the first week in February
 
 **SALES PRICES**<br><br>Real estate statistics are a great way to take the pulse of a particular market but knowing what the number you are looking at represents can sometimes be confusing. There are two main stats regarding selling price. They are&nbsp; Average and Median prices. Average and median are both measures of central tendency, but the average can be skewed by very large or very small observations. The median is basically the point in the middle of all the properties. Literally, **half the properties are less than the median price and half are greater than the median.** The average is, of course, simply the average. Take 10 sales, add up their volume, divide by 10 and voila, you have the average. People like to know the average price; however, **the median is a better reflection of the market**&nbsp;because the&nbsp; median is less likely to be skewed by outliers, like a $24M sale on Hanalei Bay for example.&nbsp;
 
-OK, that was a mouthful and maybe more than you wanted to know. You can Google it to find other variants of the definition. So back to Kauai. **The average selling price for a home is down 2.8% from last year.** The median price is up 14.4% to $715,000. However, of the 277 single-family homes for sale, only 34 of them are priced at median or less.&nbsp;
+OK, that was a mouthful and maybe more than you wanted to know. You can google "average vs. median price real estate" to find other variants of the definition\!&nbsp;**The average selling price for a home is down 2.8% from last year.** The median price is up 14.4% to $715,000. However, of the 277 single-family homes for sale, only 34 of them are priced at median or less.&nbsp;
 
 For condos the average price moved up from $628,573 to $635,007 a modest change of 1% and the median condo price has dropped steadily since peaking in September. Since fall is typically our slower time of year, I can't yet say this is a trend, especially since the median price is up 3%.
 
