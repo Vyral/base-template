@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Jeff Cook Cares Golf Tournament
-date:
+date: 2020-02-18 20:35:57
 tags:
 excerpt:
 enclosure:
