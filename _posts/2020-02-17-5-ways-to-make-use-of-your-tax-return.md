@@ -20,7 +20,7 @@ youtube_code: wOF1j4OAFv8
 
 <center><em>If your tax return is burning a hole in your pocket, you can put it to good use in a number of different ways. Here&rsquo;s how.</em></center>
 
-<br>Tax season is here, so here are five things that we recommend that you do with some of that tax return money:
+<br>Tax season is here, so here are five things we recommend you do with some of that tax return money:
 
 **1\. Pay down your mortgage**. Whatever you can set aside, make sure that you take it and apply it to the principal balance of your mortgage so you can get it paid off sooner.
 
@@ -30,7 +30,7 @@ youtube_code: wOF1j4OAFv8
 
 {% include pullquote.html %}
 
-**4\. Put it into an investment vehicle**. Whether it’s an RSA, Roth IRA, or something similar, you can make tax-free gains here. Disclaimer: I’m not a financial professional so make sure you contact one before doing this.
+**4\. Put it into an investment vehicle**. Whether it’s an RSA, Roth IRA, or something similar, you can make tax-free gains here. Disclaimer: I’m not a financial professional, so make sure you contact one before doing this.
 
 **5\. Make upgrades to your house**. This is a great opportunity for you to reach out to your real estate agent to figure out which upgrades and improvements will bring you the most money in return when you sell down the road.
 
