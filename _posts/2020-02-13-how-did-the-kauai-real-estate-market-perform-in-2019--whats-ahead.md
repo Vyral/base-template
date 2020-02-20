@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the Kauai Real Estate Market Performed in 2019
+title: How Did the Kauai Real Estate Market perform in 2019 & What's Ahead?
 date: 2020-02-13 22:31:00
 tags:
   - Real Estate
