@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on the Edmond Real Estate Market
-date:
+date: 2020-02-20 15:50:06
 tags:
 excerpt: >-
   When you want to know how the market is doing, you need to know the price
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/sikes-youtube-3-3.jpg
 youtube_code: il8-GDlY7SA
 ---
 
-{% include youtube.html %}<center>When you want to know how the market is doing, you need to know the price range that you’re looking in. Here’s why.</center>
+{% include youtube.html %}
+
+<center>When you want to know how the market is doing, you need to know the price range that you&rsquo;re looking in. Here&rsquo;s why.</center>
+
+&nbsp;
 
 One question I get asked all the time is, “How’s the market?” It’s a really hard question for us to answer because it depends on a number of different factors.
 
