@@ -21,7 +21,7 @@ youtube_code: iLb5x9I7gPQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Some cash homebuyers make their money by preying on desperate sellers. Here’s how they do it and how you can avoid it.</em></p>
+*Some cash homebuyers make their money by preying on desperate sellers. Here’s how they do it and how you can avoid it.*
 
 In our last video, we talked about [hassle-free cash buyers](https://daveknightsells.com/what-do-you-do-about-hassle-free-cash-offers.html){: target="_blank"} and the role they play in our market. We’re continuing that discussion today by focusing on **a common scenario that we’ve been seeing with these investors.**
 
@@ -35,4 +35,4 @@ Here’s the problem: **At that time, the buyer is in control.** They’ve waste
 
 I’ve seen this situation happen often, so it just enhances the fact that you need to work with someone you trust as a homebuyer. They’ll ensure that you don’t get stuck in a situation like this. If you currently find yourself stuck in a situation like this, reach out to me today and I’ll see what I can do to help.
 
-If you have any other real estate questions for me, I’m happy to answer them any time. Just reach out via phone or email and I’ll get back to you soon. I’m never too busy to be a resource for you.
+If you have any other real estate questions for me, I’m happy to answer them. Just reach out via phone or email and I’ll get back to you soon. I’m never too busy to be a resource for you.
