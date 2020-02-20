@@ -34,12 +34,15 @@ permalink: /subscribe/
 
 <p>That’s plenty of business to go around for all of us.</p>
 
-<p>We were fortunate to sell over 250 homes in 2017 and our average agent earns more than $100,000 in take home compensation.</p>
+<p>We have been fortunate to sell over 1,500 homes and our average agent earns more than $100,000 in take home compensation.</p>
 
 <p>The same training they get will help you do it as well.</p>
 
 <p>So, if you’re interested in knowing what we’re up to here, and you’d like to stay current on the latest strategies to:
 <ol class="indent">
+<li>Create a huge life allowing your dreams to come true</li>
+<li>Have an amazing balance between work and life</li>
+<li>Eliminate stress while working in real estate</li>
 <li>Generate qualified seller leads</li>
 <li>Attract buyers who actually want to buy</li>
 <li>Convert more leads to appointments</li>
@@ -52,7 +55,7 @@ permalink: /subscribe/
 
 <p>You are also welcome to subscribe to our YouTube page and we also publish our free training content on our agent training Facebook page if you prefer to stay touch that way, too.</p>
 
-<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:questions@davefriedmanteam.com">questions@davefriedmanteam.com</a>.</p>
+<p>Most importantly, everything you receive is designed to start a conversation. So, if you have any questions about selling real estate you can email me at <a href="mailto:careers@davefriedmanteam.com">careers@davefriedmanteam.com</a>.</p>
 
 <p>I’ll first answer your question by email, and if I think it would be of benefit to more people, I’ll answer it in a video.</p>
 

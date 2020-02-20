@@ -21,7 +21,7 @@ permalink: /strategy-call/
 
 {% include strategy-photos.html %}
 
-<p>My name is Dave Friedman and our team sold over 250 homes in 2017.</p>
+<p>My name is Dave Friedman and our team has sold over 1,500 homes.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -41,16 +41,14 @@ permalink: /strategy-call/
 
 
 	<img src="/img/olivia.jpg" alt="Olivia Froncillo" class="photo-left"/>
-	<p><span class="quote">"After working in many professional settings, I have never felt more appreciated or valued than working with Dave. In a fast-paced environment like real estate, Dave has found a way to make his employees feel supported and challenged while maintaining an incredibly fun workspace."</span><br>
-	<span class="author indent">- Olivia Froncillo</span></p>
+	<p><span class="quote">"After working in many professional settings, I have never felt more appreciated or valued than working with Dave. In a fast-paced environment like real estate, Dave has found a way to make his employees feel supported and challenged while maintaining an incredibly fun workspace."</span></p>
 
 	<img src="/img/ellie.jpg" class="photo-left">
 	<p><span class="quote">"Working with Dave has  encouraged, inspired, and pushed me to become the best version of myself in every sense! From my work habits and determining my Big Why, to creating a work-life balance, and self improvement in every facet of my life, Dave does it all! My daily outlook and goals have changed tenfold as I have grown more than I ever imagined possible.  Be prepared to triple your goals and push yourself, while making your Big Why your priority!"
-	</span><br><span class="author indent">- Ellie Kuuskvere</span></p>
+	</span></p>
 
 	<img src="/img/traci.jpg" class="photo-left">
-	<p><span class="quote">"I had a great career in the corporate world, but I knew I wasn't passionate about my work.  For over ten years, I dreamed of a career in real estate but taking the leap from a secure, salaried position to pursue my dream was such a scary thought.  I believed in myself, but I knew that I needed additional support and strong leadership to ensure my success.  Dave has given me the tools, education, positivity, and accountability I need."</span><br>
-	<span class="author indent">- Traci McGinnis</span></p>
+	<p><span class="quote">"I had a great career in the corporate world, but I knew I wasn't passionate about my work.  For over ten years, I dreamed of a career in real estate but taking the leap from a secure, salaried position to pursue my dream was such a scary thought.  I believed in myself, but I knew that I needed additional support and strong leadership to ensure my success.  Dave has given me the tools, education, positivity, and accountability I need."</span></p>
 
 </div>
 <hr>

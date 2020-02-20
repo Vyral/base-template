@@ -5,8 +5,8 @@ permalink: /hiring-process/
 ---
 {% include hiring-navbar.html %}
 <div class="values">
-<div><a name="qualifications" class="a-name"></a></div>
-{% include qualifications.html %}
+<!-- <div><a name="qualifications" class="a-name"></a></div>
+{% include qualifications.html %} -->
 
 <div><a name="process"></a></div>
 <h1>DFT Hiring Process</h1>

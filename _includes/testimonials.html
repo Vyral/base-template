@@ -10,7 +10,6 @@
 					{% for item in site.data.testimonials.testimonial %}
 						<div class="item-container">
 							<div class="item">
-		            {{item.name | prepend: '<p class="testimonial-attribute">' | append: '</p>'}}
 								<div id="item-truncated">
 		            {{item.quote | prepend: '<p class="testimonial">' | append: '</p>' }}
 								{% if item.quote.size >= 296 %}
