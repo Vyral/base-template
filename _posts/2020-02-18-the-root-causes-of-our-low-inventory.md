@@ -33,7 +33,7 @@ However, we do have new buyers entering the market. Millennials are quickly beco
 
 {% include pullquote.html %}
 
-You might think that means new construction will pick up to compensate, but we live in upstate New York—**it takes a ridiculously long time to get a new subdivision approved.** As someone who used to sit on a Planning Board, I know this from experience. Even once they are approved, there’s still a six-month timeframe to build the house. From the time a developer buys a lot to the time they build the infrastructure of the house, you could be looking at 24 to 36 months.
+You might think that means new construction will pick up to compensate, but we live in upstate New York—**it takes a ridiculously long time to get a new subdivision approved.** As someone who used to sit on a planning board, I know this from experience. Even once they are approved, there’s still a six-month timeframe to build the house. From the time a developer buys a lot to the time they build the infrastructure of the house, you could be looking at 24 to 36 months.
 
 **If you’re a seller, this is an amazing time to list your home.** For those who are planning to retire soon, the next five years will probably be the best time to sell your home to start renting or to move to Florida like many of my clients.
 
