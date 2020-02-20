@@ -29,6 +29,6 @@ Some of the advertising, for example, is the same, and person-to-person interact
 
 {% include pullquote.html %}
 
-One of the things that has changed isthe delivery of information, which is wonderful. We can get you far more information about homes much more quickly, and you can see a lot more about the properties you want to look at. Years ago, for about half of the homes we walked into, buyers only needed about two steps to know that the home wasn’t right for them. With virtual tours now available, buyers can weed out the homes that don’t fit and focus on the ones they like best.&nbsp;
+One of the things that has changed is the delivery of information, which is wonderful. We can get you far more information about homes much more quickly, and you can see a lot more about the properties you want to look at. Years ago, for about half of the homes we walked into, buyers only needed about two steps to know that the home wasn’t right for them. With virtual tours now available, buyers can weed out the homes that don’t fit and focus on the ones they like best.&nbsp;
 
 The bottom line is, we’re here to help you do the right thing for your family. If you have any specific real estate needs, don’t hesitate to reach out to me. I’d love to speak with you.
