@@ -1580,12 +1580,12 @@ label.tree-toggle {
 .site-logo {
   width: 90%;
   max-width: 70rem;
-  -webkit-filter: drop-shadow(0px 2px 7px transparent);
-  filter: drop-shadow(0px 2px 7px transparent); }
+  -webkit-filter: drop-shadow(2px 2px 7px white);
+  filter: drop-shadow(2px 2px 7px white); }
 
 .site-title {
-  color: black;
-  text-shadow: 0px 2px 7px transparent;
+  color: #404042;
+  text-shadow: 2px 2px 7px white;
   text-transform: uppercase;
   font-size: 4rem;
   padding-bottom: 4rem;
@@ -2027,7 +2027,7 @@ table tr, table td {
   margin: 2rem 0;
   color: white;
   text-transform: uppercase;
-  text-shadow: 0px 2px 7px transparent; }
+  text-shadow: 2px 2px 7px white; }
 .post .headshot {
   width: 100%;
   max-width: 15rem;
@@ -2042,7 +2042,7 @@ table tr, table td {
 
 .tag-container {
   color: white;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 1rem; }
 
 .tag {
@@ -2053,7 +2053,7 @@ table tr, table td {
 .author-attribution {
   color: white;
   font-weight: 300;
-  text-shadow: 0px 2px 7px transparent;
+  text-shadow: 2px 2px 7px white;
   margin-bottom: 2rem;
   font-style: italic; }
   .author-attribution a {
@@ -2643,76 +2643,56 @@ form select {
   margin-left: 13%;
   margin-top: 20px; }
 
-.newsletter {
-  background: #404042;
-  color: white;
-  text-align: center;
-  padding: 1rem; }
-  .newsletter p {
-    margin-bottom: 1.5rem; }
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
 
-.newsletter_optin {
-  max-width: 50rem;
-  margin: 3rem auto;
-  margin-bottom: 0rem;
-  margin-top: 4.5rem; }
-  .newsletter_optin input {
-    vertical-align: middle; }
-  .newsletter_optin input[type='email'] {
-    border-radius: 0px;
-    background: rgba(255, 255, 255, 0.3);
-    border: 1px solid white;
-    color: #404042;
-    font-size: 2rem;
-    padding: 1.3rem;
-    height: auto;
-    width: 70%;
-    display: inline-block;
-    margin-right: 1rem;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
-    .newsletter_optin input[type='email']::-webkit-input-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']::-moz-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:-moz-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:-ms-input-placeholder {
-      color: white; }
-    .newsletter_optin input[type='email']:focus {
-      background: white;
-      color: #404042;
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-      .newsletter_optin input[type='email']:focus::-webkit-input-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus::-moz-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus:-moz-placeholder {
-        color: transparent; }
-      .newsletter_optin input[type='email']:focus:-ms-input-placeholder {
-        color: transparent; }
-  .newsletter_optin input[type="submit"] {
-    background: transparent;
-    color: white;
-    padding: 1.3rem 2rem;
-    text-transform: capitalize;
-    font-size: 2rem;
-    border-radius: 0px;
-    font-weight: 300;
-    border: 1px solid white;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
-    .newsletter_optin input[type="submit"]:hover {
-      background: #fff;
-      color: #404042; }
-    .newsletter_optin input[type="submit"]:active {
-      box-shadow: 0 0 0 #404042; }
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
 
-@media (max-width: 1113px) {
-  .newsletter_optin input[type="submit"], .newsletter_optin input[type="email"] {
-    margin: 10px auto;
-    width: 90%; } }
+.e2ma_signup_form_required_asterix {
+  color: #404042 !important; }
+
+.e2ma_signup_form input[type="submit"] {
+  background-color: #404042;
+  margin: 0 auto;
+  display: block; }
+
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #404042;
+  Border: 1px solid #404042; }
+
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
+
 .cta {
   background: transparent;
   color: #123456;
