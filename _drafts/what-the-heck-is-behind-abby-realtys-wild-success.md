@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gray-youtube-4-1.jpg
 youtube_code: iwlO5RwBcRw
 ---
 
-{% include youtube.html %}Today I’m sharing the two main reasons, among many others, why Abby Realty has been so successful.
+{% include youtube.html %}<center>Today I’m sharing the two main reasons, among many others, why Abby Realty has been so successful.</center>
 
 By now, many people have heard about Abby Realty’s success. We’re only two years old but we have more than 300 agents and are seeing growth with no signs of stopping. We’ve opened offices in Tyler, Southwest Houston, Katy, and beyond—how did this meteoric rise happen?
 
