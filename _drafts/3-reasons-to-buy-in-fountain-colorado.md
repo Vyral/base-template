@@ -21,7 +21,9 @@ youtube_code: t4l2_-XCbgk
 
 {% include youtube.html %}
 
-We love Fountain, Colorado\! Here are three great reasons you should consider buying a home in Fountain:
+<center><em>We’re sharing three great reasons you may want to consider buying a home in Fountain, Colorado.</em></center>
+
+<br>We love Fountain, Colorado! Here are three great reasons you should consider buying a home in Fountain:
 
 **1\. Personality of a small town, convenience of a city**. Fountain has the personality of a small town but is close to anything you may want. It’s just down the road from downtown Colorado Springs, a quick drive to the Colorado Springs airport, and minutes away from Fort Carson’s Gate 20.
 
