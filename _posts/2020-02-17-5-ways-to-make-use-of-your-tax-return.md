@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If your tax return is burning a hole in your pocket, you can put it to good
   use in a number of different ways. Here’s how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/5+Ways+to+Make+Use+of+Your+Tax+Return.mp4
 pullquote: You can use your tax return to make tax-free gains.
 enclosure_type: video/mp4
 enclosure_time:
