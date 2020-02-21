@@ -31,7 +31,7 @@ We are so appreciative of the continuous support we receive from our Family and 
 
 <center><a href="https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/GOLF_FLYER.jpg"><strong>Golf Tournament Flyer Click Here&nbsp;</strong></a></center>
 
-<center><a target="_blank" href="https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/SIGNUP_FORM.jpg"><strong>Golf Tournament Sign Up Form Click Here</strong></a></center>
+<center><a target="_blank" href="https://form.jotform.com/200485155670050"><strong>Golf Tournament Sign Up Form Click Here</strong></a></center>
 
 <center>&nbsp;</center>
 
