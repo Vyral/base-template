@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/sikes-youtube-3-3.jpg
-youtube_code: il8-GDlY7SA
+youtube_code: U9nLbZYdPR4
 ---
 
 {% include youtube.html %}
