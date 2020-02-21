@@ -21,7 +21,7 @@ youtube_code: smmuH_7s1k4
 
 {% include youtube.html %}
 
-I recently sat down with Steve Miller, of Cardin & Miller Physical Therapy, to share why the business started and who it serves.
+<p style="text-align: center;"><em>I recently sat down with Steve Miller, of Cardin & Miller Physical Therapy, to share why the business started and who it serves.</em></p>
 
 We’re back with another Brand Ambassador video, sitting down with Steve Miller of Cardin & Miller Physical Therapy—an incredible business leader in our community.&nbsp;
 
