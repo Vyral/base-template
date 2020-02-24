@@ -29,9 +29,9 @@ We’re back with another Brand Ambassador video, sitting down with Steve Miller
 
 Everybody sells a certain product on the marketplace; they truly sell hope and reassurance that you’ll get back to business as usual and no longer have to be limited when enjoying friends and family. Beyond that, they sell custom foot orthotics, a device that goes in your shoe and helps to support your arch and combat heel, arch, and foot pain.&nbsp;
 
-Arguably nothing is more valuable than the knowledge of the human body (and how to best use it) that Cardin & Miller offer. After talking with about my own physical problem area, I immediately got the peace of mind that there is indeed a solution.&nbsp;&nbsp;
+Arguably nothing is more valuable than the knowledge of the human body (and how to best use it) that Cardin & Miller offer. After speaking with them about my own problem area, I immediately got the peace of mind that there was indeed a solution.&nbsp;&nbsp;
 
-The bulk of their clients fall in the age group of 35 to 64, and they help each and every one restore and maintain their mobility and balance. Steve says there are two questions that clients ask him most often: “How did I get this pain/injury?” and “How do I get back to doing the things that I love?” Cardin & Miller has the answers they need most.
+The bulk of their clients fall in the age group of 35 to 64, and they help each one restore and maintain their mobility and balance. Steve says there are two questions that clients ask him most often: “How did I get this pain/injury?” and “How do I get back to doing the things that I love?” Cardin & Miller has the answers they need most.
 
 {% include pullquote.html %}
 
