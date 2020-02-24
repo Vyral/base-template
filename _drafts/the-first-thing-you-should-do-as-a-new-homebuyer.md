@@ -21,7 +21,7 @@ youtube_code: ND-jnF9cnjw
 
 {% include youtube.html %}
 
-*If you’re thinking of buying your first home, the first thing you should do is meet with a lender. Here’s why. *
+If you’re thinking of buying your first home, the first thing you should do is meet with a lender. Here’s why.
 
 What’s the first thing you should do if you’re thinking about purchasing a home?
 
