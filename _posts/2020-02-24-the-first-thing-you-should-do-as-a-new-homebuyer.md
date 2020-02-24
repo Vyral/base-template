@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First Thing You Should Do as a New Homebuyer
-date: 2020-02-24 19:06:05
+date: 2020-02-24 19:06:00
 tags:
   - Real Estate
 excerpt: >-
@@ -15,13 +15,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/rosie-hayer-what-homebuyers-should-do-first-youtube.jpg
+youtube_alternate_image: /uploads/rosie-hayer-what-homebuyers-should-do-first-youtube-1.jpg
 youtube_code: ND-jnF9cnjw
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re thinking of buying your first home, the first thing you should do is meet with a lender. Here’s why.</em></p>
+*If you’re thinking of buying your first home, the first thing you should do is meet with a lender. Here’s why.*
 
 What’s the first thing you should do if you’re thinking about purchasing a home?
 
