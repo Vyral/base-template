@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The First Thing You Should Do as a New Homebuyer
-date:
+date: 2020-02-24 19:06:05
 tags:
   - Real Estate
 excerpt: >-
