@@ -19,7 +19,7 @@ youtube_code: _2Y49-xCb5E
 
 {% include youtube.html %}
 
-Join me for our February market report. Today I’m sharing everything you need to know about our current real estate market.&nbsp;
+<p style="Text-align: center;"><em>Join me for our February market report. Today I’m sharing everything you need to know about our current real estate market.&nbsp;</em></p>
 
 Today I have your February hot off the press market report. I’m eager to share all the new information with you. Despite last year’s doom and gloom about where the economy is headed, economists are now pushing back the recession timeline. Here is everything you need to know about our current market.&nbsp;
 
