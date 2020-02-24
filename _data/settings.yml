@@ -9,12 +9,14 @@ custom_links:
 #     url: /value-my-home/
   - title: Agent Training
     url: /agent-training
-  - title: About Me
+  - title: About
     url: /meet-the-team
   - title: Testimonials
     url: /testimonials
   - title: Community Events
     url: /community-events/
+  - title: Apply Now
+    url: http://applywiththebetzteam.com   
 client:
   name: Wade Betz
   license_number:
