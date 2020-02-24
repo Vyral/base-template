@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don’t Forget These 3 Items on Your 2020 Tax Return
-date: 2019-02-18 19:22:00
+date: 2020-02-24 00:00:00
 tags:
   - Real Estate
 excerpt: >-
