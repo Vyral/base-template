@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/dana-yt.jpg
 youtube_code: BqLMXuALrKE
 ---
 
-{% include youtube.html %}We’re proud to introduce you to Dana, the newest buyer’s specialist on our team. Here’s what she had to say about joining Team Lally.&nbsp;
+{% include youtube.html %}<center>We’re proud to introduce you to Dana, the newest buyer’s specialist on our team. Here’s what she had to say about joining Team Lally.&nbsp;</center>
 
 Dana, a lifelong Oahu resident, possesses refined customer service skills and in-depth market knowledge. As Team Lally’s newest buyer’s specialist, her strengths have become tremendous team assets. We asked Dana some questions so that you can get to know her a little bit better, and here’s what she had to say:&nbsp;
 
