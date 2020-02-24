@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   You don’t need a massive down payment to afford a home. Here are a few of the
   different options you have.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/You+Dont+Need+20%25+For+a+Down+Payment.mp4
 pullquote: Our buyer consultation will get you started on the right foot.
 enclosure_type: video/mp4
 enclosure_time:
