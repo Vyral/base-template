@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have Questions About Interest Rates? We Have Answers
-date: 2020-02-21 21:35:55
+date: 2020-02-21 21:35:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -37,7 +37,7 @@ Our industry is very regulated, and loan officers don’t make money off of inte
 
 {% include pullquote.html %}
 
-One thing to keep in mind, though, is that the lowest interest rate very rarely guarantees the lowest payment. This is because the lowest rates usually come with shorter-term loans (a 10- or 15-year mortgage as opposed to a 25- or 30-year one). Since you’re shortening the term quite a bit, your payment will be higher. So ask yourself before getting a loan: Is getting a really low interest rate really meeting your family’s financing goals? Government loan programs come with lower rates, and their credit score price adjustments aren’t as stringent, but they also come with private mortgage insurance for the life of the loan.
+One thing to keep in mind, though, is that the lowest interest rate very rarely guarantees the lowest payment. This is because the lowest rates usually come with shorter-term loans (a 10- or 15-year mortgage as opposed to a 25- or 30-year one). Since you’re shortening the term quite a bit, your payment will be higher. So ask yourself before getting a loan: Will getting a really low interest rate truly help meet your family’s financing goals? Government loan programs come with lower rates, and their credit score price adjustments aren’t as stringent, but they also come with private mortgage insurance for the life of the loan.
 
 The most important thing to remember when meeting with a financial advisor is that you’re meeting all of your financial goals. Is your down payment where you need it to be? How about your monthly payments? Are you comfortable with everything that goes into your mortgage?&nbsp;
 
