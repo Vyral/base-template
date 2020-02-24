@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The 411 on 473: Tulsa’s Awesome New Bar'
-date: 2020-02-03 16:39:26
+date: 2020-02-03 16:39:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 56-NWENbWt0
 
 {% include youtube.html %}
 
-I love Tulsa, I love food, and I really love new bars in town\! I’m so excited to introduce you to Niki and Andrew Layson, the owners of Bar 473 here in Kendall Whittier district.&nbsp;
+We love Tulsa, we love food, and we really love new bars in town\! We're so excited to introduce you to Niki and Andrew Layson, the owners of Bar 473 here in Kendall Whittier district.&nbsp;
 
 The bar’s name is an homage to the building it occupies, which was once a nationally registered historic place: Phillips 66 gas station No. 473, one of the early businesses in the first suburban development of Tulsa.&nbsp;
 
@@ -37,4 +37,4 @@ As Andrew put it, “We need to pay more attention to those local artists that a
 
 Follow 473 on Instagram (@four.seven.three) and Facebook (@bar473), or visit their website: [www.bar473.com](http://www.bar473.com){: target="_blank"}.
 
-If you have any questions about the wonderful ways in which Tulsa is growing, or you’re interested in buying or selling soon, give me a call. I’d love to talk with you.
+If you have any questions about the wonderful ways in which Tulsa is growing, or you’re interested in buying or selling soon, give us a call. We’d love to talk with you.
