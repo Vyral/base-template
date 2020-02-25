@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Word About Showing Your Listing Directly to Buyers
-date: 2020-02-24 23:52:38
+date: 2020-02-24 23:52:00
 tags:
   - Listing Presentation
 excerpt: >-
@@ -31,6 +31,6 @@ For buyers that have an agent who's out of town, for example, I’ll continue to
 
 The other way I protect myself is when someone says they have no agent, I push them pretty hard about it. I ask them why they’re looking without an agent and whether they’ve looked at a home with an agent in the past. I make sure they understand that if I show them the house I will get the commission.
 
-**Even though it can be frustrating to deal with, it’s important that you confirm and procure cause every time that a buyer wants to see your listing.** A lot of these agents that buyers are working with our friends or family members who are in this business part time.
+**Even though it can be frustrating to deal with, it’s important that you confirm and procure cause every time that a buyer wants to see your listing.** A lot of these agents that buyers work with are friends or family members who are in this business part-time.
 
 If you have any questions about what you should do in a situation like this, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
