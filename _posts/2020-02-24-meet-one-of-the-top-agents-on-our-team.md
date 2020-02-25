@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Meet One of the Top Agents On Our Team
-date: 2020-02-24 23:37:03
+date: 2020-02-24 23:37:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -30,6 +30,6 @@ Speaking of which, our market is really heating up\! We have a shortage of inven
 
 {% include pullquote.html %}
 
-A fun fact about Derek: He participates in triathlons as one of his hobbies. He has a background running track and cross-country in high school, and was involved in gymnastics growing up. This is something else that he has in common with the Air Assault Team: **We either participate or sponsor several local running events.** Here on the team, we love different types of challenges and live by the “work hard, play hard” philosophy.
+A fun fact about Derek: He participates in triathlons as one of his hobbies. He has a background running track and cross-country in high school and was involved in gymnastics growing up. This is something else that he has in common with the Air Assault Team: **We either participate or sponsor several local running events.** Here on the team, we love different types of challenges and live by the “work hard, play hard” philosophy.
 
-If you don’t already have a top agent who knows how to navigate a heated market, the Air Assault team has the tools to help you. Don’t hesitate to reach out to us for any questions you have. Ours is a fantastic market to buy, sell, and invest in.
+If you don’t already have a top agent who knows how to navigate a heated market, the Air Assault Team has the tools to help you. Don’t hesitate to reach out to us with any questions you have.
