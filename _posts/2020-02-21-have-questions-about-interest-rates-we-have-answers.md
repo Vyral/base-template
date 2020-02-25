@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/interest-rates-youtube.jpg
-youtube_code: _nsjQ8NLM4o
+youtube_code: hc4N3gc2vAI
 ---
 
 {% include youtube.html %}
