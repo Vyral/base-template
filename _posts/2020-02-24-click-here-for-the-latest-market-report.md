@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click Here For the Latest Market Report
+title: Your Latest Market Report
 date: 2020-02-24 21:45:17
 tags:
   - Market Update
