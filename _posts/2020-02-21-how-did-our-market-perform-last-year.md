@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Did Our Market Perform Last Year?
-date: 2020-02-21 22:39:54
+date: 2020-02-21 22:39:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/justin-woodall-how-did-our-market-perform-last-year-youtube-1.jpg
-youtube_code: Dju42Ny7edI
+youtube_code: dFK3XQETVVw
 ---
 
 {% include youtube.html %}
