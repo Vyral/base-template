@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet One of the Top Agents On Our Team
+title: Meet One of the Top Agents on Our Team
 date: 2020-02-24 23:37:00
 tags:
   - Home Seller Tips
