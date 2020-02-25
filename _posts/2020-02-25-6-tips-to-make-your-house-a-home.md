@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Tips to Make Your House a Home
-date:
+date: 2020-02-25 14:34:03
 tags:
 excerpt: >-
   We’re sharing six tips for how to turn your new house or apartment into a
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/cook-youtube-4-1.jpg
 youtube_code: 5M2G461B_yU
 ---
 
-{% include youtube.html %}<center>We’re sharing six tips for how to turn your new house or apartment into a home.</center>
+{% include youtube.html %}
+
+<center>We&rsquo;re sharing six tips for how to turn your new house or apartment into a home.</center>
+
+&nbsp;
 
 When moving into a house or apartment, all the blank walls and empty space can make the house feel dreary. Make yourself at home\! Change your perspective to see this as your fresh start to create an environment that feels like home. Here are six ideas to help turn this blank pallet into a home:
 
