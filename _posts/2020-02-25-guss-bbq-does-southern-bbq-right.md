@@ -19,7 +19,7 @@ youtube_code: Rf-qL-F9W9c
 
 {% include youtube.html %}
 
-Here’s my review of California’s favorite Gus’s BBQ and their amazing menu staples.
+<p style="text-align: center;"><em>Here’s my review of California’s favorite Gus’s BBQ and their amazing menu staples.</em></p>
 
 The recently opened Porter Ranch location of Gus’s BBQ is a prime cut above the competition. I had the pleasure of chowing down on an entree of brisket, pulled pork, and fried chicken, complemented by fresh greens and creamy mac n’ cheese. It was a must-have dining experience I recommend to everyone\! **Here are some helpful things that potential patrons should know before visiting Gus’s:&nbsp;**
 
