@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/nE2QtP4GETM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are plenty of loan programs available to homebuyers, even if their credit isn’t perfect.</em></p>
+
 If you’re thinking of buying a home, **there are several different loan programs available to homebuyers, depending on what you qualify for.&nbsp;**
 
 Conventional loans typically need more of a down payment, although there are some loan programs that offer 100% financing, such as the THDA, USDA, and VA loans. FHA loans, meanwhile, only require 3.5% down. If you have more cash to put down, there are conventional loan products you can opt for where you won’t have to pay private mortgage insurance.&nbsp;
