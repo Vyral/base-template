@@ -39,6 +39,6 @@ The best way to get in touch with the professionals at Cardin & Miller Physical 
 
 For vlog visitors, they’re offering some amazing specials. For example, if you call in and **tell them that you heard about them via our interview, they’ll give you a free screen**—a one-on-one meeting with one of their expert physical therapists. This consultation (offered in-person or over the phone for those folks who are more timid about these things) is critical for correctly identifying the issue and moving forward with a fix.&nbsp;
 
-**Cardin & Miller will also offer $5 off custom foot orthotics\!** Don’t miss this chance to get in touch with a great staff in multiple locations and get your body right.&nbsp;
+**Cardin & Miller will also offer $25 off custom foot orthotics\!** Don’t miss this chance to get in touch with a great staff in multiple locations and get your body right.&nbsp;
 
 As always, reach out to me if you have questions about or suggestions for our Brand Ambassador series, or want to discuss other real estate topics. I’m glad to help you in any way I can.
