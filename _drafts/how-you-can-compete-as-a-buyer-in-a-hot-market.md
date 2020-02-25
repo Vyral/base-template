@@ -19,7 +19,9 @@ youtube_code: aS0IJJAIgwE
 
 {% include youtube.html %}
 
-How can you compete as a buyer in a hot market?
+<center><em>There are three tips to remember to compete as a buyer in a hot market.</em></center>
+
+<br>How can you compete as a buyer in a hot market?
 
 First, **have your financing in place and be ready to make a move**. Oftentimes, buyers look for houses without having their financing in order, then once they have to compete in a multiple-offer situation, they’re scrambling to get their documents in order. That’s not the way to win the home you want.
 
