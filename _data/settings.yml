@@ -7,9 +7,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: /join-our-team
-  - title: Free Strategy Call
-    url: /strategy-call/
+    url: https://wizehire.com/cmp/the-spaniak-team-exp-realty
+  - title: Learn More About eXp Realty
+    url: https://www.eventbrite.com/e/learn-more-about-exp-realty-no-pressure-tickets-96752925605
   - title: Free Newsletter
     url: /subscribe/
 emma_form:
