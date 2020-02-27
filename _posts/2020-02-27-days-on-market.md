@@ -20,7 +20,7 @@ youtube_code: 8LufwgmEghM
 
 {% include youtube.html %}
 
-<center><em>Here’s why days on market is an important metric when it comes to the real estate market.</em></center>
+<center><em>Here&rsquo;s why days on market is an important metric when it comes to the real estate market.</em></center>
 
 <br>What does the term “days on market” mean and why is it important for sellers to know?
 
