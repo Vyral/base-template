@@ -17,7 +17,9 @@ youtube_code: '-2Ay8VAQSdI'
 
 {% include youtube.html %}
 
-Where has the inventory gone? That’s the question everyone’s asking.
+<center><em>Inventory is low, which means it’s a great time to sell in our market.</em></center>
+
+<br>Where has the inventory gone? That’s the question everyone’s asking.
 
 Buyers are out in full force because interest rates are once again at an all-time low. **It’s a wonderful time to buy, houses are selling quickly, and we’re seeing multiple-offer situations again**.
 
