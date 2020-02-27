@@ -17,7 +17,7 @@ youtube_code: '-2Ay8VAQSdI'
 
 {% include youtube.html %}
 
-<center><em>Inventory is low, which means it’s a great time to sell in our market.</em></center>
+<center><em>Inventory is low, which means it&rsquo;s a great time to sell in our market.</em></center>
 
 <br>Where has the inventory gone? That’s the question everyone’s asking.
 
