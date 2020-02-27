@@ -19,7 +19,7 @@ youtube_code: SjJim3IwFhQ
 
 {% include youtube.html %}
 
-We get asked all the time about when the “perfect” time to sell a home is. Here’s what I’ve been telling people lately.
+<p style="text-align: center;"><em>We get asked all the time about when the “perfect” time to sell a home is. Here’s what I’ve been telling people lately.</em></p>
 
 One of the most common questions I hear on a day-to-day basis from clients is, “When should I list my property for sale?” I’m here to answer the question today. **Some things have changed, but these are the reasons you should consider listing in the near future.&nbsp;**
 
