@@ -42,3 +42,5 @@ For vlog visitors, they’re offering some amazing specials. For example, if you
 **Cardin & Miller will also offer $25 off custom foot orthotics\!** Don’t miss this chance to get in touch with a great staff in multiple locations and get your body right.&nbsp;
 
 As always, reach out to me if you have questions about or suggestions for our Brand Ambassador series, or want to discuss other real estate topics. I’m glad to help you in any way I can.
+
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Brand+Ambassador+Coupons/IMG_9927.jpg" height="670" width="300"></div>
