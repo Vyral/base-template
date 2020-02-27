@@ -8,13 +8,13 @@ excerpt: >-
   Here’s my review of California’s favorite Gus’s BBQ and their amazing menu
   staples.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+Gus's+BBQ.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+gus's+bbq+fixed+audio.mp4
 pullquote: 'Happy hour is Monday through Friday, 3 p.m. to 6 p.m.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Rf-qL-F9W9c
+youtube_code: Cm6mnd_zl5M
 ---
 
 {% include youtube.html %}
