@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why You Need to Hire the Right Agent
-date: 2020-02-27 20:38:59
+date: 2020-02-27 20:38:00
 tags:
-  - Home Seller Tips
+  - Home Buyer Tips
 excerpt: >-
   In today’s competitive market, you need every advantage you can get as a
   homebuyer. It all starts with hiring the right agent.
