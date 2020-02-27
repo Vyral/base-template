@@ -20,7 +20,9 @@ youtube_code: 8LufwgmEghM
 
 {% include youtube.html %}
 
-What does the term “days on market” mean and why is it important for sellers to know?
+<center><em>Here’s why days on market is an important metric when it comes to the real estate market.</em></center>
+
+<br>What does the term “days on market” mean and why is it important for sellers to know?
 
 Days on market refers to the time between when a home is listed on the MLS and when it’s sold or taken off the market, it measures how long it takes a home to sell. What’s considered “good” when it comes to days on market? Well, if the average days on market for an area is 29 days, it’s better to sell your home in less time than that.
 
