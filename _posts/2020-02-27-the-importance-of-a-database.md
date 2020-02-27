@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Importance of a Database
-date: 2020-02-27 20:50:32
+date: 2020-02-27 20:50:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/importance-of-database-youtube.jpg
-youtube_code: aAkyODCCSM8
+youtube_code: CqYHfoJOPtA
 ---
 
 {% include youtube.html %}
