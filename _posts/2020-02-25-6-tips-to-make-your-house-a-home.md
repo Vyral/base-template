@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Tips to Make Your House a Home
-date: 2020-02-25 14:34:03
+date: 2020-02-25 14:34:00
 tags:
 excerpt: >-
   We’re sharing six tips for how to turn your new house or apartment into a
@@ -29,7 +29,7 @@ When moving into a house or apartment, all the blank walls and empty space can m
 
 {% include pullquote.html %}
 
-**3\. Textiles.** Add warmth to any room by incorporating crisp linens and plush rugs. By simply adding curtains or throw blankets a room can feel more cozy and inviting.
+**3\. Textiles.** Add warmth to any room by incorporating crisp linens and plush rugs. By simply adding curtains or throw blankets a room can feel cozier and inviting.
 
 **4\. Walls.** Take up space on the walls by adding bright artwork and photographs of loved ones. Consider creating your very own gallery wall, a space with various sizes of decor and framed memories.&nbsp;
 
