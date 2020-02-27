@@ -19,6 +19,8 @@ youtube_code: 2hEhdL6tzjA
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’ll remind you of items you should include on your 2020 tax returns.</em></p>
+
 When you finally get around to filling out your tax returns, don’t forget to include the following three items:
 
 **1\. The interest rate on your mortgage.** Every year, the bank through which you got your mortgage will send you a 1098 form, which states how much interest you’ve paid over the year. That interest is deductible on your tax returns.
