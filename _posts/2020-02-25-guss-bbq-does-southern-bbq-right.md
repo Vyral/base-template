@@ -21,13 +21,13 @@ youtube_code: Cm6mnd_zl5M
 
 <p style="text-align: center;"><em>Here’s my review of California’s favorite Gus’s BBQ and their amazing menu staples.</em></p>
 
-The recently opened Porter Ranch location of Gus’s BBQ is a prime cut above the competition. I had the pleasure of chowing down on an entree of brisket, pulled pork, and fried chicken, complemented by fresh greens and creamy mac n’ cheese. It was a must-have dining experience I recommend to everyone\! **Here are some helpful things that potential patrons should know before visiting Gus’s:&nbsp;**
+The recently opened Porter Ranch location of Gus’s BBQ is a prime cut above the competition. I had the pleasure of chowing down on an entree of brisket, pulled pork, and fried chicken, complemented by fresh greens and creamy mac n’ cheese. It was a must-have dining experience that I recommend to everyone\! **Here are some helpful things that potential patrons should know before visiting Gus’s:&nbsp;**
 
 * Happy hour is Monday through Friday, 3 p.m. to 6 p.m.&nbsp;
 * Monday’s weekly special: an oversized, smoked, bone-in beef rib with two sides, only $27.95&nbsp;
-* Tuesday’s weekly special: specialty burger with fires and an old-fashioned&nbsp;
+* Tuesday’s weekly special: specialty burger with fries and an old-fashioned&nbsp;
 
-Since I have a soon-to-be 4-year-old, I know the parental pain of ordering a full meal for your child, only to have them not eat it. Thankfully, at Gus’s, they have a plethora of options for kiddos. One of my favorites is the grilled cheese plus a side of fruit and french fries for just $5.95\! You can’t even get that much at a fast-food restaurant for that price.&nbsp;
+Since I have a soon-to-be 4-year-old, I know the parental pain of ordering a full meal for your child only to have them not eat it. Thankfully, at Gus’s, they have a plethora of options for kiddos. One of my favorites is the grilled cheese plus a side of fruit and french fries for just $5.95\! You can’t even get that much at a fast-food restaurant for that price.&nbsp;
 
 **There are also many great beers on tap,** and their wine and spirits selection is top-notch.
 
