@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here’s why days on market is an important metric when it comes to the real
   estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Days+on+Market.mp4
 pullquote: >-
   If the average days on market for an area is 29 days, it’s better to sell your
   home in less time than that.
