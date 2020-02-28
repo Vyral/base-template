@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Spring Is Coming, and the Time to Sell Is Now'
-date: 2020-02-28 21:59:30
+date: 2020-02-28 21:59:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,14 +12,14 @@ enclosure: >-
 pullquote: 'The market is tight, so if you let us market your home, it will sell.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/now-is-the-best-time-to-call-youtube.jpg
 youtube_code: 5DLxwwnejZ0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.</em></p>
+*Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.*
 
 My guest in today’s video is someone you might recognize: Tony Cruise, the host of the morning news show on 840 WHAS. He joins me because spring is coming, and more and more people are thinking of selling their home. If you’re thinking the same thing, **here are a few quick tips we’d like to share to help prepare your home for the market:**&nbsp;
 
