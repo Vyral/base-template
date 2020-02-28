@@ -25,7 +25,7 @@ A lot of consumers these days want to find deals on homes by looking online in p
 
 {% include pullquote.html %}
 
-For example, there is a property that we’re getting ready to list in Salem. It’s a four-bedroom, two-bathroom home that’s worth around $300,000. I’m going to reach out to my connections because my seller wants to sell the house with as few people walking through his house as possible. I’ll let them know about the house, the price, and see if they have anybody who may be interested. **My client doesn’t want their life disrupted, so I’m going to do what I can to find a buyer as soon as it’s listed on the market.**
+For example, there is a property that we’re getting ready to list in Salem. It’s a 4-bedroom, 2-bathroom home that’s worth around $300,000. I’m going to reach out to my connections because my seller wants to sell the house with as few people walking through his house as possible. I’ll let them know about the house, the price, and see if they have anybody who may be interested. **My client doesn’t want their life disrupted, so I’m going to do what I can to find a buyer as soon as it’s listed on the market.**
 
 You must find an agent that you know and trust. They should be very involved in the market and have connections so that you can access these houses before they hit the market, too.
 
