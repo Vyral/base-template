@@ -15,8 +15,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/2-18---brian-canady---yt.jpg
-youtube_code: t4l2_-XCbgk
+youtube_alternate_image: /uploads/2-24---brian-canady---yt.jpg
+youtube_code: Fzv7vy9akyY
 ---
 
 {% include youtube.html %}
