@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Consider When Moving to Central Texas
-date:
+date: 2020-02-28 21:50:06
 tags:
   - Real Estate
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/XgqiO1Y4nFk'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are many things to think about before moving to a new area—what should you consider before moving to central Texas?</em></p>
+*There are many things to think about before moving to a new area—what should you consider before moving to central Texas?*
 
 What should you consider before moving to Fort Hood and the surrounding areas?&nbsp;
 
