@@ -18,7 +18,9 @@ youtube_code: MwoMvA_k1zg
 
 {% include youtube.html %}
 
-For this episode of “Everyday Encinitas,” I’ll show you a recent guest spot I did on the TV show “All About You” with host Rodrigo Ballon. In this wide-ranging interview, I talk about what motivated me to get to where I’m at in my real estate career, why there’s nowhere else I’d rather work than North County, and what I predict for the rest of the 2020 market.
+<center><em>I recently had the pleasure of joining Rodrigo Ballon on an episode of “All About You” to talk about a variety of topics.</em></center>
+
+<br>For this episode of “Everyday Encinitas,” I’ll show you a recent guest spot I did on the TV show “All About You” with host Rodrigo Ballon. In this wide-ranging interview, I talk about what motivated me to get to where I’m at in my real estate career, why there’s nowhere else I’d rather work than North County, and what I predict for the rest of the 2020 market.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
