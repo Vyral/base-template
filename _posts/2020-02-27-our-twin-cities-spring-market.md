@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Twin Cities Spring Market
-date: 2020-02-27 21:42:06
+date: 2020-02-27 21:42:00
 tags:
 excerpt: I’m sharing a quick spring market update for our Twin Cities.
 enclosure:
@@ -15,7 +15,7 @@ youtube_code: chkfaMKnrJU
 
 {% include youtube.html %}
 
-This is one of my favorite times of the year—we’ve begun our spring market\! It’s a great time to sell your home for top dollar in Minnesota. Today we’re sharing a quick spring market update. 2019 was a record year, so if you’re a buyer entering this market, you have to be fully pre-approved, underwritten, and be ready to jump on a house as soon as it hits the market. Buyers: Brace yourselves for a very competitive market this spring.
+This is one of our favorite times of the year—we’ve begun our spring market\! It’s a great time to sell your home for top dollar in Minnesota. Today we’re sharing a quick spring market update. 2019 was a record year, so if you’re a buyer entering this market, you have to be fully pre-approved, underwritten, and be ready to jump on a house as soon as it hits the market. Buyers: Brace yourselves for a very competitive market this spring.
 
 {% include pullquote.html %}
 
