@@ -19,7 +19,7 @@ youtube_code: 5DLxwwnejZ0
 
 {% include youtube.html %}
 
-Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.
+<p style="text-align: center;"><em>Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.</em></p>
 
 My guest in today’s video is someone you might recognize: Tony Cruise, the host of the morning news show on 840 WHAS. He joins me because spring is coming, and more and more people are thinking of selling their home. If you’re thinking the same thing, **here are a few quick tips we’d like to share to help prepare your home for the market:**&nbsp;
 
