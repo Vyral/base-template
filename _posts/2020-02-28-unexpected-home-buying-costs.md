@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unexpected Home Buying Costs
-date:
+date: 2020-02-28 19:48:29
 tags:
   - Real Estate
   - Home Buyer Tips
