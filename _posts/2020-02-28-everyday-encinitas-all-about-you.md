@@ -24,6 +24,6 @@ youtube_code: MwoMvA_k1zg
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
 
-0:45 - How I got my start<br>2:29 - What I was doing before real estate<br>4:46 - Why I enjoy working in North County&nbsp;<br>7:10 - The type of person I’m looking to bring on to my team&nbsp;<br>9:00 - Where I see the market heading for the rest of 2020<br>10:15 - Wrapping things up&nbsp;
+0:45 - How I got my start<br>2:29 - What I was doing before real estate<br>4:46 - Why I enjoy working in North County<br>7:10 - The type of person I’m looking to bring on to my team<br>9:00 - Where I see the market heading for the rest of 2020<br>10:15 - Wrapping things up
 
-If you have questions about any of the topics discussed in today’s video or you’re an agent looking to join a team that can take you to the next level in your career, give me a call, email me, or visit my website. I’d love to hear from you.
+If you have questions about any of the topics discussed in today’s video or you’re an agent looking to join a team that can take you to the next level in your career, give me a call, email me, or <u><a target="_blank" href="http://www.beachandsunhomes.com/">visit my website</a></u>. I’d love to hear from you.
