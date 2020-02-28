@@ -16,7 +16,7 @@ youtube_alternate_image: /uploads/2020-02-28-111910.jpg
 youtube_code:
 ---
 
-<center>When you&rsquo;re getting ready to list your home, it&rsquo;s of the utmost importance to ensure you are showing it in the best light. Taking time to highlight its strengths and fix up some of its possible weaknesses can make a big difference in how fast it sells. Here are our top five recommended repairs to make before selling your home.</center>
+When you&rsquo;re getting ready to list your home, it&rsquo;s of the utmost importance to ensure you are showing it in the best light. Taking time to highlight its strengths and fix up some of its possible weaknesses can make a big difference in how fast it sells. Here are our top five recommended repairs to make before selling your home.
 
 **Repaint walls.** Giving your home a fresh coat of paint is one of the most cost-effective ways to spruce it up, and generally, it can be a do-it-yourself project. Make sure cover any walls with scratches and chips and consider updating any accent walls with a more neutral coat.
 
