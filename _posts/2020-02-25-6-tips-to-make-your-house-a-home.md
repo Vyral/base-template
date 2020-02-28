@@ -10,7 +10,7 @@ enclosure:
 pullquote: Change your perspective to see this as your fresh start.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-4-1.jpg
 youtube_code: 5M2G461B_yU
 ---
