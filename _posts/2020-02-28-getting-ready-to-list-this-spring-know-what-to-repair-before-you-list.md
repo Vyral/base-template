@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting ready to list this Spring? Know what to repair before you list
-date:
+date: 2020-02-28 17:21:01
 tags:
   - Real Estate
 excerpt: >-
