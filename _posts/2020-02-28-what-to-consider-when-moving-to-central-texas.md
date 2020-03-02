@@ -19,12 +19,11 @@ youtube_code: 'https://youtu.be/XgqiO1Y4nFk'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There are many things to think about before moving to a new area—what should you consider before moving to Central Texas?</em></p>
-
+*There are many things to think about before moving to a new area—what should you consider before moving to Central Texas?*
 
 What should you consider before moving to Fort Hood and the surrounding areas?&nbsp;
 
-I moved to Fort Hood in 2005, and a couple of things I really thought about before deciding to plant roots in central Texas were affordability and whether this is a good area to raise my family in, with great schools and amenities.
+I moved to Fort Hood in 2005, and a couple of things I really thought about before deciding to plant roots in Central Texas were affordability and whether this is a good area to raise my family in, with great schools and amenities.
 
 The answer is that **Fort Hood has great amenities and plenty to do\!** Austin is about an hour’s drive away, Dallas is within two and a half hours, and Houston is about three hours away. You can get to many different events, sports, and concerts for a day trip.
 
