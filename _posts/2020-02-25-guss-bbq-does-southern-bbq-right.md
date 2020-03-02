@@ -3,7 +3,7 @@ layout: post
 title: Gus’s BBQ Does Southern BBQ Right
 date: 2020-02-25 20:47:38
 tags:
-  - 818 Eats
+  - Everything SFV
 excerpt: >-
   Here’s my review of California’s favorite Gus’s BBQ and their amazing menu
   staples.
