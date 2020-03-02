@@ -43,7 +43,7 @@ client:
   market: Denver
   brand: The Dixon Group
   brokerage: Keller Williams
-  address: '50 South Steele St., #700<br>Denver, CO 80209'
+  address: '50 South Steele St, #700<br>Denver, CO 80209'
   phone: (719) 399-0023
   phone_type:
   phone2:
