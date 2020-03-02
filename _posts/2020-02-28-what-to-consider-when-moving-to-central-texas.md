@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/XgqiO1Y4nFk'
 
 {% include youtube.html %}
 
-*There are many things to think about before moving to a new area—what should you consider before moving to Central Texas?*
+<p style="text-align: center;"><em>There are many things to think about before moving to a new area—what should you consider before moving to Central Texas?</em></p>
 
 What should you consider before moving to Fort Hood and the surrounding areas?&nbsp;
 
