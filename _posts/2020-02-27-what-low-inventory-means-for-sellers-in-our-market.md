@@ -23,7 +23,7 @@ youtube_code: '-2Ay8VAQSdI'
 
 Buyers are out in full force because interest rates are once again at an all-time low. **It’s a wonderful time to buy, houses are selling quickly, and we’re seeing multiple-offer situations again**.
 
-There isn’t a lot of inventory in certain price points in particular. In Tracy, for example, there are only a handful of houses available in the $400,000 to $800,000 range.
+Inventory is particularly low in certain price points. In Tracy, for example, there are only a handful of houses available in the $400,000 to $800,000 range.
 
 {% include pullquote.html %}
 
