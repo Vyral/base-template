@@ -21,7 +21,7 @@ youtube_code: 68kUis5yr7c
 
 {% include youtube.html %}
 
-Here’s the reality of renovating your home that many sellers and homeowners in general often miss.
+<p style="text-align: center;"><em>Here’s the reality of renovating your home that many sellers and homeowners in general often miss.</em></p>
 
 One of the biggest mistakes we see sellers make is waiting to renovate until they’re about to sell. Do yourself a favor and take care of those renovations while you live in the property, and enjoy them; you’re hardly ever going to get a dollar-for-dollar return on even the best renovations, like a kitchen or a bathroom, so offset the cost by utilizing the space yourself and getting value out of it each day.&nbsp;
 
