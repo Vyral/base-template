@@ -14,13 +14,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-unexpected-home-buying-costs-you-should-budget-for-youtube-1.jpg
+youtube_alternate_image: /uploads/4-unexpected-home-buying-costs-you-should-budget-for-2-youtube.jpg
 youtube_code: uEG0us4E7U0
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are four unexpected costs you should budget for when buying a home.</em></p>
+*Here are four unexpected costs you should budget for when buying a home.*
 
 If you’re a first-time homebuyer, here are four unexpected costs you need to budget for when buying your home:
 
