@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Keller Williams’ New Consumer App Can Do for You
-date: 2020-02-28 19:26:44
+date: 2020-02-28 19:26:00
 tags:
 excerpt: Here’s why people call KW’s new consumer app the “Zillow killer.”
 enclosure:
@@ -23,9 +23,9 @@ Why? **It provides real-time information.** As you may know, Zillow doesn’t ha
 
 {% include pullquote.html %}
 
-**To learn more about this app,**[**check out this video.**](https://www.kw.com/download/KW1PXRBF4) **If you’d like to download it, you can do so**[**here.**](https://www.kw.com/download/KW1PXRBF4)**&nbsp;**
+**To learn more about this app,&nbsp;**[**check out this video.**](https://www.kw.com/download/KW1PXRBF4) **If you’d like to download it, you can do so&nbsp;**[**here.**](https://www.kw.com/download/KW1PXRBF4)**&nbsp;**
 
-I would love any and all feedback regarding this app—what you like about it, what could be improved, etc. We can then relay that information to Keller Williams and make sure it helps you fulfill any and all of your real estate goals.&nbsp;
+I would love any and all feedback regarding this app—what you like about it, what could be improved, etc. We can then relay that information to Keller Williams and make sure it helps you fulfill any and your real estate goals.&nbsp;
 
 As always, if you have any other real estate questions, feel free to reach out to me as well. I’d love to help you.
 
