@@ -20,7 +20,7 @@ youtube_code: uZioiAfYBaA
 
 {% include youtube.html %}
 
-John Towne founded Christian Companion Senior Care as part of his spiritual walk 11 years. Here’s what amazing things they do for seniors in our community.
+<p style="text-align: center;"><em>John Towne founded Christian Companion Senior Care as part of his spiritual walk 11 years. Here’s what amazing things they do for seniors in our community.</em></p>
 
 For this most recent installment of our Brand Ambassador series, I sat down with John Towne, founder of Christian Companion Senior Care. I’m excited to introduce him here on my blog and highlight the quality senior care he provides to the Carlisle community, Cumberland County, and really the rest of South Central Pennsylvania.&nbsp;
 
