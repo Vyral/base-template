@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   There are three tips to remember if you're a buyer trying to compete in a hot
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/How+You+Can+Compete+as+a+Buyer+in+a+Hot+Market.mp4
 pullquote: >-
   A seller’s agent will be more comfortable recommending your offer if your
   agent communicates properly and instills confidence.
