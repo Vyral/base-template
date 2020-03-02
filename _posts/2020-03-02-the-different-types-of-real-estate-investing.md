@@ -21,7 +21,7 @@ youtube_code: nKOpN233X4g
 
 {% include youtube.html %}
 
-<p style="text-align;"><em>There are multiple kinds of real estate investing. Today we’ll discuss how three types can benefit you.</em></p>
+<p style="text-align: center;"><em>There are multiple kinds of real estate investing. Today we’ll discuss how three types can benefit you.</em></p>
 
 If you’re thinking about becoming a real estate investor, there are many different types of investments to consider.&nbsp; Today I’ll discuss three types and how they can benefit you.
 
