@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Unexpected Home Buying Costs
-date: 2020-02-28 19:48:29
+title: Unexpected Home-Buying Costs
+date: 2020-02-28 19:48:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -20,7 +20,7 @@ youtube_code: uEG0us4E7U0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are four unexpected costs you should budget for when buying a home.</em></p>
+*Here are four unexpected costs you should budget for when buying a home.*
 
 If you’re a first-time homebuyer, here are four unexpected costs you need to budget for when buying your home:
 
@@ -34,4 +34,4 @@ If you’re a first-time homebuyer, here are four unexpected costs you need to b
 
 **4\. Immediate costs.** While you may be able to put off renovations or new furniture purchases, there are some costs you’ll have to face right away. For instance, you’ll probably want to hire a locksmith to change the locks, and there could be deposits and/or setup fees for getting your utilities started. As a new homeowner, you’ll also be on the hook for routine and unplanned home maintenance. You should expect something to break or need replacing within the first year, so establish an emergency savings account with at least six months’ worth of expenses in case your water heater stops working. This way, you won’t have to use credit cards to cover unexpected costs, and you can spend time enjoying being a homeowner rather than worrying about how you’ll be able to afford it.&nbsp;
 
-If you have any other home buying questions or real estate needs at all, drop us a line or send us an email. We’re here to help you and those you care about move with confidence.&nbsp;
+If you have any other home-buying questions or real estate needs at all, drop us a line or send us an email. We’re here to help you and those you care about move with confidence.&nbsp;
