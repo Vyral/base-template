@@ -18,7 +18,9 @@ youtube_code: tcoyLhbA-gE
 
 {% include youtube.html %}
 
-If you’re deciding whether you should buy or rent a home, there are a few things you need to know. First, **if you rent for 10, 20, or even 30 years, you’ll end up throwing away a ton of money** that you could have invested in a home purchase instead. Second, **the government rewards homeowners by giving tax write-offs**.
+<center><em>There are some significant benefits to buying a home over renting one. Here are the three biggest ones.</em></center>
+
+<br>If you’re deciding whether you should buy or rent a home, there are a few things you need to know. First, **if you rent for 10, 20, or even 30 years, you’ll end up throwing away a ton of money** that you could have invested in a home purchase instead. Second, **the government rewards homeowners by giving tax write-offs**.
 
 Finally, **owning a home allows you to build equity** by paying down your mortgage and you can turn that equity into cash later on. Renting doesn’t give you that opportunity.
 
