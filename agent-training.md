@@ -23,16 +23,19 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
+**Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
 
-Are you truly ready for 2020? The goal of today’s webinar is to help you create a detailed event schedule for the entire year ahead. We teach systems and structure so you can reduce your time investment, increase your leads, and make more money. If you’re coming off of a busy year and you’re wondering how you’re going to manage an even busier year ahead, this seminar is for you. The key is structure—eliminate surprises and avoid unnecessary time conflicts.
+Relationships are important in every business, but especially so in real estate. In today's webinar, you’ll learn how to use networking to get more leads, more profit, and most importantly, more fun. There are certain tips and tricks that you can start using in your business today to start the process. For example, you can send out videos to your database that feature your vendors or invite VIPs to monthly happy hours.
 
 <iframe width="734" height="413" src="https://www.youtube.com/embed/g3zsRkJ3hA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
+
+**Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
+
 **Double Your Leads, Deepen Your Relationships** — [Video](https://youtu.be/g3zsRkJ3hA0) — [Resources](https://www.dropbox.com/sh/s2ey1j480l5joqm/AAD44cSCNfBEKPYhsll7zWkIa?dl=0)
 
-**Have Fun & Make Money During the Holidays, December 2019** — [Video](https://youtu.be/t7KUzNeAuM8 ) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
+**Have Fun & Make Money During the Holidays, December 2019** — [Video](https://youtu.be/t7KUzNeAuM8) — [Resources](https://www.dropbox.com/sh/bdkz9j01kqdlkbz/AADJCO9lMibwMzznFKW1Y4S6a?dl=0)
 
 **Goal Setting NOW to Explode Your 2020 Production\!, November 2019**&nbsp;— [Video](https://youtu.be/Ma5D_0ij_As) — [Resources](https://www.dropbox.com/sh/vdpqb5qxz9iyjd2/AADNyIaENKQ0vPI3nCJsSkF_a?dl=0)
 
