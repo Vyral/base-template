@@ -13,7 +13,7 @@ title: Dallas Real Estate Training - Dallas Mortgage Lender – The Betz Team
 
 <iframe allowfullscreen="" frameborder="0" height="300" src="https://marketinganimals.infusionsoft.com/app/form/58e996827b0f3e9309e2cedf1234a1ec?iFrame=true&amp;referrer=http%3A//agentmastermind.com/wadebetz/" width="502"></iframe>
 
-To catch the latest replay, email [TheBetzTeam@gmc-inc.com](mailto:TheBetzTeam@gmc-inc.com?subject=Replay%20Password) with “Agent Mastermind Replay” in the subject line.
+To catch the latest replay, email [TheBetzTeam@winningwithwade.com](mailto:TheBetzTeam@winningwithwade.com?subject=Replay%20Password) with “Agent Mastermind Replay” in the subject line.
 
 # Dallas Real Estate Agent Webinars
 
@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 Relationships are important in every business, but especially so in real estate. In today's webinar, you’ll learn how to use networking to get more leads, more profit, and most importantly, more fun. There are certain tips and tricks that you can start using in your business today to start the process. For example, you can send out videos to your database that feature your vendors or invite VIPs to monthly happy hours.
 
-<iframe width="734" height="413" src="https://www.youtube.com/embed/g3zsRkJ3hA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="734" height="413" src="https://vimeo.com/389312221/f82ef24445" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ### Previous Webinars:
 
