@@ -7,7 +7,7 @@ excerpt: >-
   The latest news from our Denver real estate market is here, so allow me to
   share a quick update with you, today.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/Denver+Real+Estate-+Is+Now+the+Best+Time+to+List+in+Denver%253F.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/2018/Denver+Real+Estate-+Is+Now+the+Best+Time+to+List+in+Denver_.mp4
 pullquote: Right now is certainly a good time to earn top dollar for your home.
 enclosure_type: video/mp4
 enclosure_time:
@@ -26,4 +26,4 @@ Spring is typically the hottest time of year to list your home. However, there a
 2. **Home prices are still surging.**Because we have such high demand and such low inventory, we’re still looking at double-digit growth year over year in terms of list price, which is now over $500,000 on average. Also, our homes are still growing in value by nearly 1% month over month. It’s hard to say how long this trend will continue, but right now is certainly a good time to earn top dollar for your home.
 3. **Mortgage rates are continuing to climb.** The average rate right now is around 4.5%. Historically speaking, this is still really good. However, if rates continue to climb, homeownership will become increasingly expensive. This could deter a number of buyers from entering our market.
 
-If you have any other questions, would like more information, or want to find out how my team and I can help you take advantage of our current market, feel free to give me a call or send me an email. I look forward to hearing from you soon.<br>
+If you have any other questions, would like more information, or want to find out how my team and I can help you take advantage of our current market, feel free to give me a call or send me an email. I look forward to hearing from you soon.
