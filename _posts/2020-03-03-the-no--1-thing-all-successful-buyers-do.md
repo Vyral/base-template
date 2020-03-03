@@ -21,7 +21,7 @@ youtube_code: E1y93hg2Y2Y
 
 {% include youtube.html %}
 
-Here’s what experienced lender Jake Bernhard had to say about the most important thing home buyers should do.
+<p style="text-align: center;"><em>Here’s what experienced lender Jake Bernhard had to say about the most important thing home buyers should do.</em></p>
 
 From a lender’s perspective, the No. 1&nbsp; thing a borrower needs to do is **communicate.** Making sure that you, your lender, and your agent are all on the same page is crucial to ensuring a smooth home buying process.&nbsp;
 
