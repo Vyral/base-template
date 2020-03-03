@@ -21,7 +21,7 @@ youtube_code: rUNL_td5S_M
 
 {% include youtube.html %}
 
-There’s a housing shortage in our market, and it means we’re in for a strong summer.&nbsp;
+<p style="text-align: center;"><em>There’s a housing shortage in our market, and it means we’re in for a strong summer.</em></p>
 
 The supply of homes for sale in the Orange County and greater Los Angeles areas is very low. In my 15 years as a Realtor, this is one of the lowest levels I’ve ever seen.&nbsp;
 
