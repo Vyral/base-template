@@ -22,10 +22,14 @@ The CORE Training is a mortgage and real estate coaching company that provides m
 If you need help implementing any of this or would like to discuss how we can work together to generate more referrals, please book an appointment directly on my calendar by clicking here. Thanks again\!
 
 #### Featured Webinar:
+**Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
 
 Relationships are important in every business, but especially so in real estate. In today's webinar, you’ll learn how to use networking to get more leads, more profit, and most importantly, more fun. There are certain tips and tricks that you can start using in your business today to start the process. For example, you can send out videos to your database that feature your vendors or invite VIPs to monthly happy hours.
 
-![](/uploads/wadebetz-core-2020-03-02-112117.jpg){: width="1217" height="684"}
+<a href="https://vimeo.com/389312221/f82ef24445">
+         <img alt="![](/uploads/wadebetz-core-2020-03-02-112117.jpg){: width="1217" height="684"}" src="https://vimeo.com/389312221/f82ef24445"
+         width=150" height="70">
+      </a>
 
 ### Previous Webinars:
 
