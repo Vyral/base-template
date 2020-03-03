@@ -19,11 +19,11 @@ youtube_code: 5DLxwwnejZ0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.</em></p>
+*Spring is coming, so if you’re thinking of listing your home, now’s the time to pick up the phone and call my team.*
 
 My guest in today’s video is someone you might recognize: Tony Cruise, the host of the morning news show on 840 WHAS. He joins me because spring is coming, and more and more people are thinking of selling their home. If you’re thinking the same thing, **here are a few quick tips we’d like to share to help prepare your home for the market:**&nbsp;
 
-* Declutter and depersonalize—less is more when it comes to selling your home.&nbsp;
+* Declutter and depersonalize—less is more when it comes to selling your home&nbsp;
 * Add a fresh coat of paint—this goes a long way in making your home look new
 * Improve the curb appeal—add fresh mulch to your landscaping and make sure there’s no algae growing on the eaves or vinyl
 
@@ -31,7 +31,7 @@ If you want to know *everything* there is to know about maximizing your home sal
 
 {% include pullquote.html %}
 
-These tips will help you stage your home specifically so it sells quicker and for more money. They’re free because I I want to help people and I believe in paying it forward. My team averaged almost a home sale a day in 2019, and the only reason we didn’t sell more is because there weren’t enough homes to sell.&nbsp;
+These tips will help you stage your home specifically so it sells quicker and for more money. They’re free because I want to help people and I believe in paying it forward. My team averaged almost a home sale a day in 2019, and the only reason we didn’t sell more is that there weren’t enough homes to sell.&nbsp;
 
 If you want to list with us, just give me a call at (502) 376-5483. The market is tight, so if you let us market your home, it will sell. Additionally, we have 24 agents on standby to help find your next dream home, whether you’re upsizing or downsizing.&nbsp;
 
