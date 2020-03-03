@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: watch?v=NXaakBdtOKU&feature=youtu.be
+youtube_code: NXaakBdtOKU
 ---
 
 {% include youtube.html %}
