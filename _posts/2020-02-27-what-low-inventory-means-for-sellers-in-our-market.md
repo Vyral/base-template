@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Inventory is low, which means it’s a great time to sell in our market.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/What+Low+Inventory+Means+for+Sellers+in+Our+Market.mp4
 pullquote: 'When the market gives you a gift like this, you take it.'
 enclosure_type: video/mp4
 enclosure_time:
