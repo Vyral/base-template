@@ -8,7 +8,7 @@ excerpt: >-
   that won’t actually make your home any more valuable. Here are five such
   upgrades.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Daniel+Dixon/NOVEMBER/Denver+Real+Estate-+5+Improvements+Mistakes.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/2017/Denver+Real+Estate-+5+Improvements+Mistakes.mp4
 pullquote: >-
   Buyers will think twice about the maintenance and upkeep it will require to
   maintain a pool.
@@ -18,7 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/daniel-dixon-5-improvements-youtube.jpg
 youtube_code: 'https://youtu.be/NCDuXbuyreY'
 ---
-
 
 {% include youtube.html %}
 
