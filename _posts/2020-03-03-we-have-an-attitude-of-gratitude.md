@@ -3,7 +3,8 @@ layout: post
 title: We Have an Attitude of Gratitude
 tags:
 excerpt: We want to thank all of you for your trust and confidence in us.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/We+Have+an+Attitude+of+Gratitude.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
