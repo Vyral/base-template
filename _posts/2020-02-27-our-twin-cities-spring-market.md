@@ -5,7 +5,7 @@ date: 2020-02-27 21:42:00
 tags:
 excerpt: We're sharing a quick spring market update for our Twin Cities.
 enclosure:
-pullquote: This is one of the best times of year to sell your home.
+pullquote: TThis is one of the best times of the year to sell your home
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
