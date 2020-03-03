@@ -9,13 +9,13 @@ excerpt: >-
   walk 11 years. Here’s what amazing things they do for seniors in our
   community.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+Christian+Companion+Senior+Care+Q%26A.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+christian+senior.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uZioiAfYBaA
+youtube_code: IU9Xu_8ktiA
 ---
 
 {% include youtube.html %}
