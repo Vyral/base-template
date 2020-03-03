@@ -29,7 +29,7 @@ Here in Alaska, it’s hard to manage curb appeal in the first few months of the
 
 **Make sure the upgrades you invest in are appropriate for the level of home you’re in.** You don’t want to tear apart your kitchen in a million-dollar home and replace it with upgraded kitchen cabinets worth only $10,000. On the flip side, you don’t want to put $150,000 into a kitchen in a home valued around $250,000.&nbsp;
 
-If you’re unsure about what’s an appropriate renovation, please reach out to us. We’d be happy to check things out and offer some guidelines that will hopefully bring clarity to the decision-making process. It’s okay to go high on a renovation, but if you do, make sure you’ll be living there for the next three to 10 years—the longer, the better. **Never expect to get back 100% of the cost you put into a renovation. **
+If you’re unsure about what’s an appropriate renovation, please reach out to us. We’d be happy to check things out and offer some guidelines that will hopefully bring clarity to the decision-making process. It’s okay to go high on a renovation, but if you do, make sure you’ll be living there for the next three to 10 years—the longer, the better. **Never expect to get back 100% of the cost you put into a renovation.**
 
 {% include pullquote.html %}
 
