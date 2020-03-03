@@ -28,7 +28,7 @@ Relationships are important in every business, but especially so in real estate.
 
 <a href="https://vimeo.com/389312221/f82ef24445">
          <img alt="![](/uploads/wadebetz-core-2020-03-02-112117.jpg)" src="https://vimeo.com/389312221/f82ef24445"
-         width=150" height="70">
+         width=100" height="70">
 
 ### Previous Webinars:
 
