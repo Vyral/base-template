@@ -2523,103 +2523,61 @@ table tr, table td {
 
   .prev {
     right: 0px; } }
-.modal-wrapper {
-  display: none;
-  position: fixed;
-  z-index: 8;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  overflow: auto;
-  background: rgba(0, 0, 0, 0.5);
-  -webkit-animation: fade 0.5s;
-          animation: fade 0.5s;
-  color: #555; }
+.e2ma_signup_form_label {
+  color: #555 !important;
+  Text-align: center; }
 
-@-webkit-keyframes fade {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1); } }
+.e2ma_signup_form_required_footnote {
+  color: #555 !important;
+  Text-align: center; }
 
-@keyframes fade {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1); } }
-@-webkit-keyframes slide {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0);
-    -webkit-transform: translateY(-300px);
-            transform: translateY(-300px); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1);
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
-@keyframes slide {
-  0% {
-    -webkit-filter: opacity(0);
-            filter: opacity(0);
-    -webkit-transform: translateY(-300px);
-            transform: translateY(-300px); }
-  100% {
-    -webkit-filter: opacity(1);
-            filter: opacity(1);
-    -webkit-transform: translateY(0);
-            transform: translateY(0); } }
-.contact-modal {
-  position: relative;
-  background: white;
-  color: #555;
-  padding: 2rem;
-  margin: 10% auto;
-  width: 90%;
-  max-width: 50rem;
-  -webkit-animation: slide 0.5s;
-          animation: slide 0.5s;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-  .contact-modal address {
-    font-style: normal;
-    color: #555; }
+.e2ma_signup_form_required_asterix {
+  color: #2a375f !important; }
 
-.label {
-  font-size: 2rem;
-  color: #555; }
+.e2ma_signup_form input[type="submit"] {
+  background-color: #2a375f;
+  margin: 0 auto;
+  display: block; }
 
-.exit {
-  position: absolute;
-  right: 1rem;
-  top: 1rem;
-  color: #2a375f;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s;
-  cursor: pointer;
-  background: #fff;
-  border-radius: 50%; }
-  .exit:hover {
-    color: #4960a6; }
-  .exit:focus {
-    outline: 0;
-    border: 0; }
+.e2ma_signup_form input[type="submit"]:hover {
+  background-color: #fff;
+  Color: #2a375f;
+  Border: 1px solid #2a375f; }
 
-@media (max-width: 500px) {
-  .contact-modal {
-    margin: 25% auto; } }
+.e2ma_signup_form {
+  background-color: #fff;
+  Border: 1px solid #cfcfcf;
+  margin-bottom: 22px !important;
+  width: 100% !important; }
+
+.e2ma_signup_message {
+  padding-top: 10px;
+  Color: #353535 !important;
+  font-family: "Source Sans Pro", helvetica, arial, sans-serif;
+  Text-align: center;
+  Font-size: 18px !important;
+  margin-bottom: 10px;
+  Line-height: 1.2; }
+
+.e2ma_signup_form_button_row {
+  margin: 10px 0 0 0 !important;
+  padding: 10px 0 0 0 !important; }
+
+.whitespace {
+  line-height: 1.2;
+  font-size: 18px; }
+
+.landing-list {
+  margin-bottom: 0; }
+  .landing-list li {
+    font-size: 16px;
+    line-height: 1.2; }
+
 form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem;
-  border-radius: 5px; }
+  padding: 0.5rem; }
 form select {
   border: 1px solid #2a375f;
   padding: 0.5rem;
@@ -2632,8 +2590,7 @@ form select {
     width: 100%;
     border: 1px solid #2a375f; }
   .home-value fieldset {
-    padding: 1.5rem;
-    border-radius: 5px; }
+    padding: 1.5rem; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
@@ -2642,41 +2599,29 @@ form select {
       border: 3px solid #4960a6; }
 
 .contact-form {
-  width: 100%;
-  margin-bottom: 0; }
+  width: 75%;
+  margin-left: 13%; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray;
-    -webkit-transition: 0.3s;
-    transition: 0.3s; }
-    .contact-form input:focus::-webkit-input-placeholder, .contact-form textarea:focus::-webkit-input-placeholder {
-      color: transparent; }
-    .contact-form input:focus::-moz-placeholder, .contact-form textarea:focus::-moz-placeholder {
-      color: transparent; }
-    .contact-form input:focus:-moz-placeholder, .contact-form textarea:focus:-moz-placeholder {
-      color: transparent; }
-    .contact-form input:focus:-ms-input-placeholder, .contact-form textarea:focus:-ms-input-placeholder {
-      color: transparent; }
+    border: 1px solid gray; }
+  .contact-form:focus {
+    color: transparent; }
   .contact-form textarea {
     height: 15rem; }
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #2a375f;
-    border-radius: 5px; }
+    border: 3px solid #2a375f; }
     .contact-form input[type="submit"]:hover {
-      background: white;
-      color: #4960a6;
-      box-shadow: 4px 4px 0 #4960a6;
-      border: 2px solid #4960a6;
-      -webkit-transform: scale(1.05);
-      transform: scale(1.05);
-      -webkit-transform: translateY(-0.2rem);
-      transform: translateY(-0.2rem); }
-    .contact-form input[type="submit"]:active {
-      box-shadow: 0 0 0 #2a375f;
-      -webkit-transform: translateY(0rem);
-      transform: translateY(0rem); }
+      background: #fff;
+      color: #2a375f;
+      border: 1px solid #2a375f; }
+
+.contact {
+  font-size: 24px;
+  margin-bottom: 20px;
+  margin-left: 13%;
+  margin-top: 20px; }
 
 .newsletter {
   background: #2a375f;

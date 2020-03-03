@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title></title>
+    <title>San Diego Real Estate Podcast With Travix Chatwin</title>
     <link>localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Beach and Sun Homes - your professional San Diego Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Travis Chatwin</managingEditor>
-    <lastBuildDate>2017-05-10 12:42:20 -0500</lastBuildDate>
+    <lastBuildDate>2020-03-03 16:28:47 -0600</lastBuildDate>
     <media:copyright>Travis Chatwin</media:copyright>
-    <media:thumbnail url="localhost:4000"/>
+    <media:thumbnail url="http://i.imgur.com/4C18r6h.jpg}"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,12 +18,1234 @@
     </itunes:owner>
     <itunes:author>Travis Chatwin</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000"/>
+    <itunes:image href="http://i.imgur.com/4C18r6h.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Beach and Sun Homes - your professional San Diego Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
+      <item>
+        <title>Everyday Encinitas: All About You</title>
+        <link>localhost:4000/everyday-encinitas-all-about-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2020-02-27 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+I recently had the pleasure of joining Rodrigo Ballon on an episode of &ldquo;All About You&rdquo; to talk about a variety of topics.
+
+For this episode of “Everyday Encinitas,” I’ll show you a recent guest spot I did on the TV show “All About You” with host Rodrigo Ballon. In this wide-ranging interview, I talk about what motivated me in my real estate career, why there’s nowhere else I’d rather work than North County, and what I predict for the rest of the 2020 market.
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:
+
+0:45 - How I got my start2:29 - What I was doing before real estate4:46 - Why I enjoy working in North County7:10 - The type of person I’m looking to bring on to my team9:00 - Where I see the market heading for the rest of 202010:15 - Wrapping things up
+
+If you have questions about any of the topics discussed in today’s video or you’re an agent looking to join a team that can take you to the next level in your career, give me a call, email me, or visit my website. I’d love to hear from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently had the pleasure of joining Rodrigo Ballon on an episode of “All About You” to talk about a variety of topics.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>I recently had the pleasure of joining Rodrigo Ballon on an episode of “All About You” to talk about a variety of topics.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>My Appearance on “Inside the Masterminds”</title>
+        <link>localhost:4000/my-appearance-on-inside-the-masterminds.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2020-02-03 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/My+Appearance+on+Inside+the+Masterminds.mp4</guid>
+        <description>
+
+I recently appeared on &ldquo;Inside the Masterminds&rdquo; with Valli Williams, and I wanted to share the full segment with you today.
+
+On the latest episode of “Inside the Masterminds” with Valli Williams, I joined the program to talk about several different topics including my journey in real estate, the current state of the real estate market, and more.
+
+Here’s an outline of the discussion, with timestamps so that you can skip around to the section(s) that interest you most:
+
+0:30 - A quick update on the North County real estate market1:25 - Talking about Everyday Encinitas and the experiences we’ve had with it3:30 - The difference between a seller’s market and a strong seller’s market5:30 - A few reasons why inventory has been so low in our market lately6:10 - Wrapping things up
+
+If you have questions for me about anything I discussed in the video above, feel free to reach out via phone or email today. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/My+Appearance+on+Inside+the+Masterminds.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/My+Appearance+on+Inside+the+Masterminds.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently appeared on “Inside the Masterminds” with Valli Williams, and I wanted to share the full segment with you today.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>I recently appeared on “Inside the Masterminds” with Valli Williams, and I wanted to share the full segment with you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: American Legion Post 416</title>
+        <link>localhost:4000/everyday-encinitas-american-legion-post-416.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2020-01-09 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+11+_+American+Legion+Post+416.mp4</guid>
+        <description>
+
+On the latest episode of “Everyday Encinitas,” I’m spotlighting American Legion Post 416 and chatting with Christian Schilling, one of its executive board members. The American Legion is a veteran-based nonprofit organization, and aside from having the coldest beer on F Street, Post 416 serves as a hub of community outreach.
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:
+
+0:51 - The American Legion’s history and purpose2:11 - A timeline of American Legion Post 416 and the types of community outreach they provide3:41 - Their recent bar remodel and their plans to renovate other areas of the building5:10 - A shoutout to their great staff6:19 - Open mic nights, live music, wings, and what a night on the town looks like at American Legion Post 4168:13 - Find more information at calegionpost416.org8:49 - Wrapping things up with a quick toast9:11 - What Post 416 means to its community veterans
+
+I highly recommend you stop by American Legion Post 416 if you get a chance and salute the staff. It was my pleasure to learn more about our nation’s veterans and how we can help them.
+
+If you own a local business or are a part of a community organization that you’d like to see showcased on a future episode of “Everyday Encinitas,” don’t hesitate to reach out to me. I’d love to hear from you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+11+_+American+Legion+Post+416.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+11+_+American+Legion+Post+416.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today on “Everyday Encinitas,” I’m visiting American Legion Post 416.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Today on “Everyday Encinitas,” I’m visiting American Legion Post 416.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: One Day Signs</title>
+        <link>localhost:4000/everyday-encinitas-one-day-signs.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-12-22 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+10+_+One+Day+Signs.mp4</guid>
+        <description>
+
+I recently met with Marco San Antonio, of One Day Signs, to discuss what his business offers to the people of Encinitas.
+
+Today on “Everyday Encinitas,” our quest to spotlight local businesses and community organizations, brings us into the company of Marco San Antonio, owner of One Day Signs.
+
+One Day Signs has been a staple in Encinitas for more than 30 years and boasts a rich history. It started back when Marco’s father Omar retired from the U.S. Navy after 22 years of service and went to Hawaii, where his brother owned a sign shop.
+
+Inspired by the business model, Omar relocated to Encinitas to open One Day Signs, which he and Marco operated together for many years before Omar’s retirement last year; Marco is excited to be the new owner.
+
+It’s truly incredible what the San Antonio family and their team can do; producing high-quality signs in one day or less isn’t easy, but it has become their brand.
+
+“One Day Signs has been a staple in Encinitas for more than 30 years and boasts a rich history.”
+
+I’ve relied on One Day Signs many times for my real estate signs, but can anybody off the street come in and request a sign? Absolutely, says Marco, who also added that people can get just about any type of sign, from garage sale signs to banners, and even large ‘For Lease’ signs.
+
+One of the keys to One Day Signs’ success is that everything can be done right there on site; Marco likes to control the entire process that way, ensuring that he and his team are the ones helping customers design and draft whatever signage they need.
+
+According to Marco, One Day Signs is a cut above the competition because of the deep commitment to service and the quality end product customers receive. So if you’re out and about, stop by the shop, located by D Street and Encinitas Boulevard, just north of the large Encinitas sign. Otherwise, you can visit their website here.
+
+It was a pleasure to meet the San Antonios. If you’re a local business or a community organization who would like to be featured on the next episode of Everyday Encinitas, please reach out to me by phone or email. I’d love to feature you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+10+_+One+Day+Signs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+10+_+One+Day+Signs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently met with Marco San Antonio, of One Day Signs, to discuss what his business offers to the people of Encinitas.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>I recently met with Marco San Antonio, of One Day Signs, to discuss what his business offers to the people of Encinitas.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Sunburst Shutters</title>
+        <link>localhost:4000/everyday-encinitas-sunburst-shutters.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-11-10 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+9+_+Sunburst+Shutters.mp4</guid>
+        <description>
+
+Sunburst Shutters brings a wide variety of shutters and other window accessories to our community. I sat down with CEO Tyson Williams recently to talk about this and more.
+
+In today’s edition of “Everyday Encinitas,” I’m joined by Tyson Williams, CEO of Sunburst Shutters, to talk a little bit about his exciting business and what they’re doing in the community.
+
+Here’s an outline of our discussion, with timestamps so that you can skip around to the section(s) that interest you most:
+
+0:45 - What services does Sunburst Shutters offer?1:25 - The history of Sunburst Shutters1:45 - Why did they choose San Diego for a second brick and mortar?2:15 - How Sunburst Shutters can help keep your home protected year-round from sun, ocean air, and more4:00 - A little more about the Sunburst Shutter team in San Diego5:00 - Why form and function are so crucial in finding the right shutters5:30 - A few reasons why people choose to hire Sunburst Shutters6:55 - Tyson’s favorite type of shutter and why7:30 - The pros and cons of buying shutters at different prices8:55 - A closer look at the Sunburst Shutters showroom10:20 - Warranty information
+
+Thanks again to Tyson for joining me to talk about some of the finer aspects of his business. There’s a reason that our clients can’t stop talking about Sunburst Shutters after they’ve worked with them. To learn more about Sunburst Shutters, visit their website here.
+
+If you have any other questions for me about real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+9+_+Sunburst+Shutters.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+9+_+Sunburst+Shutters.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Sunburst Shutters brings a wide variety of shutters and other window accessories to our community. I sat down with CEO Tyson Williams recently to talk about this and more.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Sunburst Shutters brings a wide variety of shutters and other window accessories to our community. I sat down with CEO Tyson Williams recently to talk about this and more.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Kind Health Group</title>
+        <link>localhost:4000/everyday-encinitas-kind-health-group.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-08-21 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+8+_+Kind+Health+Group.mp4</guid>
+        <description>
+
+On today&rsquo;s &ldquo;Everyday Encinitas,&rdquo; I sat down with Dr. Georgine Nanos to talk about her work at Kind Health Group.
+
+ 
+
+Welcome to another episode of “Everyday Encinitas,” where our goal is to spotlight local businesses and community organizations around the area to learn a little bit more about them. Today we had the pleasure of meeting Dr. Georgine Nanos, founder of the Kind Health Group. Here’s what she had to say.
+
+Feel free to follow along in the video above or use the timestamps below to navigate the video at your leisure:
+
+0:38 - Dr. Georgine Nanos, founder of Kind Health Group, tells me the story of its beginnings1:12 - The services that Kind Health uses to help people feel beautiful inside and out1:42 - How their laser hair and acne scar removal technology works2:59 - Dr. Nanos elaborates on her history with medicine in the area4:25 - A preventative, not reactive, approach to wellness5:52 - Meet the staff of Kind Health Group9:10 - Why people should pay Dr. Nanos and the Kind Health Group a visit10:12 - The Kind Health Group’s well-known procedure: Mona Lisa Touch Laser12:08 - Visit KindHealthGroup.com for more details12:55 - Wrapping up today’s topic
+
+If you’re a local business or community organization who would like to be featured on an upcoming video, don’t hesitate to reach out to me. I’d love to hear all about it.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+8+_+Kind+Health+Group.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+8+_+Kind+Health+Group.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>On today’s “Everyday Encinitas,” I sat down with Dr. Georgine Nanos to talk about her work at Kind Health Group.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>On today’s “Everyday Encinitas,” I sat down with Dr. Georgine Nanos to talk about her work at Kind Health Group.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Dahms Acupuncture</title>
+        <link>localhost:4000/everyday-encinitas-dahms-acupuncture.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-05-16 12:53:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+7+_+Dahms+Acupuncture.mp4</guid>
+        <description>
+
+Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.
+
+ 
+
+For my latest episode of “Everyday Encinitas,” I’m meeting with Talia Dahms from Dahms Acupuncture to chat about the wonders she’s working for those seeking treatment. Let’s go in and see what she has to say!
+
+For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the topic(s) you’re most interested in:
+
+0:55 - The basics of acupuncture, what Talia specializes in, and what a layperson might not know about acupuncture
+
+2:08 - What led Talia to this profession
+
+3:15 - The science behind acupuncture treatment and how it “activates” channels in the body
+
+4:25 - What is “cupping” and does it work?
+
+7:46 - The benefits associated with cosmetic acupuncture
+
+8:47 - How Talia generates most of her business
+
+9:32 - Why Talia should be your go-to acupuncturist
+
+11:05 - How to get in contact with Talia
+
+“You strategically choose certain points along certain channels, and they all communicate with each other to balance each other out.”
+
+It was a pleasure to meet Talia Dahms and cast a spotlight on her business today. If you’d like to find out more, or schedule an appointment, you can visit their website here.
+
+If you know of or are part of a local business or organization that you’d like to have featured on a future episode of “Everyday Encinitas,” please let me know. You can call me directly at (619) 752-4663. We’ll see you in the next episode!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+7+_+Dahms+Acupuncture.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+7+_+Dahms+Acupuncture.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Who knew that acupuncture could be so fascinating? I learned all about it today by sitting down with the owner of Dahms Acupuncture, Talia Dahms.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Besta-Wan Pizza</title>
+        <link>localhost:4000/everyday-encinitas-besta-wan-pizza.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-04-28 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+6+_+Besta-Wan+Pizza.mp4</guid>
+        <description>
+
+Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we&rsquo;re revealing all of what makes this such a special local eatery.
+
+ 
+
+For my latest episode of “Everyday Encinitas,” I’m sitting down with Kyle Schmuckle from Besta-Wan Pizza to chat about the restaurant’s history, culture, food and drink selections, and more!
+
+For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the section(s) that interest you most:
+
+0:53 - The history behind Besta-Wan’s founding
+
+1:26 - How the current owners, Becky and Julio, have renewed Besta-Wan’s popularity
+
+3:05 - The warm, friendly environment Besta-Wan’s staff creates
+
+3:40 - All about Besta-Wan’s drink selection, including their famous “man-mosa”
+
+5:25 - What makes Besta-Wan’s pizza a cut (or slice) above the rest?
+
+6:05 - The story behind the “Schmuckle 5000” pizza—a now-favorite
+
+7:11 - Besta-Wan’s novel wall decor and where it came from
+
+8:06 - What are the main attractions of not only Besta-Wan, but also of the area as a whole?
+
+9:05 - Wrapping things up
+
+“The atmosphere is like ‘Cheers’—where everybody knows your name.”
+
+If you’d like to find out more about Besta-Wan Pizza, or take a look at their hours and menu, you can visit their website here.
+
+If you know of or are part of a local business or organization that you’d like to have featured on a future episode of “Everyday Encinitas,” don’t hesitate to let me know. You can call me directly at (619) 752-4663. We look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+6+_+Besta-Wan+Pizza.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+6+_+Besta-Wan+Pizza.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we’re revealing all of what makes this such a special local eatery.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Besta-Wan Pizza may be one of the best-kept secrets right here in Cardiff-by-the-Sea, but today we’re revealing all of what makes this such a special local eatery.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Iron Cross Surfboards</title>
+        <link>localhost:4000/everyday-encinitas-iron-cross-surfboards.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-04-01 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+5+_+Iron+Cross+Surfboards.mp4</guid>
+        <description>
+
+At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.
+
+ 
+
+For my latest episode of “Everyday Encinitas,” I’m visiting Iron Cross Surfboards and speaking with Jay Grygera to discover what makes them the go-to surf shop for local surfers.
+
+For your convenience, I’ve provided timestamps of our conversation so you can skip ahead to the section(s) that interest you the most:
+
+1:02 - How Iron Cross Surfboards came to be3:11 - All the different types of custom boards they carry4:01 - What type of board is Jay riding these days?4:22 - A glimpse at their new Daily Driver longboard model4:51 - How they’ve been able to grow over the past few years6:13 - What they can do for you if your board’s been dinged up6:47 - What wetsuit Jay recommends7:54 - Getting to know their staff8:42 - Wrapping things up
+
+“Iron Cross carries every kind of surfboard for any skill level—all handmade.”
+
+It was an absolute pleasure to be able to sit down with Jay, and I thank him for allowing us to visit his family’s shop. If you’d like to know more about Iron Cross Surfboards, you can visit their website here.
+
+If you own a local business or community organization, or you know someone who does and you think they’d be interested in being featured on a future episode of “Everyday Encinitas,” don’t hesitate to give me a call. I’d love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+5+_+Iron+Cross+Surfboards.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+5+_+Iron+Cross+Surfboards.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>At Iron Cross Surfboards, you can get everything you need to catch the perfect wave.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Best Pizza & Brew</title>
+        <link>localhost:4000/everyday-encinitas-best-pizza-brew.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-03-03 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+4+_+Best+Pizza+%26+Brew.mp4</guid>
+        <description>
+
+Welcome back to Everyday Encinitas. This time, we&rsquo;re checking out Best Pizza &amp; Brew.
+
+ 
+
+Welcome to another episode of “Everyday Encinitas,” where, as always, our goal is to shine a spotlight on the local businesses that help our community thrive. This time, we’re meeting with Mitchell Millar from Best Pizza &amp; Brew.
+
+Located in Downtown Cardiff-by-the-Sea, Best Pizza &amp; Brew has always been amazing, but after their recent remodel, they’ve become the talk of the town. The windows that face the sea open garage-door style to create an indoor/outdoor ambiance. But that’s not all that makes them special—their menu truly makes them shine.
+
+Their fresh ingredients and made-to-order approach to what they serve makes all the difference, and their lunch specials are definitely crowd pleasers, as well. And if you’re looking to wet your whistle, they’ve got 20 beers on tap for you to enjoy while you dig into one of their signature slices. If wine is more your thing, they’ve got that available, too.
+
+“When you visit Best Pizza &amp; Brew, you’re going to have a great time no matter what.”
+
+“Not only is it great food, it’s also the best vibe. You’re going to have a great time no matter what,” says Mitchell about the experience people have at Best Pizza &amp; Brew.
+
+To learn more about Best Pizza &amp; Brew, including their menu, hours, and location, you can visit their website here.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+4+_+Best+Pizza+%26+Brew.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+4+_+Best+Pizza+%26+Brew.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Welcome back to Everyday Encinitas. This time, we’re checking out Best Pizza & Brew.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Welcome back to Everyday Encinitas. This time, we’re checking out Best Pizza & Brew.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: The Roxy</title>
+        <link>localhost:4000/everyday-encinitas-the-roxy.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-02-11 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+3+_+The+Roxy+Encinitas.mp4</guid>
+        <description>
+
+The Roxy in downtown Encinitas features great food, great cocktails, and great live music, and it&rsquo;s the perfect location for our latest episode of &ldquo;Everyday Encinitas.&rdquo;
+
+ 
+
+For today’s episode of “Everyday Encinitas,” I’m visiting The Roxy. This restaurant is well known for their prolific live music schedule and its chic, retro bar that serves cocktails straight out of Prohibition-era America. Co-owner and manager Paula Vrakas joined me today to share everything about what this great establishment has to offer.
+
+For your convenience, I’ve provided timestamps of the video above so you can skip ahead to the section(s) that interest you the most:
+
+0:56 - A brief history of The Roxy and its recent remodel
+
+2:37 - A look at their staff in action
+
+3:19 - A peek behind their bar and their famous Old Fashioned
+
+4:15 - The importance of live music in their schedule and what role it plays in their ambiance
+
+5:58 - How a patron might describe The Roxy, in Paula’s own words
+
+6:41 - Highlights from their menu
+
+“This restaurant is well known for their prolific live music schedule and their chic, retro bar.”
+
+If you want to check out The Roxy for yourself, you can find them at 517 South Coast Highway. If you’d like to learn more about their menu, drink options, or live music schedule, you can visit their website or email them at roxyencinitas@gmail.com.
+
+As always, if you have any more questions for me or you have a local business or organization you’d like to see featured on a future episode of “Everyday Encinitas,” don’t hesitate to reach out to me. I’d love to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+3+_+The+Roxy+Encinitas.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+3+_+The+Roxy+Encinitas.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The Roxy in downtown Encinitas features great food, great cocktails, and great live music, and it’s the perfect location for our latest episode of “Everyday Encinitas.”</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>The Roxy in downtown Encinitas features great food, great cocktails, and great live music, and it’s the perfect location for our latest episode of “Everyday Encinitas.”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: 1st Street Bar</title>
+        <link>localhost:4000/everyday-encinitas-1st-street-bar.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-02-04 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+2+_+1st+Street+Bar.mp4</guid>
+        <description>
+
+1st Street Bar is a gem located right in the heart of downtown Encinitas. Here&rsquo;s just a taste of what they have to offer.
+
+ 
+
+It’s time for another edition of “Everyday Encinitas.” Our goal with this series is to showcase and highlight local businesses and organizations in the area. Today we’re meeting with Mike Chopp at the historic 1st Street Bar in downtown Encinitas.
+
+Mike and his partners took over the space on July 3, 2015, and have been running it ever since. It’s in a great location, has a great atmosphere, and features some great live music.
+
+The actual building that 1st Street Bar is in has been around since the 1920s. It’s the second oldest bar in Encinitas and has some great history behind it.
+
+They carry a ton of different local beers, microbrews, tequilas, and whiskeys.
+
+“One of the biggest draws is the staff.”
+
+One of my favorite events to attend here is karaoke. In addition, Tuesday night is open mic night, Wednesday night has a house DJ, there’s a live band every Thursday night, and every day has happy hour until 7 p.m. This is one of the few bars in the area with live music every week.
+
+One of the biggest draws here is the staff. Many of them have been here for five, 10, or even 15 years. They’re a tight-knit family and they always take care of their customers with a smile. Another big draw is their seasonal drink specials.
+
+The next time you’re looking to get out of the house and find a new place to go out in Encinitas, come visit Mike and the staff at 1st Street Bar and see what they have for yourself.
+
+To learn more about 1st Street Bar, check out their website. Also, if you or someone you know has a great local business and would like to be featured, don’t hesitate to give us a call or send us an email. And if you have any other real estate-related questions in the meantime, feel free to reach out as well. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+2+_+1st+Street+Bar.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+2+_+1st+Street+Bar.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>1st Street Bar is a gem located right in the heart of downtown Encinitas. Here’s just a taste of what they have to offer.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>1st Street Bar is a gem located right in the heart of downtown Encinitas. Here’s just a taste of what they have to offer.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everyday Encinitas: Ablantis Dental</title>
+        <link>localhost:4000/everyday-encinitas-ablantis-dental.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2019-01-20 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+_+Ablantis+Dental.mp4</guid>
+        <description>
+
+For the first episode of &ldquo;Everyday Encinitas,&rdquo; I&rsquo;m visiting Ablantis Dental.
+
+ 
+
+For the first episode of “Everyday Encinitas,” I’m visiting Ablantis Dental and speaking with Dr. Claudia Cordati.
+
+Claudia has been practicing dentistry since 2005, and she opened up her office here in Encinitas in 2013. She now has a five-person team behind her and she loves the community and the fact that she ends up being friends with so many of her patients.
+
+There are many tools a dentist uses, and Claudia’s dentistry changed many years ago when she changed the technology she uses. If one of her patients needs a crown, for instance, they only need to make one visit now.
+
+Claudia cites her listening skills as one of the primary reasons patients choose her. Family is important to Claudia, just like it is with me, and one of my favorite things about her practice is how she continues to grow and nurture the relationships she has with her clients. She likes to work with people, and she explains that she does a better job if she knows the patient she’s treating.
+
+“Family is important to Claudia, just like it is with me.”
+
+What’s the one dental hygiene tip Claudia would like to share to the world?
+
+“Brush your teeth,” she says. “It’s better than anything else that I can do.”
+
+Near the end of the video, you can see testimonials from both patients and employees of Ablantis Dental. If you’d like to know more about Ablantis Dental or you want to schedule an appointment with them, call (760) 334-0128 or visit their website.
+
+If you own a local business or head a community organization and you’d like to appear on a future episode of this new series, don’t hesitate to reach out to me. I’d love to talk to you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+_+Ablantis+Dental.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+_+Ablantis+Dental.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>For the first episode of “Everyday Encinitas,” I’m visiting Ablantis Dental.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>For the first episode of “Everyday Encinitas,” I’m visiting Ablantis Dental.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Read Your Credit Score</title>
+        <link>localhost:4000/how-to-read-your-credit-score.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-12-12 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Read+Your+Credit+Score.mp4</guid>
+        <description>
+
+Your credit score is a very important number, and today I&rsquo;ll show you how to read yours.
+
+ 
+
+Why is your credit score so important? How do you read a credit score? To answer these questions, let me first share a personal anecdote about one of the hardest lessons I’ve ever had to learn.
+
+Back when I got my first credit card at age 18 or 19, I thought I’d made it. My dad warned me over and over again about the use (or abuse, I should say) of this credit card and the charges I’d need to pay for. At the time, though, I thought it was such a treat to be able to delay my payment a bit.
+
+As you can imagine, I charged up a storm trying to live through my college years. Eventually, though, the bill came, and a month later, I had to pay for it. A month later, I had to pay again. Because I was only making my minimum payment, the monthly bills kept coming.
+
+This really started to affect my credit, and I didn’t realize then how important your credit score is in your daily life. Creditors and lenders check your credit score to decide whether to approve your rental application or, more importantly, your loan application when buying a home. Even employers will sometimes check your credit score before hiring you.
+
+This is why it’s so important that you check your credit score regularly. There are several websites (Creditkarma, Creditsesame, Wallethub, etc.) that allow you to check your credit score for free. Some credit card issuers make your credit score available on their website or on your billing statement. You can also purchase your credit score from any of the credit bureaus. There’s been some confusion between free credit reports and paid credit reports, so be sure to check with your lender to know what you’re getting. Also, keep in mind that these credit scores are most directly related to purchasing a home.
+
+“Having a high credit score indicates that you’ve done a good job managing your credit.”
+
+To check your credit score, you first must be able to read your credit score, and you need to know what that score means. When you order your credit score, all you get is a number, so if you’ve never done this before or it’s been a while since you’ve done it, you might not know what you’re looking at. This is why, in addition to providing you your credit score, many companies will also give you a gauge with which to read it. That gauge will help you determine whether you have good or bad credit and identify the factors that influence your credit score.
+
+What do the credit score numbers mean? First, the credit score itself is a three-digit number often ranging from 300 to 850, with 300 being the lowest score you can have and 850 being the highest. The higher your credit score, the better your credit is. In general, credit scores are graded in the following ranges:
+
+
+  Anything above 750: Excellent credit
+  700 to 750: Very good credit
+  650 to 700: Good credit
+  600 to 650: Bad credit
+  Anything below 600: Very bad credit
+
+
+Having a high credit score indicates that you’ve done a good job managing your credit—you’ve made your payments on time, kept your balances at a manageable level, and avoided any credit blunders. With a high credit score, you’re more likely to have a credit card or loan application approved with favorable terms.
+
+Having a low credit score, on the other hand, indicates you’ve had trouble managing your credit in the past and you may have either racked up a high credit card balance, borrowed more than you could afford to pay, or missed several payments that possibly led to a foreclosure or repossession. A low credit score makes it difficult to get approved for credit cards and loans, and if you are approved, you may have a higher interest rate.
+
+If you have any more questions about this topic or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Read+Your+Credit+Score.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Read+Your+Credit+Score.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Your credit score is a very important number, and today I’ll show you how to read yours.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Your credit score is a very important number, and today I’ll show you how to read yours.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Don’t Let These Home Selling Misconceptions Sink Your Success</title>
+        <link>localhost:4000/dont-let-these-home-selling-misconceptions-sink-your-success.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-12-06 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Dont+Let+These+Home+Selling+Misconceptions+Sink+Your+Success.mp4</guid>
+        <description>
+
+There is a lot of misinformation out there regarding how sellers should handle the listing process, so today we&rsquo;re going to highlight six of the most common selling misconceptions.
+
+ 
+
+If you plan to list your home, or are already in the process of doing so, there are six home selling misconceptions you should know about.
+
+1. “Multiple open houses will surely bring in more buyers.” Open houses require a lot of time and energy to put together, but these potentially stressful factors are no reason to skip hosting one altogether. Even so, the idea that having more than one will reap greater results is not necessarily accurate. It’s been proven time and time again that conducting several open houses can attract the attention of a wide pool of buyers, but sellers should be wary of those who are merely attending out of curiosity.
+
+There are a couple of ways you can avoid bringing in such “buyers” though, with one method being to consider hosting your open house on a weekday—a time when only truly serious buyers will be out looking at properties. Another way to attract legitimate buyers is by having your agent put technology to work in your favor. Have them post the details of your open house on websites and apps buyers commonly browse.
+
+2. “It’s a waste of time for the seller to order a pre-listing inspection.” It’s true that buyers will most likely order an inspection of their own once under contract, but this doesn’t mean that sellers shouldn’t take preemptive steps to find and eliminate any problems in their home beforehand. Ordering an inspection before your listing hits the market could save you a lot of time and money later on. Also, presenting a home inspection report to potential buyers will definitely make them feel more secure about the prospect of purchasing your home.
+
+3. “It’s best to decline offers you receive right after putting your home on the market.” Sellers often feel overwhelmed after receiving their very first offer, and this sometimes leads them to decline it in hopes they’ll get a better one soon. However, in a less active market when it could take weeks or even months for sellers to see another offer, this is not always a wise choice. If an offer comes close to your asking price and has favorable terms and conditions, realize that the points you aren’t thrilled about can be addressed during negotiations. It may be in your best interest, in some scenarios, to give early offers a shot.
+
+“The longer your home sits on the market, the lower your chance of success becomes.”
+
+4. “Overpricing your home will drive up its value.” Many sellers assume that overpricing their listing will help protect them from earning too little in the event that a buyer asks for a price reduction. In practice, though, this theory doesn’t hold water. The best way to ensure you earn a fair price for your home is actually to be realistic. Setting your home at too high a price could leave buyers feeling too intimidated to consider your home to begin with.
+
+5. “It’s best to let your home sit on the market for however long it takes to get an ideal offer.” To tell the truth, the longer your home sits on the market, the lower your chance of success becomes. As mentioned in the last point, a home that isn’t competitively priced will leave you waiting for a long time to receive any offer at all, let alone one that meets your expectations.
+
+6. “Lavish upgrades will improve your home’s value.” Unfortunately, many sellers go overboard as they prepare their home for sale. They assume that every upgrade they make will bring a high return, but this is simply not the case. Keep home improvements practical, as these projects will tend to be the most likely to add money in your pocket at the end of the deal.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Dont+Let+These+Home+Selling+Misconceptions+Sink+Your+Success.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Dont+Let+These+Home+Selling+Misconceptions+Sink+Your+Success.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There is a lot of misinformation out there regarding how sellers should handle the listing process, so today we’re going to highlight six of the most common selling misconceptions.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>There is a lot of misinformation out there regarding how sellers should handle the listing process, so today we’re going to highlight six of the most common selling misconceptions.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Will You Pay More By Buying Now or Buying a Year From Now?</title>
+        <link>localhost:4000/will-you-pay-more-by-buying-now-or-buying-a-year-from-now.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-11-19 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Will+You+Pay+More+By+Buying+Now+or+Buying+a+Year+From+Now%253F.mp4</guid>
+        <description>
+
+If you look at the numbers, waiting a year from now to buy a home can prove quite costly.
+
+ 
+
+There’s a shift happening in both our San Diego County market and the national market, and because of this, many buyers are thinking they should wait until the market corrects itself to purchase a home.
+
+I don’t think this is the right move, and I’ll explain why by using conservative market numbers to illustrate the difference between buying today and buying one year from now.
+
+In that time, market prices are predicted to increase from 3.1% to 5.5%. Interest rates are also predicted to increase from 1% to 1.5%. Since today’s average rate for a 30-year fixed loan is 4.62%, they’ll reach at least 5.62% by the end of 2019.
+
+Here in San Diego County, our median home price is $596,500, which means that the home you’re searching for today will be worth $18,500 more in 2019. When you combine that with an additional estimated $211,000 in interest paid for the life of a 30-year fixed loan for just that 1% increase in the adjusted interest rate, the price of waiting that long is costly at best.
+
+“$230,000 is a heavy price to pay to just wait and see what the market will do.”
+
+Again, keep in mind that these are conservative estimates—$230,000 is a heavy price to pay to just wait and see what the market will do. This is why now is the time to take an honest look at your situation, break down the numbers, and see if you can structure a home purchase sooner rather than later.
+
+I would love to help guide you through this process, so if you’re interested in getting started, don’t hesitate to give me a call.
+
+If you have any other real estate questions, feel free to reach out to me as well. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Will+You+Pay+More+By+Buying+Now+or+Buying+a+Year+From+Now%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+Will+You+Pay+More+By+Buying+Now+or+Buying+a+Year+From+Now%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you look at the numbers, waiting a year from now to buy a home can prove quite costly.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>If you look at the numbers, waiting a year from now to buy a home can prove quite costly.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Does the Current San Diego Real Estate Market Look Like?</title>
+        <link>localhost:4000/what-does-the-current-san-diego-real-estate-market-look-like.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-10-09 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+What+Does+the+Current+San+Diego+Real+Estate+Market+Look+Like%253F.mp4</guid>
+        <description>
+
+The San Diego real estate market is at a crossroads. Here are the latest numbers that point at where we&rsquo;re headed.
+
+ 
+
+Today we’re taking a closer look at the real estate market conditions in San Diego as we head into the 4th quarter of 2018. Rising home prices, higher interest rates, and increased building materials have pressured housing affordability to a 10-year low, according to the National Association of Home Builders.
+
+Market observers have been watching this situation take place for quite some time. Nationally, the median household income has risen 2.6% over the last 12 months, while home prices are up 6% overall. This kind of gap will eventually create fewer sales due to affordability concerns.
+
+In our area of San Diego County, closed sales have decreased by 18.2% for detached homes and 17.3% for attached homes. The number of sales going into escrow has also decreased by 6.3% for detached homes and 5.8% for attached homes.
+
+The biggest indicator for us as we look into the 4th quarter might be our inventory. Inventory increased a total of 15.4% for detached homes and a whopping 31.5% for attached homes. More homes mean softening values and a slight market shift. The good news for homeowners is that the median sale price was up 9% to $670,000 for detached homes and up 6.3% to $425,000 for attached homes.
+
+Days on market remained relatively flat for detached homes, but it has increased 9.1% for attached homes. While some are starting to look at recessionary signs such as fewer sales, dropping prices, and foreclosures, others are taking a more cautious, research-based approach to their predictions. The fact remains that the trends do not yet support a dramatic shift away from what we have all been experiencing over the last several years. Housing is still performing, prices are still inching upward, and supply remains low. Consumers are truly optimistic. The U.S. economy has been under scrutiny lately, but it is certainly not deteriorating.
+
+The potential discussion of affordability has veered into the national spotlight, as household wages struggle to keep pace with home prices. Those home prices just keep increasing, but it’s still ill-advised to predict a heavy shift toward fewer sales and lower prices.
+
+“Keep a close eye on the Federal Reserve moving forward.”
+
+Consumers have learned a lot in the last decade. The biggest key factors to keep an eye on as we move toward the end of the year is the Federal Reserve, which is selling off treasury bonds in a big way. Rates have to go up over the next few years, so educating our clients to understand that they need to transfer their potential equity into another property that will fit their needs for the long haul should be the message. If your home isn’t going to fit your needs for the next five years or more, it’s imperative that you do something about your potential equity and move before rates get too high or the inventory becomes too much of a surplus.
+
+I do not see a huge crash coming, nor am I here to predict that, but rates have to go up. Some buyers are pushing back and saying that they’ll wait for them to come back down, but I think that’s a big mistake. Trying to time the market perfectly could result in throwing away a bunch of money on rent and potentially still have a higher mortgage payment with more competition.
+
+Any buyer should be buying a home for the five-year-plus program. If possible, buyers should be looking to get a 30-year fixed rate mortgage while rates are still extremely low. Our government bought so many treasury bonds that it takes them years to sell them all back. The current number is $50 billion per month being sold.
+
+I don’t mean to be scary, but there are some shifts happening in our market so we need to be aware of all these factors. Sorry for the long-winded message, but I felt the timing was right to give you a closer look at our market.
+
+If you have any questions for me or you’re thinking of buying or selling a home any time soon, give me a call or send me an email today. We’d love to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+What+Does+the+Current+San+Diego+Real+Estate+Market+Look+Like%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+What+Does+the+Current+San+Diego+Real+Estate+Market+Look+Like%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The San Diego real estate market is at a crossroads. Here are the latest numbers that point at where we’re headed.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>The San Diego real estate market is at a crossroads. Here are the latest numbers that point at where we’re headed.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Make the Winning Offer in a Multiple Offer Situation</title>
+        <link>localhost:4000/how-to-make-the-winning-offer-in-a-multiple-offer-situation.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-09-13 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Make+the+Winning+Offer+in+a+Multiple+Offer+Situation.mp4</guid>
+        <description>
+
+To win out in a multiple offer situation, there are a few tips you can follow to make the best offer possible.
+
+ 
+
+If you find yourself in a multiple offer situation for a home you love and must have, here are the steps you need to take to make sure you’re the one who ends up with that home.
+
+First, make an offer that’s higher than the list price. In a competitive market, you need to make adjustments, and in a seller’s market, you may need to go all in from the get-go. In 2017, nearly a quarter of all home sales closed by an average of $7,000 over list price. An attractive offer can help you avoid some of the back-and-forth negotiating and help your sale happen quicker. You also need to make sure in this situation that the home will appraise for the amount you’re offering. It’s essential that you have an educated broker working with you in this regard.
+
+Second, get pre-qualified or pre-approved. Taking the initiative to work with a lender before you make an offer will let the seller know you mean business. Getting pre-approved or pre-qualified will also tell you what your budget is, what your monthly mortgage payment will be, and what price range you can afford to shop in.
+
+A pre-qualification is an estimate of how much money you’ll be able to secure a loan for, and all it takes is a 10-minute phone call. A pre-approval means your file has been reviewed and approved and, barring any unforeseen circumstances, you should receive a letter from your lender that you can include with your offer. With a pre-approval, you’ll need to gather documents of income, finances, retirement, credit checks, etc., to be reviewed and verified. Your lender and agent can help you determine whether a pre-approval or a pre-qualification is the best option for you, but in this market, I suggest getting a pre-approval.
+
+“The presentation of your offer is extremely important.”
+
+Third, waive any unnecessary contingencies. With this step, though, you should proceed with caution. While waiving contingencies like inspections and appraisals can make your offer so much more attractive, doing so carries some risk. If you skip the home inspection, for example, you might end up with a home with termites, a crumbling foundation, or a host of other costly issues. If you waive the appraisal contingency and the home appraises for less than the offer, it’s unlikely you’ll get financing above the appraisal price. In that case, you’d need to increase your down payment to make up the difference and keep your offer viable.
+
+On our team, one of the keys to getting a solid pre-approval is that our lenders can offer shorter contingency timelines or full contingency removals. Our lenders have systems in place where they can get your file approved by an underwriter and give you the most confidence that you’re getting the loan so that you can remove the loan contingency entirely, or at least remove the timeline from that contingency. Sellers are looking for clean, simple offers, and contingency timelines can come into play when dealing with the competition. Every offer is different, and sitting down with a professional to structure your offer is the best way to present it.
+
+Fourth, write a letter to the seller. This tactic has been a common practice for me since I started working in real estate. Making a personal and professional connection to the seller may tip the scales in your favor, especially when they have a strong connection to the home. We’re all human, and sometimes an offer is just an offer. Some sellers, though, might want to know why their home is important to you and have you put a human element behind your offer. So write a letter about your life, your family, and what you love most about the home and the surrounding neighborhood. You can also take it a step further by adding a family photo to your offer. The presentation of your offer is extremely important.
+
+Of course, none of these tactics are 100% guaranteed to make you the winner, but they’ll give you a fighting chance. With that being said, the biggest tip we can offer is to know when to walk away. No house is perfect, and if you can’t make this home yours, there may be another one waiting just around the corner that catches your eye.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Make+the+Winning+Offer+in+a+Multiple+Offer+Situation.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/Videos/San+Diego+Real+Estate+-+How+to+Make+the+Winning+Offer+in+a+Multiple+Offer+Situation.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To win out in a multiple offer situation, there are a few tips you can follow to make the best offer possible.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>To win out in a multiple offer situation, there are a few tips you can follow to make the best offer possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>6 Red Flags to Look out for During the Home Inspection Period</title>
+        <link>localhost:4000/6-red-flags-to-look-out-for-during-the-home-inspection-period.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-08-28 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate+-+6+Red+Flags+to+Look+out+for+During+the+Home+Inspection+Period.mp4</guid>
+        <description>
+
+The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.
+
+ 
+
+A home inspection should catch any and all deal-breakers—right?
+
+Well, not so fast. Most seasoned home inspectors say that certain issues may not reveal themselves during a standard home inspection.
+
+Most buyers are reluctant to pay for a specialized inspection, so to get the most value from a general inspection, there are six home inspection red flags you should look out for. These items can sometimes go undetected, so don’t assume that they aren’t there just because an inspector didn’t notice them.
+
+1. Partially blocked or damaged sewer lines. Inspectors will likely determine the type of drain pipe used, estimate its age, and look for nearby external elements, like tree roots, that could cause damage. Sewer pipe scoping, however, is not generally included in a standard inspection. In certain circumstances, ordering an additional inspection to check for this kind of damage may be advisable.
+
+2. Failing HVAC equipment. These systems may appear fine one day, then completely fail the next. Investigating the condition of these systems may be more expensive than a standard inspection, but catching a problem before it evolves into something worse could save you a lot of stress and money in the long run.
+
+3. A cracked heat exchanger on the HVAC. Having a specialized contractor examine either the exchanger or the entire system will be especially important if the unit is more than a decade old. If a crack is found, the unit must, by law, be replaced.
+
+“Don’t assume there are no problems with a home just because an inspector didn’t notice them.”
+
+4. Electrical problems. Standard inspections generally only involve a visual check of such components on a property. However, this is not always sufficient when it comes to electrical issues. If a disconnect in the system is revealed during the general inspection, it is essential for you to hire an electrician to take further action.
+
+5. Structural issues. Home inspectors should know what’s normal and what isn’t, but further evaluation of identified issues will need to fall on the shoulders of a more specialized professional. If there is a problem with a roof, for example, you will need to hire a roofer to understand the extent of the issue and address it accordingly.
+
+6. Leaks. Leaks are often difficult to detect by virtue of how unpredictable they can be. In vacant homes, especially, these issues can easily go overlooked. Carefully checking drains in cabinets, under the sinks, and in the ceilings before your move could save you a significant stress later on.
+
+At the end of the day, being proactive in identifying issues is key. If you’d like us to recommend a licensed inspector to help you with this task, we would be more than happy to do so.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate+-+6+Red+Flags+to+Look+out+for+During+the+Home+Inspection+Period.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate+-+6+Red+Flags+to+Look+out+for+During+the+Home+Inspection+Period.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>The home inspection process may not catch every single issue a home has, so there are six red flags you should look out for when examining a property.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Cool Down and Cut Energy Costs This Summer</title>
+        <link>localhost:4000/how-to-cool-down-and-cut-energy-costs-this-summer.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-08-06 09:56:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+9+Ways+to+Keep+Cool+and+Cut+Costs.mp4</guid>
+        <description>
+
+Here in San Diego, we are spoiled by amazing temperatures year-round. Every now and then, though, the heat and humidity can sneak up on us—so it’s always good to be prepared.Today, I have a few ways to help you be more comfortable in your home and save money on energy costs:
+
+1. Plug up any holes that you see around your home. If I walked into your home today, I bet we would find a hole or gap that is dragging all the cold air outside. Most of these gaps are around doors or windows. For doors, I recommend installing threshold sweeps to seal up the gap at the bottom, keep bugs out, and trap your cool air inside the house. I also recommend weather stripping around exterior doors.
+
+If you have the budget, you can even replace your windows with retrofit windows. Retrofit windows are easy to install. Otherwise, foam and outdoor, silicone-based caulking can help seal your windows up tight.
+
+2. Close the shades. If you have direct sunshine coming in your house during the morning or evening, your home will be warmer. Just keeping your shades closed at those times of the day will drastically reduce your home’s temperature and help keep energy costs down. At the very least, make sure that you keep the shades closed while you’re at work so your home will stay cool during the day.
+
+3. Clean your air conditioning filters. Clean your filters every month, especially during the summer when your AC is running most of the time.
+
+4. Program the thermostat. If you aren’t home for most of the day, your home doesn’t need to be as cool as it is when you are there. During the day, raise the temperature just a little bit. Take advantage of those smart thermostats and let them work for you in your home.
+
+5. Unplug, unplug, unplug. I walk around all day turning off or unplugging electronics. It might not seem like a big deal, but I challenge you to try it. Unplug your TV or computer, too—those electronics use a lot of power even when they are not on. You’d be amazed at how many items are plugged in and costing you money when they are not in use.
+
+“These are simple things you can do to save money and stay cool.”
+
+6. Don’t run your oven as often. Summertime is for barbecues and outdoor grilling. If you have to, use the cooktop. Running your oven is more expensive than you think, plus you’re adding a heat source for your home in the summer.
+
+7. Turn down the temperature on your water heater. It’s fairly common for the water heater to be in your garage. Since the garage is already warmer than the rest of the house, simply turn down the temperature from 130 degrees to 115 degrees can save you about $50 a year. That may not seem like much, but it’s definitely worth it.
+
+You can also wind an insulated blanket or wrap around the water heater to keep temperatures consistent.
+
+8. Tune up your air conditioner. Make sure you get your air conditioner serviced. We tend to forget about that AC in the winter, but I recommend getting your AC serviced just before spring. Don’t ignore your air conditioner until something goes wrong.
+
+9. Upgrade your systems. There are a few different things you can do. Change light bulbs to more energy-efficient ones; they are very affordable. You can also add fans to any room to create air flow.
+
+Everyone likes to have an outdoor light on at night for security purposes. I’ve been experimenting with some solar lights lately, and I can’t believe how effective they are. Give me a call if you want to know which brand I’ve been using.
+
+Finally, even replacing older appliances like your refrigerator, dishwasher, or washer and dryer. It does take a bit more money, but if you need to replace them you might as well find more energy-efficient appliances. There are some great affordable options out there that can save you more money in the long run.
+
+These are just a few of the simple steps you can take to keep cool this summer and save some money while you’re at it. If you have any other questions, just give me a call or send me an email. I would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+9+Ways+to+Keep+Cool+and+Cut+Costs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+9+Ways+to+Keep+Cool+and+Cut+Costs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What can you do to stay cool this summer and save on energy bills? I have nine tips for you today.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>What can you do to stay cool this summer and save on energy bills? I have nine tips for you today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Prepare Yourself to Buy a House in 10 Steps</title>
+        <link>localhost:4000/how-to-prepare-yourself-to-buy-a-house-in-10-steps.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-06-17 12:06:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Prepare+to+Buy+a+Home+in+10+Steps.mp4</guid>
+        <description>
+Are you ready to buy a home? If you think this is the year to put your rental days behind you and move into a home of your own,  now is time to prepare. Even if you won’t be ready to buy in the next six months to a year, you should still take steps to get ready for that eventuality. Today we’ll go over 10 must-do steps to prepare you to buy a home. Crossing these items off the list will make it easier for you to find and finance the home of your dreams. 1) Check your credit score. A good credit score is essential to buying a home because it proves your track record of paying off debts such as credit cards and college loans. A higher credit score makes it easier to qualify for a low interest rate, making your purchase more affordable. 2) Start saving. This is easier said than done, but you will need cash reserves to buy a home. This may not be as much as you think. You will have to prove to a lender that you can afford housing payments that may be higher than your current rent. Anything you can do to start saving is of utmost importance. 3) Earn extra cash. Many first-time homebuyers are low on cash. Consider taking drastic steps to cut spending or increase your income. You could sell some of your stuff or take a part-time job for extra cash flow. 4) Consult a lender. The sooner you visit a lender, the faster you will know where you stand as far as getting a mortgage and how to improve your credit if it’s not ideal. Having a pre-qualification or pre-approval letter will give sellers peace of mind.
+
+“You have to create a personal budget to decide how much you will be able to spend on your mortgage payment.”
+
+5) Investigate down payment assistance programs. It can pay to explore down payment assistance programs. You don’t have to be destitute to qualify for assistance. 6) Decide on comfortable monthly payments. A lender can give you an idea of how much house you can afford, but you have to create a personal budget to decide how much you will be able to spend on your mortgage payment. 7) Attend a seminar or take classes on buying a home. If you want to learn more, we and our lenders are happy to go over all the steps in detail. There are often free seminars that explain the home buying process. 8) Start looking at neighborhoods. Unless you already know where you want to live, visit a variety of potential neighborhoods. You will want to scout out the areas that meet your needs in terms of transportation options and other amenities. Exploring different locations will help you narrow your priorities. 9) Visit open houses. Going to open houses early in your search will let you see what is available in your area that might fit your budget. You will also begin to see what matters most in your decision—the location, room to entertain, or outdoor space.  
+
+10) Interview real estate agents. It’s a good idea to talk with and interview multiple real estate agents to find one that you can trust and has your best interests in mind. It is important to see how well you interact with someone who isn’t just interested in a real estate deal. If you have any additional questions about a home search, advice on lenders, or would like to meet my team, please let me know. Or, if you have any questions that you would like answered on upcoming videos, contact us. If we choose your question, you will receive a gift card for your time. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Prepare+to+Buy+a+Home+in+10+Steps.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Prepare+to+Buy+a+Home+in+10+Steps.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you think you will be ready to buy a house in the next year, it could be time for you to begin preparing for that major purchase now. Today I have 10 steps to help you prepare.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>If you think you will be ready to buy a house in the next year, it could be time for you to begin preparing for that major purchase now. Today I have 10 steps to help you prepare.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Top 10 Expensive Mistakes That You’re Making With Your Home</title>
+        <link>localhost:4000/top-10-expensive-mistakes-that-youre-making-with-your-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-05-23 09:27:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Unnecessary+Homeownership+Costs.mp4</guid>
+        <description>
+
+Homes cost a lot of money to maintain, but are you spending unnecessary money? Here are the 10 most expensive mistakes sellers make and how to solve them:
+
+1. Using traditional light bulbs. If you still have incandescent light bulbs in your home, you’re throwing away money every month on your electric bill. Over its lifespan, an incandescent light bulb can use up to $180 in electricity. In comparison, an LED light bulb only uses $30 in electricity in the same lifetime. Think about how this could change your home’s bottom line.
+
+2. Ignoring a leaky faucet. One drop per second can waste over 3,000 gallons per year. That’s enough to take over 180 showers. Some of us live in areas where water is plentiful, but those who don’t could be wasting a fortune one drip at a time. Water is a precious resource, so fix or replace those leaky faucets.
+
+3. Using the wrong air filter size. Using the wrong filter (or a dirty one) can increase your power bill and cause expensive problems for your furnace down the road. Use the correct filters for your system and set up a reminder to change them after the recommended amount of time.
+
+4. Not customizing your thermostat temperature. This is a big one. A lot of people like to leave the heat or the a/c on all day, even when they aren’t home. If you invest in a customizable thermostat, you can program your systems to conserve energy. Then when you get home, you can program it to your ideal temperature.
+
+5. Not adjusting your air vents properly. Is one room hot while the others are cold? A lot of times, homeowners will crank up the A/C to combat the hot temperatures in one area. Instead, you can just adjust the vents to direct the flow of air evenly throughout the home.
+
+“We don’t need that much water to sustain our lawns.”
+
+6. Overwatering your lawn. We don’t need much water for our lawns, but many homeowners have their sprinklers programmed to go off every morning for optimal lawn health. This can become a problem if you’re not around to see what’s being watered. A broken or bent spigot could be causing all your water to go toward your house or the street instead of in the lawn. Keep an eye on your sprinklers during the day and maybe cut the time down a bit.
+
+7. Water temperature is set too high. Unless you have a tankless heater, the water in your water heater is keeping things hot 24/7. If you don’t keep an eye on the temperature as seasons change, you might be paying too much for the hot water. Decrease the temperature in the summer, and bump it back up in the winter.
+
+8. Leaky windows and doors. Many homeowners simply ignore this by cranking up their heaters. Caulk leaky windows and put rubber seals around the doors to keep the winter winds out and the warm air in. 
+
+9. Paying a handyman. Don’t pay a handyman for a job that’s simple enough to do yourself. The information is out there. If you’re unsure how to do something, watch tutorials on YouTube. Doing these simple tasks on your own could save you time and money and also give you some useful real-world knowledge.
+
+10. Ignoring curled roof shingles. When you start to see them form, it’s definitely best not to ignore the problem. If you do, it will only lead to a bigger problem. If you see possible issues with curled shingles, let your roofer know, or research how to properly fix the shingles on your own.
+
+Review these tips, save some money, and if you have any questions about this list or anything else related to real estate, don’t hesitate to give me a call or send me an email. If we answer your question on one of our videos, we’ll send you a $25 gift card.
+
+I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Unnecessary+Homeownership+Costs.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Unnecessary+Homeownership+Costs.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Homeownership isn’t cheap, but it can be a little less expensive if you avoid making these 10 common mistakes.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Homeownership isn’t cheap, but it can be a little less expensive if you avoid making these 10 common mistakes.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Easy Ways to Boost Your Home’s Value</title>
+        <link>localhost:4000/4-easy-ways-to-boost-your-homes-value.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2018-04-20 15:48:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+4+Ways+to+Add+Home+Value.mp4</guid>
+        <description>
+
+Selling your home can be one of the most stressful times in your life. However, there’s no need to worry—today we’re going to go over four simple and effective tactics to add value for your home sale. 
+
+
+  Improve your outdoor environment. A great outdoor space can make or break a sale. Consider updating your landscaping, mowing your lawn, and building a nice outdoor seating area. For a larger project, build a deck. For simpler projects, update your existing features. It’s all about creating emotion as your potential buyers pull up. You want to create a fantastic vision of warmth without breaking the bank.
+  Remodel your kitchen. Sounds scary, right? It shouldn’t be. It should be high on your priority list; updating your kitchen is highly recommended to improve the value of your home. Just don’t go overboard on your budget. Remodeling a kitchen should be a cosmetic, low-dollar rehab, as you won’t recoup investment on anything larger. Repainting the walls and old cabinets, as well as updating the backsplash and installing new energy-efficient appliances are simple updates you can do before selling.“Remodeling a kitchen should be a cosmetic, low-dollar rehab, as you won’t recoup investment on anything larger.”
+  Ordinary updates. Many homeowners look right past this, but there are a few easy fixes you can make, such as replacing rotting wood, repairing roof leaks, and repainting inside and out.
+  Prioritize energy efficiency. More and more homebuyers are looking for energy efficiency in their homes. Consider making updates to your home that lower energy costs. This can include installing insulation, purchasing replacement windows, or buying Energy Star appliances. These features are not only appealing to prospective buyers, but they can also lower your energy bills while you’re still living in your home. Jump on the sustainability train and make a few updates today.
+
+
+Every home seller wants to get as much money as possible for their home. We have many vendors in our network whom we trust to provide you with great value for your bottom line.
+
+If you have any questions about selling your home, feel free to reach out to us. Additionally, if you have an idea for a future video that you’d like to see, let us know. If we choose yours, we’ll thank you by sending you a gift card. I hope to hear from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+4+Ways+to+Add+Home+Value.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+4+Ways+to+Add+Home+Value.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are four easy ways you can add value to your home before you sell it.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Here are four easy ways you can add value to your home before you sell it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should Sellers Disclose When Selling Their Home?</title>
+        <link>localhost:4000/what-should-sellers-disclose-when-selling-their-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-11-16 09:17:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+Much+Should+you+Disclose.mp4</guid>
+        <description>
+
+When it comes to real estate transactions, sellers have a legal obligation to disclose past and current defects of their home to potential buyers. How far does this obligation go, though?
+
+On one hand, sellers want to minimize the negative disclosures that may affect their ability to sell their home for maximum profit. Buyers, on the other hand, want to know exactly what they’re buying so they can estimate potential repair expenses and negotiate the purchase price accordingly.Whether you’re buying or selling, it’s a good idea to understand the basics of real estate disclosures.There are required disclosures such as water damage, mold, termite damage, cracks in the foundation, leaks in the roof, and issues with any appliances or mechanical systems. You also must disclose previous repairs and renovations and any potential environmental dangers.
+
+“When in doubt, disclose.”
+
+In addition, there are several federal laws that apply no matter where you live. If you’re selling a home that was built prior to 1978, for example, you must comply with the Residential Lead-Based Paint Hazard Reduction Act of 1992. If lead-based paint is present, you must let the buyer know.
+
+My advice to any seller is, when in doubt, disclose. Full disclosures will protect you from future legal claims and give buyers confidence that they’re being treated fairly. Just because you disclose a problem doesn’t mean you have to fix it. Interested buyers will be anxious to close the deal, and they may be willing to overlook minor issues. More serious defects may lead to further negotiations, but they won’t necessarily be a deal breaker for serious buyers.
+
+If you have any further questions about disclosures or any other real estate topic or you’re thinking of buying ro selling a home in the San Diego area, don’t hesitate to give me call or shoot me an email. I’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+Much+Should+you+Disclose.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+Much+Should+you+Disclose.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re a seller and you’re unsure of what you should disclose, don’t hold back. Full disclosures or your home’s defects will protect you from future legal claims.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>If you’re a seller and you’re unsure of what you should disclose, don’t hold back. Full disclosures or your home’s defects will protect you from future legal claims.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Wealth Building and Investing</title>
+        <link>localhost:4000/wealth-building-and-investing.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-10-31 09:45:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+6+Ways+to+Build+Your+Wealth.mp4</guid>
+        <description>
+
+Money. The almighty dollar. Cold, hard cash.
+
+Whatever you call it, money plays a vital role in sustaining your needs and fueling your goals. However, it can be a double-edged sword.
+
+If you don’t have the right strategy in place to make your finances grow, the cycle of earning and spending money can feel like you’re stuck in a revolving door. You work hard for your money—why not make it work hard for you?
+
+Today I want to share the six ways you can achieve just that.
+
+1. Save consistently. This might sound elementary, but it’s a lot easier said than done. The most efficient way to save is to make your savings automated. Set up your online banking so that each time you get paid, a portion will go into savings. Interest rates on traditional savings accounts are quite low, however. You may want to think about a high-yield savings account.
+
+2. Use credit cards strategically. Credit cards can be either harmful or helpful to your finances. If you are strategic, you can both build credit and earn rewards that you can use for food, clothes, travel, or even in the form of earning cash back. You could even put the cash you earn back into savings. Choose a card with strong rewards and use it for daily expenses. Then, pay it off consistently. Using credit cards responsibly and without overspending is key. The latest gadgets may be cool, but debt is absolutely not.
+
+3. 401(k) matching. If your employer offers 401(k) matching, maximize the full amount they are willing to contribute to take advantage of free retirement money. Let’s say your employer will match your contributions dollar for dollar up to $1,500. If you take full advantage, you could double that money.
+
+“You work hard for your money—why not make it work hard for you?”
+
+4. Opening an IRA. IRAs, or individual retirement accounts, are another great way to grow your money. IRAs are tax-advantaged investment accounts that are specifically designed to help you with retirement. There are two types of IRAs: traditional and Roth. With traditional, you contribute pre-tax dollars. These funds get taxed when you withdraw them in retirement. With a Roth IRA, the money you contribute is after tax, meaning it will not be taxed when you withdraw it.
+
+5. Purchase real estate. Homeownership is one of the smartest ways to build your wealth. Owning a home helps you build equity. Equity is a valuable asset that you can utilize later on. Also, if you are already a homeowner, you can use a rental property as an additional source of income.
+
+6. Private reserve banking. This whole life insurance strategy is designed to develop or improve your financial position. This is achieved by avoiding unnecessary wealth transfers. Imagine if you never had to rely on a bank to finance your life. Only a handful of companies offer these policies, and you’ll want to make sure your agent is well informed about them.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. You can also contact me if you have any video ideas. If we use your idea, we will thank you with a gift card.  I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+6+Ways+to+Build+Your+Wealth.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+6+Ways+to+Build+Your+Wealth.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’d like to share six key ways you can put your hard-earned money to work for you.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Today, I’d like to share six key ways you can put your hard-earned money to work for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What's Going on in the San Diego County Market?</title>
+        <link>localhost:4000/whats-going-on-in-the-san-diego-county-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-09-20 09:59:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+Will+Changes+in+Our+Local+Market+Affect+You%253F.mp4</guid>
+        <description>
+
+Right now we’re seeing a very strong seller’s market. High buyer demand and low inventory across San Diego County has helped this trend to continue.
+
+New constructions haven’t yet come to the rescue of the low inventory in our market, but demand for construction materials remains high. Previously low construction activity has weighed down public sector, but not the private residential building.
+
+Going back to September of 2016 through August of this year, pending sales in San Diego County went up by 0.2%. However, the largest increase over that period was in the $1 million to $1.25 million price range, where there was a 21.3% increase.
+
+Also, the overall median sales price has gone up 8.8% to approximately $525,000. The largest price gains over this period were in townhouses and condos. The sales prices for townhomes and condos went up 7.5% to approximately $387,000.
+
+That said, this was not the quickest price range to sell. The price range with the fewest days on market was the $250,000 to $500,000 price range, where the average was 26 days on market.
+
+“A surplus of buyers and a lack of inventory in the market is driving up competition, meaning you have the advantage as a seller.”
+
+Anything above $1 million or $1.25 million was the slowest to sell.The average days on market for that price range and up was around 61 days.
+
+The most important statistic to note is that inventory is down by about 26.4% across the market. This equals about two months of supply of single family homes and about 1.5 months of condos and townhomes.
+
+Interest rates are still at an all-time low, and this isn’t expected to change soon. This makes it a good time to make a move if you’re thinking of buying anytime soon. The market may be a bit challenging, but my team and I have strategies we’d love to share with you.
+
+Also, now is a great time if you’re looking to sell. There is a surplus of buyers and a lack of inventory driving competition in the market, meaning you have the advantage as a seller.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. Also, if you send in a question and we feature it in a video, we will thank you with a gift card.
+
+I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+Will+Changes+in+Our+Local+Market+Affect+You%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+Will+Changes+in+Our+Local+Market+Affect+You%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is going on in the market across San Diego County? Today, I’ve got the latest update.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>What is going on in the market across San Diego County? Today, I’ve got the latest update.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>5 Tips to Get Your Home Ready to Sell for Top Dollar</title>
+        <link>localhost:4000/5-tips-to-get-your-home-ready-to-sell-for-top-dollar.html</link>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-07-06 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+5+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4</guid>
+        <description>
+
+The two most important questions homeowners want answers to are “How much is my home worth?” and “How long will it take to sell?” Many homeowners base the answers to those questions on the experience of their neighbors. If your neighbor’s home took two months to sell, then it seems likely that your home will also take two months to sell, right? Well, this isn’t necessarily true.
+
+There are a number of factors that come into play when selling a home, especially in a seller’s market. The number of homes coming to market is down 13.5% compared to last year, and the current housing inventory is down 28% overall.
+
+It’s a great time to realize the equity gains over the last couple of years and find the perfect buyer. There are three major factors that determine the resale performance of a home: price, location, and condition. In a seller’s market, it may not just be the condition of your home that affects the value.
+
+I want to make sure that your home can sell for top dollar, and there are some steps that can be taken that will make the difference.
+
+“Even in a seller’s market, buyers are extremely savvy and cannot be fooled.”
+
+We have an extensive list of contractors, painters, landscapers, and stagers that can truly make your home shine like a diamond. As for specific improvements, those are determined on a case-by-case basis, which I am more than happy to assist with. Here are five things sellers should focus on when preparing their home for the market:
+
+1. Landscaping. Statistically speaking, potential buyers will experience an emotional attachment to a home they are touring within the first few minutes of arriving at the property. The landscaping is the first point of contact for potential homebuyers on their visit, which makes it an extremely important part of preparing your home.
+
+You may already have beautiful landscaping, but it’s important to make it look like it’s new landscaping. Re-mulch areas, remove dead plants or other vegetation, and update your planters to give your yard a fresh look.
+
+2. Make it look as though no one lives at your home. This is easier said than done. Decluttering your living space gives the buyer the chance to dream and imagine themselves living in that space. It becomes more difficult for that to happen when your space is filled with your personal items.
+
+This may prove to be difficult for some sellers who have lived in the home for an extended period of time, but it is one of the most important things that you can do to strengthen the chances of attracting the right buyer for your home.
+
+3. Replace your flooring or paint if necessary. If you have to ask yourself if painting or re-doing the floors is necessary, then the answer is most likely yes. The buyer will appreciate a home that feels fresh and clean, and paint is an inexpensive way to refresh your home.
+
+If your floors need to be redone, we offer a great deal where our flooring company will replace the floors and submit the bill to be paid by the escrow company when the closing is complete. This is an amazing opportunity to update your floors without any upfront costs.
+
+4. Professional photography. It goes without saying that this should be the norm in real estate, but I’m sure that we can all agree that many agents are doing their clients a disservice by not taking professional photos of their homes.
+
+Photos are the first point of contact to create that emotional attachment mentioned earlier with the buyer. It is our chance to tell the story of your home before they even come to see it. That can be accomplished with aerial photos, video walkthroughs, and 3-D tours as well.
+
+5. Pricing. Even in a seller’s market, buyers are extremely savvy and cannot be fooled. This should be taken seriously as we only have one chance to make a good first impression when pricing your home. All of the work that was done on updating the landscaping, interior, and through professional photography will mean nothing if we don’t price your home that makes sense to the market.
+
+We have years of certified appraisal experience and would love to help you get an accurate appraisal for your home.
+
+If you have any other questions, need help getting your home ready for the market, or are looking to buy or sell a home, give us a call. We look forward to working with you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+5+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+5+Tips+to+Get+Your+Home+Ready+for+the+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve been thinking about selling your home, you may be worried that it’s not ready to sell. I’ve listed a few things you can do to get your home ready to sell for top dollar.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>If you’ve been thinking about selling your home, you may be worried that it’s not ready to sell. I’ve listed a few things you can do to get your home ready to sell for top dollar.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Buy a San Diego Home With Little or No Money Down</title>
+        <link>localhost:4000/how-to-buy-a-san-diego-home-with-little-or-no-money-down.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-06-13 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+to+Buy+a+San+Diego+Home+With+Little+or+No+Money+Down.mp4</guid>
+        <description>
+What’s the biggest obstacle to homeownership? According to a recent survey, “saving enough for a down payment” comes at the top of the list. A whopping 55% of prospective homebuyers cited this as their main stumbling block.
+
+And with the continuing growth of home prices, things aren’t getting any easier. In fact, homeownership rates reached a 20-year low last November, but it wasn’t always like this.
+
+A decade ago, many lenders were offering easy, no-money-down mortgages. However, after the financial crisis, mortgage standards have become more restrictive. A typical mortgage now requires a 20% down payment.
+
+Here’s the good news. If you have decent credit and a steady income, you might qualify for a number of specialized programs that require no or very little down payment.
+
+First, there’s the USDA loan, which is valid for homes in certain regions, such as rural and suburban areas. With zero money down and lenient credit requirements, the USDA loan can be a great choice for many homeowners.
+
+Second, there’s the VA loan, which you can apply for if you or your spouse served in a branch of the military. It’s possibly the most generous zero-money-down mortgage because of low interest rates and low closing costs.
+
+“If you have decent credit and a steady income, you might qualify for specialized programs that require no or very little down payment.”
+
+Third, there’s the FHA loan. It requires a 3.5% down payment — still drastically more achievable than the 20% required for a conventional mortgage.
+
+Finally, there are a number of credit unions and first-time homebuyer programs that might apply to your particular situation. There’s one important thing you should know. If you get one of these no-money-down mortgages, chances are good you will be required to pay private mortgage insurance, which can drive up your monthly payments.
+
+Fortunately, private mortgage insurance will disappear after your mortgage balance is under 80%. Also, the money you do pay will be tax deductible in most cases. In short, there are lots of options to make owning a home a reality for you, even if you haven’t saved up tens of thousands of dollars.
+
+If you need more advice on getting a no-money-down loan or you have any other questions about the San Diego market, don’t hesitate to give me a call or send me an email soon. I’d be happy to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+to+Buy+a+San+Diego+Home+With+Little+or+No+Money+Down.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/videos/San+Diego+Real+Estate-+How+to+Buy+a+San+Diego+Home+With+Little+or+No+Money+Down.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Coming up with a down payment to buy a home is a big roadblock for many people. However, there are plenty of options for buyers in this position.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Coming up with a down payment to buy a home is a big roadblock for many people. However, there are plenty of options for buyers in this position.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Need to Be Careful With Zillow</title>
+        <link>localhost:4000/why-you-need-to-be-careful-with-zillow.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Travis Chatwin</author>
+        <pubDate>2017-06-07 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Why+You+Need+to+Be+Careful+With+Zillow.mp4</guid>
+        <description>
+What’s going on with Zillow today? You’ve probably seen their Zestimate feature, which is Zillow’s best guess about a home’s value. It can be a good starting point to determine if you should sell your home or whether a home you’re thinking of buying is a ripoff.
+
+However, Zillow has been in the news lately in regards to a lawsuit over a Zestimate. They’ve even offered a $1 million reward for anyone who can improve the algorithm for their Zestimates. These Zestimates tend to be far off from a home’s true value, leading to misunderstandings for buyers and sellers. Since the San Diego market has jumped so much in recent years, we still see discrepancies with Zestimates.
+
+Zestimates have a median error rate of 5.6%, meaning half of homes sell for almost 6% above or below what the Zestimate said it was worth. It can be much worse; last year, Zillow CEO Spencer Rascoff sold his Seattle home for 40% less than what the Zestimate said it was worth! He then bought a home for $1.6 million more than what the Zestimate called for.
+
+“Zillow has been in the news lately in regards to a lawsuit over a Zestimate”
+About 80% to 90% of sellers quote the Zestimate to their broker for a listing price, and in many cases, the amount a buyer is comfortable paying mirrors the Zestimate. A real estate professional’s job is to bring an opinion of value based on years of appraisal experience. Unlike real estate agents, Zillow can’t physically go into a home to see its value, instead, they rely on data from an agent or the MLS. They can’t account for things like home upgrades or a grand view.
+
+It’ll be interesting to see what happens thanks to the continued negativity surrounding Zestimates. However, it’s still the most used computer estimate out there for home values. Unfortunately, most buyers and sellers take this info as the end-all, be-all for their next move. It may seem like a good starting point, but it’s strictly data-driven, so it’s only as good as what’s put into.
+
+If you want to know the true value of a home, speak with a real estate professional. If you have any questions about the value of a home you’re buying or selling, give me a call or send me an email. I’d be glad to help!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Why+You+Need+to+Be+Careful+With+Zillow.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Travis+Chatwin/San+Diego+Real+Estate-+Why+You+Need+to+Be+Careful+With+Zillow.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Millions of people think Zillow is a trustworthy source for home value information, but fail to realize that these estimates are computer-generated and have a significant error rate.</itunes:subtitle>
+        <itunes:author>Travis Chatwin</itunes:author>
+        <itunes:summary>Millions of people think Zillow is a trustworthy source for home value information, but fail to realize that these estimates are computer-generated and have a significant error rate.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>San Diego Real Estate Market Update</title>
         <link>localhost:4000/san-diego-real-estate-market-update.html</link>
