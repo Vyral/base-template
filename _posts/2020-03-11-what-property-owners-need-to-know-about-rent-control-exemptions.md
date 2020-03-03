@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Property Owners Need to Know About Rent Control Exemptions
-date: 2020-03-03 18:37:45
+date: 2020-03-11 18:37:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: 4TE7CyvG2gw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>This is just a reminder for California property owners to send out your exemption notices to tenants if you want to remain exempt from rent control in California.</em></p>
+*This is just a reminder for California property owners to send out your exemption notices to tenants if you want to remain exempt from rent control in California.*
 
 Tenant-occupied properties like single-family homes, condos, townhomes are exempt from the new California rent control law. Additionally, duplexes where one unit is owner-occupied and the other is tenant-occupied are exempt as long as one of the units remains owner-occupied.
 
