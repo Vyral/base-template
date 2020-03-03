@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has the Coronavirus Impacted Our Jacksonville Market?
-date: 2020-03-03 19:52:22
+date: 2020-03-03 19:52:00
 tags:
   - Market Update
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/coronavirus-youtube.jpg
+youtube_alternate_image: /uploads/coronavirus-youtube-1.jpg
 youtube_code: Ug0bbTZqzS0
 ---
 
