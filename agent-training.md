@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 Relationships are important in every business, but especially so in real estate. In today's webinar, you’ll learn how to use networking to get more leads, more profit, and most importantly, more fun. There are certain tips and tricks that you can start using in your business today to start the process. For example, you can send out videos to your database that feature your vendors or invite VIPs to monthly happy hours.
 
-<iframe width="734" height="413" src="https://vimeo.com/389312221/f82ef24445" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
 
 ### Previous Webinars:
 
