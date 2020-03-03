@@ -15,13 +15,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/the-housing-shortage-in-our-market-youtube.jpg
 youtube_code: rUNL_td5S_M
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There’s a housing shortage in our market, and it means we’re in for a strong summer.</em></p>
+*There’s a housing shortage in our market, and it means we’re in for a strong summer.*
 
 The supply of homes for sale in the Orange County and greater Los Angeles areas is very low. In my 15 years as a Realtor, this is one of the lowest levels I’ve ever seen.&nbsp;
 
