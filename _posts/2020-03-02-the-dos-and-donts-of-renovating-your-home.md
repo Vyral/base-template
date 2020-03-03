@@ -8,7 +8,7 @@ excerpt: >-
   Here’s the reality of renovating your home that many sellers and homeowners in
   general often miss.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden-+renovation+tips.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden-+renovation.mp4
 pullquote: >-
   Make sure the upgrades you invest in are appropriate for the level of home
   you’re in.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 68kUis5yr7c
+youtube_code: E_inDHIgXB4
 ---
 
 {% include youtube.html %}
