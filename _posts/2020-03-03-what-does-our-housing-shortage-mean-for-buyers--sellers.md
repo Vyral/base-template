@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does Our Housing Shortage Mean for Buyers & Sellers?
-date: 2020-03-04 00:00:00
+date: 2020-03-03 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: rUNL_td5S_M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There’s a housing shortage in our market, and it means we’re in for a strong summer.</em></p>
+*There’s a housing shortage in our market, and it means we’re in for a strong summer.*
 
 The supply of homes for sale in the Orange County and greater Los Angeles areas is very low. In my 15 years as a Realtor, this is one of the lowest levels I’ve ever seen.&nbsp;
 
