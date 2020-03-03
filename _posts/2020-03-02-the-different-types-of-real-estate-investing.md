@@ -23,8 +23,6 @@ youtube_code: nKOpN233X4g
 
 <p style="text-align: center;"><em>There are multiple kinds of real estate investing. Today we’ll discuss how three types can benefit you.</em></p>
 
-If you’re thinking about becoming a real estate investor, there are many different types of investments to consider.&nbsp; Today I’ll discuss three types and how they can benefit you.
-
 Let’s first cover short-term rentals. In our area, there are only certain places where you can buy property and do a short-term rental, meaning a property that can be rented for 30 days or fewer. The beaches allow short-term rentals, as well as some areas downtown. You can also do a short-term rental on a property you live in, such as for a carriage house on the lot or a bedroom in the house. **Short-term rentals for vacationers are a great form of real estate investment.&nbsp;**
 
 Bear in mind, though, if you manage the property yourself, it’ll take a time commitment of two to three hours per week, or longer if there are items to repair.
