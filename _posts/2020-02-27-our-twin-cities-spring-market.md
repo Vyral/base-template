@@ -29,4 +29,4 @@ This is one of our favorite times of the year—we’ve begun our spring market\
 
 If you’re thinking of selling in 2020, you truly want to take advantage of our spring market while it’s still a seller’s market. Also, we offer a program that can get almost any property ready for sale in one month or less. Let us know if you want to take advantage of that.&nbsp;
 
-Please reach out to us if you have questions about our market or real estate in general by going to our website or giving us a call. We would love to speak with you.
+Please reach out to us if you have questions about our market or real estate in general by going to our [website](https://johnschustergroup.com/){: target="_blank"} or giving us a call. We would love to speak with you.
