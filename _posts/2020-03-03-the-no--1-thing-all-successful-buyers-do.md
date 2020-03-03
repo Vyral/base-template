@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The No. 1 Thing All Successful Buyers Do
-date:
+date: 2020-03-03 16:50:44
 tags:
   - Real Estate
 excerpt: >-
