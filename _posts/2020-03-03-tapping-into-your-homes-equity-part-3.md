@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapping Into Your Home’s Equity, Part 3'
-date:
+date: 2020-03-03 15:46:12
 tags:
 excerpt: Here’s the third way you can tap into your home’s equity.
 enclosure:
