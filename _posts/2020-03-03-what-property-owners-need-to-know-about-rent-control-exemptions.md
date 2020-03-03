@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Property Owners Need to Know About Rent Control Exemptions
-date:
+date: 2020-03-03 18:37:45
 tags:
   - Real Estate
 excerpt: >-
