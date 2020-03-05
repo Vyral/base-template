@@ -21,9 +21,9 @@ youtube_code: rUNL_td5S_M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>There’s a housing shortage in our market, and it means we’re in for a strong summer.</em></p>
+*There’s a housing shortage in our market, and it means we’re in for a strong summer.*
 
-The supply of homes for sale in the Orange County and greater Los Angeles areas is very low. In my 15 years as a Realtor, this is one of the lowest levels I’ve ever seen.&nbsp;
+The supply of homes for sale in the Greater Orange County and Los Angeles area is very low. In my 15 years as a Realtor, this is one of the lowest levels I’ve ever seen.&nbsp;
 
 Specifically, **there are about 2.1 months of inventory.** As a reminder, this means if no one else put their homes on the market, it would take 2.1 months to sell all available homes. To put this into perspective, there were about 3.5 months of inventory during this time of year in 2019 and 2018. We saw really strong appreciation in the summer months of both of those years.&nbsp;
 
