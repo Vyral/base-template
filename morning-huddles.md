@@ -6,10 +6,7 @@ permalink: /morning-huddles/
 
 ## Morning Huddles
 
-<div class="morning-huddles"><h1>&nbsp;</h1><p>Ideas Worth Spreading - Habits Part 2<br />
-<div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/7lpt_N8jzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-
-&nbsp;</p><p>&nbsp;</p><p>Ideas Worth Spreading - Habits Part 1</p></div>
+<div class="morning-huddles"><h1>&nbsp;</h1><p>Ideas Worth Spreading - Habits Part 2</p><div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/7lpt_N8jzNM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>&nbsp;<p>Ideas Worth Spreading - Habits Part 1</p></div>
 
 <div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/aMv-IZiceZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 
