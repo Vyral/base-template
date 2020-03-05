@@ -19,7 +19,7 @@ youtube_code: 6aeJfnmvMfw
 
 {% include youtube.html %}
 
-*Here’s why it behooves buyers to call sooner than later in today’s market.*
+<p style="text-align: center;"><em>Here’s why it behooves buyers to call sooner than later in today’s market.</em></p>
 
 Oftentimes we hear from people who say they’re looking to buy in four months, so they’ll just plan to meet with us then; while that’s totally fine (we can meet with people whenever), we’ve found that **the more prepared you are for the future purchase, the better.&nbsp;**
 
