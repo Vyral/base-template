@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/steen-youtube-5.jpg
 youtube_code: 8aGGvy2TVEw
 ---
 
-{% include youtube.html %}How has the real estate market performed so far in 2020?
+{% include youtube.html %}<center>How has the real estate market performed so far in 2020?</center>
 
 How is the real estate market looking so far in 2020?
 
