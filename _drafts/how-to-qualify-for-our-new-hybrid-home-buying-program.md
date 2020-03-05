@@ -19,7 +19,9 @@ youtube_code: 6wYlyFWi9iI
 
 {% include youtube.html %}
 
-There’s a huge gap in the market for people facing two types of scenarios:
+<center><em>Here’s what you need to know about our new home buying program.</em></center>
+
+<br>There’s a huge gap in the market for people facing two types of scenarios:
 
 1\. They’re new to an area and aren’t quite ready to buy a home but don’t want to fully commit to a lease (and aren’t even sure where to lease).
 
