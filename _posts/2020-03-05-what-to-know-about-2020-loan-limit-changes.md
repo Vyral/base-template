@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know About 2020 Loan Limit Changes
-date:
+date: 2020-03-05 22:23:48
 tags:
   - Home Buyer Tips
 excerpt: >-
