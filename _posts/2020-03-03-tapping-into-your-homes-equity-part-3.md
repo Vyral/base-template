@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tapping Into Your Home’s Equity, Part 3'
-date: 2020-03-03 15:46:12
+date: 2020-03-03 15:46:00
 tags:
 excerpt: Here’s the third way you can tap into your home’s equity.
 enclosure:
@@ -19,6 +19,6 @@ In previous episodes of our series on tapping into your home’s equity, we disc
 
 Home equity loans are mostly for people who can’t really show income, are planning/expanding/creating a business, or have bad credit. So why are they good loans?
 
-For one, **home equity loans let you use up to 65% of your home’s equity with minimal documentation**. To calculate 65% of your equity is simple: just multiply the value of your property by 0.65% and subtract that by how much you still owe on it. Let’s say your property is worth $1 million and you still owe $200,000 on it. With this loan, you can cash out up to 65% of your equity, which is $450,000\!
+For one, **home equity loans let you use up to 65% of your home’s equity with minimal documentation**. To calculate 65% of your equity is simple: Just multiply the value of your property by 0.65% and subtract that by how much you still owe on it. Let’s say your property is worth $1 million and you still owe $200,000 on it. With this loan, you can cash out up to 65% of your equity, which is $450,000\!
 
 However, **you should seek professional advice to help you analyze your situation** and determine whether it makes sense for you to get a home equity loan. If you’re curious about how much equity potential your home currently has or you’d like to discuss these loans in more detail, give us a call or shoot us a message. We’d love to help you.
