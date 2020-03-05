@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/gray-youtube-5-1.jpg
 youtube_code: phzAB6mGY2o
 ---
 
-{% include youtube.html %}There are no good online leads, but they can still be extremely valuable.&nbsp;
+{% include youtube.html %}<center>There are no good online leads, but they can still be extremely valuable.&nbsp;</center>
 
 If you’ve ever worked online leads, you know the frustration of calling numbers only to never get a call back, or getting a wrong number, or an email address that reads [mickeymouse@gmail.com](mailto:mickeymouse@gmail.com).&nbsp;
 
