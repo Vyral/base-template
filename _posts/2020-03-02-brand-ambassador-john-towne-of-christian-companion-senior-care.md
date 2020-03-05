@@ -6,7 +6,7 @@ tags:
   - Brand Ambassador
 excerpt: >-
   John Towne founded Christian Companion Senior Care as part of his spiritual
-  walk 11 years. Here’s what amazing things they do for seniors in our
+  walk 11 years ago. Here’s what amazing things they do for seniors in our
   community.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+christian+senior.mp4
