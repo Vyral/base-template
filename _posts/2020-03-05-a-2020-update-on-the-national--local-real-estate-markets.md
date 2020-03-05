@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2020 Update on the National & Local Real Estate Markets
-date:
+date: 2020-03-05 14:51:11
 tags:
 excerpt: How has the real estate market performed so far in 2020?
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/steen-youtube-5.jpg
 youtube_code: 8aGGvy2TVEw
 ---
 
-{% include youtube.html %}<center>How has the real estate market performed so far in 2020?</center>
+{% include youtube.html %}
+
+<center>How has the real estate market performed so far in 2020?</center>
+
+&nbsp;
 
 How is the real estate market looking so far in 2020?
 
