@@ -22,7 +22,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/10-21-19.jpg
 youtube_code: HsII9hjglcM
 ---
 
