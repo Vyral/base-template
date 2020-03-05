@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Homebot, a Super Handy Software'
-date:
+date: 2020-03-05 18:10:19
 tags:
   - Real Estate
 excerpt: >-
