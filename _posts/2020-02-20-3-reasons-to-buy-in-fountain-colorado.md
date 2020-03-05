@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/2-24---brian-canady---yt.jpg
-youtube_code: Fzv7vy9akyY
+youtube_code: l5Y2njwf5U8
 ---
 
 {% include youtube.html %}
