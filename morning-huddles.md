@@ -6,6 +6,9 @@ permalink: /morning-huddles/
 
 ## Morning Huddles
 
+<div class="morning-huddles"><strong>Ideas Worth Spreading- Trust Part 3</strong></div>
+
+<div class="morning-huddles"><iframe width="560" height="315" src="https://www.youtube.com/embed/aMv-IZiceZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
 <div class="morning-huddles">&nbsp;</div>
 
 <div class="morning-huddles">&nbsp;</div>
