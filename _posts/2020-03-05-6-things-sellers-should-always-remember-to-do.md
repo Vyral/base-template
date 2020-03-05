@@ -14,7 +14,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/joshua-stern---dec-2019---1---email.jpg
 youtube_code: uj5jBhC2ZoI
 ---
 
