@@ -19,7 +19,7 @@ youtube_code: 6wYlyFWi9iI
 
 {% include youtube.html %}
 
-<center><em>Here’s what you need to know about our new home buying program.</em></center>
+<center><em>Here&rsquo;s what you need to know about our new home buying program.</em></center>
 
 <br>There’s a huge gap in the market for people facing two types of scenarios:
 
