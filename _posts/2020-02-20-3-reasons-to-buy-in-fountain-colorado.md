@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re sharing three great reasons you may want to consider buying a home in
   Fountain, Colorado.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Reasons+to+Buy+in+Fountain%2C+Colorado.mp4
 pullquote: >-
   Fountain has wonderful opportunities to build wealth and become a homeowner at
   a great value.
