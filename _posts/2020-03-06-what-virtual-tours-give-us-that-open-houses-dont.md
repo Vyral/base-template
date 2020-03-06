@@ -19,7 +19,7 @@ youtube_code: 0bybibTHKp0
 
 {% include youtube.html %}
 
-We have been getting a lot of questions about virtual tours. Here’s my opinion on them.
+<p style="text-align: center;"><em>We have been getting a lot of questions about virtual tours. Here’s my opinion on them.</em></p>
 
 A lot of people want to know whether virtual tours are as effective as open houses. I’m here to answer that question today.
 
