@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Things Sellers Should Always Remember to Do
-date:
+date: 2020-02-06 17:12:00
 tags:
   - Home Seller Tips
 excerpt: >-

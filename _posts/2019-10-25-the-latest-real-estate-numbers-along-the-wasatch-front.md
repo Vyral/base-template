@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Latest Real Estate Numbers Along the Wasatch Front
-date:
 tags:
   - Market Update
   - Real Estate

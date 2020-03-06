@@ -1,6 +1,7 @@
 ---
 layout: post
 title: An Important Message on Buying New Construction
+date: 2020-02-27 17:12:00
 tags:
   - Real Estate
   - Home Buyer Tips

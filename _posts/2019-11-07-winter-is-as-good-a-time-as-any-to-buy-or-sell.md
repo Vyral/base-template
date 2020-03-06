@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter Is as Good a Time as Any to Buy or Sell
-date:
+date: 2019-11-07 17:12:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips

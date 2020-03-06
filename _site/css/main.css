@@ -1814,8 +1814,7 @@ table tr, table td {
 
 .post-image {
   width: 100%;
-  margin-bottom: 20px;
-  box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5); }
+  margin-bottom: 20px; }
 
 .excerpt {
   font-size: 18px;

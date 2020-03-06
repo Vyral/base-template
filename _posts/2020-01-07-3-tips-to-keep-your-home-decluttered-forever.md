@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Keep Your Home Decluttered Forever
-date:
+date: 2020-01-07 17:12:00
 tags:
   - Real Estate
 excerpt: >-
