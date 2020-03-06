@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 6 Things Sellers Should Always Remember to Do
+date:
 tags:
   - Home Seller Tips
 excerpt: >-
