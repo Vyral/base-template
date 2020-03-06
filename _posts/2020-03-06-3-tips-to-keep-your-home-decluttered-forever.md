@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Keep Your Home Decluttered Forever
+date:
 tags:
   - Real Estate
 excerpt: >-
