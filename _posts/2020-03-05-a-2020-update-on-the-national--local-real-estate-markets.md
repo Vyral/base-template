@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A 2020 Update on the National & Local Real Estate Markets
-date: 2020-03-05 14:51:11
+date: 2020-03-05 14:51:00
 tags:
 excerpt: How has the real estate market performed so far in 2020?
 enclosure:
@@ -23,7 +23,7 @@ How is the real estate market looking so far in 2020?
 
 Well, the great news is that interest rates have come down even farther—we’re currently hovering in the mid 3%-range for 30-year fixed loans, and even closer to 3% for 15-year fixed loans. This makes it a really fabulous time for buyers to lock in those low rates and save some money on their monthly payments.
 
-With these low rates, there’s lots of buyer demand. Our inventory is still very, very low, which makes it competitive for buyers to get into a house. On the selling side, however, homes that are priced right and in good condition are generating multiple offers and excellent prices.
+With these low rates, there’s a lot of buyer demand. Our inventory is still very, very low, which makes it competitive for buyers to get into a house. On the selling side, however, homes that are priced right and in good condition are generating multiple offers and excellent prices.
 
 **Here’s a closer look at how the markets are performing in the Ventura County area:**
 
