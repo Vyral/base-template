@@ -21,7 +21,7 @@ youtube_code: tqoGed1V3dE
 
 {% include youtube.html %}
 
-*Here’s what you need to know about a new valuation software I’m providing for my clients called Homebot.*
+<p style="text-align: center;"><em>Here’s what you need to know about a new valuation software I’m providing for my clients called Homebot.</em></p>
 
 Recently, I’ve rolled out an automated valuation software called Homebot for the benefit of my clients. It’s **a monthly digest that updates you on the valuation of your property**, allowing you to track your equity over a long period of time.&nbsp;
 
