@@ -21,7 +21,7 @@ youtube_code: k6CXHWnAGT4
 
 {% include youtube.html %}
 
-*A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.*
+<p style="text-align:center"><em>A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.</em></p>
 
 The new monster home law just passed in Hawaii. **It states that if a home’s size takes up 60% or more of the lot, you’re going to have some new specific guidelines on how to build to.** You can read more about them in the building department’s new requirements for monster homes.
 
