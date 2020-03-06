@@ -16,7 +16,7 @@ pullquote: >-
   this window.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/12-30-19.jpg
 youtube_code: 922Qw5-2nGk
 ---
