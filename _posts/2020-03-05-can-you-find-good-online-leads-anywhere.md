@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can You Find Good Online Leads Anywhere?
-date: 2020-03-05 15:00:23
+date: 2020-03-05 15:00:00
 tags:
 excerpt: 'There are no good online leads, but they can still be extremely valuable.'
 enclosure:
@@ -27,7 +27,7 @@ You pay good money for these leads and put in a good effort to generate them, bu
 
 {% include pullquote.html %}
 
-Here’s the thing, though: **There are no good online leads.** Whether they’re self-generated or cost a lot of money, the truth is that even world-class, leading conversion rates are only about 5%. This doesn’t mean you should work online leads—even though they’re generally not good, they can be extremely valuable.&nbsp;
+Here’s the thing, though: **There are no good online leads.** Whether they’re self-generated or cost a lot of money, the truth is that even world-class, leading conversion rates are only about 5%. This doesn’t mean you shouldn't work online leads—even though they’re generally not good, they can be extremely valuable.&nbsp;
 
 Why? Because if you generate or purchase them at the lowest possible cost, you can generate or purchase a significant quantity of leads. This way, even at a low conversion rate, you can make a fortune.&nbsp;
 
