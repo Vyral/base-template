@@ -21,10 +21,10 @@ youtube_code: k6CXHWnAGT4
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.</em></p>
+*A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.*
 
-The new monster home law just passed in Hawaii. **It states that if a home’s size takes up 60% or more of the lot, you’re going to have some new specific guidelines on how to build to.** You can read more about them in the building department’s new requirements for monster homes.
+The new monster home law just passed in Hawaii. **It states that if a home’s size takes up 60% or more of the lot, you’re going to have some new specific guidelines on how to build it.** You can read more about them in the building department’s new requirements for monster homes.
 
-This law has just been changed after already having been changed last year. **With the latest change, monster homes are going to be much harder to build, both legally and illegally.** There are now penalties that will be put on builders who build monster homes occupying more than 60% of the lot size and containing more than six bedrooms.&nbsp;
+This law has just been changed after already having been changed last year. **With the latest change, monster homes are going to be much harder to build, both legally and illegally:**&nbsp;builders who build monster homes occupying more than 60% of the lot size and containing more than six bedrooms will now incur penalties.
 
-We have a ton more information on this that we’d be happy to share with you. If you’d like to read through it, or if you have any other questions, feel free to reach out via phone or email and we’d be happy to help you out.<br>&nbsp;
+We have a ton more information on this that we’d be happy to share with you. If you’d like to read through it, or if you have any other questions, feel free to reach out via phone or email and we’d be happy to help you.<br>&nbsp;
