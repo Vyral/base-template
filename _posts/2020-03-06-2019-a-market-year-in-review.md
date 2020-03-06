@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '2019: A Market Year in Review'
-date:
+date: 2020-02-13 17:12:00
 tags:
   - Market Update
   - Real Estate
