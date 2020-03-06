@@ -12,7 +12,7 @@ pullquote: >-
   rates to remain low.
 enclosure_type: video/mp4
 enclosure_time: '10:39 am'
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2-4-20.jpg
 youtube_code: l_FKp1is30I
 ---
