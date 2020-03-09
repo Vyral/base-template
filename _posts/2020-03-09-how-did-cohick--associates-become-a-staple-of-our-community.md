@@ -19,7 +19,7 @@ youtube_code: 7Kiit84ZZ6M
 
 {% include youtube.html %}
 
-It’s time to get to know another staple of our Carlisle community: Cohick & Associates.
+<p style="text-align: center;"><em>It’s time to get to know another staple of our Carlisle community: Cohick & Associates.</em></p>
 
 Financial firm Cohick & Associates has been a staple of our Carlisle community for over 30 years, and in today’s Brand Ambassador video, I’m sitting down with operating partners Jeff Cohick and Chris Farrands to learn their story.&nbsp;
 
