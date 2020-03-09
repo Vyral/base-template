@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Everyday Encinitas: All About You'
+title: My Interview on "All About You"
 date: 2020-02-28 00:00:00
 tags:
   - Real Estate
