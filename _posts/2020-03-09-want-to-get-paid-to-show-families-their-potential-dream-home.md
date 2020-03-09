@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Want to Get Paid to Show Families Their Potential Dream Home?
-date: 2020-03-09 17:48:13
+date: 2020-03-09 17:48:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,6 +20,8 @@ youtube_code: qwuIdShkPfw
 ---
 
 {% include youtube.html %}
+
+Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.
 
 On the latest episode of my podcast with Van and Bonnie, I have exciting news to share: **The Misty SOLDwisch Home Selling Team is looking for showing agents to show houses for our team. &nbsp;**
 
