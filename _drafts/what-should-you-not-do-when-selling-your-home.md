@@ -15,7 +15,7 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}Selling your home is an exciting time, but making one of these four critical mistakes could derail the transaction quickly. Here’s what you need to avoid.
+{% include youtube.html %}<center>Selling your home is an exciting time, but making one of these four critical mistakes could derail the transaction quickly. Here’s what you need to avoid.</center>
 
 Here are four mistakes that you should avoid when selling your home:
 
