@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You NOT Do When Selling Your Home?
-date:
+date: 2020-03-09 16:17:44
 tags:
 excerpt: >-
   Selling your home is an exciting time, but making one of these four critical
@@ -15,7 +15,11 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}<center>Selling your home is an exciting time, but making one of these four critical mistakes could derail the transaction quickly. Here’s what you need to avoid.</center>
+{% include youtube.html %}
+
+<center>Selling your home is an exciting time, but making one of these four critical mistakes could derail the transaction quickly. Here&rsquo;s what you need to avoid.</center>
+
+&nbsp;
 
 Here are four mistakes that you should avoid when selling your home:
 
