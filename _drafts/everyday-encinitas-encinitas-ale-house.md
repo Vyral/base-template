@@ -18,7 +18,9 @@ youtube_code: B3pklOQEzmc
 
 {% include youtube.html %}
 
-Welcome back to “Everyday Encinitas\!” Today I’m here at the Encinitas Ale House with Max Helmuth, who has been running the business for almost a decade. I came to learn more about what goes on behind the scenes and, of course, to get a taste of their world-famous burgers.
+<center><em>On today’s episode of “Everyday Encinitas,” we’ll shine our business spotlight on the Encinitas Ale House (and check out their world-famous burgers).</em></center>
+
+<br>Welcome back to “Everyday Encinitas!” Today I’m here at the Encinitas Ale House with Max Helmuth, who has been running the business for almost a decade. I came to learn more about what goes on behind the scenes and, of course, to get a taste of their world-famous burgers.
 
 **Feel free to follow along in the video above, or you can use the timestamps below to navigate our conversation:**
 
