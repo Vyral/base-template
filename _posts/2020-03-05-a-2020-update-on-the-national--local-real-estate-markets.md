@@ -9,8 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/steen-youtube-5.jpg
-youtube_code: 8aGGvy2TVEw
+youtube_alternate_image: /uploads/steen-youtube-6.jpg
+youtube_code: rRSeKIFqyv0
 ---
 
 {% include youtube.html %}
