@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/O-5eIuBor5E'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Boosting curb appeal, repainting, and targeting the bathroom and restroom are things sellers can do. Here’s why.</em></p>
+
 Here are three things you can focus on to sell your home quicker and for more money:&nbsp;
 
 **1\. Curb appeal.** This can get you more money than just about anything else, because when buyers drive by the house, they’ll either be enticed, unimpressed, or turned off.&nbsp;
