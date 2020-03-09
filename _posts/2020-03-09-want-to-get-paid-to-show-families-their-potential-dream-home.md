@@ -21,7 +21,7 @@ youtube_code: HTFjhXusbRM
 
 {% include youtube.html %}
 
-Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.
+<p style="text-align: center;"><em>Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.</em></p>
 
 On the latest episode of my podcast with Van and Bonnie, I have exciting news to share: **The Misty SOLDwisch Home Selling Team is looking for showing agents to show houses for our team. &nbsp;**
 
