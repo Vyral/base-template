@@ -41,4 +41,3 @@ No one else in the industry offers this role to the same degree that we do, but 
 
 So if you want to get paid to show a bunch of brand-new houses to families looking for their dream home, give me a call today or visit www.SOLDinCentralIowa.com. I’d love to hear from you.&nbsp;
 
-{% include pullquote.html %}
