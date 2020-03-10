@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s what you need to know about our new home buying program.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+to+Qualify+for+Our+New+Hybrid+Home+Buying+Program.mp4
 pullquote: >-
   A key benefit of this program is that someone else isn’t telling you which
   home you’ll move into.
