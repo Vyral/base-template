@@ -33,10 +33,10 @@ As we know, all business owners face challenges that sometimes keep them up at n
 
 What are they most excited about in this business in the next three to five years?
 
-Chris: “With our business, we’re always able to help people, which I love to do. I get to meet new people and hear their stories and find out a little bit about them and their business.”
+Chris: “With our business, we’re always able to help people, which I love to do. I get to meet new people, hear their stories and find out a little bit about them and their business.”
 
 Jeff: “Just to keep serving the community here and providing services to more and more clients every year.”
 
-**So whether its tax, bookkeeping, or payroll services, Cohick & Associates is here to help.** If you have any questions for them or would like a free consultation, give them a call at (717) 249-3733.&nbsp;
+**So whether it's tax, bookkeeping, or payroll services, Cohick & Associates is here to help.** If you have any questions for them or would like a free consultation, give them a call at (717) 249-3733.&nbsp;
 
-As always, if you have any questions for me or have an idea for a future Brand Ambassador video, don’t hesitate to call or email me. I’d love to speak with you\!
+As always, if you have any questions about real estate or have an idea for a future Brand Ambassador video, don’t hesitate to call or email me. I’d love to speak with you\!
