@@ -21,7 +21,7 @@ youtube_code: Bujd7sF0u8c
 
 {% include youtube.html %}
 
-Coronavirus and the drop in the stock market have affected real estate and mortgage rates. Here’s how.
+<p style="text-align: center;"><em>Coronavirus and the drop in the stock market have affected real estate and mortgage rates. Here’s how.</em></p>
 
 How have the recent Fed rate cut and stock market drop affected the real estate market and interest rates? Due to coronavirus and other factors around the world, the stock market has taken a fairly significant dive in the last month or so. For these reasons, interest rates have dropped a lot. They were already at historic lows in December and January, but now they’ve dropped further.&nbsp;
 
