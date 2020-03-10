@@ -19,7 +19,9 @@ youtube_code: _hVLwm3OuqM
 
 {% include youtube.html %}
 
-The market is very volatile right now, and there’s no clear trajectory—no one really knows where things are headed.
+<center><em>We’re here with Matt Nader of First Home Mortgage to discuss our unpredictable markets and put the coronavirus’ impact into perspective.</em></center>
+
+<br>The market is very volatile right now, and there’s no clear trajectory—no one really knows where things are headed.
 
 **Though coronavirus has dominated the news as of late, this wild market has its origins four or five months back with the tariffs and trade wars**. At the beginning of that period, mortgage rates had begun rising, but have since trickled downward to the 50-year lows reached in just the past couple of weeks.
 
