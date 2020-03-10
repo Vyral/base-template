@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/loan-limits-youtube.jpg
-youtube_code: nMq73nlS3jQ
+youtube_code: S8bENTOqn8w
 ---
 
 {% include youtube.html %}
