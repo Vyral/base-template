@@ -19,7 +19,7 @@ youtube_code: _hVLwm3OuqM
 
 {% include youtube.html %}
 
-<center><em>We’re here with Matt Nader of First Home Mortgage to discuss our unpredictable markets and put the coronavirus’ impact into perspective.</em></center>
+<center><em>We&rsquo;re here with Matt Nader of First Home Mortgage to discuss our unpredictable markets and put the coronavirus&rsquo; impact into perspective.</em></center>
 
 <br>The market is very volatile right now, and there’s no clear trajectory—no one really knows where things are headed.
 
