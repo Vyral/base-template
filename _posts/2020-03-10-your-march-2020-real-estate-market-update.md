@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Your March 2020 Real Estate Market Update
-date: 2020-03-10 21:03:19
+date: 2020-03-10 21:03:00
 tags:
   - Market Update
 excerpt: >-
   The Clarksville market is still hot—here’s your latest update on what’s going
   on in the area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Valerie+Hunter-Kelly/+Videos/2020/March/Your+March+2020+Real+Estate+Market+Update.mp4
 pullquote: >-
   Our market is hot across all price ranges, especially for homes that are in
   immaculate condition.
