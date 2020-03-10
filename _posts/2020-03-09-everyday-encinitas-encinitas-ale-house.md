@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   On today’s episode of “Everyday Encinitas,” we’ll shine our business spotlight
-  on the Encinitas Ale House (and check out their world-famous burgers).
+  on the Encinitas Ale House.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
