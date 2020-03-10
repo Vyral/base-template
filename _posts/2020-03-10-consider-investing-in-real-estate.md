@@ -19,7 +19,8 @@ youtube_code: 9u415aqAhhw
 
 {% include youtube.html %}
 
-Even though the stock market has dropped, real estate is still a stable investment.<br>&nbsp;
+
+<p style="text-align: center;"><em>Even though the stock market has dropped, real estate is still a stable investment.</em></p>
 
 Lately, everyone has been talking about the coronavirus and the stock market dropping. Many are considering pulling out of the stock market in case it drops any farther, which leaves them looking for ideas about where to invest their money.&nbsp;
 
