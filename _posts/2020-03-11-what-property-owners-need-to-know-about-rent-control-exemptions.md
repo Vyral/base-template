@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/have-you-sent-out-your-exemption-notices-yet-youtube.jpg
-youtube_code: 4TE7CyvG2gw
+youtube_code: UZlASZ8Oixk
 ---
 
 {% include youtube.html %}
