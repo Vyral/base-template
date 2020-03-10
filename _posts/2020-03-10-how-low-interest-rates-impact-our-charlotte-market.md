@@ -17,7 +17,7 @@ youtube_code: oZV6JBjQ_9Y
 
 {% include youtube.html %}
 
-Here is how low interest rates are impacting our market.
+<p style="text-align: center;"><em>Here is how low interest rates are impacting our market.</em></p>
 
 Why are interest rates so low?
 
