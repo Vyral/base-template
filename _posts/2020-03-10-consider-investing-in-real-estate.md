@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Consider Investing in Real Estate
-date:
+date: 2020-03-10 14:56:08
 tags:
   - Real Estate
 excerpt: >-
