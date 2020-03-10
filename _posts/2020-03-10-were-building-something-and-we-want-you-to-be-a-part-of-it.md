@@ -17,7 +17,7 @@ youtube_code: mV1HGxWLM8Q
 
 {% include youtube.html %}
 
-If you haven’t done 10 deals yet in 2020, we need to talk.
+<p style="text-align: center;"><em>If you haven’t done 10 deals yet in 2020, we need to talk.</em></p>
 
 If you haven’t written 10 deals yet this year, we need to have a conversation.&nbsp;
 
