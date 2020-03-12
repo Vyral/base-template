@@ -27,7 +27,7 @@ youtube_code: _hVLwm3OuqM
 
 Whether these rates remain low will be contingent on the health of the markets. The virus has already had a serious effect on the equity markets. As of the recording of this video, the Dow was 4,000 points off of its all-time high. Everyone is playing it safe with their money, as the fear of uncertainty looms large.
 
-**The real estate market in particular has been fantastic, though**; a buyer looking at a $250,000 today has the same level of affordability on that same type of house as they did five weeks ago.
+**The real estate market, in particular has been fantastic, though**; a buyer looking at a $250,000 home today has the same level of affordability on that same type of house as they did five weeks ago.
 
 {% include pullquote.html %}
 
@@ -39,4 +39,4 @@ If your cost is X, your savings is Y, you have a recoup time of three years, but
 
 With increased buying power, more people are entering the market, especially at the $150,000 to $200,000 mark. **We’re still having inventory problems**, and this is frustrating many buyers. Property values are creeping up really quickly, and in some neighborhoods like Westminster we’re seeing neighborhood highs.
 
-As is always the case with market overviews, general trends matter but your specific situation matters more. If you have additional questions about the information covered in today’s message, or would like to meet with us and find out what’s best for you, feel free to call or email us. We would love to speak with you.
+As is always the case with market overviews, general trends matter, but your specific situation matters more. If you have additional questions about the information covered in today’s message, or would like to meet with us and find out what’s best for you, feel free to call or email us. We would love to speak with you.
