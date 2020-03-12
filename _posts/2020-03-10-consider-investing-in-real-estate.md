@@ -24,6 +24,6 @@ youtube_code: 9u415aqAhhw
 
 Lately, everyone has been talking about the coronavirus and the stock market dropping. Many are considering pulling out of the stock market in case it drops any farther, which leaves them looking for ideas about where to invest their money.&nbsp;
 
-**People always need somewhere to live, so if you’re in this position, consider investing in real estate.** The market is very busy at the moment, and rental properties are super strong.
+**If you're in this position, remember people always need somewhere to live, so you should consider investing in real estate.** The market is very busy at the moment, and rental properties are super strong.
 
 Give us a call and we’d be happy to answer your questions, discuss the latest updates in the market, what your return on investment would look like, and where to find the best rental properties. I own around 20 properties myself, and I’d be glad to share my wisdom with you.
