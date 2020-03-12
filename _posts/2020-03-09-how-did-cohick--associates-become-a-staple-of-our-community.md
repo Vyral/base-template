@@ -17,8 +17,6 @@ youtube_alternate_image:
 youtube_code: 7Kiit84ZZ6M
 ---
 
-{% include youtube.html %}
-
 <p style="text-align: center;"><em>It’s time to get to know another staple of our Carlisle community: Cohick & Associates.</em></p>
 
 Financial firm Cohick & Associates has been a staple of our Carlisle community for over 30 years, and in today’s Brand Ambassador video, I’m sitting down with operating partners Jeff Cohick and Chris Farrands to learn their story.&nbsp;
@@ -37,6 +35,6 @@ Chris: “With our business, we’re always able to help people, which I love to
 
 Jeff: “Just to keep serving the community here and providing services to more and more clients every year.”
 
-**So whether it's tax, bookkeeping, or payroll services, Cohick & Associates is here to help.** If you have any questions for them or would like a free consultation, give them a call at (717) 249-3733.&nbsp;
+**So whether it's tax, bookkeeping, or payroll services, Cohick & Associates is here to help.** If you have any questions for them or would like a free consultation, give them a call at (717) 249-5321.&nbsp;
 
 As always, if you have any questions about real estate or have an idea for a future Brand Ambassador video, don’t hesitate to call or email me. I’d love to speak with you\!
