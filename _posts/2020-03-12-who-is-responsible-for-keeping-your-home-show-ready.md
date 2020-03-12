@@ -20,7 +20,7 @@ youtube_code: Y2IwnWrFBB8
 
 {% include youtube.html %}
 
-&nbsp;If you don’t live in a home that you have listed for sale, who is responsible for keeping the home show-ready? Here are my thoughts.
+<p style="text-align: center;"><em>If you don’t live in a home that you have listed for sale, who is responsible for keeping the home show-ready? Here are my thoughts.</em></p>
 
 If your for-sale home is still showing, you’ll want it to be in tip-top shape to impress potential buyers. But if you’ve moved out of town, dropping by to tidy up isn’t always feasible. So whose shoulders do those maintenance tasks fall on?
 
