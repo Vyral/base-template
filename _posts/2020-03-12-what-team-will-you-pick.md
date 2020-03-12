@@ -1,7 +1,7 @@
 ---
 layout: post
-title: What team will you pick?
-date: 2020-03-12 18:51:16
+title: What Team Will You Pick?
+date: 2020-03-12 18:51:00
 tags:
 excerpt:
 enclosure:
