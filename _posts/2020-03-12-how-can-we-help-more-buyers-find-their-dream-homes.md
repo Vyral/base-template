@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can We Help More Buyers Find Their Dream Homes?
-date:
+date: 2020-03-12 17:01:37
 tags:
 excerpt: >-
   More and more homebuyers are deciding to buy new instead of resale. Here are a
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/diline-youtube.jpg
 youtube_code: byl1qdfqY5s
 ---
 
-{% include youtube.html %}<center>More and more homebuyers are deciding to buy new instead of resale.&nbsp;</center>
+{% include youtube.html %}
+
+<center>More and more homebuyers are deciding to buy new instead of resale.&nbsp;</center>
+
+&nbsp;
 
 I just pulled up to Pioneer Title here in Nampa to meet with a builder and some buyers about custom-designing a home. This is a really good example of what happens in the early stages of building a home.
 
