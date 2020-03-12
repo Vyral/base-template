@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/diline-youtube.jpg
 youtube_code: byl1qdfqY5s
 ---
 
-{% include youtube.html %}More and more homebuyers are deciding to buy new instead of resale.&nbsp;
+{% include youtube.html %}<center>More and more homebuyers are deciding to buy new instead of resale.&nbsp;</center>
 
 I just pulled up to Pioneer Title here in Nampa to meet with a builder and some buyers about custom-designing a home. This is a really good example of what happens in the early stages of building a home.
 
