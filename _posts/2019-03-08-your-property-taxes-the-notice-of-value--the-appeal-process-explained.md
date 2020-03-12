@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Your Property Taxes, the Notice of Value, & the Appeal Process Explained'
-date: 2019-03-08 17:11:00
+date: 2020-03-11 17:11:00
 tags:
   - Real Estate
 excerpt: >-
