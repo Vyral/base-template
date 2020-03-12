@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The 411 on 473: Tulsa’s Awesome New Bar'
-date: 2020-02-03 16:39:00
+date: 2020-03-10 16:39:00
 tags:
   - Real Estate
 excerpt: >-
