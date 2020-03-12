@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 7Kiit84ZZ6M
+youtube_code: qehc7TLjAbA
 ---
 
 <p style="text-align: center;"><em>It’s time to get to know another staple of our Carlisle community: Cohick & Associates.</em></p>
