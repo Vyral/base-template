@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Who Is Responsible for Keeping Your Home Show-Ready?
-date:
+date: 2020-03-12 15:58:20
 tags:
   - Real Estate
   - Home Seller Tips
