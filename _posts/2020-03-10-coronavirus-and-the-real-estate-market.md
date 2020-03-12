@@ -8,7 +8,7 @@ excerpt: >-
   Coronavirus and the drop in the stock market have affected real estate and
   mortgage rates. Here’s how.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+market+update+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+market+update+3.mp4
 pullquote: >-
   If you have an interest rate with a four in front of it, you should consider
   refinancing your home.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Bujd7sF0u8c
+youtube_code: cY4aaT6UOy8
 ---
 
 {% include youtube.html %}
