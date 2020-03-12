@@ -7,8 +7,6 @@ show_custom_links: true
 custom_links:
 #   - title: Value My Home
 #     url: /value-my-home/
-  - title: Agent Training
-    url: /agent-training
   - title: About
     url: /meet-the-team
   - title: Testimonials
