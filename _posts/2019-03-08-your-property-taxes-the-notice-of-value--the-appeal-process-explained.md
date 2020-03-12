@@ -19,6 +19,8 @@ youtube_code: tIGFITKgPIA
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>It’s that time of year again where our property tax information will be coming in the mail shortly.</em></p>
+
 For today’s message, I’ll give a quick lesson on how the county decides on property taxes, how you can appeal if you’re unhappy with their decision, and how you can make sense of the “Notice of Value” you receive. &nbsp;&nbsp;
 
 **Early in the year, the county assessor will send you a notice via mail regarding your property, wherein they will detail your property’s value and the amount you’ll be taxed.** Beginning at 0:28 in the video, you’ll see a sample of the Notice of Value form.&nbsp;
