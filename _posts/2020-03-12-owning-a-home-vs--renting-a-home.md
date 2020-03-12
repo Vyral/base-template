@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are some significant benefits to buying a home over renting one. Here
   are the three biggest ones.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dominique+Mathews/Videos/Owning+a+Home+vs.+Renting+a+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
