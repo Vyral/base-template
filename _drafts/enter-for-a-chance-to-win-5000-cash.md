@@ -18,7 +18,9 @@ youtube_code: a0PD2uScMzM
 
 {% include youtube.html %}
 
-There has been a lot of bad news intruding on our daily lives lately. Today you have a chance to do something completely different, as I have some great news to share.
+<center><em>The 2020 Dream Vacation Sweepstakes from Maxwell has begun. Could you be the second consecutive winner from our office?</em></center>
+
+<br>There has been a lot of bad news intruding on our daily lives lately. Today you have a chance to do something completely different, as I have some great news to share.
 
 **What would you do with $5,000?** I want to invite you to enter the Maxwell 2020 Dream Vacation Sweepstakes. The previous year's winner came from our office, so maybe this year it could be you.
 
