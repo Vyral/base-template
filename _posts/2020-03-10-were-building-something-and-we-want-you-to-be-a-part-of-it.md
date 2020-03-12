@@ -23,7 +23,7 @@ If you haven’t written 10 deals yet this year, we need to have a conversation.
 
 Depending on what your goals are, **we have the tools, resources, structure, accountability, coaching, leads, and support to make you successful.&nbsp;**
 
-If you’re looking to sell 30 to 40 houses in 2020 but aren’t on track to do it, we can talk about your goals and expectations of yourself, your firm, and everyone you surround yourself with to make your goals happen.&nbsp;&nbsp;
+If you’re looking to sell 30 to 40 houses in 2020 but aren’t on track to do it, we can talk about your goals and expectations for yourself, your firm, and everyone you surround yourself with to make your goals happen.&nbsp;&nbsp;
 
 We’re always looking for top talent in the area, and we’re really proud of surrounding ourselves with the top agents. We’re building something, and we’re looking for a few more agents to be a part of it.&nbsp;
 
