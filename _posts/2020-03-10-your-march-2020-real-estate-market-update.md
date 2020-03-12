@@ -31,8 +31,8 @@ This is a great time for home sellers to list. If you work with us, we’ll help
 
 {% include pullquote.html %}
 
-Overall, inventory has dropped by 7.38% over last year, and the average sales price rose from $197,000 last year to $215,7000 this year. Homes in high price ranges spend, on average, only 16 days on the market—that’s 27% of the market. The price range between $200,000 and $250,000 only has one month and 19 days’ worth of inventory, which is another 26% of the market. **Buyers looking for homes under $100,000 are finding that pretty much nothing is available, even on the Kentucky side of the state line.**
+Overall, inventory has dropped by 7.38% over the last year, and the average sales price rose from $197,000 last year to $215,700 this year. Homes in high price ranges spend, on average, only 16 days on the market—that’s 27% of the market. The price range between $200,000 and $250,000 only has one month and 19 days’ worth of inventory, which is another 26% of the market. **Buyers looking for homes under $100,000 are finding that pretty much nothing is available, even on the Kentucky side of the state line.**
 
 For the range between $250,000 and $300,000, the average days on market has dropped to two months and 25 days. This range is around 16% of the market. The homes priced over $300,000 make up about 11% of the market and have around four months of inventory available.
 
-In the end, our market is hot across all price ranges, especially for homes that are in immaculate condition. If you’re having a hard time finding something for sale, don’t hesitate to reach out to us We’ll let you know what’s available and how you can make your offer stand out amongst your competition.
+In the end, our market is hot across all price ranges, especially for homes that are in immaculate condition. If you’re having a hard time finding something for sale, don’t hesitate to reach out to us. We’ll let you know what’s available and how you can make your offer stand out amongst your competition.
