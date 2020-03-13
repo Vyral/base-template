@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   On today’s episode of “Everyday Encinitas,” we’ll shine our business spotlight
   on the Encinitas Ale House.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+12+_+Encinitas+Ale+House.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
