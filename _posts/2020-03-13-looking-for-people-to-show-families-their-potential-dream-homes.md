@@ -7,7 +7,7 @@ tags:
 excerpt: >-
   Showing homes to clients only makes up about 5% of what an agent does, but you
   can make it 100%.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4
 pullquote: >-
   This position is a great fit for anyone that loves spending time with people
   and helping them find their dream home.
