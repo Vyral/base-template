@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re here with Matt Nader of First Home Mortgage to discuss our unpredictable
   markets and put the coronavirus’ impact into perspective.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/Making+Sense+of+the+Market+Volatility.mp4
 pullquote: 'With increased buying power, more people are entering the market.'
 enclosure_type: video/mp4
 enclosure_time:
