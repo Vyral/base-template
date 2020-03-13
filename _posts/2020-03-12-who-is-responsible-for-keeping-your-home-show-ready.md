@@ -34,4 +34,4 @@ A Realtor might also object to managing ongoing maintenance because it can put t
 
 No matter the situation, a helpful Realtor will have your best interests at heart and will be set on keeping the house in top-notch condition if you won’t be living there while its on the market. Be sure to strategize and discuss your maintenance plan with your real estate agent so that everybody is on the same page.
 
-If you have any questions about selling your home or any other real estate topic, don’t hesitate to reach out to us. We at the Daley Group look forward to hearing from you and helping you move with confidence.
+If you have any questions about selling your home or any other real estate topic, don’t hesitate to reach out to us. We at the Dailey Group look forward to hearing from you and helping you move with confidence.
