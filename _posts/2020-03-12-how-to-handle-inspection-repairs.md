@@ -27,7 +27,7 @@ If the seller makes the repairs, you won’t have to deal with it. Also, if some
 
 {% include pullquote.html %}
 
-On the other hand, the advantage of taking money from the seller is that you decide how to make the repairs. The downside is that if something happens, you’re responsible for paying for and repairing further issues that may arise. For example, you’re fixing one pipe and another one breaks in the meantime.&nbsp;
+On the other hand, the advantage of taking money from the seller is that you decide how to make the repairs. The downside is that if something happens, you’re responsible for paying for and repairing further issues that may arise. For example, if you’re fixing one pipe and another one breaks in the meantime.&nbsp;
 
 When a situation such as this arises, think about these two opposite options and decide which works best for you and which is better in your particular circumstances. We have dealt with both, and **I personally feel that neither is better than the other.&nbsp;**
 
