@@ -19,7 +19,7 @@ youtube_code: hSG8HfP6LYM
 
 {% include youtube.html %}
 
-<center><em>If your home is outdated, it’s smart to make some updates to help increase its sale price.</em></center>
+<center><em>If your home is outdated, it&rsquo;s smart to make some updates to help increase its sale price.</em></center>
 
 <br>If you’re getting ready to sell your home and you know it’s outdated, should you offer a discount to buyers?
 
