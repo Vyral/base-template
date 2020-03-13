@@ -30,4 +30,4 @@ youtube_code: a0PD2uScMzM
 
 Maxwell is also holding smaller monthly draws, and I’ll be holding additional monthly draws for just my clients as well.
 
-If you have any questions for me about real estate in the meantime, don’t hesitate to reach out.. I look forward to hearing from you soon.
+If you have any questions for me about real estate in the meantime, don’t hesitate to reach out. I look forward to hearing from you soon.
