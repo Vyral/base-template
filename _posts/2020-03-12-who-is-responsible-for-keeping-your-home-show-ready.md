@@ -22,7 +22,7 @@ youtube_code: Y2IwnWrFBB8
 
 <p style="text-align: center;"><em>If you don’t live in a home that you have listed for sale, who is responsible for keeping the home show-ready? Here are my thoughts.</em></p>
 
-If your for-sale home is still showing, you’ll want it to be in tip-top shape to impress potential buyers. But if you’ve moved out of town, dropping by to tidy up isn’t always feasible. So whose shoulders do those maintenance tasks fall on?
+If your for-sale home is still showing, you’ll want it to be in tip-top shape to impress potential buyers. However, if you’ve moved out of town, dropping by to tidy up isn’t always feasible. So whose shoulders do those maintenance tasks fall on?
 
 The easy answer is that **the general upkeep of the house is the responsibility of whoever owns the house**, meaning that if it has yet to sell, the seller is liable for how it’s maintained. Neighbors can also get quite testy if your home becomes an eyesore.&nbsp;
 
@@ -34,4 +34,4 @@ A Realtor might also object to managing ongoing maintenance because it can put t
 
 No matter the situation, a helpful Realtor will have your best interests at heart and will be set on keeping the house in top-notch condition if you won’t be living there while its on the market. Be sure to strategize and discuss your maintenance plan with your real estate agent so that everybody is on the same page.
 
-If you have any questions about selling your home or any other real estate topic, don’t hesitate to reach out to us. We at the Dailey Group look forward to hearing from you and helping you move with confidence.
+If you have questions about selling your home or any other real estate topic, don’t hesitate to reach out to us. We at the Dailey Group look forward to hearing from you and helping you move with confidence.
