@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Looking for People to Show Families Their Potential Dream Homes
-date: 2020-03-13 18:04:10
+date: 2020-03-13 18:04:00
 tags:
   - Real Estate
 excerpt: >-
   Showing homes to clients only makes up about 5% of what an agent does, but you
   can make it 100%.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4
 pullquote: >-
   This position is a great fit for anyone that loves spending time with people
   and helping them find their dream home.
@@ -20,7 +21,7 @@ youtube_code: qwuIdShkPfw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.</em></p>
+*Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.*
 
 On the latest episode of my podcast with Van and Bonnie, I have exciting news to share: **The Misty SOLDwisch Home Selling Team is looking for showing agents to show houses for our team. &nbsp;**
 
@@ -38,4 +39,4 @@ The agents in this new role will set their own schedule to show houses for our c
 
 No one else in the industry offers this role to the same degree that we do, but I’m excited about it because I know there are some great people out there who’d love to be in the business on a more expanded level. If they have a real estate license and aren’t putting it to good use, or their career hasn’t turned out exactly how they wanted it, this could be their solution.
 
-So if you know someone who wants to get paid to show a bunch of brand-new houses to families looking for their dream home, give me a call today or visit www.SOLDinCentralIowa.com. I’d love to hear from you.
+So if you know someone who wants to get paid to show a bunch of brand-new houses to families looking for their dream home, give me a call today or visit [www.SOLDinCentralIowa.com](www.SOLDinCentralIowa.com){: target="_blank"}. I’d love to hear from you.
