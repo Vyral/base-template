@@ -23,12 +23,12 @@ youtube_code: hSG8HfP6LYM
 
 <br>If you’re getting ready to sell your home and you know it’s outdated, should you offer a discount to buyers?
 
-There are different degrees to outdated homes. I’ve seen homes from 1960 in mint condition with green countertops. Although they are very clean and cool to see, they’re definitely outdated and not something that most buyers want.
+**There are different degrees to outdated homes**. I’ve seen homes from 1960 in mint condition with green countertops. Although they are very clean and cool to see, they’re definitely outdated and not something that most buyers want.
 
-Many homes constructed in the 80s, 90s, and early 2000s were built with very basic materials. These things make a home look and feel old and outdated. For this very reason, it’s very important to hire a real estate professional. They will be able to give you an idea of what the different market values are for a home that has been completely remodeled and one that’s outdated.
+Many homes constructed in the 80s, 90s, and early 2000s were built with very basic materials. These things make a home look and feel old and outdated. **For this very reason, it’s very important to hire a real estate professional**. They will be able to give you an idea of what the different market values are for a home that has been completely remodeled and one that’s outdated.
 
 {% include pullquote.html %}
 
-There are different variances and adjustments depending on the degree of remodel or how outdated the home is. Many buyers in today’s market are willing to buy a home that needs some updates if the price is right.
+There are different variances and adjustments depending on the degree of remodel or how outdated the home is. **Many buyers in today’s market are willing to buy a home that needs some updates if the price is right**.
 
 If you have any questions for me about selling your own home or about anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
