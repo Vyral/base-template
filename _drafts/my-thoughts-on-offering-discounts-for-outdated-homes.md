@@ -19,7 +19,9 @@ youtube_code: hSG8HfP6LYM
 
 {% include youtube.html %}
 
-If you’re getting ready to sell your home and you know it’s outdated, should you offer a discount to buyers?
+<center><em>If your home is outdated, it’s smart to make some updates to help increase its sale price.</em></center>
+
+<br>If you’re getting ready to sell your home and you know it’s outdated, should you offer a discount to buyers?
 
 There are different degrees to outdated homes. I’ve seen homes from 1960 in mint condition with green countertops. Although they are very clean and cool to see, they’re definitely outdated and not something that most buyers want.
 
