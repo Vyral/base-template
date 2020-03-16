@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How has COVID-19 affected the real estate market
-date:
+date: 2020-03-16 19:51:32
 tags:
 excerpt:
 enclosure:
@@ -38,7 +38,7 @@ So what can you do if you have your good hygiene habits down but still aren’t 
 
 If you're practicing social distancing, I'd be happy to offer you a virtual consultation. There's no need to meet in person.&nbsp;**We can discuss your specific needs in detail**, and I can also provide you with a virtual tour of homes you may be interested in.
 
-Sellers: Setting up a mandatory hand washing station at open houses may be a great call. It communicates to the buyers that you're on their page--doing your civic duty to take COVID-19 seriously, but also determined to take advantage of great spring conditions.
+Sellers: Setting up a mandatory hand washing station at open houses may be a great call. It communicates to the buyers that you're on their page–doing your civic duty to take COVID-19 seriously, but also determined to take advantage of great spring conditions.
 
 If you have any real estate-related questions or you want more specific stats on how our market is performing, please reach out to me anytime. For COVID-19-related questions, routinely check the&nbsp;[**Centers for Disease Control website**](https://www.cdc.gov/coronavirus/2019-ncov/index.html)&nbsp;or contact medical professionals. Sincerely,&nbsp;
 
