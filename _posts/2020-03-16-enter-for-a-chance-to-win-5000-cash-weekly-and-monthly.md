@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Enter for a Chance to Win $5,000 Cash'
-date: 2020-03-12 00:00:00
+title: 'Enter for a Chance to Win $5,000 Cash Weekly and Monthly'
+date: 2020-03-16 00:00:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote: Last year’s winner actually came from our office.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/3-10---eric-mortimer---yt.jpg
+youtube_alternate_image: /uploads/3-16---eric-mortimer---yt.jpg
 youtube_code: a0PD2uScMzM
 ---
 
