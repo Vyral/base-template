@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bring Happy Hour Over to the Northstar Tavern
-date: 2020-03-12 20:44:57
+date: 2020-03-12 20:44:00
 tags:
 excerpt: >-
   What makes Northstar Tavern a great place to bring friends and family? Find
@@ -19,7 +19,7 @@ youtube_code: 3xcD76HnB08
 
 {% include youtube.html %}
 
-Northstar Tavern in Bloomington offers fabulous food, great drinks, and plenty of entertainment, and today we’re there visiting with owner/proprietor Jon Norine for the latest episode of our community spotlight series.&nbsp;
+Northstar Tavern in Bloomington offers fabulous food, great drinks, and plenty of entertainment, and today we’re there visiting with owner Jon Norine for the latest episode of our community spotlight series.&nbsp;
 
 Jon was born and raised in Bloomington, and he bought the property that would eventually become Northstar Tavern while he was shopping for homes about a year and a half ago. Business has been booming ever since.&nbsp;
 
