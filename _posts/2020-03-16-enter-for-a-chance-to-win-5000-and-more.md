@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Enter for a Chance to Win $5,000 Cash Weekly and Monthly'
+title: 'Enter for a Chance to Win $5,000 and More'
 date: 2020-03-16 00:00:00
 tags:
   - Real Estate
@@ -28,6 +28,6 @@ youtube_code: a0PD2uScMzM
 
 {% include pullquote.html %}
 
-Maxwell is also holding smaller weekly and monthly drawings, and I’ll be holding additional monthly draws for just my clients as well.
+Maxwell is also holding smaller weekly and monthly drawings for both prizes and cash, and I’ll be holding additional monthly draws for just my clients as well.
 
 If you have any questions about real estate in the meantime, don’t hesitate to reach out to me. I look forward to hearing from you soon.
