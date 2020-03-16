@@ -24,10 +24,10 @@ youtube_code: a0PD2uScMzM
 
 **What would you do with $5,000?** I want to invite you to enter the Maxwell 2020 Dream Vacation Sweepstakes. The previous year's winner came from our office, so maybe this year it could be you.
 
-**All you need to do is <u><a target="_blank" href="http://bit.ly/2I6dcQx">follow this link</a></u> and fill out the information**. There is no purchase necessary and no obligation required. If you win, you’ll get $5,000 to plan the vacation of your dream.
+**All you need to do is <u><a target="_blank" href="http://bit.ly/2I6dcQx">follow this link</a></u> and fill out the information**. There is no purchase necessary and no obligation required. If you win, you’ll get $5,000 to plan the vacation of your dreams.
 
 {% include pullquote.html %}
 
 Maxwell is also holding smaller monthly draws, and I’ll be holding additional monthly draws for just my clients as well.
 
-If you have any questions for me about real estate in the meantime, don’t hesitate to reach out. I look forward to hearing from you soon.
+If you have any questions about real estate in the meantime, don’t hesitate to reach out to me. I look forward to hearing from you soon.
