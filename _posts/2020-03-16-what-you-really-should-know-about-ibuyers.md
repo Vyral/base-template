@@ -19,7 +19,7 @@ youtube_code: T6awqDvHdik
 
 {% include youtube.html %}
 
-<center><em>Here’s the truth behind iBuyers and their automated valuation models.</em></center>
+<center><em>Here&rsquo;s the truth behind iBuyers and their automated valuation models.</em></center>
 
 <br>An iBuyer is a real estate investor that often buys the home quickly using cash. They use an AVM, or automated valuation model, popularized in the form of Zillow’s Zestimate. Typically, an iBuyer will purchase the home without ever having seen it.
 
