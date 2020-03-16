@@ -21,7 +21,7 @@ youtube_code: qwuIdShkPfw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.</em></p>
+*Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.*
 
 On the latest episode of my podcast with Van and Bonnie, I have exciting news to share: **The Misty SOLDwisch Home Selling Team is looking for showing agents to show houses for our team. &nbsp;**
 
@@ -33,9 +33,9 @@ That’s the advantage our team brings to the table. We have people who fill spe
 
 A lot of people tell me they want to sell real estate because they love looking at houses, but the reality is that showing houses is only about 5% of what a full-time agent does. **This new role makes showing homes 100% of the job.&nbsp;**
 
-The agents in this new role will set their own schedule to show houses for our clients. Instead of working on commission, they’ll earn an hourly rate for simply being there for our clients during the fun part of real estate. Having a real estate license is a requirement for the job, but we’re flexible with schedules.
+The agents in this new role will set their own schedule to show houses for our clients. Instead of working on commission, they’ll earn an hourly rate for simply being there for our clients during the fun part of real estate. Having a real estate license is a requirement for the job, but **we’re flexible with schedules**.
 
-**This position is a great fit for anyone that loves spending time with people and helping them find their dream home.** The right candidate can be part-time or full-time, depending on what their needs are.&nbsp;
+This position is a great fit for anyone that loves spending time with people and helping them find their dream home. The right candidate can be part-time or full-time, depending on what their needs are.&nbsp;
 
 No one else in the industry offers this role to the same degree that we do, but I’m excited about it because I know there are some great people out there who’d love to be in the business on a more expanded level. If they have a real estate license and aren’t putting it to good use, or their career hasn’t turned out exactly how they wanted it, this could be their solution.
 
