@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Into the Real Estate Business
-date: 2020-03-16 19:12:57
+date: 2020-03-16 19:12:00
 tags:
   - Real Estate
 excerpt: >-
@@ -31,4 +31,4 @@ The much better way to go about this is to **start by doing real estate part tim
 
 For some reason, many people who do part-time real estate don’t do much, don’t have a list of tasks to perform, and then wonder why they aren’t performing well. They’ll think being a part-time agent doesn’t work because they aren’t making any money, when in reality they aren’t taking it seriously.&nbsp; As a part-time agent you still need to work like it’s a genuine job and have a system in place.&nbsp;
 
-If you want to get into the real estate industry, reach out to us, we’ll show you the structure and how you can be successful, but **the work starts and stops with you.** If you have any other questions about real estate, please feel free to contact us via phone or email.
+If you want to get into the real estate industry, reach out to us. We’ll show you the structure and how you can be successful, but **the work starts and stops with you.** If you have any other questions about real estate, please feel free to contact us via phone or email.
