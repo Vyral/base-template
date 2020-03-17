@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I’m back again with Attorney Justin D. DeCrescente to talk about inspection
   contingencies. Here’s a snippet of our full conversation on the topic.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Stacy+Esser/2020/A+Conversation+With+Attorney+Justin+D.+DeCrescente.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
