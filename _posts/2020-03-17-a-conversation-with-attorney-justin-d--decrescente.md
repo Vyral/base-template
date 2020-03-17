@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/lawyer-yt-staceyesser.jpg
-youtube_code: 9bc6H662zag
+youtube_code: 5tSVunkNtco
 ---
 
 {% include youtube.html %}
@@ -33,4 +33,4 @@ Justin helps us out a lot in situations like this. He’s really great at helpin
 
 Thanks so much to Justin for joining me again. Stay tuned for part three of our conversation, where we’ll talk more about contingencies.
 
-If you have any questions for me about contracts, buying a home, or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you. Also, you can reach out to Justin at (201) 227-8150.
+If you have any questions about contracts, buying a home, or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you. Also, you can reach out to Justin at (201) 227-8150.
