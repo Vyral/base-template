@@ -16,7 +16,7 @@ youtube_code: KJROututC-o
 
 {% include youtube.html %}
 
-You can brace and bolt your house almost for free—here’s how.
+<p style="text-align:center"><em>You can brace and bolt your house almost for free—here’s how.</em></p>
 
 Last year, a neighbor told us about the Earthquake Brace + Bolt program (EBB) that would allow us to brace and bolt our house for minimal cost.
 
