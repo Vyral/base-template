@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   The 2020 Dream Vacation Sweepstakes from Maxwell has begun. Could you be the
   second consecutive winner from our office?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/Enter+for+a+Chance+to+Win+%245%2C000+and+More.mp4
 pullquote: Last year’s winner actually came from our office.
 enclosure_type: video/mp4
 enclosure_time:
