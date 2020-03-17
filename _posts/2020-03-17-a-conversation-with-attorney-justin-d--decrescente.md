@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Conversation With Attorney Justin D. DeCrescente
-date: 2020-03-17 18:53:56
+date: 2020-03-17 18:53:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/lawyer-yt-staceyesser.jpg
 youtube_code: 9bc6H662zag
 ---
 
