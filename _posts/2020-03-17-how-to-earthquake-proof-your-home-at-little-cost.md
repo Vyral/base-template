@@ -22,7 +22,7 @@ Last year, a neighbor told us about the Earthquake Brace + Bolt program (EBB) th
 
 **To take advantage, here’s what you need to do:**
 
-1\.&nbsp;[Apply](https://www.earthquakebracebolt.com/HomeownerRegistration){: target="_blank"} by the program’s deadline, March 19.
+1\.&nbsp;[**Apply**](https://www.earthquakebracebolt.com/HomeownerRegistration){: target="_blank"} by the program’s deadline, March 19.
 
 2\. If you’re accepted, you can have different contractors come out to your home to give you bids.
 
