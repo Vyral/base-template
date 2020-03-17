@@ -18,7 +18,7 @@ youtube_code: 9bc6H662zag
 
 {% include youtube.html %}
 
-I’m back again with Attorney Justin D. DeCrescente to talk about inspection contingencies. Here’s a snippet of our full conversation on the topic.
+<p style="text-align:center"><em>I’m back again with Attorney Justin D. DeCrescente to talk about inspection contingencies. Here’s a snippet of our full conversation on the topic.</em></p>
 
 In part two of our discussion with Attorney Justin D. DeCrescente, we’re talking all about the pieces of what a real estate contract looks like.&nbsp;
 
