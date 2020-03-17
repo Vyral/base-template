@@ -19,7 +19,7 @@ youtube_code: fW_rGCYZQM4
 
 {% include youtube.html %}
 
-*What impact has the coronavirus had on our Orange County market? Find out today. *
+<center><em>What impact has the coronavirus had on our Orange County market? Find out today.</em></center>
 
 Due to the coronavirus, our daily lives are being tweaked in new ways.&nbsp;
 
