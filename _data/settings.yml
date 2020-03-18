@@ -10,9 +10,9 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Our Listings
-    url: 'https://homes.starteamrealestate.com/idx/featured'
+    url: /_drafts/no (27).jpg
   - title: Property Search
-    url: 'https://homes.starteamrealestate.com/idx/search/basic'
+    url: 'https://search.starteamrealestate.com/'
 client:
   name:
   license_number:
