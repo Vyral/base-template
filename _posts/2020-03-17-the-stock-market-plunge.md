@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Stock Market Plunge
-date: 2020-03-17 20:53:34
+date: 2020-03-17 20:53:00
 tags:
   - Market Update
 excerpt: >-
@@ -23,7 +23,7 @@ youtube_code: lsDMqpw3Law
 
 Many friends, family, past clients, and neighbors have been asking how the recent plunges to the stock market in the wake of the coronavirus have affected real estate locally.&nbsp;
 
-One key way that this trend has changed the market is that t**he demand for homes with a value of twice the median price in a single ZIP code is dropping.** That means if you have a higher-priced home here in the area (relative to the median price), you might not see as much activity around it. When the stock market drops or behaves volatilely, it decreases consumer confidence, causing people to pursue homes they feel are a safer option, or even to rent instead of buying. We have seen some people who are taking their money off the table, especially if they’ve lived in their home the past two years out due to fears of a downturn.
+One key way that this trend has changed the market is that **the demand for homes with a value of twice the median price in a single ZIP code is dropping.** That means if you have a higher-priced home here in the area (relative to the median price), you might not see as much activity around it. When the stock market drops or behaves volatilely, it decreases consumer confidence, causing people to pursue homes they feel are a safer option, or even to rent instead of buying. We've seen some people take their money off the table out of fear of a downturn, especially if they’ve lived in their home the past two years.
 
 {% include pullquote.html %}
 
