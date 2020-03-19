@@ -17,7 +17,7 @@ youtube_code: BaFQ2iZASvA
 
 {% include youtube.html %}
 
-Here’s what you must remember when choosing between multiple offers.
+<em>Here’s what you must remember when choosing between multiple offers.</em>
 
 As a seller, what’s the best way to choose between multiple offers on your home? There are a couple tips to keep in mind.
 
