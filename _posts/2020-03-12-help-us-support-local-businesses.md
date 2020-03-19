@@ -27,6 +27,6 @@ Jon was born and raised in Bloomington, and he bought the property that would ev
 
 What makes NorthStar Tavern unique is that **they have many customizable, handheld options,** including nine proteins, nine holders, and nine setups. They also offer vegan, vegetarian, and gluten-free options. For the video, Jon had the chef prepare some of their most popular items for us to sample, including a house patty with a house setup on a brioche bun, their crybaby cauliflower, and their three-meat pizza.
 
-On top of that, they have 24 beer taps (19 of which rotate their selection) that beer lovers are sure to enjoy. In short, **this is a great place to bring friends and family and get the party started.** If you live in Bloomington, we recommend stopping in and having a bite. Also, check out their website at&nbsp;[northstartavernmn.com](https://www.northstartavernmn.com/).
+On top of that, they have 24 beer taps (19 of which rotate their selection) that beer lovers are sure to enjoy. When NorthStar Tavern is able to open their restaurant inside again to the public, this is a great place to bring friends and family and get the party started. If you live in Bloomington, we recommend stopping in and having a bite. Also, check out their website at&nbsp;[northstartavernmn.com](https://www.northstartavernmn.com/).
 
 As always, if you know of other businesses we should spotlight in the near future, or you have any real estate questions at all, don’t hesitate to reach out to us. We’d love to hear from you.
