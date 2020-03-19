@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Being a Seller in a Multiple-Offer Situation
-date:
+date: 2020-03-19 17:12:23
 tags:
   - Real Estate
 excerpt: Here’s what you must remember when choosing between multiple offers.
