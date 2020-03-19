@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/gray-youtube-6.jpg
 youtube_code: o_2r-AiolW0
 ---
 
-{% include youtube.html %}Where should agents spend their marketing dollars?
+{% include youtube.html %}<center>Where should agents spend their marketing dollars?</center>
 
 If you’re a new agent or one with a limited marketing budget, how should you invest your money to maximize your marketing efforts? There are three key ways to spend your money:
 
