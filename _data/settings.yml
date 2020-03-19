@@ -43,6 +43,11 @@ CTAs:
   second_CTA_text: Our Website
   second_CTA_URL: 'https://www.starteamrealestate.com/'
 sidebar_CTA:
+  - CTA_image_path:
+    CTA_title:
+    CTA_text:
+    CTA_link_text:
+    CTA_url:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
     CTA_text: >-
