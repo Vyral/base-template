@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Assets You Should Spend Your Marketing Budget On
-date:
+date: 2020-03-19 13:44:24
 tags:
 excerpt: Where should agents spend their marketing dollars?
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/gray-youtube-6.jpg
 youtube_code: o_2r-AiolW0
 ---
 
-{% include youtube.html %}<center>Where should agents spend their marketing dollars?</center>
+{% include youtube.html %}
+
+<center>Where should agents spend their marketing dollars?</center>
+
+&nbsp;
 
 If you’re a new agent or one with a limited marketing budget, how should you invest your money to maximize your marketing efforts? There are three key ways to spend your money:
 
