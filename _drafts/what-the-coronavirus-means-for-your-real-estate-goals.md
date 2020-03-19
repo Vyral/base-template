@@ -20,7 +20,9 @@ youtube_code: OidB1poxVM0
 
 {% include youtube.html %}
 
-What does the coronavirus mean for your real estate plans in 2020?
+<center><em>Due to the coronavirus, we’re making adjustments to ensure you can move forward safely with your real estate plans.</em></center>
+
+<br>What does the coronavirus mean for your real estate plans in 2020?
 
 The unknown is the full battle in this case. We don’t fully know what we’re facing and until we do, **the most important thing is to keep everyone safe and healthy**. If you’re already in the process of selling your home and have a plan in place, let’s work together so we can move forward safely as a team.
 
