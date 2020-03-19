@@ -27,6 +27,6 @@ We will be announcing a contest for a Honey Baked Ham gift card for Easter. The 
 
 So if you haven’t joined our Facebook group yet, you should\! Thank you for being a part of our JCRE family\!
 
-**Click here to join our Facebook group\!&nbsp;**
+[**Click here to join our Facebook group\!&nbsp;**](https://www.facebook.com/groups/2286836911415280/)
 
 If you ever have any real estate needs, please reach out to us via phone or email. We would love to help you.
