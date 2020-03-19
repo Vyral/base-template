@@ -37,6 +37,6 @@ As such, **lenders will have to hold their rates higher than they’d otherwise 
 
 **Many people already missed out, thinking that rates would stay low throughout the first part of 2020.** They don’t stay the same, and they’re especially volatile right now—up sharply one day, then down the next.&nbsp;
 
-Head to [mortgageplanningquestionnaire.com](https://winningwithwade.azurewebsites.net/home.html){: target="_blank"}, complete the questionnaire as thoroughly as you can, and with that information I’ll be able to create a proposal that we can discuss together. I’m aiming to help a lot of families this year, as interest rates will provide us with an opportunity to really build wealth for so many.&nbsp;
+Head to [mortgageplanningquestionnaire.com](https://winningwithwade.azurewebsites.net/home.html){: target="_blank"}, complete the questionnaire as thoroughly as you can, and with that information, I’ll be able to create a proposal that we can discuss together. I’m aiming to help a lot of families this year, as interest rates will provide us with an opportunity to build wealth for so many.&nbsp;
 
 If you have any questions about this topic, please feel free to reach out to me by phone or email. I’m more than happy to assist you in these somewhat confusing times.
