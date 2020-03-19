@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Do the February Stats Say About Our Market?
-date: 2020-03-17 20:57:33
+date: 2020-03-17 20:57:00
 tags:
 excerpt: >-
   According to the latest numbers, it’s a great time to buy in our Charlotte
@@ -19,7 +19,7 @@ youtube_code: uQx5AVHSOoA
 
 {% include youtube.html %}
 
-Here are the latest year-over-year and month-over-month statistics from your Charlotte Metro market.
+Here are the latest year-over-year and month-over-month statistics from your Charlotte metro market.
 
 **From February 2019 to February 2020:**
 
@@ -43,6 +43,6 @@ Here are the latest year-over-year and month-over-month statistics from your Cha
 
 What does all of this mean? **There aren’t enough homes for sale, so prices continue to rise and the average days on market continues to drop.** Until we see more inventory, things will stay this way. One significant change to mention is that the financial markets are going crazy due to the coronavirus. Treasury bills are way down, and mortgage rates are loosely tied to them. The morning I recorded this video, I spoke to a lending professional who told me buyers were locking in rates right around 3%.&nbsp;
 
-If you’re a homeowner with a mortgage rate over 3.5%, you should refinance. If you’re a buyer, now’s the time to buy, because your buying power just got much stronger. Just a quarter of a percentage point in an interest rate is worth about 10% of your buying power. Basically, the difference between being able to afford a $200,000 house and a $220,000 house.&nbsp;
+If you’re a homeowner with a mortgage rate over 3.5%, you should refinance. If you’re a buyer, now’s the time to buy, because your buying power just got much stronger. Just a quarter of a percentage point in an interest rate is worth about 10% of your buying power. Basically, it's the difference between being able to afford a $200,000 house and a $220,000 house.&nbsp;
 
 If you have more questions about our Charlotte Metro market or you’re ready to buy or sell a home, don’t hesitate to reach out to me. I’d love to help you.&nbsp;
