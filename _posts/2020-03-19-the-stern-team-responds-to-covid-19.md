@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Stern Team Responds to COVID-19 - A message for our clients
-date: 2020-03-19 19:52:11
+title: The Stern Team Responds to COVID-19
+date: 2020-03-19 19:52:00
 tags:
 excerpt:
 enclosure:
