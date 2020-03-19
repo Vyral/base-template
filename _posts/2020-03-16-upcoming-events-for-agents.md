@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Upcoming Events for Agents
-date: 2020-03-16 19:05:55
+date: 2020-03-16 19:05:00
 tags:
   - Lead Conversion
   - Lead Generation
@@ -24,9 +24,9 @@ youtube_code: 5OhFFx2A6g8
 
 {% include youtube.html %}
 
-I hosted my first “How to Grow Your Business to $10 Million” event the other day, which included lunch provided by Larry Steinway of Guaranteed Rate. It was a small group, open only to producers—though not necessarily big producers. Ideally, we were looking to target those who have been in the business for a couple of years and have tried a few different strategies.&nbsp;
+I hosted my first “How to Grow Your Business to $10 Million” event the other day, which included lunch provided by Larry Steinway of Guaranteed Rate. It was a small group, open only to producers—though not necessarily big producers. Ideally, we were looking to target those who have been in the business for a couple of years and have tried a few different strategies. Some are last-minute ideas, and others are highly planned out and have links on Eventbrite.
 
-As I was creating a presentation on how to increase your business’ volume to $10 million in sales in 12 months, I reflected back on my own journey to this benchmark. **My first year I sold $3 million, my second year I sold $11 million, and my third year I sold $24 million.** Is it luck? Is it hard work? Did I pay for a lot of things along the way? I was able to map it all out, isolating 10 key items I feel were crucial to my success. None of those 10 things cost a dime.&nbsp;
+**As I was creating a presentation on how to increase your business’ sales volume to $10 million in 12 months, I reflected on my own journey to this benchmark. In my first year, I sold $3 million; in my second year, I sold $11 million; and in my third year, I sold $24 million.** Is it luck? Is it hard work? Did I pay for a lot of things along the way? I was able to map it all out, isolating 10 key items I feel were crucial to my success. None of those 10 things cost a dime.&nbsp;
 
 **Don’t hesitate to head over to my site and register for my events**, most of which are already scheduled out for the next few months. If we can continue to have more interest, we may increase frequency.
 
