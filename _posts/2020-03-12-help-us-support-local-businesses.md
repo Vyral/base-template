@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Bring Happy Hour Over to the Northstar Tavern
+title: Help Us Support Local Businesses!
 date: 2020-03-12 20:44:00
 tags:
-excerpt: >-
-  What makes Northstar Tavern a great place to bring friends and family? Find
-  out today.
+excerpt: What makes Northstar Tavern a great place? Find out today.
 enclosure:
 pullquote: >-
   Northstar Tavern in Bloomington offers fabulous food, great drinks, and plenty
@@ -18,6 +16,8 @@ youtube_code: 3xcD76HnB08
 ---
 
 {% include youtube.html %}
+
+During this uncertain and chaotic time, we want to support our local businesses\! You can still get your favorite food to enjoy at home. NorthStar Tavern is open for dinner from 4pm -9pm every day\! Call **952-405-6040** or place your order online at&nbsp;[www.northstartavernmn.com](http://www.northstartavernmn.com/){: target="_blank"}&nbsp;for curbside pickup. You can also order through Grub Hub, Uber Eats, Door Dash or Bite Squad.
 
 NorthStar Tavern in Bloomington offers fabulous food, great drinks, and plenty of entertainment, and today we’re there visiting with owner Jon Norine for the latest episode of our community spotlight series.&nbsp;
 
