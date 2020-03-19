@@ -17,7 +17,7 @@ youtube_code: BaFQ2iZASvA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"<em>Here’s what you must remember when choosing between multiple offers.</em></p>
+<p style="text-align: center;"><em>Here’s what you must remember when choosing between multiple offers.</em></p>
 
 As a seller, what’s the best way to choose between multiple offers on your home? There are a couple tips to keep in mind.
 
@@ -31,4 +31,4 @@ After gathering this information, you and your Realtor should be able to choose 
 
 When it comes to choosing between multiple offers, the bottom line is that you must lean on your Realtor to help you decide.&nbsp;
 
-If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
+If you have questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d love to help you.
