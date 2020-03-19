@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have Questions? Join Our Facebook Group!
-date:
+date: 2020-03-19 14:04:34
 tags:
 excerpt: >-
   If you haven’t already joined our Facebook group, you should! Here’s what you
@@ -15,7 +15,11 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}<center>If you haven’t already joined our Facebook group, you should\! Here’s what you need to know.</center>
+{% include youtube.html %}
+
+<center>If you haven&rsquo;t already joined our Facebook group, you should\! Here&rsquo;s what you need to know.</center>
+
+&nbsp;
 
 Did you know that we have a Facebook group built specifically for our past clients? If you have any questions, you should join us\! **At Jeff Cook Real Estate, we’re devoted to serving you to the best of our abilities,** even after the deal is done. Often, in any real estate transaction, after finalizing the paperwork, you’re left with unanswered questions.&nbsp;
 
