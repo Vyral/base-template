@@ -21,7 +21,7 @@ youtube_code: qSJV-quujko
 
 {% include youtube.html %}
 
-*Here’s what you need to know about the Fed Funds Rate cut, quantitative easing, and nailing a refinance in these volatile times.*
+<p style= center><em>Here’s what you need to know about the Fed Funds Rate cut, quantitative easing, and nailing a refinance in these volatile times.</p></em>
 
 The Federal Reserve has cut rates two separate times to a target range of zero to a quarter of a percent. While this is a positive measure that helps alleviate some of the economic turmoil that’s happening right now, it’s important to keep in mind that the slash doesn’t directly affect mortgage rates.&nbsp;
 
