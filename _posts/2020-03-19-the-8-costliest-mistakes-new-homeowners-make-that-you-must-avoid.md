@@ -17,7 +17,7 @@ youtube_code: 5Ybi24jV_I8
 
 {% include youtube.html %}
 
-If you’re a new homeowner, there are eight costly mistakes you must avoid.
+<p style="text-align: center;"><em>If you’re a new homeowner, there are eight costly mistakes you must avoid.</em></p>
 
 Here are the eight costliest mistakes new homeowners make that you need to avoid if you’ve moved into your first house:
 
