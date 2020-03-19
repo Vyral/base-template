@@ -24,7 +24,7 @@ youtube_code: OidB1poxVM0
 
 <br>What does the coronavirus mean for your real estate plans in 2020?
 
-The unknown is the full battle in this case. We don’t fully know what we’re facing and until we do, **the most important thing is to keep everyone safe and healthy**. If you’re already in the process of selling your home and have a plan in place, let’s work together so we can move forward safely as a team.
+'The unknown' is the full battle in this case. We don’t fully know what we’re facing and until we do, **the most important thing is to keep everyone safe and healthy**. If you’re already in the process of selling your home and have a plan in place, let’s work together so we can move forward safely as a team.
 
 During this time, **we’re taking the necessary precautions to keep our would-be and current clients safe**. Now that most people are working from home, they’re getting more and more things done on their computers, and we’ve adjusted accordingly.
 
