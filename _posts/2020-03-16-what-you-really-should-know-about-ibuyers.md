@@ -23,7 +23,7 @@ youtube_code: T6awqDvHdik
 
 <br>An iBuyer is a real estate investor that often buys the home quickly using cash. They use an AVM, or automated valuation model, popularized in the form of Zillow’s Zestimate. Typically, an iBuyer will purchase the home without ever having seen it.
 
-Having someone offer cash for your house, sight unseen, seems easy, but **watch out for scams**. There’s a lot of fraud that floats around in the real estate industry, like wire transfer fraud. If you do decide that an iBuyer is the best route for you, make sure you go with a reputable one and close only at a local escrow or title company; never, ever, ever wire your money out somewhere.
+Having someone offer cash for your house sight unseen seems easy, but **watch out for scams**. There’s a lot of fraud that floats around in the real estate industry, like wire transfer fraud. If you do decide that an iBuyer is the best route for you, make sure you go with a reputable one and close only at a local escrow or title company; never, ever, ever wire your money out somewhere.
 
 {% include pullquote.html %}
 
