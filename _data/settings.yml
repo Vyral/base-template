@@ -21,7 +21,9 @@ client:
     estate professionals committed to selling some of the most desired homes in
     Crystal Coast. Selling these "right addresses" is the mission of Star Team
     Real Estate. Let us know what you're looking for.
-  market: Crystal Coast
+  market: >-
+    North Carolina Crystal Coast, Atlantic Beach, Emerald Isle, Morehead City,
+    Beaufort
   brand: The Star Team
   brokerage: Bluewater Real Estate
   address: '407 Atlantic Beach Causeway Atlantic Beach 6F, NC 28512'
