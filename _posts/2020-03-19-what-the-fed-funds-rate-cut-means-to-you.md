@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Fed Funds Rate Cut Means to You
-date:
+date: 2020-03-19 19:45:33
 tags:
   - Real Estate
 excerpt: >-
@@ -25,7 +25,7 @@ Here’s what you need to know about the Fed Funds Rate cut, quantitative easing
 
 The Federal Reserve has cut rates two separate times to a target range of zero to a quarter of a percent. While this is a positive measure that helps alleviate some of the economic turmoil that’s happening right now, it’s important to keep in mind that the slash doesn’t directly affect mortgage rates.&nbsp;
 
-That being said, **mortgages*****will *****be impacted by the fact that they’ve started quantitative easing once again**, specifically with the purchase of $200 billion worth—that’s “*billion*” with a “B,” folks—of mortgage-backed securities markets. Over time, this will drive interest rates down.&nbsp;
+That being said, **mortgages*****will \*\****be impacted by the fact that they’ve started quantitative easing once again*\*, specifically with the purchase of $200 billion worth—that’s “*billion\*” with a “B,” folks—of mortgage-backed securities markets. Over time, this will drive interest rates down.&nbsp;
 
 The fact remains that the mortgage industry as a whole has a capacity issue; while the average year has about $2 trillion worth of originations (half stemming from purchases, the other half from refinances), there’s currently trillions of dollars’ worth of loans out there that could benefit from a refinance and the industry simply doesn’t have the capacity to refinance half of America in a two- to three-month window.&nbsp;
 
