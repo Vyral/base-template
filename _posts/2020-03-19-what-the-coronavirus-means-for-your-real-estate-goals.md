@@ -20,7 +20,7 @@ youtube_code: OidB1poxVM0
 
 {% include youtube.html %}
 
-<center><em>Due to the coronavirus, we’re making adjustments to ensure you can move forward safely with your real estate plans.</em></center>
+<center><em>Due to the coronavirus, we&rsquo;re making adjustments to ensure you can move forward safely with your real estate plans.</em></center>
 
 <br>What does the coronavirus mean for your real estate plans in 2020?
 
