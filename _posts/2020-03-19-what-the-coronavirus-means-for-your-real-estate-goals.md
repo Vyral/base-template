@@ -24,12 +24,12 @@ youtube_code: OidB1poxVM0
 
 <br>What does the coronavirus mean for your real estate plans in 2020?
 
-'The unknown' is the full battle in this case. We don’t fully know what we’re facing and until we do, **the most important thing is to keep everyone safe and healthy**. If you’re already in the process of selling your home and have a plan in place, let’s work together so we can move forward safely as a team.
+'The unknown' is the full battle in this case. We don’t fully know what we’re facing and until we're right up against it—**the most important thing is to keep everyone safe and healthy**. If you’re already in the process of selling your home and have a plan in place, let’s work together so we can move forward safely as a team.
 
 During this time, **we’re taking the necessary precautions to keep our would-be and current clients safe**. Now that most people are working from home, they’re getting more and more things done on their computers, and we’ve adjusted accordingly.
 
 {% include pullquote.html %}
 
-For example, if we’re scheduled to meet with you for the first time, it can be a Zoom meeting; we don’t have to meet in person. If you’re a seller and plan on having potential buyers walk through your home, we can guide you on how to keep your home safe and clean. This can include having hand sanitizer available and leaving certain doors open so no one touches the knobs.
+For example, if we’re scheduled to meet with you for the first time, we can meet via Zoom instead—we don’t have to meet in person. If you’re a seller and plan on having potential buyers walk through your home, we can guide you on how to keep your home safe and clean. This can include having hand sanitizer available and leaving certain doors open so no one touches the knobs.
 
 If you’d like to talk more about this subject or have other real estate needs we can assist you with, don’t hesitate to call or email us. We’d love to speak with you.
