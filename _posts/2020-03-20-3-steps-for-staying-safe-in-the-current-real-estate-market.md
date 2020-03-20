@@ -19,7 +19,7 @@ youtube_code: EhUmWSa3fjg
 
 {% include youtube.html %}
 
-<center><em>It’s more important than ever to stay safe if you’re in the process of buying or selling a home. Here’s what you can do to stay healthy.</em></center>
+<center><em>It&rsquo;s more important than ever to stay safe if you&rsquo;re in the process of buying or selling a home. Here&rsquo;s what you can do to stay healthy.</em></center>
 
 <br>In this time of heightened awareness and social distancing, here are a few tips to help keep you safe if you’re buying or selling a home:
 
