@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Message From Alex
-date: 2020-03-20 16:20:45
+date: 2020-03-20 16:20:00
 tags:
 excerpt:
 enclosure:
@@ -29,7 +29,7 @@ We are taking caution with our buyers, still, by bringing Purell to sanitize bef
 
 I’m here to guide you and make fact-based, researched decisions if you need to sell your home (or buy one) since life must go on for those in situations who need to move.
 
-That may be you or someone you know. I have your back. If there’s anything I can do to help you, call me at (949) 682-8880.
+That may be you or someone you know. I have your back. If there’s anything I can do to help you, **call me at (949) 682-8880**.
 
 I’m here to help if you need *anything*. Let me know.
 
