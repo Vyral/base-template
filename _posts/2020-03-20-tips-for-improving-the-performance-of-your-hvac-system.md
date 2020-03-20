@@ -19,7 +19,7 @@ youtube_code: hAyu2C8VB7M
 
 {% include youtube.html %}
 
-*I’m having my HVAC system filter changed out today by the pros at AccuTemp Heating and Cooling. Here’s what they recommend for all homeowners.*
+<p style="text-align: center;"><em>I’m having my HVAC system filter changed out today by the pros at AccuTemp Heating and Cooling. Here’s what they recommend for all homeowners.</em></p>
 
 Before we delve into the topic of HVAC maintenance, let’s address the elephant in the room: **U.S. mortgage rates have dropped in response to coronavirus fears.** There’s speculation that rates could drop even lower than their already historic levels after the Fed issued an emergency cut.&nbsp;
 
