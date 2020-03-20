@@ -27,6 +27,6 @@ Having someone offer cash for your house sight unseen seems easy, but **watch ou
 
 {% include pullquote.html %}
 
-**The reality of the iBuyer program is that it’s not as sexy as it sounds**. According to Forbes, the average consumer that takes an offer from these iBuyers takes 13% to 15% less than the value of their home. That’s massive\! These iBuyers will also order an inspection, point out all of the issues they want fixed, and if you refuse, they’ll take even more off of their offer. It’s really not a great deal. It’s important to be educated about what really occurs in these transactions.
+**The reality of the iBuyer program is that it’s not as sexy as it sounds**. According to Forbes, the average consumer that takes an offer from these iBuyers takes 13% to 15% less than the value of their home. That’s massive\! These iBuyers will also order an inspection, point out all of the issues they want fixed, and if you refuse, they’ll take even more off of their offer. It’s not a great deal. It’s important to be educated about what really occurs in these transactions.
 
 If 13% to 15% less than your home’s value sounds appealing, go for an iBuyer’s offer. Then again, you could go with a trusted team of professionals to represent you. Don’t leave money on the table\! Reach out to us by phone or email anytime if you have further questions about iBuyers or are interested in buying or selling soon.
