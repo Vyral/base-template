@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-10---kevin-langan---yt.jpg
-youtube_code: hSG8HfP6LYM
+youtube_code: jrpjCy_S2Bs
 ---
 
 {% include youtube.html %}
@@ -31,4 +31,4 @@ Many homes constructed in the '80s, '90s, and early 2000s were built with very b
 
 There are different variances and adjustments depending on the degree of remodel or how outdated the home is. **Many buyers in today’s market are willing to buy a home that needs some updates if the price is right**.
 
-If you have any questions for me about selling your own home or about anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+If you have questions for me about selling your own home or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
