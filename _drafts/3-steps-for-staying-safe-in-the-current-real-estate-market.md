@@ -19,7 +19,9 @@ youtube_code: EhUmWSa3fjg
 
 {% include youtube.html %}
 
-In this time of heightened awareness and social distancing, here are a few tips to help keep you safe if you’re buying or selling a home:
+<center><em>It’s more important than ever to stay safe if you’re in the process of buying or selling a home. Here’s what you can do to stay healthy.</em></center>
+
+<br>In this time of heightened awareness and social distancing, here are a few tips to help keep you safe if you’re buying or selling a home:
 
 **1\. Always keep additional hand sanitizer and alcohol wipes handy**. Put them on the kitchen tables and in the bathrooms if you’re having a showing or open house. If you’re a buyer, use that sanitizer before and after you view homes.
 
