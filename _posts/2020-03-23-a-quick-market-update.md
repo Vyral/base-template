@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-23---brittany-foy---yt.jpg
-youtube_code: 1wVxNqHbR8k
+youtube_code: Ir-KmOK1qlo
 ---
 
 {% include youtube.html %}
