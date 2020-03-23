@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   Due to the coronavirus, we’re making adjustments to ensure you can move
   forward safely with your real estate plans.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/What+the+Coronavirus+Means+for+Your+Real+Estate+Goals.mp4
 pullquote: Let’s work together so we can move forward safely as a team.
 enclosure_type: video/mp4
 enclosure_time:
