@@ -34,11 +34,11 @@ Here are the three ways we at The Wolek Group stay connected:
 
 **3\. We use a communication tool called Slack.** This allows us to consolidate all of our communication into one place. We’ve found that information can get lost through text and emails. With Slack, every channel is a different category, and it’s a great place to store our team’s communication.&nbsp;
 
+To accommodate our team and our clients during these trying times we are doing Zoom team meetings and virtual appointments.
+
 {% include pullquote.html %}
 
 Communication can separate the great companies from the not-so-great ones. We’re always striving for success and making sure we deliver an amazing client experience, and communication is key. Communicating as a team is very important. It’s also important that our clients see this.&nbsp;
-
-To accommodate our team and our clients during these trying times we are doing Zoom team meetings and virtual appointments.
 
 Communication with our people is just as important, and we ensure this by creating a GPS for each year. Our goals, priorities, and strategies are outlined inside our marketing plan. Our goals are also placed inside our calendar so we can review them and send our 411s to each other every Monday morning.&nbsp;
 
