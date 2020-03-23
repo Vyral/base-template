@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard of Our RealVitalize Program?
-date:
+date: 2020-03-23 18:14:28
 tags:
 excerpt: >-
   Matt Baker, president of Coldwell Banker Burnet, joined us recently to talk
