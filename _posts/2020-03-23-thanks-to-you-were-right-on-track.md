@@ -17,7 +17,7 @@ youtube_code: _odO1jzRhwc
 
 {% include youtube.html %}
 
-We’re on track to hit our 2020 goals, and we couldn’t do it without you.
+<p style="text-align; center;"><em>We’re on track to hit our 2020 goals, and we couldn’t do it without you.</em></p>
 
 In December 2019, we set a goal of 125 referrals for 2020. Now, near the end of March, **we’ve reached 38, meaning that we are indeed on pace to meet our goal for the year.** We don’t have a topical real estate post for you today, but we want to extend a deep, heartfelt thank you for all of the referrals you’ve given us thus far.&nbsp;
 
