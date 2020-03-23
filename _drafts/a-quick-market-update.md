@@ -19,7 +19,9 @@ youtube_code: 1wVxNqHbR8k
 
 {% include youtube.html %}
 
-**For those wondering how our real estate market is performing, here’s a quick update (<u><a target="_blank" href="https://pdfhost.io/v/5oYknq~zU_Carolina_Forest.pdf">view the full report here</a></u>):&nbsp;**
+<center><em>We’re here for you, no matter what your needs are. Buyers still have immediate needs, and we’re doing what we can.</em></center>
+
+<br>**For those wondering how our real estate market is performing, here’s a quick update (<u><a target="_blank" href="https://pdfhost.io/v/5oYknq~zU_Carolina_Forest.pdf">view the full report here</a></u>):&nbsp;**
 
 * In February 2020, there were more listings and sales in the Carolina Forest area of Myrtle Beach than in 2019&nbsp;
 * As you’d expect, the coronavirus has been a recent curveball. There are still buyers looking for properties, and we are still helping them with this immediate need.&nbsp;
