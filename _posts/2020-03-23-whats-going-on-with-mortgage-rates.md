@@ -19,7 +19,7 @@ youtube_code: ZgqraRMsuLs
 
 {% include youtube.html %}
 
-*Mortgages rates reached all-time lows, then immediately started to climb. Here’s why that happened. *
+<center><em>Mortgages rates reached all-time lows, then immediately started to climb. Here’s why that happened. </em></center>
 
 Rates have been dropping over the last month, and many people have been refinancing their mortgages to lock in lows of 3.25% and 3.5%. They’ve been dropping in response to the volatility in the stock market and the fear of the economy slowing down in the wake of the COVID-19 pandemic.&nbsp;
 
