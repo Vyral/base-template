@@ -21,7 +21,9 @@ youtube_code: HneTsy8m77A
 
 {% include youtube.html %}
 
-Matt Nader of First Home Mortgage joined us recently to talk about our real estate market and where it’s headed.
+<center><em>The spring real estate market has been happening for a few months now. Matt Nader joined us to talk about how he’s helping.</em></center>
+
+<br>Matt Nader of First Home Mortgage joined us recently to talk about our real estate market and where it’s headed.
 
 During the course of any given year, we talk about whether or not the spring market will creep into February. **This year, the real estate market got hot around New Years and has stayed hot since**.
 
