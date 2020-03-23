@@ -19,7 +19,7 @@ youtube_code: j7pqyn_QokE
 
 {% include youtube.html %}
 
-I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.
+<p style="text-align: center;"><em>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</em></p>
 
 I have an exciting announcement to share today, but first I have a question: Do you have any projects around the house that you need to do, such as a bedroom painted, floors sanded, or updated countertops? If so, I can help.
 
