@@ -10,7 +10,7 @@ tags:
   - Listing Presentation
   - Reviews and Referrals
 excerpt: >-
-  Communication is key in our business, and here are the three ways the Wolek
+  Communication is key in our business, and here are the three ways The Wolek
   Group stays connected.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/How+We+Stay+Connected.mp4
@@ -26,7 +26,7 @@ youtube_code: sv07TmjnqTw
 
 {% include youtube.html %}
 
-Here are the three ways we at the Wolek Group stay connected:
+Here are the three ways we at The Wolek Group stay connected:
 
 **1\. We have a Google Hangout call every morning at 8:15 a.m.** This allows us to state our gratitude and share our intentions for the day.&nbsp;
 
@@ -37,6 +37,8 @@ Here are the three ways we at the Wolek Group stay connected:
 {% include pullquote.html %}
 
 Communication can separate the great companies from the not-so-great ones. We’re always striving for success and making sure we deliver an amazing client experience, and communication is key. Communicating as a team is very important. It’s also important that our clients see this.&nbsp;
+
+To accommodate our team and our clients during these trying times we are doing Zoom team meetings and virtual appointments.
 
 Communication with our people is just as important, and we ensure this by creating a GPS for each year. Our goals, priorities, and strategies are outlined inside our marketing plan. Our goals are also placed inside our calendar so we can review them and send our 411s to each other every Monday morning.&nbsp;
 
