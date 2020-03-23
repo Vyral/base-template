@@ -18,7 +18,7 @@ youtube_code: 8xBzWLjEsuI
 
 {% include youtube.html %}
 
-<p style="text-align: cmenter;"><em>The coronavirus has wrapped the globe in uncertainty, but the real estate business is continuing despite the fact. Here’s what you need to know.</em></p>
+<p style="text-align: center;"><em>The coronavirus has wrapped the globe in uncertainty, but the real estate business is continuing despite the fact. Here’s what you need to know.</em></p>
 
 Even amidst uncertainty with the coronavirus pandemic taking over our daily lives, the real estate market is still providing opportunities to people out there. There were 1,734 pending sales in the last seven days that were driven by opportunity buyers taking advantage of low interest rates.
 
