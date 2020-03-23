@@ -21,7 +21,7 @@ youtube_code: HneTsy8m77A
 
 {% include youtube.html %}
 
-<center><em>The spring real estate market has been happening for a few months now. Matt Nader joined us to talk about how he’s helping.</em></center>
+<center><em>The spring real estate market has been happening for a few months now. Matt Nader joined us to talk about how he&rsquo;s helping.</em></center>
 
 <br>Matt Nader of First Home Mortgage joined us recently to talk about our real estate market and where it’s headed.
 
