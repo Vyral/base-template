@@ -19,7 +19,7 @@ youtube_code: 1wVxNqHbR8k
 
 {% include youtube.html %}
 
-<center><em>We’re here for you, no matter what your needs are. Buyers still have immediate needs, and we’re doing what we can.</em></center>
+<center><em>We&rsquo;re here for you, no matter what your needs are. Buyers still have immediate needs, and we&rsquo;re doing what we can.</em></center>
 
 <br>**For those wondering how our real estate market is performing, here’s a quick update (<u><a target="_blank" href="https://pdfhost.io/v/5oYknq~zU_Carolina_Forest.pdf">view the full report here</a></u>):&nbsp;**
 
