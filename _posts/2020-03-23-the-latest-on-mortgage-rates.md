@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest on Mortgage Rates
-date: 2020-03-23 18:05:42
+date: 2020-03-23 18:05:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -25,9 +25,7 @@ Several weeks ago, mortgage rates hit their lowest levels in history, creating a
 
 **We’re now experiencing the biggest run on mortgage refinancing ever.** Because of this unprecedented, ballooning volume, banks were forced to sort of slow things down; they slightly raised rates, not to demotivate buyers, but rather to offset two things:&nbsp;
 
-1\. Maxed-out operational capacity
-
-2\. The bond market blow-up.&nbsp;
+1\. Maxed-out operational capacity<br>2\. The bond market blow-up.&nbsp;
 
 Expanding on No. 2 a bit, the market realized how much volume was about to flood into it down the line**,** and **the valuation metrics have been recalculated, but not in a good way.** The inability of the market to absorb as much paper as has been coming out created an environment where lenders find it difficult to determine what rates they should set for certain loan programs. As a result, they’ve added in a buffer to absorb any potential losses when it comes to securitizing.&nbsp;
 
