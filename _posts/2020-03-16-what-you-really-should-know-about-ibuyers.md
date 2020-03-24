@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s the truth behind iBuyers and their automated valuation models.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/What+You+Really+Should+Know+About+iBuyers.mp4
 pullquote: >-
   The average consumer that takes an offer from these iBuyers takes 13% to 15%
   less than the value of their home.
