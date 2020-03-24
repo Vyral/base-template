@@ -33,4 +33,4 @@ There is no urgency right now because mortgage companies are inundated with appl
 
 To Quote Matthew Graham, Chief Operating Officer for Mortgage News Daily, “The implication is that consumers should not expect a Fed rate cut to subsequently result in a mortgage rate cut, and in fact, that the recent mortgage rate cut did far more to predict the Fed rate cut.”&nbsp;
 
-You can read more about the&nbsp;[mortgage rates here](https://www.cnn.com/2020/03/16/success/mortgage-rate-fed-cut/index.html). But, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+You can read more about the &nbsp;[mortgage rates here](https://www.cnn.com/2020/03/16/success/mortgage-rate-fed-cut/index.html). But, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
