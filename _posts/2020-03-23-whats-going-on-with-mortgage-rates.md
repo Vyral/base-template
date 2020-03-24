@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Going on With Mortgage Rates?
-date: 2020-03-23 17:53:05
+date: 2020-03-23 17:53:00
 tags:
 excerpt: >-
   Mortgages rates reached all-time lows, then immediately started to climb.
@@ -19,7 +19,8 @@ youtube_code: ZgqraRMsuLs
 
 {% include youtube.html %}
 
-<center><em>Mortgages rates reached all-time lows, then immediately started to climb. Here’s why that happened. </em></center>
+<center><em>Mortgages rates reached all-time lows, then immediately started to climb. Here&rsquo;s why that happened. </em></center>
+
 &nbsp;
 
 Rates have been dropping over the last month, and many people have been refinancing their mortgages to lock in lows of 3.25% and 3.5%. They’ve been dropping in response to the volatility in the stock market and the fear of the economy slowing down in the wake of the COVID-19 pandemic.&nbsp;
@@ -30,9 +31,9 @@ Currently, the yield on the Treasury is as low as it's been in recent memory—w
 
 {% include pullquote.html %}
 
-**An artificial rate hike allows lenders to curb the volume of refinances** (if a sizable chunk of existing mortgages get paid off through refinance, lenders would be seeing less in profits).&nbsp;
+**An artificial rate hike allows lenders to curb the volume of refinances** (if a sizable chunk of existing mortgages was paid off through refinance, lenders would see less in profits).&nbsp;
 
-**There’s a lot of uncertainty, but we’re likely looking at low or negative growth in our economy over the next six months,** whichsupports the theory that, without any underlying inflation, mortgage rates should remain stable and low.&nbsp;
+**There’s a lot of uncertainty, but we’re likely looking at low or negative growth in our economy over the next six months,** which supports the theory that, without any underlying inflation, mortgage rates should remain stable and low.&nbsp;
 
 If you missed the wave of low rates, you’re more than likely to have a second chance. When everything settles down, and once the banks have a chance to process their loans, we’ll probably see another dip in the rates.&nbsp;
 
