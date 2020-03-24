@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Will the Fed’s New Interest Rate Affect Home Mortgage Rates?
-date: 2020-03-24 16:19:51
+date: 2020-03-24 16:19:00
 tags:
 excerpt:
 enclosure:
@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/3-23-20yt.jpg
 youtube_code: VaPL9_TUPQA
 ---
 
@@ -33,4 +33,4 @@ There is no urgency right now because mortgage companies are inundated with appl
 
 To Quote Matthew Graham, Chief Operating Officer for Mortgage News Daily, “The implication is that consumers should not expect a Fed rate cut to subsequently result in a mortgage rate cut, and in fact, that the recent mortgage rate cut did far more to predict the Fed rate cut.”&nbsp;
 
-You can read more about the[mortgage rates here](https://www.cnn.com/2020/03/16/success/mortgage-rate-fed-cut/index.html). But, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+You can read more about the&nbsp;[mortgage rates here](https://www.cnn.com/2020/03/16/success/mortgage-rate-fed-cut/index.html). But, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
