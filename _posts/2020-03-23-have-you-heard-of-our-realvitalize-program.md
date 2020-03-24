@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard of Our RealVitalize Program?
-date: 2020-03-23 18:14:28
+date: 2020-03-23 18:14:00
 tags:
 excerpt: >-
   Matt Baker, president of Coldwell Banker Burnet, joined us recently to talk
@@ -32,12 +32,12 @@ They want to make repairs, but many don’t know who should do them or how they 
 
 Matt also humored us by playing our little lightning round question game. Here are his answers:
 
-* Dog or cat? Dog
-* Minneapolis or St. Paul? No comment&nbsp;
-* Uptown or Downtown? Downtown
-* Lake or ocean? Lake
-* HGTV or This Old House? HGTV
-* If you had one superpower what would it be? Flying
+* "Dog or cat?" *Dog*
+* "Minneapolis or St. Paul?" *No comment&nbsp;*
+* "Uptown or Downtown?" *Downtown*
+* "Lake or ocean?"&nbsp;*Lake*
+* "HGTV or This Old House?"&nbsp;*HGTV*
+* "If you had one superpower what would it be?"&nbsp;*Flying*
 
 Thanks so much to Matt for taking time out of his busy schedule to join us. If you want to know more about the RealVitalize program, **you can learn more here.** If you have any other questions, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
 
