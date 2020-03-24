@@ -26,6 +26,6 @@ youtube_code: iA6_MAM5mRk
 
 1:25 - Dr. Helin discusses her career, how her business came about, and what drove here to choose the chiropractic field<br>2:00 - A demo of “cupping with movement” and other tools that Dr. Helin has in her toolbelt<br>3:20 - Addressing some common chiropractic patient fears<br>4:20 - Can popping joints cause arthritis?<br>6:00 - Dr. Helin describes her “perfect patient”<br>7:05 - How a typical appointment works<br>8:40 - How stretching plays a role in chiropractic solutions<br>9:05 - My story about visiting a chiropractor after a bad fall snowboarding<br>10:30 - Why do Dr. Helin’s patients recommend her?<br>12:07 - How to find Dr. Helin<br>12:50 - Wrapping things up
 
-If you have any questions for Dr. Helin, feel free to reach out to her by phone at (760) 652-9838, send an email to [leahhelindc@gmail.com](mailto:leahhelindc@gmail.com), or <u><a target="_blank" href="https://www.drleahhelin.com">visit her website</a></u>.
+If you have any questions for Dr. Helin, feel free to reach out to her by phone at (760) 652-9838, send an email to <u><a href="mailto:leahhelindc@gmail.com">leahhelindc@gmail.com</a></u>, or <u><a target="_blank" href="https://www.drleahhelin.com">visit her website</a></u>.
 
 If you have any other questions for me, feel free to reach out via phone or email. I look forward to hearing from you soon.
