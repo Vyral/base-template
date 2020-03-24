@@ -18,7 +18,9 @@ youtube_code: iA6_MAM5mRk
 
 {% include youtube.html %}
 
-On this edition of “Everyday Encinitas,” we’re joined by Dr. Leah Helin, a sports chiropractic here in Encinitas. **Her practices focus on evaluating her clients for movement, soft tissue, and custom chiropractic adjustments**. Everything’s individualized, based on active movement, and teaching patients how to fix and maintain their bodies.
+<center><em>Dr. Leah Helin has been helping patients for the last five years in Encinitas. We caught up with her to talk about how she does it.</em></center>
+
+<br>On this edition of “Everyday Encinitas,” we’re joined by Dr. Leah Helin, a sports chiropractic here in Encinitas. **Her practices focus on evaluating her clients for movement, soft tissue, and custom chiropractic adjustments**. Everything’s individualized, based on active movement, and teaching patients how to fix and maintain their bodies.
 
 **Here’s an outline of our full discussion, with timestamps so that you can skip ahead to the section(s) that interest you the most:**
 
