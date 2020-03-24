@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/payne-youtube-8-1.jpg
 youtube_code: ysDywNzC72o
 ---
 
-{% include youtube.html %}I’m explaining why you need to listen to your agent during real estate transactions.
+{% include youtube.html %}<center>I’m explaining why you need to listen to your agent during real estate transactions.</center>
 
 Why should you take your real estate agent’s advice during real estate transactions? On the buyer’s side, **most agents will tell you to get a pre-approval letter** since, without one, you’ll be at a disadvantage when making an offer.&nbsp;
 
