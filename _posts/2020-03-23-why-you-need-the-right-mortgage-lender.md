@@ -23,13 +23,13 @@ youtube_code: HneTsy8m77A
 
 <center><em>The spring real estate market has been hot for a few months now. Matt Nader joined us to talk about how he&rsquo;s helping.</em></center>
 
-<br>Matt Nader of First Home Mortgage joined us recently to talk about our real estate market and where it’s headed.
+&nbsp;
 
-During the course of any given year, we talk about whether or not the spring market will creep into February. **This year, the real estate market got hot around New Years and has stayed hot since**.
+During the course of any given year, we talk about whether or not the spring market will creep into February. **This year, the real estate market got hot around New Year's and has remained so ever since**.
 
 Here’s an example of what’s going on. We just had a conversation with a client who didn’t have all their ducks in a row yet, but was pleasantly surprised when we told them what their home could fetch in the current market. To make sure they were ready to sell and buy their next home, the next step was getting him in touch with Matt.
 
-According to Matt, speed kills in this industry and in this market. If you can work with someone like him who knows how to write a contract in this market to give you the best chance of getting your offer accepted, that’s a huge benefit to sellers to pick you.
+According to Matt from First Home Mortgage, speed kills in this industry and in this market. If you can work with someone like him who knows how to write a contract in this market to give you the best chance of getting your offer accepted, that’s a huge benefit to sellers to pick you.
 
 {% include pullquote.html %}
 
