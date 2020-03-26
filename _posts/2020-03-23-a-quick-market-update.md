@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re here for you, no matter what your needs are. Buyers still have immediate
   needs, and we’re doing what we can.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brittany+Foy/Videos/A+Quick+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
