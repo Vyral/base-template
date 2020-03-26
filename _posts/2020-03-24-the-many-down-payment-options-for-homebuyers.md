@@ -19,7 +19,7 @@ youtube_code: qQml6egMb-I
 
 {% include youtube.html %}
 
-*Jake Bernhard of United Heritage Credit Union joined me recently to discuss the many different down payment options that first-time homebuyers have.*
+<p style="text-align: center;"><em>Jake Bernhard of United Heritage Credit Union joined me recently to discuss the many different down payment options that first-time homebuyers have.</em></p>
 
 Jake Bernhard of United Heritage Credit Union joined us recently to answer a great question from one of you: What options are there for borrowers who don’t have 20% down to put on a home? **Contrary to popular belief, you don’t need 20% to buy a home.** You can put down as little as 5% with a conventional mortgage, 3.5% with an FHA mortgage, or 0% down with a VA or USDA loan.
 
