@@ -27,9 +27,10 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 Do you already have a great team, or do you need to build one? If you’re in the latter category, today’s webinar will help. The key to building a great time is making one great hire at a time. There are also three critical steps that you need to know in order to hire, train, and manage that team.
 
-[![](/uploads/wade-core-3-3.jpg){: width="444" height="257"}](https://vimeo.com/389312221/f82ef24445)
+[![](/uploads/wade-betz---dream-team---email.jpg){: width="1280" height="720"}](https://thecoretraining.lpages.co/realtorbuildateammar2020/){: target="_blank"}
 
 ### Previous Webinars:
+
 **Building a Dream Team One Great Hire at a Time** — [Video](https://thecoretraining.lpages.co/realtorbuildateammar2020/) — [Resources](https://www.dropbox.com/sh/rzzr193k7kkj6qu/AAAPJ-Z_qn_KUnBRMSFpe8wta?dl=0)
 
 **Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
