@@ -19,7 +19,7 @@ youtube_code: TMqz7_3ANL4
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how we handle maintenance calls for our property owners.</p>
+<p style="text-align:center"><em>Here’s how we handle maintenance calls for our property owners.</em></p>
 
 If you’re a property owner thinking of managing your property yourself, what are you going to do when you get a maintenance call?&nbsp;
 
