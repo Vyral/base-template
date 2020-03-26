@@ -21,13 +21,13 @@ youtube_code: j7pqyn_QokE
 
 <p style="text-align: center;"><em>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</em></p>
 
-I have an exciting announcement to share today, but first I have a question: Do you have any projects around the house that you need to do, such as a bedroom painted, floors sanded, or updated countertops? If so, I can help.
+I have an exciting announcement to share today, but first I have a question: Do you have any projects around the house that you need to do, such as bedroom painting, floor sanding, or updating countertops? If so, I can help.
 
 **About 18 months ago, I started a second company called Listing Ready** that was born out of the experience of seeing clients’ properties and the list of things we needed to do to get them ready for the market. My partner Mike and I had partnered together in the past and had great success, so we decided to finally make it official with Listing Ready.
 
 {% include pullquote.html %}
 
-We’ve found that there are a lot of projects on nearly every house that need to be completed in order to help the home sell for top dollar. **With Listing Ready, we can help you with a wide range of general contractor service, with a focus on the high-impact areas that give you the biggest bang for your buck.&nbsp;**
+In nearly every house, we’ve found  there are a lot of projects on nearly every house that need to be completed in order to help the home sell for top dollar. **With Listing Ready, we can help you with a wide range of general contractor service, with a focus on the high-impact areas that give you the biggest bang for your buck.&nbsp;**
 
 If you have a project that needs to be done around the house, even if you don’t plan on selling anytime soon, reach out and give us a call and we’d be happy to help.
 
