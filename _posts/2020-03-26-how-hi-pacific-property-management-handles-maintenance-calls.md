@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How HI Pacific Property Management Handles Maintenance Calls
-date: 2020-03-26 17:42:39
+date: 2020-03-26 17:42:00
 tags:
   - Real Estate
 excerpt: Here’s how we handle maintenance calls for our property owners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/How+HI+Pacific+Property+Management+Handles+Maintenance+Calls.mp4
 pullquote: >-
   Since you’re required by law to have an on-island representative, do you have
   someone you trust to handle this type of thing?
