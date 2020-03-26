@@ -4,11 +4,12 @@ title: Cut Your Monthly Expenses
 tags:
   - Real Estate
   - Market Update
-date: 2020-03-26 18:08:43
+date: 2020-03-26 18:08:00
 excerpt: >-
   If you want to cut your monthly expenses, look to your home and auto insurance
   and your mortgage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chris+Gorman/Videos/2020/March/Cut+Your+Monthly+Expenses.mp4
 pullquote: >-
   A lot of people are watching the stock market and thinking the real estate
   market is following the same trajectory, but it’s not.
