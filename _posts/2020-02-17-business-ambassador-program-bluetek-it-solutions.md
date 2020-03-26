@@ -5,7 +5,7 @@ date: 2020-02-17 22:01:39
 tags:
   - Business Ambassador
 excerpt: >-
-  I couldn’t be more excited to introduce you to Sam Dubs of Bluetek IT
+  I couldn’t be more excited to introduce you to Sam Dubbs of Bluetek IT
   Solutions for today’s business highlight video. Let’s check out what they have
   to offer!
 enclosure: >-
@@ -20,9 +20,9 @@ youtube_code: m0AZo25Xr7c
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I couldn’t be more excited to introduce you to Sam Dubs of Bluetek IT Solutions for today’s business highlight video. Let’s check out what they have to offer!</em></p>
+<p style="text-align: center;"><em>I couldn’t be more excited to introduce you to Sam Dubbs of Bluetek IT Solutions for today’s business highlight video. Let’s check out what they have to offer!</em></p>
 
-I’ve worked with Sam Dubs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, provides.
+I’ve worked with Sam Dubbs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, provides.
 
 So many of us are working from home and need to do our jobs virtually as we commit to working from home & prioritize social responsibility above all else. Sam Dubbs with Bluetek IT is someone who is on the front lines of responding to organizations who need their virtual technology optimized during this uncharted time.
 
