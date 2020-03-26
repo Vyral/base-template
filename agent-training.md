@@ -23,13 +23,14 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
+**Building a Dream Team One Great Hire at a Time** — [Video](https://thecoretraining.lpages.co/realtorbuildateammar2020/) — [Resources](https://www.dropbox.com/sh/rzzr193k7kkj6qu/AAAPJ-Z_qn_KUnBRMSFpe8wta?dl=0)
 
-Relationships are important in every business, but especially so in real estate. In today's webinar, you’ll learn how to use networking to get more leads, more profit, and most importantly, more fun. There are certain tips and tricks that you can start using in your business today to start the process. For example, you can send out videos to your database that feature your vendors or invite VIPs to monthly happy hours.
+Do you already have a great team, or do you need to build one? If you’re in the latter category, today’s webinar will help. The key to building a great time is making one great hire at a time. There are also three critical steps that you need to know in order to hire, train, and manage that team.
 
 [![](/uploads/wade-core-3-3.jpg){: width="444" height="257"}](https://vimeo.com/389312221/f82ef24445)
 
 ### Previous Webinars:
+**Building a Dream Team One Great Hire at a Time** — [Video](https://thecoretraining.lpages.co/realtorbuildateammar2020/) — [Resources](https://www.dropbox.com/sh/rzzr193k7kkj6qu/AAAPJ-Z_qn_KUnBRMSFpe8wta?dl=0)
 
 **Network Your Way to More Leads, More Profit, and More Fun** — [Video](https://vimeo.com/389312221/f82ef24445) — [Resources](https://www.dropbox.com/sh/glzi5whgwfno0xz/AABU6gy5ign289keR3Gyc8jra?dl=0)
 
