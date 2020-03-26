@@ -24,7 +24,7 @@ youtube_code: dJgLItcxz4k
 
 If you’re looking for ways to cut your monthly expenses, here are a couple of quick tips that will help:
 
-**1\. Look at your home and auto insurance.** About a month ago, my company started a joint venture with HUB International, the largest private insurance company in North America. I had them quote my home and auto insurance, and now they’re saving me about $1,000 per year. You can do the exact same thing, so just give me a call and I’ll refer you to our insurance representative.
+**1\. Look at your home and auto insurance.** About a month ago, my company started a joint venture with HUB International, the largest private insurance company in North America. I had them quote my home and auto insurance, and now they’re saving me about $1,000 per year. You can do the same thing, so just give me a call and I’ll refer you to our insurance representative.
 
 **2\. Look at your mortgage.** The Federal Reserve recently cut interest rates, and while this only distantly affects mortgage rates, they’re still low as well—as low as 3% or 4%. I refinanced my mortgage recently and now save a couple hundred dollars per month. Again, if this is something you're interested in, give me a call and I’d be happy to get you in touch with a certified professional.&nbsp;
 
