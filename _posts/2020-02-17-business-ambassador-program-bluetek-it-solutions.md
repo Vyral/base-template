@@ -24,7 +24,7 @@ youtube_code: m0AZo25Xr7c
 
 I’ve worked with Sam Dubs for about 15 years, since around the time my company was just starting, and I’m so excited to introduce you to him and highlight what his company, Bluetek IT Solutions, provides.
 
-Bluetek provides IT services to small businesses, and their goal is to eliminate your technology headaches and increase your business’ profitability.&nbsp;
+So many of us are working from home and need to do our jobs virtually as we commit to working from home & prioritize social responsibility above all else. Sam Dubbs with Bluetek IT is someone who is on the front lines of responding to organizations who need their virtual technology optimized during this uncharted time.
 
 As a business leader, there are things that keep me up at night if I’m feeling vulnerable. It’s lonely sometimes, especially if you don’t have anyone to turn to for some of your business problems. I asked Sam about some of the challenges that he loses sleep over, as a business owner himself.
 
