@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/mortgage-rates-youtube.jpg
-youtube_code: _FezQpAg9tM
+youtube_code: ZHskSXiqskk
 ---
 
 {% include youtube.html %}
