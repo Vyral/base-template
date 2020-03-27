@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/chris-gorman-2-tips-to-cut-your-monthly-bills-yt.jpg
-youtube_code: dJgLItcxz4k
+youtube_code: WFtAt2AEQ7A
 ---
 
 {% include youtube.html %}
