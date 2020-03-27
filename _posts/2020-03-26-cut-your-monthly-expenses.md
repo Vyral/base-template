@@ -34,8 +34,6 @@ Now, what’s the latest news from our market? I’ll say this: The world is not
 
 The bottom line is, **there’s no need to panic.** In fact, now’s a great opportunity to enter the real estate market. A lot of investors whose cash and equity are taking a hit are needing to liquidate some of their assets, so now’s the time to shop for investment properties.&nbsp;
 
-Barring an executive order for everyone to stay inside, we’re still showing and putting homes on the market. Of course, we’re taking every precaution to make sure everyone stays safe and healthy.&nbsp;
-
-In any case, I encourage you to take this time to take care of yourself and your family. We’ll get through this together.&nbsp;
+In any case, we’re taking every precaution to make sure everyone stays safe and healthy. I encourage you to take this time to take care of yourself and your family. We’ll get through this together.&nbsp;
 
 If you have questions about any of today’s topics, call me on my cell at (919) 645-7212. I’m here to help.
