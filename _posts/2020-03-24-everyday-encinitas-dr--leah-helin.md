@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Dr. Leah Helin has been helping patients for the last five years in Encinitas.
   We caught up with her to talk about how she does it.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/%23EVERYDAYENCINITAS+EPISODE+13+_+Dr.+Leah+Helin.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
