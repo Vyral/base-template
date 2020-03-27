@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: T2HYXiO5Ih4
 ---
 
 {% include youtube.html %}
 
-Here’s what the latest numbers tell us about the North San Diego real estate market.
+<p style="text-align: center;"><em>Here’s what the latest numbers tell us about the North San Diego real estate market.</em></p>
 
 What’s going on in our North San Diego County real estate market? Today I’m sharing the latest data from the end of February, along with some thoughts on how the coronavirus is impacting the market.&nbsp;
 
