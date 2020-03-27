@@ -23,6 +23,6 @@ youtube_code: Xm1K1dKCKSk
 
 In light of the chaos and uncertainty that has come with the coronavirus, we at the Scott Himmelstein Group are doing what we can to give back to others in the community who really need our help.
 
-Do you know of any local businesses in the San Fernando Valley that are still open right now and could use a boost? Leave a link to their website or their contact information on our Facebook page, or just tag them in a post on our page.
+Do you know of any local businesses in the San Fernando Valley that are still open right now and could use a boost? Leave a link to their website or their contact information on our <a href="https://www.facebook.com/ScottWorks4u/" target="_blank">Facebook page</a>, or just tag them in a post on our page.
 
 These businesses are integral to our community, and they need our help now more than ever. Together, we can make it through these challenging times.
