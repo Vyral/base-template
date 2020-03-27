@@ -19,7 +19,7 @@ youtube_code: Xm1K1dKCKSk
 
 {% include youtube.html %}
 
-Today's message is geared towards giving back to the local community, businesses that might need your support during this time.
+<p style="text-align: center;"><em>Today's message is geared towards giving back to the local community, businesses that might need your support during this time.</em></p>
 
 In light of the chaos and uncertainty that has come with the coronavirus, we at the Scott Himmelstein Group are doing what we can to give back to others in the community who really need our help.
 
