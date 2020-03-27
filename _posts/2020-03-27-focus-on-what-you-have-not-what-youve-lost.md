@@ -19,7 +19,7 @@ youtube_code: PQI077KY3_4
 
 {% include youtube.html %}
 
-We can get through these scary times together, but the trick to that is not looking back.
+<p style="text-align: center;"><em>We can get through these scary times together, but the trick to that is not looking back.</em></p>
 
 The week right before the shutdown was the busiest week I’ve ever seen in real estate. I was selling homes just hours after they went live, some for $5,000 to $10,000 over list price. Given that, I think that real estate will eventually pick up again. Obviously, there will be some lag time, since so many of us are out of work; the economy will have to catch up to the housing market first. But I sincerely believe that the housing market will recover, likely even faster than the stock market.
 
