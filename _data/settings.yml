@@ -7,7 +7,8 @@ custom_links:
     url: /client-testimonials
   - title: Book an Appointment with Jonathan
     url: http://calendly.com/jonathan-carbutti
-
+  - title: Events
+    url: /events/
 client:
   name: Jonathan Carbutti
   license_number:
