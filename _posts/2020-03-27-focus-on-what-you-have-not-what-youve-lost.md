@@ -21,17 +21,17 @@ youtube_code: PQI077KY3_4
 
 <p style="text-align: center;"><em>We can get through these scary times together, but the trick to that is not looking back.</em></p>
 
-The week right before the shutdown was the busiest week I’ve ever seen in real estate. I was selling homes just hours after they went live, some for $5,000 to $10,000 over list price. Given that, I think that real estate will eventually pick up again. Obviously, there will be some lag time, since so many of us are out of work; the economy will have to catch up to the housing market first. But I sincerely believe that the housing market will recover, likely even faster than the stock market.
+The week right before the shutdown was the busiest week I’ve ever seen in real estate. I was selling homes just hours after they went live, some for $5,000 to $10,000 over list price. Given that, I think that real estate will eventually pick up again. Obviously, there will be some lag time, since so many of us are out of work; the economy will have to catch up to the housing market first. However, I sincerely believe that the housing market will recover, likely even faster than the stock market.
 
 Lately, I’ve been on calls with clients, friends, and business owners around the country to talk about what’s been happening with the coronavirus and how we can get ahead of it. Many agents are distraught—we’ve cried together and prayed together.
 
-But here’s my general thought: **We can’t look back**. We can’t change the past. I’m an investor; I usually have CNBC on all day in my office, but I haven’t turned it on in 10 days. My retirement accounts are wiped.&nbsp;
+Here’s my general thought: **We can’t look back**. We can’t change the past. I’m an investor; I usually have CNBC on all day in my office, but I haven’t turned it on in 10 days. My retirement accounts are wiped.&nbsp;
 
-But even still, **we can’t classify our past decisions based on the information we had then**. Nobody saw this coming. Things are the way they are now, and we need to focus on making logical decisions, not irrational ones that likely can harm us even more.
+Still, **we can’t classify our past decisions based on the information we had then**. Nobody saw this coming. Things are the way they are now, and we need to focus on making logical decisions, not irrational ones that likely can harm us even more.
 
 {% include pullquote.html %}
 
-Going forward, remember that we’re the greatest country in the world—we will get through this. But to get there, we need to come together as a nation and do what’s right. And at the moment, what’s right is staying inside and helping to stop the spread of the virus. The longer we delay social distancing, the longer this pandemic will last.
+Going forward, remember that we’re the greatest country in the world—we will get through this. However, to get there, we need to come together as a nation and do what’s right. At the moment, what’s right is staying inside and helping to stop the spread of the virus. The longer we delay social distancing, the longer this pandemic will last.
 
 In fact, after speaking with business owners around the country, I’m 100% in favor of a complete shutdown until we can manage the spread and provide our medical professionals with the tools they need.
 
