@@ -26,7 +26,7 @@ What’s going on in our North San Diego County real estate market? Today I’m 
 
 That’s a 35% to 40% drop. This means there aren’t a whole lot of properties for buyers to choose from. **If you’re a seller and you price and market your property well, you should get a lot of traffic.&nbsp;**
 
-Part of the reason for this is interest rates. At the end of February 2019, they sat at 4.41%. At the end of January of this year, they dropped to 3.51%, and then dropped even further last February to 3.3%.&nbsp;
+Part of the reason for this is interest rates. At the end of February 2019, they sat at 4.41%. At the end of January of this year, they dropped to 3.51% and then dropped even further last February to 3.3%.&nbsp;
 
 {% include pullquote.html %}
 
