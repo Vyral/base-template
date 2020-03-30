@@ -21,7 +21,7 @@ youtube_code: nDMTEy4BQBQ
 
 {% include youtube.html %}
 
-Join me for an informative online home seller seminar this April. Here’s all the information you need to know.
+<p style="text-align: center;"><em>Join me for an informative online home seller seminar this April. Here’s all the information you need to know.</em></p>
 
 America always overcomes adversity, and in adversity there is always opportunity. In these challenging times, homeowners are wondering how the virus outbreak affects the value of their home. They are also wondering whether it’s a good time to put their home on the market.
 
