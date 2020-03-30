@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adapting to the Coronavirus Market
-date:
+date: 2020-03-30 13:30:15
 tags:
 excerpt:
 enclosure:
