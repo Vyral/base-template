@@ -8,7 +8,7 @@ permalink: /COVID19-resources
 
 # COVID-19 Resources for the Islands and Beyond
 
-##### <br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbreaking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.&nbsp;[Track COVID-19 cases in realtime with the John Hopkins map.](https://coronavirus.jhu.edu/map.html){: target="_blank"}
+##### <br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbreaking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.&nbsp;***[Track COVID-19 cases in realtime with the John Hopkins map.](https://coronavirus.jhu.edu/map.html){: target="_blank"}***
 
 ##### &nbsp;
 
