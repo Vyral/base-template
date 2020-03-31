@@ -40,11 +40,7 @@ permalink: /COVID19-resources
 
 ##### <br>***[Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;***is piecing together the latest information on Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.&nbsp;<br>&nbsp;
 
-##### ***[Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}***&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;<br>&nbsp;
-
-##### Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.<br>&nbsp;
-
-##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
+##### ***[Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}***&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;
 
 ##### &nbsp;
 
@@ -59,6 +55,10 @@ permalink: /COVID19-resources
 ##### ***[Kauai Farm Connection](https://www.facebook.com/pages/category/Grocery-Store/Kauai-Farm-Connection-636093703130869/){: target="_blank"}***&nbsp;– Offering island-wide delivery and pick-up points. Weekly subscriptions start at $35.<br>Monday – Saturday, 10am – 6pm.<br>&nbsp;
 
 ##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!<br>&nbsp;
+
+##### Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.<br>&nbsp;
+
+##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
 
 ### **Kupuna Kare of Farmer Fare**
 
