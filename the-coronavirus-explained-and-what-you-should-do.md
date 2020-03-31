@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: page
 title: The Coronavirus Explained and What You Should Do
 permalink: /COVID19-resources
 ---
+
+&nbsp;
 
 **Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.**
 
@@ -36,7 +38,7 @@ The added resources below provide guidance on how to navigate this situation. We
 
 [GET READY HAWAI’I](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}&nbsp;– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.
 
-## <u>FOOD</u>**<u> -</u>**<br>&nbsp;
+## <u>FOOD</u>**<u> -</u>**
 
 [Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;is piecing together the latest information on&nbsp;**Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.**&nbsp;
 
@@ -49,13 +51,9 @@ How does it work: a farmer offers a certain number of “shares” to the public
 ### Kauai’s Local CSAs:
 
 * [Āina Hoʻokupu O Kīlauea’s (AHK’s)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.
-
 * .[Kauai Glory Farm](https://monkeypodjam.com/collections/csa-kauai-glory-farm){: target="_blank"}&nbsp;– Monkeypod Jam is hosting this CSA Monday – Saturday; pick up or delivery to the South Side. This partnership offers Glory Farm produce, Monkeypod Jam preserves, and their bistro items for family dinners.
-
 * [Kauai Farm Connection](https://www.facebook.com/pages/category/Grocery-Store/Kauai-Farm-Connection-636093703130869/){: target="_blank"}&nbsp;– Offering island-wide delivery and pick-up points. Weekly subscriptions start at $35.
-
 * Monday – Saturday, 10am – 6pm.
-
 * [Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!
 
 ### Kupuna Kare of Farmer Fare
@@ -72,7 +70,7 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [151+ Things To Do While You’re At Home and Practicing Social Distancing](https://blakenelson.com/things-to-do-at-home/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=kw_luxury_151_things_to_do_while_youre_at_home&amp;utm_term=2020-03-26){: target="_blank"}&nbsp;– Here is a list of ideas from Blake Nelson Kansas City Real Estate that could help our clients and friends who suddenly find themselves at home.
 
-## <u><strong>FINANCIAL -</strong></u><br>&nbsp;
+## <u><strong>FINANCIAL -</strong></u>
 
 [COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;[Business.com](http://business.com/){: target="_blank"}.
 
