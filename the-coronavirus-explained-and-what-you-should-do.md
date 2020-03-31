@@ -52,10 +52,13 @@ permalink: /COVID19-resources
 
 ### Kauai’s Local CSAs:
 
-* ##### [***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
-* ##### ***[Kauai Glory Farm](https://monkeypodjam.com/collections/csa-kauai-glory-farm){: target="_blank"}***&nbsp;– Monkeypod Jam is hosting this CSA Monday – Saturday; pick up or delivery to the South Side. This partnership offers Glory Farm produce, Monkeypod Jam preserves, and their bistro items for family dinners.<br>&nbsp;
-* ##### ***[Kauai Farm Connection](https://www.facebook.com/pages/category/Grocery-Store/Kauai-Farm-Connection-636093703130869/){: target="_blank"}***&nbsp;– Offering island-wide delivery and pick-up points. Weekly subscriptions start at $35.<br>Monday – Saturday, 10am – 6pm.<br>&nbsp;
-* ##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!
+##### [***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
+
+##### ***[Kauai Glory Farm](https://monkeypodjam.com/collections/csa-kauai-glory-farm){: target="_blank"}***&nbsp;– Monkeypod Jam is hosting this CSA Monday – Saturday; pick up or delivery to the South Side. This partnership offers Glory Farm produce, Monkeypod Jam preserves, and their bistro items for family dinners.<br>&nbsp;
+
+##### ***[Kauai Farm Connection](https://www.facebook.com/pages/category/Grocery-Store/Kauai-Farm-Connection-636093703130869/){: target="_blank"}***&nbsp;– Offering island-wide delivery and pick-up points. Weekly subscriptions start at $35.<br>Monday – Saturday, 10am – 6pm.<br>&nbsp;
+
+##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!<br>&nbsp;
 
 ### Kupuna Kare of Farmer Fare
 
@@ -79,10 +82,6 @@ permalink: /COVID19-resources
 
 ##### SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
 
-##### &nbsp;
-
-##### &nbsp;
-
 ##### <br>&nbsp;
 
-#### ***[Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}***&nbsp;– Current travel advisories in the State of Hawai’i.
+#### ***[Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}***&nbsp;– Current travel advisories in the State of Hawai’i.<br><br><br>&nbsp;
