@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/AD8nXNTVLcU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a look at how inventory levels changed over time—the numbers are staggering.</em></p>
+
 Here’s a quick update about where our real estate market has been, where it’s at right now, and where it’s headed in the future.
 
 We started the year in a strong seller’s market; we’re down 48% on listings from last year, and inventory has been disappearing. **At 0:39, you’ll be able to see a color-coded, time-lapsed map illustrating the change in inventory starting January 12 of this year.** We used different colors for different ZIP codes (ranging from light green to dark red), and the darker the color, the less inventory in that area.&nbsp;
