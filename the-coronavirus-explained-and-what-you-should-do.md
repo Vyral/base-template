@@ -10,7 +10,7 @@ permalink: /COVID19-resources
 
 <p style="font-size:18px"><br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.</p>
 
-We recommend focusing on updated information from these organizations:
+<p style="font-size:18px">We recommend focusing on updated information from these organizations:
 
 [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}
 
@@ -24,7 +24,7 @@ We recommend focusing on updated information from these organizations:
 
 We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
 
-[CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"}
+[CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"}</p>
 
 ## ADDITIONAL RESOURCES -
 
