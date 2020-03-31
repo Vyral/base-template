@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Let Us Know How We Can Help
-date: 2020-03-31 16:00:26
+date: 2020-03-31 16:00:00
 tags:
   - Real Estate
 excerpt: 'During this challenging time, we’re here to help with whatever you need.'
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-were-here-to-help-yt.jpg
-youtube_code: nkMXw9aCDfQ
+youtube_code: Ve_u48DNNDQ
 ---
 
 {% include youtube.html %}
