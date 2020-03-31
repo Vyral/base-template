@@ -8,7 +8,7 @@ permalink: /COVID19-resources
 
 # THE CORONAVIRUS EXPLAINED AND WHAT YOU SHOULD DO
 
-<font size="15"><br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
+<font size="12"><br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
 
 We recommend focusing on updated information from these organizations:
 
@@ -18,7 +18,7 @@ We recommend focusing on updated information from these organizations:
 
 [County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}
 
-[State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<font>
+[State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}</font>
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
