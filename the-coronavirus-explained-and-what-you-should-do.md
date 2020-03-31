@@ -1,30 +1,26 @@
 ---
 layout: page
-title: The Coronavirus Explained and What You Should Do
+title: COVID19 Resources for the Islands and Beyond
 permalink: /COVID19-resources
 ---
 
 &nbsp;
 
-# THE CORONAVIRUS EXPLAINED AND WHAT YOU SHOULD DO
+# COVID-19 Resources for the Islands and Beyond
 
 ##### <br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
 
-##### We recommend focusing on updated information from these organizations:<br>&nbsp;
+##### &nbsp;
 
-##### ***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}***<br>&nbsp;
+## THE CORONAVIRUS EXPLAINED -&nbsp;<br><br>[![](/uploads/screenshot-2020-03-31-09-28-46.png){: width="1996" height="1042"}](https://www.youtube.com/watch?v=BtN-goy9VOY){: target="_blank"}<br><br>OFFICAL SITES -
+
+## <br>***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}&nbsp;***
 
 ##### ***[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}***<br>&nbsp;
 
 ##### ***[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}***<br>&nbsp;
 
-##### [***State of Hawai’i, Department of Health***](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br>&nbsp;
-
-## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
-
-##### <br>We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation<br>&nbsp;
-
-##### [***CALL US FOR HELP***](www.kauairealestatesearch.com){: target="_blank"}<br>&nbsp;
+##### [***State of Hawai’i, Department of Health***](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br><br>&nbsp;
 
 ## ADDITIONAL RESOURCES -
 
@@ -48,7 +44,11 @@ permalink: /COVID19-resources
 
 ##### Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.<br>&nbsp;
 
-##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.<br>&nbsp;
+##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
+
+##### &nbsp;
+
+##### ![](/uploads/screenshot-2020-03-31-12-01-39.png){: width="2364" height="762"}<br>&nbsp;
 
 ### **Kauai’s Local CSAs**
 
@@ -74,12 +74,16 @@ permalink: /COVID19-resources
 
 ##### ***[151+ Things To Do While You’re At Home and Practicing Social Distancing](https://blakenelson.com/things-to-do-at-home/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=kw_luxury_151_things_to_do_while_youre_at_home&amp;utm_term=2020-03-26){: target="_blank"}***&nbsp;– Here is a list of ideas from Blake Nelson Kansas City Real Estate that could help our clients and friends who suddenly find themselves at home.<br>&nbsp;
 
+## FUN WITH KIDS -
+
+##### <br>Our favorite is ***[The Dad Lab on Youtube](https://www.youtube.com/channel/UCc_-hy0u9-oKlNdMKHBudcQ){: target="_blank"}***\! Lots of FUN, interesting, educational activities with kids.&nbsp;<br><br><u>HOT TIP:</u> Choose the ones with the fast simple set up/clean-ups and see what your kids enjoy learning\!&nbsp;[https://thedadlab.com/tracing-shadows-activity/](https://thedadlab.com/tracing-shadows-activity/){: target="_blank"}.<br><br>OR ***[53 Fun Things to Do with Kids while on Lockdown&nbsp;](https://youtu.be/2ULBBm1bHCI){: target="_blank"}***<br>&nbsp;
+
 ## FINANCIAL -
 
 ##### <br>***[COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}***&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;***[Business.com](http://business.com/){: target="_blank"}***.<br>&nbsp;
 
 ##### [***How to Get Mortgage Relie***f](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.<br>&nbsp;
 
-##### SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
+##### ***[SBA Disaster Loan Program](https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Link2-USChamber+Small+Business+ELA+Loan+Guide+&#40;1&#41;.pdf){: target="_blank"}*** - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
 
-#### <br>***[Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}***&nbsp;– Current travel advisories in the State of Hawai’i.<br><br><br>&nbsp;
+#### <br><br><br><br>&nbsp;
