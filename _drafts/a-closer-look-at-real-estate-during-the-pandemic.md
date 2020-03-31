@@ -19,7 +19,9 @@ youtube_code: XHkQesEn9rc
 
 {% include youtube.html %}
 
-With everything that’s going on, a lot of people are worried that the market is going to fail or crash. However, we don’t believe that will be the case. **When the stock market is tanking like it is right now, people tend to take their money off Wall Street and put it into real estate because it’s generally a safe investment**. We saw this happen after 9/11, the financial crisis of 2008, and other periods of uncertainty. During times like this, people put their money into mortgage-backed securities.
+<center><em>While there are certainly a number of unknowns regarding the market, we’re still able to make sense of what we’re seeing based on past events.</em></center>
+
+<br>With everything that’s going on, a lot of people are worried that the market is going to fail or crash. However, we don’t believe that will be the case. **When the stock market is tanking like it is right now, people tend to take their money off Wall Street and put it into real estate because it’s generally a safe investment**. We saw this happen after 9/11, the financial crisis of 2008, and other periods of uncertainty. During times like this, people put their money into mortgage-backed securities.
 
 It’s a very fluid situation, but we’re always on top of it from every different angle. If you need any advice, please reach out to us.
 
