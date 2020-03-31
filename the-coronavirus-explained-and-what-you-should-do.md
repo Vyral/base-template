@@ -82,6 +82,6 @@ permalink: /COVID19-resources
 
 ##### SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
 
-##### <br>&nbsp;
+##### &nbsp;
 
 #### ***[Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}***&nbsp;– Current travel advisories in the State of Hawai’i.<br><br><br>&nbsp;
