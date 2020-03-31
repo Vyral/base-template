@@ -7,7 +7,7 @@ tags:
   - Market Update
 excerpt: >-
   While there are certainly a number of unknowns regarding the market, we’re
-  still able to make sense of what we’re seeing based on past events.
+  still able to make sense of what we’re seeing.
 enclosure:
 pullquote: People tend to take their money off Wall Street and put it into real estate.
 enclosure_type: video/mp4
