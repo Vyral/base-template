@@ -22,17 +22,17 @@ permalink: /COVID19-resources
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
-We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
+<p style="font-size:18px">We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation</p>
 
 [CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"} 
 
 ## ADDITIONAL RESOURCES -
 
-The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.
+<p style="font-size:18px">The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.</p>
 
-[What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}&nbsp;– Important information you should know according to Hawaii’s Department of Health.
+[What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}&nbsp;–<p style="font-size:18px"> Important information you should know according to Hawaii’s Department of Health.</p>
 
-[How to be safe with food and packages -](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;This video from a physician in Michigan demonstrates some very conscious techniques for staying safe in the kitchen.
+[How to be safe with food and packages -](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;<p style="font-size:18px">This video from a physician in Michigan demonstrates some very conscious techniques for staying safe in the kitchen.</p>
 
 [How to Prevent the Spread of COVID-19](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;– Following simple steps can prevent the spread of COVID-19 and reduce its impact on our communities.
 
