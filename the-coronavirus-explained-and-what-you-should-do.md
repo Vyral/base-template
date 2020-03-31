@@ -22,13 +22,13 @@ permalink: /COVID19-resources
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
-##### We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation<br>&nbsp;
+##### <br>We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation<br>&nbsp;
 
 ##### [***CALL US FOR HELP***](www.kauairealestatesearch.com){: target="_blank"}<br>&nbsp;
 
 ## ADDITIONAL RESOURCES -
 
-##### The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.<br>&nbsp;
+##### <br>The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.<br>&nbsp;
 
 ##### ***[What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}***&nbsp;–Important information you should know according to Hawaii’s Department of Health.<br>&nbsp;
 
@@ -42,7 +42,7 @@ permalink: /COVID19-resources
 
 ## FOOD -
 
-##### ***[Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;***is piecing together the latest information on Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.&nbsp;<br>&nbsp;
+##### <br>***[Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;***is piecing together the latest information on Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.&nbsp;<br>&nbsp;
 
 ##### ***[Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}***&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;<br>&nbsp;
 
@@ -52,7 +52,7 @@ permalink: /COVID19-resources
 
 ### Kauai’s Local CSAs:
 
-##### [***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
+##### <br>[***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
 
 ##### ***[Kauai Glory Farm](https://monkeypodjam.com/collections/csa-kauai-glory-farm){: target="_blank"}***&nbsp;– Monkeypod Jam is hosting this CSA Monday – Saturday; pick up or delivery to the South Side. This partnership offers Glory Farm produce, Monkeypod Jam preserves, and their bistro items for family dinners.<br>&nbsp;
 
@@ -62,7 +62,7 @@ permalink: /COVID19-resources
 
 ### Kupuna Kare of Farmer Fare
 
-##### Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.<br>&nbsp;
+##### <br>Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.<br>&nbsp;
 
 ##### To prevent the spread of disease, the program has been designed as drop off only with no interaction between deliverer and the recipient.<br>&nbsp;
 
@@ -76,7 +76,7 @@ permalink: /COVID19-resources
 
 ## FINANCIAL -
 
-##### ***[COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}***&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;***[Business.com](http://business.com/){: target="_blank"}***.<br>&nbsp;
+##### <br>***[COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}***&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;***[Business.com](http://business.com/){: target="_blank"}***.<br>&nbsp;
 
 ##### [***How to Get Mortgage Relie***f](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.<br>&nbsp;
 
