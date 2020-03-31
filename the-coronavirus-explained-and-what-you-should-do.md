@@ -6,9 +6,9 @@ permalink: /COVID19-resources
 
 &nbsp;
 
-**Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.**
+Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
 
-**We recommend focusing on updated information from these organizations:**
+We recommend focusing on updated information from these organizations:
 
 [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}
 
@@ -20,11 +20,11 @@ permalink: /COVID19-resources
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
-**We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation**
+We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
 
 [CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"}
 
-## <u>ADDITIONAL RESOURCES -</u>
+## ADDITIONAL RESOURCES -
 
 The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.
 
@@ -38,13 +38,13 @@ The added resources below provide guidance on how to navigate this situation. We
 
 [GET READY HAWAI’I](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}&nbsp;– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.
 
-## <u>FOOD</u>**<u> -</u>**
+## FOOD -
 
-[Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;is piecing together the latest information on&nbsp;**Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.**&nbsp;
+[Malama Kauai](http://www.malamakauai.org/mk/buy-local-produce/){: target="_blank"}&nbsp;is piecing together the latest information on Farmers Markets currently open, where to purchase local meats, retail outlets carrying local produce, and various CSA Deliveries.&nbsp;
 
-[Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}**&nbsp;is**&nbsp;Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;
+[Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;
 
-**Community Supported Agriculture**&nbsp;(CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
+Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
 
 How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
 
@@ -58,11 +58,11 @@ How does it work: a farmer offers a certain number of “shares” to the public
 
 ### Kupuna Kare of Farmer Fare
 
-Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (*elderly*) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
+Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
 
 To prevent the spread of disease, the program has been designed as drop off only with no interaction between deliverer and the recipient.
 
-If you’re 70 years or older on Kauai and would like to participate, please call&nbsp;**808-241-4470**. If you’re a Sunshine Market farmer and would like to participate, please call&nbsp;**808-241-4299.**
+If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.
 
 [Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
 
@@ -70,7 +70,7 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [151+ Things To Do While You’re At Home and Practicing Social Distancing](https://blakenelson.com/things-to-do-at-home/?utm_source=newsletter&amp;utm_medium=email&amp;utm_campaign=kw_luxury_151_things_to_do_while_youre_at_home&amp;utm_term=2020-03-26){: target="_blank"}&nbsp;– Here is a list of ideas from Blake Nelson Kansas City Real Estate that could help our clients and friends who suddenly find themselves at home.
 
-## <u><strong>FINANCIAL -</strong></u>
+## FINANCIAL -
 
 [COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;[Business.com](http://business.com/){: target="_blank"}.
 
