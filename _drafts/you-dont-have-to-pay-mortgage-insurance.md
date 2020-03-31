@@ -18,7 +18,9 @@ youtube_code: xB5ULrC-OYc
 
 {% include youtube.html %}
 
-There’s a large misconception that if you don’t put down 20% when you buy a home, you’ll be required to pay for mortgage insurance. Due to this, most buyers end up spending thousands of dollars on mortgage insurance over time.
+<center><em>When you buy a home with us, we can give you access to a program that can save you tens of thousands of dollars over time</em></center>
+
+<br>There’s a large misconception that if you don’t put down 20% when you buy a home, you’ll be required to pay for mortgage insurance. Due to this, most buyers end up spending thousands of dollars on mortgage insurance over time.
 
 However, **Franklin Loan Center offers a program that only requires 3% down with no mortgage insurance throughout the life of the loan**. This allows you to keep money in your pocket and fix your monthly payment to exactly where you want it to be.
 
