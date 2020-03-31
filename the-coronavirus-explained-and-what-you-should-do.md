@@ -44,7 +44,7 @@ permalink: /COVID19-resources
 
 ##### &nbsp;
 
-##### ![](/uploads/screenshot-2020-03-31-12-01-39.png){: width="560" height="315"}<br>&nbsp;
+##### ![](/uploads/screenshot-2020-03-31-12-01-39.png){: width="900" height="315"}<br>&nbsp;
 
 ### **Kauai’s Local CSAs**
 
