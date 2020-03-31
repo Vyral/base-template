@@ -30,9 +30,9 @@ permalink: /COVID19-resources
 
 <p style="font-size:18px">The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.</p>
 
-[What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}&nbsp;–<p style="font-size:18px"> Important information you should know according to Hawaii’s Department of Health.</p>
+[What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}&nbsp;–Important information you should know according to Hawaii’s Department of Health.
 
-[How to be safe with food and packages -](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;<p style="font-size:18px">This video from a physician in Michigan demonstrates some very conscious techniques for staying safe in the kitchen.</p>
+[How to be safe with food and packages -](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;This video from a physician in Michigan demonstrates some very conscious techniques for staying safe in the kitchen.
 
 [How to Prevent the Spread of COVID-19](https://health.hawaii.gov/coronavirusdisease2019/what-you-can-do/how-to-prevent-the-spread-of-covid-19/){: target="_blank"}&nbsp;– Following simple steps can prevent the spread of COVID-19 and reduce its impact on our communities.
 
@@ -46,9 +46,9 @@ permalink: /COVID19-resources
 
 [Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;
 
-Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
+<p style="font-size:18px">Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
 
-How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
+How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.</p>
 
 ### Kauai’s Local CSAs:
 
@@ -60,11 +60,11 @@ How does it work: a farmer offers a certain number of “shares” to the public
 
 ### Kupuna Kare of Farmer Fare
 
-Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
+<p style="font-size:18px">Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
 
 To prevent the spread of disease, the program has been designed as drop off only with no interaction between deliverer and the recipient.
 
-If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.
+If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.</p>
 
 [Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
 
@@ -78,6 +78,6 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.
 
-SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. DOWNLOAD THE GUIDE
+<p style="font-size:18px">SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. </p>
 
 [Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}&nbsp;– Current travel advisories in the State of Hawai’i.
