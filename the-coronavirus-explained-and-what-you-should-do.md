@@ -14,7 +14,7 @@ permalink: /COVID19-resources
 
 ## THE CORONAVIRUS EXPLAINED -&nbsp;<br><br>[![](/uploads/screenshot-2020-03-31-09-28-46.png){: width="560" height="315"}](https://www.youtube.com/watch?v=BtN-goy9VOY){: target="_blank"}<br><br>OFFICAL SITES -
 
-## <br>***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}&nbsp;***
+##### <br>***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}&nbsp;***
 
 ##### ***[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}***<br>&nbsp;
 
