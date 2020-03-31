@@ -17,7 +17,7 @@ youtube_code: Ve_u48DNNDQ
 
 {% include youtube.html %}
 
-Are you all doing well? It’s important to all of us at the Wolek Group that we connect with our friends, family, and community to make sure you’re safe and that we’re providing you with all the resources we possibly can. **If you need anything at all, please reach out to us.** We’ve already sent you helpful resources, but we want to be doubly sure you have everything you need.&nbsp;
+Are you all doing well? It’s important to all of us at The Wolek Group that we connect with our friends, family, and community to make sure you’re safe and that we’re providing you with all the resources we possibly can. **If you need anything at all, please reach out to us.** We’ve already sent you helpful resources, but we want to be doubly sure you have everything you need.&nbsp;
 
 We have a Facebook page called **[Tulsa Looks Good on You](https://www.facebook.com/tulsalooksgoodonyou/){: target="_blank"}**, which was created to share all the wonderful things Tulsa has to offer, and during this time we’re being extremely deliberate about adding helpful things to it to assist our community. We look forward to seeing you soon and giving you a real hug or handshake—for now, it’s virtual.&nbsp;
 
