@@ -50,7 +50,7 @@ permalink: /COVID19-resources
 
 ##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.<br>&nbsp;
 
-### Kauai’s Local CSAs:
+### **Kauai’s Local CSAs**
 
 ##### <br>[***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
 
@@ -60,7 +60,7 @@ permalink: /COVID19-resources
 
 ##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!<br>&nbsp;
 
-### Kupuna Kare of Farmer Fare
+### **Kupuna Kare of Farmer Fare**
 
 ##### <br>Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.<br>&nbsp;
 
