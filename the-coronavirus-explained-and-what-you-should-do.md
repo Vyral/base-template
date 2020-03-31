@@ -16,7 +16,7 @@ permalink: /COVID19-resources
 
 ##### <br>***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}&nbsp;***
 
-##### ***[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}***<br>&nbsp;
+##### <br>***[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}***<br>&nbsp;
 
 ##### ***[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}***<br>&nbsp;
 
