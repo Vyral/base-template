@@ -8,23 +8,23 @@ permalink: /COVID19-resources
 
 # THE CORONAVIRUS EXPLAINED AND WHAT YOU SHOULD DO
 
-<br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
+##### <br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
 
-We recommend focusing on updated information from these organizations:
+##### We recommend focusing on updated information from these organizations:<br>&nbsp;
 
-[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}
+##### [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}<br>&nbsp;
 
-[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}
+##### [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}<br>&nbsp;
 
-[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}
+##### [County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}<br>&nbsp;
 
-[State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}
+##### [State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br>&nbsp;
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
-We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
+##### We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation<br>&nbsp;
 
-[CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"} 
+##### [CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"}<br>&nbsp;
 
 ## ADDITIONAL RESOURCES -
 
@@ -78,6 +78,6 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.
 
-SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. 
+SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
 
 [Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}&nbsp;– Current travel advisories in the State of Hawai’i.
