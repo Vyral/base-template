@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Coronavirus Explained and What You Should Do
 permalink: /COVID19-resources
 ---
