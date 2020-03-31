@@ -11,20 +11,21 @@ permalink: /COVID19-resources
 <p style="font-size:18px"><br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.</p>
 
 <p style="font-size:18px">We recommend focusing on updated information from these organizations:
+<br>
 
-[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}
+[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}<br>
 
-[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}
+[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}<br>
 
-[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}
+[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}<br>
 
-[State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}
+[State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br></p>
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
 We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
 
-[CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"}</p>
+[CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"} 
 
 ## ADDITIONAL RESOURCES -
 
