@@ -12,13 +12,13 @@ permalink: /COVID19-resources
 
 ##### We recommend focusing on updated information from these organizations:<br>&nbsp;
 
-##### [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}<br>&nbsp;
+##### ***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}***<br>&nbsp;
 
-##### [World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}<br>&nbsp;
+##### ***[World Health Organization](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/events-as-they-happen){: target="_blank"}***<br>&nbsp;
 
-##### [County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}<br>&nbsp;
+##### ***[County of&nbsp; Kauai Coronavirus Updates - Emergency Rules](http://www.kauai.gov/covid-19){: target="_blank"}***<br>&nbsp;
 
-##### [State of Hawai’i, Department of Health](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br>&nbsp;
+##### [***State of Hawai’i, Department of Health***](https://health.hawaii.gov/coronavirusdisease2019/){: target="_blank"}<br>&nbsp;
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
