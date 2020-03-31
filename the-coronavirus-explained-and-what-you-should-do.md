@@ -12,7 +12,7 @@ permalink: /COVID19-resources
 
 ##### &nbsp;
 
-## THE CORONAVIRUS EXPLAINED -&nbsp;<br><br>[![](/uploads/screenshot-2020-03-31-09-28-46.png){: width="1996" height="1042"}](https://www.youtube.com/watch?v=BtN-goy9VOY){: target="_blank"}<br><br>OFFICAL SITES -
+## THE CORONAVIRUS EXPLAINED -&nbsp;<br><br>[![](/uploads/screenshot-2020-03-31-09-28-46.png){: width="560" height="315"}](https://www.youtube.com/watch?v=BtN-goy9VOY){: target="_blank"}<br><br>OFFICAL SITES -
 
 ## <br>***[Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}&nbsp;***
 
@@ -44,7 +44,7 @@ permalink: /COVID19-resources
 
 ##### &nbsp;
 
-##### ![](/uploads/screenshot-2020-03-31-12-01-39.png){: width="2364" height="762"}<br>&nbsp;
+##### ![](/uploads/screenshot-2020-03-31-12-01-39.png){: width="560" height="315"}<br>&nbsp;
 
 ### **Kauai’s Local CSAs**
 
