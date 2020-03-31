@@ -66,7 +66,7 @@ To prevent the spread of disease, the program has been designed as drop off only
 
 If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.</p>
 
-[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
+<p style="font-size:18px">[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
 
 [Food-A-Go-Go](https://foodagogo.org/){: target="_blank"}&nbsp;– A campaign where you can find the latest information on restaurants statewide offering takeout, delivery and/or curbside pickup. It’s a free service offering lots of different options from fine dining to family restaurants to takeout operations.
 
@@ -76,7 +76,7 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;[Business.com](http://business.com/){: target="_blank"}.
 
-[How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.
+[How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.</p>
 
 <p style="font-size:18px">SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. </p>
 
