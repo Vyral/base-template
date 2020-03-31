@@ -8,9 +8,9 @@ permalink: /COVID19-resources
 
 # THE CORONAVIRUS EXPLAINED AND WHAT YOU SHOULD DO
 
-<p style="font-size:18px"><br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.</p>
+<br>Like so much of our nation, we continue to learn about the pandemic, learn about how to protect ourselves and our family, and how to find accurate information and avoid misinformation. It is heartbraking to see the devastation in the pandemics hot spots and we pray that social distancing starts taking hold to reverse the current trends. We want to provide you with resources and updates about the evolving COVID-19 (coronavirus) outbreak all in one convenient page. Information about the virus is being circulated at a rapid pace, from multiple sources.
 
-<p style="font-size:18px">We recommend focusing on updated information from these organizations:</p>
+We recommend focusing on updated information from these organizations:
 
 [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/index.html){: target="_blank"}
 
@@ -22,13 +22,13 @@ permalink: /COVID19-resources
 
 ## HOW OUR TEAM IS OPERATING IN A SAFE MANNER
 
-<p style="font-size:18px">We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation</p>
+We remain in a high state of readiness to serve you and your families. The real estate market has adapted like most other industries to doing more virtually and remotely. The lending industry is still quite volatile and some lending sources have dried up. Stay in touch with us to keep track of this very fluid situation
 
 [CALL US FOR HELP](www.kauairealestatesearch.com){: target="_blank"} 
 
 ## ADDITIONAL RESOURCES -
 
-<p style="font-size:18px">The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.</p>
+The added resources below provide guidance on how to navigate this situation. We will update our resource &nbsp;page as new information is available.
 
 [What You Should Know](https://health.hawaii.gov/coronavirusdisease2019/what-you-should-know/){: target="_blank"}&nbsp;–Important information you should know according to Hawaii’s Department of Health.
 
@@ -46,9 +46,9 @@ permalink: /COVID19-resources
 
 [Try Eat Hawai’i](https://tryeathawaii.com/){: target="_blank"}&nbsp;is Kauai’s newest online farmers’ market platform connecting farmers and consumers directly during this time. With an ability to arrange pick up or delivery, the developer, Matthew Oliver, provides a one-stop place to find your local farmers and their produce.&nbsp;
 
-<p style="font-size:18px">Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
+Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.
 
-How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.</p>
+How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
 
 ### Kauai’s Local CSAs:
 
@@ -60,13 +60,13 @@ How does it work: a farmer offers a certain number of “shares” to the public
 
 ### Kupuna Kare of Farmer Fare
 
-<p style="font-size:18px">Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
+Malama Kauai and Hawaii Foodbank launched a program to help benefit our Kupuna (elderly) and farmers. The program distributes produce from our County Sunshine Market Farmers to distribute to our high risk Kapuna throughout the island, for approximately 8 weeks or more, with the help from our team at Elderly Affairs.
 
 To prevent the spread of disease, the program has been designed as drop off only with no interaction between deliverer and the recipient.
 
-If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.</p>
+If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.
 
-<p style="font-size:18px">[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
+[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
 
 [Food-A-Go-Go](https://foodagogo.org/){: target="_blank"}&nbsp;– A campaign where you can find the latest information on restaurants statewide offering takeout, delivery and/or curbside pickup. It’s a free service offering lots of different options from fine dining to family restaurants to takeout operations.
 
@@ -76,8 +76,8 @@ If you’re 70 years or older on Kauai and would like to participate, please cal
 
 [COVID-19 Resource Hub for Small Businesses](https://www.business.com/covid-resources/){: target="_blank"}&nbsp;– Coronavirus Resources to Help Small Businesses Pull Through from&nbsp;[Business.com](http://business.com/){: target="_blank"}.
 
-[How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.</p>
+[How to Get Mortgage Relief](https://www.investopedia.com/how-to-get-mortgage-relief-4800539){: target="_blank"}&nbsp;– Federal regulators have stepped in to offer COVID-19 (coronavirus) mortgage relief.
 
-<p style="font-size:18px">SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. </p>
+SBA Disaster Loan Program - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed. 
 
 [Travel Information](https://health.hawaii.gov/coronavirusdisease2019/travel/travel-advisories/){: target="_blank"}&nbsp;– Current travel advisories in the State of Hawai’i.
