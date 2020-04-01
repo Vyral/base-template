@@ -34,7 +34,14 @@ permalink: /COVID19-resources
 
 ##### ***[COVID-19 information (](https://www.hawaiitourismauthority.org/news/alerts/covid-19-novel-coronavirus/){: target="_blank"}[Hawaii Tourism Authority)](https://www.hawaiitourismauthority.org/news/alerts/covid-19-novel-coronavirus/){: target="_blank"}***&nbsp;– Useful information for tourists from the Hawaiian Tourism Authority.<br>&nbsp;
 
-##### ***[GET READY HAWAI’I](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}***&nbsp;– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.<br>&nbsp;
+##### ***[GET READY HAWAI’I](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}***&nbsp;– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.
+
+##### &nbsp;
+
+##### ***<u>Kauai Facebook Groups:</u>***<br>&nbsp;
+
+1. ##### Kauai Coronavirus -&nbsp;[https://www.facebook.com/groups/KauaiCoronavirus/](https://www.facebook.com/groups/KauaiCoronavirus/){: target="_blank"}
+2. ##### Kauai Takeout or Delivery Service -&nbsp;[https://www.facebook.com/groups/641952066379271/](https://www.facebook.com/groups/641952066379271/){: target="_blank"}
 
 ## FOOD -
 
@@ -48,17 +55,19 @@ permalink: /COVID19-resources
 
 ### **Kauai’s Local CSAs**
 
-##### <br>[***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
+##### &nbsp;
+
+##### Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.<br>&nbsp;
+
+##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.<br>&nbsp;
+
+##### [***Āina Hoʻokupu O Kīlauea’s (AHK’s***)](https://www.ainahookupuokilauea.org/farmersmarketbox){: target="_blank"}&nbsp;– This non-profit is the home of the Kilauea Community Agricultural Center located on Kilauea Rd. Farmers Market Boxes are now available for pick-up. Vegetable Boxes are available for $20, and Fruit Boxes are available for $10 from 8 local farmers. Bring your own container or bag. Hours: Monday – Saturday, 10am – 6pm.<br>&nbsp;
 
 ##### ***[Kauai Glory Farm](https://monkeypodjam.com/collections/csa-kauai-glory-farm){: target="_blank"}***&nbsp;– Monkeypod Jam is hosting this CSA Monday – Saturday; pick up or delivery to the South Side. This partnership offers Glory Farm produce, Monkeypod Jam preserves, and their bistro items for family dinners.<br>&nbsp;
 
 ##### ***[Kauai Farm Connection](https://www.facebook.com/pages/category/Grocery-Store/Kauai-Farm-Connection-636093703130869/){: target="_blank"}***&nbsp;– Offering island-wide delivery and pick-up points. Weekly subscriptions start at $35.<br>Monday – Saturday, 10am – 6pm.<br>&nbsp;
 
-##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. Order by Wednesday to receive your delivery by Saturday. I got my 2 sweet goats from here — they’re the best\!<br>&nbsp;
-
-##### Community Supported Agriculture (CSA) has become a popular way for consumers to buy local, seasonal food directly from a farmer.<br>&nbsp;
-
-##### How does it work: a farmer offers a certain number of “shares” to the public. Typically the share consists of a box of vegetables, but other farm products may be included. Interested consumers purchase a share (aka a “membership” or a “subscription”) and in return receive a box (bag, basket) of seasonal produce each week throughout the farming season.
+##### ***[Kauai Kunana Dairy](https://www.kauaikunanadairy.com/){: target="_blank"}***&nbsp;– specializing in fresh goat cheese and dairy products, the Kunana Dairy farm, located in Kilauea, is offering CSA Produce Boxes and a la carte’ products. They are currently dropping off at multiple island locations or deliver orders over $50 to those that are homebound.<br>&nbsp;
 
 ### **Kupuna Kare of Farmer Fare**
 
