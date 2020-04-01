@@ -34,7 +34,9 @@ permalink: /COVID19-resources
 
 ##### ***[COVID-19 information (](https://www.hawaiitourismauthority.org/news/alerts/covid-19-novel-coronavirus/){: target="_blank"}[Hawaii Tourism Authority)](https://www.hawaiitourismauthority.org/news/alerts/covid-19-novel-coronavirus/){: target="_blank"}***&nbsp;– Useful information for tourists from the Hawaiian Tourism Authority.<br>&nbsp;
 
-##### ***[GET READY HAWAI’I](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}***&nbsp;– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.
+##### ***[Get Ready Hawai'i](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}***– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.<br>&nbsp;
+
+##### **[Sobering COVID-19 Projections](http://covid19.healthdata.org/){: target="_blank"}&nbsp;**\- This site shows the pandemic curves and potential deaths from COVID-19 for each state in the nation
 
 ##### &nbsp;
 
@@ -96,4 +98,6 @@ permalink: /COVID19-resources
 
 ##### ***[SBA Disaster Loan Program](https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Link2-USChamber+Small+Business+ELA+Loan+Guide+&#40;1&#41;.pdf){: target="_blank"}*** - will be helpful for your understanding to decide whether to apply, or not. &nbsp; This new program is an opportunity to help your businesses cover its payroll and rent during this time of likely economic loss, due to Covid-19. There is an application and basic information and tax returns required. Your 2018 tax return will be used in the application if your 2019 is not yet filed.
 
-#### <br><br><br><br>&nbsp;
+#### &nbsp;
+
+##### <br><br><br>&nbsp;
