@@ -40,8 +40,9 @@ permalink: /COVID19-resources
 
 ##### ***<u>Kauai Facebook Groups:</u>***<br>&nbsp;
 
-1. ##### Kauai Coronavirus -&nbsp;[https://www.facebook.com/groups/KauaiCoronavirus/](https://www.facebook.com/groups/KauaiCoronavirus/){: target="_blank"}
-2. ##### Kauai Takeout or Delivery Service -&nbsp;[https://www.facebook.com/groups/641952066379271/](https://www.facebook.com/groups/641952066379271/){: target="_blank"}
+##### 1\. Kauai Coronavirus -&nbsp;[https://www.facebook.com/groups/KauaiCoronavirus/](https://www.facebook.com/groups/KauaiCoronavirus/){: target="_blank"}<br>&nbsp;
+
+##### 2\. Kauai Takeout or Delivery Service -&nbsp;[https://www.facebook.com/groups/641952066379271/](https://www.facebook.com/groups/641952066379271/){: target="_blank"}
 
 ## FOOD -
 
