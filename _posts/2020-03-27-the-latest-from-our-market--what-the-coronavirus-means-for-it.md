@@ -20,7 +20,7 @@ youtube_code: 4SNFWLYtSH8
 
 <p style="text-align: center;"><em>Here’s what the latest numbers tell us about the North San Diego real estate market.</em></p>
 
-What’s going on in our North San Diego County real estate market? Today I’m sharing the latest data from the end of February, along with some thoughts on how the coronavirus is impacting the market.&nbsp;
+What’s going on in our North San Diego County real estate market? Today I’m sharing the latest data from the end of February, along with some thoughts on how the coronavirus is impacting the market. It is important to point out that this data is through February and the video was recorded around 3/20/20. Our current market is highly volatile and may have changed since recording this. If you have ANY questions about your specific situation please call or email for the most up to date information..&nbsp;
 
 **Inventory has gone down dramatically year over year.** In February 2019, there were 2,242 detached homes for sale, which was about three to 3.5 months’ worth of inventory—more than what we normally see. At the end of January of this year, that number dropped to 1,488 homes. At the end of February, it dropped even further to 1,477.&nbsp;
 
