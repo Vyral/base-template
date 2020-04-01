@@ -23,6 +23,6 @@ We have a Facebook page called **[Tulsa Looks Good on You](https://www.facebook.
 
 {% include pullquote.html %}
 
-We do want you to know we’re still doing business. People are still buying and selling homes. We’re watching the numbers every day, and believe it or not, with interest rates still low, there is plenty of activity. For those that need to buy or sell, we’re taking extra steps to be cautious during this health crisis. For example, **we’re conducting tons of virtual open houses, home tours, and appointments via Zoom** **and Facetime.** Still seeing each other sometimes is critical during this distancing period.
+We do want you to know we’re still doing business. People are still buying and selling homes. We’re watching the numbers every day, and believe it or not, with interest rates still low, there is plenty of activity. For those that need to buy or sell, we’re taking extra steps to be cautious during this health crisis. For example, **we’re conducting tons of virtual open houses, home tours, and appointments via Zoom** **and FaceTime.** Still seeing each other sometimes is critical during this distancing period.
 
 If you have questions or need anything, please contact us via phone or email. We look forward to seeing and talking with you soon.
