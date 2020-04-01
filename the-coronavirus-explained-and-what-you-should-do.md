@@ -80,7 +80,11 @@ permalink: /COVID19-resources
 
 ##### If you’re 70 years or older on Kauai and would like to participate, please call 808-241-4470. If you’re a Sunshine Market farmer and would like to participate, please call 808-241-4299.<br>&nbsp;
 
-##### ***[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;***– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.<br>&nbsp;
+##### ***[Grab-and-go Student Meals](http://www.hawaiipublicschools.org/DOE%20Forms/Emergencies/2020GrabandGo.pdf){: target="_blank"}&nbsp;***– The Hawaii State Department of Education (HIDOE) is implementing the Seamless Summer Option program a few months earlier than scheduled, as approved by the U.S. Department of Agriculture (USDA) and Hawaii Child Nutrition Programs, to provide free grab-and-go meals for students during the extended spring break period.
+
+##### &nbsp;
+
+##### ***[Kauai North Shore Food Pantry](http://kauaifoodpantry.org/){: target="_blank"}&nbsp;-&nbsp;******The Kauai North Shore Food Pantry (KNSFP)&nbsp;*******is currently operating at the&nbsp;**********Kauai Independent Food Bank (KIFB)&nbsp;**********on Monday, Tuesday, Thursday, and Friday from 9AM – Noon.&nbsp;********During those times, ask for drug store items or pet food.&nbsp;********Quantities are limited because of supply shortages&nbsp;********Kauai Independent Food Bank (KIFB) is located at******&nbsp;3285 Waapa Rd, Lihue.****<br>&nbsp;
 
 ##### ***[Food-A-Go-Go](https://foodagogo.org/){: target="_blank"}&nbsp;***– A campaign where you can find the latest information on restaurants statewide offering takeout, delivery and/or curbside pickup. It’s a free service offering lots of different options from fine dining to family restaurants to takeout operations.<br>&nbsp;
 
