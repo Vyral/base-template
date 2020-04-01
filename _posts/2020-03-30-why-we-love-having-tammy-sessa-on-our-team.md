@@ -10,10 +10,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: YZRtdGkErns
+youtube_code: PFjbvsRX21w
 ---
 
 {% include youtube.html %}
+
+**This video was shot in February prior to the current COVID-19 situation.**
 
 In today’s episode of our Agent Spotlight series, we’re interviewing Tammy Sessa.&nbsp;
 
