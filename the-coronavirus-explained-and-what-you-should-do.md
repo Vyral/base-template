@@ -36,7 +36,7 @@ permalink: /COVID19-resources
 
 ##### ***[Get Ready Hawai'i](http://dod.hawaii.gov/hiema/get-ready/){: target="_blank"}***– Visit each county’s emergency management website for more information about county-specific preparedness tips and measures. Sign up for free text-based notifications for the latest updates on natural disasters and man-made emergencies.<br>&nbsp;
 
-##### **[Sobering COVID-19 Projections](http://covid19.healthdata.org/){: target="_blank"}&nbsp;**\- This site shows the pandemic curves and potential deaths from COVID-19 for each state in the nation
+##### ***[Sobering COVID-19 Projections](http://covid19.healthdata.org/){: target="_blank"}*&nbsp;**\- This site shows the pandemic curves and potential deaths from COVID-19 for each state in the nation
 
 ##### &nbsp;
 
