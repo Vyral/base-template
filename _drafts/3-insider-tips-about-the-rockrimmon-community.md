@@ -21,7 +21,9 @@ youtube_code: j7QiyeBtjVc
 
 {% include youtube.html %}
 
-Rockrimmon, Colorado is a fantastic place to live and visit. If you haven’t heard of it, here are three insider tips about why you might need to make it a stop on your next road trip:
+<center><em>Here are three insider tips about why you should consider moving to Rockrimmon, Colorado.</em></center>
+
+<br>Rockrimmon, Colorado is a fantastic place to live and visit. If you haven’t heard of it, here are three insider tips about why you might need to make it a stop on your next road trip:
 
 **1\. Location**. If you love hiking, biking, rock climbing, and other outdoor activities, you’ll love Rockrimmon. Ute Valley is nearby and it’s very close to I-25, meaning you’ll have access to all the neighboring amenities, too.
 
