@@ -7,13 +7,13 @@ excerpt: >-
   Here’s what the latest numbers tell us about the North San Diego real estate
   market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mark+Callender/What+Were+Doing+to+Keep+Buyers+and+Sellers+Protected.mp4
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/The+Latest+From+Our+Market+%26+What+the+Coronavirus+Means+for+It.mp4
 pullquote: This is a great time to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: T2HYXiO5Ih4
+youtube_code: 4SNFWLYtSH8
 ---
 
 {% include youtube.html %}
