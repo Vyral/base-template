@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Core Sources of Real Estate Business
-date:
+date: 2020-04-02 15:15:09
 tags:
 excerpt: >-
   There are four core lead generation sources in real estate. These will build
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/gray-youtube-7.jpg
 youtube_code: spwFEYPNJbg
 ---
 
-{% include youtube.html %}<center>There are four core lead generation sources in real estate. These will build the foundation of a successful business.</center>
+{% include youtube.html %}
+
+<center>There are four core lead generation sources in real estate. These will build the foundation of a successful business.</center>
+
+&nbsp;
 
 If you’re a real estate agent, you know there are possibly thousands of ways to generate leads and grow our sales business. If you’re a new agent looking to get started or you’re a seasoned Realtor looking to redirect your lead generation, then you’ll be interested in the four core sources of lead source business. I believe these are the four sources that every real estate agent should focus on until they reach the level of income that fully funds their aspirations. After that, you can experiment with other sources. Here are the core four:
 
