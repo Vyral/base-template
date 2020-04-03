@@ -21,7 +21,7 @@ youtube_code: YCRglZzWBrM
 
 {% include youtube.html %}
 
-Social distancing doesn’t mean we’re completely limited in the ways we can help others.
+<p style="text-align: center;"><em>Social distancing doesn’t mean we’re completely limited in the ways we can help others.</em></p>
 
 Here are four ways you can help out and stay active during this pandemic:&nbsp;
 
