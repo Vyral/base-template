@@ -1,13 +1,14 @@
 ---
 layout: post
 title: We’re Officially an Essential Service
-date: 2020-04-03 18:13:50
+date: 2020-04-03 18:13:00
 tags:
   - Market Update
 excerpt: >-
   I’m giving you an update on a market that, despite existing in unprecedented
   circumstances, is still moving.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Don+Vallee/2020/Were+Officially+an+Essential+Service.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
