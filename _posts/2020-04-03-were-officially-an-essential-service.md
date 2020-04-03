@@ -19,7 +19,7 @@ youtube_code: 92s88KEyneA
 
 {{ include youtube.html }}
 
-I’m giving you an update on a market that, despite existing in unprecedented circumstances, is still moving.
+<p style="text-align:center">I’m giving you an update on a market that, despite existing in unprecedented circumstances, is still moving.</p>
 
 Let’s take time to thank all of our nurses, doctors, scientists, first responders, and officials on the frontlines of this global pandemic and working tirelessly. As of April 1, the governor of Arizona issued a stay-in-place order; real estate has been deemed an essential industry, so we’re continuing to function, albeit with different rules to heighten safety (I’ll expand on these later). We started March with about 450 sales, and in the last week of the month we saw over 300 sales. People are still buying and selling—largely because they have to.&nbsp;
 
