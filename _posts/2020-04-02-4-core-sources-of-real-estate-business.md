@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/gray-youtube-7.jpg
-youtube_code: spwFEYPNJbg
+youtube_code: 9UyeTTdFssU
 ---
 
 {% include youtube.html %}
