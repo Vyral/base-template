@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Dedicated to Keeping You Safe During This Pandemic
-date:
+date: 2020-04-03 19:12:09
 tags:
   - Real Estate
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: 9BYiX6ZC1ZQ
 
 {% include youtube.html %}
 
-<center><em>Even though we’re living through an unprecedented time, we can still help serve your real estate needs while adhering to health and safety guidelines.</em></center>
+<center><em>Even though we&rsquo;re living through an unprecedented time, we can still help serve your real estate needs while adhering to health and safety guidelines.</em></center>
 
 <br>Obviously we’re seeing unprecedented changes in our world with the COVID-19 pandemic. I wanted to reach out today to let you know that we’re still here. **People are still buying and selling homes**, albeit much more safely.
 
