@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Social distancing doesn’t mean we’re completely limited in the ways we can
   help others.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+4+Things+to+Do.mp4
 pullquote: >-
   There are urgent calls for more blood, so make an appointment to give through
   the Red Cross.
