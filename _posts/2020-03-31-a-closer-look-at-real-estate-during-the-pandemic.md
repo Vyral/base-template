@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   While there are certainly a number of unknowns regarding the market, we’re
   still able to make sense of what we’re seeing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/A+Closer+Look+at+Real+Estate+During+the+Pandemic.mp4
 pullquote: People tend to take their money off Wall Street and put it into real estate.
 enclosure_type: video/mp4
 enclosure_time:
