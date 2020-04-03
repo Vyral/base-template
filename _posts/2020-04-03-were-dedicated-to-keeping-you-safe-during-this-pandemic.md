@@ -1,12 +1,12 @@
 ---
 layout: post
 title: We’re Dedicated to Keeping You Safe During This Pandemic
-date: 2020-04-03 19:12:09
+date: 2020-04-03 19:12:00
 tags:
   - Real Estate
 excerpt: >-
   Even though we’re living through an unprecedented time, we can still help
-  serve your real estate needs while adhering to health and safety guidelines.
+  serve your real estate needs.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
