@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/4-2---don-vallee---yt.jpg
 youtube_code: 92s88KEyneA
 ---
 
-{{ include youtube.html }}
+{% include youtube.html %}
 
 <p style="text-align:center"><em>I’m giving you an update on a market that, despite existing in unprecedented circumstances, is still moving.</em></p>
 
