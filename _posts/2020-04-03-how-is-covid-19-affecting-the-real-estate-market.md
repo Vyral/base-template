@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Our Market’s Doing During COVID-19
+title: How is COVID-19 Affecting the Real Estate Market?
 date: 2020-04-03 00:00:00
 tags:
   - Real Estate
