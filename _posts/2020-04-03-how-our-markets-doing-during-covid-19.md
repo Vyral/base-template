@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Our Market’s Doing During COVID-19
-date: 2020-04-06 00:00:00
+date: 2020-04-03 00:00:00
 tags:
   - Real Estate
   - Market Update
