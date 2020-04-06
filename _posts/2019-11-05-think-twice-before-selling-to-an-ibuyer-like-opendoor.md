@@ -16,7 +16,7 @@ youtube_code: aNdePK2hC2A
 
 {% include youtube.html %}
 
-<p style="text-align:center">As a home seller, selling to an iBuyer like Opendoor might seem like a good idea, but you should think twice before doing so.</p>&nbsp;
+<p style="text-align:center"><em>As a home seller, selling to an iBuyer like Opendoor might seem like a good idea, but you should think twice before doing so.</em></p>&nbsp;
 
 Opendoor states that they’ll give you a cash offer and a quick, convenient closing, and they also claim that they may be able to give you an offer that’s above market value. However, **data compiled by Collateral Analytics and the NAR doesn’t support this claim.&nbsp;**
 
