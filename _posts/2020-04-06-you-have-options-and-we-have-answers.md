@@ -18,7 +18,7 @@ youtube_code: 1miuMd9VXPE
 
 {% include youtube.html %}
 
-<center><em>We’ve been keeping a close eye on the options out there for homeowners, renters, and everyone else.</em></center>
+<center><em>We&rsquo;ve been keeping a close eye on the options out there for homeowners, renters, and everyone else.</em></center>
 
 <br>It’s important to know that **there are options available for you out there if you need help paying your mortgage or rent** in the next couple of months. Over the last few weeks, we’ve been taking a look at the stimulus package and what that means for homeowners, renters, and everyone else. We’d be happy to educate you on the topic so feel free to reach out.
 
