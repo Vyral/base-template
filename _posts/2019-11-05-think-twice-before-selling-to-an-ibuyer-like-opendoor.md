@@ -9,7 +9,7 @@ enclosure:
 pullquote: Convenience comes at a cost.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/beware-yt-don-vallee.jpg
 youtube_code: aNdePK2hC2A
 ---
