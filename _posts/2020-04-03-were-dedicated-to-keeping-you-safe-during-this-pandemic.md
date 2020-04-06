@@ -23,3 +23,5 @@ youtube_code: 9BYiX6ZC1ZQ
 <br>Obviously we’re seeing unprecedented changes in our world with the COVID-19 pandemic. I wanted to reach out today to let you know that we’re still here. **People are still buying and selling homes**, albeit much more safely.
 
 **We’re taking extra precautions to ensure that everyone stays safe and healthy**. A lot of our business is being done virtually to adhere to the social distancing guidelines that are in place.
+
+To learn more about how we can help you out during this uncertain time, watch the short video above.
