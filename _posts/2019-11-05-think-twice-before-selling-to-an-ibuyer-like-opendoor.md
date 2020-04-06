@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Think Twice Before Selling to an iBuyer Like Opendoor
-date: 2019-11-05 21:35:32
+date: 2019-11-05 21:35:00
 tags:
   - Real Estate
 excerpt: Selling to an iBuyer isn’t what it’s cracked up to be. Here’s what I mean.
@@ -10,7 +10,7 @@ pullquote: Convenience comes at a cost.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/beware-yt-don-vallee.jpg
 youtube_code: aNdePK2hC2A
 ---
 
