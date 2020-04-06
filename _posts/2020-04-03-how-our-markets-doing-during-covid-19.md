@@ -35,7 +35,7 @@ Take your current situation; play it forward 6 months then plan today for that t
 
 If there is anything our team can do to serve or support you, please reach out to us. It doesn’t need to be real estate related. We are very well connected with people from all walks of life.
 
-Also, remember to go to <u><a target="_blank" href="http://www.5kdraw.ca/">5kdraw.ca</a></u> for weekly and monthly drawings, and of course the grand prize draw of $5000.
+Also, remember to go to <u><a target="_blank" href="http://www.5kdraw.ca/">5kdraw.ca</a></u> for weekly and monthly drawings, and of course the grand prize draw of $5,000.
 
 **What's happening in the market?**
 
