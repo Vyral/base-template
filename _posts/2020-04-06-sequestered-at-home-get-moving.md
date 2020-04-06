@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sequestered at Home? Let's Get an Exercise Plan to Get You Through
+title: Sequestered at home? Get moving!
 date: 2020-04-06 18:18:00
 tags:
 excerpt:
