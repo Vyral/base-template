@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Happy to Give You the Latest Numbers
-date: 2019-07-01 20:12:58
+date: 2019-07-01 20:12:00
 tags:
   - Market Update
 excerpt: >-
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/keyinfo-yt-don-vallee.jpg
 youtube_code: IgmwAleiHzo
 ---
 
