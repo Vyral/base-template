@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If there is anything our team can do to serve or support you, please reach out
   to us.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/How+is+COVID-19+Affecting+the+Real+Estate+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
