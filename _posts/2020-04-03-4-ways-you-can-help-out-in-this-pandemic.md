@@ -34,7 +34,7 @@ At the donation center in Kalispell, like every other center in the nation, prec
 
 {% include pullquote.html %}
 
-**3\. Plant a garden.** Whether it’s in your yard or in pots, grow a garden full of vegetables that mature rather quickly, so that you and others in your community can enjoy an early harvest of, say, lettuce, radishes, and carrots. Not only is it a legitimate food source, it’s also a soul soother; seeing vegetables ripen in a lovely spring garden can symbolize hope for many people in the community.&nbsp;
+**3\. Plant a garden.** Whether it’s in your yard or in pots, grow a garden full of vegetables that mature rather quickly, so that you and others in your community can enjoy an early harvest of, say, lettuce, radishes, and carrots. Not only is it a legitimate food source, but it’s also a soul-soother; seeing vegetables ripen in a lovely spring garden can symbolize hope for many people in the community.&nbsp;
 
 **4\. Check in with friends and family.** I recently participated in a 1,600-person video conference call (of course, not nearly that many faces were visible), and it made me think about all of the various ways we can stay in touch. Isolation can have damaging effects on people’s minds, so lift spirits with a call. If you have an Apple device, you can FaceTime with up to 32 people; if you visit zoom.com, a free video-conferencing platform with paid upgrades available, you can set up a meeting time with others and hop right into a conversation.&nbsp;
 
