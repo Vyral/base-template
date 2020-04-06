@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Frustrations With the Real Estate Industry
-date: 2020-04-03 18:39:55
+date: 2020-04-03 18:39:00
 tags:
   - Transaction Management
   - Buyer Prospects
@@ -20,8 +20,6 @@ youtube_code: r3TXYfm3L68
 ---
 
 {% include youtube.html %}
-
-Sometimes I feel like I’m talking to a wall with these videos, but I do want to express some of my frustrations with the real estate industry today.&nbsp;
 
 **This industry is hard, and I want everyone to know that.** I think with the internet, buyers have access to everything and sort of devalue what we do a little bit. I also think it’s hard because a lot of them have unrealistic expectations. If you aren’t able to show them a house at the drop of a hat, you could get dropped yourself.&nbsp;
 
