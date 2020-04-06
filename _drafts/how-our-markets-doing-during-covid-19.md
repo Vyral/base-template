@@ -43,7 +43,7 @@ Prices were already forecasted to ease this year due to oversupply in our market
 
 However, price declines will likely be higher than originally expected due to the combined impact of the pandemic and energy sector crisis.
 
-## **HOUSING MARKET FACTS**
+<center>## **HOUSING MARKET FACTS**</center>
 
 Detached<br>Detached sales eased by 15% this month, driven by pullbacks in all districts except the North, which remained flat compared to last year.<br>The decline in sales was met with a larger decline in new listings, causing inventories to fall by 17% and keeping the months of supply slightly lower than last year’s levels.<br>Detached benchmark prices have remained relatively unchanged compared to last year at $480,800. Price declines this month continue to be the highest for the City Centre, North, East, and West districts.
 
