@@ -19,7 +19,9 @@ youtube_code: lyih0kMR7ZY
 
 {% include youtube.html %}
 
-Licensed real estate agents have been deemed an essential service and brokerages are encouraged to remain open.
+<center><em>If there is anything our team can do to serve or support you, please reach out to us.</em></center>
+
+<br>Licensed real estate agents have been deemed an essential service and brokerages are encouraged to remain open.
 
 **Homes are still selling and our closings are still going smoothly**. We have had four in about the last week and there were no hitches or delays or issues with the banks, lawyers or land titles or anything.
 
