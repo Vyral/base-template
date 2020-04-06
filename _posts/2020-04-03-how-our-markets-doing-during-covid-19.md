@@ -86,7 +86,7 @@ However, price declines will likely be higher than originally expected due to th
 * Trends changed this month, with flat sales and a decline in new listings. The decline in new listings was enough to cause a significant reduction in supply levels and the months of supply fell below five months.
 * Prices are trending down monthly, but remain comparable to last year’s levels, with a March benchmark price of $405,000.
 
-## REAL ESTATE
+## **REAL ESTATE**
 
 <u><a target="_blank" href="https://www.alberta.ca/essential-services.aspx">The government of Alberta</a></u> has deemed real estate agent services, and services that provide access to credit, stocks or other forms of liquidity or finance to individuals, groups or businesses to be essential. This exempts licensed real estate and mortgage professionals from restrictions during the COVID-19 outbreak, as long as they follow all public health guidelines, including physical distancing measures.
 
