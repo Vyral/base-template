@@ -12,8 +12,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/luxyt-youtube.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/note-yt-don-vallee.jpg
 youtube_code: kboHapx78E8
 ---
 
