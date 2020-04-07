@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Questions to Consider Before Becoming a Landlord
-date:
+date: 2020-04-07 21:28:01
 tags:
   - Real Estate
 excerpt: >-
