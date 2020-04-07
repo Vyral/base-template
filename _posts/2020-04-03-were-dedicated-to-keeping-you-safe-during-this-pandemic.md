@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Even though we’re living through an unprecedented time, we can still help
   serve your real estate needs.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/Were+Dedicated+to+Keeping+You+Safe+During+This+Pandemic.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
