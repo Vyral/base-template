@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Respond When You Find Issues With Your Appraisal
-date:
+date: 2020-04-07 16:59:59
 tags:
   - Home Seller Tips
   - Real Estate
