@@ -19,7 +19,7 @@ youtube_code: slaWFx1u8RU
 
 {% include youtube.html %}
 
-Here’s the truth about why some firms stress certain timelines for their new agents’ success.
+<p style="text-align: center;"><em>Here’s the truth about why some firms stress certain timelines for their new agents’ success.</em></p>
 
 Why do some firms tell you it could take six to 12 months for you to close your first house? The answer is, **there’s no structure there—no guidance, no leads, no support.** Those firms lack the deep level of training necessary to set you up for success as soon as possible.&nbsp;
 
