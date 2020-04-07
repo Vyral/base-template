@@ -18,6 +18,7 @@ youtube_code: Fvoxdg1XGco
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>Some homeowners are left with a dilemma when it comes time to move. Should they sell, or should they turn their former home into an investment property?</em></p>
 
 I had a very interesting discussion with someone today who moved into a new home before selling their current one. They wanted to know whether they should rent out that first home or sell it. It’s a very interesting question, one that doesn’t always have a clear answer.
 
