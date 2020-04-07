@@ -18,7 +18,8 @@ youtube_code: 0JT9oI4d9BU
 
 {% include youtube.html %}
 
-What should you do when there are issues with your appraisal? Find out here.
+<p style="text-align: center;"><em>What should you do when there are issues with your appraisal? Find out here.</em></p>
+
 
 Sellers, do you know what happens if there’s an issue with your appraisal? There are really two main appraisal issues that come up during the selling process:
 
