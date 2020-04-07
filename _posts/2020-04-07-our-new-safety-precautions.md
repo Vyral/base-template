@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our New Safety Precautions
-date: 2020-04-07 16:09:56
+date: 2020-04-07 16:09:00
 tags:
   - Real Estate
 excerpt:
