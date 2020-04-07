@@ -19,6 +19,8 @@ youtube_code: E7aP7XivMZY
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what the real estate process looks like during the coronavirus pandemic.</em></p>
+
 Hopefully, you’re all staying safe and healthy during these tumultuous times. Everything has been changing at a breakneck pace these past few weeks, and the same is true for real estate.
 
 All in all, real estate transactions will continue, though we’ve had to take certain measures to keep our agents and clients safe, like virtual communication. We already had many of these tools in place before the pandemic, which allowed us to adapt to the changing times even easier.
