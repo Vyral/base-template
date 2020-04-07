@@ -17,6 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek--check-out-tulsas-newest-spot-bar-473-youtube.jpg
 youtube_code: 56-NWENbWt0
+hidden: false
 ---
 
 {% include youtube.html %}

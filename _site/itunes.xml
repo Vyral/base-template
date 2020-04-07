@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Tulsa Real Estate Podcast with The Wolek Group</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <title>Tulsa Looks Good on You</title>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Realty Advantage - your professional Tulsa Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>The Wolek Group</managingEditor>
-    <lastBuildDate>2018-11-05 09:13:07 -0600</lastBuildDate>
+    <lastBuildDate>2020-04-07 16:26:17 -0500</lastBuildDate>
     <media:copyright>The Wolek Group</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,1136 @@
     </itunes:owner>
     <itunes:author>The Wolek Group</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Tulsa Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Keller Williams Realty Advantage - your professional Tulsa Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Let Us Know How We Can Help</title>
+        <link>http://localhost:4000/let-us-know-how-we-can-help.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2020-03-31 11:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Let+Us+Know+How+We+Can+Help.mp4</guid>
+        <description>
+
+Are you all doing well? It’s important to all of us at The Wolek Group that we connect with our friends, family, and community to make sure you’re safe and that we’re providing you with all the resources we possibly can. If you need anything at all, please reach out to us. We’ve already sent you helpful resources, but we want to be doubly sure you have everything you need. 
+
+We have a Facebook page called Tulsa Looks Good on You, which was created to share all the wonderful things Tulsa has to offer, and during this time we’re being extremely deliberate about adding helpful things to it to assist our community. We look forward to seeing you soon and giving you a real hug or handshake—for now, it’s virtual. 
+
+“With interest rates still low, there is plenty of activity.”
+
+We do want you to know we’re still doing business. People are still buying and selling homes. We’re watching the numbers every day, and believe it or not, with interest rates still low, there is plenty of activity. For those that need to buy or sell, we’re taking extra steps to be cautious during this health crisis. For example, we’re conducting tons of virtual open houses, home tours, and appointments via Zoom and FaceTime. Still seeing each other sometimes is critical during this distancing period.
+
+If you have questions or need anything, please contact us via phone or email. We look forward to seeing and talking with you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Let+Us+Know+How+We+Can+Help.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Let+Us+Know+How+We+Can+Help.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>During this challenging time, we’re here to help with whatever you need.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>During this challenging time, we’re here to help with whatever you need.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The 411 on 473: Tulsa’s Awesome New Bar</title>
+        <link>http://localhost:4000/the-411-on-473-tulsas-awesome-new-bar.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2020-03-10 11:39:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/February/The+411+on+473-+Tulsas+Awesome+New+Bar.mp4</guid>
+        <description>
+
+We love Tulsa, we love food, and we really love new bars in town! We’re so excited to introduce you to Niki and Andrew Layson, the owners of Bar 473 here in Kendall Whittier district. 
+
+The bar’s name is an homage to the building it occupies, which was once a nationally registered historic place: Phillips 66 gas station No. 473, one of the early businesses in the first suburban development of Tulsa. 
+
+According to Andrew, the location was also unique in that it allowed for more patio space, creating a more organic social atmosphere. Beyond being nestled in a lovely neighborhood, 473 draws in patrons with well-crafted, affordable cocktails. Providing a venue for local acts—comedy, music, poetry, etc.—also means that 473 is truly a community gathering space. 
+
+Niki and Andrew were able to accent the neutral colors of the World War II-era building and create a clean, inviting space. The bar’s minimalist approach to decor ensures that the smaller inside area never feels too overcrowded. 
+
+“Beyond being nestled in a lovely neighborhood, 473 draws patrons in with well-crafted, affordable cocktails.”
+
+Right across the way from American Slayer and Cabin Boys Brewery, 473 is yet another testament to the increasing vibrancy of our Tulsa community! Though the many bars and breweries in this district cooperate more than compete, 473 aims to separate itself from the pack by having a deeper commitment to the city’s blossoming music scene. 
+
+As Andrew put it, “We need to pay more attention to those local artists that are creating real, raw music and who are trying to put themselves out there as artists.” 
+
+Follow 473 on Instagram (@four.seven.three) and Facebook (@bar473), or visit their website: www.bar473.com.
+
+If you have any questions about the wonderful ways in which Tulsa is growing, or you’re interested in buying or selling soon, give us a call. We’d love to talk with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/February/The+411+on+473-+Tulsas+Awesome+New+Bar.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/February/The+411+on+473-+Tulsas+Awesome+New+Bar.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s what the owners of new Tulsa drinkery 473 have to say about what their passion project offers the community.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Here’s what the owners of new Tulsa drinkery 473 have to say about what their passion project offers the community.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why the Garman Family Chose the Wolek Group</title>
+        <link>http://localhost:4000/why-the-garman-family-chose-the-wolek-group.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2020-03-03 16:08:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Why+the+Garman+Family+Chose+the+Wolek+Group.mp4</guid>
+        <description>
+
+Each year, our team has the privilege of helping hundreds of families make their real estate dreams come true. We know buying and selling a home can be stressful, but if you work with us, we make it easy on you. Through these incredible experiences, we create friendships and memories that last a lifetime.
+
+With that in mind, I want to share a testimonial from one of our clients that speaks to our mission in this business. 
+
+“We know buying and selling a home can be stressful, but if you work with us, we make it easy on you.”
+
+We helped the Garman family sell their old home and buy a new one. They interviewed three Realtors before reaching out to us, but once they did, they described it as “a dream come true.”
+
+At the time, they already had enough stress they could handle, so they wanted the buying and selling process to be as stress-free as possible. After staging their old home, we managed to sell it in just three days. We also staged their new home after helping them purchase it so they could settle in more comfortably. 
+
+Watch the video above in its entirety to see their full testimonial and why they’d recommend the Wolek Group to all of their friends and family. 
+
+If you ever have any real estate needs, don’t hesitate to call or email me. My team and I would love to help. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Why+the+Garman+Family+Chose+the+Wolek+Group.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/March/Why+the+Garman+Family+Chose+the+Wolek+Group.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why work with the Wolek Group? We’ll let one of our past clients explain.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Why work with the Wolek Group? We’ll let one of our past clients explain.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Meet Teresa Brockwell: Insurance Agent Extraordinaire</title>
+        <link>http://localhost:4000/meet-teresa-brockwell-insurance-agent-extraordinaire.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2020-02-10 16:14:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/February/Meet+Teresa+Brockwell-+Insurance+Agent+Extraordinaire.mp4</guid>
+        <description>
+
+For our latest video, we have another special guest joining us: Teresa Brockwell, The Wolek Group’s insurance agent extraordinaire! Teresa’s always been a great supporter of our business and a great help to all of our clients, and today we’ll have a quick chat about how she can help you with your insurance needs. 
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure: 
+
+1:24—The importance of meeting with your agent and discussing your options 
+
+2:31—How Teresa and her team specialize in helping busy professionals 
+
+4:19—Why it’s never a bad idea to get a second opinion on your policy 
+
+6:28—Wrapping things up 
+
+If you’d like to get in touch with Teresa and discuss your insurance options, give her a call or text her at (918) 496-1800. As always, if you have questions about any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to us. We’d be happy to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/February/Meet+Teresa+Brockwell-+Insurance+Agent+Extraordinaire.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/February/Meet+Teresa+Brockwell-+Insurance+Agent+Extraordinaire.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re a busy professional, it’s important to understand your insurance options, and Teresa Brockwell joins me today to discuss this topic.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>If you’re a busy professional, it’s important to understand your insurance options, and Teresa Brockwell joins me today to discuss this topic.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Agent’s Experience With Transitioning to Our Team</title>
+        <link>http://localhost:4000/an-agents-experience-with-transitioning-to-our-team.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2020-01-14 10:42:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/January/An+Agents+Experience+With+Transitioning+to+Our+Team.mp4</guid>
+        <description>
+
+Today I sat down for a chat with Nate Araskog, an agent here at The Wolek Group. He’s here to share his experiences as an agent on our team.
+
+Before coming to The Wolek Group, Nate Araskog had obtained his real estate license and worked with Daniel Sprik, a Realtor and good friend of his who had encouraged him to get into the industry in the first place. 
+
+I helped him to sell a couple of his properties before, so one day Nate and I met for coffee. It was supposed to have been a short introduction, but it ended up becoming a two-and-half-hour meeting. During that conversation, Nate saw my experience and the opportunities that lay in the foundation of my team’s structure and he decided he wanted to be a part of it.
+
+For my part, the conversation over coffee had originally been about real estate in general, but toward the end, something clicked within me. I asked him, “Are you asking me all these questions to join Keller Williams or to join my team?”
+
+“It’s fun to be on the front end of change within the real estate industry at large.” 
+
+With a smile on his face, Nate responded, “I don’t know—maybe both.”
+
+With that, I recommended that he and I set up another time to get back together. We did, and the rest is history.
+
+We’ve grown so much since then, and his experience with our team and with Keller Williams has been fabulous overall. It’s fun to be on the front end of change within the real estate industry at large.
+
+By the time Nate and I met for that fateful coffee meeting, he was already a go-getter who found success as a single agent. What was he missing that helped him see the value of joining a team?
+
+For him, the biggest factor was the opportunity to learn from someone who had experience. He knew that our team would provide the ability to help people as a part of an organization, not just a single agent. He knew from the first time we met that the partnership we could create by being in business together was going to be hugely successful for all of us.
+
+If you have any questions about starting career in real estate or would like to contact us about joining The Wolek Group yourself, don’t hesitate to reach out to us. We’d love to hear from you and discuss why making the switch to Keller Williams and The Wolek Group would be a great decision for the trajectory of your career.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/January/An+Agents+Experience+With+Transitioning+to+Our+Team.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/January/SOI/January/An+Agents+Experience+With+Transitioning+to+Our+Team.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I sat down for a chat with Nate Araskog, an agent here at the Wolek Group. He’s here to share his experiences as an agent on our team.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today I sat down for a chat with Nate Araskog, an agent here at the Wolek Group. He’s here to share his experiences as an agent on our team.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Unique Approach to Health With Deneen Natural Health</title>
+        <link>http://localhost:4000/a-unique-approach-to-health-with-deneen-natural-health.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-12-27 16:26:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/December/A+Unique+Approach+to+Health+With+Deneen+Natural+Health.mp4</guid>
+        <description>
+
+Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.
+
+I am so excited to introduce you to Dr. Shana Deneen with Deneen Natural Health. I wanted to talk to her because she does something quite special that I think everyone should know about.
+
+At Deneen Natural Health, Shana brings a more natural approach to health, wellness, and disease prevention by practicing naturopathic medicine and acupuncture.
+
+People come in for a variety of reasons. Maybe they’re trying to get pregnant, going through side effects of cancer treatment, or simply have some back or neck pain. What makes Deneen Natural Health different is that they offer supplemental solutions to improving the health of their patients. There are a lot of natural ways to promote health through nutrition, acupuncture, and herbal medicine.
+
+“Eating legumes can help prevent heart disease.”
+
+As far as diet and nutrition go, she’s a big promoter of eating legumes like lentils, split peas, and beans. These foods are really healthy and can help prevent heart disease, promote gut health, and help with the prevention of many different kinds of cancer.
+
+For those with cancer undergoing treatments with a lot of side effects, acupuncture is a great way to mitigate those effects and improve their overall quality of life.
+
+If you’re interested in learning more about Dr. Shana and Deneen Natural Health, visit her websiteor give her a call at (918) 884-6005.
+
+If you have any additional questions for me about real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/December/A+Unique+Approach+to+Health+With+Deneen+Natural+Health.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/December/A+Unique+Approach+to+Health+With+Deneen+Natural+Health.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Deneen Natural Health offers supplemental solutions for health and wellness. Here’s what you should know about their approach.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Where You Can Find Authentic Wood-Fired Pizza</title>
+        <link>http://localhost:4000/where-you-can-find-authentic-wood-fired-pizza.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-12-13 16:43:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/December/Where+You+Can+Find+Authentic+Wood-Fired+Pizza+(1).mp4</guid>
+        <description>
+
+If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”
+
+
+On the latest episode of “Tulsa Foodie,” I want to introduce you to one of my favorite restaurants: the East Village Bohemian Pizzeria. Joining me for a quick sit-down is Amy McMillin, who co-owns the restaurant with her brother. 
+
+Amy and her brother have been involved in the food industry since they were teenagers, and they share a special love of Italian food. Amy got her first taste of wood-fired pizza 15 years ago when she got the chance to visit Naples, and after she did, she decided that she had to recreate the same taste back home. 
+
+The secret to their pizza’s amazing taste, according to Amy, is their dedication to cooking everything fresh and authentic, just like they do in Italy. 
+
+“I learned the hard way that you need a reservation on most nights if you want to get a table here.”
+
+“Every morning,” she says, “we come in and light the fire in our wood-fired oven, which has no gas—we’re stacking the wood and making the fire—and we’re roasting all the fresh vegetables every day. All the meats are getting roasted. We make our dough from scratch. We import our flour from Italy. And we’re doing that fresh every single day.”
+
+In addition to the great food, they have a fun, cool vibe inside their restaurant. Their five-year anniversary at their current location in downtown Tulsa is coming up on December 19, and in those five years, they’ve built a wine room and a second kitchen which makes handmade pasta daily. They also have an amazing patio (which I’m a big fan of), where guests are known to wine and dine year-round—even when the temperature is nearly freezing. 
+
+I learned the hard way that you need a reservation on most nights if you want to get a table here, and I can’t wait to try my next Bohemian pizza. 
+
+If you’d like to know more about the East Village Bohemian Pizzeria, visit their website atwww.eastvillagebohemian.com or check out their Instagram feed @bohemianpizzatulsa.
+
+As always, if you have any questions for me or there’s anything I can help you with, give me a call or shoot me an email.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/December/Where+You+Can+Find+Authentic+Wood-Fired+Pizza+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/December/Where+You+Can+Find+Authentic+Wood-Fired+Pizza+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>If you have a craving for wood-fired pizza, I have just the place to introduce you to on the latest episode of “Tulsa Foodie.”</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Story Behind My Career in Real Estate</title>
+        <link>http://localhost:4000/the-story-behind-my-career-in-real-estate.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-11-22 11:13:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/The+Story+Behind+My+Career+in+Real+Estate.mp4</guid>
+        <description>
+ 
+
+People often ask me how I got into real estate, and so I’d like to share that story with all of you today.I’m originally from Tulsa and attended the University of Oklahoma just a couple hours away from there (Boomer Sooner!). I spent a lot of those years in school being average and only just barely getting by. I think that’s because, like a lot of college-aged kids, I didn’t know my passion or purpose in life. Finally, I got into classes that I cared about and I realized that I was a good student after all. I went on to get my master’s degree in Human Relations.
+
+During that time, I was still waiting tables at the mall in Norman. I really think that a lot of the best real estate agents are those who have been servers. A friend of mine from high school who had just gotten into real estate reached out to me, asking if I needed to buy a house. At the time, I didn’t have any money, so how was I supposed to buy a house? To that, he responded, “You should get into real estate; a friend in my office just made $100,000 last month.”
+
+The flexibility and lucrative nature of the real estate industry was very appealing to me at that age. After a while, though, I realized that there was a lot more hard work necessary than just selling lots of houses and raking in the money. I realized that my work ethic, which I somehow just had in me, was starting to pay off.
+
+I began working for a small brokerage with just five people in the office. I was learning how to be a property manager and how to be an office manager; I partnered with a broker and got to go on listing appointments and worked with homebuyers. 
+
+After four years of working in real estate in Norman I knew that I was getting to the age where I wanted to be able to get back home to my family. I sold the two houses that I had bought in those four years and moved back home to Tulsa.
+
+“We’re always looking for more people to come into our world so that we can help more families, have fun, give back to the community, and live large.”
+
+Once I did, I signed on with a local, traditional real estate company. I was doing well at the time, but I didn’t know how to be anything other than a lead receiver, which means that I would show up to open houses and smile and be nice to people—over time, they would open up and let me help them.
+
+Then, I discovered a company called Keller Williams. That’s when everything changed for me in my business and my personal life. Once I signed on with Keller Williams, I just ate up all of the available training, coaching, and mentoring that I could get my hands on. That really opened my mind; I started to dream big and realized that with Keller Williams, I could achieve those dreams.
+
+However, as a single agent, I was starting to get overwhelmed. I was working all kinds of crazy hours, and when I reached a breaking point, I knew that I needed help. That’s when the idea of building a team entered my mind. I didn’t want to build a team to crush the faces off the Tulsa, Oklahoma real estate market, but rather because I wanted to hold on to my sanity! I wanted to be a good wife, mother, and agent, and building a team allowed me to do that.
+
+What’s fun about growing a team is that you get to help others do the same. It’s such an amazing experience. We’re always looking for more people to come into our world so that we can help more families, have fun, give back to the community, and live large.
+
+If you’ve ever thought about starting a career in real estate, or if you’re currently in the business but you’re not finding the success that you want, reach out to me. I’d love to chat with you about an amazing opportunity to join our team.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/The+Story+Behind+My+Career+in+Real+Estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/The+Story+Behind+My+Career+in+Real+Estate.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I wanted to share the story of how I got into the real estate business, including the lessons I learned along the way.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today I wanted to share the story of how I got into the real estate business, including the lessons I learned along the way.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why This Happy Client Recommends The Wolek Group</title>
+        <link>http://localhost:4000/why-this-happy-client-recommends-the-wolek-group.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-11-02 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/Why+This+Happy+Client+Recommends+the+Wolek+Group.mp4</guid>
+        <description>
+
+Why does Katherine Fondren recommend The Wolek Group to anyone interested in buying or selling real estate? Today, she can tell you herself:
+
+“I had a home that I needed to sell. I had known Jennie Wolek over the years through mutual friends, and I was definitely looking for something different… something outside of the box. I was a Realtor in Louisiana when I lived there, so I thought I knew everything about the real estate business, but that was a long time ago, before the age of social media and all kinds of new marketing things.
+
+“That’s why I loved about Jennie and what her company was doing: They were doing some outside-the-box marketing. Jennie would come over; we sat at my kitchen table and discussed what our goals were. She asked me what I liked best about my home and what prospective buyers should know about it. I was happy to share that information and she definitely used it in her marketing.
+
+“I felt she really wanted to do what was best for me and my family, as well as the people buying my home.”
+
+“Then we immediately started the buying process. I met with one of her buyer’s agents and we discussed what we were looking for and needed in a home. And throughout the process, there was a lot of feedback, which I really value; being a former Realtor, I know that’s really important. A lot of my friends who are looking for Realtors always want feedback. If someone looked at your house, what did they think? How can we improve? What do they like? What do they not like?
+
+“When we finally did get a buyer, I was really excited. Jennie did everything she could to walk us through the process. She was great from beginning to end, and I felt she really wanted to do what was best for me and my family, as well as the people buying my home.
+
+“We found this beautiful house that we’re standing in right now in a neighborhood we didn’t even know about. It’s a new home from a builder I didn’t know; Jennie’s team had the knowledge of the market, so they knew what was going on even in new construction. 
+
+“I’m thankful to The Wolek Group for helping steer us in the right direction and helping us find our dream home. It’s a wonderful process from beginning to end, very stress-free with a lot of communication, and I definitely, definitely recommend them!”
+
+If you, like Katherine, ever need any help with your real estate needs, please feel free to reach out to us here at The Wolek Group. We’d be happy to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/Why+This+Happy+Client+Recommends+the+Wolek+Group.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/November/Why+This+Happy+Client+Recommends+the+Wolek+Group.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’ll allow Katherine Fondren to tell you all about her experience working with The Wolek Group.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today, I’ll allow Katherine Fondren to tell you all about her experience working with The Wolek Group.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Thanks to You, We’ve Served Over 100 Families in 2019</title>
+        <link>http://localhost:4000/thanks-to-you-weve-served-over-100-families-in-2019.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-10-06 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/We+Did+It-+Over+100+Families+Served!+(1).mp4</guid>
+        <description>
+We’re excited to announce that we’ve served over 100 families in 2019. Because of our amazing clients, we’ve been able to help more, give back, have fun, and live large. With every home sold, we’ve been able to give back a portion of our proceeds to Keys to the City—a non-profit dedicated to giving back to our Tulsa community. We wouldn’t be able to do any of this without the amazing support of our family, friends, the people who help our team, and our clients. Thank you from the bottom of our hearts.
+
+As always, if you need help with anything real estate related, don’t hesitate to give us a call. We’d love to hear from you.
+
+ 
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/We+Did+It-+Over+100+Families+Served!+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/We+Did+It-+Over+100+Families+Served!+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’ve served over 100 families this year, and we wouldn’t have done it without you.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>We’ve served over 100 families this year, and we wouldn’t have done it without you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Conversation with Luke Frazier of INSPiRE Financial Group</title>
+        <link>http://localhost:4000/a-conversation-with-luke-frazier-of-inspire-financial-group.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-10-05 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/A+Conversation+with+Luke+Frazier+of+INSPiRE+Financial+Group.mp4</guid>
+        <description>
+
+Today I’m excited to introduce you to my friend Luke Frazier with INSPiRE Financial Group. I met Luke at a Tulsa Chamber of Commerce event and I was so inspired by him and how he runs his business as a financial planner.
+
+Luke started this firm three years ago with what he calls “uncommon knowledge.” He felt that the industry as a whole was going in one direction, but not enough people were asking why. We’ve taken that knowledge and applied strategies and recommendations behind it to better our clients. As opposed to the stock market, they tend to focus on cash flow.
+
+Products and services can only get you so far if you don’t have a strong “why.” For Luke, he believes that there are five core areas in which everyone is trying to improve: relationships with family and friends, career, finances, spiritual well-being, and physical well-being. 
+
+Luke and INSPiRE feel like the financial aspect too often adds stress or negatively affect the other five areas. Their goal with their clients is to put strategies in place to turn the financial aspect into a positive and positively affects the other areas.
+
+“Everybody has a different personality and mindset about finances.”
+
+Way too many people are relying on Wall Street and big banks for their finances. Luke and his team promote investing in themselves instead of Wall Street or big banks. They work with a lot of small business owners and even real estate investors to produce cash flow instead of just putting money away and not ever seeing it for 30 years.
+
+Their program is based on what the truly wealthy people in our country do. They go to work and make money, put their money to work for them, and use other people’s money to make even more money. They finance their own deals and use their own leverage, and Luke uses a lot of these types of strategies with his clients. As opposed to paying a lump sum for a boat, for example, you can take that amount and put it towards a rental property, for example. The income on the property can pay that mortgage and the loan on the boat. If we repeat that process over and over, it will create wealth.
+
+Everybody has a different personality and mindset about finances. Where Luke and his team shine are with the clients with abundant mindsets who want to get wealthy now and not wait for it for later.
+
+To learn more about Luke and what he does at INSPiRE, visit their website at www.planwithinspire.com or call Luke at (918) 500-2931.
+
+Thanks so much to Luke for joining me. If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/A+Conversation+with+Luke+Frazier+of+INSPiRE+Financial+Group.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/A+Conversation+with+Luke+Frazier+of+INSPiRE+Financial+Group.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>INSPiRE Financial Group is helping their clients create true, long-term wealth. Here’s how.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>INSPiRE Financial Group is helping their clients create true, long-term wealth. Here’s how.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>QL for Young Adults: Bridging the Gap Between Education and Life</title>
+        <link>http://localhost:4000/ql-for-young-adults-bridging-the-gap-between-education-and-life.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-09-22 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/QL+for+Young+Adults-+Bridging+the+Gap+Between+Education+and+Life+(1).mp4</guid>
+        <description>
+How do you know what your potential is? If you’re asking yourself this question, we can help you find the answer. As instructors for Quantum Leap for Young Adults (ages 18-30), we want to invite you to an upcoming life and leadership workshop on October 12. We’ll help you decide what you want your life to look like and create goals around that vision. Additionally, we’ll be offering two scholarships worth $500 that will go toward education and training. The scholarships are courtesy of our non-profit—Keys To The City.
+
+To RSVP and save your seat, click here. If you have any questions in the meantime, don’t hesitate to reach out to me. I’d love to speak with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/QL+for+Young+Adults-+Bridging+the+Gap+Between+Education+and+Life+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/October/QL+for+Young+Adults-+Bridging+the+Gap+Between+Education+and+Life+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Quantum Leap for Young Adults is hosting an upcoming workshop, and you’re cordially invited.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Quantum Leap for Young Adults is hosting an upcoming workshop, and you’re cordially invited.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You a Seller With a Home in Need of Some TLC?</title>
+        <link>http://localhost:4000/are-you-a-seller-with-a-home-in-need-of-some-tlc.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-09-07 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/Are+You+a+Seller+With+a+Home+In+Need+of+Some+TLC_+(1).mp4</guid>
+        <description>
+Today I’m driving to a listing appointment, and I just ran into a friend I’ve known since high school who is also in the real estate business as a house-flipper. She was talking about the challenge she’s been facing in the pursuit of great homes to buy, fix up, and resell. Another friend and client of ours who is in real estate as well has the same issue.
+
+“We have a whole database for flippers, investors, and clients looking for an affordable home to fix up and resell.”
+
+Given that, I thought today’s blog post would be a great opportunity to share this message:
+
+If you have a home that needs a little love in the form of a few updates and repairs and you just don’t want to put the time, energy, or money into doing it, then go ahead and reach out to us at The Wolek Group: We have a whole database for flippers, investors, and clients looking for an affordable home to fix up and resell.
+
+In addition, we can help with any kind of home or home buying needs you have, so don’t hesitate to reach out to us. Hope to talk to you soon! 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/Are+You+a+Seller+With+a+Home+In+Need+of+Some+TLC_+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/Are+You+a+Seller+With+a+Home+In+Need+of+Some+TLC_+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Having issues selling a home that needs some work? I have a solution.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Having issues selling a home that needs some work? I have a solution.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Sellers Should Always Tidy Up Before Closing</title>
+        <link>http://localhost:4000/why-sellers-should-always-tidy-up-before-closing.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-08-20 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/For+database-+reminder+to+leave+house+clean_Final+(1).mp4</guid>
+        <description>
+
+Keeping on a tidy home while your property is on the market is no easy task, so if you’ve been feeling stressed out at the prospect of juggling your day-to-day cleaning chores with your responsibilities as a home seller, you aren’t alone. This is a very common feeling. Please know, though, that you don’t have to handle everything on your own. Our team is here to help. We have a vast network of service providers who would be happy to help you make your home shine before closing day comes. 
+
+“The last thing any buyer wants is to find their new home in a state of disarray when moving day arrives.”
+
+If you have any other questions or would like more information about today’s tip or any other real estate-related topic, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/For+database-+reminder+to+leave+house+clean_Final+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/September/For+database-+reminder+to+leave+house+clean_Final+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>No buyer wants to move into a dirty home, so sellers must always remember to tidy up before closing day arrives.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>No buyer wants to move into a dirty home, so sellers must always remember to tidy up before closing day arrives.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Local Nonprofit Spotlight: The Pencil Box</title>
+        <link>http://localhost:4000/local-nonprofit-spotlight-the-pencil-box.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-08-10 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Local+Nonprofit+Spotlight-+The+Pencil+Box+(1).mp4</guid>
+        <description>
+
+As you know, we love giving back to the community and supporting local nonprofits. Since it’s almost back-to-school time, we want to take a break from real estate and share a quick video of all the amazing things The Pencil Box is doing for our local schools. We have testimonials from volunteers, public school teachers in Tulsa County, and Executive Director Nancy Bolzle as part of our spotlight. As Nancy says, “There is no greater investment than our youth.” 
+
+If you have any questions about this organization or any real estate needs we can take care of, don’t hesitate to reach out to us. We’d love to speak with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Local+Nonprofit+Spotlight-+The+Pencil+Box+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Local+Nonprofit+Spotlight-+The+Pencil+Box+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’re spotlighting a great local nonprofit dedicated to helping public schools: The Pencil Box.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today we’re spotlighting a great local nonprofit dedicated to helping public schools: The Pencil Box.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Business Spotlight: Blue Jay Cleaning Services</title>
+        <link>http://localhost:4000/business-spotlight-blue-jay-cleaning-services.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-07-27 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/august/Business+Spotlight-+Blue+Jay+Cleaning+Services.mp4</guid>
+        <description>
+
+Blue Jay Cleaning Services has been around in the Tulsa area and the Oklahoma City Metro area for about three years. They offer recurring residential services, as well as move-out cleaning and make-ready cleaning, which is done before your home goes on the market. In addition, they also do small office commercial services.
+
+Here at The Wolek Group, we love helping our clients get their homes ready in the pre-listing period, and cleaning is no small part of that process. Whether you’re preparing to sell your home and move or you just want to simplify, Blue Jay’s owner Britt Greenwood says that decluttering is the way to go. This is especially important if you’re planning to sell your home. Look at your countertops in the kitchen—a good rule of thumb is to have no more than two or three appliances on them.
+
+“A good rule of thumb is to have no more than two or three appliances on your countertops.”
+
+In the bathroom, try not to have more than a handful of items on your surfaces, including your shower. When you sell your home, you need to live in it differently than you would if you weren’t planning to move.
+
+As you’re decluttering the home, pack things in moving boxes to help speed up the moving process. When filled, these boxes can be stored in the garage or in an out-of-the-way storage area.
+
+It’s also a good idea to make a list of things that need to be done in your home regarding renovations, repairs, and touch-ups. Be sure to have all those things done before you have a professional house cleaner visit your home, since trade workers can sometimes leave a mess.
+
+If you’d like to contact Britt for an estimate, reach out to her by phone at (918) 277-3378, visit her website at www.BlueJayCleaning.com, or visit her Facebook page. One-time cleanings can be discussed over the phone, but if you have need of a recurring service, she or one of her staff members can come visit your home to see what needs to be done.
+
+For any questions you have for me or the Wolek Group at large, don’t hesitate to reach out to us. We’d love to help you! 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/august/Business+Spotlight-+Blue+Jay+Cleaning+Services.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/august/Business+Spotlight-+Blue+Jay+Cleaning+Services.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today, I’m so excited to introduce you to my new friend, Britt Greenwood from Blue Jay Cleaning Services.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today, I’m so excited to introduce you to my new friend, Britt Greenwood from Blue Jay Cleaning Services.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tulsa Foodie: The Rose District’s Nouveau Chocolates</title>
+        <link>http://localhost:4000/tulsa-foodie-the-rose-districts-nouveau-chocolates.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-07-03 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Episode+6+-+Tulsa+Foodies+Latest+Feature-+Nouveau+Chocolates+(1).mp4</guid>
+        <description>
+
+Welcome back to another edition of “Tulsa Foodie”. Today I’m super excited to introduce you to Melvin Piper, owner of Nouveau Chocolates. This Rose District shop is everything you’ve ever wanted in a chocolatier.
+
+Melvin always wanted to own a business and food is one of his biggest passions. He fell in love with chocolate on a trip to Europe and started working at Nouveau about eight years ago. About a year ago, he bought the business from the previous owner and has put his own spin on some new classics while also maintaining the quality that people have always come to find at Nouveau.
+
+They get a lot of foot traffic from the lunch and dinner crowds. There are some people that even come in for some coffee or tea every day or hot chocolate in the winter.
+
+“Nouveau produces some of the finest Belgian chocolate around”
+
+Nouveau produces some of the finest Belgian chocolate around. There are about 49 different selections in the showcase, which they are constantly adding to. They also serve delicious ice cream and chocolate-dipped cones. 
+
+For all of you Tulsa Foodies out there, you can get 10% off of a 15-piece box for the entire month of July! Just make sure to mention us when you order!
+
+Some of their most popular chocolates include maple bacon, key lime pie, and chili pepper flavors. Their oil-fire whiskey is infused with caramel and has a creamy liquid center. I tried one for myself and it was absolutely incredible. 
+
+Come check out Nouveau Chocolates for yourself on 205 S. Main St. in Broken Arrow. You can also check them out on Instagram or Facebook @nouveauchocolates.
+
+Thanks so much to Melvin for joining me and letting me take a look at some of his fantastic creations. If you have any questions for me in the meantime or any real estate needs that I can assist with, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Episode+6+-+Tulsa+Foodies+Latest+Feature-+Nouveau+Chocolates+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/July/Episode+6+-+Tulsa+Foodies+Latest+Feature-+Nouveau+Chocolates+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>On this edition of Tulsa Foodie, we’re trying something a little sweeter. Let’s check out Nouveau Chocolates.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>On this edition of Tulsa Foodie, we’re trying something a little sweeter. Let’s check out Nouveau Chocolates.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Now Is a Great Time to Sell!</title>
+        <link>http://localhost:4000/now-is-a-great-time-to-sell.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-06-24 08:04:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Now+Is+a+Great+Time+to+Sell!.mp4</guid>
+        <description>
+
+Yesterday, I ran into one of my lender friends, and he happened to mention that interest rates are still crazy low. For a 30-year mortgage, rates are right around 4%!
+
+Since it’s summer, now is the best time to make a move if you have a family and want to get settled in before school starts again in the fall.
+
+“Now is the best time to make a move if you have a family and want to get settled in before school starts again in the fall.”
+
+If you have any real estate needs at all, please reach out to the Wolek Group. We are very accessible—you can find us on Facebook and Instagram, you can always call or text me at (918) 706-9845, or you can email me at Jennie@thewolekgroup.com. Additionally, we’d love for you to download our free mobile app so that you can start searching for homes in your area, comparing prices, and just checking out what’s available. Finally, if you’re curious about the value of your home, visit www.TulsaHomeValue.com to get a free home value estimate.
+
+We want to be your real estate resource. Hope to hear from you soon! 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Now+Is+a+Great+Time+to+Sell!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Now+Is+a+Great+Time+to+Sell!.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I want to give you a real quick update on the market. It’s a great time to be a seller! Find out why right here.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today I want to give you a real quick update on the market. It’s a great time to be a seller! Find out why right here.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Take Advantage of our Certified Pre-Owned Home Program Today</title>
+        <link>http://localhost:4000/take-advantage-of-our-certified-pre-owned-home-program-today.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-06-22 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+Take+Advantage+of+our+Certified+Pre-Owned+Home+Program+Today.mp4</guid>
+        <description>
+Are you thinking about a move this spring or summer? Or maybe you are simply curious about the value of your home and the local real estate market. Either way—we need to talk!
+
+“With this program, our listings sell in an average of just 14 days.”
+
+We’re offering a FREE home inspection, staging consultation, and appraisal to clients who list with us through our Certified Pre-Owned Home Program!
+
+Our Certified Pre-Owned Program allows you to:
+
+
+  Sell your home FASTER
+  Get MORE MONEY for your property
+  Have LESS STRESS in the process
+  Achieve SHORTER closing periods
+
+
+With this program, we have seen our listings sell much faster, with an average of just 14 days on the market.
+
+Our experienced team is here and ready to help with all of your real estate needs. We can’t wait to talk to you soon! 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+Take+Advantage+of+our+Certified+Pre-Owned+Home+Program+Today.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Tulsa+Real+Estate+Agent-+Take+Advantage+of+our+Certified+Pre-Owned+Home+Program+Today.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our certified pre-owned home program is perfect for homeowners who are looking to make a quick, profitable sale. Here’s how it works.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Our certified pre-owned home program is perfect for homeowners who are looking to make a quick, profitable sale. Here’s how it works.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How We’re Giving Back to Families Affected by the Recent Floods</title>
+        <link>http://localhost:4000/how-were-giving-back-to-families-affected-by-the-recent-floods.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-06-12 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/The+Wolek+Group-+How+Were+Giving+Back+to+Families+Affected+by+the+Recent+Floods.mp4</guid>
+        <description>
+
+Our team is giving back to Oklahomans suffering from flood damage and we need YOUR help! ​Through our charity organization, Keys To The City, The Wolek Group is giving $500 to SIX families in need of flood relief!
+
+Although cleanup has begun, we are far from finished. If you know someone in the Tulsa area whose home is severely damaged or was lost due to flooding, complete the nomination form below!
+
+Nomination Form
+
+We will be making selections on July 1st, so don’t wait to raise a hand!
+
+Want to join our Flood Relief efforts? Email us at info@thewolekgroup.com to learn more about how you can donate! 
+
+                                                                                                
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/The+Wolek+Group-+How+Were+Giving+Back+to+Families+Affected+by+the+Recent+Floods.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/The+Wolek+Group-+How+Were+Giving+Back+to+Families+Affected+by+the+Recent+Floods.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In an effort to help those affected by the recent flooding, our team is giving six lucky families a $500 donation. If you know anyone who you believe deserves this help, we’d like for you to nominate them today.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>In an effort to help those affected by the recent flooding, our team is giving six lucky families a $500 donation. If you know anyone who you believe deserves this help, we’d like for you to nominate them today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>If You’re Thinking of Making a Move, We Want to Help</title>
+        <link>http://localhost:4000/if-youre-thinking-of-making-a-move-we-want-to-help.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-05-28 10:32:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Making+a+MOVE+or+curious+about+your+HOME+VALUE_!+(2).mp4</guid>
+        <description>
+
+Having spent more than 18 years in the real estate industry, our team knows that making a move can be very stressful. We’d like to make this important step in your life go more smoothly by not only helping to guide you through the market but also listing your property as a certified pre-owned home.
+
+Our team sends you through the inspection and appraisal process before your home ever goes live on the market. This will prevent certain issues from sinking your sale once you’ve got a buyer on the line.
+
+“We know that when homes are priced correctly, in good condition, and are marketed well, they sell quickly and for top dollar.”
+
+Along with these preliminary steps, our team also implements a “coming soon” marketing program that helps to build buyer interest in your property before it’s listed. 
+
+We know that when homes are priced correctly, in good condition, and are marketed well, they sell quickly and for top dollar. When you’re ready to make a move, give us a call or send us an email. We look forward to helping you sell for the most money, in the least time, and with as little hassle as possible.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Making+a+MOVE+or+curious+about+your+HOME+VALUE_!+(2).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2019/June/Making+a+MOVE+or+curious+about+your+HOME+VALUE_!+(2).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’d like to share just a few of the ways in which our team can help you sell.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today we’d like to share just a few of the ways in which our team can help you sell.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Revitalize T-Town Is Keeping Tulsa Homes Safe and Sound</title>
+        <link>http://localhost:4000/revitalize-t-town-is-keeping-tulsa-homes-safe-and-sound.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-04-21 10:52:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/How+Revitalize+T-Town+keeps+Tulsa+families+safe+and+sound.mp4</guid>
+        <description>
+
+Recently I had the opportunity to speak with Jennifer Barcus-Shafer of Revitalize T-Town to talk about her organization and what makes it so great. Having been in business for almost 22 years, Revitalize T-Town (formerly Rebuilding Together Tulsa) is an incredible force for good in our community. 
+
+“Revitalize T-Town, or ‘RTT’ as we call it, makes homes safe, secure, and weather-proof for homeowners within the Tulsa city limits,” says Jennifer. The majority of RTT’s clients are seniors or individuals with disabilities, and these people generally find out about the organization through word of mouth. The more people RTT helps, the more their reputation grows in our community. And the more their reputation grows, the more effectively they’re able to achieve their mission: revitalizing Tulsa.
+
+“The more their reputation grows, the more effectively they’re able to achieve their mission: revitalizing Tulsa.”
+
+The first step RTT takes after receiving and reviewing an application is to assess the person’s home and determine what must be done to improve its condition. After that, the various improvement projects a given home needs are ranked by priority so that local contractors can handle the most urgent areas first. You can check out the video above at 1:13 for a slideshow of some before and after photos from RTT’s previous projects. 
+
+Even more impressively, the money that funds RTT comes straight from our community. That said, monetary donations are always welcome. Still, there are many other ways to give back. If you’re a local contractor like an electrician or plumber, RTT would be happy to connect you with projects that fit your skill set. 
+
+If you’re interested in helping out or learning more, please visit https://revitalizettown.org/. 
+
+And, as always, if you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/How+Revitalize+T-Town+keeps+Tulsa+families+safe+and+sound.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/How+Revitalize+T-Town+keeps+Tulsa+families+safe+and+sound.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Revitalize T-Town is truly a force for good here in Tulsa, so I’d like to share some insight into their story and mission today.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Revitalize T-Town is truly a force for good here in Tulsa, so I’d like to share some insight into their story and mission today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Are Mortgage Rates Affecting Springtime Buyers and Sellers?</title>
+        <link>http://localhost:4000/how-are-mortgage-rates-affecting-springtime-buyers-and-sellers.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-04-18 15:11:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+A+Mortgage+Experts+Take+on+Our+Spring+Market.mp4</guid>
+        <description>
+
+What are we seeing from the spring market so far? How are mortgage rates affecting buyers and sellers? 
+
+Today I’ve invited Chris Padley of the Gateway Mortgage Group to join me for a quick chat so he can help answer these questions. Chris has been in the lending business for 16 years, and he’s one of the trusted lenders we work with here in the Tulsa area.
+
+According to him, what we’re seeing from the market right now can be described as the normal springtime explosion. 
+
+“Every single week is a new rush of pre-qualifications and contracts,” he says. “Every year it’s exciting, and I’m loving it.”
+
+“If you’re a buyer and you’ve been on the fence the past few months, now’s a great time to take advantage of these conditions.”
+
+The ups and downs of the real estate business can get crazy, so for Chris, staying positive when things get really busy means sticking to the systems he’s put in place—his scripts, daily phone calls, etc. He knows that letting the day in, day out craziness change his routine can cause everything else to fall apart. Every day, he’s on the phone and lead generating with potential clients and Realtors, and each day has its own theme.
+
+“Mondays are my top 40, Tuesdays are my Tuesday update calls, Wednesday I’m following up with anybody who’s pre-qualified to make sure they’re taken care of, and Thursdays and Fridays I’m following up with miscellaneous—builders, leads that haven’t applied yet, and whatnot. Every single day, there’s work to be done.”
+
+What are mortgage rates like right now? Chris says that they’re, in a word, awesome. In fact, the 30-year fixed rate is as low as 4.125%. This means if you’re a buyer and you’ve been on the fence the past few months, now’s a great time to take advantage of these conditions. We don’t know what’s going to happen in the future, but we do know that you can lock in a low rate right now. Since so many buyers will be getting into the market, now is also a great time to sell. 
+
+If you’d like to get pre-qualified and start your home buying journey or you have any mortgage questions for Chris, you can message him at his website ThePadleyTeam.com. 
+
+If you have any other real estate questions for me, feel free to give me a call. I’d love to speak with you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+A+Mortgage+Experts+Take+on+Our+Spring+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+A+Mortgage+Experts+Take+on+Our+Spring+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The spring market is very busy right now, but because mortgage rates are so low, both buyers and sellers can take advantage of current conditions.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>The spring market is very busy right now, but because mortgage rates are so low, both buyers and sellers can take advantage of current conditions.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Youth Services of Tulsa Provides Help for Young Adults and Teens</title>
+        <link>http://localhost:4000/how-youth-services-of-tulsa-provides-help-for-young-adults-and-teens.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-03-25 10:30:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+See+How+This+Organization+Saves+Young+Lives+Every+Day+(1).mp4</guid>
+        <description>
+
+I’m here today with Brian Young, who works with Youth Services of Tulsa. We’d like to share all the wonderful things this organization is doing for our community.
+
+Youth Services of Tulsa is a nonprofit partner agency of the Tulsa Area United Way. They’re celebrating their 50-year anniversary this year.
+
+The agency works with teenagers and young adults, and they’re the only organization in the area that focuses on these age groups. They offer a full continuum of care to end youth homelessness.
+
+Brian sees a lot of runaway and homeless youth end up in their facilities. They offer safe places to stay and hold outreach programs during the day where youth can have their basic needs met.They have 20 beds in their facility and have helped 300 different individuals in their shelter within the last year.
+
+“They helped 300 different individuals in their shelter within the last year.”
+
+Many come to Youth Services of Tulsa through their safe place program, which is advertised throughout the area. If an adolescent is going through a crisis and needs immediate help, a volunteer can pick them up and bring them to the shelter.
+
+A common misconception is that youth become homeless through some fault of their own. The vast majority are simply going through hard times. A third of the homeless youth population, for example, is made up of 18-year-olds who aged out of foster care and don’t know how to make it on their own.
+
+You can help support Youth Services of Tulsa through donations or volunteer work. They rely on both in order to operate, and they also need items such as underwear and socks. To see how to donate and learn more about the organization, visit www.YST.org.
+
+I’d like to thank Brian for giving us an insightful look at this wonderful organization. If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+See+How+This+Organization+Saves+Young+Lives+Every+Day+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+See+How+This+Organization+Saves+Young+Lives+Every+Day+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s why Youth Services of Tulsa is such a wonderful resource for area teens and young adults.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Here’s why Youth Services of Tulsa is such a wonderful resource for area teens and young adults.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tulsa Foodie, Episode 5: SMOKE. Woodfire Grill</title>
+        <link>http://localhost:4000/tulsa-foodie-episode-5-smoke-woodfire-grill.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-03-07 13:43:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Episode+5-+Tulsa+Foodies+Latest+Feature-+SMOKE.+Woodfire+Grill+(1).mp4</guid>
+        <description>
+
+We love Tulsa. We love food. And we really love featuring local restaurants. 
+
+For today’s “Tulsa Foodie” feature, we’re shining the spotlight on “SMOKE. Woodfire Grill” here on Cherry Street. With the help of Chef Tim, the restaurant’s culinary craftsman, we’ll get to know more about SMOKE. and go on a little tour as well. I’m so excited to acquaint you with this wonderful restaurant! 
+
+Tim joined the SMOKE. team a year and a half ago, and the restaurant itself has existed on Cherry Street for close to eight years, where it has built up its reputation as a preeminent restaurant in Tulsa. They boast a full-service experience with a bar and cigar lounge to complement their outstanding food. 
+
+And no matter what time or day of the week you’d like to stop in, SMOKE. can oblige: They serve lunch and dinner seven days a week and are open a little earlier on weekends to serve brunch options. In Tim’s own words, they “have a little bit of everything to offer everybody.”
+
+“SMOKE. has existed on Cherry Street for close to eight years, where it has built up its reputation as a preeminent restaurant in Tulsa.”
+
+Some of Tim’s personal menu favorites come from their steak selections, but he was excited to share some other novel choices that give SMOKE. its signature feel. Many people don’t realize that, as Tim points out, beyond the meat and potatoes cookery, they offer some great vegan dishes including their vegan cauliflower steak. 
+
+From the moment you walk into SMOKE., you’ll notice a delightfully smoky smell. This permeates from their Aztec grill from which their chefs cook over an open fire. This really draws out an unmatchable amount of flavor in the food they serve, Tim says. 
+
+Now, we’re going to take a look around and get to know SMOKE. inside and out as well as check out their recent remodel. You can begin viewing our brief tour at 3:53 in the video.  
+
+For more information about SMOKE., you can visit their website at SmokeTulsa.com or go ahead and stop in today to find out all that it has to offer! 
+
+And for any real estate-related questions you have, please don’t hesitate to reach out to me by phone at 918-706-9845. I look forward to hearing from you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Episode+5-+Tulsa+Foodies+Latest+Feature-+SMOKE.+Woodfire+Grill+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Episode+5-+Tulsa+Foodies+Latest+Feature-+SMOKE.+Woodfire+Grill+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Welcome back to my series “Tulsa Foodie”! For today’s feature, we’re getting to know SMOKE. Woodfire Grill, along with one of its top chefs, Tim.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Welcome back to my series “Tulsa Foodie”! For today’s feature, we’re getting to know SMOKE. Woodfire Grill, along with one of its top chefs, Tim.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Getting to Know Scott Stulen and the Philbrook Museum of Art</title>
+        <link>http://localhost:4000/getting-to-know-scott-stulen-and-the-philbrook-museum-of-art.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-03-04 11:58:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Have+You+Visited+the+Philbrook+Museum_.mp4</guid>
+        <description>
+Today I am joined by Scott Stulen, the president and director of Philbrook Museum of Art. Originally from Minnesota, Scott, his wife, and two kids moved to Tulsa from Indiana two-and-a-half years ago. He studied studio art as well as art history before finding work in the museum field as an educator, curator, and, now, a director. He came to Tulsa because of a job opportunity and has loved the weather ever since.
+
+“You can find out more about upcoming exhibits at the Philbrook Museum as well as sign up for the member opening party for Mel Bochner by visiting www.philbrook.org”
+
+Having grown up in the Tulsa area, I love the Philbrook Museum of Art. For those of you unfamiliar with this great Tulsa attraction, Scott and I had a chat that I would like to share with you today. I have provided timestamps below so you can find out all about this local treasure.
+
+3:05 – Some background history about the Philbrook Museum of Art4:25 – Scott’s favorite place in the museum5:30 – What Scott is most proud of at the Philbrook Museum6:55 – Upcoming shows and events8:00 – What it costs to visit the museum
+
+You can find out more about upcoming exhibits at the Philbrook Museum as well as sign up for the member opening party for Mel Bochner by visiting www.philbrook.org. And, to learn about upcoming events for all the members of your family, you can check out their events page, here. 
+
+As always, if you have any questions for me about buying or selling, please don’t hesitate to reach out to me. I look forward to speaking with you soon. 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Have+You+Visited+the+Philbrook+Museum_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/2019/MAY/Tulsa+Real+Estate+Agent-+Have+You+Visited+the+Philbrook+Museum_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Scott Stulen joins me today to talk about all the new and exciting changes at one of  Tulsa’s gems: the Philbrook Museum of Art.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Scott Stulen joins me today to talk about all the new and exciting changes at one of  Tulsa’s gems: the Philbrook Museum of Art.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Need Ideas for a Kitchen Remodel? Check Out Elite Cabinets</title>
+        <link>http://localhost:4000/need-ideas-for-a-kitchen-remodel-check-out-elite-cabinets.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-02-19 11:20:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Spotlight+on+Elite+Cabinets.mp4</guid>
+        <description>
+
+Today I’m excited to cast the spotlight on a premier local business, Elite Cabinets, and to get to know the story of its owner, Brandon Massey. I also had the opportunity to pick his brain for his advice to those thinking about doing a kitchen remodel.
+
+Right out of high school, Brandon began his trade as a carpenter. From there, he transitioned into finished carpentry, and then to building cabinets in the modern, European-style that Elite Cabinets specializes in today.
+
+Since he began his business four years ago, Brandon has been very busy due to the popularity of his cabinets. In that time, he’s noticed that the market in Tulsa has trended toward modern, clean, simple lines. What’s really cool about Elite Cabinets is that Brandon’s products can also blend into more rustic, traditional, or craftsman-style homes, depending on the finishes and wood grain colors.
+
+“Think about the layout of the cabinets and how that will interact with the way you use your kitchen in terms of storage and access.”
+
+If you’re planning to remodel your kitchen, Brandon has some advice to offer: Keep the finishes of the products in mind so that they tie into the aesthetic of your home, and also think about the layout of the cabinets and how that will interact with the way you use your kitchen in terms of storage and access (e.g., if you’re right-handed or left-handed).
+
+To make an appointment with Brandon and to learn more about his excellent products, he can be reached at (918) 794-0757 or you can visit his website at www.EliteCabinetsTulsa.com.
+
+For any other questions regarding real estate, you are, as always, encouraged to reach out to me. I’d be happy to speak with you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Spotlight+on+Elite+Cabinets.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Spotlight+on+Elite+Cabinets.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m here today at Elite Cabinets with Brandon Masse not as an agent, but as a customer, to show you their awesome products.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>I’m here today at Elite Cabinets with Brandon Masse not as an agent, but as a customer, to show you their awesome products.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Most Recent MLS Stats Are In! How Did We Do in December?</title>
+        <link>http://localhost:4000/the-most-recent-mls-stats-are-in-how-did-we-do-in-december.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-02-04 10:55:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+The+Most+Recent+Mls+Stats+Are+In!+How+Did+We+Do+in+December_.mp4</guid>
+        <description>
+
+Based on the market statistics that just came in for December 2018, we’re seeing that compared to December 2017, home sales were down 13%. Speaking truthfully, our team definitely felt that drop; it was slower than what we’ve experienced in recent years.  
+
+It’s also useful to note that the number of new homes that came on the market was down 8% to 1,380 homes. Though fewer homes were coming on the market and fewer were selling, homes that were in great condition did sell pretty quickly. Some of you may have noticed that as well.
+
+“We fully expect more sellers to place their homes on the market this year, especially as we draw closer to the prime time of the spring market.”
+
+In Tulsa, the average sales price was $189,325. Within that price point, our average days on market was 47 days. Now, if your home was listed at a price higher than that, it would have taken a little longer to sell. That’s why it’s so important to work with a professional—they can look at your area market to come up with a detailed pricing strategy appropriate for your home. 
+
+We monitor whether a market is a buyer’s, seller’s, or balanced market by looking at the absorption rate, otherwise known as our months’ supply of inventory. The market is always in a state of flux between those market types, so we look at where it’s been to help us understand where it’s going. In December 2017, there were 5.49 months of inventory available. As of last month, there were 4.35 month’s worth of homes on the market. We fully expect more sellers to place their homes on the market this year, especially as we draw closer to the prime time of the spring market.
+
+These stats are important to have on hand when you’re thinking about real estate, no matter if you’re buying, selling, or both. Whatever the case is, we can help and guide you through the process so that you can make smart decisions regarding when it’s a good time to buy or sell. If you have any questions or need any guidance, feel free to reach out to us. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+The+Most+Recent+Mls+Stats+Are+In!+How+Did+We+Do+in+December_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+The+Most+Recent+Mls+Stats+Are+In!+How+Did+We+Do+in+December_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>It’s a new year, and we’re so excited for what’s to come! Finally, the 2018 market report statistics are out. Here is a summary of how we did in the Tulsa-area market.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>It’s a new year, and we’re so excited for what’s to come! Finally, the 2018 market report statistics are out. Here is a summary of how we did in the Tulsa-area market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Shedding Some Light on Home Inspections in Tulsa</title>
+        <link>http://localhost:4000/shedding-some-light-on-home-inspections-in-tulsa.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2019-01-03 12:02:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+An+Experts+Take+on+Home+Inspections+(2).mp4</guid>
+        <description>
+
+Today I’m joined by professional structural engineer Jahan Abdoveis of Foundation Engineering Inspections (FEI) to talk a little about home inspections.
+
+For Jahan, structural engineering is a family affair. His father was a structural engineer too, and he’s the one who started FEI. Their company handles all kinds of inspections, but their primary focus is structural inspections. According to Jahan, the biggest home inspection issue he deals with in Tulsa is the foundation and floor slab problems. 
+
+“Unfortunately, we have uniquely bad soil and uniquely relaxed building standards in Tulsa,” he says.
+
+“A great way for sellers to lay a foundation for a successful home sale is to get a pre-inspection done on their house before they list it.”
+
+Becoming a certified engineer requires a lot of schooling and a long apprenticeship, so inspectors like Jahan are the main authority on whether a home is safe and secure. Jahan and his father don’t see eye to eye on every single home, but between the two of them, they’ve done about 50,000 inspections. 
+
+A great way for sellers to lay a foundation for a successful home sale is to get a pre-inspection done on their house before they list it. That way, you won’t have to deal with any unwelcome surprises when the buyer does their own inspection and you give them peace of mind that they’re getting a quality house. 
+
+If you have any more home inspection questions for Jahan, you can visit www.FEIinspections.com or give their office a call at (918) 865-2593. 
+
+As always, if you have any questions for me about our Tulsa market or you’re thinking of buying or selling a home soon, feel free to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+An+Experts+Take+on+Home+Inspections+(2).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+An+Experts+Take+on+Home+Inspections+(2).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The home inspection is an important part of the home sale process, and today I’ve brought in an expert to shed some light on this topic.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>The home inspection is an important part of the home sale process, and today I’ve brought in an expert to shed some light on this topic.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Tulsa Foodie, Episode 4: Hodges Bend</title>
+        <link>http://localhost:4000/tulsa-foodie-episode-4-hodges-bend.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2018-12-13 14:51:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+4-+Where+you+can+find+high-quality+coffee%252C+wine%252C+and+cocktails.mp4</guid>
+        <description>
+
+Today on “Tulsa Foodie,” I’m spotlighting Hodges Bend, a coffee and cocktail bar in Downtown Tulsa. Joining me for a quick chat is co-owner Noah Bush. 
+
+Noah got into the restaurant business at a young age and has worked a lot of different jobs in the industry over the years. He always had a love of food, but after he started working at a wine bar here in town, he fell in love with wine too. After making a name for himself at Doc’s Wine &amp; Food, he met up with his business partner and they developed the concept of a bar that specializes in coffee, wine, and cocktails. 
+
+Aside from serving high-quality drinks, what you might not know about Hodge’s Bend is that they also serve food. They open at 7 a.m. every weekday and serve breakfast all throughout the day. Once nighttime hits, they switch over to their dinner menu, and on weekends they also serve brunch. Moving forward, they plan to make a few exciting menu changes while retaining their core products.
+
+“Moving forward, they plan to make a few exciting menu changes while retaining their core products.”
+
+“We always wanted to be a bar with really good food,” Noah says. With his wine background and the background of their two chefs, they plan on putting on more wine dinners in the future.
+
+What they’re really known for, though, is their drinks, and I had the pleasure of sampling their best-selling item while we sat at the bar: Irish coffee. Their version of this popular cocktail is made with espresso, sugar syrup, Irish whiskey, and a nice, thick layer of cream on top. 
+
+If you want to try one yourself, you can find Hodges Bend at 823 3rd Street. If you’d like to know more about their establishment, you can visit their website at www.hodges-bend.com/welcome-tulsa/ or email them at info@hodges-bend.com. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+4-+Where+you+can+find+high-quality+coffee%252C+wine%252C+and+cocktails.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+4-+Where+you+can+find+high-quality+coffee%252C+wine%252C+and+cocktails.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>For the latest episode of “Tulsa Foodie,” I’m showcasing Hodges Bend, a bar in downtown Tulsa that specializes in coffee, wine, and cocktails.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>For the latest episode of “Tulsa Foodie,” I’m showcasing Hodges Bend, a bar in downtown Tulsa that specializes in coffee, wine, and cocktails.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Highlighting a Great Local Business: Kitchen Concepts</title>
+        <link>http://localhost:4000/highlighting-a-great-local-business-kitchen-concepts.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2018-12-04 11:19:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+Kitchen+Concepts+Can+Meet+Your+Remodeling+Needs+(1).mp4</guid>
+        <description>
+
+Recently I had the opportunity to speak with Jim Means of Kitchen Concepts about his business here in Tulsa. 
+
+Jim has been in working in design since 1994, but it wasn’t until eight years ago that he transformed his business into what it is today. Now, Kitchen Concepts has its own design team and in-house construction staff, which work together on kitchen and bathroom remodel, additions, parties, and more. 
+
+According to Jim, Kitchen Concepts is “all about you.” 
+
+And as far as price goes, Jim and his team prefer to work within their clients’ budgets. From super high-end products to more modest options, there’s something for every price range.
+
+“Jim and his team at Kitchen Concepts are more than happy to work around your schedule, budget, wants, and needs.”
+
+In general, though, Jim says a full kitchen remodel will tend to cost between $50,000 and $70,000. That said, Jim is more than willing to find solutions for clients who can’t afford quite that much. 
+
+Their showroom is conveniently located in the London South Shopping Center at 5936 S Lewis Avenue. Walk-ins are welcome during the week, or you can visit by appointment on Saturdays. 
+
+Of course, if you aren’t quite sure what you’re looking for, they would be happy to guide you. Not only does the team at Kitchen Concepts stay on top of current trends, but they also like to focus on functionality. Often, this means opening things up to create more space. 
+
+The bottom line is that Jim and his team at Kitchen Concepts are more than happy to work around your schedule, budget, wants, and needs. As their motto says, the goal of Kitchen Concepts is “Creating a kitchen for the way you live.” 
+
+If you want to get in touch with Jim and his team, you can reach them by visiting www.kitchenconceptstulsa.com or by calling (918) 779-4480. 
+
+And, as always, if you have any other questions or would like more information from me, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+Kitchen+Concepts+Can+Meet+Your+Remodeling+Needs+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+Kitchen+Concepts+Can+Meet+Your+Remodeling+Needs+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’re highlighting a great local business: Kitchen Concepts.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>Today we’re highlighting a great local business: Kitchen Concepts.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Team Is Thankful for You This Thanksgiving</title>
+        <link>http://localhost:4000/our-team-is-thankful-for-you-this-thanksgiving.html</link>
+        
+        <author>The Wolek Group</author>
+        <pubDate>2018-11-20 08:36:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Happy+Thanksgiving+from+Our+Team+to+Your+Family.mp4</guid>
+        <description>
+The leaves are changing, the holidays are approaching, and Thanksgiving is just around the corner. Right now is the perfect time to reflect on what you’re thankful for. And we at the Wolek Group are thankful for all of you. We can’t say how much we appreciate your continued support. It’s easy to get caught up in the business of life, but we hope you’re able to take time this holiday season to slow down and appreciate the small things. From our team to your family: Happy Thanksgiving! To hear our full message of thanks, watch this short video.
+
+“What are you thankful for?”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Happy+Thanksgiving+from+Our+Team+to+Your+Family.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Happy+Thanksgiving+from+Our+Team+to+Your+Family.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This Thanksgiving, we’d like to extend our sincere thanks to all of you who have made our business possible.</itunes:subtitle>
+        <itunes:author>The Wolek Group</itunes:author>
+        <itunes:summary>This Thanksgiving, we’d like to extend our sincere thanks to all of you who have made our business possible.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Tulsa Foodie Episode 3: Ediblend Superfood Cafe</title>
-        <link>localhost:4000/tulsa-foodie-episode-3-ediblend-superfood-cafe.html</link>
+        <link>http://localhost:4000/tulsa-foodie-episode-3-ediblend-superfood-cafe.html</link>
         
           <category>Real Estate</category>
         
@@ -50,7 +1171,7 @@ In the future, Amy and Piper are looking forward to expanding their business, an
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+3+%2528Ediblend+Superfood+Cafe%2529.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+3+%2528Ediblend+Superfood+Cafe%2529.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today on “Tulsa Foodie,” we’re giving you a behind-the-scenes look at a great (and healthy) local restaurant: Ediblend Superfood Cafe</itunes:subtitle>
@@ -61,15 +1182,15 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Why You Need a Home Warranty</title>
-        <link>localhost:4000/why-you-need-a-home-warranty.html</link>
+        <link>http://localhost:4000/why-you-need-a-home-warranty.html</link>
         
           <category>Home Buyer Tips</category>
         
           <category>Real Estate</category>
         
         <author>The Wolek Group</author>
-        <pubDate>2018-10-11 09:00:01 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-10-11 09:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+The+Benefits+of+a+Home+Warranty.mp4</guid>
         <description>
 
 Should you get a home warranty? I think so. There are many benefits of having a warranty, no matter if you just bought your home, currently own, or are looking to sell. To help me explain why home warranties are so important, I recently met with Shelley Carson of First American Home Warranty to discuss home warranties and all their benefits.
@@ -84,9 +1205,9 @@ If you have any additional questions about home warranties, you can reach out to
 
 As always, if you have any questions about buying or selling, don’t hesitate to call or email me. I look forward to speaking with you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+The+Benefits+of+a+Home+Warranty.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+The+Benefits+of+a+Home+Warranty.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Home warranties can help save you money for the fun things in a new home.</itunes:subtitle>
         <itunes:author>The Wolek Group</itunes:author>
@@ -96,7 +1217,7 @@ As always, if you have any questions about buying or selling, don’t hesitate t
       
       <item>
         <title>5 Deal-Breakers That Can Wreck Your Home Sale</title>
-        <link>localhost:4000/5-deal-breakers-that-can-wreck-your-home-sale.html</link>
+        <link>http://localhost:4000/5-deal-breakers-that-can-wreck-your-home-sale.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -126,7 +1247,7 @@ We love helping sellers plan their move in advance, so if you’re thinking of s
 If you have any other real estate questions or you’re thinking of buying a home in our Tulsa market, don’t hesitate to reach out to us as well. We’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+These+5+Deal-Breakers+Can+Ruin+Your+Home+Sale.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+These+5+Deal-Breakers+Can+Ruin+Your+Home+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are five transactional deal-breakers that sellers need to plan for before putting their home on the market.</itunes:subtitle>
@@ -137,7 +1258,7 @@ If you have any other real estate questions or you’re thinking of buying a hom
       
       <item>
         <title>Are You Frustrated by Recent Market Inactivity? Don't Give up Yet</title>
-        <link>localhost:4000/are-you-frustrated-by-recent-market-inactivity-dont-give-up-yet.html</link>
+        <link>http://localhost:4000/are-you-frustrated-by-recent-market-inactivity-dont-give-up-yet.html</link>
         
           <category>Market Update</category>
         
@@ -163,7 +1284,7 @@ There are still people out there looking for homes, and, with the right strategy
 If you have any other questions, would like more information, or are curious how we can help you achieve your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+What+This+Dip+in+Market+Activity+Means+for+You.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+What+This+Dip+in+Market+Activity+Means+for+You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Buyer activity has slowed down lately, but does this mean sellers should throw in the towel? Let’s take a look at the truth about recent market conditions.</itunes:subtitle>
@@ -173,8 +1294,8 @@ If you have any other questions, would like more information, or are curious how
       </item>
       
       <item>
-        <title>“Tulsa Foodie” Episode 3: Wild Brew 2018</title>
-        <link>localhost:4000/tulsa-foodie-episode-3-wild-brew-2018.html</link>
+        <title>“Tulsa Foodie” Episode 1: Wild Brew 2018</title>
+        <link>http://localhost:4000/tulsa-foodie-episode-1-wild-brew-2018.html</link>
         
           <category>Real Estate</category>
         
@@ -198,7 +1319,7 @@ I had such a great time at this event, and I want to thank everyone I had the pl
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Local+Food+and+Beer+for+a+Good+Cause.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Local+Food+and+Beer+for+a+Good+Cause.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>For this episode of “Tulsa Foodie,” you’ll need to bring your appetite and your beer mug.</itunes:subtitle>
@@ -208,8 +1329,8 @@ If you have any other questions or would like more information, feel free to giv
       </item>
       
       <item>
-        <title>Satisfy Your Cravings With Fresh Local Flavors at Juniper</title>
-        <link>localhost:4000/satisfy-your-cravings-with-fresh-local-flavors-at-juniper.html</link>
+        <title>“Tulsa Foodie” Episode 2: Satisfy Your Cravings With Fresh Local Flavors at Juniper</title>
+        <link>http://localhost:4000/tulsa-foodie-episode-2-satisfy-your-cravings-with-fresh-local-flavors-at-juniper.html</link>
         
           <category>Real Estate</category>
         
@@ -239,7 +1360,7 @@ Juniper (located at 324 East 3rd Street in downtown Tulsa)  is open for lunch M
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Tulsa+Foodie%252C+Episode+2-+Juniper%252C+Tulsa%252C+OK.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Tulsa+Foodie%252C+Episode+2-+Juniper%252C+Tulsa%252C+OK.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>On today’s episode of “Tulsa Foodie,” we’re taking a look behind the scenes at one of my personal favorites: Juniper.</itunes:subtitle>
@@ -250,7 +1371,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>We Hope to See You at WildBrew on August 25</title>
-        <link>localhost:4000/we-hope-to-see-you-at-wildbrew-on-august-25.html</link>
+        <link>http://localhost:4000/we-hope-to-see-you-at-wildbrew-on-august-25.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2018-08-15 15:34:00 -0500</pubDate>
@@ -281,7 +1402,7 @@ To get tickets to this wonderful event, head on over to wildbrew.org. Experience
 If you have any other questions about the event or about real estate in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Wildbrew+Will+Be+a+Fantastic+Time+for+All.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Wildbrew+Will+Be+a+Fantastic+Time+for+All.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The 20th annual WildBrew is happening on August 25. We sat down with Angela Evans to discuss the event and why it’s always a great time for attendees.</itunes:subtitle>
@@ -292,13 +1413,13 @@ If you have any other questions about the event or about real estate in the mean
       
       <item>
         <title>We Wouldn’t Be Able to Do What We Love Without You</title>
-        <link>localhost:4000/we-wouldnt-be-able-to-do-what-we-love-without-you.html</link>
+        <link>http://localhost:4000/we-wouldnt-be-able-to-do-what-we-love-without-you.html</link>
         
           <category>Real Estate</category>
         
         <author>The Wolek Group</author>
         <pubDate>2018-08-02 11:03:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Today+We+Want+to+Say+Thanks+(3).mp4</guid>
         <description>
 
 Without you, we wouldn’t be able to do what we love every single day and have fun doing it. For this, we want to say thank you. 
@@ -313,9 +1434,9 @@ We also put together an event where we collected donations for Dress for Success
 
 We appreciate you very much, so if there’s anything you need from us or we can assist you in any way, give us a call or send us an email anytime. We’d love to speak with you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Today+We+Want+to+Say+Thanks+(3).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Today+We+Want+to+Say+Thanks+(3).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Buying and selling homes gives us the opportunity to give back to our community, and we want to thank you for helping us do this.</itunes:subtitle>
         <itunes:author>The Wolek Group</itunes:author>
@@ -325,13 +1446,13 @@ We appreciate you very much, so if there’s anything you need from us or we can
       
       <item>
         <title>3 Reasons to Hire a Real Estate Professional When Buying</title>
-        <link>localhost:4000/3-reasons-to-hire-a-real-estate-professional-when-buying.html</link>
+        <link>http://localhost:4000/3-reasons-to-hire-a-real-estate-professional-when-buying.html</link>
         
           <category>Home Buyer Tips</category>
         
         <author>The Wolek Group</author>
-        <pubDate>2018-06-28 16:34:29 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-06-28 16:34:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Why+Should+You+Hire+a+Buyers+Agent%253F+(1).mp4</guid>
         <description>
 
 We all know that it’s important for a homebuyer to use a licensed real estate agent when buying a home. But do you know why? Today I will share three of the top reasons. 
@@ -350,9 +1471,9 @@ With an agent on your side, you will get the best deal and terms, you will know 
 
 If you have any additional questions or are interested in buying, please feel free to call me. I look forward to speaking with you soon.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Why+Should+You+Hire+a+Buyers+Agent%253F+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Why+Should+You+Hire+a+Buyers+Agent%253F+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You know you should have a licensed real estate agent on your side when buying, but do you know why?</itunes:subtitle>
         <itunes:author>The Wolek Group</itunes:author>
@@ -362,11 +1483,11 @@ If you have any additional questions or are interested in buying, please feel fr
       
       <item>
         <title>What 1 Organization Is Doing to Address Childhood Hunger</title>
-        <link>localhost:4000/what-1-organization-is-doing-to-address-childhood-hunger.html</link>
+        <link>http://localhost:4000/what-1-organization-is-doing-to-address-childhood-hunger.html</link>
         
         <author>The Wolek Group</author>
-        <pubDate>2018-06-22 11:36:27 -0500</pubDate>
-        <guid></guid>
+        <pubDate>2018-06-22 11:36:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-Tulsa+Real+Estate+Agent-+An+Opportunity+to+Help+Hungry+Children+(2).mp4</guid>
         <description>
 
 Today I am excited to bring you some important information about a great local organization: the Community Food Bank of Eastern Oklahoma. 
@@ -389,9 +1510,9 @@ Of course, volunteering your time and donating food are also great ways to help.
 
 So, if you want to get in touch with Eileen, you can give her a call at (918) 585-2800, or visit www.okfoodbank.org. 
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-Tulsa+Real+Estate+Agent-+An+Opportunity+to+Help+Hungry+Children+(2).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-Tulsa+Real+Estate+Agent-+An+Opportunity+to+Help+Hungry+Children+(2).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I am taking you behind the scenes at an amazing local organization: the Community Food Bank of Eastern Oklahoma.</itunes:subtitle>
         <itunes:author>The Wolek Group</itunes:author>
@@ -401,7 +1522,7 @@ So, if you want to get in touch with Eileen, you can give her a call at (918) 58
       
       <item>
         <title>Should You Get a Raised Garden Bed This Season?</title>
-        <link>localhost:4000/should-you-get-a-raised-garden-bed-this-season.html</link>
+        <link>http://localhost:4000/should-you-get-a-raised-garden-bed-this-season.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2018-06-22 11:31:14 -0500</pubDate>
@@ -427,7 +1548,7 @@ Ultimately, the decision as to whether a raised bed is right for you depends on 
 As always, if you have any other questions for me or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Pros+and+Cons+of+Raised+Garden+Beds.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+Pros+and+Cons+of+Raised+Garden+Beds.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is a raised bed the right solution for your garden? There are a few pros and cons you should consider before making that decision.</itunes:subtitle>
@@ -438,7 +1559,7 @@ As always, if you have any other questions for me or would like more information
       
       <item>
         <title>Emergency Infant Services: Where Struggling Tulsa Families Can Find Help</title>
-        <link>localhost:4000/emergency-infant-services-where-struggling-tulsa-families-can-find-help.html</link>
+        <link>http://localhost:4000/emergency-infant-services-where-struggling-tulsa-families-can-find-help.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2018-06-22 11:25:23 -0500</pubDate>
@@ -464,7 +1585,7 @@ If you’d like to get in touch with EIS or you’d like more information on how
 As always, if you have any questions for me or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+EIS+Helps+Families+in+Our+Community.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+EIS+Helps+Families+in+Our+Community.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Emergency Infant Services provides relief and support to families in Tulsa who are struggling financially. They do so with love and without judgment.</itunes:subtitle>
@@ -475,7 +1596,7 @@ As always, if you have any questions for me or you’re thinking of buying or se
       
       <item>
         <title>7 Tips for Decluttering Your Home</title>
-        <link>localhost:4000/7-tips-for-decluttering-your-home.html</link>
+        <link>http://localhost:4000/7-tips-for-decluttering-your-home.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -507,7 +1628,7 @@ All these things sound crazy, however, they make a lot of difference. A declutte
 If you need any help with decluttering your home or have other questions, please don’t hesitate to reach out to me. I’d be glad to help you however I can.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+to+Declutter+Your+Home+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Real+Estate+Agent-+How+to+Declutter+Your+Home+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Decluttering your home can feel overwhelming, but these seven steps will hopefully help you simplify the process before you sell your home.</itunes:subtitle>
@@ -518,7 +1639,7 @@ If you need any help with decluttering your home or have other questions, please
       
       <item>
         <title>We Are Looking for Homes to Sell</title>
-        <link>localhost:4000/we-are-looking-for-homes-to-sell.html</link>
+        <link>http://localhost:4000/we-are-looking-for-homes-to-sell.html</link>
         
           <category>Market Update</category>
         
@@ -538,7 +1659,7 @@ Another tool that we use is called “My Buyer Listings,” a website just for b
 If you have a home in this price range that you’d consider selling or if you have any other questions, please reach out to us and let us know how we can help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+We+Are+Low+on+Inventory.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+We+Are+Low+on+Inventory.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our market is short on listings. Do you have a home to sell for between $150,000 and $250,000?</itunes:subtitle>
@@ -549,7 +1670,7 @@ If you have a home in this price range that you’d consider selling or if you h
       
       <item>
         <title>Teaching Kids About Science and Teamwork Through Global Gardens </title>
-        <link>localhost:4000/tulsa-real-estate-agent-community-spotlight-global-gardens.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-community-spotlight-global-gardens.html</link>
         
           <category>The Wolek Group</category>
         
@@ -591,7 +1712,7 @@ I would like to thank Maryann for taking the time to talk to me today. You can l
 If you have any real estate questions or know another local nonprofit you think we should spotlight, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -610,7 +1731,7 @@ Maryann Donahue from Global Gardens is here today to share how this wonderful or
       
       <item>
         <title>How Can Cleansing Rain Help You Clean and Organize Your Home?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-clean-your-home-with-cleansing-rain.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -646,7 +1767,7 @@ To learn more about Lacie and her business, you can visit her website at www.Cle
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Clean+Your+Home+with+Cleansing+Rain.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Clean+Your+Home+with+Cleansing+Rain.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -665,7 +1786,7 @@ Today, I want to talk about Cleansing Rain, which is an incredible home cleaning
       
       <item>
         <title>How John Carter Bathrooms Can Help You </title>
-        <link>localhost:4000/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-our-favorite-bathroom-remodel-specialist.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -707,7 +1828,7 @@ My phone number is 918-574-4610 or look at my website, JohnCarterBathrooms.com. 
 Thank you to John for answering my questions. As always, if you have any real estate questions, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Favorite+Bathroom+Remodel+Specialist.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Favorite+Bathroom+Remodel+Specialist.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -726,7 +1847,7 @@ John Carter from John Carter Bathrooms is here today to answer a few questions a
       
       <item>
         <title>What Does Luxe Furniture and Design Have to Offer?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-luxe-is-great-for-products-and-design.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -768,7 +1889,7 @@ You can find us in our showroom at 9922 Riverside Parkway in Tulsa, Oklahoma, in
 As always, if you need anything in terms of real estate from the Wolek Group, please feel free to reach out to us. Have a great day!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+Luxe+Is+Great+for+Products+and+Design.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+Luxe+Is+Great+for+Products+and+Design.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -787,7 +1908,7 @@ Today I’m here with Tamara Noel, owner of Luxe Furniture and Design, to discus
       
       <item>
         <title>Will I See You at the Toyland Ball in January?</title>
-        <link>localhost:4000/will-i-see-you-at-toyland-ball-in.html</link>
+        <link>http://localhost:4000/will-i-see-you-at-toyland-ball-in.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -819,7 +1940,7 @@ We hope you have a very Merry Christmas and a Happy New Year!
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/December/Tulsa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance+to+Make+a+Difference.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/December/Tulsa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance+to+Make+a+Difference.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -838,7 +1959,7 @@ The mission of The Parent Child Center of Tulsa is to prevent child abuse and ne
       
       <item>
         <title>This Time, I'm the One Who's Buying</title>
-        <link>localhost:4000/this-time-im-the-one-whos-buying.html</link>
+        <link>http://localhost:4000/this-time-im-the-one-whos-buying.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2017-12-05 09:51:00 -0600</pubDate>
@@ -865,7 +1986,7 @@ If you have any questions, just give me a call or send me an email. I look forwa
 If you have any other questions or would like more information, feel free to give me a call at (918) 712-2252 or send me an email at info@TheWolekGroup.com. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+I%2527m+Looking+for+an+Investment+Property.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/January+2018/Tulsa+Real+Estate+Agent-+I%2527m+Looking+for+an+Investment+Property.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -882,7 +2003,7 @@ I’m on the hunt for an investment property in the TU/Midtown area. These kinds
       
       <item>
         <title>Holiday Gift Ideas and More with Candra at Saks</title>
-        <link>localhost:4000/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-a-few-more-holiday-gift-ideas.html</link>
         
           <category>Tulsa Real Estate Agents</category>
         
@@ -916,7 +2037,7 @@ The best way to contact them is through their Facebook page, which they are cons
 If you have any other questions or would like more information, feel free to give me a call at (918) 706-9845 or send me an email at Info@TheWolekGroup.com. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Holiday+Gift+Ideas+and+More+with+Candra+at+Saks.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Holiday+Gift+Ideas+and+More+with+Candra+at+Saks.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -935,7 +2056,7 @@ Looking for some great holiday gift ideas? Look no further than Saks Fifth Avenu
       
       <item>
         <title>Let Us Help You Find Your Dream Home</title>
-        <link>localhost:4000/tulsa-real-estate-agent-our-tool-to-help-you-find-that-dream-home.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-our-tool-to-help-you-find-that-dream-home.html</link>
         
           <category>Tulsa Real Estate Buyers Tips</category>
         
@@ -969,7 +2090,7 @@ Even if you’re just starting to think about the buyer search or you’ve been 
 If you have any other questions or would like more information, feel free to give me a call at (918) 712-2252 or send me an email at info@TheWolekGroup.com. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Tool+to+Help+You+Find+That+Dream+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/FEB+18'/Tulsa+Real+Estate+Agent-+Our+Tool+to+Help+You+Find+That+Dream+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -988,7 +2109,7 @@ If you’ve struggled to find your dream home by searching on your own, we have 
       
       <item>
         <title>Groggs Green Barn Is Unique to Tulsa</title>
-        <link>localhost:4000/tulsa-real-estate-agent-groggs-green-barn.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-groggs-green-barn.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -1018,7 +2139,7 @@ I highly recommend that you come down here and check out Grogg’s Green Barn. T
 If you have any real estate questions or needs, don’t hesitate to reach out to us. We’re always here to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Grogg%2527s+Green+Barn.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Grogg%2527s+Green+Barn.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1037,7 +2158,7 @@ We’re out at Grogg’s Green Barn today with owner Carla Grogg. She’s going 
       
       <item>
         <title>How Should You Handle a Low Offer?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-dont-reject-low-offers-out-of-hand.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-dont-reject-low-offers-out-of-hand.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -1080,7 +2201,7 @@ That’s our goal: to get you the most money, and for the buyers to get the best
 Let me know if this was helpful to you, and if you have any questions, give me call! I’d love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+How+to+Handle+Lower+Offers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+How+to+Handle+Lower+Offers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1100,63 +2221,8 @@ Do not take the low offer personally.
       </item>
       
       <item>
-        <title>How Can DISC Help You Help Others?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-how-disc-can-help-you-succeed.html</link>
-        
-          <category>Tulsa Real Estate</category>
-        
-        <author>The Wolek Group</author>
-        <pubDate>2017-08-28 10:22:00 -0500</pubDate>
-        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+How+DISC+Can+Help+You+Succeed.mp4</guid>
-        <description>
-
-We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
-
-
-Looking to sell your Tulsa area home? Get a free home value report
-Looking to buy a Tulsa area home? Click here to browse Tulsa homes for sale
-
-Did you know that you can use behavioral assessments and analyses not only in your business, but in your personal life as well?
-
-When you can observe behaviors in your friends, family, coworkers, clients, etc., you know better how to adapt and relate to who they are and understand how to help them.
-
-We use the DISC personality profile to accomplish these things. What does DISC stand for, though?
-
-The D stands for “driver,” “dominant,” or “doer.” These people are the CEOs and trial attorneys of the world. These people come in, get stuff done, and don’t allow anyone to waste their time.
-
-The I stands for “influencer.” These people are motivated and typically work through other people. They’re sometimes referred to as “the life of the party” or “a social butterfly.” This isn’t always the case, but they’re definitely not shy in group settings.
-
-“YOU CAN TELL A LOT ABOUT PEOPLE BY HOW THEY ACT IN GROUPS AND HOW THEY WORK THROUGH CHALLENGES IN THEIR LIFE.”
-
-The S stands for “steady,” “stable,” or “secure.” This personality represents the majority of the population. These people don’t like change. They’re the schoolteachers of the world. They’re all about love—when you walk into their home, you’ll see family pictures everywhere because that’s important to them. It should be important to all of us, but it’s especially evident in them.
-
-Finally, the C stands for “compliant.” These people are the accountants and engineers of society. They love following the rules and checking off tasks. Sometimes, they’re hesitant to move forward until they have all the answers.
-
-All of us have each of these different behaviors inside of us—they just show up differently for each person. Some people are more slanted toward one behavior, while others are a blend of each. D and C personalities are task-motivated, while I and S personalities are more relationship oriented. You tell a lot about people by how they act in groups and how they work through challenges in their life.
-
-If you have any questions about DISC or how you can use behavioral assessments to better your life and the lives of those around you, feel free to get in touch with me. I’d be happy to talk with you.
-</description>
-        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+How+DISC+Can+Help+You+Succeed.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+How+DISC+Can+Help+You+Succeed.mp4" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>
-
-We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
-
-</itunes:subtitle>
-        <itunes:author>The Wolek Group</itunes:author>
-        <itunes:summary>
-
-We use the DISC personality profile to help us in our business and personal lives. Here’s what DISC stands for.
-
-</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tulsa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
         <title>How Can You Take Advantage of Our Shifting Market?</title>
-        <link>localhost:4000/tulsa-real-estate-agent-what-do-shifting-markets-mean-for-you.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-what-do-shifting-markets-mean-for-you.html</link>
         
           <category>Tulsa Real Estate</category>
         
@@ -1190,7 +2256,7 @@ You have only one opportunity, and that’s early on in the listing period. That
 Whether you’re thinking about selling or buying a house in our market, we’d love to help you out. Just give me a call or send me an email and I’d be happy to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+What+Do+Shifting+Markets+Mean+for+You%253F+(1).mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+What+Do+Shifting+Markets+Mean+for+You%253F+(1).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1209,7 +2275,7 @@ Our market is shifting, but if you’re a home seller, it’s still an ideal tim
       
       <item>
         <title>Why You Shouldn't Fear the Shift in Our Market</title>
-        <link>localhost:4000/tulsa-real-estate-agent-are-we-finally-seeing-a-shift-in-our-market.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-are-we-finally-seeing-a-shift-in-our-market.html</link>
         
           <category>Market Update</category>
         
@@ -1241,7 +2307,7 @@ Make sure that you’re choosing an agent that is really researching the market 
 If you have any questions or need anything at all, give me a call. I’m happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Are+We+Finally+Seeing+a+Shift+in+Our+Market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Are+We+Finally+Seeing+a+Shift+in+Our+Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1260,7 +2326,7 @@ As we start to see our local market trend away from the seller’s market we’v
       
       <item>
         <title>Great Day Moving Makes Moving Stress Free</title>
-        <link>localhost:4000/tulsa-real-estate-agent-are-you-tired-of-moving-related-stress.html</link>
+        <link>http://localhost:4000/tulsa-real-estate-agent-are-you-tired-of-moving-related-stress.html</link>
         
           <category>Featured Service Providers</category>
         
@@ -1304,7 +2370,7 @@ If you’d like to reach out to Julie you can contact her by calling (918) 877-1
 If I can answer any other questions or you’d like more information, feel free to give me a call or send me an email. I look forward to hearing from you, soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Are+You+Tired+of+Moving+Related+Stress%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/Tulsa+Real+Estate+Agent-+Are+You+Tired+of+Moving+Related+Stress%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -1323,15 +2389,12 @@ The moving and real estate industries have a lot in common. I recently spoke wit
       
       <item>
         <title>Interested in a Career in Real Estate?</title>
-        <link>localhost:4000/interested-in-career-in-real-estate.html</link>
-        
-          <category>Tulsa Real Estate Agents</category>
+        <link>http://localhost:4000/interested-in-a-career-in-real-estate.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2017-06-15 10:41:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Help+Wanted+for+the+Most+Fun+Job+in+Real+Estate.mp4</guid>
         <description>
-
 Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
 
 
@@ -1350,18 +2413,16 @@ We’re looking to build our team with a member who has been looking to get into
 
 Just give us a call or send us an email soon. I look forward to hearing from you!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Help+Wanted+for+the+Most+Fun+Job+in+Real+Estate.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/November+/Tulsa+Real+Estate+Agent-+Help+Wanted+for+the+Most+Fun+Job+in+Real+Estate.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
 
 </itunes:subtitle>
         <itunes:author>The Wolek Group</itunes:author>
         <itunes:summary>
-
 Our workload is growing and we need our team to grow too. Are you or someone you know interested in working for a team like ours?
 
 </itunes:summary>
@@ -1370,7 +2431,7 @@ Our workload is growing and we need our team to grow too. Are you or someone you
       
       <item>
         <title>Have You Downloaded Our Homekeepr App?</title>
-        <link>localhost:4000/have-you-downloaded-our-homekeepr-app.html</link>
+        <link>http://localhost:4000/have-you-downloaded-our-homekeepr-app.html</link>
         
         <author>The Wolek Group</author>
         <pubDate>2017-05-23 15:22:00 -0500</pubDate>
@@ -1397,7 +2458,7 @@ If you’re a small business owner or service provider who’s interested in bei
 If you have any other questions for us or you’re looking to buy or sell in Tulsa anytime soon, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/May+17/Tulsa+Real+Estate+Agent-+A+Word+About+Our+Homekeepr+App.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Videos/May+17/Tulsa+Real+Estate+Agent-+A+Word+About+Our+Homekeepr+App.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>

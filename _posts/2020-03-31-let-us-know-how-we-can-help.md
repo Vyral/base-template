@@ -13,6 +13,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-were-here-to-help-yt.jpg
 youtube_code: rc9TN7qb26M
+hidden: false
 ---
 
 {% include youtube.html %}
