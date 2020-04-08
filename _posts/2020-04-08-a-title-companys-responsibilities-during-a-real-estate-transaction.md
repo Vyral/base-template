@@ -1,13 +1,14 @@
 ---
 layout: post
 title: A Title Company's Responsibilities During a Real Estate Transaction
-date: 2020-04-08 19:48:14
+date: 2020-04-08 19:48:00
 tags:
   - Real Estate
 excerpt: >-
   What are the title company’s responsibilities during a real estate
   transaction? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/A+Title+Company's+Responsibilities+During+a+Real+Estate+Transaction.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: rrViI7GxXCQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What are the title company’s responsibilities during a real estate transaction? Find out here.</em></p>
+*What are the title company’s responsibilities during a real estate transaction? Find out here.*
 
 In a real estate transaction, the title company takes the contract for your transaction and does a title search to make sure there are no liens, back taxes, or anything else that can encumber your transaction. Once they do, they’ll issue you a title commitment and send a copy to your lender and your agent.
 
