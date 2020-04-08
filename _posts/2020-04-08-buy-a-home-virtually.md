@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Buy a Home Virtually
-date: 2020-04-08 18:35:45
+date: 2020-04-08 18:35:00
 tags:
+  - Home Buyer Tips
+  - Real Estate
 excerpt: We have tools and services to help you buy a home virtually. Learn how here.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buy+a+Home+Virtually.mp4
