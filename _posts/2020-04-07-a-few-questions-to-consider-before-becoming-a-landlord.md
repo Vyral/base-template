@@ -22,7 +22,7 @@ youtube_code: Fvoxdg1XGco
 
 I had a very interesting discussion with someone today who moved into a new home before selling their current one. They wanted to know whether they should rent out that first home or sell it. It’s a very interesting question, one that doesn’t always have a clear answer.
 
-It comes down to what you want to do. I’m all for people owning real estate and using it to leverage future wealth. Before you decide to sell or become a landlord, here are some questions you need to answer;
+It comes down to what you want to do. I’m all for people owning real estate and using it to leverage future wealth. Before you decide to sell or become a landlord, here are some questions you need to answer:
 
 **1\. What price point is the home?** Not all homes are suitable for becoming rentals in regard to the return that you’ll get.
 
@@ -32,4 +32,4 @@ It comes down to what you want to do. I’m all for people owning real estate an
 
 Some people simply don’t have a desire to become a landlord. Others do, but they’re not sure whether this is the property they should start with.
 
-**There are endless options out there to build wealth through real estate.** If you have any questions or want to talk about your personal situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+**There are endless options out there to build wealth through real estate.** If you have any questions or want to talk about your situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
