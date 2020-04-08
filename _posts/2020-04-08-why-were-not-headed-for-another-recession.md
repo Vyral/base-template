@@ -18,7 +18,7 @@ youtube_code: _fnbLa8ng0U
 
 {% include youtube.html %}
 
-Don’t panic: The real estate market is not on the brink of another recession. Here’s why.
+<p style="text-align: center;"><em>Don’t panic: The real estate market is not on the brink of another recession. Here’s why.</em></p>
 
 What’s happening with our real estate market? Many people are wondering, and some are panicky because they think we’re in for another Great Recession. The market environment we’re in now isn’t the same as the one back in 2008, though.
 
