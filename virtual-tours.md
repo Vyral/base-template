@@ -6,7 +6,7 @@ permalink: /virtual-tours/
 
 <h1>What We’re Doing to Still Help Our Clients</h1>
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ENv0dPJyt78?rel=0" frameborder="0" allowfullscreen="" style="position: absolute; top: 0px; left: 0px;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ENv0dPJyt78" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <p>Today we’re sharing how we at The Mikki Ramey Team are staying safe and still serving needs. First and foremost, we extend a heavy thanks to all the nurses, doctors and other healthcare providers—the real heroes—who are out there everyday doing their best to take care of patients. On our front, we’re of course trying to stay home and help flatten the curve.</p>
