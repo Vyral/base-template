@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How COVID-19 Has Affected Our Market
+title: How to Perceive the Current Market
 date: 2020-04-06 00:00:00
 tags:
   - Real Estate
