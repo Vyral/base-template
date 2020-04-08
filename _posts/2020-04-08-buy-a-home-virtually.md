@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buy a Home Virtually
-date:
+date: 2020-04-08 18:35:45
 tags:
 excerpt: We have tools and services to help you buy a home virtually. Learn how here.
 enclosure: >-
