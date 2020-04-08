@@ -23,6 +23,6 @@ youtube_code: E7aP7XivMZY
 
 Hopefully, you’re all staying safe and healthy during these tumultuous times. Everything has been changing at a breakneck pace these past few weeks, and the same is true for real estate.
 
-All in all, real estate transactions will continue, though we’ve had to take certain measures to keep our agents and clients safe, like virtual communication. We already had many of these tools in place before the pandemic, which allowed us to adapt to the changing times even easier.
+All in all, real estate transactions will continue, though we’ve had to take certain measures to keep our agents and clients safe, like virtual communication. We already had many of these tools in place before the pandemic, which allowed us to adapt to the changing times more easily.
 
 To learn more about how we’re able to keep your transactions going and what precautions you’ll need to take if you plan to buy or sell, watch the short video above.
