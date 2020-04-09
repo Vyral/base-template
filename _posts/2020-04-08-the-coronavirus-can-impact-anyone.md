@@ -21,6 +21,6 @@ youtube_code: fuyBYvYL8tM
 
 <p style="text-align: center;"><em>Sadly, the coronavirus has impacted me personally. Today I wanted to discuss some realizations I’ve come to after losing a friend to COVID-19.</em></p>
 
-I sincerely hope you and your family are hunkered down safely at home. My team is continuing to practice real estate virtually, we’ve had this technology for years, so it was almost a seamless transition. However, honestly, real estate is secondary in my mind currently.
+I sincerely hope you and your family are hunkered down safely at home. My team is continuing to practice real estate virtually&#151;we’ve had this technology for years, so it was almost a seamless transition. However, honestly, real estate is secondary in my mind currently.
 
 I lost a friend and colleague today to the coronavirus, so my mind is understandably in a different place. Today I wanted to share a little of his story and the realizations I’ve come to while dealing with this grief. To hear more, please watch the video above.
