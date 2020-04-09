@@ -22,7 +22,7 @@ youtube_code: yBHH2uDbBpE
 
 {% include youtube.html %}
 
-Waymark Property Management will take care of all of your property management needs.
+<p style="text-align: center;"><em>Waymark Property Management will take care of all of your property management needs.</em></p>
 
 In today’s Brand Ambassador spotlight, we’re coming to you live from our Carlisle office to meet with Cal Yoder, my good friend who oversees Waymark Property Management.&nbsp;
 
