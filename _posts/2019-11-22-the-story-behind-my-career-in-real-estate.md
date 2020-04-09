@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-my-journey-into-the-real-estate-business-youtube.jpg
-youtube_code: 'https://youtu.be/p1xHi8MDt1o'
+youtube_code: p1xHi8MDt1o
 ---
 
 {% include youtube.html %}&nbsp;

@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-katherines-personal-wolek-group-experience-youtube.jpg
-youtube_code: 'https://youtu.be/tqUffqwgNsg'
+youtube_code: tqUffqwgNsg
 ---
 
 {% include youtube.html %}

@@ -5,8 +5,7 @@ date: 2018-10-25 15:03:00
 tags:
   - Real Estate
 excerpt: >-
-  Today on “Tulsa Foodie,” we’re giving you a behind-the-scenes look at a great
-  (and healthy) local restaurant: Ediblend Superfood Cafe
+  'Today on “Tulsa Foodie,” we’re giving you a behind-the-scenes look at a great and healthy local restaurant: Ediblend Superfood Cafe'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Jennie+Wolek/Tulsa+Foodie+Ep.+3+%2528Ediblend+Superfood+Cafe%2529.mp4
 pullquote: >-
@@ -16,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/jennie-wolek-ediblend-youtube.jpg
-youtube_code: 'https://youtu.be/TOzQH7z98zI'
+youtube_code: TOzQH7z98zI
 ---
 
 {% include youtube.html %}
@@ -31,6 +30,6 @@ Eventually, they started making cleanses for these people and, before they knew 
 
 Looking at their wide range of healthy and delicious blends, like the Sweet Green, 1717, and Sexy Yowza, it’s no wonder why. And though these juice blends are where they got their start, the Ediblend Superfood Cafe has a lot more to offer. When you visit their restaurant, you can also enjoy great salads or one of their customizable açaí bowls. Best of all, everything in the cafe is made fresh every single day. 
 
-In the future, Amy and Piper are looking forward to expanding their business, and its menu, even wider. If you’re as interested as we are in seeing what’s on the horizon for Ediblend Superfood Cafe, or you’re curious about their hours, locations, or menu, **be sure to follow them on <u><a target="_blank" href="https://www.facebook.com/ediblendcafe/">Facebook</a></u> or visit their website: <u><a target="_blank" href="https://ediblend.com/">https://ediblend.com/</a>&nbsp;</u>**
+In the future, Amy and Piper are looking forward to expanding their business, and its menu, even wider. If you’re as interested as we are in seeing what’s on the horizon for Ediblend Superfood Cafe, or you’re curious about their hours, locations, or menu, **be sure to follow them on <u><a target="_blank" href="https://www.facebook.com/ediblendcafe/">Facebook</a></u> or visit their website: <u><a target="_blank" href="https://ediblend.com/">https://ediblend.com/</a></u>**
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
