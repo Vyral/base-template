@@ -21,9 +21,7 @@ youtube_code: 'https://youtu.be/57jyMbFfzgY'
 
 <p style="text-align: center;"><em>If you’re a landlord having problems with your tenants or a homeowner struggling to pay your mortgage, an economic injury disaster loan can help.</em></p>
 
-**Economic Injury Disaster Loans (EIDLs)**
-
-Some of you may want to run straight to the PPP, in which loans can be forgiven. Don’t\! You can also obtain the EIDL loan and use it for a different purpose. I am talking about this loan before describing the PPP for several reasons. First, you can apply online immediately without having to talk with a banker, and second, you can receive up to $10,000 much more quickly and also get this amount forgiven. Here are the details….
+Some of you may want to run straight to the PPP, in which loans can be forgiven. Don’t\! You can also obtain the EIDL (Economic Injury Disaster Loans) loan and use it for a different purpose. I am talking about this loan before describing the PPP for several reasons. First, you can apply online immediately without having to talk with a banker, and second, you can receive up to $10,000 much more quickly and also get this amount forgiven. Here are the details….
 
 These types of loans have been around a long time and used in the past by those whose businesses were harmed by a natural disaster. Since President Trump essentially designated the entire country as a disaster area, these loans fall under the CARES Act and are now available to all business owners. They were also enhanced with an immediate relief check of $10,000 (for those that make too much to get the stimulus check, this is your chance to cash in and get some help for your business).
 
