@@ -19,7 +19,7 @@ youtube_code: dt2C-kJh2KY
 
 {% include youtube.html %}
 
-Real estate is considered an essential industry, which means that the Dar Walden Team is still operating.
+<p style="text-align: center;"><em>Real estate is considered an essential industry, which means that the Dar Walden Team is still operating.</em></p>
 
 Though I’m sure we’ve all had our fill of hearing about the COVID-19 pandemic, I just wanted to reach out and let you know that even while 97% of the country is under stay-at-home measures, the Dar Walden Team is still operating.
 
