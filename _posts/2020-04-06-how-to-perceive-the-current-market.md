@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: How has the coronavirus affected our market? Here's a quick rundown.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/How+to+Perceive+the+Current+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
