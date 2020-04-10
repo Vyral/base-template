@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How can we continue to support our local economy
-date: 2020-04-10 16:48:28
+date: 2020-04-10 16:48:00
 tags:
 excerpt: >-
   Today we’re going to talk about the back doorway we can help our housing
   market
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/The+Stern+Team-+How+Can+We+Continue+To+Support+Our+Local+Economy_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
