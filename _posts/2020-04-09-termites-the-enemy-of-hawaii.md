@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'Termites: The Enemy of Hawaii'
-date: 2020-04-09 17:30:58
+date: 2020-04-09 17:30:00
 tags:
-  - Homeowner Tips
 excerpt: >-
   Termites are one of the worst things to have in your home. Today I’m sharing
   my advice on how to handle this problem.
@@ -19,11 +18,11 @@ youtube_code: l_JmFwz_R7E
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Termites are one of the worst things to have in your home. Today I’m sharing my advice on how to handle this problem.</em></p>
+*Termites are one of the worst things to have in your home. Today I’m sharing my advice on how to handle this problem.*
 
 When I have to be the bearer of bad news to homeowners and tell them we’ve found termites, that’s really the worst news a person can get in Hawaii. That’s because, **if you’re part of a townhome or condo situation, most of the time you can’t tent the building,** you can only spot-treat the issue. That’s a challenging situation. If you’re a single-family homeowner, you can consider tenting the entire house, but it’s problematic if you have a tenant because they’ll likely have to find other living arrangements during that time.
 
-Termites can eat up to five pounds of wood per week\! My advice is to tent the property or have someone spot-treat the problem *immediately*. Termites are the most formidable adversary we have in Hawaii. Another problem is, many **people try to put off termite treatment and then end up having widespread damage** to their home.&nbsp;
+Termites can eat up to five pounds of wood per week\! My advice is to tent the property or have someone spot-treat the problem *immediately*. Termites are the most formidable adversary we have in Hawaii. Another problem is, many **people try to put off termite treatment and then end up having widespread damage** to their homes.&nbsp;
 
 {% include pullquote.html %}
 
