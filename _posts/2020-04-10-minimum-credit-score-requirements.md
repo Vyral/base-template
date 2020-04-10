@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimum Credit Score Requirements
-date:
+date: 2020-04-10 21:37:43
 tags:
   - Home Buyer Tips
 excerpt: >-
