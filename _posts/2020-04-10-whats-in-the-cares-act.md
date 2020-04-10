@@ -16,6 +16,8 @@ youtube_code: YXk8D2yaTd4
 
 {% include youtube.html %}
 
-*I’m providing a guide to the CARES Act to show how you could benefit from it. *
+<center><em>I’m providing a guide to the CARES Act to show how you could benefit from it. </em></center>
+
+&nbsp;&nbsp;
 
 Recently, many clients have been asking about how the CARES Act works, the $2 trillion that will provide relief to several groups impacted by the coronavirus pandemic. Today I’m covering a few of the main points from the Act. For example, an estimated $560 billion will be given to individual people in need, and $377 billion will be provided to small businesses that require assistance. Senate Majority Leader Mitch McConnell defined this legislation as necessary emergency relief and promised to put partisanship aside to get it done. For individuals, if you earn less than $75,000, you’ll gain $1,200 from the government.
