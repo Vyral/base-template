@@ -18,7 +18,8 @@ youtube_code: 0oPCUBWwm08
 
 {% include youtube.html %}
 
-*Today we’re going to talk about the back doorway we can help our housing market*
+<center><em>Today we’re going to talk about the back doorway we can help our housing market</em></center>
+&nbsp;&nbsp;
 
 Today we’re going to talk about the back doorway we can help our housing market.&nbsp; That’s by helping our local economy which in turn keeps our housing market healthy.&nbsp;&nbsp;
 
