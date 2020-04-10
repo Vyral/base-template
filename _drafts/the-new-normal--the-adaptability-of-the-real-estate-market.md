@@ -19,7 +19,9 @@ youtube_code: 1B4GgTsbrE0
 
 {% include youtube.html %}
 
-What’s happening with the real estate market in the wake of the coronavirus pandemic?
+<center><em>The real estate market has adapted well to the new normal.</em></center>
+
+<br>What’s happening with the real estate market in the wake of the coronavirus pandemic?
 
 If you’re anything like us, you’re stuck indoors trying to juggle things like homeschooling, working in close quarters next to your spouse, and new cooking recipes (sometimes succeeding, sometimes failing).
 
