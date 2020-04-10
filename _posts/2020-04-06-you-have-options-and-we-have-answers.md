@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’ve been keeping a close eye on the options out there for homeowners,
   renters, and everyone else.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/You+Have+Options+and+We+Have+Answers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
