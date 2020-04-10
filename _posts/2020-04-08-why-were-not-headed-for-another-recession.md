@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why We’re Not Headed for Another Recession
+title: Why We're Not Headed For Another Housing Crisis
 date: 2020-04-08 21:22:39
 tags:
   - Market Update
