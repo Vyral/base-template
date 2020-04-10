@@ -20,6 +20,6 @@ youtube_code: _fnbLa8ng0U
 
 <p style="text-align: center;"><em>Don’t panic: The real estate market is not on the brink of another recession. Here’s why.</em></p>
 
-What’s happening with our real estate market? Many people are wondering, and some are panicky because they think we’re in for another Great Recession. The market environment we’re in now isn’t the same as the one back in 2008, though.
+What’s happening with our real estate market? Many people are wondering whether we’re in for another Great Recession, and that prospect has some feeling panicky. The market environment we’re in now isn’t the same as the one back in 2008, though.
 
 The residential market, in particular, doesn’t follow the stock market. Inventory is tight, interest rates are at record lows, and home values aren’t dropping. To get the full update on our market, including what impact the coronavirus has had on things, watch my video above.
