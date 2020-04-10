@@ -4,6 +4,7 @@ title: You Have Options and We Have Answers
 date: 2020-04-06 00:00:00
 tags:
   - Real Estate
+  - Home Owning
 excerpt: >-
   We’ve been keeping a close eye on the options out there for homeowners,
   renters, and everyone else.
