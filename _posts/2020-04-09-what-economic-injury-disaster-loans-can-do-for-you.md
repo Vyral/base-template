@@ -29,13 +29,13 @@ These types of loans have been around a long time and used in the past by those 
 
 * Loans are up to $2 million.
 * The term is 30 years.
-* Interest rates are 3.75% for small business and (2.75% for nonprofits).
+* Interest rates are 3.75% for small businesses and (2.75% for nonprofits).
 * The first month’s payments are deferred a full year from the date of the promissory note.
 
 **Now under the CARES Act, the EIDLs expanded provisions also include the following:**
 
-* EIDLS can be approved by the SBA based solely on an applicant’s credit score (not repayment ability and no tax return is required). The government specified that a prior bankruptcy does not disqualify you.
-* EIDLS smaller than $200,000 can be approved without a personal guarantee, no real estate as collateral, and will take a general security interest in business property.
+* EIDLs can be approved by the SBA based solely on an applicant’s credit score (not repayment ability and no tax return is required). The government specified that a prior bankruptcy does not disqualify you.
+* EIDLs smaller than $200,000 can be approved without a personal guarantee, no real estate as collateral, and will take a general security interest in business property.
 * It expands access to sole proprietors or independent contractors and all nonprofits, including 501(c)(6)s.
 
 The $10,000 emergency cash grants are the most interesting piece of the legislation. Borrowers can receive $10,000 in an emergency grant cash advance that can be forgiven if spent on paid leave, maintaining payroll, increased costs due to supply chain disruption, mortgage or lease payments, or repaying obligations that cannot be met due to revenue loss.
