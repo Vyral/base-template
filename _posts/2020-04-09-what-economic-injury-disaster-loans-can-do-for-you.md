@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-economic-injury-disaster-loans-youtube.jpg
-youtube_code: 'https://youtu.be/57jyMbFfzgY'
+youtube_code: 'https://youtu.be/BHrJcb-x_IY'
 ---
 
 {% include youtube.html %}
