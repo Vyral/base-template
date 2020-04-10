@@ -24,7 +24,7 @@ youtube_code: yBHH2uDbBpE
 
 <p style="text-align: center;"><em>Waymark Property Management will take care of all of your property management needs.</em></p>
 
-In today’s Brand Ambassador spotlight, we’re coming to you live from our Carlisle office to meet with Cal Yoder, my good friend who oversees Waymark Property Management.&nbsp;
+In our Brand Ambassador spotlight, we’re coming to you from our Carlisle office to meet with Cal Yoder, my good friend who oversees Waymark Property Management.&nbsp;
 
 As you can see at the beginning of this video, he’s not just a friend—I’m now a client of his. I’ve turned over my entire portfolio of investment properties to him, and I couldn’t be more excited about it. **As a full-service property management company, they take the hassles and headaches out of owning real estate as an investment.** In Cal’s words, all you have to do is sit back and enjoy the money rolling into your bank account.&nbsp;
 
@@ -36,7 +36,7 @@ As we know, there’s a vulnerable side to owning and operating a business, and 
 
 {% include pullquote.html %}
 
-Over the next three years, Cal is most excited about building his business, mainly through the relationship business. He’s looking forward to meeting new people and providing them a great service.&nbsp;
+Over the next three years, Cal is most excited about building his business, mainly through the relationships. He’s looking forward to meeting new people and providing them a great service.&nbsp;
 
 **If you’re interested in buying an investment property, Waymark offers free consultations for investment analysis.** They can also give you a rundown of all the services they provide. For some investors, it only makes sense to shift the management of their property over to them. They can shorten vacancies, net-zero their fee if rents are low, etc.&nbsp;
 
