@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: How has the coronavirus impacted the real estate market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+the+Coronavirus+Means+for+Our+Real+Estate+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
