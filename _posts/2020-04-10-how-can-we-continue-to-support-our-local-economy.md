@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How can we continue to support our local economy
+title: How Can We Continue to Support Our Local Economy?
 date: 2020-04-10 16:48:00
 tags:
 excerpt: >-
@@ -18,7 +18,8 @@ youtube_code: 0oPCUBWwm08
 
 {% include youtube.html %}
 
-<center><em>Today we’re going to talk about the back doorway we can help our housing market</em></center>
+<center><em>Today we&rsquo;re going to talk about the back doorway we can help our housing market</em></center>
+
 &nbsp;&nbsp;
 
 Today we’re going to talk about the back doorway we can help our housing market.&nbsp; That’s by helping our local economy which in turn keeps our housing market healthy.&nbsp;&nbsp;
@@ -27,14 +28,8 @@ With the recent COVID-19 pandemic, Salt Lake County and our neighboring counties
 
 While you may not use your gift cards today or next week, you can support local businesses by purchasing them now for future use. This puts money in their pocket today to keep their business and therefore our local economy running.
 
-We have such a fantastic community along the Wasatch Front. When Palmer Krehel found out that restaurants, taverns, and bars were shuttering, he wanted to find a way to help his local businesses and their workforce as they struggle for customers who are “hunkering down” because of COVID-19.&nbsp; Many, like RoHa Brewing Project in Salt Lake City, have switched to curbside pick up or take out orders. Though businesses like RoHa Brewing have a White Glove, latex that is, VIP service to give non-traditional options to their customers to pick up goods to go, many are still skittish. So Palmer quickly created a website and took action aggregating links to pages from local businesses where you can buy gift cards.&nbsp;&nbsp;
+We have such a fantastic community along the Wasatch Front. When Palmer Krehel found out that restaurants, taverns, and bars were shuttering, he wanted to find a way to help his local businesses and their workforce as they struggle for customers who are “hunkering down” because of COVID-19.&nbsp; Many, like RoHa Brewing Project in Salt Lake City, [have switched to curbside pick up](https://curbsideutah.com/) or take out orders. Though businesses like RoHa Brewing have a White Glove, latex that is, VIP service to give non-traditional options to their customers to pick up goods to go, many are still skittish. So Palmer quickly created a website and took action aggregating links to pages from local businesses where you can buy gift cards.&nbsp;&nbsp;
 
-That website is SLCgiftcards.com.&nbsp; I encourage all of you to consider visiting the site and finding your favorite local restaurant and pre-purchasing your future visit, today.&nbsp; If you take advantage of the pick-up services please also consider leaving a tip, as most of the food and beverage service employees have a reduced hourly wage that factors tips into their income.
+[That website is SLCgiftcards.com](https://www.slcgiftcards.com/).&nbsp; I encourage all of you to consider visiting the site and finding your favorite local restaurant and pre-purchasing your future visit, today.&nbsp; If you take advantage of the pick-up services please also [consider leaving a tip](https://downtownslc.org/), as most of the food and beverage service employees have a reduced hourly wage that factors tips into their income.
 
 I want to personally thank Palmer and our incredibly charitable Wasatch Front community for helping during this unique time.&nbsp; It is people like you that help to make our community strong and one of the reasons I love living here.
-
-[www.slcgiftcards.com](http://www.slcgiftcards.com)&nbsp;
-
-[www.downtownslc.org](http://www.downtownslc.org) (tip your server)
-
-[www.curbsideutah.com](http://www.curbsideutah.com)
