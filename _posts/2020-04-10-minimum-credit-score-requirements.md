@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Minimum Credit Score Requirements
-date: 2020-04-10 21:37:43
+date: 2020-04-10 21:37:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -29,7 +29,7 @@ Both FHA and VA loans typically require a score of at least 580, but there are w
 
 {% include pullquote.html %}
 
-USDA loans also require a 620, but **there is a no-credit option.** When we say “no credit score,” that doesn’t mean bad credit. There are people who just don’t utilize credit, and that’s perfectly acceptable for us as long as we can document some alternative credit sources that the applicant has paid for the last 12 to 24 months, such as rental verifications, utility bills, car insurance, etc.
+USDA loans also require a 620, but **there is a no-credit option.** When we say “no credit score,” that doesn’t mean bad credit. There are people who just don’t utilize credit, and that’s perfectly acceptable for us as long as we can document some alternative credit sources that the applicant has paid for in the last 12 to 24 months, such as rental verifications, utility bills, car insurance, etc.
 
 However, there are some non-qualified mortgage programs that would allow you to qualify with a minimum score of 500, though **with a score that low, you wouldn't be able to guarantee a 3% interest rate.**
 
