@@ -25,7 +25,7 @@ youtube_code: 1B4GgTsbrE0
 
 If you’re anything like us, you’re stuck indoors trying to juggle things like homeschooling, working in close quarters next to your spouse, and new cooking recipes (sometimes succeeding, sometimes failing).
 
-This is the new normal, but the good news is, **the real estate industry is moving right along**. Frankly, we’re surprised at how well consumers and agents have adapted to an industry that’s gone virtual. We have sellers showing buyers homes via Zoom, Skype, etc., inspectors showing up to houses wearing gloves and hazmat suits, and so on. We have a responsibility to protect each other while continuing on with life.
+This is the new normal, but the good news is, **the real estate industry is moving right along**. Frankly, we’re surprised at how well consumers and agents have adapted to an industry that’s gone virtual. We have sellers showing buyers homes via Zoom, Skype, etc., inspectors showing up to houses wearing gloves and hazmat suits, and more. We have a responsibility to protect each other while continuing on with life.
 
 We thought there would be a drop in activity, but virtual showings, meetings, open houses, notary signings, etc., have kept opportunities readily available for buyers and sellers.
 
