@@ -19,6 +19,7 @@ youtube_code: 3CDztroL5lM
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>If you think your home’s assessed value is too high, you can protest it and get your property taxes lowered. Here’s how.</em></p>
 
 Each April, you receive a letter from the appraisal district that notifies you of your home’s current assessed value. This assessed value is used to multiply your tax rate each October and come up with your property tax amount. **It’s a very important number to pay attention to because you do have the option to protest your taxes if you think they’re too high.**
 
