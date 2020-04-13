@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Homebuyer Essentials
-date:
+date: 2020-04-13 21:45:58
 tags:
   - Home Buyer Tips
   - Athens Real Estate Agent
