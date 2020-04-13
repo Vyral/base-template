@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Options for Protesting Your Property Taxes
-date: 2019-04-05 10:00:00
+date: 2020-04-13 00:00:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
