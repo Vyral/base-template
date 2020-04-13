@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Are you Freaking Out? \U0001F630"
+title: Are you Freaking Out?
 date: 2020-04-13 19:42:00
 tags:
 excerpt:
