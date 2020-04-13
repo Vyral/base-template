@@ -4,7 +4,7 @@ title: "Are you Freaking Out? \U0001F630"
 date: 2020-04-13 19:42:00
 tags:
 excerpt:
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Dave+Friedman/Covid+REC+2.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
