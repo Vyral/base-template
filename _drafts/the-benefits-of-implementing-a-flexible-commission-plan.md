@@ -19,6 +19,8 @@ youtube_code: KzbVmBwsDJ4
 
 {% include youtube.html %}
 
-The market has shifted since the COVID-19 pandemic, and some agents are adjusting their commission in order to win listings. Even if your value proposition is much stronger to would-be clients than theirs, **adjusted commissions are a hard thing to compete against**. That’s why today I’ll talk about the benefits of implementing a flexible commission plan into your business. This offers your would-be clients options instead of ultimatums.
+<center><em>Implementing a flexible commission plan is a great way to compete against agents who adjust their commission in order to win listings.</em></center>
+
+<br>The market has shifted since the COVID-19 pandemic, and some agents are adjusting their commission in order to win listings. Even if your value proposition is much stronger to would-be clients than theirs, **adjusted commissions are a hard thing to compete against**. That’s why today I’ll talk about the benefits of implementing a flexible commission plan into your business. This offers your would-be clients options instead of ultimatums.
 
 If you have any questions or suggestions, please reach out. We look forward to speaking with you.
