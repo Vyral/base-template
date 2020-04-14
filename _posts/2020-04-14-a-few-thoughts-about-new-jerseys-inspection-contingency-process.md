@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Few Thoughts About New Jersey’s Inspection Contingency Process
-date: 2020-04-14 18:49:37
+date: 2020-04-14 18:49:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -22,9 +22,9 @@ youtube_code: iyZyR8SY4hA
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>In this part of my discussion with Attorney Justin D. Decrescente, we discussed how the home inspection process differs from state to state, and what you need to know about the process in New Jersey.</em></p>
+*In this part of my discussion with Attorney Justin D. DeCrescente, we discussed how the home inspection process differs from state to state, and what you need to know about the process in New Jersey.*
 
-I’m back once again with Attorney Justin D. Decrescente to continue our discussion on home inspection contingencies.&nbsp;
+I’m back once again with Attorney Justin D. DeCrescente to continue our discussion on home inspection contingencies.&nbsp;
 
 **The purpose of the inspection for a homebuyer is to thoroughly check the home for any defects in its condition.** In New Jersey, the inspection isn’t held until after the offer is accepted by the seller. In New York, it’s the opposite. Inspection negotiations in New York tend to be a lot less severe as a result.
 
@@ -35,5 +35,3 @@ A lot of sellers may feel like they’re being held hostage during an inspection
 Thanks so much to Justin for joining us again. **Next time, he’ll give an example of a client he was working with who had some inspection problems but ultimately got them resolved without having to go back on the market.**
 
 If you have any questions for me, don't hesitate to reach out via phone or email. We look forward to hearing from you.
-
-&nbsp;
