@@ -17,7 +17,9 @@ youtube_code: qTI22o7lE8c&
 
 {% include youtube.html %}
 
-*Here are the answers to some common market questions you may have on your mind. *
+<center><em>Here are the answers to some common market questions you may have on your mind.</em></center>
+
+&nbsp;
 
 Here are the answers to some frequently asked questions I get regarding our Triangle market:&nbsp;
 
