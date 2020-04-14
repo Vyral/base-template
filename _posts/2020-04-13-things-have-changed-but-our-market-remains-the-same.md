@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Things Have Changed, But Our Market Remains the Same'
-date: 2020-04-13 19:45:27
+date: 2020-04-13 19:45:00
 tags:
   - Market Update
 excerpt: >-
@@ -23,9 +23,9 @@ youtube_code: NpgGkMwokIM
 
 A lot has changed since the outbreak of COVID-19.
 
-As you can see in the video above, I (like many others) now work from home. Buzzwords like “shelter in place” and “social distancing” have entered the national lexicon. Most of us didn’t have to worry about not having enough toilet paper. There’s tape directing us where to stand when we check out at grocery stores. Many people are wearing masks everywhere they go.&nbsp;
+As you can see in the video above, I (like many others) now work from home. Buzzwords like “shelter in place” and “social distancing” have entered the national lexicon. Before, most of us didn’t have to worry about not having enough toilet paper. There’s tape directing us where to stand when we check out at grocery stores. Many people are wearing masks everywhere they go.&nbsp;
 
-Also, many of us are having to find things to do to keep ourselves occupied while indoors. Something I’ve done to keep myself occupied is turned my office into a mini mask-making factory for the local VA hospital.&nbsp;
+Also, many of us are having to find things to do to keep ourselves occupied while indoors. Something I’ve done to keep myself busy is turning my office into a mini mask-making factory for the local VA hospital.&nbsp;
 
 **One thing that hasn’t changed in Clarksville, though, is our market, which is still doing great.** Houses are still selling, we’ve been hosting listing appointments through Zoom, and buyer’s agents are conducting virtual walk-throughs of homes for their clients. Additionally, we’ve implemented strict safety procedures when showing homes that are still occupied.&nbsp;
 
