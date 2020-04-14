@@ -22,7 +22,7 @@ youtube_code: iyZyR8SY4hA
 
 {% include youtube.html %}
 
-In this part of my discussion with Attorney Justin D. Decrescente, we discussed how the home inspection process differs from state to state, and what you need to know about the process in New Jersey.
+<p style="text-align:center">In this part of my discussion with Attorney Justin D. Decrescente, we discussed how the home inspection process differs from state to state, and what you need to know about the process in New Jersey.</p>
 
 I’m back once again with Attorney Justin D. Decrescente to continue our discussion on home inspection contingencies.&nbsp;
 
