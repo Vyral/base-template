@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Triangle Market: You Have Questions, I Have Answers'
-date: 2020-04-14 16:54:29
+date: 2020-04-14 16:54:00
 tags:
 excerpt: >-
   Here are the answers to some common market questions you may have on your
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: qTI22o7lE8c&
+youtube_code: qTI22o7lE8c
 ---
 
 {% include youtube.html %}
