@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Things Have Changed, But Our Market Remains the Same'
+title: 'Things Have Changed, but Our Market Remains the Same'
 date: 2020-04-13 19:45:00
 tags:
   - Market Update
