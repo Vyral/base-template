@@ -17,7 +17,7 @@ youtube_code: h4TVyx9Vg9U
 
 {% include youtube.html %}
 
-Founder Richard Gobin started IMA Medical Supply because he felt very strongly that there was a need for durable medical equipment in the south-central Pennsylvania area.&nbsp;
+<p style="text-align: center;"><em>Founder Richard Gobin started IMA Medical Supply because he felt very strongly that there was a need for durable medical equipment in the south-central Pennsylvania area.</em></p>
 
 **They service all types of equipment**, whether the equipment was sold by them or purchased elsewhere. This isn’t a service that was readily available before, and it’s even conveniently located next to the Regional Hospital for customers.
 
