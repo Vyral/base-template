@@ -19,11 +19,13 @@ youtube_code: h4TVyx9Vg9U
 
 <p style="text-align: center;"><em>Founder Richard Gobin started IMA Medical Supply because he felt very strongly that there was a need for durable medical equipment in the south-central Pennsylvania area.</em></p>
 
+IMA Medical Supply is the most complete medical supplier in the whole south-central Pennsylvania area.
+
 **They service all types of equipment**, whether the equipment was sold by them or purchased elsewhere. This isn’t a service that was readily available before, and it’s even conveniently located next to the Regional Hospital for customers.
 
-Though many of their products are widely sought, s**upply hosiery and walking aids like rollators are among the most popular**. They also offer complete hospital beds and all manner of items needed in the sickroom. Whether you need canes, crutches, wheelchairs, or stand-up motorized recline chairs, IMA has it.
+Though many of their products are widely sought, **supply hosiery and walking aids like rollators are among the most popular**. They also offer complete hospital beds and all manner of items needed in the sickroom. Whether you need canes, crutches, wheelchairs, or stand-up motorized recliner chairs, IMA has it.
 
-And they don’t just offer items for the elderly—they cater to the young as well. Injured student-athletes frequently visit IMA to get what they need.
+They don’t just offer items for the elderly—they cater to the young as well. Injured student-athletes frequently visit IMA to get what they need.
 
 {% include pullquote.html %}
 
