@@ -13,8 +13,8 @@ pullquote: >-
   advantage when rates drop again.
 enclosure_type:
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/3-17-20yt.jpg
 youtube_code: B6o24P76VUU
 ---
 
