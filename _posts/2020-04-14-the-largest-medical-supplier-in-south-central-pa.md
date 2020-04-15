@@ -4,7 +4,8 @@ title: The Largest Medical Supplier in South-Central PA
 date: 2020-04-14 14:38:00
 tags:
   - Brand Ambassador
-excerpt:
+excerpt: >-
+  IMA Medical Supply is the most complete medical supplier in the whole south-central Pennsylvania area.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+IMA+Medical+Supply+Q%26A.mp4
 pullquote: IMA Medical Supply has turned customer service into a true art form.
