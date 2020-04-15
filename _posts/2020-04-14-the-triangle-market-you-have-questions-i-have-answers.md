@@ -25,7 +25,7 @@ Here are the answers to some frequently asked questions I get regarding our Tria
 
 **1\. Why is the current housing inventory an important statistic?**&nbsp;
 
-Real estate changes daily, but it always boils down to supply and demand. For example, let’s say you owned a home in Cary and Morrisville worth $650,000. There are currently 10 homes for sale from $650,000 to $750,000, which gives us about a five-month supply.&nbsp;
+Real estate changes daily, but it always boils down to supply and demand. For example, let’s say you owned a home in Cary and Morrisville worth $650,000. There are currently 10 homes for sale from $600,000 to $700,000, which gives us about a five-month supply.&nbsp;
 
 **2\. What is the housing inventory at this time?**
 
