@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Mortgages rates reached all-time lows, then immediately started to climb.
   Here’s why that happened.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Kauai+Real+Estate-+What+Is+Happening+In+The+Mortgage+Market_.mp4
 pullquote: >-
   The best thing you can do is get pre-approved now so you’re prepared to take
   advantage when rates drop again.
