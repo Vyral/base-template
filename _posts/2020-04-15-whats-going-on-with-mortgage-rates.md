@@ -1,8 +1,10 @@
 ---
 layout: post
 title: What’s Going on With Mortgage Rates?
-date: 2020-03-23 17:53:00
+date: 2020-04-15 05:53:00
 tags:
+  - Real Estate
+  - Market Update
 excerpt: >-
   Mortgages rates reached all-time lows, then immediately started to climb.
   Here’s why that happened.
