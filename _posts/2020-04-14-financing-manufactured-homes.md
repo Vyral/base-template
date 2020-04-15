@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Financing Manufactured Homes
-date: 2020-04-14 18:30:39
+date: 2020-04-14 18:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -35,7 +35,7 @@ These guidelines help us classify it as a “real property.” If it’s current
 
 **Some loan programs require what’s known as a foundation inspection or structural inspection.** Government loans, such as the FHA or VA program (and some conventional loans) will require this type of inspection if the appraiser is unable to fully document the integrity of the foundation.&nbsp;
 
-A lot of homes on acreage here in Central Florida have wells as their water source, which is fine, but we do have to ensure that the well water is safe for you and your family to drink—another inspection that might be required on a manufactured home.&nbsp;
+A lot of acreage homes here in Central Florida have wells as their water source, which is fine, but we do have to ensure that the well water is safe for you and your family to drink—another inspection that might be required on a manufactured home.&nbsp;
 
 Depending on the age of the home, there may be testing done for lead, bacteria, and/or nitrates, though that’s never required on a conforming or conventional loan program.&nbsp;
 
