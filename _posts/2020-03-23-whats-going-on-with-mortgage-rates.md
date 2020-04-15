@@ -38,8 +38,6 @@ Currently, the yield on the Treasury is as low as it's been in recent memory—w
 
 If you missed the wave of low rates, you’re more than likely to have a second chance. When everything settles down, and once the banks have a chance to process their loans, we’ll probably see another dip in the rates.&nbsp;
 
-The best thing you can do is get pre-approved now so you’re prepared to take advantage when rates drop again. As always, reach out if you have any questions on this or other real estate topics. I hope you stay safe, and I look forward to hearing from you.&nbsp;
-
-&nbsp;
+The best thing you can do is get pre-approved now so you’re prepared to take advantage when rates drop again. As always, reach out if you have any questions on this or other real estate topics. I hope you stay safe, and I look forward to hearing from you.
 
 &nbsp;
