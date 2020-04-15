@@ -10,11 +10,11 @@ enclosure:
 pullquote: >-
   The best thing you can do is get pre-approved now so you’re prepared to take
   advantage when rates drop again.
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: LJw77cmXunw
+youtube_code: B6o24P76VUU
 ---
 
 {% include youtube.html %}
