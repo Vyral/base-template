@@ -6,8 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   Conducting something as integral to the real estate process as a home showing
-  can no longer be taken for granted. Here’s how to show safely during
-  quarantine.
+  can no longer be taken for granted.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
