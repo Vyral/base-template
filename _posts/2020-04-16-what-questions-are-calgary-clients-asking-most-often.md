@@ -58,7 +58,7 @@ You also will need to keep people coming into your space safe too, so it’s imp
 * If yes, is that exposure due to employment relating to the health care profession?
 * Please provide any additional information regarding exposure.
 
-3\. Does anyone in the house currently being sold, have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu like symptoms?
+3\. Does anyone in the house currently being sold have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu like symptoms?
 
 * If yes, your Realtor&reg; may wish to have further discussions with you regarding showings.
 
