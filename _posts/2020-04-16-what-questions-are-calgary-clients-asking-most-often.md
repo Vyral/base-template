@@ -7,8 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   As we continue to navigate the real estate market during a pandemic, it’s
-  clear that business is still being done. Here’s how we’re helping buyers and
-  sellers remain safe.
+  clear that business is still being done.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
