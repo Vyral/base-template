@@ -3,6 +3,7 @@ layout: post
 title: Do Our Owners or Tenants Pay for Pest Control?
 date: 2020-04-16 18:11:00
 tags:
+  - Real Estate
 excerpt: >-
   For our properties, pest control is the tenant’s responsibility, except when
   they first move in.
