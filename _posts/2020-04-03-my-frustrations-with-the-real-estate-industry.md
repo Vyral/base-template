@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/real-estate-frustrations-youtube.jpg
-youtube_code: r3TXYfm3L68
+youtube_code: 96nsh-xC4q0
 ---
 
 {% include youtube.html %}
