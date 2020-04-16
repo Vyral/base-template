@@ -29,7 +29,7 @@ If you have any other real estate questions for me in the meantime, don’t hesi
 
 ### **Optional questions to ask of buyers before showings:**
 
-1\. Has anyone in their house travelled internationally within the past two weeks?
+<br>1\. Has anyone in their house travelled internationally within the past two weeks?
 
 2\. Have they have been in contact with anyone in the past two weeks who has tested positive for COVID-19?
 
@@ -51,7 +51,7 @@ You also will need to keep people coming into your space safe too, so it’s imp
 
 ### **Potential Exposure to COVID-19 (Yes or No)**
 
-1\. Has anyone in the house being sold travelled internationally within the past two weeks?
+<br>1\. Has anyone in the house being sold travelled internationally within the past two weeks?
 
 2\. Has anyone in the house being sold, been in contact with anyone in the past two weeks that has tested positive for COVID-19?
 
