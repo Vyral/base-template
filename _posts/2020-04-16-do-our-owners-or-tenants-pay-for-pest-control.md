@@ -19,7 +19,7 @@ youtube_code: pMy85izemmY
 
 {% include youtube.html %}
 
-For our properties, pest control is the tenant’s responsibility, except when they first move in.
+<p style="text-align:center">For our properties, pest control is the tenant’s responsibility, except when they first move in.</p>
 
 For any property owners who decide to leave their homes under our care, we always tell them the same thing regarding pest control: **It’s the tenant’s responsibility,*****except*** **when they first move into the property.&nbsp;**
 
