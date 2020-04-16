@@ -20,7 +20,9 @@ youtube_code: WgQzcrnrNPM
 
 {% include youtube.html %}
 
-A lot of people have been asking me the same two questions: “Are properties selling in Calgary?” and “How can I sell right now and reduce my risks?” To answer the first question, we’ve had over 307 sales in the last two weeks, so yes, **plenty of properties are still selling**. If you are in a position where you need to sell, we can help you take the necessary steps to prepare your home and get it listed, even in a market where physical contact is kept to a minimum.
+<center><em>As we continue to navigate the real estate market during a pandemic, it’s clear that business is still being done. Here’s how we’re helping buyers and sellers remain safe.</em></center>
+
+<br>A lot of people have been asking me the same two questions: “Are properties selling in Calgary?” and “How can I sell right now and reduce my risks?” To answer the first question, we’ve had over 307 sales in the last two weeks, so yes, **plenty of properties are still selling**. If you are in a position where you need to sell, we can help you take the necessary steps to prepare your home and get it listed, even in a market where physical contact is kept to a minimum.
 
 For a full list of questions you can ask buyers before they view your home to keep your health risk at a minimum and information about new rules and regulations made for real estate in Alberta, see below.
 
