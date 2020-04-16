@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update on Our Real Estate Market During the Pandemic
-date:
+date: 2020-04-16 19:52:55
 tags:
   - Market Update
 excerpt: >-
