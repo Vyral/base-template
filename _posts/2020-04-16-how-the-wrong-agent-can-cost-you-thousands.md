@@ -17,7 +17,7 @@ youtube_code: TCfUITh8_L0
 
 {% include youtube.html %}
 
-Here’s why selecting experienced, knowledgeable representation is invaluable.
+<p style="text-align: center;"><em>Here’s why selecting experienced, knowledgeable representation is invaluable.</em></p>
 
 We’re working with a group right now that needs to relocate, and as we looked up their property to begin the selling process, it was evident that **these folks paid $260,000 back in 2017 for a home that was only worth around $238,000 to $242,000 back then.**&nbsp;
 
