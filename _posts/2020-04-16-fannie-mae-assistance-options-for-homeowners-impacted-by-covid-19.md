@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fannie Mae Assistance Options for Homeowners Impacted by COVID-19
-date: 2020-04-16 18:11:17
+date: 2020-04-16 18:11:00
 tags:
 excerpt:
 enclosure:
@@ -25,8 +25,6 @@ A [recent article](https://www.fhfa.gov/Homeownersbuyer/MortgageAssistance/Pages
 * Homeowners in a forbearance plan will not incur late fees&nbsp;
 * After forbearance, a servicer must work with the borrower on a permanent plan to help maintain or reduce monthly payment amounts as necessary, including a loan modification
 * If you’ve already been behind, foreclosure sales and/or evictions of borrowers are suspended for 60 days
-
-![](/uploads/fm-building-1.tif)
 
 Fannie Mae, Freddie Mac and FHA are adding forbearance options weekly. Give us a call and we’ll keep you current on what these options are.&nbsp;
 
