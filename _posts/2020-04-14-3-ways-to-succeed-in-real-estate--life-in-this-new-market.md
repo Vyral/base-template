@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways to Succeed in Real Estate & Life During the Pandemic
+title: 3 Ways to Succeed in Real Estate & Life In This New Market
 date: 2020-04-14 00:00:00
 tags:
   - Real Estate
