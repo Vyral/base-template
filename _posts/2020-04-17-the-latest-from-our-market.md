@@ -33,6 +33,6 @@ The good news is, **there are plenty of banks that are still lending,** whether 
 
 The best thing you can do right now is educate yourself. Don’t trust everything you see in the news. If you’d like to know more about your situation, give my team a call. Like everyone else, our resources are limited, but we’re doing the most with what we have, and we'd be happy to explore your options.&nbsp;
 
-Remember, the situation is changing day by day, hour by hour. Rates are fluctuating wildly, so whatever was available last week or even yesterday might not be available today. No matter what your circumstances, we’re here to guide you. If your best course of action is to stay put and revisit your situation once everything passes, I’ll be the first to tell you so. If you want to refinance, though, we’re ready to help you.
+Remember, the situation is changing day by day, hour by hour. Rates are fluctuating wildly, so whatever was available last week or even yesterday might not be available today. **No matter what your circumstances, we’re here to guide you.** If your best course of action is to stay put and revisit your situation once everything passes, I’ll be the first to tell you so. If you want to refinance, though, we’re ready to help you.
 
 If you have other financial questions or there’s anything else I can help you with, feel free to reach out to me as well. I look forward to hearing from you.
