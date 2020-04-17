@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Implementing a flexible commission plan is a great way to compete against
   agents who adjust their commission in order to win listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/JOURNEY+WITH+JENNIE+CAREERS+BLOG+STUFF+%23OKJENNIE/The+Benefits+of+Implementing+a+Flexible+Commission+Plan.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
