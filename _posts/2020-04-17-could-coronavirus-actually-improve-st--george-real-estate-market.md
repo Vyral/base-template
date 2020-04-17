@@ -125,7 +125,7 @@ your property. Period. <br><br>
 
 
 Wanna chat?
-Grab 15 minutes with Jeremy here: <a href="http://www.soldinstgeorge.com/virtual/" data-type="url" data-name="Chat with Jeremy">http://www.soldinstgeorge.com/virtual/.</a> Or you call or text me on my cell at
+Grab 15 minutes with Jeremy here: <a href="http://www.soldinstgeorge.com/virtual/" data-type="url" data-name="Chat with Jeremy">http://www.soldinstgeorge.com/virtual/.</a> Or you can call or text me on my cell at
 435-862-8467. I’ll answer any questions you have about the housing market or
 your personal real estate situation. <br><br>
 
