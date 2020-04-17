@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest From Our Market
-date: 2020-04-17 13:32:56
+date: 2020-04-17 13:32:00
 tags:
   - Finance Advice
 excerpt: Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.
@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: PxQDRv94WfA
+youtube_code: 5ZGd39keZIU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.</em></p>
+*Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.*
 
 What’s been happening in our market since the COVID-19 pandemic hit? There are a few key developments to know about.
 
