@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Update on Our Real Estate Market During the Pandemic
-date: 2020-04-16 19:52:55
+date: 2020-04-16 19:52:00
 tags:
   - Market Update
 excerpt: >-
@@ -19,4 +19,4 @@ youtube_code: 'https://youtu.be/TMvvshfy1v0'
 
 {% include youtube.html %}
 
-In a previous video, we talked about what was happening in the real estate business and how we were adapting to the coronavirus pandemic. Since then, we’ve seen inventory levels and showing traffic drop off. Make no mistake though, there are still serious buyers out there right now, but an increasing number of them are utilizing virtual showings. Interest rates remain low, so demand from buyers is still there.
+In a previous video, we talked about what was happening in the real estate business and how we were adapting to the coronavirus pandemic. Since then, we’ve seen inventory levels and showing traffic drop. Make no mistake though, there are still serious buyers out there right now, but an increasing number of them are utilizing virtual showings. Interest rates remain low, so demand from buyers is still there.
