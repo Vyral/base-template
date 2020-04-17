@@ -7,7 +7,7 @@ tags:
 excerpt: 'Here’s why selecting experienced, knowledgeable representation is invaluable.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2020/Dan+Jones+Home+Selling+Team-+Hire+the+Right+Agent.mp4
-pullquote: The market has increased 2% to 3% every single year since 2017.
+pullquote: The market has increased by 2% to 3% every single year since 2017.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,11 +19,13 @@ youtube_code: TCfUITh8_L0
 
 <p style="text-align: center;"><em>Here’s why selecting experienced, knowledgeable representation is invaluable.</em></p>
 
+Whether you're a buyer or seller, working with the wrong agent can cost you thousands, and today I'll share a couple of recent examples that demonstrate why.
+
 We’re working with a group right now that needs to relocate, and as we looked up their property to begin the selling process, it was evident that **these folks paid $260,000 back in 2017 for a home that was only worth around $238,000 to $242,000 back then.**&nbsp;
 
 I don’t know how it appraised, but I know now that we cannot sell it; the market has increased 2% to 3% every single year since 2017.&nbsp;
 
-In another recent scenario, an individual had listed a property (their first ever time selling) for $160,000, and guess who put an offer in? Yours truly. It was worth every bit of $180,000. **We put an expiration date, nailed it down within an hour, and walked into a lot of money in equity because someone underpriced the home.&nbsp;**
+In another recent scenario, an individual had listed a property (their first time selling) for $160,000, and guess who put an offer in? Yours truly. It was worth every bit of $180,000. **We put an expiration date, nailed it down within an hour, and walked into a lot of money in equity because someone underpriced the home.&nbsp;**
 
 {% include pullquote.html %}
 
