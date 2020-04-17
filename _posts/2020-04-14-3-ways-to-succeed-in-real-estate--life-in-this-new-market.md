@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   We’re sharing three ways you can succeed in real estate and life during the
   pandemic.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Ways+to+Succeed+in+Real+Estate+%26+Life+In+This+New+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
