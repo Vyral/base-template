@@ -15,6 +15,6 @@ youtube_alternate_image: /uploads/4-17-sikes-youtube.jpg
 youtube_code: JgtQy_0OHUQ
 ---
 
-{% include youtube.html %} If you can still make your mortgage payments, we recommend not taking on a forbearance. Here’s why.&nbsp;
+{% include youtube.html %}<center>If you can still make your mortgage payments, we recommend not taking on a forbearance. Here’s why.</center>
 
 Forbearance—it’s a buzzword that’s become ubiquitous among homeowners ever since the coronavirus pandemic hit. A forbearance is the ability to defer your mortgage payments if you encounter financial hardship. This is of great assistance to those who truly can’t pay their mortgage, but if you still can, we recommend *not* taking on a forbearance.
