@@ -19,6 +19,6 @@ youtube_code: ruqLtRojvco
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I’m sharing your latest real estate market update for North San Diego County, and why today’s market is not like that of 2007.</em></p>
+<p style="text-align: center;"><em>I’m sharing your latest real estate market update for North San Diego County and why today’s market is not like that of 2007.</em></p>
 
 I’m here with your monthly update covering the real estate market across North San Diego County. We all know that now is a bizarre time, and one of the most common questions I receive is about what’s going to happen to the real estate market because of the pandemic. Many people believe that the market’s going to crash, and that it’s 2007 all over again. I don’t believe that’s going to happen, and today I’m explaining why. To learn more about our current market and why we aren’t heading for a crash, watch the short video above.
