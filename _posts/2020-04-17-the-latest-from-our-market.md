@@ -17,7 +17,7 @@ youtube_code: PxQDRv94WfA
 
 {% include youtube.html %}
 
-Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.&nbsp;
+<p style="text-align: center;"><em>Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.</em></p>
 
 What’s been happening in our market since the COVID-19 pandemic hit? There are a few key developments to be aware of.
 
