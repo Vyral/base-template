@@ -42,6 +42,6 @@ If you missed the wave of low rates, you’re more than likely to have a second 
 
 The best thing you can do is get pre-approved now so you’re prepared to take advantage when rates drop again. As always, reach out if you have any questions on this or other real estate topics. I hope you stay safe, and I look forward to hearing from you.
 
-![](/uploads/unnamed.jpg){: width="2316" height="3088"}
+&nbsp;
 
-Kat Ouano Mobley, RS-81142, agentkatkauai@gmail.com, 808-635-3383
+&nbsp;
