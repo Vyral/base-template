@@ -103,7 +103,7 @@ other words, they’re predicting a “bounce back” over a slower,
 that happen rapidly then to repair themselves rapidly, and the opposite (see
 2008 crash) is also true.<br></li></ol>
 
-<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/unnamed.jpg" width="750">
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/unnamed.jpg" width="750"></div>
 
 <p style=""><b>Could
 COVID-19 actually <em>strengthen </em>the St. George Real Estate Market? </b><br><br>
