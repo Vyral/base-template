@@ -31,3 +31,5 @@ A [recent article](https://www.fhfa.gov/Homeownersbuyer/MortgageAssistance/Pages
 Homeowners can find out if they have a Fannie Mae-owned mortgage and access to the Disaster Response Network™ by visiting [www.KnowYourOptions.com/loanlookup](https://c212.net/c/link/?t=0&amp;l=en&amp;o=2755359-1&amp;h=116917035&amp;u=http%3A%2F%2Fwww.knowyouroptions.com%2Floanlookup&amp;a=www.KnowYourOptions.com%2Floanlookup).
 
 Homeowners can reach out to Fannie Mae directly by calling 1-800-2FANNIE (1-800-232-6643). For more information, please visit [www.knowyouroptions.com/covid19assistance](https://c212.net/c/link/?t=0&amp;l=en&amp;o=2755359-1&amp;h=4190261179&amp;u=http%3A%2F%2Fwww.knowyouroptions.com%2Fcovid19assistance&amp;a=www.knowyouroptions.com%2Fcovid19assistance).
+
+![](/uploads/fm-building.tif)
