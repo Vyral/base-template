@@ -31,12 +31,12 @@ If you have any other real estate questions for me in the meantime, don’t hesi
 
 <br>1\. Has anyone in their house travelled internationally within the past two weeks?
 
-2\. Have they have been in contact with anyone in the past two weeks who has tested positive for COVID-19?
+2\. Have they been in contact with anyone in the past two weeks who has tested positive for COVID-19?
 
 * If yes, is that exposure due to employment relating to the health care profession?
 * Please provide any additional information regarding exposure.
 
-3\. Does anyone currently in the house have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu like symptoms?&nbsp;
+3\. Does anyone currently in the house have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu-like symptoms?&nbsp;
 
 4\. Have you or anyone in your house tested positive for COVID-19?
 
@@ -45,7 +45,7 @@ If you have any other real estate questions for me in the meantime, don’t hesi
 
 5\. Are you or anyone in your house awaiting test results for COVID-19?
 
-6\. Is there anything additional info or procedures that would make you feel comfortable showing your house during this time?
+6\. Is there any additional information or procedures that would make you feel comfortable showing your house during this time?
 
 You also will need to keep people coming into your space safe too, so it’s important to review the below questions if you are selling your property.
 
@@ -53,12 +53,12 @@ You also will need to keep people coming into your space safe too, so it’s imp
 
 <br>1\. Has anyone in the house being sold travelled internationally within the past two weeks?
 
-2\. Has anyone in the house being sold, been in contact with anyone in the past two weeks that has tested positive for COVID-19?
+2\. Has anyone in the house being sold been in contact with anyone in the past two weeks that has tested positive for COVID-19?
 
 * If yes, is that exposure due to employment relating to the health care profession?
 * Please provide any additional information regarding exposure.
 
-3\. Does anyone in the house currently being sold have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu like symptoms?
+3\. Does anyone in the house currently being sold have any symptoms of COVID-19? Including but not limited to a fever, dry cough, or flu-like symptoms?
 
 * If yes, your Realtor&reg; may wish to have further discussions with you regarding showings.
 
