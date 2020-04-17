@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Latest From Our Market
-date:
+date: 2020-04-17 13:32:56
 tags:
   - Finance Advice
 excerpt: Here’s a quick rundown of how the COVID-19 pandemic has impacted our market.
