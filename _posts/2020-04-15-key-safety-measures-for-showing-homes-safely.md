@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Conducting something as integral to the real estate process as a home showing
   can no longer be taken for granted.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/Key+Safety+Measures+for+Showing+Homes+Safely.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
