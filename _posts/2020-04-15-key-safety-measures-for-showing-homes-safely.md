@@ -4,6 +4,8 @@ title: Key Safety Measures for Showing Homes Safely
 date: 2020-04-15 00:00:00
 tags:
   - Real Estate
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   Conducting something as integral to the real estate process as a home showing
   can no longer be taken for granted.
