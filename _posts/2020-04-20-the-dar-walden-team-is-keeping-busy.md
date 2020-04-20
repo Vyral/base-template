@@ -19,7 +19,7 @@ youtube_code: svufA6JzSuc
 
 {% include youtube.html %}
 
-How is the Dar Walden Team rising to the challenges the pandemic has brought about?
+<p style="text-align: center;"><em>How is the Dar Walden Team rising to the challenges the pandemic has brought about?</em></p>
 
 Many are wondering about what’s going on with the real estate industry amid the COVID-19 pandemic. One thing is for sure: The market has not stopped. People still have to move, no matter what’s going on in the world.
 
