@@ -20,7 +20,7 @@ youtube_code: sB0J_3XyPRk
 
 {% include youtube.html %}
 
-Sometimes, you think you know an area well, but then you accidentally stumble upon something that surprises you. Here’s how I found Loon Lake.
+<p style="text-align: center;"><em>Sometimes, you think you know an area well, but then you accidentally stumble upon something that surprises you. Here’s how I found Loon Lake.</em></p>
 
 If you’ve been in my office, you know that we have a large mosaic of satellite images of Flathead Lake that I collected and assembled back in the ‘80s. We used it to tick off areas on the map where we have sold homes and to keep track of past experiences we’ve had on the lake.&nbsp;
 
