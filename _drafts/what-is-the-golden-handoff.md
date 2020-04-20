@@ -21,7 +21,9 @@ youtube_code: I5v34C_-fXc
 
 {% include youtube.html %}
 
-I have been in the real estate business for a very long time, and no matter what is happening in the market, many agents come and go constantly. What’s sad about this is that those Realtors have put time, energy, money, and often their love into developing and nurturing tons of relationships.
+<center><em>Many agents come and go in the real estate business. The Golden Handoff ensures their clients are taken care of after they leave.</em></center>
+
+<br>I have been in the real estate business for a very long time, and no matter what is happening in the market, many agents come and go constantly. What’s sad about this is that those Realtors have put time, energy, money, and often their love into developing and nurturing tons of relationships.
 
 When agents leave the business for any reason, their clients are just left there, without a real estate agent to help them. I believe all real state agents should think like the businessperson they are and ensure that their clients are taken care of in the future. They should have a plan. That’s what the Golden Handoff is.
 
