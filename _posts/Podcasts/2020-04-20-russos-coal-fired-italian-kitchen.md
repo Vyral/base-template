@@ -16,5 +16,3 @@ hidden: true
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
