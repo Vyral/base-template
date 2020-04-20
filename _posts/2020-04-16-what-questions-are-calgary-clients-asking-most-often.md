@@ -4,11 +4,13 @@ title: What Questions Are Calgary Clients Asking Most Often?
 date: 2020-04-16 00:00:00
 tags:
   - Real Estate
+  - Market Update
   - Home Seller Tips
 excerpt: >-
   As we continue to navigate the real estate market during a pandemic, it’s
   clear that business is still being done.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/What+Questions+Are+Calgary+Clients+Asking+Most+Often_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
