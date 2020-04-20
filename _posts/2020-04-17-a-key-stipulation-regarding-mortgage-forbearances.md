@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Key Stipulation Regarding Mortgage Forbearances
-date: 2020-04-17 17:41:06
+date: 2020-04-17 17:41:00
 tags:
 excerpt: >-
   If you can still make your mortgage payments, we recommend not taking on a
@@ -21,4 +21,4 @@ youtube_code: JgtQy_0OHUQ
 
 &nbsp;
 
-Forbearance—it’s a buzzword that’s become ubiquitous among homeowners ever since the coronavirus pandemic hit. A forbearance is the ability to defer your mortgage payments if you encounter financial hardship. This is of great assistance to those who truly can’t pay their mortgage, but if you still can, we recommend *not* taking on a forbearance.
+Forbearance—it’s a buzzword that’s become ubiquitous among homeowners ever since the coronavirus pandemic hit. A forbearance is the ability to defer your mortgage payments if you encounter financial hardship. This is of great assistance to those who truly can’t pay their mortgage, but if you still can, we recommend *not* taking on a forbearance. To find out why, watch the short video above.
