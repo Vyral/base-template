@@ -23,7 +23,7 @@ youtube_code: I5v34C_-fXc
 
 <center><em>Many agents come and go in the real estate business. The Golden Handoff ensures their clients are taken care of after they leave.</em></center>
 
-<br>I have been in the real estate business for a very long time, and no matter what is happening in the market, many agents come and go constantly. What’s sad about this is that those Realtors have put time, energy, money, and often their love into developing and nurturing tons of relationships.
+<br>I have been in the real estate business for a very long time, and no matter what is happening in the market, many agents come and go constantly. What’s sad about this is that those **Realtors have put time, energy, money, and often their love into developing and nurturing tons of relationships**.
 
 When agents leave the business for any reason, their clients are just left there, without a real estate agent to help them. I believe all real state agents should think like the businessperson they are and ensure that their clients are taken care of in the future. They should have a plan. That’s what the Golden Handoff is.
 
@@ -31,6 +31,6 @@ The Golden Handoff is entrusting a database to another agent and receiving a ref
 
 {% include pullquote.html %}
 
-Please let me know if you’ve used the Golden Handoff in your business, I’d like to hear about your experience with it.
+**Please let me know if you’ve used the Golden Handoff in your business**, I’d like to hear about your experience with it.
 
 If you have any questions about the Golden Handoff or real estate in general, reach out to me via phone or email. I would love to help you.
