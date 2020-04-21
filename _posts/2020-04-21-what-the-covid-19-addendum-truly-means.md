@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the COVID-19 Addendum Truly Means
-date:
+date: 2020-04-21 17:47:31
 tags:
 excerpt: >-
   Some real estate agents don’t fully understand the TXR COVID-19 addendum. I’m
