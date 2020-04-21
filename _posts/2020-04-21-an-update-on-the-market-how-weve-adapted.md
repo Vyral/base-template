@@ -19,6 +19,6 @@ youtube_code: pNhomjxz4CM
 
 {% include youtube.html %}
 
-Don’t put your real estate plans on the back burner because you don’t think you can complete your transactions during the pandemic—we can still help you.
+<p style="text-align: center;"><em>Don’t put your real estate plans on the back burner because you don’t think you can complete your transactions during the pandemic—we can still help you.</em></p>
 
 We hope that you and your loved ones are keeping safe and healthy. It’s a crazy time right now, and real estate is no exception. If you’ve been thinking about buying or selling a home and now believe that you should back off your plans due to the pandemic, I have some information about the marketplace that will demonstrate you can still move forward with your transactions. Like everywhere else, we’ve had to adapt our processes. To learn more, including statistics about what’s going on in our market, watch the short video above.
