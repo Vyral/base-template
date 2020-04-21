@@ -19,7 +19,7 @@ youtube_code: biN1PgF64ek
 
 {% include youtube.html %}
 
-<p style"text-align: center;"><em>I’m back with another Brand Ambassador local business highlight\! Today we’ll shine a light on Hometown Pharmacies.</em></p>
+<p style="text-align: center;"><em>I’m back with another Brand Ambassador local business highlight\! Today we’ll shine a light on Hometown Pharmacies.</em></p>
 
 Richard Gobin founded Hometown Pharmacies in 1967, but before Richard got into the pharmacy business, he taught at a school and was moonlighting to make ends meet. Eventually, he had the idea to go back to school and get another degree, so he left and went back to Temple University in Philadelphia to get a degree in pharmaceuticals. The rest is history.
 
