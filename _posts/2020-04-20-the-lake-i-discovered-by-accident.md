@@ -24,7 +24,7 @@ youtube_code: sB0J_3XyPRk
 
 If you’ve been in my office, you know that we have a large mosaic of satellite images of Flathead Lake that I collected and assembled back in the ‘80s. We used it to tick off areas on the map where we have sold homes and to keep track of past experiences we’ve had on the lake.&nbsp;
 
-A few years ago, the Flathead Lake Biostation came out with a new poster of the lake based on more current satellite images. I wondered whether I could make another 4’ by 8’ mosaic from these newer images, so I called them and asked for their permission. They were very gracious and sold me the right to reproduce their images on a larger scale.&nbsp;
+A few years ago, the Flathead Lake Bio Station came out with a new poster of the lake based on more current satellite images. I wondered whether I could make another 4’ by 8’ mosaic from these newer images, so I called them and asked for their permission. They were very gracious and sold me the right to reproduce their images on a larger scale.&nbsp;
 
 The nice thing about their map is that it includes a bathospheric layering of the lake so you can see how deep different areas of it are. I created our new mosaic and brought it into the office, but **as I was hanging it on our wall, I noticed there was a strange blotch on the map.**
 
@@ -36,6 +36,6 @@ It was just this white splotch that caused me to think that the printer didn’t
 
 **If anyone knows the backstory about this message written out in this dry lake bed, please share the info with me.** It’d be a fun thing to hear about and pass on to others\!&nbsp;
 
-I would like to thank once again the Flathead Lake Biostation for allowing me to put together an updated mosaic.&nbsp;
+I would like to thank once again the Flathead Lake Bio Station for allowing me to put together an updated mosaic.&nbsp;
 
 As always, if you have any questions about real estate, please feel free to contact me. I’m here to help in these strange times. Until then, enjoy my latest outro: A pretty phenomenal gathering of ducks ‘murmuring’ as they return for the spring.
