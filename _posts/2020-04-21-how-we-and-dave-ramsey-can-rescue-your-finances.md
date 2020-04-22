@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Us and Dave Ramsey Can Rescue Your Finances
+title: How We and Dave Ramsey Can Rescue Your Finances
 date: 2020-04-21 00:00:00
 tags:
   - Real Estate
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/4-21-cedillo-youtube.jpg
+youtube_alternate_image: /uploads/4-21-cedillo-youtube-1.jpg
 youtube_code: U5nWVYIorsM
 ---
 
