@@ -19,7 +19,7 @@ youtube_code: 2UUPvf5C4HA
 
 {% include youtube.html %}
 
-We’re always looking for ways to lend a helping hand. If you’ve also been aching to help those in need, here are some simple ways to get started.
+<p style="text-align: center;"><em>We’re always looking for ways to lend a helping hand. If you’ve also been aching to help those in need, here are some simple ways to get started.</em></p>
 
 Whether it be through financial donations or volunteering your time, there are so many ways to give back to the community right now.&nbsp;
 
