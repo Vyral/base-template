@@ -19,7 +19,7 @@ youtube_code: tz97P6qQYUk
 
 {% include youtube.html %}
 
-<p style="text-align:center">If you’re thinking of starting a career in real estate, we invite you to our upcoming career night.</p>
+<p style="text-align:center"><em>If you’re thinking of starting a career in real estate, we invite you to our upcoming career night.</em></p>
 
 Are you thinking of embarking on a real estate career? You’re in luck: We have a career night coming up on May 4 from 5 p.m. to 6 p.m. This career night will be happening virtually via Zoom. We’ll answer all the questions you have about what it takes to have a successful real estate career.&nbsp;
 
