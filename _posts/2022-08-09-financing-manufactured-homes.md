@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Financing Manufactured Homes
-date: 2020-04-14 18:30:00
+date: 2022-08-09 18:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
