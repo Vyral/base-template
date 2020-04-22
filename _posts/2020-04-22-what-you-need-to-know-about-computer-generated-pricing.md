@@ -21,7 +21,7 @@ youtube_code: '-leC9omabwk'
 
 {% include youtube.html %}
 
-Here’s what you need to know about computer-generated pricing and why you simply can’t beat having boots on the ground.
+<p style="text-align: center;"><em>Here’s what you need to know about computer-generated pricing and why you simply can’t beat having boots on the ground.</em></p>
 
 We’ll typically do three to six market valuations per week, helping people with pricing by looking at past sales and current listings. Our computer pulls up estimates from Zillow and a few other services on every single property we look at. Not only can we see what a particular property was listed and ultimately sold for, but it also shows us what Zillow estimated the value to be.
 
