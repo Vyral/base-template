@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'A lot has changed in the world recently, and real estate is no exception.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/How+the+Spring+Market+Has+Been+Affected+by+the+Pandemic.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
