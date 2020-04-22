@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Adapting to the Coronavirus Market
-date: 2020-03-30 13:30:15
+date: 2020-03-30 13:30:00
 tags:
 excerpt:
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/cook-youtube-6-1.jpg
 youtube_code: WbPowkwccZ4
 ---
