@@ -21,7 +21,7 @@ youtube_code: NyqeJ_8TGlI
 
 {% include youtube.html %}
 
-You can obtain 30-year traditional mortgages on manufactured homes, but there are some basic requirements:&nbsp;
+You can obtain 30-year traditional mortgages on manufactured homes, but there are some basic requirements:&nbsp;&nbsp;
 
 1. The home needs to be built after June 15, 1976.&nbsp;
 2. The home must be double-wide.&nbsp;
