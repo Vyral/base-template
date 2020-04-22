@@ -19,7 +19,7 @@ youtube_code: IfKxIlr4lR8
 
 {% include youtube.html %}
 
-Your credit report will contain three different credit scores. Here’s the reason why.
+<p style="text-align: center;"><em>Your credit report will contain three different credit scores. Here’s the reason why.</em></p>
 
 You’ve probably heard of the three major credit reporting agencies: Equifax, Transunion, and Experian. They each report credit scores on your credit report, but you may have a different score with each company.
 
