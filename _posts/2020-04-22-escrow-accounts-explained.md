@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Escrow Accounts Explained
-date: 2020-04-22 16:48:30
+date: 2020-04-22 16:48:00
 tags:
   - Home Buyer Tips
 excerpt: 'As a homebuyer, here’s what it means to have an escrow account.'
@@ -25,7 +25,7 @@ There are a couple of instances when an escrow account is required. The first is
 
 {% include pullquote.html %}
 
-The thing to remember about escrow accounts is **you’re paying 1/12th of the actual property tax/hazard insurance/flood insurance bill as part of your monthly payment.** Some people assume they’re paying interest on their escrow account, but that’s not the case. That monthly amount is set aside until those payments are due.
+The thing to remember about escrow accounts is that&nbsp;**you’re paying 1/12th of the actual property tax/hazard insurance/flood insurance bill as part of your monthly payment.** Some people assume they’re paying interest on their escrow account, but that’s not the case. That monthly amount is set aside until those payments are due.
 
 Here in Florida, for example, property tax bills are sent out in November, and if your lender pays them in November, you get a 4% discount. Your insurance bill is usually due the month you purchased your home because insurance policies are usually written on a yearly basis.&nbsp;
 
