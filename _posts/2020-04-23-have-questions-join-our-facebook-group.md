@@ -18,7 +18,7 @@ youtube_code: AuttHx04v2w
 
 {% include youtube.html %}
 
-<center>If you haven&rsquo;t already joined our Facebook group, you should\! Here&rsquo;s what you need to know.</center>
+<center>If you haven&rsquo;t already joined our Facebook group, you should! Here&rsquo;s what you need to know.</center>
 
 &nbsp;
 
