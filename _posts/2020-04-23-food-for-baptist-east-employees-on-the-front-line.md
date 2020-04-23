@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Food for Baptist East Employees on the front line
-date: 2020-04-23 19:56:58
+title: Food for Baptist East Employees on the Front Line
+date: 2020-04-23 19:56:00
 tags:
   - Real Estate
 excerpt: >-
