@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Have Questions? Join Our Facebook Group!
-date: 2020-03-19 14:04:34
+date: 2020-03-19 14:04:00
 tags:
 excerpt: >-
   If you haven’t already joined our Facebook group, you should! Here’s what you
   need to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/Have+Questions_+Join+Our+Facebook+Group!.mp4
 pullquote: 'If you have questions, you should join us!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: AuttHx04v2w
 ---
 
 {% include youtube.html %}
