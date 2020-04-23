@@ -19,4 +19,4 @@ youtube_code: VUZO618A3y8
 
 {% include youtube.html %}
 
-Every day we hear about healthcare workers on the front lines risking their lives to help patients with COVID 19. Today two local Louisville businesses worked together to make this a special day for 1,300 healthcare workers at Baptist Hospital East\! The donation for today’s food came from Baptist hospital easts auxiliary and volunteers. The money raised along with a significant drop in price from Jason’s delicatessen and the Sokoler team moving truck made this possible.
+Every day we hear about healthcare workers on the front lines risking their lives to help patients with COVID 19. Today two local Louisville businesses worked together to make this a special day for 1,300 healthcare workers at Baptist Hospital East\! The donation for today’s food came from Baptist Hospital East's auxiliary and volunteers. The money raised along with a significant drop in price from Jason’s Delicatessen and the Sokoler team moving truck made this possible.
