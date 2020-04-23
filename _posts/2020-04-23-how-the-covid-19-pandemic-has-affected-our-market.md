@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the COVID-19 Pandemic Has Affected Our Market
-date:
+date: 2020-04-23 17:28:54
 tags:
   - Real Estate
 excerpt: >-
