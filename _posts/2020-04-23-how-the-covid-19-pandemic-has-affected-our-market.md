@@ -21,7 +21,7 @@ youtube_code: Jyw3-cWk-fM
 
 {% include youtube.html %}
 
-Despite the COVID-19 pandemic, buyers are still buying and sellers are still selling in our market.
+<p style="text-align: center;"><em>Despite the COVID-19 pandemic, buyers are still buying and sellers are still selling in our market.</em></p>
 
 How have the COVID-19 pandemic and subsequent stay-at-home ordinances (which have been extended until the end of May) affected the real estate market?
 
