@@ -24,7 +24,7 @@ hidden: false
 
 <center><em>We&rsquo;re taking our business to the virtual world in order to make sure you still get the best possible service as a homebuyer or seller.</em></center>
 
-<br>The health and well-being of our clients and community are very important to us. We are in this together, Tulsa\! Now The Wolek Group is offering several virtual features to help protect your health while also meeting your real estate needs, if now is the time to buy or sell a home. Please let us know how we may serve you\!
+<br>The health and well-being of our clients and community are very important to us. We are in this <u>together</u>, Tulsa\! Now The Wolek Group is offering several virtual features to help protect your health while also meeting your real estate needs, if now is the time to buy or sell a home. Please let us know how we may serve you\!
 
 ### **Virtual Showings**
 
