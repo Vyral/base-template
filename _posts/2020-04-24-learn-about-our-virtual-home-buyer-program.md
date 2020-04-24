@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn about our “Virtual Home Buyer Program”
-date: 2020-04-24 16:23:59
+date: 2020-04-24 16:23:00
 tags:
 excerpt: >-
   Join us on April 29th at 4:00 pm on Zoom where we will share the process and
@@ -18,7 +18,11 @@ youtube_code: NImNiNscois
 
 {% include youtube.html %}
 
-<center><em>Join us on April 29th at 4:00 pm on Zoom where we will share the process and walk you through the virtual steps of buying a home\! </em></center>
+<center><em>Join us on April 29th at 4:00 pm on Zoom where we will share the process and walk you through the virtual steps of buying a home! </em></center>
+
+<center>&nbsp;</center>
+
+<center>&nbsp;</center>
 
 We realize that it’s a different sort of time, but the real estate market continues to be going strong\! Serious buyers are out there and taking advantage of this opportunity to find their perfect home\! We always strive to offer only the best in client experiences so we designed a program that has made this process safe and easy for our buyers. We’ve had a ton of people reaching out and wanting more information so we thought this would be helpful to share\!
 
