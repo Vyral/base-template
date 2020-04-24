@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 Are you ready to hit the ground running when the market finally does take off? The goal of today’s webinar is to show you what you should be doing right now to ensure that you’re prepared to pounce once demand picks back up and things get back to “normal.” Right now is the perfect time to connect, care, and counsel your clients. Developing those relationships now is just one way to ensure that your business starts to soar once social distancing restrictions are lifted.&nbsp;
 
-[![](/uploads/april-core-training-email.jpg){: width="880" height="720"}](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"}
+[![](/uploads/april-core-training-email.jpg){: width="880" height="620"}](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"}
 
 ### Previous Webinars:
 
