@@ -19,7 +19,7 @@ youtube_code: fIh6bDPbLFI
 
 {% include youtube.html %}
 
-Today my daughter and I will give you a quick real estate market update.
+<p style="text-align: center;"><em>Today my daughter and I will give you a quick real estate market update.</em></p>
 
 Life is crazy with everyone under quarantine, but the market isn’t taking as big a hit as you might think.&nbsp;
 
