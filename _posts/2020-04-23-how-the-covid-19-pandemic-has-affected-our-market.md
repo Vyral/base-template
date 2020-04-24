@@ -33,6 +33,6 @@ Don’t buy into the myth that homes aren’t selling. **From April 1 to April 1
 
 Prices haven’t dropped, either. If anything, we’re seeing multiple offers for homes *over* their asking price. We just sold a home in the Sussex/Lisbon area that generated four offers, all of which were over asking price.&nbsp;
 
-Will they eventually go down? Considering everything that’s happening with the economy, if I was a gambling man, I’d say, eventually, yes. Everything is based on supply and demand. **Right now, supply is low and demand is high, but after the stay-at-home ordinances are lifted, there will be a lot more people listing their homes.** When supply rises faster than the demand, that’s when prices drop, and I predict this drop to happen in three to six months. How far prices will drop is anyone’s guess.&nbsp;
+Will they eventually go down? Considering everything that’s happening with the economy. If I were a gambling man, I'd say, yes, eventually they will go down, given everything that's happening with the economy. Everything is based on supply and demand. **Right now, supply is low and demand is high, but after the stay-at-home ordinances are lifted, there will be a lot more people listing their homes.** When supply rises faster than the demand, that’s when prices drop, and I predict this drop to happen in three to six months. How far prices will drop is anyone’s guess.&nbsp;
 
 If you’re ready to sell or have questions about our market, don’t hesitate to reach out to me. My team and I would love to help you.
