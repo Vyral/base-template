@@ -21,7 +21,7 @@ youtube_code: vxFzZLdq9LU
 
 {% include youtube.html %}
 
-If you or someone you know needs masks or supplies to help fight off the virus, I’d love to provide them to you.
+<p style="text-align: center;"><em>If you or someone you know needs masks or supplies to help fight off the virus, I’d love to provide them to you.</em></p>
 
 After having spoken with some of our clients each week, I learned that many of you have lost your jobs. I’ve never really shared this with anyone before, but years back when I was working in banking, I was suddenly laid off as the result of a merger. **At the time, it felt like the worst day of my life, but it turned out to be the best day** because if that hadn’t happened, I wouldn’t have started my real estate business. Banking wasn’t what I was meant to do; I was meant to run a business of my own where I could help people achieve their goals in life. Just know that eventually, the economy is going to recover, your jobs will return, and furloughs will end.
 
