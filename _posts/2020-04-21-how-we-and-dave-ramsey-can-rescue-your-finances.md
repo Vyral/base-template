@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Dave Ramsey has taught us so much about financial responsibility and proper
   budgeting. Now we want to pass those lessons on to you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/How+We+and+Dave+Ramsey+Can+Rescue+Your+Finances.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
