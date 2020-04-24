@@ -23,13 +23,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Building a Dream Team One Great Hire at a Time** — [Video](https://thecoretraining.lpages.co/realtorbuildateammar2020/) — [Resources](https://www.dropbox.com/sh/rzzr193k7kkj6qu/AAAPJ-Z_qn_KUnBRMSFpe8wta?dl=0)
+**Using Quarantine Time to Prepare for a Post-Coronavirus World** — [Video](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"} — [Resources](https://www.dropbox.com/sh/n0of8tk1wby0b57/AACkABeSwZMGXs1Frth74PYna?dl=0){: target="_blank"}
 
-Do you already have a great team, or do you need to build one? If you’re in the latter category, today’s webinar will help. The key to building a great time is making one great hire at a time. There are also three critical steps that you need to know in order to hire, train, and manage that team.
+Are you ready to hit the ground running when the market finally does take off? The goal of today’s webinar is to show you what you should be doing right now to ensure that you’re prepared to pounce once demand picks back up and things get back to “normal.” Right now is the perfect time to connect, care, and counsel your clients. Developing those relationships now is just one way to ensure that your business starts to soar once social distancing restrictions are lifted.&nbsp;
 
-[![](/uploads/wade-betz---dream-team---email.jpg){: width="920" height="600"}](https://thecoretraining.lpages.co/realtorbuildateammar2020/){: target="_blank"}
+[![](/uploads/april-core-training-email.jpg){: width="1280" height="720"}](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"}
 
 ### Previous Webinars:
+
+**Using Quarantine Time to Prepare for a Post-Coronavirus World** — [Video](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"} — [Resources](https://www.dropbox.com/sh/n0of8tk1wby0b57/AACkABeSwZMGXs1Frth74PYna?dl=0){: target="_blank"}
 
 **Building a Dream Team One Great Hire at a Time** — [Video](https://thecoretraining.lpages.co/realtorbuildateammar2020/) — [Resources](https://www.dropbox.com/sh/rzzr193k7kkj6qu/AAAPJ-Z_qn_KUnBRMSFpe8wta?dl=0)
 
