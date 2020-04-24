@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/career-yt-adrienne-lally-new.jpg
-youtube_code: tz97P6qQYUk
+youtube_code: p4o_EewZFxE
 ---
 
 {% include youtube.html %}
