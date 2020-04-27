@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Giving You the Facts About Our Real Estate and Mortgage Markets
-date: 2020-04-27 20:06:19
+date: 2020-04-27 20:06:00
 tags:
   - Market Update
 excerpt: >-
   Today I’ve got the latest numbers from our real estate market, and my friend
   Justin Rose has the latest from the lending world. Here’s what you need to
   know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Don+Vallee/2020/Giving+You+the+Facts+About+Our+Real+Estate+and+Mortgage+Markets.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
