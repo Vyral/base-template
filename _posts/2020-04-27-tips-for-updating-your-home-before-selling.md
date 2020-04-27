@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tips for Updating Your Home Before Selling
-date: 2020-04-27 17:50:04
+date: 2020-04-27 17:50:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: gF2DjZI9QJU
 
 I hear a lot from home sellers who tell me that they don’t have the money to make expensive updates and repairs. They’re unsure of what their next move should be, so today I’d like to offer my advice.
 
-**One option is to offer an allowance to buyers for repairs.** We can figure out how much it would cost to make the necessary updates and repairs, then offer an allowance to buyers based on that amount.&nbsp;
+**One option is to offer an allowance to buyers for repairs.** We can figure out how much it would cost to make the necessary updates and repairs, then offer an allowance to buyers based on that amount.&nbsp;&nbsp;
 
 {% include pullquote.html %}
 
