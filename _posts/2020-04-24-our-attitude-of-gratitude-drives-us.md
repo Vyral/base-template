@@ -41,6 +41,6 @@ Here’s what some of our team members have to say about what G.R.A.T.I.T.U.D.E.
 
 **E stands for Excellence:** We strive to deliver the best value, hire the best people, and go above and beyond for our clients.&nbsp;
 
-At the John Schuster Group, our core values are very important to us. We strive to cultivate the attitude of gratitude in every aspect of our professional and personal lives. We recognize that our success is because of who we have been surrounded by and the support we have received, and for that we are truly grateful. From our team to you, thank you so much for taking the time to watch our video and to understand the core values that drive us. We look forward to talking with you in the future\!&nbsp;
+At the John Schuster Group, our core values are very important to us. We strive to cultivate the attitude of gratitude in every aspect of our professional and personal lives. We recognize that our success is because of who we have been surrounded by and the support we have received, and for that, we are truly grateful. From our team to you, thank you so much for taking the time to watch our video and to understand the core values that drive us. We look forward to talking with you in the future\!&nbsp;
 
 If you have any questions, please reach out to us via phone or email. We would love to help you.
