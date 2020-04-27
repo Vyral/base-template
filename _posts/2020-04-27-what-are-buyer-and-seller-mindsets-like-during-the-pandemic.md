@@ -22,4 +22,6 @@ youtube_code: 'https://youtu.be/FHgIa2monhY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>This pandemic has certainly affected our real estate market in terms of volume, but it’s interesting to note the different mindsets of the buyers and sellers who are out in the market right now. Here’s what we’ve been seeing lately.</em></p>
+
 As we’ve continued to navigate the real estate market during the COVID-19 pandemic, we’ve been keeping a close eye on the psyche of the buyers and sellers that we’re working with right now. For sellers, some are business as usual, while others are deciding to pull back for the time being. Many buyers are ready to go, especially with the low interest rates that we have right now. To learn more about how buyers and sellers are responding to this pandemic and what that means for our real estate market going forward, watch this short video above.
