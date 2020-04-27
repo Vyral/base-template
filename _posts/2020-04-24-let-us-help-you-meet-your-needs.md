@@ -33,6 +33,6 @@ Speaking of safety measures, I was recently at Price Shopper when I saw an elder
 
 We in the real estate industry can’t do that; we’re a service industry. But what can we, as Realtors, do for you? We’re really good networkers.
 
-I was able to source some N-95 masks for those who need them. If you’re a first responder, I will provide them to you free of charge. **All we ask is that you come to pick them up in my office since my team is working virtually and I cannot package them all up on my own.**
+I was able to source some KN95 masks for those who need them. If you’re a first responder, I will provide them to you free of charge. **All we ask is that you come to pick them up in my office since my team is working virtually and I cannot package them all up on my own.**
 
 And if there’s anything else my team can do for you or someone you know, reach out to us. Nothing would make me happier than to supply you and your family with free masks to help keep you safe and healthy.
