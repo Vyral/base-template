@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has the Shelter-in-Place Ordinance Affected Our Market?
-date:
+date: 2020-04-27 15:16:22
 tags:
   - Real Estate
 excerpt: >-
