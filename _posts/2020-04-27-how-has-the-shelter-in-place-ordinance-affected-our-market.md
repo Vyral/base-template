@@ -19,7 +19,7 @@ youtube_code: TmEYXrCiIt0
 
 {% include youtube.html %}
 
-Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.&nbsp;
+<p style="text-align: center;"><em>Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.</em></p>
 
 To get a true sense of the impact the COVID-19 pandemic has had on our market, I’ll compare year-over-year numbers from when the shelter-in-place ordinance went into effect, March 21, all the way up through April 18.&nbsp;
 
