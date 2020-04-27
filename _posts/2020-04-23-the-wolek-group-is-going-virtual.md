@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Wolek Group is Going Virtual
+title: The Wolek Group Is Going Virtual
 date: 2020-04-23 00:00:00
 tags:
   - Real Estate
@@ -24,7 +24,7 @@ hidden: false
 
 <center><em>We&rsquo;re taking our business to the virtual world in order to make sure you still get the best possible service as a homebuyer or seller.</em></center>
 
-<br>The health and well-being of our clients and community are very important to us. We are in this <u>together</u>, Tulsa\! Now The Wolek Group is offering several virtual features to help protect your health while also meeting your real estate needs, if now is the time to buy or sell a home. Please let us know how we may serve you\!
+<br>The health and well-being of our clients and community are very important to us. We are in this *together*, Tulsa\! The Wolek Group is now offering several virtual features to help protect your health while also meeting your real estate needs, if now is the time to buy or sell a home. Please let us know how we may serve you\!
 
 ### **Virtual Showings**
 
@@ -32,9 +32,7 @@ Our showings are going online\! We are offering virtual house tours of our activ
 
 ### **Virtual Consultations**
 
-Want to chat with one of our Realtors about buying and/or selling a home? We are offering digital consultations that will allow us to get to know you and your real estate needs via phone or video meetings. Feeling in control and thoroughly educated during your home purchase or sale is our priority\! Contact us today to schedule a time\!
-
-{% include pullquote.html %}
+Want to chat with one of our Realtors about buying and/or selling a home? We are offering digital consultations that will allow us to get to know you and your real estate needs via phone or video meetings. Helping you feel in control and thoroughly educated during your home purchase or sale is our priority\! Contact us today to schedule a time\!
 
 ### **Preview Homes Online**
 
