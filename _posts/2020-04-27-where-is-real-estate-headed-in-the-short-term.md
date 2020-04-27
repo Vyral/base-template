@@ -20,7 +20,7 @@ youtube_code: YBH9yd2Fujs
 
 {% include youtube.html %}
 
-Our real estate market has certainly been affected by the coronavirus pandemic, but could some much-needed relief be on the horizon? Here are my thoughts.
+<p style="text-align: center;"><em>Our real estate market has certainly been affected by the coronavirus pandemic, but could some much-needed relief be on the horizon? Here are my thoughts.</em></p>
 
 The question I’m getting a lot lately is, “Where do you see the real estate market going in the short term because of the coronavirus pandemic?”
 
