@@ -19,7 +19,7 @@ youtube_code: y99dD-LkYDs
 
 {% include youtube.html %}
 
-If your home sale or purchase has fallen out of escrow due to the coronavirus pandemic, there are plenty of ways to still get a deal done.
+<p style="text-align: center;"><em>If your home sale or purchase has fallen out of escrow due to the coronavirus pandemic, there are plenty of ways to still get a deal done.</em></p>
 
 If a home falls out of escrow due to the coronavirus pandemic, what happens next? At the end of March, we had six homes fall out of escrow in a 5-day span. One buyer lost their job, another couldn’t get financing, and others got cold feet.
 
