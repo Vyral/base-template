@@ -29,6 +29,6 @@ Another option is selling the home as is to an investor. **If you just want the 
 
 One thing I always recommend is deep cleaning, decluttering, and depersonalization. This makes your home more attractive to people and allows them to see the strong bones of your property.
 
-**If you don’t have a ton of money, even simple and inexpensive repairs like painting can make a difference.** Anything you can do to make the home move-in ready will help you maximize your sale price. By investing a little bit into your home, you can reap the benefits and increase your sale profits.
+**If you don’t have much money, even simple and inexpensive repairs like painting can make a difference.** Anything you can do to make the home move-in ready will help you maximize your sale price. By investing a little bit into your home, you can reap the benefits and increase your sale profits.
 
-If you have questions for us about preparing a home for sale or about your personal situation, feel free to reach out via phone or email today. I look forward to hearing from you soon.
+If you have questions for us about preparing a home for sale or your situation, feel free to reach out via phone or email today. We look forward to hearing from you soon.
