@@ -20,7 +20,7 @@ youtube_code: kMJ2oM78lcs
 
 {% include youtube.html %}
 
-*Today I have the latest numbers from our real estate market, and my friend Justin Rose has the latest from the lending world. Here’s what you need to know.*
+<p style="text-align:center">Today I have the latest numbers from our real estate market, and my friend Justin Rose has the latest from the lending world. Here’s what you need to know.</p>
 
 Nova Home Loans is the largest mortgage bank in Southern Arizona, and today Jason Rose is joining me to share some of his insight and experience with us. Navigating through the current situation has been difficult, but he’s here today to give everyone the facts about what’s going on in the real estate and mortgage worlds right now.&nbsp;
 
