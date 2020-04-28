@@ -21,7 +21,7 @@ youtube_code: h9IfOTe6Fhs
 
 {% include youtube.html %}
 
-CPA and Carlisle native Chris Farrands joins me to discuss the financial services offered by Cohick & Associates, a trusted community partner.
+<p style="text-align: center;"><em>CPA and Carlisle native Chris Farrands joins me to discuss the financial services offered by Cohick & Associates, a trusted community partner.</em></p>
 
 What makes Cohick & Associates so special? For years, they’ve been going the extra mile for local businesses. My Brand Ambassador Spotlight guest for today, Chris Farrands, shares a passion with founder Jeff Cohick for helping small businesses in Central Pennsylvania. **Together, with an exceptional support staff, they’ve been able to help business owners thrive by offering outstanding bookkeeping, payroll and tax services.&nbsp;**
 
