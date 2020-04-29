@@ -21,6 +21,6 @@ youtube_code: aXuw0TSrjJs
 
 <center><em>With the shelter-in-place provisions across the country, will there even be a spring real estate market?</em></center>
 
-<br>People have been asking us over and over: What’s going on with the spring market? Are we even going to have one, or will COVID-19 cause us to bypass it completely? Today we’ll answer these questions and more.
+<br>People have been asking us over and over: What’s going on with the spring market? Are we even going to have one, or will COVID-19 cause us to bypass it completely? The answers we'll provide today depend on when the shelter-in-place provisions will be lifted.
 
-The answers depend on when the shelter-in-place provisions will be lifted. At the moment, there are serious restrictions on showings; we can only show vacant homes in person, and we’ve been doing virtual home tours for sellers who still live in their homes. **If restrictions are lifted, we anticipate a number of homes will enter the market**.
+At the moment, there are serious restrictions on showings; we can only show vacant homes in person, and we’ve been doing virtual home tours for sellers who still live in their homes. **If restrictions are lifted, we anticipate a number of homes will enter the market**.
