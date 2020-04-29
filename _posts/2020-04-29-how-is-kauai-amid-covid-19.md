@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Kauai Amid COVID-19?
-date:
+date: 2020-04-29 16:51:22
 tags:
 excerpt: >-
   I’m sharing a few updates about how Kauai is doing amid the pandemic. Learn
