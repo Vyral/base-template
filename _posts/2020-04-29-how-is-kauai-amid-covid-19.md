@@ -12,10 +12,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-28-20yt-1.jpg
-youtube_code: '411576306'
+youtube_code:
 ---
 
-{% include vimeo.html %}
+{% include youtube.html %}
 
 <center><em>I&rsquo;m sharing a few updates about how Kauai is doing amid the pandemic. Learn about unemployment, safety, and more here.</em></center>
 
