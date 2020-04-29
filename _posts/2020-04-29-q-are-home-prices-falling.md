@@ -19,7 +19,7 @@ youtube_code: R1sZpVq8wOo
 
 {% include youtube.html %}
 
-Many people are concerned about decreasing home values. Today I’m sharing what you need to know about that.
+<p style="text-align: center;"><em>Many people are concerned about decreasing home values. Today I’m sharing what you need to know about that.</em></p>
 
 Are St. George and Southern Utah home prices falling due to the pandemic?&nbsp;
 
