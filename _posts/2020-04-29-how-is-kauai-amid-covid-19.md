@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Kauai Amid COVID-19?
-date: 2020-04-29 16:51:22
+date: 2020-04-29 16:51:00
 tags:
 excerpt: >-
   I’m sharing a few updates about how Kauai is doing amid the pandemic. Learn
@@ -12,10 +12,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-28-20yt-1.jpg
-youtube_code:
+youtube_code: '411576306'
 ---
 
-{% include youtube.html %}
+{% include vimeo.html %}
 
 <center><em>I&rsquo;m sharing a few updates about how Kauai is doing amid the pandemic. Learn about unemployment, safety, and more here.</em></center>
 
