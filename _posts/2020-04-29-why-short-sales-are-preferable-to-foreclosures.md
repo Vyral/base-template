@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/qBXlJsdObyM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why homeowners are better off doing a short sale instead.</em></p>
+
 How can a short sale help you avoid foreclosure?
 
 A short sale is a process where the bank allows the homeowner to pay less than their current mortgage to sell their home. This benefits both sides: The bank saves money on legal fees and the homeowner, obviously, doesn’t have to go through foreclosure.
