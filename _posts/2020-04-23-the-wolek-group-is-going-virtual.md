@@ -40,6 +40,6 @@ Our Buyer Specialists will preview the homes that you are interested in viewing 
 
 ### **KW Consumer App**
 
-Another way to explore all the current homes for sale is through our website or the KW Consumer App\! To download the app, <u><a target="_blank" href="https://console.command.kw.com/login">click here</a></u>.
+Another way to explore all the current homes for sale is through our website or the KW Consumer App\! To download the app, <u><a target="_blank" href="https://kwri.app.link/KW112787">click here</a></u>.
 
 To be good stewards of our community and to help keep our clients safe, we are here to help you during these challenging days. We know that you may still need to buy or sell a home, and we are here for you every step of the way\!
