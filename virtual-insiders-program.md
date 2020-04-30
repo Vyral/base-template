@@ -78,7 +78,7 @@ permalink: /virtual-insiders-program/
     <!-- Cloud cannon settings field -->
     <div class="hidden">
       <input type="hidden" name="_to" value="eric@ericmortimer.com">
-      <input type="hidden" name="_subject" value="Seller Request Message From Your Vyral Video Blog">
+      <input type="hidden" name="_subject" value="VIP Request Message From Your Vyral Video Blog">
       <input type="text" name="_gotcha">
     </div>
 </form>
