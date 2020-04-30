@@ -9,8 +9,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/4-3020.jpg
 youtube_code: nr-e6l6Bv74
 ---
 
@@ -34,6 +34,6 @@ With all the volatility in the stock market and uncertainty about the length of 
 
 4\. Houses became too expensive in the lead up to the Great Recession. &nbsp;Affordability was a real issue, though didn’t factor into getting a loan. &nbsp;The affordability index, which is the percentage of an average person's income it takes to buy an averaged priced home is FAR lower than it was from 2005-2007. &nbsp;The major player in affordability has been historically low-interest rates.
 
-<br>5\. People are equity rich, not tapped out. &nbsp;From 2005-2008 people were using their homes like piggy banks and banks were more than happy to give out nearly free home equity loans for more than their homes real value. &nbsp;The result of this was people using equity from their homes to finance their lives wants, weddings, vacations, cards, credit card consolidation, etc...That put their homes are a risk in the event they were unable to afford them as they had no equity to sell. &nbsp;Well, banking institutions have put a lot of restrictions in place to prevent people from over-encumbering their homes. &nbsp;
+<br>5\. People are equity rich, not tapped out. &nbsp;From 2005-2008 people were using their homes like piggy banks and banks were more than happy to give out nearly free home equity loans for more than their homes real value. &nbsp;The result of this was people using equity from their homes to finance their lives wants, weddings, vacations, cards, credit card consolidation, etc…That put their homes are a risk in the event they were unable to afford them as they had no equity to sell. &nbsp;Well, banking institutions have put a lot of restrictions in place to prevent people from over-encumbering their homes. &nbsp;
 
 <br>We will continue to keep the real estate industry operating during these trying times. &nbsp;Please don’t hesitate to call us and ask us about our safe seller and virtual buyer programs our clients are utilizing to stay safe during these uncertain times.
