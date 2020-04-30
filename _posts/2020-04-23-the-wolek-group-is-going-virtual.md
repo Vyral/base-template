@@ -8,7 +8,8 @@ excerpt: >-
   We’re taking our business to the virtual world in order to make sure you still
   get the best possible service as a homebuyer or seller. Here is a rundown of
   the services we’re offering.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/April/The+Wolek+Group+Is+Going+Virtual.mp4
 pullquote: >-
   We’re taking our business to the virtual world in order to make sure you still
   get the best possible service as a homebuyer or seller.
