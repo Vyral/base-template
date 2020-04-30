@@ -5,8 +5,8 @@ permalink: /virtual-insiders-program/
 ---
 <div class="col-md-8 col-md-offset-2">
   <div style="margin-top:3rem;">
-    <h3>An Easier Way to Sell Your Calgary Home</h3>
-    <h5>Get a guaranteed offer within as little as 7 days on your home</h5>
+    <h3>Start Your Free Virtual Insiders Program Membership</h3>
+    <h5>Please complete and submit the form below</h5>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/EbtZv2ZMu5o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
@@ -38,10 +38,15 @@ permalink: /virtual-insiders-program/
       <input type="text" name="address">
 
         <!--5-->
-        <label for="why">
-            Why do you need to sell your home?
+        <label for="what">
+            What do you want to buy?
         </label>
-        <textarea name="why"></textarea>
+        <textarea name="what"></textarea>
+        
+        <label for="sell">
+            Do you also need to sell your home?
+        </label>
+        <textarea name="sell"></textarea>
 
         <label for="when">
             When do you plan on moving?
