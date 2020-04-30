@@ -4,7 +4,7 @@ title: Why Short Sales Are Preferable to Foreclosures
 date: 2020-04-29 13:31:12
 tags:
   - Home Seller Tips
-excerpt: Here’s why homeowners are better off doing a short sale instead.
+excerpt: Here’s why homeowners are better off doing a short sale instead of a foreclosure.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/Why+Short+Sales+Are+Preferable+to+Foreclosures.mp4
 pullquote: >-
@@ -14,20 +14,20 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-short-sales-vs-foreclosures-youtube.jpg
-youtube_code: 'https://youtu.be/qBXlJsdObyM'
+youtube_code: 'https://youtu.be/VUO-j3FHC1o'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why homeowners are better off doing a short sale instead.</em></p>
+<p style="text-align: center;"><em>Here’s why homeowners are better off doing a short sale instead of a foreclosure.</em></p>
 
 How can a short sale help you avoid foreclosure?
 
-A short sale is a process where the bank allows the homeowner to pay less than their current mortgage to sell their home. This benefits both sides: The bank saves money on legal fees and the homeowner, obviously, doesn’t have to go through foreclosure.
+A short sale is a process where the bank allows the homeowner to pay less than their current mortgage to sell their home. This benefits both sides: The bank saves money on legal fees and the homeowner doesn’t have to go through foreclosure.
 
 **Opting for a short sale and avoiding foreclosure carries three big advantages:**
 
-**1\. You won’t have a foreclosure on your record for sevens years.** The only thing that will show up on your credit is an account settled for less.&nbsp;
+**1\. You won’t have a foreclosure on your record for seven years.** The only thing that will show up on your credit is an account settled for less.&nbsp;
 
 {% include pullquote.html %}
 
