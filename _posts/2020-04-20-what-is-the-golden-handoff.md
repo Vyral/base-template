@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Many agents come and go in the real estate business. The Golden Handoff
   ensures their clients are taken care of after they leave.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/What+Is+the+Golden+Handoff_.mp4
 pullquote: >-
   The Golden Handoff is entrusting a database to another agent and receiving a
   referral fee in return.
