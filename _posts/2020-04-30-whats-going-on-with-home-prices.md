@@ -18,6 +18,7 @@ youtube_code: nG2IrlETpI4
 
 {% include youtube.html %}
 
-*You may have heard through the grapevine that home values are dropping, but is that accurate? Here are the numbers that prove this is not the case.*
+<center><em>You may have heard through the grapevine that home values are dropping, but is that accurate? Here are the numbers that prove this is not the case.</em></center>
+&nbsp;
 
 The big question we’ve been hearing lately is, “Are home prices dropping?” The short answer is no. If you look at our market activity over the last 30 days, only 1,142 homes have been listed and 1,750 homes sold. More homes are selling than have been coming on the market, which is keeping prices up.
