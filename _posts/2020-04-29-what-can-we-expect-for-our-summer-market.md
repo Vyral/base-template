@@ -17,6 +17,6 @@ youtube_code: MJLrgkEVtgg
 
 {% include youtube.html %}
 
-<p style="text-align:center">What’s in store for us in the coming summer? Here are my thoughts.</p>
+<p style="text-align:center"><em>What’s in store for us in the coming summer? Here are my thoughts.</em></p>
 
 With the stay-at-home orders in place to combat the spread of the pandemic, it brings up a very important question: What is this summer going to look like? Typically, as schools let out for the summer, the market tends to heat up. However, this year is sure to be a little different from the typical summer; the pandemic is going to shake everything up. To learn what that will mean for our market, watch the short video above.
