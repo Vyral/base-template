@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Pandemic Hasn’t Stopped Our Level of Service
-date:
+date: 2020-05-01 15:25:07
 tags:
   - Real Estate
 excerpt: >-
