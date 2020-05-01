@@ -19,7 +19,7 @@ youtube_code: JQYUShJq1Wc
 
 {% include youtube.html %}
 
-Why do the agents on the Dan Jones Team succeed? Here’s some insight into why our team is so accomplished.
+<p style="text-align: center;"><em>Why do the agents on the Dan Jones Team succeed? Here’s some insight into why our team is so accomplished.</em></p>
 
 We often ask agents who aren’t on our team, “Why do you think the agents on the Dan Jones Team succeed?” Many times, they respond by suggesting that we have something they don’t have.
 
