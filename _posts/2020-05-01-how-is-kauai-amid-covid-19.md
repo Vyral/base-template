@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How Is Kauai Amid COVID-19?
-date: 2020-05-01 20:47:52
+date: 2020-05-01 20:47:00
 tags:
 excerpt: >-
   I’m sharing a few updates about how Kauai is doing amid the pandemic. Learn
   about unemployment, safety, and more here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Kauai+Real+Estate-+Aloha+Friday.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
