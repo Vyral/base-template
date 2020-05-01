@@ -75,15 +75,15 @@ podcast:
   author: Joshua Stern
 
 agent:
-  name: Lee Stern
-  email: lee@sternteam.com
-  phone: 801-541-5899
-  name2: Ken Montague
-  email2: ken@sternteam.com
-  phone2: 801-859-7370
-  name3: Emily Reed
-  email3: emily@sternteam.com
-  phone3: 801-893-2202
+  name: Jeremy Martin
+  email: jeremy@sternteam.com
+  phone: 801-598-9838
+  name2: Jennifer Okobia
+  email2: jennifer@sternteam.com
+  phone2: 801-834-2900
+  name3: Jacquie Reagh
+  email3: jacquie@sternteam.com
+  phone3: 619-540-5157
 
 images:
   client_headshot_path1: '/img/lee.jpg'
