@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   With the shelter-in-place provisions across the country, will there even be a
   spring real estate market?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/Will+There+Be+a+Spring+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
