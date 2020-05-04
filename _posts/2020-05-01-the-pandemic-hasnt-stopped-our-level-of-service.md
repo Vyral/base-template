@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: >-
   The Sokoler Team is here for you every step of the way, even if those steps
-  look quite different than what we’re all used to.
+  looks quite different than what we’re all used to.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/The+Pandemic+Hasnt+Stopped+Our+Level+of+Service.mp4
 pullquote:
