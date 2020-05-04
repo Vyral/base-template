@@ -47,4 +47,4 @@ This means that buyers are still buying and buying at a higher rate than homes a
 * 44 year average on interest rates for 30-year mortgages 8.4%. We are nearly 5% lower than that right now.&nbsp; There’s a lot of room for interest rates to go up and we certainly hope they do not, but getting used to interest rates below 4% would be a mistake.&nbsp;
 * Some home buyers are not wanting to go out and look at homes right now, yet they still want to buy. We’ve put together a Virtual Home Buying program that many of our buyers are taking advantage of.
 
-If you have any questions about the market, our Safe Seller Program, or our Virtual Home Buying Program, please reach out to us directly.&nbsp; Give us a call or send us an email.&nbsp; You’ll be amazed at how fast we get back to you.&nbsp;
+If you have any questions about the market, our Safe Seller Program, or our Virtual Home Buying Program, please reach out to us directly.&nbsp; Give us a call or send us an email.&nbsp; You’ll be amazed at how fast we get back to you.
