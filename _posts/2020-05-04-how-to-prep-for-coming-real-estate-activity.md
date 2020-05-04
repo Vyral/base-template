@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prep for Coming Real Estate Activity
-date:
+date: 2020-05-04 15:43:55
 tags:
 excerpt: >-
   When the pandemic is over, there will be a surge of real estate activity. I’m
@@ -15,6 +15,10 @@ youtube_alternate_image: /uploads/4-29-gray-youtube.jpg
 youtube_code: jpaKDJpYkFY
 ---
 
-{% include youtube.html %}<center>How to Prep for Coming Real Estate Activity</center>
+{% include youtube.html %}
+
+<center>How to Prep for Coming Real Estate Activity</center>
+
+&nbsp;
 
 Warning: A tsunami of real estate business is coming. In the Houston metro area, new listings are currently down by 35% compared to last month. Sellers are taking their homes off the market, and buyers have gotten cold feet. When the pandemic is over, everyone who waited to buy or sell is going to want in on the action. Today I’m sharing how to prepare for the inevitable deluge. To learn more about how to prep for all the imminent real estate activity, watch the short video above.
