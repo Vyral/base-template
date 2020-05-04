@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Is Our Connecticut Market Doing
-date:
+date: 2020-05-04 18:13:07
 tags:
   - Real Estate
 excerpt: >-
