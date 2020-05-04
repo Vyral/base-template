@@ -957,7 +957,6 @@ html[xmlns] .flexslider .slides {
 
 .flex-viewport {
   max-height: 2000px;
-  -webkit-transition: all 1s ease;
   transition: all 1s ease; }
 
 .loading .flex-viewport {
@@ -983,7 +982,6 @@ html[xmlns] .flexslider .slides {
   cursor: pointer;
   color: #B40101;
   text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
-  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
 .flex-direction-nav a:before {
@@ -1097,7 +1095,6 @@ html[xmlns] .flexslider .slides {
   opacity: 0.7;
   cursor: pointer;
   -moz-user-select: none;
-  -webkit-transition: all 1s ease;
   transition: all 1s ease; }
 
 .flex-control-thumbs img:hover {
@@ -1149,7 +1146,6 @@ html[xmlns] .flexslider .slides {
   width: 100%; }
 
 .owl-carousel .owl-wrapper-outer.autoHeight {
-  -webkit-transition: height 500ms ease-in-out;
   transition: height 500ms ease-in-out; }
 
 .owl-carousel .owl-item {
@@ -1164,7 +1160,7 @@ html[xmlns] .flexslider .slides {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 /* mouse grab icon */
 .grabbing {
@@ -1190,21 +1186,11 @@ html[xmlns] .flexslider .slides {
 .lender .lender-logo img {
   max-width: 200px; }
 .lender .lender-info {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center; }
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center; }
   .lender .lender-info img {
     margin: 5px;
     border-radius: 50%;
@@ -1235,9 +1221,7 @@ html[xmlns] .flexslider .slides {
 .cta-button {
   position: absolute;
   bottom: 20px;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   display: block;
   color: #B40101;
   background-color: #fff;
@@ -1264,9 +1248,7 @@ html[xmlns] .flexslider .slides {
   position: absolute;
   bottom: 25%;
   left: 25%;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   display: block;
   color: #B40101;
   background-color: #fff;
@@ -1328,16 +1310,15 @@ html[xmlns] .flexslider .slides {
     .jp-audio .jp-controls .jp-volume-max {
       display: none !important; }
     .jp-audio .jp-controls .jp-pause, .jp-audio .jp-controls .jp-play {
-      background-color: transparent; }
+      background-color: rgba(0, 0, 0, 0); }
     .jp-audio .jp-controls a {
-      background-color: transparent;
+      background-color: rgba(0, 0, 0, 0);
       color: #B40101;
       display: inline-block;
       line-height: 40px;
       text-align: center;
       text-decoration: none;
       width: 100%;
-      -webkit-transition: all 0.15s ease-out 0s;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
         color: #fe1d1d; }
@@ -1358,7 +1339,7 @@ html[xmlns] .flexslider .slides {
     text-align: right; }
   .jp-audio .jp-no-solution {
     background-color: #b28282;
-    color: transparent;
+    color: rgba(0, 0, 0, 0);
     display: none;
     font-size: 16px;
     line-height: 24px;
@@ -1380,7 +1361,6 @@ html[xmlns] .flexslider .slides {
 
 .navbar-nav > li {
   margin-bottom: 0px;
-  -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
 
 .hiring-navbar {
@@ -1858,6 +1838,9 @@ h6 {
   max-width: 120rem;
   margin: 0 auto; }
 
+ul {
+  list-style: disc; }
+
 a {
   color: #B40101;
   text-decoration: none; }
@@ -2000,7 +1983,6 @@ table tr, table td {
   text-align: left; }
 
 .post-link {
-  -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out; }
 
 .post-image {
@@ -2054,7 +2036,6 @@ table tr, table td {
   margin-top: 20px;
   text-decoration: none;
   font-size: 16px;
-  -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .readlink > a:hover {
     background: #fff;
@@ -2089,7 +2070,6 @@ table tr, table td {
   max-width: 70%;
   display: block;
   margin: 1.5rem auto;
-  -webkit-transition: 0.3s;
   transition: 0.3s; }
   .pullquote:hover::after {
     background-position: left; }
@@ -2111,7 +2091,6 @@ table tr, table td {
   display: -moz-box;
   display: box;
   display: -moz-flex;
-  display: -ms-flexbox;
   display: flex; }
 .post .site-logo {
   max-width: 15rem;
@@ -2131,7 +2110,6 @@ table tr, table td {
   width: 100%;
   max-width: 15rem;
   border-radius: 50%;
-  -webkit-transition: 0.3s;
   transition: 0.3s; }
   .post .headshot:hover {
     -webkit-transform: scale(0.9);
@@ -2278,7 +2256,6 @@ table tr, table td {
     height: 3.5rem;
     width: 3.5rem;
     border-radius: 50%;
-    -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
       fill: #fe1d1d;
@@ -2309,8 +2286,6 @@ table tr, table td {
     width: 3rem;
     border-radius: 50%;
     fill: #B40101;
-    -webkit-transition: 1s cubic-bezier(0.4, 0, 0.2, 1);
-    -webkit-transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
       fill: #fe1d1d;
@@ -2405,7 +2380,6 @@ table tr, table td {
     padding: 2.4rem;
     display: inline-block;
     margin-right: 1rem;
-    -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-input::-webkit-input-placeholder {
       color: #c7c7c7; }
@@ -2429,7 +2403,6 @@ table tr, table td {
     border-radius: 0px;
     font-weight: 300;
     border: 2px solid #B40101;
-    -webkit-transition: 0.3s;
     transition: 0.3s; }
     .search-box .search-submit:hover {
       background: #fff;
@@ -2461,7 +2434,6 @@ table tr, table td {
   margin-bottom: 0.5rem;
   font-size: 2rem;
   border-radius: 0px;
-  -webkit-transition: 0.3s;
   transition: 0.3s; }
   .review.button svg, .review.button-ghost svg {
     fill: white;
@@ -2498,23 +2470,15 @@ table tr, table td {
 
 .about-container {
   display: inline-block;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   padding: 0px 10px 40px;
   font-size: 18px; }
   .about-container div {
-    display: -ms-inline-grid;
     display: inline-grid; }
 
 .about-text {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column; }
+  flex-direction: column; }
   .about-text p {
     vertical-align: middle;
     margin: auto 0;
@@ -2605,15 +2569,9 @@ table tr, table td {
   min-height: 300px;
   background: #f2f2f2;
   border-radius: 8px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -ms-flex-pack: distribute;
-      justify-content: space-around; }
+  flex-direction: column;
+  justify-content: space-around; }
 
 .timekeeper {
   float: left;
@@ -2622,8 +2580,7 @@ table tr, table td {
   bottom: 10px; }
 
 .testimonial-audio {
-  -ms-flex-item-align: end;
-      align-self: flex-end;
+  align-self: flex-end;
   border: 0;
   margin-bottom: -50px; }
   .testimonial-audio p {
@@ -2647,8 +2604,7 @@ table tr, table td {
 
 .testimonial-attribute {
   font-weight: bold;
-  -ms-flex-item-align: start;
-      align-self: flex-start; }
+  align-self: flex-start; }
 
 .testimonial-container {
   background: #fff;
@@ -2657,13 +2613,9 @@ table tr, table td {
 
 .testimonial-navigation {
   padding: 10px;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
   width: 100%;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between; }
+  justify-content: space-between; }
   .testimonial-navigation a {
     color: #B40101;
     font-size: 4rem;
@@ -2671,7 +2623,6 @@ table tr, table td {
     z-index: 5;
     top: 250px;
     cursor: pointer;
-    -webkit-transition: all 0.15s ease-out 0s;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
       color: #fe5050; }
@@ -2806,6 +2757,21 @@ form select {
 
 .newsletter {
   background: #46423f; }
+
+.workshop-title {
+  font-size: 30px;
+  text-align: center;
+  color: #B40101; }
+
+.seller-workshop {
+  width: 65%;
+  margin: 0 auto;
+  display: block; }
+
+.workshop-page {
+  width: 75%;
+  display: block;
+  margin: 0 auto; }
 
 .recruiting {
   text-align: center; }
@@ -3020,7 +2986,6 @@ form select {
     width: 70%;
     display: inline-block;
     margin-right: 1rem;
-    -webkit-transition: 0.3s;
     transition: 0.3s; }
     .subscribe_optin input[type='email']::-webkit-input-placeholder {
       color: white; }
@@ -3210,9 +3175,7 @@ form select {
   padding-left: 1rem; }
 
 .simple-cta-link {
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
   background: #B40101;
   border: 1px solid #B40101;
   border-radius: 0px;
@@ -3221,7 +3184,6 @@ form select {
   font-size: 18px;
   color: #ffffff;
   margin-left: 1rem;
-  -webkit-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
   .simple-cta-link p {
     text-align: center; }
