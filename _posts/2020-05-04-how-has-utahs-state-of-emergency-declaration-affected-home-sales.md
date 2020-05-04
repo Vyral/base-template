@@ -17,7 +17,8 @@ youtube_code: dn4Qax1fsyY
 
 {% include youtube.html %}
 
-*Today we want to talk about Utah’s real estate market since Governor Herbert declared a state of emergency. *
+<center><em>Today we want to talk about Utah’s real estate market since Governor Herbert declared a state of emergency.</em></center>
+&nbsp;
 
 We are focused on keeping you informed during this shifting real estate market so you have all the knowledge to make good decisions when it comes to your own home selling, buying, and investing goals. Today we want to talk about Utah’s real estate market since Governor Herbert declared a State of Emergency in March.
 
