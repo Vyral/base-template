@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How Has Utah's State of Emergency Declaration Affected Home Sales
-date: 2020-05-04 16:36:33
+date: 2020-05-04 16:36:00
 tags:
 excerpt: >-
   Today we want to talk about Utah’s real estate market since Governor Herbert
   declared a state of emergency.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2020/The+Stern+Team-+How+Has+Utah's+State+of+Emergency+Declaration+Affected+Home+Sales_+(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,8 @@ youtube_code: dn4Qax1fsyY
 
 {% include youtube.html %}
 
-<center><em>Today we want to talk about Utah’s real estate market since Governor Herbert declared a state of emergency.</em></center>
+<center><em>Today we want to talk about Utah&rsquo;s real estate market since Governor Herbert declared a state of emergency.</em></center>
+
 &nbsp;
 
 We are focused on keeping you informed during this shifting real estate market so you have all the knowledge to make good decisions when it comes to your own home selling, buying, and investing goals. Today we want to talk about Utah’s real estate market since Governor Herbert declared a State of Emergency in March.
