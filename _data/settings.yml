@@ -5,6 +5,14 @@ show_custom_links: true
 custom_links:
   - title: Willie's New Book!
     url: https://ultimatereferralagent.leadpages.co/new-book-landing-page/
+  - title: Join Our Team
+    url: /join-our-team/
+  - title: Events
+    url: #
+  - title: Free Strategy Call
+    url: /strategy-call
+  - title: Free Newsletter
+    url: /subscribe
 
 emma:
   lightbox:

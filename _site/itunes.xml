@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Capital Region Real Estate Podcast with Willie Miranda</title>
-    <link>http://www.williemirandacoachingblog.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.williemirandacoachingblog.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Ultimate Referral Agent - your professional Capital Region Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Willie Miranda</managingEditor>
-    <lastBuildDate>2018-03-19 14:33:31 -0500</lastBuildDate>
+    <lastBuildDate>2020-05-05 16:43:32 -0500</lastBuildDate>
     <media:copyright>Willie Miranda</media:copyright>
-    <media:thumbnail url="http://www.williemirandacoachingblog.com/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Capital Region, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Willie Miranda</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.williemirandacoachingblog.com/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Capital Region, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Capital Region Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Ultimate Referral Agent - your professional Capital Region Real Estate Agents.</itunes:summary>
@@ -26,15 +26,12 @@
     
       <item>
         <title>I Broke My Rule</title>
-        <link>http://www.williemirandacoachingblog.com/i-broke-my-big-rule.html</link>
-        
-          <category>Expert Advice</category>
+        <link>http://localhost:4000/i-broke-my-rule.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2018-03-14 13:05:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520I%2520broke%2520my%2520big%2520rule.mp4</guid>
         <description>
-
 I broke one of my cardinal rules over the weekend. Here’s where I messed up.
 
 
@@ -56,18 +53,16 @@ You never want to present to just one decision maker. Whoever is going to assist
 
 If you have any questions for me about your career or the real estate business in general, give me a call or send me an email. I would love to hear from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520I%2520broke%2520my%2520big%2520rule.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520I%2520broke%2520my%2520big%2520rule.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I broke one of my cardinal rules over the weekend. Here’s where I messed up.
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 I broke one of my cardinal rules over the weekend. Here’s where I messed up.
 
 </itunes:summary>
@@ -76,15 +71,12 @@ I broke one of my cardinal rules over the weekend. Here’s where I messed up.
       
       <item>
         <title>Why Real Estate Agents Should Use Video</title>
-        <link>http://www.williemirandacoachingblog.com/the-importance-of-video.html</link>
-        
-          <category>Expert Advice</category>
+        <link>http://localhost:4000/why-real-estate-agents-should-use-video.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2018-02-26 12:08:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520The%2520importance%2520of%2520video.mp4</guid>
         <description>
-
 Why is video so important when it comes to engaging with your real estate clients? I’ll explain today.
 
 
@@ -112,18 +104,16 @@ There are many ways to do video, but the point is to get started now! You can ev
 
 Please don’t hesitate to reach out to me with any questions you may have. I would be happy to help you! Please call/text me at 518-376-1073 or email me at wmiranda@mrgteam.com.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520The%2520importance%2520of%2520video.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520The%2520importance%2520of%2520video.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Why is video so important when it comes to engaging with your real estate clients? I’ll explain today.
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 Why is video so important when it comes to engaging with your real estate clients? I’ll explain today.
 
 </itunes:summary>
@@ -132,15 +122,12 @@ Why is video so important when it comes to engaging with your real estate client
       
       <item>
         <title>A Webinar to Help You Achieve Your Goals in 2018</title>
-        <link>http://www.williemirandacoachingblog.com/learn-how-to-execute-your-goals.html</link>
-        
-          <category>Goals</category>
+        <link>http://localhost:4000/a-webinar-to-help-you-achieve-your-goals-in-2018.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2018-01-29 15:21:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Learn%2520how%2520to%2520execute%2520your%2520goals.mp4</guid>
         <description>
-
 Join author Paul Cummings and I in my latest webinar where we discuss how to plan and execute all of your goals in 2018.
 
 
@@ -164,18 +151,16 @@ What are you going to do differently this year? If you keep doing the same thing
 
 If you have any questions about this webinar, how to set goals, or you have any other real estate needs, don’t hesitate to reach out to me. I’d be glad to help you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Learn%2520how%2520to%2520execute%2520your%2520goals.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Learn%2520how%2520to%2520execute%2520your%2520goals.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 Join author Paul Cummings and I in my latest webinar where we discuss how to plan and execute all of your goals in 2018.
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 Join author Paul Cummings and I in my latest webinar where we discuss how to plan and execute all of your goals in 2018.
 
 </itunes:summary>
@@ -184,15 +169,12 @@ Join author Paul Cummings and I in my latest webinar where we discuss how to pla
       
       <item>
         <title>Broken Windows, Broken Business: A Book to Improve Your Customer Service</title>
-        <link>http://www.williemirandacoachingblog.com/books-to-improve-your-business.html</link>
-        
-          <category>Books</category>
+        <link>http://localhost:4000/broken-windows-broken-business-a-book-to-improve-your-customer-service.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2018-01-22 12:27:00 -0600</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Books%2520to%2520improve%2520your%2520business.mp4</guid>
         <description>
-
 I recently picked up a great book called “Broken Windows, Broken Business”. It helped me improve my business practices, and it can help you, too.
 
 
@@ -218,23 +200,20 @@ The author gave a few ways that you can use to find what broken windows your bus
 
 2. Call the office directly to see how long it takes for them to answer. What’s the agent’s tone like? It works a lot like curb appeal for a home; if you come to a home with garbage all over the place, it tends to push people away. Customer service, similarly, needs to be good from the first encounter in order to keep clients coming back.
 
-3. Walk-ins. Have someone physically come into the business and see how they’re treated from beginning to end.
-In the end, you need a way to determine what you’re doing wrong, what you’re doing well, as well as if you’re hiring the right people to give the level of service you can be proud of. I know that I’ll be going back to talk to my staff about our broken windows, and it might be a good idea for you to do the same.
+3. Walk-ins. Have someone physically come into the business and see how they’re treated from beginning to end.In the end, you need a way to determine what you’re doing wrong, what you’re doing well, as well as if you’re hiring the right people to give the level of service you can be proud of. I know that I’ll be going back to talk to my staff about our broken windows, and it might be a good idea for you to do the same.
 
 If you have any questions for me about books for business owners, or about real estate in general, feel free to reach out to me. I’d be glad to talk with you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Books%2520to%2520improve%2520your%2520business.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Books%2520to%2520improve%2520your%2520business.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 I recently picked up a great book called “Broken Windows, Broken Business”. It helped me improve my business practices, and it can help you, too.
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 I recently picked up a great book called “Broken Windows, Broken Business”. It helped me improve my business practices, and it can help you, too.
 
 </itunes:summary>
@@ -243,15 +222,12 @@ I recently picked up a great book called “Broken Windows, Broken Business”. 
       
       <item>
         <title>How Can You Sort Your Database?</title>
-        <link>http://www.williemirandacoachingblog.com/capital-district-real-estate-how-to.html</link>
-        
-          <category>Real Estate Coaching</category>
+        <link>http://localhost:4000/how-can-you-sort-your-database.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2017-05-02 15:17:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520How%2520to%2520effectively%2520sort%2520your%2520database.mp4</guid>
         <description>
-
 How should you sort your database? We use five distinct tags.
 
 
@@ -273,18 +249,16 @@ Finally, the last category is the ‘D prospects,’ or people you just don’t 
 
 If you have any questions about sorting your database or you’d like a copy of how we break down our categories, don’t hesitate to give me a call or send me an email. I’d be glad to help.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520How%2520to%2520effectively%2520sort%2520your%2520database.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520How%2520to%2520effectively%2520sort%2520your%2520database.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 How should you sort your database? We use five distinct tags.
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 How should you sort your database? We use five distinct tags.
 
 </itunes:summary>
@@ -293,15 +267,12 @@ How should you sort your database? We use five distinct tags.
       
       <item>
         <title>What Farming Strategies Work Best for Us?</title>
-        <link>http://www.williemirandacoachingblog.com/capital-district-real-estate-farming.html</link>
-        
-          <category>Real Estate Coaching</category>
+        <link>http://localhost:4000/what-farming-strategies-work-best-for-us.html</link>
         
         <author>Willie Miranda</author>
         <pubDate>2017-03-15 17:00:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Farming%2520tips%2520for%2520agents.mp4</guid>
         <description>
-
 How can you get more business in the neighborhoods you are targeting? Don’t be afraid of snail mail!
 
 
@@ -325,18 +296,16 @@ Finally, “just listed” and “just sold” postcards are alway a smart idea.
 
 These are just a few of the ways you can up your marketing in geographical farms to attract more buyers and sellers. If you have any questions for us, don’t hesitate to give me a call or send me an email. I would love to hear from you.
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.williemirandacoachingblog.com" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Farming%2520tips%2520for%2520agents.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Willie+Miranda/Willie+Coaching/Capital%2520District%2520Real%2520Estate-%2520Farming%2520tips%2520for%2520agents.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
 How can you get more business in the neighborhoods you are targeting? Don’t be afraid of snail mail!
 
 </itunes:subtitle>
         <itunes:author>Willie Miranda</itunes:author>
         <itunes:summary>
-
 How can you get more business in the neighborhoods you are targeting? Don’t be afraid of snail mail!
 
 </itunes:summary>
