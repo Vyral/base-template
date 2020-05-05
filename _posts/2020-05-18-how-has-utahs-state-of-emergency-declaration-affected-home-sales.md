@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has Utah's State of Emergency Declaration Affected Home Sales
-date: 2020-05-04 16:36:00
+date: 2020-05-18 16:36:00
 tags:
 excerpt: >-
   Today we want to talk about Utah’s real estate market since Governor Herbert
