@@ -1,10 +1,11 @@
 ---
 layout: post
 title: What’s Happening in the Wasatch Market during COVID-19?
-date: 2020-05-05 14:31:06
+date: 2020-05-05 14:31:00
 tags:
 excerpt: What’s happening in our market amid COVID-19?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2020/The+Stern+Team-+Wasatch+Front+Real+Estate+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
