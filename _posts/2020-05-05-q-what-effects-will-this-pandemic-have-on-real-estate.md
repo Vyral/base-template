@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Effects Will This Pandemic Have on Real Estate?'
-date: 2020-05-05 16:35:01
+date: 2020-05-05 16:35:00
 tags:
   - Market Update
 excerpt: >-
@@ -20,6 +20,6 @@ youtube_code: lQQTBzsQc88
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.</em></p>
+*Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.*
 
-We’ve had a great year so far and we hope you have too. During this pandemic, it has been so complicated to do business in all sectors of the economy, but especially in real estate. The good news is that real estate and property management have been deemed essential businesses and we’re working our hardest to ensure that we keep moving forward and keep doing business. There are going to be some effects on the real estate market, but we may not know what those effects are for the next six months or so. To learn more about how I think COVID-19 might affect the real estate market, watch the short video above.
+We've actually had a good year so far and we hope you have too. During this pandemic, it has been so complicated to do business in all sectors of the economy, but especially in real estate. The good news is that real estate and property management have been deemed essential businesses and we’re working our hardest to ensure that we keep moving forward and doing business. There are going to be some effects on the real estate market, but we may not know what those effects are for the next six months or so. To learn more about how I think COVID-19 might affect the real estate market, watch the short video above.
