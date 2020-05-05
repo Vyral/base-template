@@ -17,7 +17,7 @@ youtube_code: 94QG6Jyw2CA
 
 {% include youtube.html %}
 
-<center><em>We’re not being overly optimistic when we say a crash isn’t imminent.</em></center>
+<center><em>We&rsquo;re not being overly optimistic when we say a crash isn&rsquo;t imminent.</em></center>
 
 <br>So many people expect that the housing market will fail as a consequence of what’s been going on with COVID-19 and its effect on the economy. Though some of us still bear the scars of 2008, there’s no reason to believe this new crisis will drag real estate down that same dark path again.
 
