@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Financing During a Divorce
-date: 2020-05-04 21:04:39
+date: 2020-05-04 21:04:00
 tags:
   - Real Estate
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/divorce-youtube.jpg
-youtube_code: 3t-WL_9gCto
+youtube_code: WSluyG0uKE8
 ---
 
 {% include youtube.html %}
