@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prep for Coming Real Estate Activity
-date: 2020-05-04 15:43:55
+date: 2020-05-04 15:43:00
 tags:
 excerpt: >-
   When the pandemic is over, there will be a surge of real estate activity. I’m
@@ -17,7 +17,7 @@ youtube_code: jpaKDJpYkFY
 
 {% include youtube.html %}
 
-<center>How to Prep for Coming Real Estate Activity</center>
+<center>Here's how to prep for coming real estate activity.</center>
 
 &nbsp;
 
