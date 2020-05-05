@@ -19,7 +19,7 @@ youtube_code: IRmSSnUtuBc
 
 {% include youtube.html %}
 
-Here’s everything you need to know about buying a property in a spring market affected by COVID-19.
+<p style="text-align: center;"><em>Here’s everything you need to know about buying a property in a spring market affected by COVID-19.</em></p>
 
 Since real estate is considered an essential business here in Los Angeles County, there are still plenty of ways to view a property. We make sure we create 3D virtual tours for our listings so that buyers online can better understand features and layouts before moving forward with an in-person viewing, which requires extra safety precautions.&nbsp;
 
