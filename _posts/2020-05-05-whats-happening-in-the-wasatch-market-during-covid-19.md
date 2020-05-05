@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What’s Happening in the Wasatch Market during COVID-19?
+title: What’s Happening in the Wasatch Market During COVID-19?
 date: 2020-05-05 14:31:00
 tags:
 excerpt: What’s happening in our market amid COVID-19?
