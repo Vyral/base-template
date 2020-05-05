@@ -23,9 +23,9 @@ youtube_code: JQYUShJq1Wc
 
 We often ask agents who aren’t on our team, “Why do you think the agents on the Dan Jones Team succeed?” Many times, they respond by suggesting that we have something they don’t have.
 
-The real reasons for our team’s success, however, are the **structure, accountability, leads, guidance coaching, and support** that allows our agents to focus on prospecting, showing houses, and writing offers.
+The real reasons for our team’s success, however, are the **structure, accountability, leads, guidance coaching, and support** that allow our agents to focus on prospecting, showing houses, and writing offers.
 
-Some of the things that allow us to stand out are that we do a ton of training, prospecting, and outbound marketing to get inbound phone calls. We work with warmer leads and get hundreds of opportunities every month.
+We do a ton of training, prospecting, and outbound marketing to get inbound phone calls. We work with warmer leads and get hundreds of opportunities every month.
 
 {% include pullquote.html %}
 
