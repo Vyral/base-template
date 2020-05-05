@@ -21,6 +21,8 @@ youtube_code: WSluyG0uKE8
 
 {% include youtube.html %}
 
+Navigating finances during a divorce can be difficult; so here are a few things to know in case you're ever in that situation:
+
 In Florida, if one spouse obtains the rights to the home via a divorce decree, they are required to pay all the fees associated—taxes, insurance, any applicable HOA fees, etc.—and there is no liability against the other spouse, even if it still appears on the credit report.&nbsp;
 
 However, if you’re trying to finance a house before the divorce has been finalized, **your spouse will have full ownership interest in that home.** They don’t have to be on the note or the mortgage, but until that divorce is final and a quitclaim deed can be signed, they’ll have full ownership interest in it—even if you’re divorcing amicably.
@@ -31,4 +33,4 @@ A lot of people believe that one spouse is going to have to refinance before the
 
 **Alimony and child support are considered acceptable sources of qualifying income.** The requirements from Fannie Mae and Freddie Mac say that these support payments need to be received on time for a full six months before they can be used as qualifying income. However, exceptions can sometimes be made.
 
-I’m sure that this brief discussion of a complex topic has brought up many more questions about how to navigate financing while divorcing, so don’t hesitate to reach out to us. We’ll be here to answer any of your questions for you.
+I’m sure that this brief discussion of a complex topic has brought up many more questions about how to navigate financing while divorcing, so don’t hesitate to reach out to us. We’ll be here to answer any questions for you.
