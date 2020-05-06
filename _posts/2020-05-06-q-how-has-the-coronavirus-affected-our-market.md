@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Has the Coronavirus Affected Our Market?'
-date: 2020-05-06 14:39:49
+date: 2020-05-06 14:39:00
 tags:
 excerpt: >-
   Real estate has been deemed non-essential in our county, but we can still help
@@ -25,7 +25,7 @@ Here in Mecklenburg County, real estate has been deemed non-essential, which mea
 
 {% include pullquote.html %}
 
-That being said, my team and I have put a lot in place so we can work virtually and protect buyers, sellers, and ourselves. To get an exclusive rundown of what our team is doing to keep you safe, follow this link to our website. We’re still functioning at a high level, and we have the ability to take care of any buyer or seller needs virtually while maintaining the very best health and safety guidelines.&nbsp;
+That being said, my team and I have put a lot in place so we can work virtually and protect buyers, sellers, and ourselves. To get an exclusive rundown of what our team is doing to keep you safe, follow **[this link](https://thewhitegroup.com/safety){: target="_blank"}** to our website. We’re still functioning at a high level, and we have the ability to take care of any buyer or seller needs virtually while maintaining the very best health and safety guidelines.&nbsp;
 
 The state government may not consider us essential, but buyers still need to buy, and sellers still need to sell. Life is still happening out there, and people need to move. For example, my wife and I were in the process of building a house before the pandemic hit, and we still have one house to sell and another to finish. Many people are undoubtedly facing similar situations.&nbsp;
 
