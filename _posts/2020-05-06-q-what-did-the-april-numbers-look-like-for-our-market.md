@@ -19,7 +19,7 @@ youtube_code: _un9uPRYhCA
 
 {% include youtube.html %}
 
-As we head into May, our real estate market is starting to pick back up. Here are the latest numbers.
+<p style="text-align: center;"><em>As we head into May, our real estate market is starting to pick back up. Here are the latest numbers.</em></p>
 
 The April numbers are in for our real estate market, so we’re taking a look at them today. Compared to last year, listings are down 21%, pending sales are down 22%, and listings under contract are down 23.7%.
 
