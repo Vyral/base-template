@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You as an Agent Should Be Doing Right Now
-date: 2020-05-06 19:31:31
+date: 2020-05-06 19:31:00
 tags:
 excerpt:
 enclosure: >-
@@ -15,5 +15,3 @@ youtube_code: y_TmijIT6pU
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
