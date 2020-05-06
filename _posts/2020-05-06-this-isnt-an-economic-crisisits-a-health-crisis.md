@@ -22,8 +22,8 @@ youtube_code: xlhnflgME2E
 
 {% include youtube.html %}
 
-*Today I brought on one of my buyer’s agents and a transaction manager to talk about why the current Kauai real estate market is different from the one we saw during the Great Recession.*
-
+<center><em>Today I brought on one of my buyer’s agents and a transaction manager to talk about why the current Kauai real estate market is different from the one we saw during the Great Recession.</em></center>
+&nbsp;
 Here are four good reasons why this economic slowdown we’re experiencing does not necessarily equal a housing crisis:
 
 1. **Buyers’ credit is scrutinized more heavily today than in 2008.** It was much easier to get a mortgage during the Great Recession than it is today, which we can see by studying the historic data from the mortgage credit availability index. After the crash, however, lending standards tightened up a lot. In fact, since the pandemic and the resulting volatility in our stock market, the criteria for getting loans have gotten even tougher. When buyers are qualified for loans today, that means they’re serious, capable buyers.
