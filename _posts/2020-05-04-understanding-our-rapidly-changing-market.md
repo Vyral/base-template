@@ -30,7 +30,7 @@ On the other hand, we have clients in the military who are in the middle of relo
 
 {% include pullquote.html %}
 
-Everyone is in flux right now, and **one person’s situation looks vastly different than the next.** If you’re just looking for accurate, up-to-date information on what’s going on in the market, please contact your agent or call us here at the office. We’d be happy to arrange a one-on-one Zoom call and explain what we’re seeing in your area and what you can expect as a seller or a buyer.&nbsp;
+Everything is in flux right now, and **one person’s situation looks vastly different than the next.** If you’re just looking for accurate, up-to-date information on what’s going on in the market, please contact your agent or call us here at the office. We’d be happy to arrange a one-on-one Zoom call and explain what we’re seeing in your area and what you can expect as a seller or a buyer.&nbsp;
 
 Overall, there’s a shortage of inventory, and multiple-offer scenarios are still common. In some of the low inventory areas across our market, our agents are seeing some properties sell within a matter of hours. Others are selling in just a few days, while homes in higher price points are lingering around much longer.&nbsp;
 
