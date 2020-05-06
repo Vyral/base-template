@@ -17,4 +17,6 @@ youtube_code: q4thtyx6Ies
 
 {% include youtube.html %}
 
-If you can’t wait to make a move, we understand and are here to help. We’re changing the way people in the Calgary area buy houses. **Our <u><a target="_blank" href="https://calgaryvideoblog.com/virtual-insiders-program">Virtual Insiders Program</a></u> can keep you safe during this health crisis while also allowing you to see homes like never before**. Buying a home should be an exciting and enjoyable time, but it can be nerve-wracking and more stressful than ever if you don’t do it properly.
+<center><em>Learn how our Virtual Insiders Program can keep you safe amid COVID-19.</em></center>
+
+<br>If you can’t wait to make a move, we understand and are here to help. We’re changing the way people in the Calgary area buy houses. **Our <u><a target="_blank" href="https://calgaryvideoblog.com/virtual-insiders-program">Virtual Insiders Program</a></u> can keep you safe during this health crisis while also allowing you to see homes like never before**. Buying a home should be an exciting and enjoyable time, but it can be nerve-wracking and more stressful than ever if you don’t do it properly.
