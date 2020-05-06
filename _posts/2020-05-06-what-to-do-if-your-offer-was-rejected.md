@@ -17,7 +17,7 @@ youtube_code: HvvmPSeyP8g
 
 {% include youtube.html %}
 
-Don’t fret: Here’s what to do if your offer on a home was rejected.
+<p style="text-align: center;"><em>Don’t fret: Here’s what to do if your offer on a home was rejected.</em></p>
 
 Sometimes when you make an offer on a home, the seller won’t give you a counteroffer, your offer will be rejected instead. There are a few reasons why this may have happened, but **in most cases, the offer was likely too low.** In the market we’re in now, houses are selling at 98% or higher of their list prices.&nbsp;
 
