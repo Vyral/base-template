@@ -27,6 +27,6 @@ Gone are the days of bringing your entire family into a home showing—**only th
 
 {% include pullquote.html %}
 
-Ultimately, homes are still selling, and rather quickly at that. **We just had a listing in Sylmar receive seven offers and sell for $30,000 above list price;** it only took a couple of days to get it into escrow. With rates dropping, buyers are taking advantage of the situation. Yes, plenty has changed, but supply and demand haven’t. Because there’s a 65% to 70% reduction in our showings, buyers can enjoy significantly reduced competition on the market.&nbsp;
+Ultimately, homes are still selling, and rather quickly at that. **We just had a listing in Sylmar receive seven offers and sell for $30,000 above list price;** it only took a couple of days to get it into escrow. With rates dropping, buyers are taking advantage of the situation. Yes, plenty has changed, but supply and demand haven’t. Since there’s a 65% to 70% reduction in our showings, buyers can enjoy significantly reduced competition on the market.&nbsp;
 
-If you have any questions about real estate, or you’re interested in buying or selling but don’t know where to start, reach out by phone or email. I look forward to hearing from you.
+If you have any questions about real estate or you’re interested in buying or selling but don’t know where to start, reach out by phone or email. I look forward to hearing from you.
