@@ -45,12 +45,8 @@ homes during this chaos!
 <figure>
   <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1081+N.+50+E..jpg" width="30%">
   <figcaption>1081 N. 50 E.</figcaption>
-</figure>
-<figure>
   <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1941+N.+1910+W..JPG" width="30%">
   <figcaption>1941 N. 1910 W.</figcaption>
-</figure>
-<figure>
   <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/2317+S.+2350+E..jpg" width="30%">
   <figcaption>2317 S. 2350 E.</figcaption>
 </figure>
