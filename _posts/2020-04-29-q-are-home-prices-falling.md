@@ -42,7 +42,7 @@ Home prices are not currently falling in Washington County, primarily because we
 We just managed a multiple offer ‘bidding war’ on each of these 3
 homes during this chaos!
 
-<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1081+N.+50+E..jpg" width="30%"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1941+N.+1910+W..JPG" width="30%"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/2317+S.+2350+E..jpg" width="30%"><label><div style="text-align: left;">1081 N. 50 E.</div><div style="text-align: center;">1941 N. 1910 W.</div><div style="text-align: right;">2317 S. 2350 E.</div></label>
+<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1081+N.+50+E..jpg" width="30%"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1941+N.+1910+W..JPG" width="30%"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/2317+S.+2350+E..jpg" width="30%"><label>1081 N. 50 E.            1941 N. 1910 W.           2317 S. 2350 E.</label>
 
 Loads of home sellers are sitting on the fence “waiting out” COVID-19 which is only exacerbating the inventory issue, if not actually increasing prices in some areas!
 
