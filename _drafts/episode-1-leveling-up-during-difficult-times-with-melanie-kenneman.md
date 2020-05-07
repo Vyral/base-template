@@ -18,7 +18,7 @@ youtube_code:
 
 {% include pullquote.html %}
 
-In our first episode of Level Up with Rosie Hayer, we face the crisis head-on and start the COVID-19 conversation. Here, we have Melanie Kenneman, the team leader in the KW Austin SW Market Center, sharing her perspective about what makes an industry thrive during a crisis.
+In our first episode of Level Up with Rosie Hayer, we face the crisis head-on and start the COVID-19 conversation. Here, we have Melanie Kennemann, the team leader in the KW Austin SW Market Center, sharing her perspective about what makes an industry thrive during a crisis.
 
 <br>**Stepping up**
 
