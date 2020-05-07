@@ -9,7 +9,7 @@ excerpt: >-
   you need to know about that.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Are+St.+George+Home+Prices+Falling_.mp4
-pullquote: A recession does not equal a housing crisis.
+pullquote: Home prices have actually appreciated during three out of the last five recessions.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,14 +23,44 @@ youtube_code: R1sZpVq8wOo
 
 Are St. George and Southern Utah home prices falling due to the pandemic?&nbsp;
 
-Clearly, I’m working from home (as many others are), so I’m dressed comfortably for this video. We’re essentially running our entire business virtually right now. **People are concerned that home prices are decreasing,** and it makes sense; cities are shut down, people are losing jobs, 300,000 people are out of work in Las Vegas alone.&nbsp;
+Clearly, I’ve spent some time working from home (as many others have)…do the cap and flannel give it away? 😊  
 
-However, a recession does not equal a housing crisis. Home prices have actually appreciated during three out of the last five recessions&#151;in 2001 values increased by 6.6%\! The difference is that we had a housing collapse in the United States in 2008; home values decreased by 19.7%.&nbsp;
+**PERHAPS THE MOST IMPORTANT PART OF THIS VIDEO?** <u>The fact that it was actually shot in MARCH.</u> The forecast has proven to be accurate so far!
 
-Home prices are not currently falling in Washington County, primarily because we have an amazingly low supply of housing. In Washington County, during the crash of 2008 there were a colossal 8.5 months of inventory, and today we only have 3.5 months’ worth. Your home value may decrease eventually; generally, it takes eight to 12 months after a recession for home prices to be affected.
+**People are concerned that home prices are decreasing,** and it makes sense; cities are shut down, people are losing jobs. Over 300 thousand people are out of work in Las Vegas alone. 
+
+The only logical conclusion about the home prices is that they would FALL…but not so fast! Because they haven’t. 
+
+A “recession” does not equal a housing crisis, as we discussed in <a href="https://www.youtube.com/watch?v=Ol-aP8YyIcA&feature=youtu.be" target="_blank">this video.</a>
 
 {% include pullquote.html %}
 
-**We’re not in a housing or economic collapse;** the economy has been damaged because we’re undergoing lockdown. Hopefully, as soon as the pandemic is over, our economy will begin to recover.&nbsp;
+In 2001 values increased by 6.6% during a recession. The difference is that we had a housing crisis in the United States in 2008, not a health crisis that of course is affecting most industries. 
 
-If you have questions about your house or its value, please reach out and schedule a time to meet with a member of our team virtually. We would love to help you. We’re wishing you a safe 2020\!
+Home prices are not currently falling in Washington County, primarily because we have an amazingly low supply of housing.
+
+Loads of home sellers are sitting on the fence “waiting out” COVID-19 which is only exacerbating the inventory issue, if not actually increasing prices in some areas!
+
+In Washington County, during the crash of 2008 there was a colossal 8+ months of inventory across the county, and nearly 3 years in the ultra-high-end luxury market!
+
+Today we only have 3.5 months’ worth. Your home value may decrease eventually; generally, it takes eight to 12 months after a recession for home prices to be affected. But today they’re holdin’ strong. 
+
+One *exception is the nightly/weekly rental market which has been terrorized by cancelled bookings, but that’s a topic for another video. 
+
+As a matter of fact, I’m personally predicting that this pandemic could *strengthen* the real estate market as folks from big cities finally say “check please!” and flee their overpopulated urban prisons.
+
+You may have seen the video I sent out on this topic on April 17th. You can “encore” it <a href="https://www.youtube.com/watch?v=gB4w1Yo-ERw" target="_blank">here.</a>
+
+Some folks thought I was crazy. Then <a href="https://www.usatoday.com/story/money/2020/05/01/coronavirus-americans-flee-cities-suburbs/3045025001/" target="_blank">USA TODAY</a> released the piece below on May 1st….I win 😊.  
+
+<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/USA+Today.png" max-width="100%">
+
+**We’re not in a housing or economic collapse,** but the economy has been most certainly been damaged because been through a lockdown. 
+
+I believe St. George will come out of this better and more beautiful than ever! #stgeorgestrong 
+
+If you have questions about your house or its value, grab 30 minutes to “ask me anything” right <a href="http://www.soldinstgeorge.com/virtual/" target="_blank">here.</a> A great way to dispel some anxiety about your next housing move, even if it’s 6-12 months from now, is to game plan it now, totally obligation-free. 
+
+We're wishing you a safe 2020\!
+
+-Jeremy & The Larkin Group
