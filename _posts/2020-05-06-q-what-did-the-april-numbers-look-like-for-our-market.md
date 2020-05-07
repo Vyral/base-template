@@ -23,4 +23,4 @@ youtube_code: _un9uPRYhCA
 
 The April numbers are in for our real estate market, so we’re taking a look at them today. Compared to last year, listings are down 21%, pending sales are down 22%, and listings under contract are down 23.7%.
 
-Basically, the pandemic has slowed down the activity in our market, but things have been starting to pick back up in the last few weeks. Our closings per month that sold over listing price in April was at an all-time high. To learn more about what’s going on, watch this short video.
+The pandemic has slowed down the activity in our market, but things have been starting to pick back up in the last few weeks. Our closings per month that sold over listing price in April was at an all-time high. To learn more about what’s going on, watch this short video.
