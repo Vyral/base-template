@@ -4,7 +4,7 @@ description: 'Our mission at -- CLIENT BRAND -- is to be your best resource for 
 show_custom_links: true
 custom_links:
   - title: Virtual Tours
-    url: /virtual-tours/
+    url: https://www.youtube.com/playlist?list=PL2X7DeyK4UH2N5uPFcaGJORX4HoSL2aow
 
 client:
   name: Mikki Ramey
