@@ -4,19 +4,21 @@ title: 'Episode #1: Leveling Up During Difficult Times with Melanie Kenneman'
 date: 2020-05-08 19:00:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  In our first episode of Level Up with Rosie Hayer, we face the crisis head-on
+  and start the COVID-19 conversation. Here, we have Melanie Kennemann, the team
+  leader in the KW Austin SW Market Center, sharing her perspective about what
+  makes an industry thrive during a crisis.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/youtube-thumbnail---melanie-kenneman-1.png
 youtube_code: 5itLCRrbXEQ
 ---
 
 {% include youtube.html %}
-
-{% include pullquote.html %}
 
 In our first episode of Level Up with Rosie Hayer, we face the crisis head-on and start the COVID-19 conversation. Here, we have Melanie Kennemann, the team leader in the KW Austin SW Market Center, sharing her perspective about what makes an industry thrive during a crisis.
 
