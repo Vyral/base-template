@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Why Aren't Home Prices Falling?'
+title: Are Home Prices Falling?
 date: 2020-04-29 19:40:30
 tags:
   - Market Update
