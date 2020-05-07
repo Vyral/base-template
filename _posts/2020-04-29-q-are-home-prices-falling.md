@@ -74,7 +74,7 @@ You may have seen the video I sent out on this topic on April 17th. You can “e
 
 Some folks thought I was crazy. Then <a href="https://www.usatoday.com/story/money/2020/05/01/coronavirus-americans-flee-cities-suburbs/3045025001/" target="_blank">USA TODAY</a> released the piece below on May 1st….I win 😊.  
 
-<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/USA+Today.png" max-width="100%">
+<a href="https://www.usatoday.com/story/money/2020/05/01/coronavirus-americans-flee-cities-suburbs/3045025001/" target="_blank"><img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/USA+Today.png" max-width="100%"></a>
 
 **We’re not in a housing or economic collapse,** but the economy has most certainly been damaged because it's been through a lockdown. 
 
