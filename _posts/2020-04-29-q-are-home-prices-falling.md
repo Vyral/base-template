@@ -42,7 +42,7 @@ Home prices are not currently falling in Washington County, primarily because we
 We just managed a multiple offer ‘bidding war’ on each of these 3
 homes during this chaos!
 
-<div class="row">
+<div class="row" style="margin: 4rem 0;">
     <div class="col-sm-4">
         <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1081+N.+50+E..jpg" style="width:90%;">
         <label>1081 N. 50 E.</label>
