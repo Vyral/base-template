@@ -31,7 +31,7 @@ So what happens to the $4,000 you deferred? Well, different things can happen to
 
 **Cons:** You still owe the deferred amount. This is something that people need to consider, especially those who have FHA or VA loans, where you pay your taxes and insurance together with your mortgage. In those cases, your property taxes and insurance aren’t getting paid, and since there’s no law or regulation that states what will happen to that portion of your payment, the county might demand that you pay your property taxes, and your insurance company might do the same. If the government isn’t stepping in for that portion of your payment, you’re still liable. It’s critical that you speak with your lender to see how forbearance would affect your situation.
 
-{% include pullquote %}
+{% include pullquote.html %}
 
 **Pros:** Forbearance will help you get through these challenging times. Plus, there won’t be any late payments for the deferral period. Not to mention that your lender won’t be reporting your forbearance to your credit bureau, which means your credit won’t be penalized.
 
