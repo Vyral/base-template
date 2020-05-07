@@ -1,8 +1,11 @@
 ---
 layout: post
 title: What You Need to Know About Mortgage Forbearance
-date: 2020-05-07 19:30:56
+date: 2020-05-07 19:30:00
 tags:
+  - Finance Advice
+  - Mortgage Minute
+  - Interest Rates
 excerpt: >-
   If you’re having troubles paying your mortgage during the pandemic, don’t seek
   out a forbearance before reading this.
