@@ -23,7 +23,7 @@ youtube_code: mLHa2vMpMOo
 
 <p style="text-align: center;"><em>How did Musser Home Builders become one of the premier construction companies in South Central Pennsylvania? Find out today.</em></p>
 
-<strong><em>This was filmed in early March; we did not violate stay-at-home orders to shoot this video</em></strong>
+<strong><em>This videeo was filmed safely in early March, prior to any stay-at-home mandates.</em></strong>
 
 Musser Home Builders is one of the highest quality home builders in South Central Pennsylvania, and in today’s Brand Ambassador spotlight, I’m interviewing owner Jeff Musser to learn more about this company and retrace his journey as a business leader in our community.&nbsp;
 
