@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/youtube-thumbnail---melanie-kenneman-1.png
-youtube_code:
+youtube_code: 5itLCRrbXEQ
 ---
 
 {% include youtube.html %}
