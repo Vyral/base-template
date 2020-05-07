@@ -21,7 +21,7 @@ youtube_code: cg5Tv0ryfI0
 
 {% include youtube.html %}
 
-*If you’re having troubles paying your mortgage during the pandemic, don’t seek out a forbearance before reading this.*
+<p style="text-align: center;"><em>If you’re having troubles paying your mortgage during the pandemic, don’t seek out a forbearance before reading this.</em></p>
 
 What is a forbearance? **Put simply, a forbearance is an agreement in which your mortgage provider allows you to delay your payments for a certain period—but it’s not the same as mortgage forgiveness.** For example, suppose you’re in the restaurant industry with a $1,000-a-month payment, and you’re just not able to make those payments for the next four months.
 
