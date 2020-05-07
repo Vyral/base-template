@@ -4,13 +4,13 @@ title: What You Need to Know About Mortgage Forbearance
 date:
 tags:
 excerpt:
-enclosure:
+enclosure: If you’re having troubles paying your mortgage during the pandemic, don’t seek out a forbearance before reading this.
 pullquote: A forbearance isn’t a way of saving money—it’s a can of worms.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: cg5Tv0ryfI0
 ---
 
 {% include youtube.html %}
