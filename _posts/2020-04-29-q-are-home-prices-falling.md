@@ -64,6 +64,8 @@ Some folks thought I was crazy. Then <a href="https://www.usatoday.com/story/mon
 
 I believe St. George will come out of this better and more beautiful than ever! #stgeorgestrong 
 
+If you’d like to get a quick look at what your home may be worth visit <a href="http://www.stgeorgehomesearching.com/values" target="_blank">http://www.stgeorgehomesearching.com/values.</a>
+
 If you have questions about your house or its value, grab 30 minutes to “ask me anything” right <a href="http://www.soldinstgeorge.com/virtual/" target="_blank">here.</a> A great way to dispel some anxiety about your next housing move, even if it’s 6-12 months from now, is to game plan it now, totally obligation-free. 
 
 We're wishing you a safe 2020\!
