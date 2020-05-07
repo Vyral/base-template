@@ -49,12 +49,12 @@ homes during this chaos!
     </div>
     
     <div class="col-sm-4">
-        <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/2317+S.+2350+E..jpg" style="width:90%;">
+        <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1941+N.+1910+W..JPG" style="width:90%;">
         <label>1941 N. 1910 W.</label>
     </div>
     
     <div class="col-sm-4">
-        <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/1941+N.+1910+W..JPG" style="width:90%;">
+        <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/2317+S.+2350+E..jpg" style="width:90%;">
         <label>2317 S. 2350 E.</label>
     </div>
 </div>
