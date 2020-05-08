@@ -85,3 +85,7 @@ permalink: /virtual-insiders-program/
 
 
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Wt06zcFuac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Throughout our many years of helping clients in real estate, we’ve met a lot of wonderful people. Some have made testimonies about working with us at Eric Mortimer & Associates, and we’d like to share two of them with you today. All of these clients had a fantastic experience throughout the home selling process, and they each found their homes to be sold both quickly and for top dollar.
