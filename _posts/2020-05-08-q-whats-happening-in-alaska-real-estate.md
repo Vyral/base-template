@@ -17,7 +17,7 @@ youtube_code: LIJrg4tRZc0
 
 {% include youtube.html %}
 
-Here’s a quick look at how our market is responding to the pandemic.
+<p style="text-align: center;"><em>Here’s a quick look at how our market is responding to the pandemic.</em></p>
 
 How has our real estate market been responding to the pandemic? We’ve maybe had fewer showings, but the market is still moving along. Homes are being sold quickly due to our low inventory, and home sellers can take advantage of that fact.
 
