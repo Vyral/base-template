@@ -5,7 +5,8 @@ date: 2020-05-05 00:00:00
 tags:
   - Real Estate
 excerpt: Adam Estavillo and I discuss how COVID-19 has affected local businesses.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/How+Have+Local+Businesses+Been+Affected+by+COVID-19_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
