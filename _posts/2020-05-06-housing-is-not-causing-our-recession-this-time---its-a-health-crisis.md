@@ -22,7 +22,7 @@ youtube_code: xlhnflgME2E
 
 {% include youtube.html %}
 
-<center><em>Today I brought on one of my buyer&rsquo;s agents and a transaction manager to talk about why the current Kauai real estate market is different from the one we saw during the Great Recession.</em></center>
+<center><em>Today I brought on two of my team members to talk about why the Kauai Real Estate is likely to be different than the one in the great recession back in 2008-09.</em></center>
 
 &nbsp; &nbsp;
 
