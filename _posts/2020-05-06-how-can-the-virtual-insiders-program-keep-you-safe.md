@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Learn how our Virtual Insiders Program can keep you safe amid COVID-19.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/How+Can+the+Virtual+Insiders+Program+Keep+You+Safe_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
