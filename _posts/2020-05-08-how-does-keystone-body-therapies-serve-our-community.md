@@ -18,7 +18,7 @@ youtube_code: jjo87huxOIA
 
 {% include youtube.html %}
 
-<center><em>We’re back to highlight another local business that is adapting to this pandemic: Keystone Body Therapies.</em></center>
+<center><em>We&rsquo;re back to highlight another local business that is adapting to this pandemic: Keystone Body Therapies.</em></center>
 
 <br>We’re continuing to highlight local business owners who, like us, are trying to navigate the COVID-19 pandemic from an economic standpoint. Tate Hardcastle is from <u><a target="_blank" href="https://keystonebodytherapies.com/">Keystone Body Therapies</a></u> and joined me recently to talk about how he’s been adapting to the situation.
 
