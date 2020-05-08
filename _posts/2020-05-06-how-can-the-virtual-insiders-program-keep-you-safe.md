@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-06-mortimer-youtube.jpg
-youtube_code: q4thtyx6Ies
+youtube_code: xaGTsjJPLvg
 ---
 
 {% include youtube.html %}
