@@ -87,7 +87,7 @@ permalink: /virtual-insiders-program/
 </div>
 
 <div class="col-md-8 col-md-offset-2">
-  <div style="margin-top:3rem;">
+  <div style="margin-bottom:3rem;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/5Wt06zcFuac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
