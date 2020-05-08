@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: We’re not being overly optimistic when we say a crash isn’t imminent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/The+Relationship+Between+Recessions+and+the+Housing+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
