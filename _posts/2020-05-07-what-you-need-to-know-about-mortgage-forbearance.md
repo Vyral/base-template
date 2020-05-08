@@ -7,7 +7,7 @@ tags:
   - Mortgage Minute
   - Interest Rates
 excerpt: >-
-  If you’re having troubles paying your mortgage during the pandemic, don’t seek
+  If you’re having trouble paying your mortgage during the pandemic, don’t seek
   out a forbearance before reading this.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/What+You+Need+to+Know+About+Mortgage+Forbearance.mp4
@@ -21,11 +21,11 @@ youtube_code: cg5Tv0ryfI0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you’re having troubles paying your mortgage during the pandemic, don’t seek out a forbearance before reading this.</em></p>
+<p style="text-align: center;"><em>If you’re having trouble paying your mortgage during the pandemic, don’t seek out a forbearance before reading this.</em></p>
 
 What is a forbearance? **Put simply, a forbearance is an agreement in which your mortgage provider allows you to delay your payments for a certain period—but it’s not the same as mortgage forgiveness.** For example, suppose you’re in the restaurant industry with a $1,000-a-month payment, and you’re just not able to make those payments for the next four months.
 
-So what happens to the $4,000 you deferred? Well, different things can happen to it: The bank can add it to the back of your loan, meaning your loan period will be extended by four months. You can also get what’s called a ‘silent second, which means that the deferred $4,000 will be kept on the side, and whenever you go to sell or refinance the property, you’ll be expected to pay it.
+So what happens to the $4,000 you deferred? Well, different things can happen to it: The bank can add it to the back of your loan, meaning your loan period will be extended by four months. You can also get what’s called a ‘silent second', which means that the deferred $4,000 will be kept on the side, and whenever you sell or refinance the property, you’ll be expected to pay it.
 
 **Here are some pros and cons of forbearance:**
 
@@ -43,6 +43,6 @@ Mind you, we’re not talking about every single mortgage out there—only the o
 2. Fill them in on your situation and why you cannot make your mortgage payment.&nbsp;
 3. Make sure you get the details of the arrangement in writing.
 
-I do want to reemphasize that forbearance is not equal to forgiveness, and that’s why I recommend that if you still have a job and are able to pay your mortgage, you should. Don’t jump on the bandwagon of forbearance simply because it seems easy in the short term. A forbearance isn’t a way of saving money—it’s a can of worms. That money is non-interest-bearing, so you won’t generate any interest on the money you don’t pay.
+I do want to reemphasize that forbearance is not equal to forgiveness, and that’s why I recommend that if you still have a job and can pay your mortgage, you should. Don’t jump on the bandwagon of forbearance simply because it seems easy in the short term. A forbearance isn’t a way of saving money—it’s a can of worms. That money is non-interest-bearing, so you won’t generate any interest on the money you don’t pay.
 
 If you need help or have any questions, don’t hesitate to reach out to us. We’re here to help you.
