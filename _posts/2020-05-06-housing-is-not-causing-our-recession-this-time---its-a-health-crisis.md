@@ -8,7 +8,7 @@ excerpt: >-
   about why the current Kauai real estate market is different from the one we
   saw during the Great Recession.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Kauai+Real+Estate-+4+Reasons+Were+Not+Going+Through+a+Housing+Crisis.mp4
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Kauai+Real+Estate-+4+Reasons+Were+Not+Going+Through+a+Housing+Crisis+(1).mp4
 pullquote: >-
   With inventory having been in such short supply for so long, and with interest
   rates at historic lows, it’s hard to predict what type of slowdown we may have
