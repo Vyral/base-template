@@ -24,7 +24,6 @@ youtube_code: BV9or4hktEI
 
 &nbsp;
 
-&nbsp;&nbsp;
 
 Today we want to talk about the mortgage market and how COVID is changing the mortgage landscape. JPMorgan Chase just announced that it has stopped accepted HELOC applications as of April 14th, 2020. Of course, they’re calling this a *temporary pause.* In addition to that, JPMorgan Chase is requiring 20% down payment and a 700 FICO on most of its loans.&nbsp;&nbsp;
 
