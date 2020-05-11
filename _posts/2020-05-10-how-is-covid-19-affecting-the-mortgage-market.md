@@ -20,8 +20,8 @@ youtube_code: BV9or4hktEI
 
 {% include youtube.html %}
 
-*Today we want to talk about the mortgage market and how COVID is changing the mortgage landscape*
-
+<center><em>Today we want to talk about the mortgage market and how COVID is changing the mortgage landscape</em></center>
+&nbsp;&nbsp;
 Today we want to talk about the mortgage market and how COVID is changing the mortgage landscape. JPMorgan Chase just announced that it has stopped accepted HELOC applications as of April 14th, 2020. Of course, they’re calling this a *temporary pause.* In addition to that, JPMorgan Chase is requiring 20% down payment and a 700 FICO on most of its loans.&nbsp;&nbsp;
 
 But, not all lenders are doing this.&nbsp; This is just an example of an **institutional reaction to fears that homeowners will stop paying their mortgages.&nbsp; **
