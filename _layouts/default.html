@@ -13,22 +13,24 @@
 				<div class="col-sm-12">
 
 					{% include navigation.html %}
-					{% include contact-modal.html %}
+
 				</div>
 			</div>
 			<div class="row ">
-				<div class="col-sm-12 visible-xs visible-sm sidebar navspace">
+				<div class="col-sm-9 visible-xs visible-sm sidebar navspace">
 					{% include socials.html %}
 					{% include search-box.html %}
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-12 navspace">
+				<div class="col-lg-9 navspace">
 					{{ content }}
 				</div>
 
-			</div>
 
+				<div class="col-lg-3 navspace">
+					{% include podium.html %}
+				</div>
 			</div>
 			{% include pagination.html %}
 			{% include about.html %}

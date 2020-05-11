@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title> Real Estate Podcast with Patrick Fitzgerald</title>
-    <link>http://www.thevaloanguy.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.thevaloanguy.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.</description>
     <language>en</language>
     <managingEditor>Patrick Fitzgerald</managingEditor>
-    <lastBuildDate>2019-06-24 09:30:28 -0500</lastBuildDate>
+    <lastBuildDate>2020-05-11 12:53:23 -0500</lastBuildDate>
     <media:copyright>Patrick Fitzgerald</media:copyright>
-    <media:thumbnail url="http://www.thevaloanguy.com/img/podcast.png"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.png"/>
     <media:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,256 @@
     </itunes:owner>
     <itunes:author>Patrick Fitzgerald</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.thevaloanguy.com/img/podcast.png"/>
+    <itunes:image href="http://localhost:4000/img/podcast.png"/>
     <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
     <itunes:subtitle>Get the answers to the most popular questions for you and to get the necessary tools to make a proper decision on a Home Loan using the Texas Veterans Land Board Program.</itunes:subtitle>
     <itunes:summary>Patrick Fitzgerald, the VA Loan Guy, is located in San Antonio, Texas and is a true “One Stop Lender”. We originate, underwrite, and close all types of loans. We offer Texas Vet, Veterans, FHA, Conventional, Jumbo, Adjustable Rate, and Investment products.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>The Top 5 Ways to Derail a Loan Approval</title>
+        <link>http://localhost:4000/the-top-5-ways-to-derail-a-loan-approval.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2020-02-11 14:15:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2020/The+Top+5+Ways+to+Derail+a+Loan+Approval.mp4</guid>
+        <description>
+
+There are five key ways that you can derail your chances of being approved for a home loan. If you’re serious about purchasing a home, you’ll want to avoid:
+
+1. Taking on new debt. Doing so can change your debt-to-income ratios, which can upset your chances of being approved for a home loan.
+
+2. Buying or leasing a new car. This can become a big hit to your credit report.
+
+3. Letting someone pull your credit. Some files have credit scores that are on the very edge of approval; allowing, for example, a furniture store to pull your credit could be the difference between your approval and rejection.
+
+“Just wait until after your closing and everyone will be happier.”
+
+4. Changing or quitting your job. Changing your job, even if it’s within the same field, may constitute a red flag under many loan guidelines where we need to gather 30 days’ worth of new pay stubs.
+
+5. Buying new furniture and appliances. Even if you take advantage of an offer that has no interest for 18 months, the moment lenders see that you’ve taken on new credit, we have to count the interest in your minimum payments.
+
+Making any of these mistakes during the loan process can amount to potential rejection. Remember this: Mortgage lenders are bound by loan rules to pull a soft credit report on homebuyers either the day before or the day of closing, so don’t fall for the notion that no one will know that you’ve made one of these blunders. If you can’t close your home on time, you might lose your earnest money deposit or even get sued for non-performance on your contract. Just wait until after your closing and everyone will be happier.
+
+If you have any questions, don’t hesitate to reach out to us. We’re always here to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2020/The+Top+5+Ways+to+Derail+a+Loan+Approval.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2020/The+Top+5+Ways+to+Derail+a+Loan+Approval.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the top five ways to derail your home loan approval—avoid them if you want to be successful.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Here are the top five ways to derail your home loan approval—avoid them if you want to be successful.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Conforming Loan Limits</title>
+        <link>http://localhost:4000/conforming-loan-limits.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-12-27 16:27:05 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/Conforming+Loan+Limits.mp4</guid>
+        <description>
+
+The U.S. government just increased conforming loan limits for all loan types. What does this mean for homebuyers? 
+
+Each year the government sets maximum loan amounts for conventional, FHA, and VA loans. The loan limit for conventional and VA loans is now $510,400. In other words, all conventional loans for that amount or less can be secured for a minimum of 5% down. If you go above that amount, your loan turns into a jumbo loan, which requires other additional rules for your down payment. 
+
+“Each year the government sets maximum loan amounts for conventional, FHA, and VA loans.”
+
+VA loans don’t require a down payment for any loan size, but if your VA loan is above the limit, it becomes a VA high balance loan. Some lenders may impose additional guidelines for these types of loans, so check with your lender to see what their rules are. Also, they may price these loans differently—there might be more attention paid to the borrower’s credit score, debt-to-income ratio, etc. 
+
+The rules are slightly different for FHA loans. In this case, the loan limits are set by the county. Here in Bexar County, the loan limit for FHA loans is $393,300. Some county loan limits in Texas will be higher, others will be lower. It’s important to stay up to date on your county’s limit if you plan on purchasing a home with an FHA loan. 
+
+As always, if you have questions about this or any other loan topic, don’t hesitate to give me a call. It doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/Conforming+Loan+Limits.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/Conforming+Loan+Limits.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are new conforming loan limits for conventional, FHA, and VA loans.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>There are new conforming loan limits for conventional, FHA, and VA loans.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Real Value of Having a Will</title>
+        <link>http://localhost:4000/the-real-value-of-having-a-will.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-12-02 12:18:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/The+Real+Value+of+Having+a+Will.mp4</guid>
+        <description>
+
+If you don’t already have a will, it’s time to set one up. Even if you don’t think you need one right now, the truth is that unexpected tragedy can strike at any time.
+
+Take, for example, a past client of mine who recently reached out to inform me of her husband’s passing. When I asked if he had a will, she said no. The widow assumed that all of his assets would become hers automatically, but this isn’t so. Inheritance laws do vary from state to state, but here in Texas, half of a deceased spouse’s assets will be given to their widow, and the other half will be divided equally between their children. This isn’t an unusual arrangement for people with wills to choose, but the point is that not having a will eliminates any agency you would otherwise have over how (and to whom) your belongings are given. 
+
+“The time it takes to set up a will is well worth it.”
+
+Assets distributed without a will are also subject to heavy legal fees, meaning that none of the decedent’s beneficiaries will receive the entirety of what was left behind. Worse still, your estate cannot be passed on without first going through probate court, which is a very lengthy and expensive process. 
+
+All of this can be avoided by simply getting a will. You don’t even need to go to an attorney to create one. All you need is to buy and complete a will kit, and then get it notarized. Of course, going to an attorney is also a good option for those willing to take a few extra steps. Whatever route you choose, it’s all well worth it to protect your assets, your wishes, and your loved ones’ futures. 
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/The+Real+Value+of+Having+a+Will.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/December/The+Real+Value+of+Having+a+Will.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you don’t have a will, it’s time to get one. Let’s discuss why.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you don’t have a will, it’s time to get one. Let’s discuss why.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is a One-Time Close?</title>
+        <link>http://localhost:4000/what-is-a-one-time-close.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-09-12 12:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/What+Is+a+One-Time+Close_.mp4</guid>
+        <description>
+
+A one-time close, or OTC, happens when a homebuyer wants to build a home on land they own, but needs a construction loan in order to fund the build. When the home is finished, then we create the 30-year mortgage to get them on down the road with it.
+
+The one-time close has many benefits. It pays off the land if you owe money on it, it provides funds to the builder to construct the home, and it builds in a 10% variant to accommodate any potential budget shortfalls.
+
+“You won’t have to worry about any closing costs or builder fees.”
+
+Upon completion of the home, the builder is paid and there’s nothing else for you to worry about. No appraisal issues, no closing costs, and no builder fees. 
+
+If rates are better at the construction of the home than when you got the loan, you do have the option to lock in those lower rates instead. If rates go up during that same time frame, you’re protected at your initial rate.
+
+Our company allows this one-time close to be used with VA, FHA, and conventional loans.
+
+If you have any questions about one-time closes or anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/What+Is+a+One-Time+Close_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/What+Is+a+One-Time+Close_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A one-time close makes the home buying and building process much easier. Here’s how.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>A one-time close makes the home buying and building process much easier. Here’s how.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Before You Buy an Investment Property</title>
+        <link>http://localhost:4000/before-you-buy-an-investment-property.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-08-15 14:11:38 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/August/Before+You+Buy+an+Investment+Property.mp4</guid>
+        <description>
+
+So you’ve decided to buy an investment property. What kind of financial regulations should you be aware of before proceeding any further?
+
+First, since I’m known as the “VA loan guy,” let’s get this out of the way: You can’t use a VA loan to purchase an investment property unless you’re purchasing a duplex, triplex, or quadplex and you plan on living in one of the units yourself. 
+
+Investment property loans are always conventional loans, and the current conforming limit (the maximum for an investment property) is $484,350. The mandatory down payment for an investment property is at least 20%, and you can get a slightly better interest rate if you put down more than that. Speaking of interest rates, they’ll always be considerably higher for investment properties.
+
+“The mandatory down payment for an investment property is at least 20%, and you can get a slightly better interest rate if you put down more than that.”
+
+Also, you must have up to six months’ worth of cash reserves (or the equivalent of six monthly mortgage payments) in your bank account after you make your down payment and pay your closing costs. In other words, buying an investment property requires a good deal of cash. The seller can pay a small part of your closing costs when purchasing, but the limit is 2% of the purchase price. 
+
+Can you count the current rents coming in? Absolutely, but only 75% of those rents. The reason why is this accounts for various long-term maintenance and insurance costs you’ll have to pay while owning the property. 
+
+As always, if you have any questions about this or any other subject regarding VA loans, don’t hesitate to reach out to me. It doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/August/Before+You+Buy+an+Investment+Property.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/Videos/2019/August/Before+You+Buy+an+Investment+Property.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Before you buy an investment property, there are certain financial regulations to be aware of.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Before you buy an investment property, there are certain financial regulations to be aware of.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is the VA Eliminating Down Payments?</title>
+        <link>http://localhost:4000/why-is-the-va-eliminating-down-payments.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-07-23 10:20:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+Is+the+VA+Eliminating+Down+Payments_.mp4</guid>
+        <description>
+
+In case you haven’t heard yet, the VA has eliminated down payments on all high-priced homes. 
+
+Right now, the conforming limit on a VA loan in most areas is $484,350. For a home purchase below that price, there is no down payment and no issue. For purchases above that price threshold, VA buyers have to pay 25% of whatever the overage is. For example, a veteran will need a $25,000 down payment on a home purchased for $584,000. 
+
+“This is a cool program we’re excited to learn more about.”
+
+Starting on January 1, however, down payments for homes above that conforming limit threshold will not require any down payment. If a veteran wants to buy a home for $1 million, they’ll be able to without any down payment. This is a cool program that we’re excited to learn more about.
+
+If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email today. It doesn’t cost a penny to talk!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+Is+the+VA+Eliminating+Down+Payments_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+Is+the+VA+Eliminating+Down+Payments_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There’s a big change coming to VA financing. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>There’s a big change coming to VA financing. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why You Can’t Quit Your Job During the Loan Process</title>
+        <link>http://localhost:4000/why-you-cant-quit-your-job-during-the-loan-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2019-07-11 09:36:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+You+Cant+Quit+Your+Job+During+the+Loan+Process.mp4</guid>
+        <description>
+
+If you’re planning on buying a home and going through the loan process, don’t quit your day job. You’d be surprised at how often this happens. Let me tell you a quick story.
+
+I’m doing an FHA loan right now for a wonderful client. We contacted her employer to verify her income, but the employer relayed to us that she no longer worked there. Imagine the panic we had when finding out that information. We found out that she quit her new job, but started a better job with higher pay so she thought it wouldn’t be a big deal.
+
+“We had to delay the contract by about a month.”
+
+It was a big deal, and here’s why. Under FHA and VA loan guidelines, we need to have 30 days’ worth of paystubs at their new job to verify their income. Her contract was supposed to close on July 5, but now we’re going to have to delay it for a month or so. 
+
+It’s causing all kinds of tension with the seller, the buyer, and their Realtors. If she would have contacted us before quitting, we would have advised her to wait about a month until the property closed to start her new job.
+
+If you’re contemplating a job change, even if it’s higher-paying, better job, try to wait until your loan is closed. If you have any questions for me or know anyone in a situation like this, don’t hesitate to reach out and give me a call or send me an email. I’d be happy to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+You+Cant+Quit+Your+Job+During+the+Loan+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/Why+You+Cant+Quit+Your+Job+During+the+Loan+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re planning to buy a home, you shouldn’t quit your day job. This story illustrates why.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you’re planning to buy a home, you shouldn’t quit your day job. This story illustrates why.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
         <title>What to Do When an Appraisal Comes Up Short</title>
-        <link>http://www.thevaloanguy.com/what-to-do-when-an-appraisal-comes-up-short.html</link>
+        <link>http://localhost:4000/what-to-do-when-an-appraisal-comes-up-short.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -50,7 +291,7 @@ Many times, this causes a great big problem. I’ve had this happen three times 
 If you have any questions for me in the meantime about any and everything VA loans, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+to+Do+When+an+Appraisal+Comes+Up+Short.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+to+Do+When+an+Appraisal+Comes+Up+Short.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>An appraisal that comes up short can completely derail a real estate transaction. Here’s how you can avoid it.</itunes:subtitle>
@@ -61,7 +302,7 @@ If you have any questions for me in the meantime about any and everything VA loa
       
       <item>
         <title>USDA Loan Changes Can Now Be Used for Manufactured Homes</title>
-        <link>http://www.thevaloanguy.com/usda-loan-changes-can-now-be-used-for-manufactured-homes.html</link>
+        <link>http://localhost:4000/usda-loan-changes-can-now-be-used-for-manufactured-homes.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -83,7 +324,7 @@ To qualify for the loan in Texas, you must have a credit score of at least 620, 
 If you have any questions or need more information, feel free to reach out to me. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-The+VA+Loan+Guy-+USDA+Loan+Changes+Can+Now+Be+Used+for+Manufactured+Homes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-The+VA+Loan+Guy-+USDA+Loan+Changes+Can+Now+Be+Used+for+Manufactured+Homes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You can now pay zero down for a pre-owned manufactured home. Here’s why.</itunes:subtitle>
@@ -94,7 +335,7 @@ If you have any questions or need more information, feel free to reach out to me
       
       <item>
         <title>Pre-Approval vs. Pre-Qualification</title>
-        <link>http://www.thevaloanguy.com/pre-approval-vs-pre-qualification.html</link>
+        <link>http://localhost:4000/pre-approval-vs-pre-qualification.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -116,7 +357,7 @@ If you’re a buyer in the market and out there making offers, a pre-approval sh
 A pre-approval might take a few days longer, but it can save you a lot of trouble. If you have any questions for me or need more information, don’t forget that it doesn’t cost a penny to talk. I’d love to hear from you. Just give me a call or send me an email today.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Pre-Approval+vs.+Pre-Qualification.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Pre-Approval+vs.+Pre-Qualification.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re deciding between getting pre-qualified or getting pre-approved, the choice is clear. Here’s why.</itunes:subtitle>
@@ -127,7 +368,7 @@ A pre-approval might take a few days longer, but it can save you a lot of troubl
       
       <item>
         <title>5 More FAQs about the VA Home Loan</title>
-        <link>http://www.thevaloanguy.com/5-more-faqs-about-the-va-home-loan.html</link>
+        <link>http://localhost:4000/5-more-faqs-about-the-va-home-loan.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -155,7 +396,7 @@ Following these questions, a good point of advice is to always check with the le
 If you have any questions, please feel free to reach out to me. I’m available seven days a week, and it doesn’t cost a penny to talk.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+5+More+FAQs+about+the+VA+Home+Loan.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+5+More+FAQs+about+the+VA+Home+Loan.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>In today’s second part of our series in which we address the top 10 most frequently asked questions, I’ll address questions six through 10.</itunes:subtitle>
@@ -166,7 +407,7 @@ If you have any questions, please feel free to reach out to me. I’m available 
       
       <item>
         <title>Answering Your Top 10 Questions About VA Loans: Part 1</title>
-        <link>http://www.thevaloanguy.com/answering-your-top-10-questions-about-va-loans-part-1.html</link>
+        <link>http://localhost:4000/answering-your-top-10-questions-about-va-loans-part-1.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -194,7 +435,7 @@ This covers the first five of our most common VA questions. Be on the lookout fo
 If you have any other questions or would like more information, feel free to give us a call or send us an email.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Answering+Your+Top+10+Questions+About+VA+Loans-+Part+1.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Answering+Your+Top+10+Questions+About+VA+Loans-+Part+1.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We get a lot of questions about VA loans, and we’re going to answer some of them today.</itunes:subtitle>
@@ -205,7 +446,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Escrow Holdbacks</title>
-        <link>http://www.thevaloanguy.com/escrow-holdbacks.html</link>
+        <link>http://localhost:4000/escrow-holdbacks.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -229,7 +470,7 @@ Keep in mind that not all mortgage lenders will conduct escrow holdbacks, so be 
 If you have any questions about this process or would like some more information, feel free to give me a call at 210-215-4400. It doesn’t cost a penny to talk!
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Escrow+Holdbacks.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Escrow+Holdbacks.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Escrow holdbacks can pay for any last-minute fixes in your home. Here’s how.</itunes:subtitle>
@@ -240,7 +481,7 @@ If you have any questions about this process or would like some more information
       
       <item>
         <title>Conforming Loan Limit Increases</title>
-        <link>http://www.thevaloanguy.com/conforming-loan-limit-increases.html</link>
+        <link>http://localhost:4000/conforming-loan-limit-increases.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -264,7 +505,7 @@ Conforming limits on FHA loans will increase as well. Here in Texas, the limits 
 If you have any questions or need more information, feel free to contact us. We look forward to hearing from you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Conforming+Loan+Limit+Increases.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Conforming+Loan+Limit+Increases.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s how conforming loan limit increases affect you.</itunes:subtitle>
@@ -275,7 +516,7 @@ If you have any questions or need more information, feel free to contact us. We 
       
       <item>
         <title>1 Critical Step Unmarried Homebuyers Must Take</title>
-        <link>http://www.thevaloanguy.com/1-critical-step-unmarried-homebuyers-must-take.html</link>
+        <link>http://localhost:4000/1-critical-step-unmarried-homebuyers-must-take.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -307,7 +548,7 @@ The bottom line is this: You don’t need to be married to buy a home with your 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+1+Critical+Step+Unmarried+Homebuyers+Must+Take.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+1+Critical+Step+Unmarried+Homebuyers+Must+Take.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Purchasing a home is a major decision, so when unmarried couples choose to take on this responsibility together, they must be prepared for the difficulties that may arise.</itunes:subtitle>
@@ -318,7 +559,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>What You Need to Know Before Buying an Investment Property</title>
-        <link>http://www.thevaloanguy.com/what-you-need-to-know-before-buying-an-investment-property.html</link>
+        <link>http://localhost:4000/what-you-need-to-know-before-buying-an-investment-property.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -348,7 +589,7 @@ The rental market is very strong right now, so I highly encourage anyone able to
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+Before+Buying+an+Investment+Property.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+Before+Buying+an+Investment+Property.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Do you know what it takes to buy an investment property? Let’s review the requirements you’ll need to meet before making such a purchase.</itunes:subtitle>
@@ -359,7 +600,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Can You Freeze Your Own Credit?</title>
-        <link>http://www.thevaloanguy.com/can-you-freeze-your-own-credit.html</link>
+        <link>http://localhost:4000/can-you-freeze-your-own-credit.html</link>
         
           <category>Real Estate</category>
         
@@ -381,7 +622,7 @@ Then, if you want to unfreeze your credit at any time, all you have to do it con
 As always, if you have any questions about this topic or there’s anything else I can assist you with, don’t hesitate to reach out to me. It doesn’t cost a penny to talk, and I’d be happy to speak with you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Freeze+Your+Own+Credit_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Freeze+Your+Own+Credit_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>A new federal law was recently passed that allows you to freeze your credit at any time for free.</itunes:subtitle>
@@ -392,7 +633,7 @@ As always, if you have any questions about this topic or there’s anything else
       
       <item>
         <title>Zero-Down Home Financing for the Rural Homebuyer</title>
-        <link>http://www.thevaloanguy.com/zero-down-home-financing-for-the-rural-homebuyer.html</link>
+        <link>http://localhost:4000/zero-down-home-financing-for-the-rural-homebuyer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -416,7 +657,7 @@ The USDA home loan program is a great product if used properly, and it has helpe
 If you have any questions about it, feel free to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Zero-Down+Home+Financing+for+the+Rural+Homebuyer.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Zero-Down+Home+Financing+for+the+Rural+Homebuyer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re unsure about what a USDA home loan is for or how it works, this overview should give you a clearer idea.</itunes:subtitle>
@@ -427,7 +668,7 @@ If you have any questions about it, feel free to reach out to me. I’d be happy
       
       <item>
         <title>What Credit Repair Companies Do to Fix Your Score</title>
-        <link>http://www.thevaloanguy.com/what-credit-repair-companies-do-to-fix-your-score.html</link>
+        <link>http://localhost:4000/what-credit-repair-companies-do-to-fix-your-score.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -457,7 +698,7 @@ I can always refer you to several credit repair specialists I’ve worked with s
 If you have any questions, please feel free to reach out to me. I look forward to speaking with you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Credit+Repair+Companies+Do+to+Fix+Your+Score.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Credit+Repair+Companies+Do+to+Fix+Your+Score.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Do you know how credit repair companies work? Today I am explaining what they do to fix your score.</itunes:subtitle>
@@ -468,7 +709,7 @@ If you have any questions, please feel free to reach out to me. I look forward t
       
       <item>
         <title>The Importance of Knowing Your Deductible</title>
-        <link>http://www.thevaloanguy.com/the-importance-of-knowing-your-deductible.html</link>
+        <link>http://localhost:4000/the-importance-of-knowing-your-deductible.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -494,7 +735,7 @@ The bottom line is that you’ve got to make sure you know what your insurance p
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+Importance+of+Knowing+Your+Deductible.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+Importance+of+Knowing+Your+Deductible.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Knowing your deductible is incredibly important. So if you aren’t already informed as to what yours is, you need to find out.</itunes:subtitle>
@@ -505,7 +746,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Why Home Warranties Are so Important</title>
-        <link>http://www.thevaloanguy.com/why-home-warranties-are-so-important.html</link>
+        <link>http://localhost:4000/why-home-warranties-are-so-important.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -533,7 +774,7 @@ Between your real estate agent and title company, you will have access to a weal
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Home+Warranties+Are+so+Important.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Home+Warranties+Are+so+Important.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are a number of reasons why having a home warranty policy is so critical for today’s homeowners. Today I would like to highlight just a few.</itunes:subtitle>
@@ -544,7 +785,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>What Homeowner’s Insurance Policy Should You Choose?</title>
-        <link>http://www.thevaloanguy.com/what-homeowners-insurance-policy-should-you-choose.html</link>
+        <link>http://localhost:4000/what-homeowners-insurance-policy-should-you-choose.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -578,12 +819,835 @@ If you want to know more about insurance, you can go to the Office of Public Ins
 If you have any additional questions for me, please feel free to contact me by phone or email. I would be happy to assist in any way that I can.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Homeowners+Insurance+Policy+Should+You+Choose_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://www.thevaloanguy.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+Homeowners+Insurance+Policy+Should+You+Choose_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What homeowner’s insurance policy should you choose? I am here to help you decide.</itunes:subtitle>
         <itunes:author>Patrick Fitzgerald</itunes:author>
         <itunes:summary>What homeowner’s insurance policy should you choose? I am here to help you decide.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>12 Things to Avoid Doing During the Loan Process</title>
+        <link>http://localhost:4000/12-things-to-avoid-doing-during-the-loan-process.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-05-01 13:59:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+12+Things+to+Avoid+Doing+During+the+Loan+Process.mp4</guid>
+        <description>
+
+Here’s a quick rundown of the top 12 things you should not do during the loan process:
+
+1. Quit your job (or change jobs). Why is this important? The day before closing, we have to call your employer to make sure you’re still there. If you quit, retire, or change jobs, that will be known the day before closing.
+
+2. Buy a new car. All mortgage companies have to do a soft credit pull the day of or the day before closing to make sure you haven’t taken on any new debt. If you purchase a new car, that will be revealed during a soft credit pull.
+
+3. Max out your credit card(s). If you max out any credit cards, the minimum payment on your credit report goes up.
+
+4. Let any collections show up on your credit report. Even something as small as a co-pay at the doctor’s office can upset your approval because that collection can cost you 30 to 40 points.
+
+5. Spend the money you set aside for your closing costs. Believe it or not, this does happen.
+
+“Make sure you avoid doing any of these things during the loan process.”
+
+6. Omit any liabilities (childcare costs, private land payments, etc.). Eventually, these will come out, and it’s much better if we know about them up front.
+
+7. Buy any major appliances or furniture a day or two before closing. I know it’s tempting to do so, but if you take on any debt during the loan process, we’ll have to count that payment. Even if the payment is interest-only, we still have to count it on the credit report.
+
+8. Apply for more credit. Every new credit pull will cost you a few points.
+
+9. Make any large cash deposits (unless you have a bill of sale or absolute proof where it came from). Cash is a bit of a no-no in the mortgage business.
+
+10. Transfer any funds from one bank account to another. This makes our job more complicated. It means we have to get statements proving where that money came from and what it was for.
+
+11. Don’t switch banks. Things are much simpler if you just stick with one bank.
+
+12. Don’t co-sign for anything. A lot of people think this is okay as long as someone else makes the payments, but it’s not. We still have to count that against you—particularly if you co-signed less than 12 months ago.
+
+As always, if you have any questions about this or any other mortgage topic, just give me a call or shoot me an email. I’d love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+12+Things+to+Avoid+Doing+During+the+Loan+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+12+Things+to+Avoid+Doing+During+the+Loan+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re applying for a loan, there are 12 things you should not do if you want to avoid any problems.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you’re applying for a loan, there are 12 things you should not do if you want to avoid any problems.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Combat Indecision in Today's Fast-Paced Market</title>
+        <link>http://localhost:4000/how-to-combat-indecision-in-todays-fast-paced-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-03-30 10:14:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+to+Combat+Indecision+in+Today's+Fast-Paced+Market.mp4</guid>
+        <description>
+
+Today, I’d like to talk about the effects of a fast-moving market. Recently, I’ve been hearing from a lot of frustrated buyers who are tired of losing out on homes.
+
+Oftentimes the reason they lost out was that they told their Realtor they needed time to think. When the client calls their Realtor back with the decision to buy, they do so only to find out the home has already gone under contract with someone else.
+
+This situation is frustrating for the buyer and their agent alike. In this market, you must be prepared to make fast decisions.
+
+“I truly think this is a great strategy for undecided buyers to utilize.”
+
+Many Realtors tell me that any home under $250,000 in our area is likely to move off the market in just one or two days. This doesn’t leave buyers with time to wait around and think.
+
+I think a great solution here is to take advantage of the 10-day option period our Texas real estate contracts provide. The beauty of this period is that you can go under contract but still think about it.
+
+Taking advantage of this option period costs just $100, which is well worth it if you’re unsure of whether you want to commit but are afraid of missing out. If you decide during that 10-day period that the property isn’t the right home for you, all you’ve lost out on is that option check. You will get your earnest money back. I truly think this is a great strategy for undecided buyers to utilize.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+to+Combat+Indecision+in+Today's+Fast-Paced+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+to+Combat+Indecision+in+Today's+Fast-Paced+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In today’s fast-paced market, buyers must be able to make quick decisions. However, there is one option that can help give them more time to think.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>In today’s fast-paced market, buyers must be able to make quick decisions. However, there is one option that can help give them more time to think.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Your Future Property Located in a Flood Zone?</title>
+        <link>http://localhost:4000/is-your-future-property-located-in-a-flood-zone.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-03-12 14:55:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Your+Future+Property+Located+in+a+Flood+Zone.mp4</guid>
+        <description>
+
+Why is it crucial when buying a property that you check if it’s located in a flood zone? Let me tell you a quick story.
+
+I’m doing a loan for a couple who bought a 12-acre property awhile back but didn’t know that part of the property was in a flood zone. Since they only recently learned about this and we’ve pulled a flood certificate, they now have to pay between $100 and $200 a month extra for the entire life of their loan.
+
+If you use a Realtor to buy a property, make sure they work hard to check for this kind of information. Most of the time, if a property is located within a flood zone, that fact will be listed in the seller’s disclosure.Some sellers themselves don’t even know if their property is located in a flood zone, though. This could be because they inherited the property, bought it at an auction, or the land was split off from another parcel. Sometimes, unfortunately, they can also be dishonest and just not tell you about it.
+
+“You should always research if a property is located within a flood zone before you buy it.”
+
+That’s why, again, you should always research if a property is located within a flood zone before you buy it. If you’re using a mortgage to finance the purchase, ask your lender to run what’s called a “flood cert” (or flood certificate), where they reach out to FEMA and FEMA reports back to them whether the property is located either partially or wholly within a flood zone.
+
+Once you have that flood certificate, it will put your home into a certain category. You can then give this information to your insurance agent and they can tell you to what extent your flood insurance will cost you.
+
+If the property is only located partially within a flood zone, you can ask a surveyor to provide an elevation certificate, which may show that the home site where you plan on building is not in a flood zone.
+
+If you have any other questions about flood insurance or there’s anything else I can help you with, don’t hesitate to give me a call. As always, it doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Your+Future+Property+Located+in+a+Flood+Zone.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Your+Future+Property+Located+in+a+Flood+Zone.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Not checking if a property you want to buy is located within a flood zone can end up costing you.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Not checking if a property you want to buy is located within a flood zone can end up costing you.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Should You Work With My Own Realtor</title>
+        <link>http://localhost:4000/why-should-you-work-with-my-own-realtor.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-02-15 13:57:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Should+You+Work+With+Your+Own+Realtor_.mp4</guid>
+        <description>
+
+Today, we’re going to talk about why you need your own Realtor.
+
+When driving around looking for a home, you might come across a house you like with a yard sign featuring a phone number.
+
+Most people are tempted to pick up the phone and call, but you need to know that the number on the sign is for a Realtor who represents the seller. They have a signed contract with that homeowner, meaning that they’re not financially obligated to represent your interests, and don’t have to inform you about any known issues in the house. They have no fiduciary responsibility to you as a buyer.
+
+“A buyer’s agent will represent you and only you.”
+
+This is why it’s important for you to have your own Realtor. When you have your own representation, it doesn’t cost you anything because the selling fees are paid for by the seller of the property.A buyer’s agent will represent you and only you. They’re obligated to protect your interests. Your Realtor will work in conjunction with the seller’s agent to negotiate the best deal for you.
+
+If you have any questions, feel free to reach out to me. Remember, it doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Should+You+Work+With+Your+Own+Realtor_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Why+Should+You+Work+With+Your+Own+Realtor_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Having your own representation in real estate matters. Here’s why.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Having your own representation in real estate matters. Here’s why.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What’s the Difference Between an Inspection and an Appraisal?</title>
+        <link>http://localhost:4000/whats-the-difference-between-an-inspection-and-an-appraisal.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-02-01 09:46:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal_.mp4</guid>
+        <description>
+
+What is the difference between an inspection and an appraisal? Today, I’d like to clear up some key differences.
+
+Many veterans call me believing that the VA is going to do an inspection on their home, when in fact, that’s not really the case. The VA will appraise a home, not inspect it.
+
+An appraiser is there to view the property, measure it for square footage, take pictures of the home, and study the property as a whole to determine its value. This is done by comparing it to other properties with similar square footage and amenities that have sold in the area.
+
+“The VA does not require a veteran to get an inspection of the home they’re buying.”
+
+An inspector, on the other hand, couldn’t care less about the value of the property. Inspectors are there to measure the home’s functionality. In other words, the inspector’s goal is to make sure that the air conditioning and heating system is working, any appliances are fully functional, the electrical framework is up to scratch, and that there are no safety issues in the house. The inspector will generate a 35- to 40-page document with pictures of anything of interest found that needs to be addressed.
+
+To be clear, the VA does not require a veteran to get an inspection of the home they’re buying. Personally, I would never buy a house without an inspection, but under the terms of the VA loan, they’re not necessary.
+
+If you have any questions, it doesn’t cost a penny to talk to me. Feel free to give me a call and I’d be happy to answer all of your questions.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Whats+the+Difference+Between+an+Inspection+and+an+Appraisal_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is the difference between an inspection and an appraisal? Today, I’ll explain how they differ.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>What is the difference between an inspection and an appraisal? Today, I’ll explain how they differ.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Mortgage Loan Rules for Moving a Manufactured Home</title>
+        <link>http://localhost:4000/mortgage-loan-rules-for-moving-a-manufactured-home.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2018-01-08 09:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Mortgage+Loan+Rules+for+Moving+a+Manufactured+Home.mp4</guid>
+        <description>
+
+Today I wanted to clarify the rules on moving a manufactured home. A lot of people don’t know this, but there are some very, very specific rules regarding this topic and there’s a lot of confusion about it.
+
+Why is this so important?
+
+A lender may not be able to do one of the top three loans—FHA, conventional, or VA loan—on a manufactured home if it’s been moved. FHA and conventional loans don’t allow a home to be moved or reinstalled once it has been in installed in its original location. Only VA loans, the loan option for veterans, allow the option to move a home once after its initial installation.
+
+Does the trip from the manufacturer to the location count as a move?No, it doesn’t count as a move. But here’s what you need to know: If the owner sells the home or has been foreclosed upon, if the home is moved from where it was installed to another location after having been sold, then that is considered a move.
+
+“Only VA loans, the loan option for veterans, allow the option to move a home once after its initial installation.”
+
+Where do we get all this information?
+
+You can visit the Texas Department of Housing website at www.TDHCA.state.tx.us for records on every installation of manufactured homes. A manufactured home installer is licensed and by law they must log on to that site, enter their license number, then tag numbers of the manufactured home and the serial numbers and declare that they installed a specific home with both the date and location of that installation. This site is how lenders find out if a home has been moved.
+
+This is critical information no matter if you’re on the buyer’s or seller’s side because some lenders don’t even know how to do this. You should want to know in advance if you’re wasting your time.
+
+If you have any questions about this, feel free to give me a call or send an email. I’ll answer all of your questions, and after all, it doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Mortgage+Loan+Rules+for+Moving+a+Manufactured+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Mortgage+Loan+Rules+for+Moving+a+Manufactured+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are specific rules regarding the moving and re-installation of manufactured homes that many don’t know about. Learn about them here.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>There are specific rules regarding the moving and re-installation of manufactured homes that many don’t know about. Learn about them here.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Where Can Veterans Get a Home Improvement Loan?</title>
+        <link>http://localhost:4000/where-can-veterans-get-a-home-improvement-loan.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-12-21 07:10:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Where+Can+Veterans+Get+a+Home+Improvement+Loan_.mp4</guid>
+        <description>
+
+If you’re a veteran looking for a home improvement loan to make some upgrades to your home, I have good news and bad news.
+
+The bad news is the VA doesn’t offer any loans for this purpose. The good news is the Texas Veterans Land Board does, and they recently doubled the amount they’re willing to loan to a veteran—$50,000.
+
+There are a couple very favorable terms to this loan. Not only will they go up to 20 years on the loan at below market rate, but you don’t have to provide a down payment either.
+
+“You don’t even need a down payment with this loan.”
+
+To apply for this loan, just go online at www.texasveterans.com. From there, they’ll contact you to get the ball rolling.
+
+One of the requirements for this loan is you need to gather two bids for the work you want to be done—they won’t allow you to do it yourself. After they underwrite and approve the loan, the work will begin. Typically, they’ll send the money to a local title company in your area. As soon as the work is done, they’ll send an inspector to your home to ensure the work has been done satisfactorily and you’re happy with it. After that, they’ll fund the work and make sure the suppliers get paid.
+
+There are home improvement loans available for non-veterans too. They’re typically done by most banks or federal credit unions, and most of them are underwritten by HUD. If you’d like to know more about these, ask your local bank or credit union.
+
+If you have any more questions about home improvement loans, don’t hesitate to give me a call. As always, it doesn’t cost a penny to talk, and I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Where+Can+Veterans+Get+a+Home+Improvement+Loan_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Where+Can+Veterans+Get+a+Home+Improvement+Loan_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Need a home improvement loan to make some upgrades? I know where you can get one.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Need a home improvement loan to make some upgrades? I know where you can get one.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Unique Opportunity for Veteran Homebuyers</title>
+        <link>http://localhost:4000/a-unique-opportunity-for-veteran-homebuyers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-11-28 07:04:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+A+Unique+Opportunity+for+Veteran+Homebuyers.mp4</guid>
+        <description>
+
+Did you know that you can not only use VA financing to buy a home with 0% down, but you can also use VA financing to buy a multi-family property? If you set things up right, the home will essentially pay for itself. Here’s what I mean.
+
+You are allowed to use a VA loan to purchase a multi-family property, but there are a few caveats. First, you must occupy the property as a primary residence within 60 days of closing on the property. That’s a very important rule to remember.
+
+“This is a smart investment strategy.”
+
+When it comes to multi-family properties, you can actually use the projected rent from the other units in the home to count towards your qualifying number. Because of this, you will be able to qualify for a home with a much higher price. You’ll also have the opportunity to make passive income through rent as you own the home.
+
+If you have VA disability, you will also have a reduction in your property taxes. If you are 100% service-connected disabled, there are no property taxes whatsoever on the entire complex.
+
+There are a lot of ways we can make this work, even if you don’t have any prior experience as a landlord.
+
+If you have any questions about this program or about anything else, give me a call or send me an email today. It doesn’t cost a penny to talk. I look forward to hearing from you soon!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+A+Unique+Opportunity+for+Veteran+Homebuyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+A+Unique+Opportunity+for+Veteran+Homebuyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How can you use your loan to buy a multi-family home? Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>How can you use your loan to buy a multi-family home? Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Need to Know About Property Surveys</title>
+        <link>http://localhost:4000/what-you-need-to-know-about-property-surveys.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-11-08 06:50:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+About+Property+Surveys.mp4</guid>
+        <description>
+
+A property survey is a very important document in a real estate transaction. What is a property survey, though? What do you need to know about them?
+
+When a mortgage company finances the property in question of a real estate transaction, they’ll require a property survey.This survey shows several key things. Most importantly, it shows where the house will sit on that property. It also shows the legal description of the property— which is important for recording ownership—and where the exact property lines are and where the fences are. If the property doesn’t have a fence and you’re thinking of putting one in, that will show the fence contractors where to put it on the property line.
+
+The property survey will also note the locations of any pools, outbuildings, or driveways, and where those are in reference to any legal setbacks. Legal setbacks are the dimensions that the city or county requires you not to encroach upon when building your house. There is no set amount of space in this regard, but if you’re thinking about building a swimming pool in the backyard, you don’t want to build it within the utility easement.
+
+“Property surveys show several important things.”
+
+This information is important not only if you’re building a home, but if you’re buying an existing home as well. If your property is encroaching on your neighbor’s, for example, you need to know that up front so it can be remedied.
+
+In the state of Texas, a property survey can be reused. A lot of people don’t recommend that, but our position is as long as it’s legible and the engineer’s stamp can be read, there’s no reason you can’t reuse it.
+
+Reusing a survey, however, means that it may not show any changes that have been made in utility easements. This doesn’t happen very often, but it’s why some real estate companies require the prospective buyer to always get a new survey. That’s a decision you and your Realtor can make.
+
+As always, it doesn’t cost a penny to talk, so if you have any more questions about property surveys, don’t hesitate to reach out to me. I’d be happy to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+About+Property+Surveys.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+What+You+Need+to+Know+About+Property+Surveys.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Property surveys are used by mortgage companies to list and record key details of a property that’s being bought or built.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Property surveys are used by mortgage companies to list and record key details of a property that’s being bought or built.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Using an IRRL a Smart Move for You?</title>
+        <link>http://localhost:4000/is-using-an-irrl-a-smart-move-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-10-16 08:50:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Using+an+IRRL+a+Smart+Move+for+You_.mp4</guid>
+        <description>
+
+“Pat, I just closed my VA loan with you. Within two weeks, I’m starting to get letters every week offering me to refinance my home loan. How do they even know I did a loan with you? Why am I getting these offers right off the bat?”
+
+This is a question I get asked a lot and a scenario I encounter quite often. We didn’t sell your loan or your information to anybody, but in the state of Texas, whenever someone buys a home, it’s public information if there’s a loan put on it at the courthouse. No other information is recorded—it just denotes that the person bought a home and used a VA loan to do so
+
+There are people who sell that information and there are certain mortgage companies who focus solely on an interest rate reduction refinance, or IRRL. This is a product that the VA allows that, in my opinion, got completely out of hand. The VA’s position on it, however, is if the veteran can benefit from a reduced house payment, they see no issue.
+
+“In my opinion, these fast and low refinance offers very rarely make sense to pursue.”
+
+How does this product work?
+
+There are some nice things about it. It greatly reduces paperwork, and in most cases, it doesn’t require another appraisal, any paycheck stubs, or even bank statements. The VA also allows the closing costs to be put into the new loan. We do have to verify in the credit report that the payments have been made on time and for at least the last 12 months. In most cases, you can come to closing with nothing but a pen in hand and can get a lower house payment.
+
+So, the payment is lowered, and there are other advantages, but at what cost? In order to get that lower rate, these mortgage companies force you to buy points. This means that once you do the closing, the balance on the rate begins to grow.
+
+Let me give you an example of a situation like this I dealt with a few months ago. One of these mortgage companies came to one of my clients that had closed on a home two months prior and offered him a 2.99% rate to refinance a loan that had a $200,000 balance. When I asked him to give me a copy of the good faith estimate, I found that they had $17,000 worth of points and other associated fees to buy that loan down.
+
+Did they give him a lower house payment? Yes—it was about $137 per month. The problem, though, was when he came away from closing, he owed $217,000 on the home instead of $200,000.
+
+This kind of situation can spell trouble for you if and when you sell your home. In many cases, you have to come to closing with money in order to get out from under the loan. Let’s not forget, in most cases when you sell a home, you’ll also have about 6% in real estate fees. If you tack that onto the extra $17,000, you’ve got a really difficult situation.
+
+Do these fast and low refinance offers make sense to pursue? In my opinion, very rarely.
+
+If you have any questions about IRRLs, don’t hesitate to reach out to me. I’d be happy to help you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Using+an+IRRL+a+Smart+Move+for+You_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Is+Using+an+IRRL+a+Smart+Move+for+You_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Interest rate reduction refinances can offer you a reduced house payment, but they also come with serious downsides.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Interest rate reduction refinances can offer you a reduced house payment, but they also come with serious downsides.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>If a Storm Hits, Do You Have Coverage?</title>
+        <link>http://localhost:4000/if-a-storm-hits-do-you-have-coverage.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-09-25 07:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+If+a+Storm+Hits%2C+Do+You+Have+Coverage_.mp4</guid>
+        <description>
+
+The terrible situations that have unfolded in Texas, Florida, and elsewhere are still fresh in our minds, and for good reason. People have been flooded out of their homes, and it has been absolutely heartbreaking to watch.
+
+So today, I wanted to talk about what flood insurance is and why it can be helpful in situations like these.
+
+The most important thing I want you to know is that homeowners insurance does not cover rising water. If water happens to come in from the roof, it will be covered under homeowners insurance. If it comes from beneath and rises into your home, however, it is simply not covered.
+
+Of the approximately 185,000 homes that were flooded in Houston, 80% of them did not have flood insurance. Flood insurance is its own separate policy, meaning that you will need to call and request this specific type of coverage.
+
+“Don’t wait until you see the hurricane coming before you think about your coverage.”
+
+It’s important to be aware that flooding can still occur in non-flood zones. If you do happen to live in a non-flood zone, the government caps the price of coverage at $410. Here’s something else you need to know: Because flood insurance is a separate policy, it covers just $250,000 on the dwelling regardless of the value of the home.
+
+There is also an additional $100,000 worth of coverage for the contents of your home, such as furniture and other personal effects. Keep in mind that both of these figures are the maximum amount of coverage provided and may not always be what is given in the event of a flood.
+
+You should also realize that flood insurance does not go into effect for 30 days after purchase. For this reason, you don’t want to wait until you see the hurricane coming before you think about your coverage. For $30 or so a month, I find the coverage to be well worth it. After everything that happened, I’ve definitely purchased flood insurance, myself.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+If+a+Storm+Hits%2C+Do+You+Have+Coverage_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+If+a+Storm+Hits%2C+Do+You+Have+Coverage_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As many people in the wake of these recent hurricanes found out, flood insurance is a separate policy from homeowners insurance. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>As many people in the wake of these recent hurricanes found out, flood insurance is a separate policy from homeowners insurance. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Can You Build With the VA Loan?</title>
+        <link>http://localhost:4000/can-you-build-with-the-va-loan.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-08-24 13:55:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan_.mp4</guid>
+        <description>
+Can you use a VA loan to build on land you own? Of course you can.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+If you’ve got land, can you use your VA loan to build on it?
+
+The answer is: of course you can.
+
+Now that you know this is a possibility, there are a few things you need to consider before you can make it happen. The first step is to have your home designed.
+
+After you’ve met with an architect to do this, you’ll need to generate the blueprints and specifications.
+
+The next step is to determine what costs will be associated with this process. That cost includes the price of building the home itself, site preparation, and other factors as well.
+
+All of this information that you’ve gathered until this point will then need to be presented to an appraiser. Requesting a VA construction appraisal is different from the normal appraisal process because in this case, the appraiser has no house to look at.
+
+“THE FUNDS FROM THIS 30-YEAR VA LOAN WILL PAY OFF THE CONSTRUCTION LOAN.”
+
+Instead, the appraiser will visit and photograph the site, look at the plans for your home, and find comparable properties in the area.
+
+Within a couple of weeks, the appraiser will determine an approximation of the home’s value upon completion. Having this value from the start is a great way to prevent any unsavory surprises down the road.
+
+After this, you’re finally ready to get a construction loan. If you happen to owe money on the land, the first draw of the construction loan will pay that cost off, as well.
+
+At various points throughout the process, the builder will take draws—with the final draw coming once the house is completed. It is at this point, during the final phase of construction, that your VA loan will be put together.
+
+The funds from this 30-year VA loan will pay off the construction loan. It’s really that simple.
+
+If you have any other questions or would like more information, remember that it costs nothing to talk. Feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Build+With+the+VA+Loan_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve got land, can you use your VA loan to build on it?</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you’ve got land, can you use your VA loan to build on it?</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are VA Appraisals Any Different from Conventional Ones?</title>
+        <link>http://localhost:4000/are-va-appraisals-any-different-from-conventional-ones.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-08-11 15:45:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Are+VA+Appraisals+Any+Different+from+Conventional+Ones_.mp4</guid>
+        <description>
+Today I wanted to talk about VA appraisals and how they differ from conventional appraisals.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+I get a lot of calls about this with lots of questions about the VA appraisal and how it’s different from conventional appraisals. An appraisal is an estimated value of a property done by a licensed appraiser. One thing to remember is that VA appraisals are not that much different from a conventional appraisal.
+
+The appraiser will first visit the property and measure the square footage of the home, take photos of all sides of the home’s exterior, and then photograph of each room inside the home. The appraiser will then take note of any amenities in the home that might affect the value—such as updated kitchens or bathrooms.
+
+If the home has any damage, then it will be noted as a repair on the appraisal. They will take note of any damage to the interior or exterior that can decrease the value of the home—like rotting wood and cracked or peeling paint. If there are any serious matters that need to be addressed, the appraiser will put it in the report given to you and your Realtor.
+
+You need to write up any needed repairs the appraiser sees. This is a VA requirement. The VA doesn’t necessarily need a brand new home, but they want to make sure that the home is in sound condition and that the veteran is not buying a problematic home.
+
+“THE VA DOESN’T NECESSARILY NEED A BRAND NEW HOME, BUT THEY WANT TO MAKE SURE THAT THE HOME IS IN SOUND CONDITION FOR THE VETERAN.”
+
+Once the appraiser finishes the inspection, they will then take pictures of other comparable homes in the neighborhood and with that information, head back to the office to calculate the value of the home. Once the value is determined, it is forwarded to the mortgage company and we have a dollar value for the house that we can work with.
+
+If there are any repairs that were noted on the appraisal, both Realtors are notified that those repairs need to be made in order to close on a VA loan.
+
+If there’s a problem with the value, under the VA loan process we have an opportunity to appeal the value and bring additional comparables to the attention of the appraiser in order to get the value changed.
+
+If you have any additional questions about VA appraisals or any other VA loan-related topic, please give me a call. I’d be happy to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Are+VA+Appraisals+Any+Different+from+Conventional+Ones_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Are+VA+Appraisals+Any+Different+from+Conventional+Ones_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What is the VA appraisal and how it’s different from conventional appraisals.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>What is the VA appraisal and how it’s different from conventional appraisals.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Taxes and Insurance Figure into VA Loans</title>
+        <link>http://localhost:4000/how-taxes-and-insurance-figure-into-va-loans.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-07-28 10:37:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+Taxes+and+Insurance+Figure+into+VA+Loans.mp4</guid>
+        <description>
+Today I wanted to talk a bit more in-depth about how property taxes and homeowners insurance figure into the VA loan process.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+Today I wanted to talk about taxes and insurance and how they figure into a VA loan. I get this question from both veterans and real estate agents alike.
+
+In most areas, real estate taxes are comprised of state, local, city, and school taxes. They are all figured in by the local appraisal district, who then sets the value of the home. Then those taxes are set based on a percentage
+
+The monthly house payments figures into an escrow account that not only includes principal and interest, but also 1/12th of the property taxes that will be due at the end of the year as well as 1/12th of the insurance. In the state of Texas, veterans who are 100% disabled pay absolutely no property taxes whatsoever. The doesn’t happen automatically, however. They have to fill out the appropriate form and send a copy of that to the lender that is holding the loan in order to stop collection of the taxes.
+
+Now I wanted to talk a little bit about homeowners insurance. Homeowners insurance has nothing to do with life insurance or private mortgage insurance. Homeowners insurance covers fire, liability, weather-related issues, but does not cover the home from a flood. Rising water is not covered by regular homeowner’s insurance.
+
+“RISING WATER IS NOT COVERED BY REGULAR HOMEOWNERS INSURANCE.”
+
+Recently I’ve been asked why insurance rates are all over the board, so I did a little digging and contacted three separate insurance agents that I do business with to get an answer. The general consensus is that homeowner’s insurance is based on the size and age of the property. The older a home is, the more claims there can be on it, which will affect your rates.
+
+Insurance rates are also affected by claim history on the home if it’s pre-owned, and the insurance claim history of the buyer themself. Insurance companies also factor in your credit score to determine rates. Generally, there are more claims on insurance policies owned by individuals with lower credit scores. Additionally, the location of the home can affect rates as well.
+
+Something interesting to note is that insurance agents won’t insure individuals who own dogs that are pit bulls or dobermans or similar dog breeds. This is because they have seen a spike in claims related to dog bites, and don’t want to undertake that liability.
+
+I would advise you to bundle your insurance if you can. If you combine your homeowners insurance with your car insurance, you could get up to a 20% reduction in the overall rate.
+
+Like I always say, it doesn’t cost a penny to talk, so if you have any questions at all, give me a call. I’d be happy to help!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+Taxes+and+Insurance+Figure+into+VA+Loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+Taxes+and+Insurance+Figure+into+VA+Loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today I wanted to talk about taxes and insurance and how they figure into a VA loan.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Today I wanted to talk about taxes and insurance and how they figure into a VA loan.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Manufactured Homes Made Simple</title>
+        <link>http://localhost:4000/manufactured-homes-made-simple.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-07-03 13:49:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4</guid>
+        <description>
+There are a few key rules you should know about in order to get a VA loan under a manufactured home.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+If you’re considering using a VA Loan on a manufactured home, I have some information that you’ll need to know.
+
+To begin, you should know that you are, in fact, allowed to have a VA loan under a manufactured home. However, this can be difficult in certain cases. Though VA loans are technically allowed on both double-wide as well as single-wide homes, you will experience a great deal of difficulty in finding a lender who will do a VA loan for you on a single-wide home.
+
+Along with this, there are some other rules. For example, a manufactured home needs to be compliant with any foundation requirements—the home must have a foundation that is attached to the ground, called a HUD-style foundation. Luckily, an engineer can inspect and retrofit this style of foundation on homes that don’t already have one.
+
+Additionally, any wheels or axles must be removed from the home. This is because, from a title standpoint, the home must be considered permanently one with the land.
+
+Speaking of mobility, in order to get a VA loan under a manufactured home, the home must have been moved one or fewer times since its original installment.
+
+“THE VA WANTS BUYERS TO BE SAFE AND HEALTHY WITHIN THEIR HOMES.”
+
+To ensure that these requisites have been met, the home must go through a number of inspections, including a septic inspection, termite inspection, and, if there is one present on the property, a well inspection and water quality test.
+
+While they are negotiable between the buyer and seller, the seller is no longer required to provide funds for these inspections so the impetus falls largely on the buyer to ensure that these inspections are carried out and paid for.
+
+A final rule to keep in mind is that the home must be a 1976 or newer model.
+
+This may seem like a lot, but all of the inspections and regulations required are for the benefit of the veteran—as the VA wants buyers to be safe and healthy within their homes.
+
+Also, while many may say that acreages are not allowed under a VA loan with a manufactured home, this is not the case.
+
+If you want more information on VA loans and manufactured homes, or if I can answer any other questions for you, feel free to get in touch by giving me a call or sending me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Manufactured+Homes+Made+Simple.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re considering using a VA Loan on a manufactured home, I have some information that you’ll need to know.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you’re considering using a VA Loan on a manufactured home, I have some information that you’ll need to know.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Is the Anatomy of a VA Loan?</title>
+        <link>http://localhost:4000/what-is-the-anatomy-of-a-va-loan.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-06-12 11:30:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+veterans+financing+works.mp4</guid>
+        <description>
+If you’re thinking of applying for a VA loan, here’s what you should know about them.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+The anatomy of a VA loan features four components: principal, interest, property taxes, and homeowners insurance.
+
+In January 2017, the U.S. Department of Veteran Affairs increased the loan amount on a VA loan to $424,100. That’s called the “conforming limit,” and it means in most states around the country, a veteran can borrow up to $424,100 with no down payment. In other areas of the country where housing is dramatically more expensive (Alaska, Hawaii, California, New York, etc.), the conforming limit is much higher than that.
+
+VA loans don’t require any PMI (private mortgage insurance), but property taxes and insurance must be included with it. The Department of Veteran Affairs has compensated for the rise in home prices by offering jumbo loans or high-balance loans that go above the $424,100 limit. However, that’s also where the no down payment portion ends.
+
+“A VA LOAN ALLOWS YOU TO BORROW UP TO $424,000 WITH NO DOWN PAYMENT.”
+
+If the purchase price of the home is above $424,100, you would have to pay 25% of the overage. For example, if a home is priced at $524,000—which is $100,000 over the limit—that means you’d pay $25,000. There is no limit as to how high you can purchase as you pay 25% of the overage
+
+If you have any questions about the anatomy of a VA loan, don’t hesitate to reach out to me. As I always say, it doesn’t cost a penny to talk. Just give me a call and I’d be happy to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+veterans+financing+works.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+How+veterans+financing+works.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The anatomy of a VA loan features four components: principal, interest, property taxes, and homeowners insurance.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>The anatomy of a VA loan features four components: principal, interest, property taxes, and homeowners insurance.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Types of Property You Can Buy With VA Financing</title>
+        <link>http://localhost:4000/types-of-property-you-can-buy-with-va-financing.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-05-22 11:20:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4</guid>
+        <description>
+VA loans allow you to buy a wide variety of properties.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+If you plan to use a VA loan, you might be wondering what types of properties you can use your VA loan for.
+
+The most popular use is for a single-family residence, but you can also use a VA loan on a multi-family property like a duplex or triplex, but you can’t go higher than four units in one building. To use it on a multi-family home, the cardinal rule is that the veteran must occupy one of the units as their primary residence. You can also use a VA loan for a condo if it’s on the list of VA-approved condo associations, which I can send you.
+
+You can use a VA loan for a townhouse, and it doesn’t have to be on any list. You can also use it on manufactured homes that are 1976 or newer. It’s allowed for single-wide or double-wide manufactured homes, but it’s almost impossible to find a lender who will offer a loan on a single-wide. Manufactured homes must also be properly attached to the ground with a HUD-style foundation—it can’t just be tied down sitting on concrete blocks.
+
+“YOU CAN BUY MULTI-FAMILY PROPERTIES UP TO FOUR UNITS WITH A VA LOAN.”
+
+You can also use VA loans for modular homes, which are growing in popularity.
+
+I get a lot of questions about using VA loans on acreages as well. Many lenders will tell you that you can’t use it on a property with 20 or 30 acres, but that’s simply not true. VA loans do not have a limit on acreage; it just has to make sense. More importantly, they want to know the use of the land because they don’t want to finance a home if the veteran is going to use it for a for-profit use.
+
+Finally, you can, in fact, use a VA loan for a home with an agricultural tax exemption. You can’t use it to buy raw land, however.
+
+If you have any other questions about the types of property you can buy with a VA loan, don’t hesitate to give me a call or send me an email. Like I always say, it doesn’t cost a penny to talk.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+The+kinds+of+properties+you+can+purchase.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you plan to use a VA loan, you might be wondering what types of properties you can use your VA loan for.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you plan to use a VA loan, you might be wondering what types of properties you can use your VA loan for.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Can You Still Get a VA Loan Post-Bankruptcy?</title>
+        <link>http://localhost:4000/can-you-still-get-a-va-loan-post-bankruptcy.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-05-05 15:25:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Veterans+Financing+Post-Bankruptcy.mp4</guid>
+        <description>
+If you had a bankruptcy in the past and it involved a home that you used a VA loan to purchase, you haven’t lost your eligibility. Here’s the situation you’ll face instead.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+If you’ve had a bankruptcy in the past and it involved a home you used a VA loan to finance—have you lost your eligibility?
+
+No, you haven’t. The Department of Veterans Affairs has a heart. They’ll always note that they lost money in that situation, but they have a non-collection policy.
+
+“YOU ARE STILL ELIGIBLE FOR A VA LOAN, BUT ONLY AFTER A CERTAIN AMOUNT OF TIME HAS PASSED.”
+
+Instead, they will send you a new certificate of eligibility request, note how much they lost on the home, and deduct that amount from your eligibility. You still have eligibility and you can still get another VA loan just as long as at least two years have passed since the bankruptcy.
+
+Remember, if you have any questions about this or any other subject, feel free to give me a call. I’d be happy to talk to you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Veterans+Financing+Post-Bankruptcy.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Veterans+Financing+Post-Bankruptcy.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’ve had a bankruptcy in the past and it involved a home you used a VA loan to finance—have you lost your eligibility?</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>If you’ve had a bankruptcy in the past and it involved a home you used a VA loan to finance—have you lost your eligibility?</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Who Qualifies for VA Loans?</title>
+        <link>http://localhost:4000/who-qualifies-for-va-loans.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-04-24 14:54:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan_.mp4</guid>
+        <description>
+Who can qualify for a VA loan? Do you have to have military benefits? I’ll go over the answers to those questions today.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+Who qualifies for a VA loan? I get asked this question quite often, and I’ll go over the details behind qualifying today.
+
+It’s true that in order to qualify for a VA loan, you have to be a veteran. However, a lot of veterans have spouses that are not associated with the military. Can they both qualify if that’s the case? The answer is yes.
+
+Fiances are another story. If you are not married, your fiance would also have to have military benefits in order for you to both qualify. If the fiance of a spouse does not have military benefits, they would not qualify for the loan.
+
+“THE SPOUSE OF A VETERAN CAN QUALIFY FOR A VA LOAN.”
+
+The main thing that the VA wants to achieve is making sure the people taking advantage of VA loans are actually living in the home purchased with one. Gone are the days when people could co-sign for a VA loan. Again, a spouse can certainly co-sign and qualify for a VA loan but don’t plan on having a fiance do that unless they qualify on their own.
+
+If you have any other questions please feel free to give me a call or send me an email. I look forward to hearing from you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Who+Qualifies+for+a+VA+Loan_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Who qualifies for a VA loan? I get asked this question quite often, and I’ll go over the details behind qualifying today.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>Who qualifies for a VA loan? I get asked this question quite often, and I’ll go over the details behind qualifying today.</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Answering Some Common VA Loan Questions</title>
+        <link>http://localhost:4000/answering-some-common-va-loan-questions.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-04-06 14:49:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once_.mp4</guid>
+        <description>
+I get a lot of questions about VA loans and the eligibility restrictions. Can you use a second VA loan? Can you rent a home purchased with a VA loan? Find out here.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+I’ve been getting a lot of questions lately from people, which is great. I wanted to answer a few of them today. One of the most common questions I get asked about VA loans goes like this: “Pat, I have used my VA loan to buy a home in the past, can I use it again?”
+
+The simple answer is absolutely yes. All veterans and active military have the benefit of using VA eligibility to buy a home. When someone uses it the first time, all they have to do is pay off the house or sell their current home, and it will free up their eligibility.
+
+“THE SIMPLE ANSWER IS ABSOLUTELY YES.”
+
+The other question I often get goes like this: “I already have a home with a VA loan on it, and I have been renting that home out. Can I buy another house with a VA loan as well?”
+
+Yes, you can have two VA loans at once, but there are some restrictions. You will have to fill out a form for us, and then we can insert those numbers and tell you how much more you can borrow on another VA loan in addition to your first.
+
+If you have any questions about this topic or any mortgage needs, give me a call or send me an email. I look forward to helping you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+Can+You+Have+Two+VA+Loans+at+Once_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>“Pat, I have used my VA loan to buy a home in the past, can I use it again?”</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>“Pat, I have used my VA loan to buy a home in the past, can I use it again?”</itunes:summary>
+        <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>I Specialize in Working with Military Clients</title>
+        <link>http://localhost:4000/i-specialize-in-working-with-military-clients.html</link>
+        
+        <author>Patrick Fitzgerald</author>
+        <pubDate>2017-03-16 13:31:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+My+Specialty+Is+Military+Loans.mp4</guid>
+        <description>
+I offer all types of mortgages, but my specialty is making sure military personnel can buy their dream homes.
+
+It doesn’t cost a penny to talk….so call me right now and I will answer your questions!
+
+Apply Now
+
+I’m a loan officer here at Guild Mortgage in San Antonio and a mortgage expert. Although I do offer conventional, FHA, and all other different types of loans, my specialty is helping military personnel with their home loan needs. I’ve been doing this for the past 15 years.
+
+One of the unique things I do is meet with my clients in person. A lot of our competition doesn’t do this anymore, but I think it’s important to be able to talk to someone in person when going through the home buying process. There are a lot of options to choose from and a lot of paperwork needed to determine what you qualify for.
+
+“IT DOESN’T COST A THING TO TALK TO ME ON THE PHONE.”
+
+If you have any questions for me, I would be glad to answer them. I’m here six days a week in my office and when you dial me, you will talk to me. I don’t have a receptionist or assistant answering my calls for me. I’m here for you, so don’t hesitate to give me a call. It doesn’t cost a thing to talk to me on the phone. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+My+Specialty+Is+Military+Loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Patrick+Fitzgerald/New+Videos/The+VA+Loan+Guy-+My+Specialty+Is+Military+Loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m a loan officer here at Guild Mortgage in San Antonio and a mortgage expert.</itunes:subtitle>
+        <itunes:author>Patrick Fitzgerald</itunes:author>
+        <itunes:summary>I’m a loan officer here at Guild Mortgage in San Antonio and a mortgage expert.</itunes:summary>
         <itunes:keywords>Texas Veteran Loans, VA Loans, The VA Loan Guy, Loans for Active Military, Mortgage Banking Firm, Mortgage Banking in Texas, VA Mortgages</itunes:keywords>
       </item>
       
