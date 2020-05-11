@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How is COVID-19 Affecting the Mortgage Market?
-date: 2020-05-11 08:00:00
+date: 2020-05-10 08:00:00
 tags:
 excerpt: >-
   Today we want to talk about the mortgage market and how COVID is changing the
