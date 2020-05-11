@@ -22,4 +22,4 @@ youtube_code: jjo87huxOIA
 
 <br>We’re continuing to highlight local business owners who, like us, are trying to navigate the COVID-19 pandemic from an economic standpoint. Tate Hardcastle is from <u><a target="_blank" href="https://keystonebodytherapies.com/">Keystone Body Therapies</a></u> and joined me recently to talk about how he’s been adapting to the situation.
 
-They try to help people get rid of persistent pain, assist clients with rehab, and provide expert, manual therapy. They don’t look for symptoms of pain, they look for the cause of pain to help improve the overall health of their clients.
+The pros at Keystone Body Therapies try to help people get rid of persistent pain, assist clients with rehab, and provide expert, manual therapy. They don’t look for symptoms of pain, they look for the cause of pain to help improve the overall health of their clients. To hear my full conversation with Tate, my latest video above.
