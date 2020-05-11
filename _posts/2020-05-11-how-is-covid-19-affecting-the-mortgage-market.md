@@ -26,6 +26,8 @@ Today we want to talk about the mortgage market and how COVID is changing the mo
 
 But, not all lenders are doing this.&nbsp; This is just an example of an **institutional reaction to fears that homeowners will stop paying their mortgages.&nbsp; **
 
+{% include pullquote.html %}
+
 This is in large part because the government has created some confusion behind their mortgage-backed securities with Fannie, Freddie, and FHA&nbsp; requiring a 12-month moratorium on mortgage payments if the borrowers suffer a COVID-19 related hardship.&nbsp;
 
 United Wholesale Mortgage, the second-biggest mortgage lender in the country, [recently announced](https://www.housingwire.com/articles/uwm-tightens-voe-standards-as-jobless-claims-rise/) that it **will require re-verification of a borrower’s employment on the day their loan is scheduled to close.** The purpose is to ensure that borrowers are actually still employed when their mortgage closes. Most lenders have made this move. It’s the fear that a buyer’s job at the beginning of the process of purchasing a home may be in jeopardy and they now require the Verification of Employment (VOE) the day prior to settlement.&nbsp; Obviously, lenders want to make sure that borrowers have cash flow.&nbsp;
@@ -39,7 +41,3 @@ In 2008, I remember how loan programs were disappearing on nearly a daily basis.
 I suspect that these changes will last beyond the local and national re-opening of our economy.&nbsp; Only time will tell.&nbsp;
 
 In the meantime, **our lender still has access to mortgages with as low as 3% down payment and interest rates at historic lows.** &nbsp;Making this a great time to take advantage of buying opportunities as they relate to the cost of homeownership. Give us a call and we’ll put you directly in touch with our preferred lenders to get the ball rolling.
-
-&nbsp;
-
-{% include pullquote.html %}
