@@ -17,6 +17,6 @@ youtube_code: jrKFqgZ43Ms
 
 {% include youtube.html %}
 
-<p style="text-align:center">Curfews have been invoked in Hawaii; here’s how our business has changed.</p>
+<p style="text-align:center"><em>Curfews have been invoked in Hawaii; here’s how our business has changed.</em></p>
 
 COVID-19 protocols are going to change the way that we do business. Unfortunately for us here in Hawaii, a curfew was just implemented, meaning that no one is allowed on the roads between 11 p.m. and 5 a.m. on Friday, Saturday, and Sunday. We’ve already sent out information regarding how homeowners can expect our business practices to change with quarantine rules in mind, and new tenants coming into our system can expect to sign some extra paperwork. To learn more about how we’ve had to adapt to these recent challenges, watch the short video above.
