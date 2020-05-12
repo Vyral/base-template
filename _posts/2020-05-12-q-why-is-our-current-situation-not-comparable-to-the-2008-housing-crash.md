@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Is Our Current Situation Not Comparable to the 2008 Housing Crash?'
-date:
+date: 2020-05-12 16:57:44
 tags:
   - Real Estate
 excerpt: Our current market situation is far from the conditions of 2008. Here’s why.
