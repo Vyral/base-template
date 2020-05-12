@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Our Rapidly Changing Market
-date: 2020-05-04 21:29:23
+date: 2020-05-12 21:29:23
 tags:
   - Market Update
   - Real Estate
