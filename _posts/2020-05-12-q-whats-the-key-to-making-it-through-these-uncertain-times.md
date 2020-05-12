@@ -17,7 +17,7 @@ youtube_code: HQsWmxOeTyM
 
 {% include youtube.html %}
 
-In these uncertain times, it’s paramount to focus on what you can control.
+<p style="text-align: center;"><em>In these uncertain times, it’s paramount to focus on what you can control.</em></p>
 
 The COVID-19 pandemic has affected us all, and my message today is about the importance of focusing on what we can control right now—in life and business. We can’t change the past, and we can’t let our emotions get the better of us. We’re going to get through this, but we need to do so by making good decisions.
 
