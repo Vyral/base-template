@@ -17,7 +17,7 @@ youtube_code: w-ePeYKG7t8
 
 {% include youtube.html %}
 
-Our current market situation is far from the conditions of 2008. Here’s why.
+<p style="text-align: center;"><em>Our current market situation is far from the conditions of 2008. Here’s why.</em></p>
 
 If you’re concerned that we’re in for a repeat of the 2008 real estate crash, I can assure you that what’s happening now due to the pandemic and what happened in the financial sector back in 2008 are two very different things.
 
