@@ -17,7 +17,9 @@ youtube_code: xBWVjAURLg4
 
 {% include youtube.html %}
 
-*Here’s what you need to know about the true value of five common upgrades.*
+<center><em>Here’s what you need to know about the true value of five common upgrades.</em></center>
+
+&nbsp;
 
 If you’re a homeowner getting your property prepped for the market, it’s only natural that you’d try to capitalize on current buyer trends and modernize your property so that it’s as appealing as possible. But what upgrades are really worth your time and money? Don’t assume that buyers will offer more on your home just because you dropped serious money on a remodel; there are specific things that they value, and plenty else that they won’t pay for. Here are my thoughts on five popular upgrades that sellers make:&nbsp;
 
