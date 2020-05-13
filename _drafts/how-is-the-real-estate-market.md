@@ -17,4 +17,6 @@ youtube_code: 8YFXrUBO9dE
 
 {% include youtube.html %}
 
-As some of you know, the governor has shifted us from <u><a target="_blank" href="https://coronavirus.utah.gov/utahs-moderate-risk-phase/">high risk to moderate risk</a></u> for the coronavirus here in Utah. How has the pandemic and resulting lockdowns affected the real estate market? First, **our days on market have decreased**. In 2019 our average days on market was 16, and now the average is nine. However, we have also had a significant decrease in inventory.
+<center><em>I’m sharing how COVID-19 has affected our real estate market.</em></center>
+
+<br>As some of you know, the governor has shifted us from <u><a target="_blank" href="https://coronavirus.utah.gov/utahs-moderate-risk-phase/">high risk to moderate risk</a></u> for the coronavirus here in Utah. How has the pandemic and resulting lockdowns affected the real estate market? First, **our days on market have decreased**. In 2019 our average days on market was 16, and now the average is nine. However, we have also had a significant decrease in inventory.
