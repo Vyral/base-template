@@ -18,6 +18,8 @@ youtube_code: Kdg1bkP9OMs
 ---
 
 {% include youtube.html %}
+<p style="text-align: center;"><em>If you still need to sell your house during the pandemic, what do you need to do?</em></p>
+
 
 For those who still need to sell their house during COVID-19, here are the steps that you’ll need to take in order to keep your transaction on schedule:
 
