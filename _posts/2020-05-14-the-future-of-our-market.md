@@ -5,7 +5,7 @@ date: 2020-05-14 13:47:21
 tags:
   - Athens Real Estate Agent
 excerpt: Here’s how the COVID-19 pandemic has shaped the future of our market.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/The+Future+of+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,7 @@ youtube_code: J7Uos26kKr8
 
 {% include youtube.html %}
 
-Here’s how the COVID-19 pandemic has shaped the future of our market.&nbsp;
+<p style="text-align: center;"><em>Here’s how the COVID-19 pandemic has shaped the future of our market.</em></p>
 
 People ask me all the time lately how the real estate market is doing. Specifically, whether prices are rising or falling and whether houses are still selling. Today I have a comprehensive market update to share with you that will answer all of your questions. Like any industry, the real estate market is driven by supply and demand, and despite the coronavirus pandemic, there’s still a healthy equilibrium between buyers and sellers.&nbsp;
 
