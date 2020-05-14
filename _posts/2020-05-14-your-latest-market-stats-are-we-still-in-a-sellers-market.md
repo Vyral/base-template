@@ -17,7 +17,7 @@ youtube_code: 67cYE3Gx054
 
 {% include youtube.html %}
 
-To list, or not to list? Here’s the market data you need to know.
+<p style="text-align: center;"><em>To list, or not to list? Here’s the market data you need to know.</em></p>
 
 The coronavirus pandemic is still out there, but South Carolina is slowly starting to reopen, so is now a good time to list your property?&nbsp;
 
