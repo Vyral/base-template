@@ -18,4 +18,4 @@ youtube_code: MAQ-toj6_u4
 
 <center><em>Our goal is to help serve your real estate needs no matter what.</em></center>
 
-<br>We’re aware that everyone has a friend or relative that sells real estate. We do, too, and they always want to offer their opinions. However, keep in mind that when you hire a real estate team like ours, **we have your best interest at heart**. We want you to get your home sold quickly for top dollar and we appreciate your trust in us.
+<br>We’re aware that everyone has a friend or relative that sells real estate. We do, too, and they always want to offer their opinions. However, keep in mind that when you hire a real estate team like ours, **we have your best interests at heart**. We want you to get your home sold quickly for top dollar and we appreciate your trust in us.
