@@ -18,9 +18,11 @@ youtube_code: J7Uos26kKr8
 
 <p style="text-align: center;"><em>Here’s how the COVID-19 pandemic has shaped the future of our market.</em></p>
 
-People ask me all the time lately how the real estate market is doing— specifically, whether prices are rising or falling and whether houses are still selling. Today I have a comprehensive market update to share with you that will answer all of your questions. Like any industry, the real estate market is driven by supply and demand, and despite the coronavirus pandemic, there’s still a healthy equilibrium between buyers and sellers. To find out more, watch my latest video.&nbsp;
+People ask me all the time lately how the real estate market is doing— specifically, whether prices are rising or falling and whether houses are still selling. Today I have a comprehensive market update to share with you that will provide you with data and may help you gain some clarity. Like any industry, the real estate market is driven by supply and demand, and despite the coronavirus pandemic, there’s still a healthy equilibrium between buyers and sellers. I don't claim to know what the future holds and the reality is no one knows for sure what the outcome will be.  On one end of the spectrum, some are predicting a crash with a long recovery due to unemployment, whereas others are pointing out the differences between the last recession and today and why they think the real estate market will not suffer.  Personally, I think both sides make valid arguments.  Time will tell. To find out more about these perspectives, check out this video.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:**
+
+0:25 - What's happening right now?
 
 1:38—Is this a repeat of 2008?
 
