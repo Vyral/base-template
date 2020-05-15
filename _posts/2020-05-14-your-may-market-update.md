@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your May Market Update
-date: 2020-05-14 18:49:40
+date: 2020-05-14 18:49:00
 tags:
   - Market Update
 excerpt: We have the tools to help you buy or sell safely.
@@ -27,7 +27,7 @@ Our team is now back in the office, but an appointment or courtesy call-in will 
 
 {% include pullquote.html %}
 
-**We also have some masks available for clients,** so feel free to call the office at 931-245-7435, and arrange a time to pick one up—if you’re nearby, we may even be able to drop it off for you\! If you need more than one to keep your whole family safe, just let us know; our masks come in two colors: red and black. Make sure to grab a free bottle of sanitizer when you come for your masks (one bottle per mask).&nbsp;
+**We also have some masks available for clients,** so feel free to call the office at 931-245-7435 and arrange a time to pick one up—if you’re nearby, we may even be able to drop it off for you\! If you need more than one to keep your whole family safe, just let us know; our masks come in two colors: red and black. Make sure to grab a free bottle of sanitizer when you come for your masks (one bottle per mask).&nbsp;
 
 **Inventory is still really low and continues dropping**. Truly, COVID-19 has not affected our market, and real estate in our area is still moving. We’re eager to see our city reopen, but we’re operating as safely as possible in the meantime, putting the well-being of our buyers and sellers first.&nbsp;
 
