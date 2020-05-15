@@ -17,6 +17,8 @@ youtube_code: i6LqZKiRVXI
 
 {% include youtube.html %}
 
-Today we’re answering the essential question: **How has the pandemic affected our real estate market?**
+<center><em>All the stats on how COVID-19 has affected our real estate market.</em></center>
+
+<br>Today we’re answering the essential question: **How has the pandemic affected our real estate market?**
 
 First, during this health crisis, we’ve been busier than we’ve ever been before. We’ve been tracking the numbers since the second week of March to ensure we provided you with the most accurate information. We have graphs that show how we recorded showings, pendings, and new listings each week. Those three metrics typically tell us how the market’s performing overall.
