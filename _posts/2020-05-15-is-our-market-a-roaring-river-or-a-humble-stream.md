@@ -19,7 +19,7 @@ youtube_code: aqjTjjGJijw
 
 {% include youtube.html %}
 
-Our market is a river, and we have no choice but to go with the flow.
+<p style="text-align: center;"><em>Our market is a river, and we have no choice but to go with the flow.</em></p>
 
 I often like to look at the real estate market as a flowing river. There will always be a current, but sometimes that current is moving slowly like a stream and other times it’s roaring quickly.&nbsp;
 
