@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Answering Some Common Questions We’ve Been Hearing
-date: 2020-05-15 20:13:11
+date: 2020-05-15 20:13:00
 tags:
   - Real Estate
 excerpt: We’re taking time to answer some common questions we’ve been hearing.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2020/Answering+Some+Common+Questions+Weve+Been+Hearing.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
