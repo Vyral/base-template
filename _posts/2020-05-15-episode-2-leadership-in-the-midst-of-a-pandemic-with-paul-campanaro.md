@@ -4,9 +4,6 @@ title: 'Episode #2: Leadership in the Midst of a Pandemic with Paul Campanaro'
 date: 2020-05-15 17:13:00
 tags:
   - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
-  - Market Update
 excerpt:
 enclosure: >-
   In the second episode of Level Up with Rosie Hayer, we share the virtual space
