@@ -8,13 +8,13 @@ tags:
   - Home Seller Tips
   - Market Update
 excerpt:
-enclosure:
-pullquote: >-
+enclosure: >-
   In the second episode of Level Up with Rosie Hayer, we share the virtual space
   with Paul Campanaro, the team leader of Keller Williams Northwest Market
   Center, and talk about how leaders rise to the occasion. Here, we identify the
   questions that a pandemic-proof leader should ask as we power through one of
   the world’s most challenging crises.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
