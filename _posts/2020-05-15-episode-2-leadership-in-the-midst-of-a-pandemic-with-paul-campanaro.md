@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Episode #2: Leadership in the Midst of a Pandemic with Paul Campanaro'
-date: 2020-05-15 17:13:38
+date: 2020-05-15 17:13:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -9,7 +9,12 @@ tags:
   - Market Update
 excerpt:
 enclosure:
-pullquote:
+pullquote: >-
+  In the second episode of Level Up with Rosie Hayer, we share the virtual space
+  with Paul Campanaro, the team leader of Keller Williams Northwest Market
+  Center, and talk about how leaders rise to the occasion. Here, we identify the
+  questions that a pandemic-proof leader should ask as we power through one of
+  the world’s most challenging crises.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
