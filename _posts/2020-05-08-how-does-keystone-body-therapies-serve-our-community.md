@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   We’re back to highlight another local business that is adapting to this
   pandemic: Keystone Body Therapies.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/How+Does+Keystone+Body+Therapies+Serve+Our+Community_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
