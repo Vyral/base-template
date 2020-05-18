@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Love It or Leave It - COVID 19 Buyer Protection Plan
-date: 2020-05-18 18:26:11
+date: 2020-05-18 18:26:00
 tags:
 excerpt: >-
   Today we want to introduce to you The Stern Team’s Love it or Leave program,
   the ultimate buyer protection plan for uncertain times.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2020/The+Stern+Team-+Love+It+or+Leave+It+Buyer+Protection+Program.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
