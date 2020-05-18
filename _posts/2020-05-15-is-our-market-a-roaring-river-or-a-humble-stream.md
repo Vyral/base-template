@@ -25,11 +25,11 @@ I often like to look at the real estate market as a flowing river. There will al
 
 **Coming into January, February, and mid-March, the market was absolutely on fire, with most homes under $350,000 generating multiple offers.** Inventory was coming off of the market almost as quickly as it was coming on, and 2020 was primed to be a stellar year.&nbsp;
 
-When stay-at-home orders were issued throughout the states and the reality of life under quarantine settled in, we saw skeptical buyers canceling their purchase and sellers canceling their listings for fear of having exposed individuals walk through their homes. Basically, the current of the market slowed dramatically. When the current drops, it exposes boulders in the middle of the river, causing more rapids; **navigating the market in the month of March was treacherous, and everybody was stressed out.**
+When stay-at-home orders were issued throughout the states and the reality of life under quarantine settled in, we saw skeptical buyers canceling their purchase and sellers canceling their listings for fear of having exposed individuals walk through their homes. Basically, the current of the market slowed dramatically. When the current drops, it exposes boulders in the middle of the river, causing more rapids; **navigating the market in March was treacherous, and everybody was stressed out.**
 
 {% include pullquote.html %}
 
-What we’ve noticed, however, is that as inventory levels have come up, the metaphorical water level also rises, which in turn reduces the amount of rapids in the market. That’s why **April was a pretty strong market, and things are continuing to look healthier.&nbsp;**
+What we’ve noticed, however, is that as inventory levels have come up, the metaphorical water level also rises, which in turn reduces the number of rapids in the market. That’s why **April was a pretty strong market, and things are continuing to look healthier.&nbsp;**
 
 Though the official dates keep changing, our city is expected to start a multiphase reopening soon. The dam that might have been created by COVID-19 two months ago is now going to release all of the pent-up demand back into the market. That means the river will be raging these next few quarters, and, assuming we can finally put this pandemic behind us, we’ll be preparing for a busy season that extends all the way into December.&nbsp;
 
