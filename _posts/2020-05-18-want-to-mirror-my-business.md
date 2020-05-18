@@ -19,7 +19,7 @@ youtube_code: _4efX7V-aVw
 
 {% include youtube.html %}
 
-<center><em>We’re hosting a Mirror My Business webinar, so come learn from us!</em></center>
+<center><em>We&rsquo;re hosting a Mirror My Business webinar, so come learn from us!</em></center>
 
 <br>Want to mirror my business? Now you can\! I’ve been in the real estate business for 19 years, and for the first time, **I’m offering a 3-hour “Mirror My Business” workshop**. I want to share our successful practices with you.
 
