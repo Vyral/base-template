@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love It or Leave It - COVID 19 Buyer Protection Plan
+title: 'Love It or Leave It: COVID-19 Buyer Protection Plan'
 date: 2020-05-18 18:26:00
 tags:
 excerpt: >-
