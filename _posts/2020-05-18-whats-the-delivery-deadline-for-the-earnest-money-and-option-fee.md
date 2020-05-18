@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s the Delivery Deadline for the Earnest Money and Option Fee?
-date:
+date: 2020-05-18 14:00:18
 tags:
 excerpt: Here’s how the delivery deadline works for earnest money and option fees.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/05-11-gray-youtube.jpg
 youtube_code: 26pMG6MVF3o
 ---
 
-{% include youtube.html %}<center>Here’s how the delivery deadline works for earnest money and option fees.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Here&rsquo;s how the delivery deadline works for earnest money and option fees.&nbsp;</center>
+
+&nbsp;
 
 Recently, I’ve fielded several phone calls from agents asking for clarification regarding the delivery deadline for the earnest money and option fee.&nbsp;
 
