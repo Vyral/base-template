@@ -22,10 +22,13 @@ Today we want to introduce to you The Stern Team’s Love it or Leave program, t
 
 Buying a home is a big decision, and one that you literally have to live with.&nbsp; We strive to find you the perfect home, a home that you will love for years to come.&nbsp; Our experience and our consumer oriented programs provide you with numerous unique systems that allow us to quickly zero in on exactly what you’re looking for and help you beat out the other buyers to the best new listings.&nbsp;&nbsp;
 
-* What if you get transferred just after you’ve bought the home?
-* What if you receive a fantastic but unexpected job offer which requires you to move?
-* What if you decide that the home or neighborhood just isn’t what you wanted?
-* What if you win the lottery and want a bigger home?
+• What if you get transferred just after you’ve bought the home?
+
+• What if you receive a fantastic but unexpected job offer which requires you to move?
+
+• What if you decide that the home or neighborhood just isn’t what you wanted?
+
+• What if you win the lottery and want a bigger home?
 
 We want you to be able to buy a home with confidence, so we’re going to remove the risk.&nbsp;&nbsp;
 
