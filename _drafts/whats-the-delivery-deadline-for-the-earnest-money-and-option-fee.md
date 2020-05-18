@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/05-11-gray-youtube.jpg
 youtube_code: 26pMG6MVF3o
 ---
 
-{% include youtube.html %}Here’s how the delivery deadline works for earnest money and option fees.&nbsp;
+{% include youtube.html %}<center>Here’s how the delivery deadline works for earnest money and option fees.&nbsp;</center>
 
 Recently, I’ve fielded several phone calls from agents asking for clarification regarding the delivery deadline for the earnest money and option fee.&nbsp;
 
