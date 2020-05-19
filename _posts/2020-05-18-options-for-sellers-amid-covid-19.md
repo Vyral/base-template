@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Options For Sellers Amid COVID-19
-date: 2020-05-18 20:06:26
+date: 2020-05-18 20:06:00
 tags:
   - Home Seller Tips
 excerpt: 'Amid COVID-19, sellers still have many options for selling their homes.'
@@ -17,4 +17,4 @@ youtube_code: 'https://youtu.be/xtoFJdPW0_c'
 
 {% include youtube.html %}
 
-Today I’m discussing options sellers have in today’s market. With the pandemic that has disrupted everything, there are now different options for selling your home. Buyers have the internet, more resources, and low interest rates, so they’re doing a ton of homework before buying a house. Home prices are increasing, and we don’t see that changing, despite the health crisis. One option you have is to sell to an iBuyer. To learn more about selling options amid COVID-19, watch the short video above.
+With the pandemic that has disrupted everything, there are now different options for selling your home. Buyers have the internet, more resources, and low interest rates, so they’re doing a ton of homework before buying a house. Home prices are increasing, and we don’t see that changing, despite the health crisis. One option you have is to sell to an iBuyer. To learn more about selling options amid COVID-19, watch the short video above.
