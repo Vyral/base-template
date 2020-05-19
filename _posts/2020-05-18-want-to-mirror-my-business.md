@@ -21,7 +21,7 @@ youtube_code: _4efX7V-aVw
 
 <center><em>We&rsquo;re hosting a Mirror My Business webinar, so come learn from us!</em></center>
 
-<br>Want to mirror my business? Now you can\! I’ve been in the real estate business for 19 years, and for the first time, **I’m offering a 3-hour “Mirror My Business” workshop**. I want to share our successful practices with you.
+<br>Want to mirror my business? Now you can\! I’ve been in the real estate business for 19 years, and for the first time, **I’m offering a three-hour “Mirror My Business” workshop**. I want to share our successful practices with you.
 
 I’ll be sharing the systems, tools, and models that we use to help over 100 families each year. We’ll discuss mindset, mission, lead generation and conversion, marketing, setting appointments, listings and buyer presentations, agent and affiliate referrals, reviews, and ‘clients for life.’ I look forward to spending time with you in our small group webinar.
 
