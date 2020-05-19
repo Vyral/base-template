@@ -20,7 +20,7 @@ youtube_code: j_0mbX58Qps
 
 {% include youtube.html %}
 
-Serafin Family Dentistry will bring a (refined) smile to your face.
+<p style="text-align: center;"><em>Serafin Family Dentistry will bring a (refined) smile to your face.</em></p>
 
 For this edition of our Brand Ambassador spotlight, I’m joined by Dr. Tamara Shore to learn more about Serafin Family Dentistry and their spot here in the Carlisle community.&nbsp;
 
