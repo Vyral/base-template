@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/05-15-keller-youtube.jpg
-youtube_code: i6LqZKiRVXI
+youtube_code: Jhta0FAdgaQ
 ---
 
 {% include youtube.html %}
