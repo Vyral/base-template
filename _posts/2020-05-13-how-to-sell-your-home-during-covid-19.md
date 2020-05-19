@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Sell Your Home During COVID- 19
+title: How to Sell Your Home During COVID-19
 date: 2020-05-13 00:00:00
 tags:
   - Real Estate
