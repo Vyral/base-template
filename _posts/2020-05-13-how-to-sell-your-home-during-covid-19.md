@@ -5,7 +5,8 @@ date: 2020-05-13 00:00:00
 tags:
   - Real Estate
 excerpt: Our goal is to help serve your real estate needs no matter what.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/How+to+Sell+Your+Home+During+COVID-19.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
