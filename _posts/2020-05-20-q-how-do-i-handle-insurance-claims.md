@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: How Do I Handle Insurance Claims?'
-date: 2020-05-20 16:42:48
+date: 2020-05-20 16:42:00
 tags:
   - Real Estate
 excerpt: Here’s how to handle insurance claims as a rental property owner.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Do+I+Handle+Insurance+Claims_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
