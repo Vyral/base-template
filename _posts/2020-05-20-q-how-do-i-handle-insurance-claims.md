@@ -17,6 +17,6 @@ youtube_code: WF9V7U9tIlw
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how to handle insurance claims as a rental property owner.</p>
+<p style="text-align:center"><em>Here’s how to handle insurance claims as a rental property owner.</em></p>
 
 Today’s message is all about insurance claims and what to do if damage happens. If you’re turning your house into a rental property, you should have renter’s insurance, homeowner’s insurance, and loss of rent insurance. Water damage is the most frequent type of damage to a home, and it usually happens when there’s a leak. A valve could fail, or a tub or toilet overflows and then you have a water problem. However, water damage isn’t the only type to be concerned about. To learn more about insurance claims and damage, watch the short video above.
