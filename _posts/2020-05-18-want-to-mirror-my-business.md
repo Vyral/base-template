@@ -8,7 +8,8 @@ tags:
   - Listing Presentation
   - Transaction Management
 excerpt: 'We’re hosting a Mirror My Business webinar, so come learn from us!'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Want+to+Mirror+My+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
