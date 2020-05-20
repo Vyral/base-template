@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Buying Foreclosure & Short Sale Homes
-date: 2020-05-19 18:34:16
+date: 2020-05-19 18:34:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -25,10 +25,10 @@ One of the main problems that we run into with clients who are in the market for
 
 Also, remember that **when making an offer on a home that’s been occupied by the seller, the owner has to provide a seller’s disclosure.** This report will give you a summary of the property’s condition from the seller’s standpoint. A foreclosed home will not have a seller’s disclosure statement, since the bank that owns it never occupied it; you won’t get any inside information about the condition of the home you’re buying.
 
-{% include pullquote.html %}
-
 **Sometimes repairs are needed on short sale and foreclosure homes.** Banks don’t usually want to spend more money to make those repairs, so you might have to pay for them yourself. If the bank allows you to make the repairs before the closing, then we could do an escrow holdback.&nbsp;
 
-There are a few ways you can get around some of these barriers, but it’s important to consider these points if you’re thinking of purchasing a foreclosed or short sale home. Even still, **buying one could still be a great way to get a property for well under market value**, whether it be for your primary residence or investment property.
+{% include pullquote.html %}
 
-If you have any questions, don’t hesitate to reach out to us. We’d love to help you better understand what you’re getting into.
+There are a few ways you can get around some of these barriers, but it’s important to consider these points if you’re thinking of purchasing a foreclosed or short sale home. Even still, **buying one could be a great way to get a property for well under market value**, whether it be for your primary residence or investment property.
+
+If you have any questions, don’t hesitate to reach out to us. We’d love to help you.
