@@ -7,7 +7,7 @@ tags:
   - Lead Generation
   - Listing Presentation
   - Transaction Management
-excerpt: 'We’re hosting a Mirror My Business webinar, so come learn from us!'
+excerpt: 'We’re hosting a "Mirror My Business" webinar, so come learn from us!'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Want+to+Mirror+My+Business_.mp4
 pullquote:
@@ -20,7 +20,7 @@ youtube_code: xgpeSgm7hWE
 
 {% include youtube.html %}
 
-<center><em>We&rsquo;re hosting a Mirror My Business webinar, so come learn from us!</em></center>
+<center><em>We&rsquo;re hosting a "Mirror My Business" webinar, so come learn from us!</em></center>
 
 <br>Want to mirror my business? Now you can\! I’ve been in the real estate business for 19 years, and for the first time, **I’m offering a three-hour “Mirror My Business” workshop**. I want to share our successful practices with you.
 
