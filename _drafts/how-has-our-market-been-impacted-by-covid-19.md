@@ -17,6 +17,8 @@ youtube_code: XsyXJLhiecs
 
 {% include youtube.html %}
 
-How has the market been doing since the outbreak of COVID-19? How does the governor’s decision to change our state’s outbreak status from orange to yellow affect real estate and how we perform our business?
+<center><em>Find out what Utah moving from orange to yellow means for real estate.</em></center>
+
+<br>How has the market been doing since the outbreak of COVID-19? How does the governor’s decision to change our state’s outbreak status from orange to yellow affect real estate and how we perform our business?
 
 In terms of the market, the big picture is that **we’ve had a lot of pent up demand in Utah**, specifically in the Wasatch Front. We still have very little inventory. Due to COVID-19, we had about 700 fewer listings this April compared to April 2019, which in turn lowered the average days on market for our area.
