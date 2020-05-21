@@ -19,7 +19,7 @@ youtube_code: 8gWLrNseviQ
 
 {% include youtube.html %}
 
-What’s going on in the real estate market since the pandemic hit in mid-March?
+<p style="text-align: center;"><em>What’s going on in the real estate market since the pandemic hit in mid-March?</em></p>
 
 We’re still seeing a lot of multiple-offer situations, and there are several reasons for that. As a result of the lack of liquidity in the mortgage market, interest rates soared up to the mid-fours in March, and now they’re back down into the mid-threes. Currently, many buyers have more certainty regarding their employment than they did in March, which means there are more of them entering the market pool.
 
