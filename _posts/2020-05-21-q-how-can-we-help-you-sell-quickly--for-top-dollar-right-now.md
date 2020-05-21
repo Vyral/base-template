@@ -24,11 +24,11 @@ youtube_code: pZLeB3NdUcA
 
 &nbsp;
 
-Many things have changed over the past few months, especially the amount of time people have been staying inside their homes. Due to the pandemic, people have been keeping safe by staying indoors and completing long-overdue DIY projects.&nbsp;
-
-{% include pullquote.html %}
+Many things have changed over the past few months, especially the amount of time people have been staying inside their homes. Due to the pandemic, people have been keeping safe by staying indoors and completing long-overdue DIY projects.
 
 **If you’ve realized that you’re ready to upsize and sell your home but aren’t sure whether it’s the right time, Jeff Cook Real Estate can help.** One of the main differences we’ve noticed is that people are viewing this as temporary and aren’t as fearful of spending their money. Families continue to buy and sell throughout the lockdown because they see the benefit of having a new home.&nbsp;
+
+{% include pullquote.html %}
 
 With so many new listings hitting the market, **it’s important to make sure you have the right tools to help your home stand out from the crowd.** Jeff Cook Real Estate’s brand recognition could be the just the right next step to selling your home quickly and for top dollar. This past April, the average home sale price in Charleston was $290,000, which is a 7% increase compared to last year.&nbsp;
 
