@@ -11,7 +11,7 @@ enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Kristin+Jamieson/Videos/Buying+Foreclosure+%26+Short+Sale+Homes.mp4
 pullquote: >-
   A foreclosed home will not have a seller’s disclosure statement since the bank
-  that owns it never occupied it.
+  that owns it has never occupied the property.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,11 +21,11 @@ youtube_code: d1oFFxfvlx0
 
 {% include youtube.html %}
 
-One of the main problems that we run into with clients who are in the market for short sale and foreclosure homes is the utility cost. **At the time of the appraisal inspection, it is required that the utilities be on in the property** so that the inspector can make sure the home is safe, sound, and habitable.&nbsp;
+One of the main problems that we run into with clients who are in the market for short sale and foreclosure homes is the utilities. **At the time of the appraisal inspection, it is required that the utilities be on in the property** so that the inspector can make sure the home is safe, sound, and habitable.&nbsp;
 
-Also, remember that **when making an offer on a home that’s been occupied by the seller, the owner has to provide a seller’s disclosure.** This report will give you a summary of the property’s condition from the seller’s standpoint. A foreclosed home will not have a seller’s disclosure statement, since the bank that owns it never occupied it; you won’t get any inside information about the condition of the home you’re buying.
+Also, remember that **when making an offer on a home that’s been occupied by the seller, the owner has to provide a seller’s disclosure.** This report will give you a summary of the property’s condition from the seller’s standpoint. A foreclosed home will not have a seller’s disclosure statement, since the bank that owns it has never occupied the property. You won’t get any inside information about the condition of the home you’re buying.
 
-**Sometimes repairs are needed on short sale and foreclosure homes.** Banks don’t usually want to spend more money to make those repairs, so you might have to pay for them yourself. If the bank allows you to make the repairs before the closing, then we could do an escrow holdback.&nbsp;
+**Sometimes repairs are needed on short sale and foreclosure homes.** Banks don’t usually want to spend more money to make those repairs, so you might have to pay for them yourself.
 
 {% include pullquote.html %}
 
