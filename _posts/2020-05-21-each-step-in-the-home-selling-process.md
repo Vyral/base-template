@@ -17,7 +17,7 @@ youtube_code: lhE5HCprKO0
 
 {% include youtube.html %}
 
-This is each step in the home selling process so you know what to expect.
+<p style="text-align: center;"><em>This is each step in the home selling process so you know what to expect.</em></p>
 
 Today I’m explaining each step in the home selling process so you know what to expect when it comes time to sell your house.&nbsp;
 
