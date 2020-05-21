@@ -19,7 +19,7 @@ youtube_code: OfwG-I8YFS8
 
 {% include youtube.html %}
 
-<center><em>Are we headed into a recession like the one back in 2007? Here’s what you need to know.</em></center>
+<center><em>Are we headed into a recession like the one back in 2007? Here&rsquo;s what you need to know.</em></center>
 
 <br>As we continue to keep our clients and friends up to date with the latest goings-on in our market, we’ve been hearing a lot of people asking if we’re headed into a recession. Our friends over at eXp just had their shareholder meeting, and they provided a lot of great data to help answer that question.
 
