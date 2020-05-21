@@ -11,6 +11,8 @@ custom_links:
     url: /hiring-process
   - title: Freebies + Events
     url: /freebies
+  - title: Workshop
+    url: https://docs.google.com/document/d/16nn8rIXHSiXpS7DNlPJJvm50XI5KXHg7Vtx056t_Ueg/edit
   - title: Contact
     url: /contact
   # - title: Apply Now
