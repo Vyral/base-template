@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: All the stats on how COVID-19 has affected our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/How+Is+COVID-19+Affecting+Our+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
