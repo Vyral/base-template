@@ -20,7 +20,10 @@ youtube_code: pZLeB3NdUcA
 
 {% include youtube.html %}
 
-*Despite the pandemic, we have the tools to help you sell quickly and for top dollar. *
+<center><em> Despite the pandemic, we have the tools to help you sell quickly and for top dollar. </center></em>
+
+
+&nbsp;
 
 Many things have changed over the past few months, especially the amount of time people have been staying inside their homes. Due to the pandemic, people have been keeping safe by staying indoors and completing long-overdue DIY projects.&nbsp;
 
