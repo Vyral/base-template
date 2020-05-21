@@ -20,7 +20,8 @@ youtube_code: pZLeB3NdUcA
 
 {% include youtube.html %}
 
-<center><em> Despite the pandemic, we have the tools to help you sell quickly and for top dollar.</center></em>
+<center><em> Despite the pandemic, we have the tools to help you sell quickly and for top dollar. </em></center>
+
 
 
 &nbsp;
