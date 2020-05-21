@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can We Help You Sell Quickly & For Top Dollar Right Now?'
-date: 2020-05-21 20:47:20
+date: 2020-05-21 20:47:00
 tags:
 excerpt: >-
   Despite the pandemic, we have the tools to help you sell quickly and for top
@@ -13,16 +13,14 @@ pullquote: >-
   step to selling your home quickly and for top dollar.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/5-21-20yt-1.jpg
 youtube_code: pZLeB3NdUcA
 ---
 
 {% include youtube.html %}
 
-<center><em> Despite the pandemic, we have the tools to help you sell quickly and for top dollar. </em></center>
-
-
+<center><em>Despite the pandemic, we have the tools to help you sell quickly and for top dollar. </em></center>
 
 &nbsp;
 
