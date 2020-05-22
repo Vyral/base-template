@@ -17,7 +17,7 @@ youtube_code: DV03aqwM034
 
 {% include youtube.html %}
 
-I host a radio show each Monday that’s a great real estate resource.
+<p style="text-align: center;"><em>I host a radio show each Monday that’s a great real estate resource.</em></p>
 
 I want to tell you about a radio show I’ve been conducting for about a year now on KENI 650 on iHeartRadio; it’s called Alaska Top Agent. If you would like to check out the show, it’s on Monday at 2 p.m., though it doesn’t always come on right at that exact moment, so be sure to wait a few minutes. **It’s a 30-minute program** that follows The Sean Hannity Show. Our show is a wonderful resource for any type of real estate transaction.&nbsp;
 
