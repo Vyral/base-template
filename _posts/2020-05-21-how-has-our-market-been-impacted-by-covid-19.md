@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Find out what Utah moving from orange to yellow status means for real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+Our+Market+Been+Impacted+by+COVID-19_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
