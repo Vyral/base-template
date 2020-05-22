@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Episode #3: Navigating Adversities with Dr. Mark Sweeney'
-date:
+date: 2020-05-22 20:11:21
 tags:
   - Real Estate
 excerpt: >-
