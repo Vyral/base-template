@@ -5,7 +5,7 @@ date: 2020-05-22 21:09:27
 tags:
   - Real Estate
 excerpt: Here are the three steps you should take to buy a home during COVID-19.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4
 pullquote: You need to know what your budget and parameters are.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,7 @@ youtube_code: XJc053nz6I8
 
 {% include youtube.html %}
 
-Here are the three steps you should take to buy a home during COVID-19.
+<p style="text-align: center;"><em>Here are the three steps you should take to buy a home during COVID-19.</em></p>
 
 This question is on many people’s minds right now: “I want to buy a home, but how can I do it during a pandemic?” I’m sharing three easy steps you can take to get this done in 2020.&nbsp;
 
