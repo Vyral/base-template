@@ -30,7 +30,7 @@ Many things have changed over the past few months, especially the amount of time
 
 {% include pullquote.html %}
 
-With so many new listings hitting the market, **it’s important to make sure you have the right tools to help your home stand out from the crowd.** Jeff Cook Real Estate’s brand recognition could be the just the right next step to selling your home quickly and for top dollar. This past April, the average home sale price in Charleston was $290,000, which is a 7% increase compared to last year.&nbsp;
+With so many new listings hitting the market, **it’s important to make sure you have the right tools to help your home stand out from the crowd.** Jeff Cook Real Estate’s brand recognition could be the just the right next step to selling your home quickly and for top dollar. In April, the average home sale price in Charleston was $290,000, which is a 7% increase compared to last year.&nbsp;
 
 The main way the pandemic has affected the real estate industry in how we do business. Real estate experts everywhere have had to rethink their buying and selling process in order to continue serving their community safely. Our team has changed the way we interact with our clients and push each deal to a close. The safety measures we’ve implemented have made it possible to continue helping clients in our community buy or sell homes.&nbsp;
 
