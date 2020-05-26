@@ -18,7 +18,7 @@ client:
     The team consists of a listing department, buyer department, inside sales, and an administrative group that includes marketing, listing and transaction management. Oggie has an associate degree in Business and Finance. He was Rookie of the year in his first year in the business, and has sold nearly 100 million to-date.  Currently Oggie is ranked in the TOP 1% in the Phoenix market.
   market: Phoenix
   brand: Penev Realty Advisors
-  brokerage:
+  brokerage: exp Realty
   address: 8755 E Bell Rd. 107 <br> Scottsdale, AZ 85260
   phone: 602-362-8828
   phone_type:
@@ -94,7 +94,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 65
+  logo_width_number: 70
   hero_text: -- MARKET -- Real Estate Video Blog<br>Buy, Sell, Invest
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
