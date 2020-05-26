@@ -13,6 +13,6 @@ youtube_alternate_image: /uploads/05-14-colemere-youtube.jpg
 youtube_code: bEO2-gsM35c
 ---
 
-{% include youtube.html %}These technologies we’re discussing will keep your home and family safer.
+{% include youtube.html %}<center>These technologies we’re discussing will keep your home and family safer.</center>
 
 We hope you and your family are staying safe during this pandemic. We wanted to share some information about technology you can add to your home that will make your family safer and help you avoid future damage. These technologies are easy to set up, and many can be ordered online. Our first suggestion is to install water sensors. Water damage is one of the most common claims on homeowners insurance. To learn more about technology that can keep your house and family safe, watch the short video above.
