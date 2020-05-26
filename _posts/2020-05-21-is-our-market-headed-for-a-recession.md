@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Are we headed for a recession like the one back in 2007? Here’s what you need
   to know.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/Is+Our+Market+Headed+for+a+Recession_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
