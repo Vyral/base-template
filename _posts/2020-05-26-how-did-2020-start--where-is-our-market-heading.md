@@ -5,7 +5,8 @@ date: 2020-05-26 18:49:19
 tags:
   - Market Update
 excerpt: Here’s how the first quarter of 2020 panned out for our Flathead market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+1st+Quarter+Market+Report.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 4uHbgcCwqu4
 
 {% include youtube.html %}
 
-Here’s how the first quarter of 2020 panned out for our Flathead market.
+<p style="text-align: center;"><em>Here’s how the first quarter of 2020 panned out for our Flathead market.</em></p>
 
 Today I’m excited to share with you the Flathead market summary for the first quarter of 2020. Though we’re nearing the end of May, I wanted to wait until I had all of the numbers available for the surrounding areas before I presented this recap of Q1.&nbsp;
 
