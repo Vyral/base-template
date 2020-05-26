@@ -36,6 +36,6 @@ The National Association of Realtors has released their annual report of Home Bu
 
 Well that’s a lot of numbers to digest, and that’s officially a wrap.&nbsp; In real estate it pays to hire a professional who knows their market.&nbsp; It’s great to have a look at national numbers, but a true real estate professional is a local economist.&nbsp; They’ll know the local trends to help you capitalize on the sale price and speed of sale for your home.&nbsp;
 
-&nbsp;
+[![](/uploads/capture11.PNG){: width="317" height="855"}](https://www.nar.realtor/infographics/2019-profile-of-home-buyers-sellers)
 
-[![](/uploads/2019-profile-of-home-buyers-and-sellers-infographic-11-12-2018-2472w-6645h.png){: width="2472" height="6645"}](https://www.nar.realtor/infographics/2019-profile-of-home-buyers-sellers)
+&nbsp;
