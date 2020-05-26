@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The National Profile of Home Sellers
-date: 2020-05-26 15:15:54
+date: 2020-05-26 15:15:00
 tags:
 excerpt: Today we’re going to cover the NAR’s 2019 profile of home sellers.
 enclosure: >-
@@ -35,3 +35,7 @@ The National Association of Realtors has released their annual report of Home Bu
 • The average home owner lived in the home they sold for 10 years.&nbsp;
 
 Well that’s a lot of numbers to digest, and that’s officially a wrap.&nbsp; In real estate it pays to hire a professional who knows their market.&nbsp; It’s great to have a look at national numbers, but a true real estate professional is a local economist.&nbsp; They’ll know the local trends to help you capitalize on the sale price and speed of sale for your home.&nbsp;
+
+&nbsp;
+
+[![](/uploads/2019-profile-of-home-buyers-and-sellers-infographic-11-12-2018-2472w-6645h.png){: width="2472" height="6645"}](https://www.nar.realtor/infographics/2019-profile-of-home-buyers-sellers)
