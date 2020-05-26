@@ -19,7 +19,7 @@ youtube_code: 7ILhCefxAbE
 
 {% include youtube.html %}
 
-It's a great time to buy or sell, and here are the numbers to prove it.
+<p style="text-align: center;"><em>It's a great time to buy or sell, and here are the numbers to prove it.</em></p>
 
 In our previous message, we discussed the importance of safety measures for buyers and sellers in our marketplace amid COVID-19. Let’s now discuss some of the numbers released from our MLS for April and heading into May.&nbsp;
 
