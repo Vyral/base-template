@@ -18,15 +18,11 @@ youtube_code: gAW-Kl-j39c
 
 {% include youtube.html %}
 
-We’re joined today by Matt Baker, president of Coldwell Banker Burnet. He’s a rockstar and a Twin Cities real estate icon.&nbsp;
-
-Matt’s helped guide our company to where it is today, and he offered his predictions about the future. **He’s extremely optimistic about real estate for a few different reasons.**&nbsp;
-
-For one, homeownership is a bedrock of the community. There are so many great reasons to live here, too. For the next few years, **Matt expects our real estate market to remain strong despite the current housing shortage.&nbsp;**
+We’re joined today by Matt Baker, president of Coldwell Banker Burnet. He’s a rockstar and a Twin Cities real estate icon.
 
 {% include pullquote.html %}
 
-Another reason Matt has joined us today? Coldwell Banker just rolled out a fabulous new program called RealVitalize. One thing that really overwhelms home sellers is all of the different things they can do to enhance their home’s value and make sure they don’t leave money on the table.&nbsp;
+The reason Matt has joined us today? Coldwell Banker just rolled out a fabulous new program called RealVitalize. One thing that really overwhelms home sellers is all of the different things they can do to enhance their home’s value and make sure they don’t leave money on the table.&nbsp;
 
 They want to make repairs, but many don’t know who should do them or how they will pay for them. **With this program, we’ll help you make the repairs without taking a dime out of your pocket until the home is actually closed.&nbsp;**
 
