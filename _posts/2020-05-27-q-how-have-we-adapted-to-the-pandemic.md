@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Q: How Have We Adapted to the Pandemic?'
-date:
+date: 2020-05-27 20:13:56
 tags:
   - Real Estate
 excerpt: >-
   Here’s how we’ve adapted your real estate experience to keep you safe and
   satisfied during the pandemic.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Q-+How+Have+We+Adapted+to+the+Pandemic_.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Q-+How+Have+We+Adapted+to+the+Pandemic_.mp4
 pullquote: Let us put our new virtual marketing to work for you
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 7j2OFV3Y8Vw
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how we’ve adapted your real estate experience to keep you safe and satisfied during the pandemic.</em></p>
+*Here’s how we’ve adapted your real estate experience to keep you safe and satisfied during the pandemic.*
 
 During these times of uncertainty, we’re excited to offer you the newly updated marketing strategy that allows us to adhere to all social distancing and CDC recommendations to provide you and your family with a safe, stress-free experience.&nbsp;
 
