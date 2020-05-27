@@ -17,7 +17,7 @@ youtube_code: vc7zkaXLzPA
 
 {% include youtube.html %}
 
-*Here are the three steps you should take to buy a home during COVID-19.*
+<p style="text-align: center;"><em>Here are the three steps you should take to buy a home during COVID-19.</em></p>
 
 This question is on many people’s minds right now: “I want to buy a home, but how can I do it during a pandemic?” I’m sharing three easy steps you can take to get this done in 2020.&nbsp;
 
