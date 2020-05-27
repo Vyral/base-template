@@ -5,7 +5,7 @@ date: 2020-05-27 20:47:05
 tags:
   - Real Estate
 excerpt: Here’s how we’re still conducting business during the pandemic.
-enclosure:
+enclosure:https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4
 pullquote: 'Even during the health crisis, life is still happening.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +16,8 @@ youtube_code: nK4GN_QQI5s
 
 {% include youtube.html %}
 
-Here’s how we’re still conducting business during the pandemic.
+<p style="text-align: center;"><em>
+Here’s how we’re still conducting business during the pandemic.</em></p>
 
 Today I’m answering a couple of questions we keep getting asked during the pandemic. First, **yes, we’re still doing business.** We’re using photos, virtual videos, and floorplans to view properties. If the house is vacant, I can go to the property and do FaceTime calls with clients so they can see a live tour.&nbsp;
 
