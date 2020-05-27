@@ -13,6 +13,8 @@ custom_links:
     url: 'http://woodallrealtygroup.com/'
   - title: Property Management
     url: 'http://www.ironhorsepropertymanagement.com/'
+  - title: Events
+    url: 'https://www.eventbrite.com/o/justin-woodall-30371704060'
 client:
   name: Justin Woodall
   license_number:
