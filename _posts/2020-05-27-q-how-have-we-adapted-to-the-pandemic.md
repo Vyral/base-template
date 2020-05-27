@@ -19,7 +19,7 @@ youtube_code: 7j2OFV3Y8Vw
 
 {% include youtube.html %}
 
-*Here’s how we’ve adapted your real estate experience to keep you safe and satisfied during the pandemic.*
+<p style="text-align: center;"><em>Here’s how we’ve adapted your real estate experience to keep you safe and satisfied during the pandemic.</em></p>
 
 During these times of uncertainty, we’re excited to offer you the newly updated marketing strategy that allows us to adhere to all social distancing and CDC recommendations to provide you and your family with a safe, stress-free experience.&nbsp;
 
