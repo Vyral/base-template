@@ -23,7 +23,7 @@ youtube_code: 7ILhCefxAbE
 
 In our previous message, we discussed the importance of safety measures for buyers and sellers in our marketplace amid COVID-19. Let’s now discuss some of the numbers released from our MLS for April and heading into May.&nbsp;
 
-One of the most notable changes is what’s been happening with the inventory. Heading into this pandemic, inventory levels were already very low; the latest data shows that **inventory is getting***** even lower—*****down 25% year over year.** Listing numbers, however, are still pretty high, which is great news for buyers and sellers. Last month, we had over 6,000 listings put on the market, and though this is down from last year, it’s still indicative of a fairly robust market.&nbsp;
+One of the most notable changes is what’s been happening with the inventory. Heading into this pandemic, inventory levels were already very low; the latest data shows that <strong>inventory is getting <em>even lower—</em>down 25% year over year.</strong> Listing numbers, however, are still pretty high, which is great news for buyers and sellers. Last month, we had over 6,000 listings put on the market, and though this is down from last year, it’s still indicative of a fairly robust market.&nbsp;
 
 There were 2,800 pending sales last month, amounting to just a 5% year-over-year decrease. Settlement sales totaled 2,500, which is about the same as last year, and new construction is actually up year over year with 293 units built last month.&nbsp;
 
