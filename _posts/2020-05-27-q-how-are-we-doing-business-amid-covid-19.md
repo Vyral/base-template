@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Are We Doing Business Amid COVID-19?'
-date:
+date: 2020-05-27 20:47:05
 tags:
   - Real Estate
 excerpt: Here’s how we’re still conducting business during the pandemic.
