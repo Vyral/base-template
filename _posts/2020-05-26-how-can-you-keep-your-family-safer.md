@@ -16,4 +16,6 @@ youtube_code: bEO2-gsM35c
 
 {% include youtube.html %}
 
-We hope you and your family are staying safe during this pandemic. We wanted to share some information about technology you can add to your home that will make your family safer and help you avoid future damage. These technologies are easy to set up, and many can be ordered online.
+<center><em>These technologies will keep your home and family safer.</em></center>
+
+<br>We hope you and your family are staying safe during this pandemic. We wanted to share some information about technology you can add to your home that will make your family safer and help you avoid future damage. These technologies are easy to set up, and many can be ordered online.
