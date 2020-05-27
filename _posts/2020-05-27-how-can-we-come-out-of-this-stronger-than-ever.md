@@ -17,7 +17,7 @@ youtube_code: wcTdE6im1ho
 
 {% include youtube.html %}
 
-When the world gets flipped upside down, priorities become clearer.
+<p style="text-align: center;"><em>When the world gets flipped upside down, priorities become clearer.</em></p>
 
 I hope you and your family are safe and can continue to stay healthy as we endure COVID-19. Like all of you, I’m just taking things one day at a time, hoping for positive news on the health front.&nbsp;&nbsp;
 
