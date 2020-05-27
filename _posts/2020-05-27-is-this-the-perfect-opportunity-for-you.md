@@ -5,7 +5,8 @@ date: 2020-05-27 17:36:33
 tags:
   - Career
 excerpt: 'If you’re looking to take your career to the next level, look no further.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2020/Dan+Jones+Home+Selling+Team-+join+our+team+with+captions.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: QS9y4kFJaTY
 
 {% include youtube.html %}
 
-If you’re looking to take your career to the next level, look no further.
+<p style="text-align: center;"><em>If you’re looking to take your career to the next level, look no further.</em></p>
 
 We wanted to reach out to you today in case you wanted to take your real estate career to the next level. We’d love to have a confidential conversation about your goals and the opportunities that you can have on our team.
 
