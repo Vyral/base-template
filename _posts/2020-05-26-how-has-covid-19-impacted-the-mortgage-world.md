@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Has COVID-19 Impacted the Mortgage World?
-date: 2020-05-27 00:00:00
+date: 2020-05-26 00:00:00
 tags:
   - Real Estate
   - Market Update
