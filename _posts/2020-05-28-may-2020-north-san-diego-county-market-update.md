@@ -8,7 +8,8 @@ excerpt: >-
   I’m sharing your latest real estate market update for North San Diego County
   and a bit of insight into how the Covid-19 Pandemic is affecting home sales
   and values.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Casey+Cooke/Your+Latest+North+San+Diego+County+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
