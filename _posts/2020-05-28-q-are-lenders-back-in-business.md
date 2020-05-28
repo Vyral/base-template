@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Are Lenders Back in Business?'
-date:
+date: 2020-05-28 17:27:26
 tags:
 excerpt: 'Now that the state is opening back up, lenders are getting back to work.'
 enclosure: >-
