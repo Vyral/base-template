@@ -17,4 +17,6 @@ youtube_code: J8FnFRrXeF4
 
 {% include youtube.html %}
 
-We were pleasantly surprised at the response last week in the real estate market as more and more businesses opened back up. We listed four houses last weekend and had a total of 85 showings. We didn’t expect such a response so soon, and more people are getting anxious to take advantage of pent-up demand and low interest rates. **We only expect it to get busier from here** as we continue to follow the state’s guidelines for our listings.
+<center><em>More businesses are opening back up, and real estate is seeing a surge.</em></center>
+
+<br>We were pleasantly surprised at the response last week in the real estate market as more and more businesses opened back up. We listed four houses last weekend and had a total of 85 showings. We didn’t expect such a response so soon, and more people are getting anxious to take advantage of pent-up demand and low interest rates. **We only expect it to get busier from here** as we continue to follow the state’s guidelines for our listings.
