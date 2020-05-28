@@ -7,7 +7,8 @@ tags:
   - Market Update
   - Home Buyer Tips
 excerpt: COVID-19 has changed the mortgage industry. Find out how here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/How+Has+COVID-19+Impacted+the+Mortgage+World_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
