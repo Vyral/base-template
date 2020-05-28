@@ -5,6 +5,7 @@ date: 2020-05-26 00:00:00
 tags:
   - Real Estate
   - Market Update
+  - Home Buyer Tips
 excerpt: COVID-19 has changed the mortgage industry. Find out how here.
 enclosure:
 pullquote:
