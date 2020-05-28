@@ -5,7 +5,7 @@ date: 2020-05-27 20:47:05
 tags:
   - Real Estate
 excerpt: Here’s how we’re still conducting business during the pandemic.
-enclosure:https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4
 pullquote: 'Even during the health crisis, life is still happening.'
 enclosure_type: video/mp4
 enclosure_time:
