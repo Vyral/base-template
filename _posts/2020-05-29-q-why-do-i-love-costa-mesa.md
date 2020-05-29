@@ -16,7 +16,8 @@ youtube_code: 3I-Xr5g1Kxo
 
 {% include youtube.html %}
 
-*I’m sharing the top five reasons to love Costa Mesa.*
+<center><em>I’m sharing the top five reasons to love Costa Mesa.</em></center>
+&nbsp;
 
 I’m excited to share the five main reasons I love Costa Mesa, California. It has much more than wonderful weather and the yearly Orange County Fair (though those are great too).
 
