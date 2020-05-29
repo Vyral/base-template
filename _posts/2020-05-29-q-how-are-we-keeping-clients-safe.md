@@ -17,6 +17,6 @@ youtube_code: r2rGG3rROi4
 
 {% include youtube.html %}
 
-I’m sharing our methods for keeping clients healthy amid COVID-19.
+<p style="text-align:center">I’m sharing our methods for keeping clients healthy amid COVID-19.</p>
 
 Today I’m sharing some of the protocols we’ve put in place to combat the pandemic. We’re doing showings via video on a variety of platforms so tenants don’t need to be there in person. However, if they insist on seeing it physically or with an agent, we open the doors for them, walk away to give them privacy, and everyone wears masks and gloves. We try not to do face-to-face interactions, but if for some reason we need to, we keep six feet of distance between us. All the property managers that work for us know our protocols and will enforce them. To learn more about how we’re keeping everyone healthy, watch the short video above.&nbsp;
