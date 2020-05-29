@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: Why Do I Love Costa Mesa?'
-date: 2020-05-29 19:32:26
+date: 2020-05-29 19:32:00
 tags:
 excerpt: I’m sharing the top five reasons to love Costa Mesa.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2020/5+Reasons+People+Love+Costa+Mesa.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
