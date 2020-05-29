@@ -90,7 +90,7 @@ images:
   logo_width_number: 65
   hero_text: Casey Cooke - Coldwell Banker Realty
   hero_background_hex: '#094264'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /uploads/transparent-blue-big.png
 site_colors:
   brand_color: '#1d304f'
   theme_color: '#14202e'
