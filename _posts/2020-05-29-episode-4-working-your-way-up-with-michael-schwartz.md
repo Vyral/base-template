@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Episode #4: Working Your Way Up with Michael Schwartz'
-date: 2020-05-29 18:31:54
+date: 2020-05-29 18:31:00
 tags:
   - Home Buyer Tips
   - Market Update
@@ -18,12 +18,7 @@ enclosure: >-
   business story of Michael Shwartz, Vice President of Priority Title, and
   explore the quintessential road to success. What does it look like and how do
   you know that you’re still on track?
-pullquote: >-
-  There’s one common denominator for all kinds of business: learning never
-  stops. This week on Level Up With Rosie Hayer, we delve into the inspirational
-  business story of Michael Shwartz, Vice President of Priority Title, and
-  explore the quintessential road to success. What does it look like and how do
-  you know that you’re still on track?
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
