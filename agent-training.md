@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 We’re living in different times, but we’re ready to help you through them. In today’s webinar, we’re going to show you how to use your marketing to increase your profitability in a changing market like this. One great strategy is direct mail. People get so many emails these days that they simply ignore most of them. A physical, personal letter that they receive in their mailbox is simply something they can’t ignore. There are also some great tips on how to use social media to enhance your business’ brand. To hear everything, watch this latest video.
 
-[![](/uploads/marketing-your-way-to-profitability-in-a-changing-market-email-2.jpg){: width="1080" height="620"}](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"}
+[![](/uploads/marketing-your-way-to-profitability-in-a-changing-market-email-2.jpg){: width="980" height="520"}](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"}
 
 ### Previous Webinars:
 
