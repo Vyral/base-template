@@ -8,13 +8,13 @@ excerpt: >-
   I’m sharing your latest real estate market update for North San Diego County
   and a bit of insight into how the Covid-19 Pandemic is affecting home sales
   and values.
-enclosure: 'https://youtu.be/W3bhPa3vThU'
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: W3bhPa3vThU
 ---
 
 {% include youtube.html %}
