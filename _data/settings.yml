@@ -10,7 +10,7 @@ custom_links:
     url:
 client:
   name: Casey Cooke
-  license_number:
+  license_number: 1845539
   about_markdown: >-
     Casey Cooke is a top-producing North San Diego County Realtor. As an expert
     on real estate markets in North San Diego County and the surrounding areas,
@@ -34,7 +34,6 @@ CTAs:
   second_CTA_text: Home Search
   second_CTA_URL: 'https://www.servingnorthcounty.com/homes-for-sale-search/'
   phone_CTA: true
-
 sidebar_CTA:
   CTA_image_path: /img/cta-images/004.jpg
   CTA_title: Looking to Buy a Home?
