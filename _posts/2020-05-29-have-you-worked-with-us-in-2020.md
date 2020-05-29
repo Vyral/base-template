@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Worked With Us in 2020?
-date:
+date: 2020-05-29 18:52:55
 tags:
 excerpt: We want to say a big thank-you to all our clients and agents in 2020.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/05-29-sikes-youtube.jpg
 youtube_code: wd8_SgChBfk
 ---
 
-{% include youtube.html %}<center>We want to say a big thank-you to all our clients and agents in 2020.</center>
+{% include youtube.html %}
+
+<center>We want to say a big thank-you to all our clients and agents in 2020.</center>
+
+&nbsp;
 
 Today we wanted to reach out and say a huge thank-you. First, thank you to our customers and clients who trusted us with their real estate needs in 2020. **We’ve been able to help a record number of families throughout the first half of the year.**&nbsp;
 
