@@ -23,13 +23,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Using Quarantine Time to Prepare for a Post-Coronavirus World** — [Video](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"} — [Resources](https://www.dropbox.com/sh/n0of8tk1wby0b57/AACkABeSwZMGXs1Frth74PYna?dl=0){: target="_blank"}
+**Marketing Your Way to Profitability in a Changing Market** — [Video](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"} — [Resources](https://www.dropbox.com/sh/hjxlv0mquvhm87z/AABTlaXycpnZY0JSaklCnz3Ca?dl=0){: target="_blank"}
 
-Are you ready to hit the ground running when the market finally does take off? The goal of today’s webinar is to show you what you should be doing right now to ensure that you’re prepared to pounce once demand picks back up and things get back to “normal.” Right now is the perfect time to connect, care, and counsel your clients. Developing those relationships now is just one way to ensure that your business starts to soar once social distancing restrictions are lifted.&nbsp;
+We’re living in different times, but we’re ready to help you through them. In today’s webinar, we’re going to show you how to use your marketing to increase your profitability in a changing market like this. One great strategy is direct mail. People get so many emails these days that they simply ignore most of them. A physical, personal letter that they receive in their mailbox is simply something they can’t ignore. There are also some great tips on how to use social media to enhance your business’ brand. To hear everything, watch this latest video.
 
-[![](/uploads/april-core-training-email.jpg){: width="880" height="620"}](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"}
+[![](/uploads/marketing-your-way-to-profitability-in-a-changing-market-email-2.jpg){: width="1280" height="720"}](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"}
 
 ### Previous Webinars:
+
+**Marketing Your Way to Profitability in a Changing Market** — [Video](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"} — [Resources](https://www.dropbox.com/sh/hjxlv0mquvhm87z/AABTlaXycpnZY0JSaklCnz3Ca?dl=0){: target="_blank"}
 
 **Using Quarantine Time to Prepare for a Post-Coronavirus World** — [Video](https://thecoretraining.lpages.co/2020-april-realtor-replay-video/){: target="_blank"} — [Resources](https://www.dropbox.com/sh/n0of8tk1wby0b57/AACkABeSwZMGXs1Frth74PYna?dl=0){: target="_blank"}
 
