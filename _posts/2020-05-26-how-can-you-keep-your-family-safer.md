@@ -5,7 +5,8 @@ date: 2020-05-26 17:44:00
 tags:
   - Real Estate
 excerpt: These technologies will keep your home and family safer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+You+Keep+Your+Family+Safer_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
