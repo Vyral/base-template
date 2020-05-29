@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Wow, this is such a special home with so much to offer, I am so glad we got it
-  sold for the owners in 5 days over list price!
+  sold in 5 days for $11,000 over list price!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
