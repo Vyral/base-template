@@ -8,6 +8,8 @@ show_custom_links: false
 custom_links:
   - title:
     url:
+  - title:
+    url:
 client:
   name: Casey Cooke
   license_number: 1845539
@@ -42,9 +44,9 @@ sidebar_CTA:
   CTA_url: 'https://www.servingnorthcounty.com/homes-for-sale-search/'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for real estate
+    advice. Whether you are a buyer, seller, or investor, our team of
     professionals can answer any questions you might have about real estate.
     Subscribe to this blog to get the latest news on local market trends and
     receive expert tips for buying or selling a home.
@@ -64,7 +66,7 @@ socials:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2
 podcast:
-  title: Pacific Sotheby's International Realty Podcast
+  title: Coldwell Banker Realty - Casey Cooke
   categories:
   image: /img/podcast.png
   subtitle: >-
