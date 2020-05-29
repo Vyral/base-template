@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Episode #3: Navigating Adversities with Dr. Mark Sweeney'
-date: 2020-05-22 20:11:21
+date: 2020-05-22 20:11:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,14 +20,7 @@ enclosure: >-
   Mark Sweeney of Austin Dental Spa joins us in an interesting conversation
   about the lessons that business owners can take away from navigating this
   crisis.
-pullquote: >-
-  Business is not as usual as it was since the shutdown was imposed. Whether
-  you’re brewing a new idea or trying to save a dwindling business model,
-  there’s no doubt that everyone is being pushed to adapt and evolve to the
-  changing economy. On this week's episode of Level Up With Rosie Hayer, Dr.
-  Mark Sweeney of Austin Dental Spa joins us in an interesting conversation
-  about the lessons that business owners can take away from navigating this
-  crisis.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
