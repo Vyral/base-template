@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The National Association of Realtors has released their annual report of Home
   Buyers and Home Sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/+Videos/The+Stern+Team-+The+National+Association+of+Realtors+2019+Profile+of+Homebuyers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: z6d5TgRV5yE
 
 {% include youtube.html %}
 
-The National Association of Realtors has released their annual report of Home Buyers and Home Sellers.&nbsp; There’s some interesting information here that we felt was pertinent and worthy of sharing. We’ll cover this in two parts.&nbsp; First will be the Home Buyers.[https://www.nar.realtor/infographics/a-snapshot-of-todays-home-buyers](https://www.nar.realtor/infographics/a-snapshot-of-todays-home-buyers)
+The National Association of Realtors has released their annual report of Home Buyers and Home Sellers.&nbsp; There’s some interesting information here that we felt was pertinent and worthy of sharing. We’ll cover this in two parts.&nbsp; First will be the [Home Buyers.](https://www.nar.realtor/infographics/a-snapshot-of-todays-home-buyers)
 
 • So The first thing I noticed here was that 78% of non-home owners believe that homeownership is a good financial decision.&nbsp; Not only do I agree, but we can back this up with substantial data.&nbsp; You can google “Homeowners vs Renters net worth” or you can take my research at face value.&nbsp; Homeowner’s net worth is 45 times greater than renters.&nbsp; That’s a big number.&nbsp; Simply put, homeownership is a form of “forced savings” Every time you pay your mortgage, you’re contributing to your net with.&nbsp; Every time you pay your rent, you’re contributing to your landlords net worth.&nbsp;
 
