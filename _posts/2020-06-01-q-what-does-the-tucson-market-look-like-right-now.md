@@ -19,7 +19,7 @@ youtube_code: zdDm5o7fqJM
 
 {% include youtube.html %}
 
-The Tucson real estate market is back on track after a strange spring.
+<p style="text-align:center">The Tucson real estate market is back on track after a strange spring.</p>
 
 We just had our sixth consecutive week of record sales in Tucson. **For four of the last six weeks, we’ve seen more business than we did before the pandemic.**
 
