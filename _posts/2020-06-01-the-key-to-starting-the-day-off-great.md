@@ -18,7 +18,7 @@ youtube_code: LTM7XoDIOlI
 
 {% include youtube.html %}
 
-<center><em>I’m sharing my morning routine, hoping it helps you with yours.</em></center>
+<center><em>I&rsquo;m sharing my morning routine, hoping it helps you with yours.</em></center>
 
 <br>I often get asked about my morning schedule, so today I’m sharing it with you. Years ago, I learned that the most successful people, at least in my business, all had one thing in common: they got up early. To me, early meant 5 a.m., so that’s when I started getting up every day. I quickly noticed that it was a great way to get ahead of my day. Since I enjoy a cup of coffee in the morning, I decided to wake up even earlier—around 4:45 a.m.—to have some coffee, think, and prepare for the day ahead.
 
