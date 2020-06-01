@@ -17,7 +17,7 @@ youtube_code: 5juhTyZjE3o
 
 {% include youtube.html %}
 
-These are the top five things COVID-19 has changed in our market.
+<p style="text-align: center;"><em>These are the top five things COVID-19 has changed in our market.</em></p>
 
 Here to help me today is my daughter, Ali Anne. The pandemic has changed everything in our world, and real estate is no exception. Today I’m discussing the top five effects the health crisis has had on our Charleston real estate market:
 
