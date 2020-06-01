@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/unnamed-7.png
 youtube_code:
 ---
 
-{% include youtube.html %}
-
 I recently read an article about why sellers overprice their homes when listing them for sale.
 
 It’s not fun—planning for your death or mental incapacity and what will happen to your family and finances if something should happen to you\!
