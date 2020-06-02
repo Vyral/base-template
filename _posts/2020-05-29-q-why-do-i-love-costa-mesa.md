@@ -20,7 +20,7 @@ youtube_code: 3I-Xr5g1Kxo
 
 &nbsp;
 
-I’m excited to share the five main reasons I love Costa Mesa, California. It has much more than wonderful weather and the yearly Orange County Fair (though those are great too).
+I’m excited to share the five main reasons I love Costa Mesa, California, one of the many areas I service here in Orange County. It has much more than wonderful weather and the yearly Orange County Fair (though those are great too).
 
 **1\. City of the Arts**. Costa Mesa is known as the “City of the Arts.” The Segerstrom Center for the Performing Arts not only includes a 3,000 person opera-style hall for Broadway musicals, but also a 2,000-person concert hall that brings shows and music to the city. It’s an excellent venue to enjoy the very best of Costa Mesa musical arts.
 
