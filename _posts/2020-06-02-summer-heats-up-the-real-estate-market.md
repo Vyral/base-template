@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summer Heats Up the Real Estate Market
-date: 2020-06-02 21:01:49
+date: 2020-06-02 21:01:00
 tags:
 excerpt:
 enclosure:
