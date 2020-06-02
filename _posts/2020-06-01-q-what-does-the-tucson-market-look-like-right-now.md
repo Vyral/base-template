@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Does the Tucson Market Look Like Right Now?'
-date: 2020-06-01 16:55:37
+date: 2020-06-01 16:55:00
 tags:
   - Market Update
 excerpt: The Tucson real estate market is back on track after a strange spring.
@@ -19,7 +19,7 @@ youtube_code: zdDm5o7fqJM
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>The Tucson real estate market is back on track after a strange spring.</em></p>
+*The Tucson real estate market is back on track after a strange spring.*
 
 We just had our sixth consecutive week of record sales in Tucson. **For four of the last six weeks, we’ve seen more business than we did before the pandemic.**
 
@@ -30,3 +30,7 @@ Our market is recovering quickly as shelter-in-place orders have expired. Typica
 Inventory and interest rates are low, so be ready for some competition if you’re a buyer. If you’re a seller, you can take advantage of this fact and get top dollar for your home.
 
 If you have any questions for me about buying or selling a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+
+[Home Valuation](/homevalue/){: target="_blank"}&nbsp;
+
+[Home Search](/homesearch/){: target="_blank"}
