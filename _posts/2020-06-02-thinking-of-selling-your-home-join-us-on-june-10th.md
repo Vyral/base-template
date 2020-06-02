@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thinking of selling your home? Join us on June 10th!
-date: 2020-06-02 21:56:47
+date: 2020-06-02 12:56:00
 tags:
 excerpt:
 enclosure: >-
@@ -46,4 +46,4 @@ Learn how virtual technology is being deployed to keep sellers safe. Photography
 
 Learn about the process of selling, staging tips, market advice, and many other tips and tricks\! In this class we will go over everything you will need to know about selling your property\!
 
-COVID 19 has changed...everything. So we’re going to take the time to educate the public on the do’s and don’ts of selling your home on the teleconference webinar.&nbsp; Once you’ve registered, you’ll receive the link.&nbsp;
+COVID 19 has changed…everything. So we’re going to take the time to educate the public on the do’s and don’ts of selling your home on the teleconference webinar.&nbsp; Once you’ve registered, you’ll receive the link.&nbsp;
