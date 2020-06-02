@@ -17,7 +17,7 @@ youtube_code: acDB-gcxRuA
 
 {% include youtube.html %}
 
-I’m letting the data speak for itself as I address fears of a housing crash.
+<p style="text-align: center;"><em>I’m letting the data speak for itself as I address fears of a housing crash.</em></p>
 
 The next time someone brings up their concerns about COVID-19 triggering another housing crash like what we experienced in 2008, you can ease their nerves with these five facts:&nbsp;
 
