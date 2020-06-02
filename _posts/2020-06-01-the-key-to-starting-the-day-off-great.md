@@ -34,6 +34,6 @@ Additionally, **I write a post in a closed Facebook group called <u><a target="_
 
 Once I’m through with all that, I’ll connect with my team at 8:15 a.m. to share what we’re grateful for as well as what our intentions and goals are for the day. Then from 9 a.m. to 11 a.m., we work on lead generation.
 
-I’ve found that when you plan out your morning with a powerful, intentional schedule the rest of your day falls into place and you’ll be more positive and ready to connect with others.
+I’ve found that when you plan out your morning with a powerful, intentional schedule, the rest of your day falls into place and you’ll be more positive and ready to connect with others.
 
 **Feel free to reach out to me to share your morning routine\!** If there’s anything I can do to help, don’t hesitate to ask. I’m here for you.
