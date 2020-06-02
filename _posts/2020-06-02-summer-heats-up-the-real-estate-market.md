@@ -4,12 +4,13 @@ title: Summer Heats Up the Real Estate Market
 date: 2020-06-02 21:01:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/2020/The+Market+Is+Heating+Up.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/6-2-20yt.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: '-4bkdOB_9X0'
 ---
 
