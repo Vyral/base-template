@@ -27,6 +27,6 @@ We just had our sixth consecutive week of record sales in Tucson. **For four of 
 
 Our market is recovering quickly as shelter-in-place orders have expired. Typically, the spring is the strongest market of the year, but **our numbers indicate that the summer market of 2020 is the new spring market.&nbsp;**
 
-Inventory and interest rates are low, so be ready for some competitions if you’re a buyer. If you’re a seller, you can take advantage of this fact and get top dollar for your home.
+Inventory and interest rates are low, so be ready for some competition if you’re a buyer. If you’re a seller, you can take advantage of this fact and get top dollar for your home.
 
 If you have any questions for me about buying or selling a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
