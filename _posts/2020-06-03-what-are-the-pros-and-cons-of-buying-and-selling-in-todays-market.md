@@ -17,7 +17,7 @@ youtube_code: XAuGW-GB6wo
 
 {% include youtube.html %}
 
-The decision to get back in the real estate market is a tough one for some.
+<p style="text-align: center;"><em>The decision to get back in the real estate market is a tough one for some.</em></p>
 
 Does it make sense to buy or sell in this market during this crisis? It all comes down to what you feel most comfortable with after weighing all the pros and cons.
 
