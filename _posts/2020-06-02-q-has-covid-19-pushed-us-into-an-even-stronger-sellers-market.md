@@ -3,7 +3,7 @@ layout: post
 title: 'Q: Has COVID-19 Pushed Us Into an Even Stronger Seller’s Market?'
 tags:
   - Real Estate
-date: 2020-06-02 15:15:56
+date: 2020-06-02 15:15:00
 excerpt: The COVID-19 lockdown has turned us into an even stronger seller’s market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Chris+Gorman/Videos/2020/Q-+Has+COVID-19+Pushed+Us+Into+an+Even+Stronger+Sellers+Market_.mp4
@@ -13,13 +13,13 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/5-29---chris-gorman---yt.jpg
+youtube_alternate_image: /uploads/chris-gorman-covid19-impact-on-the-market-yt.jpg
 youtube_code: 'https://youtu.be/BseDC2_AY0g'
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The COVID-19 lockdown has turned us into an even stronger seller’s market.</em></p>
+*The COVID-19 lockdown has turned us into an even stronger seller’s market.*
 
 In the past couple of weeks, my team and I listed a couple of homes that were, in my estimation, slightly overpriced and had several other inherent issues. I expected these homes to take a while to sell and possibly require a price reduction or two.&nbsp;
 
