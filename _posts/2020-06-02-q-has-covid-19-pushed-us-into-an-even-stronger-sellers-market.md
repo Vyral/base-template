@@ -33,6 +33,6 @@ Granted, the fact that a home’s market value will likely far exceed its apprai
 
 On the flip side, **the market you sell in is the market you buy in too, so you need to be ready for the challenges of being a buyer.** It’s uncommon to sell for top dollar and buy at a discount in the very same market. The good news is, interest rates are very low—as low as 3.1% in some cases, which is basically free money. You may have to overpay for a house, but you’ll be able to borrow money at a cheaper rate.
 
-If the market continues on like this, the house you’re thinking of buying now will be even more expensive in a month or two, and competition among other buyers will be just as fierce. There’s no benefit to waiting to buy after you sell. I don’t foresee the market turning around, even if we do enter a recession.&nbsp;
+If the market continues on like this, the house you’re thinking of buying now will be even more expensive in a month or two, and competition among other buyers will be just as fierce. There’s no benefit to waiting to buy after you sell. I don’t foresee the market turning around any time soon, even if we do enter a recession.&nbsp;
 
 So if you are thinking of selling, give me a call and I’d be happy to provide you with a market analysis and let you know what your home will sell for. If you have any other real estate needs, feel free to reach out to me as well. I’m here to help.
