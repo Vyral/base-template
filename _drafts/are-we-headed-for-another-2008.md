@@ -17,4 +17,6 @@ youtube_code: H9klnnXk-bs
 
 {% include youtube.html %}
 
-With talks of an impending recession heating up, people are wondering if we’re headed toward another housing crisis like we saw in 2008. There are a few key differences, however, that show why things are different now than they were then. For example, mortgage lending was extremely loose and easy to obtain back in ‘08. These days, requirements are much more strict.
+<center><em>Are We Headed for Another 2008?</em></center>
+
+<br>With talks of an impending recession heating up, people are wondering if we’re headed toward another housing crisis like we saw in 2008. There are a few key differences, however, that show why things are different now than they were then. For example, mortgage lending was extremely loose and easy to obtain back in ‘08. These days, requirements are much more strict.
