@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/BseDC2_AY0g'
 
 {% include youtube.html %}
 
-*The COVID-19 lockdown has turned us into an even stronger seller’s market.*
+<p style="text-align: center;"><em>The COVID-19 lockdown has turned us into an even stronger seller’s market.</em></p>
 
 In the past couple of weeks, my team and I listed a couple of homes that were, in my estimation, slightly overpriced and had several other inherent issues. I expected these homes to take a while to sell and possibly require a price reduction or two.&nbsp;
 
