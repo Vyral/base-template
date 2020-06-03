@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thinking of selling your home? Join us on June 10th!
+title: Thinking of Selling Your Home? Join Us on June 10th!
 date: 2020-06-02 12:56:00
 tags:
 excerpt:
