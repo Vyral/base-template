@@ -7,7 +7,7 @@ tags:
 excerpt: The decision to get back in the real estate market is a tough one for some.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+pros+and+cons+with+captions.mp4
-pullquote: It comes down to what you’re comfortable with.
+pullquote: It comes down to what you’re comfortable with after weighing the pros and cons.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -23,11 +23,11 @@ Does it make sense to buy or sell in this market during this crisis? It all come
 
 If you wait on the sidelines and decide that you do not want to buy or sell right now, you have the advantage of being able to observe the market in the coming months to wait and see what happens. If you’re a seller who’s waiting, realize that there are a lot of other sellers in the same boat who are waiting just like you.&nbsp;
 
-If you do choose to list now, you’ll have much less competition. **In the 91326 zip code alone, there are only 61 properties for sale out of almost 13,000 single-family units.** Inventory across the San Fernando Valley is really tight.
+If you do choose to list now, you’ll have much less competition. **In the 91326 ZIP code alone, there are only 61 properties for sale out of almost 13,000 single-family units.** Inventory across the San Fernando Valley is really tight.
 
 {% include pullquote.html %}
 
-**If you’re a homebuyer right now, be ready to compete against multiple offers.** Low interest rates are keeping demand very high. We recently had a buyer proved at a rate under 3% for a purchase over $900,000. The competition will only increase from here on out as more buyers feel comfortable getting out there.
+**If you’re a homebuyer right now, be ready to compete against multiple offers.** Low interest rates are keeping demand very high. We recently had a buyer approved at a rate under 3% for a purchase over $900,000. The competition will only increase from here on out as more buyers feel comfortable getting out there.
 
 At the end of the day, it comes down to what you’re comfortable with. **There is no right or wrong answer.** However, right now sellers are getting top dollar, and buyers are having decreased competition compared to what is usually going on at this time of year.
 
