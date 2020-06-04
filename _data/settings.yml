@@ -1,5 +1,5 @@
 audit_header: false
-title: Real Estate in the Real World - Jennie Wolek
+title: Real Estate in the Real World | Jennie Wolek
 description: >-
   Jennie Wolek, a top Real Estate Agent in Tulsa, shares her own internal real
   estate agent training for free. Her Real Estate Training, Tips and Advice will
@@ -31,12 +31,16 @@ client:
   title:
   license_number:
   about_markdown: >-
-    Jennie Wolek and her team, The Wolek Group, help over 100 families a year buy and sell real estate in Tulsa, OK. Most of their business comes from their database or a personal referral.  Jennie shares the systems and tools used by The Wolek Group and also interviews top agents who give insight to their success secrets as well.
+    Jennie Wolek and her team, The Wolek Group, help over 100 families a year
+    buy and sell real estate in Tulsa, OK. Most of their business comes from
+    their database or a personal referral. Jennie shares the systems and tools
+    used by The Wolek Group and also interviews top agents who give insight to
+    their success secrets as well.
   market: Tulsa
   brand: The Wolek Group
   brokerage: Keller Williams Realty
-  address: '2651 E. 21st St 100 Tulsa, OK, 74114'
-  phone: 918-550-9243
+  address: '2651 E 21st St #100<br>Tulsa, OK 74114'
+  phone: (918) 550-9243
   phone_type:
   phone2:
   phone2_type:
