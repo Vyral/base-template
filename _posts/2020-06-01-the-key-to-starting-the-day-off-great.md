@@ -5,7 +5,8 @@ date: 2020-06-01 00:00:00
 tags:
   - Transaction Management
 excerpt: 'I’m sharing my morning routine, hoping it helps you with yours.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/The+Key+to+Starting+the+Day+Off+Great.mp4
 pullquote: >-
   When you plan out your morning with a powerful, intentional schedule, the rest
   of your day falls into place.
