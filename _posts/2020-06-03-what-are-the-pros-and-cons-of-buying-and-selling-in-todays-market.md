@@ -31,4 +31,4 @@ If you do choose to list now, you’ll have much less competition. **In the 9132
 
 At the end of the day, it comes down to what you’re comfortable with. **There is no right or wrong answer.** However, right now sellers are getting top dollar, and buyers are having decreased competition compared to what is usually going on at this time of year.
 
-If you have any questions for me about what’s going on or about anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+If you have questions for me about what’s going on or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
