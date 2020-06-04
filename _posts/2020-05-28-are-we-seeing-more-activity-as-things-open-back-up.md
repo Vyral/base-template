@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'More businesses are opening back up, and real estate is seeing a surge.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/Are+We+Seeing+More+Activity+as+Things+Open+Back+Up_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
