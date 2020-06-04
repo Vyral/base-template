@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Brand Ambassador Spotlight: Tuckey'
+title: 'Brand Ambassador Spotlight: The Tuckey Companies'
 date: 2020-06-04 14:27:55
 tags:
   - Brand Ambassador
 excerpt: >-
-  Our latest brand ambassador highlight is of Tuckey, a great local maintenance
+  Our latest brand ambassador highlight is of The Tuckey Companies, a great local maintenance
   company.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Brand+Ambassador+Spotlight-+Tuckey.mp4
@@ -19,9 +19,9 @@ youtube_code: NU6Kjnr0uH0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our latest brand ambassador highlight is of Tuckey, a great local maintenance company.</em></p>
+<p style="text-align: center;"><em>Our latest brand ambassador highlight is of The Tuckey Companies, a great local maintenance company.</em></p>
 
-Today I’m providing another brand ambassador local business highlight\! I’m here with Tuckey company’s Matt and Nathan Tuckey to learn all about their maintenance business serving South Central Pennsylvania.&nbsp;
+Today I’m providing another brand ambassador local business highlight\! I’m here with The Tuckey Companies’ Matt and Nathan Tuckey to learn all about their maintenance business serving South Central Pennsylvania.&nbsp;
 
 **Matt, why did you start the business?**
 
