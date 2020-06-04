@@ -19,7 +19,7 @@ youtube_code: NU6Kjnr0uH0
 
 {% include youtube.html %}
 
-Our latest brand ambassador highlight is of Tuckey, a great local maintenance company.
+<p style="text-align: center;"><em>Our latest brand ambassador highlight is of Tuckey, a great local maintenance company.</em></p>
 
 Today I’m providing another brand ambassador local business highlight\! I’m here with Tuckey company’s Matt and Nathan Tuckey to learn all about their maintenance business serving South Central Pennsylvania.&nbsp;
 
