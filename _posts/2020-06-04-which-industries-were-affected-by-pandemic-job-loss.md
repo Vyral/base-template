@@ -21,7 +21,7 @@ youtube_code: XKhDHHdTLd4
 
 {% include youtube.html %}
 
-Here’s a breakdown of which industries were most affected by job losses due to coronavirus.
+<p style="text-align: center;"><em>Here’s a breakdown of which industries were most affected by job losses due to coronavirus.</em></p>
 
 Last week, I discussed how the Raging River housing market will explode within the next month or two. Today, I’ll walk you through a breakdown of which industries were affected by the 15% of the people who became unemployed in the last two months due to the coronavirus.
 
