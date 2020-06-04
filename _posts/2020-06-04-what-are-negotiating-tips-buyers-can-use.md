@@ -17,7 +17,7 @@ youtube_code: PbToc7kK5Ns
 
 {% include youtube.html %}
 
-Here’s how to survive in our highly competitive market as a buyer.
+<p style="text-align: center;"><em>Here’s how to survive in our highly competitive market as a buyer.</em></p>
 
 It’s still a fast-paced seller’s market out there, so buyers need every bit of leverage they can get. Here are five powerful negotiating tricks to remember when you’re in a multiple-offer scenario and are serious about coming out on top:&nbsp;
 
