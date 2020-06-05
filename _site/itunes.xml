@@ -2,15 +2,15 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Colorado Springs Real Estate Podcast With Brian & Tiffany Canady</title>
-    <link>http://coloradospringsrealestatevideos.com/</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://coloradospringsrealestatevideos.com/"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from All Things Real Estate - your professional Colorado Springs Real Estate Real Estate Agents.</description>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Homebound Team - your professional Colorado Springs Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Brian & Tiffany Canady</managingEditor>
-    <lastBuildDate>2017-06-08 13:27:20 -0500</lastBuildDate>
+    <lastBuildDate>2020-06-05 13:00:48 -0500</lastBuildDate>
     <media:copyright>Brian & Tiffany Canady</media:copyright>
     <media:thumbnail url="http://i.imgur.com/XI60sJv.png"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>brian@briancanady.com</itunes:email>
@@ -19,14 +19,1248 @@
     <itunes:author>Brian & Tiffany Canady</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://i.imgur.com/XI60sJv.png"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Colorado Springs Real Estate Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from All Things Real Estate - your professional Colorado Springs Real Estate Real Estate Agents.</itunes:summary>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Colorado Springs Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Homebound Team - your professional Colorado Springs Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>3 Ways to Succeed in Real Estate & Life In This New Market</title>
+        <link>http://localhost:4000/3-ways-to-succeed-in-real-estate-life-in-this-new-market.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-04-13 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Ways+to+Succeed+in+Real+Estate+%26+Life+In+This+New+Market.mp4</guid>
+        <description>
+
+We&rsquo;re sharing three ways you can succeed in real estate and life during the pandemic.
+
+Today we’re coming to you from our basements to discuss three ways to succeed in real estate and life amid a quarantine market. We’ve been in a seller’s market here in Colorado Springs for a long time, but we’re going to see it shift into a buyer’s. You can still buy and sell in this market!
+
+People are moving more into the virtual world, but if you need to conduct real estate business, now’s the time. Interest rates are projected to be great throughout the year and even into next year.
+
+If you have any questions, don’t hesitate to reach out. We look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Ways+to+Succeed+in+Real+Estate+%26+Life+In+This+New+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Ways+to+Succeed+in+Real+Estate+%26+Life+In+This+New+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re sharing three ways you can succeed in real estate and life during the pandemic.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>We’re sharing three ways you can succeed in real estate and life during the pandemic.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The New Normal & the Adaptability of the Real Estate Market</title>
+        <link>http://localhost:4000/the-new-normal-the-adaptability-of-the-real-estate-market.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-04-09 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+The real estate market has adapted well to the new normal.
+
+What’s happening with the real estate market in the wake of the coronavirus pandemic?
+
+If you’re anything like us, you’re stuck indoors trying to juggle things like homeschooling, working in close quarters next to your spouse, and new cooking recipes (sometimes succeeding, sometimes failing).
+
+This is the new normal, but the good news is, the real estate industry is moving right along. Frankly, we’re surprised at how well consumers and agents have adapted to an industry that’s gone virtual. We have sellers showing buyers homes via Zoom, Skype, etc., inspectors showing up to houses wearing gloves and hazmat suits, and more. We have a responsibility to protect each other while continuing on with life.
+
+We thought there would be a drop in activity, but virtual showings, meetings, open houses, notary signings, etc., have kept opportunities readily available for buyers and sellers.
+
+“We’re surprised at how well consumers and agents have adapted to an industry that’s gone virtual.”
+
+What do the Pikes Peak MLS numbers say specifically? In the week leading up to the recording of this video, 329 new listings hit the market. Out of all the homes already on the market, 1,057 went under contract, and 1,218 sold.
+
+If you’d like to know more about our market or aren’t sure how to navigate the new normal, give us a call and we’d be happy to help. More importantly, if you know someone who’s going through financial hardship and may have to sell their home or is in need of supplies, please reach out to us as well. We have the resources to help, and we’re here to serve our community.
+
+From our home to yours, we hope you stay safe and healthy.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The real estate market has adapted well to the new normal.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>The real estate market has adapted well to the new normal.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Really Should Know About iBuyers</title>
+        <link>http://localhost:4000/what-you-really-should-know-about-ibuyers.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-03-15 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/What+You+Really+Should+Know+About+iBuyers.mp4</guid>
+        <description>
+
+Here&rsquo;s the truth behind iBuyers and their automated valuation models.
+
+An iBuyer is a real estate investor that often buys the home quickly using cash. They use an AVM, or automated valuation model, popularized in the form of Zillow’s Zestimate. Typically, an iBuyer will purchase the home without ever having seen it.
+
+Having someone offer cash for your house sight unseen seems easy, but watch out for scams. There’s a lot of fraud that floats around in the real estate industry, like wire transfer fraud. If you do decide that an iBuyer is the best route for you, make sure you go with a reputable one and close only at a local escrow or title company; never, ever, ever wire your money out somewhere.
+
+“The average consumer that takes an offer from these iBuyers takes 13% to 15% less than the value of their home.”
+
+The reality of the iBuyer program is that it’s not as sexy as it sounds. According to Forbes, the average consumer that takes an offer from these iBuyers takes 13% to 15% less than the value of their home. That’s massive! These iBuyers will also order an inspection, point out all of the issues they want fixed, and if you refuse, they’ll take even more off of their offer. It’s not a great deal. It’s important to be educated about what really occurs in these transactions.
+
+If 13% to 15% less than your home’s value sounds appealing, go for an iBuyer’s offer. Then again, you could go with a trusted team of professionals to represent you. Don’t leave money on the table! Reach out to us by phone or email anytime if you have further questions about iBuyers or are interested in buying or selling soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/What+You+Really+Should+Know+About+iBuyers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/What+You+Really+Should+Know+About+iBuyers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s the truth behind iBuyers and their automated valuation models.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Here’s the truth behind iBuyers and their automated valuation models.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Reasons to Buy in Fountain, Colorado</title>
+        <link>http://localhost:4000/3-reasons-to-buy-in-fountain-colorado.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-02-19 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Reasons+to+Buy+in+Fountain%2C+Colorado.mp4</guid>
+        <description>
+
+We&rsquo;re sharing three great reasons you may want to consider buying a home in Fountain, Colorado.
+
+We love Fountain, Colorado! Here are three great reasons you should consider buying a home in Fountain:
+
+1. Personality of a small town, convenience of a city. Fountain has the personality of a small town but is close to anything you may want. It’s just down the road from downtown Colorado Springs, a quick drive to the Colorado Springs airport, and minutes away from Fort Carson’s Gate 20.
+
+“Fountain has wonderful opportunities to build wealth and become a homeowner at a great value.”
+
+2. Location, location, location. Fountain is close to everything, the median list price is $298,000, and the average house size is over 2,100 square feet. You get a ton of bang for your buck. Homes are currently staying on the market for just eight days, so you have to move quickly if you want to buy in the Fountain area.
+
+3. Investment opportunity. There’s a reason houses in Fountain are only on the market for a short time. You currently have to pay an additional $29,000 to buy a home in Colorado Springs, which is just 10 minutes away. Fountain has wonderful opportunities to build wealth and become a homeowner at a great value.
+
+It’s crucial to do your research no matter where you want to buy a house in Colorado. The first thing you should do is start with a team you trust to help you with the process. Start with us!
+
+If you have any questions about Fountain or real estate in general, please contact us via phone or email. We would love to help you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Reasons+to+Buy+in+Fountain%2C+Colorado.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Reasons+to+Buy+in+Fountain%2C+Colorado.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We’re sharing three great reasons you may want to consider buying a home in Fountain, Colorado.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>We’re sharing three great reasons you may want to consider buying a home in Fountain, Colorado.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Things to Never Do When Buying a Home</title>
+        <link>http://localhost:4000/3-things-to-never-do-when-buying-a-home.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-01-29 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Things+to+Never+Do+When+Buying+a+Home.mp4</guid>
+        <description>
+
+Here are the three things you should never do when buying a home.
+
+When it comes to purchasing a home there are three mistakes you should always avoid making during the process if you want to succeed:
+
+1. Go on vacation. If you’re going on a vacation to Greece during the process of buying a home it will be very hard to complete the purchase. We can’t do everything on your behalf, and being far away makes coordination difficult. Wait to go on vacation until after you’ve closed on your home if you want to avoid undue stress.
+
+2. Don’t pay off any debts. This may sound crazy, but it’s not. If you pay off a debt entirely, that will impact your credit—for better or worse, we don’t know. Consult your loan officer before you pay off anything.
+
+3. Don’t finance any large purchases. Be it a new car or furniture for your new home, don’t take out any additional lines of credit.
+
+“We can’t do everything on your behalf.”
+
+If you’re careful to avoid these mistakes, your home purchase may go off without a hitch.
+
+Feel free to reach out to us with any questions you have about the home buying process. We’d be glad to give you our professional advice and help you end up in the home of your dreams.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Things+to+Never+Do+When+Buying+a+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Things+to+Never+Do+When+Buying+a+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the three things you should never do when buying a home.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Here are the three things you should never do when buying a home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Key Things to Know About Our 2020 Market</title>
+        <link>http://localhost:4000/3-key-things-to-know-about-our-2020-market.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2020-01-09 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Key+Things+to+Know+About+Our+2020+Market.mp4</guid>
+        <description>
+
+If you&rsquo;re buying or selling in our Colorado Springs market in 2020, here are three insider tips to keep in mind.
+
+As we begin 2020, there are three key points to know about our Colorado Springs market.
+
+First, there will be an inventory shortage, which means we’ll see more multiple-offer situations. America’s Space Force is coming to town, and with it, its 15,000 personnel and their families. We don’t know where they’re going to live, but our team is ready to help all of them! In any case, be ready for this shortage.
+
+Next, the forecast remains good for interest rates. 2019 ended with fantastic rates, so you might expect that they can only go up from here, but they’re predicted to stay low. This means that even though home prices are rising, buyers will still be able to afford more house and make competitive offers for the houses they’re looking at.
+
+“Contact your real estate professional to ensure you’re in good hands going into 2020.”
+
+Lastly, whether you’re a buyer or seller, it’s important to be prepared. We know that interest rates are low, so buyer demand will be high, but we have no inventory. What does that mean? As we said above, there will be a lot of multiple-offer situations. If you’re a buyer, it’s important to have an agent on your side to help guide you through these situations. If you’re a seller, it’s important to know where you’ll go after you sell. As with buyers, it’s crucial to have an agent by your side to help with your preparation and guide you through the process.
+
+Contact your real estate professional to ensure you’re in good hands going into 2020. If you don’t have an agent, give us a call and we’d be happy to assist with all your real estate needs. We’d love to speak with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Key+Things+to+Know+About+Our+2020+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/3+Key+Things+to+Know+About+Our+2020+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re buying or selling in our Colorado Springs market in 2020, here are three insider tips to keep in mind.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>If you’re buying or selling in our Colorado Springs market in 2020, here are three insider tips to keep in mind.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Loan Limits Are Increasing</title>
+        <link>http://localhost:4000/loan-limits-are-increasing.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2019-12-19 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/Loan+Limits+Are+Increasing.mp4</guid>
+        <description>
+
+Loan limits are increasing in 2020 for conventional, FHA, and VA loans. Here&rsquo;s what you need to know.
+
+Loan limits are increasing in 2020. What does that mean? First, there’s a difference between your purchase price and your loan limits. For instance, conventional loans have increased; in 2019 the limit was $484,000, and in 2020, the limit is $510,400. That’s over a 5% boost in just one year.
+
+If you don’t have the 20% down for a conventional loan, an FHA product is an excellent option. It’s 3.5% down and those limits are increasing, too. In 2019, they were $339,250. In 2020 they are $356,500, a 5% escalation. This helps your buying power when you’re purchasing a new home with an FHA loan.
+
+Finally, let’s talk about the VA product. The VA loan limits have had a 247% increase from last year. In 2019, the limit was $484,350. In 2020, it is $1.2 million (that’s 100% financing up to $1.2 million)! That also works if you have multiple VA houses, meaning you can go up to that number collectively.
+
+“The VA loan limits have had a 247% increase from last year!”
+
+One thing to think about with VA loans: They allow up to $1.2 million, but not every bank will allow that high of a number. Check with your loan officer to confirm they have the product to get you all the way to $1.2 million.
+
+If you’re in the market and you’re looking to buy in 2020, go explore your options with your local lender. Happy home hunting!
+
+If you have any questions for us about loan limits, please don’t hesitate to reach out by phone or email. We would love to help you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/Loan+Limits+Are+Increasing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/Loan+Limits+Are+Increasing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Loan limits are increasing in 2020 for conventional, FHA, and VA loans. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Loan limits are increasing in 2020 for conventional, FHA, and VA loans. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Breakdown of Your Monthly Mortgage Payment</title>
+        <link>http://localhost:4000/a-breakdown-of-your-monthly-mortgage-payment.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2019-03-18 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Your monthly mortgage payment includes a few different costs. Here&rsquo;s how they break down.
+
+ 
+
+Today we’re going to talk to you about what exactly is included in your monthly mortgage payment.
+
+When you pay rent, you’re essentially paying all interest every single month because you don’t own the property. When you do own a property, your monthly mortgage payment can be thought of in four categories that make up an acronym: PITI.
+
+The “P” stands for principal. It’s like an investment made to yourself every month. The first “I” stands for interest, because the bank has to make something on the money they loaned to you. The “T” and the last “I” stand for taxes and insurance, which cover the home in case of disaster. All of this is lumped into one monthly payment.
+
+“If you put less than 20% down, you’ll also have to pay mortgage insurance.”
+
+In addition to PITI, you’ll also have MI, or mortgage insurance. If you put less than 20% down on your home, you have to pay this because you’re at a higher risk of going to default, unless you have a VA loan.
+
+If you have any questions about PITI, buying a home, or anything else, don’t hesitate to reach out and give us a call or send us an email today. We’d love to hear from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Your monthly mortgage payment includes a few different costs. Here’s how they break down.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Your monthly mortgage payment includes a few different costs. Here’s how they break down.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Costly Sewer Repairs Stink: Try These 3 Plumbing Tips</title>
+        <link>http://localhost:4000/costly-sewer-repairs-stink-try-these-3-plumbing-tips.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-11-18 18:00:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Costly+Sewer+Repairs+Stink-+Try+These+3+Plumbing+Tips.mp4</guid>
+        <description>
+
+Today we have a special guest with us&mdash;Jennifer from Bill&rsquo;s Plumbing and Drain Service&mdash;to help give you three tips that homeowners should know about their plumbing.
+
+ 
+
+1. What is the best solution for tackling smelly drains?
+
+Sometimes when I go into a home, I register a smell coming out of the drains. My first instinct is to pour some Drano in them to try to get rid of whatever is causing the odor. Jennifer , our expert from Bill’s Plumbing and Drain Service, says that Drano is a pretty harsh chemical; if you pour it down the drain, it will eat away at whatever is clogging the pipes, but it will also eat away at the pipes themselves.
+
+A better solution is actually just water, Jennifer says. You can fill a big pitcher with warm water and throw a little bit of lemon juice or vinegar in there, then pour the solution down your drains—especially unused drains like your floor, guest bathroom, and laundry drains. Sometimes those don’t get wet, causing the P-trap to dry out and create an odor. Sealing the drain with a bucket of warm water will help take care of the smells.
+
+2. Why is it important to have a sewer scope when you purchase a home?
+
+Jennifer says its importance is for checking the integrity of the sewer line to make sure there aren’t any issues with it. Spending around $150 dollars for peace of mind is well worth it when the alternative is an $8,000 to $10,000 repair.
+
+Is it necessary for newly constructed homes?
+
+Jennifer says there’s a common misconception that, for new homes, everything is new, so why check it? But actually, it’s always a good idea to check for potential issues, even in new homes.  A sewer scope can help you discern if debris from the construction process is causing problems in your system. You’d be surprised what can get in your sewer lines; you don’t want to buy a home and move in only to discover a costly issue. Make sure to check it out before signing those papers.
+
+“Drano is a pretty harsh chemical; if you pour it down the drain, it will eat away at whatever is clogging the pipes, but it will also eat away at the pipes themselves”
+
+3. What’s the difference between a sewer scope and an actual clean-out of a sewer line?
+
+Sewer clean-outs are done when you have such problems as root intrusions or other blockages in your sewer lines. Though many people think that a sewer scope is the only thing they need to do, you do need to make sure that the lines down to the sewer main are clear. It’s important to do an annual maintenance check, especially if you live in an area with lots of trees, to be sure you won’t have any backups. 
+
+Staying on top of your drain maintenance with these tips should help make your life as a homeowner easier, safer, and cheaper, as well.
+
+If you have any questions for Jennifer at Bill’s Plumbing and Drain Service, be sure visit their website.
+
+For other questions about real estate, feel free to reach out to the Homebound Team. We’d be happy to answer any questions you have.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Costly+Sewer+Repairs+Stink-+Try+These+3+Plumbing+Tips.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Costly+Sewer+Repairs+Stink-+Try+These+3+Plumbing+Tips.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we have a special guest with us to give you three tips that homeowners should know about about their plumbing.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Today we have a special guest with us to give you three tips that homeowners should know about about their plumbing.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is Listing For Sale By Owner a Good Idea?</title>
+        <link>http://localhost:4000/is-listing-for-sale-by-owner-a-good-idea.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-10-17 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Colorado+Springs+Real+Estate+-+Is+Listing+For+Sale+By+Owner+a+Good+Idea%253F.mp4</guid>
+        <description>
+
+In today&rsquo;s hot market, is hiring an agent really necessary? Actually yes, and today we&rsquo;ll explain why.
+
+ 
+
+In a fantastic market like the one we’re in right now, why would someone need the help of a listing agent to sell their home? Actually, the truth is that a lot more goes into listing a home than simply sticking a sign in the yard and waiting for buyers to flock in.
+
+In the average real estate transaction, there are usually about 50 people involved in getting the deal from contract to close. Inspectors, appraisers, Realtors, and a number of other professionals all play a role in making sure things go smoothly.
+
+With that in mind, it’s no wonder why trying to take on all of the work alone is a poor choice. When you forgo the help of a professional agent, you’re doing more work and earning less money.
+
+“Listing alone is no replacement for selling under the guidance of a professional agent.”
+
+When you work with our team, we’ll have your home cleaned, staged, and professionally photographed—all to make sure you see the best results possible for your listing. We also use a number of advertising tools in order to attract maximum exposure. All in all, listing alone is no replacement for selling under the guidance of a professional agent.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Colorado+Springs+Real+Estate+-+Is+Listing+For+Sale+By+Owner+a+Good+Idea%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Colorado+Springs+Real+Estate+-+Is+Listing+For+Sale+By+Owner+a+Good+Idea%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>In today’s hot market, is hiring an agent really necessary? Actually yes, and today we’ll explain why.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>In today’s hot market, is hiring an agent really necessary? Actually yes, and today we’ll explain why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Explaining Current Market Conditions in Just 90 Seconds</title>
+        <link>http://localhost:4000/explaining-current-market-conditions-in-just-90-seconds.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-09-30 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Explaining+Current+Market+Conditions+in+Just+90+Seconds.mp4</guid>
+        <description>
+
+Conditions have begun to even out in our real estate market, and today we&rsquo;d like to share what this may mean for you.
+
+ 
+
+It’s time for another market update, and we’ve got some interesting developments to report today.
+
+After rising for a few months, prices are beginning to level out. From a lending standpoint, this is a very good thing.
+
+When prices are on the way up, a lot of appraisals come back short. But now, homes are more likely to appraise, and this allows more people to proceed through their home purchase with fewer issues.
+
+“Overall, our market is still in good shape.”
+
+We’re also currently seeing some advantageous conditions for sellers. Even though conditions have evened out, homes are still selling quickly and multiple offer situations are still quite common. Overall, our market is still in good shape.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Explaining+Current+Market+Conditions+in+Just+90+Seconds.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+Explaining+Current+Market+Conditions+in+Just+90+Seconds.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Conditions have begun to even out in our real estate market, and today we’d like to share what this may mean for you.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Conditions have begun to even out in our real estate market, and today we’d like to share what this may mean for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Buy a Home Within an HOA?</title>
+        <link>http://localhost:4000/should-you-buy-a-home-within-an-hoa.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-09-07 11:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+HOA+Pros+and+Cons.mp4</guid>
+        <description>
+
+Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.
+
+&nbsp;
+
+If you’re thinking of buying a house within a Homeowners Association (HOA), there are a few things you need to know first:
+
+1. What’s the cost? It could be $100 per month or $500 per month. This could impact your loan and it’s a real fee you have to pay each month.
+
+2. What does the cost cover? Do they mow the lawn and remove snow, or just basically manage the community?
+
+“HOA dues can definitely impact your loan.”
+
+3. What kind of restrictions are there? The biggest one that we see has to do with investors buying townhomes. A lot of them get all the way to closing before finding out that the HOA doesn’t allow non-owner occupied investment properties. We also tend to see pet restrictions.
+
+In the end, make sure you do your due diligence, read your documents, and make sure that you can lean on your agent to help you. We want to make sure that if you do buy in an HOA, they do a good job at maintaining the value of your home and increasing its value.
+
+If you have any questions for us or want to learn more about buying a home within an HOA, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+HOA+Pros+and+Cons.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+HOA+Pros+and+Cons.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Buying a home within an HOA comes with pros and cons. Here are a few things for you to consider.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Every Veteran Should Know About VA Loans</title>
+        <link>http://localhost:4000/what-every-veteran-should-know-about-va-loans.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-08-12 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+What+Every+Veteran+Should+Know+About+VA+Loans.mp4</guid>
+        <description>
+
+What three things must buyers know before purchasing property with a VA loan? Today we&rsquo;ll explain.
+
+ 
+
+If you plan on buying a home using a VA loan, there are three things you must know.
+
+Before we elaborate on these points, though, we would like to extend our sincerest thanks to all of our nation’s service members and their families. Without each of you, we wouldn’t have the opportunities in life we do today.
+
+With that said, let’s take a look at the three things you should know when purchasing property with a VA loan:
+
+1. VA loans do not require a down payment. However, you will need to provide funds for closing costs, and the property must be purchased as a primary residence.
+
+2. VA loans do require a funding fee. You will have to pay 2.15% of the loan amount to the VA program. If you use a VA loan a second time, this funding fee will be 3.3%. Keep in mind, though, that this fee will be waived for veterans with disabilities recognized by the VA.
+
+3. VA loans are assumable. This is awesome, because, with interest rates and home values on the rise, your home may be more appealing to buyers if you choose to sell in the future.
+
+“While it is true that VA loans must be used to purchase a primary residence, you can still make a second purchase using the VA loan again later on.”
+
+Now that you understand these three facts, we’ve also got a bonus point to share with you all. Did you know that you can purchase more than one home using the VA loan? While it is true that VA loans must be used to purchase a primary residence, you can still make a second purchase down the line on another primary residence. Best of all, you may keep the first home you purchased using VA financing.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+What+Every+Veteran+Should+Know+About+VA+Loans.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Colorado+Springs+Real+Estate+-+What+Every+Veteran+Should+Know+About+VA+Loans.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What three things must buyers know before purchasing property with a VA loan? Today we’ll explain.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>What three things must buyers know before purchasing property with a VA loan? Today we’ll explain.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Aligning Your Home Type and Loan Type</title>
+        <link>http://localhost:4000/aligning-your-home-type-and-loan-type.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-07-27 07:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Aligning+Your+Home+Type+and+Loan+Type.mp4</guid>
+        <description>
+
+Home types and loan types&mdash;what do you need to know about them?
+
+ 
+
+If you have a VA or FHA loan, there are certain requirements that you need to fulfill in order to get the money, such as the condition of the home. As agents, we take note of the condition of the home, looking at things such as peeling paint, torn carpets, broken handrails, and window problems, while walking through a home with a buyer using a VA or FHA loan.
+
+When you’re using an FHA or VA loan instead of a conventional loan, you’ll have limitations on how much you can actually spend. For example, FHA loans have different limitations in El Paso County that are different from Denver County, Arapahoe County, or Pueblo County. Be sure that the type of loan that you want is going to be in alignment with how much you want to spend. Confer with a real estate and mortgage professional for clarity about whether the loan you want is going to work in your favor.
+
+“It is very important to speak with your agent and lender about this before applying for a loan—to make sure that your loan type and home type mesh well together.”
+
+As far as home types, you’re probably aware of the most common: single-family homes, condos, and townhomes. Each of these types differ in a few ways. For single-family homes, you need to make sure that the condition is good. Condos and townhomes, on the other hand, have certain other requirements, like:
+
+
+  HOA dues
+  Delinquency dues
+  The number of owners who live there
+  Adequate insurance coverage
+
+
+This is why it is very important to speak with your agent and lender about this before applying for a loan—to make sure that your loan type and home type mesh well together.
+
+If you have any questions about this or other real estate topics, please feel free to reach out to us. We’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Aligning+Your+Home+Type+and+Loan+Type.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/Aligning+Your+Home+Type+and+Loan+Type.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Home types and loan types—what do you need to know about them?</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Home types and loan types—what do you need to know about them?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Ring™ Doorbell Alone is Not Enough to Keep Your Home Secure</title>
+        <link>http://localhost:4000/a-ring-doorbell-alone-is-not-enough-to-keep-your-home-secure.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-06-06 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/A+Ring+Doorbell+Alone+is+Not+Enough+to+Keep+Your+Home+Secure.mp4</guid>
+        <description>
+
+Do you have a Ring&trade; doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.
+
+ 
+
+We are joined by Ryan Byes of WatchPoint Surveillance to teach you the difference between a standard Ring™ doorbell and a true security system.
+
+To start this conversation, is there a difference between the cheap Ring™ doorbell that I have and love versus a true security system?
+
+Ryan says there is one really marked difference. While the Ring™ doorbells are great for some applications, the video footage is not court admissible in the State of Colorado. This means that if someone steals something from your front porch, you cannot use the footage in court.
+
+Why?
+
+According to Ryan, Ring™ doorbells do not meet two requirements of Colorado state law to be used in court. The first is a time and date stamp. And the second is a watermark. The watermark proves that the video has not been tampered with.
+
+“Ring doorbells do not meet two requirements of Colorado state law to be used in court.”
+
+Which would you rather have? Brian thinks that the court admissible option is better.
+
+Also, the Ring™ system is a monthly service and therefore requires a monthly fee for storage.
+
+Meanwhile, Ryan tells us that an actual security system will not require a monthly fee and will record high-quality, HD images which can be viewed through an app.
+
+If you are considering which security system you want, you should contact Ryan at WatchPoint Security by calling (719) 579-6540 or online at watchpointdata.com.
+
+If you have any questions or comments for us, please contact us by phone or email. We look forward to speaking with you soon.
+
+Ryan ByesWatchPoint Security(719) 579-6540watchpointdata.com
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/A+Ring+Doorbell+Alone+is+Not+Enough+to+Keep+Your+Home+Secure.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/A+Ring+Doorbell+Alone+is+Not+Enough+to+Keep+Your+Home+Secure.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Do you have a Ring doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Do you have a Ring doorbell? You should know that the video from the system is not usable in a court of law in the State of Colorado.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Expert's Take on Home Security Options</title>
+        <link>http://localhost:4000/an-experts-take-on-home-security-options.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Owner Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-05-23 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/An+Expert%2527s+Take+on+Home+Security+Options.mp4</guid>
+        <description>
+
+Security is a critical aspect of home ownership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.
+
+ 
+
+Do you have a plan for keeping your family safe in 2018? Today we are joined by Ryan with WatchPoint Surveillance to discuss a couple of security options for you to consider.
+
+For one thing, you may want to pursue the use of a home security camera, like the exterior-rated, four-megapixel high definition camera featured in the video.
+
+Ryan recommends HD cameras like this one because the increased resolution will give you a clearer view of anything it captures. Also, this particular camera is small and unobtrusive, making it easy to hide under the eaves of your home.
+
+In terms of data, footage can be stored on an SD card or the camera can be hooked up to an NVR cable.
+
+“Do you have a plan for keeping your family safe in 2018?”
+
+Cameras like this tend to cost between $90 to $100, but Ryan advises having more than one camera when setting up a surveillance system for your home. For a four-camera system, the total cost would amount to about $1,000, including installation. Then, once the system is installed, there are no future fees. The mobile app to view footage captured by the camera is also free.
+
+To contact Ryan or his team at WatchPoint Security, you can reach out by phone at (719) 579-6540 or by visiting watchpointdata.com.
+
+And, as always, if you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
+Ryan ByesWatchPoint Security(719) 579-6540watchpointdata.com
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/An+Expert%2527s+Take+on+Home+Security+Options.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/An+Expert%2527s+Take+on+Home+Security+Options.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Security is a critical aspect of homeownership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Security is a critical aspect of homeownership. Today we have a special guest to discuss some safety solutions to help protect you, your home, and your family.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What You Should Know About the HERS Rating</title>
+        <link>http://localhost:4000/what-you-should-know-about-the-hers-rating.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-05-10 19:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/What+You+Should+Know+About+the+HERS+Rating.mp4</guid>
+        <description>
+
+Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.
+
+ 
+
+We are joined by Steve Beck, sales manager for Creekstone Homes, today to discuss the HERS rating.
+
+What is the HERS rating? HERS stands for Home Energy Rating System. It is an independent test of homes for their energy efficiency that gives you a way to objectively quantify the performance of a home. The lower the number on the HERS scale, the more energy efficient the home.
+
+For a consumer, it takes away some of the flash from buying a home and helps you understand how your house is going to perform.
+
+“The lower the number on the HERS scale, the more energy efficient the home.”
+
+Let’s say my home is ten years old and has a poor HERS rating. Is this a test I can do after the fact, or do I need to be doing this upfront?
+
+A home is inspected several times during the building process. They inspect during the foundation, mechanicals, and then also at the very end. The HERS test would need to be done from the very beginning of the building process.
+
+I would like to thank Steve of Creekstone Homes for joining me and telling us about the HERS rating. If you have any questions, please feel free to comment below or contact us. We look forward to speaking to you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/What+You+Should+Know+About+the+HERS+Rating.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Videos/What+You+Should+Know+About+the+HERS+Rating.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Have you heard of the HERS Rating? Steve Beck explains what it is and why it is important.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Insider’s Take on the New Construction Process</title>
+        <link>http://localhost:4000/an-insiders-take-on-the-new-construction-process.html</link>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-04-05 16:08:48 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+Building+Process.mp4</guid>
+        <description>
+
+Today, we’re talking with Steve Becht, who is the sales manager at CreekStone Homes, about some things people should think about when building a new home.
+
+According to Steve, the process of building a new home is very slow in the beginning. There’s a lot that goes on behind the scenes, such as working on permits. However, things slowly begin to ramp up as time goes on. What most people imagine when they think about building a home only really makes up the last couple months of a six- or seven-month process.
+
+Often when people walk into a model, or “prop”, home, they ask themselves, “Is this when I get when I want to build a home?”
+
+“If you want the home you’re building to look exactly like the model you saw, you should plan on paying a little extra.”
+
+Actually, this is one of the myths of home building. If you want the home you’re building to look exactly like the model you saw, you should plan on paying a little extra. Model homes can be upgraded from anywhere between $30,000 to $100,000. Ultimately,  it’s up to you how much you want to spend upgrading a new construction home.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+Building+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+Building+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are a few misconceptions out there surrounding the process of building a new home. Today, we’ve brought on a special guest to talk more about this important topic.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>There are a few misconceptions out there surrounding the process of building a new home. Today, we’ve brought on a special guest to talk more about this important topic.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Representation Matters When Buying New Construction</title>
+        <link>http://localhost:4000/why-representation-matters-when-buying-new-construction.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-03-21 10:22:04 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Do+You+Need+An+Agent+In+Order+To+Buy.mp4</guid>
+        <description>
+
+Today, we’re excited to be joined by special guest Steve Becht, the sales manager for CreekStone Homes, to talk about whether people need to work with an agent when buying a new home. 
+
+According to Steve, working with an agent when purchasing new construction isn’t a necessity, but it is highly preferable. People on the build site are working on behalf of the builder. If you aren’t working with an agent of your own when you purchase new construction, you aren’t being represented in the transaction. 
+
+Involving an agent will make the transaction move more quickly and more smoothly. Contrary to what some may think, buyers do not get a better deal by forgoing representation and working directly with those who are representing the builder. 
+
+“Working with an agent when purchasing new construction isn’t a necessity, but it is highly preferable.”
+
+In fact, the builder and the professionals who represent them tend to prefer working with buyers who are represented. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Do+You+Need+An+Agent+In+Order+To+Buy.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Do+You+Need+An+Agent+In+Order+To+Buy.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When purchasing new construction, representation matters. You may not need to work with an agent, but we highly recommend that you do so</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>When purchasing new construction, representation matters. You may not need to work with an agent, but we highly recommend that you do so</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Brushing Up On the Basics: Chimney Care</title>
+        <link>http://localhost:4000/brushing-up-on-the-basics-chimney-care.html</link>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-02-23 09:58:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Chimney+Sweep.mp4</guid>
+        <description>
+
+Today, we have a special guest with us: Curry, from Topcat Chimney Service. He’s going to tell you what you need to know when doing a chimney sweep.
+
+“A chimney inspection is very thorough,” Curry says. “We get up on top of the roof and then go down inside the firebox. We get our head up through the damper, or the flue, and make sure that there aren’t any cracks or missing pieces in the flue liner.”
+
+“It’s really important to make sure that the chimney is tight.”
+
+“Additionally, we make sure there’s a cover, or spark arrestor; that there aren’t unwanted critters living inside your house; and that there isn’t any moisture accumulating inside your chimney.”
+
+Whether you use your fireplace or not, it’s really important to make sure that they chimney is tight. If you’re in need of chimney service, feel free to contact Curry,whose information can be found on Topcat’s Facebook page.
+
+If you have any other questions or real estate needs, don’t hesitate to reach out to us. We’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Chimney+Sweep.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Chimney+Sweep.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When it comes to chimney care, there are a few things you should know. Curry from Topcat Chimney Service is here to explain.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>When it comes to chimney care, there are a few things you should know. Curry from Topcat Chimney Service is here to explain.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Are Home Inspections So Important?</title>
+        <link>http://localhost:4000/why-are-home-inspections-so-important.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-01-31 08:49:15 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Peak+Home+Inspection.mp4</guid>
+        <description>
+
+Today we’re here with Dylan Margerum from Peak Home Inspections to discuss why it’s important to do a home inspection. 
+
+Getting a home inspection isn’t required when you get a home loan, but we highly recommend it. 
+
+When Dylan inspects a house, he checks everything from the roof to the foundation. He looks at HVAC systems, plumbing, electrical systems, and more. “Anything we can get our hands on, we check, we inspect,” says Dylan. 
+
+It is so important for the buyer to do their home inspection and do their due diligence. If there is a problem with the roof, it’s much better to spend $150 on a home inspection rather than thousands of dollars on repairs. 
+
+“You can use the home inspection report to negotiate with the seller.”
+
+You can also use the home inspection report for negotiation purposes. If you want to move forward and buy a house that needs a new roof, you can ask for a new roof. If there’s hail damage, we can send pictures that Dylan takes. If you need the furnace to be fixed, we are able to send that over. 
+
+If you have any questions for Dylan, you can reach him at (719) 495-0042. As always, if you have any real estate questions for us, just give us a call or send us an email. We would be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Peak+Home+Inspection.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Peak+Home+Inspection.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why are home inspections so important? Dylan Margerum from Peak Home Inspections is here to explain.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Why are home inspections so important? Dylan Margerum from Peak Home Inspections is here to explain.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Renovations to Help Sell Your Colorado Springs Home</title>
+        <link>http://localhost:4000/3-renovations-to-help-sell-your-colorado-springs-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2018-01-10 09:01:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+3+Best+Projects+for+Selling+Captioned.mp4</guid>
+        <description>
+
+What are the three best renovations projects to do if you plan to sell your Colorado Springs home?
+
+The first thing you want to do is get your priorities straight and focus on the bones of the house. Make sure the electrical systems, furnace, and roof are all in working order before you put money into any other renovation projects.
+
+Next, protect your house by paying attention to your siding and the front door. Updating the siding and front door gets a little over 90% return on investment, so your curb appeal definitely plays a part.
+
+“If you have a great kitchen or master bathroom, buyers may overlook other issues in the home.”
+
+Finally, if there is room left in your budget, focus on kitchen or master bathroom renovations. Buyers pay attention to kitchens and master baths, so if you have a really great kitchen or a good master bathroom, buyers may be willing to overlook other problems. Kitchen and bathroom remodels can get you about 100% or more in return on investment.
+
+If you have any other questions about preparing your home for the Colorado Springs real estate market, give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+3+Best+Projects+for+Selling+Captioned.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+3+Best+Projects+for+Selling+Captioned.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you plan on selling your home, these are the three best renovations you can do to help get top dollar.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>If you plan on selling your home, these are the three best renovations you can do to help get top dollar.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>2018 Is Going to Be a Great Year for Real Estate</title>
+        <link>http://localhost:4000/2018-is-going-to-be-a-great-year-for-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-12-27 08:06:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+2018+real+estate+market+predictions.mp4</guid>
+        <description>
+
+2017 was a fantastic year. Today, let’s take a look at the projections for the 2018 real estate market.
+
+It’s going to be a strong seller’s market again in 2018. Inventory is still pretty low compared to where it needs to be. Actually, our housing inventory across the United States is consistent with the housing supply of 1994. However, there are 63 million more people living in this country, so we cannot build homes fast enough.
+
+In other words, if you’re a seller and you’ve been on the fence, make it happen.
+
+If you’re a buyer, not all hope is lost. Interest rates are fantastic. These are some of the lowest rates we’ve ever seen. In addition to that, loan limits have increased. Going into 2018, FHA loan limits are at $304,750. Fannie Mae, Freddie Mac, and VA loans are up to $453,000. These new loan limits are fantastic.
+
+“2018 is projected to be one of the top three years for real estate in the last 100 years.”
+
+Another thing to consider is that the average homeowner’s net worth is 49% higher than the average renter’s net worth. So, jump into the 2018 real estate market!
+
+Finally, new construction is the highest it’s ever been—up 10% across the nation Like we said earlier, they just can’t build them fast enough.
+
+2018 is projected to be one of the top three years for real estate in the last 100 years. We want to be part of that and we want to help you reach your 2018 real estate goals. If you have any questions, please don’t hesitate to reach out to us. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+2018+real+estate+market+predictions.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate-+2018+real+estate+market+predictions.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>2017 was a fantastic year. Today, let’s take a look at the projections for the 2018 real estate market.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>2017 was a fantastic year. Today, let’s take a look at the projections for the 2018 real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Happy Holidays!</title>
+        <link>http://localhost:4000/happy-holidays.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-12-14 05:59:48 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Happy+Holidays.mp4</guid>
+        <description>
+
+Today, we want to take a minute to spread some holiday cheer. 
+
+Thank you for taking the time to watch us goof around while creating educational videos. 
+
+Please send us your input. Tell us what’s important to you and which topics in the real estate and mortgage world you would like to learn more about. Just send us an email. 
+
+“We wish you and your family a happy, healthy holiday season.”
+
+Most importantly, we want to wish you and your family a happy, healthy holiday season. So, Merry Christmas, Happy Hanukkah, Happy Kwanzaa, and a Happy New Year, too!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Happy+Holidays.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Happy+Holidays.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We need your input for our upcoming videos. Plus, we’d like to wish you a happy holiday season!</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>We need your input for our upcoming videos. Plus, we’d like to wish you a happy holiday season!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is It Wise to Replace Your Carpet Before Listing Your Home?</title>
+        <link>http://localhost:4000/is-it-wise-to-replace-your-carpet-before-listing-your-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-11-29 06:01:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Questions+for+the+viewers.mp4</guid>
+        <description>
+
+There are a lot of variables to think about when considering replacing a carpet and whether it will give you the best bang for your buck.
+
+As a seller, it depends on the price point you want to hit. A different tactic we use sometimes for our sellers is to have them provide their buyer an allowance for flooring. Oftentimes, the replacement carpet you pick might not be the type the buyer wants. They might not even want carpeting—they might prefer hardwood instead.
+
+Besides offering a carpet allowance, you can also offer to reduce your home’s price by however much it would cost to replace the carpet.
+
+“A different tactic you can use is to provide a flooring allowance.”
+
+Before you do anything, consult with your real estate agent to find out the best approach for you.
+
+If you have any more real estate questions for us or you’re thinking of buying or selling a home in our Colorado Springs market, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Questions+for+the+viewers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Questions+for+the+viewers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Prior to listing your home, there are other options you can pursue besides replacing your carpet that might be a better idea.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Prior to listing your home, there are other options you can pursue besides replacing your carpet that might be a better idea.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Ways to Keep Your House Safe and Warm This Winter</title>
+        <link>http://localhost:4000/3-ways-to-keep-your-house-safe-and-warm-this-winter.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-11-14 05:45:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Staying+Safe+and+Warm+This+Winter.mp4</guid>
+        <description>
+
+As the weather gets colder and the days get shorter, we wanted to make sure you were aware of a few things you should be doing in your home before it starts getting too cold. We were recently joined by our friend, Eric Kaiser of High Altitude Heating and Air, to give you three steps to keep your house safe and warm this winter. Let’s get to the list!
+
+1. Have your thermostat checked. During your regularly scheduled service maintenance appointment, I would also have the technician check your batteries and make sure that everything is working properly.
+
+2. Don’t forget to check your filter. It’s the life breath of your HVAC system. It should be changed every few months.
+
+3. Reach out to a professional like Eric. We always encourage you to reach out to a professional like Eric, who can help you with all of this. He will be able to check your furnace for safety, proper operation, and do a carbon monoxide check as well.
+
+“We always encourage you to reach out to someone like Eric.”
+
+If you have any questions for Eric or need his help getting your home ready for winter, give him a call at (710)-357-6465. If you have any other questions for us, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Staying+Safe+and+Warm+This+Winter.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Staying+Safe+and+Warm+This+Winter.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Winter will be here before you know it. Here’s how you can get your home ready.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Winter will be here before you know it. Here’s how you can get your home ready.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Winterizing Your Sprinkler System in 3 Easy Steps</title>
+        <link>http://localhost:4000/winterizing-your-sprinkler-system-in-3-easy-steps.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-10-23 10:10:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Sprinkler+System.mp4</guid>
+        <description>
+
+To winterize your home’s sprinkler system and avoid costly damage, there are three steps you need to take. You can follow along in the video above as landscaping expert, Aaron Strong demonstrates these steps on a typical home sprinkler system.
+
+First, go inside your home’s utility room and find the sprinkler feed that runs from the inside to the outside of the house. Shut off the feed by flipping the lever 90 degrees so it runs parallel to the pipe. Next, open up the drain beneath the lever by unscrewing the cap. Put a bucket underneath the drain to catch any excess water that trickles out of the pipe during steps two and three.
+
+Second, move to the outside of the home and turn off the valves on your backflow preventer and sprinkler manifold. You can shot off the valves on your backflow preventer by turning them to a 45-degree angle. This will prevent any water that could be behind the ball valves from freezing by allowing it to escape. Turn the screws on the backflow preventer to a 45-degree angle as well. Some systems have a valve at the bottom of the pipe leading back into the house and some don’t, but if yours does, unscrew the cap and let the excess water drain out.
+
+“Not winterizing your sprinkler system can cause potential catastrophic damage to your foundation.”
+
+Some valves for the sprinkler manifold have automatic drains and some don’t. If yours has a manual drain, open it up so it drains all of the water out of the pipes in the manifold and there’s nothing left that could potentially freeze and bust the pipes.
+
+Lastly, go back inside the utility room and make sure the valve is open and draining properly. That will allow the water that’s in the line to drain so there’s is no water outside in your backflow preventer. When that’s done draining, your system will be winterized and ready to go.
+
+If you have any questions for us, please don’t hesitate to call or email us. We’d be happy to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Sprinkler+System.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Sprinkler+System.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>To winterize your home’s sprinkler system, there are three steps you must follow that we’ll demonstrate for you.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>To winterize your home’s sprinkler system, there are three steps you must follow that we’ll demonstrate for you.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Successfully Prep Your Home for Resale</title>
+        <link>http://localhost:4000/how-to-successfully-prep-your-home-for-resale.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-10-17 10:37:58 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Prepping+for+Resale.mp4</guid>
+        <description>
+
+Today we’re bringing you some quick tips on how to prepare your home for resale. 
+
+The first thing you need to do is go walk a model home. Builders spend a lot of money staging their model homes. What better place to get ideas? Best of all, this is free.
+
+Next, declutter. Less is more. 
+
+You have definitely filled your home with lots of love and memories. But when people enter your home, they want to see themselves in it. You’re going to be moving anyway, so decluttering can help you expedite the process.
+
+“When people enter your home, they want to see themselves in it.”
+
+Third: clean, clean, and clean some more. Focus on faceplates, light fixtures, bathrooms, and any other spaces that need it. What are buyers going to notice when they walk into your home? 
+
+You want to make sure your home is sparkling before buyers go through the door.
+
+If you have any questions about preparing your home for resale, don’t hesitate to reach out to us. We’d be happy to help
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Prepping+for+Resale.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Prepping+for+Resale.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>When you’re preparing your home for the market, there are a few key things you can do to really boost it’s shine.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>When you’re preparing your home for the market, there are a few key things you can do to really boost it’s shine.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Smart Money Tips for Homebuyers</title>
+        <link>http://localhost:4000/3-smart-money-tips-for-homebuyers.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-09-20 09:59:10 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4</guid>
+        <description>
+
+There are three things in particular that you need to know about your money when buying a home:
+
+1. You want to have all of your money come out of the same account. There will be a down payment, earnest money deposit, and closing costs. If they all come out of the same account, it will save you a lot of paperwork and headaches and make the transaction a lot smoother.
+
+2. Keep the money in the same account for at least 60 days if you can. During that time, the money seasons so the lender doesn’t have to source where all the money is coming from during the transaction. We don’t want to be tiptoeing any of those anti-money laundering laws.
+
+3. Avoid transferring money between accounts. We want to make sure that the money you bring to closing is in the same account that your earnest money came from. It makes the process cleaner, faster, and smoother for you.
+
+“Avoid transferring money between accounts until your sale is closed.”
+
+That’s all we have for today. If you have any questions for us or you’re interested in buying or selling a home, give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re buying a home, we’ve got some tips to help you make the process easier. Here are three of them.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>If you’re buying a home, we’ve got some tips to help you make the process easier. Here are three of them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Earnest Money Explained in Under 90 Seconds</title>
+        <link>http://localhost:4000/earnest-money-explained-in-under-90-seconds.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-09-05 05:29:02 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4</guid>
+        <description>
+
+Today we’re here with Tim Chase from 719 Lending to explain everything you need to know about earnest money. 
+
+First of all, what exactly is earnest money? 
+
+Earnest money is the equivalent of a security deposit. It’s the money you put down in order to proceed with the contract. In Colorado, there are many points throughout the contract that protect you as the buyer, so you can get your earnest money back if you were to exit the transaction. 
+
+The best part about earnest money is that if you get all the way to closing, that earnest money is yours! It can go toward your down payment or your closing costs, whatever it may be.
+
+A lot of buyers want to know if they can use a credit card to pay earnest money. Earnest money can only be provided through secured funds. This means that the funds you provide as earnest money must come from a bank account. Earnest money cannot be provided via cash, money order, or credit card.
+
+“If you get all the way to closing, that earnest money is yours!”
+
+Other buyers may have gift money that they want to use for the earnest money deposit. Luckily, you can use gift money as earnest money! It’s acceptable to have someone else provide you with earnest money, so long as they provide secured funds.
+
+Why are secured funds so important? Your lender is required to track where your earnest money comes from. Anti-money laundering laws require your lender to verify that the money you provide was in your bank account and came from your account. So once that earnest money check is cashed, plan on providing your lender with a new, updated bank statement.
+
+Don’t forget that once you close, that earnest money is all yours!
+
+If you have any other questions about earnest money or would like to learn more about real estate in our area, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Earnest+Money.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are answers to some frequently asked questions about earnest money.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Here are answers to some frequently asked questions about earnest money.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can Buyers Succeed in a Hot Seller's Market?</title>
+        <link>http://localhost:4000/how-can-buyers-succeed-in-a-hot-sellers-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-08-18 10:00:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+How+To+Win+New+Logo.mp4</guid>
+        <description>
+
+Today, we’ve got three essential tips that will help you win in a hot seller’s market.
+
+First of all, it’s incredibly important that you work with a local lender. In multiple offer situations, sellers are always going to choose an offer where the buyer is working with a local lender.
+
+A lot of buyers are in the market right now. However, inventory is low, which means demand is very high. This has led to over-bidding and several multiple offer situations.
+
+A recent statistic reports that every listing at $250,000 has more than 79 buyers.
+
+“A listing at $250,000 will have more than 79 buyers.”
+
+Therefore, buyers should be prepared to bid above asking price. Thankfully, we’ve got some tricks up our sleeve to help you compete.
+
+Outside of having a local lender, the next best tip is to not be defeated. We often tell people to plan on missing out on three homes.
+
+ Be prepared to miss out for a while, but eventually things will work out.
+
+The market is tough but great professionals can help you navigate this hot seller’s market.
+
+If you have any questions, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+How+To+Win+New+Logo.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+How+To+Win+New+Logo.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today we’re bringing you three essential tips for navigating this hot seller’s market.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Today we’re bringing you three essential tips for navigating this hot seller’s market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can a Buyer’s Agent Help You Find a Home?</title>
+        <link>http://localhost:4000/how-can-a-buyers-agent-help-you-find-a-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-07-31 07:49:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Buyer's+Agent.mp4</guid>
+        <description>
+
+Today we want to shed some light on why it’s important to have a buyer’s agent.
+
+The best part of working with a buyer’s agent is that it is free to you. The seller’s actually pay us to bring them qualified buyers to sell their home. So, most of the time, you can work with a buyer’s agent for free!
+
+Now, in Colorado you can be represented by a buyer’s agent, a seller’s agent, or a transaction broker.  When you work with a buyer’s agent, you have an advocate in your corner who is looking out for your best interests and has fiduciary duties to you, not the seller.
+
+“A buyer’s agent will work with your best interests in mind.”
+
+Another benefit of working with a buyer’s agent is that when you go to a lender without any representation, that can make things more difficult. Lenders like to work with agents who have been through the process a number of times. If you go in without representation, you won’t have someone to guide you through the lending and buying process.
+
+If you have any other questions about working with an agent or buying a home, just give us a call or send us an email. We would be happy to help you!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Buyer's+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+Buyer's+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Should you work with a buyer’s agent when you want to purchase a home? Yes! Here’s why.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Should you work with a buyer’s agent when you want to purchase a home? Yes! Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Welcome to Our Video Blog!</title>
+        <link>http://localhost:4000/welcome-to-our-video-blog.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Brian & Tiffany Canady</author>
+        <pubDate>2017-07-07 06:10:57 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Thanks for joining us today! Consider us your concierge for all things real estate. If there’s anything dealing with real estate that you have questions about, we’d love to help you learn more. Send us a message with any questions you have and don’t forget to subscribe!
+
+“”
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Consider us your concierge for all things real estate.</itunes:subtitle>
+        <itunes:author>Brian & Tiffany Canady</itunes:author>
+        <itunes:summary>Consider us your concierge for all things real estate.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>The 3 Upfront Costs in Any Real Estate Transaction</title>
-        <link>http://coloradospringsrealestatevideos.com//the-3-upfront-costs-in-any-real-estate-transaction.html</link>
+        <link>http://localhost:4000/the-3-upfront-costs-in-any-real-estate-transaction.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -38,8 +1272,8 @@
 Any real estate transaction will come with three upfront costs:
 
 
-  Earnest money: This is like a security deposit you pay as if you were renting. Usually, it’s 1% of the purchase price and acts as a safety net for the home sale so you can move forward with the transaction. 
-  Home inspection: This is a huge part of the process and the cost usually depends on the size and age of the home. It’s usually around $300 to $500, but it’s the best money you’ll spend throughout the process. Your due diligence is an important part of buying a home, and during inspection periods you can also do sewer and radon tests. 
+  Earnest money: This is like a security deposit you pay as if you were renting. Usually, it’s 1% of the purchase price and acts as a safety net for the home sale so you can move forward with the transaction.
+  Home inspection: This is a huge part of the process and the cost usually depends on the size and age of the home. It’s usually around $300 to $500, but it’s the best money you’ll spend throughout the process. Your due diligence is an important part of buying a home, and during inspection periods you can also do sewer and radon tests.
   Appraisals: You’ll have to pay for this requirement if you’re getting a home loan. The appraiser will go to the home and opine what it’s actually worth, and the cool part is that it will keep you from overpaying for the house. This typically costs between $550 and $800.
 
 
@@ -48,18 +1282,18 @@ Any real estate transaction will come with three upfront costs:
 If you have any other questions about the costs of buying or home or you’re looking to sell your house, give us a call or send us an email. We’re happy to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+3+upfront+costs+of+purchasing+a+home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://coloradospringsrealestatevideos.com/" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Brian+Canady+and+Tim+Chase/Colorado+Springs+Real+Estate+3+upfront+costs+of+purchasing+a+home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Anytime you buy a house, there will be upfront costs. These three will always have to be paid, so you should prepare accordingly.</itunes:subtitle>
         <itunes:author>Brian & Tiffany Canady</itunes:author>
         <itunes:summary>Anytime you buy a house, there will be upfront costs. These three will always have to be paid, so you should prepare accordingly.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs Real Estate, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Colorado Springs, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
     <copyright>Brian & Tiffany Canady</copyright>
     <media:credit role="author">Brian & Tiffany Canady</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from All Things Real Estate - your professional Colorado Springs Real Estate Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Homebound Team - your professional Colorado Springs Real Estate Agents.</media:description>
   </channel>
 </rss>
