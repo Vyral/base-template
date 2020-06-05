@@ -6,15 +6,15 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  Experts are optimistic that the housing market will rebound as the country
-  emerges from stay-at-home orders.....
+  Homes in the lower to mid value ranges are selling quickly, many times with
+  multiple offers. Homes in the upper value ranges....
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: JwALUJffh0c
+youtube_code: 9OmSRKo9FUw
 ---
 
 {% include youtube.html %}
