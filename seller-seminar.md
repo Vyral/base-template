@@ -6,11 +6,11 @@ permalink: /seller-seminar/
 <div class="recruiting-page">
 <h1 class="join-us">Ron Cedillo Home Selling Seminar</h1>
 <h5 class="join-us-subtitle">How to Get Top Dollar In Uncertain Times</h5>
-<p>LIVE: [AREA] Home Selling/Prep/Staging Workshop</p>
+<p>LIVE: {{site.data.settings.client.market}} Home Selling/Prep/Staging Workshop</p>
 
 <p>Clients and friends,</p>
 
-<p>Are you thinking about selling your [AREA] home?</p>
+<p>Are you thinking about selling your {{site.data.settings.client.market}} home?</p>
 
 <p>You're invited to my Home Selling Workshop!</p>
 
@@ -42,7 +42,7 @@ permalink: /seller-seminar/
 <p>If you're thinking about selling your home, you need to attend this.</p>
 <p>See you there!</p>
 
-<p>Call my mobile at [PHONE] if you have questions or if you need an offer on your home right away.</p>
+<p>Call my mobile at <a href="tel:{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a> if you have questions or if you need an offer on your home right away.</p>
 
 <p>Get your free ticket on Eventbrite here [We will link up to Eventbrite].</p>
 
