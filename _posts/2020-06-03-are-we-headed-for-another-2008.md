@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: There are a few key differences between today’s market and 2008’s.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/Are+We+Headed+for+Another+2008_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
