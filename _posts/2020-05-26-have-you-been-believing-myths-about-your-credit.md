@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Have you been believing misconceptions about your credit?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/Have+You+Been+Believing+Myths+About+Your+Credit_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
