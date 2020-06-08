@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Our Market Is In a Unique Position
-date: 2020-06-05 18:46:33
+title: Our Market Is in a Unique Position
+date: 2020-06-05 18:46:00
 tags:
   - Market Update
 excerpt: >-
@@ -19,4 +19,4 @@ youtube_code: 'https://youtu.be/wRBZHX4BqaQ'
 
 {% include youtube.html %}
 
-The real estate market is in a very unique position right now; social distancing restrictions are loosening, and we’re starting to see more open houses and home sales. Interest rates are at all-time lows, which gives buyers enormous purchasing power, but there are more buyers than there are homes for sale, which has caused demand to spike. To learn more about the unique position our market is in right now, watch this short video above.
+The real estate market is in a very unique position right now; social distancing restrictions are loosening, and we’re starting to see more open houses and home sales. Interest rates are at all-time lows, which gives buyers enormous purchasing power, but there are more buyers than there are homes for sale, causing demand to spike. However, the number of homes on the market is likely to increase soon. To learn more about the unique position our market is in right now, watch this short video above.
