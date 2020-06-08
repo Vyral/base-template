@@ -17,7 +17,7 @@ youtube_code: 4BgevBHAxFE
 
 {% include youtube.html %}
 
-What buyers want most depends on where they live. Learn more here.
+<p style="text-align: center;"><em>What buyers want most depends on where they live. Learn more here.</em></p>
 
 One question I receive often from sellers is: What are buyers looking for? There’s no one exact answer, but Realtor.com did some research where they examined keyword phrases used by people looking to move in each state.&nbsp;
 
