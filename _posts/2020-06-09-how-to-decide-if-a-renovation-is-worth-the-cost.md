@@ -13,8 +13,6 @@ youtube_alternate_image: /uploads/00-wade-unnamed-1.png
 youtube_code:
 ---
 
-![](/uploads/00-wade-unnamed-1.png){: width="500" height="430"}
-
 If you’ve ever watched HGTV, you know that they are big on home renovations.&nbsp; Chef-quality kitchens. Huge master bedrooms and bathrooms.&nbsp; Updating of outdoor spaces.
 
 And, it costs a lot of money.
