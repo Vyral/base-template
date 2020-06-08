@@ -15,7 +15,9 @@ youtube_code: hXoFFdDlcOQ
 
 {% include youtube.html %}
 
-Recently my Facebook account was hacked and deleted. Here’s what I learned:
+<center><em>Getting your Facebook hacked stinks, but here’s what I learned from it.</em></center>
+
+<br>Recently my Facebook account was hacked and deleted. Here’s what I learned:
 
 **1\. When we “surf on someone else’s digital land,”** as a friend of mine phrased it best, bad things can happen. Every day, we willingly give our thoughts, insights, and pictures to social media.
 
