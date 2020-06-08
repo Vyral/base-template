@@ -15,13 +15,13 @@ youtube_code: hXoFFdDlcOQ
 
 {% include youtube.html %}
 
-<center><em>Getting your Facebook hacked stinks, but here’s what I learned from it.</em></center>
+<center><em>Getting your Facebook hacked stinks, but here&rsquo;s what I learned from it.</em></center>
 
 <br>Recently my Facebook account was hacked and deleted. Here’s what I learned:
 
 **1\. When we “surf on someone else’s digital land,”** as a friend of mine phrased it best, bad things can happen. Every day, we willingly give our thoughts, insights, and pictures to social media.
 
-**2\. Facebook and Instagram are connected**—if you lose one, you lose them both\! Ouch... again, it was not fun.
+**2\. Facebook and Instagram are connected**—if you lose one, you lose them both\! Ouch… again, it was not fun.
 
 **3\. We must own where we put our content**, or at least back it up, so that way if it’s lost, it's not lost forever. I acted fast and reached out to my business coach and marketing friend for help.
 
