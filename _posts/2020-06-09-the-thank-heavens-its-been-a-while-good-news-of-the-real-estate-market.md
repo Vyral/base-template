@@ -19,7 +19,7 @@ youtube_code: zmT0PRWhayw
 
 {% include youtube.html %}
 
-I have incredible news about the real estate market\!
+<p style="text-align: center;"><em>I have incredible news about the real estate market!</em></p>
 
 Q: “Jeremy, after COVID-19, riots, and some murder hornets, how’s the real estate market?”
 
