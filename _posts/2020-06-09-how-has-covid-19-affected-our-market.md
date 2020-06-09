@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Has COVID-19 Affected Our Market?
+title: "How Has COVID-19 Affected Our Market?"
 date: 2020-06-09 14:01:28
 tags:
   - Market Update
