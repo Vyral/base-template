@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Navigating Your Mortgage Options in Hawaii
-date: 2020-06-09 19:29:12
+date: 2020-06-09 19:29:00
 tags:
 excerpt:
 enclosure:
