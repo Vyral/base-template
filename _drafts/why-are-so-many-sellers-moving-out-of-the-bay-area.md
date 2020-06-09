@@ -19,7 +19,9 @@ youtube_code: sqo8zOAy6R0
 
 {% include youtube.html %}
 
-Today’s topic can be summed up in one sentence: Go east, young man.
+<center><em>There’s an eastward migration happening in our market.</em></center>
+
+<br>Today’s topic can be summed up in one sentence: Go east, young man.
 
 Over the last few weeks, we’ve seen a lot of people moving from the Bay Area to the Central Valley due to more and more companies allowing their workers to work from home (and to a lesser extent, low interest rates). This has had a big impact on our market. We’ve seen a huge influx of young buyers who don’t have to live in higher-priced areas anymore—areas where they had previously been renters.
 
