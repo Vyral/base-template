@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Did You Know I Have a Radio Show?
-date: 2020-05-22 16:34:53
+date: 2020-06-09 00:00:00
 tags:
   - Real Estate
 excerpt: I host a radio show each Monday that’s a great real estate resource.
