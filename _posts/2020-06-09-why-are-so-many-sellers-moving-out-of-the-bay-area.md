@@ -32,5 +32,3 @@ This has been a welcome improvement to our market because **sellers are benefiti
 If you’ve been thinking about leaving California and moving to another state but are still on the fence about selling, give us a call. We’d love to talk more about why now’s an optimal time to sell. There are far more buyers than there are sellers out there, so **it’s a great time to get top dollar**.
 
 As always, if you have any other real estate questions, feel free to reach out to us. We’re here to help.
-
-&nbsp;
