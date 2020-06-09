@@ -19,7 +19,7 @@ youtube_code: sqo8zOAy6R0
 
 {% include youtube.html %}
 
-<center><em>There’s an eastward migration happening in our market.</em></center>
+<center><em>There&rsquo;s an eastward migration happening in our market.</em></center>
 
 <br>Today’s topic can be summed up in one sentence: Go east, young man.
 
