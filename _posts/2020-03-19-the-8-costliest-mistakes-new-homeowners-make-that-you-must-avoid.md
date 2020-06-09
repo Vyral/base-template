@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 8 Costliest Mistakes New Homeowners Make That You Must Avoid
-date: 2020-06-09 00:00:00
+date: 2020-06-08 21:30:12
 tags:
   - Expert Advice
 excerpt: 'If you’re a new homeowner, there are eight costly mistakes you must avoid.'
