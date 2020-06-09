@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dustin-sherlin-market-update-june-2020-yt.jpg
-youtube_code: 'https://youtu.be/wRBZHX4BqaQ'
+youtube_code: cu3QsNDA1k8
 ---
 
 {% include youtube.html %}
