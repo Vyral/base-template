@@ -23,10 +23,10 @@ One question I receive often from sellers is: What are buyers looking for? There
 
 **In 13 states, the most frequent search words were “ADU,” “additional dwelling unit,” “guest house,” or “mother-in-law.”** These are all words meaning they’re searching for extra space for another person to occupy in their home. About 12% of residential sales in the U.S. are intergenerational purchases; in other words, parents looking to house older children, or kids looking to house their parents with them.&nbsp;
 
-Montana was one of the states who searched “guest house” the most. This links back to my previous video where I discussed the buying habits of people in our state. Other states’ highest number of searches included “brick,” “yard,” “main floor master,” “acreage,” etc. One of the most interesting was Pennsylvania, whose main search was “parking.”
+Montana was one of the states that searched “guest house” the most. This links back to my previous video where I discussed the buying habits of people in our state. Other states’ highest number of searches included “brick,” “yard,” “main floor master,” “acreage,” etc. One of the most interesting was Pennsylvania, whose main search was “parking.”
 
 {% include pullquote.html %}
 
-**You can**[**read the full article here.**](https://www.realtor.com/research/what-features-are-home-buyers-searching-for-heres-the-most-popular-home-feature-per-state) Enjoy browsing the different states, especially if you’re considering a move.&nbsp;
+**You can** [**read the full article here.**](https://www.realtor.com/research/what-features-are-home-buyers-searching-for-heres-the-most-popular-home-feature-per-state) Enjoy browsing the different states, especially if you’re considering a move.&nbsp;
 
 Thank you for all the positive comments and questions we receive from these videos. If you have any questions about real estate, please reach out via phone or email. We would love to help you.
