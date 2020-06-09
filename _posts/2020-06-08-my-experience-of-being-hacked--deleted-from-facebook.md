@@ -19,7 +19,7 @@ youtube_code: hXoFFdDlcOQ
 
 <br>Recently my Facebook account was hacked and deleted. Here’s what I learned:
 
-**1\. When we “surf on someone else’s digital land,”** as a friend of mine phrased it best, bad things can happen. Every day, we willingly give our thoughts, insights, and pictures to social media.
+**1\. When we “serf on someone else’s digital land,”** as a friend of mine phrased it best, bad things can happen. Every day, we willingly give our thoughts, insights, and pictures to social media.
 
 **2\. Facebook and Instagram are connected**—if you lose one, you lose them both\! Ouch… again, it was not fun.
 
