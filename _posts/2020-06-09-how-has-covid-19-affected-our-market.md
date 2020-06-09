@@ -17,7 +17,7 @@ youtube_code: tZ2kVJprPGA
 
 {% include youtube.html %}
 
-Due to COVID-19, our market is trending differently from previous years.
+<p style="text-align: center;"><em>Due to COVID-19, our market is trending differently from previous years.</em></p>
 
 I hope that you’re all staying safe and healthy\! Though the country has begun to reopen, it’s still wise to be cautious when coming into contact with others. In addition to checking in to see how you’re doing, I also wanted to fill you in on how COVID-19 and the ensuing stay-at-home orders have affected the market and what the short- and long-term plans might look like.
 
