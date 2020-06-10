@@ -6,7 +6,7 @@ permalink: /seller-seminar/
 <div class="recruiting-page">
 <h1 class="join-us">Ron and Eva Home Selling Seminar</h1>
 <h5 class="join-us-subtitle">How to Get Top Dollar In Uncertain Times</h5>
-<p>LIVE: {{site.data.settings.client.market}} Home Selling/Prep/Staging Workshop</p>
+<p>LIVE: East Bay Home Selling/Prep/Staging Workshop</p>
 
 <p>Clients and friends,</p>
 
