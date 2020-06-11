@@ -43,6 +43,6 @@ Overall, the market is very strong right now. We’ll continue to update you on 
 
 We’ve found that we often get asked a lot of the same questions by sellers concerned about doing things right—especially amid uncertain circumstances. As such, **we’ve put together a comprehensive home seller workshop** that I’ll be hosting shortly. It’s a free, no-obligation event aimed at providing some helpful information for sellers in our area. We’ll cover the five important variables of a home sale and how manipulating those variables according to your specific situation will dictate how quickly you sell your house and how much it sells for. We’ll also be updating sellers on the most current market conditions.&nbsp;
 
-**Sign up at**[**www.housesellinginsights.com**](http://www.housesellinginsights.com)**.** There are limited seats available, so act now.&nbsp;
+**Sign up at** [**www.housesellinginsights.com**](http://www.housesellinginsights.com)**.** There are limited seats available, so act now.&nbsp;
 
 As always, reach out via phone or email if you have questions about this or any other topic. We’re here to be a resource for you.
