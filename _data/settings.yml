@@ -8,8 +8,6 @@ show_custom_links: true
 custom_links:
   - title: Seller Seminar
     url: /seller-seminar/
-  - title: 
-    url: 
 client:
   name: Ron & Eva Cedillo
   license_number:
