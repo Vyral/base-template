@@ -21,7 +21,8 @@ youtube_code: YR0lOcmFUWU
 
 {% include youtube.html %}
 
-If you’re planning to sell this spring, be careful about making quick decisions.
+<p style="text-align: center;"><em>
+If you’re planning to sell this spring, be careful about making quick decisions.</em></p>
 
 If you’re a home seller thinking about entering the market this spring, I caution you to avoid making quick decisions and hiring the first Realtor you speak to.
 
