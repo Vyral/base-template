@@ -15,7 +15,7 @@ permalink: /seller-seminar/
 <p>You're invited to our Home Selling Workshop!</p>
 
 <p>Get your free ticket on Eventbrite
-<a href="https://www.eventbrite.com/e/home-selling-seminar-how-to-get-top-dollar-in-uncertain-times-tickets-109050274306"here</a></p>
+<a href="https://www.eventbrite.com/e/home-selling-seminar-how-to-get-top-dollar-in-uncertain-times-tickets-109050274306"target="_blank">here</a></p>
 
 <p>It's a virtual, online event to stay safe.</p>
 
@@ -46,7 +46,7 @@ permalink: /seller-seminar/
 <p>Call our office at <a href="tel:{{site.data.settings.client.phone}}">{{site.data.settings.client.phone}}</a> if you have questions or if you need an offer on your home right away.</p>
 
 <p>Get your free ticket on Eventbrite
-<a href="https://www.eventbrite.com/e/home-selling-seminar-how-to-get-top-dollar-in-uncertain-times-tickets-109050274306"here</a></p>
+<a href="https://www.eventbrite.com/e/home-selling-seminar-how-to-get-top-dollar-in-uncertain-times-tickets-109050274306"target="_blank">here</a></p>
 
 ----
 <p>{{site.data.settings.client.name}}<br>
