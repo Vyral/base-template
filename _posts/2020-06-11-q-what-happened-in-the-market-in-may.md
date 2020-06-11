@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Though some numbers were down, the latest stats for May show strength.
+<p style="text-align: center;"><em>Though some numbers were down, the latest stats for May show strength.</em></p>
 
 Here are the numbers you need to know for May:
 
