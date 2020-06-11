@@ -18,6 +18,7 @@ youtube_code: tZ2kVJprPGA
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Due to COVID-19, our market is trending differently from previous years.</em></p>
+<p style="text-align: center; font-weight: 700;"><em>The most up-to-date information is included below</em></p>
 
 I hope that you’re all staying safe and healthy\! Though the country has begun to reopen, it’s still wise to be cautious when coming into contact with others. In addition to checking in to see how you’re doing, I also wanted to fill you in on how COVID-19 and the ensuing stay-at-home orders have affected the market and what the short- and long-term plans might look like.
 
@@ -30,3 +31,7 @@ First, let’s look at some of the seller statistics. **The number of new listin
 Now we’re seeing a lot of activity due to pent-up demand. Our inventory is currently low, but **there are still many buyers in the market because interest rates are very low.** As a result, there have been quite a few multiple-offer situations. In fact, the amount of time that homes spent on the market dropped by 7.6% year to date.
 
 If you’re planning to buy or sell a home, please contact me so that we can come up with a strategy to help you succeed.
+
+<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133548.png" width="50%">
+<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133633.png" width="50%">
+<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133700.png" width="50%">
