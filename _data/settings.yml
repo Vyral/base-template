@@ -8,6 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Seller Seminar
     url: /seller-seminar/
+  - title: Events
+    url: https://www.eventbrite.com/e/home-selling-seminar-how-to-get-top-dollar-in-uncertain-times-tickets-109050274306
 client:
   name: Ron & Eva Cedillo
   license_number:
