@@ -18,7 +18,9 @@ hidden: false
 
 {% include youtube.html %}
 
-Real estate is hot here in Tulsa and homes are flying off the market. However, before you make the decision to sell, I want to ask you some questions to understand how to best help you with your real estate needs.
+<center><em>Here’s what home sellers should know before they decide to sell.</em></center>
+
+<br>Real estate is hot here in Tulsa and homes are flying off the market. However, before you make the decision to sell, I want to ask you some questions to understand how to best help you with your real estate needs.
 
 **My first question: Were you already thinking about making a move this spring or summer?** The market has really heated up over the last few weeks, but since we were deemed essential here in Tulsa, we’ve been set up and working our systems virtually to help buyers and sellers this whole time.
 
