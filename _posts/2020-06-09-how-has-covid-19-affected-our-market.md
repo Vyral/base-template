@@ -32,6 +32,6 @@ Now we’re seeing a lot of activity due to pent-up demand. Our inventory is cur
 
 If you’re planning to buy or sell a home, please contact me so that we can come up with a strategy to help you succeed.
 
-<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133548.png" width="50%">
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133548.png" width="50%">
 <img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133633.png" width="50%">
-<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133700.png" width="50%">
+<img src="https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Annotation+2020-06-11+133700.png" width="50%"></div>
