@@ -18,7 +18,7 @@ hidden: false
 
 {% include youtube.html %}
 
-<center><em>Here’s what home sellers should know before they decide to sell.</em></center>
+<center><em>Here&rsquo;s what home sellers should know before they decide to sell.</em></center>
 
 <br>Real estate is hot here in Tulsa and homes are flying off the market. However, before you make the decision to sell, I want to ask you some questions to understand how to best help you with your real estate needs.
 
