@@ -35,3 +35,5 @@ We’re also watching and monitoring the real estate market every day. As a team
 If buying or selling is something you have in mind but you’re still a little nervous about starting the process, don’t hesitate to reach out to us to learn more about how we can help you buy or sell safely or even virtually.
 
 If you have any other questions, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+
+&nbsp;
