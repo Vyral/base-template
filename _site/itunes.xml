@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HBR Team - your professional Tracy Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Ron & Eva Cedillo</managingEditor>
-    <lastBuildDate>2020-06-05 12:44:06 -0500</lastBuildDate>
+    <lastBuildDate>2020-06-12 16:03:40 -0500</lastBuildDate>
     <media:copyright>Ron & Eva Cedillo</media:copyright>
     <media:thumbnail url="http://i.imgur.com/S2EULVg.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tracy, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,43 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HBR Team - your professional Tracy Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>Why Are So Many Sellers Moving Out of the Bay Area?</title>
+        <link>http://localhost:4000/why-are-so-many-sellers-moving-out-of-the-bay-area.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Ron & Eva Cedillo</author>
+        <pubDate>2020-06-08 19:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+There&rsquo;s an eastward migration happening in our market.
+
+Today’s topic can be summed up in one sentence: Go east, young man.
+
+Over the last few weeks, we’ve seen a lot of people moving from the Bay Area to the Central Valley due to more and more companies allowing their workers to work from home (and to a lesser extent, low interest rates). This has had a big impact on our market. We’ve seen a huge influx of young buyers who don’t have to live in higher-priced areas anymore—areas where they had previously been renters.
+
+This has been a welcome improvement to our market because sellers are benefiting tremendously and home prices are rising. Every property we listed the week before the recording of this video attracted multiple offers and sold above asking price. Additionally, many home sellers in our area are moving even further east and settling in the Midwest.
+
+“We’ve seen a huge influx of young buyers who don’t have to live in higher-priced areas anymore.”
+
+If you’ve been thinking about leaving California and moving to another state but are still on the fence about selling, give us a call. We’d love to talk more about why now’s an optimal time to sell. There are far more buyers than there are sellers out there, so it’s a great time to get top dollar.
+
+As always, if you have any other real estate questions, feel free to reach out to us. We’re here to help.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There’s an eastward migration happening in our market.</itunes:subtitle>
+        <itunes:author>Ron & Eva Cedillo</itunes:author>
+        <itunes:summary>There’s an eastward migration happening in our market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Tracy, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Are We Seeing More Activity as Things Open Back Up?</title>
         <link>http://localhost:4000/are-we-seeing-more-activity-as-things-open-back-up.html</link>

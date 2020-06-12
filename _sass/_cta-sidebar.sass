@@ -26,7 +26,7 @@
 	// padding: 20px
 	margin: 0px auto 30px
 
-.ctalink
+.ctalink2
 	justify-content: center
 	background: $brand
 	border: 1px solid $brand
@@ -34,6 +34,31 @@
 	padding: 10px 20px
 	text-decoration: none
 	font-size: 18px
+	color: $light-text
+	+transition
+	a
+		text-align: center
+	&:hover
+		background: transparent
+		color: $brand-light
+		box-shadow: 4px 4px 0 $brand-light
+		border: 1px solid $brand-light
+		@include transform(scale(1.05))
+		@include transform(translateY(-0.2rem))
+	&:active
+		box-shadow: 0 0 0 $brand-light
+		@include transform(translateY(0rem))
+
+
+.ctalink
+	justify-content: center
+	background: $brand
+	border: 1px solid $brand
+	border-radius: $button-radius
+	padding: 10px 20px
+	text-decoration: none
+	font-size: 20px
+	font-weight: bold
 	color: $light-text
 	+transition
 	a

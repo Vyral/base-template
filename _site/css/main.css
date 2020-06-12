@@ -1228,7 +1228,7 @@ html[xmlns] .flexslider .slides {
 .ctacontainer {
   margin: 0px auto 30px; }
 
-.ctalink {
+.ctalink2 {
   justify-content: center;
   background: #810038;
   border: 1px solid #810038;
@@ -1236,6 +1236,33 @@ html[xmlns] .flexslider .slides {
   padding: 10px 20px;
   text-decoration: none;
   font-size: 18px;
+  color: white;
+  transition: all 0.15s ease-out 0s; }
+  .ctalink2 a {
+    text-align: center; }
+  .ctalink2:hover {
+    background: transparent;
+    color: #e70064;
+    box-shadow: 4px 4px 0 #e70064;
+    border: 1px solid #e70064;
+    -webkit-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transform: translateY(-0.2rem);
+    transform: translateY(-0.2rem); }
+  .ctalink2:active {
+    box-shadow: 0 0 0 #e70064;
+    -webkit-transform: translateY(0rem);
+    transform: translateY(0rem); }
+
+.ctalink {
+  justify-content: center;
+  background: #810038;
+  border: 1px solid #810038;
+  border-radius: 0px;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
   color: white;
   transition: all 0.15s ease-out 0s; }
   .ctalink a {
