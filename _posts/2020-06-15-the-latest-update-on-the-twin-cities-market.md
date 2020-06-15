@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/7UrfMKibq4c'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>How is our market doing amid the COVID-19 pandemic?</em></p>
+
 Now that we’re in the first part of summer 2020, we can all look back and say it’s already been quite a year so far. Obviously, there has been the issue of COVID-19 shutting down the country (and the world) for a while, but nevertheless, our real estate market has been humming along. Most people are still buying and selling homes, so our market wasn’t really affected all that much.
 
 **Single-family homes between $300,000 and $500,000 are still selling very quickly,** but one thing that has changed in the Twin Cities market is that lower-end properties are selling slower than normal—especially townhomes.&nbsp;
