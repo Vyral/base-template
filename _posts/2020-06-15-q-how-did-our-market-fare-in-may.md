@@ -5,7 +5,7 @@ date: 2020-06-15 15:19:00
 tags:
 excerpt: Here’s our market’s May 2020 performance in a wider context.
 enclosure:
-pullquote:
+pullquote: The inventory crunch is real; we’re down 20.5% month over month.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
