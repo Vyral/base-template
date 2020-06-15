@@ -10,7 +10,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/6-9-20yt.jpg
 youtube_code: l-y6sk7fSPs
 ---
@@ -18,6 +18,7 @@ youtube_code: l-y6sk7fSPs
 {% include youtube.html %}
 
 <center><em>We recently hosted a Facebook Live event with Anthony Valentino of Guild Mortgage to answer your questions regarding forbearance.</em></center>
+
 &nbsp;
 
 As we head into the 4th month since COVID-19 rocked our world, many things have occurred within the nation’s banking and lending systems. We’ve had moratoriums on evictions, forbearance on mortgage payments, a tightening of underwriting standards and an ever-changing lending landscape. Many homeowners have been asking us about forbearance and how they determine their personal situation and what the best strategy is for them.&nbsp;
