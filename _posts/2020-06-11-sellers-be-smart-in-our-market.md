@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sellers: Be Smart In Our Market'
+title: 'Sellers: Be Smart in Our Market'
 date: 2020-06-11 21:28:45
 tags:
   - Real Estate
