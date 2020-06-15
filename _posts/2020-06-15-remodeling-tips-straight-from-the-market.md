@@ -17,7 +17,7 @@ youtube_code: Oly3eehwi1U
 
 {% include youtube.html %}
 
-Here are a few tips and tricks to consider if you’re thinking of remodeling.
+<p style="text-align: center;"><em>Here are a few tips and tricks to consider if you’re thinking of remodeling.</em></p>
 
 Should you remodel your home or not?
 
