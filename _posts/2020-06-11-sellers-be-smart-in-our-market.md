@@ -30,6 +30,6 @@ If you’re a home seller thinking about entering the market this spring, I caut
 
 {% include pullquote.html %}
 
-I can’t tell you how many times I’ve seen sellers leaving money on the table by not doing a simple marketing technique or service that should have been used from the start. Remember that **most properties are going to get the most activity and the best offers in the first couple of weeks after you list it.** You’re in the driver’s seat, so make sure that you’re in a position of strength.
+I can’t tell you how many times I’ve seen sellers leaving money on the table by not using a simple marketing technique or service that should have been used from the start. Remember that **most properties are going to get the most activity and the best offers in the first couple of weeks after you list it.** You’re in the driver’s seat, so make sure that you’re in a position of strength.
 
 If you’re thinking about selling your home in our marketplace, don’t hesitate to reach out to me. Let’s make an appointment to look at your home, where I can walk you through our selling process. I hope to hear from you soon\!
