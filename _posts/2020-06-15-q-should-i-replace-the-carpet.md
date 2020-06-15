@@ -17,7 +17,7 @@ youtube_code: puSLzc-MX3Q
 
 {% include youtube.html %}
 
-If you have carpet in your rental property, it may be time to replace it.
+<p style="text-align:center">If you have carpet in your rental property, it may be time to replace it.</p>
 
 I get asked all the time by rental owners if they should replace the carpet in their properties with wood, vinyl, or tile. My answer to these questions is always yes.&nbsp;
 
@@ -29,4 +29,4 @@ Today many floor products are being made harder, water-resistant, or waterproof.
 
 My recommendation is to switch to waterproof vinyl if it’s time to change the flooring in your house. There are many products out there, so you can choose what’s best for your property.&nbsp;
 
-If you have questions about flooring or property management, please call or email us. We would love to speak with you. Aloha\!
+If you have questions about flooring or property management, please call or email us. We would love to speak with you. Aloha!
