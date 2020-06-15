@@ -17,7 +17,7 @@ youtube_code: puSLzc-MX3Q
 
 {% include youtube.html %}
 
-<p style="text-align:center">If you have carpet in your rental property, it may be time to replace it.</p>
+<p style="text-align:center"><em>If you have carpet in your rental property, it may be time to replace it.</em></p>
 
 I get asked all the time by rental owners if they should replace the carpet in their properties with wood, vinyl, or tile. My answer to these questions is always yes.&nbsp;
 
