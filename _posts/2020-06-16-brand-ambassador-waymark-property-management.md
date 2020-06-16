@@ -21,7 +21,7 @@ youtube_code: YGGoJ2AJc2E
 
 {% include youtube.html %}
 
-Real estate is a great investment for everyone, but managing a property isn’t. Here’s how Waymark can help you fill the gap and ease the headaches.
+<p style="text-align: center;"><em>Real estate is a great investment for everyone, but managing a property isn’t. Here’s how Waymark can help you fill the gap and ease the headaches.</em></p>
 
 I’m back with another exciting look at a great local business in my Brand Ambassador Program. Today I’m joined by Cal Yoder from Waymark Property Management to talk about what he does.
 
