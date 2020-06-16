@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s what home sellers should know before they decide to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Should+You+Sell+Your+Home_.mp4
 pullquote: Demand for homes remains very high in Tulsa.
 enclosure_type: video/mp4
 enclosure_time:
