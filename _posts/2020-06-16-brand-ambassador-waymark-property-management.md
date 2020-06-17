@@ -25,9 +25,9 @@ youtube_code: YGGoJ2AJc2E
 
 I’m back with another exciting look at a great local business in my Brand Ambassador Program. Today I’m joined by Cal Yoder from Waymark Property Management to talk about what he does.
 
-**As a property investor himself, Cal knows the pains of self-management on investors.** He started his business to remove the barriers of pain that people have when trying to manage their own properties. I’m well aware of the headaches that come up and how the services Cal and his team provide can help.
+**As a property investor himself, Cal knows the pains of self-management on investors.** He started his business to remove the barriers that people have when trying to manage their properties. I’m well aware of the headaches that come up and how the services Cal and his team provide can help.
 
-They provide property management services for both residential and commercial units. They help their clients with collecting rent, making repairs, and more. Then, they cut property owners a check at the end of each month with the full detailed list of expenses and profits, making things headache-free for owners. **They’re ready to help any and everyone who owns property in Cumberland or Dolphin Counties.**
+They provide property management services for both residential and commercial units. They help their clients with collecting rent, making repairs, and more. Then, they cut property owners a check at the end of each month with the full detailed list of expenses and profits, making things headache-free for owners. **They’re ready to help any and everyone who owns property in Cumberland or Dauphin Counties.**
 
 One of the most common questions they hear from prospective clients is, “Can I trust you to care about my property as much as I do?” Cal owns investment properties himself, and he ensures that he and his team care for every single property as if they owned it.
 
