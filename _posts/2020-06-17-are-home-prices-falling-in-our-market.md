@@ -5,7 +5,8 @@ date: 2020-06-17 15:10:03
 tags:
   - Market Update
 excerpt: Here’s what’s really happening in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+market+update+with+captions.mp4
 pullquote: >-
   As for the rest of 2020, we don’t expect the market to change much or start
   trending downward.
@@ -18,7 +19,7 @@ youtube_code: Lje0plLTSJY
 
 {% include youtube.html %}
 
-What do the latest numbers say about our market?
+<p style="text-align: center;"><em>What do the latest numbers say about our market?</em></p>
 
 Last May, there were 361 fewer closed escrows and 238 fewer listings than what we saw in May 2019. Additionally, there were 1,041 total properties for sale in the San Fernando Valley—a decrease of over 20% compared to May 2019.&nbsp;
 
