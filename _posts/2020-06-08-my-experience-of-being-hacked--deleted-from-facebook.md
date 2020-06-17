@@ -4,7 +4,8 @@ title: My Experience of Being Hacked & Deleted From Facebook
 date: 2020-06-08 00:00:00
 tags:
 excerpt: 'Getting your Facebook hacked stinks, but here’s what I learned from it.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/My+Experience+of+Being+Hacked+%26+Deleted+From+Facebook.mp4
 pullquote: 'Frustratingly, there is no way to contact a real human at Facebook for help.'
 enclosure_type: video/mp4
 enclosure_time:
