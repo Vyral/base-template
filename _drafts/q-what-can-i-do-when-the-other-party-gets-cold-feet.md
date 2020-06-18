@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/06-17-gray-youtube.jpg
 youtube_code: u19uIz_6A_w
 ---
 
-{% include youtube.html %}If a party defaults on the contract, you have two main options.
+{% include youtube.html %}<center>If a party defaults on the contract, you have two main options.</center>
 
 Today I’m addressing a question I hear from real estate agents regularly: What can you do when the cooperating party in a transaction defaults on the contract? What options does your client have?&nbsp;
 
