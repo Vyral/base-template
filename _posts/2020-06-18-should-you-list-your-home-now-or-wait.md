@@ -17,7 +17,7 @@ youtube_code: P2hQM3ZzkxA
 
 {% include youtube.html %}
 
-Homes are still selling, and here’s a story to illustrate how it’s done.
+<p style="text-align: center;"><em>Homes are still selling, and here’s a story to illustrate how it’s done.</em></p>
 
 I’ve been getting many questions lately about how our current market is doing. One question some people have is whether they should list their home now or wait until the coronavirus eases further.&nbsp;
 
