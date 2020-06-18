@@ -36,3 +36,7 @@ One of the most common questions they hear from prospective clients is, “Can I
 If you want to learn more about Waymark and how they might be able to help you, [visit them](https://waymarkpropertymanagement.com/) online or give Cal a call directly at (717) 413-0744. Right now, you can get a free consultation from Cal and his team, including a free investment consultation for a property you’re thinking about buying.
 
 If you have any real estate questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+
+<div style="text-align: center;">
+  <img src="https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Brand+Ambassador+Coupons/unnamed+(1).jpg" width="80%">
+</div>
