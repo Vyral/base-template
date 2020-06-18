@@ -34,3 +34,5 @@ We track the absorption rate, which is how you tell whether we're in a buyer’s
 If you are thinking about buying or selling a home, we can help you navigate the current market to get the deal done. Stay tuned for our next video, where we’ll show you how to enhance your odds of finding the right home if you’re a buyer in this market.
 
 If you have any questions for us, don’t hesitate to reach out via phone or email. We look forward to hearing from you.
+
+&nbsp;
