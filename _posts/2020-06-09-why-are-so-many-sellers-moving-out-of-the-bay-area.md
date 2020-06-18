@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There’s an eastward migration happening in our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/Why+Are+So+Many+Sellers+Moving+Out+of+the+Bay+Area_.mp4
 pullquote: >-
   We’ve seen a huge influx of young buyers who don’t have to live in
   higher-priced areas anymore.
