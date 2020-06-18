@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Can I Do When the Other Party Gets Cold Feet?'
-date:
+date: 2020-06-18 14:11:18
 tags:
 excerpt: 'If a party defaults on the contract, you have two main options.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/06-17-gray-youtube.jpg
 youtube_code: u19uIz_6A_w
 ---
 
-{% include youtube.html %}<center>If a party defaults on the contract, you have two main options.</center>
+{% include youtube.html %}
+
+<center>If a party defaults on the contract, you have two main options.</center>
+
+&nbsp;
 
 Today I’m addressing a question I hear from real estate agents regularly: What can you do when the cooperating party in a transaction defaults on the contract? What options does your client have?&nbsp;
 
