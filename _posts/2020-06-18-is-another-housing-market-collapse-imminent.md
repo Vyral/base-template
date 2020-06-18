@@ -17,7 +17,7 @@ youtube_code: ZlQYRAYcXt4
 
 {% include youtube.html %}
 
-<center><em>Here’s our take on whether our market is headed for disaster or not.</em></center>
+<center><em>Here&rsquo;s our take on whether our market is headed for disaster or not.</em></center>
 
 <br>One question that we’ve been hearing a lot lately is, “Are we in a bubble?” The real estate market is on fire right now, and the last time we saw something like this was in 2007. This was right before things hit the fan and went berserk. Understandably, there are a lot of people concerned that will happen again.
 
