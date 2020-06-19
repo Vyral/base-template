@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: Here’s what’s really happening in our market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+market+update+with+captions.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+market+update+with+intro.mp4
 pullquote: >-
   As for the rest of 2020, we don’t expect the market to change much or start
   trending downward.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Lje0plLTSJY
+youtube_code: FVvvRaf71K0
 ---
 
 {% include youtube.html %}
