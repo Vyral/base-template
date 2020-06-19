@@ -17,7 +17,7 @@ youtube_code: MvxthPOhVDE
 
 {% include youtube.html %}
 
-The first step in dealing with emotions as a home seller? Normalize them.
+<p style="text-align: center;"><em>The first step in dealing with emotions as a home seller? Normalize them.</em></p>
 
 When you put the house you’ve lived in for a long time on the market and get the number you wanted for it, you feel excited—that’s a good thing. However, as the process progresses, **you may begin to experience a whole gamut of other emotions, ranging from remorse to nostalgia to downright nervousness.&nbsp;**
 
