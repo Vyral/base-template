@@ -5,7 +5,7 @@ permalink: /join-our-team/
 ---
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in Salt Lake City</h1>
-<h5 class="join-us-subtitle">Click <a href="https://realestatecareersinutah.com/join-our-team/" target="_blank">here</a> to learn more about our $75,000 Guaranteed Income</h5>
+<h5 class="join-us-subtitle">Click <a href="#form">here</a> to learn more about our $75,000 Guaranteed Income</h5>
 <div class="recruiting-photo">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 <figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
@@ -63,7 +63,7 @@ permalink: /join-our-team/
 
 <p>I can guarantee that if you join us and follow the proven path we’ve laid out, you’ll have more leads than you know what to do with, as well as the opportunity to earn a six-figure income.</p>
 
-<p><strong>If you’re ready to start living your own success story, we need to talk.</strong> </p>
+<p><a name="form"></a><strong>If you’re ready to start living your own success story, we need to talk.</strong> </p>
 
 <p>Of course, space is limited. So if you’re interested in joining our team and making a career move that will change your life, please feel free to give us a call or send us an email today. We look forward to hearing from you soon.</p>
 
