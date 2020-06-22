@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/5nximtbGAww'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why both buyers and sellers have good reason to act now.</em></p>
+
 Inventory is once again at the forefront of our discussion over the ongoing impact of COVID-19 on our market. &nbsp;If we look at the second of June (the latest data set we have at the moment), the number of new homes listed was down 11% over the same week of the prior year. Pending listings, on the other hand, were up about 30%, meaning more **homes are selling than are coming to market.&nbsp;**
 
 This inventory problem is being compounded by the fact that work-at-home arrangements adopted by many companies means less relocations. Relocation listings are down 33% year over year. We’re still seeing homes selling fast (some within one to two days) and above asking price.&nbsp;
