@@ -19,9 +19,9 @@ youtube_code: ZlQYRAYcXt4
 
 <center><em>Here&rsquo;s our take on whether our market is headed for disaster or not.</em></center>
 
-<br>One question that we’ve been hearing a lot lately is, “Are we in a bubble?” The real estate market is on fire right now, and the last time we saw something like this was in 2007. This was right before things hit the fan and went berserk. Understandably, there are a lot of people concerned that will happen again.
+<br>One question that we’ve been hearing a lot lately is, “Are we in a bubble?” The real estate market is on fire right now, and the last time we saw something like this was in 2007. That was right before things hit the fan and went berserk. Understandably, there are a lot of people concerned that will happen again.
 
-**The truth is that a lot of things are different about this market than the one we saw in 2007**. For starters, a lot of the problems back then were man-made. You had Wall Street making money on mortgage-backed securities and asking banks to make more mortgages so they could make more money. With the pressure on banks to lend more mortgages, they lowered their standards. They approved a lot of people who couldn’t afford what they were asking for, and as a result, we had a huge fallout and housing crisis. There was a massive inventory of distressed homes (short sales and foreclosures) and it took us a while to recover the mistakes of that recession.
+**The truth is that a lot of things about this market are different from the one we saw in 2007**. For starters, a lot of the problems back then were man-made. You had Wall Street making money on mortgage-backed securities and asking banks to make more mortgages so they could make more money. With the pressure on banks to lend more mortgages, they lowered their standards. They approved a lot of people who couldn’t afford what they were asking for, and as a result, we had a huge fallout and housing crisis. There was a massive inventory of distressed homes (short sales and foreclosures) and it took us a while to recover the mistakes of that recession.
 
 **Our current situation has been a much more natural progression**. We’ve had a strong seller’s market for a while now, and low interest rates are keeping demand high while fewer people are selling.
 
