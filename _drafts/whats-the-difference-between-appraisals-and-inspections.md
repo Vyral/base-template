@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/06-12-sikes-youtube-1-1.jpg
 youtube_code: jADEU0IRjJg
 ---
 
-{% include youtube.html %}I’m explaining the difference between appraisals and inspections.
+{% include youtube.html %}<center>I’m explaining the difference between appraisals and inspections.</center>
 
 When purchasing a home, everyone’s told to get an inspection and appraisal. However, some mistakenly think they’re the same thing.&nbsp;
 
