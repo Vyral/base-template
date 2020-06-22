@@ -29,7 +29,7 @@ We track the absorption rate, which is how you tell whether we're in a buyer’s
 
 {% include pullquote.html %}
 
-**Anything under four months is considered a seller’s market**. A 3.5-month supply is more balanced than a 1.5-month supply. As of last week, we had just a 1.4-month supply of inventory. In 17 years doing this, I’ve never seen a number that low. It’s putting strenuous conditions on buyers, but it’s a great time for sellers.
+**Anything under four months is considered a seller’s market**. A 3.5-month supply is more balanced than a 1.5-month supply. As of last week, we had just a 1.4-month supply of inventory. In 17 years of doing this, I’ve never seen a number that low. It’s putting strenuous conditions on buyers, but it’s a great time for sellers.
 
 If you are thinking about buying or selling a home, we can help you navigate the current market to get the deal done. Stay tuned for our next video, where we’ll show you how to enhance your odds of finding the right home if you’re a buyer in this market.
 
