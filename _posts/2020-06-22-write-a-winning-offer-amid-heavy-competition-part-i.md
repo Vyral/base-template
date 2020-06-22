@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/osygQPV-43Q'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These are the communication basics needed to write winning offers.</em></p>
+
 When the market is hot, buyers can expect to be competing against multiple offers, and they need every edge they can get. That’s why I’m kicking off of a series of videos dedicated to writing winning offers based on understanding a seller’s needs. Basically, there are five main seller needs: money, timing, security, convenience, and distress property. &nbsp;Today’s installment focuses on three tips to effectively communicate with the listing agent and/or the seller to discover what their needs are so you can craft your offer accordingly.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
