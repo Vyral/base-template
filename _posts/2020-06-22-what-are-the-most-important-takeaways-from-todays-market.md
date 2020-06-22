@@ -19,7 +19,7 @@ youtube_code: _zTdV6fUxP4
 
 {% include youtube.html %}
 
-Here are some of the keys to making sense of our current market.
+<p style="text-align: center;"><em>Here are some of the keys to making sense of our current market.</em></p>
 
 The market is incredibly resilient. I have 30 years of experience in real estate, and I must say that **this is the most active I’ve seen the market**—that includes 2007 when activity peaked. For homes under $350,000, it is still a seller’s market, but as you exceed $350,000, there’s a clear shift toward a buyer’s market. While the type of market you may experience depends on location and price point now more than ever, we’re still seeing plenty of multiple offers $10,000 to $30,000 above asking price. Why are people bidding homes up like this?&nbsp;
 
