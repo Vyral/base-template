@@ -34,8 +34,10 @@ There are no fees or interest payments to worry about, either. The RealVitalize 
 
 If you’re thinking of selling your home, I can’t imagine why this wouldn’t sound like a wonderful program for you to consider. For any questions you have about the RealVitalize Program powered by Home Advisor, don’t hesitate to reach out to me. We can discuss the entire program in more detail and figure out how it can benefit you given your unique situation.
 
-All of my contact information is below, for more details either give me a call, send me an email, or simply fill out the form below and include a short message with some details.
+For more details either give me a call, send me an email, or simply fill out the form below and include a short message with some details.
 
 Thank you\!
+
+{% include contact.html %}
 
 &nbsp;
