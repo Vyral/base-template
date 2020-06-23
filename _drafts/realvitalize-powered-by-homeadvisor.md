@@ -2,26 +2,25 @@
 layout: post
 title: RealVitalize Powered by HomeAdvisor
 tags:
-  - Market Update
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  Homes in the lower to mid value ranges are selling quickly, many times with
-  multiple offers. Homes in the upper value ranges....
+  The REALVITALIZE program, powered by HomeAdvisor, is an exclusive offering for
+  Coldwell Banker Realty clients that helps with...
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9OmSRKo9FUw
+youtube_code: whioWD7omyk
 ---
 
 {% include youtube.html %}
 
 ### RealVitalize Powered by HomeAdvisor
 
-**Make strategic home improvements to maximize your sales price – and pay nothing until closing****. **
+**Make strategic home improvements to maximize your sales price – and pay nothing until closing**\*\*. \*\*
 
 The REALVITALIZE program, powered by HomeAdvisor, is an exclusive offering for Coldwell Banker Realty clients that helps with home improvements and repairs to prep your home for sale. We cover the upfront costs and get paid back when the home sells. No hidden fees, interest charges or markups.
 
