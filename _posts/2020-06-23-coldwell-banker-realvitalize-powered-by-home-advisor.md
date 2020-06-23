@@ -1,14 +1,12 @@
 ---
 layout: post
-title: >-
-  Make strategic home improvements to maximize your sales price – and pay
-  nothing until closing.
+title: Coldwell Banker RealVitalize Powered by Home Advisor
 tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
-  The REALVITALIZE program, powered by HomeAdvisor, is an exclusive offering for
-  Coldwell Banker Realty clients that helps with...
+  Make strategic home improvements to maximize your sales price – and pay
+  nothing until closing.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
