@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are the Most Important Takeaways from Today’s Market?
+title: What Are the Most Important Takeaways From Today’s Market?
 date: 2020-06-22 15:25:53
 tags:
   - Market Update
@@ -23,7 +23,7 @@ youtube_code: _zTdV6fUxP4
 
 The market is incredibly resilient. I have 30 years of experience in real estate, and I must say that **this is the most active I’ve seen the market**—that includes 2007 when activity peaked. For homes under $350,000, it is still a seller’s market, but as you exceed $350,000, there’s a clear shift toward a buyer’s market. While the type of market you may experience depends on location and price point now more than ever, we’re still seeing plenty of multiple offers $10,000 to $30,000 above asking price. Why are people bidding homes up like this?&nbsp;
 
-The answer: Interest rates are historically low. Now is a phenomenal time to lock in a 30-year mortgage. At the time of this recording, those rates were at 2.75%. If someone offers $10,000 above list price on a home, how much would you guess that alters his monthly payment? $80? $100? Nope—just $41 per month. So if someone is trying to secure a dream home for their family to spend the next 30 years in, paying $10,000 over asking price is reasonable.&nbsp;
+The answer: Interest rates are historically low. Now is a phenomenal time to lock in a 30-year mortgage. At the time of this recording, those rates were at 2.75%. If someone offers $10,000 above list price on a home, how much would you guess that alters their monthly payment? $80? $100? Nope—just $41 per month. So if someone is trying to secure a dream home for their family to spend the next 30 years in, paying $10,000 over asking price is reasonable.&nbsp;
 
 If you own a home, **it’s also a great time to refinance.** Rates are slightly higher on the refinance side, but I have clients who took out 30-year mortgages just a few years ago and are refinancing to 15-year mortgages at 2.75%, and their payments are staying the same. That’s right—they’ve knocked five or 10 years off of their mortgages without an increase in monthly payments\!
 
