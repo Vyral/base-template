@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: >-
   Make strategic home improvements to maximize your sales price – and pay
-  nothing until closing with RealVitalize and Casey Cooke
+  nothing until closing with RealVitalize and Casey Cooke.
 enclosure:
 pullquote: >-
   "There are no fees or interest payments to worry about, either. The
