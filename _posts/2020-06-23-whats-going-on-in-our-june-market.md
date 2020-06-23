@@ -34,5 +34,3 @@ One thing you can do to get the edge on your competition is to **write a persona
 If you’re selling a home, you’ll also want professional representation; you’ll need an agent who knows how to deal with multiple offers and negotiate in your favor. The great news is that **now is an awesome time to get top dollar for your property**. If you plan to buy another home after you sell, I recommend that you buy that home first—inventory is extremely low, and you don’t want to end up selling your house without a replacement already under contract\!
 
 The bottom line: Professional representation is absolutely critical in today’s market. So if you’re thinking about buying or selling a home, please reach out to me with a phone call, text, or email. I’d be happy to schedule you a free consultation.
-
-&nbsp;
