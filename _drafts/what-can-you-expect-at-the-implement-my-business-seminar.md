@@ -18,7 +18,9 @@ youtube_code: YfT8cvIKX3s
 
 {% include youtube.html %}
 
-Thank you to all the amazing real estate agents who joined me this June to learn how to mirror my business model. I provided you with lots of systems, tools, and tips on how to build a big business, much of it focused on your database. Today I’m excited to dive deeper and share with you how to implement my business model during my upcoming “Implement My Business” seminar.
+<center><em>It’s time to learn how to put our systems into action!</em></center>
+
+<br>Thank you to all the amazing real estate agents who joined me this June to learn how to mirror my business model. I provided you with lots of systems, tools, and tips on how to build a big business, much of it focused on your database. Today I’m excited to dive deeper and share with you how to implement my business model during my upcoming “Implement My Business” seminar.
 
 **For six weeks starting on July 7, we’ll hold 90-minute sessions in which we’ll discuss accountability and connect with like-minded agents who look forward to building a big business**. I’ll even throw in a few extra tips that I couldn’t fit into the “Mirror My Business” seminar.
 
