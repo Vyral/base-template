@@ -8,10 +8,7 @@ excerpt: >-
   Make strategic home improvements to maximize your sales price – and pay
   nothing until closing with RealVitalize and Casey Cooke.
 enclosure:
-pullquote: >-
-  "There are no fees or interest payments to worry about, either. The
-  RealVitalize Program is a tool that Coldwell Banker has come up with to help
-  their agents maximize their business."
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -40,7 +37,3 @@ If you’re thinking of selling your home, I can’t imagine why this wouldn’t
 For more details either give me a call, send me an email, or simply [CLICK HERE](/contact/) to complete a contact form and include a short message with some details.
 
 Thank you\!
-
-&nbsp;
-
-&nbsp;
