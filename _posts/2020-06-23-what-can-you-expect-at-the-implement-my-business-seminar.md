@@ -18,7 +18,7 @@ youtube_code: YfT8cvIKX3s
 
 {% include youtube.html %}
 
-<center><em>It’s time to learn how to put our systems into action!</em></center>
+<center><em>It&rsquo;s time to learn how to put our systems into action!</em></center>
 
 <br>Thank you to all the amazing real estate agents who joined me this June to learn how to mirror my business model. I provided you with lots of systems, tools, and tips on how to build a big business, much of it focused on your database. Today I’m excited to dive deeper and share with you how to implement my business model during my upcoming “Implement My Business” seminar.
 
