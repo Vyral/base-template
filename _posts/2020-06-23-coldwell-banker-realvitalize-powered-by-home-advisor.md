@@ -38,6 +38,6 @@ For more details either give me a call, send me an email, or simply fill out the
 
 Thank you\!
 
-{% include contact.html %}
+&nbsp;
 
 &nbsp;
