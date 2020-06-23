@@ -38,4 +38,4 @@ All of my contact information is below, for more details either give me a call, 
 
 Thank you\!
 
-{% include contact.html %}
+&nbsp;
