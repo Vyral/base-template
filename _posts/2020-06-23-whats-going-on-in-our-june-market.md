@@ -19,7 +19,7 @@ youtube_code: 9cbHbFlDCD8
 
 {% include youtube.html %}
 
-<center><em>Today let’s talk about what’s going on in the late June summer market.</em></center>
+<center><em>Today let&rsquo;s talk about what&rsquo;s going on in the late June summer market.</em></center>
 
 <br>The real estate mark has finally started to normalize itself compared to the last few months when COVID-19 broke out. Here’s a look at where we currently stand in the market:
 
