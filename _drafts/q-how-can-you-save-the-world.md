@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/6-23---frank-gray---yt.jpg
 youtube_code: 53Wgmsa3-bs
 ---
 
-{% include youtube.html %}June is World Pollinator Month and a great time to plant some flowers.
+{% include youtube.html %}<center>June is World Pollinator Month and a great time to plant some flowers.</center>
 
 When we were younger, most of us were very idealistic and set out to change the world. Now, with a few miles under our belts and maybe a bit more cynicism about our ability to change anything, **there is still something that every one of us can do right now to make an absolute positive change in our world.**
 
