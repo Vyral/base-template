@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Save the World?'
-date:
+date: 2020-06-23 17:48:44
 tags:
 excerpt: June is World Pollinator Month and a great time to plant some flowers.
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/6-23---frank-gray---yt.jpg
 youtube_code: 53Wgmsa3-bs
 ---
 
-{% include youtube.html %}<center>June is World Pollinator Month and a great time to plant some flowers.</center>
+{% include youtube.html %}
+
+<center>June is World Pollinator Month and a great time to plant some flowers.</center>
+
+&nbsp;
 
 When we were younger, most of us were very idealistic and set out to change the world. Now, with a few miles under our belts and maybe a bit more cynicism about our ability to change anything, **there is still something that every one of us can do right now to make an absolute positive change in our world.**
 
