@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do I Use the RingCentral System?
-date: 2020-06-22 18:48:09
+date: 2020-06-22 18:48:00
 tags:
   - Lead Generation
   - Buyer Prospects
@@ -33,7 +33,7 @@ The great thing about this is that when you get a phone call through RingCentral
 
 {% include pullquote.html %}
 
-**If for some reason I do miss a sign call, RingCentral will email, text, and send me a voicemail.** Further still, I have an automated response saved in my phone so that if I do miss a sign call, I can send a message to the caller: “I see I’ve missed a call from you. Are you interested in seeing a property? Kati Spaniak, eXp Realty.”
+**If, for some reason, I do miss a sign call, RingCentral will email, text, and send me a voicemail.** Further still, I have an automated response saved in my phone so that if I do miss a sign call, I can send a message to the caller: “I see I’ve missed a call from you. Are you interested in seeing a property? Kati Spaniak, eXp Realty.”
 
 I also have a direct RingCentral number, which I put on all the advertisements that I do for listings, buyers, or anything where I want the caller to be able to get through to me right away. RingCentral also has a caller-ID feature that will tell me who is calling most of the time.&nbsp;
 
