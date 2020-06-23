@@ -23,7 +23,7 @@ youtube_code: whioWD7omyk
 
 ### RealVitalize Powered by HomeAdvisor
 
-**Make strategic home improvements to maximize your sales price – and pay nothing until closing.**
+**Make strategic home improvements to maximize your sales price – and pay nothing until closing with RealVitalize and Casey Cooke.**
 
 The REALVITALIZE program, powered by HomeAdvisor, is an exclusive offering for Coldwell Banker Realty clients that helps with home improvements and repairs to prep your home for sale. We cover the upfront costs and get paid back when the home sells. No hidden fees, interest charges or markups.
 
