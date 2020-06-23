@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s our take on whether our market is headed for disaster or not.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/Is+Another+Housing+Market+Collapse+Imminent_.mp4
 pullquote: I’ve never seen inventory as low as it is right now.
 enclosure_type: video/mp4
 enclosure_time:
