@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coldwell Banker RealVitalize Powered by Home Advisor
+title: Coldwell Banker RealVitalize
 tags:
   - Real Estate
   - Home Seller Tips
