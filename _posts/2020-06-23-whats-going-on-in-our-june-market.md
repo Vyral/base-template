@@ -21,7 +21,7 @@ youtube_code: 9cbHbFlDCD8
 
 <center><em>Today let&rsquo;s talk about what&rsquo;s going on in the late June summer market.</em></center>
 
-<br>The real estate mark has finally started to normalize itself compared to the last few months when COVID-19 broke out. Here’s a look at where we currently stand in the market:
+<br>The real estate mark has finally started to normalize itself compared to the last few months when COVID-19 broke out. **Here’s a look at where we currently stand in the market:**
 
 In April, we had 14,000 active residential listings in our MLS, with 10,000 pendings. As of June, these statistics were nearly reversed— we have about 10,000 active properties and 14,000 pendings.
 
