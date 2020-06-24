@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: The first step in dealing with emotions as a home seller? Normalize them.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+Normal+Feelings+While+Selling+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+Normal+Feelings+While+Selling+fixed+music.mp4
 pullquote: Emotions are to be expected when moving on from a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: MvxthPOhVDE
+youtube_code: JcGSrZfxhYE
 ---
 
 {% include youtube.html %}
