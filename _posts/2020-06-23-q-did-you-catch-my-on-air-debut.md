@@ -16,7 +16,7 @@ youtube_code:
 
 [![](/uploads/introducing-the-central-iowa-real-estate-scoreboard-email.jpg){: width="1280" height="720"}](https://www.dropbox.com/sh/4kdzbmgmywlv04l/AADBsNlvgh8HqYfBq133gQX_a/Episode%201/Scoreboard%20-%20Episode%201%20-%20LIVE.mp4?dl=0){: target="_blank"}
 
-*Here’s everything you need to know about our new radio half-hour\!*
+<p style="text-align: center;"><em>Here’s everything you need to know about our new radio half-hour!</em></p>
 
 Our new radio show, The Central Iowa Real Estate Scoreboard, is aptly named but not just because it airs on sports station 1460 KXNO; the parallels between the sports world, life itself, and the real estate market run deep. For instance, life could throw you a huge curveball, and suddenly you need to relocate for a new job. Maybe after quarantining with your family for two months, you’ve finally admitted to yourself that your house isn’t big enough (something we’ve been hearing from folks a lot lately).&nbsp;
 
