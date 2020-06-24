@@ -9,7 +9,7 @@ enclosure:
 pullquote: Ours is an equally exciting and challenging market to navigate.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/introducing-the-central-iowa-real-estate-scoreboard-yt.jpg
 youtube_code:
 ---
