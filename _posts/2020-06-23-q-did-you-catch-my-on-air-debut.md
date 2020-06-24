@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Did You Catch My On-Air Debut?'
-date: 2020-06-23 17:08:48
+date: 2020-06-23 17:08:00
 tags:
   - Real Estate
 excerpt: Here’s everything you need to know about our new radio half-hour!
