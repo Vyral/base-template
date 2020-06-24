@@ -14,7 +14,7 @@ youtube_alternate_image: /uploads/introducing-the-central-iowa-real-estate-score
 youtube_code:
 ---
 
-[![](/uploads/introducing-the-central-iowa-real-estate-scoreboard-email.jpg){: width="780" height="520"}](https://www.dropbox.com/sh/4kdzbmgmywlv04l/AADBsNlvgh8HqYfBq133gQX_a/Episode%201/Scoreboard%20-%20Episode%201%20-%20LIVE.mp4?dl=0){: target="_blank"}
+[![](/uploads/introducing-the-central-iowa-real-estate-scoreboard-email.jpg){: width="790" height="540"}](https://www.dropbox.com/sh/4kdzbmgmywlv04l/AADBsNlvgh8HqYfBq133gQX_a/Episode%201/Scoreboard%20-%20Episode%201%20-%20LIVE.mp4?dl=0){: target="_blank"}
 
 <p style="text-align: center;"><em>Here’s everything you need to know about our new radio half-hour!</em></p>
 
