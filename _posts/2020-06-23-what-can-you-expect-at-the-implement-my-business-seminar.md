@@ -26,6 +26,6 @@ youtube_code: 07nAD8x4_mI
 
 {% include pullquote.html %}
 
-I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended my previous seminar, simply reply to this email and **I’ll send you a discount code**. If you didn’t, that’s okay, because we’ll still give you all the materials that agents learned in the first session.
+I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended my previous seminar, simply <u><a target="_blank" href="jennie@thewolekgroup.com">send me an email</a></u> and **I’ll send you a discount code**. If you didn’t, that’s okay, because we’ll still give you all the materials that agents learned in the first session.
 
 If you have any questions, don’t hesitate to reach out. I can’t wait to see you and teach you the ropes of how to implement my business strategies.
