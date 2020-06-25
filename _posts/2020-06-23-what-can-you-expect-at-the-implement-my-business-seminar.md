@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/06-22-wolek-youtube.jpg
-youtube_code: YfT8cvIKX3s
+youtube_code: 07nAD8x4_mI
 ---
 
 {% include youtube.html %}
