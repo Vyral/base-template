@@ -31,5 +31,3 @@ We’ll share the most recent market data, current staging and design trends, an
 **<u><a target="_blank" href="https://www.eventbrite.com/e/virtual-seller-workshop-tickets-109206597874">RSVP here</a></u> to reserve your spot** and receive the Zoom link. See ya then\!
 
 If you have questions about this seminar or real estate in general, please reach out via phone or email. I would love to help you.
-
-&nbsp;
