@@ -5,7 +5,8 @@ date: 2020-06-23 00:00:00
 tags:
   - Transaction Management
 excerpt: It’s time to learn how to put our systems into action!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/What+Can+You+Expect+at+the+_Implement+My+Business_+Seminar_.mp4
 pullquote: I’m excited to dive deeper and share with you how to Implement My Business!
 enclosure_type: video/mp4
 enclosure_time:
