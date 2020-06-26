@@ -6,7 +6,7 @@ tags:
   - Transaction Management
 excerpt: It’s time to learn how to put our systems into action!
 enclosure:
-pullquote: I’m excited to dive deeper and share with you how to Implement My Business.
+pullquote: I’m excited to dive deeper and share with you how to Implement My Business!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -24,6 +24,6 @@ youtube_code: 07nAD8x4_mI
 
 {% include pullquote.html %}
 
-I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended the "Mirror My Business" workshop, simply <u><a target="_blank" href="mailto:jennie@thewolekgroup.com?subject=%E2%80%9CImplement%20My%20Business%E2%80%9D%20seminar">send me an email</a></u> and **I’ll share the discount code with you**. If you didn’t, that’s okay, because you’ll receive all the same materials and documents as the other students and as well as links to my Google Drive\!
+I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended the "Mirror My Business" workshop, simply <u><a target="_blank" href="mailto:jennie@thewolekgroup.com?subject=%E2%80%9CImplement%20My%20Business%E2%80%9D%20seminar">send me an email</a></u> and **I’ll share the discount code with you**. If you didn’t, that’s okay, because you’ll receive all the same materials and documents as the other students as well as links to my Google Drive\!
 
 If you have any questions, please don’t hesitate to reach out. I can’t wait to see you and share how to implement my business strategies\!
