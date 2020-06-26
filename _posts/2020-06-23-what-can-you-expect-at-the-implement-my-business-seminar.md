@@ -16,7 +16,9 @@ youtube_code: 07nAD8x4_mI
 
 {% include youtube.html %}
 
-Thank you to all the amazing real estate agents who joined me in June to learn how to “Mirror My Business\!” I provided you with lots of systems, tools, and tips on how to build a big business, with much of it coming from your database. Today I’m excited to share with you a follow-up series and a deeper dive to teach you how to “Implement My Business,” launching in July\!
+<center><em>It’s time to learn how to put our systems into action!</em></center>
+
+<br>Thank you to all the amazing real estate agents who joined me in June to learn how to “Mirror My Business\!” I provided you with lots of systems, tools, and tips on how to build a big business, with much of it coming from your database. Today I’m excited to share with you a follow-up series and a deeper dive to teach you how to “Implement My Business,” launching in July\!
 
 **For six weeks starting on July 7, we’ll hold 90-minute sessions in which we’ll discuss accountability and connect with like-minded agents who look forward to building a big business**. I’ll even throw in a extra systems and tools that I couldn’t fit into the “Mirror My Business” workshop.
 
