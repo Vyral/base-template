@@ -17,7 +17,7 @@ youtube_code: xQUf7rNlJtQ
 
 {% include youtube.html %}
 
-Jason from Black’s Water Conditioning joins me to talk about their company.
+<p style="text-align: center;"><em>Jason from Black’s Water Conditioning joins me to talk about their company.</em></p>
 
 For today’s Brand Ambassador message, I sat down with my friend Jason for some Q & A about his family business, Black’s Water Conditioning, Inc. here in South Central Pennsylvania.
 
