@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NEW Single Family Homes at $277k? YUP! Desert Flower Taking Reservations
-date: 2020-06-26 19:56:07
+date: 2020-06-26 19:56:00
 tags:
   - Real Estate
 excerpt:
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: s3tcq1-4NW0
 ---
 
 {% include youtube.html %}
