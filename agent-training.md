@@ -27,7 +27,7 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 **&nbsp;**As many of you may already know, **‘**power hour’ is a dedicated time to making distraction-free prospecting calls. It’s the secret sauce to boosting business that hasn’t changed as the decades go by, but some agents may have a love/hate relationship with it. The latest CORE Training webinar focuses on the ways you can supercharge this most fundamental aspect of your business so that you can create more room for growth—and eventually hire support. The first step is to manage distractions, which can be harder than we think. To learn more, watch this latest video.
 
-[![](/uploads/tactics-to-explode-your-power-hour-email.jpg){: width="1280" height="720"}](https://vimeo.com/425213925/ee2878ce86){: target="_blank"}
+[![](/uploads/tactics-to-explode-your-power-hour-email.jpg){: width="700" height="420"}](https://vimeo.com/425213925/ee2878ce86){: target="_blank"}
 
 ### Previous Webinars:
 
