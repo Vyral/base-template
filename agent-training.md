@@ -23,13 +23,15 @@ If you need help implementing any of this or would like to discuss how we can wo
 
 #### Featured Webinar:
 
-**Marketing Your Way to Profitability in a Changing Market** — [Video](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"} — [Resources](https://www.dropbox.com/sh/hjxlv0mquvhm87z/AABTlaXycpnZY0JSaklCnz3Ca?dl=0){: target="_blank"}
+**Tactics to Explode Your ‘Power Hour’** — [Video](https://vimeo.com/425213925/ee2878ce86){: target="_blank"} — [Resources](https://www.dropbox.com/sh/445glpml9v094vl/AAC692KH_bKqyzwP9FRuqkG2a?dl=0){: target="_blank"}
 
-We’re living in different times, but we’re ready to help you through them. In today’s webinar, we’re going to show you how to use your marketing to increase your profitability in a changing market like this. One great strategy is direct mail. People get so many emails these days that they simply ignore most of them. A physical, personal letter that they receive in their mailbox is simply something they can’t ignore. There are also some great tips on how to use social media to enhance your business’ brand. To hear everything, watch this latest video.
+**&nbsp;**As many of you may already know, **‘**power hour’ is a dedicated time to making distraction-free prospecting calls. It’s the secret sauce to boosting business that hasn’t changed as the decades go by, but some agents may have a love/hate relationship with it. The latest CORE Training webinar focuses on the ways you can supercharge this most fundamental aspect of your business so that you can create more room for growth—and eventually hire support. The first step is to manage distractions, which can be harder than we think. To learn more, watch this latest video.
 
-[![](/uploads/marketing-your-way-to-profitability-in-a-changing-market-email-2.jpg){: width="960" height="515"}](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"}
+[![](/uploads/tactics-to-explode-your-power-hour-email.jpg){: width="1280" height="720"}](https://vimeo.com/425213925/ee2878ce86){: target="_blank"}
 
 ### Previous Webinars:
+
+**Tactics to Explode Your ‘Power Hour’** — [Video](https://vimeo.com/425213925/ee2878ce86){: target="_blank"} — [Resources](https://www.dropbox.com/sh/445glpml9v094vl/AAC692KH_bKqyzwP9FRuqkG2a?dl=0){: target="_blank"}
 
 **Marketing Your Way to Profitability in a Changing Market** — [Video](https://vimeo.com/417716807/a39fcebd7c){: target="_blank"} — [Resources](https://www.dropbox.com/sh/hjxlv0mquvhm87z/AABTlaXycpnZY0JSaklCnz3Ca?dl=0){: target="_blank"}
 
