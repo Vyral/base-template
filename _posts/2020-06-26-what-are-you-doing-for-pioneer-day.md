@@ -18,6 +18,6 @@ youtube_code: dGcIY8XDFoM
 
 <center><em>Though this year will be different, we&rsquo;d still love to see you.</em></center>
 
-<br>We are excited to celebrate Pioneer Day 2020 and we’d love to have you all join us. Since we weren’t able to do our summer BBQ kickoff, we're inviting you all to our office to celebrate Pioneer day instead.
+<br>We are excited to celebrate Pioneer Day 2020 and we’d love to have you all join us. Since we weren’t able to do our summer BBQ kickoff, **we're inviting you all to our office to celebrate Pioneer Day** instead.
 
 We’ll be following all the necessary health and safety precautions, so sign up here for your specific time and date. When you're here, you can register for your chance to win the Big Daddy Firework package.
