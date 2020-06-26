@@ -6,9 +6,7 @@ tags:
   - Transaction Management
 excerpt: It’s time to learn how to put our systems into action!
 enclosure:
-pullquote: >-
-  I’m excited to dive deeper and share with you how to implement my business
-  model.
+pullquote: I’m excited to dive deeper and share with you how to Implement My Business.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -18,14 +16,12 @@ youtube_code: 07nAD8x4_mI
 
 {% include youtube.html %}
 
-<center><em>It&rsquo;s time to learn how to put our systems into action!</em></center>
+Thank you to all the amazing real estate agents who joined me in June to learn how to “Mirror My Business\!” I provided you with lots of systems, tools, and tips on how to build a big business, with much of it coming from your database. Today I’m excited to share with you a follow-up series and a deeper dive to teach you how to “Implement My Business,” launching in July\!
 
-<br>Thank you to all the amazing real estate agents who joined me this June to learn how to mirror my business model. I provided you with lots of systems, tools, and tips on how to build a big business, much of it focused on your database. Today I’m excited to dive deeper and share with you how to implement my business model during my upcoming “Implement My Business” seminar.
-
-**For six weeks starting on July 7, we’ll hold 90-minute sessions in which we’ll discuss accountability and connect with like-minded agents who look forward to building a big business**. I’ll even throw in a few extra tips that I couldn’t fit into the “Mirror My Business” seminar.
+**For six weeks starting on July 7, we’ll hold 90-minute sessions in which we’ll discuss accountability and connect with like-minded agents who look forward to building a big business**. I’ll even throw in a extra systems and tools that I couldn’t fit into the “Mirror My Business” workshop.
 
 {% include pullquote.html %}
 
-I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended my previous seminar, simply <u><a target="_blank" href="mailto:jennie@thewolekgroup.com?subject=%E2%80%9CImplement%20My%20Business%E2%80%9D%20seminar">send me an email</a></u> and **I’ll send you a discount code**. If you didn’t, that’s okay, because we’ll still give you all the materials that agents learned in the first session.
+I encourage you to <u><a target="_blank" href="https://www.eventbrite.com/e/implement-my-business-6-week-series-tickets-106686466092">sign up today</a></u>\! If you already attended the "Mirror My Business" workshop, simply <u><a target="_blank" href="mailto:jennie@thewolekgroup.com?subject=%E2%80%9CImplement%20My%20Business%E2%80%9D%20seminar">send me an email</a></u> and **I’ll share the discount code with you**. If you didn’t, that’s okay, because you’ll receive all the same materials and documents as the other students and as well as links to my Google Drive\!
 
-If you have any questions, don’t hesitate to reach out. I can’t wait to see you and teach you the ropes of how to implement my business strategies.
+If you have any questions, please don’t hesitate to reach out. I can’t wait to see you and share how to implement my business strategies\!
