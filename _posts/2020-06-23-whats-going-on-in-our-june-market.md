@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Today let’s talk about what’s going on in the late June market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/Whats+Going+on+in+Our+June+Market_.mp4
 pullquote: 'The bottom line: Professional representation is critical in today’s market.'
 enclosure_type: video/mp4
 enclosure_time:
