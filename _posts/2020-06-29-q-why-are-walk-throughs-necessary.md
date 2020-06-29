@@ -17,7 +17,7 @@ youtube_code: 59ky63QxqTQ
 
 {% include youtube.html %}
 
-<p style="text-align:center">I’m explaining why walk-throughs are crucial and how we do them.</p>
+<p style="text-align:center"><em>I’m explaining why walk-throughs are crucial and how we do them.</em></p>
 
 What is a walk-through? Why would we need to walk through your property? The truth is, several rental owners have switched to us because no one has walked through their property in years. How would anyone know what’s going on there if someone doesn’t walk through it?&nbsp;
 
