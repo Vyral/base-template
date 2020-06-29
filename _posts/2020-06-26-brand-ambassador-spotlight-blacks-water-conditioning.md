@@ -19,11 +19,11 @@ youtube_code: xQUf7rNlJtQ
 
 <p style="text-align: center;"><em>Jason from Black’s Water Conditioning joins me to talk about their company.</em></p>
 
-For today’s Brand Ambassador message, I sat down with my friend Jason for some Q & A about his family business, Black’s Water Conditioning, Inc. here in South Central Pennsylvania.
+For today’s Brand Ambassador message, I sat down with my friend Jason for some Q&A about his family business, Black’s Water Conditioning, Inc., here in South Central Pennsylvania.
 
 **“How did you get into the water business?”**
 
-Jason is the third generation in his family to get involved in the water conditioning business. His grandfather was a farmer who found himself in a positive where he had some free time and a need for water treatment equipment. The process intrigued him, and the technician he worked with agreed to show him the ropes. 50 years later, the business is still going.&nbsp;
+Jason is the third generation in his family to get involved in the water conditioning business. His grandfather was a farmer who found himself in a position where he had some free time and a need for water treatment equipment. The process intrigued him, and the technician he worked with agreed to show him the ropes. 50 years later, the business is still going.&nbsp;
 
 **“What is the main service or product sold at Black’s Water Conditioning?”**
 
