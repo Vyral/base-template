@@ -9,8 +9,6 @@ description: >-
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
-  - title: Home Value Report
-    url: 'http://www.808guaranteedsale.com/'
   - title: Guaranteed Rent
     url: 'https://www.hipacificpm.com/guaranteed-rent'
   - title: About
