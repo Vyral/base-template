@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s everything you need to know about this great learning opportunity.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/What+Can+You+Learn+at+Our+Virtual+Seller+Workshop_.mp4
 pullquote: 'Join us on Tuesday, June 30, for our Virtual Seller Workshop!'
 enclosure_type: video/mp4
 enclosure_time:
