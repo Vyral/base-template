@@ -16,7 +16,7 @@ custom_links:
 client:
   name: Duke Kimhan
   license_number: Broker License RB-21817
-  about_markdown: >
+  about_markdown: >-
     'When it came to delving into the world of Real Estate, Duke first bought
     and sold his own properties, then became a Broker himself. He has been a PB
     at Coldwell Banker in Florida, PB at Realty Experts in HI and Owner/Broker
@@ -38,7 +38,7 @@ client:
 CTAs:
   first_CTA_text: Rent Your Home
   first_CTA_URL: 'https://www.hipacificpm.com/guaranteed-rent'
-  second_CTA_text: Home Search
+  second_CTA_text: Vacancies
   second_CTA_URL: 'https://www.hipacificpm.com/vacancies'
   VR_form: 'http://oi.vresp.com?fid=bc9bd80877'
 sidebar_CTA:
@@ -69,12 +69,12 @@ lender:
   url: 'http://eyegoop.com'
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
-  welcome_text_markdown: >
-    Our mission at -- CLIENT BRAND -- is to be your best resource for real
-    estate advice. Whether you are a buyer, seller, or investor, our team of
-    professionals can answer any questions you might have about real estate.
-    Subscribe to this blog to get the latest news on local market trends and
-    receive expert tips for buying or selling a home.
+  welcome_text_markdown: >-
+    Our mission at – CLIENT BRAND – is to be your best resource for property
+    management advice. Whether you are an owner, tenant, or investor, our team
+    of professionals can answer any questions you might have about property
+    management. Subscribe to this blog to get the latest news and receive expert
+    tips for managing property.
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/HIPacific-Property-Management-1598929470384417'
@@ -90,17 +90,16 @@ socials:
   podcast_url: >-
     https://itunes.apple.com/us/podcast/hawaii-property-management-podcast-with-duke-kimhan/id1218413212?mt=2
 podcast:
-  title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
+  title: '-- MARKET -- Property Management Podcast with -- CLIENT NAME --'
   categories:
     - Education
   image: /img/podcast.jpg
   subtitle: >-
-    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
-    -- Area Real Estate Market
+    Learn all the tips, tricks and more for owners in the -- MARKET -- Area
+    Property Management Market.
   description: >-
-    If you are looking to buy or sell a home, get all the information and the
-    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
-    -- MARKET -- Real Estate Agents.
+    Get all the information and the latest updates, tips, and tricks from --
+    CLIENT BRAND -- - your professional -- MARKET -- Property Managers.
   keywords: >-
     Real Estate for sale, Real Estate agents, top real estate agents, local real
     estate agents, find a real estate agent, houses for sale in -- MARKET --,
