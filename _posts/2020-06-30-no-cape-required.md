@@ -1,7 +1,7 @@
 ---
 layout: post
 title: No Cape Required!
-date: 2020-06-30 16:59:01
+date: 2020-06-30 16:59:00
 tags:
 excerpt: >-
   Become a part of our award-winning sell squad and immediately begin serving
@@ -21,13 +21,13 @@ Become a part of our award-winning sell squad and immediately begin serving your
 
 Every agent on our Sell Squad is equipped with these tools:&nbsp;
 
-40,000 warm leads on the first day &nbsp;
+• 40,000 warm leads on the first day &nbsp;
 
-Specialized, ongoing training to continuously sharpen selling skills
+• Specialized, ongoing training to continuously sharpen selling skills
 
-Access to multiple offices conveniently located state-wide&nbsp;
+• Access to multiple offices conveniently located state-wide&nbsp;
 
-Hands-free done-for-you marketing including a personalized agent website&nbsp;
+• Hands-free done-for-you marketing including a personalized agent website&nbsp;
 
 By joining the Sell Squad, you can have all of this too, and more\! No cape required.&nbsp;
 
