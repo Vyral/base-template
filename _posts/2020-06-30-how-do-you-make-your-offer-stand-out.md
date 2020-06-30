@@ -19,7 +19,7 @@ youtube_code: iPI24HS6Z70
 
 {% include youtube.html %}
 
-Here are my top three tips to get your offer accepted in a seller’s market.
+<p style="text-align: center;"><em>Here are my top three tips to get your offer accepted in a seller’s market.</em></p>
 
 As we’ve mentioned in our last several videos, we’re currently in an extreme, red-hot seller’s market. There’s a lot of competition amongst buyers because our inventory is very low. If you’re in the market to buy a home, what can you do to get your offer more attention and stand out from your competition? I have three tips to help you:
 
