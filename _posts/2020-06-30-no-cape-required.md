@@ -29,6 +29,8 @@ Every agent on our Sell Squad is equipped with these tools:&nbsp;
 
 • Hands-free done-for-you marketing including a personalized agent website&nbsp;
 
-By joining the Sell Squad, you can have all of this too, and more\! No cape required.&nbsp;
+By joining the Sell Squad, you can have all of this too, and more\!
+
+No cape required.&nbsp;
 
 Earn more money than you ever thought you could from the \#1 Team in the Carolinas. Apply today and begin using your real estate superpowers with the Sell Squad at&nbsp;[www.JoinJCRE.com](http://www.joinjcre.com/)&nbsp;or give us a call at 843-501-9786.&nbsp;
