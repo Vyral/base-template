@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Handle Inspection Repairs
-date: 2020-06-29 20:58:00
+date: 2020-06-29 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,8 +19,7 @@ youtube_code: 'https://youtu.be/Iyny0SiH9D0'
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-When you buy a home and something comes up in an inspection, you have two options for repairs.</em></p>
+*When you buy a home and something comes up in an inspection, you have two options for repairs.*
 
 A question we receive often is about what to do when you have purchased a home, it’s under contract, you had an inspection done, but problems are found. **Generally, you have two different options.** Either the seller needs to repair the issue or they will give you the money to repair the issue.&nbsp;
 
