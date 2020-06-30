@@ -1,12 +1,12 @@
 audit_header: false
-title: '-- CLIENT BRAND --'
+title: HI Pacific Property Management
 description: >-
-  Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
-  real estate advice. Whether you are a buyer, seller, or investor, our team of
-  professionals can answer any questions you might have about real estate. If
-  you are looking to buy or sell a home, you can get all the information and the
-  latest updates, tips, and tricks from The -- CLIENT BRAND --, your
-  professional -- MARKET -- Real Estate Agents.
+  Our mission at HI Pacific Property Management is to be your best resource for
+  -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor,
+  our team of professionals can answer any questions you might have about real
+  estate. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from The -- CLIENT BRAND
+  --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Guaranteed Rent
@@ -70,11 +70,11 @@ lender:
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >-
-    Our mission at – CLIENT BRAND – is to be your best resource for property
-    management advice. Whether you are an owner, tenant, or investor, our team
-    of professionals can answer any questions you might have about property
-    management. Subscribe to this blog to get the latest news and receive expert
-    tips for managing property.
+    Our mission at HI Pacific Property Management is to be your best resource
+    for property management advice. Whether you are an owner, tenant, or
+    investor, our team of professionals can answer any questions you might have
+    about property management. Subscribe to this blog to get the latest news and
+    receive expert tips for managing property.
 socials:
   review_sm_icons: false
   facebook_url: 'https://www.facebook.com/HIPacific-Property-Management-1598929470384417'
