@@ -18,7 +18,7 @@ youtube_code: 9CPGHV2ra1c
 
 Thinking of selling your home? It can be overwhelming during good times, not to mention the uncertain times we’ve experienced lately. It’s surprising how our housing market has reacted to COVID-19 over the last couple months.&nbsp;
 
-***[Join us on July 15th at 7:00 pm](https://www.eventbrite.com/e/selling-your-home-during-uncertain-times-home-selling-workshop-tickets-110324142480). This is a “virtual” webinar you can attend from your phone, computer or tablet. We want to share what we're doing to help sell our homes in these current conditions.***
+***[Join us on July 15th at 6:00 pm](https://www.eventbrite.com/e/selling-your-home-during-uncertain-times-home-selling-workshop-tickets-110324142480). This is a “virtual” webinar you can attend from your phone, computer or tablet. We want to share what we're doing to help sell our homes in these current conditions.***
 
 ***We will be awarding one attendee a Detailed Home Cleaning package from our trusted cleaning company (who doesn't love a clean house?)&nbsp;***
 
