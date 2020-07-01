@@ -40,6 +40,15 @@ When they said “We want to build the best looking, most affordable home in tow
 
 Our 2-bedroom, 2-bathroom, 2-car garage homes start at $277k, 3-bedrooms at $299k, and 4-bedroom, 2,400 square-foot homes at $353k.&nbsp;
 
+<div class="row" style="margin: 4rem 0;">
+  <div class="col-sm-6">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/House+Color_3+-+Photo.jpg">
+  </div>
+  <div class="col-sm-6">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Desert+Flower+1226+Elevation+B+Exterior+Rendering.jpg">
+  </div>
+</div>
+
 Can’t find a new home&nbsp; you can afford? Desert Flower. Son, daughter or friend can’t find one? Desert Flower\!&nbsp;
 
 We’d love to see Larkin Group clients getting first dibs on reservations, and we’ve already had eight of our 40 lots reserved\! Get on it at [https://www.mysunwoodhomes.com/southern-utah-communities/desert-flower/](https://www.mysunwoodhomes.com/southern-utah-communities/desert-flower/)
