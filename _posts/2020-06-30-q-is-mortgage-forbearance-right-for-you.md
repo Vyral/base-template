@@ -18,7 +18,7 @@ youtube_code: s6Ws3y0F0Jc
 {% include youtube.html %}
 
  <p style="text-align: center;"><em>
-s mortgage forbearance the same as mortgage forgiveness? No, and here’s why.</em></p>
+Is mortgage forbearance the same as mortgage forgiveness? No, and here’s why.</em></p>
 
 It’s clear COVID-19 isn’t going anywhere, and as we head further into the summer months, the nation is struggling with morale. However, I’m confident we will get through this together. My heart goes out to all of the families who have been affected either financially or physically. Today I want to discuss an all-important and timely topic: mortgage forbearance.&nbsp;
 
