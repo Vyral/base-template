@@ -19,7 +19,7 @@ youtube_code: DZmNAT88IT8
 
 Become a part of our award-winning sell squad and immediately begin serving your community. With over 7,000 families served, we know what it takes to come out on top - and we have the tools to help you succeed too\! &nbsp;
 
-Every agent on our Sell Squad is equipped with these tools:&nbsp;
+Every agent on our Sell Squad is equipped with:&nbsp;
 
 • 40,000 warm leads on the first day &nbsp;
 
@@ -27,7 +27,7 @@ Every agent on our Sell Squad is equipped with these tools:&nbsp;
 
 • Access to multiple offices conveniently located state-wide&nbsp;
 
-• Hands-free done-for-you marketing including a personalized agent website&nbsp;
+• Hands-free, done-for-you marketing including a personalized agent website&nbsp;
 
 By joining the Sell Squad, you can have all of this too, and more\!
 
