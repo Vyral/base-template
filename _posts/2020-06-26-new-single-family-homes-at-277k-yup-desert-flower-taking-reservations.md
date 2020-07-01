@@ -42,10 +42,10 @@ Our 2-bedroom, 2-bathroom, 2-car garage homes start at $277k, 3-bedrooms at $299
 
 <div class="row" style="margin: 4rem 0;">
   <div class="col-sm-6">
-    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/House+Color_3+-+Photo.jpg">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/House+Color_3+-+Photo.jpg" style=" width: 90%;">
   </div>
   <div class="col-sm-6">
-    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Desert+Flower+1226+Elevation+B+Exterior+Rendering.jpg">
+    <img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Desert+Flower+1226+Elevation+B+Exterior+Rendering.jpg" style="width: 90%;">
   </div>
 </div>
 
