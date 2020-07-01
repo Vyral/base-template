@@ -16,7 +16,8 @@ youtube_code: fLZozHLWjBY
 
 {% include youtube.html %}
 
-*We want to give back to our community, and we want your suggestions.*
+<center><em>We want to give back to our community, and we want your suggestions.</em></center>
+&nbsp;
 
 Today I want to thank you all for your support because we’re celebrating some records in our business. Last year we had the opportunity to help 70 families make the right move. This year, as of this recording, we’ve currently helped over 50 families\! This wasn’t a specific goal we set, but something that happened organically. We’re truly grateful for all the opportunities we’ve been given.&nbsp;
 
