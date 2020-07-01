@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Your Favorite Charity?'
-date: 2020-07-01 19:43:29
+date: 2020-07-01 19:43:00
 tags:
 excerpt: 'We want to give back to our community, and we want your suggestions.'
 enclosure:
