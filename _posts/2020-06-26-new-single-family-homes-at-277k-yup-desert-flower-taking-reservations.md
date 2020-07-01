@@ -26,7 +26,7 @@ In today’s video we present to you, AHEAD OF EVEN REALTORS, the “[Desert Flo
 
 To give you some perspective on just how “affordable” a new home under $300k is, take a look at the average price of a home last month per the Washington County MLS:
 
-![](/uploads/jeremy-larkin-summary-stats.png){: width="627" height="167"}
+![](/uploads/jeremy-larkin-summary-stats.png){: width="80%"}
 
 That data even includes “cheap” housing products like condos and townhomes. And still, the average price was $382,044\!
 
