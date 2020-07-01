@@ -3,7 +3,7 @@ layout: post
 title: Is Real Estate the Right Career for You?
 date: 2020-07-01 00:00:00
 tags:
-  - Transaction Management
+  - Real Estate
 excerpt: I want to invite you to my upcoming virtual meet and greet on July 7.
 enclosure:
 pullquote:
