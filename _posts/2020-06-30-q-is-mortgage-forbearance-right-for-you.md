@@ -28,7 +28,7 @@ You’ve likely heard it mentioned on the news, as more and more homeowners expl
 
 0:45 — Defining a mortgage forbearance&nbsp;
 
-2:00 — Don’t jump on the bandwagon; if you’re still able make your payments, do so.&nbsp;
+2:00 — Don’t jump on the bandwagon; if you’re still able to make your payments, do so.&nbsp;
 
 3:05 — With forbearance, your property taxes and insurance are not getting paid&nbsp;
 
