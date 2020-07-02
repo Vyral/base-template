@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/xyHcPZOUhBc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These are the six buyer turnoffs every seller should know about and fix.</em></p>
+
 Though your home may be beautiful, some things will immediately make a buyer dismiss it. I’m sharing six buyer turnoffs that sellers need to be aware of in today’s market:
 
 **1\. Dampness or wet areas.** Studies show that 70% of buyers are put off by these, so if there’s any dampness, whether it’s in your basement or bathrooms, repair it right away. This could also be a health hazard to you while you live there.&nbsp;
