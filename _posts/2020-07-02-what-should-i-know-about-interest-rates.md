@@ -17,7 +17,7 @@ youtube_code: 30_w3Nd3eZM
 
 {% include youtube.html %}
 
-Interest rates affect real estate immensely. Find out how here.
+<p style="text-align: center;"><em>Interest rates affect real estate immensely. Find out how here.</em></p>
 
 If you’re interested in real estate, it’s always vital to know about interest rate**s. This April saw historically low interest rates at approximately 3.5%.** When I bought my first home about 40 years ago, I paid roughly an 11% interest rate.&nbsp;
 
