@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Choosing the Best Mortgage Lender
-date:
+date: 2020-07-02 16:26:13
 tags:
 excerpt: >-
   If you’re thinking about buying a home using a home loan, you need to hear
@@ -17,7 +17,11 @@ youtube_alternate_image: /uploads/justin-woodall-online-lenders-vs--local-lender
 youtube_code: ckrIN-OeUUU
 ---
 
-{% include youtube.html %}<center>If you’re thinking about buying a home using a home loan, you need to hear today’s message.</center>
+{% include youtube.html %}
+
+<center>If you&rsquo;re thinking about buying a home using a home loan, you need to hear today&rsquo;s message.</center>
+
+&nbsp;
 
 Here’s the thing about online mortgage lenders (of which there are many): **They know how to manipulate pay-per-click ads and utilize SEO to show up in your news feed and Google searches**. Of course, they’ll say they can offer the best rates and loan packages, so they’re pretty good at capturing buyers’ attention.
 
