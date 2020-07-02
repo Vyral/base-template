@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can I Increase My SOI?'
-date: 2020-07-02 17:05:27
+date: 2020-07-02 17:05:00
 tags:
 excerpt: You can increase your SOI with social media. Here’s how.
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Dave+Friedman/Video+6+SOI.mp4'
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: ZTCPTEVOCm8
 ---
 
 {% include youtube.html %}
