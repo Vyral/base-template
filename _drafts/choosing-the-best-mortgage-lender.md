@@ -18,7 +18,7 @@ youtube_alternate_image: /uploads/justin-woodall-online-lenders-vs--local-lender
 youtube_code: ckrIN-OeUUU
 ---
 
-{% include youtube.html %}If you’re thinking about buying a home using a home loan, you need to hear today’s message.
+{% include youtube.html %}<center>If you’re thinking about buying a home using a home loan, you need to hear today’s message.</center>
 
 {% include pullquote.html %}
 
