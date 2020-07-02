@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/joshua-stern---june-2020---emailuseme.jpg
-youtube_code: cdKdMJUQtvc
+youtube_code: WOO6HEhfIC8
 ---
 
 {% include youtube.html %}
