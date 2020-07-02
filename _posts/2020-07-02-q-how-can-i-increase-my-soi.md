@@ -15,7 +15,8 @@ youtube_code: ZTCPTEVOCm8
 
 {% include youtube.html %}
 
-*You can increase your SOI with social media. Here’s how.*
+<center><em>You can increase your SOI with social media. Here’s how.</em></center>
+&nbsp;
 
 Many real estate agents have been asking me about this, so today I’m discussing what you should be doing every day to increase engagement and business with your sphere of influence. **Your sphere of influence (SOI) is a group of people upon which you have some kind of influence because they know you.** This includes family, friends, those you do business with, fellow organization or club members, etc. Increasing your SOI should be an ongoing goal that pays off in your real estate business over time.&nbsp;
 
