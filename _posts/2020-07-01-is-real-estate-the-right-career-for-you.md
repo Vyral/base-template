@@ -5,7 +5,8 @@ date: 2020-07-01 00:00:00
 tags:
   - Real Estate
 excerpt: We want to invite you to our upcoming virtual meet and greet on July 7.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Is+Real+Estate+the+Right+Career+for+You_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
