@@ -9,14 +9,15 @@ enclosure: >-
 pullquote: We’re truly grateful for all the opportunities we’ve been given.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/7-1-20yt-2.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/7-2-20yt.jpg
 youtube_code: fLZozHLWjBY
 ---
 
 {% include youtube.html %}
 
 <center><em>We want to give back to our community, and we want your suggestions.</em></center>
+
 &nbsp;
 
 Today I want to thank you all for your support because we’re celebrating some records in our business. Last year we had the opportunity to help 70 families make the right move. This year, as of this recording, we’ve currently helped over 50 families\! This wasn’t a specific goal we set, but something that happened organically. We’re truly grateful for all the opportunities we’ve been given.&nbsp;
