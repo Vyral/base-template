@@ -2,7 +2,7 @@
 layout: post
 title: A Historic Rebound for the Housing Market
 tags:
-excerpt:
+excerpt: "Pending Home Sales increased by 44.3% in May, registering the highest month-over-month gain in the index since the\_National Association of Realtors\_(NAR) started tracking this metric in January 2001. So, what exactly are pending home sales, and why is this rebound so important?"
 enclosure:
 pullquote:
 enclosure_type:
