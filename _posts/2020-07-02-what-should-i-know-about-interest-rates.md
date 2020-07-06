@@ -19,7 +19,7 @@ youtube_code: 30_w3Nd3eZM
 
 <p style="text-align: center;"><em>Interest rates affect real estate immensely. Find out how here.</em></p>
 
-If you’re interested in real estate, it’s always vital to know about interest rate**s. This April saw historically low interest rates at approximately 3.5%.** When I bought my first home about 40 years ago, I paid roughly an 11% interest rate.&nbsp;
+If you’re interested in real estate, it’s always vital to know about interest rates.** This April saw historically low interest rates at approximately 3.5%.** When I bought my first home about 40 years ago, I paid roughly an 11% interest rate.&nbsp;
 
 Let’s say a house costs $430,000 with a 3.5% interest rate; your payment would be $1,931 per month, not including taxes or insurance. Last year, interest rates were right around 4.5%, a full percentage point higher than now. The payment for that same house with a 4.5% interest rate would be $2,179— $248 more per month than the lower interest rate, which is almost $3,000 more per year. Compared to a year ago, this gives buyers $50,000 more in buying power.
 
