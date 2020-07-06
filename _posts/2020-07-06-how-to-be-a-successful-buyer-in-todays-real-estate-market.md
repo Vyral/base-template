@@ -19,7 +19,7 @@ youtube_code: U-W5edFdI1c
 
 {% include youtube.html %}
 
-<center><em>If you want to be a successful buyer in today’s market, be sure to follow these tips.</em></center>
+<center><em>If you want to be a successful buyer in today&rsquo;s market, be sure to follow these tips.</em></center>
 
 <br>**There are two types of buyers in the market right now:** first-time buyers who might be living in a rental at the moment, and those buyers who are looking to upsize or downsize (meaning they currently own a home they’ll need to sell).
 
