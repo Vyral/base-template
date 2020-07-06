@@ -16,7 +16,7 @@ youtube_code: LhWcWUek8eo
 
 {% include youtube.html %}
 
-The decision of whether to buy or rent a home should not be made lightly.
+<p style="text-align: center;"><em>The decision of whether to buy or rent a home should not be made lightly.</em></p>
 
 One question I hear from people all the time is, “Should I rent my home or should I buy it?”
 
