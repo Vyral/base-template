@@ -38,5 +38,3 @@ These same principles apply to buyers looking to move up or downsize. The only t
 You could look into whether it’s possible to be approved without selling your house first. That sounds risky, but it’s a calculated risk; since we’re in an extreme seller’s market, you’re banking on your house selling pretty quickly, which means you may not end up stuck owning two for a period while you wait for the first to sell.
 
 If you have any questions about today’s topic, don’t hesitate to reach out to us. We’d be happy to help.
-
-&nbsp;
