@@ -35,7 +35,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.whatsyoursocalhomeworth.com/
+  first_CTA_URL: https://hmbt.co/LL9yqx
   second_CTA_text: Home Search
   second_CTA_URL: http://www.scottworks4u.com/#home-search
 
@@ -44,7 +44,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.whatsyoursocalhomeworth.com/
+    CTA_url: https://hmbt.co/LL9yqx
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
@@ -72,7 +72,7 @@ socials:
   gplus_url: 
   youtube_url: https://www.youtube.com/channel/UCEOBPWGnfrqskizp4cw0xwQ
   twitter_url: https://twitter.com/scottworks4u
-  instagram_url:
+  instagram_url: https://www.instagram.com/scotthimelstein/
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/Scott-Himelstein/
   trulia_url: http://www.trulia.com/profile/Real_Estate_Pro-Porter_Ranch_CA-1443816/
