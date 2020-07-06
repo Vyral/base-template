@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Preventing Break-Ins: How to Keep Your Home Safe from Thieves'
-date: 2020-07-06 21:39:32
+date: 2020-07-07 21:39:00
 tags:
 excerpt: "It’s been reported that in the US, a home is robbed every 14.6 seconds.\_ The average loss is just a little over $2,000.\_ So, if you have a $1,000 deductible on your homeowner’s insurance policy, only half of your loss would be covered."
 enclosure:
