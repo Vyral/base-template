@@ -19,7 +19,9 @@ youtube_code: U-W5edFdI1c
 
 {% include youtube.html %}
 
-**There are two types of buyers in the market right now:** first-time buyers who might be living in a rental at the moment, and those buyers who are looking to upsize or downsize (meaning they currently own a home they’ll need to sell).
+<center><em>If you want to be a successful buyer in today’s market, be sure to follow these tips.</em></center>
+
+<br>**There are two types of buyers in the market right now:** first-time buyers who might be living in a rental at the moment, and those buyers who are looking to upsize or downsize (meaning they currently own a home they’ll need to sell).
 
 **For first-time buyers and those without a property to sell, start the process sooner than later**. This is key because inventory is very low, so there won’t be a whole bunch of available properties to view at any given time and the process might take longer. This is especially true if you’re a renter whose lease is set to expire in the coming months—start the process now so you don’t have to scramble later.
 
