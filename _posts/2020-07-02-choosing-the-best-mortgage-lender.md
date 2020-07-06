@@ -20,7 +20,7 @@ youtube_code: ckrIN-OeUUU
 
 {% include youtube.html %}
 
-<center>If you&rsquo;re thinking about buying a home using a home loan, you need to hear today&rsquo;s message.</center>
+<center>If you&rsquo;re thinking about buying a house using a home loan, you need to hear today&rsquo;s message.</center>
 
 &nbsp;
 
