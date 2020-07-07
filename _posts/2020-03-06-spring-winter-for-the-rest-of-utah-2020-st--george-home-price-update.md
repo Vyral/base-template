@@ -85,3 +85,5 @@ We bought a really cool link that allows you to vote in 2 clicks\! If you didnâ€
 [**https://www.bestofsouthernutah.com/v/Larkin/**](https://www.bestofsouthernutah.com/v/Larkin/){: target="_blank"}
 
 Thank you\!
+
+<div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/spring-winter-for-the-rest-of-utah-2020-st-george-home-price-update.html" data-numposts="5" data-width=""></div>
