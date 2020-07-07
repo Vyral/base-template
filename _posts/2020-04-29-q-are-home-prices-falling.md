@@ -87,3 +87,5 @@ If you have questions about your house or its value, grab 30 minutes to “ask m
 We're wishing you a safe 2020\!
 
 -Jeremy & The Larkin Group
+
+<div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/q-are-home-prices-falling.html" data-numposts="5" data-width=""></div>
