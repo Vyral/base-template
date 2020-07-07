@@ -17,7 +17,9 @@ youtube_code: WlvfflJbFM0
 
 {% include youtube.html %}
 
-Many home improvements are excellent investments, but there are actually two upgrades you shouldn’t make to your house if you’re planning to sell it soon:
+<center><em>These two home upgrades shouldn’t be made if you’re selling soon.</em></center>
+
+<br>Many home improvements are excellent investments, but there are actually two upgrades you shouldn’t make to your house if you’re planning to sell it soon:
 
 **1\. Adding a pool**. When you sell your property, you’re only going to get back 40% to 50% of the money you put into building the pool. It doesn’t make sense to put in a pool just to help it sell quicker. However, if you want to add a pool and plan to live there for 10 or more years to enjoy it, that’s when it’s a good idea.
 
