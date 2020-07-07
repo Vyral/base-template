@@ -59,4 +59,8 @@ In the meantime, stay tuned for our “Grand Opening” event announcement in Ju
 
 \-Jeremy & The Larkin Group
 
+**PS** – Thank you for your support and votes to help us claim the “Best of Southern Utah” crown 2 years straight! As they say, "we couldn’t do it without you!"
+
+<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Jeremy+Larkin+Best.jpg" width="30%">
+
 <div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/new-single-family-homes-at-277k-yup-desert-flower-taking-reservations.html" data-numposts="5" data-width=""></div>
