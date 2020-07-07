@@ -26,7 +26,7 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://listwithdanjones.com/#propertyvalues
+  first_CTA_URL: https://www.carolinahomehub.com/property-report/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.carolinahomehub.com/results-gallery/
 
@@ -37,7 +37,7 @@ sidebar_CTA:
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free -- MARKET -- Home Value Report"
-    CTA_url: http://listwithdanjones.com/#propertyvalues
+    CTA_url: https://www.carolinahomehub.com/property-report/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
