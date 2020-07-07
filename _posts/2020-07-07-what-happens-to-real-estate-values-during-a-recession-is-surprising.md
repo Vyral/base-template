@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   The real estate market is on a much stronger footing which will serve it well
   in any future recessions.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/Videos/2020/The+Stern+Team-+What+Happens+To+Real+Estate+During+A+Recession_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
