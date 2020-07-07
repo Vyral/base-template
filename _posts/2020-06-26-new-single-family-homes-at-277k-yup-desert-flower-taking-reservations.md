@@ -58,3 +58,5 @@ If you’ve got questions, you can easily reply to this email, or call us at 435
 In the meantime, stay tuned for our “Grand Opening” event announcement in July. Cheers\!
 
 \-Jeremy & The Larkin Group
+
+<div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/new-single-family-homes-at-277k-yup-desert-flower-taking-reservations.html" data-numposts="5" data-width=""></div>
