@@ -30,3 +30,5 @@ Recently, I had a client under contract to purchase a home that had solar panels
 {% include pullquote.html %}
 
 If you have questions about buying, selling, or anything else concerning real estate, please give me a call or send an email. I’d be glad to schedule a free consultation. I’m here to help.
+
+&nbsp;
