@@ -53,3 +53,5 @@ The last thing I want to share with you is something I broached about six weeks 
 A [piece](https://www.usatoday.com/story/money/2020/05/01/coronavirus-americans-flee-cities-suburbs/3045025001/){: target="_blank"}&nbsp;in USA Today discussed how folks who live in large cities are considering moving to smaller areas because they don’t want to be stuck in another pandemic. That was BEFORE folks started rioting and looting their cities....
 
 The great news is that the St. George real estate market is alive and well, and conditions are strong for both buying and selling. If you have any questions about making a move, reach out to us. We would love to answer your questions.
+
+<div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/the-thank-heavens-its-been-a-while-good-news-of-the-real-estate-market.html" data-numposts="5" data-width=""></div>
