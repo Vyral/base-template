@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/uLBIbBtJLuo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Mortgage consultant Shane Hoffman explains changes in the lending world.</em></p>
+
 I recently sat down for a Zoom call with loan officer Shane Hoffman of Edina Realty Mortgage (whom you may recognize from some of our previous videos) to discuss interest rates, mortgage forbearance, and more.&nbsp;
 
 In the wake of COVID-19, the mortgage world has been subject to daily changes, and it can be a challenge to stay updated if you’re a potential buyer or refinancer. The good news? If you need to buy a home amid this health crisis, or if you’ve had to enroll in a mortgage forbearance and are afraid it will haunt you forever, it’s not the end of the world—as Shane explains, there are still plenty of financing options available.&nbsp;
