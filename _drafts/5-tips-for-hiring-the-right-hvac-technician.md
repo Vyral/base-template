@@ -2,13 +2,17 @@
 layout: post
 title: 5 Tips for Hiring the Right HVAC Technician
 tags:
-excerpt: "Pending Home Sales increased by 44.3% in May, registering the highest month-over-month gain in the index since the\_National Association of Realtors\_(NAR) started tracking this metric in January 2001. So, what exactly are pending home sales, and why is this rebound so important?"
+excerpt: >-
+  Most homeowners will require the assistance of an HVAC technician to make
+  repairs to their heating and cooling system at some point in their lives. HVAC
+  technicians are specially trained service providers who install, maintain, and
+  repair these systems.  To help ensure the job is done right...
 enclosure:
 pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1.jpg
+youtube_alternate_image: /uploads/hvac-tech.jpg
 youtube_code:
 ---
 
