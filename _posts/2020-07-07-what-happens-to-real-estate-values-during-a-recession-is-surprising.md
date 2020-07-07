@@ -17,7 +17,8 @@ youtube_code: 5hO2qfkh6fc
 
 {% include youtube.html %}
 
-*The real estate market is on a much stronger footing which will serve it well in any future recessions.*
+<center><em>The real estate market is on a much stronger footing which will serve it well in any future recessions.</em></center>
+&nbsp;
 
 First, we should define what exactly a recession is.&nbsp; Simply put, **a recession is a time in which the economy stops growing. **
 
