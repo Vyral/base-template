@@ -20,4 +20,4 @@ youtube_code: TSgb-rtRfgs
 
 <br>We are excited to celebrate Pie-oneer Day festivities and we’d love to have you join us\! Since we weren’t able to do our summer BBQ kickoff, **we’re inviting you to our office to celebrate the tradition of Pioneer Day on July 21 and 22**.
 
-We will be following all the necessary health and safety precautions, so sign up for your preferred time, date, and pie from a variety of choices. When you’re here, you can register for your chance to win the Big Daddy fireworks package, as well as a chance to win some other amazing prizes\!
+We will be following all the necessary health and safety precautions, so **<u><a target="_blank" href="https://www.eventbrite.com/e/colemere-realtys-pie-oneer-day-tickets-111867851756">sign up here</a></u>** for your preferred time, date, and pie from a variety of choices. When you’re here, you can register for your chance to win the Big Daddy fireworks package, as well as a chance to win some other amazing prizes\!
