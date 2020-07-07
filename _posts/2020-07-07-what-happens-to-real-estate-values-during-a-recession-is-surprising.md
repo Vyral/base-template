@@ -23,7 +23,7 @@ youtube_code: 5hO2qfkh6fc
 
 First, we should define what exactly a recession is.&nbsp;
 
-Simply put, a recession is a time in which the economy stops growing.
+Simply put, **a recession is a time in which the economy stops growing**.
 
 Recessions are normal and inevitable and they can make home buyers or sellers understandably weary. The job market becomes less stable, lending standards can tighten, and overall consumer confidence changes. Well, what goes up, must come down…right? Or is that the case?
 
