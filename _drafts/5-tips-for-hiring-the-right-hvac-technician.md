@@ -16,15 +16,11 @@ youtube_alternate_image: /uploads/hvac-tech.jpg
 youtube_code:
 ---
 
-### 5 Tips for Hiring the Right HVAC Technician
-
-HVAC is an important job. Take care when hiring for the work in order to get the best possible outcome.
-
-## Look for these five characteristics before hiring a technician to repair your AC or HVAC system.
+### Look for these five characteristics before hiring a technician to repair your AC or HVAC system.
 
 ![](/uploads/hvac-tech.webp){: width="912" height="513"}
 
-Maintenance on your home’s heating and cooling system can help keep your indoor air clean.
+Maintenance on your home’s heating and cooling system can help keep your indoor air clean and comfortable.
 
 Most homeowners will require the assistance of an HVAC technician to make repairs to their heating and cooling system at some point in their lives. HVAC technicians are specially trained service providers who install, maintain, and repair these systems.
 
