@@ -17,7 +17,7 @@ youtube_code: WlvfflJbFM0
 
 {% include youtube.html %}
 
-<center><em>These two home upgrades shouldn’t be made if you’re selling soon.</em></center>
+<center><em>These two home upgrades shouldn&rsquo;t be made if you&rsquo;re selling soon.</em></center>
 
 <br>Many home improvements are excellent investments, but there are actually two upgrades you shouldn’t make to your house if you’re planning to sell it soon:
 
