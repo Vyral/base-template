@@ -142,3 +142,5 @@ corona-crisis possible during this corona-crisis. <br><br>
 buy or sell a home</u>, even during a pandemic. I also give you permission to
 NOT do so. To pause your plans, cancel them all together, or just wait on the
 sidelines. There, it’s done. #permissiongranted 😊</p>
+
+<div class="fb-comments" data-href="https://stgeorgerealestatevideos.com/could-coronavirus-actually-improve-st-george-real-estate-market.html" data-numposts="5" data-width=""></div>
