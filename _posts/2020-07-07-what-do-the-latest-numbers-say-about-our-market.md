@@ -19,7 +19,7 @@ youtube_code: g5OWodBOPng
 
 <p style="text-align: center;"><em>Here’s what the latest numbers say about our market.</em></p>
 
-What’s been happening in our Western Montana market lately? To answer that question, we’ll compare the year-to-date statistics (up until June) of 2020 with those from 2019. We’ll look at the closed sales, new listings, negotiated sold price, and median sales price of Flathead, Lake, and Missoula counties.&nbsp;
+What’s been happening in our Western Montana market lately? To answer that question, we’ll compare the year-to-date statistics (up until June) from 2020 with those from 2019. We’ll look at the closed sales, new listings, negotiated sold price, and median sales price of Flathead, Lake, and Missoula counties.&nbsp;
 
 <u><strong>Closed Sales:</strong></u>
 
