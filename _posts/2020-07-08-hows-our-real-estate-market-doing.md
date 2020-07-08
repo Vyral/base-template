@@ -76,5 +76,3 @@ Residential benchmark prices are comparable to last month, but they remain nearl
 * June sales remained relatively stable compared to last year’s levels. However, with steep declines in April and May, year-to-date sales remain well below both last year’s levels and longer-term trends.
 * Recent gains in new listings caused some monthly gains in inventory levels. The monthly gain in inventory was not enough to offset the monthly increase in sales, causing the months of supply to trend down to three months in June.&nbsp;
 * Benchmark prices were falling before the COVID-19 pandemic, but the pace of decline increased during the past several months. In June, benchmark prices remained relatively stable compared to last month, but they remain more than 4% lower than last year’s levels.
-
-&nbsp;
