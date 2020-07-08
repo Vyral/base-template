@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/oggie-penev-winning-offers-based-on-money-yt.jpg
+youtube_alternate_image: /uploads/oggie-penev-winning-offers-based-on-money-ytnew.jpg
 youtube_code: 'https://youtu.be/VnFFBFe5YSM'
 ---
 
