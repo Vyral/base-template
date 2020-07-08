@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Write a Winning Offer?'
-date: 2020-07-07 13:43:38
+date: 2020-07-07 13:43:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how to write an offer when the seller is motivated most by money.
@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/VnFFBFe5YSM'
 
 {% include youtube.html %}
 
-When you, a homebuyer, learn that the seller of the home you’re interested in is mostly motivated by how much money they’ll net, you’ll need to tailor your offer to make more money for the seller if you want to win. Here are three tips to help set up your offer:
+When you, a homebuyer, learn that the seller of the home you’re interested in is mostly motivated by how much money they’ll net, you’ll need to tailor your offer to make it more lucrative for the seller if you want to win. Here are three tips to help set up your offer:
 
 **1\. Use an escalation clause.** Beat the other offers without paying too much for the property by using an escalation clause. An escalation clause is simply a clause written into your offer that states you’ll offer a certain amount more than a competitor up to a cap amount. For example, your escalation clause could say you’re willing to pay $1,000 more than the next competitor’s offer, with a cap of $10,000 over the list price.
 
