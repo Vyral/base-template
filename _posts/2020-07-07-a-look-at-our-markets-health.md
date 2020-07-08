@@ -5,7 +5,8 @@ date: 2020-07-07 18:58:00
 tags:
   - Home Seller Tips
 excerpt: 'Here’s my answer to the question, “Is it a good time to sell?”'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Valerie+Hunter-Kelly/+Videos/2020/July/A+Look+at+Our+Markets+Health.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
