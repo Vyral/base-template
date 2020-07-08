@@ -17,7 +17,7 @@ youtube_code: K0MN4chJInE
 
 {% include youtube.html %}
 
-<center><em>Here’s what you should know about Calgary real estate.</em></center>
+<center><em>Here&rsquo;s what you should know about Calgary real estate.</em></center>
 
 <br>After three months of COVID-19 weighing heavily on the housing market, sales activity has continued to trend up from the previous months.
 
