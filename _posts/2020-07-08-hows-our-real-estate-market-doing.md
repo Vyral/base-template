@@ -19,7 +19,7 @@ youtube_code: K0MN4chJInE
 
 <center><em>Here&rsquo;s what you should know about Calgary real estate.</em></center>
 
-<br>After three months of COVID-19 weighing heavily on the housing market, sales activity has continued to trend up from the previous months.
+<br>After three months of COVID-19 weighing heavily on the housing market, **sales activity has continued to trend up** from the previous months.
 
 Monthly sales are nearly 2% lower than the activity recorded last year. However, this represents a significant improvement compared to the past several months, where year-over-year declines exceeded 40%.
 
@@ -35,7 +35,7 @@ Despite some recent monthly gains in supply, sales activity was high enough to c
 
 Residential benchmark prices are comparable to last month, but they remain nearly 3% lower than last year’s levels.
 
-### HOUSING MARKET FACTS
+### **HOUSING MARKET FACTS**
 
 **Detached**
 
@@ -58,7 +58,7 @@ Residential benchmark prices are comparable to last month, but they remain nearl
 * Like the detached sector, the attached sector saw new listings rise compared to both last year and last month. However, the months of supply trended toward more balanced conditions and improved over last year’s levels.
 * Benchmark prices remained relatively stable compared to the previous month, but fell by nearly 4% compared to last year. The higher price decline in this sector could be a contributing factor to improving sales activity.
 
-### REGIONAL MARKET FACTS
+### **REGIONAL MARKET FACTS**
 
 **Airdrie**
 
