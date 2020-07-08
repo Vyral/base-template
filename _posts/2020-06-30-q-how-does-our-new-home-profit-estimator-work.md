@@ -19,4 +19,4 @@ youtube_code: GA-INYpVPnc
 
 &nbsp;
 
-Have you ever wondered how much you could make off of selling your home? Our new home profit estimator tool can not only tell you how much your home is worth, but also *exactly* how much money you can take home when you close. Today we’ll show you step by step how to use this tool on [JCRE.com](https://www.jeffcookrealestate.com/sellers/netsheet-calculator/). Once you know the amount of money you can pocket after selling your home, it’s time to call the local experts at Jeff Cook Real Estate to guide you through the process\!
+Have you ever wondered how much you could make off of selling your home? Our new home profit estimator tool can not only tell you how much your home is worth, but also *exactly* how much money you can take home when you close. Today we’ll show you step by step how to use this tool on&nbsp;[JeffCookRealEstate.com.](https://www.jeffcookrealestate.com/) Once you know the amount of money you can pocket after selling your home, it’s time to call the local experts at Jeff Cook Real Estate to guide you through the process\!
