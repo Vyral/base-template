@@ -17,7 +17,9 @@ youtube_code: K0MN4chJInE
 
 {% include youtube.html %}
 
-After three months of COVID-19 weighing heavily on the housing market, sales activity has continued to trend up from the previous months.
+<center><em>Here’s what you should know about Calgary real estate.</em></center>
+
+<br>After three months of COVID-19 weighing heavily on the housing market, sales activity has continued to trend up from the previous months.
 
 Monthly sales are nearly 2% lower than the activity recorded last year. However, this represents a significant improvement compared to the past several months, where year-over-year declines exceeded 40%.
 
