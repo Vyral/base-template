@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Q&A With Mortgage Consultant Shane Hoffman
+title: Q&A With Mortgage Consultant Shane Hofman
 date: 2020-07-07 21:16:28
 tags:
   - Real Estate
-excerpt: Mortgage consultant Shane Hoffman explains changes in the lending world.
+excerpt: Mortgage consultant Shane Hofman explains changes in the lending world.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2020/Q%26A+With+Mortgage+Consultant+Shane+Hoffman.mp4
 pullquote:
@@ -17,9 +17,9 @@ youtube_code: 'https://youtu.be/uLBIbBtJLuo'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Mortgage consultant Shane Hoffman explains changes in the lending world.</em></p>
+<p style="text-align: center;"><em>Mortgage consultant Shane Hofman explains changes in the lending world.</em></p>
 
-I recently sat down for a Zoom call with loan officer Shane Hoffman of Edina Realty Mortgage (whom you may recognize from some of our previous videos) to discuss interest rates, mortgage forbearance, and more.&nbsp;
+I recently sat down for a Zoom call with loan officer Shane Hofman of Edina Realty Mortgage (whom you may recognize from some of our previous videos) to discuss interest rates, mortgage forbearance, and more.&nbsp;
 
 In the wake of COVID-19, the mortgage world has been subject to daily changes, and it can be a challenge to stay updated if you’re a potential buyer or refinancer. The good news? If you need to buy a home amid this health crisis, or if you’ve had to enroll in a mortgage forbearance and are afraid it will haunt you forever, it’s not the end of the world—as Shane explains, there are still plenty of financing options available.&nbsp;
 
