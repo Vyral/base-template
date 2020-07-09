@@ -19,21 +19,11 @@ youtube_code: K0MN4chJInE
 
 <center><em>Here&rsquo;s what you should know about Calgary real estate.</em></center>
 
-<br>After three months of COVID-19 weighing heavily on the housing market, **sales activity has continued to trend up** from the previous months.
+<br>After three months of COVID-19 weighing heavily on the housing market, **sales activity has continued to trend up** from the previous months. Monthly sales are nearly 2% lower than the activity recorded last year. However, this represents a significant improvement compared to the past several months, where year-over-year declines exceeded 40%. Pent-up demand, very low interest rates, price declines, easing mortgage rates, and the CMHC rule changes all contributed; people were ready for change.
 
-Monthly sales are nearly 2% lower than the activity recorded last year. However, this represents a significant improvement compared to the past several months, where year-over-year declines exceeded 40%.
+This will most likely affect us for a couple of months. It will be interesting to see what happens in the fall if there is a second wave or more shutdowns. The job market is one of our biggest drivers, and double-digit unemployment rates may affect us more in the future. The recent rise in new listings caused inventories to trend up, but they remain well below last year’s levels.
 
-Pent-up demand, very low interest rates, price declines, easing mortgage rates, and the CMHC rule changes all contributed; people were ready for change.
-
-This will most likely affect us for a couple of months. It will be interesting to see what happens in the fall if there is a second wave or more shutdowns.
-
-The job market is one of our biggest drivers, and double-digit unemployment rates may affect us more in the future.
-
-The recent rise in new listings caused inventories to trend up, but they remain well below last year’s levels.
-
-Despite some recent monthly gains in supply, sales activity was high enough to cause the months of supply to dip below four months for the first time since May 2019. If this trend continues, it should help to ease the downward pressure on prices.
-
-Residential benchmark prices are comparable to last month, but they remain nearly 3% lower than last year’s levels.
+Despite some recent monthly gains in supply, sales activity was high enough to cause the months of supply to dip below four months for the first time since May 2019. If this trend continues, it should help to ease the downward pressure on prices. Residential benchmark prices are comparable to last month, but they remain nearly 3% lower than last year’s levels.
 
 ### **HOUSING MARKET FACTS**
 
@@ -46,7 +36,7 @@ Residential benchmark prices are comparable to last month, but they remain nearl
 
 **Apartment**
 
-* Apartment sales totaled 227 units in June. This is an improvement from the 136 units last month, but it is still nearly 13% lower than last year’s levels and more than 30% lower than longer term averages.
+* Apartment sales totaled 227 units in June. This is an improvement from the 136 units last month, but it is still nearly 13% lower than last year’s levels and more than 30% lower than longer-term averages.
 * New listings rose compared to last month and last year. This did translate into some monthly inventory gains, but overall inventory levels remain lower than last year’s levels.
 * The months of supply has come down from the high levels recorded over the past few months.
 * Benchmark prices continued to trend down this month, totaling $240,900. This is a year-over-year decline of nearly 4%.
@@ -54,7 +44,7 @@ Residential benchmark prices are comparable to last month, but they remain nearl
 
 **Attached**
 
-* The attached sector has faced the smallest impact from the pandemic. June sales were nearly 3% higher than last year’s levels and remain comparable to longer term averages. The attached sector has generally benefited from its status as a more affordable alternative to the detached sector.
+* The attached sector has faced the smallest impact from the pandemic. June sales were nearly 3% higher than last year’s levels and remain comparable to longer-term averages. The attached sector has generally benefited from its status as a more affordable alternative to the detached sector.
 * Like the detached sector, the attached sector saw new listings rise compared to both last year and last month. However, the months of supply trended toward more balanced conditions and improved over last year’s levels.
 * Benchmark prices remained relatively stable compared to the previous month, but fell by nearly 4% compared to last year. The higher price decline in this sector could be a contributing factor to improving sales activity.
 
@@ -68,8 +58,8 @@ Residential benchmark prices are comparable to last month, but they remain nearl
 
 **Cochrane**
 
-* Sales in Cochrane this month improved over last year’s levels. At the same time, new listings also rose, causing some growth in inventory levels. However, the improvement in sales outpaced the gains in inventory, causing the months of supply to trend down.&nbsp;
-* Supply/demand balances are improving, but it takes time before this is reflected in prices. In June, the benchmark price was $394,900. This is slightly lower than last month and nearly 4% lower than last year. It will likely take several more months of more balanced conditions before there’s an observable any impact on home prices.
+* Sales in Cochrane this month improved over last year’s levels. At the same time, new listings also rose, causing some growth in inventory levels. However, the improvement in sales outpaced the gains in inventory, causing the months of supply to trend down.
+* Supply/demand balances are improving, but it takes time before this is reflected in prices. In June, the benchmark price was $394,900. This is slightly lower than last month and nearly 4% lower than last year. It will likely take several more months of more balanced conditions before there’s an observable impact on home prices.
 
 **Okotoks**
 
