@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s what you should know about Calgary real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/Hows+Our+Real+Estate+Market+Doing_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
