@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you want to be a successful buyer in today’s market, be sure to follow
   these tips.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/How+to+Be+a+Successful+Buyer+in+Today's+Real+Estate+Market.mp4
 pullquote: Start the process now so you don’t have to scramble later.
 enclosure_type: video/mp4
 enclosure_time:
