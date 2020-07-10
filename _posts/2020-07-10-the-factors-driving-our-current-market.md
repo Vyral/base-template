@@ -18,7 +18,7 @@ youtube_code: rw4fg4glPkg
 
 {% include youtube.html %}
 
-Our market is red hot at the moment—but why is that?
+<p style="text-align:center;"><em>Our market is red hot at the moment—but why is that?</em></p>
 
 I probably don’t need to tell most of you that our market is hot, hot, hot—especially if you have a home to sell. But many are wondering why our market is so hot, and, as it turns out, there are many factors involved.&nbsp;
 
