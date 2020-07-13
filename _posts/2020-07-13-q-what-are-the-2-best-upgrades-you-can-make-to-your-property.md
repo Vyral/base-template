@@ -19,7 +19,7 @@ youtube_code: W3x7OpsMyNk
 
 <p style="text-align:center"><em>Here are the two best upgrades a property can make.</em></p>
 
-If you’re a homeowner looking to spruce up your unit a bit, what updates offer the best bang for your buck? The average home in Hawaii is usually anywhere from 40 to 60 years old—wow, that’s my age; I need an update\!&nbsp;
+If you’re a homeowner looking to spruce up your unit a bit, what updates offer the best bang for your buck? The average home in Hawaii is usually anywhere from 40 to 60 years old—wow, that’s my age; I need an update!&nbsp;
 
 Jokes aside, you can’t just take your 60-year-old unit and put it on the market for rent. It won’t rent, and if it does, it won’t rent for a lot of money. So where should you invest your time and money?&nbsp;
 
@@ -27,4 +27,4 @@ Jokes aside, you can’t just take your 60-year-old unit and put it on the marke
 
 **2. Air conditioning.** People that come from the mainland cannot take our humidity. Trust me, I know this from experience: I lived on the mainland for a while, and when I moved back home, I simply couldn’t sleep without air conditioning. Here in Hawaii, there’s a roughly 50/50 shot that you’ll find a home equipped with air conditioning. In my experience, the houses without air conditioning rent last.&nbsp;
 
-If you have questions on these two updates, or would like us to put in contact with some of our talented in-house handymen or trusted contractors, give us a call or send an email. We’re happy to help\!
+If you have questions on these two updates, or would like us to put in contact with some of our talented in-house handymen or trusted contractors, give us a call or send an email. We’re happy to help!
