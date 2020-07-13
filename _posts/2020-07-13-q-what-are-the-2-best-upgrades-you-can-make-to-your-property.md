@@ -17,7 +17,7 @@ youtube_code: W3x7OpsMyNk
 
 {% include youtube.html %}
 
-Here are the two best upgrades a property can make.
+<p style="text-align:center">Here are the two best upgrades a property can make.</p>
 
 If you’re a homeowner looking to spruce up your unit a bit, what updates offer the best bang for your buck? The average home in Hawaii is usually anywhere from 40 to 60 years old—wow, that’s my age; I need an update\!&nbsp;
 
