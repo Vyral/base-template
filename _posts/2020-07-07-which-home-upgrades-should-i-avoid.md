@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: These two home upgrades shouldn’t be made if you’re selling soon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/Which+Home+Upgrades+Should+I+Avoid_.mp4
 pullquote: You won’t get all your money back for installing a pool or solar panels.
 enclosure_type: video/mp4
 enclosure_time:
