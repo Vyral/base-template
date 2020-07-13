@@ -19,7 +19,7 @@ youtube_code: ccTAgzOVpPM
 
 <p style="text-align:center"><em>We offer owners an eviction guarantee. Here’s what that means.</em></p>
 
-Here at HI Pacific Property Management, we offer you an eviction guarantee. This states that **if you choose to put a tenant we approve of in your unit and they later need to be evicted, we will pay for the legal eviction costs.** We’re the only property management group that offers this guarantee. I guarantee our work, and we do such a great job with background checks that we’ve only had to use this guarantee once.&nbsp;
+Here at HI Pacific Property Management, we offer you an eviction guarantee. This states that **if you choose to put a tenant we approve of in your unit and they later need to be evicted, we will pay for the legal eviction costs.** We’re the only property management group that offers this guarantee. I stand by our work, and we do such a great job with background checks that we’ve only had to use this guarantee once.&nbsp;
 
 We’ve been in business for 10 years, have tons of units, and all we do is property management. Yes, even with all that, we’ve only had to pay for an eviction once. In fact, we offer three guarantees to owners: eviction, rent, and communication guarantees, which you can read more about on our website.
 
