@@ -19,7 +19,7 @@ youtube_code: GrW6OLrnH0Q
 
 {% include youtube.html %}
 
-<center><em>Quantum Leap for Young Adults is hosting an upcoming workshop, and you’re cordially invited.</em></center>
+<center><em>Quantum Leap for Young Adults is hosting an upcoming workshop, and you&rsquo;re cordially invited.</em></center>
 
 <br>Join us for an at-home Guide to Mega Growth for Young Adults\!
 
@@ -31,7 +31,7 @@ youtube_code: GrW6OLrnH0Q
 
 Are you looking for a way out of fear and uncertainty? Right now, the world is offering an opportunity for each of us to step up and be leaders—to forge a path toward a brighter future.
 
-It starts with you focusing on your own growth—putting your own oxygen mask on first. Maximize Your Potential is intended to help you do exactly that; to help you become a Waymaker.
+It starts with you focusing on your own growth—putting your own oxygen mask on first. Maximize Your Potential is intended to help you do exactly that; to help you become a <u>Waymaker</u>.
 
 **A Waymaker is someone who:**
 
