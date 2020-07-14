@@ -17,6 +17,6 @@ youtube_code: MbZSiLt8M7w
 
 {% include youtube.html %}
 
-&nbsp;Interest rates have been hard to predict, but here’s the latest news.
+ <p style="text-align: center;"><em>Interest rates have been hard to predict, but here’s the latest news.</em></p>
 
 Today I’m discussing interest rates. There has been so much unpredictability with interest rates lately, that it’s even hard for us real estate agents to keep track sometimes. However, there’s light at the end of the tunnel. Now that things are starting to return to a more normal state after the initial panic of the pandemic, banks are opening back up. Still, interest rates are the lowest they’ve ever been. To learn more about our current interest rates, watch the short video above.
