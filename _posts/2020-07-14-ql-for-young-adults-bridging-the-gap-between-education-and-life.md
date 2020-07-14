@@ -19,7 +19,9 @@ youtube_code: GrW6OLrnH0Q
 
 {% include youtube.html %}
 
-Join us for an at-home Guide to Mega Growth for Young Adults\!
+<center><em>Quantum Leap for Young Adults is hosting an upcoming workshop, and you’re cordially invited.</em></center>
+
+<br>Join us for an at-home Guide to Mega Growth for Young Adults\!
 
 ### **Event Details**
 
