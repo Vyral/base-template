@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Ways to Keep Your Home Safe When You Travel
-date:
+date: 2020-07-14 14:51:32
 tags:
   - Real Estate
 excerpt: "While you are on vacation, if have to attend a business meeting or make an emergency trip for family matters, one of the last things you need to worry about is your home.\_ Here are some precautions you can take ahead of time."
