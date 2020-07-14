@@ -21,7 +21,7 @@ youtube_code: _lJbzIuYUEY
 
 {% include youtube.html %}
 
-There are three things you need to consider if you’re planning to sell this year.
+<p style="text-align: center;"><em>There are three things you need to consider if you’re planning to sell this year.</em></p>
 
 If you’re planning to sell your home in 2020, keep these three things in mind: you’ll need to prepare your home for the market, be flexible with your showings, and make sure you have at least one full weekend of exposure on the market. Here’s what I mean:
 
