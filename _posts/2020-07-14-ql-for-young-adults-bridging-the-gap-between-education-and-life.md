@@ -13,8 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: >-
-  /_site/uploads/jennie-wolek--how-do-you-know-what-your-potential-is-youtube.jpg
+youtube_alternate_image: /uploads/07-14-wolek-youtube.jpg
 youtube_code: GrW6OLrnH0Q
 ---
 
