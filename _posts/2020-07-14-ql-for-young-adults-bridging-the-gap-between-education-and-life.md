@@ -23,7 +23,7 @@ Join us for an at-home Guide to Mega Growth for Young Adults\!
 
 ### **Event Details**
 
-This is a two-hour online event for ages 18-28 with the opportunity to apply for a $500 scholarship from Keys to the City for Tulsa-area students.
+<br>This is a two-hour online event for ages 18-28 with the opportunity to apply for a $500 scholarship from Keys to the City for Tulsa-area students.
 
 **July 24, 2020 12:00 p.m. - 2:00 p.m.**<br>Hosted By: Jennie Wolek + Brittany Whinery
 
