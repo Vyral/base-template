@@ -5,7 +5,7 @@ date: 2020-07-10 01:52:51
 tags:
   - Market Update
 excerpt: Our market is red hot at the moment—but why is that?
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Q-+Why+Is+Our+Market+So+Red+Hot_.mp4
 pullquote: >-
   Even though the market is red hot at the moment, you still need an experienced
   real estate agent at your side.
