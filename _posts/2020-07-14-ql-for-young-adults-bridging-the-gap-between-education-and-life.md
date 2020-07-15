@@ -25,13 +25,13 @@ youtube_code: GrW6OLrnH0Q
 
 ### **Event Details**
 
-<br>This is a two-hour online event for ages 18-28 with the opportunity to apply for a $500 scholarship from Keys to the City for Tulsa-area students.
+<br>This is a two-hour online event for ages 18-28 with the opportunity for Tulsa-area students to apply for a $500 scholarship from Keys to the City.
 
-**July 24, 2020 12:00 p.m. - 2:00 p.m.**<br>Hosted By: Jennie Wolek + Brittany Whinery
+**July 24, 2020 12 p.m. to 2&nbsp;p.m.**<br>Hosted By: Jennie Wolek + Brittany Whinery
 
 Are you looking for a way out of fear and uncertainty? Right now, the world is offering an opportunity for each of us to step up and be leaders—to forge a path toward a brighter future.
 
-It starts with you focusing on your own growth—putting your own oxygen mask on first. Maximize Your Potential is intended to help you do exactly that; to help you become a <u>Waymaker</u>.
+It starts with you focusing on your growth—putting your own oxygen mask on first. "Maximize Your Potential" is intended to help you do exactly that; to help you become a <u>Waymaker</u>.
 
 **A Waymaker is someone who:**
 
