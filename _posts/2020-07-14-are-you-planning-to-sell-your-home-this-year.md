@@ -33,6 +33,6 @@ If you have any small projects or loose ends you need to tie up, do those before
 
 {% include pullquote.html %}
 
-**3\. Have at least one full weekend of exposure.** We recommend that our sellers list their homes on Thursday, so they get the whole weekend to allow people to see it and schedule showings. Then, on Monday or Tuesday, we can start presenting offers. We’ll often suggest that our sellers find somewhere to go over the weekend so that we can arrange as many showings we possibly can.
+**3\. Have at least one full weekend of exposure.** We recommend that our sellers list their homes on Thursday, so they get the whole weekend to allow people to see it and schedule showings. Then, on Monday or Tuesday, we can start presenting offers. We’ll often suggest that our sellers find somewhere to go over the weekend so that we can arrange as many showings as we possibly can.
 
 If you’re thinking about making a move and you want to get top dollar for your home, don’t hesitate to reach out to me. We’re offering free home market evaluations so that you understand what your home could sell for in today’s marketplace.
