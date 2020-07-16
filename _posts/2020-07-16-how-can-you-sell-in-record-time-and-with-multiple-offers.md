@@ -21,7 +21,9 @@ youtube_code: vWSXpVujizM
 
 <center><em>Here&rsquo;s how to tackle a home sale prudently from start to finish.</em></center>
 
-<br>What you want to avoid is a price reduction, or adding a stigma to your property by having it expire on the market. We’ve taken over a number of properties that have expired two or three times and we’ve managed to sell them simply because we employed the right strategies. There was a time when sellers could wing it and still get their home sold, but flying by the seat of your pants is no longer an option. In today’s market, you have to master **product, pricing, promotion, and distribution**.
+<br>How do we move sellers from ‘Just Listed’ to ‘Sold’ so quickly?
+
+What you want to avoid is a price reduction, or adding a stigma to your property by having it expire on the market. We’ve taken over a number of properties that have expired two or three times and we’ve managed to sell them simply because we employed the right strategies. There was a time when sellers could wing it and still get their home sold, but flying by the seat of your pants is no longer an option. In today’s market, you have to master **product, pricing, promotion, and distribution**.
 
 At 1:22 in the video above, you can catch us finishing up the pre-launch period on a property. We promote and prepare properties for showings and advertisements a full week before they hit the market. That way, we can ensure that everything is lined up properly and that our ‘coming soon’ promotions are well-crafted.
 
