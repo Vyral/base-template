@@ -31,9 +31,9 @@ Think about this way: Could you imagine if the first time anyone heard about the
 
 For example, a buyer actually came two weeks before a property of ours in Cochran was even listed because they had seen the ‘coming soon’ signage and promotional content on social media. I was also feeding information to the buyer’s agent during that two-week period, so that when the property officially hit the market, they had even needed to swiftly submit an offer close to the asking price.
 
-**Don’t cheap out and forego professional photography**. People are still using their cell phone for pictures, or just opting for one good photo. Always make sure you have top-quality HD photography. You may also want to investigate creating a 3D virtual tour or something of the sort. Remember: Don’t tell, show. For example, don’t just tell me a certain area of your house could be used as an office—take the time to set it up as an office space. At 3:16 you can see our stage did an awesome job converting a corner of this home into a lovely work area.
-
 {% include pullquote.html %}
+
+**Don’t cheap out and forego professional photography**. People are still using their cell phone for pictures, or just opting for one good photo. Always make sure you have top-quality HD photography. You may also want to investigate creating a 3D virtual tour or something of the sort. Remember: Don’t tell, show. For example, don’t just tell me a certain area of your house could be used as an office—take the time to set it up as an office space. At 3:16 you can see our stage did an awesome job converting a corner of this home into a lovely work area.
 
 **Make sure your bathrooms and kitchen show their best** by cleaning them and keeping them free of debris or clutter. Your closets should be at least half empty so that it looks like they offer ample storage.
 
