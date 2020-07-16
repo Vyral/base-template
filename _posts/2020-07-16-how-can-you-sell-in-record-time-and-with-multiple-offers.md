@@ -27,7 +27,7 @@ What you want to avoid is a price reduction, or adding a stigma to your property
 
 At 1:22 in the video above, you can catch us finishing up the pre-launch period on a property. We promote and prepare properties for showings and advertisements a full week before they hit the market. That way, we can ensure that everything is lined up properly and that our ‘coming soon’ promotions are well-crafted.
 
-Think about this way: Could you imagine if the first time anyone heard about the latest Star Wars or Marvel movie was after its release? Of course, studios promote those films weeks, months, and sometimes even years before they premiere to create buzz. We do the same thing for our sellers’ homes.
+Think about this way: Could you imagine if the first time anyone heard about the latest Star Wars or Marvel movie was *after* its release? Of course, studios promote those films weeks, months, and sometimes even years before they premiere to create buzz. We do the same thing for our sellers’ homes.
 
 For example, a buyer actually came two weeks before a property of ours in Cochran was even listed because they had seen the ‘coming soon’ signage and promotional content on social media. I was also feeding information to the buyer’s agent during that two-week period, so that when the property officially hit the market, they had even needed to swiftly submit an offer close to the asking price.
 
