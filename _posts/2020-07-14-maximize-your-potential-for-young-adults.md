@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'QL for Young Adults: Bridging the Gap Between Education and Life'
+title: Maximize Your Potential for Young Adults
 date: 2020-07-14 00:00:00
 tags:
   - Real Estate
@@ -27,7 +27,7 @@ youtube_code: GrW6OLrnH0Q
 
 <br>This is a two-hour online event for ages 18-28 with the opportunity for Tulsa-area students to apply for a $500 scholarship from Keys to the City.
 
-**July 24, 2020 12 p.m. to 2&nbsp;p.m.**<br>Hosted By: Jennie Wolek + Brittany Whinery
+**July 24, 2020 12 p.m. to 2 p.m.**<br>Hosted By: Jennie Wolek + Brittany Whinery
 
 Are you looking for a way out of fear and uncertainty? Right now, the world is offering an opportunity for each of us to step up and be leaders—to forge a path toward a brighter future.
 
