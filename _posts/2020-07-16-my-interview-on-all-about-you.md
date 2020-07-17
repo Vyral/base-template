@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Interview on "All About You"
-date: 2020-02-28 00:00:00
+date: 2020-07-16 00:00:00
 tags:
   - Real Estate
 excerpt: >-
