@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 5 Things to Address Before Listing Your Home
-date: 2020-07-17 19:44:08
+date: 2020-07-17 19:44:00
 tags:
+  - Home Seller Tips
 excerpt: >-
   From new flooring to fresh paint, I’m covering the five things sellers need to
   consider before listing their home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/5+Things+to+Address+Before+Listing+Your+Home.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
