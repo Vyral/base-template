@@ -16,7 +16,8 @@ youtube_code: qLtKnq44TNQ
 
 {% include youtube.html %}
 
-*Here’s a story about how I made a negative experience positive.*
+<center><em>Here’s a story about how I made a negative experience positive.</em></center>
+&nbsp;
 
 About five years ago, I flew into Chicago’s O’Hare International Airport. It’s an airport notorious for delays and cancellations of flights. My story is not very different. When we arrived at the airport, there was a delay at the gate and I missed my connecting flight, the last flight of the evening. I ended up sleeping in the airport. I was extremely frustrated and upset.
 
