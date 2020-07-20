@@ -29,3 +29,5 @@ First, when working with a seller, we pass a baton from the listing agent to the
 When passing all these batons, what truly matters is communication between team members. Every time a baton is passed, it’s followed by a debriefing, a conversation between team members to ensure we completely understand all the intricacies and needs of the client. Anytime the ball is dropped it goes back to a lack of communication. We do our best to not allow that to happen; **it’s our goal to win the relay\!** We win by getting to closing with elated clients.
 
 If you want to learn more about how we pass the batons, I’m sharing the information in my closed Facebook group Your Journey With Jennie. Join today\! If you ever have any questions about real estate, reach out to us via phone or email. We would love to help you.
+
+&nbsp;
