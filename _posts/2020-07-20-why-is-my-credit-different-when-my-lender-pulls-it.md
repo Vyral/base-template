@@ -17,7 +17,7 @@ youtube_code: Dq_sCpOo6PQ
 
 {% include youtube.html %}
 
-Here’s why a lender’s credit pull may be different than when you check it.
+<p style="text-align: center;"><em>Here’s why a lender’s credit pull may be different than when you check it.</em></p>
 
 I hear this question often: Why is my credit score different when my lender pulls it than when I go to a website and check it myself?&nbsp;
 
