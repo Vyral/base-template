@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/k3-GDFU7EBw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how to make a winning offer to a home seller who values speed.</em></p>
+
 When we are competing with other buyers to purchase a property, we have to tailor our offers to fit the seller’s needs. If the seller needs a quick close, we have to put certain things in the offer to make it attractive. Here are three tips on how to do that:
 
 **1\. Inspection.** Usually in Arizona, the inspection period is 10 days. If we reduce this to three or five days or waive the inspection altogether, you can cut down time on the close.&nbsp;
