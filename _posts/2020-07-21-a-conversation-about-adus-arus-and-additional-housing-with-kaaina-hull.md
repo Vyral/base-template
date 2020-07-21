@@ -45,6 +45,6 @@ Feel free to send me questions regarding these expansion options and my team and
 
 &nbsp;
 
-**Dwelling Unit Count by Parcel Sq. Ft. Threshold**
+<center><em>Dwelling Unit Count by Parcel Sq. Ft. Threshold</em></center>
 
 <div style="text-align: center;"><img width="35%" src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" /></div>
