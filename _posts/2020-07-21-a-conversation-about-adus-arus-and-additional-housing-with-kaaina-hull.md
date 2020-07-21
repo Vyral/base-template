@@ -17,7 +17,7 @@ youtube_alternate_image: /uploads/7-15-20yt-3.jpg
 youtube_code: C0nVppq5cfI
 ---
 
-<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="25%"></div>
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="50%"></div>
 
 {% include youtube.html %}
 
