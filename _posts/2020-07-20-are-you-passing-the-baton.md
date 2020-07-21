@@ -22,7 +22,7 @@ youtube_code: 4ihDdYIM0hY
 
 We at The Wolek Group believe in the importance of passing the baton in real estate too. If you don’t have a team, you have no one to pass the baton to and must do all the work yourself. We pass three different batons during our real estate transactions.
 
-First, when working with a seller, we pass a baton from the listing agent to the listing manager. The second baton is passed from the buyer agent to the transaction coordinator during pending or from the listing manager to the transaction coordinator when working with a seller. Third, **between 24 and 48 hours before closing is when the baton is passed back to the real estate agent** from the transaction coordinator. This arms the agent with all the information they need to know before closing.
+First, when working with a seller, we pass a baton from the listing agent to the listing manager. The second baton is passed from the buyer agent to the transaction coordinator during pending, or from the listing manager to the transaction coordinator when working with a seller. Third, **between 24 and 48 hours before closing is when the baton is passed back to the real estate agent** from the transaction coordinator. This arms the agent with all the information they need to know before closing.
 
 {% include pullquote.html %}
 
