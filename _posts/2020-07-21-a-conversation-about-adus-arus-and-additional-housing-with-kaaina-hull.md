@@ -17,8 +17,6 @@ youtube_alternate_image: /uploads/7-15-20yt-3.jpg
 youtube_code: C0nVppq5cfI
 ---
 
-<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="35%"></div>
-
 {% include youtube.html %}
 
 
@@ -46,3 +44,6 @@ As you can see, the projects above constitute less than 1500 units so we have a 
 On Kauai’s residentially zoned parcels, the county allows for options to add additional housing units and in the interview, we discuss the process, review the density, and costs. The ARU is a relatively new ordinance, released in 2019,&nbsp; designed to add small rental units on properties either attached or detached. [You can view the ARU ordinance here](https://kauai.gov/Government/Departments-Agencies/Planning-Department/Additional-Dwelling-Unit-ADU-and-Additional-Rental-Unit-ARU). The graphic below provides a definition of the dwelling unit types. On A-zoned property (agricultural) ARUs are not currently permitted.
 
 Feel free to send me questions regarding these expansion options and my team and I will get the answers for you promptly.
+
+&nbsp;
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="35%"></div>
