@@ -19,7 +19,8 @@ youtube_code: XCNiLLRgfU0
 
 {% include youtube.html %}
 
-*From new flooring to fresh paint, I’m covering the five things sellers need to consider before listing their home.*
+ <p style="text-align: center;"><em>
+From new flooring to fresh paint, I’m covering the five things sellers need to consider before listing their home.</em></p>
 
 Here are five things to consider doing before you list your home on the market this year:&nbsp;
 
