@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Additional Dwelling Units
-date: 2020-07-21 19:40:42
+date: 2020-07-21 19:40:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/Kauai+Real+Estate.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/7-15-20yt-3.jpg
 youtube_code: C0nVppq5cfI
 ---
