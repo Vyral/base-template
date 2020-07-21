@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should I Buy a New Construction Home?'
-date: 2020-07-20 21:03:15
+date: 2020-07-20 21:03:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s what to know if you’re considering buying a new construction home.
@@ -21,7 +21,7 @@ youtube_code: 7D9JuSdteps
 
 I’m back today to discuss the advantages and disadvantages of buying new construction homes. It all depends on you, and what you need and want.&nbsp;
 
-Many people who are insistent on buying new construction say they want tobe the first to use everything in their new house (including the toilet). In our case, we were in the military (now we’re retired). When we were active-duty and had to move, we bought a house everywhere we went. Since I knew we wouldn’t be there that long, **I looked for homes about five years old or fewer** because they had typically done all the basic things needed in a house, and I didn’t have to worry about them.&nbsp;
+Many people who are insistent on buying new construction say they want to be the first to use everything in their new house (including the toilet). In our case, we were in the military (now we’re retired). When we were active-duty and had to move, we bought a house everywhere we went. Since I knew we wouldn’t be there that long, **I looked for homes about five years old or fewer** because they had typically done all the basic things needed in a house, and I didn’t have to worry about them.&nbsp;
 
 {% include pullquote.html %}
 
