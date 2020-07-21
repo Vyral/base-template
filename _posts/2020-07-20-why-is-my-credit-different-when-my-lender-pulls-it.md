@@ -19,7 +19,7 @@ youtube_code: Dq_sCpOo6PQ
 
 <p style="text-align: center;"><em>Here’s why a lender’s credit pull may be different than when you check it.</em></p>
 
-I hear this question often: Why is my credit score different when my lender pulls it than when I go to a website and check it myself?&nbsp;
+I hear this question often: Why is there a difference in my credit score when my lender pulls and when I check it online myself?&nbsp;
 
 The main reason is that **credit bureaus have different scoring models.** Different models may be used for a car loan versus a mortgage loan, for example. A lender will have a more detailed credit pull than what you can find online.&nbsp;
 
