@@ -17,7 +17,7 @@ youtube_code: Zik_IgQwY0U
 
 {% include youtube.html %}
 
-Three main factors are impacting our market, and I’m explaining them today.
+<p style="text-align: center;"><em>Three main factors are impacting our market, and I’m explaining them today.</em></p>
 
 In my opinion as a local real estate agent, three main factors are changing our market these days:
 
