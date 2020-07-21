@@ -19,8 +19,6 @@ youtube_code: C0nVppq5cfI
 
 {% include youtube.html %}
 
-&lt;div style="text-align: center;"&gt;&lt;img src"[https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG](https://www.google.com/url?q=https://vyralmarketing.s3.amazonaws.com/Ron%2BMargolis/Videos/2020/Ronnie.PNG&amp;sa=D&amp;source=hangouts&amp;ust=1595447402937000&amp;usg=AFQjCNGLx8IhKuh_0KHxlPdf4rHvwaA0XQ){: target="_blank"}" width="50"&gt;&lt;/div&gt;
-
 In our live stream conversation with Kaaina Hull, we discuss Additional Dwelling Units (ADUs), Additional Rental Units (ARUs), and the planning department's efforts to help create additional housing on Kauai.
 
 Like many areas throughout our nation, affordable housing is a challenge on the Garden Island. According to Housing Director Adam Roversi, Kauai needs 5,000 new homes to meet the needs of its current population. Through a variety of projects, programs, and developers, there are numerous projects currently on the books in the near term including:
