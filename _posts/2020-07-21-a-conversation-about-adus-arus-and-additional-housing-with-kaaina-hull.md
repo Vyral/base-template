@@ -19,8 +19,6 @@ youtube_code: C0nVppq5cfI
 
 {% include youtube.html %}
 
-
-
 In our live stream conversation with Kaaina Hull, we discuss Additional Dwelling Units (ADUs), Additional Rental Units (ARUs), and the planning department's efforts to help create additional housing on Kauai.
 
 Like many areas throughout our nation, affordable housing is a challenge on the Garden Island. According to Housing Director Adam Roversi, Kauai needs 5,000 new homes to meet the needs of its current population. Through a variety of projects, programs, and developers, there are numerous projects currently on the books in the near term including:
@@ -46,4 +44,7 @@ On Kauai’s residentially zoned parcels, the county allows for options to add a
 Feel free to send me questions regarding these expansion options and my team and I will get the answers for you promptly.
 
 &nbsp;
-<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="35%"></div>
+
+**Dwelling Unit Count by Parcel Sq. Ft. Threshold**
+
+<div style="text-align: center;"><img width="35%" src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" /></div>
