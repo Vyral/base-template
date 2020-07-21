@@ -17,9 +17,11 @@ youtube_alternate_image: /uploads/7-15-20yt-3.jpg
 youtube_code: C0nVppq5cfI
 ---
 
+<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="25%"></div>
+
 {% include youtube.html %}
 
-<div style="text-align: center;"><img src="https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Videos/2020/Ronnie.PNG" width="75%"></div>
+
 
 In our live stream conversation with Kaaina Hull, we discuss Additional Dwelling Units (ADUs), Additional Rental Units (ARUs), and the planning department's efforts to help create additional housing on Kauai.
 
