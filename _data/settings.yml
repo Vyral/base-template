@@ -20,15 +20,15 @@ client:
 
     The Nathan Abbott Team are natives to the area and keep the business in the family by becoming the third generation of Abbott Realtors. Although times have definitely changed since the inception of the business, its founding principles have remained the same... customer service, knowledge, hard work and dedication.
   market: "Florida's Emerald Coast"
-  brand: Nathan Abbott Team
-  brokerage: Resort Quest Real Estate
+  brand: Abbott Realty Services, Inc
+  brokerage: 
   address: 9657 Hwy. 98. W<br>Miramar Beach, FL 32550
   phone: 850-632-0136
   phone_type:
   phone2:
   phone2_type:
-  email: Nathan@NathanAbbottTeam.com
-  url: http://www.NathanAbbottTeam.com
+  email: Nathan@AbbottRealtyServices.com
+  url: http://www.abbottrealtyservices.com
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808118';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 
@@ -36,7 +36,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://nathanabbottteam.com/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.finddestinrealestate.com/search/map?baths=1&beds=1&haslat=1&haslong=1&listingtype=Condo&listingtype=Single%20Family&minprice=200000&page=1&perpage=50&soldproperty=0&sortby=latest&type=map
+  second_CTA_URL: http://AbbottSellsTheCoast.com
   phone_CTA: true
 
 sidebar_CTA:
