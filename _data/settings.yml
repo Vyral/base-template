@@ -14,11 +14,9 @@ client:
   name: Nathan Abbott
   license_number:
   about_markdown: |
-    The name Abbott is synonymous with real estate along Florida’s Emerald Coast. The Abbott’s have been making real estate their business since 1950 starting with the original Abbott Realtor, William W. Abbott Sr.
-
-    Steve and Bill Abbott followed in their father’s footsteps and founded Abbott Realty in 1977 with a $3,000 investment. Combined with an unsurpassed work ethic, this small monetary investment created a multimillion-dollar-a-year company, employing more than 1,000 people and becoming the largest employer in NW Florida since the mid 80s. The Abbott’s were involved with the most premier real estate properties along the Emerald Coast.
-
-    The Nathan Abbott Team are natives to the area and keep the business in the family by becoming the third generation of Abbott Realtors. Although times have definitely changed since the inception of the business, its founding principles have remained the same... customer service, knowledge, hard work and dedication.
+    Abbott Realty Services launched one of the first real estate companies in Destin in the early 70’s and became the largest employer in Northwest Florida between the 80’s to the late 90’s.  As natives to the Emerald Coast, Nathan, Erin, and Amanda Abbott carry on the Abbott Real Estate Tradition today as the third generation of Abbott Realtors.
+    
+    Nathan and Erin started their real estate careers in 2002 as a husband and wife team.  They started expanding their team in 2010 as the Nathan Abbott Team and opened Abbott Realty Services in 2020.  Their team of local experts is your native source for real estate along Florida’s  Emerald Coast.  They continue to perform within the top 1% in real estate sales throughout Northwest Florida and take pride in Raising a Higher Standard of Expectation for the industry and their customers. Abbott Realty serves the Emerald Coast from Pensacola to Destin, Santa Rosa Beach and Panama City Beach.  We are Native Experts Selling Paradise! Nathan further launched Abbott Builder Consultants with TJ Martin, providing a proven track record of success in new home and condo sales throughout the Florida Panhandle.  
   market: "Florida's Emerald Coast"
   brand: Abbott Realty Services, Inc
   brokerage: 
@@ -96,7 +94,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 0px
   shadow_spread: 3px
-  shadow_color: "#B2C9CA"
+  shadow_color: transparent
 
 buttons:
   button_radius_number: 0px
