@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Can I Overcome Challenges in the OC Market?'
+title: 'Q: How Can You Overcome Challenges in the OC Market?'
 date: 2020-07-20 16:24:00
 tags:
 excerpt: Here’s a story about how I made a negative experience positive.
