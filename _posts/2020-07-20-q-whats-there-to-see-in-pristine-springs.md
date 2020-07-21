@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s There to See in Pristine Springs?'
-date: 2020-07-20 14:43:51
+date: 2020-07-20 14:43:00
 tags:
 excerpt: I’m here in Pristine Springs visiting a brand-new subdivision.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: lfGpRvyCcBs
+youtube_code: UmrpP-d_ITk
 ---
 
 {% include youtube.html %}
