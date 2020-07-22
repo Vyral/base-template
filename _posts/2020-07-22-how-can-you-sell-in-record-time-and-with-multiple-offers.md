@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can You Sell in Record Time and With Multiple Offers?
-date: 2020-07-16 00:00:00
+date: 2020-07-22 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
