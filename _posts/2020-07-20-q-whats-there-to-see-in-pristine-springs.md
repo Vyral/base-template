@@ -15,4 +15,4 @@ youtube_code: UmrpP-d_ITk
 
 {% include youtube.html %}
 
-I’m standing inside of a brand-new home over in Pristine Springs in Star, Idaho. It’s **a gorgeous subdivision filled with 3- and 4-bedroom homes** that range in square footage from 2,500 to 3,000 sq ft built by Valley Custom Homes. These are big lots with a country feel that are also close to the city, parks, schools, and more. If you’re thinking about building a home, this is a great place to start. To learn more, watch this short video.
+I’m standing inside of a brand-new home over in Pristine Springs in Star, Idaho. It’s **a gorgeous subdivision filled with 3- and 4-bedroom homes** that range in square footage from 2,500 to 3,000 sq ft built by Valley Custom Homes. These are big lots with a country feel that are also close to the city, parks, schools, and more. If you’re thinking about building a home, or want to check out the finished house, [the "Prairie" by Valley Custom Homes](https://view.paradym.com/v/12239-W-Craftsman-St-Star-ID-83669/4524385/prt/68){: target="_blank" rel="noopener"}, this is a great place to start. To learn more, watch this short video.
