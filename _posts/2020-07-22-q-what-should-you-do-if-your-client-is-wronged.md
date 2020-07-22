@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Should You Do If Your Client Is Wronged?'
-date:
+date: 2020-07-22 16:18:28
 tags:
 excerpt: 'If a party defaults on the contract, you have two options.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/7-21---frank-gray---yt.jpg
 youtube_code: kEvXLGyAw5k
 ---
 
-{% include youtube.html %}<center>If a party defaults on the contract, you have two options.</center>
+{% include youtube.html %}
+
+<center>If a party defaults on the contract, you have two options.</center>
+
+&nbsp;
 
 Today I’m discussing a topic we hear questions about often: What can buyers and sellers do when the other party does not fulfill their responsibilities and defaults on the contract? What options do your clients have?&nbsp;
 
