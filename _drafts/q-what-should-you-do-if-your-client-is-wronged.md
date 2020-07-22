@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/7-21---frank-gray---yt.jpg
 youtube_code: kEvXLGyAw5k
 ---
 
-{% include youtube.html %}If a party defaults on the contract, you have two options.
+{% include youtube.html %}<center>If a party defaults on the contract, you have two options.</center>
 
 Today I’m discussing a topic we hear questions about often: What can buyers and sellers do when the other party does not fulfill their responsibilities and defaults on the contract? What options do your clients have?&nbsp;
 
