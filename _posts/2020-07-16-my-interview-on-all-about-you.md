@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I recently had the pleasure of joining Rodrigo Ballon on an episode of “All
   About You” to talk about a variety of topics.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Travis+Chatwin/Videos/2020/%23EVERYDAYENCINITAS+EPISODE+12+_+All+About+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
