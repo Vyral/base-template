@@ -36,7 +36,7 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://tiffanyandbriancanady.kw.com'
+  first_CTA_URL: 'https://tiffanyandbriancanady.kw.com/homeworth'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://tiffanyandbriancanady.kw.com'
 sidebar_CTA:
@@ -52,7 +52,7 @@ second_sidebar_CTA:
       Thinking of selling or interested in learning about a neighbor's house? We
       can help you see what it's worth.
     CTA_link_text2: Free Home Value Report
-    CTA_url2: 'https://tiffanyandbriancanady.kw.com/'
+    CTA_url2: 'https://tiffanyandbriancanady.kw.com/homeworth'
 lender:
   show_section: true
   header_text: Preferred Lender
