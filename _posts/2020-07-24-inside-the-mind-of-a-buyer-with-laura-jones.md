@@ -1,11 +1,12 @@
 ---
 layout: post
 title: “Inside the Mind of a Buyer” With Laura Jones
-date: 2020-07-24 21:28:05
+date: 2020-07-24 21:28:00
 tags:
   - Real Estate
 excerpt: I’m interviewing buyer specialist Laura Jones to gauge how buyers think.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4
 pullquote: The most common criteria for buyers is the general condition of the property.
 enclosure_type: video/mp4
 enclosure_time:
