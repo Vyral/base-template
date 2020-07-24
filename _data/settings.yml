@@ -36,15 +36,15 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.buysprings.com/cma/property-valuation/'
+  first_CTA_URL: 'https://tiffanyandbriancanady.kw.com'
   second_CTA_text: Home Search
-  second_CTA_URL: 'http://www.buysprings.com/'
+  second_CTA_URL: 'https://tiffanyandbriancanady.kw.com'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/007.jpg
     CTA_title: Looking to Buy a Home?
     CTA_text: Search the entire MLS for homes located in -- MARKET --.
     CTA_link_text: Home Search Tool
-    CTA_url: 'http://www.buysprings.com/'
+    CTA_url: 'https://tiffanyandbriancanady.kw.com/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/004.jpg
     CTA_title2: What's Your Home Worth?
@@ -52,7 +52,7 @@ second_sidebar_CTA:
       Thinking of selling or interested in learning about a neighbor's house? We
       can help you see what it's worth.
     CTA_link_text2: Free Home Value Report
-    CTA_url2: 'http://www.buysprings.com/cma/property-valuation/'
+    CTA_url2: 'https://tiffanyandbriancanady.kw.com/'
 lender:
   show_section: true
   header_text: Preferred Lender
