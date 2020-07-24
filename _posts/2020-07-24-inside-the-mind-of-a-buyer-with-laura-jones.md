@@ -17,7 +17,8 @@ youtube_code: tgS7lY4CqiA
 
 {% include youtube.html %}
 
-I’m interviewing buyer specialist Laura Jones to gauge how buyers think.
+ <p style="text-align: center;"><em>
+I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</em></p>
 
 When buyers hop in the car, buckle up, and get ready to view a home on which they could potentially submit an offer, what’s going through their mind? Generally speaking, what’s their approach? As Carter Property Group Buyer Specialist Laura Jones reminds us, buyers have already narrowed down a location and a budget by that point. Now, they’re asking these all-important questions: “What is the best thing we can get for the money? What is the best overall value? Which five things are most important to me, and which property delivers on them?”
 
