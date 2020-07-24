@@ -13,6 +13,8 @@ custom_links:
     url: 'https://www.hipacificpm.com/guaranteed-rent'
   - title: About
     url: 'http://www.hipacificpm.com/aboutus'
+  - title: Tip of the Week
+    url: /tip-of-the-week/
 client:
   name: Duke Kimhan
   license_number: Broker License RB-21817

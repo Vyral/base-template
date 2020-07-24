@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Hawaii Real Estate Podcast with Duke Kimhan</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Real Estate Agents.</description>
+    <title>Hawaii Property Management Podcast with Duke Kimhan</title>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
+    <description>Get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Property Managers.</description>
     <language>en</language>
     <managingEditor>Duke Kimhan</managingEditor>
-    <lastBuildDate>2017-09-19 09:38:43 -0500</lastBuildDate>
+    <lastBuildDate>2020-07-24 12:00:44 -0500</lastBuildDate>
     <media:copyright>Duke Kimhan</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,15 +18,659 @@
     </itunes:owner>
     <itunes:author>Duke Kimhan</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Hawaii Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Real Estate Agents.</itunes:summary>
+    <itunes:subtitle>Learn all the tips, tricks and more for owners in the Hawaii Area Property Management Market.</itunes:subtitle>
+    <itunes:summary>Get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Property Managers.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Q: What Are the 2 Best Upgrades You Can Make to Your Property?</title>
+        <link>http://localhost:4000/q-what-are-the-2-best-upgrades-you-can-make-to-your-property.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-07-13 11:20:23 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Are+the+2+Best+Upgrades+You+Can+Make+to+Your+Property_.mp4</guid>
+        <description>
+
+Here are the two best upgrades a property owner can make.
+
+If you’re a homeowner looking to spruce up your unit a bit, what updates offer the best bang for your buck? The average home in Hawaii is usually anywhere from 40 to 60 years old—wow, that’s my age; I need an update! 
+
+Jokes aside, you can’t just take your 60-year-old unit and put it on the market for rent. It won’t rent, and if it does, it won’t rent for a lot of money. So where should you invest your time and money? 
+
+1. Flooring. Always put some vinyl product down in your house (tile is also an option, but it’s a little more expensive). If your carpet is weathered or your laminate is old, put down some vinyl; it’s not that costly and has a 25-year shelf life. 
+
+2. Air conditioning. People that come from the mainland cannot take our humidity. Trust me, I know this from experience: I lived on the mainland for a while, and when I moved back home, I simply couldn’t sleep without air conditioning. Here in Hawaii, there’s a roughly 50/50 shot that you’ll find a home equipped with air conditioning. In my experience, the houses without air conditioning rent last. 
+
+If you have questions on these two updates, or would like us to put in contact with some of our talented in-house handymen or trusted contractors, give us a call or send an email. We’re happy to help!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Are+the+2+Best+Upgrades+You+Can+Make+to+Your+Property_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Are+the+2+Best+Upgrades+You+Can+Make+to+Your+Property_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the two best upgrades a property can make.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Here are the two best upgrades a property can make.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: What Is Our Eviction Guarantee?</title>
+        <link>http://localhost:4000/q-what-is-our-eviction-guarantee.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-07-10 12:58:57 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Is+Our+Eviction+Guarantee_.mp4</guid>
+        <description>
+
+We offer owners an eviction guarantee. Here’s what that means.
+
+Here at HI Pacific Property Management, we offer you an eviction guarantee. This states that if you choose to put a tenant we approve of in your unit and they later need to be evicted, we will pay for the legal eviction costs. We’re the only property management group that offers this guarantee. I stand by our work, and we do such a great job with background checks that we’ve only had to use this guarantee once. 
+
+We’ve been in business for 10 years, have tons of units, and all we do is property management. Yes, even with all that, we’ve only had to pay for an eviction once. In fact, we offer three guarantees to owners: eviction, rent, and communication guarantees, which you can read more about on our website.
+
+Give us a call or send an email if you have any questions about the eviction guarantee or property management. We would love to speak with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Is+Our+Eviction+Guarantee_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Is+Our+Eviction+Guarantee_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We offer owners an eviction guarantee. Here’s what that means.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>We offer owners an eviction guarantee. Here’s what that means.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: Why Are Walk-Throughs Necessary?</title>
+        <link>http://localhost:4000/q-why-are-walk-throughs-necessary.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-06-29 11:29:07 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Why+Are+Walk-Throughs+Necessary_.mp4</guid>
+        <description>
+
+I’m explaining why walk-throughs are crucial and how we do them.
+
+What is a walk-through? Why would we need to walk through your property? The truth is, several rental owners have switched to us because no one has walked through their property in years. How would anyone know what’s going on there if someone doesn’t walk through it? 
+
+“Walk-throughs are crucial.”
+
+As a property manager, this is the most important part of my job. When I do walk-throughs, I’m looking for damage, illegal tenants, and abuse. I’m looking for all these things in about a 10-minute walk-through with your tenants twice a year. If you allow pets in the house, we’ll walk through it three times per year. 
+
+Walk-throughs are crucial because we can tell if the tenant is living according to the rules, if they’re overly dirty, if there’s drug use, illegal alterations, and more. These are great times to catch whether any of these things are happening and protect your property. You will get a report from us with pictures stating how the property is doing, how it looks, and what we saw from the tenants.
+
+If you have any questions about walk-throughs or property management in general, please call or email me. I would be happy to speak with you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Why+Are+Walk-Throughs+Necessary_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Why+Are+Walk-Throughs+Necessary_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m explaining why walk-throughs are crucial and how we do them.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>I’m explaining why walk-throughs are crucial and how we do them.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: Should I Replace the Carpet?</title>
+        <link>http://localhost:4000/q-should-i-replace-the-carpet.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-06-15 11:49:38 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Should+I+Replace+the+Carpet_.mp4</guid>
+        <description>
+
+If you have carpet in your rental property, it may be time to replace it.
+
+I get asked all the time by rental owners if they should replace the carpet in their properties with wood, vinyl, or tile. My answer to these questions is always yes. 
+
+“The average life of carpet is two to three tenants.”
+
+Carpet has gone out of style over the last decade. Many tenants with children ask if we have houses available without carpet because they can’t be sure of what kind of care was taken with the carpet before they moved into the house. Also, children will usually be much harder on carpet than adults. A lot of owners will have damage or wear and tear, and the average life of carpet is two to three tenants. 
+
+Today many floor products are being made harder, water-resistant, or waterproof. I believe vinyl is the best flooring for rental properties; it has the most variation, a 25-year warranty, and it’s often waterproof. You can have a huge water spill in your house and have no damage or wood issues like bowing of the edges. Tile is also great, but it’s very expensive to lay, though it has a shelf life of about 50 years. 
+
+My recommendation is to switch to waterproof vinyl if it’s time to change the flooring in your house. There are many products out there, so you can choose what’s best for your property. 
+
+If you have questions about flooring or property management, please call or email us. We would love to speak with you. Aloha!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Should+I+Replace+the+Carpet_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Should+I+Replace+the+Carpet_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you have carpet in your rental property, it may be time to replace it.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>If you have carpet in your rental property, it may be time to replace it.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Are We Keeping Clients Safe?</title>
+        <link>http://localhost:4000/q-how-are-we-keeping-clients-safe.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-05-29 15:05:26 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Are+We+Keeping+Clients+Safe_.mp4</guid>
+        <description>
+
+I’m sharing our methods for keeping clients healthy amid COVID-19.
+
+Today I’m sharing some of the protocols we’ve put in place to combat the pandemic. We’re doing showings via video on a variety of platforms so tenants don’t need to be there in person. However, if they insist on seeing it physically or with an agent, we open the doors for them, walk away to give them privacy, and everyone wears masks and gloves. We try not to do face-to-face interactions, but if for some reason we need to, we keep six feet of distance between us. All the property managers that work for us know our protocols and will enforce them. To learn more about how we’re keeping everyone healthy, watch the short video above. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Are+We+Keeping+Clients+Safe_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Are+We+Keeping+Clients+Safe_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m sharing our methods for keeping clients healthy amid COVID-19.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>I’m sharing our methods for keeping clients healthy amid COVID-19.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Do I Handle Insurance Claims?</title>
+        <link>http://localhost:4000/q-how-do-i-handle-insurance-claims.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-05-20 11:42:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Do+I+Handle+Insurance+Claims_.mp4</guid>
+        <description>
+
+Here’s how to handle insurance claims as a rental property owner.
+
+Today’s message is all about insurance claims and what to do if damage happens. If you’re turning your house into a rental property, you should have renters insurance, homeowners insurance, and loss of rent insurance. Water damage is the most frequent type of damage to a home, and it usually happens when there’s a leak. A valve could fail, or a tub or toilet overflows and then you have a water problem. However, water damage isn’t the only type to be concerned about. To learn more about insurance claims and damage, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Do+I+Handle+Insurance+Claims_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Do+I+Handle+Insurance+Claims_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how to handle insurance claims as a rental property owner.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Here’s how to handle insurance claims as a rental property owner.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Has Covid-19 Changed Our Business?</title>
+        <link>http://localhost:4000/q-how-has-covid-19-changed-our-business.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-05-12 10:54:30 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Has+Covid-19+Changed+Our+Business_.mp4</guid>
+        <description>
+
+Curfews have been invoked in Hawaii; here’s how our business has changed.
+
+COVID-19 protocols are going to change the way that we do business. Unfortunately for us here in Hawaii, a curfew was just implemented, meaning that no one is allowed on the roads between 11 p.m. and 5 a.m. on Friday, Saturday, and Sunday. We’ve already sent out information regarding how homeowners can expect our business practices to change with quarantine rules in mind, and new tenants coming into our system can expect to sign some extra paperwork. To learn more about how we’ve had to adapt to these recent challenges, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Has+Covid-19+Changed+Our+Business_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+How+Has+Covid-19+Changed+Our+Business_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Curfews have been invoked in Hawaii; here’s how our business has changed.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Curfews have been invoked in Hawaii; here’s how our business has changed.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: What Effects Will This Pandemic Have on Real Estate?</title>
+        <link>http://localhost:4000/q-what-effects-will-this-pandemic-have-on-real-estate.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-05-05 11:35:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Effects+Will+This+Pandemic+Have+on+Real+Estate_+_+HI+Pacific+Property+Management.mp4</guid>
+        <description>
+
+Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.
+
+We’ve actually had a good year so far and we hope you have too. During this pandemic, it has been so complicated to do business in all sectors of the economy, but especially in real estate. The good news is that real estate and property management have been deemed essential businesses and we’re working our hardest to ensure that we keep moving forward and doing business. There are going to be some effects on the real estate market, but we may not know what those effects are for the next six months or so. To learn more about how I think COVID-19 might affect the real estate market, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Effects+Will+This+Pandemic+Have+on+Real+Estate_+_+HI+Pacific+Property+Management.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Effects+Will+This+Pandemic+Have+on+Real+Estate_+_+HI+Pacific+Property+Management.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Can We Expect for Our Summer Market?</title>
+        <link>http://localhost:4000/what-can-we-expect-for-our-summer-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-04-29 11:49:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Can+We+Expect+for+Our+Summer+Market_+_+Hawaii+Pacific+Property+Management.mp4</guid>
+        <description>
+
+What’s in store for us in the coming summer? Here are my thoughts.
+
+With the stay-at-home orders in place to combat the spread of the pandemic, it brings up a very important question: What is this summer going to look like? Typically, as schools let out for the summer, the market tends to heat up. However, this year is sure to be a little different from the typical summer; the pandemic is going to shake everything up. To learn what that will mean for our market, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Can+We+Expect+for+Our+Summer+Market_+_+Hawaii+Pacific+Property+Management.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Can+We+Expect+for+Our+Summer+Market_+_+Hawaii+Pacific+Property+Management.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s in store for us in the coming summer? Here are my thoughts.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>What’s in store for us in the coming summer? Here are my thoughts.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do Our Owners or Tenants Pay for Pest Control?</title>
+        <link>http://localhost:4000/do-our-owners-or-tenants-pay-for-pest-control.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-04-16 13:11:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Do+Our+Owners+or+Tenants+Pay+for+Pest+Control_+_+Infestations+_+Hawaii+Property+Management.mp4</guid>
+        <description>
+
+For our properties, pest control is the tenant’s responsibility, except when they first move into the house.
+
+For any property owners who decide to leave their homes under our care, we always tell them the same thing regarding pest control: It’s the tenant’s responsibility, except when they first move into the property. 
+
+Specifically, if they find pests within the first 10 to 20 days of moving in, the problem has to be taken care of at the owner’s expense. After the initial move-in period, it shifts to the tenant’s expense. 
+
+As you know, our last video blog was about termites, and oftentimes, the cabinets that are brought into condos or townhomes come from outside Hawaii. The walls and grounds of those properties can be treated, but any outside furniture and the moving boxes encasing them can carry termites. We’ve seen plenty of infestations occur after tenants move in because of this, so it’s something you need to know. 
+
+As always, if you have questions about this or any other property management topic, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Do+Our+Owners+or+Tenants+Pay+for+Pest+Control_+_+Infestations+_+Hawaii+Property+Management.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Do+Our+Owners+or+Tenants+Pay+for+Pest+Control_+_+Infestations+_+Hawaii+Property+Management.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>For our properties, pest control is the tenant’s responsibility, except when they first move in.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>For our properties, pest control is the tenant’s responsibility, except when they first move in.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Termites: The Enemy of Hawaii</title>
+        <link>http://localhost:4000/termites-the-enemy-of-hawaii.html</link>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-04-09 12:30:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Termites-+The+Enemy+of+Hawaii.mp4</guid>
+        <description>
+
+Termites are one of the worst things to have in your home. Today I’m sharing my advice on how to handle this problem.
+
+When I have to be the bearer of bad news to homeowners and tell them we’ve found termites, that’s really the worst news a person can get in Hawaii. That’s because, if you’re part of a townhome or condo situation, most of the time you can’t tent the building, you can only spot-treat the issue. That’s a challenging situation. If you’re a single-family homeowner, you can consider tenting the entire house, but it’s problematic if you have a tenant because they’ll likely have to find other living arrangements during that time.
+
+Termites can eat up to five pounds of wood per week! My advice is to tent the property or have someone spot-treat the problem immediately. Termites are the most formidable adversary we have in Hawaii. Another problem is, many people try to put off termite treatment and then end up having widespread damage to their homes. 
+
+“Termites can eat up to five pounds of wood per week!”
+
+I always try to tell homeowners the bad news myself, as it’s the right thing to do. 
+
+If you have a termite situation, or you know of one in a house, feel free to call or email me. I would be glad to discuss your options. Also, as usual, contact me if you have any questions about property management in general. I’m here to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Termites-+The+Enemy+of+Hawaii.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Termites-+The+Enemy+of+Hawaii.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Termites are one of the worst things to have in your home. Today I’m sharing my advice on how to handle this problem.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Termites are one of the worst things to have in your home. Today I’m sharing my advice on how to handle this problem.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How HI Pacific Property Management Handles Maintenance Calls</title>
+        <link>http://localhost:4000/how-hi-pacific-property-management-handles-maintenance-calls.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-03-26 12:42:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/How+HI+Pacific+Property+Management+Handles+Maintenance+Calls.mp4</guid>
+        <description>
+
+Here’s how we handle maintenance calls for our property owners.
+
+If you’re a property owner thinking of managing your property yourself, what are you going to do when you get a maintenance call? 
+
+We at HI Pacific Property Management average around three maintenance calls a day, seven days a week, most of which come after 4 p.m. or on the weekends. If you manage your own property, you’ll get at least three maintenance calls per lease year. Since you’re required by law to have an on-island representative, do you have someone you trust to handle this type of thing? Someone who knows plenty of insured vendors? 
+
+If not, let me tell you how we handle maintenance calls.
+
+Maintenance calls from tenants are channeled through our portal system. An email gets sent to me and the property manager before being directed to the maintenance department, which is on-call daily from 7 a.m. to 8 p.m. Property managers are free to handle the problem however they want, but 99% of the time, they ask us to take care of it. Our maintenance department contacts the tenant and one of our vendors and puts them in communication. You then get a notification once the job is complete. 
+
+“Since you’re required by law to have an on-island representative, do you have someone you trust to handle this type of thing?”
+
+We have hundreds of rentals, so we have a whole host of vendors who can service your home at a moment’s notice. Since we keep our maintenance department in-house, we can oversee the process and immediately resolve any issues. If one of our vendors makes a bad diagnosis, most of them will give you a credit. 
+
+Property management is all we do, and maintenance is part of the job. If you have us take care of your property, I promise you that we’ll do our very best. Remember, there are only two reasons for me to be in your home: to protect it and to put money in your account. 
+
+As always, if you have questions about this or any real estate topic or you are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
+
+ 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/How+HI+Pacific+Property+Management+Handles+Maintenance+Calls.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/How+HI+Pacific+Property+Management+Handles+Maintenance+Calls.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how we handle maintenance calls for our property owners.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Here’s how we handle maintenance calls for our property owners.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should You Know About the Monster Home Law?</title>
+        <link>http://localhost:4000/what-should-you-know-about-the-monster-home-law.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2020-03-05 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Should+You+Know+About+the+Monster+Home+Law_.mp4</guid>
+        <description>
+
+A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.
+
+The new monster home law just passed in Hawaii. It states that if a home’s size takes up 60% or more of the lot, you’re going to have some new specific guidelines on how to build it. You can read more about them in the building department’s new requirements for monster homes.
+
+This law has just been changed after already having been changed last year. With the latest change, monster homes are going to be much harder to build, both legally and illegally: builders who build monster homes occupying more than 60% of the lot size and containing more than six bedrooms will now incur penalties.
+
+We have a ton more information on this that we’d be happy to share with you. If you’d like to read through it, or if you have any other questions, feel free to reach out via phone or email and we’d be happy to help you. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Should+You+Know+About+the+Monster+Home+Law_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/What+Should+You+Know+About+the+Monster+Home+Law_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>A new law was recently passed pertaining to homes that contain six or more bedrooms and take up 60% or more of a lot’s size. Here’s what you need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Renters Insurance Benefits Tenants and Property Owners</title>
+        <link>http://localhost:4000/why-renters-insurance-benefits-tenants-and-property-owners.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2019-11-25 18:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/Why+Renters+Insurance+Benefits+Tenants+and+Property+Owners+(1).mp4</guid>
+        <description>
+
+What is renters insurance and why is it important for your tenants to have it? 
+
+Renters insurance is the insurance your tenants get to protect them from any losses or hotel bills they may have to cover. 
+
+If, for instance, you have a termite problem or a water leak and you need to move your tenants out for a bit to make some repairs, they’ll likely have to stay at a hotel, and they’ll use their renter’s insurance policy to pay for it. Or, if one of your tenants has some type of accident that damages your property, they’ll use their renters insurance to cover that too.
+
+“Getting renters insurance from tenants keeps money in your account.”
+
+At Hawaii Pacific Property Management, we require all of our tenants to get a minimum coverage of $50,000 in liability and $10,000 in loss. For tenants who have a pet that’s considered a “dangerous breed,” we require $100,000 worth of coverage. 
+
+This is mandated to protect you, as well. As I’ve said before, there are two reasons for us to be in your house: to protect your property and put money into your account. Getting renters insurance from tenants keeps money in your account. 
+
+If you have any more questions about renters insurance, I advise that you contact your insurance carrier. If you have any more questions for me, feel free to give me a call or shoot me an email. I’d be happy to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/Why+Renters+Insurance+Benefits+Tenants+and+Property+Owners+(1).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/Why+Renters+Insurance+Benefits+Tenants+and+Property+Owners+(1).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>As a property owner, it’s important for your tenants to have renters insurance. Here’s why.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>As a property owner, it’s important for your tenants to have renters insurance. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Eviction Guarantee & How Much of a Difference-Maker It Can Be for You</title>
+        <link>http://localhost:4000/our-eviction-guarantee-how-much-of-a-difference-maker-it-can-be-for-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2019-02-25 13:49:50 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-Our+Eviction+Guarantee+%26+How+Much+of+a+Difference-Maker+It+Can+Be+for+You.mp4</guid>
+        <description>
+
+Property management companies can be distinguished by the services they offer. One add-on to our services that we offer you, the owner, that you won’t find just anywhere is the “eviction guarantee.”
+
+If you’re unfamiliar with how this guarantee works, allow me to explain: If we put a tenant in your property, and they must be legally evicted by way of Hawaii’s landlord-tenant code, we promise to pay all legal fees.  
+
+This puts a check on us and ensures that we don’t become complacent in our selection of tenant applicants. In fact, this is a chief reason why I got into this business—I could never find a property manager that could be held responsible for this painstaking process. 
+
+“If we put a tenant in your property, and they must be legally evicted by way of Hawaii’s landlord-tenant code, we promise to pay all legal fees.”
+
+It’s our job to be diligent in conducting background checks and to make the necessary calls up front. Otherwise, we risk letting in a tenant in that is evasive about rent payments or worse. Ask yourself: Who pays for that? If you’re with any other property manager, you’ll be on the hook for legal costs relating to the eviction, and I’ve seen that run anywhere from $1,000 to $6,000. 
+
+What will you get with us? 
+
+We’ll run checks on their background, credit, income statements, LES statement, their job contract, and we’ll also check with their last two landlords. These sorts of checks are all very important, and, along with our eviction guarantee, they’re part of the package when you work with us. 
+
+If you have any questions regarding the eviction guarantee and what we can do for you, as an owner, please give us a call at 808-445-9223. I look forward to speaking with you and answering your questions directly!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-Our+Eviction+Guarantee+%26+How+Much+of+a+Difference-Maker+It+Can+Be+for+You.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-Our+Eviction+Guarantee+%26+How+Much+of+a+Difference-Maker+It+Can+Be+for+You.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Evicting a tenant can be such a hassle, but the eviction guarantee we offer to you, the owner, lifts that financial burden off your shoulders.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Evicting a tenant can be such a hassle, but the eviction guarantee we offer to you, the owner, lifts that financial burden off your shoulders.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our Pest Control Policy Explained</title>
+        <link>http://localhost:4000/our-pest-control-policy-explained.html</link>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2018-12-27 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+When our team notices a pest problem in a property under our care, this immediately indicates two things:
+
+The unit wasn’t properly cleaned
+
+It’s time to call a professional pest controller
+
+No tenant wants to pay rent on a property that has a pest problem, so any such issues must be resolved immediately.
+
+“No tenant wants to pay rent on a property that has a pest problem”
+
+When we identify a pest problem within the first 10 days following our initial walkthrough, we ask that the owner handles the initial treatment. If a problem arises at any point after this window, though, the tenant is responsible.
+
+We recommend contacting a local pest professional if you have any additional questions about pest control.
+
+As always, if you have any questions for us or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
+ 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How do we handle pest problems? Find out in today’s message.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>How do we handle pest problems? Find out in today’s message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Do We Take Professional Photos at Each Vacancy?</title>
+        <link>http://localhost:4000/why-do-we-take-professional-photos-at-each-vacancy.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2018-04-13 15:03:55 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/2018/Hawaii+Property+Management-+Importance+of+Professional+Photography.mp4</guid>
+        <description>
+
+As your property management company, we take care of pictures and videos of your property for you.
+
+Pictures and videos are very important. If your car is not washed and shiny, it doesn’t look its best. We make sure that your unit is clean and vacant before we send a professional photographer in to take pictures and video.
+
+We also promise and commit to taking new pictures and videos every time your unit goes vacant. We need to have everything date-stamped for the court system. In case an unfortunate event happens and we have to evict somebody, we need before and after pictures at the ready.
+
+“We commit to taking new pictures and videos every time your unit goes vacant.”
+
+These pictures come as part of our service at no cost to the owner. We’ll take pictures each time we get a new tenant in as part of our 10% fee. There are no rental fees, rental buffers, or maintenance buffers.
+
+If you have any questions, just give us a call or send us an email. We would be happy to help you!
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/2018/Hawaii+Property+Management-+Importance+of+Professional+Photography.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/2018/Hawaii+Property+Management-+Importance+of+Professional+Photography.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why are professional photographs and videos important for your rental unit? I’ll explain today.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Why are professional photographs and videos important for your rental unit? I’ll explain today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Did the Recent Equifax Breach Impact Your Credit?</title>
+        <link>http://localhost:4000/did-the-recent-equifax-breach-impact-your-credit.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2017-10-23 07:20:29 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Credit protection is an incredibly important subject to those of who use credit in our daily lives. Recently, the Equifax data breach impacted 145 million people’s credit.
+
+Good credit is extremely valuable these days. As an owner and a business manager in the rental management business, I can tell you that we always check credit.
+
+We won’t accept people with a credit score below 620, which just goes to show how important your credit score is.
+
+Personally, I recommend that you research the Equifax credit breach. Do so as soon as possible. Being unaware of your circumstances would be a huge mistake. With approximately 350 million people living in America, a massive portion of the population has been affected.
+
+“Don’t wait until it’s too late.”
+
+Having protection like LifeLock could make a big difference in the security of your credit. Don’t wait until it’s too late. Correcting your credit score can take between 60 to 90 days.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Credit protection is an incredibly important subject to those of who use credit in our daily lives. Recently, the Equifax data breach impacted 145 million people’s credit.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>Credit protection is an incredibly important subject to those of who use credit in our daily lives. Recently, the Equifax data breach impacted 145 million people’s credit.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Owners, Rejoice: We're Here to Help</title>
+        <link>http://localhost:4000/owners-rejoice-were-here-to-help.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2017-10-09 05:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+What+property+managers+have+to+offer.mp4</guid>
+        <description>
+
+This month, I want to talk to you about some of the things we do to protect our property owners.
+
+We have two reasons to be in your house: to protect your home and to put money in your account.
+
+I live by those models, and I make all my decisions based on those two reasons to be in your home and manage your home.
+
+If you do decide to use us, one of the things we do is a walkthrough. If we allow pets in your home, we will walk through the house every four months. We’ll get a picture of the pet and send it to you and get your approval before we even consider putting the pet in your home. If there is no pet (or a pet like a fish that won’t affect the flooring), we’ll come through every six months.
+
+“We have two reasons to be in your house: to protect your home and to put money in your account.”
+
+Walkthroughs are so important, for a couple of reasons:
+
+1. They let the tenant know that we are looking out for the owners.
+
+2. We’ll send the owners pictures of anything that’s affected by the tenant—if there is any damage in the house that we find on our walkthroughs, we will give the tenant a 10-day warning. If they don’t correct the issues within 10 days, then we’ll terminate the lease. This is listed on the lease agreement with the tenant, and they’ll sign their move-in addendum up front, as well as a pet addendum, even if they don’t have one.
+
+Owners, we’re looking out for you. You are our first and only concern because you pay our bills, and I appreciate that. Please feel free to call me if you have any questions. Aloha!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+What+property+managers+have+to+offer.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+What+property+managers+have+to+offer.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>This month, I want to talk to you about some of the things we do to protect our property owners.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>This month, I want to talk to you about some of the things we do to protect our property owners.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Does Our Rent Guarantee Benefit You?</title>
+        <link>http://localhost:4000/how-does-our-rent-guarantee-benefit-you.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Duke Kimhan</author>
+        <pubDate>2017-09-25 04:35:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+does+our+rent+guarantee+work%253F.mp4</guid>
+        <description>
+
+A rent guarantee is something no one else in Hawaii does, but we do.
+
+This guarantee essentially means that we guarantee the amount of rent we can pay you as an owner.
+
+If you’re thinking that’s crazy, that’s because it is. That’s how confident I am that our vetting and advertising processes will rent your home quickly.
+
+We put our rent guarantee in writing once we’re face to face and after I’ve seen the home, its condition, and the surrounding neighborhood. If we advertise the home for 30 days or more under the terms of the guarantee and we don’t secure a tenant, we’ll pay you.
+
+“We’re the only ones who provide a rent guarantee.”
+
+We also provide an eviction guarantee that states if we vet our own tenant to rent your property and there’s an eviction, we will cover the cost.
+
+Lastly, we provide a communication guarantee that acts as our promise that we’ll always be there to pick up the phone for you. I get a lot of business from a lot of other property managers because they didn’t do the same for their clients. You’ll have the property manager’s number as well as my own and our office’s.
+
+If you have any questions or want to give this rent guarantee a shot, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+does+our+rent+guarantee+work%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+does+our+rent+guarantee+work%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A rent guarantee is something no one else in Hawaii does, but we do.</itunes:subtitle>
+        <itunes:author>Duke Kimhan</itunes:author>
+        <itunes:summary>A rent guarantee is something no one else in Hawaii does, but we do.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>How Do We Handle Water Leaks in Your Property?</title>
-        <link>localhost:4000/how-do-we-handle-water-leaks-in-your.html</link>
+        <link>http://localhost:4000/how-do-we-handle-water-leaks-in-your.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -51,7 +695,7 @@ About half of our leaks result in insurance claims. The sooner we can get to the
 If you have any questions for us or you’re thinking about investing in real estate, give me a call or send me an email. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+Why+water+leaks+are+so+devastating.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+Why+water+leaks+are+so+devastating.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -70,7 +714,7 @@ Water leaks are one of the biggest pains we have in the home rental business. He
       
       <item>
         <title>Should You Allow Pets in Your Rental Home?</title>
-        <link>localhost:4000/should-you-allow-pets-in-your-rental.html</link>
+        <link>http://localhost:4000/should-you-allow-pets-in-your-rental.html</link>
         
           <category>Hawaii Pacific Property Management Owners</category>
         
@@ -97,7 +741,7 @@ We don’t take our pet policy lightly. We’re here to protect your home and pu
 If you have any other questions for us, don’t hesitate to reach out. We would love to hear from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Fido+makes+property+owners+more+dough.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Fido+makes+property+owners+more+dough.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -116,7 +760,7 @@ You can choose whether you want to allow pets in your rental property. Here’s 
       
       <item>
         <title>Landlord or Tenant. Who Pays for Pest Control?</title>
-        <link>localhost:4000/who-takes-care-of-pest-control.html</link>
+        <link>http://localhost:4000/who-takes-care-of-pest-control.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -147,7 +791,7 @@ Although pest control is important, I would say that 90% of my homes do not have
 If you have any other questions about pest control or would like to learn more about how we take care of your investment properties, just give me a call or send me an email. Feel free to check out our site as well. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Landlord+or+tenant.+Who+pays+for+pest+control%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Landlord+or+tenant.+Who+pays+for+pest+control%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -166,7 +810,7 @@ If a tenant leaves food out in the house and a rodent problem develops, who is r
       
       <item>
         <title>Hawaii Pacific Property Management Helps Owners "Clean" Up On Rent</title>
-        <link>localhost:4000/how-does-our-move-out-addendum-protect.html</link>
+        <link>http://localhost:4000/how-does-our-move-out-addendum-protect.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -189,7 +833,7 @@ This addendum states that the tenant will get professional services to clean the
 We do two things very well: We protect your home and put money in your account. If you need help with either of those things or have any questions about real estate in general, give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Hawaii+Pacific+Property+Management+Helps+Owners+-Clean-+Up+On+Rent.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Hawaii+Pacific+Property+Management+Helps+Owners+-Clean-+Up+On+Rent.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -208,7 +852,7 @@ Our move-out addendum ensures that your property is always in good condition. He
       
       <item>
         <title>When Do You Get Paid for Your Investment Property?</title>
-        <link>localhost:4000/when-do-you-get-paid-for-your.html</link>
+        <link>http://localhost:4000/when-do-you-get-paid-for-your.html</link>
         
           <category>Hawaii Pacific Property Management Owners</category>
         
@@ -235,7 +879,7 @@ When you work with me, you don’t have to pay any money up front. If your prope
 If you have any other questions about your payment or would like to learn more about how we can help you, just give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+you+get+the+profits+from+your+investment.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+you+get+the+profits+from+your+investment.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As the owner of an investment property, how do you get paid? I’ll explain the process today.
@@ -250,7 +894,7 @@ If you have any other questions about your payment or would like to learn more a
       
       <item>
         <title>How We Discern Between Wear & Tear and Tenant Damage</title>
-        <link>localhost:4000/how-we-discern-between-wear-tear-and.html</link>
+        <link>http://localhost:4000/how-we-discern-between-wear-tear-and.html</link>
         
           <category>Hawaii Pacific Property Management Tenants</category>
         
@@ -279,7 +923,7 @@ We also do a six-month walkthrough to make sure the home is cared for, four mont
 If you have any questions about assessing wear and tear or damage in a unit or you’re interested in our property management services, don’t hesitate to give us a call or send us an email. We’d be glad to speak with you further.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/videoplayback.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/videoplayback.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -298,7 +942,7 @@ Discerning the difference between normal wear and tear versus actual damage is a
       
       <item>
         <title>How Does Our Rent Guarantee Work? </title>
-        <link>localhost:4000/how-does-our-rent-guarantee-work.html</link>
+        <link>http://localhost:4000/how-does-our-rent-guarantee-work.html</link>
         
           <category>Rent Guarantee</category>
         
@@ -331,7 +975,7 @@ Our communication guarantee is extremely important. Many other property manageme
 There are two reasons why I am here: to put money into your bank account and to protect your home. We promise and guarantee that we will do both of those things. If you have any questions for us, please don’t hesitate to give us a call. We are always happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+our+rent+guarantee+helps+you.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+our+rent+guarantee+helps+you.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -350,7 +994,7 @@ What is a rent guarantee and why do we offer one? I’ll explain everything toda
       
       <item>
         <title>Meet Your Property Specialists - The Nurre Team ​</title>
-        <link>localhost:4000/meet-your-property-specialists-nurre.html</link>
+        <link>http://localhost:4000/meet-your-property-specialists-nurre.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -371,7 +1015,7 @@ Julie is excited to be part of the dynamic team because of our focus on taking c
 If you have any property management needs, don’t hesitate to reach out to us! We’d love to work with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+your+Property+Specialists+-+The+Nurre+Team.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+your+Property+Specialists+-+The+Nurre+Team.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -390,7 +1034,7 @@ Today we want to introduce you to Ikaika and Julie Nurre, or as we call them, th
       
       <item>
         <title>Filet Mignon For Property Owner With Rent Loss Insurance - No Hot Dogs!</title>
-        <link>localhost:4000/what-can-our-owners-and-tenants-expect.html</link>
+        <link>http://localhost:4000/what-can-our-owners-and-tenants-expect.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -422,7 +1066,7 @@ Depending on the insurance company, this will cost an owner anywhere from $100 t
 If you have any questions about this topic, please feel free to reach out to us. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Property+Management-+Filet+mignon+for+property+owner+with+rent+loss+-+no+hot+dogs%2521.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Adrienne+Lally/Hawaii+Property+Management-+Filet+mignon+for+property+owner+with+rent+loss+-+no+hot+dogs%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We recommend that our owners carry certain types of insurance coverage so they can maximize their investment property’s value.
@@ -437,7 +1081,7 @@ If you have any questions about this topic, please feel free to reach out to us.
       
       <item>
         <title>How We Earn Our Management Fees!</title>
-        <link>localhost:4000/what-all-goes-into-services-we-offer.html</link>
+        <link>http://localhost:4000/what-all-goes-into-services-we-offer.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -470,7 +1114,7 @@ Once we have a tenant, we do a four- or six-month walkthrough to ensure proper m
 In a nutshell, that’s how we earn our fees. We think we are more than worth our price, and many of our owners can attest to that. If you have any questions for us or you’re looking to invest in property here in Hawaii, give us a call or send us an email. We would love to hear from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+we+earn+our+management+fees%2521.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+How+we+earn+our+management+fees%2521.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -489,7 +1133,7 @@ How do we earn our fees as a property management company? Here are all the thing
       
       <item>
         <title>Meet Evan Miyaki </title>
-        <link>localhost:4000/meet-evan-miyaki.html</link>
+        <link>http://localhost:4000/meet-evan-miyaki.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -511,7 +1155,7 @@ Another thing Evan likes about our team is our rent guarantee. Our rent guarante
 If you have any questions for Evan, give him a call at 808-721-3639 or email him at Evan@HiPacificPM.com. If you have any other questions, please don’t hesitate to reach out to us. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+Metro+Honolulu%2527s+property+manager.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+Metro+Honolulu%2527s+property+manager.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -530,7 +1174,7 @@ Meet Evan Miyaki, another member of the Hawaii Pacific Property Management.
       
       <item>
         <title>Meet Arlene Ichimura</title>
-        <link>localhost:4000/meet-arlene-ichimura.html</link>
+        <link>http://localhost:4000/meet-arlene-ichimura.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -550,7 +1194,7 @@ Arlene’s goal is to provide excellent communication and customer service to ou
 Arlene covers the areas of Kapolei and Ewa Beach. If you have any questions for her, give her a call at (808) 721-7990 or send her an email to Arlene@hipacificpm.com. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Your+West+Oahu+Property+Manager.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Your+West+Oahu+Property+Manager.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -569,7 +1213,7 @@ We’re back to introduce another great member of our team. This time we’re ta
       
       <item>
         <title>How Our Move Out Addendum Benefits Us and Our Tenants</title>
-        <link>localhost:4000/how-our-move-out-addendum-benefits-us.html</link>
+        <link>http://localhost:4000/how-our-move-out-addendum-benefits-us.html</link>
         
           <category>Property Management Tips</category>
         
@@ -593,7 +1237,7 @@ Remember, we only work with two goals in mind: 1) to protect your home; 2) to pu
 If you have any questions about our move out addendum or anything else related to property management, please feel free to call us or shoot us an email. We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+How+Our+Move+Out+Addendum+Benefits+Us+and+Our+Tenants.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+How+Our+Move+Out+Addendum+Benefits+Us+and+Our+Tenants.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -612,7 +1256,7 @@ For every home we lease, we have the tenant sign a move out addendum. This ensur
       
       <item>
         <title>Meet Our Office Manager</title>
-        <link>localhost:4000/meet-our-office-manager.html</link>
+        <link>http://localhost:4000/meet-our-office-manager.html</link>
         
           <category>Hawaii Pacific Property Management</category>
         
@@ -630,7 +1274,7 @@ As the office manager, Priscilla handles all the bookkeeping, invoicing, and bac
 If you have any questions for us, don’t hesitate to reach out by phone or email. We would love to hear from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+Meet+Our+Office+Manager.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+Meet+Our+Office+Manager.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -649,37 +1293,29 @@ Priscilla Jacobo is our Office Manager. She wears a lot of hats to ensure that o
       
       <item>
         <title>Meet Melissa Getty</title>
-        <link>localhost:4000/meet-melissa-getty.html</link>
-        
-          <category>Hawaii Pacific Property Management</category>
+        <link>http://localhost:4000/meet-melissa-getty.html</link>
         
         <author>Duke Kimhan</author>
         <pubDate>2016-10-27 12:30:00 -0500</pubDate>
-        <guid></guid>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+Melissa+Getty.mp4</guid>
         <description>
-
-Meet one of our great team members, Melissa Getty.
-She is here to talk a little bit about our team today.
+Meet one of our great team members, Melissa Getty.**She is here to talk a little bit about our team today.
 
 Today we would like to introduce you to Melissa Getty, one of the great members of our team. What she likes most about Hawaii Pacific Property Management is our transparent communication policy to all of our owners and our ability to be fast problem solvers.
 
 The areas that Melissa serves include Mililani, Waipahu, and Waikele. If you have any questions for Melissa, don’t hesitate to give her a call at 808-445-9223 or send her an email at Melissa@HiPacificPM.com. Hope to hear from you soon!
 </description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+Melissa+Getty.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management-+Meet+Melissa+Getty.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
-
-Meet one of our great team members, Melissa Getty.
-She is here to talk a little bit about our team today.
+Meet one of our great team members, Melissa Getty.**She is here to talk a little bit about our team today.
 
 </itunes:subtitle>
         <itunes:author>Duke Kimhan</itunes:author>
         <itunes:summary>
-
-Meet one of our great team members, Melissa Getty.
-She is here to talk a little bit about our team today.
+Meet one of our great team members, Melissa Getty.**She is here to talk a little bit about our team today.
 
 </itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Hawaii, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -687,7 +1323,7 @@ She is here to talk a little bit about our team today.
       
       <item>
         <title>What to Do if a Tenant Breaks the Lease</title>
-        <link>localhost:4000/what-to-do-if-tenant-breaks-lease.html</link>
+        <link>http://localhost:4000/what-to-do-if-tenant-breaks-lease.html</link>
         
           <category>Property Management Tips</category>
         
@@ -715,7 +1351,7 @@ In the event that one of your tenants can’t pay rent, we would quickly replace
 If you have any further questions about property management, please don’t hesitate to contact us. Just give us a call or send us an email and we’d be happy to help in any way we can. Aloha!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+What+to+Do+if+a+Tenant+Breaks+the+Lease.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+What+to+Do+if+a+Tenant+Breaks+the+Lease.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -734,7 +1370,7 @@ As a property owner, complications can arise for you if one of your tenants can�
       
       <item>
         <title>How Our Eviction Guarantee Works </title>
-        <link>localhost:4000/how-our-eviction-guarantee-works.html</link>
+        <link>http://localhost:4000/how-our-eviction-guarantee-works.html</link>
         
           <category>Property Management Tips</category>
         
@@ -768,7 +1404,7 @@ That is the eviction process. If you elect to use our eviction guarantee, we wil
 Ultimately, I recommend that you let us choose your tenant. We will look at their credit, criminal, and eviction history, and then check their references from past landlords. If you have any questions about the eviction process or our eviction guarantee, please give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+How+Our+Eviction+Guarantee+Works.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Duke+Kimhan/Hawaii+Property+Management+-+How+Our+Eviction+Guarantee+Works.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -790,6 +1426,6 @@ How does that work exactly? I’ll take you through each step today.
     <copyright>Duke Kimhan</copyright>
     <media:credit role="author">Duke Kimhan</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Real Estate Agents.</media:description>
+    <media:description type="plain">Get all the information and the latest updates, tips, and tricks from HI Pacific Property Management - your professional Hawaii Property Managers.</media:description>
   </channel>
 </rss>

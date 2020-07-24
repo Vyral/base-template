@@ -1,321 +1,216 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>-- CLIENT BRAND --</title>
+    <title>HI Pacific Property Management</title>
     <description>Our mission at HI Pacific Property Management is to be your best resource for Hawaii real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The HI Pacific Property Management, your professional Hawaii Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Sep 2017 09:38:43 -0500</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2017 09:38:43 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 24 Jul 2020 12:00:44 -0500</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2020 12:00:44 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
     
       <item>
-        <title>How Do We Handle Water Leaks in Your Property?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/y97i8JQHBo8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: What Are the 2 Best Upgrades You Can Make to Your Property?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/W3x7OpsMyNk?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Water leaks are one of the biggest pains we have in the home rental business. Here’s how you can avoid them before they even happen.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;Here are the two best upgrades a property owner can make.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you’re a homeowner looking to spruce up your unit a bit, what updates offer the best bang for your buck? The average home in Hawaii is usually anywhere from 40 to 60 years old—wow, that’s my age; I need an update! &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Water leaks are probably the most menacing opponent we face in the home rental business.&lt;/strong&gt; If you’re a homeowner/investor, I highly suggest getting additional rent loss coverage on your home for this specific purpose.&lt;/p&gt;
+&lt;p&gt;Jokes aside, you can’t just take your 60-year-old unit and put it on the market for rent. It won’t rent, and if it does, it won’t rent for a lot of money. So where should you invest your time and money? &lt;/p&gt;
 
-&lt;p&gt;If you end up having a big leak, you’ll have to bear the full brunt of it most of the time. If we have a flooded unit, we have a tenant who can’t reside there. We will then have to immediately dry the unit out. However, that process takes three to five days to complete. During that time, you won’t be collecting any rent.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Flooring.&lt;/strong&gt; Always put some vinyl product down in your house (tile is also an option, but it’s a little more expensive). If your carpet is weathered or your laminate is old, put down some vinyl; it’s not that costly and has a 25-year shelf life. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=HALF OF OUR LEAKS RESULT IN INSURANCE CLAIMS.%20localhost:4000/how-do-we-handle-water-leaks-in-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“HALF OF OUR LEAKS RESULT IN INSURANCE CLAIMS.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2. Air conditioning.&lt;/strong&gt; People that come from the mainland cannot take our humidity. Trust me, I know this from experience: I lived on the mainland for a while, and when I moved back home, I simply couldn’t sleep without air conditioning. Here in Hawaii, there’s a roughly 50/50 shot that you’ll find a home equipped with air conditioning. In my experience, the houses without air conditioning rent last. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;About half of our leaks result in insurance claims.&lt;/strong&gt; The sooner we can get to them, the better. If you end up having to lose rent for a month or two, it will be offset by the money you saved by having that extra insurance.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions for us or you’re thinking about investing in real estate, give me a call or send me an email. I look forward to hearing from you.&lt;/p&gt;
+&lt;p&gt;If you have questions on these two updates, or would like us to put in contact with some of our talented in-house handymen or trusted contractors, give us a call or send an email. We’re happy to help!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 23 Aug 2017 11:35:00 -0500</pubDate>
-        <link>localhost:4000/how-do-we-handle-water-leaks-in-your.html</link>
-        <guid isPermaLink="true">localhost:4000/how-do-we-handle-water-leaks-in-your.html</guid>
+        <pubDate>Mon, 13 Jul 2020 11:20:23 -0500</pubDate>
+        <link>http://localhost:4000/q-what-are-the-2-best-upgrades-you-can-make-to-your-property.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-what-are-the-2-best-upgrades-you-can-make-to-your-property.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Should You Allow Pets in Your Rental Home?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GqQZHWefW-U?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: What Is Our Eviction Guarantee?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ccTAgzOVpPM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;You can choose whether you want to allow pets in your rental property. Here’s what we recommend.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;We offer owners an eviction guarantee. Here’s what that means.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here at HI Pacific Property Management, we offer you an eviction guarantee. This states that &lt;strong&gt;if you choose to put a tenant we approve of in your unit and they later need to be evicted, we will pay for the legal eviction costs.&lt;/strong&gt; We’re the only property management group that offers this guarantee. I stand by our work, and we do such a great job with background checks that we’ve only had to use this guarantee once. &lt;/p&gt;
 
-&lt;p&gt;One of the most common questions we get from homeowners is if they have to allow pets in their rental home. The answer is no. It’s totally up to you what kind of pets, if any, you will allow in your home.&lt;/p&gt;
+&lt;p&gt;We’ve been in business for 10 years, have tons of units, and all we do is property management. Yes, even with all that, we’ve only had to pay for an eviction once. In fact, we offer three guarantees to owners: eviction, rent, and communication guarantees, which you can read more about on our website.&lt;/p&gt;
 
-&lt;p&gt;However, keep in mind that &lt;strong&gt;eight out of 10 people in today’s market have pets.&lt;/strong&gt; Especially when rent is up a little higher and families are out there looking. Most families have one or two children and one or two pets. It just comes with the territory.&lt;/p&gt;
-
-&lt;p&gt;If you do choose to allow pets in your home, our addendum helps protect you. We’ll go inspect the property every four months and look for pet damage, as well as any other damage. &lt;strong&gt;We’ll send you pictures of any damage, as well as a picture of the pet in the home.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR ADDENDUM PROTECTS YOU FROM PET DAMAGE.%20localhost:4000/should-you-allow-pets-in-your-rental.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR ADDENDUM PROTECTS YOU FROM PET DAMAGE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;We don’t take our pet policy lightly. We’re here to protect your home and put money in your account. If you don’t want to allow pets, that’s fine, but just know that you’ll be missing out on a huge part of the market and it might take us longer to find a tenant than normal.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions for us, don’t hesitate to reach out. We would love to hear from you soon.&lt;/p&gt;
+&lt;p&gt;Give us a call or send an email if you have any questions about the eviction guarantee or property management. We would love to speak with you.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Aug 2017 11:22:00 -0500</pubDate>
-        <link>localhost:4000/should-you-allow-pets-in-your-rental.html</link>
-        <guid isPermaLink="true">localhost:4000/should-you-allow-pets-in-your-rental.html</guid>
+        <pubDate>Fri, 10 Jul 2020 12:58:57 -0500</pubDate>
+        <link>http://localhost:4000/q-what-is-our-eviction-guarantee.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-what-is-our-eviction-guarantee.html</guid>
         
-        <category>Hawaii Pacific Property Management Owners</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Landlord or Tenant. Who Pays for Pest Control?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C09p-r8fWlA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: Why Are Walk-Throughs Necessary?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SS2bNaPBhOA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;If a tenant leaves food out in the house and a rodent problem develops, who is responsible for pest control: the owner or the tenant?&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;I’m explaining why walk-throughs are crucial and how we do them.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;What is a walk-through? Why would we need to walk through your property? The truth is, several rental owners have switched to us because no one has walked through their property in years. How would anyone know what’s going on there if someone doesn’t walk through it? &lt;/p&gt;
 
-&lt;p&gt;Pests can be a formidable adversary. Their job is to come into your house and find whatever food and water they can.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Walk-throughs are crucial.%20http://localhost:4000/q-why-are-walk-throughs-necessary.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Walk-throughs are crucial.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;That’s why pest control is an incredibly important subject for tenants and owners.&lt;/p&gt;
+&lt;p&gt;As a property manager, this is the most important part of my job. When I do walk-throughs, I’m looking for damage, illegal tenants, and abuse. I’m looking for all these things in about a 10-minute walk-through with your tenants twice a year. If you allow pets in the house, we’ll walk through it three times per year. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;As an owner, it is totally optional to carry pest control&lt;/strong&gt; through the lease period of the tenants. That said, our addendum states that pest control is covered by the tenant.&lt;/p&gt;
+&lt;p&gt;Walk-throughs are crucial because &lt;strong&gt;we can tell if the tenant is living according to the rules, if they’re overly dirty, if there’s drug use, illegal alterations, and more.&lt;/strong&gt; These are great times to catch whether any of these things are happening and protect your property. You will get a report from us with pictures stating how the property is doing, how it looks, and what we saw from the tenants.&lt;/p&gt;
 
-&lt;p&gt;Pest control includes rodent control. The owner has no control if tenants leave out food, which attracts pests—so they should not be held responsible. If rodent control is an ongoing problem mentioned in the owner’s interview, I would recommend that you continue to carry rodent control in your house.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=THE OWNER IS NOT THE ONE WHO ATTRACTED THE PESTS, SO THE OWNER DOES NOT INCUR THE COSTS OF PEST CONTROL.%20localhost:4000/who-takes-care-of-pest-control.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“THE OWNER IS NOT THE ONE WHO ATTRACTED THE PESTS, SO THE OWNER DOES NOT INCUR THE COSTS OF PEST CONTROL.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Rodents are brought in by food not being stored properly in the home. So, as I mentioned, since the tenant is the one who attracts the rodents, they are the ones responsible for the costs of rodent control.&lt;/p&gt;
-
-&lt;p&gt;Although pest control is important, I would say that &lt;strong&gt;90% of my homes do not have a rodent problem.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about pest control or would like to learn more about how we take care of your investment properties, just give me a call or send me an email. Feel free to check out &lt;a href=&quot;http://www.hipacificpm.com/&quot; target=&quot;_blank&quot;&gt;our site&lt;/a&gt; as well. I would be happy to help you!&lt;/p&gt;
+&lt;p&gt;If you have any questions about walk-throughs or property management in general, please call or email me. I would be happy to speak with you.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 21 Jul 2017 15:22:00 -0500</pubDate>
-        <link>localhost:4000/who-takes-care-of-pest-control.html</link>
-        <guid isPermaLink="true">localhost:4000/who-takes-care-of-pest-control.html</guid>
+        <pubDate>Mon, 29 Jun 2020 11:29:07 -0500</pubDate>
+        <link>http://localhost:4000/q-why-are-walk-throughs-necessary.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-why-are-walk-throughs-necessary.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Hawaii Pacific Property Management Helps Owners &quot;Clean&quot; Up On Rent</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Pm3Qn4JsOGY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: Should I Replace the Carpet?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/puSLzc-MX3Q?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Our move-out addendum ensures that your property is always in good condition. Here’s how it works.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;If you have carpet in your rental property, it may be time to replace it.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I get asked all the time by rental owners if they should replace the carpet in their properties with wood, vinyl, or tile. My answer to these questions is always yes. &lt;/p&gt;
 
-&lt;p&gt;The Hawaii Landlord-Tenant Code is a 29-page document that spells out all the expectations for owners and renters. Here at Hawaii Pacific Property Management, we add an additional 14-page addendum to our rental contract called a “move-out addendum” that we wanted to talk to you about today.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=The average life of carpet is two to three tenants.%20http://localhost:4000/q-should-i-replace-the-carpet.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“The average life of carpet is two to three tenants.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;This addendum states that the tenant will get professional services to clean the home and leave it in the same condition it was when they moved in.&lt;/strong&gt; To ensure this, we require tenants to sign the agreement up front before they move in. We also require them to provide receipts for any carpet cleaning or maid services they use. This way, there are never any questions about the condition of the property. It will look the same each time a tenant moves out.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Carpet has gone out of style over the last decade.&lt;/strong&gt; Many tenants with children ask if we have houses available without carpet because they can’t be sure of what kind of care was taken with the carpet before they moved into the house. Also, children will usually be much harder on carpet than adults. A lot of owners will have damage or wear and tear, and the average life of carpet is two to three tenants. &lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=WE PROTECT YOUR HOME AND PUT MONEY IN YOUR ACCOUNT.%20localhost:4000/how-does-our-move-out-addendum-protect.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“WE PROTECT YOUR HOME AND PUT MONEY IN YOUR ACCOUNT.”&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Today many floor products are being made harder, water-resistant, or waterproof. I believe vinyl is the best flooring for rental properties; it has the most variation, a 25-year warranty, and it’s often waterproof. You can have a huge water spill in your house and have no damage or wood issues like bowing of the edges. &lt;strong&gt;Tile is also great, but it’s very expensive to lay,&lt;/strong&gt; though it has a shelf life of about 50 years. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;We do two things very well:&lt;/strong&gt; We protect your home and put money in your account. If you need help with either of those things or have any questions about real estate in general, give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+&lt;p&gt;My recommendation is to switch to waterproof vinyl if it’s time to change the flooring in your house. There are many products out there, so you can choose what’s best for your property. &lt;/p&gt;
+
+&lt;p&gt;If you have questions about flooring or property management, please call or email us. We would love to speak with you. Aloha!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 11 Jul 2017 10:47:00 -0500</pubDate>
-        <link>localhost:4000/how-does-our-move-out-addendum-protect.html</link>
-        <guid isPermaLink="true">localhost:4000/how-does-our-move-out-addendum-protect.html</guid>
+        <pubDate>Mon, 15 Jun 2020 11:49:38 -0500</pubDate>
+        <link>http://localhost:4000/q-should-i-replace-the-carpet.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-should-i-replace-the-carpet.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>When Do You Get Paid for Your Investment Property?</title>
-        <description>&lt;p&gt;As the owner of an investment property, how do you get paid? I’ll explain the process today.&lt;/p&gt;
+        <title>Q: How Are We Keeping Clients Safe?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/r2rGG3rROi4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;I’m sharing our methods for keeping clients healthy amid COVID-19.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;One of the most common questions we get is, “How do I get paid?”&lt;/p&gt;
-
-&lt;p&gt;It’s pretty simple. &lt;strong&gt;We collect rents on the first of every month.&lt;/strong&gt; Hawaii has a “no grace period” law for tenants, which means that rent is definitely due on the first.&lt;/p&gt;
-
-&lt;p&gt;It takes a couple of days to process the payment but thanks to ACH and the magic of online banking, our owners will get paid on the fifth of the month.&lt;/p&gt;
-
-&lt;p&gt;We do all of the behind-the-scenes work to manage your property. However, the only thing you need to know is that &lt;strong&gt;we make the rent appear at no hassle to you.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=RENT IS ALWAYS COLLECTED ON THE FIRST OF EACH MONTH.%20localhost:4000/when-do-you-get-paid-for-your.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“RENT IS ALWAYS COLLECTED ON THE FIRST OF EACH MONTH.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;When you work with me, you don’t have to pay any money up front. If your property needs repairs, the cost will be taken out of the rent. Don’t worry—we don’t do anything without your permission, and you will be communicated with about everything via text, email, or a phone call.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about your payment or would like to learn more about how we can help you, just give us a call or send us an email. We would be happy to help you!&lt;/p&gt;
+&lt;p&gt;Today I’m sharing some of the protocols we’ve put in place to combat the pandemic. We’re doing showings via video on a variety of platforms so tenants don’t need to be there in person. However, if they insist on seeing it physically or with an agent, we open the doors for them, walk away to give them privacy, and everyone wears masks and gloves. We try not to do face-to-face interactions, but if for some reason we need to, we keep six feet of distance between us. All the property managers that work for us know our protocols and will enforce them. To learn more about how we’re keeping everyone healthy, watch the short video above. &lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Jun 2017 16:25:00 -0500</pubDate>
-        <link>localhost:4000/when-do-you-get-paid-for-your.html</link>
-        <guid isPermaLink="true">localhost:4000/when-do-you-get-paid-for-your.html</guid>
+        <pubDate>Fri, 29 May 2020 15:05:26 -0500</pubDate>
+        <link>http://localhost:4000/q-how-are-we-keeping-clients-safe.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-how-are-we-keeping-clients-safe.html</guid>
         
-        <category>Hawaii Pacific Property Management Owners</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>How We Discern Between Wear &amp; Tear and Tenant Damage</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UeZlkCuhr0c?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: How Do I Handle Insurance Claims?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/WF9V7U9tIlw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Discerning the difference between normal wear and tear versus actual damage is a difficult but important part of property management. Here’s how we handle it.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;Here’s how to handle insurance claims as a rental property owner.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;How do you discern wear and tear versus damage in a rental property? Getting a property condition form filled out correctly is one of the biggest problems I face in my business.&lt;/p&gt;
-
-&lt;p&gt;The standard property condition form is four pages and it’s very extensive. We require tenants to fill out this form on their way in within the first 10 days of living in a unit. We then go back in on a 10-day walkthrough to remove your lock box and collect the property condition form. During that time, we walkthrough each item on the form that’s listed as damaged or not working properly.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=GETTING A PROPERLY FILLED OUT CONDITION FORM IS ONE OF THE TOUGHEST PARTS OF PROPERTY MANAGEMENT.%20localhost:4000/how-we-discern-between-wear-tear-and.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“GETTING A PROPERLY FILLED OUT CONDITION FORM IS ONE OF THE TOUGHEST PARTS OF PROPERTY MANAGEMENT.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;If we commit to the repairs during the 10-day walkthrough, they’ll be repaired at the owner’s cost.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Wear and tear means things like scratches and scuff marks on the stairs, walls, and bathtub, dirty mirrors, and yellowing on the toilet.&lt;/strong&gt; We have to determine whether it’s wear and tear from living in the unit or damage from negligence by the tenant. Our job is to make that determination for our owners upon move out.&lt;/p&gt;
-
-&lt;p&gt;We also do a six-month walkthrough to make sure the home is cared for, four months if the unit allows pets. We provide pictures of the walkthrough, guaranteed.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about assessing wear and tear or damage in a unit or you’re interested in our property management services, don’t hesitate to give us a call or send us an email. We’d be glad to speak with you further.&lt;/p&gt;
+&lt;p&gt;Today’s message is all about insurance claims and what to do if damage happens. If you’re turning your house into a rental property, you should have renters insurance, homeowners insurance, and loss of rent insurance. Water damage is the most frequent type of damage to a home, and it usually happens when there’s a leak. A valve could fail, or a tub or toilet overflows and then you have a water problem. However, water damage isn’t the only type to be concerned about. To learn more about insurance claims and damage, watch the short video above.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 09 Jun 2017 10:06:00 -0500</pubDate>
-        <link>localhost:4000/how-we-discern-between-wear-tear-and.html</link>
-        <guid isPermaLink="true">localhost:4000/how-we-discern-between-wear-tear-and.html</guid>
+        <pubDate>Wed, 20 May 2020 11:42:00 -0500</pubDate>
+        <link>http://localhost:4000/q-how-do-i-handle-insurance-claims.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-how-do-i-handle-insurance-claims.html</guid>
         
-        <category>Hawaii Pacific Property Management Tenants</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>How Does Our Rent Guarantee Work? </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/ge3_rf4ErF8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: How Has Covid-19 Changed Our Business?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jrKFqgZ43Ms?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;What is a rent guarantee and why do we offer one? I’ll explain everything today.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;Curfews have been invoked in Hawaii; here’s how our business has changed.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;When you work with us, I guarantee that we’ll pay an agreed upon amount if we don’t rent your property in 30 days or less.&lt;/p&gt;
-
-&lt;p&gt;How do we do that?&lt;/p&gt;
-
-&lt;p&gt;First of all, very few property management companies guarantee their work. We will look at your property’s area, present you with a market rent, and &lt;strong&gt;guarantee your rent at a certain amount.&lt;/strong&gt; For example, let’s say your house’s recommended rent is $3,000; we’ll guarantee your rent at $2,400 or $2,600.&lt;/p&gt;
-
-&lt;p&gt;There are many factors that go into renting your home. Until we actually look at the property, we don’t know how renting will go. We don’t know if the people who lived there used to bully the neighborhood, what the parking situation is, or if the house has pets.&lt;/p&gt;
-
-&lt;p&gt;When we arrive at the house, we will look at all of those factors to determine whether or not we can rent your home. If we can, then you sign a contract that states that we will do everything in our power to rent your home. &lt;strong&gt;The contract also offers a rent guarantee, an eviction guarantee, and a communication guarantee.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Many property management companies do not offer an eviction guarantee, even though they put the tenant in the property! If we have to go to eviction with a tenant, we will pay for that. We will also do a four and six-month walkthrough to make sure that your tenants are holding the line as far as your lease goes.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=WE ARE HERE TO MAKE YOU MONEY AND PROTECT YOUR PROPERTY.%20localhost:4000/how-does-our-rent-guarantee-work.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“WE ARE HERE TO MAKE YOU MONEY AND PROTECT YOUR PROPERTY.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Our communication guarantee is extremely important. Many other property management companies can take a while to call you back if they call you back at all. We will give you an updated report each Monday to let you know how many people looked at the home, how many are interested in renting, and give you any feedback from the renters. You have three numbers to reach us: my number, your property manager’s number, and our 800 number that connects to all of our property managers. If you need to talk to us, someone will answer you, guaranteed.&lt;/p&gt;
-
-&lt;p&gt;There are two reasons why I am here: to put money into your bank account and to protect your home. We promise and guarantee that we will do both of those things. If you have any questions for us, please don’t hesitate to give us a call. We are always happy to help you!&lt;/p&gt;
+&lt;p&gt;COVID-19 protocols are going to change the way that we do business. Unfortunately for us here in Hawaii, a curfew was just implemented, meaning that no one is allowed on the roads between 11 p.m. and 5 a.m. on Friday, Saturday, and Sunday. We’ve already sent out information regarding how homeowners can expect our business practices to change with quarantine rules in mind, and new tenants coming into our system can expect to sign some extra paperwork. To learn more about how we’ve had to adapt to these recent challenges, watch the short video above.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 22 May 2017 11:16:00 -0500</pubDate>
-        <link>localhost:4000/how-does-our-rent-guarantee-work.html</link>
-        <guid isPermaLink="true">localhost:4000/how-does-our-rent-guarantee-work.html</guid>
+        <pubDate>Tue, 12 May 2020 10:54:30 -0500</pubDate>
+        <link>http://localhost:4000/q-how-has-covid-19-changed-our-business.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-how-has-covid-19-changed-our-business.html</guid>
         
-        <category>Rent Guarantee</category>
+        <category>Market Update</category>
         
         
       </item>
     
       <item>
-        <title>Meet Your Property Specialists - The Nurre Team ​</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HIlDfTzCBeI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Q: What Effects Will This Pandemic Have on Real Estate?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lQQTBzsQc88?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Today we want to introduce you to Ikaika and Julie Nurre, or as we call them, the Nurre Team.&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;Although the March real estate numbers were not significantly affected by the coronavirus pandemic, I believe that we will see some repercussions in the months to come.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Ikaika Nurre is a property specialist who assists Julie Nurre for HI Pacific Property Management. He enjoys working our team’s sophisticated management software system because of how efficiently it allows us to serve our owners.&lt;/p&gt;
-
-&lt;p&gt;Julie is excited to be part of the dynamic team because of our focus on taking care of our owners. Not only do we take full care of our owners’ investment properties, we put money in the bank for them.&lt;/p&gt;
-
-&lt;p&gt;If you have any property management needs, don’t hesitate to reach out to us! We’d love to work with you.&lt;/p&gt;
+&lt;p&gt;We’ve actually had a good year so far and we hope you have too. During this pandemic, it has been so complicated to do business in all sectors of the economy, but especially in real estate. The good news is that real estate and property management have been deemed essential businesses and we’re working our hardest to ensure that we keep moving forward and doing business. There are going to be some effects on the real estate market, but we may not know what those effects are for the next six months or so. To learn more about how I think COVID-19 might affect the real estate market, watch the short video above.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 03 May 2017 12:10:00 -0500</pubDate>
-        <link>localhost:4000/meet-your-property-specialists-nurre.html</link>
-        <guid isPermaLink="true">localhost:4000/meet-your-property-specialists-nurre.html</guid>
+        <pubDate>Tue, 05 May 2020 11:35:00 -0500</pubDate>
+        <link>http://localhost:4000/q-what-effects-will-this-pandemic-have-on-real-estate.html</link>
+        <guid isPermaLink="true">http://localhost:4000/q-what-effects-will-this-pandemic-have-on-real-estate.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Market Update</category>
         
         
       </item>
     
       <item>
-        <title>Filet Mignon For Property Owner With Rent Loss Insurance - No Hot Dogs!</title>
-        <description>&lt;p&gt;We recommend that our owners carry certain types of insurance coverage so they can maximize their investment property’s value.&lt;/p&gt;
+        <title>What Can We Expect for Our Summer Market?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MJLrgkEVtgg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;
-&lt;a href=&quot;https://www.teamlally.com/blog/bradley-maruyama-of-allstate-insurance.html&quot; target=&quot;_blank&quot;&gt;Free Insurance Quote&lt;/a&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center&quot;&gt;&lt;em&gt;What’s in store for us in the coming summer? Here are my thoughts.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;One of the questions we get asked a lot by our owners is, “How much insurance should we carry on our home while we don’t live in it?” Today I want to delve into this topic to give you an idea of what owners and tenants can expect.&lt;/p&gt;
-
-&lt;p&gt;The first thing you must do as an owner is notify your current insurance company that you’re not using the property as your primary residence. This is an important detail for insurance companies because that makes the property an investment property.&lt;/p&gt;
-
-&lt;p&gt;After that’s done, we first recommend you &lt;strong&gt;take out a renter’s insurance policy that covers at least $10,000 in personal property.&lt;/strong&gt; This is primarily to cover your appliances. This sum won’t be enough to cover a disaster like a wind storm blowing off your roof, but we’ve been fortunate enough in Hawaii to mostly avoid hurricanes and other storms capable of that kind of damage in the past 100 years. Your liability coverage will be $100,000, which is in place in case an accident happens on the property.&lt;/p&gt;
-
-&lt;p&gt;The other thing we recommend for owners is to &lt;strong&gt;get loss of rent coverage.&lt;/strong&gt; This is important because if there’s a leak or your home incurs some type of water damage, the tenants probably won’t be able to reside in it and pay rent. The loss of rent coverage makes sure you are compensated for the lost rent on your investment.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=AS AN OWNER, YOUR LIABILITY COVERAGE WILL BE $100,000.%20localhost:4000/what-can-our-owners-and-tenants-expect.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“AS AN OWNER, YOUR LIABILITY COVERAGE WILL BE $100,000.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;What do we ask on the tenant’s side? &lt;strong&gt;We require all tenants to carry a renter’s policy,&lt;/strong&gt; which is a simple renter’s policy to cover a minimum of $10,000 on their property, $50,000 in liability, and more if they have a dangerous pet. If they happen to have what we consider a dangerous pet, we ask them to cover $100,000. We also ask them to have loss of rent coverage in their policy so that policy will kick in if something happens to them and prevents them from paying rent.&lt;/p&gt;
-
-&lt;p&gt;If your house has wood floors and experiences a water leak and the tenants can still live there but aren’t happy about it, the tenant’s coverage will take care of what they can cover, and the owner’s coverage will take care of the rest. We often see this situation happen with condos and townhouses.&lt;/p&gt;
-
-&lt;p&gt;Depending on the insurance company, this will cost an owner anywhere from $100 to $300 and a tenant anywhere from $100 to $200. It’s a minimal cost, and we require it of both our tenants before they move in and our owners before they have a tenant reside in their unit.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about this topic, please feel free to reach out to us. We look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;With the stay-at-home orders in place to combat the spread of the pandemic, it brings up a very important question: What is this summer going to look like? Typically, as schools let out for the summer, the market tends to heat up. However, this year is sure to be a little different from the typical summer; the pandemic is going to shake everything up. To learn what that will mean for our market, watch the short video above.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 19 Apr 2017 11:45:00 -0500</pubDate>
-        <link>localhost:4000/what-can-our-owners-and-tenants-expect.html</link>
-        <guid isPermaLink="true">localhost:4000/what-can-our-owners-and-tenants-expect.html</guid>
+        <pubDate>Wed, 29 Apr 2020 11:49:00 -0500</pubDate>
+        <link>http://localhost:4000/what-can-we-expect-for-our-summer-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-can-we-expect-for-our-summer-market.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>How We Earn Our Management Fees!</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cWVyU_vkdbQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Do Our Owners or Tenants Pay for Pest Control?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pMy85izemmY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;How do we earn our fees as a property management company? Here are all the things we do for owners to help them protect their investments.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;For our properties, pest control is the tenant’s responsibility, except when they first move into the house.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.hipacificpm.com/Guaranteedrent&quot; target=&quot;_blank&quot;&gt;Find Out How Much Your Home Will Rent For in Today’s Market &lt;/a&gt;
-&lt;a href=&quot;http://www.hipacificpm.com/faqs&quot; target=&quot;_blank&quot;&gt;Learn More About Guaranteed Rent&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;For any property owners who decide to leave their homes under our care, we always tell them the same thing regarding pest control: &lt;strong&gt;It’s the tenant’s responsibility, except when they first move into the property. &lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;This year has been great so far. Interest rates have gone up, so I commend those of you who have invested in property and chose us to help make your property more valuable. It was a smart move.&lt;/p&gt;
+&lt;p&gt;Specifically, if they find pests within the first 10 to 20 days of moving in, the problem has to be taken care of at the owner’s expense. After the initial move-in period, it shifts to the tenant’s expense. &lt;/p&gt;
 
-&lt;p&gt;A lot of people want to know about our owner fees and how we earn them when it comes to maintenance and finding tenants. &lt;strong&gt;We put a lot of work into these areas so that our owners and their investments are protected.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;As you know, our last video blog was about termites, and oftentimes, the cabinets that are brought into condos or townhomes come from outside Hawaii. The walls and grounds of those properties can be treated, but any outside furniture and the moving boxes encasing them can carry termites. We’ve seen plenty of infestations occur after tenants move in because of this, so it’s something you need to know. &lt;/p&gt;
 
-&lt;p&gt;Before we take over a property to manage, we first look at the appliances. If they need to be serviced, we take care of them. However, once the tenant gets in there, all bets on maintenance are off. People handle day-to-day living differently. Many times we’ll see a disposal overload or toilet backup.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=DOING THE HARD WORK UP FRONT ALLOWS US TO FIND GREAT TENANTS.%20localhost:4000/what-all-goes-into-services-we-offer.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“DOING THE HARD WORK UP FRONT ALLOWS US TO FIND GREAT TENANTS.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Whenever something goes wrong, our property manager will contact the owner to see how they want to handle the situation. If they have a friend or family member that can take care of the maintenance, we will go to them. If not, we have our in-house vendors that we have approved and worked with in the past. &lt;strong&gt;We won’t repair anything for you without your permission, however.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Another area of our business where we are really strong is our marketing. We make sure to take pictures and video of our properties each time a tenant moves in or out. We also push our properties to the major websites like apartments.com, Trulia, Zillow, Craigslist, and more. Some of those sites have been very strong for us in finding good tenants.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;We do background checks, credit checks, and criminal checks on all potential tenants.&lt;/strong&gt; We believe in doing the hard work up front because once it’s done, we can foresee and chase out all the bad prospects or tenants we may get.&lt;/p&gt;
-
-&lt;p&gt;Once we have a tenant, we do a four- or six-month walkthrough to ensure proper maintenance in the home. If they have pets, it’s every four months. If they don’t, it’s every six.&lt;/p&gt;
-
-&lt;p&gt;In a nutshell, that’s how we earn our fees. We think we are more than worth our price, and many of our owners can attest to that. If you have any questions for us or you’re looking to invest in property here in Hawaii, give us a call or send us an email. We would love to hear from you.&lt;/p&gt;
+&lt;p&gt;As always, if you have questions about this or any other property management topic, don’t hesitate to reach out to me. I’d love to help you.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 22 Mar 2017 11:02:00 -0500</pubDate>
-        <link>localhost:4000/what-all-goes-into-services-we-offer.html</link>
-        <guid isPermaLink="true">localhost:4000/what-all-goes-into-services-we-offer.html</guid>
+        <pubDate>Thu, 16 Apr 2020 13:11:00 -0500</pubDate>
+        <link>http://localhost:4000/do-our-owners-or-tenants-pay-for-pest-control.html</link>
+        <guid isPermaLink="true">http://localhost:4000/do-our-owners-or-tenants-pay-for-pest-control.html</guid>
         
-        <category>Hawaii Pacific Property Management</category>
+        <category>Real Estate</category>
         
         
       </item>
