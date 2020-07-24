@@ -10,7 +10,7 @@ pullquote: Our four-phase process maximizes your sale price.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/7-15-20yt-2.jpg
+youtube_alternate_image: /uploads/7-24-20yt.jpg
 youtube_code: h5H8RJFUhqc
 ---
 
