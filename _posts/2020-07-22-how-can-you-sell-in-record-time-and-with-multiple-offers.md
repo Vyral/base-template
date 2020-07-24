@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here’s how to tackle a home sale prudently from start to finish.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/How+Can+You+Sell+in+Record+Time+and+With+Multiple+Offers_.mp4
 pullquote: >-
   Think about the showing process like a Band-aid being ripped off: You can do
   it quickly, or you can do it slowly.
