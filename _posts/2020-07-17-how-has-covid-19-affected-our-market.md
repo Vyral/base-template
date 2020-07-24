@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Coverage of our market can be confusing sometimes; here are the facts.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+COVID-19+Affected+Our+Market_.mp4
 pullquote: >-
   We had a listing go live on the market, and within two days, it had over 25
   showings and generated 11 offers.
