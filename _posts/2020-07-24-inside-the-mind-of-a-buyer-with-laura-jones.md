@@ -20,9 +20,11 @@ youtube_code: tgS7lY4CqiA
  <p style="text-align: center;"><em>
 I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</em></p>
 
-When buyers hop in the car, buckle up, and get ready to view a home on which they could potentially submit an offer, what’s going through their mind? Generally speaking, what’s their approach? As Carter Property Group Buyer Specialist Laura Jones reminds us, buyers have already narrowed down a location and a budget by that point. Now, they’re asking these all-important questions: “What is the best thing we can get for the money? What is the best overall value? Which five things are most important to me, and which property delivers on them?”
+When buyers hop in the car, buckle up, and get ready to view a home on which they could potentially submit an offer, what’s going through their mind? Generally speaking, what’s their approach? As Carter Property Group Buyer Specialist Laura Jones reminds us, buyers have already narrowed down a location and a budget by that point. 
 
-Once they’ve figured out the geography and budget,the most common criteria for buyers is the general condition of the property—is it a fixer-upper, or is it move-in ready? **Other major considerations include bedroom count, outdoor spaces, and storage areas.** How a buyer then defines value beyond those common criteria becomes a highly individualized matter.&nbsp;
+Now, they’re asking these all-important questions: “What is the best thing we can get for the money? What is the best overall value? Which five things are most important to me, and which property delivers on them?”
+
+Once they’ve figured out the geography and budget, the most common criterion for buyers is the general condition of the property—is it a fixer-upper, or is it move-in ready? **Other major considerations include bedroom count, outdoor spaces, and storage areas.** How a buyer then defines value beyond those common criteria becomes a highly individualized matter.&nbsp;
 
 {% include pullquote.html %}
 
