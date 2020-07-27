@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Going on in Our Market as Summer Continues?'
-date: 2020-07-27 21:14:07
+date: 2020-07-27 21:14:00
 tags:
   - Market Update
 excerpt: Here’s what to know about our market as we make our way through summer.
@@ -11,7 +11,7 @@ pullquote: 'In terms of showing activity, things are pretty consistent across th
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/huebners-midsummer-market-update-2020-yt.jpg
+youtube_alternate_image: /uploads/huebners-midsummer-market-update-2020-yt-1.jpg
 youtube_code: 'https://youtu.be/kt4mKTNNrVk'
 ---
 
