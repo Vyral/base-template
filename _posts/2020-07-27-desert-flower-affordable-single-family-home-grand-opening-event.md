@@ -17,7 +17,7 @@ youtube_code: zCYX5vCSjeo
 
 {% include youtube.html %}
 
-After much anticipation the <a href="https://www.mysunwoodhomes.com/southern-utah-communities/desert-flower/" style="color: #1155CC;">Desert Flower</a> subdivision is here\!
+After much anticipation the <u><a href="https://www.mysunwoodhomes.com/southern-utah-communities/desert-flower/" style="color: #1155CC;">Desert Flower</a></u> subdivision is here\!
 
 We’ve worked with over 1300 families buying and selling homes here in the St. George area and we can tell you without hesitation, this is the most attractive, highest quality, most well-located “affordable” (everyone defines that differently) housing product in the County\!
 
@@ -31,8 +31,8 @@ Desert Flower is made up of 40 single family homes, ranging from the high $270�
 
 **Location:** 691 E. Desert Flower Dr. Washington, Utah 84780
 
-<strong>Google Maps link:<a href="https://goo.gl/maps/Ay8GkCaYBCCn7yDU7" style="color: #1155CC;">here.</a>
+<strong>Google Maps link: <u><a href="https://goo.gl/maps/Ay8GkCaYBCCn7yDU7" style="color: #1155CC;">here.</a></u>
 
 **What to expect:** Chick-fil-A catered breakfast (while supplies last\!), cornhole, model home tours and prices totally over $500.00\!\!
 
-<p style="text-align: left; font-size 22px; font-weight 700;">Please RSVP <a href="https://docs.google.com/forms/d/e/1FAIpQLSffef8cVfCGNVH00fs1tls9xOOaV21eELWlp52E75rJ-tqnaQ/viewform" style="color: #1155CC">HERE</a> so we have food for you\!</p>
+<p style="text-align: left; font-size 22px; font-weight 700;">Please RSVP <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSffef8cVfCGNVH00fs1tls9xOOaV21eELWlp52E75rJ-tqnaQ/viewform" style="color: #1155CC">HERE</a></u> so we have food for you\!</p>
