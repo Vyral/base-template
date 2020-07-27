@@ -31,7 +31,7 @@ Desert Flower is made up of 40 single family homes, ranging from the high $270â€
 
 **Location:** 691 E. Desert Flower Dr. Washington, Utah 84780
 
-<strong>Google Maps link: <u><a href="https://goo.gl/maps/Ay8GkCaYBCCn7yDU7" style="color: #1155CC;">here.</a></u>
+<strong>Google Maps link: <u><a href="https://goo.gl/maps/Ay8GkCaYBCCn7yDU7" style="color: #1155CC;">here</a></u>
 
 **What to expect:** Chick-fil-A catered breakfast (while supplies last\!), cornhole, model home tours and prices totally over $500.00\!\!
 
