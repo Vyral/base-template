@@ -5,7 +5,8 @@ date: 2020-07-20 00:00:00
 tags:
   - Transaction Management
 excerpt: 'With a team, you can pass the baton to win in a transaction.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Are+You+Passing+the+Baton_.mp4
 pullquote: What truly matters is communication between team members.
 enclosure_type: video/mp4
 enclosure_time:
