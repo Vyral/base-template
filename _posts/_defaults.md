@@ -14,8 +14,8 @@ youtube_code:
 ---
 {% include youtube.html %}
 
-<center><em>PODCAST.</em></center>
+<center><em>EXCERPT.</em></center>
 
-<br>ARTICLE.
+<br>ARTICLE
 
 {% include pullquote.html %}
