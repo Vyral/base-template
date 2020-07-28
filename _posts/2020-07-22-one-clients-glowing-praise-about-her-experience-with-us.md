@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   One of our buying clients recently gave us glowing praise about her
   experience.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Carbutti+Realtor's'+Amazing+Clients.mp4
 pullquote: >-
   If a friend or family member was looking to buy or sell, I would 100% refer
   them to Carbutti Realtors.
