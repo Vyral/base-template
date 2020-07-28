@@ -27,7 +27,7 @@ Jessica Shumway from Branford, CT, first learned of Carbutti Realtors through Ki
 
 {% include pullquote.html %}
 
-Jessica had this to say about her experience with us:
+**Jessica had this to say about her experience with us:**
 
 “My experience was awesome. We were selling our condo; we were renting a house, but we had plans to buy. Within the first day of listing, we had about 10 showings. It was amazing. We sold the condo very, very quickly. One of my favorite things about working with Carbutti was their quick response and them doing what they said they were going to do. If a friend or family member was looking to buy or sell, I would 100% refer them to Carbutti Realtors.”
 
