@@ -23,13 +23,13 @@ youtube_code: FuDRGGTNZzY
 
 <p style="text-align:center;"><em>One of our buying clients recently gave us glowing praise about her experience.</em></p>
 
-Jessica Shumway from Branford, CT, first learned of Carbutti Realtors through Kirsten, one of our Realtors. Kirsten was one of Jessica’s clients, and when they began to talk about houses, the wheels started spinning. It quickly moved from talking about houses to going to showings, and they went from there all the way until she closed on her home.
+Jessica Shumway from Branford, CT, first learned of Carbutti Realtors through Kirsten, one of our Realtors. Kirsten was a client of Jessica's business, and when the two began to talk about houses, the wheels started spinning. It quickly moved from talking about houses to going to showings, and they went from there all the way until she closed on her home.
 
 {% include pullquote.html %}
 
 Jessica had this to say about her experience with us:
 
-“My experience was awesome. We were selling our condo; we were renting a house, but we had plans to buy. Within the first day of us listing, we had about 10 showings. It was amazing. We sold the condo very, very quickly. One of my favorite things about working with Carbutti was their quick response and them doing what they said they were going to do. If a friend or family member was looking to buy or sell, I would 100% refer them to Carbutti Realtors.”
+“My experience was awesome. We were selling our condo; we were renting a house, but we had plans to buy. Within the first day of listing, we had about 10 showings. It was amazing. We sold the condo very, very quickly. One of my favorite things about working with Carbutti was their quick response and them doing what they said they were going to do. If a friend or family member was looking to buy or sell, I would 100% refer them to Carbutti Realtors.”
 
 It is our goal to make sure that you are as satisfied with your home buying or selling experience as Jessica was. If you have any questions or need any help, give us a call or send us an email today. We’d love to help you however we can.
 
