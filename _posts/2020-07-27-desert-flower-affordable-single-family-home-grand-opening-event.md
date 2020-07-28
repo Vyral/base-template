@@ -38,6 +38,6 @@ Desert Flower is made up of 40 single-family homes, ranging from the high $270,0
 <!--<p style="text-align: left; font-size 22px; font-weight: 700;">Please RSVP <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSffef8cVfCGNVH00fs1tls9xOOaV21eELWlp52E75rJ-tqnaQ/viewform" style="color: #1155CC">HERE</a></u> so we have food for you!</p>-->
 
 
-<a class="ctalink" href="https://docs.google.com/forms/d/e/1FAIpQLSffef8cVfCGNVH00fs1tls9xOOaV21eELWlp52E75rJ-tqnaQ/viewform" target="_blank">
+<div class="center"><a class="ctalink" href="https://docs.google.com/forms/d/e/1FAIpQLSffef8cVfCGNVH00fs1tls9xOOaV21eELWlp52E75rJ-tqnaQ/viewform" target="_blank">
 			RSVP Here
-		</a>
+		</a></div>
