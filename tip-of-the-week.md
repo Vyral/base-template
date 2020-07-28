@@ -38,4 +38,3 @@ permalink: /tip-of-the-week/
 </div>
 
 <hr>
-
