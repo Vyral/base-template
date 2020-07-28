@@ -25,7 +25,7 @@ In general, **homes are selling at a very nice rate,** but the speed at which th
 
 {% include pullquote.html %}
 
-Inspections are a particularly important point to be aware of in our current market if you’re a seller. Some are going off without a hitch with buyers asking for minimal repairs, but others are almost derailing transactions because much larger repairs are being requested (e.g., fixing the roof or deck). A lot of this depends on the comfort level of the buyer, but in most cases, we’re seeing one end of the extreme or the other.&nbsp;
+Inspections are a particularly important point to be aware of in our current market if you’re a seller. Some are going off without a hitch because the buyers are asking for minimal repairs, but others are almost derailing transactions because the buyers are requesting much larger repairs (e.g., fixing the roof or deck). A lot of this depends on the comfort level of the buyer, but in most cases, we’re seeing one end of the extreme or the other.&nbsp;
 
 Lastly, **in addition to low inventory, we continue to see incredibly low interest rates that are driving buyer activity.** These two factors are keeping prices stable (if not causing them to increase).&nbsp;
 
