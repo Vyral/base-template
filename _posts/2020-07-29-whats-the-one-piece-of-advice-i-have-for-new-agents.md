@@ -17,7 +17,7 @@ youtube_code: DYa48d2JeB0
 
 {% include youtube.html %}
 
-Here’s something that will help you keep you organized and consistent.
+<p style="text-align: center;"><em>Here’s something that will help you keep you organized and consistent.</em></p>
 
 Somebody asked me last week if there was one thing I did early in my career to set myself up for future success. **The one thing that comes to mind is consistency, and my daily activity record has allowed me to be organized and consistent.**
 
