@@ -17,7 +17,7 @@ youtube_code: IBApJlrdXaw
 
 {% include youtube.html %}
 
-Here’s a quick rundown of how our economy has affected the housing market.
+<p style="text-align: center;"><em>Here’s a quick rundown of how our economy has affected the housing market.</em></p>
 
 In the wake of COVID-19, how has the economy affected the housing market?
 
