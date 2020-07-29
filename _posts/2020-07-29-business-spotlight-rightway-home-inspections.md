@@ -18,7 +18,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.
+ <p style="text-align: center;"><em>
+Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</em></p>
 
 In today’s message, I sat down with Adam McCarty from Rightway Home Inspections to discuss a few key questions people tend to have about his industry.
 
