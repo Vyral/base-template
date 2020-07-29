@@ -19,7 +19,7 @@ youtube_code: OlhXDsrbZWQ
 
 {% include youtube.html %}
 
-Here’s a breakdown of exactly what’s happening in our current market.
+<p stylke="text-align: center;"><em>Here’s a breakdown of exactly what’s happening in our current market.</em></p>
 
 When looking at the real estate market, you want to focus on the leading indicators. The media is typically four to five months behind what is currently happening in the market. So today I’m sharing the real indicators so you’re properly informed.&nbsp;
 
