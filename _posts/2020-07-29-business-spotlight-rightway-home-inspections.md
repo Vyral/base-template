@@ -3,19 +3,24 @@ layout: post
 title: 'Business Spotlight: Rightway Home Inspections'
 date: 2020-07-29 20:31:38
 tags:
-excerpt:
-enclosure:
-pullquote:
+  - Real Estate
+excerpt: >-
+  Adam McCarty from Rightway Home Inspections is here to answer a few home
+  inspection questions.
+enclosure:https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4
+pullquote: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/answering-a-few-key-questions-about-home-inspections-yt.jpg
 youtube_code:
 ---
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
+ <p style="text-align: center;"><em>
+Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</em></p>
 
 In today’s message, I sat down with Adam McCarty from Rightway Home Inspections to discuss a few key questions people tend to have about his industry.
 
@@ -29,7 +34,7 @@ Instead of having to negotiate twice, it just makes sense for a seller to get ev
 
 **“What kinds of things do people need to do to prepare for an inspection?”**
 
-If you already know there are issues with your home, Adam recommends taking care of them before he comes to your home for the inspection. In terms of preparing the house, he emphasizes homeowners to give him clear access to things like your furnace, electrical panel, attic, and the like.&nbsp;
+If you already know there are issues with your home, Adam recommends taking care of them before he comes to your home for the inspection. In terms of preparing the house,  that homeowners need to provide clear access to things like your furnace, electrical panel, attic, etc.&nbsp;
 
 **“Do the sellers need to be present for the inspection?”**
 
