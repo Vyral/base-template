@@ -17,7 +17,7 @@ youtube_code: xQ_BVOj4sAM
 
 I recently had the pleasure of meeting with Dwayne Rogers, owner/proprietor of Angelea’s Soul Food Kitchen, to talk about how his increasingly popular restaurant honors his mother's legacy by serving the community some savory soul food delights.&nbsp;
 
-Back in 2016 and 2017, Dwayne’s mother and sister began seriously exploring the idea of opening a restaurant. When his mom passed away, they took her dream and made it reality. Dwayne’s sister had preserved their mother and grandmother’s beloved recipes, and, with a few added twists, presented the public with the same great eats they were raised on.&nbsp;
+Back in 2016 and 2017, Dwayne’s mother and sister began seriously exploring the idea of opening a restaurant. When his mom passed away, they took her dream and made it a reality. Dwayne’s sister had preserved their mother and grandmother’s beloved recipes, and, with a few added twists, presented the public with the same great eats they were raised on.&nbsp;
 
 Today, Angelea’s Soul Food Kitchen has become a staple in the community; prior to shooting our video, we saw at least 20 people come and go\! That’s because what this establishment has to offer is simple yet amazing: “…authentic, traditional soul food created with recipes full of rich and savory flavors, passed down from our mother Angelea and served with love, tenderness and large portions.”&nbsp;
 
