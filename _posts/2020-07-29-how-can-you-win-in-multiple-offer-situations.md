@@ -17,7 +17,7 @@ youtube_code: AkoskdDtxII
 
 {% include youtube.html %}
 
-Multiple offers are common these days. Here are tips for handling them.
+<p style="text-align: center;"><em>Multiple offers are common these days. Here are tips for handling them.</em></p>
 
 One of the stats that I love to track every month is “months of inventory.” It’s a measure of how long it would take to sell every home currently on the market if no new homes were listed. Right now we have just 1.5 months of inventory in Portland. That’s extremely low. **This is the lowest inventory we’ve had in the last three years and I can’t remember it being lower.**
 
