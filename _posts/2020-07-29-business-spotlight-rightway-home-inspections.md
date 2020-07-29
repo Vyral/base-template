@@ -8,7 +8,8 @@ excerpt: >-
   Adam McCarty from Rightway Home Inspections is here to answer a few home
   inspection questions.
 enclosure:
-pullquote:
+pullquote: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
