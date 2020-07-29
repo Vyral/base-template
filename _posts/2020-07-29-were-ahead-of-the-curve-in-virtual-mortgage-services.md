@@ -19,7 +19,8 @@ youtube_code: w-7-7iYJNoo
 
 {% include youtube.html %}
 
-Here’s how we’ve been ahead of the tech curve in the mortgage industry.
+ <p style="text-align: center;"><em>
+Here’s how we’ve been ahead of the tech curve in the mortgage industry.</em></p>
 
 Like pretty much every industry in this country, the mortgage industry has changed as a result of the COVID-19 pandemic. What will a post-pandemic mortgage industry look like? That’s what I’m taking a closer look at today.
 
