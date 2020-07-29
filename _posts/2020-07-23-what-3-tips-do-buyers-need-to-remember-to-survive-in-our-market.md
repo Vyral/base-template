@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are three tips to help buyers survive in this competitive market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/What+3+Tips+Do+Buyers+Need+to+Remember+to+Survive+in+Our+Market_.mp4
 pullquote: >-
   Take each home you’re interested in into consideration before deciding what to
   offer, and remember that it may take a few tries to lock down a contract.
