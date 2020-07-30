@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We’re Ahead of the Curve in Virtual Mortgage Services
-date: 2020-07-29 18:49:30
+date: 2020-07-29 18:49:00
 tags:
   - Home Purchase
   - Home Loans
@@ -19,12 +19,11 @@ youtube_code: w-7-7iYJNoo
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Here’s how we’ve been ahead of the tech curve in the mortgage industry.</em></p>
+*Here’s how we’ve been ahead of the tech curve in the mortgage industry.*
 
-Like pretty much every industry in this country, the mortgage industry has changed as a result of the COVID-19 pandemic. What will a post-pandemic mortgage industry look like? That’s what I’m taking a closer look at today.
+Like pretty much every industry in this country, the mortgage industry has changed as a result of the COVID-19 pandemic. What will a post-pandemic mortgage industry look like?
 
-**The first big change is that people aren’t able to walk into a bank or lender and ask for a loan or refinance.** You need to make an appointment first. The good thing about our team is that we’ve always been a tech-based brokerage ahead of the digital curve. We’ve been having clients schedule their appointments online for years, so we are specialists in remotely lending. Everything we do is web-based; nothing needs to be printed, and we can communicate directly on the computer.
+**The first big change is that people aren’t able to walk into a bank or lender's office and ask for a loan or refinance anymore.** You need to make an appointment first. The good thing about our team is that we’ve always been a tech-based brokerage ahead of the digital curve. We’ve been having clients schedule their appointments online for years, so we are specialists in remotely lending. Everything we do is web-based; nothing needs to be printed, and we can communicate directly on the computer.
 
 {% include pullquote.html %}
 
