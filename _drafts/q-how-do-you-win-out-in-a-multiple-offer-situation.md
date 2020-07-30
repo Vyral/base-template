@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/7-30---zach-sikes---yt-1.jpg
 youtube_code: ogPz98cJToE
 ---
 
-{% include youtube.html %}Speed and strength are what make a winning offer.&nbsp;
+{% include youtube.html %}<center>Speed and strength are what make a winning offer.&nbsp;</center>
 
 As of right now, we have just 1.5 months of inventory in our Oklahoma City Metro market, which is incredibly low. If no new homes came onto the market, it would take just a month and a half to sell off all homes across all price points. Since six months of inventory is considered a balanced market, we’re in a very strong seller’s market.&nbsp;
 
