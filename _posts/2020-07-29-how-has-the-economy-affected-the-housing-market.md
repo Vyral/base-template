@@ -23,7 +23,7 @@ In the wake of COVID-19, how has the economy affected the housing market?
 
 Since it’s been such a big topic lately, we’ll first address forbearance. It’s worth noting how much equity people have in their homes right now. Even if they don’t go back to their jobs after being furloughed, they have the option to sell their property and rent for several months while they look for a new job.&nbsp;
 
-At 0:12, you can see that **roughly 59% of all homeowners in America have at least 30% equity in their home, and 18% of all homeowners have at least 20% equity.** Those who anticipated a wave of short sales and foreclosures failed to consider just how much equity American homeowners really have right now.
+At 0:12 in the video above, you can see that **roughly 59% of all homeowners in America have at least 30% equity in their home, and 18% of all homeowners have at least 20% equity.** Those who anticipated a wave of short sales and foreclosures failed to consider just how much equity American homeowners really have right now.
 
 {% include pullquote.html %}
 
@@ -42,6 +42,4 @@ If you haven’t reviewed your goals for the second half of 2020 in a while, now
 
 As far as the housing market goes, interest rates are still at an all-time low. We just locked in a refinance for a property at a rate of 2.75%. That’s cheap money, and if you’re thinking of buying a home, you can get a similarly low rate too (depending on your credit score and how much you’re willing to put down). **The economy has impacted the housing market slightly, but it’s coming on strong again and the numbers are starting to look similar to what we saw last year.**&nbsp;
 
-If you’re thinking of selling, don’t hesitate to reach out to our team. Inventory is extremely low; there are hundreds of buyers out there, and we need sellers. If you’re thinking of buying, feel free to reach out to us as well. We can direct you to listings that haven’t even hit the market yet.&nbsp;
-
-We look forward to meeting you at the closing table.
+If you’re thinking of selling, don’t hesitate to reach out to our team. Inventory is extremely low; there are hundreds of buyers out there, and we need sellers. If you’re thinking of buying, feel free to reach out to us as well. We can direct you to listings that haven’t even hit the market yet. We look forward to meeting you at the closing table.
