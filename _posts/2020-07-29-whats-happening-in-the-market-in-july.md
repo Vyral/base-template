@@ -21,7 +21,7 @@ youtube_code: OlhXDsrbZWQ
 
 <p stylke="text-align: center;"><em>Here’s a breakdown of exactly what’s happening in our current market.</em></p>
 
-When looking at the real estate market, you want to focus on the leading indicators. The media is typically four to five months behind what is currently happening in the market. So today I’m sharing the real indicators so you’re properly informed.&nbsp;
+The media is typically four to five months behind what is currently happening in the market. So today I’m sharing the real indicators so you’re properly informed.&nbsp;
 
 **The first indicator of how a market is doing is how many homes are coming onto the market.** That number has decreased by 19%, and there are a few reasons why. There are currently many sellers who don’t want people walking through their houses due to the health crisis, so they don’t want to sell right now. Most of the current homes for sale are former rental properties or owned by people that have to move for their job, and we’re not seeing the number of new listings we’d usually see this time of year. This low inventory is also fueling the price surge we’re seeing.&nbsp;
 
@@ -37,6 +37,6 @@ Remember that though prices are currently going up, you’re buying in an upswin
 
 If you’re considering selling your house, you’re in an excellent spot. Sellers control the market, and buyers are competing for your property. You can get top dollar and often over the list price right now.
 
-**Inventory is down 50% from this time last year,** and we only have 1.2 months’ supply of inventory in the entire San Fernando Valley. As an example, 91326 has nearly 13,000 single-family units, and there are currently only 51 for sale. Generally, we have about 90 to 100. That’s making a huge difference.&nbsp;
+**Inventory is down 50% from this time last year,** and we only have 1.2 months’ of supply of inventory in the entire San Fernando Valley. As an example, 91326 has nearly 13,000 single-family units, and there are currently only 51 for sale. Generally, we have about 90 to 100. That’s making a huge difference.&nbsp;
 
 If you have any more questions or want further information about buying or selling, give me a call or send an email. I would love to help you.
