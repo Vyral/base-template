@@ -12,7 +12,8 @@ excerpt: >-
   need to protect yourself from people trying to steal your money. Today I’ll
   give you some insight into how rental scams work and tell you which red flags
   to watch out for. To find out more, watch this short video.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Q-+How+Can+You+Tell+if+Youre+Being+Scammed_.mp4
 pullquote: >-
   If you find yourself the target of a rental scam, report it to your local law
   enforcement agency and to the Federal Trade Commission.
@@ -20,7 +21,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: hXkAzmieD04
 ---
 
 {% include youtube.html %}
