@@ -19,7 +19,7 @@ youtube_code: OlhXDsrbZWQ
 
 {% include youtube.html %}
 
-<p stylke="text-align: center;"><em>Here’s a breakdown of exactly what’s happening in our current market.</em></p>
+<p style="text-align: center;"><em>Here’s a breakdown of exactly what’s happening in our current market.</em></p>
 
 The media is typically four to five months behind what is currently happening in the market. So today I’m sharing the real indicators so you’re properly informed.&nbsp;
 
