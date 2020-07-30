@@ -25,8 +25,6 @@ youtube_code:
 
 {% include youtube.html %}
 
-&nbsp;
-
 Whether you’re selling, buying, or renting, you need to be aware of scammers out there right now looking for your money.
 
 This past weekend we listed a home on Meadow Road in the Meadowgate subdivision.
