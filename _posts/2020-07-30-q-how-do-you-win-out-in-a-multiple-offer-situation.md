@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Win Out in a Multiple-Offer Situation?'
-date:
+date: 2020-07-30 19:59:22
 tags:
 excerpt: Speed and strength are what make a winning offer.
 enclosure:
@@ -15,7 +15,11 @@ youtube_alternate_image: /uploads/7-30---zach-sikes---yt-1.jpg
 youtube_code: ogPz98cJToE
 ---
 
-{% include youtube.html %}<center>Speed and strength are what make a winning offer.&nbsp;</center>
+{% include youtube.html %}
+
+<center>Speed and strength are what make a winning offer.&nbsp;</center>
+
+&nbsp;
 
 As of right now, we have just 1.5 months of inventory in our Oklahoma City Metro market, which is incredibly low. If no new homes came onto the market, it would take just a month and a half to sell off all homes across all price points. Since six months of inventory is considered a balanced market, we’re in a very strong seller’s market.&nbsp;
 
