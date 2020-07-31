@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'Here’s what to know about APR, interest rates, and mortgage insurance.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2020/Whats+the+Difference+Between+the+Interest+Rate+and+APR_.mp4
 pullquote: >-
   Think of an interest rate as a monthly recurring fee on how much money you
   have to pay back.
