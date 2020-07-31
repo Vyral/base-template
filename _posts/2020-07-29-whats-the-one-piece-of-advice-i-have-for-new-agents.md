@@ -31,4 +31,4 @@ How does it benefit you? For starters, it helps you keep consistently organized.
 
 This business can pull you in every direction if you let it, but this daily activity record will allow you to be able to shut your business down and open it up when you need to.
 
-I hope this has been helpful for you. If you have any questions about where to find a daily acidity record or anything else related to the real estate business, don’t hesitate to reach out to me via phone or email. I look forward to hearing from you soon.
+I hope this has been helpful for you. If you have any questions about where to find a daily activity record or anything else related to the real estate business, don’t hesitate to reach out to me via phone or email. I look forward to hearing from you soon.
