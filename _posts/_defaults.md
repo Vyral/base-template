@@ -15,4 +15,8 @@ hidden: false
 ---
 {% include youtube.html %}
 
+<center><em>EXCERPT.</em></center>
+
+<br>ARTICLE
+
 {% include pullquote.html %}
