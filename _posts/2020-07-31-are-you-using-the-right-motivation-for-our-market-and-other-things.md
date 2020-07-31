@@ -10,7 +10,8 @@ pullquote: >-
   For the last four months or so, we’ve been motivated by desperation, but let’s
   get back to dreaming and thinking big.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Clancy/SOI/2020/Albany+Real+Estate+Agent-+Playing+the+Market-Inspiration.mp4
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: J-jbhH66PaY
