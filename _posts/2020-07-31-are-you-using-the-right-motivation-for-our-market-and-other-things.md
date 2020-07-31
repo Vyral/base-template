@@ -18,7 +18,7 @@ youtube_code: J-jbhH66PaY
 
 {% include youtube.html %}
 
-Today’s message is about our market and collective mindset.
+<p style="text-align: center;"><em>Today’s message is about our market and collective mindset.</em></p>
 
 In today’s message, I’ll cover three important topics: the market, the best way buyers and sellers can play the market, and our collective mindset as it relates to COVID-19.&nbsp;
 
