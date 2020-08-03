@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Can You Tell if You’re Being Scammed?'
+title: 'Q: How Can You Tell If You’re Being Scammed?'
 date: 2020-07-30 03:30:00
 tags:
   - Home Buyer Tips
@@ -38,7 +38,7 @@ Yet take a look at this listing on Facebook Marketplace at 0:25 in the video abo
 
 Scammers know that finding the right apartment or vacation rental can be hard work, and a seemingly good deal is hard to pass up. They’ve been known to game some vacation rental websites and bulletin boards. Yes, they can even scam you when you’re looking for a vacation rental, so it’s especially important to be vigilant this time of year.
 
-Some scammers hijack a real rental or real estate listing by changing the email address or other contact information and placing the modified ad on another site. The altered ad may even use the name of the person who posted the original ad. Other ripoff artists make up listings for places that aren’t for rent or don’t exist,and try to lure you in with the promise of low rent or great amenities. Their goal is to get your money before you find out.
+Some scammers hijack a real rental or real estate listing by changing the email address or other contact information and placing the modified ad on another site. The altered ad may even use the name of the person who posted the original ad. Other ripoff artists make up listings for places that aren’t for rent or don’t exist, and try to lure you in with the promise of low rent or great amenities. Their goal is to get your money before you find out.
 
 {% include pullquote.html %}
 
