@@ -16,6 +16,8 @@ youtube_code: 'https://youtu.be/JJ8kE7ACn-s'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Our summer market has been busy; here’s what’s been happening.</em></p>
+
 It’s hard to believe it’s already August because the summer real estate market has been very busy, so today I’m providing our latest market update. **We hope you’re all continuing to stay safe** and keep your respectful distance from others at this time.&nbsp;
 
 Interest rates are at an all-time low, and we have about half the amount of inventory as usual, which causes other issues. For most homes, we’re receiving anywhere from two to 10 offers, so we’re spending more time helping our sellers make the best decisions and working through any inspections or other contingencies. If you want to know how we can best serve your needs in this busy and changing market, give us a call.&nbsp;
