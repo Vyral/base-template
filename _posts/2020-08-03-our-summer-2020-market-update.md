@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Summer 2020 Market Update
-date: 2020-08-03 21:12:14
+date: 2020-08-03 21:12:00
 tags:
   - Market Update
 excerpt: Our summer market has been busy; here’s what’s been happening.
