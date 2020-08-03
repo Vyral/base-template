@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Our Rapidly Changing Market
-date: 2020-05-12 21:29:23
+date: 2020-05-12 21:29:00
 tags:
   - Market Update
   - Real Estate
@@ -13,14 +13,14 @@ enclosure: >-
 pullquote: 'Inventory is low, so that means seller competition will be low too.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/q--how-has-our-market-fared-this-summer-yt.jpg
 youtube_code: MGk4XAJYAvs
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Sellers in our market have one simple question: What’s next? Here’s how to find the right path forward in this uncertain time.</em></p>
+*Sellers in our market have one simple question: What’s next? Here’s how to find the right path forward in this uncertain time.*
 
 It’s only natural that I’m fielding more questions about the general state of the market with each passing day. So much has happened in such a short time, and **guidelines for lending are changing almost daily.** Interest rates have at least steadied and now hover around the lower 3% range.&nbsp;
 
