@@ -13,8 +13,8 @@ enclosure: >-
 pullquote: 'Inventory is low, so that means seller competition will be low too.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/q--how-has-our-market-fared-this-summer-yt.jpg
+use_youtube_image: true
+youtube_alternate_image:
 youtube_code: MGk4XAJYAvs
 ---
 
