@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/Pg0X53mOhBE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how to write the most secure offer possible.</em></p>
+
 If you’re making an offer on a home whose seller values security above all else, what do you do to prove to them that your offer is strong and will close? Here are three tips that will help you:
 
 **1\. Make your earnest money non-refundable.** You can do this at the beginning of the transaction when you open escrow, but the most secure way is to do so right after the inspection of the property.&nbsp;
