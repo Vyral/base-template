@@ -19,7 +19,7 @@ youtube_code: ATPYOlTwktw
 
 {% include youtube.html %}
 
-These five tips will help first-time sellers sell quickly and for top dollar.
+<p style="text-align: center;"><em>These five tips will help first-time sellers sell quickly and for top dollar.</em></p>
 
 As a first-time home seller, here are the five steps that will help you maximize your sale quickly and smoothly:
 
