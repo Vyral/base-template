@@ -9,7 +9,7 @@ enclosure:
 pullquote: 'If you want to know how we can best serve your needs, give us a call.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/q--how-has-our-market-fared-this-summer-yt.jpg
 youtube_code: 'https://youtu.be/JJ8kE7ACn-s'
 ---
