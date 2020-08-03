@@ -17,7 +17,7 @@ youtube_code: 1Gj_RBjvYCY
 
 {% include youtube.html %}
 
-Here’s why most home purchases take 45 to 60 days to complete.
+<p style="text-align: center;"><em>Here’s why most home purchases take 45 to 60 days to complete.</em></p>
 
 The length of time it takes to buy a home depends on many factors, including your credit, but the average time from signing a contract to closing on the purchase is around 45 to 60 days. I’ll break it down for you.
 
