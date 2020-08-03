@@ -5,7 +5,8 @@ date: 2020-08-03 17:57:53
 tags:
   - Transaction Management
 excerpt: I have three tips that will help you maximize your productivity.
-enclosure:
+enclosure: >
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+3+Things+Maximize+Your+Productivity+in+Real+Estate.mp4
 pullquote: 'If it’s not in your calendar, it doesn’t exist.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: MjNoyui5bQg
 
 {% include youtube.html %}
 
-I have three tips that will help you maximize your productivity.
+<p style="text-align: center;"><em>I have three tips that will help you maximize your productivity.</em></p>
 
 How can you maximize your productivity in real estate? I have three great tips:
 
