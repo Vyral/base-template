@@ -12,8 +12,8 @@ enclosure: >-
 pullquote: These changes make the process safer and more convenient.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/how-are-we-adapting-to-a-post-covid-world-yt.jpg
 youtube_code: w-7-7iYJNoo
 ---
 
