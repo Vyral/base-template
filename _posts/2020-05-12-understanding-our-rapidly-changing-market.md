@@ -20,7 +20,7 @@ youtube_code: MGk4XAJYAvs
 
 {% include youtube.html %}
 
-*Sellers in our market have one simple question: What’s next? Here’s how to find the right path forward in this uncertain time.*
+<p style="text-align: center;"><em>Sellers in our market have one simple question: What’s next? Here’s how to find the right path forward in this uncertain time.</em></p>
 
 It’s only natural that I’m fielding more questions about the general state of the market with each passing day. So much has happened in such a short time, and **guidelines for lending are changing almost daily.** Interest rates have at least steadied and now hover around the lower 3% range.&nbsp;
 
