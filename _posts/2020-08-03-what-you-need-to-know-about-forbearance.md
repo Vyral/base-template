@@ -19,7 +19,7 @@ youtube_code: C3APcCr5f4g
 
 {% include youtube.html %}
 
-Here’s what you need to know about forbearance.
+<p style="text-align: center;"><em>Here’s what you need to know about forbearance.</em></p>
 
 In short, forbearance is an agreement between you and your mortgage provider that states you’ll reduce or delay your mortgage payments for a certain period. For example, if you had a two-month forbearance and your monthly payment was $1,200, they might take $300 of your payment and put it on future payments until the back payment is made up.
 
