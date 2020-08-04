@@ -6,7 +6,9 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: This one quick tip could win you the home of your dreams.
-enclosure:
+enclosure: >-
+  s3://vyralmarketing/Jennie Wolek/Videos/2020/Have You Thought About Writing a
+  Letter_.mp4
 pullquote: Our team loves thinking outside the box to set our clients up for success.
 enclosure_type: video/mp4
 enclosure_time:
