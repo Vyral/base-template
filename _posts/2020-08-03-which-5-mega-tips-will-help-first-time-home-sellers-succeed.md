@@ -25,7 +25,7 @@ As a first-time home seller, here are the five steps that will help you maximize
 
 **1\. Choose an agent based on their marketing plan and reputation—not what they offer to price your property at.**&nbsp;
 
-You’re hiring an agent to do many things, and one of those things is give a consultation on your pricing strategy. The reality, though, is that if you schedule five certified appraisals, they’ll each result in different price points. This is why the most important thing you can do is rely on your agent for pricing guidance and set a price with a strategy that works. Then, follow their marketing plan so they can generate demand. That’s what will bring buyers, and buyers ultimately sell your home.&nbsp;
+You’re hiring an agent to do many things, and one of those things is to give a consultation on your pricing strategy. The reality, though, is that if you schedule five certified appraisals, they’ll each result in different price points. This is why the most important thing you can do is rely on your agent for pricing guidance and set a price with a strategy that works. Then, follow their marketing plan so they can generate demand. That’s what will bring buyers, and buyers ultimately sell your home.&nbsp;
 
 Reputation is something that can’t be understated, so check your references and work with an agent who has a great reputation in the community. Sometimes it takes one or two interviews with an agent to make sure you understand their marketing plan and verify they have a good reputation, so don’t hesitate to interview multiple agents to make sure you find one you trust.&nbsp;
 
