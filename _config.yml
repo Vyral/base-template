@@ -14,7 +14,7 @@ encoding: "utf-8"
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM
+input: GFM
 highlighter: rouge
 
 paginate: 6
