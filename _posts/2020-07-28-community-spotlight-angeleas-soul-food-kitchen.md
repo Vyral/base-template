@@ -27,6 +27,6 @@ Today, Angelea’s Soul Food Kitchen has become a staple in the community; prior
 
 Angelea's Soul Food Kitchen is open Tuesday through Saturday from noon to 8 p.m. On Sunday, they're open from noon to 5 p.m. Word-of-mouth is the No. 1 source of new business, which makes sense considering how many first-time diners are blown away from the first bite.&nbsp;
 
-As we’ve always said, we want folks to love where they live. If you live in or around Brooklyn Park, stop by Angelea’s Soul Food Kitchen soon—it’ll be just one more reason to love the area. Check out their website&nbsp;[here](https://www.angeleassoulfoodkitchen.com/){: target="_blank" rel="noopener"}\!&nbsp;
+As we’ve always said, we want folks to love where they live. If you live in or around Brooklyn Park, stop by Angelea’s Soul Food Kitchen soon—it’ll be just one more reason to love the area. Check out their website&nbsp;[here](https://www.angeleassoulfoodkitchen.com/){: target="_blank" rel="noopener"}&nbsp;or call them at 763-432-5642.&nbsp;
 
 If you have any real estate questions or want to know more about the awesome businesses in your new neighborhood, reach out to us via phone or email anytime. We’re here to be a resource for you\!&nbsp;
