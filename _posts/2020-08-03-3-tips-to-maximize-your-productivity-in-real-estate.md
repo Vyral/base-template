@@ -21,7 +21,7 @@ youtube_code: MjNoyui5bQg
 
 How can you maximize your productivity in real estate? I have three great tips:
 
-**1\. Choose your one thing.** There’s a book by Gary Keller called “The One Thing,” and in it he expands on the importance of focus. If you’re in real estate sales, the one thing you likely want to be focusing on is talking to lots of people (better known as ‘prospecting’ or ‘lead follow-up’).
+**1\. Choose your one thing.** In “The One Thing” by Gary Keller, he expands on the importance of focus. If you’re in real estate sales, the one thing you likely want to be focusing on is talking to lots of people (better known as ‘prospecting’ or ‘lead follow-up’).
 
 {% include pullquote.html %}
 
