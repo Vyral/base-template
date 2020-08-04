@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/answering-a-few-key-questions-about-home-inspections-yt.jpg
-youtube_code:
+youtube_code: 78FOz_WMCZE
 ---
 
 {% include youtube.html %}
