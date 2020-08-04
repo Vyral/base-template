@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Do You Win Out in a Multiple-Offer Situation?'
-date: 2020-07-30 20:06:02
+date: 2020-07-30 20:06:00
 tags:
 excerpt: Speed and strength are what make a winning offer.
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-30---zach-sikes---yt-1.jpg
-youtube_code: ogPz98cJToE
+youtube_code: rE3jK7gQmU8
 ---
 
 {% include youtube.html %}
