@@ -7,7 +7,9 @@ tags:
 excerpt: Here’s why most home purchases take 45 to 60 days to complete.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+How+Long+Is+the+Home+Buying+Process+2.mp4
-pullquote: 'After the home is under contract, the clock starts.'
+pullquote: >-
+  The average time from signing a contract to closing on the purchase is around
+  45 to 60 days.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -29,6 +31,6 @@ It begins with a 10-day due diligence period where we’ll inspect the homes and
 
 **Once that’s worked out, we will move on to the appraisal,** which can take two to three weeks depending on how busy appraisers are. During that time, the lender will continue their due diligence in respect to collecting all your financial documents.&nbsp;
 
-After the appraisal is done, it gets fully underwritten, and we go to the title company to close. In normal situations, **this whole process will take around 45 days, but could take up to 60.**
+After the appraisal is done, it gets fully underwritten, and we go to the title company to close. In normal situations, **this whole process will take around 45 days, but it could take up to 60.**
 
 Every situation is different, so if you have any questions about buying a home in today’s market, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
