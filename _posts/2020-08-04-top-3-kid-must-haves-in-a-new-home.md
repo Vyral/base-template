@@ -17,7 +17,7 @@ youtube_code: VNFNfhd7-gY
 
 {% include youtube.html %}
 
-My daughter is back to talk about what she wants in a future home.
+<p style="text-align: center;"><em>My daughter is back to talk about what she wants in a future home.</em></p>
 
 Back by popular request, I’m joined once again by my rockstar real estate assistant (and daughter) Ali Anne Ramey, who is here to speak on behalf of all the children out there and tell us the three top things that kids are looking for in a house:
 
