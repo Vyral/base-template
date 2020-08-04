@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Is the Real Estate Market Turning Around?
-date: 2020-08-04 19:16:08
+date: 2020-08-04 19:16:00
 tags:
 excerpt: Our housing market is currently healthier than the majority of our nation.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Joshua+Stern/2020/The+Stern+Team-+Is+the+Real+Estate+Market+Turning+Around_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,6 +17,7 @@ youtube_code: THfwx4f5XCs
 {% include youtube.html %}
 
 <center><em>Our housing market is currently healthier than the majority of our nation. </em></center>
+
 &nbsp;
 
 According to the Realtor’s Confidence Index, which gathers monthly information about real estate transactions to provide on-the-ground information, **there are several indicators that point to a turnaround of the housing market. &nbsp;**
