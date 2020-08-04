@@ -17,7 +17,7 @@ youtube_code: eVzjbLfZcw8
 
 {% include youtube.html %}
 
-Here’s the latest from our Montana lake region real estate market.
+<p style="text-align: center;"><em>Here’s the latest from our Montana lake region real estate market.</em></p>
 
 As we wrap up the second quarter of 2020 and push on to the back half of the year, it's a good time to reflect on how our market has fared. Today I’m sharing the latest stats\!&nbsp;
 
