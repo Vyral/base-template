@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is the Real Estate Market Turning Around?
-date: 2020-08-04 19:16:00
+date: 2020-08-04 13:16:00
 tags:
 excerpt: Our housing market is currently healthier than the majority of our nation.
 enclosure: >-
