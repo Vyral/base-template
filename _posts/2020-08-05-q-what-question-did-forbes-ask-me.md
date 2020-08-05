@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Question Did Forbes Ask Me?'
-date:
+date: 2020-08-05 16:37:20
 tags:
 excerpt: 'Forbes asked me a key question, and I’m answering it for you today.'
 enclosure:
@@ -13,7 +13,11 @@ youtube_alternate_image: /uploads/8-5---frank-gray---yt.jpg
 youtube_code: N-bjHz6tv6s
 ---
 
-{% include youtube.html %}<center>Forbes asked me a key question, and I’m answering it for you today.</center>
+{% include youtube.html %}
+
+<center>Forbes asked me a key question, and I&rsquo;m answering it for you today.</center>
+
+&nbsp;
 
 Last week, Forbes Magazine (a periodical focused on American business) called and asked me a few questions. I gave them my best answers, and today I’m going to share the most essential one with you.&nbsp;
 
