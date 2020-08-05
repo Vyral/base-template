@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Which 5 Mega Tips Will Help First-Time Home Sellers Succeed?
+title: What Are 5 Mega Tips for First-Time Home Sellers?
 date: 2020-08-03 19:16:45
 tags:
   - Home Seller Tips
