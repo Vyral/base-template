@@ -23,8 +23,8 @@ Back by popular request, I’m joined once again by my rockstar real estate assi
 
 **1\. A big pool.** She’s trying to convince us to buy a house with a pool, so that one was an easy choice.
 
-**2\. Bunk beds.** I actually showed a house over the weekend to a family with two little girls that had built-in bunk beds and they went crazy for them.
+**2\. Bunk beds.** Over the weekend, I showed a house that had built-in bunk beds to a family with two little girls who went crazy for them.
 
 **3\. TV.** A lot of sellers are leaving mounted TVs in their rooms and Ali would like that written into her contract.
 
-If you are looking for a new home for you and your family, we would love to help. Give us a call or send us an email today and let’s get the process started.
+If you are looking for a new home for you and your family, we would love to help. Give us a call or send us an email today, and let’s get the process started.
