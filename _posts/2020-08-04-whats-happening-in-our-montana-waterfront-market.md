@@ -31,12 +31,12 @@ As we wrap up the second quarter of 2020 and push on to the back half of the yea
 
 3:24 — Flathead Lake condominium activity&nbsp;
 
-4:12 —&nbsp; Residential and vacant land stats: Swan lake&nbsp;
+4:12 —&nbsp; Residential and vacant land stats: Swan Lake&nbsp;
 
 5:40 — Residential and vacant land stats: Echo Lake and Lake Blaine&nbsp;
 
 7:22 — Residential and vacant land stats: Ashley Lake, Bitterroot Lake, and McGregor Lake
 
-For all of the lakes, we’re seeing fewer properties for sale but an increased number of transactions. 2020 has been nothing short of an interesting year (to say the least), so I’m curious to see what’s in store for our real estate market—come whatever may, I’ll be keeping you informed\!&nbsp;&nbsp;
+For all of the lakes, we’re seeing fewer properties for sale, but an increased number of transactions. 2020 has been nothing short of an interesting year (to say the least), so I’m curious to see what’s in store for our real estate market—come what may, I’ll be keeping you informed\!&nbsp;&nbsp;
 
-As always, reach out via phone or email if you have any questions, and please subscribe to our channel for more great content. If you’re already following us, know we greatly appreciate you\! For this blog’s outro, I’ll leave you with a glimpse of a comet that travelled through our solar system recently\! Our team member Drew did a ‘stellar’ job capturing it, so check it out at 10:19 the video above (it’s quick, so don’t blink)\!
+As always, reach out via phone or email if you have any questions, and please subscribe to our channel for more great content. If you’re already following us, know we greatly appreciate you\! For this blog’s outro, I’ll leave you with a glimpse of a comet that traveled through our solar system recently\! Our team member Drew did a ‘stellar’ job capturing it, so check it out at 10:19 in the video above (it’s quick, so don’t blink)\!
