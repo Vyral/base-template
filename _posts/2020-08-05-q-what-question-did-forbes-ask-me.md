@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Question Did Forbes Ask Me?'
-date: 2020-08-05 16:37:20
+date: 2020-08-05 16:37:00
 tags:
 excerpt: 'Forbes asked me a key question, and I’m answering it for you today.'
 enclosure:
@@ -21,9 +21,9 @@ youtube_code: N-bjHz6tv6s
 
 Last week, Forbes Magazine (a periodical focused on American business) called and asked me a few questions. I gave them my best answers, and today I’m going to share the most essential one with you.&nbsp;
 
-**Last year, I had the honor of being asked to join the Forbes Magazine Real Estate Advisory Council.** As part of those duties, they reached out to me last week asking questions about the real estate market. The question they were most curious about was “What advice would you give an agent whose business has stalled and needs a powerful restart?”
+**Last year, I had the honor of being asked to join the Forbes Magazine Real Estate Advisory Council.** As part of those duties, they reached out to me last week asking questions about the real estate market. The question they were most curious about was, “What advice would you give an agent whose business has stalled and needs a powerful restart?”
 
-Here’s what I told them: That agent should get on the phone and call 100 people they already know. This could be past clients and customers, their teachers, neighbors, people they know for an exercise class or church, anyone whose name they would know if they bumped into them on the street.&nbsp; In that conversation, they should simply ask: How are you doing? How’s your family? Is there anything I can do for you?&nbsp;
+Here’s what I told them: That agent should get on the phone and call 100 people they already know. This could be past clients and customers, their teachers, neighbors, people they know for an exercise class or church, or anyone whose name they would know if they bumped into them on the street.&nbsp; In that conversation, they should simply ask: How are you doing? How’s your family? Is there anything I can do for you?&nbsp;
 
 {% include pullquote.html %}
 
