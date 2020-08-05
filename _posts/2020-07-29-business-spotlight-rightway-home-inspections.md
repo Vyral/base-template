@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Business Spotlight: Rightway Home Inspections'
-date: 2020-07-29 20:31:38
+date: 2020-07-29 20:31:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,8 +20,7 @@ youtube_code: 78FOz_WMCZE
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</em></p>
+*Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.*
 
 In today’s message, I sat down with Adam McCarty from Rightway Home Inspections to discuss a few key questions people tend to have about his industry.
 
@@ -35,7 +34,7 @@ Instead of having to negotiate twice, it just makes sense for a seller to get ev
 
 **“What kinds of things do people need to do to prepare for an inspection?”**
 
-If you already know there are issues with your home, Adam recommends taking care of them before he comes to your home for the inspection. In terms of preparing the house,  that homeowners need to provide clear access to things like your furnace, electrical panel, attic, etc.&nbsp;
+If you already know there are issues with your home, Adam recommends taking care of them before he comes to your home for the inspection. In terms of preparing the house, that homeowners need to provide clear access to things like your furnace, electrical panel, attic, etc.&nbsp;
 
 **“Do the sellers need to be present for the inspection?”**
 
@@ -52,3 +51,5 @@ Sellers often don’t realize how hazardous electrical panels can be.
 For more information about home inspections and the services that Adam and Rightway Home Inspections offer, [visit their website](http://rightwayhi.com/).
 
 In the meantime, if you have any questions about buying or selling homes, don’t hesitate to reach out to the Misty SOLDwisch Home Selling Team. We’re here to help.
+
+Listen to “The Central Iowa Real Estate Scoreboard” with Misty SOLDwisch and Heather Burnside Sundays 9:30am on KXnO."
