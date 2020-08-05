@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/8-5---frank-gray---yt.jpg
 youtube_code: N-bjHz6tv6s
 ---
 
-{% include youtube.html %}Forbes asked me a key question, and I’m answering it for you today.
+{% include youtube.html %}<center>Forbes asked me a key question, and I’m answering it for you today.</center>
 
 Last week, Forbes Magazine (a periodical focused on American business) called and asked me a few questions. I gave them my best answers, and today I’m going to share the most essential one with you.&nbsp;
 
