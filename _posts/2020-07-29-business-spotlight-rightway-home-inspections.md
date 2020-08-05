@@ -22,7 +22,7 @@ youtube_code: 78FOz_WMCZE
 
 *Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.*
 
-In today’s message, I sat down with Adam McCarty from Rightway Home Inspections to discuss a few key questions people tend to have about his industry.
+In today’s message, I sat down with Adam McCarty from Rightway Home Inspections on my weekly radio show “The Central Iowa Real Estate Scoreboard” on 106.3 KXnO to discuss a few key questions people tend to have about his industry, including the importance of pre-inspections, things that tend to surprise sellers about inspections, and the kinds of technology that help inspectors spot issues that homeowners might not even be aware of.
 
 **“Do you need to be a certified home inspector?”**
 
