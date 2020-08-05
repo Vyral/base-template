@@ -52,4 +52,4 @@ For more information about home inspections and the services that Adam and Right
 
 In the meantime, if you have any questions about buying or selling homes, don’t hesitate to reach out to the Misty SOLDwisch Home Selling Team. We’re here to help.
 
-Listen to “The Central Iowa Real Estate Scoreboard” with Misty SOLDwisch and Heather Burnside Sundays 9:30am on KXnO."
+[Listen to “The Central Iowa Real Estate Scoreboard” with Misty SOLDwisch and Heather Burnside Sundays 9:30am on KXnO."](https://thecentraliowarealestatescoreboard.com/){: target="_blank" rel="noopener"}
