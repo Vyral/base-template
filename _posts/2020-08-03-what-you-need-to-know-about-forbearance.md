@@ -31,4 +31,4 @@ Will forbearance affect your credit score? **The C.A.R.E.S. Act states that it w
 
 The bottom line, however, is that **forbearance is not forgiveness.** You’ll have to pay it back somehow eventually. That could come in the form of higher monthly payments until the back pay is covered, or it could be added to the back end of your loan, extending your loan period. Each mortgage company handles it differently.
 
-[Click here](file:///C:/Users/Rmwic/Downloads/Forbearance%20is%20Not%20Forgiveness%20&#40;2&#41;%20&#40;2&#41;.pdf) to read about forbearance in more detail. Otherwise, if you have any questions, don’t hesitate to reach out. I’d be happy to help you.
+[Click here](https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/Forbearance+is+Not+Forgiveness+&#40;2&#41;+&#40;3&#41;.pdf) to read about forbearance in more detail. Otherwise, if you have any questions, don’t hesitate to reach out. I’d be happy to help you.
