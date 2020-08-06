@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Need to Know About Forbearance
-date: 2020-08-03 15:22:30
+date: 2020-08-03 15:22:00
 tags:
   - Market Update
 excerpt: Here’s what you need to know about forbearance.
@@ -19,7 +19,7 @@ youtube_code: C3APcCr5f4g
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to know about forbearance.</em></p>
+*Here’s what you need to know about forbearance.*
 
 In short, forbearance is an agreement between you and your mortgage provider that states that your mortgage payments will be reduced or delayed for a certain period. For example, if you had a two-month forbearance and your monthly payment was $1,200, they might take $300 of your payment and put it on future payments until the back payment is made up.
 
@@ -31,4 +31,4 @@ Will forbearance affect your credit score? **The C.A.R.E.S. Act states that it w
 
 The bottom line, however, is that **forbearance is not forgiveness.** You’ll have to pay it back somehow eventually. That could come in the form of higher monthly payments until the back pay is covered, or it could be added to the back end of your loan, extending your loan period. Each mortgage company handles it differently.
 
-Click here to read about forbearance in more detail. Otherwise, if you have any questions, don’t hesitate to reach out. I’d be happy to help you.
+[Click here](file:///C:/Users/Rmwic/Downloads/Forbearance%20is%20Not%20Forgiveness%20&#40;2&#41;%20&#40;2&#41;.pdf) to read about forbearance in more detail. Otherwise, if you have any questions, don’t hesitate to reach out. I’d be happy to help you.
