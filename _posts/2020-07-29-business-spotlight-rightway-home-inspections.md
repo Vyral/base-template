@@ -20,8 +20,7 @@ youtube_code: 78FOz_WMCZE
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</em></p>
+*Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.*
 
 In today’s message, I sat down with Adam McCarty from Rightway Home Inspections on my weekly radio show “The Central Iowa Real Estate Scoreboard” on 106.3 KXnO to discuss a few key questions people tend to have about his industry, including the importance of pre-inspections, things that tend to surprise sellers about inspections, and the kinds of technology that help inspectors spot issues that homeowners might not even be aware of.
 
@@ -49,7 +48,7 @@ Thermal cameras are a special type of camera that allows Adam to see differences
 
 Sellers often don’t realize how hazardous electrical panels can be.
 
-For more information about home inspections and the services that Adam and Rightway Home Inspections offer, [visit their website](http://rightwayhi.com/).
+For more information about home inspections and the services that Adam and Rightway Home Inspections offer, [visit their website](http://rightwayhi.com/)&nbsp;or call him at (515) 802-0141.
 
 In the meantime, if you have any questions about buying or selling homes, don’t hesitate to reach out to the Misty SOLDwisch Home Selling Team. We’re here to help.
 
