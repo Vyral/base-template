@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What’s Happening in Our Montana Waterfront Market?
-date: 2020-08-04 13:59:29
+date: 2020-08-04 13:59:00
 tags:
   - Market Update
 excerpt: Here’s the latest from our Montana lake region real estate market.
@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: eVzjbLfZcw8
+youtube_code: uOVNocHSrXs
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s the latest from our Montana lake region real estate market.</em></p>
+*Here’s the latest from our Montana lake region real estate market.*
 
 As we wrap up the second quarter of 2020 and push on to the back half of the year, it's a good time to reflect on how our market has fared. Today I’m sharing the latest stats\!&nbsp;
 
