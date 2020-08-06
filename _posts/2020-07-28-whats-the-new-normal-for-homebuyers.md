@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here’s what the new normal looks like for homebuyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Whats+the+New+Normal+for+Homebuyers_.mp4
 pullquote: Common sense is our greatest weapon in times of uncertainty.
 enclosure_type: video/mp4
 enclosure_time:
