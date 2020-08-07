@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/8.3_-_Scott_Hollinger_-_Email.jpg
 youtube_code: uOVNocHSrXs
 ---
 
