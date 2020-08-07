@@ -21,7 +21,8 @@ youtube_code: ZmQKAfJl0RM
 
 {% include youtube.html %}
 
-If you’re a first-time buyer intimidated by the process, don’t fret; it’s easy as one, two, three.
+ <p style="text-align: center;"><em>
+If you’re a first-time buyer intimidated by the process, don’t fret; it’s easy as one, two, three.</em></p>
 
 Despite popular belief, a big down payment isn’t necessary, so long as you have the following three things:&nbsp;
 
