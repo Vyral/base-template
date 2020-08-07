@@ -22,7 +22,7 @@ It’s hard to believe it’s already August because the summer real estate mark
 
 Interest rates are at an all-time low, and we have about half the amount of inventory as usual, which causes other issues. For most homes, we’re receiving anywhere from two to 10 offers, so we’re spending more time helping our sellers make the best decisions and working through any inspections or other contingencies. If you want to know how we can best serve your needs in this busy and changing market, give us a call.&nbsp;
 
-This historically low inventory is making things interesting for buyers. **Many who have been in the market for a little while have learned how to craft their offers to get them accepted,** or are else realizing they need to take their real estate agent’s advice on how to do so. We’re also seeing some sellers try to push the market and not be able to sell their house as a consequence; usually, if they push too hard at first, they will have to endure a price reduction or two before selling. Also, we’ve been seeing more appraisal difficulties pop up.&nbsp;
+This historically low inventory is making things interesting for buyers. **Many who have been in the market for a little while have learned how to craft their offers to get them accepted,** or are otherwise realizing they need to take their real estate agent’s advice on how to do so. We’re also seeing some sellers try to push the market and not be able to sell their house as a consequence; usually, if they push too hard at first, they will have to endure a price reduction or two before selling. Also, we’ve been seeing more appraisal difficulties pop up.&nbsp;
 
 {% include pullquote.html %}
 
