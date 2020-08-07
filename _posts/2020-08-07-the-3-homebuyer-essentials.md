@@ -1,13 +1,14 @@
 ---
 layout: post
 title: The 3 Homebuyer Essentials
-date: 2020-08-07 02:26:23
+date: 2020-08-07 02:26:00
 tags:
   - Athens Real Estate Agent
 excerpt: >-
   : If you’re a first-time buyer intimidated by the process, don’t fret; it’s
   easy as one, two, three.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/The+3+Homebuyer+Essentials+(1).mp4
 pullquote: >-
   A great agent will represent your best interests and help you negotiate any
   repairs that may be needed.
