@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Benefits of a Buyer “Love Letter?”
-date: 2020-07-30 00:00:00
+date: 2020-08-07 00:00:00
 tags:
   - Buyer Prospects
 excerpt: Here’s why including a buyer ‘love letter’ can be a game changer.
