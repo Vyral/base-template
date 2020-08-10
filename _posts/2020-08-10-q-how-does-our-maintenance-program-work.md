@@ -17,9 +17,9 @@ youtube_code: I5cSCEZsCb4
 
 {% include youtube.html %}
 
-<p style="text-align:center">I’m sharing how our maintenance program works, and guess what? It’s free.</p>
+<p style="text-align:center"><em>I’m sharing how our maintenance program works, and guess what? It’s free.</em></p>
 
-Every property owner asks us how much we charge for maintenance. We don’t charge anything for our Maintenance Program\!
+Every property owner asks us how much we charge for maintenance. We don’t charge anything for our Maintenance Program!
 
 We put it in writing that if you have a maintenance issue in your unit that’s under $500, you’ve given us the right to make a decision about the repair if we can’t get in touch with you. However, **we do not do repairs without your permission.** Sometimes we can’t reach the owner because they live overseas, there’s a time difference, there are communication issues, etc. We call or send an email asking how you want the problem handled.&nbsp;
 
