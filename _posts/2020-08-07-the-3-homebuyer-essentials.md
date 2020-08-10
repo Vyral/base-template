@@ -24,7 +24,7 @@ youtube_code: ZmQKAfJl0RM
  <p style="text-align: center;"><em>
 If you’re a first-time buyer intimidated by the process, don’t fret; it’s easy as one, two, three.</em></p>
 
-Despite popular belief, a big down payment isn’t necessary, so long as you have the following three things:&nbsp;
+Despite popular belief, a big down payment isn’t necessary to buy a home, so long as you have the following three things:&nbsp;
 
 **1\. Income.** If a buyer has a stable or some sort of steady, dependable income, then very likely they’ll qualify for a house. The amount of that income, of course, will dictate how much house the buyer can afford.&nbsp;
 
