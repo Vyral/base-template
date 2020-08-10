@@ -5,7 +5,8 @@ date: 2020-08-07 00:00:00
 tags:
   - Buyer Prospects
 excerpt: Here’s why including a buyer ‘love letter’ can be a game changer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/What+Are+the+Benefits+of+a+Buyer+Love+Letter_.mp4
 pullquote: >-
   When we think outside the box for our buyers, it exemplifies our commitment to
   getting them into a new home.
