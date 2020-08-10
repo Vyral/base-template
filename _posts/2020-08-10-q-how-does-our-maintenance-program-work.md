@@ -17,7 +17,7 @@ youtube_code: I5cSCEZsCb4
 
 {% include youtube.html %}
 
-I’m sharing how our maintenance program works, and guess what? It’s free.
+<p style="text-align:center">I’m sharing how our maintenance program works, and guess what? It’s free.</p>
 
 Every property owner asks us how much we charge for maintenance. We don’t charge anything for our Maintenance Program\!
 
