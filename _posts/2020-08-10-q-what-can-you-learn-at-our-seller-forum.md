@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Can You Learn at Our Seller Forum?'
-date: 2020-08-10 19:41:44
+date: 2020-08-10 19:41:00
 tags:
 excerpt: Here’s what you’ll learn at our next home seller forum.
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: OM1D2HTWrgQ
 ---
 
 {% include youtube.html %}
