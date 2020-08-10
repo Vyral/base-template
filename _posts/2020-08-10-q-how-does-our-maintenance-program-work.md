@@ -31,4 +31,4 @@ You may have a friend or relative you want to do the work. However, we have lice
 
 There are only two reasons to have a property manager: to protect your house and put money in your pocket. If they aren’t doing these two things, why have a property manager at all?
 
-If you ever have questions about maintenance or how we handle it, call or email us. We would love to speak with you.
+If you ever have questions about maintenance or how we handle it, call or email us. We would love to speak with you.\
