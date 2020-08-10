@@ -28,7 +28,7 @@ Despite popular belief, a big down payment isn’t necessary to buy a home, so l
 
 **1\. Income.** If a buyer has a stable or some sort of steady, dependable income, then very likely they’ll qualify for a house. The amount of that income, of course, will dictate how much house the buyer can afford.&nbsp;
 
-**2\. Good credit.** If a buyer has great income but bad credit, they’re simply not going to qualify for a home purchase. The only way you’ll be able to buy a home with poor credit is if you pay for it fully in cash (though 9 in 10 homebuyers will require a mortgage).&nbsp;
+**2\. Good credit.** If a buyer has great income but bad credit, they’re simply not going to qualify for a home purchase. The only way you’ll be able to buy a home with poor credit is if you pay for it fully in cash (though nine in 10 homebuyers will require a mortgage).&nbsp;
 
 {% include pullquote.html %}
 
