@@ -18,7 +18,8 @@ youtube_code: pCnEFpiKDtg
 
 {% include youtube.html %}
 
-*Today I want to talk about how long it really takes to become successful in real estate.*
+<center><em>Today I want to talk about how long it really takes to become successful in real estate.</em></center>
+&nbsp;
 
 The definition of real estate success is how you’ll be remembered and spoken of at the end of the day. The longer you promote your name, the longer you’ll succeed. That means there’s no specific timeline as to when you’ll be successful in this industry. Unfortunately, around 90% of those who enter the real estate business don’t succeed in their first two years, causing them to quit and give their license back to the board.&nbsp;
 
