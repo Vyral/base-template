@@ -27,7 +27,7 @@ You may have a friend or relative you want to do the work. However, we have lice
 
 {% include pullquote.html %}
 
-**We only do property management, so our maintenance program is with your best interests in mind.** It’s in-house, all the maintenance stays within our family of vendors, and all the people you talk to in our maintenance program work for Hawaii Pacific. Having a property manager who will take care of maintenance for you is a huge advantage. We do an excellent job with maintenance because we care about our work.&nbsp;
+**We only do property management, so our maintenance program operates with your best interests in mind.** It’s in-house, all the maintenance stays within our family of vendors, and all the people you talk to in our maintenance program work for Hawaii Pacific. Having a property manager who will take care of maintenance for you is a huge advantage. We do an excellent job with maintenance because we care about our work.&nbsp;
 
 There are only two reasons to have a property manager: to protect your house and put money in your pocket. If they aren’t doing these two things, why have a property manager at all?
 
