@@ -25,10 +25,10 @@ Due to COVID-19, **this forum will be hosted virtually via Zoom.** Paul Douglas 
 
 In just one hour, you’ll get all the information you need to have a detailed gameplan when you’re ready to sell. This forum will be held over five sessions on the following dates:
 
-* Tuesday, September 15 at 11 a.m. or 6 p.m.
-* Thursday, September 17 at 11 a.m. or 6 p.m.
-* Saturday, September 19 at 11 a.m.
+* **Tuesday, September 15 at 11 a.m. or 6 p.m.**
+* **Thursday, September 17 at 11 a.m. or 6 p.m.**
+* **Saturday, September 19 at 11 a.m.**
 
-As you know, each webinar hosts a limited number of people and they sell out quickly, so **sign up today by visiting johnschustergroup.com** and clicking on the “Home Seller Forum” banner at the top of the page.&nbsp;
+As you know, each webinar hosts a limited number of people and they sell out quickly, so **sign up today by visiting&nbsp;[johnschustergroup.com](https://johnschustergroup.com/){: target="_blank" rel="noopener"}** and clicking on the “Home Seller Forum” banner at the top of the page.&nbsp;
 
 If you have any questions, don’t hesitate to call or email us. We’d love to speak with you, and we look forward to seeing you there\!&nbsp;
