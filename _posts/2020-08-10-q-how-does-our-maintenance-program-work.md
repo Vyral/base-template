@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/maintenance-yt-duke-kimhan.jpg
-youtube_code: I5cSCEZsCb4
+youtube_code: XjFlx0_h3Qs
 ---
 
 {% include youtube.html %}
