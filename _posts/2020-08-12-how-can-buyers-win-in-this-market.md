@@ -17,7 +17,7 @@ youtube_code: OfnzVDdvsMo
 
 {% include youtube.html %}
 
-Here are a few different ways that you can win as a buyer in today’s market.
+<p style="text-align: center;"><em>Here are a few different ways that you can win as a buyer in today’s market.</em></p>
 
 As you already know, our real estate is getting more competitive each day. A lot of buyers are worried about being able to find a home with limited inventory, but we’ve seen some bright spots recently.
 
