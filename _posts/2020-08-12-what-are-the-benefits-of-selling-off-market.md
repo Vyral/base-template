@@ -5,7 +5,8 @@ date: 2020-08-12 17:33:48
 tags:
   - Home Seller Tips
 excerpt: Here are the benefits and drawbacks of selling your home off-market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+pocket+listing+with+captions.mp4
 pullquote: >-
   During this COVID-19 era, inventory is so low that you could easily have 40 to
   100 showings.
@@ -18,7 +19,7 @@ youtube_code: C8-_WimbAGc
 
 {% include youtube.html %}
 
-Here are the benefits and drawbacks of selling your home off-market.
+<p sty;e="text-align: center;"><em>Here are the benefits and drawbacks of selling your home off-market.</em></p>
 
 If you’re intrigued by the idea of selling your home as a pocket listing, there are a couple of advantages and disadvantages to this type of sale you must be aware of before proceeding.&nbsp;
 
