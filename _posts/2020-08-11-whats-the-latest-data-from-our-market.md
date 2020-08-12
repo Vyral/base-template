@@ -21,7 +21,7 @@ youtube_code: SS_WUtKqhSA
 
 <br>Today I’m sharing the latest real estate market statistics for Calgary and nearby areas. We anticipated that sales would be relatively strong in July and August, primarily because of the pent-up demand brought on by the pandemic. Boy, were we right\!
 
-**The sales levels in July were about 12% higher than they were in July 2019**. We haven’t seen sales at this level in five years. Airdrie even saw a price increase in single-family detached homes because you can get a ton of value for your dollar there. Also, compare the average price in Strathmore of $319,000 to Canmore at $984,800 and you’ll see what a difference where you live can make.
+**The sales levels in July were about 12% higher than they were in July 2019**. We haven’t seen sales at this level in five years. Airdrie even saw a price increase in single-family detached homes because you can get a ton of value for your dollar there. Also, compare the average price in Strathmore of $319,000 to Canmore at $984,800 and you’ll see what a difference location can make.
 
 {% include pullquote.html %}
 
