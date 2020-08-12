@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/rxz23YLRcBQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers and sellers can win in our current market.</em></p>
+
 It’s been a challenging time for many of us both professionally and personally. Markets have fluctuated due to uncertainty, and that includes our real estate market.&nbsp;
 
 If you’re in the market to buy a home, there is a great opportunity to invest in a new property. However, fewer sellers are putting their homes on the market due to worries about the pandemic. **This is creating a huge inventory shortage.&nbsp;**
