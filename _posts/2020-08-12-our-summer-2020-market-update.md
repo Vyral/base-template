@@ -17,7 +17,8 @@ youtube_code: 'https://youtu.be/JJ8kE7ACn-s'
 
 {% include youtube.html %}
 
-*Our summer market has been busy; here’s what’s been happening.*
+ <p style="text-align: center;"><em>
+Our summer market has been busy; here’s what’s been happening.</em></p>
 
 It’s hard to believe it’s already August because the summer real estate market has been very busy, so today I’m providing our latest market update. **We hope you’re all continuing to stay safe** and keep your respectful distance from others at this time.&nbsp;
 
