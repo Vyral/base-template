@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Can Sellers Expect for the New Normal in the Real Estate Market?
+title: What Can Sellers Expect in the New Normal?
 date: 2020-08-12 00:00:00
 tags:
   - Real Estate
@@ -27,12 +27,12 @@ youtube_code: ZlajAHn1qu0
 
 Another thing you can do is leave hand sanitizer along with instructions at your home’s entrance. **Visitors should be instructed to use the hand sanitizer before coming in and after walking through your home**.
 
-We also encourage you to discuss your comfort levels with your Colemere Realty associate regarding how many showings you want to have, how many people you want to enter your house, and so on. If you’d rather keep your home’s exposure to others to a minimum, you can always pursue virtual showings and open houses instead.
+We also encourage you to discuss your comfort levels with your Colemere Realty associate regarding how many showings you want to have, how many people you want to enter your house, etc. If you’d rather keep your home’s exposure to others to a minimum, you can always pursue virtual showings and open houses instead.
 
 Once showings are over, be sure to turn all the lights off and **take disinfectant wipes to all the surfaces in your house that people are likely to touch**, like light switches and doorknobs.
 
 {% include pullquote.html %}
 
-Finally, we’ll let buyers know that they need to stay home if they’re not feeling well to reduce the risk of spread. And if you, the seller, feel like you’re coming down with something, **don’t be afraid to put showings on hold**. There are plenty of virtual options out there for you.
+Finally, we’ll let buyers know that they need to stay home if they’re not feeling well to reduce the risk of spread. If you, the seller, feel like you’re coming down with something, **don’t be afraid to put showings on hold**. There are plenty of virtual options out there for you.
 
 If you have any questions about what safety precautions are being implemented to keep buyers and sellers safe during the pandemic, don’t hesitate to reach out to us. We’d love to provide you with more information.
