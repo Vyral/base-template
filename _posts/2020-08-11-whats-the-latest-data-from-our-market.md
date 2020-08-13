@@ -11,8 +11,8 @@ pullquote: There’s an opportunity in every market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/08-10-mortimer-youtube.jpg
-youtube_code: SS_WUtKqhSA
+youtube_alternate_image: /uploads/08-10-mortimer-youtube-1.jpg
+youtube_code: 3RQTt7feIKU
 ---
 
 {% include youtube.html %}
