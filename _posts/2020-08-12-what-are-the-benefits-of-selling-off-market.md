@@ -19,7 +19,7 @@ youtube_code: C8-_WimbAGc
 
 {% include youtube.html %}
 
-<p sty;e="text-align: center;"><em>Here are the benefits and drawbacks of selling your home off-market.</em></p>
+<p style="text-align: center;"><em>Here are the benefits and drawbacks of selling your home off-market.</em></p>
 
 If you’re intrigued by the idea of selling your home as a pocket listing, there are a couple of advantages and disadvantages to this type of sale you must be aware of before proceeding.&nbsp;
 
