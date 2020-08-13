@@ -19,7 +19,7 @@ youtube_code: iJbn6CLW1So
 
 {% include youtube.html %}
 
-Here is what two home sellers had to say about their experience working with the Carbutti Realtors.
+<center>Here is what two home sellers had to say about their experience working with the Carbutti Realtors.</center>
 
 Joe and Tiffany Piacentini recently had a great experience selling their house with the Carbutti Realtors. Here’s what they had to say in their own words.
 
