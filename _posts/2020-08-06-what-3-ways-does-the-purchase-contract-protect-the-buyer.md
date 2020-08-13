@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: The Colorado purchase contract protects homebuyers in three ways.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2020/What+3+Ways+Does+the+Purchase+Contract+Protect+the+Buyer_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
