@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/q--how-has-our-market-fared-this-summer-yt.jpg
-youtube_code: 'https://youtu.be/JJ8kE7ACn-s'
+youtube_code: 8-YqTMS2Zuc
 ---
 
 {% include youtube.html %}
