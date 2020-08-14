@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Summer 2020 Market Update
-date: 2020-08-12 20:00:43
+date: 2020-08-12 20:00:00
 tags:
 excerpt: Here’s a year-over-year look at how our market has been doing.
 enclosure:
@@ -15,24 +15,23 @@ youtube_code: tR_v5KkhoQI
 
 {% include youtube.html %}
 
- <p style="text-align: center;"><em>
-Here’s a year-over-year look at how our market has been doing.</em></p>
+*Here’s a year-over-year look at how our market has been doing.*
 
-If you’ve been following our market updates, you’ll know that things slowed back at the end of March through May; we had fewer listings, buyers, and pendings during that time. In June, however, things started to pick back up. As the latest market data shows, the month of July has been a continuation of that upward trend.
+If you’ve been following our market updates, you’ll know that things slowed back at the end of March through May; we had fewer listings, buyers, and pending sales during that time. In June, however, things started to pick back up. As the latest market data shows, the month of July has been a continuation of that upward trend.
 
 To learn more about the residential sales from Athens and the surrounding counties, follow along in the video above or use the timestamps below to navigate my update at your leisure.
 
 **Comparing July 2019 to July 2020:**
 
-* 1:28—New listings on the market have gone up
+1:28—New listings on the market have gone up
 
-* 2:17—Price changes have gone up
+2:17—Price changes have gone up
 
-* 2:47—Pending listings are up
+2:47—Pending listings are up
 
-* 3:36—The number of homes sold rose
+3:36—The number of homes sold rose
 
-* 4:12—The average and median sales price rose
+4:12—The average and median sales price rose
 
 **Year-Over-Year Changes Between Jan 1 - July 31:**
 
