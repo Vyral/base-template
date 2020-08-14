@@ -19,7 +19,7 @@ youtube_code: OM1D2HTWrgQ
 
 We have another home seller forum coming up, and you’re cordially invited to learn everything you need to know to boost your home sale by thousands of dollars.&nbsp;
 
-Due to COVID-19, **this forum will be hosted virtually via Zoom.** Paul Douglas will once again be moderating, and along with sharing our secrets to taking advantage of this market, we’ll also send you a free copy of our 40-page marketing guide.&nbsp;
+Due to COVID-19,&nbsp;**this forum will be hosted virtually via a****&nbsp;webinar.**&nbsp;Paul Douglas will once again be moderating, and along with sharing our secrets to taking advantage of this market, we’ll also send you a free copy of our 40-page marketing guide.
 
 {% include pullquote.html %}
 
