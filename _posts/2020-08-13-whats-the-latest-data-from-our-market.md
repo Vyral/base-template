@@ -1,11 +1,13 @@
 ---
 layout: post
 title: What’s the Latest Data From Our Market?
-date: 2020-08-11 00:00:00
+date: 2020-08-13 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Here’s what the latest stats say about our July real estate market.
+excerpt: >-
+  Find out what the media still isn’t saying about the Calgary region's real
+  estate sales.
 enclosure:
 pullquote: There’s an opportunity in every market.
 enclosure_type: video/mp4
@@ -17,7 +19,7 @@ youtube_code: 3RQTt7feIKU
 
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s what the latest stats say about our July real estate market.</em></center>
+<center><em>Find out what the media still isn&rsquo;t saying about the Calgary region's real estate sales.</em></center>
 
 <br>Today I’m sharing the latest real estate market statistics for Calgary and nearby areas. We anticipated that sales would be relatively strong in July and August, primarily because of the pent-up demand brought on by the pandemic. Boy, were we right\!
 
