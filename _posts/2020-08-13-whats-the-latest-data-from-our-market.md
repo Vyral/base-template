@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Find out what the media still isn’t saying about the Calgary region's real
   estate sales.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/Whats+the+Latest+Data+From+Our+Market_.mp4
 pullquote: There’s an opportunity in every market.
 enclosure_type: video/mp4
 enclosure_time:
