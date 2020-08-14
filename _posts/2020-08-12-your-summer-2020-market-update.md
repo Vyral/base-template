@@ -15,7 +15,8 @@ youtube_code: tR_v5KkhoQI
 
 {% include youtube.html %}
 
-*Here’s a year-over-year look at how our market has been doing.*
+ <p style="text-align: center;"><em>
+Here’s a year-over-year look at how our market has been doing.</em></p>
 
 If you’ve been following our market updates, you’ll know that things slowed back at the end of March through May; we had fewer listings, buyers, and pending sales during that time. In June, however, things started to pick back up. As the latest market data shows, the month of July has been a continuation of that upward trend.
 
