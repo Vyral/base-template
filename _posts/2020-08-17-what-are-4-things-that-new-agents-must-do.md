@@ -16,7 +16,7 @@ youtube_code: sEv8zb2tjeo
 
 {% include youtube.html %}
 
-There are four things you need to do as a first-year agent. Take a look.
+<p style="text-align: center;"><em>There are four things you need to do as a first-year agent. Take a look.</em></p>
 
 After 20 years in the real estate business, I have a lot of information to share regarding what new agents should focus on in their first few years in the industry. Today I’ll share four key things that stand out in my mind:
 
