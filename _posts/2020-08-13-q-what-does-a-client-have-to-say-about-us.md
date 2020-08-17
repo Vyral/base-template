@@ -33,12 +33,10 @@ So what change did they make? Well, Tiffany had heard about the Carbutti Realtor
 
 &nbsp;“That was the best decision ever,” she said. “He answered the phone on the first ring, which was awesome. \[…\] We talked for like 20 minutes and I was so reassured.
 
-“We made an appointment and **they showed up so prepared**—nothing like the last company we worked with. \[…\] We were so educated after that first appointment. It was so nice to finally have somebody walk through our house and give us some ideas about what to do.”
+“We made an appointment, and **they showed up so prepared**—nothing like the last company we worked with. \[…\] We were so educated after that first appointment. It was so nice to finally have somebody walk through our house and give us some ideas about what to do.”
 
-They were so pleased with the professional stager we brought in to help them make their home look its very best. “It was such a transformation—**just some simple updates at low cost**. People really noticed our house after having that done.
+They were so pleased with the professional stager we brought in to help them make their home look its very best. “It was such a transformation—**just some simple updates at low cost**. People really noticed our house after having that done."
 
-In the end, their result was better than they could have expected.
-
-“Our home went on sale on a Friday; it went from the listing price of $239,000 to being sold for $5,000 more.”
+In the end, their result was better than they could have expected.“Our home went on sale on a Friday; it went from the listing price of $239,000 to being sold for $5,000 more.”
 
 If you have any questions or need professional assistance with selling your home, don’t hesitate to reach out to the Carbutti Realtors. We’re here to help you find real estate success.
