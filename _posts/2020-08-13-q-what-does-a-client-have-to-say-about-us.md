@@ -19,7 +19,8 @@ youtube_code: iJbn6CLW1So
 
 {% include youtube.html %}
 
-<center>Here is what two home sellers had to say about their experience working with the Carbutti Realtors.</center>
+ <p style="text-align: center;"><em>
+Here is what two home sellers had to say about their experience working with the Carbutti Realtors.</em></p>
 
 <center>&nbsp;</center>
 
