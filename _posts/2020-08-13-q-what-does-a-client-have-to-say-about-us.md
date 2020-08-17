@@ -21,6 +21,8 @@ youtube_code: iJbn6CLW1So
 
 <center>Here is what two home sellers had to say about their experience working with the Carbutti Realtors.</center>
 
+<center>&nbsp;</center>
+
 Joe and Tiffany Piacentini recently had a great experience selling their house with the Carbutti Realtors. Here’s what they had to say in their own words.
 
 “We sold it in less than 24 hours for $5,000 over asking. We’d put our house on the market in November 2019; we didn’t have the right price point. We asked for some advice from another company \[…\], and they weren’t giving us any advice that we were asking for. We ended up dropping the price and still didn’t get any action. No one was interested in our house. We tried staging it ourselves—still nothing. \[…\] **We decided we needed a big change**.”
