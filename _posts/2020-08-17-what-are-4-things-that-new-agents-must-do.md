@@ -1,11 +1,11 @@
 ---
 layout: post
 title: What Are 4 Things That New Agents Must Do?
-date: 2020-08-17 16:57:48
+date: 2020-08-17 16:57:00
 tags:
-  - Transaction Management
 excerpt: There are four things you need to do as a first-year agent. Take a look.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/What+Are+4+Things+That+New+Agents+Must+Do_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
