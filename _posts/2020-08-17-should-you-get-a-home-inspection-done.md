@@ -17,7 +17,7 @@ youtube_code: oDT15bJFqrA
 
 {% include youtube.html %}
 
-Here’s why you should get a home inspection done when buying a house.
+<p style="text-align: center;"><em>Here’s why you should get a home inspection done when buying a house.</em></p>
 
 Should you order a home inspection?&nbsp;
 
