@@ -13,7 +13,7 @@ youtube_alternate_image: /uploads/8-14---zach-sikes---yt.jpg
 youtube_code: jdlBUm0oAnM
 ---
 
-{% include youtube.html %}If the appraisal comes in low, you have four options as a buyer or seller.
+{% include youtube.html %}<center>If the appraisal comes in low, you have four options as a buyer or seller.</center>
 
 Low appraisals are happening more frequently this year because low inventory is putting upward pressure on pricing. In most residential single-family unit sales, they’re basing pricing on comparable sales data, otherwise known as comps. The comps they’re using have already closed, so it’s historical data. As inventory is lowered and prices increase, the data is months old, so it isn’t justifying the higher price. The appraisers will keep up with the market but only at a conservative rate, which could lead to appraisal shortfalls, or low appraisals.&nbsp;
 
