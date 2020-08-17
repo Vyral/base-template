@@ -21,7 +21,7 @@ youtube_code: IQxL-D9vN9Y
 
 Here are five steps to take to get the home you want in this competitive market:
 
-**1\. Get pre-approved*****before *****making an offer.**
+<strong>1. Get pre-approved <em>before</em> making an offer.</strong>
 
 **2\. Know what you’re looking for.** Your real estate advisor should do a needs analysis to structure a document that helps you understand what your perfect home is.
 
