@@ -31,4 +31,4 @@ COVID has affected every facet of our lives, and real estate is no different. Wh
 
 5:23—How Stream has helped them performed diagnostic work&nbsp;
 
-As always, if you have questions about this or any real estate topic or are thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
+As always, if you have questions about this or any real estate topic, or you're thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’m happy to help.
