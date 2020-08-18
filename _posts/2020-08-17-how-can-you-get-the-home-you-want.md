@@ -19,7 +19,7 @@ youtube_code: IQxL-D9vN9Y
 
 <p style="text-align: center;"><em>Here are five tips to get the home you want in our competitive market.</em></p>
 
-Here are five steps to take to get the home you want in this competitive market:
+What does it take to get the home you want in this competitive market?
 
 <strong>1. Get pre-approved <em>before</em> making an offer.</strong>
 
