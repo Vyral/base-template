@@ -15,6 +15,7 @@ youtube_code: Wp3IQhQIcl8
 
 {% include youtube.html %}
 
-*Here’s a quick look at how the real estate market is doing.*
+<center><em>Here’s a quick look at how the real estate market is doing.</em></center>
+&nbsp;
 
 Noticeable changes in our real estate market this summer include a rise in showings in June, along with a 42% drop in inventory, and an increase of 3% in listings. This data indicates that our housing supply just couldn’t keep up with buyer demand. In Charleston and Columbia, the average days on market was 52 days, total closed sales were up 13.7% in Greenville, and closed sales were up 9.3% in Myrtle Beach. We’re currently in a seller’s market with low interest rates; a fantastic combination for buyers and sellers.
