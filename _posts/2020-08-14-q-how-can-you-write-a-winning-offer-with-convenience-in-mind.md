@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Write A Winning Offer With Convenience in Mind?'
-date: 2020-08-14 20:57:27
+date: 2020-08-14 20:57:00
 tags:
   - Home Buyer Tips
 excerpt: How can you write an offer to appeal to a seller’s desire for convenience?
@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/vqkTdDBmKlc'
 
 {% include youtube.html %}
 
-Today, I’ll continue our discussion about writing winning offers with a few tips on how to write an offer when the seller is looking for convenience:
+Today, I’ll continue our discussion about writing winning offers with a few tips on how to write one when the seller is looking for convenience:
 
 **1\. Allow the seller to choose when to close escrow.** This typically comes up when a seller is trying to close on their property and also buy another one, but they’re not sure when their purchase will close. Allowing them to choose the close of escrow date lends them flexibility and makes your offer more attractive.&nbsp;
 
@@ -25,4 +25,4 @@ Today, I’ll continue our discussion about writing winning offers with a few ti
 
 **3\. Accept the property as is.** This could mean not asking the seller to do any repairs or waiving any disclosures to make it easier for the seller.
 
-If you’re looking to buy a property, we’d be happy to help. Just reach out to us by phone or email anytime.
+If you’re looking to buy a property, we’d be happy to help. Just reach out to us by phone or email any time.
