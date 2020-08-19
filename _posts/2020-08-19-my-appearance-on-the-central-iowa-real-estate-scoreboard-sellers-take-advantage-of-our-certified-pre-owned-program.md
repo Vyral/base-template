@@ -3,7 +3,7 @@ layout: post
 title: >-
   My Appearance on  “The Central Iowa Real Estate Scoreboard” Sellers: Take
   Advantage of Our Certified Pre-Owned Program
-date:
+date: 2020-08-19 21:24:36
 tags:
   - Real Estate
   - Home Buyer Tips
