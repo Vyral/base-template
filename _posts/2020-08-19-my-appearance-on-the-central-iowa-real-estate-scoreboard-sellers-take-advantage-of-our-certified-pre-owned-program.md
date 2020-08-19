@@ -24,7 +24,7 @@ youtube_code: VraAkiQE9gE
 
 {% include youtube.html %}
 
-I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.
+<p style="text-align: center;"><em>I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.</em></p>
 
 We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. But there’s more intent behind it than just marketing to appeal to buyers.
 
