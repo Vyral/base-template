@@ -19,7 +19,7 @@ youtube_code: BSVXsblUqWQ
 
 {% include youtube.html %}
 
-Mayor Joseph Winfield recently joined me to talk about COVID’s impact on Oro Valley.
+<p style="text-align:center">Mayor Joseph Winfield recently joined me to talk about COVID’s impact on Oro Valley.</p>
 
 Today I’m proud to be talking to Mayor Joseph Winfield of Oro Valley, who joined me for a fantastic discussion. We talked about a number of different topics, including how our area was affected by the COVID-19 pandemic, how we’re recovering, and what we’ll continue to do to combat this disease both physically and economically.&nbsp;
 
