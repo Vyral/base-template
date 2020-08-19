@@ -26,6 +26,16 @@ youtube_code: VraAkiQE9gE
 
 I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.
 
+We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. But there’s more intent behind it than just marketing to appeal to buyers.
+
+We find that when sellers are going through the process, the home inspection is the most stressful stage because someone else is critiquing every aspect of the home.&nbsp;
+
+Part of the stress comes from the fact that, after the seller has negotiated everything down to the penny, they’ll then have to go through a second negotiation 10 days later based on the results of their inspection. There are many things that can come up during the inspection that might scare buyers, even if those things aren’t really that big of a deal.
+
 {% include pullquote.html %}
 
-I recently appeared on “The Central Iowa Real Estate Scoreboard” radio show on 1460 KXNO with Heather Burnside to talk about why marketing your home as ‘certified pre-owned’ works to your advantage as a seller by helping you remove the stress and uncertainty from the process. To learn more about how it works, watch this short video.
+We explain to our sellers that **we want to put them in the driver’s seat** of this part of the process. With our certified pre-owned program, your home will be fully vetted, which allows you to choose what repairs you’ll take care of and know the cost of those items. That way, when you’re negotiating the sale price, you can have that in mind instead of having to take care of thousands of dollars in surprise repairs after you already thought your home was sold.&nbsp;
+
+**We’re also offering a 13-month home warranty to help repair or replace any issues found** with a seller’s major systems—home warranties usually last for 12 months, so you’ll get a bonus month from us\!
+
+If you have any questions about our certified pre-owned program, don’t hesitate to reach out to us. We’d love to give you more information and help you take charge of your home sale.
