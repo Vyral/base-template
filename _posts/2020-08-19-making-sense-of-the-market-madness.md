@@ -5,7 +5,8 @@ date: 2020-08-19 12:44:45
 tags:
   - Market Update
 excerpt: Here are the stats behind our market’s astonishing recovery as push into Q3.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2020/Dan+Jones+Home+Selling+Team-+Market+Update.mp4
 pullquote: A healthy high-end market is indicative of a healthy overall housing market.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: mCwyl05lrFM
 
 {% include youtube.html %}
 
-Here are the stats behind our market’s astonishing recovery as push into Q3.
+<p style="text-align: center;"><em>Here are the stats behind our market’s astonishing recovery as push into Q3.</em></p>
 
 In April, market activity came to a screeching halt, as evidenced by the graph at 0:25 in the video above; by the second week of that month, the number of people applying for a loan decreased 30% from what it was the year prior. However, **as we reached mid-May and carried on through late July, purchase applications increased year over year as cabin fever spread.** Those 11 consecutive weeks of year-over-year purchase application increases were a big driving force for the market, especially our local market; this buyer demand doesn’t seem to be slowing down, either.&nbsp;
 
