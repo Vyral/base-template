@@ -6,13 +6,13 @@ tags:
   - Home Buyer Tips
 excerpt: Here are five tips to get the home you want in our competitive market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+getting+a+home+in+a+competitive+market+2.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+HOME+I+WANT+IN+A+COMPETITIVE+MARKET.mp4
 pullquote: You’re hiring an agent to be your advocate throughout the process.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: IQxL-D9vN9Y
+youtube_code: JlvDYihc-2k
 ---
 
 {% include youtube.html %}
