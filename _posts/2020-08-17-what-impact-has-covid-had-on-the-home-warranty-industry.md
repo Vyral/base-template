@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 'Just like all industries, the home warranty business has adapted to COVID.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2020/Valley+of+the+Sun+Real+Estate+Agent-+How+COVID+Has+Affected+Us.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nate+Martinez/+Videos/2020/Valley+of+the+Sun+Real+Estate+Agent-+covid+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: jsr5-H9ZZcc
+youtube_code: mCP4HIUniZ8
 ---
 
 {% include youtube.html %}
