@@ -1,9 +1,7 @@
 ---
 layout: post
-title: >-
-  My Appearance on  “The Central Iowa Real Estate Scoreboard” Sellers: Take
-  Advantage of Our Certified Pre-Owned Program
-date: 2020-08-19 21:24:36
+title: 'Sellers: Take Advantage of Our Certified Pre-Owned Program'
+date: 2020-08-19 21:24:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -24,13 +22,13 @@ youtube_code: VraAkiQE9gE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.</em></p>
+*I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.*
 
-We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. But there’s more intent behind it than just marketing to appeal to buyers.
+We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. However, there’s more intent behind it than just marketing to appeal to buyers.
 
 We find that when sellers are going through the process, the home inspection is the most stressful stage because someone else is critiquing every aspect of the home.&nbsp;
 
-Part of the stress comes from the fact that, after the seller has negotiated everything down to the penny, they’ll then have to go through a second negotiation 10 days later based on the results of their inspection. There are many things that can come up during the inspection that might scare buyers, even if those things aren’t really that big of a deal.
+Part of the stress comes from the fact that, after the seller has negotiated everything down to the penny, they’ll then have to go through a second negotiation 10 days later based on the results of their inspection. There are many things that can come up during the inspection that might scare buyers, even if those things aren’t that big of a deal.
 
 {% include pullquote.html %}
 
