@@ -17,7 +17,7 @@ youtube_code: HFz9ocp_yGs
 
 {% include youtube.html %}
 
-Here’s what sellers should know before listing their home.
+<p style="text-align: center;"><em>Here’s what sellers should know before listing their home.</em></p>
 
 Today I’m joined once again by my friend and business partner Laura Jones so she can answer some important home seller questions and offer her best advice. Laura handles the buyer side of our team’s transactions, so she brings a unique perspective that can help you sell quickly and for top dollar if you’re putting your home on the market soon.&nbsp;
 
