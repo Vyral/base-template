@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   For home sellers, there’s a new normal in the market. Here’s what it looks
   like.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/What+Can+Sellers+Expect+in+the+New+Normal_.mp4
 pullquote: >-
   If you’d rather keep your home’s exposure to others to a minimum, you can
   always pursue virtual showings and open houses instead.
