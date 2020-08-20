@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Advice for Home Sellers
-date: 2020-08-20 15:49:33
+title: What Should Sellers Know About a Buyer’s Perspective?
+date: 2020-08-20 15:49:00
 tags:
   - Home Seller Tips
   - Real Estate
@@ -17,7 +17,7 @@ youtube_code: HFz9ocp_yGs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what sellers should know before listing their home.</em></p>
+*Here’s what sellers should know before listing their home.*
 
 Today I’m joined once again by my friend and business partner Laura Jones so she can answer some important home seller questions and offer her best advice. Laura handles the buyer side of our team’s transactions, so she brings a unique perspective that can help you sell quickly and for top dollar if you’re putting your home on the market soon.&nbsp;
 
