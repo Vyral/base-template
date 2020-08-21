@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here's how to work through that decision and the potential cost if you wait.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Kellar/Videos/2020/Buy+Now+or+Wait_.mp4
 pullquote: 'If interest rates go back up, you might not save anything by waiting.'
 enclosure_type: video/mp4
 enclosure_time:
