@@ -1,11 +1,11 @@
 ---
 layout: post
-title: To Buy or Not to Buy
+title: Buy Now or Wait?
 date: 2020-08-19 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
-excerpt: Here’s our advice for determining whether you’re ready to buy a home.
+excerpt: Here's how to work through that decision and the potential cost if you wait.
 enclosure:
 pullquote: 'If interest rates go back up, you might not save anything by waiting.'
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: iEe70kXUL0I
 
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s our advice for determining whether you&rsquo;re ready to buy a home.</em></center>
+<center><em>Here's how to work through that decision and the potential cost if you wait.</em></center>
 
 <br>First and foremost, we hope you and your family are having a good summer and staying safe and healthy during this weird year. As things have played out in the real estate industry throughout this pandemic, **I wanted to answer a common question I’ve been hearing: Should I buy now or wait until next year?**
 
