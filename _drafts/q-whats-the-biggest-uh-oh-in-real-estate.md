@@ -15,7 +15,7 @@ youtube_alternate_image: /uploads/8-19---frank-gray---yt.jpg
 youtube_code: 7gV7Qs_mSfo
 ---
 
-{% include youtube.html %}I’m sharing a new series on real estate sale mishaps; here’s the biggest one.&nbsp;
+{% include youtube.html %}<center>I’m sharing a new series on real estate sale mishaps; here’s the biggest one.&nbsp;</center>
 
 Arguably the worst thing that can happen in a real estate transaction is a failure to monitor the buyer approval date (Paragraph 2A of the Third Party Financing Addendum), which leads to the loss of your buyer’s earnest money.&nbsp;
 
