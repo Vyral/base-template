@@ -21,7 +21,7 @@ What’s the latest news from our real estate market as the summer winds down?
 
 July was a boom month for our market. Normally, the activity we saw would’ve been spread out across the spring market, but the shutdown pushed everything back a couple of months. As a result, we’re seeing some interesting trends emerge.
 
-The first involves closing dates. Ordinarily, buyers allow themselves a cushion of time to get settled before the school year starts, but **now closing dates are happening right as school years start again.** It’s also taking buyers longer to get into homes due to low inventory. The Prior and Spring lake markets, in particular, have low inventory and soaring prices. Demand is high for lakeside homes, but there aren’t a ton of properties available.&nbsp;
+The first involves closing dates. Ordinarily, buyers allow themselves a cushion of time to get settled before the school year starts, but **now closing dates are happening right as school start again.** It’s also taking buyers longer to get into homes due to low inventory. The Prior Lake and Spring Lake markets, in particular, have low inventory and soaring prices. Demand is high for lakeside homes, but there aren’t a ton of properties available.&nbsp;
 
 {% include pullquote.html %}
 
