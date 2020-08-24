@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s the Biggest Uh-Oh in Real Estate?'
-date: 2020-08-21 16:09:05
+date: 2020-08-21 16:09:00
 tags:
 excerpt: I’m sharing a new series on real estate sale mishaps; here’s the biggest one.
 enclosure:
@@ -31,6 +31,6 @@ Here’s the critical mistake I’ve been seeing: **Real estate professionals ar
 
 If you see that date for buyer approval approaching and a conversation with the lender reveals that the process will take more time, you have a couple of options. You could either **submit an amendment extending the time for buyer approval**, or **you can cancel the contract.** TREC even provides a form for the latter option called “TREC 01A: Notice Pursuant to Third Party Financing Conditional Approval,” which you’ll submit along with the Notice of Termination of Contract and the Earnest Money Release forms.&nbsp;
 
-I know what you’re thinking: “My buyer really wants this house\!” That’s okay; if they obtain buyer approval two or three days after contract termination, and the seller still wants to sell, you can piece the deal back together. **In the event that they don’t get approval, then you’ve wisely protected your buyer’s earnest money** and left them in a position to buy another home when their financial situation improves.&nbsp;
+I know what you’re thinking: “My buyer really wants this house\!” That’s okay; if they obtain buyer approval two or three days after contract termination, and the seller still wants to sell, you can piece the deal back together. **If they don’t get approval, then you’ve wisely protected your buyer’s earnest money** and left them in a position to buy another home when their financial situation improves.&nbsp;
 
-Fortunately, this colossal uh-oh is completely avoidable if you remain diligent. If you have questions about this or any other real estate scenario, give me a call or shoot an email. I’d be more than happy to talk it over with you and share my knowledge and years of experience with you\!&nbsp;
+Fortunately, this colossal uh-oh is completely avoidable if you remain diligent. If you have questions about this or any other real estate scenario, give me a call or shoot an email. I’d be more than happy to talk it over and share my knowledge and years of experience with you\!&nbsp;
