@@ -26,9 +26,9 @@ hidden: false
 
 **2\. Work on any overdue repairs**. This eliminates objections from buyers, and when they see that you’ve taken good care of your home, they’ll feel confident making a good offer for it.
 
-**3\. Choose neutral paint colors**. You may have a bright accent wall that you absolutely love, but all a buyer sees is something that they’ll have to paint over later on. Paint your interior a nice, bright, neutral color.
+**3\. Choose neutral paint colors**. You may have a bright accent wall that you absolutely love, but all a buyer sees is something that they’ll have to paint over later. Paint your interior a nice, bright, neutral color.
 
-**4\. Make sure your home passes the sniff test**. If buyers walk into a home that stinks, they’ll walk right back out. I’ve seen it happen before\! Your home should be clean and smell fresh.
+**4\. Make sure your home passes the sniff test**. If buyers walk into a home that stinks, they’ll walk right back out again. I’ve seen it happen\! Your home should be clean and smell fresh.
 
 **5\. Declutter and depersonalize**. You’ll be moving anyway, so you might as well pack up your stuff. Our team has an amazing service we use for virtual staging, so if you’re interested in this service, let us know and we’d be happy to send you the link.
 
