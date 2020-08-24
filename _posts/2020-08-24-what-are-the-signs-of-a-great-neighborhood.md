@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/o1tiLWieL1Y'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how to tell if you’re in a great neighborhood.</em></p>
+
 Picking the right neighborhood is almost as important as picking the right home. How can you identify a great neighborhood? Here’s what you need to consider:
 
 **1\. Crime rates.** These are a huge indicator of safety. One of the best ways to find these rates is to go to your local police or sheriff’s department website. Your Realtor should be able to provide data as well.
