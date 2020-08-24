@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do You Plan a “Call in to Win Day?”
+title: How Do You Plan a “Call in to Win Day”?
 date: 2020-08-21 00:00:00
 tags:
   - Lead Generation
