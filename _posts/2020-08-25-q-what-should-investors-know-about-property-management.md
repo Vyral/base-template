@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: What Should Investors Know About Property Management?'
-date: 2020-08-25 20:17:56
+date: 2020-08-25 20:17:00
 tags:
+  - Real Estate
 excerpt: 'If you’re thinking about becoming an investor, here’s where to put your money.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+What+Should+Investors+Know+About+Property+Management_.mp4
