@@ -19,7 +19,7 @@ youtube_code: 3bAcPJjsKp8
 
 <p style="text-align: center;"><em>Here are three key tips to remember when staging your home.</em></p>
 
-Today I’m joined by Tess Bartman, co-owner of Holy City Home Staging and soon-to-be member of Healthy Realty Team, to share **three key tips for staging your home:**
+Today I’m joined by Tess Bartmann, co-owner of Holy City Home Staging and soon-to-be member of Healthy Realty Team, to share **three key tips for staging your home:**
 
 **1\. Declutter and depersonalize.** Also, get rid of anything extra so that just your main furniture is left.&nbsp;
 
