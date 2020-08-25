@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Let us help you navigate our insanely competitive marketplace.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/2020's+Busy+Real+Estate+Market+and+Multiple+Offer+Situations.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: qeao77QHICA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Let us help you navigate our insanely competitive marketplace.</em></p>
+*Let us help you navigate our insanely competitive marketplace.*
 
 Needless to say, ours has been a crazy busy real estate market.&nbsp;
 
