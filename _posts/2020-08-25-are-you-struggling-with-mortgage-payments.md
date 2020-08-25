@@ -39,4 +39,4 @@ These are some great points for people who have already started the process and 
 
 {% include pullquote.html %}
 
-If you’re looking at selling your home as your last option, reach out to us to learn more about our guaranteed sales program or if you have any other questions. We’re here to help you solve your problems and realize your dream.
+If you’re looking at selling your home as your last option, reach out to us to learn more about our <u><a target="_blank" rel="noopener" href="https://calgaryvideoblog.com/guaranteed-sale/">guaranteed sales program</a></u> or if you have any other questions. We’re here to help you solve your problems and realize your dream.
