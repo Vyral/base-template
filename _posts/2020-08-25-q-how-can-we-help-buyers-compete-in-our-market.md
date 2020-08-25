@@ -5,7 +5,7 @@ date: 2020-08-25 14:23:04
 tags:
   - Home Buyer Tips
   - Real Estate
-excerpt: Let us help you navigate our insanely competitive marketplace.
+<p style="text-align: center;"><em>excerpt: Let us help you navigate our insanely competitive marketplace.</em></p>
 enclosure:
 pullquote:
 enclosure_type: video/mp4
