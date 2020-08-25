@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can We Help Buyers Compete In Our Market?'
-date: 2020-08-25 14:23:04
+date: 2020-08-25 14:23:00
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -16,6 +16,8 @@ youtube_code: qeao77QHICA
 ---
 
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Needless to say, ours has been a crazy busy real estate market.&nbsp;
 
