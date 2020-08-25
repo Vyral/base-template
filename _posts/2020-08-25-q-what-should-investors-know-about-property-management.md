@@ -17,7 +17,7 @@ youtube_code: eP_PXIzzzHo
 
 {% include youtube.html %}
 
-If you’re thinking about becoming an investor, here’s where to put your money.
+<p style="text-align:center;">If you’re thinking about becoming an investor, here’s where to put your money.</p>
 
 If you’re thinking about investing in a rental property, there’s a really big issue you need to be aware of.&nbsp;
 
