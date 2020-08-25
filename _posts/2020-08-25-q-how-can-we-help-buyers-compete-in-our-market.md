@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can We Help Buyers Compete In Our Market?'
-date:
+date: 2020-08-25 14:23:04
 tags:
   - Home Buyer Tips
   - Real Estate
