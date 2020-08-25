@@ -18,7 +18,7 @@ youtube_code: qeao77QHICA
 
 {% include youtube.html %}
 
-*Let us help you navigate our insanely competitive marketplace.*
+<p style="text-align: center;"><em>*Let us help you navigate our insanely competitive marketplace.*</em></p>
 
 Needless to say, ours has been a crazy busy real estate market.&nbsp;
 
