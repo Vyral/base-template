@@ -21,11 +21,11 @@ youtube_code: tmcokXFMys8
 
 <center><em>If you&rsquo;re struggling with mortgage payments, we have information for you.</em></center>
 
-<br>Bob Reader of <u><a target="_blank" rel="noopener" href="https://canadianmortgagepro.com/">Canadian Mortgage Professionals</a></u> joins me today as my special guest. Believe it or not, he just completed his 10,000th mortgage, so he’s definitely a mortgage expert. I brought him on because last time, we talked about how crazy sales in our area are—but it’s not all rainbows for everybody. Some people are having a really hard time, so today we’ll discuss some options you have for deferring your mortgage and what the ramifications for doing so might be.
+<br>Bob Reader of <u><a target="_blank" rel="noopener" href="https://canadianmortgagepro.com/">Canadian Mortgage Professionals</a></u> joins me today as my special guest. Believe it or not, he just completed his 10,000th mortgage, so he’s definitely a mortgage expert. I brought him on because last time, we talked about how crazy sales in our area are—but it’s not all rainbows for everybody. Some people are having a really hard time, so today we’ll discuss some options you have for deferring your mortgage and what the ramifications of doing so might be.
 
 **Q: What options do those going through a hard time have?**
 
-The banks have been offering a deferred payment program for individuals who are struggling due to being laid or because their expenses are piling up and they just don’t have the money to make regular mortgage payments. If this is your situation, contact your lender immediately. Each case is handled individually, and each lender has their own program. They’ll take into consideration where each person is in terms of their income and establish a time frame for repayment, which could be anywhere from one to six months.
+The banks have been offering a deferred payment program for individuals who are struggling due to being laid off or because their expenses are piling up and they just don’t have the money to make regular mortgage payments. If this is your situation, contact your lender immediately. Each case is handled individually, and each lender has their own program. They’ll take into consideration where each person is in terms of their income and establish a time frame for repayment, which could be anywhere from one to six months.
 
 **Q: Is it true that the worst thing you can do would be to ignore the banks and do nothing?**
 
