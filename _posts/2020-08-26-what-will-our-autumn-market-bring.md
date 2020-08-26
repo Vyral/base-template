@@ -5,7 +5,8 @@ date: 2020-08-26 17:24:52
 tags:
   - Market Update
 excerpt: Here are several reasons why our strong market will continue through fall.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Porter+Ranch+Real+Estate-+What+Will+the+Market+Look+Like+in+Autumn_+with+captions.mp4
 pullquote: 'With rates fluctuating around 3% and under, buyers are out in full force.'
 enclosure_type: video/mp4
 enclosure_time:
