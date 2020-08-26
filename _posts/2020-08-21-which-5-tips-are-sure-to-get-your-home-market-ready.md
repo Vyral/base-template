@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here are five tips that will help you prep your home for the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Which+5+Tips+Are+Sure+to+Get+Your+Home+Market-Ready_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
