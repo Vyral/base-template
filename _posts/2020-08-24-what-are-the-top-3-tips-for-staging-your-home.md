@@ -6,13 +6,13 @@ tags:
   - Home Seller Tips
 excerpt: Here are three key tips to remember when staging your home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+3+Tips+To+Stage+Your+Home.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+staging+2.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3bAcPJjsKp8
+youtube_code: JLO9n2Rfqyc
 ---
 
 {% include youtube.html %}
