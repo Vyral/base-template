@@ -16,7 +16,7 @@ youtube_code: TVIEpXv6HBk
 
 {% include youtube.html %}
 
-Here are several reasons why our strong market will continue through fall.
+<p style="text-align: center;"><em>Here are several reasons why our strong market will continue through fall.</em></p>
 
 Typically, spring is the best time to sell fast in the San Fernando Valley, and that has a lot to do with better weather, a larger pool of buyers, and open houses galore. Obviously though, the outbreak of COVID-19 back in March changed everything; the real estate market got flipped upside down. We found that, in some senses, summer became the new spring busy season, as pent-up buyer demand got released into the market. So, what will fall look like this year?&nbsp;
 
