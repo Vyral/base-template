@@ -23,9 +23,9 @@ Picking the right neighborhood is almost as important as picking the right home.
 
 **1\. Crime rates.** These are a huge indicator of safety. One of the best ways to find these rates is to go to your local police or sheriff’s department website. Your Realtor should be able to provide data as well.
 
-**2\. Schools.** The better the schools, the better the neighborhood. Schools have a big impact on home values and resale factor. Many buyers are willing to pay a premium to be near a great school.
+**2\. Schools.** The better the schools, the better the neighborhood. Schools have a big impact on home values and resale potential. Many buyers are willing to pay a premium to be near a great school.
 
-**3\. Quality of life.** What kind of amenities are around the area? Are their major colleges, strip malls, hospitals?&nbsp;
+**3\. Quality of life.** What kind of amenities are around the area? Are their major colleges, strip malls, hospitals, etc.?&nbsp;
 
 **4\. Pride of ownership.** What do the other homes in the neighborhood look like? Are the yards well-maintained? Are there people out and active during the day?
 
