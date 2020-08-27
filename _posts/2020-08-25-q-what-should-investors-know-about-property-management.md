@@ -19,12 +19,10 @@ youtube_code: eP_PXIzzzHo
 
 <p style="text-align:center;"><em>If you’re thinking about becoming an investor, here’s where to put your money.</em></p>
 
-If you’re thinking about investing in a rental property, there’s a really big issue you need to be aware of.&nbsp;
+If you’re thinking about investing in a rental property, there's something important you should know first.&nbsp;
 
-For long-term investors, a single-family home is the ideal investment. A condo or townhome isn’t a bad choice, but they also come with extra HOA and maintenance fees that cut into your profit line.
-
-With a single-family home, there is almost 100 years of data that show the positive growth rate on the equity of a home over 20 years. **It’s by far the safest investment, but it’s not for everyone in every situation.**
+For long-term investors, a single-family home is the ideal investment. A condo or townhome isn’t a bad choice, but they also come with extra HOA and maintenance fees that cut into your profit line. With a single-family home, there are almost 100 years of data that show the positive growth rate on the equity of a home over 20 years. **It’s by far the safest investment, but it’s not for everyone in every situation.**
 
 {% include pullquote.html %}
 
-If you have any questions about property management, rental rates, or anything else, don’t hesitate to reach out via phone or email today. I’d love to have a conversation with you.
+If you have questions about property management, rental rates, or anything else, don’t hesitate to reach out via phone or email today. I’d love to have a conversation with you.
