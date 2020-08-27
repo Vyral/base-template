@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Can We Help Buyers Compete In Our Market?'
+title: 'Q: How Do We Give Buyers an Edge?'
 date: 2020-08-25 14:23:00
 tags:
   - Home Buyer Tips
@@ -18,7 +18,7 @@ youtube_code: qeao77QHICA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Let us help you navigate our insanely competitive marketplace.</em></p>
+*Let us help you navigate our insanely competitive marketplace.*
 
 Needless to say, ours has been a crazy busy real estate market.&nbsp;
 
