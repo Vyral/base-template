@@ -18,13 +18,13 @@ youtube_code: qeao77QHICA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>*Let us help you navigate our insanely competitive marketplace.*</em></p>
+*Let us help you navigate our insanely competitive marketplace.*
 
 Needless to say, ours has been a crazy busy real estate market.&nbsp;
 
 If you’re a buyer, believe me, **we understand your frustration about losing out in multiple-offer situations**, even on properties where your offered price was anywhere from $5,000 to $20,000 over list price.&nbsp;
 
-If you’re looking for something specific, reach out to our team and let us know what price point you’re looking at. We can give you a heads up in the marketplace when a home that matches your criteria crops up to make your life a bit easier.
+If you’re looking for something specific, reach out to our team and let us know what price point you’re looking at. We can give you a heads up when a home that matches your criteria crops up to make your life a bit easier.
 
 **Speak to a lender before looking at homes or attending open houses** if you haven’t been pre-approved for a mortgage yet and you don’t have a pre-qualification letter.
 
