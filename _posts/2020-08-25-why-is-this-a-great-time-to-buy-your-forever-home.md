@@ -29,8 +29,8 @@ youtube_code: t8HkCaXEQ4s
 
 4:35 — How our team is helping our sellers win big in negotiations
 
-5:15 — Where are interest rates at right now and where are they headed?
+5:15 — Where are interest rates right now, and where are they headed?
 
 6:05 — Wrapping things up
 
-If you have any questions for Amber about loans, interest rates, or anything else related to mortgages, give her a call at (480) 420-4911. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
+If you have questions for Amber about loans, interest rates, or anything else related to mortgages, give her a call at (480) 420-4911. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
