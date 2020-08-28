@@ -18,7 +18,7 @@ youtube_code: zL3_Q4AXlms
 
 {% include youtube.html %}
 
-These two types of insurance will protect you greatly when buying a home.
+<p style="text-align: center;"><em>These two types of insurance will protect you greatly when buying a home.</em></p>
 
 Having insurance means if something costly happens, you won’t have to pay the entire amount to fix the issue. These are the two most vital types of insurance you need to have when buying a home:
 
