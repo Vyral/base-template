@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'If you’re struggling with mortgage payments, we have information for you.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/Are+You+Struggling+With+Mortgage+Payments_.mp4
 pullquote: >-
   Your bank needs to be informed as soon as possible if you have trouble making
   your payments or anticipate that you will.
