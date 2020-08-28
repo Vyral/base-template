@@ -4,7 +4,6 @@ title: Are You Struggling With Mortgage Payments?
 date: 2020-08-25 00:00:00
 tags:
   - Real Estate
-  - Home Buyer Tips
 excerpt: 'If you’re struggling with mortgage payments, we have information for you.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/Are+You+Struggling+With+Mortgage+Payments_.mp4
