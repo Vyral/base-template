@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/kpIZ96iEJ7E'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today we’ll discuss tips to help you write an offer on a bank-owned property.</em></p>
+
 In the last installment of our series on writing strong offers, we focused on how to find out more about a seller’s primary motivations to sell. However, there’s another unique situation you need to know about where those tips won’t apply. When you make an offer on a bank-owned property, there are no emotions involved. Instead, you’re simply dealing with institutions, systems, guidelines, and numbers. Today I’ll share three tips on writing an offer that the bank will find acceptable.
 
 **1\. Don’t make a lowball offer.** The asset manager in charge of selling the house has a certain range around the list price that they’ll find acceptable—usually around 5%. If you write an offer at a really low price, you might end up having to wait another 30 days to see if they’ve lowered the asking price and then offer something less.
