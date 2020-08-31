@@ -29,8 +29,8 @@ In the last installment of our series on writing strong offers, we focused on ho
 
 **2\. Follow the bank’s instructions.** When dealing with a bank-owned property, simply follow the instructions they provide to you. That bank likely has multiple assets across the country, and they use a set system to sell off their assets, which they won’t change for interpersonal reasons.&nbsp;
 
-You may be asked to show your proof of funds or a copy of your earnest money check. They may ask you to use a specific title company, or waive disclosures regarding the history of the property’s insurance claims. And you may be asked to execute an addendum from the bank. If you’re asked to do any of these things, they will be non-negotiable, as they’re set guidelines. The best thing for you to do is to focus solely on the price.
+You may be asked to show your proof of funds or a copy of your earnest money check. They may ask you to use a specific title company, or waive disclosures regarding the history of the property’s insurance claims. You may also be asked to execute an addendum from the bank. If you’re asked to do any of these things, they will be non-negotiable, as they’re set guidelines. The best thing for you to do is to focus solely on the price.
 
-**3\. Do not ask the bank to make repairs.** Simply consider the condition of the property and adjust your offer accordingly so that you can have enough spread to make the repairs yourself after the closing. The bank doesn’t want the risk of putting extra money into the property prior to closing.
+**3\. Do not ask the bank to make repairs.** Simply consider the condition of the property and adjust your offer accordingly so that you can have enough available to make the repairs yourself after the closing. The bank doesn’t want the risk of putting extra money into the property prior to closing.
 
 There are many other things to consider when it comes to working with bank-owned properties, but these are just a few tips to keep in mind. If you’re interested in purchasing foreclosures, distressed properties, or bank-owned properties, just reach out and give me a call or send an email. I’d be happy to help.
