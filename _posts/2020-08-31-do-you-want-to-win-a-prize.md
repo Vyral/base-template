@@ -16,7 +16,7 @@ youtube_code: fVs8QQZ6fzc
 ---
 
 {% include youtube.html %}
-
+ 
 <p style="text-align: center;"><em>Enter one of our two current contests for the chance to win stellar prizes!</em></p>
 
 We have two contests happening right now\!
