@@ -22,7 +22,7 @@ youtube_code: 7_sDLh1r-Ug
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>*I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.*</em></p>
+*\*I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.\**
 
 We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. However, there’s more intent behind it than just marketing to appeal to buyers.
 
@@ -34,6 +34,6 @@ Part of the stress comes from the fact that, after the seller has negotiated eve
 
 We explain to our sellers that **we want to put them in the driver’s seat** of this part of the process. With our certified pre-owned program, your home will be fully vetted, which allows you to choose what repairs you’ll take care of and know the cost of those items. That way, when you’re negotiating the sale price, you can have that in mind instead of having to take care of thousands of dollars in surprise repairs after you already thought your home was sold.&nbsp;
 
-**We’re also offering a 13-month home warranty to help repair or replace any issues found** with a seller’s major systems—home warranties usually last for 12 months, so you’ll get a bonus month from us\!
+**Our Certified Pre-Owned Home program also includes a 13-month home warranty through Home Warranty of America to help repair or replace any issues found**&nbsp;with a seller’s major systems—home warranties usually last for 12 months, so you’ll get a bonus month from HWA\!
 
 If you have any questions about our certified pre-owned program, don’t hesitate to reach out to us. We’d love to give you more information and help you take charge of your home sale.
