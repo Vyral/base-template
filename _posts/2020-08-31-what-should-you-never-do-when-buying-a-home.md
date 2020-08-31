@@ -17,7 +17,7 @@ youtube_code: K4CGbjzFpdA
 
 {% include youtube.html %}
 
-Avoid these six buyer mistakes to ensure your home purchase goes smoothly.
+<p style="text-align: center;"><em>Avoid these six buyer mistakes to ensure your home purchase goes smoothly.</em></p>
 
 What should you never, ever do when buying a home? In 19 years of helping people buy and sell houses, you start to see patterns; when people make mistakes in the purchase process, it can cost them a lot, both emotionally and financially. Here are six mistakes to avoid when buying a home:
 
