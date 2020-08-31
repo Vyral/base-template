@@ -4,8 +4,9 @@ title: How Do You Plan a “Call in to Win Day”?
 date: 2020-08-21 00:00:00
 tags:
   - Lead Generation
-excerpt: 'By planning a “Call in to Win Day,” you can get people to call you'
-enclosure:
+excerpt: 'By planning a “Call in to Win Day,” you can get people to call you.'
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/How+Do+You+Plan+a+Call+in+to+Win+Day_.mp4
 pullquote: >-
   You first need a goal, a plan, and a big enough giveaway to inspire people to
   want to call you.
