@@ -21,7 +21,7 @@ youtube_code: fVs8QQZ6fzc
 
 We have two contests happening right now\!
 
-First, if you have a wig at your house, put it on, andthe first 10 people to text us with a of photo of themselves in it at (704) 724-3418 will win a $25 gift card to either BP, Amazon, or Target.&nbsp;
+First, if you have a wig at your house, put it on, and the first 10 people to text us with a of photo of themselves in it at (704) 724-3418 will win a $25 gift card to either BP, Amazon, or Target.&nbsp;
 
 The second is a referral contest. **The first three people who send a referral to our team at refercree.com will receive an excellent prize.** However, we’re keeping the prize a secret\! If you know someone who is looking to buy or sell real estate in our area, please send us that referral.
 
