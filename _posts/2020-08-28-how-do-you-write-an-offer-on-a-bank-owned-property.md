@@ -33,4 +33,4 @@ You may be asked to show your proof of funds or a copy of your earnest money che
 
 **3\. Do not ask the bank to make repairs.** Simply consider the condition of the property and adjust your offer accordingly so that you can have enough available to make the repairs yourself after the closing. The bank doesn’t want the risk of putting extra money into the property prior to closing.
 
-There are many other things to consider when it comes to working with bank-owned properties, but these are just a few tips to keep in mind. If you’re interested in purchasing foreclosures, distressed properties, or bank-owned properties, just reach out and give me a call or send an email. I’d be happy to help.
+There are many other things to consider when it comes to working with bank-owned properties, but these are just a few tips to keep in mind. If you’re interested in purchasing foreclosures, distressed properties, or bank-owned properties, just give me a call or send an email. I’d be happy to help.
