@@ -17,7 +17,7 @@ youtube_code: 8GCuxEOjx0A
 
 {% include youtube.html %}
 
-There are three different real estate models, so which is best for you?
+<p style="text-align: center;"><em>There are three different real estate models, so which is best for you?</em></p>
 
 If you’re thinking about getting into real estate or making a change, there are three models you should consider: the traditional brokerage, a teamerage, and a highly specialized team. **None of them are better than the others, they’re just different.** The job of helping people buy or sell property has been around since the middle ages, but the first real estate team was only documented in 1991, and team models have since developed over the past 20 years.&nbsp;
 
