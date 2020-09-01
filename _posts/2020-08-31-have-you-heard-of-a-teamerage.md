@@ -6,13 +6,13 @@ tags:
   - Business Model
 excerpt: 'There are three different real estate models, so which is best for you?'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+What+is+a+Teamerage_!.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent-+teamerage.mp4
 pullquote: You have to assess which model is the best fit for you.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8GCuxEOjx0A
+youtube_code: 2bInHcDh1AA
 ---
 
 {% include youtube.html %}
@@ -33,6 +33,6 @@ My highly specialized team is part of a brokerage. This proves there are combina
 
 Don’t forget about reputation; there’s nothing more important than reputation in this industry—it goes a long way. As you’re interviewing, look for references and ask questions. Questions I encourage you to ask are: What is the documented take-home pay, and can you show that to me? What support are you providing, and can you show that to me?&nbsp;
 
-**Once you have all these things lined up you can do an apples to apples comparison** to determine which model is the best choice for you.&nbsp;
+**Once you have all these things lined up you can do an apples-to-apples comparison** to determine which model is the best choice for you.&nbsp;
 
 If you have any questions about our real estate team or brokerage, no question is a silly one. We’d be glad to have a conversation with you, just reach out to us via phone or email.
