@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: Enter one of our two current contests for the chance to win stellar prizes!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2020/Dan+Jones+Home+Selling+Team-+2+Contests.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dan+Jones/2020/Dan+Jones+Home+Selling+Team-+2+contests.mp4
 pullquote: Win a $25 gift card or a secret prize!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: fVs8QQZ6fzc
+youtube_code: odIF_V6U9Y4
 ---
 
 {% include youtube.html %}
