@@ -17,7 +17,7 @@ youtube_code: yc42EMWOEaw
 
 {% include youtube.html %}
 
-How is our market doing during the pandemic? Here’s a quick update.
+<p style="text-align: center;"><em>How is our market doing during the pandemic? Here’s a quick update.</em></p>
 
 Overall, the market is doing very well—it’s actually very hot right now. If you’re thinking about selling your home, for goodness sake, reach out to me\! As quickly as homes are hitting the market, they’re being snatched up by eager buyers, and often with multiple offers on the ones that are priced appropriately. I recently put a house on the market at about 2 p.m. and by 4 p.m., it had a full-price offer on it. Sellers: don’t drag your feet in this market\! Interest rates are very low, which means that **there are hordes of buyers in the market hunting for homes.**
 
