@@ -19,7 +19,7 @@ youtube_code: kWxtmwBXjVk
 
 <p style="text-align: center;"><em>Freon is being phased out of the HVAC industry; what does this mean for us?</em></p>
 
-Three to five years ago we began to discuss the phasing out of freon in the HVAC industry. Today, Travis Zimmerman and I are discussing this topic in more detail. We’re exploring the implications of this, the cost to homeowners, whether or not to update your system, and more.
+Three to five years ago people began discussing the phasing out of freon in the HVAC industry. Today, Travis Zimmerman and I are discussing this topic in more detail. We’re exploring the implications of this, the cost to homeowners, whether or not to update your system, and more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:&nbsp;**
 
