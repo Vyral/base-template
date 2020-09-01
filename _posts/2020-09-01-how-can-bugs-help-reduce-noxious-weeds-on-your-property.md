@@ -19,7 +19,7 @@ youtube_code: _buQl6-mZYI
 
 {% include youtube.html %}
 
-Here’s how you can use bugs to get rid of noxious weeds on your property.
+<p style="text-align: center;"><em>Here’s how you can use bugs to get rid of noxious weeds on your property.</em></p>
 
 If you have noxious weeds on your property that you’d like to get rid of, I know of a solution that gives pest control a new meaning.&nbsp;
 
