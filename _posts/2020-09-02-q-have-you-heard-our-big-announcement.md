@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Heard Our Big Announcement?'
-date:
+date: 2020-09-02 14:52:51
 tags:
 excerpt: Today’s announcement is fantastic news for homebuyers.
 enclosure:
