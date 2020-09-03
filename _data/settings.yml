@@ -57,11 +57,11 @@ lender:
   header_text: 
   headshot_path: /img/Arielle.jpg
   logo_path: /img/attorney.jpg
-  logo_path_2: /img/attorneyinfo.png
-  name: 
-  brand: 
-  phone: 
-  email: 
+  logo_path_2: 
+  name: Arielle Cecala 
+  brand: LLC 980 Washington St., Suite 123 Dedham, MA 02026
+  phone: T 781.251.0540 F 781.251.0541 
+  email: acecala@crowleycummings.com
   url: 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
