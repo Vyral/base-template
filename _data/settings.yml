@@ -57,7 +57,7 @@ lender:
   header_text: Preferred Lender
   headshot_path: /img/Arielle.jpg
   logo_path: /img/attorney.png
-  logo_path_2:
+  logo_path_2: /img/attorneyinfo.png
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
