@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: Are There Enough Homes to Go Around in Our Market?'
-date: 2020-09-03 18:03:35
+date: 2020-09-03 18:03:00
 tags:
+  - Market Update
 excerpt: 'Inventory is low in our market, but buyers are still buying.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Q-+Are+There+Enough+Homes+to+Go+Around+in+Our+Market_.mp4
@@ -16,7 +17,7 @@ youtube_code: cVXqWSYrFXc
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Inventory is low in our market, but buyers are still buying.</em></p>
+*Inventory is low in our market, but buyers are still buying.*
 
 In addition to the latest market update from our Louisville/Southern Indiana area, today I’ll provide a highlight reel from a recent visit I took to the restaurant bringing a taste of New York City to the Midwest.&nbsp;
 
