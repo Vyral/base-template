@@ -7,7 +7,7 @@ tags:
 excerpt: How is our market doing during the pandemic? Here’s a quick update.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden-+Market+Update.mp4
-pullquote: 'Sellers: don’t drag your feet in this market!'
+pullquote: 'Sellers: Don’t drag your feet in this market!'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,18 +19,17 @@ youtube_code: yc42EMWOEaw
 
 <p style="text-align: center;"><em>How is our market doing during the pandemic? Here’s a quick update.</em></p>
 
-Overall, the market is doing very well—it’s actually very hot right now. If you’re thinking about selling your home, for goodness sake, reach out to me\! As quickly as homes are hitting the market, they’re being snatched up by eager buyers, and often with multiple offers on the ones that are priced appropriately. I recently put a house on the market at about 2 p.m. and by 4 p.m., it had a full-price offer on it. Sellers: don’t drag your feet in this market\! Interest rates are very low, which means that **there are hordes of buyers in the market hunting for homes.**
+Overall, the market is actually very hot right now. If you’re thinking about selling your home, for goodness sake, reach out to me\! As quickly as homes are hitting the market, they’re being snatched up by eager buyers, and often with multiple offers on the ones that are priced appropriately. I recently put a house on the market at about 2 p.m., and by 4 p.m., it had a full-price offer on it. Sellers: Don’t drag your feet in this market\! Interest rates are very low, which means that **there are hordes of buyers in the market hunting for homes.**
 
 Here are a few statistics from our market:
 
 * Active Listings: 988
 * Under Contract: 57
 * Inventory: 1.7 months of supply
-
-{% include pullquote.html %}
-
 * Average Sold Price: $397,899 (on average, sellers get around 98.6% of their list price)
 * Average Days on Market: 43 days
+
+{% include pullquote.html %}
 
 These are historic numbers for our market. There isn’t much room for negotiation, either—**the offers that are landing are full-price offers** (or close to it).
 
