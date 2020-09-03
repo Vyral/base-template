@@ -23,9 +23,9 @@ What should you never, ever do when buying a home? In 19 years of helping people
 
 **1\. Don’t shop for homes without an agent.** In Pennsylvania, you’re entitled to a buyer’s agent, and that wasn’t always the case. Interview a couple of real estate agents and choose one you connect with who can be your advocate throughout the process.
 
-**2\. Don’t meet with just one mortgage lender.** Just as you’re interviewing a few agents, also interview a couple of lenders. Different lenders will have different programs and rates. Find one you can trust that will sit down with you, explain things, and answer all your questions.&nbsp;
+**2\. Don’t meet with just one mortgage lender.** Just as you’re interviewing a few agents, also interview a couple of lenders. Different lenders will have different programs and rates. Find one you can trust who will sit down with you, explain things, and answer all your questions.&nbsp;
 
-**3\. Don’t under or overstate your budget.** Understating your budget could keep houses off your radar that you may love, and overstating could make you house poor. It’s incredibly stressful to be locked into a 30-year mortgage that isn’t truly affordable for you.
+**3\. Don’t under or overstate your budget.** Understating your budget could keep houses that you may love off your radar, and overstating could make you house poor. It’s incredibly stressful to be locked into a 30-year mortgage that isn’t truly affordable for you.
 
 {% include pullquote.html %}
 
