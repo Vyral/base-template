@@ -53,10 +53,10 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: 'http://www.lioceteam.com/search/criteria/gp_1/s_2'
 lender:
-  show_section: false
+  show_section: true
   header_text: Preferred Lender
-  headshot_path: 'http://fillmurray.com/200/200'
-  logo_path: /img/logo.png
+  headshot_path: /img/Arielle.jpg
+  logo_path: /img/attorney.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
