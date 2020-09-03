@@ -54,15 +54,15 @@ second_sidebar_CTA:
     CTA_url2: 'http://www.lioceteam.com/search/criteria/gp_1/s_2'
 lender:
   show_section: true
-  header_text: Preferred Lender
+  header_text: 
   headshot_path: /img/Arielle.jpg
   logo_path: /img/attorney.png
   logo_path_2: /img/attorneyinfo.png
-  name: Bill Murray
-  brand: Lender Co.
-  phone: 555-555-5555
-  email: bill@murray.com
-  url: 'http://eyegoop.com'
+  name: 
+  brand: 
+  phone: 
+  email: 
+  url: 
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
