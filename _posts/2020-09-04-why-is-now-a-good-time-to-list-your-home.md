@@ -19,7 +19,7 @@ youtube_code: t4MH8QpBB3c
 
 {% include youtube.html %}
 
-Now is a great time to list your home—here are three reasons why.
+<p style="text-align: center;"><em>Now is a great time to list your home—here are three reasons why.</em></p>
 
 Today we brought on three agents who want to give you some great tips about why now is the time to list your home.
 
