@@ -17,7 +17,7 @@ youtube_code: cVXqWSYrFXc
 
 {% include youtube.html %}
 
-*Inventory is low in our market, but buyers are still buying.*
+<p style="text-align: center;"><em>Inventory is low in our market, but buyers are still buying.</em></p>
 
 In addition to the latest market update from our Louisville/Southern Indiana area, today I’ll provide a highlight reel from a recent visit I took to the restaurant bringing a taste of New York City to the Midwest.&nbsp;
 
