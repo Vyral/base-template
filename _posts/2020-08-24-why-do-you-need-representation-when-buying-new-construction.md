@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'If you’re thinking of buying new construction, you need to hire an agent.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Why+Do+You+Need+Representation+When+Buying+New+Construction_.mp4
 pullquote: Having representation when building a new home doesn’t cost you anything.
 enclosure_type: video/mp4
 enclosure_time:
