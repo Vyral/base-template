@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   I recently appeared on a talk radio show with Heather Burnside to discuss our
   certified pre-owned program for sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Sellers-+Take+Advantage+of+Our+Certified+Pre-Owned+Program.mp4
 pullquote: >-
   With our certified pre-owned program, your home will be fully vetted, which
   allows you to choose what repairs you’ll take care of and know the cost of
@@ -22,7 +23,7 @@ youtube_code: 7_sDLh1r-Ug
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.</em></p>
+*I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.*
 
 We’ve been doing the **certified pre-owned program** for several years now, and it is a great marketing feature for our sellers. However, there’s more intent behind it than just marketing to appeal to buyers.
 
