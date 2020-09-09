@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Now is a great time to list your home—here are three reasons why.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+Why+Now+Is+the+Time+To+List.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+best+time+to+list+2.mp4
 pullquote: >-
   If you get your home in excellent condition and list it with Healthy Realty,
   we’ll help you get it sold quickly.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: t4MH8QpBB3c
+youtube_code: N9jqVSTQGEE
 ---
 
 {% include youtube.html %}
