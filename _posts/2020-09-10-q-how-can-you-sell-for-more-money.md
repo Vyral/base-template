@@ -17,6 +17,8 @@ youtube_code: bZQ9KzFMEek
 {% include youtube.html %}
 
 <center><em>Here are three tricks to help you sell for more in today’s market.</em></center>
+
+&nbsp;
 &nbsp;
 If you want to sell your house for more money in today’s market, here are the three tricks you must remember:
 
