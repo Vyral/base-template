@@ -16,8 +16,8 @@ youtube_code: bZQ9KzFMEek
 
 {% include youtube.html %}
 
-\*Here are three tricks to help you sell for more in today’s market. \*
-
+<center><em>Here are three tricks to help you sell for more in today’s market.</em></center>
+&nbsp;
 If you want to sell your house for more money in today’s market, here are the three tricks you must remember:
 
 **1\. Outreach.** You need to have an aggressive outreach program because most agents work in bands, both geographically and in terms of price point. Your goal should be to make every agent with a pre-qualified buyer and every buyer in your price range know about your house. Greater exposure creates more demand.&nbsp;
