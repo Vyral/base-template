@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Sell For More Money?'
-date: 2020-09-10 18:02:18
+date: 2020-09-10 00:00:00
 tags:
 excerpt: Here are three tricks to help you sell for more in today’s market.
 enclosure: >-
@@ -16,7 +16,7 @@ youtube_code: bZQ9KzFMEek
 
 {% include youtube.html %}
 
-*Here are three tricks to help you sell for more in today’s market. *
+\*Here are three tricks to help you sell for more in today’s market. \*
 
 If you want to sell your house for more money in today’s market, here are the three tricks you must remember:
 
