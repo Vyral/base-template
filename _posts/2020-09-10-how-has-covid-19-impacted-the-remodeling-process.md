@@ -19,7 +19,7 @@ youtube_code: MKWG8gSCbOc
 
 {% include youtube.html %}
 
-Here’s how COVID-19 is impacting people’s remodeling plans.
+<p style="text-align: center;"><em>Here’s how COVID-19 is impacting people’s remodeling plans.</em></p>
 
 Ever since COVID-19 forced people to shelter in place near the end of March, many homeowners who weren’t looking to buy a new home decided to make changes to their current one. They want to make these changes for the same reasons buyers want to buy—they want more elbow room, more space for their kids to do their schooling at home, etc.&nbsp;
 
