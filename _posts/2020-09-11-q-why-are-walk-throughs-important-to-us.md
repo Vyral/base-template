@@ -17,7 +17,7 @@ youtube_code: WRFfzPfOGms
 
 {% include youtube.html %}
 
-Here’s why we offer a “Walk-Through Guarantee” to all of our clients.
+<p style="text-align:center;">Here’s why we offer a “Walk-Through Guarantee” to all of our clients.</p>
 
 When we talk about “walk-throughs,” we’re talking about the home tours we take of the properties we manage in order to observe any damage.&nbsp;
 
