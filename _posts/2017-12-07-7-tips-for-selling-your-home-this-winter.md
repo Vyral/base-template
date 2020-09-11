@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 7 Tips for Selling Your Home This Winter
-date: 2017-12-07 10:54:30
+date: 2017-12-07 10:54:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -13,10 +13,9 @@ pullquote: Make sure your driveway and walkways are clear of ice and snow.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/selling-in-winter-youtube.jpg
+youtube_alternate_image: /uploads/Josh Lioce SS - showing during winter.jpg
 youtube_code: XyA_KXOc_60
 ---
-
 
 {% include youtube.html %}
 {: .present-before-paste}
@@ -48,5 +47,5 @@ If you are selling your home in the fall and winter, there are a few things you 
 **7) Light up the home.** Make sure your home is well-lit, especially if you have a showing after the sun goes down. Turn on all of the lights so that people can see the front door. Don’t leave buyers and agents fumbling for the light switch. Let them see a warm, inviting home while it’s dark outside.
 {: .present-before-paste}
 
-If you have any other questions about putting your home on the market this time of year, just give me a call or send me an email. I would be happy to help you!
+If you have any other questions about putting your home on the market this time of year, just give me a call or send me an email. I would be happy to help you\!
 {: .present-before-paste}
