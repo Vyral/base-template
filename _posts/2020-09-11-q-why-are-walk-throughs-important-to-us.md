@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/walkthrough2-yt-duke-kimhan.jpg
-youtube_code: WRFfzPfOGms
+youtube_code: nXUs85g5utY
 ---
 
 {% include youtube.html %}
