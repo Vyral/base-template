@@ -9,7 +9,7 @@ permalink: /tip-of-the-week/
     <h3>PM Tip of the Week 09-12-20</h3>
     <div class="testimonial-audio">
         <p>Listen Here:</p>
-        <audio class="jp-player-simple" src="/uploads/audio/07-25-2020.mp3" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
+        <audio class="jp-player-simple" src="/uploads/audioPM Tip of the Week 09-12-2020.mp3" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
     </div>
   </div>
 </div>
@@ -21,7 +21,7 @@ permalink: /tip-of-the-week/
     <h3>PM Tip of the Week 09-05-20</h3>
     <div class="testimonial-audio">
         <p>Listen Here:</p>
-        <audio class="jp-player-simple" src="/uploads/audio/07-25-2020.mp3" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
+        <audio class="jp-player-simple" src="/uploads/audio/PM Tip of the Week 09-05-2020 (1).mp3" preload="auto">Your browser does not support HTML5 audio, please <a href="http://browsehappy.com/">update your browser.</a></audio>
     </div>
   </div>
 </div>
