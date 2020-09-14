@@ -18,7 +18,7 @@ custom_links:
 client:
   name: Kristin Jamieson
   license_number:
-  about_markdown: >
+  about_markdown: >-
     Success Mortgage Partners, Inc. is dedicated to the highest levels of
     customer service. We take mortgage compliance seriously.
 
@@ -32,7 +32,7 @@ client:
   brand: Success Mortgage Partners
   license_number2: 'NMLS #130562'
   brokerage:
-  address: '16903 Lakeside Dr. Unit #6<br>Montverde, FL 34756'
+  address: '16903 Lakeside Dr. Ste 1<br>Montverde, FL 34756'
   phone: 352-242-1535
   phone_type:
   phone2:
