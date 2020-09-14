@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/08-21-colemere-youtube.jpg
-youtube_code: MLkYCV0MGHs
+youtube_code: _kPq8iLUZQQ
 ---
 
 {% include youtube.html %}
