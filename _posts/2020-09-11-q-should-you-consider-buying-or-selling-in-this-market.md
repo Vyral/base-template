@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Consider Buying or Selling in This Market?'
-date: 2020-09-11 19:54:18
+date: 2020-09-11 19:54:00
 tags:
 excerpt: Here’s why both buyers and sellers should be excited about our market.
 enclosure: >-
@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: i3kUpX_RovM
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why both buyers and sellers should be excited about our market.</em></p>
+*Here’s why both buyers and sellers should be excited about our market.*
 
 When you hear agents say “It’s a great time to buy and sell” you’re probably wondering, which is it really? How can the market be good for buyers and sellers at the same time? **Here are some numbers that prove why our unique market conditions truly make this a market where you have advantages as a seller and a buyer.**
 
