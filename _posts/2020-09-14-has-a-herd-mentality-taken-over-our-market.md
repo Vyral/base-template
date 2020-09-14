@@ -19,7 +19,7 @@ youtube_code: H475atINfRU
 
 {% include youtube.html %}
 
-Here’s how the herd mentality has affected our real estate market.
+<p style="text-align: center;"><em>Here’s how the herd mentality has affected our real estate market.</em></p>
 
 Summer is almost over, and it didn’t even feel like much of a summer due to COVID-19. However, the real estate market is the busiest I’ve seen in 30 years. Buyers are coming out in droves and paying over list price for homes (depending on the price point).
 
