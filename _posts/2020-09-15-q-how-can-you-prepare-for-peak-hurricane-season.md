@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Prepare for Peak Hurricane Season?'
-date: 2020-09-15 16:13:19
+date: 2020-09-15 16:13:00
 tags:
 excerpt: You can never be too prepared for hurricane season; check out these reminders.
 enclosure: >-
@@ -20,10 +20,9 @@ youtube_code: JY3hR9tbJps
 
 <center><em>You can never be too prepared for hurricane season; check out these reminders.&nbsp;</em></center>
 
-
 &nbsp;
 
-Hurricane season in the Carolinas is no joke, and over the past few years we’ve had our fair share of serious threats. **Hurricane officially lasts from June through November, but its peak lasts from August through October.&nbsp;**
+Hurricane season in the Carolinas is no joke, and over the past few years we’ve had our fair share of serious threats. **Hurricane season officially lasts from June through November, but its peak lasts from August through October.&nbsp;**
 
 Our first tip is to review your local area’s evacuation plan; follow your favorite local news channel on Facebook to get live updates on dangerous incoming weather.&nbsp;
 
