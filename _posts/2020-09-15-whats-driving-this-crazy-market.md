@@ -17,7 +17,7 @@ youtube_code: '-XpAWMbAPTw'
 
 {% include youtube.html %}
 
-Homebuyers are coming to St. George in droves right now.
+<p style="text-align: center;"><em>Homebuyers are coming to St. George in droves right now.</em></p>
 
 Gender-reveal wildfires, murder hornets, and a booming real estate market—what a year. I’m out today at the Desert Flower subdivision, where we have seven homes going up all at once. Although it feels like everything 2020 has thrown at us is out of control, what’s even more out of control is our market in St. George.
 
