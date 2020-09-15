@@ -3,6 +3,8 @@ layout: post
 title: 'Q: Should You Consider Buying or Selling in This Market?'
 date: 2020-09-11 19:54:00
 tags:
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Here’s why both buyers and sellers should be excited about our market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/Good+time+to+buy+and+sell.mp4
@@ -16,9 +18,9 @@ youtube_code: i3kUpX_RovM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why both buyers and sellers should be excited about our market.</em></p>
+*Here’s why both buyers and sellers should be excited about our market.*
 
-When you hear agents say “It’s a great time to buy and sell” you’re probably wondering, which is it really? How can the market be good for buyers and sellers at the same time? **Here are some numbers that prove why our unique market conditions truly make this a market where you have advantages as a seller and a buyer.**
+When you hear agents say, “It’s a great time to buy and sell,” you’re probably wondering, which is it really? How can the market be good for buyers and sellers at the same time? **Here are some numbers that prove why our unique market conditions truly make this a market where you have advantages as a seller and a buyer.**
 
 Why is it a good time to sell? For starters, prices are as high as they’ve been in a long time. In Athens/Clarke County, the average sale price of $263,000 is up $15,000 from where it was in 2019. Back in 2014, the average sale price was $173,000. **We’re up $90,000 from that point.**
 
