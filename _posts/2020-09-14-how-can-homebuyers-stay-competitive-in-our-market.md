@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can Homebuyers Stay Competitive In Our Market?
+title: How Can Homebuyers Stay Competitive in Our Market?
 date: 2020-09-14 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/08-21-colemere-youtube.jpg
+youtube_alternate_image: /uploads/08-21-colemere-youtube-1.jpg
 youtube_code: _kPq8iLUZQQ
 ---
 
@@ -33,4 +33,4 @@ youtube_code: _kPq8iLUZQQ
 
 **5\. Make sure your lender is ready to contact the seller’s agent early** so they can present the pre-qualification letter with the offer before it’s accepted. If the lender contacts the seller’s agent as you submit the offer, that will make your offer stronger, since it will tell the seller that you’re ready to go and willing to move the transaction along without hassle.
 
-If you have any questions about this or any other topic, reach out to your Colemere Realty associate. We’d be happy to help.
+If you have questions about this or any other topic, reach out to your Colemere Realty associate. We’d be happy to help.
