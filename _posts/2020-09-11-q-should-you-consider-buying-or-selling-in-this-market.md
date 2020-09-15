@@ -18,7 +18,7 @@ youtube_code: i3kUpX_RovM
 
 {% include youtube.html %}
 
-*Here’s why both buyers and sellers should be excited about our market.*
+<p style="text-align: center;"><em>Here’s why both buyers and sellers should be excited about our market.</em></p>
 
 When you hear agents say, “It’s a great time to buy and sell,” you’re probably wondering, which is it really? How can the market be good for buyers and sellers at the same time? **Here are some numbers that prove why our unique market conditions truly make this a market where you have advantages as a seller and a buyer.**
 
