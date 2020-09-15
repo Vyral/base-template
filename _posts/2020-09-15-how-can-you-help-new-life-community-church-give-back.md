@@ -6,7 +6,7 @@ tags:
   - Brand Ambassador
 excerpt: New Life Community Church is offering two ways to give back to the community.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+What+are+Two+Easy+Ways+You+Can+Make+an+Impact+on+Our+Community_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+community+2.mp4
 pullquote: >-
   In the decade I’ve known Ryan, New Life Community Church has helped a lot of
   people in our community.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: O3xbTIFfbTs
+youtube_code: j3s-8OWu-Yw
 ---
 
 {% include youtube.html %}
