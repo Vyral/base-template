@@ -17,7 +17,7 @@ youtube_code: uCzWqpfnIqs
 
 {% include youtube.html %}
 
-Here’s my latest full conversation with my good friend Travis Zimmerman.
+<p style="text-align: center;"><em>Here’s my latest full conversation with my good friend Travis Zimmerman.</em></p>
 
 I recently had the opportunity to sit down with Travis Zimmerman of Blank Insurance to talk about several different topics.&nbsp;
 
