@@ -21,7 +21,7 @@ youtube_code: nXUs85g5utY
 
 When we talk about “walk-throughs,” we’re talking about the home tours we take of the properties we manage in order to observe any damage.&nbsp;
 
-**If you’re an owner working with us,** we’ll do a walk-through before the property is occupied, another walk-through once the tenant moves in, and another mandatory walk-through either four or six months after they move in.&nbsp;
+**If you're working with us,** we'll do a walk-through before the property is occupied, another once the tenant moves in, and another mandatory one either four or six months after they move into the house.&nbsp;
 
 {% include pullquote.html %}
 
