@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/_-g6OnKdQzs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some things everyone should know about VA loans.</em></p>
+
 I’ve discovered that VA loans are still a big mystery to many Veterans, but they shouldn’t be. Here are a few little-known facts about your VA benefits:
 
 **1\. Your VA rating matters.** For those of you who do have a 10% or above VA rating, the government will waive the 10% finance fee that they normally charge to process your VA loan.
