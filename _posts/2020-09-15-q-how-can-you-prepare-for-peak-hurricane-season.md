@@ -18,7 +18,8 @@ youtube_code: JY3hR9tbJps
 
 {% include youtube.html %}
 
-*You can never be too prepared for hurricane season; check out these reminders.&nbsp;*
+<center><em>You can never be too prepared for hurricane season; check out these reminders.&nbsp;</em></center>
+
 
 &nbsp;
 
