@@ -5,7 +5,8 @@ date: 2020-09-10 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Here’s how Vyral Marketing helped improve my marketing and business.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/How+Has+Vyral+Marketing+Improved+My+Business_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
