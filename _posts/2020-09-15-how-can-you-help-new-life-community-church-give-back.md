@@ -19,7 +19,7 @@ youtube_code: O3xbTIFfbTs
 
 {% include youtube.html %}
 
-New Life Community Church is offering two ways to give back to the community.
+<p style="text-align: center;"><em>New Life Community Church is offering two ways to give back to the community.</em></p>
 
 Today I’m joined once again by my friend Ryan Brown, Senior Pastor of New Life Community Church in downtown Carlisle, to talk about two exciting ways you can help them make a positive impact on our community.&nbsp;
 
