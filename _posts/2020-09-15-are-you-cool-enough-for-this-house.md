@@ -21,6 +21,6 @@ youtube_code: 3xdu1Qau7zI
 
 Are you cool enough for this house? At 3,800 square feet, with an open-concept floorplan, four bedrooms, a bonus room, and a massive loft, **141 Oyster Point Row has everything you need.** There’s also an indoor spa that leads to the exterior inground pool. The home sits on ¾ of an acre, has a dock, boat lift, and floater.**&nbsp;**
 
-This property has it all.View everything it has to offer in the video above.
+This property has it all. View everything it has to offer in the video above.
 
 If you want more information about this home or have any questions, reach out via phone or email. We would love to help you.
