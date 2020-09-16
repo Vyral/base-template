@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: Is Now a Good Time to Sell in Kauai?'
-date: 2020-09-16 18:20:36
+date: 2020-09-16 18:20:00
 tags:
 excerpt: 'As we make our way through September, the market is gaining momentum.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Margolis/Ron+Margolis+Market+Update+(1).mp4
 pullquote: It’s clear the market is regaining momentum.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,6 +17,7 @@ youtube_code: JyUDiU3vGF4
 {% include youtube.html %}
 
 <center><em>As we make our way through September, the market is gaining momentum. </em></center>
+
 &nbsp;
 
 I hope this market update finds you safe and healthy. Here in Kauai, it’s been about a month since we’ve had any new coronavirus cases. Hopefully, this trend will open up the island to tourism on October 1 and accelerate the real estate market\!
