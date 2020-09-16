@@ -17,7 +17,7 @@ youtube_code: rM7LDWH_GK0
 
 {% include youtube.html %}
 
-We have an opportunity to help you take the next step in your career.
+<p style="text-align: center;"><em>We have an opportunity to help you take the next step in your career.</em></p>
 
 If you’ve been thinking about making a move in your career, today’s message is for you.&nbsp;
 
