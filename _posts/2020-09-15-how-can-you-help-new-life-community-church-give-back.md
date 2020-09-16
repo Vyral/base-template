@@ -21,7 +21,7 @@ youtube_code: j3s-8OWu-Yw
 
 <p style="text-align: center;"><em>New Life Community Church is offering two ways to give back to the community.</em></p>
 
-Today I’m joined once again by my friend Ryan Brown, Senior Pastor of New Life Community Church in downtown Carlisle, to talk about two exciting ways you can help them make a positive impact on our community.&nbsp;
+Today I’m joined once again by my friend Ryan Brown, senior pastor of New Life Community Church in downtown Carlisle, to talk about two exciting ways you can help them make a positive impact on our community.&nbsp;
 
 In Ryan’s words, **New Life Community Church is all about living out the love, acceptance, healing, and hope of Jesus Christ,** whether that means helping people, filling in the gaps in the community, partnering with agencies and organizations, etc. In the decade I’ve known Ryan, New Life Community Church has helped a lot of people in our community, and they’ve been a huge blessing to our area.&nbsp;
 
@@ -31,6 +31,6 @@ Right now, they have two initiatives (among many others) you can participate in 
 
 {% include pullquote.html %}
 
-**LifeStyle is their household goods and furniture ministry.** This ministry helps homeless people move into homes by setting them up with everything they need. Their goal is to make them feel valued by supplying them with high-quality items so they feel right at home when they move into their new residence. They accept donations of household goods, furniture, and anything else you can think of that would help those in need get back on their feet. You can help by donating these items or volunteering as a delivery assistant. Many single moms out there don’t have access to trucks, so they’re looking for teams of people to deliver furniture. Many senior citizens with furniture to donate also don’t have the means to transport this furniture, so they need pickup teams as well.&nbsp;
+**LifeStyle is their household goods and furniture ministry.** This ministry helps homeless people move into homes by setting them up with everything they need. Their goal is to make them feel valued by supplying them with high-quality items so they feel right at home when they move into their new residence. They accept donations of household goods, furniture, and anything else you can think of that would help those in need get back on their feet. You can help by donating these items or volunteering as a delivery assistant. Many single moms out there don’t have access to trucks, so they’re looking for teams of people to deliver furniture. Many senior citizens with furniture to donate also don’t have the means to transport it, so they need pickup teams as well.&nbsp;
 
-If you’re interested in either of these opportunities, you can give New Life Community Church a call at (717) 240-0060 or email Ryan at pastorryan@newlifecommunity.us. As always, if you have any questions for me, feel free to reach out to me as well. I’d love to speak with you.
+If you’re interested in either of these opportunities, you can give New Life Community Church a call at (717) 240-0060 or email Ryan at pastorryan@newlifecommunity.us. As always, if you have any questions, feel free to reach out to me as well. I’d love to speak with you.
