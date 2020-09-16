@@ -4,7 +4,7 @@ title: Want to Double Your Business?
 date: 2020-09-15 16:23:51
 tags:
   - Transaction Management
-excerpt: POD
+excerpt: Ask these two questions of people you speak with double your business!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent-What+Are+2+Things+To+Consider+That+Will+Double+Your+Real+EstateBusiness.mp4
 pullquote: Asking these questions of many people will increase your business.
@@ -17,7 +17,7 @@ youtube_code: 5T3tOL-6TsM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>POD</em></p>
+<p style="text-align: center;"><em>Ask these two questions of people you speak with double your business!</em></p>
 
 I’m sharing two questions to ask that can double your real estate business. If you ask these two questions of multiple people per day for about a year, I guarantee you’ll see a huge increase in your business:
 
