@@ -25,6 +25,6 @@ Homes are selling as soon as we can list them. **Here at Desert Flower, we’ve 
 
 {% include pullquote.html %}
 
-What’s driving the market right now? People are looking for a sense of place and a sense of security. People are moving from larger cities out here, others are finally becoming homeowners after years of renting. **This combination has driven up real estate averages by an average of $40,000 in the last year.&nbsp;**
+What’s driving the market right now? People are looking for a sense of place and security. People are moving out here from larger cities, while others are finally becoming homeowners after years of renting. **This combination has driven up real estate values by an average of $40,000 in the last year.&nbsp;**
 
-If you’ve thought about selling your home at all in the near future, we should have a conversation. If you have any questions for me in the meantime, don’t hesitate to reach out. Give me a call or send me an email today and let’s have a conversation.
+If you’ve thought about selling your home at all in the near future, we should have a conversation. If you have any questions, don’t hesitate to reach out to me. Give me a call or send me an email today and let’s have a conversation.
