@@ -15,7 +15,8 @@ youtube_code: JyUDiU3vGF4
 
 {% include youtube.html %}
 
-*As we make our way through September, the market is gaining momentum. *
+<center><em>As we make our way through September, the market is gaining momentum. </em></center>
+&nbsp;
 
 I hope this market update finds you safe and healthy. Here in Kauai, it’s been about a month since we’ve had any new coronavirus cases. Hopefully, this trend will open up the island to tourism on October 1 and accelerate the real estate market\!
 
