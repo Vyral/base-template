@@ -19,7 +19,7 @@ youtube_code: _OBeOkALrvI
 
 {% include youtube.html %}
 
-You can help CREE Cares give back to those in need.
+<p style="text-align: center;"><em>You can help CREE Cares give back to those in need.</em></p>
 
 Today we want to spread the word about CREE Cares, our team’s compassion program dedicated to assisting those in need.&nbsp;
 
