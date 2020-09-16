@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/LY_y-q4mBTE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you’re a landlord struggling to pay your mortgage, now there’s help.</em></p>
+
 If you’re a landlord, I have great news. **The Rental Property Owner Preservation Fund was established by the governor’s office to assist rental property owners** here in Arizona. This program helps eligible landlords who have been directly or indirectly affected by the pandemic and are struggling to make their mortgage payment due to nonpayment by a tenant. This program has some limits, but it can certainly help many landlords.&nbsp;
 
 The rent amount you apply for cannot exceed $2,000 per month per property, and overall financial assistance from this fund cannot surpass $50,000 per landlord. You can only apply for expenses accrued from April to August 2020.&nbsp;
