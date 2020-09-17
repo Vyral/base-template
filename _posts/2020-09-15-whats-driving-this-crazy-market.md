@@ -21,10 +21,14 @@ youtube_code: '-XpAWMbAPTw'
 
 Gender-reveal wildfires, murder hornets, and a booming real estate market—what a year. I’m out today at the Desert Flower subdivision, where we have seven homes going up all at once. Although it feels like everything 2020 has thrown at us is out of control, what’s even more out of control is our market in St. George.
 
-Homes are selling as soon as we can list them. **Here at Desert Flower, we’ve already reserved 33 of 40 lots for buyers.**
+Homes are selling as soon as we can list them. **At the Desert Flower subdivision we’ve pre-sold almost ALL of our 40 homes!**
 
 {% include pullquote.html %}
 
-What’s driving the market right now? People are looking for a sense of place and security. People are moving out here from larger cities, while others are finally becoming homeowners after years of renting. **This combination has driven up real estate values by an average of $40,000 in the last year.&nbsp;**
+What’s driving the market right now? People are looking for a sense of place and security. People are moving out here from larger cities, while others are finally becoming homeowners after years of renting. **This combination has driven up real estate values by an average of $40,000 in the last year.**
+
+**Yes. You read that correctly, 40 grand!**
+
+If you’d like to see how much equity you currently have in your home enter your address <a href="https://get.homebot.ai/?agentId=5c770be4b77e7200f2633ffahttps://get.homebot.ai/?agentId=5c770be4b77e7200f2633ffa" target="blank" style="font-size: 24;">HERE.</a>
 
 If you’ve thought about selling your home at all in the near future, we should have a conversation. If you have any questions, don’t hesitate to reach out to me. Give me a call or send me an email today and let’s have a conversation.
