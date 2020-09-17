@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Want to Double Your Business?
+title: What are 2 Questions that Can Double Your Real Estate Business?
 date: 2020-09-15 16:23:51
 tags:
   - Transaction Management
