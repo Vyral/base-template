@@ -21,7 +21,7 @@ youtube_code: zF7GnoedfMs
 
 {% include youtube.html %}
 
-If your property isn’t valued properly on the triennial update, you can contest it.
+<p style="text-align: center;"><em>If your property isn’t valued properly on the triennial update, you can contest it.</em></p>
 
 The triennial update is a three-year update of property valuations. The Franklin County auditor is required to do a six-year update, as well as one at the midway point (every three years).
 
