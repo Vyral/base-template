@@ -25,6 +25,6 @@ The rent amount you apply for cannot exceed $2,000 per month per property, and o
 
 {% include pullquote.html %}
 
-**If you’d like to fill out the application for property owner assistance, you can do so [here](https://gn.ecivis.com/GO/gn_redir/T/51fy0fcw0vnm){: target="_blank" rel="noopener"}.** If you’re a landlord you can apply yourself, or if you use a property management company, they can apply on your behalf. These are grant funds, and they come at a first-come, first-served basis. So if you need assistance, apply soon.&nbsp;
+**If you’d like to fill out the application for property owner assistance, you can do so <u><a target="_blank" rel="noopener" href="https://gn.ecivis.com/GO/gn_redir/T/51fy0fcw0vnm">here</a></u>.** If you’re a landlord you can apply yourself, or if you use a property management company, they can apply on your behalf. These are grant funds, and they come at a first-come, first-served basis. So if you need assistance, apply soon.&nbsp;
 
 If you have any questions about this program or want to invest in real estate, please give me a call or send an email. I would be glad to help.&nbsp;
