@@ -23,6 +23,6 @@ If you’ve been thinking about making a move in your career, today’s message 
 
 The Carolina Real Estate Experts team is looking for an agent to join us, and our goal is to help that agent close 35, 40, and even 45+ deals in their first full year. We provide accountability, structure, leads, and an amazing support staff that allows you to focus on selling houses and building relationships.&nbsp;
 
-Our next training class is scheduled for October 19, so **if you’re interested in this opportunity, email us at**[**careers@myhomecarolinas.com**](mailto:careers@myhomecarolinas.com)**.** We’ll schedule a confidential meeting to discuss your goals for 2021 and review what we can offer in terms of training. Together we can plan for a better 2021 for you and your business.&nbsp;
+Our next training class is scheduled for Monday,  October 19, so **if you’re interested in this opportunity, email us at **[**careers@myhomecarolinas.com**](mailto:careers@myhomecarolinas.com)**.** We’ll schedule a confidential meeting to discuss your goals for 2021 and review what we can offer in terms of training. Together we can plan for a better 2021 for you and your business.&nbsp;
 
 If you have questions about this opportunity or there’s anything else we can help you with, don’t hesitate to reach out to us. We’d love to speak with you.
