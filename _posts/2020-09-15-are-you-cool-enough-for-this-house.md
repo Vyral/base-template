@@ -6,13 +6,13 @@ tags:
   - Real Estate
 excerpt: 141 Oyster Point Row is an amazing property. Come check it out!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+141+Oyster+Point+Row.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2020/Charleston+Real+Estate+_+The+Mikki+Ramey+Team-+oyster+point+row.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 3xdu1Qau7zI
+youtube_code: 8PLq9Y0VIVI
 ---
 
 {% include youtube.html %}
