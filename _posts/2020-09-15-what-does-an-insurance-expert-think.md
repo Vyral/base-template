@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Does a Home Warranty Expert Think?
+title: What Does an Insurance Expert Think?
 date: 2020-09-15 16:46:09
 tags:
   - Real Estate
