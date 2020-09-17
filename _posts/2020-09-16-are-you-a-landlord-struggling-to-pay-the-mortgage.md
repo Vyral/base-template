@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/LY_y-q4mBTE'
 
 {% include youtube.html %}
 
-*If you’re a landlord struggling to pay your mortgage, now there’s help.*
+<p style="text-align: center;"><em>If you’re a landlord struggling to pay your mortgage, now there’s help.</em></p>
 
 If you’re a landlord, I have great news. **The Rental Property Owner Preservation Fund was established by the governor’s office to assist rental property owners** here in Arizona. This program helps eligible landlords who have been directly or indirectly affected by the pandemic and are struggling to make their mortgage payment due to nonpayment by a tenant. This program has some limits, but it can certainly help many landlords.&nbsp;
 
