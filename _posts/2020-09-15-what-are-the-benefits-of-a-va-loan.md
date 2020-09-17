@@ -7,7 +7,7 @@ tags:
 excerpt: Here are some things everyone should know about VA loans.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Heidi+Phong/2020/What+Are+the+Benefits+of+a+VA+Loan_.mp4
-pullquote: Any lender can process a VA loan so do your research.
+pullquote: 'Any lender can process a VA loan, so do your research.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/_-g6OnKdQzs'
 
 I’ve discovered that VA loans are still a big mystery to many Veterans, but they shouldn’t be. Here are a few little-known facts about your VA benefits:
 
-**1\. Your VA rating matters.** For those of you who do have a 10% or above VA rating, the government will waive the 10% finance fee that they normally charge to process your VA loan.
+**1\. Your VA rating matters.** For those of you who have a VA rating of 10% or higher, the government will waive the 10% finance fee that they normally charge to process your VA loan.
 
 **2\. You can reuse your VA loan.** If you’ve sold your home or refinanced into another loan and have a $0 balance on your VA loan, then you can turn around and reuse it to purchase another primary residence.
 
