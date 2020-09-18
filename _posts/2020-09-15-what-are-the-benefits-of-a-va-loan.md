@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/phongs-va-loans-yt.jpg
-youtube_code: 'https://youtu.be/_-g6OnKdQzs'
+youtube_code: 'https://youtu.be/cNDjdEiyJrk'
 ---
 
 {% include youtube.html %}
