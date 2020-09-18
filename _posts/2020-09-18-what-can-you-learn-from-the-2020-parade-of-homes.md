@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/nRjBrPcbPCE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are a few reasons to pay attention to this fall’s Parade of Homes.</em></p>
+
 We’re in the middle of the fall Parade of Homes, which runs through Sunday, October 4, and many people are asking themselves why they would even go to such a thing. Well, there are actually a number of reasons.
 
 **If you’re thinking about buying a home, you might want to do some cross-comparison between the existing home market and the new home market.** Those who are looking for existing homes will find that inventory is very low, so they might gravitate toward new construction for the wider range of choices, as well as the new features like smart home technology that makes new homes so attractive. New homes also have special energy-efficiency ratings, which are measured and often given to the buyer in the form of a report at the time of the purchase.
