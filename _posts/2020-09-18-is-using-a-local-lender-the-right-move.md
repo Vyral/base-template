@@ -17,7 +17,7 @@ youtube_code: hsBQJPsc0IM
 
 {% include youtube.html %}
 
-Here’s why I think that every homebuyer should work with a local lender.
+<p style="text-align: center;"><em>Here’s why I think that every homebuyer should work with a local lender.</em></p>
 
 Interest rates are very low right now and more people are thinking about buying or refinancing their current mortgages. However, there are some issues you can run into when working with certain lenders.
 
