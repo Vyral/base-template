@@ -18,7 +18,7 @@ youtube_code: qQM3zOV-yjU
 
 {% include youtube.html %}
 
-Our real estate market is still on fire. Here are the latest details.
+<p style="text-align: center;"><em>Our real estate market is still on fire. Here are the latest details.</em></p>
 
 For your September real estate market update, I’m visiting a special restaurant here in Louisville that opened about six or seven weeks ago: Matt Winn’s Steakhouse. What makes this place special? We’ll dive into that, but first, let’s take a look at what’s happening in our Louisville/Southern Indiana area.
 
