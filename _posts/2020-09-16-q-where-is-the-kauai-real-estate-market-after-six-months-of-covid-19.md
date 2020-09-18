@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Is Now a Good Time to Sell in Kauai?'
+title: 'Q: Where is the Kauai real estate market after six months of COVID-19?'
 date: 2020-09-16 18:20:00
 tags:
 excerpt: 'As we make our way through September, the market is gaining momentum.'
