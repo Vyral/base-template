@@ -8,7 +8,7 @@ excerpt: >-
   If your property isn’t valued properly on the triennial update, you can
   contest it.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+Triennial+Update.mp4
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+Triennial+Update+2.mp4
 pullquote: >-
   Contesting your valuation will have an impact on your property taxes which
   will be reflected in your mortgage statement (if applicable).
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: zF7GnoedfMs
+youtube_code: NdywtOspYHE
 ---
 
 {% include youtube.html %}
