@@ -25,6 +25,6 @@ Interest rates are very low right now and more people are thinking about buying 
 
 {% include pullquote.html %}
 
-**Every monday, I do a radio show with a local lender and we talk about stuff like this and more.** If you haven’t, listen to it every Monday at 1 p.m. on KENI talk radio. You can also find the episodes on demand right here on my website. I can’t tell you how many people I’ve talked to who wished they had started listening to the show before they started the home buying process. We’re getting ready to do a series on investment properties that you’ll want to tune in for.
+**Every monday, I do a radio show with a local lender and we talk about stuff like this and more.** If you haven't given it a listen yet, tune in every Monday at 1 p.m. on KENI talk radio. You can also find the episodes on demand right here on my website. I can’t tell you how many people I’ve talked to who wished they had started listening to the show before they started the home buying process. We’re getting ready to do a series on investment properties that you’ll want to tune in for.
 
 If you have any other questions for us, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
