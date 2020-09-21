@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 3 Most Common Mistakes Homebuyers Make
-date: 2020-09-21 18:42:41
+date: 2020-09-21 18:42:00
 tags:
 excerpt: >-
   Learn the three most common mistakes to avoid during your home buying
@@ -21,8 +21,6 @@ youtube_code: EJwu78FFxDc
 {% include youtube.html %}
 
 *Learn the three most common mistakes to avoid during your home buying adventure.*
-
-&nbsp;
 
 We’ve been receiving a lot of questions from homebuyers about what pitfalls and traps to avoid during their search. To prevent you from falling victim to these errors, today I’ll be diving into the three most common mistakes that homebuyers tend to make. The most common mistakes include:
 
