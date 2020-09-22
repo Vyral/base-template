@@ -17,7 +17,7 @@ youtube_code: buuVHFukK7k
 
 {% include youtube.html %}
 
-Zillow doesn’t know these three things about home values in Porter Ranch.
+<p style="text-align: center;"><em>Zillow doesn’t know these three things about home values in Porter Ranch.</em></p>
 
 Like so many real estate portals on the internet, Zillow provides an estimate of a home’s value called a Zestimate. However, there are many things that Zillow doesn’t or can’t take into account when it comes to the value of your home:
 
