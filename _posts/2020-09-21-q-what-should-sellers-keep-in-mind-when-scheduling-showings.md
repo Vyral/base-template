@@ -20,7 +20,7 @@ youtube_code: bnoxfDZDGdg
 
 {% include youtube.html %}
 
-*Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.*
+<p style="text-align: center;"><em>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</em></p>
 
 One of the most important things we talk about with our selling clients is the fact that they need to be flexible when it comes to scheduling showings. That means, **when your home goes on the market, you’ll have to set your personal lifestyle aside so that you can make your home always look show-ready.**
 
