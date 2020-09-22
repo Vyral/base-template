@@ -24,7 +24,7 @@ youtube_code: EJwu78FFxDc
 
 <center>&nbsp;</center>
 
-&nbsp; We’ve been receiving a lot of questions from homebuyers about what pitfalls and traps to avoid during their search. To prevent you from falling victim to these errors, today I’ll be diving into the three most common mistakes that homebuyers tend to make. The most common mistakes include:
+We’ve been receiving a lot of questions from homebuyers about what pitfalls and traps to avoid during their search. To prevent you from falling victim to these errors, today I’ll be diving into the three most common mistakes that homebuyers tend to make. The most common mistakes include:
 
 **1\. Not understanding the “F” word—finances:** Somewhere along the line, many homebuyers begin to focus more on the home they want instead of the payments they’ll be making. It’s important to know what your payment will look like, so we suggest consulting with a lender to better understand what your monthly costs will be and what homes you can afford. There’ll be variation regarding down payments, property taxes, and HOA fees, but your lender will clarify specific costs. Additionally, you should never take online mortgage calculators as fact; just use them as a rough estimate.
 
