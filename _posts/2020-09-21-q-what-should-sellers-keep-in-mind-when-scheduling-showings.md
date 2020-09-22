@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Q: What Should Sellers Keep In Mind About Scheduling Showings?'
-date: 2020-09-21 16:16:28
+title: 'Q: What Should Sellers Keep In Mind When Scheduling Showings?'
+date: 2020-09-21 16:16:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -20,7 +20,7 @@ youtube_code: bnoxfDZDGdg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</em></p>
+*Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.*
 
 One of the most important things we talk about with our selling clients is the fact that they need to be flexible when it comes to scheduling showings. That means, **when your home goes on the market, you’ll have to set your personal lifestyle aside so that you can make your home always look show-ready.**
 
