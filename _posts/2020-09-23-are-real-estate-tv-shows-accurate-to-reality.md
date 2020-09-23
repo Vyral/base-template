@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Real Estate TV Shows Accurate to Reality?
-date:
+date: 2020-09-23 14:41:18
 tags:
   - Real Estate
 excerpt: Is real estate really like how you see it on reality TV shows?
