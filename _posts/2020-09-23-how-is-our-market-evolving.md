@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/LqEyzxRRcrQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the latest numbers for our real estate market.</em></p>
+
 The real estate market is making up for lost time, but things might change soon. Here are a few reasons why:
 
 **1\. A surge in sales and record prices**
