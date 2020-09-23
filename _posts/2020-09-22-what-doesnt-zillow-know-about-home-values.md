@@ -19,9 +19,9 @@ youtube_code: buuVHFukK7k
 
 <p style="text-align: center;"><em>Zillow doesn’t know these three things about home values in Porter Ranch.</em></p>
 
-Like so many real estate portals on the internet, Zillow provides an estimate of a home’s value called a Zestimate. However, there are many things that Zillow doesn’t or can’t take into account when it comes to the value of your home:
+Like so many real estate portals on the internet, Zillow provides an estimate of a home’s value called a Zestimate. However, there are many things that Zillow does not or cannot take into account when it comes to the value of your home:
 
-**1\. Market conditions.** Since it operates based on an algorithm, Zillow’s Zestimate doesn’t truly take into account what’s going on in the marketplace. We’re currently in a very strong seller’s market, and what the close escrows are actually closing for doesn’t reflect what’s happening in the market. Close escrows reflect conditions anywhere from 45 to 70 days prior. Right now, you need to focus on active listings, pendings, and under-contracts, which are the numbers that will give you a better idea of what’s happening.
+**1\. Market conditions.** Since it operates based on an algorithm, Zillow’s Zestimate doesn’t truly take into account what’s going on in the marketplace. We’re currently in a very strong seller’s market, and what the closed escrows are actually closing for doesn’t reflect what’s happening in the market. Closed escrows reflect conditions anywhere from 45 to 70 days prior. Right now, you need to focus on active listings, pendings, and under-contracts, which are the numbers that will give you a better idea of what’s happening.
 
 {% include pullquote.html %}
 
