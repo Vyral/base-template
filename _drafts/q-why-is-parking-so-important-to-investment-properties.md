@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s why bad parking is a detriment to your property.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Why+Are+Walk-Throughs+Important+to+Us_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Duke+Kimhan/2020/Q-+Why+Is+Parking+so+Important+to+Investment+Properties_.mp4
 pullquote: Parking should be a key factor in your search.
 enclosure_type: video/mp4
 enclosure_time:
