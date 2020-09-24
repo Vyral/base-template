@@ -16,7 +16,7 @@ youtube_code: S0srINzg-vM
 
 {% include youtube.html %}
 
-Drew Glenn with Miller Pest & Termite offers some great pest control tips.&nbsp;
+<p style="text-align: center;"><em>Drew Glenn with Miller Pest & Termite offers some great pest control tips.</em></p>
 
 On the latest episode of The Central Iowa Real Estate Scoreboard on 1460 KXNO and 106.3, Heather Burnside and I discussed the impact that lovable pets and loathsome pests have on real estate. We were joined by Drew Glenn of Miller Pest & Termite, who shared some phenomenal tips on how homeowners can eliminate creepy crawlers within their home and better manage the presence of those around it. Miller Pest & Termite, aka “Miller the Killer,” is a local company with 20+ years of experience; The Misty SOLDwisch team has partnered with them many times because their wood-destroying insect report is an indispensable service.&nbsp;
 
