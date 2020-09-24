@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Is Parking so Important to Investment Properties?'
-date: 2020-09-11 20:13:00
+date: 2020-09-24 20:13:00
 tags:
   - Real Estate
 excerpt: Here’s why bad parking is a detriment to your property.
@@ -17,7 +17,7 @@ youtube_code: ppY3RN-EVCc
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why bad parking is a detriment to your property.</em></p>
+*Here’s why bad parking is a detriment to your property.*
 
 *A common question I hear is, “How important is parking?” In Hawaii, it’s pretty much the most important thing.&nbsp;*
 
