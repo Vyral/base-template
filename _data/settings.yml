@@ -34,7 +34,7 @@ client:
   url: 'http://LioceTeam.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'http://www.eppraisal.com/partner/index/9177/'
+  first_CTA_URL: 'https://lioce.freehomevalues.net/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://www.lioceteam.com/search/criteria/gp_1/s_2'
   VR_form: 'http://oi.vresp.com?fid=5d757c5752'
@@ -45,7 +45,7 @@ sidebar_CTA:
       Are you thinking of selling your home or interested in learning about home
       prices in your neighborhood? We can help you.
     CTA_link_text: Free Home Value Report
-    CTA_url: 'http://www.eppraisal.com/partner/index/9177/'
+    CTA_url: 'https://lioce.freehomevalues.net/'
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: Looking for a Home?
