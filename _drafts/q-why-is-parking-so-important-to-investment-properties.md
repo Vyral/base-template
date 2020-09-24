@@ -17,14 +17,14 @@ youtube_code: ppY3RN-EVCc
 
 {% include youtube.html %}
 
-*Here’s why we offer a “Walk-Through Guarantee” to all of our clients.*
+*Here’s why bad parking is a detriment to your property.*
 
-When we talk about “walk-throughs,” we’re talking about the home tours we take of the properties we manage in order to observe any damage.&nbsp;
+*A common question I hear is, “How important is parking?” In Hawaii, it’s pretty much the most important thing.&nbsp;*
 
-**If you're working with us,** we'll do a walk-through before the property is occupied, another once the tenant moves in, and another mandatory one either four or six months after they move into the house.&nbsp;
+> Parking should be a key factor in your search.
 
-{% include pullquote.html %}
+***If you have a home that has three bedrooms, two bathrooms, and one parking spot or a condo with no parking, I can not manage it for you.** They are just too difficult to rent out.*
 
-It lets the tenant know we are checking for damage, unauthorized tenants, and any pest issues. We take pictures, have a pre-checklist, and give our owners a checkup every four to six months after that. **It’s our promise to you and what we call our “Walk-Through Guarantee.”**
+*In Hawaii, one of the biggest assets to a home is adequate parking. I can’t emphasize that enough. When you’re buying a home or looking for an investment property, parking should be a key factor because it’s so important on the island. **Inadequate parking means longer wait times on the market and for tenants.***
 
-If you have any questions for us about what we do or how we can help you, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+*If you have any questions for me about this or property management in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you.*<br>&nbsp;
