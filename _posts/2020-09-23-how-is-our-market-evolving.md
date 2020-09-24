@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/LqEyzxRRcrQ'
 
 {% include youtube.html %}
 
-*Here are the latest numbers for our real estate market.*
+<p style="text-align: center;"><em>Here are the latest numbers for our real estate market.</em></p>
 
 What does this mean for you? Well, if you have been thinking of selling, now might be a golden moment. A severe lack of homes for sale means you could sell in record time, and since low mortgage rates are making homes more affordable, you could get top dollar for your home.&nbsp;
 
