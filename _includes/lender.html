@@ -1,6 +1,38 @@
 {% if site.data.settings.lender.show_section == true %}
 <div class="lender">
 
+	<h5>Our Preferred Lender</h5>
+	<hr>
+	<div class="lender-info">
+		{% if site.data.settings.lender.headshot_path != null %}
+		<div class="lender-headshot">
+			<img src=/img/rick.jpg>
+		</div>
+		{% endif %}
+		<p>
+		Rick Scherer<br>
+		CEO/Senior Mortgage Planner<br>
+		{{site.data.settings.lender.brand}}<br>
+		617-778-0024}<br>
+		Rick@OnToMortgage.com<br>
+		405 Cochituate Rd Suite 204, Framingham, MA 01701<br>
+		{{site.data.settings.lender.url | remove: 'http://'}}
+		<a href="https://OnToMortgage.com">OnToMortgage.com</a><br>
+		
+		<a href="https://ontomortgage.com/team-member/rick-scherer/">LEARN MORE</a><br>
+		<a href="https://ontomortgage.my1003app.com/454910/register">APPLY NOW</a>
+
+	</p>
+	</div>
+	<div class="lender-logo">
+		<img src="/img/lender.jpg"/>
+	</div>
+</div>
+{% endif %}
+
+{% if site.data.settings.lender.show_section == true %}
+<div class="lender">
+
 	<h5>{{site.data.settings.lender.header_text}}</h5>
 	<hr>
 	<div class="lender-info">
@@ -27,34 +59,3 @@
 {% endif %}
 
 
-{% if site.data.settings.lender.show_section == true %}
-<div class="lender">
-
-	<h5>Our Preferred Lender</h5>
-	<hr>
-	<div class="lender-info">
-		{% if site.data.settings.lender.headshot_path != null %}
-		<div class="lender-headshot">
-			<img src=/img/rick.jpg>
-		</div>
-		{% endif %}
-		<p>
-		Rick Scherer<br>
-		CEO/Senior Mortgage Planner<br>
-		{{site.data.settings.lender.brand}}<br>
-		617-778-0024}<br>
-		Rick@OnToMortgage.com<br>
-		405 Cochituate Rd Suite 204, Framingham, MA 01701<br>
-		{{site.data.settings.lender.url | remove: 'http://'}}
-		<a href="https://OnToMortgage.com">OnToMortgage.com</a><br>
-		
-		<a href="https://ontomortgage.com/team-member/rick-scherer/">LEARN MORE</a>
-		<a href="https://ontomortgage.my1003app.com/454910/register">APPLY NOW</a>
-
-	</p>
-	</div>
-	<div class="lender-logo">
-		<img src="/img/lender.jpg"/>
-	</div>
-</div>
-{% endif %}
