@@ -17,13 +17,13 @@ youtube_code: ppY3RN-EVCc
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why bad parking is a detriment to your property.</em></p>
+*Here’s why insufficient parking is a detriment to your property.*
 
 A common question I hear is, “How important is parking?” In Hawaii, it’s pretty much the most important thing.
 
 {% include pullquote.html %}
 
-**If you have a home that has three bedrooms, two bathrooms, and one parking spot or a condo with no parking, I can not manage it for you.** They are just too difficult to rent out.
+**If you have a home that has three bedrooms, two bathrooms, and one parking spot, or it's a condo with no parking, I cannot manage it for you.** They are just too difficult to rent out.
 
 In Hawaii, one of the biggest assets to a home is adequate parking. I can’t emphasize that enough. When you’re buying a home or looking for an investment property, parking should be a key factor because it’s so important on the island. **Inadequate parking means longer wait times on the market and for tenants.**
 
