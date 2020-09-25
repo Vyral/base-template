@@ -17,7 +17,7 @@ youtube_code: ppY3RN-EVCc
 
 {% include youtube.html %}
 
-*Here’s why insufficient parking is a detriment to your property.*
+<p style="text-align:center;"><em>Here’s why insufficient parking is a detriment to your property.</em></p>
 
 A common question I hear is, “How important is parking?” In Hawaii, it’s pretty much the most important thing.
 
