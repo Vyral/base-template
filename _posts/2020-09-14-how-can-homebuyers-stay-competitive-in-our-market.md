@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Here are a few tips to help get your offer accepted in our competitive real
   estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+Homebuyers+Stay+Competitive+in+Our+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
