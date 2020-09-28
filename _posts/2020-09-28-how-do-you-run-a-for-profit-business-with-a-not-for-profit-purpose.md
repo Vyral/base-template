@@ -17,7 +17,7 @@ youtube_code: Lul0fxpzQ
 
 {% include youtube.html %}
 
-You can have a for-profit business with a not-for-profit purpose.
+<p style="text-align: center;"><em>You can have a for-profit business with a not-for-profit purpose.</em></p>
 
 How do you run a for-profit business with a not-for-profit purpose?
 
