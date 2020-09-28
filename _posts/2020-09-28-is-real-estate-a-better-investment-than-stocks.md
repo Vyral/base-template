@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/YLtAc41Bx-w'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Why is investing in real estate better than investing in stocks?</em></p>
+
 More than investing in stocks, I prefer to invest in real estate. There are three primary reasons why this is:
 
 **1\. Leverage.** You can borrow money to buy a real estate investment. When you want to buy a stock for, say, $200,000, you have to get the cash and buy it—you can’t borrow money from a bank to purchase stock. If you want to buy a rental property for the same amount, you can easily go to the bank and apply for a loan. Leverage helps you buy a bigger asset, and if a property increases in value down the road, you’ll be able to pull some cash out by doing a refinance and spend the money somewhere else.
