@@ -17,7 +17,7 @@ youtube_code: b9YrgrPHs2o
 
 {% include youtube.html %}
 
-The Strickler Agency has been serving their clients for nearly a century.
+<p style="text-align: center;"><em>The Strickler Agency has been serving their clients for nearly a century.</em></p>
 
 I’m back with another Brand Ambassador Spotlight. This time, I’m joined by Eric Olsen of the Strickler Agency to learn about what they do here in the Carlisle and South-Central PA community.
 
