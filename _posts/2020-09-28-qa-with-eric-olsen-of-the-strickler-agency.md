@@ -25,7 +25,7 @@ The Strickler Agency was started in 1925 down in Chambersburg. Eric came to Stri
 
 {% include pullquote.html %}
 
-**The agency is divided into four departments.** The commercial department sells your typical business insurance, property, auto, liability, etc. There’s also a personal department that does coverage for homeowners, renters, auto owners. The ag department services anything from a small farm owner’s policy to large agricultural risks and crop insurance. Finally, the rapidly growing employee benefits department sells group health and other related employee benefit products.
+**The agency is divided into four departments.** The commercial department sells your typical business insurance, property, auto, liability, etc. There’s also a personal department that does coverage for homeowners, renters, and auto owners. The ag department services anything from a small farm owner’s policy to large agricultural risks and crop insurance. Finally, the rapidly growing employee benefits department sells group health and other related employee benefit products.
 
 The Stickler Agency’s core clients come from the local area. They like to be able to service what they sell, so they have clients in South Central PA, Maryland, Virginia, and primarily the 81 corridor.
 
