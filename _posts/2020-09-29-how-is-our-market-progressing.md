@@ -19,7 +19,7 @@ youtube_code: p0p3yAkw544
 
 {% include youtube.html %}
 
-Here’s your update on the real estate market for the month of September.
+<p style="text-align: center;"><em>Here’s your update on the real estate market for the month of September.</em></p>
 
 For today’s market update, let’s first take a look at the national changes we’ve noticed with respect to showing traffic. When COVID-19 first hit, pretty much everything slammed on the brakes. However, since that shock in spring, we’ve seen an increase in showing traffic, which tells us that houses are still being shown and are still going under contract despite the pandemic.
 
