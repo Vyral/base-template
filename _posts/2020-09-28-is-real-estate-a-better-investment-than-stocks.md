@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-real-estate-investment-vs-stock-investments-yt.jpg
-youtube_code: 'https://youtu.be/YLtAc41Bx-w'
+youtube_code: 'https://youtu.be/ioVtKeqSWhk'
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Why is investing in real estate better than investing in stocks?</em></p>
 
-More than investing in stocks, I prefer to invest in real estate. There are three primary reasons why this is:
+More than investing in stocks, I prefer to invest in real estate. There are three primary reasons why:
 
 **1\. Leverage.** You can borrow money to buy a real estate investment. When you want to buy a stock for, say, $200,000, you have to get the cash and buy it—you can’t borrow money from a bank to purchase stock. If you want to buy a rental property for the same amount, you can easily go to the bank and apply for a loan. Leverage helps you buy a bigger asset, and if a property increases in value down the road, you’ll be able to pull some cash out by doing a refinance and spend the money somewhere else.
 
@@ -29,7 +29,7 @@ More than investing in stocks, I prefer to invest in real estate. There are thre
 
 {% include pullquote.html %}
 
-**3\. Tax benefits.** Real estate is one of the few investments that, when structured properly, you could never have to pay taxes on—not on the income or on the capital gains. One benefit is the IRS allows you to depreciate the value of the property. They consider that abuilding loses value every year so that potential loss in value can be applied towards the income you’re getting from the rent. Even though you’re getting actual cash in your pocket at the end of the year, you can write off the depreciation of the building and offset the income. On paper, you’re not making any money.
+**3\. Tax benefits.** Real estate is one of the few investments that, when structured properly, you could never have to pay taxes on—not on the income or on the capital gains. One benefit is the IRS allows you to depreciate the value of the property. They consider that a building loses value every year so that potential loss in value can be applied towards the income you’re getting from the rent. Even though you’re getting actual cash in your pocket at the end of the year, you can write off the depreciation of the building and offset the income. On paper, you’re not making any money.
 
 The second tax benefit to owning real estate is the 1031 exchange or the like-to-like exchange. If you own a property and its value goes up when you sell it, you’ll most likely have to pay capital gain taxes. However, if you roll that capital gain tax into another real estate purchase, then you’re avoiding the payment of this tax.
 
