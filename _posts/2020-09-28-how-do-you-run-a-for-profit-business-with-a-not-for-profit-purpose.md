@@ -21,7 +21,7 @@ youtube_code: 2-Lul0fxpzQ
 
 How do you run a for-profit business with a not-for-profit purpose?
 
-This question goes straight to my heart, and it speaks to a need that was fulfilled when I was 33 years old. Back then, I almost quit real estate because I was burned out. That’s when I asked people about running a for-profit business with a not-for-profit purpose. This took me on a multi-year journey that ended with a nonprofit 501c3 embedded in the core of my business: Project Lamplight.&nbsp;
+This question goes straight to my heart, and it speaks to a need that was fulfilled when I was 33 years old. Back then, I almost quit real estate because I was burned out. That’s when I asked people about running a for-profit business with a not-for-profit purpose. This took me on a multi-year journey that ended with a nonprofit 501(c)(3) embedded in the core of my business: Project Lamplight.&nbsp;
 
 **If you want to start your own Project Lamplight, here are the six steps you must take:**
 
