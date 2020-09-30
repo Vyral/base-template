@@ -3,7 +3,6 @@ layout: post
 title: Are You Ready to Get Smarter Every Week?
 date: 2020-09-30 00:00:00
 tags:
-  - '#JustJennie'
 excerpt: My new weekly series is the learning opportunity you’ve been waiting for.
 enclosure:
 pullquote:
