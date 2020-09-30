@@ -6,13 +6,13 @@ tags:
   - Brand Ambassador
 excerpt: Strickler Agency has been serving their clients for nearly a century.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+Strickler+Agency.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+stric.mp4
 pullquote: Their core clients come from all around the area.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: b9YrgrPHs2o
+youtube_code: yQaj7v97nlQ
 ---
 
 {% include youtube.html %}
