@@ -41,9 +41,9 @@ The number of newly pended deals spiked by up to almost 17% year over year. Part
 * CoreLogic: 0.6%
 * Haus: -1.1%
 
-I personally predict they’ll rise by 4% or possibly even 5% over the next year. That’s good if you’re thinking about selling your house, but on the flip side, if those rates continue to increase at that rate, what’s going to happen in 36 months? When interest rates start to come back down, prices will at least level off, or maybe dip down just a little bit.
+I personally predict they’ll rise by 4% or possibly even 5% over the next year. That’s good if you’re thinking about selling your house, but on the flip side, if those rates continue to increase at that frequency, what’s going to happen in 36 months? When interest rates start to come back down, prices will at least level off, or maybe dip down just a little bit.
 
-If you’re buying a house, **you need to hire an agent who knows the market**, is able to get you the best possible price, terms, and conditions on the property, and can help you get the cheapest money possible so that you can be secure in the short and long term if you purchase with in the next 12 to 24 months.
+If you’re buying a house, **you need to hire an agent who knows the market**, is able to get you the best possible price, terms, and conditions on the property, and can help you get the cheapest money possible so that you can be secure in the short and long term if you purchase within the next 12 to 24 months.
 
 I also have some good news regarding forbearance: The number of mortgages in active forbearance is leveling off. That means that people are starting to pay their mortgages again. The banks were sweating bullets earlier in the year, but now people are getting back in the game.
 
