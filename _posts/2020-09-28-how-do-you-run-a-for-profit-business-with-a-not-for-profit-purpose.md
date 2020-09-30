@@ -6,13 +6,13 @@ tags:
   - Transaction Management
 excerpt: You can have a for-profit business with a not-for-profit purpose.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent-+How+Do+You+Have+a+For+Profit+Business+With+a+Not+For+Profit+Purpose_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent-+for+profit+not+for+profit.mp4
 pullquote: 'With Project Lamplight, we don’t attach our name to any checks.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 2-Lul0fxpzQ
+youtube_code: mFU-9xyX92w
 ---
 
 {% include youtube.html %}
