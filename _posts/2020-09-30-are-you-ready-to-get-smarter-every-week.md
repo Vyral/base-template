@@ -17,7 +17,7 @@ youtube_code: Or1RvUpEt8A
 
 <center><em>My new weekly series is the learning opportunity you&rsquo;ve been waiting for.</em></center>
 
-<br>Want to ask me anything? Well now is your chance\! **I’m launching a weekly series on Fridays at 12 p.m. CST where, for 30 minutes, we’ll dive deep into a one specific topic** and dissect the tactics and strategies involved so you can implement them into your business.
+<br>Want to ask me anything? Well now is your chance\! **I’m launching a weekly series on Fridays at 12 p.m. CST where, for 30 minutes, we’ll dive deep into one specific topic** and dissect the tactics and strategies involved so you can implement them into your business.
 
 I’ve found that, when given the right opportunity and the right learning environment, people always bring up the best questions. Wouldn’t it be so cool for us to learn and grow together? For many installments of this series, I’ll bring on special guests, and we’ll also be providing this live in “Your Journey With Jennie,” our closed Facebook group.
 
