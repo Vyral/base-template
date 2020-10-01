@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Did COVID-19 Affect the Home Warranty Industry?'
-date: 2020-10-01 21:12:49
+date: 2020-10-01 21:12:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 2RO3hKt9e28
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the home warranty industry has adapted to COVID-19.</em></p>
+*Here’s how the home warranty industry has adapted to COVID-19.*
 
 How has COVID-19 affected the home warranty industry?
 
