@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: How Can I Optimize My Credit Score?'
-date: 2020-09-29 18:46:12
+date: 2020-09-29 18:46:00
 tags:
+  - Finance Advice
 excerpt: Here’s what you need to keep in mind when using various forms of credit.
 enclosure:
 pullquote:
@@ -15,7 +16,7 @@ youtube_code: InjHDacxIGs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to keep in mind when using various forms of credit.</em></p>
+*Here’s what you need to keep in mind when using various forms of credit.*
 
 There are three main factors used to determine your credit score. The first and most obvious factor is your payment history; have you been paying what you owe on time? The second factor is the length of time you’ve had lines of credit open—the longer, the better. Lastly, there’s the ratio between the current balance on an account versus the limit of that account; though there are differing opinions on what exactly this ratio needs to be for you to get the optimal credit score, I’ve seen a consensus growing around 20%.&nbsp;
 
