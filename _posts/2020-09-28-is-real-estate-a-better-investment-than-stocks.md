@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/oggie-penev-real-estate-investment-vs-stock-investments-yt.jpg
-youtube_code: 'https://youtu.be/ioVtKeqSWhk'
+youtube_code: 'https://youtu.be/A1A5WgGsiQk'
 ---
 
 {% include youtube.html %}
