@@ -16,7 +16,7 @@ youtube_code: fznDFMqBcus
 ---
 
 {% include youtube.html %}
-
+ 
 <p style="text-align: center;"><em>There’s a new buyer migration taking place in our market.</em></p>
 
 Where are the homebuyers in our market coming from?
