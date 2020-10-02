@@ -25,8 +25,8 @@ Where are the homebuyers in our market coming from?
 
 {% include pullquote.html %}
 
-These people could all be new homebuyers, purchasing entry-level homes that aren’t too far away from where they live now. This is what we’ve been seeing in our area of Montana, and it’s been an interesting addition to the buying population.&nbsp;
+These people could all be new homebuyers purchasing entry-level homes that aren’t too far away from where they live now. This is what we’ve been seeing in our area of Montana, and it’s been an interesting addition to the buying population.&nbsp;
 
-These days, buyers are coming from everywhere. Before the concept of working from home was popular, it was much more important for homebuyers moving to our area to have a job waiting for them, but that’s not the case anymore.&nbsp;
+These days, buyers are coming from everywhere. Before the concept of working from home was popular, it was much more important for homebuyers moving to our area to have a job waiting for them. That’s not the case anymore.&nbsp;
 
 If you’d like to talk more about this homebuyer migration and its impact on our real estate market, don’t hesitate to reach out to me. I’d love to speak with you.
