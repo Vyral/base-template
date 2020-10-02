@@ -17,7 +17,7 @@ youtube_code: k_7U3I9be8I
 
 {% include youtube.html %}
 
-There’s much more that goes into a great loan than just a low rate.
+<p style="text-align: center;"><em>There’s much more that goes into a great loan than just a low rate.</em></p>
 
 If you have an interest rate of 4% on your current home, it’s probably time to get in contact with your lender or give me a call so I can get you in the right direction for a refinance. Right now, the interest rates are at an all-time low, and they probably won’t be going much lower (though I know we’ve been saying that a lot this year only to be proven wrong time and time again).&nbsp;
 
