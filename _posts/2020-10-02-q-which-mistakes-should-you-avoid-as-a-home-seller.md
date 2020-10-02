@@ -16,7 +16,8 @@ youtube_code: 0AWFYHIjJNI
 
 {% include youtube.html %}
 
-*Here are the mistakes you never want to make as a home seller.*
+<center><em>Here are the mistakes you never want to make as a home seller.</em></center>
+&nbsp;
 
 If you’re thinking about selling your home anytime in the near future, today I want to offer some advice. Here are seven critical home-selling mistakes that you should avoid if you want a smooth, less stressful home sale:
 
