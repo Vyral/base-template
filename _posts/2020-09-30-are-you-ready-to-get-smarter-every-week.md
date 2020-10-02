@@ -4,7 +4,8 @@ title: Are You Ready to Get Smarter Every Week?
 date: 2020-09-30 00:00:00
 tags:
 excerpt: My new weekly series is the learning opportunity you’ve been waiting for.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Are+You+Ready+to+Get+Smarter+Every+Week_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
