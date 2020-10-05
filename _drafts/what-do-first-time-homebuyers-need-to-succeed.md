@@ -19,7 +19,7 @@ youtube_code: 23lyLJNoOME
 
 <center><em>Here are a few key tips that first-time homebuyers need to keep in mind.</em></center>
 
-To help first-time homebuyers find success, we first recommend that you get your finances in order. To get a loan, you need to be pre-approved by a lender, have your credit score checked, and save enough money for a down payment and your closing costs.
+<br>To help first-time homebuyers find success, we first recommend that you get your finances in order. To get a loan, you need to be pre-approved by a lender, have your credit score checked, and save enough money for a down payment and your closing costs.
 
 Next, you need to **hire a great agent who can help you prepare for the process**. At Healthy Realty, we have so many team members who would love to help you, no matter your price range. We’ll walk you through the process and help you understand how you can beat out other buyers so you can win in this market.
 
