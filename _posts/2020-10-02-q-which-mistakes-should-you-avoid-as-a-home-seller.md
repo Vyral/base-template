@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Which Mistakes Should You Avoid as a Home Seller?'
-date: 2020-10-02 14:48:52
+date: 2020-10-02 14:48:00
 tags:
 excerpt: Here are the mistakes you never want to make as a home seller.
 enclosure: >-
@@ -11,12 +11,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-30-20yt-2.jpg
-youtube_code: 0AWFYHIjJNI
+youtube_code: bPoG74szt5Y
 ---
 
 {% include youtube.html %}
 
 <center><em>Here are the mistakes you never want to make as a home seller.</em></center>
+
 &nbsp;
 
 If you’re thinking about selling your home anytime in the near future, today I want to offer some advice. Here are seven critical home-selling mistakes that you should avoid if you want a smooth, less stressful home sale:
