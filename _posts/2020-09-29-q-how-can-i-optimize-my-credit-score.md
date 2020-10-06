@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: InjHDacxIGs
+youtube_code: WPIGbzHcNyc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what you need to keep in mind when using various forms of credit.</em></p>
+*Here’s what you need to keep in mind when using various forms of credit.*
 
 There are three main factors used to determine your credit score. The first and most obvious factor is your payment history; have you been paying what you owe on time? The second factor is the length of time you’ve had lines of credit open—the longer, the better. Lastly, there’s the ratio between the current balance on an account versus the limit of that account; though there are differing opinions on what exactly this ratio needs to be for you to get the optimal credit score, I’ve seen a consensus growing around 20%.&nbsp;
 
