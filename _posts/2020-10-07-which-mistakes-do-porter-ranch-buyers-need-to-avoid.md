@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/vn1iUX3zNFI'
 
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*What are the three mistakes that you need to avoid if you’re buying a home in Porter Ranch?
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; What are the three mistakes that you need to avoid if you’re buying a home in Porter Ranch?*
 
 When it comes to buying a home in Porter Ranch in the San Fernando Valley, there are three key mistakes you need to avoid:
 
