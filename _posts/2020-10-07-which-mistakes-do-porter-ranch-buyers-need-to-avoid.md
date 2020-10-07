@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-6---scott-himelstein---yt.jpg
-youtube_code: 'https://youtu.be/vn1iUX3zNFI'
+youtube_code: 1iUX3zNFI
 ---
 
 {% include youtube.html %}
