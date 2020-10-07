@@ -15,10 +15,6 @@ youtube_code: 'https://youtu.be/vn1iUX3zNFI'
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
-&nbsp;
-
 When it comes to buying a home in Porter Ranch in the San Fernando Valley, there are three key mistakes you need to avoid:
 
 **1\. Failing to consider the commute time.** Obviously, COVID has altered commute times here in Los Angeles, but now that things are starting to creep back toward normality, many people are back out on the roads, which increases transit times. When you’re looking to buy a home, you need to factor in how long it will take you to get to and from work, as well as any factors that could increase or decrease that time. You can go on Google Maps and plot out your routes beforehand just to make sure the travel is feasible for you.
