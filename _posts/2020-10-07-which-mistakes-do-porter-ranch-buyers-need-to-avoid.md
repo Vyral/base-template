@@ -4,8 +4,8 @@ title: Which Mistakes Do Porter Ranch Buyers Need to Avoid?
 date: 2020-10-07 00:00:00
 tags:
 excerpt: >-
-  Today, let’s take a look at the past, present, and future of our real estate
-  market.
+  What are the three mistakes that you need to avoid if you’re buying a home in
+  Porter Ranch?
 enclosure:
 pullquote: You need to be pre-approved before you go out to look at homes.
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/vn1iUX3zNFI'
 
 {% include youtube.html %}
 
-*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Today, let’s take a look at the past, present, and future of our real estate market.*
+*&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;*What are the three mistakes that you need to avoid if you’re buying a home in Porter Ranch?
 
 When it comes to buying a home in Porter Ranch in the San Fernando Valley, there are three key mistakes you need to avoid:
 
