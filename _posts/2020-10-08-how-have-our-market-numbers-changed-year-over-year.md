@@ -5,7 +5,8 @@ date: 2020-10-08 18:20:27
 tags:
   - Real Estate
 excerpt: Let’s compare the market conditions from August 2020 to those of August 2019.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2020/How+Have+Our+Market+Numbers+Changed+Year+Over+Year.mp4
 pullquote: We’ve seen homes with as many as 12 or 15 offers on them!
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +16,8 @@ youtube_code: 'https://youtu.be/LP5HqLRvspo'
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Let’s compare the market conditions from August 2020 to those of August 2019.</em></p>
 
 Both last August and this year, we witnessed relentless buyer demand. Let’s take a look at how those numbers have shaken out:
 
