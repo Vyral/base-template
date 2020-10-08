@@ -6,13 +6,14 @@ tags:
 excerpt: >-
   What are the three mistakes that you need to avoid if you’re buying a home in
   Porter Ranch?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2020/Scott+Himelstein+3+Things+To+Avoid+When+Buying+in+Porter+Ranch_2.mp4
 pullquote: You need to be pre-approved before you go out to look at homes.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-6---scott-himelstein---yt.jpg
-youtube_code: 'https://youtu.be/vn1iUX3zNFI'
+youtube_code: vn1iUX3zNFI
 ---
 
 {% include youtube.html %}
