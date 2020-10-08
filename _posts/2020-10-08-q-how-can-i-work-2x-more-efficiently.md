@@ -17,7 +17,7 @@ youtube_code: zYONGZyAK6U
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s how to work more efficiently without multitasking.</p>
+<p style="text-align:center"><em>Here’s how to work more efficiently without multitasking.</em></p>
 
 I gave an hour-long speech recently about why multitasking is a lie and how you can work twice as efficiently as you already are. Today I want to share the most important parts with you. Here are four reasons why multitasking is a lie:
 
