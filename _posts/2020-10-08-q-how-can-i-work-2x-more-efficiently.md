@@ -25,6 +25,8 @@ I gave an hour-long speech recently about why multitasking is a lie and how you 
 
 Here’s a good example: Put a timer on, then say your ABC’s, then count to 26. You’ll probably do it incredibly quickly. Now time yourself while doing them both at the same time (e.g., A1, B2, C3, D4…) It’s going to take you a lot longer to do that. About three to four times longer.&nbsp;
 
+{% include pullquote.html %}
+
 **2\. Time and activity management.** They’ve found that people are three to four times more efficient when they set up their day to focus on one task at a time.
 
 **3\. Time blocking.** If you can time block your day so that you have specific times set for specific tasks, you’ll operate twice as efficiently.
@@ -33,4 +35,3 @@ Here’s a good example: Put a timer on, then say your ABC’s, then count to 26
 
 If you have any questions about this or want to learn more, I’d love to share my full powerpoint presentation on this topic with you. Just reach out via phone or email today and I’ll get it sent over.
 
-{% include pullquote.html %}
