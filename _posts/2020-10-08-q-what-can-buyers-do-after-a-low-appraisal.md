@@ -19,7 +19,7 @@ youtube_code: Cy3UXYgbMmc
 
 {% include youtube.html %}
 
-Here are five different roads you can take if your appraisal comes in low.
+<p style="text-align:center">Here are five different roads you can take if your appraisal comes in low.</p>
 
 If you’re buying a home and the appraisal comes in low, you have five different options to proceed:
 
