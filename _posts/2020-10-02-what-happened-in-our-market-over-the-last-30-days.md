@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s what you need to know about our market right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/What+Happened+in+Our+Market+Over+the+Last+30+Days_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
