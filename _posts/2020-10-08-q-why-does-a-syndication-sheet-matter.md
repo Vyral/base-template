@@ -17,7 +17,7 @@ youtube_code: F19fSY7kCrg
 
 {% include youtube.html %}
 
-Here’s how we use our partners to get your property rented out quickly.
+<p style="text-align:center;"><em>Here’s how we use our partners to get your property rented out quickly.</em></p>
 
 What’s a syndication sheet and how does it help our clients’ needs? **A syndication sheet is a list of all the partners we use to send out your rental listing.** We include this sheet as part of our property management package, and it comprises 36 different websites. Combined, those 36 partners account for roughly 200,000 views on your listing.&nbsp;
 
