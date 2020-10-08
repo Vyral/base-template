@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/09-24-rosado-youtube-2.jpg
-youtube_code: 73emK8wfChA
+youtube_code: AWRWAwQY47s
 ---
 
 {% include youtube.html %}
