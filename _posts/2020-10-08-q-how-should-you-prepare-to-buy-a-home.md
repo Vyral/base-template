@@ -16,7 +16,8 @@ youtube_code: Yl1i08QZuOs
 
 {% include youtube.html %}
 
-*Here are the three steps all buyers must take to prepare for their purchase.*
+<center><em>Here are the three steps all buyers must take to prepare for their purchase.</em></center>
+&nbsp;
 
 What do you need to do if you’re preparing to buy a home? Here’s a three-step guide to help you:
 
