@@ -19,7 +19,7 @@ youtube_code: 8AqSzjystBg
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s the proper procedure for extending your buyer’s option period.</p>
+<p style="text-align:center"><em>Here’s the proper procedure for extending your buyer’s option period.</em></p>
 
 So your buyer is under contract, you just had an inspection done, and you think you’re finally ready to negotiate repairs. Then you read the inspection report and find out that the general inspector has recommended a specialized inspection for some aspect of the home—perhaps with an HVAC specialist, a roofer, or an electrician. Of course, there’s nothing wrong with taking a closer look to make sure everything is in proper, working condition, but the problem is that you’ve bumped up against the end of the option period. You simply won’t have time to order that second inspection and negotiate repairs before the option period expires.&nbsp;
 
