@@ -20,7 +20,7 @@ youtube_code: 2RO3hKt9e28
 
 {% include youtube.html %}
 
-*Here’s how the home warranty industry has adapted to COVID-19.*
+<p style="text-align: center;"><em>Here’s how the home warranty industry has adapted to COVID-19.</em></p>
 
 How has COVID-19 affected the home warranty industry?
 
