@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s why we utilize 3D tours for our home sales.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/What+Are+the+Perks+of+3D+Tours_.mp4
 pullquote: We can show a home at any time with these tours.
 enclosure_type: video/mp4
 enclosure_time:
