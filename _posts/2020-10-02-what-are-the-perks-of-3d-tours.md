@@ -4,7 +4,6 @@ title: What Are the Perks of 3D Tours?
 date: 2020-10-02 00:00:00
 tags:
   - Real Estate
-  - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s why we utilize 3D tours for our home sales.
 enclosure: >-
