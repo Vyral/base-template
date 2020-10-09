@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here’s how the home warranty industry has adapted to COVID-19.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Q-+How+Did+COVID-19+Affect+the+Home+Warranty+Industry_.mp4
 pullquote: >-
   If the concept of a home warranty is new to you, that’s understandable, but I
   strongly suggest getting one.
@@ -19,7 +20,7 @@ youtube_code: 2RO3hKt9e28
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how the home warranty industry has adapted to COVID-19.</em></p>
+*Here’s how the home warranty industry has adapted to COVID-19.*
 
 How has COVID-19 affected the home warranty industry?
 
