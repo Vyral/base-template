@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Central Iowa Real Estate Scoreboard Ep. 3: What a Dad Wants'
+title: 'Central Iowa Real Estate Scoreboard Episode 3: What a Dad Wants'
 date: 2020-10-09 19:07:00
 tags:
   - Home Buyer Tips
@@ -17,7 +17,7 @@ youtube_code: 9J3s2vl0Otg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Adam McCarty joins us to decode and destress home inspections.</em></p>
+*Adam McCarty joins us to decode and destress home inspections.*
 
 When it comes to taking pride in homeownership, do dads rejoice in the little comforts, or do they want a full Irish pub in the basement with theater-quality surround sound? Of course, generalizations only get you so far (no two dads are the same), but in honor of Father’s Day 2020, the Central Iowa Real Estate Scoreboard took a look at the home features that tend to be most important to the home-buying dads out there. Adam McCarty from Rightway Homes—a proud dad himself—joined us to answer common home inspection questions while also chiming in with a little ‘dad-vice.’
 
