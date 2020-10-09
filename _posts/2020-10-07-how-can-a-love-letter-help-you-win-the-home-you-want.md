@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Writing a buyer “love letter” will help get your offer accepted.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+a+Love+Letter+Help+You+Win+the+Home+You+Want_.mp4
 pullquote: >-
   If the seller is receiving multiple offers, this connection can make all the
   difference.
