@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are my five tips for buying in a fierce seller’s market like ours.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/What+Are+the+5+Ms+of+Home+Buying_.mp4
 pullquote: Start your pre-approval process as soon as possible.
 enclosure_type: video/mp4
 enclosure_time:
@@ -30,15 +31,15 @@ hidden: false
 
 **Move safely through the process:** All throughout the real estate transaction, we have implemented a step-by-step guide to assist you:
 
-<p style="margin-left:5%; margin-right:5%;">1. First we’ll meet either via Zoom, FaceTime, or in person—you pick your comfort level.</p>
+1\. First we’ll meet either via Zoom, FaceTime, or in person—you pick your comfort level.
 
-<p style="margin-left:5%; margin-right:5%;">2. Then we’ll look at houses, which may be through virtual walking tours/open houses, or in person with masks and distancing.</p>
+2\. Then we’ll look at houses, which may be through virtual walking tours/open houses, or in person with masks and distancing.
 
-<p style="margin-left:5%; margin-right:5%;">3. We’ll help you write a contract with an electronic signature system.</p>
+3\. We’ll help you write a contract with an electronic signature system.
 
-<p style="margin-left:5%; margin-right:5%;">4. You’ll order inspections, which you may or may not attend; inspectors will be wearing masks, and some will even record a video report for you.</p>
+4\. You’ll order inspections, which you may or may not attend; inspectors will be wearing masks, and some will even record a video report for you.
 
-<p style="margin-left:5%; margin-right:5%;">5. Finally, you’ll attend closing. Title companies have created a mostly ‘contact-free’ process for attending closings and signing the paperwork for your new home.</p>
+5\. Finally, you’ll attend closing. Title companies have created a mostly ‘contact-free’ process for attending closings and signing the paperwork for your new home.
 
 {% include pullquote.html %}
 
