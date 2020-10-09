@@ -17,12 +17,12 @@ youtube_code: F19fSY7kCrg
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s how we use our partners to get your property rented out quickly.</em></p>
+*Here’s how we use our partners to get your property rented out quickly.*
 
 What’s a syndication sheet and how does it help our clients’ needs? **A syndication sheet is a list of all the partners we use to send out your rental listing.** We include this sheet as part of our property management package, and it comprises 36 different websites. Combined, those 36 partners account for roughly 200,000 views on your listing.&nbsp;
 
 The speed to market is one thing, but the speed *off* market is what’s most important to you as a property owner. Your main concern is, “How fast can you rent out my unit?” We guarantee our work at all times here at HI Pacific Property Management, so it’s our responsibility to show you with a syndication sheet exactly how we create maximum exposure for your property.&nbsp;
 
-**Remember: We’re a full-time property manager working for you.** If you ever have any questions or want more information, visit our [website](https://www.hipacificpm.com/)or call our office at 808-445-9223. We look forward to hearing from you soon\!
+**Remember: We’re a full-time property manager working for you.** If you ever have any questions or want more information, visit our [website](https://www.hipacificpm.com/)&nbsp;or call our office at 808-445-9223. We look forward to hearing from you soon\!
 
 &nbsp;
