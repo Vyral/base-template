@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are my thoughts on the Hudson County micro-markets struggling right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2020/Will+Real+Estate+Ever+Get+Back+to+Normal_.mp4
 pullquote: >-
   Right now, the suburbs are red-hot, and buyers are flocking there for more
   space.
