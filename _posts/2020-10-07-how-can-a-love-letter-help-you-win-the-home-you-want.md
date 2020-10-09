@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can a “Love Letter” Help You Win the Home You Want?
-date: 2020-09-30 00:00:00
+date: 2020-10-07 00:00:00
 tags:
   - Real Estate
   - Home Buyer Tips
