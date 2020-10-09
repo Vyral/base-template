@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will Real Estate Ever Get Back to Normal?
-date: 2020-09-25 00:00:00
+date: 2020-10-07 00:00:00
 tags:
   - Real Estate
   - Market Update
