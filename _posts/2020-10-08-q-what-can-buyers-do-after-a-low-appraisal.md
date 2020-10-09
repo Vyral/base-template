@@ -31,7 +31,7 @@ If you’re buying a home and the appraisal comes in low, you have five differen
 
 **3\. Put up more cash.** If it’s your dream home and you’ve been searching for it forever, you can foot the bill for the difference between the offer price and the appraised value.
 
-**4\. Modify your loan terms.** Many times your lender can get creative in ways you didn’t know about because you didn’t ask up front.
+**4\. Modify your loan terms.** Most people don't know this because they don't ask about it up front, but lenders will usually have a lot of different creative options at their disposal for structuring a loan. 
 
 **5\. Challenge the appraisal.** This is one of my favorites. You can leverage your relationship with your agent and the listing agent to provide more research and comparable sales in the hopes that they might resubmit or modify the appraisal.
 
