@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
 excerpt: Here are five different roads you can take if your appraisal comes in low.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/videoplayback+(10).mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/What+Can+Buyers+Do+After+a+Low+Appraisal_.mp4
 pullquote: >-
   If you truly want the home, it might make sense to pay the difference
   yourself.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-6---dave-soi---yt.jpg
-youtube_code: Cy3UXYgbMmc
+youtube_code: 1dINQWKz6IQ
 ---
 
 {% include youtube.html %}
