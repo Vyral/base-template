@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-08-hubener-youtube.jpg
-youtube_code: 'https://youtu.be/LP5HqLRvspo'
+youtube_code: 'https://youtu.be/lew_1aSzMnQ'
 ---
 
 {% include youtube.html %}
