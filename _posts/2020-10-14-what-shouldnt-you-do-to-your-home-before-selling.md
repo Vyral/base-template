@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Shouldn’t You Do to Your Home Before Selling?
-date:
+date: 2020-10-14 16:59:23
 tags:
   - Home Seller Tips
 excerpt: Here are two home improvements that will cost you more than you think.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/What+Shouldnt+You+Do+to+Your+Home+Before+Selling_.mp4
 pullquote: Leased solar panels bring no value whatsoever to a home.
 enclosure_type: video/mp4
 enclosure_time:
