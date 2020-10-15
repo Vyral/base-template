@@ -34,4 +34,8 @@ Ultimately, we had to ask ourselves one critical question: Is the burger as juic
 
 Though we couldn’t resolve this long-standing controversy, the bottom line is that you need to get out there and try the Juicy Lucy at both of these beloved establishments\! If you live in the Twin Cities area,—heck, even if you just have a two-hour layover at MSP airport—make the journey for these iconic burgers. We promise your tastebuds will thank you\!&nbsp;
 
+**Matt's Bar and Grill**<br>[612-722-7072]( "Click-to-Call 612-722-7072"){: .techextension-click-to-call}<br>3500 Cedar Ave, Minneapolis, MN 55407<br>[http://www.mattsbar.com/](http://www.mattsbar.com/){: target="_blank" rel="noopener"}
+
+<br>**5-8 Club**<br>[612-823-5858]( "Click-to-Call 612-823-5858"){: .techextension-click-to-call}<br>5800 Cedar Ave, Minneapolis, MN 55417<br>[https://www.5-8club.com/](https://www.5-8club.com/){: target="_blank" rel="noopener"}
+
 For all of your non-hamburger needs (i.e., real estate needs), reach out to us via phone or email, or explore our website further. We always look forward to hearing from you, and we’re ready to help\!&nbsp;
