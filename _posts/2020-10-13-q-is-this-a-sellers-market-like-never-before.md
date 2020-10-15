@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: p-zMuanUlKW7k
+youtube_code: zMuanUlKW7k
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>The latest Athens stats point to an extremely strong seller’s market.</em></p>
+*The latest Athens stats point to an extremely strong seller’s market.*
 
 What’s the latest news from our real estate market as we make our way through October? **Here are the latest year-over-year stats from Athens and the surrounding area:**
 
