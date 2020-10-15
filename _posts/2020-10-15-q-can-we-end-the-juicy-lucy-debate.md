@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Can We End the Juicy Lucy Debate?'
-date: 2020-10-15 14:17:24
+date: 2020-10-15 14:17:00
 tags:
 excerpt: For a long time the Juicy Lucy debate has raged; can we end it?
 enclosure:
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: _TQwk6uXh7k
+youtube_code: mO3_am0_k-o
 ---
 
 {% include youtube.html %}
