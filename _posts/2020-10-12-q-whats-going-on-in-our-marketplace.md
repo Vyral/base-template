@@ -16,7 +16,7 @@ youtube_code: b2zrowfqG-U
 
 {% include youtube.html %}
 
-*Here’s a quick update on what’s happening in our market area.*
+`<p style="text-align: center;"><em>Here’s a quick update on what’s happening in our market area.</em></p>
 
 Inventory is still very tight in our marketplace. Last year, we had about 2,200 units available—that’s down by 60% in Baltimore and Harford counties.
 
