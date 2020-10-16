@@ -17,7 +17,7 @@ youtube_code: w6N0rSRHirI
 
 {% include youtube.html %}
 
-Here’s exactly what an FHA 203(k) loan is and what you can do with it.
+<p style="text-align: center;"><em>Here’s exactly what an FHA 203(k) loan is and what you can do with it.</em></p>
 
 What is an FHA 203(k) loan? Essentially, it’s a loan that allows you to refurbish a property. You can buy a home in as-is condition and bring it up to FHA minimum standards. You can completely renovate the kitchen or bathroom, build an addition, install a new roof or windows, and even get new appliances. This loan fills a significant need for homebuyers.
 
