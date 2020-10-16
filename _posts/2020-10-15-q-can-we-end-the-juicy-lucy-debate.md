@@ -19,7 +19,7 @@ youtube_code: mO3_am0_k-o
 
 Here at The John Schuster Group, our forte is real estate, but today we’re coming to you with hard-hitting journalism; we wanted to answer one of the toughest questions for a Minnesotan to answer: Who has the best Juicy Lucy Burger? For those of you who live on Mars, **a Juicy Lucy is a cheeseburger with a gooey pocket of cheese inside the meat**—a culinary masterpiece\!&nbsp;
 
-We sent some of the best hamburger eaters on our team to try to get to the bottom of this quandary: Tim Layman, Sterling Donnely, Tim Saban, and myself (John Schuster). Our first stop was Matt’s Bar, founded in 1954 and located on the 35000 block of Cedar Avenue South in Minneapolis. At 1:01 in the video above, you can watch our first taste test in progress. Quick note: You have to be careful taking your first bite of a Juicy Lucy, as the cheese inside turns into molten lava\!
+We sent some of the best hamburger eaters on our team to try to get to the bottom of this quandary: Tim Lehman, Sterling Donely, Tim Sabin, and myself (John Schuster). Our first stop was Matt’s Bar, founded in 1954 and located on the 35000 block of Cedar Avenue South in Minneapolis. At 1:01 in the video above, you can watch our first taste test in progress. Quick note: You have to be careful taking your first bite of a Juicy Lucy, as the cheese inside turns into molten lava\!
 
 {% include pullquote.html %}
 
