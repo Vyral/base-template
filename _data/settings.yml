@@ -10,7 +10,7 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Schedule a Consultation Call with Rick
-    url: <a href="https://calendly.com/rick-138" target="_blank"</a>
+    url: /consultation/<a href="https://calendly.com/rick-138" target="_blank"</a>
 client:
   name: Rick Canale
   license_number: S.50680
