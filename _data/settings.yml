@@ -30,9 +30,9 @@ emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.themylesgroup.net/home-valuation/'
+  first_CTA_URL: https://killeen.mylesgrouprealestate.com/sell/
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.themylesgroup.net/results-map/?city=100227%2C100236%2C100230&custom=98897%2C98896%2C98898&midlat=31.025577376963536&midlng=-97.7484455919922&nelat=31.238931209374297&nelng=-97.34023483759768&sort=importdate&status=A&swlat=30.811744623058598&swlng=-98.15665634638674&zoom=11'
+  second_CTA_URL: https://killeen.mylesgrouprealestate.com/results-gallery/?photo=1&sort=importdate&status=A
 
 
 
@@ -41,7 +41,7 @@ sidebar_CTA:
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool
-  CTA_url: 'https://www.themylesgroup.net/results-map/?city=100227%2C100236%2C100230&custom=98897%2C98896%2C98898&midlat=31.025577376963536&midlng=-97.7484455919922&nelat=31.238931209374297&nelng=-97.34023483759768&sort=importdate&status=A&swlat=30.811744623058598&swlng=-98.15665634638674&zoom=11'
+  CTA_url: https://killeen.mylesgrouprealestate.com/results-gallery/?photo=1&sort=importdate&status=A
 welcome_box:
   welcome_headline: Join Our -- MARKET -- VIP List
   welcome_text_markdown: >
