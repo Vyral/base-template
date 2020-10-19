@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Q: Why Hasn’t Your Listing Sold?'
-date: 2020-10-19 20:22:47
+date: 2020-10-19 20:22:00
 tags:
   - Transaction Management
   - Listing Presentation
 excerpt: There’s really only one reason why your listing isn’t selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kati+Spaniak/Videos/2020/October/Q-+Why+Hasnt+Your+Listing+Sold_.mp4
 pullquote: 'If you have a listing that won’t sell, there’s one real reason why.'
 enclosure_type: video/mp4
 enclosure_time:
