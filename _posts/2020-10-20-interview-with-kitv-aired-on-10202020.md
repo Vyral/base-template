@@ -8,7 +8,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/66499536c81d5848526511464acfc5af.png
 youtube_code: kvTlJ5ScKxw
 ---
