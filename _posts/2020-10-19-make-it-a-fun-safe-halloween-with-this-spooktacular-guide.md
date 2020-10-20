@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Make It a Fun, Safe Halloween With This Spooktacular Guide'
-date: 2019-10-17 21:57:00
+date: 2020-10-19 21:57:00
 tags:
   - Real Estate
 excerpt: Halloween will be here before you know it!
@@ -70,6 +70,13 @@ With Halloween holding such a high risk of accidents involving child pedestrians
 In addition to following these tips, you should also **be wary of homemade items or baked goods**. If you don’t personally know who made them, these should be discarded. As a general rule for any treat: When in doubt, throw it out.
 
 Parents should also be mindful of treats that could pose a choking hazard. Hard candies, gum, peanuts, and small toys should only be given to older children. If you have any additional questions regarding tainted or unsafe candy, you can contact Poison Control or your local police department.
+
+Along with the tips above, this year we must do our part in protecting ourselves, our children, and our families amidst the pandemic.
+
+**5\. Follow [safety precautions](https://www.alberta.ca/halloween-during-covid19.aspx){: target="_blank" rel="noopener"} to prevent the spread of COVID-19:**
+
+* Trick-or-treating: Don't go out if you feel ill, minimize contact with others, wear a costume that allows a facemask as well, and avoid touching doorbells or railings (call out "trick or treat" instead).
+* Handing out candy: Don't hand out candy if you're feeling ill or isolating, wear a facemask, hand out treats from your driveway or front lawn, and make candy bags to space out on a table or blanket.
 
 By following these tips, you and your trick-or-treaters will be all set to have a safe and happy holiday.
 
