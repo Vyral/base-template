@@ -16,7 +16,7 @@ youtube_code: jiS3noMkMsM
 
 {% include youtube.html %}
 
-Check out this fun tour of Daniel Island and the Smythe Park subsection\!
+<p style="text-align: center;"><em>Check out this fun tour of Daniel Island and the Smythe Park subsection!</em></p>
 
 The Smythe Park subsection of Daniel Island is a beautiful place to enjoy the outdoors. We have a gorgeous lake that’s perfect for walks or soaking in a sunset. There’s also a pirate-themed playground, which is a great spot for kids to have endless fun on slides, swings, and so much more. Don’t forget to check out the treehouse that overlooks the Wando River\!&nbsp;
 
