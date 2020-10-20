@@ -5,7 +5,8 @@ date: 2020-10-12 17:16:00
 tags:
   - Market Update
 excerpt: Here’s a quick update on what’s happening in our market area.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/Q-+Whats+Going+on+in+Our+Marketplace_.mp4
 pullquote: Contingent offers will be tough to get accepted.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: b2zrowfqG-U
 
 {% include youtube.html %}
 
-`<p style="text-align: center;"><em>Here’s a quick update on what’s happening in our market area.</em></p>
+\`&lt;p style="text-align: center;"&gt;*Here’s a quick update on what’s happening in our market area.*&lt;/p&gt;
 
 Inventory is still very tight in our marketplace. Last year, we had about 2,200 units available—that’s down by 60% in Baltimore and Harford counties.
 
