@@ -73,7 +73,7 @@ Parents should also be mindful of treats that could pose a choking hazard. Hard 
 
 Along with the tips above, this year we must do our part in protecting ourselves, our children, and our families amidst the pandemic.
 
-**5\. Follow [safety precautions](https://www.alberta.ca/halloween-during-covid19.aspx){: target="_blank" rel="noopener"} to prevent the spread of COVID-19:**
+**5\. Follow <u><a target="_blank" rel="noopener" href="https://www.alberta.ca/halloween-during-covid19.aspx">safety precautions</a></u> to prevent the spread of COVID-19:**
 
 * Trick-or-treating: Don't go out if you feel ill, minimize contact with others, wear a costume that allows a facemask as well, and avoid touching doorbells or railings (call out "trick or treat" instead).
 * Handing out candy: Don't hand out candy if you're feeling ill or isolating, wear a facemask, hand out treats from your driveway or front lawn, and make candy bags to space out on a table or blanket.
