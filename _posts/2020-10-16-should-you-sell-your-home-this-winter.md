@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-15-langan-youtube.jpg
-youtube_code: _1Bs-ACfSoU
+youtube_code: '-ES1UcR4Gjw'
 ---
 
 {% include youtube.html %}
