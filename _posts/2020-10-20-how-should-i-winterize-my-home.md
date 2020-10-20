@@ -18,7 +18,7 @@ youtube_code: I-G6d1KDVFg
 
 {% include youtube.html %}
 
-Here are our 15 valuable tips for winterizing your Alaskan home.
+<p style="text-align: center;"><em>Here are our 15 valuable tips for winterizing your Alaskan home.</em></p>
 
 Here in Alaska, it’s the time of year when we need to start thinking about winter. We have a few recommendations for how to winterize your home to prepare it for the long freezing months.
 
