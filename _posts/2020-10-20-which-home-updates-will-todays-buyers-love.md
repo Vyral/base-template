@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/zfnU7JTLhq8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are four updates you should make if you’re listing during the COVID era.</em></p>
+
 2020 has been anything but a great year. We’re into month seven of the COVID era, and there’s no quick end in sight. With more people working from home and students taking online classes, homebuyer trends are shifting. Here are the top four improvements buyers want to see right now that you should keep in mind if you’re listing soon:
 
 **1\. Upgraded outdoor space.** COVID has shown us that cabin fever is a real thing. This doesn’t mean you have to build an in-ground pool tomorrow, but minor cosmetic and landscaping updates can have a huge impact. Depending on your neighborhood and budget, you may try building a firepit or an outdoor sitting area that’s weather-protected. Anything you can do to extend the life of your outdoor space is a big plus in today’s environment.&nbsp;
