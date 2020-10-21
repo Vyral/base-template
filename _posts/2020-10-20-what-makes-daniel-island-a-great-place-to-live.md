@@ -28,7 +28,7 @@ For those of you who enjoy shopping and dining, downtown Daniel Island is the ha
 
 {% include pullquote.html %}
 
-Did I mention there are three awesome pools, too? The Pierce Park, Scott Park, and Crow’s Nest pools all offer a great spot to underwind near the water. If you’re looking for something totally upscale, The Daniel Island Club has its own private pools, tennis courts, and world-class golf with the Ralston Creek Course and the Barrister Course.&nbsp;
+Did I mention there are three awesome pools, too? The Pierce Park, Scott Park, and Crow’s Nest pools all offer a great spot to unwind near the water. If you’re looking for something totally upscale, The Daniel Island Club has private pools, tennis courts, and world-class golf with the Ralston Creek Course and the Barrister Course.&nbsp;
 
 Finally, **every Daniel Islander needs to experience the Volvo Car Stadium.** This stadium is home to many concerts throughout the year, and the annual Volvo Car Open brings ladies’ championship tennis to town.&nbsp;
 
