@@ -19,7 +19,7 @@ youtube_code: 6ZPzsleAnaw
 
 {% include youtube.html %}
 
-\*Here are the three most important pre-listing objectives for sellers to complete. \*
+<center><em>Here are the three most important pre-listing objectives for sellers to complete.</em></center>
 
 &nbsp;
 
