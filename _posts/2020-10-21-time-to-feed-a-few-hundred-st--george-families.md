@@ -3,26 +3,30 @@ layout: post
 title: Time to Feed A Few Hundred St. George Families!
 date: 2020-10-21 00:19:00
 tags:
-excerpt:
+excerpt: >-
+  11 years running and there’s no stopping in sight! The St. George Basket
+  Brigade must roll on despite Covid-19 and so many other strange challenges
+  we’ve seen in 2020. As a matter of fact, it’s even MORE important that it go
+  on BECAUSE of those challenges!
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2019/St.+George+2019+Basket+Brigade.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/St.+George+Real+Estate+2020+Basket+Brigade.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/xNzNJcBHVKU'
+youtube_code: 'https://youtu.be/300fJnxkrKc'
 ---
 
 {% include youtube.html %}
 
-The St. George Basket Brigade celebrates 10 years delivering love, hope and a FULL THANKSGIVING MEAL to nominated St. George families. And we couldn’t have done it without your help\!
+The St. George Basket Brigade celebrates 11 years delivering love, hope and a FULL THANKSGIVING MEAL to nominated St. George families. And we couldn’t have done it without your help\!
 
-Over that time period we estimate that nearly 1000 families in need received a Brigade basket delivered by one of as many as 1500 individual volunteers.&nbsp;
+Over that time period we estimate that nearly 1000 families in need received a Brigade basket delivered by one of as many as 1500+ individual volunteers.&nbsp;
 
 If you’ve been one of those volunteers, you’re aware that it’s a prized opportunity that folks literally join a waiting list to take part in\!
 
-So now we pop the question\! WILL YOU **NOMINATE** or **FEED** a family to help us celebrate 10 years? Perhaps both? Here’s how:&nbsp;
+So now we pop the question\! WILL YOU **NOMINATE** or **FEED** a family to help us celebrate 11 years? Perhaps both? Here’s how:&nbsp;
 
 1\. PLEASE **NOMINATE** a family in need **[HERE](http://stgeorgebasketbrigade.org/){: target="_blank"}.** What does "in need" mean? If you think for even a second that they're in need, **they're in need\!**
 
@@ -34,7 +38,7 @@ Can’t donate $50? Then donate $5 or $10\! Want to feed *multiple* families? Em
 
 The greatest part of this event is that the recipients prepare and cook the meal themselves, in their own homes, rather than a “charity” soup line. It endows them with hope, self-confidence during a tough time, and makes the community better.&nbsp;
 
-Here’s (just one) of the messages we received from families who received a basket last year:
+Here’s (just one) of the messages we received from families who received a basket in 2018:
 
 *“It was a very, very nice surprise to get this thoughtful basket. Thank you for everyone who put in the love, time, thought, and money to make this happen. It was humbling to see we were number 171 on the envelope and to think of how many baskets had been delivered. Super clever with the use of the laundry basket, we used it yesterday :) Thank you again and we will be paying it forward.”*
 
