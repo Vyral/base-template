@@ -1,21 +1,26 @@
 audit_header: false
 title: Northern Nevada Real Estate Video Blog
 description: >-
-  Our mission at Haute Properties NV is to be your best resource for -- MARKET --
-  real estate advice. Whether you are a buyer, seller, or investor, our team of
-  professionals can answer any questions you might have about real estate. If
+  Our mission at Haute Properties NV is to be your best resource for -- MARKET
+  -- real estate advice. Whether you are a buyer, seller, or investor, our team
+  of professionals can answer any questions you might have about real estate. If
   you are looking to buy or sell a home, you can get all the information and the
   latest updates, tips, and tricks from The Haute Properties NV, your
   professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Schedule a Consultation Call with Rick
-    url: "https://calendly.com/rick-138"
+    url: 'https://calendly.com/rick-138'
 client:
   name: Rick Canale
   license_number: S.50680
   about_markdown: >-
-    Rick is an educator and coach first and a REALTOR® second. He enjoys educating you, whether you're a Buyer or Seller, dispelling the many "myths" of buying and selling real estate, and helping you realize the opportunity to fulfill your dreams. As a successful real estate investor, Rick can offer practical and useful advice regardless of whether you are a first-time investor or seasoned pro.
+    Rick is an educator and coach first and a REALTOR&reg; second. He enjoys
+    educating you, whether you're a Buyer or Seller, dispelling the many "myths"
+    of buying and selling real estate, and helping you realize the opportunity
+    to fulfill your dreams. As a successful real estate investor, Rick can offer
+    practical and useful advice regardless of whether you are a first-time
+    investor or seasoned pro.
   market: Northern Nevada
   brand: Haute Properties NV
   brokerage:
@@ -25,7 +30,7 @@ client:
   phone2: (775) 823-8787
   phone2_type: Office
   email: Rick@NorthernNevadaHouseHunters.com
-  url: 'https://www.northernnevadahousehunters.com'
+  url: 'https://www.NorthernNevadaHouseHunters.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.northernnevadahousehunters.com/selling/'
@@ -91,8 +96,8 @@ podcast:
     -- Area Real Estate Market
   description: >-
     If you are looking to buy or sell a home, get all the information and the
-    latest updates, tips, and tricks from Haute Properties NV - your professional
-    -- MARKET -- Real Estate Agents.
+    latest updates, tips, and tricks from Haute Properties NV - your
+    professional -- MARKET -- Real Estate Agents.
   keywords: >-
     Real Estate for sale, Real Estate agents, top real estate agents, local real
     estate agents, find a real estate agent, houses for sale in -- MARKET --,
@@ -100,7 +105,7 @@ podcast:
     finder, property search, property, real estate market, estate agent,
     realestate, real estate listings, buying a house, homes for sale, mls, home
     buyer
-  author: 'Rick Canale'
+  author: Rick Canale
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
