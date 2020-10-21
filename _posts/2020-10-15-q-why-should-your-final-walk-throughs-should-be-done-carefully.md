@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Why Should Your Final Walkthroughs Should Be Done Carefully?'
+title: 'Q: Why Should Your Final Walk-throughs Should Be Done Carefully?'
 date: 2020-10-15 16:44:00
 tags:
 excerpt: >-
@@ -18,7 +18,7 @@ youtube_code: QUimgJYbGio
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why this step is arguably the most important in the home buying process.</em></p>
+*Here’s why this step is arguably the most important in the home buying process.*
 
 The final walkthrough of a home is incredibly important, as it’s the final action before signing the documents and closing the sale. It’s also the time for buyers to make sure everything that was negotiated during your option period, like certain repairs, has indeed been taken care of—**once you close, the home is yours and any problems found thereafter will be your responsibility.**
 
