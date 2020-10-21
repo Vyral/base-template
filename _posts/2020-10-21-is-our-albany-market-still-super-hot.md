@@ -19,7 +19,7 @@ youtube_code: Ax1rVZpX66o
 
 {% include youtube.html %}
 
-Today I’ll talk about our market, buying peace of mind, and raising money for a good cause.
+<p style="text-align: center;"><em>Today I’ll talk about our market, buying peace of mind, and raising money for a good cause.</em></p>
 
 In addition to my regular market update, I have a couple issues that are near and dear to my heart that I want to share with you today&nbsp;
 
