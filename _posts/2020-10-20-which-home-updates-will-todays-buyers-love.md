@@ -29,7 +29,7 @@ youtube_code: 'https://youtu.be/zfnU7JTLhq8'
 
 {% include pullquote.html %}
 
-**3\. Separation of space.** For so long, open floor plans were the layout all buyers wanted, but that’s fast-changing. Now, a well-segmented floor plan is what buyers are looking for. If your floor plan doesn’t offer this, consider adding pocket doors, room dividers, or barn doors. These will minimize the volume of people using individual spaces and showcase what your home’s capable of.&nbsp;
+**3\. Separation of space.** For so long, open floor plans were the layout all buyers wanted, but that’s fast-changing. Now, a well-segmented floor plan is what buyers are looking for. If your floor plan doesn’t offer this, consider adding pocket doors, room dividers, or barn doors. These will minimize the volume of people using individual spaces and showcase what your home can do for buyers.&nbsp;
 
 **4\. A home gym.** More and more people are forgoing gyms and working out at home where it’s safer and more comfortable. This means buyers need space for stationary bikes and other types of fitness equipment. Even if you don’t have the space to accommodate these things, try to at least convert a corner of a room into an area where buyers can envision their future workouts happening. This way they’ll know their health will stay a top priority if they buy your home.&nbsp;
 
