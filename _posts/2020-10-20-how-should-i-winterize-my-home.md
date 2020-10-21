@@ -56,6 +56,6 @@ Now we’ll move on to the outdoor checklist:&nbsp;
 
 **5\. Blow out the sprinkler system.** Again, freezing water left inside will damage the system.
 
-**6\. Put stakes around the driveway.** This is especially key if you have snow plows coming through in the winter, it will keep them from hitting things.&nbsp;
+**6\. Put stakes around the driveway.** This is especially key if you have snow plows coming through in the winter; it will keep them from hitting things.&nbsp;
 
 If you have any questions about this list or you’re considering buying or selling, please give us a call or send an email. We would love to help you.
