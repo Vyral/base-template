@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What 3 Pre-Listing Tasks Must Every Seller Do?'
-date: 2020-10-21 18:39:17
+date: 2020-10-21 18:39:00
 tags:
 excerpt: >-
   Here are the three most important pre-listing objectives for sellers to
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-13-20yt-1.jpg
-youtube_code:
+youtube_code: 6ZPzsleAnaw
 ---
 
 {% include youtube.html %}
 
-*Here are the three most important pre-listing objectives for sellers to complete. *
+\*Here are the three most important pre-listing objectives for sellers to complete. \*
 
 &nbsp;
 
