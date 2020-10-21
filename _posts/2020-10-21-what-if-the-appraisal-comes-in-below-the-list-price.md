@@ -19,7 +19,7 @@ youtube_code: judO7nw-txI
 
 {% include youtube.html %}
 
-<p style="text-align; center;"><em>Buyers: You have options if the appraisal comes in below the list price.</em></p>
+<p style="text-align: center;"><em>Buyers: You have options if the appraisal comes in below the list price.</em></p>
 
 So your appraised value came in below the purchase price. What do you do now? Today we’re discussing this issue that’s happening more and more in today’s real estate market.
 
