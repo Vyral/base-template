@@ -1,20 +1,20 @@
 audit_header: false
 title: The Mortgage Guys
 description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Job Review Page 
+    url: https://birdeye.com/abel-tejeda-the-mortgage-guy-157921545877513
 
 client:
   name: Abel Tejeda
-  license_number:
+  license_number: NMLS - 259168<br>DRE - 02109711
   about_markdown: |
     Our “About Us” web page would be more appropriately called “About You”, as our focus is on closing your loans faster and more efficiently. Our winning strategy consists of a carefully crafted blend of excellent Interest Rates, Flexible Loan Products and Exceptional Customer Service . This concept combines the winning combination: paperless loan process with instant automated loan approvals.
   market: San Diego
-  brand: The Mortgage Guys
-  brokerage:
-  address: 1419 University Ave, Suite C<br>San Diego, CA 92103
+  brand: The Mortgage Guy
+  brokerage: eMortgageGuys NMLS - 1954044
+  address: 1419 University Ave, Suite D<br>San Diego, CA 92103
   phone: 619-948-2996
   phone_type:
   phone2:
