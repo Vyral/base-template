@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Make It a Fun, Safe Halloween With This Spooktacular Guide'
-date: 2020-10-19 21:57:00
+date: 2020-10-22 00:00:00
 tags:
   - Real Estate
 excerpt: Halloween will be here before you know it!
