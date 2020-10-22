@@ -19,7 +19,7 @@ youtube_code: '-JSy3ogtY18'
 
 {% include youtube.html %}
 
-Here are all the latest real estate market stats from September.
+<p style="text-align: center;"><em>Here are all the latest real estate market stats from September.</em></p>
 
 The real estate stats for September just came out, and I’m eager to share them with you.
 
