@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/SilyLxWi-v8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why I don’t foresee a housing crisis affecting buyers and sellers.</em></p>
+
 You might be wondering whether our real estate market will turn around this year considering the state of the economy due to the pandemic. Clearly, the economy went on pause after the initial outbreak. I don’t think we’ve ever seen anything like this.&nbsp;
 
 Major financial institutions like JP Morgan, Goldman Sachs, Morgan Stanley, and others predict a V-shaped recovery for the economy, where it bounces back just as quickly as it declined. Historical analysis shows that pandemics are usually V-shaped, and society typically recovers quickly enough from any damage to avoid affecting home prices in the long term.&nbsp;
