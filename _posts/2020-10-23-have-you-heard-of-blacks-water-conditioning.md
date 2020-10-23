@@ -17,7 +17,7 @@ youtube_code: 1zLMHYCDap0
 
 {% include youtube.html %}
 
-Black’s Water Conditioning can help with all your water treatment needs.
+<p style="text-align: center;"><em>Black’s Water Conditioning can help with all your water treatment needs.</em></p>
 
 I’m delivering another brand ambassador local business highlight. Today I’m meeting with Black’s Water Conditioning, a third-generation family business with an excellent reputation for all your water treatment needs. They sample water, install equipment, and do just about anything having to do with the water in your home. We’ve also invited the Black family to the Hooke household to assess the needs of the water in my house so you can see them in action.
 
