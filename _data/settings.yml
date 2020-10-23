@@ -7,9 +7,10 @@ description: >-
 show_custom_links: true
 custom_links:
   - title: Join Our Team
-    url: https://wizehire.com/cmp/the-spaniak-team-exp-realty
+    url: 'https://wizehire.com/cmp/the-spaniak-team-exp-realty'
   - title: Learn More About eXp Realty
-    url: https://www.eventbrite.com/e/learn-more-about-exp-realty-no-pressure-tickets-96752925605
+    url: >-
+      https://www.eventbrite.com/e/learn-more-about-exp-realty-no-pressure-tickets-96752925605
   - title: Free Newsletter
     url: /subscribe/
 emma_form:
@@ -28,7 +29,7 @@ client:
   market: Chicago
   brand: Real Estate Grit
   brokerage: Brokered by eXp Realty
-  address: '1544 Shermer Rd<br>Northbrook, IL 60062'
+  address: '1363 Shermer Rd, #200<br>Northbrook, IL 60062'
   phone: 847-379-8813
   phone_type:
   phone2:
