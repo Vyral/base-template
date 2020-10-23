@@ -21,7 +21,7 @@ youtube_code: L3gEXEgZoUM
 
 {% include youtube.html %}
 
-Here are three simple yet powerful steps for regaining control of your business.
+<p style="text-align: center;"><em>Here are three simple yet powerful steps for regaining control of your business.</em></p>
 
 When I first started in real estate, I didn’t have a system for managing activities or time, and I didn’t set any boundaries. Unfortunately, I found myself working 80, 90, or even 100 hours a week, which was far from sustainable—I almost burned out. My business was running *me.*&nbsp;
 
