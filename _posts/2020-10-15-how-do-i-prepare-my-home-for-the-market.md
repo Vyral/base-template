@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Here are tips to help sellers prime for a swift and profitable home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Do+I+Prepare+My+Home+for+the+Market_.mp4
 pullquote: >-
   If you can repair something in the home yourself before you list it, always do
   so.
