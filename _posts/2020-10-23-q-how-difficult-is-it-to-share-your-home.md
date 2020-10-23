@@ -21,7 +21,7 @@ youtube_code: eJ-GFTLG9j8
 
 {% include youtube.html %}
 
-*Here’s what you should know before renting out part of your home to make extra money.*
+<p style="text-align:center;"><em>Here’s what you should know before renting out part of your home to make extra money.</em></p>
 
 A lot of homeowners ask us to look at their homes when they want to rent something out. Most of the time, they’ll say, “How do you feel about a shared home?” Basically, they want to rent out their Ohana dwelling, downstairs area, or garage to a prospective tenant and make some extra money.&nbsp;
 
