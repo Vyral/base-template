@@ -17,7 +17,7 @@ youtube_code: 8y8dc0EdES4
 
 {% include youtube.html %}
 
-Here are the third quarter stats from our local real estate market.
+<p style="text-align: center;"><em>Here are the third quarter stats from our local real estate market.</em></p>
 
 If you watched my video recap of our real estate market’s performance in the [second quarter](https://blog.flatheadrealestate.com/whats-happening-in-our-montana-waterfront-market.html), you’ll likely recall me mentioning that some of the numbers popping up were harbingers of a bigger shift that would unfold in the third quarter. Well, the shift arrived as expected, and it was pretty darn huge.&nbsp;
 
