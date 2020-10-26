@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Did COVID Impact Our Market?'
-date: 2020-10-26 20:41:05
+date: 2020-10-26 20:41:00
 tags:
 excerpt: Here’s how our area market performed over the last six months.
 enclosure:
@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: 4_rVCH3YJUg
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how our area market performed over the last six months.</em></p>
+*Here’s how our area market performed over the last six months.*
 
 Unsurprisingly, during the time between March and September of this year, the number of home sales dropped by 8.5%. What might surprise you, however, is that **prices have actually gone up by 3.2%** in that same time frame. That kind of price jump would have been a marker for a very robust and strong market even over a 12-month period.
 
