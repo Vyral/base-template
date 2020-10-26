@@ -29,7 +29,7 @@ I’m delivering another brand ambassador local business highlight. Today I’m 
 
 1:35: The challenges of the water conditioning business
 
-3:10: The Black Family comes to my house to test our water
+3:10: The Black family comes to my house to test our water
 
 4:20: Addressing some of the water issues in my home
 
