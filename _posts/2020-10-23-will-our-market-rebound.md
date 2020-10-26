@@ -25,7 +25,7 @@ You might be wondering whether our real estate market will turn around this year
 
 Major financial institutions like JP Morgan, Goldman Sachs, Morgan Stanley, and others predict a V-shaped recovery for the economy, where it bounces back just as quickly as it declined. Historical analysis shows that pandemics are usually V-shaped, and society typically recovers quickly enough from any damage to avoid affecting home prices in the long term.&nbsp;
 
-Right now buyer demand is very strong; they’re just waiting for more inventory to become available. Everyone keeps asking me whether we’re heading for a recession. My response is that **we might be, but that doesn’t necessarily mean we’re heading for a housing crisis too.** According to Fannie Mae and Freddie Mac’s home pricing indices, only two recessions have ever impacted the real estate market: the Gulf War recession and the Great Recession of 2008.&nbsp;
+Right now buyer demand is very strong; buyers are just waiting for more inventory to become available. Everyone keeps asking me whether we’re heading for a recession. My response is that **we might be, but that doesn’t necessarily mean we’re heading for a housing crisis too.** According to Fannie Mae and Freddie Mac’s home pricing indices, only two recessions have ever impacted the real estate market: the Gulf War recession and the Great Recession of 2008.&nbsp;
 
 In the past five economic downturns, these two recessions marked the only times that home prices dropped. In 1991, they dropped 1.9%, and in 2008, there was a brief period of decline where the lowest drop was 19.7%.
 
