@@ -21,7 +21,7 @@ youtube_code: 8y8dc0EdES4
 
 If you watched my video recap of our real estate market’s performance in the [second quarter](https://blog.flatheadrealestate.com/whats-happening-in-our-montana-waterfront-market.html), you’ll likely recall me mentioning that some of the numbers popping up were harbingers of a bigger shift that would unfold in the third quarter. Well, the shift arrived as expected, and it was pretty darn huge.&nbsp;
 
-As of late, the market has been brisk. Whereas we had very few buyers back during the recession, we now face a scarcity of properties for sale. There are many people looking to buy, but there are simply not enough homes for them to choose from. Today I’m bringing you the latest stats so you can get a better sense of what took place in the third quarter of 2020&nbsp;
+As of late, the market has been brisk. Whereas we had very few buyers back during the recession, we now face a scarcity of properties for sale. Many people are looking to buy, but there are simply not enough homes for them to choose from. Today I’m bringing you the latest stats so you can get a better sense of what took place in the third quarter of 2020.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
 
@@ -37,6 +37,6 @@ As of late, the market has been brisk. Whereas we had very few buyers back durin
 
 9:49 — Wrapping up today’s recap&nbsp;
 
-This kind of frenzied activity is reminiscent of the period before the recession, but I don’t remember us ever getting down to as few properties as what we have right now. Due to the significant number of pendings in the third quarter, I believe this quarter will be quite strong, at least in terms of closed sales. After that, though, our market will likely hit a wall—not because we’ll be in the dead of winter, but because there’s just not enough supply to keep things moving.&nbsp;
+This kind of frenzied activity is reminiscent of the period before the recession, but I don’t remember us ever getting down to as few properties as we have right now. Due to the significant number of pendings in the third quarter, **I believe this quarter will be quite strong**, at least in terms of closed sales. After that, though, our market will likely hit a wall—not because we’ll be in the dead of winter, but because there’s just not enough supply to keep things moving.&nbsp;
 
 As always, reach out via phone or email if you have any questions, and please subscribe to our channel for more great content. If you’re already following us, know we greatly appreciate you\! For this blog’s outro (10:43), I’ll leave you with a little video I put together showcasing this year’s bounty—our tomatoes and tomatillos\!
