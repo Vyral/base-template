@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Here are the third quarter stats from our local real estate market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+2020+3rd+Quarter+Recap.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2020/Montana+Real+Estate+_+The+Hollinger+Team-+q3.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 8y8dc0EdES4
+youtube_code: kAmqGZTAWlg
 ---
 
 {% include youtube.html %}
