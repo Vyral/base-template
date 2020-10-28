@@ -17,7 +17,7 @@ youtube_code: jPIm7yfhX8k
 
 {% include youtube.html %}
 
-Here’s what to know about this year’s pie giveaway.&nbsp;
+<p style="text-align: center;"><em>Here’s what to know about this year’s pie giveaway.</em></p>
 
 Mark your calendars for Tuesday, November 24, for our fourth annual Thanksgiving Pie Giveaway\! Given the unique circumstances of this year, we’ll be tweaking our tradition a little; instead of having you drop by our offices to **pick up a delicious pumpkin, apple, or pecan pie,** we’ll be handing out pies from underneath a tent as folks drive by. Of course, we’ll be wearing gloves and masks, and we welcome you to do the same. In just a couple of weeks, we’ll be sending out an email to alert you via video update as to how you can register for the event and indicate what type of pie you want.
 
