@@ -95,7 +95,9 @@ podcast:
     Learn all the tips, tricks and more for buyers and sellers in the Tulsa Area
     Real Estate Market
   description: >-
-    While on Your Journey with Jennie, you will learn all the systems, tools and tips which have allowed her real estate team help over 100 families a year, while having lots of fun and spending quality time with family and friends!
+    While on Your Journey with Jennie, you will learn all the systems, tools and
+    tips which have allowed her real estate team help over 100 families a year,
+    while having lots of fun and spending quality time with family and friends!
   keywords: >-
     Real Estate agents, top real estate agents, local real estate agents, Real
     Estate Training, Real Estate Coaching, Real Estate Agent Tips, Free Real
@@ -112,9 +114,9 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: rgb(155, 182, 188)
-  accent_color: rgb(218, 144, 146)
-  theme_color: rgb(20, 55, 92)
+  brand_color: '#9bb6bc'
+  accent_color: '#da9092'
+  theme_color: '#14375c'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
