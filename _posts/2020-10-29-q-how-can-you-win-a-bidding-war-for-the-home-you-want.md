@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: How Can You Win a Bidding War for the Home You Want?'
-date: 2020-10-29 17:08:45
+date: 2020-10-29 17:08:00
 tags:
+  - Home Buyer Tips
 excerpt: Here are six tips that will make your offer stand out in a bidding war.
 enclosure:
 pullquote: Have a strategy to win and don’t try offering less than the list price.
@@ -15,7 +16,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are six tips that will make your offer stand out in a bidding war.</em></p>
+*Here are six tips that will make your offer stand out in a bidding war.*
 
 Nationally, multiple offers are becoming more and more frequent in the real estate market, and that’s certainly true in most segments of our Des Moines market.&nbsp;
 
