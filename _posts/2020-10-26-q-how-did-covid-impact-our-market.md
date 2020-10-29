@@ -3,6 +3,7 @@ layout: post
 title: 'Q: How Did COVID Impact Our Market?'
 date: 2020-10-26 20:41:00
 tags:
+  - Market Update
 excerpt: Here’s how our area market performed over the last six months.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4
