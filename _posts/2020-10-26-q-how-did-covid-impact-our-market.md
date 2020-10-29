@@ -17,13 +17,13 @@ youtube_code: 4_rVCH3YJUg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how our area market performed over the last six months.</em></p>
+*Here’s how our area market performed over the last six months.*
 
 Unsurprisingly, during the time between March and September of this year, the number of home sales dropped by 8.5%. What might surprise you, however, is that **prices have actually gone up by 3.2%** in that same time frame. That kind of price jump would have been a marker for a very robust and strong market even over a 12-month period.
 
 With the uncertainty that came along with COVID and the resulting shelter-in-place orders, many home sellers put the brakes on their home sales while buyers were still active in the market. That increased competition among buyers in that short period, which is what led to our price increase over the last six months.
 
-Another major factor that we track in the residential market is the **interest rates.** Rates were already incredibly good in March, hovering at that time around 3.75%, and now they’ve gone down more than a full point. Rates for regular condos, townhomes, and single-family homes are hovering somewhere between 2.5% and 3%. Good rates don’t hurt, but I think the main driving force behind the demand was that people were anxious about getting into their next homes so they could shelter in place.
+Another major factor that we track in the residential market is the **interest rates.** Rates were already incredibly good in March, hovering around 3.75% at that time, and now they’ve gone down more than a full point. Rates for regular condos, townhomes, and single-family homes are hovering somewhere between 2.5% and 3%. Good rates don’t hurt, but I think the main driving force behind the demand was that people were anxious about getting into their next homes so they could shelter in place.
 
 {% include pullquote.html %}
 
