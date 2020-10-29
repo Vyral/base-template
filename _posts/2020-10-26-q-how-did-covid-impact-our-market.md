@@ -19,7 +19,7 @@ youtube_code: 4_rVCH3YJUg
 
 {% include youtube.html %}
 
-*Here’s how our area market performed over the last six months.*
+<p style="text-align: center;"><em>Here’s how our area market performed over the last six months.</em></p>
 
 Unsurprisingly, during the time between March and September of this year, the number of home sales dropped by 8.5%. What might surprise you, however, is that **prices have actually gone up by 3.2%** in that same time frame. That kind of price jump would have been a marker for a very robust and strong market even over a 12-month period.
 
