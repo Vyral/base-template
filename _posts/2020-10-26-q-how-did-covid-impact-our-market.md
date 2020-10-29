@@ -4,7 +4,8 @@ title: 'Q: How Did COVID Impact Our Market?'
 date: 2020-10-26 20:41:00
 tags:
 excerpt: Here’s how our area market performed over the last six months.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4
 pullquote: >-
   Rates were already incredibly good in March, hovering at that time around
   3.75%, and now they’ve gone down more than a full point.
