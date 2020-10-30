@@ -35,7 +35,7 @@ If you have any questions or would like to learn more strategies for staging you
 
 ---
 
-### View this home in Matterport:
+### **View this home in Matterport:**
 
 &nbsp;
 
