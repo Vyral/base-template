@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The market stats for September are in; here’s everything you need to know!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Whats+Going+on+in+Our+Tulsa+Market_.mp4
 pullquote: >-
   If you need to sell right now, you’ll sell fast, but pay attention to your
   hyperlocal neighborhood market.
