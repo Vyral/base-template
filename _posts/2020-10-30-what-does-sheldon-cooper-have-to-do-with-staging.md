@@ -32,3 +32,9 @@ Earlier I asked what Dr. Sheldon Cooper has to do with curb appeal and staging. 
 When people are surprised, endorphins are released, and they feel differently; that’s what you want when they’re in your house. **Like our Sheldon prop, you want your property to stand out and be memorable**. (Why Sheldon? His character is pretty memorable, too.)
 
 If you have any questions or would like to learn more strategies for staging your home, give me a call, drop an email, or send a carrier pigeon. I’d love to help you realize your real estate dreams.
+
+<hr>
+
+<h3>View this home in Matterport:
+
+<center><iframe width='853' height='480' src='https://my.matterport.com/show/?m=U1n4j6gUFrf' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe></center>
