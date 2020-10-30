@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/xXrPHrI2Cn4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what you need to know about selling your home to iBuyers.</em></p>
+
 An iBuyer is a person or entity like Opendoor, Offerpad, or Zillow, which gives you an instant offer for your home. Here are three things you need to know if you’re planning to sell your home to an iBuyer:
 
 **1\. How iBuyers decide on the price of your home.** Usually, they pull comparables out of the market via tax records, and they always go in the lower spectrum of those comps. For example, if a property in your neighborhood sells for between $220,000 and $250,000, they’ll always value your property at the lower end. iBuyers tend to price homes very conservatively.
