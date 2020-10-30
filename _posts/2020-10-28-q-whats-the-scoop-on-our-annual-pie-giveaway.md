@@ -3,8 +3,10 @@ layout: post
 title: 'Q: What’s the Scoop on Our Annual Pie Giveaway?'
 date: 2020-10-28 18:39:00
 tags:
+  - Events
 excerpt: Here’s what to know about this year’s pie giveaway.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Q-+Whats+the+Scoop+on+Our+Annual+Pie+Giveaway_.mp4
 pullquote: >-
   Given the unique circumstances of this year, we’ll be tweaking our tradition a
   little.
