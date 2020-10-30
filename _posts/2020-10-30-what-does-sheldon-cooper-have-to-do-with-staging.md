@@ -36,5 +36,5 @@ If you have any questions or would like to learn more strategies for staging you
 <hr>
 
 <h3>View this home in Matterport:
-
+<br>
 <center><iframe width='853' height='480' src='https://my.matterport.com/show/?m=U1n4j6gUFrf' frameborder='0' allowfullscreen allow='xr-spatial-tracking'></iframe></center>
