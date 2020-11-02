@@ -23,7 +23,7 @@ youtube_code: uVy527wUn7g
 
 People purchase homes based on emotion, then rationalize with logic afterward. Therefore, you should **make the walk-through a positive emotional experience for buyers**. You want buyers to feel something when they see your house and when walking through it. Start with curb appeal: For example, make sure your lawn is well manicured before showings.
 
-As people walk into a home, they make their buying decision within seconds, then confirm it while walking through the rest of the house. Thus the entryway is crucial; it needs to look its best. You’ve heard the cliche that you don’t get a second chance to make a first impression, well, it’s the same with staging. **Flowers are an easy way to provoke emotions**; they’re a symbol of life, so people simply feel better with flowers around them. Dates, anniversaries, and funerals often include flowers for this reason.
+As people walk into a home, they make their buying decision within seconds, then confirm it while walking through the rest of the house. Thus the entryway is crucial; it needs to look its best. You’ve heard the cliche that you don’t get a second chance to make a first impression—well, it’s the same with staging. **Flowers are an easy way to provoke emotions**; they’re a symbol of life, so people simply feel better with flowers around them. Dates, anniversaries, and funerals often include flowers for this reason.
 
 {% include pullquote.html %}
 
