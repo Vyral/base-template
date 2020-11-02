@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/-0tyiUkYkX0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are my five tips for how to continue living in your for-sale home.</em></p>
+
 How can you continue to live in your home once you put it on the market? Your home has always been your sanctuary, your personal space, but now it’s listed for sale and will get a ton of foot traffic. This can get very stressful and make it difficult to continue living your regular life in your house, especially if you have young children. So here are five tips to help you continue living your life in your for-sale home and keep things a bit less hectic:
 
 **1\. Start packing now.** Packing and storing boxes in the basement or garage is completely acceptable. We want to open up as much space as possible; we’re emphasizing floor space and square footage, so the larger it feels, the more money you’ll get.&nbsp;
