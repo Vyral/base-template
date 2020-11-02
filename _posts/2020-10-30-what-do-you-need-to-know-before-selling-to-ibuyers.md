@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/xXrPHrI2Cn4'
 
 {% include youtube.html %}
 
-*Here’s what you need to know about selling your home to iBuyers.*
+<p style="text-align: center;"><em>Here’s what you need to know about selling your home to iBuyers.</em></p>
 
 An iBuyer is a person or entity like Opendoor, Offerpad, or Zillow, which gives you an instant offer for your home. Here are three things you need to know if you’re planning to sell your home to an iBuyer:
 
