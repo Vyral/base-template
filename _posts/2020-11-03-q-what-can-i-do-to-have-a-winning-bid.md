@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Can I Do to Have a Winning Bid?'
-date: 2020-11-03 16:34:04
+date: 2020-11-03 16:34:00
 tags:
   - Home Buyer Tips
 excerpt: Here are my four tips for homebuyers to compete in this seller’s market.
@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: sJ0Y_O8o48M
+youtube_code: k-OoezsXSds
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are my four tips for homebuyers to compete in this seller’s market.</em></p>
+*Here are my four tips for homebuyers to compete in this seller’s market.*
 
 Today’s real estate climate isn’t like it was a few years ago. It’s not about negotiating the best deal or getting the best price, it’s about winning the house. In many cases, you’re up against multiple offers and cash buyers. Here are four things you can do to increase your odds of winning in that kind of situation:
 
