@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does Sheldon Cooper Have to Do With Staging?
-date: 2020-10-30 00:00:00
+date: 2020-11-02 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
