@@ -15,7 +15,8 @@ youtube_code:
 
 {% include youtube.html %}
 
-*Here are three reasons that many choose to buy a home instead of renting.*
+<center><em>Here are three reasons that many choose to buy a home instead of renting.</em></center>
+&nbsp;
 
 Should you buy or rent a home? People decide to become homebuyers for many reasons, but for most of our clients, it typically boils down to a few specific reasons:
 
