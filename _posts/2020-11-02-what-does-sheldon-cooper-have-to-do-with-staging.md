@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'When selling, staging and curb appeal should elicit emotions from buyers.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/What+Does+Sheldon+Cooper+Have+to+Do+With+Staging_.mp4
 pullquote: People purchase homes based on emotion.
 enclosure_type: video/mp4
 enclosure_time:
