@@ -16,7 +16,7 @@ youtube_code: sJ0Y_O8o48M
 
 {% include youtube.html %}
 
-Here are my four tips for homebuyers to compete in this seller’s market.
+<p style="text-align: center;"><em>Here are my four tips for homebuyers to compete in this seller’s market.</em></p>
 
 Today’s real estate climate isn’t like it was a few years ago. It’s not about negotiating the best deal or getting the best price, it’s about winning the house. In many cases, you’re up against multiple offers and cash buyers. Here are four things you can do to increase your odds of winning in that kind of situation:
 
