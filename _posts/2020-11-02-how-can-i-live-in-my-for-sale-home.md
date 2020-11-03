@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-02-lioce-youtube.jpg
-youtube_code: 'https://youtu.be/-0tyiUkYkX0'
+youtube_code: 'https://youtu.be/LeWNALkxm3A'
 ---
 
 {% include youtube.html %}
