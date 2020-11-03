@@ -5,7 +5,8 @@ date: 2020-10-26 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Looking to shake up your giveaways? Here’s a technique to try!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Do+You+Want+to+Get+More+Back+From+Your+Giveaways_.mp4
 pullquote: >-
   It was a simple way to generate tons of referrals while having some fun with
   our database.
