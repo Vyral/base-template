@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are Some Easy Ways to Boost Curb Appeal?'
-date: 2020-11-04 18:15:28
+date: 2020-11-04 18:15:00
 tags:
 excerpt: Here are some projects/purchases to keep in mind if you’re preparing to sell.
 enclosure:
@@ -15,8 +15,10 @@ youtube_code: LPAybZvGYCI
 
 {% include youtube.html %}
 
-<center><em>Here are some projects/purchases to keep in mind if you’re preparing to sell.</em></center>
-&nbsp;
+<center><em>Here are some projects/purchases to keep in mind if you&rsquo;re preparing to sell.</em></center>
+
+<center>&nbsp;</center>
+
 First impressions are everything in real estate. Thankfully, improving your home’s curb appeal can be as simple as adding mulch and trimming both your trees and shrubbery. Additional enhancements to your front porch can instantly boost curb appeal, too, and some creative ideas include:&nbsp;
 
 • Trendy outdoor furniture&nbsp;
