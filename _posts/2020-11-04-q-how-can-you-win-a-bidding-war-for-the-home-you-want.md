@@ -16,7 +16,7 @@ youtube_code: INvjk7HqnRU
 
 {% include youtube.html %}
 
-Here are six tips that will make your offer stand out in a bidding war.
+<p style="text-align: center;"><em>Here are six tips that will make your offer stand out in a bidding war.</em></p>
 
 Nationally, multiple offers are becoming more and more frequent in the real estate market, and that’s certainly true in most segments of our Des Moines market.&nbsp;
 
