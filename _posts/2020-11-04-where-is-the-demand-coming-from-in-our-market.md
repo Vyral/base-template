@@ -19,7 +19,7 @@ youtube_code: F65GRVFfCXU
 
 {% include youtube.html %}
 
-Here is what you need to know about the demand for homes in our market.
+<p style="text-align: center;"><em>Here is what you need to know about the demand for homes in our market.</em></p>
 
 To understand where all of the demand in our market is coming from, it’s important to realize how drastically COVID-19 has changed buyer behavior; for many people, everything central in their lives now takes place at home (e.g., work and education), and this has spurred the need for more space. Whether it’s in the form of a home gym, office space, or dedicated classroom, **buyers are out in force looking for properties that can best accommodate their new at-home lifestyles.&nbsp;**
 
