@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: When Is Buying Better Than Renting?'
-date: 2020-11-03 21:02:36
+date: 2020-11-03 21:02:00
 tags:
 excerpt: Here are three reasons that many choose to buy a home instead of renting.
 enclosure:
@@ -10,12 +10,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/10-21-20yt-4.jpg
-youtube_code:
+youtube_code: 7GuQiI8-_9s
 ---
 
 {% include youtube.html %}
 
 <center><em>Here are three reasons that many choose to buy a home instead of renting.</em></center>
+
 &nbsp;
 
 Should you buy or rent a home? People decide to become homebuyers for many reasons, but for most of our clients, it typically boils down to a few specific reasons:
