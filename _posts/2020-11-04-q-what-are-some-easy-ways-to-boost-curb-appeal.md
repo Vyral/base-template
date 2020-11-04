@@ -15,8 +15,8 @@ youtube_code: LPAybZvGYCI
 
 {% include youtube.html %}
 
-*Here are some projects/purchases to keep in mind if you’re preparing to sell. *
-
+<center><em>Here are some projects/purchases to keep in mind if you’re preparing to sell.</em></center>
+&nbsp;
 First impressions are everything in real estate. Thankfully, improving your home’s curb appeal can be as simple as adding mulch and trimming both your trees and shrubbery. Additional enhancements to your front porch can instantly boost curb appeal, too, and some creative ideas include:&nbsp;
 
 • Trendy outdoor furniture&nbsp;
