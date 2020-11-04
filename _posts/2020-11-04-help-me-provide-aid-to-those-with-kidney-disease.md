@@ -17,7 +17,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Help me help those who suffer from kidney disease. Here’s how you can.
+<p style="text-align: center;"><em>Help me help those who suffer from kidney disease. Here’s how you can.</em></p>
 
 For this week’s blog post, I’m going to step out of my comfort zone and ask you for help. **We really need your support for the Northeast Kidney Foundation.** The Foundation is a tremendous organization where 97 cents of every dollar donated goes directly to patients and the research being done to help them.
 
