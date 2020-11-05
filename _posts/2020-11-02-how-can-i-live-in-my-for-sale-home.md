@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Here are my five tips for how to continue living in your for-sale home.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2020/Josh+Lioce+How+to+Live+in+Your+For+Sale+Home+EDIT.mp4
+  https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2020/How+Can+I+Live+in+My+For-Sale+Home_.mp4
 pullquote: >-
   You won’t believe how motivated kids can get when there’s something fun tied
   to a chore.
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-02-lioce-youtube.jpg
-youtube_code: 'https://youtu.be/LeWNALkxm3A'
+youtube_code: 'https://youtu.be/2p17EED9KBY'
 ---
 
 {% include youtube.html %}
