@@ -19,7 +19,7 @@ youtube_code: 6qokhaMolkM
 
 {% include youtube.html %}
 
-According to the latest numbers, we’re in a firm seller’s market.
+<p style="text-align: center;"><em>According to the latest numbers, we’re in a firm seller’s market.</em></p>
 
 If you’re thinking of selling your home in our Anchorage Valley real estate market, the numbers say now’s the time to do so.&nbsp;
 
