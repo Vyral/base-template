@@ -19,7 +19,7 @@ youtube_code: '-8v6nB8ZLKU'
 
 {% include youtube.html %}
 
-United Way can help you give back to our community. Here’s how.
+<p style="text-align: center;"><em>United Way can help you give back to our community. Here’s how.</em></p>
 
 For my latest Brand Ambassador spotlight, I couldn’t be more excited to be at the United Way of Carlisle & Cumberland County and sitting down with Pat Bartoli and Adam Schaffer, co-chairs of the 2020-21 fundraising campaign.&nbsp;
 
