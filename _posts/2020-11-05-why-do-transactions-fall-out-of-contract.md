@@ -26,6 +26,6 @@ youtube_code: jUjOnJY_MVI
 
 **2\. The buyer gets cold feet**. We have a very competitive seller’s market, and oftentimes in a multiple-offer situation, a buyer will get emotionally wrapped up in the deal and overextend themselves.
 
-**3\. The appraisal falls short**. Obviously, a bank doesn’t want to lend more on a home than what they feel it’s worth. In this market, we have buyers bidding over asking prices and we’re pushing the limits on appraisals. In the event that an appraisal comes in short, a buyer and seller have to come to a mutual agreement on what it looks like. Otherwise, the deal will fall apart and the home will go back on the market.
+**3\. The appraisal falls short**. Obviously, a bank doesn’t want to lend more on a home than what they feel it’s worth. In this market, we have buyers bidding over asking prices and we’re pushing the limits on appraisals. In the event that an appraisal comes in short, a buyer and seller have to come to a mutual agreement. Otherwise, the deal will fall apart and the home will go back on the market.
 
 If you have any questions for me about buying a home, selling a home, or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
