@@ -61,7 +61,7 @@ permalink: /strategy-call/
 <h1 class="join-us">Request a FREE One-on-one Business Planning Meeting</h1>
 <h5 class="join-us-subtitle">Enter your contact information to schedule your time.</h5>
 
-<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form id="strategy-call-form" method="post" class="home-value cta-forms" action="/thankyou" onsubmit="return setReturn()">
 					<fieldset>
 						<p id="thanks">&nbsp;</p><label for="name">Name*</label> <input type="text" required="" name="name" />
 						<label for="phone">Phone Number </label> <input type="tel" name="phone" />
@@ -70,6 +70,6 @@ permalink: /strategy-call/
 						<label for="city">City </label> <input type="text" name="city" />
 						<label for="state">State </label> <input type="text" name="state" />
 						<label for="message">How May I Help You?* </label><textarea name="message" required=""></textarea>
-						<input class="submit light-light" type="submit" value="Book a Call" name="submitrecruitingForm" /> <span class="asterisk">*required</span></fieldset>
+						<button class="g-recaptcha" data-sitekey="6LfZB-AZAAAAAC2lbb3FasU-bbR849Sftg4X4paO" data-callback='onSubmit'></fieldset>
 					<div class="hidden"><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Recruiting Contact Request Message From Your Vyral Careers and Training Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div>
 				</form>

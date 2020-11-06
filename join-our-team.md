@@ -76,11 +76,11 @@ So, if working with a company that has a unique culture and vision, all the tool
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
 
-<form class="home-value cta-forms" action="https://formspree.io/Misty@mistysold.com" method="post" onsubmit="return setReturn()">
+<form id="join-our-team" class="home-value cta-forms" action="/thankyou" method="post" onsubmit="return setReturn()">
 						<fieldset><label for="firstname">First Name*</label> <input name="firstname" required="" type="text" /> <label for="lastname">Last Name*</label> <input name="lastname" required="" type="text" /> <label for="email">Email*</label> <input name="name" type="text" /> <label for="phone">Phone Number </label> <input name="phone" type="tel" />
 							<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uqccv3cxu70vbjetrpacbj6cw7eutjchj6gw3nf0tp4dk7e1r38wk2ddhpux3b6gpp4rbkcmtk4-base32--><label for="city">City </label> <input name="city" type="text" /> <label for="state">State </label> <input name="state" type="text" /> <label for="employer">Current Employer </label> <input name="employer" type="text" /> <label for="message">Why are you interested in this? </label><textarea name="employer"></textarea>
 							<p>
-								<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uq8wk3chm3cxbm75q66y3jdcw7grkg6tm6gw35f1h6grtnd1r6exb8e4v32x1k6hw64uk4cdt70rbm6dgp8rvp6rv78x34ccwpew9pegwppdhr5nh62wv56ct0-base32--><input name="submitrecruitingForm" class="submit light-light" type="submit" value="Apply Now" /> <span class="asterisk">*required</span></p>
+								<button class="g-recaptcha" data-sitekey="6LfZB-AZAAAAAC2lbb3FasU-bbR849Sftg4X4paO" data-callback='onSubmit'></p>
 						</fieldset>
 						<!--base32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61uq8wk3cdvq0tvm75m6atvpe0v7jcv2cdq6gw1renv6erved8v6extk6mvkav9kcdt64v9pchr70rb4c9n3cy3ae1gp6rk2cdm6mdk7ewtq2thgexrk4t3md1jpwwhk71w36chpchnk6ckr75r68vk8dcv7crhmcdj7cw9gchnq0t34ddnp6xvbe4v68uvg6thp4d33cdvq0tbq75r6atvqe1r68u3j6nq6gdhjexv3adk3egr2urk1edjk6cg-base32-->
 						<div class="hidden">&lt;input type="hidden" name="_to" value="
