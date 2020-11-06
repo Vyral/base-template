@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/dustin-sherlin-foreclosure-crisis-yt.jpg
-youtube_code: 'https://youtu.be/SilyLxWi-v8'
+youtube_code: StABTqswSc4
 ---
 
 {% include youtube.html %}
