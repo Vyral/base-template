@@ -17,7 +17,7 @@ youtube_code: mXpK3R5BMQ8
 
 {% include youtube.html %}
 
-Here are three signs that you might need to hire an assistant.
+<p style="text-align: center;"><em>Here are three signs that you might need to hire an assistant.</em></p>
 
 At some point in your career, you may realize that your business isn’t progressing any further. That might signal to you that it’s time to hire an assistant so you can advance your career. Here are three signs that you’re ready to make this hire:
 
