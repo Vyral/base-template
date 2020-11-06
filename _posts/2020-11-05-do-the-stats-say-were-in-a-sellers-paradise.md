@@ -33,4 +33,4 @@ Though the number of new listings has plummeted, **the number of units sold has 
 
 Lastly, the average price has jumped 5% in the last six months. Year over year, it’s gone from $374,000 to $393,000.&nbsp;
 
-Like I said, now is the time to list your home if you want to maximize your sale price. My team and I sell about 600 homes a year, so we’d love the opportunity to help you sell quickly and hassle-free. If you’d like to get started or have any other real estate questions, feel free to call or email me anytime. I look forward to hearing from you.
+Like I said, now is the time to list your home if you want to maximize your sale price. My team and I sell about 600 homes a year, so we’d love the opportunity to help you sell quickly and hassle-free. If you’d like to get started or have any other real estate questions, feel free to call or email me. I look forward to hearing from you.
