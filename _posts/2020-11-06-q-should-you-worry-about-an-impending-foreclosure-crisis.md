@@ -5,7 +5,8 @@ date: 2020-11-06 15:15:00
 tags:
   - Real Estate
 excerpt: Here’s why I predict we won’t see a foreclosure crisis next year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dustin+Sherlin/Videos/2020/Dustin+Sherlin_Foreclosure+Crisis_Nov+1.mp4
 pullquote: >-
   These unique circumstances mean most homeowners have equity in their homes
   right now.
