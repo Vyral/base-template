@@ -16,7 +16,7 @@ youtube_code: '-W11EcgVfy4'
 
 {% include youtube.html %}
 
-*How did our market manage to stay afloat during COVID?*
+<p style="text-align: center;"><em>How did our market manage to stay afloat during COVID?</em></p>
 
 Our real estate market has been surprisingly strong, so today I’m going to take a deep dive behind the scenes to explain why and how the real estate market has defied gravity during COVID. One figure in particular that we’ll focus on is the unemployment rate—first, we’ll compare this year’s rate to that of the Great Recession in the last decade; next, we’ll look at unemployment rates by industry; and then we’ll look at how unemployment varied by age group.&nbsp;
 
