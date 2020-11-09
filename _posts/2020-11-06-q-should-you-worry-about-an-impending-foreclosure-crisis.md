@@ -19,15 +19,15 @@ youtube_code: StABTqswSc4
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why I predict we won’t see a foreclosure crisis next year.</em></p>
+*Here’s why I predict we won’t see a foreclosure crisis next year.*
 
-I’m sure you know all about how the pandemic and subsequent lockdown hurt the economy. Most people lost their jobs or had their hours cut, and as a result, are struggling to make mortgage payments.&nbsp;
+I’m sure you know all about how the pandemic and subsequent lockdowns hurt the economy. Most people lost their jobs or had their hours cut, and as a result, are struggling to make mortgage payments.&nbsp;
 
 You’ve also probably heard about various forbearance programs, or temporary private and government-funded programs that allow homeowners to reduce or postpone their monthly payments. As it stands, nearly 3.7 million borrowers are in mortgage forbearance programs—about 7% of all active mortgages. Many of these people just hit the six-month mark of their forbearance.&nbsp;
 
 {% include pullquote.html %}
 
-The question then becomes: What happens in another six months when the maximum term for these forbearance terms come to an end? This brings us to the possibility of a foreclosure crisis. Many homeowners will still not be able to make their mortgage payments as their forbearance programs run out. Unfortunately, some will be forced to go into foreclosure.&nbsp;
+The question then becomes: What happens in another six months when the maximum term for these forbearance periods come to an end? This brings us to the possibility of a foreclosure crisis. Many homeowners will still not be able to make their mortgage payments as their forbearance programs run out. Unfortunately, some will be forced to go into foreclosure.&nbsp;
 
 However, **I’m not expecting a repeat of 2008 for two reasons: current sky-high home prices and record-low mortgage rates.** These unique circumstances mean most homeowners have equity in their homes right now. In fact, home equity for homeowners with a mortgage rose 6.6% during the second quarter of this year. This rise in equity means homeowners have options, even if they’re struggling to make payments. They can put their homes on the market and sell them rather than lose them to foreclosure.&nbsp;
 
