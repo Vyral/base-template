@@ -16,7 +16,7 @@ youtube_code: '-W11EcgVfy4'
 
 {% include youtube.html %}
 
-How did our market manage to stay afloat during COVID?
+<p style="text-align: center;"><em>How did our market manage to stay afloat during COVID?</em></p>
 
 {% include pullquote.html %}
 
