@@ -15,7 +15,7 @@ youtube_code: 5RiquG6lnfk
 
 {% include youtube.html %}
 
-*Remember to RSVP for your free apple or pumpkin pie\!*
+<p style="text-align: center;"><em>Remember to RSVP for your free apple or pumpkin pie!</em></p>
 
 It’s hard to believe it’s that time of the year again—Thanksgiving is right around the corner\! We always look forward to the big pie event that we throw each year. Unfortunately, due to COVID, we’re not going to be able to hold it in a restaurant like we’ve done in the past.
 
