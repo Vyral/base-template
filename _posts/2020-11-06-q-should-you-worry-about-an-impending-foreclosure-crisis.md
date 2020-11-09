@@ -19,7 +19,7 @@ youtube_code: StABTqswSc4
 
 {% include youtube.html %}
 
-*Here’s why I predict we won’t see a foreclosure crisis next year.*
+<p style="text-align:center;"><em>Here’s why I predict we won’t see a foreclosure crisis next year.</em></p>
 
 I’m sure you know all about how the pandemic and subsequent lockdowns hurt the economy. Most people lost their jobs or had their hours cut, and as a result, are struggling to make mortgage payments.&nbsp;
 
