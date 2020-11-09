@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Are Walk-Throughs Important to Us?'
-date: 2020-09-11 20:13:24
+date: 2020-11-09 13:13:00
 tags:
   - Real Estate
 excerpt: Here’s why we offer a “Walk-Through Guarantee” to all of our clients.
@@ -17,7 +17,7 @@ youtube_code: nXUs85g5utY
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Here’s why we offer a “Walk-Through Guarantee” to all of our clients.</em></p>
+*Here’s why we offer a “Walk-Through Guarantee” to all of our clients.*
 
 When we talk about “walk-throughs,” we’re talking about the home tours we take of the properties we manage in order to observe any damage.&nbsp;
 
