@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: How Can You Win a Bidding War for the Home You Want?'
-date: 2020-11-06 18:07:41
+date: 2020-11-06 18:07:00
 tags:
   - Home Buyer Tips
 excerpt: Here are six tips that will make your offer stand out in a bidding war.
@@ -16,7 +16,7 @@ youtube_code: 4AmTNmFjv3Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are six tips that will make your offer stand out in a bidding war.</em></p>
+*Here are six tips that will make your offer stand out in a bidding war.*
 
 Nationally, multiple offers are becoming more and more frequent in the real estate market, and that’s certainly true in most segments of our Des Moines market.&nbsp;
 
@@ -26,13 +26,13 @@ As a buyer, when you make an offer for the home you want, it has to be presented
 
 **2\. Share the love.** We often have our buyers write a letter or take a picture of themselves to share with sellers because it’s a way of adding a personal touch and showing why they love the home. Many of us have a sentimental connection to our homes, which means sellers will want a buyer who will enjoy their home the way they did.&nbsp;
 
-**3\. Shorten or waive contingencies.** You don’t want to make it difficult for the seller to like you, and asking for closing costs, or a 21-day inspection period (as opposed to the normal seven-day period), or the walls to be professionally painted is a good way to do just that.
+**3\. Shorten or waive contingencies.** You don’t want to make it difficult for the seller to like you, and asking for closing costs, a 21-day inspection period (as opposed to the normal seven-day period), or for the walls to be professionally painted is a good way to do just that.
 
 {% include pullquote.html %}
 
 **4\. Pre-inspect the home.** This is somewhat of a continuation of the previous tip, since getting a pre-inspection allows you to waive the inspection contingency in your offer. Plus, it will help you uncover any potential problems with the home.&nbsp;
 
-**5\. Make your best offer.** In other words, don’t test the seller by offering less than what you’re able. In a multiple-offer situation, it behooves you to put your cards on the table. You don’t want to miss out on the home you want over $500 or $1,000.&nbsp;
+**5\. Make your best offer.** In other words, don’t test the seller by offering less than what you’re able. In a multiple-offer situation, it behooves you to put your cards on the table. You don’t want to miss out on the right home over $500 or $1,000.&nbsp;
 
 **6\. Make it easy for the seller.** For example, they may have to wait to take possession of their next home, so give them extended possession of your home after closing to make the moving process easier.&nbsp;
 
