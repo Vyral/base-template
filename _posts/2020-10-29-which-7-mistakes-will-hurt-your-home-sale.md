@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Sellers: Be proactive and avoid these huge home seller mistakes!'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Which+7+Mistakes+Will+Hurt+Your+Home+Sale_.mp4
 pullquote: Buyers can’t make an offer on a home they can’t see.
 enclosure_type: video/mp4
 enclosure_time:
