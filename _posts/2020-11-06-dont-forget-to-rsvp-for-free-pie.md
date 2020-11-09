@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Don’t Forget to RSVP for Free Pie!
-date: 2020-11-06 21:39:20
+date: 2020-11-06 21:39:00
 tags:
-  - Events
 excerpt: Remember to RSVP for your free apple or pumpkin pie!
 enclosure:
 pullquote:
@@ -16,7 +15,7 @@ youtube_code: 5RiquG6lnfk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Remember to RSVP for your free apple or pumpkin pie\!</em></p>
+*Remember to RSVP for your free apple or pumpkin pie\!*
 
 It’s hard to believe it’s that time of the year again—Thanksgiving is right around the corner\! We always look forward to the big pie event that we throw each year. Unfortunately, due to COID, we’re not going to be able to hold it in a restaurant like we’ve done in the past.
 
