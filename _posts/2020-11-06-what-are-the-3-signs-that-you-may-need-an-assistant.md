@@ -19,7 +19,7 @@ youtube_code: mXpK3R5BMQ8
 
 <p style="text-align: center;"><em>Here are three signs that you might need to hire an assistant.</em></p>
 
-At some point in your career, you may realize that your business isn’t progressing any further. That might signal to you that it’s time to hire an assistant so you can advance your career. Here are three signs that you’re ready to make this hire:
+At some point in your career, you may realize that your business isn’t progressing any further. That might signal that it’s time to hire an assistant so you can advance your career. Here are three signs that you’re ready to make this hire:
 
 **1. Your transaction count is hitting a ceiling.** If your transaction count paces between 25 and 40 transactions, you’ve likely hit a ceiling. One of two things will happen at this point: You’re going to lose work/life balance and burn out, or your customer service is going to suffer. If you’re pacing that range, you might want to think about taking the necessary steps to hire an assistant.
 
