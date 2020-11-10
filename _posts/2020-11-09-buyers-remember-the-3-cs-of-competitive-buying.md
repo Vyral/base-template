@@ -19,13 +19,13 @@ youtube_code: R4eFC5mdPwM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>In a competitive market, there are 3 ‘C’ words you should remember.</em></p>
+<p style="text-align: center;"><em>In a competitive market, there are 3 "Cs" you should remember.</em></p>
 
 When it comes to competing in our low-inventory market, there are three Cs to remember:
 
-**1\. Confidence.** Do not be intimidated by the fact that there’s many showings and multiple offers. First of all, showings don’t equal offers, and offers don't equal *great* offers. Have fun with it, and believe in your chances. It’s easy to feel so overwhelmed that you don’t even want to submit an offer at all, but resist that mindset—it’s a one-way ticket to further frustration. If you love the house, go for it. In one recent instance, my buyer submitted an offer that wasn’t really that much over asking price, but because I had a great relationship with the listing agent and the offer had a few key elements aside from price, it got accepted.
+**1\. Confidence.** Do not be intimidated by the fact that there are many showings and multiple offers. First of all, showings don’t equal offers, and offers don't equal *great* offers. Have fun with it, and believe in your chances. It’s easy to feel so overwhelmed that you don’t even want to submit an offer at all, but resist that mindset—it’s a one-way ticket to further frustration. If you love the house, go for it. In one recent instance, my buyer submitted an offer that wasn’t really that much over asking price, but because I had a great relationship with the listing agent and the offer had a few key elements aside from price, it got accepted.
 
-**2\. Communication.** That includes stellar communication between you and I. As a professional, I need to fully understand your needs, motivations, likes and dislikes, and time frame. It also means great communication between me and the listing agent. Of course, I don’t represent the seller, but it’s important that I talk with the listing agent to understand what the seller’s needs are so I can advise my buyer on how to craft an offer that will truly be appealing. For example, maybe the seller doesn’t know where they'll be moving just yet and could use a little extra time in the house; in that case, including a discounted rent-back period in your offer could be game-changing.
+**2\. Communication.** That includes stellar communication between you and me. As a professional, I need to fully understand your needs, motivations, likes and dislikes, and time frame. It also means great communication between me and the listing agent. Of course, I don’t represent the seller, but it’s important that I talk with the listing agent to understand what the seller’s needs are so I can advise my buyer on how to craft an offer that will truly be appealing. For example, maybe the seller doesn’t know where they'll be moving just yet and could use a little extra time in the house; in that case, including a discounted rent-back period in your offer could be game-changing.
 
 {% include pullquote.html %}
 
