@@ -1,18 +1,18 @@
 ---
 layout: post
-title: What Are the 3 Signs That You May Need an Assistant?
+title: What Are 3 Signs That You May Need an Assistant?
 date: 2020-11-06 17:32:00
 tags:
   - Business Model
 excerpt: Here are three signs that you might need to hire an assistant.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/videoplayback+(4).mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/videoplayback+(7).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: mXpK3R5BMQ8
+youtube_code: NvnPTpdtjyk
 ---
 
 {% include youtube.html %}
