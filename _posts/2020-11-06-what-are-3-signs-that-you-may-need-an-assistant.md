@@ -6,13 +6,13 @@ tags:
   - Business Model
 excerpt: Here are three signs that you might need to hire an assistant.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/videoplayback+(7).mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/videoplayback.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: NvnPTpdtjyk
+youtube_code: groVhEV4asM
 ---
 
 {% include youtube.html %}
