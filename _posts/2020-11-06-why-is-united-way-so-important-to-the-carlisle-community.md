@@ -3,7 +3,7 @@ layout: post
 title: Why Is United Way So Important to the Carlisle Community?
 date: 2020-11-06 17:15:33
 tags:
-  - Brand Ambassador
+  - Carlisle Community
 excerpt: United Way can help you give back to our community. Here’s how.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+United+Way.mp4
@@ -21,7 +21,7 @@ youtube_code: WVFiGUxnL6E
 
 <p style="text-align: center;"><em>United Way can help you give back to our community. Here’s how.</em></p>
 
-For my latest Brand Ambassador spotlight, I couldn’t be more excited to be at the United Way of Carlisle & Cumberland County and sitting down with Pat Bartoli and Adam Schaffer, co-chairs of the 2020-21 fundraising campaign.&nbsp;
+For today's video, I couldn’t be more excited to be at the United Way of Carlisle & Cumberland County and sitting down with Pat Bartoli and Adam Schaffer, co-chairs of the 2020-21 fundraising campaign.&nbsp;
 
 What does United Way do and why is it so important to the greater Carlisle area? In Adam’s words, **United Way addresses a lot of issues in our community—specifically, those that deal with the health, education, and financial stability of families.** They’re also a handy gateway for people who don’t know where to donate funds but want to help their community. You can donate at United Way, and they then vet 38 partner programs and 24 partner agencies to distribute those funds to.&nbsp;
 
@@ -38,4 +38,4 @@ If you care about the wonderful organizations in our community, a key thing you 
 * Email: [events@uwcarlisle.org](mailto:events@uwcarlisle.org)
 * Website: [UWCarlisle.org](https://uwcarlisle.org/)
 
-As always, if you have questions about today’s guests or have an organization you’d like to see me spotlight in a future Brand Ambassador video, don’t hesitate to get in touch with me. I’d love to hear from you.
+As always, if you have questions about today’s guests, don’t hesitate to get in touch with me. I’d love to hear from you.
