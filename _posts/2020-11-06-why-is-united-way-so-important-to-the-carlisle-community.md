@@ -6,7 +6,7 @@ tags:
   - Carlisle Community
 excerpt: United Way can help you give back to our community. Here’s how.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent-+United+Way.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Why+Is+United+Way+So+Important+to+the+Carlisle+Community_.mp4
 pullquote: >-
   To get their message out there, they’re utilizing social media and shooting
   videos just like this one.
