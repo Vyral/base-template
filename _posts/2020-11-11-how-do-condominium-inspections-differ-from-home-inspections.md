@@ -19,7 +19,7 @@ youtube_code: CL2gE-_vtPQ
 
 {% include youtube.html %}
 
-Here’s how condominium inspections differ from single-family home inspections.
+<p style="text-align: center;"><em>Here’s how condominium inspections differ from single-family home inspections.</em></p>
 
 What’s the difference between a single-family home inspection and a condominium inspection?
 
