@@ -6,8 +6,9 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: Here are the three reasons that real estate deals typically fall apart
-enclosure:
+excerpt: Here are the three reasons that real estate deals typically fall apart.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Gary+Jacklin/Videos/2020/Why+Do+Transactions+Fall+Out+of+Contract.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
