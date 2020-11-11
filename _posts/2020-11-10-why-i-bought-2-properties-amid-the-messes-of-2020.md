@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Is Now a Solid Time to Buy Real Estate?
+title: Why I Bought 2 Properties Amid the Messes of 2020
 date: 2020-11-10 00:00:00
 tags:
   - Real Estate
