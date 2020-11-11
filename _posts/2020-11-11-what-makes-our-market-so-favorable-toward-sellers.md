@@ -16,7 +16,7 @@ youtube_code: z6KDgSCMWO8
 
 {% include youtube.html %}
 
-Due to low inventory, Charleston is in a very strong seller’s market.
+<p style="text-align: center;"><em>Due to low inventory, Charleston is in a very strong seller’s market.</em></p>
 
 The current state of our Charleston real estate market is heavily dependent on inventory. Over the last few months, inventory has continued to drop. In a steady market, there are usually around 5,000 homes for sale. As of the recording of this video, there are 3,010 homes for sale—we’ve been hovering around the 3,000 mark lately.&nbsp;
 
