@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/66UEXvVBqnc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Open House Every Day will increase your sign calls.</em></p>
+
 As you know, one of the most important lead sources we agents have is sign calls. The past few years, my team and I have been running a program that’s helped us triple our sign calls, and today I’ll tell you how to implement this program.&nbsp;
 
 The program is called Open House Every Day. When we put a sign in front of one of our listings, the rider says ‘Open House Every Day’ and ‘Call for Times.’ At the bottom of the rider, we include a tracking number where buyers can reach our agents. You can see an example of one of our riders at 0:53 in the video above. We’ve generated somewhere around 700 calls from buyers using these riders.&nbsp;
