@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: 'It’s a great time to buy real estate, and I put my money where my mouth is.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Steven+Rosado/Videos/2020/Why+I+Bought+2+Properties+Amid+the+Messes+of+2020.mp4
 pullquote: >-
   There’s no substitute for being equipped and ready to pull the trigger at a
   moment’s notice.
