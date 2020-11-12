@@ -27,7 +27,7 @@ Now on to the serious business\!&nbsp;
 
 Look, a lot of people have concerns. A lot of you said if Trump or Clinton were elected last time you were leaving the country. No one left&#151;not anyone we wanted to leave. By the time you watch this video, the election will likely be decided or largely decided. Right? But how does the outcome of the election affect real estate? Well, guys, I'm going to answer that for you today, or at least share what we predict. The first thing we need to understand is what we should expect in the fall. Okay? Let me run you through some of this data. This is data that I personally pulled from the Washington County Multiple Listing Service. This isn't data I got from some website or googling Forbes.com. This is data we pulled locally. What we did is, we looked at what happens in the fall of each year. What would we expect?
 
-GRAPHIC
+<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/5+Things+Every+Home+Buyer+News+to+Know+about+Building+a+New+Home+_+_Sunwood+Homes+Answers_+Videos.mp4" max-width="75%">
 
 Well, what we expect is the following. October, November, December sales looked pretty strong year over year. Only in January do they dip. So from '16, when we had a presidential election, sales did not dip until January, and they dipped by 20% in the month of January, from October to January. In '17 and '18 they dipped 18% in January. They were largely the same all fall and into December. From 2018 to January '19 sales did dip in December, but by and large they dipped mainly in January.&nbsp;
 
