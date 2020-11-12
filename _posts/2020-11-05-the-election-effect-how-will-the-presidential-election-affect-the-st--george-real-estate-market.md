@@ -6,7 +6,10 @@ title: >-
 date: 2020-11-05 18:00:13
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  Today we’re answering the SINGLE MOST ASKED QUESTION in the current real
+  estate market! And why wouldn’t it be? This is by far the most toxic
+  presidential election season of all time.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
