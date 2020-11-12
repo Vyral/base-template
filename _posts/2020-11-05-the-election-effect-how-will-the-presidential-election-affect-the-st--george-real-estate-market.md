@@ -13,8 +13,10 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: E9pcTth2_Ek
 ---
+
+{% include youtube.html %}
 
 Before we get down to brass tacks, I want you to know that:&nbsp;
 
