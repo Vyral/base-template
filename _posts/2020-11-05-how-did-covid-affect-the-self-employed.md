@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Did COVID Affect the Self-Employed?'
+title: How Did COVID Affect the Self-Employed?
 date: 2020-11-05 15:29:00
 tags:
   - Finance Advice
