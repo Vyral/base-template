@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Q: How Did COVID Affect the Self-Employed?'
-date: 2020-11-05 15:29:25
+date: 2020-11-05 15:29:00
 tags:
+  - Finance Advice
 excerpt: Here’s a look at the options available for today’s self-employed buyers.
 enclosure:
 pullquote: 'If you’re self-employed and need a mortgage, you have options.'
@@ -10,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: L-pxEk5QHbI
+youtube_code: lZlXxqd6Vo8
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a look at the options available for today’s self-employed buyers.</em></p>
+*Here’s a look at the options available for today’s self-employed buyers.*
 
 Before I get started, I wanted to give you a little advice if you have an investment property and you want to tap into that equity.
 
