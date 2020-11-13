@@ -18,9 +18,9 @@ youtube_code: ZBaYK0o8j1E
 
 <center><em>Here are some homemade tips on how to throw a Pie Day event this year.</em></center>
 
-<br>Today I’m sharing a few tips for how to throw a pie day, even during the pandemic. **Traditionally, we hold our Pie Days on the Sunday before Thanksgiving during the afternoon**. We found that’s a great day and time to do it—it’s still daylight, and it’s less stressful for people to swing by and pick up their pie. They also get to be the Thanksgiving hero who brings the pie to the table!
+<br>Today I’m sharing a few tips for how to throw a Pie Day, even during the pandemic. **Traditionally, we hold our Pie Days on the Sunday before Thanksgiving during the afternoon**. We found that’s a great day and time to do it—it’s still daylight, and it’s less stressful for people to swing by and pick up their pie. They also get to be the Thanksgiving hero who brings the pie to the table\!
 
-For your Pie Day event, make sure you have a sponsor, a non-profit organization that you can donate canned food or extra pies to, and set a budget. Our team gives away 100 pies, and it’s first-come, first-served. The email blast and promotion goes out to our database and people we know, who are given a link to sign up for their free pie.
+For your Pie Day event, make sure you have a sponsor, a nonprofit organization that you can donate canned food or extra pies to, and set a budget. Our team gives away 100 pies, and it’s first-come, first-served. The email blast and promotion goes out to our database and people we know, who are given a link to sign up for their free pie.
 
 {% include pullquote.html %}
 
