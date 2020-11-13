@@ -16,7 +16,7 @@ youtube_code: lZlXxqd6Vo8
 
 {% include youtube.html %}
 
-*Here’s a look at the options available for today’s self-employed buyers.*
+<p style="text-align: center;"><em>Here’s a look at the options available for today’s self-employed buyers.</em></p>
 
 Before I get started, I wanted to give you a little advice if you have an investment property and you want to tap into that equity.
 
