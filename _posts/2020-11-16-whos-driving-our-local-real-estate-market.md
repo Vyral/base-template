@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/xu6aISOMLRg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a statistical breakdown of where demand in our market is coming from.</em></p>
+
 What’s clear is that our local market is on fire and buyer activity remains high in the face of low inventory, but what’s not so clear is where, exactly, all these buyers are coming from. One of our subscribers, Jane, wanted to hear some statistics about this, and what we found is certainly interesting enough to share with you today.&nbsp;
 
 **This year, we are finding that 50% of our market’s home sales originate locally,** meaning the general Savage, Prior Lake, and Shakopee area. Buyers are either moving from one of these municipalities to another or moving to a new home within the same municipality.&nbsp;
