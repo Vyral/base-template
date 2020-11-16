@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Know a Need in the Community That Needs Filling?'
-date: 2020-11-16 19:39:01
+date: 2020-11-16 19:39:00
 tags:
 excerpt: Our mission this year is to find a need in the community and fill it.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/11-16-20yt.jpg
-youtube_code:
+youtube_code: 9Lk6ilrhAaw
 ---
 
 {% include youtube.html %}
