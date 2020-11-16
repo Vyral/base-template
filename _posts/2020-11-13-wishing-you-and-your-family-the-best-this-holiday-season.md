@@ -18,4 +18,4 @@ youtube_code: 'https://youtu.be/Xc6pENNVNF0'
 
 <p style="text-align: center;"><em>The holidays are here and we wanted to send a short message to all of you.</em></p>
 
-Another holiday season is here and it’s the best time to remember those who make the holidays meaningful. This year has been full of surprises and challenges, but now it’s time to slow down and focus on what really matters: enjoying life, having a good time with family over great food and even better conversations. We would like to thank all of you for your support this year and we wish you joy, happiness, and a very successful new year. To hear our full message, watch the short video above.
+Another holiday season is here, and it’s the best time to remember those who make the holidays meaningful. This year has been full of surprises and challenges, but now it’s time to slow down and focus on what really matters: enjoying life and having a good time with family over great food and even better conversations. We thank all of you for your support this year, and we wish you joy, happiness, and a very successful new year. To hear our full message, watch the short video above.
