@@ -15,7 +15,9 @@ youtube_code:
 
 {% include youtube.html %}
 
-*Our mission this year is to find a need in the community and fill it. *
+<center><em>Our mission this year is to find a need in the community and fill it.</em></center>
+
+&nbsp;
 
 I know this year has been unlike any other year before it; we’ve all faced so many new challenges, and we all had to get used to living with ongoing uncertainty. Business owners seldom (if ever) account for global pandemics and lockdowns, so our only option was to be equal parts optimistic and adaptable. That has been especially true for the charities and nonprofits in our community, whose operations were put in serious jeopardy this year.
 
