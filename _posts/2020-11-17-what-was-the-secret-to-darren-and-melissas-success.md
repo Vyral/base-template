@@ -23,6 +23,7 @@ youtube_code: vzbZhJTg4yQ
 
 <center><em>Here&rsquo;s the story of how my clients were able to sell quickly in a slow moving segment.</em></center>
 
+
 I’m joined today by Darren and Melissa, wonderful clients of mine whose home I recently had the honor of selling. They’ve graciously agreed to share some details of their experience so that you can benefit from their experience and have a successful sale of your own.
 
 **Darren and Melissa were in an out-of-town market, and theirs was a larger home above the price points that had been successful.** They knew they wanted to sell, and had gotten a quarter of the way through some renovations on the home when COVID-19 hit. After a few months of waiting, they were finally able to finish up the work on their home, but still needed to locate a professional to help them start the selling process in earnest.&nbsp;
