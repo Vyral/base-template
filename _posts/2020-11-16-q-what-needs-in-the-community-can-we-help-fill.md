@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Know a Need in the Community That Needs Filling?'
+title: 'Q: What Needs in the Community Can We Help Fill?'
 date: 2020-11-16 19:39:00
 tags:
 excerpt: Our mission this year is to find a need in the community and fill it.
