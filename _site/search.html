@@ -16,8 +16,8 @@
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,200' rel='stylesheet' type='text/css'>
   <!-- style-->
   <link rel="stylesheet" href="/css/main.css">
-  <link rel="canonical" href="http://homesteadvlog.com/search.html">
-  <link rel="alternate" type="application/rss+xml" title="-- CLIENT BRAND --" href="http://homesteadvlog.com/feed.xml">
+  <link rel="canonical" href="http://localhost:4000/search.html">
+  <link rel="alternate" type="application/rss+xml" title="-- CLIENT BRAND --" href="http://localhost:4000/feed.xml">
   <!-- All that meta crap -->
   <meta name="description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional  Real Estate Agents.
 	">
@@ -30,7 +30,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="-- CLIENT BRAND --">
   <meta itemprop="name" content="-- CLIENT BRAND --">
-  <meta property="og:url" content="http://homesteadvlog.com/search.html">
+  <meta property="og:url" content="http://localhost:4000/search.html">
   <meta property="og:description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional  Real Estate Agents.">
   <meta property="og:site_name" content="-- CLIENT BRAND --">
   <meta property="og:locale" content="en_US">
@@ -41,13 +41,13 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Zach Sikes - your professional  Real Estate Agents.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2017">
+  <meta name="copyright" content="Copyright © 2020">
   <meta name="author" content="Zach Sikes">
   <meta name="designer" content="Bryce Stradling">
   <meta name="email" content="zach@HomesteadRealtyCo.com">
   <meta name="robots" content="index, follow">
   <meta name="googlebot" content="index, follow">
-  <link type="text/plain" rel="author" href="http://homesteadvlog.com/humans.txt">
+  <link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
   <link rel="author" href=""/>
 
   <!-- ICONS HOLY CRAP -->
@@ -57,6 +57,33 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="black">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -136,13 +163,6 @@
 
 
 <li>
-	<a href="https://plus.google.com/u/0/b/105870652911689352093" class="social-links" target="_blank">
-		<svg id="Google_plus" data-name="Google plus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.86 50"><title>Google Plus</title><path d="M419.86,89.5c-14.32,0-25.93,11.19-25.93,25s11.61,25,25.93,25,25.93-11.19,25.93-25S434.18,89.5,419.86,89.5ZM412.45,127a12.68,12.68,0,0,1-12.87-14c0.81-6.69,7.24-11.58,14.19-10.94a12.5,12.5,0,0,1,6.72,2.67,0.74,0.74,0,0,1,0,1.12l-2.38,2.2a0.81,0.81,0,0,1-1,0,7.53,7.53,0,0,0-4.65-1.49,7.9,7.9,0,1,0,0,15.79c4.28,0,6.33-2.49,7.07-4.37a0.77,0.77,0,0,0-.75-1h-5.53c-0.44,0-.24-0.33-0.24-0.76v-2.77c0-.42-0.2-0.47.24-0.47H424a0.68,0.68,0,0,1,.79.52,8.81,8.81,0,0,1,.1,1.35C424.9,122,419.93,127,412.45,127Zm27-11h-2.11c-0.44,0-.33.63-0.33,1.05v2a1.45,1.45,0,0,1-1.26.91h-2.13c-0.44,0-1.61-.49-1.61-0.91v-2c0-.42.47-1.05,0-1.05h-2.11c-0.44,0-.92-0.05-0.92-0.47v-2.05c0-.42.48-0.47,0.92-0.47H432c0.44,0,0-.63,0-1.05v-2c0-.42,1.18-0.91,1.61-0.91h2.13a1.45,1.45,0,0,1,1.26.91v2c0,0.42-.11,1.05.33,1.05h2.11c0.44,0,1.56.05,1.56,0.47v2.05C441,115.95,439.88,116,439.44,116Z" transform="translate(-393.93 -89.5)"/></svg>
-	</a>
-</li>
-
-
-<li>
 	<a href="https://www.youtube.com/channel/UCKQuM4vWrXzfQYwUs7Y5bbQ" class="social-links" target="_blank">
 		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>YouTube</title><path d="M31.91 23.95l-10-6.25a1.11 1.11 0 0 0-1.2 0 1.2 1.2 0 0 0-.57 1.09v12.5a1.2 1.2 0 0 0 .57 1.09 1.18 1.18 0 0 0 .57.16 1.09 1.09 0 0 0 .65-.2l10-6.25a1.24 1.24 0 0 0-.02-2.14z"/><path d="M25 0a25 25 0 1 0 25 25A25 25 0 0 0 25 0zm16.88 33.48a4.43 4.43 0 0 1-3.77 3.54 117.21 117.21 0 0 1-13.11.49 117.21 117.21 0 0 1-13.11-.49 4.48 4.48 0 0 1-3.79-3.54A39.64 39.64 0 0 1 7.49 25a38.4 38.4 0 0 1 .65-8.43 4.46 4.46 0 0 1 3.77-3.54 117.22 117.22 0 0 1 13.11-.49 117.22 117.22 0 0 1 13.11.49 4.48 4.48 0 0 1 3.79 3.54 39.63 39.63 0 0 1 .61 8.48 38.4 38.4 0 0 1-.66 8.43z"/></svg>
 	</a>
@@ -158,9 +178,15 @@
 
 
 
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/homestead-co-podcast-with-zach-sikes/id1255274951?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
+
 
 <li>
-	<a class="social-links feedlink" data-clipboard-text="http://http://homesteadvlog.com/feed.xml">
+	<a class="social-links feedlink" data-clipboard-text="http://http://localhost:4000/feed.xml">
 		<svg id="Rss" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>rss</title><path d="M559.51,147a25,25,0,1,0,25,25A25,25,0,0,0,559.51,147Zm-9.09,37.5a3.41,3.41,0,1,1,3.41-3.41A3.41,3.41,0,0,1,550.42,184.49Zm12.2-.62a1,1,0,0,1-.83.13h-2.4a0.94,0.94,0,0,1-1.12-.79A11.25,11.25,0,0,0,548,173.11a1,1,0,0,1-1-1v-2.4a0.71,0.71,0,0,1,.38-0.62,1,1,0,0,1,.77-0.09h0.09a14.32,14.32,0,0,1,10,4.44,15.38,15.38,0,0,1,4.65,9.8A0.7,0.7,0,0,1,562.61,183.87Zm9.07,0a1,1,0,0,1-.82.11h-2.54a1,1,0,0,1-1.14-.82,20.22,20.22,0,0,0-19.13-19,1,1,0,0,1-1.07-1v-2.54a1.7,1.7,0,0,1,.36-1.06,1.49,1.49,0,0,1,.79-0.56h0.05c6.22,1,12.06,3.17,16.46,7.59A25,25,0,0,1,572,183.05,1.08,1.08,0,0,1,571.69,183.89Z" transform="translate(-534.51 -146.99)"/></svg>
 	</a>
 	<div class="feedbox">
@@ -188,6 +214,501 @@
 
 <script>
   window.store = {
+    
+      "do-you-know-a-good-fit-for-our-team-html": {
+        "title": "Do You Know a Good Fit for Our Team?",
+        "author": "",
+        "category": "",
+        "content": "We wouldn’t be where we are today without your support for our team over the years. As a result, we’ve continued to grow, and now we need to grow our staff and were hoping you could help out. If you or someone you know is humble, hungry, smart, and interested in starting a career in real estate, we’d love to hear from you. Our goal is to staff up as quickly as possible, so reach out as soon as possible. To learn more about this opportunity, watch this short video above.",
+        "url": "/do-you-know-a-good-fit-for-our-team.html"
+      }
+      ,
+    
+      "q-have-you-heard-our-big-announcement-html": {
+        "title": "Q: Have You Heard Our Big Announcement?",
+        "author": "",
+        "category": "",
+        "content": "Today&rsquo;s announcement is fantastic news for homebuyers. Today I am excited to announce the launch of House and Home Mortgage, our in-house mortgage brokerage at Homestead &amp; Co. We’ve heard your complaints about the home buying process being too cumbersome and complicated by too many price fluctuations, and we’re here to address them. We’ve partnered with proven industry leaders and experienced loan officers, and backed it all up by industry-leading investors. This will allow us to give you a much smoother transaction process when buying a home. To learn more about this exciting new development, watch this short video.",
+        "url": "/q-have-you-heard-our-big-announcement.html"
+      }
+      ,
+    
+      "q-what-happens-if-you-get-a-low-appraisal-html": {
+        "title": "Q: What Happens If You Get a Low Appraisal?",
+        "author": "",
+        "category": "",
+        "content": "If the appraisal comes in low, you have four options as a buyer or seller. Low appraisals are happening more frequently this year because low inventory is putting upward pressure on pricing. In most residential single-family unit sales, they’re basing pricing on comparable sales data, otherwise known as comps. The comps they’re using have already closed, so it’s historical data. As inventory is lowered and prices increase, the data is months old, so it isn’t justifying the higher price. The appraisers will keep up with the market but only at a conservative rate, which could lead to appraisal shortfalls, or low appraisals. You have four options if you receive a low appraisal:1. Either party can walk away. The earnest money can return to the buyer, and no deal happens. That’s always an option in an Oklahoma real estate commission contract. 2. The buyer can bring cash to cover the difference. If they’re putting 20% or more down, it may not even affect their loan amount to cover the distance between the appraisal and purchase price.3. The seller can lower the price to the appraised value. This generally happens when the buyer doesn’t have enough cash to cover the difference.4. The buyer and seller can meet in the middle. Maybe the buyer only has a few thousand extra dollars, so the seller can come down some of the way. You can bridge the gap to get the deal done. Issues like this can always arise, which is why we always recommend you work with an experienced, educated real estate agent to guide you through the process, whether you’re a buyer or seller. “We always recommend you work with an experienced, educated real estate agent.”If you have further questions about low appraisals or anything else concerning real estate, reach out via phone or email today. I would love to help you.",
+        "url": "/q-what-happens-if-you-get-a-low-appraisal.html"
+      }
+      ,
+    
+      "q-how-do-you-win-out-in-a-multiple-offer-situation-html": {
+        "title": "Q: How Do You Win Out in a Multiple-Offer Situation?",
+        "author": "",
+        "category": "",
+        "content": "Speed and strength are what make a winning offer.&nbsp; As of right now, we have just 1.5 months of inventory in our Oklahoma City metro market, which is incredibly low. If no new homes came onto the market, it would take just a month and a half to sell off all homes across all price points. Since six months of inventory is considered a balanced market, we’re in a very strong seller’s market. This means many properties are fetching multiple offers and prices are being pushed upward. If you’re a buyer, there are two keys to remember to compete in a multiple-offer situation. 1. Speed. Submit your offer as quickly as possible—I recommend doing it the very same day the home goes on the market. We always advise sellers that their first offer is usually their best, so the quicker you turn your offer in, the better your chance of having it accepted.2. Strength. When it comes to strength, there are four areas to focus on:  Price: The higher the price, the more likely the seller will pick your offer.  Closing costs: Are you paying your own or asking the seller to pay some of them? With so much pressure on pricing, there’s a higher likelihood that some appraisals will come in low. If you’re asking the seller to pay some closing costs in this situation, your offer becomes less attractive.   Earnest money: Purchase contracts in Oklahoma are very favorable in terms of buyer protection, meaning you can put down more earnest money and still be protected. It won’t cost you any more to show the buyer you’re serious.   Flexibility: If you use a good agent, they’ll chat with the listing agent to find out if there’s anything your party can do to tailor the contract to the seller’s needs. “Many properties are fetching multiple offers and prices are being pushed upward.”Bonus tip: Cover appraisal shortgages. When prices are being pushed upward, sellers can get concerned that their home’s appraisal will come in low in a financed deal. If you want to make your offer more attractive, offer to cover appraisal shortages up to a certain amount. For example, if a house is agreed to be sold for $300,000 but only appraises for $290,000, the buyer can typically back out of the deal unless the seller agrees to drop the price to the appraised amount. If you really want to win the home, though, you can tell the seller that you’ll cover any appraisal difference as long as it doesn’t exceed $10,000. As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help. ",
+        "url": "/q-how-do-you-win-out-in-a-multiple-offer-situation.html"
+      }
+      ,
+    
+      "whats-the-difference-between-appraisals-and-inspections-html": {
+        "title": "What’s the Difference Between Appraisals and Inspections?",
+        "author": "",
+        "category": "",
+        "content": "I&rsquo;m explaining the difference between appraisals and inspections. When purchasing a home, everyone’s told to get an inspection and appraisal. However, some mistakenly think they’re the same thing. Anytime you’re financing a property, your bank will hire an appraiser. The bank you receive a loan from will use your home as collateral, and an appraisal provides proof of your property’s value. Some types of loans such as FHA, VA, and sometimes USDA have rigid requirements regarding the home’s condition, so any issues found by an appraiser must be fixed. If an appraiser says, for example, that three particular things need to be repaired, those fixes are mandatory.“Appraisers look for value, inspectors look for condition.”An inspection is a little different. An inspector will do a more thorough examination of the house than an appraiser. Issues found by an inspector are only recommendations and are completely negotiable between the buyer and seller. These may include a leaking roof, unsafe wiring, broken A/C, and more. Bottom line: Appraisers look for value, inspectors look for condition. This is why it’s critical to have an agent in your corner to explain and help you through everything in a real estate transaction. When you need a real estate agent, give us a call or send an email. Also, contact us if you have any questions about real estate. We would love to help with whatever you need.",
+        "url": "/whats-the-difference-between-appraisals-and-inspections.html"
+      }
+      ,
+    
+      "what-are-home-buying-conditions-like-html": {
+        "title": "What Are Home Buying Conditions Like?",
+        "author": "",
+        "category": "",
+        "content": "If you want to move this summer, you need to start now. Here&rsquo;s why. Summer’s here, but what does that mean for real estate? For those of you with kids out of school for the summer and want to move into a new school district, now is the time to look at buying. In the best-case scenario, the home purchase process is going to take at least 30 days. It’s time to get a plan in place to make sure you’re in your new home by fall, and the new school year begins. To learn more about how we can help, watch this short video. ",
+        "url": "/what-are-home-buying-conditions-like.html"
+      }
+      ,
+    
+      "have-you-worked-with-us-in-2020-html": {
+        "title": "Have You Worked With Us in 2020?",
+        "author": "",
+        "category": "",
+        "content": "We want to say a big thank-you to all our clients and agents in 2020. Today we wanted to reach out and say a huge thank-you. First, thank you to our customers and clients who trusted us with their real estate needs in 2020. We’ve been able to help a record number of families throughout the first half of the year. We couldn’t have done this without our excellent agent partners. We’re continuing to bring on more agent partners to help even more families. We have nothing but gratitude for all our clients and partners!We hope to help you all with your real estate needs in the future. If you ever have any questions, feel free to reach out via phone or email. We would love to help you.",
+        "url": "/have-you-worked-with-us-in-2020.html"
+      }
+      ,
+    
+      "a-key-stipulation-regarding-mortgage-forbearances-html": {
+        "title": "A Key Stipulation Regarding Mortgage Forbearances",
+        "author": "",
+        "category": "",
+        "content": "If you can still make your mortgage payments, we recommend not taking on a forbearance. Here&rsquo;s why. Forbearance—it’s a buzzword that’s become ubiquitous among homeowners ever since the coronavirus pandemic hit. A forbearance is the ability to defer your mortgage payments if you encounter financial hardship. This is of great assistance to those who truly can’t pay their mortgage, but if you still can, we recommend not taking on a forbearance. To find out why, watch the short video above.",
+        "url": "/a-key-stipulation-regarding-mortgage-forbearances.html"
+      }
+      ,
+    
+      "a-quick-update-on-the-edmond-real-estate-market-html": {
+        "title": "A Quick Update on the Edmond Real Estate Market",
+        "author": "",
+        "category": "",
+        "content": "When you want to know how the market is doing, you need to know the price range that you&rsquo;re looking in. Here&rsquo;s why. One question I get asked all the time is, “How’s the market?” It’s a really hard question for us to answer because it depends on a number of different factors.Every price range has a different market. When we hear this question, our agents will pull a quick analysis of your particular market, which you can see at 0:37 in the video above. It shows all of the homes in a given price range in a given area, as well as the months of inventory.Generally, six months is considered a balanced market. Anything less is a seller’s market, and anything more is a buyer’s market. In a seller’s market, prices typically have an upward pressure and in a buyer’s market, there’s downward pressure.“The $100,000 to $200,000 price range in Edmond is a hot market.”For example, take a look at the Edmond market between $100,000 and $200,000. There were 355 homes sold in the last six months, for an average of around 60 per month. There are only 33 properties on the market right now, so we have just 0.5 months of inventory. If you’re in the $100,000 to $200,000 price range in Edmond, it’s a fantastic time to enter the market. Let’s contrast that with what the market is doing in Edmond in the $400,000 to $500,000 market. There have been 150 home sales in the last six months, which means we’re selling around 25 homes per month. With 122 homes active on the market right now, we have just about five months of inventory.What does all of this mean? You really need an expert on your side who knows the market that you’re in and what it’s doing. In the lower price ranges, sellers have the advantage, while it’s more balanced in the higher price ranges.If you have questions about the numbers in your area or anything else related to real estate, feel free to reach out via phone or email. We look forward to hearing from you soon.",
+        "url": "/a-quick-update-on-the-edmond-real-estate-market.html"
+      }
+      ,
+    
+      "the-difference-between-when-mortgages-and-rents-are-paid-html": {
+        "title": "The Difference Between When Mortgages and Rents Are Paid",
+        "author": "",
+        "category": "",
+        "content": "The way you paid mortgages and rents are different. Today we&rsquo;ll discuss this. Do you know the difference between how mortgages and rents are paid? Here’s a quick overview to refresh your memory:  Rent is paid in advance. For example, if you pay your rent on January 1, that rent applies to the entire month of January. Mortgages are the opposite. Your January mortgage payment won’t be due until February. This knowledge comes in handy when moving from a place you’re renting to a home you’re buyingIf you have a lease that’s up, for example, on June 30, we can shoot for a target closing date on your new house somewhere in the middle of June, so let’s say June 15. This gives you two weeks to move out of your current residence and into your new property, and time to get your rental into a condition in which to get your deposit back. If you close on June 15, your first payment won’t actually be due until August 1. You will pay interest for the month of June, then the July payment isn’t due until August 1. This is invaluable when working with moving costs and ensuring you aren’t making double payments.If you have questions about how this may work for your situation or real estate in general, please give us a call or send us an email. We would love to help you. ",
+        "url": "/the-difference-between-when-mortgages-and-rents-are-paid.html"
+      }
+      ,
+    
+      "the-relationship-between-price-size-location-and-quality-html": {
+        "title": "The Relationship Between Price, Size, Location, and Quality",
+        "author": "",
+        "category": "",
+        "content": "What is the relationship between price, size, location, and quality when you&rsquo;re looking for a new home to buy? Find out here. When it comes to finding out what’s most important in the home buying process, I coach our agents the same way I coach our clients. We use a really simple formula: Location + quality + size = price. “This formula keeps things simple and allows us to help our clients find their perfect home that fits not only their budget, but also their size, quality, and location requirements.”This may look like common sense at first, but when we’re in the middle of the buying process, sometimes we can get confused or overwhelmed.  During the process where we lay out this formula for them, we also ask our clients a few framing questions:   Is location or quality more important to you?   Are you okay with paying more to get the size that you need, or would you rather sacrifice the quality for the size?  If you want a home of a certain size and quality, are you okay with changing your location or your price?This formula keeps things simple and allows us to help our clients find their perfect home that fits not only their budget, but also their size, quality, and location requirements.If you have any questions about these criteria or the methods we use to help clients find homes that meet them, don’t hesitate to reach out. We’d love to help you.",
+        "url": "/the-relationship-between-price-size-location-and-quality.html"
+      }
+      ,
+    
+      "sneak-preview-of-our-new-office-html": {
+        "title": "Sneak Preview of Our New Office!",
+        "author": "",
+        "category": "",
+        "content": "Today I&rsquo;m delivering a quick sneak preview of our new office! Today I want to give you a quick sneak preview of our new office! At 0:20 in the video above you can see some of the features of our new space. One thing we’re thrilled about is our new call booths. These allow agents to have private communication with our clients. That way everything is confidential. Our agents are loving them — they’re already getting a lot of use. We also have a new training room, which is exciting because it’s an excellent space to educate team members without bothering the other agents at work. If you have any questions regarding real estate, please don’t hesitate to reach out to us by phone or email (we’ll receive it at our new office)! We would love to help you with your real estate needs. ",
+        "url": "/sneak-preview-of-our-new-office.html"
+      }
+      ,
+    
+      "the-current-state-of-the-market-december-2019-html": {
+        "title": "The Current State of the Market: December 2019",
+        "author": "",
+        "category": "",
+        "content": "Today let&rsquo;s reflect on the year-to-date 2019 real estate market and what we predict for the end of this market year. So far this year, the number of new listings has increased by about 5.5%, meaning that more properties have been hitting the market. The interesting part of that is we also saw the number of new contracts with pending homes increase by a similar amount. This shows that the market is absorbing all the new inventory—this is a great sign for those who are thinking of selling their homes this year or next. However that’s not the only great sign for sellers in our market:Our average days on market are down by 9.6%, meaning that not only are more homes selling, but they’re also selling faster.“All in all, it’s been a great year.”Plus, the median and average sales prices have increased by a whopping 6%, and we anticipate our market finishing out the year really close to that figure.All in all, it’s been a great year for us, and especially for those who already own a home and are thinking about selling. Don’t hesitate to reach out to us for any questions you have about the market or about selling your home quickly and for top dollar. We’d love to help you.",
+        "url": "/the-current-state-of-the-market-december-2019.html"
+      }
+      ,
+    
+      "thanks-to-you-2019-was-a-great-year-html": {
+        "title": "Thanks to You, 2019 Was a Great Year",
+        "author": "",
+        "category": "",
+        "content": "Thank you all for yet another great year! Today I’m sending out a huge thank-you to all of our clients who have trusted in us this year. We’ve been beyond blessed to have your trust and business—thank you so much! We helped a record number of families in 2019 and were able to get in business with a record number of agents, as well. With all of those blessings that you’ve given us, we’ve officially outgrown our space! We’ll be moving from our humble beginnings and into a great new space within the next month or so. Be sure to keep an eye out for future announcements! As always, if you ever have any questions that we at Homestead &amp; Co. can help you with, don’t hesitate to reach out to us. We’re here to help you.",
+        "url": "/thanks-to-you-2019-was-a-great-year.html"
+      }
+      ,
+    
+      "why-you-shouldnt-wait-until-spring-to-sell-your-home-html": {
+        "title": "Why You Shouldn’t Wait Until Spring to Sell Your Home",
+        "author": "",
+        "category": "",
+        "content": "Thinking of selling your home this winter? Here are a few tips to keep in mind. Most people think that the best time to sell a house is in the spring because that’s when a ton of other sellers put their homes on the market.However, because of that influx of activity, there’s a lot of inventory on the market, and demand can’t keep up with the rate that new homes hit the market.“I recommend that you don’t wait until after the holidays.”In December of 2018, around 1,681 homes hit the market, and 92% of those went under contract that same month. In January of 2019, just under 2,500 homes hit the market, and only 75% went under contract in the same month.So, if you’re thinking about selling your home, I recommend that you don’t wait until after the holidays. Though there are fewer homes available and less activity in general, this can actually work to your advantage.If you’d like to discuss in more detail why that is or if you have any real estate-related questions at all, don’t hesitate to reach out to me. I’d be glad to speak with you.",
+        "url": "/why-you-shouldnt-wait-until-spring-to-sell-your-home.html"
+      }
+      ,
+    
+      "the-most-common-loan-types-used-in-our-market-html": {
+        "title": "The Most Common Loan Types Used in Our Market",
+        "author": "",
+        "category": "",
+        "content": "What kind of loans are used most commonly in our market? Let&rsquo;s discuss. In our local market, there are four types of home loans we see used more often than any others. Today, I’ll share what each of them is and what they entail.1. FHA loans. While this loan is commonly associated with and used by first-time homebuyers, you don’t have to be buying your first home to make use of it. Buyers of all types will be happy to know that this loan allows them to get into a property for just 3.5% down. However, there is a $294,000 maximum loan amount for this product. 2. VA loans. These loans are specifically designed for veterans, who can use it to buy a home with zero down. The max loan for this is also fairly generous, at around $453,000. Better yet, the loan also reduces or removes the expense of mortgage insurance, depending on your circumstances. 3. Conventional loans. This is perhaps the most common type of loan product. Those who use it can put as little as 3.5% down, but submitting a down payment of at least 20% is preferable if you want to lower your monthly payments. 4. Jumbo loans. If you need to borrow more than $453,000, this is the loan product you’ll need to get. If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. ",
+        "url": "/the-most-common-loan-types-used-in-our-market.html"
+      }
+      ,
+    
+      "overpricing-your-home-can-cost-you-thousands-html": {
+        "title": "Overpricing Your Home Can Cost You Thousands",
+        "author": "",
+        "category": "",
+        "content": "     Overpricing your property when putting it on the market can cost you thousands—here’s why. If you’re a home seller, overpricing your property right out of the gate can cost you thousands of dollars. To help explain why, I want you to imagine two different scenarios. First of all, let’s say you’ve decided to move and you’ve found the perfect home for you and your family. In scenario one, you catch the seller right as they’re sticking a “For Sale” sign in the yard. In scenario two, you come across the home after it’s been on the market for 170, 190, 210, or even 240 days. How much different would your offer be between those two scenarios? “Overpricing your property right out of the gate can cost you thousands of dollars.”If you’re thinking you’d offer much less in the second scenario, that’s exactly my point: The longer a home is on the market, the less buyers are willing to pay for it. We agents can’t sell properties for more than their market value, but we can make sure your home doesn’t have a stigma following it around because of its high days on market. That’s why you must price your home properly right out of the gate.If you’d like to know more about how to price your home to sell or you have any other real estate questions I can answer, don’t hesitate to reach out to me. I’d love to help you.  ",
+        "url": "/overpricing-your-home-can-cost-you-thousands.html"
+      }
+      ,
+    
+      "3-factors-to-remember-when-analyzing-investment-properties-html": {
+        "title": "3 Factors to Remember When Analyzing Investment Properties",
+        "author": "",
+        "category": "",
+        "content": "When you’re considering the investment worthiness of a property, it’s easy to forget the factors that should be paramount in your decision. Here are three to keep in mind: 1. Monthly principal payments. We’ve talked a lot about positive and negative cash flow, but let’s not forget that every month you’re paying down the principal balance on the mortgage, which serves as a sort of forced savings. When trying to discern a good deal from a bad deal, compare the principal you’d pay on a given property to other types of long-term investment for retirement. “Real estate is one of those assets that appreciates each year, yet it depreciates in the eyes of the tax law.”2. Potential additional income derived from late fees. Every now and then, a tenant might be late on their rent payment, and you’ll earn a little extra income from the attached late fee. Everyone’s happy in the end: The tenant is able to stay in the property for a small fee on top of rent, and you feel justly compensated for the late payment.3. Appreciation over time. This is why I love investment property. Real estate is one of those assets that appreciates each year, yet it depreciates in the eyes of the tax law. Did you know you can actually depreciate your property while you own it by deducting the cost of buying or improving it? Before you go this route, though, be sure to consult with your CPA on what’s most appropriate for your specific situation. If you have any questions or would like more details about these key factors when investing in real estate, please don’t hesitate to let me know. I hope to hear from you soon!   ",
+        "url": "/3-factors-to-remember-when-analyzing-investment-properties.html"
+      }
+      ,
+    
+      "positive-negative-cash-flow-with-your-rental-property-html": {
+        "title": "Positive &amp; Negative Cash Flow With Your Rental Property",
+        "author": "",
+        "category": "",
+        "content": "When it comes to real estate investing, it’s not uncommon for beginners to miscalculate their cash flow. Many mistakenly believe that because they’re renting their property out for $1,000 a month, yet only paying $700 to $800 in monthly mortgage costs, it must mean they have a positive cash flow. In reality, they’re simply failing to account for other expenses. Instead, consider this approach: the 50% rule. This rule asserts that 50% of the rent you collect should go to your monthly expenses and as long as your principal interest is below that 50% threshold, you’ll have a property with positive cash flow on your hands. If you have any questions or would like more information about buying, selling, or investing in real estate, don’t hesitate to contact us. We’d be happy to help!",
+        "url": "/positive-negative-cash-flow-with-your-rental-property.html"
+      }
+      ,
+    
+      "determining-the-sales-price-of-a-fixer-upper-html": {
+        "title": "Determining the Sales Price of a Fixer-Upper",
+        "author": "",
+        "category": "",
+        "content": "When it comes to answering the question of how much you should spend on a fixer-upper home, we need to understand how to calculate the value of the property in its as-is condition before repairs.First, we need to address the ARV, or the ‘after repair value.’ This describes how much a property will be worth once all updates and repairs have been completed. To find the max sales price, we take the ARV and subtract from it the cost of those repairs and updates, as well as any potential profit.“The maximal sales price of a fixer-upper home is calculated by taking the ARV and subtracting from it the costs of repairs and the potential profit gained from selling the home.”Conversely, when we sell a home that needs updates, it’s critical to understand how a buyer looks at such a property. In this case, we take a similar approach: We subtract any costs for the repairs needed and we also have to account for the profit someone is going to make on the house when we sell it. Buyers won’t typically buy a house that needs work without some kind of incentive to take on the extra work and risk.To reiterate: The maximal sales price of a fixer-upper home is calculated by taking the ARV and subtracting from it the costs of repairs and the potential profit gained from selling the home.If you have any questions about this topic, don’t hesitate to reach out to me. I’d love to dive into this a little deeper with you.",
+        "url": "/determining-the-sales-price-of-a-fixer-upper.html"
+      }
+      ,
+    
+      "is-selling-your-home-to-an-instant-offer-company-worth-it-html": {
+        "title": "Is Selling Your Home to an Instant Offer Company Worth it?",
+        "author": "",
+        "category": "",
+        "content": "Lately, you’ve probably noticed a lot of advertisements from companies claiming to buy your home outright for cash. Some of these companies are local investors, others are investing firms, and others still are huge real estate companies like Opendoor and Zillow. The truth is that though they may offer cash, these companies tend to offer sellers prices that are far below market value. Instant offer companies do provide a convenient avenue for distressed sales, but they aren’t right for everyone. If you want to learn more or have any other questions about whether this kind of arrangement would benefit you, feel free to give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/is-selling-your-home-to-an-instant-offer-company-worth-it.html"
+      }
+      ,
+    
+      "we-wouldnt-be-able-to-do-what-we-do-without-you-html": {
+        "title": "We Wouldn’t Be Able to Do What We Do Without You",
+        "author": "",
+        "category": "",
+        "content": "We’ve had an amazing first quarter here at Homestead &amp; Co., and we want to thank you personally for trusting us with your real estate needs. We’ve nearly doubled the number of families we’ve been able to help find a home, and without you, we wouldn’t have been able to provide this service. If you ever have any real estate needs, don’t hesitate to reach out to us. We’d love to help you.",
+        "url": "/we-wouldnt-be-able-to-do-what-we-do-without-you.html"
+      }
+      ,
+    
+      "sellers-not-all-home-upgrades-will-add-value-html": {
+        "title": "Sellers: Not All Home Upgrades Will Add Value",
+        "author": "",
+        "category": "",
+        "content": "Everyone wants to add value to their home before putting it on the market, but a lot of the advice about how to do so misses the mark. To give you a better idea of what does and doesn’t add value, we’ll be covering a few important points today.First of all, don’t add a pool. If you want to add this feature for your personal enjoyment, then “by all means” go for it. However, you should know that pools only bring about a 10% return on interest in terms of market value. It isn’t just “fun” home upgrades that offer little value. Practical repairs like a new roof or a new HVAC system will also bring little to no return. Buyers expect these areas of your home to be in good, working condition. Instead of seeing it as added value, they simply see it as a given. “Upgrading your home won’t always bring more value, but strategic improvements can still help you sell.”But what about new carpet or paint? These two items almost always appear on lists of the best upgrades to make before you sell, but the truth is that they will only add value in certain circumstances. If a home badly needs freshening up, new carpet and paint are a good idea. If the home is already in near-perfect condition, though, new carpet and paint won’t make as big of an impact as you might expect. The bottom line is this: Upgrading your home won’t always bring more value, but strategic improvements can still help you sell if your home isn’t up to its full potential without them. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. ",
+        "url": "/sellers-not-all-home-upgrades-will-add-value.html"
+      }
+      ,
+    
+      "how-to-ensure-quality-repairs-following-a-home-inspection-html": {
+        "title": "How to Ensure Quality Repairs Following a Home Inspection",
+        "author": "",
+        "category": "",
+        "content": "Imagine this: You’ve found the perfect home, submitted an offer, and gone under contract. You think everything is going smoothly, but then you get the results of the inspection report. It’s normal for this report to turn up issues, but the severity of these issues can vary vastly. However, it’s the way these problems are addressed that truly matters.In general, a buyer will be more likely to ensure quality repairs are done than a seller, who will usually have their focus elsewhere. Even the most well-intentioned sellers may be tempted to fall back on a quick fix rather than a long-lasting solution. Most sellers simply don’t have the time to focus on repairs given everything else they’ve got to handle during their home sale.“Even the most well-intentioned sellers may be tempted to fall back on a quick fix rather than a long-lasting solution.”If the seller does choose to take care of repairs, though, they should always hire a third-party contractor. This person has no stake in the transaction. Their sole focus is taking care of the issue at hand. Alternatively, a buyer may opt to ask for a credit from the seller. This allows buyers to get repairs finished in their own time and on their own terms.All in all, problems listed on an inspection report should not cause too much alarm unless they’re truly extreme. There are a number of ways to resolve these issues and keep the deal moving forward.If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/how-to-ensure-quality-repairs-following-a-home-inspection.html"
+      }
+      ,
+    
+      "can-you-buy-a-pre-foreclosure-on-zillow-html": {
+        "title": "Can You Buy a Pre-Foreclosure on Zillow?",
+        "author": "",
+        "category": "",
+        "content": "One of the most-asked questions I hear as a real estate agent is, “How do I buy this pre-foreclosure on Zillow in order to save some money?” I’m going to explain today.When I pull up all of the foreclosures and pre-foreclosures on Zillow, you can see that the foreclosure homes have definite prices, while the pre-foreclosures just have an estimate. There’s actually a bigger difference between the two you should know.“A foreclosure home is actually for sale. A pre-foreclosure home is not.”A home that’s listed as a foreclosure is actually already for sale. If a home is listed as a pre-foreclosure, it’s technically not for sale. Zillow identifies these properties by a lis pendens, which essentially means that the homeowner has missed a payment or two on their mortgage and are in danger of pre-fault. Once they record the lis pendens on the title, it lets other people know that a couple of different things could happen:1.The resident catches up on their payments.2.The property goes into foreclosure, but we don’t know what price it will be until that time.3.The property could be sold without hitting the market at all.In conclusion, if you’re looking for a home in the next few months, I’d steer clear of pre-foreclosures. If you have any questions for me about buying a home or about real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.",
+        "url": "/can-you-buy-a-pre-foreclosure-on-zillow.html"
+      }
+      ,
+    
+      "thank-you-for-an-amazing-2018-html": {
+        "title": "Thank You for an Amazing 2018",
+        "author": "",
+        "category": "",
+        "content": "Today I want to take a break from real estate to thank you for an amazing 2018. As the new year approaches and we reflect on the year that’s passed, we were able to help an unprecedented number of families buy and sell homes. We were also able to develop some great relationships with other phenomenal agents, which allowed us to raise the bar on our customer service and lay some amazing groundwork for an explosive 2019. We couldn’t have done any of this without you, and you can always trust us with your real estate needs. To hear our full message as we close the book on 2018, watch this short video.",
+        "url": "/thank-you-for-an-amazing-2018.html"
+      }
+      ,
+    
+      "what-youre-paying-for-in-your-closing-costs-html": {
+        "title": "What You’re Paying for in Your Closing Costs",
+        "author": "",
+        "category": "",
+        "content": "Closing costs seem to be somewhat of a mystery to many. They’re are essentially additional fees (outside of the down payment) that are associated with the purchase of a home. Today we’ll be using a program to calculate example payments you’ll find in your closing costs.You can follow along with the video example starting at 00:35.For the example, let’s say the purchase price is $250,000 with a 10% down payment, an interest rate of 4.99%, and a 30-year conventional mortgage loan. There is also a 1.1% cost for hazard insurance and 1.12% for taxes.“These are the costs you’ll be paying when you purchase a home.”After the numbers are crunched, the total closing costs (not including the $25,000 down payment) are $7,379.06. This amount is broken down into prepaid costs, title fees, lender fees, and other fees.Prepaid costs are incurred by the buyer after closing and include insurance, escrow, and some interest. Title fees facilitate the closing of the property and provide protection for the buyer, and include title policies, closing fees, attorneys, GAP coverage, and more. Lender fees ensure the home is in good shape and include appraisals, inspections, and surveys.These are the costs you’ll be paying when you purchase a home. If you have any questions or need further information, feel free to reach out to us. We look forward to hearing from you.",
+        "url": "/what-youre-paying-for-in-your-closing-costs.html"
+      }
+      ,
+    
+      "5-ways-to-discern-between-rational-and-emotional-decisions-when-buying-or-selling-html": {
+        "title": "5 Ways to Discern Between Rational and Emotional Decisions When Buying or Selling",
+        "author": "",
+        "category": "",
+        "content": "It can be hard to remove personal feelings from a real estate deal. After all, our homes are incredibly important to us. So when it comes time to buy or sell a home, it can be hard to know whether you’re making decisions driven by logic or whether you’re letting your emotions take the wheel.Today we’ll be covering five strategies that can help you determine whether you’re making choices for the right reasons during your buying or selling experience:1. Ask yourself: If you sleep on the decision, will you feel the same way in the morning? Sometimes in the heat of the moment, we can convince ourselves that a certain choice is the only way to go. After giving ourselves more time to think, though, we may come to a different conclusion. Applying this strategy to the decisions you make during your home purchase could save you from making a major mistake. 2. Ask yourself: Are you thinking about your feelings, or about what makes the most sense? Everyone wants to earn the best possible deal when it comes to real estate. With that being the case, the people on the other side of your transaction may have a very different idea of how things should proceed. If this happens, it’s important not to let any of the emotions this might bring out cloud your judgment. “When it comes time to buy or sell a home, it can be hard to know whether you’re making decisions driven by logic, or whether you’re letting your emotions take the wheel.”3. Ask yourself: Is what you want to say going to actually help, or just make you feel better? Any conversation that will legitimately move the deal forward is one you should certainly have. That said, it’s best to think twice before blurting out something you might regret. 4. Ask yourself: Are you simply reacting on impulse, or are you thinking through your decisions? Gut reactions are rarely the most fruitful responses in a real estate deal. Acting in accordance with a carefully thought-out plan will be much more helpful to your ultimate goal.   5. Ask a trusted advisor for their opinion. Sometimes, the answer you need can’t come from within. Seeking out the guidance of a professional, instead, may sometimes be your best option.If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon. ",
+        "url": "/5-ways-to-discern-between-rational-and-emotional-decisions-when-buying-or-selling.html"
+      }
+      ,
+    
+      "why-its-easier-selling-your-home-in-q4-than-it-is-in-q1-html": {
+        "title": "Why It’s Easier Selling Your Home in Q4 Than It Is in Q1",
+        "author": "",
+        "category": "",
+        "content": "Most people assume that springtime, or the first quarter of the year (Q1), is the best time to sell your home and that wintertime, or the fourth quarter (Q4), is a bad time to do it. According to the numbers, though, this simply isn’t true.Although it is true that more homes sell during the first quarter, there are fewer homes that come on the market during the fourth quarter, so the absorption rate is higher during that time.For example, during the fourth quarter of 2017, there were 1,014 new listings that came on the market and 834 homes that went under contract. If you do the math, that’s the market absorbing 82% of the new inventory.“If you’re thinking of selling your home sometime in the next six months, I highly recommend doing it during the fourth quarter of this year instead of the first quarter of next year.”During the first quarter of this year, there were 1,446 new listings that came on the market and 1,121 homes that went under contract, which means the market only absorbed 77% of the new inventory.As you can see, more homes sell during the first quarter, but the competition is also higher, which is why the chances that you can sell your home during that time actually decrease by 5%. If you’re thinking of selling your home sometime in the next six months, I highly recommend doing it during the fourth quarter of this year instead of the first quarter of next year.If you have any more questions about the best time to sell your home or you have any other real estate needs I can help you with, don’t hesitate to give me a call or send me an email. I’d love to help you. ",
+        "url": "/why-its-easier-selling-your-home-in-q4-than-it-is-in-q1.html"
+      }
+      ,
+    
+      "5-ways-to-make-the-most-of-your-fall-listing-html": {
+        "title": "5 Ways to Make the Most of Your Fall Listing",
+        "author": "",
+        "category": "",
+        "content": "If you plan to sell your home this fall, there are five points you should keep in mind:1. We’re still in a strong seller’s market. A balanced market is one which has six months of available inventory, yet our current market has just three months’ worth of supply right now. In other words, sellers currently have a strong advantage. 2. It’s important not to overspend on updating your listing. Doing some home improvements before you list can help you earn top dollar, but not all projects will be worth the investment. Partnering with your agent to determine which updates will bring the best ROI will be essential. 3. The more people who see your home, the better. Don’t limit the number of showings you take on. “Only professional agents have the knowledge, experience, and resources necessary to achieve optimal results in our market.”4. Fairly priced homes will see the best results. With that in mind, make sure you don’t overprice your home. Even in a strong seller’s market, overpricing can extend the time your listing sits on the market and ultimately lose you money. 5. Hiring an agent to help with your sale is crucial. Trying to sell your home on your own would be a huge mistake. Only professional agents have the knowledge, experience, and resources necessary to achieve optimal results in our market.If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. ",
+        "url": "/5-ways-to-make-the-most-of-your-fall-listing.html"
+      }
+      ,
+    
+      "3-options-for-homeowners-who-need-to-buy-and-sell-html": {
+        "title": "3 Options for Homeowners Who Need to Buy and Sell",
+        "author": "",
+        "category": "",
+        "content": "If you’re looking to buy a new home but you also have a home you need to sell, you have three options in which to proceed.First, you can buy a new home before selling your current one. This option requires the most out-of-pocket cash since you are owning two homes at once, but it is also the most convenient. You also get the chance to lock down the perfect home.Second, you can sell your current home before buying the new one. This option is less risky, but it’s also less convenient. With this option, you will have an accelerated timeline to find and close on your next home, but it could result in you losing out on your dream home.Third, you can do a back-to-back close. This is where you close both transactions on the same day, within the same hour. There are a lot of variables involved with this option, though, so you should discuss it with your agent before deciding to try it.“Each of these options has its benefits and drawbacks.”If you have any questions about any of these options or are thinking of buying or selling a home soon, please feel free to reach out to me. I would be happy to help you.",
+        "url": "/3-options-for-homeowners-who-need-to-buy-and-sell.html"
+      }
+      ,
+    
+      "oklahoma-city-market-update-for-the-first-half-of-2018-html": {
+        "title": "Oklahoma City Market Update for the First Half of 2018",
+        "author": "",
+        "category": "",
+        "content": "Today I’ve got a quick market update for you for the first half of 2018. The numbers are in and we’ve got great news.The Oklahoma City metro market is strong. New listings are up by 8.7%, which means more homeowners are listing their homes. New pending sales are also up 7.8%, which tells us that the market is ready for the increased supply and buyers are buying those homes up. Closed sales are up by 4.3%, which is also following that same trend.“We’re in a strong seller’s market with 3.7 months’ worth of inventory.”Here are a few more statistics that show how our market is seeing positive movement this summer:  Our days on market is down 5%  Our average sales price is up 3%  Our median sales price is up 2.1%When you put all those numbers together, you can see that we are still in a strong seller’s market with a 3.7-month supply of inventory. If you’ve been thinking about selling your home this year, now is a great time to do that.If you have any questions for us or you’re thinking about buying or selling a home, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.",
+        "url": "/oklahoma-city-market-update-for-the-first-half-of-2018.html"
+      }
+      ,
+    
+      "a-big-thank-you-to-our-amazing-clients-html": {
+        "title": "A Big Thank You to Our Amazing Clients",
+        "author": "",
+        "category": "",
+        "content": "Today we’d like to extend our sincerest thanks to all of you who have supported us this year, as well as in years past. So far in 2018, we’ve already completed more transactions than what we did for the entirety of 2017. This is absolutely amazing, and we couldn’t have done it without our amazing staff, and, of course, our incredible clients. Thank you so much for trusting us with your buying and selling needs. To see our full message of gratitude, watch this short video.",
+        "url": "/a-big-thank-you-to-our-amazing-clients.html"
+      }
+      ,
+    
+      "should-you-take-the-plunge-and-install-a-pool-html": {
+        "title": "Should You Take the Plunge and Install a Pool?",
+        "author": "",
+        "category": "",
+        "content": "If you want a pool on your property, is it better to purchase a home that already has one or to install one yourself? Today we will provide some insight into these options.First of all, it is important to note that the most sought-after pools in today’s market are concrete or gunite. The typical cost of these types of pools ranges from between $40,000 and $110,000. This figure does not account for the additional expenses of landscaping or fencing.As a general rule, pools tend to add between 10% and 20% of what they cost to install onto the value of a property. So if you spend $100,000 on a pool, your home value will only increase by $10,000 to $20,000. Therefore, homeowners who opt to install a pool should expect to lose money overall.“Homeowners who opt to install a pool should expect to lose money overall.”The bottom line is that it is often more economical to buy a home that already has a pool, but our team would be happy to discuss your options if you would like to have a more in-depth conversation about this topic.If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/should-you-take-the-plunge-and-install-a-pool.html"
+      }
+      ,
+    
+      "why-you-need-to-start-your-moving-plans-now-html": {
+        "title": "Why You Need to Start Your Moving Plans Now",
+        "author": "",
+        "category": "",
+        "content": "June is here, and the summer selling season is in full swing. I just want to give you a quick reminder that if you want to sell your home or be in a new home before school starts this fall, now is the time to start preparing. It can take 60 to 90 days to sell your home. That time frame includes preparation, showings, negotiations, escrow, and closing.“If you want to move before the new school year begins, you need to start planning now.” You also want to allow yourself enough time to get settled in the new home which you find. Since we are currently in June, that means that now is about the latest time we want to start working on the process of getting you into a new home before the new school year begins. If you are thinking about selling or moving to another home this summer, please feel free to reach out to me by phone or email. I would be happy to get the process started for you right away.",
+        "url": "/why-you-need-to-start-your-moving-plans-now.html"
+      }
+      ,
+    
+      "thank-you-for-attending-our-client-appreciation-event-html": {
+        "title": "Thank You for Attending Our Client Appreciation Event",
+        "author": "",
+        "category": "",
+        "content": "Last week we had an amazing client and homeowner appreciation event and I want to say thank you. Without you guys, we would not be here. Thank you for giving us the opportunity to serve you. We had a great time hosting the families who came out to visit and hang out with us. We played some cornhole, ate some hot dogs, and enjoyed some ice cream sundaes.“Without you guys, we would not be here.”We appreciate everything you do and all of your trust you put in us by allowing us to be part of your lives. Helping you through the home buying and home selling process means a lot to us. Again, thank you to everyone who came out. And, thank you to the ones who wanted to come out but were unable to make it. If there is anything that you need in the future, please let us know. We are always here to help you. I look forward to speaking with you soon.",
+        "url": "/thank-you-for-attending-our-client-appreciation-event.html"
+      }
+      ,
+    
+      "how-rising-interest-rates-affect-homebuyers-and-sellers-html": {
+        "title": "How Rising Interest Rates Affect Homebuyers and Sellers",
+        "author": "",
+        "category": "",
+        "content": "How are rising interest rates affecting buyers and sellers in our market? We’re going to take a closer look today.Let’s start off with how these rates are affecting buyers. Let’s say you are looking at a $200,000 purchase price and putting 10% down. At a rate of 4.5%, which is the current average rate, the payment would be $1,375 per month. If rates were to go up to 5.5%, that same buyer will qualify for $23,000 less with the same qualifications. If you’re thinking about buying a home in the next year, it might be a better time for you to do it sooner rather than later because of this.“Even a slight change in interest rates can have a huge effect on the affordability of homes.”How is this affecting sellers? Well, a majority of homebuyers (80% to 90%) are using financing to purchase a home. As you can see above, even a slight change in interest rates can have a huge effect on the affordability of homes, thus weakening the pool of buyers who are out there looking for a home like yours. They might not be able to afford it anymore after rates increase.If you’re thinking about buying a home or selling a home in the next 12 to 18 months or you just have any questions, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/how-rising-interest-rates-affect-homebuyers-and-sellers.html"
+      }
+      ,
+    
+      "the-perks-of-having-buyer-representation-html": {
+        "title": "The Perks of Having Buyer Representation",
+        "author": "",
+        "category": "",
+        "content": "There are three important reasons why it’s great to have your own buyer representation when purchasing a home.1. No discounts. You don’t get any discounts by going directly to the listing agent. In fact, that commission is negotiated between the seller and the listing agent. 2. The listing agent works for seller. By not using your own agent, in effect, you are using their agent, and they’ll get paid double.“By not using your own agent, in effect, you are using their agent, and they’ll get paid double”Think about this: Most people hire someone they know to help them sell their house. Around 65% of the listings are taken either from a referral or a previously known agent. If an agent already knows you they’ll likely have your best interests at heart.3. Unbiased advice. On the buyer side, the agent is truly going to give you unbiased advice. They don’t care which house you buy, which means they can give you honest opinions about what would be the best choice for you.If you have any questions about this topic or would like to know more about buying homes, please feel free to reach out. We’d be glad to help you. ",
+        "url": "/the-perks-of-having-buyer-representation.html"
+      }
+      ,
+    
+      "the-importance-of-professional-real-estate-photography-html": {
+        "title": "The Importance of Professional Real Estate Photography",
+        "author": "",
+        "category": "",
+        "content": "Professional photography is an incredibly important part of marketing your home listing.&nbsp;During online home searches, people are obviously drawn to the listings with the best pictures.Pictures that were taken on a cell phone, in bad lighting, or where the photographer is visible in some reflective surface can all make an online listing look less appealing.So, when you list your home, it is critical that you show it off in its best light using professional real estate photography. The cost of professional photography is something we cover for everyone who lists with us.We believe that without a great product, you can’t have a great sale. Professional photography not only makes your home look great, it also helps your home sell more quickly.“Without a great product, you can’t have a great sale.”Years ago, I conducted a market analysis of recent sales in our local market. The results of this analysis showed me an interesting correlation between the number of photos a listing had and the number of days it spent on the market. Homes with the more pictures had fewer days on market.If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.",
+        "url": "/the-importance-of-professional-real-estate-photography.html"
+      }
+      ,
+    
+      "5-tips-to-know-before-buying-new-construction-html": {
+        "title": "5 Tips to Know Before Buying New Construction",
+        "author": "",
+        "category": "",
+        "content": "As a homebuyer, there are five things you need to know about new construction homes.1. Some new construction homes may not be listed on the MLS. Oftentimes, builders don’t list new construction homes until they’re close to completion. This is because if they list it as soon as the slab is put down and nobody buys it for a long time, that might hurt the home’s days on market. A home may become more difficult to sell if it’s listed for too long. Always ask a local agent to help you find shadow inventory that’s available but may not be listed.2. New homes are often sold before they’re built. A builder will generally get financing lined up and the new construction and sale process mapped out.3. The first buyers may get the best discounts. Early in the sale process, the first buyers may be able to negotiate the price down. With this reward, however, there is also a potential risk. As an early buyer, you’re fully committed to the project.“Always ask a local agent to help you find shadow inventory that’s available but may not be listed.”4. Builders don’t have personal relationships with the homes. For them, building a home is a business—it’s more spreadsheet than sentiment. They’re focused on making sure you’re qualified to buy the home and they set their prices based on the local inventory, although there may be room for negotiation.5. Discounts may be available in the form of upgrades. Very rarely will a builder discount the price of a new construction home, and there are several reasons why. First, they don’t want to hurt comparable sales in the rest of the neighborhood because that could hurt appraisals. Second, if they give a price discount to one buyer, they may have to give the same discount again and again to other buyers. If you’re buying the last house in the neighborhood, however, you may have a little room for negotiation.If you have any other questions about new construction homes or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.",
+        "url": "/5-tips-to-know-before-buying-new-construction.html"
+      }
+      ,
+    
+      "how-are-appraisals-and-inspections-different-html": {
+        "title": "How Are Appraisals and Inspections Different?",
+        "author": "",
+        "category": "",
+        "content": "Many people seem to be confused as to the difference between an appraisal and an inspection. So today, I will be going over what you need to know about these two processes.First, we always recommend you have an inspection performed any time you buy a home. This makes sure the property is safe and in working condition.Insurability, though, is one thing people sometimes forget about the inspection process. So talk to your insurance company and make sure the home is insurable.Inspections are optional, but we always recommend them. Appraisals, on the other hand, are a requirement whenever you are doing a financed purchase. An appraiser is selected through a randomized process by the bank to ensure impartiality.“Inspections are optional, but we always recommend them.”The appraiser will come in and place a value on the home. They want to make sure the home is sufficient in value to act as collateral for the bank and also that the home is safe, sound, and secure for an owner-occupied loan.Inspections are more thorough and time-consuming than an appraisal.Once an appraiser has finished looking at your home, they may make a few requests. These requests must be satisfied in order for the loan to go through. However, these requests are rare. Your agent can help you negotiate them if this situation arises.When an inspection is over, on the other hand, the results are just suggestions. Nothing the inspector recommends is a requirement. A buyer may ask for a credit, ask the seller to have items fixed, or simply accept the property as-is.If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.",
+        "url": "/how-are-appraisals-and-inspections-different.html"
+      }
+      ,
+    
+      "what-happens-during-the-home-buying-process-html": {
+        "title": "What Happens During the Home Buying Process?",
+        "author": "",
+        "category": "",
+        "content": "Whether you are a first-time homebuyer or it’s been a while since you last purchased a home, it’s important to understand what happens during the home buying process.There are six main steps that you should know about:1. Setting your budget. If you aren’t paying cash, talk to a local mortgage professional who will guide you through the process and help prepare that budget. You will need to know how much cash you will need for the down payment and what your monthly mortgage payments will be. That way, you will be able to build a sales price budget and an overall home budget.2. Analyze your needs and wants for your home. You will sit down with your real estate agent and explain your needs and wants for the home. Do you need a home in a good school district? Do you need more space or a higher quality home? If you buy a higher quality home, you may make some sacrifices in space. If you need more space, sometimes you may have to sacrifice on quality by foregoing certain upgrades.3. Finding the right property. We will work together to put together a list of homes that you might want to see. I recommend that you pick your top five, and our agents will show all of those homes for you.“Figure out how much you need for the down payment and what your monthly payment will be.”4. Make an offer. Once you find the right property, we will help you write your offer and negotiate the best price and terms for you.5. Order an inspection. Once the home is under contract, we recommend doing a general inspection and a termite inspection. The bank will order an appraisal as a safeguard to make sure that you’re not overpaying for the home.We will guide you through the process of negotiating repairs. We’ll help you understand what’s important and what’s not important during that process to make sure that you don’t get in over your head or buy a house with a roof that’s caving in.6. Closing. Closing takes place three to four weeks from the day you go under contract on the home. You will bring your money, sign papers, and get the keys so you can move into your new home.I hope you’ve found this overview of the home buying process helpful. If you have any more questions about buying a home, just give me a call or send me an email. I would be happy to help you!",
+        "url": "/what-happens-during-the-home-buying-process.html"
+      }
+      ,
+    
+      "whats-the-difference-between-a-foreclosure-and-a-short-sale-html": {
+        "title": "What’s the Difference Between a Foreclosure and a Short Sale?",
+        "author": "",
+        "category": "",
+        "content": "What’s the difference between a short sale and a foreclosure? If you’ve ever wondered this, I have the answer for you today.Many people who are new to the market have heard they can get a great deal on a foreclosure and a short sale, but they may know what those terms mean.A foreclosure is when a homeowner goes into default. This means they aren’t paying their mortgage loan back. The bank will take the home back and then relist it for sale on the market. We have access to all foreclosure listings and can guide you through the process of buying one.“A short sale takes place when a homeowner goes into default on their mortgage but still owns the home.”A short sale, however, is when a homeowner is in default, but still owns the home. They haven’t been making their payments for 30, 60, 90, or 120 days, so in order to stave off a foreclosure, they try to sell the home. However, since they don’t have enough equity in the home to pay off the entire mortgage, the homeowner must “short” the payoff. This process is a little more time-consuming than a foreclosure because you’ll have to get multiple parties to approve the sale; the bank will have to agree to accept less than the full payout on the balance owed. This can take 75 to 100 days to complete, and you may find a better property in that time.For more questions about these topics, feel free to reach out to me. I’d be happy to help you.",
+        "url": "/whats-the-difference-between-a-foreclosure-and-a-short-sale.html"
+      }
+      ,
+    
+      "thank-you-for-an-amazing-2017-html": {
+        "title": "Thank You for an Amazing 2017",
+        "author": "",
+        "category": "",
+        "content": "In 2017, we helped 110 families buy a home, sell a home, or invest in real estate, and today we want to thank you for helping us do that.Our goal for 2018 is to help 250 families, and we look forward to your continued support and trust. As a thank you to our clients, we recently threw a wonderful Christmas party, and due to the overwhelming support for that event, we’ve decided to throw more special events throughout the year. These will be free events for our community as a way for us to continually say thank you, so keep an eye on your email inbox.“We look forward to your continued support and trust.”We also want to remind you that we host training classes for agents every month, and our community is invited to those training classes as well. We have two classes coming up in January, and one of those classes we think you’ll find very beneficial. It’s about real estate investment, and it will be held here at our office on January 21 at 1:30 p.m.To RSVP, just reply to this email or give us a phone call.If you have any other questions, don’t hesitate to reach out to us. We’d be happy to help you.",
+        "url": "/thank-you-for-an-amazing-2017.html"
+      }
+      ,
+    
+      "can-you-sell-your-home-in-winter-html": {
+        "title": "Can You Sell Your Home in Winter?",
+        "author": "",
+        "category": "",
+        "content": "Is it a good idea to sell your home in the winter?To answer that, let’s look at a few statistics from the past year. Between January and February, over 2,500 home closed, which is roughly 12% of all the homes sales for the year. This tells us that real buyers are still out there during winter trying to buy homes.When you think about your ideal buyer, do you want a looky-loo who’s not that motivated or someone who needs to find a house and is serious about buying now? Typically, the person who needs to buy something is willing to pay more.“Typically, the person who needs to buy something is willing to pay more.”People looking for homes in the winter are typically more serious buyers, which means that although your home might have fewer showings, you’ll deal with much more qualified buyers.Homes still sell during the winter, so if you’re thinking of beating the inventory rush of May and June, don’t hesitate to give us a call or send us an email. We’d love to help you sell your home.",
+        "url": "/can-you-sell-your-home-in-winter.html"
+      }
+      ,
+    
+      "3-strategies-for-investing-in-real-estate-html": {
+        "title": "3 Strategies for Investing in Real Estate",
+        "author": "",
+        "category": "",
+        "content": "Today I want to talk about three general strategies for investing in real estate.1. Rentals, or “buy and holds.” Essentially, we buy a property using either financing or cash and then rent it out. One strategy we use to rent out homes is to keep them occupied as much as possible. We prefer to give a little bit less than market rent to make sure we stay occupied, rather than holding out for an extra money and risk a vacancy. It helps get us a higher level of return over the life of the property.2. Flips, or “rehabs.” This is where we buy a property for below market value, possibly in a distressed condition that requires a lot of work, after which we’ll make some repairs and get it back to market value. Though this is a popular method on TV, these deals are harder and harder to come by, though some people can make a living doing them.“For a ‘buy and hold,’ we buy a property using either financing or cash and then rent it out.”3. House hacking. This is a favorite strategy of mine. House hacking is when we buy a live-in renovation or multi-unit property on an owner-occupied financing plan where you get better terms. You can rent out the other units to help reduce the cost of living.If you’re interested in learning more about real estate investing or about any of the strategies mentioned above, feel free to reach out to us.",
+        "url": "/3-strategies-for-investing-in-real-estate.html"
+      }
+      ,
+    
+      "its-time-for-a-market-update-html": {
+        "title": "It’s Time for a Market Update",
+        "author": "",
+        "category": "",
+        "content": "Now that October is over, we’ve aggregated all the data so we can take a look back and see exactly how the market’s been doing over the past few months.An additional 19% new listings hit the market this October compared to October 2016. That continues the trend from September, where we saw 20% more listings than the previous year at the same time.What is interesting about the difference between September and October is that there was a 30% uptick in new homes going under contract. This is a very healthy sign for our market.“The market right now is stronger than we thought it was.”When we see a rise in inventory levels such as the rise in new listings hitting the market, it always makes us want to watch the market very carefully. October came back roaring like a lion with that 30% upswing in homes going under contract.This gives us great confidence going into the winter market. If you’re thinking about selling your home soon but were waiting to see what the market would do, these last numbers from October show us that the market right now is stronger than we thought it was. Now could be the right time for you to sell your home.If you have any questions about the market or other real estate topics, feel free to reach out to us. We’d love to help you however we can.",
+        "url": "/its-time-for-a-market-update.html"
+      }
+      ,
+    
+      "what-were-thankful-for-this-thanksgiving-html": {
+        "title": "What We’re Thankful for This Thanksgiving",
+        "author": "",
+        "category": "",
+        "content": "I just wanted to reach out and say thank you for a phenomenal, record-breaking year.As we look back on the year Homestead &amp; Co. branched out on its own, we are full of gratitude. We met some great people and helped some great families get into a home. We also helped many people sell their homes.“We couldn’t have done it without you.”We developed a lot of great relationships and brought some wonderful people onto our team so that we can help even more people achieve their real estate dreams.We couldn’t have done it without your referrals and support this year. Thank you so much.As always, if you have any real estate questions, please don’t hesitate to reach out to us. We would be happy to help you. Have a great Thanksgiving!",
+        "url": "/what-were-thankful-for-this-thanksgiving.html"
+      }
+      ,
+    
+      "what-do-the-latest-numbers-say-about-our-oklahoma-city-market-html": {
+        "title": "What Do the Latest Numbers Say About Our Oklahoma City Market?",
+        "author": "",
+        "category": "",
+        "content": "We just received our final numbers from September, and they confirm some hunches we’ve had about our Oklahoma City market recently.Year to date, our level of inventory is up 8.6% and our number of closed sales are up 4.6%. New listings hitting the market continue to outpace sold properties, so we might see a shift toward a buyer’s market coming soon. We thought as much back in September, and these numbers prove that notion.“There are a lot more homes hitting the market and a lot fewer homes being sold.”We saw an upswing of 21% more new listings in September 2017 compared to September 2016. There was also a 9% reduction in closed properties in September 2017 compared to September 2016. In total, that’s a 30% swing in inventory levels. There are a lot more homes hitting the market and a lot fewer homes being sold, so if your house has been on the market in the last several weeks or months, this reduced activity might make things more difficult.This is why it’s important that you work with an agent who’s in tune with the market so they can advise you properly and help you make the best decision for you and your family.If you have any more questions about our Oklahoma City market or you’re thinking about buying or selling a home soon, don’t hesitate to give me a call or shoot me an email. I’d love to help you.",
+        "url": "/what-do-the-latest-numbers-say-about-our-oklahoma-city-market.html"
+      }
+      ,
+    
+      "what-type-of-home-is-right-for-you-html": {
+        "title": "What Type of Home Is Right for You?",
+        "author": "",
+        "category": "",
+        "content": "Should you buy an existing home, or should you buy or build a new one? There are a few points to consider before making this decision.  The upfront costs. Existing homes will carry normal closing costs as the price of the down payment. When it comes to new homes, these costs tend to be higher. One reason for this is that the price per square foot will be elevated in a new home. However, you might pay lower taxes on a new home for your first year.  Maintenance. Existing homes tend to have more wear and tear and therefore will carry higher maintenance costs. This isn’t a case in a new home though. Because everything in the home is brand new, you won’t have to worry as much about things breaking down as quickly as they could in an existing home. “People living in homes built since 2000 generally spend 21% less on energy costs.”  Landscaping. One benefit of buying an existing home is that they often come with better-established landscaping. New homes are often in newer neighborhoods, which generally lack established landscaping.  Energy efficiency. In the past, homes simply weren’t built with efficiency in mind the way they are now. This means you’re going to be spending a little more on energy. Newer homes tend to be much more efficient. In fact, people living in homes built since 2000 generally spend 21% less on energy costs. Newer homes also come with cool features like tankless hot water heaters.Ultimately, the best way to determine which type of home would be best for you is to talk to a Realtor.If you have any other questions, would like more information, or would like us to help you decide whether to buy a new or existing home, feel free to give me a call or send me an email. I look forward to hearing from you soon.",
+        "url": "/what-type-of-home-is-right-for-you.html"
+      }
+      ,
+    
+      "homebuyer-tips-for-finding-the-best-deal-html": {
+        "title": "Homebuyer Tips for Finding the Best Deal",
+        "author": "",
+        "category": "",
+        "content": "If you are buying a home, odds are that you want to find the best deal possible. How can you do that?First, it’s important to know your goals. Do you want to keep as much cash in your pocket as possible? Do you want a lower monthly payment? Do you want to pay the house off as soon as possible? Or is the goal to pick up additional items, like the playset in the backyard, the golf cart, or the fridge?Once you know your goals, you need to figure out what the market is doing. What defines a good deal here in Edmond? Right now in the $200,000 to $300,000 price range, homes are selling for 98.5% of the asking price. That means that the average buyer is getting a 1.5% discount off the listing price.Since that is the case, if you get 3% off the listing price, then you get twice the discount the average buyer is seeing in our market.“First of all, know exactly what you are looking for in a good deal.”Now it’s time to find a home that lines up with your goals. We use a couple of strategies to identify homes that will be a “good deal.”1. Look for a well-priced home that is new to the market. You have to be ready to go and have all your ducks in a row. Make sure you have a pre-approval letter or proof of funds letter. You have to decide quickly if you want to make an offer on the home. The key here is to make your offer and lock the property up before there are multiple offers on the property; that is what will keep the sales price low.2. Look for a house that has been on the market for a long time and gone through several price reductions.The seller might have overpriced the home to try and get more money, but that failed. Now that the home has been on the market for five months, buyers think, “This looks like a good house at a good price, but it’s been on the market awhile. What’s wrong with it?” More than likely, there is nothing wrong with the home; the seller just made a pricing error. As a buyer, you can take advantage of that situation.3. Look at vacant homes. Whether the seller has to sell or can hold onto the property for a long time doesn’t matter. There are still costs such as taxes, utilities, and insurance payments that the seller will not be able to recover. As a result, vacant properties will have a more motivated seller.If you have any other questions about finding the best deal in today’s market, just give us a call or send us an email. My team and I would be happy to help you!",
+        "url": "/homebuyer-tips-for-finding-the-best-deal.html"
+      }
+      ,
+    
+      "only-one-of-these-4-types-of-buyers-looks-at-fsbo-homes-html": {
+        "title": "Only One of These 4 Types of Buyers Looks at FSBO Homes",
+        "author": "",
+        "category": "",
+        "content": "If you’re thinking of listing your home FSBO or you already have, I have an important topic to discuss with you today. In our market, there are four different types of buyers. Understanding each of them is the key to making sure your home sells for top dollar. Here are the four different types of buyers:1. Serious and in a hurry. These buyers are the most aggressive. Whether they need to get into a home because they just sold theirs or they had an unexpected job transfer, they are ready to make a move.2. Serious and not in a hurry. Some of these buyers are homeowners who don’t have to move, but would if the right property came along. Some of them are first-time homebuyers who are proceeding very cautiously as to not make a mistake. “Understanding each of these types of buyers is key.”3. Investors. If you’ve already listed your home For Sale By Owner, you may have received a few calls from them already. Most of the time, these buyers are just looking for a deal, so they prey on FSBO sellers and make lowball offers in the hopes of getting a deal.4. Looky-loos. I don’t even know if you can call them buyers. Most of the time, they can’t even qualify for a loan and are just looking at homes for fun or to get some decorating ideas. They will lead you on until the cows come home.When you look at each of those types of buyers, you can see that serious buyers are the ideal buyers. However, most of those buyers are going to be working with agents who already have listings to show them. They probably won’t even see yours if you list FSBO. If you sell your home on your own, it’s your job to know which buyers are which and help all of them. If you can’t do that on your own, hiring an experienced professional like myself is the right move.If you have any other questions about real estate or the market, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.",
+        "url": "/only-one-of-these-4-types-of-buyers-looks-at-fsbo-homes.html"
+      }
+      ,
+    
+      "what-do-the-latest-numbers-mean-for-our-okc-market-html": {
+        "title": "What Do the Latest Numbers Mean for Our OKC Market?",
+        "author": "",
+        "category": "",
+        "content": "How does our current OKC market compare with where we were last year?From July 2016 to July 2017, the number of new listings hitting the market increased 8.6%, the number of pending sales increased 16%, and the number of closed sales increased 4.7%. What’s interesting about these statistics is the falloff between pending sales and closed sales, and it’s definitely something to keep an eye on throughout the rest of the year.“If you’re a seller, now would be a good time to put your home on the market”Year to date, new listings are up 10.7%, pending sales are up 8.1%, and closed sales are up 5%. Ideally, we’d like to see the numbers of sales keep pace with the number of new listings. This gap means inventory is rising and we’re continuing to shift toward a buyer’s market. If you’re a seller, now would be a good time to put your home on the market to maximize its potential return.When we look at the housing affordability index, July 2017 experienced a 2% drop compared to July 2016. Year to date, housing affordability has dropped nearly 6%. Although 6% doesn’t seem like much, that number can mean a significant difference in the lower price ranges, so that’s another thing we’ll pay attention to for the rest of the year.If you have any questions about our market or you’re thinking of buying or selling a home, don’t hesitate to give us a call or shoot us an email. We’d be glad to assist you.",
+        "url": "/what-do-the-latest-numbers-mean-for-our-okc-market.html"
+      }
+      ,
+    
+      "the-trick-to-buying-and-selling-at-the-same-time-html": {
+        "title": "The Trick to Buying and Selling at the Same Time",
+        "author": "",
+        "category": "",
+        "content": "What is the process of buying a new home like when you already own one? It can be tricky, but there are several ways in which to go about it. Here are four different options you have if you want to juggle buying a home and selling another at the same time.1. Keep the existing home and turn it into a rental property. Owning rental property is a great way to build wealth and we highly recommend it. However, you need to consult with your lender beforehand to see if it’s even an option.2. Buy the new house first, then sell your old home. The main benefit of this is only having to move once. It makes the process a bit smoother and less risky, too. The downside is that you may have to carry two mortgages at once and there is generally a high financial risk involved. “It all depends on what kind of risk you are willing to take.”3. Sell before buying the new house. This has the lowest financial risk, but it’s a risk nonetheless. In this case, you risk not being able to find the house you want before your home sale closes. However, you can likely negotiate a rent-back or extended closing.4. Make a contingent offer on a home before selling. This is our preferred option because it’s the least financially risky. We won’t start the inspection or appraisal processes until we remove all our contingencies. This allows us to have the first right of refusal within 24 hours. If another offer comes in, we will have the opportunity to match or beat it.If you have any questions for me about this topic or anything else related to real estate, give me a call or send me an email. I look forward to hearing from you.",
+        "url": "/the-trick-to-buying-and-selling-at-the-same-time.html"
+      }
+      ,
+    
+      "home-pricing-strategies-explained-html": {
+        "title": "Home Pricing Strategies: Explained",
+        "author": "",
+        "category": "",
+        "content": "Understanding pricing strategies can make a big difference in selling your home.Oftentimes, I encounter people who falsely believe that the best route is to overprice a home, and then bring it down if it isn’t working.But, imagine for a second in this circumstance that you’re the buyer. When you put on your “buyer hat,” it isn’t hard to see why someone looking for a home might be deterred from an overpriced listing.Imagine one home that has just gone on the market, where the sellers have barely had time to put the sign in their yard. Then, imagine a property that has been on the market for 180, or even 210 days.“The longer we’re on the market, the lower the offers will be.”If these properties were exactly the same, how would your offers be different? The truth is that most people will offer less for a home that has spent more time on the market.The longer we’re on the market, the lower the offers will be. So selling sooner rather than later is key.If you are a buyer, however, you can use this fact to get a great deal. By finding a home that’s spent a lot of time on the market, and has no other issues other than having been initially priced far too high, you could have a great opportunity to get into a house that may now actually be cheaper and see less competition.As a seller, though, you want to avoid this situation. When you price your home too high, it’s inevitable that you will likely sell it for even lower than what you could have gotten if you had just priced it right the first time.If you have any other questions or want more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.",
+        "url": "/home-pricing-strategies-explained.html"
+      }
+      ,
     
       "a-quick-okc-real-estate-market-update-html": {
         "title": "A Quick OKC Real Estate Market Update",
@@ -223,13 +744,6 @@
 
 
 <li>
-	<a href="https://plus.google.com/u/0/b/105870652911689352093" class="social-links" target="_blank">
-		<svg id="Google_plus" data-name="Google plus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.86 50"><title>Google Plus</title><path d="M419.86,89.5c-14.32,0-25.93,11.19-25.93,25s11.61,25,25.93,25,25.93-11.19,25.93-25S434.18,89.5,419.86,89.5ZM412.45,127a12.68,12.68,0,0,1-12.87-14c0.81-6.69,7.24-11.58,14.19-10.94a12.5,12.5,0,0,1,6.72,2.67,0.74,0.74,0,0,1,0,1.12l-2.38,2.2a0.81,0.81,0,0,1-1,0,7.53,7.53,0,0,0-4.65-1.49,7.9,7.9,0,1,0,0,15.79c4.28,0,6.33-2.49,7.07-4.37a0.77,0.77,0,0,0-.75-1h-5.53c-0.44,0-.24-0.33-0.24-0.76v-2.77c0-.42-0.2-0.47.24-0.47H424a0.68,0.68,0,0,1,.79.52,8.81,8.81,0,0,1,.1,1.35C424.9,122,419.93,127,412.45,127Zm27-11h-2.11c-0.44,0-.33.63-0.33,1.05v2a1.45,1.45,0,0,1-1.26.91h-2.13c-0.44,0-1.61-.49-1.61-0.91v-2c0-.42.47-1.05,0-1.05h-2.11c-0.44,0-.92-0.05-0.92-0.47v-2.05c0-.42.48-0.47,0.92-0.47H432c0.44,0,0-.63,0-1.05v-2c0-.42,1.18-0.91,1.61-0.91h2.13a1.45,1.45,0,0,1,1.26.91v2c0,0.42-.11,1.05.33,1.05h2.11c0.44,0,1.56.05,1.56,0.47v2.05C441,115.95,439.88,116,439.44,116Z" transform="translate(-393.93 -89.5)"/></svg>
-	</a>
-</li>
-
-
-<li>
 	<a href="https://www.youtube.com/channel/UCKQuM4vWrXzfQYwUs7Y5bbQ" class="social-links" target="_blank">
 		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>YouTube</title><path d="M31.91 23.95l-10-6.25a1.11 1.11 0 0 0-1.2 0 1.2 1.2 0 0 0-.57 1.09v12.5a1.2 1.2 0 0 0 .57 1.09 1.18 1.18 0 0 0 .57.16 1.09 1.09 0 0 0 .65-.2l10-6.25a1.24 1.24 0 0 0-.02-2.14z"/><path d="M25 0a25 25 0 1 0 25 25A25 25 0 0 0 25 0zm16.88 33.48a4.43 4.43 0 0 1-3.77 3.54 117.21 117.21 0 0 1-13.11.49 117.21 117.21 0 0 1-13.11-.49 4.48 4.48 0 0 1-3.79-3.54A39.64 39.64 0 0 1 7.49 25a38.4 38.4 0 0 1 .65-8.43 4.46 4.46 0 0 1 3.77-3.54 117.22 117.22 0 0 1 13.11-.49 117.22 117.22 0 0 1 13.11.49 4.48 4.48 0 0 1 3.79 3.54 39.63 39.63 0 0 1 .61 8.48 38.4 38.4 0 0 1-.66 8.43z"/></svg>
 	</a>
@@ -245,9 +759,15 @@
 
 
 
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/homestead-co-podcast-with-zach-sikes/id1255274951?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
+
 
 <li>
-	<a class="social-links feedlink" data-clipboard-text="http://http://homesteadvlog.com/feed.xml">
+	<a class="social-links feedlink" data-clipboard-text="http://http://localhost:4000/feed.xml">
 		<svg id="Rss" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>rss</title><path d="M559.51,147a25,25,0,1,0,25,25A25,25,0,0,0,559.51,147Zm-9.09,37.5a3.41,3.41,0,1,1,3.41-3.41A3.41,3.41,0,0,1,550.42,184.49Zm12.2-.62a1,1,0,0,1-.83.13h-2.4a0.94,0.94,0,0,1-1.12-.79A11.25,11.25,0,0,0,548,173.11a1,1,0,0,1-1-1v-2.4a0.71,0.71,0,0,1,.38-0.62,1,1,0,0,1,.77-0.09h0.09a14.32,14.32,0,0,1,10,4.44,15.38,15.38,0,0,1,4.65,9.8A0.7,0.7,0,0,1,562.61,183.87Zm9.07,0a1,1,0,0,1-.82.11h-2.54a1,1,0,0,1-1.14-.82,20.22,20.22,0,0,0-19.13-19,1,1,0,0,1-1.07-1v-2.54a1.7,1.7,0,0,1,.36-1.06,1.49,1.49,0,0,1,.79-0.56h0.05c6.22,1,12.06,3.17,16.46,7.59A25,25,0,0,1,572,183.05,1.08,1.08,0,0,1,571.69,183.89Z" transform="translate(-534.51 -146.99)"/></svg>
 	</a>
 	<div class="feedbox">
@@ -329,9 +849,243 @@
 									 
 										 
 											 <li>
+												 <!-- <time>July 30, 2018</time> -->
+												 <a href="/oklahoma-city-market-update-for-the-first-half-of-2018.html">
+													 Oklahoma City Market Update for the First Half of 2018
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
 												 <!-- <time>June 29, 2017</time> -->
 												 <a href="/a-quick-okc-real-estate-market-update.html">
 													 A Quick OKC Real Estate Market Update
+												 </a>
+											 </li>
+										 
+									 
+								 
+							</ul>
+							</li>
+					</div>
+			
+					<div class="catbloc" id="HomeSellerTips">
+							<li>
+								<label class="tree-toggle nav-header">Home Seller Tips</label>
+							<ul class="nav nav-list tree" style="display: none;">
+								 
+									 
+										 
+									 
+								 
+									 
+										 
+											 <li>
+												 <!-- <time>March 28, 2019</time> -->
+												 <a href="/sellers-not-all-home-upgrades-will-add-value.html">
+													 Sellers: Not All Home Upgrades Will Add Value
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>March 7, 2019</time> -->
+												 <a href="/how-to-ensure-quality-repairs-following-a-home-inspection.html">
+													 How to Ensure Quality Repairs Following a Home Inspection
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>October 16, 2018</time> -->
+												 <a href="/5-ways-to-discern-between-rational-and-emotional-decisions-when-buying-or-selling.html">
+													 5 Ways to Discern Between Rational and Emotional Decisions When Buying or Selling
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 15, 2018</time> -->
+												 <a href="/3-options-for-homeowners-who-need-to-buy-and-sell.html">
+													 3 Options for Homeowners Who Need to Buy and Sell
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>March 23, 2018</time> -->
+												 <a href="/the-importance-of-professional-real-estate-photography.html">
+													 The Importance of Professional Real Estate Photography
+												 </a>
+											 </li>
+										 
+									 
+								 
+							</ul>
+							</li>
+					</div>
+			
+					<div class="catbloc" id="HomeBuyerTips">
+							<li>
+								<label class="tree-toggle nav-header">Home Buyer Tips</label>
+							<ul class="nav nav-list tree" style="display: none;">
+								 
+									 
+										 
+									 
+								 
+									 
+										 
+											 <li>
+												 <!-- <time>March 7, 2019</time> -->
+												 <a href="/how-to-ensure-quality-repairs-following-a-home-inspection.html">
+													 How to Ensure Quality Repairs Following a Home Inspection
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 6, 2018</time> -->
+												 <a href="/what-youre-paying-for-in-your-closing-costs.html">
+													 What You’re Paying for in Your Closing Costs
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>October 16, 2018</time> -->
+												 <a href="/5-ways-to-discern-between-rational-and-emotional-decisions-when-buying-or-selling.html">
+													 5 Ways to Discern Between Rational and Emotional Decisions When Buying or Selling
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 15, 2018</time> -->
+												 <a href="/3-options-for-homeowners-who-need-to-buy-and-sell.html">
+													 3 Options for Homeowners Who Need to Buy and Sell
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>April 16, 2018</time> -->
+												 <a href="/the-perks-of-having-buyer-representation.html">
+													 The Perks of Having Buyer Representation
+												 </a>
+											 </li>
+										 
+									 
+								 
+							</ul>
+							</li>
+					</div>
+			
+					<div class="catbloc" id="RealEstate">
+							<li>
+								<label class="tree-toggle nav-header">Real Estate</label>
+							<ul class="nav nav-list tree" style="display: none;">
+								 
+									 
+										 
+									 
+								 
+									 
+										 
+											 <li>
+												 <!-- <time>September 17, 2020</time> -->
+												 <a href="/do-you-know-a-good-fit-for-our-team.html">
+													 Do You Know a Good Fit for Our Team?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 2, 2019</time> -->
+												 <a href="/positive-negative-cash-flow-with-your-rental-property.html">
+													 Positive & Negative Cash Flow With Your Rental Property
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>July 19, 2019</time> -->
+												 <a href="/determining-the-sales-price-of-a-fixer-upper.html">
+													 Determining the Sales Price of a Fixer-Upper
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>March 28, 2019</time> -->
+												 <a href="/sellers-not-all-home-upgrades-will-add-value.html">
+													 Sellers: Not All Home Upgrades Will Add Value
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>March 7, 2019</time> -->
+												 <a href="/how-to-ensure-quality-repairs-following-a-home-inspection.html">
+													 How to Ensure Quality Repairs Following a Home Inspection
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>February 1, 2019</time> -->
+												 <a href="/can-you-buy-a-pre-foreclosure-on-zillow.html">
+													 Can You Buy a Pre-Foreclosure on Zillow?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 6, 2018</time> -->
+												 <a href="/what-youre-paying-for-in-your-closing-costs.html">
+													 What You’re Paying for in Your Closing Costs
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>October 16, 2018</time> -->
+												 <a href="/5-ways-to-discern-between-rational-and-emotional-decisions-when-buying-or-selling.html">
+													 5 Ways to Discern Between Rational and Emotional Decisions When Buying or Selling
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>September 13, 2018</time> -->
+												 <a href="/5-ways-to-make-the-most-of-your-fall-listing.html">
+													 5 Ways to Make the Most of Your Fall Listing
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 15, 2018</time> -->
+												 <a href="/3-options-for-homeowners-who-need-to-buy-and-sell.html">
+													 3 Options for Homeowners Who Need to Buy and Sell
 												 </a>
 											 </li>
 										 
@@ -370,7 +1124,7 @@
 				
 				Homestead & Co.<br />
 				
-				3825 NW 166th, Suite D6, Edmond OK 73012<br />
+				2601 Kelley Pointe Pkwy, Ste 201<br> Edmond OK 73013<br />
 				
 				405-509-0541<br />
 				
@@ -380,22 +1134,6 @@
 		</div>
 	</div>
 </div>
-</div>
-
-		<!-- Newsletter optin form -->
-<div class="newsletter">
-      <div class="news-column-left">
-        <h2>Sign Up for Our Newsletter</h2>
-        <p>Get up-to-date Real Estate news and tips every month</p>
-			</div>
-				<div class="news-col-right">
-
-        <form action="http://oi.vresp.com?fid=de1f192dbe" method="post" class='newsletter_optin' target="blank">
-          <input type="email" name="email_address" placeholder="Email"  pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$"  required>
-          <input type="text" name="_gotcha" class="hidden">
-          <input type="submit" value="Sign up">
-        </form>
-    </div>
 </div>
 
 		<nav class="navbar-andross-bottom navbar-fixed-bottom visible-xs">
@@ -422,7 +1160,7 @@
 	          <span itemprop="brand">Homestead & Co.</span>
 	        </div>
 	        <div class="col-sm-4">
-	          <address itemprop="address">3825 NW 166th, Suite D6, Edmond OK 73012</address>
+	          <address itemprop="address">2601 Kelley Pointe Pkwy, Ste 201<br> Edmond OK 73013</address>
 	        </div>
 	      
 	    </div>
@@ -457,13 +1195,6 @@
 
 
 <li>
-	<a href="https://plus.google.com/u/0/b/105870652911689352093" class="social-links" target="_blank">
-		<svg id="Google_plus" data-name="Google plus" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.86 50"><title>Google Plus</title><path d="M419.86,89.5c-14.32,0-25.93,11.19-25.93,25s11.61,25,25.93,25,25.93-11.19,25.93-25S434.18,89.5,419.86,89.5ZM412.45,127a12.68,12.68,0,0,1-12.87-14c0.81-6.69,7.24-11.58,14.19-10.94a12.5,12.5,0,0,1,6.72,2.67,0.74,0.74,0,0,1,0,1.12l-2.38,2.2a0.81,0.81,0,0,1-1,0,7.53,7.53,0,0,0-4.65-1.49,7.9,7.9,0,1,0,0,15.79c4.28,0,6.33-2.49,7.07-4.37a0.77,0.77,0,0,0-.75-1h-5.53c-0.44,0-.24-0.33-0.24-0.76v-2.77c0-.42-0.2-0.47.24-0.47H424a0.68,0.68,0,0,1,.79.52,8.81,8.81,0,0,1,.1,1.35C424.9,122,419.93,127,412.45,127Zm27-11h-2.11c-0.44,0-.33.63-0.33,1.05v2a1.45,1.45,0,0,1-1.26.91h-2.13c-0.44,0-1.61-.49-1.61-0.91v-2c0-.42.47-1.05,0-1.05h-2.11c-0.44,0-.92-0.05-0.92-0.47v-2.05c0-.42.48-0.47,0.92-0.47H432c0.44,0,0-.63,0-1.05v-2c0-.42,1.18-0.91,1.61-0.91h2.13a1.45,1.45,0,0,1,1.26.91v2c0,0.42-.11,1.05.33,1.05h2.11c0.44,0,1.56.05,1.56,0.47v2.05C441,115.95,439.88,116,439.44,116Z" transform="translate(-393.93 -89.5)"/></svg>
-	</a>
-</li>
-
-
-<li>
 	<a href="https://www.youtube.com/channel/UCKQuM4vWrXzfQYwUs7Y5bbQ" class="social-links" target="_blank">
 		<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>YouTube</title><path d="M31.91 23.95l-10-6.25a1.11 1.11 0 0 0-1.2 0 1.2 1.2 0 0 0-.57 1.09v12.5a1.2 1.2 0 0 0 .57 1.09 1.18 1.18 0 0 0 .57.16 1.09 1.09 0 0 0 .65-.2l10-6.25a1.24 1.24 0 0 0-.02-2.14z"/><path d="M25 0a25 25 0 1 0 25 25A25 25 0 0 0 25 0zm16.88 33.48a4.43 4.43 0 0 1-3.77 3.54 117.21 117.21 0 0 1-13.11.49 117.21 117.21 0 0 1-13.11-.49 4.48 4.48 0 0 1-3.79-3.54A39.64 39.64 0 0 1 7.49 25a38.4 38.4 0 0 1 .65-8.43 4.46 4.46 0 0 1 3.77-3.54 117.22 117.22 0 0 1 13.11-.49 117.22 117.22 0 0 1 13.11.49 4.48 4.48 0 0 1 3.79 3.54 39.63 39.63 0 0 1 .61 8.48 38.4 38.4 0 0 1-.66 8.43z"/></svg>
 	</a>
@@ -479,9 +1210,15 @@
 
 
 
+	<li>
+		<a href="https://itunes.apple.com/us/podcast/homestead-co-podcast-with-zach-sikes/id1255274951?mt=2" class="social-links" target="_blank">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>Podcast</title><path d="M25.04 0a25 25 0 1 0 25 25 25 25 0 0 0-25-25zm3.19 39.12a5.94 5.94 0 0 1-.14 1.09 3 3 0 0 1-2.92 2.51 2.8 2.8 0 0 1-3.19-2.31c-.27-1.49-.34-3-.48-4.48-.14-1.77-.27-3.6-.41-5.36a2.94 2.94 0 0 1 3.39-3.6 13.05 13.05 0 0 0 1.63 0 2.79 2.79 0 0 1 2.85 3.26c-.29 2.98-.49 5.97-.76 8.89zm-3.19-13.31a4 4 0 0 1-3.94-4 3.91 3.91 0 0 1 4-3.94 4 4 0 0 1 4 4 4 4 0 0 1-4.06 3.94zm5.91 2.24a7.84 7.84 0 0 0-1-11.27 7.83 7.83 0 0 0-10.25.34c-3.26 2.72-3.39 6.79-.68 11-.75.48-1.43 1-2.1 1.49-2.65-2.31-4.21-8.89 0-13.71a10.81 10.81 0 0 1 15.61-.61 10.38 10.38 0 0 1 .51 14.3c-.64-.52-1.38-1-2.13-1.54zm6 8.35c-.14.14-.27.2-.41.34a.14.14 0 0 1-.14.07c-.68-.54-1.43-1-2.1-1.56a14.39 14.39 0 0 0 1.22-20.91 14.45 14.45 0 1 0-19.82 21c-.68.48-1.36 1-2.1 1.56a15.3 15.3 0 0 1-4.35-6.18c-.14-.07-1.56-2.72-1.29-8.62.34-7.06 6.18-13 13-14.39a18.11 18.11 0 0 1 8.62.2c6.18 1.9 10.25 5.91 11.88 12.15s-.03 11.73-4.51 16.34z"/></svg>
+		</a>
+	</li>
+
 
 <li>
-	<a class="social-links feedlink" data-clipboard-text="http://http://homesteadvlog.com/feed.xml">
+	<a class="social-links feedlink" data-clipboard-text="http://http://localhost:4000/feed.xml">
 		<svg id="Rss" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><title>rss</title><path d="M559.51,147a25,25,0,1,0,25,25A25,25,0,0,0,559.51,147Zm-9.09,37.5a3.41,3.41,0,1,1,3.41-3.41A3.41,3.41,0,0,1,550.42,184.49Zm12.2-.62a1,1,0,0,1-.83.13h-2.4a0.94,0.94,0,0,1-1.12-.79A11.25,11.25,0,0,0,548,173.11a1,1,0,0,1-1-1v-2.4a0.71,0.71,0,0,1,.38-0.62,1,1,0,0,1,.77-0.09h0.09a14.32,14.32,0,0,1,10,4.44,15.38,15.38,0,0,1,4.65,9.8A0.7,0.7,0,0,1,562.61,183.87Zm9.07,0a1,1,0,0,1-.82.11h-2.54a1,1,0,0,1-1.14-.82,20.22,20.22,0,0,0-19.13-19,1,1,0,0,1-1.07-1v-2.54a1.7,1.7,0,0,1,.36-1.06,1.49,1.49,0,0,1,.79-0.56h0.05c6.22,1,12.06,3.17,16.46,7.59A25,25,0,0,1,572,183.05,1.08,1.08,0,0,1,571.69,183.89Z" transform="translate(-534.51 -146.99)"/></svg>
 	</a>
 	<div class="feedbox">
@@ -495,11 +1232,12 @@
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2017 Homestead & Co.</p>
+				<p>&copy;2020 Homestead & Co.</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">
 				Vyral Marketing</a><br>
+				<a href="https://www.getvyral.com/business-disclosures" target="_blank" style="text-decoration:underline;">Business Disclosure</a><br>
 				<a href="http://getvyral.com" target="_blank">
 	    <svg id="Layer_1" class="vyral-logo" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86.06 82.39"><path d="M225,427.63a39.49,39.49,0,0,0-34.46,58.8l-1.47,2.86L178.43,510l21.11-9.85,2.27-1.06A39.49,39.49,0,1,0,225,427.63Zm5.68,62.7H218.79l-14.42-45h11.15l5.47,19c1.54,5.34,2.94,10.48,4,16.09h0.2c1.13-5.41,2.54-10.75,4.07-15.89L235,445.34h10.81Z" transform="translate(-178.43 -427.63)"/></svg></a>
 	    </a>
