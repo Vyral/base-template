@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Here’s the story of how my clients were able to sell quickly in a slow moving
   segment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/What+Was+the+Secret+to+Darren+and+Melissa%E2%80%99s+Success_.mp4
 pullquote: >-
   They cleaned, rearranged some items, and got rid of distractions so buyers
   could easily envision their own lifestyle.
