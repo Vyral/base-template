@@ -18,7 +18,7 @@ youtube_code: uGTf55B7bMU
 
 {% include youtube.html %}
 
-Here’s why real estate always makes for a stellar investment.
+<p style="text-align: center;"><em>Here’s why real estate always makes for a stellar investment.</em></p>
 
 I understand that owning an income-producing rental property is not for everyone, but there are some pretty strong reasons everyone should at least consider it.&nbsp;
 
