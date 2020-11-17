@@ -25,10 +25,10 @@ youtube_code: RhBhHeogYlk
 
 <p style="text-align: center;">This is a "touchless" event where you will literally just DRIVE THROUGH our Larkin Group HQ parking lot and we'll (masked of course) hand you a pie through your vehicle window!</p>
 
-<p style="text-align: center; color: #2452D7;">RSVP for your PUMPKIN or APPLE Pie by clicking <a href="https://docs.google.com/forms/d/e/1FAIpQLSfujyoH2NHsLyS1zBOAO_31Shz5a83F8uTBAuXysKb37kAGHw/viewform" style="color: #2452D7;">HERE.</a></p>
+<p style="text-align: center; color: #2452D7;">RSVP for your PUMPKIN or APPLE Pie by clicking <u><a href="https://docs.google.com/forms/d/e/1FAIpQLSfujyoH2NHsLyS1zBOAO_31Shz5a83F8uTBAuXysKb37kAGHw/viewform" style="color: #2452D7;">HERE.</a></u></p>
 
 <p style="text-align: center;">Our office is located at:</p>
 
-<p style="text-align: center; color: #AF1900;"><a href="https://goo.gl/maps/n3RFJvxNWhRbEdwD8" style="color: #AF1900;">50 E. 100 S. #300 St. George, Utah, 84770</a></p>
+<p style="text-align: center; color: #AF1900;"><u><a href="https://goo.gl/maps/n3RFJvxNWhRbEdwD8" style="color: #AF1900;">50 E. 100 S. #300 St. George, Utah, 84770</a></u></p>
 
 <p style="text-align: center;">See you November 24th!</p>
