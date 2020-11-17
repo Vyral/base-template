@@ -9,7 +9,7 @@ pullquote: 'No one is perfect, and no one does anything alone.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-16-20yt.jpg
+youtube_alternate_image: /uploads/11-17-20yt.jpg
 youtube_code: 9Lk6ilrhAaw
 ---
 
