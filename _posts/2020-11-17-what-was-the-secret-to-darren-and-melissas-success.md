@@ -20,7 +20,7 @@ youtube_code: vzbZhJTg4yQ
 
 {% include youtube.html %}
 
-<center>Here&rsquo;s the story of how my clients were able to sell quickly in a slow moving segment.</center>
+<center><em>Here&rsquo;s the story of how my clients were able to sell quickly in a slow moving segment.</em></center>
 
 I’m joined today by Darren and Melissa, wonderful clients of mine whose home I recently had the honor of selling. They’ve graciously agreed to share some details of their experience so that you can benefit from their experience and have a successful sale of your own.
 
