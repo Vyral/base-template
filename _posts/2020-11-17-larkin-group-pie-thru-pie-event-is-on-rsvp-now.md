@@ -1,0 +1,34 @@
+---
+layout: post
+title: Larkin Group “Pie-Thru” Pie Event is on! RSVP NOW
+date: 2020-11-17 17:36:07
+tags:
+  - Thanksgiving
+excerpt: 'Don''t be shy, come claim your pie!'
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2020/Larkin+Group+2020+Pie+Day+_Pie-Thru_+Event!+_RSVP+LINK+BELOW_.mp4
+pullquote:
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image:
+youtube_code: RhBhHeogYlk
+---
+
+{% include youtube.html %}
+
+Don't be shy, come claim your pie at our TOUCHLESS "Pie-Thru" event\!
+
+Tuesday November 24th from 4 - 6 PM
+
+2020 has been...well, "complicated." And there's never been a BETTER time for us to gift you some Holiday cheer in the form of a beautiful Thanksgiving Pie\!
+
+This is a "touchless" event where you will literally just DRIVE THROUGH our Larkin Group HQ parking lot and we'll (masked of course) hand you a pie through your vehicle window\!
+
+RSVP for your PUMPKIN or APPLE Pie by clicking [HERE.&nbsp;](https://docs.google.com/forms/d/e/1FAIpQLSfujyoH2NHsLyS1zBOAO_31Shz5a83F8uTBAuXysKb37kAGHw/viewform)
+
+Our office is located at:
+
+[50 E. 100 S. \#300](https://goo.gl/maps/n3RFJvxNWhRbEdwD8) [St. George, Utah, 84770](https://goo.gl/maps/n3RFJvxNWhRbEdwD8)
+
+See you November 24th\!
