@@ -25,7 +25,7 @@ Recently, Van Harden and I met up (on Van’s first ever ZOOM call\!) to talk ab
 
 If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
 
-**A special THANK YOU to our sponsors:**
+<p style="text-align: center;">A special THANK YOU to our sponsors:</p>
 
 <div class="center">
 
