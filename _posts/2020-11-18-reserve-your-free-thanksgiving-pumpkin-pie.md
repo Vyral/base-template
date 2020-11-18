@@ -29,7 +29,7 @@ If you have any questions for us about the event or real estate in general, donâ
 
 <div class="center">
 
-<img src="/uploads/unnamed.jpg" style="width:259px; height:95px;"><img src="/uploads/unnamedg.jpg" style="width:259px; height:95px;"><br><br>
+<img src="/uploads/unnamed.jpg" style="width:259px; height:95px;"><img src="/uploads/unnamed-g.jpg" style="width:259px; height:95px;"><br><br>
 
 <img src="/uploads/unnamed-1.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-2.jpg" style="width:289px; height:90px;"><br><br>
 
