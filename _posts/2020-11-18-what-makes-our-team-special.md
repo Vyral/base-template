@@ -17,7 +17,7 @@ youtube_code: '-ZGvBNZwG68'
 
 {% include youtube.html %}
 
-Here’s how our team is set up and how we provide exceptional service.
+<p style="text-align: center;"><em>Here’s how our team is set up and how we provide exceptional service.</em></p>
 
 Today I’m talking about how our real estate team is set up.&nbsp;
 
