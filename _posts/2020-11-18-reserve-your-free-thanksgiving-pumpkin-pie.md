@@ -29,7 +29,7 @@ If you have any questions for us about the event or real estate in general, donâ
 
 <p style="img-align: center;">![](/uploads/unnamed.jpg){: width="259" height="95"}![](/uploads/g.jpg){: width="259" height="95"}</p>
 
-**![](/uploads/unnamed-1.jpg){: width="289" height="90"}![](/uploads/unnamed-2.jpg){: width="289" height="90"}**
+<center>**![](/uploads/unnamed-1.jpg){: width="289" height="90"}![](/uploads/unnamed-2.jpg){: width="289" height="90"}**<center>
 
 **![](/uploads/unnamed-3.jpg){: width="289" height="90"}![](/uploads/unnamed-4.jpg){: width="289" height="90"}**
 
