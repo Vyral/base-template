@@ -19,7 +19,7 @@ youtube_code: AGpjtXKFXtw
 
 {% include youtube.html %}
 
-It’s time to put three big home-buying myths under the microscope.
+<p style="text-align: center;"><em>It’s time to put three big home-buying myths under the microscope.</em></p>
 
 If you’re in the market to buy a home, you’ve more than likely received a barrage of buying advice from friends, family, news headlines, talking heads on the TV, and trending social media posts. However, much of that information is conflicting, which can leave you struggling to separate fact from fiction. What are the home buying tips you truly need to know? To help you gain some clarity, I’m sharing the three most common myths I find myself having to dispel on an almost daily basis when working with buyers:&nbsp;
 
