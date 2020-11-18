@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Real Estate Really One of the Best Investments?
-date: 2020-11-17 14:42:37
+date: 2020-11-17 14:42:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why real estate always makes for a stellar investment.
@@ -18,13 +18,13 @@ youtube_code: uGTf55B7bMU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why real estate always makes for a stellar investment.</em></p>
+*Here’s why real estate always makes for a stellar investment.*
 
 I understand that owning an income-producing rental property is not for everyone, but there are some pretty strong reasons everyone should at least consider it.&nbsp;
 
 Think about this: How does the median sale price of homes 20 years ago compare to the median price today? If we had bought houses back then and rented them out, where would our investment be at today? How would it compare to someone who had put that same amount of money into an S&P fund at the same time? As I demonstrated via infographic at a recent investment workshop, **the returns on real estate would be more than double that of the stock investment fund.** It’s basically the equivalent of having purchased four houses at a median price point 20 years ago.&nbsp;
 
-Even when factoring in the big dip of the Great Recession, the numbers show that you’d still be&nbsp; better off today had you made a real estate investment as opposed to an investment in the stock market. If you’re skeptical about that, feel free to reach out to me; I’d be glad to show the math to back it up.
+Even when factoring in the big dip of the Great Recession, the numbers show that you’d still be better off today had you made a real estate investment as opposed to an investment in the stock market. If you’re skeptical about that, feel free to reach out to me; I’d be glad to show the math to back it up.
 
 {% include pullquote.html %}
 
@@ -34,4 +34,4 @@ Let’s say you purchase a house with 20% down. Over time, the tenant pays rent,
 
 Lastly, my favorite thing about real estate is that **it’s not a “wait&nbsp; and accumulate” strategy—it’s a dependable cash flow into your bank account every single month.&nbsp;**
 
-If you’ve given all these points consideration but don’t know where to get started investing in real estate, or you have questions about anything I mentioned here, please give me a call or send an email. I’d love to talk things out with you to see whether real estate is the right move for you, and, if it is, what approach you should take moving forward. I look forward to hearing from you\!
+If you’ve given all these points consideration but don’t know where to get started investing in real estate, or you have questions about anything I mentioned here, please give me a call or send an email. I’d love to talk things out with you to see whether real estate is the right move, and if it is, what approach you should take moving forward. I look forward to hearing from you\!
