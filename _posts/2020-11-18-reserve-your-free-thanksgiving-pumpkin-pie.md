@@ -27,4 +27,4 @@ If you have any questions for us about the event or real estate in general, donâ
 
 **A special THANK YOU to our sponsors:**
 
-**![](/uploads/unnamed.jpg){: width="512" height="184"}![](/uploads/g.jpg){: width="1600" height="689"}**
+**![](/uploads/unnamed.jpg){: width="259" height="95"}![](/uploads/g.jpg){: width="1600" height="689"}**
