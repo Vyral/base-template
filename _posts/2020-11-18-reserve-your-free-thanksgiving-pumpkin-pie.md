@@ -27,18 +27,18 @@ If you have any questions for us about the event or real estate in general, donâ
 
 **A special THANK YOU to our sponsors:**
 
-\!\[\](/uploads/unnamed.jpg)\{: width="259" height="95"\}\!\[\](/uploads/g.jpg)\{: width="259" height="95"\}
+<div class="center">
 
-<div class="latest_item">&lt;img src="![](/uploads/unnamed-1.jpg){: width="289" height="90"}"</div>
+<img src="/uploads/unnamed.jpg" style="width:259px; height:95px;"><img src="/uploads/unnamedg.jpg" style="width:259px; height:95px;"><br><br>
 
-<div class="break">&nbsp;</div>
+<img src="/uploads/unnamed-1.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-2.jpg" style="width:289px; height:90px;"><br><br>
 
-![](/uploads/unnamed-2.jpg){: width="289" height="90"}
+<img src="/uploads/unnamed-3.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-4.jpg" style="width:289px; height:90px;"><br><br>
 
-**![](/uploads/unnamed-3.jpg){: width="289" height="90"}![](/uploads/unnamed-4.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-5.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-6.jpg" style="width:289px; height:90px;"><br><br>
 
-**![](/uploads/unnamed-5.jpg){: width="289" height="90"}![](/uploads/unnamed-6.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-7.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-8.jpg" style="width:289px; height:90px;"><br><br>
 
-**![](/uploads/unnamed-7.jpg){: width="289" height="90"}![](/uploads/unnamed-8.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-9.jpg" style="width:289px; height:90px;">
 
-**![](/uploads/unnamed-9.jpg){: width="289" height="90"}**
+</div>
