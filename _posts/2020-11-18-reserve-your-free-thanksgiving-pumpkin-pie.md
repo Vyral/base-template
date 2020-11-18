@@ -17,7 +17,7 @@ youtube_code: WYShNwbZMxE
 
 *Here’s how you can get yours\!*
 
-Recently, Van Harden and I met up (on Van’s first ever ZOOM call\!) to talk about our holiday plans.&nbsp; Thanksgiving is almost here, and we’re saying thanks this year with our 2nd annual Pumpkin Pie Giveaway. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit this link&nbsp;****to reserve your pie today.&nbsp;**
+Recently, Van Harden and I met up (on Van’s first ever ZOOM call\!) to talk about our holiday plans.&nbsp; Thanksgiving is almost here, and we’re saying thanks this year with our 2nd annual Pumpkin Pie Giveaway. **If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, [visit this link&nbsp;](__notset__)****[to reserve your pie today](http://www.soldincentraliowa.com/pumpkinpie){: target="_blank"}.&nbsp;**
 
 **You can pick up your pie on Monday, November 23 at our West Des Moines location or on Tuesday, November 24 at our Indianola location.** We will offer curbside delivery if that is easiest for you\!
 
