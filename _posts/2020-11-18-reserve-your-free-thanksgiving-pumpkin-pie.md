@@ -27,6 +27,8 @@ If you have any questions for us about the event or real estate in general, donâ
 
 **A special THANK YOU to our sponsors:**
 
+<div class="center">
+
 <p style="img-align: center;">![](/uploads/unnamed.jpg){: width="259" height="95"}![](/uploads/g.jpg){: width="259" height="95"}</p>
 
 <div class="latest_item"><img src="![](/uploads/unnamed-1.jpg){: width="289" height="90"}"</div>
@@ -39,3 +41,5 @@ If you have any questions for us about the event or real estate in general, donâ
 **![](/uploads/unnamed-7.jpg){: width="289" height="90"}![](/uploads/unnamed-8.jpg){: width="289" height="90"}**
 
 **![](/uploads/unnamed-9.jpg){: width="289" height="90"}**
+
+</div>
