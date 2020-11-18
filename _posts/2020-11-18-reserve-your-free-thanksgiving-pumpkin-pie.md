@@ -29,17 +29,16 @@ If you have any questions for us about the event or real estate in general, donâ
 
 <div class="center">
 
-<p style="img-align: center;">![](/uploads/unnamed.jpg){: width="259" height="95"}![](/uploads/g.jpg){: width="259" height="95"}</p>
+<img src="/uploads/unnamed.jpg" style="width:259px; height:95px;"}<img src="/uploads/g.jpg" style="width:259px; height:95px;""}
 
-<div class="latest_item"><img src="![](/uploads/unnamed-1.jpg){: width="289" height="90"}"</div>
-  <div class="break"></div>![](/uploads/unnamed-2.jpg){: width="289" height="90"}
+<img src="/uploads/unnamed-1.jpg" style="width:289px; height:90px;"><img src="/uploads/unnamed-2.jpg" style="width:289px; height:90px;">
 
-**![](/uploads/unnamed-3.jpg){: width="289" height="90"}![](/uploads/unnamed-4.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-3.jpg" style="width:289px; height:90px;"}<img src="/uploads/unnamed-4.jpg" style="width:289px; height:90px;">
 
-**![](/uploads/unnamed-5.jpg){: width="289" height="90"}![](/uploads/unnamed-6.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-5.jpg" style="width:289px; height:90px;"}<img src="/uploads/unnamed-6.jpg" style="width:289px; height:90px;">
 
-**![](/uploads/unnamed-7.jpg){: width="289" height="90"}![](/uploads/unnamed-8.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-7.jpg" style="width:289px; height:90px;"}<img src="/uploads/unnamed-8.jpg" style="width:289px; height:90px;">
 
-**![](/uploads/unnamed-9.jpg){: width="289" height="90"}**
+<img src="/uploads/unnamed-9.jpg" style="width:289px; height:90px;">
 
 </div>
