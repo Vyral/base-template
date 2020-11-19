@@ -5,7 +5,8 @@ date: 2020-11-17 14:42:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why real estate always makes for a stellar investment.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/Is+Real+Estate+Really+One+of+the+Best+Investments_.mp4
 pullquote: >-
   Equity growth is what enables you to outperform the stock market with a real
   estate investment.
@@ -18,7 +19,7 @@ youtube_code: uGTf55B7bMU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why real estate always makes for a stellar investment.</em></p>
+*Here’s why real estate always makes for a stellar investment.*
 
 I understand that owning an income-producing rental property is not for everyone, but there are some pretty strong reasons everyone should at least consider it.&nbsp;
 
