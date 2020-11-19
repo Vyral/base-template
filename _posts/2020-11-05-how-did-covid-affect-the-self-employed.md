@@ -5,7 +5,8 @@ date: 2020-11-05 15:29:00
 tags:
   - Finance Advice
 excerpt: Here’s a look at the options available for today’s self-employed buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/How+Did+COVID+Affect+the+Self-Employed_.mp4
 pullquote: 'If you’re self-employed and need a mortgage, you have options.'
 enclosure_type: video/mp4
 enclosure_time:
