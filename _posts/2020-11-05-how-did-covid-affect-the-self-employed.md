@@ -17,7 +17,7 @@ youtube_code: lZlXxqd6Vo8
 
 {% include youtube.html %}
 
-*Here’s a look at the options available for today’s self-employed buyers.*
+<p style="text-align: center;"><em>Here’s a look at the options available for today’s self-employed buyers.</em></p>
 
 First, I wanted to give you a little advice if you have an investment property and you want to tap into that equity. You can always do so through traditional financing with a big bank, but there are other options. For example, there are equity-based programs where we look at the income being produced by the property to qualify you for a cash-out refinance. **Right now, we’re going all the way up to 70% loan-to-value on those programs.**
 
