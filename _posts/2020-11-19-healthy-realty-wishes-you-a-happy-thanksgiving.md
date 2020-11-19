@@ -17,6 +17,6 @@ youtube_code: ahKW7ywWT_I
 
 {% include youtube.html %}
 
-My daughter and I wanted to wish you and your family a happy Thanksgiving.
+<p style="text-align: center;"><em>My daughter and I wanted to wish you and your family a happy Thanksgiving.</em></p>
 
 Thanksgiving is right around the corner, and we wanted you to know how grateful we are for your support. Ali Anne joined me to wish you all a very happy Thanksgiving from our family to yours. She even wrote her own special song for the occasion. To see our full message, watch this short video.
