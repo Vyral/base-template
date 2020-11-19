@@ -16,7 +16,7 @@ youtube_code: 0L5MwBWbZEU
 
 {% include youtube.html %}
 
-*Why work with the Sokoler Team? Let our past clients tell you.*
+<p style="text-align: center;"><em>Why work with the Sokoler Team? Let our past clients tell you.</em></p>
 
 I'm here today with Kenny, a client whose home we just helped sell. We listed his home at $50,000 and he ended up getting $50,000. I bring that up because people tend to think that we only list highly priced homes, but in reality, we list all types of homes here at the Sokoler Group.
 
