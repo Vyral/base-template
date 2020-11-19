@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: This is how you can get signed up for our virtual seller workshop.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/Learn+How+to+Sell+Your+Home+in+This+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
