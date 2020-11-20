@@ -4,6 +4,7 @@ title: What Was the Secret to Darren and Melissa’s Success?
 date: 2020-11-17 19:04:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   Here’s the story of how my clients were able to sell quickly in a slow-moving
   segment.
