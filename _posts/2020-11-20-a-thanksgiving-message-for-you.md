@@ -17,7 +17,7 @@ youtube_code: OVFDZvsHHXU
 
 {% include youtube.html %}
 
-This Thanksgiving message is one of gratitude for you and what we have.
+<p style="text-align: center;"><em>This Thanksgiving message is one of gratitude for you and what we have.</em></p>
 
 This year has been one like no other in our country. We’ve had many challenges and changes and had to make quite a few adjustments. However, we’re still standing and have a lot to be grateful for; we have a country that offers us freedom and opportunities. We’re grateful we live in the greatest country in the world; there’s no place like America.&nbsp;
 
