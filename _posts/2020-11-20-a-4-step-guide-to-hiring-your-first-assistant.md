@@ -17,7 +17,7 @@ youtube_code: UgVy4k1_uw0
 
 {% include youtube.html %}
 
-Here’s what you need to do to find the perfect assistant.
+<p style="text-align: center;"><em>Here’s what you need to do to find the perfect assistant.</em></p>
 
 How do you hire your first administrative assistant?
 
