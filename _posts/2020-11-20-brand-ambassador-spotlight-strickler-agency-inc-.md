@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Strickler Agency, Inc. has been able to serve our community for nearly a
   century.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+Strickler+Agency.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: j6gJju_9YG8
 
 {% include youtube.html %}
 
-Strickler Agency, Inc. has been able to serve our community for nearly a century.
+<p style="text-align: center;"><em>Strickler Agency, Inc. has been able to serve our community for nearly a century.</em></p>
 
 Today I’m excited to showcase yet another great local business in my latest Brand Ambassador installment. This time I’m visiting Strickler Agency, Inc. to chat with some of their team members and learn all about the great insurance products they offer. They’ve been serving our community for nearly 100 years, and you have the opportunity to see why they’ve lasted so long.&nbsp;
 
