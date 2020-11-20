@@ -5,7 +5,8 @@ date: 2020-11-12 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Here are some homemade tips on how to throw a Pie Day event this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Tips+for+Planning+Your+Pie+Day+During+the+Pandemic.mp4
 pullquote: Pie Day is an amazing way to show love to all your people.
 enclosure_type: video/mp4
 enclosure_time:
