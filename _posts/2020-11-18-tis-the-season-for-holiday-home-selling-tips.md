@@ -7,7 +7,7 @@ tags:
   - Home Seller Tips
 excerpt: These five tips will help you sell your home during the holidays.
 enclosure:
-pullquote:
+pullquote: Light some holiday-scented candles to keep your home smelling fresh.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -31,4 +31,6 @@ youtube_code: snnNYniNCKo
 
 **5\. Be patient during the process**. Showings may come at inconvenient times, especially during the holidays, when you’ll likely have your own plans to contend with. Just try to be patient with the process. If the home doesn’t sell during the holiday season, it’ll sell eventually.
 
-If you have further questions about real estate, don’t hesitate to reach out to your Colemere Realty Specialists. We’d love to answer them.
+{% include pullquote.html %}
+
+If you have further questions about real estate, don’t hesitate to reach out to your Colemere Realty specialists. We’d love to answer them.
