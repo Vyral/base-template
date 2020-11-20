@@ -19,7 +19,7 @@ youtube_code: o2k7NxBE4zY
 
 {% include youtube.html %}
 
-Here’s why you shouldn’t write off a holiday home sale.
+<p style="text-align:center">Here’s why you shouldn’t write off a holiday home sale.</p>
 
 Most people assume that there are more homebuyers active in the spring and summer markets, so they wait to list their homes until those seasons roll around. While that assumption is correct, it also leads to much higher competition among sellers—if every seller waits for the same advantage, then there’s no real “advantage” at all.&nbsp;
 
