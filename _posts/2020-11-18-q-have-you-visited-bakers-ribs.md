@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Have You Visited Baker’s Ribs?'
-date: 2020-11-18 21:09:37
+date: 2020-11-18 21:09:00
 tags:
 excerpt: We visited Baker’s Ribs to speak with the owner about what makes them great.
 enclosure:
@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9zRqj4PtIR4
+youtube_code: xjPCYKTsErA
 ---
 
 {% include youtube.html %}
