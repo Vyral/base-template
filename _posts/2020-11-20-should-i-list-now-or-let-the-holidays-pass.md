@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Should I List Now or Let the Holidays Pass?
-date: 2020-11-20 21:04:26
+date: 2020-11-20 21:04:00
 tags:
   - Market Update
 excerpt: Here’s why you shouldn’t write off a holiday home sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Zach+Sikes/2020/Should+I+List+Now+or+Let+the+Holidays+Pass_.mp4
 pullquote: >-
   If every seller waits for the same advantage, then there’s no real “advantage”
   at all.
