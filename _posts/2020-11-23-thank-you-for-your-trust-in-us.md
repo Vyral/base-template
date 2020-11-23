@@ -17,7 +17,7 @@ youtube_code: xlqAHrfUItk
 
 {% include youtube.html %}
 
-We are thankful to every one of you, and today I wanted to say it outright.
+<p style="text-align: center;"><em>We are thankful to every one of you, and today I wanted to say it outright.</em></p>
 
 Thanksgiving is almost here, and 2020 has been a wild year. Both of my kids came home from college for spring break, thought they’d have to stay home for a week or two, but they’re still here. There’s no playbook for how things should go during a pandemic, but **there are some silver linings.** I get this bonus time with my kids that I didn’t expect, so as a family we’ve been enjoying cooking, watching TV, and spending quality time together.
 
