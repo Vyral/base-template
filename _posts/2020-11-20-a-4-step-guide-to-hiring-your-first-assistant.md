@@ -6,13 +6,13 @@ tags:
   - Transaction Management
 excerpt: Here’s what you need to do to find the perfect assistant
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent_+How+to+Hire+Your+First+Administrative+Assistant.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2020/Central+PA+Real+Estate+Agent_+assistant+2.mp4
 pullquote: 'During the interview process, delve into the applicant''s life story.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: UgVy4k1_uw0
+youtube_code: EQep86yV9DY
 ---
 
 {% include youtube.html %}
