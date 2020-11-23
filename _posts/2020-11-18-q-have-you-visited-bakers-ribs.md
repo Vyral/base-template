@@ -31,6 +31,6 @@ Al says the secret to excellent barbeque is cooking with oak wood smoke. When yo
 * Favorite carb food? *Baked potatoes*
 * Who inspires you? *My employees and customers*
 
-We want you to love where you live. If you live in or near Eden Prairie or are just visiting, stop into Baker’s Ribs and **check out their exceptional Texas barbeque\!**
+We want you to love where you live. If you live in or near Eden Prairie or are just visiting, stop into Baker’s Ribs at 8019 Glen Ln, Eden Prairie, MN 55344 and **check out their exceptional Texas barbeque\!** Learn more about Baker's Ribs on their website at&nbsp;[bakersribs.com](bakersribs.com){: target="_blank" rel="noopener"}&nbsp;or give them a call at (952) 942-5337.&nbsp;
 
 If you ever have any questions about real estate, give us a call or send an email. We would love to help you.
