@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing you a happy Thanksgiving
-date: 2020-11-23 19:40:31
+date: 2020-11-23 19:40:00
 tags:
 excerpt: 'Happy Thanksgiving, friends'
 enclosure: >-
@@ -9,7 +9,7 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/11-20-20yt-2.jpg
 youtube_code: Gs-OyoI2liw
 ---
