@@ -6,7 +6,7 @@ tags:
   - ask Sarita
 excerpt: 'We are thankful for every one of you, and today I wanted to say it outright.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Portland+Real+Estate+Agent_+Thank+You+for+Your+Trust+in+Us.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Thank+You+for+Your+Trust+in+Us.mp4
 pullquote: You are why we do what we do.
 enclosure_type: video/mp4
 enclosure_time:
