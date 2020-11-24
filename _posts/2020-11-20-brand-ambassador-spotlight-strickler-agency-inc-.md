@@ -23,6 +23,8 @@ youtube_code: j6gJju_9YG8
 
 Today I’m excited to showcase yet another great local business in my latest Brand Ambassador installment. This time I’m visiting Strickler Agency, Inc. to chat with some of their team members and learn all about the great insurance products they offer. They’ve been serving our community for nearly 100 years, and you have the opportunity to see why they’ve lasted so long.&nbsp;
 
+**Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
+
 0:44—A quick history of Strickler and a rundown of their products
 
 1:25—What keeps them up at night?
@@ -33,8 +35,6 @@ Today I’m excited to showcase yet another great local business in my latest Br
 
 5:23—Wrapping things up&nbsp;
 
-If you’re looking for insurance options and need a free coverage comparison, you can reach Strickler Agency, Inc. by phone at (717) 243-2921 or visit their website [https://www.stricklerins.com/](https://www.stricklerins.com/).&nbsp;
+If you’re looking for insurance options and need a free coverage comparison, you can reach Strickler Agency, Inc. by phone at (717) 243-2921 or visit their [website](https://www.stricklerins.com/).&nbsp;
 
 If you have questions about today’s video or know of a local business you’d like to see featured in a future Brand Ambassador episode, don’t hesitate to reach out to me. I’d love to hear from you.
-
-{% include pullquote.html %}
