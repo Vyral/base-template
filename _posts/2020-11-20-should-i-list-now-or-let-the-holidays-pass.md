@@ -8,7 +8,7 @@ excerpt: Here’s why you shouldn’t write off a holiday home sale.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Zach+Sikes/2020/Should+I+List+Now+or+Let+the+Holidays+Pass_.mp4
 pullquote: >-
-  If every seller waits for the same advantage, then there’s no real “advantage”
+  If every seller waits for the same advantage, then there’s no real 'advantage'
   at all.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +19,7 @@ youtube_code: o2k7NxBE4zY
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here’s why you shouldn’t write off a holiday home sale.</p>
+<p style="text-align:center"><em>Here’s why you shouldn’t dismiss the idea of a holiday home sale.</em></p>
 
 Most people assume that there are more homebuyers active in the spring and summer markets, so they wait to list their homes until those seasons roll around. While that assumption is correct, it also leads to much higher competition among sellers—if every seller waits for the same advantage, then there’s no real “advantage” at all.&nbsp;
 
@@ -29,8 +29,8 @@ Here’s a real-world example: We hovered around 3.6 months of inventory through
 
 If you think 3.6 months of inventory sounds like quite the low-competition environment and you’re sorry that you missed out on it, don’t fret—**in this fourth quarter of 2020, we have less than 1.5 months of inventory\!** The current supply of available homes for sale in our market is astonishingly low; why wait until more sellers flood the market next year?
 
-If you’ve humored the thought of selling your house sometime in the next six months to a year, I highly encourage you to think about doing so now. Take advantage of this hot market filled with motivated buyers who are begging for more options. **I assure you that the buyers who are out looking at homes during the holiday season aren’t looky loos**—they likely *have* to buy, though their personal reasons may vary.&nbsp;
+If you’ve humored the thought of selling your house sometime in the next six months to a year, I highly encourage you to think about doing so now. Take advantage of this hot market filled with motivated buyers who are begging for more options. **I assure you that the buyers who are out looking at homes during the holiday season aren’t looky-loos**—they likely *have* to buy, though their reasons may vary.&nbsp;
 
-A buyer who absolutely must relocate for a new job or to accommodate a sudden life event will be much more likely to pay a higher price for your home than a spring or summer buyer who’s just “exploring their options.”
+A buyer who absolutely must relocate for a new job or accommodate a sudden life event will be much more likely to pay a higher price for your home than a spring or summer buyer who’s just “exploring their options.”
 
 If you’re ready to take the first step toward a quick, top-dollar sale, please reach out to any of our agents here at Homestead & Co. We’d love to hear about your specific selling needs and work with you to maximize your home sale.&nbsp;
