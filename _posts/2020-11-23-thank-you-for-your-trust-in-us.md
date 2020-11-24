@@ -6,13 +6,13 @@ tags:
   - ask Sarita
 excerpt: 'We are thankful for every one of you, and today I wanted to say it outright.'
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Portland+Real+Estate+Agent_+Happy+Thanksgiving+2020.mp4
+  https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2020/Portland+Real+Estate+Agent_+thanksgiving.mp4
 pullquote: You are why we do what we do.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xlqAHrfUItk
+youtube_code: ihJxfSGCpYI
 ---
 
 {% include youtube.html %}
