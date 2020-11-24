@@ -1,5 +1,5 @@
-audit_header: false
-title: Baystate Financial Video Blog with Stephen Cunha
+baudit_header: false
+title: Retirement CFO Video Blog with Stephen Cunha
 description: 'Stephen Cunha can help you take charge of your financial future by developing a customized strategy to reach your financial goals and further your success.'
 show_custom_links: true
 custom_links:
@@ -16,14 +16,14 @@ client:
   about_markdown: |
     With over 25 years of experience in the financial services industry, Stephen specializes in helping clients achieve their most cherished goals. Having spent 13 years in the Army Reserve, he draws on his strong leadership background to train and teach clients the fundamentals of financial independence. Stephen thrives in relating the most arcane financial concepts to individuals and business owners, empowering them to better understand the complex world of investing. Throughout his career, he has focused his expertise on creating clarity out of confusion for clients on both the corporate and individual side.
   market:
-  brand: Baystate Financial
+  brand: Retirement CFO
   brokerage:
-  address: 301 Edgewater Place - Suite 200<br>Wakefield, MA 01880
-  phone: 781-876-4113
+  address: 1 Park Ave. Suite 5-1<br>Hampton, NH 03842
+  phone: 781-437-4800
   phone_type:
   phone2:
   phone2_type:
-  email: scunha@baystatefinancial.com
+  email: steve@retirementcfo.com
   url: http://RetirementCFO.com
   url2: http://SelectRetirementPlans.com
 
