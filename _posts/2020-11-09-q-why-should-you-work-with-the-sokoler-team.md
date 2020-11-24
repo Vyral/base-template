@@ -5,7 +5,8 @@ date: 2020-11-09 15:23:00
 tags:
   - Home Seller Tips
 excerpt: Why work with the Sokoler Team? Let our past clients tell you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Why+Should+You+Work+with+the+Sokoler+Team_.mp4
 pullquote: Kenny was very pleased—we sold his home in just one day!
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: 0L5MwBWbZEU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Why work with the Sokoler Team? Let our past clients tell you.</em></p>
+*Why work with the Sokoler Team? Let our past clients tell you.*
 
 I'm here today with Kenny, a client whose home we just helped sell. We listed his home at $50,000 and he ended up getting $50,000. I bring that up because people tend to think that we only list highly priced homes, but in reality, we list all types of homes here at the Sokoler Group.
 
