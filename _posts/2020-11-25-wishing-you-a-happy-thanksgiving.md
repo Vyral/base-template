@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You a Happy Thanksgiving
-date: 2020-11-25 18:55:08
+date: 2020-11-25 18:55:00
 tags:
   - Real Estate
 excerpt: >-
@@ -11,7 +11,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/happy-thanksgiving-from-the-sokoler-team-yt.jpg
 youtube_code: dc4WXXb7yDU
 ---
