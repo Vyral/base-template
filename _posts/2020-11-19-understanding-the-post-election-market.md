@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: 'My thoughts on what, if any, impact the election will have on our market.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/Understanding+the+Post-Election+Market.mp4
 pullquote: Families have needed a lot more space this year.
 enclosure_type: video/mp4
 enclosure_time:
