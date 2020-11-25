@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: These five tips will help you sell your home during the holidays.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/%E2%80%98Tis+the+Season+for+Holiday+Home+Selling+Tips.mp4
 pullquote: Light some holiday-scented candles to keep your home smelling fresh.
 enclosure_type: video/mp4
 enclosure_time:
