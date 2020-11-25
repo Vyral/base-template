@@ -18,7 +18,7 @@ youtube_code: dc4WXXb7yDU
 
 {% include youtube.html %}
 
-All of us at The Sokoler Team want to wish you a happy, healthy, safe, and exciting Thanksgiving\!&nbsp;
+<p style="text-align: center;"><em>All of us at The Sokoler Team want to wish you a happy, healthy, safe, and exciting Thanksgiving!</em></p>
 
 Our special thanks to our healthcare workers and first responders who are enduring tremendous obstacles as we all deal with COVID 19\!&nbsp;
 
