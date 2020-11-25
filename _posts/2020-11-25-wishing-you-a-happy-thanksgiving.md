@@ -18,16 +18,14 @@ youtube_code: dc4WXXb7yDU
 
 {% include youtube.html %}
 
-Friends,
+All of us at The Sokoler Team want to wish you a happy, healthy, safe, and exciting Thanksgiving\!&nbsp;
 
-The 2020 holiday season has officially begun and we hope you are as excited as we are\! As you can see, we kicked off the festivities with our annual Pie Giveaway which was a huge success.&nbsp;
+Our special thanks to our healthcare workers and 1st responders who are enduring tremendous obstacles as we all deal with Covid 19\!&nbsp;
 
-We’d like to take a moment to express our gratitude to all of you this Thanksgiving. We have met some truly wonderful people, and we’re proud to have helped so many reach their real estate goals over the years.&nbsp;
+Over the past years, we have met some wonderful people, and we’re proud to have helped so many reach their real estate goals over the years.
 
-We wouldn’t be where we are today without all of your support.&nbsp;
+Watch our video to see some of our clients who signed up for our Thanksgiving Pie giveaway yesterday. Our special thanks to our Thanksgiving partners, Swan Financial, Home Team Inspections, Limestone Title, and Home Warranty of America. We would not be number 1 in Louisville without the support of all our clients and partners.
 
-Enjoy your Thanksgiving dinner—that’s what we plan to do\!&nbsp;
+If you need us, we are always here for you\!&nbsp;
 
-In the meantime, please don’t hesitate to reach out to us if you have any real estate questions.
-
-We would be happy to help you.&nbsp;
+Happy Thanksgiving.
