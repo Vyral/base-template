@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/happy-thanksgiving-from-the-sokoler-team-yt.jpg
+youtube_alternate_image:
 youtube_code: dc4WXXb7yDU
 ---
 
@@ -20,7 +20,7 @@ youtube_code: dc4WXXb7yDU
 
 All of us at The Sokoler Team want to wish you a happy, healthy, safe, and exciting Thanksgiving\!&nbsp;
 
-Our special thanks to our healthcare workers and 1st responders who are enduring tremendous obstacles as we all deal with Covid 19\!&nbsp;
+Our special thanks to our healthcare workers and first responders who are enduring tremendous obstacles as we all deal with COVID 19\!&nbsp;
 
 Over the past years, we have met some wonderful people, and we’re proud to have helped so many reach their real estate goals over the years.
 
