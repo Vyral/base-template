@@ -29,5 +29,5 @@ Enjoy the holiday as safely as you can; **have a great Thanksgiving\!**
 
 If you ever have any questions concerning real estate, give us a call or send an email. We would love to help you.
 
-I am launching my video series specific to real estate agents. I will be offering tips on the market, team structure, what is working for us, opportunities for hiring, etc. Click the button below to join the mailing lists for my Portland Real Estate Mastermind video series.
+<strong><em>Oh... one more thing...I am launching my video series specific to real estate agents. I will be offering tips on the market, team structure, what is working for us, opportunities for hiring, etc. Click the button below to join the mailing lists for my Portland Real Estate Mastermind video series.</em></strong>
 <p style="text-align: center;"><a href="https://app.e2ma.net/app2/audience/signup/1934154/1809790/"><button type="button"><span style="font-size: 20px;">Sign Up Here</span></button></a></p>
