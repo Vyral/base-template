@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/LvlH7UZhTVY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some legal situations to be aware of as a vacation rental owner.</em></p>
+
 Whether you already own a vacation rental home or are thinking about purchasing one, there are three legal challenges that you should be aware of from the start:
 
 **1\. Lease agreements.** It’s very important to use the proper document for the type of rental property you have. There are two types of rentals: short-term and long-term. If you use a long-term lease agreement on a short-term rental, it could be a problem if you have to evict somebody. On a short-term lease, you have the right to call the police and get the person out of the property. On a long-term lease, however, you’ll have to go through the eviction process to get them out and could take a long time.
