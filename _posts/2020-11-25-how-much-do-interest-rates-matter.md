@@ -1,12 +1,12 @@
 ---
 layout: post
 title: How Much Do Interest Rates Matter?
-date: 2020-11-25 20:07:43
+date: 2020-11-25 20:07:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why interest rates play a big part in your purchasing power.
 enclosure:
-pullquote:
+pullquote: 'From a budget standpoint, the lower rates are, the more house you can afford.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -16,7 +16,7 @@ youtube_code: B-KxWmasgZE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why interest rates play a big part in your purchasing power.</em></p>
+*Here’s why interest rates play a big part in your purchasing power.*
 
 I’m sure you’ve heard all the chatter lately about low interest rates. The truth is, they’ve been very low ever since COVID hit. In any case, this brings to mind an important question for homebuyers: How big of a deal is it if interest rates drop a full percent? To answer that, let’s look at the numbers.&nbsp;
 
