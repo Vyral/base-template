@@ -17,7 +17,7 @@ youtube_code: s4-Oc9sE4Uk
 
 {% include youtube.html %}
 
-*Here’s a detailed look at the beauty of 7049 N. Mission Hills Lane.*
+<p style="text-align:center;"><em>Here’s a detailed look at the beauty of 7049 N. Mission Hills Lane.</em></p>
 
 Today I’m excited to be introducing you to a truly unique property here in the Tucson area. This 9,100-square foot, Tudor-style home sits on approximately four acres, making it one of the few mansions in its gated community. The Tudor design originated in the 15th century and is characterized by steep pitch roofs, elaborate masonry, and embellished doorways; this modern Tudor is modeled after the countryside estates of Normandy, France and boasts six bedrooms, 10 bathrooms, and three different living spaces.&nbsp;
 
