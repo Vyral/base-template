@@ -15,11 +15,11 @@ youtube_code: 8MzbKQ2XBU4
 
 {% include youtube.html %}
 
-Here are the three main reasons winter is an excellent time to sell.
+<p style="text-align: center;"><em>Here are the three main reasons winter is an excellent time to sell.</em></p>
 
 Believe it or not, you may want to consider selling now instead of waiting for the spring. Though spring is the “traditional” time to sell, it’s not always the best option. Here are the three top reasons you may want to sell in the winter:
 
-**1\.**&nbsp;**Less competition.** There are many homeowners who wanted to sell but decided not to, their home didn’t sell so they took it off the market, or they’re debating it so they’re waiting to list. This means fewer properties competing against yours.
+**1\. Less competition.** There are many homeowners who wanted to sell but decided not to, their home didn’t sell so they took it off the market, or they’re debating it so they’re waiting to list. This means fewer properties competing against yours.
 
 **2\. Focused and serious buyers.** Buyers who didn’t need to buy likely wouldn’t be looking this time of year, so they’re motivated to purchase. Since there’s not a ton of new inventory on the market this time of year, your house will stand out more than it would in a busier market.
 
