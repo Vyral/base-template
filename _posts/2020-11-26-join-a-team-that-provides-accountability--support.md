@@ -17,7 +17,7 @@ youtube_code: Tnu_u3gjQOs
 
 {% include youtube.html %}
 
-If you’re looking for a change, know that we’re expanding.
+<p style="text-align: center;"><em>If you’re looking for a change, know that we’re expanding.</em></p>
 
 This is the time of year when everyone is starting to write down what their goals are for the next business year.&nbsp;
 
