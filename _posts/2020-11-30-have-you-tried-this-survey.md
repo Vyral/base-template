@@ -27,13 +27,13 @@ We incentivize them to respond to the survey, which is a simple Google Form, wit
 
 **In the form, we shared that interest rates are still at historical lows, inventory is lower than we’ve seen in a long time, and prices for homes are actually way up**. These are three great reasons to make a move if you need to be moving, which is why we shared them with our entire database.
 
-{% include pullquote.html %}
-
 We not only wanted to educate our database with this information, but we also wanted to ask some questions. Here are the very simple questions we included on our form:
 
 * Are you thinking about selling in the next 12 months?
 * If you’re not going to sell, why?
 * Would you like to receive a free market report?
+
+{% include pullquote.html %}
 
 After you ask these questions, make sure that you put a space in there to contact their most recent contact information, including their name, phone number, email address, and home address.
 
