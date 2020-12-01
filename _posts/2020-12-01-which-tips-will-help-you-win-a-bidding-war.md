@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/4M-N5tYYJwk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are five tips that will make your offer stand out in a bidding war.</em></p>
+
 I’m not breaking any news when I say it’s a highly competitive seller’s market out there. We have extremely low inventory, which means you’ll probably have to compete against more than one person to purchase the home you want.&nbsp;
 
 How do you make your offer stand out? Here are five tips to keep in mind:
