@@ -26,7 +26,7 @@ One of our goals is to expand a little bit further. I obtained my real estate li
 
 {% include pullquote.html %}
 
-We’re also continuing to expand in Harper, Baltimore, Cecil, and Anne Arundel counties, as well as a few more locales. At the end of this year, we will have sold just over 500 homes and done around $145 million in production.
+We’re also continuing to expand in Harford, Baltimore, Cecil, and Anne Arundel counties, as well as a few more locales. At the end of this year, we will have sold just over 500 homes and done around $145 million in production.
 
 So consider: Where do you want to go in your business? Are you in the right spot? Do you need a change? We’re looking for people who really want to put in the work to help their clients—customer satisfaction is key. **If you provide excellent service to the client, you’ll make more money, enjoy your life more, and grow closer to the people you work with.**
 
