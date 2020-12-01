@@ -5,7 +5,8 @@ date: 2020-12-01 15:23:00
 tags:
   - Real Estate
 excerpt: This latest market update comes to you from a special baby shower!
-enclosure: This latest market update comes to you from a special baby shower!
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/Louisville+Real+Estate_+The+Sokoler+Team+Just+Had+a+(Safe)+Baby+Shower!+(1).mp4
 pullquote: Home prices have been accelerating at double the pace of last year.
 enclosure_type: video/mp4
 enclosure_time:
