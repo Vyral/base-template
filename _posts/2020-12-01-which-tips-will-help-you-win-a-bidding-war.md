@@ -23,9 +23,9 @@ I’m not breaking any news when I say it’s a highly competitive seller’s ma
 
 How do you make your offer stand out? Here are five tips to keep in mind:
 
-**1\. Submit a large earnest money deposit.** When you put down a deposit alongside your offer, there’s always an offer deposit, but that second purchase and sale deposit is very important. Your agent should advise you on how to make a strong deposit because 1) It shows that you’re financially strong, and 2) It shows that you have skin in the game and are committed to buying the property. Sellers always worry about what happens if something goes wrong and you default on your offer, but as long as you’re committed to the property in question, a strong deposit will help it stand out.&nbsp;
+**1\. Submit a large earnest money deposit.** When you put down a deposit alongside your offer, there’s always an offer deposit, but that second purchase and sale deposit is very important. Your agent should advise you on how to make a strong deposit because 1) It shows that you’re financially strong, and 2) It shows that you have skin in the game and are committed to buying the property. Sellers always worry about what happens if something goes wrong and you default on your offer, but as long as you’re committed to the property in question, a strong deposit will help it stand out against the competition.&nbsp;
 
-**2\. Show the seller you’re qualified.** Work with your lender and ask for a strong pre-approval. Have them write as much as they can to demonstrate your strength in that pre-approval. Then, take it a step further and ask your agent to contact the lender and have them contact the listing agent so they can reassure them that you’re a strong, well-qualified buyer who will make the sale process smooth and stress-free.&nbsp;
+**2\. Show the seller you’re qualified.** Work with your lender and ask for a strong pre-approval. Have them write as much as they can to demonstrate your strength in that pre-approval. Then, take it a step further and ask your agent to contact the lender and have them reach out to the listing agent so they can reassure them that you’re a strong, well-qualified buyer who will make the sale process smooth and stress-free.&nbsp;
 
 {% include pullquote.html %}
 
@@ -33,7 +33,7 @@ How do you make your offer stand out? Here are five tips to keep in mind:
 
 **4\. Be smart with your contingencies.** Obviously your agent will want you to be well-protected, but be mindful to not make your contingencies so aggressive that it scares sellers off. For example, offer a monetary window in your home inspection that says you won’t nitpick smaller items. In general, keep the language in your contingencies as loose as possible (while still protecting your interests).
 
-**5\. Use an escalation clause.** You can use this clause to escalate the price of your offer over the next highest offer up to a certain point. For example, let’s say you offer $100,000 for a property with an escalation clause that allows it to go $2,000 over the next highest offer up to $115,000. If someone makes an offer of $105,000, you offer then automatically jumps up to $107,000. Escalation clauses can be tricky, so make sure you speak with your agent about them before utilizing one.&nbsp;
+**5\. Use an escalation clause.** You can use this clause to escalate the price of your offer over the next highest offer up to a certain point. For example, let’s say you offer $100,000 for a property with an escalation clause that allows it to go $2,000 over the next highest offer up to $115,000. If someone makes an offer of $105,000, your offer then automatically jumps up to $107,000. Escalation clauses can be tricky, so make sure you speak with your agent about them before utilizing one.&nbsp;
 
 Remember, even if you feel like you don’t have a chance to win the home you want, it’s always good to put your offer forward anyway. You don’t know what can happen, and you don’t know what the seller is thinking when they choose an offer.&nbsp;
 
