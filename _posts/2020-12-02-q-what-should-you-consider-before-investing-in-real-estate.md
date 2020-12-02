@@ -17,7 +17,7 @@ youtube_code: m598YrlLN_M
 
 {% include youtube.html %}
 
-*Here’s what you should consider before buying an investment property. *
+<center><em>Here’s what you should consider before buying an investment property.</em></center>
 
 &nbsp;
 
