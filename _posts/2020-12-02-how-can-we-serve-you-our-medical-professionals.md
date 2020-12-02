@@ -17,7 +17,7 @@ youtube_code: YWWl6SKx7Nc
 
 {% include youtube.html %}
 
-Here’s a friendly reminder of our primary passion as a real estate team.
+<p style="text-align: center;"><em>Here’s a friendly reminder of our primary passion as a real estate team.</em></p>
 
 Over the last decade, my real estate team and I have worked so hard to help medical families as they relocate into and move out of Charleston. I’ve been married to a physician for over 20 years now; we got married right before he started medical school, so **I understand the whole medical family journey**—from med school to residency and fellowships, to finally being an attending physician or a practitioner.&nbsp;
 
