@@ -17,7 +17,7 @@ youtube_code: yXNzfqVyzF0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>This latest market update comes to you from a special baby shower\!</em></p>
+This latest market update comes to you from a special baby shower\!
 
 Today we’re at our office manager Lisa Clyre’s house for **a very special occasion: Keren Benebou, one of the Sokoler Team’s stellar agents, is expecting**—yes, this is a baby shower\! Before we talk with Keren about welcoming her third child, let’s check out the latest market stats for Louisville and Southern Indiana real estate.&nbsp;
 
