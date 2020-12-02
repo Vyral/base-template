@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Hopy You Had a Wonderful Thanksgiving!
+title: We Hope You Had a Wonderful Thanksgiving!
 date: 2020-11-20 00:00:00
 tags:
   - Clancy Real Estate
