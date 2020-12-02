@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: What Should You Consider Before Investing in Real Estate?'
-date: 2020-12-02 16:55:52
+date: 2020-12-02 16:55:00
 tags:
 excerpt: Here’s what you should consider before buying an investment property.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2020/Alex+Yu+5+Things+When+Investing.mp4
 pullquote: >-
   If you want to buy a fix-and-flip, that process can last anywhere from three
   to 12 months.
@@ -17,7 +18,7 @@ youtube_code: m598YrlLN_M
 
 {% include youtube.html %}
 
-<center><em>Here’s what you should consider before buying an investment property.</em></center>
+<center><em>Here&rsquo;s what you should consider before buying an investment property.</em></center>
 
 &nbsp;
 
