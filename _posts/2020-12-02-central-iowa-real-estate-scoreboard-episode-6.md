@@ -16,6 +16,8 @@ youtube_code: ugMiVo5uEPQ
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>On this episode, we’re focusing on multiple-offer strategies for sellers.</em></p>
+
 When you are a home seller who is receiving multiple offers, it’s very common for your agent to reach back out to buyers to ask for their highest and best offer by a certain time frame. I try a different approach because I’m not the biggest fan of the sense of finality conveyed by this strategy.
 
 **The approach I take involves going back to the buyers, letting them know that we have a multiple-offer situation, and asking if they’d like to make any adjustments to their offer before proceeding.&nbsp;**
