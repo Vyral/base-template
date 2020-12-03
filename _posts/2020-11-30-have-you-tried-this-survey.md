@@ -6,7 +6,8 @@ tags:
   - Lead Generation
   - Lead Conversion
 excerpt: We’ve been using this survey to gather information from our database.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Have+You+Tried+This+Survey_.mp4
 pullquote: 'With this survey, we can inform and canvass our database for information.'
 enclosure_type: video/mp4
 enclosure_time:
