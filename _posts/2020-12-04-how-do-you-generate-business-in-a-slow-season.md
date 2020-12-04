@@ -19,7 +19,7 @@ youtube_code: jG5EPxUFWOM
 
 {% include youtube.html %}
 
-If you want to drum up more business right now, here are the ways to do it.
+<p style="text-align: center;"><em>If you want to drum up more business right now, here are the ways to do it.</em></p>
 
 What are the fastest ways to generate immediate business in a slow season? Here are three tips you can try:
 
