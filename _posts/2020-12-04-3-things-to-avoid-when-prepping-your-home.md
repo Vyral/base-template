@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3 Things to Avoid When Prepping Your Home
-date: 2020-12-04 20:55:41
+date: 2020-12-04 20:55:00
 tags:
   - Home Seller Tips
 excerpt: Here are three vital mistakes to avoid when preparing your home for sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2020/3+Things+to+Avoid+When+Prepping+Your+Home.mp4
 pullquote: Crown molding and wainscotting are not needed to sell a house.
 enclosure_type: video/mp4
 enclosure_time:
