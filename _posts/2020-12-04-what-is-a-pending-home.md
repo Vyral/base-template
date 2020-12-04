@@ -17,7 +17,7 @@ youtube_code: 4VgyuX_YoME
 
 {% include youtube.html %}
 
-If you love a home that’s pending, you should put in a backup offer.
+<p style="text-align: center;"><em>If you love a home that’s pending, you should put in a backup offer.</em></p>
 
 Sometimes you’ll come across a home you love, only to find out it’s “pending.” A pending property means that a buyer has written an offer, the seller has accepted it, and they’re currently undergoing the due diligence period. That means they’re getting inspections and appraisals, and finalizing their financing.
 
