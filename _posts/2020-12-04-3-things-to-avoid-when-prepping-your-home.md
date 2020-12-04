@@ -17,7 +17,7 @@ youtube_code: RxYG1SNQWlk
 
 {% include youtube.html %}
 
-Here are three vital mistakes to avoid when preparing your home for sale.
+<p style="text-align:center">Here are three vital mistakes to avoid when preparing your home for sale.</p>
 
 Unfortunately, some people make mistakes while preparing their homes for sale. Here are the three main things to avoid when getting your house ready for the market:
 
