@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard of Black’s Water Conditioning?
-date: 
+date: 2020-12-04 17:31:47
 tags:
   - Brand Ambassador
 excerpt: Black’s Water Conditioning can help with all your water treatment needs.
@@ -17,7 +17,7 @@ youtube_code: 1zLMHYCDap0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Black’s Water Conditioning can help with all your water treatment needs.</em></p>
+*Black’s Water Conditioning can help with all your water treatment needs.*
 
 I’m delivering another brand ambassador local business highlight. Today I’m meeting with Black’s Water Conditioning, a third-generation family business with an excellent reputation for all your water treatment needs. They sample water, install equipment, and do just about anything having to do with the water in your home. We’ve also invited the Black family to the Hooke household to assess the needs of the water in my house so you can see them in action.
 
