@@ -17,7 +17,7 @@ youtube_code: yXNzfqVyzF0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>This latest market update comes to you from a special baby shower!</em></p>
+*This latest market update comes to you from a special baby shower\!*
 
 Today we’re at our office manager Lisa Clyre’s house for **a very special occasion: Keren Benebou, one of the Sokoler Team’s stellar agents, is expecting**—yes, this is a baby shower\! Before we talk with Keren about welcoming her third child, let’s check out the latest market stats for Louisville and Southern Indiana real estate.&nbsp;
 
@@ -29,6 +29,6 @@ All the while, home prices have been accelerating at double the pace of last yea
 
 Hopefully, as more people feel comfortable putting their homes on the market, inventory will begin to stabilize. Here’s what we think happened this year: **COVID-19 hit in the spring and pushed back the busiest part of the annual real estate cycle,** leaving would-be buyers hungrier than ever while simultaneously prompting many home sellers to wait on the sidelines. By the time summer came around, the floodgates of demand opened up, and our market has been powering along at a rapid clip ever since. This hot market of ours could continue well into December, a month normally characterized by a slowdown in real estate.&nbsp;
 
-Now back to the celebration: At 2:39 in the video above, you can see highlights of Keren’s baby shower. (We all socially distanced ourselves and only took off our masks to eat, and those who can be seen standing closer together are all family members). This was the first time many of us had seen each other in person in a long time, as we’d been conducting business as (almost) usual via Zoom meetings. **At 3:00 in the video, you can hear from Keren, whose baby girl is due December 5\!**
+Now back to the celebration: At 2:39 in the video above, you can see highlights of Keren’s baby shower. (We all socially distanced ourselves and only took off our masks to eat, and those who can be seen standing closer together are all family members). This was the first time many of us had seen each other in person in a long time, as we’d been conducting business as (almost) usual via Zoom meetings. **At 3:00 in the video, you can hear from Keren, whose baby girl is due December 5\!** Update:**&nbsp;**Keren had a Baby Girl Thanksgiving Day, a week after we shot this video.
 
 If you want to get a hold of her (she claims she’ll be showing properties *even through delivery*, though I kind of doubt that) or any of our wonderful agents, just give us a call or send an email. We’re always happy to answer any questions you may have and assist you with your end-of-year buying or selling needs. In the meantime, stay safe out there, and happy holidays\!
