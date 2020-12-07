@@ -25,7 +25,7 @@ Unfortunately, some people make mistakes while preparing their homes for sale. H
 
 {% include pullquote.html %}
 
-**2\. Getting carried away with home improvements.** For example, if the carpet needs to be replaced, many people think they should get a top of the line product, but that’s not usually necessary for resale. The kitchen backsplash is another area not to overdo and may be unnecessary altogether depending on your price point. Additionally, crown molding and wainscotting are not needed to sell a house. These are all great things you would do to a home you’d be living in for a while, not the house you’re selling soon.
+**2\. Getting carried away with home improvements.** For example, if the carpet needs to be replaced, many people think they should get a top-of-the-line product, but that’s not usually necessary for resale. The kitchen backsplash is another area not to overdo and may be unnecessary altogether depending on your price point. Additionally, crown molding and wainscotting are not needed to sell a house. These are all great things you would do to a home you’ll be living in for a while, not the house you’re selling soon.
 
 **3\. Replacing mechanicals.** A furnace or water heater, for example, doesn’t need to be replaced unless it’s not working or damaged. If the item is just old, there’s no need to replace it just to sell.&nbsp;
 
