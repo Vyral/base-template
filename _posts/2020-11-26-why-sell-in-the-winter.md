@@ -4,7 +4,7 @@ title: Why Sell in the Winter?
 date: 2020-11-26 00:26:03
 tags:
 excerpt: Here are the three main reasons winter is an excellent time to sell.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4
 pullquote: 'Spring is the ‘traditional’ time to sell, but it’s not always the best option.'
 enclosure_type: video/mp4
 enclosure_time:
