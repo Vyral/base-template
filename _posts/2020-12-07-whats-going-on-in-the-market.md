@@ -17,7 +17,7 @@ youtube_code: ALfa_LjjYeo
 
 {% include youtube.html %}
 
-If you’re in need of more space in your home, you’re not alone.
+<p style="text-align: center;"><em>If you’re in need of more space in your home, you’re not alone.</em></p>
 
 With the COVID situation continuing to affect the world, a lot of people are spending more time in their homes. Many have realized or decided that their current space isn’t a good fit for them and they need to make some changes.&nbsp;
 
