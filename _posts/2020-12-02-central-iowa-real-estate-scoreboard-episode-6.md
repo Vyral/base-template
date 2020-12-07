@@ -5,7 +5,7 @@ date: 2020-12-02 17:42:26
 tags:
   - Home Seller Tips
 excerpt: 'On this episode, we’re focusing on multiple-offer strategies for sellers.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Best+Multiple-Offer+Strategies+for+Sellers_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
