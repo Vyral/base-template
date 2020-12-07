@@ -28,7 +28,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://cloudcma.com/api_widget/f97420ae55b6cff6ae4ac635842dc239/show?post_url=cloudcma.com&source_url=ua
   second_CTA_text: Home Search
-  second_CTA_URL: http://www.healthy-realty.com/homes-for-sale-search/
+  second_CTA_URL: https://search.movingwithmikki.com/
   VR_form: http://oi.vresp.com?fid=4eec3c351b
 
 sidebar_CTA:
@@ -43,7 +43,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.healthy-realty.com/homes-for-sale-search/
+    CTA_url2: https://search.movingwithmikki.com/
 
 lender:
   show_section: false
