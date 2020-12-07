@@ -5,7 +5,7 @@ date: 2020-11-26 01:05:00
 tags:
   - Recruiting
 excerpt: 'If you’re looking for a change, know that we’re expanding.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/Join+a+Team+That+Provides+Accountability+%26+Support.mp4
 pullquote: >-
   We’re looking for people who really want to put in the work to help their
   clients—customer satisfaction is key.
