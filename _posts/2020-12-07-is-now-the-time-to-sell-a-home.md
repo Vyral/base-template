@@ -17,7 +17,7 @@ youtube_code: YjrpIK9vWc0
 
 {% include youtube.html %}
 
-Here’s my answer when someone asks me if it’s the right time to sell.
+<p style="text-align: center;"><em>Here’s my answer when someone asks me if it’s the right time to sell.</em></p>
 
 I’ve been hearing this question a lot lately from homeowners: “Sarita, it’s almost winter. Is it still a good time to sell my house?”
 
