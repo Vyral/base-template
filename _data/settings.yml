@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Calgary Real Estate Video Blog with Eric Mortimer
 description: >-
@@ -57,14 +58,12 @@ second_sidebar_CTA:
     CTA_link_text2: Search the MLS
     CTA_url2: >-
       https://ericmortimer.com/search/grid/?city=1369%2C1372&maxprice=450000&status=A&propertytype=SF&photo=1&sort=days
-
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/006.jpg
     CTA_title3: An Easier Way to Sell Your Calgary Home
     CTA_text3: Get a guaranteed offer within as little as 7 days on your home.
     CTA_link_text3: Learn More
     CTA_url3: /guaranteed-sale/
-
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -118,7 +117,7 @@ podcast:
     buyer
   author: Eric Mortimer
 images:
-  client_headshot_path: /img/headshot.jpg
+  client_headshot_path: /uploads/ericmortimer-profile2020-final-002---442.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: '-- MARKET -- Real Estate Video Blog'
@@ -146,3 +145,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+---
