@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Can I Expect From the Holiday Market?'
-date: 2020-12-08 00:00:00
+date: 2020-12-07 00:00:00
 tags:
 excerpt: Here’s why so many home sellers are excited about our real estate market.
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2020/Holiday+Market+Update.mp4'
