@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Things to Avoid When Prepping Your Home
+title: 3 Things to Avoid to When Preparing Your Home for Sale
 date: 2020-12-04 20:55:00
 tags:
   - Home Seller Tips
