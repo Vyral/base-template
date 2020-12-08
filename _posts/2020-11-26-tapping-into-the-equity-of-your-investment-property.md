@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Can You Tap Into Your Equity?
+title: Tapping Into The Equity of Your Investment Property
 date: 2020-11-26 00:36:00
 tags:
 excerpt: This is how you can tap into the equity of your investment property.
