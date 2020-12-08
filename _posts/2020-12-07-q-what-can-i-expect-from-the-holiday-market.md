@@ -16,6 +16,7 @@ youtube_code: 6qeNhgUVefQ
 {% include youtube.html %}
 
 <center><em>Here’s why so many home sellers are excited about our real estate market.</em></center>
+&nbsp;
 
 As we finish 2020, I remember the first Christmas tree I ever had as a child. It was a sad-looking plastic Christmas tree that was stored on its side, but we brought it out every year and decorated it while listening to holiday music.
 
