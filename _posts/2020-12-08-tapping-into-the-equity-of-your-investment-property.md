@@ -17,7 +17,7 @@ youtube_code: OCIgDpbgmrU
 
 {% include youtube.html %}
 
-*This is how you can tap into the equity of your investment property.*
+<p style="text-align: center;"><em>This is how you can tap into the equity of your investment property.</em></p>
 
 If you have an investment property whose equity you want to tap into, there are several ways to do so. The first is by using traditional financing, where you show your taxes, look at your Schedule E form, and see how much money the property is generating versus how much you’re making. Based on that, you either qualify or don’t.
 
