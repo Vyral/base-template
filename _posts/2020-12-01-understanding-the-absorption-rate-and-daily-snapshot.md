@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here are the two statistics you need to know before entering the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Understanding+the+Absorption+Rate+and+Daily+Snapshot.mp4
 pullquote: 'Currently, the Salt Lake City market has only two weeks of inventory.'
 enclosure_type: video/mp4
 enclosure_time:
