@@ -15,7 +15,7 @@ youtube_code: LiNdcN15X9I
 
 {% include youtube.html %}
 
-Happy holidays to you\!
+<p style="text-align: center;"><em>Happy holidays to you!</em></p>
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
 
@@ -23,4 +23,4 @@ The holiday season has officially arrived. We hope you enjoy this wonderful time
 
 This may be a busy time of year, but we are always here to help you and answer any questions you may have. Give us a call or reply to this email and we’d love to help out.
 
-In case we don’t hear from you until 2021, have a happy New Year\!
+In case we don’t hear from you until 2021, have a happy New Year!
