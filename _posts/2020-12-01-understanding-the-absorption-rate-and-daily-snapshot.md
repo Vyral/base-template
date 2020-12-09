@@ -4,7 +4,8 @@ title: Understanding the Absorption Rate and Daily Snapshot
 date: 2020-12-01 00:00:00
 tags:
   - Real Estate
-  - Market Update
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: Here are the two statistics you need to know before entering the market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Understanding+the+Absorption+Rate+and+Daily+Snapshot.mp4
