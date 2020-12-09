@@ -15,22 +15,21 @@ youtube_code: 6qeNhgUVefQ
 
 {% include youtube.html %}
 
-<center><em>Here’s why so many home sellers are excited about our real estate market.</em></center>
+<center><em>Here&rsquo;s why so many home sellers are excited about our real estate market.</em></center>
+
 &nbsp;
 
 As we finish 2020, I remember the first Christmas tree I ever had as a child. It was a sad-looking plastic Christmas tree that was stored on its side, but we brought it out every year and decorated it while listening to holiday music.
 
-**Earlier sunsets and cooler evenings are taking hold as the holidays approach, but that’s the opposite of what’s happening in this extremely hot holiday real estate market.**
-
-Homes priced according to market value in good conditions are selling quickly, often with multiple offers and bidding wars. That’s what we’ve seen on the last five listings we’ve put on the market. **These homes have sold for $35,000 to $40,000 more than their list prices.&nbsp;**
+**Earlier sunsets and cooler evenings are taking hold as the holiday season ramps up, but that’s the opposite of what’s happening in this extremely hot holiday real estate market.**&nbsp;Homes priced according to market value and in good condition are selling quickly, often with multiple offers. That’s what we’ve seen on the last five listings we’ve put on the market. **These homes have sold for $35,000 to $40,000 more than their list prices.&nbsp;**
 
 {% include pullquote.html %}
 
-Even during a pandemic, home prices are on the rise. Inventory is so low that there’s not much for buyers to choose from. There are more buyers out looking because of low interest rates. It’s a very busy market, but there aren’t enough homes to keep up.
+Even during a pandemic, home prices are on the rise. Inventory is so low that there’s not much for buyers to choose from, and there are more buyers out looking because of low interest rates. It’s a very busy market, but there aren’t enough homes to keep up.
 
 In 2019, the average days on market for homes was 71. It’s a measure of time from when a home goes live on the market until it goes under contract. **In 2020, homes priced below $750,000 are selling in an average of just 30 days.** In the $750,000 to $1 million market, that average drops to 25 days. This is a result of an ultra-low supply and record-high demand for move-up homes.
 
-Back in October 2019, we had 2,564 home sales. In October 2020, that number jumped to 3,365, a 31% increase. This means that buyers need to move quickly if a home is priced correctly, because they’re selling just about about as fast as they can get listed. **In order to act quickly, you must be prepared.** The last time we saw this strong of a market was back in 2012.
+Back in October 2019, we had 2,564 home sales. In October 2020, that number jumped to 3,365, a 31% increase. This means that buyers need to move quickly if a home is priced correctly, because they’re selling just about as fast as they can get listed. **In order to act quickly, you must be prepared.** The last time we saw this strong of a market was back in 2012.
 
 In this market, every home is an opportunity, but you have to take the right steps to win. Buying a home isn’t necessarily more challenging in this market, but it requires more preparation.
 
