@@ -15,7 +15,7 @@ youtube_code: G4Ek87ChheA
 
 {% include youtube.html %}
 
-Here’s why commission fees shouldn’t determine which agent you work with.
+<p style="text-align: center;"><em>Here’s why commission fees shouldn’t determine which agent you work with.</em></p>
 
 {% include pullquote.html %}
 
