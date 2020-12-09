@@ -17,7 +17,7 @@ youtube_code: uYltvAenzvo
 
 {% include youtube.html %}
 
-Here’s why a winter home sale makes so much sense this year.
+<p style="text-align: center;"><em>Here’s why a winter home sale makes so much sense this year.</em></p>
 
 Despite COVID, the winter months are a perfect time for you to sell your home. **As we begin the holiday season, it makes even more sense for you to sell your home now rather than waiting until spring.&nbsp;**
 
