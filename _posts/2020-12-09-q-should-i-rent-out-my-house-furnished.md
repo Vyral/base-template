@@ -17,7 +17,7 @@ youtube_code: QEfrXck_riI
 
 {% include youtube.html %}
 
-Here are the facts about renting out a house furnished or unfurnished.
+<p style="text-align:center;"><em>Here are the facts about renting out a house furnished or unfurnished.</em></p>
 
 Many people call us and say, “My home is furnished. Can you rent it out for more money?” The answer is yes and no.&nbsp;
 
