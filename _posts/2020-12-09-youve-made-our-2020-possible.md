@@ -17,11 +17,11 @@ youtube_code: tVjxyF6kCwM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a brief but heartfelt message of thanks to our clients and community.</em></p>
+*Here’s a brief but heartfelt message of thanks to our clients and community.*
 
 I just want to say thank you to everybody who supported our business in 2020; it’s been quite a ride, to say the least. Obviously, a lot of us have been faced with new and intimidating challenges this year as our country dealt with a pandemic, a contentious election, and several complex social issues. All of us have had to adjust our lifestyles, and we’re still adjusting to this new environment with the holidays upon us. Our homes have become offices, classrooms, gyms, or all of the above.
 
-Thankfully, here on the real estate side of things, **we’ve been adapting very effectively**. (I’ve always thought that was one of our greatest strengths as a smaller, independent firm). To all of our past clients and current clients, I extend my profound thanks. To all of our stellar agents and team members and support staff: Thank you for showing up every single day and doing the work that needs getting done with a can-do attitude, all the while asking how you can make a difference.
+Thankfully, here on the real estate side of things, **we’ve been adapting very effectively**. (I’ve always thought that was one of our greatest strengths as a smaller, independent firm). To all of our past clients and current clients, I extend my profound thanks. To all of our stellar agents, team members, and support staff: Thank you for showing up every single day and doing the work that needs to get done with a can-do attitude, all the while asking how you can make a difference.
 
 {% include pullquote.html %}
 
