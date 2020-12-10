@@ -29,4 +29,4 @@ These days, it’s more difficult to rent out a house that’s furnished. There 
 
 A ton of discussion needs to happen when someone rents out a furnished property. We’ll have a conversation about all these things up front, and we’ll share both the positives and negatives.&nbsp;
 
-If you have any questions about furnished versus unfurnished rental houses or you want to discuss this topic more, give us a call, or[**visit our website.**](https://www.hipacificpm.com/) We would love to help you.
+If you have any questions about furnished versus unfurnished rental houses or you want to discuss this topic more, give us a call or [**visit our website.**](https://www.hipacificpm.com/) We would love to help you.
