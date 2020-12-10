@@ -15,7 +15,7 @@ youtube_code: G4Ek87ChheA
 
 {% include youtube.html %}
 
-*Here’s why commission fees shouldn’t determine which agent you work with.*
+<p style="text-align: center;"><em>Here’s why commission fees shouldn’t determine which agent you work with.</em></p>
 
 Should commission fees be the main determinant of which agent you choose to work with? Think of it this way: If you can out-negotiate the person you’re hiring to negotiate the biggest asset you own, should you work with them? What kind of service can you expect at a discounted price? Will they bring you discounted buyers, as well? **If an agent is willing to give away&nbsp;*****their*** **money, imagine what they’ll do with yours.&nbsp;**
 
