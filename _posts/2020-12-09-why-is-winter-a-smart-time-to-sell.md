@@ -23,7 +23,7 @@ Despite COVID, the winter months are a perfect time for you to sell your home. *
 
 Throughout 2020, COVID has created a sense of urgency with buyers to purchase homes while interest rates are low. With inventory also low, home prices are up because supply can’t keep up with demand.&nbsp;
 
-The numbers over the last 35 to 40 days suggest that buyer demand remains very strong. ShowingTime’s data shows that showings are up 62% from December 2019 to December 2020. We’ve been seeing a similar trend here, particularly in the Thanksgiving numbers. **Our market is still really strong for home sellers even during this time of year.**
+The numbers over the last 35 to 40 days suggest that buyer demand remains very strong. ShowingTime’s data demonstrates that showings are up 62% from December 2019 to December 2020. We’ve been seeing a similar trend here, particularly in the Thanksgiving numbers. **Our market is still really strong for home sellers even during this time of year.**
 
 {% include pullquote.html %}
 
@@ -31,4 +31,4 @@ At the time of writing, there is less than a one-month supply of homes in the Sa
 
 **Waiting until spring means waiting for more competition.** When you take a look at what’s transpiring right now, the activity suggests that we might not see a market like this in the future.&nbsp;
 
-If you have any questions for me about the real estate market or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions for me about the market or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
