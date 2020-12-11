@@ -4,7 +4,8 @@ title: Should You Be Swayed By an Agent’s Discounted Price?
 date: 2020-12-09 23:14:00
 tags:
 excerpt: Here’s why commission fees shouldn’t determine which agent you work with.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Should+You+Be+Swayed+By+an+Agent%E2%80%99s+Discounted+Price_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: G4Ek87ChheA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why commission fees shouldn’t determine which agent you work with.</em></p>
+*Here’s why commission fees shouldn’t determine which agent you work with.*
 
 Should commission fees be the main determinant of which agent you choose to work with? Think of it this way: If you can out-negotiate the person you’re hiring to negotiate the biggest asset you own, should you work with them? What kind of service can you expect at a discounted price? Will they bring you discounted buyers, as well? **If an agent is willing to give away&nbsp;*****their*** **money, imagine what they’ll do with yours.&nbsp;**
 
