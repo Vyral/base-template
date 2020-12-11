@@ -4,7 +4,7 @@ title: You’ve Made Our 2020 Possible
 date: 2020-12-11 20:11:00
 tags:
 excerpt: Here’s a brief but heartfelt message of thanks to our clients and community.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/You%E2%80%99ve+Made+Our+2020+Possible.mp4
 pullquote: >-
   If you have any questions or real estate needs, or just need some honest
   advice, we’re here for you.
