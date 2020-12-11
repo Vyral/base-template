@@ -17,7 +17,7 @@ youtube_code: tVjxyF6kCwM
 
 {% include youtube.html %}
 
-Here’s a brief but heartfelt message of thanks to our clients and community.
+<p style="text-align: center;"><em>Here’s a brief but heartfelt message of thanks to our clients and community.</em></p>
 
 I just want to say thank you to everybody who supported our business in 2020; it’s been quite a ride, to say the least. Obviously, a lot of us have been faced with new and intimidating challenges this year as our country dealt with a pandemic, a contentious election, and several complex social issues. All of us have had to adjust our lifestyles, and we’re still adjusting to this new environment with the holidays upon us. Our homes have become offices, classrooms, gyms, or all of the above.
 
