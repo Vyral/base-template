@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our Northern Nevada market is in quite a unique position.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2020/Is+Now+a+Good+Time+to+Buy+and+Sell_.mp4
 pullquote: >-
   There are plenty of buyers out there, and you’ll sell for top dollar if you
   market your home properly.
