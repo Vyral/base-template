@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: These are my predictions for what we can expect in our 2021 market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/What+Can+the+Market+Expect+in+2021_.mp4
 pullquote: The first quarter of the new year will be similar to what we’re seeing now.
 enclosure_type: video/mp4
 enclosure_time:
