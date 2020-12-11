@@ -19,7 +19,7 @@ youtube_code: iAjmG5EvZCE
 
 {% include youtube.html %}
 
-Here are the five steps to selling a home on your own.
+<p style="text-align: center;"><em>Here are the five steps to selling a home on your own.</em></p>
 
 How do you sell a home successfully on your own in today’s market? There are five steps to keep in mind.&nbsp;
 
