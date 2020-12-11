@@ -17,6 +17,8 @@ youtube_code: gbVsLt3lzoM
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are three signs to watch for if you want to predict a market crash.</em></p>
+
 There are three signs you need to watch for if you want to predict whether or not the real estate market is going to crash:
 
 **1\. Vacant homes.** Many vacant homes and tons of motivated sellers can push prices down and impact the market negatively.
