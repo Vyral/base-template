@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Thank You for Your Support This Year
-date: 2020-12-11 20:11:54
+title: You’ve Made Our 2020 Possible
+date: 2020-12-11 20:11:00
 tags:
 excerpt: Here’s a brief but heartfelt message of thanks to our clients and community.
 enclosure:
