@@ -17,7 +17,7 @@ youtube_code: mfVgTBWMNvA
 
 {% include youtube.html %}
 
-*Here’s why interest rates play a big part in your purchasing power.*
+<p style="text-align: center;"><em>Here’s why interest rates play a big part in your purchasing power.</em></p>
 
 I’m sure you’ve heard all the chatter lately about low interest rates. The truth is, they’ve been very low ever since COVID hit. In any case, this brings to mind an important question for homebuyers: How big of a deal is it if interest rates drop a full percentage point? To answer that, let’s look at the numbers.&nbsp;
 
