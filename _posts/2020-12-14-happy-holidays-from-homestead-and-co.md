@@ -17,6 +17,6 @@ youtube_code: sHTrz6waZl8
 
 {% include youtube.html %}
 
-*Happy holidays to you all; your support this year helped us help others.*
+<p style="text-align:center"><em>Happy holidays to you all; your support this year helped us help others.</em></p>
 
 Merry Christmas, and thank you for your support; we appreciate the trust you place in us to help with your real estate needs. We’ve had an excellent year here at Homestead and Co. because **we’ve been able to help a record number of families in 2020**. Without all of you, we couldn’t have delivered such a high level of service. Happy holidays, and let us know if you ever have any real estate needs.
