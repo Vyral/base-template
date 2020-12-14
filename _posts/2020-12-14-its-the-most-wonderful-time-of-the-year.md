@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'https://lioceteamblog.com/its-the-most-wonderful-time-of-the-year.html'
+title: It’s the Most Wonderful Time of the Year
 date: 2020-12-14 16:08:00
 tags:
 excerpt: We hope you and your family have a wonderful holiday.
