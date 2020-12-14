@@ -37,7 +37,7 @@ If you’re considering a holiday home sale this year, **here are five tips to h
 
 **4\. Price your house properly**. This isn’t a time to be testing the market and hoping for a Christmas miracle. If you’re selling now, you’re serious about moving on from the home, so the last thing you want to do is scare off that buyer who would have otherwise been the perfect match.
 
-**5\. Be patient during the process**. You may find yourself a tad frustrated juggling a holiday schedule that keeps changing on you, but keep your eyes on the prize. The buyers coming to that next showing are not an inconvenience, they’re the potential solution to all your worries. If your property doesn’t sell over the holidays, be sure to take down all of your decorations by New Year’s so it doesn’t look dated, then have your agent take brand-new photos for the listing.
+**5\. Be patient during the process**. You may find yourself a tad frustrated juggling a holiday schedule that keeps changing, but keep your eyes on the prize. The buyers coming to that next showing are not an inconvenience, they’re the potential solution to all your worries. If your property doesn’t sell over the holidays, be sure to take down all of your decorations by New Year’s so it doesn’t look dated, then have your agent take brand-new photos for the listing.
 
 For an easier way to sell your home during these times, check out our <u><a target="_blank" rel="noopener" href="http://www.guaranteedsales.ca/">Guaranteed Sales Program</a></u>.
 
