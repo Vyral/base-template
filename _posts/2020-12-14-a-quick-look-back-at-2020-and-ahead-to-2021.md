@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Look Back at 2020 and Ahead to 2021
-date: 2020-12-14 17:04:41
+date: 2020-12-14 17:04:00
 tags:
   - Real Estate
 excerpt: Thank you all for your support this year. We’d like to return the favor.
