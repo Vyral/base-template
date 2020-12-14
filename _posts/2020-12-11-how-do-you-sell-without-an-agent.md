@@ -6,7 +6,7 @@ tags:
   - Home Seller Tips
 excerpt: Here are the five steps to selling a home on your own.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+How+Do+I+Sell+My+Home+Privately+Without+a+Real+Estate+Agent_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+sell+privately.mp4
 pullquote: >-
   There are a lot of documents to keep track of to ensure your home sale is
   compliant.
