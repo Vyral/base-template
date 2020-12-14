@@ -17,7 +17,7 @@ youtube_code: TOEE2mySONY
 
 {% include youtube.html %}
 
-We here at Clancy Real Estate wish you all the best this holiday season\!
+<p style="text-align: center;"><em>We here at Clancy Real Estate wish you all the best this holiday season!</em></p>
 
 I want to wish you all a happy holiday this year, whichever one you celebrate\! While I’m always happy to chat with you about real estate (especially amid this crazy market), stats and trends are not what I want to focus on today. First, I want to say thank you from the bottom of my heart\! For those of you who came out to our Thanksgiving pie giveaway, it was a pleasure delivering pies to your cars so we could keep the spirit of gratitude alive in a safe manner.&nbsp;
 
