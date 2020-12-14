@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Agent’s Experience With Transitioning to Our Team
-date: 
+date: 2020-12-14 16:53:06
 tags:
   - Real Estate
 excerpt: >-
@@ -21,10 +21,7 @@ youtube_code: L5C8O3mLoi4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Today I sat down for a chat with Nate Araskog, an agent here at the Wolek Group. He’s here to share his experiences as an agent on our team.</em></p>
-
-
-
+*Today I sat down for a chat with Nate Araskog, an agent here at the Wolek Group. He’s here to share his experiences as an agent on our team.*
 
 Before coming to the Wolek Group, Nate Araskog had obtained his real estate license and worked with Daniel Sprik, a Realtor and good friend of his who had encouraged him to get into the industry in the first place.&nbsp;
 
