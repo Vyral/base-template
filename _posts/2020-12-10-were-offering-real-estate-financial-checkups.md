@@ -24,6 +24,6 @@ The people who are in the best financial state do preventative checkups. They sp
 
 {% include pullquote.html %}
 
-Whether it’s your will, your trust, financial planning for your child’s college education, retirement, downsizing, or something else, we can help you figure out a plan. We want to offer you real estate financial health checkups. **Simply <u><a target="_blank" rel="noopener" href="https://www.homebuyersrealty.com/hows-your-real-estate-financial-health-get-your-checkup-now">click this link</a></u> and we can help you reach your financial goals**. Input your name, address, and what your goal is, and we’ll do our research into your specific needs. Then we’ll have a conversation either via Zoom or in person, and discuss your next steps.
+Whether it’s your will, your trust, financial planning for your child’s college education, retirement, downsizing, or something else, we can help you figure out a plan. We want to offer you real estate financial health checkups. **Simply <u><a target="_blank" rel="noopener" href="https://www.homebuyersrealty.com/hows-your-real-estate-financial-health-get-your-checkup-now">click this link</a></u> and we can help you reach your financial goals**. Input your name, address, and what your goal is, and we’ll do our research into your specific needs. Then we’ll have a conversation either via Zoom or in person and discuss your next steps.
 
 If you have questions about our real estate financial checkups or anything else concerning real estate, please call or email us. We would love to help you.
