@@ -1,11 +1,11 @@
 ---
 layout: post
 title: How Much Do Interest Rates Matter?
-date: 2020-11-25 20:07:00
+date: 2020-12-14 20:07:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s why interest rates play a big part in your purchasing power.
-enclosure: >-
+enclosure: https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/How+Much+Do+Interest+Rates+Matter_.mp4
   https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/How+Much+Do+Interest+Rates+Matter_.mp4
 pullquote: 'From a budget standpoint, the lower rates are, the more house you can afford.'
 enclosure_type: video/mp4
