@@ -25,6 +25,6 @@ There are three signs you need to watch for if you want to predict whether or no
 
 **2\. Desperate sellers.** This could be caused by the state or city having economic issues like high unemployment. This type of problem makes homeowners unable to pay their mortgages. Also, sometimes sellers are desperate because there aren’t enough tenants for rental houses, so they aren’t earning income from the property.&nbsp;
 
-**3\. Many people leaving.** If a lot of people are leaving big cities and the surrounding areas for locations with better economies or more jobs; that means there won’t be enough demand in the market from buyers and renters.&nbsp;
+**3\. Many people leaving.** If a lot of people are leaving big cities and the surrounding areas for locations with better economies or more jobs, that means there won’t be enough demand in the market from buyers and renters.&nbsp;
 
 If you have any other questions about how to predict a market crash or concerning real estate in general, please call or email us. We’d love to be your real estate resource.
