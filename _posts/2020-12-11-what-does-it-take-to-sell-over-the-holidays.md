@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: I have five tips for those looking to sell this holiday season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2020/What+Does+It+Take+to+Sell+Over+the+Holidays_.mp4
 pullquote: >-
   If you're doing things right, your utility bill should go up a bit when you’re
   trying to sell your home.
