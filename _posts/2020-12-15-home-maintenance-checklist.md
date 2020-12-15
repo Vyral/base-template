@@ -16,7 +16,9 @@ youtube_code: Rt6J2D8DFo
 
 {% include youtube.html %}
 
-*Here’s a handy checklist for home maintenance to ensure its health.*
+<center><em>Here’s a handy checklist for home maintenance to ensure its health.</em></center>
+
+&nbsp;
 
 Have you been feeling a bit overwhelmed lately? As a homeowner, it can sometimes be a struggle to keep up with home maintenance tasks. Today we’re sharing a simple guide to consider a resource when giving your home a maintenance check-up.
 
