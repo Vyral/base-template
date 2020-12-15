@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Maintenance Checklist
-date: 2020-12-15 22:57:41
+date: 2020-12-14 22:57:00
 tags:
 excerpt: Here’s a handy checklist for home maintenance to ensure its health.
 enclosure: >-
@@ -16,7 +16,7 @@ youtube_code: Rt6J2D8DFo
 
 {% include youtube.html %}
 
-<center><em>Here’s a handy checklist for home maintenance to ensure its health.</em></center>
+<center><em>Here&rsquo;s a handy checklist for home maintenance to ensure its health.</em></center>
 
 &nbsp;
 
