@@ -4,7 +4,7 @@ title: Happy Holidays From the Lee Tessier Team!
 date: 2020-12-14 23:34:00
 tags:
 excerpt:
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/Happy+Holidays+From+the+Lee+Tessier+Team!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
