@@ -22,9 +22,9 @@ youtube_code: '-Rt6J2D8DFo'
 
 Have you been feeling a bit overwhelmed lately? As a homeowner, it can sometimes be a struggle to keep up with home maintenance tasks. Today we’re sharing a simple guide to consider a resource when giving your home a maintenance check-up.
 
-**1\. Visual check-up.** Visible deterioration of a house’s exterior is a sign that something needs to be repaired. Give the outside of your home a visual check-up for noticeable indicators of structural damage, including the driveway and sidewalks. Check the roof for any shingles that need to be replaced and the gutters for blockages. Give your house a thorough cleaning by hiring a power washer. This will help protect it from built-up residue over time.
-
 {% include pullquote.html %}
+
+**1\. Visual check-up.** Visible deterioration of a house’s exterior is a sign that something needs to be repaired. Give the outside of your home a visual check-up for noticeable indicators of structural damage, including the driveway and sidewalks. Check the roof for any shingles that need to be replaced and the gutters for blockages. Give your house a thorough cleaning by hiring a power washer. This will help protect it from built-up residue over time.
 
 **2\. Assess the health of major appliances.** These include the refrigerator, dishwasher, washing machine, stove, and more. Also, don’t forget the HVAC and plumbing systems.&nbsp;
 
