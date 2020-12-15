@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Northern Nevada Real Estate Video Blog
 description: >-
@@ -13,7 +14,7 @@ custom_links:
     url: 'https://calendly.com/rick-138'
 client:
   name: Rick Canale
-  license_number: S.50680
+  license_number: 'NV Real Estate Lic. # S. 50680'
   about_markdown: >-
     Rick is an educator and coach first and a REALTOR&reg; second. He enjoys
     educating you, whether you're a Buyer or Seller, dispelling the many "myths"
@@ -135,3 +136,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(255, 255, 255, 0)'
   secondary_button_text_color: '#ffffff'
+---
