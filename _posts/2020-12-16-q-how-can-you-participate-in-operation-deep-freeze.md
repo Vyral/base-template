@@ -22,7 +22,7 @@ youtube_code: _SByP0ngEUE
 
 {% include youtube.html %}
 
-If you want to make a difference in someone’s life this winter, now’s your chance.
+<p style="text-align:center;"><em>If you want to make a difference in someone’s life this winter, now’s your chance.</em></p>
 
 Today I’m joined by my friend Bill from the Salvation Army to talk about Operation Deep Freeze, their annual blanket drive for the homeless population of Tucson. We’ve had the pleasure of partnering with the Salvation Army for this initiative once already earlier in the year, and we were able to donate 2,500 blankets. This time around, we were able to give away 3,000.
 
