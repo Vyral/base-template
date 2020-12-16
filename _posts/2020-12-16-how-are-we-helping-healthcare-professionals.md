@@ -17,7 +17,7 @@ youtube_code: 3vdsDXqiFJA
 
 {% include youtube.html %}
 
-Here’s some info about my website dedicated to helping doctors relocate.
+<p style="text-align: center;"><em>Here’s some info about my website dedicated to helping doctors relocate.</em></p>
 
 Did you know that in addition to being the broker/owner of Healthy Realty, I’m also the owner of [DrMoves.com?](https://drmoves.com/) It’s a website that is specifically designed to help physicians and other healthcare professionals relocate from across the country. If you’re finishing medical school, your residency, or a fellowship, visit [drmoves.com](https://drmoves.com/) as a resource to help find excellent Realtors and loan officers who love working with healthcare professionals and can even help identify special financing programs for you. We’ve helped thousands relocate throughout the country, and we’d love to help you, too.
 
