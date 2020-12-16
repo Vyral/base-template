@@ -5,7 +5,8 @@ date: 2020-12-10 00:00:00
 tags:
   - Real Estate
 excerpt: A real estate financial checkup can prevent issues in your future.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2020/We%E2%80%99re+Offering+Real+Estate+Financial+Checkups.mp4
 pullquote: You need to know where you stand with your finances.
 enclosure_type: video/mp4
 enclosure_time:
