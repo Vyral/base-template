@@ -17,6 +17,6 @@ youtube_code: ININg6rdU-M
 
 {% include youtube.html %}
 
-Here’s a quick blooper reel of some of our funniest moments of the year.
+<p style="text-align: center;"><em>Here’s a quick blooper reel of some of our funniest moments of the year.</em></p>
 
 Did you know that a lot of our videos just simply don’t go as planned? I know 2020 has been a challenging and difficult year for all of us, but we wanted to bring a smile to your face this holiday season. We hope you enjoy some of our best outtakes and bloopers from our videos this year. We also wish you and your family a happy and healthy holiday season.&nbsp;
