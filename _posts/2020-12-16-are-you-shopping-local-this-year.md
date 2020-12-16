@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are You Shopping Local This Year?
+title: Are You Shopping Locally This Year?
 date: 2020-12-16 09:00:00
 tags:
 excerpt: Here’s why I’m urging you to shop locally as much as possible this year.
