@@ -19,7 +19,7 @@ youtube_code: 5_bptU5c0ws
 
 {% include youtube.html %}
 
-Has your definition of home changed? If so, you’re not alone this year.
+<p style="text-align: center;"><em>Has your definition of home changed? If so, you’re not alone this year.</em></p>
 
 As a real estate agent, I’m the one someone calls when they need to buy or sell a home. What 2020 has taught us is what people truly love about their home and what they can’t stand. **So many paradigms have shifted in terms of how we work, educate, and live together.**
 
