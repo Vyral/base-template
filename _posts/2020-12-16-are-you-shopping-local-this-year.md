@@ -15,7 +15,7 @@ youtube_code: 21uw7PjvVHk
 
 {% include youtube.html %}
 
-*Here’s why I’m urging you to shop locally as much as possible this year.*
+<p style="text-align: center;"><em>Here’s why I’m urging you to shop locally as much as possible this year.</em></p>
 
 I’m pleading with you over this holiday season to support your local businesses as much as possible. As a local business ourselves, we appreciate all the incredible support we’ve received this year and want to help give back to the other great businesses here in Wallingford and Branford, where our offices are. It hasn’t been the best year, but we can finish strong by lifting up our community. To hear my full message, check out the video above.
 
