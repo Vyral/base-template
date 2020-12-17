@@ -1,5 +1,5 @@
 ---
-audit_header: true
+audit_header: false
 title: Crystal Coast Real Estate Video Blog with The Star Team at Bluewater
 description: >-
   Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET --
@@ -16,6 +16,8 @@ custom_links:
     url: 'https://search.starteamrealestate.com/'
   - title: Contact Us
     url: 'https://www.starteamrealestate.com/contact'
+  - title:
+    url:
 client:
   name:
   license_number:
@@ -64,6 +66,11 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your -- MARKET -- home.
     CTA_link_text2: Search the MLS
     CTA_url2: 'https://search.starteamrealestate.com/'
+  - CTA_image_path2:
+    CTA_title2:
+    CTA_text2:
+    CTA_link_text2:
+    CTA_url2:
   - CTA_image_path2:
     CTA_title2:
     CTA_text2:
