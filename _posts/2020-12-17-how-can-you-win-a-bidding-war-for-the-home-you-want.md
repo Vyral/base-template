@@ -16,7 +16,7 @@ youtube_code: 4AmTNmFjv3Q
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are six tips that will make your offer stand out in a bidding war.</em></p>
+*Here are six tips that will make your offer stand out in a bidding war.*
 
 Nationally, multiple offers are becoming more and more frequent in the real estate market, and that’s certainly true in most segments of our Des Moines market.&nbsp;
 
@@ -26,7 +26,9 @@ When buyers make an offer for the home they want, it has to be presented in a wa
 
 **2\. Share the love.** We often have our buyers write a letter or take a picture of themselves to share with sellers because it’s a way of adding a personal touch and showing why they love the home. Many of us have a sentimental connection to our homes, which means sellers will want a buyer who will enjoy their home the way they did.&nbsp;
 
-**3\. Shorten or waive contingencies.** You don’t want to make it difficult for the seller to like you, and asking for closing costs, or a 21-day inspection period (as opposed to the normal seven-day period), or the walls to be professionally painted is a good way to do just that.&nbsp;
+**3\. Shorten or waive contingencies.** You don’t want to make it difficult for the seller to like you, and asking for closing costs, or a 21-day inspection period (as opposed to the normal seven-day period), or the walls to be professionally painted is a good way to do just that.
+
+\{% include podcast.html\}
 
 **4\. Pre-inspect the home.** This is somewhat of a continuation of the previous tip, since getting a pre-inspection allows you to waive the inspection contingency in your offer. Plus, it will help you uncover any potential problems with the home.&nbsp;
 
