@@ -16,8 +16,6 @@ custom_links:
     url: 'https://search.starteamrealestate.com/'
   - title: Contact Us
     url: 'https://www.starteamrealestate.com/contact'
-  - title:
-    url:
 client:
   name:
   license_number:
