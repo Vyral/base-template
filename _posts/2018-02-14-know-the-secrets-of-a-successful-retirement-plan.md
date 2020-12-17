@@ -10,7 +10,7 @@ enclosure:
 pullquote: I will share with you everything I know.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/retirement-planning.jpg
+screenshot:
 video_file: /uploads/Social_Security_Optimization_Strategies.mp4
 ---
 
