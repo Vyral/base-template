@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: week of 12/17
-date: 2020-12-17 01:50:33
+date: 2020-12-17 02:04:14
 tags:
 excerpt:
 enclosure:
