@@ -19,7 +19,7 @@ youtube_code: YN5ND3Vsmrg
 
 {% include youtube.html %}
 
-How can a showing agent help you get your nights and weekends back?
+<p style="text-align: center;"><em>How can a showing agent help you get your nights and weekends back?</em></p>
 
 I’ve been working in real estate for 20 years, and I learned early on that when I’m working with buyers and trying to serve them at the highest level, it takes a lot of time—I can’t do it all myself. So, for years, we’ve had a showing agent on our team to help assist our buyer agents with the process of finding a home. Our buyer agents still do the main part of their job—advising the clients, structuring offers, etc.—but the showing agent can provide them with massive leverage, allowing them to reserve the time they desperately need to unplug and maintain a healthy work/life balance.
 
