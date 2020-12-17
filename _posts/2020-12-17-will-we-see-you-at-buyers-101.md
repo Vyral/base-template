@@ -5,7 +5,8 @@ date: 2020-12-17 21:03:55
 tags:
   - Home Buyer Tips
 excerpt: 'Our home buying seminar is coming up soon, and you’re invited to attend.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden_+buyers+101.mp4
 pullquote: >-
   The class will only last about an hour, so you’ll get a ton of great
   information in a short time.
