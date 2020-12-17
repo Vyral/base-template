@@ -18,7 +18,7 @@ youtube_code: TXJiV9JNuek
 
 {% include youtube.html %}
 
-Our home buying seminar is coming up soon, and you’re invited to attend.
+<p style="text-align: center;"><em>Our home buying seminar is coming up soon, and you’re invited to attend.</em></p>
 
 If you’re a first-time homebuyer, we’re hosting an upcoming Zoom seminar on January 18 called Buyers 101 that will serve as a great way for you to get a leg up on the real estate market. This seminar will be hosted by Sasha Walden, one of the head buyer’s agents on the Dar Walden Team, and Kristen Brown of First Rate Financial. **They’ll outline everything you need to know about the home buying process.** As a buyer specialist, Sasha knows what the market looks like and where to find inventory that’s not even on the market yet.&nbsp;
 
