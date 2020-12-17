@@ -1,7 +1,7 @@
 ---
 layout: post
-title: week of 8/21
-date:
+title: week of 12/17
+date: 2020-12-17 00:59:45
 tags:
 excerpt:
 enclosure:
@@ -12,6 +12,7 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+
 {% include youtube.html %}
 
 {% include pullquote.html %}
