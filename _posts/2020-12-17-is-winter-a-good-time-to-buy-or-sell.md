@@ -19,7 +19,7 @@ youtube_code: qWvlvhwQLWg
 
 {% include youtube.html %}
 
-Here’s what the latest numbers say about our market.
+<p style="text-align; center;"><em>Here’s what the latest numbers say about our market.</em></p>
 
 Today I have another market update to share as we close out 2020. I’ve compiled all the latest data from Flathead Lake County from the residential market (single-family homes, townhomes, and condominiums). At 1:10 in the video above, you can see a chart outlining the number of active and sold listings for various price ranges in all the major cities in our area. **If you focus on the overall supply of inventory at the bottom of the chart, you’ll see the following:**
 
