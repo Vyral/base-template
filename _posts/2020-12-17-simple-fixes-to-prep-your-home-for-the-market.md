@@ -16,7 +16,7 @@ youtube_code: Mpe8-UqlL0I
 
 {% include youtube.html %}
 
-Here are two easy ways to prepare your home for the real estate market.
+<p style="text-align: center;"><em>Here are two easy ways to prepare your home for the real estate market.</em></p>
 
 When it’s time to prepare your home for the market, there are a couple of simple fixes that make a huge difference and get you more than your money back:
 
