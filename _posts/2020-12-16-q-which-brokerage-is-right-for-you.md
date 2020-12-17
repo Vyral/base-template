@@ -20,7 +20,7 @@ youtube_code: yOzuznaFoNQ
 
 {% include youtube.html %}
 
-I’ve talked with countless people about brokerages, and I’ve been with a few different ones myself—APP Properties first, then Keller Williams, and now eXp. What I’ve come to realize is that, with respect to methodology and culture, you as an agent must find a brokerage that suits you well. **You’re not the same as every other agent out there, so you may not jive with what every brokerage out there has to offer.** Before getting caught up in all the high-tech resources and training today’s leading brokerages offer, ask yourself what’s really most important to you. What type of environment would be most conducive to your success?
+I’ve talked with countless people about brokerages, and I’ve been with a few different ones myself—@properties first, then Keller Williams, and now eXp. What I’ve come to realize is that, with respect to methodology and culture, you as an agent must find a brokerage that suits you well. **You’re not the same as every other agent out there, so you may not jive with what every brokerage out there has to offer.** Before getting caught up in all the high-tech resources and training today’s leading brokerages offer, ask yourself what’s really most important to you. What type of environment would be most conducive to your success?
 
 Perhaps you want a dependent brokerage that essentially does everything for you, where someone at the front desk prints out all the documents and brochures you need and listings are entered into the MLS for you. **With a dependent brokerage, you can expect higher fees, meaning you’ll give away more of your split.** At this point in your career, you may view that trade-off as a worthwhile investment in convenience and structure.&nbsp;
 
