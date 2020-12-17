@@ -16,7 +16,7 @@ youtube_code: cBvEOQCWOGg
 
 {% include youtube.html %}
 
-*Here are some important points to know about a reverse mortgage.*
+<p style="text-align: center;"><em>Here are some important points to know about a reverse mortgage.</em></p>
 
 Lately, I’ve been receiving a lot of phone calls and emails from clients who have questions regarding reverse mortgages: Are they safe? Should I get one? Do I even qualify? Due to all the intricacies of this topic, I’ve asked our team’s reverse mortgage specialist, Tim Baudis, to help provide an informative overview:
 
