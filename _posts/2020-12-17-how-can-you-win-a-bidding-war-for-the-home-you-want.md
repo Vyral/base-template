@@ -28,7 +28,6 @@ When buyers make an offer for the home they want, it has to be presented in a wa
 
 **3\. Shorten or waive contingencies.** You don’t want to make it difficult for the seller to like you, and asking for closing costs, or a 21-day inspection period (as opposed to the normal seven-day period), or the walls to be professionally painted is a good way to do just that.
 
-\{% include podcast.html\}
 
 **4\. Pre-inspect the home.** This is somewhat of a continuation of the previous tip, since getting a pre-inspection allows you to waive the inspection contingency in your offer. Plus, it will help you uncover any potential problems with the home.&nbsp;
 
