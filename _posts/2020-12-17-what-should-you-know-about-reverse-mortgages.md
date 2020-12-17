@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Reverse Mortgages?
-date: 2020-12-17 20:21:12
+date: 2020-12-17 20:21:00
 tags:
   - Mortgage Minute
 excerpt: Here are some important points to know about a reverse mortgage.
@@ -16,9 +16,9 @@ youtube_code: cBvEOQCWOGg
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are some important points to know about a reverse mortgage.</em></p>
+*Here are some important points to know about a reverse mortgage.*
 
-Lately, I’ve been receiving a lot of phone calls and emails from clients who have questions regarding reverse mortgages: Are they safe? Should I get one? Do I even qualify? Due to all the intricacies of this topic, I’ve asked our team’s reverse mortgage specialist, Tim Boudis, to help provide an informative overview:
+Lately, I’ve been receiving a lot of phone calls and emails from clients who have questions regarding reverse mortgages: Are they safe? Should I get one? Do I even qualify? Due to all the intricacies of this topic, I’ve asked our team’s reverse mortgage specialist, Tim Baudis, to help provide an informative overview:
 
 **Q: What’s needed to get a reverse mortgage? Can anybody get one?&nbsp;**
 
