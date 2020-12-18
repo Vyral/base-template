@@ -5,7 +5,7 @@ date: 2020-12-17 12:00:00
 tags:
   - Agents Tips
 excerpt: Here are six tips that will make your offer stand out in a bidding war.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Can+You+Win+a+Bidding+War+for+the+Home+You+Want_.mp4
 pullquote: Have a strategy to win and don’t try offering less than the list price.
 enclosure_type: video/mp4
 enclosure_time:
