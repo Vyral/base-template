@@ -42,7 +42,7 @@ emma_form: >-
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Wealth Advisor
-  first_CTA_URL: https://search.starteamrealestate.com/seller
+  first_CTA_URL:
   second_CTA_text: Our Website
   second_CTA_URL: 'https://www.starteamrealestate.com/'
 sidebar_CTA:
