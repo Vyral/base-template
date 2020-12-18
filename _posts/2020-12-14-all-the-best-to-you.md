@@ -5,7 +5,8 @@ date: 2020-12-14 00:00:00
 tags:
   - Real Estate
 excerpt: Happy holidays to you and your family!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2020/All+the+Best+to+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
