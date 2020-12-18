@@ -5,7 +5,8 @@ date: 2020-12-14 17:04:00
 tags:
   - Real Estate
 excerpt: Thank you all for your support this year. We’d like to return the favor.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2020/A+Quick+Look+Back+at+2020+and+Ahead+to+2021.mp4
 pullquote: >-
   The Tulsa community has come together to help each other get through these
   tough times.
