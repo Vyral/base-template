@@ -4,7 +4,7 @@ title: Should I Sell in the Wintertime?
 date: 2020-12-17 18:31:04
 tags:
   - Home Seller Tips
-excerpt: Here are three reasons it’s beneficial to sell during the wintertime.
+excerpt: Here are three reasons why it’s beneficial to sell during the wintertime.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2020/Donald+Payne+Is+Winter+a+Good+Time+To+Sell_.mp4
 pullquote: Winter is an excellent time to sell your house.
@@ -17,7 +17,7 @@ youtube_code: XSJ58OboXDE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are three reasons it’s beneficial to sell during the wintertime.</em></p>
+<p style="text-align: center;"><em>Here are three reasons why it’s beneficial to sell during the wintertime.</em></p>
 
 Is winter a good time to sell your home? There are a few things to consider if you’re thinking about selling during the chilliest season:
 
