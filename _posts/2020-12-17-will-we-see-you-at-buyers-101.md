@@ -4,7 +4,7 @@ title: Will We See You at Buyers 101?
 date: 2020-12-17 21:03:55
 tags:
   - Home Buyer Tips
-excerpt: 'Our home buying seminar is coming up soon, and you’re invited to attend.'
+excerpt: 'Our home-buying seminar is coming up soon, and you’re invited to attend.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dar+Walden/2020/Alaska+Real+Estate+_+Dar+Walden_+buyers+101.mp4
 pullquote: >-
@@ -19,11 +19,11 @@ youtube_code: TXJiV9JNuek
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our home buying seminar is coming up soon, and you’re invited to attend.</em></p>
+<p style="text-align: center;"><em>Our home-buying seminar is coming up soon, and you’re invited to attend.</em></p>
 
-If you’re a first-time homebuyer, we’re hosting an upcoming Zoom seminar on January 18 called Buyers 101 that will serve as a great way for you to get a leg up on the real estate market. This seminar will be hosted by Sasha Walden, one of the head buyer’s agents on the Dar Walden Team, and Kristen Brown of First Rate Financial. **They’ll outline everything you need to know about the home buying process.** As a buyer specialist, Sasha knows what the market looks like and where to find inventory that’s not even on the market yet.&nbsp;
+If you’re a first-time homebuyer, we’re hosting an upcoming Zoom seminar on January 18 called Buyers 101 that will serve as a great way for you to get a leg up on the real estate market. This seminar will be hosted by Sasha Walden, one of the head buyer’s agents on the Dar Walden Team, and Kristen Brown of First Rate Financial. **They’ll outline everything you need to know about the home-buying process.** As a buyer specialist, Sasha knows what the market looks like and where to find inventory that’s not even on the market yet.&nbsp;
 
-Even if you’re not a first-time homebuyer, this seminar is a great way to refresh your knowledge. What happened in the real estate market two years ago isn’t what’s happening now. If you’ve been discouraged by the market lately, we’ll help you get back on track and reach your goal of homeownership. **To register, all you have to do is visit**[**alaskatopagent.com.**](https://www.alaskatopagent.com/Pages/Seminar.aspx)
+Even if you’re not a first-time homebuyer, this seminar is a great way to refresh your knowledge. What happened in the real estate market two years ago isn’t what’s happening now. If you’ve been discouraged by the market lately, we’ll help you get back on track and reach your goal of homeownership. **To register, all you have to do is visit** [**alaskatopagent.com.**](https://www.alaskatopagent.com/Pages/Seminar.aspx)
 
 {% include pullquote.html %}
 
