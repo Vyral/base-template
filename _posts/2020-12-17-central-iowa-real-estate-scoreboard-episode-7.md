@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simple Fixes to Prep Your Home for the Market
+title: 'Central Iowa Real Estate Scoreboard: Episode 7'
 date: 2020-12-17 10:07:00
 tags:
   - Home Seller Tips
@@ -16,7 +16,7 @@ youtube_code: Mpe8-UqlL0I
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are two easy ways to prepare your home for the real estate market.</em></p>
+*Here are two easy ways to prepare your home for the real estate market.*
 
 When it’s time to prepare your home for the market, there are a couple of simple fixes that make a huge difference and get you more than your money back:
 
