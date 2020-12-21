@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Your Nights and Weekends Back?
-date: 2020-12-17 19:34:08
+date: 2020-12-17 19:34:00
 tags:
   - Transaction Management
 excerpt: How can a showing agent help you get your nights and weekends back?
@@ -12,14 +12,14 @@ pullquote: >-
   some of that much-needed work/life balance back.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/weekend2-yt-dave-hooke.jpg
 youtube_code: YN5ND3Vsmrg
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>How can a showing agent help you get your nights and weekends back?</em></p>
+*How can a showing agent help you get your nights and weekends back?*
 
 I’ve been working in real estate for 20 years, and I learned early on that when I’m working with buyers and trying to serve them at the highest level, it takes a lot of time—I can’t do it all myself. So, for years, we’ve had a showing agent on our team to help assist our buyer agents with the process of finding a home. Our buyer agents still do the main part of their job—advising the clients, structuring offers, etc.—but the showing agent can provide them with massive leverage, allowing them to reserve the time they desperately need to unplug and maintain a healthy work/life balance.
 
