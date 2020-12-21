@@ -12,7 +12,7 @@ pullquote: >-
   some of that much-needed work/life balance back.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/weekend2-yt-dave-hooke.jpg
 youtube_code: YN5ND3Vsmrg
 ---
