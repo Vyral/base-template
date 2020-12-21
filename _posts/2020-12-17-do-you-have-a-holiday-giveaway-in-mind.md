@@ -5,7 +5,8 @@ date: 2020-12-17 00:00:00
 tags:
   - Reviews and Referrals
 excerpt: Each client event must have a different purpose to ensure interaction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2020/Do+You+Have+a+Holiday+Giveaway+in+Mind_.mp4
 pullquote: Every event you host must have a purpose.
 enclosure_type: video/mp4
 enclosure_time:
