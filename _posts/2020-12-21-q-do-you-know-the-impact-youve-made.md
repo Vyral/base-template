@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Q: Do You Know the Impact You’ve Made?'
-date: 2020-12-21 20:07:40
+date: 2020-12-21 20:07:00
 tags:
   - Real Estate
 excerpt: You’ve made all this positive change possible
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jeff+Cook/2020/%5BJCRE%5D_Jeff_Cook_Cares_2020_Recap._V4_(1).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
