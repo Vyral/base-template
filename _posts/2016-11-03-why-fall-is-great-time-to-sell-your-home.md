@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why the Fall is a Great Time to Sell your Home
-date: '2016-11-03T10:24:00.000-07:00'
+date: 2016-11-03 10:24:00
 author: Kourtney Brown
 tags:
 - Home Seller Tips

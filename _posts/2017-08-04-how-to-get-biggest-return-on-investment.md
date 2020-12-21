@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How to Get the Biggest Return on Investment on Your Property
-date: '2017-08-04T13:00:00.003-07:00'
+date: 2017-08-04 13:00:00
 author: Vyral Admin
 tags:
 - Home Seller Tips

@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Top Tips for Hurricane Preparedness for Crystal Coast Homeowners
-date: '2017-09-08T12:00:00.000-07:00'
+date: 2017-09-08 12:00:00
 author: Vyral Admin
 tags:
 - Buyer & Seller Tips

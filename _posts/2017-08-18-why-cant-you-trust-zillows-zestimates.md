@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Why Cant You Trust Zillows Zestimates?
-date: '2017-08-18T11:52:00.000-07:00'
+date: 2017-08-18 11:52:00
 author: Vyral Admin
 tags:
 - Buyer & Seller Tips

@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Happy Holidays From the Star Team
-date: '2016-12-20T12:28:00.000-08:00'
+date: 2016-12-20 12:28:00
 author: Vyral Admin
 tags:
 - Happy Holidays

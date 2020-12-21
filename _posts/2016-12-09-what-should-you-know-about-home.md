@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Should You Know About Home Inspections?
-date: '2016-12-09T12:35:00.001-08:00'
+date: 2016-12-09 12:35:00
 author: Vyral Admin
 tags:
 - Home Inspection

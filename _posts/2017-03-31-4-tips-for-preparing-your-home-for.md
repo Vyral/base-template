@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: '4 Tips for Preparing Your Home for the Spring Market '
-date: '2017-03-31T09:32:00.000-07:00'
+date: 2017-03-31 09:32:00
 author: Vyral Admin
 tags:
 - Home Seller Tips

@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Whats It Like Working With Us? Our Clients Tell the Story
-date: '2017-10-05T14:40:00.000-07:00'
+date: 2017-10-05 14:40:00
 author: Vyral Admin
 tags:
 - Client Appreciation Event

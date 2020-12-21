@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: What Makes Today's Market So Great to List In?
-date: '2017-09-22T09:11:00.000-07:00'
+date: 2017-09-22 09:11:00
 author: Vyral Admin
 tags:
 - Market Update

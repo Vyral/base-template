@@ -8,8 +8,8 @@ enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
-title: 6 Home Selling Mistakes to Avoid
-date: '2017-05-31T08:57:00.002-07:00'
+title: '6 Home Selling Mistakes to Avoid'
+date: 2017-05-31 08:57:00
 author: Vyral Admin
 tags:
 - Home Seller Tips

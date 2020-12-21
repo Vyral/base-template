@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Appraisals Can Affect Your Home Transaction
-date: '2017-04-19T13:46:00.000-07:00'
+date: 2017-04-19 13:46:00
 author: Vyral Admin
 tags:
 - Buyer & Seller Tips

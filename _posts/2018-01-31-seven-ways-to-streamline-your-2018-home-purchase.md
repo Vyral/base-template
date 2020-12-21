@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 7 Ways to Streamline Your 2018 Home Purchase
+title: '7 Ways to Streamline Your 2018 Home Purchase'
 date: 2018-01-31 12:52:36
 tags:
   - Real Estate

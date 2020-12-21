@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: How Can Landscaping Increase Your Homes Value?
-date: '2017-01-27T13:08:00.001-08:00'
+date: 2017-01-27 13:08:00
 author: Vyral Admin
 tags:
 - Home Seller Tips

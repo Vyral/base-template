@@ -9,7 +9,7 @@ use_youtube_image: true
 youtube_alternate_image: /img/cover.jpg
 layout: post
 title: Reflecting on the 2017 Real Estate Market
-date: '2017-12-07T12:57:00.000-08:00'
+date: 2017-12-07 12:57:00
 author: Vyral Admin
 tags:
 - Market Update

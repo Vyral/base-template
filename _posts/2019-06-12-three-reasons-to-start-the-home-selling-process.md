@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Reasons to Start the Home-Selling Process
+title: '3 Reasons to Start the Home-Selling Process'
 date: 2019-06-12 19:36:00
 tags:
   - Real Estate
