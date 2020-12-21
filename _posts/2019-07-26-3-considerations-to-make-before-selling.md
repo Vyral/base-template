@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Considerations to Make Before Selling
+title: '3 Considerations to Make Before Selling'
 date: 2019-07-26 21:29:00
 tags:
   - Home Seller Tips
