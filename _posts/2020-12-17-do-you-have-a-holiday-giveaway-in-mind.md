@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Do You Have a Holiday Client Event in Mind?
+title: Do You Have a Holiday Giveaway in Mind?
 date: 2020-12-17 00:00:00
 tags:
   - Reviews and Referrals
