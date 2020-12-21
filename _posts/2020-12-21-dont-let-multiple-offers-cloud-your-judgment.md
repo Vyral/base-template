@@ -16,7 +16,7 @@ youtube_code: pjYzpp0FRqg
 
 {% include youtube.html %}
 
-Sellers: avoid these two mistakes if you want the best result for your sale.
+<p style="text-align: center;"><em>Sellers: avoid these two mistakes if you want the best result for your sale.</em></p>
 
 When sellers in our market receive multiple offers on their homes, they sometimes wind up making mistakes that could leave them with a less-than-optimal contract. Here are two such mistakes to be aware of if you want the best outcome for your home sale:
 
