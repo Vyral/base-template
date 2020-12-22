@@ -35,4 +35,4 @@ To help you regain your nights and weekends, keep these four points in mind:
 
 **4\. Keep the “main thing” the main thing.** You are the advisor, the negotiator—they’re hiring you for advice, education, negotiation, and things like that. Having a showing agent allows you to be better at *your* role in the transaction.
 
-If you have any questions about hiring a showing agent or would like a copy of our position agreement, reach out to us. We’ll send you a free copy so that you can use it to bolster your business and your life.
+If you have any questions about hiring a showing agent or would like a copy of our position agreement, call or email us at 717.216.0862 or dave@davehooketeam.com. We’ll send you a free copy so that you can use it to bolster your business and your life.
