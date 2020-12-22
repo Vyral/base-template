@@ -18,7 +18,7 @@ youtube_code: Jt2lqwYXVyw
 
 {% include youtube.html %}
 
-*Here are some before-and-after pics that prove staging’s efficacy.*
+<p style="text-align:center;"><em>Here are some before-and-after pics that prove staging’s efficacy.</em></p>
 
 In today’s case study of the power of proper staging: a vintage condominium in the Rogers Park neighborhood of Chicago that had been fully remodeled 13 years ago and is presently in good condition. **Starting at 1:36 in the video above, you’ll see some before-and-after photos of rooms in the property**—the former having been taken by the latest top-model iPhone camera, the latter having been captured by our professional photographers post-staging. It’s clear just how beneficial a professional’s use of digital image correction tools can be.&nbsp;
 
