@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Stage Your For-Sale Home
-date: 2020-12-21 20:27:47
+date: 2020-12-21 20:27:00
 tags:
   - Home Seller Tips
 excerpt: These are the top four reasons you need to stage your for-sale property.
@@ -18,7 +18,7 @@ youtube_code: qDHVNX8inDk
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>These are the top four reasons you need to stage your for-sale property.</em></p>
+*These are the top four reasons you need to stage your for-sale property.*
 
 Today, in the first installment of our two-part series about home staging, I’m sharing four reasons why staging works when selling your home:
 
@@ -28,7 +28,7 @@ Today, in the first installment of our two-part series about home staging, I’m
 
 {% include pullquote.html %}
 
-**3\. Buyers expect staging.** Due to online listings, HGTV, Instagram, Pinterest, and so on, buyers have been trained to think that a staged appearance is how a property should look when it’s for sale. A very high bar has been set the last few years for sellers that you need to match.
+**3\. Buyers expect staging.** Due to online listings, HGTV, Instagram, Pinterest, and so on, buyers have been trained to think that a staged appearance is how a property should look when it’s for sale. A very high bar has been set over the last few years for sellers that you need to match.
 
 **4\. Your competition is staging.** Your competition is painting, decluttering, and usually staging to prepare for sale, and you don’t want a buyer choosing their home over yours simply due to its staging.
 
