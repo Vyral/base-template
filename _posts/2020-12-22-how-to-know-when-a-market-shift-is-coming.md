@@ -17,6 +17,8 @@ youtube_code: A7EUnhNS03c
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the three key signs that show our real estate market is shifting.</em></p>
+
 To determine whether the real estate market is shifting from a seller’s market to a buyer’s market, there are three warning signs that you need to look for:
 
 **1\. Days on market.** How long does it take for a property to sell on average? If the average is just 21 days, that’s pretty good. If the time increases to let’s say, 45 or 60 days, that’s a good sign that prices will be adjusting downward.
