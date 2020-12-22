@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/jeremy-larkin---dec-2020---youtube.jpg
 youtube_code: yQ6z_zO1yLQ
 ---
 
