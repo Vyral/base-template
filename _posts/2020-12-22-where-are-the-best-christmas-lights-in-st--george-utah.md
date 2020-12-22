@@ -17,7 +17,7 @@ youtube_code: yQ6z_zO1yLQ
 
 {% include youtube.html %}
 
-It truly is the most wonderful time of the year\! Yes the traffic is out of control and don’t even THINK about trying to go to Wal-mart or Costco mid-day\! But the music, energy, and LIGHTS are amazing ANY year, and just what our spirits needed this year.
+It truly is the most wonderful time of the year\! Yes the traffic is out of control and don’t even THINK about trying to go to Walmart or Costco mid-day\! But the music, energy, and LIGHTS are amazing ANY year, and just what our spirits needed this year.
 
 Today we’ll take you on a quick tour of three of the BEST spots to enjoy Christmas lights in my hometown of St. George, Utah\!
 
