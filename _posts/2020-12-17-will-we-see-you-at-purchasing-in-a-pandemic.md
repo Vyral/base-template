@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will We See You at Buyers 101?
+title: Will We See You at Purchasing in a Pandemic?
 date: 2020-12-17 21:03:00
 tags:
   - Home Buyer Tips
