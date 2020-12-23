@@ -18,7 +18,7 @@ youtube_code: RPMgI93FQy0
 
 {% include youtube.html %}
 
-*Here’s my advice about winning against multiple offers in today’s market.*
+<p style="text-align:center"><em>Here’s my advice about winning against multiple offers in today’s market.</em></p>
 
 We’re seeing multiple-offer situations more often than not in today’s real estate market. **Due to historically low inventory and interest rates, demand is sky-high.** There are just about 3,300 homes for sale right now, when we historically have had between 7,000 and 10,000 this time of year.
 
