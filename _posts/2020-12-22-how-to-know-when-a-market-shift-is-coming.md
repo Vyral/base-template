@@ -21,7 +21,7 @@ youtube_code: A7EUnhNS03c
 
 To determine whether the real estate market is shifting from a seller’s market to a buyer’s market, there are three warning signs that you need to look for:
 
-**1\. Days on market.** How long does it take for a property to sell on average? If the average is just 21 days, that’s pretty good. If the time increases to let’s say, 45 or 60 days, that’s a good sign that prices will be adjusting downward.
+**1\. Days on market.** How long does it take for a property to sell on average? If the average is just 21 days, that’s pretty good. If the time increases to, let’s say, 45 or 60 days, that’s a good sign that prices will be adjusting downward.
 
 **2\. Incentives.** When sellers start offering more incentives, you know the market is on its way down. These incentives are signs that buyers are getting ever so slightly nervous about the market.
 
