@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Know When a Market Shift Is Coming
-date: 2020-12-22 20:45:18
+date: 2021-1-4 20:45:18
 tags:
   - Real Estate
 excerpt: Here are the three key signs that show our real estate market is shifting.
