@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Can I Win Against Multiple Offers?
-date: 2020-12-22 16:03:09
+date: 2020-12-22 16:03:00
 tags:
   - Real Estate
   - Home Buyer Tips
@@ -18,11 +18,11 @@ youtube_code: RPMgI93FQy0
 
 {% include youtube.html %}
 
-<p style="text-align:center"><em>Here’s my advice about winning against multiple offers in today’s market.</em></p>
+*Here’s my advice about winning against multiple offers in today’s market.*
 
-We’re seeing multiple-offer situations more often than not in today’s real estate market. **Due to historically low inventory and interest rates, demand is sky-high.** There are just about 3,300 homes for sale right now, when we historically have between 7,000 and 10,000 this time of year.
+We’re seeing multiple-offer situations more often than not in today’s real estate market. **Due to historically low inventory and interest rates, demand is sky-high.** There are just about 3,300 homes for sale right now, when we historically have had between 7,000 and 10,000 this time of year.
 
-The rate that homes are coming on the market hasn’t slowed, it’s up 5% from last year. However, buyer demand is up so much that it’s chewing through inventory while also driving prices up. A lot of buyers are missing out on homes they are making offers on. We never want to overpay for a property, but we don’t want to miss out on the home of your dreams.
+The rate that homes are coming on the market hasn’t slowed - it’s up 5% from last year. However, buyer demand is up so much that it’s chewing through inventory while also driving prices up. A lot of buyers are missing out on homes they are making offers on. We never want to overpay for a property, but we don’t want to miss out on the home of your dreams.
 
 {% include pullquote.html %}
 
