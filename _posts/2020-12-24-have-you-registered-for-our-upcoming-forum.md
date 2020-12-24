@@ -15,7 +15,7 @@ youtube_code: /sdDGCFJeXfg
 
 {% include youtube.html %}
 
-We’d love to see you at one of our upcoming virtual Home Seller Forums.
+<center>We’d love to see you at one of our upcoming virtual Home Seller Forums.</center>
 
 Paul Douglas is with us once again to talk about an exciting upcoming event that we’re hosting. The Twin Cities market is still red-hot and the best time to sell each year is in spring. It’s only a few months away, so that means it’s time for another Home Seller Forum to help area homeowners get their properties ready to sell for top dollar in 2021.
 
