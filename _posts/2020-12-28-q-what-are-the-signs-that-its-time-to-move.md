@@ -16,7 +16,7 @@ youtube_code: XHcIcZZou6s
 
 {% include youtube.html %}
 
-Here are a few signs that likely indicate it’s time for a new home.
+<p style="text-align:center;"><em>Here are a few signs that likely indicate it’s time for a new home.</em></p>
 
 Life quickly throws many things at us and we undergo many changes as a result. One of these changes is moving homes, and there are usually clear signs when it’s time. If the kids have all moved out, for example, it’s probably time to downsize. On the opposite end, if you’re having kids and need more room, then you should start exploring the market for something bigger.
 
