@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recruiting
 ---
 <div class="recruiting-page">
 <h1 class="join-us">An Easier Way to Sell Your Area Home</h1>
