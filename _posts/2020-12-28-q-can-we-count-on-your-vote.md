@@ -17,7 +17,7 @@ youtube_code: RZrFgr6Wjg8
 
 {% include youtube.html %}
 
-*We need your vote this holiday season.*
+<p style="text-align:center;"><em>We need your vote this holiday season.</em></p>
 
 The 2021 Best of Hawaii Viewers’ Choice Awards is here, and today we want to ask for your vote to make Hawaii Pacific Property Management the top property management company in the state. Voting lasts until January 31, and participants who submit 60% or more votes will be entered for a chance to win a trip for two to Las Vegas\!&nbsp;
 
