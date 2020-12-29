@@ -30,6 +30,9 @@ client:
   email: brian@briancanady.com
   email2: tiffany@buysprings.com
   url: 'https://tiffanyandbriancanady.kw.com'
+forms:
+  sitekey: 6Lf_TBkaAAAAAJyf3IyD8TAEPb35tUy3giYTkhPT
+
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808172';</script><script
