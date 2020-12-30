@@ -17,7 +17,8 @@ youtube_code: KD6QotO28cs
 
 {% include youtube.html %}
 
-*Here are the main things you should focus on when starting your career.*
+<center><em>Here are the main things you should focus on when starting your career.</em></center>
+&nbsp;
 
 What can you expect in your first two years in real estate? Here are my four main recommendations for what you should focus on:
 
