@@ -16,6 +16,8 @@ youtube_code: MfzZ_pnjBH4
 
 {% include youtube.html %}
 
+*3 reasons your home isn’t selling*
+
 Here are the three top things that keep your home from selling when it’s on the market, which are also three things you as a homeowner have control over and can adjust if needed:
 
 **1\. Bad marketing.** The quality and quantity of the marketing make a huge difference. This is one of the things you’re hiring a real estate brokerage to do for you. Make sure your agent has a written-out marketing strategy and you know how much money they’re spending monthly to market your house. If no one knows your property’s for sale, no one will buy it. However, if many people know it’s for sale and it looks favorable in all the marketing, you’ll have showings and offers.&nbsp;
