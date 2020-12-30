@@ -3,7 +3,9 @@ layout: post
 title: 'Q: What Causes a Home Not to Sell?'
 date: 2020-12-30 19:16:00
 tags:
-excerpt:
+  - Home Seller Tips
+  - Real Estate
+excerpt: 3 reasons your home isn’t selling
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+What+Can+You+Expect+in+your+First+2+Years+of+Real+Estate_.mp4
 pullquote: 'If no one knows your property’s for sale, no one will buy it.'
@@ -16,7 +18,8 @@ youtube_code: MfzZ_pnjBH4
 
 {% include youtube.html %}
 
-<center><em>3 reasons your home isn’t selling</em></center>
+<center><em>3 reasons your home isn&rsquo;t selling</em></center>
+
 &nbsp;
 
 Here are the three top things that keep your home from selling when it’s on the market, which are also three things you as a homeowner have control over and can adjust if needed:
