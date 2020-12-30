@@ -17,7 +17,8 @@ youtube_code: 9y1ToKitEiM
 
 {% include youtube.html %}
 
-*Here are five reasons why winter is the most chill time to buy a home.*
+<center><em> Here are five reasons why winter is the most chill time to buy a home.</em></center>
+&nbsp;
 
 People commonly think spring and summer are the best times to enter the real estate market, but for buyers, winter may be the most opportune time. Here are five reasons why winter is the most “chill” time to buy a home:
 
