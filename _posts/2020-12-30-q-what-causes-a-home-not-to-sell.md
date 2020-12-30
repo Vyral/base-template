@@ -16,7 +16,8 @@ youtube_code: MfzZ_pnjBH4
 
 {% include youtube.html %}
 
-*3 reasons your home isn’t selling*
+<center><em>3 reasons your home isn’t selling</em></center>
+&nbsp;
 
 Here are the three top things that keep your home from selling when it’s on the market, which are also three things you as a homeowner have control over and can adjust if needed:
 
