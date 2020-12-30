@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: What Causes a Home Not to Sell?'
-date: 2020-12-30 19:16:04
+date: 2020-12-30 19:16:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+What+Can+You+Expect+in+your+First+2+Years+of+Real+Estate_.mp4
 pullquote: 'If no one knows your property’s for sale, no one will buy it.'
 enclosure_type: video/mp4
 enclosure_time:
