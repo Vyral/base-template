@@ -18,9 +18,9 @@ youtube_code: MfzZ_pnjBH4
 
 Here are the three top things that keep your home from selling when it’s on the market, which are also three things you as a homeowner have control over and can adjust if needed:
 
-{% include pullquote.html %}
-
 **1\. Bad marketing.** The quality and quantity of the marketing make a huge difference. This is one of the things you’re hiring a real estate brokerage to do for you. Make sure your agent has a written-out marketing strategy and you know how much money they’re spending monthly to market your house. If no one knows your property’s for sale, no one will buy it. However, if many people know it’s for sale and it looks favorable in all the marketing, you’ll have showings and offers.&nbsp;
+
+{% include pullquote.html %}
 
 **2\. Rough condition.** If your property has some rough edges, consult with your real estate agent about how best to prepare it for the market. This may mean staging, painting, landscaping, or a good cleaning—all of which get you a high return on investment. You have influence over your home’s condition, so make sure it’s in the best condition it can be before you list it.
 
