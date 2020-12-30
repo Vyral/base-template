@@ -7,7 +7,7 @@ tags:
   - Real Estate
 excerpt:
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+What+Can+You+Expect+in+your+First+2+Years+of+Real+Estate_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+What+Are+3+Things+That+Can+Keep+Your+Home+From+Selling_.mp4
 pullquote: 'If no one knows your property’s for sale, no one will buy it.'
 enclosure_type: video/mp4
 enclosure_time:
