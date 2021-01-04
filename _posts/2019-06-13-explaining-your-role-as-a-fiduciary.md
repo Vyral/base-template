@@ -11,7 +11,7 @@ pullquote: >-
   the plan—not just the title.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/6.6.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Jun_1_1.mp4
 ---
 
