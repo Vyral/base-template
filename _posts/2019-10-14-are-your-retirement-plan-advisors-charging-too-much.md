@@ -14,7 +14,7 @@ pullquote: >-
   I can help.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/9.17.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Sept_3_Story.mp4
 ---
 
