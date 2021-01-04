@@ -14,7 +14,7 @@ pullquote: >-
   sense to hit the reset button using auto re-enrollment.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: uploads/Steve_CunhaYoutube-01-01-01-01-01-01-01-01-01-01.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: uploads/Auto%20Re-Enrollment%20(1).mp4
 ---
 
