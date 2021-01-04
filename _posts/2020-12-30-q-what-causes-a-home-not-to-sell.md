@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 'Q: What Causes a Home Not to Sell?'
+title: 'What Causes a Home Not to Sell?'
 date: 2020-12-30 19:16:00
 tags:
   - Home Seller Tips
   - Real Estate
-excerpt:
+excerpt: Here's how you can avoid a dreaded trifecta of home selling mistakes.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2020/Central+PA+Real+Estate+Agent_+What+Are+3+Things+That+Can+Keep+Your+Home+From+Selling_.mp4
 pullquote: 'If no one knows your property’s for sale, no one will buy it.'
@@ -17,6 +17,8 @@ youtube_code: MfzZ_pnjBH4
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Here's how you can avoid a dreaded trifecta of home selling mistakes.</em></p>
 
 Here are the three top things that keep your home from selling when it’s on the market, which are also three things you as a homeowner have control over and can adjust if needed:
 
