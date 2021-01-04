@@ -11,8 +11,7 @@ enclosure:
 pullquote: 87% of all mutual funds don’t outperform their benchmark.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: >-
-  https://trello-attachments.s3.amazonaws.com/55a566c96c87836ee26c6100/5d601bb70e4be43472ca6797/9f9e3b959e805c3f5311d81d19a9fa16/8.23.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: >-
   https://trello-attachments.s3.amazonaws.com/55a566c96c87836ee26c6100/5d601bb70e4be43472ca6797/245ad2f9faaa2da9b9d7bd96832593ef/Aug_1_Investment_Monitoring.mp4
 ---
