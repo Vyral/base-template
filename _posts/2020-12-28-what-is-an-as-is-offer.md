@@ -6,7 +6,12 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: A word on buying an ‘as is’ property.
-enclosure:
+enclosure: >-
+  This question has been coming up quite a lot this week because buyers in our
+  seller’s market are so anxious to have their offers on a property accepted.
+  The term 'as is' is an important part of your negotiations and even after the
+  fact when you’re in contract.  Learn more here:
+  https://hbrteamblog.com/what-is-an-as-is-offer.html
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
