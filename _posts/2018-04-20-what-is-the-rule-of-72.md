@@ -10,7 +10,7 @@ enclosure: 'https://s3.amazonaws.com/vyralmarketing/Steve+Cunha/2018/The+Rule+Of
 pullquote: The magic number to save for retirement is 10% of your income.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/rule72.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/The_Rule_Of_72.mp4
 ---
 
