@@ -30,4 +30,4 @@ Here are the three top things that keep your home from selling when it’s on th
 
 **3\. The wrong price.** If the house is marketed as well as it can be, it’s in good condition, and it’s still not selling, chances are you have a pricing issue. You may need to reevaluate your pricing strategy with your agent and consider adjusting the price until you’re getting multiple showings per week (the average in this current market).
 
-If you have questions about these three points or anything else concerning real estate, reach out via phone or email. We’ll follow up and take great care of you; hope to hear from you soon\!
+If you have any questions about these three points or anything else concerning real estate, call or email us as at 717.216.0860 or dave@davehooketeam.com. We’ll follow up and take great care of you; hope to hear from you soon\!
