@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Retirement Plan Is Good for Both You & Your Employees
-date: 2019-02-15 16:12:33
+date: 2019-02-15 16:12:00
 tags:
   - Investor Tips
 excerpt: >-
@@ -14,7 +14,7 @@ pullquote: >-
   your employees.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/2.8.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Feb_1.mp4
 ---
 
