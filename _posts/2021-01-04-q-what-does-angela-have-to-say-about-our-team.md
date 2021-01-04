@@ -20,7 +20,7 @@ Here’s why Angela Massimino believes Carbutti & Co. is a cut above.
 
 This year, Angela Massimino needed help selling a rental home in Waterbury and upgrading to a bigger property. Our talented Mary O’Neill answered the call; *“\[Mary\] was absolutely wonderful… we had a really, really pleasant time talking with her that \[first\] day,”* Angela said. Mary was able to put Angela’s home on the market and get it under contract in just six days, but a unique obstacle presented by the pandemic continued to be a source of stress.&nbsp;
 
-As Angela recalls: “*There were times where I used to be really upset about it, because we had a deposit put on the house but we had a tenant who was reluctant to move out, so she was really giving us a hard time.”****The complexity of the situation would’ve caused plenty of agents to falter—but not Mary.&nbsp;***
+As Angela recalls: “*There were times where I used to be really upset about it, because we had a deposit put on the house but we had a tenant who was reluctant to move out, so she was really giving us a hard time.”&nbsp;****The complexity of the situation would’ve caused plenty of agents to falter—but not Mary.&nbsp;***
 
 *“The whole time Mary said, ‘Don’t worry, we got this. We’re going to close. Don’t worry about it.’ Sure enough, we did. A lot of times, she kept me grounded, and that’s why we became friends in this,” Angela said. “It’s very important to have chemistry with your real estate agent and get along with them because you become bonded to them in a trust factor.&nbsp;****When they say they’re going to do something, they do it, and you believe that****.”****&nbsp;***
 
