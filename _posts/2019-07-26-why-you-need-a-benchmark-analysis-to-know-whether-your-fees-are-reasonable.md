@@ -13,7 +13,7 @@ pullquote: >-
   of charge to help you determine whether your fees are reasonable.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/7.23.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/corrected_(1).mp4
 ---
 
