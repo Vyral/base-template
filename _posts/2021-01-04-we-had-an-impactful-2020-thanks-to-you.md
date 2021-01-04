@@ -1,10 +1,10 @@
 ---
 layout: post
 title: We Had an Impactful 2020 Thanks to You
-date: 2021-01-04 20:26:17
+date: 2021-01-04 20:26:00
 tags:
 excerpt: Here’s why we’re immensely grateful for your support this past year.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+EndOfTheYear.mp4'
 pullquote: 'Our commitment is not only to provide a service, but an experience.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +15,7 @@ youtube_code: nDL8pj8nG30
 
 {% include youtube.html %}
 
-*Here’s why we’re immensely grateful for your support this past year. *
+\*Here’s why we’re immensely grateful for your support this past year. \*
 
 As we look back on 2020 and gaze ahead into 2021 with excitement, we recognize the unique challenges that this past year brought all of us. For some, 2020 was a great year, or perhaps a mediocre one; for others, it just felt like one wave after another kept crashing down on them. Through it all, though, **we were able to help 106 families make the right moves into their new homes.** Making a move in the market isn’t something to be taken lightly—especially amid a pandemic—but they trusted us with one of the largest investments of their lives.&nbsp;
 
