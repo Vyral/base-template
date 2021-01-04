@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Here’s Everything You Need to Know About Our New Website
-date: 2018-08-21 15:39:46
+date: 2018-08-21 15:39:00
 tags:
 excerpt: >-
   Select Retirement Plans has just launched a new website, and today we’d like
@@ -12,13 +12,13 @@ enclosure: >-
 pullquote: We hope you enjoy our new site.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/SteveNewWebsiteYT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Check%20Out%20Our%20New%20Website.mp4
 ---
 
 {% include post-video.html %}
 
-We at Select Retirement Plans have exciting news to share: We’ve just launched our new website!
+We at Select Retirement Plans have exciting news to share: We’ve just launched our new website\!
 
 So, in order to help you utilize this new site to its fullest potential, allow us to give you a quick walkthrough of its features. **Feel free to follow along in the video above to see an on-screen demonstration.**
 
