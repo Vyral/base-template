@@ -19,6 +19,8 @@ youtube_code: J2-m8rlPNN0
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why this winter is a perfect time to sell your home.</em></p>
+
 After reviewing their home’s valuation, a client of mine recently asked me, “Don’t you think we should just wait to sell our property in the spring?” I said no, absolutely not. Unless you have a specific reason for waiting to sell until springtime 2021 or later, you shouldn’t miss out on our uniquely beneficial winter marketplace. Here are the four reasons why:
 
 **1\. Buyers are more motivated.** When your home’s on the market during the holidays or late into the winter season, the buyers you encounter are far more serious. These people are committed to finding and buying a home today—not to wasting your time.
