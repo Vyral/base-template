@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will We See You at Purchasing in a Pandemic?
+title: Purchasing in a Pandemic
 date: 2020-12-17 21:03:00
 tags:
   - Home Buyer Tips
