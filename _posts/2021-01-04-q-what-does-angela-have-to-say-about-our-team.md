@@ -16,7 +16,7 @@ youtube_code: Cox1VuoitBE
 
 {% include youtube.html %}
 
-Here’s why Angela Massimino believes Carbutti & Co. is a cut above.
+<p style="text-align: center;"><em>Here’s why Angela Massimino believes Carbutti & Co. is a cut above.</em></p>
 
 This year, Angela Massimino needed help selling a rental home in Waterbury and upgrading to a bigger property. Our talented Mary O’Neill answered the call; *“\[Mary\] was absolutely wonderful… we had a really, really pleasant time talking with her that \[first\] day,”* Angela said. Mary was able to put Angela’s home on the market and get it under contract in just six days, but a unique obstacle presented by the pandemic continued to be a source of stress.&nbsp;
 
