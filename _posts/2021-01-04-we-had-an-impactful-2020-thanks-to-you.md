@@ -15,7 +15,9 @@ youtube_code: nDL8pj8nG30
 
 {% include youtube.html %}
 
-\*Here’s why we’re immensely grateful for your support this past year. \*
+<center><em>Here’s why we’re immensely grateful for your support this past year.</em></center>
+
+&nbsp;
 
 As we look back on 2020 and gaze ahead into 2021 with excitement, we recognize the unique challenges that this past year brought all of us. For some, 2020 was a great year, or perhaps a mediocre one; for others, it just felt like one wave after another kept crashing down on them. Through it all, though, **we were able to help 106 families make the right moves into their new homes.** Making a move in the market isn’t something to be taken lightly—especially amid a pandemic—but they trusted us with one of the largest investments of their lives.&nbsp;
 
