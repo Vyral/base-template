@@ -4,16 +4,7 @@ title: 'Q: What Does Angela Have to Say About Our Team?'
 date: 2021-01-04 16:00:00
 tags:
   - Real Estate
-excerpt: >-
-  Today we’re sharing another glowing testimonial from a client who has seen the
-  Carbutti & Co. difference in action: Angela Massimino. Earlier this year, she
-  needed help selling a rental home in Waterbury and upgrading to a bigger
-  property. Our talented Mary O’Neill answered the call. Despite having a
-  deposit put on her property within six days, Angela fretted that the tenant’s
-  reluctance to move out would derail the sale. Angela was so impressed by how
-  Mary handled the situation and stewarded her trust that the two became genuine
-  friends in the process. To find out why Angela believes Carbutti & Co. is a
-  cut above the competition, watch this short video.
+excerpt: Here’s why Angela Massimino believes Carbutti & Co. is a cut above.
 enclosure: 's3://vyralmarketing/Jonathan Carbutti/Angela Testimonial.mp4'
 pullquote:
 enclosure_type: video/mp4
@@ -24,6 +15,8 @@ youtube_code: Cox1VuoitBE
 ---
 
 {% include youtube.html %}
+
+Here’s why Angela Massimino believes Carbutti & Co. is a cut above.
 
 This year, Angela Massimino needed help selling a rental home in Waterbury and upgrading to a bigger property. Our talented Mary O’Neill answered the call; *“\[Mary\] was absolutely wonderful… we had a really, really pleasant time talking with her that \[first\] day,”* Angela said. Mary was able to put Angela’s home on the market and get it under contract in just six days, but a unique obstacle presented by the pandemic continued to be a source of stress.&nbsp;
 
