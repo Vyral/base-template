@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Things to Focus on in the Beginning
+title: What to Expect in Your First 2 Years
 date: 2020-12-30 19:46:36
 tags:
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: KD6QotO28cs
 
 What can you expect in your first two years in real estate? Here are my four main recommendations for what you should focus on:
 
-**1\. Focus on your sphere of influence.** This is the principal way you should look to grow your business, and you should spend two to three hours every morning on it. Your sphere of influence, SOI, or circle of influence is the list of people who you know, like, and trust and who know, like, and trust you. Every person knows about 250 others, so in your first year, you should document those people in one place, contact them, and give twice as much value as you’re asking for. You’re asking for their help to grow your business, and you can provide value by helping with their homeownership experience, even if it’s not real estate related.&nbsp;
+**1\. Focus on your sphere of influence.** This is the principal way you should look to grow your business, and you should spend two to three hours every morning on it. Your sphere of influence, SOI, or circle of influence is the list of people who you know, like, and trust and who know, like, and trust you. Every person knows about 250 others, so in your first year, you should document those people in one place, contact them, and give twice as much value as you’re asking for. You’re asking for their help to grow your business, and you can provide value by helping with their homeownership experience, even if it’s not real estate-related.&nbsp;
 
 {% include pullquote.html %}
 
