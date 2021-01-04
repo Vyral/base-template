@@ -5,7 +5,7 @@ date: 2021-1-4 16:55:40
 tags:
   - Real Estate
 excerpt: Here are a few signs that likely indicate it’s time for a new home.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Signs+it+is+time+to+move.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
