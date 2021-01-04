@@ -12,7 +12,7 @@ enclosure:
 pullquote: Now is not the time to sit back with a “business as usual” attitude.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/savings-crisis.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/America_27s_Savings_Crisis.mp4
 ---
 
