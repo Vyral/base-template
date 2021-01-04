@@ -4,7 +4,7 @@ title: Are You Shopping Locally This Year?
 date: 2020-12-16 09:00:00
 tags:
 excerpt: Here’s why I’m urging you to shop locally as much as possible this year.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/Are+You+Shopping+Locally+This+Year_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
