@@ -14,7 +14,7 @@ pullquote: >-
   Retirement Plans program.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/9.5.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Sept_1_Game_Changer.mp4
 ---
 
