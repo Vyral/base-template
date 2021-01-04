@@ -5,7 +5,7 @@ date: 2020-12-29 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
-excerpt: How much of a difference can they make?
+excerpt: How much of a difference can listing videos make? A lot.
 enclosure:
 pullquote: >-
   Not all platforms can fully capture the richness that listing videos can
@@ -19,7 +19,7 @@ youtube_code: I1F80N-Hx28
 
 {% include youtube.html %}
 
-<center><em>How much of a difference can they make?</em></center>
+<center><em>How much of a difference can listing videos make? A lot.</em></center>
 
 <br>Can videos really help sell your home? The short answer is yes, and we have the statistics to back that up. In fact, 85% of clients want an agent who uses video tools as part of their marketing package. What’s more, homes presented with a video tend to receive 403% more attention.
 
