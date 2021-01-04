@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Are the Signs That It’s Time to Move?'
-date: 2020-12-28 16:55:40
+date: 2021-1-4 16:55:40
 tags:
   - Real Estate
 excerpt: Here are a few signs that likely indicate it’s time for a new home.
