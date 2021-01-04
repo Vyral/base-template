@@ -14,7 +14,7 @@ pullquote: >-
   increase.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/social-security-ss.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Retirement_Planning.mp4
 ---
 
