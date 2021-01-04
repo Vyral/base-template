@@ -13,7 +13,7 @@ pullquote: >-
   can help more of them succeed in reaching that 10% savings goal.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/10-1-ss.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/The_10-1_Now_Rule.mp4
 ---
 
