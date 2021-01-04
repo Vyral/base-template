@@ -15,7 +15,7 @@ pullquote: >-
   retirement income for life.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/auto-ss.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Auto_To_The_5th_Power.mp4
 ---
 
@@ -43,7 +43,7 @@ Like the first feature we discussed, the key to the QDIA is giving employees not
 
 **But why bother using these automatic features?**
 
-The bottom line is: They work! They are a convenient way to use technology to improve your plan health. Additionally, these automatic features help to combat the procrastination that so often tends to be an issue for people trying to save money. In the end, this could be a game-changer for your employees. These tools could allow your employees to at last do what it takes to create a retirement income for life.
+The bottom line is: They work\! They are a convenient way to use technology to improve your plan health. Additionally, these automatic features help to combat the procrastination that so often tends to be an issue for people trying to save money. In the end, this could be a game-changer for your employees. These tools could allow your employees to at last do what it takes to create a retirement income for life.
 
 If you want to learn more about implementing automatic features into your retirement plan, **check out [www.selectretirementplans.com](http://www.selectretirementplans.com){: target="_blank"} to see how easily this can be done**. Also, if you are interested in meeting with me to go over an analysis if your plan, please reach out.
 
