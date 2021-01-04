@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the “Safe Harbor” 401(k) Plan Works
-date: 2019-04-02 13:57:03
+date: 2019-04-02 13:57:00
 tags:
   - Financial Advice
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote: >-
   match employee contribution already or that fail ACP and ADP testing.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/4.1.19YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Mar1LowBitrate.mp4
 ---
 
