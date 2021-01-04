@@ -10,7 +10,7 @@ enclosure:
 pullquote: I found a strong retirement plan by looking to the past.
 enclosure_type: video/mp4
 enclosure_time:
-screenshot: /uploads/10.22.18YT.jpg
+screenshot: /uploads/contract-document-documents-48148.jpg
 video_file: /uploads/Oct_1.mp4
 ---
 
