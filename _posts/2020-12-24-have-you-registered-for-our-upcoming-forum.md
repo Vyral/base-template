@@ -19,6 +19,10 @@ youtube_code: sdDGCFJeXfg
 
 <center>&nbsp;</center>
 
+<center><a target="_blank" rel="noopener" href="https://www.johnschustergroup.com/home_seller_forum"><img src="/uploads/capture.JPG" width="395" height="74" /></a></center>
+
+<center>&nbsp;</center>
+
 Paul Douglas is with us once again to talk about an exciting upcoming event that we’re hosting. The Twin Cities market is still red-hot and the best time to sell each year is in spring. It’s only a few months away, so that means it’s time for another Home Seller Forum to help area homeowners get their properties ready to sell for top dollar in 2021.
 
 We’re super excited for Paul to moderate another one of these events. **Because of COVID, we’ll be hosting this forum like we did the last, virtually on Zoom.** When you sign up and log on, you'll learn everything you need to know to make thousands more on your home sale. We’ll share (almost) all of our marketing secrets and you’ll get a free copy of our 40-page home marketing guide.&nbsp;
