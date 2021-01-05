@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to Expect in Your First 2 Years
+title: 'What to Expect in Your First 2 Years of Real Estate?'
 date: 2020-12-30 19:46:36
 tags:
   - Real Estate
