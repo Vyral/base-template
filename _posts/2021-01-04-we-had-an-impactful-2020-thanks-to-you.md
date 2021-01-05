@@ -5,7 +5,7 @@ date: 2021-01-04 20:26:00
 tags:
 excerpt: Here’s why we’re immensely grateful for your support this past year.
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+EndOfTheYear.mp4'
-pullquote: 'Our commitment is not only to provide a service, but an experience.'
+pullquote: Our commitment is not only to provide a service but an experience.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -15,11 +15,11 @@ youtube_code: nDL8pj8nG30
 
 {% include youtube.html %}
 
-<center><em>Here’s why we’re immensely grateful for your support this past year.</em></center>
+<center><em>Here&rsquo;s why we&rsquo;re immensely grateful for your support this past year.</em></center>
 
 &nbsp;
 
-As we look back on 2020 and gaze ahead into 2021 with excitement, we recognize the unique challenges that this past year brought all of us. For some, 2020 was a great year, or perhaps a mediocre one; for others, it just felt like one wave after another kept crashing down on them. Through it all, though, **we were able to help 106 families make the right moves into their new homes.** Making a move in the market isn’t something to be taken lightly—especially amid a pandemic—but they trusted us with one of the largest investments of their lives.&nbsp;
+As we look back on 2020 and gaze ahead into 2021 with excitement, we recognize the unique challenges that this past year brought all of us. For some, 2020 was a great year, or perhaps a mediocre one; for others, it just felt like one wave after another kept crashing down on them. Through it all&nbsp;**we were able to help 106 families make the right moves into their new homes.** Making a move in the market isn’t something to be taken lightly—especially amid a pandemic—but they trusted us with one of the largest investments of their lives.&nbsp;
 
 Our commitment is not only to provide a service, but an experience. **Amazingly, 85% of those 106 families were referred to us by past clients or other referral partners;** that’s something we’re incredibly grateful for as we reflect on 2020. Additionally, we were able to bring on two new agents, Carlos and Kino, to help them build their careers and create a lifestyle that truly satisfies them. We’ve also added Melissa, who has been absolutely instrumental in helping us market our listings to a wider audience.&nbsp;
 
