@@ -34,4 +34,4 @@ What can you expect in your first two years in real estate? Here are my four mai
 
 If you have any questions, I am an open book. I can share anything you need, including our database lever. A database lever is a 22-page booklet that presents a roadmap for how to build an SOI-based database business. It can help you go from zero to 40 transactions in your first year.&nbsp;
 
-If you have questions or want a copy of our database lever, just reach out via phone or email. I’d be glad to help you on your way to growing your business.
+If you have questions or want a copy of our database lever, call or email me at 717.216.0860 or dave@davehooketeam.com. I’d be glad to help you on your way to growing your business.
