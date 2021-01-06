@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: Don’t Make These 3 Mistakes!'
-date: 2021-01-06 01:01:59
+date: 2021-01-05 01:01:59
 tags:
   - Home Buyer Tips
 excerpt: Here are three mistakes not to make if you’re in the home-buying process.
