@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should You Know About Reverse Mortgages?
-date: 2020-12-17 20:21:00
+date: 2021-1-6 09:00:00
 tags:
   - Mortgage Minute
 excerpt: Here are some important points to know about a reverse mortgage.
