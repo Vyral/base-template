@@ -16,7 +16,7 @@ youtube_code: Cn_9183KlSc
 
 {% include youtube.html %}
 
-Here are three mistakes not to make if you’re in the home-buying process.
+<p style="text-align: center;"><em>Here are three mistakes not to make if you’re in the home-buying process.</em></p>
 
 Today Chuck Simmons from Motto Mortgage West joins us to discuss the three main things you shouldn’t do if you’re in the process of buying a home. Some of these things may seem obvious, but many people don’t know the ins and outs of how the process works. Don’t get caught making one of these mistakes:
 
