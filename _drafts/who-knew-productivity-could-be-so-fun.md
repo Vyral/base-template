@@ -17,7 +17,7 @@ youtube_code: LSow6NJA9VE
 
 {% include youtube.html %}
 
-<center>Anyone up for a game? Last one to take a listing is a rotten egg!</center>
+<center><em>Anyone up for a game? Last one to take a listing is a rotten egg!</em></center>
 
 &nbsp;
 
