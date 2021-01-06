@@ -5,7 +5,7 @@ date: 2021-1-6 09:00:00
 tags:
   - Mortgage Minute
 excerpt: Here are some important points to know about a reverse mortgage.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Abel+Tejeda/What+Should+You+Know+About+Reverse+Mortgages_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
