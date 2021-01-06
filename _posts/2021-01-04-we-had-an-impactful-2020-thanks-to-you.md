@@ -9,7 +9,7 @@ pullquote: Our commitment is not only to provide a service but an experience.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-4-21yt.jpg
+youtube_alternate_image: /uploads/1-6-21yt-1.jpg
 youtube_code: gfQgzwbuUyQ
 ---
 
