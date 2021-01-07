@@ -31,3 +31,5 @@ Today Chuck Simmons from Motto Mortgage Midwest joins us to discuss the three ma
 These blunders are why it’s so critical to work with an expert who educates you about the process, though occasionally we have to explain it again because some people don’t quite make the connection as to why this is such essential advice. The lesson from today: Keep your situation the same while you wait to close on a property.
 
 If you have any questions about these buyer errors or real estate in general, please reach out to me. I would love to help you.
+
+Visit the [Motto Mortgage Midwest site here](https://www.mottomortgage.com/offices/midwest-west-des-moines/contact-the-simmons-hemer-team/){: target="_blank" rel="noopener"}\!
