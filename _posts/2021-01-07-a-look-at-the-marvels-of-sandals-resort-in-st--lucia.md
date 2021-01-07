@@ -18,7 +18,7 @@ youtube_code: 78p5n5WEq60
 
 {% include youtube.html %}
 
-Island resorts and all the amenities they offer aren’t just for the young\!
+<p style="text-align: center;"><em>Island resorts and all the amenities they offer aren’t just for the young!</em></p>
 
 Today I’m at the top of Pigeon Island Mountain in St. Lucia in the West Indies. But why? Before I get into that, here’s a look at what’s going on in the Louisville and southern Indiana real estate markets:
 
@@ -44,8 +44,8 @@ Meanwhile, home sales are skyrocketing both locally and nationally. Seller traff
 
 **So, why am I coming to you today from the summit of Pigeon Island Mountain?**
 
-Well, the view is absolutely gorgeous, but getting up here and experiencing the Secrets Resort was also pretty incredible. Secrets Resort is only about an hour-and-a-half drive from the airport (where they’ll pick you up and drop you off at a beautiful Sandals Resort). It’s all-inclusive, meaning your meals are all free. Staying here, you’ll get a chance to do a lot of things that you may not ever have had the opportunity to do before like mountain climbing, scuba diving, and more. I even got permission from the St. Lucia government to bring my drone and I got some great aerial photos\!
+Well, the view is absolutely gorgeous, but getting up here and experiencing the Secrets Resort was also pretty incredible. Secrets Resort is only about an hour-and-a-half drive from the airport (where they’ll pick you up and drop you off at a beautiful Sandals Resort). It’s all-inclusive, meaning your meals are all free. Staying here, you’ll get a chance to do a lot of things that you may not ever have had the opportunity to do before like mountain climbing, scuba diving, and more. I even got permission from the St. Lucia government to bring my drone and I got some great aerial photos!
 
 I bring this all up because, while there are many resources online for younger people to travel, there weren’t as many for those of us who are seniors. I thought it would be a good idea to write a post about seniors enjoying life and going to places like Sandals, where you can learn to sail and so much more. Starting at 3:50 in the video above, you can see clips of me learning how to sail and scuba dive. It was an amazing experience that I can’t recommend highly enough.
 
-If you’d like more information about Sandals or about buying and selling real estate, reach out to us at any time. We’d love to hear from you\!
+If you’d like more information about Sandals or about buying and selling real estate, reach out to us at any time. We’d love to hear from you!
