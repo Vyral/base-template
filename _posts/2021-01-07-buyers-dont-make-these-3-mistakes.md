@@ -18,7 +18,7 @@ youtube_code: Cn_9183KlSc
 
 *Here are three mistakes not to make if you’re in the home-buying process.*
 
-Today Chuck Simmons from Motto Mortgage West joins us to discuss the three main things you shouldn’t do if you’re in the process of buying a home. Some of these things may seem obvious, but many people don’t know the ins and outs of how the process works. Don’t get caught making one of these mistakes:
+Today Chuck Simmons from Motto Mortgage Midwest joins us to discuss the three main things you shouldn’t do if you’re in the process of buying a home. Some of these things may seem obvious, but many people don’t know the ins and outs of how the process works. Don’t get caught making one of these mistakes:
 
 **1\. Don’t change jobs.** If you’re getting a mortgage, job stability is a crucial factor. If you *do* change jobs, let your lender know because there are many extra verifications needed. Not communicating leads to delays in your closing. Just wait a couple of weeks until you close on the house to change jobs.
 
