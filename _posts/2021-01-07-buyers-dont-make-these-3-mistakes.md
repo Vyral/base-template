@@ -5,7 +5,7 @@ date: 2021-01-08 09:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are three mistakes not to make if you’re in the home-buying process.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buyers_+Don%E2%80%99t+Make+These+3+Mistakes!.mp4
 pullquote: Don’t get caught making one of these mistakes.
 enclosure_type: video/mp4
 enclosure_time:
