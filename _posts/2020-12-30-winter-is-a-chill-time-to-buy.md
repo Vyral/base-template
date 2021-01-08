@@ -32,6 +32,6 @@ People commonly think spring and summer are the best times to enter the real est
 
 **4\. It’s easier to find movers.** Movers aren’t as busy in the wintertime as they are during seasons with milder weather. Booking a mover now will be easier and quicker.
 
-**5\. Homes close faster.** Lenders are also often not as busy in the winter, so the processing and underwriting processes move quicker.&nbsp;
+**5\. Homes close faster.** Lenders are also often not as busy in the winter, so the processing and underwriting move quicker.&nbsp;
 
 These reasons (and many more) are why the winter is a great time to buy a property. If you have any questions about buying or real estate in general, call or email me. I would love to help you.
