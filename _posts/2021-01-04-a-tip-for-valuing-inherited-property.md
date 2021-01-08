@@ -7,13 +7,13 @@ tags:
   - Expert Advice
 excerpt: Here’s what you need to do if you intend to value inherited property.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Montana+Real+Estate+_+The+Hollinger+Team_+Valuing+Inherited+Property.mp4
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Montana+Real+Estate+_+The+Hollinger+Team_+Valuing+Inherited+Property+reshoot.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: yN81Gf0wCe0
+youtube_code: 56Sc95YaNEk
 ---
 
 {% include youtube.html %}
