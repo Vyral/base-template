@@ -5,7 +5,8 @@ date: 2021-01-06 19:52:00
 tags:
   - Listing Presentation
 excerpt: Anyone up for a game? Last one to take a listing is a rotten egg!
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/21+Days+of+Database_+A+Fun%2C+Productive+Game+for+Your+Team.mp4
 pullquote: 'As a team, we logged more than 900 two-way conversations!'
 enclosure_type: video/mp4
 enclosure_time:
