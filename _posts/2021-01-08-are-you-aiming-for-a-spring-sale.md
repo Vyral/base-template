@@ -16,7 +16,7 @@ youtube_code: Q7LtccOW_54
 
 {% include youtube.html %}
 
-Here’s what it takes to prepare your home for the 2021 spring market.
+<p style="text-align: center;"><em>Here’s what it takes to prepare your home for the 2021 spring market.</em></p>
 
 If you’re thinking about selling your home in spring 2021, one of the first things you should do is specify a clear target date—by what point exactly do you need to have your home sold? After that, **take a look at your home’s curb appeal**; make sure everything concerning your landscaping and exterior is in tip-top, showable shape. Slowly work your way inside, turning your focus toward decluttering rooms and organizing your belongings. Store, toss, or donate items that you don’t use anymore and might distract potential buyers from your home’s great features. Your goal is to trigger the emotions of a buyer by allowing them to easily envision *their* lifestyle in the home.&nbsp;
 
