@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Real Estate Videos Get More Money For Your Home
-date: 2020-12-29 00:00:00
+date: 2021-01-07 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
