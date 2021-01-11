@@ -17,6 +17,8 @@ youtube_code: 3aaCHpNMgSI
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I expect more of the same from our 2021 Triangle market.</em></p>
+
 What can we expect from the Triangle area real estate market in 2021?
 
 2020 was an interesting year, to say the least. Lots of industries were decimated, but real estate wasn’t one of them. We saw some extraordinary things happen. **Listing inventory, for example, dropped by 50% compared to 2019, which created a huge supply problem.** Exacerbating this problem is what economists are calling The Great American Move. Basically, people are moving from major metropolitan areas in droves searching for greener pastures. Raleigh seems to be one of the largest beneficiaries of this trend.&nbsp;
