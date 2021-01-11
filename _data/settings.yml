@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: '-- CLIENT BRAND --'
 description: >-
@@ -32,14 +33,13 @@ client:
   url: 'https://tiffanyandbriancanady.kw.com'
 forms:
   sitekey: 6Lf_TBkaAAAAAJyf3IyD8TAEPb35tUy3giYTkhPT
-
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808172';</script><script
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://tiffanyandbriancanady.kw.com/homeworth'
+  first_CTA_URL: 'https://tiffanyandbriancanady.kw.com/home-worth'
   second_CTA_text: Home Search
   second_CTA_URL: 'https://tiffanyandbriancanady.kw.com'
 sidebar_CTA:
@@ -55,7 +55,7 @@ second_sidebar_CTA:
       Thinking of selling or interested in learning about a neighbor's house? We
       can help you see what it's worth.
     CTA_link_text2: Free Home Value Report
-    CTA_url2: 'https://tiffanyandbriancanady.kw.com/homeworth'
+    CTA_url2: 'https://tiffanyandbriancanady.kw.com/home-worth'
 lender:
   show_section: true
   header_text: Preferred Lender
@@ -139,3 +139,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+---
