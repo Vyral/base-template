@@ -15,7 +15,8 @@ youtube_code: LRW_0tPiWos
 
 {% include youtube.html %}
 
-***&nbsp;**Here are the top three things today’s homebuyers are looking for. *
+<center><em>Here are the top three things today’s homebuyers are looking for.</em></center>
+&nbsp;
 
 Due to the fact that people have spent more time in their homes than ever before this year with COVID-19 restricting social capabilities, homebuyers are thinking differently now. Demand remains sky-high in our market, but sellers would do well to note the ways in which today's home-buying trends are a departure from the past decade. Here’s a list of what homebuyers in our market currently want:&nbsp;
 
