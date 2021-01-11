@@ -25,7 +25,7 @@ There were a lot of economic challenges including oil prices and unemployment ra
 
 **The other major factor driving the market is interest rates**. People will often make their purchase decision based on how much their monthly payments will be. Money has become extremely affordable – almost free with our low rates. Looking at these figures you can see how much monthly payments have gone down in just the last year.
 
-![](/uploads/calgary-monthly-payments.jpg "Calgary Monthly Payments"){: width="2126" height="567"}
+![](/uploads/calgary-monthly-payments---675.jpg "Calgary Monthly Payments"){: width="2126" height="567"}
 
 {% include pullquote.html %}
 
