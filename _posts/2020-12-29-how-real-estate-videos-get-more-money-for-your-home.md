@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Utilizing Videos to Help Sell Your Home
+title: How Real Estate Videos Get More Money For Your Home
 date: 2020-12-29 00:00:00
 tags:
   - Real Estate
