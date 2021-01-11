@@ -17,6 +17,8 @@ youtube_code: 2dVf4oGwmRo
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>January and February are great months to put your home on the market.</em></p>
+
 If you need to sell your home in January or February, we have good news: **Now is a great time to put your home on the market, and there are several reasons why.&nbsp;**
 
 For one thing, inventory is low. It’s been low for a couple of years, but it’s really low at the moment. Interest rates are also extremely low, which means there’s a pent-up demand from buyers that’s still carrying over from 2020. Many of them who perhaps lost a bidding war for the home they wanted or decided to wait to buy are ready to buy now. Additionally, now’s a great time to focus on the interior aspects of your home, which is what a lot of buyers are focusing on.&nbsp;
