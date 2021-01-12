@@ -27,8 +27,8 @@ Speaking of which, **if you’re thinking of listing in the spring, there are se
 
 {% include pullquote.html %}
 
-Another thing to consider is taking a look at the hardware. Is there any outdated brass from the 80s or 90s? If so, give it a facelift. Hardware is the jewelry of your home, so **giving it a fresh look is a simple and inexpensive way to make your home look better.&nbsp;**
+Another thing to consider is taking a look at the hardware. Is there any outdated brass from the '80s or '90s? If so, give it a facelift. Hardware is the jewelry of your home, so **giving it a fresh look is a simple and inexpensive way to make your home look better.&nbsp;**
 
-Lastly, turn your attention to the home’s lighting. If, for example, you have a dinette light that’s visible from the foyer or other areas of the house, replace any dated fixtures and turn it into a fun, statement light since that’s a key focal point.&nbsp;
+Lastly, turn your attention to the home’s lighting. If, for example, you have a dinette light that’s visible from the foyer or other areas of the house, replace any dated fixtures and turn it into a fun statement light since that’s a key focal point.&nbsp;
 
 As always, if you have questions about this or any real estate topic, feel free to call or email us anytime. We’d love to speak with you.
