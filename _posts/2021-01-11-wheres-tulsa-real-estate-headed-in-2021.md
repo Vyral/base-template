@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/01-08-wolek-youtube.jpg
-youtube_code: Ifw4IgSCg8o
+youtube_code: kCkc0cREsiQ
 hidden: false
 ---
 
