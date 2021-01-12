@@ -5,7 +5,7 @@ date: 2021-01-11 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Here’s what you need to know about Calgary real estate heading into 2021.
+excerpt: Here’s what you need to know about Calgary real estate as we begin 2021.
 enclosure:
 pullquote: Money has become cheap due to our low interest rates.
 enclosure_type: video/mp4
@@ -17,22 +17,20 @@ youtube_code: y_aOhojwRdY
 
 {% include youtube.html %}
 
-<center><em>Here&rsquo;s what you need to know about Calgary real estate heading into 2021.</em></center>
+<center><em>Here&rsquo;s what you need to know about Calgary real estate as we begin 2021.</em></center>
 
 <br>We had a pretty slow start in real estate last year, but **we finished 2020 strong with December sales the highest they have been since 2007**.
 
-There were a lot of economic challenges including oil prices and unemployment rates. Then COVID and the lockdowns hit, slowing things down a bit. Many would think that this would have caused even more issues and price drops. However, with the necessity of being able to work from home and some peoples safety concerns, “home sweet home” became even more important.
+There were a lot of economic challenges including oil prices and unemployment rates. Then COVID and the lockdowns hit, slowing things down a bit. Many would think that this would have caused even more issues and price drops. However, with the necessity of being able to work from home and some people's safety concerns, “home sweet home” became even more important.
 
-**The other major factor driving the market is interest rates**. People will often make their purchase decision based on how much their monthly payments will be. Money has become extremely affordable – almost free with our low rates. Looking at these figures you can see how much monthly payments have gone down in just the last year.
+**The other major factor driving the market is interest rates**. People will often make their purchase decision based on how much their monthly payments will be. Money has become extremely affordable—almost free with our low rates. Looking at these figures you can see how much monthly payments have gone down in just the last year.
 
-<center><img src="https://d1qmdf3vop2l07.cloudfront.net/balmy-radish.cloudvent.net/hash-store/ca13804e1d55cb969e9cbee6351e9d7b.jpg" alt="" title="Calgary Monthly Payments" width="661" height="176" data-cms-original-src="/uploads/calgary-monthly-payments---661.jpg"></center>
+<center><img alt="" title="Calgary Monthly Payments" width="661" height="176" src="/uploads/calgary-monthly-payments---661.jpg" /></center>
 
 {% include pullquote.html %}
 
 **With these kinds of savings it can be worth making a move or perhaps even refinancing your current home**. So, what’s happening with prices?
 
-City-wide prices remained relatively flat compared to last year, Overall detached homes were at 0%, ½ duplexes were down 1% and row and apartments down 2%. **It really depends what you have and where you are**.
+City-wide prices remained relatively flat compared to last year. Overall detached homes were at 0%, ½ duplexes were down 1%, and row and apartments down 2%. **It depends on what you have and where you are**. There were also some notable surprises. For example, the south and southeast parts of the city saw a 2% increase in single-family detached &nbsp;home prices.
 
-There were some notable surprises. For example, the South and South East saw a 2% increase in single-family detached &nbsp;home prices.
-
-If you would like the latest scoop on a specific area or specific property, give me a call or send me an email. I’d be happy to answer any questions you may have, and I look forward to hearing from you soon.
+If you would like the latest scoop on a specific area or property, give me a call or send me an email. I’d be happy to answer any questions you may have, and I look forward to hearing from you soon.
