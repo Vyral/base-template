@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Aiming for a Spring Sale?
-date: 2021-01-08 20:05:24
+date: 2021-01-12 09:05:24
 tags:
   - Home Seller Tips
 excerpt: Here’s what it takes to prepare your home for the 2021 spring market.
