@@ -9,8 +9,8 @@ pullquote: The condition of a home is more important than ever.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-29-200.jpg
-youtube_code: LRW_0tPiWos
+youtube_alternate_image: /uploads/1-12-21yt.jpg
+youtube_code: hX6m-F5-3fM
 ---
 
 {% include youtube.html %}
