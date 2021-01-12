@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: How much of a difference can listing videos make? A lot.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/How+Real+Estate+Videos+Get+More+Money+For+Your+Home.mp4
 pullquote: >-
   Not all platforms can fully capture the richness that listing videos can
   create.
