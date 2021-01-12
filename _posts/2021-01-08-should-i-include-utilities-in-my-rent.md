@@ -17,7 +17,7 @@ youtube_code: W4n03s5skIc
 
 {% include youtube.html %}
 
-<center><em>Here’s what I recommend property owners do with utility costs.</em></center>
+<center><em>Here’s what I recommend property owners do with utility costs.</em></center>&nbsp;
 
 A lot of property owners who have a rental unit but not a separate meter for it want to know if they should just include utilities in the rental price. My recommendation is to actually **put a submeter in to monitor the tenant’s usage.** I know as a young renter, whenever I found a house that included electricity, I would leave the A/C running 24/7 because it didn’t cost me any extra, it just cost my landlord. It can really drive your utilities up, so my recommendation is to not include utilities in your rent if possible because of how easily it can be abused.&nbsp;
 
