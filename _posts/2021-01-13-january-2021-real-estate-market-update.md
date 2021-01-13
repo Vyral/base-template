@@ -24,7 +24,7 @@ Wow\!\! What a crazy 2020\!\!
 
 First of all, I hope you and your loved ones are safe and your New Year is off to a good start. In spite of everything going on in the world, the real estate market in North San Diego County has been, and continues to be, on fire. If you are a home owner or a home seller you should be tickled at the appreciation and as long as you don't do anything foolish like cash out your equity and blow it on material things your NET worth just took a very nice tick up. If you are a home buyer you need to be PATIENT, this is not the time to make low offers and look for a great deal. If you see a home you love you need to make good offers right off the bat and move quickly or someone else will and you won't get the house. Yes, it is that kind of market right now.
 
-Please click the video below to see the short/condensed market update and price report covering price only, or click HERE to see the longer video where I dive deeper into the inventory levels, time on market, etc.&nbsp;
+Please click the video below to see the short/condensed market update and price report covering price only, or [click HERE to see the longer video](https://youtu.be/JgbcaujjS64){: target="_blank" rel="noopener"} where I dive deeper into the inventory levels, time on market, etc.&nbsp;
 
 Here are a few stats on the current market.
 
