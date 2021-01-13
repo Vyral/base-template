@@ -19,7 +19,7 @@ youtube_code: 9hsGrwoFXOw
 
 {% include youtube.html %}
 
-Here's how home values have been appreciating despite high unemployment.
+<p style="text-align: center;"><em>Here's how home values have been appreciating despite high unemployment.</em></p>
 
 How is that prices continue to shoot up while unemployment hovers around 7%? The Case-Shiller Index, which tracks homes, announced that **September 2020 had the highest level of appreciation for a single month in the last 20 years**—that means it was higher than the run-up of 2012 and 2013 and the run-up of 2005 and 2006\! A lot of this has to do with the historically low interest rates fueling demand while inventory remains scarce.&nbsp;
 
