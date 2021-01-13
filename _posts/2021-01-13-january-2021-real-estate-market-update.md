@@ -28,7 +28,7 @@ Please click the video below or HERE to see the short/condensed market update co
 
 Here are a few stats on the current market.
 
-* The average sales price is up ~19.2% year over year for detached homes in North County. This time last year it was around $873,000, it is now around $1,040,000. (not all price levels and areas are the same, this is the average across North County)..
+* The average sales price is up ~19.2% year over year for detached homes in North County. This time last year it was around $873,000, it is now around ![Jan 2021 Market Update](/uploads/photo-jan-13-11-29-23-am.png "Jan 2021 Market Stats"){: width="2632" height="1870"}$1,040,000. (not all price levels and areas are the same, this is the average across North County)..
 * Available inventory or homes on the market has gone down over 62%% from 2,402 homes to 900 homes. Holy cow that is low\!
 * On average homes are selling in just 22 days, about 48% faster than this time last year.
 * The 30 year interest rate is at a historic low, hovering around 2.7% at the end of 2020.
