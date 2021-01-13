@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Let's look back at the 2020 market and ahead to what you can expect in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Where%E2%80%99s+Tulsa+Real+Estate+Headed+in+2021_.mp4
 pullquote: Our team was able to operate and stay connected via Zoom and other technology.
 enclosure_type: video/mp4
 enclosure_time:
