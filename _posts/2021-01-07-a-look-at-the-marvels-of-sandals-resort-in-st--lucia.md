@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happened in 2020 Real Estate?
-date: 2021-01-07 21:27:00
+date: 2021-01-13 09:27:00
 tags:
   - Market Update
 excerpt: Island resorts and all the amenities they offer aren’t just for the young!
