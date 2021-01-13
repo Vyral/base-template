@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Here’s what you need to know about Calgary real estate as we begin 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2021/What+Happened+in+Calgary+Real+Estate+in+2020_.mp4
 pullquote: Money has become cheap due to our low interest rates.
 enclosure_type: video/mp4
 enclosure_time:
