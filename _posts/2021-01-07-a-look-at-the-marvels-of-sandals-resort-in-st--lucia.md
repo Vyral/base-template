@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look at the Marvels of Sandals Resort in St. Lucia
+title: What Happened in 2020 Real Estate?
 date: 2021-01-07 21:27:00
 tags:
   - Market Update
