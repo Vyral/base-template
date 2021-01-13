@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/photo-jan-13-11-50-45-am.png
-youtube_code: JgbcaujjS64
+youtube_code: Foy0O8QLsQQ
 ---
 
 {% include youtube.html %}
 
-**January 2021 Real Estate Market Update - North San Diego County**
+**January 2021 Real Estate Price Report - North San Diego County**
 
 Wow\!\! What a crazy 2020\!\!
 
