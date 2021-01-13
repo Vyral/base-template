@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/blue-with-white-background.jpg
+youtube_alternate_image: /uploads/photo-jan-13-11-50-45-am.png
 youtube_code: JgbcaujjS64
 ---
 
