@@ -5,7 +5,7 @@ date: 2021-01-13 09:27:00
 tags:
   - Market Update
 excerpt: Island resorts and all the amenities they offer aren’t just for the young!
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/What+Happened+in+2020+Real+Estate_.mp4
 pullquote: >-
   At Secrets Resort, you’ll get a chance to do a lot of things that you may not
   ever have had the opportunity to do before.
