@@ -2,14 +2,18 @@
 layout: post
 title: January 2021 Real Estate Market Update
 tags:
-excerpt:
+  - Market Update
+  - Real Estate
+excerpt: >-
+  The average sales price is up ~19.2% year over year for detached homes in
+  North County. This time last year it was around $873,000, it is now around....
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: JgbcaujjS64
 ---
 
 {% include youtube.html %}
