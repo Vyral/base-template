@@ -1,3 +1,4 @@
+---
 audit_header: false
 title: Casey Cooke at Coldwell Banker Vista Village
 description: >-
@@ -56,15 +57,14 @@ socials:
     https://www.facebook.com/pg/Casey-Cooke-Real-Estate-227864320562641/posts/?ref=page_internal
   linkedin_url: 'https://www.linkedin.com/in/caseycooke/'
   youtube_url: 'https://www.youtube.com/user/ccooke411/videos'
-  twitter_url: 'https://twitter.com/ServingNCounty'
+  twitter_url:
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/Casey-Cooke/'
   trulia_url:
   yelp_url: >-
     https://www.yelp.com/biz/casey-cooke-coldwell-banker-residential-brokerage-vista-2
-  podcast_url: >-
-    https://itunes.apple.com/us/podcast/pacific-sothebys-international/id1204977687?mt=2
+  podcast_url:
 podcast:
   title: Coldwell Banker Realty - Casey Cooke
   categories:
@@ -112,3 +112,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
+---
