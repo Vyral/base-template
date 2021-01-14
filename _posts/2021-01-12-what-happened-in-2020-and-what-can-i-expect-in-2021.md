@@ -35,4 +35,4 @@ If you're thinking of buying a home, it might be smarter to do so sooner than la
 
 For sellers, you can’t have much more power than you do in this market right now. This might be your best opportunity to sell for the most money for the foreseeable future.
 
-If you have any questions for me about buying a home, selling a home, or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
+If you have any questions about buying a home, selling a home, or real estate in general, don’t hesitate to reach out via phone or email. We look forward to hearing from you soon.
