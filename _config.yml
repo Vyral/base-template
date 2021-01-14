@@ -3,8 +3,7 @@ title: "Andross"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-
-url: "http://colemererealtyvideoblog.com"
+url: "https://colemererealtyvideoblog.com"
 
 # Build settings
 markdown: kramdown
@@ -18,11 +17,7 @@ kramdown:
   input: GFM
 highlighter: rouge
 
-<<<<<<< HEAD
-paginate: 8
-=======
 paginate: 6
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 permalink: none
 
 gems:
@@ -48,8 +43,3 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
