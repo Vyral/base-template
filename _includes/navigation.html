@@ -18,11 +18,8 @@
 			<li><a href="/">Home</a></li>
 			{% if site.data.settings.show_custom_links == true %}
 				{% for item in site.data.settings.custom_links %}
-<<<<<<< HEAD
-      		<li><a href="{{ item.url}}" target="_blank">{{ item.title }}</a></li>
-=======
+      		<!-- <li><a href="{{ item.url}}" target="_blank">{{ item.title }}</a></li> -->
       		<li><a href="{{ item.url}}">{{ item.title}}</a></li>
->>>>>>> b855a1571824f99fdccc74989aff31117e454a60
     		{% endfor %}
 			{% endif %}
 			{% if site.data.settings.show_custom_links_new_tab == true %}

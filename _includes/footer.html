@@ -4,34 +4,31 @@
 	      {% comment %} if something is missing from the contact info it won't print extra columns {% endcomment %}
 	      {% if site.data.settings.client.brand == null and site.data.settings.client.brokerage == null %}
 	        <div class="col-sm-6">
-<<<<<<< HEAD
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
 
-=======
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 	        </div>
 	        <div class="col-sm-6">
 	          <address itemprop="address">{{site.data.settings.client.address}}</address>
 	        </div>
 	      {% elsif site.data.settings.client.brand == null %}
 	        <div class="col-sm-4">
-<<<<<<< HEAD
+
 
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
-=======
+
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 							{% endif %}
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
+
 	        </div>
 	        <div class="col-sm-4">
 	          <span itemprop="branchof">{{site.data.settings.client.brokerage}}</span>
@@ -41,17 +38,17 @@
 	        </div>
 	      {% elsif site.data.settings.client.brokerage == null  %}
 	        <div class="col-sm-4">
-<<<<<<< HEAD
+
 
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
-=======
+
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
+
 	        </div>
 	        <div class="col-sm-4">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
@@ -61,17 +58,17 @@
 	        </div>
 	      {% else %}
 	        <div class="col-sm-3">
-<<<<<<< HEAD
+
 
 						{%for client in site.data.settings.client.clients %}
 						<span itemprop="founder">{{client.name}} {{client.license}}<br></span>
 						{% endfor%}
-=======
+
 	          <span itemprop="founder">{{site.data.settings.client.name}}</span>
 						{% if site.data.settings.client.license_number != null %}
 						<br><span>{{site.data.settings.client.license_number }}
 					{% endif %}
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
+
 	        </div>
 	        <div class="col-sm-3">
 	          <span itemprop="brand">{{site.data.settings.client.brand}}</span>
@@ -94,7 +91,7 @@
 					{%endfor%}
 
 	      </div>
-<<<<<<< HEAD
+
 				<div class="col-sm-4"><a href="{{site.data.settings.client.url}}">{{site.data.settings.client.url | remove: "http://" | remove: "https://" | remove: '/'}}</a></div>
 	      <div class="col-sm-4">
 					{%for client in site.data.settings.client.clients %}
@@ -103,7 +100,7 @@
 				</div>
 	    </div> -->
 <div class="col-sm-3"></div>
-<div class="col-sm-3">
+<div class="col-sm-12">
 			{{ site.data.settings.client.brand }}<br />
 			{% if site.data.settings.client.brokerage != null %}
 			{{ site.data.settings.client.brokerage }}<br />
@@ -112,11 +109,11 @@
 			{{ site.data.settings.client.office_phone }}<br />
 			<a href="mailto:{{ site.data.settings.client.office_email }}">{{ site.data.settings.client.office_email }}</a><br />
 
-=======
+
 	      <div class="col-sm-4"><a href="mailto:{{site.data.settings.client.email}}">{{site.data.settings.client.email}}</a></div>
 	      <div class="col-sm-4"><a href="{{site.data.settings.client.url}}" target="_blank">{{site.data.settings.client.url | remove: "http://" | remove: "https://"}}</a></div>
 	    </div>
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
+
 	    <div class="row">
 	      <div class="twelve columns footer-socials">
 	        {% include socials.html %}
@@ -138,7 +135,7 @@
 	  </div>
 </div>
 
-<div class="col-sm-3">
+<div class="col-sm-12">
 <img src="/img/footer.jpg" style="max-width: 250px;" alt="The Colemere Realty Team">
 </div>
 	</div>

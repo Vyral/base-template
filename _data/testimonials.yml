@@ -5,6 +5,5 @@ testimonial:
     name: Michael Corbet
     audio: 'https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/testimonials/Michael-Corbet.mp3.mp3'
 
-  - quote:
-    name:
-
+  # - quote:
+  #   name:

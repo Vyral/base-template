@@ -4,17 +4,12 @@ description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from Colemere Realty and Associates - your
   professional Wasatch Front Real Estate Agents.
-show_custom_links:
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
 custom_links:
   - title: Guaranteed Offer
     url: /guaranteed-offer/
-show_custom_links_new_tab: false
-custom_links_new_tab:
-  - title:
-    url:
 
 forms:
   sitekey: 6LdFSiwaAAAAAHog36XrNsEiUxfUB5aYoWPySgQL
@@ -46,7 +41,7 @@ client:
   address: '9661 S 700 E<br>Sandy, UT 84070'
   office_phone: (801) 272-8192
   office_email: info@colemererealty.com
-  url: 'http://colemererealty.com/'
+  url: 'http://colemererealty.com'
   first_CTA_text: Home Evaluation
   first_CTA_URL: 'https://www.colemererealty.com/sell/'
   second_CTA_text: Home Search
@@ -193,4 +188,3 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
-
