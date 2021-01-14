@@ -19,6 +19,9 @@ custom_links_new_tab:
   - title:
     url:
 
+forms:
+  sitekey: 6LdFSiwaAAAAAHog36XrNsEiUxfUB5aYoWPySgQL
+
 client:
 <<<<<<< HEAD
   clients:
