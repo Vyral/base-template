@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Happened in 2020 and What Can I Expect in 2021?
-date: 2021-01-12 22:06:39
+date: 2021-01-12 22:06:00
 tags:
 excerpt: Here’s what happened in real estate last year and what might happen in 2021
 enclosure:
@@ -15,7 +15,9 @@ youtube_code: CuBzPzI3lic
 
 {% include youtube.html %}
 
-<center>Here’s what happened in real estate last year and what might happen in 2021.</center>
+<center><em>Here&rsquo;s what happened in real estate last year and what might happen in 2021.</em></center>
+
+<center>&nbsp;</center>
 
 Today we’re going to take a look at the final numbers for our real estate market in 2020 and make some predictions about what’s going to happen in the next year.&nbsp;
 
