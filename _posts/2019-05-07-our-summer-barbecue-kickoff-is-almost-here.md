@@ -4,7 +4,6 @@ title: Our Summer Barbecue Kickoff Is Almost Here
 date: 2019-05-07 00:00:00
 tags:
   - Real Estate
-  - Miscellaneous
 excerpt: >-
   On June 1st, we want you to join us at Lone Peak Park for our summer barbecue
   kickoff. Here are the details.

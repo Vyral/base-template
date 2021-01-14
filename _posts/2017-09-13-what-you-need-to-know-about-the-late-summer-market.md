@@ -2,6 +2,7 @@
 layout: post
 title: What You Need to Know About the Late Summer Market
 tags:
+  - Real Estate
   - Market Update
 excerpt: >-
   What is happening in the real estate market as summer draws to a close? The
@@ -17,7 +18,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: keoXl1aLjX0
 ---
-
 
 {% include youtube.html %}
 
@@ -37,4 +37,4 @@ If you’re a buyer in the $300,000 and under range, the competition is stiff. M
 
 **If you are a buyer or seller above $400,000, price reductions are more common**. If you are a seller, make sure that you are priced a bit more aggressively than the competition. If you are a buyer, there could be some room for negotiation, so be ready.&nbsp;
 
-If you have any other questions about our current market or would like to know more about your specific neighborhood, give us a call or send us an email. We would be happy to help you!<br>&nbsp;
+If you have any other questions about our current market or would like to know more about your specific neighborhood, give us a call or send us an email. We would be happy to help you\!<br>&nbsp;

@@ -2,6 +2,7 @@
 layout: post
 title: Happy Holidays from Colemere Realty
 tags:
+  - Real Estate
 excerpt: Thank you all so much for your love and support.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4
@@ -12,7 +13,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 4bull4bLJgg
 ---
-
 
 {% include youtube.html %}
 

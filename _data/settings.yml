@@ -38,7 +38,7 @@ client:
     of our clients. Each member of our team is focused on providing **the
     expertise of 3 generations in the business**. We know that a real estate
     transaction can be very challenging which is why achieving your satisfaction
-    is our top priority. As your **REALTOR&reg;**, we are **committed to your
+    is our top priority. As your **REALTORS&reg;**, we are **committed to your
     success** in the purchase and sale of your home, and we promise you the full
     support, experience, and expertise of our team.
   market: Wasatch Front
@@ -161,7 +161,7 @@ images:
   hero_text:
   hero_background_hex: '#0b2972'
   hero_image_path: /img/background.jpg
-brand_color: '#0b2972'
+brand_color: '#02084b'
 theme_color: '#0b2972'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'

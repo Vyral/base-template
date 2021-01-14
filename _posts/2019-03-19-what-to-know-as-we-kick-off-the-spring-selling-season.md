@@ -22,6 +22,8 @@ youtube_code: fKuB0aktmGs
 
 <center><em>Where are things headed in our real estate market as spring begins? Keep reading to find out.</em></center>
 
+&nbsp;
+
 Today we’re going to give you a bit of a recap on the first quarter of the year and what to expect as we move into spring and summer.
 
 **We’re ready to kick off the spring selling season after a slight slowdown toward the end of the last year**. Even though the number of units sold has gone down lately, that has to do more with a lack of inventory than it does with the health of our market. We’re still in a healthy, strong seller’s market.

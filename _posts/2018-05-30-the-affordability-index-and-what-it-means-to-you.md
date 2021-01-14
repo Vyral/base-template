@@ -4,9 +4,6 @@ title: The Affordability Index and What It Means to You
 tags:
   - Real Estate
   - Home Buyer Tips
-  - Home Buying
-  - Salt Lake City
-  - Utah
 excerpt: >-
   News reports have said that the affordability index is dropping, but what does
   this mean to you?

@@ -4,7 +4,7 @@ title: On Waiting Until Spring to Buy a Home
 date: 2018-11-20 00:00:00
 tags:
   - Real Estate
-  - Home Buying
+  - Home Buyer Tips
 excerpt: >-
   Today we wanted to discuss waiting until spring to buy a home and why that
   might not be such a good idea in this market.
@@ -31,9 +31,9 @@ We hear it all the time: “I’m going to wait until spring to buy a home, rath
 
 Though there are typically fewer homes on the market in the fall and winter months, that doesn’t mean waiting until spring is necessarily the best idea—especially in this market. Here are a few reasons why that is:
 
-**1. Interest rates are on the rise**. Increased interest rates will negatively affect a buyer’s purchasing power, meaning they won’t be able to afford the same amount of home if they wait until spring to buy.
+**1\. Interest rates are on the rise**. Increased interest rates will negatively affect a buyer’s purchasing power, meaning they won’t be able to afford the same amount of home if they wait until spring to buy.
 
-**2. Less competition**. Because there are fewer buyers in the market during the fall and winter, there is less competition for the ones who are looking during that time. The spring market is a prime season for multiple-offer situations and bidding wars, meaning you’ll have to work that much harder for sellers to accept your offer over another buyer’s.
+**2\. Less competition**. Because there are fewer buyers in the market during the fall and winter, there is less competition for the ones who are looking during that time. The spring market is a prime season for multiple-offer situations and bidding wars, meaning you’ll have to work that much harder for sellers to accept your offer over another buyer’s.
 
 {% include pullquote.html %}
 

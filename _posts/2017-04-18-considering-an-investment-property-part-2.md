@@ -2,9 +2,13 @@
 layout: post
 title: 'Considering an Investment Property: Part 2'
 tags:
-  - Buyer Tips
-excerpt: 'After you’ve found an investment property you like, it’s time to evaluate that property. Here are three keys to evaluating an investment property.'
-enclosure: 'https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4'
+  - Real Estate
+  - Investing
+excerpt: >-
+  After you’ve found an investment property you like, it’s time to evaluate that
+  property. Here are three keys to evaluating an investment property.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4
 pullquote: The numbers in investment real estate are critical.
 enclosure_type: video/mp4
 enclosure_time:
@@ -13,10 +17,9 @@ youtube_alternate_image:
 youtube_code: zdXSKi982jw
 ---
 
-
 {% include youtube.html %}
 
-Welcome to the second part of our three-part series on how to invest in real estate. If you missed our first entry, you can see it [**here**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html). Click **[here](https://drive.google.com/file/d/0B2GvIfUP4V3RTThQdm9lLTNTalE/view?usp=sharing)** to view a .pdf of investment formulas to help you out!
+Welcome to the second part of our three-part series on how to invest in real estate. If you missed our first entry, you can see it [**here**](http://colemererealtyvideoblog.com/considering-an-investment-property-part-1.html). Click **[here](https://drive.google.com/file/d/0B2GvIfUP4V3RTThQdm9lLTNTalE/view?usp=sharing)** to view a .pdf of investment formulas to help you out\!
 
 Now that you’ve found a property you like, what happens next? Next, you have to evaluate that property, and there are three important factors to take into consideration.
 

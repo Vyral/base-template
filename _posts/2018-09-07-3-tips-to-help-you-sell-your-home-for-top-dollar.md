@@ -3,6 +3,7 @@ layout: post
 title: 3 Tips to Help You Sell Your Home for Top Dollar
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt: >-
   To sell your home for top dollar in our market, declutter and clean the inside
   and make sure the outside has great curb appeal.

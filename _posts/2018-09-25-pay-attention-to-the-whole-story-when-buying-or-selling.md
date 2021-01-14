@@ -3,8 +3,8 @@ layout: post
 title: Pay Attention to the Whole Story When Buying or Selling
 tags:
   - Real Estate
-  - Home Buying
-  - Home Selling
+  - Home Buyer Tips
+  - Home Seller Tips
 excerpt: >-
   In our market right now, conditions are split based on price point. And today
   we’d like to explain how this will impact your goals as a buyer or seller.

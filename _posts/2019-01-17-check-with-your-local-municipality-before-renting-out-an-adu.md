@@ -4,7 +4,6 @@ title: Check With Your Local Municipality Before Renting Out an ADU
 date: 2019-01-17 00:00:00
 tags:
   - Real Estate
-  - Homeowner Tips
 excerpt: >-
   Accessory dwelling units represent a great opportunity for homeowners, but
   there are rules for renting them out that you need to pay attention to.

@@ -3,6 +3,7 @@ layout: post
 title: How Did the Market Do in 2017?
 tags:
   - Market Update
+  - Real Estate
 excerpt: >-
   What happened in the 2017 real estate market, and what can that tell us about
   2018? Let’s take a quick look.
@@ -15,7 +16,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 2nepHLg7bjA
 ---
-
 
 {% include youtube.html %}
 
