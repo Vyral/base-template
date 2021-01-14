@@ -1,5 +1,11 @@
 show_testimonials_section: true
 testimonial:
+<<<<<<< HEAD
   - quote: '“We had a property with raw land which, is a super big challenge in Salt Lake City. I didn’t want to put a lien on my house or anything so Scott helped me with any challenges I had with getting that land. He actually fought for my property. When it came down to offers, he was very quick in getting those back and doing any addendums that I needed. The reason I got the property was because he fought for me. I think without him I probably wouldn’t have gotten the property. I needed someone that would do round the clock addendums and legal paperwork, and he was willing to do that for me. So, that made him stand out in the realty world for me.”'
     name: Michael Corbet
     audio: 'https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/testimonials/Michael-Corbet.mp3.mp3'
+=======
+  - quote:
+    name:
+    audio:
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876

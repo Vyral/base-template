@@ -19,12 +19,14 @@ html
 
 .content-container, .post-container
   animation: 1s ease-in-out slideup
-nav
+.nav-start
   animation: 1s ease-in-out slidedown
 .sidebar
   animation: 1s ease-in-out slideup
-nav.socials
-  animation: .5s ease-in-out slideup
+.navbar-andross-bottom
+  animation: 1s ease-in-out fadein
+.socials
+  animation: 1s ease-in-out slideup
 
 @keyframes slideup
   0%
@@ -105,6 +107,18 @@ h5
 h6
   font-size: 1.5rem
 
+ul
+  list-style: disc
+  padding-left: 2rem
+
+ol
+  list-style: decimal
+  padding-left: 2rem
+
+p
+  font-size: 18px
+
+
 .left
   text-align: left
 
@@ -122,6 +136,8 @@ a
   &:hover
     text-decoration: none
     color: $brand-light
+  &:visited
+    text-decoration: none
 
 //Buttons
 .button, button, input[type="button"],input[type="submit"]
@@ -132,7 +148,7 @@ a
   border-radius: 0px
   &:hover
     background: $brand-light
-    border: 1px solid $brand-light
+    border: 1px solid $brand
     color: $light-text
   &:visited
     color: $light-text
@@ -187,8 +203,8 @@ table
 
 // .content-container
 //   background: $light-text
-//   color: #000
-//   border-radius: 8px
+//   border: 1px solid #cfcfcf
+//   border-radius: $button-radius
 //   transition: all .3s ease-in-out
 //   margin-top: 20px
 //   &:hover

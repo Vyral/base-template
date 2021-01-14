@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Colemere Realty and Associates</title>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</description>
     <link>http://colemererealtyvideoblog.com/</link>
@@ -12,13 +13,33 @@
       <item>
         <title>Thank You for Attending Our Summer Barbecue Kickoff</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/D0kzbB2pwX0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+=======
+    <title>-- MARKET -- Real Estate Video Blog with -- CLIENT NAME --</title>
+    <description>Our mission at  is to be your best resource for  real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The , your professional  Real Estate Agents.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 30 Aug 2019 09:59:09 -0500</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2019 09:59:09 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>this is a test post</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 &lt;center&gt;&lt;em&gt;A big thanks to all who stopped by!&lt;/em&gt;&lt;/center&gt;
 
+<<<<<<< HEAD
 &lt;p&gt; &lt;/p&gt;
+=======
+&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. &lt;a href=&quot;http://google.com&quot;&gt;Fanny&lt;/a&gt; pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/homevalue/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-value.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Valuation&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 &lt;p&gt;We at Colemere Realty Associates would like to extend our gratitude to all who attended our Summer Barbecue Kickoff! We had a lot of fun, spent time with a lot of friends, and ate a lot of food—some of you even won prizes! From our family to yours: Thank you.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;As always, if you have any questions or would like any information about how we can meet your real estate goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
         <pubDate>Wed, 19 Jun 2019 19:00:00 -0500</pubDate>
@@ -33,6 +54,9 @@
       <item>
         <title>Why You Should Avoid Pricing Your Home Too High</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JA5PD3XpHGY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+=======
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/this-is-a-test-post-copy-2.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 &lt;center&gt;&lt;em&gt;Be sure to avoid these three pitfalls created when you overprice your home.&lt;/em&gt;&lt;/center&gt;
 
@@ -50,14 +74,21 @@
 
 &lt;p&gt;If you have any questions about this topic or real estate in general, reach out to your Colemere Realty specialists. We’d love to help you.&lt;/p&gt;
 </description>
+<<<<<<< HEAD
         <pubDate>Mon, 20 May 2019 19:00:00 -0500</pubDate>
         <link>http://colemererealtyvideoblog.com/why-you-should-avoid-pricing-your-home-too-high.html</link>
         <guid isPermaLink="true">http://colemererealtyvideoblog.com/why-you-should-avoid-pricing-your-home-too-high.html</guid>
+=======
+        <pubDate>Thu, 10 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/this-is-a-test-post-copy-2.html</guid>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
         <category>Home Seller Tips</category>
         
         <category>Real Estate</category>
         
+<<<<<<< HEAD
         
       </item>
     
@@ -153,11 +184,15 @@
         <category>Real Estate</category>
         
         <category>Home Buyer Tips</category>
+=======
+        <category>Home Seller Tips</category>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
         
       </item>
     
       <item>
+<<<<<<< HEAD
         <title>What to Know as We Kick off the Spring Selling Season</title>
         <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fKuB0aktmGs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -166,10 +201,40 @@
 &lt;p&gt;Today we’re going to give you a bit of a recap on the first quarter of the year and what to expect as we move into spring and summer.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;We’re ready to kick off the spring selling season after a slight slowdown toward the end of the last year&lt;/strong&gt;. Even though the number of units sold has gone down lately, that has to do more with a lack of inventory than it does with the health of our market. We’re still in a healthy, strong seller’s market.&lt;/p&gt;
+=======
+        <title>A Fox in Space</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/SFFy_drFrZs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps &lt;strong&gt;&lt;a href=&quot;http://google.com&quot; target=&quot;_blank&quot;&gt;gastropub&lt;/a&gt; marfa r&lt;/strong&gt;etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Bushwick&lt;/em&gt; &lt;a href=&quot;'http://google.com'&quot; target=&quot;_blank&quot;&gt;marfa&lt;/a&gt; wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/homesearch/&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;/img/home-search.jpg&quot; class=&quot;post-image&quot; alt=&quot;Home Search&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+  &lt;li&gt;list item&lt;/li&gt;
+&lt;/ol&gt;
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 &lt;p&gt;Right now, the median price in the single-family home market is up to $355,000 and we’re seeing an appreciation rate of around 8%.&lt;/p&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We’re still in a healthy, strong seller’s market.%20http://colemererealtyvideoblog.com/what-to-know-as-we-kick-off-the-spring-selling-season.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We’re still in a healthy, strong seller’s market.”&lt;/a&gt;&lt;/p&gt;
+=======
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=This is an example of a pull quote%20http://localhost:4000/a-fox-in-space.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“This is an example of a pull quote”&lt;/a&gt;&lt;/p&gt;
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 &lt;p&gt;What economic factors have led to this? One of them is a bit of a slowdown in terms of job growth. &lt;strong&gt;At the same time, we’re not seeing as many people move to the state of Utah, and wage growth isn’t necessarily keeping up with how fast real estate is evolving&lt;/strong&gt;. A wage increase is not expected this year, but it’s something we’d really like to see.&lt;/p&gt;
 
@@ -177,11 +242,17 @@
 
 &lt;p&gt;If you have any questions for us about real estate in the meantime, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
+<<<<<<< HEAD
         <pubDate>Mon, 18 Mar 2019 19:00:00 -0500</pubDate>
         <link>http://colemererealtyvideoblog.com/what-to-know-as-we-kick-off-the-spring-selling-season.html</link>
         <guid isPermaLink="true">http://colemererealtyvideoblog.com/what-to-know-as-we-kick-off-the-spring-selling-season.html</guid>
         
         <category>Real Estate</category>
+=======
+        <pubDate>Mon, 07 May 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <guid isPermaLink="true">http://localhost:4000/a-fox-in-space.html</guid>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
         <category>Market Update</category>
         
@@ -206,6 +277,7 @@
         
         <category>Real Estate</category>
         
+<<<<<<< HEAD
         
       </item>
     
@@ -296,6 +368,9 @@
         <category>Real Estate</category>
         
         <category>Homeowner Tips</category>
+=======
+        <category>Home Seller Tips</category>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
         
       </item>

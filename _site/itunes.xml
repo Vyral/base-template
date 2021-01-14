@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
+<<<<<<< HEAD
     <title>Colemere Realty and Associates Real Estate Podcast</title>
     <link>http://colemererealtyvideoblog.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://colemererealtyvideoblog.com"/>
@@ -12,12 +13,26 @@
     <media:thumbnail url="http://colemererealtyvideoblog.com/img/colemere_podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
+=======
+    <title> Real Estate Podcast with </title>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</description>
+    <language>en</language>
+    <managingEditor></managingEditor>
+    <lastBuildDate>2019-08-30 09:59:09 -0500</lastBuildDate>
+    <media:copyright></media:copyright>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
     <itunes:owner>
       <itunes:email></itunes:email>
       <itunes:name>Bryan Colemere</itunes:name>
     </itunes:owner>
     <itunes:author>Bryan Colemere</itunes:author>
     <itunes:explicit>no</itunes:explicit>
+<<<<<<< HEAD
     <itunes:image href="http://colemererealtyvideoblog.com/img/colemere_podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
@@ -1217,6 +1232,17 @@ This is a general forecast for our local real estate market. If you would like m
       <item>
         <title>How Did the Market Do in 2017?</title>
         <link>http://colemererealtyvideoblog.com/how-did-the-market-do-in-2017.html</link>
+=======
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the  Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</itunes:summary>
+      <itunes:category text="Education"/>
+    
+      <item>
+        <title>this is a test post</title>
+        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
           <category>Market Update</category>
         
@@ -1519,6 +1545,7 @@ If you have any questions about our team or are interested in attending some of 
         
           <category>Real Estate</category>
         
+<<<<<<< HEAD
         <author>Bryan Colemere</author>
         <pubDate>2017-08-14 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4</guid>
@@ -1864,6 +1891,12 @@ If you have any other questions about how to handle a bad appraisal or if you wa
         
         <author>Bryan Colemere</author>
         <pubDate>2017-03-17 00:00:00 -0500</pubDate>
+=======
+          <category>Home Seller Tips</category>
+        
+        <author></author>
+        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         <guid></guid>
         <description>“Bryan was a referral from a friend of mine. I was a little apprehensive because I’ve worked with realtors in the past but, I liked the way that he thought. It wasn’t all just go big or go home. He actually tried to find the best fit for us. I called him several times in the evenings and on weekends and he always took my calls. If he didn’t answer he made sure to call me right back, even on a weekend. He was always able to answer any questions I had and help me think through the whole process.”
 
@@ -1959,10 +1992,16 @@ If you listed your home and it didn’t sell, do you know why? It’s unfortunat
 There are four reasons why a home typically doesn’t sell:
 
 
+<<<<<<< HEAD
    Location. If, for example, your home is on a busy road and wasn’t priced appropriately for the location, it might not sell.
   Condition. If your home doesn’t show well in pictures or when buyers come to tour your home, they will probably be turned off by it.
   Price. It’s an easy factor for people to point to, but there’s more to it than you might think. Your home must be priced according to the condition and the location. If it is, it’ll sell. If it’s not priced properly, buyers won’t want it.
   Marketing. This is a big piece that many people don’t understand as well. There’s more to selling your home than putting it on the multiple listing service. You need to have a strong agent marketing the home for you. 
+=======
+
+
+Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 
 “If your home isn’t priced right, it simply will not sell.”
@@ -1971,6 +2010,7 @@ The good news is that we’ve got solutions to all these problems. We have an in
 
 If you have any questions for us or you’re thinking of buying or selling in the Utah market, give us a call or send us an email. We’d be glad to help.
 </description>
+<<<<<<< HEAD
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4" type="video/mp4"/>
@@ -2087,18 +2127,37 @@ Follow this advice, and your home will be much more attractive to potential buye
       <item>
         <title>How Can You Sell Your Home in the Winter?</title>
         <link>http://colemererealtyvideoblog.com/how-can-you-sell-your-home-in-the-winter.html</link>
+=======
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Fox in Space</title>
+        <link>http://localhost:4000/a-fox-in-space.html</link>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         
           <category>Market Update</category>
         
           <category>Real Estate</category>
         
-          <category>Buyer Tips</category>
-        
           <category>Home Seller Tips</category>
         
+<<<<<<< HEAD
         <author>Bryan Colemere</author>
         <pubDate>2016-12-16 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4</guid>
+=======
+        <author></author>
+        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <guid></guid>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
         <description>
 
 What are some tips for selling a home in the wintertime? This is a question we get a lot, especially when it gets cold, and we are happy to tell you there are some great ones.
@@ -2107,7 +2166,29 @@ The first thing you need to know is that homes will definitely sell in the winte
 
 It’s really nice to see a wreath and some Christmas lights hanging up when you first pull up to a listing. This makes your home seem warm and inviting, and a buyer will see how that adds a special charm to your home.
 
+<<<<<<< HEAD
 “An inviting atmosphere is key to selling in the winter market.”
+=======
+
+
+
+  list item
+  list item
+  list item
+  list item
+  list item
+
+
+
+  list item
+  list item
+  list item
+  list item
+  list item
+
+
+Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 You also need to make sure to keep your heat up. It’s very important that your home is warm as this will make it inviting. If the home is vacant, it is even more important to make sure the heat is on, as there is nothing more unattractive than walking into a cold, empty home.
 
@@ -2115,6 +2196,7 @@ Finally, make sure that your sidewalks and driveways are cleared. You want to ma
 
 If you have any other questions, please reach out with a phone call or a quick email. We are happy to help.
 </description>
+<<<<<<< HEAD
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" length="" type="video/mp4"/>
         <media:thumbnail url="http://colemererealtyvideoblog.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" type="video/mp4"/>
@@ -2152,11 +2234,25 @@ Welcome to the new YouTube channel for Colemere Realty Associates! We will updat
         <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+=======
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:author></itunes:author>
+        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in , home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
       </item>
       
     <copyright>Bryan Colemere</copyright>
     <media:credit role="author">Bryan Colemere</media:credit>
     <media:rating>nonadult</media:rating>
+<<<<<<< HEAD
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</media:description>
+=======
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from  - your professional  Real Estate Agents.</media:description>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
   </channel>
 </rss>

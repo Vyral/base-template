@@ -11,6 +11,9 @@ $('.tree-toggle').click(function () {
 $('#contact').click(function(){
 	$('.modal-wrapper').show();
 });
+$('#contact-bottom').click(function(){
+	$('.modal-wrapper').show();
+});
 
 $('.exit').click(function(){
 	$('.modal-wrapper').fadeOut();
@@ -168,4 +171,33 @@ $("#welcome-box-form").submit(function(event) {
 // localStorage.setItem('exitFull', 'false')
 //end of welcome box
 
+
+//fadein navbar
+$.support.transition = false;
+window.addEventListener("scroll", function() {
+    if (window.scrollY > 349) {
+        $('.navbar').removeClass('nav-start');
+        $('.navbar').addClass('scroll-nav-color');
+    }
+    else {
+        $('.navbar').removeClass('scroll-nav-color');
+    }
+},false);
+//add back background color when on mobile and hamburger menu is toggled
+$('.navbar')
+   .on('shown.bs.collapse', function () {
+     $('.navbar').addClass('brand-color')
+		 $('.navbar').removeClass('nav-start');
+   })
+   .on('hidden.bs.collapse', function () {
+     $('.navbar').removeClass('brand-color')
+});
+});
+new Clipboard('.feedlink');
+
+$('.feedlink').click(function(){
+	$('.feedbox').addClass('feedshow').delay(2000).queue(
+		function(){
+		$('.feedbox').removeClass('feedshow')
+	});
 });

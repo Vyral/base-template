@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<<<<<<< HEAD
 <loc>http://colemererealtyvideoblog.com/thank-you-for-attending-our-summer-barbecue-kickoff.html</loc>
 <lastmod>2019-06-19T19:00:00-05:00</lastmod>
 </url>
@@ -262,5 +263,40 @@
 </url>
 <url>
 <loc>http://colemererealtyvideoblog.com/page7/</loc>
+=======
+<loc>http://localhost:4000/a-fox-in-space.html</loc>
+<lastmod>2018-05-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/this-is-a-test-post-copy-2.html</loc>
+<lastmod>2018-05-10T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/contact/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/homesearch/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/homevalue/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/sign-up/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/testimonials/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/thankyou/</loc>
+>>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 </url>
 </urlset>
