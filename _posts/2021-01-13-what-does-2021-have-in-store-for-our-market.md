@@ -21,7 +21,7 @@ youtube_code: EYlMEV5wwNY
 
 <center><em>The future of our market looks good in 2021.</em></center>
 
-<br>2021 is upon us, and it’s an exciting time for the real estate market. Although the economy took several unexpected turns in 2020, the housing market remained on solid ground. There’s a lot of buzz out there about the uncertainty of our economy and housing market, but a lot of that is based on what I call “unformed noise.”
+<br>2021 is upon us, and it’s an exciting time for the real estate market. Although the economy took several unexpected turns in 2020, the housing market remained on solid ground. There’s a lot of buzz out there about the uncertainty of our economy and housing market, but a lot of that is based on what I call “uninformed noise.”
 
 **In addressing the strength of our housing market in 2021, there are several key factors we need to keep an eye on moving forward**. The first is the fact that inventory is low. Second, homeownership is in high demand due to mortgage rates being as low as 3% (in many cases, even lower).
 
