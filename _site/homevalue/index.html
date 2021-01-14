@@ -41,7 +41,7 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HBR Team - your professional Tracy Real Estate Agents.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2020">
+  <meta name="copyright" content="Copyright © 2021">
   <meta name="author" content="Ron & Eva Cedillo">
   <meta name="designer" content="Bryce Stradling">
   <meta name="email" content="ron@homebuyersrealty.com">
@@ -57,6 +57,37 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#810038">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -92,6 +123,8 @@
 			
 				
       		<li><a href="/seller-seminar/">Seller Seminar</a></li>
+    		
+      		<li><a href="/guaranteed-offer/">Guaranteed Offer</a></li>
     		
 			
 			
@@ -140,7 +173,7 @@
 
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
 
-    <form class="contact-form" method="post" action="http://formspree.io/ron@homebuyersrealty.com">
+    <form class="contact-form" method="post" action="/thankyou" id="contact-form">
       <input type="text" name="name" placeholder="Name" required>
       <input type="email" name="_replyto" placeholder="Email" required>
       <textarea name="Message" placeholder="Message"></textarea>
@@ -151,7 +184,7 @@
         <input type="text" name="_gotcha">
       </div>
 
-      <input type="submit" value="submit">
+      <button class="g-recaptcha" data-sitekey="6LeTtiwaAAAAALu4pJjpTpe3CgMikYnYo1kOLkcS" data-callback='onContactSubmit' data-badge="bottomleft">Submit</button>
     </form>
 
   </div>
@@ -230,7 +263,7 @@
 
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
-					<form method="post" class="home-value cta-forms" action="http://vyralmarketing.com/staticforms/sendEmail.php" onsubmit="return setReturn()">
+					<form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
@@ -372,8 +405,7 @@
         </label>
         <input type="text" name="address">
         <!-- submit! -->
-        <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
-        <span class="asterisk">*</span>required
+        <button class="g-recaptcha" data-sitekey="6LeTtiwaAAAAALu4pJjpTpe3CgMikYnYo1kOLkcS" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit</button>
     </fieldset>
     <!-- Cloud cannon settings field -->
     <div class="hidden">
@@ -382,13 +414,6 @@
       <input type="text" name="_gotcha">
     </div>
 </form>
-<script>
-function setReturn(){
-  localStorage.setItem("thanks", "Your request was sent successfully!");
-  document.getElementById("thanks").innerHTML =    localStorage.getItem("thanks");
-  localStorage.clear();
-}
-</script>
 
 
 				</div>
@@ -738,6 +763,42 @@ function setReturn(){
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 9, 2020</time> -->
+												 <a href="/were-offering-real-estate-financial-checkups.html">
+													 We’re Offering Real Estate Financial Checkups
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 4, 2020</time> -->
+												 <a href="/have-you-seen-our-latest-endorsement.html">
+													 Have You Seen Our Latest Endorsement?
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1296,6 +1357,15 @@ function setReturn(){
 									 
 										 
 											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
 												 <!-- <time>April 14, 2020</time> -->
 												 <a href="/key-safety-measures-for-showing-homes-safely.html">
 													 Key Safety Measures for Showing Homes Safely
@@ -1506,6 +1576,15 @@ function setReturn(){
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1906,7 +1985,7 @@ function setReturn(){
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2020 The HBR Team</p>
+				<p>&copy;2021 The HBR Team</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">

@@ -8,6 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Seller Seminar
     url: /seller-seminar/
+  - title: Guaranteed Offer
+    url: /guaranteed-offer/
 client:
   name: Ron & Eva Cedillo
   license_number:
@@ -30,6 +32,10 @@ client:
   phone2_type:
   email: ron@homebuyersrealty.com
   url: 'http://www.hbrteam.com'
+
+forms:
+  sitekey: 6LeTtiwaAAAAALu4pJjpTpe3CgMikYnYo1kOLkcS
+
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808211';</script><script

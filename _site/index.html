@@ -41,7 +41,7 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HBR Team - your professional Tracy Real Estate Agents.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2020">
+  <meta name="copyright" content="Copyright © 2021">
   <meta name="author" content="Ron & Eva Cedillo">
   <meta name="designer" content="Bryce Stradling">
   <meta name="email" content="ron@homebuyersrealty.com">
@@ -57,6 +57,37 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#810038">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -92,6 +123,8 @@
 			
 				
       		<li><a href="/seller-seminar/">Seller Seminar</a></li>
+    		
+      		<li><a href="/guaranteed-offer/">Guaranteed Offer</a></li>
     		
 			
 			
@@ -140,7 +173,7 @@
 
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
 
-    <form class="contact-form" method="post" action="http://formspree.io/ron@homebuyersrealty.com">
+    <form class="contact-form" method="post" action="/thankyou" id="contact-form">
       <input type="text" name="name" placeholder="Name" required>
       <input type="email" name="_replyto" placeholder="Email" required>
       <textarea name="Message" placeholder="Message"></textarea>
@@ -151,7 +184,7 @@
         <input type="text" name="_gotcha">
       </div>
 
-      <input type="submit" value="submit">
+      <button class="g-recaptcha" data-sitekey="6LeTtiwaAAAAALu4pJjpTpe3CgMikYnYo1kOLkcS" data-callback='onContactSubmit' data-badge="bottomleft">Submit</button>
     </form>
 
   </div>
@@ -234,6 +267,134 @@
       
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/our-expectations-for-the-2021-market.html">Our Expectations For the 2021 Market</a></h2>
+					<!-- <span class="post-meta">
+						Jan 7, 2021
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/our-expectations-for-the-2021-market.html">
+	            
+								
+	            		<img src="/uploads/01-04-cedillo-youtube.jpg" alt="Our Expectations For the 2021 Market" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>Today we’re looking at what 2021 may bring to our market.<p>
+						<p class="readlink"><a href="/our-expectations-for-the-2021-market.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/what-is-an-as-is-offer.html">What Is an As-Is Offer?</a></h2>
+					<!-- <span class="post-meta">
+						Dec 27, 2020
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/what-is-an-as-is-offer.html">
+	            
+								
+	            		<img src="/uploads/12-15-cedillo-youtube.jpg" alt="What Is an As-Is Offer?" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>A word on buying an ‘as is’ property.<p>
+						<p class="readlink"><a href="/what-is-an-as-is-offer.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/were-offering-real-estate-financial-checkups.html">We’re Offering Real Estate Financial Checkups</a></h2>
+					<!-- <span class="post-meta">
+						Dec 9, 2020
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/were-offering-real-estate-financial-checkups.html">
+	            
+								
+	            		<img src="/uploads/12-09-cedillo-youtube.jpg" alt="We’re Offering Real Estate Financial Checkups" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>A real estate financial checkup can prevent issues in your future.<p>
+						<p class="readlink"><a href="/were-offering-real-estate-financial-checkups.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/have-you-seen-our-latest-endorsement.html">Have You Seen Our Latest Endorsement?</a></h2>
+					<!-- <span class="post-meta">
+						Aug 4, 2020
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/have-you-seen-our-latest-endorsement.html">
+	            
+								
+	            		<img src="/uploads/08-04-cedillo-youtube.jpg" alt="Have You Seen Our Latest Endorsement?" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>John Tesh, national radio show host and musician, has endorsed our team.<p>
+						<p class="readlink"><a href="/have-you-seen-our-latest-endorsement.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
 					<h2 class="post-overview-title"><a class="post-link" href="/why-are-so-many-sellers-moving-out-of-the-bay-area.html">Why Are So Many Sellers Moving Out of the Bay Area?</a></h2>
 					<!-- <span class="post-meta">
 						Jun 8, 2020
@@ -259,134 +420,6 @@
 				<div class="col-lg-6">
 					<p class='excerpt'>There’s an eastward migration happening in our market.<p>
 						<p class="readlink"><a href="/why-are-so-many-sellers-moving-out-of-the-bay-area.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/are-we-seeing-more-activity-as-things-open-back-up.html">Are We Seeing More Activity as Things Open Back Up?</a></h2>
-					<!-- <span class="post-meta">
-						May 27, 2020
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/are-we-seeing-more-activity-as-things-open-back-up.html">
-	            
-								
-	            		<img src="/uploads/05-26-cedillo-youtube.jpg" alt="Are We Seeing More Activity as Things Open Back Up?" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>More businesses are opening back up, and real estate is seeing a surge.<p>
-						<p class="readlink"><a href="/are-we-seeing-more-activity-as-things-open-back-up.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/is-our-market-headed-for-a-recession.html">Is Our Market Headed for a Recession?</a></h2>
-					<!-- <span class="post-meta">
-						May 20, 2020
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/is-our-market-headed-for-a-recession.html">
-	            
-								
-	            		<img src="/uploads/05-18-cedillo-youtube.jpg" alt="Is Our Market Headed for a Recession?" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Are we headed for a recession like the one back in 2007? Here’s what you need to know.<p>
-						<p class="readlink"><a href="/is-our-market-headed-for-a-recession.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/how-to-sell-your-home-during-covid-19.html">How to Sell Your Home During COVID-19</a></h2>
-					<!-- <span class="post-meta">
-						May 12, 2020
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/how-to-sell-your-home-during-covid-19.html">
-	            
-								
-	            		<img src="/uploads/05-12-cedillo-youtube.jpg" alt="How to Sell Your Home During COVID-19" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Our goal is to help serve your real estate needs no matter what.<p>
-						<p class="readlink"><a href="/how-to-sell-your-home-during-covid-19.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/the-relationship-between-recessions-and-the-housing-market.html">The Relationship Between Recessions and the Housing Market</a></h2>
-					<!-- <span class="post-meta">
-						May 4, 2020
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/the-relationship-between-recessions-and-the-housing-market.html">
-	            
-								
-	            		<img src="/uploads/05-04-cedillo-youtube.jpg" alt="The Relationship Between Recessions and the Housing Market" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>We’re not being overly optimistic when we say a crash isn’t imminent.<p>
-						<p class="readlink"><a href="/the-relationship-between-recessions-and-the-housing-market.html" class="readmore">Read More</a></p>
 				</div>
       </li>
 		</ul>
@@ -740,6 +773,42 @@
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 9, 2020</time> -->
+												 <a href="/were-offering-real-estate-financial-checkups.html">
+													 We’re Offering Real Estate Financial Checkups
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 4, 2020</time> -->
+												 <a href="/have-you-seen-our-latest-endorsement.html">
+													 Have You Seen Our Latest Endorsement?
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1298,6 +1367,15 @@
 									 
 										 
 											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
 												 <!-- <time>April 14, 2020</time> -->
 												 <a href="/key-safety-measures-for-showing-homes-safely.html">
 													 Key Safety Measures for Showing Homes Safely
@@ -1508,6 +1586,15 @@
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1806,7 +1893,7 @@
 
   <!-- Last page-->
   
-    <a href="/page16" class="last-page" target="_self" ></a>
+    <a href="/page17" class="last-page" target="_self" ></a>
   
 
 </div>
@@ -1953,7 +2040,7 @@
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2020 The HBR Team</p>
+				<p>&copy;2021 The HBR Team</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">

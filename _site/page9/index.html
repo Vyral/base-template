@@ -41,7 +41,7 @@
   <!-- Oldschool meta content -->
   <meta itemprop="description" content="If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The HBR Team - your professional Tracy Real Estate Agents.">
   <meta name="keywords" content="">
-  <meta name="copyright" content="Copyright © 2020">
+  <meta name="copyright" content="Copyright © 2021">
   <meta name="author" content="Ron & Eva Cedillo">
   <meta name="designer" content="Bryce Stradling">
   <meta name="email" content="ron@homebuyersrealty.com">
@@ -57,6 +57,37 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#810038">
+
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 </head>
 
 
@@ -92,6 +123,8 @@
 			
 				
       		<li><a href="/seller-seminar/">Seller Seminar</a></li>
+    		
+      		<li><a href="/guaranteed-offer/">Guaranteed Offer</a></li>
     		
 			
 			
@@ -140,7 +173,7 @@
 
     <i class="fa fa-times-circle fa-2x exit" aria-hidden="true"></i>
 
-    <form class="contact-form" method="post" action="http://formspree.io/ron@homebuyersrealty.com">
+    <form class="contact-form" method="post" action="/thankyou" id="contact-form">
       <input type="text" name="name" placeholder="Name" required>
       <input type="email" name="_replyto" placeholder="Email" required>
       <textarea name="Message" placeholder="Message"></textarea>
@@ -151,7 +184,7 @@
         <input type="text" name="_gotcha">
       </div>
 
-      <input type="submit" value="submit">
+      <button class="g-recaptcha" data-sitekey="6LeTtiwaAAAAALu4pJjpTpe3CgMikYnYo1kOLkcS" data-callback='onContactSubmit' data-badge="bottomleft">Submit</button>
     </form>
 
   </div>
@@ -234,6 +267,134 @@
       
 			<div class="row content-container">
 				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/getting-unstuck.html">Getting Unstuck</a></h2>
+					<!-- <span class="post-meta">
+						Jan 10, 2019
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/getting-unstuck.html">
+	            
+								
+	            		<img src="/uploads/ron-cedillo-feb-1-ss-no-play.jpg" alt="Getting Unstuck" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>Don’t feel trapped for even one more day. We’ll help you find the way out.<p>
+						<p class="readlink"><a href="/getting-unstuck.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/what-to-know-for-parents-of-a-first-time-buyer.html">What to Know for Parents of a First-Time Buyer</a></h2>
+					<!-- <span class="post-meta">
+						Dec 26, 2018
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/what-to-know-for-parents-of-a-first-time-buyer.html">
+	            
+								
+	            		<img src="/uploads/ron-cedillo-jan-2-ss-no-play.jpg" alt="What to Know for Parents of a First-Time Buyer" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>Most millennials face some financial difficulties buying their first home.<p>
+						<p class="readlink"><a href="/what-to-know-for-parents-of-a-first-time-buyer.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/what-do-increased-loan-limits-mean-for-you.html">What Do Increased Loan Limits Mean for You?</a></h2>
+					<!-- <span class="post-meta">
+						Dec 12, 2018
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/what-do-increased-loan-limits-mean-for-you.html">
+	            
+								
+	            		<img src="/uploads/ron-cedillo-jan-1-ss-no-play.jpg" alt="What Do Increased Loan Limits Mean for You?" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>Increased loan limits mean you’ll be saving money, but make sure you know what your limit is.<p>
+						<p class="readlink"><a href="/what-do-increased-loan-limits-mean-for-you.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
+					<h2 class="post-overview-title"><a class="post-link" href="/what-do-boomerang-buyers-need-to-know-about-our-market.html">What Do Boomerang Buyers Need to Know About Our Market?</a></h2>
+					<!-- <span class="post-meta">
+						Nov 26, 2018
+					</span> -->
+						<hr />
+					<!-- </div> -->
+
+			    <ul class="post-list">
+      <li>
+        <div class="col-lg-6 post-image-container">
+          <div class="post-excerpts">
+
+
+						<a href="/what-do-boomerang-buyers-need-to-know-about-our-market.html">
+	            
+								
+	            		<img src="/uploads/ron-cedillo-dec-1-ss-no-play.jpg" alt="What Do Boomerang Buyers Need to Know About Our Market?" class="post-image"/>
+								
+	            
+	          </a>
+          </div>
+        </div>
+				<div class="col-lg-6">
+					<p class='excerpt'>If you’re a boomerang buyer, there are a couple key things you need to keep in mind when re-entering our market.<p>
+						<p class="readlink"><a href="/what-do-boomerang-buyers-need-to-know-about-our-market.html" class="readmore">Read More</a></p>
+				</div>
+      </li>
+		</ul>
+</div>
+      
+			<div class="row content-container">
+				<!-- <div class="col-sm-12"> -->
 					<h2 class="post-overview-title"><a class="post-link" href="/an-opportunity-market-buyers-and-sellers-can-take-advantage-of.html">An Opportunity Market Buyers and Sellers Can Take Advantage Of</a></h2>
 					<!-- <span class="post-meta">
 						Nov 12, 2018
@@ -259,132 +420,6 @@
 				<div class="col-lg-6">
 					<p class='excerpt'>In our opportunity market, it’s not just price anymore that’s driving transactions. Here’s what we mean by that.<p>
 						<p class="readlink"><a href="/an-opportunity-market-buyers-and-sellers-can-take-advantage-of.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/youre-invited-to-our-annual-pie-wine-giveaway.html">You’re Invited to Our Annual Pie & Wine Giveaway</a></h2>
-					<!-- <span class="post-meta">
-						Oct 23, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/youre-invited-to-our-annual-pie-wine-giveaway.html">
-	            
-								
-	            		<img src="/uploads/ron-cedillo-nov-1-ss-no-play.jpg" alt="You’re Invited to Our Annual Pie & Wine Giveaway" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Stop by our office on November 19 & 20 for a free pie or homemade wine!<p>
-						<p class="readlink"><a href="/youre-invited-to-our-annual-pie-wine-giveaway.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/dont-let-talk-of-rising-interest-rates-stop-you-from-buying.html">Don’t Let Talk of Rising Interest Rates Stop You From Buying</a></h2>
-					<!-- <span class="post-meta">
-						Oct 9, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/dont-let-talk-of-rising-interest-rates-stop-you-from-buying.html">
-	            
-								
-	            		<img src="/uploads/ron-cedillo-oct-2-ss-no-play.jpg" alt="Don’t Let Talk of Rising Interest Rates Stop You From Buying" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Don’t let all this talk about rising interest rates scare you. Rates are still historically low and there are plenty of great opportunitie...
-						<p class="readlink"><a href="/dont-let-talk-of-rising-interest-rates-stop-you-from-buying.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/our-market-is-changing.html">Our Market Is Changing</a></h2>
-					<!-- <span class="post-meta">
-						Sep 25, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/our-market-is-changing.html">
-	            
-								
-	            		<img src="/uploads/ron-cedillo-oct-1-ss-no-play.jpg" alt="Our Market Is Changing" class="post-image"/>
-								
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Though our market is changing, both buyers and sellers have a good opportunity to get a great deal right now.<p>
-						<p class="readlink"><a href="/our-market-is-changing.html" class="readmore">Read More</a></p>
-				</div>
-      </li>
-		</ul>
-</div>
-      
-			<div class="row content-container">
-				<!-- <div class="col-sm-12"> -->
-					<h2 class="post-overview-title"><a class="post-link" href="/how-do-we-help-our-relocation-clients.html">How Do We Help Our Relocation Clients?</a></h2>
-					<!-- <span class="post-meta">
-						Aug 28, 2018
-					</span> -->
-						<hr />
-					<!-- </div> -->
-
-			    <ul class="post-list">
-      <li>
-        <div class="col-lg-6 post-image-container">
-          <div class="post-excerpts">
-
-
-						<a href="/how-do-we-help-our-relocation-clients.html">
-	            
-	            <img src="http://img.youtube.com/vi/-jgShVD8Qzg/maxresdefault.jpg" alt="How Do We Help Our Relocation Clients?" class="post-image" />
-	            
-	          </a>
-          </div>
-        </div>
-				<div class="col-lg-6">
-					<p class='excerpt'>Helping relocation clients is one of our specialties. Here’s an example of how we were recently able to help one such client.<p>
-						<p class="readlink"><a href="/how-do-we-help-our-relocation-clients.html" class="readmore">Read More</a></p>
 				</div>
       </li>
 		</ul>
@@ -738,6 +773,42 @@
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>December 9, 2020</time> -->
+												 <a href="/were-offering-real-estate-financial-checkups.html">
+													 We’re Offering Real Estate Financial Checkups
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
+												 <!-- <time>August 4, 2020</time> -->
+												 <a href="/have-you-seen-our-latest-endorsement.html">
+													 Have You Seen Our Latest Endorsement?
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1296,6 +1367,15 @@
 									 
 										 
 											 <li>
+												 <!-- <time>December 27, 2020</time> -->
+												 <a href="/what-is-an-as-is-offer.html">
+													 What Is an As-Is Offer?
+												 </a>
+											 </li>
+										 
+									 
+										 
+											 <li>
 												 <!-- <time>April 14, 2020</time> -->
 												 <a href="/key-safety-measures-for-showing-homes-safely.html">
 													 Key Safety Measures for Showing Homes Safely
@@ -1506,6 +1586,15 @@
 										 
 									 
 								 
+									 
+										 
+											 <li>
+												 <!-- <time>January 7, 2021</time> -->
+												 <a href="/our-expectations-for-the-2021-market.html">
+													 Our Expectations For the 2021 Market
+												 </a>
+											 </li>
+										 
 									 
 										 
 											 <li>
@@ -1809,7 +1898,7 @@
 
   <!-- Last page-->
   
-    <a href="/page16" class="last-page" target="_self" ></a>
+    <a href="/page17" class="last-page" target="_self" ></a>
   
 
 </div>
@@ -1956,7 +2045,7 @@
 	  </div>
 	  <div class="attribution">
 			
-				<p>&copy;2020 The HBR Team</p>
+				<p>&copy;2021 The HBR Team</p>
 			
 	    Proudly Brought To You By
 	    <a href="http://getvyral.com" target="_blank">
