@@ -15,7 +15,7 @@ youtube_code: CuBzPzI3lic
 
 {% include youtube.html %}
 
-Here’s what happened in real estate last year and what might happen in 2021
+<center>Here’s what happened in real estate last year and what might happen in 2021.</center>
 
 Today we’re going to take a look at the final numbers for our real estate market in 2020 and make some predictions about what’s going to happen in the next year.&nbsp;
 
