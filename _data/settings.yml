@@ -1,12 +1,10 @@
 audit_header: false
-<<<<<<< HEAD
 title: Colemere Realty and Associates
 description: >-
   If you are looking to buy or sell a home, get all the information and the
   latest updates, tips, and tricks from Colemere Realty and Associates - your
   professional Wasatch Front Real Estate Agents.
 show_custom_links:
-=======
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: true
@@ -22,7 +20,6 @@ forms:
   sitekey: 6LdFSiwaAAAAAHog36XrNsEiUxfUB5aYoWPySgQL
 
 client:
-<<<<<<< HEAD
   clients:
     - name: Bryan Colemere
       client_headshot_path: /img/headshot1.jpg
@@ -73,22 +70,7 @@ socials:
   gplus_url:
   youtube_url: 'https://www.youtube.com/channel/UC3MPsAkkbFjc6lNxgDshMLQ'
   twitter_url: 'https://twitter.com/bryancolemere'
-=======
-  name:
-  title:
-  license_number:
-  about_markdown: |
 
-  brand:
-  brokerage:
-  market:
-  address:
-  phone:
-  phone_type:
-  phone2:
-  phone2_type:
-  email:
-  url:
 
 CTAs:
   first_CTA_text: Home Valuation
@@ -129,12 +111,10 @@ socials:
   linkedin_url:
   youtube_url:
   twitter_url:
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
   instagram_url:
   pinterest_url:
   zillow_url: 'http://www.zillow.com/profile/bcolemere/'
   trulia_url:
-<<<<<<< HEAD
   yelp_url: 'https://www.yelp.com/biz/bryan-colemere-colemere-realty-riverton'
   podcast_url: >-
     https://itunes.apple.com/us/podcast/colemere-realty-associates/id1177583830?mt=2
@@ -168,9 +148,7 @@ theme_color: '#0b2972'
 theme_text_color: '#353535'
 main_body_color: '#ffffff'
 main_body_text_color: '#353535'
-=======
-  yelp_url:
-  podcast_url:
+
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -215,4 +193,4 @@ buttons:
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
   secondary_button_text_color: '#ffffff'
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
+
