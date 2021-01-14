@@ -3,12 +3,8 @@ title: "Andross"
 baseurl: ""
 # the base hostname & protocol for your site. Don't let it end in '/' or you'll mess the links up
 # Change for production:
-<<<<<<< HEAD
 
 url: "http://colemererealtyvideoblog.com"
-=======
-url: "localhost:4000"
->>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
 
 # Build settings
 markdown: kramdown
