@@ -1,4 +1,4 @@
-<form method="post" class="home-value cta-forms" action="https://formspree.io/{{site.data.settings.client.email}}" onsubmit="return setReturn()">
+<form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
@@ -140,8 +140,7 @@
         </label>
         <input type="text" name="address">
         <!-- submit! -->
-        <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
-        <span class="asterisk">*</span>required
+        <button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit</button>
     </fieldset>
     <!-- Cloud cannon settings field -->
     <div class="hidden">
@@ -150,10 +149,3 @@
       <input type="text" name="_gotcha">
     </div>
 </form>
-<script>
-function setReturn(){
-  localStorage.setItem("thanks", "Your request was sent successfully!");
-  document.getElementById("thanks").innerHTML =    localStorage.getItem("thanks");
-  localStorage.clear();
-}
-</script>

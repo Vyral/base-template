@@ -64,6 +64,36 @@
 	<meta name="theme-color" content="#a10404">
 
 
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 	<meta name="theme-color" content="#999">
 </head>
 
@@ -196,7 +226,7 @@
   <a href="mailto:"></a>
 </address>
 
-<form class="contact-form" method="post" action="https://formspree.io/">
+<form class="contact-form" method="post" action="/thankyou" id="contact-form">
   <input type="text" name="name" placeholder="Name" required>
   <input type="email" name="_replyto" placeholder="Email" required>
   <textarea name="Message" placeholder="Message"></textarea>
@@ -207,7 +237,7 @@
     <input type="text" name="_gotcha">
   </div>
 
-  <input type="submit" value="submit">
+  <button class="g-recaptcha" data-sitekey="6LdFSiwaAAAAAHog36XrNsEiUxfUB5aYoWPySgQL" data-callback='onContactSubmit' data-badge="bottomleft">Submit</button>
 </form>
 
 

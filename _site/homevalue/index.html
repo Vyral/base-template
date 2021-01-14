@@ -64,6 +64,36 @@
 	<meta name="theme-color" content="#a10404">
 
 
+	<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+	<script>
+		function onContactSubmit(token) {
+		document.getElementById("contact-form").submit();
+	}
+
+	function onHomeValueSubmit(token) {
+	document.getElementById("home-value-form").submit();
+	}
+
+	function onHomeSearchSubmit(token) {
+	document.getElementById("home-search-form").submit();
+	}
+
+		function onJoinOurTeamSubmit(token) {
+	  document.getElementById("join-our-team-form").submit();
+	}
+
+
+		function onStrategyCallSubmit(token) {
+	  document.getElementById("strategy-call-form").submit();
+	}
+
+		function onGuaranteedOfferSubmit(token) {
+	  document.getElementById("guaranteed-offer-form").submit();
+	}
+
+	</script>
+
+
 	<meta name="theme-color" content="#999">
 </head>
 
@@ -184,7 +214,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
-					<form method="post" class="home-value cta-forms" action="https://formspree.io/" onsubmit="return setReturn()">
+					<form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
@@ -326,8 +356,7 @@
         </label>
         <input type="text" name="address">
         <!-- submit! -->
-        <input class="submit light-light" type="submit" value="Submit" name="submitSellerForm">
-        <span class="asterisk">*</span>required
+        <button class="g-recaptcha" data-sitekey="6LdFSiwaAAAAAHog36XrNsEiUxfUB5aYoWPySgQL" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit</button>
     </fieldset>
     <!-- Cloud cannon settings field -->
     <div class="hidden">
@@ -336,13 +365,6 @@
       <input type="text" name="_gotcha">
     </div>
 </form>
-<script>
-function setReturn(){
-  localStorage.setItem("thanks", "Your request was sent successfully!");
-  document.getElementById("thanks").innerHTML =    localStorage.getItem("thanks");
-  localStorage.clear();
-}
-</script>
 
 
 				</div>
