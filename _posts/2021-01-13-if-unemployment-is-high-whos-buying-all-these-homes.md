@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If Unemployment Is High, Who’s Buying All These Homes?'
-date: 2021-01-13 16:44:16
+date: 2021-01-13 16:44:00
 tags:
   - Market Update
 excerpt: Here's how home values have been appreciating despite high unemployment.
@@ -14,12 +14,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 9hsGrwoFXOw
+youtube_code: IDidJwYFfyM
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here's how home values have been appreciating despite high unemployment.</em></p>
+*Here's how home values have been appreciating despite high unemployment.*
 
 How is it that prices continue to shoot up while unemployment hovers around 7%? The Case-Shiller Index, which tracks homes, announced that **September 2020 had the highest level of appreciation for a single month in the last 20 years**—that means it was higher than the run-up of 2012 and 2013 and the run-up of 2005 and 2006\! A lot of this has to do with the historically low interest rates fueling demand while inventory remains scarce.&nbsp;
 
@@ -31,6 +31,6 @@ Here’s what that data means on a practical level: If you’re considering sell
 
 Toward the left side of the graph, though, you’ll find the professional and business sector of our economy, as well as the financial and construction sectors; relatively speaking, COVID has had very little impact on the overall health of these sectors, as many workers therein were able to transition to working from home and spring losses were able to be recouped.
 
-As service industries suffer, **workers in a multitude of other industries are enjoying job stability and being incentivized by historically low rates to make a move in the market sooner than later;** their purchasing power has never been stronger. For serious sellers, listing your home now to capture this demand should be a no-brainer; depending on the specific neighborhood, we’re witnessing 10% to even 20% appreciation in the San Fernando Valley. A top-dollar sale has never been more achievable. 
+As service industries suffer, **workers in a multitude of other industries are enjoying job stability and being incentivized by historically low rates to make a move in the market sooner than later;** their purchasing power has never been stronger. For serious sellers, listing your home now to capture this demand should be a no-brainer; depending on the specific neighborhood, we’re witnessing 10% to even 20% appreciation in the San Fernando Valley. A top-dollar sale has never been more achievable.
 
 If you have further questions about this or any other real estate topic, just give me a call or send me an email. I’d love to learn more about your situation and find out how I can be of assistance. I look forward to hearing from you soon in this new year\!
