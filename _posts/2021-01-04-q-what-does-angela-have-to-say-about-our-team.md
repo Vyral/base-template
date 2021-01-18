@@ -5,7 +5,7 @@ date: 2021-01-04 16:00:00
 tags:
   - Real Estate
 excerpt: Here’s why Angela Massimino believes Carbutti & Co. is a cut above.
-enclosure: 's3://vyralmarketing/Jonathan Carbutti/Angela Testimonial.mp4'
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/What+Does+Angela+Have+to+Say+About+Our+Team_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
