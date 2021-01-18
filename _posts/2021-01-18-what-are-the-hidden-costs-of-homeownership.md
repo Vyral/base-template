@@ -19,7 +19,7 @@ youtube_code: Z0vfGMglN5E
 
 {% include youtube.html %}
 
-There are five hidden costs associated with buying and owning a home.
+<p style="text-align: center;"><em>There are five hidden costs associated with buying and owning a home.</em></p>
 
 There are more costs to buying and owning a home than just a monthly mortgage payment. Here are the five hidden costs of homeownership:
 
