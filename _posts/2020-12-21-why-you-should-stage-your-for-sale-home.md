@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Why You Should Stage Your For-Sale Home
-date: 2021-1-4 11:00:00
+date: 2021-1-18 11:00:00
 tags:
   - Home Seller Tips
 excerpt: These are the top four reasons you need to stage your for-sale property.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_.mp4
 pullquote: >-
   Staging is still one of the key things we can do to prepare your house for the
   market.
