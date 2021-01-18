@@ -5,7 +5,7 @@ date: 2020-12-22 00:22:00
 tags:
   - Home Seller Tips
 excerpt: Here are some before-and-after pics that prove staging’s efficacy.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4
 pullquote: >-
   Staging fosters that all-important leap in a buyer’s mind from ‘This is a nice
   place’ to ‘Wow, I can see myself living here.’
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: Jt2lqwYXVyw
+youtube_code: qDHVNX8inDk
 ---
 
 {% include youtube.html %}
