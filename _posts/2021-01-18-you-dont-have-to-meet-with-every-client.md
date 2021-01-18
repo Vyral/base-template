@@ -17,7 +17,7 @@ youtube_code: pFacl78fOhE
 
 {% include youtube.html %}
 
-Stop meeting with every client but still maximize customer satisfaction.
+<p style="text-align: center;"><em>Stop meeting with every client but still maximize customer satisfaction.</em></p>
 
 How can you stop meeting with every client but still maximize customer satisfaction? **I get it—we can be control freaks**, we have to do everything ourselves, and no one can do it better than us. I felt the same way for many years.&nbsp;
 
