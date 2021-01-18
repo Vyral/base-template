@@ -19,7 +19,7 @@ youtube_code: GhTHUKgoUj4
 
 {% include youtube.html %}
 
-We’re facing a massive inventory crisis in our St. George market.
+<p style="text-align: center;"><em>We’re facing a massive inventory crisis in our St. George market.</em></p>
 
 At the end of 2020, housing inventory nationwide hit an all-time low. You read that right: the lowest in recorded history. What does that mean for buyers and sellers in Washington County?
 
