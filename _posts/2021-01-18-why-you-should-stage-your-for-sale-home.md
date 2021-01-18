@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Do You Feel When You See These Pics?
+title: Why You Should Stage Your For-Sale Home
 date: 2021-01-18 11:00:00
 tags:
   - Home Seller Tips
