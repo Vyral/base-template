@@ -34,4 +34,4 @@ Today, in the first installment of our two-part series about home staging, I’m
 
 The real estate climate has shifted, but staging is still one of the key things we can do to prepare your house for the market. Pricing correctly is the most crucial thing, but the property’s physical condition and appearance is the second-most essential aspect of a sale. We don’t see that changing anytime soon.
 
-**Stay tuned for part two of this home staging series** where we’ll do a case study of a staged home\! If you or anyone you know is considering making a move and would like to speak with us about what to do to prepare for a sale, please reach out via phone or email. We’re happy to help.
+**Stay tuned for part two of this home staging series** where we’ll do a case study of a staged home! If you or anyone you know is considering making a move and would like to speak with us about what to do to prepare for a sale, please reach out via phone or email. We’re happy to help.
