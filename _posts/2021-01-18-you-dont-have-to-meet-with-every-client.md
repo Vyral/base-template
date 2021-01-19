@@ -29,4 +29,4 @@ The way you can serve every client the same way and still maximize customer sati
 
 **If you follow this advice, your clients won’t be expecting you, but your standard of service.** This can help you get some of your time back.&nbsp;
 
-If you’d like a free copy of our contract-to-close checklist, our listing experience, or any of the checklists we use that are documented to train someone in your business or give yourself some extra leverage, reach out to us via phone or email. We hope to speak with you soon.
+If you’d like a free copy of our contract-to-close checklist, our listing experience, or any of the checklists we use that are documented to train someone in your business or give yourself some extra leverage, call or email us at 717.216.0860 or dave@davehooketeam.com. We hope to speak with you soon.
