@@ -23,7 +23,7 @@ How can you stop meeting with every client but still maximize customer satisfact
 
 Then a very wise consultant told me, “Dave, you’re not that important. What people appreciate about you isn’t really you, it’s the standard and systems that you set. They’ve come to expect the level of service you deliver. ” Each of you reading this has a level of service or standard that you habitually deliver.&nbsp;
 
-The reality is that the way you can serve every client the same way and still maximize customer satisfaction is to document your process and exactly what your standard of service is. For example, when we list a property, we have 125 steps we follow, which are the same steps I followed when I did it all myself. We still use the same steps because people have come to expect that level of service from us. Get out of the way, and let other people serve your clients in the same way you would.
+The way you can serve every client the same way and still maximize customer satisfaction is to document your process and exactly what your standard of service is. For example, when we list a property, we have 125 steps we follow, which are the same steps I followed when I did it all myself. We still use the same steps because people have come to expect that level of service from us. Get out of the way, and let other people serve your clients in the same way you would.
 
 {% include pullquote.html %}
 
