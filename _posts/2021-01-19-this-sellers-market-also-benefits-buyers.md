@@ -17,7 +17,7 @@ youtube_code: JatQgvBbiLM
 
 {% include youtube.html %}
 
-Here’s how our current seller’s market definitely benefits buyers too.
+<p style="text-align: center;"><em>Here’s how our current seller’s market definitely benefits buyers too.</em></p>
 
 We’re in a classic seller’s market, but the current market can also be beneficial to buyers.
 
