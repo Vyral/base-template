@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Today we’re looking at what 2021 may bring to our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/Our+Expectations+For+the+2021+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
