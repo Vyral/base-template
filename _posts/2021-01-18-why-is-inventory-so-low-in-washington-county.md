@@ -23,7 +23,7 @@ youtube_code: GhTHUKgoUj4
 
 At the end of 2020, housing inventory nationwide hit an all-time low. You read that right: the lowest in recorded history. What does that mean for buyers and sellers in Washington County?
 
-To have a balanced market that produces healthy appreciation over time, we need roughly 1,400 homes available for sale. As it stands, we only have about 400. Where are all these buyers coming from? You name it: California, Nevada, Virginia, Florida, etc. They’re coming from everywhere.&nbsp;
+To have a balanced market that produces healthy appreciation over time, we need roughly 1,400 homes available for sale. As it stands, we only have about 400. Where are all these buyers coming from? You name it: California, Nevada, Virginia, Florida&#151;you name it; they’re coming from everywhere.
 
 **In the $200,000 to $300,000 price range in Washington County, we only have 0.3 months of available inventory.** That means it would only take a third of a month to sell all the homes for sale (i.e., 10 days). We typically keep a four- to six-month supply of homes.
 
