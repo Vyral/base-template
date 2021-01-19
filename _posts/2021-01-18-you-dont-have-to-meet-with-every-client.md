@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You Don’t Have to Meet With Every Client
+title: 'You Don’t Have to Meet With Every Client?!'
 date: 2021-01-18 16:14:08
 tags:
   - Transaction Management
