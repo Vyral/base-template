@@ -35,4 +35,4 @@ There are more costs to buying and owning a home than just a monthly mortgage pa
 
 **5\. Property utilities.** Get a copy of these from the previous owner of the property so you can factor in an estimate of these costs. These include heating, electricity, water, sewer, etc.
 
-If you can think of another hidden cost of homeownership or have any questions, don’t hesitate to reach out via phone or email. We’ll follow up and take excellent care of you.
+If you can think of another hidden cost of homeownership or have any questions, don’t hesitate to call or email us at 717.216.0860 or dave@davehooketeam.com. We’ll follow up and take excellent care of you.
