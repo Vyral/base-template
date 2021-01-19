@@ -4,7 +4,7 @@ title: You Don’t Have to Meet With Every Client
 date: 2021-01-18 16:14:08
 tags:
   - Transaction Management
-excerpt: Stop meeting with every client but still maximize customer satisfaction.
+excerpt: You can stop meeting with every client and still maximize customer satisfaction.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2021/Central+PA+Real+Estate+Agent_+How+Can+You+Stop+Being+the+One+to+Meet+with+Every+Single+Client.mp4
 pullquote: Document your process and exactly what your standard of service is.
@@ -17,7 +17,7 @@ youtube_code: pFacl78fOhE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Stop meeting with every client but still maximize customer satisfaction.</em></p>
+<p style="text-align: center;"><em>You can stop meeting with every client and still maximize customer satisfaction.</em></p>
 
 How can you stop meeting with every client but still maximize customer satisfaction? **I get it—we can be control freaks**, we have to do everything ourselves, and no one can do it better than us. I felt the same way for many years.&nbsp;
 
