@@ -17,7 +17,7 @@ youtube_code: fFHywDU45pE
 
 {% include youtube.html %}
 
-Sellers, avoid these five mistakes when putting your home on the market.
+<p style="text-aign: center;"><em>Sellers, avoid these five mistakes when putting your home on the market.</em></p>
 
 Right now, ours is a seller’s market, which favors homeowners considerably. That said, it doesn’t mean that sellers can do no wrong or put their transactions at risk. Today we’ll share the five most common mistakes home sellers make and why you should avoid them:
 
