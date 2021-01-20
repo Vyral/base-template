@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Is Inventory so Low in Washington County?
+title: Houston, We Have a Problem in Washington County!
 date: 2021-01-18 17:49:45
 tags:
   - Market Update
