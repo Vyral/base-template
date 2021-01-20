@@ -21,7 +21,7 @@ youtube_code: fFHywDU45pE
 
 Right now, ours is a seller’s market, which favors homeowners considerably. That said, it doesn’t mean that sellers can do no wrong or put their transactions at risk. Today we’ll share the five most common mistakes home sellers make and why you should avoid them:
 
-**1\. Picking the wrong agent.** Real estate agents are a dime a dozen; you need one with plenty of experience. Last year, our team sold over 600 homes, where the average agent only sells about eight.
+**1\. Picking the wrong agent.** Real estate agents are a dime a dozen; you need one with plenty of experience. Last year, our team sold over 600 homes, while the average agent only sells about eight.
 
 **2\. Overpricing your home.** Most sellers tend to love their homes more than their potential buyers do. It’s our job to make sure that your home is priced appropriately for the market so that you’ll have the best outcome. If your overpriced home sits on the market in today’s climate, you’ll have lost out on the most important marketing time you have. Remember that today’s consumers are savvy and know what homes are worth.
 
