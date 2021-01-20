@@ -5,7 +5,7 @@ date: 2021-01-20 20:36:25
 tags:
   - Real Estate
 excerpt: Here’s what mortgage guru Rick Scherer projects for lending in 2021.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/What+Will+Happen+to+Rates+in+2021_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +15,8 @@ youtube_code: gOc8m2iCoRA
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Here’s what mortgage guru Rick Scherer projects for lending in 2021.</em></p>
 
 For today’s message, we’re joined by special guest Rick Scherer from OnTo Mortgages to talk about the mortgage outlook for 2021 and what we should expect to see in the lending world. In addition to being a good friend of mine and a longtime business partner, Rick is a rockstar in his industry. From his vantage point, he can see how the government is leveraging mortgage interest rates and what’s known as the prime rate of interest to boost the economy while our nation recovers from the blitz of COVID-19; that translates to good news for consumers, at least through the first half of the year: “Until we start to see some solid footing underneath us with the economy, rates will be low.”
 
