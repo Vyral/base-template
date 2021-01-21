@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The future of our market looks good in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/What+Does+2021+Have+in+Store+for+Our+Market_.mp4
 pullquote: >-
   Although the economy took several unexpected turns in 2020, the housing market
   remained on solid ground.
