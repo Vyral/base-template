@@ -17,7 +17,7 @@ youtube_code: NQOL7V8nHeU
 
 {% include youtube.html %}
 
-Here’s what to consider when deciding how to put your home on the market.
+<p style="text-align: center;"><em>Here’s what to consider when deciding how to put your home on the market.</em></p>
 
 If you decide to put your house on the market, should you fix it up or sell it as a fixer-upper? To answer this question, consider who you’re selling the home to and where it’s located. Many times, if buyers hear the term ‘fixer-upper,’ they’ll think they’re getting a bargain. **A fixer-upper can work if you’re in a premium location and inventory is low,** but if you’re not, buyers may come in at a very low price. You might also attract investors who are looking to fix and flip, which also means you won’t get the maximum value from the property.
 
