@@ -25,11 +25,11 @@ In today’s post, I want to address three different topics. First, I’ll give 
 
 The real estate market is still remarkably hot right now; sellers are still getting multiple offers on their homes, which often sell for more than their list price, depending on where they are and in which price point they’re listed. That means it’s a great time to be a seller—maybe even one of the best times to sell in the next few years. More and more people are moving out of upstate New York at an accelerated pace.
 
-For buyers, even though prices have gone up dramatically—by about 10% over the last year—interest rates have decreased. That means it’s still affordable to buy a home, especially compared to a few years ago when rates were around 6%. If you purchased a home now, you could lock in a 2.6% rate for a 30-year fixed-rate mortgage.
+For buyers, even though prices have gone up dramatically—about 10% over the last year—interest rates have decreased. That means it’s still affordable to buy a home, especially compared to a few years ago when rates were around 6%. If you purchased a home now, you could lock in a 2.6% rate for a 30-year fixed-rate mortgage.
 
 **New Year’s Resolutions:**
 
-New Year’s Day has come and gone\! They say it takes 21 days to create a new habit, so by now, you’ve either stuck to your resolutions and created a new habit for yourself, or like 80% of people, you’ve failed your New Year’s resolutions. Ultimately, we make resolutions to make ourselves happy, such as by going to the gym, quitting drinking, eating healthier, etc. COVID has brought so many people pain and stress, but life is all about overcoming adversity.
+New Year’s Day has come and gone\! They say it takes 21 days to create a new habit, so by now, you’ve either stuck to your resolutions and created a new habit for yourself, or, like 80% of people, you’ve failed your New Year’s resolutions. Ultimately, we make resolutions to make ourselves happy, such as by going to the gym, quitting drinking, eating healthier, etc. COVID has brought so many people pain and stress, but life is all about overcoming adversity.
 
 {% include pullquote.html %}
 
@@ -39,6 +39,6 @@ We also donated some of the funds to individual cases. One person I helped found
 
 **Are You Struggling?**
 
-If you’re struggling or out of work, know that my team is growing. We’ve been extremely busy lately, and I have two open spots on my team for someone who loves people and is coachable and motivated. The job is long hours, but it’s both fulfilling and a lot of fun. If you or someone you know is interested in a career in real estate, I can help you get yourself licensed in three weeks and have you out training and selling real estate within a month.
+If you’re struggling or out of work, know that my team is growing. We’ve been extremely busy lately, and I have two open spots on my team for someone who loves people and is coachable and motivated. The job involves long hours, but it’s both fulfilling and a lot of fun. If you or someone you know is interested in a career in real estate, I can help you get yourself licensed in three weeks and have you out training and selling real estate within a month.
 
 As always, if you have any questions, don’t hesitate to reach out to us. We’d love to help you.
