@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: VkDIedji9zc
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how home appraisals work and why you don’t need to be nervous.</em></p>
+*Here’s how home appraisals work and why you don’t need to be nervous.*
 
 A lot of homebuyers get nervous about home appraisals and want to know what their options are if a home doesn’t appraise. The appraiser is geared to protect the homebuyer and the bank. **The bank will hire a third party to run the appraisal to make sure the home’s value supports the amount of the loan**, ensuring you don't overpay. The appraiser will look at the home’s condition to make sure it’s comparable to the value of other homes that have recently sold in the market.&nbsp;
 
