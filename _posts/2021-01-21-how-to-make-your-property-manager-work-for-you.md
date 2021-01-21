@@ -17,7 +17,7 @@ youtube_code: ZOwEcS61ekg
 
 {% include youtube.html %}
 
-<center>Here&rsquo;s how your property manager should protect your investment.</center>
+<center><em>Here&rsquo;s how your property manager should protect your investment.</em></center>
 
 <center>&nbsp;</center>
 
