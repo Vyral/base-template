@@ -18,7 +18,7 @@ youtube_code: 0taU3geJELk
 
 {% include youtube.html %}
 
-Here are the basics about Proposition 19 and how you may be affected.
+<p style="text-align: center;"><em>Here are the basics about Proposition 19 and how you may be affected.</em></p>
 
 How does Proposition 19 affect you?&nbsp;
 
