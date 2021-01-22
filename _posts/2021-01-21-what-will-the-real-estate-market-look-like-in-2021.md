@@ -17,7 +17,7 @@ youtube_code: YQAc_K6gmTw
 
 {% include youtube.html %}
 
-Here’s what buyers and sellers need to know about our 2021 market.&nbsp;
+<center>Here’s what buyers and sellers need to know about our 2021 market.&nbsp;</center>
 
 What will the real estate market look like in 2021?&nbsp;
 
