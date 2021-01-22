@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Will the Real Estate Market Look Like in 2021?
-date: 2021-01-21 20:11:16
+date: 2021-01-21 20:11:00
 tags:
 excerpt: Here’s what buyers and sellers need to know about our 2021 market.
 enclosure:
@@ -17,7 +17,9 @@ youtube_code: YQAc_K6gmTw
 
 {% include youtube.html %}
 
-<center>Here’s what buyers and sellers need to know about our 2021 market.&nbsp;</center>
+<center><em>Here&rsquo;s what buyers and sellers need to know about our 2021 market.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 What will the real estate market look like in 2021?&nbsp;
 
