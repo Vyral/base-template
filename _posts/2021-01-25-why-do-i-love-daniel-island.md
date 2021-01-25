@@ -17,7 +17,7 @@ youtube_code: oC_-oI-r_x0
 
 {% include youtube.html %}
 
-Join me for a tour of gorgeous Daniel Island, South Carolina.
+<p style="text-align: center;"><em>Join me for a tour of gorgeous Daniel Island, South Carolina.</em></p>
 
 There are so many things to love about Daniel Island life. Daniel Island was built to enjoy the outdoors. With our great parks, trails, and available boat ramps, there is so much on the island.
 
