@@ -47,3 +47,7 @@ spring in 2021!
 Wanna scratch that itch about what your home’s value may be? Start [HERE](https://hmbt.co/Ce4JQV) with our “HomeBot” service. I promise you’ll love it! 
 
 Call us directly at 435-215-4533 if you want to open up a conversation about selling your home, buying another, or just to catch up!
+
+**PS!! Here's a list of our active, ready, willing and able Buyer clients who would buy TODAY if they found their home! Please call, email, text, or courier pigeon ASAP if you or a friend's home is a match!**
+
+<img src="https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2021/unnamed.png" width="100%">
