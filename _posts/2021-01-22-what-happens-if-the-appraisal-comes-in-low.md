@@ -32,6 +32,6 @@ Once we have a final appraised value (adjusted or not), we present it to both th
 
 {% include pullquote.html %}
 
-If, however, the answer in each instance is ‘no,’ then the buyer has a right to cancel the transaction per the appraisal contingency. As mentioned above, though, low appraisal scenarios &nbsp;seldom catch us by surprise. In anticipation of a low appraisal, we implement a proactive strategy, like drafting an agreement that states the buyer will pay X amount of dollars over appraised value, etc.
+If, however, the answer in each instance is ‘no,’ then the buyer has a right to cancel the transaction per the appraisal contingency. As mentioned above, though, low appraisal scenarios seldom catch us by surprise. In anticipation of a low appraisal, we implement a proactive strategy, like drafting an agreement that states the buyer will pay X amount of dollars over appraised value, etc.
 
 If you have further appraisal questions or are thinking about buying or selling a home soon here in the new year, please feel free to reach out by phone or email. I’m always available to help with whatever real estate needs you may have.
