@@ -48,6 +48,10 @@ CTAs:
   first_CTA_URL: 'http://victoriasellssd.com/home-value-analysis/'
   second_CTA_text: Home Search
   second_CTA_URL: 'http://victoriasellssd.com/basic-search/'
+
+forms:
+  sitekey: 6LfiNz0aAAAAALu0lvrfe_yg8inpKCETvxBtYiY4
+
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809436';</script><script
