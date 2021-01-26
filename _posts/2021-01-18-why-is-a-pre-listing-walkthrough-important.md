@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: 'Before you sell your home, make sure you have a pre-listing walkthrough.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Why+Is+a+Pre-Listing+Walkthrough+Important_.mp4
 pullquote: Missing this step puts you at a disadvantage to sellers who don’t.
 enclosure_type: video/mp4
 enclosure_time:
