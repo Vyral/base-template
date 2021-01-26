@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Home Renovations Offer the Best Return?
-date: 2021-01-26 17:10:29
+date: 2021-01-27 17:10:29
 tags:
   - Home Seller Tips
 excerpt: Here’s my advice on which home renovations to pursue for a great ROI.
