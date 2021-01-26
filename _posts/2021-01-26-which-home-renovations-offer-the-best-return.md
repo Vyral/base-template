@@ -16,7 +16,7 @@ youtube_code:
 
 {% include youtube.html %}
 
-Here’s my advice on which home renovations to pursue for a great ROI.
+<p style="text-align: center;"><em>Here’s my advice on which home renovations to pursue for a great ROI.</em></p>
 
 In my opinion, the two most important areas to renovate in your home are **the kitchen and the master bathroom.** Potential buyers will be checking out the cabinetry in your kitchen, as well as all the countertops, appliances, and flooring. As far as the master bathroom is concerned, they’ll be paying special attention to upgrades that help make the space feel more like their own personal space (e.g., sleek showers, jacuzzi tubs, and modern fixtures).&nbsp;
 
