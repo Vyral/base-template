@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: Here’s how our current seller’s market benefits buyers too.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+Daniel+Island+Tour.mp4
+  https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+seller's+market+2.mp4
 pullquote: It’s a wonderful time to both buy and sell.
 enclosure_type: video/mp4
 enclosure_time:
