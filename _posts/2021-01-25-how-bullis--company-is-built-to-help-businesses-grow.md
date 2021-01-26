@@ -18,7 +18,7 @@ youtube_code: YLryUzqzvJ0
 
 <center><em>Kelly Bullis joined me to talk about their unique solutions for businesses.</em></center>
 
-<br>Today I’m honored to be joined by Kelly Bullis, CPA and president of Bullis & Company. He’s a second-generation leader as his father started the firm in 1965 and they’ve been able to help a ton of clients. They are a CPA firm that offers a lot of different services, and I sat down with Kelly recently to talk all about those services and much more.
+<br>Today I’m honored to be joined by Kelly Bullis, CPA and president of Bullis & Company. He’s a second-generation leader as his father started the firm in 1965, and they’ve been able to help a ton of clients. They are a CPA firm that offers a lot of different services, and I sat down with Kelly recently to talk all about those services and much more.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:**
 
@@ -34,6 +34,4 @@ youtube_code: YLryUzqzvJ0
 
 6:10 — Wrapping things up
 
-If you have any questions for Kelly, visit <u><a target="_blank" rel="noopener" href="http://bullisandco.com/">Bullis &amp; Company&rsquo;s website</a></u> of give him a call directly at (775) 882-4459.
-
-If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+**If you have any questions for Kelly, visit <u><a target="_blank" rel="noopener" href="http://bullisandco.com/">Bullis &amp; Company&rsquo;s website</a></u>** or give him a call directly at (775) 882-4459. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
