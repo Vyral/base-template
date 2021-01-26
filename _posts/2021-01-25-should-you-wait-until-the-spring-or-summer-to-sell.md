@@ -25,7 +25,7 @@ For one, **interest rates have reached historic lows**, meaning more people can 
 
 {% include pullquote.html %}
 
-**Demand is at an all-time high**. Home sales in the Calgary region are the highest they’ve been since 2007. We’re not sure how much longer this will last; it may just be a pocket in the market, or it may continue.
+**Additionally, demand is at an all-time high**. Home sales in the Calgary region are the highest they’ve been since 2007. We’re not sure how much longer this will last; it may just be a pocket in the market, or it may continue.
 
 **There is also less competition right now**. Inventory is low and demand is high, and in some price ranges, your odds of selling within 90 days are over 100%.
 
