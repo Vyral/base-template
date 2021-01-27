@@ -19,6 +19,6 @@ youtube_code: DRbQXDzpBz8
 
 <p style="text-align: center;"><em>Sellers, this a great time to put your home on the market.</em></p>
 
-Homeowners of Island of Palms and Wild Dunes: I’ve been selling real estate for over 12 years and **I’ve never seen a better time to sell your home.** We currently have 2,100 homes available in the Charleston area market when we usually have around 5,000 homes available at this time. In the Island of Palms area, inventory is even more drastically reduced. Buyers are coming to the area in droves—many are looking for second homes as a result of the pandemic—and the homes that are selling are doing so very quickly and for the highest possible price. But we simply don’t have enough inventory to meet demand.
+Homeowners of Isle of Palms and Wild Dunes: I’ve been selling real estate for over 12 years and **I’ve never seen a better time to sell your home.** We currently have 2,100 homes available in the Charleston area market when we usually have around 5,000 homes available at this time. In the Isle of Palms area, inventory is even more drastically reduced. Buyers are coming to the area in droves—many are looking for second homes as a result of the pandemic—and the homes that are selling are doing so very quickly and for the highest possible price. But we simply don’t have enough inventory to meet demand.
 
 If you’ve thought about listing your home and would like to know what your home’s current value is, or you have any questions about the real estate market, don’t hesitate to reach out to me. I'd love to speak with you.
