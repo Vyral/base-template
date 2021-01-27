@@ -17,7 +17,7 @@ youtube_code: csAqevqgxdc
 
 {% include youtube.html %}
 
-Here are five great tips for first-time homebuyers in 2021.
+<p style="text-align: center;"><am>Here are five great tips for first-time homebuyers in 2021.</am></p>
 
 If you want to buy your first home in 2021, here are the top five things that you can do right now to prepare and make sure you’re ready:
 
