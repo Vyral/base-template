@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: 'Here’s how we deal with low appraisals (hint: the key is being proactive).'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/What+Happens+If+the+Appraisal+Comes+in+Low_.mp4
 pullquote: >-
   More often than not, appraisers aren’t going to change the value—a successful
   petition for adjustment is rare.
