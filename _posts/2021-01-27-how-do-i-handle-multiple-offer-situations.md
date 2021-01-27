@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do I Handle Multiple-Offer Situations?
-date: 2021-01-25 09:00:00
+date: 2021-01-27 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how I like to respond when one of my clients gets multiple offers.
@@ -16,7 +16,7 @@ youtube_code: QWbCqBXPFVI
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s how I like to respond when one of my clients gets multiple offers.</em></p>
+*Here’s how I like to respond when one of my clients gets multiple offers.*
 
 When you are a seller and have multiple offers on your home, it’s very common for your agent to say back to all the buyers, “Give me your highest and best offer and we’ll make a decision at 5 p.m. tomorrow.”&nbsp;
 
