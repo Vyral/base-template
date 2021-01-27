@@ -33,9 +33,9 @@ These market conditions are unheard of, so you should strongly consider taking a
 
 ---
 
-<center>**🔥 HOT OFF THE PRESS 🔥<br>Modest gains in Calgary housing market expected in 2021**</center>
+<center><strong>🔥 HOT OFF THE PRESS 🔥<br />Modest gains in Calgary housing market expected in 2021</strong></center>
 
-**Calgary, Jan. 26, 2021** – In 2020, housing markets across the country surprised many with a stronger-than-expected rebound in the second half of the year despite record-high unemployment rates and significant job losses.
+<br>**Calgary, Jan. 26, 2021** – In 2020, housing markets across the country surprised many with a stronger-than-expected rebound in the second half of the year despite record-high unemployment rates and significant job losses.
 
 Calgary did not hit record-high sales or prices in the third or fourth quarters, but still posted some of the strongest sales relative to the past five years. This was nearly enough to offset the initial losses recorded during the first shutdown caused by the pandemic.
 
