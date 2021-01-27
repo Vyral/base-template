@@ -17,6 +17,8 @@ youtube_code: 0jnQYc5BWao
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.</em></p>
+
 Many people assume “coming soon” status and ‘pre-marketing’ status are the same thing, but they're not.&nbsp;
 
 **The coming soon status is for sellers who are preparing to put their homes on the market.** It’s a status the general public can find and see online. It’s searchable and the home doesn’t accumulate marketing time in this status, but the seller has 21 days to officially list the home once it’s been categorized thus. While the home is in “coming soon” status, no showings can occur, but it can be marketed. A seller whose home is in “coming soon” status may notice many people driving by the property—we’ve even heard of curious buyers wandering through backyards.&nbsp;
