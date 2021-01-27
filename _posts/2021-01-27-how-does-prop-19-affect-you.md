@@ -16,7 +16,7 @@ youtube_code: 0taU3geJELk
 
 {% include youtube.html %}
 
-Here are the basics about Proposition 19 and how you may be affected.
+<p style="text-align: center;"><em>Here are the basics about Proposition 19 and how you may be affected.</em></p>
 
 First, I’m not a tax expert or real estate attorney. You need to **seek those professionals to answer your specific questions**. Today I’m simply providing answers to the common questions. However, we can connect you to the proper people if you need further guidance.&nbsp;
 
