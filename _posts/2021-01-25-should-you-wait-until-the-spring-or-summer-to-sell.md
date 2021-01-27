@@ -30,3 +30,5 @@ For one, **interest rates have reached historic lows**, meaning more people can 
 **There is also less competition right now**. Inventory is low and demand is high, and in some price ranges, your odds of selling within 90 days are over 100%.
 
 These market conditions are unheard of, so you should strongly consider taking advantage of the times by selling now. If you have any questions about selling your home, don’t hesitate to reach out to me. I’d love to help you formulate a strategy so you can realize your dreams.
+
+---
