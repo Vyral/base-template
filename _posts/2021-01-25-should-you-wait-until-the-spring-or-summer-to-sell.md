@@ -31,7 +31,9 @@ For one, **interest rates have reached historic lows**, meaning more people can 
 
 These market conditions are unheard of, so you should strongly consider taking advantage of the times by selling now. If you have any questions about selling your home, don’t hesitate to reach out to me. I’d love to help you formulate a strategy so you can realize your dreams.
 
-**🔥 HOT OFF THE PRESS 🔥<br>Modest gains in Calgary housing market expected in 2021**
+---
+
+<center>**🔥 HOT OFF THE PRESS 🔥<br>Modest gains in Calgary housing market expected in 2021**</center>
 
 **Calgary, Jan. 26, 2021** – In 2020, housing markets across the country surprised many with a stronger-than-expected rebound in the second half of the year despite record-high unemployment rates and significant job losses.
 
