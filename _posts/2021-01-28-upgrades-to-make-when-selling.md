@@ -17,7 +17,7 @@ youtube_code: 7zexXSACcvs
 
 {% include youtube.html %}
 
-*Here are the things you should and shouldn’t spend money on when selling.*
+<center><em>Here are the things you should and shouldn’t spend money on when selling.</em></center>
 
 &nbsp;
 
