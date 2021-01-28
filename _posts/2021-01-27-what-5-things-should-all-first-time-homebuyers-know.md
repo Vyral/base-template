@@ -27,10 +27,10 @@ If you want to buy your first home in 2021, here are the top five things that yo
 
 {% include pullquote.html %}
 
-**3\. Shop around for a lender and get pre-approved.** After you’ve taken care of your credit, shop around with various lenders to see their offers and get the best deal available. A pre-approval is great because it lets you know how much you can borrow and it lets sellers know that you're serious.
+**3\. Shop around for a lender and get pre-approved.** After you’ve taken care of your credit, shop around with various lenders to see their offers and get the best deal available. A pre-approval is great because it lets you know how much you can borrow, and it lets sellers know that you're serious.
 
-**4\. Find a local and knowledgeable real estate agent.** Even if your sale is months away, it’s a good idea to start looking for a good agent now. They can provide you with crucial information about the buying process, the real estate market, and real estate in general. Read online reviews, get recommendations from those you trust, and interview several agents before deciding on one.
+**4\. Find a local and knowledgeable real estate agent.** Even if your sale is months away, it’s a good idea to start looking for a good agent now. They can provide you with crucial information about the buying process, the market, and real estate in general. Read online reviews, get recommendations from those you trust, and interview several agents before deciding on one.
 
-**5\. Set up a budget.** This will help you anticipate the costs of homeownership. Make your budget as close to it would be as a homeowner and don’t forget to budget all your monthly costs. It will give you a much better idea of what you can comfortably afford as a homeowner.
+**5\. Set up a budget.** This will help you anticipate the costs of homeownership. Make your budget as close to what it would be as a homeowner and don’t forget to budget all your monthly costs. It will give you a much better idea of what you can comfortably afford as a homeowner.
 
 If you have any other questions about buying a home or real estate in general, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
