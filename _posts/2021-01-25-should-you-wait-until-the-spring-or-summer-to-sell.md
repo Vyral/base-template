@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Should you sell your home now or wait? Let me give you some insight.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2021/Should+You+Wait+Until+the+Spring+or+Summer+to+Sell_.mp4
 pullquote: 'In some price ranges, your odds of selling within 90 days are over 100%.'
 enclosure_type: video/mp4
 enclosure_time:
