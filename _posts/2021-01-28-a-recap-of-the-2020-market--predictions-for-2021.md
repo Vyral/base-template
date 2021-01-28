@@ -16,7 +16,7 @@ youtube_code: fMddNqIHb6w
 
 {% include youtube.html %}
 
-Here’s a recap of our 2020 market and what I expect in 2021.
+<p style="text-align: center;"><em>Here’s a recap of our 2020 market and what I expect in 2021.</em></p>
 
 {% include pullquote.html %}
 
