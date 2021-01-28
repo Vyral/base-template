@@ -17,7 +17,7 @@ youtube_code: Y_dV7MnEC2w
 
 {% include youtube.html %}
 
-*Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.*
+<p style="text-align: center;"><em>Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.</em></p>
 
 Many people assume “coming soon” status and "pre-marketing" status are the same thing, but they're not.&nbsp;
 
