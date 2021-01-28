@@ -1,36 +1,1621 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Central Iowa Real Estate Podcast with Misty Soldwisch</title>
-    <link>http://changinglivesthroughrealestate.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://changinglivesthroughrealestate.com"/>
+    <title>Central Iowa Real Estate Podcast with Misty SOLDwisch</title>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Misty SOLDwisch Home Selling Team - your professional Central Iowa Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Misty Soldwisch</managingEditor>
-    <lastBuildDate>2017-12-12 13:28:23 -0600</lastBuildDate>
-    <media:copyright>Misty Soldwisch</media:copyright>
-    <media:thumbnail url="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
+    <managingEditor>Misty SOLDwisch</managingEditor>
+    <lastBuildDate>2021-01-28 10:42:58 -0600</lastBuildDate>
+    <media:copyright>Misty SOLDwisch</media:copyright>
+    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>Misty@MistySold.com</itunes:email>
-      <itunes:name>Misty Soldwisch</itunes:name>
+      <itunes:email>Misty@MistySOLD.com</itunes:email>
+      <itunes:name>Misty SOLDwisch</itunes:name>
     </itunes:owner>
-    <itunes:author>Misty Soldwisch</itunes:author>
+    <itunes:author>Misty SOLDwisch</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://changinglivesthroughrealestate.com/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Changing Lives Through Real Estate</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Misty SOLDwisch Home Selling Team - your professional Central Iowa Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
       <item>
+        <title>Buyers: Don’t Make These 3 Mistakes!</title>
+        <link>http://localhost:4000/buyers-dont-make-these-3-mistakes.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2021-01-08 03:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buyers_+Don%E2%80%99t+Make+These+3+Mistakes!.mp4</guid>
+        <description>
+
+Here are three mistakes not to make if you’re in the home-buying process.
+
+Today Chuck Simmons from Motto Mortgage Midwest joins us to discuss the three main things you shouldn’t do if you’re in the process of buying a home. Some of these things may seem obvious, but many people don’t know the ins and outs of how the process works. Don’t get caught making one of these mistakes:
+
+1. Don’t change jobs. If you’re getting a mortgage, job stability is a crucial factor. If you do change jobs, let your lender know because there are many extra verifications needed. Not communicating leads to delays in your closing. Just wait a couple of weeks until you close on the house to change jobs.
+
+“Don’t get caught making one of these mistakes.”
+
+2. Don’t take on new debt. People often get excited and buy new furniture for their new home right before closing, for example. Even if they won’t be making a payment for 18 months, we still have to stop the process, verify that debt, and build in a payment. In the worst scenarios, this can cause huge problems for buyers. Chuck had to call a client on Black Friday once and ask them to stop making purchases!
+
+3. Don’t miss any payments. Don’t miss payments or pay them late. Keep showing your creditworthiness. We don’t have to pull credit again for four months, but if you’ve missed a payment during that time, it causes issues. 
+
+These blunders are why it’s so critical to work with an expert who educates you about the process, though occasionally we have to explain it again because some people don’t quite make the connection as to why this is such essential advice. The lesson from today: Keep your situation the same while you wait to close on a property.
+
+If you have any questions about these buyer errors or real estate in general, please reach out to me. I would love to help you.
+
+Visit the Motto Mortgage Midwest site here!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buyers_+Don%E2%80%99t+Make+These+3+Mistakes!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buyers_+Don%E2%80%99t+Make+These+3+Mistakes!.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are three mistakes not to make if you’re in the home-buying process.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here are three mistakes not to make if you’re in the home-buying process.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Central Iowa Real Estate Scoreboard: Episode 7</title>
+        <link>http://localhost:4000/central-iowa-real-estate-scoreboard-episode-7.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-12-17 04:07:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Here are two easy ways to prepare your home for the real estate market.
+
+When it’s time to prepare your home for the market, there are a couple of simple fixes that make a huge difference and get you more than your money back:
+
+1. Make it sparkling clean. This is the easiest way to improve your house for the market and the most crucial. For some, this may seem obvious, but others don’t realize just how much of a difference this makes. People generally also acquire a ton of stuff, so you must also depersonalize the home.
+
+“‘Agreeable gray’ is the current go-to ultimate neutral paint color.”
+
+2. Paint. The most popular colors right now are soft grays, and many are even moving to whites again (I know, five years ago that would have sounded crazy). “Agreeable gray” is the current go-to ultimate neutral paint color that stagers and builders use. If anything looks a bit dull or scuffed up, painting can help. 
+
+If you have any questions about preparing your house for the market or real estate in general, I’d love to speak with you. Call or email me at your convenience.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are two easy ways to prepare your home for the real estate market.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here are two easy ways to prepare your home for the real estate market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Central Iowa Real Estate Scoreboard: Episode 6</title>
+        <link>http://localhost:4000/central-iowa-real-estate-scoreboard-episode-6.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-12-02 11:42:26 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Best+Multiple-Offer+Strategies+for+Sellers_.mp4</guid>
+        <description>
+
+On this episode, we’re focusing on multiple-offer strategies for sellers.
+
+When you are a home seller who is receiving multiple offers, it’s very common for your agent to reach back out to buyers to ask for their highest and best offer by a certain time frame. I try a different approach because I’m not the biggest fan of the sense of finality conveyed by this strategy. The approach I take involves going back to the buyers, letting them know that we have a multiple-offer situation, and asking if they’d like to make any adjustments to their offer before proceeding. 
+
+With this method, we can counter any of the offers that come in. It doesn’t just have to be the highest-priced offer; I think that’s something a lot of people get caught up on. A lot of agents don’t explain to their clients that price isn’t the only thing that should be considered; terms like the earnest money deposit or inspection period are very important, too.
+
+If you have any questions for me about how to choose the best offer or compete against multiple buyers in this market, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Best+Multiple-Offer+Strategies+for+Sellers_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Best+Multiple-Offer+Strategies+for+Sellers_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>On this episode, we’re focusing on multiple-offer strategies for sellers.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>On this episode, we’re focusing on multiple-offer strategies for sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are the Best Multiple-Offer Strategies for Sellers?</title>
+        <link>http://localhost:4000/what-are-the-best-multiple-offer-strategies-for-sellers.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-11-30 10:10:53 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+On this episode, we’re focusing on multiple-offer strategies for sellers.
+
+Heather Burnside and I are back once again to give you the latest in Central Iowa real estate news. During this episode, we covered a lot, from multiple-offer strategies that can help sellers in this market to an interview with brand-new homeowner Emory Songer. Most of these strategies are things your agent should know about already, but if they don’t, we’re happy that we’re able to share them with you today. For example, feedback is extremely important from buyers, especially those who have made offers. To learn more about what it’s like to buy and sell real estate in Central Iowa right now, watch the latest episode here.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>On this episode, we’re focusing on multiple-offer strategies for sellers.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>On this episode, we’re focusing on multiple-offer strategies for sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Reserve Your Free Thanksgiving Pumpkin Pie!</title>
+        <link>http://localhost:4000/reserve-your-free-thanksgiving-pumpkin-pie.html</link>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-11-18 15:09:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Here’s how you can get yours!
+
+Recently, Van Harden and I met up (on Van’s first ever ZOOM call!) to talk about our holiday plans.  Thanksgiving is almost here, and we’re saying thanks this year with our 2nd annual Pumpkin Pie Giveaway. If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit this link to reserve your pie today.
+
+RESERVE YOUR PIE NOW:
+
+Just go to http://www.soldincentraliowa.com/pumpkinpie and complete the form or call 515-229-9764 to reserve yours.
+
+You can pick up your pie on Monday, November 23 at our West Des Moines location or on Tuesday, November 24 at our Indianola location. We will offer curbside delivery if that is easiest for you!
+
+“Make sure to reserve your free pie today!”
+
+If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
+
+A special THANK YOU to our sponsors:
+
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how you can get yours!</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here’s how you can get yours!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Can You Win a Bidding War for the Home You Want?</title>
+        <link>http://localhost:4000/q-how-can-you-win-a-bidding-war-for-the-home-you-want.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-10-29 12:08:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Can+You+Win+a+Bidding+War+for+the+Home+You+Want_.mp4</guid>
+        <description>
+
+Here are six tips that will make your offer stand out in a bidding war.
+
+Nationally, multiple offers are becoming more and more frequent in the real estate market, and that’s certainly true in most segments of our Des Moines market. 
+
+As a buyer, when you make an offer for the home you want, it has to be presented in a way that will actually win the home. If you work with an inexperienced agent who doesn’t have a strategy, you’ll end up making offer after offer with nothing to show for it. The key is to work with the right agent. Additionally, there are six tips to help make your offer stand out in a multiple-offer situation: 
+
+1. Have a strategy in the presentation. My team and I sell hundreds of listings each year, and I can tell you that your agent isn’t doing you any favors by just sharing your offer and not saying anything about it. This leads me to my second tip…
+
+2. Share the love. We often have our buyers write a letter or take a picture of themselves to share with sellers because it’s a way of adding a personal touch and showing why they love the home. Many of us have a sentimental connection to our homes, which means sellers will want a buyer who will enjoy their home the way they did. 
+
+3. Shorten or waive contingencies. You don’t want to make it difficult for the seller to like you. Asking for things like closing costs, a 21- day inspection period (as opposed to the normal seven-day period), or professionally painted walls is a good way to do just that. 
+
+“Have a strategy to win and don’t try offering less than the list price.”
+
+4. Pre-inspect the home. This is somewhat of a continuation of the previous tip, since getting a pre-inspection allows you to waive the inspection contingency in your offer. Plus, it will help you uncover any potential problems with the home. 
+
+5. Make your best offer. In other words, don’t test the seller by offering less than what you’re able. In a multiple-offer situation, it behooves you to put your cards on the table. You don’t want to miss out on the home you want over $500 or $1,000. 
+
+6. Make it easy for the seller. For example, they may have to wait to take possession of their next home, so give them extended possession of your home after closing to make the moving process easier. 
+
+Remember—win the bidding war for the home you want before worrying about the appraisal, inspection, etc. Have a strategy to win and don’t try offering less than the list price. If a home has hit the market in the last week and it has multiple offers, that means it’s priced or underpriced for the market, which means you’re underpaying by paying the asking price. 
+
+If you’d like to know more about how to win the home you want or there’s anything else I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Can+You+Win+a+Bidding+War+for+the+Home+You+Want_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Can+You+Win+a+Bidding+War+for+the+Home+You+Want_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are six tips that will make your offer stand out in a bidding war.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here are six tips that will make your offer stand out in a bidding war.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Central Iowa Real Estate Scoreboard Episode 2: Pets and Pests</title>
+        <link>http://localhost:4000/central-iowa-real-estate-scoreboard-episode-2-pets-and-pests.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-09-24 12:12:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Drew Glenn with Miller Pest &amp; Termite offers some great pest control tips.
+
+On the recent episode of The Central Iowa Real Estate Scoreboard on 1460 KXNO and 106.3, Heather Burnside and I discussed the impact that lovable pets and loathsome pests have on real estate. We were joined by Drew Glenn of Miller Pest &amp; Termite, who shared some phenomenal tips on how homeowners can eliminate creepy crawlers within their home and better manage the presence of those around it. Miller Pest &amp; Termite, aka “Miller the Killer,” is a local company with 20+ years of experience; The Misty SOLDwisch team has partnered with them many times because their wood-destroying insect report is an indispensable service. 
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most: 
+
+2:51 — What are pet owners (dog lovers especially) looking for when they search homes? 
+
+7:00 — Addressing pet odors and what to do with pets when showing your home
+
+13:30 — The myriad ways fleas, ants, and other pests can get inside your home 
+
+15:55 — A look at the latest activity in our Central Iowa market:  A stronger seller’s market? 
+
+19:15 — How does a wood-destroying pest inspection work, and why is it so important? 
+
+21:33 — How homeowners can better manage the presence of bugs around their property 
+
+22:40 — Some tough news about the mulch in your yard and some fresh landscaping tips 
+
+24:00 — How Miller Pest and Termite got started, and how they operate safely today 
+
+26:04 — Home of the Week: a new construction townhome at Deer Run 
+
+A special thanks to Drew for joining us this episode. The bottom line: You can take easy steps to ensure that your pets don’t have to impede your home sale, and pests in and around your home can be controlled by simple preemptive measures. If you’re in need of professional’s help, make sure you remember this catchy tagline: “Millerthekiller.com, tell your dad, tell your mom!” 
+
+As always, reach out to us if you have questions pertaining to the Central Iowa market or have any upcoming real estate needs. We’re here to help, and we look forward to hearing from you! Stay tuned for the next episode of The Central Iowa Real Estate Scoreboard! 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Drew Glenn with Miller Pest & Termite offers some great pest control tips.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Drew Glenn with Miller Pest & Termite offers some great pest control tips.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Sellers: Take Advantage of Our Certified Pre-Owned Program</title>
+        <link>http://localhost:4000/sellers-take-advantage-of-our-certified-pre-owned-program.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-08-19 16:24:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Sellers-+Take+Advantage+of+Our+Certified+Pre-Owned+Program.mp4</guid>
+        <description>
+
+I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.
+
+We’ve been doing the certified pre-owned program for several years now, and it is a great marketing feature for our sellers. However, there’s more intent behind it than just marketing to appeal to buyers.
+
+We find that when sellers are going through the process, the home inspection is the most stressful stage because someone else is critiquing every aspect of the home. 
+
+Part of the stress comes from the fact that, after the seller has negotiated everything down to the penny, they’ll then have to go through a second negotiation 10 days later based on the results of their inspection. There are many things that can come up during the inspection that might scare buyers, even if those things aren’t that big of a deal.
+
+“With our certified pre-owned program, your home will be fully vetted, which allows you to choose what repairs you’ll take care of and know the cost of those items.”
+
+We explain to our sellers that we want to put them in the driver’s seat of this part of the process. With our certified pre-owned program, your home will be fully vetted, which allows you to choose what repairs you’ll take care of and know the cost of those items. That way, when you’re negotiating the sale price, you can have that in mind instead of having to take care of thousands of dollars in surprise repairs after you already thought your home was sold. 
+
+Our Certified Pre-Owned Home program also includes a 13-month home warranty through Home Warranty of America to help repair or replace any issues found with a seller’s major systems—home warranties usually last for 12 months, so you’ll get a bonus month from HWA!
+
+If you have any questions about our certified pre-owned program, don’t hesitate to reach out to us. We’d love to give you more information and help you take charge of your home sale.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Sellers-+Take+Advantage+of+Our+Certified+Pre-Owned+Program.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Sellers-+Take+Advantage+of+Our+Certified+Pre-Owned+Program.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>I recently appeared on a talk radio show with Heather Burnside to discuss our certified pre-owned program for sellers.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Business Spotlight: Rightway Home Inspections</title>
+        <link>http://localhost:4000/business-spotlight-rightway-home-inspections.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-07-29 15:31:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4</guid>
+        <description>
+
+
+Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.
+
+In today’s message, I sat down with Adam McCarty from Rightway Home Inspections on my weekly radio show “The Central Iowa Real Estate Scoreboard” on 106.3 KXnO to discuss a few key questions people tend to have about his industry, including the importance of pre-inspections, things that tend to surprise sellers about inspections, and the kinds of technology that help inspectors spot issues that homeowners might not even be aware of.
+
+“Do you need to be a certified home inspector?”
+
+There are a lot of really good inspectors in the state who were previously in the HVAC, plumbing, or construction industries, and that prior experience is a big plus for consumers.
+
+“How important is a pre-inspection?”
+
+Instead of having to negotiate twice, it just makes sense for a seller to get everything out of the way with a pre-inspection. 
+
+“What kinds of things do people need to do to prepare for an inspection?”
+
+If you already know there are issues with your home, Adam recommends taking care of them before he comes to your home for the inspection. In terms of preparing the house, that homeowners need to provide clear access to things like your furnace, electrical panel, attic, etc. 
+
+“Do the sellers need to be present for the inspection?”
+
+They don’t have to be, but it’s great if they are. That way, Adam can explain what items buyers are concerned about and what sellers should do to prevent issues later on in the transaction. 
+
+“What is a thermal camera?”
+
+Thermal cameras are a special type of camera that allows Adam to see differences in heat within the home. This allows him to spot issues that sellers might not know about because they can’t see them.
+
+“What are the biggest surprises during an inspection?”
+
+Sellers often don’t realize how hazardous electrical panels can be.
+
+For more information about home inspections and the services that Adam and Rightway Home Inspections offer, visit their website or call him at (515) 802-0141.
+
+In the meantime, if you have any questions about buying or selling homes, don’t hesitate to reach out to the Misty SOLDwisch Home Selling Team. We’re here to help.
+
+Listen to “The Central Iowa Real Estate Scoreboard” with Misty SOLDwisch and Heather Burnside Sundays 9:30am on KXnO.”
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Business_highlight_rev_5_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Adam McCarty from Rightway Home Inspections is here to answer a few home inspection questions.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: Did You Catch My On-Air Debut?</title>
+        <link>http://localhost:4000/q-did-you-catch-my-on-air-debut.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-06-23 12:08:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Here’s everything you need to know about our new radio half-hour!
+
+Our new radio show, The Central Iowa Real Estate Scoreboard, is aptly named but not just because it airs on sports station 1460 KXNO; the parallels between the sports world, life itself, and the real estate market run deep. For instance, life could throw you a huge curveball, and suddenly you need to relocate for a new job. Maybe after quarantining with your family for two months, you’ve finally admitted to yourself that your house isn’t big enough (something we’ve been hearing from folks a lot lately). 
+
+Thankfully, every Sunday at 9:30 a.m., I’ll be updating you on an ever-changing real estate market, and answering your questions so you can be equipped as a potential home seller, buyer, or investor. Ours is an equally exciting and challenging market to navigate. Since the onset of the coronavirus, the Misty Soldwisch Home Selling Team—like countless other professionals nationwide—has had to adapt our model for success. That’s the benefit of having a whole team behind you though; when things get flipped upside down, you’re able to change course rather quickly. 
+
+“Ours is an equally exciting and challenging market to navigate.”
+
+First, we studied those markets affected earliest by the virus and asked, “How are real estate professionals there responding, and how can we apply the most effective responses to Iowa?” Then, we leveraged the tools and technology we’d already been using by integrating it further into the process. Ultimately, people need to buy and sell no matter what’s going on in the world—we had to be prepared to meet our clients’ evolving needs. 
+
+Cited below for your convenience are timestamps that will direct you to various points in the conversation. Feel free to watch the full message, or use these timestamps to skip to topics that interest you most: 
+
+2:40 — The switch to virtual open houses
+
+5:50 — How the virtual process works
+
+7:20 — Who is active in our market? 
+
+8:18 — Changing trends in home buying 
+
+10:39 — The real value of swimming pools versus their perceived value 
+
+12:53 — Which home exterior projects are worthwhile investments?
+
+14:59 — What homebuyers need to know about interest rates 
+
+18:28 — Is demand still outpacing our housing inventory?
+
+22:35 — What is a ‘normal’ real estate cycle, anyway?
+
+24:11 — The Misty Soldwisch guarantee explained 
+
+25:45 — The featured home of the week 
+
+28:00 — Wrapping up the show 
+
+As always, if you have questions about anything discussed in this week’s episode or real estate in general, don’t hesitate to reach out by phone or email or visit soldincentraliowa.com. Our team is here to be a resource for you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s everything you need to know about our new radio half-hour!</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here’s everything you need to know about our new radio half-hour!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: What Are Real Estate Experts Saying?</title>
+        <link>http://localhost:4000/q-what-are-real-estate-experts-saying.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-05-29 11:21:50 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Q-+What+Are+Real+Estate+Experts+Saying_.mp4</guid>
+        <description>
+
+Here’s what experts are predicting for our upcoming housing market.
+
+Today’s message is about what the experts see on the horizon for the housing market. If you’re considering buying or selling a home, I’m sharing what you need to know. According to the National Association of Realtors, 77% of potential sellers are preparing to sell their houses following the end of stay-at-home orders. Millennials in particular are predicted to lead the way back into a positive, purchase-driven housing cycle. Let’s connect soon to discuss your real estate goals! To learn more from the experts, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Q-+What+Are+Real+Estate+Experts+Saying_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Q-+What+Are+Real+Estate+Experts+Saying_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s what experts are predicting for our upcoming housing market.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here’s what experts are predicting for our upcoming housing market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Buy a Home Virtually</title>
+        <link>http://localhost:4000/buy-a-home-virtually.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-04-08 13:35:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buy+a+Home+Virtually.mp4</guid>
+        <description>
+
+We have tools and services to help you buy a home virtually. Learn how here.
+
+Today I want to tell you about our virtual home buying services. The health crisis has people concerned about the safety of going into occupied houses for their home search. The great news is, our virtual home buying services help you decide on a property without having to necessarily go through the home physically. We have had many of these tools and services for quite some time and have used them successfully with out-of-state buyers or people who, for whatever reason, couldn’t go to the house. A few of the services we offer virtually are consultations, tours, open houses, electronically signing paperwork, and more. To learn further about buying a home during this pandemic, watch our latest video above. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buy+a+Home+Virtually.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Buy+a+Home+Virtually.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>We have tools and services to help you buy a home virtually. Learn how here.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>We have tools and services to help you buy a home virtually. Learn how here.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Looking for People to Show Families Their Potential Dream Homes</title>
+        <link>http://localhost:4000/looking-for-people-to-show-families-their-potential-dream-homes.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-03-13 13:04:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4</guid>
+        <description>
+
+Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.
+
+On the latest episode of my podcast with Van and Bonnie, I have exciting news to share: The Misty SOLDwisch Home Selling Team is looking for showing agents to show houses for our team.  
+
+It’s no secret that I love real estate. There are so many different aspects of it, and we’re making a difference in people’s lives. Being in real estate also means you have to be good at many different things. It’s not just about showing a house—you have to do paperwork, handle inspections, etc. 
+
+That’s the advantage our team brings to the table. We have people who fill specialized roles, and this new role we’re launching is designed for people who love focusing on the fun part of real estate and don’t want to handle the more challenging aspects of it. 
+
+“This position is a great fit for anyone that loves spending time with people and helping them find their dream home.”
+
+A lot of people tell me they want to sell real estate because they love looking at houses, but the reality is that showing houses is only about 5% of what a full-time agent does. This new role makes showing homes 100% of the job. 
+
+The agents in this new role will set their own schedule to show houses for our clients. Instead of working on commission, they’ll earn an hourly rate for simply being there for our clients during the fun part of real estate. Having a real estate license is a requirement for the job, but we’re flexible with schedules.
+
+This position is a great fit for anyone that loves spending time with people and helping them find their dream home. The right candidate can be part-time or full-time, depending on what their needs are. 
+
+No one else in the industry offers this role to the same degree that we do, but I’m excited about it because I know there are some great people out there who’d love to be in the business on a more expanded level. If they have a real estate license and aren’t putting it to good use, or their career hasn’t turned out exactly how they wanted it, this could be their solution.
+
+So if you know someone who wants to get paid to show a bunch of brand-new houses to families looking for their dream home, give me a call today or visit www.SOLDinCentralIowa.com. I’d love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Want+to+Get+Paid+to+Show+Families+Their+Potential+Dream+Home_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Showing homes to clients only makes up about 5% of what an agent does, but you can make it 100%.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Design Tips for Home Sellers</title>
+        <link>http://localhost:4000/design-tips-for-home-sellers.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-02-03 10:09:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Design+Tips+for+Home+Sellers.mp4</guid>
+        <description>
+
+If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.
+
+I’m back once again with Max Wilker, the Style Director for Better Homes and Gardens. This time, he’s here to give us some quick tips on freshening up your home decor to help maximize your sale price.
+
+Here’s an outline of our conversation, with timestamps so that you can skip ahead to the section(s) that interest you the most:
+
+0:34- How to freshen up your dining room and kitchen spaces with the latest styles and trends
+
+3:15- A great alternative to installing marble countertops
+
+4:10- Some of the latest living room design trends
+
+6:30- Bed and bedroom design trends and staging tips
+
+Thanks so much to Max for joining me and giving out so many great tips for freshening up the most important parts of your home before selling. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Design+Tips+for+Home+Sellers.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Design+Tips+for+Home+Sellers.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you’re a home seller, knowing the latest in home design and style will help your home shine much brighter. Here’s why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Natural Motifs Are Taking Over the Home Decor Market</title>
+        <link>http://localhost:4000/natural-motifs-are-taking-over-the-home-decor-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-01-14 09:45:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Natural+Motifs+Are+Taking+Over+the+Home+Decor+Market.mp4</guid>
+        <description>
+
+Today Max Wilker from Better Homes &amp; Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.
+
+Today’s guest Max Wilker is the Style Director at Better Homes &amp; Gardens, so he definitely has his finger on the pulse of the hottest trends in home decorating. He’s here today to share some insight about what’s in and what’s out in terms of home decor.
+
+Max informs me that butterflies, bugs, and insects are increasingly popular decorating motifs. This includes things like stylized dragonflies on dinnerware and/or butterflies on pillows.
+
+Additionally, textures are a huge trend right now, and manufacturers are coming up with unique ways to tap into it. For example, Max showed me a butterfly pillow where the butterfly itself was printed onto the fabric, but then an embroidery overlay was added to give the image some texture and depth.
+
+“A decorative motif that brings the outdoors inward can definitely give your home a warm, inviting, and comfortable feel.”
+
+Next, realistic bird motifs are gaining popularity. In the past, more whimsical bird motifs were popular, but the market has circled back around to realism, including things such as lifelike illustrations of native birds on dinnerware, fabric patterns, clocks, and more.
+
+Continuing in the vein of bringing the outdoors into the home, botanical prints are also coming back to the market. Whether they’re stylized and monochrome or they’re detailed and lifelike, these motifs are a classic, beautiful addition to a home that can give it an upscale feel. They would look great in a modern loft or an industrial farmhouse.
+
+Finally, given how bold, natural motifs are surging forward in the market, it follows that furniture, light fixtures, accessories, and decorative pieces made from rattan, bamboo, and reeds are becoming popular, too.
+
+Especially here in Iowa, where the winter gets bitter and everything outside is buried in snow, having a decorative motif that brings the outdoors inward can definitely give your home a warm, inviting, and comfortable feel.
+
+If you have any questions about this or other real estate topics, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Natural+Motifs+Are+Taking+Over+the+Home+Decor+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Natural+Motifs+Are+Taking+Over+the+Home+Decor+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Today Max Wilker from Better Homes & Gardens is here to talk about the trends and decorating motifs that are sweeping the housing industry.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The 10 Commandments of the Home Buying Process</title>
+        <link>http://localhost:4000/the-10-commandments-of-the-home-buying-process.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2020-01-03 11:55:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+10+Commandments+of+the+Home+Buying+Process.mp4</guid>
+        <description>
+
+Homebuyers: Follow these 10 real estate commandments to ensure you make it all the way to the closing table.
+
+If you’re a homebuyer and you want to be sure to make it to closing, follow these 10 real estate commandments: 
+
+Thou shall not:
+
+1. Change jobs or become self-employed. If you change your industry or how you’re compensated, it can really shake up how the mortgage approval process goes for you.
+
+2. Buy a new vehicle. Even if your car is totaled, it’s very important that you wait until after closing to replace it; anything that affects your credit can really affect your ability to get approved.
+
+3. Buy new furniture. Wait until after you’ve closed, no matter how exciting, because, again, changes to your bank statements/credit can negatively affect your ability to get a loan.
+
+4. Fall behind on credit card payments. It can be tempting to skip a payment one month and just catch up next month, but this can have a massive effect on your credit score. Lenders do credit checks prior to closing even if you already had one.
+
+5. Omit financial debts or liabilities from your loan application. If you forget to inform your lender of liabilities that don’t come up until later in the underwriting process—like deferred loans or loans you’ve co-signed—those can catch up with you later.
+
+“Anything that affects your credit can really affect your ability to get approved.”
+
+6. Stop paying current mortgage or rent. Most lenders follow the guideline that if you’re more than 15 days past due with your mortgage payment, you then have to go a full 12 months of making on-time payments in order to qualify.
+
+7. Allow additional credit inquiries.
+
+8. Co-sign on a loan. Even if it’s for your kids, wait until after you’ve closed.
+
+9. Make large deposits into your bank account. If your lender finds deposits that can’t be accounted for, that’s a red flag. Those funds need to be seasoned in your account so that it’s not considered a potential liability.
+
+10. Change banks/accounts or do excessive transfers. Lenders want to understand where your money is coming from so they have a real sense of your ability to pay and what kinds of obligations you have.
+
+If you follow these 10 real estate commandments, it will make the process of getting all the way to the closing table much easier.
+
+If you have any questions about buying or selling a home, reach out to us. I’m always here to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+10+Commandments+of+the+Home+Buying+Process.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/The+10+Commandments+of+the+Home+Buying+Process.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Homebuyers: Follow these 10 real estate commandments to ensure you make it to the closing table.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Homebuyers: Follow these 10 real estate commandments to ensure you make it to the closing table.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Thank You For Your Support and Happy Holidays!</title>
+        <link>http://localhost:4000/thank-you-for-your-support-and-happy-holidays.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-12-06 15:22:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Thank+You+For+Your+Support+and+Happy+Holidays!.mp4</guid>
+        <description>
+
+Our 2019 Pumpkin Pie Giveaway was a huge success! 600 pies were shared with clients, the community, and organizations in need. It was fantastic to connect with so many old friends–thanks so much for being part of it! Wishing you a joyous holiday season! Check out the video for highlights!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Thank+You+For+Your+Support+and+Happy+Holidays!.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Thank+You+For+Your+Support+and+Happy+Holidays!.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our 2019 Pumpkin Pie Giveaway was a huge success!</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Our 2019 Pumpkin Pie Giveaway was a huge success!</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Register Today to Get Your Free Pumpkin Pie</title>
+        <link>http://localhost:4000/register-today-to-get-your-free-pumpkin-pie.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-11-11 15:56:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Register+Today+to+Get+Your+Free+Pumpkin+Pie.mp4</guid>
+        <description>
+
+Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.
+
+Thanksgiving is almost here, and we’re saying thanks this year with 500 pumpkin pies. If you’re a past client, current client, or someone who just needs some more deliciousness in their lives, visit this link to reserve your pie today. 
+
+You can pick up your pie on Monday, November 25 at our West Des Moines location or on Tuesday, November 26 at our Indianola location. While you’re picking up your pie at our Indianola location, there will also be a holiday shop there, and we’ll have all sorts of giveaways and prizes for you as well.
+
+“Make sure to reserve your free pie today!”
+
+If you have any questions for us about the event or real estate in general, don’t hesitate to give us a call or send us an email today. We look forward to hearing from you soon.
+
+RESERVE YOUR PIE NOW:
+
+Just go to http://www.soldincentraliowa.com/pumpkinpie and complete the form or call 515-229-9764 to reserve yours.
+
+A special THANK YOU to our sponsors:
+
+
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Register+Today+to+Get+Your+Free+Pumpkin+Pie.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Register+Today+to+Get+Your+Free+Pumpkin+Pie.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Thanksgiving is right around the corner, and we’re giving away 500 pumpkin pies to celebrate. Here’s how you can get yours.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Better Homes & Gardens Style Director Tells Us Home Color Trends for 2020</title>
+        <link>http://localhost:4000/looking-at-the-latest-home-color-trends-with-an-expert.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-11-04 11:03:43 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Looking+at+the+Latest+Home+Color+Trends+With+an+Expert.mp4</guid>
+        <description>
+
+Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.
+
+I’m joined today by Max Wilker of Better Homes &amp; Gardens to talk about the latest home color trends. Max is the Syle Director for Better Homes &amp; Gardens Brands and has a wealth of knowledge on all the latest home design trends. Max says that the quickest way to update a home is with color, and he’s excited to show us how today.
+
+Here’s an outline of our discussion with timestamps so that you can skip ahead to the section(s) that interest you the most:
+
+0:45- What paint colors are going to be the most popular in 2020?
+
+1:30- Why black continues to be such a strong color, especially with furniture
+
+2:15- The return to charcoal gray
+
+3:42- Denim is making a comeback in many different forms
+
+5:20- How to bring the outdoors inside with vibrant shades of green
+
+6:16- How sand and sandstone are playing a role in the latest design trends
+
+7:30- Max’s color design advice for Central Iowa homeowners
+
+Thanks so much to Max for joining me to talk about the latest color design trends. If you have any questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Looking+at+the+Latest+Home+Color+Trends+With+an+Expert.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Looking+at+the+Latest+Home+Color+Trends+With+an+Expert.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Max Wilker is an expert when it comes to home design and he has his pulse on the latest home color trends. Here’s what he’s been seeing lately.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Are the Most Important Things for Today’s Home Sellers to Know?</title>
+        <link>http://localhost:4000/what-are-the-most-important-things-for-todays-home-sellers-to-know.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-10-25 02:44:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Most+Important+Things+for+Todays+Home+Sellers+to+Know_.mp4</guid>
+        <description>
+
+Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.
+
+Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.
+
+On the September edition of my podcast with Van and Bonnie, we talked about some of the finer points of home selling including supply and demand, communication, and the three most important things you need to know as a seller.
+
+Here’s an outline of our discussion, with timestamps, so that you can skip around to the section(s) that interest you the most:
+
+0:30- The three most important things that you need to know as a home seller1:15- What’s your “competition” on the market?2:15- The role that market saturation plays in your home-selling strategy3:20- Why it’s so important to know your timeline as a home seller4:05- How our “Sold or I’ll buy it” program works5:00- How communication plays a major role in our sellers’ success
+
+If you have any questions about anything that I discussed in the video above, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Most+Important+Things+for+Todays+Home+Sellers+to+Know_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Are+the+Most+Important+Things+for+Todays+Home+Sellers+to+Know_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Are you, or is someone you know, thinking about selling a home soon? Here are a few things that you’ll need to know.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do You Have a Special Cause You’re Supporting? Let Us Help</title>
+        <link>http://localhost:4000/do-you-have-a-special-cause-youre-supporting-let-us-help.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-10-10 09:43:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Do+You+Have+a+Special+Cause+Youre+Supporting_+Let+Us+Help.mp4</guid>
+        <description>
+
+If you’re hosting or participating in a charitable event and would like to use our moving truck for it, please let us know. We’d love to help.
+
+Our team changes lives every day through real estate, but we also do so by supporting causes that our agents and our clients believe in. So if you’ve got a cause you believe in, we want to help you. One thing we love to do is allow you use of our moving truck. If access to our moving truck could help you with a charitable event you’re hosting or participating in at some point in the future, please let us know. We’d be happy to help. If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Do+You+Have+a+Special+Cause+Youre+Supporting_+Let+Us+Help.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Do+You+Have+a+Special+Cause+Youre+Supporting_+Let+Us+Help.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re hosting or participating in a charitable event and would like to use our moving truck for it, please let us know. We’d love to help.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you’re hosting or participating in a charitable event and would like to use our moving truck for it, please let us know. We’d love to help.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to (Pumpkin) Spice Up Your Fall Listing</title>
+        <link>http://localhost:4000/how-to-pumpkin-spice-up-your-fall-listing.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-09-20 13:17:09 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+to+(Pumpkin)+Spice+Up+Your+Fall+Listing.mp4</guid>
+        <description>
+
+Thinking of selling your home this fall? Here are a few tips and tricks.
+
+If you want to sell your home in the fall, there are a few different things you can do to “pumpkin spice” it up.  In the video above, you can listen to my interview with Van and Bonnie, during which I cover tips and tricks for preparing your fall listing. 
+
+If you have any questions, don’t hesitate to reach out to me. I’d love to hear from you. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+to+(Pumpkin)+Spice+Up+Your+Fall+Listing.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+to+(Pumpkin)+Spice+Up+Your+Fall+Listing.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Thinking of selling your home this fall? Here are a few tips and tricks.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Thinking of selling your home this fall? Here are a few tips and tricks.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Working With a Highly Skilled, Experienced Agent Looks Like</title>
+        <link>http://localhost:4000/what-working-with-a-highly-skilled-experienced-agent-looks-like.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-09-04 15:21:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Working+With+a+Highly+Skilled%2C+Experienced+Agent+Looks+Like.mp4</guid>
+        <description>
+
+Realizing success in your home sale or purchase starts with who you hire, as you’ll learn from today’s video.
+
+My good friends Van and Bonnie invited me back on their podcast show to discuss the importance of hiring an agent you can trust and who will deliver results when it comes to your buying and selling needs. A professional agent will always work to put your interests first and will go above and beyond in ways the standard agent won’t.  
+
+In the video above, you can listen to my full interview with Van and Bonnie, where I cover such topics as our Love It or Leave It Program, other special services and tools we offer our clients, the emotional side of moving, and so much more.     
+
+If you have any questions about what we covered today or if you’re looking for professional guidance in the buying or selling process, don’t hesitate to reach out to me. I’d love to hear from you!  
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Working+With+a+Highly+Skilled%2C+Experienced+Agent+Looks+Like.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/What+Working+With+a+Highly+Skilled%2C+Experienced+Agent+Looks+Like.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Realizing success in your home sale or purchase starts with who you hire, as you’ll learn from today’s video.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Realizing success in your home sale or purchase starts with who you hire, as you’ll learn from today’s video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Was Our Market During the 1st Half of 2019?</title>
+        <link>http://localhost:4000/how-was-our-market-during-the-1st-half-of-2019.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-08-26 14:11:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Was+Our+Market+During+the+1st+Half+of+2019_.mp4</guid>
+        <description>
+
+What’s happening right now in our Central Iowa market? Find out with this quick message.
+
+I recently sat down once again with my good friends Van and Bonnie to talk about an important topic: Our market. Now that 2019 is more than halfway over, we thought now was the perfect time to share some insight into how the first half of this year played out in terms of our real estate market. 
+
+In the video above, you can listen to my interview with Van and Bonnie, during which I cover topics like inventory, home values, and more.  If you have any questions about our market or would like help with your buying or selling needs, don’t hesitate to reach out to me.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Was+Our+Market+During+the+1st+Half+of+2019_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/How+Was+Our+Market+During+the+1st+Half+of+2019_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s happening right now in our Central Iowa market? Find out with this quick message.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>What’s happening right now in our Central Iowa market? Find out with this quick message.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Should You Buy a New Construction Home?</title>
+        <link>http://localhost:4000/should-you-buy-a-new-construction-home.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-08-05 15:48:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Is+new+Construction+for+you+.+-_2+_Final.mp4</guid>
+        <description>
+
+If you’re curious about buying a new construction home, this video may help you get off the fence.
+
+Often when we speak with buyers, they express frustration over the fact that they can’t find exactly the kind of home they’re looking for in the market. When this happens, one option we present to them is the possibility of building a new home from scratch. 
+
+New construction homes allow buyers to fully customize every detail of their next home. Working with an agent who has experience with these kinds of homes really opens up a lot of doors for buyers. 
+
+Some fear that the new construction process may be too long or too complex, but the truth is that many great builders in Central Iowa can make building a home easy and stress-free.
+
+“If your dream home doesn’t exist, why not build it?”
+
+Our team would be happy to streamline the process even more by offering our professional guidance throughout your home building experience. 
+
+A lot of communities in Central Iowa even offer tax abatements, and many builders have strong relationships with local lenders who can give you some generous financing incentives. So building a new home can actually be quite affordable with the right approach. 
+
+All in all, if your dream home doesn’t exist, why not build it? We would be happy to help you to do so. Or, if you’re still willing to search the open market, we would also love to guide you to a resale home that fits your needs. 
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Is+new+Construction+for+you+.+-_2+_Final.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Is+new+Construction+for+you+.+-_2+_Final.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re curious about buying a new construction home, this video may help you get off the fence.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you’re curious about buying a new construction home, this video may help you get off the fence.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to Change Your Life by Investing in Real Estate</title>
+        <link>http://localhost:4000/how-to-change-your-life-by-investing-in-real-estate.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-07-30 14:42:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Investment+properties.mp4</guid>
+        <description>
+
+Real estate investing has had a huge impact on my life. It’s helped me to build wealth, support my family, and prepare for the future. 
+
+Renting out investment properties is an incredible way to create passive income. Better still, paying down the mortgage on these properties becomes much easier when you’re using a tenant’s money to do so, as opposed to your own. 
+
+Tax benefits related to mortgage interest deductions and depreciation are also a major advantage for real estate investors. Beyond that, properties appreciate over time, making real estate a very powerful way to build wealth. 
+
+At this point, you may be thinking to yourself, “Well, that sounds great. But what about taking care of the property? I don’t want to get a phone call in the middle of the night from a tenant asking me to fix their leaky faucet.” 
+
+“Renting out investment properties is an incredible way to create passive income.”
+
+This concern is completely understandable, but also easy to resolve. Many rental investors feel this way, which is why they hire a property management company to take care of these tasks for them. Property management companies can handle all of the logistics of running a rental property for a very affordable price, depending on who you work with.  
+
+As for the kind of property you should invest in, there is no one correct answer. It simply depends on your goals. So if you are thinking of investing in real estate, please reach out to me. I would be happy to speak to you more about how investment properties work and connect you to an experienced, local mortgage professional. 
+
+If you have any other questions, would like more information, or would like to be on the mailing list of one of the real estate investing seminars my team will be hosting in the upcoming months, feel free to give me a call or send me an email. I look forward to hearing from you soon. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Investment+properties.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Investment+properties.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Real estate investing is an incredible way to build wealth, and today I’ll explain why.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Real estate investing is an incredible way to build wealth, and today I’ll explain why.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Quick Recap of the 1st Half of Our 2019 Market</title>
+        <link>http://localhost:4000/a-quick-recap-of-the-1st-half-of-our-2019-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-07-18 06:00:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What’s the latest news from our Central Iowa market as we look back on the first half of the year?
+
+2019 has been pretty exciting so far. The real estate market has been strong despite all the crazy weather. Because of that, we didn’t hit our stride until the midway point of the year. With that being said, there are a few trends to keep an eye on moving forward whether you’re a buyer or a seller.  
+
+First of all, a lot of price reductions are happening. In fact, last June, 44% of all inventory underwent a price reduction. This tells us a lot of sellers were optimistic entering the market but then changed their expectations to meet a slower market demand. This is good news for buyers because it means there are a lot of motivated sellers itching to get their property sold and who are willing to negotiate. We have more properties on the market now than we did at this point last year—not because there are more sellers, but because inventory isn’t selling as quickly. 
+
+“There are a few trends to keep an eye on moving forward whether you’re a buyer or a seller.”
+
+Second, just because a property is under contract doesn’t mean the deal is done. Year to date, we’ve seen nearly 20% of all deals fall apart after they’ve gone under contract. There are a lot of ways a deal can fall apart, but in my opinion, there are a couple reasons that explain this trend:
+
+
+  You’re in a competitive price point. In a competitive price point where multiple-offer situations are more common, there’s a higher fallout rate during the inspection phase because buyers are pickier due to having to pay a premium. On our team, we have our Certified Pre-Owned Home Program in place to prevent this from happening.  
+  Buyers’ financing falling through. This is why, if you’re a seller, working with an experienced Realtor is key, because we know how to find out as much as possible about a buyer’s financial qualifications. 
+
+
+Third, there’s a lot of dichotomy in the market. In terms of days on market, there’s a big difference between homes listed above and below $300,000. The average list price for resale homes in our market is $265,000, which is a hot price point to be in as a seller. If you go anywhere above $300,000, though, it’s more of a buyer’s market. 
+
+The other dichotomy lies between resale and new construction homes. New construction homes tend to have more inventory and a much higher average days on market, and right now we have about seven months’ worth of inventory for these types of homes. Some of this makes sense—it takes a while for these homes to be built in the first place (typically four to five months), and with the crazy weather we’ve already seen, it’s no surprise that this build period may have been extended.
+
+This is why, whether we’re working with buyers or sellers, we key in on the specific market you’re focused on. 
+
+The bottom line is we’re seeing a strong-but-changing market as we move through 2019, so we’ll have to be extra diligent at keeping an eye on what’s happening in other markets as well. 
+
+If you have any other questions about our market or you’d like to know what your home is worth, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the trends impacting buyers and sellers as we pass the midway point of our 2019 market.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Here are the trends impacting buyers and sellers as we pass the midway point of our 2019 market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Closer Look at What It Takes to Be a Real Estate Agent</title>
+        <link>http://localhost:4000/a-closer-look-at-what-it-takes-to-be-a-real-estate-agent.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-06-07 09:31:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+A+Closer+Look+at+What+It+Takes+to+Be+a+Real+Estate+Agent.mp4</guid>
+        <description>
+
+I’m back yet again to share another great conversation that I recently had with Van and Bonnie. Instead of discussing the latest numbers or trends in the real estate market, this time we focused on real estate as a business. We talked about our unique team structure, how long it takes to get a real estate license, and much, much more. 
+
+Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: 
+
+0:35- Why our team structure makes what we do so special to our clients
+
+1:45- A unique role that we’re hiring for right now
+
+2:30- How long does it take to get a real estate license?
+
+3:30- Why becoming a home buying specialist is a great way to start your real estate career
+
+4:00- The type of person who’d be a perfect fit for this role
+
+4:50- One of the first things I make our new agents do
+
+5:35- How to take the first step if you’re considering a career in real estate
+
+I hope this conversation was helpful to you. Head on over to Joinmistysteam.com to get an even better idea of if a career in real estate on our team might be right for you.
+
+If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+A+Closer+Look+at+What+It+Takes+to+Be+a+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+A+Closer+Look+at+What+It+Takes+to+Be+a+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you ever thought about a career in real estate? If so, my recent conversation with Van and Bonnie will enlighten you a bit about what it’s really like.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Have you ever thought about a career in real estate? If so, my recent conversation with Van and Bonnie will enlighten you a bit about what it’s really like.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Your Home Inspection Questions Answered</title>
+        <link>http://localhost:4000/your-home-inspection-questions-answered.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-04-30 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%234.mp4</guid>
+        <description>
+
+We’re back once more with another conversation about our Central Iowa market, and this time we’re specifically discussing issues related to the home inspection. In today’s episode, we’ll share all the ins and outs of this important, yet sometimes confusing, step in the real estate process.
+
+**Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure: **
+
+0:14 - An introduction to today’s topic
+
+0:39 - When do you need an inspection and who needs to order it?
+
+1:41 - What’s the purpose of a home inspection?
+
+2:25 - Who should you hire to perform a home inspection?
+
+3:22 - Can (and should) inspections be ordered ahead of time?
+
+6:17 - How much does a home inspection usually cost?
+
+6:49 - Explaining the additional inspections you can order on top of the general one
+
+8:32 - A few closing words
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%234.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%234.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>People are often confused by the ins and outs of home inspections, so we’re tackling this important subject today.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>People are often confused by the ins and outs of home inspections, so we’re tackling this important subject today.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Discussing Property Tax Assessments</title>
+        <link>http://localhost:4000/discussing-property-tax-assessments.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-04-25 10:16:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%233.mp4</guid>
+        <description>
+
+Welcome back to another edition of my podcast with Van and Bonnie. In this third installment, we discussed a ton of things, including property tax assessments, how to protest them, and much more.
+
+Here’s an outline of the discussion, with timestamps so that you can skip around to the section(s) that interest you the most:
+
+0:50- Explaining the county’s property assessment process
+
+1:45- Is a high assessment good for home sellers?
+
+3:15- What can you do if you’re not happy with your property’s assessment?
+
+4:20- How can we help?
+
+6:00- Why inaccurate information can hurt your home sale
+
+7:05- Why I’m not shocked that most people’s assessments have gone up and why it’s actually a good thing
+
+If you have any questions for me, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%233.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%233.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Your property tax assessment has likely gone up in the last two years. I recently joined Van and Bonnie to talk about why this is and what you can do if you feel your assessment is unfair.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Your property tax assessment has likely gone up in the last two years. I recently joined Van and Bonnie to talk about why this is and what you can do if you feel your assessment is unfair.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What a Quality Home Selling Experience Should Look Like</title>
+        <link>http://localhost:4000/what-a-quality-home-selling-experience-should-look-like.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-04-03 18:16:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+a+Quality+Home+Selling+Experience+Should+Look+Like.mp4</guid>
+        <description>
+
+There are many moving parts to a real estate transaction, and it’s a Realtor’s job to guide you through the process. Even in a hot market, you still have to prepare and market your home, and having the right expertise behind you makes all the difference in terms of maximizing your sale price. What does that expertise look like, though? I was recently a guest on the radio show “Van and Bonnie in the Morning” to help answer that question. To listen to the interview, watch this short video.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+a+Quality+Home+Selling+Experience+Should+Look+Like.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+a+Quality+Home+Selling+Experience+Should+Look+Like.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are many moving parts to a real estate transaction, and it’s a Realtor’s job to guide you through the process. Even in a hot market, you still have to prepare and market your home, and having the right expertise behind you makes all the difference in terms of maximizing your sale price. What does that expertise look like, though? I was recently a guest on the radio show “Van and Bonnie in the Morning” to help answer that question. To listen to the interview, watch this short video.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>There are many moving parts to a real estate transaction, and it’s a Realtor’s job to guide you through the process. Even in a hot market, you still have to prepare and market your home, and having the right expertise behind you makes all the difference in terms of maximizing your sale price. What does that expertise look like, though? I was recently a guest on the radio show “Van and Bonnie in the Morning” to help answer that question. To listen to the interview, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Everything You Need to Know About My New Real Estate Podcast</title>
+        <link>http://localhost:4000/everything-you-need-to-know-about-my-new-real-estate-podcast.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-03-14 19:00:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Central+Iowa+Real+Estate+February+Podcast.mp4</guid>
+        <description>
+
+I’ve got exciting news to share: I have partnered with WHO Radio hosts Van Harden and Bonnie Lucas to create a new real estate podcast!
+
+There aren’t many people out there who know more about what’s on the mind of Central Iowans than these two, so I am so excited to have the chance to cover our local market conditions with their help.
+
+“We’ll cover breaking real estate news and more in this great new podcast.”
+
+But breaking real estate news isn’t all we cover in this great new podcast. We also share tips for buyers and sellers on how best to navigate today’s market, as well as information regarding today’s most innovative real estate programs.
+
+We’ll be posting episodes from this podcast soon, so be sure to subscribe to our YouTube channel. You won’t want to miss these insightful updates
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Central+Iowa+Real+Estate+February+Podcast.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Central+Iowa+Real+Estate+February+Podcast.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re looking to learn more about local real estate, we’ve got great news: We’re starting a podcast.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you’re looking to learn more about local real estate, we’ve got great news: We’re starting a podcast.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Central Iowa Real Estate February Podcast</title>
+        <link>http://localhost:4000/central-iowa-real-estate-february-podcast.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2019-03-01 17:16:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%232.mp4</guid>
+        <description>
+
+I recently sat down with Van and Bonnie to talk some more about Central Iowa real estate. Specifically, I talked about a few different projects I have going on with Kimberly Development Company. They have been around since 1978, and the quality and attention to detail in their homes really shines. I also talked about Woodland Hills Villas, what’s in and what’s out in terms of home trends, and much more. To hear the full episode, watch this short video.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%232.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Podcast+%232.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I recently sat down with Van and Bonnie to talk some more about Central Iowa real estate. Specifically, I talked about a few different projects I have going on with Kimberly Development Company. They have been around since 1978, and the quality and attention to detail in their homes really shines. I also talked about Woodland Hills Villas, what’s in and what’s out in terms of home trends, and much more. To hear the full episode, watch this short video.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>I recently sat down with Van and Bonnie to talk some more about Central Iowa real estate. Specifically, I talked about a few different projects I have going on with Kimberly Development Company. They have been around since 1978, and the quality and attention to detail in their homes really shines. I also talked about Woodland Hills Villas, what’s in and what’s out in terms of home trends, and much more. To hear the full episode, watch this short video.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Taking the Stress out of the Home Selling Process</title>
+        <link>http://localhost:4000/taking-the-stress-out-of-the-home-selling-process.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-12-03 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+We work with people all the time who are thinking of putting their home on the market but are concerned about the potential stress involved in the home selling process and how that will affect their family and their lifestyle. This fear of the unknown can cause them to delay their decision.
+
+If you find yourself in this same situation, your first step should be to hire a great real Realtor. A great Realtor will shoulder a lot of the stress for you by doing three important things:
+
+1. Setting expectations. Most people undergo the home selling process four to six times in their life, but we Realtors do it every day, so we can tell you what you can expect during the process from start to finish.
+
+2. Eliminating surprises. For example, we eliminate surprises for our sellers through our Certified Pre-Owned Home program. Over the years, I’ve found that the most stressful part of the home sale process for sellers is usually when their home goes through its inspections.
+
+“We can tell you what you can expect during the process from start to finish.”
+
+You can take great care of your home, but certain things you’re not aware of might still show up once an inspector starts digging through it. It’s a terrible feeling to be at the mercy of the buyer’s home inspector, so taking this preemptive approach is how we take control of the situation.
+
+3. Communicating. This means communicating through the good times and the bad times. Time and time again, I’ve heard from buyers and sellers that the most disappointing part of working with a real estate agent is when they don’t communicate.
+
+On our team, communication is our strong suit. Each member has a specialized role that allows them to focus on a key part of the home sale process. This not only helps with facilitating our communication, but it also helps with setting expectations and eliminating surprises.
+
+If you’d like to talk more about making your home sale as smooth and stress-free as possible or you have any other real estate needs I can help you with, don’t hesitate to reach out to me. I’d love to speak to you.
+
+ 
+
+ 
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you’re thinking of putting your home on the market but you’re worried about the stress it will put on you and your family, there’s one thing you can do to put your mind at ease: hire a great Realtor.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you’re thinking of putting your home on the market but you’re worried about the stress it will put on you and your family, there’s one thing you can do to put your mind at ease: hire a great Realtor.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Are You About to Buy a Home You Can’t Afford?</title>
+        <link>http://localhost:4000/are-you-about-to-buy-a-home-you-cant-afford.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-10-11 11:52:51 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Are+You+About+to+Buy+a+Home+You+Cant+Afford%253F.mp4</guid>
+        <description>
+
+I’ve seen so many situations in which people get excited about a home they’ve found and fall in love with it. It’s their dream home, so they’re willing to stretch and struggle to make it work. But unfortunately, that’s sometimes just not feasible.
+
+To gauge whether you’re stretching yourself too thin, keep an eye on the following five signs:
+
+1. Are you relying on creative financing and tax abatement to make your payment? Here in Central Iowa, we have many communities with amazing tax abatement incentives that range from a portion of the value being abated for three to five years to 100% abatement for seven years. Oftentimes people who are really stretching their budgets will combine that along with an adjustable mortgage rate or another creative means to get the financing they need.
+
+“Don’t squeeze your budget too tightly.”When you know exactly how this works and you’ve done the research that will tell you want your monthly payment will be like in the end, that’s one thing. However, many people just jump into it with plans to figure it out later. That can set you up for tough economic situations in the future.
+
+2. Do you need down payment assistance programs to qualify for this house? If the purchase or sale price of the home is so high that coming up with the down payment is a struggle, then it could be an indication that you’re trying to purchase outside your range.
+
+3. Do you have just enough money to cover your mortgage? If you have enough money per month to cover your mortgage, but have little left over for the rest of your expenses, that’s a definite sign that you’re exceeding your limits. Don’t squeeze your budget too tightly. Some loans are generous with your debt-to-income ratios and will only consider one person in your household’s debt. You need to have a good overall picture of your financial situation.
+
+4. Are you considering taking money from your retirement funds? Now, some people can use this strategy successfully, but that’s highly dependent on their situations. If the only way to make your mortgage work is to take money from your hard-earned retirement funds, then that’s an issue.
+
+5. Do you have a bad feeling about the purchase? If, during your purchase, you get an overwhelming sinking feeling that the whole thing is a bad idea, it’s a good idea to go with your gut. We do want to help you purchase a home, but you should also be happy with it. You’re the one who has to live in the house and manage your expenses, so your feelings are paramount.
+
+If you’re a homebuyer who is experiencing one or more of these signs or if you’re interested in purchasing a home, please feel free to reach out to me. We’re always here to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Are+You+About+to+Buy+a+Home+You+Cant+Afford%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Are+You+About+to+Buy+a+Home+You+Cant+Afford%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you experience any of the following five signs, it is a good sign that the home you want to purchase is beyond your means.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>If you experience any of the following five signs, it is a good sign that the home you want to purchase is beyond your means.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>4 Signs It’s Time for You To Move</title>
+        <link>http://localhost:4000/4-signs-its-time-for-you-to-move.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-09-26 14:46:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+A statement we hear from homeowners often goes like this: “I’d like to do something in the future, but I just don’t know if the timing is right for me.” Here are four signs that it is time for you to consider making that move.
+
+1. Your home is too small. This one seems obvious, right? If the home that worked great for you with small babies and toddlers feels like it’s bursting at the seems as they grow into pre-teens and teenagers, it’s time to check out the options that might be a fit for you. You’d be surprised at how easy it is to transition into a space that makes much more sense to you.
+
+“You have flexibility in this market that you wouldn’t have had ten years ago.”
+
+2. Your lifestyle has changed. An area that makes sense at one point in your life might create a really difficult commute when your work changes or you retire. The home that served you really well until this point might not really be the fit. The good news is that there are really good options out there that will give you the lifestyle you want for today.
+
+3. Remodeling isn’t enough. When remodeling the home simply doesn’t give you the return you need to alter the space, it might be time to go find a different place. I see this happen quite a bit. We get really attached to our homes, especially if we’re comfortable there and have been there for a long time. Sometimes it doesn’t make sense to remodel because you’ll end up over-improving for the neighborhood or over-leveraging yourself on the house. We have access to many studies that give information about what kind of returns different improvements will give you. If you’re curious about that when weighing the pros and cons, we’d be happy to pass that information along.
+
+4. You have some flexibility in your timeline. I know this might seem a little strange, but the thing is that in 2018 we have a great market. I’ve been in real estate for 19 years and have seen some markets that are really rough. In these markets, someone may have wanted to make a change because of one these reasons, but values had declined so much that they were stuck and couldn’t make a move until the market improved. If you know what you want for your future and know something different is what you need, explore the market right now while the market is great and there are a lot of different advantages to being a seller.
+
+As always, if you have any questions for me or you’re interested in buying or selling a home anytime in the near future, don’t hesitate to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How will you know when the time is right for you to move to a new home? Here are four tell-tale signs.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>How will you know when the time is right for you to move to a new home? Here are four tell-tale signs.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What It's Really Like to Work in Real Estate</title>
+        <link>http://localhost:4000/what-its-really-like-to-work-in-real-estate.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-07-25 15:53:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Having been in the real estate business since 1999, I’m frequently approached by people who are fascinated by the idea of joining this industry but have no idea where to begin.
+
+“I’d love to talk to you about what makes the Misty SOLDwisch Team here at Better Homes and Gardens Real Estate Innovations such an amazing place to work.”
+
+Because of this demand, I’ve decided to launch a monthly meet and greet where people thinking of entering real estate can learn about the business. During these meet and greets, I’ll discuss my experience, my team’s unique approach to home selling, and what to expect from a real estate career.
+
+The meet and greet also provides people with the opportunity to learn about how our team functions on the operational side. Getting into real estate doesn’t have to mean taking on a sales position.
+
+If any of this sounds interesting, I’d love to talk to you about what makes the Misty SOLDwisch Team here at Better Homes and Gardens Real Estate Innovations such an amazing place to work.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>What’s it really like to work in real estate?</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>What’s it really like to work in real estate?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Is a New Construction Home Right for You?</title>
+        <link>http://localhost:4000/is-a-new-construction-home-right-for-you.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-06-27 13:08:49 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Is+a+New+Construction+Home+Right+for+You%253F.mp4</guid>
+        <description>
+
+The Misty SOLDwisch home selling team is so thrilled to have amazing relationships with different local builders, as this gives us a unique perspective and unique advantages in assisting our clients with their new construction purchases.
+
+“When you build a new home, you can pick out every detail.”
+
+There are a number of advantages to building a new home over purchasing a resale property. Today I’d like to list three of these advantages to give you a better idea of whether this may be something that’s right for you.
+
+
+  You get to choose exactly what you want. When you build a new home, you can pick out every detail. This means you won’t have to worry about making compromises on carpet, back-splashes, or any other features. Our team works with builders who have streamlined their process in order to make buying new construction as easy as possible. These builders provide buyers with options so that they can design a home that is truly customized to their needs and tastes. 
+  You don’t have to wait for the right home to come on the market. Instead, you get to create the right home. This is very important in a tight inventory market, especially if you’re searching in a price point where multiple offer situations are common and competition is fierce. 
+  You get great incentives when you buy new construction. Many builders offer amazing financing options through preferred lenders. Also, many communities around Central Iowa offer tax abatement incentives for buyers purchasing new construction. This can equate to thousands in savings and help increase your buying power.
+
+
+So, if you’re curious about your options in terms of buying new construction, please get in touch. My team has a high level of expertise on this subject and would be happy to lead you through the process. With the right help, it’s a lot easier than you might think.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Is+a+New+Construction+Home+Right+for+You%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Is+a+New+Construction+Home+Right+for+You%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The true benefits of new construction purchases</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>The true benefits of new construction purchases</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Is Now Such a Great Time to Buy in Our Market?</title>
+        <link>http://localhost:4000/why-is-now-such-a-great-time-to-buy-in-our-market.html</link>
+        
+          <category>Home Buyer Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-05-02 14:54:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Some pretty significant changes have happened in our market recently, and there are three reasons why now is a great time to buy.
+
+First, with how low inventory is, you may be surprised at how much equity is in your current home that you can tap into. One thing our team works really hard at is coaching our clients on how to maximize the value of their home to get as much equity out of it as possible. We’re finding that sellers are pleasantly surprised with the numbers that we’re coming up with which give them incredible buying power.
+
+Second, banks are coming out with some amazing financing options which offer low down payment amounts and great incentives. These options make the buying process so much easier than what we saw two or three years ago when the lending environment was more restrictive. We’re seeing a lot of people take their home equity and use these low down payment options to pay off debt, relieve their monthly cash flow, and improve their overall financial situation.
+
+“Buy now while you can still get a great payment at a historically low rate.”
+
+Third, mortgage interest rates are on the rise and are predicted to keep rising until the end of the year. Since January 2018, interest rates have risen about 0.75%, and that kind of jump has a big effect on buying power. However, rates are still historically low. Conventional wisdom states that by the end of 2018, we’ll be looking at about a 5% rate for a 30-year fixed mortgage. Buy now while you can still get a great payment at a historic low rate.
+
+As always, if you have any further questions about our market or you’re thinking of buying or selling a home, don’t hesitate to reach out to me. I’d love to help you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Conditions in our market have created a great opportunity for homebuyers, but you must strike while the iron is hot.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Conditions in our market have created a great opportunity for homebuyers, but you must strike while the iron is hot.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Sellers, Beware of These 3 Myths</title>
+        <link>http://localhost:4000/sellers-beware-of-these-3-myths.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-03-16 11:26:29 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4</guid>
+        <description>
+
+As a seller, there are three main real estate myths that you need to ignore when putting your home on the market.
+
+Myth #1: You need to raise your listing price to leave room for negotiation.
+
+This is a tough one because it’s been reinforced time and time again, but just because people say it doesn’t mean it’s true. In our Central Iowa market, homes typically sell very close to their list price when they’re priced for today’s market. Depending on your home’s location and what type of home it is, it’s easy to anticipate getting anywhere from 98% to 100% of your list price. When we prepare a market analysis for our sellers, we give them an idea of what to anticipate and structure their pricing strategy based on those two factors.
+
+Myth #2: All homes sell in springtime, so it’s the only time to put your home on the market.
+
+While it’s true that a lot of people are fond of how their home looks in the springtime when everything’s in bloom, the truth is that homes sell every month of the year in our market. There are pros and cons to listing at any time of the year, so don’t worry about timing the market perfectly—worry about what’s best for your needs.
+
+“Don’t follow these myths—follow our tips instead.”
+
+Myth #3: You don’t need to make any changes to your home because the buyer will just want to change it anyway.
+
+Even though buyers love the idea of making renovations and improvements to their future home, the homes that sell the fastest and for top dollar the ones that are already neutralized in stylish, current colors. For carpeting and floor coverings, there are only so many different shades of gray and beige you can use. As a rule of thumb, we always suggest to our sellers to use carpeting that’s very in-style in new construction homes because that’s market-proven to be what buyers desire.
+
+So remember, price your home correctly and don’t artificially inflate it thinking you’re giving yourself room for negotiation. Also, remember that spring isn’t the only time homes sell—strategize your listing according to your family’s needs. Lastly, don’t leave it up to buyers to upgrade your home—make those changes yourself to make your home market-appealing so it sells for top dollar.
+
+If you follow these tips instead of the myths, you’ll have a successful sale. If you’re curious about what’s happening in our market or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d be glad to help.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Biggest+Seller+Mistakes.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>There are three particular real estate myths you shouldn’t abide by if you’re planning on selling your home.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>There are three particular real estate myths you shouldn’t abide by if you’re planning on selling your home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>3 Seller Tips to Make Your Listing Stand Out</title>
+        <link>http://localhost:4000/3-seller-tips-to-make-your-listing-stand-out.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-02-20 15:36:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+How+to+Make+Your+Listing+Shine+in+a+Competitive+Market.mp4</guid>
+        <description>
+
+Everyone knows the basic steps of preparing a home for market. Things like decluttering and neutralizing are obvious, but in a competitive market there are three extra tips you can use to really polish your listing.
+
+1. Pay special attention to your entryway.The front door of your home represents such an important first impression for a buyer. When a buyer visits your property for the very first time, they’ll probably have to stand at the front door for a few minutes waiting for their agent. As homeowners, we don’t always use our front doors to enter or leave the home. Therefore, the area is often neglected. Before you list, spruce up your entryway by adding a clean doormat and a fresh coat of paint to the front door. Also, make sure the entry within your home is clear of shoes or other clutter.
+
+“The front door of your home represents such an important first impression for a buyer.”
+
+2. Clean your mechanical areas. Make sure mechanical areas are tidy and dust-free and that furnace filters are replaced. This will give the buyer a great impression, leaving them more certain about the general care and maintenance of your listing.
+
+3. Clean up closets, storage areas, and your garage. Obviously it is very important to clean, stage, and declutter the main living areas of your home. However, tidying up the storage areas throughout your property can give your listing an extra boost. If your storage areas are in disarray, buyers will feel as if your home lacks adequate space for the things they themselves will need to store when they move in.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+How+to+Make+Your+Listing+Shine+in+a+Competitive+Market.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+How+to+Make+Your+Listing+Shine+in+a+Competitive+Market.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>A few extra touches to your listing will go a long way in a competitive market.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>A few extra touches to your listing will go a long way in a competitive market.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>This Luxury Home Could Be Yours</title>
+        <link>http://localhost:4000/this-luxury-home-could-be-yours.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-01-31 05:35:07 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Luxury+Acreage+-+12427+90th+Ave%252C+Indianola%252C+IA+50125.mp4</guid>
+        <description>
+
+Welcome to 12427 90th Avenue. This luxury, 15-acre estate provides the perfect setting for rustic living with a stylish twist.
+
+Conveniently located just 15 miles south of the DSM Airport and with quick access to the metro, this five-bedroom, five-bathroom home spans 3,870 square feet and showcases plenty of space both indoors and out. Whether you’re entertaining or simply wish to relax, this home presents an ideal environment for either.Detailed with knotty alder beams and gorgeous trim, the home’s great room is just one of its many charming features—perfect for entertaining guests or relaxing with your family. There, you can enjoy scenic views from the lodge-style windows, which are beautifully accented by the room’s soaring ceiling, or cozy up to the stone fireplace.
+
+Overlooking the great room you will find the upstairs loft and two large bedrooms which share a Jack and Jill bath, perfect for children or guests.
+
+Design, function, and relaxation meet in the master suite, thanks to features such as a jetted tub, tiled shower, double-vanity and a walk-in closet.
+
+And let’s not forget the gourmet kitchen, which comes complete with an island, pantry, and honed granite countertops. Nearby, the dining area offers easy access to the property’s massive deck. Entertaining is made easy in this stunning home.
+
+“Whether you’re entertaining or simply wish to relax, this home presents an ideal environment for either.”
+
+When you aren’t entertaining, though, the home is also excellently suited for relaxation and family time. Even working is made more enjoyable from the home’s front-room office.
+
+You’ll find the family room in the finished walkout, where you can enjoy the wet bar and two-sided fireplace. Also in the walkout is a bonus room and additional bedroom suite.
+
+Even the more practical features of this home, such as its laundry and mudroom, are spacious enough for comfort and convenience.
+
+Beyond the main home, the property also hosts an additional building. At 40 by 72 feet, this extra space offers a supplementary living space and a three-quarters bath.
+
+Extra features are in no short supply at this property, which utilizes geothermal and radiant heating.
+
+The property has been pre-inspected and comes with a 13-month HWA Platinum Home Warranty for your peace of mind. So, don’t let the opportunity to own this certified, pre-owned home pass you by.
+
+If you have any other questions, would like more information, or are interested in seeing this beautiful property for yourself, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Luxury+Acreage+-+12427+90th+Ave%252C+Indianola%252C+IA+50125.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Luxury+Acreage+-+12427+90th+Ave%252C+Indianola%252C+IA+50125.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Have you seen this gorgeous, luxury acreage? This property, which couples design and comfort, could be yours.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Have you seen this gorgeous, luxury acreage? This property, which couples design and comfort, could be yours.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Can We Help You Achieve Your Real Estate Goals?</title>
+        <link>http://localhost:4000/how-can-we-help-you-achieve-your-real-estate-goals.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Misty SOLDwisch</author>
+        <pubDate>2018-01-07 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+The real estate landscape in Central Iowa is changing. Never before have there been so many people looking for opportunities in this area.
+
+If you are planning on buying or selling a home in Central Iowa, my team and I are here to help.
+
+I have been in real estate since 1999. From that time, I’ve grown from an individual agent to a broker owner, and now I’m launching The Better Homes and Gardens Real Estate brand here in Iowa. Better Homes and Gardens allows us to provide a big-time network and small town business values.
+
+“On average, we sell one home every 30 hours.”
+
+That’s why we’ve been able to sell over $250 million in real estate. As one of the top selling teams in Iowa, we sell one home every 30 hours on average.
+
+We will work to showcase your home in the best way possible. For more details, check out the video above to learn more about our team, our track record, and our marketing strategies. You will also hear from some of our past clients, as they describe their experiences working with our team.
+
+Please don’t hesitate to reach out to us with any questions. My team and I would be happy to help you!
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Why should you work with the Misty SOLDwisch HomeSelling Team? There are a few things that we do differently.</itunes:subtitle>
+        <itunes:author>Misty SOLDwisch</itunes:author>
+        <itunes:summary>Why should you work with the Misty SOLDwisch HomeSelling Team? There are a few things that we do differently.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Come to Our Open Houses This Fall for a Chance to Win Something Delicious</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-weve-cooked-up-a-fun-prize-for-you.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-weve-cooked-up-a-fun-prize-for-you.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-10-03 12:38:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+We%2527ve+Cooked+up+a+Fun+Prize+for+You.mp4</guid>
         <description>
@@ -57,7 +1642,7 @@ If you’re considering making a change with your home, we would love to help.
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+We%2527ve+Cooked+up+a+Fun+Prize+for+You.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+We%2527ve+Cooked+up+a+Fun+Prize+for+You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -65,7 +1650,7 @@ If you have any other questions or would like more information, feel free to giv
 We’ve got a great chance for you to win the latest edition of the Better Homes and Gardens Cookbook. You might even find the home of your dreams while you’re at it.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 We’ve got a great chance for you to win the latest edition of the Better Homes and Gardens Cookbook. You might even find the home of your dreams while you’re at it.
@@ -76,11 +1661,11 @@ We’ve got a great chance for you to win the latest edition of the Better Homes
       
       <item>
         <title>Get the Home You Want Through a Backup Offer</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-new-hope-for-homebuyers-in-the-backup-offer.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-new-hope-for-homebuyers-in-the-backup-offer.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-08-29 14:40:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Get+the+Home+You+Want+Through+a+Backup+Offer.mp4</guid>
         <description>
@@ -113,7 +1698,7 @@ If you have any questions about this strategy or anything else, just give us a c
 We look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Get+the+Home+You+Want+Through+a+Backup+Offer.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Get+the+Home+You+Want+Through+a+Backup+Offer.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -121,7 +1706,7 @@ We look forward to hearing from you!
 Frustrated homebuyers in the Central Iowa market may be able to use the backup offer strategy to their advantage.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 Frustrated homebuyers in the Central Iowa market may be able to use the backup offer strategy to their advantage.
@@ -132,11 +1717,11 @@ Frustrated homebuyers in the Central Iowa market may be able to use the backup o
       
       <item>
         <title>Were Excited to Join Forces With Better Homes and Gardens Real Estate</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-an-announcement-from-our-team.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-an-announcement-from-our-team.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-07-31 11:03:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -157,7 +1742,7 @@ You’ll start seeing green Better Homes and Gardens signs up with our team’s 
 If you or anyone you know is thinking about buying, selling, or investing in real estate, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -165,7 +1750,7 @@ If you or anyone you know is thinking about buying, selling, or investing in rea
 We have an exciting announcement to make today. It’s going to change the future of our company for the better.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 We have an exciting announcement to make today. It’s going to change the future of our company for the better.
@@ -176,11 +1761,11 @@ We have an exciting announcement to make today. It’s going to change the futur
       
       <item>
         <title>Get an Extra Chance to Win $2,500 Towards Your Next Iowa Home </title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-dont-miss-this-chances.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-dont-miss-this-chances.html</link>
         
           <category>Home Buyer Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-07-25 15:21:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance.mp4</guid>
         <description>
@@ -205,7 +1790,7 @@ Whether you are buying a home for the first time or making a change, this is a g
 If you have any questions, feel free to reach out to us. In the meantime, go ahead and enter. We hope that someone who knows our team wins this opportunity. Good luck!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Don%2527t+Miss+This+Chance.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -213,7 +1798,7 @@ If you have any questions, feel free to reach out to us. In the meantime, go ahe
 The Iowa Finance Authority has a special sweepstakes right now offering $2,500 in cash or down payment assistance! We can help you get an extra chance to win.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 The Iowa Finance Authority has a special sweepstakes right now offering $2,500 in cash or down payment assistance! We can help you get an extra chance to win.
@@ -224,11 +1809,11 @@ The Iowa Finance Authority has a special sweepstakes right now offering $2,500 i
       
       <item>
         <title>3 Easy and Helpful Moving Hacks</title>
-        <link>http://changinglivesthroughrealestate.com/3-easy-and-helpful-moving-hacks.html</link>
+        <link>http://localhost:4000/3-easy-and-helpful-moving-hacks.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-06-09 14:09:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+3+Easy+and+Helpful+Moving+Hacks.mp4</guid>
         <description>
@@ -251,7 +1836,7 @@ If you’re moving, these three tips should help you out quite a bit:
 If you’re thinking about making a move and need to buy and or sell a home, give us a call or send us an email. We’d love to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+3+Easy+and+Helpful+Moving+Hacks.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+3+Easy+and+Helpful+Moving+Hacks.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -259,7 +1844,7 @@ If you’re thinking about making a move and need to buy and or sell a home, giv
 As a home seller, how do you know which offer to pick in a multiple offer situation?
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 As a home seller, how do you know which offer to pick in a multiple offer situation?
@@ -270,11 +1855,11 @@ As a home seller, how do you know which offer to pick in a multiple offer situat
       
       <item>
         <title>What Should You Do When There Are Multiple Offers on Your Home?</title>
-        <link>http://changinglivesthroughrealestate.com/what-should-you-do-when-there-are.html</link>
+        <link>http://localhost:4000/what-should-you-do-when-there-are.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-05-30 10:39:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Choosing+the+Best+Offer+for+Your+Home.mp4</guid>
         <description>
@@ -303,7 +1888,7 @@ Ultimately, we will sit down, look at all your different options, and work toget
 If you have any other questions about selling your home in our current market, just give us a call. We would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Choosing+the+Best+Offer+for+Your+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/videos/Central+Iowa+Real+Estate+Agent-+Choosing+the+Best+Offer+for+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -311,7 +1896,7 @@ If you have any other questions about selling your home in our current market, j
 As a home seller, how do you know which offer to pick in a multiple offer situation?
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 As a home seller, how do you know which offer to pick in a multiple offer situation?
@@ -322,11 +1907,11 @@ As a home seller, how do you know which offer to pick in a multiple offer situat
       
       <item>
         <title>Join Mistys Team:  Were Hiring a Home Selling Specialist!</title>
-        <link>http://changinglivesthroughrealestate.com/before-you-decide-to-downsize-from-your.html</link>
+        <link>http://localhost:4000/before-you-decide-to-downsize-from-your.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-04-10 11:56:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -359,7 +1944,7 @@ If this sounds like something that would be of interest to you—to be able to l
 As always, if you have any real estate questions, I’d love to answer them. We’re here to help!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -367,7 +1952,7 @@ As always, if you have any real estate questions, I’d love to answer them. We�
 My team is on the lookout for a good Home Selling Specialist. Joining us comes with many advantages and opportunities.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 My team is on the lookout for a good Home Selling Specialist. Joining us comes with many advantages and opportunities.
@@ -378,11 +1963,11 @@ My team is on the lookout for a good Home Selling Specialist. Joining us comes w
       
       <item>
         <title>When Is the Right Time to Downsize?</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-right.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-right.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-03-29 08:32:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Right+Time+to+Downsize+Is.mp4</guid>
         <description>
@@ -405,7 +1990,7 @@ One question we are asked on a pretty regular basis by clients is, “How do I k
 If you have any questions for us or are looking to buy or sell in Des Moines, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Right+Time+to+Downsize+Is.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Right+Time+to+Downsize+Is.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -413,7 +1998,7 @@ If you have any questions for us or are looking to buy or sell in Des Moines, gi
 Before you decide to downsize from your current home, ask yourself these three questions.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 Before you decide to downsize from your current home, ask yourself these three questions.
@@ -424,11 +2009,11 @@ Before you decide to downsize from your current home, ask yourself these three q
       
       <item>
         <title>How Do Home Warranties Benefit Both Buyers and Sellers?</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-should.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-should.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-02-20 11:51:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -455,7 +2040,7 @@ Our personal warranty provider is HWA Warranty. They have an awesome platinum wa
 If you have any other questions about how a home warranty can benefit you or anything else related to real estate in Central Iowa, feel free to give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -463,7 +2048,7 @@ If you have any other questions about how a home warranty can benefit you or any
 Why do we recommend that every home buyer or seller gets a home warranty? Here are the benefits that warranties provide.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 Why do we recommend that every home buyer or seller gets a home warranty? Here are the benefits that warranties provide.
@@ -474,11 +2059,11 @@ Why do we recommend that every home buyer or seller gets a home warranty? Here a
       
       <item>
         <title>How to Avoid Surprise Costs When Buying an Iowa Home</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-extra.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-extra.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-02-03 17:07:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Extra+Hidden+Costs+of+Buying+a+Home.mp4</guid>
         <description>
@@ -507,7 +2092,7 @@ All these items are very easy to overcome; it’s all about having the knowledge
 If you have any other questions about the costs of homeownership or you’re thinking about buying or selling a central Iowa home, just give me a call. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Extra+Hidden+Costs+of+Buying+a+Home.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+The+Extra+Hidden+Costs+of+Buying+a+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -515,7 +2100,7 @@ If you have any other questions about the costs of homeownership or you’re thi
 There tend to be a few common costs that buyers overlook when they purchase their home. Today, I have a full list of these items that will help buyers avoid getting surprised by extra costs.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 There tend to be a few common costs that buyers overlook when they purchase their home. Today, I have a full list of these items that will help buyers avoid getting surprised by extra costs.
@@ -526,11 +2111,11 @@ There tend to be a few common costs that buyers overlook when they purchase thei
       
       <item>
         <title>How Do You Know When to Sell Your Home?</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-when.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-when.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2017-01-17 12:08:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+When+Should+You+Sell+Your+Home%253F.mp4</guid>
         <description>
@@ -555,7 +2140,7 @@ If your house is in a newer neighborhood (e.g., the majority of the homes in the
 When it comes to helping you make the best decision regarding your home sale, we don’t deal in speculation—we strategize based on many different concrete factors. If you have any questions, feel free to reach out to us. We’re here to help!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+When+Should+You+Sell+Your+Home%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+When+Should+You+Sell+Your+Home%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -563,7 +2148,7 @@ When it comes to helping you make the best decision regarding your home sale, we
 There is no “right” time to sell your home; however, there are certain factors you can look at to determine what’s best in your specific situation.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 There is no “right” time to sell your home; however, there are certain factors you can look at to determine what’s best in your specific situation.
@@ -574,11 +2159,11 @@ There is no “right” time to sell your home; however, there are certain facto
       
       <item>
         <title>The Benefits of Our Certified Pre-Owned Home Program</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-our.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-our.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2016-12-01 14:30:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Our+Certified+Pre-Owned+Home+Program.mp4</guid>
         <description>
@@ -605,7 +2190,7 @@ We’re the only real estate company that offers this program, and we’re thril
 As always, if you have any other questions, please feel free to give me a call or shoot me an email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Our+Certified+Pre-Owned+Home+Program.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Our+Certified+Pre-Owned+Home+Program.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -613,7 +2198,7 @@ As always, if you have any other questions, please feel free to give me a call o
 Our certified pre-owned home program allows our sellers to have their home pre-inspected before it hits the market and puts them in a position of power when it comes to negotiations.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 Our certified pre-owned home program allows our sellers to have their home pre-inspected before it hits the market and puts them in a position of power when it comes to negotiations.
@@ -624,11 +2209,11 @@ Our certified pre-owned home program allows our sellers to have their home pre-i
       
       <item>
         <title>What You Need to Know About Closing Fees</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-home.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-home.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2016-11-16 16:31:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Home+Sale+Closing+Fees.mp4</guid>
         <description>
@@ -651,7 +2236,7 @@ Whether it’s an attorney or an escrow company that does this, there are simila
 If you have any other questions about how this closing fee works, feel free to reach out to me by phone or email. I look forward to hearing from you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Home+Sale+Closing+Fees.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+Home+Sale+Closing+Fees.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -659,7 +2244,7 @@ If you have any other questions about how this closing fee works, feel free to r
 &lt;When the time comes to close on your home, your agent will work with many other people to complete the transaction.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 &lt;When the time comes to close on your home, your agent will work with many other people to complete the transaction.
@@ -670,11 +2255,11 @@ If you have any other questions about how this closing fee works, feel free to r
       
       <item>
         <title>What Do Realtor Service Fees Cover? </title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-oct-2016.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-oct-2016.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2016-11-07 12:58:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+Do+Realtor+Service+Fees+Cover%253F.mp4</guid>
         <description>
@@ -701,7 +2286,7 @@ Part of these service fees go to our marketing and our expertise, and another pa
 As I said, Realtor service fees are only part of the cost of selling your home. If you have any other questions about the cost of selling your home or about real estate in general, give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+Do+Realtor+Service+Fees+Cover%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+Do+Realtor+Service+Fees+Cover%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -709,7 +2294,7 @@ As I said, Realtor service fees are only part of the cost of selling your home. 
 Want to know how much it will cost to sell your home? Ask different agents about their Realtor service fees and what those fees cover.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 Want to know how much it will cost to sell your home? Ask different agents about their Realtor service fees and what those fees cover.
@@ -720,11 +2305,11 @@ Want to know how much it will cost to sell your home? Ask different agents about
       
       <item>
         <title>Breaking Down the Abstracting Process</title>
-        <link>http://changinglivesthroughrealestate.com/central-iowa-real-estate-agent-what-you.html</link>
+        <link>http://localhost:4000/central-iowa-real-estate-agent-what-you.html</link>
         
           <category>Central Iowa Real Estate</category>
         
-        <author>Misty Soldwisch</author>
+        <author>Misty SOLDwisch</author>
         <pubDate>2016-10-24 14:53:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+You+Need+to+Know+about+Abstracts.mp4</guid>
         <description>
@@ -749,7 +2334,7 @@ In other states, title insurance will usually take the place of an abstract. Thi
 If you have any other questions about abstracting or anything else related to real estate, feel free to reach out and give me a call or send me an email. I’d be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+You+Need+to+Know+about+Abstracts.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="http://changinglivesthroughrealestate.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Misty+Soldwisch/Central+Iowa+Real+Estate+Agent-+What+You+Need+to+Know+about+Abstracts.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>
@@ -757,7 +2342,7 @@ If you have any other questions about abstracting or anything else related to re
 If you’re thinking about selling your home sometime in the near future, you’ll need to update your abstract. Here is what that means.
 
 </itunes:subtitle>
-        <itunes:author>Misty Soldwisch</itunes:author>
+        <itunes:author>Misty SOLDwisch</itunes:author>
         <itunes:summary>
 
 If you’re thinking about selling your home sometime in the near future, you’ll need to update your abstract. Here is what that means.
@@ -766,8 +2351,8 @@ If you’re thinking about selling your home sometime in the near future, you’
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Central Iowa, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>Misty Soldwisch</copyright>
-    <media:credit role="author">Misty Soldwisch</media:credit>
+    <copyright>Misty SOLDwisch</copyright>
+    <media:credit role="author">Misty SOLDwisch</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Misty SOLDwisch Home Selling Team - your professional Central Iowa Real Estate Agents.</media:description>
   </channel>

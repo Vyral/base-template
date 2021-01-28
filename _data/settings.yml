@@ -14,6 +14,12 @@ custom_links:
   - title: Meet and Greet with Misty
     url: >-
       https://www.eventbrite.com/e/meet-greet-with-misty-soldwisch-better-homes-gardens-real-estate-tickets-44692218629
+  - title: Guaranteed Offer
+    url: /guaranteed-offer/
+
+forms:
+  sitekey:
+
 client:
   name: Misty SOLDwisch
   license_number: 'BRE #B40909000'
