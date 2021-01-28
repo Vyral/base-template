@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the ‘Coming Soon’ and ‘Pre-Marketing’ Statuses Differ
-date: 2021-01-27 20:53:49
+date: 2021-01-27 20:53:00
 tags:
   - Real Estate
 excerpt: Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.
@@ -10,16 +10,16 @@ enclosure: >-
 pullquote: What’s the best fit in your case? It all depends on your situation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image: /uploads/chad--sara-huebeners-coming-soon-vs-premarketing-yt.jpg
-youtube_code: 0jnQYc5BWao
+use_youtube_image: true
+youtube_alternate_image: /uploads/huebners-coming-soon-v-premarketing-yt2.jpg
+youtube_code: Y_dV7MnEC2w
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.</em></p>
+*Here’s where the ‘coming soon’ and ‘pre-marketing’ statuses differ.*
 
-Many people assume “coming soon” status and ‘pre-marketing’ status are the same thing, but they're not.&nbsp;
+Many people assume “coming soon” status and "pre-marketing" status are the same thing, but they're not.&nbsp;
 
 **The coming soon status is for sellers who are preparing to put their homes on the market.** It’s a status the general public can find and see online. It’s searchable and the home doesn’t accumulate marketing time in this status, but the seller has 21 days to officially list the home once it’s been categorized thus. While the home is in “coming soon” status, no showings can occur, but it can be marketed. A seller whose home is in “coming soon” status may notice many people driving by the property—we’ve even heard of curious buyers wandering through backyards.&nbsp;
 
@@ -29,4 +29,4 @@ Many people assume “coming soon” status and ‘pre-marketing’ status are t
 
 What’s the best fit in your case? It all depends on your situation, meaning your timeline and how you want to advertise your property. Neither status perfectly suits any particular client. When you think the time is right to sell, we’d be happy to sit down with you and talk about your best course of action.&nbsp;
 
-As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’m happy to help.
+As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to us. We're happy to help.
