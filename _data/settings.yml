@@ -8,6 +8,9 @@ show_custom_links: true
 custom_links:
   - title: Our Raving Fans
     url: /raving-fans
+  - title: Guaranteed Offer
+    url: /guaranteed-offer`
+
 client:
   name: Bob Sokoler
   license_number:
@@ -38,6 +41,9 @@ client:
   url: 'http://www.weselllouisville.com'
 
 emma_form: <script id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808368';</script><script src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+
+forms:
+  sitekey:
 
 CTAs:
   first_CTA_text: Home Valuation
