@@ -6,7 +6,8 @@ tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are the things you should and shouldn’t spend money on when selling.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+SpendMoneyBeforeSelling.mp4
 pullquote: Focus on the areas buyers will concentrate on the most.
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: 7zexXSACcvs
 
 {% include youtube.html %}
 
-<center><em>Here are the things you should and shouldn’t spend money on when selling.</em></center>
+<center><em>Here are the things you should and shouldn&rsquo;t spend money on when selling.</em></center>
 
 &nbsp;
 
