@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are 1031 Tax-Deferred Exchange?
-date: 2021-01-29 17:09:58
+date: 2021-01-29 17:09:00
 tags:
 excerpt: Here are the basics about 1031 tax-deferred exchanges for investors.
 enclosure:
@@ -15,7 +15,9 @@ youtube_code: BOhM_i18f2k
 
 {% include youtube.html %}
 
-<center>Here are the basics about 1031 tax-deferred exchanges for investors.&nbsp;</center>
+<center><em>Here are the basics about 1031 tax-deferred exchanges for investors.&nbsp;</em></center>
+
+<center>&nbsp;</center>
 
 What do 1031 tax-deferred exchanges mean for real estate investors?&nbsp;
 
