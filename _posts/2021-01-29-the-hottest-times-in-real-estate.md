@@ -1,7 +1,7 @@
 ---
 layout: post
-title: When Are the Hottest Times in Real Estate?
-date: 2021-01-29 18:16:59
+title: The Hottest Times in Real Estate
+date: 2021-01-29 18:16:00
 tags:
   - Real Estate
 excerpt: Here’s how our year of activity generally works in the real estate market.
