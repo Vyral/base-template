@@ -19,6 +19,8 @@ youtube_code: IThUa9aBOEA
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>These tips will help you when a buyer starts making repair requests.</em></p>
+
 In nearly every home sale, buyers make repair requests to sellers. As a seller, here are three tips that will come in handy when a buyer you have under contract starts making repair requests:
 
 **1\. Try explaining to the buyer the difference between repairs and improvements.** Repairs are for when something is broken, and the whole purpose of a buyer’s home inspection is to find items that are broken and need to be repaired—not search for improvements that might increase the home’s value. A leaking roof, for example, is something that needs to be repaired. A roof that’s old and might need to be replaced in five or 10 years is just something that could be improved.&nbsp;
