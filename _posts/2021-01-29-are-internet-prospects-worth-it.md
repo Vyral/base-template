@@ -17,7 +17,7 @@ youtube_code: EKd1OwyW08M
 
 {% include youtube.html %}
 
-Here are the three things you must do if you want to use internet leads.
+<p style="text-align: center;"><em>Here are the three things you must do if you want to use internet leads.</em></p>
 
 Should you spend time on internet prospects from Zillow, Realtor.com, and other sources? There are many ways to build your business, and this seems like an easy one—throw money at something and expect a return. I’ve been working on this question for half a decade and tracked it along the way, and I’ve learned that you can spend money on those sources and get a return *if* you’re willing to do three specific things, and it actually isn’t the easiest source of business. For us, and some of the other larger teams around the country, it ranks as the sixth or seventh highest return on investment.&nbsp;
 
