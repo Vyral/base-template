@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hottest Times in Real Estate
+title: When Are the Hottest Times in Real Estate?
 date: 2021-01-29 18:16:00
 tags:
   - Real Estate
