@@ -18,7 +18,7 @@ youtube_code: QyULcRknWFU
 
 {% include youtube.html %}
 
-Here’s why our Certified Pre-Own program is a seller’s best friend.&nbsp;
+<p style="text-align: center;"><em>Here’s why our Certified Pre-Own program is a seller’s best friend.</em></p>
 
 {% include pullquote.html %}
 
