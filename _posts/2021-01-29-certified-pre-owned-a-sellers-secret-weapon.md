@@ -22,9 +22,9 @@ youtube_code: QyULcRknWFU
 
 We’ve been doing the Certified Pre-Owned home program for several years now, and it’s a fantastic marketing feature for our sellers. However, there is a more thoughtful intent behind it than simply maximizing appeal to buyers. We often find that **one of the most stressful aspects of the home-selling process for sellers is the home inspection**—quite understandably. No one’s thrilled by the prospect of letting a complete stranger into their home so that they can critique every inch of it.&nbsp;
 
-{% include pullquote.html %}
-
 Worse yet, after having negotiated with your buyer down to penny on how this transaction will go, you’re hit over the head 10 days later with a second round of negotiations based on the findings in the inspection report. Your buyer’s reaction to simple fixes and trivial “issues” may be way overblown, and suddenly, the transaction can hang in the balance.&nbsp;
+
+{% include pullquote.html %}
 
 During this difficult phase, we want to put our sellers in the driver’s seat. **Well before the buyer’s inspector comes knocking, you’ll have already had your home vetted**. You’ll know what major issues there are, if any, and you will have had ample time to craft your own to-do list. You also won’t be surprised by the financial burden of repairs, either, as you’ll have had the time to figure the upfront costs of installing new flooring, making a roof repair, sealing up drafty windows, etc. Why wait until the negotiation phase to be blindsided by hundreds or thousands of dollars in repairs when you could get ahead of those issues now?&nbsp;
 
