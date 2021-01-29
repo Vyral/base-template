@@ -17,7 +17,7 @@ youtube_code: 0dNXhLllILc
 
 {% include youtube.html %}
 
-Here’s how our year of activity generally works in the real estate market.
+<p style="text-align: center;"><em>Here’s how our year of activity generally works in the real estate market.</em></p>
 
 What are the hottest real estate months in the south-central Pennsylvania market?&nbsp;
 
