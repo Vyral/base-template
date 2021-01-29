@@ -17,7 +17,7 @@ youtube_code: x8zkEyLWR7Q
 
 {% include youtube.html %}
 
-Here are all the 2020 real estate numbers from the markets we cover.
+<p style="text-align: center;"><em>Here are all the 2020 real estate numbers from the markets we cover.</em></p>
 
 Today I’m back with a full recap of the 2020 real estate market. I broke down all the numbers you need to know for our waterfront properties, and I’m excited to share them with you.
 
