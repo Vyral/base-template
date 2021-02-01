@@ -1,12 +1,13 @@
 ---
 layout: post
 title: What Does Charlene Have to Say About Us?
-date: 2021-01-20 09:00:00
+date: 2021-02-01 09:00:00
 tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s what satisfied buyer client Charlene had to say about us.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jonathan+Carbutti/What+Does+Charlene+Have+to+Say+About+Us_.mp4
 pullquote: >-
   I would feel extremely comfortable recommending Carbutti & Co. to anybody. I
   actually recommended them to my daughter very recently.
@@ -19,7 +20,7 @@ youtube_code: bM9UoaG2FUo
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what satisfied buyer client Charlene had to say about us.</em></p>
+*Here’s what satisfied buyer client Charlene had to say about us.*
 
 Charlene is yet another wonderful client who took advantage of our expertise and services to buy a home in North Branford back in July 2020. **Sally Andrews was the Carbutti & Co. agent who worked hard to help Charlene get out of her old house and into her next one quickly;** Charlene, who was navigating a divorce at the time, joked that she drove Sally crazy because she didn’t know where she wanted to move when she began the process. Nonetheless, Sally helped her keep focused, and together they covered a lot of ground. Finally, Charlene was able to settle on a winner.&nbsp;
 
