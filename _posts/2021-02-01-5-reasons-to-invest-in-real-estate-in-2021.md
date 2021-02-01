@@ -17,7 +17,7 @@ youtube_code: EcQJsE2_7_w
 
 {% include youtube.html %}
 
-*Here are five excellent reasons to invest in real estate this year.*
+<p style="text-align: center;"><em>Here are five excellent reasons to invest in real estate this year.</em></p>
 
 Here are five reasons why it’s a good idea to consider purchasing investment real estate in 2021:
 
