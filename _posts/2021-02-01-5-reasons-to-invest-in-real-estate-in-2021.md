@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 5 Reasons to Invest in Real Estate in 2021
-date: 2021-01-28 09:00:00
+date: 2021-02-01 09:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are five excellent reasons to invest in real estate this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/5+Reasons+to+Invest+in+Real+Estate+in+2021.mp4
 pullquote: 'When inflation happens, your real estate assets will go up in value.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: EcQJsE2_7_w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are five excellent reasons to invest in real estate this year.</em></p>
+*Here are five excellent reasons to invest in real estate this year.*
 
 Here are five reasons why it’s a good idea to consider purchasing investment real estate in 2021:
 
