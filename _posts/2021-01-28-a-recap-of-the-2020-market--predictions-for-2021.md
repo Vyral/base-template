@@ -6,7 +6,7 @@ tags:
   - Market Update
 excerpt: Here’s a recap of our 2020 market and what I expect in 2021.
 enclosure:
-pullquote: Home appreciation was up 10% year over year in June.
+pullquote: Sales are up and demand is strong.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -16,11 +16,11 @@ youtube_code: fMddNqIHb6w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a recap of our 2020 market and what I expect in 2021.</em></p>
+*Here’s a recap of our 2020 market and what I expect in 2021.*
 
-2020 was certainly an interesting year for all of us. I hope you and your families are staying healthy out there. Back in March and April, we were panicked with the thoughts of what would happen in the real estate market. Then, in June, everything busted loose and we saw sale prices jump way up. **We had been seeing a 1% to 2% appreciation in years past, but this year’s average price in June was up 10% from where it was in 2019.**
+2020 was certainly an interesting year for all of us. I hope you and your families are staying healthy out there. Back in March and April, we were panicked with the thoughts of what would happen in the real estate market. Then, in June, everything busted loose and we saw sale prices jump way up. **We had been seeing a 1% to 2% appreciation in years past, but last year’s average price in June was up 10% from where it was in 2019.**
 
-For certain months, we saw increases in sales as high as 30% in places like Bel Air. Even though inventory has declined, sales are up and demand is strong. Here in January, we’re at about 30% to 33% of where we used to be in 2019 in terms of inventory. **This is great news for sellers, but not so much for buyers.**
+In certain months, we saw increases in sales as high as 30% in places like Bel Air. Even though inventory has declined, sales are up and demand is strong. Here in January, we’re at about 30% to 33% of where we used to be in 2019 in terms of inventory. **This is great news for sellers, but not so much for buyers.**
 
 {% include pullquote.html %}
 
