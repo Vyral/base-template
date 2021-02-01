@@ -8,8 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Our Raving Fans
     url: /raving-fans
-  - title: Guaranteed Offer
-    url: /guaranteed-offer/
+  - title: Guaranteed Sale
+    url: /guaranteed-sale/
 
 client:
   name: Bob Sokoler
