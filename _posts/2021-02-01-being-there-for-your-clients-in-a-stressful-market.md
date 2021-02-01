@@ -12,8 +12,8 @@ pullquote: >-
   challenging market.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/01-29-wolek-recruiting-youtube.jpg
 youtube_code: Kdc8Thi8vi8
 ---
 
