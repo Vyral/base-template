@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Appraisals Affect Homebuyers?
-date: 2021-01-21 09:00:00
+date: 2021-02-01 09:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how home appraisals work and why you don’t need to be nervous.
