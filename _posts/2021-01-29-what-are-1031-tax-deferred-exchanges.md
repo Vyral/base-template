@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What Are 1031 Tax-Deferred Exchange?
+title: What Are 1031 Tax-Deferred Exchanges?
 date: 2021-01-29 17:09:00
 tags:
 excerpt: Here are the basics about 1031 tax-deferred exchanges for investors.
@@ -10,12 +10,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: BOhM_i18f2k
+youtube_code: 86XpbvlSk4Y
 ---
 
 {% include youtube.html %}
 
-<center><em>Here are the basics about 1031 tax-deferred exchanges for investors.&nbsp;</em></center>
+<center><em>Here are the basics of 1031 tax-deferred exchanges for investors.&nbsp;</em></center>
 
 <center>&nbsp;</center>
 
@@ -25,6 +25,6 @@ If you own an investment property, at some point most of the profits from it lev
 
 {% include pullquote.html %}
 
-If you’re an investor interviewing real estate agents, the most crucial question to ask is if they’re an investor too. Ask to see their portfolio—is what they’ve done similar to what you want to do?You need to ensure they know a lot about investing and don’t just buy and sell houses. If you’re considering investing in real estate, most of our agents (including me) have investment properties, and **we’d love to have that conversation with you.&nbsp;**
+If you’re an investor interviewing real estate agents, the most crucial question to ask is if they’re an investor too. Ask to see their portfolio—is what they’ve done similar to what you want to do? You need to ensure they know a lot about investing and don’t just buy and sell houses. If you’re considering investing in real estate, most of our agents (including me) have investment properties, and **we’d love to have that conversation with you.&nbsp;**
 
 If you have any questions or want to have that investment conversation with us, [visit our website](https://thewhitegroup.com/) or give us a call. We would love to help you.
