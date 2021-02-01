@@ -25,11 +25,11 @@ Today I’m back with a full recap of the 2020 real estate market. I broke down 
 
 0:40- Residential and vacant land sales numbers for 2020
 
-2:15- Flathead lake sales numbers for homes and vacant land
+2:15- Flathead Lake sales numbers for homes and vacant land
 
 6:00- Sales numbers for Flathead Lake condos
 
-7:00- Full recap of Echo Lake, Lake Blaine, and Lake of the Woods sale numbers
+7:00- Full recap of Echo Lake, Lake Blaine, and Lake of the Woods sales numbers
 
 9:30- Swan Lake’s sales numbers
 
