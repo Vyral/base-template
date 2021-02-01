@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Guaranteed Offer
-permalink: /guaranteed-offer/
+title: Guaranteed Sale
+permalink: /guaranteed-sale/
 ---
 <div class="recruiting-page">
 <h1 class="join-us">An Easier Way to Sell Your Area Home</h1>
