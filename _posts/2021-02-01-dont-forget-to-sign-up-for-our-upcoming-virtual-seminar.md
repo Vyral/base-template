@@ -17,6 +17,6 @@ youtube_code: BjOR-r_KtFk
 
 {% include youtube.html %}
 
-If selling a home is one of your 2021 goals, join us at our virtual seminar.
+<p style="text-align: center;"><em>If selling a home is one of your 2021 goals, join us at our virtual seminar.</em></p>
 
 Today I’m just sending out a quick reminder about our upcoming home seller virtual seminar on February 11. We’d love to have you join us\! This is going to be a great event for anyone who is looking to sell their home this spring or summer as prices continue to rise. If you’re looking for tips and tricks to maximize your profits, look no further than our virtual seminar on Thursday, February 11. [You can sign up here.](http://alaskatopagent.com/) To learn more, watch this short video.
