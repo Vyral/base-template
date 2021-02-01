@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: Here’s how our year of activity generally works in the real estate market.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2021/What+Are+the+Hottest+Months+in+the+South+Central+PA+Real+Estate+Market_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/+Video/2021/Central+PA+Real+Estate+Agent_+hottttt+montttths.mp4
 pullquote: Knowing this information could be helpful if you’re planning a move.
 enclosure_type: video/mp4
 enclosure_time:
