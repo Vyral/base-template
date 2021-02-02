@@ -5,7 +5,8 @@ date: 2021-01-22 00:00:00
 tags:
   - Real Estate
 excerpt: 'Our time is limited, but we always carve out space for you.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/The+HBR+Team+Is+Here+to+Help+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
