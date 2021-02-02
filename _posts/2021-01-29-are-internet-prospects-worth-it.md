@@ -31,4 +31,4 @@ If you still want to use internet sources, here’s what you need to do:
 
 **3\. Conversion happens in the follow-up.** Over 50% of the people who inquire that intend to buy won’t purchase until next year. Their business is in the amount of time you can nurture, follow up, and build relationships with them.&nbsp;
 
-If you have any questions about how we scrutinize our prospects or have conversations with leads, I’d love to share what we do with you. Reach out to me via phone or email, and I’ll follow up with you. I’d love to help you do better business.
+If you have any questions about how we scrutinize our prospects or have conversations with leads, I’d love to share what we do with you. Reach out to me via phone or email at 717.216.0860 or dave@davehooketeam.com, and I’ll follow up with you. I’d love to help you do better business.
