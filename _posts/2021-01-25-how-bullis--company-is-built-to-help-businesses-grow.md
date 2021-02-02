@@ -5,7 +5,8 @@ date: 2021-01-25 00:00:00
 tags:
   - Real Estate
 excerpt: Kelly Bullis joined me to talk about their unique solutions for businesses.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/How+Bullis+%26+Company+Is+Built+to+Help+Businesses+Grow.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
