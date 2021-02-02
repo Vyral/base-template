@@ -29,7 +29,7 @@ Recently, a member of our team pointed out that the times we tend to have big ch
 
 {% include pullquote.html %}
 
-Lastly, you also need to educate your clients on how to win in this market. That could mean advising buyers not to ask for concessions, to purchase a home as is, pay with cash, and more. For sellers, new listings are coming on the market with 20 to 35 listings all in a short span, which can be stressful; preparing them for the onslaught of activity they’ll face could include just telling them to go out of town for a few days while you take care of the showings. Additionally, be sure to **explain to your sellers that they need to act fast**—this isn’t the time to hem and haw. If a buyer’s offer isn’t chosen in this market, they need to move on to have a chance at getting the next home.
+Lastly, you also need to educate your clients on how to win in this market. That could mean advising buyers not to ask for concessions, to purchase a home as is, pay with cash, and more. For sellers, new listings are coming on the market with 20 to 35 showings all in a short span, which can be stressful; preparing them for the onslaught of activity they’ll face could include just telling them to go out of town for a few days while you take care of the showings. Additionally, be sure to **explain to your sellers that they need to act fast**—this isn’t the time to hem and haw. If a buyer’s offer isn’t chosen in this market, they need to move on to have a chance at getting the next home.
 
 Whether you’re working with a seller or buyer, just remember that we’re all in this together. Let’s work cooperatively and stay positive so that we can do the best for our clients.
 
