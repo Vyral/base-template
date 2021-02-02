@@ -18,7 +18,7 @@ youtube_code: QyULcRknWFU
 
 {% include youtube.html %}
 
-*Here’s why our Certified Pre-Own program is a seller’s best friend.*
+<p style="text-align: center;"><em>Here’s why our Certified Pre-Own program is a seller’s best friend.</em></p>
 
 My conversation with Adam McCarty at [Rightway Home Inspections](www.rightwayhi.com){: target="_blank" rel="noopener"}.
 
