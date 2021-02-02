@@ -27,4 +27,4 @@ According to all the statistics, in a usual fiscal year, **April, May, and June 
 
 **It isn’t exactly the same every year** because of elections, the federal Reserve changing interest rates, the pandemic, and more. If you’re watching the market, you need to keep an eye on large events such as these that can alter things. Knowing this information could be helpful if you’re planning a move.&nbsp;
 
-If you have any questions about timing your move or what may work best for you and your family, reach out via phone or email, and one of our team members will follow up and take excellent care of you. We would love to be your real estate resource.
+If you have any questions about timing your move or what may work best for you and your family, reach out via phone or email us at 717.216.0860 or dave@davehooketeam.com, and one of our team members will follow up and take excellent care of you. We would love to be your real estate resource.
