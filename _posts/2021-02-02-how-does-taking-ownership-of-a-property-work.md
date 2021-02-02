@@ -5,7 +5,7 @@ date: 2021-02-02 19:07:00
 tags:
   - Real Estate
 excerpt: Here’s my conversation with Arielle about taking ownership of a home.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/How+Does+Taking+Ownership+of+a+Property+Work_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,6 +15,8 @@ youtube_code: EFcLrJXMa4w
 ---
 
 {% include youtube.html %}
+
+<p style="text-align: center;"><em>Here’s my conversation with Arielle about taking ownership of a home.</em></p>
 
 Today I’m delighted to be joined by my friend Arielle Cecala of Crowley and Cummings. She’s our go-to attorney and recently sat down with me to talk about all the different ways you can take ownership when you purchase real estate.
 
