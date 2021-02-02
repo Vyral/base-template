@@ -20,7 +20,7 @@ youtube_code: QyULcRknWFU
 
 <p style="text-align: center;"><em>Here’s why our Certified Pre-Own program is a seller’s best friend.</em></p>
 
-<p style="text-align: center;"> <em>My conversation with Adam McCarty at [Rightway Home Inspections](www.rightwayhi.com){: target="_blank" rel="noopener"}\: </em></p>
+<em>My conversation with Adam McCarty at [Rightway Home Inspections](www.rightwayhi.com){: target="_blank" rel="noopener"}\:
 
 We’ve been doing the Certified Pre-Owned home program for several years now, and it’s a fantastic marketing feature for our sellers. However, there is a more thoughtful intent behind it than simply maximizing appeal to buyers. We often find that **one of the most stressful aspects of the home-selling process for sellers is the home inspection**—quite understandably. No one’s thrilled by the prospect of letting a complete stranger into their home so that they can critique every inch of it.&nbsp;
 
