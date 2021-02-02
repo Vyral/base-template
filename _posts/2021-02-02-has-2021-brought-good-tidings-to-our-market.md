@@ -19,7 +19,7 @@ youtube_code: yo61ZYP-rJU
 
 <center><em>Here&rsquo;s an overview of where our market stands in 2021.</em></center>
 
-<br>Welcome to your first market report of 2021\! The good news is that, in general, things are trending in the right direction. The country seems to be reenergized now that 2020 is in the rearview mirror and the new presidential administration is settling in. On top of that, the Federal Reserve recently announced that they won’t be changing interest rates, which is a great sign for our market moving forward. Today I’ll dive into the latest numbers from all the key areas in our Hoboken/Hudson County market.
+<br>Welcome to your first market report of 2021\! The good news is that, in general, things are trending in the right direction. The country seems to be re-energized now that 2020 is in the rearview mirror and the new presidential administration is settling in. On top of that, the Federal Reserve recently announced that they won’t be changing interest rates, which is a great sign for our market moving forward. Today I’ll dive into the latest numbers from all the key areas in our Hoboken/Hudson County market.
 
 **Feel free to watch the video above in its entirety to get the full scoop or use these timestamps to skip ahead to various sections at your leisure:**
 
