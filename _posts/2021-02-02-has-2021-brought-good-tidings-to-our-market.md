@@ -23,13 +23,13 @@ youtube_code: yo61ZYP-rJU
 
 **Feel free to watch the video above in its entirety to get the full scoop or use these timestamps to skip ahead to various sections at your leisure:**
 
-0:56 — Bergen Lafayette, West Bergen, and Bayonne are outstanding seller’s markets
+0:56 — Bergen-Lafayette, West Bergen, and Bayonne are outstanding seller’s markets
 
 1:49 — Hoboken/Downtown Jersey City
 
 3:12 — Recommendations for landlords and investors
 
-4:38 — Why time is running out for buyers in Hoboken and Downtown Jersey City
+4:38 — Why time is running out for buyers in Hoboken and downtown Jersey City
 
 5:31 — My advice for sellers
 
