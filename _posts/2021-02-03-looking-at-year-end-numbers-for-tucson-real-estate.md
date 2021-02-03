@@ -18,7 +18,7 @@ youtube_code: fWykx8tWrsg
 
 {% include youtube.html %}
 
-Our year-end numbers from 2020 show us where Tucson is so far in 2021.
+<center><em>Our year-end numbers from 2020 show us where Tucson is so far in 2021.</em></center>
 
 I hope your 2021 is off to a great start. Today I wanted to reach out to share the year-end numbers for the 2020 real estate market to give you a better idea of where we’re at in 2021.
 
