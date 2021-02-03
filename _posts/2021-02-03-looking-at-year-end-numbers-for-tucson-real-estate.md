@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: Our year-end numbers from 2020 show us where Tucson is so far in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Don+Vallee/2021/Looking+at+Year-End+Numbers+for+Tucson+Real+Estate.mp4
 pullquote: 'Even with low inventory, sales numbers are strong.'
 enclosure_type: video/mp4
 enclosure_time:
