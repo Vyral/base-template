@@ -18,13 +18,11 @@ youtube_code: QyULcRknWFU
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why our Certified Pre-Own program is a seller’s best friend.</em></p>
-
-**My conversation with Adam McCarty at [Rightway Home Inspections](www.rightwayhi.com){: target="_blank" rel="noopener"}\:**
+*Here’s why our Certified Pre-Own program is a seller’s best friend.*
 
 We’ve been doing the Certified Pre-Owned home program for several years now, and it’s a fantastic marketing feature for our sellers. However, there is a more thoughtful intent behind it than simply maximizing appeal to buyers. We often find that **one of the most stressful aspects of the home-selling process for sellers is the home inspection**—quite understandably. No one’s thrilled by the prospect of letting a complete stranger into their home so that they can critique every inch of it.&nbsp;
 
-Worse yet, after having negotiated with your buyer down to penny on how this transaction will go, you’re hit over the head 10 days later with a second round of negotiations based on the findings in the inspection report. Your buyer’s reaction to simple fixes and trivial “issues” may be way overblown, and suddenly, the transaction can hang in the balance.&nbsp;
+Worse yet, after having negotiated with your buyer down to penny on how this transaction will go, you’re hit over the head 10 days later with a second round of negotiations based on the findings in the inspection report. Your buyer’s reaction to simple fixes and trivial “issues” may be way overblown, and suddenly, the transaction can hang in the balance. So today, I'm discussing this crucial issue with Adam McCarty from&nbsp;[Rightway Home Inspections](http://www.rightwayhi.com/){: target="_blank"}.
 
 {% include pullquote.html %}
 
