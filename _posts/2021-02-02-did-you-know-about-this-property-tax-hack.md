@@ -17,7 +17,7 @@ youtube_code: iPxQtZexiXY
 
 {% include youtube.html %}
 
-*Make sure to file for your homeowners exemption if you haven’t yet.*
+<p style="text-align: center;"><em>Make sure to file for your homeowners exemption if you haven’t yet.</em></p>
 
 Today I have a quick tip for reducing your property taxes this year. A lot of new homeowners are unaware of the homeowners exemption, which will save you approximately $70 per year on your property taxes. If you have bought a home and it is your primary residence, you can apply. **All you need to do is fill out [this form](https://revenue.nebraska.gov/sites/revenue.nebraska.gov/files/doc/tax-forms/f_458.pdf){: target="_blank" rel="noopener"}, send it in, and start saving.**
 
