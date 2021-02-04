@@ -17,7 +17,7 @@ youtube_code: oonAS2F7st4
 
 {% include youtube.html %}
 
-Are we building too many homes in St. George? Let’s discuss that today.
+<p style="text-align: center;"><em>Are we building too many homes in St. George? Let’s discuss that today.</em></p>
 
 It seems as if everywhere you look new homes are being built. Are we building too many houses in St. George? For today’s video, **I’m at the lovely Desert Flower subdivision** where Sunwood Homes is building houses. If you haven’t checked out Desert Flower, you’re missing out on what I believe to be the coolest subdivision in town.&nbsp;
 
