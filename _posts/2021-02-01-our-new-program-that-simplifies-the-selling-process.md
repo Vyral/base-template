@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Check out our Certified Pre-Owned Home program for sellers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Our+New+Program+That+Simplifies+the+Selling+Process.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
