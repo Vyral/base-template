@@ -5,7 +5,7 @@ date: 2021-02-03 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
-excerpt: Your options if the appraised value doesn’t meet the contract price.
+excerpt: Here are your options if the appraisal comes in low.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code: bBWUjnnwe40
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Your options if the appraised value doesn’t meet the contract price.</em></p>
+Here are your options if the appraisal comes in low.
 
 What if the appraised value doesn’t meet the contract price? If your home’s appraised value comes in low, it’s possible to get it adjusted. Just like the rest of us in this busy market, appraisers are swamped, and a low appraisal may be due to human error.&nbsp;
 
