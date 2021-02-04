@@ -17,7 +17,7 @@ youtube_code: EUdJy5CTyC8
 
 {% include youtube.html %}
 
-Here’s a quick end of 2020 market recap and current real estate update.
+<p style="text-align: center;"><em>Here’s a quick end of 2020 market recap and current real estate update.</em></p>
 
 2020 was one of the best years for central Ohio real estate that we’ve seen in a long time. The average sale price increased by 16%, and homes were moving at a very brisk pace.&nbsp;
 
