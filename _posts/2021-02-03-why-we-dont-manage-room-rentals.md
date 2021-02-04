@@ -21,6 +21,6 @@ youtube_code: Mlg_Ew0EuMU
 
 <center>&nbsp;</center>
 
-Is it possible to rent out a room in your house? The answer is yes, but not with our company. We don’t do room-by-room property management. There is too much liability, too many details, and too much that can go wrong with renting out an individual room. We focus our attention on managing entire homes.
+Is it possible to rent out a room in your house? The answer is yes, but not with our company. **We don’t do room-by-room property management**. There is too much liability, too many details, and too much that can go wrong with renting out an individual room. We focus our attention on managing entire homes.
 
 If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
