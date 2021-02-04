@@ -16,7 +16,7 @@ youtube_code: EFcLrJXMa4w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s my conversation with Arielle about taking ownership of a home.</em></p>
+<p style="text-align: center;"><em>Here’s my conversation with attorney Arielle Cecala about taking ownership of a home.</em></p>
 
 Today I’m delighted to be joined by my friend Arielle Cecala of Crowley and Cummings. She’s our go-to attorney and recently sat down with me to talk about all the different ways you can take ownership when you purchase real estate.
 
