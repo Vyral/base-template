@@ -21,7 +21,7 @@ youtube_code: 0D01wCAmkJU
 
 <br>Here are a few steps to take if you want to avoid a low appraisal when it comes to selling your house:
 
-First, **make a list of repairs and upgrades** that you’ve done to the home recently to give to the appraiser so you can justify the price that you’re asking for so that the appraiser can attribute the home’s value to those improvements.
+First, **make a list of repairs and upgrades** that you’ve done to the home recently to give the appraiser so you can justify the price that you’re asking for. The appraiser can attribute the home’s value to those improvements.
 
 Next, **compile a list of comparable sales** in your neighborhood from the last 90 days up to the last six months so that the appraiser can factor them into their evaluation.
 
