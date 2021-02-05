@@ -23,6 +23,6 @@ youtube_code: EUdJy5CTyC8
 
 Currently, **inventory is down by about 47%, which means it’s a very strong seller’s market**, and multiple offers are fairly common in our area.
 
-There are still opportunities for buyers, but you’ll have to come in strong, and give your highest and best offer, which should be at or above list price to win the house. For sellers, again, properties are moving quickly and prices are rising, so it’s a great time to list your home.
+There are still opportunities for buyers, but you’ll have to come in strong and give your highest and best offer, which should be at or above list price to win the house. For sellers, again, properties are moving quickly and prices are rising, so it’s a great time to list your home.
 
 If you have any questions or concerns or would like more information about selling and getting top dollar, please give me a call or send an email. I would love to help you.
