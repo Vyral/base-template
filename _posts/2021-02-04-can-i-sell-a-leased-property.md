@@ -16,7 +16,7 @@ youtube_code: JRt3gX2jIG0
 
 {% include youtube.html %}
 
-*Here’s how to handle the selling of a rental property with an active lease.*
+<p style="text-align: center;"><em>Here’s how to handle the selling of a rental property with an active lease.</em></p>
 
 A few investors have asked me recently: “Can I sell a property when it’s leased?” The answer is yes, but **the lease goes with the property.** The buyer of that leased real estate inherits that lease. If you’re selling in March and it goes through July, the new owner who inherits the lease takes it over through July. The security deposit transfers as well, as they basically step into your shoes as the new owner and landlord.
 
