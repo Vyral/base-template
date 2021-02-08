@@ -18,9 +18,9 @@ youtube_code: DidfIajOX9U
 
 <center><em>Let us help you assess your options if you&rsquo;ve been impacted by COVID.</em></center>
 
-<br>What happens when COVID-19 has affected you or someone you love and you begin to fall behind because of it? What options are available?
+<br>What happens when COVID-19 has affected you or someone you love and you begin to fall behind financially because of it? What options are available?
 
-Thankfully, many of the people we know are making it through these troubled times for the most part, but there are still a number of people who have been impacted by the pandemic, be it through their job or their friends or family.
+Many of us are making it through these troubled times, but there are still a number of people who have had their job, friends, and family impacted by the pandemic.
 
 {% include pullquote.html %}
 
