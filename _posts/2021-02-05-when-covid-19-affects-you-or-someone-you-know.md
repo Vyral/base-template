@@ -10,7 +10,7 @@ pullquote: You need someone on your side to look out for your best interests.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/01-26-cedillo-youtube.jpg
+youtube_alternate_image: /uploads/01-26-cedillo-youtube-1.jpg
 youtube_code: DidfIajOX9U
 ---
 
