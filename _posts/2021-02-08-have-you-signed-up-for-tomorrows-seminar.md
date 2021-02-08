@@ -17,6 +17,6 @@ youtube_code: fRe5JDyoli8
 
 {% include youtube.html %}
 
-We hope you’ll join us tomorrow for our virtual home-selling seminar.
+<p style="text-align: center;"><em>We hope you’ll join us tomorrow for our virtual home-selling seminar.</em></p>
 
 Today is the last day to sign up for our virtual home seller seminar tomorrow (February 11) from 6 p.m. to 8 p.m. It’s a free, virtual class for anyone who is thinking about selling their home this year. We still have plenty of spots available. Head on over here to register and learn everything you need to know about selling a home. To learn more about the event, watch this short video.
