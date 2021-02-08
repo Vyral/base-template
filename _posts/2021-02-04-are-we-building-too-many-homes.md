@@ -6,13 +6,13 @@ tags:
   - Market Update
 excerpt: Are we building too many homes in St. George? Let’s discuss that today.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2021/St.+George+Real+Estate+Are+We+Building+Too+Many+Homes_.mp4
+  https://vyralmarketing.s3.amazonaws.com/Jeremy-Larkin/2021/St.+George+Real+Estate+too+many+homes_.mp4
 pullquote: Are we building too many homes? Not even close.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: oonAS2F7st4
+youtube_code: BptS6hskJfM
 ---
 
 {% include youtube.html %}
