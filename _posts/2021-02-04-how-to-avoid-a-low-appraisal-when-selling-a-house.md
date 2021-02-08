@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-03-langan-youtube.jpg
-youtube_code: 0D01wCAmkJU
+youtube_code: I1X9KEmX9GY
 ---
 
 {% include youtube.html %}
