@@ -6,7 +6,8 @@ tags:
   - Buyer Prospects
   - Listing Presentation
 excerpt: Low inventory equals high stress. How can you help clients with that?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Being+There+for+Your+Clients+in+a+Stressful+Market.mp4
 pullquote: >-
   Proper communication from the very beginning is key to preparing clients for a
   challenging market.
