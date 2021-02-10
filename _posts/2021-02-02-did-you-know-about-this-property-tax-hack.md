@@ -18,7 +18,7 @@ youtube_code: iPxQtZexiXY
 
 {% include youtube.html %}
 
-*Make sure to file for your homeowners exemption if you haven’t yet.*
+<p style="text-align: center;"><em>Make sure to file for your homeowners exemption if you haven’t yet.</em></p>
 
 Today I have a quick tip for reducing your property taxes this year. A lot of new homeowners are unaware of the homeowners exemption, which will save you approximately $70 per year on your property taxes. If you have bought a home and it is your primary residence, you can apply. **All you need to do is fill out <u><a target="_blank" rel="noopener" href="https://assessor.lacounty.gov/homeowners-exemption/">this form</a></u>, send it in, and start saving.**
 
