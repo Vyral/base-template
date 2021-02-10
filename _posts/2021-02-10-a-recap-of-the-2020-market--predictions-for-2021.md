@@ -1,11 +1,12 @@
 ---
 layout: post
 title: A Recap of the 2020 Market & Predictions for 2021
-date: 2021-01-28 09:00:00
+date: 2021-02-10 09:00:00
 tags:
   - Market Update
 excerpt: Here’s a recap of our 2020 market and what I expect in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Lee+Tessier/A+Recap+of+the+2020+Market+%26+Predictions+for+2021.mp4
 pullquote: Sales are up and demand is strong.
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: fMddNqIHb6w
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s a recap of our 2020 market and what I expect in 2021.</em></p>
+*Here’s a recap of our 2020 market and what I expect in 2021.*
 
 2020 was certainly an interesting year for all of us. I hope you and your families are staying healthy out there. Back in March and April, we were panicked with the thoughts of what would happen in the real estate market. Then, in June, everything busted loose and we saw sale prices jump way up. **We had been seeing a 1% to 2% appreciation in years past, but last year’s average price in June was up 10% from where it was in 2019.**
 
