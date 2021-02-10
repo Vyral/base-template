@@ -5,7 +5,7 @@ tags:
   - Real Estate
   - Buyer Tips
   - Home Seller Tips
-date:
+date: 2021-02-10
 excerpt: Make sure to file for your homeowners exemption if you haven’t yet.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Dave+Knight/A+Quick+Tip+to+Save+on+Property+Taxes.mp4
