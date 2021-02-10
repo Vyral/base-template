@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Low Rates, a Refi Monsoon, and 2021 Predictions'
-date: 2021-02-10 14:27:34
+date: 2021-02-10 14:27:00
 tags:
 excerpt: Ali Retta sums up 2020’s mortgage market and offers a 2021 forecast.
 enclosure:
@@ -14,6 +14,8 @@ youtube_code: 9qR5KyXsOTE
 ---
 
 {% include youtube.html %}
+
+Ali Retta sums up 2020’s mortgage market and offers a 2021 forecast.&nbsp;
 
 In the lending world, 2020 proved to be a particularly interesting year chocked full of highs and lows. Without questions, it was defined by incredibly low interest rates that triggered a flood of refinances. Homeowners in droves rushed to refinance so they could guarantee themselves a less burdensome monthly mortgage payment, and all that demand put a lot of stress on the banks. Since banks make their money in the long-term, a surge of people refinancing out of their existing mortgages hurts them on the backend.&nbsp;
 
