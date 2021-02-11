@@ -22,7 +22,7 @@ youtube_code: Jhf9PgnNqR0
 
 <br>**If you’ve ever wondered what your home is worth, that’s a perfectly reasonable question to ask.&nbsp;**
 
-We get asked this question a lot, and not always from prospective sellers. Sometimes people want to know what their home is worth to understand their equity position. Others are looking to refinance their mortgage. Some are thinking about remodeling and know there will be some investment required; thus, they’re interested to see what kind of return they can get.
+We get asked this question a lot, and not always from prospective sellers. Sometimes people want to know what their home is worth to understand their equity position. Others are looking to refinance their mortgage. Some are thinking about remodeling and know there will be some investment required; thus, they’re interested to see what kind of return they can get.&nbsp;
 
 {% include pullquote.html %}
 
