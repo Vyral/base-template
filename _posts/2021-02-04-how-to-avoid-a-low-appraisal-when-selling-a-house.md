@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: These three tips will help you avoid a low appraisal when it's time to sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/How+to+Avoid+a+Low+Appraisal+When+Selling+a+House.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
