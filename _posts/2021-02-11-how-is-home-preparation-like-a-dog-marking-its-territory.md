@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: Home sellers “mark” their territory without even knowing it. I’ll explain how.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2021/How+Is+Home+Preparation+Like+A+Dog+Marking+Its+Territory_.mp4
 pullquote: Remove any evidence of pets from your home before showing it.
 enclosure_type: video/mp4
 enclosure_time:
