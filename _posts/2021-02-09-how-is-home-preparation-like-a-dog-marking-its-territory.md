@@ -33,7 +33,7 @@ Most commonly, dogs mark their territory with a small amount of urine. They tend
 
 Buying a home is a very emotional experience. We want buyers to feel at ease by allowing them to imagine the home as their own space from the start. Here are five tips to help do that:
 
-**1\. Minimize any evidence of pets**. As much as we may love our pets, many people don’t. They don’t like the smells, allergies, or fears associated with them. &nbsp;Make sure all the food and water dishes, beds, and poop are picked up for pictures and showings.
+**1\. Minimize any evidence of pets**. As much as we may love our pets, many people don’t. They don’t like the smells, allergies, or fears associated with them. Make sure all the food and water dishes, beds, and poop are picked up for pictures and showings.
 
 **2\. Take down any family pictures or paintings with a face**. Again, this makes the space yours, not the buyers. We want them to feel comfortable with imagining their own family pictures on the walls. They can’t do that when they see your family staring at them.
 
