@@ -1,37 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Wasatch Front Real Estate Podcast with </title>
+    <title>Colemere Realty and Associates Real Estate Podcast</title>
     <link>http://localhost:4000</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty Associates, LLC - your professional Wasatch Front Real Estate Agents.</description>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor></managingEditor>
-    <lastBuildDate>2021-01-21 08:40:36 -0600</lastBuildDate>
-    <media:copyright></media:copyright>
-    <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
+    <managingEditor>Bryan Colemere</managingEditor>
+    <lastBuildDate>2021-02-11 14:20:43 -0600</lastBuildDate>
+    <media:copyright>Bryan Colemere</media:copyright>
+    <media:thumbnail url="http://localhost:4000/img/colemere_podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
 <<<<<<< HEAD
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
 =======
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd"></media:category>
 >>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
     <itunes:owner>
       <itunes:email></itunes:email>
-      <itunes:name></itunes:name>
+      <itunes:name>Bryan Colemere</itunes:name>
     </itunes:owner>
-    <itunes:author></itunes:author>
+    <itunes:author>Bryan Colemere</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="http://localhost:4000/img/colemere_podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Wasatch Front Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty Associates, LLC - your professional Wasatch Front Real Estate Agents.</itunes:summary>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Area Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</itunes:summary>
 <<<<<<< HEAD
       <itunes:category text="News &amp; Politics"/>
 =======
-      <itunes:category text="Education"/>
+      <itunes:category text=""/>
 >>>>>>> cd1c7b7baf4308f7ac54304945870ef602d4f876
     
+      <item>
+        <title>Why Is a Pre-Listing Walkthrough Important?</title>
+        <link>http://localhost:4000/why-is-a-pre-listing-walkthrough-important.html</link>
+        
+          <category>Real Estate</category>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>Bryan Colemere</author>
+        <pubDate>2021-01-17 18:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Before you sell your home, make sure you have a pre-listing walkthrough.
+
+A pre-listing walkthrough is essentially an opportunity for you to look at your home in detail, point out the pros and cons of the property, and uncover any necessary repairs. A lot can be missed if you don’t schedule one, and that could affect your final sale price drastically.
+
+“Missing this step puts you at a disadvantage to sellers who don’t.”
+
+It’s like creating a game plan for your house. We’re setting the timelines, expectations, etc., for your home sale.
+
+The pre-listing walkthrough is also key in terms of staging. Walking through the home helps us get a much better understanding of the home. This step often gets missed in this market, and that’s a disadvantage to homeowners.
+
+When we are physically in a home and can analyze it this way, we can get a much better idea of the home’s value and what we can do to maximize the sale price. Agents who miss this step suffer in negotiations.
+
+If you have any questions about this topic or anything else related to real estate, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Before you sell your home, make sure you have a pre-listing walkthrough.</itunes:subtitle>
+        <itunes:author>Bryan Colemere</itunes:author>
+        <itunes:summary>Before you sell your home, make sure you have a pre-listing walkthrough.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>How Real Estate Videos Get More Money For Your Home</title>
         <link>http://localhost:4000/how-real-estate-videos-get-more-money-for-your-home.html</link>
@@ -40,7 +77,7 @@
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2021-01-06 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/How+Real+Estate+Videos+Get+More+Money+For+Your+Home.mp4</guid>
         <description>
@@ -66,7 +103,7 @@ If you have any questions about today’s topic or anything to do with real esta
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/How+Real+Estate+Videos+Get+More+Money+For+Your+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How much of a difference can listing videos make? A lot.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How much of a difference can listing videos make? A lot.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -81,7 +118,7 @@ If you have any questions about today’s topic or anything to do with real esta
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-11-30 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Understanding+the+Absorption+Rate+and+Daily+Snapshot.mp4</guid>
         <description>
@@ -111,7 +148,7 @@ We would love to go to work for you. If you’re sitting on the fence and unsure
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Understanding+the+Absorption+Rate+and+Daily+Snapshot.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are the two statistics you need to know before entering the market.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here are the two statistics you need to know before entering the market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -124,7 +161,7 @@ We would love to go to work for you. If you’re sitting on the fence and unsure
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-11-17 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/%E2%80%98Tis+the+Season+for+Holiday+Home+Selling+Tips.mp4</guid>
         <description>
@@ -152,7 +189,7 @@ If you have further questions about real estate, don’t hesitate to reach out t
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/%E2%80%98Tis+the+Season+for+Holiday+Home+Selling+Tips.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>These five tips will help you sell your home during the holidays.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>These five tips will help you sell your home during the holidays.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -165,7 +202,7 @@ If you have further questions about real estate, don’t hesitate to reach out t
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-10-28 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Which+7+Mistakes+Will+Hurt+Your+Home+Sale_.mp4</guid>
         <description>
@@ -199,7 +236,7 @@ If you have further questions on how to sell your home quickly and for top dolla
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Which+7+Mistakes+Will+Hurt+Your+Home+Sale_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Sellers: Be proactive and avoid these huge home seller mistakes!</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Sellers: Be proactive and avoid these huge home seller mistakes!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -212,7 +249,7 @@ If you have further questions on how to sell your home quickly and for top dolla
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-10-14 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Do+I+Prepare+My+Home+for+the+Market_.mp4</guid>
         <description>
@@ -242,7 +279,7 @@ Hopefully, these tips provided a good roadmap for you to get started on your hom
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Do+I+Prepare+My+Home+for+the+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are tips to help sellers prime for a swift and profitable home sale.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here are tips to help sellers prime for a swift and profitable home sale.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -255,7 +292,7 @@ Hopefully, these tips provided a good roadmap for you to get started on your hom
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-10-06 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+a+Love+Letter+Help+You+Win+the+Home+You+Want_.mp4</guid>
         <description>
@@ -279,7 +316,7 @@ As always, if you have questions about this or any real estate topic, don’t he
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+a+Love+Letter+Help+You+Win+the+Home+You+Want_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Writing a buyer “love letter” will help get your offer accepted.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Writing a buyer “love letter” will help get your offer accepted.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -292,7 +329,7 @@ As always, if you have questions about this or any real estate topic, don’t he
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-09-13 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+Homebuyers+Stay+Competitive+in+Our+Market_.mp4</guid>
         <description>
@@ -318,7 +355,7 @@ If you have questions about this or any other topic, reach out to your Colemere 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+Homebuyers+Stay+Competitive+in+Our+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are a few tips to help get your offer accepted in our competitive real estate market.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here are a few tips to help get your offer accepted in our competitive real estate market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -331,7 +368,7 @@ If you have questions about this or any other topic, reach out to your Colemere 
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-08-23 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Why+Do+You+Need+Representation+When+Buying+New+Construction_.mp4</guid>
         <description>
@@ -357,7 +394,7 @@ If you’d like to know more about how an agent can help you when buying new con
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Why+Do+You+Need+Representation+When+Buying+New+Construction_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re thinking of buying new construction, you need to hire an agent.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you’re thinking of buying new construction, you need to hire an agent.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -370,7 +407,7 @@ If you’d like to know more about how an agent can help you when buying new con
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-08-11 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/What+Can+Sellers+Expect+in+the+New+Normal_.mp4</guid>
         <description>
@@ -396,7 +433,7 @@ If you have any questions about what safety precautions are being implemented to
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/What+Can+Sellers+Expect+in+the+New+Normal_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>For home sellers, there’s a new normal in the market. Here’s what it looks like.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>For home sellers, there’s a new normal in the market. Here’s what it looks like.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -409,7 +446,7 @@ If you have any questions about what safety precautions are being implemented to
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-07-27 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Whats+the+New+Normal+for+Homebuyers_.mp4</guid>
         <description>
@@ -435,7 +472,7 @@ If you have questions about what we discussed in this video, or if you’re inte
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/Whats+the+New+Normal+for+Homebuyers_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s what the new normal looks like for homebuyers.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here’s what the new normal looks like for homebuyers.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -448,7 +485,7 @@ If you have questions about what we discussed in this video, or if you’re inte
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-07-16 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+COVID-19+Affected+Our+Market_.mp4</guid>
         <description>
@@ -474,7 +511,7 @@ If you have questions about any of the stats we mentioned in this video, or if y
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+COVID-19+Affected+Our+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Coverage of our market can be confusing sometimes; here are the facts.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Coverage of our market can be confusing sometimes; here are the facts.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -485,7 +522,7 @@ If you have questions about any of the stats we mentioned in this video, or if y
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-06-25 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -501,7 +538,7 @@ We will be following all the necessary health and safety precautions, so sign up
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Though this year will be different, we’d still love to see you.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Though this year will be different, we’d still love to see you.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -512,7 +549,7 @@ We will be following all the necessary health and safety precautions, so sign up
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-05-26 12:44:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+You+Keep+Your+Family+Safer_.mp4</guid>
         <description>
@@ -526,7 +563,7 @@ We hope you and your family are staying safe during this pandemic. We wanted to 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Can+You+Keep+Your+Family+Safer_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>These technologies will keep your home and family safer.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>These technologies will keep your home and family safer.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -539,7 +576,7 @@ We hope you and your family are staying safe during this pandemic. We wanted to 
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-05-20 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+Our+Market+Been+Impacted+by+COVID-19_.mp4</guid>
         <description>
@@ -555,7 +592,7 @@ In terms of the market, the big picture is that we’ve had a lot of pent-up dem
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2020/How+Has+Our+Market+Been+Impacted+by+COVID-19_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Find out what Utah moving from orange to yellow status means for real estate.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Find out what Utah moving from orange to yellow status means for real estate.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -568,7 +605,7 @@ In terms of the market, the big picture is that we’ve had a lot of pent-up dem
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-04-09 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+the+Coronavirus+Means+for+Our+Real+Estate+Market.mp4</guid>
         <description>
@@ -582,7 +619,7 @@ Obviously, everyone’s lives have been changed because of the coronavirus, and 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+the+Coronavirus+Means+for+Our+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How has the coronavirus impacted the real estate market?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How has the coronavirus impacted the real estate market?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -595,7 +632,7 @@ Obviously, everyone’s lives have been changed because of the coronavirus, and 
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-03-19 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -619,7 +656,7 @@ If you have any questions for us, don’t hesitate to reach out via phone or ema
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>It’s more important than ever to stay safe if you’re in the process of buying or selling a home. Here’s what you can do to stay healthy.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>It’s more important than ever to stay safe if you’re in the process of buying or selling a home. Here’s what you can do to stay healthy.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -632,7 +669,7 @@ If you have any questions for us, don’t hesitate to reach out via phone or ema
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-03-04 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+to+Qualify+for+Our+New+Hybrid+Home+Buying+Program.mp4</guid>
         <description>
@@ -666,7 +703,7 @@ If you have any questions about this program and what it can do for you, don’t
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+to+Qualify+for+Our+New+Hybrid+Home+Buying+Program.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s what you need to know about our new home buying program.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here’s what you need to know about our new home buying program.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -679,7 +716,7 @@ If you have any questions about this program and what it can do for you, don’t
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-02-16 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/You+Dont+Need+20%25+For+a+Down+Payment.mp4</guid>
         <description>
@@ -703,7 +740,7 @@ If you have any questions for us, feel free to reach out via phone or email. We 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/You+Dont+Need+20%25+For+a+Down+Payment.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You don’t need a massive down payment to afford a home. Here are a few of the different options you have.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>You don’t need a massive down payment to afford a home. Here are a few of the different options you have.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -716,7 +753,7 @@ If you have any questions for us, feel free to reach out via phone or email. We 
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-01-26 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Our+Market+Forecast+for+Real+Estate+in+2020.mp4</guid>
         <description>
@@ -742,7 +779,7 @@ If you have any questions or would like more information, feel free to reach out
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Our+Market+Forecast+for+Real+Estate+in+2020.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What does 2020 hold for our real estate market? Here’s our market forecast for the year.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>What does 2020 hold for our real estate market? Here’s our market forecast for the year.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -755,7 +792,7 @@ If you have any questions or would like more information, feel free to reach out
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-01-13 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/A+Recap+of+Our+2019+Real+Estate+Market.mp4</guid>
         <description>
@@ -781,7 +818,7 @@ If you have any questions for us about the market or real estate in general, don
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/A+Recap+of+Our+2019+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As we head into the new year, let’s quickly recap our 2019 real estate market to see where we are in 2020.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>As we head into the new year, let’s quickly recap our 2019 real estate market to see where we are in 2020.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -794,7 +831,7 @@ If you have any questions for us about the market or real estate in general, don
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2020-01-01 18:00:00 -0600</pubDate>
         <guid></guid>
         <description>
@@ -818,7 +855,7 @@ If you have any questions, always reach out to your Colemere Realty associate fo
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you receive an offer for your home that’s much lower than you asked for, how should you respond?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you receive an offer for your home that’s much lower than you asked for, how should you respond?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -831,7 +868,7 @@ If you have any questions, always reach out to your Colemere Realty associate fo
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-11-20 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/The+Keys+to+a+Successful+Holiday+Home+Sale.mp4</guid>
         <description>
@@ -859,7 +896,7 @@ If you have any questions about real estate, please feel free to reach out to Co
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/The+Keys+to+a+Successful+Holiday+Home+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We have five successful tips to help you sell your home during the holiday season.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We have five successful tips to help you sell your home during the holiday season.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -870,7 +907,7 @@ If you have any questions about real estate, please feel free to reach out to Co
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-11-13 18:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Come+Meet+Santa!.mp4</guid>
         <description>
@@ -884,7 +921,7 @@ Please join us at the Lone Peak Park Pavilion on December 5th from 5:30 p.m. - 8
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Come+Meet+Santa!.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Get ready to sit by the fire and meet Santa!</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Get ready to sit by the fire and meet Santa!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -897,7 +934,7 @@ Please join us at the Lone Peak Park Pavilion on December 5th from 5:30 p.m. - 8
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-10-09 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+You+Need+to+Know+About+Recessions.mp4</guid>
         <description>
@@ -929,7 +966,7 @@ If you have questions about the recession, your market area, or about real estat
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/What+You+Need+to+Know+About+Recessions.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is a recession coming? Maybe, but that might not mean what you think it does.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Is a recession coming? Maybe, but that might not mean what you think it does.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -940,7 +977,7 @@ If you have questions about the recession, your market area, or about real estat
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-09-16 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -960,7 +997,7 @@ In addition to the pumpkin fun, we would like to invite everyone to get into the
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How fast can you clean out a pumpkin?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How fast can you clean out a pumpkin?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -973,7 +1010,7 @@ In addition to the pumpkin fun, we would like to invite everyone to get into the
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-09-15 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Think+About+Buying+in+Our+Fall+Market.mp4</guid>
         <description>
@@ -1001,7 +1038,7 @@ While decisions like this can be hard to make, it’s important to get an outsid
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Think+About+Buying+in+Our+Fall+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are four reasons why the fall season might be your best opportunity in quite some time to buy a home.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Here are four reasons why the fall season might be your best opportunity in quite some time to buy a home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1012,7 +1049,7 @@ While decisions like this can be hard to make, it’s important to get an outsid
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-08-28 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Should+You+Appeal+Your+Property+Tax+Assessment_.mp4</guid>
         <description>
@@ -1040,7 +1077,7 @@ Here’s the most important thing to know: You only have until September 15 to f
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Should+You+Appeal+Your+Property+Tax+Assessment_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you feel that your property taxes are too high, you can always appeal them. Here’s how to do it.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you feel that your property taxes are too high, you can always appeal them. Here’s how to do it.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1053,7 +1090,7 @@ Here’s the most important thing to know: You only have until September 15 to f
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-08-18 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+Many+Homes+Should+You+Look+at+Before+You+Buy_.mp4</guid>
         <description>
@@ -1079,7 +1116,7 @@ If you have any questions about today’s topic or real estate in general, reach
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/How+Many+Homes+Should+You+Look+at+Before+You+Buy_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How many homes should you look at before buying one? Find out today.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How many homes should you look at before buying one? Find out today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1092,7 +1129,7 @@ If you have any questions about today’s topic or real estate in general, reach
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-07-31 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/3+Times+You+Should+Hire+an+Appraiser+Before+Selling.mp4</guid>
         <description>
@@ -1120,7 +1157,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/3+Times+You+Should+Hire+an+Appraiser+Before+Selling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>It doesn’t often make sense to hire an appraiser before selling, but there are a few times when it does. Here are three prime examples.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>It doesn’t often make sense to hire an appraiser before selling, but there are a few times when it does. Here are three prime examples.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1131,7 +1168,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-06-19 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1149,7 +1186,7 @@ As always, if you have any questions or would like any information about how we 
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>A big thanks to all who stopped by!</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>A big thanks to all who stopped by!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1162,7 +1199,7 @@ As always, if you have any questions or would like any information about how we 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-05-20 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Avoid+Pricing+Your+Home+Too+High.mp4</guid>
         <description>
@@ -1188,7 +1225,7 @@ If you have any questions about this topic or real estate in general, reach out 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/Why+You+Should+Avoid+Pricing+Your+Home+Too+High.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Be sure to avoid these three pitfalls created when you overprice your home.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Be sure to avoid these three pitfalls created when you overprice your home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1199,7 +1236,7 @@ If you have any questions about this topic or real estate in general, reach out 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-05-06 19:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Our+Summer+Barbecue+Kickoff+Is+Almost+HereRSVP+Below.mp4</guid>
         <description>
@@ -1215,7 +1252,7 @@ We’re here today at beautiful Lone Peak Park (10140 S. 700 E, Sandy, UT), the 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Our+Summer+Barbecue+Kickoff+Is+Almost+HereRSVP+Below.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>On June 1st, we want you to join us at Lone Peak Park for our summer barbecue kickoff. Here are the details.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>On June 1st, we want you to join us at Lone Peak Park for our summer barbecue kickoff. Here are the details.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1228,7 +1265,7 @@ We’re here today at beautiful Lone Peak Park (10140 S. 700 E, Sandy, UT), the 
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-04-17 19:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -1260,7 +1297,7 @@ If you have any questions about today’s topic or anything else real estate-rel
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today, we’ll discuss why a home inspection is vitally important to those buying a home.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Today, we’ll discuss why a home inspection is vitally important to those buying a home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1273,7 +1310,7 @@ If you have any questions about today’s topic or anything else real estate-rel
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-04-01 19:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Are+There+Opportunities+to+Buy+With+a+Low+Down+Payment_.mp4</guid>
         <description>
@@ -1306,7 +1343,7 @@ If you have any questions, would like more information, or are ready to talk abo
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Are+There+Opportunities+to+Buy+With+a+Low+Down+Payment_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You aren’t doomed to pay 20% down. Here are some of the options you have.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>You aren’t doomed to pay 20% down. Here are some of the options you have.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1319,7 +1356,7 @@ If you have any questions, would like more information, or are ready to talk abo
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-03-18 19:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+to+Know+as+We+Kick+off+the+Spring+Selling+Season.mp4</guid>
         <description>
@@ -1347,7 +1384,7 @@ If you have any questions for us about real estate in the meantime, don’t hesi
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+to+Know+as+We+Kick+off+the+Spring+Selling+Season.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Where are things headed in our real estate market as spring begins? Keep reading to find out.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Where are things headed in our real estate market as spring begins? Keep reading to find out.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1358,7 +1395,7 @@ If you have any questions for us about real estate in the meantime, don’t hesi
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-03-14 19:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Thank+You+For+Celebrating+With+Us.mp4</guid>
         <description>
@@ -1376,7 +1413,7 @@ If you have any questions for us in the meantime, don’t hesitate to reach out 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Thank+You+For+Celebrating+With+Us.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We’d like to extend our thanks to those that joined us for our Founders Day celebration.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We’d like to extend our thanks to those that joined us for our Founders Day celebration.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1387,7 +1424,7 @@ If you have any questions for us in the meantime, don’t hesitate to reach out 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-02-04 18:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Youre+Invited+to+Our+Founders+Day+Celebration+this+March.mp4</guid>
         <description>
@@ -1415,7 +1452,7 @@ If you have any questions for us in the meantime, don’t hesitate to reach out 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Youre+Invited+to+Our+Founders+Day+Celebration+this+March.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we’re hosting our very own Founder’s Day celebration this March.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>2019 is our 66-year anniversary of being in the real estate business, and to celebrate, we’re hosting our very own Founder’s Day celebration this March.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1426,7 +1463,7 @@ If you have any questions for us in the meantime, don’t hesitate to reach out 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2019-01-16 18:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+With+Your+Local+Municipality+Before+Renting+Out+an+ADU.mp4</guid>
         <description>
@@ -1452,7 +1489,7 @@ As always, if you have any more questions about this or any other real estate to
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+With+Your+Local+Municipality+Before+Renting+Out+an+ADU.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Accessory dwelling units represent a great opportunity for homeowners, but there are rules for renting them out that you need to pay attention to.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Accessory dwelling units represent a great opportunity for homeowners, but there are rules for renting them out that you need to pay attention to.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1463,7 +1500,7 @@ As always, if you have any more questions about this or any other real estate to
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-12-17 18:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+Out+This+Quick+Guide+to+Accessory+Dwelling+Units.mp4</guid>
         <description>
@@ -1487,7 +1524,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Check+Out+This+Quick+Guide+to+Accessory+Dwelling+Units.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’d like to shed some light on the hot topic of accessory dwelling units.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Today we’d like to shed some light on the hot topic of accessory dwelling units.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1500,7 +1537,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-11-19 18:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+On+Waiting+Until+Spring+to+Buy+a+Home.mp4</guid>
         <description>
@@ -1532,7 +1569,7 @@ If you have any questions about this topic or about buying or selling a home in 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+On+Waiting+Until+Spring+to+Buy+a+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we wanted to discuss waiting until spring to buy a home and why that might not be such a good idea in this market.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Today we wanted to discuss waiting until spring to buy a home and why that might not be such a good idea in this market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1543,7 +1580,7 @@ If you have any questions about this topic or about buying or selling a home in 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-11-07 18:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Thank+You+for+Everything+Youve+Helped+Us+Accomplish.mp4</guid>
         <description>
@@ -1557,7 +1594,7 @@ We’ve seen a wonderful year here at Colemere Realty, but none of it would have
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Thank+You+for+Everything+Youve+Helped+Us+Accomplish.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Thank you for your support throughout this wonderful year.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Thank you for your support throughout this wonderful year.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1568,7 +1605,7 @@ We’ve seen a wonderful year here at Colemere Realty, but none of it would have
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-10-31 19:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Join+us+for+our+Winter+Clothing+Drive.mp4</guid>
         <description>
@@ -1584,7 +1621,7 @@ We would like to invite you to a warm clothing drive that we are hosting the wee
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Join+us+for+our+Winter+Clothing+Drive.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Do you have extra winter clothes?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Do you have extra winter clothes?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1597,7 +1634,7 @@ We would like to invite you to a warm clothing drive that we are hosting the wee
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-10-23 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Rising+Interest+Rates+Spell+Changes+for+Homebuyers+and+Sellers.mp4</guid>
         <description>
@@ -1625,7 +1662,7 @@ Feel free to reach out to us if you’re looking to buy or sell a home, have any
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Rising+Interest+Rates+Spell+Changes+for+Homebuyers+and+Sellers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We lose purchasing power as interest rates rise. Let’s talk about what this means for you.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We lose purchasing power as interest rates rise. Let’s talk about what this means for you.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1638,7 +1675,7 @@ Feel free to reach out to us if you’re looking to buy or sell a home, have any
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-10-09 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+Makes+Fall+a+Great+Time+to+Put+Your+Home+on+the+Market%253F.mp4</guid>
         <description>
@@ -1664,7 +1701,7 @@ If you’d like to put your home on the market before the snow starts falling or
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+What+Makes+Fall+a+Great+Time+to+Put+Your+Home+on+the+Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The fall is a great time to sell your home, and there are a few reasons why.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>The fall is a great time to sell your home, and there are a few reasons why.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1679,7 +1716,7 @@ If you’d like to put your home on the market before the snow starts falling or
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-09-25 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Pay+Attention+to+the+Whole+Story+When+Buying+or+Selling.mp4</guid>
         <description>
@@ -1715,7 +1752,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Pay+Attention+to+the+Whole+Story+When+Buying+or+Selling.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>In our market right now, conditions are split based on price point. And today we’d like to explain how this will impact your goals as a buyer or seller.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>In our market right now, conditions are split based on price point. And today we’d like to explain how this will impact your goals as a buyer or seller.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1728,7 +1765,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-09-07 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+3+Tips+to+Help+You+Sell+Your+Home+for+Top+Dollar.mp4</guid>
         <description>
@@ -1754,7 +1791,7 @@ If you have any more questions about how to sell your home for top dollar or you
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+3+Tips+to+Help+You+Sell+Your+Home+for+Top+Dollar.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>To sell your home for top dollar in our market, declutter and clean the inside and make sure the outside has great curb appeal.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>To sell your home for top dollar in our market, declutter and clean the inside and make sure the outside has great curb appeal.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1767,7 +1804,7 @@ If you have any more questions about how to sell your home for top dollar or you
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-08-27 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Recapping+You+On+Our+Summer+Market.mp4</guid>
         <description>
@@ -1795,7 +1832,7 @@ If you have any questions or suggestions for topics for us, please feel free to 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/Utah+Real+Estate+-+Recapping+You+On+Our+Summer+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Lorna Davis joins me today to give you a quick summer market recap.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Lorna Davis joins me today to give you a quick summer market recap.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1806,7 +1843,7 @@ If you have any questions or suggestions for topics for us, please feel free to 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-07-31 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Videos/What+Exactly+Does+a+Real+Estate+Transaction+Coordinator+Do%253F.mp4</guid>
         <description>
@@ -1836,7 +1873,7 @@ If you have any real estate questions, please feel free to reach out to us. We l
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Videos/What+Exactly+Does+a+Real+Estate+Transaction+Coordinator+Do%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we want to introduce Rhett Roberts, our transaction coordinator, who works behind the scenes to help your real estate transaction go smoothly.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Today we want to introduce Rhett Roberts, our transaction coordinator, who works behind the scenes to help your real estate transaction go smoothly.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1849,7 +1886,7 @@ If you have any real estate questions, please feel free to reach out to us. We l
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-07-13 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/How+Can+You+Ensure+a+Quick+Closing%253F.mp4</guid>
         <description>
@@ -1875,7 +1912,7 @@ If you have any questions for us or you know anyone who is looking to buy or sel
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/How+Can+You+Ensure+a+Quick+Closing%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The home closing process can happen quickly, or it can drag on. Here’s how to ensure that it goes quickly and smoothly.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>The home closing process can happen quickly, or it can drag on. Here’s how to ensure that it goes quickly and smoothly.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1888,7 +1925,7 @@ If you have any questions for us or you know anyone who is looking to buy or sel
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-06-28 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/12+Things+Not+to+Do+While+Getting+a+Mortgage.mp4</guid>
         <description>
@@ -1925,7 +1962,7 @@ If you have any additional questions or have another topic that you would like u
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/12+Things+Not+to+Do+While+Getting+a+Mortgage.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are many things that you can do wrong when you are applying for a mortgage.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>There are many things that you can do wrong when you are applying for a mortgage.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1938,7 +1975,7 @@ If you have any additional questions or have another topic that you would like u
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-06-13 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Fatal+Flaw+in+Zillows+Design.mp4</guid>
         <description>
@@ -1966,7 +2003,7 @@ If you have any questions or would like additional information, please reach out
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Fatal+Flaw+in+Zillows+Design.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Zillow is one of the most popular real estate websites online today, but that doesn’t mean that it can replace the knowledge and experience of an agent. Here’s what you should know.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1979,7 +2016,7 @@ If you have any questions or would like additional information, please reach out
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-05-30 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Affordability+Index+and+What+It+Means+to+You.mp4</guid>
         <description>
@@ -2009,7 +2046,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/The+Affordability+Index+and+What+It+Means+to+You.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>News reports have said that the affordability index is dropping, but what does this mean to you?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>News reports have said that the affordability index is dropping, but what does this mean to you?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2022,7 +2059,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-05-17 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4</guid>
         <description>
@@ -2050,7 +2087,7 @@ If you have any other questions, would like more information, or are interested 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Videos/What+Should+Buyers+Do+to+Succeed+in+Today%2527s+Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>The spring selling season is well underway, but where does this leave buyers in our market? Let’s discuss this important question today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2065,7 +2102,7 @@ If you have any other questions, would like more information, or are interested 
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-05-10 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2089,7 +2126,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2104,7 +2141,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-05-07 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -2144,7 +2181,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2155,7 +2192,7 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-04-17 00:00:00 -0500</pubDate>
         <guid>https://goo.gl/pd3uSL</guid>
         <description>
@@ -2183,7 +2220,7 @@ If you want to get something more out of your business and still have a life, pl
         <media:content url="https://goo.gl/pd3uSL" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We’re looking to expand our team with highly motivated agents. Are you interested?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We’re looking to expand our team with highly motivated agents. Are you interested?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2196,7 +2233,7 @@ If you want to get something more out of your business and still have a life, pl
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-03-30 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4</guid>
         <description>
@@ -2218,7 +2255,7 @@ If you have any questions for us about this topic or anything else related to re
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Rent+vs+Buy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Should you rent or buy your next home? Here’s what you should know.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Should you rent or buy your next home? Here’s what you should know.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2231,7 +2268,7 @@ If you have any questions for us about this topic or anything else related to re
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-03-12 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Buy+or+Save.mp4</guid>
         <description>
@@ -2261,7 +2298,7 @@ If you have any questions, please don’t hesitate to reach out to us. We are we
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Buy+or+Save.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is it better to keep saving for your down payment, or should you go ahead and buy a house now? We’ll explain today.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Is it better to keep saving for your down payment, or should you go ahead and buy a house now? We’ll explain today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2274,7 +2311,7 @@ If you have any questions, please don’t hesitate to reach out to us. We are we
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-02-20 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Low+Appraisal+Buyers.mp4</guid>
         <description>
@@ -2302,7 +2339,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate+Low+Appraisal+Buyers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What comes next after an appraisal comes back low? Let’s take a look at things from the buyer’s perspective.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>What comes next after an appraisal comes back low? Let’s take a look at things from the buyer’s perspective.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2315,7 +2352,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-02-02 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Prepping+for+Sale.mp4</guid>
         <description>
@@ -2337,7 +2374,7 @@ If you have any questions for us about the current state of the market or if you
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Prepping+for+Sale.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is it ever too early to start planning your home sale? No way.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Is it ever too early to start planning your home sale? No way.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2350,7 +2387,7 @@ If you have any questions for us about the current state of the market or if you
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-01-16 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Forecast.mp4</guid>
         <description>
@@ -2378,7 +2415,7 @@ This is a general forecast for our local real estate market. If you would like m
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Forecast.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What can you expect from the 2018 real estate market as a Utah homebuyer or seller? We will share our forecast with you today.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>What can you expect from the 2018 real estate market as a Utah homebuyer or seller? We will share our forecast with you today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2391,7 +2428,7 @@ This is a general forecast for our local real estate market. If you would like m
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2018-01-04 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Recap.mp4</guid>
         <description>
@@ -2415,7 +2452,7 @@ This is just a snapshot of what we observed over the past year. As always, if yo
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Recap.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What happened in the 2017 real estate market, and what can that tell us about 2018? Let’s take a quick look.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>What happened in the 2017 real estate market, and what can that tell us about 2018? Let’s take a quick look.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2426,7 +2463,7 @@ This is just a snapshot of what we observed over the past year. As always, if yo
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-12-19 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4</guid>
         <description>
@@ -2446,7 +2483,7 @@ So thank you all from the bottom of our hearts. We look forward to an awesome 20
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Happy+Holidays.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Thank you all so much for your love and support.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Thank you all so much for your love and support.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2457,7 +2494,7 @@ So thank you all from the bottom of our hearts. We look forward to an awesome 20
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-12-01 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Santa's+Coming+with+Map.mp4</guid>
         <description>
@@ -2479,7 +2516,7 @@ We’re very excited to have all of our friends and family join us, and we’d l
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Santa's+Coming+with+Map.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Seeing Santa at the mall can take a long time and cost a pretty penny for a few photos. That’s why we’re having Santa come to us this year, and you’re invited to come see him.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Seeing Santa at the mall can take a long time and cost a pretty penny for a few photos. That’s why we’re having Santa come to us this year, and you’re invited to come see him.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2492,7 +2529,7 @@ We’re very excited to have all of our friends and family join us, and we’d l
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-11-21 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate-+Are+you+guilty+of+making+these+listing+mistakes%253F.mp4</guid>
         <description>
@@ -2518,7 +2555,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Bryan+Colemere/Utah+Real+Estate-+Are+you+guilty+of+making+these+listing+mistakes%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>A lot goes into the process of selling your home. That being said, there are a lot of things you should avoid. Today, we want to go over some of the biggest mistakes people can make when selling their homes.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>A lot goes into the process of selling your home. That being said, there are a lot of things you should avoid. Today, we want to go over some of the biggest mistakes people can make when selling their homes.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2531,7 +2568,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-11-03 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+8+Things+to+Not+Overlook.mp4</guid>
         <description>
@@ -2563,7 +2600,7 @@ We hope this list is helpful to you. If you have any questions in the meantime o
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+8+Things+to+Not+Overlook.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are certain things that can be overlooked when buying a home. This list doesn’t include any of them.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>There are certain things that can be overlooked when buying a home. This list doesn’t include any of them.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2576,7 +2613,7 @@ We hope this list is helpful to you. If you have any questions in the meantime o
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-09-26 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4</guid>
         <description>
@@ -2610,7 +2647,7 @@ If you have any questions for us or are looking to buy or sell a home, don’t h
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>You don’t need to make every home repair. However, you need to make these 9 repairs every time.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>You don’t need to make every home repair. However, you need to make these 9 repairs every time.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2623,7 +2660,7 @@ If you have any questions for us or are looking to buy or sell a home, don’t h
         
           <category>Market Update</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-09-13 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Late+Summer+Market+Update.mp4</guid>
         <description>
@@ -2651,7 +2688,7 @@ If you have any other questions about our current market or would like to know m
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Late+Summer+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What is happening in the real estate market as summer draws to a close? The market is still hot, but it depends on what price point you’re in.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>What is happening in the real estate market as summer draws to a close? The market is still hot, but it depends on what price point you’re in.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2662,7 +2699,7 @@ If you have any other questions about our current market or would like to know m
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-08-30 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Agent+Rat+Race.mp4</guid>
         <description>
@@ -2691,7 +2728,7 @@ If you have any questions about our team or are interested in attending some of 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Agent+Rat+Race.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to escape from under the agent rat race, stop trying to do everything yourself and join a team.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you want to escape from under the agent rat race, stop trying to do everything yourself and join a team.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2702,7 +2739,7 @@ If you have any questions about our team or are interested in attending some of 
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-08-14 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4</guid>
         <description>
@@ -2732,7 +2769,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Academy+Mortgage+Foundation.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Giving back is important to us. That’s why we’re partnering with Academy Mortgage to bring you some information on how you can help us do just that.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Giving back is important to us. That’s why we’re partnering with Academy Mortgage to bring you some information on how you can help us do just that.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2745,7 +2782,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Investing</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-07-18 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Air+BnB.mp4</guid>
         <description>
@@ -2767,7 +2804,7 @@ If you have any questions about investing in real estate, please don’t hesitat
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Air+BnB.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re thinking about investing in an Airbnb property, there are three items you must take into consideration first.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you’re thinking about investing in an Airbnb property, there are three items you must take into consideration first.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2780,7 +2817,7 @@ If you have any questions about investing in real estate, please don’t hesitat
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-07-06 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4</guid>
         <description>
@@ -2812,7 +2849,7 @@ If you’d like more information or have any other questions feel free to get in
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Buyer+Representation+with+Builder.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Buyers that are thinking of building a home or buying a home directly from a builder need to seriously consider how well they are being represented in the process.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Buyers that are thinking of building a home or buying a home directly from a builder need to seriously consider how well they are being represented in the process.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2825,7 +2862,7 @@ If you’d like more information or have any other questions feel free to get in
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-06-20 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4</guid>
         <description>
@@ -2841,7 +2878,7 @@ We’ve had to deal with quite a few multiple offer situations recently. These c
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Getting+Your+Offer+Accepted.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Multiple offer situations are a common occurrence in our market. Here’s how we are helping our buyers stand out and win.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Multiple offer situations are a common occurrence in our market. Here’s how we are helping our buyers stand out and win.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2854,7 +2891,7 @@ We’ve had to deal with quite a few multiple offer situations recently. These c
         
           <category>Investing</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-06-08 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bonus+Video.mp4</guid>
         <description>
@@ -2876,7 +2913,7 @@ The last thing to keep in mind is that third parties are necessary. You need to 
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bonus+Video.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We’re back with a bonus round for our real estate investment series! Today, we’ll discuss the 1031 exchange.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We’re back with a bonus round for our real estate investment series! Today, we’ll discuss the 1031 exchange.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2889,7 +2926,7 @@ The last thing to keep in mind is that third parties are necessary. You need to 
         
           <category>Investing</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-05-18 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+3.mp4</guid>
         <description>
@@ -2915,7 +2952,7 @@ Hopefully you’re all real estate investing experts by now. If you still have a
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+3.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Part three of our series on real estate investing is here. This time, we’re discussing financing options.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Part three of our series on real estate investing is here. This time, we’re discussing financing options.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2928,7 +2965,7 @@ Hopefully you’re all real estate investing experts by now. If you still have a
         
           <category>Investing</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-04-18 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4</guid>
         <description>
@@ -2952,7 +2989,7 @@ Stay tuned for the last part in our series about investment properties. In the m
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Investment+Properties+Part+2.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>After you’ve found an investment property you like, it’s time to evaluate that property. Here are three keys to evaluating an investment property.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>After you’ve found an investment property you like, it’s time to evaluate that property. Here are three keys to evaluating an investment property.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -2965,7 +3002,7 @@ Stay tuned for the last part in our series about investment properties. In the m
         
           <category>Investing</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-03-30 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4</guid>
         <description>
@@ -2994,7 +3031,7 @@ Stay tuned for part two in our series about investment properties. In the meanti
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Part+1+of+Investment+Properties.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re thinking about buying an investment property, consider these three things before making the jump.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If you’re thinking about buying an investment property, consider these three things before making the jump.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3009,7 +3046,7 @@ Stay tuned for part two in our series about investment properties. In the meanti
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-03-20 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4</guid>
         <description>
@@ -3033,7 +3070,7 @@ If you have any other questions about how to handle a bad appraisal or if you wa
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Bad+Appraisals.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If a property does not appraise, there are three things that you can do as a buyer or seller to try and make it to the closing table.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>If a property does not appraise, there are three things that you can do as a buyer or seller to try and make it to the closing table.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3044,7 +3081,7 @@ If you have any other questions about how to handle a bad appraisal or if you wa
         
           <category>Testimonials</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-03-17 00:00:00 -0500</pubDate>
         <guid></guid>
         <description>“Bryan was a referral from a friend of mine. I was a little apprehensive because I’ve worked with realtors in the past but, I liked the way that he thought. It wasn’t all just go big or go home. He actually tried to find the best fit for us. I called him several times in the evenings and on weekends and he always took my calls. If he didn’t answer he made sure to call me right back, even on a weekend. He was always able to answer any questions I had and help me think through the whole process.”
@@ -3056,7 +3093,7 @@ If you have any other questions about how to handle a bad appraisal or if you wa
         <media:content url="" type=""/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How We Helped Brian By Answering All Of His Questions!</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How We Helped Brian By Answering All Of His Questions!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3069,7 +3106,7 @@ If you have any other questions about how to handle a bad appraisal or if you wa
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-02-27 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4</guid>
         <description>
@@ -3097,7 +3134,7 @@ If you have any questions about the market or are looking to buy or sell a home,
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+2017+Market+Forecast.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We recently attended a conference that gave us some great insight into the real estate market. Here’s what we learned.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We recently attended a conference that gave us some great insight into the real estate market. Here’s what we learned.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3108,7 +3145,7 @@ If you have any questions about the market or are looking to buy or sell a home,
         
           <category>Testimonials</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-02-15 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Marilyn_Black_-_Colemeres.mp3</guid>
         <description>
@@ -3122,7 +3159,7 @@ If you have any questions about the market or are looking to buy or sell a home,
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Marilyn_Black_-_Colemeres.mp3" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How We Helped Marilyn by Going Above and Beyond</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>How We Helped Marilyn by Going Above and Beyond</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3135,7 +3172,7 @@ If you have any questions about the market or are looking to buy or sell a home,
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-02-08 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4</guid>
         <description>
@@ -3162,7 +3199,7 @@ If you have any questions for us or you’re thinking of buying or selling in th
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Reasons+your+home+won%27t+sell.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>There are four reasons why homes typically fail to sell. We've got a list of the top four reasons homes fail to sell, as well as solutions for all of them.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>There are four reasons why homes typically fail to sell. We've got a list of the top four reasons homes fail to sell, as well as solutions for all of them.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3175,7 +3212,7 @@ If you have any questions for us or you’re thinking of buying or selling in th
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-01-25 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4</guid>
         <description>
@@ -3199,7 +3236,7 @@ If you have any questions or would like us to cover a topic in one of our videos
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Multiple+Offer+Situations.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we wanted to go over the three ways sellers can approach multiple offer situations.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Today we wanted to go over the three ways sellers can approach multiple offer situations.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3212,7 +3249,7 @@ If you have any questions or would like us to cover a topic in one of our videos
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2017-01-11 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4</guid>
         <description>
@@ -3234,7 +3271,7 @@ If you have any real estate questions or topics you’d like to see us discuss i
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Inventory is low in our market and interest rates have settled down after a slight uptick. What does this mean for you going forward?</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Inventory is low in our market and interest rates have settled down after a slight uptick. What does this mean for you going forward?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3247,7 +3284,7 @@ If you have any real estate questions or topics you’d like to see us discuss i
         
           <category>Real Estate</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2016-12-28 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Home+Renos+to+Avoid.mp4</guid>
         <description>
@@ -3271,7 +3308,7 @@ Follow this advice, and your home will be much more attractive to potential buye
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Home+Renos+to+Avoid.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Not every improvement is a good one when it comes to adding resale value in your home. Here are seven things that buyers do not want to see.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Not every improvement is a good one when it comes to adding resale value in your home. Here are seven things that buyers do not want to see.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3284,7 +3321,7 @@ Follow this advice, and your home will be much more attractive to potential buye
         
           <category>Home Seller Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2016-12-16 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4</guid>
         <description>
@@ -3308,7 +3345,7 @@ If you have any other questions, please reach out with a phone call or a quick e
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Selling+in+the+Winter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Don’t let the colder months scare you away from listing your home. Here are a few tips to help you take advantage of the winter market.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>Don’t let the colder months scare you away from listing your home. Here are a few tips to help you take advantage of the winter market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -3325,7 +3362,7 @@ If you have any other questions, please reach out with a phone call or a quick e
         
           <category>Home Buyer Tips</category>
         
-        <author></author>
+        <author>Bryan Colemere</author>
         <pubDate>2016-11-14 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you.</guid>
         <description>
@@ -3337,14 +3374,14 @@ Welcome to the new YouTube channel for Colemere Realty Associates! We will updat
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Colemere+Realty/Utah+Real+Estate+Check+Out+Our+New+YouTube+Channel.mp4interest you." type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:subtitle>
-        <itunes:author></itunes:author>
+        <itunes:author>Bryan Colemere</itunes:author>
         <itunes:summary>We will update this channel regularly with great seller tips, buyer tips, and real estate market updates for our area.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Wasatch Front, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright></copyright>
-    <media:credit role="author"></media:credit>
+    <copyright>Bryan Colemere</copyright>
+    <media:credit role="author">Bryan Colemere</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty Associates, LLC - your professional Wasatch Front Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Colemere Realty and Associates - your professional Wasatch Front Real Estate Agents.</media:description>
   </channel>
 </rss>
