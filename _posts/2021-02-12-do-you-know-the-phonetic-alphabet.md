@@ -17,7 +17,7 @@ youtube_code: stPEs4zKw9g
 
 {% include youtube.html %}
 
-Here’s why I recommend learning the alphabet that pilots use all the time.
+<p style="text-align: center;"><em>Here’s why I recommend learning the alphabet that pilots use all the time.</em></p>
 
 How many times have we misunderstood someone over the phone? The similarities in sound between “M” and “N” or “P” and “T” or any other notorious pair in the alphabet may seem harmless, but when communicating important information like addresses they can create a great deal of confusion. If you’re trying to send an email with critical attachments but you misheard someone and made an error somewhere in the characters before the “@”, your message will never arrive.&nbsp;
 
