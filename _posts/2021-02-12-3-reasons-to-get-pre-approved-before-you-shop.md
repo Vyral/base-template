@@ -17,7 +17,7 @@ youtube_code: Irwy31axEO0
 
 {% include youtube.html %}
 
-Before you go house-hunting, get pre-approved for a mortgage.
+<p style="text-align: center;"><em>Before you go house-hunting, get pre-approved for a mortgage.</em></p>
 
 There are three reasons why you should get pre-approved for a mortgage before you begin the process of shopping for a home:
 
