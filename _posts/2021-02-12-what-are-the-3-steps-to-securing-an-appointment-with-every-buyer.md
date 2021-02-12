@@ -5,7 +5,8 @@ date: 2021-02-12 16:47:48
 tags:
   - Lead Conversion
 excerpt: Here’s a quick look at how to convert more contacts to appointments.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Hooke/Recruiting+Videos/2021/What+Are+the+3+Steps+to+Secure+an+Appointment+with+Every+Qualified+Home+Buyer_.mp4
 pullquote: Your window to respond is only open for five minutes.
 enclosure_type: video/mp4
 enclosure_time:
