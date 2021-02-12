@@ -16,7 +16,7 @@ youtube_code: CHLg_ef2lS0
 
 {% include youtube.html %}
 
-Here’s a quick look at how to convert more contacts to appointments.
+<p style="text-align: center;"><em>Here’s a quick look at how to convert more contacts to appointments.</em></p>
 
 Here are the three steps you can take to ensure you secure an appointment with every qualified homebuyer who reaches out to you:
 
