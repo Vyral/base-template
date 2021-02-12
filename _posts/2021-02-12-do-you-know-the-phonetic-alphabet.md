@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Know the Phonetic Alphabet?
-date: 2021-02-12 16:37:10
+date: 2021-02-12 16:37:00
 tags:
   - Expert Advice
 excerpt: Here’s why I recommend learning the alphabet that pilots use all the time.
