@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Your Latest Clarksville Market Update
-date: 2021-02-15 20:26:43
+date: 2021-02-15 20:26:00
 tags:
   - Market Update
 excerpt: Here’s how our Clarksville market has performed in early 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Valerie+Hunter-Kelly/+Videos/2021/Your+Latest+Clarksville+Market+Update.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
