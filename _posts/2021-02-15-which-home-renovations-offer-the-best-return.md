@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Which Home Renovations Offer the Best Return?
-date: 2021-01-27 17:10:00
+date: 2021-02-15 09:10:00
 tags:
   - Home Seller Tips
 excerpt: Here’s my advice on which home renovations to pursue for a great ROI.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jesse+Myles/Which+Home+Renovations+Offer+the+Best+Return_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: UhEnOHQ-H9M
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s my advice on which home renovations to pursue for a great ROI.</em></p>
+*Here’s my advice on which home renovations to pursue for a great ROI.*
 
 In my opinion, the two most important areas to renovate in your home are **the kitchen and the master bathroom.** Potential buyers will have their eyes on many things in your kitchen including cabinetry, countertops, appliances, and flooring. As far as the master bathroom is concerned, they’ll be paying special attention to upgrades that help make it feel more like their own personal space (e.g., sleek showers, jacuzzi tubs, and modern fixtures).&nbsp;
 
