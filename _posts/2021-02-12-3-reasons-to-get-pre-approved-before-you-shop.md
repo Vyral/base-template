@@ -25,4 +25,4 @@ There are three reasons why you should get pre-approved for a mortgage before yo
 **2. It prevents you from getting emotionally attached to a home** only to find out later that you can’t afford it or aren’t pre-approved for it. There’s no need to set yourself up for that kind of disappointment.
 **3. It’ll help you get your offer accepted.** In a competitive market with low inventory, a pre-approval document will likely mean the difference between acceptance and rejection for your offer. Even if it’s not a competitive situation, a seller who uses a real estate agent will probably require a pre-approval statement from a reputable mortgage institution.
 
-If you have any questions about today’s topic or anything else to do with real estate, reach out to us. One of our team members will follow up with you and take great care of your needs.
+If you have any questions about today’s topic or anything else to do with real estate, reach out via phone or email us at 717.216.0860 or dave@davehooketeam.com. One of our team members will follow up with you and take great care of your needs.
