@@ -15,7 +15,7 @@ youtube_code: 9qR5KyXsOTE
 
 {% include youtube.html %}
 
-<center><em>Ali Retta sums up 2020&rsquo;s mortgage market and offers a 2021 forecast.</em></center>
+<center><em>Ali Reda sums up 2020&rsquo;s mortgage market and offers a 2021 forecast.</em></center>
 
 &nbsp;
 
