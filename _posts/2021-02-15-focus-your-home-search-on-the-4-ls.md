@@ -17,7 +17,7 @@ youtube_code: 021zr3QzCG0
 
 {% include youtube.html %}
 
-Here’s the criteria you should focus on when starting your home search.
+<p style="text-align: center;"><em>Here’s the criteria you should focus on when starting your home search.</em></p>
 
 Today I want to talk to you about your criteria as a homebuyer and the importance of zoning in on what’s important to you. Especially in a low inventory market like this, buyers have to be clear on what’s most important to them in a home. **With limited inventory, you need to be able to prioritize and compromise. &nbsp;**
 
