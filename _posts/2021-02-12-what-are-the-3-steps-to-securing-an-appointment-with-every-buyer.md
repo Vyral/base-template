@@ -21,9 +21,9 @@ youtube_code: CHLg_ef2lS0
 
 Here are the three steps you can take to ensure you secure an appointment with every qualified homebuyer who reaches out to you:
 
-**1\. Respond quickly.** If you get an inquiry on a home, the most important thing is to respond quickly, preferably in under five minutes. In the largest study of internet inquiries ever done, it shows that if you can’t call the inquirer back within five minutes, you’re better off not calling at all.&nbsp;
+**1\. Respond quickly.** If you get an inquiry on a home, the most important thing is to respond quickly, preferably in under five minutes. The largest study of internet inquiries ever done revealed that if you can’t call the inquirer back within five minutes, you’re better off not calling at all.&nbsp;
 
-**2\. Ask if there are any questions they have and when they can preview the property.** This immediately helps drive the conversation to the two things that 99% of homebuyers want: answering questions and setting up a time to preview the property. Framing it like this starts the conversation right out of the gate.
+**2\. Ask them if they have any questions and when they can preview the property.** This immediately helps drive the conversation to the two things that 99% of homebuyers want: answering questions and setting up a time to preview the property. Framing it like this starts the conversation right out of the gate.
 
 {% include pullquote.html %}
 
