@@ -22,7 +22,7 @@ youtube_code: 3elXROCeRK8
 
 Oftentimes, homebuyers have enough cash saved up for a down payment but don’t have good credit, which means obtaining financing through a regular bank isn’t an option. In these cases, we use some pretty creative financing strategies. Here are three alternative routes you can take if you find yourself in a similar situation:&nbsp;
 
-**1\. Lease purchase.** When your credit isn’t good enough to qualify for financing but it’s just a matter of time—say, six months to a year—until you can repair it, this option may be one of your best. You can first rent the property you want to buy, then work on your credit (e.g. pay down debts) until it's healthy enough to secure the financing you need. With this path, there will be two contracts: a lease contract and a purchase contract.&nbsp;
+**1\. Lease purchase.** When your credit isn’t good enough to qualify for financing but it’s just a matter of time—say, six months to a year—until you can repair it, this option may be one of your best. You can first rent the property you want to buy, then work on your credit (e.g., pay down debts) until it's healthy enough to secure the financing you need. With this path, there will be two contracts: a lease contract and a purchase contract.&nbsp;
 
 Typically, these lease purchase contracts last for about two or three years, giving you ample time to get your financial bearings straight. The best part: When you move in as a renter, you lock in the eventual purchase price right then and there. If after two years home prices have skyrocketed, you won’t have to bear that extra burden.&nbsp;
 
