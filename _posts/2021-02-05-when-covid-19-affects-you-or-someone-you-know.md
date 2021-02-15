@@ -5,7 +5,8 @@ date: 2021-02-05 00:00:00
 tags:
   - Real Estate
 excerpt: Let us help you assess your options if you’ve been impacted by COVID.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/When+COVID-19+Affects+You+or+Someone+You+Know.mp4
 pullquote: You need someone on your side to look out for your best interests.
 enclosure_type: video/mp4
 enclosure_time:
