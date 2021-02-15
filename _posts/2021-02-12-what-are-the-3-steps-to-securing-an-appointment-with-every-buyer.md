@@ -31,4 +31,4 @@ Here are the three steps you can take to ensure you secure an appointment with e
 
 **When you cover all of these things first, you’re setting up the conversation to give them what they need first (value) and asking for something in return (getting qualified).** Our motto is to give consumers twice the value you ask for, and arranging the conversation like this does just that.
 
-If you have questions about this process or anything else related to the real estate business, don't hesitate to reach out via phone or email today. I would love to connect.
+If you have questions about this process or anything else related to the real estate business, don't hesitate to Reach out to me today via phone or email at 717.216.0860 or dave@davehooketeam.com. I would love to connect.
