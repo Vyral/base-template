@@ -3,7 +3,7 @@ layout: post
 title: 'Low Rates, a Refi Monsoon, and 2021 Predictions'
 date: 2021-02-10 14:27:00
 tags:
-excerpt: Ali Retta sums up 2020’s mortgage market and offers a 2021 forecast.
+excerpt: Ali Reda sums up 2020’s mortgage market and offers a 2021 forecast.
 enclosure:
 pullquote: 'Thankfully, we have a beautiful, never-before-seen equilibrium in the market.'
 enclosure_type: video/mp4
