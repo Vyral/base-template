@@ -5,7 +5,7 @@ date: 2021-02-12 16:53:56
 tags:
   - Home Buyer Tips
 excerpt: Three creative ways to finance a purchase if you can’t go to a bank.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Oggie+Penev/Videos/3+Creative+Alternatives+to+Traditional+Financing.mp4
 pullquote: >-
   You can first rent the property you want to buy, then work on your credit
   until it's healthy enough to secure the financing you need.
