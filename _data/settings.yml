@@ -12,23 +12,27 @@ custom_links:
   - title:
     url:
 client:
-  name: Valerie Hunter Kelly
+  name: Mark Kelly
   license_number:
-  about_markdown: >
-    As a military spouse who has moved numerous times, I understand the stress
-    of relocation.Doing Real Estate in various markets has allowed me exposure
-    to various Real Estate Markets. I specialize in military and corporate
-    transfers , first time buyers and am licensed in Kentucky and Tennessee.
-    Please call me or email me to benefit from my years of expertise!
+  about_markdown: >-
+    Mark is a retired Army Colonel having served our Nation for over twenty-six
+    years. &nbsp;He entered the real estate industry in July 2002 with Keller
+    Williams Realty and is now the Chief Operating Officer
+    and&nbsp;**Broker**&nbsp;of The Air Assault Team. &nbsp;He ensures the
+    Team’s Vision and Mission remains the foundation of the Team’s
+    responsibilities to our customers and clients. &nbsp;He ensures the legal
+    aspects of real estate are adhered to in all transactions. &nbsp;Mark sets
+    the tone for the high level of excellence delivered by our Team and the
+    unprecedented service you will and should expect to receive.
   market: Clarksville
   brand: The Air Assault Team
   brokerage: Keller Williams Realty
   address: '2279-D Wilma Rudolph Blvd<br>Clarksville, TN 37040'
   phone: 931-245-7435
   phone_type: Office
-  phone2: 931-320-2100
-  phone2_type: Mobile
-  email: Valerie@ValerieHunterKelly.com
+  phone2:
+  phone2_type:
+  email: Mark@AirAssaultTeam.com
   url: 'http://www.AirAssaults.com'
 CTAs:
   first_CTA_text: Home Valuation
