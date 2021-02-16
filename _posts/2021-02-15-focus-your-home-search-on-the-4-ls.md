@@ -7,7 +7,7 @@ tags:
 excerpt: Here’s the criteria you should focus on when starting your home search.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Sarita+Dua/2021/Portland+Real+Estate+Agent_+4+L's.mp4
-pullquote: It’s hard to make a darker home lighter.
+pullquote: Buyers have to know what's most important to them in a home.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -17,11 +17,11 @@ youtube_code: 021zr3QzCG0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s the criteria you should focus on when starting your home search.</em></p>
+<p style="text-align: center;"><em>Here are the criteria you should focus on when starting your home search.</em></p>
 
 Today I want to talk to you about your criteria as a homebuyer and the importance of zoning in on what’s important to you. Especially in a low inventory market like this, buyers have to be clear on what’s most important to them in a home. **With limited inventory, you need to be able to prioritize and compromise. &nbsp;**
 
-Each buyer’s answer is different, but what everyone should want in a home comes down the the things you can’t change: **The 4 L’s**
+Each buyer’s answer is different, but what everyone should want in a home comes down the things you can’t change: **the 4 L’s.**
 
 **1\. Location.** It’s the most important thing because you can’t pick up a house and move it.
 
