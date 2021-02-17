@@ -18,8 +18,8 @@ youtube_code: '-NicoR97ga0'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>This is the difference between being pre-approved and pre-qualified.</em></p>
+*This is the difference between being pre-approved and pre-qualified.*
 
-What’s the difference between being pre-qualified and pre-approved? When you’re pre-qualified, the lender is going off the information you’ve told them: your name, social security number, income, your bank account resources, etc., and they pull your credit score. Being pre-approved means the lender has verified all your information and looked at your documents such as tax returns, bank statements, and W2s. **What you truly want is a pre-approval** because it proves you’re legitimately qualified for a loan. Being pre-approved also looks better to a seller than just being pre-qualified.&nbsp;
+What’s the difference between being pre-qualified and pre-approved? When you’re pre-qualified, the lender is going off the information you’ve told them: your name, social security number, income, bank account resources, credit score, etc. and they pull your credit score. Being pre-approved means the lender has verified all your information and looked at your documents such as tax returns, bank statements, and W2s. **What you truly want is a pre-approval** because it proves you’re legitimately qualified for a loan. Being pre-approved also looks better to a seller than just being pre-qualified.&nbsp;
 
 If you have other questions about this or any other real estate matter, please contact me via phone or email. I would love to help you.
