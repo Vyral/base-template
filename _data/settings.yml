@@ -32,7 +32,7 @@ client:
   phone_type: Office
   phone2:
   phone2_type:
-  email: Mark@AirAssaultTeam.com
+  email: Info@AirAssaultTeam.com
   url: 'http://www.AirAssaults.com'
 CTAs:
   first_CTA_text: Home Valuation
