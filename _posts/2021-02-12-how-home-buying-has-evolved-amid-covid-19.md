@@ -19,7 +19,7 @@ youtube_code: 32qTu1qnas0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are some examples of how COVID-19 has impacted home-buying trends.</em></p>
+*Here are some examples of how COVID-19 has impacted home-buying trends.*
 
 By now, you’ve likely heard about the national real estate market’s defiant performance over the past six or so months in the face of COVID-19. While we know that the health crisis seems to have strengthened the market, we’re still discovering more ways in which it has shaped home-buying behaviors.&nbsp;
 
