@@ -5,7 +5,7 @@ date: 2021-02-11 18:13:00
 tags:
   - Home Seller Tips
 excerpt: Our Real Estate Review will let you know what your home is worth.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Chad+and+Sara+Huebner/Videos/2021/How+to+Know+What+Your+Home+Is+Really+Worth.mp4
 pullquote: >-
   If you’re interested in taking advantage of this offer, give us a call or send
   us an email.
