@@ -17,7 +17,7 @@ youtube_code: _SsJord0atI
 
 {% include youtube.html %}
 
-If you’re struggling to pay your mortgage, a forbearance agreement will help.
+<p style="text-align: center;"><em>If you’re struggling to pay your mortgage, a forbearance agreement will help.</em></p>
 
 What if you can’t make your mortgage payment? In the aftermath of COVID-19, many people lost their jobs, and this can put a person into a situation where they can’t pay their mortgage. If you find yourself in this situation, the good news is that there is a way you can keep your house.&nbsp;
 
