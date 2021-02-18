@@ -22,9 +22,9 @@ This past year was a rough one for all of us, but now hopefully we’re seeing t
 
 **Some lenders are asking for all those deferred payments at once when the period runs out.** Paying that big of a lump sum is going to be tough for a lot of people. Most lenders, however, are deciding to tack the deferred balance on to the end of the loan.
 
-**If you’re in a situation where you do have to pay that lump sum, you need to be making plans to either pay it off or sell your home before it comes due.&nbsp;**
-
 {% include pullquote.html %}
+
+**If you’re in a situation where you do have to pay that lump sum, you need to be making plans to either pay it off or sell your home before it comes due.&nbsp;**
 
 If your balance is going to be added to the back end of your loan, then you’re probably going to be OK if you can start making those payments again. **As long as you have a plan to make those payments, you’re in good shape.**If you don’t, you need to explore your selling options to at least keep the equity that you already have in your home.
 
