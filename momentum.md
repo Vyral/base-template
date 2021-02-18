@@ -5,7 +5,7 @@ permalink: /momentum/
 ---
 
 <br><br>
-<img src="/img/maintainyourmomentum.jpg" width="80%">
+<img src="/img/maintainyourmomentum.jpg" width="90%">
 
 <br>
 
@@ -30,7 +30,7 @@ Momentumers
 business & a counter-balanced life 
 <br>
 • Referral network of like-minded agents and leaders 
-<br><br>
+<br>
 
 
 <p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
@@ -39,7 +39,7 @@ business & a counter-balanced life
 
 
 
-<img src="/img/kwwithprices.jpg" width="70%">
+<img src="/img/kwwithprices.jpg" width="90%"><br><br>
 
 
 SIGN-UP TODAY
@@ -49,13 +49,9 @@ SIGN-UP TODAY
     <fieldset>
         <p id="thanks"></p>
         <!--1-->
-        <label for="type">What type of property are you selling?</label>
+        <label for="type">SIGN UP TODAY</label>
         <select name="type">
-SIGN-UP TODAY
-        <!--7-->
-        <label for="range">
-            What is your desired asking price?
-        </label>
+
         <input name="range">
         <!--8-->
         <label for="name">Name<span class="asterisk">*</span>
