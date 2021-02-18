@@ -41,4 +41,9 @@ My Business Attendees
 kw 
 KELLERWILLIAMS. Each Office is Independently owned and operated 
 
-SIGN-UP TODAY BY GOING TO: <href="" www.yourjourneywithjennie.com/momentum>
+
+<img src="" width="50%">
+
+SIGN-UP TODAY BY GOING TO: <a href="www.yourjourneywithjennie.com/momentum" target="_blank">yourjourneywithjennie.com/momentum</a>
+
+SIGN-UP TODAY
