@@ -32,7 +32,7 @@ business & a counter-balanced life
 
 
 <p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
-<p><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?</br>
+<p><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?
 NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
 
 
@@ -43,14 +43,12 @@ NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</
     <fieldset>
         <p id="thanks"></p>
         <label for="type">SIGN UP TODAY</label>
-        <select name="type">
 
         <input name="range">
         <!--8-->
         <label for="name">Name<span class="asterisk">*</span>
         </label>
         <input type="text" name="name" required>
-
         <!--9-->
         <label for="email">Email<span class="asterisk">*</span>
         </label>
