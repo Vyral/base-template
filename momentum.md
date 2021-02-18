@@ -8,9 +8,9 @@ permalink: /momentum/
 <img src="/img/maintainyourmomentum.jpg" width="80%">
 
 
-<p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. Every. Single. Day.</p>
+<p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
 
-<h1>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES: </h1>
+<h><b>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:</b></h>
 • Weekly 30 minute mastermind on specific topics relating to 
 systems, tools, mindset & teams 
 <br>
@@ -33,12 +33,14 @@ business & a counter-balanced life
 • Referral network of like-minded agents and leaders 
 <br><br>
 
-<h1>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?</h1>
-<p>NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</p>
+
+<p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p><br>
+<h><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?</b></h><br>
+<p><b>NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
 
 
 
-<img src="/img/kwwithprices.jpg" width="50%">
+<img src="/img/kwwithprices.jpg" width="70%">
 
 SIGN-UP TODAY BY GOING TO: <a href="www.yourjourneywithjennie.com/momentum" target="_blank">yourjourneywithjennie.com/momentum</a>
 
