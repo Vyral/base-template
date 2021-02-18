@@ -7,9 +7,7 @@ permalink: /momentum/
 <br><br>
 <img src="/img/maintainyourmomentum.jpg" width="90%">
 
-<br>
-
-<h><b>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:</b></h>
+<h2><b>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:</b></h2>
 • Weekly 30 minute mastermind on specific topics relating to 
 systems, tools, mindset & teams 
 <br>
