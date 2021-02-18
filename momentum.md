@@ -7,7 +7,7 @@ permalink: /momentum/
 <br><br>
 <img src="/img/maintainyourmomentum.jpg" width="90%">
 
-<h2><b>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:</b></h2>
+<h4><b>YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:</b></h4>
 • Weekly 30 minute mastermind on specific topics relating to 
 systems, tools, mindset & teams 
 <br>
@@ -33,20 +33,14 @@ business & a counter-balanced life
 
 <p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
 <p><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?</b>
-<p><b>NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
-
+<b>NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
 
 
 <img src="/img/kwwithprices.jpg" width="90%"><br><br>
 
 
-SIGN-UP TODAY
-
-
 <form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
-    <fieldset>
         <p id="thanks"></p>
-        <!--1-->
         <label for="type">SIGN UP TODAY</label>
         <select name="type">
 
@@ -70,7 +64,6 @@ SIGN-UP TODAY
         <input type="text" name="address">
         <!-- submit! -->
         <button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit</button>
-    </fieldset>
     <!-- Cloud cannon settings field -->
     <div class="hidden">
       <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
