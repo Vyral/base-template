@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Aftermath of a Low Appraisal
-date: 2021-02-03 09:00:00
+date: 2021-02-19 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here are your options if the appraisal comes in low.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Victoria+Sandoval/The+Aftermath+of+a+Low+Appraisal.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -17,7 +18,7 @@ youtube_code: NioSjwA14G8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are your options if the appraisal comes in low.</em></p>
+*Here are your options if the appraisal comes in low.*
 
 What if the appraised value doesn’t meet the contract price? If your home’s appraised value comes in low, it’s possible to get it adjusted. Just like the rest of us in this busy market, appraisers are swamped, and a low appraisal may be due to human error.&nbsp;
 
