@@ -2,12 +2,14 @@
 layout: post
 title: Will Low Mortgage Rates Continue through 2021?
 tags:
-excerpt:
+  - Home Buyer Tips
+  - Market Update
+excerpt: "“The average 30-year fixed-rate mortgage hit a record low over a dozen times in 2020 and\_the low interest rate environment is projected to continue through this year."
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
