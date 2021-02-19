@@ -43,7 +43,6 @@ business & a counter-balanced life
 <form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
-        <label for="type">SIGN UP FOR A MEMBERSHIP TODAY<br><br></label>
         <label for="message">Let me know why you are you interested in this?*</label><textarea name="message"></textarea>
         <label for="name">Name<span class="asterisk">*</span>
         </label>
