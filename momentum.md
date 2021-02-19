@@ -40,6 +40,8 @@ business & a counter-balanced life
 
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform">SIGN UP NOW HERE</a></h2>
 
+<!--
+
 <h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
 
 <form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form">
@@ -49,26 +51,23 @@ business & a counter-balanced life
         <label for="name">Name<span class="asterisk">*</span>
         </label>
         <input type="text" name="name" required>
-        <!--9-->
         <label for="email">Email<span class="asterisk">*</span>
         </label>
         <input type="email" name="_replyto" required>
-        <!--10-->
         <label for="phone">Phone Number
         </label>
         <input type="tel" name="phone">
-        <!--11-->
         <label for="address">Address
         </label>
         <input type="text" name="address">
-        <!-- submit! -->
         <button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit</button>
     </fieldset>
-    <!-- Cloud cannon settings field -->
     <div class="hidden">
       <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
       <input type="hidden" name="_subject" value="Maintain Your Momentum sign up From Your Vyral Video Blog">
       <input type="text" name="_gotcha">
     </div>
 </form>
+
+--!>
 
