@@ -38,6 +38,8 @@ business & a counter-balanced life
 
 <img src="/img/kwwithprices.jpg" width="100%"><br><br>
 
+<h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform">SIGN UP NOW HERE</a></h2>
+
 <h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
 
 <form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form">
