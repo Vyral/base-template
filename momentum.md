@@ -41,32 +41,12 @@ business & a counter-balanced life
 <h2><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">SIGN UP HERE NOW</a></b></h2>
 
 
-<div class="cta-sidebar-container">
-	<div class="cta-img-container">
-	<a href="{https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">
-		{% else %}
-		<a href="{{cta.CTA_url3}}" target="_blank">
-		{%endif%}
-		<img src="{{cta.CTA_image_path3}}" alt="" />
-	</a>
-	</div>
-	<h5>SIGN UP HERE NOW</h5>
-	<p>
-		{{cta.CTA_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
-	</p>
+
 	<div class="ctacontainer">
-		{% if cta.CTA_link_text3 == null or cta.CTA_url3 == null%}
-		<a class="ctalink" href="{{site.data.settings.CTAs.third_CTA_URL}}" target="_blank">
-			{{site.data.settings.CTAs.third_CTA_text}}
+		<a class="ctalink" href="{https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">
+			SIGN UP HERE NOW
 		</a>
-		{% else %}
-		<a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
-			{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
-		</a>
-		{% endif %}
-	</div>
 </div>
-{% endfor %}
 
 <hr>
 
