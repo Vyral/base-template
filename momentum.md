@@ -43,9 +43,7 @@ business & a counter-balanced life
     <fieldset>
         <p id="thanks"></p>
         <label for="type">SIGN UP FOR A MEMBERSHIP TODAY<br><br></label>
-        
-        <label for="name">Please let me know if you are interested here<span class="asterisk">*</span>
-        <input type="name" name="name" required>
+        <label for="message">Let me know why you are you interested in this? </label><textarea name="message"></textarea>
         </label>
         <label for="name">Name<span class="asterisk">*</span>
         </label>
