@@ -38,7 +38,7 @@ business & a counter-balanced life
 
 <img src="/img/kwwithprices.jpg" width="100%"><br>
 
-<h2><br><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform">SIGN UP NOW</a></b></h2>
+<h2><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform">SIGN UP NOW</a></b></h2>
 
 <!--
 <h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
