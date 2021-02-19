@@ -40,6 +40,8 @@ business & a counter-balanced life
 
 <h2><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform">SIGN UP HERE NOW</a></b></h2>
 
+<hr>
+
 <!--
 <h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
 
