@@ -18,7 +18,7 @@ youtube_code: rxhaoufL7E0
 
 <p style="text-align: center;"><em>There are multiple ways of owning property.</em></p>
 
-In today’s video, I’ll speak with attorney Ariel Cecalla to discuss some different ways that you can own property outside of individually purchasing it. Given her background in real estate and estate planning, she really has a full scope of understanding in this area. For example, we’ll discuss reasons why someone should want to own real estate beyond just buying a property individually, as well as the differences between the types of property ownership.&nbsp;
+In today’s video, I’ll speak with attorney Arielle Cecala to discuss some different ways that you can own property outside of individually purchasing it. Given her background in real estate and estate planning, she really has a full scope of understanding in this area. For example, we’ll discuss reasons why someone should want to own real estate beyond just buying a property individually, as well as the differences between the types of property ownership.&nbsp;
 
 **Follow along in the video above, or use the timestamps below to navigate our discussion at your leisure:**
 
@@ -32,4 +32,4 @@ In today’s video, I’ll speak with attorney Ariel Cecalla to discuss some dif
 
 9:43—Wrapping up today’s discussion
 
-I’m so thankful to have had Ariel on with us to discuss this important topic. If you have any more specific questions or would like to connect with Ariel, feel free to reach out to me. I would happily set up an introduction for you.
+I’m so thankful to have had Arielle on with us to discuss this important topic. If you have any more specific questions or would like to connect with Arielle, feel free to reach out to me. I would happily set up an introduction for you.
