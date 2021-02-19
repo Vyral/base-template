@@ -43,9 +43,8 @@ business & a counter-balanced life
     <fieldset>
         <p id="thanks"></p>
         <label for="type">SIGN UP TODAY<br><br></label>
-        <input type="interest" name="interest" required>
-        <!--10-->
         <label for="interest">Please let me know you are interested
+        <input type="interest" name="interest" required>
         </label>
         <label for="name">Name<span class="asterisk">*</span>
         </label>
