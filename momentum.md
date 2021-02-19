@@ -40,11 +40,9 @@ business & a counter-balanced life
 
 <h2><b><a href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">SIGN UP HERE NOW</a></b></h2>
 
-<div>
 <button style="background-color: #283a5c" "width: 200px" type="button">
 		<a class="ctalink" href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">
 			SIGN UP HERE NOW</a></button>
-</div>
 
 <hr>
 
