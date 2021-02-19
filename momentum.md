@@ -38,9 +38,9 @@ business & a counter-balanced life
 
 <img src="/img/kwwithprices.jpg" width="100%"><br>
 
-<button style="background-color: #283a5c" "size: 300px" type="button">
-		<a class="ctalink" href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank"><h4>
-			SIGN UP HERE NOW</h4></a></button>
+<button style="background-color: #283a5c size: 300px" type="button">
+		<a class="ctalink" href="https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">
+			SIGN UP HERE NOW</a></button>
 
 <hr>
 
