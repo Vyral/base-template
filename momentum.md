@@ -42,8 +42,8 @@ business & a counter-balanced life
 <form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
-        <label for="type">SIGN UP TODAY<br><br></label>
-        <label for="interest">Please let me know you are interested
+        <label for="type">SIGN UP FOR A MEMBERSHIP TODAY<br><br></label>
+        <label for="interest">Please let me know if you are interested here<span class="asterisk">*</span>
         <input type="interest" name="interest" required>
         </label>
         <label for="name">Name<span class="asterisk">*</span>
