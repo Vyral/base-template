@@ -14,9 +14,9 @@ youtube_alternate_image:
 youtube_code:
 ---
 
-{% include youtube.html %}
+# ![](uploads/20210218-kcm-share.jpg){: width="750" height="410"}
 
-### Will Low Mortgage Rates Continue through 2021?
+# Will Low Mortgage Rates Continue through 2021?
 
 With mortgage interest rates hitting&nbsp;[record lows](https://www.simplifyingthemarket.com/2020/11/19/will-mortgage-rates-remain-low-next-year/?a=94310-69c287c0a402c16fd60512cd144a2e2d){: target="_blank" rel="noopener noreferrer"}&nbsp;so many times recently, some are wondering if we’ll see low rates continue throughout 2021, or if they’ll start to rise. Recently,&nbsp;*Freddie Mac*&nbsp;released their quarterly&nbsp;[forecast](http://www.freddiemac.com/blog/research_and_analysis/20210125_what_will_2021_bring_for_housing.page?){: target="_blank" rel="noopener noreferrer"}, noting:
 
@@ -42,6 +42,4 @@ With low rates fueling activity among hopeful buyers, there are a lot of people 
 
 ### **Bottom Line**
 
-If you’re ready to buy a home, it may be wise to make your move before mortgage rates begin to rise. Let’s connect to discuss how today’s low rates can create more opportunities for you this year.
-
-{% include youtube.html %}
+If you’re ready to buy a home, it may be wise to make your move before mortgage rates begin to rise. Let’s connect to discuss how today’s low rates can create more
