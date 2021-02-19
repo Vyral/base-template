@@ -5,7 +5,7 @@ date: 2021-02-17 14:19:32
 tags:
   - Real Estate
 excerpt: There are multiple ways of owning property.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Josh+Lioce/+Videos/2021/Owning+Property_+Interview+with+Ariel+Cecalla.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
