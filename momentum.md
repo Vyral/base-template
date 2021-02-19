@@ -42,11 +42,10 @@ business & a counter-balanced life
 
 
 
-	<div class="ctacontainer">
+<button style="background-color: blue;" type="button">
 		<a class="ctalink" href="{https://docs.google.com/forms/d/e/1FAIpQLSflhcRVeFv_TxvGozxc8TxqTlteMghORPEnfh7wYpflQ3VnDw/viewform" target="_blank">
 			SIGN UP HERE NOW
-		</a>
-</div>
+</button>
 
 <hr>
 
