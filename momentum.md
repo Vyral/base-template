@@ -7,6 +7,11 @@ permalink: /momentum/
 <br><br>
 <img src="/img/maintainyourmomentum.jpg" width="90%">
 
+<p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
+
+<p><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?<br>
+NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
+
 <h4><b>YOUR MAINTAIN YOUR MOMENTUM<br>MEMBERSHIP INCLUDES:</b></h4>
 • Weekly 30 minute mastermind on specific topics relating to 
 systems, tools, mindset & teams 
@@ -31,12 +36,6 @@ business & a counter-balanced life
 <br>
 
 
-<p>You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. <b>Every. Single. Day.</b></p>
-
-<p><b>WHAT'S NEXT? WHERE DO YOU GO FROM HERE?<br>
-NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</b></p>
-
-
 <img src="/img/kwwithprices.jpg" width="100%"><br><br>
 
 
@@ -44,6 +43,10 @@ NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</
     <fieldset>
         <p id="thanks"></p>
         <label for="type">SIGN UP TODAY<br><br></label>
+        <input type="interest" name="interest" required>
+        <!--10-->
+        <label for="interest">Please let me know you are interested
+        </label>
         <label for="name">Name<span class="asterisk">*</span>
         </label>
         <input type="text" name="name" required>
@@ -52,7 +55,7 @@ NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</
         </label>
         <input type="email" name="_replyto" required>
         <!--10-->
-        <label for="phone">Number
+        <label for="phone">Phone Number
         </label>
         <input type="tel" name="phone">
         <!--11-->
@@ -65,7 +68,7 @@ NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM!</
     <!-- Cloud cannon settings field -->
     <div class="hidden">
       <input type="hidden" name="_to" value="{{site.data.settings.client.email}}">
-      <input type="hidden" name="_subject" value="Seller Request Message From Your Vyral Video Blog">
+      <input type="hidden" name="_subject" value="Maintain Your Momentum sign up From Your Vyral Video Blog">
       <input type="text" name="_gotcha">
     </div>
 </form>
