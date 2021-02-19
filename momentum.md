@@ -40,7 +40,7 @@ business & a counter-balanced life
 
 <h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
 
-<form method="post" class="home-value cta-forms" action="/thankyou" id="home-value-form">
+<form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form">
     <fieldset>
         <p id="thanks"></p>
         <label for="message">Let me know why you are you interested in this?*</label><textarea name="message"></textarea>
