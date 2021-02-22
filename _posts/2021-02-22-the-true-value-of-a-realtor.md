@@ -20,11 +20,9 @@ youtube_code: izHKsfT_zXc
 
 *Here’s a little bit about what we Realtors actually do for our clients.*
 
-&nbsp;
-
 As Realtors (pronounced “Reel-tor,” not “Reel-Uh-Tor”), our job is *not* to spam people’s emails with all the available listings on the market. These days, every homebuyer has access to a host of real estate websites that can give them a feel for what’s out there. We also don’t just drive around and provide people access to properties. That’s more like what an Uber driver does.&nbsp;
 
-**Our*****actual *****role is to find the properties that fit the criteria necessitated by the goals of our clients.** The only way to do that is to sit down with clients for a buyer’s consultation and ascertain their needs, wants, and general home-buying goals. While it’s true that we’ll ultimately have to arrange access to choice properties, there’s a lot more that must happen before that point. How do we know if a matching property is even a good value?&nbsp;
+**Our&nbsp;*****actual &nbsp;*role is to find the properties that fit the criteria necessitated by the goals of our clients.** The only way to do that is to sit down with clients for a buyer’s consultation and ascertain their needs, wants, and general home-buying goals. While it’s true that we’ll ultimately have to arrange access to choice properties, there’s a lot more that must happen before that point. How do we know if a matching property is even a good value?&nbsp;
 
 {% include pullquote.html %}
 
