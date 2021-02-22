@@ -5,7 +5,7 @@ date: 2021-02-22 00:00:00
 tags:
   - Real Estate
 excerpt: Here’s a little bit about what we Realtors actually do for our clients.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+TodaysMarket.mp4'
 pullquote: >-
   To give our buyers as much information as possible, we must connect with the
   listing agent.
@@ -18,7 +18,8 @@ youtube_code: izHKsfT_zXc
 
 {% include youtube.html %}
 
-<center><em>Here’s a little bit about what we Realtors actually do for our clients.</em></center>
+<center><em>Here&rsquo;s a little bit about what we Realtors actually do for our clients.</em></center>
+
 &nbsp;
 
 As Realtors (pronounced “Reel-tor,” not “Reel-Uh-Tor”), our job is *not* to spam people’s emails with all the available listings on the market. These days, every homebuyer has access to a host of real estate websites that can give them a feel for what’s out there. We also don’t just drive around and provide people access to properties. That’s more like what an Uber driver does.&nbsp;
