@@ -16,11 +16,11 @@ youtube_code: J5tKXcwHNb0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s some great advice for homeowners who are in mortgage forbearance.</em></p>
+*Here’s some great advice for homeowners who are in mortgage forbearance.*
 
 This past year was a rough one for all of us, but now hopefully we’re seeing the light at the end of the tunnel. Today I wanted to talk a little bit about mortgage forbearance, or the delayed mortgage payments that were offered to homeowners back in March when COVID-19 hit and the CARES Act was passed.&nbsp;
 
-**Some lenders are asking for all those deferred payments at once when the period ends.** Paying that big of a lump sum is going to be tough for a lot of people. Most lenders, however, are deciding to tack the deferred balance on to the end of the loan.
+It's unclear whether lenders will require a lump sum payment at the end of forbearance or whether that amount will be added to the loan balance.&nbsp; It seems that it will be added to the loan balance in most cases
 
 {% include pullquote.html %}
 
