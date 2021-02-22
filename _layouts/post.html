@@ -4,19 +4,16 @@
 {% include head.html %}
 
 	<body>
-		{% if site.data.settings.audit_header == true %}
-			{% include audit.html %}
-		{% endif %}
 		{% include navigation.html %}
 		{% include header.html %}
 
-  	<div class="container-fluid container-background">
+  	<div class="container-fluid">
 
 				<div class="col-sm-12 visible-xs visible-sm sidebar">
 					{% include socials.html %}
 					{% include search-box.html %}
 				</div>
-			<div class="col-lg-5 col-md-7 col-lg-offset-2">
+			<div class="col-lg-7 col-md-7 col-lg-offset-1">
 
 
 	<main>
@@ -31,7 +28,6 @@
 						{{ content }}
 					</div>
 				</article>
-				{% include share-buttons.html %}
 			</div>
 			<div class="row">
 			</div>
@@ -50,6 +46,5 @@
 		{% include testimonials.html %}
 		{% include bottom-navigation.html %}
 		{% include footer.html %}
-		{% include lightbox.html %}
   </body>
 </html>

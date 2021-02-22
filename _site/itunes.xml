@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Chicago Real Estate Podcast with Ashley Carter</title>
-    <link>https://cartergroupblog.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://cartergroupblog.com"/>
+    <link>http://localhost:4000</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Carter Group Chicago - your professional Chicago Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>The Carter Group Chicago</managingEditor>
-    <lastBuildDate>2020-01-13 10:06:44 -0600</lastBuildDate>
+    <lastBuildDate>2021-02-22 14:28:01 -0600</lastBuildDate>
     <media:copyright>The Carter Group Chicago</media:copyright>
-    <media:thumbnail url="https://cartergroupblog.com/img/podcast.png"/>
+    <media:thumbnail url="http://localhost:4000/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
@@ -18,15 +18,554 @@
     </itunes:owner>
     <itunes:author>The Carter Group Chicago</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://cartergroupblog.com/img/podcast.png"/>
+    <itunes:image href="http://localhost:4000/img/podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Chicago Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Carter Group Chicago - your professional Chicago Real Estate Agents.</itunes:summary>
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>Why You Should Stage Your For-Sale Home</title>
+        <link>http://localhost:4000/why-you-should-stage-your-for-sale-home.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2021-01-18 05:00:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_+(2).mp4</guid>
+        <description>
+
+These are the top four reasons you need to stage your for-sale property.
+
+Today, in the first installment of our two-part series about home staging, I’m sharing four reasons why staging works when selling your home:
+
+1. Living is different from selling. The way we live in our homes is different from the way we sell houses. The way you live in your home accommodates your lifestyle, family size, and how you want the space to function. A professional stager or interior designer puts a space together to present it in its most photogenic and appealing way to buyers.
+
+2. The right furniture. Unfortunately, you don’t have the right furniture. That’s not a criticism; most of us don’t have the appropriate furniture to stage a house to appeal to buyers in the best way. We inherit furniture, bring two families together, or buy furniture over time; most people don’t have an entire matching set. Some also have too much furniture, and a stager knows what to eliminate.
+
+“Staging is still one of the key things we can do to prepare your house for the market.”
+
+3. Buyers expect staging. Due to online listings, HGTV, Instagram, Pinterest, and so on, buyers have been trained to think that a staged appearance is how a property should look when it’s for sale. A very high bar has been set over the last few years for sellers that you need to match.
+
+4. Your competition is staging. Your competition is painting, decluttering, and usually staging to prepare for sale, and you don’t want a buyer choosing their home over yours simply due to its staging.
+
+The real estate climate has shifted, but staging is still one of the key things we can do to prepare your house for the market. Pricing correctly is the most crucial thing, but the property’s physical condition and appearance is the second-most essential aspect of a sale. We don’t see that changing anytime soon.
+
+Stay tuned for part two of this home staging series where we’ll do a case study of a staged home! If you or anyone you know is considering making a move and would like to speak with us about what to do to prepare for a sale, please reach out via phone or email. We’re happy to help.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_+(2).mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_+(2).mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>These are the top four reasons you need to stage your for-sale property.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>These are the top four reasons you need to stage your for-sale property.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Do You Feel When You See These Pics?</title>
+        <link>http://localhost:4000/how-do-you-feel-when-you-see-these-pics.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-12-21 18:22:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4</guid>
+        <description>
+
+Here are some before-and-after pics that prove staging’s efficacy.
+
+In today’s case study of the power of proper staging: a vintage condominium in the Rogers Park neighborhood of Chicago that had been fully remodeled 13 years ago and is presently in good condition. Starting at 1:36 in the video above, you’ll see some before-and-after photos of rooms in the property—the former having been taken by the latest top-model iPhone camera, the latter having been captured by our professional photographers post-staging. It’s clear just how beneficial a professional’s use of digital image correction tools can be. 
+
+People relate better to fully furnished properties because they have a hard time otherwise understanding how the dimensions of their possessions will square with the dimensions of the space they’re seeing online. How big is my couch? Would my lamp look good in that corner, or would it seem a little too awkward? Where would I hang artwork?
+
+“Staging fosters that all-important leap in a buyer’s mind from ‘This is a nice place’ to ‘Wow, I can see myself living here.’”
+
+Speaking of which, artwork has a huge psychological and emotional effect on people; if we go into a property void of decorations, the buyer’s interaction with the home would be fundamentally different. It’s not that the walls would somehow seem to be in worse condition, but rather that the artwork so greatly enhances the feel of the space. Towels and a few tiny, appropriate decorations can make bathrooms feel cozy and homey. With staged dining rooms, buyers will be able to get a baseline of many guests they’d be able to entertain and what they could then do with the space to make it reflect their tastes. 
+
+Ultimately, we aim to facilitate that all-important leap in a buyer’s mind from “This is a nice place” to “Wow, I can see myself living here,” or, “I can imagine how my family would use these spaces.” Staging shows the buyers what it could be like to live in a property. Instead of scratching their head and wondering whether their couch will fit, buyers can truly engage with the spaces. Remember: The initial decision to buy a property is largely an emotional one; logic is used retroactively to justify the positive feelings. 
+
+Hopefully, this case study has helped you to understand how even the most gorgeous, move-in ready properties benefit from professional staging and photography. If you have further questions on this or any other topic or are thinking about making a move soon, please feel free to reach out by phone or email. We’d love to hear from you and consult you on a wide range of options for staging your home and preparing it such that it fetches top dollar on the market.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are some before-and-after pics that prove staging’s efficacy.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here are some before-and-after pics that prove staging’s efficacy.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Why Sell in the Winter?</title>
+        <link>http://localhost:4000/why-sell-in-the-winter.html</link>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-11-25 18:26:03 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4</guid>
+        <description>
+
+Here are the three main reasons winter is an excellent time to sell.
+
+Believe it or not, you may want to consider selling now instead of waiting for the spring. Though spring is the “traditional” time to sell, it’s not always the best option. Here are the three top reasons you may want to sell in the winter:
+
+1. Less competition. There are many homeowners who wanted to sell but decided not to, their home didn’t sell so they took it off the market, or they’re debating it so they’re waiting to list. This means fewer properties competing against yours.
+
+2. Focused and serious buyers. Buyers who didn’t need to buy likely wouldn’t be looking this time of year, so they’re motivated to purchase. Since there’s not a ton of new inventory on the market this time of year, your house will stand out more than it would in a busier market.
+
+“Spring is the ‘traditional’ time to sell, but it’s not always the best option.”
+
+3. Decorated homes show well. Your property is probably decorated for the holidays, and that looks appealing this time of year. What people see, smell, and feel when they walk into your home is all part of the showing process. These senses help them make a personal connection and imagine themselves living in the space. Houses often show their best this time of year.
+
+Many people have needs or goals to move sooner than spring, but they hold themselves back because they think spring is a better time. Thankfully, you don’t have to, it’s still a great time to sell during the holidays and winter months. 
+
+If you’d prefer to get the buying or selling process rolling or have any questions, reach out to us via phone or email. We would love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the three main reasons winter is an excellent time to sell.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here are the three main reasons winter is an excellent time to sell.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Did Our Market Defy Gravity in 2020?</title>
+        <link>http://localhost:4000/q-how-did-our-market-defy-gravity-in-2020.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-11-09 11:37:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Did+Our+Market+Defy+Gravity+in+2020_.mp4</guid>
+        <description>
+
+How did our market manage to stay afloat during COVID?
+
+Our real estate market has been surprisingly strong, so today I’m going to take a deep dive behind the scenes to explain why and how the real estate market has defied gravity during COVID. One figure in particular that we’ll focus on is the unemployment rate—first, we’ll compare this year’s rate to that of the Great Recession in the last decade; next, we’ll look at unemployment rates by industry; and then we’ll look at how unemployment varied by age group. 
+
+Feel free to follow along with our conversation in the video above or else use the timestamps below to navigate the discussion at your leisure:
+
+0:43—Unemployment rates and the U.S. marketplace
+
+1:15—Comparing today’s market to that of the Great Recession
+
+3:15—Unemployment rates by industry
+
+4:33—People who are most likely to own a home have been the least affected by COVID
+
+6:56—Unemployment and housing by age groups
+
+8:26—Which age group was hit the hardest?
+
+9:40—Wrapping up the conversation
+
+Hopefully, this data will help you understand why our market has managed to stay so strong despite all the chaos in the economy and the world at large. 
+
+As always, if you have any questions about buying or selling homes, or would like to know more about the market, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Did+Our+Market+Defy+Gravity+in+2020_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Did+Our+Market+Defy+Gravity+in+2020_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>How did our market manage to stay afloat during COVID?</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>How did our market manage to stay afloat during COVID?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: How Did COVID Impact Our Market?</title>
+        <link>http://localhost:4000/q-how-did-covid-impact-our-market.html</link>
+        
+          <category>Market Update</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-10-26 15:41:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4</guid>
+        <description>
+
+Here’s how our area market performed over the last six months.
+
+Unsurprisingly, during the time between March and September of this year, the number of home sales dropped by 8.5%. What might surprise you, however, is that prices have actually gone up by 3.2% in that same time frame. That kind of price jump would have been a marker for a very robust and strong market even over a 12-month period.
+
+With the uncertainty that came along with COVID and the resulting shelter-in-place orders, many home sellers put the brakes on their home sales while buyers were still active in the market. That increased competition among buyers in that short period, which is what led to our price increase over the last six months.
+
+Another major factor that we track in the residential market is the interest rates. Rates were already incredibly good in March, hovering around 3.75% at that time, and now they’ve gone down more than a full point. Rates for regular condos, townhomes, and single-family homes are hovering somewhere between 2.5% and 3%. Good rates don’t hurt, but I think the main driving force behind the demand was that people were anxious about getting into their next homes so they could shelter in place.
+
+“Rates were already incredibly good in March, hovering at that time around 3.75%, and now they’ve gone down more than a full point.”
+
+One point of concern that we’re keeping an eye on is the unemployment rate. Obviously, some industries have been hit much harder than others, but this number could have an impact on our market. I’ll discuss that in more detail in my next video.
+
+If you have any questions about today’s topic or anything else to do with real estate, don’t hesitate to reach out to us. We’d love to hear from you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how our area market performed over the last six months.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here’s how our area market performed over the last six months.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: What Should Sellers Keep In Mind When Scheduling Showings?</title>
+        <link>http://localhost:4000/q-what-should-sellers-keep-in-mind-when-scheduling-showings.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-09-21 11:16:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Should+Sellers+Keep+In+Mind+When+Scheduling+Showings_.mp4</guid>
+        <description>
+
+Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.
+
+One of the most important things we talk about with our selling clients is the fact that they need to be flexible when it comes to scheduling showings. That means, when your home goes on the market, you’ll have to set your personal lifestyle aside so that you can make your home always look show-ready.
+
+According to my business partner Laura Jones, the process is usually a bit more work than many sellers realize. Buyers have many things going on in their own lives, as do their agents, such that balancing everyone’s schedule can be difficult. Many buyers end up blocking off a limited four-hour period to go view homes. During this period, Laura can schedule showings of multiple properties in a row, which means that she has to stay right on time.
+
+“That’s why it’s critical for sellers to be flexible with their own schedules; failure to be open could result in losing buyers.”
+
+If a property was unavailable at the requested time (which doesn’t often happen), then the property often falls off the buyer’s radar—they often find the home they want within the first couple of days when they start viewing houses. 
+
+It takes about four or five days for a client of Laura’s to go from being just a lead to actually getting in the car to go out for a showing. During this time, they compile and fine-tune a list of houses the buyer is interested in, and 48 hours before going to a showing, she puts together a schedule of showings for the properties that were narrowed down. That’s why it’s critical for sellers to be flexible with their own schedules; failure to be open could result in losing buyers.
+
+If you have any questions about today’s topic or other real estate-related questions, don’t hesitate to reach out to us. In the meantime, stay tuned to our blog for more tips and tricks for both the buying and selling side of real estate.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Should+Sellers+Keep+In+Mind+When+Scheduling+Showings_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Should+Sellers+Keep+In+Mind+When+Scheduling+Showings_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What Should Sellers Know About a Buyer’s Perspective?</title>
+        <link>http://localhost:4000/what-should-sellers-know-about-a-buyers-perspective.html</link>
+        
+          <category>Home Seller Tips</category>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-08-20 10:49:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+Here’s what sellers should know before listing their home.
+
+Today I’m joined once again by my friend and business partner Laura Jones so she can answer some important home seller questions and offer her best advice. Laura handles the buyer side of our team’s transactions, so she brings a unique perspective that can help you sell quickly and for top dollar if you’re putting your home on the market soon. 
+
+First, what’s the most important thing a seller can do when preparing their home for the market? 
+
+According to Laura, it’s pricing your property according to the market. None of her buyers get excited about the prospect of overpaying for a property they like and going through the uphill battle of negotiating. Testing the market and overpricing your home by $20,000 or $30,000 will never work to your advantage. 
+
+What do buyers think if they assume a property is testing the market in this way?
+
+First of all, Laura tries to find out whether the seller did some extra work to the home that’s not showing up in the photos. In general, though, buyers feel discouraged. They’re comparing the property to several others, and they’re definitely not thinking, “We’ll go ahead and offer $20,000 or $30,000 more for this home than the one down the street.”
+
+“A buyer’s mindset is affected by their reaction to a home’s value package.”
+
+They’re going through a comparative shopping experience and looking at multiple properties in a row, so the reality of this is fresh in their minds. They’ll pretty easily be able to make a strong comparison between Property A and Property B. If one home goes off the market, they turn their attention back to the same pool of listings, and the best ones always sell quickly. Condition, location, and price are the most important factors. 
+
+A buyer’s mindset is affected by their reaction to a home’s value package. Does it have the same features other properties have, and is it priced reasonably for what’s included? When buyers look at homes online, they make all kinds of determinations and value judgments on sellers and their agents in terms of what they have and haven’t done to their listings. You can’t know what they’re looking at specifically; all you can know is who wants to see your home in person. 
+
+Stay tuned for future videos where we’ll dive deeper into what goes on behind the scenes in real estate transactions. If you have questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s what sellers should know before listing their home.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here’s what sellers should know before listing their home.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>“Inside the Mind of a Buyer” With Laura Jones</title>
+        <link>http://localhost:4000/inside-the-mind-of-a-buyer-with-laura-jones.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-07-24 16:28:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4</guid>
+        <description>
+
+
+I’m interviewing buyer specialist Laura Jones to gauge how buyers think.
+
+When buyers hop in the car, buckle up, and get ready to view a home on which they could potentially submit an offer, what’s going through their mind? Generally speaking, what’s their approach? As Carter Property Group Buyer Specialist Laura Jones reminds us, buyers have already narrowed down a location and a budget by that point.
+
+Now, they’re asking these all-important questions: “What is the best thing we can get for the money? What is the best overall value? Which five things are most important to me, and which property delivers on them?”
+
+Once they’ve figured out the geography and budget, the most common criterion for buyers is the general condition of the property—is it a fixer-upper, or is it move-in ready? Other major considerations include bedroom count, outdoor spaces, and storage areas. How a buyer then defines value beyond those common criteria becomes a highly individualized matter. 
+
+“The most common criteria for buyers is the general condition of the property.”
+
+In today’s environment, buyers will often claim that they’re willing to fix up a bathroom if the house is perfect otherwise or that they don’t mind putting in a little work to turn a good home into a great home. While they may genuinely mean that, Laura pointed out that buying behavior doesn’t quite reflect that sentiment: “Once we get out and look, the [property] that goes the quickest, the property that everyone seems to make offers on, is the one that’s in the best condition. One that’s been decluttered, its carpets are clean, and the one that’s likely the most updated.” 
+
+Buyers see a home that’s in great condition as a sort of relief; they won’t have to put as much money into the home. “It might seem like a selfish answer, but buyers are looking for the best home for their budget. They’re not really thinking about who’s on the other side of the transaction and who’s selling the property,” Laura said. 
+
+So there you have it: An inside glimpse into the mindset of the modern buyer. Remember, sellers: If you want a successful home sale, you have to think like a buyer and be willing to take a step back and view your home from their perspective. 
+
+As always, if you have further questions on this or any other real estate topic, please feel free to reach out via phone or email. We look forward to hearing from you!
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: Are Homes Still Selling?</title>
+        <link>http://localhost:4000/q-are-homes-still-selling.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-06-08 15:22:34 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Are+Homes+Still+Selling_.mp4</guid>
+        <description>
+
+Our market has slowed, but you can still buy and sell amid COVID-19.
+
+During this pandemic, I keep getting asked the same questions: How’s the market, and am I still selling homes? When the health crisis hit, we were in a very busy market here in Chicago. We’re now a month into the shelter-in-place order, so naturally, the market has slowed. However, if you’re still considering buying, selling, or investing in real estate, please give me a call, I’d love to speak with you. Homes are still being bought and sold, even during the coronavirus. To hear my full message, watch the short video above.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Are+Homes+Still+Selling_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Are+Homes+Still+Selling_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our market has slowed, but you can still buy and sell amid COVID-19.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Our market has slowed, but you can still buy and sell amid COVID-19.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Are We Doing Business Amid COVID-19?</title>
+        <link>http://localhost:4000/q-how-are-we-doing-business-amid-covid-19.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-05-27 15:47:05 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4</guid>
+        <description>
+
+
+Here’s how we’re still conducting business during the pandemic.
+
+Today I’m answering a couple of questions we keep getting asked during the pandemic. First, yes, we’re still doing business. We’re using photos, virtual videos, and floorplans to view properties. If the house is vacant, I can go to the property and do FaceTime calls with clients so they can see a live tour. 
+
+We’re taking many precautions when doing anything on-site, including wearing gloves and masks, using antiseptic wipes, limiting contact with surfaces, following social distancing guidelines, and reducing the number of people on-site. If you don’t absolutely need to see the home in person, we encourage you not to be there. We’ve used virtual technology for years in the real estate industry because it can reduce friction when doing business, but now we’ve begun using online documentation such as DocuSign. If you’re unfamiliar with it, we can provide a quick demonstration. 
+
+“Even during the health crisis, life is still happening.”
+
+Even during the health crisis, life is still happening. People are having life events like births, job changes, relocations, and more. Plenty of people still need to move. Though there has been a reduction in real estate transactions, we’re still seeing 30% to 35% of our regular volume.
+
+If you have further questions, please give me a call or send an email. I would love to speak with you. 
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here’s how we’re still conducting business during the pandemic.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here’s how we’re still conducting business during the pandemic.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: Want to Buy a Home Amid COVID-19?</title>
+        <link>http://localhost:4000/q-want-to-buy-a-home-amid-covid-19.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-05-22 16:09:00 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4</guid>
+        <description>
+
+Here are the three steps you should take to buy a home during COVID-19.
+
+This question is on many people’s minds right now: “I want to buy a home, but how can I do it during a pandemic?” I’m sharing three easy steps you can take to get this done in 2020. 
+
+1. Get pre-approved. No matter when you’re buying, this is a crucial first step. You need to know what your budget and parameters are. Lending guidelines have changed a bit during the health crisis, so your pre-approval must be up to date. This also gives you the upper hand when submitting offers. 
+
+“You need to know what your budget and parameters are.”
+
+2. Virtually connect to discuss your goals. Your real estate agent needs to know the locations you’re considering, the type of property you want, and must-haves.
+
+3.Make a list. Your agent will help you create a list of active properties that match your criteria and budget. This can be done easily; online you can view virtual and 3D tours before seeing the home in person. Then we can visit properties with social distancing and other safety measures. 
+
+If you or anyone you know has questions about buying in 2020 or real estate in general, reach out via phone or email. We would love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the three steps you should take to buy a home during COVID-19.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Here are the three steps you should take to buy a home during COVID-19.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Q: What Do You Need to Do to Sell Your Home in This Market?</title>
+        <link>http://localhost:4000/q-what-do-you-need-to-do-to-sell-your-home-in-this-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-05-13 12:31:03 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Do+You+Need+to+Do+to+Sell+Your+Home+in+This+Market_.mp4</guid>
+        <description>
+
+If you still need to sell your house during the pandemic, what do you need to do?
+
+For those who still need to sell their house during COVID-19, here are the steps that you’ll need to take in order to keep your transaction on schedule:
+
+1. Set up a virtual walk-through of the property. We can do that via Zoom, FaceTime, or similar apps to give your buyers a better sense of the space, layout, and condition of your property.
+
+2. Schedule a follow-up appointment. This can also be done over Zoom, which would allow us to share our screen and market data with you so we can come to a decision about pricing, strategy, and marketing that we need to use, as well as any updates or tweaks that need to be done to the property.
+
+3. Put together a plan regarding your timing. We know that the market will eventually bounce back, but we don’t know exactly when shelter-in-place orders will be lifted. My advice is to keep your plan on schedule; we can adjust the time frame a lot easier than we can get your home ready to go if we haven’t already been planning. As we learn more about the status of the situation, we’ll be able to adjust our timing as necessary.
+
+If you have questions or need any assistance with your real estate needs, don’t hesitate to reach out to us. We’d love to help you.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Do+You+Need+to+Do+to+Sell+Your+Home+in+This+Market_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Do+You+Need+to+Do+to+Sell+Your+Home+in+This+Market_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>If you still need to sell your house during the pandemic, what do you need to do?</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>If you still need to sell your house during the pandemic, what do you need to do?</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Has the Shelter-in-Place Ordinance Affected Our Market?</title>
+        <link>http://localhost:4000/how-has-the-shelter-in-place-ordinance-affected-our-market.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-04-27 10:16:22 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Has+the+Shelter-in-Place+Ordinance+Affected+Our+Market_.mp4</guid>
+        <description>
+
+Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.
+
+To get a true sense of the impact the COVID-19 pandemic has had on our market, I’ll compare year-over-year numbers from when the shelter-in-place ordinance went into effect, March 21, all the way up through April 18. 
+
+The property categories we track for these statistics are single-family homes, attached housing (condos and townhomes), and multi-unit properties. Across the board, these properties are contracting between 31% and 36% of expected volume. That’s a pretty strong indication that demand is still there and our market can get past this. Everyone’s doing their part to flatten the curve and not put others at risk, and despite what some may think, the market’s moving forward at a decent clip. 
+
+How are prices being affected? In the condo market, the median asking price is virtually unchanged compared to last year, although this may change as more contracts reach the closing table. There’s been some downward pressure on the single-family market, but that began before the shelter-in-place ordinance was passed. 
+
+“Despite what some may think, the market’s moving forward at a decent clip.”
+
+Multi-unit properties have been a hot commodity because there are less of them and they have income-generating potential, and although they’ve faced some downward pressure due to reduced demand, this market is trending at about the same rate as the others. 
+
+If you have questions about our market or are thinking of buying or selling a home soon, please let us know. We’re open for business virtually, and we can help you accomplish all of your real estate goals while keeping you and your family safe.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Has+the+Shelter-in-Place+Ordinance+Affected+Our+Market_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Has+the+Shelter-in-Place+Ordinance+Affected+Our+Market_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How My New Company Can Help You Sell for More Money</title>
+        <link>http://localhost:4000/how-my-new-company-can-help-you-sell-for-more-money.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-03-23 15:29:48 -0500</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+My+New+Company+Can+Help+You+Sell+for+More+Money.mp4</guid>
+        <description>
+
+I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.
+
+I have an exciting announcement to share today, but first I have a question: Do you have any projects around the house that you need to do, such as bedroom painting, floor sanding, or updating countertops? If so, I can help.
+
+About 18 months ago, I started a second company called Listing Ready that was born out of the experience of seeing clients’ properties and the list of things we needed to do to get them ready for the market. My partner Mike and I had partnered together in the past and had great success, so we decided to finally make it official with Listing Ready.
+
+“Listing Ready is here to help make home sellers more money on their sales.”
+
+In nearly every house, we’ve found  there are a lot of projects on nearly every house that need to be completed in order to help the home sell for top dollar. With Listing Ready, we can help you with a wide range of general contractor service, with a focus on the high-impact areas that give you the biggest bang for your buck. 
+
+If you have a project that needs to be done around the house, even if you don’t plan on selling anytime soon, reach out and give us a call and we’d be happy to help.
+
+If you have any other questions for me, feel free to reach out via phone or email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+My+New+Company+Can+Help+You+Sell+for+More+Money.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+My+New+Company+Can+Help+You+Sell+for+More+Money.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Market Recap for 2019 and Preview for 2020</title>
+        <link>http://localhost:4000/market-recap-for-2019-and-preview-for-2020.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>The Carter Group Chicago</author>
+        <pubDate>2020-02-03 14:54:00 -0600</pubDate>
+        <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Market+Recap+for+2019+and+Preview+for+2020.mp4</guid>
+        <description>
+
+Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.
+
+I’ve got a quick market recap for you today on what we saw in the real estate world in 2019 and what we can expect in 2020.
+
+We finished the year positively in Chicago. The median sales price was up by 1.7%, and a positive number here is always good. Another interesting stat is the total number of closed units. We’ve seen a gradual decline in the last few years, and while it hasn’t had a big impact on price yet, it could down the road.
+
+“2019 ended as a strong, stable market.”
+
+The other important data point we track is the inventory. We’ve seen it remain stable, but our level of inventory still technically has us in a seller’s market. As we slow down a bit, things have become a bit better for buyers, especially with the low interest rates we’ve had for the last few years.
+
+Overall, 2019 ended as a strong, stable market. As we look forward to 2020, the data indicates that we should see more of the same. The market won’t be too strong in either direction and should remain pretty balanced. There’s no reason to hold back if the time is right for you to buy or sell a home.
+
+If you have any other questions for us, feel free to give us a call or send us an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Market+Recap+for+2019+and+Preview+for+2020.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Market+Recap+for+2019+and+Preview+for+2020.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</itunes:subtitle>
+        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:summary>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>All About Trapped Equity</title>
-        <link>https://cartergroupblog.com/all-about-trapped-equity.html</link>
+        <link>http://localhost:4000/all-about-trapped-equity.html</link>
         
           <category>Real Estate</category>
         
@@ -48,7 +587,7 @@ In short, having trapped equity in a property isn’t a bad thing, but it defini
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What is trapped equity and why might it be holding you back? Let’s discuss.</itunes:subtitle>
@@ -59,7 +598,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>We Can Help You With Your Real Estate Investment Goals</title>
-        <link>https://cartergroupblog.com/we-can-help-you-with-your-real-estate-investment-goals.html</link>
+        <link>http://localhost:4000/we-can-help-you-with-your-real-estate-investment-goals.html</link>
         
           <category>Real Estate</category>
         
@@ -77,7 +616,7 @@ In fact, we have a property available right now we haven’t found a buyer for, 
  
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/We+Can+Help+You+With+Your+Real+Estate+Investment+Goals.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/We+Can+Help+You+With+Your+Real+Estate+Investment+Goals.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re looking to invest in real estate, we can help you.</itunes:subtitle>
@@ -88,7 +627,7 @@ In fact, we have a property available right now we haven’t found a buyer for, 
       
       <item>
         <title>Why Won’t a Buyer Make an Offer on Your Home?</title>
-        <link>https://cartergroupblog.com/why-wont-a-buyer-make-an-offer-on-your-home.html</link>
+        <link>http://localhost:4000/why-wont-a-buyer-make-an-offer-on-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -114,7 +653,7 @@ We want to avoid these types of scenarios if we can help it, and a major part of
 If you or someone you know would like help in the buying, selling, or investing process, please let us know. My team and I would be happy to help!  
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Wont+a+Buyer+Make+an+Offer+on+Your+Home_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Wont+a+Buyer+Make+an+Offer+on+Your+Home_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If your home is overpriced and you’re wondering why buyers won’t even pitch you a lowball offer, pay attention to today’s video.</itunes:subtitle>
@@ -125,7 +664,7 @@ If you or someone you know would like help in the buying, selling, or investing 
       
       <item>
         <title>Is Your Condo Building Helping or Hurting You?</title>
-        <link>https://cartergroupblog.com/is-your-condo-building-helping-or-hurting-you.html</link>
+        <link>http://localhost:4000/is-your-condo-building-helping-or-hurting-you.html</link>
         
           <category>Real Estate</category>
         
@@ -153,7 +692,7 @@ My advice is to be involved and do your due diligence along the way to ensure so
 If you have any questions or if you plan to sell your condo sometime in the future and you’d like some help determining what you should be spending your time and money on, please reach out to the Carter Property Group. We’d be happy to counsel you in that effort, and we look forward to hearing from you! 
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Is+Your+Condo+Building+Helping+or+Hurting+You_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Is+Your+Condo+Building+Helping+or+Hurting+You_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As a condo owner, certain factors can make or break your home sale—factors unrelated to your actual unit.</itunes:subtitle>
@@ -164,7 +703,7 @@ If you have any questions or if you plan to sell your condo sometime in the futu
       
       <item>
         <title>The Latest Data on Our Chicago Housing Market</title>
-        <link>https://cartergroupblog.com/the-latest-data-on-our-chicago-housing-market.html</link>
+        <link>http://localhost:4000/the-latest-data-on-our-chicago-housing-market.html</link>
         
           <category>Market Update</category>
         
@@ -204,7 +743,7 @@ Feel free to follow along in the video above or use the timestamps below to navi
 If you have any questions about what we covered today or about anything else real estate-related, please don’t hesitate to let us know. We’d look forward to hearing from you!  
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’ll look at some recent data from the end of August having to do with our Chicago market.</itunes:subtitle>
@@ -215,7 +754,7 @@ If you have any questions about what we covered today or about anything else rea
       
       <item>
         <title>Does Home Staging Work?</title>
-        <link>https://cartergroupblog.com/does-home-staging-work.html</link>
+        <link>http://localhost:4000/does-home-staging-work.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -239,7 +778,7 @@ In an ideal world, your property should be cleaned, painted, and staged. The sta
 If you have any questions about selling a home or real estate in general, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon. 
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Does+Home+Staging+Work_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Does+Home+Staging+Work_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Preparing your home properly is essential in having a successful home sale. Here’s why.</itunes:subtitle>
@@ -250,7 +789,7 @@ If you have any questions about selling a home or real estate in general, don’
       
       <item>
         <title>Are Fixer-Uppers Hot or Not?</title>
-        <link>https://cartergroupblog.com/are-fixer-uppers-hot-or-not.html</link>
+        <link>http://localhost:4000/are-fixer-uppers-hot-or-not.html</link>
         
           <category>Real Estate</category>
         
@@ -274,7 +813,7 @@ I can’t emphasize enough how important it is for you, as a seller, to get your
 Simply put, as a seller, you want to extract the most value out of your home sale, so we need to make a concerted effort to ensure your home is in turnkey shape. For any questions related to real estate or if you or someone you know would like to make a move, please let us know today. We’d be happy to help!       
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Are fixer-upper properties still a highly sought-after item in today’s market? I’ll answer that question in today’s video.</itunes:subtitle>
@@ -285,7 +824,7 @@ Simply put, as a seller, you want to extract the most value out of your home sal
       
       <item>
         <title>When Is the Best Time to Sell</title>
-        <link>https://cartergroupblog.com/when-is-the-best-time-to-sell.html</link>
+        <link>http://localhost:4000/when-is-the-best-time-to-sell.html</link>
         
           <category>Real Estate</category>
         
@@ -297,7 +836,7 @@ Simply put, as a seller, you want to extract the most value out of your home sal
 Sellers often ask me when the best time to sell their home is in today’s market. The answer actually depends on one key thing: you. Ask yourself—are you ready to put in the time, money, and energy that’s necessary to prep your home for sale? In today’s competitive market, your home needs to look and feel perfect from the moment a buyer steps foot inside. So the best time to list is actually whenever your home is ready to show. If you have any other questions or would like more information, feel free to give us a call or send us an email.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+When+is+the+Best+Time+to+Sell_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+When+is+the+Best+Time+to+Sell_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Watch: When should you really put your home on the market?</itunes:subtitle>
@@ -308,7 +847,7 @@ Sellers often ask me when the best time to sell their home is in today’s marke
       
       <item>
         <title>Did You Miss Your Chance to Sell Your Home for Top Dollar?</title>
-        <link>https://cartergroupblog.com/did-you-miss-your-chance-to-sell-your-home-for-top-dollar.html</link>
+        <link>http://localhost:4000/did-you-miss-your-chance-to-sell-your-home-for-top-dollar.html</link>
         
           <category>Real Estate</category>
         
@@ -332,7 +871,7 @@ Shortening your time frame to a comfortable point gives us a chance to predict w
 If you or someone you know would like an evaluation of a property or you’re thinking about making a real estate move, don’t hesitate to let us know. We look forward to speaking with you!
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Is+Spring+a+Good+Time+to+Sell_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Is+Spring+a+Good+Time+to+Sell_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The spring market is often viewed by home sellers as the “right” time to take action. In reality, realizing a successful home sale has less to do with the season and more to do with the time that you’re ready, willing, and able to sell. Not to mention that waiting for another year for spring to roll around is a risk that isn’t worth running.</itunes:subtitle>
@@ -343,7 +882,7 @@ If you or someone you know would like an evaluation of a property or you’re th
       
       <item>
         <title>Recapping the U.S.’s 2018 Real Estate Market</title>
-        <link>https://cartergroupblog.com/recapping-the-u-s-s-2018-real-estate-market.html</link>
+        <link>http://localhost:4000/recapping-the-u-s-s-2018-real-estate-market.html</link>
         
           <category>Real Estate</category>
         
@@ -410,7 +949,7 @@ As for those looking to buy in 2019, we aren’t going to see homes flying off t
 If you’re interested in a conversation around what your options might be in any aspect of residential real estate, please give us a call. We look forward to having that conversation with you!
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Recapping+the+U.S.s+2018+Real+Estate+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Recapping+the+U.S.s+2018+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The numbers from 2018’s national real estate market are in—how did the market perform, on the whole? Find out in today’s recap.</itunes:subtitle>
@@ -421,7 +960,7 @@ If you’re interested in a conversation around what your options might be in an
       
       <item>
         <title>Happy Holidays</title>
-        <link>https://cartergroupblog.com/happy-holidays.html</link>
+        <link>http://localhost:4000/happy-holidays.html</link>
         
           <category>Real Estate</category>
         
@@ -453,7 +992,7 @@ Winter Wonderfest at Navy Pier - Now through January 6th, 2019
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon. Happy Holidays!
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+We+Hope+You+Have+a+Happy+Holiday+Season.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+We+Hope+You+Have+a+Happy+Holiday+Season.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The year is almost over and the holidays are upon us. From all of us at the Carter Property Group: Happy Holidays!</itunes:subtitle>
@@ -464,7 +1003,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Take Exterior Home Photos Now Before Winter Arrives</title>
-        <link>https://cartergroupblog.com/take-exterior-home-photos-now-before-winter-arrives.html</link>
+        <link>http://localhost:4000/take-exterior-home-photos-now-before-winter-arrives.html</link>
         
           <category>Real Estate</category>
         
@@ -484,7 +1023,7 @@ To help you make this great first impression, we will come and take professional
 If you’d like to take advantage of this offer, have any questions, or would like some more information, please feel free to contact me. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Take+Exterior+Home+Photos+Now+Before+Winter+Arrives.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Take+Exterior+Home+Photos+Now+Before+Winter+Arrives.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Your home doesn’t look like itself covered in snow. Listen and learn why you should get your exterior photos taken now.</itunes:subtitle>
@@ -495,7 +1034,7 @@ If you’d like to take advantage of this offer, have any questions, or would li
       
       <item>
         <title>Do You Have What It Takes to Join Our Growing Team?</title>
-        <link>https://cartergroupblog.com/do-you-have-what-it-takes-to-join-our-growing-team.html</link>
+        <link>http://localhost:4000/do-you-have-what-it-takes-to-join-our-growing-team.html</link>
         
           <category>Real Estate</category>
         
@@ -515,7 +1054,7 @@ This opportunity has a lot of upside potential to take on more responsibility an
 
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Do+You+Have+What+It+Takes+to+Join+Our+Growing+Team_.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Do+You+Have+What+It+Takes+to+Join+Our+Growing+Team_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our team is growing, and we’re looking to add a key member to help us continue to grow. Here’s what we’re looking for.</itunes:subtitle>
@@ -526,7 +1065,7 @@ This opportunity has a lot of upside potential to take on more responsibility an
       
       <item>
         <title>The Book That Will Help You Reach Your Real Estate Investing Goals</title>
-        <link>https://cartergroupblog.com/the-book-that-will-help-you-reach-your-real-estate-investing-goals.html</link>
+        <link>http://localhost:4000/the-book-that-will-help-you-reach-your-real-estate-investing-goals.html</link>
         
           <category>Real Estate</category>
         
@@ -564,7 +1103,7 @@ If you have any other questions about this offer or there’s anything else we c
 If you’re interested in receiving a copy, click on this link, share your information with us, and we’d be glad to give one to you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Get+a+Free+Copy+of+The+Millionaire+Real+Estate+Investor.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Get+a+Free+Copy+of+The+Millionaire+Real+Estate+Investor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here at the Carter Property Group, our mission is to create generational wealth through real estate and assist our clients with achieving their goals.</itunes:subtitle>
@@ -575,7 +1114,7 @@ If you’re interested in receiving a copy, click on this link, share your infor
       
       <item>
         <title>A Market Shift Is on the Way</title>
-        <link>https://cartergroupblog.com/a-market-shift-is-on-the-way.html</link>
+        <link>http://localhost:4000/a-market-shift-is-on-the-way.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -603,7 +1142,7 @@ My team and I watch market statistics on a weekly basis, so we have clear eviden
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+A+Market+Shift+Is+on+the+Way.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+A+Market+Shift+Is+on+the+Way.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Right now, changes are coming to our local real estate market. Today I’d like to bring you the latest update on this upcoming shift.</itunes:subtitle>
@@ -614,7 +1153,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>The Top 3 Mistakes Home Sellers Make</title>
-        <link>https://cartergroupblog.com/the-top-3-mistakes-home-sellers-make.html</link>
+        <link>http://localhost:4000/the-top-3-mistakes-home-sellers-make.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -638,7 +1177,7 @@ Those are the three most important things you should keep in mind when preparing
 If you are thinking of selling your home and would like to know what your home is worth in the current market, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+3+Biggest+Seller+Mistakes.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+3+Biggest+Seller+Mistakes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to set your property up for a successful home sale, you need to avoid these top three seller mistakes.</itunes:subtitle>
@@ -649,7 +1188,7 @@ If you are thinking of selling your home and would like to know what your home i
       
       <item>
         <title>What’s Happening With Interest Rates?</title>
-        <link>https://cartergroupblog.com/whats-happening-with-interest-rates.html</link>
+        <link>http://localhost:4000/whats-happening-with-interest-rates.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -675,7 +1214,7 @@ That said, the real estate market in Chicago is still very strong. This is a fai
 It looks like rates will continue to increase over the course of 2018. If you have any questions about how rising interest rates will impact your 2018 real estate goals, just give me a call or send me an email. I would be happy to help you!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Whats+Happening+With+Interest+Rates%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Whats+Happening+With+Interest+Rates%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How do rising interest rates impact homebuyers and sellers in the Chicago area? I’ll explain today.</itunes:subtitle>
@@ -686,7 +1225,7 @@ It looks like rates will continue to increase over the course of 2018. If you ha
       
       <item>
         <title>What Is a Buyer’s Agent?</title>
-        <link>https://cartergroupblog.com/what-is-a-buyers-agent.html</link>
+        <link>http://localhost:4000/what-is-a-buyers-agent.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -716,7 +1255,7 @@ Helping someone get into their new home is pretty powerful. I love it.
 If you have any questions about property, taxes, or anything real estate-related, give us a call. We’re always happy to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/What+Is+a+Buyers+Agent%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/What+Is+a+Buyers+Agent%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Meet Laura Jones, our buyer’s agent, and find out what she does, why it’s important to clients, and why it’s important to her.</itunes:subtitle>
@@ -727,7 +1266,7 @@ If you have any questions about property, taxes, or anything real estate-related
       
       <item>
         <title>Gaining a New Perspective on the Home Buying Process: Part Two</title>
-        <link>https://cartergroupblog.com/gaining-a-new-perspective-on-the-home-buying-process-part-two.html</link>
+        <link>http://localhost:4000/gaining-a-new-perspective-on-the-home-buying-process-part-two.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -753,7 +1292,7 @@ What we’ve seen for a long time, and what partially explains this feeling if y
 We’ll keep you posted on the next steps of this transaction and relay some more first-hand knowledge on the subject. In the meantime, if you have any questions or are looking to buy or sell a home, don’t hesitate to reach out to us. We’d love to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:subtitle>
@@ -764,7 +1303,7 @@ We’ll keep you posted on the next steps of this transaction and relay some mor
       
       <item>
         <title>Gaining a New Perspective on the Home Buying Process: Part One</title>
-        <link>https://cartergroupblog.com/gaining-a-new-perspective-on-the-home-buying-process-part-one.html</link>
+        <link>http://localhost:4000/gaining-a-new-perspective-on-the-home-buying-process-part-one.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -792,7 +1331,7 @@ The amount of documentation buyers have to provide to their lenders has stood ou
 In the next part, we’ll discuss what happens during the home inspection. To watch the second video in this series, click here. In the meantime, if you have any questions or are looking to buy or sell a home, don’t hesitate to reach out to us. We’d love to help.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:subtitle>
@@ -803,7 +1342,7 @@ In the next part, we’ll discuss what happens during the home inspection. To wa
       
       <item>
         <title>Investing in Short Term Rental Properties: Part Two</title>
-        <link>https://cartergroupblog.com/investing-in-short-term-rental-properties-part-two.html</link>
+        <link>http://localhost:4000/investing-in-short-term-rental-properties-part-two.html</link>
         
           <category>Real Estate</category>
         
@@ -829,7 +1368,7 @@ It’s also critical to have a good team in place. Rees had a great real estate 
 We want to thank Rees for joining us today to help us explore the topic of short-term rentals. If you have any more questions about investing in short-term rentals, don’t hesitate to reach out to us. We’d be happy to help you.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Part+Two-+How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Part+Two-+How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Welcome to Part Two of our series on investing in short-term rentals, or, more specifically, Airbnb properties. Joining me again is Rees, a client of ours who has recently used short-term rentals in her investing strategy.</itunes:subtitle>
@@ -840,7 +1379,7 @@ We want to thank Rees for joining us today to help us explore the topic of short
       
       <item>
         <title>Investing in Short Term Rental Properties: Part One</title>
-        <link>https://cartergroupblog.com/investing-in-short-term-rental-properties-part-one.html</link>
+        <link>http://localhost:4000/investing-in-short-term-rental-properties-part-one.html</link>
         
           <category>Real Estate</category>
         
@@ -870,7 +1409,7 @@ We want to thank Rees for joining us today to help us explore the topic of short
 If you have any more questions about investing in short-term rentals, don’t hesitate to reach out to us. We’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’re coming at you with a two-part series, where we take a much deeper dive into the topic of short-term rentals.</itunes:subtitle>
@@ -881,7 +1420,7 @@ If you have any more questions about investing in short-term rentals, don’t he
       
       <item>
         <title>The Carter Property Group's Pumpkin Giveaway!</title>
-        <link>https://cartergroupblog.com/pumpkin-giveaway.html</link>
+        <link>http://localhost:4000/pumpkin-giveaway.html</link>
         
           <category>Real Estate</category>
         
@@ -905,7 +1444,7 @@ For pumpkin carving ideas, check out our Pinterest board: https://www.pinterest
 If you have any questions, don’t hesitate to reach out to us. We’d be glad to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Oct+1.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Oct+1.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The Carter Property Group is holding a pumpkin giveaway this year. We’re going to have two pickup locations—one in the city, and one in the suburbs.</itunes:subtitle>
@@ -916,7 +1455,7 @@ If you have any questions, don’t hesitate to reach out to us. We’d be glad t
       
       <item>
         <title>Helping Those Impacted by Harvey</title>
-        <link>https://cartergroupblog.com/helping-those-impacted-by-harvey.html</link>
+        <link>http://localhost:4000/helping-those-impacted-by-harvey.html</link>
         
           <category>Real Estate</category>
         
@@ -938,7 +1477,7 @@ For more information on how you can give back, visit https://www.reliefnow.info/
 In the meantime, if you have any questions, don’t hesitate to give us a call or shoot us an email. We’d be happy to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashely+Carter.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashely+Carter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When Hurricane Harvey made landfall in Houston, it brought with it over two feet of rain and left in its wake tens of thousands of displaced people and hundreds of thousands more without power. I recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey.</itunes:subtitle>
@@ -949,7 +1488,7 @@ In the meantime, if you have any questions, don’t hesitate to give us a call o
       
       <item>
         <title>What Does It Take to Manage a Short-Term Rental Property?</title>
-        <link>https://cartergroupblog.com/what-does-it-take-to-manage-a-short-term-rental-property.html</link>
+        <link>http://localhost:4000/what-does-it-take-to-manage-a-short-term-rental-property.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -979,7 +1518,7 @@ There are now companies that specialize in the turnover process. They’ll chang
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%20Does%20It%20Take%20to%20Manage%20a%20Short-Term%20Rental%20Property%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%20Does%20It%20Take%20to%20Manage%20a%20Short-Term%20Rental%20Property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Short-term rentals have been revolutionizing the market. Today, I wanted to share some information about these kinds of rentals.</itunes:subtitle>
@@ -990,7 +1529,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Meet Our Listing Manager</title>
-        <link>https://cartergroupblog.com/meet-our-listing-manager.html</link>
+        <link>http://localhost:4000/meet-our-listing-manager.html</link>
         
           <category>Real Estate</category>
         
@@ -1016,7 +1555,7 @@ As for a few fun facts about Shannon: “I like to bike a lot. I’ve really got
 If you have any questions for Shannon or anyone else in the Carter Property Group, give us a call or send us an email. We would be happy to help you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Meet%20Our%20Listing%20Manager.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Meet%20Our%20Listing%20Manager.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Meet our fantastic listing manager, Shannon Kelly.</itunes:subtitle>
@@ -1027,7 +1566,7 @@ If you have any questions for Shannon or anyone else in the Carter Property Grou
       
       <item>
         <title>Don't Miss This Great Event</title>
-        <link>https://cartergroupblog.com/dont-miss-this-great-event.html</link>
+        <link>http://localhost:4000/dont-miss-this-great-event.html</link>
         
           <category>Real Estate</category>
         
@@ -1053,7 +1592,7 @@ This is a great chance to have fun, have some food and drinks, and learn about t
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Don't+Miss+This+Great+Event.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Don't+Miss+This+Great+Event.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learning about buying a home just got more fun. Our upcoming event is going to be a great time with food, drinks, and valuable information about the homebuying process.</itunes:subtitle>
@@ -1064,7 +1603,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>How the Carter Property Group Is Different</title>
-        <link>https://cartergroupblog.com/how-the-carter-property-group-is-different.html</link>
+        <link>http://localhost:4000/how-the-carter-property-group-is-different.html</link>
         
           <category>Real Estate</category>
         
@@ -1092,7 +1631,7 @@ There’s a high level of customer service, communication, and organization here
 So if you’re interested in working with us or have any other questions, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As a real estate professional working with Carter Property Group, my job is to ensure that communication is clear all the way through closing.</itunes:subtitle>
@@ -1103,7 +1642,7 @@ So if you’re interested in working with us or have any other questions, feel f
       
       <item>
         <title>Why It's Smarter to Buy Than Rent in Chicagoland</title>
-        <link>https://cartergroupblog.com/why-its-smarter-to-buy-than-rent-in-chicagoland.html</link>
+        <link>http://localhost:4000/why-its-smarter-to-buy-than-rent-in-chicagoland.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -1123,7 +1662,7 @@ Rental rates here in the Chicagoland market have been high and increasing over t
 If you or anyone you know wants to talk about the costs of buying a home and how it compares to renting, give us a call or send us an email. We’d love to sit down with you soon!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/When%20It%2527s%20Smarter%20to%20Buy%20Than%20Rent%20in%20Chicagoland.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/When%20It%2527s%20Smarter%20to%20Buy%20Than%20Rent%20in%20Chicagoland.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>With rental rates rising steadily over the last five years and housing affordability so strong, we've reached a point where buying a home could actually be cheaper than renting.</itunes:subtitle>
@@ -1134,7 +1673,7 @@ If you or anyone you know wants to talk about the costs of buying a home and how
       
       <item>
         <title>What’s Happening in Our Market?</title>
-        <link>https://cartergroupblog.com/whats-happening-in-our-market.html</link>
+        <link>http://localhost:4000/whats-happening-in-our-market.html</link>
         
           <category>Market Update</category>
         
@@ -1158,7 +1697,7 @@ There are four main statistical numbers that we track to understand what the mar
 If you or anyone you know is looking to buy, sell, or invest in real estate, please feel free to give me a call or send me an email. I’m happy to help and look forward to hearing from you!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Whats%20Happening%20in%20Our%20Market%253F%20%281%29.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Whats%20Happening%20in%20Our%20Market%253F%20%281%29.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I’m going over some important numbers to give you an idea of what’s happening in our market.</itunes:subtitle>
@@ -1169,7 +1708,7 @@ If you or anyone you know is looking to buy, sell, or invest in real estate, ple
       
       <item>
         <title>Things to Tackle If You're Updating</title>
-        <link>https://cartergroupblog.com/things-to-tackle-if-youre-updating.html</link>
+        <link>http://localhost:4000/things-to-tackle-if-youre-updating.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -1197,7 +1736,7 @@ One of the things my team and I have successfully done over the years is help na
 If anyone you know is looking to buy, sell, or invest in real estate or you have any other questions, please feel free to reach out to me. I’m happy to help!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Mar%201%20%281%29.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Mar%201%20%281%29.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re looking to sell your home, what are some great updates you can make before you go on the market? Today I’ll go over what areas you should focus on to ensure the best return.</itunes:subtitle>
@@ -1208,7 +1747,7 @@ If anyone you know is looking to buy, sell, or invest in real estate or you have
       
       <item>
         <title>Breaking News: Interest Rates to Increase</title>
-        <link>https://cartergroupblog.com/breaking-news-interest-rates-to-increase.html</link>
+        <link>http://localhost:4000/breaking-news-interest-rates-to-increase.html</link>
         
           <category>Market Update</category>
         
@@ -1230,7 +1769,7 @@ If you’re looking to make a move later this year or early next year, you shoul
 If you have any questions for us or you are interested in buying, selling, or investing in real estate, give us a call or send us an email. We look forward to hearing from you.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The Federal Reserve has just increased their interest rates. Here’s what it means for buyers and sellers in Chicagoland.</itunes:subtitle>
@@ -1241,7 +1780,7 @@ If you have any questions for us or you are interested in buying, selling, or in
       
       <item>
         <title>Which Home Improvements Give You the Best Return?</title>
-        <link>https://cartergroupblog.com/3-investments-to-make-before-you-list-your-house.html</link>
+        <link>http://localhost:4000/3-investments-to-make-before-you-list-your-house.html</link>
         
         <author>The Carter Group Chicago</author>
         <pubDate>2017-02-15 00:00:00 -0600</pubDate>
@@ -1263,7 +1802,7 @@ Finally, consider investing in some new lighting fixtures. If a room or space is
 Investing in those three things will not only give your home a fantastic, fresh feeling, but will almost always guarantee a great return. If you or anyone you know is looking to buy, sell, or invest in real estate, please don’t hesitate to give me a call or send me an email. I would be happy to help!
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/3%20Investments%20to%20Make%20Before%20You%20List%20Your%20House.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/3%20Investments%20to%20Make%20Before%20You%20List%20Your%20House.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Making these three investments will make your home shine on the market and almost always offer a great return.</itunes:subtitle>
@@ -1274,7 +1813,7 @@ Investing in those three things will not only give your home a fantastic, fresh 
       
       <item>
         <title>What's Going On In Our Real Estate Market?</title>
-        <link>https://cartergroupblog.com/whats-going-on-in-our-real-estate-market.html</link>
+        <link>http://localhost:4000/whats-going-on-in-our-real-estate-market.html</link>
         
           <category>Market Update</category>
         
@@ -1300,7 +1839,7 @@ Have you been considering getting into the real estate investment market here in
 If you have any questions about the Chicago market or you’re thinking about selling your house or buying an investment property, don’t hesitate to give me a call or send me an email with any questions at all. I’d be happy to help.
 </description>
         <enclosure url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20Going%20On%20In%20Our%20Real%20Estate%20Market%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="https://cartergroupblog.com" height="72" width="72"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20Going%20On%20In%20Our%20Real%20Estate%20Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What's going on in the Chicago market? To get an idea of where the market is heading, let's take a look back today at the 2016 and 2015 markets.</itunes:subtitle>

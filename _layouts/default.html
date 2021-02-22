@@ -4,9 +4,6 @@
 {% include head.html %}
 
 	<body>
-		{% if site.data.settings.audit_header == true %}
-			{% include audit.html %}
-		{% endif %}
 		{% include header.html %}
 		<div class="container-fluid">
 			<div class="row">
@@ -21,9 +18,8 @@
 					{% include search-box.html %}
 				</div>
 			</div>
-
 			<div class="row">
-				<div class="col-lg-5 col-md-7 col-lg-offset-2">
+				<div class="col-lg-7 col-md-7 col-lg-offset-1">
 					{{ content }}
 				</div>
 
@@ -38,12 +34,11 @@
 				</div>
 			</div>
 
-			{% include pagination.html %}
 			</div>
+			{% include pagination.html %}
 			{% include about.html %}
 			{% include testimonials.html %}
 			{% include bottom-navigation.html %}
 			{% include footer.html %}
-			{% include lightbox.html %}
   </body>
 </html>
