@@ -24,7 +24,8 @@ consistently updated)
 <br>
 • Free, discounted or early access tickets to all of Jennie's trainings 
 and/or events (including, but not limited to; Customer Experience, The Six Personal Perspectives, Quantum Leap, Build a Big Business AND Have a Life) 
-Access to one 15 minute call with Jennie per month 
+<br>
+• Access to one 15 minute call with Jennie per month 
 <br>
 • Exclusive, closed Facebook group for current IMB students and 
 Momentumers 
