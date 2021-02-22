@@ -11,7 +11,7 @@ pullquote: 'With so few homes available, competition is hot among buyers.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/02-18-canale-youtube.jpg
+youtube_alternate_image: /uploads/02-18-canale-youtube-1.jpg
 youtube_code: VN5BHR4WHcc
 ---
 
