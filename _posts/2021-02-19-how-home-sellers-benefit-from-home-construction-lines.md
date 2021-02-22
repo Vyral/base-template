@@ -23,10 +23,10 @@ youtube_code: k35RJjl2p-s
 
 We talked to one builder who released a bunch of homes recently and sold them within minutes. There's such a demand for homes in our area that builders can’t build fast enough and buyers are trying to buy earlier and earlier in the process.
 
-**From a seller’s perspective, this is a perfect opportunity**. If you wanted to make a change, downsize, or just sell and move somewhere else, now’s the time to do so. The market needs an inventory ,and buyers are willing to pay a premium for the right home.
+**From a seller’s perspective, this is a perfect opportunity**. If you wanted to make a change, downsize, or just sell and move somewhere else, now’s the time to do so. The market needs an inventory, and buyers are willing to pay a premium for the right home.
 
 {% include pullquote.html %}
 
-On the flip side, interest rates are low if you are thinking about buying yourself. If you can sell now and wait a bit to see if more inventory comes on the market, that might lead to a perfect storm of selling high and buying low. You can also capitalize on the market now with those historically low interest rates.
+On the flip side, interest rates are low if you are thinking about buying. If you can sell now and wait a bit to see if more inventory comes on the market, that might lead to a perfect combination of selling high and buying low. You can also capitalize on the market now with those historically low interest rates.
 
-If you have any questions about what’s going on in the market or your own personal situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about what’s going on in the market or your own situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
