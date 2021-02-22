@@ -10,8 +10,8 @@ enclosure:
 pullquote: You can capitalize on the market now with low inventory and interest rates.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/02-08-cedillo-youtube.jpg
 youtube_code: k35RJjl2p-s
 ---
 
