@@ -31,7 +31,7 @@ youtube_code: PGzCuZEm5-Q
 
 **4\. Don’t reduce your work hours or take unpaid time off**. Since that will impact your income, it can cause a big problem for a lender during the financial review process.
 
-**5\. Don’t use mattress money—i.e. a bundle of cash**. Unfortunately, you can’t do this. The lender has to be able to source the funds to finish the loan. If you do have a bunch of cash lying around and want to use it for your home, deposit it, and make sure it’s in your bank account for at least 90 days before starting the financial review process.
+**5\. Don’t use mattress money—i.e. a bundle of cash**. Unfortunately, you can’t do this. The lender has to be able to source the funds to finish the loan. If you do have a bunch of cash lying around and want to use it for your home, deposit it and make sure it’s in your bank account for at least 90 days before starting the financial review process.
 
 {% include pullquote.html %}
 
