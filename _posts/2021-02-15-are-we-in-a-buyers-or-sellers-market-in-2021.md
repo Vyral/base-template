@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: The latest stats show our market is moving quickly.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Are+We+in+a+Buyer%E2%80%99s+or+Seller%E2%80%99s+Market+in+2021_.mp4
 pullquote: More buyers are buying even though there are fewer homes to buy.
 enclosure_type: video/mp4
 enclosure_time:
