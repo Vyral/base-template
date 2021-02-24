@@ -1,12 +1,13 @@
 ---
 layout: post
 title: The Cost of Going Over Budget in Our Market
-date: 2021-02-03 09:00:00
+date: 2021-02-24 09:00:00
 tags:
   - Home Seller Tips
   - Real Estate
 excerpt: Here’s what going over budget will cost you in today’s market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Bob+Sokoler/The+Cost+of+Going+Over+Budget+in+Our+Market.mp4
 pullquote: >-
   If you’re thinking about offering a little more for the home you really want,
   take this information into consideration.
@@ -19,7 +20,7 @@ youtube_code: r_qW3rp1yA8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s what going over budget will cost you in today’s market.</em></p>
+*Here’s what going over budget will cost you in today’s market.*
 
 Let’s say you’re looking to buy a $200,000 home but, during your search, you see that a great-looking home has come on the market at $210,000. What would the difference in cost be between buying the $200,000 home and the $210,000 home?&nbsp;
 
