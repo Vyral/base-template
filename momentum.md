@@ -25,7 +25,7 @@ You have invested your valuable time and hard-earned money in yourself and in yo
 
 ![](/img/kwwithprices.jpg){: width="80%"}
 
-<button style="background-color: #283a5c; width: 300px; height: 90px; font-size: 30px;" type="button"><a href="https://forms.gle/qSif4UT8pS3juikT7">SIGN UP NOW</a></button>
+<button style="background-color: #283a5c; width: 300px; height: 90px; font-size: 30px;" type="button"><a target="_blank" rel="noopener" href="https://forms.gle/qSif4UT8pS3juikT7">SIGN UP NOW</a></button>
 
 &nbsp;
 
