@@ -20,7 +20,7 @@ youtube_code: r_qW3rp1yA8
 
 {% include youtube.html %}
 
-*Here’s what going over budget will cost you in today’s market.*
+<p style="text-align: center;"><em>Here’s what going over budget will cost you in today’s market.</em></p>
 
 Let’s say you’re looking to buy a $200,000 home but, during your search, you see that a great-looking home has come on the market at $210,000. What would the difference in cost be between buying the $200,000 home and the $210,000 home?&nbsp;
 
