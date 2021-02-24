@@ -19,7 +19,7 @@ youtube_code: Tv7Go6e9amE
 
 {% include youtube.html %}
 
-Here are the latest numbers from our Chicago market so far in 2021.&nbsp;
+<p style="text-align: center;"><em>Here are the latest numbers from our Chicago market so far in 2021.</em></p>
 
 How is our 2021 real estate market doing so far? In the single-family market in Chicago, compared to this time last year, more properties have closed, but **fewer have come onto the market, making it more difficult for buyers to find the ideal house.** The median sales price has increased by 8.8%.&nbsp;
 
