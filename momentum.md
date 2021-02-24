@@ -12,7 +12,7 @@ You have invested your valuable time and hard-earned money in yourself and in yo
 
 **NOW IT'S TIME TO CONTINUE YOUR JOURNEY WITH JENNIE AND MAINTAIN YOUR MOMENTUM\!**
 
-#### **YOUR MAINTAIN YOUR MOMENTUM<br>MEMBERSHIP INCLUDES:**
+#### **YOUR MAINTAIN YOUR MOMENTUM MEMBERSHIP INCLUDES:**
 
 * Weekly 30 minute mastermind on specific topics relating to systems, tools, mindset & teams
 * Private YouTube channel with weekly content and training videos
