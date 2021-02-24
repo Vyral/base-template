@@ -31,4 +31,4 @@ You’ve invested your valuable time and hard-earned money into yourself and you
 * Updated systems and checklists for building a referral-based business and a counter-balanced life
 * A referral network of like-minded, amazing agents who are looking to get better every single day, just like you
 
-You can sign up right now <u><a target="_blank" rel="noopener" href="https://yourjourneywithjennie.com/momentum">via this link</a></u>. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+You can sign up right now <u><a target="_blank" rel="noopener" href="https://forms.gle/qSif4UT8pS3juikT7">via this link</a></u>. If you have any other questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
