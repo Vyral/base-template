@@ -6,7 +6,7 @@ permalink: /momentum/
 
 <br><br>![](/img/maintainyourmomentum.jpg){: width="90%"}
 
-You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business -- and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. **Every. Single. Day.**
+You have invested your valuable time and hard-earned money in yourself and in your business. You have grown in your thinking; you envision a life in which you are a leader and a giver. You are armed with the systems and tools it takes to build a thriving business – and to embrace a leveraged life. You have started to implement these techniques, and you are creating great habits and continuing to get better. **Every. Single. Day.**
 
 **WHAT'S NEXT? WHERE DO YOU GO FROM HERE?**
 
@@ -27,29 +27,9 @@ You have invested your valuable time and hard-earned money in yourself and in yo
 
 <button style="background-color: #283a5c; width: 300px; height: 90px; font-size: 30px;" type="button">SIGN UP NOW</button>
 
----<!--
-<h2 class="recruiting">SIGN UP FOR A MEMBERSHIP TODAY</h2>
+&nbsp;
 
-<form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form">
-    <fieldset>
-        <p id="thanks"></p>
-        <label for="message">Let me know why you are you interested in this?*</label><textarea name="message"></textarea>
-        <label for="name">Name<span class="asterisk">*</span>
-        </label>
-        <input type="text" name="name" required>
-        <label for="email">Email<span class="asterisk">*</span>
-        </label>
-        <input type="email" name="_replyto" required>
-        <label for="phone">Phone Number
-        </label>
-        <input type="tel" name="phone">
-        <label for="address">Address
-        </label>
-        <input type="text" name="address">
-        <button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback='onHomeValueSubmit' data-badge="bottomleft">Submit
+## SIGN UP FOR A MEMBERSHIP TODAY
+{: .recruiting}
 
-<div class="hidden">
-      <input type="hidden" name="_to" value="{{site.data.settings.client.email}}" />
-      <input type="hidden" name="_subject" value="Maintain Your Momentum sign up From Your Vyral Video Blog" />
-      <input type="text" name="_gotcha" />
-    </div> -->
+<form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form"><fieldset><p id="thanks">&nbsp;</p><label for="message">Let me know why you are you interested in this?*</label><textarea name="message"></textarea> <label for="name">Name<span class="asterisk">*</span> </label> <input type="text" required="" name="name" /> <label for="email">Email<span class="asterisk">*</span> </label> <input type="email" required="" name="_replyto" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <label for="address">Address </label> <input type="text" name="address" /><button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback="onHomeValueSubmit" data-badge="bottomleft">Submit</button><div class="hidden"><button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback="onHomeValueSubmit" data-badge="bottomleft"></button><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Maintain Your Momentum sign up From Your Vyral Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div> --&gt;</fieldset></form>
