@@ -19,7 +19,7 @@ youtube_code: _T-18kZfib8
 
 {% include youtube.html %}
 
-*Here’s why refinancing in today’s market is such a great idea.*
+<p style="text-align: center;"><em>Here’s why refinancing in today’s market is such a great idea.</em></p>
 
 If you’re considering a refinance of your home, you’re not alone. I’ve actually refinanced twice in the past year.&nbsp;
 
