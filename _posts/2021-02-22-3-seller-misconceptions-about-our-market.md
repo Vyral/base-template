@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Seller Tips
 excerpt: There are three seller misconceptions not to believe about our market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Kevin+Langan/Videos/2021/3+Seller+Misconceptions+About+Our+Market.mp4
 pullquote: Preparing for sale will ensure more buyers are attracted to your home.
 enclosure_type: video/mp4
 enclosure_time:
