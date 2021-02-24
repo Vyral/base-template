@@ -5,7 +5,8 @@ date: 2021-02-24 19:24:59
 tags:
   - Market Update
 excerpt: Here are the latest numbers to put our inventory shortage into perspective.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2021/Porter+Ranch+Real+Estate_+worse+than+we+thought.mp4
 pullquote: >-
   It’s clear that the demand is massive; what we need right now is more homes to
   sell.
