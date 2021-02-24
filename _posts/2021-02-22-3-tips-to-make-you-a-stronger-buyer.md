@@ -12,18 +12,16 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-18-canale-youtube-1.jpg
-youtube_code: VN5BHR4WHcc
+youtube_code: vbcsSq5ld60
 ---
 
 {% include youtube.html %}
 
 <center><em>These three tips will help you stand out from the crowd as a buyer.</em></center>
 
-<br>How can buyers compete in this competitive market?
+<br>How can buyers compete in this competitive market? Before I answer that question, let me share <u><a target="_blank" rel="noopener" href="/uploads/How to Prepare for a Bidding War.pdf">a couple of statistics</a></u> that will help you understand what’s happening in our market. In August of 2020, 55% of all homes sold as the result of a bidding war, and 69% of all homes listed sold in less than a month. Since then, the market hasn’t changed. With so few homes available, competition is hot among buyers. **If you want to make your offer stand out, here are three tips to remember:**
 
-Before I answer that question, let me share <u><a target="_blank" rel="noopener" href="/uploads/How to Prepare for a Bidding War.pdf">a couple of statistics</a></u> that will help you understand what’s happening in our market. In August of 2020, 55% of all homes sold as the result of a bidding war, and 69% of all homes listed sold in less than a month. Since then, the market hasn’t changed. With so few homes available, competition is hot among buyers. **If you want to make your offer stand out for the home you want, here are three tips to remember:**
-
-**1\. Get pre-approved for a loan**. This proves your ability to get a loan. When you submit your pre-approval letter along with your offer, it shows the seller you’ve taken the necessary preparation steps and are ready to buy.
+**1\. Get pre-approved for a loan**. This proves your ability to get a loan. When you submit your pre-approval letter along with your offer, it shows the seller you’ve taken the necessary steps and are ready to buy.
 
 **2\. Know what you can afford**. Be prepared to cover expenses outside of your monthly mortgage, such as general upkeep, utilities, and unexpected repairs.
 
