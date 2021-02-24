@@ -3,7 +3,6 @@ layout: post
 title: 3 Seller Misconceptions About Our Market
 date: 2021-02-22 00:00:00
 tags:
-  - Real Estate
   - Home Seller Tips
 excerpt: There are three seller misconceptions not to believe about our market.
 enclosure: >-
