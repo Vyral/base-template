@@ -18,7 +18,7 @@ youtube_code: zc_T1dByNpI
 
 *These are the benefits included in a Maintain Your Momentum membership.*
 
-You’ve invested your valuable time and hard-earned money into yourself and your business. You have grown in your thinking and envision a life in which you are a leader and a giver. You’re armed with the systems and tools it takes to build a thriving business and embrace a leveraged life. You have started to implement these techniques and you are creating great habits while continuing to get better every single day. What’s next?
+**You’ve invested your valuable time and hard-earned money into yourself and your business**. You have grown in your thinking and envision a life in which you are a leader and a giver. You’re armed with the systems and tools it takes to build a thriving business and embrace a leveraged life. You have started to implement these techniques and you are creating great habits while continuing to get better every single day. What’s next?
 
 **It’s time to continue your journey and maintain your momentum. Your membership includes:**
 
