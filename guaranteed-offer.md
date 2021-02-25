@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: recruiting
 title: Guaranteed Offer
 permalink: /guaranteed-offer/
 ---
