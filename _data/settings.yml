@@ -24,10 +24,10 @@ client:
   license_number:
   about_markdown: >
     Lee is a 37-year native of Baltimore and has a great passion for Real Estate. Having worked in the sales industry for more than 30 years, and with 65% of his business from referrals, he is known for following through and getting the job done. To prove it, he guarantees that if he doesn’t get your home sold, he’ll buy it. His goal is to ease the stress of the buying and selling experience by accompanying you through every step of the process.
-    
+
 
     Lee has successfully served thousands of clients in his career and believes that any time is the right time to buy or sell if you have a skilled professional to serve you. He values education and devotes his time to keeping up with industry trends by regularly attending industry conferences, and has obtained a number of professional designations. Whether it’s marketing, writing contracts, managing short sales, or negotiating complicated contracts, Lee is your guy.
-    
+
 
     2020 will mark 14 years in the real estate business for Lee and over $1 Billion in sales. In those 14 years Lee and his team have successfully helped thousands of valued clients buy and sell their homes, so you are guaranteed to be working with an experienced Realtor. At the Lee Tessier Team, we always put our clients first and never chase a commission. If you are interested in learning more, feel free to check out our mobile-friendly site at <a href="http://leetessier.com" target="_blank">LeeTessier.com</a>
   market: Baltimore
@@ -40,6 +40,8 @@ client:
   phone2_type:
   email: Lee@LeeTessier.com
   url: 'http://LeeTessier.com'
+forms:
+  sitekey: 6Lf472caAAAAAPITMGmSOzYdqvPcaHNn4DOQGPeF
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.marylandrealestatesearch.com/sell/'
