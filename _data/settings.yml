@@ -8,6 +8,8 @@ show_custom_links: true
 custom_links:
   - title: Free Book Offer
     url: /free-book/
+  - title: Post Library
+    url: /library/
 client:
   name: The Carter Group Chicago
   license_number:
@@ -41,7 +43,7 @@ CTAs:
   second_CTA_URL: '/homesearch/'
   phone_CTA: true
 sidebar_CTA:
-  CTA_image_path: /img/cta-images/007.jpeg
+  CTA_image_path: /img/cta-images/001.jpg
   CTA_title: Looking to Buy a Home?
   CTA_text: Search the entire MLS for homes located in -- MARKET --.
   CTA_link_text: Home Search Tool

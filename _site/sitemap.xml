@@ -197,6 +197,10 @@
 <lastmod>2021-01-18T05:00:00-06:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/how-is-our-market-in-2021.html</loc>
+<lastmod>2021-02-24T03:00:00-06:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -216,6 +220,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/library/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/search.html</loc>

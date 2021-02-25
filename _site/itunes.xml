@@ -6,17 +6,17 @@
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://localhost:4000"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Carter Group Chicago - your professional Chicago Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>The Carter Group Chicago</managingEditor>
-    <lastBuildDate>2021-02-22 14:28:01 -0600</lastBuildDate>
-    <media:copyright>The Carter Group Chicago</media:copyright>
+    <managingEditor>Ashley Carter</managingEditor>
+    <lastBuildDate>2021-02-25 15:40:03 -0600</lastBuildDate>
+    <media:copyright>Ashley Carter</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.png"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">News &amp; Politics</media:category>
     <itunes:owner>
       <itunes:email>Info@Cartergroupchicago.com</itunes:email>
-      <itunes:name>The Carter Group Chicago</itunes:name>
+      <itunes:name>Ashley Carter</itunes:name>
     </itunes:owner>
-    <itunes:author>The Carter Group Chicago</itunes:author>
+    <itunes:author>Ashley Carter</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://localhost:4000/img/podcast.png"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
@@ -25,12 +25,49 @@
       <itunes:category text="News &amp; Politics"/>
     
       <item>
+        <title>How Is Our Market in 2021?</title>
+        <link>http://localhost:4000/how-is-our-market-in-2021.html</link>
+        
+          <category>Market Update</category>
+        
+          <category>Real Estate</category>
+        
+        <author>Ashley Carter</author>
+        <pubDate>2021-02-24 03:00:00 -0600</pubDate>
+        <guid></guid>
+        <description>
+
+Here are the latest numbers from our Chicago market so far in 2021.
+
+How is our 2021 real estate market doing so far? In the single-family market in Chicago, compared to this time last year, more properties have closed, but fewer have come onto the market, making it more difficult for buyers to find the ideal house. The median sales price has increased by 8.8%. 
+
+“Many active buyers are out in the market, but the inventory across the board has been reduced.”
+
+In the condo market, which includes townhomes and any other attached housing, more have been listed, sold, and gone under contract compared to last year. Their median sales price has risen by 3.9%, and there are fewer properties available. In the two-bedroom, two-bath condo market specifically, prices have dropped by 2.5%. 
+
+In the multi-unit property market, we’ve seen fewer properties listed, but more have sold. The median price for multi-units has climbed by 12.7% from this time last year. 
+
+Many active buyers are out in the market, but the inventory across the board has been reduced. If you or anyone you know is considering making a move and needs help figuring out their situation, give us a call or shoot us an email or text. Contact us if you have any questions, as well. We’re always glad to help.
+
+&nbsp;
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Here are the latest numbers from our Chicago market so far in 2021.</itunes:subtitle>
+        <itunes:author>Ashley Carter</itunes:author>
+        <itunes:summary>Here are the latest numbers from our Chicago market so far in 2021.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
         <title>Why You Should Stage Your For-Sale Home</title>
         <link>http://localhost:4000/why-you-should-stage-your-for-sale-home.html</link>
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2021-01-18 05:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_+(2).mp4</guid>
         <description>
@@ -58,7 +95,7 @@ Stay tuned for part two of this home staging series where we’ll do a case stud
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Do+You+Feel+When+You+See+These+Pics_+(2).mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>These are the top four reasons you need to stage your for-sale property.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>These are the top four reasons you need to stage your for-sale property.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -69,7 +106,7 @@ Stay tuned for part two of this home staging series where we’ll do a case stud
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-12-21 18:22:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4</guid>
         <description>
@@ -93,7 +130,7 @@ Hopefully, this case study has helped you to understand how even the most gorgeo
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+You+Should+Stage+Your+For-Sale+Home.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are some before-and-after pics that prove staging’s efficacy.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here are some before-and-after pics that prove staging’s efficacy.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -102,7 +139,7 @@ Hopefully, this case study has helped you to understand how even the most gorgeo
         <title>Why Sell in the Winter?</title>
         <link>http://localhost:4000/why-sell-in-the-winter.html</link>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-11-25 18:26:03 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4</guid>
         <description>
@@ -128,7 +165,7 @@ If you’d prefer to get the buying or selling process rolling or have any quest
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Sell+in+the+Winter_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are the three main reasons winter is an excellent time to sell.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here are the three main reasons winter is an excellent time to sell.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -139,7 +176,7 @@ If you’d prefer to get the buying or selling process rolling or have any quest
         
           <category>Market Update</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-11-09 11:37:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Did+Our+Market+Defy+Gravity+in+2020_.mp4</guid>
         <description>
@@ -173,7 +210,7 @@ As always, if you have any questions about buying or selling homes, or would lik
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Did+Our+Market+Defy+Gravity+in+2020_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How did our market manage to stay afloat during COVID?</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>How did our market manage to stay afloat during COVID?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -184,7 +221,7 @@ As always, if you have any questions about buying or selling homes, or would lik
         
           <category>Market Update</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-10-26 15:41:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4</guid>
         <description>
@@ -208,7 +245,7 @@ If you have any questions about today’s topic or anything else to do with real
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Q-+How+Did+COVID+Impact+Our+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s how our area market performed over the last six months.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here’s how our area market performed over the last six months.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -219,7 +256,7 @@ If you have any questions about today’s topic or anything else to do with real
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-09-21 11:16:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Should+Sellers+Keep+In+Mind+When+Scheduling+Showings_.mp4</guid>
         <description>
@@ -243,7 +280,7 @@ If you have any questions about today’s topic or other real estate-related que
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Should+Sellers+Keep+In+Mind+When+Scheduling+Showings_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here’s why it’s so important for sellers to be flexible when it comes to scheduling showings.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -256,7 +293,7 @@ If you have any questions about today’s topic or other real estate-related que
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-08-20 10:49:00 -0500</pubDate>
         <guid></guid>
         <description>
@@ -286,7 +323,7 @@ Stay tuned for future videos where we’ll dive deeper into what goes on behind 
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s what sellers should know before listing their home.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here’s what sellers should know before listing their home.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -297,7 +334,7 @@ Stay tuned for future videos where we’ll dive deeper into what goes on behind 
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-07-24 16:28:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4</guid>
         <description>
@@ -326,7 +363,7 @@ As always, if you have further questions on this or any other real estate topic,
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Inside+the+Mind+of+a+Buyer+With+Laura+Jones.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>I’m interviewing buyer specialist Laura Jones to gauge how buyers think.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -337,7 +374,7 @@ As always, if you have further questions on this or any other real estate topic,
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-06-08 15:22:34 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Are+Homes+Still+Selling_.mp4</guid>
         <description>
@@ -351,7 +388,7 @@ During this pandemic, I keep getting asked the same questions: How’s the marke
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Are+Homes+Still+Selling_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our market has slowed, but you can still buy and sell amid COVID-19.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Our market has slowed, but you can still buy and sell amid COVID-19.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -362,7 +399,7 @@ During this pandemic, I keep getting asked the same questions: How’s the marke
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-05-27 15:47:05 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4</guid>
         <description>
@@ -385,7 +422,7 @@ If you have further questions, please give me a call or send an email. I would l
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+How+Are+We+Doing+Business+Amid+COVID-19_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here’s how we’re still conducting business during the pandemic.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here’s how we’re still conducting business during the pandemic.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -396,7 +433,7 @@ If you have further questions, please give me a call or send an email. I would l
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-05-22 16:09:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4</guid>
         <description>
@@ -420,7 +457,7 @@ If you or anyone you know has questions about buying in 2020 or real estate in g
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+Want+to+Buy+a+Home+Amid+COVID-19_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here are the three steps you should take to buy a home during COVID-19.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here are the three steps you should take to buy a home during COVID-19.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -431,7 +468,7 @@ If you or anyone you know has questions about buying in 2020 or real estate in g
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-05-13 12:31:03 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Do+You+Need+to+Do+to+Sell+Your+Home+in+This+Market_.mp4</guid>
         <description>
@@ -453,7 +490,7 @@ If you have questions or need any assistance with your real estate needs, don’
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Q-+What+Do+You+Need+to+Do+to+Sell+Your+Home+in+This+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you still need to sell your house during the pandemic, what do you need to do?</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>If you still need to sell your house during the pandemic, what do you need to do?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -464,7 +501,7 @@ If you have questions or need any assistance with your real estate needs, don’
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-04-27 10:16:22 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Has+the+Shelter-in-Place+Ordinance+Affected+Our+Market_.mp4</guid>
         <description>
@@ -488,7 +525,7 @@ If you have questions about our market or are thinking of buying or selling a ho
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Has+the+Shelter-in-Place+Ordinance+Affected+Our+Market_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Though the shelter-in-place ordinance has caused our market to slow down, it’s still moving forward at a decent clip.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -499,7 +536,7 @@ If you have questions about our market or are thinking of buying or selling a ho
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-03-23 15:29:48 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+My+New+Company+Can+Help+You+Sell+for+More+Money.mp4</guid>
         <description>
@@ -523,7 +560,7 @@ If you have any other questions for me, feel free to reach out via phone or emai
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+My+New+Company+Can+Help+You+Sell+for+More+Money.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>I’m excited to introduce you to my new company, Listing Ready. Here’s why I started it and why you should be excited, too.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -534,7 +571,7 @@ If you have any other questions for me, feel free to reach out via phone or emai
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2020-02-03 14:54:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Market+Recap+for+2019+and+Preview+for+2020.mp4</guid>
         <description>
@@ -558,7 +595,7 @@ If you have any other questions for us, feel free to give us a call or send us a
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Market+Recap+for+2019+and+Preview+for+2020.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Our real estate market remained pretty stable in 2019. Here’s what you can expect in 2020.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -569,7 +606,7 @@ If you have any other questions for us, feel free to give us a call or send us a
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-12-03 11:34:52 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg</guid>
         <description>
@@ -591,7 +628,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What is trapped equity and why might it be holding you back? Let’s discuss.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>What is trapped equity and why might it be holding you back? Let’s discuss.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -602,7 +639,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-11-14 18:00:41 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/We+Can+Help+You+With+Your+Real+Estate+Investment+Goals.mp4</guid>
         <description>
@@ -620,7 +657,7 @@ In fact, we have a property available right now we haven’t found a buyer for, 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/We+Can+Help+You+With+Your+Real+Estate+Investment+Goals.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re looking to invest in real estate, we can help you.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>If you’re looking to invest in real estate, we can help you.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -631,7 +668,7 @@ In fact, we have a property available right now we haven’t found a buyer for, 
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-10-17 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Wont+a+Buyer+Make+an+Offer+on+Your+Home_.mp4</guid>
         <description>
@@ -657,7 +694,7 @@ If you or someone you know would like help in the buying, selling, or investing 
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Why+Wont+a+Buyer+Make+an+Offer+on+Your+Home_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If your home is overpriced and you’re wondering why buyers won’t even pitch you a lowball offer, pay attention to today’s video.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>If your home is overpriced and you’re wondering why buyers won’t even pitch you a lowball offer, pay attention to today’s video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -668,7 +705,7 @@ If you or someone you know would like help in the buying, selling, or investing 
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-10-06 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Is+Your+Condo+Building+Helping+or+Hurting+You_.mp4</guid>
         <description>
@@ -696,7 +733,7 @@ If you have any questions or if you plan to sell your condo sometime in the futu
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Is+Your+Condo+Building+Helping+or+Hurting+You_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As a condo owner, certain factors can make or break your home sale—factors unrelated to your actual unit.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>As a condo owner, certain factors can make or break your home sale—factors unrelated to your actual unit.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -707,7 +744,7 @@ If you have any questions or if you plan to sell your condo sometime in the futu
         
           <category>Market Update</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-09-22 19:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Market+Update.mp4</guid>
         <description>
@@ -747,7 +784,7 @@ If you have any questions about what we covered today or about anything else rea
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’ll look at some recent data from the end of August having to do with our Chicago market.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Today we’ll look at some recent data from the end of August having to do with our Chicago market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -758,7 +795,7 @@ If you have any questions about what we covered today or about anything else rea
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-08-13 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Does+Home+Staging+Work_.mp4</guid>
         <description>
@@ -782,7 +819,7 @@ If you have any questions about selling a home or real estate in general, don’
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Does+Home+Staging+Work_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Preparing your home properly is essential in having a successful home sale. Here’s why.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Preparing your home properly is essential in having a successful home sale. Here’s why.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -793,7 +830,7 @@ If you have any questions about selling a home or real estate in general, don’
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-06-25 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg</guid>
         <description>
@@ -817,7 +854,7 @@ Simply put, as a seller, you want to extract the most value out of your home sal
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/trapped_equity_YouTube.jpg" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Are fixer-upper properties still a highly sought-after item in today’s market? I’ll answer that question in today’s video.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Are fixer-upper properties still a highly sought-after item in today’s market? I’ll answer that question in today’s video.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -828,7 +865,7 @@ Simply put, as a seller, you want to extract the most value out of your home sal
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-06-24 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+When+is+the+Best+Time+to+Sell_.mp4</guid>
         <description>
@@ -840,7 +877,7 @@ Sellers often ask me when the best time to sell their home is in today’s marke
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+When+is+the+Best+Time+to+Sell_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Watch: When should you really put your home on the market?</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Watch: When should you really put your home on the market?</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -851,7 +888,7 @@ Sellers often ask me when the best time to sell their home is in today’s marke
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-05-29 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Is+Spring+a+Good+Time+to+Sell_.mp4</guid>
         <description>
@@ -875,7 +912,7 @@ If you or someone you know would like an evaluation of a property or you’re th
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Is+Spring+a+Good+Time+to+Sell_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The spring market is often viewed by home sellers as the “right” time to take action. In reality, realizing a successful home sale has less to do with the season and more to do with the time that you’re ready, willing, and able to sell. Not to mention that waiting for another year for spring to roll around is a risk that isn’t worth running.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>The spring market is often viewed by home sellers as the “right” time to take action. In reality, realizing a successful home sale has less to do with the season and more to do with the time that you’re ready, willing, and able to sell. Not to mention that waiting for another year for spring to roll around is a risk that isn’t worth running.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -886,7 +923,7 @@ If you or someone you know would like an evaluation of a property or you’re th
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2019-03-07 00:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Recapping+the+U.S.s+2018+Real+Estate+Market.mp4</guid>
         <description>
@@ -953,7 +990,7 @@ If you’re interested in a conversation around what your options might be in an
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Recapping+the+U.S.s+2018+Real+Estate+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The numbers from 2018’s national real estate market are in—how did the market perform, on the whole? Find out in today’s recap.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>The numbers from 2018’s national real estate market are in—how did the market perform, on the whole? Find out in today’s recap.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -964,7 +1001,7 @@ If you’re interested in a conversation around what your options might be in an
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-12-13 00:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+We+Hope+You+Have+a+Happy+Holiday+Season.mp4</guid>
         <description>
@@ -996,7 +1033,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+We+Hope+You+Have+a+Happy+Holiday+Season.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The year is almost over and the holidays are upon us. From all of us at the Carter Property Group: Happy Holidays!</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>The year is almost over and the holidays are upon us. From all of us at the Carter Property Group: Happy Holidays!</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1007,7 +1044,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-10-15 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Take+Exterior+Home+Photos+Now+Before+Winter+Arrives.mp4</guid>
         <description>
@@ -1027,7 +1064,7 @@ If you’d like to take advantage of this offer, have any questions, or would li
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Take+Exterior+Home+Photos+Now+Before+Winter+Arrives.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Your home doesn’t look like itself covered in snow. Listen and learn why you should get your exterior photos taken now.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Your home doesn’t look like itself covered in snow. Listen and learn why you should get your exterior photos taken now.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1038,7 +1075,7 @@ If you’d like to take advantage of this offer, have any questions, or would li
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-09-17 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Do+You+Have+What+It+Takes+to+Join+Our+Growing+Team_.mp4</guid>
         <description>
@@ -1058,7 +1095,7 @@ This opportunity has a lot of upside potential to take on more responsibility an
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Do+You+Have+What+It+Takes+to+Join+Our+Growing+Team_.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our team is growing, and we’re looking to add a key member to help us continue to grow. Here’s what we’re looking for.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Our team is growing, and we’re looking to add a key member to help us continue to grow. Here’s what we’re looking for.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1069,7 +1106,7 @@ This opportunity has a lot of upside potential to take on more responsibility an
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-05-30 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Get+a+Free+Copy+of+The+Millionaire+Real+Estate+Investor.mp4</guid>
         <description>
@@ -1107,7 +1144,7 @@ If you’re interested in receiving a copy, click on this link, share your infor
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Carter+Property+Group-+Get+a+Free+Copy+of+The+Millionaire+Real+Estate+Investor.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Here at the Carter Property Group, our mission is to create generational wealth through real estate and assist our clients with achieving their goals.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Here at the Carter Property Group, our mission is to create generational wealth through real estate and assist our clients with achieving their goals.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1120,7 +1157,7 @@ If you’re interested in receiving a copy, click on this link, share your infor
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-04-05 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+A+Market+Shift+Is+on+the+Way.mp4</guid>
         <description>
@@ -1146,7 +1183,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+A+Market+Shift+Is+on+the+Way.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Right now, changes are coming to our local real estate market. Today I’d like to bring you the latest update on this upcoming shift.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Right now, changes are coming to our local real estate market. Today I’d like to bring you the latest update on this upcoming shift.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1157,7 +1194,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-04-04 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+3+Biggest+Seller+Mistakes.mp4</guid>
         <description>
@@ -1181,7 +1218,7 @@ If you are thinking of selling your home and would like to know what your home i
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+3+Biggest+Seller+Mistakes.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you want to set your property up for a successful home sale, you need to avoid these top three seller mistakes.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>If you want to set your property up for a successful home sale, you need to avoid these top three seller mistakes.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1192,7 +1229,7 @@ If you are thinking of selling your home and would like to know what your home i
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2018-03-19 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Whats+Happening+With+Interest+Rates%253F.mp4</guid>
         <description>
@@ -1218,7 +1255,7 @@ It looks like rates will continue to increase over the course of 2018. If you ha
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Carter+Property+Group-+Whats+Happening+With+Interest+Rates%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>How do rising interest rates impact homebuyers and sellers in the Chicago area? I’ll explain today.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>How do rising interest rates impact homebuyers and sellers in the Chicago area? I’ll explain today.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1229,7 +1266,7 @@ It looks like rates will continue to increase over the course of 2018. If you ha
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-12-22 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/What+Is+a+Buyers+Agent%253F.mp4</guid>
         <description>
@@ -1259,7 +1296,7 @@ If you have any questions about property, taxes, or anything real estate-related
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/What+Is+a+Buyers+Agent%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Meet Laura Jones, our buyer’s agent, and find out what she does, why it’s important to clients, and why it’s important to her.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Meet Laura Jones, our buyer’s agent, and find out what she does, why it’s important to clients, and why it’s important to her.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1270,7 +1307,7 @@ If you have any questions about property, taxes, or anything real estate-related
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-12-01 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4</guid>
         <description>
@@ -1296,7 +1333,7 @@ We’ll keep you posted on the next steps of this transaction and relay some mor
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1307,7 +1344,7 @@ We’ll keep you posted on the next steps of this transaction and relay some mor
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-12-01 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4</guid>
         <description>
@@ -1335,7 +1372,7 @@ In the next part, we’ll discuss what happens during the home inspection. To wa
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Gaining+a+New+Perspective+on+the+Home+Buying+Process.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>One of our very own agents is in the middle of buying a house, and the experience has left him with a deeper understanding of the home buying process.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1346,7 +1383,7 @@ In the next part, we’ll discuss what happens during the home inspection. To wa
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-11-09 00:00:00 -0600</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Part+Two-+How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4</guid>
         <description>
@@ -1372,7 +1409,7 @@ We want to thank Rees for joining us today to help us explore the topic of short
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Part+Two-+How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Welcome to Part Two of our series on investing in short-term rentals, or, more specifically, Airbnb properties. Joining me again is Rees, a client of ours who has recently used short-term rentals in her investing strategy.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Welcome to Part Two of our series on investing in short-term rentals, or, more specifically, Airbnb properties. Joining me again is Rees, a client of ours who has recently used short-term rentals in her investing strategy.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1383,7 +1420,7 @@ We want to thank Rees for joining us today to help us explore the topic of short
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-11-09 00:00:00 -0600</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4</guid>
         <description>
@@ -1413,7 +1450,7 @@ If you have any more questions about investing in short-term rentals, don’t he
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/How+Short-Term+Rentals+Can+Boost+Your+Real+Estate+Investment+Strategy.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today we’re coming at you with a two-part series, where we take a much deeper dive into the topic of short-term rentals.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Today we’re coming at you with a two-part series, where we take a much deeper dive into the topic of short-term rentals.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1424,7 +1461,7 @@ If you have any more questions about investing in short-term rentals, don’t he
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-10-09 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Oct+1.mp4</guid>
         <description>
@@ -1448,7 +1485,7 @@ If you have any questions, don’t hesitate to reach out to us. We’d be glad t
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Oct+1.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The Carter Property Group is holding a pumpkin giveaway this year. We’re going to have two pickup locations—one in the city, and one in the suburbs.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>The Carter Property Group is holding a pumpkin giveaway this year. We’re going to have two pickup locations—one in the city, and one in the suburbs.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1459,7 +1496,7 @@ If you have any questions, don’t hesitate to reach out to us. We’d be glad t
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-09-18 00:00:00 -0500</pubDate>
         <guid>https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashely+Carter.mp4</guid>
         <description>
@@ -1481,7 +1518,7 @@ In the meantime, if you have any questions, don’t hesitate to give us a call o
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Ashley+Carter/Ashely+Carter.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When Hurricane Harvey made landfall in Houston, it brought with it over two feet of rain and left in its wake tens of thousands of displaced people and hundreds of thousands more without power. I recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>When Hurricane Harvey made landfall in Houston, it brought with it over two feet of rain and left in its wake tens of thousands of displaced people and hundreds of thousands more without power. I recently had the opportunity to travel down to the Houston area with my Keller Williams colleagues to lend a hand to homeowners whose homes had flooded due to Hurricane Harvey.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1492,7 +1529,7 @@ In the meantime, if you have any questions, don’t hesitate to give us a call o
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-08-24 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%20Does%20It%20Take%20to%20Manage%20a%20Short-Term%20Rental%20Property%253F.mp4</guid>
         <description>
@@ -1522,7 +1559,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%20Does%20It%20Take%20to%20Manage%20a%20Short-Term%20Rental%20Property%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Short-term rentals have been revolutionizing the market. Today, I wanted to share some information about these kinds of rentals.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Short-term rentals have been revolutionizing the market. Today, I wanted to share some information about these kinds of rentals.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1533,7 +1570,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-08-07 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Meet%20Our%20Listing%20Manager.mp4</guid>
         <description>
@@ -1559,7 +1596,7 @@ If you have any questions for Shannon or anyone else in the Carter Property Grou
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Meet%20Our%20Listing%20Manager.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Meet our fantastic listing manager, Shannon Kelly.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Meet our fantastic listing manager, Shannon Kelly.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1570,7 +1607,7 @@ If you have any questions for Shannon or anyone else in the Carter Property Grou
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-07-28 00:00:00 -0500</pubDate>
         <guid>https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Don't+Miss+This+Great+Event.mp4</guid>
         <description>
@@ -1596,7 +1633,7 @@ If you have any other questions or would like more information, feel free to giv
         <media:content url="https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Don't+Miss+This+Great+Event.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Learning about buying a home just got more fun. Our upcoming event is going to be a great time with food, drinks, and valuable information about the homebuying process.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Learning about buying a home just got more fun. Our upcoming event is going to be a great time with food, drinks, and valuable information about the homebuying process.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1607,7 +1644,7 @@ If you have any other questions or would like more information, feel free to giv
         
           <category>Real Estate</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-07-12 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4</guid>
         <description>
@@ -1635,7 +1672,7 @@ So if you’re interested in working with us or have any other questions, feel f
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/How%20Carter%20Property%20Group%20Is%20Different.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As a real estate professional working with Carter Property Group, my job is to ensure that communication is clear all the way through closing.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>As a real estate professional working with Carter Property Group, my job is to ensure that communication is clear all the way through closing.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1646,7 +1683,7 @@ So if you’re interested in working with us or have any other questions, feel f
         
           <category>Home Buyer Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-06-05 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/When%20It%2527s%20Smarter%20to%20Buy%20Than%20Rent%20in%20Chicagoland.mp4</guid>
         <description>
@@ -1666,7 +1703,7 @@ If you or anyone you know wants to talk about the costs of buying a home and how
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/When%20It%2527s%20Smarter%20to%20Buy%20Than%20Rent%20in%20Chicagoland.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>With rental rates rising steadily over the last five years and housing affordability so strong, we've reached a point where buying a home could actually be cheaper than renting.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>With rental rates rising steadily over the last five years and housing affordability so strong, we've reached a point where buying a home could actually be cheaper than renting.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1677,7 +1714,7 @@ If you or anyone you know wants to talk about the costs of buying a home and how
         
           <category>Market Update</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-05-03 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Whats%20Happening%20in%20Our%20Market%253F%20%281%29.mp4</guid>
         <description>
@@ -1701,7 +1738,7 @@ If you or anyone you know is looking to buy, sell, or invest in real estate, ple
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Whats%20Happening%20in%20Our%20Market%253F%20%281%29.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I’m going over some important numbers to give you an idea of what’s happening in our market.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Today I’m going over some important numbers to give you an idea of what’s happening in our market.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1712,7 +1749,7 @@ If you or anyone you know is looking to buy, sell, or invest in real estate, ple
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-03-30 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Mar%201%20%281%29.mp4</guid>
         <description>
@@ -1740,7 +1777,7 @@ If anyone you know is looking to buy, sell, or invest in real estate or you have
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Mar%201%20%281%29.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>If you’re looking to sell your home, what are some great updates you can make before you go on the market? Today I’ll go over what areas you should focus on to ensure the best return.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>If you’re looking to sell your home, what are some great updates you can make before you go on the market? Today I’ll go over what areas you should focus on to ensure the best return.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1751,7 +1788,7 @@ If anyone you know is looking to buy, sell, or invest in real estate or you have
         
           <category>Market Update</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-03-15 00:00:00 -0500</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4</guid>
         <description>
@@ -1773,7 +1810,7 @@ If you have any questions for us or you are interested in buying, selling, or in
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/Breaking%20News-%20Interest%20Rates%20to%20Increase.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>The Federal Reserve has just increased their interest rates. Here’s what it means for buyers and sellers in Chicagoland.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>The Federal Reserve has just increased their interest rates. Here’s what it means for buyers and sellers in Chicagoland.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1782,7 +1819,7 @@ If you have any questions for us or you are interested in buying, selling, or in
         <title>Which Home Improvements Give You the Best Return?</title>
         <link>http://localhost:4000/3-investments-to-make-before-you-list-your-house.html</link>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-02-15 00:00:00 -0600</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/3%20Investments%20to%20Make%20Before%20You%20List%20Your%20House.mp4</guid>
         <description>
@@ -1806,7 +1843,7 @@ Investing in those three things will not only give your home a fantastic, fresh 
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/3%20Investments%20to%20Make%20Before%20You%20List%20Your%20House.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Making these three investments will make your home shine on the market and almost always offer a great return.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>Making these three investments will make your home shine on the market and almost always offer a great return.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
@@ -1821,7 +1858,7 @@ Investing in those three things will not only give your home a fantastic, fresh 
         
           <category>Home Seller Tips</category>
         
-        <author>The Carter Group Chicago</author>
+        <author>Ashley Carter</author>
         <pubDate>2017-01-27 00:00:00 -0600</pubDate>
         <guid>http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20Going%20On%20In%20Our%20Real%20Estate%20Market%253F.mp4</guid>
         <description>
@@ -1843,13 +1880,13 @@ If you have any questions about the Chicago market or you’re thinking about se
         <media:content url="http://vyralmarketing.s3.amazonaws.com/Ashley%20Carter/What%2527s%20Going%20On%20In%20Our%20Real%20Estate%20Market%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What's going on in the Chicago market? To get an idea of where the market is heading, let's take a look back today at the 2016 and 2015 markets.</itunes:subtitle>
-        <itunes:author>The Carter Group Chicago</itunes:author>
+        <itunes:author>Ashley Carter</itunes:author>
         <itunes:summary>What's going on in the Chicago market? To get an idea of where the market is heading, let's take a look back today at the 2016 and 2015 markets.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Chicago, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
-    <copyright>The Carter Group Chicago</copyright>
-    <media:credit role="author">The Carter Group Chicago</media:credit>
+    <copyright>Ashley Carter</copyright>
+    <media:credit role="author">Ashley Carter</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Carter Group Chicago - your professional Chicago Real Estate Agents.</media:description>
   </channel>

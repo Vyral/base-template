@@ -1510,6 +1510,14 @@ html[xmlns] .flexslider .slides {
 label.tree-toggle {
   cursor: pointer; }
 
+.month {
+  font-weight: bold;
+  font-size: 20px; }
+
+.year {
+  font-weight: bold;
+  font-size: 30px; }
+
 .hero-img {
   background-position: center;
   background-size: cover;
@@ -1681,7 +1689,8 @@ body {
   margin: 0;
   background: #ffffff;
   -webkit-animation: 1s ease-in-out fadein;
-          animation: 1s ease-in-out fadein; }
+          animation: 1s ease-in-out fadein;
+  font-size: 20px; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Source Sans Pro", helvetica, arial, sans-serif;
@@ -1723,6 +1732,10 @@ a {
   a:hover {
     text-decoration: none;
     color: #353535; }
+
+ul {
+  list-style: disc;
+  margin-left: 3rem; }
 
 .button, .button-ghost, button, input[type="button"], input[type="submit"] {
   color: white;
