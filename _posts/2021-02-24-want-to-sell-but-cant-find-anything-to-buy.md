@@ -21,7 +21,7 @@ youtube_code: T2sbJPnoCh4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If you want to sell but can’t find anything to buy, you have three options.</em></p>
+<p style="text-align: center;"><em>Here are your options for buying and selling in this market.</em></p>
 
 If you’re one of the hundreds of homeowners in our area who are thinking, “I’d love to sell my home, but there’s nothing to buy,” don’t fret. Here are the three main options you have in this situation:
 
