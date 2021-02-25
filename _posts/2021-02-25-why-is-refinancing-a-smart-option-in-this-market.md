@@ -18,7 +18,8 @@ youtube_code: jq4x-00NMkA
 
 {% include youtube.html %}
 
-*Here are a few of the benefits you can see by refinancing with these rates.*<br>&nbsp;
+<center><em>Here are a few of the benefits you can see by refinancing with these rates.</em></center>
+&nbsp;
 
 Have you considered the amount of money you can save by refinancing your home? A mortgage refinance replaces your current home loan with new terms, including a new interest rate, a new mortgage length, and even a new type of loan. **We can connect you with a trusted lender to help you begin the process** of refinancing today while rates are low, which could allow you to have a lower monthly mortgage payment, pay off debt, and close in less than 30 days.
 
