@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Benefits of Refinancing in Today’s Market?
+title: The Benefits of Refinancing in Today’s Market
 date: 2021-02-23 09:00:00
 tags:
   - Home Seller Tips
@@ -19,9 +19,9 @@ youtube_code: _T-18kZfib8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why refinancing in today’s market is such a great idea.</em></p>
+*Here’s why refinancing in today’s market is such a great idea.*
 
-If you’re considering a refinance of your home, you’re not alone. I’ve actually refinanced twice in the past year.&nbsp;
+If you’re considering a refinance of your home, you’re not alone. I’ve already refinanced twice in the past year.&nbsp;
 
 Why? **One reason is that the conforming limit has increased from $756,000 to $822,000.** If your home is between that value, refinancing to a conforming rate may be in your best interest.&nbsp;
 
