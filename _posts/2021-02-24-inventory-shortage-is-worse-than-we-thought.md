@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Inventory Shortage Is Worse Than We Thought
+title: "Houston, We have a problem in Los Angeles County!"
 date: 2021-02-24 19:24:59
 tags:
   - Market Update
-excerpt: Here are the latest numbers to put our inventory shortage into perspective.
+excerpt: We are facing a massive inventory crisis in our San Fernando Valley market!
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Himelstein/2021/Porter+Ranch+Real+Estate_+worse+than+we+thought.mp4
 pullquote: >-
@@ -19,7 +19,7 @@ youtube_code: AQomkq4jgxE
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the latest numbers to put our inventory shortage into perspective.</em></p>
+<p style="text-align: center;"><em>We are facing a massive inventory crisis in our San Fernando Valley market!</em></p>
 
 At the end of 2020, it was announced that we had the lowest number of homes available for sale ever recorded in the national market. The same story played out here in our San Fernando Valley market. To have a balanced market where appreciation can progress naturally, you need to be working with about six months of inventory. At year’s end, we were hovering between a one- and 1.5-month supply of inventory, which is insanely tight. Now, it’s gotten even worse; we’re trying to get by with just 0.5 months of inventory—aka two weeks\! **Throughout the entire San Fernando Valley, we have less than 1,000 homes for sale.&nbsp;**
 
