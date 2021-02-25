@@ -20,11 +20,11 @@ youtube_code: syOg6kdpyyE
 
 <br>Today I’m discussing equity; the more equity you have, the more cash you get when you sell your home. You can also take out a loan against some of your house’s equity and use it on something you want or need. There are three quick ways to build equity:
 
-**1\. Make bi-weekly mortgage payments**. There are 52 weeks in a year, so if you make half a mortgage payment every other week, that’s 26 half payments. 26 half payments equal 13 full payments, which is one more than you would make if only paying your mortgage once per month. You won’t even notice this extra payment, and you’ll never be shelling out a full payment all at once. The more mortgage you pay, the more equity you have.
+<p style="margin-left:5%; margin-right:5%;">**1\. Make bi-weekly mortgage payments**. There are 52 weeks in a year, so if you make half a mortgage payment every other week, that’s 26 half payments. 26 half payments equal 13 full payments, which is one more than you would make if only paying your mortgage once per month. You won’t even notice this extra payment, and you’ll never be shelling out a full payment all at once. The more mortgage you pay, the more equity you have.</p>
 
-**2\. Renovate your home**. Maybe you want to improve a bathroom or the kitchen; that adds value and therefore equity.
+<p style="margin-left:5%; margin-right:5%;">**2\. Renovate your home**. Maybe you want to improve a bathroom or the kitchen; that adds value and therefore equity.</p>
 
-**3\. Refinance into a 15-year loan**. After you’ve owned your home for a while, you can refinance from a 30-year loan to a 15-year, which builds equity much faster.
+<p style="margin-left:5%; margin-right:5%;">**3\. Refinance into a 15-year loan**. After you’ve owned your home for a while, you can refinance from a 30-year loan to a 15-year, which builds equity much faster.</p>
 
 {% include pullquote.html %}
 
