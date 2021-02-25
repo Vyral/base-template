@@ -6,7 +6,7 @@ tags:
   - Home Buyer Tips
   - Real Estate
   - Home Seller Tips
-excerpt: 'If you want to sell but can’t find anything to buy, you have three options.'
+excerpt: 'Here are your options for buying and selling in this market.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Mikki+Ramey/2021/Charleston+Real+Estate+_+The+Mikki+Ramey+Team_+i+want+to+sell.mp4
 pullquote: >-
