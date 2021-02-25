@@ -9,8 +9,8 @@ enclosure:
 pullquote: 'The more equity you have, the more cash you get when you sell your home.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/canady-ss.jpg
 youtube_code: syOg6kdpyyE
 ---
 
