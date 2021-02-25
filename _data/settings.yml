@@ -37,6 +37,8 @@ emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1809033';</script><script
   src="//dk98ddgl0znzm.cloudfront.net/e2ma.js" async="async"></script>
+forms:
+  sitekey: 6Lfb6mcaAAAAAFRnryv9xS1CZlCqbqj84M_UlA8Z
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'http://www.myathenshomevalue.com/'
