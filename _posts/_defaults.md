@@ -15,7 +15,7 @@ hidden: false
 ---
 {% include youtube.html %}
 
-<center><em>EXCERPT.</em></center>
+<center style="font-size: 18px;"><em>EXCERPT.</em></center>
 
 <br>ARTICLE
 
