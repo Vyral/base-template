@@ -12,12 +12,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: ttHRiMlsdpY
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Hire a good agent to help you sell your home for a maximal price.</em></p>
+*Hire a good agent to help you sell your home for a maximal price.*
 
 Today’s message is for all of the home sellers in our marketplace. The market is on fire, and there’s a larger shortage of inventory than I’ve seen in my 23-year real estate career.&nbsp;
 
