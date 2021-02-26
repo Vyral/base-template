@@ -1,14 +1,15 @@
 ---
 layout: post
 title: The Benefits of Refinancing in Today’s Market
-date: 2021-02-23 09:00:00
+date: 2021-02-26 09:00:00
 tags:
   - Home Seller Tips
   - Buyer Tips
   - Homeowner Tips
   - Real Estate
 excerpt: Here’s why refinancing in today’s market is such a great idea.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Dave+Knight/The+Benefits+of+Refinancing+in+Today%E2%80%99s+Market.mp4
 pullquote: Refinancing to a conforming rate may be in your best interest.
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: _T-18kZfib8
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s why refinancing in today’s market is such a great idea.</em></p>
+*Here’s why refinancing in today’s market is such a great idea.*
 
 If you’re considering a refinance of your home, you’re not alone. I’ve already refinanced twice in the past year.&nbsp;
 
