@@ -3,7 +3,6 @@ layout: post
 title: 'Buyers: In This Fast Market, Slow Down & Think'
 date: 2021-02-22 00:00:00
 tags:
-  - Real Estate
   - Home Buyer Tips
 excerpt: Here are 10 mistakes not to make that will trip up your home-buying plans.
 enclosure: >-
