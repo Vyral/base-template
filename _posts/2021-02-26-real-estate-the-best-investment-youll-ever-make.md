@@ -18,6 +18,8 @@ youtube_code: LQxkd7f3arY
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what investing in real estate can do for your portfolio.</em></p>
+
 Let’s say you have $60,000 in cash and you’re wondering whether you should invest the money in real estate or keep it in a savings account for later. Let me outline what each scenario might look like for you.&nbsp;
 
 **Scenario 1: You decide to buy a rental property.**&nbsp;
