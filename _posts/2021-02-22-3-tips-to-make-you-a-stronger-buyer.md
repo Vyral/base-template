@@ -3,10 +3,10 @@ layout: post
 title: 3 Tips to Make You a Stronger Buyer
 date: 2021-02-22 00:00:00
 tags:
-  - Real Estate
   - Home Buyer Tips
 excerpt: These three tips will help you stand out from the crowd as a buyer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Rick+Canale/Videos/2021/3+Tips+to+Make+You+a+Stronger+Buyer.mp4
 pullquote: 'With so few homes available, competition is hot among buyers.'
 enclosure_type: video/mp4
 enclosure_time:
