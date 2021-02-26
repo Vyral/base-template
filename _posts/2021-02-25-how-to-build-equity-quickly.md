@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How to Build Equity Quicker
+title: How to Build Equity Quickly
 date: 2021-02-25 00:00:00
 tags:
   - Home Seller Tips
-excerpt: Today I’m sharing three ways to build up the equity in your home more quickly.
+excerpt: Today I’m sharing three ways to build up the equity in your home faster.
 enclosure:
 pullquote: 'The more equity you have, the more cash you get when you sell your home.'
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: syOg6kdpyyE
 
 {% include youtube.html %}
 
-<center style="font-size: 18px;"><em>Today I&rsquo;m sharing three ways to build up the equity in your home more quickly.</em></center>
+<center style="font-size: 18px;"><em>Today I&rsquo;m sharing three ways to build up the equity in your home faster.</em></center>
 
 <br>Today I’m discussing equity; the more equity you have, the more cash you get when you sell your home. You can also take out a loan against some of your house’s equity and use it on something you want or need. There are three quick ways to build equity:
 
