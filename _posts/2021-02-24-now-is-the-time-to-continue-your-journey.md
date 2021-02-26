@@ -5,7 +5,8 @@ date: 2021-02-24 00:00:00
 tags:
   - Transaction Management
 excerpt: These are the benefits included in a Maintain Your Momentum membership.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/Recruiting/2021/Now+is+the+Time+to+Continue+Your+Journey.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
