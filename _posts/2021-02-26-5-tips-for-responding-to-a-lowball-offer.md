@@ -19,7 +19,7 @@ youtube_code: 2Uhm8Y-1hD4
 
 {% include youtube.html %}
 
-Here are five things to remember when you receive a lowball offer.
+<p style="text-align: center;"><em>Here are five things to remember when you receive a lowball offer.</em></p>
 
 When someone submits a lowball offer on your for-sale home, it’s hard not to take it personally. After all, this is the property you’ve proudly maintained and called home for years. That said, you should never throw away lowball offers or respond harshly to them. It might not seem so at first, but that buyer could actually be the one you’ve been waiting for. Here are five tips for responding to a lowball offer:&nbsp;
 
