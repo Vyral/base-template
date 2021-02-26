@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: Here are 10 mistakes not to make that will trip up your home-buying plans.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Eric+Mortimer/Videos/2021/Buyers_+In+This+Fast+Market%2C+Slow+Down+%26+Think.mp4
 pullquote: >-
   Your Uber driver or go-to hairdresser are perfectly nice people, but their
   opinion on real estate isn’t necessarily correct.
