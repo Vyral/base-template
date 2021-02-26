@@ -17,7 +17,7 @@ youtube_code: BaDD8YeRaq4
 
 {% include youtube.html %}
 
-The key to unlocking positive customer experiences: Strategic communication.
+<p style="text-align: center;"><em>The key to unlocking positive customer experiences: Strategic communication.</em></p>
 
 What is the No. 1 thing that impacts customer satisfaction? The unequivocal answer is communication. From the moment that you’ve signed a client till the end of their transaction, **the experience that they have—be it good or bad—will be a function of communication**. When it comes to communication, quantity and quality matter equally. It starts with setting appropriate expectations for your client, then carries over to your ability to advise, educate, and guide them. If you fail with your communication (i.e. you don’t provide enough information, or you over-promise and under-perform), customer satisfaction will plummet.&nbsp;
 
