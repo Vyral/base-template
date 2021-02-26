@@ -1,12 +1,13 @@
 ---
 layout: post
 title: How Is Our Market in 2021?
-date: 2021-02-24 09:00:00
+date: 2021-02-26 09:00:00
 tags:
   - Market Update
   - Real Estate
 excerpt: Here are the latest numbers from our Chicago market so far in 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/How+Is+Our+Market+in+2021_.mp4
 pullquote: >-
   Many active buyers are out in the market, but the inventory across the board
   has been reduced.
@@ -19,7 +20,7 @@ youtube_code: sm3-FoyMWpA
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here are the latest numbers from our Chicago market so far in 2021.</em></p>
+*Here are the latest numbers from our Chicago market so far in 2021.*
 
 How is our 2021 real estate market doing so far? In the single-family market in Chicago, compared to this time last year, more properties have closed, but **fewer have come onto the market, making it more difficult for buyers to find the ideal house.** The median sales price has increased by 8.8%.&nbsp;
 
