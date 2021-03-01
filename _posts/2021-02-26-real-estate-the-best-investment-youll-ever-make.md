@@ -26,13 +26,13 @@ Let’s say you have $60,000 in cash and you’re wondering whether you should i
 
 For the sake of this example, imagine you use that $60,000 as a 20% down payment to buy a $300,000 property and borrow the remaining $240,000 as a mortgage. If you add taxes, insurance, property management fees, and repair costs to that $240,000, it equates to a monthly operational cost of about $1,500. If you rent the property out for $1,700, it’ll give you a monthly cash flow of $150 to $200—a decent amount for the beginning of an investment cycle.
 
-As a reminder, there are three ways to make money from rental properties. The first through appreciation (i.e., the value of the property going up). The second is through rent providing cash flow. Because rent typically increases annually due to inflation, your cash flow increases too. The third way is by using the rent money to pay down the mortgage on the property so that it’s eventually yours free and clear.&nbsp;
+As a reminder, there are three ways to make money from rental properties. The first through appreciation (i.e., the value of the property going up over time). The second is through rent providing cash flow. Because rent typically increases annually due to inflation, your cash flow increases too. The third way is by using the rent money to pay down the mortgage on the property so that it’s eventually yours free and clear.&nbsp;
 
 {% include pullquote.html %}
 
 For this property, let’s say the yearly appreciation rate is 4%—an average historical rate. Rent typically increases by a rate of 3% per year. Based on these numbers, within five years, your initial $60,000 investment will bring you a $103,000 return. That’s a 38% year-over-year increase and a 172% increase in total.&nbsp;
 
-If you’re afraid the market might take a downturn in the near future, I ran the numbers for that scenario as well. If prices don’t go up, you see zero appreciation, and you’re forced to rely only on cash flow to pay down your mortgage, your year-over-year return for those five years is still 15%. That means an additional $38,000 in your pocket, or a return of over 60%.&nbsp;
+If you’re afraid the market might take a downturn in the near future, I ran the numbers for that scenario as well. If prices don’t go up, you see zero appreciation, and you’re forced to rely only on cash flow to pay down your mortgage, your year-over-year return for those five years is still 15%. That means an additional $38,000 in your pocket or a return of over 60%.&nbsp;
 
 **Scenario 2: You save the $60,000 for later.&nbsp;**
 
