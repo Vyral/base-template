@@ -16,7 +16,7 @@ youtube_code: 96wyvIln_U0
 
 {% include youtube.html %}
 
-Here’s how home offices are helping sellers get an edge on the market.&nbsp;
+<p style="text-align: center;"><em>Here’s how home offices are helping sellers get an edge on the market.</em></p>
 
 When the real estate market reignited in the summer of 2020 and the nation’s workforce transitioned into a work-from-home force, properties with office spaces became highly coveted. Gone are the days of buyers wanting a completely open main floor where everyone can see and hear everyone else. (Most of us found out pretty quickly that a schedule full of Zoom meetings doesn’t mix well with energetic toddlers or curious pets). When it’s time to get work done, we need a few walls. Home offices are a must in today’s home search, and homebuilders are taking note.&nbsp;
 
