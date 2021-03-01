@@ -29,7 +29,4 @@ You have invested your valuable time and hard-earned money in yourself and in yo
 
 &nbsp;
 
-## SIGN UP FOR A MEMBERSHIP TODAY
-{: .recruiting}
 
-<form method="post" class="home-value cta-forms" action="/thankyou2" id="home-value-form"><fieldset><p id="thanks">&nbsp;</p><label for="message">Let me know why you are you interested in this?*</label><textarea name="message"></textarea> <label for="name">Name<span class="asterisk">*</span> </label> <input type="text" required="" name="name" /> <label for="email">Email<span class="asterisk">*</span> </label> <input type="email" required="" name="_replyto" /> <label for="phone">Phone Number </label> <input type="tel" name="phone" /> <label for="address">Address </label> <input type="text" name="address" /><button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback="onHomeValueSubmit" data-badge="bottomleft">Submit</button><div class="hidden"><button class="g-recaptcha" data-sitekey="{{site.data.settings.forms.sitekey}}" data-callback="onHomeValueSubmit" data-badge="bottomleft"></button><input type="hidden" value="{{site.data.settings.client.email}}" name="_to" /> <input type="hidden" value="Maintain Your Momentum sign up From Your Vyral Video Blog" name="_subject" /> <input type="text" name="_gotcha" /></div> --&gt;</fieldset></form>
