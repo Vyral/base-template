@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-25-canady-youtube-1.jpg
-youtube_code: syOg6kdpyyE
+youtube_code: c4e4Knsk8yI
 ---
 
 {% include youtube.html %}
