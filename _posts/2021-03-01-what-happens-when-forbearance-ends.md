@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Happens When Forbearance Ends?
-date: 2021-02-18 09:00:00
+date: 2021-03-01 09:00:00
 tags:
   - Market Update
 excerpt: Here’s some great advice for homeowners who are in mortgage forbearance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Justin+Woodall/What+Happens+When+Forbearance+Ends_.mp4
 pullquote: 'The longer you stay in forbearance, the longer your balance will rise.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: MLoDEpk4Ax0
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here’s some great advice for homeowners who are in mortgage forbearance.</em></p>
+*Here’s some great advice for homeowners who are in mortgage forbearance.*
 
 This past year was a rough one for all of us, but now hopefully we’re seeing the light at the end of the tunnel. Today I wanted to talk a little bit about mortgage forbearance, or the delayed mortgage payments that were offered to homeowners back in March when COVID-19 hit and the CARES Act was passed.&nbsp;
 
