@@ -3,10 +3,10 @@ layout: post
 title: How Home Sellers Benefit From Home Construction Lines
 date: 2021-02-19 00:00:00
 tags:
-  - Real Estate
   - Home Seller Tips
 excerpt: Here’s why an influx of new construction buyers is great news for homeowners.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ron+Cedillo/Videos/2021/How+Home+Sellers+Benefit+From+Home+Construction+Lines.mp4
 pullquote: You can capitalize on the market now with low inventory and interest rates.
 enclosure_type: video/mp4
 enclosure_time:
