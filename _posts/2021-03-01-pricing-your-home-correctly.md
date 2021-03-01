@@ -18,7 +18,7 @@ youtube_code: y-oyviiY1gI
 
 {% include youtube.html %}
 
-*Here are three things to consider when pricing your property for sale.*
+<p style="text-align: center;"><em>Here are three things to consider when pricing your property for sale.</em></p>
 
 **It’s crucial to price your home correctly when selling because you don’t want it to sit on the market for very long**, as this causes other issues. First, consider the condition of your house; make sure it’s clean and all major repairs have been done. Second, think about your property’s location; is it on a cul-de-sac, a corner lot, or in a desirable school district? Third, consider what’s happening in the current market; what is it dictating?&nbsp;
 
