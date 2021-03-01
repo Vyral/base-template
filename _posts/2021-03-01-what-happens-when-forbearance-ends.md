@@ -17,7 +17,7 @@ youtube_code: MLoDEpk4Ax0
 
 {% include youtube.html %}
 
-*Here’s some great advice for homeowners who are in mortgage forbearance.*
+<p style="text-align: center;"><em>Here’s some great advice for homeowners who are in mortgage forbearance.</em></p>
 
 This past year was a rough one for all of us, but now hopefully we’re seeing the light at the end of the tunnel. Today I wanted to talk a little bit about mortgage forbearance, or the delayed mortgage payments that were offered to homeowners back in March when COVID-19 hit and the CARES Act was passed.&nbsp;
 
