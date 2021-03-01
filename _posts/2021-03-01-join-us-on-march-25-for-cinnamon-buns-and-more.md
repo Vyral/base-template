@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join Us on March 26 for Cinnamon Buns and More
+title: Join Us on March 25 for Cinnamon Buns and More
 date: 2021-03-01 00:00:00
 tags:
   - Real Estate
