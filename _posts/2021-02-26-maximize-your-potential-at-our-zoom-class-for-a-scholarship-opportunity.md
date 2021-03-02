@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maximize Your Potential at Our Zoom Class for a Scholarship Opportunity
+title: Maximize Your Potential by Attending Our Life and Leadership Workshop!
 date: 2021-02-26 00:00:00
 tags:
   - Real Estate
