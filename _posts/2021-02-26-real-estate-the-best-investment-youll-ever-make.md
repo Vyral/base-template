@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/oggie-penev-the-benefits-of-investing-in-real-estate-yt.jpg
-youtube_code: LQxkd7f3arY
+youtube_code: Ef_F482KiHk
 ---
 
 {% include youtube.html %}
