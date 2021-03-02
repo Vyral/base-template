@@ -2,40 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>-- CLIENT BRAND --</title>
-    <description>Our mission at The Roth Team is to be your best resource for Milwaukee real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Roth Team, your professional Milwaukee Real Estate Agents.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Oct 2017 15:19:08 -0500</pubDate>
-    <lastBuildDate>Wed, 11 Oct 2017 15:19:08 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <description>Our mission at The Roth Team is to be your best resource for Greater Milwaukee real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Roth Team, your professional Greater Milwaukee Real Estate Agents.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 02 Mar 2021 12:36:55 -0600</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 12:36:55 -0600</lastBuildDate>
+    <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Should You Trust Zillow With Your Homes Value?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lROsP-pfiSA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>How the COVID-19 Pandemic Has Affected Our Market</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Jyw3-cWk-fM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Zillow’s Zestimates can be deeply flawed when it comes to determining your home’s value. Here’s what you should do instead.&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Despite the COVID-19 pandemic, buyers are still buying and sellers are still selling in our market.&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;I get a lot of questions from people asking me if they should trust the value that Zillow gave their home.&lt;/p&gt;
+&lt;p&gt;How have the COVID-19 pandemic and subsequent stay-at-home ordinances (which have been extended until the end of May) affected the real estate market?&lt;/p&gt;
 
-&lt;p&gt;To answer that, let me share a few facts with you about Zillow. As a company, they started in 2006. Prior to that, they weren’t involved in the real estate market. Last time I checked, they haven’t sold any homes, either.&lt;/p&gt;
+&lt;p&gt;Real estate has been deemed an essential service, and obviously, the health and safety of our clients is our top priority. We can still show homes by appointment only and list them, and while showing homes, we do our utmost to practice social distancing. We can’t, however, host open houses or have more than five people inside a house at the same time. &lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Zillow is basically a company that collects whatever data they can find and then puts it into their website to determine home values.&lt;/strong&gt; The one thing Zillow can’t account for is the upgrades or special features of your home. Think of it this way: has Zillow been in your home? Of course not.&lt;/p&gt;
+&lt;p&gt;Don’t buy into the myth that homes aren’t selling. &lt;strong&gt;From April 1 to April 17, 727 new listings hit the market in the Greater Milwaukee area, and 594 homes went under contract.&lt;/strong&gt; Buyers are still buying, too—especially with interest rates this low. Home sales last March increased by 8% to 10% in most areas compared to March 2019. This makes now a good time to sell. &lt;/p&gt;
 
-&lt;p&gt;Zillow’s estimates, called Zestimates, are determined by an algorithm based on comparable homes sales. In the greater Milwaukee metro area, Zestimates can be off by as much as 10% or more. Zillow even admitted that 46% of the time their Zestimates were off by at least 5% or more.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=We can still show homes by appointment only and list them, and while showing homes, we do our utmost to practice social distancing.%20http://localhost:4000/how-the-covid-19-pandemic-has-affected-our-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“We can still show homes by appointment only and list them, and while showing homes, we do our utmost to practice social distancing.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;ZILLOW’S ZESTIMATES CAN BE OFF BY AS MUCH AS 10% OR MORE.&lt;/p&gt;
+&lt;p&gt;Prices haven’t dropped, either. If anything, we’re seeing multiple offers for homes &lt;em&gt;over&lt;/em&gt; their asking price. We just sold a home in the Sussex/Lisbon area that generated four offers, all of which were over asking price. &lt;/p&gt;
 
-&lt;p&gt;As you might’ve heard by now, a homeowner in Illinois actually filed a lawsuit against Zillow because they claimed their Zestimate harmed their home sale. This may yet turn into a class action lawsuit. Zillow knows they have a problem, and they’ve gone as far as offering a $1 million prize to anyone who can fix their algorithm.&lt;/p&gt;
+&lt;p&gt;Will they eventually go down? Considering everything that’s happening with the economy. If I were a gambling man, I’d say, yes, eventually they will go down, given everything that’s happening with the economy. Everything is based on supply and demand. &lt;strong&gt;Right now, supply is low and demand is high, but after the stay-at-home ordinances are lifted, there will be a lot more people listing their homes.&lt;/strong&gt; When supply rises faster than the demand, that’s when prices drop, and I predict this drop to happen in three to six months. How far prices will drop is anyone’s guess. &lt;/p&gt;
 
-&lt;p&gt;In the 11 years since Zillow has been around, whenever I get calls from prospective buyers about homes they’ve found on Zillow, I’ve found that 35% of the time their information is inaccurate. Our website’s information, on the other hand, is 98% accurate.&lt;/p&gt;
-
-&lt;p&gt;Taking all of this into account, I wouldn’t put much credo into Zillow’s Zestimate. &lt;strong&gt;If you really want to know the value of your home, call a professional Realtor.&lt;/strong&gt; We can physically look at your home and all of its upgrades and features to provide an accurate valuation.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about Zillow or you want to know the real value of your home, don’t hesitate to reach out to me. I’d love to help you.&lt;/p&gt;
+&lt;p&gt;If you’re ready to sell or have questions about our market, don’t hesitate to reach out to me. My team and I would love to help you.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 28 Sep 2017 14:38:00 -0500</pubDate>
-        <link>localhost:4000/should-you-trust-zillow-with-your-homes.html</link>
-        <guid isPermaLink="true">localhost:4000/should-you-trust-zillow-with-your-homes.html</guid>
+        <pubDate>Thu, 23 Apr 2020 12:28:54 -0500</pubDate>
+        <link>http://localhost:4000/how-the-covid-19-pandemic-has-affected-our-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-the-covid-19-pandemic-has-affected-our-market.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trust a Seasoned Agent, Not an Algorithm</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/G6c9RIrntzY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Here’s what you should know about how Zillow determines the value of your home and why it’s flawed.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;With the growing popularity of Zillow and other instant offer sites like it comes one important question: Can you trust Zillow’s estimate of your home’s value? &lt;/p&gt;
+
+&lt;p&gt;For perspective, Zillow has only been around since 2007; I’ve been in real estate since 1981, so I think I have a leg up on Zillow. In most cases, when Zillow comes up with its valuation (known as a Zestimate), they don’t even step foot into your home, they just crunch marketplace data. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=To be honest, I don’t even think Zillow knows why it changes its figures.%20http://localhost:4000/trust-a-seasoned-agent-not-an-algorithm.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“To be honest, I don’t even think Zillow knows why it changes its figures.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Zillow uses an algorithm to estimate home value, and there’s no way for that algorithm to factor in any improvements you’ve made to the property.&lt;/strong&gt; I’ve had several people ask me, “Well, why did Zillow raise my price,” or, “Why did Zillow lower my price?” To be honest, I don’t even think Zillow knows why it changes its figures. &lt;/p&gt;
+
+&lt;p&gt;The bottom line is this: Don’t trust Zillow. What you need to do is get an experienced agent to look at the inherent benefits of and improvements to your home. Here at the Roth Team, we compare what homes like yours have recently sold for with what’s currently on the market. Then, based on your competition, we position your home so you get the highest price possible. &lt;/p&gt;
+
+&lt;p&gt;Again, don’t fret if Zillow gives you an estimate that seems leagues lower than what you feel is right. It almost certainly &lt;em&gt;is&lt;/em&gt; too low, so seek out a professional opinion. If you’re thinking of selling a home soon, don’t hesitate to reach out to me or someone else on the Roth Team. We’d be happy to sit down with you and figure out how to get you the most money for your home.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Jan 2020 15:26:00 -0600</pubDate>
+        <link>http://localhost:4000/trust-a-seasoned-agent-not-an-algorithm.html</link>
+        <guid isPermaLink="true">http://localhost:4000/trust-a-seasoned-agent-not-an-algorithm.html</guid>
+        
+        <category>Home Buyer Tips</category>
+        
+        <category>Home Seller Tips</category>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>What the Real Estate Market Will Do in 2020</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_85UwoPuDGA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;em&gt;Today I’m sharing my predictions regarding prices, inventory, interest rates and average days on market.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To bring you up to speed on our current real estate market, interest rates are still low, and we’re looking at fixed-rate mortgages as low as 3% to 3.5%. Here are my predictions on what the market will do in this new year: &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Interest rates will stay low.&lt;/strong&gt; The government said it wants to hold interest rates, so I think for at least the next six months you can expect them to stay low, but after that—you never know. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Inventory will increase.&lt;/strong&gt; As of the beginning of January, we’re seeing the lowest level of single-family homes for sale in the Milwaukee area, less than 4,000. For reference, compare this number to roughly 9,000 homes in January 2015. However, as we head into the spring and summer months, I do expect that we will see an increase. &lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=I predict that in 2020 we will see a 3% to 5% increase in prices.%20http://localhost:4000/what-the-real-estate-market-will-do-in-2020.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“I predict that in 2020 we will see a 3% to 5% increase in prices.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Median sale prices will continue to go up.&lt;/strong&gt; The rise likely won’t be as high as what we saw recently in the Milwaukee area, where prices in some cases increased by 8% to 10%. I predict that in 2020 we will see a 3% to 5% increase in prices. If inventory levels get higher, prices may even level out. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4. The average days on market will increase.&lt;/strong&gt; In most market places, the average days on market is about 30 days. The higher price-range homes (anything from $500,000 to $1 million-plus) are still taking longer to sell and aren’t going up in value as much. The average days on market in 2020 will be lengthened by an increase in inventory. &lt;/p&gt;
+
+&lt;p&gt;It’s a great time to buy a home when you consider how low the interest rates are; if you need pre-approval, contact us and we can get you set up with a lender. Sellers: take advantage of what will be the seventh year of a strong seller’s market. &lt;/p&gt;
+
+&lt;p&gt;If you would like to get a valuation on your home, give me a call or reach out to anyone at the Roth Team. We’d be happy to help you.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Jan 2020 11:56:00 -0600</pubDate>
+        <link>http://localhost:4000/what-the-real-estate-market-will-do-in-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-the-real-estate-market-will-do-in-2020.html</guid>
+        
+        <category>Market Update</category>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>5 Dangers of Overpricing Your Home</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IO53bln7Ij0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;All sellers want to get the most they can out of their home sale. However, there are some issues associated with listing your home for too high of a price. Today, I’ll be discussing the five dangers of overpricing your property.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;An overpriced home will lead to fewer showings.&lt;/strong&gt; The fewer showings you have, the fewer chances you have to get an offer on your home.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;An overpriced home will attract the wrong buyers.&lt;/strong&gt; Buyers seek out homes based on their price brackets. If your home is missing the features and amenities of other homes within the price range you’ve placed it in, buyers are going to notice. Buyers who are looking in a given price range know what they want and expect from homes. You must price your home according to its true value so that you can capture buyers who will be legitimately interested.&lt;br /&gt;&lt;a href=&quot;https://twitter.com/home/?status=Overpricing your home when you put it on the market can be a huge mistake. Today, I’ll explain why.%20http://localhost:4000/5-dangers-of-overpricing-your-home.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Overpricing your home when you put it on the market can be a huge mistake. Today, I’ll explain why.”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;An overpriced home helps your competitors.&lt;/strong&gt;If a buyer looks at your home and then visits another that is priced the same but comes with more features, your competitor’s home will look like a much better deal.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;An overpriced home takes longer to sell.&lt;/strong&gt; In some cases, overpriced homes may not sell at all.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;An overpriced home that is later reduced won’t have the same impact.&lt;/strong&gt; If you lower your home’s price after it has already been sitting on the market, it will lack the impact of a new home coming onto the market that was priced correctly from the start.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Aug 2019 12:25:00 -0500</pubDate>
+        <link>http://localhost:4000/5-dangers-of-overpricing-your-home.html</link>
+        <guid isPermaLink="true">http://localhost:4000/5-dangers-of-overpricing-your-home.html</guid>
         
         <category>Home Seller Tips</category>
         
@@ -43,70 +128,112 @@
       </item>
     
       <item>
-        <title>7 Keys to Winning a Multiple Offer Situation in Our Market</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xoPM4bsSnsA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>3 Questions To Ask Your Potential Realtor</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HQ_FdNJuyDQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;To win a multiple offer situation as a buyer in our Greater Milwaukee market, I have seven tips for you to follow.&lt;/p&gt;
+&lt;p&gt;Before saying, “You’re hired,” when interviewing a real estate agent to represent you, you’ll want to be sure they possess the hallmarks of a worthy candidate. To that end, today I’m sharing three questions you should ask any potential hire:&lt;/p&gt;
 
-&lt;p&gt;In our current market, if you see a home you like that’s a hot property in a favorable price range, there could be multiple offers for it.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;What is your list-to-sales-price ratio?&lt;/strong&gt; In our local market, this figure varies considerably—it could be anywhere from 93% to 95%. On average, our team’s ratio is at about 97%, which means we’re helping sellers net 2% to 4% more on their sale.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;What are you going to do differently to get my home sold?&lt;/strong&gt; Get an idea of the kind of unique touch they’ll give to marketing your home. It’s not enough for them to simply put your home on the MLS, stick a sign in your front yard, and hold an open house. You need to know, in no uncertain terms, what they’ll do to sell your home with a high degree of competency.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How many homes have you sold so far this year?&lt;/strong&gt; Believe or not, the average agent has sold a paltry total of three homes on the year. Unlike the average agent, we at the Roth Team have sold 200 homes and counting in 2019.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;If you find yourself in this situation and have to compete with other buyers, here are seven things you can do to make your offer the best of the bunch:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=You need to know, in no uncertain terms, what the agent will do to sell your home with a high degree of competency.%20http://localhost:4000/3-questions-to-ask-your-potential-realtor.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“You need to know, in no uncertain terms, what the agent will do to sell your home with a high degree of competency.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1. Make sure the seller knows you’re qualified.&lt;/strong&gt; The best way to do this is to get a pre-approval letter (not a pre-qualification letter) from your lender and submit it along with your offer for at least the mortgage amount or higher.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Submit a large earnest money deposit.&lt;/strong&gt; A normal deposit in today’s market is 1% of the purchase price, so make yours 2%, 3%, or even 5% of the purchase price. If your offer doesn’t get accepted, you’ll get that money back anyway.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Find out from your agent what’s important to the seller.&lt;/strong&gt; Do they prefer an earlier or later closing date? Do they want certain items excluded from the sale? Your agent can find these things out by talking to the listing agent prior to you making your offer.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Give the seller time to move.&lt;/strong&gt; I understand you want to move in as fast as possible, but normal closings take about 45 days, so if you’re expecting them to be out in 20 to 30 days, that’s unrealistic unless it’s a vacant property.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Consider shortening or waiving some of the contingencies you have.&lt;/strong&gt; For example, instead of waiting two or three weeks to do a home inspection, do it within seven days. If you think the property is good enough as it is, consider waiving the inspection altogether. The fewer contingencies you bring, the better chance your offer has of being accepted.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6. Let the seller know you love their house.&lt;/strong&gt; I suggest writing a brief letter to the seller outlining why you love their house and why they should pick you to be its buyer. And remember—be sincere.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=MAKE YOUR FIRST OFFER YOUR HIGHEST AND BEST ONE.%20localhost:4000/7-keys-to-winning-multiple-offer.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“MAKE YOUR FIRST OFFER YOUR HIGHEST AND BEST ONE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;7. Make a good offer.&lt;/strong&gt; Make your highest and best offer now because you may not get countered. Excuse the listing price and have your agent do a comparative market analysis—sometimes properties are priced below market value, and you may have to offer thousands of dollars more to get that property.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about getting your next home in today’s competitive market, don’t hesitate to reach out to us. We’d be happy to assist you.&lt;/p&gt;
+&lt;p&gt;Given that this is the largest financial transaction of your life, it’s infinitely important for you to be happy with the agent you choose to go with. If you have any questions you’d like to ask us, go ahead and give us a call. We’d be happy to serve your real estate needs!&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Sep 2017 15:27:00 -0500</pubDate>
-        <link>localhost:4000/7-keys-to-winning-multiple-offer.html</link>
-        <guid isPermaLink="true">localhost:4000/7-keys-to-winning-multiple-offer.html</guid>
+        <pubDate>Thu, 25 Apr 2019 17:28:59 -0500</pubDate>
+        <link>http://localhost:4000/3-questions-to-ask-your-potential-realtor.html</link>
+        <guid isPermaLink="true">http://localhost:4000/3-questions-to-ask-your-potential-realtor.html</guid>
         
-        <category>Home Buyer Tips</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Greater Milwaukee Area Market Update</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/56PFENvB7To?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>How to Handle the Issue of Buyer Repair Requests</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bu0-J4qipZU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Today I wanted to give you a market update on how the market has been doing the last seven months.&lt;/p&gt;
+&lt;p&gt;Sellers often ask me, “What should I do if a buyer finds a defect in my home? Should I fix the defect, give the buyer a credit, or can I sell the home as-is?”&lt;/p&gt;
 
-&lt;p&gt;Now that we’re into August, I thought I would take some time to give you a market update recapping the last seven months of this year. I’ve laid out the current statistics compared to this time last year below.&lt;/p&gt;
+&lt;p&gt;Well, &lt;strong&gt;the answer to that question is best determined by you and the buyer&lt;/strong&gt;. When the buyer hires a professional inspector, that inspector must cite everything they see; if they do find a defect, that must be disclosed on their report to not only that buyer, but also to any other buyer you’re selling to.&lt;/p&gt;
 
-&lt;p&gt;IF YOU’RE THINKING OF SELLING, NOW IS THE TIME TO DO SO.&lt;/p&gt;
+&lt;p&gt;In most instances as a seller, you’ll likely have to fix that defect because most buyers aren’t willing to assume that problem, unless you inform them upfront and they have the ability to fix it before they close. Cash buyers may be able to do it after closing, but &lt;strong&gt;most lenders will require the defect to be fixed before they actually close.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;• Number of homes available for sale is down by 12%
-• Number of days on market decreased from 61 to 39 days
-• Number of listings also decreased by 2%
-• Number of homes sold is down 9%, mostly due to low inventory
-• Median sales price has increased 5% to 6% in the metro area
-  • Milwaukee County sales price is $160,000
-  • Waukesha County sales price is $308,000
-  • Washington County sales price is $255,000
-  • Ozaukee County sales price is $305,000
-  • Racine County sales price is $171,000&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=In most instances as a seller, you’ll likely have to fix that defect because most buyers aren’t willing to assume that problem.%20http://localhost:4000/how-to-handle-the-issue-of-buyer-repair-requests.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“In most instances as a seller, you’ll likely have to fix that defect because most buyers aren’t willing to assume that problem.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Inventory is low and prices are going up—so if you’ve been thinking of selling, now is the time to do so. Based on these statistics, we’re in a firm seller’s market in the metro area. For buyers, the interest rates are still low and you can find a great deal on a mortgage if you’re looking to buy.&lt;/p&gt;
+&lt;p&gt;But what happens if sellers don’t have the funds to fix the problem before closing? We have contractors we can work with who will figure out where the repair would be done, and then &lt;strong&gt;the cost would be taken out of your closing proceeds.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;If you have any questions on the market or you’re looking to buy or sell a home, please give us a call. We’d be happy to help!&lt;/p&gt;
+&lt;p&gt;Your other option, besides fixing the defect, would be to &lt;strong&gt;offer a credit to the buyer&lt;/strong&gt;. That way, you could proceed with the sale and the buyer could make the repair after closing, assuming their lender will accept them taking that credit.&lt;/p&gt;
+
+&lt;p&gt;If you have questions about inspections and the defects that are likely to come up on the inspection reports, feel free to reach out to us anytime. We’d be happy to address any concerns you have.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 14 Aug 2017 16:03:00 -0500</pubDate>
-        <link>localhost:4000/milwaukee-real-estate-market-update.html</link>
-        <guid isPermaLink="true">localhost:4000/milwaukee-real-estate-market-update.html</guid>
+        <pubDate>Mon, 15 Apr 2019 15:30:12 -0500</pubDate>
+        <link>http://localhost:4000/how-to-handle-the-issue-of-buyer-repair-requests.html</link>
+        <guid isPermaLink="true">http://localhost:4000/how-to-handle-the-issue-of-buyer-repair-requests.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do You Need to Attend Your Home’s Showings?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/gBwd3bpv5vY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Today I thought I’d answer a question that I’m often asked by sellers: &lt;strong&gt;“Should I be present during my home’s showings?”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Some times, sellers think they know their home more than their agent and can share that information with the buyer. &lt;strong&gt;However, when the seller is present at a showing, it can and does make the buyer a little uncomfortable.&lt;/strong&gt; If you’re not there, they’ll be more comfortable, honest, and open. If you’re there, the buyer might be afraid to give that honest feedback because they don’t want to offend you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Let the agent handle the selling of your home.%20http://localhost:4000/do-you-need-to-attend-your-homes-showings.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Let the agent handle the selling of your home.”&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You don’t have to be gone when they get there, but leave during the showing for a half hour or hour. &lt;strong&gt;You also want to make sure all the lights are on and all the blinds are open so you get as much natural daylight as possible in the house.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In the end, let the agent handle the selling of your home. If they’re an experienced professional, it will be no problem and will lead you to happy results. If you have any other questions for me in the meantime, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Apr 2019 15:07:05 -0500</pubDate>
+        <link>http://localhost:4000/do-you-need-to-attend-your-homes-showings.html</link>
+        <guid isPermaLink="true">http://localhost:4000/do-you-need-to-attend-your-homes-showings.html</guid>
+        
+        <category>Real Estate</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>You Really Don’t Want to Make Any of These 10 Homebuying Blunders</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/KWxsO1CHa-E?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The homebuying process can be complicated, but it’s compounded when the buyer acts without the proper knowledge of what they’re doing. They may seem like common sense to avoid, but believe it or not, the following 10 mistakes to avoid have actually happened in transactions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Financing new purchases after applying for a mortgage.&lt;/strong&gt; You absolutely do not want to make any other major purchases while you’re in the process of getting a mortgage for a home, including a car, furniture, or the like. This will affect your credit, possibly damaging your chances of getting a mortgage altogether.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Applying for new credit.&lt;/strong&gt;  Do not apply for any other type of credit during the process, be it for a different loan or a new credit card.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Racking up credit card debt.&lt;/strong&gt; Avoid increasing your current debt on your credit card(s) or risk sending up red flags in your mortgage lender’s eyes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Changing jobs or reducing your hours.&lt;/strong&gt; Keep your current job and hours, if at all possible.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Switching banks or making large transfers.&lt;/strong&gt; Your down payments will need to be verified at the bank you had when you applied for your home loan; switching banks will derail the process. Large transfers can also be suspicious to lenders.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Making late credit card, installment, or utility payments.&lt;/strong&gt; The key to great credit is consistent, timely payments; late payments bring your score on your report down.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Co-signing on a loan for anyone.&lt;/strong&gt; Even if that other person is a family member or a loved one, co-signing on a loan while you’re in the mortgage process will affect your ability to get a loan yourself.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Neglecting to list your debt on your loan application.&lt;/strong&gt; It will show up on your credit report regardless, so be upfront when you apply for your loan.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Making large deposits into your bank account.&lt;/strong&gt; Your lender will need to verify where those funds came from.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spending your closing money…before closing.&lt;/strong&gt; Believe it or not, this happened to a buyer during a transaction. That money needs to be set aside for the purchase of the home and spending it early defeats the purpose and only hurts your ability to buy that home.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you can avoid these 10 home buying mistakes once your offer is accepted and you begin applying for financing, the entire process should go over smoothly for you.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=Avoid increasing your current debt on your credit card(s) or risk sending up red flags in your mortgage lender’s eyes.%20http://localhost:4000/you-really-dont-want-to-make-any-of-these-10-homebuying-blunders.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“Avoid increasing your current debt on your credit card(s) or risk sending up red flags in your mortgage lender’s eyes.”&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;For any questions about these mistakes or about home financing in general, please feel free to reach out to us. We’d be more than glad to help you out.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Mar 2019 09:32:00 -0600</pubDate>
+        <link>http://localhost:4000/you-really-dont-want-to-make-any-of-these-10-homebuying-blunders.html</link>
+        <guid isPermaLink="true">http://localhost:4000/you-really-dont-want-to-make-any-of-these-10-homebuying-blunders.html</guid>
+        
+        <category>Real Estate</category>
+        
+        <category>Home Seller Tips</category>
+        
+        <category>Home Buyer Tips</category>
         
         <category>Market Update</category>
         
@@ -114,220 +241,48 @@
       </item>
     
       <item>
-        <title>How to Get Rid of Harmful Radon Gas</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/C9bDR9APZwA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>What Will Our 2019 Market Look Like?</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7_DB3BqPCx4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Radon gas can be very harmful. Here’s how to make sure the levels in your home are acceptable.&lt;/p&gt;
+&lt;p&gt;Now that we’ve entered the new year, let’s take a moment and share our predictions for what lies ahead. There are four main things we can expect moving forward.&lt;/p&gt;
 
-&lt;p&gt;Over 50% of the houses we sell have radon gas inspections done. Eric Clark from Lifetime Radon Solutions is here with us to talk a little bit about radon gas, what it is, and how you can treat it if the levels of radon in your home get too high.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=What’s happening now in our local real estate market, and how will things play out through the rest of this year? Find out in today’s message.%20http://localhost:4000/what-will-our-2019-market-look-like.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“What’s happening now in our local real estate market, and how will things play out through the rest of this year? Find out in today’s message.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Radon is an invisible, odorless, colorless gas. We know it’s there, but we don’t know it’s there. It’s a naturally occurring radioactive gas that comes from uranium in the soil and is concentrated in the home. &lt;strong&gt;The midwest is notorious for high levels of radon. Wisconsin is right up there.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Interest rates will probably rise.&lt;/strong&gt; Though rates are still historically low, they are set to go up at least twice in 2019. Now may be the time to lock in rates while they’re still between 4.5% and 5%.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inventory will increase.&lt;/strong&gt; It’s likely that more homes will soon hit our market, meaning buyers will have greater choice in the near future.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The average days on market will go up.&lt;/strong&gt; Even in hot price ranges, the increase in inventory will likely cause homes to sit on the market for longer periods of time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;prices are going to level out or flatten.&lt;/strong&gt; Brokers throughout the country have already reported this trend, and our midwest market is sure to see similar conditions soon.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Radon can’t be seen or smelled, but it can be measured and it can have consequences. Behind smoking, radon gas is the 2nd leading cause of lung cancer in the U.S. Every house has radon, it’s just a matter of how much. &lt;strong&gt;The EPA recommends action for any radon levels above 4 pCi/L.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=A SOLUTION TO A DANGEROUS PROBLEM.%20localhost:4000/how-to-get-rid-of-harmful-radon-gas.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“A SOLUTION TO A DANGEROUS PROBLEM.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lifestyle Radon Solutions offers radon mitigation systems and they can install them in a number of ways. They draw the radon gas out from the home by creating a negative pressure that gets the gas out before it even enters the home. They guarantee that your radon levels will be below 4 pCi/L with one of their systems.The price range for one of these systems is anywhere from $845 to $1305.&lt;/p&gt;
-
-&lt;p&gt;So &lt;strong&gt;even if you have high radon levels in your home, it is fixable.&lt;/strong&gt; If you have any questions for Eric about Lifestyle Radon Solutions and any of the services or products they offer, give him a call at (262)-955-7701. If you have any other real estate questions, don’t hesitate to reach out to us anytime. We look forward to hearing from you.&lt;/p&gt;
+&lt;p&gt;If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 25 Jul 2017 10:20:00 -0500</pubDate>
-        <link>localhost:4000/how-to-get-rid-of-harmful-radon-gas.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-get-rid-of-harmful-radon-gas.html</guid>
+        <pubDate>Fri, 25 Jan 2019 04:00:00 -0600</pubDate>
+        <link>http://localhost:4000/what-will-our-2019-market-look-like.html</link>
+        <guid isPermaLink="true">http://localhost:4000/what-will-our-2019-market-look-like.html</guid>
         
-        <category>Home Seller Tips</category>
+        <category>Real Estate</category>
         
         
       </item>
     
       <item>
-        <title>Can a Home Warranty Help Sell Your House?</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/rj5K2IyBiMI?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+        <title>Summing Up the 2018 Real Estate Market</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/z_1zsKQT36s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Getting a home warranty is absolutely a good idea if you’re a home seller, and here’s why.&lt;/p&gt;
+&lt;p&gt;In 2018, &lt;strong&gt;we saw the number of homes that actually sold in the Greater Milwaukee area drop about 2.5%&lt;/strong&gt; compared to 2017. Interestingly enough, the number of listings that came on the market was also down almost 5%, meaning there were fewer homes available for buyers to choose from. Overall, in &lt;strong&gt;most marketplaces, we saw prices go up anywhere from 5% to 6%.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Should you use a home warranty to help sell your house?&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=With all the buyers trying to lock in a home before the interest rates go up again, now is the time to put your home on the market, even before Spring.%20http://localhost:4000/summing-up-the-2018-real-estate-market.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“With all the buyers trying to lock in a home before the interest rates go up again, now is the time to put your home on the market, even before Spring.”&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Yes, I strongly recommend that you do. &lt;strong&gt;Getting a home warranty offers many advantages to a home seller.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With interest rates expected to rise again this year, we expect a lot more homes to come on the market, especially in the spring—&lt;strong&gt;there could be 25% to 30% more homes available.&lt;/strong&gt; With all the buyers trying to lock in a home before the interest rates go up again, now is the time to put your home on the market, even before Spring.&lt;/p&gt;
 
-&lt;p&gt;For example, we work with a company out of Madison called Home Security of America. They provide warranties on the sale of used or existing homes just like a builder would on a new construction home. Typically, a builder would cover you for one year after closing, and the same thing applies with Home Security of America’s warranty.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=GETTING A HOME WARRANTY HELPS SELL YOUR HOUSE.%20localhost:4000/can-home-warranty-help-sell-your-house.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“GETTING A HOME WARRANTY HELPS SELL YOUR HOUSE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Their warranty covers any major problem with the plumbing, the electrical, the heating, the air conditioning, the appliances in the house, etc. The seller also gets free coverage while the home is listed for plumbing, electrical, and the water heater. On a single-family home, the cost for full coverage is typically $564.&lt;/p&gt;
-
-&lt;p&gt;The most obvious benefit of getting a home warranty is that &lt;strong&gt;it helps sell your home.&lt;/strong&gt; If your home has a warranty and one of the other properties your prospective buyer is looking at doesn’t, that may sway them to buy yours. Secondly, getting a home warranty provides is peace of mind—not just for the buyer, but for you too. If something goes wrong in the home, it can be fixed or replaced by the warranty company with a nominal deductible.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about home warranties or you’re thinking about buying or selling a home, feel free to give us a call. We’d be glad to assist you.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;The Roth Team had one of its best years in 2018—we closed on 245 homes, and our overall sales were up close to 15%. For that success, &lt;strong&gt;we thank you&lt;/strong&gt;, our past and current clients, for all your referrals and your business.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 02 Jun 2017 14:46:00 -0500</pubDate>
-        <link>localhost:4000/can-home-warranty-help-sell-your-house.html</link>
-        <guid isPermaLink="true">localhost:4000/can-home-warranty-help-sell-your-house.html</guid>
+        <pubDate>Fri, 25 Jan 2019 04:00:00 -0600</pubDate>
+        <link>http://localhost:4000/summing-up-the-2018-real-estate-market.html</link>
+        <guid isPermaLink="true">http://localhost:4000/summing-up-the-2018-real-estate-market.html</guid>
         
-        <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>How to Avoid 7 Common Home Selling Mistakes</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/xN_bGTr8mjA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;There are seven big mistakes that I commonly see people make when selling their house. Here’s how to avoid them.&lt;/p&gt;
-
-&lt;p&gt;When you sell your house, there are some common mistakes that I see too many sellers make:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Picking the wrong agent:&lt;/strong&gt; Most people pick an agent they know or a relative rather than one with proven track record who sells homes full time and has experience in the area.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Overpricing the home:&lt;/strong&gt; There’s a fine line between getting the best price and asking too much and selling too cheaply in the end. Get a professional’s opinion on the value of your house and listen to them!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Not making simple repairs to their home like cleaning and new paint:&lt;/strong&gt; Some sellers don’t even want to replace minor things like missing fixtures or handrails. A good agent can advise you on what to repair.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Too much clutter:&lt;/strong&gt; We all have too much stuff, so get rid of all that clutter when selling.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=GIVE BUYERS AN ENVIRONMENT THAT LETS THEM OPEN UP TO THEIR AGENT ABOUT YOUR HOME.%20localhost:4000/how-to-avoid-7-common-home-selling.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“GIVE BUYERS AN ENVIRONMENT THAT LETS THEM OPEN UP TO THEIR AGENT ABOUT YOUR HOME.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Not allowing adequate access:&lt;/strong&gt; Most buyers will want to see your home by appointment, and sometimes they might want to see it on shorter than a day’s notice. Let them in; they’re ready, willing, and able buyers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6. Staying during a showing:&lt;/strong&gt; You want to leave while a buyer looks at your home so they have an environment where they can open up to their agent and ask questions without feeling like they’re intruding on your privacy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;7. Leaving pets in the house during showings:&lt;/strong&gt; Cats and dogs are great, but they can be a distraction.&lt;/p&gt;
-
-&lt;p&gt;If you’re thinking about selling your house or you have any questions at all about real estate, don’t hesitate to give us a call or send us an email. We’re here to help.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 10 May 2017 15:32:00 -0500</pubDate>
-        <link>localhost:4000/how-to-avoid-7-common-home-selling.html</link>
-        <guid isPermaLink="true">localhost:4000/how-to-avoid-7-common-home-selling.html</guid>
-        
-        <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Improve Your Credit Score When Buying a Home Using These 4 Tips</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/M6ipd6nbCh8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Today I’m going over four tips for improving your credit when applying for a home loan.&lt;/p&gt;
-
-&lt;p&gt;How can you improve your credit score when applying for a house loan?&lt;/p&gt;
-
-&lt;p&gt;First, &lt;strong&gt;don’t open or close any credit accounts&lt;/strong&gt;, as that will lower your score.&lt;/p&gt;
-
-&lt;p&gt;Second, &lt;strong&gt;check your credit card balances.&lt;/strong&gt; You want to keep your credit card balance at 25% or less or if you can, pay off the cards each month.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU WANT TO KEEP YOUR CREDIT CARD BALANCE AT 25% OR LESS.%20localhost:4000/improve-your-credit-score-when-buying.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU WANT TO KEEP YOUR CREDIT CARD BALANCE AT 25% OR LESS.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Third, this may be common sense, &lt;strong&gt;but don’t switch jobs.&lt;/strong&gt; You generally need two years in the same line of work and one year with the same employer.&lt;/p&gt;
-
-&lt;p&gt;Finally, &lt;strong&gt;don’t buy new furniture or a car until after you’ve purchased the home&lt;/strong&gt;. Those types of big purchases could significantly affect your credit score.&lt;/p&gt;
-
-&lt;p&gt;If you have any questions about buying a home or getting a better credit score, please feel free to give me a call or send me an email. I’m more than happy to help!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 27 Apr 2017 11:44:00 -0500</pubDate>
-        <link>localhost:4000/improve-your-credit-score-when-buying.html</link>
-        <guid isPermaLink="true">localhost:4000/improve-your-credit-score-when-buying.html</guid>
-        
-        <category>Home Buyer Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Should You Worry About Rising Interest Rates? </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/wd4eqxGaJ0o?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Should you be concerned about the impact rising interest rates will have on the current real estate market?&lt;/p&gt;
-
-&lt;p&gt;As you probably know, over the last couple of months, interest rates have been on the rise. &lt;strong&gt;Should you worry about these increasing rates?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the past couple of months, fixed-rate mortgages have gone up just over 0.5%. Rates can be as high as 4.25% and as low as 3.5%.&lt;/p&gt;
-
-&lt;p&gt;In real terms, this rise in rates means that if you took out a 30-year mortgage on a $250,000 home, you would pay as much as $100 more each month and pay an additional $35,000 over the life of the mortgage. That is a sizable chunk, so some people are nervous that increasing rates will slow down the market.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=OUR MARKET IS NOT GOING TO SLOW DOWN ANYTIME SOON.%20localhost:4000/should-you-worry-about-rising-interest.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“OUR MARKET IS NOT GOING TO SLOW DOWN ANYTIME SOON.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;However, the market is not about to slow down anytime soon. Why? Historically speaking, these rates are still incredibly low. Back in the 90s, rates were as high as 10%. In the 80s, interest rates were at 16%! As you can see, these 4.25% rates are still incredibly low.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What does that mean for you?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;As a buyer, these low rates create a great opportunity for you to buy an amazing home, which is way better than renting.&lt;/p&gt;
-
-&lt;p&gt;If you want to sell your home, you are in a great position to do so quickly and get top dollar.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about interest rates and our current market, give me a call. I would be happy to help you!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 17 Mar 2017 14:59:00 -0500</pubDate>
-        <link>localhost:4000/should-you-worry-about-rising-interest.html</link>
-        <guid isPermaLink="true">localhost:4000/should-you-worry-about-rising-interest.html</guid>
-        
-        <category>Market Update</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>5 Tips for Selling a Home With Pets</title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/_ixdszRtVG8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you’re selling your home and you have pets, follow these tips to appeal to more buyers.&lt;/p&gt;
-
-&lt;p&gt;I thought I’d take some time today to talk a little bit about selling a home with pets. I’ve got five steps that will help you prepare your home for sale while your pets are living there, too. &lt;strong&gt;Whether you have a cat, dog, bird, or any other animal, follow these tips:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Get the pet(s) out of the home before showings.&lt;/strong&gt; Whether buyers love or hate your pet, they are going to be a distraction during the showing. The best thing to do is have a doggy daycare, a family member, friend, or neighbor watch the pet while there is a showing going on. If you have no other option but to keep them in the house, make sure they are put in a kennel.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Hide evidence of pets.&lt;/strong&gt; This includes food and water bowls, leashes, and toys. Eliminate any pictures of your pets and other signs that suggest you have them.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Clean up any pet mess.&lt;/strong&gt; Be conscious of their hair, stains, and any other damage they may have caused in your house.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. Remove any odors.&lt;/strong&gt; Ask your agent or someone who doesn’t come to your house regularly if they notice any pet odors. If they do, fix it. Odors can linger in places like the carpet, a bed, or furniture. Clear those odors out with fresh air as opposed to air freshener.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=ODORS CAN LINGER IN CARPET OR FURNITURE.%20localhost:4000/5-tips-for-selling-home-with-pets.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“ODORS CAN LINGER IN CARPET OR FURNITURE.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. Prepare your yard.&lt;/strong&gt; This could be one of the best selling features in your house, so you want to make sure all waste is picked up and repair any damage to  grass.&lt;/p&gt;
-
-&lt;p&gt;If you want to sell your home and you have a pet, it’s much easier if you follow these steps. If you have any questions for us, give us a call or send us an email. We look forward to hearing from you soon.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 16 Dec 2016 13:00:00 -0600</pubDate>
-        <link>localhost:4000/5-tips-for-selling-home-with-pets.html</link>
-        <guid isPermaLink="true">localhost:4000/5-tips-for-selling-home-with-pets.html</guid>
-        
-        <category>Home Seller Tips</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>5 Crucial Questions to Ask When Interviewing Agents </title>
-        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7NxdpODz5hM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you are looking for a real estate agent, it is vitally important that you ask them these five questions before giving them the important job of selling your home.&lt;/p&gt;
-
-&lt;p&gt;Despite what most people think, not all agents are created equal.&lt;/p&gt;
-
-&lt;p&gt;Are all attorneys the same? Are all CPAs the same? Are all doctors the same? Of course not.&lt;/p&gt;
-
-&lt;p&gt;So, how can you make sure that you hire the right real estate agent? I recommend asking them these five questions:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. How many homes have you sold so far this year?&lt;/strong&gt; You should also ask how many homes they sold the previous year. Why? The average agent sells fewer than three homes in a calendar year, which means that they probably don’t know much about real estate. At the Roth Team, we’ve sold 175 homes so far this year; last year, we sold 236 homes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. What is your average list to sales price ratio?&lt;/strong&gt; In other words, how close is the purchase price to the asking price? Some agents offer a lower commission because they will give your house away. They let the buyer negotiate the price down. Our average list to sales price ratio is 98.4%, which is very close to asking price.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://twitter.com/home/?status=YOU NEED AN EXPERIENCED AGENT WHO WORKS FULL-TIME.%20localhost:4000/5-crucial-questions-to-ask-when.html%20via%40&quot; target=&quot;_blank&quot; class=&quot;pullquote&quot;&gt;“YOU NEED AN EXPERIENCED AGENT WHO WORKS FULL-TIME.”&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. What is the average days on market for the homes you list and sell?&lt;/strong&gt; Of course, if it takes an agent six months to a year to sell homes, they are wasting time and money. This year, our homes spent an average of 48 days on the market.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4. How many years of experience do you have?&lt;/strong&gt; Do they have another job? Quite honestly, many agents do not make enough money to support their income in real estate. Many agents have less than three to five years of experience in the market. I’ve been doing this full-time for 35 years. Experience counts; it can really make a difference when it comes to selling your home.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5. How many people will you talk to every day to sell my home?&lt;/strong&gt; Every agent puts your home on the MLS, throws it on a few websites, and takes out an ad in the paper. Some agents may even hold open houses. However, those methods are not good enough. They need to personally contact potential buyers every day. We call that active marketing. Our team contacts as many as 100 people a day to get your home sold.&lt;/p&gt;
-
-&lt;p&gt;If you have any other questions about real estate, please don’t hesitate to give us a call or send us an email. My team and I would be happy to help you!&lt;/p&gt;
-</description>
-        <pubDate>Thu, 17 Nov 2016 11:50:00 -0600</pubDate>
-        <link>localhost:4000/5-crucial-questions-to-ask-when.html</link>
-        <guid isPermaLink="true">localhost:4000/5-crucial-questions-to-ask-when.html</guid>
-        
-        <category>Home Buyer Tips</category>
+        <category>Real Estate</category>
         
         
       </item>
