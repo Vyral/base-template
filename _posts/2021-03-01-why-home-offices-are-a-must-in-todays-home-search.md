@@ -24,6 +24,6 @@ When the real estate market reignited in the summer of 2020 and the nation’s w
 
 {% include pullquote.html %}
 
-If you’re a seller who doesn’t have any extra bedrooms, consider marketing a small storage room as an office. One investment that might actually be worthwhile in that case would be a glass door instead of a solid one; the more light coming into the office, the better. If you already installed a home office years ago and were thankful for it all throughout 2020, know that buyers will be thankful for it, too. **If you were to list soon, your home would absolutely have an edge against others on the market.&nbsp;**
+If you’re a seller who doesn’t have any extra bedrooms, consider marketing a small storage room as an office. One investment that might be worthwhile in that case would be a glass door instead of a solid one; the more light coming into the office, the better. If you already installed a home office years ago and were thankful for it throughout 2020, know that buyers will be thankful for it, too. **If you were to list soon, your home would absolutely have an edge against others on the market.&nbsp;**
 
 As always, if you have questions about this or any other real estate topic, don’t hesitate to reach out to us via phone or email. We’re here to help, and we’d love to hear from you soon\!
