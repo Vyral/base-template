@@ -9,8 +9,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/03-02_ROSADO_YOUTUBE.jpg
 youtube_code: RXgPsAZJSdo
 ---
 {% include youtube.html %}
