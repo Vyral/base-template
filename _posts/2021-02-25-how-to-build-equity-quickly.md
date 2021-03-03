@@ -11,12 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/02-25-canady-youtube-1.jpg
-youtube_code: c4e4Knsk8yI
+youtube_code: Y1AiogHhrRM
 ---
 
 {% include youtube.html %}
 
-<center style="font-size: 18px;"><em>Today I&rsquo;m sharing three ways to build up the equity in your home faster.</em></center>
+<center style="font-size: 18px;"><em>Today I'm sharing three ways to build up the equity in your home faster.</em></center>
 
 <br>Today I’m discussing equity; the more equity you have, the more cash you get when you sell your home. You can also take out a loan against some of your house’s equity and use it on something you want or need. There are three quick ways to build equity:
 
