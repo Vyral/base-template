@@ -9,7 +9,6 @@ pullquote: Knowledge is power; as Realtors, we’re your greatest resource.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-29-20yt.jpg
 youtube_code: V1bhLSSajd4
 ---
 
