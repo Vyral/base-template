@@ -8,7 +8,6 @@ excerpt: Here are the things you should and shouldn’t spend money on when sell
 pullquote: Knowledge is power; as Realtors, we’re your greatest resource. 
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
 youtube_code: V1bhLSSajd4
 ---
 
