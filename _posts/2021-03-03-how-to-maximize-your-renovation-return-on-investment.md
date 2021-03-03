@@ -22,12 +22,19 @@ youtube_code: RXgPsAZJSdo
 **Follow along in the video above or use the timestamps below to navigate the discussion at your leisure:**
 
 0:50 — No. 1: Patching and painting
+
 1:43 — Important painting items to address
+
 2:40 — No. 2: Refinishing your hardwood floors and replacing your carpet
+
 3:49 — The benefits of replacing carpets
+
 5:00 — No. 3: Re-caulk and reseal your bathrooms and kitchens
+
 6:10 — Update your lights
+
 6:50 — Focus on minor window imperfections
+
 7:14 — Have your home thoroughly cleaned
 
 I’ve been doing this for over 12 years now, and I can confidently say that the sellers who took my advice on this had no problems selling their homes at all.
