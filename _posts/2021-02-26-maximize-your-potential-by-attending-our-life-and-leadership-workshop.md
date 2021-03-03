@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Maximize Your Potential at Our Zoom Class for a Scholarship Opportunity
+title: Maximize Your Potential by Attending Our Life and Leadership Workshop!
 date: 2021-02-26 00:00:00
 tags:
   - Real Estate
@@ -14,7 +14,6 @@ youtube_alternate_image: /uploads/02-25-wolek-youtube.jpg
 youtube_code: 6FC6HSGQ4zk
 hidden: false
 ---
-
 {% include youtube.html %}
 
 <center style="font-size: 18px;"><em>You&rsquo;re invited to our upcoming workshop and to apply for a scholarship.</em></center>
