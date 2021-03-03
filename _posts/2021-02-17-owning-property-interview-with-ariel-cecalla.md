@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Owning Property: Interview with Ariel Cecalla'
+title: 'Owning Property: Interview with Arielle Cecala'
 date: 2021-02-17 14:19:32
 tags:
   - Real Estate
