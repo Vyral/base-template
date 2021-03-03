@@ -1,39 +1,35 @@
 ---
 layout: post
-title: Upgrades to Make When Selling
-date: 2021-01-28 00:00:00
+title: Understanding the Real Value of a Buyer’s Agent
+date: 2021-03-03 00:00:00
 tags:
-  - Home Seller Tips
   - Real Estate
 excerpt: Here are the things you should and shouldn’t spend money on when selling.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Alex+Yu/2021/Alex+Yu+SpendMoneyBeforeSelling.mp4
-pullquote: Focus on the areas buyers will concentrate on the most.
+pullquote: Knowledge is power; as Realtors, we’re your greatest resource. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/12-29-20yt.jpg
-youtube_code: 7zexXSACcvs
+youtube_code: V1bhLSSajd4
 ---
 
 {% include youtube.html %}
 
-<center><em>Here are the things you should and shouldn&rsquo;t spend money on when selling.</em></center>
-
+<center><em>Here’s a little bit about what we Realtors actually do for our clients </em></center>
 &nbsp;
 
-What improvements should and shouldn’t you spend money on before you list your home for sale? Some updates will net you more, while others will cost you.
+As Realtors, we do a lot more than people often assume. (Note: It’s pronounced “REEL-TOR,” not “REEL-UH-TOR”). It’s not our sole job as buyer’s agents to simply help you search online for a home. If it were, we’d be rendered obsolete by the vast amount of technology and resources available to the average buyer today. 
 
-You want to focus on the areas buyers will concentrate on the most. **From the moment they walk into your house, the predominant thing they’ll see is the main floor living area.** Focus on creating a personality in the main living area; installing updated floors such as vinyl planking will help. The other area to concentrate on is the kitchen because it’s where people gather; many of us center our lives around food\! You could paint the cabinets, install new cabinets, change the countertops, or you may want to do a full renovation to create a more open floor plan.&nbsp;
+Nor is our job to drive people around and provide access to different properties. If that were the case, we’d basically be Uber drivers. Rather, **our real role is to be an education partner;** we can break down exactly what we’re seeing day by day in the market and show buyers how certain trends square with their real estate goals. 
 
-Second-most important to focus on is the master bedroom and bathroom because **people looking at the home will remember the areas they will spend the most time in**, and for many, that’s the master suite. No matter which area you’re upgrading, only spend money on what will get you a great return on your investment.
+It’s also to hone in on a buyers’ motivation and find out exactly what they’re looking for a home. Do they need a spacious backyard for the kids to run around and play with the dog? Do they need multiple bedrooms for a home office or custom classroom? Do they put a premium on the ability to relax poolside? 
 
 {% include pullquote.html %}
 
-So what shouldn’t you do? There’s no need to overhaul secondary bathrooms—don’t spend a ton of money on them. You also don’t need to update the major systems such as the heating and air conditioning systems and water heater. 99% of buyers will ask for a home warranty plan, which will cover all those major systems and protect the seller. Requests for repairs on these systems can be negotiated later.&nbsp;
+Once we help you identify a property you like, our job is to then coach you on how to protect your deposit and manage the risk involved with making a winning offer. An offer isn’t just an expression of interest—it’s the basis for a legally binding contract. The contract details the financial and time-sensitive responsibilities of each party in the transaction. **It’s imperative that buyers and sellers alike understand their obligations up front.** 
 
-Additionally, **painting accent walls or adding wainscoting or crown molding isn’t necessary.** These will help a house sell quicker, but they won’t net you more money.&nbsp;
+Beyond that, it’s our duty as buyer’s agents to provide additional insight into things that buyer clients may never have known about otherwise. In other words, we contact the seller’s listing agent to learn about their top priorities (which often entail more than just fetching top dollar for their home). We go above and beyond to find out all of the information that’s not on the page, if you will. How many offers are there on this property? Is it priced above, at, or slightly below market? These are all the things you need to know as a buyer. 
 
-There are different levels of home refurbishment, but if you’re considering selling in 2021 or later, you may want to choose medium-level enhancements so you can enjoy them before putting your property on the market. Before you make any large decisions, feel free to reach out to us because we have access to excellent contractors who can put the finishing touches on your home to ensure a better sale. If you do what matters most to buyers, you’ll be in a position of strength and can call the shots.
+Our existing knowledge of market systems and ability to uncover new information is what allows us to **empower our clients to make good decisions.** Some dismiss Realtors as glorified salespeople. In reality, our craft isn’t the art of selling you on why you should work with us; it’s selling the other agents out there on why they should accept your offer above all the rest. 
 
-If you have any questions or you’re thinking of buying or selling next year, contact us via phone or email. We’re here to be with you each step of the way.
+As always, if you have further questions on this or any other real estate topc, please reach out via phone or email. We’d love to hear from you and learn about your specific buying or selling needs. 
