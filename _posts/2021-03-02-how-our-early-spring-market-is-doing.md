@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/3-2-huebner-yt.jpg
-youtube_code: Wta4Eem-o04
+youtube_code: DqjuOB0C1FY
 ---
 {% include youtube.html %}
 
@@ -23,6 +23,6 @@ We’re seeing multiple offers on the majority of houses; the most we’ve seen 
 
 {% include pullquote.html %}
 
-Just because sellers are receiving so many offers doesn’t mean it’s an easy sale; if you’re getting 62 offers for your home, where do you even start when trying to choose just one? You still need to prepare your house for sale—in that regard, you need to treat this like a typical market. We’re seeing many sellers feel they need to rush to list, but **it’s still crucial for the property to be ready and for you to be mentally ready for the market** because things move extremely quickly. 
+Just because sellers are receiving so many offers doesn’t mean it’s an easy sale; if you’re getting 62 offers for your home, where do you even start when trying to choose just one? You still need to prepare your house for sale—in that regard, you need to treat this like a typical market. We’re seeing many sellers feel the need to rush their listing, but **it’s still crucial for the property to be ready and for you to be mentally ready for the market** because things move extremely quickly. 
 
 If we can answer any questions or you want to discuss a possible move in your future, feel free to give us a call or send an email. Also, let us know if you have a blog topic you’d like us to cover. We look forward to hearing from you.
