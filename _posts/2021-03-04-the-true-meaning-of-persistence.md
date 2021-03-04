@@ -15,6 +15,8 @@ youtube_code: EjGLsjmN3nU
 ---
 {% include youtube.html %}
 
+<p style="text-align:center;">In this excerpt of a recent interview, I share the real meaning of persistence.</p>
+
 When I first started out in real estate, everyone kept saying to me, “You need to get a real job,” but real estate was my dream job. Some would describe sticking with it as a part-time job for six years as “stubbornness,” but I’d call it “persistence.” If you have a dream that you’re serious about and want to live the entrepreneurial lifestyle, you will deal with some tough times. 
 
 **You’ll almost certainly have to push past what I call the “wilderness experience”**—a feeling akin to wandering around in the wilderness alone without direction or much resources to sustain yourself. Every dreamer encounters the wilderness, but the successful ones are those who figured out how to suck it up and persevere. **Their big secret:** learning from their mistakes and never quitting. 
