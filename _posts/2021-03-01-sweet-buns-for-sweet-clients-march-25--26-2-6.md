@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Join Us on March 25 for Cinnamon Buns and More
+title: 'Sweet Buns For Sweet Clients March 25 & 26, 2-6'
 date: 2021-03-01 00:00:00
 tags:
   - Real Estate
@@ -13,7 +13,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/02-22-colemere-youtube.jpg
 youtube_code: VKMA6dcq-ms
 ---
-
 {% include youtube.html %}
 
 <center style="font-size: 18px;"><em>Join us on March 25 or 26 to catch up over some delicious cinnamon buns.</em></center>
