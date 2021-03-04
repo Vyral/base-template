@@ -22,4 +22,4 @@ hidden: false
 
 If you have any questions about the workshop, the scholarship opportunity, or anything else, don’t hesitate to reach out via phone or email today. We would love to hear from you.
 
-###<center style="font-size: 24px;"><u><a target="_blank" rel="noopener" href="https://app.kwkc.org/event/jennie-wolek-03-25-2021">**Register Here!</a></u>**</center>
+###<center><u><a target="_blank" rel="noopener" href="https://app.kwkc.org/event/jennie-wolek-03-25-2021">**Register Here!</a></u>**</center>
