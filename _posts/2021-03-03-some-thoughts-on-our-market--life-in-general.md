@@ -21,11 +21,11 @@ Today I want to talk about the latest from our Albany real estate market and che
 
 First, the market is still super hot. **I’ve been in the business for 30 years, and I’ve never seen it this hot.** We’re getting crazy prices for our sellers and we’re seeing multiple offers. Rates have started to tick up a bit, so remember: A 1% move in rates is a 12% move in terms of buyers’ buying power. A rate move will have an impact on this market, but for now, it’s really strong. I have more buyers than I have homes to sell them. If you’re thinking about selling, it’s a great time to do so. 
 
+{% include pullquote.html %}
+
 If you’re a buyer, it’s a great time to buy too. Despite rising prices, home affordability remains strong, as the overall drop in mortgage rates has made buyers’ monthly payments lower than they were just a few years ago when rates were higher. If you compare the housing cost per month to the median household income in Albany, we’re still in a very affordable market. Whether you’re thinking of buying or selling, give me and my team a call so we can formulate a strategy and maximize your return. 
 
 Second, we’re almost a year into the COVID pandemic, and I’m feeling a level of tension and anxiety in our market that I’ve never seen. **If you’re feeling stressed, it’s important to have an outlet.** I work 10- and 12-hour days, but I still take time to hit the gym, run, go skiing, etc.—anything to clear my mind and do some fresh air therapy. In fact, I have a 48-mile run coming up, which is scaring me a little bit. I typically run 100 miles per month, and I plan on making this 48-mile run in 48 hours. That’s half of my monthly running in just two days, so we’ll see if my old body can handle it. 
-
-{% include pullquote.html %}
 
 If you’re feeling stressed out, I invite you to give me and my team a call as well. We have clients and friends who can help. My phone alone has about 23,000 contacts on it. We’re always here to talk, and in the meantime, don’t let COVID get to you. We’re almost through the other side, so it’s important to stay strong.
 
