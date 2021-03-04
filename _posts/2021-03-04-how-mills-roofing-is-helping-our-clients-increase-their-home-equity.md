@@ -15,7 +15,7 @@ youtube_code: 1pwMsvQoayg
 ---
 {% include youtube.html %}
 
-<center style="font-size: 18px;"><em>EXCERPT.</em></center>
+<center style="font-size: 18px;"><em>Dan Mefford joins to talk about increasing a home’s value through its roof.</em></center>
 
 <br>Today we’re addressing a topic that we’ve been getting asked about a lot. If you want to maintain or increase the value of your home, what are the best improvements you can make?
 
