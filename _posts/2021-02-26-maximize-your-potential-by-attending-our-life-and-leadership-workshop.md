@@ -5,7 +5,7 @@ date: 2021-02-26 00:00:00
 tags:
   - Real Estate
 excerpt: You’re invited to our upcoming workshop and to apply for a scholarship.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jennie+Wolek/Videos/2021/Maximize+Your+Potential+by+Attending+Our+Life+and+Leadership+Workshop!.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
