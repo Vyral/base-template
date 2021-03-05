@@ -31,11 +31,9 @@ client:
   phone2:
   phone2_type:
   email: ron@homebuyersrealty.com
-  url: 'http://www.hbrteam.com'
-
+  url: 'https://sellwithronandeva.com/'
 forms:
   sitekey: 6LdsuywaAAAAAE6FZTw3dye8oMaikHLrzsVXMxQw
-
 emma_form: >-
   <script
   id="e2ma-embed">window.e2ma=window.e2ma||{};e2ma.accountId='1808211';</script><script
