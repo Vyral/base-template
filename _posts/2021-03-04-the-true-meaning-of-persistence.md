@@ -3,10 +3,11 @@ layout: post
 title: The True Meaning of Persistence 
 date: 2021-03-04 00:00:00
 tags: 
-  -Real Estate
+  - Real Estate
 excerpt: In this excerpt of a recent interview, I share the real meaning of persistence. 
-enclosure:
-pullquote: Either tomorrow we win, or tomorrow we die.
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Donald+Payne/2021/The+True+Meaning+of+Persistence.mp4
+pullquote: The successful ones are those who figured out how to suck it up and persevere.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -27,4 +28,6 @@ Real estate can be an absolute grind (trust me, I was grinding it out for years)
 
 My father gave me a book titled “Think and Grow Rich.” In it, there was a story about General George Washington crossing a river to fight the British during the Revolutionary War. Upon reaching the other side of the river, Washington commanded his soldiers to chop up their boats and use them as firewood. Of course, that meant that his army would have no way to retreat from the coming battle. His message was clear: Either tomorrow we win, or tomorrow we die. 
 
-I meditate on that story a lot. In many ways, it describes the attitude I took toward real estate. **Not stubbornness—persistence. Not fearfulness—vision.** I hope you enjoyed this insight into the career I love. As always, if you have any questions or comments about a real estate topic, don’t hesitate to reach out by phone or email. We here at Vision Realty would love to hear from you and help in any way we can. 
+I meditate on that story a lot. In many ways, it describes the attitude I took toward real estate. **Not stubbornness—persistence. Not fearfulness—vision.** I hope you enjoyed this insight into the career I love. 
+
+As always, if you have any questions or comments about a real estate topic, don’t hesitate to reach out by phone or email. We here at Vision Realty would love to hear from you and help in any way we can. 
