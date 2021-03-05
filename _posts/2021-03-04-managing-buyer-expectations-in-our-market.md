@@ -23,7 +23,7 @@ youtube_code: 9AVO-2LHJOk
 
 **2. Our market is defined by high demand and low supply**. You and your real estate agent should understand the market dynamics in your area and price point to have the right expectations.
 
-**3. Aggressive strategies don’t guarantee the deal**. Just because you love the house, offered more asking price, are willing to pay over the appraised value, and are offering many benefits to the seller still doesn’t mean you’ll get that property. Expect to need perseverance throughout the process of buying a home in 2021.
+**3. Aggressive strategies don’t guarantee the deal**. Just because you love the house, offered a higher asking price, are willing to pay over the appraised value, and are offering many benefits to the seller still doesn’t mean you’ll get that property. Expect to need perseverance throughout the process of buying a home in 2021.
 
 {% include pullquote.html %}
 
