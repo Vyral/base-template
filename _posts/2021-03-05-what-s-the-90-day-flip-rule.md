@@ -20,7 +20,7 @@ youtube_code: rrO_6jcT4oc
 
 The 90-day flip rule is something seasoned Realtors often forget about and something new Realtors might not even be aware of. If you are a homebuyer with an FHA loan, this rule means you can’t contract a new property unless you have held title for at least 90 days. 
 
-<b>This often comes into play if you’re purchasing a flipped or rehabbed property, so always check the country records to see exactly when the current owner took title of it.</b.> 
+<b>This often comes into play if you’re purchasing a flipped or rehabbed property, so always check the country records to see exactly when the current owner took title of it.</b>
 
 Let’s say the current owner took title on January 1. The FHA buyer may not contract that property until at least March 2. This protects buyers from having inflated prices on properties.
 
