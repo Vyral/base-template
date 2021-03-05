@@ -11,7 +11,7 @@ permalink: /guaranteed-offer/
 <div class="whitespace">&nbsp;</div>
 
 <div class="col-md-6">
-<img src="/uploads/shutterstock-1361250668.jpg" class="post-image" style="margin-bottom: 20px;" width="5125" height="2883" />
+<img src="/uploads/shutterstock-1361250668.jpg" class="post-image" style="margin-bottom: 20px;">
 
 <p>Would you like an offer on your home?</p>
 
