@@ -2,7 +2,8 @@
 layout: post
 title: "Will My Northwest Montana Home Have Internet?"
 date: 2021-03-04 00:00:00
-tags: Home Buyer Tips
+tags: 
+ - Home Buyer Tips
 excerpt: Here’s what to know about internet connection in northwest Montana.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hollinger/2021/Montana+Real+Estate+_+The+Hollinger+Team_+internet_.mp4
