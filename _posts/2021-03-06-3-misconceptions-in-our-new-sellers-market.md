@@ -8,8 +8,8 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
-youtube_alternate_image:
+use_youtube_image: true
+youtube_alternate_image: /uploads/03-05-mortimer-youtube.jpg
 youtube_code:
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHWRmliYm7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
