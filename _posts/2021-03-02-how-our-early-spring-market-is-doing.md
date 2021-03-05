@@ -10,7 +10,7 @@ pullquote: Nearly all properties are selling within days, if not hours.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/3-2-huebner-yt.jpg
+youtube_alternate_image:
 youtube_code: DqjuOB0C1FY
 ---
 {% include youtube.html %}
