@@ -27,6 +27,6 @@ Thankfully, we have enough options for you to shop, as there is some overlapping
 
 A while back, we went through a rather uncomfortable period of uncertainty. For example, there were a few instances in which a seller would cancel their service upon moving out, a buyer would move in and call to order new service, but the provider would inform that they’re full; that space had just been allocated to someone else. We’re happy to say that those days are behind us now. 
 
-We also realized the need for a second web page that covers questions on things like utilities, surveyors, propane, natural gas, etc. These homeowner resources and services are helpful to anybody who’s moving into the area. You can check out our vendor page [here](https://www.flatheadrealestate.com/utilities-property-services-in-nw-montana/). 
+**We also realized the need for a second web page that covers questions on things like utilities, surveyors, propane, natural gas, etc.** These homeowner resources and services are helpful to anybody who’s moving into the area. You can check out our vendor page [here](https://www.flatheadrealestate.com/utilities-property-services-in-nw-montana/). 
 
 I hope you found today's video to be informative. Please don’t hesitate to reach out by phone or email with any other real estate questions you may have. We’re always here to help! 
