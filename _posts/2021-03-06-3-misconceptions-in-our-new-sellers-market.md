@@ -1,18 +1,18 @@
 ---
 layout: post
 title: 3 Misconceptions in Our New Sellers Market
-date: 2021-03-06 00:52:31
+date: 2021-03-06 00:52:00
 tags:
-excerpt:
+excerpt: Here are three big misconceptions that are cropping up in our seller’s market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image:
 youtube_code:
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RHWRmliYm7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHWRmliYm7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 While it’s true that we’ve shifted into a strong seller’s market for some price ranges, that doesn’t mean you as a seller can take it easy. **You still need to do everything right so that you’re not leaving money on the table.** Sadly, I’m seeing sellers in our area fall prey to these same three misconceptions:&nbsp;
 
