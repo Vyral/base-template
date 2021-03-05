@@ -5,7 +5,7 @@ date: 2021-02-25 00:00:00
 tags:
   - Home Seller Tips
 excerpt: Today I’m sharing three ways to build up the equity in your home faster.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Brian+Canady+and+Tim+Chase/Videos/2021/How+to+Build+Equity+Quicker.mp4
 pullquote: 'The more equity you have, the more cash you get when you sell your home.'
 enclosure_type: video/mp4
 enclosure_time:
