@@ -33,7 +33,7 @@ permalink: /guaranteed-offer/
 <li>Freedom to move on your timeline</li>
 <li>No strangers and Realtors walking through your home</li>
 <li>No risk of two mortgage payments</li>
-</ul></p>
+</ul>
 
 <p>I know companies who will buy your home directly at a fair price. I will negotiate all offers for you so you get the best price and terms.</p>
 
