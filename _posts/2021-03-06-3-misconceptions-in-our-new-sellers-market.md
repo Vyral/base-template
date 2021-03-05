@@ -12,6 +12,8 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RHWRmliYm7I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 While it’s true that we’ve shifted into a strong seller’s market for some price ranges, that doesn’t mean you as a seller can take it easy. **You still need to do everything right so that you’re not leaving money on the table.** Sadly, I’m seeing sellers in our area fall prey to these same three misconceptions:&nbsp;
 
 **Misconception No. 1: That you can just pop your property on the market as is.&nbsp;**
