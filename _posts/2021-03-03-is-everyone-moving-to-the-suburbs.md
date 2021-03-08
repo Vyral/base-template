@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Is Everyone Moving to the Suburbs?
-date: 2021-03-03 09:00:00
+date: 2021-03-08 09:00:00
 tags:
 excerpt: 'You may have heard that everyone is leaving the city, but don’t fret.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Ashley+Carter/Is+Everyone+Moving+to+the+Suburbs_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
