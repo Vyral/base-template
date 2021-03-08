@@ -4,8 +4,8 @@ title: 'Sweet Buns For Sweet Clients March 25 & 26, 2-6'
 date: 2021-03-01 00:00:00
 tags:
   - Real Estate
-excerpt: Join us on March 25 or 26 to catch up over some delicious cinnamon buns.
-enclosure:
+excerpt: Join us on March 25 or 26 to catch up over some delicious cinnamon buns!
+enclosure: https://vyralmarketing.s3.amazonaws.com/Bryan+Colemere/Videos/2021/Sweet+Buns+For+Sweet+Clients+March+25+%26+26%2C+2-6.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
