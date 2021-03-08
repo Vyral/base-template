@@ -22,7 +22,7 @@ youtube_code: MNMlUOMolTo
 
 The problem is that appraisers aren’t looking at the pending or active homes for sale and making their estimations based on those prices, they’re just looking at the sold numbers. **There really aren’t a lot of sold homes to compare because of this limited inventory**.
 
-This weeknd, we listed a house in Manteca and had four offers on the same day. The issue was that when we listed the house at $405,000, we received a $450,000 FHA offer. If this was a viable offer, that would be great—but it wasn’t. There’s no way the house would appraise for $450,000, and **since the buyer is buying FHA with just 3.5% down, we know they don’t have enough to make up the difference in the appraisal**. Oftentimes when the appraisal comes in low, the expectation in this market is that the buyer makes up the difference in cash.
+We recently listed a house in Manteca and had four offers on the same day. The issue was that when we listed the house at $405,000, we received a $450,000 FHA offer. If this was a viable offer, that would be great—but it wasn’t. There’s no way the house would appraise for $450,000, and **since the buyer is buying FHA with just 3.5% down, we know they don’t have enough to make up the difference in the appraisal**. Oftentimes when the appraisal comes in low, the expectation in this market is that the buyer makes up the difference in cash.
 
 {% include pullquote.html %}
 
