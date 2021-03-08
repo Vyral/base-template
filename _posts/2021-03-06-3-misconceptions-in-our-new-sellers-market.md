@@ -35,3 +35,11 @@ Why not test the waters, right? After all, the market is on fire and people are 
 It’s important to price properly from the start, and we have the systems, software, and experience to maximize your home’s exposure and get you the most money from your sale. Don’t fall prey to these common misconceptions; there’s no reason you shouldn’t be able to take advantage of this shifting market.&nbsp;
 
 As always, if you have further questions about this or any other real estate topic, give me a call or send an email. I’d be happy to chat with you. I’m ready to assist with whatever buying, selling, or investing needs you may have, as well. Take care, and I’ll look forward to hearing from you soon.&nbsp;
+
+&nbsp;
+
+If you’ve even been entertaining the idea of selling your home at all this year, I invite you to&nbsp;**follow this link to instantly calculate your home’s value in today’s market based on recent Calgary sales:&nbsp;**
+
+[Enter your address here to find out what your home is currently worth](https://t.e2ma.net/click/me8o9c/ir7tl2i/u8wahi){: target="_blank"}
+
+&nbsp;
