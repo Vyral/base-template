@@ -18,7 +18,7 @@ youtube_code: sqrgQGUM9dc
 
 <p style="text-align: center;"><em>If you’re a frustrated buyer, we understand. We’ll help you win the deal.</em></p>
 
-Today I’m speaking to all you frustrated buyers out in the marketplace. I know some of you have been searching for the right home for a long time, in some cases as many as two years because you’re losing out on multiple-offer situations. I understand that frustration, I’m now working with many of those buyers. 
+Today I’m speaking to all you frustrated buyers out in the marketplace. I know some of you have been searching for the right home for a long time-in some cases, as many as two years-because you’re losing out on multiple-offer situations. I understand that frustration; I’m now working with many of those buyers. 
 
 {% include pullquote.html %}
 
